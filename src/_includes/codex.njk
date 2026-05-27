@@ -1,0 +1,34 @@
+---
+layout: base.njk
+---
+<article class="codex-entry" data-codex-category="{{ category }}">
+  <header class="codex-entry__header">
+    <nav class="codex-breadcrumb" aria-label="Codex location">
+      <ol class="breadcrumb" role="list">
+        <li><a href="/star-rangers/codex/">Codex</a></li>
+        {% if category %}
+        <li aria-current="page">{{ category | title }}</li>
+        {% endif %}
+      </ol>
+    </nav>
+    <h1 class="codex-entry__title">{{ title }}</h1>
+    {% if category %}
+    <p class="codex-entry__category">Category: <strong>{{ category }}</strong></p>
+    {% endif %}
+    {% if tags and tags.length %}
+    <ul class="chapter-tags" aria-label="Tags" role="list">
+      {% for tag in tags %}
+      <li class="chapter-tag">{{ tag }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </header>
+
+  <div class="codex-entry__body">
+    {{ content | safe }}
+  </div>
+
+  <footer class="codex-entry__footer">
+    <a href="/star-rangers/codex/">← Back to Codex</a>
+  </footer>
+</article>

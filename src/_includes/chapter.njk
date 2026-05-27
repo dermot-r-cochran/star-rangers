@@ -1,0 +1,98 @@
+---
+layout: base.njk
+---
+<article class="chapter" data-chapter-id="{{ id }}">
+  <header class="chapter-header">
+    <nav class="chapter-breadcrumb" aria-label="Chapter location">
+      <ol class="breadcrumb" role="list">
+        <li><a href="/star-rangers/seasons/">Seasons</a></li>
+        <li><a href="/star-rangers/seasons/s{{ season | zeroPad }}/">Season {{ season }}</a></li>
+        <li><a href="/star-rangers/seasons/s{{ season | zeroPad }}/e{{ episode | zeroPad }}/">Episode {{ episode }}</a></li>
+        <li aria-current="page">Chapter {{ chapter }}</li>
+      </ol>
+    </nav>
+
+    <div class="chapter-meta">
+      <span class="chapter-label">S{{ season | zeroPad }}E{{ episode | zeroPad }}C{{ chapter | zeroPad }}</span>
+    </div>
+
+    <h1 class="chapter-title">{{ title }}</h1>
+
+    <dl class="chapter-details">
+      {% if timestamp %}
+      <div class="chapter-detail">
+        <dt>Time</dt>
+        <dd>{{ timestamp }}</dd>
+      </div>
+      {% endif %}
+      {% if location %}
+      <div class="chapter-detail">
+        <dt>Location</dt>
+        <dd>{{ location }}</dd>
+      </div>
+      {% endif %}
+    </dl>
+
+    {% if tags and tags.length %}
+    <ul class="chapter-tags" aria-label="Tags" role="list">
+      {% for tag in tags %}
+      <li class="chapter-tag">{{ tag }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </header>
+
+  {% if povs and povs.length %}
+  <div class="pov-controls" role="group" aria-label="Point of view selector">
+    <p class="pov-controls__label">View from:</p>
+    <div class="pov-controls__buttons">
+      <button
+        class="pov-btn pov-btn--all pov-btn--active"
+        data-pov="all"
+        aria-pressed="true"
+        type="button"
+      >All POVs</button>
+      {% for pov in povs %}
+      <button
+        class="pov-btn"
+        data-pov="{{ pov.id }}"
+        aria-pressed="false"
+        type="button"
+      >{{ pov.label }}</button>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="chapter-body">
+    {{ content | safe }}
+  </div>
+
+  {% if canon_facts and canon_facts.length %}
+  <aside class="canon-facts" aria-label="Verified canon facts for this chapter">
+    <h2 class="canon-facts__heading">
+      <button class="canon-facts__toggle" aria-expanded="false" aria-controls="canon-facts-list" type="button">
+        Canon Facts <span aria-hidden="true">▸</span>
+      </button>
+    </h2>
+    <ul class="canon-facts__list" id="canon-facts-list" hidden>
+      {% for fact in canon_facts %}
+      <li>{{ fact }}</li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  <nav class="chapter-pagination" aria-label="Chapter navigation">
+    {% if previousChapter %}
+    <a class="chapter-pagination__prev" href="{{ previousChapter.url }}">
+      ← {{ previousChapter.data.title }}
+    </a>
+    {% endif %}
+    {% if nextChapter %}
+    <a class="chapter-pagination__next" href="{{ nextChapter.url }}">
+      {{ nextChapter.data.title }} →
+    </a>
+    {% endif %}
+  </nav>
+</article>

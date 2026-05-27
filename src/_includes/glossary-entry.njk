@@ -1,0 +1,38 @@
+---
+layout: base.njk
+---
+<article class="glossary-entry" id="{{ id | default(title | lower | replace(' ', '-')) }}">
+  <header class="glossary-entry__header">
+    <nav class="glossary-breadcrumb" aria-label="Glossary location">
+      <ol class="breadcrumb" role="list">
+        <li><a href="/star-rangers/glossary/">Glossary</a></li>
+        <li aria-current="page">{{ title }}</li>
+      </ol>
+    </nav>
+    <h1 class="glossary-entry__term">{{ title }}</h1>
+    {% if category %}
+    <p class="glossary-entry__category">
+      <span class="character-badge">{{ category }}</span>
+    </p>
+    {% endif %}
+  </header>
+
+  <div class="glossary-entry__body">
+    {{ content | safe }}
+  </div>
+
+  {% if related and related.length %}
+  <aside class="glossary-related">
+    <h2 class="glossary-related__heading">Related Terms</h2>
+    <ul class="glossary-related__list" role="list">
+      {% for term in related %}
+      <li><a href="/star-rangers/glossary/{{ term | lower | replace(' ', '-') }}/">{{ term }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  <footer class="glossary-entry__footer">
+    <a href="/star-rangers/glossary/">← Back to Glossary</a>
+  </footer>
+</article>

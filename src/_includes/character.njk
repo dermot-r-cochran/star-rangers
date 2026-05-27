@@ -1,0 +1,52 @@
+---
+layout: base.njk
+---
+<article class="character-entry" data-character-id="{{ id }}">
+  <header class="character-header">
+    <nav class="character-breadcrumb" aria-label="Character location">
+      <ol class="breadcrumb" role="list">
+        <li><a href="/star-rangers/characters/">Characters</a></li>
+        <li aria-current="page">{{ title }}</li>
+      </ol>
+    </nav>
+
+    <div class="character-meta-row">
+      {% if species %}
+      <span class="character-badge">{{ species }}</span>
+      {% endif %}
+      {% if role %}
+      <span class="character-badge character-badge--role">{{ role }}</span>
+      {% endif %}
+      {% if status %}
+      <span class="character-badge character-badge--status character-badge--status-{{ status | lower }}">{{ status }}</span>
+      {% endif %}
+    </div>
+
+    <h1 class="character-name">{{ title }}</h1>
+
+    {% if aliases and aliases.length %}
+    <p class="character-aliases">
+      Also known as:
+      {% for alias in aliases %}
+        <em>{{ alias }}</em>{% if not loop.last %}, {% endif %}
+      {% endfor %}
+    </p>
+    {% endif %}
+
+    {% if tags and tags.length %}
+    <ul class="chapter-tags" aria-label="Tags" role="list">
+      {% for tag in tags %}
+      <li class="chapter-tag">{{ tag }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </header>
+
+  <div class="character-body">
+    {{ content | safe }}
+  </div>
+
+  <footer class="character-footer">
+    <a href="/star-rangers/characters/">← All Characters</a>
+  </footer>
+</article>

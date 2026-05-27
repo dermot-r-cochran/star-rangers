@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ site.language | default('en') }}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="{{ description | default(site.description) }}" />
+  <title>{% if title %}{{ title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="stylesheet" href="/star-rangers/css/main.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header" role="banner">
+    <div class="site-header__inner">
+      <a class="site-logo" href="/star-rangers/">
+        <span class="site-logo__icon" aria-hidden="true">✦</span>
+        <span class="site-logo__text">{{ site.title }}</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <ul class="site-nav__list" role="list">
+          <li><a href="/star-rangers/" {% if page.url == "/star-rangers/" %}aria-current="page"{% endif %}>Home</a></li>
+          <li><a href="/star-rangers/seasons/" {% if "/seasons/" in page.url %}aria-current="page"{% endif %}>Seasons</a></li>
+          <li><a href="/star-rangers/characters/" {% if "/characters/" in page.url %}aria-current="page"{% endif %}>Characters</a></li>
+          <li><a href="/star-rangers/timeline/" {% if "/timeline/" in page.url %}aria-current="page"{% endif %}>Timeline</a></li>
+          <li><a href="/star-rangers/lore/" {% if "/lore/" in page.url %}aria-current="page"{% endif %}>Lore</a></li>
+          <li><a href="/star-rangers/glossary/" {% if "/glossary/" in page.url %}aria-current="page"{% endif %}>Glossary</a></li>
+          <li><a href="/star-rangers/codex/" {% if "/codex/" in page.url %}aria-current="page"{% endif %}>Codex</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="main-content">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="site-footer__inner">
+      <p>
+        <span>{{ site.title }}</span> — Interactive Fiction.
+        Content licensed under
+        <a href="https://github.com/dermot-cochran-ul/star-rangers/blob/main/LICENSE" rel="license">the project licence</a>.
+      </p>
+    </div>
+  </footer>
+
+  <script src="/star-rangers/js/pov.js" defer></script>
+</body>
+</html>
