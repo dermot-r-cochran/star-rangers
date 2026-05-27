@@ -3,18 +3,19 @@ layout: glossary-entry.njk
 title: "Levril"
 id: levril
 category: "Cosmic Cascade"
-short: "The lowest named tier of the Cosmic Cascade; commonly called dragons. Powerful, bounded, long-lived. May mentor in constraint literacy."
+short: "Low-ranking draconic tier below Celestials and above Champions/Heroes (Heros); powerful, bounded, and lawful."
 related:
-  - "Cosmic Cascade"
+  - "Celestials"
+  - "Champions / Heroes (Heros)"
   - "Constraint Literacy"
-  - "Telerarch"
+  - "Concordant"
 tags: [levril, dragon, cascade, boundary]
 ---
 
-**Levril** is the formal name for the entities commonly called dragons and their kin. They are the lowest named tier of the Cosmic Cascade — lower than Telerarchs and Frenar, but still more causally authoritative at their tier than any purely Material-layer entity.
+**Levril** (pronounced: **LEV-ril**) is the formal term for dragons and dragon-kin in the Cosmic Cascade.
 
-Levrils are powerful and long-lived. They are bounded: they operate under constraints they cannot override, even though those constraints are at a higher tier than anything a Material-layer being could access.
+Levrils are below Celestials (Frenar) and above Champions/Heroes (Heros) in named agency order.
 
-**Meta-dragons** are a subset of Levrils that exist across boundary mismatches — they span more than one Concordant, paying a coherence cost for this.
+They are causally powerful but strictly bounded by Concordant law and higher-tier constraints.
 
-Levrils may choose to mentor mortals in [constraint literacy](/star-rangers/glossary/constraint-literacy/). This is the closest thing to "teaching magic" that occurs in the Star Rangers universe, and it is emphatically not magic.
+Levrils may mentor constraint literacy but cannot authorize rule-breaking or magical exemptions.

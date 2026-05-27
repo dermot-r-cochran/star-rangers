@@ -2,51 +2,141 @@
 layout: lore-entry.njk
 title: "The Cosmic Cascade"
 category: "Cosmology"
-tags: [cosmology, cascade, hierarchy, metawrights, worldwrights, concordants, telerarchs, levrils]
-description: "The strict hierarchy of causal authority in the Star Rangers universe, from Hyperomnium to Levrils."
+tags: [cosmology, cascade, hierarchy, hyperomnium, concordant, celestials, levrils, champions]
+description: "The strict hierarchy of causal authority in the Star Rangers universe, from Hyperomnium to Champions/Heroes (Heros)."
 ---
 
-The Cosmic Cascade is the strict ordering of causal authority in the Star Rangers universe. It flows in one direction only and cannot be violated. Lower tiers may not countermand higher tiers; higher tiers are not characters and do not intervene.
+The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers universe. It is ontological, not political. Causality resolves from higher tier to lower tier and does not reverse.
 
-**Cascade order (strict):**
+> Hyperomnium → Kieme → Conseleme → Metawright → Formwright → Archewright → Worldwright → Concordant / Concordance → High Celestials → Celestials (Frenar) → Levrils → Champions / Heroes (Heros)
 
-> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Concordants → Telerarchs → Frenar → Levrils
+## Global Invariants
 
-## What the Cascade Governs
+- No moral cosmology: the Cascade does not encode virtue, sin, reward, or punishment.
+- No magic: all effects are lawful outcomes of higher-dimensional physics, universe overlap/folding, and archetypal interference.
+- Dragons are low-ranking Levrils.
+- Only primary universes possess Worldwrights.
+- Concordance is the plural form of Concordant.
 
-The Cascade is not a political hierarchy — it is a description of *ontological priority*. When two forces interact and one must give way, the lower-tier force gives way to the higher-tier force, always.
+## Upper Structure (Hyperomnium, Kieme, Conseleme)
 
-This has practical consequences for story events:
-- A Telerarch-level enforcement action will persist regardless of how many Worldwright-level countermeasures are applied.
-- A Concordant boundary will override the physical laws of any Material-layer civilization within it.
-- Levrils (the lowest named tier) are still more causally authoritative than any purely Material-layer entity.
+### Definition
+Non-anthropomorphic origin tiers that establish existence conditions.
 
-## The Upper Cascade (Hyperomnium through Conseleme)
+### Mechanism
+They set nonlocal constraints that downstream tiers must satisfy.
 
-These three tiers are effectively beyond the story's direct observation. They are the equivalent of the Spiritual and Conceptual layers: they do not speak, choose, or intervene. Their effects are felt only as the deep structure within which all else happens.
+### Constraints
+- No direct dialogue with time-bound entities.
+- No selective intervention.
 
-Any in-universe character who claims to have communicated with the Hyperomnium is misidentifying something else.
+### Observable Effects on Time-Bound Entities
+- Stable, repeatable deep-law behavior.
+- Persistent misattribution as "divine will" by low-context observers.
 
-## Metawrights through Archewrights
+## Design Structure (Metawright, Formwright, Archewright)
 
-The design layer. Metawrights shape the possible forms of existence. Formwrights instantiate those forms into Etheric templates. Archewrights maintain the archetypal integrity of those templates.
+### Definition
+Design tiers that define possible forms, instantiate lawful templates, and maintain archetypal integrity.
 
-Archetype bleed-through — when an archetypal pattern from the Etheric layer begins expressing too strongly through a Material-layer entity — is an Archewright-level event being misread at the Material level.
+### Mechanism
+Archetypal patterns are expressed into Etheric rule templates, then manifested as physical admissibility windows.
 
-## Worldwrights and Concordants
+### Constraints
+- Cannot violate upper-structure constraints.
+- Do not suspend causality for narrative convenience.
 
-Worldwrights are the tier that produces distinct zones of reality with internally consistent rules. A Concordant is the result: a bounded region with its own coherent physics and Etheric conditions.
+### Observable Effects on Time-Bound Entities
+- Archetypal interference events during high-coherence stress.
+- Recurring pattern classes across distinct civilizations.
 
-The boundary anomalies at Threshold Station and the Marsh Causeway occur at the edges of two adjacent Concordants. The boundary between them is the site of the story's main events.
+## Worldwright and Concordant / Concordance
 
-## Telerarchs
+### Definition
+Worldwright establishes primary-universe coherence zones called Concordants; Concordance is the plural.
 
-Telerarchs are the enforcement layer: they maintain the integrity of Concordant boundaries and ensure that Worldwright-level rules are not violated without consequence. They are not gods, but they are sometimes *mistaken* for gods — especially in civilizations that have experienced Telerarch-level enforcement of a rule they did not know existed.
+### Mechanism
+A Concordant enforces a bounded physics+Etheric rule set with measurable edge behavior.
 
-The "divine punishment" motif in many in-universe religions is almost always a misclassification of Telerarch-level enforcement.
+### Constraints
+- Worldwright authority exists only in primary universes.
+- Adjacent Concordants can differ; boundary zones cannot be made globally uniform by local technology.
 
-## Frenar and Levrils
+### Observable Effects on Time-Bound Entities
+- Instrument disagreement without device failure.
+- Timebase mismatch across short spatial baselines in boundary environments.
 
-The operational tiers. Frenar are boundary-adjacent entities — they exist at the edges of Concordants and have partial access to both the Concordant structure and the Telerarch-level rule set. Levrils (dragons and their kin) are the most directly observable tier of the Cascade.
+## High Celestials
 
-Levrils may mentor mortals in "constraint literacy" — helping them understand the rules of the layer they inhabit — but they do not teach "magic." What they teach is the ability to read the Etheric structures that the physical world is expressing and to work *with* those structures rather than against them.
+### Definition
+Supervisory agency tier for cross-Concordant continuity and enforcement delegation.
+
+### Mechanism
+High Celestials allocate enforcement scope and continuity budgets across multiple Concordants.
+
+### Constraints
+- Do not bypass Concordant law.
+- Must preserve continuity over local preference outcomes.
+
+### Observable Effects on Time-Bound Entities
+- Multi-site synchronization of seemingly unrelated anomalies.
+- Delayed but consistent correction of illegal cross-boundary manipulations.
+
+## Celestials (Frenar)
+
+### Definition
+Operational enforcement tier below High Celestials. Frenar is a legacy designation for this same tier.
+
+### Mechanism
+Celestials execute rule-integrity actions at boundary and overlap interfaces.
+
+### Constraints
+- Cannot revise hierarchy order.
+- Cannot nullify High Celestial directives.
+
+### Observable Effects on Time-Bound Entities
+- Localized enforcement signatures at boundary edges.
+- Events interpreted as supernatural punishment by non-technical observers.
+
+## Levrils
+
+### Definition
+Low-ranking but causally authoritative draconic tier.
+
+### Mechanism
+Levrils interact through constrained, lawful influence channels and can mentor constraint literacy.
+
+### Constraints
+- No Concordant rewrites.
+- No moral adjudication authority.
+
+### Observable Effects on Time-Bound Entities
+- Coherence-preserving intervention at operational scales.
+- Frequent mythic overstatement of actual capability.
+
+## Champions / Heroes (Heros)
+
+### Definition
+The lowest named agency tier, materially embedded actors with elevated continuity relevance.
+
+### Mechanism
+Champions/Heroes (Heros) express Cascade-compatible action under local constraints.
+
+### Constraints
+- No authority to override Levril-tier or above.
+- Outcomes remain bounded by Concordant law.
+
+### Observable Effects on Time-Bound Entities
+- High-impact local events without hierarchy violation.
+- Misclassification as "chosen by fate" instead of constrained agency.
+
+## Edge-Case Interpretation Rules
+
+### Partial Observation
+When observers have incomplete layer visibility, they infer agency where only constraint propagation exists.
+
+### Boundary Confusion
+Cross-Concordant readings can produce contradictory reports that are simultaneously local-correct.
+
+### Misclassification Control
+Use mechanism-level diagnostics first; avoid moral, theological, or magical explanations.

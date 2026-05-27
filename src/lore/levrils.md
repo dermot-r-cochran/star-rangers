@@ -2,30 +2,38 @@
 layout: lore-entry.njk
 title: "Levrils: Dragons and Constraint Literacy"
 category: "Entities"
-tags: [levrils, dragons, meta-dragons, constraint-literacy, boundary, coherence]
-description: "Levrils (dragons and their kin) are the lowest named tier of the Cosmic Cascade — powerful, bounded, and sometimes willing to teach."
+tags: [levrils, dragons, constraint-literacy, cascade, celestials]
+description: "Levrils are low-ranking but causally authoritative draconic entities that operate under strict cascade constraints."
 ---
 
-Levrils are the lowest named tier of the Cosmic Cascade, but "lowest" is relative: they are still more causally authoritative at their tier than any purely Material-layer entity. They are often called dragons, though that word flattens a great deal of variation.
+Levrils are dragons and dragon-kin at a low-ranking agency tier in the Cosmic Cascade. They are below Celestials (Frenar) and above Champions/Heroes (Heros) in operational authority.
 
-## Properties
+## Functional Role
 
-- **Powerful but bounded:** Levrils have significant authority within their tier, but they operate under constraints they cannot override. A Levril cannot rewrite Concordant-level rules any more than a human can rewrite physics.
-- **Long-lived:** Individual Levrils may be ancient by any Material-layer standard.
-- **Not anthropomorphic in their concerns:** They do not think on human timescales or prioritise human-scale events. Their attention is significant.
+- Local coherence preservation under Concordant law.
+- Limited mentorship in constraint literacy.
+- Boundary-aware advisory intervention where permitted.
 
-## Meta-Dragons
+## Operational Constraints
 
-A subset of Levrils — called meta-dragons — exist across boundary mismatches: they occupy positions in the Cascade that span more than one Concordant. They pay **coherence costs** for this: maintaining coherent identity across a boundary discrepancy requires continuous effort. Meta-dragons are typically older, stranger, and more constrained than ordinary Levrils.
+- Levrils cannot rewrite Concordant rules.
+- Levrils cannot bypass Celestial or High Celestial directives.
+- Levrils do not adjudicate morality and do not authorize magic claims.
 
-## Constraint Literacy
+## Interaction with Physical Universes
 
-Levrils occasionally choose to mentor mortal beings in what is called **constraint literacy**: the ability to read the Etheric structures that the physical world is expressing, and to understand the rules of the layer one inhabits rather than simply being subject to them.
+- Levrils can influence outcomes only through lawful, constrained channels.
+- Cross-boundary operation increases coherence cost and reduces intervention bandwidth.
+- Primary-universe rule structures remain binding at all times.
 
-This is not magic. Constraint literacy does not give a practitioner the ability to override the rules. It gives them the ability to work with the rules — to understand which attempts will be coherent with the Etheric structure and which will fail, and why.
+## Observable Effects on Time-Bound Entities
 
-Elvira's boundary practice is a self-taught version of constraint literacy. She has arrived at the correct vocabulary largely by necessity.
+- High-salience interventions during local instability events.
+- Improved survival outcomes when actors follow constraint-literate guidance.
+- Misinterpretation as omnipotent or mythic entities despite strict limits.
 
-## Relationship to the Story
+## Common Misinterpretations by Time-Bound Species
 
-No Levril has appeared directly in the story as of Season 1. Rook-7's sensor arrays may be able to detect Levril-tier Cascade activity; this has not been confirmed.
+- "Dragons can override physics." (False: they operate inside physics+Etheric constraints.)
+- "Levrils are moral judges." (False: enforcement tiers are structural, not moral.)
+- "Levrils and Celestials are interchangeable." (False: Celestials/Frenar are a higher enforcement tier.)
