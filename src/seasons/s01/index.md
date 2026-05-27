@@ -16,15 +16,16 @@ permalink: /star-rangers/seasons/s01/
   Browse all available episodes in Season 1.
 </p>
 
-{% set seasonNumber = 1 %}
+{% set seasonNumber = "1" %}
 {% set hasSeasonChapters = false %}
-{% set currentEpisode = 0 %}
+{% set currentEpisode = "" %}
 {% for chapter in collections.chapters %}
-  {% if chapter.data.season == seasonNumber %}
+  {% if (chapter.data.season ~ "") == seasonNumber %}
     {% if not hasSeasonChapters %}{% set hasSeasonChapters = true %}{% endif %}
-    {% if chapter.data.episode != currentEpisode %}
-      {% if currentEpisode > 0 %}</ul></div>{% endif %}
-      {% set currentEpisode = chapter.data.episode %}
+    {% set episodeValue = chapter.data.episode ~ "" %}
+    {% if episodeValue != currentEpisode %}
+      {% if currentEpisode %}</ul></div>{% endif %}
+      {% set currentEpisode = episodeValue %}
       <div class="season-block">
         <h2 class="season-block__title">
           <a href="/star-rangers/seasons/s01/e{{ chapter.data.episode | zeroPad }}/">Episode {{ chapter.data.episode }}</a>

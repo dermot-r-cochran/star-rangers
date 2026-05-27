@@ -17,12 +17,12 @@ permalink: /star-rangers/seasons/s01/e02/
   Read every chapter currently published for this episode.
 </p>
 
-{% set seasonNumber = 1 %}
-{% set episodeNumber = 2 %}
+{% set seasonNumber = "1" %}
+{% set episodeNumber = "2" %}
 {% set hasEpisodeChapters = false %}
 <ul class="chapter-list" role="list">
 {% for chapter in collections.chapters %}
-  {% if chapter.data.season == seasonNumber and chapter.data.episode == episodeNumber %}
+  {% if (chapter.data.season ~ "") == seasonNumber and (chapter.data.episode ~ "") == episodeNumber %}
     {% if not hasEpisodeChapters %}{% set hasEpisodeChapters = true %}{% endif %}
     <li class="chapter-list__item">
       <a href="{{ chapter.url }}">
