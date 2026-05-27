@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Season 1 — Episode 2"
+title: "Episode 2"
 description: "Chapters in Season 1, Episode 2 of Star Rangers."
 permalink: /star-rangers/seasons/s01/e02/
 ---
