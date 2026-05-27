@@ -3,16 +3,19 @@ layout: glossary-entry.njk
 title: "Concordant"
 id: concordant
 category: "Cosmology"
-short: "A bounded region of reality with internally consistent physical laws and Etheric conditions, produced by Worldwright-tier activity."
+short: "A bounded region of reality with internally consistent physical and Etheric rules; Concordance is the plural form."
 related:
   - "Boundary Zone"
-  - "Telerarch"
   - "Worldwright"
-tags: [concordant, cosmology, boundary]
+  - "Celestials"
+  - "Universe Overlap"
+tags: [concordant, concordance, cosmology, boundary]
 ---
 
-A **Concordant** is a bounded region of reality with internally consistent physical laws and Etheric conditions. Concordants are the direct product of Worldwright-tier activity in the Cosmic Cascade: each Concordant is, in effect, a coherent zone of reality with its own rules.
+**Concordant** (pronounced: **KON-kor-dant**) is a bounded region of reality with internally consistent physical and Etheric conditions.
 
-The rules of a Concordant are not arbitrary — they are expressions of the Etheric template established by Formwrights and maintained by Archewrights. But two adjacent Concordants may have different templates, and where they meet, neither set of rules applies cleanly.
+**Concordance** is the plural form of Concordant in canonical usage.
 
-There is no magic within any Concordant. There are the rules of that Concordant, and there are the consequences of those rules.
+Concordants are produced under Worldwright authority in primary universes and maintained through higher-tier continuity governance.
+
+Adjacent Concordants can meet at boundary zones while retaining distinct local constraints.

@@ -2,13 +2,13 @@
 layout: lore-entry.njk
 title: "The Cosmic Cascade"
 category: "Cosmology"
-tags: [cosmology, cascade, hierarchy, hyper-omnium, concordant, celestials, levrils, champions]
-description: "The strict hierarchy of causal authority in the Star Rangers universe, from Hyper-Omnium to Champions/Heros."
+tags: [cosmology, cascade, hierarchy, hyperomnium, concordant, celestials, levrils, champions]
+description: "The strict hierarchy of causal authority in the Star Rangers universe, from Hyperomnium to Champions/Heroes (Heros)."
 ---
 
 The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers universe. It is ontological, not political. Causality resolves from higher tier to lower tier and does not reverse.
 
-> Hyper-Omnium → Kieme → Conseleme → Metawright → Formwright → Archewright → Worldwright → Concordant / Concordance → High Celestials → Celestials (Frenar) → Levrils → Champions / Heros
+> Hyperomnium → Kieme → Conseleme → Metawright → Formwright → Archewright → Worldwright → Concordant / Concordance → High Celestials → Celestials (Frenar) → Levrils → Champions / Heroes (Heros)
 
 ## Global Invariants
 
@@ -18,7 +18,7 @@ The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers
 - Only primary universes possess Worldwrights.
 - Concordance is the plural form of Concordant.
 
-## Upper Structure (Hyper-Omnium, Kieme, Conseleme)
+## Upper Structure (Hyperomnium, Kieme, Conseleme)
 
 ### Definition
 Non-anthropomorphic origin tiers that establish existence conditions.
@@ -114,13 +114,13 @@ Levrils interact through constrained, lawful influence channels and can mentor c
 - Coherence-preserving intervention at operational scales.
 - Frequent mythic overstatement of actual capability.
 
-## Champions / Heros
+## Champions / Heroes (Heros)
 
 ### Definition
 The lowest named agency tier, materially embedded actors with elevated continuity relevance.
 
 ### Mechanism
-Champions/Heros express Cascade-compatible action under local constraints.
+Champions/Heroes (Heros) express Cascade-compatible action under local constraints.
 
 ### Constraints
 - No authority to override Levril-tier or above.
