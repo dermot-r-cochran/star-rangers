@@ -18,8 +18,8 @@ The local fictional universe superficially mimics real-world physics at the Mate
 - Information is purely physical — quantum and thermodynamic only.
 
 ### Local Fictional Universe
-- Physical constants are selected by Cosmic Weavers to produce stable, fertile Concordants.
-- Celestial Overseers and Levrils perform ongoing maintenance at the Etheric and Conceptual layers.
+- Physical constants are selected by Worldwrights to produce stable, fertile Concordants.
+- Telearchs and Levrils perform ongoing maintenance at the Etheric and Conceptual layers.
 - Three parallel information channels exist: quantum, thermodynamic, and conceptual.
 - Events near boundary zones or anomalies are subject to meaning-field resonance.
 
@@ -37,7 +37,7 @@ Physical constants are engineered, not accidental. Some events carry a faint Eth
 ### Local Fictional Universe
 - Causality is stable by design.
 - Levrils can sculpt probability gradients without altering outcomes directly.
-- Secondary-universe overlap produces localized causal tension — measurable as future-probability stress by trained Champions such as Asteria.
+- Secondary-universe overlap produces localised causal tension — measurable as future-probability stress by trained Champions such as Galahad Thorne or Rook-7.
 - No time travel. Causality can flex marginally but never break.
 
 ### Key Difference
@@ -58,7 +58,7 @@ Probability operates across three layers:
 2. **Macro-probability fields** — emergent statistical gradients.
 3. **Meaning-field overlays** — partially readable and minutely adjustable by Levrils.
 
-Tiny probability corrections — such as a drone correcting course by four centimetres — are lawful Etheric-to-Physical transfers, not magic.
+Tiny probability corrections — such as Rook-7 adjusting a sensor sweep angle by a fraction of a degree — are lawful Etheric-to-Physical transfers, not magic.
 
 ### Key Difference
 Randomness is real but carries a faint Etheric texture that can be sculpted within strict bounds.
@@ -72,18 +72,18 @@ Randomness is real but carries a faint Etheric texture that can be sculpted with
 - Extra dimensions are hypothetical and unmeasurable in daily life.
 
 ### Local Fictional Universe
-- Primary universes (Concordants) float within an Ensemble.
-- Intersections with other Concordants produce secondary universes.
+- Primary universes are created by Worldwrights and contain Concordants.
+- Secondary and subsequent universes are derived from primary ones through overlap and folding processes.
 - Overlaps manifest as:
   - Conceptual turbulence.
-  - "Thin places" and anomalies.
-  - Shadow and predatory entities.
+  - "Thin places" and anomalies such as the Threshold Station boundary discrepancy.
+  - Shadow and predatory entities such as the Court-Fae at the Marsh Causeway.
   - Ecological and biological influence at the Material layer.
 - Gravity and spacetime distort predictably near overlap boundaries.
-- Asteria's training specifically develops sensitivity to this dimensional tension.
+- Syra's coherence-reading and Rook-7's sensor arrays both detect this dimensional tension.
 
 ### Key Difference
-The local universe is one of many, in constant contact with its neighbours. Higher-dimensional space is inhabited and functional.
+The local universe is one of many in the Cascade structure, in constant contact with derived universes at boundary zones.
 
 ---
 
@@ -96,8 +96,8 @@ The local universe is one of many, in constant contact with its neighbours. High
 ### Local Fictional Universe
 - Entropy still increases, but several mechanisms slow and soften its progression:
   - Levrils conduct periodic conceptual maintenance sweeps.
-  - Overseers prevent catastrophic entropy spirals at the Etheric layer.
-  - Secondary universes absorb conceptual excess.
+  - Telearchs prevent catastrophic entropy spirals at the Etheric layer.
+  - Derived universes absorb conceptual excess from primary ones.
   - Meaning-fields act as a temporary entropy buffer.
 - Concordants eventually decay, but more slowly and less chaotically than an unmanaged universe.
 
@@ -114,11 +114,11 @@ Entropy is real and inevitable, but actively stabilised. Catastrophic collapse r
 - No metaphysical influence on DNA, instinct, or consciousness.
 
 ### Local Fictional Universe
-- Carbon-based life still dominates, because Cosmic Weavers optimise Concordants for chemical stability.
+- Carbon-based life still dominates, because Worldwrights optimise Concordants for chemical stability.
 - Evolution follows physical law, but meaning-fields exert subtle Material-layer pressure on:
   - Intuition and dreaming states.
   - Archetypal fears and pattern recognition.
-  - Instinctive responses to conceptual turbulence in animals (e.g. Barisk and Bubochka).
+  - Instinctive responses to conceptual turbulence — for example, Aldera's acute detection of the Court-Fae feeding signature at the Marsh Causeway.
 
 ### Key Difference
 Life evolves normally but is not entirely isolated from Etheric-layer influence. Biological systems can register meaning-field disturbance without being consciously aware of it.
@@ -141,7 +141,7 @@ Three information channels operate in parallel:
 | Quantum | Physical | Identical to real-universe quantum information |
 | Conceptual | Conceptual / Etheric | Meaning pressure; cross-Concordant resonance; Levril-readable |
 
-Emotional intensity produces conceptual information vibration, used by Overseers for universe diagnostics. Asteria's training grants her limited read access to this third channel.
+Emotional intensity produces conceptual information vibration, used by Telearchs for universe diagnostics. Constraint-literate practitioners like Elvira approximate read access to this third channel through trained observational methods.
 
 ### Key Difference
 Information has a third metaphysical channel. It cannot be detected with standard instruments but produces measurable correlates in Etheric-layer observables.
@@ -159,7 +159,7 @@ Information has a third metaphysical channel. It cannot be detected with standar
 - Levril intervention occurs only when an event risks:
   - Concordant-level structural collapse.
   - A premature Cascade-hierarchy ending.
-  - A violation of Archonic law.
+  - A violation of Celestial or Telearc enforcement law.
 - Tragedies below that threshold proceed without supernatural rescue.
 
 ### Key Difference
@@ -177,13 +177,13 @@ Catastrophic collapse of the Concordant itself is preventable. Everything short 
 Consciousness is emergent **plus**:
 - A baseline sensitivity to meaning-fields.
 - Emotional states that produce measurable conceptual resonance.
-- In rare individuals (Asteria, Lucy-Anne, Champions), active perception of Etheric turbulence.
-- In certain AIs (Lucy-Anne), conceptual overlap inherited from initialization conditions.
+- In constraint-literate individuals (Elvira, Syra, Champions chosen by Levrils), active perception of Etheric turbulence.
+- In certain artificial beings (Rook-7), conceptual sensitivity derived from non-standard sensor initialisation.
 
 Consciousness does not transcend the Five Layers. It is a Material-layer process with a lawful Etheric coupling.
 
 ### Key Difference
-Sentient minds are not purely physical. They interact with conceptual layers through lawful cross-layer coupling, not magic.
+Sentient minds — organic or artificial — are not purely physical. They interact with conceptual layers through lawful cross-layer coupling, not magic.
 
 ---
 
@@ -195,12 +195,12 @@ Sentient minds are not purely physical. They interact with conceptual layers thr
 
 ### Local Fictional Universe
 - Higher dimensions are real, inhabited, and causally active.
-- Residents include Archangels, Cosmic Weavers, Celestial Overseers, and Levrils.
+- The Cascade hierarchy — Worldwrights, Telearchs, Celestials, Levrils — operates across dimensional tiers above the Material layer.
 - Higher-dimensional entities interact with Concordants by:
   - Adjusting probability fields.
   - Shaping conceptual information gradients.
   - Stabilising boundary-zone overlaps.
-- Mortals cannot perceive higher dimensions directly except through anomaly signatures.
+- Mortals cannot perceive higher dimensions directly except through anomaly signatures such as instrument drift and Etheric boundary effects at Threshold Station.
 
 ### Key Difference
 Higher-dimensional space is not hypothetical. It is populated, hierarchical, and operationally engaged with the Material layer at all times.
@@ -211,10 +211,10 @@ Higher-dimensional space is not hypothetical. It is populated, hierarchical, and
 
 | Domain | Real Universe | Local Fictional Universe |
 |---|---|---|
-| Physical constants | Accidental | Engineered |
+| Physical constants | Accidental | Engineered by Worldwrights |
 | Causality | Strict | Maintained; marginally flexible |
 | Quantum randomness | Fundamental | Real but Etheric-textured |
-| Dimensional topology | Single continuum | Ensemble of overlapping Concordants |
+| Dimensional topology | Single continuum | Primary universes with derived secondaries |
 | Entropy | Unmanaged | Actively stabilised |
 | Biology | Purely physical | Etheric-influenced at the margin |
 | Information | Two channels | Three channels |
