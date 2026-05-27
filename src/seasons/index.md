@@ -2,6 +2,7 @@
 layout: base.njk
 title: "Seasons"
 description: "All seasons and episodes of Star Rangers."
+permalink: /star-rangers/seasons/
 ---
 <h1 class="page-title">Seasons &amp; Episodes</h1>
 <p class="page-intro">
@@ -16,7 +17,9 @@ description: "All seasons and episodes of Star Rangers."
       {% if currentSeason > 0 %}</ul></div>{% endif %}
       {% set currentSeason = chapter.data.season %}
       <div class="season-block">
-        <h2 class="season-block__title">Season {{ currentSeason }}</h2>
+        <h2 class="season-block__title">
+          <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
+        </h2>
         <ul class="chapter-list" role="list">
     {% endif %}
           <li class="chapter-list__item">
