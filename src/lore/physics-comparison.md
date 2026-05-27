@@ -1,23 +1,23 @@
 ---
 layout: lore-entry.njk
-title: "Physics Comparison: Real Universe vs. The Local Fictional Universe"
+title: "Physics Comparison: Real Cosmos vs. The Fictional Cosmos"
 category: "Cosmology"
 tags: [cosmology, physics, meaning-field, probability, entropy, consciousness, dimensional-topology, causality, information-theory, five-layers]
-description: "A structured hard-SF comparison of real-world physics against the layered physics of the Star Rangers fictional local universe, grounded in the Five Layers and Cosmic Cascade hierarchy."
+description: "A structured hard-SF comparison of real-world physics against the layered physics of the Star Rangers fictional cosmos, grounded in the Five Layers and the full Cosmic Cascade hierarchy from Hyperomnium to Champions."
 ---
 
-The local fictional universe superficially mimics real-world physics at the Material and Physical layers. The differences emerge from the Etheric layer upward — conceptual fields, multiversal overlaps, and ongoing cosmic maintenance produce a richer and occasionally perceivable physics.
+The fictional cosmos superficially mimics real-world physics at the Material and Physical layers within any given Concordant. The differences emerge from the Etheric layer upward — conceptual fields, multiversal overlaps, ongoing cosmic maintenance, and a populated hierarchy extending to non-anthropomorphic origin tiers produce a richer and structurally deeper physics than the real cosmos possesses at any scale.
 
 ---
 
 ## 1. Foundational Laws
 
-### Real Universe
+### Real Cosmos
 - Governed by unaltered physical constants with no external supervision.
 - No higher-dimensional entities maintain stability.
 - Information is purely physical — quantum and thermodynamic only.
 
-### Local Fictional Universe
+### Fictional Cosmos
 - Physical constants are selected by Worldwrights to produce stable, fertile Concordants.
 - Telearchs and Levrils perform ongoing maintenance at the Etheric and Conceptual layers.
 - Three parallel information channels exist: quantum, thermodynamic, and conceptual.
@@ -30,11 +30,11 @@ Physical constants are engineered, not accidental. Some events carry a faint Eth
 
 ## 2. Causality
 
-### Real Universe
+### Real Cosmos
 - Strictly forward in time.
 - Randomness is irreducible; no retrocausal influence is possible.
 
-### Local Fictional Universe
+### Fictional Cosmos
 - Causality is stable by design.
 - Levrils can sculpt probability gradients without altering outcomes directly.
 - Secondary-universe overlap produces localised causal tension — measurable as future-probability stress by trained Champions such as Galahad Thorne or Rook-7.
@@ -47,11 +47,11 @@ Causal structure is maintained rather than emergent. Flexion exists; violation d
 
 ## 3. Probability and Quantum Behavior
 
-### Real Universe
+### Real Cosmos
 - Quantum randomness is fundamental and uninfluenced.
 - No layer above the physical modifies quantum outcomes.
 
-### Local Fictional Universe
+### Fictional Cosmos
 Probability operates across three layers:
 
 1. **Quantum randomness** — identical to the real universe at base.
@@ -67,11 +67,11 @@ Randomness is real but carries a faint Etheric texture that can be sculpted with
 
 ## 4. Dimensional Topology
 
-### Real Universe
+### Real Cosmos
 - One spacetime continuum.
 - Extra dimensions are hypothetical and unmeasurable in daily life.
 
-### Local Fictional Universe
+### Fictional Cosmos
 - Primary universes are created by Worldwrights and contain Concordants.
 - Secondary and subsequent universes are derived from primary ones through overlap and folding processes.
 - Overlaps manifest as:
@@ -83,17 +83,17 @@ Randomness is real but carries a faint Etheric texture that can be sculpted with
 - Syra's coherence-reading and Rook-7's sensor arrays both detect this dimensional tension.
 
 ### Key Difference
-The local universe is one of many in the Cascade structure, in constant contact with derived universes at boundary zones.
+Any given Concordant is one coherence zone among many in the Cascade structure, in constant contact with derived universes at boundary zones. The fictional cosmos as a whole spans all Concordants, all derived universes, and the full Cascade hierarchy above them.
 
 ---
 
 ## 5. Energy and Entropy
 
-### Real Universe
+### Real Cosmos
 - Entropy increases monotonically. No external regulation exists.
 - Heat death is the long-term terminal state.
 
-### Local Fictional Universe
+### Fictional Cosmos
 - Entropy still increases, but several mechanisms slow and soften its progression:
   - Levrils conduct periodic conceptual maintenance sweeps.
   - Telearchs prevent catastrophic entropy spirals at the Etheric layer.
@@ -108,12 +108,12 @@ Entropy is real and inevitable, but actively stabilised. Catastrophic collapse r
 
 ## 6. Matter and Biology
 
-### Real Universe
+### Real Cosmos
 - Carbon-based life arises from unguided chemistry.
 - Evolution is entirely physical.
 - No metaphysical influence on DNA, instinct, or consciousness.
 
-### Local Fictional Universe
+### Fictional Cosmos
 - Carbon-based life still dominates, because Worldwrights optimise Concordants for chemical stability.
 - Evolution follows physical law, but meaning-fields exert subtle Material-layer pressure on:
   - Intuition and dreaming states.
@@ -127,12 +127,12 @@ Life evolves normally but is not entirely isolated from Etheric-layer influence.
 
 ## 7. Information Theory
 
-### Real Universe
+### Real Cosmos
 - Information = physical state changes.
 - Entangled information cannot be destroyed.
 - No metaphysical information channels exist.
 
-### Local Fictional Universe
+### Fictional Cosmos
 Three information channels operate in parallel:
 
 | Channel | Layer | Properties |
@@ -150,11 +150,11 @@ Information has a third metaphysical channel. It cannot be detected with standar
 
 ## 8. Natural Disasters
 
-### Real Universe
+### Real Cosmos
 - Disasters follow physical law without exception.
 - No external intervention is possible.
 
-### Local Fictional Universe
+### Fictional Cosmos
 - Disasters unfold naturally and are not suppressed by default.
 - Levril intervention occurs only when an event risks:
   - Concordant-level structural collapse.
@@ -169,11 +169,11 @@ Catastrophic collapse of the Concordant itself is preventable. Everything short 
 
 ## 9. Sentience and Consciousness
 
-### Real Universe
+### Real Cosmos
 - Consciousness is emergent from neural complexity only.
 - No metaphysical properties. No meaning-field interface.
 
-### Local Fictional Universe
+### Fictional Cosmos
 Consciousness is emergent **plus**:
 - A baseline sensitivity to meaning-fields.
 - Emotional states that produce measurable conceptual resonance.
@@ -189,27 +189,34 @@ Sentient minds — organic or artificial — are not purely physical. They inter
 
 ## 10. Higher-Dimensional Physics
 
-### Real Universe
+### Real Cosmos
 - Extra dimensions are hypothetical (string theory).
 - No measurable influence on daily life.
+- No origin tiers, design tiers, or operational hierarchy above spacetime.
 
-### Local Fictional Universe
-- Higher dimensions are real, inhabited, and causally active.
-- The Cascade hierarchy — Worldwrights, Telearchs, Celestials, Levrils — operates across dimensional tiers above the Material layer.
+### Fictional Cosmos
+- Higher dimensions are real, inhabited, and causally active at every scale.
+- The full Cosmic Cascade spans from non-anthropomorphic origin tiers down to material-layer Champions:
+  - **Origin tiers** (Hyperomnium, Kieme, Conseleme): establish existence boundary conditions without agency, dialogue, or selective intervention. Observable only through invariants that persist across all Concordants.
+  - **Design tiers** (Metawrights, Formwrights, Archewrights): define possible forms, instantiate Etheric rule templates, and maintain archetypal integrity across all Concordants.
+  - **Worldwrights**: establish individual Concordants with bounded physics and Etheric rule sets.
+  - **Operational tiers** (Telearchs, Celestials/Frenar, Levrils): maintain cross-Concordant continuity, enforce boundary integrity, and sculpt probability fields at operational scales.
+  - **Champions/Heroes**: sentient material beings selected by Levrils who express Cascade-compatible action within local constraints.
 - Higher-dimensional entities interact with Concordants by:
   - Adjusting probability fields.
   - Shaping conceptual information gradients.
   - Stabilising boundary-zone overlaps.
+  - Setting nonlocal constraints that all downstream tiers must satisfy.
 - Mortals cannot perceive higher dimensions directly except through anomaly signatures such as instrument drift and Etheric boundary effects at Threshold Station.
 
 ### Key Difference
-Higher-dimensional space is not hypothetical. It is populated, hierarchical, and operationally engaged with the Material layer at all times.
+Higher-dimensional space is not hypothetical. The fictional cosmos is structured by a hierarchy that extends from non-anthropomorphic origin conditions through design and operational tiers to material-layer agents — all of which are causally active in ways the real cosmos lacks entirely.
 
 ---
 
 ## Summary
 
-| Domain | Real Universe | Local Fictional Universe |
+| Domain | Real Cosmos | Fictional Cosmos |
 |---|---|---|
 | Physical constants | Accidental | Engineered by Worldwrights |
 | Causality | Strict | Maintained; marginally flexible |
@@ -220,6 +227,7 @@ Higher-dimensional space is not hypothetical. It is populated, hierarchical, and
 | Information | Two channels | Three channels |
 | Disasters | Unrestricted | Unrestricted below collapse threshold |
 | Consciousness | Emergent only | Emergent plus lawful Etheric coupling |
-| Higher dimensions | Hypothetical | Populated and causally active |
+| Higher dimensions | Hypothetical | Populated and causally active across all Cascade tiers |
+| Cosmic hierarchy | None | Hyperomnium → Champions; full Cascade from origin to material |
 
-No physics in this universe is supernatural. Every cross-layer effect requires lawful coupling through the Five Layers. The difference between this universe and the real one is not the presence of magic — it is the presence of architecture.
+No physics in the fictional cosmos is supernatural. Every cross-layer effect requires lawful coupling through the Five Layers. The difference between the fictional cosmos and the real one is not the presence of magic — it is the presence of architecture operating at every scale from origin conditions to individual Concordants.
