@@ -26,7 +26,7 @@ description: "World-building articles about the Five Layers, the Cosmic Cascade,
     <div class="codex-grid">
       {% for entry in loreEntries %}
         {% if (entry.data.category | default("General")) == cat %}
-        <a class="codex-card" href="{{ entry.url }}">
+        <a class="codex-card" href="/star-rangers{{ entry.url }}">
           <p class="codex-card__category">{{ entry.data.category | default("General") }}</p>
           <h3 class="codex-card__title">{{ entry.data.title }}</h3>
         </a>

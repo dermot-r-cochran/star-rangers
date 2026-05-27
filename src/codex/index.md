@@ -14,7 +14,7 @@ description: "In-universe documents, edicts, logs, and annotated records from St
 {% if codexEntries.length %}
 <div class="codex-grid">
   {% for entry in codexEntries %}
-  <a class="codex-card" href="{{ entry.url }}">
+  <a class="codex-card" href="/star-rangers{{ entry.url }}">
     {% if entry.data.category %}
     <p class="codex-card__category">{{ entry.data.category }}</p>
     {% endif %}
