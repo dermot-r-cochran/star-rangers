@@ -3,16 +3,16 @@ layout: glossary-entry.njk
 title: "Celestials"
 id: celestials
 category: "Cosmic Cascade"
-short: "Operational enforcement tier below High Celestials; Frenar is a legacy synonym for this tier."
+short: "Operational enforcement tier below Telearchs; Frenar is a legacy synonym for this tier."
 related:
-  - "High Celestials"
+  - "Telerarch"
   - "Frenar"
   - "Levril"
   - "Concordant"
 tags: [celestials, frenar, cascade, enforcement]
 ---
 
-**Celestials** (pronounced: **suh-LES-tee-ulz**) are the operational enforcement tier below High Celestials.
+**Celestials** (pronounced: **suh-LES-tee-ulz**) are the operational enforcement tier below Telearchs.
 
 **Frenar** is a legacy designation for this same tier. Canonically: Frenar = Celestial.
 

@@ -29,7 +29,7 @@ Meta-dimensional existence is not unique to Levrils. The full classification is:
 Sapient, higher-dimensionally extended, operating under Cascade constraints. The only meta-dimensional entities with formal standing in the hierarchy. Capable of constraint literacy, Champions selection, and lawful mentorship.
 
 ### Sapient Monsters
-Meta-dimensional beings with a degree of sapience — goal-directed, adaptive, capable of learning — but without Cascade standing. They are not bound by Cascade constraints, but nor are they protected by them. They operate below the Levril tier in causal authority and cannot perform the functions reserved for Cascade-ranked entities. Court-Fae and Gilded Saints are examples.
+Meta-dimensional beings with a degree of sapience — goal-directed, adaptive, capable of learning — but without Cascade standing. They are not bound by Cascade constraints, but nor are they protected by them. They operate below the Levril tier in causal authority. Court-Fae and Gilded Saints are examples.
 
 ### Non-Sapient Shadow Beings and Monsters
 Meta-dimensional beings with no sapience. Purely predatory, entropic, or ecologically disruptive. They enter Material space through boundary zones and overlap windows. Cute Predators are examples at the small-scale end; larger shadow beings operate at boundary collapse events.
@@ -44,7 +44,7 @@ Meta-dimensional beings with no sapience. Purely predatory, entropic, or ecologi
 ## Operational Constraints
 
 - Levrils cannot rewrite Concordant rules.
-- Levrils cannot bypass Celestial or Telearc directives.
+- Levrils cannot bypass Celestial or Telearch directives.
 - Levrils do not adjudicate morality and do not authorise magic claims.
 - Higher-dimensional extension does not grant exemption from Cascade hierarchy constraints.
 

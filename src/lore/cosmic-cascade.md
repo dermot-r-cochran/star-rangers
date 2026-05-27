@@ -32,7 +32,7 @@ They set nonlocal constraints that downstream tiers must satisfy.
 - No selective intervention.
 
 ### Observable Effects on Time-Bound Entities
-- Stable, repeatable deep-law behavior.
+- Stable, repeatable deep-law behaviour.
 - Persistent misattribution as "divine will" by low-context observers.
 
 ## Design Structure (Metawrights, Formwrights, Archewrights)
@@ -49,7 +49,7 @@ Archetypal patterns are expressed into Etheric rule templates, then manifested a
 
 ### Observable Effects on Time-Bound Entities
 - Archetypal interference events during high-coherence stress.
-- Recurring pattern classes across distinct civilizations.
+- Recurring pattern classes across distinct civilisations.
 
 ## Worldwrights and Concordant / Concordance
 
@@ -57,7 +57,7 @@ Archetypal patterns are expressed into Etheric rule templates, then manifested a
 Worldwrights establish primary-universe coherence zones called Concordants; Concordance is the plural.
 
 ### Mechanism
-A Concordant enforces a bounded physics+Etheric rule set with measurable edge behavior.
+A Concordant enforces a bounded physics+Etheric rule set with measurable edge behaviour.
 
 ### Constraints
 - Worldwright authority exists only in primary universes.
@@ -70,7 +70,7 @@ A Concordant enforces a bounded physics+Etheric rule set with measurable edge be
 ## Telearchs
 
 ### Definition
-Supervisory agency tier for cross-Concordant continuity and enforcement delegation. Telearchs are the canonical replacement for the legacy designation "High Celestials".
+Supervisory agency tier for cross-Concordant continuity and enforcement delegation. Replaces the legacy designation High Celestials.
 
 ### Mechanism
 Telearchs allocate enforcement scope and continuity budgets across multiple Concordants.
@@ -93,7 +93,7 @@ Celestials execute rule-integrity actions at boundary and overlap interfaces.
 
 ### Constraints
 - Cannot revise hierarchy order.
-- Cannot nullify Telearc directives.
+- Cannot nullify Telearch directives.
 
 ### Observable Effects on Time-Bound Entities
 - Localised enforcement signatures at boundary edges.
@@ -102,26 +102,28 @@ Celestials execute rule-integrity actions at boundary and overlap interfaces.
 ## Levrils
 
 ### Definition
-Low-ranking but causally authoritative draconic tier.
+Sapient meta-dimensional beings — the lowest Cascade tier with inherent higher-dimensional extension.
 
 ### Mechanism
-Levrils interact through constrained, lawful influence channels and can mentor constraint literacy. They also select Champions from sentient material beings.
+Levrils interact through constrained, lawful influence channels from a higher-dimensional vantage. They can mentor constraint literacy and select Champions from sentient material beings.
 
 ### Constraints
 - No Concordant rewrites.
 - No moral adjudication authority.
+- Cannot bypass Telearch or Celestial directives.
 
 ### Observable Effects on Time-Bound Entities
 - Coherence-preserving intervention at operational scales.
+- Instrument anomalies consistent with extra-dimensional field intrusion.
 - Frequent mythic overstatement of actual capability.
 
 ## Champions / Heroes
 
 ### Definition
-The lowest named agency tier. Champions are sentient material beings — organic or artificial — chosen by Levrils.
+The lowest named agency tier. Sentient material beings — organic or artificial — chosen by Levrils.
 
 ### Mechanism
-Champions/Heroes express Cascade-compatible action under local constraints. They are identified and selected by Levrils; the selection process is not supernatural but reflects Levril assessment of constraint literacy and causal relevance.
+Champions/Heroes express Cascade-compatible action under local constraints. Selection by Levrils reflects assessment of constraint literacy and causal relevance, not supernatural favour.
 
 ### Constraints
 - No authority to override Levril-tier or above.
