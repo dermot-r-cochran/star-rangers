@@ -43,6 +43,17 @@
       if (id && id !== "all") povLabels[id] = btn.textContent.trim();
     });
 
+    // Inject human-readable labels into POV block headers
+    povBlocks.forEach((block) => {
+      const id = block.dataset.pov;
+      const nameEl = block.querySelector(".pov-header__name");
+      if (nameEl && povLabels[id]) {
+        nameEl.textContent = povLabels[id];
+        // Also update the aria-label on the section
+        block.setAttribute("aria-label", `POV: ${povLabels[id]}`);
+      }
+    });
+
     function showPov(selectedId) {
       povBlocks.forEach((block) => {
         const id = block.dataset.pov;

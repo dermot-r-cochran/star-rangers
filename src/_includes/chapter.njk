@@ -6,14 +6,14 @@ layout: base.njk
     <nav class="chapter-breadcrumb" aria-label="Chapter location">
       <ol class="breadcrumb" role="list">
         <li><a href="/star-rangers/seasons/">Seasons</a></li>
-        <li><a href="/star-rangers/seasons/s{{ '%02d' | format(season) }}/">Season {{ season }}</a></li>
-        <li><a href="/star-rangers/seasons/s{{ '%02d' | format(season) }}/e{{ '%02d' | format(episode) }}/">Episode {{ episode }}</a></li>
+        <li><a href="/star-rangers/seasons/s{{ season | zeroPad }}/">Season {{ season }}</a></li>
+        <li><a href="/star-rangers/seasons/s{{ season | zeroPad }}/e{{ episode | zeroPad }}/">Episode {{ episode }}</a></li>
         <li aria-current="page">Chapter {{ chapter }}</li>
       </ol>
     </nav>
 
     <div class="chapter-meta">
-      <span class="chapter-label">S{{ '%02d' | format(season) }}E{{ '%02d' | format(episode) }}C{{ '%02d' | format(chapter) }}</span>
+      <span class="chapter-label">S{{ season | zeroPad }}E{{ episode | zeroPad }}C{{ chapter | zeroPad }}</span>
     </div>
 
     <h1 class="chapter-title">{{ title }}</h1>

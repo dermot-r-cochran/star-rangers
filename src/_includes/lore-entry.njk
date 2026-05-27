@@ -1,0 +1,35 @@
+---
+layout: base.njk
+---
+<article class="lore-entry" data-lore-category="{{ category }}">
+  <header class="lore-entry__header">
+    <nav class="lore-breadcrumb" aria-label="Lore location">
+      <ol class="breadcrumb" role="list">
+        <li><a href="/star-rangers/lore/">Lore</a></li>
+        {% if category %}
+        <li>{{ category | title }}</li>
+        {% endif %}
+        <li aria-current="page">{{ title }}</li>
+      </ol>
+    </nav>
+    {% if category %}
+    <span class="character-badge">{{ category }}</span>
+    {% endif %}
+    <h1 class="lore-entry__title">{{ title }}</h1>
+    {% if tags and tags.length %}
+    <ul class="chapter-tags" aria-label="Tags" role="list">
+      {% for tag in tags %}
+      <li class="chapter-tag">{{ tag }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </header>
+
+  <div class="lore-entry__body">
+    {{ content | safe }}
+  </div>
+
+  <footer class="lore-entry__footer">
+    <a href="/star-rangers/lore/">← Back to Lore</a>
+  </footer>
+</article>

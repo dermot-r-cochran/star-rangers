@@ -22,6 +22,8 @@
   "homepage": "https://github.com/dermot-cochran-ul/star-rangers#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.5",
-    "luxon": "^3.7.2"
+    "luxon": "^3.7.2",
+    "markdown-it": "^14.2.0",
+    "markdown-it-container": "^4.0.0"
   }
 }
