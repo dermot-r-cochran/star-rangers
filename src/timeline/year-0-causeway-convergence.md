@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Timeline Event"
-timestamp: "Year 0, Late Autumn"
+timestamp: "2826 CE, Late Autumn"
 sort_order: 110
 summary: "Galahad, Elvira, and Aldera converge at the Marsh Causeway after Elvira's third failed ritual. The Court-Fae feeding signature is first identified."
 tags: [causeway, elvira, galahad, aldera, court-fae, boundary]
@@ -16,7 +16,7 @@ tags: [causeway, elvira, galahad, aldera, court-fae, boundary]
     </ol>
   </nav>
   <h1 class="lore-entry__title">Causeway Convergence: Elvira, Galahad, and Aldera</h1>
-  <p><span class="character-badge">Year 0, Late Autumn</span></p>
+  <p><span class="character-badge">2826 CE, Late Autumn</span></p>
 </header>
 <div class="lore-entry__body">
 

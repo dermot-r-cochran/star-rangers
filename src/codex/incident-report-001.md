@@ -37,5 +37,5 @@ Calibration issue. Report closed. Units to be recalibrated at next maintenance c
 
 ---
 
-*Note appended by Survey Archive — Year 0:*
+*Note appended by Survey Archive — 2826 CE:*
 *The discrepancy returned on Day 49 — two days after recalibration. This note was not filed as an incident report. It appears in the maintenance log for Day 49 as a single line: "C-7A/C-7B discrepancy returned. 40 sec. No action."*

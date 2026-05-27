@@ -22,7 +22,7 @@ His title — "Sir" — is from a territorial honour that no longer applies to a
 
 - Joined the survey corps in Year -12 (pre-story).
 - Boundary posting experience: six prior stations, two of which recorded unexplained events.
-- Transferred to Threshold Station in Year 0 as team lead for new survey group.
+- Transferred to Threshold Station in 2826 CE as team lead for new survey group.
 - Has no documented contact with Court-Fae or Levrils prior to the Threshold posting.
 
 ## Character Notes
