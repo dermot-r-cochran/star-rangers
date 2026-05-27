@@ -3,7 +3,7 @@ layout: codex.njk
 title: "Survey Corps Boundary Monitoring Protocol — Threshold Class Stations"
 category: "Official Documents"
 tags: [survey-corps, protocol, boundary, threshold-station, official]
-description: "The official survey corps protocol for boundary monitoring at Threshold-class stations. Issued Year -15."
+description: "The official Survey Corps protocol for boundary monitoring at Threshold-class stations. Issued Year -15."
 ---
 
 **SURVEY CORPS**
