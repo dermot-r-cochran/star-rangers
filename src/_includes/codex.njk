@@ -7,8 +7,9 @@ layout: base.njk
       <ol class="breadcrumb" role="list">
         <li><a href="/star-rangers/codex/">Codex</a></li>
         {% if category %}
-        <li aria-current="page">{{ category | title }}</li>
+        <li>{{ category | title }}</li>
         {% endif %}
+        <li aria-current="page">{{ title }}</li>
       </ol>
     </nav>
     <h1 class="codex-entry__title">{{ title }}</h1>
