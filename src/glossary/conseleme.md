@@ -3,7 +3,7 @@ layout: glossary-entry.njk
 title: "Conseleme"
 id: conseleme
 category: "Cosmic Cascade"
-short: "The third tier of the Cosmic Cascade; a non-anthropomorphic origin condition completing the Upper Structure alongside Hyperomnium and Kieme."
+short: "The third tier of the Cosmic Cascade; a non-anthropomorphic origin condition completing the Upper Structure. Legacy name: Grand Demiurge."
 related:
   - "Hyperomnium"
   - "Kieme"
@@ -11,9 +11,11 @@ related:
 tags: [conseleme, cascade, upper-structure, cosmology]
 ---
 
-**Conseleme** (pronounced: **KON-seh-lem**) is the third tier of the Cosmic Cascade, completing the Upper Structure alongside Hyperomnium and Kieme.
+**Conseleme** is the third tier of the Cosmic Cascade, completing the Upper Structure alongside Hyperomnium and Kieme.
 
-Like all Upper Structure tiers, Conseleme is non-anthropomorphic. It sets nonlocal existence constraints that all Design Structure tiers (Metawright, Formwright, Archewright) and below must satisfy.
+**Legacy name:** *Grand Demiurge* was an earlier designation for this tier. Canonically: Conseleme = Grand Demiurge.
+
+Like all Upper Structure tiers, Conseleme is non-anthropomorphic. It sets nonlocal existence constraints that all Design Structure tiers (Metawrights, Formwrights, Archewrights) and below must satisfy.
 
 **Key constraints:**
 - No direct dialogue with time-bound entities.

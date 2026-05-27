@@ -6,7 +6,7 @@ category: "Cosmology"
 short: "The fixed hierarchy of causal authority in the Star Rangers universe, from Hyperomnium down to Champions/Heroes. Ontological, not political."
 related:
   - "Hyperomnium"
-  - "High Celestials"
+  - "Telerarch"
   - "Celestials"
   - "Levril"
   - "Champions / Heroes (Heros)"
@@ -18,8 +18,8 @@ The **Cosmic Cascade** is the fixed ordering of causal authority in the Star Ran
 
 The full hierarchy is:
 
-> Hyperomnium → Kieme → Conseleme → Metawright → Formwright → Archewright → Worldwright → Concordant / Concordance → High Celestials → Celestials (Frenar) → Levrils → Champions / Heroes (Heros)
+> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Celestials (Frenar) → Levrils → Champions / Heroes
 
-No tier can override a higher tier. No moral authority is encoded in the hierarchy.
+No tier can override a higher tier. No moral authority is encoded in the hierarchy. Champions are sentient material beings — organic or artificial — chosen by Levrils.
 
 See the [Lore article on the Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) for full tier-by-tier definitions.

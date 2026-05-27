@@ -3,17 +3,24 @@ layout: glossary-entry.njk
 title: "Telerarch"
 id: telerarch
 category: "Cosmic Cascade"
-short: "A High Celestial enforcement office designation used for boundary-integrity governance; not a separate hierarchy tier."
+short: "The Cascade tier between Worldwrights and Celestials, responsible for cross-Concordant continuity and enforcement delegation. Replaces the legacy designation High Celestials."
 related:
-  - "High Celestials"
   - "Celestials"
+  - "Worldwright"
   - "Concordant"
   - "Cosmic Cascade"
-tags: [telerarch, cascade, enforcement, cosmology]
+tags: [telerarch, cascade, enforcement, cosmology, continuity]
 ---
 
-**Telerarch** (pronounced: **TEL-uh-rark**) is an office designation used within High Celestial enforcement administration.
+**Telerarch** (pronounced: **TEL-ee-ark**) is the Cascade tier that sits between Worldwrights and Celestials in the fixed hierarchy.
 
-In current canon, Telerarch is not a standalone Cascade tier; it identifies supervisory enforcement function associated with Concordant-boundary integrity.
+Telearchs are the canonical replacement for the legacy designation **High Celestials**. They are supervisory agents responsible for cross-Concordant continuity governance and enforcement delegation.
 
-This preserves earlier records that used "Telerarch" while aligning to the fixed hierarchy where High Celestials and Celestials are explicit tiers.
+**Mechanism:** Telearchs allocate enforcement scope and continuity budgets across multiple Concordants. They coordinate responses to illegal cross-boundary manipulations.
+
+**Constraints:**
+- Telearchs do not bypass Concordant law.
+- Telearchs must preserve continuity over local preference outcomes.
+- Telearchs cannot revise the hierarchy order.
+
+**Legacy note:** Earlier records and documents may use the term *High Celestials* to refer to this tier. Canonically: Telerarch = High Celestial.

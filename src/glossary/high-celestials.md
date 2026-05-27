@@ -3,17 +3,18 @@ layout: glossary-entry.njk
 title: "High Celestials"
 id: high-celestials
 category: "Cosmic Cascade"
-short: "Supervisory continuity tier that allocates enforcement scope across Concordance."
+short: "Legacy designation for the Telerarch tier. Canonically: High Celestials = Telearchs."
 related:
+  - "Telerarch"
   - "Celestials"
   - "Concordant"
-  - "Telerarch"
-  - "Levril"
-tags: [high-celestials, cascade, continuity]
+tags: [high-celestials, telerarch, cascade, legacy]
 ---
 
-**High Celestials** (pronounced: **hye suh-LES-tee-ulz**) are the supervisory tier below Concordant/Concordance and above Celestials.
+**High Celestials** is a legacy designation for the tier now formally known as **Telearchs**.
 
-They coordinate continuity constraints across multiple Concordants and delegate operational enforcement scope.
+Canonically: High Celestials = Telearchs.
 
-They do not override hierarchy order or convert structural enforcement into moral judgement.
+Historical records and earlier documents may continue to use "High Celestials". In all current canon, the correct term is Telerarch.
+
+See: [Telerarch](/star-rangers/glossary/telerarch/) for the full current definition.
