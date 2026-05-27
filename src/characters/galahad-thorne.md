@@ -12,15 +12,15 @@ tags: [human, survey, threshold-station, season-1]
 description: "Senior boundary surveyor assigned to lead the new team at Threshold Station."
 ---
 
-Galahad Thorne has spent twelve years working boundary-proximate postings for the survey corps — long enough to develop his own vocabulary for what he observes, and long enough to understand why the official vocabulary is insufficient.
+Galahad Thorne has spent twelve years working boundary-proximate postings for the Survey Corps — the Star Rangers' boundary-monitoring arm — long enough to develop his own vocabulary for what he observes, and long enough to understand why the official vocabulary is insufficient.
 
 He is methodical without being rigid, cautious without being fearful. He has worked with Krenyi before and learned, by experience rather than instruction, how to be around them without making the usual human errors. He reads incident reports chronologically. He notices gaps.
 
-His title — "Sir" — is from a territorial honour that no longer applies to a territory that still technically exists. He uses it because the survey corps assigns rank by seniority and title carries more weight than rank at the boundary posts, and because he has never particularly cared what it means to other people.
+His title — "Sir" — is from a territorial honour that no longer applies to a territory that still technically exists. He uses it because the Survey Corps assigns rank by seniority and title carries more weight than rank at the boundary posts, and because he has never particularly cared what it means to other people.
 
 ## Known History
 
-- Joined the survey corps in Year -12 (pre-story).
+- Joined the Survey Corps in Year -12 (pre-story).
 - Boundary posting experience: six prior stations, two of which recorded unexplained events.
 - Transferred to Threshold Station in 2826 CE as team lead for new survey group.
 - Has no documented contact with Court-Fae or Levrils prior to the Threshold posting.

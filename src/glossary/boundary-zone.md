@@ -15,6 +15,6 @@ A **boundary zone** is the region where two adjacent Concordants meet. Because e
 
 Boundary zones are not hazardous to life in the short term, but extended exposure has documented effects on fine instrument calibration, Etheric-based practices (such as ritual work), and — in high-activity events — direct sensory perception.
 
-The survey corps maintains monitoring posts at boundary zones. Threshold Station is one such post.
+The Survey Corps, an operational branch of the Star Rangers, maintains monitoring posts at boundary zones. Threshold Station is one such post.
 
 See also: [Concordant](/star-rangers/glossary/concordant/), [Instrument Drift](/star-rangers/glossary/instrument-drift/).

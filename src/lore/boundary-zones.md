@@ -44,3 +44,5 @@ Rapid discontinuity growth with high instrumentation disagreement.
 ## Threshold Station and Marsh Causeway
 
 Threshold Station and Marsh Causeway remain linked by shared boundary behavior. Their measured anomalies are lawful expressions of Concordant interference, not supernatural exceptions.
+
+Boundary monitoring at Threshold-class stations is conducted by the Survey Corps, a specialist operational branch within the Star Rangers.
