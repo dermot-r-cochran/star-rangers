@@ -2,7 +2,7 @@
 layout: base.njk
 title: "Season 1"
 description: "Episodes and chapters in Season 1 of Star Rangers."
-permalink: /star-rangers/seasons/s01/
+permalink: /seasons/s01/
 ---
 <nav class="chapter-breadcrumb" aria-label="Season location">
   <ol class="breadcrumb" role="list">
@@ -33,7 +33,7 @@ permalink: /star-rangers/seasons/s01/
         <ul class="chapter-list" role="list">
     {% endif %}
           <li class="chapter-list__item">
-            <a href="{{ chapter.url }}">
+            <a href="/star-rangers{{ chapter.url }}">
               <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
               <span class="chapter-list__title">{{ chapter.data.title }}</span>
               {% if chapter.data.location %}

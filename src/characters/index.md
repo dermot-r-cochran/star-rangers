@@ -13,7 +13,7 @@ description: "Profiles of every named character, being, and entity in Star Range
 {% if chars.length %}
 <div class="codex-grid">
   {% for char in chars %}
-  <a class="codex-card" href="{{ char.url }}">
+  <a class="codex-card" href="/star-rangers{{ char.url }}">
     <p class="codex-card__category">{{ char.data.species | default("Unknown") }}{% if char.data.role %} · {{ char.data.role }}{% endif %}</p>
     <h2 class="codex-card__title">{{ char.data.title }}</h2>
     {% if char.data.aliases and char.data.aliases.length %}

@@ -2,7 +2,7 @@
 layout: base.njk
 title: "Episode 1"
 description: "Chapters in Season 1, Episode 1 of Star Rangers."
-permalink: /star-rangers/seasons/s01/e01/
+permalink: /seasons/s01/e01/
 ---
 <nav class="chapter-breadcrumb" aria-label="Episode location">
   <ol class="breadcrumb" role="list">
@@ -25,7 +25,7 @@ permalink: /star-rangers/seasons/s01/e01/
   {% if (chapter.data.season ~ "") == seasonNumber and (chapter.data.episode ~ "") == episodeNumber %}
     {% if not hasEpisodeChapters %}{% set hasEpisodeChapters = true %}{% endif %}
     <li class="chapter-list__item">
-      <a href="{{ chapter.url }}">
+      <a href="/star-rangers{{ chapter.url }}">
         <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
         <span class="chapter-list__title">{{ chapter.data.title }}</span>
         {% if chapter.data.location %}

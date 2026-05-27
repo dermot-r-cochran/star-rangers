@@ -85,12 +85,12 @@ layout: base.njk
 
   <nav class="chapter-pagination" aria-label="Chapter navigation">
     {% if previousChapter %}
-    <a class="chapter-pagination__prev" href="{{ previousChapter.url }}">
+    <a class="chapter-pagination__prev" href="/star-rangers{{ previousChapter.url }}">
       ← {{ previousChapter.data.title }}
     </a>
     {% endif %}
     {% if nextChapter %}
-    <a class="chapter-pagination__next" href="{{ nextChapter.url }}">
+    <a class="chapter-pagination__next" href="/star-rangers{{ nextChapter.url }}">
       {{ nextChapter.data.title }} →
     </a>
     {% endif %}

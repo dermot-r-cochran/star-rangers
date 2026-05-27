@@ -34,7 +34,7 @@ description: "Definitions of every term, name, and concept used in Star Rangers.
     {% endif %}
     <div class="glossary-list__item">
       <dt class="glossary-list__term">
-        <a href="{{ term.url }}">{{ term.data.title }}</a>
+        <a href="/star-rangers{{ term.url }}">{{ term.data.title }}</a>
         {% if term.data.category %}
         <span class="character-badge" style="margin-left:0.5rem">{{ term.data.category }}</span>
         {% endif %}

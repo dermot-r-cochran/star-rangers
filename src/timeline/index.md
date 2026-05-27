@@ -18,7 +18,7 @@ description: "The canonical sequence of events in Star Rangers — one fixed his
     <span class="timeline-event__time">{{ event.data.timestamp | default("Unknown") }}</span>
     <div class="timeline-event__content">
       <h2 class="timeline-event__title">
-        <a href="{{ event.url }}" style="color:inherit;text-decoration:none;">{{ event.data.title }}</a>
+        <a href="/star-rangers{{ event.url }}" style="color:inherit;text-decoration:none;">{{ event.data.title }}</a>
       </h2>
       {% if event.data.summary %}
       <p class="timeline-event__desc">{{ event.data.summary }}</p>
