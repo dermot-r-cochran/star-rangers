@@ -52,7 +52,7 @@ Survey teams may not conduct:
 
 A certified boundary analyst is defined as a being with documented training in Etheric-layer assessment methods and certification by a recognised training body.
 
-*[Note: as of 2826 CE, Threshold Station has no certified analyst on its establishment. The Krenyi analyst assigned to the new survey team (Syra) holds certification from a non-survey-corps body. Her certification status within survey corps jurisdiction is pending review.]*
+*[Note: as of 2826 UCSD, Threshold Station has no certified analyst on its establishment. The Krenyi analyst assigned to the new survey team (Syra) holds certification from a non-survey-corps body. Her certification status within survey corps jurisdiction is pending review.]*
 
 ---
 

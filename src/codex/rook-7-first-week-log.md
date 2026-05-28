@@ -9,7 +9,7 @@ description: "Rook-7's compiled log from the first week at Threshold Station. Cl
 **DETECTIVE AGENCY — FIELD UNIT LOG**
 **Unit:** Rook-7
 **Location:** Threshold Station
-**Period:** 2826 CE, Early Autumn, Days 1–7
+**Period:** 2826 UCSD, Early Autumn, Days 1–7
 **Classification:** Preliminary Site Assessment
 
 ---
