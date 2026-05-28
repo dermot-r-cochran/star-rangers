@@ -20,4 +20,4 @@ Like all Upper Structure tiers, Kieme is non-anthropomorphic. It establishes ori
 **Key constraints:**
 - No direct dialogue with time-bound entities.
 - No selective intervention at the Material layer.
-- Only inferable through invariants that persist across all Concordants.
+- Only inferable through invariants that persist across all [Concordants](/star-rangers/glossary/concordant/).

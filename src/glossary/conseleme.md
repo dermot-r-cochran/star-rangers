@@ -20,4 +20,4 @@ Like all Upper Structure tiers, Conseleme is non-anthropomorphic. It sets nonloc
 **Key constraints:**
 - No direct dialogue with time-bound entities.
 - No selective intervention.
-- Only inferable through invariants that persist across all Concordants.
+- Only inferable through invariants that persist across all [Concordants](/star-rangers/glossary/concordant/).

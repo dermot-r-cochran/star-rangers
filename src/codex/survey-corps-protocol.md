@@ -16,12 +16,12 @@ description: "The official Survey Corps protocol for boundary monitoring at Thre
 
 ## Section 1 — Purpose
 
-This protocol governs boundary monitoring activities at all stations classified as Threshold-class — that is, stations located within 500 survey-units of a confirmed Concordant boundary.
+This protocol governs boundary monitoring activities at all stations classified as Threshold-class — that is, stations located within 500 survey-units of a confirmed [Concordant](/star-rangers/glossary/concordant/) boundary.
 
 The purpose of Threshold-class boundary monitoring is to:
 1. Maintain baseline measurement of boundary position and stability.
 2. Report significant deviations in the boundary's position or behaviour.
-3. Support research into Concordant boundary characteristics.
+3. Support research into [Concordant](/star-rangers/glossary/concordant/) boundary characteristics.
 
 ## Section 2 — Instrument Standards
 

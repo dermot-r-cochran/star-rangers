@@ -16,7 +16,7 @@ Karla Wender begins Season 1 holding the rank of Chief Ranger in the pilot secti
 
 She is referred to as High Captain in later canon. The progression from Chief Ranger to High Captain is part of her arc across the series and the full details remain to be established in story.
 
-As Chief Ranger, Wender operates at the intersection of direct operational command and broader strategic awareness. The pilot section works in environments where conventional navigation fails — boundary-proximate transit, folding-adjacent approach corridors, and the edge conditions of active Concordant overlap zones. Wender's command experience in these environments has given her a precise understanding of the difference between orders that can be executed and orders that only look executable on a map.
+As Chief Ranger, Wender operates at the intersection of direct operational command and broader strategic awareness. The pilot section works in environments where conventional navigation fails — boundary-proximate transit, folding-adjacent approach corridors, and the edge conditions of active [Concordant](/star-rangers/glossary/concordant/) overlap zones. Wender's command experience in these environments has given her a precise understanding of the difference between orders that can be executed and orders that only look executable on a map.
 
 She does not perform authority. She carries it, which is a different thing. Rangers who mistake quietness for uncertainty about her tend to correct that misreading quickly.
 

@@ -6,7 +6,7 @@ tags: [timeline, stardate, chronology, standards]
 description: "The universal cosmic stardate standard used in Star Rangers records, replacing human-centric CE dating."
 ---
 
-Star Rangers records use **Universal Cosmic Stardate (UCSD)** as the canonical date system. UCSD replaces legacy CE notation to avoid species-centric dating in cross-Concordant archives.
+Star Rangers records use **Universal Cosmic Stardate (UCSD)** as the canonical date system. UCSD replaces legacy CE notation to avoid species-centric dating in cross-[Concordant](/star-rangers/glossary/concordant/) archives.
 
 ## Standard
 

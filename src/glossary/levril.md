@@ -19,7 +19,7 @@ Not all meta-dimensional beings are Levrils. Sapient monsters (such as Court-Fae
 
 Levrils sit below Celestials (Frenar) and above Champions/Heroes in the fixed Cascade hierarchy.
 
-**Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one Concordant simultaneously, at a coherence cost.
+**Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one [Concordant](/star-rangers/glossary/concordant/) simultaneously, at a coherence cost.
 
 Levrils **select Champions** from sentient material beings — organic or artificial — based on constraint literacy and causal relevance. This selection is a bounded, lawful assessment, not supernatural favour.
 

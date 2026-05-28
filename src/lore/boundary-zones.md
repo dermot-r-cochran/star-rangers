@@ -6,7 +6,7 @@ tags: [boundary, concordant, concordance, threshold, instrument-drift, physical-
 description: "How boundary zones between adjacent Concordants produce measurable physical effects and why they are operationally constrained environments."
 ---
 
-A boundary zone is the region where two adjacent Concordants meet. Concordance is the plural form of Concordant. At the boundary, each Concordant remains locally valid while global agreement degrades.
+A boundary zone is the region where two adjacent [Concordants](/star-rangers/glossary/concordant/) meet. [Concordance](/star-rangers/glossary/concordant/) is the plural form of [Concordant](/star-rangers/glossary/concordant/). At the boundary, each [Concordant](/star-rangers/glossary/concordant/) remains locally valid while global agreement degrades.
 
 ## Definition
 
@@ -16,7 +16,7 @@ Boundary zones are transition domains with coupled but non-identical physics+Eth
 
 - Local instruments measure correctly relative to their position.
 - Cross-position comparisons diverge because local constraints differ.
-- Phase displacement between adjacent Concordants drives oscillating anomalies.
+- Phase displacement between adjacent [Concordants](/star-rangers/glossary/concordant/) drives oscillating anomalies.
 
 ## Boundary-State Classes
 
@@ -43,6 +43,6 @@ Rapid discontinuity growth with high instrumentation disagreement.
 
 ## Threshold Station and Marsh Causeway
 
-Threshold Station and Marsh Causeway remain linked by shared boundary behavior. Their measured anomalies are lawful expressions of Concordant interference, not supernatural exceptions.
+Threshold Station and Marsh Causeway remain linked by shared boundary behavior. Their measured anomalies are lawful expressions of [Concordant](/star-rangers/glossary/concordant/) interference, not supernatural exceptions.
 
 Boundary monitoring at Threshold-class stations is conducted by the Survey Corps, a specialist operational branch within the Star Rangers.

@@ -18,4 +18,4 @@ Canonically: Champions = Heroes = Heros.
 
 They are **sentient material beings — organic or artificial — chosen by Levrils**. Selection reflects a Levril's assessment of constraint literacy and causal relevance, not supernatural favour or fate.
 
-Champions have no authority to override higher tiers. Their outcomes remain bounded by Concordant law. The common misclassification of Champions as "chosen by destiny" is a low-context interpretation of what is in fact a constrained selection process.
+Champions have no authority to override higher tiers. Their outcomes remain bounded by [Concordant](/star-rangers/glossary/concordant/) law. The common misclassification of Champions as "chosen by destiny" is a low-context interpretation of what is in fact a constrained selection process.

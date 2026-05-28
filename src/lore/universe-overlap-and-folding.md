@@ -13,20 +13,20 @@ Worldwrights create primary universes only. Secondary and subsequent universes a
 ## Primary and Derived Universes
 
 ### Definition
-A **primary universe** is created directly by a Worldwright and contains one or more Concordants.
+A **primary universe** is created directly by a Worldwright and contains one or more [Concordants](/star-rangers/glossary/concordant/).
 
 A **secondary universe** (and all subsequent derived universes) arises from the interaction of two or more primary universes through overlap or folding. Secondary universes are not independently authored; they inherit and recombine constraint sets from their source primaries.
 
 ### Constraints
 - Only primary universes possess a Worldwright.
 - Derived universes do not receive a new Worldwright assignment.
-- Derived universes are structurally subordinate: their physics is a function of their source primaries' Concordant constraints.
-- A derived universe that becomes stable enough to support Concordants does so under inherited, not original, Worldwright authority.
+- Derived universes are structurally subordinate: their physics is a function of their source primaries' [Concordant](/star-rangers/glossary/concordant/) constraints.
+- A derived universe that becomes stable enough to support [Concordants](/star-rangers/glossary/concordant/) does so under inherited, not original, Worldwright authority.
 
 ## Universe Overlap
 
 ### Definition
-Temporary coexistence window in which adjacent Concordants share a measurable interaction domain.
+Temporary coexistence window in which adjacent [Concordants](/star-rangers/glossary/concordant/) share a measurable interaction domain.
 
 ### Mechanism
 - Overlap begins when boundary phase displacement enters coupling range.
@@ -34,7 +34,7 @@ Temporary coexistence window in which adjacent Concordants share a measurable in
 - Overlap resolves when displacement exits coupling range.
 
 ### Constraints
-- Overlap does not merge Concordants into one rule set.
+- Overlap does not merge [Concordants](/star-rangers/glossary/concordant/) into one rule set.
 - Overlap does not create new hierarchy tiers.
 - Overlap cannot be permanently stabilised by Material-layer means.
 
