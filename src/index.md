@@ -7,7 +7,7 @@ description: "Star Rangers — an interactive science-fantasy novel grounded in 
   <h1 class="home-hero__title">✦ Star Rangers</h1>
   <p class="home-hero__subtitle">
     The stars call us forward with hope; to protect what is good and to see what is true.
-    An interactive science-fantasy novel grounded in speculative cosmology — one canonical history across the Five Layers, multiple [Concordants](/star-rangers/glossary/concordant/), and multiple points of view.
+    An interactive science-fantasy novel grounded in speculative cosmology — one canonical history across the Five Layers, multiple <a href="/star-rangers/glossary/concordant/">Concordants</a>, and multiple points of view.
   </p>
   <a class="home-hero__cta" href="/star-rangers/seasons/">Begin Reading</a>
 </section>
