@@ -66,4 +66,8 @@ It was this sequence of events — not any single decision — that produced the
 
 The MSC was not dissolved. It was restructured, under the Consolidation Accords, into the Solar System Defence Command (SSDC), a narrower institution with explicit operational boundaries and a formal independent oversight framework. Several MSC officers regarded this restructuring as a proof of their original thesis — that democratic and civilian pressure had degraded a functional institution.
 
+The MSC's successor, the SSDC, formally objected to the jurisdiction limits written into the Star Rangers charter — specifically the clauses establishing that the Star Rangers have no authority on planets or within self-governing orbital habitats, and that they must leave when any governing authority withdraws its invitation. The SSDC argued this created operational gaps at boundary events affecting inhabited environments. The outer-station delegations replied that a body with boundary-operations capability and unrestricted right of entry to habitats would be the MSC under a different name.
+
+The jurisdiction limits were not revised.
+
 General Krast's quote circulates in certain SSDC circles to this day. It is not always used approvingly.

@@ -28,6 +28,10 @@ The MSC's former senior officers regard the charter as a civilian demotion of mi
 
 **Canon facts:**
 - The Star Rangers are a post-MSC institution. Their independence from military hierarchy is structural, not incidental.
+- The Star Rangers are neutral: they take no side in political disputes and cannot be used to lend legitimacy to any political claim.
+- The Star Rangers are non-political: their mandate is humanitarian and operational only. They do not govern, legislate, or police.
+- The Star Rangers are self-funded through data licensing, voluntary contributions, and operational fees — deliberately structured so no government can use funding as leverage.
+- The Star Rangers have zero jurisdiction on planets or within self-governing orbital habitats above the minimum population threshold. They require an explicit invitation to enter and leave when it is withdrawn.
 - The founding assets include Dr. Pitch's fold-mechanics analysis, the *Constant Margin* navigational data, and eleven years of Eden's anomaly logs.
 - The Survey Corps — the Star Rangers' boundary-monitoring arm — is created at the same time.
 - The open questions from the *Patience First* recovery are part of the Survey Corps' founding research mandate.

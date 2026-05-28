@@ -54,6 +54,24 @@ The MSC's officer corps regarded this as a demotion of military authority by civ
 
 They were not entirely wrong. That was, in part, the point.
 
+## Constitutional Constraints
+
+The charter's most contested clauses were not the operational ones. They were the constitutional limits — the explicit, non-negotiable boundaries on what the Star Rangers could and could not do. These clauses were demanded by the outer-station delegations as the price of their support for the Accords, and they were accepted because without that support the Accords did not have the votes.
+
+**Neutrality.** The Star Rangers take no side in political disputes between Solar System factions, governments, habitats, or settlements. They do not advocate for political positions, endorse candidates or parties, issue political statements, or allow their operational presence to be used to lend legitimacy to any political claim. This neutrality is unconditional. An outer-station administration threatening war and a planetary government responding to it are both, to the Star Rangers, parties to a situation they do not adjudicate.
+
+**Non-political mandate.** The Star Rangers' mandate is humanitarian and operational: respond to boundary events, fold-route incidents, and Concordant-edge anomalies; protect persons in those environments; gather and share data. They have no mandate to govern, legislate, police, or administer. Decisions about how people live are not within their scope.
+
+**Humanitarian purpose.** The Star Rangers are in the field to protect people — all people, regardless of which faction they belong to, which government claims them, or what they were doing when the boundary event found them. This is not a policy choice. It is the founding purpose.
+
+**Self-funding.** The Star Rangers do not receive government appropriations, MSC disbursements, or SSDC budget allocations. They are funded through a combination of data-licensing agreements (fold-route navigational data, boundary-anomaly records, and Concordant-edge survey results have significant commercial value), voluntary contributions from outer-station communities, and operational fees charged to commercial entities using fold routes the Survey Corps has mapped. This structure was designed specifically to prevent any single political authority from using funding as leverage over Star Rangers operations.
+
+**No planetary or large-habitat jurisdiction.** The Star Rangers have zero jurisdiction on any planet or within any self-governing orbital habitat above a defined minimum population threshold. They do not enter these environments to conduct operations without explicit invitation from the governing authority, and they do not remain when that invitation is withdrawn. Planetary law enforcement, habitat security, and domestic dispute resolution are not their domain. Their operational environment is the spaces between: open space, boundary zones, uninhabited or unincorporated installations, and fold-proximate environments without established governance.
+
+The SSDC's senior officers objected to the jurisdiction limits on the grounds that they created operational gaps — situations where a boundary event affected a habitat and the Star Rangers could not act without waiting for an invitation. The outer-station delegations responded that the alternative — a body with boundary-operations authority and unrestricted right of entry to habitats — was indistinguishable, in practice, from the MSC with better branding.
+
+The jurisdiction limits held.
+
 ## What the Star Rangers Inherited
 
 The Star Rangers began with the navigational data from *Constant Margin*, the partial data from *Patience First*'s recovery, Dr. Pitch's fold-mechanics analysis (declassified under the Accords), and Eden Space Habitat's eleven years of anomaly logs — the same logs the MSC's calibration board had attributed to sensor degradation.
