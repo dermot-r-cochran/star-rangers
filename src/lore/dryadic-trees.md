@@ -14,7 +14,7 @@ They are named for the old folk category of tree-spirit, which is a misclassific
 
 Dryadic trees are identifiable by several consistent features:
 
-- **Bark colouration:** Typically pale — white, silver-grey, or bleached ochre — due to Etheric-layer mineral uptake interfering with the standard chromophore chemistry of the outer bark.
+- **Bark coloration:** Typically pale — white, silver-grey, or bleached ochre — due to Etheric-layer mineral uptake interfering with the standard chromophore chemistry of the outer bark.
 - **Growth geometry:** Root systems and canopy structure follow the geometry of local Etheric fault lines rather than standard nutrient gradients. From above, a grove of dryadic trees traces the fault pattern precisely.
 - **Leaf phase-lag:** Leaves move slightly out of phase with local air currents. The lag is small — typically 0.1 to 0.4 seconds — but consistent and measurable. Wind affects the physical layer first; the Etheric coupling of the foliage produces a delayed resonance. This is a reliable field indicator.
 - **Longevity:** Specimens confirmed at over eight hundred years. Ring structure in felled samples shows Etheric-layer coupling strengthens with age, not weakening, which is the inverse of what standard nutrient-limitation models predict.
