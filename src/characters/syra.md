@@ -15,7 +15,7 @@ Syra is Krenyi — one of the Quiet-Built, a long-lived people who are physicall
 
 She does not experience deep fear, though she experiences anxiety. She does not experience fury, though she experiences annoyance. She is polyamorous but loyal. She is honest to a degree that some humans find uncomfortable and others find clarifying.
 
-She arrived at Threshold Station in 2826 CE having read the public boundary survey data and identified the chronometer discrepancy as something the public boundary survey data had incorrectly classified.
+She arrived at Threshold Station in 2826 UCSD having read the public boundary survey data and identified the chronometer discrepancy as something the public boundary survey data had incorrectly classified.
 
 ## Character Notes
 

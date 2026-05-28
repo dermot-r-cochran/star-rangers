@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Timeline Event"
-timestamp: "2826 CE, Early Autumn"
+timestamp: "2826 UCSD, Early Autumn"
 sort_order: 100
 summary: "Galahad Thorne, Syra, and Rook-7 arrive at Threshold Station and are briefed on eleven years of instrument drift. The survey team is formed."
 tags: [threshold-station, arrival, galahad, syra, rook-7, survey-team]
@@ -16,7 +16,7 @@ tags: [threshold-station, arrival, galahad, syra, rook-7, survey-team]
     </ol>
   </nav>
   <h1 class="lore-entry__title">Survey Team Arrives at Threshold Station</h1>
-  <p><span class="character-badge">2826 CE, Early Autumn</span></p>
+  <p><span class="character-badge">2826 UCSD, Early Autumn</span></p>
 </header>
 <div class="lore-entry__body">
 
