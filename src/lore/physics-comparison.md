@@ -3,10 +3,10 @@ layout: lore-entry.njk
 title: "Physics Comparison: Real Cosmos vs. The Fictional Cosmos"
 category: "Cosmology"
 tags: [cosmology, physics, meaning-field, probability, entropy, consciousness, dimensional-topology, causality, information-theory, five-layers]
-description: "A structured hard-SF comparison of real-world physics against the layered physics of the Star Rangers fictional cosmos, grounded in the Five Layers and the full Cosmic Cascade hierarchy from Hyperomnium to Champions."
+description: "A structured hard-SF comparison of real-world physics against the layered physics of the Star Rangers fictional cosmos, grounded in the Five Layers and the full Cosmic Cascade hierarchy."
 ---
 
-The fictional cosmos superficially mimics real-world physics at the Material and Physical layers within any given [Concordant](/star-rangers/glossary/concordant/). The differences emerge from the Etheric layer upward — conceptual fields, multiversal overlaps, ongoing cosmic maintenance, and a populated hierarchy extending to non-anthropomorphic origin tiers produce a richer and structurally deeper physics than the real cosmos possesses at any scale.
+The fictional cosmos superficially mimics real-world physics at the Material and Physical layers within any given [Concordant](/star-rangers/glossary/concordant/). The differences emerge from the Etheric layer upward — conceptual fields, multiversal overlaps, and ongoing cosmic maintenance produce a richer and occasionally perceivable physics.
 
 ---
 
@@ -83,7 +83,7 @@ Randomness is real but carries a faint Etheric texture that can be sculpted with
 - Syra's coherence-reading and Rook-7's sensor arrays both detect this dimensional tension.
 
 ### Key Difference
-Any given [Concordant](/star-rangers/glossary/concordant/) is one coherence zone among many in the Cascade structure, in constant contact with derived universes at boundary zones. The fictional cosmos as a whole spans all [Concordants](/star-rangers/glossary/concordant/), all derived universes, and the full Cascade hierarchy above them.
+Any given [Concordant](/star-rangers/glossary/concordant/) is one coherence zone among many in the Cascade structure, in constant contact with derived universes at boundary zones.
 
 ---
 
@@ -159,7 +159,7 @@ Information has a third metaphysical channel. It cannot be detected with standar
 - Levril intervention occurs only when an event risks:
   - [Concordant](/star-rangers/glossary/concordant/)-level structural collapse.
   - A premature Cascade-hierarchy ending.
-  - A violation of Celestial or Telearc enforcement law.
+  - A violation of Celestial or Telearch enforcement law.
 - Tragedies below that threshold proceed without supernatural rescue.
 
 ### Key Difference
@@ -197,20 +197,16 @@ Sentient minds — organic or artificial — are not purely physical. They inter
 ### Fictional Cosmos
 - Higher dimensions are real, inhabited, and causally active at every scale.
 - The full Cosmic Cascade spans from non-anthropomorphic origin tiers down to material-layer Champions:
-  - **Origin tiers** (Hyperomnium, Kieme, Conseleme): establish existence boundary conditions without agency, dialogue, or selective intervention. Observable only through invariants that persist across all [Concordants](/star-rangers/glossary/concordant/).
-  - **Design tiers** (Metawrights, Formwrights, Archewrights): define possible forms, instantiate Etheric rule templates, and maintain archetypal integrity across all [Concordants](/star-rangers/glossary/concordant/).
-  - **Worldwrights**: establish individual [Concordants](/star-rangers/glossary/concordant/) with bounded physics and Etheric rule sets.
-  - **Operational tiers** (Telearchs, Celestials/Frenar, Levrils): maintain cross-[Concordant](/star-rangers/glossary/concordant/) continuity, enforce boundary integrity, and sculpt probability fields at operational scales.
-  - **Champions/Heroes**: sentient material beings selected by Levrils who express Cascade-compatible action within local constraints.
-- Higher-dimensional entities interact with [Concordants](/star-rangers/glossary/concordant/) by:
-  - Adjusting probability fields.
-  - Shaping conceptual information gradients.
-  - Stabilising boundary-zone overlaps.
-  - Setting nonlocal constraints that all downstream tiers must satisfy.
+  - **Origin tiers** (Hyperomnium, Kieme, Conseleme): establish existence boundary conditions without agency, dialogue, or selective intervention.
+  - **Design tiers** (Metawrights, Formwrights, Archewrights): define possible forms and maintain archetypal integrity.
+  - **Worldwrights**: author primary universes and their Concordants.
+  - **Telearchs**: govern cross-Concordant continuity from a higher-dimensional supervisory tier.
+  - **Celestials (Frenar)**: operational enforcement at boundary and overlap interfaces.
+  - **Levrils**: sapient meta-dimensional beings at the lowest Cascade tier with higher-dimensional extension.
 - Mortals cannot perceive higher dimensions directly except through anomaly signatures such as instrument drift and Etheric boundary effects at Threshold Station.
 
 ### Key Difference
-Higher-dimensional space is not hypothetical. The fictional cosmos is structured by a hierarchy that extends from non-anthropomorphic origin conditions through design and operational tiers to material-layer agents — all of which are causally active in ways the real cosmos lacks entirely.
+Higher-dimensional space is not hypothetical. It is populated, hierarchical, and operationally engaged with the Material layer at all times.
 
 ---
 
@@ -227,7 +223,6 @@ Higher-dimensional space is not hypothetical. The fictional cosmos is structured
 | Information | Two channels | Three channels |
 | Disasters | Unrestricted | Unrestricted below collapse threshold |
 | Consciousness | Emergent only | Emergent plus lawful Etheric coupling |
-| Higher dimensions | Hypothetical | Populated and causally active across all Cascade tiers |
-| Cosmic hierarchy | None | Hyperomnium → Champions; full Cascade from origin to material |
+| Higher dimensions | Hypothetical | Populated and causally active |
 
-No physics in the fictional cosmos is supernatural. Every cross-layer effect requires lawful coupling through the Five Layers. The difference between the fictional cosmos and the real one is not the presence of magic — it is the presence of architecture operating at every scale from origin conditions to individual [Concordants](/star-rangers/glossary/concordant/).
+No physics in this universe is supernatural. Every cross-layer effect requires lawful coupling through the Five Layers. The difference between this cosmos and the real one is not the presence of magic — it is the presence of architecture.
