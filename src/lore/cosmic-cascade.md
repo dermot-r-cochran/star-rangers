@@ -8,7 +8,7 @@ description: "The strict hierarchy of causal authority in the Star Rangers unive
 
 The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers universe. It is ontological, not political. Causality resolves from higher tier to lower tier and does not reverse.
 
-> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with [Concordants](/star-rangers/glossary/concordant/) ([Concordance](/star-rangers/glossary/concordant/)) → Telearchs → Celestials (Frenar) → Levrils → Champions / Heroes
+> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Celestials (Frenar) → Levrils → Champions / Heroes
 
 ## Global Invariants
 
@@ -16,7 +16,7 @@ The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers
 - No magic: all effects are lawful outcomes of higher-dimensional physics, universe overlap/folding, and archetypal interference.
 - Dragons are low-ranking Levrils.
 - Only primary universes possess Worldwrights.
-- [Concordance](/star-rangers/glossary/concordant/) is the plural form of [Concordant](/star-rangers/glossary/concordant/).
+- Concordance is the plural form of Concordant.
 - Champions/Heroes are sentient material beings — organic or artificial — chosen by Levrils.
 
 ## Upper Structure (Hyperomnium, Kieme, Conseleme)
@@ -51,17 +51,17 @@ Archetypal patterns are expressed into Etheric rule templates, then manifested a
 - Archetypal interference events during high-coherence stress.
 - Recurring pattern classes across distinct civilisations.
 
-## Worldwrights and [Concordant](/star-rangers/glossary/concordant/) / [Concordance](/star-rangers/glossary/concordant/)
+## Worldwrights and Concordant / Concordance
 
 ### Definition
-Worldwrights establish primary-universe coherence zones called [Concordants](/star-rangers/glossary/concordant/); [Concordance](/star-rangers/glossary/concordant/) is the plural.
+Worldwrights establish primary-universe coherence zones called Concordants; Concordance is the plural.
 
 ### Mechanism
-A [Concordant](/star-rangers/glossary/concordant/) enforces a bounded physics+Etheric rule set with measurable edge behaviour.
+A Concordant enforces a bounded physics+Etheric rule set with measurable edge behaviour.
 
 ### Constraints
 - Worldwright authority exists only in primary universes.
-- Adjacent [Concordants](/star-rangers/glossary/concordant/) can differ; boundary zones cannot be made globally uniform by local technology.
+- Adjacent Concordants can differ; boundary zones cannot be made globally uniform by local technology.
 
 ### Observable Effects on Time-Bound Entities
 - Instrument disagreement without device failure.
@@ -70,13 +70,13 @@ A [Concordant](/star-rangers/glossary/concordant/) enforces a bounded physics+Et
 ## Telearchs
 
 ### Definition
-Supervisory agency tier for cross-[Concordant](/star-rangers/glossary/concordant/) continuity and enforcement delegation. Replaces the legacy designation High Celestials.
+Supervisory agency tier for cross-Concordant continuity and enforcement delegation. Replaces the legacy designation High Celestials.
 
 ### Mechanism
-Telearchs allocate enforcement scope and continuity budgets across multiple [Concordants](/star-rangers/glossary/concordant/).
+Telearchs allocate enforcement scope and continuity budgets across multiple Concordants.
 
 ### Constraints
-- Do not bypass [Concordant](/star-rangers/glossary/concordant/) law.
+- Do not bypass Concordant law.
 - Must preserve continuity over local preference outcomes.
 
 ### Observable Effects on Time-Bound Entities
@@ -108,7 +108,7 @@ Sapient meta-dimensional beings — the lowest Cascade tier with inherent higher
 Levrils interact through constrained, lawful influence channels from a higher-dimensional vantage. They can mentor constraint literacy and select Champions from sentient material beings.
 
 ### Constraints
-- No [Concordant](/star-rangers/glossary/concordant/) rewrites.
+- No Concordant rewrites.
 - No moral adjudication authority.
 - Cannot bypass Telearch or Celestial directives.
 
@@ -127,7 +127,7 @@ Champions/Heroes express Cascade-compatible action under local constraints. Sele
 
 ### Constraints
 - No authority to override Levril-tier or above.
-- Outcomes remain bounded by [Concordant](/star-rangers/glossary/concordant/) law.
+- Outcomes remain bounded by Concordant law.
 
 ### Observable Effects on Time-Bound Entities
 - High-impact local events without hierarchy violation.
@@ -139,7 +139,7 @@ Champions/Heroes express Cascade-compatible action under local constraints. Sele
 When observers have incomplete layer visibility, they infer agency where only constraint propagation exists.
 
 ### Boundary Confusion
-Cross-[Concordant](/star-rangers/glossary/concordant/) readings can produce contradictory reports that are simultaneously local-correct.
+Cross-Concordant readings can produce contradictory reports that are simultaneously local-correct.
 
 ### Misclassification Control
 Use mechanism-level diagnostics first; avoid moral, theological, or magical explanations.

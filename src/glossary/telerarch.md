@@ -14,12 +14,12 @@ tags: [telearch, telerarch, cascade, enforcement, cosmology, continuity]
 
 **Telearch** (pronounced: **TEL-ee-ark**; plural: **Telearchs**) is the Cascade tier that sits between Worldwrights and Celestials in the fixed hierarchy.
 
-Telearchs are the canonical replacement for the legacy designation **High Celestials**. They are supervisory agents responsible for cross-[Concordant](/star-rangers/glossary/concordant/) continuity governance and enforcement delegation.
+Telearchs are the canonical replacement for the legacy designation **High Celestials**. They are supervisory agents responsible for cross-Concordant continuity governance and enforcement delegation.
 
-**Mechanism:** Telearchs allocate enforcement scope and continuity budgets across multiple [Concordants](/star-rangers/glossary/concordant/). They coordinate responses to illegal cross-boundary manipulations.
+**Mechanism:** Telearchs allocate enforcement scope and continuity budgets across multiple Concordants. They coordinate responses to illegal cross-boundary manipulations.
 
 **Constraints:**
-- Telearchs do not bypass [Concordant](/star-rangers/glossary/concordant/) law.
+- Telearchs do not bypass Concordant law.
 - Telearchs must preserve continuity over local preference outcomes.
 - Telearchs cannot revise the hierarchy order.
 

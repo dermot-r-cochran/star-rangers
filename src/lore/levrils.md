@@ -16,10 +16,10 @@ Levrils exist simultaneously across multiple spatial dimensions above the four a
 
 - They perceive Etheric structures directly, because those structures are expressed in dimensional bands they inhabit.
 - They can influence probability fields through dimensional pressure from outside the four accessible spacetime dimensions.
-- They can perceive [Concordant](/star-rangers/glossary/concordant/) boundary conditions from angles unavailable to three-dimensional instruments.
+- They can perceive Concordant boundary conditions from angles unavailable to three-dimensional instruments.
 - Their apparent materialisation and dematerialisation in Material-layer space is translation across dimensional bands, not creation or destruction.
 
-**Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one [Concordant](/star-rangers/glossary/concordant/) simultaneously. This cross-[Concordant](/star-rangers/glossary/concordant/) extension carries a coherence cost: the greater the span, the higher the maintenance burden.
+**Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one Concordant simultaneously. This cross-Concordant extension carries a coherence cost: the greater the span, the higher the maintenance burden.
 
 ## Distinction from Other Meta-Dimensional Beings
 
@@ -36,14 +36,14 @@ Meta-dimensional beings with no sapience. Purely predatory, entropic, or ecologi
 
 ## Functional Role in the Cascade
 
-- Local coherence preservation under [Concordant](/star-rangers/glossary/concordant/) law.
+- Local coherence preservation under Concordant law.
 - Selection of Champions from sentient material beings — organic or artificial — based on constraint literacy and causal relevance.
 - Limited mentorship in constraint literacy for Material-layer beings.
 - Boundary-aware advisory intervention where permitted.
 
 ## Operational Constraints
 
-- Levrils cannot rewrite [Concordant](/star-rangers/glossary/concordant/) rules.
+- Levrils cannot rewrite Concordant rules.
 - Levrils cannot bypass Celestial or Telearch directives.
 - Levrils do not adjudicate morality and do not authorise magic claims.
 - Higher-dimensional extension does not grant exemption from Cascade hierarchy constraints.
