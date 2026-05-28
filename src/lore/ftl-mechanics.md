@@ -16,12 +16,12 @@ Wave-locked transit along pre-admissible quantum harmonic corridors.
 ### Mechanism
 - A vessel phase-locks to a corridor signature.
 - The corridor is traversed as a bounded harmonic propagation event.
-- Exit requires local Concordant re-synchronization.
+- Exit requires local [Concordant](/star-rangers/glossary/concordant/) re-synchronization.
 
 ### Constraints
 - Corridor availability is finite and state-dependent.
 - Harmonic phase error above tolerance causes forced drop-out.
-- Transit cannot bypass Concordant boundary conditions.
+- Transit cannot bypass [Concordant](/star-rangers/glossary/concordant/) boundary conditions.
 
 ### Observable Effects on Time-Bound Entities
 - Apparent non-linear arrival order across distant observers.

@@ -16,4 +16,4 @@ tags: [celestials, frenar, cascade, enforcement]
 
 **Frenar** is a legacy designation for this same tier. Canonically: Frenar = Celestial.
 
-Celestials maintain Concordant-boundary integrity through lawful enforcement actions.
+Celestials maintain [Concordant](/star-rangers/glossary/concordant/)-boundary integrity through lawful enforcement actions.

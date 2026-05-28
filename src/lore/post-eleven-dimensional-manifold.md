@@ -6,7 +6,7 @@ tags: [cosmology, dimensional-topology, spacelike, timelike, cascade]
 description: "How further spacelike and timelike dimensions extend beyond the first eleven spacetime dimensions in the Star Rangers cosmos."
 ---
 
-The first eleven spacetime dimensions define the baseline stability envelope for Concordants, but they are not the upper limit of cosmic structure. Beyond Dimension 11, the manifold branches into higher-order spacelike and timelike regimes that govern cross-Concordant coherence, causality buffering, and fold survivability.
+The first eleven spacetime dimensions define the baseline stability envelope for [Concordants](/star-rangers/glossary/concordant/), but they are not the upper limit of cosmic structure. Beyond Dimension 11, the manifold branches into higher-order spacelike and timelike regimes that govern cross-[Concordant](/star-rangers/glossary/concordant/) coherence, causality buffering, and fold survivability.
 
 ## Beyond the First Eleven
 

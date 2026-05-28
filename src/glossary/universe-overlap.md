@@ -12,7 +12,7 @@ related:
 tags: [universe-overlap, concordant, boundary, physics]
 ---
 
-**Universe Overlap** (pronounced: **YOO-nih-vurs OH-ver-lap**) is a temporary coupling state between adjacent Concordants.
+**Universe Overlap** (pronounced: **YOO-nih-vurs OH-ver-lap**) is a temporary coupling state between adjacent [Concordants](/star-rangers/glossary/concordant/).
 
 Overlap permits measurable interaction across boundaries while preserving distinct local rule sets.
 

@@ -46,7 +46,7 @@ They are not intelligent, but they are not inert. A boundary collapse event can 
 
 Meta-dimensional beings enter Material space through:
 
-- **Boundary zones** — the most common entry point; Class II/III instability at Concordant edges allows ingress.
+- **Boundary zones** — the most common entry point; Class II/III instability at [Concordant](/star-rangers/glossary/concordant/) edges allows ingress.
 - **Universe overlap windows** — temporary coexistence periods permit partial dimensional extension into Material space.
 - **Fold-proximate instability** — unauthorised or degraded fold operations can open ingress corridors.
 

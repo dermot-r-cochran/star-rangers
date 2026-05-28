@@ -11,7 +11,7 @@ related:
 tags: [boundary, concordant, cosmology]
 ---
 
-A **boundary zone** is the region where two adjacent Concordants meet. Because each Concordant maintains slightly different physical and Etheric conditions, the overlap region produces measurable inconsistencies: instruments disagree on time, distance, and sometimes local physical constants.
+A **boundary zone** is the region where two adjacent [Concordants](/star-rangers/glossary/concordant/) meet. Because each [Concordant](/star-rangers/glossary/concordant/) maintains slightly different physical and Etheric conditions, the overlap region produces measurable inconsistencies: instruments disagree on time, distance, and sometimes local physical constants.
 
 Boundary zones are not hazardous to life in the short term, but extended exposure has documented effects on fine instrument calibration, Etheric-based practices (such as ritual work), and — in high-activity events — direct sensory perception.
 

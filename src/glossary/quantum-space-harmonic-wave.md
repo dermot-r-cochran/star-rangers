@@ -14,6 +14,6 @@ tags: [ftl, quantum, harmonic, transit]
 
 **Quantum Space Harmonic Wave** (pronounced: **KWON-tum SPAYS har-MON-ik wayv**) is a canonical faster-than-light channel.
 
-Transit occurs by phase-locking to an admissible harmonic corridor and exiting through Concordant re-synchronization.
+Transit occurs by phase-locking to an admissible harmonic corridor and exiting through [Concordant](/star-rangers/glossary/concordant/) re-synchronization.
 
 Channel lock failure causes lawful abort or forced drop-out; it is not a magic pathway.

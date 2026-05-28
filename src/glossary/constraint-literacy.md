@@ -13,7 +13,7 @@ tags: [constraint-literacy, etheric, practice, levrils]
 
 **Constraint literacy** is the developed ability to read the Etheric structures that express through the physical world — to understand what the rules of one's current layer are, and to work with those rules rather than against them.
 
-It is not magic. It does not allow a practitioner to override physical laws or Concordant-level rules. It allows a practitioner to know *which actions are coherent with the current Etheric structure* and which will be rejected — the way a skilled builder knows the grain of the wood before cutting.
+It is not magic. It does not allow a practitioner to override physical laws or [Concordant](/star-rangers/glossary/concordant/)-level rules. It allows a practitioner to know *which actions are coherent with the current Etheric structure* and which will be rejected — the way a skilled builder knows the grain of the wood before cutting.
 
 Levrils occasionally mentor mortals in constraint literacy, though their teaching is typically indirect and the curriculum is defined by the student's current situation rather than any formal syllabus.
 

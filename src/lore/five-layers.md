@@ -20,7 +20,7 @@ Provides existence boundary conditions for all lower expressions.
 - No dialogue, intention, or intervention semantics.
 
 ### Observable Effects
-- Only inferred through invariants that persist across all Concordants.
+- Only inferred through invariants that persist across all [Concordants](/star-rangers/glossary/concordant/).
 
 ## Layer 2 — Conceptual
 
@@ -56,7 +56,7 @@ Archetypal templates constrain physical and material admissibility.
 Spacetime, fields, and energy interactions.
 
 ### Mechanism
-Physical law runs locally under Concordant boundary conditions.
+Physical law runs locally under [Concordant](/star-rangers/glossary/concordant/) boundary conditions.
 
 ### Constraints
 - Boundary zones produce lawful disagreement, not law failure.
