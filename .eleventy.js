@@ -2,6 +2,27 @@ const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const markdownItContainer = require("markdown-it-container");
 
+function normalizeCrossReference(value) {
+  return String(value ?? "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .replace(/-+/g, "-");
+}
+
+function resolveGlossaryUrl(term, glossaryEntries = []) {
+  const normalizedTerm = normalizeCrossReference(term);
+  if (!normalizedTerm) return "/star-rangers/glossary/";
+
+  const match = glossaryEntries.find((entry) => {
+    const candidates = [entry?.data?.id, entry?.data?.title, entry?.fileSlug, entry?.page?.fileSlug];
+    return candidates.some((candidate) => normalizeCrossReference(candidate) === normalizedTerm);
+  });
+
+  return match?.url ? `/star-rangers${match.url}` : `/star-rangers/glossary/${normalizedTerm}/`;
+}
+
 /**
  * Build a markdown-it instance that converts :::pov <id> blocks into
  * accessible <section class="pov-block"> elements.  The POV character
@@ -59,6 +80,8 @@ module.exports = function (eleventyConfig) {
       .replace(/\s+/g, "-")
       .replace(/[^\w-]+/g, "");
   });
+
+  eleventyConfig.addFilter("glossaryUrl", (term, glossaryEntries) => resolveGlossaryUrl(term, glossaryEntries));
 
   // Custom filter: zero-pad a number to 2 digits
   eleventyConfig.addFilter("zeroPad", (n) => String(n ?? "").padStart(2, "0"));
