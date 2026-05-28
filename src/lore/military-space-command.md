@@ -6,9 +6,17 @@ tags: [msc, military-space-command, faction, solar-system, technocracy, governan
 description: "The Military Space Command: the benevolent technocratic authority that governed the Solar System before the founding of the Star Rangers — and why it could not last."
 ---
 
-The Military Space Command (MSC) was the governing authority of the Solar System for approximately two centuries before the founding of the Star Rangers. It arose from the consolidation of fractured planetary militaries after the Coherence Wars and presented itself — with genuine conviction — as the only structure capable of keeping interplanetary civilisation from tearing itself apart.
+The Military Space Command (MSC) was the governing authority of the Solar System for approximately two centuries before the founding of the Star Rangers. It was the third major interplanetary governing body in Solar System history, following the [United Space Consortium](/star-rangers/lore/united-space-consortium/) and [the Imperium](/star-rangers/lore/the-imperium/). It arose from a negotiated restructuring of Imperium authority — not a revolution — and inherited both the Imperium's technocratic officer culture and its foundational scepticism of elected governance.
 
 It was not wrong about the problem. It was wrong about the solution.
+
+## Predecessor Institutions
+
+The MSC's claim to authority rested on a historical argument that had been accumulating since the [United Space Consortium](/star-rangers/lore/united-space-consortium/) collapsed and the Coherence Wars began. In simplified form: democratic governance had failed, producing catastrophic war; the Imperium had ended the war and maintained peace; the MSC was the Imperium's more moderate successor, preserving what worked while adding civilian consultative mechanisms that the Imperium had lacked.
+
+This argument was not false. The [USC](/star-rangers/lore/united-space-consortium/) had collapsed. The wars had happened. The [Imperium](/star-rangers/lore/the-imperium/) had produced sixty years of genuine peace.
+
+What the argument omitted was that the USC's failure had been a failure of a specific democratic architecture — one that gave legacy interests structural veto power — and that the Imperium's solution had been sixty years of punitive governance over the outer settlements, the resentment from which the MSC was still managing. The lesson the MSC drew from its predecessors was that civilian input mechanisms were an improvement on raw authoritarianism. The lesson it did not draw was that civilian input mechanisms were not a substitute for accountability.
 
 ## Character
 
