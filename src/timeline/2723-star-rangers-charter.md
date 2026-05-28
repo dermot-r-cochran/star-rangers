@@ -1,0 +1,41 @@
+---
+layout: base.njk
+title: "Star Rangers Charter Signed"
+timestamp: "2723 UCSD"
+sort_order: -1030
+summary: "The Star Rangers charter is signed under the Consolidation Accords, creating an independent boundary-operations body with authority to act without approval-chain delay."
+tags: [star-rangers, charter, msc, consolidation-accords, founding, history]
+---
+
+<article class="lore-entry">
+<header class="lore-entry__header">
+  <nav aria-label="Timeline location">
+    <ol class="breadcrumb" role="list">
+      <li><a href="/star-rangers/timeline/">Timeline</a></li>
+      <li aria-current="page">Star Rangers Charter Signed</li>
+    </ol>
+  </nav>
+  <h1 class="lore-entry__title">Star Rangers Charter Signed</h1>
+  <p><span class="character-badge">2723 UCSD</span></p>
+</header>
+<div class="lore-entry__body">
+
+One year after the Consolidation Accords restructure the Military Space Command into the Solar System Defence Command, the Star Rangers charter is signed. The new institution is authorised to operate at boundary-proximate, fold-adjacent, and Concordant-edge environments without approval-chain delay. It is accountable to a civilian Oversight Council, not to any military command hierarchy.
+
+The charter cites [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/) directly as the operational case that made independent boundary-operations capacity necessary.
+
+The MSC's former senior officers regard the charter as a civilian demotion of military authority. The Oversight Council regards this reaction as expected and not disqualifying.
+
+**Canon facts:**
+- The Star Rangers are a post-MSC institution. Their independence from military hierarchy is structural, not incidental.
+- The founding assets include Dr. Pitch's fold-mechanics analysis, the *Constant Margin* navigational data, and eleven years of Eden's anomaly logs.
+- The Survey Corps — the Star Rangers' boundary-monitoring arm — is created at the same time.
+- The open questions from the *Patience First* recovery are part of the Survey Corps' founding research mandate.
+
+See: [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [Military Space Command](/star-rangers/lore/military-space-command/).
+
+</div>
+<footer class="lore-entry__footer">
+  <a href="/star-rangers/timeline/">← Back to Timeline</a>
+</footer>
+</article>
