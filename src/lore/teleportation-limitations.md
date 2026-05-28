@@ -32,7 +32,7 @@ Operationally, this means:
 
 ## Physiological and Clinical Cost
 
-Reported transit sensation is commonly described as similar to **electroconvulsive shock treatment**:
+Reported transit sensation is commonly described as similar to **electroconvulsive therapy**:
 brief, disorienting, and neurologically intense even when the jump is technically successful.
 
 Canonical medical risks increase with repeated or poorly timed teleport events:
