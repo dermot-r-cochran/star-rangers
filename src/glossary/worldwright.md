@@ -7,7 +7,7 @@ short: "The Cascade tier that establishes primary-universe coherence zones, call
 related:
   - "Concordant"
   - "Cosmic Cascade"
-  - "High Celestials"
+  - "Telerarch"
   - "Boundary Zone"
 tags: [worldwright, cascade, concordant, cosmology]
 ---
@@ -18,3 +18,4 @@ Key constraints:
 - Worldwright authority exists **only** in primary universes.
 - Adjacent [Concordants](/star-rangers/glossary/concordant/) can differ; boundary zones between them cannot be made globally uniform by Material-layer technology.
 - Worldwright does not override upper-structure tiers (Hyperomnium, Kieme, Conseleme).
+- Secondary and subsequent universes are derived from primary ones; they do not receive a new Worldwright.
