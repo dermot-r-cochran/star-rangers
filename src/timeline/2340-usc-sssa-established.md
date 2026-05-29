@@ -3,7 +3,7 @@ layout: base.njk
 title: "USC Founded; Solar System Safety Standards Authority Established"
 timestamp: "~2340 UCSD"
 sort_order: -4900
-summary: "The United Space Consortium is founded from the Navigation and Trade Accords, and consolidates off-world safety certification bodies into the Solar System Safety Standards Authority — with UL Standards International as its largest component."
+summary: "The United Space Consortium is founded from the Navigation and Trade Accords, and consolidates off-world safety certification bodies into the Solar System Safety Standards Authority — with United Space Industry Standards as its largest component."
 tags: [usc, united-space-consortium, history, governance, sssa, safety-corps, standards, certification]
 ---
 
@@ -22,7 +22,7 @@ tags: [usc, united-space-consortium, history, governance, sssa, safety-corps, st
 
 The United Space Consortium is founded, growing from the Navigation and Trade Accords of 2337 UCSD — a practical treaty between Earth's major space agencies and the largest Belt mining cooperatives. It becomes the Solar System's first formal interplanetary governing body.
 
-At the same time, the USC charters the **Solar System Safety Standards Authority (SSSA)**, consolidating the fragmented landscape of national and commercial safety certification bodies into a single mandatory-jurisdiction institution. UL Standards International is the largest single body absorbed. Its institutional culture of independence from political and commercial interference — demonstrated during the Coherence Wars, when the SSSA continued certifying all sides — transfers with it.
+At the same time, the USC charters the **Solar System Safety Standards Authority (SSSA)**, consolidating the fragmented landscape of national and commercial safety certification bodies into a single mandatory-jurisdiction institution. United Space Industry Standards is the largest single body absorbed. Its institutional culture of independence from political and commercial interference — demonstrated during the Coherence Wars, when the SSSA continued certifying all sides — transfers with it.
 
 The SSSA's independence from governmental direction on certification decisions is written into its charter. It is funded by certification fees structured to avoid financial incentives to approve marginal applications. It is not permitted to receive operational direction from USC member governments or commercial operators with active certification relationships.
 

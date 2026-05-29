@@ -26,7 +26,7 @@ The charter cites [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/) d
 
 The MSC's former senior officers regard the charter as a civilian demotion of military authority. The Oversight Council regards this reaction as expected and not disqualifying.
 
-At the same time as the Survey Corps is created, the **Solar System Safety Standards Authority** — the USC's independent certification body, and the institutional successor to UL Standards International — is absorbed into the Star Rangers and reconstituted as the **Safety Corps**. The Safety Corps retains its structural independence from command direction on certification decisions. Its seven centuries of accumulated boundary-proximate operational standards transfer with it, including the *Boundary-Proximate Operations Standards* that underpin all Survey Corps field certification. See: [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/).
+At the same time as the Survey Corps is created, the **Solar System Safety Standards Authority** — the USC's independent certification body, and the institutional successor to United Space Industry Standards — is absorbed into the Star Rangers and reconstituted as the **Safety Corps**. The Safety Corps retains its structural independence from command direction on certification decisions. Its seven centuries of accumulated boundary-proximate operational standards transfer with it, including the *Boundary-Proximate Operations Standards* that underpin all Survey Corps field certification. See: [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/).
 
 **Canon facts:**
 - The Star Rangers are a post-MSC institution. Their independence from military hierarchy is structural, not incidental.
