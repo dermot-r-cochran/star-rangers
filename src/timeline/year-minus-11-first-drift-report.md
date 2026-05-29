@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Timeline Event"
+title: "First Drift Report Filed at Threshold Station"
 timestamp: "Year -11, Late Summer"
 sort_order: 10
 summary: "The first instrument drift report is filed at Threshold Station — two chronometers in Dock Seven disagree by forty seconds. The report is closed without resolution."
@@ -20,11 +20,16 @@ tags: [threshold-station, boundary, instrument-drift]
 </header>
 <div class="lore-entry__body">
 
-The first instrument drift report is filed at Threshold Station. Two chronometers in Dock Seven show a forty-second discrepancy. The reporting officer notes that both instruments have been individually calibrated and confirmed accurate within their local position.
+The first instrument drift report is filed at Threshold Station. Two chronometers in Dock Seven show a forty-second discrepancy. The reporting officer notes that both instruments have been individually calibrated and confirmed accurate, but show divergent readings when compared. No mechanical cause can be identified.
 
-The station administration classifies the discrepancy as a calibration issue and closes the report, recommending recalibration. The discrepancy returns within forty-eight hours of the recalibration. A second report is not filed for eighteen months.
+The station administration classifies the discrepancy as a calibration issue and closes the report, recommending recalibration. The discrepancy returns within forty-eight hours of the recalibration. This is noted in the maintenance log as a single line. It is not filed as a new incident report.
 
-**Canon fact:** This event is the beginning of a documented record that will eventually span eleven years. The resolution — "calibration issue" — is incorrect.
+**Canon facts:**
+- This event is the beginning of a documented record that will eventually span eleven years.
+- The resolution — "calibration issue" — is incorrect.
+- The full incident report is preserved in the Survey Archive. See: [Incident Report 001](/star-rangers/codex/incident-report-001/).
+
+See also: [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/).
 
 </div>
 <footer class="lore-entry__footer">

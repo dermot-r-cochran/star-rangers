@@ -4,7 +4,7 @@ title: "Star Rangers Charter Signed"
 timestamp: "2723 UCSD"
 sort_order: -1030
 summary: "The Star Rangers charter is signed under the Consolidation Accords, creating an independent boundary-operations body with authority to act without approval-chain delay."
-tags: [star-rangers, charter, msc, consolidation-accords, founding, history]
+tags: [star-rangers, charter, msc, consolidation-accords, founding, history, safety-corps, sssa]
 ---
 
 <article class="lore-entry">
@@ -20,11 +20,13 @@ tags: [star-rangers, charter, msc, consolidation-accords, founding, history]
 </header>
 <div class="lore-entry__body">
 
-One year after the Consolidation Accords restructure the Military Space Command into the Solar System Defence Command, the Star Rangers charter is signed. The new institution is authorised to operate at boundary-proximate, fold-adjacent, and Concordant-edge environments without approval-chain delay. It is accountable to a civilian Oversight Council, not to any military command hierarchy.
+One year after the Consolidation Accords restructure the Military Space Command into the Solar System Defence Command, the Star Rangers charter is signed. The new institution is authorised to operate at boundary zones, fold-proximate environments, and Concordant-edge anomalies without the committee approval chains that caused the MSC's response failures.
 
 The charter cites [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/) directly as the operational case that made independent boundary-operations capacity necessary.
 
 The MSC's former senior officers regard the charter as a civilian demotion of military authority. The Oversight Council regards this reaction as expected and not disqualifying.
+
+At the same time as the Survey Corps is created, the **Solar System Safety Standards Authority** — the USC's independent certification body, and the institutional successor to UL Standards International — is absorbed into the Star Rangers and reconstituted as the **Safety Corps**. The Safety Corps retains its structural independence from command direction on certification decisions. Its seven centuries of accumulated boundary-proximate operational standards transfer with it, including the *Boundary-Proximate Operations Standards* that underpin all Survey Corps field certification. See: [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/).
 
 **Canon facts:**
 - The Star Rangers are a post-MSC institution. Their independence from military hierarchy is structural, not incidental.
@@ -34,9 +36,10 @@ The MSC's former senior officers regard the charter as a civilian demotion of mi
 - The Star Rangers have zero jurisdiction on planets or within self-governing orbital habitats above the minimum population threshold. They require an explicit invitation to enter and leave when it is withdrawn.
 - The founding assets include Dr. Pitch's fold-mechanics analysis, the *Constant Margin* navigational data, and eleven years of Eden's anomaly logs.
 - The Survey Corps — the Star Rangers' boundary-monitoring arm — is created at the same time.
+- The Safety Corps — absorbing the SSSA — is created at the same time. Its certified boundary analyst designation becomes the standard for Etheric-layer work at Threshold-class stations.
 - The open questions from the *Patience First* recovery are part of the Survey Corps' founding research mandate.
 
-See: [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [Military Space Command](/star-rangers/lore/military-space-command/).
+See: [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [Military Space Command](/star-rangers/lore/military-space-command/), [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/).
 
 </div>
 <footer class="lore-entry__footer">

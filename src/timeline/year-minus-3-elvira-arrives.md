@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Timeline Event"
+title: "Elvira Arrives at the Marsh Causeway Outpost"
 timestamp: "Year -3, Early Spring"
 sort_order: 50
 summary: "Elvira arrives at the Marsh Causeway outpost and begins independent boundary monitoring after her predecessor departs under undisclosed circumstances."
@@ -20,13 +20,15 @@ tags: [causeway, boundary, elvira]
 </header>
 <div class="lore-entry__body">
 
-Elvira takes up residence at the Marsh Causeway outpost following the departure of the previous occupant. The circumstances of the departure are not recorded in any file she has been able to access.
+Elvira takes up residence at the Marsh Causeway outpost following the departure of the previous occupant. The circumstances of the departure are not recorded in any file she has been able to access. The outpost log contains a single entry: *predecessor departed; handover incomplete.*
 
-She begins independent boundary monitoring using methods she has developed from her own study. Within the first month she identifies two Etheric structures that the previous occupant's records do not mention.
+She begins independent boundary monitoring using methods she has developed from her own study. Within the first month she identifies two Etheric structures that the previous occupant's records do not mention. She does not know whether this is because the structures are new or because the previous occupant's methods were not adequate to detect them.
 
 She files no formal reports. The outpost is not formally integrated into the station survey network.
 
-**Canon fact:** Elvira's three-year period of independent work at the causeway has generated more accurate boundary data than the station survey's eleven-year record for the same zone, though the station survey does not yet know she exists.
+**Canon fact:** Elvira's three-year period of independent work at the causeway has generated more accurate boundary data than the station survey's eleven-year record for the same zone, though the two datasets have never been formally compared because no one has yet realised both exist.
+
+See also: [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/).
 
 </div>
 <footer class="lore-entry__footer">
