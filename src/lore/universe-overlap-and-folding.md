@@ -15,7 +15,7 @@ Worldwrights create primary universes only. Secondary and subsequent universes a
 ### Definition
 A **primary universe** is created directly by a Worldwright and contains one or more [Concordants](/star-rangers/glossary/concordant/).
 
-A **secondary universe** (and all subsequent derived universes) arises from the interaction of two or more primary universes through overlap or folding. Secondary universes are not independently authored; they inherit and recombine constraint sets from their source primaries.
+A **secondary universe** (and all subsequent derived universes) arises from the interaction of two or more primary universes through overlap or folding. Secondary universes are not independently authored by a Worldwright.
 
 ### Constraints
 - Only primary universes possess a Worldwright.
@@ -56,6 +56,7 @@ Localised topology rewrite of distance metrics while preserving global causality
 - Folding is not equivalent to universe overlap.
 - Folding cannot rewrite primary-universe Worldwright authority.
 - Repeated folding in unstable boundary zones accumulates coherence debt.
+- Local gravitational gradient is the primary physical variable governing scaffold stability. High curvature introduces aperture shear and shortens safe transit windows. Low-gradient regions — in particular the stable [Lagrange points](/star-rangers/lore/lagrange-fold-points/) (L4 and L5) of any two-body orbital system — are the preferred scaffolding sites because their near-zero net gradient allows wider apertures and cleaner collapse sequences.
 
 ### Observable Effects
 - Spatial coincidence artefacts in optical and lidar systems.
@@ -71,6 +72,9 @@ Localised topology rewrite of distance metrics while preserving global causality
 
 ### Boundary-Proximal Folding
 Fold operations near active boundary zones require stricter aperture limits.
+
+### Lagrange-Site Folding
+Fold operations initiated from L4 or L5 Lagrange positions are classified Tier 1 by Survey Corps navigation protocol. These sites require minimal station-keeping during scaffold generation and produce the lowest coherence-debt profile of any available departure geometry. See [Lagrange Points and Fold-Space Transit](/star-rangers/lore/lagrange-fold-points/) for the full treatment.
 
 ### Overlap Without Transit
 Overlap windows can occur without vehicle translation and still generate measurable drift.

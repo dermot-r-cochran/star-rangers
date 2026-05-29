@@ -41,6 +41,18 @@ Topological distance compression via controlled higher-dimensional fold geometry
 - Fold duration and aperture are strictly bounded.
 - Instability risk rises sharply near active boundary zones.
 - Unauthorized fold amplification triggers enforcement response.
+- Local gravitational gradient is the primary variable in scaffold stability. Significant curvature introduces aperture shear, reduces safe transit windows, and increases post-transit re-sync debt.
+
+### Preferred Departure Geometry
+Fold operations are most stable when initiated from regions of minimal gravitational gradient. [Lagrange points](/star-rangers/lore/lagrange-fold-points/) — gravitationally balanced positions in any two-body orbital system — are the standard preferred staging sites. L4 and L5 (the stable trojan points, 60° ahead and behind a body in its orbit) are the highest-rated fold-staging zones because their equilibria are self-correcting: a displaced vessel drifts back rather than away, requiring minimal station-keeping during scaffold generation.
+
+Operating from a Tier 1 Lagrange site (L4 or L5) produces:
+- Wider admissible aperture limits
+- Extended safe transit windows
+- Lower re-sync debt on exit
+- Cleaner fold collapse sequences
+
+This does not make impossible transits possible. A valid corridor still requires a [Concordant](/star-rangers/glossary/concordant/)-compatible destination and an admissible connecting geometry. Lagrange staging improves the quality of valid transits; it does not generate them.
 
 ### Observable Effects on Time-Bound Entities
 - Simultaneous visual traces at origin and destination during fold peak.
@@ -55,7 +67,7 @@ Topological distance compression via controlled higher-dimensional fold geometry
 ## Failure Modes
 
 - Harmonic decoherence: channel lock degrades and transit aborts.
-- Fold shear: unstable geometry causes navigational offset.
+- Fold shear: unstable geometry causes navigational offset. More likely when operating outside Tier 1 Lagrange sites.
 - Re-sync debt: post-transit instruments require staged recalibration.
 
 ## Continuity Rules
@@ -63,3 +75,4 @@ Topological distance compression via controlled higher-dimensional fold geometry
 - Every FTL event must declare channel type.
 - Mixed-channel events require explicit handoff conditions.
 - Special-case exceptions are invalid unless expressed as constraints.
+- Fold-channel events should record departure geometry class (Tier 1 Lagrange, Tier 2, or unclassified) in mission logs.
