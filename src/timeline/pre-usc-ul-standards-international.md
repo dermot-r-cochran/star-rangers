@@ -3,8 +3,8 @@ layout: base.njk
 title: "UL Standards International Formed"
 timestamp: "Pre-USC era, ~Phase A/B transition"
 sort_order: -7500
-summary: "UL Solutions merges with European and Asian standards bodies to form UL Standards International, extending its safety certification mandate to all human-occupied off-world environments — the beginning of the lineage that will become the Star Rangers Safety Corps."
-tags: [earth, history, pre-expansion, pre-usc, ul-solutions, standards, safety-corps, certification]
+summary: "A global safety certification body merges with European and Asian standards organisations to form UL Standards International, extending its mandate to all human-occupied off-world environments — the beginning of the lineage that will become the Star Rangers Safety Corps."
+tags: [earth, history, pre-expansion, pre-usc, standards, safety-corps, certification]
 ---
 
 <article class="lore-entry">
@@ -20,7 +20,7 @@ tags: [earth, history, pre-expansion, pre-usc, ul-solutions, standards, safety-c
 </header>
 <div class="lore-entry__body">
 
-UL Solutions — the successor to Underwriters Laboratories, founded in Chicago in 1894 to provide independent safety testing for electrical equipment — merges with European and Asian standards bodies to form **UL Standards International**. Its mandate extends to all human-occupied off-world environments.
+The global safety certification body whose lineage traces to Underwriters Laboratories — founded in Chicago in 1894 to provide independent safety testing for electrical equipment — merges with European and Asian standards organisations to form **UL Standards International**. Its mandate extends to all human-occupied off-world environments.
 
 The move is driven not by institutional ambition but by commercial necessity: the operators deploying hardware in orbital, cislunar, and lunar environments need certified safety assessments their insurers will accept. UL Standards International is the body whose testing methodology those insurers can audit.
 

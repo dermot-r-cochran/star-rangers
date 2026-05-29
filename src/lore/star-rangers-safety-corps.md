@@ -2,21 +2,21 @@
 layout: lore-entry.njk
 title: "The Star Rangers Safety Corps"
 category: "History"
-tags: [star-rangers, safety-corps, history, ul-solutions, standards, certification, early-expansion, survey-corps, boundary]
-description: "The Star Rangers Safety Corps and its institutional lineage from UL Solutions: how a twenty-first century product safety organisation became the Solar System's primary certification authority for boundary-proximate and fold-adjacent environments."
+tags: [star-rangers, safety-corps, history, standards, certification, early-expansion, survey-corps, boundary]
+description: "The Star Rangers Safety Corps and its institutional lineage from a twenty-first century product safety organisation to the Solar System's primary certification authority for boundary-proximate and fold-adjacent environments."
 ---
 
 The Star Rangers Safety Corps is the oldest continuous institutional ancestor within the Star Rangers organisational family. Its operational culture predates the Star Rangers by nearly seven centuries. Its founding document is not the Consolidation Accords or the Star Rangers Charter; it is a product safety testing standard published in Chicago in 1894.
 
 This is not considered ironic within the Safety Corps. It is considered foundational.
 
-## UL Solutions and the Standards Lineage
+## Underwriters Laboratories and the Standards Lineage
 
-Underwriters Laboratories was founded in 1894 to test electrical equipment for insurance underwriters who needed an independent, evidence-based assessment of whether a product would burn down the building it was installed in. By the early twenty-first century, its successor organisation — UL Solutions — had expanded its mandate to encompass safety science, certification, testing, and standards development across a range of industries that would have been unrecognisable to its founders.
+Underwriters Laboratories was founded in 1894 to test electrical equipment for insurance underwriters who needed an independent, evidence-based assessment of whether a product would burn down the building it was installed in. By the early twenty-first century, its successor organisation had expanded its mandate to encompass safety science, certification, testing, and standards development across a range of industries that would have been unrecognisable to its founders.
 
 The core methodology had not changed: define what failure looks like, test whether a system fails that way, certify those that do not, and maintain the standards that make the certification meaningful.
 
-When the Early Expansion period began producing hardware that needed to operate in environments for which no safety standards existed — the vacuum of orbital space, the radiation environment of the outer system, the thermal extremes of lunar surface operations — UL Solutions was among the first certification bodies to move into the gap. Not because it had been assigned the mandate, but because the commercial operators deploying the hardware needed certified safety assessments their insurers would accept, and the insurers needed a body whose methodology they could audit.
+When the Early Expansion period began producing hardware that needed to operate in environments for which no safety standards existed — the vacuum of orbital space, the radiation environment of the outer system, the thermal extremes of lunar surface operations — the organisation was among the first certification bodies to move into the gap. Not because it had been assigned the mandate, but because the commercial operators deploying the hardware needed certified safety assessments their insurers would accept, and the insurers needed a body whose methodology they could audit.
 
 The work was not glamorous. It involved long arguments about test protocols, detailed disputes about acceptable failure-rate margins, and the slow accumulation of standards documents that nobody read unless something went wrong. When something went wrong, people read them very carefully.
 
@@ -24,7 +24,7 @@ The work was not glamorous. It involved long arguments about test protocols, det
 
 As the off-world population grew from hundreds to thousands, the relevant question for safety certification shifted from *will this device fail in a predictable way* to *will this environment kill everyone in it if this device fails in a predictable way*. The difference in consequence was large enough to require a different institutional form.
 
-UL Standards International — the successor organisation that emerged from the consolidation of UL Solutions with several European and Asian standards bodies in approximately 2089 — took on that expanded mandate. Its jurisdiction extended to all human-occupied off-world environments. Its certification covered not only hardware but operational procedures, habitat design parameters, life-support system integration, and — as the boundary-monitoring programme expanded — instrumentation operating in anomalous physical environments.
+UL Standards International — the successor organisation that emerged from the consolidation of the existing body with several European and Asian standards bodies in approximately 2089 — took on that expanded mandate. Its jurisdiction extended to all human-occupied off-world environments. Its certification covered not only hardware but operational procedures, habitat design parameters, life-support system integration, and — as the boundary-monitoring programme expanded — instrumentation operating in anomalous physical environments.
 
 The challenge of boundary-proximate certification was the one that defined the organisation's character for the centuries that followed. Boundary zones, where adjacent Concordants produce measurable divergence in local physical constants, do not behave predictably in the ways that standard safety testing assumes. An instrument that is correctly calibrated and certified for operation within a stable Concordant domain may produce unreliable readings — or fail entirely — within a Class II or Class III boundary zone. The failure is not a defect in the instrument. It is a defect in the certification framework that did not account for the environment.
 
@@ -68,7 +68,7 @@ This produces a relationship with the Survey Corps that is productive and occasi
 
 Neither corps functions well without the other. Neither would publicly admit this without qualification.
 
-The Safety Corps' internal motto — not official, not published, understood by everyone who has spent time there — is a direct inheritance from UL Solutions' founding purpose, translated across seven centuries and an entirely changed operational environment:
+The Safety Corps' internal motto — not official, not published, understood by everyone who has spent time there — is a direct inheritance from its founding purpose, translated across seven centuries and an entirely changed operational environment:
 
 *Define what failure looks like. Test for it. Certify those that pass.*
 
