@@ -2,7 +2,7 @@
 
 The stars call us forward with hope; to protect what is good and to see what is true.
 
-*Star Rangers* is an Eleventy-powered interactive science-fantasy novel that tells one canonical history across multiple character viewpoints. The project combines episodic fiction, character profiles, timeline records, lore articles, glossary definitions, and in-universe documents into a single navigable story world.
+*Star Rangers* is an Eleventy-powered interactive science-fantasy novel of memory, duty, and fragile civic light at the edge of the known world. Told across multiple character viewpoints, it gathers episodic fiction, character studies, timeline records, lore, glossary entries, and in-universe documents into a single unfolding history.
 
 ## Synopsis
 
