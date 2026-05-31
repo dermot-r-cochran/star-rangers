@@ -30,14 +30,25 @@ Recent updates expanded the setting’s canon, refined the timeline, and improve
 
 ### Changelog
 
+#### Lore
+
 - Added new lore entries covering teleportation constraints and their narrative implications.
 - Added fold-space world-building around Lagrange fold-points and cross-references within related FTL articles.
 - Added lore for the Subsea Cable Warden Programme.
 - Added lore for the Star Rangers Safety Corps and its historical lineage.
+
+#### Timeline
+
 - Expanded the timeline with pre-United Stellar Concord historical entries.
 - Revised timeline titles and updated charter references for the Safety Corps and the SSSA.
+
+#### Terminology and continuity
+
 - Renamed references to "UL Standards International" as "United Space Industry Standards" across lore and timeline content.
 - Removed direct mentions of UL Solutions by name from lore and timeline entries.
+
+#### Integration
+
 - Merged recent pull-request-based content updates, including transit safety and teleportation-limit canon integration.
 
 ## Local development
