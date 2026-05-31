@@ -22,6 +22,14 @@ Star Rangers is an Eleventy-powered interactive science-fantasy novel with one c
   - Episode 2
     - `S01E02C01` — *The Broken Causeway*
 
+## Recent updates
+
+- Expanded the lore with new canon covering teleportation constraints, Lagrange fold-points, the Subsea Cable Warden Programme, and the Star Rangers Safety Corps lineage.
+- Extended the timeline with pre-United Stellar Concord historical entries, revised titles, and updated charter references for the Safety Corps and the SSSA.
+- Renamed references to "UL Standards International" as "United Space Industry Standards" across lore and timeline content for setting consistency.
+- Removed direct mentions of UL Solutions by name from lore and timeline entries.
+- Merged recent content updates through pull requests, including narrative integration for transit safety and teleportation-limit canon.
+
 ## Local development
 
 ```bash
