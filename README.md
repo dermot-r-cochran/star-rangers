@@ -2,16 +2,20 @@
 
 The stars call us forward with hope; to protect what is good and to see what is true.
 
-Star Rangers is an Eleventy-powered interactive science-fantasy novel with one canonical history told across multiple character viewpoints.
+*Star Rangers* is an Eleventy-powered interactive science-fantasy novel that tells one canonical history across multiple character viewpoints. The project combines episodic fiction, character profiles, timeline records, lore articles, glossary definitions, and in-universe documents into a single navigable story world.
+
+## Synopsis
+
+In a far-future human civilization shaped by fragile alliances, fold-space travel, and the burden of institutional memory, *Star Rangers* follows the people and organisations tasked with keeping the peace at the edge of the known world. Across stations, causeways, archives, and contested frontiers, the story explores how truth is preserved, how systems fail, and how hope survives when history itself becomes a battleground.
 
 ## Site sections
 
 - **Seasons & Episodes** (`/seasons/`) — Read chapters in canonical order and switch POV within chapters.
 - **Characters** (`/characters/`) — Profiles of named people, beings, constructs, and entities.
-- **Timeline** (`/timeline/`) — Canonical event order, independent of reveal order in chapters.
-- **Lore** (`/lore/`) — Out-of-story world-building and cosmology articles.
-- **Glossary** (`/glossary/`) — Definitions of in-universe terms and concepts.
-- **Codex** (`/codex/`) — In-universe primary documents, logs, and records.
+- **Timeline** (`/timeline/`) — Follow the canonical order of events independent of reveal order in the narrative.
+- **Lore** (`/lore/`) — Explore out-of-story world-building, cosmology, and story bible material.
+- **Glossary** (`/glossary/`) — Reference definitions of in-universe terms, institutions, and concepts.
+- **Codex** (`/codex/`) — Read in-universe primary documents, logs, reports, and records.
 
 ## Current story content
 
