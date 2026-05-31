@@ -6,7 +6,7 @@ The stars call us forward with hope; to protect what is good and to see what is 
 
 ## Synopsis
 
-In a far-future human civilization shaped by fragile alliances, fold-space travel, and the burden of institutional memory, *Star Rangers* follows the people and organisations tasked with keeping the peace at the edge of the known world. Across stations, causeways, archives, and contested frontiers, the story explores how truth is preserved, how systems fail, and how hope survives when history itself becomes a battleground.
+In the long afterlight of empire, humanity endures among stations, causeways, archives, and contested reaches of folded space. *Star Rangers* follows those who keep watch where law grows thin and memory carries its own power: navigators, wardens, witnesses, and guardians of a fragile civic order. Across converging points of view, the story traces how truth is guarded, how institutions fracture, and how hope persists even when history itself becomes unstable.
 
 ## Site sections
 
