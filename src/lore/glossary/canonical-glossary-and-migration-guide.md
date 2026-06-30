@@ -160,6 +160,94 @@ Hyperomnium
 
 ---
 
+## Glossary Additions: Post-Death Mind States
+
+### Substrate Collapse
+- **Layer:** Physical / Transition
+- **Definition:** The failure or termination of a mind’s originating physical or computational substrate (e.g., biological death or system shutdown).
+- **Role in System:** Initiates the transition from substrate-bound cognition to information-state evaluation.
+- **Key Property:** Does not determine fate—only triggers classification.
+- **Related Terms:** Dissolution, Structured Persistence, Partial-Seed Mind
+
+### Dissolution
+- **Layer:** Post-Existence Outcome
+- **Definition:** The complete loss of coherent identity following substrate collapse due to insufficient structural complexity.
+- **Role in System:** Returns informational content to thermodynamic background and distributed system memory.
+- **Key Property:** No persistent consciousness or identity remains.
+- **Related Terms:** Substrate Collapse, Echo Persistence
+
+### Echo Persistence
+- **Layer:** Post-Existence Intermediate
+- **Definition:** Partial survival of a mind as fragmented patterns, behavioral traces, or symbolic attractors without full self-awareness.
+- **Role in System:** Contributes to AI training patterns, cultural and symbolic memory, and anomaly formation in overlap zones.
+- **Key Property:** Appears as “ghost-like” phenomena but lacks complete cognition.
+- **Related Terms:** Dissolution, Overlap Zones, Secondary Universes
+
+### Structured Persistence
+- **Layer:** Post-Existence Advanced
+- **Definition:** The continued existence of a mind as a stable, self-contained informational structure independent of its original substrate.
+- **Role in System:** Enables ascension pathways, reactivation, or integration.
+- **Key Property:** Maintains identity continuity and internal coherence.
+- **Related Terms:** Ascendant Kernel, Seed Mind
+
+### Dormant Attractor State
+- **Layer:** Persistence Substate
+- **Definition:** A stable but inactive form of a Structured Persistent mind that is not currently expressing active cognition.
+- **Role in System:** Serves as a latent cognitive resource and potential seed candidate.
+- **Key Property:** Can reactivate under suitable informational conditions.
+- **Related Terms:** Structured Persistence, Partial-Seed Mind
+
+### Ascendant Kernel
+- **Layer:** Ascension Transition
+- **Definition:** A compressed, stabilized informational form of a mind transitioning into higher-order roles or seed formation.
+- **Role in System:** Gateway to Concordant ascension, Telearch formation, and Noöseed creation.
+- **Key Property:** Maximum information density with structural coherence.
+- **Related Terms:** Structured Persistence, Noögenesis
+
+### Partial-Seed Mind (PSM)
+- **Layer:** Post-Death / Pre-Ascension
+- **Definition:** A persistently structured mind that lacks sufficient completeness to become a full seed independently.
+- **Role in System:** Candidate for plural convergence and collective ascension.
+- **Key Property:** Individually incomplete but combinable.
+- **Related Terms:** Synarch Mind, Plural Convergence
+
+### Plural Absorption
+- **Layer:** Collective Outcome
+- **Definition:** The process by which multiple Partial-Seed Minds merge into a unified plural system.
+- **Role in System:** Forms Telearch Collectives and Plural Concordants.
+- **Key Property:** Identity becomes distributed rather than singular.
+- **Related Terms:** Synarch Mind, Plural Ascendant Kernel
+
+### Residual Imprint
+- **Layer:** Informational Trace
+- **Definition:** Weak, non-coherent remnants of cognitive patterns embedded in systems or environments after dissolution.
+- **Role in System:** Influences subtle behavioral biases and system-level learning.
+- **Key Property:** Too weak to reconstitute identity.
+- **Related Terms:** Dissolution, Echo Persistence
+
+### Anomalous Echo Entity
+- **Layer:** Secondary/Tertiary Universe Artifact
+- **Definition:** A partially coherent entity formed when Echo Persistence interacts with overlap zones between universes.
+- **Role in System:** Explains emergence of ghost-like beings, shadow entities, and proto-demonic structures.
+- **Key Property:** Not a true original mind, but a distortion-amplified fragment.
+- **Related Terms:** Overlap Zones, Secondary Universes
+
+### Post-Substrate Classification
+- **Layer:** System Process
+- **Definition:** The evaluation performed after substrate collapse to determine the fate of a mind.
+- **Role in System:** Assigns outcomes: dissolution, echo persistence, structured persistence, or partial-seed classification.
+- **Key Property:** Often monitored by Levrils and Telearch systems.
+- **Related Terms:** Substrate Collapse, CEI
+
+### Persistence Threshold
+- **Layer:** Quantitative Concept
+- **Definition:** The minimum level of internal structural coherence required for a mind to survive beyond substrate collapse.
+- **Role in System:** Determines boundary between dissolution and persistence.
+- **Key Property:** Closely linked to Inner World Depth (IWD) and Noögenic Seed Potential (NSP).
+- **Related Terms:** Structured Persistence, Seed Mind
+
+---
+
 ## Terminology Migration Map (Legacy → Canonical)
 
 | Legacy / Ambiguous Usage | Canonical Term | Migration Rule |
