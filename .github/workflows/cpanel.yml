@@ -1,0 +1,104 @@
+name: Deploy to cPanel (WordPress & HubHub)
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+# Only one deployment per target runs at a time; newer runs cancel in-progress ones.
+concurrency:
+  group: cpanel-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # ------------------------------------------------------------------ #
+  # Build the site once with a root path prefix (no /star-rangers/ sub- #
+  # directory) suitable for deployment to custom domains.               #
+  # ------------------------------------------------------------------ #
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build with Eleventy (root path prefix)
+        run: npx eleventy --pathprefix=/
+
+      - name: Upload site artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
+          retention-days: 1
+
+  # ------------------------------------------------------------------ #
+  # Apply the WordPress theme and deploy to the cPanel WordPress host.  #
+  # Required secrets: WORDPRESS_FTP_HOST, WORDPRESS_FTP_USER,          #
+  #                   WORDPRESS_FTP_PASSWORD                            #
+  # Required vars:    WORDPRESS_FTP_PATH, WORDPRESS_DOMAIN             #
+  # ------------------------------------------------------------------ #
+  deploy-wordpress:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: wordpress
+      url: https://${{ vars.WORDPRESS_DOMAIN }}
+    steps:
+      - name: Download site artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+
+      - name: Apply WordPress theme
+        run: cp _site/css/theme-wordpress.css _site/css/main.css
+
+      - name: Deploy to WordPress via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.WORDPRESS_FTP_HOST }}
+          username: ${{ secrets.WORDPRESS_FTP_USER }}
+          password: ${{ secrets.WORDPRESS_FTP_PASSWORD }}
+          local-dir: ./_site/
+          server-dir: ${{ vars.WORDPRESS_FTP_PATH }}
+
+  # ------------------------------------------------------------------ #
+  # Apply the HubHub theme and deploy to the cPanel HubHub host.        #
+  # Required secrets: HUBHUB_FTP_HOST, HUBHUB_FTP_USER,               #
+  #                   HUBHUB_FTP_PASSWORD                               #
+  # Required vars:    HUBHUB_FTP_PATH, HUBHUB_DOMAIN                   #
+  # ------------------------------------------------------------------ #
+  deploy-hubhub:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: hubhub
+      url: https://${{ vars.HUBHUB_DOMAIN }}
+    steps:
+      - name: Download site artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+
+      - name: Apply HubHub theme
+        run: cp _site/css/theme-hubhub.css _site/css/main.css
+
+      - name: Deploy to HubHub via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.HUBHUB_FTP_HOST }}
+          username: ${{ secrets.HUBHUB_FTP_USER }}
+          password: ${{ secrets.HUBHUB_FTP_PASSWORD }}
+          local-dir: ./_site/
+          server-dir: ${{ vars.HUBHUB_FTP_PATH }}
