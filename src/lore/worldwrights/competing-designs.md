@@ -133,10 +133,10 @@ Their dispute anchors an enduring question in Star Rangers cosmology:
 
 ## Cross-Links
 
-- [Seed Mind Lifecycle](/star-rangers/lore/processes/seed-mind-lifecycle/)
-- [Creative Entropy](/star-rangers/lore/cosmology/creative-entropy/)
-- [Aelyth-7 Vossara](/star-rangers/lore/characters/aelyth-7-vossara/)
-- [Hierarchy](/star-rangers/lore/hierarchy/)
+- [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/)
+- [Creative Entropy Framework](/star-rangers/lore/creative-entropy-framework/)
+- [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding-system/)
+- [Canonical Glossary and Terminology Migration Guide](/star-rangers/lore/glossary/canonical-glossary-and-migration-guide/)
 
 ---
 

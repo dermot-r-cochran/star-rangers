@@ -32,7 +32,7 @@ The Programme's existence is not acknowledged by any participating government fo
 - The Programme is eventually absorbed into the USC's infrastructure security division and later its records transfer to the Survey Archive under the Accords.
 - The communications backbone the Programme protected was a direct enabler of sustained off-world investment during the critical Early Expansion period.
 
-See: [The Subsea Cable Warden Programme](/star-rangers/lore/subsea-cable-drones/), [The Early Off-World Expansion](/star-rangers/lore/early-off-world-expansion/).
+See: [The Subsea Cable Warden Programme](/star-rangers/lore/subsea-cable-drones/), [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/).
 
 </div>
 <footer class="lore-entry__footer">
