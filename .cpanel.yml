@@ -1,0 +1,33 @@
+---
+# cPanel Git Version Control deployment configuration.
+# This file is executed by cPanel whenever you push to the repository
+# configured under cPanel → Git Version Control.
+#
+# Prerequisites in cPanel:
+#   1. Set up Node.js via "Setup Node.js App" (or ensure `node`/`npm` are on PATH).
+#   2. Create a Git repository pointing at this repo under "Git Version Control"
+#      and enable "Deployment" with this file.
+#
+# Environment variables available automatically:
+#   $REPOSITORY_ROOT  – absolute path to the checked-out repository
+#   $DEPLOY_PATH      – set below; change to match your WordPress public_html sub-directory
+
+deployment:
+  tasks:
+    # ── 1. Set the target WordPress directory ──────────────────────────────
+    # Edit this path to match where WordPress is installed on your server.
+    # Typical cPanel layout: /home/<cpanel-user>/public_html/
+    - export DEPLOY_PATH=/home/$USER/public_html
+
+    # ── 2. Install Node.js dependencies ────────────────────────────────────
+    - cd $REPOSITORY_ROOT && npm ci --prefer-offline
+
+    # ── 3. Build the Eleventy site (no path prefix – root deployment) ───────
+    - cd $REPOSITORY_ROOT && npx eleventy --pathprefix=/
+
+    # ── 4. Apply the WordPress theme CSS ───────────────────────────────────
+    - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css
+    - cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
+
+    # ── 5. Sync built files to WordPress public_html ───────────────────────
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ $DEPLOY_PATH/
