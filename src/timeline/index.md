@@ -5,7 +5,9 @@ description: "The canonical sequence of events in Star Rangers — one fixed his
 ---
 <h1 class="page-title">Timeline</h1>
 <p class="page-intro">
-  This is the official sequence: what happened, when it happened, and where the record still holds. Chapters may dispute motive, memory, or meaning. This timeline keeps to confirmed fact first.
+  One canonical timeline. Events are presented in the order they occurred, independent of the order
+  they are revealed to the reader. POV blocks within chapters may interpret events differently, but
+  this record reflects confirmed facts.
 </p>
 
 {% set events = collections.timelineEvents %}

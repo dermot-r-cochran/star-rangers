@@ -5,7 +5,8 @@ description: "Definitions of every term, name, and concept used in Star Rangers.
 ---
 <h1 class="page-title">Glossary</h1>
 <p class="page-intro">
-  Words fail first when a frontier starts to slip. This glossary fixes the terms used across the record. If a term carries rival meanings in-universe, the confirmed canonical sense appears first.
+  Definitions of terms, names, and concepts as they are understood within the story's universe.
+  Where a term has multiple in-universe interpretations, the confirmed canonical meaning is given first.
 </p>
 
 {% set terms = collections.glossary %}
