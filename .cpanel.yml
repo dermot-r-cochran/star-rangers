@@ -14,7 +14,7 @@
 # Typical layout: /home/<cpanel-username>/public_html/
 # Example sub-directory: /home/<cpanel-username>/public_html/star-rangers/
 #
-# cPanel-provided environment variables used here:
+# cPanel-provided environment variable used here:
 #   $REPOSITORY_ROOT – absolute path to the checked-out repository
 
 deployment:
@@ -29,5 +29,4 @@ deployment:
     - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css && cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
 
     # ── 4. Sync built files to WordPress public_html ───────────────────────
-    # !! EDIT the destination path before deploying !!
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/$USER/public_html/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
