@@ -68,3 +68,7 @@ npm run start
 npm run build
 npm run test
 ```
+
+## Creative tooling
+
+- Repository-aligned master prompt: [`/home/runner/work/star-rangers/star-rangers/prompts/star-rangers-universe-engine.md`](/prompts/star-rangers-universe-engine.md)
