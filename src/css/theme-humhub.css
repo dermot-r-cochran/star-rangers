@@ -1,0 +1,24 @@
+/* =============================================
+   Star Rangers — HumHub Theme
+   Overrides brand tokens for the HumHub domain.
+   ============================================= */
+
+@import url("base.css");
+
+:root {
+  --color-bg: #f5f8ff;
+  --color-surface: #ffffff;
+  --color-surface-2: #eef2fb;
+  --color-border: #c8d4f0;
+  --color-text: #0a0e2a;
+  --color-text-muted: #4a5580;
+  --color-accent: #4a6cf7;
+  --color-accent-hover: #2349e5;
+  --color-canon: #f59e0b;
+  --color-pov-active: #4a6cf7;
+  --color-pov-bg: #eef2fb;
+  --color-skip-bg: #4a6cf7;
+  --color-skip-text: #ffffff;
+  --font-body: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --font-ui: "Inter", "Helvetica Neue", Arial, sans-serif;
+}
