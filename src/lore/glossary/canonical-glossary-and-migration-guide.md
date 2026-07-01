@@ -271,8 +271,8 @@ Hyperomnium
 
 ## Cross-Links
 
-- [Hierarchy](/star-rangers/lore/hierarchy/)
-- [Creative Entropy](/star-rangers/lore/cosmology/creative-entropy/)
-- [Seed Mind Lifecycle](/star-rangers/lore/processes/seed-mind-lifecycle/)
-- [Aelyth-7 Vossara](/star-rangers/lore/characters/aelyth-7-vossara/)
-- [Competing Worldwright Designs](/star-rangers/lore/worldwrights/competing-designs/)
+- [Worldwright Design Philosophies](/star-rangers/lore/worldwrights/competing-designs/)
+- [Creative Entropy Framework](/star-rangers/lore/creative-entropy-framework/)
+- [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/)
+- [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding-system/)
+- [Universe Overlap and Folding](/star-rangers/lore/universe-overlap-and-folding/)

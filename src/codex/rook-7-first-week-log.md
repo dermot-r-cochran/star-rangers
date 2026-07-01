@@ -22,7 +22,7 @@ Chronometers C-7A and C-7B: 40-second discrepancy confirmed on arrival. Discrepa
 
 Panel 7-C: stress fracture pattern. Frequency: noted.
 
-Team lead (Thorne, G.): prior Krenyi experience confirmed by observation. Reads incident reports chronologically. Notice gap in Year -8 record: no mention of connection between discrepancy and prior boundary survey. *He noticed this too.*
+Team lead (Thorne, G.): prior Krenyi experience confirmed by observation. Reads incident reports chronologically. Noted gap in Year -8 record: no mention of connection between discrepancy and prior boundary survey. *He noticed this too.*
 
 Krenyi analyst (Syra): coherence-maintenance posture active throughout orientation. Normal for boundary-proximate environments. *She will be the most accurate observer in the group.*
 

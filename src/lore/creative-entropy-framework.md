@@ -75,5 +75,5 @@ Higher novelty contribution yields stronger [AI Usage Credits (AUC)](/star-range
 
 See also:
 - [AI Usage Credits (AUC)](/star-rangers/lore/ai-usage-credits/)
-- [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding/)
+- [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding-system/)
 - [Threnos-Ω: Post-Entropy Universe](/star-rangers/lore/universes/threnos-omega/)
