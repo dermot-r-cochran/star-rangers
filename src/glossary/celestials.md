@@ -12,8 +12,8 @@ related:
 tags: [celestials, frenar, cascade, enforcement]
 ---
 
-**Celestials** (pronounced: **suh-LES-tee-ulz**) are the operational enforcement tier below Telearchs.
+**Celestials** (pronounced: **suh-LES-tee-ulz**) are the operational enforcement tier of the Cosmic Cascade, sitting directly below Telearchs in the fixed hierarchy.
 
-**Frenar** is a legacy designation for this same tier. Canonically: Frenar = Celestial.
+Their function is concrete: Celestials maintain Concordant-boundary integrity through lawful enforcement actions, acting within the scope delegated to them by Telearchs.
 
-Celestials maintain Concordant-boundary integrity through lawful enforcement actions.
+**Frenar** is a legacy designation for this same tier. In all current canon, Celestial and Frenar are synonymous. Historical records may use either term.

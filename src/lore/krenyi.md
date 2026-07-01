@@ -6,6 +6,8 @@ tags: [krenyi, species, boundary, clarity, polyamorous, long-lived]
 description: "The Krenyi, also called the Quiet-Built or Nai: long-lived beings defined by clarity, coherence, and resistance to mythification."
 ---
 
+A Krenyi will often answer the room before they answer the question: posture steady, gaze direct, no wasted gesture, no ornamental mystery. That clarity is not affect. It is structure.
+
 The Krenyi — also called the Quiet-Built, or known individually by the state-marker "Nai" — are a long-lived humanoid people who are structurally distinct from humans in several important ways.
 
 ## Physical and Social Characteristics
@@ -18,7 +20,7 @@ The Krenyi — also called the Quiet-Built, or known individually by the state-m
 
 ## Emotional Range
 
-The Krenyi are sometimes described as "emotional" by those who interact with them without understanding. In fact, they experience a specifically bounded range:
+To human observers, Krenyi can seem unusually calm. The more precise truth is that their emotional range is bounded in specific ways.
 
 - **Anxiety:** yes. **Deep fear:** no. (They do not experience the deep-fear response that shuts down clear thinking; this makes them effective in situations where panic cascades are a concern.)
 - **Annoyance / mild anger:** yes. **Fury:** no.
@@ -34,7 +36,9 @@ This is not suppression. It is structural.
 
 ## Resistance to Mythification
 
-Krenyi actively resist being turned into symbols, omens, or archetypes. If someone begins to treat them as a category rather than a person, they name it and redirect to material terms. This resistance to glamour (in the cosmological sense — not aesthetic glamour) is an extension of their coherence-maintenance practice.
+Krenyi resist becoming symbol, omen, or allegory. If someone begins treating them as a category instead of a person, they name the distortion and return the exchange to material terms.
+
+That resistance to glamour—in the cosmological sense, not the aesthetic one—is part of their coherence-maintenance practice.
 
 ## The Terminology
 

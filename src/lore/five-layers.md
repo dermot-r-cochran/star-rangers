@@ -6,6 +6,8 @@ tags: [cosmology, layers, spiritual, conceptual, etheric, physical, material]
 description: "The five ontological layers and their measurable interaction rules in the Star Rangers universe."
 ---
 
+A stone falls, a promise lingers, a pattern repeats, and a prayer is mistaken for causality. The Five Layers exist to keep those different kinds of event from being confused with one another.
+
 Reality is expressed through five layers. These layers are causal modes, not metaphorical planes.
 
 ## Layer 1 — Spiritual

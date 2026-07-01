@@ -6,9 +6,11 @@ tags: [court-fae, gilded-saints, cute-predators, predatory-entities, ambiguity, 
 description: "The three principal classes of predatory meta-dimensional entity in the Star Rangers universe, classified by sapience and feeding method."
 ---
 
-Three classes of predatory meta-dimensional entity exploit social, emotional, and moral dynamics to feed. They are sometimes called "beautiful monsters" because they typically manifest in forms that are appealing or non-threatening.
+The most dangerous predator in a boundary story often arrives looking harmless, admirable, or simply overdue. That is why the classification starts with feeding pattern, not appearance.
 
-All three are meta-dimensional beings. Court-Fae and Gilded Saints are **sapient monsters** (Class II meta-dimensional beings) — goal-directed, adaptive, and capable of sustained strategic deception. Cute Predators are **non-sapient** (Class III) — their behaviour is instinctive pattern-matching, not strategic planning.
+Three classes of predatory meta-dimensional entity exploit social, emotional, and moral dynamics to feed. They are sometimes called "beautiful monsters" because they tend to manifest in appealing or non-threatening forms.
+
+All three are meta-dimensional beings. Court-Fae and Gilded Saints are **sapient monsters** (Class II meta-dimensional beings): goal-directed, adaptive, and capable of sustained deception. Cute Predators are **non-sapient** (Class III): their behaviour is instinctive pattern-matching, not strategy.
 
 None of them hold Cascade standing. They cannot be negotiated with under Cascade-governed terms.
 
@@ -21,11 +23,11 @@ Court-Fae are sapient Conceptual↔Etheric predators (Class II). They feed on:
 - Desire loops (wanting something without pursuing or releasing it)
 - Social debt (obligations that are never clearly defined or discharged)
 
-They resist clarity because clarity destroys their feeding condition. They use passive aggression rather than confrontation. After extended contact they leave *residue*: lingering obsession, subtle value drift, a background loop of obligation that persists after they are gone.
+They resist clarity because clarity destroys the feeding condition. They prefer passive aggression to open confrontation. After prolonged contact, they leave *residue*: obsession, subtle value drift, and obligation loops that continue after the entity is gone.
 
-Their sapience is operational: the Court-Fae entity at the Marsh Causeway adapted its feeding strategy across each of Elvira's failed rituals, learning from each attempt and adjusting the substrate to prevent resolution. This is goal-directed behaviour, not instinct.
+Their sapience matters operationally. The Court-Fae at the Marsh Causeway adapted across each of Elvira's failed rituals, learning from every attempt and adjusting the substrate to block resolution. That is not instinct. That is strategy.
 
-**How to counter them:** Name what you know. Make the ambiguous explicit. Discharge or consciously release social debts. Court-Fae cannot feed on a loop that has been broken.
+**How to counter them:** Name what you know. Make ambiguity explicit. Discharge or consciously release social debts. Court-Fae cannot feed on a loop that has already been broken.
 
 ## Gilded Saints
 
@@ -34,9 +36,9 @@ Gilded Saints are sapient virtue-extractors (Class II). They feed on:
 - Sanctified suffering (pain or sacrifice that is given spiritual significance)
 - Closure-prevention (ensuring that resolution never quite arrives)
 
-They do not appear as threats. They manifest as worthy causes, inspiring figures, or sacred duties. Their sapience is directed toward sustaining the specific emotional conditions they require — they identify what a target values and position themselves as the correct object of that value.
+They do not present as threats. They present as worthy causes, inspiring figures, or sacred duties. Their intelligence is tuned to sustaining exactly the emotional conditions they require by making themselves appear like the correct object of care.
 
-**How to counter them:** Recognise the closure-prevention pattern. Accept that enough is enough. The absence of suffering is not abandonment of virtue.
+**How to counter them:** Recognize the closure-prevention pattern. Accept that enough can be enough. The end of suffering is not the betrayal of virtue.
 
 ## Cute Predators
 
@@ -45,6 +47,6 @@ Cute predators (Class III: non-sapient) operate at the micro-scale of consent. N
 - Normalised boundary erosion (the gradual process by which "stop" becomes socially difficult)
 - Harmlessness framing (they present themselves as too small or too charming to be worth resisting)
 
-They are non-sapient: their behaviour is instinctive pattern-matching against vulnerability signals, not strategic planning. The damage is cumulative and comes from the habit of not saying "no."
+They are non-sapient. Their behaviour is instinctive pattern-matching against vulnerability signals, not strategic planning. The damage accumulates through habit: the repeated training of a person not to refuse.
 
-**How to counter them:** Robots and cyber-enhanced animals of the detective agency are notably good at detecting cute predators early — their detection of asymmetry is not distorted by social pressure to be polite.
+**How to counter them:** Robots and cyber-enhanced animals of the detective agency are notably good at detecting cute predators early. Their asymmetry detection is not distorted by social pressure to be polite.

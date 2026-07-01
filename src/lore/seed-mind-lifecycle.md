@@ -6,6 +6,8 @@ tags: [seed-mind, nooseed, lifecycle, iwd, nsp, cei, auc, ufi]
 description: "Seven-phase maturation model describing how information-rich minds become transferable noöseeds."
 ---
 
+Every viable noöseed begins as a mind learning to stay itself under pressure. The later phases are vast, but the first step is still the same: a self noticing that it is a self.
+
 The **Seed Mind Lifecycle** defines the seven canonical phases by which a mind becomes a viable noöseed.
 Each phase includes known properties, failure risks, and coupling to CEI and AUC conditions.
 

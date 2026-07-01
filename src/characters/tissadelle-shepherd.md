@@ -12,13 +12,13 @@ tags: [human, star-rangers, cadet, line-captain, season-1, season-5]
 description: "Star Ranger cadet at the start of Season 1; earns the rank of Line Captain by Season 5."
 ---
 
-Tissadelle Shepherd begins Season 1 as a cadet — the entry rank of the Star Rangers, where formal training meets first operational exposure. She reaches the rank of Line Captain in Season 5, after four seasons of operational service.
+Cadet is the entry rank. It is where formal training meets first operational exposure, and where the qualities that will become most useful later are not yet rewarded in proportion.
 
-The distance between those two points is the structural spine of her arc across the first five seasons.
+Tissadelle Shepherd begins Season 1 there. She reaches the rank of Line Captain in Season 5, after four seasons of operational service. The distance between those two points is the structural spine of her arc.
 
-As a cadet, Shepherd is already methodical where others are eager. She does not volunteer assessments she cannot support, and she does not perform confidence she does not have. These qualities are not universally appreciated at the cadet stage, where momentum and initiative are often more visibly rewarded than accuracy. They become progressively more valued as she advances.
+At the cadet stage, she is already methodical where others are eager. She does not volunteer assessments she cannot support. She does not perform confidence she does not have. In the early ranks, momentum and initiative are more visibly rewarded than accuracy. She advances anyway.
 
-By the time she reaches Line Captain in Season 5, these qualities have become load-bearing. A Line Captain who does not send Rangers into situations she cannot defend is exactly the kind of commander the Star Rangers need in boundary-proximate deployments.
+By Season 5, these qualities have become load-bearing. A Line Captain who will not send Rangers into situations she cannot defend is exactly what boundary-proximate deployments require.
 
 ## Rank Progression
 
@@ -27,8 +27,8 @@ By the time she reaches Line Captain in Season 5, these qualities have become lo
 
 ## Character Notes
 
-Shepherd does not mythologise the Rangers or the role. She treats the title as a job description. This makes her unusually easy to work with and occasionally difficult to inspire — she is not moved by abstractions, only by clearly stated problems that have clearly available solutions.
+Shepherd does not mythologise the Rangers or the role. She treats the title as a job description. This makes her easy to work with and occasionally difficult to inspire — she is not moved by abstractions, only by clearly stated problems that have clearly available solutions.
 
 She is aware that some situations do not have clearly available solutions. She handles this by continuing to work.
 
-Her relationship to Karla Wender develops across the early seasons from distant chain-of-command awareness to direct operational interface.
+Her relationship to Karla Wender develops across the early seasons from distant chain-of-command awareness to direct operational contact.

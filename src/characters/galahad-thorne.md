@@ -12,11 +12,13 @@ tags: [human, survey, threshold-station, season-1]
 description: "Senior boundary surveyor assigned to lead the new team at Threshold Station."
 ---
 
-Galahad Thorne has spent twelve years working boundary-proximate postings for the Survey Corps — the Star Rangers' boundary-monitoring arm — long enough to develop his own vocabulary for what he observes, and long enough to understand why the official vocabulary is insufficient.
+Twelve years in the Survey Corps teaches a person to read incident reports the way a geologist reads strata: not for the events themselves, but for the gaps between them — what was not filed, what was filed and quietly revised, what the official record decided to call noise.
 
-He is methodical without being rigid, cautious without being fearful. He has worked with Krenyi before and learned, by experience rather than instruction, how to be around them without making the usual human errors. He reads incident reports chronologically. He notices gaps.
+Galahad Thorne reads every report from the beginning. Chronologically.
 
-His title — "Sir" — is from a territorial honour that no longer applies to a territory that still technically exists. He uses it because the Survey Corps assigns rank by seniority and title carries more weight than rank at the boundary posts, and because he has never particularly cared what it means to other people.
+He has worked six prior boundary stations. Two recorded unexplained events. He has developed vocabulary for what he observes at the boundary that extends beyond the official Survey Corps glossary — not because the official vocabulary is wrong, but because it is incomplete. He knows when to use the field term and when to write something his supervisor will accept without annotation.
+
+He is methodical without being rigid. He is cautious without being fearful. He has worked with Krenyi before, and learned by practice rather than instruction how to be present without making the standard errors.
 
 ## Known History
 
@@ -27,6 +29,8 @@ His title — "Sir" — is from a territorial honour that no longer applies to a
 
 ## Character Notes
 
-Galahad does not mythologise things. When he encounters something he cannot explain, his instinct is to describe it accurately rather than to reach for a familiar category. This makes him unusually good at working near the boundary and unusually bad at writing reports that his superiors will accept without revision.
+Galahad does not mythologise things. When he encounters something he cannot explain, his instinct is to describe it accurately rather than reach for the nearest available category. This makes him useful near the boundary and difficult in meetings where summaries are expected to be brief.
 
-He is not immune to the pull of a pattern he does not understand. He is simply slow to name the pattern before he understands it, which is a different thing from immunity.
+He is not immune to patterns he does not yet understand. He is simply unwilling to name a pattern before the data supports it. He knows these are different qualities.
+
+His title — "Sir" — comes from a territorial honour that applies to a territory that still technically exists. He uses it because rank carries less weight than title at the boundary posts, and because he has never particularly cared what it means to other people.

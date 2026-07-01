@@ -6,6 +6,8 @@ tags: [ftl, quantum-space-harmonic-wave, harmonics, corridor-theory, concordant,
 description: "Detailed canon rules for how quantum space harmonic corridors form, remain stable, and fail."
 ---
 
+A harmonic route is never just a road waiting in the dark. It is a brief agreement between geometry, vessel, and destination, and it ends the moment that agreement fails.
+
 Quantum space harmonics are the field-level structure that makes **Quantum Space Harmonic Wave** transit possible.
 They are lawful physical behavior, not mystical effects.
 
@@ -26,14 +28,14 @@ If any one of these conditions is missing, no legal corridor forms.
 - **Envelope limit:** Maximum transit mass-energy profile the corridor tolerates.
 - **Re-sync gradient:** The Concordant phase offset that must be paid down on exit.
 
-The corridor is not a fixed road in space; it is a bounded propagation event that exists only while coherence remains within tolerance.
+The corridor is not a permanent road. It is a bounded propagation event that exists only while coherence remains inside tolerance.
 
 ## Why Routes Are Predictable but Not Permanent
 
 Published routes are recurring *harmonic opportunities*, not guaranteed openings.
-Navigation guilds map statistical recurrence windows, then update them continuously as boundary conditions shift.
+Navigation guilds map statistical recurrence windows, then revise them continuously as boundary conditions shift.
 
-This is why a corridor can be "known" for decades while still being unavailable on a specific departure cycle.
+That is why a corridor can be known for decades and still fail to open on a given departure cycle.
 
 ## Boundary Interaction Rules
 

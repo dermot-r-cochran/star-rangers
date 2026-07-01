@@ -6,6 +6,8 @@ tags: [universe-overlap, folding, concordant, boundary, higher-dimensional, seco
 description: "Formal mechanics for universe overlap and folding, including constraints and measurable outcomes. Secondary and subsequent universes are derived from primary ones."
 ---
 
+Two instruments can watch the same corridor and return different, valid maps of it. When that happens, the question is not whether reality broke. The question is whether overlap or folding changed the geometry you were standing in.
+
 Universe overlap and higher-dimensional folding are lawful geometry operations, not metaphysical exceptions.
 
 Worldwrights create primary universes only. Secondary and subsequent universes are derived from primary ones through overlap and folding processes — they are not independently created.

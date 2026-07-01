@@ -25,6 +25,7 @@
           <li><a href="/star-rangers/lore/" {% if "/lore/" in page.url %}aria-current="page"{% endif %}>Lore</a></li>
           <li><a href="/star-rangers/glossary/" {% if "/glossary/" in page.url %}aria-current="page"{% endif %}>Glossary</a></li>
           <li><a href="/star-rangers/codex/" {% if "/codex/" in page.url %}aria-current="page"{% endif %}>Codex</a></li>
+          <li><a href="/star-rangers/about/" {% if "/about/" in page.url %}aria-current="page"{% endif %}>About</a></li>
         </ul>
       </nav>
     </div>
@@ -38,8 +39,8 @@
     <div class="site-footer__inner">
       <p>
         <span>{{ site.title }}</span> — Interactive Fiction.
-        Content licensed under
-        <a href="https://github.com/dermot-cochran-ul/star-rangers/blob/main/LICENSE" rel="license">the project licence</a>.
+        Copyright © {{ build.copyrightYears }} Dermot R. Cochran.
+        Released under the <a href="/star-rangers/#license" rel="license">CC BY-NC-ND 4.0</a> licence.
       </p>
     </div>
   </footer>

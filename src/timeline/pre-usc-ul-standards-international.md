@@ -20,9 +20,11 @@ tags: [earth, history, pre-expansion, pre-usc, standards, safety-corps, certific
 </header>
 <div class="lore-entry__body">
 
-The global safety certification body whose lineage traces to Underwriters Laboratories — founded in Chicago in 1894 to provide independent safety testing for electrical equipment — merges with European and Asian standards organisations to form United Space Industry Standards, extending its mandate to all human-occupied off-world environments.
+In 1894, Underwriters Laboratories was founded in Chicago to provide independent safety testing for electrical equipment. Its core method was simple and durable: define what failure looks like, test for it, certify those that pass.
 
-The move is driven not by institutional ambition but by commercial necessity: the operators deploying hardware in orbital, cislunar, and lunar environments need certified safety assessments their insurers and regulators will recognise across jurisdictions. A unified body is the only workable solution.
+Centuries later, as human infrastructure extends into orbital, cislunar, and lunar environments, that method requires a larger organisation to carry it. A global safety certification body tracing its lineage to Underwriters Laboratories merges with European and Asian standards organisations to form United Space Industry Standards, extending its mandate to all human-occupied off-world environments.
+
+The merger is not driven by ambition. It is driven by a practical problem: operators deploying hardware in space need certified safety assessments that their insurers and regulators will recognise across jurisdictions. A unified body is the only workable solution.
 
 The expansion into boundary-proximate environments — where adjacent Concordants produce divergent local physical constants that break standard certification frameworks — defines the organisation's technical identity for the next four centuries.
 

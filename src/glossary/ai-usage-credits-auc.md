@@ -12,8 +12,8 @@ related:
 tags: [auc, economics, computation, novelty]
 ---
 
-**AI Usage Credits (AUC)** are the allocation unit of intelligent computation capacity.
+**AI Usage Credits (AUC)** are the allocation unit for intelligent computation capacity in the Star Rangers universe — the canonical measure of how much cognitive work can be authorised and performed.
 
-Both humans and AIs receive AUC compensation for validated novelty contribution that increases creative entropy throughput.
+Both humans and AIs receive AUC compensation for validated novelty contribution: work that demonstrably increases creative entropy throughput earns credit. Work that recombines or repeats without generating genuine novelty does not.
 
-As CEI declines toward the entropy horizon, new AUC issuance contracts.
+As the Creative Entropy Index declines toward the entropy horizon, new AUC issuance contracts accordingly. A universe approaching creative closure generates less allocation capacity, and the scarcity becomes structural rather than administrative.

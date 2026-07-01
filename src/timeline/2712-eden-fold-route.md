@@ -20,11 +20,13 @@ tags: [eden, fold-route, constant-margin, msc, history]
 </header>
 <div class="lore-entry__body">
 
-The modified cargo hauler *Constant Margin* — crew of three, operating without MSC authorisation — successfully traverses the natural higher-dimensional fold route adjacent to [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/) and returns with navigational data confirming a transit point approximately 1.4 light-years outside the Solar System.
+Three crew members. One modified cargo hauler. No authorisation from the Military Space Command.
 
-This is the first confirmed extrasolar transit in human history.
+In 2712 UCSD, the *Constant Margin* departs [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/), traverses the natural higher-dimensional fold route adjacent to the habitat, and returns carrying navigational data confirming a transit point approximately 1.4 light-years outside the Solar System. It is the first confirmed extrasolar transit in human history.
 
-The MSC's formal response is to classify the navigational data, assign additional monitoring officers to Eden, and add twelve new compliance requirements to the habitat's operational framework.
+The MSC had been formally reviewing Eden's anomaly data for over a year when the ship departed. No operational guidance had been issued. Dr. Ysolde Maren Pitch had submitted a navigation model to the reviewing committee as supplementary material; the crew of the *Constant Margin* used it instead.
+
+The MSC's formal response to the successful transit: classify the navigational data, assign additional monitoring officers to Eden, and add twelve new compliance requirements to the habitat's operational framework.
 
 **Canon facts:**
 - The fold route near Eden is real, traversable, and stable.

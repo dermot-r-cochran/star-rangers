@@ -6,6 +6,8 @@ tags: [noogenic-seeding, noogenic-law, iwd, nsp, ufi, nooseed, universe-reproduc
 description: "Canon model in which universes reproduce through information-rich minds that compress into noögenic seeds."
 ---
 
+Some universes leave behind stone, radiation, and ruins. Others, if they are fertile enough, leave behind minds dense enough to begin again. The Noögenic Seeding System describes that second inheritance.
+
 The **Noögenic Seeding System** describes lawful universe reproduction through information-rich minds.
 Universes do not replicate by mass transfer; they replicate by transmissible interior complexity.
 

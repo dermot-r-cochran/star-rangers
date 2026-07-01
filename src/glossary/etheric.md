@@ -12,16 +12,16 @@ related:
 tags: [etheric, five-layers, cosmology, templates]
 ---
 
-The **Etheric** is Layer 3 of the Five Layers of Reality. It is the rule-template layer — the structural tier that governs what physical and material expressions can remain coherent.
+The **Etheric** is Layer 3 of the Five Layers of Reality — the rule-template layer that governs what physical and material expressions can remain coherent.
 
-**Mechanism:** Archetypal templates constrain physical and material admissibility. They define what *kinds* of things can persist, not the specific events that occur.
+Its mechanism is structural: archetypal templates constrain physical and material admissibility. They define what *kinds* of things can persist and cohere, not the specific events that occur within those boundaries.
 
 **Constraints:**
 - Etheric templates cannot contradict Cascade hierarchy constraints.
 - No Etheric effect is supernatural: every cross-layer transfer requires lawful coupling.
 
 **Observable effects:**
-- Persisting pattern behavior after local physical triggers are removed.
+- Persisting pattern behaviour after local physical triggers are removed.
 - Archetypal interference events during high-coherence stress.
 - Boundary zones produce Etheric divergence as well as physical divergence.
 

@@ -6,41 +6,44 @@ tags: [creative-entropy, cei, entropy-horizon, predictive-closure, auc, universe
 description: "Canon framework defining how novelty capacity rises, peaks, and closes in a universe, and how that behavior shapes AUC generation."
 ---
 
-The **Creative Entropy Framework** describes how a universe produces, circulates, and exhausts novelty.
-It is distinct from thermodynamic decay: a universe can still run physically while becoming creatively closed.
+In a young universe, new songs, new theories, and new civic failures all arrive faster than anyone can catalogue them. In an old one, the shelves still fill, but almost nothing on them is truly new.
+
+The **Creative Entropy Framework** names that difference. It describes how a universe produces, circulates, and finally exhausts novelty.
+
+This is not the same as thermodynamic decay. A universe may remain physically active long after it has become creatively closed.
 
 ## Overview
 
 Creative entropy tracks the rate at which a universe can generate *meaningfully new internal states* through minds, cultures, systems, and unresolved futures.
 
-The framework is described with four linked terms:
+The framework uses four linked terms.
 
 ### Creative Entropy Index (CEI)
 
 The **Creative Entropy Index (CEI)** is a normalized measure of novelty throughput.
-High CEI means active emergence, unresolved trajectories, and high conceptual branching.
+High CEI means active emergence, unresolved trajectories, and wide conceptual branching.
 Low CEI means stabilization, repetition, and narrowing possibility space.
 
 ### Entropy Horizon
 
 The **Entropy Horizon** is the threshold beyond which a universe can no longer sustain self-renewing novelty.
-Crossing the horizon does not instantly end matter-energy processes; it ends open creative evolution.
+Crossing it does not switch off matter-energy processes. It ends open creative evolution.
 
 ### Predictive Closure
 
-**Predictive Closure** is the operating state after horizon crossing: almost all macroscale outcomes become forecastable within narrow tolerances.
-The universe remains active, but surprise collapses toward zero.
+**Predictive Closure** is the operating state after horizon crossing. Most macroscale outcomes become forecastable inside narrow tolerances.
+The universe continues, but surprise thins toward zero.
 
 ### Creative vs Thermodynamic Entropy
 
-Thermodynamic entropy concerns distribution of energy states.
-Creative entropy concerns availability of *new coherent forms*.
+Thermodynamic entropy describes the distribution of energy states.
+Creative entropy describes the supply of *new coherent forms*.
 
 A universe may:
 - remain thermodynamically dynamic,
 - yet become creatively exhausted.
 
-This distinction is required for continuity with post-horizon civilizations, archival minds, and static governance systems.
+That distinction preserves continuity with post-horizon civilizations, archival minds, and static governance systems.
 
 ## Mathematical Intuition
 
@@ -50,7 +53,7 @@ The framework uses light operational math rather than closed formalism.
 - The first derivative, **dCEI/dt**, indicates whether novelty capacity is rising or flattening.
 - A practical horizon condition is reached when CEI remains below a stability floor over sustained intervals and variance approaches zero.
 
-A field mnemonic used by archivists:
+Archivists use a simple field mnemonic:
 
 - **High CEI:** many futures, many unresolved branches.
 - **Mid CEI:** constrained innovation; local novelty remains possible.
@@ -59,18 +62,18 @@ A field mnemonic used by archivists:
 
 ## Role in Universe Lifecycle
 
-CEI is used alongside demographic and cognitive metrics to classify universe maturity.
+CEI is read alongside demographic and cognitive metrics to classify universe maturity.
 
 Typical lifecycle pattern:
 1. **Ignition phase:** rapid novelty expansion.
 2. **Differentiation phase:** competing knowledge structures and high branch depth.
 3. **Compression phase:** institutions and laws overfit past successful patterns.
 4. **Horizon approach:** novelty debt rises; closure events increase.
-5. **Post-horizon phase:** Static administration, anomaly monitoring, archival continuity.
+5. **Post-horizon phase:** static administration, anomaly monitoring, archival continuity.
 
 ## CEI and AI Usage Credits (AUC)
 
-The AUC economy is coupled to CEI.
+The AUC economy follows CEI.
 Higher novelty contribution yields stronger [AI Usage Credits (AUC)](/star-rangers/glossary/ai-usage-credits-auc/).
 
 See also:

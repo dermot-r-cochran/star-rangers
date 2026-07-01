@@ -18,7 +18,7 @@ They feed on:
 - **Sanctified suffering** — pain or sacrifice given spiritual significance.
 - **Closure-prevention** — maintaining a situation in which resolution never quite arrives.
 
-They do not appear as threats. They manifest as worthy causes, inspiring figures, or sacred duties. Their sapience is directed toward sustaining the specific emotional conditions they require.
+Unlike Court-Fae, Gilded Saints do not appear as threats or predators at all. They manifest as worthy causes, inspiring figures, or sacred duties. The sapience directing that presentation is oriented entirely toward sustaining the emotional conditions they require.
 
 **Counter:** recognise the closure-prevention pattern. Accept that enough is enough. The absence of suffering is not the abandonment of virtue.
 

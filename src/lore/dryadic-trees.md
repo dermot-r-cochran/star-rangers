@@ -6,9 +6,11 @@ tags: [dryadic-trees, flora, class-ii, meta-dimensional, etheric, boundary, anch
 description: "Dryadic trees are organisms whose root systems extend into the Etheric layer, making them natural anchor points exploited by Class II meta-dimensional beings as stable footholds in Material space."
 ---
 
-Dryadic trees are a category of long-lived plant organism found at boundary-proximate locations where Etheric fault lines intersect with physical substrate. They are not supernatural. Their anomalous properties are the lawful result of root systems that have adapted, over centuries of growth at Etheric interfaces, to extend downward into the Etheric layer as well as laterally through physical soil.
+At Marsh Causeway, the wind moves first and the leaves answer a heartbeat later. That slight delay is often the first sign that a dryadic grove is nearby.
 
-They are named for the old folk category of tree-spirit, which is a misclassification of what is actually a Class II meta-dimensional use pattern rather than an inherent property of the tree itself.
+Dryadic trees are long-lived plant organisms found where Etheric fault lines intersect physical ground near boundary-proximate sites. Their anomalies are lawful. Over centuries, their roots adapt not only through soil but downward into the Etheric layer.
+
+They were named after old tree-spirit folklore. The name stayed. The explanation changed. What people took for haunting is better understood as a Class II use pattern acting through the tree, not an innate spirit inside it.
 
 ## Physical Characteristics
 
@@ -21,28 +23,30 @@ Dryadic trees are identifiable by several consistent features:
 
 ## The Etheric Root Extension
 
-Standard root systems respond to gravity, moisture gradients, and soil chemistry. Dryadic tree roots do all of this, but in specimens growing directly over Etheric fault lines, a secondary extension develops that does not respond to physical gradients. Survey Corps instruments read this extension as a coherence structure in the Etheric layer — an organised expression of the tree's growth pattern in a dimensional band below the physical.
+Ordinary roots answer gravity, moisture, and soil chemistry. Dryadic roots do that as well, but trees growing directly over Etheric fault lines develop a second extension that does not track physical gradients.
 
-The mechanism is not fully characterised. Current models treat it as a lawful expression of the same growth processes, operating on Etheric substrate rather than physical soil. The tree does not "know" it is doing this. It is responding to the gradients available to it.
+Survey Corps instruments read this extension as a coherence structure in the Etheric layer—an organized continuation of the tree's growth pattern below the physical band.
 
-The practical consequence is that a dryadic tree — especially a mature specimen — provides a stable, Material-anchored structure that extends into the Etheric layer. This is structurally distinct from boundary zones, overlap windows, or fold-proximate instability, all of which are transient or oscillatory entry conditions.
+The mechanism is not fully solved. Current models treat it as the same lawful growth process expressed into Etheric substrate. The tree is not choosing mystically. It is following the gradients available to it.
+
+The practical consequence is clear: a mature dryadic tree is a stable, Material-anchored structure that also reaches into the Etheric layer. That makes it unlike transient boundary openings, overlap windows, or fold-proximate instabilities.
 
 Dryadic trees are **permanent fixtures**.
 
 ## Class II Exploitation of Dryadic Anchor Points
 
-Class II meta-dimensional beings — sapient monsters without Cascade standing — face a structural problem when operating in Material space: standard entry conditions are unstable. Boundary zones oscillate. Overlap windows open and close. Fold-proximate instability is unpredictable.
+For Class II meta-dimensional beings, Material-space presence is usually unstable. Boundary zones oscillate. Overlap windows close. Fold instabilities are unreliable.
 
-Dryadic trees solve this problem for them.
+A dryadic grove changes that equation.
 
-A Class II entity that establishes a feeding relationship with a dryadic grove does not enter Material space through a transient event. It anchors through the Etheric root extension, which is permanent and does not oscillate. The entity does not need to maintain continuous pressure against a closing boundary. It has a tether.
+A Class II entity feeding through such a grove can anchor itself to the Etheric root extension instead of pushing against a temporary breach. The anchor does not oscillate away. It holds.
 
 This changes the operational profile considerably:
 
 - A standard Class II boundary incursion can be addressed by stabilising or closing the boundary event.
 - A Class II entity anchored to a dryadic grove cannot be dislodged by boundary stabilisation alone. The anchor point must be identified and the Etheric coupling disrupted — which requires constraint-literate intervention at the root-extension level, not simply boundary management.
 
-The feeding relationship is not parasitic toward the tree. Documented specimens in active Class II use show accelerated growth, increased leaf density, and anomalously deep root systems. The entity appears to provide something — most likely a regularising Etheric pressure that benefits the tree's lower-layer extension. The relationship is mutual in the narrow functional sense, though the tree participates without agency.
+The relationship is not parasitic to the tree. Documented groves in active use show accelerated growth, denser foliage, and deeper root systems. The entity appears to contribute a regularizing Etheric pressure that benefits the tree's lower-layer extension. Functionally, it is mutual, even though the tree has no agency in the arrangement.
 
 ## Identification of Active Class II Anchoring
 
@@ -60,9 +64,9 @@ A dryadic tree in active Class II use produces measurable indicators beyond the 
 
 ## Known Locations
 
-Dryadic trees are documented at several boundary-proximate sites across the survey record. The most significant concentration within current Star Rangers operational range is the **Marsh Causeway grove** — a stand of seven mature specimens predating the causeway structure by an estimated three centuries, located at the Etheric fault-line intersection underlying the boundary anomaly at that site.
+Several boundary-proximate sites in the survey record contain dryadic trees. The most significant concentration within present Star Rangers range is the **Marsh Causeway grove**—seven mature specimens, older than the causeway itself by an estimated three centuries, rooted at the Etheric fault-line intersection beneath the anomaly.
 
-The Marsh Causeway grove is believed to be connected to the ongoing Class II activity documented in Survey Corps incident reports from that location.
+That grove is believed to be connected to the ongoing Class II activity documented in Survey Corps incident reports from the site.
 
 See: [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/)  
 See: [Predatory Entities: Court-Fae, Gilded Saints, and Cute Predators](/star-rangers/lore/predatory-entities/)  

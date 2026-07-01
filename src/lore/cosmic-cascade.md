@@ -6,6 +6,8 @@ tags: [cosmology, cascade, hierarchy, hyperomnium, kieme, conseleme, worldwright
 description: "The strict hierarchy of causal authority in the Star Rangers universe, from Hyperomnium to Champions/Heroes."
 ---
 
+When witnesses say a dragon changed fate, the archives ask a colder question first: *which tier acted, and under what constraint?* That question leads into the Cascade.
+
 The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers universe. It is ontological, not political. Causality resolves from higher tier to lower tier and does not reverse.
 
 > Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Celestials (Frenar) → Levrils → Champions / Heroes
@@ -32,7 +34,7 @@ They set nonlocal constraints that downstream tiers must satisfy.
 - No selective intervention.
 
 ### Observable Effects on Time-Bound Entities
-- Stable, repeatable deep-law behaviour.
+- Stable, repeatable deep-law behavior.
 - Persistent misattribution as "divine will" by low-context observers.
 
 ## Design Structure (Metawrights, Formwrights, Archewrights)
@@ -41,7 +43,7 @@ They set nonlocal constraints that downstream tiers must satisfy.
 Design tiers that define possible forms, instantiate lawful templates, and maintain archetypal integrity.
 
 ### Mechanism
-Archetypal patterns are expressed into Etheric rule templates, then manifested as physical admissibility windows.
+Archetypal patterns enter the Etheric as rule templates, then become physical admissibility windows.
 
 ### Constraints
 - Cannot violate upper-structure constraints.
@@ -49,7 +51,7 @@ Archetypal patterns are expressed into Etheric rule templates, then manifested a
 
 ### Observable Effects on Time-Bound Entities
 - Archetypal interference events during high-coherence stress.
-- Recurring pattern classes across distinct civilisations.
+- Recurring pattern classes across distinct civilizations.
 
 ## Worldwrights and Concordant / Concordance
 
@@ -57,7 +59,7 @@ Archetypal patterns are expressed into Etheric rule templates, then manifested a
 Worldwrights establish primary-universe coherence zones called Concordants; Concordance is the plural.
 
 ### Mechanism
-A Concordant enforces a bounded physics+Etheric rule set with measurable edge behaviour.
+A Concordant enforces a bounded physics+Etheric rule set with measurable edge behavior.
 
 ### Constraints
 - Worldwright authority exists only in primary universes.
@@ -105,7 +107,7 @@ Celestials execute rule-integrity actions at boundary and overlap interfaces.
 Sapient meta-dimensional beings — the lowest Cascade tier with inherent higher-dimensional extension.
 
 ### Mechanism
-Levrils interact through constrained, lawful influence channels from a higher-dimensional vantage. They can mentor constraint literacy and select Champions from sentient material beings.
+Levrils act through constrained, lawful influence channels opened by a higher-dimensional vantage. They can teach constraint literacy and select Champions from sentient material beings.
 
 ### Constraints
 - No Concordant rewrites.
@@ -123,7 +125,7 @@ Levrils interact through constrained, lawful influence channels from a higher-di
 The lowest named agency tier. Sentient material beings — organic or artificial — chosen by Levrils.
 
 ### Mechanism
-Champions/Heroes express Cascade-compatible action under local constraints. Selection by Levrils reflects assessment of constraint literacy and causal relevance, not supernatural favour.
+Champions/Heroes carry Cascade-compatible action under local constraints. Selection reflects constraint literacy and causal relevance, not supernatural favor.
 
 ### Constraints
 - No authority to override Levril-tier or above.
@@ -136,10 +138,10 @@ Champions/Heroes express Cascade-compatible action under local constraints. Sele
 ## Edge-Case Interpretation Rules
 
 ### Partial Observation
-When observers have incomplete layer visibility, they infer agency where only constraint propagation exists.
+When observers see only part of the stack, they infer agency where only constraint propagation exists.
 
 ### Boundary Confusion
 Cross-Concordant readings can produce contradictory reports that are simultaneously local-correct.
 
 ### Misclassification Control
-Use mechanism-level diagnostics first; avoid moral, theological, or magical explanations.
+Start with mechanism-level diagnostics. Resist moral, theological, or magical explanations.

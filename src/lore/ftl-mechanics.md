@@ -6,6 +6,8 @@ tags: [ftl, quantum-space-harmonic-wave, higher-dimensional-folding, concordant,
 description: "Canonical faster-than-light transit channels and their constraints in the Star Rangers universe."
 ---
 
+At a lawful departure site, a ship waits before it moves. Crews watch lock margins, gravity gradients, and exit conditions, because faster-than-light travel begins with discipline, not spectacle.
+
 Faster-than-light transit is limited to two lawful channels. No other method is canon-valid.
 
 ## Allowed Channel 1: Quantum Space Harmonic Waves
@@ -52,7 +54,7 @@ Operating from a Tier 1 Lagrange site (L4 or L5) produces:
 - Lower re-sync debt on exit
 - Cleaner fold collapse sequences
 
-This does not make impossible transits possible. A valid corridor still requires a [Concordant](/star-rangers/glossary/concordant/)-compatible destination and an admissible connecting geometry. Lagrange staging improves the quality of valid transits; it does not generate them.
+This does not make impossible transits possible. A valid corridor still requires a [Concordant](/star-rangers/glossary/concordant/)-compatible destination and an admissible connecting geometry. Lagrange staging improves the quality of valid transits; it does not create them.
 
 ### Observable Effects on Time-Bound Entities
 - Simultaneous visual traces at origin and destination during fold peak.

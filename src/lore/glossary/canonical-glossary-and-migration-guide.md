@@ -8,6 +8,8 @@ description: "Central canonical glossary for Star Rangers terminology, including
 
 # Canonical Glossary and Terminology Migration Guide
 
+An archivist with a red pencil can change how a civilization remembers itself. This page exists for that work: to keep terms aligned before confusion hardens into false canon.
+
 This page is the authoritative terminology reference for Star Rangers cosmology.
 Use canonical terms in new writing and migrate legacy terms according to the mapping tables below.
 

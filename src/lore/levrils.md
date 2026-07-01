@@ -6,20 +6,22 @@ tags: [levrils, dragons, constraint-literacy, cascade, celestials, meta-dimensio
 description: "Levrils are sapient meta-dimensional beings — the only meta-dimensional entities with a place in the Cosmic Cascade. Distinguished from sapient and non-sapient monsters by Cascade standing and constraint literacy."
 ---
 
-Levrils are dragons and dragon-kin. They are **sapient meta-dimensional beings** — their existence extends across extra higher spatial dimensions above the four accessible to Material-layer beings. Sapience and higher-dimensional extension together are what distinguish Levrils from other meta-dimensional entities. Not all meta-dimensional beings are sapient, and not all sapient meta-dimensional beings are Levrils.
+When a dragon appears in Material space, witnesses remember the shape first and the field effects later. The archives reverse that order on purpose.
 
-In the Cosmic Cascade, Levrils sit below Celestials (Frenar) and above Champions/Heroes. They are the lowest tier with inherent higher-dimensional extension and the only meta-dimensional entities with a formal Cascade standing.
+Levrils are dragons and dragon-kin. They are **sapient meta-dimensional beings** whose existence extends across higher spatial dimensions above the four accessible to Material-layer beings. Sapience plus that higher-dimensional extension is what distinguishes Levrils from other meta-dimensional entities.
+
+In the Cosmic Cascade, Levrils sit below Celestials (Frenar) and above Champions/Heroes. They are the lowest tier with inherent higher-dimensional extension and the only meta-dimensional entities with formal Cascade standing.
 
 ## Meta-Dimensional Nature
 
-Levrils exist simultaneously across multiple spatial dimensions above the four accessible to Material-layer beings. Their higher-dimensional extension is the physical basis for capabilities that Material-layer observers frequently misclassify as magic:
+Levrils exist simultaneously across multiple higher spatial dimensions. That extension is the physical basis for abilities Material observers often misclassify as magic:
 
 - They perceive Etheric structures directly, because those structures are expressed in dimensional bands they inhabit.
 - They can influence probability fields through dimensional pressure from outside the four accessible spacetime dimensions.
 - They can perceive Concordant boundary conditions from angles unavailable to three-dimensional instruments.
 - Their apparent materialisation and dematerialisation in Material-layer space is translation across dimensional bands, not creation or destruction.
 
-**Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one Concordant simultaneously. This cross-Concordant extension carries a coherence cost: the greater the span, the higher the maintenance burden.
+**Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one Concordant simultaneously. That span carries a coherence cost: the broader the reach, the heavier the maintenance burden.
 
 ## Distinction from Other Meta-Dimensional Beings
 
