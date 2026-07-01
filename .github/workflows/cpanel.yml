@@ -6,6 +6,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 concurrency:
   group: cpanel-${{ github.ref }}
   cancel-in-progress: true
@@ -53,6 +56,9 @@ jobs:
       name: wordpress
       url: https://${{ matrix.target.domain }}
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Download site artifact
         uses: actions/download-artifact@v4
         with:
@@ -62,7 +68,7 @@ jobs:
       - name: Apply WordPress theme
         run: |
           cp _site/css/main.css _site/css/base.css
-          cp _site/css/theme-wordpress.css _site/css/main.css
+          cp src/css/theme-wordpress.css _site/css/main.css
 
       - name: Deploy to WordPress via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
@@ -90,6 +96,9 @@ jobs:
       name: humhub
       url: https://${{ matrix.target.domain }}
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Download site artifact
         uses: actions/download-artifact@v4
         with:
@@ -99,7 +108,7 @@ jobs:
       - name: Apply HumHub theme
         run: |
           cp _site/css/main.css _site/css/base.css
-          cp _site/css/theme-hubhub.css _site/css/main.css
+          cp src/css/theme-humhub.css _site/css/main.css
 
       - name: Deploy to HumHub via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
