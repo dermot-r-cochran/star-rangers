@@ -172,7 +172,7 @@ Output either:
 
 Return the final proposal grouped by repository destination:
 
-- `stories` → proposed `src/seasons/...` chapter entries
+- `seasons` → proposed `src/seasons/...` chapter entries
 - `characters` → proposed `src/characters/...` entries
 - `timeline` → proposed `src/timeline/...` entries
 - `lore` → proposed `src/lore/...` entries
