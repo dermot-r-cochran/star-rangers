@@ -48,105 +48,100 @@ description: "Star Rangers — an interactive science-fantasy novel grounded in 
 </section>
 
 <section id="license" aria-label="License">
-  <h2>License</h2>
-  <p>Copyright © {{ build.copyrightYears }} Dermot R. Cochran. All rights reserved by the author.</p>
+  <h2>Licence</h2>
+  <p>Copyright © {{ build.copyrightYears }} Dermot R. Cochran. Some rights reserved.</p>
   <p>
-    To the extent possible under law, Dermot R. Cochran has waived all copyright and related or
-    neighbouring rights to the text and world-building content of <em>Star Rangers</em>.
-    This work is published under the
-    <strong>Creative Commons CC0 1.0 Universal Public Domain Dedication</strong>.
+    The text and world-building content of <em>Star Rangers</em> is licensed under the
+    <strong>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</strong>
+    (<strong>CC BY-NC-ND 4.0</strong>) licence. You are free to share this material — copy and
+    redistribute it in any medium or format — for non-commercial purposes only, provided you give
+    appropriate credit to Dermot R. Cochran, indicate if any changes were made, and do not
+    distribute adapted or derivative versions of the work.
   </p>
   <details>
-    <summary>Full licence text (CC0 1.0 Universal)</summary>
-    <h3>Creative Commons Legal Code — CC0 1.0 Universal</h3>
+    <summary>Full licence text (CC BY-NC-ND 4.0)</summary>
+    <h3>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License</h3>
     <p>
-      CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES.
-      DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP.
-      CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES
-      NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-      HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT
-      OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.
-    </p>
-    <h4>Statement of Purpose</h4>
-    <p>
-      The laws of most jurisdictions throughout the world automatically confer exclusive Copyright
-      and Related Rights upon the creator and subsequent owner(s) of an original work of authorship
-      and/or a database (each, a "Work").
+      Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide
+      legal services or legal advice. Distribution of Creative Commons public licenses does not
+      create a lawyer-client or other relationship. Creative Commons makes its licenses and related
+      information available on an "as-is" basis. Creative Commons gives no warranties regarding its
+      licenses, any material licensed under their terms and conditions, or any related information.
+      Creative Commons disclaims all liability for damages resulting from their use to the fullest
+      extent possible.
     </p>
     <p>
-      Certain owners wish to permanently relinquish those rights to a Work for the purpose of
-      contributing to a commons of creative, cultural and scientific works ("Commons") that the
-      public can reliably and without fear of later claims of infringement build upon, modify,
-      incorporate in other works, reuse and redistribute as freely as possible in any form
-      whatsoever and for any purposes, including without limitation commercial purposes. These
-      owners may contribute to the Commons to promote the ideal of a free culture and the further
-      production of creative, cultural and scientific works, or to gain reputation or greater
-      distribution for their Work in part through the use and efforts of others.
+      By exercising the Licensed Rights (defined below), You accept and agree to be bound by the
+      terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+      International Public License ("Public License"). To the extent this Public License may be
+      interpreted as a contract, You are granted the Licensed Rights in consideration of Your
+      acceptance of these terms and conditions, and the Licensor grants You such rights in
+      consideration of benefits the Licensor receives from making the Licensed Material available
+      under these terms and conditions.
     </p>
-    <p>
-      For these and/or other purposes and motivations, and without any expectation of additional
-      consideration or compensation, the person associating CC0 with a Work (the "Affirmer"), to
-      the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily
-      elects to apply CC0 to the Work and publicly distribute the Work under its terms, with
-      knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended
-      legal effect of CC0 on those rights.
-    </p>
-    <h4>1. Copyright and Related Rights</h4>
-    <p>
-      A Work made available under CC0 may be protected by copyright and related or neighboring
-      rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not
-      limited to, the following:
-    </p>
-    <ol type="i">
-      <li>the right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;</li>
-      <li>moral rights retained by the original author(s) and/or performer(s);</li>
-      <li>publicity and privacy rights pertaining to a person's image or likeness depicted in a Work;</li>
-      <li>rights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;</li>
-      <li>rights protecting the extraction, dissemination, use and reuse of data in a Work;</li>
-      <li>database rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and</li>
-      <li>other similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.</li>
-    </ol>
-    <h4>2. Waiver</h4>
-    <p>
-      To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer
-      hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and
-      surrenders all of Affirmer's Copyright and Related Rights and associated claims and causes of
-      action, whether now known or unknown (including existing as well as future claims and causes
-      of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration
-      provided by applicable law or treaty (including future time extensions), (iii) in any current
-      or future medium and for any number of copies, and (iv) for any purpose whatsoever, including
-      without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer
-      makes the Waiver for the benefit of each member of the public at large and to the detriment
-      of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to
-      revocation, rescission, cancellation, termination, or any other legal or equitable action to
-      disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express
-      Statement of Purpose.
-    </p>
-    <h4>3. Public Licence Fallback</h4>
-    <p>
-      Should any part of the Waiver for any reason be judged legally invalid or ineffective under
-      applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into
-      account Affirmer's express Statement of Purpose. In addition, to the extent the Waiver is so
-      judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non
-      sublicensable, non exclusive, irrevocable and unconditional licence to exercise Affirmer's
-      Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the
-      maximum duration provided by applicable law or treaty (including future time extensions),
-      (iii) in any current or future medium and for any number of copies, and (iv) for any purpose
-      whatsoever, including without limitation commercial, advertising or promotional purposes (the
-      "Licence"). The Licence shall be deemed effective as of the date CC0 was applied by Affirmer
-      to the Work. Should any part of the Licence for any reason be judged legally invalid or
-      ineffective under applicable law, such partial invalidity or ineffectiveness shall not
-      invalidate the remainder of the Licence, and in such case Affirmer hereby affirms that he or
-      she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work
-      or (ii) assert any associated claims and causes of action with respect to the Work, in either
-      case contrary to Affirmer's express Statement of Purpose.
-    </p>
-    <h4>4. Limitations and Disclaimers</h4>
+    <h4>Section 1 — Definitions</h4>
     <ol type="a">
-      <li>No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.</li>
-      <li>Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.</li>
-      <li>Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.</li>
-      <li>Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.</li>
+      <li><strong>Adapted Material</strong> means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.</li>
+      <li><strong>Copyright and Similar Rights</strong> means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labelled or categorised.</li>
+      <li><strong>Effective Technological Measures</strong> means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.</li>
+      <li><strong>Exceptions and Limitations</strong> means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.</li>
+      <li><strong>Licensed Material</strong> means the artistic or literary work, database, or other material to which the Licensor applied this Public License.</li>
+      <li><strong>Licensed Rights</strong> means the rights granted to You subject to the terms and conditions of this Public License, limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.</li>
+      <li><strong>Licensor</strong> means the individual(s) or entity(ies) granting rights under this Public License.</li>
+      <li><strong>NonCommercial</strong> means not primarily intended for or directed towards commercial advantage or monetary compensation.</li>
+      <li><strong>Share</strong> means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation.</li>
+      <li><strong>Sui Generis Database Rights</strong> means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded.</li>
+      <li><strong>You</strong> means the individual or entity exercising the Licensed Rights under this Public License.</li>
     </ol>
+    <h4>Section 2 — Scope</h4>
+    <p><strong>Licence grant.</strong> Subject to the terms and conditions of this Public License, the Licensor grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable licence to:</p>
+    <ol type="a">
+      <li>reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and</li>
+      <li>produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.</li>
+    </ol>
+    <p><strong>Other rights.</strong> Moral rights are not licensed under this Public License. Patent and trademark rights are not licensed under this Public License. To the extent possible, the Licensor waives any right to collect royalties for NonCommercial exercise of the Licensed Rights.</p>
+    <h4>Section 3 — Licence Conditions</h4>
+    <p>Your exercise of the Licensed Rights is expressly made subject to the following conditions.</p>
+    <p><strong>Attribution.</strong> If You Share the Licensed Material, You must:</p>
+    <ol type="a">
+      <li>retain identification of the creator(s) of the Licensed Material (Dermot R. Cochran), a copyright notice, a notice referring to this Public License, a disclaimer of warranties, and a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</li>
+      <li>indicate if You modified the Licensed Material and retain an indication of any previous modifications; and</li>
+      <li>indicate the Licensed Material is licensed under this Public License and include the text of, or the URI or hyperlink to, this Public License.</li>
+    </ol>
+    <p>For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.</p>
+    <h4>Section 4 — Sui Generis Database Rights</h4>
+    <p>Where the Licensed Rights include Sui Generis Database Rights, the Licensor grants the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only, provided You do not Share Adapted Material.</p>
+    <h4>Section 5 — Disclaimer of Warranties and Limitation of Liability</h4>
+    <p>
+      UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR
+      OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES
+      OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER.
+      WHERE DISCLAIMERS OF WARRANTIES ARE NOT ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT
+      APPLY TO YOU.
+    </p>
+    <p>
+      TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY
+      FOR ANY LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE
+      LICENSED MATERIAL. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS
+      LIMITATION MAY NOT APPLY TO YOU.
+    </p>
+    <h4>Section 6 — Term and Termination</h4>
+    <p>
+      This Public License applies for the term of the Copyright and Similar Rights licensed here.
+      If You fail to comply with this Public License, then Your rights under this Public License
+      terminate automatically, but reinstate automatically once the violation is cured within 30
+      days of discovery, or upon express reinstatement by the Licensor.
+    </p>
+    <h4>Sections 7 &amp; 8 — Other Terms and Interpretation</h4>
+    <p>
+      The Licensor is not bound by any additional or different terms unless expressly agreed.
+      If any provision of this Public License is deemed unenforceable it shall be automatically
+      reformed to the minimum extent necessary to make it enforceable. No term or condition will be
+      waived unless expressly agreed to by the Licensor.
+    </p>
+    <p>
+      Creative Commons is not a party to this Public License.
+      Creative Commons may be contacted at <a href="https://creativecommons.org">creativecommons.org</a>.
+    </p>
   </details>
 </section>
