@@ -1,4 +1,4 @@
-# STAR-RANGERS UNIVERSE ENGINE
+# STAR RANGERS UNIVERSE ENGINE
 
 ## Canon-Safe Storyworld Expansion Protocol
 
