@@ -13,6 +13,6 @@ tags: [hyperomnium, cascade, cosmology]
 
 **Hyperomnium** (pronounced: **hy-per-OM-nee-um**) is the highest tier in the fixed Cosmic Cascade.
 
-It is an origin-level constraint condition — the structural ceiling from which all lower tiers ultimately derive their authority. It is not a character, a will, or a moral position.
+It is an origin-level constraint condition, not a character or moral authority.
 
-Hyperomnium does not communicate with time-bound entities. It is only inferable through downstream invariants: the patterns that remain consistent across all Concordants, regardless of local variation.
+Hyperomnium does not communicate with time-bound entities and is only inferable through downstream invariants.

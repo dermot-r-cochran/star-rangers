@@ -5,7 +5,9 @@ description: "In-universe documents, edicts, logs, and annotated records from St
 ---
 <h1 class="page-title">Codex</h1>
 <p class="page-intro">
-  A logbook, an edict, a clipped archive note—this is where the world speaks in its own paperwork. These are primary sources. Read them closely, because some are incomplete, biased, or built to mislead.
+  In-universe documents: field logs, formal edicts, intercepted transmissions, annotated maps, and
+  observer records. These are primary sources — they may be incomplete, biased, or intentionally
+  misleading.
 </p>
 
 {% set codexEntries = collections.codex %}

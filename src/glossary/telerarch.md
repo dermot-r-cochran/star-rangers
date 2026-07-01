@@ -14,11 +14,13 @@ tags: [telearch, telerarch, cascade, enforcement, cosmology, continuity]
 
 **Telearch** (pronounced: **TEL-ee-ark**; plural: **Telearchs**) is the Cascade tier that sits between Worldwrights and Celestials in the fixed hierarchy.
 
-Telearchs are supervisory agents responsible for cross-Concordant continuity governance and enforcement delegation. Their function is coordination at scale: they allocate enforcement scope and continuity budgets across multiple Concordants, and coordinate responses to illegal cross-boundary manipulations.
+Telearchs are the canonical replacement for the legacy designation **High Celestials**. They are supervisory agents responsible for cross-Concordant continuity governance and enforcement delegation.
 
-The legacy designation for this tier is **High Celestials**. In all current canon, Telearch and High Celestial are synonymous. The correct current spelling is **Telearch**; earlier records may also use *Telerarch*.
+**Mechanism:** Telearchs allocate enforcement scope and continuity budgets across multiple Concordants. They coordinate responses to illegal cross-boundary manipulations.
 
 **Constraints:**
 - Telearchs do not bypass Concordant law.
 - Telearchs must preserve continuity over local preference outcomes.
 - Telearchs cannot revise the hierarchy order.
+
+**Legacy note:** Earlier records and documents may use the term *High Celestials* or *Telerarch* to refer to this tier. Canonically: Telearch = High Celestial. The correct current spelling is **Telearch**.

@@ -20,11 +20,11 @@ tags: [causeway, boundary, elvira]
 </header>
 <div class="lore-entry__body">
 
-Elvira takes up residence at the Marsh Causeway outpost in Year -3, Early Spring, following the departure of the previous occupant. The circumstances of that departure are not recorded in any file she has access to. The outpost log contains a single entry: *predecessor departed; handover incomplete.*
+Elvira takes up residence at the Marsh Causeway outpost following the departure of the previous occupant. The circumstances of the departure are not recorded in any file she has been able to access. The outpost log contains a single entry: *predecessor departed; handover incomplete.*
 
-She begins independent boundary monitoring using methods developed through her own study. Within the first month she identifies two Etheric structures that appear nowhere in the previous occupant's records. She cannot determine whether the structures are new or whether the prior methods were simply inadequate to detect them.
+She begins independent boundary monitoring using methods she has developed from her own study. Within the first month she identifies two Etheric structures that the previous occupant's records do not mention. She does not know whether this is because the structures are new or because the previous occupant's methods were not adequate to detect them.
 
-She files no formal reports. The outpost is not formally integrated into the station survey network. Her work accumulates in isolation.
+She files no formal reports. The outpost is not formally integrated into the station survey network.
 
 **Canon fact:** Elvira's three-year period of independent work at the causeway has generated more accurate boundary data than the station survey's eleven-year record for the same zone, though the two datasets have never been formally compared because no one has yet realised both exist.
 

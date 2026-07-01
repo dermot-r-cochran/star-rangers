@@ -20,11 +20,11 @@ tags: [earth, history, pre-expansion, pre-usc, cable-network, drones, subsea, cl
 </header>
 <div class="lore-entry__body">
 
-Earth's global subsea fibre-optic cable network carries more than ninety-five percent of international data traffic — including the logistical and coordination infrastructure that the first off-world outposts depend on entirely for contact with home. Its vulnerability is well understood by the people responsible for it, and they act on that knowledge in secret.
+Following a series of cable interference incidents assessed as deliberate, a classified coalition of Earth governments establishes the Subsea Cable Warden Programme: a network of long-endurance, deep-rated autonomous underwater vehicles tasked with continuous surveillance and, where necessary, active protection of Earth's global subsea fibre-optic cable network.
 
-Following a series of cable interference incidents assessed as deliberate, a classified coalition of Earth governments establishes the Subsea Cable Warden Programme: a network of long-endurance, deep-rated autonomous underwater vehicles tasked with continuous surveillance and, where necessary, active protection of the network. No public framework is created. No acknowledgement is made.
+The network carries more than ninety-five percent of all international data traffic — including the logistical and coordination infrastructure on which the first off-world outposts depend entirely for contact with Earth. Its vulnerability is understood by security planners and acted on covertly, rather than addressed through any public framework.
 
-The Programme's existence remains unacknowledged by any participating government for 187 years. Its operational records are classified until partial releases between approximately 2190–2280, with a final tranche declassified under the Consolidation Accords in 2724 UCSD.
+The Programme's existence is not acknowledged by any participating government for 187 years. Its operational records are classified until partially released between approximately 2190–2280, with a final tranche declassified under the Consolidation Accords in 2724 UCSD.
 
 **Canon facts:**
 - Four generations of Warden vehicles operate across the Programme's history, the third being deployed during the climate-crisis events of the Phase B period.

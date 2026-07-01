@@ -12,6 +12,6 @@ related:
 tags: [nsp, noogenic, nooseed]
 ---
 
-**Noögenic Seed Potential (NSP)** estimates whether a mind can survive compression into seed form without losing the essential novelty-bearing organisation that makes it viable as a universe initiator.
+**Noögenic Seed Potential (NSP)** estimates whether a mind can survive compression into seed form without losing essential novelty-bearing organization.
 
-NSP typically rises with high Inner World Depth and successful paradox stabilisation. A mind with shallow interior structure or unresolved contradictions is unlikely to survive the compression process with its generative capacity intact.
+NSP typically rises with high IWD and paradox stabilization.

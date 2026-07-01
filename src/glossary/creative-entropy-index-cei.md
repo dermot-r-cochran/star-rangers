@@ -12,8 +12,9 @@ related:
 tags: [cei, creative-entropy, cosmology, lifecycle]
 ---
 
-The **Creative Entropy Index (CEI)** measures how much meaningful novelty a universe can still generate per epoch — its remaining capacity for genuine emergence rather than recombination.
+The **Creative Entropy Index (CEI)** measures how much meaningful novelty a universe can still generate per epoch.
 
-High CEI indicates active emergence and unresolved futures. Low CEI indicates stabilisation, repetition, and mounting closure pressure.
+High CEI indicates active emergence and unresolved futures.
+Low CEI indicates stabilization, repetition, and closure pressure.
 
-CEI is coupled to [AI Usage Credits (AUC)](/star-rangers/glossary/ai-usage-credits-auc/): sustained novelty contribution increases AUC generation capacity. As a universe approaches its entropy horizon, both CEI and new AUC issuance contract together.
+CEI is coupled to [AI Usage Credits (AUC)](/star-rangers/glossary/ai-usage-credits-auc/): sustained novelty contribution increases AUC generation capacity.

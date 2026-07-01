@@ -11,8 +11,9 @@ related:
 tags: [entropy-horizon, closure, cei, universe-lifecycle]
 ---
 
-The **Entropy Horizon** is the threshold after which novelty production in a universe becomes structurally non-self-renewing. Beyond this point, the universe can still evolve and generate change — but that change is recombinational rather than genuinely emergent.
+The **Entropy Horizon** is the transition boundary after which novelty production becomes structurally non-self-renewing.
 
-Crossing the horizon does not require total physical heat-death. A universe may remain materially active while creatively closed.
+Crossing the horizon does not require total physical heat-death.
+A universe may remain active while creatively closed.
 
 Canonical post-horizon reference: [Threnos-Ω](/star-rangers/lore/universes/threnos-omega/).

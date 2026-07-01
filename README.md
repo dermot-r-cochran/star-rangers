@@ -1,23 +1,21 @@
 # Star Rangers
 
-The stars call us forward with hope: protect what is good, and learn what is true.
+The stars call us forward with hope; to protect what is good and to see what is true.
 
-*Star Rangers* is an Eleventy-powered interactive science-fantasy novel. It begins with a station clock that has held a false reading for eleven years. From there, the project opens into a contested history of memory, duty, institutions, and the fragile civic lights that survive at the edge of the known world.
+*Star Rangers* is an Eleventy-powered interactive science-fantasy novel of memory, duty, and fragile civic light at the edge of the known world. Told across multiple character viewpoints, it gathers episodic fiction, character studies, timeline records, lore, glossary entries, and in-universe documents into a single unfolding history.
 
 ## Synopsis
 
-Threshold Station keeps logging the same impossible discrepancy, and the people sent to investigate it do not agree on what the record means. *Star Rangers* follows navigators, wardens, witnesses, analysts, and guardians as they try to keep public order intact while old archives, folded space, and living memory refuse to align.
-
-The story moves across stations, causeways, archives, and boundary zones in the long afterlight of empire. As viewpoints converge, the question sharpens: who gets to name the truth when history itself has started to slip?
+In the long afterlight of empire, humanity endures among stations, causeways, archives, and contested reaches of folded space. *Star Rangers* follows those who keep watch where law grows thin and memory carries its own power: navigators, wardens, witnesses, and guardians of a fragile civic order. Across converging points of view, the story traces how truth is guarded, how institutions fracture, and how hope persists even when history itself becomes unstable.
 
 ## Site sections
 
-- **Seasons & Episodes** (`/seasons/`) — Read the canon in story order, then shift POV within chapters to watch one event survive conflicting witnesses.
-- **Characters** (`/characters/`) — Track the people, beings, constructs, and entities carrying the story forward.
-- **Timeline** (`/timeline/`) — Follow the confirmed order of events apart from when the narrative chooses to reveal them.
-- **Lore** (`/lore/`) — Step outside the story for the cosmology, institutions, and systems that shape the setting.
-- **Glossary** (`/glossary/`) — Fix the meaning of in-universe terms, titles, and concepts when language itself is contested.
-- **Codex** (`/codex/`) — Read the primary sources: logs, reports, directives, and records that may clarify the truth or bury it.
+- **Seasons & Episodes** (`/seasons/`) — Read chapters in canonical order and switch POV within chapters.
+- **Characters** (`/characters/`) — Profiles of named people, beings, constructs, and entities.
+- **Timeline** (`/timeline/`) — Follow the canonical order of events independent of reveal order in the narrative.
+- **Lore** (`/lore/`) — Explore out-of-story world-building, cosmology, and story bible material.
+- **Glossary** (`/glossary/`) — Reference definitions of in-universe terms, institutions, and concepts.
+- **Codex** (`/codex/`) — Read in-universe primary documents, logs, reports, and records.
 
 ## Current story content
 
@@ -32,21 +30,21 @@ The story moves across stations, causeways, archives, and boundary zones in the 
 
 ### Release notes
 
-The latest pass strengthens the setting where the public record matters most. Canon now speaks more clearly about teleportation limits, Lagrange fold-points, the Subsea Cable Warden Programme, and the lineage of the Star Rangers Safety Corps. The timeline reaches further back, institutional references are more coherent, and older real-world naming has been replaced with in-universe language that better fits the archive.
+Recent updates expanded the setting’s canon, refined the timeline, and improved naming consistency across the project. New lore now covers teleportation constraints, Lagrange fold-points, the Subsea Cable Warden Programme, and the Star Rangers Safety Corps lineage. Timeline entries were extended with earlier historical events and updated institutional references, while older direct real-world naming was replaced with in-universe terminology for stronger setting cohesion.
 
 ### Changelog
 
 #### Lore
 
-- Added lore entries that define teleportation constraints and the story pressures those limits create.
-- Expanded fold-space material around Lagrange fold-points and linked it across related FTL articles.
-- Added canon for the Subsea Cable Warden Programme.
+- Added new lore entries covering teleportation constraints and their narrative implications.
+- Added fold-space world-building around Lagrange fold-points and cross-references within related FTL articles.
+- Added lore for the Subsea Cable Warden Programme.
 - Added lore for the Star Rangers Safety Corps and its historical lineage.
 
 #### Timeline
 
-- Extended the timeline with events from before the United Stellar Concord.
-- Revised event titles and updated charter references for the Safety Corps and the SSSA.
+- Expanded the timeline with pre-United Stellar Concord historical entries.
+- Revised timeline titles and updated charter references for the Safety Corps and the SSSA.
 
 #### Terminology and continuity
 
@@ -55,7 +53,7 @@ The latest pass strengthens the setting where the public record matters most. Ca
 
 #### Integration
 
-- Merged recent pull-request content updates, including transit-safety and teleportation-limit canon.
+- Merged recent pull-request-based content updates, including transit safety and teleportation-limit canon integration.
 
 ## Local development
 

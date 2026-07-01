@@ -13,7 +13,7 @@ permalink: /seasons/s01/
 
 <h1 class="page-title">Season 1</h1>
 <p class="page-intro">
-  Threshold Station is already living with a false reading when Season 1 begins. Browse the published episodes, then follow how each chapter tests civic duty against damaged memory and disputed evidence.
+  Browse all available episodes in Season 1.
 </p>
 
 {% set seasonNumber = "1" %}

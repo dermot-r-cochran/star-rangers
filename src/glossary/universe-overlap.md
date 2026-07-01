@@ -14,6 +14,6 @@ tags: [universe-overlap, concordant, boundary, physics]
 
 **Universe Overlap** (pronounced: **YOO-nih-vurs OH-ver-lap**) is a temporary coupling state between adjacent [Concordants](/star-rangers/glossary/concordant/).
 
-During overlap, measurable interaction across the shared boundary becomes possible while distinct local rule sets are preserved on each side. The Concordants do not merge — their respective constraints remain in effect — but their edge conditions interact.
+Overlap permits measurable interaction across boundaries while preserving distinct local rule sets.
 
-Overlap is lawful geometry behaviour. It is not magical convergence.
+It is lawful geometry behavior and must not be interpreted as magical convergence.

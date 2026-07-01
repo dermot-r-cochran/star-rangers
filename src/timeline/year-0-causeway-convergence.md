@@ -20,11 +20,9 @@ tags: [causeway, elvira, galahad, aldera, court-fae, boundary]
 </header>
 <div class="lore-entry__body">
 
-Elvira's third ritual attempt at the Marsh Causeway fails. Galahad arrives shortly after — having been monitoring the causeway from the station — and the two share working vocabulary for the first time. Aldera has been observing from the reeds throughout.
+Elvira's third ritual attempt at the Marsh Causeway fails. Galahad arrives shortly after, having been monitoring the causeway from the station. They share vocabulary for the first time. Aldera has been observing from the reeds throughout.
 
-The failure is not technique error. Aldera's log records a Court-Fae feeding signature in the pattern: the entity is adaptive, learning from each failed attempt, and using the ambiguity in Elvira's incomplete understanding as a food source. The ritual fails because the substrate is being deliberately shifted against it.
-
-The correct response is clarity. Galahad holds survey data that would close the ambiguity loop — and has not yet thought to share it. Elvira has no way to know the data exists. Aldera has understood the situation for some time and has not yet been asked.
+Aldera's log identifies a Court-Fae feeding signature in the failure pattern: the entity is adaptive, learning from each failed attempt, and using the ambiguity of Elvira's incomplete understanding as a food source.
 
 **Canon facts:**
 - The failed rituals are not technique errors; the substrate is being deliberately shifted.

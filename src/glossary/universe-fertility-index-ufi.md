@@ -12,6 +12,6 @@ related:
 tags: [ufi, noogenic, fertility, seed-minds]
 ---
 
-The **Universe Fertility Index (UFI)** tracks the structural readiness of a universe to produce transferable Noöseeds — and by extension, to initiate successor universes.
+The **Universe Fertility Index (UFI)** tracks the structural readiness of a universe to produce transferable noöseeds.
 
-UFI depends on the density of late-phase seed-capable minds within the universe, not on raw population size. A universe with many minds but low Inner World Depth scores poorly; a universe with fewer but structurally deeper minds may score considerably higher.
+UFI depends on the density of late-phase seed-capable minds, not raw population size.

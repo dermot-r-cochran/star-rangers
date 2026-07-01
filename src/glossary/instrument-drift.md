@@ -10,8 +10,8 @@ related:
 tags: [instrument-drift, boundary, physical-effects]
 ---
 
-**Instrument drift** is the phenomenon by which two correctly calibrated instruments produce different readings when placed at different positions within a boundary zone.
+**Instrument drift** is the phenomenon by which two otherwise correctly calibrated instruments produce different readings when placed at different positions in a boundary zone.
 
-This is not a malfunction. The instruments are both accurate for their specific positions. The underlying cause is that local physical conditions — including the local rate of time — differ across the boundary. Each instrument is measuring its immediate environment correctly. The environment itself differs.
+This is not a malfunction. The instruments are both correct for their specific position. The issue is that local physical conditions — including the rate of time — differ across the boundary, and the instruments are each measuring their immediate environment accurately.
 
-At Threshold Station, the two wall chronometers in Dock Seven differ by forty seconds. This discrepancy has been stable for eleven years and cannot be resolved by recalibration: when recalibrated, the discrepancy returns within forty-eight hours. This indicates a stable oscillating boundary condition rather than simple drift.
+At Threshold Station, the two wall chronometers in Dock Seven differ by forty seconds. This discrepancy has been stable for eleven years and cannot be resolved by recalibration: when recalibrated, it returns within forty-eight hours. This indicates a stable oscillating boundary condition rather than a simple drift.

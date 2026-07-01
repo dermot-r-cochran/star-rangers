@@ -14,7 +14,7 @@ permalink: /seasons/s01/e01/
 
 <h1 class="page-title">Season 1 · Episode 1</h1>
 <p class="page-intro">
-  The first episode opens on arrival, inspection, and the first hard proof that something at Threshold Station refuses to settle back into order. Read every published chapter for this episode here.
+  Read every chapter currently published for this episode.
 </p>
 
 {% set seasonNumber = "1" %}

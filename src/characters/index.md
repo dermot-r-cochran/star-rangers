@@ -5,7 +5,8 @@ description: "Profiles of every named character, being, and entity in Star Range
 ---
 <h1 class="page-title">Characters</h1>
 <p class="page-intro">
-  These are the named lives inside the record: officers, civilians, constructs, beings, and entities whose choices keep the frontier functioning or force it to change. Species labels reflect canonical classification—not how characters name themselves or one another.
+  Every named person, being, construct, or entity that appears in the story. Species labels reflect
+  canonical classification — not how characters describe themselves or each other.
 </p>
 
 {% set chars = collections.characters %}

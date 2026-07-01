@@ -14,7 +14,7 @@ permalink: /seasons/s01/e03/
 
 <h1 class="page-title">Season 1 · Episode 3</h1>
 <p class="page-intro">
-  Episode 3 is where the record should widen again—if the station, the witnesses, and the archive can still be trusted. Read every published chapter for this episode here.
+  Read every chapter currently published for this episode.
 </p>
 
 {% set seasonNumber = "1" %}

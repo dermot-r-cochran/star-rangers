@@ -12,8 +12,8 @@ related:
 tags: [ftl, quantum, harmonic, transit]
 ---
 
-**Quantum Space Harmonic Wave** (pronounced: **KWON-tum SPAYS har-MON-ik wayv**) is one of the two canonical faster-than-light channels in the Star Rangers universe.
+**Quantum Space Harmonic Wave** (pronounced: **KWON-tum SPAYS har-MON-ik wayv**) is a canonical faster-than-light channel.
 
-Transit occurs by phase-locking to an admissible harmonic corridor and exiting through [Concordant](/star-rangers/glossary/concordant/) re-synchronisation. The corridor must be pre-admissible — not every harmonic path is lawful, and channel lock failure results in a lawful abort or forced drop-out rather than uncontrolled transit.
+Transit occurs by phase-locking to an admissible harmonic corridor and exiting through [Concordant](/star-rangers/glossary/concordant/) re-synchronization.
 
-It is a physics channel, not a magical pathway.
+Channel lock failure causes lawful abort or forced drop-out; it is not a magic pathway.

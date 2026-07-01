@@ -17,6 +17,6 @@ tags: [ftl, physics, transit, concordant]
 1. **Quantum Space Harmonic Wave** — wave-locked transit along pre-admissible harmonic corridors.
 2. **Higher-Dimensional Folding** — topological distance compression via controlled fold geometry.
 
-Neither channel grants immunity to causality. Neither permits hierarchy bypass. All other proposed faster-than-light methods are not canon-valid.
+Neither channel grants immunity to causality or permits hierarchy bypass.
 
 See the [Lore article on FTL Mechanics](/star-rangers/lore/ftl-mechanics/) for full constraints, failure modes, and continuity rules.
