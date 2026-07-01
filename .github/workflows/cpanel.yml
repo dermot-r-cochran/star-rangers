@@ -61,7 +61,9 @@ jobs:
           path: _site
 
       - name: Apply WordPress theme
-        run: cp _site/css/theme-wordpress.css _site/css/main.css
+        run: |
+          cp _site/css/main.css _site/css/base.css
+          cp _site/css/theme-wordpress.css _site/css/main.css
 
       - name: Deploy to WordPress via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
@@ -92,7 +94,9 @@ jobs:
           path: _site
 
       - name: Apply HubHub theme
-        run: cp _site/css/theme-hubhub.css _site/css/main.css
+        run: |
+          cp _site/css/main.css _site/css/base.css
+          cp _site/css/theme-hubhub.css _site/css/main.css
 
       - name: Deploy to HubHub via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5

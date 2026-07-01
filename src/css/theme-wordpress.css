@@ -3,7 +3,7 @@
    Overrides brand tokens for the WordPress domain.
    ============================================= */
 
-@import url("main.css");
+@import url("base.css");
 
 :root {
   --color-bg: #f9f9f9;
