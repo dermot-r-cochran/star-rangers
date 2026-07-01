@@ -16,13 +16,13 @@ description: "The first official incident report documenting the Dock Seven chro
 
 **Nature of incident:**
 
-Two wall-mounted chronometers (units C-7A and C-7B) in Dock Seven are showing divergent time readings. Current discrepancy: 40 seconds. Both units were individually calibrated and confirmed accurate within ±0.5 seconds as of last maintenance cycle (Day 12 of the same season).
+Two wall-mounted chronometers in Dock Seven are no longer agreeing on the hour. Units C-7A and C-7B currently differ by 40 seconds. Both units were individually calibrated and confirmed accurate within ±0.5 seconds during the last maintenance cycle on Day 12 of the same season.
 
-The discrepancy has been present for at least three days (first noticed Day 44). I cannot identify a mechanical cause.
+The discrepancy has been present for at least three days, first noticed on Day 44. No mechanical cause has been identified.
 
 **Actions taken:**
 
-Both units recalibrated to station-standard time. Discrepancy resolved at time of filing.
+Both units were recalibrated to station-standard time. The discrepancy cleared at the time of filing.
 
 **Recommendation:**
 
@@ -38,4 +38,4 @@ Calibration issue. Report closed. Units to be recalibrated at next maintenance c
 ---
 
 *Note appended by Survey Archive — 2826 UCSD:*
-*The discrepancy returned on Day 49 — two days after recalibration. This note was not filed as an incident report. It appears in the maintenance log for Day 49 as a single line: "C-7A/C-7B discrepancy returned. 40 sec. No action."*
+*The discrepancy returned on Day 49, two days after recalibration. That return was not filed as an incident report. It survives only in the Day 49 maintenance log as a single line: "C-7A/C-7B discrepancy returned. 40 sec. No action."*

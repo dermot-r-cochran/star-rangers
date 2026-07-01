@@ -16,6 +16,8 @@ description: "Rook-7's compiled log from the first week at Threshold Station. Cl
 
 **Day 1 — Arrival, Dock Seven**
 
+The first thing worth trusting was the mismatch on the wall.
+
 Atmospheric: nominal. Ozone trace +0.3% above station standard. Consistent with boundary proximity. *Not a hazard. Is an indicator.*
 
 Chronometers C-7A and C-7B: 40-second discrepancy confirmed on arrival. Discrepancy is stable: same value observed on Days 2, 3, 4, 5, 6, 7. This is not drift. This is a sustained condition.
@@ -46,9 +48,9 @@ Revised hypothesis: Threshold Station is sitting on a resonance mode of the boun
 
 This posting is not routine.
 
-The station administration's responses to eleven years of incident reports are either (a) uninformed about the connected nature of the phenomena, or (b) a deliberate suppression of data.
+The station administration's responses to eleven years of incident reports suggest one of two failures: either they do not understand the connected nature of the phenomena, or they are deliberately suppressing data.
 
-I do not yet have sufficient evidence to distinguish between (a) and (b). This is my primary open question.
+I do not yet have sufficient evidence to distinguish between those possibilities. This remains my primary open question.
 
 Filing. Requesting access to maintenance logs Year -11 through Year -1.
 

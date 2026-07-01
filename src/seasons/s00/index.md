@@ -13,7 +13,7 @@ permalink: /seasons/s00/
 
 <h1 class="page-title">Season 0 · Foundation</h1>
 <p class="page-intro">
-  The events that made the Star Rangers necessary — and possible. Set between 2712 and 2723 UCSD, in the final years of Military Space Command authority over the Solar System.
+  Here is the fracture before the oath. Season 0 follows the years that made the Star Rangers both necessary and possible, from 2712 to 2723 UCSD under the last stretch of Military Space Command rule.
 </p>
 
 {% set seasonNumber = "0" %}

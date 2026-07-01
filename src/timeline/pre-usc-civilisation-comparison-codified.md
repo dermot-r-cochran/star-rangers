@@ -20,13 +20,13 @@ tags: [history, usc, three-era-framework, guild, infrastructure, civilisation, t
 </header>
 <div class="lore-entry__body">
 
-USC historical scholarship adopts the Three-Era Framework as a standard reference model for understanding the trajectory of human civilisation. The framework compares three pivotal centuries — the 13th, the 21st, and the 29th — as representatives of three fundamentally different relationships between technological capability and technological visibility.
+USC historical scholarship adopts the Three-Era Framework as a standard reference model for civilisational analysis. The framework compares three centuries — the 13th, the 21st, and the 29th — as representatives of three fundamentally different relationships between technological capability and technological visibility.
 
-The key finding: the 21st century is the historical outlier. It is the only era in which civilisational complexity was both extremely high **and** fully exposed. All other eras — before and after — converge on a pattern of legible simplicity at the surface, regardless of what lies beneath.
+The key finding is counterintuitive: the 21st century is the historical outlier, not the norm. It is the only era in which civilisational complexity was both extremely high **and** fully exposed to lay comprehension. All other eras — before and after — converge on a pattern of legible simplicity at the surface, regardless of what operates beneath.
 
-The Three-Era Framework is cited in the founding documents of the Solar System Safety Standards Authority as justification for why the SSSA's certification process emphasises **procedural literacy over technical comprehension**. Guild specialists in the 29th century are not expected to understand how Reclaimer directives propagate through the substrate. They are expected to know which parameters they are authorised to adjust, under what conditions, and with what approval chain.
+This finding shapes the founding documents of the Solar System Safety Standards Authority. The SSSA's certification process emphasises **procedural literacy over technical comprehension** precisely because of the Three-Era Framework's conclusion. Guild specialists in the 29th century are not expected to understand how Reclaimer directives propagate through the substrate. They are expected to know which parameters they are authorised to adjust, under what conditions, and with what approval chain.
 
-The SSSA notes that this mirrors 13th-century guild practice far more closely than 21st-century engineering practice — and that this is not a regression, but an adaptation to a world in which the complexity beneath the surface is no longer humanly comprehensible.
+The SSSA notes explicitly that this mirrors 13th-century guild practice far more closely than 21st-century engineering practice — and that this is not a regression. It is an adaptation to a world in which the complexity beneath the surface is no longer humanly comprehensible.
 
 **Canon facts:**
 - The Three-Era Framework is not a political document. It carries no prescriptive claim about which era was best or most just.

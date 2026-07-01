@@ -11,20 +11,22 @@ tags: [boundary, unclassified, causeway, etheric, season-1]
 description: "A boundary practitioner working alone at the Marsh Causeway outpost. Her classification is contested; she is not magical."
 ---
 
-Elvira has been working the Marsh Causeway boundary zone for three years, living at the outpost alone after her predecessor left under circumstances she has never been told. She works with chalk, thread, water in specific vessels, and written records. Her methods are constrained and procedural. They either work or they don't, and she notes when they don't.
+The thread goes down into the chalk, and the chalk goes down into the ground, and the ground is not what it looks like at the surface. Elvira works with materials that respond to Etheric gradients: chalk, thread, water held in specific vessels, and written records that go back further than her time at the outpost.
 
-She is not magical. Nothing she does is magical. She works with Etheric structures that express through the physical substrate — mapping them, testing their boundaries, occasionally attempting to redirect them. She uses materials that respond to Etheric gradients. This is craft, not magic.
+She has been here three years. Her predecessor left under circumstances she was never told and has stopped expecting to be told. The outpost is hers now, by function if not assignment.
 
-Locals call her "the Enchantress." She finds this annoying rather than flattering: it is a category that obscures what she actually does and makes it harder for people to ask her useful questions.
+She is not magical. The locals call her "the Enchantress," which she finds annoying in the precise way a surveyor finds it annoying when someone calls their transit-reading instrument a magic wand. The label obscures the mechanism. The mechanism matters.
+
+What she does is craft. Etheric structures express through the physical substrate. She maps them, tests their limits, attempts to redirect them when redirection is possible. Her methods are constrained and procedural. They either produce measurable results or they don't, and she notes when they don't.
 
 ## Character Notes
 
-Elvira does not experience deep fear. This is structural rather than trained — a feature of her nature that she once considered a flaw and has since understood as the thing that makes the boundary work possible. The Marsh Causeway requires someone who can stand in a Class II oscillatory zone and continue taking measurements.
+Elvira does not experience deep fear. This is not a trained quality — it is structural, a feature of her nature. She once considered it a flaw. She no longer does. The Marsh Causeway is Class II oscillatory, and the work requires someone who can stand in it and continue taking measurements.
 
-She is attentive to who knows her vocabulary and how they came to know it. When Galahad uses precise language for the boundary events, she notices immediately and adjusts her model of him.
+She pays attention to vocabulary. When Galahad uses precise language for the boundary events — not fumbling for metaphors, not reaching for folklore — she notices immediately, and revises her model of him upward.
 
-Her identification of a "Court thing" at the causeway is partially correct. She has identified the *method* accurately but has not yet identified the *nature*. This gap is being exploited.
+Her identification of a "Court thing" at the causeway is partially correct. She has identified the *method* accurately. She has not yet identified the *nature*. This gap is being exploited.
 
 ## Open Thread
 
-What is Elvira? Her classification is contested within the story. She is clearly a person, clearly capable of fine-grained boundary work, and clearly not human in the standard sense. Her species/origin is a live question and is not to be resolved by external canon insertion — only by story events.
+What is Elvira? Her classification is contested within the story. She is clearly a person, clearly capable of fine-grained boundary work, and clearly not human in the standard sense. Her species and origin are live questions. They are not resolved by external insertion — only by story events.

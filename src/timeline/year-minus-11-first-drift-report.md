@@ -20,9 +20,11 @@ tags: [threshold-station, boundary, instrument-drift]
 </header>
 <div class="lore-entry__body">
 
-The first instrument drift report is filed at Threshold Station. Two chronometers in Dock Seven show a forty-second discrepancy. The reporting officer notes that both instruments have been individually calibrated and confirmed accurate, but show divergent readings when compared. No mechanical cause can be identified.
+In Year -11, Late Summer, a reporting officer at Threshold Station files the station's first instrument drift report. Two chronometers in Dock Seven show a forty-second discrepancy. Both instruments have been individually calibrated and confirmed accurate. When compared, they disagree.
 
-The station administration classifies the discrepancy as a calibration issue and closes the report, recommending recalibration. The discrepancy returns within forty-eight hours of the recalibration. This is noted in the maintenance log as a single line. It is not filed as a new incident report.
+The station administration classifies the discrepancy as a calibration issue and closes the report. Recalibration is recommended and performed. Within forty-eight hours, the discrepancy returns.
+
+The return is logged in the maintenance record as a single line. It is not filed as a new incident report.
 
 **Canon facts:**
 - This event is the beginning of a documented record that will eventually span eleven years.

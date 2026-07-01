@@ -6,10 +6,10 @@ permalink: /seasons/
 ---
 <h1 class="page-title">Seasons &amp; Episodes</h1>
 <p class="page-intro">
-  Star Rangers has one canonical timeline. Each chapter can be read through any available character's point of view — use the POV selector within a chapter to switch perspective.
+  Begin with the record: one history, many witnesses. Read a chapter in any available character's point of view, then switch inside the chapter to see how duty, fear, and memory reshape the same event.
 </p>
 <p class="page-intro">
-  The current story opens in 2826 UCSD after eleven years of unresolved instrument drift at Threshold Station and three years of independent boundary monitoring at the Marsh Causeway.
+  The published story opens in 2826 UCSD. Threshold Station has carried an unresolved instrument discrepancy for eleven years, while the Marsh Causeway has endured three years of independent boundary monitoring.
 </p>
 
 {% set allChapters = collections.chapters %}

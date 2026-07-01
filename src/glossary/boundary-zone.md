@@ -11,9 +11,11 @@ related:
 tags: [boundary, concordant, cosmology]
 ---
 
-A **boundary zone** is the region where two adjacent [Concordants](/star-rangers/glossary/concordant/) meet. Because each [Concordant](/star-rangers/glossary/concordant/) maintains slightly different physical and Etheric conditions, the overlap region produces measurable inconsistencies: instruments disagree on time, distance, and sometimes local physical constants.
+A **boundary zone** is the region where two adjacent [Concordants](/star-rangers/glossary/concordant/) meet. Each Concordant maintains slightly different physical and Etheric conditions; their shared edge is where those differences become measurable.
 
-Boundary zones are not hazardous to life in the short term, but extended exposure has documented effects on fine instrument calibration, Etheric-based practices (such as ritual work), and — in high-activity events — direct sensory perception.
+The practical result: instruments placed on either side of a boundary disagree. Time, distance, and local physical constants may differ across the zone. The instruments are not broken — they are each accurately measuring their immediate environment. The environment itself is inconsistent.
+
+Boundary zones are not acutely hazardous to life, but extended exposure has documented effects: fine instrument calibration degrades, Etheric-based practices such as ritual work become unreliable, and high-activity events can affect direct sensory perception.
 
 The Survey Corps, an operational branch of the Star Rangers, maintains monitoring posts at boundary zones. Threshold Station is one such post.
 

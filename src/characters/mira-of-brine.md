@@ -11,12 +11,14 @@ tags: [alien, pelagene, ocean-world, pressure-adapted, survey, season-1]
 description: "A Pelagene Littoral surveyor from an ocean planet, specialized in pressure systems, salinity gradients, and fluid-boundary anomalies."
 ---
 
-Mira of Brine is Pelagene Littoral, from Nerath: a deep-ocean world with no stable continental landmass, high salinity basins, and steep pressure transitions between photic and abyssal layers. Pelagene development is shaped by buoyancy control, dissolved-oxygen variance, and constant hydrodynamic noise.
+Mira grew up where water is not background — it is the medium of everything: pressure, sound, navigation, chemical signal, thermal gradient. Nerath has no stable landmass. The surface is contested. The photic layer is the edge of the known world, and below it, the pressure transitions are steep and abrupt.
 
-Mira breathes standard station atmosphere with assistive hydration cycles, but performs best in humid, high-pressure working sections. She reads fluid motion as a primary signal: condensation patterns, airflow vortices, and coolant turbulence all register to her as meaningful environmental data.
+She is Pelagene Littoral, built for buoyancy control and dissolved-oxygen variance. On a station she breathes standard atmosphere with assistive hydration cycles. She performs best in humid, high-pressure working sections. She prefers them because the physics is more legible to her there.
+
+She reads fluid motion as primary signal. Condensation patterns on cold panels. Airflow vortices in corridor junctions. Coolant turbulence in transit tubes. All of it is data before it is noise.
 
 ## Character Notes
 
-Mira's field notes are built around gradients rather than fixed states. She is less interested in where a system is than in where it is moving.
+Mira's field notes are organised around gradients rather than fixed states. She is less interested in where a system is than in which direction it is moving and at what rate.
 
-Her homeworld experience with saline pressure boundaries makes her particularly effective at diagnosing leaks, vapor creep, and cross-medium contamination before they become visible to human instruments.
+Her homeworld experience with saline pressure boundaries makes her unusually effective at diagnosing leaks, vapor creep, and cross-medium contamination before human instruments flag them. She finds problems early because she is listening to the station the way her body learned to listen to the sea.

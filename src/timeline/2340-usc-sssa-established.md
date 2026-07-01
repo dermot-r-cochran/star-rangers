@@ -20,11 +20,13 @@ tags: [usc, united-space-consortium, history, governance, sssa, safety-corps, st
 </header>
 <div class="lore-entry__body">
 
-The United Space Consortium is founded, growing from the Navigation and Trade Accords of 2337 UCSD — a practical treaty between Earth's major space agencies and the largest Belt mining cooperatives. It becomes the Solar System's first formal interplanetary governing body.
+In approximately 2340 UCSD, the Navigation and Trade Accords of 2337 — a working agreement between Earth's major space agencies and the Belt mining cooperatives — crystallise into the United Space Consortium: the Solar System's first formal interplanetary governing body.
 
-At the same time, the USC charters the **Solar System Safety Standards Authority (SSSA)**, consolidating the fragmented landscape of national and commercial safety certification bodies into a single mandatory-jurisdiction institution. United Space Industry Standards is the largest single body absorbed. Its institutional culture of independence from political and commercial interference — demonstrated during the Coherence Wars, when the SSSA continued certifying all sides — transfers with it.
+The USC's founding act includes chartering the **Solar System Safety Standards Authority (SSSA)**. Rather than building a new institution from scratch, the USC consolidates the scattered landscape of national and commercial safety certification bodies into a single mandatory-jurisdiction authority. United Space Industry Standards is the largest of those absorbed.
 
-The SSSA's independence from governmental direction on certification decisions is written into its charter. It is funded by certification fees structured to avoid financial incentives to approve marginal applications. It is not permitted to receive operational direction from USC member governments or commercial operators with active certification relationships.
+That absorption carries more than staff and records. United Space Industry Standards had maintained its independence from political and commercial interference through the Coherence Wars — certifying all sides and refusing directional pressure from any of them. That institutional posture transfers into the SSSA's founding charter as an explicit structural guarantee.
+
+Three protections are written in: independence from governmental direction on certification decisions; funding through certification fees structured so that approving marginal applications produces no financial benefit; and a prohibition on operational direction from any government or active commercial operator.
 
 **Canon facts:**
 - The USC's democratic structure and consensus model will eventually fail under the weight of its own expansion. The Coherence Wars begin in 2503 UCSD.

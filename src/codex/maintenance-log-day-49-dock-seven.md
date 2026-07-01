@@ -21,6 +21,8 @@ description: "Survey maintenance extract from Day 49 documenting the return of t
 
 ### Observed Condition
 
+The clocks split again before the shift was half over.
+
 - C-7A readout: **03:10:41**
 - C-7B readout: **03:10:01**
 - Divergence: **40 seconds**
@@ -35,7 +37,7 @@ description: "Survey maintenance extract from Day 49 documenting the return of t
 
 ### Result
 
-Discrepancy reappeared immediately after each recalibration pass. No hardware fault identified in either unit. Pattern is repeatable and no longer consistent with ordinary instrument drift.
+The discrepancy returned immediately after every recalibration pass. No hardware fault was identified in either unit. The pattern is repeatable and no longer matches ordinary instrument drift.
 
 ### Escalation Note
 
@@ -43,4 +45,4 @@ Filed for manager review with recommendation to reopen Incident Report 001 and r
 
 ---
 
-*Clerk annotation added during 2826 UCSD archive pass: This line item is the earliest surviving maintenance proof that the Day 47 closure determination was operationally unsound.*
+*Clerk annotation added during 2826 UCSD archive pass: This entry is the earliest surviving maintenance proof that the Day 47 closure determination was operationally unsound.*

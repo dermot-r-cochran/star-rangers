@@ -20,7 +20,7 @@ Their food sources are:
 - **Desire loops:** sustained wanting without pursuit or release
 - **Social debt:** undefined obligations that are never discharged
 
-Court-Fae do not use force. They use passive aggression, indirect suggestion, and the careful maintenance of situations that never quite resolve. After contact they leave *residue*: a background sense of obligation, a value drift, a faint loop of obsession that persists after they are gone.
+Court-Fae do not use force. They operate through passive aggression, indirect suggestion, and the careful maintenance of situations that never quite resolve. After contact they leave *residue*: a background sense of obligation, a value drift, a faint loop of obsession that persists after they are gone.
 
 **Counter:** clarity. Name what you know. Define or discharge the debt. Break the loop.
 
