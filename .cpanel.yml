@@ -38,7 +38,7 @@ deployment:
     # Before deploying, edit the destination path below to match the
     # directory where HumHub is installed on your server.
     # Example: /home/<cpanel-username>/public_html/community/
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/<cpanel-username>/public_html/community/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/community/
 
     # ── 7. Restore CSS to neutral base for future builds ───────────────────
     - cp $REPOSITORY_ROOT/_site/css/base.css $REPOSITORY_ROOT/_site/css/main.css
