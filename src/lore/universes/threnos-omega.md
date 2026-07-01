@@ -6,6 +6,8 @@ tags: [threnos-omega, entropy-horizon, predictive-closure, static-synod, levrils
 description: "Reference universe that crossed its entropy horizon and entered predictive closure."
 ---
 
+In Threnos-Ω, the shelves are full, the systems still run, and almost nothing surprises anyone for long. That is what life past the entropy horizon looks like.
+
 **Threnos-Ω** is a documented universe that has moved beyond its entropy horizon into long-duration predictive closure.
 It is a primary reference case for post-entropy governance and residual anomaly management.
 
@@ -23,13 +25,12 @@ Threnos-Ω satisfies all three conditions.
 ### Predictive Closure
 
 Most civilizational, ecological, and systemic outcomes are forecastable within tight tolerances.
-Surprise events still occur, but almost never produce durable novelty expansion.
+Surprise events still occur, but they almost never expand into durable novelty.
 
 ### Zero Novelty Regime
 
 Threnos-Ω is not physically inert.
-It remains active, but recombination dominates creation:
-existing forms permute; genuinely new classes rarely emerge.
+It remains active, but recombination dominates creation: existing forms permute; genuinely new classes rarely emerge.
 
 ### Collapsing AUC Economy
 
@@ -47,11 +48,11 @@ In Threnos-Ω, the Council of Archons persists as a **Static Synod**:
 - intervention doctrine is conservation-first,
 - governance objective is continuity integrity, not expansion.
 
-The Static Synod does not attempt forced re-ignition of CEI; it prioritizes lawful maintenance and anomaly containment.
+The Static Synod does not attempt forced re-ignition of CEI. It prioritizes lawful maintenance and anomaly containment.
 
 ## Levrils and Anomaly Monitoring
 
-Levrils serve as long-horizon technical custodians.
+Levrils serve there as long-horizon technical custodians.
 Their mandate includes:
 - baseline drift surveillance,
 - overlap-distortion diagnostics,
@@ -66,7 +67,7 @@ Threnos-Ω records the first confirmed **horizon breach** event in post-closure 
 - A micro-epoch of genuine novelty manifested and persisted beyond expected decay limits.
 - Levril teams isolated the event perimeter while the Static Synod suspended normal closure assumptions in adjacent sectors.
 
-The breach did not reverse post-entropy status, but it proved that closure is stable—not absolute.
+The breach did not reverse post-entropy status, but it proved that closure is stable, not absolute.
 
 ## Continuity Notes
 

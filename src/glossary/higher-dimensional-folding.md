@@ -12,8 +12,8 @@ related:
 tags: [ftl, folding, higher-dimensional, topology]
 ---
 
-**Higher-Dimensional Folding** (pronounced: **HYE-er di-MEN-shun-ul FOHL-ding**) is a canonical faster-than-light channel.
+**Higher-Dimensional Folding** (pronounced: **HYE-er di-MEN-shun-ul FOHL-ding**) is one of the two canonical faster-than-light channels in the Star Rangers universe.
 
-It temporarily brings distant regions into fold adjacency, transfers matter through stable aperture conditions, then collapses the fold.
+The mechanism: the channel temporarily brings distant regions into fold adjacency, transfers matter through stable aperture conditions, then collapses the fold. Transit is geometrically lawful — it compresses topological distance without violating causality or bypassing hierarchy constraints.
 
-Folding preserves causality and hierarchy constraints; it cannot be used for retrocausal editing.
+Folding cannot be used for retrocausal editing. It permits distance traversal, not timeline revision.

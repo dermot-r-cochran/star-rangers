@@ -6,7 +6,9 @@ tags: [boundary, concordant, concordance, threshold, instrument-drift, physical-
 description: "How boundary zones between adjacent Concordants produce measurable physical effects and why they are operationally constrained environments."
 ---
 
-A boundary zone is the region where two adjacent [Concordants](/star-rangers/glossary/concordant/) meet. [Concordance](/star-rangers/glossary/concordant/) is the plural form of [Concordant](/star-rangers/glossary/concordant/). At the boundary, each [Concordant](/star-rangers/glossary/concordant/) remains locally valid while global agreement degrades.
+At a boundary station, two clocks can disagree by seconds and both still be telling the truth. That is the first lesson of a boundary zone.
+
+A boundary zone is the region where two adjacent [Concordants](/star-rangers/glossary/concordant/) meet. [Concordance](/star-rangers/glossary/concordant/) is the plural form of [Concordant](/star-rangers/glossary/concordant/). At the edge, each [Concordant](/star-rangers/glossary/concordant/) remains locally valid while global agreement begins to fray.
 
 ## Definition
 
@@ -43,6 +45,6 @@ Rapid discontinuity growth with high instrumentation disagreement.
 
 ## Threshold Station and Marsh Causeway
 
-Threshold Station and Marsh Causeway remain linked by shared boundary behavior. Their measured anomalies are lawful expressions of [Concordant](/star-rangers/glossary/concordant/) interference, not supernatural exceptions.
+Threshold Station and Marsh Causeway are linked by the same kind of edge behavior. Their anomalies are lawful expressions of [Concordant](/star-rangers/glossary/concordant/) interference, not supernatural exceptions.
 
-Boundary monitoring at Threshold-class stations is conducted by the Survey Corps, a specialist operational branch within the Star Rangers.
+Boundary monitoring at Threshold-class stations is handled by the Survey Corps, a specialist operational branch within the Star Rangers.

@@ -11,11 +11,11 @@ related:
 tags: [kieme, cascade, upper-structure, cosmology]
 ---
 
-**Kieme** is the second tier of the Cosmic Cascade, part of the Upper Structure alongside Hyperomnium and Conseleme.
-
-**Legacy name:** *Holy Triumvirate* was an earlier designation for this tier. Canonically: Kieme = Holy Triumvirate.
+**Kieme** is the second tier of the Cosmic Cascade, forming part of the Upper Structure alongside Hyperomnium and Conseleme.
 
 Like all Upper Structure tiers, Kieme is non-anthropomorphic. It establishes origin constraints that all downstream tiers must satisfy.
+
+The legacy name for this tier is *Holy Triumvirate*. In all current canon, Kieme and Holy Triumvirate are synonymous.
 
 **Key constraints:**
 - No direct dialogue with time-bound entities.

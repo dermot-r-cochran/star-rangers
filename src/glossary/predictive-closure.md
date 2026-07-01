@@ -11,8 +11,8 @@ related:
 tags: [predictive-closure, entropy-horizon, cei]
 ---
 
-**Predictive Closure** is the stabilized condition that follows entropy horizon crossing.
+**Predictive Closure** is the stabilised condition that follows entropy horizon crossing. In predictive closure, systems still evolve — but most change is recombinational rather than genuinely novel. The range of possible futures narrows until durable surprise approaches zero.
 
-In predictive closure, systems still evolve, but most changes are recombinational rather than genuinely novel.
+The universe does not stop. It continues processing. The difference is that macroscale outcomes have converged into narrow forecast bands: what will happen is broadly knowable in advance, because the structural capacity for deviation has been exhausted.
 
-Threnos-Ω is the primary reference case for this condition.
+Threnos-Ω is the primary canonical reference case for this condition.

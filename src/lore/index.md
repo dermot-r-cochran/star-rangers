@@ -5,9 +5,7 @@ description: "World-building articles about the Five Layers, the Cosmic Cascade,
 ---
 <h1 class="page-title">Lore</h1>
 <p class="page-intro">
-  Deep-dive articles on the structure of reality, factions, cosmological laws, and the forces that
-  shape the world of Star Rangers. Lore entries are written from an out-of-story perspective and
-  may contain information not yet confirmed by in-story events.
+  Start with the ground under the story: the laws, factions, civic systems, and cosmological pressures that make each choice matter. These articles step outside the narrative. Because of that, they may confirm truths the characters have not yet proved.
 </p>
 
 {% set loreEntries = collections.lore %}

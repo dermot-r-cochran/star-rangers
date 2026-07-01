@@ -6,9 +6,11 @@ tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, cou
 description: "A classification of all meta-dimensional beings in the Star Rangers universe: sapient Cascade-ranked Levrils, sapient monsters, and non-sapient shadow beings."
 ---
 
+A boundary sensor can register the breach before anyone sees a face, claw, or shadow. Classification begins there, with structure first and fear second.
+
 Meta-dimensional beings are entities whose existence extends across spatial dimensions above the four accessible to Material-layer beings. They enter or interact with Material space through boundary zones, overlap windows, and fold-proximate events.
 
-Meta-dimensional existence is not rare. It is, however, stratified. Not all meta-dimensional beings are sapient, and not all sapient meta-dimensional beings hold Cascade standing.
+Meta-dimensional existence is not rare. What matters is its stratification. Not all meta-dimensional beings are sapient, and not all sapient meta-dimensional beings hold Cascade standing.
 
 ## Classification
 
@@ -16,13 +18,13 @@ Meta-dimensional existence is not rare. It is, however, stratified. Not all meta
 
 The only meta-dimensional beings with formal standing in the Cosmic Cascade. Sapient, constrained by hierarchy, and capable of lawful interaction with Material-layer beings through constraint literacy and Champions selection.
 
-Levrils are the upper boundary of what Material-layer beings can negotiate with. Everything below this class is either ungoverned or predatory.
+Levrils mark the upper limit of what Material-layer beings can negotiate with. Below this class, power may still speak, but it does not speak under lawful standing.
 
 See: [Levrils](/star-rangers/lore/levrils/)
 
 ### Class II — Sapient Monsters
 
-Meta-dimensional beings with a degree of sapience — goal-directed, adaptive, capable of learning and strategy — but without Cascade standing. They are not bound by Cascade constraints and not protected by them. Their sapience makes them more dangerous than shadow beings: they learn, adjust, and exploit.
+Meta-dimensional beings with a degree of sapience — goal-directed, adaptive, capable of learning and strategy — but without Cascade standing. They are not bound by Cascade constraints and not protected by them. Their sapience makes them more dangerous than shadow beings because they learn, adjust, and exploit.
 
 Sapient monsters cannot perform functions reserved for Cascade-ranked entities. They have no legitimate authority at any tier.
 
@@ -35,7 +37,7 @@ Sapient monsters cannot perform functions reserved for Cascade-ranked entities. 
 
 Meta-dimensional beings with no sapience. Predatory, entropic, or ecologically disruptive. They enter Material space opportunistically through boundary instability and do not pursue goals beyond immediate feeding or expansion.
 
-They are not intelligent, but they are not inert. A boundary collapse event can introduce large non-sapient shadow beings that cause significant material damage purely through their presence displacing local physics.
+They are not intelligent, but they are not inert. A boundary collapse event can introduce large non-sapient shadow beings that cause significant material damage simply by displacing local physics through their presence.
 
 **Examples:**
 
@@ -50,7 +52,7 @@ Meta-dimensional beings enter Material space through:
 - **Universe overlap windows** — temporary coexistence periods permit partial dimensional extension into Material space.
 - **Fold-proximate instability** — unauthorised or degraded fold operations can open ingress corridors.
 
-Levrils (Class I) translate into Material space through lawful dimensional channels and produce measurable instrument effects on entry. Class II and III beings typically enter without lawful channel use and may not produce the same clean instrument signature.
+Levrils (Class I) translate into Material space through lawful dimensional channels and produce measurable instrument effects on entry. Class II and III beings usually enter without lawful channel use and do not always leave the same clean signature.
 
 ## Detection
 

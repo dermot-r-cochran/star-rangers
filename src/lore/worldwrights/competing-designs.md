@@ -8,6 +8,8 @@ description: "Contrasting Worldwright systems and their effects on novelty, stab
 
 # Worldwright Design Philosophies
 
+In one design, three universes hum against one another and keep possibility alive through tension. In the other, a single primary line holds steady by refusing most divergence. That contrast sits at the heart of this debate.
+
 ## Overview
 
 Worldwrights create primary universe sets.
@@ -120,7 +122,7 @@ In lifecycle terms, RTS-9 delays predictive closure through active novelty circu
 
 ## Section 5: Narrative Tension
 
-The Virex–Valen divide is not merely technical; it is philosophical.
+The Virex–Valen divide is not merely technical. It is philosophical.
 
 - Virex argues that reality must preserve possibility, even at the cost of hazard.
 - Valen argues that continuity and survivability require aggressive suppression of runaway divergence.
@@ -144,11 +146,21 @@ Their dispute anchors an enduring question in Star Rangers cosmology:
 
 ```mermaid
 graph TD
-  A[Archewrights\nDefine archetypes + possibility space] --> B[Worldwrights\nInstantiate primary universe sets]
-  B --> C1[Kaelor Virex\nRTS-9: Triad Coupling]
-  B --> C2[Soryth Valen\nMCS-1: Monocline]
-  C1 --> D1[High CEI\nOverlap Zones\nHigh UFI]
-  C2 --> D2[Low CEI Drift\nNo Overlap\nLow UFI]
-  D1 --> E[Concordants\nHigh active balancing load]
-  D2 --> E2[Concordants\nMaintenance-heavy, lower volatility]
+  A[Archewrights
+Define archetypes + possibility space] --> B[Worldwrights
+Instantiate primary universe sets]
+  B --> C1[Kaelor Virex
+RTS-9: Triad Coupling]
+  B --> C2[Soryth Valen
+MCS-1: Monocline]
+  C1 --> D1[High CEI
+Overlap Zones
+High UFI]
+  C2 --> D2[Low CEI Drift
+No Overlap
+Low UFI]
+  D1 --> E[Concordants
+High active balancing load]
+  D2 --> E2[Concordants
+Maintenance-heavy, lower volatility]
 ```

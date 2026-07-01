@@ -14,7 +14,9 @@ related:
 tags: [cosmic-cascade, hierarchy, cosmology, causality]
 ---
 
-The **Cosmic Cascade** is the fixed ordering of causal authority in the Star Rangers universe. It is ontological, not political. Causality resolves from higher tier to lower tier and does not reverse.
+The **Cosmic Cascade** is the fixed ordering of causal authority in the Star Rangers universe. It is ontological, not political — a structural description of how causality resolves, not a claim about which tier is most virtuous.
+
+Causality resolves from higher tier to lower tier and does not reverse.
 
 The full hierarchy is:
 

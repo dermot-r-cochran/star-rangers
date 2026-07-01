@@ -12,6 +12,6 @@ related:
 tags: [noogenic-law, seeding, cosmology]
 ---
 
-The **Noögenic Seeding Law** states that universe reproduction occurs through transfer-capable information-rich minds, not direct mass replication.
+The **Noögenic Seeding Law** states that successor universes can be initiated through sufficiently deep and stable information-rich minds — not through direct mass replication or physical transfer.
 
-A valid seed must preserve coherent interior generativity through compression and transference.
+The practical implication: universe reproduction depends on the quality and coherence of minds produced within the parent universe. A valid seed must preserve coherent interior generativity through compression and transference.

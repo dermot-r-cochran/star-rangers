@@ -6,6 +6,8 @@ tags: [timeline, stardate, chronology, standards, galactic-rotation]
 description: "A long-range stardate system measured by galactic rotation cycles rather than planetary years."
 ---
 
+When archives must outlast planets, they stop trusting planets as their clock. That is the civic logic behind Galactic Stardate.
+
 Galactic Stardate is the deep-time calendar used for cross-[Concordant](/star-rangers/glossary/concordant/) history. Unlike local calendars, it is anchored to **galactic rotational phase**, not planetary orbital years.
 
 ## Core Principle
