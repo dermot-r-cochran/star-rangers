@@ -49,7 +49,7 @@ description: "Star Rangers — an interactive science-fantasy novel grounded in 
 
 <section id="license" aria-label="License">
   <h2>License</h2>
-  <p>Copyright © Dermot R. Cochran. All rights reserved by the author.</p>
+  <p>Copyright © {{ build.copyrightYears }} Dermot R. Cochran. All rights reserved by the author.</p>
   <p>
     To the extent possible under law, Dermot R. Cochran has waived all copyright and related or
     neighbouring rights to the text and world-building content of <em>Star Rangers</em>.
