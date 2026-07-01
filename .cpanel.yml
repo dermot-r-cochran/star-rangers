@@ -16,17 +16,30 @@
 #
 # cPanel-provided environment variable used here:
 #   $REPOSITORY_ROOT – absolute path to the checked-out repository
+#                      (resolves to /home/sciencef/repositories/star-rangers)
 
 deployment:
   tasks:
     # ── 1. Install exact Node.js dependencies ──────────────────────────────
-    - cd $REPOSITORY_ROOT && npm ci --prefer-offline
+    - cd $REPOSITORY_ROOT && npm ci
 
     # ── 2. Build the Eleventy site (root path prefix for WordPress) ─────────
-    - cd $REPOSITORY_ROOT && npx eleventy --pathprefix=/
+    - cd $REPOSITORY_ROOT && $REPOSITORY_ROOT/node_modules/.bin/eleventy --pathprefix=/
 
     # ── 3. Apply the WordPress theme CSS ───────────────────────────────────
     - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css && cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
 
     # ── 4. Sync built files to WordPress public_html ───────────────────────
     - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
+
+    # ── 5. Apply the HumHub theme CSS ──────────────────────────────────────
+    - cp $REPOSITORY_ROOT/src/css/theme-humhub.css $REPOSITORY_ROOT/_site/css/main.css
+
+    # ── 6. Sync built files to HumHub public_html ──────────────────────────
+    # Before deploying, edit the destination path below to match the
+    # directory where HumHub is installed on your server.
+    # Example: /home/<cpanel-username>/public_html/community/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/community/
+
+    # ── 7. Restore CSS to neutral base for future builds ───────────────────
+    - cp $REPOSITORY_ROOT/_site/css/base.css $REPOSITORY_ROOT/_site/css/main.css
