@@ -16,6 +16,7 @@
 #
 # cPanel-provided environment variable used here:
 #   $REPOSITORY_ROOT – absolute path to the checked-out repository
+#                      (resolves to /home/sciencef/repositories/star-rangers)
 
 deployment:
   tasks:
