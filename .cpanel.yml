@@ -1,34 +1,21 @@
 ---
 # cPanel Git Version Control deployment configuration.
 # Reference: https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/
-#
-# This deployment publishes the Eleventy build as static files so each
-# generated GitHub Pages route is also available from the main hosted domain
-# at the same URL path.
-#
-# cPanel executes each task as a separate shell command, so environment
-# variables do NOT persist between tasks. All paths are inlined below.
-#
-# Prerequisites in cPanel:
-#   1. Set up Node.js via "Setup Node.js App" (ensures node/npm are on PATH).
-#   2. Add this repo under cPanel → Git Version Control and enable deployment.
-#
-# Current deployment target:
-#   sciencefiction.site → /home/sciencef/public_html/
-#
-# cPanel-provided environment variable used here:
-#   $REPOSITORY_ROOT – absolute path to the checked-out repository
-#                      (resolves to /home/sciencef/repositories/star-rangers)
 
 deployment:
   tasks:
-    # ── 1. Install exact Node.js dependencies ──────────────────────────────
-    - cd $REPOSITORY_ROOT && npm ci
+    # 1) Install deterministic dependencies
+    - cd "$REPOSITORY_ROOT" && npm ci --no-audit --no-fund
 
-    # ── 2. Build the Eleventy site with root-relative URLs ─────────────────
-    # This mirrors the GitHub Pages route structure so generated pages are
-    # deployed as matching static URLs on sciencefiction.site.
-    - cd $REPOSITORY_ROOT && $REPOSITORY_ROOT/node_modules/.bin/eleventy --pathprefix=/
+    # 2) Build Eleventy with root-relative URLs
+    - cd "$REPOSITORY_ROOT" && "$REPOSITORY_ROOT/node_modules/.bin/eleventy" --pathprefix=/
 
-    # ── 3. Sync built files to the sciencefiction.site document root ───────
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
+    # 3) Safety check: build output must exist
+    - test -d "$REPOSITORY_ROOT/_site"
+
+    # 4) Deploy static output to document root
+    # --delete-delay is safer than immediate delete during transfer.
+    - rsync -av --delete-delay "$REPOSITORY_ROOT/_site/" /home/sciencef/public_html/
+
+    # 5) Post-deploy sanity check: index must exist
+    - test -f /home/sciencef/public_html/index.html
