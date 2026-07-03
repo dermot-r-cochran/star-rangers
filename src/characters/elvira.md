@@ -27,6 +27,10 @@ She pays attention to vocabulary. When Galahad uses precise language for the bou
 
 Her identification of a "Court thing" at the causeway is partially correct. She has identified the *method* accurately. She has not yet identified the *nature*. This gap is being exploited.
 
+## Before the Causeway
+
+[Season 1, Episode 0](/star-rangers/seasons/s01/e00/) covers her years as warden-heir of Dún Rí, roughly four years before her arrival at the outpost: her first uncertain attempt at a working of her own, guided by the household sage, and the night her cat chose the garden gate over the terrace and did not come back. It establishes where her self-taught vocabulary began, without resolving what she is.
+
 ## Open Thread
 
 What is Elvira? Her classification is contested within the story. She is clearly a person, clearly capable of fine-grained boundary work, and clearly not human in the standard sense. Her species and origin are live questions. They are not resolved by external insertion — only by story events.
