@@ -45,6 +45,11 @@ jobs:
   #   {"domain":"wp1.example.com","server_dir":"/public_html/wp1/"},
   #   {"domain":"wp2.example.com","server_dir":"/public_html/wp2/"}
   # ]
+  #
+  # The WordPress deployment publishes the Eleventy build as static files.
+  # This mirrors the GitHub Pages route structure on WordPress-hosted
+  # infrastructure, so generated URLs such as /seasons/, /characters/,
+  # /timeline/, /lore/, /glossary/, and /codex/ are served at the same paths.
   deploy-wordpress:
     runs-on: ubuntu-latest
     needs: build
