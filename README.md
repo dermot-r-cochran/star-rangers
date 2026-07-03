@@ -76,7 +76,7 @@ npm run test
 The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root.
 
 1. In your local clone, create `deploy.conf` in the repository root.
-2. Add values for the target cPanel account, optional theme, optional content filtering, and optional deploy-log email address:
+2. Add values for the target cPanel account, optional theme, optional content filtering, and optional deploy-log email:
 
 ```bash
 CPANEL_USER=sciencef
@@ -96,8 +96,8 @@ ADMIN_EMAIL=admin@example.com
   - Excluded pages still build at their normal URL as a minimal "not included in this edition" placeholder, instead of being omitted, so links to them never 404.
   - Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
   - Leaving both unset/empty deploys the full, unfiltered site (the default).
-- `ADMIN_EMAIL` receives an email after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. Defaults to `star.rangers@sciencefiction.site` when not set; set `ADMIN_EMAIL=` (empty) explicitly to disable notifications for a specific clone. This is best-effort only: if no address is configured, no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
-- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, no content filtering, and `ADMIN_EMAIL=star.rangers@sciencefiction.site`.
+- `ADMIN_EMAIL` is optional. If set, an email is sent to it after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. No default is set in the repo (deliberately, so no real address is hardcoded in this public repo) — each clone that wants notifications sets its own `ADMIN_EMAIL` in its own untracked `deploy.conf`. This is best-effort only: if `ADMIN_EMAIL` is unset, or no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
+- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, no content filtering, and no deploy-log email.
 
 ## Creative tooling
 

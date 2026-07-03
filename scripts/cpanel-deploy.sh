@@ -49,7 +49,7 @@ CPANEL_USER="sciencef"
 THEME="default"
 CHARACTERS=""
 TOPICS=""
-ADMIN_EMAIL="star.rangers@sciencefiction.site"
+ADMIN_EMAIL=""
 # shellcheck disable=SC1091
 [ -f "$REPOSITORY_ROOT/deploy.conf" ] && . "$REPOSITORY_ROOT/deploy.conf"
 
