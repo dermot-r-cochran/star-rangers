@@ -3,7 +3,7 @@
 # Reference: https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/
 #
 # This deployment publishes the Eleventy build as static files so each
-# generated GitHub Pages route is also available from each hosted domain
+# generated GitHub Pages route is also available from the main hosted domain
 # at the same URL path.
 #
 # cPanel executes each task as a separate shell command, so environment
@@ -13,24 +13,8 @@
 #   1. Set up Node.js via "Setup Node.js App" (ensures node/npm are on PATH).
 #   2. Add this repo under cPanel → Git Version Control and enable deployment.
 #
-# Deployment model used here:
-#   - Build the site once.
-#   - Deploy the default WordPress-themed build to the main target.
-#   - Reuse the same build for additional destination paths.
-#   - Apply alternate theme CSS before syncing to other target groups.
-#
-# IMPORTANT:
-#   Edit every rsync destination below to match your actual document roots.
-#   The script does not auto-detect domains; each target path must be listed
-#   explicitly.
-#
-# Main target example:
-#   /home/<cpanel-username>/public_html/
-#
-# Additional target examples:
-#   /home/<cpanel-username>/public_html/domain-2/
-#   /home/<cpanel-username>/public_html/domain-3/
-#   /home/<cpanel-username>/public_html/domain-4/
+# Current deployment target:
+#   sciencefiction.site → /home/sciencef/public_html/
 #
 # cPanel-provided environment variable used here:
 #   $REPOSITORY_ROOT – absolute path to the checked-out repository
@@ -43,36 +27,17 @@ deployment:
 
     # ── 2. Build the Eleventy site with root-relative URLs ─────────────────
     # This mirrors the GitHub Pages route structure so generated pages are
-    # deployed as matching static URLs across all target domains.
+    # deployed as matching static URLs on sciencefiction.site.
     - cd $REPOSITORY_ROOT && $REPOSITORY_ROOT/node_modules/.bin/eleventy --pathprefix=/
 
-    # ── 3. Preserve the default built CSS before per-target theme swaps ────
+    # ── 3. Preserve the default built CSS before theme swap ────────────────
     - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css
 
-    # ── 4. Apply the main-site WordPress theme CSS ──────────────────────────
+    # ── 4. Apply the WordPress theme CSS for the main site ─────────────────
     - cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
 
-    # ── 5. Sync built files to the main target ──────────────────────────────
-    # Replace this path with the primary domain's document root.
+    # ── 5. Sync built files to the sciencefiction.site document root ───────
     - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
 
-    # ── 6. Sync the same WordPress-themed build to additional targets ───────
-    # Replace each example path below with one of your other domain roots.
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-2/
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-3/
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-4/
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-5/
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-6/
-
-    # ── 7. Apply the alternate HumHub theme CSS ─────────────────────────────
-    - cp $REPOSITORY_ROOT/src/css/theme-humhub.css $REPOSITORY_ROOT/_site/css/main.css
-
-    # ── 8. Sync the HumHub-themed build to additional targets ───────────────
-    # Replace each example path below with one of your other domain roots.
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/community/
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-8/
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-9/
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-10/
-
-    # ── 9. Restore CSS to neutral base for future builds ────────────────────
+    # ── 6. Restore CSS to neutral base for future builds ───────────────────
     - cp $REPOSITORY_ROOT/_site/css/base.css $REPOSITORY_ROOT/_site/css/main.css
