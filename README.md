@@ -71,6 +71,23 @@ npm run build
 npm run test
 ```
 
+## cPanel deployment config for local clones
+
+The cPanel deployment recipe (`.cpanel.yml`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root.
+
+1. In your local clone, create `deploy.conf` in the repository root.
+2. Add values for the target cPanel account and optional theme:
+
+```bash
+CPANEL_USER=sciencef
+THEME=default
+```
+
+- `CPANEL_USER` controls deployment destination: `/home/<CPANEL_USER>/public_html/`.
+- `THEME=default` keeps `src/css/main.css`.
+- Any other `THEME` value uses `src/css/theme-<THEME>.css` when that file exists; otherwise deployment falls back to `src/css/main.css`.
+- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef` and `THEME=default`.
+
 ## Creative tooling
 
 - Repository-aligned master prompt: [`prompts/star-rangers-universe-engine.md`](./prompts/star-rangers-universe-engine.md)
