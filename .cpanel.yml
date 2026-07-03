@@ -9,14 +9,15 @@
 # $REPOSITORY_ROOT, e.g. for undercover-pets.com (cPanel user "undercov"):
 #
 #   CPANEL_USER=undercov
-#   THEME=humhub
+#   THEME=pets
 #
 # Both are optional. No deploy.conf, or a missing value, falls back to
 # CPANEL_USER=sciencef and THEME=default (the plain build with no CSS swap,
 # deployed to /home/sciencef/public_html/ — today's original behavior).
 #
 # THEME=default uses src/css/main.css as-is. Any other THEME value maps to
-# src/css/theme-$THEME.css, which must already exist in the repo.
+# src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
+# typo'd or not-yet-added theme), it falls back to src/css/main.css.
 #
 # To add a new domain: create a new cPanel repository clone pointed at that
 # domain's account, and drop a deploy.conf with its CPANEL_USER (and THEME,
@@ -42,9 +43,8 @@ deployment:
       THEME=default;
       test -f "$REPOSITORY_ROOT/deploy.conf" && . "$REPOSITORY_ROOT/deploy.conf";
       DEST="/home/$CPANEL_USER/public_html/";
-      if [ "$THEME" = "default" ]; then
-        SRC_CSS="$REPOSITORY_ROOT/src/css/main.css";
-      else
+      SRC_CSS="$REPOSITORY_ROOT/src/css/main.css";
+      if [ "$THEME" != "default" ] && [ -f "$REPOSITORY_ROOT/src/css/theme-$THEME.css" ]; then
         SRC_CSS="$REPOSITORY_ROOT/src/css/theme-$THEME.css";
       fi;
       cp "$SRC_CSS" "$REPOSITORY_ROOT/_site/css/main.css" &&
