@@ -22,4 +22,6 @@ Unlike Court-Fae, Gilded Saints do not appear as threats or predators at all. Th
 
 **Counter:** recognise the closure-prevention pattern. Accept that enough is enough. The absence of suffering is not the abandonment of virtue.
 
+**Example:** A Gilded Saint does not threaten anyone. It presents as a cause too important to abandon and a sacrifice too meaningful to question — sustaining the moral labour of everyone attached to it, indefinitely, because the cause is structured to never quite finish.
+
 See the [Lore article on Predatory Entities](/star-rangers/lore/predatory-entities/) and [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) for full details.

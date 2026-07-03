@@ -24,4 +24,6 @@ Court-Fae do not use force. They operate through passive aggression, indirect su
 
 **Counter:** clarity. Name what you know. Define or discharge the debt. Break the loop.
 
+**Example:** Aldera registers a Court-Fae feeding signature at the Marsh Causeway before Elvira has named what is wrong: an unresolved social debt between two locals, sustained rather than settled, that the Court-Fae has been quietly maintaining for its own benefit.
+
 See also: [Predatory Entities (Lore)](/star-rangers/lore/predatory-entities/) · [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/)

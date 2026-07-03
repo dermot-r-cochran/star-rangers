@@ -19,3 +19,5 @@ They are **sentient material beings — organic or artificial — chosen by Levr
 Canonically, Champion, Hero, and Heros are synonymous terms for the same tier.
 
 Champions have no authority to override higher tiers. Their actions remain bounded by [Concordant](/star-rangers/glossary/concordant/) law. The common interpretation of Champions as "chosen by fate" is a low-context reading of what is, structurally, a constrained selection process.
+
+**Example:** A Levril does not grant a mortal supernatural power to make them a Champion. It recognises constraint literacy and causal relevance already present — the way a recruiter identifies a promising cadet rather than manufactures one. Sustained, competent action under pressure across postings is exactly the kind of pattern a Levril would read as Champion-relevant.

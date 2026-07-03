@@ -16,3 +16,5 @@ tags: [predictive-closure, entropy-horizon, cei]
 The universe does not stop. It continues processing. The difference is that macroscale outcomes have converged into narrow forecast bands: what will happen is broadly knowable in advance, because the structural capacity for deviation has been exhausted.
 
 Threnos-Ω is the primary canonical reference case for this condition.
+
+**Example:** Ask a forecasting model in Threnos-Ω what a given civilization will look like in a thousand years, and the answer arrives within a narrow, high-confidence band — not because the model is unusually good, but because the universe has genuinely run out of ways to surprise it.

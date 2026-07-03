@@ -14,4 +14,4 @@ tags: [instrument-drift, boundary, physical-effects]
 
 This is not a malfunction. The instruments are both accurate for their specific positions. The underlying cause is that local physical conditions — including the local rate of time — differ across the boundary. Each instrument is measuring its immediate environment correctly. The environment itself differs.
 
-At Threshold Station, the two wall chronometers in Dock Seven differ by forty seconds. This discrepancy has been stable for eleven years and cannot be resolved by recalibration: when recalibrated, the discrepancy returns within forty-eight hours. This indicates a stable oscillating boundary condition rather than simple drift.
+**Example:** At Threshold Station, the two wall chronometers in Dock Seven differ by forty seconds. This discrepancy has been stable for eleven years and cannot be resolved by recalibration: when recalibrated, the discrepancy returns within forty-eight hours. This indicates a stable oscillating boundary condition rather than simple drift.

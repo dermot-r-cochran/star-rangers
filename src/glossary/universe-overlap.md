@@ -17,3 +17,5 @@ tags: [universe-overlap, concordant, boundary, physics]
 During overlap, measurable interaction across the shared boundary becomes possible while distinct local rule sets are preserved on each side. The Concordants do not merge — their respective constraints remain in effect — but their edge conditions interact.
 
 Overlap is lawful geometry behaviour. It is not magical convergence.
+
+**Example:** During an overlap window at a boundary zone, instruments on each side can briefly detect activity from the other Concordant — a ship's transponder, a light source — without either side's physical constants shifting to match the other. When the window closes, the interaction stops; neither Concordant was altered by it.

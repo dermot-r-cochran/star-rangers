@@ -17,3 +17,5 @@ tags: [ftl, quantum, harmonic, transit]
 Transit occurs by phase-locking to an admissible harmonic corridor and exiting through [Concordant](/star-rangers/glossary/concordant/) re-synchronisation. The corridor must be pre-admissible — not every harmonic path is lawful, and channel lock failure results in a lawful abort or forced drop-out rather than uncontrolled transit.
 
 It is a physics channel, not a magical pathway.
+
+**Example:** A vessel attempting transit finds its target corridor is not pre-admissible — the phase lock fails to resolve. The channel does not tear open anyway; it forces a lawful abort, dropping the vessel back to its point of origin rather than permitting an uncontrolled jump.

@@ -17,3 +17,5 @@ A **Concordant** (pronounced: **KON-kor-dant**) is a bounded region of reality w
 Concordants are produced under Worldwright authority in primary universes and maintained through higher-tier continuity governance. The plural form in canonical usage is **Concordance**.
 
 Adjacent Concordants can meet at boundary zones while retaining distinct local rule sets. The difference between neighbouring Concordants is what makes boundary zones measurable and instrumentally distinctive.
+
+**Example:** Threshold Station sits at the meeting point of two Concordants. Standard time, gravity, and instrument calibration hold reliably within each — but neither set of readings is "correct" for the other side. The station's operating protocols exist specifically to manage the fact that two internally consistent rule sets meet at its physical location.

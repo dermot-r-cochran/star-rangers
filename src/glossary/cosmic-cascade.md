@@ -24,4 +24,6 @@ The full hierarchy is:
 
 No tier can override a higher tier. No moral authority is encoded in the hierarchy. Champions are sentient material beings — organic or artificial — chosen by Levrils.
 
+**Example:** A Worldwright can establish a new Concordant; a Telearch operating within that Concordant cannot un-establish it, no matter how disruptive it proves. Causality in the Cascade runs one direction only — down, never up.
+
 See the [Lore article on the Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) for full tier-by-tier definitions.

@@ -16,3 +16,5 @@ tags: [hyperomnium, cascade, cosmology]
 It is an origin-level constraint condition — the structural ceiling from which all lower tiers ultimately derive their authority. It is not a character, a will, or a moral position.
 
 Hyperomnium does not communicate with time-bound entities. It is only inferable through downstream invariants: the patterns that remain consistent across all Concordants, regardless of local variation.
+
+**Example:** No account exists of Hyperomnium acting, speaking, or intervening anywhere. What every Concordant shares — regardless of how different their local physics or Etheric conditions are — is treated as the closest thing to observable evidence of Hyperomnium's constraint.
