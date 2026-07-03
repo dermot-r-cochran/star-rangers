@@ -3,8 +3,8 @@
 # Reference: https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/
 #
 # This deployment publishes the Eleventy build as static files so each
-# generated GitHub Pages route is also available from the WordPress-hosted
-# site at the same URL path.
+# generated GitHub Pages route is also available from each hosted domain
+# at the same URL path.
 #
 # cPanel executes each task as a separate shell command, so environment
 # variables do NOT persist between tasks. All paths are inlined below.
@@ -13,10 +13,24 @@
 #   1. Set up Node.js via "Setup Node.js App" (ensures node/npm are on PATH).
 #   2. Add this repo under cPanel → Git Version Control and enable deployment.
 #
-# Before deploying, edit the destination path in task 4 to match the
-# directory where WordPress is installed on your server.
-# Typical layout: /home/<cpanel-username>/public_html/
-# Example sub-directory: /home/<cpanel-username>/public_html/star-rangers/
+# Deployment model used here:
+#   - Build the site once.
+#   - Deploy the default WordPress-themed build to the main target.
+#   - Reuse the same build for additional destination paths.
+#   - Apply alternate theme CSS before syncing to other target groups.
+#
+# IMPORTANT:
+#   Edit every rsync destination below to match your actual document roots.
+#   The script does not auto-detect domains; each target path must be listed
+#   explicitly.
+#
+# Main target example:
+#   /home/<cpanel-username>/public_html/
+#
+# Additional target examples:
+#   /home/<cpanel-username>/public_html/domain-2/
+#   /home/<cpanel-username>/public_html/domain-3/
+#   /home/<cpanel-username>/public_html/domain-4/
 #
 # cPanel-provided environment variable used here:
 #   $REPOSITORY_ROOT – absolute path to the checked-out repository
@@ -28,27 +42,37 @@ deployment:
     - cd $REPOSITORY_ROOT && npm ci
 
     # ── 2. Build the Eleventy site with root-relative URLs ─────────────────
-    # This makes the WordPress-hosted site mirror the GitHub Pages route
-    # structure so each generated page is deployed as a matching static URL.
+    # This mirrors the GitHub Pages route structure so generated pages are
+    # deployed as matching static URLs across all target domains.
     - cd $REPOSITORY_ROOT && $REPOSITORY_ROOT/node_modules/.bin/eleventy --pathprefix=/
 
-    # ── 3. Apply the WordPress theme CSS to the built site ─────────────────
-    - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css && cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
+    # ── 3. Preserve the default built CSS before per-target theme swaps ────
+    - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css
 
-    # ── 4. Sync built files to the WordPress web root ──────────────────────
-    # Every file in _site is copied to public_html, so pages such as
-    # /seasons/, /characters/, /timeline/, /lore/, /glossary/, and /codex/
-    # are served from WordPress hosting as static pages.
+    # ── 4. Apply the main-site WordPress theme CSS ──────────────────────────
+    - cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
+
+    # ── 5. Sync built files to the main target ──────────────────────────────
+    # Replace this path with the primary domain's document root.
     - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
 
-    # ── 5. Apply the HumHub theme CSS ──────────────────────────────────────
+    # ── 6. Sync the same WordPress-themed build to additional targets ───────
+    # Replace each example path below with one of your other domain roots.
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-2/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-3/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-4/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-5/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-6/
+
+    # ── 7. Apply the alternate HumHub theme CSS ─────────────────────────────
     - cp $REPOSITORY_ROOT/src/css/theme-humhub.css $REPOSITORY_ROOT/_site/css/main.css
 
-    # ── 6. Sync built files to HumHub public_html ──────────────────────────
-    # Before deploying, edit the destination path below to match the
-    # directory where HumHub is installed on your server.
-    # Example: /home/<cpanel-username>/public_html/community/
+    # ── 8. Sync the HumHub-themed build to additional targets ───────────────
+    # Replace each example path below with one of your other domain roots.
     - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/community/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-8/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-9/
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/domain-10/
 
-    # ── 7. Restore CSS to neutral base for future builds ───────────────────
+    # ── 9. Restore CSS to neutral base for future builds ────────────────────
     - cp $REPOSITORY_ROOT/_site/css/base.css $REPOSITORY_ROOT/_site/css/main.css
