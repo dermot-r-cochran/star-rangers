@@ -30,14 +30,5 @@ deployment:
     # deployed as matching static URLs on sciencefiction.site.
     - cd $REPOSITORY_ROOT && $REPOSITORY_ROOT/node_modules/.bin/eleventy --pathprefix=/
 
-    # ── 3. Preserve the default built CSS before theme swap ────────────────
-    - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css
-
-    # ── 4. Apply the WordPress theme CSS for the main site ─────────────────
-    - cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
-
-    # ── 5. Sync built files to the sciencefiction.site document root ───────
+    # ── 3. Sync built files to the sciencefiction.site document root ───────
     - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
-
-    # ── 6. Restore CSS to neutral base for future builds ───────────────────
-    - cp $REPOSITORY_ROOT/_site/css/base.css $REPOSITORY_ROOT/_site/css/main.css
