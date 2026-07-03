@@ -76,17 +76,26 @@ npm run test
 The cPanel deployment recipe (`.cpanel.yml`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root.
 
 1. In your local clone, create `deploy.conf` in the repository root.
-2. Add values for the target cPanel account and optional theme:
+2. Add values for the target cPanel account, optional theme, and optional content filtering:
 
 ```bash
 CPANEL_USER=sciencef
 THEME=default
+CHARACTERS=aldera,elvira
+TOPICS=boundary,detective-agency
 ```
 
 - `CPANEL_USER` controls deployment destination: `/home/<CPANEL_USER>/public_html/`.
 - `THEME=default` keeps `src/css/main.css`.
 - Any other `THEME` value uses `src/css/theme-<THEME>.css` when that file exists; otherwise deployment falls back to `src/css/main.css`.
-- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef` and `THEME=default`.
+- `CHARACTERS` and `TOPICS` are optional, comma-separated, case-insensitive lists that narrow the deployed site to content related to the listed characters and/or topics:
+  - `CHARACTERS` matches character page `id`s and chapter POV character `id`s.
+  - `TOPICS` matches page `tags` (and `category`, where present), across every content type including character pages.
+  - `CHARACTERS` also participates in tag matching, since tags conventionally embed character slugs (e.g. a timeline entry tagged `aldera`).
+  - Excluded pages still build at their normal URL as a minimal "not included in this edition" placeholder, instead of being omitted, so links to them never 404.
+  - Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
+  - Leaving both unset/empty deploys the full, unfiltered site (the default).
+- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, and no content filtering.
 
 ## Creative tooling
 

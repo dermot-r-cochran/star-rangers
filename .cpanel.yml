@@ -10,14 +10,37 @@
 #
 #   CPANEL_USER=undercov
 #   THEME=pets
+#   CHARACTERS=aldera,elvira
+#   TOPICS=boundary,detective-agency
 #
-# Both are optional. No deploy.conf, or a missing value, falls back to
+# All are optional. No deploy.conf, or a missing value, falls back to
 # CPANEL_USER=sciencef and THEME=default (the plain build with no CSS swap,
-# deployed to /home/sciencef/public_html/ — today's original behavior).
+# deployed to /home/sciencef/public_html/ — today's original behavior) and
+# no content filtering (the full site).
 #
 # THEME=default uses src/css/main.css as-is. Any other THEME value maps to
 # src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
 # typo'd or not-yet-added theme), it falls back to src/css/main.css.
+#
+# CHARACTERS and TOPICS are comma-separated, case-insensitive lists that
+# narrow the deployed site to content related to the listed characters
+# and/or topics:
+#   - CHARACTERS matches a character page's `id` frontmatter, and a
+#     chapter's `povs[].id` list.
+#   - TOPICS matches a page's `tags` (and `category`, where present)
+#     frontmatter, across every content type including character pages.
+#   - CHARACTERS also participates in tag matching (tags conventionally
+#     embed character slugs, e.g. a timeline entry tagged "aldera"), so a
+#     page is included if it matches CHARACTERS or TOPICS by any of the
+#     above.
+#   - Excluded pages still build at their normal URL — as a minimal
+#     "not included in this edition" placeholder — instead of being
+#     omitted, so links to them never 404.
+#   - Section index/listing pages (Characters, Lore, Codex, Glossary,
+#     Timeline, Seasons/Episodes) and other structural pages always build
+#     normally, just listing fewer items.
+# Leaving both unset/empty (the default, and always true for the GitHub
+# Pages build) deploys the full, unfiltered site.
 #
 # To add a new domain: create a new cPanel repository clone pointed at that
 # domain's account, and drop a deploy.conf with its CPANEL_USER (and THEME,
@@ -43,8 +66,19 @@ deployment:
     #    feature, which isn't available/working on every account.
     - cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh && npm ci --no-audit --no-fund
 
-    # 2) Build Eleventy
-    - cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh && "$REPOSITORY_ROOT/node_modules/.bin/eleventy"
+    # 2) Build Eleventy. Source this clone's deploy.conf here (if present)
+    #    and export CHARACTERS/TOPICS before invoking eleventy - each
+    #    .cpanel.yml task is a separate shell, so vars exported in one task
+    #    do NOT persist to the next (task 5 re-sources deploy.conf itself
+    #    for the same reason). CHARACTERS/TOPICS optionally restrict the
+    #    built site to related characters/topics; see header comment.
+    - >
+      cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh &&
+      CHARACTERS="";
+      TOPICS="";
+      test -f "$REPOSITORY_ROOT/deploy.conf" && . "$REPOSITORY_ROOT/deploy.conf";
+      export CHARACTERS TOPICS;
+      "$REPOSITORY_ROOT/node_modules/.bin/eleventy"
 
     # 3) Safety check: build output must exist
     - test -d "$REPOSITORY_ROOT/_site"
