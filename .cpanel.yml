@@ -30,7 +30,7 @@ deployment:
     - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css && cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
 
     # ── 4. Sync built files to WordPress public_html ───────────────────────
-    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
+    - rsync -av $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
 
     # ── 5. Apply the HumHub theme CSS ──────────────────────────────────────
     - cp $REPOSITORY_ROOT/src/css/theme-humhub.css $REPOSITORY_ROOT/_site/css/main.css
