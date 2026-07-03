@@ -23,6 +23,17 @@
 # domain's account, and drop a deploy.conf with its CPANEL_USER (and THEME,
 # if not default) into it. No edits to this file are needed unless the
 # domain needs a brand-new theme stylesheet (add src/css/theme-<name>.css).
+#
+# NOTE on absolute paths: src/_includes/base.njk hardcodes every internal
+# link/asset reference (CSS, JS, nav, home link, license link) with a literal
+# "/star-rangers/" prefix, matching this project's GitHub Pages URL
+# (dermot-r-cochran.github.io/star-rangers/). Those are plain strings, not
+# run through Eleventy's `url` filter, so no Eleventy pathPrefix flag can
+# change them - an earlier version of this file passed `--pathprefix=/` here
+# under that assumption, but it was a no-op (and Eleventy's default
+# pathPrefix is already "/" anyway). Since cPanel deploys serve each domain
+# from its root (not a "/star-rangers/" subpath), task 4 below rewrites that
+# hardcoded prefix out of the built output before it's rsynced out.
 
 deployment:
   tasks:
@@ -32,13 +43,19 @@ deployment:
     #    feature, which isn't available/working on every account.
     - cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh && npm ci --no-audit --no-fund
 
-    # 2) Build Eleventy with root-relative URLs
-    - cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh && "$REPOSITORY_ROOT/node_modules/.bin/eleventy" --pathprefix=/
+    # 2) Build Eleventy
+    - cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh && "$REPOSITORY_ROOT/node_modules/.bin/eleventy"
 
     # 3) Safety check: build output must exist
     - test -d "$REPOSITORY_ROOT/_site"
 
-    # 4) Pick this clone's account + theme, apply the theme CSS, deploy, and
+    # 4) Rewrite the GitHub-Pages-only "/star-rangers/" prefix (hardcoded in
+    #    src/_includes/base.njk) to root-relative "/" across the built
+    #    output, since cPanel domains are served from their own root, not
+    #    from a "/star-rangers/" subpath. See the NOTE above.
+    - find "$REPOSITORY_ROOT/_site" -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) -exec sed -i 's#/star-rangers/#/#g' {} +
+
+    # 5) Pick this clone's account + theme, apply the theme CSS, deploy, and
     #    verify. --delete-delay is safer than immediate delete during
     #    transfer.
     - >
