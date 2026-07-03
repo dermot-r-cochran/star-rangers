@@ -17,7 +17,8 @@
 # All are optional. No deploy.conf, or a missing value, falls back to
 # CPANEL_USER=sciencef and THEME=default (the plain build with no CSS swap,
 # deployed to /home/sciencef/public_html/ — today's original behavior), no
-# content filtering (the full site), and no deployment-log email.
+# content filtering (the full site), and ADMIN_EMAIL defaulting to
+# star.rangers@sciencefiction.site (see below to change or disable it).
 #
 # THEME=default uses src/css/main.css as-is. Any other THEME value maps to
 # src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
@@ -43,14 +44,17 @@
 # Leaving both unset/empty (the default, and always true for the GitHub
 # Pages build) deploys the full, unfiltered site.
 #
-# ADMIN_EMAIL, if set, receives one email per deployment attempt — success
-# or failure — with the full captured build+deploy log as the body and a
+# ADMIN_EMAIL receives one email per deployment attempt — success or
+# failure — with the full captured build+deploy log as the body and a
 # SUCCESS/FAILURE subject line (plus CPANEL_USER and a timestamp, since
 # every clone shares this same .cpanel.yml). Sent via local `mail`(1),
 # falling back to /usr/sbin/sendmail directly if `mail` isn't installed.
-# This is strictly best-effort observability: if ADMIN_EMAIL is unset, or
-# neither mail command is available, or the send itself fails, the deploy's
-# own success/failure is completely unaffected — see scripts/cpanel-deploy.sh.
+# Defaults to star.rangers@sciencefiction.site when not set in deploy.conf;
+# set ADMIN_EMAIL= (empty) explicitly in a clone's deploy.conf to disable
+# notifications for that clone. This is strictly best-effort observability:
+# if no address is configured, or neither mail command is available, or the
+# send itself fails, the deploy's own success/failure is completely
+# unaffected — see scripts/cpanel-deploy.sh.
 #
 # To add a new domain: create a new cPanel repository clone pointed at that
 # domain's account, and drop a deploy.conf with its CPANEL_USER (and THEME,
