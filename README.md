@@ -73,16 +73,17 @@ npm run test
 
 ## cPanel deployment config for local clones
 
-The cPanel deployment recipe (`.cpanel.yml`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root.
+The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root.
 
 1. In your local clone, create `deploy.conf` in the repository root.
-2. Add values for the target cPanel account, optional theme, and optional content filtering:
+2. Add values for the target cPanel account, optional theme, optional content filtering, and optional deploy-log email:
 
 ```bash
 CPANEL_USER=sciencef
 THEME=default
 CHARACTERS=aldera,elvira
 TOPICS=boundary,detective-agency
+ADMIN_EMAIL=admin@example.com
 ```
 
 - `CPANEL_USER` controls deployment destination: `/home/<CPANEL_USER>/public_html/`.
@@ -95,7 +96,8 @@ TOPICS=boundary,detective-agency
   - Excluded pages still build at their normal URL as a minimal "not included in this edition" placeholder, instead of being omitted, so links to them never 404.
   - Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
   - Leaving both unset/empty deploys the full, unfiltered site (the default).
-- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, and no content filtering.
+- `ADMIN_EMAIL` is optional. If set, an email is sent to it after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. This is best-effort only: if `ADMIN_EMAIL` is unset, or no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
+- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, no content filtering, and no deploy-log email.
 
 ## Creative tooling
 
