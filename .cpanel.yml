@@ -2,6 +2,10 @@
 # cPanel Git Version Control deployment configuration.
 # Reference: https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/
 #
+# This deployment publishes the Eleventy build as static files so each
+# generated GitHub Pages route is also available from the WordPress-hosted
+# site at the same URL path.
+#
 # cPanel executes each task as a separate shell command, so environment
 # variables do NOT persist between tasks. All paths are inlined below.
 #
@@ -23,14 +27,19 @@ deployment:
     # ── 1. Install exact Node.js dependencies ──────────────────────────────
     - cd $REPOSITORY_ROOT && npm ci
 
-    # ── 2. Build the Eleventy site (root path prefix for WordPress) ─────────
+    # ── 2. Build the Eleventy site with root-relative URLs ─────────────────
+    # This makes the WordPress-hosted site mirror the GitHub Pages route
+    # structure so each generated page is deployed as a matching static URL.
     - cd $REPOSITORY_ROOT && $REPOSITORY_ROOT/node_modules/.bin/eleventy --pathprefix=/
 
-    # ── 3. Apply the WordPress theme CSS ───────────────────────────────────
+    # ── 3. Apply the WordPress theme CSS to the built site ─────────────────
     - cp $REPOSITORY_ROOT/_site/css/main.css $REPOSITORY_ROOT/_site/css/base.css && cp $REPOSITORY_ROOT/src/css/theme-wordpress.css $REPOSITORY_ROOT/_site/css/main.css
 
-    # ── 4. Sync built files to WordPress public_html ───────────────────────
-    - rsync -av $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
+    # ── 4. Sync built files to the WordPress web root ──────────────────────
+    # Every file in _site is copied to public_html, so pages such as
+    # /seasons/, /characters/, /timeline/, /lore/, /glossary/, and /codex/
+    # are served from WordPress hosting as static pages.
+    - rsync -av --delete $REPOSITORY_ROOT/_site/ /home/sciencef/public_html/
 
     # ── 5. Apply the HumHub theme CSS ──────────────────────────────────────
     - cp $REPOSITORY_ROOT/src/css/theme-humhub.css $REPOSITORY_ROOT/_site/css/main.css
