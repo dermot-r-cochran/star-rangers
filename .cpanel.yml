@@ -12,11 +12,12 @@
 #   THEME=pets
 #   CHARACTERS=aldera,elvira
 #   TOPICS=boundary,detective-agency
+#   ADMIN_EMAIL=admin@example.com
 #
 # All are optional. No deploy.conf, or a missing value, falls back to
 # CPANEL_USER=sciencef and THEME=default (the plain build with no CSS swap,
-# deployed to /home/sciencef/public_html/ — today's original behavior) and
-# no content filtering (the full site).
+# deployed to /home/sciencef/public_html/ — today's original behavior), no
+# content filtering (the full site), and no deployment-log email.
 #
 # THEME=default uses src/css/main.css as-is. Any other THEME value maps to
 # src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
@@ -42,10 +43,23 @@
 # Leaving both unset/empty (the default, and always true for the GitHub
 # Pages build) deploys the full, unfiltered site.
 #
+# ADMIN_EMAIL, if set, receives one email per deployment attempt — success
+# or failure — with the full captured build+deploy log as the body and a
+# SUCCESS/FAILURE subject line (plus CPANEL_USER and a timestamp, since
+# every clone shares this same .cpanel.yml). Sent via local `mail`(1),
+# falling back to /usr/sbin/sendmail directly if `mail` isn't installed.
+# No default is set here deliberately, so no real address is hardcoded in
+# this public repo — each clone that wants notifications sets its own
+# ADMIN_EMAIL in its untracked deploy.conf. This is strictly best-effort
+# observability: if ADMIN_EMAIL is unset, or neither mail command is
+# available, or the send itself fails, the deploy's own success/failure is
+# completely unaffected — see scripts/cpanel-deploy.sh.
+#
 # To add a new domain: create a new cPanel repository clone pointed at that
 # domain's account, and drop a deploy.conf with its CPANEL_USER (and THEME,
-# if not default) into it. No edits to this file are needed unless the
-# domain needs a brand-new theme stylesheet (add src/css/theme-<name>.css).
+# ADMIN_EMAIL, etc., if needed) into it. No edits to this file are needed
+# unless the domain needs a brand-new theme stylesheet (add
+# src/css/theme-<name>.css).
 #
 # NOTE on absolute paths: src/_includes/base.njk hardcodes every internal
 # link/asset reference (CSS, JS, nav, home link, license link) with a literal
@@ -55,52 +69,29 @@
 # change them - an earlier version of this file passed `--pathprefix=/` here
 # under that assumption, but it was a no-op (and Eleventy's default
 # pathPrefix is already "/" anyway). Since cPanel deploys serve each domain
-# from its root (not a "/star-rangers/" subpath), task 4 below rewrites that
-# hardcoded prefix out of the built output before it's rsynced out.
+# from its root (not a "/star-rangers/" subpath), scripts/cpanel-deploy.sh
+# rewrites that hardcoded prefix out of the built output before it's
+# rsynced out.
+#
+# NOTE on single-task structure: cPanel aborts every remaining task in this
+# list the instant one exits non-zero. A multi-task list (as this file used
+# to be) therefore can't guarantee any "always run this at the end"
+# behavior — a failure partway through the build would just stop silently,
+# leaving only cPanel's own UI log as a record. Deployment logic is
+# consolidated into a single task invoking scripts/cpanel-deploy.sh so that
+# script can use its own internal control flow (see its header comment) to
+# guarantee the ADMIN_EMAIL notification above still fires on any failure,
+# at any step, not just on full success.
 
 deployment:
   tasks:
-    # 1) Install deterministic dependencies. scripts/ensure-node.sh downloads a
-    #    local Node.js runtime on first run (cached under $HOME, outside the
-    #    repo) rather than depending on cPanel's "Setup Node.js App" UI
-    #    feature, which isn't available/working on every account.
-    - cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh && npm ci --no-audit --no-fund
-
-    # 2) Build Eleventy. Source this clone's deploy.conf here (if present)
-    #    and export CHARACTERS/TOPICS before invoking eleventy - each
-    #    .cpanel.yml task is a separate shell, so vars exported in one task
-    #    do NOT persist to the next (task 5 re-sources deploy.conf itself
-    #    for the same reason). CHARACTERS/TOPICS optionally restrict the
-    #    built site to related characters/topics; see header comment.
-    - >
-      cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh &&
-      CHARACTERS="";
-      TOPICS="";
-      test -f "$REPOSITORY_ROOT/deploy.conf" && . "$REPOSITORY_ROOT/deploy.conf";
-      export CHARACTERS TOPICS;
-      "$REPOSITORY_ROOT/node_modules/.bin/eleventy"
-
-    # 3) Safety check: build output must exist
-    - test -d "$REPOSITORY_ROOT/_site"
-
-    # 4) Rewrite the GitHub-Pages-only "/star-rangers/" prefix (hardcoded in
-    #    src/_includes/base.njk) to root-relative "/" across the built
-    #    output, since cPanel domains are served from their own root, not
-    #    from a "/star-rangers/" subpath. See the NOTE above.
-    - find "$REPOSITORY_ROOT/_site" -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) -exec sed -i 's#/star-rangers/#/#g' {} +
-
-    # 5) Pick this clone's account + theme, apply the theme CSS, deploy, and
-    #    verify. --delete-delay is safer than immediate delete during
-    #    transfer.
-    - >
-      CPANEL_USER=sciencef;
-      THEME=default;
-      test -f "$REPOSITORY_ROOT/deploy.conf" && . "$REPOSITORY_ROOT/deploy.conf";
-      DEST="/home/$CPANEL_USER/public_html/";
-      SRC_CSS="$REPOSITORY_ROOT/src/css/main.css";
-      if [ "$THEME" != "default" ] && [ -f "$REPOSITORY_ROOT/src/css/theme-$THEME.css" ]; then
-        SRC_CSS="$REPOSITORY_ROOT/src/css/theme-$THEME.css";
-      fi;
-      cp "$SRC_CSS" "$REPOSITORY_ROOT/_site/css/main.css" &&
-      rsync -av --delete-delay "$REPOSITORY_ROOT/_site/" "$DEST" &&
-      test -f "${DEST}index.html"
+    # Runs the full build+deploy sequence (ensure-node, npm ci, eleventy
+    # build w/ CHARACTERS/TOPICS, _site sanity check, /star-rangers/ prefix
+    # rewrite, theme selection + rsync deploy + verification) and, always,
+    # the ADMIN_EMAIL notification - see scripts/cpanel-deploy.sh for the
+    # full sequence and comments. Invoked via an explicit `bash` interpreter
+    # (not `sh`, and not relying on the executable bit) because the script
+    # uses bash-only features (${PIPESTATUS[0]}) to make full-log capture +
+    # live cPanel UI output + accurate exit-code detection reliable - see
+    # that script's header comment for the tradeoff discussion.
+    - cd "$REPOSITORY_ROOT" && bash "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh"
