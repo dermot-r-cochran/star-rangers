@@ -1,6 +1,28 @@
 ---
 # cPanel Git Version Control deployment configuration.
 # Reference: https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/
+#
+# This same file is shared by every cPanel repository clone (one clone per
+# target domain, each pulling this same branch). Since git content is
+# identical across clones, per-domain behavior is selected via a small
+# untracked "deploy.conf" file placed manually in each clone's
+# $REPOSITORY_ROOT, e.g. for undercover-pets.com (cPanel user "undercov"):
+#
+#   CPANEL_USER=undercov
+#   THEME=pets
+#
+# Both are optional. No deploy.conf, or a missing value, falls back to
+# CPANEL_USER=sciencef and THEME=default (the plain build with no CSS swap,
+# deployed to /home/sciencef/public_html/ — today's original behavior).
+#
+# THEME=default uses src/css/main.css as-is. Any other THEME value maps to
+# src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
+# typo'd or not-yet-added theme), it falls back to src/css/main.css.
+#
+# To add a new domain: create a new cPanel repository clone pointed at that
+# domain's account, and drop a deploy.conf with its CPANEL_USER (and THEME,
+# if not default) into it. No edits to this file are needed unless the
+# domain needs a brand-new theme stylesheet (add src/css/theme-<name>.css).
 
 deployment:
   tasks:
@@ -13,9 +35,18 @@ deployment:
     # 3) Safety check: build output must exist
     - test -d "$REPOSITORY_ROOT/_site"
 
-    # 4) Deploy static output to document root
-    # --delete-delay is safer than immediate delete during transfer.
-    - rsync -av --delete-delay "$REPOSITORY_ROOT/_site/" /home/sciencef/public_html/
-
-    # 5) Post-deploy sanity check: index must exist
-    - test -f /home/sciencef/public_html/index.html
+    # 4) Pick this clone's account + theme, apply the theme CSS, deploy, and
+    #    verify. --delete-delay is safer than immediate delete during
+    #    transfer.
+    - >
+      CPANEL_USER=sciencef;
+      THEME=default;
+      test -f "$REPOSITORY_ROOT/deploy.conf" && . "$REPOSITORY_ROOT/deploy.conf";
+      DEST="/home/$CPANEL_USER/public_html/";
+      SRC_CSS="$REPOSITORY_ROOT/src/css/main.css";
+      if [ "$THEME" != "default" ] && [ -f "$REPOSITORY_ROOT/src/css/theme-$THEME.css" ]; then
+        SRC_CSS="$REPOSITORY_ROOT/src/css/theme-$THEME.css";
+      fi;
+      cp "$SRC_CSS" "$REPOSITORY_ROOT/_site/css/main.css" &&
+      rsync -av --delete-delay "$REPOSITORY_ROOT/_site/" "$DEST" &&
+      test -f "${DEST}index.html"
