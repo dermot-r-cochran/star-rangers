@@ -17,3 +17,5 @@ tags: [auc, economics, computation, novelty]
 Both humans and AIs receive AUC compensation for validated novelty contribution: work that demonstrably increases creative entropy throughput earns credit. Work that recombines or repeats without generating genuine novelty does not.
 
 As the Creative Entropy Index declines toward the entropy horizon, new AUC issuance contracts accordingly. A universe approaching creative closure generates less allocation capacity, and the scarcity becomes structural rather than administrative.
+
+**Example:** A Survey Corps analyst who files a report describing a genuinely new instrument-drift pattern earns AUC for the contribution. An analyst who resubmits the same pattern with different phrasing earns none — the ledger recognises novelty, not disguised repetition.

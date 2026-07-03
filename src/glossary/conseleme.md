@@ -21,3 +21,5 @@ The legacy name for this tier is *Grand Demiurge*. In all current canon, Consele
 - No direct dialogue with time-bound entities.
 - No selective intervention.
 - Only inferable through invariants that persist across all [Concordants](/star-rangers/glossary/concordant/).
+
+**Example:** No record exists of Conseleme addressing a crisis, negotiating with a Worldwright, or expressing intent. What can be inferred is only the invariant: every Concordant, regardless of local physical law, obeys the same handful of nonlocal constraints. That silent consistency — never a message, always a pattern — is the only evidence Conseleme leaves.

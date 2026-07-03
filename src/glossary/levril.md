@@ -25,4 +25,6 @@ Levrils **select Champions** from sentient material beings — organic or artifi
 
 Levrils may also choose to mentor mortals in [constraint literacy](/star-rangers/glossary/constraint-literacy/). This is the closest thing to "teaching magic" that occurs in the Star Rangers universe, and it is emphatically not magic.
 
+**Example:** A Levril does not need to test a candidate directly to select them as a Champion. Observing sustained, competent action under constraint — the kind of pattern a seasoned survey team lead displays across repeated boundary-station postings — is itself sufficient evidence of the causal relevance a Levril looks for.
+
 See the [Lore article on Levrils](/star-rangers/lore/levrils/) and [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) for full details.

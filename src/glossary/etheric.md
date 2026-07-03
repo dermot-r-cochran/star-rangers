@@ -25,4 +25,6 @@ Its mechanism is structural: archetypal templates constrain physical and materia
 - Archetypal interference events during high-coherence stress.
 - Boundary zones produce Etheric divergence as well as physical divergence.
 
+**Example:** Elvira's boundary work applies the Etheric layer directly: chalk lines and threaded knots do nothing on their own, but they mark and stabilise Etheric templates already present, letting a physical structure hold a shape the underlying pattern would otherwise let drift.
+
 See the [Lore article on the Five Layers](/star-rangers/lore/five-layers/) for the full ontological framework.

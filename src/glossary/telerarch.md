@@ -22,3 +22,5 @@ The legacy designation for this tier is **High Celestials**. In all current cano
 - Telearchs do not bypass Concordant law.
 - Telearchs must preserve continuity over local preference outcomes.
 - Telearchs cannot revise the hierarchy order.
+
+**Example:** When a boundary-zone anomaly begins affecting three adjacent Concordants at once, coordinating the Celestial response across all three is Telearch work — allocating enforcement scope and continuity budget across a scale no single Concordant's Celestials could manage alone.

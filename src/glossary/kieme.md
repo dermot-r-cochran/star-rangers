@@ -21,3 +21,5 @@ The legacy name for this tier is *Holy Triumvirate*. In all current canon, Kieme
 - No direct dialogue with time-bound entities.
 - No selective intervention at the Material layer.
 - Only inferable through invariants that persist across all [Concordants](/star-rangers/glossary/concordant/).
+
+**Example:** The prohibition against selective intervention at the Material layer is not enforced by any visible authority — no Kieme representative appears to stop it. Its constraint is inferred entirely from the fact that no confirmed instance of such intervention has ever been documented, across any Concordant.

@@ -19,4 +19,6 @@ Boundary zones are not acutely hazardous to life, but extended exposure has docu
 
 The Survey Corps, an operational branch of the Star Rangers, maintains monitoring posts at boundary zones. Threshold Station is one such post.
 
+**Example:** The Marsh Causeway outpost sits directly on a boundary zone. Elvira's chalk-and-thread instruments there behave predictably within known tolerances, then drift in ways that match no equipment fault once conditions shift. Aldera, the cyber-enhanced field unit stationed nearby, registers the same zone as a persistent wrongness in air pressure and reed vibration long before any instrument confirms it.
+
 See also: [Concordant](/star-rangers/glossary/concordant/), [Instrument Drift](/star-rangers/glossary/instrument-drift/).

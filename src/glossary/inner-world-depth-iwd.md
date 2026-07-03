@@ -15,3 +15,5 @@ tags: [iwd, noogenic, seed-minds]
 **Inner World Depth (IWD)** measures the depth and structure of a mind's internal architecture — including recursive self-modelling, layered intention, and paradox-bearing coherence.
 
 Higher IWD generally supports higher Noögenic Seed Potential: a mind with richer interior complexity is more likely to survive compression into seed form while preserving its generative structure.
+
+**Example:** Two minds of comparable intelligence can score very differently on IWD. One holds a single coherent self-model and discards contradiction on contact; the other maintains several nested models of itself at once and can sit with an unresolved paradox without collapsing it. The second is the higher-IWD mind, and the more promising Noöseed candidate.

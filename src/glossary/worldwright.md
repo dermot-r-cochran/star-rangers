@@ -19,3 +19,5 @@ Worldwright authority is bounded: it exists only in primary universes. Secondary
 Key constraints:
 - Adjacent [Concordants](/star-rangers/glossary/concordant/) can differ; the boundary zones between them cannot be made globally uniform by Material-layer technology.
 - Worldwright does not override the upper-structure tiers: Hyperomnium, Kieme, and Conseleme.
+
+**Example:** A Worldwright establishing a new Concordant cannot guarantee it will match its neighbours' physical constants — and does not try to. The boundary zone that results where the two meet is an accepted cost of primary-universe creation, not a defect to be engineered away.

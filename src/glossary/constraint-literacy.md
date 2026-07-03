@@ -18,3 +18,5 @@ It is not magic. It does not allow a practitioner to override physical laws or [
 Levrils occasionally mentor mortals in constraint literacy, though their teaching is typically indirect. The curriculum is defined by the student's current situation, not by any formal syllabus.
 
 Elvira's boundary practice is a self-taught approximation. She has developed the vocabulary and the observational methods, but without the deeper Etheric literacy that would allow her to predict rather than react.
+
+**Example:** A Levril-trained practitioner can sense that a proposed action will be rejected by the local Etheric structure before attempting it. Elvira, working from self-taught observation rather than direct mentorship, must instead try the action and read the failure afterward — competent, but reactive rather than predictive.

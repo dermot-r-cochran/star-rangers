@@ -16,3 +16,5 @@ The **Entropy Horizon** is the threshold after which novelty production in a uni
 Crossing the horizon does not require total physical heat-death. A universe may remain materially active while creatively closed.
 
 Canonical post-horizon reference: [Threnos-Ω](/star-rangers/lore/universes/threnos-omega/).
+
+**Example:** Threnos-Ω has not stopped moving. Its societies still build, its stars still burn — but every major cultural and technological development it now produces converges on a small set of already-seen forms. Crossing the entropy horizon did not silence the universe; it exhausted its capacity for genuine surprise.
