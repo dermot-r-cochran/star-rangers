@@ -26,11 +26,14 @@
 
 deployment:
   tasks:
-    # 1) Install deterministic dependencies
-    - cd "$REPOSITORY_ROOT" && npm ci --no-audit --no-fund
+    # 1) Install deterministic dependencies. scripts/ensure-node.sh downloads a
+    #    local Node.js runtime on first run (cached under $HOME, outside the
+    #    repo) rather than depending on cPanel's "Setup Node.js App" UI
+    #    feature, which isn't available/working on every account.
+    - cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh && npm ci --no-audit --no-fund
 
     # 2) Build Eleventy with root-relative URLs
-    - cd "$REPOSITORY_ROOT" && "$REPOSITORY_ROOT/node_modules/.bin/eleventy" --pathprefix=/
+    - cd "$REPOSITORY_ROOT" && . ./scripts/ensure-node.sh && "$REPOSITORY_ROOT/node_modules/.bin/eleventy" --pathprefix=/
 
     # 3) Safety check: build output must exist
     - test -d "$REPOSITORY_ROOT/_site"

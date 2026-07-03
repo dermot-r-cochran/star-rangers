@@ -26,11 +26,43 @@ module.exports = function(eleventyConfig) {
     return new URL(path.replace(/^\/+/, ""), base).toString();
   });
 
+  eleventyConfig.addFilter("zeroPad", (num) => String(num).padStart(2, "0"));
+
+  eleventyConfig.addFilter("glossaryUrl", function(term, glossaryCollection) {
+    const match = (glossaryCollection || []).find((item) => item.data.title === term);
+    return match ? match.url : "/glossary/";
+  });
+
+  eleventyConfig.addCollection("characters", (collectionApi) =>
+    collectionApi.getAll().filter((item) => item.data.layout === "character.njk")
+  );
+
+  eleventyConfig.addCollection("codex", (collectionApi) =>
+    collectionApi.getAll().filter((item) => item.data.layout === "codex.njk")
+  );
+
+  eleventyConfig.addCollection("lore", (collectionApi) =>
+    collectionApi.getAll().filter((item) => item.data.layout === "lore-entry.njk")
+  );
+
+  eleventyConfig.addCollection("chapters", (collectionApi) =>
+    collectionApi.getAll().filter((item) => item.data.layout === "chapter.njk")
+  );
+
+  eleventyConfig.addCollection("glossary", (collectionApi) =>
+    collectionApi.getAll().filter((item) => item.data.layout === "glossary-entry.njk")
+  );
+
+  eleventyConfig.addCollection("timelineEvents", (collectionApi) =>
+    collectionApi
+      .getAll()
+      .filter((item) => item.inputPath.includes("/timeline/") && !item.inputPath.endsWith("/index.md"))
+  );
+
   return {
     dir: {
       input: "src",
       includes: "_includes",
-      layouts: "_layouts",
       data: "_data",
       output: "_site"
     },
