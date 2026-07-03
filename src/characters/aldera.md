@@ -29,3 +29,7 @@ She identified the Court-Fae feeding signature before Galahad arrived at the cau
 Her recommendation is precise: name what is known. Clarity breaks the loop. Ambiguity is the food source.
 
 She has not shared this yet. Neither Elvira nor Galahad has asked the question that unlocks the answer. She files. She waits.
+
+## Before the Causeway
+
+[Season 1, Episode 0](/star-rangers/seasons/s01/e00/) covers the years before her arrival: an unaugmented, unaffiliated cat leaving Dún Rí — Elvira's own childhood household — on her own terms, and a chance meeting with a wild, constraint-literate cat named Nessa on the tidal rock of Carraig Bán, who points her toward the Marsh Causeway. Neither Aldera nor Elvira has yet connected the outpost to the household either of them left behind.

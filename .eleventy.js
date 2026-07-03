@@ -46,7 +46,14 @@ module.exports = function(eleventyConfig) {
   );
 
   eleventyConfig.addCollection("chapters", (collectionApi) =>
-    collectionApi.getAll().filter((item) => item.data.layout === "chapter.njk")
+    collectionApi
+      .getAll()
+      .filter((item) => item.data.layout === "chapter.njk")
+      .sort((a, b) =>
+        Number(a.data.season) - Number(b.data.season) ||
+        Number(a.data.episode) - Number(b.data.episode) ||
+        Number(a.data.chapter) - Number(b.data.chapter)
+      )
   );
 
   eleventyConfig.addCollection("glossary", (collectionApi) =>
@@ -57,6 +64,7 @@ module.exports = function(eleventyConfig) {
     collectionApi
       .getAll()
       .filter((item) => item.inputPath.includes("/timeline/") && !item.inputPath.endsWith("/index.md"))
+      .sort((a, b) => Number(a.data.sort_order) - Number(b.data.sort_order))
   );
 
   return {
