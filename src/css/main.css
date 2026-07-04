@@ -367,6 +367,15 @@ body {
   color: var(--color-text-muted);
 }
 
+.chapter-body a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+.chapter-body a:hover,
+.chapter-body a:focus {
+  color: var(--color-accent-hover);
+}
+
 .chapter-body blockquote {
   border-left: 3px solid var(--color-accent);
   padding-left: var(--spacing-md);
@@ -658,6 +667,14 @@ body {
 .codex-entry__body li { margin-bottom: var(--spacing-xs); }
 .codex-entry__body strong { color: var(--color-text); }
 .codex-entry__body em { color: var(--color-text-muted); }
+.codex-entry__body a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+.codex-entry__body a:hover,
+.codex-entry__body a:focus {
+  color: var(--color-accent-hover);
+}
 .codex-entry__footer {
   margin-top: var(--spacing-xl);
   padding-top: var(--spacing-lg);
@@ -810,6 +827,14 @@ body {
 .character-body li { margin-bottom: var(--spacing-xs); }
 .character-body strong { color: var(--color-text); }
 .character-body em { color: var(--color-text-muted); }
+.character-body a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+.character-body a:hover,
+.character-body a:focus {
+  color: var(--color-accent-hover);
+}
 .character-footer {
   margin-top: var(--spacing-xl);
   padding-top: var(--spacing-lg);
@@ -893,6 +918,14 @@ body {
 .glossary-entry__body p { margin-bottom: var(--spacing-md); }
 .glossary-entry__body strong { color: var(--color-text); }
 .glossary-entry__body em { color: var(--color-text-muted); }
+.glossary-entry__body a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+.glossary-entry__body a:hover,
+.glossary-entry__body a:focus {
+  color: var(--color-accent-hover);
+}
 .glossary-entry__body ul { padding-left: var(--spacing-lg); margin-bottom: var(--spacing-md); }
 .glossary-entry__body li { margin-bottom: var(--spacing-xs); }
 .glossary-entry__footer {
@@ -967,6 +1000,14 @@ body {
 .lore-entry__body li { margin-bottom: var(--spacing-xs); }
 .lore-entry__body strong { color: var(--color-text); }
 .lore-entry__body em { color: var(--color-text-muted); }
+.lore-entry__body a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+.lore-entry__body a:hover,
+.lore-entry__body a:focus {
+  color: var(--color-accent-hover);
+}
 .lore-entry__body blockquote {
   border-left: 3px solid var(--color-accent);
   padding-left: var(--spacing-md);
