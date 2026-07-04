@@ -100,7 +100,11 @@ main() {
   fi
   cp "$SRC_CSS" "$REPOSITORY_ROOT/_site/css/main.css" \
     || { echo "FAIL: theme CSS copy ($SRC_CSS)" >&2; exit 1; }
-  rsync -av --delete-delay "$REPOSITORY_ROOT/_site/" "$DEST" \
+  # --exclude keeps AutoSSL/Let's Encrypt's domain-validation directory out
+  # of rsync's view entirely - it's never part of the Eleventy build, so
+  # without this, --delete-delay would remove it (and any in-progress
+  # certificate challenge) on every single deploy.
+  rsync -av --delete-delay --exclude=.well-known/acme-challenge/ "$REPOSITORY_ROOT/_site/" "$DEST" \
     || { echo "FAIL: rsync to $DEST" >&2; exit 1; }
   test -f "${DEST}index.html" \
     || { echo "FAIL: post-deploy check - ${DEST}index.html missing" >&2; exit 1; }

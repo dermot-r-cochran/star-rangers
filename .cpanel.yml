@@ -78,6 +78,12 @@
 # rewrites that hardcoded prefix out of the built output before it's
 # rsynced out.
 #
+# NOTE on rsync exclusions: scripts/cpanel-deploy.sh's rsync excludes
+# .well-known/acme-challenge/, cPanel's AutoSSL/Let's Encrypt domain-
+# validation directory. It's never part of the Eleventy build, so without
+# the exclude, --delete-delay would remove it (and any in-progress
+# certificate challenge) on every deploy.
+#
 # NOTE on single-task structure: cPanel aborts every remaining task in this
 # list the instant one exits non-zero. A multi-task list (as this file used
 # to be) therefore can't guarantee any "always run this at the end"
