@@ -27,7 +27,15 @@ esac
 if [ ! -x "$NODE_HOME/bin/node" ] || [ "$("$NODE_HOME/bin/node" -v)" != "v$NODE_VERSION" ]; then
   TMP_DIR="$HOME/.cpanel-nodejs-download"
   ARCHIVE_NAME="node-v$NODE_VERSION-linux-$NODE_ARCH"
-  URL="https://nodejs.org/dist/v$NODE_VERSION/$ARCHIVE_NAME.tar.xz"
+  # .tar.gz, not .tar.xz: on CloudLinux/CageFS shared hosting (common for
+  # cPanel), the account is often blocked from executing certain binaries,
+  # including `xz`. If the installed `tar` wasn't built with liblzma linked
+  # in, extracting a .tar.xz shells out to an external `xz` process to
+  # decompress it, which then fails with "Cannot exec: Permission denied"
+  # under that restriction. gzip decompression is compiled directly into
+  # GNU tar (linked against zlib), so it never spawns an external process -
+  # .tar.gz avoids the blocked binary entirely.
+  URL="https://nodejs.org/dist/v$NODE_VERSION/$ARCHIVE_NAME.tar.gz"
 
   rm -rf "$NODE_HOME" "$TMP_DIR"
   mkdir -p "$TMP_DIR"
@@ -36,14 +44,14 @@ if [ ! -x "$NODE_HOME/bin/node" ] || [ "$("$NODE_HOME/bin/node" -v)" != "v$NODE_
     cd "$TMP_DIR" || exit 1
 
     if command -v curl >/dev/null 2>&1; then
-      curl -fsSL -o node.tar.xz "$URL"
+      curl -fsSL -o node.tar.gz "$URL"
     elif command -v wget >/dev/null 2>&1; then
-      wget -q -O node.tar.xz "$URL"
+      wget -q -O node.tar.gz "$URL"
     else
       echo "ensure-node.sh: need curl or wget to download Node.js" >&2
       exit 1
     fi
-  ) && tar -xf "$TMP_DIR/node.tar.xz" -C "$TMP_DIR" \
+  ) && tar -xzf "$TMP_DIR/node.tar.gz" -C "$TMP_DIR" \
     && mv "$TMP_DIR/$ARCHIVE_NAME" "$NODE_HOME"
 
   STATUS=$?
