@@ -75,8 +75,8 @@ npm run test
 
 The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root.
 
-1. In your local clone, create `deploy.conf` in the repository root.
-2. Add values for the target cPanel account, optional theme, optional content filtering, and optional deploy-log email:
+1. In your local clone, copy the tracked template into place: `cp sample-deploy.conf deploy.conf` (the copy is untracked/gitignored, since it's specific to one clone/domain).
+2. Edit `deploy.conf` with values for the target cPanel account, optional theme, optional content filtering, and optional deploy-log email:
 
 ```bash
 CPANEL_USER=sciencef
