@@ -139,18 +139,27 @@ deployment:
     #
     # Confirmed via a live cPanel deploy that this line's own `2>>` redirect
     # and `$HOME` expansion were both silently inert: cPanel does not run
-    # each task through a shell. It only does its own literal text
-    # substitution of the `$REPOSITORY_ROOT` token, then quote-aware
-    # tokenizes the result and execs it directly - so `bash` was receiving
-    # `2>>${HOME:-/tmp}/cpanel-deploy-line-errors.log` as one unexpanded,
-    # meaningless positional argument instead of getting a redirected fd,
-    # and a bad/stale $REPOSITORY_ROOT (the one failure this redirect exists
-    # to catch) still had nowhere to go but cPanel's own transient UI log.
-    # Wrapping the whole thing in an explicit `bash -c '...'` fixes this:
-    # cPanel's substitution still finds and replaces the literal
-    # `$REPOSITORY_ROOT` text (it's a plain string replace, quote-context
-    # doesn't matter to it), and the single-quoting keeps that entire
-    # command as one token through cPanel's own tokenizer, so what actually
-    # gets exec'd is `bash -c "bash ... 2>>..."` - a real bash invocation
-    # that genuinely parses the redirect and expands $HOME itself.
-    - bash -c 'bash "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh" 2>>"${HOME:-/tmp}/cpanel-deploy-line-errors.log"'
+    # each task through a real shell. It only does its own `$REPOSITORY_ROOT`
+    # token substitution, then quote-aware tokenizes the result and execs it
+    # directly - so `bash` was receiving `2>>${HOME:-/tmp}/...` as one
+    # unexpanded, meaningless positional argument instead of getting a
+    # redirected fd, and a bad/stale $REPOSITORY_ROOT (the one failure this
+    # redirect exists to catch) had nowhere to go but cPanel's own transient
+    # UI log.
+    #
+    # First fix attempt wrapped the whole thing in `bash -c '...'`, which
+    # got the redirect and $HOME working - but broke $REPOSITORY_ROOT: a
+    # second live deploy showed `bash: /scripts/cpanel-deploy.sh: No such
+    # file or directory` (an empty prefix instead of the repo path). cPanel's
+    # substitution turns out to be quote-aware just like a real shell's -
+    # it skips `$REPOSITORY_ROOT` when it's nested inside the outer single
+    # quotes, so the literal text reached the inner `bash -c` unexpanded,
+    # where it's just an unset variable defaulting to empty.
+    #
+    # Fix: keep `$REPOSITORY_ROOT` in the same top-level double-quoted form
+    # already proven to substitute correctly, and pass it to the inner
+    # `bash -c` as a positional argument ($1) instead of interpolating it
+    # into the single-quoted script body. The placeholder `_` fills $0 so
+    # the real path lands in $1. Confirmed locally against both failure
+    # (missing script) and success (script runs) cases.
+    - bash -c 'bash "$1" 2>>"${HOME:-/tmp}/cpanel-deploy-line-errors.log"' _ "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh"
