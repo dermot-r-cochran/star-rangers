@@ -1,0 +1,66 @@
+---
+layout: base.njk
+---
+<article class="chapter scene-pov" data-chapter-id="{{ item.chapterId }}" data-scene="{{ item.sceneNumber }}" data-pov="{{ item.character.id }}">
+  <header class="chapter-header">
+    <nav class="chapter-breadcrumb" aria-label="Chapter location">
+      <ol class="breadcrumb" role="list">
+        <li><a href="/star-rangers/seasons/">Seasons</a></li>
+        <li><a href="/star-rangers/seasons/s{{ item.season }}/">Season {{ item.season | int }}</a></li>
+        <li><a href="/star-rangers/seasons/s{{ item.season }}/e{{ item.episode }}/">Episode {{ item.episode | int }}</a></li>
+        <li><a href="/star-rangers{{ item.chapterUrl }}">{{ item.chapterTitle }}</a></li>
+        <li aria-current="page">Scene {{ item.sceneNumber }} — {{ item.character.label }}</li>
+      </ol>
+    </nav>
+
+    <div class="chapter-meta">
+      <span class="chapter-label">Scene {{ item.sceneNumber }}</span>
+    </div>
+
+    <h1 class="chapter-title">{{ item.character.label }}</h1>
+
+    <dl class="chapter-details">
+      {% if item.timestamp %}
+      <div class="chapter-detail">
+        <dt>Time</dt>
+        <dd>{{ item.timestamp }}</dd>
+      </div>
+      {% endif %}
+      {% if item.location %}
+      <div class="chapter-detail">
+        <dt>Location</dt>
+        <dd>{{ item.location }}</dd>
+      </div>
+      {% endif %}
+    </dl>
+  </header>
+
+  {% if item.sceneCharacters.length > 1 %}
+  <nav class="scene-pov-switch" aria-label="Other POVs of this scene">
+    <p class="scene-pov-switch__label">Also in this scene:</p>
+    <ul class="scene-pov-switch__list" role="list">
+      {% for character in item.sceneCharacters %}
+      {% if character.id != item.character.id %}
+      <li>
+        <a href="/star-rangers/seasons/s{{ item.season }}/e{{ item.episode }}/{{ item.chapterId }}/scene-{{ item.sceneNumber }}/{{ character.id }}/">{{ character.label }}</a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
+
+  <div class="chapter-body">
+    {% if item.included %}
+    {{ item.html | safe }}
+    {% else %}
+    <p class="page-intro">Not included in this edition.</p>
+    {% endif %}
+  </div>
+
+  <nav class="chapter-pagination" aria-label="Chapter navigation">
+    <a class="chapter-pagination__prev" href="/star-rangers{{ item.chapterUrl }}">
+      ← {{ item.chapterTitle }} (all POVs)
+    </a>
+  </nav>
+</article>

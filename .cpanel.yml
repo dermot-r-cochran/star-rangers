@@ -40,6 +40,14 @@
 #   - Section index/listing pages (Characters, Lore, Codex, Glossary,
 #     Timeline, Seasons/Episodes) and other structural pages always build
 #     normally, just listing fewer items.
+#   - A chapter's individual per-scene, per-character POV pages (see
+#     src/_data/scenePovPages.js and src/scene-pov.njk) apply CHARACTERS at
+#     that finer grain: only the listed characters' own scene pages render
+#     real content, every other character in that scene still gets a
+#     placeholder page at its normal URL. The whole-chapter overview page
+#     (all POVs on one page, unchanged) keeps the coarser any-match
+#     behavior described above - a chapter renders there if ANY of its POVs
+#     or tags match.
 # Leaving both unset/empty (the default, and always true for the GitHub
 # Pages build) deploys the full, unfiltered site.
 #

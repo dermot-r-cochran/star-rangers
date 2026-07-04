@@ -1,0 +1,11 @@
+---
+pagination:
+  data: scenePovPages
+  size: 1
+  alias: item
+permalink: "{{ item.url }}"
+layout: scene-pov.njk
+eleventyComputed:
+  title: "{{ item.character.label }} — Scene {{ item.sceneNumber }} — {{ item.chapterTitle }}"
+  description: "{{ item.character.label }}'s point of view of Scene {{ item.sceneNumber }} in \"{{ item.chapterTitle }}\"."
+---

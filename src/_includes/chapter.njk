@@ -68,6 +68,23 @@ layout: base.njk
     {{ content | safe }}
   </div>
 
+  {% set scenes = scenePovPages | scenesForChapter(id) %}
+  {% if scenes.length %}
+  <section class="chapter-scenes" aria-label="Scenes in this chapter">
+    <h2 class="chapter-scenes__heading">Read scene-by-scene</h2>
+    {% for scene in scenes %}
+    <div class="chapter-scene">
+      <p class="chapter-scene__label">Scene {{ scene.number }}</p>
+      <ul class="chapter-scene__povs" role="list">
+        {% for entry in scene.characters %}
+        <li><a href="/star-rangers{{ entry.url }}">{{ entry.character.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
   {% if canon_facts and canon_facts.length %}
   <aside class="canon-facts" aria-label="Verified canon facts for this chapter">
     <h2 class="canon-facts__heading">
