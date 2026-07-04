@@ -23,6 +23,9 @@ layout: base.njk
       {% endfor %}
     </ul>
     {% endif %}
+    {% if image %}
+    <img class="entry-image" src="/star-rangers/images/lore/{{ image }}" alt="{{ image_alt | default(title) }}" />
+    {% endif %}
   </header>
 
   <div class="lore-entry__body">
