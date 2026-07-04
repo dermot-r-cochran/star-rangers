@@ -106,60 +106,38 @@ deployment:
     # live cPanel UI output + accurate exit-code detection reliable - see
     # that script's header comment for the tradeoff discussion.
     #
-    # No leading `cd "$REPOSITORY_ROOT" &&` here: that pattern chains two
-    # commands with `&&`, so a failed `cd` would short-circuit and skip
-    # `bash` entirely. `$REPOSITORY_ROOT` is already absolute (cPanel sets
-    # it), so `bash` doesn't need a matching cwd to find the script by that
-    # path, and the script re-derives + cd's into REPOSITORY_ROOT itself at
-    # its own top regardless of the caller's cwd.
+    # No `$REPOSITORY_ROOT` here at all, deliberately, after two live-deploy
+    # failures traced to it. cPanel already runs every task with cwd set to
+    # the repo checkout (the standard, documented behavior every .cpanel.yml
+    # example relies on for its own bare relative paths), so `scripts/...`
+    # below needs no path variable to find the script. That sidesteps the
+    # whole failure class: cPanel does its own `$REPOSITORY_ROOT` token
+    # substitution outside of any real shell, and it turns out to be
+    # quote-aware like a real shell's substitution would be (it skips the
+    # token when it's nested inside single quotes) - so getting it to
+    # resolve correctly at every nesting depth needed for the redirect fix
+    # below kept breaking in new ways across two separate live deploys (see
+    # git history on this file for both incidents). A relative path has no
+    # such token to substitute in the first place.
     #
     # `2>>"${HOME:-/tmp}/..."` below covers the one failure class
     # scripts/cpanel-deploy.sh's own log/email capture structurally cannot:
-    # this task line failing before the script ever starts running (e.g. a
-    # bad/stale $REPOSITORY_ROOT, so `bash` can't even find the script
-    # file). That's un-capturable by the script's own logic no matter how
-    # this line is phrased, since nothing inside the script has executed
-    # yet - so it's redirected straight to a file under $HOME instead of
-    # under $REPOSITORY_ROOT, since $REPOSITORY_ROOT may itself be the
-    # thing that's broken. Anything reaching cPanel's own deployment UI
-    # still shows up there too; this just keeps a persistent copy that
-    # doesn't disappear once that UI view is gone. A plain `2>>` redirect
-    # (no trailing `;`/pipe) doesn't touch $?, so cPanel still sees bash's
-    # real exit code for deploy success/failure.
+    # this task line failing before the script ever starts running (e.g.
+    # the script file going missing or unreadable). That's un-capturable by
+    # the script's own logic no matter how this line is phrased, since
+    # nothing inside the script has executed yet - so it's redirected
+    # straight to a file under $HOME, independent of the repo checkout.
+    # Anything reaching cPanel's own deployment UI still shows up there
+    # too; this just keeps a persistent copy that doesn't disappear once
+    # that UI view is gone. A plain `2>>` redirect (no trailing `;`/pipe)
+    # doesn't touch $?, so cPanel still sees bash's real exit code for
+    # deploy success/failure.
     #
-    # Every expansion here stays double-quoted even though cPanel account
-    # paths (/home/<user>/repositories/<repo>) essentially never contain
-    # spaces in practice: unquoted, a space anywhere in $REPOSITORY_ROOT or
-    # $HOME would word-split the path and bash would try to open a
-    # truncated, wrong path instead (confirmed: unquoted `bash
-    # $REPOSITORY_ROOT/scripts/cpanel-deploy.sh` with a space in the value
-    # fails with "No such file or directory" on the split-off first
-    # fragment; quoted, it resolves correctly). Costs nothing to quote, so
-    # it's not left depending on that assumption.
-    #
-    # Confirmed via a live cPanel deploy that this line's own `2>>` redirect
-    # and `$HOME` expansion were both silently inert: cPanel does not run
-    # each task through a real shell. It only does its own `$REPOSITORY_ROOT`
-    # token substitution, then quote-aware tokenizes the result and execs it
-    # directly - so `bash` was receiving `2>>${HOME:-/tmp}/...` as one
-    # unexpanded, meaningless positional argument instead of getting a
-    # redirected fd, and a bad/stale $REPOSITORY_ROOT (the one failure this
-    # redirect exists to catch) had nowhere to go but cPanel's own transient
-    # UI log.
-    #
-    # First fix attempt wrapped the whole thing in `bash -c '...'`, which
-    # got the redirect and $HOME working - but broke $REPOSITORY_ROOT: a
-    # second live deploy showed `bash: /scripts/cpanel-deploy.sh: No such
-    # file or directory` (an empty prefix instead of the repo path). cPanel's
-    # substitution turns out to be quote-aware just like a real shell's -
-    # it skips `$REPOSITORY_ROOT` when it's nested inside the outer single
-    # quotes, so the literal text reached the inner `bash -c` unexpanded,
-    # where it's just an unset variable defaulting to empty.
-    #
-    # Fix: keep `$REPOSITORY_ROOT` in the same top-level double-quoted form
-    # already proven to substitute correctly, and pass it to the inner
-    # `bash -c` as a positional argument ($1) instead of interpolating it
-    # into the single-quoted script body. The placeholder `_` fills $0 so
-    # the real path lands in $1. Confirmed locally against both failure
-    # (missing script) and success (script runs) cases.
-    - bash -c 'bash "$1" 2>>"${HOME:-/tmp}/cpanel-deploy-line-errors.log"' _ "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh"
+    # That redirect and `$HOME` expansion need a real shell to parse them -
+    # cPanel's own task exec doesn't provide one (confirmed via a live
+    # deploy: both were silently inert with no wrapper at all) - hence the
+    # explicit `bash -c '...'` wrapper. Since nothing inside that wrapper
+    # references `$REPOSITORY_ROOT` anymore, the whole thing can stay
+    # single-quoted with no risk of cPanel's substitution reaching in and
+    # interfering with it.
+    - bash -c 'bash "scripts/cpanel-deploy.sh" 2>>"${HOME:-/tmp}/cpanel-deploy-line-errors.log"'
