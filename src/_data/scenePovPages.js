@@ -91,6 +91,9 @@ module.exports = function() {
         label: povLabels.get(p.id.toLowerCase()) || p.id
       }));
 
+      const sceneImages = data.scene_images || {};
+      const sceneImageAlts = data.scene_image_alts || {};
+
       for (const pov of scene.povs) {
         const included = isCharacterPovIncluded(pov.id, filter);
         entries.push({
@@ -104,6 +107,8 @@ module.exports = function() {
           location: data.location,
           sceneNumber: scene.number,
           sceneCharacters,
+          image: sceneImages[scene.number] || null,
+          imageAlt: sceneImageAlts[scene.number] || `Scene ${scene.number} of "${data.title}"`,
           character: { id: pov.id, label: povLabels.get(pov.id.toLowerCase()) || pov.id },
           included,
           html: included ? pov.html : null,

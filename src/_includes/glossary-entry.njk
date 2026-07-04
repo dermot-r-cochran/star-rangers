@@ -15,6 +15,9 @@ layout: base.njk
       <span class="character-badge">{{ category }}</span>
     </p>
     {% endif %}
+    {% if image %}
+    <img class="entry-image" src="/star-rangers/images/glossary/{{ image }}" alt="{{ image_alt | default(title) }}" />
+    {% endif %}
   </header>
 
   <div class="glossary-entry__body">

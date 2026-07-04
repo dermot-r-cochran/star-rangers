@@ -834,6 +834,16 @@ body {
   .pov-block[data-pov-hidden="true"] { display: block !important; }
 }
 
+/* --- Optional entry images (lore/codex/glossary entries, scenes) --- */
+.entry-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  margin-top: var(--spacing-lg);
+}
+
 /* --- Character Profiles --- */
 .character-header {
   margin-bottom: var(--spacing-xl);
