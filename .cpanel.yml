@@ -136,4 +136,21 @@ deployment:
     # fails with "No such file or directory" on the split-off first
     # fragment; quoted, it resolves correctly). Costs nothing to quote, so
     # it's not left depending on that assumption.
-    - bash "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh" 2>>"${HOME:-/tmp}/cpanel-deploy-line-errors.log"
+    #
+    # Confirmed via a live cPanel deploy that this line's own `2>>` redirect
+    # and `$HOME` expansion were both silently inert: cPanel does not run
+    # each task through a shell. It only does its own literal text
+    # substitution of the `$REPOSITORY_ROOT` token, then quote-aware
+    # tokenizes the result and execs it directly - so `bash` was receiving
+    # `2>>${HOME:-/tmp}/cpanel-deploy-line-errors.log` as one unexpanded,
+    # meaningless positional argument instead of getting a redirected fd,
+    # and a bad/stale $REPOSITORY_ROOT (the one failure this redirect exists
+    # to catch) still had nowhere to go but cPanel's own transient UI log.
+    # Wrapping the whole thing in an explicit `bash -c '...'` fixes this:
+    # cPanel's substitution still finds and replaces the literal
+    # `$REPOSITORY_ROOT` text (it's a plain string replace, quote-context
+    # doesn't matter to it), and the single-quoting keeps that entire
+    # command as one token through cPanel's own tokenizer, so what actually
+    # gets exec'd is `bash -c "bash ... 2>>..."` - a real bash invocation
+    # that genuinely parses the redirect and expands $HOME itself.
+    - bash -c 'bash "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh" 2>>"${HOME:-/tmp}/cpanel-deploy-line-errors.log"'
