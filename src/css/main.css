@@ -859,6 +859,13 @@ body {
 .character-badge--status-unknown {
   color: var(--color-text-muted);
 }
+.character-portrait {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--spacing-md);
+}
 .character-name {
   font-size: 2rem;
   color: var(--color-text);

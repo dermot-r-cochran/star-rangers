@@ -22,6 +22,10 @@ layout: base.njk
       {% endif %}
     </div>
 
+    {% if image %}
+    <img class="character-portrait" src="/star-rangers{{ image }}" alt="{{ image_alt | default(title) }}">
+    {% endif %}
+
     <h1 class="character-name">{{ title }}</h1>
 
     {% if aliases and aliases.length %}
