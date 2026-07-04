@@ -105,4 +105,35 @@ deployment:
     # uses bash-only features (${PIPESTATUS[0]}) to make full-log capture +
     # live cPanel UI output + accurate exit-code detection reliable - see
     # that script's header comment for the tradeoff discussion.
-    - cd "$REPOSITORY_ROOT" && bash "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh"
+    #
+    # No leading `cd "$REPOSITORY_ROOT" &&` here: that pattern chains two
+    # commands with `&&`, so a failed `cd` would short-circuit and skip
+    # `bash` entirely. `$REPOSITORY_ROOT` is already absolute (cPanel sets
+    # it), so `bash` doesn't need a matching cwd to find the script by that
+    # path, and the script re-derives + cd's into REPOSITORY_ROOT itself at
+    # its own top regardless of the caller's cwd.
+    #
+    # `2>>"${HOME:-/tmp}/..."` below covers the one failure class
+    # scripts/cpanel-deploy.sh's own log/email capture structurally cannot:
+    # this task line failing before the script ever starts running (e.g. a
+    # bad/stale $REPOSITORY_ROOT, so `bash` can't even find the script
+    # file). That's un-capturable by the script's own logic no matter how
+    # this line is phrased, since nothing inside the script has executed
+    # yet - so it's redirected straight to a file under $HOME instead of
+    # under $REPOSITORY_ROOT, since $REPOSITORY_ROOT may itself be the
+    # thing that's broken. Anything reaching cPanel's own deployment UI
+    # still shows up there too; this just keeps a persistent copy that
+    # doesn't disappear once that UI view is gone. A plain `2>>` redirect
+    # (no trailing `;`/pipe) doesn't touch $?, so cPanel still sees bash's
+    # real exit code for deploy success/failure.
+    #
+    # Every expansion here stays double-quoted even though cPanel account
+    # paths (/home/<user>/repositories/<repo>) essentially never contain
+    # spaces in practice: unquoted, a space anywhere in $REPOSITORY_ROOT or
+    # $HOME would word-split the path and bash would try to open a
+    # truncated, wrong path instead (confirmed: unquoted `bash
+    # $REPOSITORY_ROOT/scripts/cpanel-deploy.sh` with a space in the value
+    # fails with "No such file or directory" on the split-off first
+    # fragment; quoted, it resolves correctly). Costs nothing to quote, so
+    # it's not left depending on that assumption.
+    - bash "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh" 2>>"${HOME:-/tmp}/cpanel-deploy-line-errors.log"
