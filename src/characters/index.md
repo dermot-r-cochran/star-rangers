@@ -13,6 +13,9 @@ description: "Profiles of every named character, being, and entity in Star Range
 <div class="codex-grid">
   {% for char in chars %}
   <a class="codex-card" href="/star-rangers{{ char.url }}">
+    {% if char.data.image %}
+    <img class="codex-card__thumb" src="/star-rangers/images/characters/{{ char.data.image }}" alt="{{ char.data.image_alt | default(char.data.title) }}" />
+    {% endif %}
     <p class="codex-card__category">{{ char.data.species | default("Unknown") }}{% if char.data.role %} · {{ char.data.role }}{% endif %}</p>
     <h2 class="codex-card__title">{{ char.data.title }}</h2>
     {% if char.data.aliases and char.data.aliases.length %}

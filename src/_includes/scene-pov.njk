@@ -33,6 +33,10 @@ layout: base.njk
       </div>
       {% endif %}
     </dl>
+
+    {% if item.image %}
+    <img class="entry-image" src="/star-rangers/images/scenes/{{ item.image }}" alt="{{ item.imageAlt }}" />
+    {% endif %}
   </header>
 
   {% if item.sceneCharacters.length > 1 %}
