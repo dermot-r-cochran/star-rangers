@@ -126,4 +126,14 @@ deployment:
     # doesn't disappear once that UI view is gone. A plain `2>>` redirect
     # (no trailing `;`/pipe) doesn't touch $?, so cPanel still sees bash's
     # real exit code for deploy success/failure.
+    #
+    # Every expansion here stays double-quoted even though cPanel account
+    # paths (/home/<user>/repositories/<repo>) essentially never contain
+    # spaces in practice: unquoted, a space anywhere in $REPOSITORY_ROOT or
+    # $HOME would word-split the path and bash would try to open a
+    # truncated, wrong path instead (confirmed: unquoted `bash
+    # $REPOSITORY_ROOT/scripts/cpanel-deploy.sh` with a space in the value
+    # fails with "No such file or directory" on the split-off first
+    # fragment; quoted, it resolves correctly). Costs nothing to quote, so
+    # it's not left depending on that assumption.
     - bash "$REPOSITORY_ROOT/scripts/cpanel-deploy.sh" 2>>"${HOME:-/tmp}/cpanel-deploy-line-errors.log"
