@@ -166,6 +166,29 @@ trap 'notify "$?"' EXIT
 
 notify "$STATUS"
 
+# ---------------------------------------------------------------------------
+# Persist a copy of every run's log locally, regardless of ADMIN_EMAIL, so
+# past deploys can be inspected without needing email at all. deploy-logs/
+# is untracked (gitignored) - host-local operational data, not repo content.
+# One file per attempt (timestamp + result), pruned to the most recent
+# LOG_RETENTION runs so it can't grow unbounded on a quota-limited account.
+# ---------------------------------------------------------------------------
+LOG_RETENTION=20
+LOG_DIR="$REPOSITORY_ROOT/deploy-logs"
+mkdir -p "$LOG_DIR" 2>/dev/null
+if [ "$STATUS" -eq 0 ]; then LOG_RESULT="SUCCESS"; else LOG_RESULT="FAILURE"; fi
+PERSISTED_LOG="$LOG_DIR/$(date -u +'%Y-%m-%dT%H-%M-%SZ')-$LOG_RESULT.log"
+if cp "$LOG_FILE" "$PERSISTED_LOG" 2>/dev/null; then
+  echo "=== Deploy log saved to $PERSISTED_LOG ==="
+  # Filenames are ISO-8601-prefixed, so lexical sort is chronological sort;
+  # drop everything but the newest LOG_RETENTION files.
+  ls -1 "$LOG_DIR" 2>/dev/null | sort | head -n "-$LOG_RETENTION" | while IFS= read -r old; do
+    rm -f "$LOG_DIR/$old"
+  done
+else
+  echo "=== WARNING: could not persist deploy log to $LOG_DIR ===" >&2
+fi
+
 if [ "$MAIL_OK" -eq 1 ] || [ -z "$ADMIN_EMAIL" ]; then
   rm -f "$LOG_FILE" 2>/dev/null
 else

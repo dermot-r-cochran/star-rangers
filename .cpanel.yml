@@ -55,6 +55,11 @@
 # available, or the send itself fails, the deploy's own success/failure is
 # completely unaffected — see scripts/cpanel-deploy.sh.
 #
+# Independent of ADMIN_EMAIL, every deployment attempt also saves its full
+# log locally to deploy-logs/ (untracked/gitignored), one timestamped file
+# per attempt, pruned to the most recent 20 runs - so past deploys can be
+# inspected on the server without needing email configured at all.
+#
 # To add a new domain: create a new cPanel repository clone pointed at that
 # domain's account, and drop a deploy.conf with its CPANEL_USER (and THEME,
 # ADMIN_EMAIL, etc., if needed) into it. No edits to this file are needed
