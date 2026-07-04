@@ -1,56 +1,12 @@
 const { DateTime } = require("luxon");
 const pluginNavigation = require("@11ty/eleventy-navigation");
-
-// --- CHARACTERS / TOPICS content filtering (cPanel deploy.conf) ---------
-// Optional, comma-separated, case-insensitive env vars set by .cpanel.yml
-// from an untracked deploy.conf. Both empty/unset (always true for the
-// GitHub Pages build, which never sets these) means no filtering.
-function parseFilterList(envValue) {
-  return String(envValue || "")
-    .split(",")
-    .map((s) => s.trim().toLowerCase())
-    .filter(Boolean);
-}
-
-function getContentFilter() {
-  const characters = parseFilterList(process.env.CHARACTERS);
-  const topics = parseFilterList(process.env.TOPICS);
-  return {
-    characters,
-    // Tags conventionally embed character slugs too (e.g. a timeline entry
-    // tagged "aldera"), so CHARACTERS also participates in tag matching.
-    tagMatches: new Set([...characters, ...topics]),
-    active: characters.length > 0 || topics.length > 0
-  };
-}
-
-function hasMatchingTag(data, filter) {
-  if (!filter.tagMatches.size) return false;
-  const tags = Array.isArray(data.tags) ? data.tags.map((t) => String(t).toLowerCase()) : [];
-  const category = data.category ? String(data.category).toLowerCase() : null;
-  return tags.some((t) => filter.tagMatches.has(t)) || (category !== null && filter.tagMatches.has(category));
-}
-
-function hasMatchingPov(data, filter) {
-  if (!filter.characters.length) return false;
-  const povs = Array.isArray(data.povs) ? data.povs : [];
-  return povs.some((p) => filter.characters.includes(String((p && p.id) || "").toLowerCase()));
-}
-
-function isCharacterIncluded(data, filter) {
-  if (!filter.active) return true;
-  return filter.characters.includes(String(data.id || "").toLowerCase()) || hasMatchingTag(data, filter);
-}
-
-function isChapterIncluded(data, filter) {
-  if (!filter.active) return true;
-  return hasMatchingPov(data, filter) || hasMatchingTag(data, filter);
-}
-
-function isTopicPageIncluded(data, filter) {
-  if (!filter.active) return true;
-  return hasMatchingTag(data, filter);
-}
+const { createMarkdownRenderer } = require("./lib/markdown-containers");
+const {
+  getContentFilter,
+  isCharacterIncluded,
+  isChapterIncluded,
+  isTopicPageIncluded
+} = require("./lib/content-filter");
 
 // Drives the eleventyComputed override below: decides whether a
 // standalone content-leaf page renders its real content or a placeholder.
@@ -73,6 +29,11 @@ function isContentIncluded(data, filter) {
 
 module.exports = function(eleventyConfig) {
   const contentFilter = getContentFilter();
+
+  // Wires up the :::pov / :::::scene custom containers used in chapter
+  // content (see lib/markdown-containers.js) - without this, markdown-it
+  // has no idea what those fences mean and renders them as literal text.
+  eleventyConfig.setLibrary("md", createMarkdownRenderer());
 
   eleventyConfig.addPlugin(pluginNavigation);
 
@@ -103,6 +64,21 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("glossaryUrl", function(term, glossaryCollection) {
     const match = (glossaryCollection || []).find((item) => item.data.title === term);
     return match ? match.url : "/glossary/";
+  });
+
+  // Groups the flat scenePovPages global data (src/_data/scenePovPages.js)
+  // back into per-scene lists of characters for one chapter, so chapter.njk
+  // can link out to each scene's individual per-character pages.
+  eleventyConfig.addFilter("scenesForChapter", (pages, chapterId) => {
+    const byScene = new Map();
+    for (const p of pages || []) {
+      if (p.chapterId !== chapterId) continue;
+      if (!byScene.has(p.sceneNumber)) byScene.set(p.sceneNumber, []);
+      byScene.get(p.sceneNumber).push(p);
+    }
+    return Array.from(byScene.entries())
+      .sort((a, b) => Number(a[0]) - Number(b[0]) || a[0].localeCompare(b[0]))
+      .map(([number, characters]) => ({ number, characters }));
   });
 
   eleventyConfig.addCollection("characters", (collectionApi) =>
