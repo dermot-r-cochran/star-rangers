@@ -73,4 +73,4 @@ Doctrine does not seek zero entropy. Doctrine seeks the minimum contingent entro
 
 ---
 
-*Archivist's note, added during 2826 UCSD archive pass: Field offices still receive complaints that EB "just renamed AUC and made it philosophical." The Doctrine Office's standing reply is on file and has not changed in over a century: renaming was not the point. Accounting for the contingent share of harm was.*
+*Archivist's note (S.), added during the 2826 UCSD archive pass: Field offices still receive complaints that EB "just renamed AUC and made it philosophical." The Doctrine Office's standing reply is on file and has not changed in over a century: renaming was not the point. Accounting for the contingent share of harm was.*

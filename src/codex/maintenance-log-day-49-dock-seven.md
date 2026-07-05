@@ -48,4 +48,4 @@ Filed for manager review with recommendation to reopen Incident Report 001 and r
 
 ---
 
-*Clerk annotation added during 2826 UCSD archive pass: This entry is the earliest surviving maintenance proof that the Day 47 closure determination was operationally unsound.*
+*Archivist's note (S.), added during the 2826 UCSD archive pass: This entry is the earliest surviving maintenance proof that the Day 47 closure determination was operationally unsound.*

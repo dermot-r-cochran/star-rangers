@@ -40,5 +40,5 @@ Calibration issue. Report closed. Units to be recalibrated at next maintenance c
 
 ---
 
-*Note appended by Survey Archive — 2826 UCSD:*
+*Note appended by Survey Archive (S.) — 2826 UCSD:*
 *The discrepancy returned on Day 49, two days after recalibration. That return was not filed as an incident report. It survives only in the Day 49 maintenance log as a single line: "C-7A/C-7B discrepancy returned. 40 sec. No action."*

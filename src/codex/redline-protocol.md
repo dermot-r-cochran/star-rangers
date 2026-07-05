@@ -81,4 +81,4 @@ Policy failure begins when this question is not measured.
 
 ---
 
-*Clerk annotation, 2826 UCSD archive pass: This protocol has been invoked on record eleven times since ratification. In nine of eleven cases, the triggering condition was Trigger 3 — an incentive loop, not a technical failure.*
+*Archivist's note (S.), 2826 UCSD archive pass: This protocol has been invoked on record eleven times since ratification. In nine of eleven cases, the triggering condition was Trigger 3 — an incentive loop, not a technical failure.*
