@@ -14,6 +14,17 @@
 #   TOPICS=boundary,detective-agency
 #   ADMIN_EMAIL=admin@example.com
 #
+# ...or for starquest.site / starquest.online (cPanel user "starques"):
+#
+#   CPANEL_USER=starques
+#   THEME=starquest
+#
+# ...or for fellowshipoflight.org / fellowshipoflight.site /
+# fellowshipoflight.space (cPanel user "fellowsh"):
+#
+#   CPANEL_USER=fellowsh
+#   THEME=fellowship
+#
 # All are optional. No deploy.conf, or a missing value, falls back to
 # CPANEL_USER=sciencef and THEME=default (the plain build with no CSS swap,
 # deployed to /home/sciencef/public_html/ — today's original behavior), no
