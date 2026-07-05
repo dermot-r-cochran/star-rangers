@@ -154,4 +154,4 @@ In post-horizon contexts, transference depends heavily on archival scaffolds and
 See also:
 - [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding-system/)
 - [Creative Entropy Framework](/star-rangers/lore/creative-entropy-framework/)
-- [AI Usage Credits (AUC)](/star-rangers/lore/ai-usage-credits/)
+- [Allocation Units of Cognition (AUC)](/star-rangers/lore/ai-usage-credits/)

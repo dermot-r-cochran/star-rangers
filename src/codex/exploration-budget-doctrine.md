@@ -3,24 +3,24 @@ layout: codex.njk
 title: "Codex: Exploration Budget (EB) Doctrine"
 category: "Institutional Doctrine"
 tags: [exploration-budget, entropy, auc, cei, doctrine, governance, kernel-accords]
-description: "The doctrine superseding the original AI Usage Credits ledger, reframing novelty generation as an accounted trade between entropy, variability, and risk."
+description: "The doctrine superseding the original Allocation Units of Cognition ledger, reframing novelty generation as an accounted trade between entropy, variability, and risk."
 ---
 
 **CONCORDANT GOVERNANCE ARCHIVE**
 **DOCTRINE RECORD: EXPLORATION BUDGET (EB)**
-**Supersedes:** AI Usage Credits ledger, narrow-scope version
+**Supersedes:** Allocation Units of Cognition ledger, narrow-scope version
 **Issued:** 2701 UCSD, in the doctrinal wake of the [Kernel Accords](/star-rangers/lore/ai-safety-kernel/) (ratified 2694 UCSD)
 **Status:** In force
 
 ---
 
-The old **AI Usage Credits (AUC)** ledger counted machine-assisted thought as if thought were fuel. Useful, but narrow.
+The old **Allocation Units of Cognition (AUC)** ledger counted machine-assisted thought as if thought were fuel. Useful, but narrow.
 
 The doctrine adopted at Concordant level is broader:
 
 > Every engine of discovery spends order to buy possibility.
 
-[AI Usage Credits (AUC)](/star-rangers/glossary/ai-usage-credits-auc/) remain in force as one instrument inside the larger **Exploration Budget (EB)** framework.
+[Allocation Units of Cognition (AUC)](/star-rangers/glossary/ai-usage-credits-auc/) remain in force as one instrument inside the larger **Exploration Budget (EB)** framework.
 
 ## Layered Entropy Doctrine
 

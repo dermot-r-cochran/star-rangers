@@ -1,6 +1,6 @@
 # Codex: Exploration Budget (EB)
 
-The old **AI Usage Credits (AUC)** ledger counted machine-assisted thought as if thought were fuel. Useful, but narrow.
+The old **Allocation Units of Cognition (AUC)** ledger counted machine-assisted thought as if thought were fuel. Useful, but narrow.
 
 The modern doctrine is broader:
 
