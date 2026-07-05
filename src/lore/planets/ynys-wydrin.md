@@ -4,11 +4,14 @@ title: "Ynys Wydrin"
 category: "Locations"
 tags: [ynys-wydrin, celtic-union, dome-world, locations]
 description: "The second-settled world of the Celtic Union of Planets — a dome-and-station world named for the Welsh 'Isle of Glass,' settled precisely because it was not a paradise."
+galaxy: "Milky Way"
+system: "Avallach System"
+locationType: "Planet"
 ---
 
 Not every Currach Fleet ark found a world as forgiving as Tír na nÓg. Ynys Wydrin's colonists found thin, unbreathable air, permafrost, and a name already waiting for them in their own mythology.
 
-**Ynys Wydrin** — Welsh for "Isle of Glass," the old name for the otherworldly isle behind Glastonbury — is the second-settled charter world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/). Unlike [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), it is not naturally human-compatible: thin atmosphere, subfreezing surface temperatures, and a biosphere too chemically alien for direct human agriculture.
+**Ynys Wydrin** — Welsh for "Isle of Glass," the old name for the otherworldly isle behind Glastonbury — is the second-settled charter world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/). Unlike [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), it is not naturally human-compatible: thin atmosphere, subfreezing surface temperatures, and a biosphere too chemically alien for direct human agriculture. It is the second planet of the **Avallach System**, named for the mythical king said to rule the isle of Avalon — Ynys Wydrin's own namesake in Welsh tradition.
 
 ## Why They Stayed
 

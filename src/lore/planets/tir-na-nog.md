@@ -6,11 +6,14 @@ tags: [tir-na-nog, celtic-union, biosphere-planet, locations, human-compatible]
 description: "The flagship world of the Celtic Union of Planets — a rare naturally human-compatible biosphere world, and the Union's cultural and diplomatic capital."
 image: "moorhen-wetland.jpg"
 image_alt: "A dark waterbird preening on a floating log in a still wetland"
+galaxy: "Milky Way"
+system: "Mannán System"
+locationType: "Planet"
 ---
 
 Most surveyed worlds need a habitat dome, a filtration mask, or a decade of atmospheric engineering before a human can walk outside unassisted. Tír na nÓg needed none of that. Its first colonists stepped off the ark and breathed.
 
-**Tír na nÓg** — named for the Irish otherworld of eternal youth — is the flagship and most populous world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), and one of the small number of surveyed worlds classified as **naturally human-compatible**: breathable atmosphere, non-toxic biochemistry, and a carbon-based biosphere stable enough to support unmodified human agriculture within the first settlement generation.
+**Tír na nÓg** — named for the Irish otherworld of eternal youth — is the flagship and most populous world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), and one of the small number of surveyed worlds classified as **naturally human-compatible**: breathable atmosphere, non-toxic biochemistry, and a carbon-based biosphere stable enough to support unmodified human agriculture within the first settlement generation. It is the third planet of the **Mannán System**, named by its founders for Manannán mac Lir, the sea-god who was said to guard the way to Tír na nÓg in the first place.
 
 ## Why the Biosphere Works
 
