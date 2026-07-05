@@ -46,7 +46,7 @@ Diplomatic relations remain new, cautious, and cordial. The Union has so far dec
 
 Six worlds hold Union charter membership. Most remain undocumented outside Union records. The flagship and most populous is [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), a rare naturally human-compatible biosphere world and the Union's cultural and diplomatic capital.
 
-Other charter worlds — among them Ynys Wydrin and Kernowek Reach — are known to Solar System records by name only, pending further survey contact.
+The second-settled charter world, [Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/), is a dome-and-station world settled deliberately rather than a paradise found. The remaining charter worlds — among them Kernowek Reach — are known to Solar System records by name only, pending further survey contact.
 
 ---
 
