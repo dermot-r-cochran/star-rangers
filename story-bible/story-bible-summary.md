@@ -82,6 +82,21 @@ A **Concordant** (KON-kor-dant; plural **Concordance**) is a bounded region of r
 - There is no magic; apparent "supernatural" effects are boundary interference or Etheric pattern expression.
 - Levrils are bounded but powerful; meta-dragons exist across boundary mismatches.
 
+### Canon vs. record: what's actually true vs. what's on file
+The series' central conflict ("who gets to name the truth") only works if these three tiers are kept distinct and never silently merged:
+- **Lore entries and the story bible (this document) are canonical.** They state what is objectively true in-world, full stop — not one character's read on it.
+- **The Codex is POV, not canon.** Every codex document (incident reports, protocols, doctrine records, recovered dialogue, etc.) is an in-universe artifact written by a specific person or office, and may be incomplete, biased, self-serving, or simply wrong. Treat codex content the way an in-world reader would: a primary source to be cross-checked, not a narrator's statement of fact. Every codex entry accordingly names an author, an institution, and a physical archive location.
+- **The Timeline is public in-story knowledge**, not omniscient narration. It records what is confirmed and on the public record — which can itself lag, omit, or misdate events relative to what actually happened (see: the Currach Fleet's transit, unconfirmed for centuries after the fact).
+- **Thoughts and dreams belong in story/chapter prose (POV blocks), not the Codex** — a codex entry can only exist once something has been externalized into a physical document (a filed report, a recorded conversation, a written note). An unwritten thought never generates a codex entry on its own.
+
+### No faster-than-light communication
+FTL travel exists (Quantum Space Harmonic Waves, Higher-Dimensional Folding — see `src/lore/ftl-mechanics.md`), but FTL *communication* does not. A message travels no faster than a physical transit carrying it. Consequences treated as hard canon:
+- Every archive, institution, and government is necessarily transit-lagged relative to every other one — sometimes by decades.
+- The **Star Rangers serve as trusted neutral courier of last resort**: because no faction's own courier can be assumed unbiased, and the Rangers' unconditional neutrality (already part of their founding charter) makes them the one carrier multiple sides will trust with the same package. This is a role they grew into, not a formal charter clause.
+
+### Plural minds (tulpas/headmates)
+Plurality — a single body hosting more than one person (headmates, or tulpas when deliberately cultivated) — is canon-recognized as an ordinary, lawful arrangement, not a disorder or a supernatural event. It is lightly grounded in the existing Conceptual layer (Layer 2 of the Five Layers: more than one Conceptual-layer identity stably coupled to one Material-layer body) without making the cosmology "explain away" what doesn't need an excuse. **Sen**, Senior Archivist of the Survey Archive, is the first major character introduced this way: three people — Cael (the verifier), Wyn (who holds what the dry record leaves out), and Sen (who fronts most often) — sharing one body and one desk. See `src/characters/sen.md` and `src/glossary/plural-minds.md`.
+
 ---
 
 ## Characters
@@ -95,6 +110,8 @@ A **Concordant** (KON-kor-dant; plural **Concordance**) is a bounded region of r
 **Elvira** — Unclassified species (contested — locals call her "the Enchantress," which she finds inaccurate and annoying), Boundary Practitioner / Outpost Keeper at Marsh Causeway for 3 years. Works Etheric-responsive materials (chalk, thread, water, old records) through craft, not magic — mapped, tested, procedural. Structurally incapable of deep fear (a trait she once saw as a flaw, no longer does). Correctly identified the *method* of the Court-Fae feeding at the causeway but not yet its *nature* — a gap actively being exploited. Notices precise boundary-event vocabulary immediately (this is how she starts to trust Galahad).
 
 **Aldera** — Cyber-enhanced cat, Field Observer for the detective agency network, stationed at Marsh Causeway before Elvira arrived (Elvira doesn't know this yet). Communicates only through filed logs, never volunteers unrequested information (agency doctrine: unsolicited information gets dismissed; requested information gets used). Identified the Court-Fae feeding signature before Galahad arrived — has the answer that breaks the loop, is simply waiting for someone to ask the right question. Aware of Rook-7 via the network; no direct contact yet.
+
+**Sen** — Human, Senior Archivist at the Survey Archive. A plural mind: three people, Cael (the verifier), Wyn (who holds what the dry record leaves out), and Sen (who fronts most often), sharing one body and one desk. Reconciles institutional records against what actually happened for a living, and has been quietly correcting the record on the Threshold Station chronometer discrepancy — among other closed files — for over a decade, unsigned. Plurality is played as ordinary and lawful, not a disorder or a twist.
 
 **Dr. Iona Vale** — Human, Transit Safety Officer, Harmonic Operations, Threshold Station. Transferred in after a "successful" teleport jump left someone unable to remember their own name. Enforces hard, unbending rules (no visual endpoint confirmation → no jump; below-margin power reserve → no jump; unresolved fatigue markers → no jump). Not anti-teleportation — anti-pretending the cost disappears because the outcome worked. A survived jump is not a gentle one; it's an efficiently used one.
 
