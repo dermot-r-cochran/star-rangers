@@ -4,6 +4,9 @@ title: "Incident Report 001 — Dock Seven Chronometer Discrepancy"
 category: "Survey Records"
 tags: [threshold-station, instrument-drift, incident-report, survey-corps]
 description: "The first official incident report documenting the Dock Seven chronometer discrepancy. Classified as a calibration issue and closed without resolution."
+author: "Sub-officer Pren Halvard"
+institution: "Survey Corps — Threshold Station Detachment"
+location: "Threshold Station Records Vault (single physical copy, no off-station backup on file)"
 ---
 
 **SURVEY CORPS — THRESHOLD STATION**

@@ -700,6 +700,12 @@ body {
   color: var(--color-accent);
   font-weight: 700;
 }
+.codex-card__institution {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-top: var(--spacing-xs);
+}
 
 .codex-entry__header {
   margin-bottom: var(--spacing-xl);
@@ -712,6 +718,11 @@ body {
   margin-bottom: var(--spacing-sm);
 }
 .codex-entry__category {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+.codex-entry__byline {
   font-family: var(--font-ui);
   font-size: 0.9rem;
   color: var(--color-text-muted);
