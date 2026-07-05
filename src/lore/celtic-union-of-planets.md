@@ -14,11 +14,11 @@ The **Celtic Union of Planets** is the confederation those arks became. It is no
 
 ## The Currach Fleet
 
-Named for the small, sea-worthy hide boats of the Irish coast, the **Currach Fleet** departed the Solar System in six generation-ark vessels between approximately 2280 and 2310 UCSD, decades before the United Space Consortium's founding and well over four centuries before Eden's fold route made extrasolar travel practical for anyone else.
+Named for the small, sea-worthy hide boats of the Irish coast, the **Currach Fleet** departed the Solar System in six generation-ark vessels between approximately 2561 and 2589 UCSD — during the [Imperium's](/star-rangers/lore/the-imperium/) outer-settlement crackdown, and roughly a century and a half before Eden's fold route made extrasolar travel practical for anyone else.
 
-The founders were not refugees from war or scarcity. They were cultural custodians — linguists, folklorists, and small agricultural cooperatives — who judged that Earth's accelerating institutional consolidation would flatten minority language communities within a few more generations, and that the only reliable preservation strategy was distance, not petition.
+The founders were not refugees from war or scarcity in the acute sense. They were cultural custodians — linguists, folklorists, and small agricultural cooperatives from outer stations already living under the Imperium's settlement-policy restrictions — who judged that an institution which treated ambiguity as something to be re-categorised or erased would eventually do the same to minority language communities that didn't fit its administrative categories.
 
-They were, on the available evidence, correct to worry and wrong about needing to leave for it: Earth's Celtic-language communities survived at home as well, in reduced but real form. Neither fact undid the other. By the time anyone could have told the Currach Fleet this, the ships were already decades into transit and had no practical way to turn back.
+Departure was unauthorised and, by design, unconfirmed. The Imperium's standing response to outer-settlement vessels that slipped patrol coverage was retrieval where cheap and closure of the file where not; six generation arks on a decades-long sublight transit, expected to send no return signal for generations, closed as presumed transit losses rather than pursued. That administrative shrug is the reason the Currach Fleet's transit appears nowhere in Solar System record as an extrasolar first — it was never confirmed a success. It was filed as a failure and left there for centuries.
 
 ## Arrival and Settlement
 

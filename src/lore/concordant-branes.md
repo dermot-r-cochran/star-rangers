@@ -16,11 +16,13 @@ Within that manifold, each Concordant occupies its own bounded **brane**: a cohe
 
 [Boundary zones](/star-rangers/lore/boundary-zones/) are where that separation narrows.
 
+This is an instrument model, not a claim about what the Etheric layer fundamentally is. The [Five Layers](/star-rangers/lore/five-layers/) remain causal modes, not spatial planes, and the Etheric's rule-template mechanism does not reduce to geometry. What the post-11 manifold's dimensional bands give Survey Corps is a *where and when it becomes measurable*, not a *what it is made of*.
+
 ## Two Effects, One Cause
 
 The Post-11 Manifold entry already explains the *physical* half of boundary-zone behaviour: Dimensions 12–15 distribute geometric strain when branes overlap, and Dimensions 16–19 absorb the resulting timing disagreements — which is why two chronometers at a boundary station can each be locally correct and still disagree with each other.
 
-The *Etheric* half runs through the same structure, one band higher: Dimensions 20+, the trans-concordant constraint field, is where each brane's archetypal templates are encoded. When brane separation narrows enough, that field lets one Concordant's templates become locally detectable — and, past a threshold, locally competitive — inside its neighbour.
+Survey Corps extends that same structure, one band higher, to the *Etheric* half: the trans-concordant constraint field at Dimensions 20+ — already known to encode the nonlocal boundary conditions Worldwright and Telearch operations satisfy — is modelled as the channel through which each brane's archetypal templates also become locally readable. When brane separation narrows enough, that same field lets one Concordant's templates become detectable, and past a threshold, locally competitive, inside its neighbour.
 
 Survey Corps now names this coupling **[Interbrane Bleed](/star-rangers/glossary/interbrane-bleed/)**, graded against the same Boundary-State Classes already used for the physical drift:
 
@@ -41,7 +43,7 @@ A brane-proximity event does not resolve by recalibrating instruments on one sid
 ## Operational Notes
 
 - Brane Resonance is not hazardous and requires no intervention; it is background telemetry confirming a station sits near an active boundary.
-- Interbrane Bleed is not supernatural and does not violate Cascade hierarchy — it is a lawful Etheric→Physical transfer under narrowed brane separation, consistent with the Five Layers' cross-layer coupling rule.
+- Interbrane Bleed is not supernatural and does not violate Cascade hierarchy. It is a lateral coupling — one Concordant's Etheric layer reaching a neighbouring Concordant's Etheric layer directly, under narrowed brane separation — distinct from the vertical Etheric→Material transfer that produces archetypal interference within a single Concordant. Both are lawful; neither substitutes for the other.
 - No amount of Physical-layer recalibration resolves an Etheric-signature event. Etheric-layer certification exists specifically to read and respond to Brane Resonance before it develops into Interbrane Bleed.
 
 See also: [Interbrane Bleed](/star-rangers/glossary/interbrane-bleed/), [Etheric](/star-rangers/glossary/etheric/), [Post-11 Dimensional Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/), [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/), [The Cosmic Cascade](/star-rangers/lore/cosmic-cascade/).

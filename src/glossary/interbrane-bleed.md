@@ -18,7 +18,7 @@ Each Concordant sits on its own bounded brane within that manifold. At most sepa
 
 **Graduated terminology, mapped to existing Boundary-State Classes:**
 
-- **Brane Resonance** — a faint, stable signature (Class I/II boundary states): archetypal templates from the neighbouring Concordant are detectable but do not displace local ones. This is what Etheric-based practices such as ritual work register as low-grade interference.
+- **Brane Resonance** — a faint, stable signature (Class II boundary states only; Class I stays Etherically undetectable): archetypal templates from the neighbouring Concordant are detectable but do not displace local ones. This is what Etheric-based practices such as ritual work register as low-grade interference.
 - **Interbrane Bleed** — a Class III shear event: neighbouring templates intrude far enough to compete with local ones for admissibility, producing archetypal interference events with no local physical trigger.
 
 The renaming is not cosmetic. "Etheric effects" described a symptom. "Interbrane Bleed" names the coupling that produces it — and gives Survey Corps analysts something a chronometer discrepancy can actually be diagnosed against.
