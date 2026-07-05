@@ -4,6 +4,9 @@ title: "Field Log: Rook-7, First Week at Threshold Station"
 category: "Field Logs"
 tags: [rook-7, threshold-station, boundary, field-log, detective-agency]
 description: "Rook-7's compiled log from the first week at Threshold Station. Classified by the detective agency as a preliminary site assessment."
+author: "Rook-7"
+institution: "The Detective Agency (Field Unit Network)"
+location: "Detective Agency Central Archive, Earth — synced from Rook-7's field-unit storage via the next Star Rangers courier run out of Threshold Station"
 ---
 
 **DETECTIVE AGENCY — FIELD UNIT LOG**

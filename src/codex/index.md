@@ -11,17 +11,20 @@ description: "In-universe documents, edicts, logs, and annotated records from St
 {% set codexEntries = collections.codex %}
 {% if codexEntries.length %}
 <div class="codex-grid">
-  {% for entry in codexEntries %}
-  <a class="codex-card" href="/star-rangers{{ entry.url }}">
-    {% if entry.data.image %}
-    <img class="codex-card__thumb" src="/star-rangers/images/codex/{{ entry.data.image }}" alt="{{ entry.data.image_alt | default(entry.data.title) }}" />
-    {% endif %}
-    {% if entry.data.category %}
-    <p class="codex-card__category">{{ entry.data.category }}</p>
-    {% endif %}
-    <h2 class="codex-card__title">{{ entry.data.title }}</h2>
-  </a>
-  {% endfor %}
+{% for entry in codexEntries %}
+<a class="codex-card" href="/star-rangers{{ entry.url }}">
+{% if entry.data.image %}
+<img class="codex-card__thumb" src="/star-rangers/images/codex/{{ entry.data.image }}" alt="{{ entry.data.image_alt | default(entry.data.title) }}" />
+{% endif %}
+{% if entry.data.category %}
+<p class="codex-card__category">{{ entry.data.category }}</p>
+{% endif %}
+<h2 class="codex-card__title">{{ entry.data.title }}</h2>
+{% if entry.data.institution %}
+<p class="codex-card__institution">{{ entry.data.institution }}</p>
+{% endif %}
+</a>
+{% endfor %}
 </div>
 {% else %}
 <p class="page-intro">No codex entries published yet.</p>

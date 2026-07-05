@@ -22,7 +22,7 @@ Departure was unauthorised and, by design, unconfirmed. The Imperium's standing 
 
 ## Arrival and Settlement
 
-The six arks separated during transit and settled independently across a loose cluster of systems, each ship's cooperative choosing its own destination as survey data came in. Contact between the settled worlds was intermittent for nearly two centuries, sustained mostly through slower-than-light relay beacons rather than travel.
+The six arks separated during transit and settled independently across a loose cluster of systems — including the Mannán System ([Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/)) and the Avallach System ([Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/)) — each ship's cooperative choosing its own destination as survey data came in. Contact between the settled worlds was intermittent for nearly two centuries, sustained mostly through slower-than-light relay beacons rather than travel.
 
 The **Celtic Union** itself was not declared until the settled worlds had grown enough to need shared protocols for trade, defence, and disputed claims — a confederal charter drafted world-by-world over roughly thirty years and ratified in full only once all six settlements had signed.
 

@@ -72,9 +72,17 @@ The charter's fiercest arguments centered less on what the Star Rangers could do
 
 **No planetary or large-habitat jurisdiction.** The Star Rangers have no jurisdiction on planets or within self-governing orbital habitats above the defined population threshold. They may enter only by invitation and must leave when that invitation is withdrawn. Their domain is the space between: open space, boundary zones, unincorporated installations, and unguided fold-proximate environments.
 
+**Trusted courier of last resort.** No channel carries information faster than a physical transit — there is no faster-than-light communication, only faster-than-light travel. That leaves every government, faction, and unaffiliated world dependent on whoever is willing to carry a message or a data cache between systems, and any factional courier is assumed to read, delay, or favor what it carries. The Star Rangers' unconditional neutrality makes them the one carrier both sides of a dispute will trust with the same package. This is not a formal charter clause; it is a role the Rangers grew into because ships already running fold routes for boundary work had the reach, and neutrality none of the alternatives could offer.
+
 The SSDC objected that these limits would create dangerous operational gaps. Outer-station delegates answered that the alternative—a boundary-operations body with unrestricted right of entry—would simply be the MSC under better branding.
 
 The limits stayed.
+
+## Older Than the Charter
+
+Solar System political record files the Star Rangers alongside the USC, the Imperium, and the MSC — predecessor and successor institutions in one continuous list. That filing is administratively convenient and substantively wrong. The Rangers are not a faction that replaced the ones before it. They are the modern operational chapter of the [Fellowship of Light](/star-rangers/lore/fellowship-of-light/), an order that was tending boundary places under a different name generations before the USC had a charter to fail.
+
+The 2723 charter gave that older vocation legal standing, a budget mechanism, and jurisdiction limits. It did not invent the vocation, and it is not the reason the Rangers function as a trusted universal broker rather than a faction with an angle. That reason is older than the paperwork.
 
 ## What the Star Rangers Inherited
 

@@ -4,11 +4,15 @@ title: "Survey Corps Boundary Monitoring Protocol — Threshold Class Stations"
 category: "Official Documents"
 tags: [survey-corps, protocol, boundary, threshold-station, official]
 description: "The official Survey Corps protocol for boundary monitoring at Threshold-class stations. Issued Year -15."
+author: "Chief Surveyor Wren Ansell"
+institution: "Survey Corps — Star Rangers"
+location: "Survey Corps Standards Office, Earth (master copy); mirrored to every Threshold-class station by courier update"
 ---
 
 **SURVEY CORPS**
 **BOUNDARY MONITORING PROTOCOL**
 **CLASS: THRESHOLD STATIONS**
+**Issuing Officer:** Chief Surveyor Wren Ansell, Survey Corps Standards Office
 **Issued:** Year -15
 **Current version:** 2.3
 

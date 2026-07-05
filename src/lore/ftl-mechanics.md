@@ -65,6 +65,7 @@ This does not make impossible transits possible. A valid corridor still requires
 - FTL is not teleportation magic.
 - FTL does not grant immunity to causality.
 - FTL does not permit hierarchy bypass.
+- FTL channels transit matter; they do not carry standalone information. There is no faster-than-light communication channel. A message between two points reaches its destination no faster than a physical transit (a vessel, drone, or courier making the same corridor/fold crossing) or, absent that, ordinary slower-than-light signal propagation. Distant institutions and archives are therefore always working from a record that is, at minimum, transit-lagged — sometimes by decades.
 
 ## Failure Modes
 

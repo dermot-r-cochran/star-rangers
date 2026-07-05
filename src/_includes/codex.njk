@@ -16,6 +16,16 @@ layout: base.njk
     {% if category %}
     <p class="codex-entry__category">Category: <strong>{{ category }}</strong></p>
     {% endif %}
+    {% if author or institution %}
+    <p class="codex-entry__byline">
+      {% if author %}Author: <strong>{{ author }}</strong>{% endif %}
+      {% if author and institution %} — {% endif %}
+      {% if institution %}Institution: <strong>{{ institution }}</strong>{% endif %}
+    </p>
+    {% endif %}
+    {% if location %}
+    <p class="codex-entry__byline">Physical record: <strong>{{ location }}</strong></p>
+    {% endif %}
     {% if tags and tags.length %}
     <ul class="chapter-tags" aria-label="Tags" role="list">
       {% for tag in tags %}

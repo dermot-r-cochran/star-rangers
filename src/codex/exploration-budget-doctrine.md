@@ -4,10 +4,14 @@ title: "Codex: Exploration Budget (EB) Doctrine"
 category: "Institutional Doctrine"
 tags: [exploration-budget, entropy, auc, cei, doctrine, governance, kernel-accords]
 description: "The doctrine superseding the original Allocation Units of Cognition ledger, reframing novelty generation as an accounted trade between entropy, variability, and risk."
+author: "Dr. Senna Okoye"
+institution: "AI Governance Commission — Doctrine Office"
+location: "AI Governance Commission Archive, Earth"
 ---
 
 **CONCORDANT GOVERNANCE ARCHIVE**
 **DOCTRINE RECORD: EXPLORATION BUDGET (EB)**
+**Drafting Officer:** Dr. Senna Okoye, AI Governance Commission
 **Supersedes:** Allocation Units of Cognition ledger, narrow-scope version
 **Issued:** 2701 UCSD, in the doctrinal wake of the [Kernel Accords](/star-rangers/lore/ai-safety-kernel/) (ratified 2694 UCSD)
 **Status:** In force
@@ -69,4 +73,4 @@ Doctrine does not seek zero entropy. Doctrine seeks the minimum contingent entro
 
 ---
 
-*Archivist's note, added during 2826 UCSD archive pass: Field offices still receive complaints that EB "just renamed AUC and made it philosophical." The Doctrine Office's standing reply is on file and has not changed in over a century: renaming was not the point. Accounting for the contingent share of harm was.*
+*Archivist's note (S.), added during the 2826 UCSD archive pass: Field offices still receive complaints that EB "just renamed AUC and made it philosophical." The Doctrine Office's standing reply is on file and has not changed in over a century: renaming was not the point. Accounting for the contingent share of harm was.*

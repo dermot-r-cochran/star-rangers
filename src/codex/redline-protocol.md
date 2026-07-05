@@ -4,10 +4,14 @@ title: "Redline Protocol — Variability Governance"
 category: "Official Documents"
 tags: [redline-protocol, exploration-budget, governance, risk, kernel-accords]
 description: "The operational protocol governing when a generative system's risk growth must trigger a shift from acceleration to containment."
+author: "Dr. Kwame Reyes-Osei"
+institution: "AI Governance Commission — Doctrine Office"
+location: "AI Governance Commission Archive, Earth"
 ---
 
 **CONCORDANT GOVERNANCE ARCHIVE**
 **PROTOCOL: REDLINE — VARIABILITY GOVERNANCE**
+**Drafting Officer:** Dr. Kwame Reyes-Osei, Contingency Division, AI Governance Commission
 **Issued under:** [Exploration Budget (EB) Doctrine](/star-rangers/codex/exploration-budget-doctrine/)
 **Authority:** Doctrine Office, exercised consistently with the [Kernel Accords](/star-rangers/lore/ai-safety-kernel/) invariant hierarchy
 **Issued:** 2704 UCSD
@@ -77,4 +81,4 @@ Policy failure begins when this question is not measured.
 
 ---
 
-*Clerk annotation, 2826 UCSD archive pass: This protocol has been invoked on record eleven times since ratification. In nine of eleven cases, the triggering condition was Trigger 3 — an incentive loop, not a technical failure.*
+*Archivist's note (S.), 2826 UCSD archive pass: This protocol has been invoked on record eleven times since ratification. In nine of eleven cases, the triggering condition was Trigger 3 — an incentive loop, not a technical failure.*

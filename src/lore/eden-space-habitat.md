@@ -4,6 +4,9 @@ title: "Eden Space Habitat"
 category: "Locations"
 tags: [eden, space-habitat, fold-route, msc, history, formation, boundary]
 description: "Eden Space Habitat: built in the wrong place for the right reasons, and accidentally positioned near one of the Solar System's first confirmed natural higher-dimensional fold routes."
+galaxy: "Milky Way"
+system: "Sol System"
+locationType: "Habitat"
 ---
 
 Eden was built to be forgettable: a civilian habitat set where supply lines were steady and traffic was thin. Then its instruments began to disagree with the sky.

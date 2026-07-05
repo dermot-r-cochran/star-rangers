@@ -4,6 +4,9 @@ title: "Maintenance Log Extract — Dock Seven Chronometers, Day 49"
 category: "Maintenance Records"
 tags: [threshold-station, maintenance-log, chronometers, dock-seven, boundary-anomaly]
 description: "Survey maintenance extract from Day 49 documenting the return of the Dock Seven chronometer discrepancy."
+author: "Technician N. Isern"
+institution: "Threshold Station Maintenance Division"
+location: "Threshold Station Maintenance Division Archive"
 ---
 
 **THRESHOLD STATION — MAINTENANCE DIVISION**
@@ -45,4 +48,4 @@ Filed for manager review with recommendation to reopen Incident Report 001 and r
 
 ---
 
-*Clerk annotation added during 2826 UCSD archive pass: This entry is the earliest surviving maintenance proof that the Day 47 closure determination was operationally unsound.*
+*Archivist's note (S.), added during the 2826 UCSD archive pass: This entry is the earliest surviving maintenance proof that the Day 47 closure determination was operationally unsound.*
