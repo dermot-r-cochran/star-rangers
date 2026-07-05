@@ -39,7 +39,7 @@ Legacy AUC reserves remain in circulation, but generation rates approach asympto
 
 See:
 - [Creative Entropy Framework](/star-rangers/lore/creative-entropy-framework/)
-- [AI Usage Credits (AUC)](/star-rangers/lore/ai-usage-credits/)
+- [Allocation Units of Cognition (AUC)](/star-rangers/lore/ai-usage-credits/)
 
 ## Governance: Role of Archons (Static Synod)
 

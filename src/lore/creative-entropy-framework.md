@@ -71,12 +71,12 @@ Typical lifecycle pattern:
 4. **Horizon approach:** novelty debt rises; closure events increase.
 5. **Post-horizon phase:** static administration, anomaly monitoring, archival continuity.
 
-## CEI and AI Usage Credits (AUC)
+## CEI and Allocation Units of Cognition (AUC)
 
 The AUC economy follows CEI.
-Higher novelty contribution yields stronger [AI Usage Credits (AUC)](/star-rangers/glossary/ai-usage-credits-auc/).
+Higher novelty contribution yields stronger [Allocation Units of Cognition (AUC)](/star-rangers/glossary/ai-usage-credits-auc/).
 
 See also:
-- [AI Usage Credits (AUC)](/star-rangers/lore/ai-usage-credits/)
+- [Allocation Units of Cognition (AUC)](/star-rangers/lore/ai-usage-credits/)
 - [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding-system/)
 - [Threnos-Ω: Post-Entropy Universe](/star-rangers/lore/universes/threnos-omega/)

@@ -65,7 +65,7 @@ Noögenic seeding is coupled to [Creative Entropy Framework](/star-rangers/lore/
 - Post-horizon universes can preserve existing noöseeds but generate few new ones.
 
 AUC relation:
-- Novelty-generating minds increase [AI Usage Credits (AUC)](/star-rangers/glossary/ai-usage-credits-auc/) allocation.
+- Novelty-generating minds increase [Allocation Units of Cognition (AUC)](/star-rangers/glossary/ai-usage-credits-auc/) allocation.
 - High-AUC systems often become seed incubation environments.
 
 ## Operational Constraints

@@ -1,6 +1,6 @@
 ---
 layout: lore-entry.njk
-title: "AI Usage Credits (AUC)"
+title: "Allocation Units of Cognition (AUC)"
 category: "Economics"
 tags: [auc, ai-usage-credits, economics, cei, novelty, noogenic]
 description: "Economic protocol for allocating intelligent computation capacity according to measurable novelty contribution."
@@ -8,7 +8,7 @@ description: "Economic protocol for allocating intelligent computation capacity 
 
 AUC ledgers glow brightest in young systems, when new ideas are still arriving faster than institutions can file them. That glow is counted, traded, and argued over because cognition itself is scarce infrastructure.
 
-**AI Usage Credits (AUC)** are the canonical allocation unit for intelligent computation capacity. They regulate access to high-grade cognitive infrastructure for sentient and synthetic participants alike.
+**Allocation Units of Cognition (AUC)** are the canonical allocation unit for intelligent computation capacity. They regulate access to high-grade cognitive infrastructure for sentient and synthetic participants alike.
 
 ## Definition
 
