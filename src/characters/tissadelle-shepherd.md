@@ -37,6 +37,6 @@ Her relationship to Karla Wender develops across the early seasons from distant 
 
 ## Before the Charter
 
-Roughly a year before her cadet intake, Shepherd sang and wrote for [Slipwave](/star-rangers/glossary/slipwave/), a small band on Eden Space Habitat's civilian arts circuit. The band never recorded a studio album and never played anywhere Shepherd would later call a stage. One dock-circuit recording survived and outlasted the band itself, circulating among cadet cohorts as the [Star Rangers Anthem](/star-rangers/codex/star-rangers-anthem/) — unofficially, and without her ever confirming or denying authorship in public.
+Roughly a year before her cadet intake, Shepherd sang and wrote for [Slipwave](/star-rangers/glossary/slipwave/), a small band on Eden Space Habitat's civilian arts circuit. The band never recorded a studio album and never played anywhere Shepherd would later call a stage. Two dock-circuit recordings survived and outlasted the band itself: the [Star Rangers Anthem](/star-rangers/codex/star-rangers-anthem/), which cadet cohorts adopted at musters unofficially, and [Ballad of the Stars](/star-rangers/codex/ballad-of-the-stars/), a slower companion recording that circulates quietly rather than being sung — neither confirmed nor denied as hers in public.
 
 She does not bring it up. She also does not leave the room when someone else does.
