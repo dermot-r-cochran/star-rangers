@@ -53,12 +53,16 @@ ADMIN_EMAIL=""
 # shellcheck disable=SC1091
 [ -f "$REPOSITORY_ROOT/deploy.conf" ] && . "$REPOSITORY_ROOT/deploy.conf"
 
-# CHARACTERS/TOPICS are read via `process.env` inside the Eleventy Node
-# build below, which runs as a *child process* - sourcing deploy.conf only
-# sets them as local shell variables, so they must still be `export`ed for
-# Node to see them. CPANEL_USER/THEME/ADMIN_EMAIL are only ever read back
-# within this same shell (never by a subprocess), so they don't need it.
-export CHARACTERS TOPICS
+# CHARACTERS/TOPICS/THEME are read via `process.env` inside the Eleventy
+# Node build below, which runs as a *child process* - sourcing deploy.conf
+# only sets them as local shell variables, so they must still be
+# `export`ed for Node to see them. THEME still also drives the post-build
+# CSS swap in step 5 below (that part never needed the export - it's this
+# same shell reading its own variable) - the export here is only so
+# src/index.md's per-theme hero copy resolves during the build itself.
+# CPANEL_USER/ADMIN_EMAIL are only ever read back within this same shell
+# (never by a subprocess), so they don't need it.
+export CHARACTERS TOPICS THEME
 
 {
   printf '=== cPanel deploy started: %s (user=%s theme=%s) ===\n' \

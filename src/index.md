@@ -6,8 +6,16 @@ description: "Star Rangers — an interactive science-fantasy novel grounded in 
 <section class="home-hero">
   <h1 class="home-hero__title">✦ Star Rangers</h1>
   <p class="home-hero__subtitle">
+    {% if theme == "fellowship" %}
+    A station clock is forty seconds wrong, and it has stayed wrong for eleven years. Long before any charter named them Rangers, an older order kept vigil at boundaries like this one. Star Rangers follows the people who inherited that watch — measuring the drift, guarding the public record, and deciding what light still survives across the Five Layers, multiple <a href="/star-rangers/glossary/concordant/">Concordants</a>, and multiple points of view.
+    {% elif theme == "starquest" %}
+    Forty seconds of drift. Eleven years unexplained. At the edge of the known, that's not a rounding error — it's a warning. Star Rangers follows the crews sent to chase it down: measuring the boundary, guarding the record, and racing to decide what's true before the Five Layers, the <a href="/star-rangers/glossary/concordant/">Concordants</a>, and every conflicting witness bury the answer for good.
+    {% elif theme == "pets" %}
+    A station clock is forty seconds wrong, and it has stayed wrong for eleven years — a small enough error that everyone assumed someone else was watching it. Star Rangers follows the people who finally did: measuring the drift, guarding the public record, and working out what truth still holds across the Five Layers, multiple <a href="/star-rangers/glossary/concordant/">Concordants</a>, and multiple points of view.
+    {% else %}
     A station clock is forty seconds wrong, and it has stayed wrong for eleven years.
     Star Rangers follows the people ordered to measure the drift, guard the public record, and decide what truth still survives across the Five Layers, multiple <a href="/star-rangers/glossary/concordant/">Concordants</a>, and multiple points of view.
+    {% endif %}
   </p>
   <a class="home-hero__cta" href="/star-rangers/seasons/">Begin Reading</a>
 </section>
