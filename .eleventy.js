@@ -30,6 +30,13 @@ function isContentIncluded(data, filter) {
 module.exports = function(eleventyConfig) {
   const contentFilter = getContentFilter();
 
+  // Mirrors the CHARACTERS/TOPICS pattern above: deploy.conf's THEME value
+  // (see scripts/cpanel-deploy.sh) is exported to this Node process so
+  // templates can vary copy per deployment target, not just swap CSS.
+  // Falls back to "default" for any build that never sets THEME (local
+  // dev, CI, GitHub Pages).
+  eleventyConfig.addGlobalData("theme", String(process.env.THEME || "default").trim().toLowerCase());
+
   // Wires up the :::pov / :::::scene custom containers used in chapter
   // content (see lib/markdown-containers.js) - without this, markdown-it
   // has no idea what those fences mean and renders them as literal text.
