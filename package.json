@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dermot-cochran-ul/star-rangers.git"
+    "url": "git+https://github.com/dermot-r-cochran/star-rangers.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/dermot-cochran-ul/star-rangers/issues"
+    "url": "https://github.com/dermot-r-cochran/star-rangers/issues"
   },
-  "homepage": "https://github.com/dermot-cochran-ul/star-rangers#readme",
+  "homepage": "https://github.com/dermot-r-cochran/star-rangers#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.5",
     "@11ty/eleventy-navigation": "^1.0.5",

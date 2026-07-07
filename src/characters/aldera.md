@@ -8,7 +8,7 @@ status: Active
 aliases: []
 tags: [detective-agency, cat, cyber-enhanced, boundary, causeway, season-1]
 description: "A cyber-enhanced cat and detective agency field unit. Highly attuned to asymmetry, consent erosion, and obligation loops."
-image: /images/characters/aldera.png
+image: aldera.png
 image_alt: "Aldera, a long-haired blue-furred cat with luminous markings, sitting on a moss-covered branch in a glowing forest surrounded by butterflies."
 ---
 
