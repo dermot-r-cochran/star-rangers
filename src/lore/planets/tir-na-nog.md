@@ -23,7 +23,33 @@ The native flora runs heavily toward pale, wide-petalled flowering plants in the
 
 ![A cluster of pale, wide-petalled native flowers, close enough to Earth flora that colonists never renamed them](/star-rangers/images/lore/white-flower-macro.jpg)
 
+Not every lowland bloom stayed pale. Cultivar strains bred from the same root stock run to deep pink and near-crimson under cultivation, and botanists still argue over how much of the colour shift is selective breeding versus the plant's own latent range finally expressing itself in managed soil.
+
+![A vivid pink native flower in bloom, bred from the same lowland root stock as the paler wild strain](/star-rangers/images/lore/pink-blossom-macro.jpg)
+
+![A deep crimson native flower with a pale, star-shaped stamen cluster at its centre](/star-rangers/images/lore/crimson-blossom-macro.jpg)
+
 Native wetland fauna converges just as closely: dark-feathered wading birds work the reed margins of every lowland waterway on the planet, preening on driftwood in a manner early colonists described, in their own field notes, as "indistinguishable from home at ten paces, and unmistakably not at three."
+
+![A tall, dark-feathered wading bird hunting the shallows of a lowland wetland](/star-rangers/images/lore/wading-heron.jpg)
+
+Bare-branched treelines ring most of the planet's lowland waterways for a good third of the local year, their reflections doubling the wetland's already still, mirror-flat light.
+
+![Bare wetland trees reflected in still water at dusk](/star-rangers/images/lore/wetland-treeline-reflection.jpg)
+
+Smaller shorebirds work the tidal flats and standing water alongside the wading species, unbothered by the larger birds hunting nearby.
+
+![A small pale shorebird standing on a rock at the water's edge](/star-rangers/images/lore/gull-on-rock.jpg)
+
+## Coasts and Seasons
+
+Tír na nÓg's axial tilt runs close enough to Earth's own that the founding cooperatives kept a familiar four-season calendar rather than inventing local terminology for it. Uplands turn to gold and copper canopy in the autumn months, a shift close enough to Earth's own deciduous turn that survey botanists spent an entire field season confirming the pigment chemistry was independently evolved rather than seeded.
+
+![Golden autumn foliage in an upland woodland canopy](/star-rangers/images/lore/autumn-canopy.jpg)
+
+The planet's oceans run warmer and calmer than Earth's on average, a consequence of Mannán's slightly wider habitable-zone margin, and its coastlines are the most visited stretch of the world outside the wetland lowlands — a fact the tourism ministries of every other charter world resent openly and often.
+
+![Sunset over a calm ocean, waves breaking near the shore](/star-rangers/images/lore/coastal-sunset.jpg)
 
 ## Settlement Character
 
