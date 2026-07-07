@@ -8,7 +8,7 @@ status: Active
 aliases:
   - "Shepherd"
   - "Tiss"
-tags: [human, star-rangers, cadet, line-captain, season-1, season-5]
+tags: [human, star-rangers, cadet, line-captain, celtic-union, tir-na-nog, season-1, season-5]
 description: "Star Ranger cadet at the start of Season 1; earns the rank of Line Captain by Season 5."
 image: tissadelle-shepherd-card.png
 image_alt: "Star Rangers personnel file card for Tissadelle Shepherd, Cadet, Survey & Operations Division"
@@ -34,6 +34,12 @@ Shepherd does not mythologise the Rangers or the role. She treats the title as a
 She is aware that some situations do not have clearly available solutions. She handles this by continuing to work.
 
 Her relationship to Karla Wender develops across the early seasons from distant chain-of-command awareness to direct operational contact.
+
+## Home Ground
+
+Shepherd was born and raised on [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), the flagship world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), on a flock-holding in the Boirinn Uplands kept by her mother, Órla Shepherd, and five generations of women before her. "Shepherd" is not a Ranger affectation — it is the family's working name, older than her enlistment by a couple of centuries.
+
+By Season 5, the Union's standing information-sharing agreement with the Survey Corps gives her official reasons to return that her rank alone would not. What she notices on her own family's hillside once the uniform is off is a separate matter, and one the charter never anticipated needing to forbid.
 
 ## Before the Charter
 
