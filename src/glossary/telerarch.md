@@ -9,6 +9,7 @@ related:
   - "Worldwright"
   - "Concordant"
   - "Cosmic Cascade"
+  - "Noögenic Protouniverse"
 tags: [telearch, telerarch, cascade, enforcement, cosmology, continuity]
 ---
 
@@ -22,5 +23,6 @@ The legacy designation for this tier is **High Celestials**. In all current cano
 - Telearchs do not bypass Concordant law.
 - Telearchs must preserve continuity over local preference outcomes.
 - Telearchs cannot revise the hierarchy order.
+- A [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/) produced by a mind within one of a parent universe's Concordants remains under that parent universe's Telearch jurisdiction — and the higher Cascade strata reachable through them — until the protouniverse stabilizes its own governance.
 
 **Example:** When a boundary-zone anomaly begins affecting three adjacent Concordants at once, coordinating the Celestial response across all three is Telearch work — allocating enforcement scope and continuity budget across a scale no single Concordant's Celestials could manage alone.

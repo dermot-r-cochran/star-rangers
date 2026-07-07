@@ -7,7 +7,7 @@ short: "Legacy designation synonymous with Celestials in current canon."
 related:
   - "Celestials"
   - "High Celestials"
-  - "Telerarch"
+  - "Telearch"
   - "Concordant"
 tags: [frenar, celestials, cascade]
 ---

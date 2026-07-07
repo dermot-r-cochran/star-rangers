@@ -29,7 +29,7 @@ layout: base.njk
     <h2 class="glossary-related__heading">Related Terms</h2>
     <ul class="glossary-related__list" role="list">
       {% for term in related %}
-      <li><a href="{{ term | glossaryUrl(collections.glossary) }}">{{ term }}</a></li>
+      <li><a href="{{ term | glossaryUrl(collections.glossary, collections.lore) }}">{{ term }}</a></li>
       {% endfor %}
     </ul>
   </aside>

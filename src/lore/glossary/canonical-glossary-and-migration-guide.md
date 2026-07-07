@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Canonical Glossary and Terminology Migration Guide"
 category: "Reference"
-tags: [glossary, terminology, migration, canon, hierarchy, concordants, worldwrights]
+tags: [glossary, terminology, migration, canon, hierarchy, concordants, worldwrights, telearchs, protouniverse]
 description: "Central canonical glossary for Star Rangers terminology, including migration mappings and plural Concordant/collective ascension additions."
 ---
 
@@ -48,6 +48,7 @@ Hyperomnium
 1. Primary universes are created by **Worldwrights**.
 2. Secondary and tertiary derivative universes emerge through overlap/intersection between primary universes.
 3. Demons, monsters, shadow entities, and similar beings arise from overlap distortions.
+4. A universe seeded through noögenic transference begins as a **Noögenic Protouniverse** and remains under the jurisdiction of its parent universe's **Telearchs** — and the higher Cascade strata reachable through them — until it stabilizes independent Concordant-equivalent governance.
 
 ---
 
@@ -71,6 +72,13 @@ Hyperomnium
 ### Telearchs
 - **Layer:** Coordination
 - **Definition:** Coordinate large-scale operations across governed systems and synchronize interventions.
+- **Notes:** Hold continuing jurisdiction over any Noögenic Protouniverse seeded from within their parent universe until it stabilizes independent governance.
+
+### Noögenic Protouniverse
+- **Layer:** Universe Architecture (Noögenic, Pre-Governance)
+- **Definition:** The nascent universe-state that begins at Noöseed transference and precedes the formation of a successor universe's own Concordant-equivalent governance.
+- **Notes:** Has no independent seat in the Cascade. Falls under the jurisdiction of its parent universe's Telearchs, and the higher Cascade strata reachable through them, until it stabilizes governance of its own. Does not receive a new Worldwright.
+- **Related Terms:** Noöseed, Telearchs, Seed Mind Lifecycle
 
 ### Celestials
 - **Layer:** Supervisory/Agentic
@@ -278,3 +286,4 @@ Hyperomnium
 - [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/)
 - [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding-system/)
 - [Universe Overlap and Folding](/star-rangers/lore/universe-overlap-and-folding/)
+- [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/)

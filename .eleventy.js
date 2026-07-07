@@ -69,9 +69,11 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("zeroPad", (num) => String(num).padStart(2, "0"));
 
-  eleventyConfig.addFilter("glossaryUrl", function(term, glossaryCollection) {
-    const match = (glossaryCollection || []).find((item) => item.data.title === term);
-    return match ? match.url : "/glossary/";
+  eleventyConfig.addFilter("glossaryUrl", function(term, glossaryCollection, loreCollection) {
+    const match =
+      (glossaryCollection || []).find((item) => item.data.title === term) ||
+      (loreCollection || []).find((item) => item.data.title === term);
+    return `/star-rangers${match ? match.url : "/glossary/"}`;
   });
 
   // Groups the flat scenePovPages global data (src/_data/scenePovPages.js)

@@ -7,7 +7,7 @@ short: "Sapient meta-dimensional beings — dragons and kin — with formal Casc
 related:
   - "Cosmic Cascade"
   - "Constraint Literacy"
-  - "Telerarch"
+  - "Telearch"
   - "Celestials"
   - "Champions / Heroes (Heros)"
 tags: [levril, dragon, cascade, boundary, meta-dimensional, higher-dimensional]

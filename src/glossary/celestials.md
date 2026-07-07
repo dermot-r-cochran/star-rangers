@@ -5,7 +5,7 @@ id: celestials
 category: "Cosmic Cascade"
 short: "Operational enforcement tier below Telearchs; Frenar is a legacy synonym for this tier."
 related:
-  - "Telerarch"
+  - "Telearch"
   - "Frenar"
   - "Levril"
   - "Concordant"
