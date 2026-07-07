@@ -27,6 +27,9 @@ The story moves across stations, causeways, archives, and boundary zones in the 
     - `S01E01C02` — *The Forty-Second Discrepancy*
   - Episode 2
     - `S01E02C01` — *The Broken Causeway*
+- **Season 5**
+  - Episode 2
+    - `S05E02C01` — *What the Hill Keeps*
 
 ## Recent updates
 
