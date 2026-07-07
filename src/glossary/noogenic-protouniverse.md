@@ -8,7 +8,7 @@ related:
   - "Noöseed"
   - "Noögenic Seeding Law"
   - "Seed Mind Lifecycle"
-  - "Telerarch"
+  - "Telearch"
   - "Worldwright"
   - "Concordant"
 tags: [noogenic, protouniverse, nooseed, telearch, cascade, jurisdiction, hierarchy]

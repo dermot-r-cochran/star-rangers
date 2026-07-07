@@ -5,7 +5,7 @@ id: high-celestials
 category: "Cosmic Cascade"
 short: "Legacy designation for the Telearch tier. Canonically: High Celestials = Telearchs."
 related:
-  - "Telerarch"
+  - "Telearch"
   - "Celestials"
   - "Concordant"
 tags: [high-celestials, telearch, cascade, legacy]

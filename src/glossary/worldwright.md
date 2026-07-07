@@ -7,7 +7,7 @@ short: "The Cascade tier that establishes primary-universe coherence zones, call
 related:
   - "Concordant"
   - "Cosmic Cascade"
-  - "Telerarch"
+  - "Telearch"
   - "Boundary Zone"
 tags: [worldwright, cascade, concordant, cosmology]
 ---

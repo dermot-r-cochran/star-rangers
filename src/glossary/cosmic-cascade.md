@@ -6,7 +6,7 @@ category: "Cosmology"
 short: "The fixed hierarchy of causal authority in the Star Rangers universe, from Hyperomnium down to Champions/Heroes. Ontological, not political."
 related:
   - "Hyperomnium"
-  - "Telerarch"
+  - "Telearch"
   - "Celestials"
   - "Levril"
   - "Champions / Heroes (Heros)"
