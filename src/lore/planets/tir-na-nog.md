@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Tír na nÓg"
 category: "Locations"
-tags: [tir-na-nog, celtic-union, biosphere-planet, locations, human-compatible]
+tags: [tir-na-nog, celtic-union, biosphere-planet, locations, human-compatible, boirinn-uplands]
 description: "The flagship world of the Celtic Union of Planets — a rare naturally human-compatible biosphere world, and the Union's cultural and diplomatic capital."
 image: "moorhen-wetland.jpg"
 image_alt: "A dark waterbird preening on a floating log in a still wetland"
@@ -50,6 +50,18 @@ Tír na nÓg's axial tilt runs close enough to Earth's own that the founding coo
 The planet's oceans run warmer and calmer than Earth's on average, a consequence of Mannán's slightly wider habitable-zone margin, and its coastlines are the most visited stretch of the world outside the wetland lowlands — a fact the tourism ministries of every other charter world resent openly and often.
 
 ![Sunset over a calm ocean, waves breaking near the shore](/star-rangers/images/lore/coastal-sunset.jpg)
+
+## The Boirinn Uplands
+
+Inland from the coasts, the ground climbs into stony, lichen-hung uplands the settlers named Boirinn — an old word for a rocky place, kept because nothing else fit. Low-canopy native trees, bent and silvered with age, hold the slopes above ground cover that turns rust-red for a good part of the local year; conifer stands run the higher ridgelines, and winter mist sits in the folds between them for days at a stretch.
+
+![Bare, lichen-covered trees over rust-red ground cover on a misty upland slope, conifer plantation along the ridge above](/star-rangers/images/lore/boirinn-uplands-mist.jpg)
+
+The same weather that keeps the mist standing feeds the escarpment's watercourses. Winter rain off the high ground comes down hard through narrow rock chutes, and the falls run loud enough in spate to be heard from the flock-holdings on the slopes below well before they're seen.
+
+![A wide waterfall in spate, breaking white over dark, tiered rock](/star-rangers/images/lore/boirinn-uplands-waterfall.jpg)
+
+Boirinn is grazing country rather than farmland — cooperative flock-holdings worked by the same handful of families for generations, herding livestock descended from Currach Fleet stock across ground too stony and too wet for row crops. It is not the world's most visited district, and the families who hold it are, on the whole, content to keep it that way.
 
 ## Settlement Character
 
