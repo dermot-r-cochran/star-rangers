@@ -80,10 +80,12 @@ Telearchs allocate enforcement scope and continuity budgets across multiple Conc
 ### Constraints
 - Do not bypass Concordant law.
 - Must preserve continuity over local preference outcomes.
+- Retain jurisdiction over any noögenic protouniverse seeded from within their parent universe — and the higher Cascade strata reachable through them — until that protouniverse stabilizes independent governance.
 
 ### Observable Effects on Time-Bound Entities
 - Multi-site synchronisation of seemingly unrelated anomalies.
 - Delayed but consistent correction of illegal cross-boundary manipulations.
+- Continuity assessments for a still-forming noögenic protouniverse route to its parent universe's Telearchs, since the protouniverse has no native authority of its own yet.
 
 ## Celestials (Frenar)
 

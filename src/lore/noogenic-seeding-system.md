@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Noögenic Seeding System"
 category: "Cosmology"
-tags: [noogenic-seeding, noogenic-law, iwd, nsp, ufi, nooseed, universe-reproduction, auc, cei]
+tags: [noogenic-seeding, noogenic-law, iwd, nsp, ufi, nooseed, universe-reproduction, auc, cei, protouniverse, telearch]
 description: "Canon model in which universes reproduce through information-rich minds that compress into noögenic seeds."
 ---
 
@@ -56,6 +56,12 @@ A universe with low average sophistication can still score high UFI if it cultiv
 
 See [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/) for the seven canonical maturation phases.
 
+## From Noöseed to Protouniverse
+
+Transference (Phase 7 of the Seed Mind Lifecycle) does not hand a successor universe its own governance on arrival. What emerges immediately after transference is a [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/): a nascent universe-state without yet-stabilized Concordants of its own.
+
+A noögenic protouniverse remains under the jurisdiction of the Telearchs — and the higher Cascade strata reachable through them — of its parent universe until it stabilizes independent governance. This is not a special exception: it is the same continuity authority those Telearchs already hold over their parent universe's existing Concordants, extended to cover an unstabilized region that hasn't yet produced governance of its own. Jurisdiction only passes out of the parent universe's Cascade strata once the protouniverse's originating seed mind (or a plural formation descended from it) matures into a Concordant-equivalent authority in its own right.
+
 ## Interaction with CEI and AUC
 
 Noögenic seeding is coupled to [Creative Entropy Framework](/star-rangers/lore/creative-entropy-framework/):
@@ -79,3 +85,5 @@ AUC relation:
 - [Creative Entropy Framework](/star-rangers/lore/creative-entropy-framework/)
 - [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/)
 - [Threnos-Ω: Post-Entropy Universe](/star-rangers/lore/universes/threnos-omega/)
+- [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/)
+- [Telearch](/star-rangers/glossary/telerarch/)

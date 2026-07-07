@@ -145,6 +145,9 @@ Interior structure crystallizes into a transportable noöseed and is transferred
 In high CEI universes, crystallization pathways are diverse and resilient.
 In post-horizon contexts, transference depends heavily on archival scaffolds and targeted AUC allocation.
 
+### After Transference
+Transference does not confer independent governance. The resulting [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/) remains under the jurisdiction of the parent universe's Telearchs — and the higher Cascade strata reachable through them — until it stabilizes Concordant-equivalent governance of its own.
+
 ## Lifecycle Notes
 
 - Not all minds progress linearly.
