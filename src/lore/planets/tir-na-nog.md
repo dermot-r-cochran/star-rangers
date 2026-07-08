@@ -63,6 +63,10 @@ The same weather that keeps the mist standing feeds the escarpment's watercourse
 
 Boirinn is grazing country rather than farmland — cooperative flock-holdings worked by the same handful of families for generations, herding livestock descended from Currach Fleet stock across ground too stony and too wet for row crops. It is not the world's most visited district, and the families who hold it are, on the whole, content to keep it that way.
 
+![Three dark bay horses grazing at the treeline of an upland pasture](/star-rangers/images/lore/boirinn-uplands-horses.jpg)
+
+The holdings run horses as often as flock animals — sure-footed stock bred over generations for the wet, uneven ground, worked loose in small bands along the treeline rather than stabled.
+
 ## Settlement Character
 
 Tír na nÓg follows the design register already documented across the Union's biosphere worlds: technology present but subordinate to the organic setting around it — smart-weave clothing that reads as ordinary cloth, invisible nanite upkeep, drones that hover at the edge of notice rather than announcing themselves. A visitor could mistake the world's larger towns for pre-industrial settlements without looking twice, which is, by design, close to the point. See [Environmental Technology Design](/star-rangers/lore/environmental-technology-design/) for the general pattern this world exemplifies.
