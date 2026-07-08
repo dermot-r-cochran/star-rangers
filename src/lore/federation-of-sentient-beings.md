@@ -1,0 +1,35 @@
+---
+layout: lore-entry.njk
+title: "The Federation of Sentient Beings"
+category: "Factions"
+tags: [federation-of-sentient-beings, faction, multi-species, cooperative, star-rangers, aspenar]
+description: "A peaceful multi-species cooperative of independently governed worlds, organised around mutual aid rather than central authority, and the Star Rangers' longest-standing external partner."
+---
+
+Most first-contact records read like negotiations. The Federation of Sentient Beings' contact record with the Star Rangers reads like a supply manifest — because that is what it was.
+
+The **Federation of Sentient Beings** is a voluntary confederation of member worlds, orbital habitats, and constituent peoples — organic, synthetic, and mixed — bound by a single working principle: any sentient being's claim to material survival and self-governance is valid on its own terms, without requiring that being to first prove itself human, humanoid, or familiar. It is not an empire, a market bloc, or a defence pact in the conventional sense, though elements of all three appear in its charter.
+
+## Origins
+
+The Federation predates the Star Rangers' contact with it by an uncertain span — its own member worlds date the founding compact differently depending on which calendar and which species' historical record is consulted, and the Federation has never insisted on reconciling them. What its member worlds agree on is the founding problem: a cluster of neighbouring systems, home to several sentient peoples with no shared biochemistry, no shared home star, and no realistic path to conquering one another, arrived independently at the same conclusion — that cooperation on trade, defence, and resource-sharing cost less than the alternative, and that no single member's internal governance was any other member's business.
+
+First contact with the Star Rangers came through the Survey Corps' fold-route mapping operations, decades after the Rangers' 2723 UCSD charter. Federation vessels had already been operating stable trade routes between member systems for longer than humanity had known fold travel existed at all. The Rangers arrived expecting to make first contact. The Federation's boundary-monitoring outposts had already logged three Ranger survey passes before anyone crossed a comms channel to say so.
+
+## Structure
+
+The Federation has no capital world and no standing executive. Authority sits with a rotating assembly of member-world delegates, weighted so that no single species or system can out-vote the rest on matters of internal governance — only on the narrow set of compact-covered issues: mutual defence, trade-lane security, resource-sharing agreements, and joint disaster response. Everything else — law, culture, biology-specific accommodation — stays with the member world.
+
+That structural modesty is deliberate and openly stated in Federation doctrine: a central authority strong enough to arbitrate between wildly different biochemistries and governance traditions would, sooner or later, be strong enough to overrule them. The Federation would rather stay weak at the centre than solve that problem by picking a winner.
+
+## Relationship with the Star Rangers
+
+Where the Celtic Union of Planets maintains a standing information-sharing agreement with the Star Rangers' Survey Corps, the Federation's relationship runs deeper and older: a standing material-support compact, renewed by assembly vote each generation, under which member worlds contribute refined materials, fabrication capacity, and fold-route survey data toward Ranger operations — the same kind of voluntary outer-station contribution the Rangers' founding charter always assumed would come from many sources, not one.
+
+The compact does not buy the Federation influence over Ranger conduct. The Rangers' unconditional neutrality applies to the Federation exactly as it applies to every government, faction, and unaffiliated world — a term the Federation's founding delegates are on record as finding entirely reasonable, since it is the same principle their own charter runs on internally.
+
+## Member Worlds
+
+Federation membership spans systems with no shared star and, in several cases, no shared biochemistry. Materially, the Federation's most significant single contributor to the Ranger support compact is [Aspenar](/star-rangers/lore/planets/aspenar/), a rocky, resource-rich world whose refined ore and alloy exports underwrite a disproportionate share of the compact's fabrication capacity. Most other member worlds remain undocumented in Solar System record outside Federation registries, pending further survey contact.
+
+See also: [Aspenar](/star-rangers/lore/planets/aspenar/), [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/).

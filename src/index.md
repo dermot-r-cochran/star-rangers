@@ -40,7 +40,7 @@ description: "Star Rangers — an interactive science-fantasy novel grounded in 
     <a class="home-card" href="/star-rangers/lore/">
       <span class="home-card__icon" aria-hidden="true">🌌</span>
       <h2 class="home-card__title">Lore</h2>
-      <p class="home-card__desc">Map the layers of reality, the civic systems, and the old cosmological pressures shaping every decision.</p>
+      <p class="home-card__desc">{% if latestLore %}{{ latestLore.excerpt }}{% else %}Map the layers of reality, the civic systems, and the old cosmological pressures shaping every decision.{% endif %}</p>
     </a>
     <a class="home-card" href="/star-rangers/glossary/">
       <span class="home-card__icon" aria-hidden="true">📚</span>
