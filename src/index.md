@@ -16,6 +16,7 @@ description: "Star Rangers — an interactive science-fantasy novel grounded in 
     A station clock is forty seconds wrong, and it has stayed wrong for eleven years.
     Star Rangers follows the people ordered to measure the drift, guard the public record, and decide what truth still survives across the Five Layers, multiple <a href="/star-rangers/glossary/concordant/">Concordants</a>, and multiple points of view.
     {% endif %}
+    {% if latestLore %} Newest from the record: <a href="/star-rangers{{ latestLore.url }}">{{ latestLore.title }}</a> — {{ latestLore.excerpt }}{% endif %}
   </p>
   <a class="home-hero__cta" href="/star-rangers/seasons/">Begin Reading</a>
 </section>
