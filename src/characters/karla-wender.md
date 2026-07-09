@@ -3,18 +3,18 @@ layout: character.njk
 title: "Karla Wender"
 id: wender
 species: Human
-role: Chief Ranger, Pilot Section (Season 1 start)
+role: Chief Pilot, Pilot Section (Season 1 start)
 status: Active
 aliases:
   - "Wender"
   - "High Captain Wender"
-tags: [human, star-rangers, chief-ranger, pilot-section, high-captain, season-1]
-description: "Chief Ranger of the pilot section at the start of Season 1; later known as High Captain Wender."
+tags: [human, star-rangers, chief-pilot, pilot-section, high-captain, season-1]
+description: "Chief Pilot of the pilot section at the start of Season 1; later known as High Captain Wender."
 ---
 
 The pilot section works in conditions where most navigation instruments fail: boundary-proximate transit, folding-adjacent approach corridors, edge conditions at [Concordant](/star-rangers/glossary/concordant/) overlap zones. Wender commands it.
 
-She begins Season 1 holding the rank of Chief Ranger — the working title carried by a [Chief](/star-rangers/lore/star-rangers-command-hierarchy/) commanding a full operational section, and a senior operational rank carrying command authority over Rangers within the section's scope. The later rank of High Captain is part of her arc across the series. The full progression between them — including whether she passed through Starwarden, Starwarden First Officer, Line Captain, and Star Captain, or was advanced out of turn — remains to be established in story.
+She begins Season 1 holding the rank of Chief Pilot — the working title carried by a [Chief](/star-rangers/lore/star-rangers-command-hierarchy/) on the piloting and navigation track, commanding the pilot section, and a senior operational rank carrying command authority over Rangers within the section's scope. The later rank of High Captain is part of her arc across the series. The full progression between them — including whether she passed through Starwarden, Starwarden First Officer, Line Captain, and Star Captain, or was advanced out of turn — remains to be established in story.
 
 She does not perform authority. She carries it. These are different postures. Rangers who mistake quietness for uncertainty about her tend to correct that reading quickly and once.
 
@@ -22,10 +22,10 @@ Her command experience in boundary-edge conditions has given her a precise skill
 
 ## Rank Progression
 
-- **Season 1:** Chief Ranger, pilot section
+- **Season 1:** Chief Pilot, pilot section
 - **Later canon:** High Captain (progression details to be established in story)
 
-See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for the full ladder Chief Ranger and High Captain sit on.
+See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for the full ladder Chief Pilot and High Captain sit on.
 
 ## Character Notes
 
