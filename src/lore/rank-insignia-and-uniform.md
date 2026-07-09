@@ -24,18 +24,16 @@ Dress uniform exists for ceremonial and hearing-room occasions and differs from 
 
 ## Rank Tabs
 
-Rank is marked with a bar-count tab, plain-finished, in a color keyed to service track rather than corps loyalty — the Rangers wanted a mark that told you *what kind of authority this person holds*, not *which department they answer to on a chart nobody outside the Rangers has seen*.
+Rank is marked with a tab or plate, plain-finished, in a color keyed to service track rather than corps loyalty — the Rangers wanted a mark that told you *what kind of authority this person holds*, not *which department they answer to on a chart nobody outside the Rangers has seen*. The full ladder itself — every tier's name and what it actually authorizes, from Novice to the Triumvirate — lives in [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/). This page covers how that same ladder gets marked on a uniform.
 
-| Rank | Tab | Notes |
-|---|---|---|
-| Cadet | one outlined bar | Training and first operational exposure. Not yet certified to command a deployment. |
-| Ranger | one filled bar | Graduated cadet; qualified for independent field assignment. |
-| Senior Ranger | two filled bars | Experience threshold reached; may lead a sub-team under a Line Captain's deployment. |
-| Line Captain | three filled bars | Commands a fielded line — a deployed team or single boundary-proximate operation — and answers personally for what it does there. [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/) holds this rank by Season 5. |
-| Chief Ranger | bar-and-ring | Commands a full section — a standing operational unit larger than any one deployment, such as the Pilot Section. [Karla Wender](/star-rangers/characters/karla-wender/) holds this rank at Season 1's start. |
-| High Captain | bar-and-double-ring | Senior operational command spanning multiple sections or an installation. Wender's later rank; the path between Chief Ranger and High Captain is not yet dramatized in-story. |
+The marking logic follows the ladder's own two-lineage structure:
 
-The ladder above is the command track — it governs who may order a deployment and who is accountable for it. It is not the only track. Corps-specific senior titles, such as the Survey Corps' **Chief Surveyor** (a standards-and-doctrine authority, held by [Wren Ansell](/star-rangers/codex/survey-corps-protocol/) at the Standards Office) or the [Safety Corps'](/star-rangers/lore/star-rangers-safety-corps/) senior certifying officers, sit outside the bar-count system entirely. A Chief Surveyor outranks no one on a bar count and can still overrule a Line Captain's instrument-certification decision, because the two ranks answer different questions.
+- **Novice through Section Lead** — the certification ladder's junior and mid tiers — carry a plain bar-count tab, one additional bar per tier promoted.
+- **Chief**, the hinge rank, carries a bar-and-ring tab, and is the highest tier where a specialization still changes the working title worn alongside it: a Chief on the piloting and navigation track is addressed as **Chief Pilot** — the title [Karla Wender](/star-rangers/characters/karla-wender/) holds at Season 1's start, commanding the pilot section — a Chief on a general operational section as **Chief Ranger**, and a Chief on the boundary-safety track as **senior chief warden officer**. Same tab, same seniority, different track color insert.
+- **Starwarden through High Captain** — the command ladder — carry ring-based marks with no specialization insert at all: one additional ring per tier, from a Starwarden's single ring up through a High Captain's flag-ring cluster. Specialization duty-titles do not apply above Chief; the command ladder marks *what post someone holds*, not *what track they climbed to get there*. [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/) wears a Line Captain's tab by Season 5. Wender wears a High Captain's tab in later canon — no track qualifier attached to either, and the path she took between Chief Pilot and High Captain is not yet dramatized in-story.
+- **Council of High Captains and Triumvirate** carry a seal rather than a tab, since both are seated bodies rather than a personal rank a single Ranger is promoted into.
+
+Corps-specific senior titles, such as the Survey Corps' **Chief Surveyor** (a standards-and-doctrine authority, held by [Wren Ansell](/star-rangers/codex/survey-corps-protocol/) at the Standards Office) or the [Safety Corps'](/star-rangers/lore/star-rangers-safety-corps/) senior certifying officers, sit outside this tab system entirely — they mark an office, not a rung on the ladder. A Chief Surveyor outranks no one on the tab count and can still overrule a Line Captain's instrument-certification decision, because tab seniority and subject-matter authority answer different questions.
 
 ## Certification Marks
 

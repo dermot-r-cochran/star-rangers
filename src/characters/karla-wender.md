@@ -24,7 +24,7 @@ Her command experience in boundary-edge conditions has given her a precise skill
 
 See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-and-uniform/) for what each rank actually authorises.
 
-- **Season 1:** Chief Ranger, pilot section
+- **Season 1:** Chief Pilot, pilot section
 - **Later canon:** High Captain (progression details to be established in story)
 
 See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for the full ladder Chief Pilot and High Captain sit on.
