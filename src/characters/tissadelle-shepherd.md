@@ -44,9 +44,9 @@ Her relationship to Karla Wender develops across the early seasons from distant 
 
 ## The Sentinel Signal
 
-Somewhere between her Officer and Chief years, reviewing archived Hegemony telemetry from [the Sentinel](/star-rangers/lore/planets/sentinel/) under a routine Survey Corps data-exchange, Shepherd did what pattern-recognition software had not been built to do: she stopped reading the world's unclassifiable EM pulse as data and ran it as audio. What generations of automated classifiers had filed as noise because it matched no known protocol, she flagged within one listen as something with phrasing, repetition, and variation — considerably harder to file, and considerably harder to ignore.
+Season 3, working a backlog of archived Hegemony telemetry from [the Sentinel](/star-rangers/lore/planets/sentinel/) under a routine Survey Corps data-exchange, newly made Principal, Shepherd did what pattern-recognition software had not been built to do: she stopped reading the world's unclassifiable EM pulse as data and ran it as audio. What generations of automated classifiers had filed as noise because it matched no known protocol, she flagged within one listen as something with phrasing, repetition, and variation — considerably harder to file, and considerably harder to ignore.
 
-It is the one line on her record that has nothing to do with rank. Her instructors taught her to read instruments. Slipwave taught her to read the space between the notes. The Sentinel needed the second kind of reading, and nobody had thought to send it.
+It is the one line on her record that has nothing to do with rank. Her instructors taught her to read instruments. Slipwave taught her to read the space between the notes. The Sentinel needed the second kind of reading, and nobody had thought to send it. See [Filed Under Noise (S03E01C01)](/star-rangers/seasons/s03/e01/s03e01c01/) for the night itself.
 
 ## Home Ground
 

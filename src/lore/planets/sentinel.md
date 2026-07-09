@@ -29,7 +29,9 @@ Pattern-recognition software had correctly reported that the pulse matched no kn
 
 The finding forced the Sentinel's designation off "automated hazard beacon, low priority" and onto an active anomaly docket — the kind of reclassification that, elsewhere in Star Rangers institutional history, has taken far longer to happen than it should have. The Survey Corps has not yet determined origin, intent, or mechanism. Musical structure is not proof of intelligence behind it, and nobody working the case claims otherwise; it is proof only that the signal is not what everyone had been comfortable assuming it was.
 
-Whether the Sentinel is Meridian-built, older than Meridian's own reef-cities, or unconnected to Meridian entirely remains unresolved. The parallel to Meridian sapients' own claw-percussion communication — audible, rhythmic, readable at range — has not gone unnoticed by the analysts working the case. Meridian's Administrator-Voice has, on the diplomatic record, declined three separate Hegemony requests to raise the question with the reef-cities directly.
+Whether the Sentinel is Meridian-built, older than Meridian's own reef-cities, or unconnected to Meridian entirely remains unresolved. The parallel to Meridian sapients' own claw-percussion communication — audible, rhythmic, readable at range — has not gone unnoticed by the analysts working the case. Administrator-Voice Sohrel, who holds the Halyx System liaison portfolio and authorised the independent verification that got the file reopened at all, has, on the diplomatic record, declined three separate Hegemony requests to raise the question with Meridian's reef-cities directly.
+
+[Season 3, Episode 1](/star-rangers/seasons/s03/e01/s03e01c01/) dramatises the night of the catch, in both Shepherd's point of view and Sohrel's.
 
 ## See Also
 
@@ -37,3 +39,4 @@ Whether the Sentinel is Meridian-built, older than Meridian's own reef-cities, o
 - [The Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/)
 - [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)
 - [Slipwave](/star-rangers/glossary/slipwave/)
+- [Filed Under Noise (S03E01C01)](/star-rangers/seasons/s03/e01/s03e01c01/)
