@@ -14,7 +14,7 @@ description: "Star Rangers — an interactive science-fantasy novel grounded in 
     A station clock is forty seconds wrong, and it has stayed wrong for eleven years — a small enough error that everyone assumed someone else was watching it. Star Rangers follows the people who finally did: measuring the drift, guarding the public record, and working out what truth still holds across the Five Layers, multiple <a href="/star-rangers/glossary/concordant/">Concordants</a>, and multiple points of view.
     {% else %}
     A station clock is forty seconds wrong, and it has stayed wrong for eleven years.
-    Star Rangers follows the people ordered to measure the drift, guard the public record, and decide what truth still survives across the Five Layers, our corner of the infinite <a href="/star-rangers/lore/ensemble-multiverse/">Grand Ensemble Multiverse</a>, and multiple points of view.
+    Star Rangers follows the people ordered to measure the drift, guard the public record, and decide what truth still survives across the Five Layers, the <a href="/star-rangers/lore/ensemble-multiverse/">Grand Ensemble Multiverse</a>, and multiple points of view.
     {% endif %}
     {% if latestLore %} Newest from the record: <a href="/star-rangers{{ latestLore.url }}">{{ latestLore.title }}</a> — {{ latestLore.excerpt }}{% endif %}
   </p>
