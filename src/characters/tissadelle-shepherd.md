@@ -24,6 +24,8 @@ By Season 5, these qualities have become load-bearing. A Line Captain who will n
 
 ## Rank Progression
 
+See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-and-uniform/) for what each rank actually authorises.
+
 - **Season 1:** Cadet
 - **Season 5:** Line Captain
 
