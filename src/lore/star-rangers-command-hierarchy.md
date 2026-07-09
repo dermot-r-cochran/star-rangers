@@ -2,8 +2,8 @@
 layout: lore-entry.njk
 title: "Rank and the Chain of Command"
 category: "Institutions"
-tags: [star-rangers, rank, command-hierarchy, chief, chief-provost, starwarden, starwarden-first-officer, line-captain, star-captain, high-captain, council-of-high-captains, triumvirate, chain-of-command, oversight-council, institutions]
-description: "The Star Rangers' internal rank ladder, from Novice to the Triumvirate, how a civil-service career track and a naval command track were fused into one chain at founding, and why the Rangers are neither an army nor a navy despite sounding like one."
+tags: [star-rangers, rank, command-hierarchy, chief, chief-provost, guild-leadership, chapter-leader, corps-president, starwarden, starwarden-first-officer, line-captain, star-captain, high-captain, council-of-high-captains, triumvirate, chain-of-command, oversight-council, institutions]
+description: "The Star Rangers' internal rank ladder, from Novice to the Triumvirate, how a civil-service career track and a naval command track were fused into one chain at founding, why the specialist corps are governed as guilds the command ladder has no say over, and why the Rangers are neither an army nor a navy despite sounding like one."
 ---
 
 Ask a Ranger why the ranks sound like a navy and most will shrug: ships and stations need one person who is unambiguously in command when the instruments disagree with each other and there is no time to convene a committee about it. Ask why the charter still calls the Rangers independent of "any military command hierarchy" and the same Ranger will point out that the two facts are not in tension. One is about where authority sits. The other is about who it answers to.
@@ -39,6 +39,14 @@ From entry to apex, in order of seniority:
 - **High Captain** — flag-tier command spanning a full operational region or theatre. Karla Wender's rank in later canon; the exact progression between Chief Pilot and High Captain remains to be established in story.
 - **Council of High Captains** — every serving High Captain, sitting together. The Council sets Corps-wide operational policy: how the charter's constraints get applied in practice, where deployment priorities sit when boundary events compete for the same limited response capacity, how doctrine changes when a Safety Corps finding demands it.
 - **Triumvirate** — three seats, drawn from and seated by the Council of High Captains, standing at its head. The Triumvirate chairs the Council, issues Corps-wide directives between full Council sessions, and is the single point of contact the Oversight Council holds accountable for the Corps' conduct under the charter.
+
+## Guild Leadership: The Corps Aren't Commanded
+
+The rank ladder above governs seniority and who answers for what. It does not govern who sets standards within a specialization, because the charter's framers did not want the same chain of command holding both kinds of authority over the same person.
+
+Each specialist corps — Survey, Safety, Provost, Medical, and the rest — is internally organised more like a professional guild than a military department. A corps elects or appoints its own **chapter leaders** at the post or installation level and, above them, a **corps president** for the Rangers as a whole, and neither position sits on the Novice-to-Triumvirate ladder. Holding one requires no specific rank. In practice, a chapter leader or president is almost always drawn from officers already at Principal, Section Lead, or Chief — the tiers with enough field standing to be trusted with the job — but that's convention arising from who the corps' own members tend to elect, not a rank requirement written into the charter.
+
+The command ladder has no direct input into a corps' guild and training functions. A Starwarden cannot revise Medical Corps practice standards, set Survey Corps instrument-certification criteria, or override a Safety Corps finding — the same independence the [Safety Corps](/star-rangers/lore/star-rangers-safety-corps/) already holds by charter is not a Safety Corps exception, it's the general rule every specialist corps operates under. Command rank tells a Ranger who they answer to for a deployment. It has never told them who's right about medicine, instrumentation, or boundary science, and the charter's framers built the guild layer specifically so no future command chain could quietly start deciding otherwise.
 
 ## The Provost Track, and What the Rangers Are Not
 

@@ -50,6 +50,8 @@ So the SSSA was absorbed at founding and reconstituted as the **Safety Corps**, 
 
 The Safety Corps retained the SSSA's independence structure. Star Rangers command can decide what the Corps tests. It cannot decide what the Corps concludes. That line is written into the charter and has been tested more than once. It has held each time.
 
+That independence is structural, not a favour: the Safety Corps is governed like the [rest of the specialist corps](/star-rangers/lore/star-rangers-command-hierarchy/), by its own chapter leaders at each post and a corps president overall, none of them command-ladder positions and none of them answerable to a Starwarden for what the standards actually say.
+
 ## What the Safety Corps Does
 
 The Safety Corps' mandate covers four domains.
