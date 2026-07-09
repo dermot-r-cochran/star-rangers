@@ -115,7 +115,7 @@ Plurality — a single body hosting more than one person (headmates, or tulpas w
 
 **Dr. Iona Vale** — Human, Transit Safety Officer, Harmonic Operations, Threshold Station. Transferred in after a "successful" teleport jump left someone unable to remember their own name. Enforces hard, unbending rules (no visual endpoint confirmation → no jump; below-margin power reserve → no jump; unresolved fatigue markers → no jump). Not anti-teleportation — anti-pretending the cost disappears because the outcome worked. A survived jump is not a gentle one; it's an efficiently used one.
 
-**Karla Wender** — Human, Chief Ranger of the Pilot Section at Season 1's start (later "High Captain Wender"). Commands boundary-proximate/fold-adjacent transit operations where most instruments fail. Carries authority rather than performing it; corrects people who mistake her quietness for uncertainty, usually only once. Knows the difference between orders that are executable and orders that only look executable on a map. Relationship with cadet Tissadelle Shepherd develops across early seasons.
+**Karla Wender** — Human, Chief Pilot of the Pilot Section at Season 1's start (later "High Captain Wender"). Commands boundary-proximate/fold-adjacent transit operations where most instruments fail. Carries authority rather than performing it; corrects people who mistake her quietness for uncertainty, usually only once. Knows the difference between orders that are executable and orders that only look executable on a map. Relationship with cadet Tissadelle Shepherd develops across early seasons.
 
 **Tissadelle Shepherd** — Human, Cadet at Season 1's start, reaches Line Captain by Season 5. Methodical where others are eager; doesn't volunteer unsupportable assessments or perform false confidence — a liability at the eager-and-visible cadet stage, load-bearing by Line Captain. Not moved by abstraction, only by clearly stated problems; handles problems without clear solutions by continuing to work anyway.
 
@@ -143,7 +143,7 @@ Plurality — a single body hosting more than one person (headmates, or tulpas w
 **Season 1 endpoint (per site synopsis):** the survey-team thread (Threshold Station) and the causeway thread (Elvira/Aldera/Court-Fae) converge at the Marsh Causeway, where correctly *naming* the threat is what breaks its feeding loop — Aldera already has the identification; Galahad's precise vocabulary is what will let Elvira ask the right question.
 
 **Established future-canon waypoints (not yet dramatized):**
-- Karla Wender: Chief Ranger → High Captain (progression TBD in-story).
+- Karla Wender: Chief Pilot → High Captain (progression TBD in-story).
 - Tissadelle Shepherd: Cadet (S1) → Line Captain (S5); relationship with Wender develops across early seasons.
 - Founding-era open questions (fold terminus contact, other fold routes, whether Threshold's drift is Eden-class phenomena) remain unresolved hooks for later seasons.
 
