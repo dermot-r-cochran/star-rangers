@@ -40,6 +40,16 @@ From entry to apex, in order of seniority:
 - **Council of High Captains** — every serving High Captain, sitting together. The Council sets Corps-wide operational policy: how the charter's constraints get applied in practice, where deployment priorities sit when boundary events compete for the same limited response capacity, how doctrine changes when a Safety Corps finding demands it.
 - **Triumvirate** — three seats, drawn from and seated by the Council of High Captains, standing at its head. The Triumvirate chairs the Council, issues Corps-wide directives between full Council sessions, and is the single point of contact the Oversight Council holds accountable for the Corps' conduct under the charter.
 
+## The Technical Track: Chief as an Alternative Ceiling
+
+Not every officer who reaches Chief goes on to Starwarden. The certification-ladder half of the Corps' lineage carried in the Safety Corps' own institutional habit: command authority and technical mastery are not the same skill, and forcing the second into the first tends to produce a poor commander and a lost specialist in the same person.
+
+For an officer who does not pursue, or is not suited to, a command posting, Chief is not a plateau to be apologised for. It is the formal ceiling of the technical career path, and it is a deliberate design, not a consolation prize — the Corps needs Chiefs who spend thirty years getting better at one thing at least as much as it needs Starwardens.
+
+What a technical Chief accumulates past that ceiling is not further rank but recognition that runs sideways instead of up: medals and commendations for what was done, and additional specialist certifications for what was proven. A Chief on the boundary-safety track, for instance, might hold the [Safety Corps' certified boundary analyst designation](/star-rangers/lore/star-rangers-safety-corps/) alongside a service record's worth of decorations, and be one of the most senior technical authorities in the Corps without ever holding a Starwarden's post. Medals are the one place the ladder's naval inheritance serves the technical half of the lineage rather than the command half — campaign medals, valor citations, and service ribbons accumulate on a technical Chief's record exactly as they would on a Line Captain's, marking what was done rather than what is now commanded.
+
+Nothing prevents a decorated technical Chief from later crossing into the command track if a Starwarden's post opens and they want it. The two paths share a ceiling rank, not a ceiling career.
+
 ## What the Triumvirate Is Not
 
 Three seats concentrating executive authority is exactly the shape the charter's framers spent the Outer Stations Consolidation Hearing arguing against — which is why the Triumvirate's authority stops precisely where the charter's constitutional constraints begin. It cannot commit the Corps to a political side, cannot authorise entry to a planet or self-governing habitat without invitation, and cannot direct the Safety Corps' findings. Those limits bind the Triumvirate exactly as they bind a newly certified Ranger. The Oversight Council exists, in part, because a three-seat command body is still a command body, and the people who wrote the charter had recently watched what an unaccountable one costs.
