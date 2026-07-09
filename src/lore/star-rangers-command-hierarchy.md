@@ -50,6 +50,8 @@ What a technical Chief accumulates past that ceiling is not further rank but rec
 
 Nothing prevents a decorated technical Chief from later crossing into the command track if a Starwarden's post opens and they want it. The two paths share a ceiling rank, not a ceiling career.
 
+The same sideways-not-up logic operates well below Chief, and outside the boundary-science specializations entirely. A Ranger who carries the Corps' musician specialization, for instance, isn't on a slower route to command — just a different route altogether. See [Slipwave](/star-rangers/glossary/slipwave/) for a working example.
+
 ## What the Triumvirate Is Not
 
 Three seats concentrating executive authority is exactly the shape the charter's framers spent the Outer Stations Consolidation Hearing arguing against — which is why the Triumvirate's authority stops precisely where the charter's constitutional constraints begin. It cannot commit the Corps to a political side, cannot authorise entry to a planet or self-governing habitat without invitation, and cannot direct the Safety Corps' findings. Those limits bind the Triumvirate exactly as they bind a newly certified Ranger. The Oversight Council exists, in part, because a three-seat command body is still a command body, and the people who wrote the charter had recently watched what an unaccountable one costs.
