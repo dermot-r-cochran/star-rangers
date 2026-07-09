@@ -34,34 +34,9 @@ The story moves across stations, causeways, archives, and boundary zones in the 
   - Episode 2
     - `S05E02C01` — *What the Hill Keeps*
 
-## Recent updates
+## Release notes
 
-### Release notes
-
-The latest pass strengthens the setting where the public record matters most. Canon now speaks more clearly about teleportation limits, Lagrange fold-points, the Subsea Cable Warden Programme, and the lineage of the Star Rangers Safety Corps. The timeline reaches further back, institutional references are more coherent, and older real-world naming has been replaced with in-universe language that better fits the archive.
-
-### Changelog
-
-#### Lore
-
-- Added lore entries that define teleportation constraints and the story pressures those limits create.
-- Expanded fold-space material around Lagrange fold-points and linked it across related FTL articles.
-- Added canon for the Subsea Cable Warden Programme.
-- Added lore for the Star Rangers Safety Corps and its historical lineage.
-
-#### Timeline
-
-- Extended the timeline with events from before the United Stellar Concord.
-- Revised event titles and updated charter references for the Safety Corps and the SSSA.
-
-#### Terminology and continuity
-
-- Renamed references to "UL Standards International" as "United Space Industry Standards" across lore and timeline content.
-- Removed direct mentions of UL Solutions by name from lore and timeline entries.
-
-#### Integration
-
-- Merged recent pull-request content updates, including transit-safety and teleportation-limit canon.
+Current version: **1.5.0**. See [`CHANGELOG.md`](./CHANGELOG.md) for the full version history — lore/canon changes, deployment features, and fixes are all tracked there under [Semantic Versioning](https://semver.org/).
 
 ## Local development
 
@@ -79,10 +54,12 @@ npm run test
 
 ## cPanel deployment config for local clones
 
-The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root.
+The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root. This repo deploys to several production domains from separate cPanel Git Version Control clones (one clone per domain, all pulling the same branch) — `deploy.conf` is how one clone tells the shared build/deploy script which domain, theme, and content scope it's responsible for.
 
-1. In your local clone, copy the tracked template into place: `cp sample-deploy.conf deploy.conf` (the copy is untracked/gitignored, since it's specific to one clone/domain).
-2. Edit `deploy.conf` with values for the target cPanel account, optional theme, optional content filtering, optional deploy-log email, and optional clone-exclusive lore/style:
+### Setup
+
+1. In your local clone, copy the tracked template into place: `cp sample-deploy.conf deploy.conf` (the copy is untracked/gitignored, since it's specific to one clone/domain — never commit a real `deploy.conf`).
+2. Edit `deploy.conf` with values for that clone. Every key is optional; a commented-out or missing key falls back to its default. Example, showing every key at once:
 
 ```bash
 CPANEL_USER=sciencef
@@ -95,22 +72,63 @@ CUSTOM_LORE_FILE=/home/sciencef/custom-lore/exclusive-entry.md
 CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 ```
 
-- `CPANEL_USER` controls deployment destination: `/home/<CPANEL_USER>/public_html/`.
-- `THEME=default` keeps `src/css/main.css`.
-- Any other `THEME` value uses `src/css/theme-<THEME>.css` when that file exists; otherwise deployment falls back to `src/css/main.css`.
-- `DOMAIN` is the bare domain this clone actually serves (no scheme, no path, no trailing slash — e.g. `undercover-pets.com`). It's exported as `SITE_DOMAIN` for the Eleventy build and consumed by `src/_data/site.js`, which `src/robots.njk` and `src/sitemap.njk` use to render `robots.txt`'s `Sitemap:` line and every `<loc>` in `sitemap.xml` with that clone's own domain — both files are generated at build time rather than copied statically, specifically so each of this repo's several production domains gets a correct, working sitemap reference instead of all of them sharing one hardcoded host. The GitHub Pages build never sets `SITE_DOMAIN`, so it falls back to the GH Pages URL itself.
-- `CHARACTERS` and `TOPICS` are optional, comma-separated, case-insensitive lists that narrow the deployed site to content related to the listed characters and/or topics:
-  - `CHARACTERS` matches character page `id`s and chapter POV character `id`s.
-  - `TOPICS` matches page `tags` (and `category`, where present), across every content type including character pages.
-  - `CHARACTERS` also participates in tag matching, since tags conventionally embed character slugs (e.g. a timeline entry tagged `aldera`).
-  - Excluded pages still build at their normal URL as a minimal "not included in this edition" placeholder, instead of being omitted, so links to them never 404.
-  - Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
-  - Leaving both unset/empty deploys the full, unfiltered site (the default).
-- `ADMIN_EMAIL` is optional. If set, an email is sent to it after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. No default is set in the repo (deliberately, so no real address is hardcoded in this public repo) — each clone that wants notifications sets its own `ADMIN_EMAIL` in its own untracked `deploy.conf`. This is best-effort only: if `ADMIN_EMAIL` is unset, or no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
-- `CUSTOM_LORE_FILE` is optional: a path to a clone-local, untracked markdown file with valid lore-entry front matter (`layout: lore-entry.njk`, `title`, `category`, etc. — see any file under `src/lore/` for the shape). If set, `scripts/cpanel-deploy.sh` copies it into `src/lore/custom/` before the build, so it becomes one extra lore page unique to this clone (builds at `/lore/custom/<filename-without-extension>/`), then removes it again once the build has read it — the clone's working tree never carries leftover untracked content between deploys, and nothing is ever committed to the shared repo.
-- `CUSTOM_CSS_FILE` is optional: a path to a clone-local, untracked CSS file. If set, its contents are appended to the deployed `css/main.css` after the `THEME` stylesheet, so a clone can tweak a handful of things — a color, a font — without needing a whole new `theme-<name>.css` in the shared repo. Because it loads last, its rules can override the theme's.
-- Both `CUSTOM_LORE_FILE` and `CUSTOM_CSS_FILE` fail the deploy (loudly, not silently) if set to a path that doesn't exist, so a typo can't ship a build silently missing the content the clone owner expected.
-- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, no content filtering, no deploy-log email, and no custom lore/CSS.
+3. Push to that clone's branch as normal (or trigger cPanel's deploy) — `scripts/cpanel-deploy.sh` sources `deploy.conf` on every run, so no separate reload step is needed.
+
+### Keys
+
+| Key | Default | Purpose |
+|---|---|---|
+| `CPANEL_USER` | `sciencef` | Deployment destination: `/home/<CPANEL_USER>/public_html/`. |
+| `THEME` | `default` | CSS theme — see "Available themes" below. |
+| `DOMAIN` | `sciencefiction.site` | Bare domain this clone serves (no scheme, no path, no trailing slash — e.g. `undercover-pets.com`). |
+| `CHARACTERS` | *(unset — full site)* | Comma-separated character `id`s that narrow the deployed content. |
+| `TOPICS` | *(unset — full site)* | Comma-separated tag/category values that narrow the deployed content. |
+| `ADMIN_EMAIL` | *(unset — no email)* | Address notified after every deploy attempt, success or failure. |
+| `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
+| `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
+
+If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, the full unfiltered site, no deploy-log email, and no custom lore/CSS.
+
+#### `THEME` and available themes
+
+`THEME=default` keeps `src/css/main.css` as-is. Any other value uses `src/css/theme-<THEME>.css` when that file exists in the repo; otherwise deployment falls back to `src/css/main.css`. Every theme file is generated from `main.css` by `scripts/generate-themes.js` (`npm run generate-themes`), which swaps in only that theme's palette (`:root` custom properties, the five `.pov-block--<character>` colors, and `.character-badge--status-active`) and keeps everything else byte-for-byte in sync with `main.css` — run it after any structural change to `main.css` to re-propagate that change to every theme, and edit that script's `THEMES` registry to add a new theme or adjust an existing palette.
+
+| Theme | Kind | Description |
+|---|---|---|
+| `fellowship` | domain re-skin | Warm, luminous gold/parchment palette (fellowshipoflight.org). |
+| `pets` | domain re-skin | Warm, friendly orange/cream palette (undercover-pets.com). |
+| `starquest` | domain re-skin | Deep-space navy with neon teal accents (starquest.site/.online). |
+| `light` | standard | Light/day mode — the site's only non-dark option. |
+| `high-contrast` | standard | Maximal-contrast black/white/yellow, for low-vision accessibility. |
+| `sepia` | standard | Warm parchment/e-reader tone for long reading sessions. |
+| `solarized` | standard | Ethan Schoonover's Solarized Dark palette. |
+
+#### `CHARACTERS` and `TOPICS`
+
+Comma-separated, case-insensitive lists that narrow the deployed site to content related to the listed characters and/or topics:
+
+- `CHARACTERS` matches character page `id`s and chapter POV character `id`s.
+- `TOPICS` matches page `tags` (and `category`, where present), across every content type including character pages.
+- `CHARACTERS` also participates in tag matching, since tags conventionally embed character slugs (e.g. a timeline entry tagged `aldera`).
+- Excluded pages still build at their normal URL as a minimal "not included in this edition" placeholder, instead of being omitted, so links to them never 404.
+- Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
+- Leaving both unset/empty deploys the full, unfiltered site (the default).
+
+#### `DOMAIN`
+
+The bare domain this clone actually serves. It's exported as `SITE_DOMAIN` for the Eleventy build and consumed by `src/_data/site.js`, which `src/robots.njk` and `src/sitemap.njk` use to render `robots.txt`'s `Sitemap:` line and every `<loc>` in `sitemap.xml` with that clone's own domain — both files are generated at build time rather than copied statically, specifically so each of this repo's several production domains gets a correct, working sitemap reference instead of all of them sharing one hardcoded host. The GitHub Pages build never sets `SITE_DOMAIN`, so it falls back to the GH Pages URL itself.
+
+#### `ADMIN_EMAIL`
+
+If set, an email is sent to it after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. No default is set in the repo (deliberately, so no real address is hardcoded in this public repo). This is best-effort only: if `ADMIN_EMAIL` is unset, or no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
+
+#### `CUSTOM_LORE_FILE` and `CUSTOM_CSS_FILE`
+
+Let one clone carry a small amount of domain-exclusive content without touching the shared repo:
+
+- `CUSTOM_LORE_FILE` is a path to a clone-local, untracked markdown file with valid lore-entry front matter (`layout: lore-entry.njk`, `title`, `category`, etc. — see any file under `src/lore/` for the shape). If set, `scripts/cpanel-deploy.sh` copies it into `src/lore/custom/` before the build, so it becomes one extra lore page unique to this clone (builds at `/lore/custom/<filename-without-extension>/`), then removes it again once the build has read it — the clone's working tree never carries leftover untracked content between deploys, and nothing is ever committed to the shared repo.
+- `CUSTOM_CSS_FILE` is a path to a clone-local, untracked CSS file. If set, its contents are appended to the deployed `css/main.css` after the `THEME` stylesheet, so a clone can tweak a handful of things — a color, a font — without needing a whole new `theme-<name>.css` in the shared repo. Because it loads last, its rules can override the theme's.
+- Both fail the deploy loudly (not silently) if set to a path that doesn't exist, so a typo can't ship a build silently missing the content the clone owner expected.
 
 ## Creative tooling
 
