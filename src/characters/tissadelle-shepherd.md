@@ -16,7 +16,7 @@ image_alt: "Star Rangers personnel file card for Tissadelle Shepherd, Cadet, Sur
 
 Cadet is the entry rank. It is where formal training meets first operational exposure, and where the qualities that will become most useful later are not yet rewarded in proportion.
 
-Tissadelle Shepherd begins Season 1 there. She reaches the rank of Line Captain in Season 5, after four seasons of operational service, climbing the [full rank ladder](/star-rangers/lore/star-rangers-command-hierarchy/) between the two — the specific intermediate steps remain to be established in story. The distance between those two points is the structural spine of her arc.
+Tissadelle Shepherd begins Season 1 there. She reaches the rank of Line Captain in Season 5, after four seasons of operational service that take her through most of the [full rank ladder](/star-rangers/lore/star-rangers-command-hierarchy/) — several promotions a season, a pace well above the ordinary intake's. The distance between those two points is the structural spine of her arc.
 
 At the cadet stage, she is already methodical where others are eager. She does not volunteer assessments she cannot support. She does not perform confidence she does not have. In the early ranks, momentum and initiative are more visibly rewarded than accuracy. She advances anyway.
 
@@ -24,10 +24,15 @@ By Season 5, these qualities have become load-bearing. A Line Captain who will n
 
 ## Rank Progression
 
-- **Season 1:** Cadet
-- **Season 5:** Line Captain
+Several promotions land each season rather than one — Shepherd's climb is compressed, not skipped:
 
-See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for the full ladder between them.
+- **Season 1:** Cadet → Deputy → Officer
+- **Season 2:** Officer → Senior → Principal
+- **Season 3:** Principal → Section Lead → Chief
+- **Season 4:** Chief → Starwarden → Starwarden First Officer → Line Captain
+- **Season 5 (opening):** Line Captain
+
+See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for what each rank on that ladder carries.
 
 ## Character Notes
 
