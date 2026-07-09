@@ -10,8 +10,8 @@ aliases:
   - "Tiss"
 tags: [human, star-rangers, cadet, line-captain, celtic-union, tir-na-nog, sentinel, meridian, halyx-system, season-1, season-5]
 description: "Star Ranger cadet at the start of Season 1; earns the rank of Line Captain by Season 5."
-image: tissadelle-shepherd-card.png
-image_alt: "Star Rangers personnel file card for Tissadelle Shepherd, Cadet, Survey & Operations Division"
+image: tissadelle-shepherd.jpg
+image_alt: "Portrait of Tissadelle Shepherd, Star Ranger, with red hair and blue-green eyes"
 ---
 
 Cadet is the entry rank. It is where formal training meets first operational exposure, and where the qualities that will become most useful later are not yet rewarded in proportion.
