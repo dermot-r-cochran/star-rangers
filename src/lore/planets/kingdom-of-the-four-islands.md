@@ -29,6 +29,16 @@ The Kingdom's own oral chronicles date its founding to a sublight departure from
 
 Left alone for the length of that gap, the founding population built a civilisation with no outside reference points to correct against — its own language, its own calendar, its own line of monarchs numbered past any count the Archive can independently verify. Survey Corps contact, made only in the last several years, is the first outside confirmation the Kingdom has had in longer than its own court historians can agree on.
 
+## The Crown Reigns; the Council Rules
+
+The monarchy is not ceremonial. The nobility mostly is.
+
+Three reigns back, a succession of storm seasons mismanaged badly enough by hereditary landholders to cost Ostrel most of a winter's stores forced a settlement the Crown itself proposed rather than had forced upon it: the Old Houses kept their titles, their precedence at court, and nominal trusteeship over the ancestral parcels their names still carry, but administrative power over those parcels passed to officials chosen by the people who actually worked them. No house was stripped of anything it could frame as an insult. Every house lost the one thing that had mattered.
+
+A Lord or Lady of the Old Houses today presides at coronations, storm-season blessings, and formal court audiences, sits nearer the throne than any elected official ever will, and administers nothing. Real governance runs through the **Common Council**: a steward elected to a fixed term by the landholding freemen and reeves of each island — Vellamar, Casimor, Aduine, and Ostrel each returning one — who together set taxation, coordinate storm response, and hold the day-to-day law of the Kingdom answerable to their electorates rather than to the Crown or to any house. The monarch convenes the Council, can delay its measures, and has vetoed exactly one in the current reign; the monarch does not sit on it, and no noble title carries a seat.
+
+The arrangement leaves the Old Houses with real cultural weight and no real power, which court wits describe as either the safest possible place to put a hereditary aristocracy or the cruellest, depending on which house is complaining that season. The Abbeylands, notably, sit outside the Council system entirely — the Abbess answers to her charter, not to an electorate — which the Sisterhood is quick to point out whenever a Council measure tries to reach the Abbeylands anyway.
+
 ## Vellamar and the Royal Gardens
 
 The throne island, **Vellamar**, holds the Kingdom's capital, its royal court, and gardens old enough that several of the specimen trees predate the current dynasty. Chief among them: a single elder fig whose aerial roots have descended and thickened into secondary trunks across an entire garden quarter, forming what court records simply call the **Elder Grove** — an unbroken canopy under which three coronations have been held rather than in any built hall, because, as the current monarch's own installation address put it, "nothing we could build would witness it better."
@@ -53,7 +63,7 @@ Not all of Aduine's terraces are the Crown's to tax. A wedge of the island's old
 
 What resulted is the Kingdom's one deliberate exception to direct royal administration, and about as simple a feudal ladder as three tiers allow:
 
-- **The Crown**, sovereign over all Four Islands, administers most of Aduine at second hand through royally appointed stewards answerable to Vellamar.
+- **The Crown**, sovereign over all Four Islands, administers most of Aduine at second hand through Aduine's Council-elected steward.
 - **The Abbey**, holding the Abbeylands directly from the Crown as a tenant-in-chief rather than as a subject of Aduine's steward, owes Vellamar one obligation only: a fixed annual render of grain and preserved stores, delivered regardless of season or storm damage elsewhere on the island.
 - **The reeves**, free tenant farmers granted working tenure over individual terrace-strips by the Abbess, owe the Abbey a fixed share of each harvest and a set number of labour-days a season — maintaining the terrace walls, the storm-catchments, the shared threshing floors — and owe the Crown nothing directly at all.
 
