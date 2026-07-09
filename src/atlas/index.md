@@ -60,5 +60,5 @@ description: "A hierarchical map of every documented galaxy, star system, and wo
 {% endif %}
 
 <p class="page-intro">
-  Six worlds hold charter membership in the <a href="/star-rangers/lore/celtic-union-of-planets/">Celtic Union of Planets</a>; only two — Tír na nÓg and Ynys Wydrin — have confirmed system placements so far. The rest, including Kernowek Reach, are known by name only.
+  Six worlds hold charter membership in the <a href="/star-rangers/lore/celtic-union-of-planets/">Celtic Union of Planets</a>; only three — Tír na nÓg, Ynys Wydrin, and Aethelrock — have confirmed system placements so far. The rest, including Kernowek Reach, are known by name only.
 </p>

@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "The Celtic Union of Planets"
 category: "Factions"
-tags: [celtic-union, faction, diaspora, colonisation, tir-na-nog, currach-fleet]
+tags: [celtic-union, faction, diaspora, colonisation, tir-na-nog, currach-fleet, aethelrock]
 description: "A decentralised confederation of human worlds descended from a pre-fold generation fleet that left Earth to preserve Celtic language and culture — reconnected with the Solar System only within the last generation."
 image: "earth-giraffe-family.jpg"
 image_alt: "Giraffes grazing on Earth, photographed in 2826 UCSD"
@@ -46,7 +46,7 @@ Diplomatic relations remain new, cautious, and cordial. The Union has so far dec
 
 Six worlds hold Union charter membership. Most remain undocumented outside Union records. The flagship and most populous is [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), a rare naturally human-compatible biosphere world and the Union's cultural and diplomatic capital.
 
-The second-settled charter world, [Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/), is a dome-and-station world settled deliberately rather than a paradise found. The remaining charter worlds — among them Kernowek Reach — are known to Solar System records by name only, pending further survey contact.
+The second-settled charter world, [Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/), is a dome-and-station world settled deliberately rather than a paradise found. The third documented charter world, [Aethelrock](/star-rangers/lore/planets/aethelrock/), never settled as a single polity at all — five founding clans still hold separate territories under an uneasy shared council, and the world's seat at the Union table rotates between them. The remaining charter worlds — among them Kernowek Reach — are known to Solar System records by name only, pending further survey contact.
 
 ---
 

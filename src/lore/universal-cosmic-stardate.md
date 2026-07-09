@@ -22,4 +22,10 @@ Star Rangers records use **Universal Cosmic Stardate (UCSD)** as the canonical d
 - Preserves chronology without anchoring history to one planetary culture.
 - Aligns Survey Corps, Codex, and Timeline records under one neutral standard.
 
-All new canonical entries should use UCSD formatting.
+## CE Cross-Reference
+
+UCSD did not replace CE by resetting the count to zero; it kept the same underlying epoch and simply renamed the standard. For archival cross-reference: **UCSD year = CE year + 200.**
+
+Adoption was not universal on the day it was declared. Communities that lost contact with Solar System institutions before UCSD standardisation took hold — most notably the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), whose Currach Fleet arks departed Earth on legacy CE dating and stayed out of contact for centuries afterward — never fully retired CE in their own records. Union clan archives, in keeping with the same cultural-preservation instinct that kept their founding languages alive, still cite CE dates alongside UCSD where the two calendars diverge in local usage. Solar System institutional records do not carry this exception.
+
+All new canonical entries should use UCSD formatting, with CE cited only as an archival cross-reference where a source world's own records use it.
