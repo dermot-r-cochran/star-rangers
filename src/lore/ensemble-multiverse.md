@@ -1,14 +1,14 @@
 ---
 layout: lore-entry.njk
-title: "The Ensemble Multiverse"
+title: "The Grand Ensemble Multiverse"
 category: "Cosmology"
-tags: [ensemble-multiverse, cosmology, dimensions, etheric, spacetime, worldwright, concordant, post-11-manifold]
+tags: [grand-ensemble-multiverse, cosmology, dimensions, etheric, spacetime, worldwright, concordant, post-11-manifold]
 description: "The infinite collection of universes authored under the Cascade, and why our home universe's 3+7+1 dimensional structure is a local fact rather than a cosmic constant."
 ---
 
 Ask a Survey Corps physicist how many dimensions space has and they will ask which universe you mean. The question has an answer at home. It does not have the same answer everywhere.
 
-The **Ensemble Multiverse** is the infinite collection of universes produced under the [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) — every primary universe a [Worldwright](/star-rangers/lore/worldwrights/competing-designs/) authors, and every secondary and further-derived universe that [overlap or folding](/star-rangers/lore/universe-overlap-and-folding/) subsequently produces from them. It is not one design repeated infinitely; different Worldwrights instantiate different architectures, from Kaelor Virex's resonant triads to Soryth Valen's single deterministic line, and each of those architectures can itself branch through derivation. "Ensemble" names the totality — it is not a claim that the totality is uniform.
+The **Grand Ensemble Multiverse** is the infinite collection of universes produced under the [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) — every primary universe a [Worldwright](/star-rangers/lore/worldwrights/competing-designs/) authors, and every secondary and further-derived universe that [overlap or folding](/star-rangers/lore/universe-overlap-and-folding/) subsequently produces from them. It is not one design repeated infinitely; different Worldwrights instantiate different architectures, from Kaelor Virex's resonant triads to Soryth Valen's single deterministic line, and each of those architectures can itself branch through derivation. "Grand Ensemble" names the totality — it is not a claim that the totality is uniform.
 
 ## Our Local Universe
 
@@ -24,7 +24,7 @@ This is a geometric substrate claim, not a revision of the Five Layers. The Ethe
 
 ## Why Other Universes Differ
 
-Nothing in Worldwright design requires 3+7+1. A Worldwright authoring a primary universe elsewhere in the Ensemble can select a different split of visible, invisible, and timelike dimensions entirely — more physical dimensions and fewer Etheric ones, multiple timelike dimensions, or a total dimension count that isn't eleven at all.
+Nothing in Worldwright design requires 3+7+1. A Worldwright authoring a primary universe elsewhere in the Grand Ensemble can select a different split of visible, invisible, and timelike dimensions entirely — more physical dimensions and fewer Etheric ones, multiple timelike dimensions, or a total dimension count that isn't eleven at all.
 
 That choice cascades. [Physical constants are selected by Worldwrights to produce stable, fertile Concordants](/star-rangers/lore/physics-comparison/), and dimensional structure is upstream of those constants: how many spatial dimensions a force can propagate through, and how many Etheric dimensions are available to carry rule-templates, determines which fundamental particles and forces can exist coherently at all. A universe built on a different dimensional split is not our physics with different numbers plugged in — it is a different admissible particle and force spectrum, because the geometric substrate those particles and forces would have to propagate through is itself different.
 

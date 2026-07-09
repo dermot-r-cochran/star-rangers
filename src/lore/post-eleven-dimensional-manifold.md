@@ -10,7 +10,7 @@ When the first eleven dimensions explain the injury but not why the clocks keep 
 
 The first eleven spacetime dimensions define the baseline stability envelope for [Concordants](/star-rangers/glossary/concordant/), but they do not exhaust cosmic structure. Beyond Dimension 11, the manifold branches into higher-order spacelike and timelike regimes that govern cross-[Concordant](/star-rangers/glossary/concordant/) coherence, causality buffering, and fold survivability.
 
-For our home universe, those first eleven break down as three visible physical dimensions, seven invisible Etheric dimensions, and one dimension of time — a split that is local rather than universal. See [The Ensemble Multiverse](/star-rangers/lore/ensemble-multiverse/) for why other universes in the Cascade can be built on a different dimensional structure entirely, with correspondingly different fundamental particles and forces.
+For our home universe, those first eleven break down as three visible physical dimensions, seven invisible Etheric dimensions, and one dimension of time — a split that is local rather than universal. See [The Grand Ensemble Multiverse](/star-rangers/lore/ensemble-multiverse/) for why other universes in the Cascade can be built on a different dimensional structure entirely, with correspondingly different fundamental particles and forces.
 
 ## Beyond the First Eleven
 
