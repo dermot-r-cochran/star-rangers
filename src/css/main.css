@@ -55,6 +55,16 @@ body {
   flex-direction: column;
 }
 
+/* Fallback for links with no component-specific rule (e.g. inline links in
+   hero/intro prose) so they never fall back to the browser's default blue. */
+a {
+  color: var(--color-accent);
+}
+a:hover,
+a:focus {
+  color: var(--color-accent-hover);
+}
+
 /* --- Accessibility: Skip Link --- */
 .skip-link {
   position: absolute;

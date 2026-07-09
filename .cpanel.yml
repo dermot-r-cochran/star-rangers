@@ -10,29 +10,45 @@
 #
 #   CPANEL_USER=undercov
 #   THEME=pets
+#   DOMAIN=undercover-pets.com
 #   CHARACTERS=aldera,elvira
 #   TOPICS=boundary,detective-agency
 #   ADMIN_EMAIL=admin@example.com
+#   CUSTOM_LORE_FILE=/home/undercov/custom-lore/undercover-pets-origin.md
+#   CUSTOM_CSS_FILE=/home/undercov/custom-lore/undercover-pets-tweaks.css
 #
 # ...or for starquest.site / starquest.online (cPanel user "starques"):
 #
 #   CPANEL_USER=starques
 #   THEME=starquest
+#   DOMAIN=starquest.site
 #
 # ...or for fellowshipoflight.org / fellowshipoflight.site /
 # fellowshipoflight.space (cPanel user "fellowsh"):
 #
 #   CPANEL_USER=fellowsh
 #   THEME=fellowship
+#   DOMAIN=fellowshipoflight.org
 #
 # All are optional. No deploy.conf, or a missing value, falls back to
-# CPANEL_USER=sciencef and THEME=default (the plain build with no CSS swap,
-# deployed to /home/sciencef/public_html/ — today's original behavior), no
-# content filtering (the full site), and no deployment-log email.
+# CPANEL_USER=sciencef, THEME=default, and DOMAIN=sciencefiction.site (the
+# plain build with no CSS swap, deployed to /home/sciencef/public_html/ —
+# today's original behavior), no content filtering (the full site), and no
+# deployment-log email.
 #
 # THEME=default uses src/css/main.css as-is. Any other THEME value maps to
 # src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
 # typo'd or not-yet-added theme), it falls back to src/css/main.css.
+#
+# DOMAIN is the bare host (no scheme, no path, no trailing slash) this
+# clone actually serves. scripts/cpanel-deploy.sh exports it as SITE_DOMAIN
+# for the Eleventy build, and src/_data/site.js uses it to build the
+# absolute URLs that robots.txt's Sitemap line and sitemap.xml's <loc>
+# entries need — both are rendered at build time (src/robots.njk,
+# src/sitemap.njk) rather than copied as static files, precisely so each
+# clone's Sitemap/sitemap.xml points at that clone's own domain instead of
+# all of them sharing one hardcoded host. The GitHub Pages build (which
+# never sets SITE_DOMAIN) falls back to the GH Pages URL itself.
 #
 # CHARACTERS and TOPICS are comma-separated, case-insensitive lists that
 # narrow the deployed site to content related to the listed characters
@@ -73,6 +89,22 @@
 # observability: if ADMIN_EMAIL is unset, or neither mail command is
 # available, or the send itself fails, the deploy's own success/failure is
 # completely unaffected — see scripts/cpanel-deploy.sh.
+#
+# CUSTOM_LORE_FILE and CUSTOM_CSS_FILE let one clone carry a small amount
+# of domain-exclusive content without touching the shared repo:
+#   - CUSTOM_LORE_FILE points at a clone-local, untracked markdown file
+#     with valid lore-entry front matter (layout: lore-entry.njk, title,
+#     category, etc.). scripts/cpanel-deploy.sh copies it into
+#     src/lore/custom/ before the build (so it builds as one extra page at
+#     /lore/custom/<filename-without-extension>/) and removes it again
+#     once the build has read it — the clone's working tree carries no
+#     leftover untracked content between deploys.
+#   - CUSTOM_CSS_FILE points at a clone-local, untracked CSS file whose
+#     contents get appended to the deployed css/main.css after the THEME
+#     stylesheet, so its rules load — and can override — last.
+#   - Both are optional and fail the deploy loudly (not silently) if set
+#     to a path that doesn't exist, so a typo'd path can't ship a build
+#     that's silently missing the content the clone owner expected.
 #
 # Independent of ADMIN_EMAIL, every deployment attempt also saves its full
 # log locally to deploy-logs/ (untracked/gitignored), one timestamped file

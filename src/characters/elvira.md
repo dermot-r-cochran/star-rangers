@@ -7,7 +7,7 @@ role: Boundary Practitioner, Outpost Keeper
 status: Active
 aliases:
   - "the Enchantress (misclassification by locals)"
-tags: [boundary, unclassified, causeway, etheric, season-1]
+tags: [boundary, unclassified, causeway, etheric, season-1, major-character]
 description: "A boundary practitioner working alone at the Marsh Causeway outpost. Her classification is contested; she is not magical."
 ---
 

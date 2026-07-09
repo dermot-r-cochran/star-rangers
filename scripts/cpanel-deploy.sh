@@ -50,24 +50,62 @@ THEME="default"
 CHARACTERS=""
 TOPICS=""
 ADMIN_EMAIL=""
+DOMAIN="sciencefiction.site"
+CUSTOM_LORE_FILE=""
+CUSTOM_CSS_FILE=""
 # shellcheck disable=SC1091
 [ -f "$REPOSITORY_ROOT/deploy.conf" ] && . "$REPOSITORY_ROOT/deploy.conf"
 
-# CHARACTERS/TOPICS/THEME are read via `process.env` inside the Eleventy
-# Node build below, which runs as a *child process* - sourcing deploy.conf
-# only sets them as local shell variables, so they must still be
-# `export`ed for Node to see them. THEME still also drives the post-build
-# CSS swap in step 5 below (that part never needed the export - it's this
-# same shell reading its own variable) - the export here is only so
-# src/index.md's per-theme hero copy resolves during the build itself.
-# CPANEL_USER/ADMIN_EMAIL are only ever read back within this same shell
-# (never by a subprocess), so they don't need it.
+# CHARACTERS/TOPICS/THEME/DOMAIN are read via `process.env` inside the
+# Eleventy Node build below, which runs as a *child process* - sourcing
+# deploy.conf only sets them as local shell variables, so they must still
+# be `export`ed for Node to see them. THEME still also drives the
+# post-build CSS swap in step 5 below (that part never needed the export -
+# it's this same shell reading its own variable) - the export here is only
+# so src/index.md's per-theme hero copy, and src/_data/site.js's per-domain
+# robots.txt/sitemap.xml URLs, resolve during the build itself. DOMAIN is
+# exported as SITE_DOMAIN (not DOMAIN) since that env var name is generic
+# enough to risk colliding with something host-level; site.js reads
+# SITE_DOMAIN specifically. CPANEL_USER/ADMIN_EMAIL/CUSTOM_LORE_FILE/
+# CUSTOM_CSS_FILE are only ever read back within this same shell (never by
+# a subprocess) - the first two are used directly in this script's own
+# rsync/notify logic below, and the latter two are copied into place on
+# disk (src/lore/custom/, _site/css/main.css) before Node ever runs, so
+# Eleventy just discovers them as ordinary files - none of the four need
+# exporting.
 export CHARACTERS TOPICS THEME
+SITE_DOMAIN="$DOMAIN"
+export SITE_DOMAIN
 
 {
-  printf '=== cPanel deploy started: %s (user=%s theme=%s) ===\n' \
-    "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$CPANEL_USER" "$THEME"
+  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s custom_lore=%s custom_css=%s) ===\n' \
+    "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$CPANEL_USER" "$THEME" "$DOMAIN" \
+    "${CUSTOM_LORE_FILE:-none}" "${CUSTOM_CSS_FILE:-none}"
 } | tee -a "$LOG_FILE"
+
+# ---------------------------------------------------------------------------
+# Custom lore injection: CUSTOM_LORE_FILE is a clone-local, untracked
+# markdown file living outside the repo (deploy.conf's own directory is a
+# reasonable place for it) with valid lore-entry front matter. It's copied
+# into src/lore/custom/ - a path no tracked repo content uses, so it can
+# never collide with or clobber a real lore entry - right before the build
+# so Eleventy discovers it as one extra page unique to this clone, then
+# removed again once the build has read it, so the clone's working tree
+# has no leftover untracked content between deploys. CUSTOM_LORE_DEST is
+# set only once the copy actually happens, so cleanup_custom_lore is a
+# no-op on every deploy that doesn't use this feature. It's registered as
+# an EXIT trap from inside main() itself (not called explicitly at one
+# point in the sequence) because main() runs as one side of a pipeline
+# below (`main | tee ...`), which forks it into its own subshell - any
+# `exit 1` inside main() only ends that subshell, and a trap set inside a
+# subshell fires on that subshell's own exit regardless of which line
+# triggered it, so this is the only placement that reliably cleans up on
+# every failure branch inside main(), not just the success path.
+# ---------------------------------------------------------------------------
+CUSTOM_LORE_DEST=""
+cleanup_custom_lore() {
+  [ -n "$CUSTOM_LORE_DEST" ] && rm -f "$CUSTOM_LORE_DEST"
+}
 
 # ---------------------------------------------------------------------------
 # main(): the actual build+deploy sequence, unchanged in substance from the
@@ -76,27 +114,43 @@ export CHARACTERS TOPICS THEME
 # the script still run notify()/cleanup below).
 # ---------------------------------------------------------------------------
 main() {
-  echo "--- [1/5] ensure-node + npm ci ---"
+  trap cleanup_custom_lore EXIT
+
+  echo "--- [1/6] ensure-node + npm ci ---"
   # shellcheck disable=SC1091
   . "$REPOSITORY_ROOT/scripts/ensure-node.sh" \
     || { echo "FAIL: scripts/ensure-node.sh (Node.js install/verify)" >&2; exit 1; }
   npm ci --no-audit --no-fund \
     || { echo "FAIL: npm ci" >&2; exit 1; }
 
-  echo "--- [2/5] eleventy build (CHARACTERS=$CHARACTERS TOPICS=$TOPICS) ---"
+  echo "--- [2/6] custom lore injection (CUSTOM_LORE_FILE=${CUSTOM_LORE_FILE:-none}) ---"
+  if [ -n "$CUSTOM_LORE_FILE" ]; then
+    if [ -f "$CUSTOM_LORE_FILE" ]; then
+      mkdir -p "$REPOSITORY_ROOT/src/lore/custom" \
+        || { echo "FAIL: could not create src/lore/custom/" >&2; exit 1; }
+      CUSTOM_LORE_DEST="$REPOSITORY_ROOT/src/lore/custom/$(basename "$CUSTOM_LORE_FILE")"
+      cp "$CUSTOM_LORE_FILE" "$CUSTOM_LORE_DEST" \
+        || { echo "FAIL: could not copy CUSTOM_LORE_FILE ($CUSTOM_LORE_FILE)" >&2; exit 1; }
+    else
+      echo "FAIL: CUSTOM_LORE_FILE is set but not found: $CUSTOM_LORE_FILE" >&2
+      exit 1
+    fi
+  fi
+
+  echo "--- [3/6] eleventy build (CHARACTERS=$CHARACTERS TOPICS=$TOPICS SITE_DOMAIN=$SITE_DOMAIN) ---"
   "$REPOSITORY_ROOT/node_modules/.bin/eleventy" \
     || { echo "FAIL: eleventy build" >&2; exit 1; }
 
-  echo "--- [3/5] verify _site/ exists ---"
+  echo "--- [4/6] verify _site/ exists ---"
   test -d "$REPOSITORY_ROOT/_site" \
     || { echo "FAIL: _site/ was not produced by eleventy" >&2; exit 1; }
 
-  echo "--- [4/5] rewrite /star-rangers/ prefix ---"
+  echo "--- [5/6] rewrite /star-rangers/ prefix ---"
   find "$REPOSITORY_ROOT/_site" -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
     -exec sed -i 's#/star-rangers/#/#g' {} + \
     || { echo "FAIL: prefix rewrite (sed)" >&2; exit 1; }
 
-  echo "--- [5/5] theme select + rsync deploy + verify ---"
+  echo "--- [6/6] theme select + custom CSS + rsync deploy + verify ---"
   DEST="/home/$CPANEL_USER/public_html/"
   SRC_CSS="$REPOSITORY_ROOT/src/css/main.css"
   if [ "$THEME" != "default" ] && [ -f "$REPOSITORY_ROOT/src/css/theme-$THEME.css" ]; then
@@ -104,6 +158,20 @@ main() {
   fi
   cp "$SRC_CSS" "$REPOSITORY_ROOT/_site/css/main.css" \
     || { echo "FAIL: theme CSS copy ($SRC_CSS)" >&2; exit 1; }
+  # CUSTOM_CSS_FILE is a clone-local, untracked stylesheet appended after
+  # the theme's own CSS, so its rules load (and can override) last -
+  # lets one clone tweak a handful of things without a whole new
+  # theme-<name>.css living in the shared repo.
+  if [ -n "$CUSTOM_CSS_FILE" ]; then
+    if [ -f "$CUSTOM_CSS_FILE" ]; then
+      { printf '\n/* --- CUSTOM_CSS_FILE: %s --- */\n' "$CUSTOM_CSS_FILE"; cat "$CUSTOM_CSS_FILE"; } \
+        >> "$REPOSITORY_ROOT/_site/css/main.css" \
+        || { echo "FAIL: could not append CUSTOM_CSS_FILE ($CUSTOM_CSS_FILE)" >&2; exit 1; }
+    else
+      echo "FAIL: CUSTOM_CSS_FILE is set but not found: $CUSTOM_CSS_FILE" >&2
+      exit 1
+    fi
+  fi
   # --exclude keeps AutoSSL/Let's Encrypt's domain-validation directory out
   # of rsync's view entirely - it's never part of the Eleventy build, so
   # without this, --delete-delay would remove it (and any in-progress
@@ -112,6 +180,15 @@ main() {
     || { echo "FAIL: rsync to $DEST" >&2; exit 1; }
   test -f "${DEST}index.html" \
     || { echo "FAIL: post-deploy check - ${DEST}index.html missing" >&2; exit 1; }
+  # cPanel is Apache-hosted, unlike GitHub Pages, so it's the only target
+  # that actually reads .htaccess - a missing file here silently deploys
+  # with none of its security headers (CSP, X-Frame-Options, etc.) instead
+  # of failing loudly, so it gets the same fail-the-deploy treatment as
+  # index.html above rather than being left to a manual spot-check.
+  test -f "${DEST}.htaccess" \
+    || { echo "FAIL: post-deploy check - ${DEST}.htaccess missing" >&2; exit 1; }
+  test -f "${DEST}.well-known/security.txt" \
+    || { echo "FAIL: post-deploy check - ${DEST}.well-known/security.txt missing" >&2; exit 1; }
 
   echo "=== Build + deploy completed successfully ==="
 }

@@ -7,7 +7,7 @@ role: Transit Safety Officer, Harmonic Operations
 status: Active
 aliases:
   - "Dr. Vale"
-tags: [human, teleportation, quantum-space-harmonics, threshold-station, season-1]
+tags: [human, teleportation, quantum-space-harmonics, threshold-station, season-1, major-character]
 description: "Clinical transit specialist assigned to Threshold Station to supervise high-risk teleport operations."
 ---
 
