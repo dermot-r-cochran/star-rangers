@@ -60,3 +60,5 @@ The Imperium is remembered differently depending on where memory is kept. In Inn
 Both accounts are accurate. Neither is complete.
 
 The Star Rangers, founded a century after the Imperium's end, stand institutionally farthest from its model: independent, civilian-overseen, and explicitly accountable to a structure outside military command. Whether that is a correction or merely a different bias is a question the Survey Corps leaves to historians.
+
+Not every account of the Imperium's end is in the past tense. A small, uncoordinated number of officers hold that the negotiated restructuring into the Military Space Command never lawfully closed their standing orders, and have spent as long as two centuries acting on that reading. See [The Unbroken Command](/star-rangers/lore/the-unbroken-command/).
