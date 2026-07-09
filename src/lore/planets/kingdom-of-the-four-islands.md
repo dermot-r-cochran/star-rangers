@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "The Kingdom of the Four Islands"
 category: "Locations"
-tags: [four-islands, independent, kingdom, archipelago, locations, first-contact, lost-colony]
+tags: [four-islands, independent, kingdom, archipelago, locations, first-contact, lost-colony, abbeylands, feudal, tideward-sisterhood]
 description: "A hereditary kingdom holding the one temperate archipelago on an otherwise storm-scoured world — settled by a human departure older than any Solar System record, and found again only recently."
 image: "archipelago-palm-avenue.jpg"
 image_alt: "A windswept avenue of tall palms under a bright sky on the royal seat island of Vellamar"
@@ -45,7 +45,21 @@ and tall flowering spikes, violet shading to crimson at the bud, grown along the
 
 ## The Other Three Islands
 
-Court protocol names Vellamar first and always, but the Kingdom's practical survival runs through the other three: **Casimor**, the outermost island, absorbs the archipelago's worst weather almost by design and holds little beyond a hereditary watch-post whose keepers are honoured above nearly every other commoner rank; **Aduine**, terraced from shoreline to ridge, grows most of the Kingdom's food; and **Ostrel**, the sheltered-harbour island, holds the fishing fleets and what little inter-island trade the Kingdom conducts. A monarch is crowned on Vellamar, but a Vellamar cut off from the other three, court economists are quick to note, would not outlast a single storm season.
+Court protocol names Vellamar first and always, but the Kingdom's practical survival runs through the other three: **Casimor**, the outermost island, absorbs the archipelago's worst weather almost by design and holds little beyond a hereditary watch-post whose keepers are honoured above nearly every other commoner rank; **Aduine**, terraced from shoreline to ridge, grows most of the Kingdom's food — a wedge of it held as the Abbeylands, described below, rather than royal demesne; and **Ostrel**, the sheltered-harbour island, holds the fishing fleets and what little inter-island trade the Kingdom conducts. A monarch is crowned on Vellamar, but a Vellamar cut off from the other three, court economists are quick to note, would not outlast a single storm season.
+
+## The Abbeylands
+
+Not all of Aduine's terraces are the Crown's to tax. A wedge of the island's oldest and best-kept ground — locals simply call it **the Abbeylands** — has been held since before the current dynasty's own count of monarchs by the **Tideward Sisterhood**, a religious order whose founding charter predates every other surviving land grant in the Kingdom's, admittedly contested, written record. Court tradition holds that the founding monarch granted the terraces outright after a Sisterhood elder read a storm pattern the Crown's own weather-wardens had missed, and saved the colony's first harvest from a season that would otherwise have starved it. The charter that followed has never been revoked, redrawn, or — court lawyers admit, when pressed — fully explained.
+
+What resulted is the Kingdom's one deliberate exception to direct royal administration, and about as simple a feudal ladder as three tiers allow:
+
+- **The Crown**, sovereign over all Four Islands, administers most of Aduine at second hand through royally appointed stewards answerable to Vellamar.
+- **The Abbey**, holding the Abbeylands directly from the Crown as a tenant-in-chief rather than as a subject of Aduine's steward, owes Vellamar one obligation only: a fixed annual render of grain and preserved stores, delivered regardless of season or storm damage elsewhere on the island.
+- **The reeves**, free tenant farmers granted working tenure over individual terrace-strips by the Abbess, owe the Abbey a fixed share of each harvest and a set number of labour-days a season — maintaining the terrace walls, the storm-catchments, the shared threshing floors — and owe the Crown nothing directly at all.
+
+No knights, no sub-grants, no chain of lesser lords between reeve and Abbess and Crown. Court historians call the arrangement elegant. Aduine's steward, who administers everything the charter doesn't cover, calls it a boundary dispute that predates his office and will outlast it.
+
+The charter carries one obligation beyond grain: the Sisterhood keeps **the Long Accounting**, the Kingdom's only continuous written archive, in the Abbey's own hand since a date nobody outside the order can independently confirm. The royal court keeps its own record of descent and deed by oral chronicle, recited and cross-checked at every coronation; the Long Accounting is the sole written check against it, and the two have disagreed on points of succession at least twice in living memory. Neither side has pressed the disagreement to a resolution. Court gossip holds that both prefer it that way.
 
 ## First Contact and What Happens Next
 
