@@ -10,6 +10,7 @@
 #
 #   CPANEL_USER=undercov
 #   THEME=pets
+#   DOMAIN=undercover-pets.com
 #   CHARACTERS=aldera,elvira
 #   TOPICS=boundary,detective-agency
 #   ADMIN_EMAIL=admin@example.com
@@ -18,21 +19,34 @@
 #
 #   CPANEL_USER=starques
 #   THEME=starquest
+#   DOMAIN=starquest.site
 #
 # ...or for fellowshipoflight.org / fellowshipoflight.site /
 # fellowshipoflight.space (cPanel user "fellowsh"):
 #
 #   CPANEL_USER=fellowsh
 #   THEME=fellowship
+#   DOMAIN=fellowshipoflight.org
 #
 # All are optional. No deploy.conf, or a missing value, falls back to
-# CPANEL_USER=sciencef and THEME=default (the plain build with no CSS swap,
-# deployed to /home/sciencef/public_html/ — today's original behavior), no
-# content filtering (the full site), and no deployment-log email.
+# CPANEL_USER=sciencef, THEME=default, and DOMAIN=sciencefiction.site (the
+# plain build with no CSS swap, deployed to /home/sciencef/public_html/ —
+# today's original behavior), no content filtering (the full site), and no
+# deployment-log email.
 #
 # THEME=default uses src/css/main.css as-is. Any other THEME value maps to
 # src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
 # typo'd or not-yet-added theme), it falls back to src/css/main.css.
+#
+# DOMAIN is the bare host (no scheme, no path, no trailing slash) this
+# clone actually serves. scripts/cpanel-deploy.sh exports it as SITE_DOMAIN
+# for the Eleventy build, and src/_data/site.js uses it to build the
+# absolute URLs that robots.txt's Sitemap line and sitemap.xml's <loc>
+# entries need — both are rendered at build time (src/robots.njk,
+# src/sitemap.njk) rather than copied as static files, precisely so each
+# clone's Sitemap/sitemap.xml points at that clone's own domain instead of
+# all of them sharing one hardcoded host. The GitHub Pages build (which
+# never sets SITE_DOMAIN) falls back to the GH Pages URL itself.
 #
 # CHARACTERS and TOPICS are comma-separated, case-insensitive lists that
 # narrow the deployed site to content related to the listed characters

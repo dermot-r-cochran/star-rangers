@@ -50,23 +50,29 @@ THEME="default"
 CHARACTERS=""
 TOPICS=""
 ADMIN_EMAIL=""
+DOMAIN="sciencefiction.site"
 # shellcheck disable=SC1091
 [ -f "$REPOSITORY_ROOT/deploy.conf" ] && . "$REPOSITORY_ROOT/deploy.conf"
 
-# CHARACTERS/TOPICS/THEME are read via `process.env` inside the Eleventy
-# Node build below, which runs as a *child process* - sourcing deploy.conf
-# only sets them as local shell variables, so they must still be
-# `export`ed for Node to see them. THEME still also drives the post-build
-# CSS swap in step 5 below (that part never needed the export - it's this
-# same shell reading its own variable) - the export here is only so
-# src/index.md's per-theme hero copy resolves during the build itself.
-# CPANEL_USER/ADMIN_EMAIL are only ever read back within this same shell
-# (never by a subprocess), so they don't need it.
+# CHARACTERS/TOPICS/THEME/DOMAIN are read via `process.env` inside the
+# Eleventy Node build below, which runs as a *child process* - sourcing
+# deploy.conf only sets them as local shell variables, so they must still
+# be `export`ed for Node to see them. THEME still also drives the
+# post-build CSS swap in step 5 below (that part never needed the export -
+# it's this same shell reading its own variable) - the export here is only
+# so src/index.md's per-theme hero copy, and src/_data/site.js's per-domain
+# robots.txt/sitemap.xml URLs, resolve during the build itself. DOMAIN is
+# exported as SITE_DOMAIN (not DOMAIN) since that env var name is generic
+# enough to risk colliding with something host-level; site.js reads
+# SITE_DOMAIN specifically. CPANEL_USER/ADMIN_EMAIL are only ever read back
+# within this same shell (never by a subprocess), so they don't need it.
 export CHARACTERS TOPICS THEME
+SITE_DOMAIN="$DOMAIN"
+export SITE_DOMAIN
 
 {
-  printf '=== cPanel deploy started: %s (user=%s theme=%s) ===\n' \
-    "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$CPANEL_USER" "$THEME"
+  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s) ===\n' \
+    "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$CPANEL_USER" "$THEME" "$DOMAIN"
 } | tee -a "$LOG_FILE"
 
 # ---------------------------------------------------------------------------
@@ -83,7 +89,7 @@ main() {
   npm ci --no-audit --no-fund \
     || { echo "FAIL: npm ci" >&2; exit 1; }
 
-  echo "--- [2/5] eleventy build (CHARACTERS=$CHARACTERS TOPICS=$TOPICS) ---"
+  echo "--- [2/5] eleventy build (CHARACTERS=$CHARACTERS TOPICS=$TOPICS SITE_DOMAIN=$SITE_DOMAIN) ---"
   "$REPOSITORY_ROOT/node_modules/.bin/eleventy" \
     || { echo "FAIL: eleventy build" >&2; exit 1; }
 

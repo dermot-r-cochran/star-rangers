@@ -87,6 +87,7 @@ The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can
 ```bash
 CPANEL_USER=sciencef
 THEME=default
+DOMAIN=sciencefiction.site
 CHARACTERS=aldera,elvira
 TOPICS=boundary,detective-agency
 ADMIN_EMAIL=admin@example.com
@@ -95,6 +96,7 @@ ADMIN_EMAIL=admin@example.com
 - `CPANEL_USER` controls deployment destination: `/home/<CPANEL_USER>/public_html/`.
 - `THEME=default` keeps `src/css/main.css`.
 - Any other `THEME` value uses `src/css/theme-<THEME>.css` when that file exists; otherwise deployment falls back to `src/css/main.css`.
+- `DOMAIN` is the bare domain this clone actually serves (no scheme, no path, no trailing slash — e.g. `undercover-pets.com`). It's exported as `SITE_DOMAIN` for the Eleventy build and consumed by `src/_data/site.js`, which `src/robots.njk` and `src/sitemap.njk` use to render `robots.txt`'s `Sitemap:` line and every `<loc>` in `sitemap.xml` with that clone's own domain — both files are generated at build time rather than copied statically, specifically so each of this repo's several production domains gets a correct, working sitemap reference instead of all of them sharing one hardcoded host. The GitHub Pages build never sets `SITE_DOMAIN`, so it falls back to the GH Pages URL itself.
 - `CHARACTERS` and `TOPICS` are optional, comma-separated, case-insensitive lists that narrow the deployed site to content related to the listed characters and/or topics:
   - `CHARACTERS` matches character page `id`s and chapter POV character `id`s.
   - `TOPICS` matches page `tags` (and `category`, where present), across every content type including character pages.
@@ -103,7 +105,7 @@ ADMIN_EMAIL=admin@example.com
   - Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
   - Leaving both unset/empty deploys the full, unfiltered site (the default).
 - `ADMIN_EMAIL` is optional. If set, an email is sent to it after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. No default is set in the repo (deliberately, so no real address is hardcoded in this public repo) — each clone that wants notifications sets its own `ADMIN_EMAIL` in its own untracked `deploy.conf`. This is best-effort only: if `ADMIN_EMAIL` is unset, or no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
-- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, no content filtering, and no deploy-log email.
+- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, no content filtering, and no deploy-log email.
 
 ## Creative tooling
 

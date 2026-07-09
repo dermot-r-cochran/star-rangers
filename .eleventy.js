@@ -50,7 +50,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/audio": "audio" });
   eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
   eleventyConfig.addPassthroughCopy({ "src/static/.htaccess": ".htaccess" });
-  eleventyConfig.addPassthroughCopy({ "src/static/robots.txt": "robots.txt" });
+  // robots.txt is no longer a static passthrough file - src/robots.njk
+  // renders it so its Sitemap line can carry the right absolute domain
+  // per deploy target (see src/_data/site.js and scripts/cpanel-deploy.sh).
   eleventyConfig.addPassthroughCopy({ "src/static/.well-known": ".well-known" });
 
   eleventyConfig.addFilter("postDate", (dateObj) => {
