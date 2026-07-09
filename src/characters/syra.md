@@ -7,7 +7,7 @@ role: Boundary Analyst
 status: Active
 aliases:
   - "Nai Syra"
-tags: [krenyi, boundary, threshold-station, season-1]
+tags: [krenyi, boundary, threshold-station, season-1, major-character]
 description: "A Krenyi boundary analyst, approximately 150 years old, assigned to the Threshold Station survey team."
 ---
 

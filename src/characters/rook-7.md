@@ -7,7 +7,7 @@ role: Field Analyst, Detective Agency Unit
 status: Active
 aliases:
   - "Rook"
-tags: [robot, detective-agency, threshold-station, boundary, season-1]
+tags: [robot, detective-agency, threshold-station, boundary, season-1, major-character]
 description: "A robot with non-standard sensor arrays and an investigative/analytical classification, assigned to the Threshold Station survey."
 ---
 

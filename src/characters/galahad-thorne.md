@@ -8,7 +8,7 @@ status: Active
 aliases:
   - "Galahad"
   - "Thorne"
-tags: [human, survey, threshold-station, season-1]
+tags: [human, survey, threshold-station, season-1, major-character]
 description: "Senior boundary surveyor assigned to lead the new team at Threshold Station."
 ---
 
