@@ -61,6 +61,7 @@ Three seats concentrating executive authority is exactly the shape the charter's
 ## See Also
 
 - [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/)
+- [Decision-Making and Communication in the Star Rangers](/star-rangers/lore/star-rangers-decision-and-communication/)
 - [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/)
 - [Military Space Command](/star-rangers/lore/military-space-command/)
 - [Karla Wender](/star-rangers/characters/karla-wender/)
