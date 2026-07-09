@@ -112,6 +112,15 @@ main() {
     || { echo "FAIL: rsync to $DEST" >&2; exit 1; }
   test -f "${DEST}index.html" \
     || { echo "FAIL: post-deploy check - ${DEST}index.html missing" >&2; exit 1; }
+  # cPanel is Apache-hosted, unlike GitHub Pages, so it's the only target
+  # that actually reads .htaccess - a missing file here silently deploys
+  # with none of its security headers (CSP, X-Frame-Options, etc.) instead
+  # of failing loudly, so it gets the same fail-the-deploy treatment as
+  # index.html above rather than being left to a manual spot-check.
+  test -f "${DEST}.htaccess" \
+    || { echo "FAIL: post-deploy check - ${DEST}.htaccess missing" >&2; exit 1; }
+  test -f "${DEST}.well-known/security.txt" \
+    || { echo "FAIL: post-deploy check - ${DEST}.well-known/security.txt missing" >&2; exit 1; }
 
   echo "=== Build + deploy completed successfully ==="
 }
