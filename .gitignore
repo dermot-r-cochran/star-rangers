@@ -4,3 +4,4 @@ _site/
 *.log
 deploy.conf
 deploy-logs/
+src/lore/custom/

@@ -82,7 +82,7 @@ npm run test
 The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root.
 
 1. In your local clone, copy the tracked template into place: `cp sample-deploy.conf deploy.conf` (the copy is untracked/gitignored, since it's specific to one clone/domain).
-2. Edit `deploy.conf` with values for the target cPanel account, optional theme, optional content filtering, and optional deploy-log email:
+2. Edit `deploy.conf` with values for the target cPanel account, optional theme, optional content filtering, optional deploy-log email, and optional clone-exclusive lore/style:
 
 ```bash
 CPANEL_USER=sciencef
@@ -91,6 +91,8 @@ DOMAIN=sciencefiction.site
 CHARACTERS=aldera,elvira
 TOPICS=boundary,detective-agency
 ADMIN_EMAIL=admin@example.com
+CUSTOM_LORE_FILE=/home/sciencef/custom-lore/exclusive-entry.md
+CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 ```
 
 - `CPANEL_USER` controls deployment destination: `/home/<CPANEL_USER>/public_html/`.
@@ -105,7 +107,10 @@ ADMIN_EMAIL=admin@example.com
   - Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
   - Leaving both unset/empty deploys the full, unfiltered site (the default).
 - `ADMIN_EMAIL` is optional. If set, an email is sent to it after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. No default is set in the repo (deliberately, so no real address is hardcoded in this public repo) — each clone that wants notifications sets its own `ADMIN_EMAIL` in its own untracked `deploy.conf`. This is best-effort only: if `ADMIN_EMAIL` is unset, or no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
-- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, no content filtering, and no deploy-log email.
+- `CUSTOM_LORE_FILE` is optional: a path to a clone-local, untracked markdown file with valid lore-entry front matter (`layout: lore-entry.njk`, `title`, `category`, etc. — see any file under `src/lore/` for the shape). If set, `scripts/cpanel-deploy.sh` copies it into `src/lore/custom/` before the build, so it becomes one extra lore page unique to this clone (builds at `/lore/custom/<filename-without-extension>/`), then removes it again once the build has read it — the clone's working tree never carries leftover untracked content between deploys, and nothing is ever committed to the shared repo.
+- `CUSTOM_CSS_FILE` is optional: a path to a clone-local, untracked CSS file. If set, its contents are appended to the deployed `css/main.css` after the `THEME` stylesheet, so a clone can tweak a handful of things — a color, a font — without needing a whole new `theme-<name>.css` in the shared repo. Because it loads last, its rules can override the theme's.
+- Both `CUSTOM_LORE_FILE` and `CUSTOM_CSS_FILE` fail the deploy (loudly, not silently) if set to a path that doesn't exist, so a typo can't ship a build silently missing the content the clone owner expected.
+- If `deploy.conf` is missing, deployment defaults to `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, no content filtering, no deploy-log email, and no custom lore/CSS.
 
 ## Creative tooling
 

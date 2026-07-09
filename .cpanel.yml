@@ -14,6 +14,8 @@
 #   CHARACTERS=aldera,elvira
 #   TOPICS=boundary,detective-agency
 #   ADMIN_EMAIL=admin@example.com
+#   CUSTOM_LORE_FILE=/home/undercov/custom-lore/undercover-pets-origin.md
+#   CUSTOM_CSS_FILE=/home/undercov/custom-lore/undercover-pets-tweaks.css
 #
 # ...or for starquest.site / starquest.online (cPanel user "starques"):
 #
@@ -87,6 +89,22 @@
 # observability: if ADMIN_EMAIL is unset, or neither mail command is
 # available, or the send itself fails, the deploy's own success/failure is
 # completely unaffected — see scripts/cpanel-deploy.sh.
+#
+# CUSTOM_LORE_FILE and CUSTOM_CSS_FILE let one clone carry a small amount
+# of domain-exclusive content without touching the shared repo:
+#   - CUSTOM_LORE_FILE points at a clone-local, untracked markdown file
+#     with valid lore-entry front matter (layout: lore-entry.njk, title,
+#     category, etc.). scripts/cpanel-deploy.sh copies it into
+#     src/lore/custom/ before the build (so it builds as one extra page at
+#     /lore/custom/<filename-without-extension>/) and removes it again
+#     once the build has read it — the clone's working tree carries no
+#     leftover untracked content between deploys.
+#   - CUSTOM_CSS_FILE points at a clone-local, untracked CSS file whose
+#     contents get appended to the deployed css/main.css after the THEME
+#     stylesheet, so its rules load — and can override — last.
+#   - Both are optional and fail the deploy loudly (not silently) if set
+#     to a path that doesn't exist, so a typo'd path can't ship a build
+#     that's silently missing the content the clone owner expected.
 #
 # Independent of ADMIN_EMAIL, every deployment attempt also saves its full
 # log locally to deploy-logs/ (untracked/gitignored), one timestamped file
