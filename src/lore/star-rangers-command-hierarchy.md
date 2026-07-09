@@ -63,6 +63,7 @@ Three seats concentrating executive authority is exactly the shape the charter's
 - [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/)
 - [Decision-Making and Communication in the Star Rangers](/star-rangers/lore/star-rangers-decision-and-communication/)
 - [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/)
+- [Retired Rangers: Liaisons, Representatives, and Recruiters](/star-rangers/lore/planetary-liaisons-and-recruiters/)
 - [Military Space Command](/star-rangers/lore/military-space-command/)
 - [Karla Wender](/star-rangers/characters/karla-wender/)
 - [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)
