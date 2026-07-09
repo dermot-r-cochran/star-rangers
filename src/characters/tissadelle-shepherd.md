@@ -8,7 +8,7 @@ status: Active
 aliases:
   - "Shepherd"
   - "Tiss"
-tags: [human, star-rangers, cadet, line-captain, celtic-union, tir-na-nog, season-1, season-5]
+tags: [human, star-rangers, cadet, line-captain, celtic-union, tir-na-nog, sentinel, meridian, halyx-system, season-1, season-5]
 description: "Star Ranger cadet at the start of Season 1; earns the rank of Line Captain by Season 5."
 image: tissadelle-shepherd-card.png
 image_alt: "Star Rangers personnel file card for Tissadelle Shepherd, Cadet, Survey & Operations Division"
@@ -41,6 +41,12 @@ Shepherd does not mythologise the Rangers or the role. She treats the title as a
 She is aware that some situations do not have clearly available solutions. She handles this by continuing to work.
 
 Her relationship to Karla Wender develops across the early seasons from distant chain-of-command awareness to direct operational contact.
+
+## The Sentinel Signal
+
+Somewhere between her Officer and Chief years, reviewing archived Hegemony telemetry from [the Sentinel](/star-rangers/lore/planets/sentinel/) under a routine Survey Corps data-exchange, Shepherd did what pattern-recognition software had not been built to do: she stopped reading the world's unclassifiable EM pulse as data and ran it as audio. What generations of automated classifiers had filed as noise because it matched no known protocol, she flagged within one listen as something with phrasing, repetition, and variation — considerably harder to file, and considerably harder to ignore.
+
+It is the one line on her record that has nothing to do with rank. Her instructors taught her to read instruments. Slipwave taught her to read the space between the notes. The Sentinel needed the second kind of reading, and nobody had thought to send it.
 
 ## Home Ground
 
