@@ -16,7 +16,7 @@ tags: [aethelrock, celtic-union, clan-ceridwen, ridgemoot, timeline, history]
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Aethelrock Rotation Dispute Begins</h1>
-  <p><span class="character-badge">Year -2 (2824 UCSD)</span></p>
+  <p><span class="character-badge">Year -2 (2824 UCSD)</span> <span class="character-badge">2624 CE, Ceridwen clan archives</span></p>
 </header>
 <div class="lore-entry__body">
 
@@ -32,8 +32,9 @@ The dispute does not resolve cleanly along old lines. [Cormac Dubhghlas](/star-r
 - No clan head disputes that contact needed answering — the dispute is over who had standing to answer it, and on what terms.
 - Niamh Ó Ceallaigh's compromise rotation proposal remains the only alternative on the table, and remains unadopted.
 - The dispute is unresolved as of Year 0 (2826 UCSD); the next Ridgemoot is expected to renegotiate the rotation rather than simply confirm it.
+- Clan Ceridwen's own archives log the event as 2624 CE, the legacy calendar the Currach Fleet departed Earth on — a dating habit the Celtic Union never fully retired, unlike Solar System institutional records. See [Universal Cosmic Stardate (UCSD)](/star-rangers/lore/universal-cosmic-stardate/) for the conversion.
 
-See: [Aethelrock](/star-rangers/lore/planets/aethelrock/), [Rhiannon Ceridwen](/star-rangers/characters/rhiannon-ceridwen/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/).
+See: [Aethelrock](/star-rangers/lore/planets/aethelrock/), [Rhiannon Ceridwen](/star-rangers/characters/rhiannon-ceridwen/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Universal Cosmic Stardate (UCSD)](/star-rangers/lore/universal-cosmic-stardate/).
 
 </div>
 <footer class="lore-entry__footer">
