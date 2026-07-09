@@ -30,4 +30,4 @@ Union cultural authorities have not resolved the two readings against each other
 
 Aoife's feast remains kept across Celtic Union charter worlds on the anniversary of the vision rather than her death, unchanged from Brother Daire's community's own choice nine centuries prior. She has no formal ecclesiastical standing recognised outside Union practice, and none of her devotees have ever asked for one.
 
-See also: [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [Brother Daire](/star-rangers/characters/brother-daire/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/).
+See also: [Aoife (character profile)](/star-rangers/characters/saint-aoife/), [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [Brother Daire](/star-rangers/characters/brother-daire/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/).
