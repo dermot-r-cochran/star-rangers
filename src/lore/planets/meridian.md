@@ -33,4 +33,6 @@ The arrangement is a durable one rather than a settled one. Hegemony extraction 
 
 No permanent human presence exists on Meridian's surface, and none is expected to. Human visitors — Star Ranger crews included, on the rare occasion the Hegemony grants entry — operate exclusively from sealed orbital or submersible platforms, and only ever meet Meridian sapients through translation instrumentation and armored remote proxies. It remains, on every count that matters to the humans who have logged time there, the least hospitable biosphere world on record.
 
-See also: [The Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/), [Cerebraun](/star-rangers/lore/cerebraun/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/).
+Sharing the Halyx System, close enough in-system that early survey logs once treated the two as a matched pair, is [the Sentinel](/star-rangers/lore/planets/sentinel/) — a small, lifeless world whose only notable feature turned out to matter considerably more than its survey classification suggested.
+
+See also: [The Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/), [Cerebraun](/star-rangers/lore/cerebraun/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [The Sentinel](/star-rangers/lore/planets/sentinel/).
