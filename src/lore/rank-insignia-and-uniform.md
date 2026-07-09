@@ -41,4 +41,8 @@ Certification patches are a separate mark, worn beside the rank tab and never mi
 
 That gap is treated as informative, not embarrassing. A rank tab says a Ranger is trusted to command. A certification patch says a Ranger is trusted to be right about a specific, narrow thing. The uniform is built to let both statements be checked independently, because the charter's drafters had watched what happens to an organization whose insignia lets people assume the second from the first.
 
+## Decorations
+
+Medals, valor citations, and service ribbons are a third mark again, worn below the rank tab and distinct from both it and any certification patch. They record what a Ranger has done, not what they are trusted to command or qualified to assess — which is why they accumulate on a [technical Chief's](/star-rangers/lore/star-rangers-command-hierarchy/) record exactly as they would on a Line Captain's. A Chief who never pursues a Starwarden's post is not thereby capped on recognition, only on rank; decades of distinctions within a specialization sit on the uniform without ever requiring — or implying — a promotion that specialization was never the ladder for.
+
 See also: [Formation of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/), [Survey Corps Boundary Monitoring Protocol](/star-rangers/codex/survey-corps-protocol/), [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/), [Karla Wender](/star-rangers/characters/karla-wender/).
