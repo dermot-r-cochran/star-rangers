@@ -26,13 +26,15 @@ By Season 5, these qualities have become load-bearing. A Line Captain who will n
 
 Several promotions land each season rather than one — Shepherd's climb is compressed, not skipped:
 
-- **Season 1:** Cadet → Deputy → Officer
-- **Season 2:** Officer → Senior → Principal
-- **Season 3:** Principal → Section Lead → Chief
-- **Season 4:** Chief → Starwarden → Starwarden First Officer → Line Captain
+- **Season 1:** Cadet → Deputy → Officer (general operations track)
+- **Season 2:** Officer → Senior → Principal, rotated onto the Survey Corps track — the posting that puts her on Hegemony telemetry duty during the Sentinel Signal, below
+- **Season 3:** Principal → Section Lead → **Chief Ranger**, rotated back onto general operations rather than staying Survey-track
+- **Season 4:** Chief Ranger → Starwarden → Starwarden First Officer → Line Captain
 - **Season 5 (opening):** Line Captain
 
 See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for what each rank on that ladder carries.
+
+The track changes are not indecision. Most Rangers who make Chief have spent the certification ladder on one specialization, heading toward the kind of deep technical mastery a [Chief Pilot](/star-rangers/characters/karla-wender/) or a career boundary-safety officer represents. Shepherd never settles on one long enough to become that. What the rotations build instead is a Chief who has personally worked general operations and boundary science, and the space between them — exactly the breadth a Line Captain needs to answer for Rangers she's sending into work she hasn't done herself, but has usually done something adjacent to. Her instructors read the rotations as a lack of focus early on. Her later record reads them as the reason she was ready for Line Captain a season before the timeline usually allows.
 
 ## Character Notes
 
