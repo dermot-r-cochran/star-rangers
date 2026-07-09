@@ -8,7 +8,7 @@ description: "A locally canonised Irish holy woman of the thirteenth century, ca
 
 Most saints the Currach Fleet's founders carried off Earth stayed exactly what they had always been: names on a calendar, patrons of a trade, comfort at a deathbed. Aoife is the one who kept changing shape.
 
-**Saint Aoife** (d. 1241 AD) is a locally venerated holy woman of medieval Ireland, never formally canonised by any higher ecclesiastical authority but sustained in continuous devotional practice by the community that named her a saint on its own recognisance — and, six centuries later, by the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), whose founding cooperatives carried her cult off Earth along with their languages. Her feast, her well, and the single surviving account of her life all trace back to one document: [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), written in 1216 AD by Brother Daire of Cill Aoife.
+**Saint Aoife** (d. 1241 AD) is a locally venerated holy woman of medieval Ireland, never formally canonised by any higher ecclesiastical authority but sustained in continuous devotional practice by the community that named her a saint on its own recognisance — and, six centuries later, by the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), whose founding cooperatives carried her cult off Earth along with their languages. Her feast, her well, and the single surviving account of her life all trace back to one document: [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), written in 1216 AD by [Brother Daire](/star-rangers/characters/brother-daire/) of Cill Aoife.
 
 ## The Vision
 
@@ -30,4 +30,4 @@ Union cultural authorities have not resolved the two readings against each other
 
 Aoife's feast remains kept across Celtic Union charter worlds on the anniversary of the vision rather than her death, unchanged from Brother Daire's community's own choice nine centuries prior. She has no formal ecclesiastical standing recognised outside Union practice, and none of her devotees have ever asked for one.
 
-See also: [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/).
+See also: [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [Brother Daire](/star-rangers/characters/brother-daire/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/).
