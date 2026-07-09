@@ -16,7 +16,7 @@ image_alt: "Star Rangers personnel file card for Tissadelle Shepherd, Cadet, Sur
 
 Cadet is the entry rank. It is where formal training meets first operational exposure, and where the qualities that will become most useful later are not yet rewarded in proportion.
 
-Tissadelle Shepherd begins Season 1 there. She reaches the rank of Line Captain in Season 5, after four seasons of operational service. The distance between those two points is the structural spine of her arc.
+Tissadelle Shepherd begins Season 1 there. She reaches the rank of Line Captain in Season 5, after four seasons of operational service, climbing the [full rank ladder](/star-rangers/lore/star-rangers-command-hierarchy/) between the two — the specific intermediate steps remain to be established in story. The distance between those two points is the structural spine of her arc.
 
 At the cadet stage, she is already methodical where others are eager. She does not volunteer assessments she cannot support. She does not perform confidence she does not have. In the early ranks, momentum and initiative are more visibly rewarded than accuracy. She advances anyway.
 
@@ -26,6 +26,8 @@ By Season 5, these qualities have become load-bearing. A Line Captain who will n
 
 - **Season 1:** Cadet
 - **Season 5:** Line Captain
+
+See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for the full ladder between them.
 
 ## Character Notes
 
