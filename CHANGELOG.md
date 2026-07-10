@@ -9,6 +9,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 ### Added
 
 - **Prismere** (`src/lore/planets/prismere.md`) and its native people, the **Prismeri** (`src/lore/prismeri.md`): a new Federation of Sentient Beings charter world with a bioluminescent silicate-carbon biosphere and a naked-eye fold-corridor phenomenon, the Lattice, tying into existing Lagrange Fold Points and Quantum Space Harmonics canon.
+- **Bubochka**, a trainee rabbit in the Undercover Pets Detective Agency, mentored by Agent Barsik at Eden Space Habitat (`src/characters/bubochka.md`).
+- **The Orbital Habitats Compact** (`src/lore/orbital-habitats-compact.md`): the civil governance chain for Eden and the other four self-governing orbital habitats around Earth, running parallel to — and never overlapping — the Star Rangers' charter-limited authority. Introduces Superintendent Rasa Oyelaran, Space Commissioner Zara Wayland, Mayor Imogen Petrakis, and Chief Commissioner Dorian Calloway, and gives Governor Petra Voss (previously only referenced from Commander Kai Larsen's page) her own character profile.
 
 ### Changed
 

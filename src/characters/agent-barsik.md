@@ -23,3 +23,5 @@ Barsik's badge is real agency issue, not decorative. What it authorises is delib
 Reports through the same distributed network Aldera uses: logs filed, not volunteered. Whether Barsik and Aldera have ever cross-referenced a case is not yet established — the network's own compartmentalisation would keep it that way by design, not accident.
 
 Eden's fold-proximate position means its "ordinary" administrative noise — drift reports, dual-valid readings, the kind of thing six independent instruments once cross-correlated and got dismissed as a calibration error — is exactly the kind of low-grade anomaly the agency wants a quiet, permanent observer on. Barsik is that observer.
+
+He has a trainee now: [Bubochka](/star-rangers/characters/bubochka/), a rabbit, assigned to him on the same mascot-first doctrine that keeps his own cover intact. Neither of them appears as bureau personnel on Superintendent [Oyelaran](/star-rangers/characters/rasa-oyelaran/)'s books — only as station-mascot livestock, which is exactly the point.
