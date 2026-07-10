@@ -24,6 +24,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Changed
 
+- **Tír na nÓg** (`src/lore/planets/tir-na-nog.md`) is reframed as a standing, unexplained scientific anomaly rather than a comfortable "convergent evolution" story, to establish as firm setting canon that no world or species is ever naturally compatible with Earthlike gravity/atmosphere without engineering — Tír na nÓg remains the sole confirmed exception, now explicitly flagged as one nobody has closed the file on. Cross-linked update in `celtic-union-of-planets.md`. `kingdom-of-the-four-islands.md` gets a small clarifying addition (centuries-old, since-forgotten atmospheric engineering by the lost colony's founders) so it doesn't read as a second, unflagged exception to the same rule.
 - `ADMIN_EMAIL` deploy.conf key now defaults to `admin@<DOMAIN>` instead of staying unset, so every cPanel clone gets deploy-log notifications out of the box without needing its own `deploy.conf` entry for it.
 
 ## [1.5.0] - 2026-07-09
