@@ -56,6 +56,11 @@ CUSTOM_CSS_FILE=""
 # shellcheck disable=SC1091
 [ -f "$REPOSITORY_ROOT/deploy.conf" ] && . "$REPOSITORY_ROOT/deploy.conf"
 
+# ADMIN_EMAIL defaults to admin@<DOMAIN> rather than staying unset, so every
+# clone gets a deploy-log notification out of the box without needing its
+# own deploy.conf entry.
+[ -z "$ADMIN_EMAIL" ] && ADMIN_EMAIL="admin@$DOMAIN"
+
 # CHARACTERS/TOPICS/THEME/DOMAIN are read via `process.env` inside the
 # Eleventy Node build below, which runs as a *child process* - sourcing
 # deploy.conf only sets them as local shell variables, so they must still

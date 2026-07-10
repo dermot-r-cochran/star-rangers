@@ -83,11 +83,11 @@ CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 | `DOMAIN` | `sciencefiction.site` | Bare domain this clone serves (no scheme, no path, no trailing slash — e.g. `undercover-pets.com`). |
 | `CHARACTERS` | *(unset — full site)* | Comma-separated character `id`s that narrow the deployed content. |
 | `TOPICS` | *(unset — full site)* | Comma-separated tag/category values that narrow the deployed content. |
-| `ADMIN_EMAIL` | *(unset — no email)* | Address notified after every deploy attempt, success or failure. |
+| `ADMIN_EMAIL` | `admin@<DOMAIN>` | Address notified after every deploy attempt, success or failure. |
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
 
-If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, the full unfiltered site, no deploy-log email, and no custom lore/CSS.
+If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, the full unfiltered site, a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
 
 #### `THEME` and available themes
 
@@ -120,7 +120,7 @@ The bare domain this clone actually serves. It's exported as `SITE_DOMAIN` for t
 
 #### `ADMIN_EMAIL`
 
-If set, an email is sent to it after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. No default is set in the repo (deliberately, so no real address is hardcoded in this public repo). This is best-effort only: if `ADMIN_EMAIL` is unset, or no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
+An email is sent to it after **every** deployment attempt — success or failure — with a `SUCCESS`/`FAILURE` subject (including the cPanel account and a timestamp) and the full build+deploy log as the body, so failures are visible without having to check cPanel's own UI. Sent via local `mail`(1), falling back to `/usr/sbin/sendmail` if `mail` isn't installed. If not set explicitly, it defaults to `admin@<DOMAIN>` (e.g. `admin@sciencefiction.site`) rather than hardcoding a real address in this public repo. This is best-effort only: if no mail command is available, or sending itself fails, the deployment's own outcome is unaffected.
 
 #### `CUSTOM_LORE_FILE` and `CUSTOM_CSS_FILE`
 
