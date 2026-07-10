@@ -61,6 +61,12 @@
 #     embed character slugs, e.g. a timeline entry tagged "aldera"), so a
 #     page is included if it matches CHARACTERS or TOPICS by any of the
 #     above.
+#   - CHARACTERS additionally pulls in any lore, timeline, or glossary entry
+#     that an included character's own bio links to directly (see
+#     lib/content-filter.js's getRelatedContentUrls), even without a
+#     matching tag - a character's bio already records what background
+#     matters for understanding them, so that background rides along
+#     automatically instead of needing every relevant entry hand-tagged.
 #   - Excluded pages still build at their normal URL — as a minimal
 #     "not included in this edition" placeholder — instead of being
 #     omitted, so links to them never 404.

@@ -8,6 +8,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Added
 
+- `CHARACTERS`-filtered deploys now automatically include any lore, timeline, or glossary entry that an included character's own bio links to directly, on top of the existing tag/category matching (`lib/content-filter.js`'s new `getRelatedContentUrls`). A character's bio is already the record of what background matters for understanding them, so that background no longer needs separate hand-tagging to survive a narrowed deploy.
+
 - **Saltmere** (`src/lore/planets/saltmere.md`), a newly first-contacted planet in the Annwyn System with no landmass at all — a single global ocean settled entirely on engineered floating city-platforms tethered to the seafloor by mooring towers, built to give under storm load rather than hold rigid. Its **aquabots** — Kernel-compliant autonomous underwater maintenance vehicles — are noted as a convergent, not descended, echo of Earth's classified Subsea Cable Warden Programme, with a reciprocal cross-link added to that page.
 - **Prismere** (`src/lore/planets/prismere.md`) and its native people, the **Prismeri** (`src/lore/prismeri.md`): a new Federation of Sentient Beings charter world with a bioluminescent silicate-carbon biosphere and a naked-eye fold-corridor phenomenon, the Lattice, tying into existing Lagrange Fold Points and Quantum Space Harmonics canon.
 - **Bubochka**, a trainee rabbit in the Undercover Pets Detective Agency, mentored by Agent Barsik at Eden Space Habitat (`src/characters/bubochka.md`).
