@@ -6,7 +6,9 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-Nothing yet.
+### Added
+
+- **Prismere** (`src/lore/planets/prismere.md`) and its native people, the **Prismeri** (`src/lore/prismeri.md`): a new Federation of Sentient Beings charter world with a bioluminescent silicate-carbon biosphere and a naked-eye fold-corridor phenomenon, the Lattice, tying into existing Lagrange Fold Points and Quantum Space Harmonics canon.
 
 ## [1.5.0] - 2026-07-09
 
