@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Saltmere"
 category: "Locations"
-tags: [saltmere, ocean-world, floating-cities, locations, first-contact, independent, annwyn-system]
+tags: [saltmere, ocean-world, floating-cities, locations, first-contact, independent, annwyn-system, aquabots, ai, kernel-compliant]
 description: "A planet with no landmass at all: an unbroken global ocean, settled entirely on engineered floating city-platforms tethered to the seafloor by mooring towers that never stop working."
 image: "saltmere-mooring-gantry-1.jpg"
 image_alt: "A mooring gantry tower rising from Saltmere's open water, its truss causeway running out toward a floating city segment beyond the frame"
@@ -32,6 +32,12 @@ Residents plan around the cycle the way a tidal-coast settlement elsewhere might
 ## Storms and the Reason Nobody Builds Rigid
 
 Saltmere's storm systems are not survivable by outrunning them — there is nowhere to run to — and are not survivable by holding rigid against them either, which the founding generation apparently learned at a cost the surviving record does not detail. Every platform hull and every mooring tower on Saltmere is built to *give*: cables that pay out and re-tension rather than snap taut, hull couplings that decouple automatically past a stress threshold rather than tear the tower down with them. A city segment that rides a storm loose on its cable and re-couples afterward is the design's entire point. A city segment that doesn't move is the failure mode the design exists to prevent.
+
+## Aquabots
+
+Nobody dives to inspect a mooring cable eight hundred metres down, and nobody has needed to in living memory. That work belongs to **aquabots** — small, long-endurance autonomous underwater vehicles that patrol the tower foundations, cable runs, and hull couplings continuously, surfacing only to dock, resupply, or escalate a finding no onboard repair routine can resolve on its own. Every aquabot is Kernel-compliant, like every other lawful agentic system in the Concordant: it will flag a stress reading it cannot account for rather than quietly recalibrate around it, and it will not certify a coupling safe on a confidence level it cannot show its work for.
+
+A visiting Survey Corps archivist, cross-referencing Saltmere's first-contact report against the Archive's own holdings, flagged the resemblance immediately: long-endurance, acoustically quiet, built to work months at depth without surfacing, invisible to the residents whose safety depends on it — the same design philosophy [Earth's classified Subsea Cable Warden Programme](/star-rangers/lore/subsea-cable-drones/) settled on centuries earlier and half a galaxy away, for exactly the same reason. Saltmere had no contact with Solar System record before the Star Rangers found it, so the resemblance cannot be descent. It is convergence: two civilizations, generations apart and never in contact, independently concluding that critical underwater infrastructure is best protected by something small, patient, and rarely seen. The archivist's note on the report is a single line: *some problems only have one good answer, and it doesn't care who finds it first.*
 
 ## Settlement Character
 

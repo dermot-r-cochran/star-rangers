@@ -79,3 +79,7 @@ This is not an argument for overstatement. The Programme was one layer in a larg
 The Survey Archive's annotation on the final declassification package reads:
 
 *The systems we build to protect what we have are not always visible to the people whose work depends on them. This is sometimes a design choice and sometimes an oversight. In the case of the Warden Programme, it was both.*
+
+## A Distant Echo
+
+The Programme's design philosophy resurfaced, independently and centuries later, half a galaxy from Earth: [Saltmere's](/star-rangers/lore/planets/saltmere/) aquabots — the autonomous underwater vehicles maintaining that ocean world's floating-city mooring towers — were built by a civilization with no Solar System contact at all before first contact with the Star Rangers. The resemblance is convergence, not descent, and the Survey Archive has filed it that way. Some problems, it seems, only have one good answer.
