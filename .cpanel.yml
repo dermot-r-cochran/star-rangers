@@ -33,8 +33,8 @@
 # All are optional. No deploy.conf, or a missing value, falls back to
 # CPANEL_USER=sciencef, THEME=default, and DOMAIN=sciencefiction.site (the
 # plain build with no CSS swap, deployed to /home/sciencef/public_html/ —
-# today's original behavior), no content filtering (the full site), and no
-# deployment-log email.
+# today's original behavior), no content filtering (the full site), and a
+# deployment-log email to admin@<DOMAIN> (e.g. admin@sciencefiction.site).
 #
 # THEME=default uses src/css/main.css as-is. Any other THEME value maps to
 # src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
@@ -78,17 +78,16 @@
 # Leaving both unset/empty (the default, and always true for the GitHub
 # Pages build) deploys the full, unfiltered site.
 #
-# ADMIN_EMAIL, if set, receives one email per deployment attempt — success
-# or failure — with the full captured build+deploy log as the body and a
+# ADMIN_EMAIL receives one email per deployment attempt — success or
+# failure — with the full captured build+deploy log as the body and a
 # SUCCESS/FAILURE subject line (plus CPANEL_USER and a timestamp, since
 # every clone shares this same .cpanel.yml). Sent via local `mail`(1),
 # falling back to /usr/sbin/sendmail directly if `mail` isn't installed.
-# No default is set here deliberately, so no real address is hardcoded in
-# this public repo — each clone that wants notifications sets its own
-# ADMIN_EMAIL in its untracked deploy.conf. This is strictly best-effort
-# observability: if ADMIN_EMAIL is unset, or neither mail command is
-# available, or the send itself fails, the deploy's own success/failure is
-# completely unaffected — see scripts/cpanel-deploy.sh.
+# If a clone's deploy.conf doesn't set ADMIN_EMAIL explicitly, it defaults
+# to admin@<DOMAIN> rather than hardcoding a real address in this public
+# repo. This is strictly best-effort observability: if neither mail command
+# is available, or the send itself fails, the deploy's own success/failure
+# is completely unaffected — see scripts/cpanel-deploy.sh.
 #
 # CUSTOM_LORE_FILE and CUSTOM_CSS_FILE let one clone carry a small amount
 # of domain-exclusive content without touching the shared repo:
