@@ -2,8 +2,8 @@
 layout: lore-entry.njk
 title: "Tír na nÓg"
 category: "Locations"
-tags: [tir-na-nog, celtic-union, biosphere-planet, locations, human-compatible, boirinn-uplands]
-description: "The flagship world of the Celtic Union of Planets — a rare naturally human-compatible biosphere world, and the Union's cultural and diplomatic capital."
+tags: [tir-na-nog, celtic-union, biosphere-planet, locations, human-compatible, anomaly, boirinn-uplands, donn, cliona, conjunction]
+description: "The flagship world of the Celtic Union of Planets — the only surveyed world in Solar System record naturally compatible with unmodified human atmosphere and gravity, and a standing scientific anomaly no institution has closed the file on."
 image: "moorhen-wetland.jpg"
 image_alt: "A dark waterbird preening on a floating log in a still wetland"
 galaxy: "Milky Way"
@@ -11,13 +11,21 @@ system: "Mannán System"
 locationType: "Planet"
 ---
 
-Most surveyed worlds need a habitat dome, a filtration mask, or a decade of atmospheric engineering before a human can walk outside unassisted. Tír na nÓg needed none of that. Its first colonists stepped off the ark and breathed.
+Every other surveyed world in Solar System record needs a habitat dome, a filtration mask, or a decade of atmospheric engineering before a human can walk outside unassisted. No confirmed exception exists anywhere else in the catalogue — no alien people surveyed is natively compatible with Earthlike gravity or atmosphere either, on their own world or anyone else's. Tír na nÓg is the one entry in that catalogue that doesn't fit, and its first colonists stepped off the ark and breathed before anyone had worked out why that should have been possible at all.
 
-**Tír na nÓg** — named for the Irish otherworld of eternal youth — is the flagship and most populous world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), and one of the small number of surveyed worlds classified as **naturally human-compatible**: breathable atmosphere, non-toxic biochemistry, and a carbon-based biosphere stable enough to support unmodified human agriculture within the first settlement generation. It is the third planet of the **Mannán System**, named by its founders for Manannán mac Lir, the sea-god who was said to guard the way to Tír na nÓg in the first place.
+**Tír na nÓg** — named for the Irish otherworld of eternal youth — is the flagship and most populous world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), and the *only* surveyed world on record classified as **naturally human-compatible**: breathable atmosphere, non-toxic biochemistry, and a carbon-based biosphere stable enough to support unmodified human agriculture within the first settlement generation. It is the third planet of the **Mannán System**, named by its founders for Manannán mac Lir, the sea-god who was said to guard the way to Tír na nÓg in the first place.
 
-## Why the Biosphere Works
+## An Anomaly Nobody Has Closed the File On
 
-Tír na nÓg's compatibility is not the result of terraforming or deliberate seeding. Its native biochemistry independently converged on carbon-based, oxygen-respiring life patterns close enough to Earth's own that cross-compatibility was possible from first contact — an outcome consistent with the broader pattern that [Concordant](/star-rangers/glossary/concordant/) chemistry tends toward carbon-based stability. Native flora and fauna are not Earth-descended; they simply resemble it closely enough that early colonists mistook entire genera for transplanted species before survey botanists corrected the record.
+Tír na nÓg's compatibility has never been explained to any serious institution's satisfaction, and "convergent evolution" — the founding cooperatives' own working explanation, still the one printed in Union tourist literature — has never been more than provisional. Its native biochemistry does converge on carbon-based, oxygen-respiring life patterns close enough to Earth's own that cross-compatibility is possible. What no Union or Solar System biologist has ever produced is a mechanism for *why*, given that every other biosphere surveyed anywhere — hundreds of worlds, dozens of native peoples, not one other confirmed case — converges on something Earth-incompatible instead. A single naturally compatible world, against that denominator, is not the kind of result "coincidence" comfortably explains, and the Celtic Union's own founding scientists knew it long before any outside institution had the data to say so as bluntly.
+
+The competing explanations are exactly the ones a standing anomaly attracts: deliberate seeding by a precursor civilisation with no other confirmed trace anywhere in the system; an as-yet-undetected Concordant-level mechanism biasing convergence toward Earth-compatible chemistry specifically at this one site; or an actual, vanishingly improbable coincidence that happened once, here, and will presumably never happen again. No evidence has ever been found for the first two, and the third gets less credible every additional world the Survey Corps rules out. The Union's own habitability office has never formally closed the file. Neither has the Survey Corps, since first contact gave it the data to reopen the question at all. Native flora and fauna are not Earth-descended; they simply resemble it closely enough that early colonists mistook entire genera for transplanted species before survey botanists corrected the record — a small, solvable puzzle sitting on top of a much larger one nobody has solved.
+
+By far the most popular opinion, among the Union's own public rather than any institution's habitability desk, is a fourth explanation none of the above quite categorises: [Levrilic](/star-rangers/lore/levrils/) influence, or divine providence, depending on which founding-cooperative tradition is doing the explaining — a reading with real textual support in the founding cooperative's own [First Breath thanksgiving](/star-rangers/codex/first-breath-a-founding-thanksgiving/), recited every First Landing anniversary since. It remains, on the Survey Corps' own accounting, one of the least evidenced theories in circulation, not the most dismissed.
+
+A fifth, considerably wilder theory circulates outside any institution's endorsement: an ancient, now-lost fold gate once connected Tír na nÓg directly to a compatible world, seeding or exchanging its atmosphere long before Lagrange-point staging was understood as the only safe way to hold a fold aperture open. A gate operating that deep inside two planetary gravity wells at once would have been running in exactly the regime [modern fold doctrine](/star-rangers/lore/lagrange-fold-points/) confirms shears an aperture rather than sustaining one — which is either decisive evidence against the theory, or, as its handful of proponents argue, the very reason no wreckage has ever been found.
+
+A sixth theory fares better on physics, if not yet on evidence: during the rare **Conjunction**, when Cliona's shadow crosses Donn's face, the two moons' combined tidal geometry transiently flattens Tír na nÓg's local gravitational gradient in a way loosely analogous to Lagrange-site conditions — in principle enough, for a brief window, to open a natural fold aperture without any technology at all. Unlike the lost-gate theory, this one doesn't contradict anything modern fold doctrine holds, since [Eden Space Habitat's own natural fold route](/star-rangers/lore/eden-space-habitat/) already proves nature can produce a stable aperture unassisted, given the right gradient. What it still lacks is a single instrument reading taken during a confirmed Conjunction — nobody has ever had a fold-detection array running at the right moment, and Union astronomers don't fully agree on when the next one falls. See the [joint survey note](/star-rangers/codex/tir-na-nog-compatibility-survey-note/) reviewing all six theories, which recommends funding the instrumentation for exactly that reason.
 
 The native flora runs heavily toward pale, wide-petalled flowering plants in the lowlands and wetlands — visually close enough to Earth's own flowering plants that colonists kept their old common names for them rather than inventing new ones.
 
@@ -43,13 +51,15 @@ Smaller shorebirds work the tidal flats and standing water alongside the wading 
 
 ## Coasts and Seasons
 
-Tír na nÓg's axial tilt runs close enough to Earth's own that the founding cooperatives kept a familiar four-season calendar rather than inventing local terminology for it. Uplands turn to gold and copper canopy in the autumn months, a shift close enough to Earth's own deciduous turn that survey botanists spent an entire field season confirming the pigment chemistry was independently evolved rather than seeded.
+Tír na nÓg's axial tilt runs close enough to Earth's own that the founding cooperatives kept a familiar four-season calendar rather than inventing local terminology for it. Uplands turn to gold and copper canopy in the autumn months, a shift close enough to Earth's own deciduous turn that survey botanists spent an entire field season on the pigment chemistry alone — confirming only that it behaves as though independently evolved, which is exactly the kind of finding the planet's larger anomaly has trained Union science to stop calling settled.
 
 ![Golden autumn foliage in an upland woodland canopy](/star-rangers/images/lore/autumn-canopy.jpg)
 
 The planet's oceans run warmer and calmer than Earth's on average, a consequence of Mannán's slightly wider habitable-zone margin, and its coastlines are the most visited stretch of the world outside the wetland lowlands — a fact the tourism ministries of every other charter world resent openly and often.
 
 ![Sunset over a calm ocean, waves breaking near the shore](/star-rangers/images/lore/coastal-sunset.jpg)
+
+Two moons work the tides between them: **Donn**, the larger and closer, and **Cliona**, smaller, farther out, and named — over the founding cooperative's own initial objection that it invited comparison — for the Otherworld queen whose name already anchors the old folklore of a great wave heard before it arrives. The two rarely align. When they do, Cliona's shadow crosses Donn's face for a span of minutes local almanacs still call, without much ceremony, the **Conjunction**, and coastal communities schedule exactly nothing else for the hour around it.
 
 ## The Boirinn Uplands
 
@@ -77,4 +87,6 @@ Irish remains the working language of planetary administration, alongside Scotti
 
 As the most populous and longest-settled charter world, Tír na nÓg hosts the Celtic Union's rotating mediation council whenever it sits in session, and serves as the Union's point of contact for its new information-sharing agreement with the Star Rangers' Survey Corps. No permanent Solar System presence is established on-world; visiting delegations operate under Union escort by mutual agreement.
 
-See also: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Environmental Technology Design](/star-rangers/lore/environmental-technology-design/), [Concordant](/star-rangers/glossary/concordant/).
+The Survey Corps' own interest in the world runs well past diplomacy. A single confirmed exception to an otherwise universal rule is, by the Corps' own habitability doctrine, exactly the kind of data point worth a standing research interest — and the information-sharing agreement's opening clause, by more than one account, was drafted around continued access to Tír na nÓg's biosphere survey data specifically, not the mediation council the public announcement led with.
+
+See also: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Environmental Technology Design](/star-rangers/lore/environmental-technology-design/), [Concordant](/star-rangers/glossary/concordant/), [Frontier Transformation Protocols](/star-rangers/lore/frontier-transformation-protocols/), [First Breath: A Founding Thanksgiving](/star-rangers/codex/first-breath-a-founding-thanksgiving/), [Survey Note: On the Origins of Tír na nÓg's Compatibility](/star-rangers/codex/tir-na-nog-compatibility-survey-note/), [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/), [Lagrange Points and Fold-Space Transit](/star-rangers/lore/lagrange-fold-points/).

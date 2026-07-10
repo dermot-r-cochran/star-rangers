@@ -5,8 +5,18 @@ const {
   getContentFilter,
   isCharacterIncluded,
   isChapterIncluded,
-  isTopicPageIncluded
+  isTopicPageIncluded,
+  getRelatedContentUrls
 } = require("./lib/content-filter");
+
+// Whether a lore/timeline/glossary page earns inclusion either the normal
+// way (tag/category match) or because some included character's own bio
+// links to it directly - see getRelatedContentUrls's own comment for why
+// that second path exists: a character page is already the record of what
+// background matters for understanding them.
+function isRelatedTopicPageIncluded(data, filter, url) {
+  return isTopicPageIncluded(data, filter) || filter.relatedUrls.has(url);
+}
 
 // Drives the eleventyComputed override below: decides whether a
 // standalone content-leaf page renders its real content or a placeholder.
@@ -17,18 +27,26 @@ function isContentIncluded(data, filter) {
   const layout = data.layout;
   if (layout === "character.njk") return isCharacterIncluded(data, filter);
   if (layout === "chapter.njk") return isChapterIncluded(data, filter);
-  if (layout === "codex.njk" || layout === "lore-entry.njk" || layout === "glossary-entry.njk") {
+  const url = data.page && data.page.url;
+  if (layout === "lore-entry.njk" || layout === "glossary-entry.njk") {
+    return isRelatedTopicPageIncluded(data, filter, url);
+  }
+  if (layout === "codex.njk") {
     return isTopicPageIncluded(data, filter);
   }
   const inputPath = data.page && data.page.inputPath;
   if (inputPath && inputPath.includes("/timeline/") && !inputPath.endsWith("/index.md")) {
-    return isTopicPageIncluded(data, filter);
+    return isRelatedTopicPageIncluded(data, filter, url);
   }
   return true;
 }
 
 module.exports = function(eleventyConfig) {
   const contentFilter = getContentFilter();
+  // See getRelatedContentUrls's own comment: pulls in whatever lore,
+  // timeline, and glossary pages the included characters' own bios link to,
+  // on top of the existing tag/category matching below.
+  contentFilter.relatedUrls = getRelatedContentUrls(contentFilter);
 
   // Mirrors the CHARACTERS/TOPICS pattern above: deploy.conf's THEME value
   // (see scripts/cpanel-deploy.sh) is exported to this Node process so
@@ -108,7 +126,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("lore", (collectionApi) =>
     collectionApi.getAll()
       .filter((item) => item.data.layout === "lore-entry.njk")
-      .filter((item) => isTopicPageIncluded(item.data, contentFilter))
+      .filter((item) => isRelatedTopicPageIncluded(item.data, contentFilter, item.url))
   );
 
   eleventyConfig.addCollection("chapters", (collectionApi) =>
@@ -126,14 +144,14 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("glossary", (collectionApi) =>
     collectionApi.getAll()
       .filter((item) => item.data.layout === "glossary-entry.njk")
-      .filter((item) => isTopicPageIncluded(item.data, contentFilter))
+      .filter((item) => isRelatedTopicPageIncluded(item.data, contentFilter, item.url))
   );
 
   eleventyConfig.addCollection("timelineEvents", (collectionApi) =>
     collectionApi
       .getAll()
       .filter((item) => item.inputPath.includes("/timeline/") && !item.inputPath.endsWith("/index.md"))
-      .filter((item) => isTopicPageIncluded(item.data, contentFilter))
+      .filter((item) => isRelatedTopicPageIncluded(item.data, contentFilter, item.url))
       .sort((a, b) => Number(a.data.sort_order) - Number(b.data.sort_order))
   );
 

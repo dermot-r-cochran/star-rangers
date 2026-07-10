@@ -110,6 +110,7 @@ Comma-separated, case-insensitive lists that narrow the deployed site to content
 - `CHARACTERS` matches character page `id`s and chapter POV character `id`s.
 - `TOPICS` matches page `tags` (and `category`, where present), across every content type including character pages.
 - `CHARACTERS` also participates in tag matching, since tags conventionally embed character slugs (e.g. a timeline entry tagged `aldera`).
+- `CHARACTERS` also pulls in any lore, timeline, or glossary entry that an included character's own bio links to directly, even if nothing tags it for that character — a character's bio is already the site's record of which background matters for understanding them, so a `CHARACTERS`-filtered deploy carries that background along automatically instead of requiring every relevant entry to be tagged by hand.
 - Excluded pages still build at their normal URL as a minimal "not included in this edition" placeholder, instead of being omitted, so links to them never 404.
 - Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
 - Leaving both unset/empty deploys the full, unfiltered site (the default).
