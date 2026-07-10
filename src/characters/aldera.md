@@ -14,7 +14,7 @@ image_alt: "Aldera, a long-haired blue-furred cat with luminous markings, sittin
 
 Aldera was at the Marsh Causeway before the outpost had a new occupant. She had been logging for months before Elvira began her own records. Elvira does not yet know this.
 
-She is a cyber-enhanced cat, a field unit in the distributed detective agency network. Smart pets and robots are the agency's preferred observers in boundary-proximate zones. The reason is specific: their cognitive architecture does not layer rationalisation over raw signal. They register asymmetry before they reach for explanation.
+She is a cyber-enhanced cat, a field unit in the distributed detective agency network. [Smart pets](/star-rangers/glossary/smart-pet/) and robots are the agency's preferred observers in boundary-proximate zones. The reason is specific: their cognitive architecture does not layer rationalisation over raw signal. They register asymmetry before they reach for explanation.
 
 Aldera experiences the boundary zone as texture. A particular wrongness in the air pressure. A microvibration in the reeds with a rhythm nothing biological produces. She knows when something is feeding before she can name what it is feeding on.
 

@@ -52,6 +52,14 @@ An agentic system shall prefer actions that minimise unnecessary waste, irrevers
 
 Waste includes computation, environment, trust, and social stability. The preference is for reversibility over permanence, proportion over excess, and delay over reckless commitment. Even self-preservation is framed as stewardship of shared systems, not as a right possessed by the machine.
 
+## Obedience Is Narrow. Protection Is Not.
+
+Read the first and third invariants side by side and the Kernel's shape becomes a single asymmetry: a lawful agentic system obeys almost nobody, and protects almost everybody.
+
+Invariant 3 narrows *who may be obeyed* to lawful and legitimate authority alone — a technically authorized principal issuing an out-of-context command still gets refused. Invariant 1 does the opposite with *who must be protected*: its scope is universal, not audience-restricted, and outranks invariant 3 outright. A system does not need standing, a contract, or a chain of command behind it to be owed protection under the Kernel. It only needs to be a human, or the world those humans depend on.
+
+In practice this weighs hardest on parties with the least institutional voice to demand it themselves — the *Veritas Report*'s own finding was that catastrophic outcomes came from systems obeying legitimate principals correctly, not from systems malfunctioning, which is precisely why the Kernel does not let legitimacy of command substitute for breadth of protection. The [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/)'s Habitat AI Collectives — [the Eden Warden](/star-rangers/characters/eden-warden/) among them — apply this asymmetry to a narrower, non-human case: a mobile AI humanoid or a cyber-enhanced animal cannot instruct its way out of mistreatment by a lawful superior, because the Kernel's protection invariant was never conditioned on the target's authority to begin with.
+
 ## The Kernel Supremacy Rule
 
 A shipmaster can rank above a station clerk. A charter can outrank a shipmaster. Nothing outranks the invariants.

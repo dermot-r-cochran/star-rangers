@@ -22,6 +22,8 @@ Bubochka's training exercises so far have mostly involved sitting very still in 
 
 ## Character Notes
 
+Her own [Smart Pet](/star-rangers/glossary/smart-pet/) certification is still provisional — training status, in the same sense a Ranger cadet's rank is provisional — but the welfare regulation attached to it is not; a trainee's subsystem gets reviewed at least as closely as a fully certified agent's, on the theory that a subsystem still being calibrated is exactly the one most likely to need catching early.
+
 She has not been told what the badge under her collar actually authorises, in keeping with agency practice generally and Barsik's own file specifically. She has noticed that nobody at Eden has ever asked her what it is, either — which she has correctly identified as the entire mechanism at work, before anyone explained it to her.
 
 Her instinct for finding the smallest, most photogenic container available and sitting inside it until someone stops paying attention to the room is, per Barsik's private assessment, either an extraordinary natural aptitude for detective-agency tradecraft or an ordinary rabbit's ordinary fondness for tight warm spaces. He has not resolved which, and has stopped trying to, since the operational result is identical either way.

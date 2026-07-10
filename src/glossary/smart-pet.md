@@ -1,0 +1,25 @@
+---
+layout: glossary-entry.njk
+title: "Smart Pet"
+id: smart-pet
+category: "Species"
+short: "An animal carrying a certified AI cognitive subsystem — a status the Undercover Pets Detective Agency prefers for field work, and one of the most tightly regulated animal-welfare categories in the Concordant."
+related:
+  - "The AI Safety Kernel"
+  - "Krenyi"
+tags: [smart-pet, animal-welfare, ai, kernel-compliant, detective-agency, species, undercover-pets.com]
+---
+
+**Smart Pet** is the formal classification for an animal carrying a certified AI cognitive subsystem, rather than a description of temperament or training. [Agent Barsik](/star-rangers/characters/agent-barsik/) and trainee [Bubochka](/star-rangers/characters/bubochka/) both hold the status without carrying any physical cybernetic modification at all; [Aldera](/star-rangers/characters/aldera/) holds it *and* is cyber-enhanced, a further, separate designation layered on top rather than implied by it. A Smart Pet is not, by definition, a cyborg. It is an animal whose own cognition runs alongside a subsystem lawful enough to be held to the [AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/) — and it is that subsystem, not the animal wearing it, that the regulation is written to govern.
+
+## Why the Detective Agency Prefers Them
+
+The [Undercover Pets Detective Agency](/star-rangers/characters/agent-barsik/) stations Smart Pets in postings where a robot would be noticed and a human field agent could not sustain the cover: their cognitive architecture does not layer rationalisation over raw signal, the same property [Rook-7's file](/star-rangers/characters/rook-7/) attributes to robots doing comparable work. A Smart Pet registers asymmetry before it reaches for an explanation. A mascot gets left alone with the paperwork.
+
+## Regulation
+
+A Smart Pet's cognitive subsystem is Kernel-compliant by the same baseline every lawful agentic system in the Concordant must meet — but it is also, separately, one of the most heavily regulated animal-welfare categories on record, on the reasoning that an augmented cognition sitting inside a non-human, non-consenting-in-the-legal-sense body is exactly the kind of case the [AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/)'s protection invariant was built wide enough to cover without needing the animal itself to assert standing.
+
+In practice this means independent certification before a subsystem is ever activated, periodic welfare re-certification afterward, and — where the animal is posted to one of the [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/)'s member habitats — a standing local welfare authority in addition to whatever baseline certification body cleared the subsystem in the first place. At Eden, that local authority is [the Eden Warden](/star-rangers/characters/eden-warden/), specifically its Custos persona — though Custos's own remit, as written, covers *cyber-enhanced* animals rather than Smart Pets generally, which is precisely the gap that leaves Barsik's and Bubochka's welfare formally outside the Warden's habitat-level authority even while their subsystems remain Kernel-compliant and Concordant-certified by whatever body handles that further up the chain. Whether that gap is oversight or design has not been asked of anyone positioned to answer it.
+
+**Example:** Barsik's badge is real agency issue, and his cognitive subsystem is certified the same as any other Smart Pet's. What his badge authorises is not on Eden's own records — filed, like everything else at Eden, and read by no one who'd think to ask a cat about it.
