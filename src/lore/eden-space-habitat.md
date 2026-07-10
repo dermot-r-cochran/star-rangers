@@ -59,7 +59,7 @@ Eden's fold-adjacent position, combined with the MSC's documented inability to r
 
 The founding charter cited Eden directly: *a permanent inhabited platform at fold-route proximity requires a dedicated, independent operational capacity with authority and response time adequate to the environment — not a committee, not a compliance framework, and not a monitoring officer with no chain of command that reaches the boundary.*
 
-Eden remains active. It is now designated a Class I Fold-Proximate Research Platform under joint oversight from the Star Rangers' Survey Corps and the Solar System Defence Command, the institution that replaced the MSC after the Consolidation Accords.
+Eden remains active. It is now designated a Class I Fold-Proximate Research Platform under joint oversight from the Star Rangers' Survey Corps and the Solar System Defence Command, the institution that replaced the MSC after the Consolidation Accords. That oversight governs the fold route. Eden's ordinary civil administration and policing runs on a separate, parallel chain — the [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/) — that answers to neither the Survey Corps nor the SSDC at all.
 
 The route is now mapped, monitored, and named: the Eden Passage.
 

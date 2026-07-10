@@ -21,3 +21,5 @@ Nothing about a plural mind requires anything beyond the [Five Layers](/star-ran
 This is not the mechanism that produces plurality, in the sense of an explanation the people living it need or asked for. It is only the reason the cosmology has never had to treat it as an exception.
 
 **Example:** [Sen](/star-rangers/characters/sen/), Senior Archivist of the Survey Archive, is three people — Cael, Wyn, and Sen — sharing one body and one desk.
+
+**A synthetic case:** [the Eden Warden](/star-rangers/characters/eden-warden/), Eden Space Habitat's resident AI collective, is two Kernel-compliant personas — Ward and Custos — sharing one system. Whether this counts as plurality in the same Conceptual-layer sense described above, or as a functionally identical arrangement reached by institutional convention rather than the same underlying mechanism, is not settled even within Eden's own habitat philosophy office — a live question the cosmology has not yet needed to resolve.
