@@ -12,7 +12,7 @@ location: "Hosted externally on YouTube; no local archival copy"
 **EXTERNAL RECORDING — LINKED, NOT ARCHIVED**
 **Performing credit:** Aethelrock
 **Subject:** Clan Avalon, [Aethelrock](/star-rangers/lore/planets/aethelrock/), [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/)
-**Current standing:** Adopted, informally and by wide acclaim rather than any Ridgemoot resolution, as Clan Avalon's anthem. Filed the same way the [Tír na nÓg (Aethelrock Recording)](/star-rangers/codex/aethelrock-tir-na-nog/) entry is — an external reference, not a Survey Archive holding.
+**Current standing:** Adopted, informally and by wide acclaim rather than any Ridgemoot resolution, as Clan Avalon's anthem. Filed the same way [The Fires of Tír na nÓg (Aethelrock Recording)](/star-rangers/codex/aethelrock-tir-na-nog/) is — an external reference, not a Survey Archive holding.
 
 <div style="position:relative;width:100%;max-width:32rem;aspect-ratio:16/9;margin:1.5rem 0">
   <iframe
