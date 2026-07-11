@@ -45,3 +45,5 @@ That resistance to glamour—in the cosmological sense, not the aesthetic one—
 - **Krenyi**: the species name, used to avoid confusion with Naiads (flow-anchored entities, not persons).
 - **"Nai"** as a state-marker: means "still relevant here" — not a title, not a greeting, but an acknowledgement that this person is present and engaged.
 - **Quiet-Built**: a descriptive term for their mode of self-construction through patience and clarity rather than force or speed.
+
+See also: [Mnemari](/star-rangers/lore/mnemari/), a Federation species whose indefinite lifespan and undecaying memory make an instructive contrast with Krenyi longevity — centuries "without apparent degradation" for the Krenyi, versus no natural upper bound at all for the Mnemari.
