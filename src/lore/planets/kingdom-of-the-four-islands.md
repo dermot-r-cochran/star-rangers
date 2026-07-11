@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "The Kingdom of the Four Islands"
 category: "Locations"
-tags: [four-islands, independent, kingdom, archipelago, locations, first-contact, lost-colony, abbeylands, feudal, tideward-sisterhood]
+tags: [four-islands, independent, kingdom, archipelago, locations, first-contact, lost-colony, abbeylands, feudal, tideward-sisterhood, old-houses, peerage, common-council]
 description: "A hereditary kingdom holding the one temperate archipelago on an otherwise storm-scoured world — settled by a human departure older than any Solar System record, and found again only recently."
 image: "archipelago-palm-avenue.jpg"
 image_alt: "A windswept avenue of tall palms under a bright sky on the royal seat island of Vellamar"
@@ -31,13 +31,17 @@ Left alone for the length of that gap, the founding population built a civilisat
 
 ## The Crown Reigns; the Council Rules
 
-The monarchy is not ceremonial. The nobility mostly is.
+The monarchy is not ceremonial. The nobility mostly is — and both facts trace back to the same reform.
 
-Three reigns back, a succession of storm seasons mismanaged badly enough by hereditary landholders to cost Ostrel most of a winter's stores forced a settlement the Crown itself proposed rather than had forced upon it: the Old Houses kept their titles, their precedence at court, and nominal trusteeship over the ancestral parcels their names still carry, but administrative power over those parcels passed to officials chosen by the people who actually worked them. No house was stripped of anything it could frame as an insult. Every house lost the one thing that had mattered.
+The Old Houses hold a peerage five tiers deep, King down to Knight, and by old custom every tier below the Crown carried two paired commissions besides the title itself: a military rank and a civilian office, so that a single house was simultaneously landlord, officer, and administrator over the same stretch of ground. A Duke was also a General and a Chancellor. An Earl was a Colonel and a Governor. A Baron was a Captain and a Mayor. A Knight, at the floor of the hereditary ladder, was a Lieutenant and a Provost. Below Knight the ladder continues on merit alone — a Sergeant or a Steward answers to the Crown and to the office, not to any house, and the Kingdom's court has never pretended the two ladders were the same ladder wearing different names.
+
+Three reigns back, a succession of storm seasons mismanaged badly enough by hereditary landholders to cost Ostrel most of a winter's stores forced a settlement the Crown itself proposed rather than had forced upon it: the Old Houses kept their peerage titles, their precedence at court, and nominal trusteeship over the ancestral parcels their names still carry, but the paired civilian office — the Chancellor's chair, the Governor's, the Mayor's, the Provost's, whichever came with the title — was pulled out from under it and given instead to officials chosen by the people who actually worked the land. No house was stripped of anything it could frame as an insult. Every house lost the one thing that had mattered. The paired military commissions the reform left alone, mostly because there was nothing left in them worth taking: the Kingdom keeps no standing army, and the one hereditary command that still means something on the ground — the Casimor watch-post — was never a noble commission to begin with. Its keepers hold what amounts to the Sergeant tier, filled the way the Sergeant tier has always been filled, on service rather than blood, and are honoured above nearly every other commoner rank for it.
 
 A Lord or Lady of the Old Houses today presides at coronations, storm-season blessings, and formal court audiences, sits nearer the throne than any elected official ever will, and administers nothing. Real governance runs through the **Common Council**: a steward elected to a fixed term by the landholding freemen and reeves of each island — Vellamar, Casimor, Aduine, and Ostrel each returning one — who together set taxation, coordinate storm response, and hold the day-to-day law of the Kingdom answerable to their electorates rather than to the Crown or to any house. The monarch convenes the Council, can delay its measures, and has vetoed exactly one in the current reign; the monarch does not sit on it, and no noble title carries a seat.
 
 The arrangement leaves the Old Houses with real cultural weight and no real power, which court wits describe as either the safest possible place to put a hereditary aristocracy or the cruellest, depending on which house is complaining that season. The Abbeylands, notably, sit outside the Council system entirely — the Abbess answers to her charter, not to an electorate — which the Sisterhood is quick to point out whenever a Council measure tries to reach the Abbeylands anyway.
+
+Titles cling to a house's relations the way they do everywhere blood still counts for something at court, and the Kingdom never bothered inventing separate words for it: an heir is introduced as *[Name], Heir of [Title]*, a spouse as *[Name], Consort of [Title]*, and any other child or sibling simply as *[Name], of [Title]* — Selwyn, Heir of Duke Rothmar; Isolde, Consort of Earl Brennac; Tobin, of Baron Ashgrove. None of it carries a vote, a seat, or so much as a courtesy office; it is precedence and nothing else, and it scales to all five tiers without needing a new word invented for each one. In hallway conversation the court shortens it further — "the Duke's heir," "Rothmar's boy," "Ashgrove's lot" — and reaches for the full form only when the room, or the record, requires it.
 
 ## Vellamar and the Royal Gardens
 
