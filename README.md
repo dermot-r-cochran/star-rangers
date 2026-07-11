@@ -65,6 +65,8 @@ The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can
 CPANEL_USER=sciencef
 THEME=default
 DOMAIN=sciencefiction.site
+SITE_NAME=Star Rangers
+SITE_TITLE=Star Rangers
 CHARACTERS=aldera,elvira
 TOPICS=boundary,detective-agency
 ADMIN_EMAIL=admin@example.com
@@ -81,13 +83,15 @@ CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 | `CPANEL_USER` | `sciencef` | Deployment destination: `/home/<CPANEL_USER>/public_html/`. |
 | `THEME` | `default` | CSS theme — see "Available themes" below. |
 | `DOMAIN` | `sciencefiction.site` | Bare domain this clone serves (no scheme, no path, no trailing slash — e.g. `undercover-pets.com`). |
+| `SITE_NAME` | `Star Rangers` | Brand name shown in the header logo and footer. |
+| `SITE_TITLE` | `Star Rangers` | Text used in every page's browser `<title>` tag. |
 | `CHARACTERS` | *(unset — full site)* | Comma-separated character `id`s that narrow the deployed content. |
 | `TOPICS` | *(unset — full site)* | Comma-separated tag/category values that narrow the deployed content. |
 | `ADMIN_EMAIL` | `admin@<DOMAIN>` | Address notified after every deploy attempt, success or failure. |
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
 
-If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, the full unfiltered site, a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
+If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site, a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
 
 #### `THEME` and available themes
 
@@ -118,6 +122,14 @@ Comma-separated, case-insensitive lists that narrow the deployed site to content
 #### `DOMAIN`
 
 The bare domain this clone actually serves. It's exported as `SITE_DOMAIN` for the Eleventy build and consumed by `src/_data/site.js`, which `src/robots.njk` and `src/sitemap.njk` use to render `robots.txt`'s `Sitemap:` line and every `<loc>` in `sitemap.xml` with that clone's own domain — both files are generated at build time rather than copied statically, specifically so each of this repo's several production domains gets a correct, working sitemap reference instead of all of them sharing one hardcoded host. The GitHub Pages build never sets `SITE_DOMAIN`, so it falls back to the GH Pages URL itself.
+
+#### `SITE_NAME` and `SITE_TITLE`
+
+Let a clone brand itself independently of the shared repo default (`Star Rangers`):
+
+- `SITE_NAME` is exported for the Eleventy build and consumed by `src/_data/site.js`, which `src/_includes/base.njk` uses for the header logo text and the footer's site name.
+- `SITE_TITLE` is likewise consumed by `src/_data/site.js`, and used by `src/_includes/base.njk` for every page's browser `<title>` tag (as the `<title> | <SITE_TITLE>` suffix, or standalone on the home page).
+- Kept as two separate keys, rather than one, so a clone can put a different string in the tab title than in its on-page branding — most clones will just set both to the same value.
 
 #### `ADMIN_EMAIL`
 

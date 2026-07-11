@@ -11,6 +11,8 @@
 #   CPANEL_USER=undercov
 #   THEME=pets
 #   DOMAIN=undercover-pets.com
+#   SITE_NAME=Undercover Pets
+#   SITE_TITLE=Undercover Pets
 #   CHARACTERS=aldera,elvira
 #   TOPICS=boundary,detective-agency
 #   ADMIN_EMAIL=admin@example.com
