@@ -93,6 +93,47 @@ CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 
 If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site, a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
 
+### `ALT_DOMAINS` — deploying more than one domain from one clone
+
+The keys above describe one clone's *primary* domain, deployed to `/home/<CPANEL_USER>/public_html/`. A clone can optionally also deploy additional domains from that same checkout — useful when those domains share the same cPanel account as the primary domain (e.g. addon domains), instead of needing a whole separate clone per domain the way the "several production domains from separate clones" model above does.
+
+Each alt domain deploys to a sibling folder under the same `$HOME`, at the same level as `public_html/` — typically that addon domain's own document root, created via cPanel's own addon domain setup before it's added here.
+
+```bash
+ALT_DOMAINS="altsite1 altsite2 altsite3 altsite4"
+
+ALT_altsite1_DIR=altsite1_html
+ALT_altsite1_DOMAIN=altsite1.example
+ALT_altsite1_THEME=pets
+ALT_altsite1_SITE_NAME=Alt Site One
+ALT_altsite1_CHARACTERS=aldera,elvira
+ALT_altsite1_ADMIN_EMAIL=admin@altsite1.example
+
+ALT_altsite2_DIR=altsite2_html
+ALT_altsite2_DOMAIN=altsite2.example
+ALT_altsite2_THEME=default
+```
+
+(rename/duplicate the block per domain — placeholder ids, not tied to any real production domain)
+
+| Key | Default | Purpose |
+|---|---|---|
+| `ALT_DOMAINS` | *(unset — primary domain only)* | Space-separated list of short ids (letters/digits/underscore, can't start with a digit). Each id needs its own `ALT_<id>_*` keys below. |
+| `ALT_<id>_DIR` | *(required)* | Sibling folder name under `$HOME` this domain deploys to — `/home/<CPANEL_USER>/<ALT_<id>_DIR>/`. Must already exist. |
+| `ALT_<id>_DOMAIN` | *(required)* | Same purpose as `DOMAIN` above, for this domain. |
+| `ALT_<id>_THEME` | `default` | Same as `THEME` above, for this domain. |
+| `ALT_<id>_CHARACTERS` | *(unset — full site)* | Same as `CHARACTERS` above, for this domain. |
+| `ALT_<id>_TOPICS` | *(unset — full site)* | Same as `TOPICS` above, for this domain. |
+| `ALT_<id>_SITE_NAME` | `Star Rangers` | Same as `SITE_NAME` above, for this domain. |
+| `ALT_<id>_SITE_TITLE` | `Star Rangers` | Same as `SITE_TITLE` above, for this domain. |
+| `ALT_<id>_ADMIN_EMAIL` | `admin@<ALT_<id>_DOMAIN>` | Same as `ADMIN_EMAIL` above, for this domain — added to the one deploy-log email's recipient list, alongside `ADMIN_EMAIL`, rather than sent separately. |
+| `ALT_<id>_CUSTOM_LORE_FILE` | *(unset — no extra page)* | Same as `CUSTOM_LORE_FILE` above, for this domain. |
+| `ALT_<id>_CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Same as `CUSTOM_CSS_FILE` above, for this domain. |
+
+`DIR` and `DOMAIN` are the only two required per-domain keys — every other `ALT_<id>_*` key is optional and defaults exactly the way its unprefixed counterpart does. `scripts/cpanel-deploy.sh` runs one complete, independent Eleventy build + rsync per domain (the primary domain, then each `ALT_DOMAINS` entry in turn), sharing only the one `npm ci`-installed `node_modules/` — each domain gets its own theme, content filter, and branding even though they all come from one checkout, the same as separate clones would.
+
+A listed alt domain that's misconfigured — an invalid id, a missing `ALT_<id>_DIR`/`ALT_<id>_DOMAIN`, or an `ALT_<id>_DIR` folder that doesn't actually exist yet — fails loudly for that domain (a `FAIL` line in the log, and the run's overall exit status), the same philosophy `CUSTOM_LORE_FILE`/`CUSTOM_CSS_FILE` already use elsewhere in this file, rather than silently skipping it. That failure does **not** stop the primary domain, or any other `ALT_DOMAINS` entry in the same run, from still deploying — every domain gets its own independent attempt, and the run's final per-domain results are listed at the end of the deploy log.
+
 #### `THEME` and available themes
 
 `THEME=default` keeps `src/css/main.css` as-is. Any other value uses `src/css/theme-<THEME>.css` when that file exists in the repo; otherwise deployment falls back to `src/css/main.css`. Every theme file is generated from `main.css` by `scripts/generate-themes.js` (`npm run generate-themes`), which swaps in only that theme's palette (`:root` custom properties, the five `.pov-block--<character>` colors, and `.character-badge--status-active`) and keeps everything else byte-for-byte in sync with `main.css` — run it after any structural change to `main.css` to re-propagate that change to every theme, and edit that script's `THEMES` registry to add a new theme or adjust an existing palette.

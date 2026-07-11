@@ -31,4 +31,4 @@ Domed townships sit under transparent composite canopies engineered to transmit 
 
 Ynys Wydrin holds the Celtic Union's shared fabrication and life-support engineering base, since its survival demands make it the Union's most technically sophisticated world by necessity rather than choice. Union-wide dome technology, recycler design, and cold-world agricultural methods are developed and exported from here — including, decades later, to two of the Union's later charter worlds that turned out to need it.
 
-See also: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [Environmental Technology Design](/star-rangers/lore/environmental-technology-design/).
+See also: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [Environmental Technology Design](/star-rangers/lore/environmental-technology-design/), [Aethelrock](/star-rangers/lore/planets/aethelrock/) (whose Clan Avalon fellowship takes its name from the same Avalon myth-cycle as this system's own).

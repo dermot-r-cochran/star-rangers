@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Aethelrock"
 category: "Locations"
-tags: [aethelrock, celtic-union, clan-world, locations, boundary-territory]
+tags: [aethelrock, celtic-union, clan-world, locations, boundary-territory, clan-avalon]
 description: "The third documented charter world of the Celtic Union of Planets — a granite highland world held not by one government but by rival clans, whose fractious unity is tested every time the Union needs a single voice."
 galaxy: "Milky Way"
 system: "Bruane System"
@@ -35,8 +35,14 @@ Reconnection with the Solar System strained the arrangement badly. Clan Ceridwen
 
 Aethelrock follows Ynys Wydrin's register more than Tír na nÓg's: a hard world where technology stays visible because pretending otherwise gets people killed. Clan holdings run to weatherproofed stone longhouses with exposed heating conduits and drone-serviced grazing fences, not the recessed, softened tech of the biosphere worlds. Where the clans differ sharply from Ynys Wydrin is in the culture layered over that hardware — tartan-woven cold-weather cloth in clan-specific setts, contested grazing marches still walked on foot once a season to keep the boundary memory alive, and a body of clan law that predates the Union charter by generations and answers to it only when convenient.
 
+## Clan Avalon: A Fellowship Without Ground
+
+Not every clan on Aethelrock holds a valley. **Clan Avalon** is not one of the five Ridgemoot houses and claims no Ridgemoot seat — it is a cross-clan bardic fellowship, drawing members from all five landholding clans rather than competing with them, organised around keeping alive the old myth-cycle its name comes from: the Arthurian Avalon, the same legend that already gave [Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/)'s home system its name, the Avallach System. Where the five landholding clans compete over grazing marches and Ridgemoot rotation, Clan Avalon's members compete for something with no acreage attached — whose telling of the old stories gets asked for at a founding-day gathering.
+
+Membership carries no land claim and settles no boundary dispute, a deliberate design the five landholding clans have never seriously challenged, since a fellowship with nothing to seize is a fellowship nobody has to fight. Its best-known modern work has circulated widely enough off-world that Solar System listeners occasionally mistake it for something older than eleven generations. See the codex for the recording: [Clan Avalon's Anthem](/star-rangers/codex/clan-avalons-anthem/) (external link — hosted on YouTube, not archived).
+
 ## Role in the Union
 
 Aethelrock's formal contribution to the Union is smaller than its population would suggest, precisely because its five-way internal politics consume most of the diplomatic bandwidth its delegates would otherwise spend on Union business. What it offers instead is defence: Aethelrock fields the largest trained militia of any charter world, a direct consequence of five clans that have spent eleven generations maintaining forces to deter each other, now nominally pointed outward under Ridgemoot coordination. Union planners consider it the confederation's most capable world in a crisis and its least predictable in a council session, and have learned to plan around both.
 
-See also: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/).
+See also: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [Clan Avalon's Anthem](/star-rangers/codex/clan-avalons-anthem/).

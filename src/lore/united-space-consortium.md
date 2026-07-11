@@ -12,7 +12,7 @@ The United Space Consortium (USC) was the Solar System's first formal interplane
 
 ## Origins
 
-The USC grew from the Navigation and Trade Accords of 2337, a practical treaty between Earth's major space agencies and the largest Belt mining cooperatives, designed primarily to standardize docking protocols and prevent collisions in high-traffic corridors. Its architects described it as administrative rather than political. Within a decade it had a charter, a representative assembly, and a budget.
+The USC grew from the Navigation and Trade Accords of 2337, a practical treaty between Earth's major space agencies and the largest Belt mining cooperatives — chief among them the [Knarr Line](/star-rangers/lore/knarr-line/), whose own governance has outlasted every Solar System government founded in that treaty's wake, the USC included — designed primarily to standardize docking protocols and prevent collisions in high-traffic corridors. Its architects described it as administrative rather than political. Within a decade it had a charter, a representative assembly, and a budget.
 
 That evolution was not accidental. The outer settlements needed some mechanism for influencing the Earth-based agencies that controlled critical supply lines. The USC gave them a voice.
 
