@@ -51,6 +51,8 @@ CHARACTERS=""
 TOPICS=""
 ADMIN_EMAIL=""
 DOMAIN="sciencefiction.site"
+SITE_NAME=""
+SITE_TITLE=""
 CUSTOM_LORE_FILE=""
 CUSTOM_CSS_FILE=""
 # shellcheck disable=SC1091
@@ -61,30 +63,33 @@ CUSTOM_CSS_FILE=""
 # own deploy.conf entry.
 [ -z "$ADMIN_EMAIL" ] && ADMIN_EMAIL="admin@$DOMAIN"
 
-# CHARACTERS/TOPICS/THEME/DOMAIN are read via `process.env` inside the
-# Eleventy Node build below, which runs as a *child process* - sourcing
-# deploy.conf only sets them as local shell variables, so they must still
-# be `export`ed for Node to see them. THEME still also drives the
-# post-build CSS swap in step 5 below (that part never needed the export -
-# it's this same shell reading its own variable) - the export here is only
-# so src/index.md's per-theme hero copy, and src/_data/site.js's per-domain
-# robots.txt/sitemap.xml URLs, resolve during the build itself. DOMAIN is
+# CHARACTERS/TOPICS/THEME/DOMAIN/SITE_NAME/SITE_TITLE are read via
+# `process.env` inside the Eleventy Node build below, which runs as a
+# *child process* - sourcing deploy.conf only sets them as local shell
+# variables, so they must still be `export`ed for Node to see them. THEME
+# still also drives the post-build CSS swap in step 5 below (that part
+# never needed the export - it's this same shell reading its own
+# variable) - the export here is only so src/index.md's per-theme hero
+# copy, and src/_data/site.js's per-domain robots.txt/sitemap.xml URLs and
+# per-clone site name/title, resolve during the build itself. DOMAIN is
 # exported as SITE_DOMAIN (not DOMAIN) since that env var name is generic
 # enough to risk colliding with something host-level; site.js reads
-# SITE_DOMAIN specifically. CPANEL_USER/ADMIN_EMAIL/CUSTOM_LORE_FILE/
-# CUSTOM_CSS_FILE are only ever read back within this same shell (never by
-# a subprocess) - the first two are used directly in this script's own
-# rsync/notify logic below, and the latter two are copied into place on
-# disk (src/lore/custom/, _site/css/main.css) before Node ever runs, so
-# Eleventy just discovers them as ordinary files - none of the four need
-# exporting.
-export CHARACTERS TOPICS THEME
+# SITE_DOMAIN specifically. SITE_NAME/SITE_TITLE keep their own names
+# unchanged since they're already unambiguous. CPANEL_USER/ADMIN_EMAIL/
+# CUSTOM_LORE_FILE/CUSTOM_CSS_FILE are only ever read back within this
+# same shell (never by a subprocess) - the first two are used directly in
+# this script's own rsync/notify logic below, and the latter two are
+# copied into place on disk (src/lore/custom/, _site/css/main.css) before
+# Node ever runs, so Eleventy just discovers them as ordinary files - none
+# of the four need exporting.
+export CHARACTERS TOPICS THEME SITE_NAME SITE_TITLE
 SITE_DOMAIN="$DOMAIN"
 export SITE_DOMAIN
 
 {
-  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s custom_lore=%s custom_css=%s) ===\n' \
+  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s site_name=%s site_title=%s custom_lore=%s custom_css=%s) ===\n' \
     "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$CPANEL_USER" "$THEME" "$DOMAIN" \
+    "${SITE_NAME:-default}" "${SITE_TITLE:-default}" \
     "${CUSTOM_LORE_FILE:-none}" "${CUSTOM_CSS_FILE:-none}"
 } | tee -a "$LOG_FILE"
 
