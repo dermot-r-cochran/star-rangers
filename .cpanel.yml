@@ -38,6 +38,37 @@
 # today's original behavior), no content filtering (the full site), and a
 # deployment-log email to admin@<DOMAIN> (e.g. admin@sciencefiction.site).
 #
+# ALT_DOMAINS: the one-clone-per-domain model above is still the default,
+# but a clone can optionally deploy MORE than one domain from itself,
+# instead of needing a separate clone/checkout per domain. This is for
+# domains that share the same cPanel account as the clone's primary
+# domain - e.g. addon domains, whose document root is just another folder
+# under that account's $HOME, at the same level as public_html/. Each one
+# is declared as an id in ALT_DOMAINS plus its own ALT_<id>_* keys in
+# deploy.conf (DIR and DOMAIN required; THEME/CHARACTERS/TOPICS/SITE_NAME/
+# SITE_TITLE/ADMIN_EMAIL/CUSTOM_LORE_FILE/CUSTOM_CSS_FILE all optional,
+# defaulting exactly as their unprefixed counterparts above do), e.g. for
+# undercover-pets.com sharing the "sciencef" account alongside the primary
+# domain, added as sample-deploy.conf's ALT_DOMAINS example shows:
+#
+#   ALT_DOMAINS="undercoverpets"
+#   ALT_undercoverpets_DIR=pets_html
+#   ALT_undercoverpets_DOMAIN=undercover-pets.com
+#   ALT_undercoverpets_THEME=pets
+#
+# scripts/cpanel-deploy.sh's build_and_deploy() runs one full, independent
+# eleventy build + rsync per domain (primary, then each ALT_DOMAINS entry
+# in turn), sharing only the one npm-installed node_modules/ - each domain
+# can therefore carry its own theme/content-filter/branding even though
+# every domain comes from this one shared checkout, exactly like separate
+# clones would, just without needing separate clones. One domain failing
+# (e.g. a typo'd ALT_<id>_DIR, or an addon domain whose folder hasn't been
+# created in cPanel yet) fails loudly for that domain and the run overall,
+# but does not stop any other domain in the same run from still deploying.
+# See deploy.conf's own ALT_DOMAINS section (sample-deploy.conf) for full
+# per-key documentation, and this repo's README for the complete reference
+# table.
+#
 # THEME=default uses src/css/main.css as-is. Any other THEME value maps to
 # src/css/theme-$THEME.css; if that file doesn't exist in the repo (e.g. a
 # typo'd or not-yet-added theme), it falls back to src/css/main.css.
