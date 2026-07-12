@@ -67,3 +67,5 @@ location: "Habitat-circuit audio stock, Eden Space Habitat; copies carried infor
 ---
 
 *Archivist's note (S., Survey Archive): We get the same question every few intakes — was this ever made official? No. It doesn't need to be. Half of what holds the frontier together was never signed by anyone with the authority to sign it. It just kept getting carried.*
+
+*See also: [Protectors of the Fold](/star-rangers/codex/protectors-of-the-fold/), a later Slipwave recording by Ashgrove and Calloway alone — same lack of charter status, considerably more polish.*

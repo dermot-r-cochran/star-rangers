@@ -45,6 +45,8 @@ Canonical medical risks increase with repeated or poorly timed teleport events:
 
 These effects are measurable, cumulative, and require enforced recovery protocols in formal operations.
 
+A minority of jumps executed at or near active boundary zones produce a distinct clinical picture the Medical Corps tracks separately: see [Post-Teleport Ascension Stress Disorder](/star-rangers/lore/post-teleport-ascension-stress-disorder/).
+
 ## Energy Economics
 
 Teleportation is energetically expensive compared with ordinary local movement.
