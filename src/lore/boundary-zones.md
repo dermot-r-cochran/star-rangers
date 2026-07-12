@@ -48,3 +48,5 @@ Rapid discontinuity growth with high instrumentation disagreement.
 Threshold Station and Marsh Causeway are linked by the same kind of edge behavior. Their anomalies are lawful expressions of [Concordant](/star-rangers/glossary/concordant/) interference, not supernatural exceptions.
 
 Boundary monitoring at Threshold-class stations is handled by the Survey Corps, a specialist operational branch within the Star Rangers.
+
+Teleportation executed at or through an active interface carries its own documented aftermath, distinct from ordinary jump fatigue: see [Post-Teleport Ascension Stress Disorder](/star-rangers/lore/post-teleport-ascension-stress-disorder/).
