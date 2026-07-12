@@ -25,15 +25,12 @@ Levrils exist simultaneously across multiple higher spatial dimensions. That ext
 
 ## Sub-Classes of Levril
 
-Levril is a rank in the Cascade, not a single form. Five subclasses are recognised, ordered by seniority and function rather than raw dimensional reach:
+Levril is a rank in the Cascade, not a single form. Only two subclasses are "proper" Levrils, ordered by seniority rather than raw dimensional reach, and both hold full Cascade standing:
 
 - **Higher Levrils** — the most senior Levrils, closest in authority to Celestials; entrusted with cross-Concordant coordination and mentorship of especially high-causal-relevance Champions.
 - **Dragons** — low-ranking Levrils specialised for constrained high-energy and frontier functions.
-- **Demons** — Levrils specialised in boundary enforcement and the constrained containment of unlawful incursions at Concordant edges. *Not* the overlap-distortion entities informally called demons.
-- **Beautiful Monsters** — Levrils whose forms are optimised for persuasion and lawful influence, often appearing in appealing or awe-inspiring shapes. *Not* the Class II predatory entities of the same nickname (see [Predatory Entities](/star-rangers/lore/predatory-entities/)).
-- **Threnes** — Levrils associated with mourning-rites, memory continuity, and the ritual closure of collapsed timelines or lost Concordants.
 
-All five hold full Cascade standing as Levrils; the subclass names describe function and seniority, not a difference in constraint literacy or lawful authority.
+**Demons, Beautiful Monsters, and Threnes** are also meta-dimensional beings ranked below Celestials, but they are **not** Levrils and hold **no Cascade standing** — they are Class II Sapient Monsters, alongside Court-Fae and Gilded Saints. See [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/).
 
 ## Distinction from Other Meta-Dimensional Beings
 
@@ -43,7 +40,7 @@ Meta-dimensional existence is not unique to Levrils. The full classification is:
 Sapient, higher-dimensionally extended, operating under Cascade constraints. The only meta-dimensional entities with formal standing in the hierarchy. Capable of constraint literacy, Champions selection, and lawful mentorship.
 
 ### Sapient Monsters
-Meta-dimensional beings with a degree of sapience — goal-directed, adaptive, capable of learning — but without Cascade standing. They are not bound by Cascade constraints, but nor are they protected by them. They operate below the Levril tier in causal authority. Court-Fae and Gilded Saints are examples.
+Meta-dimensional beings with a degree of sapience — goal-directed, adaptive, capable of learning — but without Cascade standing. They are not bound by Cascade constraints, but nor are they protected by them. They operate below the Levril tier in causal authority. Court-Fae, Gilded Saints, Demons, Beautiful Monsters, and Threnes are examples.
 
 ### Non-Sapient Shadow Beings and Monsters
 Meta-dimensional beings with no sapience. Purely predatory, entropic, or ecologically disruptive. They enter Material space through boundary zones and overlap windows. Cute Predators are examples at the small-scale end; larger shadow beings operate at boundary collapse events.

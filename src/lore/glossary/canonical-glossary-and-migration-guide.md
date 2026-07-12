@@ -39,8 +39,9 @@ Hyperomnium
 - **Telearchs** coordinate large-scale operational activity inside and across governed systems.
 - **Celestials** create or supervise systemic agents.
 - **Levrils** are cosmic functionaries and super-technicians.
-- Levrils divide into five subclasses — **Higher Levrils, Dragons, Demons, Beautiful Monsters, and Threnes** — ranked by seniority and function. All five hold full Cascade standing; the subclass name describes role, not a difference in constraint literacy or lawful authority.
+- Levrils divide into two subclasses — **Higher Levrils** and **Dragons** — ranked by seniority. Both hold full Cascade standing.
 - **Dragons** are low-ranking Levrils, not monsters.
+- **Demons, Beautiful Monsters, and Threnes** are meta-dimensional beings ranked below Celestials, like Levrils, but they are **not** Levrils and hold **no Cascade standing** — see Class II under Meta-Dimensional Beings below.
 
 ---
 
@@ -48,7 +49,7 @@ Hyperomnium
 
 1. Primary universes are created by **Worldwrights**.
 2. Secondary and tertiary derivative universes emerge through overlap/intersection between primary universes.
-3. Demons, monsters, shadow entities, and similar beings arise from overlap distortions. (This rule covers non-Levril, Class II/III entities only. The Levril subclass named **Demons** is unrelated, holds full Cascade standing, and should be disambiguated on first use in new writing — see Levril Subclasses below.)
+3. Demons, monsters, shadow entities, and similar beings arise from overlap distortions. The named entity type **Demons** (see Class II under Meta-Dimensional Beings below) is a formalization of this rule's "demons," not a separate concept.
 4. A universe seeded through noögenic transference begins as a **Noögenic Protouniverse** and remains under the jurisdiction of its parent universe's **Telearchs** — and the higher Cascade strata reachable through them — until it stabilizes independent Concordant-equivalent governance.
 
 ---
@@ -91,7 +92,7 @@ Hyperomnium
 
 ## Levril Subclasses
 
-Levril is a rank in the Cascade, not a single form. Five subclasses are recognized, ordered by seniority and function rather than dimensional reach. All five hold full Cascade standing.
+Levril is a rank in the Cascade, not a single form. Two subclasses are recognized, ordered by seniority rather than dimensional reach. Both hold full Cascade standing.
 
 ### Higher Levrils
 - **Layer:** Levril Subclass
@@ -103,20 +104,24 @@ Levril is a rank in the Cascade, not a single form. Five subclasses are recogniz
 - **Definition:** Low-ranking Levrils specialized for constrained high-energy and frontier functions.
 - **Classification Rule:** Not monster-class entities.
 
+## Meta-Dimensional Beings (Non-Levril)
+
+Ranked below Celestials, like Levrils, but holding **no Cascade standing** — see [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) for the full Class I/II/III framework.
+
 ### Demons
-- **Layer:** Levril Subclass
-- **Definition:** Levrils specialized in boundary enforcement and the constrained containment of unlawful incursions at Concordant edges.
-- **Classification Rule:** Distinct from the informal use of "demon" for overlap-distortion entities (World Structure Rule 3). This is the Cascade-ranked, Class I sense of the term. Disambiguate on first use in new writing.
+- **Layer:** Class II — Sapient Monster
+- **Definition:** Sapient meta-dimensional predators that feed through confrontation, intimidation, and forced submission rather than deception.
+- **Classification Rule:** Not a Levril. A formalization of the "demons" named in World Structure Rule 3, not a Cascade-ranked entity.
 
 ### Beautiful Monsters
-- **Layer:** Levril Subclass
-- **Definition:** Levrils whose manifest forms are optimized for persuasion and lawful influence over Material-layer beings, typically appearing in appealing or awe-inspiring shapes.
-- **Classification Rule:** Distinct from the Class II predatory entities nicknamed "beautiful monsters" (Court-Fae, Gilded Saints, Cute Predators — see [Predatory Entities](/star-rangers/lore/predatory-entities/)), which hold no Cascade standing. Disambiguate on first use in new writing.
+- **Layer:** Class II — Sapient Monster
+- **Definition:** Sapient meta-dimensional predators that feed on desire and vanity, manifesting as objects of attraction or awe to draw victims into dependency.
+- **Classification Rule:** Not a Levril. Distinct from the informal nickname "beautiful monsters" applied to Court-Fae, Gilded Saints, and Cute Predators as a group (see [Predatory Entities](/star-rangers/lore/predatory-entities/)) — this is one specific named type, not the collective nickname.
 
 ### Threnes
-- **Layer:** Levril Subclass
-- **Definition:** Levrils associated with mourning-rites, memory continuity, and the ritual closure of collapsed timelines, lost Concordants, or terminated Noögenic Protouniverses.
-- **Classification Rule:** Full Cascade standing; functions are elegiac and closure-oriented rather than combative or administrative.
+- **Layer:** Class II — Sapient Monster
+- **Definition:** Sapient meta-dimensional predators that feed on unresolved grief and mourning, prolonging loss rather than allowing it to resolve.
+- **Classification Rule:** Not a Levril. Functionally parallel to Gilded Saints' closure-prevention, but keyed to grief rather than virtue.
 
 ---
 
@@ -290,8 +295,7 @@ Levril is a rank in the Cascade, not a single form. Five subclasses are recogniz
 | “Archewright-created universe(s)” | Worldwright-created primary universe set(s) | Replace direct creation language; keep Archewrights as archetype/possibility authors. |
 | “Concordants above universes” | Concordants within universes | Reframe Concordants as in-universe governance intelligences. |
 | “Dragon-class monster” | Dragon (low-ranking Levril) | Reclassify from monster taxonomy to Levril subclass. |
-| “Demon” (unqualified) | Demon (Levril subclass) *or* overlap-distortion demon (World Structure Rule 3) | Ambiguous on its own; qualify with subclass or overlap-distortion context on first use. |
-| “Beautiful monster” (unqualified) | Beautiful Monster (Levril subclass) *or* Class II predatory entity nickname (see Predatory Entities) | Ambiguous on its own; qualify with subclass or Class II context on first use. |
+| “Beautiful monster” (unqualified) | Beautiful Monster (named Class II type) *or* the collective nickname for Court-Fae/Gilded Saints/Cute Predators (see Predatory Entities) | Ambiguous on its own; qualify with specific-type or collective-nickname context on first use. |
 | “Single-seed-only ascension model” | Includes plural ascension pathways | Add Plural Convergence / Synarch thresholds where applicable. |
 | “Unified singular governance mind only” | Plural Concordant / Synarch Mind options | Permit distributed cognition with Consensus Field decisioning. |
 
