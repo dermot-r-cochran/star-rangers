@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Meta-Dimensional Beings: Classification"
 category: "Entities"
-tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, court-fae, gilded-saints, cute-predators, higher-dimensional, boundary]
+tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, court-fae, gilded-saints, demons, beautiful-monsters, threnes, cute-predators, higher-dimensional, boundary]
 description: "A classification of all meta-dimensional beings in the Star Rangers universe: sapient Cascade-ranked Levrils, sapient monsters, and non-sapient shadow beings."
 ---
 
@@ -30,8 +30,11 @@ Sapient monsters cannot perform functions reserved for Cascade-ranked entities. 
 
 **Examples:**
 
+- **Demons** — Confrontational predators. Feed through intimidation and forced submission rather than deception. A formalization of the "demons" referenced in universe-overlap doctrine as arising from overlap distortions.
+- **Beautiful Monsters** — Desire-extractors. Feed on vanity and attraction, manifesting as objects of desire or awe to draw victims into dependency. Not to be confused with the informal "beautiful monsters" nickname applied to this whole predator group (see [Predatory Entities](/star-rangers/lore/predatory-entities/)).
 - **Court-Fae** — Conceptual↔Etheric predators. Feed on ambiguity, desire loops, and social debt. Adaptive and strategic; the entity at the Marsh Causeway learned from each of Elvira's failed rituals and adjusted its feeding condition accordingly. Sapient enough to maintain a deception across multiple encounters.
 - **Gilded Saints** — Virtue-extractors. Feed on moral labour, sanctified suffering, and closure-prevention. Sapient enough to identify and sustain the specific emotional conditions they require. Present as worthy causes or sacred duties.
+- **Threnes** — Grief-extractors. Feed on unresolved mourning, prolonging loss rather than allowing it to resolve — a closure-prevention pattern keyed to grief rather than virtue.
 
 ### Class III — Non-Sapient Shadow Beings and Monsters
 
