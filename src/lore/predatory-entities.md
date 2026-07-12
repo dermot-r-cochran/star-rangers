@@ -8,7 +8,7 @@ description: "The three principal classes of predatory meta-dimensional entity i
 
 The most dangerous predator in a boundary story often arrives looking harmless, admirable, or simply overdue. That is why the classification starts with feeding pattern, not appearance.
 
-Three classes of predatory meta-dimensional entity exploit social, emotional, and moral dynamics to feed. They are sometimes called "beautiful monsters" because they tend to manifest in appealing or non-threatening forms.
+Three classes of predatory meta-dimensional entity exploit social, emotional, and moral dynamics to feed. They are sometimes called "beautiful monsters" because they tend to manifest in appealing or non-threatening forms. (This is an informal nickname only, unrelated to the Levril subclass of the same name — see [Levrils](/star-rangers/lore/levrils/).)
 
 All three are meta-dimensional beings. Court-Fae and Gilded Saints are **sapient monsters** (Class II meta-dimensional beings): goal-directed, adaptive, and capable of sustained deception. Cute Predators are **non-sapient** (Class III): their behaviour is instinctive pattern-matching, not strategy.
 

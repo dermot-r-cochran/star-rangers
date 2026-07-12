@@ -27,4 +27,6 @@ Levrils may also choose to mentor mortals in [constraint literacy](/star-rangers
 
 **Example:** A Levril does not need to test a candidate directly to select them as a Champion. Observing sustained, competent action under constraint — the kind of pattern a seasoned survey team lead displays across repeated boundary-station postings — is itself sufficient evidence of the causal relevance a Levril looks for.
 
-See the [Lore article on Levrils](/star-rangers/lore/levrils/) and [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) for full details.
+Levril divides into five subclasses — **Higher Levrils, Dragons, Demons, Beautiful Monsters, and Threnes** — distinguished by function and seniority rather than Cascade standing, which all five hold equally.
+
+See the [Lore article on Levrils](/star-rangers/lore/levrils/) (including naming collisions between two of these subclasses and unrelated Class II/III entities) and [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) for full details.

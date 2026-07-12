@@ -23,6 +23,18 @@ Levrils exist simultaneously across multiple higher spatial dimensions. That ext
 
 **Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one Concordant simultaneously. That span carries a coherence cost: the broader the reach, the heavier the maintenance burden.
 
+## Sub-Classes of Levril
+
+Levril is a rank in the Cascade, not a single form. Five subclasses are recognised, ordered by seniority and function rather than raw dimensional reach:
+
+- **Higher Levrils** — the most senior Levrils, closest in authority to Celestials; entrusted with cross-Concordant coordination and mentorship of especially high-causal-relevance Champions.
+- **Dragons** — low-ranking Levrils specialised for constrained high-energy and frontier functions.
+- **Demons** — Levrils specialised in boundary enforcement and the constrained containment of unlawful incursions at Concordant edges. *Not* the overlap-distortion entities informally called demons.
+- **Beautiful Monsters** — Levrils whose forms are optimised for persuasion and lawful influence, often appearing in appealing or awe-inspiring shapes. *Not* the Class II predatory entities of the same nickname (see [Predatory Entities](/star-rangers/lore/predatory-entities/)).
+- **Threnes** — Levrils associated with mourning-rites, memory continuity, and the ritual closure of collapsed timelines or lost Concordants.
+
+All five hold full Cascade standing as Levrils; the subclass names describe function and seniority, not a difference in constraint literacy or lawful authority.
+
 ## Distinction from Other Meta-Dimensional Beings
 
 Meta-dimensional existence is not unique to Levrils. The full classification is:
