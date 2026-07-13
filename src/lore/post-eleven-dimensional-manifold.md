@@ -4,6 +4,8 @@ title: "Post-11 Dimensional Manifold"
 category: "Cosmology"
 tags: [cosmology, dimensional-topology, spacelike, timelike, cascade]
 description: "How further spacelike and timelike dimensions extend beyond the first eleven spacetime dimensions in the Star Rangers cosmos."
+image: "post-eleven-dimensional-manifold.jpg"
+image_alt: "An abstract background with a black hole"
 ---
 
 When the first eleven dimensions explain the injury but not why the clocks keep disagreeing, Survey Corps analysts look higher. That suspicion points into the post-11 manifold.

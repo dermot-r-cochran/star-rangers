@@ -7,6 +7,8 @@ description: "Eden Space Habitat: built in the wrong place for the right reasons
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"
+image: "eden-space-habitat.jpg"
+image_alt: "An alien red planet with a dead star above"
 ---
 
 Eden was built to be forgettable: a civilian habitat set where supply lines were steady and traffic was thin. Then its instruments began to disagree with the sky.

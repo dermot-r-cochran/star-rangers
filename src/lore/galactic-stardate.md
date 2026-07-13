@@ -4,6 +4,8 @@ title: "Galactic Stardate"
 category: "Timeline Notes"
 tags: [timeline, stardate, chronology, standards, galactic-rotation]
 description: "A long-range stardate system measured by galactic rotation cycles rather than planetary years."
+image: "galactic-stardate.jpg"
+image_alt: "An old clock and calendar page"
 ---
 
 When archives must outlast planets, they stop trusting planets as their clock. That is the civic logic behind Galactic Stardate.
@@ -25,3 +27,5 @@ Galactic Stardate is the deep-time calendar used for cross-[Concordant](/star-ra
 ## Canonical Rule
 
 When chronology must remain stable across multiple planets or species timescales, Galactic Stardate is the authoritative timestamp.
+
+Local calendars remain the norm for the worlds themselves; see [Solar Time and Local Calendars](/star-rangers/lore/solar-time-and-local-calendars/).

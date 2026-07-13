@@ -9,6 +9,8 @@ aliases:
   - "Chief Trevithick"
 tags: [kernowek-reach, celtic-union, lyonesse-system, engineering, terraforming, human]
 description: "Fourth-generation chief engineer of Kernowek Reach's Ridge Processor Cooperative, keeper of the band's atmospheric machinery, and the first Reach cooperative officer to speak with the Survey Corps team that ended the world's decades-long survey gap."
+image: "demelza-trevithick.jpg"
+image_alt: "A female engineer in an industrial factory"
 ---
 
 Demelza Trevithick has never known a version of Kernowek Reach where the band wasn't still widening, and does not expect to live to see one where it's finished.

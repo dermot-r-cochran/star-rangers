@@ -3,6 +3,7 @@ layout: base.njk
 title: "Codex"
 description: "In-universe documents, edicts, logs, and annotated records from Star Rangers."
 ---
+<img class="page-hero-image" src="/star-rangers/images/hero/codex-documents.jpg" alt="A stack of official documents in files" />
 <h1 class="page-title">Codex</h1>
 <p class="page-intro">
   A logbook, an edict, a clipped archive note—this is where the world speaks in its own paperwork. These are primary sources. Read them closely, because some are incomplete, biased, or built to mislead.

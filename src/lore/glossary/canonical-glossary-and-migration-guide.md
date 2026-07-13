@@ -4,6 +4,8 @@ title: "Canonical Glossary and Terminology Migration Guide"
 category: "Reference"
 tags: [glossary, terminology, migration, canon, hierarchy, concordants, worldwrights, telearchs, protouniverse]
 description: "Central canonical glossary for Star Rangers terminology, including migration mappings and plural Concordant/collective ascension additions."
+image: "canonical-glossary-and-migration-guide.jpg"
+image_alt: "An open old book"
 ---
 
 # Canonical Glossary and Terminology Migration Guide

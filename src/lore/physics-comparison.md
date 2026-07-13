@@ -4,6 +4,8 @@ title: "Physics Comparison: Real Cosmos vs. The Fictional Cosmos"
 category: "Cosmology"
 tags: [cosmology, physics, meaning-field, probability, entropy, consciousness, dimensional-topology, causality, information-theory, five-layers]
 description: "A structured hard-SF comparison of real-world physics against the layered physics of the Star Rangers fictional cosmos, grounded in the Five Layers and the full Cosmic Cascade hierarchy."
+image: "physics-comparison.jpg"
+image_alt: "An abstract glowing swirling halo of light"
 ---
 
 A sensor at Threshold Station can report ordinary physics and impossible drift in the same hour. The contradiction is only apparent. The fictional cosmos keeps the familiar lower down and changes the architecture above it.

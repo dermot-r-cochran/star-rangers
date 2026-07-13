@@ -7,6 +7,8 @@ description: "A biosphere world of dense, chemically hostile seas and armored na
 galaxy: "Milky Way"
 system: "Halyx System"
 locationType: "Planet"
+image: "meridian.jpg"
+image_alt: "A panoramic view of mars"
 ---
 
 Every biosphere world's first survey report carries a line about breathable air. Meridian's carries a warning label instead.

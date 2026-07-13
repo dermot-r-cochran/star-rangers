@@ -4,6 +4,8 @@ title: "Concordant Branes and Interbrane Bleed"
 category: "Cosmology"
 tags: [interbrane-bleed, brane-resonance, etheric, post-11-manifold, concordant, boundary-zone, threshold-station]
 description: "The brane model underlying boundary-zone Etheric effects: each Concordant as a bounded brane in the post-11 manifold, and what happens when adjacent branes draw close enough to interfere."
+image: "concordant-branes.jpg"
+image_alt: "A star field deep space scene with nebula"
 ---
 
 Survey Corps analysts spent decades calling it "Etheric interference" and filing it next to instrument drift, because both showed up at the same stations for the same reason and nobody had a tighter word for either. The post-11 manifold gave them the physical geometry. It took longer to get the Etheric half of the picture into the same diagram.

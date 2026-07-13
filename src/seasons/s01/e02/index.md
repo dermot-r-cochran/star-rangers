@@ -12,6 +12,7 @@ permalink: /seasons/s01/e02/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/s01e02-machinery.jpg" alt="Old, worn industrial machinery in a dim mechanical space" />
 <h1 class="page-title">Season 1 · Episode 2</h1>
 <p class="page-intro">
   Episode 2 carries the investigation outward, where broken infrastructure and boundary pressure turn a local anomaly into a wider civic problem. Read every published chapter for this episode here.

@@ -4,6 +4,8 @@ title: "Worldwright Design Philosophies"
 category: "Cosmology"
 tags: [worldwrights, hierarchy, cei, ufi, concordants, levrils, kaelor-virex, soryth-valen]
 description: "Contrasting Worldwright systems and their effects on novelty, stability, seed production, and in-universe governance load."
+image: "competing-designs.jpg"
+image_alt: "A sci-fi blue led futuristic tunnel"
 ---
 
 # Worldwright Design Philosophies

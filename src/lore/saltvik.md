@@ -7,6 +7,8 @@ description: "A tight cluster of ore-refinery stations threaded through one of t
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Asteroid Cluster"
+image: "saltvik.jpg"
+image_alt: "The milky way galaxy with stars and space dust"
 ---
 
 Ask a Knarrheim delegate which Line settlement actually keeps the Solar System's shipyards supplied, and the answer is never Knarrheim itself.

@@ -3,6 +3,7 @@ layout: base.njk
 title: "Glossary"
 description: "Definitions of every term, name, and concept used in Star Rangers."
 ---
+<img class="page-hero-image" src="/star-rangers/images/hero/glossary-book.jpg" alt="An open old book" />
 <h1 class="page-title">Glossary</h1>
 <p class="page-intro">
   Words fail first when a frontier starts to slip. This glossary fixes the terms used across the record. If a term carries rival meanings in-universe, the confirmed canonical sense appears first.

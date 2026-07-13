@@ -4,6 +4,8 @@ title: "Verdani"
 category: "Species"
 tags: [verdani, species, verdance, symbiosis, federation-of-sentient-beings]
 description: "A sapient people whose dermal symbiosis with photosynthetic microflora produces sharp regional variation in coloration and metabolism — and whose inherited symbiont lineage, not birthplace alone, is the basis of Verdani kinship and naming."
+image: "verdani.jpg"
+image_alt: "A horned warrior figure"
 ---
 
 A xenobiologist's first Verdani skin sample usually produces the same two-part surprise: it is not skin pigment causing the color, and the organisms causing it are not passengers.

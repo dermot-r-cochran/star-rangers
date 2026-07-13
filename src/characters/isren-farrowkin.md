@@ -9,6 +9,8 @@ aliases:
   - "The Canopy's Voice"
 tags: [verdance, verdani, canopy-concord, federation-of-sentient-beings, fourfold-accord]
 description: "The Canopy Concord's senior delegate to Verdance's Fourfold Accord, and the Verdani currently holding Verdance's rotating seat on the Federation of Sentient Beings' assembly."
+image: "isren-farrowkin.jpg"
+image_alt: "A horned, plant-adjacent figure"
 ---
 
 Isren Farrowkin has spent eleven local years arguing that the Federation assembly's weighted-vote formula undercounts biosphere-diverse worlds, and eleven local years losing that argument by a narrower margin each time. Colleagues who assumed the losing streak would wear her down have, one by one, stopped assuming it.

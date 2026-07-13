@@ -4,6 +4,8 @@ title: "The Knarr Line"
 category: "Factions"
 tags: [knarr-line, faction, belt, sol-system, scandinavian, nordic, the-thing, institutions, history]
 description: "A Belt-based shipping and ice-mining cooperative old enough to have helped write the Solar System's first navigation treaty — and, five hundred years and four changes of Solar System government later, the closest thing its scattered Nordic-heritage habitats have ever had to a government of their own."
+image: "knarr-line.jpg"
+image_alt: "A view from a porthole of a space station"
 ---
 
 Every Solar System power that has ever tried to govern the Belt outright has eventually settled for governing around it instead. The Knarr Line is the reason why: it was extracting ice from the Belt before there was a Solar System government to ask permission from, and it has outlasted every one that has tried to make it ask since.

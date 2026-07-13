@@ -26,3 +26,9 @@ Slipwave did not formally disband. Its two other members — **Perrin Ashgrove**
 No one involved describes the band's end as a tragedy. Shepherd's path went to command; theirs went sideways instead of up. When postings happen to overlap, the three of them still play a set together, by all accounts exactly as unpolished as it always was.
 
 Decades on, Ashgrove and Calloway recorded a third track without Shepherd: [Protectors of the Fold](/star-rangers/codex/protectors-of-the-fold/), a more declarative, mixing-booth-polished piece a training officer cut under a Survey Corps orientation reel. It carries no more charter status than the first anthem did — the Corps still commissions nothing — but its diction reads closer to doctrine than dock-circuit folk, a gap the two musicians attribute to years of playing memorials and musters rather than to anyone handing them a brief.
+
+## Beyond the Corps
+
+What began as three musicians compensating for station drift did not stay a Ranger-only artifact. The anthem, carried world to world in duffel bags and audio stock long before anyone thought to credit it properly, has since reached listeners who never wore the uniform — civilian arts circuits picked it up the way Eden's dock crews once had, and it now circulates on more worlds than Slipwave ever played. Ashgrove and Calloway, still posted and still playing, have become something neither of them set out to be: recognisable.
+
+Shepherd has not rejoined them, and by Season 5 the reason has nothing to do with the old excuses. A Line Captain on a promotion track that outpaces her own cohort by a full season does not have a dock common room's worth of hours to spare, and she has never pretended otherwise. Ashgrove and Calloway do not ask anymore. When postings overlap, the three of them still play a set — unpolished, off the record, and, for exactly that reason, not for export.

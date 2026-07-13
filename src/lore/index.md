@@ -3,6 +3,7 @@ layout: base.njk
 title: "Lore"
 description: "World-building articles about the Five Layers, the Cosmic Cascade, factions, and the rules of the Star Rangers universe."
 ---
+<img class="page-hero-image" src="/star-rangers/images/hero/lore-cosmic.jpg" alt="Multicoloured cosmic art of outer space" />
 <h1 class="page-title">Lore</h1>
 <p class="page-intro">
   Start with the ground under the story: the laws, factions, civic systems, and cosmological pressures that make each choice matter. These articles step outside the narrative. Because of that, they may confirm truths the characters have not yet proved.

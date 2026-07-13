@@ -4,6 +4,8 @@ title: "The Cosmic Cascade"
 category: "Cosmology"
 tags: [cosmology, cascade, hierarchy, hyperomnium, kieme, conseleme, worldwright, concordant, telearchs, celestials, levrils, champions]
 description: "The strict hierarchy of causal authority in the Star Rangers universe, from Hyperomnium to Champions/Heroes."
+image: "cosmic-cascade.jpg"
+image_alt: "A space galaxy background"
 ---
 
 When witnesses say a dragon changed fate, the archives ask a colder question first: *which tier acted, and under what constraint?* That question leads into the Cascade.
@@ -14,7 +16,7 @@ The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers
 
 ## Global Invariants
 
-- No moral cosmology: the Cascade does not encode virtue, sin, reward, or punishment.
+- No moral cosmology: the Cascade does not encode virtue, sin, reward, or punishment — with one contested exception. See [The Cosmic Limitation on Evil](/star-rangers/lore/cosmic-limitation-on-evil/), a law Archive material credits Kieme with designing, which Archive theorists have never fully reconciled with this invariant.
 - No magic: all effects are lawful outcomes of higher-dimensional physics, universe overlap/folding, and archetypal interference.
 - Dragons are low-ranking Levrils.
 - Only primary universes possess Worldwrights.
@@ -24,7 +26,7 @@ The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers
 ## Upper Structure (Hyperomnium, Kieme, Conseleme)
 
 ### Definition
-Non-anthropomorphic origin tiers that establish existence conditions.
+Non-anthropomorphic origin tiers that establish existence conditions. Collectively, Archive shorthand calls these three tiers **the Trinity** — a naming convention distinct from, and one level above, [Kieme's own internal threefold nature](/star-rangers/glossary/kieme/).
 
 ### Mechanism
 They set nonlocal constraints that downstream tiers must satisfy.

@@ -9,6 +9,8 @@ aliases:
   - "The Chronicler of Cill Aoife"
 tags: [saint-aoife, celtic-union, hagiography, history, human]
 description: "The thirteenth-century monastic scribe of Cill Aoife who set down the only surviving account of Saint Aoife's vision at the thorn well — a document the Celtic Union carried off Earth as living devotion, and which Union scholars now read against Levril taxonomy."
+image: "brother-daire.jpg"
+image_alt: "An official portrait of a monastic"
 ---
 
 Brother Daire calls himself unworthy in the very first line of the only document that has kept his name alive for nine centuries. The record does not argue with him, and does not need to. It simply keeps circulating anyway.

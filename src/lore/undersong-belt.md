@@ -7,6 +7,8 @@ description: "A dense asteroid cluster in the Skarn System, home to the Chthonar
 galaxy: "Milky Way"
 system: "Skarn System"
 locationType: "Asteroid Cluster"
+image: "undersong-belt.jpg"
+image_alt: "A panoramic view of mars"
 ---
 
 Every survey of the Undersong Belt notes the same anomaly before any biologist has said a word about who lives there: the rock rings. Not randomly — in structured, sustained harmonic bands, audible to any hull-mounted sensor within a disappointingly ordinary range, coming from asteroids with no obvious power source and, by every reasonable model, no reason to resonate at all.

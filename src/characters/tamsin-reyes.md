@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [human, eden, investigations, junior-detective, season-1]
 description: "Eden Civil Investigations Unit's undercover specialist, who can become whoever a room needs her to be for exactly as long as the job requires it, and not one conversation longer."
+image: "tamsin-reyes.jpg"
+image_alt: "An old-fashioned detective"
 ---
 
 Tamsin Reyes can become whoever a room needs her to be for exactly as long as the job requires it, and not one conversation longer. Cover identity, accent, posture, the particular kind of forgettable that keeps people talking past the point they should have stopped — all of it is craft, not instinct, and she has spent years sharpening it.

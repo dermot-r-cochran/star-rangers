@@ -11,6 +11,7 @@ permalink: /seasons/s00/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/season-00-foundation.jpg" alt="A moody, neon-lit futuristic corridor" />
 <h1 class="page-title">Season 0 · Foundation</h1>
 <p class="page-intro">
   Here is the fracture before the oath. Season 0 follows the years that made the Star Rangers both necessary and possible, from 2712 to 2723 UCSD under the last stretch of Military Space Command rule.

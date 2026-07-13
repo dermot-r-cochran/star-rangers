@@ -12,6 +12,7 @@ permalink: /seasons/s01/e03/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/s01e03-archive.jpg" alt="An old archive shelf of records" />
 <h1 class="page-title">Season 1 · Episode 3</h1>
 <p class="page-intro">
   Episode 3 is where the record should widen again—if the station, the witnesses, and the archive can still be trusted. Read every published chapter for this episode here.

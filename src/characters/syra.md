@@ -9,6 +9,8 @@ aliases:
   - "Nai Syra"
 tags: [krenyi, boundary, threshold-station, season-1, major-character]
 description: "A Krenyi boundary analyst, approximately 150 years old, assigned to the Threshold Station survey team."
+image: "syra.jpg"
+image_alt: "An illustration of grey aliens"
 ---
 
 Syra is Krenyi — one of the Quiet-Built. She is approximately one hundred and fifty years old, which is not particularly old for her kind.

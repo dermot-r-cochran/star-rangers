@@ -4,6 +4,8 @@ title: "Allocation Units of Cognition (AUC)"
 category: "Economics"
 tags: [auc, ai-usage-credits, economics, cei, novelty, noogenic]
 description: "Economic protocol for allocating intelligent computation capacity according to measurable novelty contribution."
+image: "ai-usage-credits.jpg"
+image_alt: "Abstract data and blockchain network illustration"
 ---
 
 AUC ledgers glow brightest in young systems, when new ideas are still arriving faster than institutions can file them. That glow is counted, traded, and argued over because cognition itself is scarce infrastructure.

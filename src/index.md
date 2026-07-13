@@ -4,6 +4,7 @@ title: "Home"
 description: "Star Rangers — an interactive science-fantasy novel grounded in speculative cosmology. One canonical history across the Five Layers, multiple Concordants, and multiple points of view."
 ---
 <section class="home-hero">
+  <img class="page-hero-image" src="/star-rangers/images/hero/home-launch.jpg" alt="A rocket launches into a starry night sky" />
   <h1 class="home-hero__title">✦ Star Rangers</h1>
   <p class="home-hero__subtitle">
     {% if theme == "fellowship" %}

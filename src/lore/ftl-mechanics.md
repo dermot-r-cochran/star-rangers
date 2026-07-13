@@ -4,6 +4,8 @@ title: "FTL Mechanics"
 category: "Physics"
 tags: [ftl, quantum-space-harmonic-wave, higher-dimensional-folding, concordant, navigation]
 description: "Canonical faster-than-light transit channels and their constraints in the Star Rangers universe."
+image: "ftl-mechanics.jpg"
+image_alt: "A quantum computer technology concept"
 ---
 
 At a lawful departure site, a ship waits before it moves. Crews watch lock margins, gravity gradients, and exit conditions, because faster-than-light travel begins with discipline, not spectacle.

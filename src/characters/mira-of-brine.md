@@ -9,6 +9,8 @@ aliases:
   - "Mira"
 tags: [alien, pelagene, ocean-world, pressure-adapted, survey, season-1]
 description: "A Pelagene Littoral surveyor from an ocean planet, specialized in pressure systems, salinity gradients, and fluid-boundary anomalies."
+image: "mira-of-brine.jpg"
+image_alt: "A mysterious humanoid figure at night"
 ---
 
 Mira grew up where water is not background — it is the medium of everything: pressure, sound, navigation, chemical signal, thermal gradient. Nerath has no stable landmass. The surface is contested. The photic layer is the edge of the known world, and below it, the pressure transitions are steep and abrupt.

@@ -4,6 +4,8 @@ title: "Creative Entropy Framework"
 category: "Cosmology"
 tags: [creative-entropy, cei, entropy-horizon, predictive-closure, auc, universe-lifecycle]
 description: "Canon framework defining how novelty capacity rises, peaks, and closes in a universe, and how that behavior shapes AUC generation."
+image: "creative-entropy-framework.jpg"
+image_alt: "A space background of stars"
 ---
 
 In a young universe, new songs, new theories, and new civic failures all arrive faster than anyone can catalogue them. In an old one, the shelves still fill, but almost nothing on them is truly new.
