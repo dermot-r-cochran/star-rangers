@@ -1187,6 +1187,18 @@ a:focus {
 }
 .lore-entry__body li { margin-bottom: var(--spacing-xs); }
 .lore-entry__body strong { color: var(--color-text); }
+
+/* --- Comments (giscus) --- */
+.site-comments {
+  margin-top: var(--spacing-xl);
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--color-border);
+}
+.site-comments__heading {
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  margin-bottom: var(--spacing-md);
+}
 .lore-entry__body em { color: var(--color-text-muted); }
 .lore-entry__body a {
   color: var(--color-accent);

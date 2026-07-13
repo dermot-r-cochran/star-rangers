@@ -20,6 +20,46 @@ The story moves across stations, causeways, archives, and boundary zones in the 
 - **Glossary** (`/glossary/`) — Fix the meaning of in-universe terms, titles, and concepts when language itself is contested.
 - **Codex** (`/codex/`) — Read the primary sources: logs, reports, directives, and records that may clarify the truth or bury it.
 
+## Discussion forum (giscus)
+
+Every character, lore, glossary, codex, episode, and chapter/scene page carries a comment thread powered by [giscus](https://giscus.app), which stores each thread as a GitHub Discussion rather than a third-party comment service. Comments live in a separate, dedicated **`Star-Rangers/sciencefiction-site-comments`** repo — not this one — so reader/fan discussion never mixes with this repo's own dev-facing Discussions, and the comment history stays put across any future rename, fork, or transfer of this source repo. That repo must be public (giscus reads it unauthenticated) and needs no content of its own beyond Discussions being enabled. Config lives in `src/_data/giscus.js`; the embed itself is in `src/_includes/base.njk`, gated on the `comments`/`commentsCategory` front matter that `character.njk`, `lore-entry.njk`, `codex.njk`, `glossary-entry.njk`, `chapter.njk`, and `scene-pov.njk` each set (listing/index pages don't opt in, so they stay comment-free).
+
+Three of the comments repo's Discussion categories are mapped to page types (giscus creates one discussion per page path, lazily, the first time someone comments):
+
+| Category | Format | Pages |
+| --- | --- | --- |
+| **Characters** | Announcement (locked) | `/characters/*` |
+| **Lore & Worldbuilding** | Announcement (locked) | `/lore/*`, `/glossary/*`, `/codex/*` |
+| **Episode Discussion** | Announcement (locked) | `/seasons/**` (chapters and per-POV scenes) |
+
+Locking these to "Announcement" format means only the giscus GitHub App can start new discussions in them, so they only ever fill up with real page threads instead of off-topic posts. Five more categories exist for open community discussion, unrelated to any specific page:
+
+| Category | Format |
+| --- | --- |
+| **Announcements** | Announcement |
+| **General** | Open discussion |
+| **Q&A** | Question / Answer |
+| **Theories & Predictions** | Open discussion |
+| **Fan Creations** | Open discussion |
+
+### One-time setup
+
+1. Create the public `Star-Rangers/sciencefiction-site-comments` repo (README-only is fine — it exists purely to host Discussions).
+2. In that repo's Settings → General → Features, enable **Discussions**.
+3. In its Discussions tab, use the categories gear icon to create the 8 categories above (GitHub seeds a few defaults like "Ideas"/"Polls" — rename or delete those rather than leaving stragglers).
+4. Install the [giscus app](https://github.com/apps/giscus) on that repo (not this one).
+5. Visit [giscus.app](https://giscus.app), enter `Star-Rangers/sciencefiction-site-comments`, choose **pathname** as the page ↔ discussion mapping, and select **Characters** as the category — the generated snippet includes a `data-repo-id` (same for every category) and a `data-category-id` (specific to Characters). Repeat just the category-selection step for **Lore & Worldbuilding** and **Episode Discussion** to get their category IDs too.
+6. Paste the repo ID and the three category IDs into `src/_data/giscus.js`, replacing the `REPLACE_WITH_*` placeholders.
+
+Until step 5 is done, the comment widgets render but won't load (giscus rejects placeholder IDs), so it's safe to ship the templates ahead of finishing setup.
+
+### Turning comments off for a specific build
+
+`COMMENTS_ENABLED` (read via `process.env` in `.eleventy.js`, defaulting to `true`) suppresses the widget on every page for that build, regardless of the per-page `comments`/`commentsCategory` front matter above. Two builds set it explicitly:
+
+- **GitHub Pages** (`.github/workflows/deploy.yml`) sets it `false` — Pages serves under `/star-rangers/`, unlike the root-served cPanel domains giscus's pathname mapping actually targets, so leaving it on there would just create a second, disconnected set of discussions for the same pages.
+- Any cPanel clone can opt out the same way with the `COMMENTS_ENABLED` (or `ALT_<id>_COMMENTS_ENABLED`) `deploy.conf` key above — useful for a staging/preview domain that shouldn't collect public comments at all.
+
 ## Current story content
 
 Grouped by storyline thread — see [Site sections](#site-sections) and `lib/storyline-threads.js` for what a thread is.
@@ -78,6 +118,7 @@ THREADS=tissadelle-arc
 ADMIN_EMAIL=admin@example.com
 CUSTOM_LORE_FILE=/home/sciencef/custom-lore/exclusive-entry.md
 CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
+COMMENTS_ENABLED=true
 ```
 
 3. Push to that clone's branch as normal (or trigger cPanel's deploy) — `scripts/cpanel-deploy.sh` sources `deploy.conf` on every run, so no separate reload step is needed.
@@ -97,8 +138,9 @@ CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 | `ADMIN_EMAIL` | `admin@<DOMAIN>` | Address notified after every deploy attempt, success or failure. |
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
+| `COMMENTS_ENABLED` | `true` | Set `false` to build this clone with the [giscus comment widget](#discussion-forum-giscus) turned off entirely (e.g. a staging/preview domain). |
 
-If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
+If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, no custom lore/CSS, and comments on.
 
 ### `ALT_DOMAINS` — deploying more than one domain from one clone
 
@@ -138,6 +180,7 @@ ALT_altsite2_THEME=default
 | `ALT_<id>_ADMIN_EMAIL` | `admin@<ALT_<id>_DOMAIN>` | Same as `ADMIN_EMAIL` above, for this domain — added to the one deploy-log email's recipient list, alongside `ADMIN_EMAIL`, rather than sent separately. |
 | `ALT_<id>_CUSTOM_LORE_FILE` | *(unset — no extra page)* | Same as `CUSTOM_LORE_FILE` above, for this domain. |
 | `ALT_<id>_CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Same as `CUSTOM_CSS_FILE` above, for this domain. |
+| `ALT_<id>_COMMENTS_ENABLED` | `true` | Same as `COMMENTS_ENABLED` above, for this domain. |
 
 `DIR` and `DOMAIN` are the only two required per-domain keys — every other `ALT_<id>_*` key is optional and defaults exactly the way its unprefixed counterpart does. `scripts/cpanel-deploy.sh` runs one complete, independent Eleventy build + rsync per domain (the primary domain, then each `ALT_DOMAINS` entry in turn), sharing only the one `npm ci`-installed `node_modules/` — each domain gets its own theme, content filter, and branding even though they all come from one checkout, the same as separate clones would.
 
@@ -190,7 +233,7 @@ An email is sent to it after **every** deployment attempt — success or failure
 
 Let one clone carry a small amount of domain-exclusive content without touching the shared repo:
 
-- `CUSTOM_LORE_FILE` is a path to a clone-local, untracked markdown file with valid lore-entry front matter (`layout: lore-entry.njk`, `title`, `category`, etc. — see any file under `src/lore/` for the shape). If set, `scripts/cpanel-deploy.sh` copies it into `src/lore/custom/` before the build, so it becomes one extra lore page unique to this clone (builds at `/lore/custom/<filename-without-extension>/`), then removes it again once the build has read it — the clone's working tree never carries leftover untracked content between deploys, and nothing is ever committed to the shared repo.
+- `CUSTOM_LORE_FILE` is a path to a clone-local, untracked markdown file with valid lore-entry front matter (`layout: lore-entry.njk`, `title`, `category`, etc. — see any file under `src/lore/` for the shape). If set, `scripts/cpanel-deploy.sh` copies it into `src/lore/custom/` before the build, so it becomes one extra lore page unique to this clone (builds at `/lore/custom/<filename-without-extension>/`), then removes it again once the build has read it — the clone's working tree never carries leftover untracked content between deploys, and nothing is ever committed to the shared repo. Because it inherits `lore-entry.njk`'s layout like any other lore page, it gets giscus comments the same way too, in the shared "Lore & Worldbuilding" pool (see [Discussion forum (giscus)](#discussion-forum-giscus)) — keyed by its own `/lore/custom/<filename>/` path, so give each clone's `CUSTOM_LORE_FILE` a domain-unique basename (as `sample-deploy.conf`'s examples already do) unless you'd actually want two clones' exclusive entries sharing one comment thread.
 - `CUSTOM_CSS_FILE` is a path to a clone-local, untracked CSS file. If set, its contents are appended to the deployed `css/main.css` after the `THEME` stylesheet, so a clone can tweak a handful of things — a color, a font — without needing a whole new `theme-<name>.css` in the shared repo. Because it loads last, its rules can override the theme's.
 - Both fail the deploy loudly (not silently) if set to a path that doesn't exist, so a typo can't ship a build silently missing the content the clone owner expected.
 

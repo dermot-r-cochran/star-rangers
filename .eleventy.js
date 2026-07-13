@@ -56,6 +56,15 @@ module.exports = function(eleventyConfig) {
   // dev, CI, GitHub Pages).
   eleventyConfig.addGlobalData("theme", String(process.env.THEME || "default").trim().toLowerCase());
 
+  // Same pattern as THEME above, but a plain on/off switch: lets a build
+  // suppress the giscus comment widget entirely (see src/_includes/base.njk)
+  // without touching the per-page comments/commentsCategory front matter
+  // that decides which page *types* would otherwise carry it. Defaults on;
+  // the GitHub Pages workflow sets COMMENTS_ENABLED=false because its
+  // /star-rangers/-prefixed URLs would otherwise create a second, redundant
+  // set of pathname-mapped discussions alongside the cPanel domains'.
+  eleventyConfig.addGlobalData("commentsEnabled", String(process.env.COMMENTS_ENABLED || "true").trim().toLowerCase() !== "false");
+
   // Wires up the :::pov / :::::scene custom containers used in chapter
   // content (see lib/markdown-containers.js) - without this, markdown-it
   // has no idea what those fences mean and renders them as literal text.

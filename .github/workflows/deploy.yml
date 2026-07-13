@@ -32,7 +32,13 @@ jobs:
         run: npm ci
 
       - name: Build with Eleventy
+        # GitHub Pages serves under /star-rangers/, unlike the cPanel
+        # domains (root-served) that giscus's pathname-mapped comments
+        # actually target - leaving comments on here would just create a
+        # second, disconnected set of discussions for the same pages.
         run: npm run build
+        env:
+          COMMENTS_ENABLED: "false"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
