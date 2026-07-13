@@ -16,7 +16,7 @@ The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers
 
 ## Global Invariants
 
-- No moral cosmology: the Cascade does not encode virtue, sin, reward, or punishment. (See [The Cosmic Limitation on Evil](/star-rangers/lore/cosmic-limitation-on-evil/) for a structural — not moral — constraint some theorists attribute to Kieme.)
+- No moral cosmology: the Cascade does not encode virtue, sin, reward, or punishment — with one contested exception. See [The Cosmic Limitation on Evil](/star-rangers/lore/cosmic-limitation-on-evil/), a law Archive material credits Kieme with designing, which Archive theorists have never fully reconciled with this invariant.
 - No magic: all effects are lawful outcomes of higher-dimensional physics, universe overlap/folding, and archetypal interference.
 - Dragons are low-ranking Levrils.
 - Only primary universes possess Worldwrights.

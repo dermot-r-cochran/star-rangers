@@ -22,6 +22,6 @@ The legacy name for this tier is *Holy Triumvirate* — sometimes rendered, in o
 - No selective intervention at the Material layer.
 - Only inferable through invariants that persist across all [Concordants](/star-rangers/glossary/concordant/).
 
-Archive theorists also attribute to Kieme a further nonlocal constraint, [the Cosmic Limitation on Evil](/star-rangers/lore/cosmic-limitation-on-evil/): no configuration sustained primarily by inflicted harm can borrow structural support from the Cascade indefinitely. This is inferred, like every other Kieme constraint, from the total absence of a documented counterexample — not from any observed act.
+Kieme is also credited with one law the Archive treats differently from every other Kieme constraint: [the Cosmic Limitation on Evil](/star-rangers/lore/cosmic-limitation-on-evil/), which holds that every entity existing in service of evil dissolves and fades once it no longer serves a higher purpose. Where Kieme's other constraints are inferred purely from the absence of a documented counterexample, Archive material describes this one as *designed* — a deliberate act, not a passive boundary condition.
 
 **Example:** The prohibition against selective intervention at the Material layer is not enforced by any visible authority — no Kieme representative appears to stop it. Its constraint is inferred entirely from the fact that no confirmed instance of such intervention has ever been documented, across any Concordant.
