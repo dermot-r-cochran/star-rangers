@@ -12,7 +12,8 @@ The story moves across stations, causeways, archives, and boundary zones in the 
 
 ## Site sections
 
-- **Seasons & Episodes** (`/seasons/`) — Read the canon in story order, then shift POV within chapters to watch one event survive conflicting witnesses.
+- **Seasons & Episodes** (`/seasons/`) — Read the canon in story order, grouped by storyline thread, then shift POV within chapters to watch one event survive conflicting witnesses.
+- **Threads** (`/threads/`) — Browse the independent storylines that group the seasons — each thread is a self-contained narrative with its own cast.
 - **Characters** (`/characters/`) — Track the people, beings, constructs, and entities carrying the story forward.
 - **Timeline** (`/timeline/`) — Follow the confirmed order of events apart from when the narrative chooses to reveal them.
 - **Lore** (`/lore/`) — Step outside the story for the cosmology, institutions, and systems that shape the setting.
@@ -20,6 +21,10 @@ The story moves across stations, causeways, archives, and boundary zones in the 
 - **Codex** (`/codex/`) — Read the primary sources: logs, reports, directives, and records that may clarify the truth or bury it.
 
 ## Current story content
+
+Grouped by storyline thread — see [Site sections](#site-sections) and `lib/storyline-threads.js` for what a thread is.
+
+**Tissadelle Shepherd's Arc**
 
 - **Season 1**
   - Episode 1
@@ -69,6 +74,7 @@ SITE_NAME=Star Rangers
 SITE_TITLE=Star Rangers
 CHARACTERS=aldera,elvira
 TOPICS=boundary,detective-agency
+THREADS=tissadelle-arc
 ADMIN_EMAIL=admin@example.com
 CUSTOM_LORE_FILE=/home/sciencef/custom-lore/exclusive-entry.md
 CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
@@ -87,11 +93,12 @@ CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 | `SITE_TITLE` | `Star Rangers` | Text used in every page's browser `<title>` tag. |
 | `CHARACTERS` | *(unset — full site)* | Comma-separated character `id`s that narrow the deployed content. |
 | `TOPICS` | *(unset — full site)* | Comma-separated tag/category values that narrow the deployed content. |
+| `THREADS` | *(unset — full site)* | Comma-separated storyline thread `id`s (see [`lib/storyline-threads.js`](./lib/storyline-threads.js)) that narrow the deployed content to the seasons those threads cover. |
 | `ADMIN_EMAIL` | `admin@<DOMAIN>` | Address notified after every deploy attempt, success or failure. |
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
 
-If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site, a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
+If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
 
 ### `ALT_DOMAINS` — deploying more than one domain from one clone
 
@@ -107,6 +114,7 @@ ALT_altsite1_DOMAIN=altsite1.example
 ALT_altsite1_THEME=pets
 ALT_altsite1_SITE_NAME=Alt Site One
 ALT_altsite1_CHARACTERS=aldera,elvira
+ALT_altsite1_THREADS=tissadelle-arc
 ALT_altsite1_ADMIN_EMAIL=admin@altsite1.example
 
 ALT_altsite2_DIR=altsite2_html
@@ -124,6 +132,7 @@ ALT_altsite2_THEME=default
 | `ALT_<id>_THEME` | `default` | Same as `THEME` above, for this domain. |
 | `ALT_<id>_CHARACTERS` | *(unset — full site)* | Same as `CHARACTERS` above, for this domain. |
 | `ALT_<id>_TOPICS` | *(unset — full site)* | Same as `TOPICS` above, for this domain. |
+| `ALT_<id>_THREADS` | *(unset — full site)* | Same as `THREADS` above, for this domain. |
 | `ALT_<id>_SITE_NAME` | `Star Rangers` | Same as `SITE_NAME` above, for this domain. |
 | `ALT_<id>_SITE_TITLE` | `Star Rangers` | Same as `SITE_TITLE` above, for this domain. |
 | `ALT_<id>_ADMIN_EMAIL` | `admin@<ALT_<id>_DOMAIN>` | Same as `ADMIN_EMAIL` above, for this domain — added to the one deploy-log email's recipient list, alongside `ADMIN_EMAIL`, rather than sent separately. |
@@ -148,17 +157,18 @@ A listed alt domain that's misconfigured — an invalid id, a missing `ALT_<id>_
 | `sepia` | standard | Warm parchment/e-reader tone for long reading sessions. |
 | `solarized` | standard | Ethan Schoonover's Solarized Dark palette. |
 
-#### `CHARACTERS` and `TOPICS`
+#### `CHARACTERS`, `TOPICS`, and `THREADS`
 
-Comma-separated, case-insensitive lists that narrow the deployed site to content related to the listed characters and/or topics:
+Comma-separated, case-insensitive lists that narrow the deployed site to content related to the listed characters, topics, and/or storyline threads:
 
 - `CHARACTERS` matches character page `id`s and chapter POV character `id`s.
 - `TOPICS` matches page `tags` (and `category`, where present), across every content type including character pages.
-- `CHARACTERS` also participates in tag matching, since tags conventionally embed character slugs (e.g. a timeline entry tagged `aldera`).
+- `THREADS` matches a storyline thread `id` from the registry in [`lib/storyline-threads.js`](./lib/storyline-threads.js) — currently `founding-era` and `tissadelle-arc` (see the site's own [Threads](src/threads/) section, which groups seasons the same way). A chapter is included if its `season` front matter falls under a listed thread's seasons; a thread `id` also participates in tag matching, so a lore/timeline/glossary/codex entry can opt in by carrying the thread `id` as a tag.
+- `CHARACTERS` also participates in tag matching, since tags conventionally embed character slugs (e.g. a timeline entry tagged `aldera`) — so a page is included if it matches `CHARACTERS`, `TOPICS`, or `THREADS` by any of the above.
 - `CHARACTERS` also pulls in any lore, timeline, or glossary entry that an included character's own bio links to directly, even if nothing tags it for that character — a character's bio is already the site's record of which background matters for understanding them, so a `CHARACTERS`-filtered deploy carries that background along automatically instead of requiring every relevant entry to be tagged by hand.
 - Excluded pages still build at their normal URL as a minimal "not included in this edition" placeholder, instead of being omitted, so links to them never 404.
-- Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes) always build, just with fewer items listed.
-- Leaving both unset/empty deploys the full, unfiltered site (the default).
+- Section index/listing pages (Characters, Lore, Codex, Glossary, Timeline, Seasons/Episodes, Threads) always build, just with fewer items listed.
+- Leaving all three unset/empty deploys the full, unfiltered site (the default).
 
 #### `DOMAIN`
 

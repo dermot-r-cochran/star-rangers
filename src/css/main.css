@@ -642,6 +642,40 @@ a:focus {
   margin-bottom: var(--spacing-xl);
 }
 
+.thread-section {
+  margin-bottom: var(--spacing-xl);
+}
+.thread-section__title {
+  font-size: 1.8rem;
+  font-family: var(--font-ui);
+  color: var(--color-accent);
+  margin-bottom: var(--spacing-sm);
+}
+.thread-section__title a {
+  color: inherit;
+  text-decoration: none;
+}
+.thread-section__title a:hover,
+.thread-section__title a:focus {
+  text-decoration: underline;
+}
+.thread-section__description {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  font-family: var(--font-ui);
+  max-width: 70ch;
+  margin-bottom: var(--spacing-lg);
+}
+.thread-badge {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  font-family: var(--font-ui);
+  margin-bottom: var(--spacing-xl);
+}
+.thread-badge a {
+  color: var(--color-accent);
+}
+
 .season-block {
   margin-bottom: var(--spacing-xl);
 }

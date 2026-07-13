@@ -15,6 +15,7 @@
 #   SITE_TITLE=Undercover Pets
 #   CHARACTERS=aldera,elvira
 #   TOPICS=boundary,detective-agency
+#   THREADS=tissadelle-arc
 #   ADMIN_EMAIL=admin@example.com
 #   CUSTOM_LORE_FILE=/home/undercov/custom-lore/undercover-pets-origin.md
 #   CUSTOM_CSS_FILE=/home/undercov/custom-lore/undercover-pets-tweaks.css
@@ -45,8 +46,8 @@
 # domain - e.g. addon domains, whose document root is just another folder
 # under that account's $HOME, at the same level as public_html/. Each one
 # is declared as an id in ALT_DOMAINS plus its own ALT_<id>_* keys in
-# deploy.conf (DIR and DOMAIN required; THEME/CHARACTERS/TOPICS/SITE_NAME/
-# SITE_TITLE/ADMIN_EMAIL/CUSTOM_LORE_FILE/CUSTOM_CSS_FILE all optional,
+# deploy.conf (DIR and DOMAIN required; THEME/CHARACTERS/TOPICS/THREADS/
+# SITE_NAME/SITE_TITLE/ADMIN_EMAIL/CUSTOM_LORE_FILE/CUSTOM_CSS_FILE all optional,
 # defaulting exactly as their unprefixed counterparts above do), e.g. for
 # undercover-pets.com sharing the "sciencef" account alongside the primary
 # domain, added as sample-deploy.conf's ALT_DOMAINS example shows:
@@ -83,17 +84,24 @@
 # all of them sharing one hardcoded host. The GitHub Pages build (which
 # never sets SITE_DOMAIN) falls back to the GH Pages URL itself.
 #
-# CHARACTERS and TOPICS are comma-separated, case-insensitive lists that
-# narrow the deployed site to content related to the listed characters
-# and/or topics:
+# CHARACTERS, TOPICS, and THREADS are comma-separated, case-insensitive
+# lists that narrow the deployed site to content related to the listed
+# characters, topics, and/or storyline threads:
 #   - CHARACTERS matches a character page's `id` frontmatter, and a
 #     chapter's `povs[].id` list.
 #   - TOPICS matches a page's `tags` (and `category`, where present)
 #     frontmatter, across every content type including character pages.
+#   - THREADS matches a storyline thread id from the registry in
+#     lib/storyline-threads.js (currently "founding-era" and
+#     "tissadelle-arc" - see src/threads/ for the site's own Threads
+#     section). A chapter is included if its `season` frontmatter falls
+#     under a listed thread's season list; a thread id also participates in
+#     tag matching, so a lore/timeline/glossary/codex entry can opt in by
+#     carrying the thread id as a tag.
 #   - CHARACTERS also participates in tag matching (tags conventionally
 #     embed character slugs, e.g. a timeline entry tagged "aldera"), so a
-#     page is included if it matches CHARACTERS or TOPICS by any of the
-#     above.
+#     page is included if it matches CHARACTERS, TOPICS, or THREADS by any
+#     of the above.
 #   - CHARACTERS additionally pulls in any lore, timeline, or glossary entry
 #     that an included character's own bio links to directly (see
 #     lib/content-filter.js's getRelatedContentUrls), even without a
@@ -104,18 +112,18 @@
 #     "not included in this edition" placeholder — instead of being
 #     omitted, so links to them never 404.
 #   - Section index/listing pages (Characters, Lore, Codex, Glossary,
-#     Timeline, Seasons/Episodes) and other structural pages always build
-#     normally, just listing fewer items.
+#     Timeline, Seasons/Episodes, Threads) and other structural pages always
+#     build normally, just listing fewer items.
 #   - A chapter's individual per-scene, per-character POV pages (see
 #     src/_data/scenePovPages.js and src/scene-pov.njk) apply CHARACTERS at
 #     that finer grain: only the listed characters' own scene pages render
 #     real content, every other character in that scene still gets a
 #     placeholder page at its normal URL. The whole-chapter overview page
 #     (all POVs on one page, unchanged) keeps the coarser any-match
-#     behavior described above - a chapter renders there if ANY of its POVs
-#     or tags match.
-# Leaving both unset/empty (the default, and always true for the GitHub
-# Pages build) deploys the full, unfiltered site.
+#     behavior described above - a chapter renders there if ANY of its POVs,
+#     tags, or thread membership match.
+# Leaving all three unset/empty (the default, and always true for the
+# GitHub Pages build) deploys the full, unfiltered site.
 #
 # ADMIN_EMAIL receives one email per deployment attempt — success or
 # failure — with the full captured build+deploy log as the body and a
@@ -186,8 +194,8 @@
 deployment:
   tasks:
     # Runs the full build+deploy sequence (ensure-node, npm ci, eleventy
-    # build w/ CHARACTERS/TOPICS, _site sanity check, /star-rangers/ prefix
-    # rewrite, theme selection + rsync deploy + verification) and, always,
+    # build w/ CHARACTERS/TOPICS/THREADS, _site sanity check, /star-rangers/
+    # prefix rewrite, theme selection + rsync deploy + verification) and, always,
     # the ADMIN_EMAIL notification - see scripts/cpanel-deploy.sh for the
     # full sequence and comments. Invoked via an explicit `bash` interpreter
     # (not `sh`, and not relying on the executable bit) because the script
