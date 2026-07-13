@@ -20,6 +20,38 @@ The story moves across stations, causeways, archives, and boundary zones in the 
 - **Glossary** (`/glossary/`) — Fix the meaning of in-universe terms, titles, and concepts when language itself is contested.
 - **Codex** (`/codex/`) — Read the primary sources: logs, reports, directives, and records that may clarify the truth or bury it.
 
+## Discussion forum (giscus)
+
+Every character, lore, glossary, codex, episode, and chapter/scene page carries a comment thread powered by [giscus](https://giscus.app), which stores each thread as a GitHub Discussion on this repo rather than a third-party comment service. Config lives in `src/_data/giscus.js`; the embed itself is in `src/_includes/base.njk`, gated on the `comments`/`commentsCategory` front matter that `character.njk`, `lore-entry.njk`, `codex.njk`, `glossary-entry.njk`, `chapter.njk`, and `scene-pov.njk` each set (listing/index pages don't opt in, so they stay comment-free).
+
+Three of the repo's Discussion categories are mapped to page types (giscus creates one discussion per page path, lazily, the first time someone comments):
+
+| Category | Format | Pages |
+| --- | --- | --- |
+| **Characters** | Announcement (locked) | `/characters/*` |
+| **Lore & Worldbuilding** | Announcement (locked) | `/lore/*`, `/glossary/*`, `/codex/*` |
+| **Episode Discussion** | Announcement (locked) | `/seasons/**` (chapters and per-POV scenes) |
+
+Locking these to "Announcement" format means only the giscus GitHub App can start new discussions in them, so they only ever fill up with real page threads instead of off-topic posts. Five more categories exist for open community discussion, unrelated to any specific page:
+
+| Category | Format |
+| --- | --- |
+| **Announcements** | Announcement |
+| **General** | Open discussion |
+| **Q&A** | Question / Answer |
+| **Theories & Predictions** | Open discussion |
+| **Fan Creations** | Open discussion |
+
+### One-time setup
+
+1. In the repo's Settings → General → Features, enable **Discussions**.
+2. In the Discussions tab, use the categories gear icon to create the 8 categories above (GitHub seeds a few defaults like "Ideas"/"Polls" — rename or delete those rather than leaving stragglers).
+3. Install the [giscus app](https://github.com/apps/giscus) on this repo.
+4. Visit [giscus.app](https://giscus.app), enter `dermot-r-cochran/star-rangers`, choose **pathname** as the page ↔ discussion mapping, and select **Characters** as the category — the generated snippet includes a `data-repo-id` (same for every category) and a `data-category-id` (specific to Characters). Repeat just the category-selection step for **Lore & Worldbuilding** and **Episode Discussion** to get their category IDs too.
+5. Paste the repo ID and the three category IDs into `src/_data/giscus.js`, replacing the `REPLACE_WITH_*` placeholders.
+
+Until step 5 is done, the comment widgets render but won't load (giscus rejects placeholder IDs), so it's safe to ship the templates ahead of finishing setup.
+
 ## Current story content
 
 Grouped by storyline thread — see [Site sections](#site-sections) and `lib/storyline-threads.js` for what a thread is.
