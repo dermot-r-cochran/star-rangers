@@ -16,6 +16,7 @@ permalink: /seasons/s00/
 <p class="page-intro">
   Here is the fracture before the oath. Season 0 follows the years that made the Star Rangers both necessary and possible, from 2712 to 2723 UCSD under the last stretch of Military Space Command rule.
 </p>
+<p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (0 | threadForSeason).id }}/">{{ (0 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "0" %}
 {% set hasSeasonChapters = false %}

@@ -16,6 +16,7 @@ permalink: /seasons/s05/
 <p class="page-intro">
   Four seasons of operational service stand between the cadet who arrived in Season 1 and the Line Captain who opens Season 5. Tissadelle Shepherd now answers for boundary-proximate deployments in her own right — and for the Rangers she sends into them. Season 5 follows what that rank costs, on duty and off it.
 </p>
+<p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (5 | threadForSeason).id }}/">{{ (5 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "5" %}
 {% set hasSeasonChapters = false %}

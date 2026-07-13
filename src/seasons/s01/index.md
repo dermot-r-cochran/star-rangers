@@ -16,6 +16,7 @@ permalink: /seasons/s01/
 <p class="page-intro">
   Threshold Station is already living with a false reading when Season 1 begins. Browse the published episodes, then follow how each chapter tests civic duty against damaged memory and disputed evidence.
 </p>
+<p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (1 | threadForSeason).id }}/">{{ (1 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "1" %}
 {% set hasSeasonChapters = false %}

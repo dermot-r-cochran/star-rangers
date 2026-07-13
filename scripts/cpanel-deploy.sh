@@ -62,6 +62,7 @@ CPANEL_USER="sciencef"
 THEME="default"
 CHARACTERS=""
 TOPICS=""
+THREADS=""
 ADMIN_EMAIL=""
 DOMAIN="sciencefiction.site"
 SITE_NAME=""
@@ -157,12 +158,12 @@ unset _alt_id _alt_email _alt_domain_for_default
 # result into one overall pass/fail instead.
 # ---------------------------------------------------------------------------
 build_and_deploy() {
-  local label="$1" dest="$2" b_theme="$3" b_characters="$4" b_topics="$5" \
-        b_site_name="$6" b_site_title="$7" b_site_domain="$8" \
-        b_custom_lore_file="$9" b_custom_css_file="${10}"
+  local label="$1" dest="$2" b_theme="$3" b_characters="$4" b_topics="$5" b_threads="$6" \
+        b_site_name="$7" b_site_title="$8" b_site_domain="$9" \
+        b_custom_lore_file="${10}" b_custom_css_file="${11}"
 
-  # CHARACTERS/TOPICS/THEME/SITE_NAME/SITE_TITLE/SITE_DOMAIN are read via
-  # `process.env` inside the Eleventy Node build below, which runs as a
+  # CHARACTERS/TOPICS/THREADS/THEME/SITE_NAME/SITE_TITLE/SITE_DOMAIN are read
+  # via `process.env` inside the Eleventy Node build below, which runs as a
   # *child process* - local shell variables alone aren't visible to it, so
   # they must be `export`ed. Declaring them `local` first scopes both the
   # value AND the export to this function call only: once build_and_deploy
@@ -175,9 +176,9 @@ build_and_deploy() {
   # done by the caller), and the latter two are copied into place on disk
   # (src/lore/custom/, _site/css/main.css) before Node ever runs, so
   # Eleventy just discovers them as ordinary files.
-  local CHARACTERS="$b_characters" TOPICS="$b_topics" THEME="$b_theme" \
+  local CHARACTERS="$b_characters" TOPICS="$b_topics" THREADS="$b_threads" THEME="$b_theme" \
         SITE_NAME="$b_site_name" SITE_TITLE="$b_site_title" SITE_DOMAIN="$b_site_domain"
-  export CHARACTERS TOPICS THEME SITE_NAME SITE_TITLE SITE_DOMAIN
+  export CHARACTERS TOPICS THREADS THEME SITE_NAME SITE_TITLE SITE_DOMAIN
 
   echo "=== [$label] build + deploy starting (dest=$dest theme=$b_theme domain=$b_site_domain) ==="
 
@@ -227,7 +228,7 @@ build_and_deploy() {
     fi
   fi
 
-  echo "--- [$label 2/5] eleventy build (CHARACTERS=$CHARACTERS TOPICS=$TOPICS SITE_DOMAIN=$SITE_DOMAIN) ---"
+  echo "--- [$label 2/5] eleventy build (CHARACTERS=$CHARACTERS TOPICS=$TOPICS THREADS=$THREADS SITE_DOMAIN=$SITE_DOMAIN) ---"
   "$REPOSITORY_ROOT/node_modules/.bin/eleventy" \
     || { echo "FAIL [$label]: eleventy build" >&2; return 1; }
 
@@ -312,7 +313,7 @@ main() {
   local -a result_lines=()
 
   if build_and_deploy "primary" "/home/$CPANEL_USER/public_html/" \
-       "$THEME" "$CHARACTERS" "$TOPICS" "$SITE_NAME" "$SITE_TITLE" "$DOMAIN" \
+       "$THEME" "$CHARACTERS" "$TOPICS" "$THREADS" "$SITE_NAME" "$SITE_TITLE" "$DOMAIN" \
        "$CUSTOM_LORE_FILE" "$CUSTOM_CSS_FILE"; then
     result_lines+=("OK   primary -> /home/$CPANEL_USER/public_html/ ($DOMAIN)")
   else
@@ -364,17 +365,18 @@ main() {
       continue
     fi
 
-    local alt_theme alt_characters alt_topics alt_site_name alt_site_title \
+    local alt_theme alt_characters alt_topics alt_threads alt_site_name alt_site_title \
           alt_custom_lore alt_custom_css
     alt_theme=$(alt_get "$id" THEME); alt_theme="${alt_theme:-default}"
     alt_characters=$(alt_get "$id" CHARACTERS)
     alt_topics=$(alt_get "$id" TOPICS)
+    alt_threads=$(alt_get "$id" THREADS)
     alt_site_name=$(alt_get "$id" SITE_NAME)
     alt_site_title=$(alt_get "$id" SITE_TITLE)
     alt_custom_lore=$(alt_get "$id" CUSTOM_LORE_FILE)
     alt_custom_css=$(alt_get "$id" CUSTOM_CSS_FILE)
 
-    if build_and_deploy "$id" "$alt_dest" "$alt_theme" "$alt_characters" "$alt_topics" \
+    if build_and_deploy "$id" "$alt_dest" "$alt_theme" "$alt_characters" "$alt_topics" "$alt_threads" \
          "$alt_site_name" "$alt_site_title" "$alt_domain" "$alt_custom_lore" "$alt_custom_css"; then
       result_lines+=("OK   $id -> $alt_dest ($alt_domain)")
     else

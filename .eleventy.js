@@ -8,6 +8,7 @@ const {
   isTopicPageIncluded,
   getRelatedContentUrls
 } = require("./lib/content-filter");
+const { threadForSeason } = require("./lib/storyline-threads");
 
 // Whether a lore/timeline/glossary page earns inclusion either the normal
 // way (tag/category match) or because some included character's own bio
@@ -88,6 +89,12 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("zeroPad", (num) => String(num).padStart(2, "0"));
+
+  // Groups a chapter/season under its storyline thread - see
+  // lib/storyline-threads.js. Always returns a thread object (falling back
+  // to the shared "Unsorted" placeholder), never null, so templates never
+  // need their own default-handling for an unassigned season.
+  eleventyConfig.addFilter("threadForSeason", (seasonNumber) => threadForSeason(seasonNumber));
 
   eleventyConfig.addFilter("glossaryUrl", function(term, glossaryCollection, loreCollection) {
     const match =

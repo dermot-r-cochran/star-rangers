@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Seasons"
-description: "All seasons and episodes of Star Rangers."
+description: "All seasons and episodes of Star Rangers, grouped by storyline thread."
 permalink: /seasons/
 ---
 <img class="page-hero-image" src="/star-rangers/images/hero/seasons-orbit.jpg" alt="A space station orbiting a planet against the backdrop of the universe" />
@@ -12,31 +12,85 @@ permalink: /seasons/
 <p class="page-intro">
   The published story opens in 2826 UCSD. Threshold Station has carried an unresolved instrument discrepancy for eleven years, while the Marsh Causeway has endured three years of independent boundary monitoring.
 </p>
+<p class="page-intro">
+  Seasons are grouped below by <a href="/star-rangers/threads/">storyline thread</a> — each thread is an independent narrative, not a strict release order. See the <a href="/star-rangers/threads/">Threads</a> page for what each one covers.
+</p>
 
 {% set allChapters = collections.chapters %}
 {% if allChapters.length %}
-  {% set currentSeason = 0 %}
-  {% for chapter in allChapters %}
-    {% if chapter.data.season != currentSeason %}
-      {% if currentSeason > 0 %}</ul></div>{% endif %}
-      {% set currentSeason = chapter.data.season %}
-      <div class="season-block">
-        <h2 class="season-block__title">
-          <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
-        </h2>
-        <ul class="chapter-list" role="list">
+  {% for thread in storylineThreads %}
+    {% set hasChapters = false %}
+    {% for chapter in allChapters %}
+      {% if (chapter.data.season | threadForSeason).id == thread.id %}{% set hasChapters = true %}{% endif %}
+    {% endfor %}
+    {% if hasChapters %}
+    <section class="thread-section" aria-labelledby="thread-{{ thread.id }}">
+      <h2 class="thread-section__title" id="thread-{{ thread.id }}">
+        <a href="/star-rangers/threads/{{ thread.id }}/">{{ thread.name }}</a>
+      </h2>
+      <p class="thread-section__description">{{ thread.description }}</p>
+      {% set currentSeason = -1 %}
+      {% for chapter in allChapters %}
+        {% if (chapter.data.season | threadForSeason).id == thread.id %}
+          {% if chapter.data.season != currentSeason %}
+            {% if currentSeason != -1 %}</ul></div>{% endif %}
+            {% set currentSeason = chapter.data.season %}
+            <div class="season-block">
+              <h3 class="season-block__title">
+                <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
+              </h3>
+              <ul class="chapter-list" role="list">
+          {% endif %}
+                <li class="chapter-list__item">
+                  <a href="/star-rangers{{ chapter.url }}">
+                    <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
+                    <span class="chapter-list__title">{{ chapter.data.title }}</span>
+                    {% if chapter.data.location %}
+                    <span class="chapter-list__loc">{{ chapter.data.location }}</span>
+                    {% endif %}
+                  </a>
+                </li>
+        {% endif %}
+      {% endfor %}
+      </ul></div>
+    </section>
     {% endif %}
-          <li class="chapter-list__item">
-            <a href="/star-rangers{{ chapter.url }}">
-              <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
-              <span class="chapter-list__title">{{ chapter.data.title }}</span>
-              {% if chapter.data.location %}
-              <span class="chapter-list__loc">{{ chapter.data.location }}</span>
-              {% endif %}
-            </a>
-          </li>
   {% endfor %}
-  </ul></div>
+
+  {% set hasUnsorted = false %}
+  {% for chapter in allChapters %}
+    {% if (chapter.data.season | threadForSeason).id == "unsorted" %}{% set hasUnsorted = true %}{% endif %}
+  {% endfor %}
+  {% if hasUnsorted %}
+  <section class="thread-section" aria-labelledby="thread-unsorted">
+    <h2 class="thread-section__title" id="thread-unsorted">Unsorted</h2>
+    <p class="thread-section__description">Seasons published before being assigned to a storyline thread.</p>
+    {% set currentSeason = -1 %}
+    {% for chapter in allChapters %}
+      {% if (chapter.data.season | threadForSeason).id == "unsorted" %}
+        {% if chapter.data.season != currentSeason %}
+          {% if currentSeason != -1 %}</ul></div>{% endif %}
+          {% set currentSeason = chapter.data.season %}
+          <div class="season-block">
+            <h3 class="season-block__title">
+              <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
+            </h3>
+            <ul class="chapter-list" role="list">
+        {% endif %}
+              <li class="chapter-list__item">
+                <a href="/star-rangers{{ chapter.url }}">
+                  <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
+                  <span class="chapter-list__title">{{ chapter.data.title }}</span>
+                  {% if chapter.data.location %}
+                  <span class="chapter-list__loc">{{ chapter.data.location }}</span>
+                  {% endif %}
+                </a>
+              </li>
+      {% endif %}
+    {% endfor %}
+    </ul></div>
+  </section>
+  {% endif %}
 {% else %}
   <p class="page-intro">No chapters published yet.</p>
 {% endif %}
