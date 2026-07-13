@@ -69,6 +69,7 @@ SITE_NAME=""
 SITE_TITLE=""
 CUSTOM_LORE_FILE=""
 CUSTOM_CSS_FILE=""
+COMMENTS_ENABLED="true"
 ALT_DOMAINS=""
 # shellcheck disable=SC1091
 [ -f "$REPOSITORY_ROOT/deploy.conf" ] && . "$REPOSITORY_ROOT/deploy.conf"
@@ -136,10 +137,10 @@ done
 unset _alt_id _alt_email _alt_domain_for_default
 
 {
-  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s site_name=%s site_title=%s custom_lore=%s custom_css=%s alt_domains=%s) ===\n' \
+  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s site_name=%s site_title=%s custom_lore=%s custom_css=%s comments_enabled=%s alt_domains=%s) ===\n' \
     "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$CPANEL_USER" "$THEME" "$DOMAIN" \
     "${SITE_NAME:-default}" "${SITE_TITLE:-default}" \
-    "${CUSTOM_LORE_FILE:-none}" "${CUSTOM_CSS_FILE:-none}" "${ALT_DOMAINS:-none}"
+    "${CUSTOM_LORE_FILE:-none}" "${CUSTOM_CSS_FILE:-none}" "$COMMENTS_ENABLED" "${ALT_DOMAINS:-none}"
 } | tee -a "$LOG_FILE"
 
 # ---------------------------------------------------------------------------
@@ -161,11 +162,32 @@ build_and_deploy() {
   local label="$1" dest="$2" b_theme="$3" b_characters="$4" b_topics="$5" b_threads="$6" \
         b_site_name="$7" b_site_title="$8" b_site_domain="$9" \
         b_custom_lore_file="${10}" b_custom_css_file="${11}"
+  shift 11
 
-  # CHARACTERS/TOPICS/THREADS/THEME/SITE_NAME/SITE_TITLE/SITE_DOMAIN are read
-  # via `process.env` inside the Eleventy Node build below, which runs as a
-  # *child process* - local shell variables alone aren't visible to it, so
-  # they must be `export`ed. Declaring them `local` first scopes both the
+  # Anything left in "$@" past the 11 fixed positions above is a trailing
+  # NAME=value toggle (currently just COMMENTS_ENABLED) rather than its own
+  # numbered parameter - a plain on/off setting added later only needs a
+  # `local`/case arm here plus one more "NAME=$value" string at each call
+  # site below, not a new position threaded through this whole function
+  # (and both callers) in order. Unrecognized names fail loudly rather than
+  # being exported blindly, same spirit as the CUSTOM_LORE_FILE/
+  # CUSTOM_CSS_FILE "missing file" checks further down.
+  local COMMENTS_ENABLED="true"
+  local b_kv b_kv_name b_kv_value
+  for b_kv in "$@"; do
+    b_kv_name="${b_kv%%=*}"
+    b_kv_value="${b_kv#*=}"
+    case "$b_kv_name" in
+      COMMENTS_ENABLED) COMMENTS_ENABLED="$b_kv_value" ;;
+      *) echo "FAIL [$label]: unknown build_and_deploy toggle '$b_kv_name'" >&2; return 1 ;;
+    esac
+  done
+
+  # CHARACTERS/TOPICS/THREADS/THEME/SITE_NAME/SITE_TITLE/SITE_DOMAIN/
+  # COMMENTS_ENABLED are read via `process.env` inside the Eleventy Node
+  # build below, which runs as a *child process* - local shell variables
+  # alone aren't visible to it, so they must be `export`ed. Declaring them
+  # `local` first (COMMENTS_ENABLED already was, above) scopes both the
   # value AND the export to this function call only: once build_and_deploy
   # returns, the next call's (next domain's) values can't leak into a
   # later build via the inherited process environment. DOMAIN is exported
@@ -178,9 +200,9 @@ build_and_deploy() {
   # Eleventy just discovers them as ordinary files.
   local CHARACTERS="$b_characters" TOPICS="$b_topics" THREADS="$b_threads" THEME="$b_theme" \
         SITE_NAME="$b_site_name" SITE_TITLE="$b_site_title" SITE_DOMAIN="$b_site_domain"
-  export CHARACTERS TOPICS THREADS THEME SITE_NAME SITE_TITLE SITE_DOMAIN
+  export CHARACTERS TOPICS THREADS THEME SITE_NAME SITE_TITLE SITE_DOMAIN COMMENTS_ENABLED
 
-  echo "=== [$label] build + deploy starting (dest=$dest theme=$b_theme domain=$b_site_domain) ==="
+  echo "=== [$label] build + deploy starting (dest=$dest theme=$b_theme domain=$b_site_domain comments_enabled=$COMMENTS_ENABLED) ==="
 
   # _site/ is NOT cleaned by Eleventy between runs - it only writes/
   # overwrites, so a file this domain's build doesn't happen to produce
@@ -314,7 +336,7 @@ main() {
 
   if build_and_deploy "primary" "/home/$CPANEL_USER/public_html/" \
        "$THEME" "$CHARACTERS" "$TOPICS" "$THREADS" "$SITE_NAME" "$SITE_TITLE" "$DOMAIN" \
-       "$CUSTOM_LORE_FILE" "$CUSTOM_CSS_FILE"; then
+       "$CUSTOM_LORE_FILE" "$CUSTOM_CSS_FILE" "COMMENTS_ENABLED=$COMMENTS_ENABLED"; then
     result_lines+=("OK   primary -> /home/$CPANEL_USER/public_html/ ($DOMAIN)")
   else
     overall_status=1
@@ -366,7 +388,7 @@ main() {
     fi
 
     local alt_theme alt_characters alt_topics alt_threads alt_site_name alt_site_title \
-          alt_custom_lore alt_custom_css
+          alt_custom_lore alt_custom_css alt_comments_enabled
     alt_theme=$(alt_get "$id" THEME); alt_theme="${alt_theme:-default}"
     alt_characters=$(alt_get "$id" CHARACTERS)
     alt_topics=$(alt_get "$id" TOPICS)
@@ -375,9 +397,11 @@ main() {
     alt_site_title=$(alt_get "$id" SITE_TITLE)
     alt_custom_lore=$(alt_get "$id" CUSTOM_LORE_FILE)
     alt_custom_css=$(alt_get "$id" CUSTOM_CSS_FILE)
+    alt_comments_enabled=$(alt_get "$id" COMMENTS_ENABLED); alt_comments_enabled="${alt_comments_enabled:-true}"
 
     if build_and_deploy "$id" "$alt_dest" "$alt_theme" "$alt_characters" "$alt_topics" "$alt_threads" \
-         "$alt_site_name" "$alt_site_title" "$alt_domain" "$alt_custom_lore" "$alt_custom_css"; then
+         "$alt_site_name" "$alt_site_title" "$alt_domain" "$alt_custom_lore" "$alt_custom_css" \
+         "COMMENTS_ENABLED=$alt_comments_enabled"; then
       result_lines+=("OK   $id -> $alt_dest ($alt_domain)")
     else
       overall_status=1

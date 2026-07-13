@@ -53,6 +53,13 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 
 Until step 5 is done, the comment widgets render but won't load (giscus rejects placeholder IDs), so it's safe to ship the templates ahead of finishing setup.
 
+### Turning comments off for a specific build
+
+`COMMENTS_ENABLED` (read via `process.env` in `.eleventy.js`, defaulting to `true`) suppresses the widget on every page for that build, regardless of the per-page `comments`/`commentsCategory` front matter above. Two builds set it explicitly:
+
+- **GitHub Pages** (`.github/workflows/deploy.yml`) sets it `false` — Pages serves under `/star-rangers/`, unlike the root-served cPanel domains giscus's pathname mapping actually targets, so leaving it on there would just create a second, disconnected set of discussions for the same pages.
+- Any cPanel clone can opt out the same way with the `COMMENTS_ENABLED` (or `ALT_<id>_COMMENTS_ENABLED`) `deploy.conf` key above — useful for a staging/preview domain that shouldn't collect public comments at all.
+
 ## Current story content
 
 Grouped by storyline thread — see [Site sections](#site-sections) and `lib/storyline-threads.js` for what a thread is.
@@ -111,6 +118,7 @@ THREADS=tissadelle-arc
 ADMIN_EMAIL=admin@example.com
 CUSTOM_LORE_FILE=/home/sciencef/custom-lore/exclusive-entry.md
 CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
+COMMENTS_ENABLED=true
 ```
 
 3. Push to that clone's branch as normal (or trigger cPanel's deploy) — `scripts/cpanel-deploy.sh` sources `deploy.conf` on every run, so no separate reload step is needed.
@@ -130,8 +138,9 @@ CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 | `ADMIN_EMAIL` | `admin@<DOMAIN>` | Address notified after every deploy attempt, success or failure. |
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
+| `COMMENTS_ENABLED` | `true` | Set `false` to build this clone with the [giscus comment widget](#discussion-forum-giscus) turned off entirely (e.g. a staging/preview domain). |
 
-If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
+If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, no custom lore/CSS, and comments on.
 
 ### `ALT_DOMAINS` — deploying more than one domain from one clone
 
@@ -171,6 +180,7 @@ ALT_altsite2_THEME=default
 | `ALT_<id>_ADMIN_EMAIL` | `admin@<ALT_<id>_DOMAIN>` | Same as `ADMIN_EMAIL` above, for this domain — added to the one deploy-log email's recipient list, alongside `ADMIN_EMAIL`, rather than sent separately. |
 | `ALT_<id>_CUSTOM_LORE_FILE` | *(unset — no extra page)* | Same as `CUSTOM_LORE_FILE` above, for this domain. |
 | `ALT_<id>_CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Same as `CUSTOM_CSS_FILE` above, for this domain. |
+| `ALT_<id>_COMMENTS_ENABLED` | `true` | Same as `COMMENTS_ENABLED` above, for this domain. |
 
 `DIR` and `DOMAIN` are the only two required per-domain keys — every other `ALT_<id>_*` key is optional and defaults exactly the way its unprefixed counterpart does. `scripts/cpanel-deploy.sh` runs one complete, independent Eleventy build + rsync per domain (the primary domain, then each `ALT_DOMAINS` entry in turn), sharing only the one `npm ci`-installed `node_modules/` — each domain gets its own theme, content filter, and branding even though they all come from one checkout, the same as separate clones would.
 
