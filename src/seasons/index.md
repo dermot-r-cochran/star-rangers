@@ -4,6 +4,7 @@ title: "Seasons"
 description: "All seasons and episodes of Star Rangers."
 permalink: /seasons/
 ---
+<img class="page-hero-image" src="/star-rangers/images/hero/seasons-orbit.jpg" alt="A space station orbiting a planet against the backdrop of the universe" />
 <h1 class="page-title">Seasons &amp; Episodes</h1>
 <p class="page-intro">
   Begin with the record: one history, many witnesses. Read a chapter in any available character's point of view, then switch inside the chapter to see how duty, fear, and memory reshape the same event.

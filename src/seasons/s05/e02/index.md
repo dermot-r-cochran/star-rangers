@@ -12,6 +12,7 @@ permalink: /seasons/s05/e02/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/s05e02-kerry-hills.jpg" alt="Green hills and fields of the Irish countryside" />
 <h1 class="page-title">Season 5 · Episode 2</h1>
 <p class="page-intro">
   Line Captain Tissadelle Shepherd carries a data exchange to Tír na nÓg under the Celtic Union's standing agreement with the Survey Corps, then stays on for personal leave. The uniform comes off at the council house door. What she notices on her mother's hillside afterward does not.

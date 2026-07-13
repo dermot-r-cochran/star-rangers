@@ -3,6 +3,7 @@ layout: base.njk
 title: "Timeline"
 description: "The canonical sequence of events in Star Rangers — one fixed history."
 ---
+<img class="page-hero-image" src="/star-rangers/images/hero/timeline-clock.jpg" alt="A vintage clock face" />
 <h1 class="page-title">Timeline</h1>
 <p class="page-intro">
   This is the official sequence: what happened, when it happened, and where the record still holds. Chapters may dispute motive, memory, or meaning. This timeline keeps to confirmed fact first.

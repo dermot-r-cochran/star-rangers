@@ -3,6 +3,7 @@ layout: base.njk
 title: "About the Author"
 description: "About Dermot R. Cochran, creator of Star Rangers."
 ---
+<img class="page-hero-image" src="/star-rangers/images/hero/about-writer.jpg" alt="A writer working at a desk at night" />
 <h1 class="page-title">About the Author</h1>
 <p class="page-intro">
   Dermot R. Cochran is a Senior Machine Learning Engineer based in Dublin, Ireland.

@@ -12,6 +12,7 @@ permalink: /seasons/s01/e00/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/s01e00-cat.jpg" alt="A black cat" />
 <h1 class="page-title">Season 1 · Episode 0</h1>
 <p class="page-intro">
   A prequel, set roughly four years before Episode 1. Before Elvira ever took up the Marsh Causeway outpost, her household cat chose exile over a garden gate — and found, on a bare tidal rock, the first confirmation that her sensitivity to the boundary was real.
