@@ -127,6 +127,28 @@ Plurality — a single body hosting more than one person (headmates, or tulpas w
 
 ---
 
+## Narrative Structure — Multiple Independent Storylines
+
+*Star Rangers* runs independent storylines at two nested levels. This is a structural rule, not an emergent accident — it should be treated as load-bearing when planning new seasons or arc treatments.
+
+**Macro level — the season spine.** Tissadelle Shepherd's career (Cadet in S1 → Principal in S3 → Line Captain in S5 → the Last Stand in S6-7) gives the published seasons a chronological throughline, but the season numbering is a slot system, not a strict release sequence: **Season 2 and Season 4 are deliberately unwritten gaps**, reserved for storylines that do not involve Tissadelle at all and do not need to be sequenced relative to her arc. A season number identifies a position in the setting's timeline, not a claim that every season shares a protagonist.
+
+**Micro level — parallel threads within a season.** Within a season, two (occasionally more) storylines run with no shared scenes, no shared POV cast, and no narrative contact until a defined convergence point:
+
+- **Season 1:** Thread A — the Threshold Station survey team (Galahad, Syra, Rook-7) investigating the forty-second chronometer discrepancy. Thread B — Elvira and Aldera at the Marsh Causeway, working a Court-Fae feeding pattern alone. Convergence: the two threads meet at the causeway, where Galahad's precise vocabulary lets Elvira ask the question Aldera has been waiting to answer, breaking the feeding loop.
+- **Season 6-7 arc treatment** (`story-bible/tissadelle-arc-s6-7.md`): Thread A — the institutional thread (external POVs: Wender, Sen, Rook-7, Syra) working the Last Stand's aftermath from Threshold Station. Thread B — the interior thread (Tissadelle's own POV, fragmented and non-chronological). Convergence: a Season 6 endpoint correlating a detail only Tissadelle could know against the institutional team's physical evidence, resolved in Season 7 by the same naming-defeats-ambiguity mechanic Season 1 established.
+- **Season 3 and Season 5**, as published, each run a single dominant POV (Tissadelle) paired with one contrasting local POV (Sohrel; Órla) rather than two fully independent storylines — noted here as the current exception to the pattern, not a second template. A future S3/S5-position season is free to run a genuinely independent second thread instead, the way S1 and the S6-7 treatment do.
+
+**What makes two threads "independent" rather than just alternating scenes:**
+
+1. Separate POV casts with no scene overlap until the convergence point.
+2. Each thread must be legible and satisfying read in isolation — a reader who only followed Thread A should not feel they were reading half a story.
+3. Threads share a thematic throughline (most often: precise naming is what defeats ambiguity-feeding entities) without sharing plot mechanics or a common villain-of-the-week.
+4. The convergence point is decided before either thread is drafted, even if the season isn't fully written yet — see the "Established future-canon waypoints" and Season 6-7 treatment for examples of convergence points fixed well ahead of the prose.
+5. Convergence merges information or action, not necessarily the cast going forward — characters can separate again after the threads meet.
+
+---
+
 ## Outline (story so far / structure)
 
 **Format:** Seasons → Episodes → Chapters. Each chapter uses `:::pov <character>` blocks to show the same scene/sequence from 2–3 character perspectives, plus front-matter `canon_facts` (explicit world rules affirmed in that chapter) and `povs` (which characters narrate).
@@ -167,4 +189,4 @@ Plurality — a single body hosting more than one person (headmates, or tulpas w
 
 ## Source notes
 
-Compiled from the live repository content on 2026-07-03: `src/index.md`, `src/about/index.md`, `src/lore/five-layers.md`, `src/lore/formation-of-star-rangers.md`, `src/glossary/concordant.md`, all files in `src/characters/`, all files in `src/timeline/` (excluding `index.md`), and `src/seasons/s01/e01/s01e01c01.md`. Licensed CC BY-NC-ND 4.0 by Dermot R. Cochran — this summary is for personal drafting/import use, not redistribution.
+Compiled from the live repository content on 2026-07-03: `src/index.md`, `src/about/index.md`, `src/lore/five-layers.md`, `src/lore/formation-of-star-rangers.md`, `src/glossary/concordant.md`, all files in `src/characters/`, all files in `src/timeline/` (excluding `index.md`), and `src/seasons/s01/e01/s01e01c01.md`. The "Narrative Structure — Multiple Independent Storylines" section was added 2026-07-13, formalizing a pattern read out of `src/seasons/s01/`, `src/seasons/s03/`, `src/seasons/s05/`, and `story-bible/tissadelle-arc-s6-7.md` rather than any single source file. Licensed CC BY-NC-ND 4.0 by Dermot R. Cochran — this summary is for personal drafting/import use, not redistribution.
