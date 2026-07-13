@@ -4,6 +4,8 @@ title: "Krenyi (Quiet-Built)"
 category: "Species"
 tags: [krenyi, species, boundary, clarity, polyamorous, long-lived]
 description: "The Krenyi, also called the Quiet-Built or Nai: long-lived beings defined by clarity, coherence, and resistance to mythification."
+image: "krenyi.jpg"
+image_alt: "An illustration of grey aliens on a mars-like planet"
 ---
 
 A Krenyi will often answer the room before they answer the question: posture steady, gaze direct, no wasted gesture, no ornamental mystery. That clarity is not affect. It is structure.

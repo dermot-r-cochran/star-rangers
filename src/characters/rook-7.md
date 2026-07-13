@@ -9,6 +9,8 @@ aliases:
   - "Rook"
 tags: [robot, detective-agency, threshold-station, boundary, season-1, major-character]
 description: "A robot with non-standard sensor arrays and an investigative/analytical classification, assigned to the Threshold Station survey."
+image: "rook-7.jpg"
+image_alt: "A female-presenting cyborg or robot"
 ---
 
 It logs continuously. That is the first thing to know about Rook-7.

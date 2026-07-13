@@ -4,6 +4,8 @@ title: "Teleportation Constraints"
 category: "Physics"
 tags: [teleportation, quantum-space-harmonics, line-of-sight, medical-risk, energy-budget]
 description: "Canonical limits on teleportation, including sightline requirements, physiological costs, and harmonic-energy constraints."
+image: "teleportation-limitations.jpg"
+image_alt: "Defocused luminous colour stripes"
 ---
 
 A legal jump is over before a witness can finish a breath, but the body remembers it longer. That aftershock is part of the rule, not an accident.

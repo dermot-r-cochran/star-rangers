@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [human, orbital-habitats-compact, governor, orbital-five-o]
 description: "Governor presiding over the five self-governing orbital habitats around Earth bound by the Orbital Habitats Compact, and the officer who commissioned Orbital Five-O to close an investigative gap none of her habitats could close alone."
+image: "petra-voss.jpg"
+image_alt: "A young businesswoman wearing eyeglasses"
 ---
 
 Petra Voss presides over five self-governing orbital habitats around Earth, bound together under the [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/) — a civil jurisdiction that has nothing to do with, and does not overlap, the Star Rangers' charter-limited authority. [Rangers have no authority inside self-governing orbital habitats](/star-rangers/lore/military-space-command/) at all; Voss's office is the government that governs where the Rangers, by charter, cannot.

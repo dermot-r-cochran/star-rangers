@@ -4,6 +4,8 @@ title: "Lagrange Points and Fold-Space Transit"
 category: "Physics"
 tags: [ftl, higher-dimensional-folding, lagrange, navigation, gravitational-geometry, fold-site, concordant]
 description: "Why gravitationally neutral Lagrange points — especially L4 and L5 — are preferred staging sites for higher-dimensional fold operations, and what makes them measurably different from other departure positions."
+image: "lagrange-fold-points.jpg"
+image_alt: "A quantum computing concept"
 ---
 
 At Earth–Sun L5, a vessel can sit almost still while the scaffold forms around it. That calm geometry is why navigators trust Lagrange sites with work they would not attempt deeper in a gravity well.

@@ -4,6 +4,8 @@ title: "The Cerebraun Hegemony"
 category: "Factions"
 tags: [cerebraun-hegemony, faction, cerebraun, meridian, hegemony]
 description: "A centralized multi-world power built around a single dominant authority and subordinate administrations — the political mirror of the Cerebraun species' own multi-brained physiology."
+image: "cerebraun-hegemony.jpg"
+image_alt: "A space station in earth orbit"
 ---
 
 Where the Federation of Sentient Beings keeps no capital and no executive on principle, the Cerebraun Hegemony has both, and considers the alternative a category error.

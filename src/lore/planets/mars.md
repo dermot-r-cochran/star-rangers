@@ -7,6 +7,8 @@ description: "The Solar System's oldest permanently settled world beyond Earth, 
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Planet"
+image: "mars.jpg"
+image_alt: "A night landscape with a colourful milky way"
 ---
 
 Every governing body the Solar System has produced — democratic, authoritarian, and technocratic in turn — has kept its command chair on the same red dust. None of them asked Mars first.

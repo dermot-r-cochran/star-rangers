@@ -7,6 +7,8 @@ role: "Senior Archivist, Survey Archive"
 status: Active
 tags: [survey-archive, plural-mind, archivist, threshold-station, records]
 description: "Senior Archivist of the Survey Archive, and the person quietly correcting the institutional record for two decades. Sen is a plural mind — Cael, Wyn, and Sen, sharing one body and one desk."
+image: "sen.jpg"
+image_alt: "A young smiling man in a denim shirt"
 ---
 
 Every institution that keeps records eventually needs someone willing to reopen the ones everyone else has agreed to leave closed. At the Survey Archive, that has been Sen's desk for eleven years.

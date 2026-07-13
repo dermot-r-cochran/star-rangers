@@ -9,6 +9,8 @@ aliases:
   - "General Krast"
 tags: [msc, mars, sol-system, solar-command, history, human]
 description: "The Military Space Command general whose defence of technocratic rule at the Outer Stations Consolidation Hearing became the institution's most-quoted line — taught inside the MSC as doctrine, and repeated outside it as a warning."
+image: "maren-solveig-krast.jpg"
+image_alt: "A police officer in uniform outdoors"
 ---
 
 General Krast gave the Military Space Command its most durable line in a single unscripted answer, and spent the rest of her career discovering that a line durable enough to survive an institution's collapse does not stay owned by the person who said it.

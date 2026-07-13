@@ -4,6 +4,8 @@ title: "Decision-Making and Communication in the Star Rangers"
 category: "Institutions"
 tags: [star-rangers, decision-making, communication, doctrine, chain-of-command, subsidiarity, safety-corps, escalation, institutions]
 description: "Why the Corps pushes decisions to whoever is closest to the boundary, trains its officers to say only what they can support, and still keeps a handful of lines no field judgment is allowed to cross."
+image: "star-rangers-decision-and-communication.jpg"
+image_alt: "An official portrait of a monastic"
 ---
 
 The MSC took fourteen months to produce a preliminary report on Eden. A Ranger crew at a Class III boundary event has, by charter, no fourteen months to spend. The Corps' entire decision and communication culture follows from that one arithmetic fact.

@@ -7,6 +7,8 @@ description: "The Knarr Line's oldest and largest habitat — a converted ice-ha
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"
+image: "knarrheim.jpg"
+image_alt: "A rendered fantasy landscape of an alien planet"
 ---
 
 Every other Solar System capital was built to be one. Knarrheim was built to haul ice, and only stopped moving because it turned out to be more useful staying still.

@@ -4,6 +4,8 @@ title: "The Unbroken Command"
 category: "Factions"
 tags: [unbroken-command, imperium, faction, cyber-revenant, remnant, solar-system, history]
 description: "Isolated cells of Imperium loyalists who hold that the Imperium was never lawfully dissolved — no Administrator-Supreme ever issued a stand-down order — and, in a handful of confirmed cases, have used radical cybernetic preservation to keep individual officers technically still on duty for two centuries past the Imperium's fall."
+image: "the-unbroken-command.jpg"
+image_alt: "A mars colony with futuristic habitat structures"
 ---
 
 Every Imperium officer swore the same oath: to serve until relieved by order of the Administrator-Supreme. The negotiated restructuring that produced the Military Space Command never issued that order. Most officers stood down anyway, judging the Imperium's practical end close enough to a lawful one. A small number did not, and some of those found a way to keep not doing so for considerably longer than a human service record was ever built to last.

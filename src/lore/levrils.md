@@ -4,6 +4,8 @@ title: "Levrils: Dragons and Constraint Literacy"
 category: "Entities"
 tags: [levrils, dragons, constraint-literacy, cascade, celestials, meta-dimensional, higher-dimensional]
 description: "Levrils are sapient meta-dimensional beings — the only meta-dimensional entities with a place in the Cosmic Cascade. Distinguished from sapient and non-sapient monsters by Cascade standing and constraint literacy."
+image: "levrils.jpg"
+image_alt: "A ghostly cloaked figure in water"
 ---
 
 When a dragon appears in Material space, witnesses remember the shape first and the field effects later. The archives reverse that order on purpose.

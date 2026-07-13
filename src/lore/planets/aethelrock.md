@@ -7,6 +7,8 @@ description: "The third documented charter world of the Celtic Union of Planets 
 galaxy: "Milky Way"
 system: "Bruane System"
 locationType: "Planet"
+image: "aethelrock.jpg"
+image_alt: "An illustrated background of space and a planet"
 ---
 
 Ask a Union diplomat which charter world is hardest to get a straight answer from, and the answer is not Ynys Wydrin, where the trouble is the air. It is Aethelrock, where the trouble is agreeing on who gets to speak.

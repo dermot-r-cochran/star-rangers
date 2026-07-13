@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [alien, serephine, desert-world, thin-atmosphere, reconnaissance, season-1]
 description: "A Serephine Dunekin scout from a cold desert planet with thin air and extreme day-night temperature swings."
+image: "sethka-ru.jpg"
+image_alt: "A nomad crossing a desert"
 ---
 
 Kharis Belt IV has thin atmosphere, high UV flux, and a thermal inversion between day and night that would kill an unprotected person in under an hour on either side. Sethka Ru was born there. He learned to read margins before he learned to read routes.

@@ -4,6 +4,8 @@ title: "Chthonari"
 category: "Species"
 tags: [chthonari, species, undersong-belt, federation-of-sentient-beings, engineering-corps, star-rangers, low-gravity, harmonics]
 description: "A low-gravity, asteroid-burrowing insectoid people whose vibration-based senses gave them an intuitive grasp of harmonic mathematics long before they had a word for it — and who are now disproportionately represented in the Star Rangers' Engineering Corps fold-scaffold specialization."
+image: "chthonari.jpg"
+image_alt: "A futuristic illustration of an alien monster creature"
 ---
 
 Ask a Chthonari engineer how they know a fold scaffold's re-sync gradient is off before the instruments confirm it, and the honest answer is always the same: it sounds wrong. Not audibly. Through the hull, through the deck plating, through whatever solid structure happens to be underfoot. A Chthonari has been reading stress through rock since before their species had spaceflight, and a fold scaffold's gradient error, to a body built for that, is just one more thing the structure is trying to say.

@@ -4,6 +4,8 @@ title: "Universal Cosmic Stardate (UCSD)"
 category: "Timeline Notes"
 tags: [timeline, stardate, chronology, standards]
 description: "The universal cosmic stardate standard used in Star Rangers records, replacing human-centric CE dating."
+image: "universal-cosmic-stardate.jpg"
+image_alt: "An astronomical sundial"
 ---
 
 Every official record begins with a choice about whose history counts as the default. UCSD exists because the Star Rangers refused to let one species answer that question for everyone else.

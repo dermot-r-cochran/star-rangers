@@ -4,6 +4,8 @@ title: "Boundary Zones and Concordant Edges"
 category: "Cosmology"
 tags: [boundary, concordant, concordance, threshold, instrument-drift, physical-law]
 description: "How boundary zones between adjacent Concordants produce measurable physical effects and why they are operationally constrained environments."
+image: "boundary-zones.jpg"
+image_alt: "Multicolour cosmic art of outer space"
 ---
 
 At a boundary station, two clocks can disagree by seconds and both still be telling the truth. That is the first lesson of a boundary zone.

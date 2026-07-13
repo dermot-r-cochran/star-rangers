@@ -4,6 +4,8 @@ title: "Predatory Entities: Court-Fae, Gilded Saints, and Cute Predators"
 category: "Entities"
 tags: [court-fae, gilded-saints, cute-predators, predatory-entities, ambiguity, consent, sapient-monsters, meta-dimensional]
 description: "The three principal classes of predatory meta-dimensional entity in the Star Rangers universe, classified by sapience and feeding method."
+image: "predatory-entities.jpg"
+image_alt: "Blurry human arms"
 ---
 
 The most dangerous predator in a boundary story often arrives looking harmless, admirable, or simply overdue. That is why the classification starts with feeding pattern, not appearance.

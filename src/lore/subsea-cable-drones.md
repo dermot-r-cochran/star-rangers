@@ -4,6 +4,8 @@ title: "The Subsea Cable Warden Programme"
 category: "History"
 tags: [earth, history, pre-expansion, infrastructure, classified, drones, subsea, cable-network, early-expansion]
 description: "The classified autonomous underwater vehicle programme that protected Earth's subsea data cable network during the Early Expansion period — and why its existence was not officially acknowledged for over two centuries."
+image: "subsea-cable-drones.jpg"
+image_alt: "A vintage photograph of a statue"
 ---
 
 On the ocean floor, the cable looked thin enough to cut with the wrong metal and a little bad luck. The civilization above it depended on that fragility more than most people ever knew.

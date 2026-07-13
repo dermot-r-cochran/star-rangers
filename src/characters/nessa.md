@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [prequel, carraig-ban, boundary-zone, detective-agency, undercover-pets.com]
 description: "A wild, unaugmented cat living alone on the tidal island of Carraig Bán, who reads boundary-adjacent signal without any agency enhancement — and who gave a starving, lost young Aldera her first direction toward the Marsh Causeway."
+image: "nessa.jpg"
+image_alt: "A young cat with a raised paw"
 ---
 
 Nessa has never worn a harness, carried an agency designation, or filed a single log entry in her life, and reads a boundary-adjacent wrongness more reliably than most instruments the Survey Corps trusts for the job.

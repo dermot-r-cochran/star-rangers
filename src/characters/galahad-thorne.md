@@ -10,6 +10,8 @@ aliases:
   - "Thorne"
 tags: [human, survey, threshold-station, season-1, major-character]
 description: "Senior boundary surveyor assigned to lead the new team at Threshold Station."
+image: "galahad-thorne.jpg"
+image_alt: "A mature businessman portrait"
 ---
 
 Twelve years in the Survey Corps teaches a person to read incident reports the way a geologist reads strata: not for the events themselves, but for the gaps between them — what was not filed, what was filed and quietly revised, what the official record decided to call noise.

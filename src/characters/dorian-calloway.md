@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [human, orbital-habitats-compact, chief-commissioner, governor, orbital-five-o]
 description: "The Orbital Habitats Compact's Chief Commissioner — day-to-day administrative coordination across all five member habitats, answering to Governor Petra Voss and receiving Orbital Five-O's administrative reporting."
+image: "dorian-calloway.jpg"
+image_alt: "A mature businessman portrait"
 ---
 
 Dorian Calloway holds the coordination layer nobody notices until it's missing: five habitats' worth of Commissioners, each running a full civil administration and each nominally equal in standing, need one office that can reconcile their competing priorities before any of it reaches Governor [Petra Voss](/star-rangers/characters/petra-voss/) directly. That office is Calloway's.

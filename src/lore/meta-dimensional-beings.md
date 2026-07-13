@@ -4,6 +4,8 @@ title: "Meta-Dimensional Beings: Classification"
 category: "Entities"
 tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, court-fae, gilded-saints, demons, beautiful-monsters, threnes, cute-predators, higher-dimensional, boundary]
 description: "A classification of all meta-dimensional beings in the Star Rangers universe: sapient Cascade-ranked Levrils, sapient monsters, and non-sapient shadow beings."
+image: "meta-dimensional-beings.jpg"
+image_alt: "A hooded figure against a black background"
 ---
 
 A boundary sensor can register the breach before anyone sees a face, claw, or shadow. Classification begins there, with structure first and fear second.

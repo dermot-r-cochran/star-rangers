@@ -4,6 +4,8 @@ title: "Mnemari"
 category: "Species"
 tags: [mnemari, species, ilenne, federation-of-sentient-beings, memory, mediation, indefinite-lifespan]
 description: "A sapient people native to Ilenne with no natural upper bound on lifespan and no natural decay of memory — whose culture is built less around growing old than around what to do with a mind that never has to let anything go."
+image: "mnemari.jpg"
+image_alt: "A mysterious humanoid alien figure at night"
 ---
 
 Ask a Mnemari mediator how they can quote both sides of a two-century-old boundary dispute word for word, and the answer is never framed as a feat. It is framed as a liability they have learned, slowly, to carry without it crushing them.

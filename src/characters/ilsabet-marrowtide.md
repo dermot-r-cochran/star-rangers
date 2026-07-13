@@ -9,6 +9,8 @@ aliases:
   - "The Abbess of Aduine"
 tags: [four-islands, tideward-sisterhood, abbeylands, aduine, first-contact, human]
 description: "Abbess of the Tideward Sisterhood and keeper of the Long Accounting — the Kingdom of the Four Islands' only continuous written archive — and the Kingdom's de facto first point of contact for the Survey Corps' new standing delegation."
+image: "ilsabet-marrowtide.jpg"
+image_alt: "A night-time portrait of a robed priestess"
 ---
 
 Abbess Ilsabet Marrowtide keeps a written record the Crown itself cannot always confirm or contradict, and has spent her tenure making very sure the distinction stays exactly that plain to everyone who asks.

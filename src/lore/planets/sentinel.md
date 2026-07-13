@@ -7,6 +7,8 @@ description: "An airless, uninhabited world in the Halyx System, catalogued for 
 galaxy: "Milky Way"
 system: "Halyx System"
 locationType: "Planet"
+image: "sentinel.jpg"
+image_alt: "An abstract light ray particle gradient"
 ---
 
 Every automated survey classifier has a bin for signals it cannot parse: unmodulated, non-repeating, no known protocol match. File under noise. The Sentinel's pulse sat in that bin for centuries before anyone thought to just listen to it.

@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [alien, veyr, high-gravity, volcanic-world, engineering, season-1]
 description: "A Veyr Basaltborn engineer from a high-gravity volcanic planet, known for pressure-safe hull diagnostics and thermal systems work."
+image: "qiren-tal.jpg"
+image_alt: "A stone-hewn alien creature"
 ---
 
 Veyr-3 is active basaltic volcanism, dense mineral aerosols, micro-shocks, and a gravitational field heavy enough that human joints would degrade in a generation. Qiren Tal was born there and carries the physiology it produces: compact bone lattices, broad load-bearing joints, heat-tolerant skin that resists abrasion from suspended silicate particles.

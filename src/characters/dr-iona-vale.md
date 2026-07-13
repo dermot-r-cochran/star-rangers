@@ -9,6 +9,8 @@ aliases:
   - "Dr. Vale"
 tags: [human, teleportation, quantum-space-harmonics, threshold-station, season-1, major-character]
 description: "Clinical transit specialist assigned to Threshold Station to supervise high-risk teleport operations."
+image: "dr-iona-vale.jpg"
+image_alt: "A professional secretary in formal wear"
 ---
 
 She was transferred after the second successful jump that left someone unable to remember their own name.

@@ -2,6 +2,8 @@
 layout: lore-entry.njk
 title: "2826 UCSD Timeline Events"
 category: "Timeline Notes"
+image: "year-zero.jpg"
+image_alt: "Steampunk gears on a wooden table"
 ---
 
 *Timeline entries are each filed individually in the [Timeline](/star-rangers/timeline/) section. This article notes the 2826 UCSD starting conditions.*

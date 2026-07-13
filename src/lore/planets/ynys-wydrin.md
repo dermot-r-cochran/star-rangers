@@ -7,6 +7,8 @@ description: "The second-settled world of the Celtic Union of Planets — a dome
 galaxy: "Milky Way"
 system: "Avallach System"
 locationType: "Planet"
+image: "ynys-wydrin.jpg"
+image_alt: "An archer standing in a dark forest"
 ---
 
 Not every Currach Fleet ark found a world as forgiving as Tír na nÓg. Ynys Wydrin's colonists found thin, unbreathable air, permafrost, and a name already waiting for them in their own mythology.

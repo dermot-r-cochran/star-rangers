@@ -4,6 +4,8 @@ title: "The Cosmic Cascade"
 category: "Cosmology"
 tags: [cosmology, cascade, hierarchy, hyperomnium, kieme, conseleme, worldwright, concordant, telearchs, celestials, levrils, champions]
 description: "The strict hierarchy of causal authority in the Star Rangers universe, from Hyperomnium to Champions/Heroes."
+image: "cosmic-cascade.jpg"
+image_alt: "A space galaxy background"
 ---
 
 When witnesses say a dragon changed fate, the archives ask a colder question first: *which tier acted, and under what constraint?* That question leads into the Cascade.

@@ -4,6 +4,8 @@ title: "The Star Rangers Safety Corps"
 category: "History"
 tags: [star-rangers, safety-corps, history, standards, certification, early-expansion, survey-corps, boundary]
 description: "The Star Rangers Safety Corps and its institutional lineage from a twenty-first century product safety organisation to the Solar System's primary certification authority for boundary-proximate and fold-adjacent environments."
+image: "star-rangers-safety-corps.jpg"
+image_alt: "A stack of old 16mm film reels"
 ---
 
 A testing standard printed in Chicago in 1894 still casts a shadow across fold gates and boundary stations. The Safety Corps remembers that origin as lineage, not trivia.
