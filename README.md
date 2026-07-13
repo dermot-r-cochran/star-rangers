@@ -22,9 +22,9 @@ The story moves across stations, causeways, archives, and boundary zones in the 
 
 ## Discussion forum (giscus)
 
-Every character, lore, glossary, codex, episode, and chapter/scene page carries a comment thread powered by [giscus](https://giscus.app), which stores each thread as a GitHub Discussion on this repo rather than a third-party comment service. Config lives in `src/_data/giscus.js`; the embed itself is in `src/_includes/base.njk`, gated on the `comments`/`commentsCategory` front matter that `character.njk`, `lore-entry.njk`, `codex.njk`, `glossary-entry.njk`, `chapter.njk`, and `scene-pov.njk` each set (listing/index pages don't opt in, so they stay comment-free).
+Every character, lore, glossary, codex, episode, and chapter/scene page carries a comment thread powered by [giscus](https://giscus.app), which stores each thread as a GitHub Discussion rather than a third-party comment service. Comments live in a separate, dedicated **`Star-Rangers/sciencefiction-site-comments`** repo — not this one — so reader/fan discussion never mixes with this repo's own dev-facing Discussions, and the comment history stays put across any future rename, fork, or transfer of this source repo. That repo must be public (giscus reads it unauthenticated) and needs no content of its own beyond Discussions being enabled. Config lives in `src/_data/giscus.js`; the embed itself is in `src/_includes/base.njk`, gated on the `comments`/`commentsCategory` front matter that `character.njk`, `lore-entry.njk`, `codex.njk`, `glossary-entry.njk`, `chapter.njk`, and `scene-pov.njk` each set (listing/index pages don't opt in, so they stay comment-free).
 
-Three of the repo's Discussion categories are mapped to page types (giscus creates one discussion per page path, lazily, the first time someone comments):
+Three of the comments repo's Discussion categories are mapped to page types (giscus creates one discussion per page path, lazily, the first time someone comments):
 
 | Category | Format | Pages |
 | --- | --- | --- |
@@ -44,11 +44,12 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 
 ### One-time setup
 
-1. In the repo's Settings → General → Features, enable **Discussions**.
-2. In the Discussions tab, use the categories gear icon to create the 8 categories above (GitHub seeds a few defaults like "Ideas"/"Polls" — rename or delete those rather than leaving stragglers).
-3. Install the [giscus app](https://github.com/apps/giscus) on this repo.
-4. Visit [giscus.app](https://giscus.app), enter `dermot-r-cochran/star-rangers`, choose **pathname** as the page ↔ discussion mapping, and select **Characters** as the category — the generated snippet includes a `data-repo-id` (same for every category) and a `data-category-id` (specific to Characters). Repeat just the category-selection step for **Lore & Worldbuilding** and **Episode Discussion** to get their category IDs too.
-5. Paste the repo ID and the three category IDs into `src/_data/giscus.js`, replacing the `REPLACE_WITH_*` placeholders.
+1. Create the public `Star-Rangers/sciencefiction-site-comments` repo (README-only is fine — it exists purely to host Discussions).
+2. In that repo's Settings → General → Features, enable **Discussions**.
+3. In its Discussions tab, use the categories gear icon to create the 8 categories above (GitHub seeds a few defaults like "Ideas"/"Polls" — rename or delete those rather than leaving stragglers).
+4. Install the [giscus app](https://github.com/apps/giscus) on that repo (not this one).
+5. Visit [giscus.app](https://giscus.app), enter `Star-Rangers/sciencefiction-site-comments`, choose **pathname** as the page ↔ discussion mapping, and select **Characters** as the category — the generated snippet includes a `data-repo-id` (same for every category) and a `data-category-id` (specific to Characters). Repeat just the category-selection step for **Lore & Worldbuilding** and **Episode Discussion** to get their category IDs too.
+6. Paste the repo ID and the three category IDs into `src/_data/giscus.js`, replacing the `REPLACE_WITH_*` placeholders.
 
 Until step 5 is done, the comment widgets render but won't load (giscus rejects placeholder IDs), so it's safe to ship the templates ahead of finishing setup.
 
