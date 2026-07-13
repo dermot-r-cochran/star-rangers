@@ -27,3 +27,5 @@ Galactic Stardate is the deep-time calendar used for cross-[Concordant](/star-ra
 ## Canonical Rule
 
 When chronology must remain stable across multiple planets or species timescales, Galactic Stardate is the authoritative timestamp.
+
+Local calendars remain the norm for the worlds themselves; see [Solar Time and Local Calendars](/star-rangers/lore/solar-time-and-local-calendars/).

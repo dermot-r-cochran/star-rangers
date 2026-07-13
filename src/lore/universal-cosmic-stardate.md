@@ -31,3 +31,5 @@ UCSD did not replace CE by resetting the count to zero; it kept the same underly
 Adoption was not universal on the day it was declared. Communities that lost contact with Solar System institutions before UCSD standardisation took hold — most notably the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), whose Currach Fleet arks departed Earth on legacy CE dating and stayed out of contact for centuries afterward — never fully retired CE in their own records. Union clan archives, in keeping with the same cultural-preservation instinct that kept their founding languages alive, still cite CE dates alongside UCSD where the two calendars diverge in local usage. Solar System institutional records do not carry this exception.
 
 All new canonical entries should use UCSD formatting, with CE cited only as an archival cross-reference where a source world's own records use it.
+
+UCSD governs records, not daily life. For the local calendar each world keeps for itself, see [Solar Time and Local Calendars](/star-rangers/lore/solar-time-and-local-calendars/).
