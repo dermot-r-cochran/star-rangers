@@ -9,8 +9,11 @@ Options -Indexes
   Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
   Header always set X-XSS-Protection "0"
 
-  # Conservative CSP for static site with same-origin assets
-  Header always set Content-Security-Policy "default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https:; script-src 'self' https:; font-src 'self' data: https:; connect-src 'self' https:; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
+  # Conservative CSP for static site with same-origin assets. frame-src
+  # explicitly allows giscus.app so the optional giscus forum embed's
+  # comment iframe (src/forum/index.md, gated on site.giscus.enabled) can
+  # actually render - default-src alone does not cover frame-src.
+  Header always set Content-Security-Policy "default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https:; script-src 'self' https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https://giscus.app; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
 </IfModule>
 
 # Block access to hidden files except .well-known

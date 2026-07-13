@@ -15,12 +15,34 @@ module.exports = function () {
   const name = process.env.SITE_NAME || "Star Rangers";
   const title = process.env.SITE_TITLE || "Star Rangers";
 
+  // GISCUS_REPO/REPO_ID/CATEGORY/CATEGORY_ID are likewise exported by
+  // scripts/cpanel-deploy.sh from deploy.conf's own GISCUS_* keys (see that
+  // script and sample-deploy.conf), letting each clone opt into a
+  // giscus.app-powered discussion forum (/star-rangers/forum/, see
+  // src/forum/index.md) backed by its own GitHub Discussions repo. All four
+  // are required for giscus to actually load anything, so `enabled` is only
+  // true once every one of them is set - an unconfigured clone (the
+  // default: local dev, GitHub Pages, and any cPanel clone that hasn't
+  // opted in) gets no Forum nav link and no widget at all, rather than a
+  // broken embed.
+  const giscusRepo = (process.env.GISCUS_REPO || "").trim();
+  const giscusRepoId = (process.env.GISCUS_REPO_ID || "").trim();
+  const giscusCategory = (process.env.GISCUS_CATEGORY || "").trim();
+  const giscusCategoryId = (process.env.GISCUS_CATEGORY_ID || "").trim();
+
   return {
     name,
     title,
     description: "The stars call us forward with hope; to protect what is good and to see what is true. An interactive science-fantasy novel grounded in speculative cosmology — one canonical history across the Five Layers, multiple Concordants, and multiple points of view.",
     url: `https://${domain}/`,
     author: "Star Rangers",
-    language: "en"
+    language: "en",
+    giscus: {
+      enabled: Boolean(giscusRepo && giscusRepoId && giscusCategory && giscusCategoryId),
+      repo: giscusRepo,
+      repoId: giscusRepoId,
+      category: giscusCategory,
+      categoryId: giscusCategoryId
+    }
   };
 };

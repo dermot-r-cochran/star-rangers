@@ -152,6 +152,17 @@
 #     to a path that doesn't exist, so a typo'd path can't ship a build
 #     that's silently missing the content the clone owner expected.
 #
+# GISCUS_REPO, GISCUS_REPO_ID, GISCUS_CATEGORY, and GISCUS_CATEGORY_ID
+# together opt one clone into an optional giscus (https://giscus.app/)
+# discussion forum at /forum/, backed by GitHub Discussions on a repo of
+# that clone owner's choosing. All four are required together - giscus
+# needs every one of them to render a discussion - so a clone gets no
+# "Forum" nav link and no widget at all unless all four are set; leaving
+# them unset (the default, and always true for the GitHub Pages build) is
+# exactly today's no-forum behavior. See sample-deploy.conf and the
+# README's own GISCUS_* section for the full key reference, including the
+# ALT_<id>_GISCUS_* per-alt-domain variant.
+#
 # Independent of ADMIN_EMAIL, every deployment attempt also saves its full
 # log locally to deploy-logs/ (untracked/gitignored), one timestamped file
 # per attempt, pruned to the most recent 20 runs - so past deploys can be

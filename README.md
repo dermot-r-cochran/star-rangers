@@ -78,6 +78,10 @@ THREADS=tissadelle-arc
 ADMIN_EMAIL=admin@example.com
 CUSTOM_LORE_FILE=/home/sciencef/custom-lore/exclusive-entry.md
 CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
+GISCUS_REPO=your-name/your-repo
+GISCUS_REPO_ID=R_xxxxxxxxxxxx
+GISCUS_CATEGORY=General
+GISCUS_CATEGORY_ID=DIC_xxxxxxxxxxxxxxxxxxxxxx
 ```
 
 3. Push to that clone's branch as normal (or trigger cPanel's deploy) — `scripts/cpanel-deploy.sh` sources `deploy.conf` on every run, so no separate reload step is needed.
@@ -97,8 +101,12 @@ CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
 | `ADMIN_EMAIL` | `admin@<DOMAIN>` | Address notified after every deploy attempt, success or failure. |
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
+| `GISCUS_REPO` | *(unset — no forum)* | GitHub Discussions repo (`owner/name`) backing this clone's optional giscus forum. |
+| `GISCUS_REPO_ID` | *(unset — no forum)* | That repo's giscus repo ID, from [giscus.app](https://giscus.app/). |
+| `GISCUS_CATEGORY` | *(unset — no forum)* | Discussion category name (e.g. `General`). |
+| `GISCUS_CATEGORY_ID` | *(unset — no forum)* | That category's giscus category ID, from [giscus.app](https://giscus.app/). |
 
-If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, and no custom lore/CSS.
+If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, no custom lore/CSS, and no giscus forum.
 
 ### `ALT_DOMAINS` — deploying more than one domain from one clone
 
@@ -116,6 +124,10 @@ ALT_altsite1_SITE_NAME=Alt Site One
 ALT_altsite1_CHARACTERS=aldera,elvira
 ALT_altsite1_THREADS=tissadelle-arc
 ALT_altsite1_ADMIN_EMAIL=admin@altsite1.example
+ALT_altsite1_GISCUS_REPO=your-name/altsite1-repo
+ALT_altsite1_GISCUS_REPO_ID=R_xxxxxxxxxxxx
+ALT_altsite1_GISCUS_CATEGORY=General
+ALT_altsite1_GISCUS_CATEGORY_ID=DIC_xxxxxxxxxxxxxxxxxxxxxx
 
 ALT_altsite2_DIR=altsite2_html
 ALT_altsite2_DOMAIN=altsite2.example
@@ -138,6 +150,10 @@ ALT_altsite2_THEME=default
 | `ALT_<id>_ADMIN_EMAIL` | `admin@<ALT_<id>_DOMAIN>` | Same as `ADMIN_EMAIL` above, for this domain — added to the one deploy-log email's recipient list, alongside `ADMIN_EMAIL`, rather than sent separately. |
 | `ALT_<id>_CUSTOM_LORE_FILE` | *(unset — no extra page)* | Same as `CUSTOM_LORE_FILE` above, for this domain. |
 | `ALT_<id>_CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Same as `CUSTOM_CSS_FILE` above, for this domain. |
+| `ALT_<id>_GISCUS_REPO` | *(unset — no forum)* | Same as `GISCUS_REPO` above, for this domain. |
+| `ALT_<id>_GISCUS_REPO_ID` | *(unset — no forum)* | Same as `GISCUS_REPO_ID` above, for this domain. |
+| `ALT_<id>_GISCUS_CATEGORY` | *(unset — no forum)* | Same as `GISCUS_CATEGORY` above, for this domain. |
+| `ALT_<id>_GISCUS_CATEGORY_ID` | *(unset — no forum)* | Same as `GISCUS_CATEGORY_ID` above, for this domain. |
 
 `DIR` and `DOMAIN` are the only two required per-domain keys — every other `ALT_<id>_*` key is optional and defaults exactly the way its unprefixed counterpart does. `scripts/cpanel-deploy.sh` runs one complete, independent Eleventy build + rsync per domain (the primary domain, then each `ALT_DOMAINS` entry in turn), sharing only the one `npm ci`-installed `node_modules/` — each domain gets its own theme, content filter, and branding even though they all come from one checkout, the same as separate clones would.
 
@@ -193,6 +209,16 @@ Let one clone carry a small amount of domain-exclusive content without touching 
 - `CUSTOM_LORE_FILE` is a path to a clone-local, untracked markdown file with valid lore-entry front matter (`layout: lore-entry.njk`, `title`, `category`, etc. — see any file under `src/lore/` for the shape). If set, `scripts/cpanel-deploy.sh` copies it into `src/lore/custom/` before the build, so it becomes one extra lore page unique to this clone (builds at `/lore/custom/<filename-without-extension>/`), then removes it again once the build has read it — the clone's working tree never carries leftover untracked content between deploys, and nothing is ever committed to the shared repo.
 - `CUSTOM_CSS_FILE` is a path to a clone-local, untracked CSS file. If set, its contents are appended to the deployed `css/main.css` after the `THEME` stylesheet, so a clone can tweak a handful of things — a color, a font — without needing a whole new `theme-<name>.css` in the shared repo. Because it loads last, its rules can override the theme's.
 - Both fail the deploy loudly (not silently) if set to a path that doesn't exist, so a typo can't ship a build silently missing the content the clone owner expected.
+
+#### `GISCUS_REPO`, `GISCUS_REPO_ID`, `GISCUS_CATEGORY`, `GISCUS_CATEGORY_ID`
+
+Lets a clone opt into an optional discussion forum at `/forum/`, powered by [giscus](https://giscus.app/) and backed by GitHub Discussions on a repo of that clone owner's choosing (it doesn't need to be this repo). All four keys are required together — `src/_data/site.js` only enables the forum once every one is set, so an unconfigured clone (the default, and always true for local dev and the GitHub Pages build) gets no "Forum" nav link and no widget at all, rather than a broken embed.
+
+1. Enable Discussions on the GitHub repo you want to back the forum, and create (or pick) a category for it there.
+2. Get your repo/category IDs from [giscus.app](https://giscus.app/) — its setup form fills in `GISCUS_REPO_ID`/`GISCUS_CATEGORY_ID` once you point it at your repo and category.
+3. Set all four keys in `deploy.conf` (or `ALT_<id>_GISCUS_*` for an alt domain).
+
+Every domain's forum page maps to one fixed discussion (`data-mapping="specific"`, a constant `data-term`) rather than one discussion per page, so it reads as a single shared forum rather than per-page comments, and its `data-theme` follows this clone's own `THEME` (`light` for the `light` theme, `dark` otherwise) rather than the visitor's OS preference, matching the rest of the site's per-clone theming. `src/static/.htaccess`'s CSP allows `frame-src https://giscus.app` for the widget's comment iframe.
 
 ## Creative tooling
 

@@ -28,6 +28,7 @@
           <li><a href="/star-rangers/glossary/" {% if "/glossary/" in page.url %}aria-current="page"{% endif %}>Glossary</a></li>
           <li><a href="/star-rangers/codex/" {% if "/codex/" in page.url %}aria-current="page"{% endif %}>Codex</a></li>
           <li><a href="/star-rangers/about/" {% if "/about/" in page.url %}aria-current="page"{% endif %}>About</a></li>
+          {% if site.giscus.enabled %}<li><a href="/star-rangers/forum/" {% if "/forum/" in page.url %}aria-current="page"{% endif %}>Forum</a></li>{% endif %}
         </ul>
       </nav>
     </div>
