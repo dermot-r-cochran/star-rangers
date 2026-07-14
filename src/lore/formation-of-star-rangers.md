@@ -88,7 +88,7 @@ The 2723 charter gave that older vocation legal standing, a budget mechanism, an
 
 ## What the Star Rangers Inherited
 
-The Star Rangers began with the navigational data from *Constant Margin*, the partial recovery data from *Patience First*, Dr. Pitch's declassified fold-mechanics analysis, and eleven years of Eden anomaly logs—the same logs the MSC calibration board had blamed on sensor degradation.
+The Star Rangers began with the navigational data from *Constant Margin*, the partial recovery data from *Patience First*, Dr. Pitch's declassified fold-mechanics analysis, and eleven years of Eden anomaly logs—the same logs the MSC calibration board had blamed on sensor degradation. See [No Longer Supplementary (S00E03C02)](/star-rangers/seasons/s00/e03/s00e03c02/) for what it meant to the two people who built and flew that inheritance to see it cited rather than buried.
 
 They also inherited unanswered questions:
 
