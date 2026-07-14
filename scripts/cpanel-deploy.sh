@@ -31,6 +31,13 @@
 # full build+deploy pass per domain; main() calls it once for the primary
 # and once per ALT_DOMAINS entry, all reusing the one npm-installed
 # node_modules/ that main() sets up before the first call.
+#
+# DEPLOY_PRIMARY=false skips the public_html pass entirely, for a clone
+# whose cPanel account only exists to serve one or more addon domains -
+# public_html on that account may be reserved for something else, or
+# deliberately left parked, and this account's ALT_DOMAINS entries
+# shouldn't also duplicate the site there. See that key's own check in
+# main() below for what happens if it's false with no ALT_DOMAINS set.
 
 set -u
 
@@ -71,6 +78,7 @@ CUSTOM_LORE_FILE=""
 CUSTOM_CSS_FILE=""
 COMMENTS_ENABLED="true"
 ALT_DOMAINS=""
+DEPLOY_PRIMARY="true"
 # shellcheck disable=SC1091
 [ -f "$REPOSITORY_ROOT/deploy.conf" ] && . "$REPOSITORY_ROOT/deploy.conf"
 
@@ -137,10 +145,10 @@ done
 unset _alt_id _alt_email _alt_domain_for_default
 
 {
-  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s site_name=%s site_title=%s custom_lore=%s custom_css=%s comments_enabled=%s alt_domains=%s) ===\n' \
+  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s site_name=%s site_title=%s custom_lore=%s custom_css=%s comments_enabled=%s deploy_primary=%s alt_domains=%s) ===\n' \
     "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$CPANEL_USER" "$THEME" "$DOMAIN" \
     "${SITE_NAME:-default}" "${SITE_TITLE:-default}" \
-    "${CUSTOM_LORE_FILE:-none}" "${CUSTOM_CSS_FILE:-none}" "$COMMENTS_ENABLED" "${ALT_DOMAINS:-none}"
+    "${CUSTOM_LORE_FILE:-none}" "${CUSTOM_CSS_FILE:-none}" "$COMMENTS_ENABLED" "$DEPLOY_PRIMARY" "${ALT_DOMAINS:-none}"
 } | tee -a "$LOG_FILE"
 
 # ---------------------------------------------------------------------------
@@ -329,18 +337,37 @@ main() {
 
   local alt_count=0 id
   for id in $ALT_DOMAINS; do alt_count=$((alt_count + 1)); done
-  echo "=== Deploying primary + ${alt_count} alt domain(s): ${ALT_DOMAINS:-none} ==="
+
+  # DEPLOY_PRIMARY=false with no ALT_DOMAINS configured would deploy
+  # nothing at all - almost certainly a deploy.conf mistake (an addon-only
+  # account that hasn't listed its addon domains yet, or a stray
+  # DEPLOY_PRIMARY=false left over from copying another clone's config)
+  # rather than an intentional no-op run. This is a whole-run misconfig,
+  # not a single domain's problem, so it uses `exit 1` rather than
+  # `return 1` - same reasoning as the shared-setup checks above (no domain
+  # here has any chance of succeeding either).
+  if [ "$DEPLOY_PRIMARY" != "true" ] && [ "$alt_count" -eq 0 ]; then
+    echo "FAIL: DEPLOY_PRIMARY=false and ALT_DOMAINS is empty - this run would deploy nothing" >&2
+    exit 1
+  fi
+
+  echo "=== Deploying $( [ "$DEPLOY_PRIMARY" = "true" ] && echo "primary + " )${alt_count} alt domain(s): ${ALT_DOMAINS:-none} (deploy_primary=$DEPLOY_PRIMARY) ==="
 
   local overall_status=0
   local -a result_lines=()
 
-  if build_and_deploy "primary" "/home/$CPANEL_USER/public_html/" \
-       "$THEME" "$CHARACTERS" "$TOPICS" "$THREADS" "$SITE_NAME" "$SITE_TITLE" "$DOMAIN" \
-       "$CUSTOM_LORE_FILE" "$CUSTOM_CSS_FILE" "COMMENTS_ENABLED=$COMMENTS_ENABLED"; then
-    result_lines+=("OK   primary -> /home/$CPANEL_USER/public_html/ ($DOMAIN)")
+  if [ "$DEPLOY_PRIMARY" = "true" ]; then
+    if build_and_deploy "primary" "/home/$CPANEL_USER/public_html/" \
+         "$THEME" "$CHARACTERS" "$TOPICS" "$THREADS" "$SITE_NAME" "$SITE_TITLE" "$DOMAIN" \
+         "$CUSTOM_LORE_FILE" "$CUSTOM_CSS_FILE" "COMMENTS_ENABLED=$COMMENTS_ENABLED"; then
+      result_lines+=("OK   primary -> /home/$CPANEL_USER/public_html/ ($DOMAIN)")
+    else
+      overall_status=1
+      result_lines+=("FAIL primary -> /home/$CPANEL_USER/public_html/ ($DOMAIN)")
+    fi
   else
-    overall_status=1
-    result_lines+=("FAIL primary -> /home/$CPANEL_USER/public_html/ ($DOMAIN)")
+    echo "=== [primary] skipped (DEPLOY_PRIMARY=false) - public_html left untouched ==="
+    result_lines+=("SKIP primary -> /home/$CPANEL_USER/public_html/ (DEPLOY_PRIMARY=false)")
   fi
 
   for id in $ALT_DOMAINS; do

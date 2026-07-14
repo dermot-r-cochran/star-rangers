@@ -178,6 +178,7 @@ COMMENTS_ENABLED=true
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
 | `COMMENTS_ENABLED` | `true` | Set `false` to build this clone with the [giscus comment widget](#discussion-forum-giscus) turned off entirely (e.g. a staging/preview domain). |
+| `DEPLOY_PRIMARY` | `true` | Set `false` to skip deploying to `/home/<CPANEL_USER>/public_html/` entirely — for an account whose `public_html` is reserved for something else (or left parked) and should only serve one or more `ALT_DOMAINS` below. |
 
 If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, no custom lore/CSS, and comments on.
 
@@ -224,6 +225,8 @@ ALT_altsite2_THEME=default
 `DIR` and `DOMAIN` are the only two required per-domain keys — every other `ALT_<id>_*` key is optional and defaults exactly the way its unprefixed counterpart does. `scripts/cpanel-deploy.sh` runs one complete, independent Eleventy build + rsync per domain (the primary domain, then each `ALT_DOMAINS` entry in turn), sharing only the one `npm ci`-installed `node_modules/` — each domain gets its own theme, content filter, and branding even though they all come from one checkout, the same as separate clones would.
 
 A listed alt domain that's misconfigured — an invalid id, a missing `ALT_<id>_DIR`/`ALT_<id>_DOMAIN`, or an `ALT_<id>_DIR` folder that doesn't actually exist yet — fails loudly for that domain (a `FAIL` line in the log, and the run's overall exit status), the same philosophy `CUSTOM_LORE_FILE`/`CUSTOM_CSS_FILE` already use elsewhere in this file, rather than silently skipping it. That failure does **not** stop the primary domain, or any other `ALT_DOMAINS` entry in the same run, from still deploying — every domain gets its own independent attempt, and the run's final per-domain results are listed at the end of the deploy log.
+
+If this account's `public_html` shouldn't get a copy of the site at all — only the addon domain(s) listed in `ALT_DOMAINS` — set `DEPLOY_PRIMARY=false`. That combination (`DEPLOY_PRIMARY=false` with `ALT_DOMAINS` also unset/empty) fails the run loudly rather than quietly deploying nothing, since it would otherwise look like a successful deploy that did nothing at all.
 
 #### `THEME` and available themes
 
