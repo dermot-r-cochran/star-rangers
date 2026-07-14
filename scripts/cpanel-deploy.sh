@@ -77,6 +77,11 @@ SITE_TITLE=""
 CUSTOM_LORE_FILE=""
 CUSTOM_CSS_FILE=""
 COMMENTS_ENABLED="true"
+GISCUS_REPO=""
+GISCUS_REPO_ID=""
+GISCUS_CATEGORY_CHARACTERS_ID=""
+GISCUS_CATEGORY_LORE_ID=""
+GISCUS_CATEGORY_EPISODES_ID=""
 ALT_DOMAINS=""
 DEPLOY_PRIMARY="true"
 # shellcheck disable=SC1091
@@ -145,10 +150,10 @@ done
 unset _alt_id _alt_email _alt_domain_for_default
 
 {
-  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s site_name=%s site_title=%s custom_lore=%s custom_css=%s comments_enabled=%s deploy_primary=%s alt_domains=%s) ===\n' \
+  printf '=== cPanel deploy started: %s (user=%s theme=%s domain=%s site_name=%s site_title=%s custom_lore=%s custom_css=%s comments_enabled=%s giscus_repo=%s deploy_primary=%s alt_domains=%s) ===\n' \
     "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$CPANEL_USER" "$THEME" "$DOMAIN" \
     "${SITE_NAME:-default}" "${SITE_TITLE:-default}" \
-    "${CUSTOM_LORE_FILE:-none}" "${CUSTOM_CSS_FILE:-none}" "$COMMENTS_ENABLED" "$DEPLOY_PRIMARY" "${ALT_DOMAINS:-none}"
+    "${CUSTOM_LORE_FILE:-none}" "${CUSTOM_CSS_FILE:-none}" "$COMMENTS_ENABLED" "${GISCUS_REPO:-default}" "$DEPLOY_PRIMARY" "${ALT_DOMAINS:-none}"
 } | tee -a "$LOG_FILE"
 
 # ---------------------------------------------------------------------------
@@ -173,20 +178,27 @@ build_and_deploy() {
   shift 11
 
   # Anything left in "$@" past the 11 fixed positions above is a trailing
-  # NAME=value toggle (currently just COMMENTS_ENABLED) rather than its own
-  # numbered parameter - a plain on/off setting added later only needs a
-  # `local`/case arm here plus one more "NAME=$value" string at each call
+  # NAME=value toggle (COMMENTS_ENABLED, and now the 5 GISCUS_* keys) rather
+  # than its own numbered parameter - a plain setting added later only needs
+  # a `local`/case arm here plus one more "NAME=$value" string at each call
   # site below, not a new position threaded through this whole function
   # (and both callers) in order. Unrecognized names fail loudly rather than
   # being exported blindly, same spirit as the CUSTOM_LORE_FILE/
   # CUSTOM_CSS_FILE "missing file" checks further down.
   local COMMENTS_ENABLED="true"
+  local GISCUS_REPO="" GISCUS_REPO_ID="" GISCUS_CATEGORY_CHARACTERS_ID="" \
+        GISCUS_CATEGORY_LORE_ID="" GISCUS_CATEGORY_EPISODES_ID=""
   local b_kv b_kv_name b_kv_value
   for b_kv in "$@"; do
     b_kv_name="${b_kv%%=*}"
     b_kv_value="${b_kv#*=}"
     case "$b_kv_name" in
       COMMENTS_ENABLED) COMMENTS_ENABLED="$b_kv_value" ;;
+      GISCUS_REPO) GISCUS_REPO="$b_kv_value" ;;
+      GISCUS_REPO_ID) GISCUS_REPO_ID="$b_kv_value" ;;
+      GISCUS_CATEGORY_CHARACTERS_ID) GISCUS_CATEGORY_CHARACTERS_ID="$b_kv_value" ;;
+      GISCUS_CATEGORY_LORE_ID) GISCUS_CATEGORY_LORE_ID="$b_kv_value" ;;
+      GISCUS_CATEGORY_EPISODES_ID) GISCUS_CATEGORY_EPISODES_ID="$b_kv_value" ;;
       *) echo "FAIL [$label]: unknown build_and_deploy toggle '$b_kv_name'" >&2; return 1 ;;
     esac
   done
@@ -208,7 +220,8 @@ build_and_deploy() {
   # Eleventy just discovers them as ordinary files.
   local CHARACTERS="$b_characters" TOPICS="$b_topics" THREADS="$b_threads" THEME="$b_theme" \
         SITE_NAME="$b_site_name" SITE_TITLE="$b_site_title" SITE_DOMAIN="$b_site_domain"
-  export CHARACTERS TOPICS THREADS THEME SITE_NAME SITE_TITLE SITE_DOMAIN COMMENTS_ENABLED
+  export CHARACTERS TOPICS THREADS THEME SITE_NAME SITE_TITLE SITE_DOMAIN COMMENTS_ENABLED \
+    GISCUS_REPO GISCUS_REPO_ID GISCUS_CATEGORY_CHARACTERS_ID GISCUS_CATEGORY_LORE_ID GISCUS_CATEGORY_EPISODES_ID
 
   echo "=== [$label] build + deploy starting (dest=$dest theme=$b_theme domain=$b_site_domain comments_enabled=$COMMENTS_ENABLED) ==="
 
@@ -359,7 +372,11 @@ main() {
   if [ "$DEPLOY_PRIMARY" = "true" ]; then
     if build_and_deploy "primary" "/home/$CPANEL_USER/public_html/" \
          "$THEME" "$CHARACTERS" "$TOPICS" "$THREADS" "$SITE_NAME" "$SITE_TITLE" "$DOMAIN" \
-         "$CUSTOM_LORE_FILE" "$CUSTOM_CSS_FILE" "COMMENTS_ENABLED=$COMMENTS_ENABLED"; then
+         "$CUSTOM_LORE_FILE" "$CUSTOM_CSS_FILE" "COMMENTS_ENABLED=$COMMENTS_ENABLED" \
+         "GISCUS_REPO=$GISCUS_REPO" "GISCUS_REPO_ID=$GISCUS_REPO_ID" \
+         "GISCUS_CATEGORY_CHARACTERS_ID=$GISCUS_CATEGORY_CHARACTERS_ID" \
+         "GISCUS_CATEGORY_LORE_ID=$GISCUS_CATEGORY_LORE_ID" \
+         "GISCUS_CATEGORY_EPISODES_ID=$GISCUS_CATEGORY_EPISODES_ID"; then
       result_lines+=("OK   primary -> /home/$CPANEL_USER/public_html/ ($DOMAIN)")
     else
       overall_status=1
@@ -415,7 +432,8 @@ main() {
     fi
 
     local alt_theme alt_characters alt_topics alt_threads alt_site_name alt_site_title \
-          alt_custom_lore alt_custom_css alt_comments_enabled
+          alt_custom_lore alt_custom_css alt_comments_enabled \
+          alt_giscus_repo alt_giscus_repo_id alt_giscus_cat_characters alt_giscus_cat_lore alt_giscus_cat_episodes
     alt_theme=$(alt_get "$id" THEME); alt_theme="${alt_theme:-default}"
     alt_characters=$(alt_get "$id" CHARACTERS)
     alt_topics=$(alt_get "$id" TOPICS)
@@ -425,10 +443,19 @@ main() {
     alt_custom_lore=$(alt_get "$id" CUSTOM_LORE_FILE)
     alt_custom_css=$(alt_get "$id" CUSTOM_CSS_FILE)
     alt_comments_enabled=$(alt_get "$id" COMMENTS_ENABLED); alt_comments_enabled="${alt_comments_enabled:-true}"
+    alt_giscus_repo=$(alt_get "$id" GISCUS_REPO)
+    alt_giscus_repo_id=$(alt_get "$id" GISCUS_REPO_ID)
+    alt_giscus_cat_characters=$(alt_get "$id" GISCUS_CATEGORY_CHARACTERS_ID)
+    alt_giscus_cat_lore=$(alt_get "$id" GISCUS_CATEGORY_LORE_ID)
+    alt_giscus_cat_episodes=$(alt_get "$id" GISCUS_CATEGORY_EPISODES_ID)
 
     if build_and_deploy "$id" "$alt_dest" "$alt_theme" "$alt_characters" "$alt_topics" "$alt_threads" \
          "$alt_site_name" "$alt_site_title" "$alt_domain" "$alt_custom_lore" "$alt_custom_css" \
-         "COMMENTS_ENABLED=$alt_comments_enabled"; then
+         "COMMENTS_ENABLED=$alt_comments_enabled" \
+         "GISCUS_REPO=$alt_giscus_repo" "GISCUS_REPO_ID=$alt_giscus_repo_id" \
+         "GISCUS_CATEGORY_CHARACTERS_ID=$alt_giscus_cat_characters" \
+         "GISCUS_CATEGORY_LORE_ID=$alt_giscus_cat_lore" \
+         "GISCUS_CATEGORY_EPISODES_ID=$alt_giscus_cat_episodes"; then
       result_lines+=("OK   $id -> $alt_dest ($alt_domain)")
     else
       overall_status=1

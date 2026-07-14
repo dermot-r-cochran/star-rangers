@@ -7,8 +7,17 @@
 // if that file's categories ever change.
 //
 // Usage:
-//   GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js           # print only
-//   GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js --write   # print + patch giscus.js
+//   GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js                     # print only, default repo
+//   GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js --write             # print + patch giscus.js
+//   GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js --repo owner/name   # a DIFFERENT comments repo
+//
+// --repo targets a comments repo other than giscus.js's own default (e.g.
+// Star-Rangers/churchspace-site-comments for a domain with its own separate
+// forum - see src/_data/giscus.js's GISCUS_REPO comment and README.md's
+// "Discussion forum" section). It only ever prints - never --write, since
+// giscus.js's default is a single shared repo and a non-default one's IDs
+// belong in that clone's own deploy.conf (GISCUS_REPO_ID/GISCUS_CATEGORY_*_ID),
+// not committed here.
 //
 // Needs a GitHub personal access token in GITHUB_TOKEN (or GH_TOKEN) -
 // GitHub's GraphQL API requires authentication even for public repos. A
@@ -44,8 +53,16 @@ async function main() {
     return;
   }
 
-  const giscusConfig = require(GISCUS_DATA_PATH);
-  const [owner, name] = giscusConfig.repo.split("/");
+  const giscusConfig = require(GISCUS_DATA_PATH)();
+  const repoFlagIndex = process.argv.indexOf("--repo");
+  const repoOverride = repoFlagIndex !== -1 ? process.argv[repoFlagIndex + 1] : null;
+  if (repoFlagIndex !== -1 && !repoOverride) {
+    console.error("--repo needs a value, e.g. --repo Star-Rangers/churchspace-site-comments");
+    process.exitCode = 1;
+    return;
+  }
+  const targetRepo = repoOverride || giscusConfig.repo;
+  const [owner, name] = targetRepo.split("/");
 
   const response = await fetch("https://api.github.com/graphql", {
     method: "POST",
@@ -71,7 +88,7 @@ async function main() {
     return;
   }
 
-  console.log(`repo:   ${giscusConfig.repo}`);
+  console.log(`repo:   ${targetRepo}`);
   console.log(`repoId: ${repository.id}`);
   console.log("");
   console.log("Discussion categories found:");
@@ -87,7 +104,17 @@ async function main() {
     console.log(`Not created on GitHub yet (see README's "Discussion forum" setup steps): ${missing.join(", ")}`);
   }
 
-  if (process.argv.includes("--write")) {
+  if (repoOverride) {
+    console.log("");
+    console.log("--repo given: not patching src/_data/giscus.js (that file's default is a single");
+    console.log("shared repo). Paste these values into that clone's own deploy.conf instead:");
+    console.log(`  GISCUS_REPO=${targetRepo}`);
+    console.log(`  GISCUS_REPO_ID=${repository.id}`);
+    for (const [key, cat] of Object.entries(giscusConfig.categories)) {
+      const node = repository.discussionCategories.nodes.find((n) => n.name === cat.name);
+      console.log(`  GISCUS_CATEGORY_${key.toUpperCase()}_ID=${node ? node.id : "REPLACE_WITH_CATEGORY_ID"}`);
+    }
+  } else if (process.argv.includes("--write")) {
     writeIdsIntoGiscusData(repository);
   } else {
     console.log("");

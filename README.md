@@ -44,6 +44,15 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 
 **Fan Creations** is for links and discussion, not hosting: full fan fiction belongs on [AO3](https://archiveofourown.org/) or [Wattpad](https://www.wattpad.com/), not in this repo or its Discussions — see the About page's "Fan fiction" section for the pointer given to readers.
 
+### A second, separate forum for one domain
+
+`src/_data/giscus.js`'s repo/repoId/category IDs are all overridable per cPanel clone via `GISCUS_REPO`, `GISCUS_REPO_ID`, and `GISCUS_CATEGORY_CHARACTERS_ID`/`GISCUS_CATEGORY_LORE_ID`/`GISCUS_CATEGORY_EPISODES_ID` in that clone's `deploy.conf` (or `ALT_<id>_GISCUS_*` for an `ALT_DOMAINS` entry) — see the keys table below. This is for a domain whose readers shouldn't share a Discussions board with the main site's, not routine customization: every clone left unset shares the one default repo above, which is what keeps community discussion in one place. The church-space.site/.online deployment (see `THREADS` and the private "Church Space" thread below) is the current example — it uses its own **`Star-Rangers/churchspace-site-comments`** repo, set up exactly like the default one:
+
+1. Create the public `Star-Rangers/churchspace-site-comments` repo and enable Discussions on it, the same as step 1-2 above.
+2. Create the same 8 categories in it (Characters, Lore & Worldbuilding, Episode Discussion, Announcements, General, Q&A, Theories & Predictions, Fan Creations).
+3. Install the [giscus app](https://github.com/apps/giscus) on it.
+4. Fetch its IDs with `GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js --repo Star-Rangers/churchspace-site-comments` — `--repo` targets a non-default comments repo and only ever prints (never `--write`, since that patches `src/_data/giscus.js`'s own single default). Paste the four printed values into the church-space clone's `deploy.conf` as `GISCUS_REPO`/`GISCUS_REPO_ID`/`GISCUS_CATEGORY_CHARACTERS_ID`/`GISCUS_CATEGORY_LORE_ID`/`GISCUS_CATEGORY_EPISODES_ID` (or the matching `ALT_<id>_GISCUS_*` keys — see `sample-deploy.conf`'s church-space example block).
+
 ### One-time setup
 
 1. Create the public `Star-Rangers/sciencefiction-site-comments` repo (README-only is fine — it exists purely to host Discussions).
@@ -178,9 +187,14 @@ COMMENTS_ENABLED=true
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
 | `COMMENTS_ENABLED` | `true` | Set `false` to build this clone with the [giscus comment widget](#discussion-forum-giscus) turned off entirely (e.g. a staging/preview domain). |
+| `GISCUS_REPO` | *(unset — shared default repo)* | Point this clone's comment widget at a different giscus comments repo — see [A second, separate forum for one domain](#a-second-separate-forum-for-one-domain). |
+| `GISCUS_REPO_ID` | *(unset — shared default repo's ID)* | That repo's numeric ID, from `fetch-giscus-ids.js --repo` or the giscus.app wizard. Required if `GISCUS_REPO` is set. |
+| `GISCUS_CATEGORY_CHARACTERS_ID` | *(unset — shared default's ID)* | That repo's "Characters" category ID. Required if `GISCUS_REPO` is set. |
+| `GISCUS_CATEGORY_LORE_ID` | *(unset — shared default's ID)* | That repo's "Lore & Worldbuilding" category ID. Required if `GISCUS_REPO` is set. |
+| `GISCUS_CATEGORY_EPISODES_ID` | *(unset — shared default's ID)* | That repo's "Episode Discussion" category ID. Required if `GISCUS_REPO` is set. |
 | `DEPLOY_PRIMARY` | `true` | Set `false` to skip deploying to `/home/<CPANEL_USER>/public_html/` entirely — for an account whose `public_html` is reserved for something else (or left parked) and should only serve one or more `ALT_DOMAINS` below. |
 
-If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, no custom lore/CSS, and comments on.
+If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=sciencefiction.site`, `SITE_NAME`/`SITE_TITLE` both `Star Rangers`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@sciencefiction.site`, no custom lore/CSS, comments on, and the shared default giscus repo.
 
 ### `ALT_DOMAINS` — deploying more than one domain from one clone
 
@@ -221,6 +235,11 @@ ALT_altsite2_THEME=default
 | `ALT_<id>_CUSTOM_LORE_FILE` | *(unset — no extra page)* | Same as `CUSTOM_LORE_FILE` above, for this domain. |
 | `ALT_<id>_CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Same as `CUSTOM_CSS_FILE` above, for this domain. |
 | `ALT_<id>_COMMENTS_ENABLED` | `true` | Same as `COMMENTS_ENABLED` above, for this domain. |
+| `ALT_<id>_GISCUS_REPO` | *(unset — shared default repo)* | Same as `GISCUS_REPO` above, for this domain. |
+| `ALT_<id>_GISCUS_REPO_ID` | *(unset — shared default's ID)* | Same as `GISCUS_REPO_ID` above, for this domain. |
+| `ALT_<id>_GISCUS_CATEGORY_CHARACTERS_ID` | *(unset — shared default's ID)* | Same as `GISCUS_CATEGORY_CHARACTERS_ID` above, for this domain. |
+| `ALT_<id>_GISCUS_CATEGORY_LORE_ID` | *(unset — shared default's ID)* | Same as `GISCUS_CATEGORY_LORE_ID` above, for this domain. |
+| `ALT_<id>_GISCUS_CATEGORY_EPISODES_ID` | *(unset — shared default's ID)* | Same as `GISCUS_CATEGORY_EPISODES_ID` above, for this domain. |
 
 `DIR` and `DOMAIN` are the only two required per-domain keys — every other `ALT_<id>_*` key is optional and defaults exactly the way its unprefixed counterpart does. `scripts/cpanel-deploy.sh` runs one complete, independent Eleventy build + rsync per domain (the primary domain, then each `ALT_DOMAINS` entry in turn), sharing only the one `npm ci`-installed `node_modules/` — each domain gets its own theme, content filter, and branding even though they all come from one checkout, the same as separate clones would.
 
@@ -248,7 +267,8 @@ Comma-separated, case-insensitive lists that narrow the deployed site to content
 
 - `CHARACTERS` matches character page `id`s and chapter POV character `id`s.
 - `TOPICS` matches page `tags` (and `category`, where present), across every content type including character pages.
-- `THREADS` matches a storyline thread `id` from the registry in [`lib/storyline-threads.js`](./lib/storyline-threads.js) — currently `founding-era` and `tissadelle-arc` (see the site's own [Threads](src/threads/) section, which groups seasons the same way). A chapter is included if its `season` front matter falls under a listed thread's seasons; a thread `id` also participates in tag matching, so a lore/timeline/glossary/codex entry can opt in by carrying the thread `id` as a tag.
+- `THREADS` matches a storyline thread `id` from the registry in [`lib/storyline-threads.js`](./lib/storyline-threads.js) — currently `founding-era`, `tissadelle-arc`, and `church-space` (see the site's own [Threads](src/threads/) section, which groups seasons the same way). A chapter is included if its `season` front matter falls under a listed thread's seasons; a thread `id` also participates in tag matching, so a lore/timeline/glossary/codex entry can opt in by carrying the thread `id` as a tag.
+- A thread registered with `private: true` (currently just `church-space`) is the exception to "leaving all three unset deploys the full, unfiltered site" below: it stays hidden — its chapters, any character/lore/codex/glossary/timeline entry tagged with its id, its own `/threads/<id>/` landing page, and its entry in the `/threads/` listing — on **every** build, including the unfiltered one, unless that build's own `CHARACTERS`/`TOPICS`/`THREADS` explicitly names it. It's for content meant for one domain (or a few) rather than every production clone — `church-space` is written for church-space.site/.online and carries explicit Christian and evangelical themes not part of the main published canon, so it never appears on sciencefiction.site, GitHub Pages, or any other clone that doesn't ask for it by setting `THREADS=church-space` (see `sample-deploy.conf`'s church-space example block).
 - `CHARACTERS` also participates in tag matching, since tags conventionally embed character slugs (e.g. a timeline entry tagged `aldera`) — so a page is included if it matches `CHARACTERS`, `TOPICS`, or `THREADS` by any of the above.
 - `CHARACTERS` also pulls in any lore, timeline, or glossary entry that an included character's own bio links to directly, even if nothing tags it for that character — a character's bio is already the site's record of which background matters for understanding them, so a `CHARACTERS`-filtered deploy carries that background along automatically instead of requiring every relevant entry to be tagged by hand.
 - Excluded pages still build at their normal URL as a minimal "not included in this edition" placeholder, instead of being omitted, so links to them never 404.

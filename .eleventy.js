@@ -6,6 +6,8 @@ const {
   isCharacterIncluded,
   isChapterIncluded,
   isTopicPageIncluded,
+  isThreadIncluded,
+  isPrivatelyExcluded,
   getRelatedContentUrls
 } = require("./lib/content-filter");
 const { threadForSeason } = require("./lib/storyline-threads");
@@ -16,15 +18,24 @@ const { threadForSeason } = require("./lib/storyline-threads");
 // that second path exists: a character page is already the record of what
 // background matters for understanding them.
 function isRelatedTopicPageIncluded(data, filter, url) {
+  // The relatedUrls fallback below exists to pull in background an INCLUDED
+  // character's own bio links to (see getRelatedContentUrls); it must not
+  // become a backdoor around a private thread's own veto, so that's checked
+  // first and short-circuits the whole thing regardless of relatedUrls.
+  if (isPrivatelyExcluded(data, filter)) return false;
   return isTopicPageIncluded(data, filter) || filter.relatedUrls.has(url);
 }
 
 // Drives the eleventyComputed override below: decides whether a
 // standalone content-leaf page renders its real content or a placeholder.
-// Anything outside the 6 filterable content types (nav/index/structural
-// pages) always passes through.
+// Anything outside the 6 filterable content types plus a private thread's
+// own landing page (nav/index/structural pages) always passes through.
+// Deliberately does NOT short-circuit on `!filter.active` the way it used
+// to - a private thread (lib/storyline-threads.js's `private: true`) must
+// stay hidden on the unfiltered full-site build too, and each isXIncluded
+// call below already applies that veto before its own `!filter.active`
+// check, so delegating unconditionally is what makes that work.
 function isContentIncluded(data, filter) {
-  if (!filter.active) return true;
   const layout = data.layout;
   if (layout === "character.njk") return isCharacterIncluded(data, filter);
   if (layout === "chapter.njk") return isChapterIncluded(data, filter);
@@ -39,6 +50,11 @@ function isContentIncluded(data, filter) {
   if (inputPath && inputPath.includes("/timeline/") && !inputPath.endsWith("/index.md")) {
     return isRelatedTopicPageIncluded(data, filter, url);
   }
+  // A thread's own standalone landing page (src/threads/<id>/index.md)
+  // opts into this system via a `threadId` front-matter field, since it's
+  // otherwise just a hand-written base.njk page outside the 6 layout types
+  // above - see src/threads/founding-era/index.md for the shape without it.
+  if (data.threadId) return isThreadIncluded(data.threadId, filter);
   return true;
 }
 
@@ -61,7 +77,13 @@ const OG_IMAGE_DIRS = {
 // pass a null image straight through to the absoluteUrl filter.
 const DEFAULT_OG_IMAGE = "/images/hero/home-launch.jpg";
 
-function computeOgImage(data) {
+// `included` is threaded through explicitly (rather than relying on
+// eleventyComputed's own dependency resolution already having swapped
+// data.layout to "excluded.njk" by the time this runs) so an excluded
+// page's real portrait/illustration can never leak into its Open Graph/
+// Twitter Card preview, regardless of computed-field evaluation order.
+function computeOgImage(data, included) {
+  if (!included) return DEFAULT_OG_IMAGE;
   const dir = OG_IMAGE_DIRS[data.layout];
   return dir && data.image ? `/images/${dir}/${data.image}` : DEFAULT_OG_IMAGE;
 }
@@ -272,7 +294,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addGlobalData("eleventyComputed", {
     layout: (data) => (isContentIncluded(data, contentFilter) ? data.layout : "excluded.njk"),
     title: (data) => (isContentIncluded(data, contentFilter) ? data.title : "Not included in this edition"),
-    ogImage: (data) => computeOgImage(data),
+    // Falls back to `undefined` (not a placeholder string) so base.njk's
+    // `{{ description | default(site.description) }}` renders the same
+    // generic site description an ordinary description-less page already
+    // gets, instead of announcing "there's hidden content here" via a
+    // second placeholder string in the page's own meta tags.
+    description: (data) => (isContentIncluded(data, contentFilter) ? data.description : undefined),
+    ogImage: (data) => computeOgImage(data, isContentIncluded(data, contentFilter)),
     ogType: (data) => computeOgType(data)
   });
 
