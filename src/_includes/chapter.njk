@@ -102,6 +102,8 @@ commentsCategory: episodes
   </aside>
   {% endif %}
 
+  {% set previousChapter = collections.chapters | previousChapterIn(id) %}
+  {% set nextChapter = collections.chapters | nextChapterIn(id) %}
   <nav class="chapter-pagination" aria-label="Chapter navigation" data-pagefind-ignore>
     {% if previousChapter %}
     <a class="chapter-pagination__prev" href="/star-rangers{{ previousChapter.url }}">

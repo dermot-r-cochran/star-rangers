@@ -18,7 +18,8 @@ Fully described (`src/seasons/s00/index.md`), zero chapters written — the seas
 - [x] E01 (2 ch) — Galahad/Syra/Rook-7 arrive, discrepancy investigation begins
 - [x] E02 (5 ch) — causeway thread, boundary anomaly, teleport policy formalized
 - [x] E03C01 — "The Order of Evacuation" (Pelagos Minor) — published, but a tangent, not the convergence below
-- [ ] **The season's own established endpoint**: Threshold Station survey thread (Galahad/Syra/Rook-7) converges with the Elvira/Aldera causeway thread — Galahad's precise vocabulary lets Elvira ask the question Aldera already has the answer to, breaking the Court-Fae feeding loop. Named explicitly in `story-bible/story-bible-summary.md`'s "Season 1 endpoint (per site synopsis)" — not yet dramatized anywhere.
+- [x] E03C02 — "The Right Question": Galahad discloses the full survey archive (now including the confirmed station-drift/grove-residue coupling from E02C03), Elvira directly asks Aldera the question no one had asked in three years, Aldera answers, the feeding loop breaks. The season's established endpoint per `story-bible/story-bible-summary.md`'s "Season 1 endpoint (per site synopsis)."
+- [ ] The dryadic grove's Etheric root-anchor intervention itself (planned at the end of E02C02 — "Interrupt the coupling... the root" — and explicitly deferred, not resolved, in S01E03C02's closing log) is a separate structural matter, still unwritten
 
 ## Season 2 — deliberately open
 
