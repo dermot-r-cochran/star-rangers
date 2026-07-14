@@ -32,7 +32,7 @@ Eleven weeks into testimony, General Maren Solveig Krast answered a direct quest
 - General Krast's quote was taught inside MSC culture as defensible institutional memory; critics maintained the Coherence Wars were caused by democratic systems captured and destabilised by interests that could not survive real accountability, not by democracy in the abstract.
 - The hearing's findings, and Krast's own quote, fed directly into the Consolidation Accords (2722 UCSD) and the Star Rangers Charter (2723 UCSD).
 
-See: [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [Military Space Command](/star-rangers/lore/military-space-command/). Dramatized in [The Volunteered Word (S00E02C01)](/star-rangers/seasons/s00/e02/s00e02c01/).
+See: [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [Military Space Command](/star-rangers/lore/military-space-command/). Dramatized in [The Volunteered Word (S00E02C02)](/star-rangers/seasons/s00/e02/s00e02c02/).
 
 </div>
 <footer class="lore-entry__footer">
