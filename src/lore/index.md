@@ -2,6 +2,8 @@
 layout: base.njk
 title: "Lore"
 description: "World-building articles about the Five Layers, the Cosmic Cascade, factions, and the rules of the Star Rangers universe."
+comments: true
+commentsCategory: lore
 ---
 <img class="page-hero-image" src="/star-rangers/images/hero/lore-cosmic.jpg" alt="Multicoloured cosmic art of outer space" />
 <h1 class="page-title">Lore</h1>
