@@ -56,6 +56,8 @@ Shepherd was born and raised on [Tír na nÓg](/star-rangers/lore/planets/tir-na
 
 By Season 5, the Union's standing information-sharing agreement with the Survey Corps gives her official reasons to return that her rank alone would not. What she notices on her own family's hillside once the uniform is off is a separate matter, and one the charter never anticipated needing to forbid.
 
+Ten days later, back on duty, a fleet-wide anomaly bulletin puts her family's hillside back in front of her a second time — as an unattributed coordinate string, not a name. What she does with that is [A Fraction of a Second (S05E02C02)](/star-rangers/seasons/s05/e02/s05e02c02/): not the whole truth, and not, she tells herself, a lie either.
+
 ## Before the Charter
 
 Roughly a year before her cadet intake, Shepherd sang and wrote for [Slipwave](/star-rangers/glossary/slipwave/), a small band on Eden Space Habitat's civilian arts circuit. The band never recorded a studio album and never played anywhere Shepherd would later call a stage. Two dock-circuit recordings survived and outlasted the band itself: the [Star Rangers Anthem](/star-rangers/codex/star-rangers-anthem/), which cadet cohorts adopted at musters unofficially, and [Ballad of the Stars](/star-rangers/codex/ballad-of-the-stars/), a slower companion recording that circulates quietly rather than being sung — neither confirmed nor denied as hers in public.

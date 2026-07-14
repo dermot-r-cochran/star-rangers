@@ -39,8 +39,9 @@ Fully described (`src/seasons/s00/index.md`), zero chapters written — the seas
 ## Season 5 — Line Captain
 
 - [x] E02C01 — "What the Hill Keeps" (Tír na nÓg, personal leave)
+- [x] E02C02 — "A Fraction of a Second": back on duty, a fleet-wide anomaly bulletin (Sen's cross-referencing) matches her family's hillside against the Marsh Causeway grove's dryadic-anchor marker, as an unattributed coordinate. She flags it for survey without disclosing the personal connection; Wender notices and lets it go. Advances both threads below without resolving either — deliberately, per the S6-7 treatment reserving that payoff for the Last Stand.
 - [ ] E00/E01 — skipped entirely; only the E02 snapshot exists
-- [ ] The two threads Season 5 explicitly "plants" per `story-bible/tissadelle-arc-s6-7.md`: (1) whether the boundary she finds at her mother's hollow is the same phenomenon as Threshold's eleven-year drift, and (2) what she chose *not* to file about it (S05E02C01) — both open questions with no follow-through chapter yet
+- [ ] The two threads Season 5 explicitly "plants" per `story-bible/tissadelle-arc-s6-7.md`: (1) whether the boundary she finds at her mother's hollow is the same phenomenon as Threshold's eleven-year drift, and (2) what she chose *not* to file about it (S05E02C01) — now connected in Tissadelle's own mind (S05E02C02) but still not resolved; that's reserved for the Last Stand per the treatment
 
 ## Season 6–7 — "The Last Stand" / "What Closes the File" / "Naming the Line"
 

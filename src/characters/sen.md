@@ -36,3 +36,5 @@ Sen has never lost an argument about whether a closed incident report should sta
 ## In the Record
 
 Sen's unsigned annotations appear across several Survey Corps and Concordant Governance Archive documents, including the [Dock Seven incident report](/star-rangers/codex/incident-report-001/), its [Day 49 maintenance follow-up](/star-rangers/codex/maintenance-log-day-49-dock-seven/), and the [Exploration Budget doctrine](/star-rangers/codex/exploration-budget-doctrine/) and [Redline Protocol](/star-rangers/codex/redline-protocol/) records. The recovered exchange in [Hall of Quiet Instruments](/star-rangers/codex/hall-of-quiet-instruments-dialogue/) — credited to "Archivist Sen" from a provisional voiceprint match — is, on the balance of internal evidence, the same desk.
+
+Sen's cross-referencing habit extends past incident reports: the Season 5 fleet-wide anomaly bulletin that puts a [dryadic-type Etheric anchor marker](/star-rangers/lore/dryadic-trees/) from three separately-filed sites next to each other, unremarked beyond the adjacency itself, is Sen's work too — see [A Fraction of a Second (S05E02C02)](/star-rangers/seasons/s05/e02/s05e02c02/).

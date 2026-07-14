@@ -70,6 +70,8 @@ Several boundary-proximate sites in the survey record contain dryadic trees. The
 
 That grove is believed to be connected to the ongoing Class II activity documented in Survey Corps incident reports from the site.
 
+Survey Archive cross-referencing (see [A Fraction of a Second (S05E02C02)](/star-rangers/seasons/s05/e02/s05e02c02/)) has since matched the causeway grove's leaf phase-lag marker against two older Union land-survey entries, filed at the time under general flora anomaly and never flagged for follow-up — one of them now escalated to formal survey priority. Neither the extent nor the significance of the pattern across sites has been established; a marker match is not, on its own, evidence of a connected cause.
+
 See: [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/)  
 See: [Predatory Entities: Court-Fae, Gilded Saints, and Cute Predators](/star-rangers/lore/predatory-entities/)  
 See: [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/)
