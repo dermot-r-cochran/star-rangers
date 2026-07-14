@@ -20,11 +20,11 @@ Three pressures converged in the decade after the *Constant Margin* expedition.
 
 **Second:** The MSC's response to Eden left a paper trail visible to anyone patient enough to file for it: fourteen months to reach a preliminary report on a first-contact-class discovery, six years to continue the review, and a stack of compliance additions that addressed liability far more effectively than operations.
 
-**Third:** The disappearance of *Patience First* created pressure the MSC's advisory-council architecture could not absorb. The crew had families. The families had lawyers. The lawyers had the committee record.
+**Third:** The disappearance of *Patience First* created pressure the MSC's advisory-council architecture could not absorb. The crew had families. The families had lawyers. The lawyers had the committee record. See [Unauthorised, Therefore (S00E02C01)](/star-rangers/seasons/s00/e02/s00e02c01/) for what that pressure looked like from one family's side of the correspondence.
 
 ## The Outer Stations Consolidation Hearing
 
-The decisive public event was the Outer Stations Consolidation Hearing of 2719 UCSD, called to assess the MSC's operational adequacy across deep-range and boundary-proximate installations. See [The Volunteered Word (S00E02C01)](/star-rangers/seasons/s00/e02/s00e02c01/) for the session itself.
+The decisive public event was the Outer Stations Consolidation Hearing of 2719 UCSD, called to assess the MSC's operational adequacy across deep-range and boundary-proximate installations. See [The Volunteered Word (S00E02C02)](/star-rangers/seasons/s00/e02/s00e02c02/) for the session itself.
 
 There General Maren Solveig Krast delivered the line that outlived her defense:
 

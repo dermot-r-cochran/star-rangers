@@ -30,7 +30,7 @@ The MSC was benevolent in intent and technocratic by design. Its senior officers
 >
 > — General Maren Solveig Krast, address to the Outer Stations Consolidation Hearing, 2719 UCSD
 
-Inside MSC culture, this quote was taught as defensible institutional memory. See [The Volunteered Word (S00E02C01)](/star-rangers/seasons/s00/e02/s00e02c01/) for the address itself, and the decision that turned one honest sentence into the quote everyone now remembers.
+Inside MSC culture, this quote was taught as defensible institutional memory. See [The Volunteered Word (S00E02C02)](/star-rangers/seasons/s00/e02/s00e02c02/) for the address itself, and the decision that turned one honest sentence into the quote everyone now remembers.
 
 Its critics named the flaw at the time. The Coherence Wars were not caused by democracy in the abstract. They were caused by democratic systems captured, underfunded, and deliberately destabilized by interests that could not survive real accountability.
 

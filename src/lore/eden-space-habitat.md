@@ -49,7 +49,7 @@ In 2714 UCSD, the six-person *Patience First* followed. It did not return. Its f
 
 The MSC responded to *Constant Margin* by classifying the data, assigning three more monitoring officers, and expanding Eden's compliance framework by twelve requirements.
 
-It responded to the disappearance of *Patience First* by opening an inquiry, assigning that inquiry to a committee, and noting that the expedition had been unauthorized and therefore beyond MSC liability.
+It responded to the disappearance of *Patience First* by opening an inquiry, assigning that inquiry to a committee, and noting that the expedition had been unauthorized and therefore beyond MSC liability. See [Unauthorised, Therefore (S00E02C01)](/star-rangers/seasons/s00/e02/s00e02c01/) for what that classification meant to one of the six families it closed the door on.
 
 What the MSC could not do quickly—because its structure was not built to do it—was recognize that an inhabited habitat beside a natural extrasolar fold route demanded a different order of institution.
 
