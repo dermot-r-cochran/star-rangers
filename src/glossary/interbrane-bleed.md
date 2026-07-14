@@ -9,6 +9,7 @@ related:
   - "Boundary Zone"
   - "Post-11 Dimensional Manifold"
   - "Concordant"
+  - "Brane Shadow"
 tags: [interbrane-bleed, brane-resonance, etheric, post-11-manifold, boundary-zone]
 ---
 
@@ -23,4 +24,6 @@ Each Concordant sits on its own bounded brane within that manifold. At most sepa
 
 The renaming is not cosmetic. "Etheric effects" described a symptom. "Interbrane Bleed" names the coupling that produces it — and gives Survey Corps analysts something a chronometer discrepancy can actually be diagnosed against.
 
-See also: [Etheric](/star-rangers/glossary/etheric/), [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/), [Post-11 Dimensional Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/).
+The term specifically names the Etheric-channel signature. The same brane-proximity event has a Physical-channel counterpart too — see [Brane Shadow](/star-rangers/glossary/brane-shadow/) for what it looks like when that channel carries a coherent mass rather than diffuse strain.
+
+See also: [Etheric](/star-rangers/glossary/etheric/), [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/), [Post-11 Dimensional Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/), [Brane Shadow](/star-rangers/glossary/brane-shadow/).
