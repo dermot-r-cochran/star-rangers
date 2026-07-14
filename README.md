@@ -86,6 +86,15 @@ Grouped by storyline thread — see [Site sections](#site-sections) and `lib/sto
 
 Current version: **1.5.0**. See [`CHANGELOG.md`](./CHANGELOG.md) for the full version history — lore/canon changes, deployment features, and fixes are all tracked there under [Semantic Versioning](https://semver.org/).
 
+## License
+
+This repository carries two separate licences, so the engine can be freely forked without implying any rights over the story itself:
+
+- **Code** (`.eleventy.js`, `lib/`, `src/_includes/`, `src/css/`, `src/js/`, `scripts/`, and everything else not listed below): **MIT** — see [`LICENSE`](./LICENSE). Fork it, run it for your own site, adapt it freely.
+- **Story content** (`src/seasons/`, `src/threads/`, `src/characters/`, `src/timeline/`, `src/lore/`, `src/glossary/`, `src/codex/`, `story-bible/`, `prompts/`): **CC BY-NC-ND 4.0** — see [`CONTENT-LICENSE.md`](./CONTENT-LICENSE.md). Share it non-commercially with attribution, but don't redistribute adapted/derivative versions of *Star Rangers* itself.
+
+If you fork this repo to run your own interactive fiction site, replace everything under the content paths above with your own writing before publishing.
+
 ## Local development
 
 ```bash

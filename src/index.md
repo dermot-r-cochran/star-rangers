@@ -68,6 +68,11 @@ description: "Star Rangers — an interactive science-fantasy novel grounded in 
     appropriate credit to Dermot R. Cochran, indicate if any changes were made, and do not
     distribute adapted or derivative versions of the work.
   </p>
+  <p>
+    The Eleventy site engine and deployment tooling behind this site are licensed separately,
+    under the permissive <strong>MIT</strong> licence — see the
+    <a href="https://github.com/dermot-r-cochran/star-rangers">GitHub repository</a> for details.
+  </p>
   <details>
     <summary>Full licence text (CC BY-NC-ND 4.0)</summary>
     <h3>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License</h3>
