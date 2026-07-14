@@ -333,9 +333,17 @@ a:focus {
 .chapter-detail dt {
   color: var(--color-text-muted);
 }
+
 .chapter-detail dd {
   color: var(--color-text);
   font-style: italic;
+}
+
+.journal-entry__date {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin-top: var(--spacing-sm);
 }
 
 .chapter-tags {

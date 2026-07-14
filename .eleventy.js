@@ -36,6 +36,7 @@ function classifyContentPath(inputPath) {
   if (inputPath.includes("/glossary/")) return "glossary";
   if (inputPath.includes("/codex/")) return "codex";
   if (inputPath.includes("/timeline/")) return "timeline";
+  if (inputPath.includes("/journal/")) return "journal";
   return null;
 }
 
@@ -117,7 +118,7 @@ function computeOgImage(data, included) {
 // every listing/index page). Timeline entries stay "website" here, matching
 // the pre-existing behavior - they use layout: base.njk directly, not a
 // dedicated article layout.
-const ARTICLE_KINDS = new Set(["character", "chapter", "lore", "codex", "glossary"]);
+const ARTICLE_KINDS = new Set(["character", "chapter", "lore", "codex", "glossary", "journal"]);
 
 function computeOgType(data) {
   return ARTICLE_KINDS.has(classifyContentPath(data.page && data.page.inputPath)) ? "article" : "website";
@@ -256,6 +257,18 @@ module.exports = function(eleventyConfig) {
     return index >= 0 && index < chapters.length - 1 ? chapters[index + 1] : null;
   });
 
+  // Same neighbor-lookup pattern as previousChapterIn/nextChapterIn, for
+  // journal-entry.njk's own prev/next links - matched by url rather than a
+  // dedicated id field, since journal entries don't have (or need) one.
+  eleventyConfig.addFilter("previousJournalEntryIn", (entries, url) => {
+    const index = (entries || []).findIndex((e) => e.url === url);
+    return index > 0 ? entries[index - 1] : null;
+  });
+  eleventyConfig.addFilter("nextJournalEntryIn", (entries, url) => {
+    const index = (entries || []).findIndex((e) => e.url === url);
+    return index >= 0 && index < entries.length - 1 ? entries[index + 1] : null;
+  });
+
   eleventyConfig.addCollection("characters", (collectionApi) =>
     collectionApi.getAll()
       .filter((item) => item.data.layout === "character.njk")
@@ -294,6 +307,20 @@ module.exports = function(eleventyConfig) {
       .filter((item) => item.data.layout === "chapter.njk")
       .filter((item) => isChapterIncluded(item.data, contentFilter))
       .sort((a, b) => b.date - a.date)
+  );
+
+  // Out-of-character author's notes (src/journal/), not subject to
+  // CHARACTERS/TOPICS/THREADS narrowing - see classifyContentPath's
+  // "journal" case falling through to isContentIncluded's unconditional
+  // `return true`, the same way the About page always shows regardless of
+  // a narrowed deploy. Sorted oldest-first so journal-entry.njk's
+  // previousChapterIn/nextChapterIn-style neighbor lookup reads in
+  // publication order; journal/index.md reverses it for newest-first display.
+  eleventyConfig.addCollection("journalEntries", (collectionApi) =>
+    collectionApi
+      .getAll()
+      .filter((item) => item.data.layout === "journal-entry.njk")
+      .sort((a, b) => a.date - b.date)
   );
 
   eleventyConfig.addCollection("glossary", (collectionApi) =>

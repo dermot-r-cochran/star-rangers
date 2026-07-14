@@ -83,6 +83,14 @@ async function scaffoldSimple(rl, typeKey) {
     fields.push(["id", toYamlString(id)]);
   }
 
+  if (typeKey === "journal") {
+    // Real-world publish date, same convention as a chapter's own `date` -
+    // today is exactly right for an entry being scaffolded right now, and
+    // it's what journalEntries is sorted and listed by (see .eleventy.js).
+    const today = new Date().toISOString().slice(0, 10);
+    fields.push(["date", toYamlString(today)]);
+  }
+
   for (const field of type.optionalFields) {
     if (typeKey === "character" && field === "id") continue; // already asked above, required
     const isListField = ["tags", "aliases", "related"].includes(field);
