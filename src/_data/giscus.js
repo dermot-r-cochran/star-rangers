@@ -21,11 +21,11 @@
 module.exports = function () {
   return {
     repo: process.env.GISCUS_REPO || "Star-Rangers/sciencefiction-site-comments",
-    repoId: process.env.GISCUS_REPO_ID || "REPLACE_WITH_REPO_ID",
+    repoId: process.env.GISCUS_REPO_ID || "R_kgDOTXRNGg",
     categories: {
-      characters: { name: "Characters", id: process.env.GISCUS_CATEGORY_CHARACTERS_ID || "REPLACE_WITH_CATEGORY_ID" },
+      characters: { name: "Characters", id: process.env.GISCUS_CATEGORY_CHARACTERS_ID || "DIC_kwDOTXRNGs4DBHee" },
       lore: { name: "Lore & Worldbuilding", id: process.env.GISCUS_CATEGORY_LORE_ID || "REPLACE_WITH_CATEGORY_ID" },
-      episodes: { name: "Episode Discussion", id: process.env.GISCUS_CATEGORY_EPISODES_ID || "REPLACE_WITH_CATEGORY_ID" },
+      episodes: { name: "Episodes Discussion", id: process.env.GISCUS_CATEGORY_EPISODES_ID || "DIC_kwDOTXRNGs4DBIw2" },
       journal: { name: "Journal", id: process.env.GISCUS_CATEGORY_JOURNAL_ID || "REPLACE_WITH_CATEGORY_ID" }
     }
   };
