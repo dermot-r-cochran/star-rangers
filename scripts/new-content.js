@@ -114,7 +114,13 @@ async function scaffoldChapter(rl) {
     // Real-world publish date for the Atom feed (src/feed.njk) - distinct
     // from the in-universe "timestamp" prompted for below. Today is
     // exactly right for a chapter being scaffolded right now.
-    ["date", toYamlString(today)]
+    ["date", toYamlString(today)],
+    // Permanent giscus discussion identity, separate from `id` above - see
+    // its doc in lib/content-schema.js. A brand-new chapter has no prior
+    // identity to preserve, so a fresh title slug is exactly right; if this
+    // chapter is ever renumbered later, carry this same value forward by
+    // hand rather than regenerating it.
+    ["comment_id", toYamlString(slugify(title))]
   ];
 
   for (const field of ["timestamp", "location", "description"]) {

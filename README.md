@@ -24,13 +24,15 @@ The story moves across stations, causeways, archives, and boundary zones in the 
 
 Every character, lore, glossary, codex, episode, and chapter/scene page carries a comment thread powered by [giscus](https://giscus.app), which stores each thread as a GitHub Discussion rather than a third-party comment service. Comments live in a separate, dedicated **`Star-Rangers/sciencefiction-site-comments`** repo — not this one — so reader/fan discussion never mixes with this repo's own dev-facing Discussions, and the comment history stays put across any future rename, fork, or transfer of this source repo. That repo must be public (giscus reads it unauthenticated) and needs no content of its own beyond Discussions being enabled. Config lives in `src/_data/giscus.js`; the embed itself is in `src/_includes/base.njk`, gated on the `comments`/`commentsCategory` front matter that `character.njk`, `lore-entry.njk`, `codex.njk`, `glossary-entry.njk`, `chapter.njk`, and `scene-pov.njk` each set (listing/index pages don't opt in, so they stay comment-free).
 
-Three of the comments repo's Discussion categories are mapped to page types (giscus creates one discussion per page path, lazily, the first time someone comments):
+Three of the comments repo's Discussion categories are mapped to page types (giscus creates one discussion per page, lazily, the first time someone comments):
 
 | Category | Format | Pages |
 | --- | --- | --- |
 | **Characters** | Announcement (locked) | `/characters/*` |
 | **Lore & Worldbuilding** | Announcement (locked) | `/lore/*`, `/glossary/*`, `/codex/*` |
 | **Episode Discussion** | Announcement (locked) | `/seasons/**` (chapters and per-POV scenes) |
+
+Characters/lore/glossary/codex pages map by `pathname` — their URL never changes once created, so pathname is a safe permanent identity. Chapters and per-POV scene pages don't have that guarantee: episodes get renumbered in place to keep story chronology in order (see `CHANGELOG.md`'s "renumbered" entries), which reassigns a URL like `/seasons/s00/e02/s00e02c01/` to different content entirely. Mapping those by pathname would silently attach an existing discussion to whatever content now lives at that URL, losing the original page's comment context. Chapters instead map by `data-mapping="specific"` on a permanent `comment_id` front-matter field (required — see `lib/content-schema.js`), independent of the `id`/URL derived from season/episode/chapter; scene pages derive their own term from their parent chapter's `comment_id` plus scene/character (`src/scene-pov.njk`'s `eleventyComputed`). `comment_id` is set once (`npm run new -- chapter` generates it from the title) and must never be regenerated — if a chapter is renumbered, its `comment_id` moves with it so its discussion thread stays attached to the same content, while whatever content takes over the vacated slot gets its own fresh `comment_id`. `scripts/validate-content.js` fails the build if two chapters ever collide on the same `comment_id`.
 
 Locking these to "Announcement" format means only the giscus GitHub App can start new discussions in them, so they only ever fill up with real page threads instead of off-topic posts. Five more categories exist for open community discussion, unrelated to any specific page:
 

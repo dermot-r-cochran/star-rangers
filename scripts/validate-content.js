@@ -84,6 +84,11 @@ function checkChapterConsistency(inputPath, data) {
 function main() {
   const files = findMarkdownFiles(SRC_DIR);
   const fileProblems = [];
+  // comment_id -> relativePath of the first chapter seen with it - a
+  // collision means two chapters would share one giscus discussion thread,
+  // silently mixing their comments (see comment_id's own doc in
+  // lib/content-schema.js for why it must stay unique and permanent).
+  const commentIdOwners = new Map();
 
   for (const filePath of files) {
     const relativePath = path.relative(process.cwd(), filePath);
@@ -100,6 +105,15 @@ function main() {
 
     const problems = checkAgainstSchema(data, schema);
     if (isChapter) problems.push(...checkChapterConsistency(filePath, data));
+
+    if (isChapter && !isBlank(data.comment_id)) {
+      const owner = commentIdOwners.get(data.comment_id);
+      if (owner) {
+        problems.push(`comment_id "${data.comment_id}" is already used by ${owner} - each chapter needs its own`);
+      } else {
+        commentIdOwners.set(data.comment_id, relativePath);
+      }
+    }
 
     if (problems.length) {
       fileProblems.push({ relativePath, label: schema.label, problems });
