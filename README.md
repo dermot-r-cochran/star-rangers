@@ -42,6 +42,8 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 | **Theories & Predictions** | Open discussion |
 | **Fan Creations** | Open discussion |
 
+**Fan Creations** is for links and discussion, not hosting: full fan fiction belongs on [AO3](https://archiveofourown.org/) or [Wattpad](https://www.wattpad.com/), not in this repo or its Discussions — see the About page's "Fan fiction" section for the pointer given to readers.
+
 ### One-time setup
 
 1. Create the public `Star-Rangers/sciencefiction-site-comments` repo (README-only is fine — it exists purely to host Discussions).
