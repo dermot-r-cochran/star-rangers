@@ -24,7 +24,7 @@ Three pressures converged in the decade after the *Constant Margin* expedition.
 
 ## The Outer Stations Consolidation Hearing
 
-The decisive public event was the Outer Stations Consolidation Hearing of 2719 UCSD, called to assess the MSC's operational adequacy across deep-range and boundary-proximate installations.
+The decisive public event was the Outer Stations Consolidation Hearing of 2719 UCSD, called to assess the MSC's operational adequacy across deep-range and boundary-proximate installations. See [The Volunteered Word (S00E02C01)](/star-rangers/seasons/s00/e02/s00e02c01/) for the session itself.
 
 There General Maren Solveig Krast delivered the line that outlived her defense:
 
