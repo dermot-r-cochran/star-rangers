@@ -6,11 +6,11 @@ What's actually written versus what the story bible and site copy have already c
 
 ## Season 0 — Founding Era (2712–2723 UCSD)
 
-Fully described (`src/seasons/s00/index.md`), zero chapters written — the season page renders "No chapters published yet."
-
-- [ ] At least one chapter establishing the pre-Charter Military Space Command era
-- [ ] The fracture that makes the Star Rangers "both necessary and possible" (per the season's own intro copy) — dramatized, not just asserted
-- [ ] Resolves into the founding moment the Charter timeline entry (`src/timeline/2723-star-rangers-charter.md`) already documents from the outside
+- [x] E01C01 — "Supplementary Material": the *Constant Margin*'s unauthorised 2712 UCSD departure, dramatizing Dr. Ysolde Maren Pitch's buried navigation model and the MSC's committee-speed failure to act on it in time — the first thread of the pre-Charter fracture, told from the scientist who built the correct answer and the captain who used it without waiting for it to be confirmed.
+- [x] E01C02 — "Beyond MSC Liability": two years on, a six-person crew takes *Patience First* past the point *Constant Margin* only touched and returned from — into the unmeasured terminus itself. Dramatizes the disappearance's departure only, told from Pitch (now watching her own buried model treated as settled fact rather than a checked one) and the ship's own boundary analyst, Dr. Wren Okafor, who accepts the distinction Pitch draws and goes anyway. Stops at the moment of transit; the crew's eventual 2732 recovery, and what they find at the terminus, must stay untouched until its own season, per the site's existing deliberate mystery. New `src/timeline/2714-patience-first-departs.md` entry mirrors the existing 2712 one.
+- [x] E02C01 — "The Volunteered Word": the Outer Stations Consolidation Hearing of 2719 UCSD, eleven weeks into its six-month run. Dramatizes General Krast's honestly-meant defense of technocratic command and the moment it becomes the quote everyone remembers instead of the six years of unresolved findings that actually forced the hearing — told from Krast, who believes every word she says, and Delegate Petra Solano of Halyard Station, one of three civilian observers who releases the recording within the hour. New `src/timeline/2719-outer-stations-consolidation-hearing.md`, mirroring the existing 2712/2714 entries.
+- [x] E03C01 — "What They Were Forbidden to Become": the Star Rangers Charter's ratification, 2723 UCSD — the season's founding moment, dramatized from the inside rather than just documented from the outside per `src/timeline/2723-star-rangers-charter.md`. Told from Solano, four years on from the Hearing and now doing the patient, unglamorous negotiation the viral quote only bought time for, and Commodore Rutger Voss of the newly formed SSDC, who argues the jurisdiction limits sincerely and comes around to them anyway without ever calling it a concession. Resolves the season's central gap: Season 0 is fully dramatized from the *Constant Margin*'s 2712 departure through the 2723 signing.
+- [x] E03C02 — "No Longer Supplementary": a closing beat for the season's two returning POVs. Dr. Pitch sees her once-buried "supplementary material" cited as a founding asset in the ratified charter; Captain Kilbride, recruited into the new Survey Corps on the strength of the *Constant Margin* transit, carries what the founding document's careful wording about the *Patience First* recovery mandate actually means to the people who flew and lost colleagues on that corridor. Resolves nothing about the terminus or the eventual 2732 recovery — deliberately — but gives the season's founding generation a human close rather than ending on the charter's text alone.
 
 ## Season 1 — Tissadelle's Arc, Cadet (most complete season — still missing its ending)
 
@@ -28,8 +28,9 @@ Fully described (`src/seasons/s00/index.md`), zero chapters written — the seas
 ## Season 3 — Principal
 
 - [x] E01C01 — "Filed Under Noise"
-- [ ] Everything else implied by the season intro ("two years into her service... an archive backlog nobody else wanted") — one chapter currently stands in for an entire rank-era
-- [ ] The archive-backlog thread's own resolution (what she finds, "what it costs to be believed about it" — per `src/seasons/s03/index.md`'s own framing)
+- [x] E01C02 — "Independent Verification": the reclassification survives Survey Corps review, and Sohrel absorbs the institutional cost of having authorised it — "what it costs to be believed about it" per `src/seasons/s03/index.md`'s own framing, now dramatized. Leaves the Sentinel/Meridian connection an open question (Sohrel's fourth declined request to consult Meridian, not resolved) and the Sentinel's origin/mechanism unexplained by design.
+- [ ] Everything else implied by the season intro ("two years into her service... an archive backlog nobody else wanted") — two chapters now stand in for an entire rank-era (Principal → Section Lead → Chief Ranger per her rank progression)
+- [ ] Whether/how the Sentinel-Meridian connection ever gets raised — Sohrel has now declined it four times without stating a reason on the record
 
 ## Season 4 — deliberately open
 
@@ -38,8 +39,9 @@ Fully described (`src/seasons/s00/index.md`), zero chapters written — the seas
 ## Season 5 — Line Captain
 
 - [x] E02C01 — "What the Hill Keeps" (Tír na nÓg, personal leave)
+- [x] E02C02 — "A Fraction of a Second": back on duty, a fleet-wide anomaly bulletin (Sen's cross-referencing) matches her family's hillside against the Marsh Causeway grove's dryadic-anchor marker, as an unattributed coordinate. She flags it for survey without disclosing the personal connection; Wender notices and lets it go. Advances both threads below without resolving either — deliberately, per the S6-7 treatment reserving that payoff for the Last Stand.
 - [ ] E00/E01 — skipped entirely; only the E02 snapshot exists
-- [ ] The two threads Season 5 explicitly "plants" per `story-bible/tissadelle-arc-s6-7.md`: (1) whether the boundary she finds at her mother's hollow is the same phenomenon as Threshold's eleven-year drift, and (2) what she chose *not* to file about it (S05E02C01) — both open questions with no follow-through chapter yet
+- [ ] The two threads Season 5 explicitly "plants" per `story-bible/tissadelle-arc-s6-7.md`: (1) whether the boundary she finds at her mother's hollow is the same phenomenon as Threshold's eleven-year drift, and (2) what she chose *not* to file about it (S05E02C01) — now connected in Tissadelle's own mind (S05E02C02) but still not resolved; that's reserved for the Last Stand per the treatment
 
 ## Season 6–7 — "The Last Stand" / "What Closes the File" / "Naming the Line"
 

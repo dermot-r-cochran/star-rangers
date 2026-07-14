@@ -138,6 +138,7 @@ Champions/Heroes carry Cascade-compatible action under local constraints. Select
 ### Observable Effects on Time-Bound Entities
 - High-impact local events without hierarchy violation.
 - Misclassification as "chosen by fate" instead of constrained agency.
+- Cross-cultural mythic convergence: independent, unconnected communities recording structurally similar Champion accounts and misreading the convergence as evidence of shared revelation rather than shared mechanism. See [Arilon](/star-rangers/lore/arilon/) for the Fellowship of Light's own comparative filing of this pattern.
 
 ## Edge-Case Interpretation Rules
 

@@ -38,3 +38,5 @@ Wender has seen enough that she no longer requires situations to be explicable b
 She does not mythologise the work. The work is the work.
 
 Her relationship to Tissadelle Shepherd develops across the early seasons. At Season 1's start, Shepherd is a cadet well below Wender's operational horizon. That changes.
+
+By Season 5, holding the rank of High Captain, Wender sits directly in Shepherd's chain of command during fleet-wide anomaly review — and reads, correctly, that a documented anomaly flag doesn't require a subordinate to disclose everything she privately knows to be sound. See [A Fraction of a Second (S05E02C02)](/star-rangers/seasons/s05/e02/s05e02c02/).

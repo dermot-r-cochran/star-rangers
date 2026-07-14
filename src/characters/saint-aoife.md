@@ -20,9 +20,9 @@ She came to the well in her fourteenth year already carrying a stillness the old
 
 ## The Vision
 
-On the eve of Saint Brigid's feast in her thirtieth year, keeping her habitual solitary vigil, Aoife experienced whatever it was Brother Daire's account preserves in fragments: a presence too large for the clearing to hold and yet held by it, occupying "every distance at once," folding the air without tearing it. She named it Brigid, because the date and the setting gave her little else to name it — and then undercut her own naming in the same breath, telling Daire plainly that the shape resembled nothing in the community's devotional carvings of the saint. She never resolved that contradiction publicly. Nothing in the surviving record suggests she tried to.
+On the eve of Saint Muirenn's feast in her thirtieth year, keeping her habitual solitary vigil, Aoife experienced whatever it was Brother Daire's account preserves in fragments: a presence too large for the clearing to hold and yet held by it, occupying "every distance at once," folding the air without tearing it. She named it Muirenn, because the date and the setting gave her little else to name it — and then undercut her own naming in the same breath, telling Daire plainly that the shape resembled nothing in the community's devotional carvings of the saint. She never resolved that contradiction publicly. Nothing in the surviving record suggests she tried to.
 
-What she would say clearly was the distinction between having been *shown* something and having been *healed* by it — two different claims she refused to collapse into one, even when collapsing them would have made her easier for the community, and later the Church, to categorise.
+What she would say clearly was the distinction between having been *shown* something and having been *healed* by it — two different claims she refused to collapse into one, even when collapsing them would have made her easier for the community, and later any higher devotional authority, to categorise.
 
 ## Known History
 
@@ -30,11 +30,11 @@ What she would say clearly was the distinction between having been *shown* somet
 - Began tending the sick at the thorn well of Cill Aoife in her fourteenth year, prior to the vision that would later define her.
 - Experienced the vision recorded by [Brother Daire](/star-rangers/characters/brother-daire/) in her thirtieth year, c. 1216 AD.
 - Refused three separate offers to enter a formal religious house, continuing lay devotional work at the well instead.
-- Died in the winter of 1241 AD, tending the well to the end; canonised only by sustained local usage, never by formal Church process.
+- Died in the winter of 1241 AD, tending the well to the end; recognised as a saint only by sustained local usage, never by any formal process from a higher authority.
 
 ## Character Notes
 
-Aoife's most striking trait, on the evidence of the one document that survives her, is that she never resolved ambiguity she was in a position to smooth over. A less careful witness to her own experience could have simply confirmed Brigid and let the story settle. She didn't. She told her chronicler what didn't fit as readily as what did, and let the discrepancy stand in the record rather than edit it out for the community's comfort or her own.
+Aoife's most striking trait, on the evidence of the one document that survives her, is that she never resolved ambiguity she was in a position to smooth over. A less careful witness to her own experience could have simply confirmed Muirenn and let the story settle. She didn't. She told her chronicler what didn't fit as readily as what did, and let the discrepancy stand in the record rather than edit it out for the community's comfort or her own.
 
 That same refusal is what makes her legible, nine centuries later, to readers working from a taxonomy she never had access to. The [Celtic Union's cultural scholars](/star-rangers/lore/saint-aoife/) who now read her account against [Levril](/star-rangers/lore/levrils/) classification are not correcting her. They are, by the Union's own account, simply the latest people trying to name what she was honest enough to say she couldn't fully name herself.
 

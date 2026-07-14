@@ -16,7 +16,7 @@ The Star Rangers were not founded because of a dream. They were founded because 
 
 Three pressures converged in the decade after the *Constant Margin* expedition.
 
-**First:** The Eden fold route proved that extrasolar contact was no longer a theory for later centuries. It was a present operational fact, and civilians were already living beside it.
+**First:** The Eden fold route proved that extrasolar contact was no longer a theory for later centuries. It was a present operational fact, and civilians were already living beside it. See [Supplementary Material (S00E01C01)](/star-rangers/seasons/s00/e01/s00e01c01/) for the transit itself, and the buried analysis that made it possible before any committee finished reading it.
 
 **Second:** The MSC's response to Eden left a paper trail visible to anyone patient enough to file for it: fourteen months to reach a preliminary report on a first-contact-class discovery, six years to continue the review, and a stack of compliance additions that addressed liability far more effectively than operations.
 
@@ -24,7 +24,7 @@ Three pressures converged in the decade after the *Constant Margin* expedition.
 
 ## The Outer Stations Consolidation Hearing
 
-The decisive public event was the Outer Stations Consolidation Hearing of 2719 UCSD, called to assess the MSC's operational adequacy across deep-range and boundary-proximate installations.
+The decisive public event was the Outer Stations Consolidation Hearing of 2719 UCSD, called to assess the MSC's operational adequacy across deep-range and boundary-proximate installations. See [The Volunteered Word (S00E02C01)](/star-rangers/seasons/s00/e02/s00e02c01/) for the session itself.
 
 There General Maren Solveig Krast delivered the line that outlived her defense:
 
@@ -62,7 +62,7 @@ They were not entirely wrong. That was part of the design.
 
 ## Constitutional Constraints
 
-The charter's fiercest arguments centered less on what the Star Rangers could do than on what they were forbidden to become. Outer-station delegations demanded these limits as the price of support, and without their votes the Accords failed.
+The charter's fiercest arguments centered less on what the Star Rangers could do than on what they were forbidden to become. Outer-station delegations demanded these limits as the price of support, and without their votes the Accords failed. See [What They Were Forbidden to Become (S00E03C01)](/star-rangers/seasons/s00/e03/s00e03c01/) for the negotiation itself.
 
 **Neutrality.** The Star Rangers take no side in political disputes between Solar System factions, governments, habitats, or settlements. They do not campaign, endorse, or lend operational presence to anyone's legitimacy claim. Their neutrality is unconditional.
 
@@ -88,7 +88,7 @@ The 2723 charter gave that older vocation legal standing, a budget mechanism, an
 
 ## What the Star Rangers Inherited
 
-The Star Rangers began with the navigational data from *Constant Margin*, the partial recovery data from *Patience First*, Dr. Pitch's declassified fold-mechanics analysis, and eleven years of Eden anomaly logs—the same logs the MSC calibration board had blamed on sensor degradation.
+The Star Rangers began with the navigational data from *Constant Margin*, the partial recovery data from *Patience First*, Dr. Pitch's declassified fold-mechanics analysis, and eleven years of Eden anomaly logs—the same logs the MSC calibration board had blamed on sensor degradation. See [No Longer Supplementary (S00E03C02)](/star-rangers/seasons/s00/e03/s00e03c02/) for what it meant to the two people who built and flew that inheritance to see it cited rather than buried.
 
 They also inherited unanswered questions:
 

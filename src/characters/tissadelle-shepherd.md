@@ -48,13 +48,15 @@ Her relationship to Karla Wender develops across the early seasons from distant 
 
 Season 3, working a backlog of archived Hegemony telemetry from [the Sentinel](/star-rangers/lore/planets/sentinel/) under a routine Survey Corps data-exchange, newly made Principal, Shepherd did what pattern-recognition software had not been built to do: she stopped reading the world's unclassifiable EM pulse as data and ran it as audio. What generations of automated classifiers had filed as noise because it matched no known protocol, she flagged within one listen as something with phrasing, repetition, and variation — considerably harder to file, and considerably harder to ignore.
 
-It is the one line on her record that has nothing to do with rank. Her instructors taught her to read instruments. Slipwave taught her to read the space between the notes. The Sentinel needed the second kind of reading, and nobody had thought to send it. See [Filed Under Noise (S03E01C01)](/star-rangers/seasons/s03/e01/s03e01c01/) for the night itself.
+It is the one line on her record that has nothing to do with rank. Her instructors taught her to read instruments. Slipwave taught her to read the space between the notes. The Sentinel needed the second kind of reading, and nobody had thought to send it. See [Filed Under Noise (S03E01C01)](/star-rangers/seasons/s03/e01/s03e01c01/) for the night itself, and [Independent Verification (S03E01C02)](/star-rangers/seasons/s03/e01/s03e01c02/) for what it cost her to be believed about it.
 
 ## Home Ground
 
 Shepherd was born and raised on [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), the flagship world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), on a flock-holding in the Boirinn Uplands kept by her mother, Órla Shepherd, and five generations of women before her. "Shepherd" is not a Ranger affectation — it is the family's working name, older than her enlistment by a couple of centuries.
 
 By Season 5, the Union's standing information-sharing agreement with the Survey Corps gives her official reasons to return that her rank alone would not. What she notices on her own family's hillside once the uniform is off is a separate matter, and one the charter never anticipated needing to forbid.
+
+Ten days later, back on duty, a fleet-wide anomaly bulletin puts her family's hillside back in front of her a second time — as an unattributed coordinate string, not a name. What she does with that is [A Fraction of a Second (S05E02C02)](/star-rangers/seasons/s05/e02/s05e02c02/): not the whole truth, and not, she tells herself, a lie either.
 
 ## Before the Charter
 

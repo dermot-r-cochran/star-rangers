@@ -28,9 +28,9 @@ The MSC was benevolent in intent and technocratic by design. Its senior officers
 
 > "We tried democracy. The result was forty years of the Coherence Wars and three billion dead. I would rather be called a tyrant than repeat the experiment."
 >
-> — General Maren Solveig Krast, address to the Outer Stations Consolidation Hearing, 2689 UCSD
+> — General Maren Solveig Krast, address to the Outer Stations Consolidation Hearing, 2719 UCSD
 
-Inside MSC culture, this quote was taught as defensible institutional memory.
+Inside MSC culture, this quote was taught as defensible institutional memory. See [The Volunteered Word (S00E02C01)](/star-rangers/seasons/s00/e02/s00e02c01/) for the address itself, and the decision that turned one honest sentence into the quote everyone now remembers.
 
 Its critics named the flaw at the time. The Coherence Wars were not caused by democracy in the abstract. They were caused by democratic systems captured, underfunded, and deliberately destabilized by interests that could not survive real accountability.
 
@@ -76,6 +76,6 @@ Some MSC veterans took that restructuring as proof of their own thesis: that dem
 
 The SSDC formally objected to the jurisdiction limits in the Star Rangers charter, especially the clauses stating that Rangers have no authority on planets or inside self-governing orbital habitats and must leave when invitation is withdrawn. The SSDC argued those limits created dangerous gaps. Outer-station delegations replied that a boundary-operations body with unrestricted right of entry would simply be the MSC wearing a different crest.
 
-The limits were not revised.
+The limits were not revised. See [What They Were Forbidden to Become (S00E03C01)](/star-rangers/seasons/s00/e03/s00e03c01/) for the negotiation itself, and the SSDC officer who came around to the delegates' position without ever calling it a concession.
 
 General Krast's line still circulates in certain SSDC circles. It is no longer always quoted as approval.
