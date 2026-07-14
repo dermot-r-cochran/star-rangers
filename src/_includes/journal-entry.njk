@@ -1,0 +1,48 @@
+---
+layout: base.njk
+comments: true
+commentsCategory: journal
+---
+<article class="journal-entry">
+  <header class="lore-entry__header">
+    <nav class="chapter-breadcrumb" aria-label="Journal location" data-pagefind-ignore>
+      <ol class="breadcrumb" role="list">
+        <li><a href="/star-rangers/journal/">Journal</a></li>
+        <li aria-current="page">{{ title }}</li>
+      </ol>
+    </nav>
+    <span class="character-badge">Author's Notes</span>
+    <h1 class="lore-entry__title">{{ title }}</h1>
+    <p class="journal-entry__date">{{ page.date | postDate }}</p>
+    {% if tags and tags.length %}
+    <ul class="chapter-tags" aria-label="Tags" role="list">
+      {% for tag in tags %}
+      <li class="chapter-tag">{{ tag }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </header>
+
+  <div class="lore-entry__body">
+    {{ content | safe }}
+  </div>
+
+  {% set previousEntry = collections.journalEntries | previousJournalEntryIn(page.url) %}
+  {% set nextEntry = collections.journalEntries | nextJournalEntryIn(page.url) %}
+  <nav class="chapter-pagination" aria-label="Journal navigation" data-pagefind-ignore>
+    {% if previousEntry %}
+    <a class="chapter-pagination__prev" href="/star-rangers{{ previousEntry.url }}">
+      ← {{ previousEntry.data.title }}
+    </a>
+    {% endif %}
+    {% if nextEntry %}
+    <a class="chapter-pagination__next" href="/star-rangers{{ nextEntry.url }}">
+      {{ nextEntry.data.title }} →
+    </a>
+    {% endif %}
+  </nav>
+
+  <footer class="lore-entry__footer" data-pagefind-ignore>
+    <a href="/star-rangers/journal/">← Back to Journal</a>
+  </footer>
+</article>

@@ -9,7 +9,7 @@
 // pairs in below. See README.md's "Discussion forum" section for the full
 // category setup this maps onto.
 //
-// GISCUS_REPO/GISCUS_REPO_ID/GISCUS_CATEGORY_{CHARACTERS,LORE,EPISODES}_ID
+// GISCUS_REPO/GISCUS_REPO_ID/GISCUS_CATEGORY_{CHARACTERS,LORE,EPISODES,JOURNAL}_ID
 // let one cPanel clone point at its own, separate comments repo instead of
 // the shared default below - scripts/cpanel-deploy.sh exports these from
 // deploy.conf the same way it does THEME/SITE_NAME/etc (see that script and
@@ -25,7 +25,8 @@ module.exports = function () {
     categories: {
       characters: { name: "Characters", id: process.env.GISCUS_CATEGORY_CHARACTERS_ID || "REPLACE_WITH_CATEGORY_ID" },
       lore: { name: "Lore & Worldbuilding", id: process.env.GISCUS_CATEGORY_LORE_ID || "REPLACE_WITH_CATEGORY_ID" },
-      episodes: { name: "Episode Discussion", id: process.env.GISCUS_CATEGORY_EPISODES_ID || "REPLACE_WITH_CATEGORY_ID" }
+      episodes: { name: "Episode Discussion", id: process.env.GISCUS_CATEGORY_EPISODES_ID || "REPLACE_WITH_CATEGORY_ID" },
+      journal: { name: "Journal", id: process.env.GISCUS_CATEGORY_JOURNAL_ID || "REPLACE_WITH_CATEGORY_ID" }
     }
   };
 };
