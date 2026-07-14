@@ -44,4 +44,4 @@ The record does not claim full recovery, and the Survey Archive's own annotation
 
 *The Currach Fleet's founders left believing Earth could not keep what it had. They were closer to right than the giraffes and leopards in a 2826 preserve photograph would suggest — the animals came back, but not by holding still and waiting out the weather.*
 
-See also: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [The Subsea Cable Warden Programme](/star-rangers/lore/subsea-cable-drones/), [Environmental Technology Design](/star-rangers/lore/environmental-technology-design/), [United Space Consortium](/star-rangers/lore/united-space-consortium/), [The Imperium](/star-rangers/lore/the-imperium/).
+See also: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [The Subsea Cable Warden Programme](/star-rangers/lore/subsea-cable-drones/), [Environmental Technology Design](/star-rangers/lore/environmental-technology-design/), [United Space Consortium](/star-rangers/lore/united-space-consortium/), [The Imperium](/star-rangers/lore/the-imperium/), [Venice](/star-rangers/lore/venice/).
