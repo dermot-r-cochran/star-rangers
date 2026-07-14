@@ -5,7 +5,7 @@ commentsCategory: episodes
 ---
 <article class="chapter scene-pov" data-chapter-id="{{ item.chapterId }}" data-scene="{{ item.sceneNumber }}" data-pov="{{ item.character.id }}">
   <header class="chapter-header">
-    <nav class="chapter-breadcrumb" aria-label="Chapter location">
+    <nav class="chapter-breadcrumb" aria-label="Chapter location" data-pagefind-ignore>
       <ol class="breadcrumb" role="list">
         <li><a href="/star-rangers/seasons/">Seasons</a></li>
         <li><a href="/star-rangers/seasons/s{{ item.season }}/">Season {{ item.season | int }}</a></li>
@@ -42,7 +42,7 @@ commentsCategory: episodes
   </header>
 
   {% if item.sceneCharacters.length > 1 %}
-  <nav class="scene-pov-switch" aria-label="Other POVs of this scene">
+  <nav class="scene-pov-switch" aria-label="Other POVs of this scene" data-pagefind-ignore>
     <p class="scene-pov-switch__label">Also in this scene:</p>
     <ul class="scene-pov-switch__list" role="list">
       {% for character in item.sceneCharacters %}
@@ -64,7 +64,7 @@ commentsCategory: episodes
     {% endif %}
   </div>
 
-  <nav class="chapter-pagination" aria-label="Chapter navigation">
+  <nav class="chapter-pagination" aria-label="Chapter navigation" data-pagefind-ignore>
     <a class="chapter-pagination__prev" href="/star-rangers{{ item.chapterUrl }}">
       ← {{ item.chapterTitle }} (all POVs)
     </a>

@@ -5,7 +5,7 @@ commentsCategory: characters
 ---
 <article class="character-entry" data-character-id="{{ id }}">
   <header class="character-header{% if image %} character-header--with-image{% endif %}">
-    <nav class="character-breadcrumb" aria-label="Character location">
+    <nav class="character-breadcrumb" aria-label="Character location" data-pagefind-ignore>
       <ol class="breadcrumb" role="list">
         <li><a href="/star-rangers/characters/">Characters</a></li>
         <li aria-current="page">{{ title }}</li>
@@ -56,7 +56,7 @@ commentsCategory: characters
     {{ content | safe }}
   </div>
 
-  <footer class="character-footer">
+  <footer class="character-footer" data-pagefind-ignore>
     <a href="/star-rangers/characters/">← All Characters</a>
   </footer>
 </article>

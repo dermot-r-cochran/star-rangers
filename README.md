@@ -104,6 +104,12 @@ npm install
 npm run start
 ```
 
+## Search
+
+Full-text search across every page is powered by [Pagefind](https://pagefind.app/), which indexes the built `_site/` output — `npm run build` runs `eleventy && pagefind --site _site`, so search only works after a real build, not under `npm start`'s dev server (the search box just does nothing there, since there's no index yet). The search box lives in the header (`src/_includes/base.njk`); its logic is a small hand-rolled script, `src/js/search.js`, using Pagefind's JS API directly rather than its prebuilt `pagefind-ui` widget, so it could be styled to match the site's own dark theme (see `main.css`'s `/* --- Search --- */` section) instead of overriding another package's bundled CSS.
+
+Only `<main data-pagefind-body>`'s content is indexed — breadcrumbs, "back to X" footers, pagination, and the comments widget all carry `data-pagefind-ignore` so they don't pollute every single page's indexed text with the same nav boilerplate. `data-pagefind-bundle` on the search widget carries the same `/star-rangers/` prefix as every other internal link (see `SITE_PATH_PREFIX` above), so it's rewritten automatically for cPanel and for forks.
+
 ## Adding content
 
 `npm run new` scaffolds a new character, lore entry, codex entry, glossary entry, or chapter — it prompts for each type's required fields and writes the file with the correct front-matter shape, so you don't need to memorize a layout's exact fields by hand:
