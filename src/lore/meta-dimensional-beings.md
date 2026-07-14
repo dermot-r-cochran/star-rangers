@@ -49,7 +49,7 @@ They are not intelligent, but they are not inert. A boundary collapse event can 
 - **Cute Predators** (tickle bugs, lamb-masks) — operate at the micro-scale of consent erosion. No evidence of goal-directed sapience; their behaviour is instinctive pattern-matching against vulnerability signals.
 - **Larger shadow beings** — documented at Class III boundary collapse events; no communication, no negotiation, no Cascade standing.
 
-**Not every shadow-shaped anomaly belongs on this list.** A [Brane Shadow](/star-rangers/lore/brane-shadows/) presents the same way — dark, roughly person- or creature-shaped, seen at a boundary zone — but nothing has entered material space to produce it. It is a gravitational imprint leaking across a narrowed brane gap from a mass that stays entirely in its own Concordant, not a being of any class. It falls outside this classification altogether, not at the bottom of it.
+**Not every shadow-shaped anomaly belongs on this list.** A [Membrane Shadow](/star-rangers/lore/membrane-shadows/) presents the same way — dark, roughly person- or creature-shaped, seen at a boundary zone — but nothing has entered material space to produce it. It is a gravitational imprint leaking across a narrowed cosmic-membrane gap from a mass that stays entirely in its own Concordant, not a being of any class. It falls outside this classification altogether, not at the bottom of it.
 
 ## Entry Conditions
 
