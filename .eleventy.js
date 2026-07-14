@@ -42,6 +42,39 @@ function isContentIncluded(data, filter) {
   return true;
 }
 
+// Drives the eleventyComputed "ogImage" override below: maps a content
+// type's own `image` front-matter field (already used by that layout's own
+// <img> tag - see e.g. character.njk) to the same images/<dir>/ folder, so
+// Open Graph/Twitter Card previews use the same picture as the page itself
+// instead of requiring a second, separately-maintained field.
+const OG_IMAGE_DIRS = {
+  "character.njk": "characters",
+  "lore-entry.njk": "lore",
+  "codex.njk": "codex",
+  "glossary-entry.njk": "glossary"
+};
+
+// Site-wide fallback for any page with no page-specific image (chapters,
+// listing pages, etc.) - returned outright rather than left for the
+// template to fall back on, since Nunjucks' `default` filter only
+// substitutes for `undefined`, not `null`, and would otherwise silently
+// pass a null image straight through to the absoluteUrl filter.
+const DEFAULT_OG_IMAGE = "/images/hero/home-launch.jpg";
+
+function computeOgImage(data) {
+  const dir = OG_IMAGE_DIRS[data.layout];
+  return dir && data.image ? `/images/${dir}/${data.image}` : DEFAULT_OG_IMAGE;
+}
+
+// Drives the eleventyComputed "ogType" override below: "article" for an
+// actual content leaf, "website" for everything else (the homepage, and
+// every listing/index page).
+const ARTICLE_LAYOUTS = new Set(["character.njk", "lore-entry.njk", "codex.njk", "glossary-entry.njk", "chapter.njk"]);
+
+function computeOgType(data) {
+  return ARTICLE_LAYOUTS.has(data.layout) ? "article" : "website";
+}
+
 module.exports = function(eleventyConfig) {
   const contentFilter = getContentFilter();
   // See getRelatedContentUrls's own comment: pulls in whatever lore,
@@ -105,6 +138,11 @@ module.exports = function(eleventyConfig) {
   // per deploy target (see src/_data/site.js and scripts/cpanel-deploy.sh).
   eleventyConfig.addPassthroughCopy({ "src/static/.well-known": ".well-known" });
 
+  // Nunjucks' own built-in `slice` filter splits an array into N groups
+  // (Jinja2's "columnize" behavior) rather than taking the first N items,
+  // so the Atom feed (src/feed.njk) needs its own "first N" filter instead.
+  eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
+
   eleventyConfig.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("LLLL d, yyyy");
   });
@@ -133,6 +171,10 @@ module.exports = function(eleventyConfig) {
       (loreCollection || []).find((item) => item.data.title === term);
     return `/star-rangers${match ? match.url : "/glossary/"}`;
   });
+
+  // For the Atom feed (src/feed.njk) - formats a chapter's real-world
+  // `date` (see lib/content-schema.js) as an RFC 3339 timestamp.
+  eleventyConfig.addFilter("dateToRfc3339", (dateObj) => DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO());
 
   // Groups the flat scenePovPages global data (src/_data/scenePovPages.js)
   // back into per-scene lists of characters for one chapter, so chapter.njk
@@ -179,6 +221,16 @@ module.exports = function(eleventyConfig) {
       )
   );
 
+  // Same "chapters" set, newest real-world `date` first rather than story
+  // order - what the Atom feed (src/feed.njk) actually wants to announce.
+  eleventyConfig.addCollection("recentChapters", (collectionApi) =>
+    collectionApi
+      .getAll()
+      .filter((item) => item.data.layout === "chapter.njk")
+      .filter((item) => isChapterIncluded(item.data, contentFilter))
+      .sort((a, b) => b.date - a.date)
+  );
+
   eleventyConfig.addCollection("glossary", (collectionApi) =>
     collectionApi.getAll()
       .filter((item) => item.data.layout === "glossary-entry.njk")
@@ -202,7 +254,9 @@ module.exports = function(eleventyConfig) {
   // a no-op whenever contentFilter.active is false.
   eleventyConfig.addGlobalData("eleventyComputed", {
     layout: (data) => (isContentIncluded(data, contentFilter) ? data.layout : "excluded.njk"),
-    title: (data) => (isContentIncluded(data, contentFilter) ? data.title : "Not included in this edition")
+    title: (data) => (isContentIncluded(data, contentFilter) ? data.title : "Not included in this edition"),
+    ogImage: (data) => computeOgImage(data),
+    ogType: (data) => computeOgType(data)
   });
 
   return {

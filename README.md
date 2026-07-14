@@ -110,6 +110,12 @@ Full-text search across every page is powered by [Pagefind](https://pagefind.app
 
 Only `<main data-pagefind-body>`'s content is indexed — breadcrumbs, "back to X" footers, pagination, and the comments widget all carry `data-pagefind-ignore` so they don't pollute every single page's indexed text with the same nav boilerplate. `data-pagefind-bundle` on the search widget carries the same `/star-rangers/` prefix as every other internal link (see `SITE_PATH_PREFIX` above), so it's rewritten automatically for cPanel and for forks.
 
+## RSS/Atom feed and social previews
+
+`src/feed.njk` renders an Atom feed at `/feed/feed.xml`, autodiscoverable via a `<link rel="alternate">` tag in `base.njk`'s `<head>`. It lists the 20 most recently *published* chapters (newest first) from the `recentChapters` collection — a real-world `date` (`YYYY-MM-DD`) front-matter field, distinct from a chapter's in-universe `timestamp` string, since a feed reader needs to know when something was actually released, not when its story events occur. `npm run new -- chapter` sets `date` automatically to the day the file is created; the 13 chapters that predate this feature were backfilled from each file's own first git commit date.
+
+Every page also carries Open Graph and Twitter Card meta tags (`base.njk`'s `<head>`), so links shared on Discord/Reddit/etc. get a title, description, and image preview instead of a bare URL. The image is computed per page type (`.eleventy.js`'s `eleventyComputed.ogImage`) from the same `image` field each layout's own `<img>` tag already uses — no second field to maintain — falling back to the homepage's hero image for chapters and listing pages, which have no single obvious picture of their own.
+
 ## Adding content
 
 `npm run new` scaffolds a new character, lore entry, codex entry, glossary entry, or chapter — it prompts for each type's required fields and writes the file with the correct front-matter shape, so you don't need to memorize a layout's exact fields by hand:

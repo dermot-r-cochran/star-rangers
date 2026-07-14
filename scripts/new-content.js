@@ -104,12 +104,17 @@ async function scaffoldChapter(rl) {
   const title = await promptRequired(rl, "Title");
   const id = chapterIdFor(season, episode, chapter);
 
+  const today = new Date().toISOString().slice(0, 10);
   const fields = [
     ["season", season],
     ["episode", episode],
     ["chapter", chapter],
     ["id", toYamlString(id)],
-    ["title", toYamlString(title)]
+    ["title", toYamlString(title)],
+    // Real-world publish date for the Atom feed (src/feed.njk) - distinct
+    // from the in-universe "timestamp" prompted for below. Today is
+    // exactly right for a chapter being scaffolded right now.
+    ["date", toYamlString(today)]
   ];
 
   for (const field of ["timestamp", "location", "description"]) {
