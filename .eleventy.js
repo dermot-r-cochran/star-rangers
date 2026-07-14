@@ -191,6 +191,23 @@ module.exports = function(eleventyConfig) {
       .map(([number, characters]) => ({ number, characters }));
   });
 
+  // Drives chapter.njk's previousChapter/nextChapter pagination links - the
+  // immediate neighbor in the already-sorted "chapters" collection (see
+  // that collection's own definition below), which reads as one continuous
+  // publication order across episode and season boundaries alike, the same
+  // way a season/episode index's own chapter list already reads. Returns
+  // null past either end, and naturally skips anything CHARACTERS/TOPICS/
+  // THREADS filtering has excluded, since the collection itself already
+  // omits those chapters - no dead links to hidden content.
+  eleventyConfig.addFilter("previousChapterIn", (chapters, id) => {
+    const index = (chapters || []).findIndex((c) => c.data.id === id);
+    return index > 0 ? chapters[index - 1] : null;
+  });
+  eleventyConfig.addFilter("nextChapterIn", (chapters, id) => {
+    const index = (chapters || []).findIndex((c) => c.data.id === id);
+    return index >= 0 && index < chapters.length - 1 ? chapters[index + 1] : null;
+  });
+
   eleventyConfig.addCollection("characters", (collectionApi) =>
     collectionApi.getAll()
       .filter((item) => item.data.layout === "character.njk")
