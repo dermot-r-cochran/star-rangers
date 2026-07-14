@@ -29,6 +29,13 @@ description: "About Dermot R. Cochran, creator of Star Rangers."
   <a href="https://github.com/Star-Rangers/sciencefiction-site-comments/discussions">comments</a>'
   Fan Creations category.
 </p>
+<p>
+  Prefer to run your own site instead of posting to an existing platform? Fan fiction clones
+  of this site are explicitly allowed and supported, non-commercially and clearly labeled as
+  unofficial — see <a href="https://github.com/dermot-r-cochran/star-rangers/blob/main/CONTENT-LICENSE.md">CONTENT-LICENSE.md</a>'s
+  Fan Works Policy and <a href="https://github.com/dermot-r-cochran/star-rangers/blob/main/FORKING.md">FORKING.md</a>
+  for how to fork this repository and reuse some or all of the existing content.
+</p>
 
 <h2>How this site is deployed</h2>
 <p>

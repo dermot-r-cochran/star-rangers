@@ -39,6 +39,12 @@ jobs:
         run: npm run build
         env:
           COMMENTS_ENABLED: "false"
+          # Unset by default (this project's own Pages build keeps the
+          # /star-rangers/ prefix it's always used); a fork serving from a
+          # different repo name sets a SITE_PATH_PREFIX repository variable
+          # (Settings -> Secrets and variables -> Actions -> Variables)
+          # instead of editing this file - see .eleventy.js and FORKING.md.
+          SITE_PATH_PREFIX: ${{ vars.SITE_PATH_PREFIX }}
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -4,6 +4,21 @@ This licence covers the **story, world-building, and narrative content** of *Sta
 
 In scope: `src/seasons/`, `src/threads/`, `src/characters/`, `src/timeline/`, `src/lore/`, `src/glossary/`, `src/codex/`, `story-bible/`, and `prompts/`. Everything else in this repository — the Eleventy config, layouts/CSS/JS, `lib/`, `scripts/`, and the About page's own prose — is MIT-licensed code/documentation, not narrative content.
 
+## Fan Works Policy
+
+The full licence below includes a No-Derivatives term. Notwithstanding that term, Dermot R. Cochran explicitly permits non-commercial fan works based on the Star Rangers characters, setting, and lore — this is a standing exception to No-Derivatives specifically for fan creativity, not a change to the licence's other terms. This covers:
+
+- **Fan fiction and fan art**, hosted wherever you like (AO3, Wattpad, etc. — see the site's About page for the pointer given to readers).
+- **Fan fiction clones**: forking this repository — the MIT-licensed engine *and* some or all of this CC BY-NC-ND content — to run your own non-commercial Star Rangers fan site, whether that means adding your own stories alongside the existing canon or building out a new corner of the setting.
+
+Conditions:
+
+- **Non-commercial only** — no ads, paywalls, subscriptions, or other monetization tied to the fan work.
+- **Clearly labeled as unofficial fan work** — not presented as canon, and not implying endorsement by Dermot R. Cochran.
+- **Attribution** to Dermot R. Cochran, with a link back to [dermot-r-cochran/star-rangers](https://github.com/dermot-r-cochran/star-rangers) or [sciencefiction.site](https://sciencefiction.site) somewhere reasonably visible.
+
+Anything outside this fan-works exception — commercial use, or redistributing the original canon text verbatim as your own — is still governed by the unmodified licence below.
+
 ---
 
 Attribution-NonCommercial-NoDerivatives 4.0 International

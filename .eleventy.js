@@ -65,6 +65,28 @@ module.exports = function(eleventyConfig) {
   // set of pathname-mapped discussions alongside the cPanel domains'.
   eleventyConfig.addGlobalData("commentsEnabled", String(process.env.COMMENTS_ENABLED || "true").trim().toLowerCase() !== "false");
 
+  // Forker-facing override for the ~200 layout/content files that hardcode
+  // "/star-rangers/" in absolute links (this project's own GitHub Pages
+  // URL - see the NOTE in .cpanel.yml for why: Eleventy's own pathPrefix
+  // stays "/" throughout this config, so every absolute href needs that
+  // segment written out by hand for GitHub Pages' /star-rangers/
+  // project-site subpath to resolve at all). Forking this repo under a
+  // different name/host means setting SITE_PATH_PREFIX once instead of
+  // hand-editing every file it appears in. Unset (this project's own
+  // local/CI/GitHub Pages builds never set it) leaves output byte-for-byte
+  // unchanged, and cPanel builds don't need it either -
+  // scripts/cpanel-deploy.sh already strips this same prefix with its own
+  // post-build sed step, independently of this.
+  const sitePathPrefix = process.env.SITE_PATH_PREFIX;
+  if (sitePathPrefix && sitePathPrefix !== "/star-rangers/") {
+    eleventyConfig.addTransform("rewriteSitePathPrefix", function (content, outputPath) {
+      if (outputPath && /\.(html|css|js|xml|txt)$/.test(outputPath)) {
+        return content.split("/star-rangers/").join(sitePathPrefix);
+      }
+      return content;
+    });
+  }
+
   // Wires up the :::pov / :::::scene custom containers used in chapter
   // content (see lib/markdown-containers.js) - without this, markdown-it
   // has no idea what those fences mean and renders them as literal text.

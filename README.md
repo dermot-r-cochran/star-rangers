@@ -91,9 +91,11 @@ Current version: **1.5.0**. See [`CHANGELOG.md`](./CHANGELOG.md) for the full ve
 This repository carries two separate licences, so the engine can be freely forked without implying any rights over the story itself:
 
 - **Code** (`.eleventy.js`, `lib/`, `src/_includes/`, `src/css/`, `src/js/`, `scripts/`, and everything else not listed below): **MIT** — see [`LICENSE`](./LICENSE). Fork it, run it for your own site, adapt it freely.
-- **Story content** (`src/seasons/`, `src/threads/`, `src/characters/`, `src/timeline/`, `src/lore/`, `src/glossary/`, `src/codex/`, `story-bible/`, `prompts/`): **CC BY-NC-ND 4.0** — see [`CONTENT-LICENSE.md`](./CONTENT-LICENSE.md). Share it non-commercially with attribution, but don't redistribute adapted/derivative versions of *Star Rangers* itself.
+- **Story content** (`src/seasons/`, `src/threads/`, `src/characters/`, `src/timeline/`, `src/lore/`, `src/glossary/`, `src/codex/`, `story-bible/`, `prompts/`): **CC BY-NC-ND 4.0** — see [`CONTENT-LICENSE.md`](./CONTENT-LICENSE.md). Share it non-commercially with attribution, but don't redistribute adapted/derivative versions of *Star Rangers* itself — **except** non-commercial fan works (fan fiction, fan art, and fan fiction clones of this repo), which `CONTENT-LICENSE.md`'s Fan Works Policy explicitly permits.
 
-If you fork this repo to run your own interactive fiction site, replace everything under the content paths above with your own writing before publishing.
+If you fork this repo to run your own **original** interactive fiction site, replace everything under the content paths above with your own writing before publishing. If you're forking it as a **Star Rangers fan work** instead, see the Fan Works Policy — you can keep some or all of the existing content, non-commercially and clearly labeled as unofficial.
+
+See **[`FORKING.md`](./FORKING.md)** for the full step-by-step guide either way — rebranding, the `/star-rangers/` path prefix, setting up your own comments repo, and deployment.
 
 ## Local development
 
