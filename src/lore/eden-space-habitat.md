@@ -43,7 +43,7 @@ So the first unauthorised expedition launched.
 
 In 2712 UCSD, the modified cargo hauler *Constant Margin* traversed the route with a crew of three and returned with navigational data proving the corridor led to a point approximately 1.4 light-years outside the Solar System. It was the first confirmed extrasolar transit in human history. See [Supplementary Material (S00E01C01)](/star-rangers/seasons/s00/e01/s00e01c01/) for the departure itself.
 
-In 2714 UCSD, the six-person *Patience First* followed. It did not return. Its fate remained unconfirmed for another eighteen years.
+In 2714 UCSD, the six-person *Patience First* followed. It did not return. Its fate remained unconfirmed for another eighteen years. See [Beyond MSC Liability (S00E01C02)](/star-rangers/seasons/s00/e01/s00e01c02/) for the departure itself.
 
 ## The MSC Response
 

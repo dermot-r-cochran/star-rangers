@@ -15,7 +15,7 @@ permalink: /seasons/s00/e01/
 <img class="page-hero-image" src="/star-rangers/images/hero/season-00-foundation.jpg" alt="A moody, neon-lit futuristic corridor" />
 <h1 class="page-title">Season 0 · Episode 1</h1>
 <p class="page-intro">
-  Eden Space Habitat, 2712 UCSD. A chief scientist's buried analysis and an unauthorised crew of three close the distance between a correct finding and a confirmed one — the first fold-route transit in human history, and the first thread of the gap that will eventually force the Star Rangers into existence.
+  Eden Space Habitat, 2712-2714 UCSD. A chief scientist's buried analysis sends one small crew through a fold corridor and returns them safely — then, two years later, sends a larger one past it, into ground nothing has ever measured. The gap between a correct finding and a confirmed one is the first thread of what will eventually force the Star Rangers into existence.
 </p>
 
 {% set seasonNumber = "0" %}
