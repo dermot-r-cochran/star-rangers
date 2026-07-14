@@ -62,7 +62,7 @@ They were not entirely wrong. That was part of the design.
 
 ## Constitutional Constraints
 
-The charter's fiercest arguments centered less on what the Star Rangers could do than on what they were forbidden to become. Outer-station delegations demanded these limits as the price of support, and without their votes the Accords failed.
+The charter's fiercest arguments centered less on what the Star Rangers could do than on what they were forbidden to become. Outer-station delegations demanded these limits as the price of support, and without their votes the Accords failed. See [What They Were Forbidden to Become (S00E03C01)](/star-rangers/seasons/s00/e03/s00e03c01/) for the negotiation itself.
 
 **Neutrality.** The Star Rangers take no side in political disputes between Solar System factions, governments, habitats, or settlements. They do not campaign, endorse, or lend operational presence to anyone's legitimacy claim. Their neutrality is unconditional.
 
