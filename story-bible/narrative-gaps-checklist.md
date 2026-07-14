@@ -28,8 +28,9 @@ Fully described (`src/seasons/s00/index.md`), zero chapters written — the seas
 ## Season 3 — Principal
 
 - [x] E01C01 — "Filed Under Noise"
-- [ ] Everything else implied by the season intro ("two years into her service... an archive backlog nobody else wanted") — one chapter currently stands in for an entire rank-era
-- [ ] The archive-backlog thread's own resolution (what she finds, "what it costs to be believed about it" — per `src/seasons/s03/index.md`'s own framing)
+- [x] E01C02 — "Independent Verification": the reclassification survives Survey Corps review, and Sohrel absorbs the institutional cost of having authorised it — "what it costs to be believed about it" per `src/seasons/s03/index.md`'s own framing, now dramatized. Leaves the Sentinel/Meridian connection an open question (Sohrel's fourth declined request to consult Meridian, not resolved) and the Sentinel's origin/mechanism unexplained by design.
+- [ ] Everything else implied by the season intro ("two years into her service... an archive backlog nobody else wanted") — two chapters now stand in for an entire rank-era (Principal → Section Lead → Chief Ranger per her rank progression)
+- [ ] Whether/how the Sentinel-Meridian connection ever gets raised — Sohrel has now declined it four times without stating a reason on the record
 
 ## Season 4 — deliberately open
 
