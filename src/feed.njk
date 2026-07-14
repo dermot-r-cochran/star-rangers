@@ -1,0 +1,28 @@
+---
+permalink: /feed/feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.name }} — New Episodes</title>
+  <subtitle>{{ site.description }}</subtitle>
+  <link href="{{ '/feed/feed.xml' | absoluteUrl(site.url) }}" rel="self" />
+  <link href="{{ site.url }}" />
+  <id>{{ site.url }}</id>
+  {% if collections.recentChapters.length %}
+  <updated>{{ collections.recentChapters[0].date | dateToRfc3339 }}</updated>
+  {% endif %}
+  <author>
+    <name>{{ site.author }}</name>
+  </author>
+  {% for chapter in collections.recentChapters | limit(20) %}
+  <entry>
+    <title>{{ chapter.data.title }}</title>
+    <link href="{{ chapter.url | absoluteUrl(site.url) }}" />
+    <id>{{ chapter.url | absoluteUrl(site.url) }}</id>
+    <updated>{{ chapter.date | dateToRfc3339 }}</updated>
+    <published>{{ chapter.date | dateToRfc3339 }}</published>
+    <summary>{{ chapter.data.description | default("A new chapter of " + site.name + ".") }}</summary>
+  </entry>
+  {% endfor %}
+</feed>

@@ -5,7 +5,7 @@ commentsCategory: lore
 ---
 <article class="codex-entry" data-codex-category="{{ category }}">
   <header class="codex-entry__header">
-    <nav class="codex-breadcrumb" aria-label="Codex location">
+    <nav class="codex-breadcrumb" aria-label="Codex location" data-pagefind-ignore>
       <ol class="breadcrumb" role="list">
         <li><a href="/star-rangers/codex/">Codex</a></li>
         {% if category %}
@@ -44,7 +44,7 @@ commentsCategory: lore
     {{ content | safe }}
   </div>
 
-  <footer class="codex-entry__footer">
+  <footer class="codex-entry__footer" data-pagefind-ignore>
     <a href="/star-rangers/codex/">← Back to Codex</a>
   </footer>
 </article>

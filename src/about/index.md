@@ -19,6 +19,24 @@ description: "About Dermot R. Cochran, creator of Star Rangers."
   request, alongside a ShellCheck pass over the deployment scripts.
 </p>
 
+<h2>Fan fiction</h2>
+<p>
+  Want to write your own stories in the Star Rangers universe? Post them on
+  <a href="https://archiveofourown.org/">Archive of Our Own</a> or
+  <a href="https://www.wattpad.com/">Wattpad</a> rather than here — tag them
+  something like "Star Rangers (Dermot R. Cochran)" so other readers can find
+  them, and feel free to link your work in the
+  <a href="https://github.com/Star-Rangers/sciencefiction-site-comments/discussions">comments</a>'
+  Fan Creations category.
+</p>
+<p>
+  Prefer to run your own site instead of posting to an existing platform? Fan fiction clones
+  of this site are explicitly allowed and supported, non-commercially and clearly labeled as
+  unofficial — see <a href="https://github.com/dermot-r-cochran/star-rangers/blob/main/CONTENT-LICENSE.md">CONTENT-LICENSE.md</a>'s
+  Fan Works Policy and <a href="https://github.com/dermot-r-cochran/star-rangers/blob/main/FORKING.md">FORKING.md</a>
+  for how to fork this repository and reuse some or all of the existing content.
+</p>
+
 <h2>How this site is deployed</h2>
 <p>
   Two deployments run from this repository. A GitHub Actions workflow builds the site

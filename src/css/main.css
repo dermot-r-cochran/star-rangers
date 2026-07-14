@@ -148,6 +148,83 @@ a:focus {
   border-bottom-color: var(--color-accent);
 }
 
+/* --- Search --- */
+.site-search {
+  position: relative;
+}
+.site-search__input {
+  width: 12rem;
+  max-width: 100%;
+  padding: 6px var(--spacing-sm);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  color: var(--color-text);
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+}
+.site-search__input::placeholder {
+  color: var(--color-text-muted);
+}
+.site-search__input:focus {
+  outline: none;
+  border-color: var(--color-accent);
+}
+.site-search__results {
+  position: absolute;
+  top: calc(100% + var(--spacing-xs));
+  left: 0;
+  z-index: 20;
+  width: 20rem;
+  max-width: min(90vw, 20rem);
+  max-height: 70vh;
+  overflow-y: auto;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+.site-search__empty {
+  margin: 0;
+  padding: var(--spacing-sm) var(--spacing-md);
+  color: var(--color-text-muted);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+.site-search__list {
+  list-style: none;
+}
+.site-search__result + .site-search__result {
+  border-top: 1px solid var(--color-border);
+}
+.site-search__result-link {
+  display: block;
+  padding: var(--spacing-sm) var(--spacing-md);
+  text-decoration: none;
+}
+.site-search__result-link:hover,
+.site-search__result-link:focus {
+  background: var(--color-surface-2);
+}
+.site-search__result-title {
+  display: block;
+  color: var(--color-accent);
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  margin-bottom: 2px;
+}
+.site-search__result-excerpt {
+  display: block;
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+.site-search__result-excerpt mark {
+  background: none;
+  color: var(--color-text);
+  font-weight: 700;
+}
+
 /* --- Main Content --- */
 .main-content {
   flex: 1;
@@ -901,6 +978,9 @@ a:focus {
   .main-content { padding: var(--spacing-lg) var(--spacing-md); }
   .pov-controls { flex-direction: column; align-items: flex-start; }
   .page-hero-image { height: 180px; }
+  .site-search { width: 100%; }
+  .site-search__input { width: 100%; }
+  .site-search__results { width: 100%; max-width: 100%; }
 }
 
 /* --- Focus Visible --- */

@@ -42,6 +42,39 @@ function isContentIncluded(data, filter) {
   return true;
 }
 
+// Drives the eleventyComputed "ogImage" override below: maps a content
+// type's own `image` front-matter field (already used by that layout's own
+// <img> tag - see e.g. character.njk) to the same images/<dir>/ folder, so
+// Open Graph/Twitter Card previews use the same picture as the page itself
+// instead of requiring a second, separately-maintained field.
+const OG_IMAGE_DIRS = {
+  "character.njk": "characters",
+  "lore-entry.njk": "lore",
+  "codex.njk": "codex",
+  "glossary-entry.njk": "glossary"
+};
+
+// Site-wide fallback for any page with no page-specific image (chapters,
+// listing pages, etc.) - returned outright rather than left for the
+// template to fall back on, since Nunjucks' `default` filter only
+// substitutes for `undefined`, not `null`, and would otherwise silently
+// pass a null image straight through to the absoluteUrl filter.
+const DEFAULT_OG_IMAGE = "/images/hero/home-launch.jpg";
+
+function computeOgImage(data) {
+  const dir = OG_IMAGE_DIRS[data.layout];
+  return dir && data.image ? `/images/${dir}/${data.image}` : DEFAULT_OG_IMAGE;
+}
+
+// Drives the eleventyComputed "ogType" override below: "article" for an
+// actual content leaf, "website" for everything else (the homepage, and
+// every listing/index page).
+const ARTICLE_LAYOUTS = new Set(["character.njk", "lore-entry.njk", "codex.njk", "glossary-entry.njk", "chapter.njk"]);
+
+function computeOgType(data) {
+  return ARTICLE_LAYOUTS.has(data.layout) ? "article" : "website";
+}
+
 module.exports = function(eleventyConfig) {
   const contentFilter = getContentFilter();
   // See getRelatedContentUrls's own comment: pulls in whatever lore,
@@ -65,6 +98,28 @@ module.exports = function(eleventyConfig) {
   // set of pathname-mapped discussions alongside the cPanel domains'.
   eleventyConfig.addGlobalData("commentsEnabled", String(process.env.COMMENTS_ENABLED || "true").trim().toLowerCase() !== "false");
 
+  // Forker-facing override for the ~200 layout/content files that hardcode
+  // "/star-rangers/" in absolute links (this project's own GitHub Pages
+  // URL - see the NOTE in .cpanel.yml for why: Eleventy's own pathPrefix
+  // stays "/" throughout this config, so every absolute href needs that
+  // segment written out by hand for GitHub Pages' /star-rangers/
+  // project-site subpath to resolve at all). Forking this repo under a
+  // different name/host means setting SITE_PATH_PREFIX once instead of
+  // hand-editing every file it appears in. Unset (this project's own
+  // local/CI/GitHub Pages builds never set it) leaves output byte-for-byte
+  // unchanged, and cPanel builds don't need it either -
+  // scripts/cpanel-deploy.sh already strips this same prefix with its own
+  // post-build sed step, independently of this.
+  const sitePathPrefix = process.env.SITE_PATH_PREFIX;
+  if (sitePathPrefix && sitePathPrefix !== "/star-rangers/") {
+    eleventyConfig.addTransform("rewriteSitePathPrefix", function (content, outputPath) {
+      if (outputPath && /\.(html|css|js|xml|txt)$/.test(outputPath)) {
+        return content.split("/star-rangers/").join(sitePathPrefix);
+      }
+      return content;
+    });
+  }
+
   // Wires up the :::pov / :::::scene custom containers used in chapter
   // content (see lib/markdown-containers.js) - without this, markdown-it
   // has no idea what those fences mean and renders them as literal text.
@@ -82,6 +137,11 @@ module.exports = function(eleventyConfig) {
   // renders it so its Sitemap line can carry the right absolute domain
   // per deploy target (see src/_data/site.js and scripts/cpanel-deploy.sh).
   eleventyConfig.addPassthroughCopy({ "src/static/.well-known": ".well-known" });
+
+  // Nunjucks' own built-in `slice` filter splits an array into N groups
+  // (Jinja2's "columnize" behavior) rather than taking the first N items,
+  // so the Atom feed (src/feed.njk) needs its own "first N" filter instead.
+  eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
 
   eleventyConfig.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("LLLL d, yyyy");
@@ -111,6 +171,10 @@ module.exports = function(eleventyConfig) {
       (loreCollection || []).find((item) => item.data.title === term);
     return `/star-rangers${match ? match.url : "/glossary/"}`;
   });
+
+  // For the Atom feed (src/feed.njk) - formats a chapter's real-world
+  // `date` (see lib/content-schema.js) as an RFC 3339 timestamp.
+  eleventyConfig.addFilter("dateToRfc3339", (dateObj) => DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO());
 
   // Groups the flat scenePovPages global data (src/_data/scenePovPages.js)
   // back into per-scene lists of characters for one chapter, so chapter.njk
@@ -157,6 +221,16 @@ module.exports = function(eleventyConfig) {
       )
   );
 
+  // Same "chapters" set, newest real-world `date` first rather than story
+  // order - what the Atom feed (src/feed.njk) actually wants to announce.
+  eleventyConfig.addCollection("recentChapters", (collectionApi) =>
+    collectionApi
+      .getAll()
+      .filter((item) => item.data.layout === "chapter.njk")
+      .filter((item) => isChapterIncluded(item.data, contentFilter))
+      .sort((a, b) => b.date - a.date)
+  );
+
   eleventyConfig.addCollection("glossary", (collectionApi) =>
     collectionApi.getAll()
       .filter((item) => item.data.layout === "glossary-entry.njk")
@@ -180,7 +254,9 @@ module.exports = function(eleventyConfig) {
   // a no-op whenever contentFilter.active is false.
   eleventyConfig.addGlobalData("eleventyComputed", {
     layout: (data) => (isContentIncluded(data, contentFilter) ? data.layout : "excluded.njk"),
-    title: (data) => (isContentIncluded(data, contentFilter) ? data.title : "Not included in this edition")
+    title: (data) => (isContentIncluded(data, contentFilter) ? data.title : "Not included in this edition"),
+    ogImage: (data) => computeOgImage(data),
+    ogType: (data) => computeOgType(data)
   });
 
   return {

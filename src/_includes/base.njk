@@ -6,6 +6,18 @@
   <meta name="description" content="{{ description | default(site.description) }}" />
   <title>{% if title %}{{ title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <link rel="stylesheet" href="/star-rangers/css/main.css" />
+  <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — New Episodes" href="{{ '/feed/feed.xml' | absoluteUrl(site.url) }}" />
+
+  <meta property="og:site_name" content="{{ site.name }}" />
+  <meta property="og:type" content="{{ ogType }}" />
+  <meta property="og:title" content="{{ title | default(site.title) }}" />
+  <meta property="og:description" content="{{ description | default(site.description) }}" />
+  <meta property="og:url" content="{{ page.url | absoluteUrl(site.url) }}" />
+  <meta property="og:image" content="{{ ogImage | absoluteUrl(site.url) }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ title | default(site.title) }}" />
+  <meta name="twitter:description" content="{{ description | default(site.description) }}" />
+  <meta name="twitter:image" content="{{ ogImage | absoluteUrl(site.url) }}" />
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -30,15 +42,29 @@
           <li><a href="/star-rangers/about/" {% if "/about/" in page.url %}aria-current="page"{% endif %}>About</a></li>
         </ul>
       </nav>
+      <div class="site-search" data-pagefind-bundle="/star-rangers/pagefind/" data-pagefind-ignore>
+        <form class="site-search__form" role="search" aria-label="Search the site">
+          <input
+            type="search"
+            class="site-search__input"
+            id="site-search-input"
+            placeholder="Search…"
+            autocomplete="off"
+            aria-expanded="false"
+            aria-controls="site-search-results"
+          />
+        </form>
+        <div class="site-search__results" id="site-search-results" hidden></div>
+      </div>
     </div>
   </header>
 
-  <main id="main-content" class="main-content">
+  <main id="main-content" class="main-content" data-pagefind-body>
     {{ content | safe }}
 
     {% if comments and commentsEnabled %}
     {% set commentsCategoryConfig = giscus.categories[commentsCategory] %}
-    <section class="site-comments" aria-label="Comments">
+    <section class="site-comments" aria-label="Comments" data-pagefind-ignore>
       <h2 class="site-comments__heading">Discussion</h2>
       <script src="https://giscus.app/client.js"
         data-repo="{{ giscus.repo }}"
@@ -99,5 +125,6 @@
   </footer>
 
   <script src="/star-rangers/js/pov.js" defer></script>
+  <script src="/star-rangers/js/search.js" defer></script>
 </body>
 </html>

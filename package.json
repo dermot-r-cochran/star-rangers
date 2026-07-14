@@ -4,9 +4,10 @@
   "description": "The stars call us forward with hope; to protect what is good and to see what is true.",
   "main": "index.js",
   "scripts": {
-    "build": "eleventy",
+    "build": "eleventy && pagefind --site _site",
     "start": "eleventy --serve",
-    "test": "eleventy --dryrun",
+    "test": "node scripts/validate-content.js && eleventy --dryrun",
+    "new": "node scripts/new-content.js",
     "generate-themes": "node scripts/generate-themes.js",
     "fetch-giscus-ids": "node scripts/fetch-giscus-ids.js"
   },
@@ -16,7 +17,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/dermot-r-cochran/star-rangers/issues"
@@ -28,6 +29,7 @@
     "gray-matter": "^4.0.3",
     "luxon": "^3.7.2",
     "markdown-it": "^14.2.0",
-    "markdown-it-container": "^4.0.0"
+    "markdown-it-container": "^4.0.0",
+    "pagefind": "^1.5.2"
   }
 }

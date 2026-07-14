@@ -42,6 +42,8 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 | **Theories & Predictions** | Open discussion |
 | **Fan Creations** | Open discussion |
 
+**Fan Creations** is for links and discussion, not hosting: full fan fiction belongs on [AO3](https://archiveofourown.org/) or [Wattpad](https://www.wattpad.com/), not in this repo or its Discussions — see the About page's "Fan fiction" section for the pointer given to readers.
+
 ### One-time setup
 
 1. Create the public `Star-Rangers/sciencefiction-site-comments` repo (README-only is fine — it exists purely to host Discussions).
@@ -84,12 +86,48 @@ Grouped by storyline thread — see [Site sections](#site-sections) and `lib/sto
 
 Current version: **1.5.0**. See [`CHANGELOG.md`](./CHANGELOG.md) for the full version history — lore/canon changes, deployment features, and fixes are all tracked there under [Semantic Versioning](https://semver.org/).
 
+## License
+
+This repository carries two separate licences, so the engine can be freely forked without implying any rights over the story itself:
+
+- **Code** (`.eleventy.js`, `lib/`, `src/_includes/`, `src/css/`, `src/js/`, `scripts/`, and everything else not listed below): **MIT** — see [`LICENSE`](./LICENSE). Fork it, run it for your own site, adapt it freely.
+- **Story content** (`src/seasons/`, `src/threads/`, `src/characters/`, `src/timeline/`, `src/lore/`, `src/glossary/`, `src/codex/`, `story-bible/`, `prompts/`): **CC BY-NC-ND 4.0** — see [`CONTENT-LICENSE.md`](./CONTENT-LICENSE.md). Share it non-commercially with attribution, but don't redistribute adapted/derivative versions of *Star Rangers* itself — **except** non-commercial fan works (fan fiction, fan art, and fan fiction clones of this repo), which `CONTENT-LICENSE.md`'s Fan Works Policy explicitly permits.
+
+If you fork this repo to run your own **original** interactive fiction site, replace everything under the content paths above with your own writing before publishing. If you're forking it as a **Star Rangers fan work** instead, see the Fan Works Policy — you can keep some or all of the existing content, non-commercially and clearly labeled as unofficial.
+
+See **[`FORKING.md`](./FORKING.md)** for the full step-by-step guide either way — rebranding, the `/star-rangers/` path prefix, setting up your own comments repo, and deployment.
+
 ## Local development
 
 ```bash
 npm install
 npm run start
 ```
+
+## Search
+
+Full-text search across every page is powered by [Pagefind](https://pagefind.app/), which indexes the built `_site/` output — `npm run build` runs `eleventy && pagefind --site _site`, so search only works after a real build, not under `npm start`'s dev server (the search box just does nothing there, since there's no index yet). The search box lives in the header (`src/_includes/base.njk`); its logic is a small hand-rolled script, `src/js/search.js`, using Pagefind's JS API directly rather than its prebuilt `pagefind-ui` widget, so it could be styled to match the site's own dark theme (see `main.css`'s `/* --- Search --- */` section) instead of overriding another package's bundled CSS.
+
+Only `<main data-pagefind-body>`'s content is indexed — breadcrumbs, "back to X" footers, pagination, and the comments widget all carry `data-pagefind-ignore` so they don't pollute every single page's indexed text with the same nav boilerplate. `data-pagefind-bundle` on the search widget carries the same `/star-rangers/` prefix as every other internal link (see `SITE_PATH_PREFIX` above), so it's rewritten automatically for cPanel and for forks.
+
+## RSS/Atom feed and social previews
+
+`src/feed.njk` renders an Atom feed at `/feed/feed.xml`, autodiscoverable via a `<link rel="alternate">` tag in `base.njk`'s `<head>`. It lists the 20 most recently *published* chapters (newest first) from the `recentChapters` collection — a real-world `date` (`YYYY-MM-DD`) front-matter field, distinct from a chapter's in-universe `timestamp` string, since a feed reader needs to know when something was actually released, not when its story events occur. `npm run new -- chapter` sets `date` automatically to the day the file is created; the 13 chapters that predate this feature were backfilled from each file's own first git commit date.
+
+Every page also carries Open Graph and Twitter Card meta tags (`base.njk`'s `<head>`), so links shared on Discord/Reddit/etc. get a title, description, and image preview instead of a bare URL. The image is computed per page type (`.eleventy.js`'s `eleventyComputed.ogImage`) from the same `image` field each layout's own `<img>` tag already uses — no second field to maintain — falling back to the homepage's hero image for chapters and listing pages, which have no single obvious picture of their own.
+
+## Adding content
+
+`npm run new` scaffolds a new character, lore entry, codex entry, glossary entry, or chapter — it prompts for each type's required fields and writes the file with the correct front-matter shape, so you don't need to memorize a layout's exact fields by hand:
+
+```bash
+npm run new                # prompts for which type too
+npm run new -- character    # skips straight to that type's prompts
+```
+
+(Timeline entries aren't covered — they use `layout: base.njk` with hand-written HTML in the body rather than a dedicated layout, so there's no single shape to scaffold; copy an existing one instead.)
+
+`npm run test` (see below) runs `scripts/validate-content.js` first, which checks every content file's front matter against `lib/content-schema.js` — the same schema `npm run new` scaffolds from — and fails with a clear per-file message (missing field, non-numeric season/episode/chapter, a chapter's `id` disagreeing with its filename, etc.) instead of a blank page or a cryptic Nunjucks error surfacing later.
 
 ## Build and validation
 
