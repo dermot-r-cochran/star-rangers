@@ -8,12 +8,24 @@
 // https://giscus.app, then paste the generated data-repo-id/data-category-id
 // pairs in below. See README.md's "Discussion forum" section for the full
 // category setup this maps onto.
-module.exports = {
-  repo: "Star-Rangers/sciencefiction-site-comments",
-  repoId: "REPLACE_WITH_REPO_ID",
-  categories: {
-    characters: { name: "Characters", id: "REPLACE_WITH_CATEGORY_ID" },
-    lore: { name: "Lore & Worldbuilding", id: "REPLACE_WITH_CATEGORY_ID" },
-    episodes: { name: "Episode Discussion", id: "REPLACE_WITH_CATEGORY_ID" }
-  }
+//
+// GISCUS_REPO/GISCUS_REPO_ID/GISCUS_CATEGORY_{CHARACTERS,LORE,EPISODES}_ID
+// let one cPanel clone point at its own, separate comments repo instead of
+// the shared default below - scripts/cpanel-deploy.sh exports these from
+// deploy.conf the same way it does THEME/SITE_NAME/etc (see that script and
+// sample-deploy.conf). This is for a domain whose readers shouldn't share a
+// Discussions board with the main site's - e.g. church-space.site/.online
+// using Star-Rangers/churchspace-site-comments - not for routine per-domain
+// customization, since every clone sharing one comments repo (the default,
+// unset case) is what keeps community discussion in one place.
+module.exports = function () {
+  return {
+    repo: process.env.GISCUS_REPO || "Star-Rangers/sciencefiction-site-comments",
+    repoId: process.env.GISCUS_REPO_ID || "REPLACE_WITH_REPO_ID",
+    categories: {
+      characters: { name: "Characters", id: process.env.GISCUS_CATEGORY_CHARACTERS_ID || "REPLACE_WITH_CATEGORY_ID" },
+      lore: { name: "Lore & Worldbuilding", id: process.env.GISCUS_CATEGORY_LORE_ID || "REPLACE_WITH_CATEGORY_ID" },
+      episodes: { name: "Episode Discussion", id: process.env.GISCUS_CATEGORY_EPISODES_ID || "REPLACE_WITH_CATEGORY_ID" }
+    }
+  };
 };

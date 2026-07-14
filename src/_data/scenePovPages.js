@@ -95,7 +95,7 @@ module.exports = function() {
       const sceneImageAlts = data.scene_image_alts || {};
 
       for (const pov of scene.povs) {
-        const included = isCharacterPovIncluded(pov.id, filter);
+        const included = isCharacterPovIncluded(pov.id, filter, data);
         entries.push({
           chapterId: data.id,
           chapterTitle: data.title,
