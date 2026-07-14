@@ -31,7 +31,7 @@ Four of the comments repo's Discussion categories are mapped to page types (gisc
 | --- | --- | --- |
 | **Characters** | Announcement (locked) | `/characters/*` |
 | **Lore & Worldbuilding** | Announcement (locked) | `/lore/*`, `/glossary/*`, `/codex/*` |
-| **Episode Discussion** | Announcement (locked) | `/seasons/**` (chapters and per-POV scenes) |
+| **Episodes Discussion** | Announcement (locked) | `/seasons/**` (chapters and per-POV scenes) |
 | **Journal** | Announcement (locked) | `/journal/*` |
 
 Characters/lore/glossary/codex/journal pages map by `pathname` — their URL never changes once created, so pathname is a safe permanent identity. Chapters and per-POV scene pages don't have that guarantee: episodes get renumbered in place to keep story chronology in order (see `CHANGELOG.md`'s "renumbered" entries), which reassigns a URL like `/seasons/s00/e02/s00e02c01/` to different content entirely. Mapping those by pathname would silently attach an existing discussion to whatever content now lives at that URL, losing the original page's comment context. Chapters instead map by `data-mapping="specific"` on a permanent `comment_id` front-matter field (required — see `lib/content-schema.js`), independent of the `id`/URL derived from season/episode/chapter; scene pages derive their own term from their parent chapter's `comment_id` plus scene/character (`src/scene-pov.njk`'s `eleventyComputed`). `comment_id` is set once (`npm run new -- chapter` generates it from the title) and must never be regenerated — if a chapter is renumbered, its `comment_id` moves with it so its discussion thread stays attached to the same content, while whatever content takes over the vacated slot gets its own fresh `comment_id`. `scripts/validate-content.js` fails the build if two chapters ever collide on the same `comment_id`.
@@ -53,7 +53,7 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 `src/_data/giscus.js`'s repo/repoId/category IDs are all overridable per cPanel clone via `GISCUS_REPO`, `GISCUS_REPO_ID`, and `GISCUS_CATEGORY_CHARACTERS_ID`/`GISCUS_CATEGORY_LORE_ID`/`GISCUS_CATEGORY_EPISODES_ID`/`GISCUS_CATEGORY_JOURNAL_ID` in that clone's `deploy.conf` (or `ALT_<id>_GISCUS_*` for an `ALT_DOMAINS` entry) — see the keys table below. This is for a domain whose readers shouldn't share a Discussions board with the main site's, not routine customization: every clone left unset shares the one default repo above, which is what keeps community discussion in one place. The church-space.site/.online deployment (see `THREADS` and the private "Church Space" thread below) is the current example — it uses its own **`Star-Rangers/churchspace-site-comments`** repo, set up exactly like the default one:
 
 1. Create the public `Star-Rangers/churchspace-site-comments` repo and enable Discussions on it, the same as step 1-2 above.
-2. Create the same 9 categories in it (Characters, Lore & Worldbuilding, Episode Discussion, Journal, Announcements, General, Q&A, Theories & Predictions, Fan Creations).
+2. Create the same 9 categories in it (Characters, Lore & Worldbuilding, Episodes Discussion, Journal, Announcements, General, Q&A, Theories & Predictions, Fan Creations).
 3. Install the [giscus app](https://github.com/apps/giscus) on it.
 4. Fetch its IDs with `GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js --repo Star-Rangers/churchspace-site-comments` — `--repo` targets a non-default comments repo and only ever prints (never `--write`, since that patches `src/_data/giscus.js`'s own single default). Paste the five printed values into the church-space clone's `deploy.conf` as `GISCUS_REPO`/`GISCUS_REPO_ID`/`GISCUS_CATEGORY_CHARACTERS_ID`/`GISCUS_CATEGORY_LORE_ID`/`GISCUS_CATEGORY_EPISODES_ID`/`GISCUS_CATEGORY_JOURNAL_ID` (or the matching `ALT_<id>_GISCUS_*` keys — see `sample-deploy.conf`'s church-space example block).
 
@@ -65,7 +65,7 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 4. Install the [giscus app](https://github.com/apps/giscus) on that repo (not this one).
 5. Get the repo ID and the four category IDs one of two ways:
    - **Script** (fetches all five in one call): `GITHUB_TOKEN=ghp_xxx npm run fetch-giscus-ids -- --write`, using a [personal access token](https://github.com/settings/tokens) (classic, no scopes needed to read a public repo's Discussions). This patches `src/_data/giscus.js` directly — see `scripts/fetch-giscus-ids.js`'s header comment for options. Drop `--write` to just print the values first.
-   - **giscus.app wizard**: visit [giscus.app](https://giscus.app), enter `Star-Rangers/sciencefiction-site-comments`, choose **pathname** as the page ↔ discussion mapping, and select **Characters** as the category — the generated snippet includes a `data-repo-id` (same for every category) and a `data-category-id` (specific to Characters). Repeat just the category-selection step for **Lore & Worldbuilding**, **Episode Discussion**, and **Journal** to get their category IDs too, then paste all five values into `src/_data/giscus.js` by hand, replacing the `REPLACE_WITH_*` placeholders.
+   - **giscus.app wizard**: visit [giscus.app](https://giscus.app), enter `Star-Rangers/sciencefiction-site-comments`, choose **pathname** as the page ↔ discussion mapping, and select **Characters** as the category — the generated snippet includes a `data-repo-id` (same for every category) and a `data-category-id` (specific to Characters). Repeat just the category-selection step for **Lore & Worldbuilding**, **Episodes Discussion**, and **Journal** to get their category IDs too, then paste all five values into `src/_data/giscus.js` by hand, replacing the `REPLACE_WITH_*` placeholders.
 
 Until step 5 is done, the comment widgets render but won't load (giscus rejects placeholder IDs), so it's safe to ship the templates ahead of finishing setup.
 
@@ -195,7 +195,7 @@ COMMENTS_ENABLED=true
 | `GISCUS_REPO_ID` | *(unset — shared default repo's ID)* | That repo's numeric ID, from `fetch-giscus-ids.js --repo` or the giscus.app wizard. Required if `GISCUS_REPO` is set. |
 | `GISCUS_CATEGORY_CHARACTERS_ID` | *(unset — shared default's ID)* | That repo's "Characters" category ID. Required if `GISCUS_REPO` is set. |
 | `GISCUS_CATEGORY_LORE_ID` | *(unset — shared default's ID)* | That repo's "Lore & Worldbuilding" category ID. Required if `GISCUS_REPO` is set. |
-| `GISCUS_CATEGORY_EPISODES_ID` | *(unset — shared default's ID)* | That repo's "Episode Discussion" category ID. Required if `GISCUS_REPO` is set. |
+| `GISCUS_CATEGORY_EPISODES_ID` | *(unset — shared default's ID)* | That repo's "Episodes Discussion" category ID. Required if `GISCUS_REPO` is set. |
 | `GISCUS_CATEGORY_JOURNAL_ID` | *(unset — shared default's ID)* | That repo's "Journal" category ID. Required if `GISCUS_REPO` is set. |
 | `DEPLOY_PRIMARY` | `true` | Set `false` to skip deploying to `/home/<CPANEL_USER>/public_html/` entirely — for an account whose `public_html` is reserved for something else (or left parked) and should only serve one or more `ALT_DOMAINS` below. |
 
