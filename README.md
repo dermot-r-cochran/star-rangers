@@ -48,8 +48,9 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 2. In that repo's Settings → General → Features, enable **Discussions**.
 3. In its Discussions tab, use the categories gear icon to create the 8 categories above (GitHub seeds a few defaults like "Ideas"/"Polls" — rename or delete those rather than leaving stragglers).
 4. Install the [giscus app](https://github.com/apps/giscus) on that repo (not this one).
-5. Visit [giscus.app](https://giscus.app), enter `Star-Rangers/sciencefiction-site-comments`, choose **pathname** as the page ↔ discussion mapping, and select **Characters** as the category — the generated snippet includes a `data-repo-id` (same for every category) and a `data-category-id` (specific to Characters). Repeat just the category-selection step for **Lore & Worldbuilding** and **Episode Discussion** to get their category IDs too.
-6. Paste the repo ID and the three category IDs into `src/_data/giscus.js`, replacing the `REPLACE_WITH_*` placeholders.
+5. Get the repo ID and the three category IDs one of two ways:
+   - **Script** (fetches all four in one call): `GITHUB_TOKEN=ghp_xxx npm run fetch-giscus-ids -- --write`, using a [personal access token](https://github.com/settings/tokens) (classic, no scopes needed to read a public repo's Discussions). This patches `src/_data/giscus.js` directly — see `scripts/fetch-giscus-ids.js`'s header comment for options. Drop `--write` to just print the values first.
+   - **giscus.app wizard**: visit [giscus.app](https://giscus.app), enter `Star-Rangers/sciencefiction-site-comments`, choose **pathname** as the page ↔ discussion mapping, and select **Characters** as the category — the generated snippet includes a `data-repo-id` (same for every category) and a `data-category-id` (specific to Characters). Repeat just the category-selection step for **Lore & Worldbuilding** and **Episode Discussion** to get their category IDs too, then paste all four values into `src/_data/giscus.js` by hand, replacing the `REPLACE_WITH_*` placeholders.
 
 Until step 5 is done, the comment widgets render but won't load (giscus rejects placeholder IDs), so it's safe to ship the templates ahead of finishing setup.
 
