@@ -24,9 +24,9 @@ module.exports = function () {
     repoId: process.env.GISCUS_REPO_ID || "R_kgDOTXRNGg",
     categories: {
       characters: { name: "Characters", id: process.env.GISCUS_CATEGORY_CHARACTERS_ID || "DIC_kwDOTXRNGs4DBHee" },
-      lore: { name: "Lore & Worldbuilding", id: process.env.GISCUS_CATEGORY_LORE_ID || "REPLACE_WITH_CATEGORY_ID" },
+      lore: { name: "Lore & Worldbuilding", id: process.env.GISCUS_CATEGORY_LORE_ID || "DIC_kwDOTXRNGs4DBIwv" },
       episodes: { name: "Episodes Discussion", id: process.env.GISCUS_CATEGORY_EPISODES_ID || "DIC_kwDOTXRNGs4DBIw2" },
-      journal: { name: "Journal", id: process.env.GISCUS_CATEGORY_JOURNAL_ID || "REPLACE_WITH_CATEGORY_ID" }
+      journal: { name: "Journal", id: process.env.GISCUS_CATEGORY_JOURNAL_ID || "DIC_kwDOTXRNGs4DBMgM" }
     }
   };
 };
