@@ -9,26 +9,26 @@ institution: "Monastic scriptorium, Cill Aoife, Ireland"
 location: "Copied and recopied through the medieval and early modern period; the Currach Fleet's founding scriptorium carried a nineteenth-century transcription off Earth in 2561–2589 UCSD; the Celtic Union's Ceridwen Archive on Aethelrock holds the currently cited copy."
 ---
 
-**IN THIS YEAR OF OUR LORD 1216**
+**IN THE YEAR 1216**
 **Written by the hand of Brother Daire, unworthy, at the request of the community**
 
 ---
 
 I set down here what is known of Aoife, daughter of no house the record troubles itself to name, so that her life not pass from memory as so many quieter lives do.
 
-She came to the well at Cill Aoife in her fourteenth year, already known among the townland for a stillness that unsettled the older women more than it reassured them. She kept no husband, took no dowry offered her, and spent her days at the thorn well tending the sick who came there for the water's healing repute, long before the Church had cause to take notice of her at all.
+She came to the well at Cill Aoife in her fourteenth year, already known among the townland for a stillness that unsettled the older women more than it reassured them. She kept no husband, took no dowry offered her, and spent her days at the thorn well tending the sick who came there for the water's healing repute, long before any higher devotional authority had cause to take notice of her at all.
 
 ### The Vision at the Thorn Well
 
-In the spring of her thirtieth year, on the eve of Saint Brigid's own feast, Aoife kept vigil at the well alone, as was her habit. What she saw there she would not describe fully even to her confessor, and what follows is assembled from the fragments she permitted to be recorded, in her own words as best preserved:
+In the spring of her thirtieth year, on the eve of Saint Muirenn's own feast, Aoife kept vigil at the well alone, as was her habit. What she saw there she would not describe fully even to the one who heard her most private accounts, and what follows is assembled from the fragments she permitted to be recorded, in her own words as best preserved:
 
-> *"The air over the water folded as cloth folds, and did not tear where it folded. I saw a shape too great for the well's clearing to hold, and yet the clearing held it. It did not walk toward me. It was already at every distance at once. I knew it for Brigid, for who else comes to a well on her own eve — and yet I confess before God that nothing about the shape resembled the good Sister as she is carved above our altar. It spoke without a voice I could place in my ears. It named things in me I had not named myself. Then the folding reversed, and the clearing was only a clearing, and the water in the well ran warm for three days after, though the well had never once run warm in all the years I tended it."*
+> *"The air over the water folded as cloth folds, and did not tear where it folded. I saw a shape too great for the well's clearing to hold, and yet the clearing held it. It did not walk toward me. It was already at every distance at once. I knew it for Muirenn, for who else comes to a well on her own eve — and yet I confess that nothing about the shape resembled the good Sister as she is carved above our shrine. It spoke without a voice I could place in my ears. It named things in me I had not named myself. Then the folding reversed, and the clearing was only a clearing, and the water in the well ran warm for three days after, though the well had never once run warm in all the years I tended it."*
 
 The sick she treated with that well-water in the days following recovered at a rate the community still speaks of, when it speaks of her at all. Aoife herself would say only that she had been *shown*, not *healed*, and drew a distinction between the two that Brother Daire confesses he did not, at the time, understand.
 
 ### Her Later Years
 
-She died in the winter of 1241, having refused three offers to enter a formal religious house, tending the well and its petitioners to the end. Her canonisation followed the slow, informal path common to local devotions of the period: no Roman process, no official decree that survives in any archive Brother Daire's community kept — only a persistence of the title *Saint* in common usage, granted by the townland long before any higher authority troubled itself to confirm or deny it.
+She died in the winter of 1241, having refused three offers to enter a formal religious house, tending the well and its petitioners to the end. Her recognition as a saint followed the slow, informal path common to local devotions of the period: no process from any higher authority, no official decree that survives in any archive Brother Daire's community kept — only a persistence of the title *Saint* in common usage, granted by the townland long before any higher authority troubled itself to confirm or deny it.
 
 Her feast is kept locally on the anniversary of the vision, not of her death — a choice the community made without recorded debate, as though the answer required none.
 
