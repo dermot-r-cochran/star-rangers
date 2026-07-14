@@ -6,7 +6,8 @@
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve",
-    "test": "eleventy --dryrun",
+    "test": "node scripts/validate-content.js && eleventy --dryrun",
+    "new": "node scripts/new-content.js",
     "generate-themes": "node scripts/generate-themes.js",
     "fetch-giscus-ids": "node scripts/fetch-giscus-ids.js"
   },

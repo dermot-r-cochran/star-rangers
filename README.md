@@ -104,6 +104,19 @@ npm install
 npm run start
 ```
 
+## Adding content
+
+`npm run new` scaffolds a new character, lore entry, codex entry, glossary entry, or chapter — it prompts for each type's required fields and writes the file with the correct front-matter shape, so you don't need to memorize a layout's exact fields by hand:
+
+```bash
+npm run new                # prompts for which type too
+npm run new -- character    # skips straight to that type's prompts
+```
+
+(Timeline entries aren't covered — they use `layout: base.njk` with hand-written HTML in the body rather than a dedicated layout, so there's no single shape to scaffold; copy an existing one instead.)
+
+`npm run test` (see below) runs `scripts/validate-content.js` first, which checks every content file's front matter against `lib/content-schema.js` — the same schema `npm run new` scaffolds from — and fails with a clear per-file message (missing field, non-numeric season/episode/chapter, a chapter's `id` disagreeing with its filename, etc.) instead of a blank page or a cryptic Nunjucks error surfacing later.
+
 ## Build and validation
 
 ```bash
