@@ -71,8 +71,21 @@
         data-repo-id="{{ giscus.repoId }}"
         data-category="{{ commentsCategoryConfig.name }}"
         data-category-id="{{ commentsCategoryConfig.id }}"
+        {% if comment_id %}
+        data-mapping="specific"
+        data-term="{{ comment_id }}"
+        {% else %}
         data-mapping="pathname"
-        data-strict="0"
+        {% endif %}
+        {# Exact-title match, not a loose/substring search: without this, a
+           chapter's own comment_id (e.g. "unauthorised-therefore") could
+           loosely match a scene's, which is that same term plus a suffix
+           (e.g. "unauthorised-therefore-scene-1-adaeze") - pulling in the
+           wrong discussion instead of showing "no comments yet." Also what
+           makes a stale comment_id (e.g. a deleted chapter's) fail
+           gracefully: with no exact-title discussion to find, giscus just
+           shows an empty thread rather than guessing at a near match. #}
+        data-strict="1"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"

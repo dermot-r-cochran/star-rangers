@@ -8,4 +8,9 @@ layout: scene-pov.njk
 eleventyComputed:
   title: "{{ item.character.label }} — Scene {{ item.sceneNumber }} — {{ item.chapterTitle }}"
   description: "{{ item.character.label }}'s point of view of Scene {{ item.sceneNumber }} in \"{{ item.chapterTitle }}\"."
+  # Ties this page's giscus discussion to its parent chapter's permanent
+  # comment_id (see lib/content-schema.js) plus scene/character, rather than
+  # this page's own pathname - so a discussion started here stays attached
+  # to this exact scene/POV even if the parent chapter is later renumbered.
+  comment_id: "{{ item.chapterCommentId }}-scene-{{ item.sceneNumber }}-{{ item.character.id }}"
 ---

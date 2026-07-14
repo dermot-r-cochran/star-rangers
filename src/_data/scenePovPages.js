@@ -98,6 +98,7 @@ module.exports = function() {
         const included = isCharacterPovIncluded(pov.id, filter, data);
         entries.push({
           chapterId: data.id,
+          chapterCommentId: data.comment_id,
           chapterTitle: data.title,
           chapterUrl,
           season,
