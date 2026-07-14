@@ -28,7 +28,7 @@ The MSC was benevolent in intent and technocratic by design. Its senior officers
 
 > "We tried democracy. The result was forty years of the Coherence Wars and three billion dead. I would rather be called a tyrant than repeat the experiment."
 >
-> — General Maren Solveig Krast, address to the Outer Stations Consolidation Hearing, 2689 UCSD
+> — General Maren Solveig Krast, address to the Outer Stations Consolidation Hearing, 2719 UCSD
 
 Inside MSC culture, this quote was taught as defensible institutional memory.
 

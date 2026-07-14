@@ -6,10 +6,9 @@ What's actually written versus what the story bible and site copy have already c
 
 ## Season 0 — Founding Era (2712–2723 UCSD)
 
-Fully described (`src/seasons/s00/index.md`), zero chapters written — the season page renders "No chapters published yet."
-
-- [ ] At least one chapter establishing the pre-Charter Military Space Command era
-- [ ] The fracture that makes the Star Rangers "both necessary and possible" (per the season's own intro copy) — dramatized, not just asserted
+- [x] E01C01 — "Supplementary Material": the *Constant Margin*'s unauthorised 2712 UCSD departure, dramatizing Dr. Ysolde Maren Pitch's buried navigation model and the MSC's committee-speed failure to act on it in time — the first thread of the pre-Charter fracture, told from the scientist who built the correct answer and the captain who used it without waiting for it to be confirmed.
+- [ ] The fracture continuing to widen: the *Patience First*'s 2714 disappearance and its institutional aftermath — not yet dramatized, and the crew's eventual 2732 recovery must stay untouched until its own season, per the site's existing deliberate mystery
+- [ ] The Outer Stations Consolidation Hearing of 2719 UCSD and Krast's "We tried democracy..." address — dramatized, not just quoted secondhand in `src/lore/formation-of-star-rangers.md`
 - [ ] Resolves into the founding moment the Charter timeline entry (`src/timeline/2723-star-rangers-charter.md`) already documents from the outside
 
 ## Season 1 — Tissadelle's Arc, Cadet (most complete season — still missing its ending)

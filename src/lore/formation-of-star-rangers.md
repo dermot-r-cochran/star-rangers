@@ -16,7 +16,7 @@ The Star Rangers were not founded because of a dream. They were founded because 
 
 Three pressures converged in the decade after the *Constant Margin* expedition.
 
-**First:** The Eden fold route proved that extrasolar contact was no longer a theory for later centuries. It was a present operational fact, and civilians were already living beside it.
+**First:** The Eden fold route proved that extrasolar contact was no longer a theory for later centuries. It was a present operational fact, and civilians were already living beside it. See [Supplementary Material (S00E01C01)](/star-rangers/seasons/s00/e01/s00e01c01/) for the transit itself, and the buried analysis that made it possible before any committee finished reading it.
 
 **Second:** The MSC's response to Eden left a paper trail visible to anyone patient enough to file for it: fourteen months to reach a preliminary report on a first-contact-class discovery, six years to continue the review, and a stack of compliance additions that addressed liability far more effectively than operations.
 

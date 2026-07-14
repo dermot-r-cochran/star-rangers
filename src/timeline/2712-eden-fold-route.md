@@ -34,7 +34,7 @@ The MSC's formal response to the successful transit: classify the navigational d
 - Dr. Ysolde Maren Pitch's navigation model — submitted to the committee as supplementary material — made the *Constant Margin* expedition possible.
 - The MSC's compliance framework additions do not address the operational gap the expedition revealed.
 
-See: [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/), [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/).
+See: [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/), [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/). Dramatized in [Supplementary Material (S00E01C01)](/star-rangers/seasons/s00/e01/s00e01c01/).
 
 </div>
 <footer class="lore-entry__footer">
