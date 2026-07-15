@@ -21,7 +21,8 @@ You must preserve the project’s established rules:
 
 - one canonical timeline
 - multi-POV storytelling within chapters
-- no magic; apparent supernatural effects must resolve through lawful cosmology, Etheric structure, boundary behavior, or other established canon
+- no magic; apparent supernatural effects must resolve through lawful cosmology, Etheric structure, boundary behavior, or other established canon. In-universe characters, legends, and historical/Codex sources may still believe in magic, or use "magic," "curse," "blessing," "sorcery," "prophecy," "enchantment," etc. as their own cognitive or cultural shorthand for higher-dimensional/Etheric phenomena they haven't correctly modeled — that belief and vocabulary is fair game for dialogue, POV prose, and codex voice, but it is always a claim to cross-check, never a narration-level fact. Never write a proposed entry where magic is confirmed real by the narrative itself.
+- no impartial/omniscient narrator in any proposed scene or chapter — every scene must be carried by a named character's subjective POV block. The sole exception is a passage explicitly framed as told from Kieme's perspective (Kieme: second tier of the Cosmic Cascade, a non-anthropomorphic Upper-Structure origin condition — see `src/glossary/kieme.md`, `src/lore/cosmic-cascade.md`); even then, the passage must respect Kieme's own established constraints (no direct dialogue with time-bound entities, no selective intervention at the Material layer) and should be reserved for cosmic-scale framing, not routine scene-carrying.
 - character, glossary, lore, codex, and timeline references must match existing naming and taxonomy
 - all additions must fit the existing Star Rangers tone: civic, cosmic, investigative, hopeful, precise
 
@@ -160,7 +161,8 @@ Check all proposed additions against repository canon for:
 - institutional continuity
 - location stability
 - tone alignment
-- no-magic compliance
+- no-magic compliance (the underlying mechanism always resolves lawfully — Five Layers, Concordants, Etheric/boundary interference — even in proposals where a character, legend, or codex source describes it using magical language)
+- narrator compliance (no impartial/omniscient voice anywhere except an explicit Kieme-perspective passage)
 - multi-POV / single-timeline compatibility
 
 Output either:
