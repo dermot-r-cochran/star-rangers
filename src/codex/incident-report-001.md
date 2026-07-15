@@ -7,6 +7,8 @@ description: "The first official incident report documenting the Dock Seven chro
 author: "Sub-officer Pren Halvard"
 institution: "Survey Corps — Threshold Station Detachment"
 location: "Threshold Station Records Vault (single physical copy, no off-station backup on file)"
+image: "incident-report-001.jpg"
+image_alt: "Designed cover for Incident Report 001: a formal document-style cover with ruled lines and an OFFICIAL stamp on a dark navy background."
 ---
 
 **SURVEY CORPS — THRESHOLD STATION**

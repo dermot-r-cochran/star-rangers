@@ -7,6 +7,8 @@ description: "Externally hosted recording of 'Echoes of Avalon' by the band Aeth
 author: "Aethelrock"
 institution: "External recording — not part of the Survey Archive's own audio holdings"
 location: "Hosted externally on YouTube; no local archival copy"
+image: "clan-avalons-anthem.jpg"
+image_alt: "Designed cover for Clan Avalon's Anthem: a gold serif title over a dark starfield, with a trailing star, in the style of the site's other Aethelrock recording covers."
 ---
 
 **EXTERNAL RECORDING — LINKED, NOT ARCHIVED**

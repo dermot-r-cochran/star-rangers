@@ -7,6 +7,8 @@ description: "Night-watch operations addendum documenting pattern persistence af
 author: "Watch Officer Mera Soln"
 institution: "Threshold Station Operations Desk"
 location: "Threshold Station Operations Annex, Binder C-14, folio 88"
+image: "dock-seven-night-watch-addendum-day-52.jpg"
+image_alt: "Designed cover for the Night Watch Addendum, Day 52: a terminal-style log readout in teal-green scanlines on a dark background."
 ---
 
 **THRESHOLD STATION — OPERATIONS DESK**

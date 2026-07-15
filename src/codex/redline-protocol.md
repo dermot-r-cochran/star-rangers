@@ -7,6 +7,8 @@ description: "The operational protocol governing when a generative system's risk
 author: "Dr. Kwame Reyes-Osei"
 institution: "AI Governance Commission — Doctrine Office"
 location: "AI Governance Commission Archive, Earth"
+image: "redline-protocol.jpg"
+image_alt: "Designed cover for Redline Protocol: a formal document-style cover with ruled lines and an OFFICIAL stamp on a dark navy background."
 ---
 
 **CONCORDANT GOVERNANCE ARCHIVE**

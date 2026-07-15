@@ -7,6 +7,8 @@ description: "Survey maintenance extract from Day 49 documenting the return of t
 author: "Technician N. Isern"
 institution: "Threshold Station Maintenance Division"
 location: "Threshold Station Maintenance Division Archive"
+image: "maintenance-log-day-49-dock-seven.jpg"
+image_alt: "Designed cover for Maintenance Log Day 49: a terminal-style log readout in teal-green scanlines on a dark background."
 ---
 
 **THRESHOLD STATION — MAINTENANCE DIVISION**

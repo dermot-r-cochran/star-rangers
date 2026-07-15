@@ -7,6 +7,8 @@ description: "A Survey Corps xenobiology office review of the six theories in ci
 author: "Field Xenobiologist R. Kestrel-Aonghas, Survey Corps Xenobiology Office"
 institution: "Survey Corps Xenobiology Office, filed jointly with the Celtic Union's own habitability desk"
 location: "Survey Archive, Threshold Station — joint filing, 2826 UCSD"
+image: "tir-na-nog-compatibility-survey-note.jpg"
+image_alt: "Designed cover for the Tír na nÓg compatibility survey note: a formal document-style cover with ruled lines and an OFFICIAL stamp on a dark navy background."
 ---
 
 **JOINT SURVEY NOTE — XENOBIOLOGY OFFICE**

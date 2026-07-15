@@ -7,6 +7,8 @@ description: "An AUC Ledger Office audit dialogue over a recovered transmission 
 author: "Archivist Sen (speakers; transcription unattributed)"
 institution: "AUC Ledger Office — Novelty Audit Desk"
 location: "Survey Archive, Threshold Station (transmission fragment, provenance unconfirmed)"
+image: "paper-galaxies-audit-dialogue.jpg"
+image_alt: "Designed cover for The Paper Galaxy Audit: pale violet quotation marks on a dark muted background, evoking a recovered dialogue transcript."
 ---
 
 *Recovered from a drifting broadcast fragment, signal degraded past any station-of-origin tag. Visual: a single held frame, a singer before a painted, swirling field of light standing in for a galaxy. Audio: one performance, repeating. Filed for Ledger review under standing policy — any artifact claiming public circulation is auditable for [Allocation Units of Cognition (AUC)](/star-rangers/glossary/ai-usage-credits-auc/), whether or not its origin can be confirmed.*

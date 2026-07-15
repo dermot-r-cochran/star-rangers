@@ -7,6 +7,8 @@ description: "The official Survey Corps protocol for boundary monitoring at Thre
 author: "Chief Surveyor Wren Ansell"
 institution: "Survey Corps — Star Rangers"
 location: "Survey Corps Standards Office, Earth (master copy); mirrored to every Threshold-class station by courier update"
+image: "survey-corps-protocol.jpg"
+image_alt: "Designed cover for the Survey Corps Boundary Monitoring Protocol: a formal document-style cover with ruled lines and an OFFICIAL stamp on a dark navy background."
 ---
 
 **SURVEY CORPS**

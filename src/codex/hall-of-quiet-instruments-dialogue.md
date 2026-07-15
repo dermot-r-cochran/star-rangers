@@ -7,6 +7,8 @@ description: "An archived exchange on why some suffering is treated as structura
 author: "Archivist Sen (speakers; transcription unattributed)"
 institution: "Survey Archive"
 location: "Survey Archive, Threshold Station (physical audio recovery); the recorded location itself remains unconfirmed"
+image: "hall-of-quiet-instruments-dialogue.jpg"
+image_alt: "Designed cover for Hall of Quiet Instruments: pale violet quotation marks on a dark muted background, evoking a recovered dialogue transcript."
 ---
 
 *Recovered from Survey Archive audio stock, speaker tags reconstructed from voiceprint. Location given only as "Hall of Quiet Instruments" — no cross-reference to a station manifest has been confirmed.*

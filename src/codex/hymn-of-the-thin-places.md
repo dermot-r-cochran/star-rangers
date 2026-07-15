@@ -7,6 +7,8 @@ description: "The ecumenical hymn most commonly sung at Star Rangers memorials a
 author: "Uncredited — no single Fellowship chapter claims first composition"
 institution: "Fellowship of Light, cross-chapter oral tradition; adopted informally by the Star Rangers"
 location: "No single archival master; verses vary slightly by chapter and by world, refrains do not"
+image: "hymn-of-the-thin-places.jpg"
+image_alt: "Designed cover for Hymn of the Thin Places: a soft violet glow in a dark, ethereal field, evoking a thin place between worlds."
 ---
 
 **FIELD TRANSCRIPTION — COMPOSITE TEXT**

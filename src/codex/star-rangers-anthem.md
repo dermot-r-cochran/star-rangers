@@ -7,6 +7,8 @@ description: "Transcribed lyrics of 'Half-Light Causeway,' the Eden Space Habita
 author: "Slipwave (vocals: Tissadelle Shepherd, pre-enlistment)"
 institution: "Eden Space Habitat civilian arts circuit — no formal Star Rangers commission"
 location: "Habitat-circuit audio stock, Eden Space Habitat; copies carried informally by cadet cohorts, no single archival master"
+image: "star-rangers-anthem.jpg"
+image_alt: "Designed cover for The Star Rangers Anthem: a gold serif title over a dark starfield, with a trailing star, matching the site's other Slipwave recording covers."
 ---
 
 **RECOVERED RECORDING — TRANSCRIPTION**

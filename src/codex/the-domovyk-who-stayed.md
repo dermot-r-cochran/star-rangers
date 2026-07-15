@@ -7,6 +7,8 @@ description: "The opening story from Kate Ukrainka's Tales from the Old Hearth â
 author: "Kate Ukrainka"
 institution: "Hearth & Horizon Press"
 location: "Survey Archive general collection, Threshold Station â€” donated anthology copy, 2824 UCSD printing"
+image: "the-domovyk-who-stayed.jpg"
+image_alt: "Designed cover for The Domovyk Who Stayed: a small warm hearth-flame glow on a dark amber-brown background."
 ---
 
 **THE DOMOVYK WHO STAYED**

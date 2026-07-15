@@ -7,6 +7,8 @@ description: "A picture-book excerpt from the Bramble series — the best-loved 
 author: "Ottoline Farr"
 institution: "Little Orbit Press"
 location: "Children's Reading Room, Survey Archive, Threshold Station — donated copy, 2826 UCSD printing"
+image: "bramble-and-the-backwards-key.jpg"
+image_alt: "Designed cover for Bramble and the Backwards Key: a simple line-art ferret silhouette in warm amber over a dark parchment-brown background, in a storybook style."
 ---
 
 **BRAMBLE AND THE BACKWARDS KEY**
