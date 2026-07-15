@@ -1,4 +1,4 @@
-1	# Star Rangers — Story Bible Import
+# Star Rangers — Story Bible Import
 
 Source: https://github.com/dermot-r-cochran/star-rangers (Eleventy site, `src/` content).
 Each section below maps to a Story Bible field — copy the section body into the matching field.
