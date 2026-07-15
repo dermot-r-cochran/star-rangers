@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Calder's Reach System"
 locationType: "Planet"
 image: "aspenar.jpg"
-image_alt: "A galaxy scene in anime art style"
+image_alt: "Designed cover for Aspenar: a barren grey-brown radiation-blasted planet disc with faint dome lights, on a starfield background."
 ---
 
 No survey report calls Aspenar beautiful. Every survey report calls it valuable, which is the only adjective its residents have ever asked for.

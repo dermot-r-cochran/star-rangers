@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Asteroid Cluster"
 image: "saltvik.jpg"
-image_alt: "The milky way galaxy with stars and space dust"
+image_alt: "Designed cover for Saltvik: a scattering of small ore-refinery cluster shapes on a dark starfield background."
 ---
 
 Ask a Knarrheim delegate which Line settlement actually keeps the Solar System's shipyards supplied, and the answer is never Knarrheim itself.

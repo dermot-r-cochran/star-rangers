@@ -4,8 +4,8 @@ title: "The Celtic Union of Planets"
 category: "Factions"
 tags: [celtic-union, faction, diaspora, colonisation, tir-na-nog, currach-fleet, aethelrock]
 description: "A decentralised confederation of human worlds descended from a pre-fold generation fleet that left Earth to preserve Celtic language and culture — reconnected with the Solar System only within the last generation."
-image: "earth-giraffe-family.jpg"
-image_alt: "Giraffes grazing on Earth, photographed in 2826 UCSD"
+image: "celtic-union-of-planets.jpg"
+image_alt: "Designed cover for the Celtic Union of Planets: a gold Celtic knotwork emblem in a ringed seal, on a dark background — not an Earth wildlife photo."
 ---
 
 Long before any fold route made the stars a commute, a handful of sublight arks left Earth carrying something the Solar System's institutions had stopped protecting: living Irish, Scottish, Welsh, Breton, Cornish, and Manx as working languages, not museum pieces.

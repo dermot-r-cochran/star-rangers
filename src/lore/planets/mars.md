@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Planet"
 image: "mars.jpg"
-image_alt: "A night landscape with a colourful milky way"
+image_alt: "Designed cover for Mars: a rust-red planet disc with a dark terminator shadow, on a starfield background."
 ---
 
 Every governing body the Solar System has produced — democratic, authoritarian, and technocratic in turn — has kept its command chair on the same red dust. None of them asked Mars first.

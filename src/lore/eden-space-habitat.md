@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"
 image: "eden-space-habitat.jpg"
-image_alt: "An alien red planet with a dead star above"
+image_alt: "Designed cover for Eden Space Habitat: a blue orbital ring/station emblem on a dark starfield background, not a planet."
 ---
 
 Eden was built to be forgettable: a civilian habitat set where supply lines were steady and traffic was thin. Then its instruments began to disagree with the sky.

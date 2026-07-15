@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Halyx System"
 locationType: "Planet"
 image: "meridian.jpg"
-image_alt: "A panoramic view of mars"
+image_alt: "Designed cover for Meridian: a sickly green ammonia-saline ocean world disc, on a starfield background."
 ---
 
 Every biosphere world's first survey report carries a line about breathable air. Meridian's carries a warning label instead.
