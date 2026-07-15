@@ -180,6 +180,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/js": "js" });
   eleventyConfig.addPassthroughCopy({ "src/images": "images" });
   eleventyConfig.addPassthroughCopy({ "src/audio": "audio" });
+  eleventyConfig.addPassthroughCopy({ "src/video": "video" });
   eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
   eleventyConfig.addPassthroughCopy({ "src/static/.htaccess": ".htaccess" });
   // robots.txt is no longer a static passthrough file - src/robots.njk
