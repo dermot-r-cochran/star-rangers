@@ -260,7 +260,7 @@ build_and_deploy() {
   # re-arms it fresh on its own next line.
   trap '[ -n "$lore_dest" ] && rm -f "$lore_dest"; trap - RETURN' RETURN
 
-  echo "--- [$label 1/5] custom lore injection (CUSTOM_LORE_FILE=${b_custom_lore_file:-none}) ---"
+  echo "--- [$label 1/6] custom lore injection (CUSTOM_LORE_FILE=${b_custom_lore_file:-none}) ---"
   if [ -n "$b_custom_lore_file" ]; then
     if [ -f "$b_custom_lore_file" ]; then
       mkdir -p "$REPOSITORY_ROOT/src/lore/custom" \
@@ -274,20 +274,32 @@ build_and_deploy() {
     fi
   fi
 
-  echo "--- [$label 2/5] eleventy build (CHARACTERS=$CHARACTERS TOPICS=$TOPICS THREADS=$THREADS SITE_DOMAIN=$SITE_DOMAIN) ---"
+  echo "--- [$label 2/6] eleventy build (CHARACTERS=$CHARACTERS TOPICS=$TOPICS THREADS=$THREADS SITE_DOMAIN=$SITE_DOMAIN) ---"
   "$REPOSITORY_ROOT/node_modules/.bin/eleventy" \
     || { echo "FAIL [$label]: eleventy build" >&2; return 1; }
 
-  echo "--- [$label 3/5] verify _site/ exists ---"
+  echo "--- [$label 3/6] verify _site/ exists ---"
   test -d "$REPOSITORY_ROOT/_site" \
     || { echo "FAIL [$label]: _site/ was not produced by eleventy" >&2; return 1; }
 
-  echo "--- [$label 4/5] rewrite /star-rangers/ prefix ---"
+  echo "--- [$label 4/6] rewrite /star-rangers/ prefix ---"
   find "$REPOSITORY_ROOT/_site" -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
     -exec sed -i 's#/star-rangers/#/#g' {} + \
     || { echo "FAIL [$label]: prefix rewrite (sed)" >&2; return 1; }
 
-  echo "--- [$label 5/5] theme select + custom CSS + rsync deploy + verify ---"
+  # Runs the same pagefind indexing step as `npm run build` (package.json's
+  # "build" script). Without this, the search box in base.njk renders fine
+  # (data-pagefind-bundle + search.js are static) but has no index to query,
+  # so it silently returns nothing on every search - a working-looking UI
+  # backed by an index that was simply never generated for this domain. Runs
+  # after the prefix rewrite (not before) so it indexes the same
+  # root-hosted URLs this domain actually serves, rather than baking in
+  # /star-rangers/-prefixed paths that only make sense on GitHub Pages.
+  echo "--- [$label 5/6] pagefind search index ---"
+  "$REPOSITORY_ROOT/node_modules/.bin/pagefind" --site "$REPOSITORY_ROOT/_site" \
+    || { echo "FAIL [$label]: pagefind indexing" >&2; return 1; }
+
+  echo "--- [$label 6/6] theme select + custom CSS + rsync deploy + verify ---"
   local src_css="$REPOSITORY_ROOT/src/css/main.css"
   if [ "$b_theme" != "default" ] && [ -f "$REPOSITORY_ROOT/src/css/theme-$b_theme.css" ]; then
     src_css="$REPOSITORY_ROOT/src/css/theme-$b_theme.css"

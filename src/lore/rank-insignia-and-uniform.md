@@ -5,7 +5,7 @@ category: "Institutions"
 tags: [star-rangers, rank, insignia, uniform, survey-corps, safety-corps, pilot-section, institutions]
 description: "How the Star Rangers mark rank and corps affiliation, and why their uniform was built to reject the Military Space Command's display culture from the first draft of the charter onward."
 image: "rank-insignia-and-uniform.jpg"
-image_alt: "The interior of an empty parliament chamber"
+image_alt: "Designed cover for Rank, Insignia, and the Ranger Uniform: a blue chevron insignia emblem in a ringed seal, on a dark background."
 ---
 
 The Military Space Command dressed its officers the way it ran its committees: a lot of surface signaling a chain of command that, by 2719 UCSD, could no longer act inside it. Braid, star-count, and full-dress ribbon order told you exactly who outranked whom and almost nothing about what that person was certified to do in a boundary zone. The Star Rangers charter's framers considered that a design flaw, not an aesthetic one, and rebuilt the uniform system from the certification up rather than the hierarchy down.

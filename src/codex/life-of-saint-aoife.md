@@ -7,6 +7,8 @@ description: "Brother Daire's 1216 AD account of Saint Aoife's life and her visi
 author: "Brother Daire, of the community at Cill Aoife"
 institution: "Monastic scriptorium, Cill Aoife, Ireland"
 location: "Copied and recopied through the medieval and early modern period; the Currach Fleet's founding scriptorium carried a nineteenth-century transcription off Earth in 2561–2589 UCSD; the Celtic Union's Ceridwen Archive on Aethelrock holds the currently cited copy."
+image: "life-of-saint-aoife.jpg"
+image_alt: "Designed cover for The Life of Saint Aoife: a warm gold halo glow on a dark background, evoking an illuminated manuscript."
 ---
 
 **IN THE YEAR 1216**

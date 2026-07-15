@@ -5,7 +5,7 @@ category: "Institutions"
 tags: [orbital-habitats-compact, governance, eden, orbital-five-o, institutions, self-governing]
 description: "The civil administration governing five self-governing orbital habitats around Earth, including Eden Space Habitat — and how its ordinary policing chain runs alongside, not through, the Star Rangers' fold-route oversight."
 image: "orbital-habitats-compact.jpg"
-image_alt: "Candles in a church"
+image_alt: "Designed cover for the Orbital Habitats Compact: concentric blue rings forming a civil-governance emblem, on a dark background."
 ---
 
 Five self-governing orbital habitats around Earth answer, for civil administration purposes, to one Governor and one compact — a jurisdiction line that has nothing to do with, and does not overlap, the Star Rangers' charter-limited authority. [Rangers have no authority inside self-governing orbital habitats](/star-rangers/lore/military-space-command/) at all; the Compact is the government that fills that space, for the ordinary business of running an inhabited habitat, on every day nothing charter-relevant is happening.

@@ -7,6 +7,8 @@ description: "Transcribed lyrics and surviving audio of 'Ballad of the Stars,' a
 author: "Slipwave (vocals: Tissadelle Shepherd, pre-enlistment)"
 institution: "Eden Space Habitat civilian arts circuit — no formal Star Rangers commission"
 location: "Habitat-circuit audio stock, Eden Space Habitat; single surviving full-length recording"
+image: "ballad-of-the-stars.jpg"
+image_alt: "Designed album cover for 'Ballad of the Stars': gold serif title over a dark navy starfield with a single star trailing off the top edge."
 ---
 
 **RECOVERED RECORDING — AUDIO + TRANSCRIPTION**

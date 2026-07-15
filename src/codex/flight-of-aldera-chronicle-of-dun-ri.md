@@ -7,6 +7,8 @@ description: "A church-space chronicle of a princess named Elvira and her cat Al
 author: "Unattributed; transmitted through Fellowship of Light chapter recitation"
 institution: "Fellowship of Light, church-space oral archive"
 location: "No single manuscript master survives; compiled from multiple recorded oral variants, which disagree on incidental detail (see archivist's note)"
+image: "flight-of-aldera-chronicle-of-dun-ri.jpg"
+image_alt: "Designed cover for The Flight of Aldera: a single candlelit glow hanging in a dark gothic stone-grey field, evoking Dún Rí's Abbey bell."
 ---
 
 **COMPOSITE TEXT — RECITED CHRONICLE**

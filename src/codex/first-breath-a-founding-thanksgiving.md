@@ -7,6 +7,8 @@ description: "The founding cooperative's own thanksgiving text, recited at every
 author: "The First Assembly, Tír na nÓg (compiler unrecorded)"
 institution: "Office of the First Assembly, Tír na nÓg"
 location: "Recited annually at First Landing observances planetwide; this transcription held in the Union Cultural Archive, Tír na nÓg"
+image: "first-breath-a-founding-thanksgiving.jpg"
+image_alt: "Designed cover for First Breath: a warm golden sunrise glow over a deep green horizon, evoking the hatch opening onto Tír na nÓg's own air."
 ---
 
 **RECITED AT EVERY FIRST LANDING SINCE**

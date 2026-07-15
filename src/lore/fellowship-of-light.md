@@ -5,7 +5,7 @@ category: "Institutions"
 tags: [fellowship-of-light, star-rangers, overfold, neutral-broker, institutions]
 description: "An ancient, universal order predating current Solar System political history, whose contemplative and operational chapters both tend the places where the world runs thin. The Star Rangers are its modern operational expression."
 image: "fellowship-of-light.jpg"
-image_alt: "The interior of an empty parliament chamber"
+image_alt: "Designed cover for the Fellowship of Light: a gold radiant compass-like emblem in a ringed seal, on a dark background — a contemplative order, not a political chamber."
 ---
 
 Governments rise and are narrowed into their successors. The Fellowship does neither. It was tending thin places before the United Space Consortium had a charter to fail, and it is still tending them now, under a different name on the operational side and the same name it always used on the other.

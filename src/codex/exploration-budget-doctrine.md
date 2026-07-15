@@ -7,6 +7,8 @@ description: "The doctrine superseding the original Allocation Units of Cognitio
 author: "Dr. Senna Okoye"
 institution: "AI Governance Commission — Doctrine Office"
 location: "AI Governance Commission Archive, Earth"
+image: "exploration-budget-doctrine.jpg"
+image_alt: "Designed cover for the Exploration Budget Doctrine: a formal document-style cover with ruled lines and an OFFICIAL stamp on a dark navy background."
 ---
 
 **CONCORDANT GOVERNANCE ARCHIVE**

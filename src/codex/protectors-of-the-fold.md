@@ -7,6 +7,8 @@ description: "Transcribed lyrics of 'Protectors of the Fold,' a later Slipwave r
 author: "Slipwave (Perrin Ashgrove & Marlow Calloway)"
 institution: "Star Rangers Corps — no formal commission, no charter status; first surfaced running under a Survey Corps orientation reel"
 location: "Circulated master held in Ashgrove's own audio stock; copies passed post to post the way the first anthem was"
+image: "protectors-of-the-fold.jpg"
+image_alt: "Designed cover for Protectors of the Fold: a gold serif title over a dark starfield, with a trailing star, matching the site's other Slipwave recording covers."
 ---
 
 **RECOVERED RECORDING — TRANSCRIPTION**
