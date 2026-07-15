@@ -14,17 +14,6 @@ location: "Hosted externally on YouTube; no local archival copy"
 **Subject:** Clan Avalon, [Aethelrock](/star-rangers/lore/planets/aethelrock/), [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/)
 **Current standing:** Adopted, informally and by wide acclaim rather than any Ridgemoot resolution, as Clan Avalon's anthem. Filed the same way [The Fires of Tír na nÓg (Aethelrock Recording)](/star-rangers/codex/aethelrock-tir-na-nog/) is — an external reference, not a Survey Archive holding.
 
-<div style="position:relative;width:100%;max-width:32rem;aspect-ratio:16/9;margin:1.5rem 0">
-  <iframe
-    src="https://www.youtube.com/embed/vS841TglyOo"
-    title="Aethelrock — Echoes of Avalon"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-    loading="lazy">
-  </iframe>
-</div>
-
 Watch on YouTube: [Aethelrock — Echoes of Avalon](https://youtube.com/watch?v=vS841TglyOo)
 
 ---
