@@ -17,9 +17,9 @@ The fictional cosmos superficially mimics real-world physics at the Material and
 ## 1. Foundational Laws
 
 ### Real Cosmos
-- Governed by unaltered physical constants with no external supervision.
-- No higher-dimensional entities maintain stability.
-- Information is purely physical — quantum and thermodynamic only.
+- Governed by physical constants that, as far as science can tell, arise without external supervision.
+- No higher-dimensional entities are known to maintain stability.
+- Information, per current physics, is quantum and thermodynamic.
 
 ### Fictional Cosmos
 - Physical constants are selected by Worldwrights to produce stable, fertile [Concordants](/star-rangers/glossary/concordant/).
@@ -28,7 +28,7 @@ The fictional cosmos superficially mimics real-world physics at the Material and
 - Events near boundary zones or anomalies are subject to meaning-field resonance.
 
 ### Key Difference
-Physical constants are engineered, not accidental. Some events carry a faint Etheric signature that trained observers can detect.
+Physical constants are engineered, not merely unexplained. Some events carry a faint Etheric signature that trained observers can detect.
 
 ---
 
@@ -36,7 +36,7 @@ Physical constants are engineered, not accidental. Some events carry a faint Eth
 
 ### Real Cosmos
 - Strictly forward in time.
-- Randomness is irreducible; no retrocausal influence is possible.
+- Randomness appears irreducible; no retrocausal influence has ever been observed.
 
 ### Fictional Cosmos
 - Causality is stable by design.
@@ -52,8 +52,8 @@ Causal structure is maintained rather than merely emergent. Flexion exists; viol
 ## 3. Probability and Quantum Behavior
 
 ### Real Cosmos
-- Quantum randomness is fundamental and uninfluenced.
-- No layer above the physical modifies quantum outcomes.
+- Quantum randomness is, as far as physics can measure, fundamental and uninfluenced.
+- No known layer above the physical modifies quantum outcomes.
 
 ### Fictional Cosmos
 Probability operates across three layers:
@@ -94,8 +94,8 @@ Any given [Concordant](/star-rangers/glossary/concordant/) is one coherence zone
 ## 5. Energy and Entropy
 
 ### Real Cosmos
-- Entropy increases monotonically. No external regulation exists.
-- Heat death is the long-term terminal state.
+- Entropy increases monotonically, with no external regulation observed.
+- Heat death is the long-term terminal state predicted by current models.
 
 ### Fictional Cosmos
 - Entropy still increases, but several mechanisms slow and soften its progression:
@@ -113,9 +113,9 @@ Entropy is real and inevitable, but actively stabilised. Catastrophic collapse r
 ## 6. Matter and Biology
 
 ### Real Cosmos
-- Carbon-based life arises from unguided chemistry.
-- Evolution is entirely physical.
-- No metaphysical influence on DNA, instinct, or consciousness.
+- Carbon-based life arises through natural chemical and evolutionary processes.
+- Evolution follows physical and biological law.
+- No metaphysical influence on DNA, instinct, or consciousness has been scientifically demonstrated.
 
 ### Fictional Cosmos
 - Carbon-based life still dominates, because Worldwrights optimise [Concordants](/star-rangers/glossary/concordant/) for chemical stability.
@@ -134,7 +134,7 @@ Life evolves normally but is not perfectly sealed from Etheric influence. Biolog
 ### Real Cosmos
 - Information = physical state changes.
 - Entangled information cannot be destroyed.
-- No metaphysical information channels exist.
+- No metaphysical information channels have been identified.
 
 ### Fictional Cosmos
 Three information channels operate in parallel:
@@ -156,7 +156,7 @@ Information has a third metaphysical channel. Standard instruments cannot detect
 
 ### Real Cosmos
 - Disasters follow physical law without exception.
-- No external intervention is possible.
+- No external intervention has ever been observed.
 
 ### Fictional Cosmos
 - Disasters unfold naturally and are not suppressed by default.
@@ -174,8 +174,8 @@ Collapse of the [Concordant](/star-rangers/glossary/concordant/) itself may be p
 ## 9. Sentience and Consciousness
 
 ### Real Cosmos
-- Consciousness is emergent from neural complexity only.
-- No metaphysical properties. No meaning-field interface.
+- Consciousness is understood, per current science, as emergent from neural complexity.
+- No metaphysical properties or meaning-field interface have been demonstrated, though the deeper nature of consciousness remains an open scientific question.
 
 ### Fictional Cosmos
 Consciousness is emergent **plus**:
@@ -196,7 +196,7 @@ Sentient minds — organic or artificial — are not purely physical. They inter
 ### Real Cosmos
 - Extra dimensions are hypothetical (string theory).
 - No measurable influence on daily life.
-- No origin tiers, design tiers, or operational hierarchy above spacetime.
+- No origin tiers, design tiers, or operational hierarchy above spacetime are known to exist.
 
 ### Fictional Cosmos
 - Higher dimensions are real, inhabited, and causally active at every scale.
@@ -218,15 +218,15 @@ Higher-dimensional space is not hypothetical. It is populated, hierarchical, and
 
 | Domain | Real Cosmos | Fictional Cosmos |
 |---|---|---|
-| Physical constants | Accidental | Engineered by Worldwrights |
+| Physical constants | No known external selection | Engineered by Worldwrights |
 | Causality | Strict | Maintained; marginally flexible |
-| Quantum randomness | Fundamental | Real but Etheric-textured |
+| Quantum randomness | Fundamental, as far as physics can tell | Real but Etheric-textured |
 | Dimensional topology | Single continuum | Primary universes with derived secondaries |
 | Entropy | Unmanaged | Actively stabilised |
-| Biology | Purely physical | Etheric-influenced at the margin |
+| Biology | Physical, per current science | Etheric-influenced at the margin |
 | Information | Two channels | Three channels |
 | Disasters | Unrestricted | Unrestricted below collapse threshold |
-| Consciousness | Emergent only | Emergent plus lawful Etheric coupling |
+| Consciousness | Emergent, per current science | Emergent plus lawful Etheric coupling |
 | Higher dimensions | Hypothetical | Populated and causally active |
 
 No physics in this universe is supernatural. Every cross-layer effect requires lawful coupling through the Five Layers. The difference from the real cosmos is not magic. It is architecture.
