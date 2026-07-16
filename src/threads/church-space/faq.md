@@ -97,6 +97,7 @@ threadId: church-space
   I don't expect these answers to be the last word — an inner critic that stopped asking would
   stop being useful. See also: <a href="/star-rangers/threads/church-space/">the Church Space thread index</a>,
   <a href="/star-rangers/lore/communion-of-the-called/">The Communion of the Called</a>,
-  <a href="/star-rangers/lore/kieme-visible-hand/">Kieme's Visible Hand</a>, and
-  <a href="/star-rangers/lore/things-that-are-made/">The Things That Are Made</a>.
+  <a href="/star-rangers/lore/kieme-visible-hand/">Kieme's Visible Hand</a>,
+  <a href="/star-rangers/lore/things-that-are-made/">The Things That Are Made</a>, and the journal entry
+  <a href="/star-rangers/journal/softening-the-real-cosmos-side/">Softening the Real Cosmos Side</a>.
 </p>
