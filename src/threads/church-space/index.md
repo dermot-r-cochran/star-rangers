@@ -16,6 +16,10 @@ threadId: church-space
 <p class="page-intro">
   A parallel storyline with its own cast, written for the church-space.site and church-space.online deployment and carrying explicit Christian and evangelical themes that aren't part of the main published canon. This thread is private — see README.md's cPanel deployment section for how a clone opts into it.
 </p>
+<p class="page-intro">
+  See also: <a href="/star-rangers/threads/church-space/faq/">Questions I Ask Myself</a>, an
+  author's-note FAQ working through the hardest craft and thematic objections this thread raises.
+</p>
 
 {% set threadId = "church-space" %}
 {% set allChapters = collections.chapters %}
