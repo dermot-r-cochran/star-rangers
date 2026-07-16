@@ -7,6 +7,8 @@ description: "A chaplaincy rota account of an evening at Cnoc na mBeach, when a 
 author: "Unattributed; Communion of the Called chaplaincy rota, submitted log entry"
 institution: "Communion of the Called, Cnoc na mBeach hermitage"
 location: "Filed with the chaplaincy rota's own circulating record, not the Survey Archive proper"
+image: "telling-the-bees-at-cnoc-na-mbeach.jpg"
+image_alt: "Designed cover for Telling the Bees at Cnoc na mBeach: a single candle flame glowing at the foot of a thin gold wick, hanging in a dark starless field."
 ---
 
 The message came in on the rota's own channel, three lines long, the way they always come: name, posting, cause. Rigger First Class Deiniol Vance, Kernowek Reach frontier survey, hull breach during an unscheduled fold-drift correction. No fault assigned. No fault to assign. I had never met him. Neither had Fintan. It didn't matter.
