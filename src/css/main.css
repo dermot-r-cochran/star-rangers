@@ -633,6 +633,70 @@ a:focus {
   padding: var(--spacing-xl) 0;
   margin-bottom: var(--spacing-xl);
 }
+/* Auto-advancing crossfade of curated character portraits (src/index.md's
+   heroCharacters, per-theme). CSS-only: every slide shares one keyframe
+   animation and is staggered purely via animation-delay (loop.index0 * 6s in
+   the template's :nth-child order below), so no JS is needed to drive it.
+   Two keyframe variants exist because the "on" window's keyframe percentage
+   is a function of slide count (100/N%) - only 5 (pets theme) and 6 (every
+   other theme) are ever used, see src/index.md's heroCharacterIds. */
+.home-hero__slideshow {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 320px;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  margin-bottom: var(--spacing-lg);
+  background: var(--color-surface);
+}
+.home-hero__slide {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  opacity: 0;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+.home-hero__slideshow--n6 .home-hero__slide {
+  animation-name: home-hero-crossfade-6;
+  animation-duration: 36s;
+}
+.home-hero__slideshow--n5 .home-hero__slide {
+  animation-name: home-hero-crossfade-5;
+  animation-duration: 30s;
+}
+.home-hero__slide:nth-child(1) { animation-delay: 0s; }
+.home-hero__slide:nth-child(2) { animation-delay: 6s; }
+.home-hero__slide:nth-child(3) { animation-delay: 12s; }
+.home-hero__slide:nth-child(4) { animation-delay: 18s; }
+.home-hero__slide:nth-child(5) { animation-delay: 24s; }
+.home-hero__slide:nth-child(6) { animation-delay: 30s; }
+@keyframes home-hero-crossfade-6 {
+  0%, 100% { opacity: 0; }
+  2.78% { opacity: 1; }
+  13.89% { opacity: 1; }
+  16.67% { opacity: 0; }
+}
+@keyframes home-hero-crossfade-5 {
+  0%, 100% { opacity: 0; }
+  3.33% { opacity: 1; }
+  16.67% { opacity: 1; }
+  20% { opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .home-hero__slide {
+    animation: none;
+    opacity: 0;
+  }
+  .home-hero__slide:first-child {
+    opacity: 1;
+  }
+}
 .home-hero__title {
   font-size: 3rem;
   color: var(--color-accent);
@@ -986,6 +1050,7 @@ a:focus {
   .main-content { padding: var(--spacing-lg) var(--spacing-md); }
   .pov-controls { flex-direction: column; align-items: flex-start; }
   .page-hero-image { height: 180px; }
+  .home-hero__slideshow { height: 180px; }
   .site-search { width: 100%; }
   .site-search__input { width: 100%; }
   .site-search__results { width: 100%; max-width: 100%; }

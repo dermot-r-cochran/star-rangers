@@ -270,6 +270,18 @@ module.exports = function(eleventyConfig) {
     return index >= 0 && index < entries.length - 1 ? entries[index + 1] : null;
   });
 
+  // Resolves a curated, ordered list of character ids (e.g. the home page
+  // hero slideshow's per-theme cast) against the already content-filtered
+  // "characters" collection - an id excluded by this deploy's own
+  // CHARACTERS/TOPICS/THREADS narrowing (see lib/content-filter.js) simply
+  // isn't in that collection and is silently skipped here, the same way a
+  // typo'd id would be, rather than needing its own separate filtering pass.
+  eleventyConfig.addFilter("charactersByIds", (characters, ids) =>
+    (ids || [])
+      .map((id) => (characters || []).find((c) => c.data.id === id))
+      .filter(Boolean)
+  );
+
   eleventyConfig.addCollection("characters", (collectionApi) =>
     collectionApi.getAll()
       .filter((item) => item.data.layout === "character.njk")

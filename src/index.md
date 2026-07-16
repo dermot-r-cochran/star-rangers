@@ -3,8 +3,18 @@ layout: base.njk
 title: "Home"
 description: "Star Rangers — an interactive science-fantasy novel grounded in speculative cosmology. One canonical history across the Five Layers, multiple Concordants, and multiple points of view."
 ---
+{%- if theme == "pets" -%}
+  {%- set heroCharacterIds = ["barsik", "bubochka", "eden-warden", "nessa", "rasa-oyelaran"] -%}
+{%- else -%}
+  {%- set heroCharacterIds = ["aldera", "iona", "elvira", "galahad", "rook", "syra"] -%}
+{%- endif -%}
+{%- set heroCharacters = collections.characters | charactersByIds(heroCharacterIds) -%}
 <section class="home-hero">
-  <img class="page-hero-image" src="/star-rangers/images/hero/home-launch.jpg" alt="A rocket launches into a starry night sky" />
+  {%- if heroCharacters.length %}
+  <div class="home-hero__slideshow home-hero__slideshow--n{{ heroCharacters.length }}" aria-hidden="true">{% for character in heroCharacters %}
+    <img class="home-hero__slide" src="/star-rangers/images/characters/{{ character.data.image }}" alt="" />{% endfor %}
+  </div>
+  {%- endif %}
   <h1 class="home-hero__title">✦ Star Rangers</h1>
   <p class="home-hero__subtitle">
     {% if theme == "fellowship" %}
