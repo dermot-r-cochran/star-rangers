@@ -151,6 +151,83 @@ a:focus {
   border-bottom-color: var(--color-accent);
 }
 
+/* --- Search --- */
+.site-search {
+  position: relative;
+}
+.site-search__input {
+  width: 12rem;
+  max-width: 100%;
+  padding: 6px var(--spacing-sm);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  color: var(--color-text);
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+}
+.site-search__input::placeholder {
+  color: var(--color-text-muted);
+}
+.site-search__input:focus {
+  outline: none;
+  border-color: var(--color-accent);
+}
+.site-search__results {
+  position: absolute;
+  top: calc(100% + var(--spacing-xs));
+  left: 0;
+  z-index: 20;
+  width: 20rem;
+  max-width: min(90vw, 20rem);
+  max-height: 70vh;
+  overflow-y: auto;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+.site-search__empty {
+  margin: 0;
+  padding: var(--spacing-sm) var(--spacing-md);
+  color: var(--color-text-muted);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+.site-search__list {
+  list-style: none;
+}
+.site-search__result + .site-search__result {
+  border-top: 1px solid var(--color-border);
+}
+.site-search__result-link {
+  display: block;
+  padding: var(--spacing-sm) var(--spacing-md);
+  text-decoration: none;
+}
+.site-search__result-link:hover,
+.site-search__result-link:focus {
+  background: var(--color-surface-2);
+}
+.site-search__result-title {
+  display: block;
+  color: var(--color-accent);
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  margin-bottom: 2px;
+}
+.site-search__result-excerpt {
+  display: block;
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+.site-search__result-excerpt mark {
+  background: none;
+  color: var(--color-text);
+  font-weight: 700;
+}
+
 /* --- Main Content --- */
 .main-content {
   flex: 1;
@@ -172,6 +249,23 @@ a:focus {
 }
 .site-footer a {
   color: var(--color-accent);
+}
+.site-theme-audio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+.site-theme-audio__label {
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+}
+.site-theme-audio__player {
+  max-width: 320px;
+  width: 100%;
 }
 
 /* --- Breadcrumbs --- */
@@ -242,9 +336,17 @@ a:focus {
 .chapter-detail dt {
   color: var(--color-text-muted);
 }
+
 .chapter-detail dd {
   color: var(--color-text);
   font-style: italic;
+}
+
+.journal-entry__date {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin-top: var(--spacing-sm);
 }
 
 .chapter-tags {
@@ -534,6 +636,70 @@ a:focus {
   padding: var(--spacing-xl) 0;
   margin-bottom: var(--spacing-xl);
 }
+/* Auto-advancing crossfade of curated character portraits (src/index.md's
+   heroCharacters, per-theme). CSS-only: every slide shares one keyframe
+   animation and is staggered purely via animation-delay (loop.index0 * 6s in
+   the template's :nth-child order below), so no JS is needed to drive it.
+   Two keyframe variants exist because the "on" window's keyframe percentage
+   is a function of slide count (100/N%) - only 5 (pets theme) and 6 (every
+   other theme) are ever used, see src/index.md's heroCharacterIds. */
+.home-hero__slideshow {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 320px;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  margin-bottom: var(--spacing-lg);
+  background: var(--color-surface);
+}
+.home-hero__slide {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  opacity: 0;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+.home-hero__slideshow--n6 .home-hero__slide {
+  animation-name: home-hero-crossfade-6;
+  animation-duration: 36s;
+}
+.home-hero__slideshow--n5 .home-hero__slide {
+  animation-name: home-hero-crossfade-5;
+  animation-duration: 30s;
+}
+.home-hero__slide:nth-child(1) { animation-delay: 0s; }
+.home-hero__slide:nth-child(2) { animation-delay: 6s; }
+.home-hero__slide:nth-child(3) { animation-delay: 12s; }
+.home-hero__slide:nth-child(4) { animation-delay: 18s; }
+.home-hero__slide:nth-child(5) { animation-delay: 24s; }
+.home-hero__slide:nth-child(6) { animation-delay: 30s; }
+@keyframes home-hero-crossfade-6 {
+  0%, 100% { opacity: 0; }
+  2.78% { opacity: 1; }
+  13.89% { opacity: 1; }
+  16.67% { opacity: 0; }
+}
+@keyframes home-hero-crossfade-5 {
+  0%, 100% { opacity: 0; }
+  3.33% { opacity: 1; }
+  16.67% { opacity: 1; }
+  20% { opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .home-hero__slide {
+    animation: none;
+    opacity: 0;
+  }
+  .home-hero__slide:first-child {
+    opacity: 1;
+  }
+}
 .home-hero__title {
   font-size: 3rem;
   color: var(--color-accent);
@@ -606,6 +772,15 @@ a:focus {
 }
 
 /* --- Seasons / Listing Pages --- */
+.page-hero-image {
+  display: block;
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  margin-bottom: var(--spacing-lg);
+}
 .page-title {
   font-size: 2rem;
   color: var(--color-accent);
@@ -617,6 +792,40 @@ a:focus {
   font-family: var(--font-ui);
   max-width: 70ch;
   margin-bottom: var(--spacing-xl);
+}
+
+.thread-section {
+  margin-bottom: var(--spacing-xl);
+}
+.thread-section__title {
+  font-size: 1.8rem;
+  font-family: var(--font-ui);
+  color: var(--color-accent);
+  margin-bottom: var(--spacing-sm);
+}
+.thread-section__title a {
+  color: inherit;
+  text-decoration: none;
+}
+.thread-section__title a:hover,
+.thread-section__title a:focus {
+  text-decoration: underline;
+}
+.thread-section__description {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  font-family: var(--font-ui);
+  max-width: 70ch;
+  margin-bottom: var(--spacing-lg);
+}
+.thread-badge {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  font-family: var(--font-ui);
+  margin-bottom: var(--spacing-xl);
+}
+.thread-badge a {
+  color: var(--color-accent);
 }
 
 .season-block {
@@ -843,6 +1052,11 @@ a:focus {
   .site-header { padding: var(--spacing-sm) var(--spacing-md); }
   .main-content { padding: var(--spacing-lg) var(--spacing-md); }
   .pov-controls { flex-direction: column; align-items: flex-start; }
+  .page-hero-image { height: 180px; }
+  .home-hero__slideshow { height: 180px; }
+  .site-search { width: 100%; }
+  .site-search__input { width: 100%; }
+  .site-search__results { width: 100%; max-width: 100%; }
 }
 
 /* --- Focus Visible --- */
@@ -868,6 +1082,23 @@ a:focus {
   margin-top: var(--spacing-lg);
 }
 
+/* Inline images embedded directly in prose body content (markdown ![]())
+   have no other size constraint - without this, a full-resolution source
+   image (e.g. 1600px wide) overflows the ~72ch prose column instead of
+   scaling down to fit it. */
+.character-body img,
+.codex-entry__body img,
+.glossary-entry__body img,
+.lore-entry__body img,
+.chapter-body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  margin: var(--spacing-lg) 0;
+}
+
 /* --- Character Profiles --- */
 .character-header {
   margin-bottom: var(--spacing-xl);
@@ -883,14 +1114,6 @@ a:focus {
 .character-header__text {
   flex: 1;
   min-width: 0;
-}
-.character-portrait {
-  width: 160px;
-  height: 160px;
-  object-fit: cover;
-  border-radius: var(--radius-lg);
-  border: 1px solid var(--color-border);
-  flex-shrink: 0;
 }
 .character-meta-row {
   display: flex;
@@ -922,7 +1145,12 @@ a:focus {
   display: block;
   width: 100%;
   max-width: 420px;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center 30%;
   border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  flex-shrink: 0;
   margin-bottom: var(--spacing-md);
 }
 .character-name {
@@ -1129,6 +1357,18 @@ a:focus {
 }
 .lore-entry__body li { margin-bottom: var(--spacing-xs); }
 .lore-entry__body strong { color: var(--color-text); }
+
+/* --- Comments (giscus) --- */
+.site-comments {
+  margin-top: var(--spacing-xl);
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--color-border);
+}
+.site-comments__heading {
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  margin-bottom: var(--spacing-md);
+}
 .lore-entry__body em { color: var(--color-text-muted); }
 .lore-entry__body a {
   color: var(--color-accent);
