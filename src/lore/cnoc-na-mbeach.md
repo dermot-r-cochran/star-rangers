@@ -4,6 +4,8 @@ title: "Cnoc na mBeach"
 category: "Institutions"
 tags: [church-space, communion-of-the-called, cnoc-na-mbeach, hermitage, beekeeping, institutions]
 description: "A small hive-yard hermitage under no diocese and no chain of command, kept by a retired Star Rangers Chief and whoever the Communion of the Called's chaplaincy rota sends through."
+image: "cnoc-na-mbeach.jpg"
+image_alt: "Designed cover for Cnoc na mBeach: a gold honeycomb lattice ringed in a circle, holding a single candle flame at its center, over a dark starfield."
 ---
 
 **Cnoc na mBeach** — Irish for "the hill of the bees" — is a hive-yard and a handful of stone cells on land no diocese claims and no Star Rangers Safety Corps district administers, founded the year after [Brother Fintan](/star-rangers/characters/brother-fintan/) retired from thirty-one years' boundary-safety service. It is not a monastery in any sense the [Fellowship of Light](/star-rangers/lore/fellowship-of-light/) or the [Monasteries of Mars](/star-rangers/lore/monasteries-of-mars/) would recognize as their own, and Fintan has never tried to make it one. It is simply the smallest possible unit the [Communion of the Called](/star-rangers/lore/communion-of-the-called/) has ever produced: one keeper, a hive-yard, and a standing door.
