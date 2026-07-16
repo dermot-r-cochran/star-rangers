@@ -1014,6 +1014,23 @@ a:focus {
   margin-top: var(--spacing-lg);
 }
 
+/* Inline images embedded directly in prose body content (markdown ![]())
+   have no other size constraint - without this, a full-resolution source
+   image (e.g. 1600px wide) overflows the ~72ch prose column instead of
+   scaling down to fit it. */
+.character-body img,
+.codex-entry__body img,
+.glossary-entry__body img,
+.lore-entry__body img,
+.chapter-body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  margin: var(--spacing-lg) 0;
+}
+
 /* --- Character Profiles --- */
 .character-header {
   margin-bottom: var(--spacing-xl);
