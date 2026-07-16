@@ -230,3 +230,7 @@ Higher-dimensional space is not hypothetical. It is populated, hierarchical, and
 | Higher dimensions | Hypothetical | Populated and causally active |
 
 No physics in this universe is supernatural. Every cross-layer effect requires lawful coupling through the Five Layers. The difference from the real cosmos is not magic. It is architecture.
+
+---
+
+*A note from outside the Archive: this page's "Real Cosmos" column was revised for tone in July 2026. See the journal entry, [Softening the Real Cosmos Side](/star-rangers/journal/softening-the-real-cosmos-side/), for why.*
