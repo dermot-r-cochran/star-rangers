@@ -80,4 +80,4 @@ The Safety Corps' internal motto — not official, not published, understood by 
 
 The environments changed. The method did not.
 
-See also: [Decision-Making and Communication in the Star Rangers](/star-rangers/lore/star-rangers-decision-and-communication/), [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/), [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/).
+See also: [Decision-Making and Communication in the Star Rangers](/star-rangers/lore/star-rangers-decision-and-communication/), [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/), [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [The Star Rangers Science Corps](/star-rangers/lore/star-rangers-science-corps/).

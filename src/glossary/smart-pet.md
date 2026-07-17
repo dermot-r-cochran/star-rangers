@@ -6,15 +6,16 @@ category: "Species"
 short: "An animal carrying a certified AI cognitive subsystem — a status the Undercover Pets Detective Agency prefers for field work, and one of the most tightly regulated animal-welfare categories in the Concordant."
 related:
   - "The AI Safety Kernel"
+  - "Cyborg"
   - "Krenyi"
 tags: [smart-pet, animal-welfare, ai, kernel-compliant, detective-agency, species, undercover-pets.com]
 ---
 
-**Smart Pet** is the formal classification for an animal carrying a certified AI cognitive subsystem, rather than a description of temperament or training. [Agent Barsik](/star-rangers/characters/agent-barsik/) and trainee [Bubochka](/star-rangers/characters/bubochka/) both hold the status without carrying any physical cybernetic modification at all; [Aldera](/star-rangers/characters/aldera/) holds it *and* is cyber-enhanced, a further, separate designation layered on top rather than implied by it. A Smart Pet is not, by definition, a cyborg. It is an animal whose own cognition runs alongside a subsystem lawful enough to be held to the [AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/) — and it is that subsystem, not the animal wearing it, that the regulation is written to govern.
+**Smart Pet** is the formal classification for an animal carrying a certified AI cognitive subsystem, rather than a description of temperament or training. [Agent Barsik](/star-rangers/characters/agent-barsik/) and trainee [Bubochka](/star-rangers/characters/bubochka/) both hold the status without carrying any physical cybernetic modification at all; [Aldera](/star-rangers/characters/aldera/) holds it *and* is cyber-enhanced, a further, separate designation layered on top rather than implied by it. A Smart Pet is not, by definition, a [cyborg](/star-rangers/glossary/cyborg/). It is an animal whose own cognition runs alongside a subsystem lawful enough to be held to the [AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/) — and it is that subsystem, not the animal wearing it, that the regulation is written to govern.
 
 ## Why the Detective Agency Prefers Them
 
-The [Undercover Pets Detective Agency](/star-rangers/characters/agent-barsik/) stations Smart Pets in postings where a robot would be noticed and a human field agent could not sustain the cover: their cognitive architecture does not layer rationalisation over raw signal, the same property [Rook-7's file](/star-rangers/characters/rook-7/) attributes to robots doing comparable work. A Smart Pet registers asymmetry before it reaches for an explanation. A mascot gets left alone with the paperwork.
+The [Undercover Pets Detective Agency](/star-rangers/characters/agent-barsik/) stations Smart Pets in postings where a robot would be noticed and a human field agent could not sustain the cover: their cognitive architecture does not layer rationalisation over raw signal, the same property [Rook-7's file](/star-rangers/characters/rook-7/) attributes to police robots doing comparable work at a different institution entirely — ordinary robots, whatever their cognitive architecture shares with a Smart Pet's, belong to the police department, not the detective agency. A Smart Pet registers asymmetry before it reaches for an explanation. A mascot gets left alone with the paperwork.
 
 ## Regulation
 
