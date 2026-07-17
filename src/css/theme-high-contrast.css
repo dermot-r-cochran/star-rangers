@@ -1057,6 +1057,9 @@ a:focus {
   .site-search { width: 100%; }
   .site-search__input { width: 100%; }
   .site-search__results { width: 100%; max-width: 100%; }
+  .character-header__inner { flex-direction: column; }
+  .character-header__text { width: 100%; }
+  .character-portrait { max-width: 100%; }
 }
 
 /* --- Focus Visible --- */
