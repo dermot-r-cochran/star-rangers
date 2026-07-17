@@ -2,16 +2,16 @@
 layout: codex.njk
 title: "Field Log: Rook-7, First Week at Threshold Station"
 category: "Field Logs"
-tags: [rook-7, threshold-station, boundary, field-log, detective-agency]
-description: "Rook-7's compiled log from the first week at Threshold Station. Classified by the detective agency as a preliminary site assessment."
+tags: [rook-7, threshold-station, boundary, field-log, police-department]
+description: "Rook-7's compiled log from the first week at Threshold Station. Classified by the police department as a preliminary site assessment."
 author: "Rook-7"
-institution: "The Detective Agency (Field Unit Network)"
-location: "Detective Agency Central Archive, Earth — synced from Rook-7's field-unit storage via the next Star Rangers courier run out of Threshold Station"
+institution: "Threshold Station Police Department (Field Unit Network)"
+location: "Police Department Central Archive, Earth — synced from Rook-7's field-unit storage via the next Star Rangers courier run out of Threshold Station"
 image: "rook-7-first-week-log.jpg"
 image_alt: "Designed cover for Field Log: Rook-7: a terminal-style log readout in teal-green scanlines on a dark background."
 ---
 
-**DETECTIVE AGENCY — FIELD UNIT LOG**
+**POLICE DEPARTMENT — FIELD UNIT LOG**
 **Unit:** Rook-7
 **Location:** Threshold Station
 **Period:** 2826 UCSD, Early Autumn, Days 1–7

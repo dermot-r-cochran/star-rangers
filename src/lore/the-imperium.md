@@ -20,6 +20,8 @@ The Coherence Wars lasted forty years — from approximately 2503, when the Unit
 
 The Tycho Accords ended the fighting. They did not supply a political settlement. The question of postwar governance was answered by the simple fact that the Inner System Defence Fleet already controlled the field and saw no compelling reason to surrender that control.
 
+That control was not purely military. Long before the Tycho Accords, a small number of wealthy and powerful families had already gained control of the Inner System's major technology and space industries — the shipyards, the fold-drive patents, the orbital manufacturing consortia that any fleet, however unified its command, still depended on to fly. The same "legacy economic power" that had skewed the [United Space Consortium](/star-rangers/lore/united-space-consortium/)'s assembly toward Earth-based and Mars-orbital interests did not disappear when the USC did; it simply stopped needing a chamber to exercise it. The Inner System Defence Fleet's officer corps did not conquer that industrial base during the Coherence Wars. It was already answerable to it. When the fleet imposed the Tycho Accords, those families' capital and production capacity stood behind every ship in the field — which is a large part of why the resulting settlement moved so cleanly from "the fleet controls the field" to "the fleet's patrons control the Solar System."
+
 The Imperium formalized that condition. Its founding charter declared representative governance a proven failure, cited forty years of war and three billion dead as evidence, and claimed that demonstrated competence, technical qualification, and unified command were safer than popular preference.
 
 To people who had survived forty years of war, that argument was persuasive. It remained persuasive for two generations.
@@ -34,6 +36,7 @@ It was also:
 - **Stratified by service record**: advancement in any institutional hierarchy required military or technical service credentials. Civilian expertise was recognized only where it could be reframed as technical support for Imperium operations.
 - **Intolerant of ambiguity**: the Imperium categorized, filed, and assigned everything within its authority. Phenomena, events, or populations that resisted categorization were re-categorized until they fit — or were removed from the record.
 - **Outer-settlement averse**: the Coherence Wars had been initiated by outer-settlement forces. The Imperium's settlement policy for the Belt and outer system was punitive for two generations and merely restrictive thereafter.
+- **Militarily augmented**: [cyborg](/star-rangers/glossary/cyborg/) technology, tightly restricted in every government since, saw its widest and least restrained deployment under Imperium military command — front-line augmentation programs built to issue, upgrade, and reclaim a soldier's body like any other piece of equipment, with no serious accounting for what the program owed the person wearing it once the war ended.
 
 ## The Democratic Underground
 

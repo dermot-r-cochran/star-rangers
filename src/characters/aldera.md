@@ -23,7 +23,7 @@ gallery:
 
 Aldera was at the Marsh Causeway before the outpost had a new occupant. She had been logging for months before Elvira began her own records. Elvira does not yet know this.
 
-She is a cyber-enhanced cat, a field unit in the distributed detective agency network. [Smart pets](/star-rangers/glossary/smart-pet/) and robots are the agency's preferred observers in boundary-proximate zones. The reason is specific: their cognitive architecture does not layer rationalisation over raw signal. They register asymmetry before they reach for explanation.
+She is a cyber-enhanced cat, a field unit in the distributed detective agency network. [Smart pets](/star-rangers/glossary/smart-pet/) and cyber-enhanced animals are the agency's preferred observers in boundary-proximate zones — ordinary robots serve that same function for the police department instead, a different institution entirely. The reason is specific: their cognitive architecture does not layer rationalisation over raw signal. They register asymmetry before they reach for explanation.
 
 Aldera experiences the boundary zone as texture. A particular wrongness in the air pressure. A microvibration in the reeds with a rhythm nothing biological produces. She knows when something is feeding before she can name what it is feeding on.
 
@@ -33,7 +33,7 @@ She knows this because she was trained to know it. And because she is a cat. Cat
 
 Aldera communicates through filed logs. She does not volunteer information that has not been requested. This is protocol, not caution. The agency's doctrine holds that information offered before the question is asked tends to be dismissed. Information asked for tends to be used.
 
-She is aware of Rook-7 through the detective agency network. Direct contact within the story has not yet occurred. Whether their shared log format is a common protocol or a convergent development is not yet established.
+She is aware of Rook-7 through the wider inter-agency channels the detective agency and the police department both draw on, not through any shared chain of command — Rook-7 answers to Threshold Station's police department, not to the agency. Direct contact within the story has not yet occurred. Whether their shared log format is a common protocol or a convergent development is not yet established.
 
 She identified the Court-Fae feeding signature before Galahad arrived at the causeway. She noted the loop structure — attempt, failure, confusion, renewed attempt — and classified it correctly as a feeding mechanism rather than a boundary problem.
 
