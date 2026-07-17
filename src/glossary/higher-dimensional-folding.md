@@ -9,6 +9,7 @@ related:
   - "Quantum Space Harmonic Wave"
   - "Universe Overlap"
   - "Concordant"
+  - "Metafold"
 tags: [ftl, folding, higher-dimensional, topology]
 ---
 
