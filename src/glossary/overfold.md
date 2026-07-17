@@ -8,6 +8,7 @@ related:
   - "Etheric"
   - "Boundary Zone"
   - "Intermembrane Bleed"
+  - "Metafold"
 tags: [overfold, fellowship-of-light, etheric, boundary-zone, contemplative]
 ---
 
