@@ -6,10 +6,19 @@ species: Cyber-Enhanced Cat (Smart Pet, Detective Agency)
 role: Field Observer, Detective Agency Unit
 status: Active
 aliases: []
-tags: [detective-agency, cat, cyber-enhanced, boundary, causeway, season-1, major-character]
+tags: [detective-agency, cat, cyber-enhanced, boundary, causeway, season-1, major-character, pets]
 description: "A cyber-enhanced cat and detective agency field unit. Highly attuned to asymmetry, consent erosion, and obligation loops."
 image: aldera.png
 image_alt: "Aldera, a long-haired blue-furred cat with luminous markings, sitting on a moss-covered branch in a glowing forest surrounded by butterflies."
+gallery:
+  - image: field-photo-01.jpg
+    image_alt: "A tabby kitten with a black collar sitting in the bow of a boat at sunset, water and a green shoreline behind it."
+  - image: field-photo-02.jpg
+    image_alt: "A tabby kitten perched on the stern of a red boat, looking out over the water at sunset."
+  - image: field-photo-03.jpg
+    image_alt: "Close-up portrait of a tabby-and-white kitten with blue eyes among yellow flowers."
+  - image: field-photo-04.jpg
+    image_alt: "Close-up portrait of a tabby-and-white kitten with blue eyes beside a blue flower."
 ---
 
 Aldera was at the Marsh Causeway before the outpost had a new occupant. She had been logging for months before Elvira began her own records. Elvira does not yet know this.

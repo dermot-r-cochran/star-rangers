@@ -1206,6 +1206,31 @@ a:focus {
 }
 .character-footer a:hover { text-decoration: underline; }
 
+.character-gallery {
+  margin-top: var(--spacing-xl);
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--color-border);
+  max-width: var(--max-prose);
+}
+.character-gallery__title {
+  font-size: 1.3rem;
+  color: var(--color-accent);
+  margin-bottom: var(--spacing-md);
+}
+.character-gallery__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: var(--spacing-md);
+}
+.character-gallery__item {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+}
+
 /* --- Glossary --- */
 .glossary-alpha {
   display: flex;
