@@ -22,4 +22,4 @@ She reads Eden's compliance-framework filings with more patience than the MSC's 
 
 Wayland has met [Agent Barsik](/star-rangers/characters/agent-barsik/) exactly as often as her office's records show — which is to say, on paper, almost never. She has never asked Oyelaran a direct question about the station-mascot livestock line item, and has noticed, the same way Oyelaran has, that not asking has never once cost her anything she needed to know.
 
-See also: [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [Mayor Imogen Petrakis](/star-rangers/characters/imogen-petrakis/), [Chief Commissioner Dorian Calloway](/star-rangers/characters/dorian-calloway/), [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/).
+See also: [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [Mayor Imogen Petrakis](/star-rangers/characters/imogen-petrakis/), [Chief Commissioner Dorian Calloway](/star-rangers/characters/dorian-calloway/), [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), [The Ring-Rail](/star-rangers/lore/eden-ring-rail/).

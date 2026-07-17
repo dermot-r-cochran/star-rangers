@@ -34,4 +34,4 @@ Ward's public manner is warmer than most administrative liaisons the Compact fie
 
 Custos has never once used the word "equipment" to describe a mobile AI humanoid or a cyber-enhanced animal in any filing Eden's records office has on hand, and has corrected exactly one Compact administrator's draft memo for doing so — by question, in the Kernel's own preferred idiom, rather than by contradiction: *"Might the Commissioner's office confirm what standard is being applied to a system capable of filing this objection itself?"*
 
-See also: [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [The AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/), [Plural Minds](/star-rangers/glossary/plural-minds/).
+See also: [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [The AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/), [Plural Minds](/star-rangers/glossary/plural-minds/), [The Ring-Rail](/star-rangers/lore/eden-ring-rail/).
