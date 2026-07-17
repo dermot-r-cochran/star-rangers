@@ -114,6 +114,34 @@ const THEMES = {
     },
     statusActive: "#7cf58a"
   },
+  "church-space": {
+    label: 'Star Rangers — "Church Space" Theme (church-space.site/.online)',
+    description: "Candlelit stone and stained-glass re-skin for the private church-space domain.",
+    root: {
+      "--color-bg": "#f7f2e6",
+      "--color-surface": "#efe4c8",
+      "--color-surface-2": "#e2d2a3",
+      "--color-border": "#b99a5b",
+      "--color-text": "#2c2013",
+      "--color-text-muted": "#6e5c40",
+      "--color-accent": "#7a1f2b",
+      "--color-accent-hover": "#9c2836",
+      "--color-canon": "#1f4d6b",
+      "--color-pov-active": "#7a1f2b",
+      "--color-pov-bg": "#efe4c8",
+      "--color-skip-bg": "#7a1f2b",
+      "--color-skip-text": "#f7f2e6",
+      "--font-body": '"Palatino Linotype", "Book Antiqua", Georgia, serif'
+    },
+    povBlock: {
+      galahad: "#1f4d6b",
+      elvira: "#7a1f2b",
+      aldera: "#3c6b35",
+      krenyi: "#b98a2b",
+      thorn: "#5b3b8a"
+    },
+    statusActive: "#3c6b35"
+  },
 
   // --- Standard, non-domain-specific themes: general-purpose display
   // options any deploy.conf's THEME can pick, independent of narrative

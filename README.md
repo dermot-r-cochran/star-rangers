@@ -261,6 +261,7 @@ If this account's `public_html` shouldn't get a copy of the site at all — only
 | `fellowship` | domain re-skin | Warm, luminous gold/parchment palette (fellowshipoflight.org). |
 | `pets` | domain re-skin | Warm, friendly orange/cream palette (undercover-pets.com). |
 | `starquest` | domain re-skin | Deep-space navy with neon teal accents (starquest.site/.online). |
+| `church-space` | domain re-skin | Candlelit stone and stained-glass palette (church-space.site/.online). |
 | `light` | standard | Light/day mode — the site's only non-dark option. |
 | `high-contrast` | standard | Maximal-contrast black/white/yellow, for low-vision accessibility. |
 | `sepia` | standard | Warm parchment/e-reader tone for long reading sessions. |
