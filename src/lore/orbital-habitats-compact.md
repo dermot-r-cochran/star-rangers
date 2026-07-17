@@ -32,3 +32,4 @@ A third, unofficial chain also runs through Eden's civil bureau without appearin
 - [Military Space Command](/star-rangers/lore/military-space-command/)
 - [Commander Kai Larsen](/star-rangers/characters/kai-larsen/)
 - [Agent Barsik](/star-rangers/characters/agent-barsik/)
+- [The Ring-Rail](/star-rangers/lore/eden-ring-rail/)

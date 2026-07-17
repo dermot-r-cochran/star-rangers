@@ -22,4 +22,4 @@ Petrakis treats Eden's fold-adjacent anomaly reports as a genuine civic hazard r
 
 She has never asked what Superintendent [Oyelaran](/star-rangers/characters/rasa-oyelaran/)'s bureau actually does with its station-mascot livestock line item, on the private theory — never stated in a public session — that a Mayor who asks every question she's entitled to ask stops being able to trust the answers she gets to the ones that matter.
 
-See also: [Space Commissioner Zara Wayland](/star-rangers/characters/zara-wayland/), [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/).
+See also: [Space Commissioner Zara Wayland](/star-rangers/characters/zara-wayland/), [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/), [The Ring-Rail](/star-rangers/lore/eden-ring-rail/).
