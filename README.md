@@ -153,6 +153,8 @@ npm run test
 
 The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root. This repo deploys to several production domains from separate cPanel Git Version Control clones (one clone per domain, all pulling the same branch) — `deploy.conf` is how one clone tells the shared build/deploy script which domain, theme, and content scope it's responsible for.
 
+These production domains are hosted on [iFastNet](https://ifastnet.com/portal/aff.php?aff=29941) cPanel hosting — if you're setting up your own fork's cPanel deploy and don't already have a host, that's a referral link for this project.
+
 ### Setup
 
 1. In your local clone, copy the tracked template into place: `cp sample-deploy.conf deploy.conf` (the copy is untracked/gitignored, since it's specific to one clone/domain — never commit a real `deploy.conf`).
