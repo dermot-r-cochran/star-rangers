@@ -30,6 +30,8 @@ Meta-dimensional beings with a degree of sapience — goal-directed, adaptive, c
 
 Sapient monsters cannot perform functions reserved for Cascade-ranked entities. They have no legitimate authority at any tier.
 
+Not every Class II being is predatory. The crossers documented at [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/) have never produced a confirmed feeding signature in any recorded encounter, and the crossers at [Sí Gaoithe](/star-rangers/lore/universes/si-gaoithe/) resist clean Class II/III sorting altogether — see both entries for why "sapient" and "monster" are not the same claim.
+
 **Examples:**
 
 - **Demons** — Confrontational predators. Feed through intimidation and forced submission rather than deception. A formalization of the "demons" referenced in universe-overlap doctrine as arising from overlap distortions.

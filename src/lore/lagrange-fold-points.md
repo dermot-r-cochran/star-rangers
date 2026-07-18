@@ -63,6 +63,16 @@ Current Survey Corps protocol classifies Lagrange points into two operational ti
 
 L5 of the Earth–Sun system accumulated the densest concentration of fold-transit infrastructure during the Expansion period. Its stability, accessibility, and early recognition by Survey Corps navigators made it the primary staging ground for extrasolar fold operations. The monitoring station at Earth–Sun L5 predates the Star Rangers by over a century and is one of the few facilities named as protected infrastructure in the Rangers' founding charter.
 
+## Quiet-Zone Tunnels: Undetected Natural Fold Conduits
+
+Lagrange flatness is not the only way a region of space ends up gravitationally quiet enough for a fold scaffold to hold. Deep interstellar space, far enough from every mass to sit at a near-zero gradient by simple distance rather than orbital balance, satisfies the same flatness condition Lagrange points reach by geometry. Where an admissible higher-dimensional fold corridor happens to thread through a quiet zone like that — the same rare condition documented at the [Eden Passage](/star-rangers/lore/eden-space-habitat/) — the result is a **stable, naturally-occurring tunnel**, no engineering and no scaffold generation required.
+
+This is a different phenomenon from the transient, collapsing conduits [Concordant Membranes](/star-rangers/lore/concordant-membranes/#beyond-class-iii-transient-gravity-tunnels) documents between adjacent membranes. A quiet-zone tunnel connects two points within the *same* Concordant — the same membrane, the same universe — the way any fold corridor does; it does not cross into a neighboring universe the way the Tír Tairngire or Sí Gaoithe conduits do. What makes it noteworthy is not where it leads, but how little warning it gives before a vessel is already inside it.
+
+A quiet-zone tunnel carries no Lagrange-like signature to survey by — no two-body geometry, no orbital markers, nothing that shows up on a standard system survey, because there is no system nearby to survey. Deep space gives Survey Corps nothing to point an instrument at until a vessel is already close enough for its own fold-adjacency sensors to register a corridor condition forming — which, for a ship not actively watching for it on an ordinary transit, can mean the first confirmation is the exit, not the entry.
+
+No standing protocol exists for detecting one in advance. Survey Corps' current guidance is only to log any unexplained fold-adjacency reading in deep space, however brief, since a corridor that goes uninvestigated does not stop existing. Whether this mechanism accounts for any of the setting's confirmed founding-era anomalies — an undocumented fold route, an unexplained arrival — is speculation the Survey Archive has not confirmed or ruled out either way.
+
 ## What Is Not True
 
 Lagrange points do not create fold routes. They make it easier to *initiate* a fold, but a fold still requires a valid destination with [Concordant](/star-rangers/glossary/concordant/)-compatible exit conditions, a phase-admissible vessel, and an admissible higher-dimensional geometry.

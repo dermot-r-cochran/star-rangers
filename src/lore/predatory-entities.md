@@ -29,8 +29,6 @@ They resist clarity because clarity destroys the feeding condition. They prefer 
 
 Their sapience matters operationally. The Court-Fae at the Marsh Causeway adapted across each of Elvira's failed rituals, learning from every attempt and adjusting the substrate to block resolution. That is not instinct. That is strategy.
 
-**How to counter them:** Name what you know. Make ambiguity explicit. Discharge or consciously release social debts. Court-Fae cannot feed on a loop that has already been broken.
-
 ## Gilded Saints
 
 Gilded Saints are sapient virtue-extractors (Class II). They feed on:
@@ -39,8 +37,6 @@ Gilded Saints are sapient virtue-extractors (Class II). They feed on:
 - Closure-prevention (ensuring that resolution never quite arrives)
 
 They do not present as threats. They present as worthy causes, inspiring figures, or sacred duties. Their intelligence is tuned to sustaining exactly the emotional conditions they require by making themselves appear like the correct object of care.
-
-**How to counter them:** Recognize the closure-prevention pattern. Accept that enough can be enough. The end of suffering is not the betrayal of virtue.
 
 ## Cute Predators
 

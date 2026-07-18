@@ -1,0 +1,15 @@
+---
+layout: journal-entry.njk
+title: "Sorting Doctrine Out of Lore, and a Paragraph That Knew Too Much"
+date: "2026-07-18"
+description: "The Cosmic Limitation on Evil was never settled lore, it was an argument. Moving it to the Codex turned up a second problem next door: a paragraph in Predatory Entities that had gotten ahead of the story."
+tags: [worldbuilding, editorial, lore, codex, spoilers]
+---
+
+I went back through "The Cosmic Limitation on Evil" today and realized it had never actually belonged where it was filed. Lore and the glossary are supposed to be the site's most settled ground — hard-SF-leaning, internally consistent, minimal fantasy, the kind of page a reader can trust as flatly true even when the story hasn't caught up to it yet. This page was never that. It's an argument: an Archive theorist trying, across generations of revision, to reconcile "the Cascade encodes no moral cosmology" against the one law that reads exactly like moral cosmology anyway, and losing every time. Devotional tradition has its own answer, and the two have never agreed. That's not settled lore. That's a document with a position — which is what the Codex is for.
+
+So it moved. [`src/lore/cosmic-limitation-on-evil.md`](/star-rangers/codex/cosmic-limitation-on-evil/) is now `src/codex/cosmic-limitation-on-evil.md`, filed as a Doctrinal Division working paper with a named theorist attached to it, the same way Brother Daire's account of [Saint Aoife's](/star-rangers/codex/life-of-saint-aoife/) vision is filed as his account rather than as the site's own verdict on what she saw. Nothing about the underlying law changed. What changed is the frame around it — it now reads as one office's unfinished argument, not as the Archive speaking with a single settled voice, which is closer to what the page was actually doing all along.
+
+That pass turned up a second problem in a neighboring lore page I hadn't meant to touch: [Predatory Entities](/star-rangers/lore/predatory-entities/) had a "How to counter them" paragraph for two of its three entity classes, stating plainly what specific action breaks their feeding pattern. That's not cosmology — it's the answer to a plot question, and it was sitting in public lore for a mechanism at least one storyline hasn't finished paying off yet. Lore is allowed to run ahead of the prose on settled facts; the section's own intro says so. It isn't supposed to hand over the answer to a scene that hasn't been written yet. I pulled both paragraphs. The craft reasoning behind them still exists — it just lives in the story bible now, where readers don't go looking and the site doesn't render it, instead of sitting in a page anyone can open before the story is ready to tell them.
+
+The rule I ended up writing down, so I stop relitigating it case by case: lore and glossary state settled fact, leaning hard-SF, and stay consistent with each other. Contested, paradoxical, or devotional readings go in the Codex, attached to whoever's arguing them. And neither one gets to spend a specific unresolved story beat before the story does — that's what the story bible is for.
