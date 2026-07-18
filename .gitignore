@@ -3,5 +3,6 @@ _site/
 .DS_Store
 *.log
 deploy.conf
+giscus.local.json
 deploy-logs/
 src/lore/custom/
