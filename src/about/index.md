@@ -51,7 +51,10 @@ description: "About Dermot R. Cochran, creator of Star Rangers."
   which makes it exactly the kind of non-commercial fan work the licence's Fan Works Policy
   welcomes, not something the main site can vouch for line by line. Post one the same way
   (AO3 or Wattpad, tagged and clearly marked an unofficial translation) and link it in the
-  Fan Creations category so readers in that language can find it. For a casual read in another
+  Fan Creations category so readers in that language can find it. One note for translators:
+  the story's coined in-universe terms — names and technical vocabulary like <em>Kieme</em> —
+  are canon as spelled, not ordinary words to render, so a faithful translation leaves them
+  intact. For a casual read in another
   language, your browser's built-in translate feature works on every page — automatically, and
   just as unofficially.
 </p>
