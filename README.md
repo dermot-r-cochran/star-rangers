@@ -55,7 +55,9 @@ Locking these to "Announcement" format means only the giscus GitHub App can star
 1. Create the public `Star-Rangers/churchspace-site-comments` repo and enable Discussions on it, the same as step 1-2 above.
 2. Create the same 9 categories in it (Characters, Lore & Worldbuilding, Episodes Discussion, Journal, Announcements, General, Q&A, Theories & Predictions, Fan Creations).
 3. Install the [giscus app](https://github.com/apps/giscus) on it.
-4. Fetch its IDs with `GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js --repo Star-Rangers/churchspace-site-comments` — `--repo` targets a non-default comments repo and only ever prints (never `--write`, since that patches `src/_data/giscus.js`'s own single default). Paste the five printed values into the church-space clone's `deploy.conf` as `GISCUS_REPO`/`GISCUS_REPO_ID`/`GISCUS_CATEGORY_CHARACTERS_ID`/`GISCUS_CATEGORY_LORE_ID`/`GISCUS_CATEGORY_EPISODES_ID`/`GISCUS_CATEGORY_JOURNAL_ID` (or the matching `ALT_<id>_GISCUS_*` keys — see `sample-deploy.conf`'s church-space example block).
+4. Fetch its IDs with `GITHUB_TOKEN=ghp_xxx node scripts/fetch-giscus-ids.js --repo Star-Rangers/churchspace-site-comments` — `--repo` targets a non-default comments repo and only ever prints (never `--write`, since that patches `src/_data/giscus.js`'s own default). These five values are already registered as the **`church-space`** profile in `giscus.js`'s `GISCUS_PROFILES`, so a church-space deploy just sets `GISCUS_PROFILE=church-space` (or `ALT_<id>_GISCUS_PROFILE=church-space`) — one key instead of six — see `sample-deploy.conf`'s church-space example block. If the repo is ever rotated, re-fetch and update that profile's IDs in `giscus.js`.
+
+**Third-party forks** that just want their own board (not one of the project's registered profiles) don't need to touch `giscus.js` or `deploy.conf` at all: copy `sample-giscus.local.json` to `giscus.local.json` (gitignored) and fill in your repo + category IDs. It's read at build time and becomes your fork's default board on every build path — `npm start`, GitHub Pages, and any cPanel deploy that doesn't select a `GISCUS_PROFILE`. A registered `GISCUS_PROFILE`, and individual `GISCUS_*` env vars, still take precedence over it, so per-domain overrides keep working. Because it's gitignored, your comment-repo settings never conflict with an upstream merge.
 
 ### One-time setup
 
@@ -193,8 +195,9 @@ COMMENTS_ENABLED=true
 | `CUSTOM_LORE_FILE` | *(unset — no extra page)* | Path to a clone-exclusive lore markdown file. |
 | `CUSTOM_CSS_FILE` | *(unset — no extra CSS)* | Path to a clone-exclusive CSS file, appended after the theme. |
 | `COMMENTS_ENABLED` | `true` | Set `false` to build this clone with the [giscus comment widget](#discussion-forum-giscus) turned off entirely (e.g. a staging/preview domain). |
-| `GISCUS_REPO` | *(unset — shared default repo)* | Point this clone's comment widget at a different giscus comments repo — see [A second, separate forum for one domain](#a-second-separate-forum-for-one-domain). |
-| `GISCUS_REPO_ID` | *(unset — shared default repo's ID)* | That repo's numeric ID, from `fetch-giscus-ids.js --repo` or the giscus.app wizard. Required if `GISCUS_REPO` is set. |
+| `GISCUS_PROFILE` | *(unset — `default` profile)* | Select one of the project's own registered comment repos (`GISCUS_PROFILES` in `src/_data/giscus.js`) with one key instead of the six below: `default` (sciencefiction.site, starquest.*) or `church-space` (church-space.site/.online + the Fellowship of Light addon domains). An unknown name fails the build. |
+| `GISCUS_REPO` | *(unset — profile's repo)* | Third-party escape hatch: point this clone's comment widget at a repo that isn't a registered profile — see [A second, separate forum for one domain](#a-second-separate-forum-for-one-domain). Overrides just this field of the selected profile. |
+| `GISCUS_REPO_ID` | *(unset — profile's repo ID)* | That repo's numeric ID, from `fetch-giscus-ids.js --repo` or the giscus.app wizard. Required if `GISCUS_REPO` is set. |
 | `GISCUS_CATEGORY_CHARACTERS_ID` | *(unset — shared default's ID)* | That repo's "Characters" category ID. Required if `GISCUS_REPO` is set. |
 | `GISCUS_CATEGORY_LORE_ID` | *(unset — shared default's ID)* | That repo's "Lore & Worldbuilding" category ID. Required if `GISCUS_REPO` is set. |
 | `GISCUS_CATEGORY_EPISODES_ID` | *(unset — shared default's ID)* | That repo's "Episodes Discussion" category ID. Required if `GISCUS_REPO` is set. |

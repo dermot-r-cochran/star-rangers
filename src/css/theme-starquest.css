@@ -250,6 +250,12 @@ a:focus {
 .site-footer a {
   color: var(--color-accent);
 }
+.site-lang-note {
+  max-width: 62ch;
+  margin: var(--spacing-sm) auto 0;
+  font-size: 0.8rem;
+  opacity: 0.85;
+}
 .site-theme-audio {
   display: flex;
   flex-direction: column;
@@ -640,9 +646,13 @@ a:focus {
    heroCharacters, per-theme). CSS-only: every slide shares one keyframe
    animation and is staggered purely via animation-delay (loop.index0 * 6s in
    the template's :nth-child order below), so no JS is needed to drive it.
-   Two keyframe variants exist because the "on" window's keyframe percentage
-   is a function of slide count (100/N%) - only 5 (pets theme) and 6 (every
-   other theme) are ever used, see src/index.md's heroCharacterIds. */
+   Each slide's fade-OUT window deliberately overlaps the next slide's
+   fade-IN window (the outgoing slide fades out over [slot, slot+fade] while
+   the incoming one fades in over the same interval) so the transition is a
+   true crossfade rather than a dip to the background between portraits.
+   Two keyframe variants exist because the slot width is a function of slide
+   count (100/N%) - only 5 (pets theme) and 6 (every other theme) are ever
+   used, see src/index.md's heroCharacterIds. */
 .home-hero__slideshow {
   position: relative;
   display: block;
@@ -680,16 +690,18 @@ a:focus {
 .home-hero__slide:nth-child(5) { animation-delay: 24s; }
 .home-hero__slide:nth-child(6) { animation-delay: 30s; }
 @keyframes home-hero-crossfade-6 {
-  0%, 100% { opacity: 0; }
+  0% { opacity: 0; }
   2.78% { opacity: 1; }
-  13.89% { opacity: 1; }
-  16.67% { opacity: 0; }
+  16.67% { opacity: 1; }
+  19.45% { opacity: 0; }
+  100% { opacity: 0; }
 }
 @keyframes home-hero-crossfade-5 {
-  0%, 100% { opacity: 0; }
+  0% { opacity: 0; }
   3.33% { opacity: 1; }
-  16.67% { opacity: 1; }
-  20% { opacity: 0; }
+  20% { opacity: 1; }
+  23.33% { opacity: 0; }
+  100% { opacity: 0; }
 }
 @media (prefers-reduced-motion: reduce) {
   .home-hero__slide {

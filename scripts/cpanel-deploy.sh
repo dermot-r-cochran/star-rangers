@@ -77,6 +77,7 @@ SITE_TITLE=""
 CUSTOM_LORE_FILE=""
 CUSTOM_CSS_FILE=""
 COMMENTS_ENABLED="true"
+GISCUS_PROFILE=""
 GISCUS_REPO=""
 GISCUS_REPO_ID=""
 GISCUS_CATEGORY_CHARACTERS_ID=""
@@ -179,15 +180,16 @@ build_and_deploy() {
   shift 11
 
   # Anything left in "$@" past the 11 fixed positions above is a trailing
-  # NAME=value toggle (COMMENTS_ENABLED, and now the 6 GISCUS_* keys) rather
-  # than its own numbered parameter - a plain setting added later only needs
-  # a `local`/case arm here plus one more "NAME=$value" string at each call
-  # site below, not a new position threaded through this whole function
-  # (and both callers) in order. Unrecognized names fail loudly rather than
-  # being exported blindly, same spirit as the CUSTOM_LORE_FILE/
-  # CUSTOM_CSS_FILE "missing file" checks further down.
+  # NAME=value toggle (COMMENTS_ENABLED, and the GISCUS_* keys: GISCUS_PROFILE
+  # plus the 6 repo/category overrides) rather than its own numbered
+  # parameter - a plain setting added later only needs a `local`/case arm here
+  # plus one more "NAME=$value" string at each call site below, not a new
+  # position threaded through this whole function (and both callers) in order.
+  # Unrecognized names fail loudly rather than being exported blindly, same
+  # spirit as the CUSTOM_LORE_FILE/CUSTOM_CSS_FILE "missing file" checks
+  # further down.
   local COMMENTS_ENABLED="true"
-  local GISCUS_REPO="" GISCUS_REPO_ID="" GISCUS_CATEGORY_CHARACTERS_ID="" \
+  local GISCUS_PROFILE="" GISCUS_REPO="" GISCUS_REPO_ID="" GISCUS_CATEGORY_CHARACTERS_ID="" \
         GISCUS_CATEGORY_LORE_ID="" GISCUS_CATEGORY_EPISODES_ID="" GISCUS_CATEGORY_JOURNAL_ID=""
   local b_kv b_kv_name b_kv_value
   for b_kv in "$@"; do
@@ -195,6 +197,7 @@ build_and_deploy() {
     b_kv_value="${b_kv#*=}"
     case "$b_kv_name" in
       COMMENTS_ENABLED) COMMENTS_ENABLED="$b_kv_value" ;;
+      GISCUS_PROFILE) GISCUS_PROFILE="$b_kv_value" ;;
       GISCUS_REPO) GISCUS_REPO="$b_kv_value" ;;
       GISCUS_REPO_ID) GISCUS_REPO_ID="$b_kv_value" ;;
       GISCUS_CATEGORY_CHARACTERS_ID) GISCUS_CATEGORY_CHARACTERS_ID="$b_kv_value" ;;
@@ -223,8 +226,8 @@ build_and_deploy() {
   local CHARACTERS="$b_characters" TOPICS="$b_topics" THREADS="$b_threads" THEME="$b_theme" \
         SITE_NAME="$b_site_name" SITE_TITLE="$b_site_title" SITE_DOMAIN="$b_site_domain"
   export CHARACTERS TOPICS THREADS THEME SITE_NAME SITE_TITLE SITE_DOMAIN COMMENTS_ENABLED \
-    GISCUS_REPO GISCUS_REPO_ID GISCUS_CATEGORY_CHARACTERS_ID GISCUS_CATEGORY_LORE_ID GISCUS_CATEGORY_EPISODES_ID \
-    GISCUS_CATEGORY_JOURNAL_ID
+    GISCUS_PROFILE GISCUS_REPO GISCUS_REPO_ID GISCUS_CATEGORY_CHARACTERS_ID GISCUS_CATEGORY_LORE_ID \
+    GISCUS_CATEGORY_EPISODES_ID GISCUS_CATEGORY_JOURNAL_ID
 
   echo "=== [$label] build + deploy starting (dest=$dest theme=$b_theme domain=$b_site_domain comments_enabled=$COMMENTS_ENABLED) ==="
 
@@ -388,6 +391,7 @@ main() {
     if build_and_deploy "primary" "/home/$CPANEL_USER/public_html/" \
          "$THEME" "$CHARACTERS" "$TOPICS" "$THREADS" "$SITE_NAME" "$SITE_TITLE" "$DOMAIN" \
          "$CUSTOM_LORE_FILE" "$CUSTOM_CSS_FILE" "COMMENTS_ENABLED=$COMMENTS_ENABLED" \
+         "GISCUS_PROFILE=$GISCUS_PROFILE" \
          "GISCUS_REPO=$GISCUS_REPO" "GISCUS_REPO_ID=$GISCUS_REPO_ID" \
          "GISCUS_CATEGORY_CHARACTERS_ID=$GISCUS_CATEGORY_CHARACTERS_ID" \
          "GISCUS_CATEGORY_LORE_ID=$GISCUS_CATEGORY_LORE_ID" \
@@ -460,6 +464,7 @@ main() {
     alt_custom_lore=$(alt_get "$id" CUSTOM_LORE_FILE)
     alt_custom_css=$(alt_get "$id" CUSTOM_CSS_FILE)
     alt_comments_enabled=$(alt_get "$id" COMMENTS_ENABLED); alt_comments_enabled="${alt_comments_enabled:-true}"
+    alt_giscus_profile=$(alt_get "$id" GISCUS_PROFILE)
     alt_giscus_repo=$(alt_get "$id" GISCUS_REPO)
     alt_giscus_repo_id=$(alt_get "$id" GISCUS_REPO_ID)
     alt_giscus_cat_characters=$(alt_get "$id" GISCUS_CATEGORY_CHARACTERS_ID)
@@ -470,6 +475,7 @@ main() {
     if build_and_deploy "$id" "$alt_dest" "$alt_theme" "$alt_characters" "$alt_topics" "$alt_threads" \
          "$alt_site_name" "$alt_site_title" "$alt_domain" "$alt_custom_lore" "$alt_custom_css" \
          "COMMENTS_ENABLED=$alt_comments_enabled" \
+         "GISCUS_PROFILE=$alt_giscus_profile" \
          "GISCUS_REPO=$alt_giscus_repo" "GISCUS_REPO_ID=$alt_giscus_repo_id" \
          "GISCUS_CATEGORY_CHARACTERS_ID=$alt_giscus_cat_characters" \
          "GISCUS_CATEGORY_LORE_ID=$alt_giscus_cat_lore" \

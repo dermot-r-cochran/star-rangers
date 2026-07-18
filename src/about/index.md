@@ -19,7 +19,23 @@ description: "About Dermot R. Cochran, creator of Star Rangers."
   request, alongside a ShellCheck pass over the deployment scripts.
 </p>
 
-<h2>Fan fiction</h2>
+<h2>How this site is written</h2>
+<p>
+  The words on this site have been drafted and edited with the help of more than one tool over
+  time, and the split is worth naming honestly. The early version of the site leaned on
+  <a href="https://github.com/features/copilot">GitHub Copilot</a> and Microsoft 365 Copilot for
+  scaffolding and template work; some of the Codex's in-universe documentary passages were refined in
+  <a href="https://www.sudowrite.com/">Sudowrite</a>. That last part became a problem once a
+  Sudowrite draft and the committed file drifted out of sync and neither could be trusted as
+  authoritative — so the repository is now the single source of truth, and everything reconciles to
+  it. <a href="https://claude.com/claude-code">Claude Code</a> does most of the current editing and
+  organizing work directly against the repository, running the schema validation and dry-run build
+  before anything is committed and helping keep the lore, Codex, glossary, and story bible consistent
+  with each other. There's a fuller account of how that came to be in the
+  <a href="/star-rangers/journal/two-copies-forty-seconds-apart/">Journal</a>.
+</p>
+
+<h2 id="fan-works">Fan fiction</h2>
 <p>
   Want to write your own stories in the Star Rangers universe? Post them on
   <a href="https://archiveofourown.org/">Archive of Our Own</a> or
@@ -28,6 +44,19 @@ description: "About Dermot R. Cochran, creator of Star Rangers."
   them, and feel free to link your work in the
   <a href="https://github.com/Star-Rangers/sciencefiction-site-comments/discussions">comments</a>'
   Fan Creations category.
+</p>
+<p>
+  <strong>Translations count as fan works too.</strong> English is the canonical text, so a
+  translation into another language is a derivative reading rather than authoritative canon —
+  which makes it exactly the kind of non-commercial fan work the licence's Fan Works Policy
+  welcomes, not something the main site can vouch for line by line. Post one the same way
+  (AO3 or Wattpad, tagged and clearly marked an unofficial translation) and link it in the
+  Fan Creations category so readers in that language can find it. One note for translators:
+  the story's coined in-universe terms — names and technical vocabulary like <em>Kieme</em> —
+  are canon as spelled, not ordinary words to render, so a faithful translation leaves them
+  intact. For a casual read in another
+  language, your browser's built-in translate feature works on every page — automatically, and
+  just as unofficially.
 </p>
 <p>
   Prefer to run your own site instead of posting to an existing platform? Fan fiction clones

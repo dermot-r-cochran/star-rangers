@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="{{ description | default(site.description) }}" />
   <title>{% if title %}{{ title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <link rel="stylesheet" href="/star-rangers/css/main.css" />
+  <link rel="stylesheet" href="/star-rangers/css/main.css?v={{ build.assetVersion }}" />
   <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — New Episodes" href="{{ '/feed/feed.xml' | absoluteUrl(site.url) }}" />
 
   <meta property="og:site_name" content="{{ site.name }}" />
@@ -135,10 +135,16 @@
         Copyright © {{ build.copyrightYears }} Dermot R. Cochran.
         Released under the <a href="/star-rangers/#license" rel="license">CC BY-NC-ND 4.0</a> licence.
       </p>
+      <p class="site-lang-note">
+        Written in English, its canonical language. Your browser can translate any page into
+        another language — those translations are automatic and <strong>unofficial</strong>, and
+        the English text is always the authority on canon. A human translation offered as a
+        <a href="/star-rangers/about/#fan-works">fan work</a> is welcome too.
+      </p>
     </div>
   </footer>
 
-  <script src="/star-rangers/js/pov.js" defer></script>
-  <script src="/star-rangers/js/search.js" defer></script>
+  <script src="/star-rangers/js/pov.js?v={{ build.assetVersion }}" defer></script>
+  <script src="/star-rangers/js/search.js?v={{ build.assetVersion }}" defer></script>
 </body>
 </html>
