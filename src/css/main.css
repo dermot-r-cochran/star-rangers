@@ -247,6 +247,12 @@ a:focus {
 .site-footer a {
   color: var(--color-accent);
 }
+.site-lang-note {
+  max-width: 62ch;
+  margin: var(--spacing-sm) auto 0;
+  font-size: 0.8rem;
+  opacity: 0.85;
+}
 .site-theme-audio {
   display: flex;
   flex-direction: column;

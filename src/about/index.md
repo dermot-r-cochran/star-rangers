@@ -35,7 +35,7 @@ description: "About Dermot R. Cochran, creator of Star Rangers."
   <a href="/star-rangers/journal/two-copies-forty-seconds-apart/">Journal</a>.
 </p>
 
-<h2>Fan fiction</h2>
+<h2 id="fan-works">Fan fiction</h2>
 <p>
   Want to write your own stories in the Star Rangers universe? Post them on
   <a href="https://archiveofourown.org/">Archive of Our Own</a> or
@@ -44,6 +44,16 @@ description: "About Dermot R. Cochran, creator of Star Rangers."
   them, and feel free to link your work in the
   <a href="https://github.com/Star-Rangers/sciencefiction-site-comments/discussions">comments</a>'
   Fan Creations category.
+</p>
+<p>
+  <strong>Translations count as fan works too.</strong> English is the canonical text, so a
+  translation into another language is a derivative reading rather than authoritative canon —
+  which makes it exactly the kind of non-commercial fan work the licence's Fan Works Policy
+  welcomes, not something the main site can vouch for line by line. Post one the same way
+  (AO3 or Wattpad, tagged and clearly marked an unofficial translation) and link it in the
+  Fan Creations category so readers in that language can find it. For a casual read in another
+  language, your browser's built-in translate feature works on every page — automatically, and
+  just as unofficially.
 </p>
 <p>
   Prefer to run your own site instead of posting to an existing platform? Fan fiction clones

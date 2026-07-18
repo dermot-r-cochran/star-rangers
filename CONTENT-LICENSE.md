@@ -9,6 +9,7 @@ In scope: `src/seasons/`, `src/threads/`, `src/characters/`, `src/timeline/`, `s
 The full licence below includes a No-Derivatives term. Notwithstanding that term, Dermot R. Cochran explicitly permits non-commercial fan works based on the Star Rangers characters, setting, and lore — this is a standing exception to No-Derivatives specifically for fan creativity, not a change to the licence's other terms. This covers:
 
 - **Fan fiction and fan art**, hosted wherever you like (AO3, Wattpad, etc. — see the site's About page for the pointer given to readers).
+- **Translations** into other languages. English is the canonical text, so a translation is a derivative reading rather than authoritative canon; it's welcome as a non-commercial fan work under the same conditions, and should be clearly labeled an unofficial translation.
 - **Fan fiction clones**: forking this repository — the MIT-licensed engine *and* some or all of this CC BY-NC-ND content — to run your own non-commercial Star Rangers fan site, whether that means adding your own stories alongside the existing canon or building out a new corner of the setting.
 
 Conditions:
