@@ -82,3 +82,4 @@ See also:
 - [Allocation Units of Cognition (AUC)](/star-rangers/lore/ai-usage-credits/)
 - [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding-system/)
 - [Threnos-Ω: Post-Entropy Universe](/star-rangers/lore/universes/threnos-omega/)
+- [Sí Gaoithe: The Discordant Membrane](/star-rangers/lore/universes/si-gaoithe/) — a candidate case at the opposite, high-CEI end of the same framework

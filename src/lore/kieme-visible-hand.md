@@ -6,7 +6,7 @@ tags: [cosmology, kieme, evil, suffering, church-space]
 description: "The church-space telling of the Cosmic Limitation on Evil — where the Archive insists Kieme's ledger can only be inferred, devotional tradition shows the hand doing the keeping."
 ---
 
-The [Cosmic Limitation on Evil](/star-rangers/lore/cosmic-limitation-on-evil/) is not in dispute: every entity that exists in service of evil dissolves once it no longer serves a higher purpose, and the suffering it caused is a debt [Kieme](/star-rangers/glossary/kieme/) alone repays. What's in dispute is whether anyone ever sees Kieme do it.
+The [Cosmic Limitation on Evil](/star-rangers/codex/cosmic-limitation-on-evil/) is not in dispute: every entity that exists in service of evil dissolves once it no longer serves a higher purpose, and the suffering it caused is a debt [Kieme](/star-rangers/glossary/kieme/) alone repays. What's in dispute is whether anyone ever sees Kieme do it.
 
 The Archive's answer is no. Its account of Kieme is built entirely on absence — no confirmed instance of selective intervention at the Material layer, ever, across any Concordant. The Limitation is the one exception the Archive tolerates, and it tolerates it uneasily, forever trying to rephrase "Kieme keeping the ledger" as a structural invariant rather than a deliberate act, because a deliberate act implies someone is watching who chooses to act.
 

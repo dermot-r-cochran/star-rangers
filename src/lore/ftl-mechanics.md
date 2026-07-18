@@ -58,6 +58,8 @@ Operating from a Tier 1 Lagrange site (L4 or L5) produces:
 
 This does not make impossible transits possible. A valid corridor still requires a [Concordant](/star-rangers/glossary/concordant/)-compatible destination and an admissible connecting geometry. Lagrange staging improves the quality of valid transits; it does not create them.
 
+Gravitational flatness sufficient for a fold scaffold is not exclusive to Lagrange geometry. Deep interstellar space, far enough from any mass, can be flat enough by simple distance rather than orbital balance — and where an admissible corridor threads through a quiet zone like that, the result is a stable, undetected natural conduit rather than an engineered fold. See [Quiet-Zone Tunnels](/star-rangers/lore/lagrange-fold-points/#quiet-zone-tunnels-undetected-natural-fold-conduits).
+
 ### Observable Effects on Time-Bound Entities
 - Simultaneous visual traces at origin and destination during fold peak.
 - Temporal perception lag in nearby biological observers.
