@@ -224,6 +224,22 @@ module.exports = function(eleventyConfig) {
   // need their own default-handling for an unassigned season.
   eleventyConfig.addFilter("threadForSeason", (seasonNumber) => threadForSeason(seasonNumber));
 
+  // Distinct season numbers (sorted) that have at least one published
+  // chapter in the given thread id. Templates use its length to decide
+  // whether a thread's season-block titles are worth rendering: a thread
+  // showing a single season just repeats its own heading in the block
+  // title (most visibly the Founding Era, whose one season's label IS the
+  // thread name), so they suppress the title when the length is 1.
+  eleventyConfig.addFilter("seasonsInThread", (chapters, threadId) => {
+    const seen = new Set();
+    for (const chapter of chapters || []) {
+      if (threadForSeason(chapter.data.season).id === threadId) {
+        seen.add(Number(chapter.data.season));
+      }
+    }
+    return [...seen].sort((a, b) => a - b);
+  });
+
   eleventyConfig.addFilter("glossaryUrl", function(term, glossaryCollection, loreCollection) {
     const match =
       (glossaryCollection || []).find((item) => item.data.title === term) ||
