@@ -1,0 +1,28 @@
+---
+layout: character.njk
+title: "Detective Inspector Wendell Albercombe"
+id: albercombe
+species: Human
+role: Detective Inspector, Eden Space Habitat
+status: Active
+aliases:
+  - "DI Albercombe"
+tags: [human, eden, detective, inspector, orbital-habitats-compact, orbital-five-o]
+description: "Eden Space Habitat's Detective Inspector, carrying Superintendent Oyelaran's ordinary caseload — and quietly closing more of it than the bureau's own instruments would explain, care of an off-the-books arrangement he has stopped trying to justify on paper."
+---
+
+Wendell Albercombe reports to Superintendent [Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/) at [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/) and carries the bureau's ordinary caseload: theft, contract disputes, and the occasional [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/) compliance-framework referral that turns out to be exactly as boring as it reads. On paper, this makes him the least remarkable name on Oyelaran's roster. On paper is doing a great deal of work in that sentence.
+
+His closure rate on the "boring" referrals is, by any honest audit, better than the bureau's own investigative intelligences manage on comparable cases — [Reeves](/star-rangers/characters/reeves/) included, a fact Reeves itself has noted once, in passing, and not raised again. Albercombe attributes this to "knowing the habitat," in the tone of a man who would rather refile a compliance-framework referral by hand than credit [Jeeves](/star-rangers/characters/jeeves/), the welfare-program household intelligence Eden assigned him three years ago and has since stopped trying to have removed.
+
+## Character Notes
+
+Albercombe complains about his caseload constantly, at volume, usually over dinner — which is, not coincidentally, where most of it gets solved. He has never once connected the two facts aloud.
+
+He is fond of Jeeves in the specific, undeclared way of a man who signs every closed case under his own name and has never once been asked why the closure rate improved the year the household intelligence moved in.
+
+## Orbital Five-O
+
+Albercombe has no standing with [Commander Kai Larsen](/star-rangers/characters/kai-larsen/)'s task force and no particular interest in acquiring any — Five-O's jurisdiction runs to matters the Compact's own habitats can't close alone, and Albercombe's caseload is, almost by definition, everything Five-O doesn't need. On the rare referral that turns out to be bigger than it read on the intake form, he's the desk Five-O's liaison calls first, purely because he's the one who already knows which deck it happened on.
+
+See also: [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [Jeeves](/star-rangers/characters/jeeves/), [Commander Kai Larsen](/star-rangers/characters/kai-larsen/), [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/).
