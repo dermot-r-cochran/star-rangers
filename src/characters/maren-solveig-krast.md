@@ -33,4 +33,6 @@ What her line left out — deliberately or not, the hearing record does not reso
 
 She remains, within Solar Command's institutional memory, a genuinely respected engineering officer whose one hearing-room answer outlived her entire career and came, eventually, to mean something closer to the opposite of what she intended by it.
 
-See also: [Military Space Command](/star-rangers/lore/military-space-command/), [Mars](/star-rangers/lore/planets/mars/), [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/).
+A Fellowship comparative-archive note reads her founding word against an Old-Earth scriptural figure — the captain who ended a rotten house and kept its older idol; see [Jehu Among the Comparanda](/star-rangers/codex/jehu-among-the-comparanda/) and its told version, [The Captain Who Drove Furiously](/star-rangers/codex/the-captain-who-drove-furiously/). The comparandum is one correspondent's, contested and non-diegetic to the political record above.
+
+See also: [Military Space Command](/star-rangers/lore/military-space-command/), [Mars](/star-rangers/lore/planets/mars/), [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), [Jehu Among the Comparanda](/star-rangers/codex/jehu-among-the-comparanda/), [The Captain Who Drove Furiously](/star-rangers/codex/the-captain-who-drove-furiously/).
