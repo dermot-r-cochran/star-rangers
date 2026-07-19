@@ -209,6 +209,15 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("zeroPad", (num) => String(num).padStart(2, "0"));
 
+  // Reader-facing label for a season number. Season 0 is the prequel
+  // Founding Era, presented by its thread name rather than as "Season 0"
+  // (see lib/storyline-threads.js's `founding-era` thread, seasons: [0]);
+  // every other season reads as "Season N". URLs, ids, and the
+  // season/episode/chapter schema are unaffected - this is display only.
+  eleventyConfig.addFilter("seasonLabel", (seasonNumber) =>
+    Number(seasonNumber) === 0 ? "Founding Era" : `Season ${seasonNumber}`
+  );
+
   // Groups a chapter/season under its storyline thread - see
   // lib/storyline-threads.js. Always returns a thread object (falling back
   // to the shared "Unsorted" placeholder), never null, so templates never

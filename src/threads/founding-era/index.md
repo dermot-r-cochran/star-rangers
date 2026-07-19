@@ -29,7 +29,7 @@ permalink: /threads/founding-era/
       {% set currentSeason = chapter.data.season %}
       <div class="season-block">
         <h2 class="season-block__title">
-          <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
+          <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">{{ currentSeason | seasonLabel }}</a>
         </h2>
         <ul class="chapter-list" role="list">
     {% endif %}

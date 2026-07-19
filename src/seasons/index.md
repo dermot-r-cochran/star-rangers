@@ -37,7 +37,7 @@ permalink: /seasons/
             {% set currentSeason = chapter.data.season %}
             <div class="season-block">
               <h3 class="season-block__title">
-                <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
+                <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">{{ currentSeason | seasonLabel }}</a>
               </h3>
               <ul class="chapter-list" role="list">
           {% endif %}
