@@ -15,7 +15,7 @@ If variability broadens, risk surface broadens. This is expected.
 Determine minimum viable variability for mission objectives:
 
 - truth-seeking
-n- adaptation to unknown conditions
+- adaptation to unknown conditions
 - creative synthesis under uncertainty
 
 Variability below this threshold collapses function. Variability above it accumulates avoidable risk.
