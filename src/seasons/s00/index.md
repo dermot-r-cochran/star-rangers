@@ -1,20 +1,20 @@
 ---
 layout: base.njk
-title: "Season 0"
-description: "Prequel season of Star Rangers — the events that led to the founding of the Star Rangers, told from the perspectives of those who built it and those who resisted."
+title: "Founding Era"
+description: "The prequel Founding Era of Star Rangers — the events that led to the founding of the Star Rangers, told from the perspectives of those who built it and those who resisted."
 permalink: /seasons/s00/
 ---
 <nav class="chapter-breadcrumb" aria-label="Season location">
   <ol class="breadcrumb" role="list">
     <li><a href="/star-rangers/seasons/">Seasons</a></li>
-    <li aria-current="page">Season 0</li>
+    <li aria-current="page">Founding Era</li>
   </ol>
 </nav>
 
 <img class="page-hero-image" src="/star-rangers/images/hero/season-00-foundation.jpg" alt="A moody, neon-lit futuristic corridor" />
-<h1 class="page-title">Season 0 · Foundation</h1>
+<h1 class="page-title">Founding Era</h1>
 <p class="page-intro">
-  Here is the fracture before the oath. Season 0 follows the years that made the Star Rangers both necessary and possible, from 2712 to 2723 UCSD under the last stretch of Military Space Command rule.
+  Here is the fracture before the oath. The Founding Era follows the years that made the Star Rangers both necessary and possible, from 2712 to 2723 UCSD under the last stretch of Military Space Command rule.
 </p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (0 | threadForSeason).id }}/">{{ (0 | threadForSeason).name }}</a></p>
 

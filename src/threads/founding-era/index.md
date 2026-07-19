@@ -19,6 +19,7 @@ permalink: /threads/founding-era/
 
 {% set threadId = "founding-era" %}
 {% set allChapters = collections.chapters %}
+{% set multiSeason = (allChapters | seasonsInThread(threadId) | length) > 1 %}
 {% set hasThreadChapters = false %}
 {% set currentSeason = -1 %}
 {% for chapter in allChapters %}
@@ -28,9 +29,11 @@ permalink: /threads/founding-era/
       {% if currentSeason != -1 %}</ul></div>{% endif %}
       {% set currentSeason = chapter.data.season %}
       <div class="season-block">
+        {% if multiSeason %}
         <h2 class="season-block__title">
-          <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
+          <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">{{ currentSeason | seasonLabel }}</a>
         </h2>
+        {% endif %}
         <ul class="chapter-list" role="list">
     {% endif %}
           <li class="chapter-list__item">

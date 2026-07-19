@@ -209,11 +209,36 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("zeroPad", (num) => String(num).padStart(2, "0"));
 
+  // Reader-facing label for a season number. Season 0 is the prequel
+  // Founding Era, presented by its thread name rather than as "Season 0"
+  // (see lib/storyline-threads.js's `founding-era` thread, seasons: [0]);
+  // every other season reads as "Season N". URLs, ids, and the
+  // season/episode/chapter schema are unaffected - this is display only.
+  eleventyConfig.addFilter("seasonLabel", (seasonNumber) =>
+    Number(seasonNumber) === 0 ? "Founding Era" : `Season ${seasonNumber}`
+  );
+
   // Groups a chapter/season under its storyline thread - see
   // lib/storyline-threads.js. Always returns a thread object (falling back
   // to the shared "Unsorted" placeholder), never null, so templates never
   // need their own default-handling for an unassigned season.
   eleventyConfig.addFilter("threadForSeason", (seasonNumber) => threadForSeason(seasonNumber));
+
+  // Distinct season numbers (sorted) that have at least one published
+  // chapter in the given thread id. Templates use its length to decide
+  // whether a thread's season-block titles are worth rendering: a thread
+  // showing a single season just repeats its own heading in the block
+  // title (most visibly the Founding Era, whose one season's label IS the
+  // thread name), so they suppress the title when the length is 1.
+  eleventyConfig.addFilter("seasonsInThread", (chapters, threadId) => {
+    const seen = new Set();
+    for (const chapter of chapters || []) {
+      if (threadForSeason(chapter.data.season).id === threadId) {
+        seen.add(Number(chapter.data.season));
+      }
+    }
+    return [...seen].sort((a, b) => a - b);
+  });
 
   eleventyConfig.addFilter("glossaryUrl", function(term, glossaryCollection, loreCollection) {
     const match =

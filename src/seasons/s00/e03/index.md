@@ -1,19 +1,19 @@
 ---
 layout: base.njk
 title: "Episode 3"
-description: "Chapters in Season 0, Episode 3 of Star Rangers."
+description: "Chapters in the Founding Era, Episode 3 of Star Rangers."
 permalink: /seasons/s00/e03/
 ---
 <nav class="chapter-breadcrumb" aria-label="Episode location">
   <ol class="breadcrumb" role="list">
     <li><a href="/star-rangers/seasons/">Seasons</a></li>
-    <li><a href="/star-rangers/seasons/s00/">Season 0</a></li>
+    <li><a href="/star-rangers/seasons/s00/">Founding Era</a></li>
     <li aria-current="page">Episode 3</li>
   </ol>
 </nav>
 
 <img class="page-hero-image" src="/star-rangers/images/hero/season-00-foundation.jpg" alt="A moody, neon-lit futuristic corridor" />
-<h1 class="page-title">Season 0 · Episode 3</h1>
+<h1 class="page-title">Founding Era · Episode 3</h1>
 <p class="page-intro">
   Solar Command, Mars, 2723 UCSD. Four years after the Hearing, the Star Rangers Charter is ratified — decided not by what the new corps will be allowed to do, but by what an outer-station delegation refuses to let it become. The season's founding moment, from the inside.
 </p>

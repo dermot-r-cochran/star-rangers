@@ -8,7 +8,7 @@ commentsCategory: episodes
     <nav class="chapter-breadcrumb" aria-label="Chapter location" data-pagefind-ignore>
       <ol class="breadcrumb" role="list">
         <li><a href="/star-rangers/seasons/">Seasons</a></li>
-        <li><a href="/star-rangers/seasons/s{{ season | zeroPad }}/">Season {{ season }}</a></li>
+        <li><a href="/star-rangers/seasons/s{{ season | zeroPad }}/">{{ season | seasonLabel }}</a></li>
         <li><a href="/star-rangers/seasons/s{{ season | zeroPad }}/e{{ episode | zeroPad }}/">Episode {{ episode }}</a></li>
         <li aria-current="page">Chapter {{ chapter }}</li>
       </ol>

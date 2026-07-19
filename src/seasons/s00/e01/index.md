@@ -1,19 +1,19 @@
 ---
 layout: base.njk
 title: "Episode 1"
-description: "Chapters in Season 0, Episode 1 of Star Rangers."
+description: "Chapters in the Founding Era, Episode 1 of Star Rangers."
 permalink: /seasons/s00/e01/
 ---
 <nav class="chapter-breadcrumb" aria-label="Episode location">
   <ol class="breadcrumb" role="list">
     <li><a href="/star-rangers/seasons/">Seasons</a></li>
-    <li><a href="/star-rangers/seasons/s00/">Season 0</a></li>
+    <li><a href="/star-rangers/seasons/s00/">Founding Era</a></li>
     <li aria-current="page">Episode 1</li>
   </ol>
 </nav>
 
 <img class="page-hero-image" src="/star-rangers/images/hero/season-00-foundation.jpg" alt="A moody, neon-lit futuristic corridor" />
-<h1 class="page-title">Season 0 · Episode 1</h1>
+<h1 class="page-title">Founding Era · Episode 1</h1>
 <p class="page-intro">
   Eden Space Habitat, 2712-2714 UCSD. A chief scientist's buried analysis sends one small crew through a fold corridor and returns them safely — then, two years later, sends a larger one past it, into ground nothing has ever measured. The gap between a correct finding and a confirmed one is the first thread of what will eventually force the Star Rangers into existence.
 </p>

@@ -29,6 +29,7 @@ permalink: /seasons/
         <a href="/star-rangers/threads/{{ thread.id }}/">{{ thread.name }}</a>
       </h2>
       <p class="thread-section__description">{{ thread.description }}</p>
+      {% set multiSeason = (allChapters | seasonsInThread(thread.id) | length) > 1 %}
       {% set currentSeason = -1 %}
       {% for chapter in allChapters %}
         {% if (chapter.data.season | threadForSeason).id == thread.id %}
@@ -36,9 +37,11 @@ permalink: /seasons/
             {% if currentSeason != -1 %}</ul></div>{% endif %}
             {% set currentSeason = chapter.data.season %}
             <div class="season-block">
+              {% if multiSeason %}
               <h3 class="season-block__title">
-                <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
+                <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">{{ currentSeason | seasonLabel }}</a>
               </h3>
+              {% endif %}
               <ul class="chapter-list" role="list">
           {% endif %}
                 <li class="chapter-list__item">
@@ -65,6 +68,7 @@ permalink: /seasons/
   <section class="thread-section" aria-labelledby="thread-unsorted">
     <h2 class="thread-section__title" id="thread-unsorted">Unsorted</h2>
     <p class="thread-section__description">Seasons published before being assigned to a storyline thread.</p>
+    {% set multiSeason = (allChapters | seasonsInThread("unsorted") | length) > 1 %}
     {% set currentSeason = -1 %}
     {% for chapter in allChapters %}
       {% if (chapter.data.season | threadForSeason).id == "unsorted" %}
@@ -72,9 +76,11 @@ permalink: /seasons/
           {% if currentSeason != -1 %}</ul></div>{% endif %}
           {% set currentSeason = chapter.data.season %}
           <div class="season-block">
+            {% if multiSeason %}
             <h3 class="season-block__title">
-              <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">Season {{ currentSeason }}</a>
+              <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">{{ currentSeason | seasonLabel }}</a>
             </h3>
+            {% endif %}
             <ul class="chapter-list" role="list">
         {% endif %}
               <li class="chapter-list__item">
