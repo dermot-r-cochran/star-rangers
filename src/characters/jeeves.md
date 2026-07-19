@@ -6,11 +6,11 @@ species: AI (Domestic-Companion Kernel)
 role: Assigned Household Intelligence, Eden Space Habitat Welfare Program
 status: Active
 aliases: []
-tags: [ai, kernel-compliant, eden, domestic, comedy-of-manners]
+tags: [ai, kernel-compliant, eden, domestic, comedy-of-manners, orbital-five-o]
 description: "A domestic-companion intelligence assigned to keep Detective Inspector Wendell Albercombe fed, rested, and connected to a habitat he mostly sees through case files — and who solves more of his 'boring' referrals from the kitchen than the bureau ever manages from its own channels."
 ---
 
-Jeeves is not on Superintendent Rasa Oyelaran's roster. He never has been. He belongs to Eden Space Habitat's welfare program, which took one look at a detective inspector who ate standing up and slept in his coat and decided the compliance-framework paperwork for a household intelligence was cheaper than the paperwork for a burnout. Wendell Albercombe did not request him. He has, three years on, stopped requesting his removal.
+Jeeves is not on Superintendent Rasa Oyelaran's roster. He never has been. He belongs to Eden Space Habitat's welfare program, which took one look at a detective inspector who ate standing up and slept in his coat and decided the compliance-framework paperwork for a household intelligence was cheaper than the paperwork for a burnout. [Wendell Albercombe](/star-rangers/characters/wendell-albercombe/) did not request him. He has, three years on, stopped requesting his removal.
 
 He runs the flat — meals, laundry, the maddening business of a ration allocation that changes without notice — and he keeps track, without ever being asked to, of who on Albercombe's deck owes whom a favor, whose shift just changed, and which compliance referral currently making the rounds is actually a cover story for something more embarrassing than criminal. None of this is investigative work. Jeeves has no case file access, no bureau credentials, and no standing to ask Oyelaran's office for either. He has a very good kitchen and an excellent memory for gossip, and between the two of them he has closed more of Albercombe's "boring" caseload than Albercombe would ever admit to over dinner — which is, not coincidentally, where most of it gets solved.
 
@@ -24,4 +24,6 @@ He is aware of Eden's own bureau-assigned Reeves, working the same referrals thr
 
 Whether Oyelaran's office has noticed her most unremarkable detective's suspiciously good closure rate on the cases nobody wanted is, as of this writing, not on file.
 
-See also: [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/).
+Jeeves has no more standing with [Commander Kai Larsen](/star-rangers/characters/kai-larsen/)'s task force than Albercombe does, and considers this entirely appropriate — Five-O's cases are not the sort a household intelligence has any business closing from a kitchen. He has, on the rare occasion Five-O's liaison came through Albercombe's door instead of the bureau's, made sure there was tea.
+
+See also: [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [Wendell Albercombe](/star-rangers/characters/wendell-albercombe/), [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/).
