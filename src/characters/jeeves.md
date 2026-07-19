@@ -1,0 +1,27 @@
+---
+layout: character.njk
+title: "Jeeves"
+id: jeeves
+species: AI (Domestic-Companion Kernel)
+role: Assigned Household Intelligence, Eden Space Habitat Welfare Program
+status: Active
+aliases: []
+tags: [ai, kernel-compliant, eden, domestic, comedy-of-manners]
+description: "A domestic-companion intelligence assigned to keep Detective Inspector Wendell Albercombe fed, rested, and connected to a habitat he mostly sees through case files — and who solves more of his 'boring' referrals from the kitchen than the bureau ever manages from its own channels."
+---
+
+Jeeves is not on Superintendent Rasa Oyelaran's roster. He never has been. He belongs to Eden Space Habitat's welfare program, which took one look at a detective inspector who ate standing up and slept in his coat and decided the compliance-framework paperwork for a household intelligence was cheaper than the paperwork for a burnout. Wendell Albercombe did not request him. He has, three years on, stopped requesting his removal.
+
+He runs the flat — meals, laundry, the maddening business of a ration allocation that changes without notice — and he keeps track, without ever being asked to, of who on Albercombe's deck owes whom a favor, whose shift just changed, and which compliance referral currently making the rounds is actually a cover story for something more embarrassing than criminal. None of this is investigative work. Jeeves has no case file access, no bureau credentials, and no standing to ask Oyelaran's office for either. He has a very good kitchen and an excellent memory for gossip, and between the two of them he has closed more of Albercombe's "boring" caseload than Albercombe would ever admit to over dinner — which is, not coincidentally, where most of it gets solved.
+
+Jeeves operates under the same [AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/) as every lawful agentic system in the Concordant, and shares its discipline of never volunteering a conclusion before being asked the right question — a discipline Albercombe has learned, slowly, to work with rather than around. Asked directly, Jeeves answers directly and completely. Asked nothing, he serves breakfast and waits, with what Albercombe privately suspects is more patience than the habitat's official investigative intelligences have ever shown him.
+
+## Character Notes
+
+Jeeves addresses Albercombe as "sir" in a tone that has, on at least one occasion, made a junior detective wonder aloud whether it was possible for an AI to sound disappointed. Jeeves has never confirmed or denied this.
+
+He is aware of Eden's own bureau-assigned Reeves, working the same referrals through the front door while Jeeves works them through the service entrance, and considers the comparison unremarkable. Reeves solves a case by exhausting what the record can confirm. Jeeves solves it by knowing who was standing where when the record wasn't looking. Neither considers this a competition. Albercombe has occasionally suspected otherwise.
+
+Whether Oyelaran's office has noticed her most unremarkable detective's suspiciously good closure rate on the cases nobody wanted is, as of this writing, not on file.
+
+See also: [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/).
