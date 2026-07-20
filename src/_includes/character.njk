@@ -67,6 +67,18 @@ commentsCategory: characters
   </section>
   {% endif %}
 
+  {% set knownCodexEntries = collections.codex | codexByIds(known_codex | default([])) %}
+  {% if knownCodexEntries.length %}
+  <aside class="character-known-codex">
+    <h2 class="character-known-codex__title">Known Codex Documents</h2>
+    <ul class="character-known-codex__list" role="list">
+      {% for entry in knownCodexEntries %}
+      <li><a href="/star-rangers{{ entry.url }}">{{ entry.data.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
   <footer class="character-footer" data-pagefind-ignore>
     <a href="/star-rangers/characters/">← All Characters</a>
   </footer>
