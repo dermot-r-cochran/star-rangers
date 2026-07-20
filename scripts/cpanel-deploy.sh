@@ -45,16 +45,16 @@ REPOSITORY_ROOT="${REPOSITORY_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 cd "$REPOSITORY_ROOT" || exit 1
 
 # ---------------------------------------------------------------------------
-# Log file: everything main() prints (stdout+stderr) is teed here AND to
-# this script's own stdout/stderr (so cPanel's UI still shows live
-# progress exactly as it did with the old per-task list). Placed under
-# $HOME (survives outside the repo, like ensure-node.sh's cache dir) with a
-# repo-root fallback if mktemp/$HOME is unavailable for some reason - that
-# fallback path matches the repo's `*.log` .gitignore entry, so it can
-# never accidentally get committed.
+# Shared machinery (LOG_FILE, notification list + mailer, log persistence)
+# comes from scripts/deploy-lib.sh - a file kept byte-identical between this
+# repo and dermot-cochran-photography (like ensure-node.sh); see its header
+# for the sourcing contract. Everything below this point is site-specific.
 # ---------------------------------------------------------------------------
-LOG_FILE=$(mktemp "${TMPDIR:-$HOME}/cpanel-deploy.XXXXXX.log" 2>/dev/null) \
-  || LOG_FILE="$REPOSITORY_ROOT/cpanel-deploy-$$.log"
+# shellcheck source=scripts/deploy-lib.sh
+. "$REPOSITORY_ROOT/scripts/deploy-lib.sh" \
+  || { echo "FAIL: could not source scripts/deploy-lib.sh" >&2; exit 1; }
+# shellcheck disable=SC2034  # consumed by deploy-lib.sh's deploy_lib_notify()
+DEPLOY_SUBJECT_PREFIX="[star-rangers deploy]"
 
 # ---------------------------------------------------------------------------
 # Source deploy.conf ONCE. This script *is* the single .cpanel.yml task now,
@@ -118,27 +118,14 @@ alt_get() {
 }
 
 # ---------------------------------------------------------------------------
-# NOTIFY_EMAILS: every address that should get this run's deploy-log email,
-# computed once up front from deploy.conf alone (ADMIN_EMAIL plus each
-# valid ALT_DOMAINS entry's own ADMIN_EMAIL, defaulting the same way
+# Notification list: every address that should get this run's deploy-log
+# email, computed once up front from deploy.conf alone (ADMIN_EMAIL plus
+# each valid ALT_DOMAINS entry's own ADMIN_EMAIL, defaulting the same way
 # ADMIN_EMAIL itself does - admin@<that domain> - when unset). This has to
-# happen here, before main() runs, not by having main() build the list
-# itself: main() executes as the left side of a pipe (`main | tee ...`)
-# below, which forks it into its own subshell, so any variable it computed
-# would vanish the moment that pipe finished - notify() below (which runs
-# after the pipe, in this shell) would never see it. Pure config parsing
-# has no such problem, so it's done here instead.
+# happen here, before main() runs - see deploy-lib.sh's NOTIFY_EMAILS
+# comment for why the list can't be built inside main() itself.
 # ---------------------------------------------------------------------------
-NOTIFY_EMAILS=()
-add_notify_email() {
-  local e="$1" existing
-  [ -z "$e" ] && return 0
-  for existing in "${NOTIFY_EMAILS[@]:-}"; do
-    [ "$existing" = "$e" ] && return 0
-  done
-  NOTIFY_EMAILS+=("$e")
-}
-add_notify_email "$ADMIN_EMAIL"
+deploy_lib_add_notify_email "$ADMIN_EMAIL"
 for _alt_id in $ALT_DOMAINS; do
   if alt_id_valid "$_alt_id"; then
     _alt_email=$(alt_get "$_alt_id" ADMIN_EMAIL)
@@ -146,7 +133,7 @@ for _alt_id in $ALT_DOMAINS; do
       _alt_domain_for_default=$(alt_get "$_alt_id" DOMAIN)
       [ -n "$_alt_domain_for_default" ] && _alt_email="admin@$_alt_domain_for_default"
     fi
-    add_notify_email "$_alt_email"
+    deploy_lib_add_notify_email "$_alt_email"
   fi
 done
 unset _alt_id _alt_email _alt_domain_for_default
@@ -506,95 +493,9 @@ main() {
 main 2>&1 | tee -a "$LOG_FILE"
 STATUS=${PIPESTATUS[0]}
 
-# ---------------------------------------------------------------------------
-# Notification: best-effort, always attempted exactly once per address in
-# NOTIFY_EMAILS (computed near the top of this file, before main() ran),
-# and NEVER allowed to change the script's own exit status - cPanel uses
-# that exit status for its own deployment UI, and it must reflect the
-# BUILD/DEPLOY outcome only. The email body is the same full run log
-# (covering every domain, via the "=== [<label>] ..." / "FAIL [<label>]:
-# ..." lines each build_and_deploy() call and main()'s own per-domain
-# results summary already write into it) for every recipient - there's one
-# run, one log, so there's no per-domain log to split out even when a
-# recipient is one alt domain's ADMIN_EMAIL rather than the primary's.
-# ---------------------------------------------------------------------------
-NOTIFIED=0
-MAIL_OK=0
-notify() {
-  status="$1"
-  [ "$NOTIFIED" -eq 1 ] && return 0
-  NOTIFIED=1
-
-  if [ "${#NOTIFY_EMAILS[@]}" -eq 0 ]; then
-    echo "=== No notification addresses configured; skipping notification ==="
-    return 0
-  fi
-
-  if [ "$status" -eq 0 ]; then RESULT="SUCCESS"; else RESULT="FAILURE"; fi
-  SUBJECT="[star-rangers deploy] $RESULT - ${CPANEL_USER} - $(date -u +'%Y-%m-%d %H:%M:%SZ')"
-
-  echo "=== Deploy finished: $RESULT (exit $status). Notifying: ${NOTIFY_EMAILS[*]} ==="
-
-  local addr
-  for addr in "${NOTIFY_EMAILS[@]}"; do
-    if command -v mail >/dev/null 2>&1; then
-      if mail -s "$SUBJECT" "$addr" < "$LOG_FILE"; then
-        MAIL_OK=1
-        echo "=== Notification sent to $addr via mail(1) ==="
-      else
-        echo "=== WARNING: mail(1) exited non-zero for $addr; notification may not have been delivered ===" >&2
-      fi
-    elif [ -x /usr/sbin/sendmail ]; then
-      if { printf 'To: %s\nSubject: %s\nContent-Type: text/plain; charset=utf-8\n\n' \
-             "$addr" "$SUBJECT"; cat "$LOG_FILE"; } | /usr/sbin/sendmail -t; then
-        MAIL_OK=1
-        echo "=== Notification sent to $addr via /usr/sbin/sendmail ==="
-      else
-        echo "=== WARNING: sendmail exited non-zero for $addr; notification may not have been delivered ===" >&2
-      fi
-    else
-      echo "=== WARNING: neither mail(1) nor /usr/sbin/sendmail found; notification skipped ===" >&2
-      break
-    fi
-  done
-
-  return 0   # never let a mail failure propagate
-}
-
-# Safety net: also fire on unexpected termination (e.g. a signal) so a
-# partial log still gets mailed, without double-sending on the normal path
-# (the NOTIFIED guard makes this idempotent).
-trap 'notify "$?"' EXIT
-
-notify "$STATUS"
-
-# ---------------------------------------------------------------------------
-# Persist a copy of every run's log locally, regardless of NOTIFY_EMAILS, so
-# past deploys can be inspected without needing email at all. deploy-logs/
-# is untracked (gitignored) - host-local operational data, not repo content.
-# One file per attempt (timestamp + result), pruned to the most recent
-# LOG_RETENTION runs so it can't grow unbounded on a quota-limited account.
-# ---------------------------------------------------------------------------
-LOG_RETENTION=20
-LOG_DIR="$REPOSITORY_ROOT/deploy-logs"
-mkdir -p "$LOG_DIR" 2>/dev/null
-if [ "$STATUS" -eq 0 ]; then LOG_RESULT="SUCCESS"; else LOG_RESULT="FAILURE"; fi
-PERSISTED_LOG="$LOG_DIR/$(date -u +'%Y-%m-%dT%H-%M-%SZ')-$LOG_RESULT.log"
-if cp "$LOG_FILE" "$PERSISTED_LOG" 2>/dev/null; then
-  echo "=== Deploy log saved to $PERSISTED_LOG ==="
-  # Filenames are ISO-8601-prefixed, so lexical sort is chronological sort;
-  # drop everything but the newest LOG_RETENTION files.
-  ls -1 "$LOG_DIR" 2>/dev/null | sort | head -n "-$LOG_RETENTION" | while IFS= read -r old; do
-    rm -f "$LOG_DIR/$old"
-  done
-else
-  echo "=== WARNING: could not persist deploy log to $LOG_DIR ===" >&2
-fi
-
-if [ "$MAIL_OK" -eq 1 ] || [ "${#NOTIFY_EMAILS[@]}" -eq 0 ]; then
-  rm -f "$LOG_FILE" 2>/dev/null
-else
-  echo "Deploy log retained at $LOG_FILE (mail delivery unavailable/failed)" >&2
-fi
-
-exit "$STATUS"
+# Notify every NOTIFY_EMAILS address (the email body is the same full run
+# log for every recipient - there's one run, one log, so there's no
+# per-domain log to split out even when a recipient is one alt domain's
+# ADMIN_EMAIL rather than the primary's), persist + prune deploy-logs/, and
+# exit with main()'s real status - all shared machinery; see deploy-lib.sh.
+deploy_lib_finish "$STATUS"
