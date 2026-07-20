@@ -153,7 +153,7 @@ npm run test
 
 ## cPanel deployment config for local clones
 
-The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root. This repo deploys to several production domains from separate cPanel Git Version Control clones (one clone per domain, all pulling the same branch) — `deploy.conf` is how one clone tells the shared build/deploy script which domain, theme, and content scope it's responsible for.
+The cPanel deployment recipe (`.cpanel.yml`, via `scripts/cpanel-deploy.sh`) can read optional per-clone settings from an untracked `deploy.conf` file in the repo root. The script's site-agnostic machinery (log capture, the deploy-log notification emails, `deploy-logs/` persistence) lives in `scripts/deploy-lib.sh`, which is kept byte-identical with the same file in the `dermot-cochran-photography` repository (like `scripts/ensure-node.sh`) — change it in one repo, copy it verbatim to the other. This repo deploys to several production domains from separate cPanel Git Version Control clones (one clone per domain, all pulling the same branch) — `deploy.conf` is how one clone tells the shared build/deploy script which domain, theme, and content scope it's responsible for.
 
 These production domains are hosted on [iFastNet](https://ifastnet.com/portal/aff.php?aff=29941) cPanel hosting — if you're setting up your own fork's cPanel deploy and don't already have a host, that's a referral link for this project.
 
