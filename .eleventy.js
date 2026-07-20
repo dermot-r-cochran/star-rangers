@@ -307,6 +307,15 @@ module.exports = function(eleventyConfig) {
       .filter(Boolean)
   );
 
+  // Same resolve-by-id pattern as charactersByIds, but codex entries have no
+  // `id` front-matter field (see lib/content-schema.js) - matched by
+  // fileSlug instead, which is what a character's `known_codex` list stores.
+  eleventyConfig.addFilter("codexByIds", (codexEntries, slugs) =>
+    (slugs || [])
+      .map((slug) => (codexEntries || []).find((c) => c.fileSlug === slug))
+      .filter(Boolean)
+  );
+
   eleventyConfig.addCollection("characters", (collectionApi) =>
     collectionApi.getAll()
       .filter((item) => item.data.layout === "character.njk")

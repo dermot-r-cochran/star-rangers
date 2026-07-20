@@ -15,6 +15,14 @@ const SRC_DIR = path.join(__dirname, "..", "src");
 
 const TYPES_BY_LAYOUT = new Map(Object.values(CONTENT_TYPES).map((type) => [type.layout, type]));
 
+// Chapters normally need at least 2 POVs and at least one POV tagged
+// "major-character" (see checkChapterConsistency below) - this one chapter
+// predates both rules and is a deliberate single-POV scene, not an oversight,
+// so it's grandfathered rather than rewritten or promoted around.
+const GRANDFATHERED_SINGLE_POV_CHAPTERS = new Set([
+  path.join("src", "seasons", "s01", "e00", "s01e00c02.md")
+]);
+
 function findMarkdownFiles(dir) {
   let results = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -56,7 +64,7 @@ function checkAgainstSchema(data, schema) {
   return problems;
 }
 
-function checkChapterConsistency(inputPath, data) {
+function checkChapterConsistency(inputPath, data, relativePath, characterTagsById) {
   const problems = [];
   if (isBlank(data.season) || isBlank(data.episode) || isBlank(data.chapter)) return problems;
 
@@ -76,8 +84,59 @@ function checkChapterConsistency(inputPath, data) {
         problems.push(`povs[${index}] needs both an "id" and a "label"`);
       }
     });
+
+    if (data.povs.length < 2 && !GRANDFATHERED_SINGLE_POV_CHAPTERS.has(relativePath)) {
+      problems.push(`needs at least 2 "povs" entries, found ${data.povs.length}`);
+    }
+
+    // Only enforced when at least one POV id resolves to an actual
+    // character file - a POV who has no dedicated page (a chapter-only
+    // figure) can't be classified either way, so a chapter built entirely
+    // from such figures isn't held to this check.
+    const resolvedTags = data.povs
+      .map((pov) => pov && characterTagsById.get(pov.id))
+      .filter(Boolean);
+    if (resolvedTags.length > 0 && !resolvedTags.some((tags) => tags.includes("major-character"))) {
+      problems.push(`povs resolve to character page(s) but none is tagged "major-character" - promote one, or add a major POV`);
+    }
   }
 
+  return problems;
+}
+
+// Builds an id -> tags[] map from every character file, so
+// checkChapterConsistency can tell whether a chapter's POVs include a
+// character tagged "major-character" without re-reading files itself.
+function loadCharacterTagsById() {
+  const charactersDir = path.join(SRC_DIR, "characters");
+  const map = new Map();
+  for (const filePath of findMarkdownFiles(charactersDir)) {
+    const { data } = matter(fs.readFileSync(filePath, "utf8"));
+    if (data.layout === CONTENT_TYPES.character.layout && !isBlank(data.id)) {
+      map.set(data.id, data.tags || []);
+    }
+  }
+  return map;
+}
+
+// Filename slugs (basename without .md) of every actual codex entry, so a
+// character's `known_codex` list can be checked for typos/dead references.
+function loadCodexSlugs() {
+  const codexDir = path.join(SRC_DIR, "codex");
+  return new Set(
+    findMarkdownFiles(codexDir)
+      .map((filePath) => path.basename(filePath, ".md"))
+      .filter((slug) => slug !== "index")
+  );
+}
+
+function checkKnownCodex(data, codexSlugs) {
+  const problems = [];
+  for (const slug of data.known_codex || []) {
+    if (!codexSlugs.has(slug)) {
+      problems.push(`known_codex entry "${slug}" doesn't match any file in src/codex/`);
+    }
+  }
   return problems;
 }
 
@@ -89,6 +148,8 @@ function main() {
   // silently mixing their comments (see comment_id's own doc in
   // lib/content-schema.js for why it must stay unique and permanent).
   const commentIdOwners = new Map();
+  const characterTagsById = loadCharacterTagsById();
+  const codexSlugs = loadCodexSlugs();
 
   for (const filePath of files) {
     const relativePath = path.relative(process.cwd(), filePath);
@@ -104,7 +165,8 @@ function main() {
     if (!schema) continue; // Not a recognized content-leaf type - nothing to check.
 
     const problems = checkAgainstSchema(data, schema);
-    if (isChapter) problems.push(...checkChapterConsistency(filePath, data));
+    if (isChapter) problems.push(...checkChapterConsistency(filePath, data, relativePath, characterTagsById));
+    if (schema === CONTENT_TYPES.character) problems.push(...checkKnownCodex(data, codexSlugs));
 
     if (isChapter && !isBlank(data.comment_id)) {
       const owner = commentIdOwners.get(data.comment_id);
