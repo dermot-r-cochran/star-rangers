@@ -14,7 +14,7 @@ permalink: /threads/tissadelle-arc/
 <img class="page-hero-image" src="/star-rangers/images/hero/season-01.jpg" alt="A space station in Earth orbit" />
 <h1 class="page-title">Tissadelle Shepherd's Arc</h1>
 <p class="page-intro">
-  The chronological spine of the published series — Cadet to Principal to Line Captain to the Last Stand — carried across Seasons 1, 3, 5, and beyond. Seasons 2 and 4 are deliberately left open for storylines that don't run through her.
+  The chronological spine of the published series — Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind — carried across Seasons 1, 3, 5, 6, and 7. Seasons 2 and 4 are deliberately left open for storylines that don't run through her.
 </p>
 
 {% set threadId = "tissadelle-arc" %}
