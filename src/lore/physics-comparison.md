@@ -233,4 +233,4 @@ No physics in this universe is supernatural. Every cross-layer effect requires l
 
 ---
 
-*A note from outside the Archive: this page's "Real Cosmos" column was revised for tone in July 2026. See the journal entry, [Softening the Real Cosmos Side](/star-rangers/journal/softening-the-real-cosmos-side/), for why.*
+*A note from outside the Archive: this page's "Real Cosmos" column was revised for tone in July 2026.*
