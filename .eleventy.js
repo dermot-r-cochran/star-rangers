@@ -8,9 +8,10 @@ const {
   isTopicPageIncluded,
   isThreadIncluded,
   isPrivatelyExcluded,
+  privateThreadForPage,
   getRelatedContentUrls
 } = require("./lib/content-filter");
-const { threadForSeason } = require("./lib/storyline-threads");
+const { threadForSeason, DEFAULT_REFERENCE_DOMAIN } = require("./lib/storyline-threads");
 
 // Classifies a content file by where it LIVES (its inputPath), not by its
 // `layout` front-matter field. `layout` is itself one of the eleventyComputed
@@ -122,6 +123,21 @@ const ARTICLE_KINDS = new Set(["character", "chapter", "lore", "codex", "glossar
 
 function computeOgType(data) {
   return ARTICLE_KINDS.has(classifyContentPath(data.page && data.page.inputPath)) ? "article" : "website";
+}
+
+// Drives the eleventyComputed "referenceDomain" override below: the bare
+// domain the "Not included in this edition" placeholder (excluded.njk)
+// links a reader to for a page THIS build excludes. Defaults to the
+// full-site reference domain, which is a superset of every page ordinary
+// CHARACTERS/TOPICS/THREADS narrowing excludes. A private thread is the
+// exception - the reference domain excludes it too (it's opt-in on every
+// build), so pointing there would just loop back to another placeholder;
+// its pages point at the thread's own homeDomain instead, the one clone
+// that actually opts it in. Computed for every page but only ever read by
+// excluded.njk, so its value on an included page is harmless.
+function computeReferenceDomain(data) {
+  const thread = privateThreadForPage(data);
+  return (thread && thread.homeDomain) || DEFAULT_REFERENCE_DOMAIN;
 }
 
 module.exports = function(eleventyConfig) {
@@ -401,7 +417,12 @@ module.exports = function(eleventyConfig) {
     // second placeholder string in the page's own meta tags.
     description: (data) => (isContentIncluded(data, contentFilter) ? data.description : undefined),
     ogImage: (data) => computeOgImage(data, isContentIncluded(data, contentFilter)),
-    ogType: (data) => computeOgType(data)
+    ogType: (data) => computeOgType(data),
+    // Only read by excluded.njk (see computeReferenceDomain) - the domain a
+    // reader is sent to for a page this build hides. A private thread's
+    // excluded page points at its own homeDomain instead of the default
+    // reference domain, so it never loops back to another placeholder.
+    referenceDomain: (data) => computeReferenceDomain(data)
   });
 
   return {
