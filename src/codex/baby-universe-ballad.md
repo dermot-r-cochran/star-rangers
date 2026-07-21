@@ -19,11 +19,61 @@ location: "No archival master. This capture is one of several that surfaced in t
   Your browser does not support the video element. <a href="/star-rangers/video/baby-universe.mp4">Download the recording</a>.
 </video>
 
-*Transcriber's note: the audio above is the record; the lyric transcription below is being confirmed line by line against it. Where a line is uncertain it is marked, in keeping with how the [Ballad of the Stars](/star-rangers/codex/ballad-of-the-stars/) is handled — the recording is the authority, the text is the best current reading of it, and nothing is smoothed over to look more settled than it is.*
+*Transcriber's note: the lyrics below are transcribed from the recording above, which remains the authority — the same handling the [Ballad of the Stars](/star-rangers/codex/ballad-of-the-stars/) gets. The song opens in the third person, naming her outright, and then slips into the first person for the chorus, so that the plea is sung in her voice by people who were never in a position to hear it. That shift is the whole ballad, and the whole problem with it, and the archivist's note below declines to resolve which.*
 
 ---
 
-> *Lyric transcription pending confirmation against the recording. Until it is settled line by line, the audio above stands as the record — the entry declines to print a text that looks more certain than the listening actually is. Filed unfinished on purpose, which is the only honest way this particular file has ever been filed.*
+> Verse 1
+>
+> After Tissadelle's last stand
+> She slipped through the seam
+> Into depths of higher space
+> Soft as a fever dream
+>
+> Verse 2
+>
+> She woke as a small new world
+> Shaking in the dark
+> A baby universe
+> With a bruised-up spark
+>
+> Chorus
+>
+> Hold me up, hold me close
+> I'm all open sky
+> St. Aoife, find the thread
+> Before I fade and die
+>
+> Baby universe
+> Don't let go
+> Baby universe
+> Help me grow
+>
+> St. Aoife, stay
+> By my side
+> Baby universe
+> I want to survive
+>
+> Verse 3
+>
+> Some levrils came like rain
+> With lantern hands and grace
+> They traced the broken edges
+> Around her fragile place
+>
+> Verse 4
+>
+> Dreams of friends came drifting in
+> With bread and salted light
+> They laid their voices gently
+> In the cradle of the night
+>
+> Chorus (reprise)
+>
+> Hold me up, hold me close
+> I'm all open sky
+> St. Aoife, find the thread
+> Before I fade and die
 
 ---
 
