@@ -10,6 +10,7 @@ const fs = require("fs");
 const path = require("path");
 const matter = require("gray-matter");
 const { CONTENT_TYPES, TIMELINE_TYPE, CHAPTER_ID_PATTERN, isTimelineEntry, chapterIdFor } = require("../lib/content-schema");
+const { privateThreadForPage } = require("../lib/content-filter");
 
 const SRC_DIR = path.join(__dirname, "..", "src");
 
@@ -140,6 +141,69 @@ function checkKnownCodex(data, codexSlugs) {
   return problems;
 }
 
+// The site-relative URL a content file builds to (matching Eleventy's own
+// item.url, no /star-rangers prefix): an explicit `permalink` if the file
+// sets one, else derived from its path under src/ the way Eleventy derives
+// it by default (drop .md, collapse a trailing /index to the dir).
+function urlForContentFile(filePath, data) {
+  if (data.permalink) {
+    const p = String(data.permalink);
+    return p.startsWith("/") ? p : `/${p}`;
+  }
+  let rel = "/" + path.relative(SRC_DIR, filePath).split(path.sep).join("/");
+  rel = rel.replace(/\.md$/, "").replace(/\/index$/, "/");
+  if (!rel.endsWith("/")) rel += "/";
+  return rel;
+}
+
+// Enforces the one-way visibility boundary between public and private
+// storyline threads. A private thread (lib/storyline-threads.js `private:
+// true`) is hidden on every build that doesn't opt into it - including the
+// full site - so a PUBLIC page that hardcodes a link INTO a private-thread
+// page produces a dead end there: the target renders the "not included in
+// this edition" placeholder (src/_includes/excluded.njk) rather than the
+// real page. The reverse direction is fine - a private page is only ever
+// seen on a clone that opted its thread in, where the public pages it links
+// to exist too - so this flags only public -> private links, letting a
+// private page link out to public ones freely. Returns grouped problems in
+// the same shape as the schema checks below.
+function checkPrivateThreadLinkBoundary(files) {
+  const pages = files.map((filePath) => {
+    const { data, content } = matter(fs.readFileSync(filePath, "utf8"));
+    return {
+      filePath,
+      content,
+      isPrivate: Boolean(privateThreadForPage(data)),
+      urlPath: urlForContentFile(filePath, data).replace(/\/$/, "")
+    };
+  });
+
+  const privatePaths = pages.filter((p) => p.isPrivate).map((p) => p.urlPath);
+  const results = [];
+  if (!privatePaths.length) return results;
+
+  for (const page of pages) {
+    if (page.isPrivate) continue;
+    const problems = [];
+    for (const priv of privatePaths) {
+      // A link target of the private page's URL, with or without this
+      // project's own /star-rangers Pages prefix, anchored on the trailing
+      // slash so /lore/foo/ can't spuriously match /lore/foo-bar/.
+      const escaped = priv.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      if (new RegExp(`(?:/star-rangers)?${escaped}/`).test(page.content)) {
+        problems.push(
+          `links into private-thread page ${priv}/ - a public page must not link into a private thread ` +
+          `(private threads may link out to public pages, not the reverse; see lib/storyline-threads.js)`
+        );
+      }
+    }
+    if (problems.length) {
+      results.push({ relativePath: path.relative(process.cwd(), page.filePath), label: "private-thread link boundary", problems });
+    }
+  }
+  return results;
+}
+
 function main() {
   const files = findMarkdownFiles(SRC_DIR);
   const fileProblems = [];
@@ -181,6 +245,8 @@ function main() {
       fileProblems.push({ relativePath, label: schema.label, problems });
     }
   }
+
+  fileProblems.push(...checkPrivateThreadLinkBoundary(files));
 
   if (fileProblems.length === 0) {
     console.log(`Content validation passed (${files.length} files checked).`);
