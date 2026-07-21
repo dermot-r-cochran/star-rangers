@@ -26,7 +26,7 @@ Classification stays open by design. [Meta-Dimensional Beings](/star-rangers/lor
 
 ## Folk Practice
 
-Union households near boundary zones with a documented history of fairy-wind incidents keep a handful of small customs — a bowl of milk left out, no sweeping after dark, "by your leave" said before certain thresholds. Survey Corps' own filed position is unambiguous and matches the discipline [Cnoc na mBeach](/star-rangers/lore/cnoc-na-mbeach/) keeps for its own inherited customs: no measured correlation between any of these practices and incident rate has ever been confirmed. They are recorded here as cultural practice, not as mitigation, and the distinction is kept deliberately sharp.
+Union households near boundary zones with a documented history of fairy-wind incidents keep a handful of small customs — a bowl of milk left out, no sweeping after dark, "by your leave" said before certain thresholds. Survey Corps' own filed position is unambiguous: no measured correlation between any of these practices and incident rate has ever been confirmed. They are recorded here as cultural practice, not as mitigation, and the distinction is kept deliberately sharp.
 
 ## Open Questions
 
