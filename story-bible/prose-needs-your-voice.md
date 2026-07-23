@@ -1,0 +1,98 @@
+# Pages needing your own prose
+
+Planning note (not built into the site — lives in `story-bible/` like the
+other authorial notes). Built 2026-07-23 from git history: every content
+file under `src/{seasons,lore,characters,codex,glossary,timeline}/` whose
+**entire authorship history has no commit from Dermot Cochran / Avalon
+Hope** — i.e. every word currently on the page was written by an AI tool
+(the original Copilot bootstrap, or a later Claude Code session), and you
+have never personally written or revised it.
+
+This is the front-to-back list. A shorter, separate list —
+`prose-needs-review.md` — covers pages you *did* write, that AI has since
+edited and which may need a tone check.
+
+## Flag first: Season 6 has chapters you may not know exist
+
+`src/seasons/s06/` and `src/seasons/s07/` contain drafted chapters
+(`s06e01c01/c02/c03.md`, `s07e01c01/c02/c03.md`, dated 2026-07-21) — entirely
+AI-authored, and apparently written *after*
+`story-bible/narrative-gaps-checklist.md` was last updated (2026-07-14),
+which still says "zero chapters exist anywhere in `src/seasons/`" for
+Season 6–7. That checklist is now stale on this point. Given Season 6–7 is
+your climax ("The Last Stand"), this is worth a direct look before anything
+else on this list — it may be draft material to keep as scaffolding, or it
+may be further along than you want an AI tool taking a story this personal.
+
+## Season chapters (actual narrative prose — highest priority)
+
+- Season 0 (Founding Era): all of `s00/e01`, `s00/e02`, `s00/e03` (indexes + 6 chapters)
+- Season 1: `s01/e00` (4 chapters, Elvira/Aldera prequel), `s01/e01` (2 ch),
+  `s01/e02` (5 ch), `s01/e03/s01e03c02.md`
+- Season 2: `s02/e01` (index + 3 chapters) — per the gaps checklist this
+  season is "deliberately open," so confirm this drafted content is meant
+  to exist at all
+- Season 3: `s03/e01` (index + 2 chapters)
+- Season 5: `s05/e02` (index + 2 chapters)
+- Season 6: `s06/e01` (index + 3 chapters) — see flag above
+- Season 7: `s07/e01` (index + 3 chapters) — see flag above
+- Section indexes: `src/seasons/index.md`, and the `s00`/`s01` season indexes
+
+## Characters (34 files + index)
+
+`agent-barsik`, `bertram-ashcombe`, `brother-daire`, `brother-fintan`,
+`bubochka`, `cormac-dubhghlas`, `dagny-voss`, `demelza-trevithick`,
+`dorian-calloway`, `fergus-aonghas`, `idris-bryneth`, `ilsabet-marrowtide`,
+`ilse-korvain`, `imogen-petrakis`, `isren-farrowkin`, `jeeves`, `kai-larsen`,
+`lorien-the-wanderer`, `maren-solveig-krast`, `mira-of-brine`, `nessa`,
+`niamh-o-ceallaigh`, `orla-shepherd`, `petra-voss`, `qiren-tal`,
+`rhian-gwynne`, `rhiannon-ceridwen`, `rook-7`, `saint-aoife`, `sen`, `sohrel`,
+`wendell-albercombe`, `zara-wayland`, plus `characters/index.md`.
+
+Note the overlap with the image audit: `ilse-korvain`, `orla-shepherd`,
+`maren-solveig-krast` also had wrong-content portraits flagged there — these
+three characters have never had either their prose or their image
+touched/chosen by you.
+
+## Lore (36 files + index)
+
+`arilon`, `boundary-zones`, `cerebraun`, `chthonari`, `cnoc-na-mbeach`,
+`concordant-membranes`, `dryadic-trees`, `eden-ring-rail`,
+`ensemble-multiverse`, `federation-of-sentient-beings`, `five-layers`,
+`formation-of-star-rangers`, `frontier-transformation-protocols`,
+`galactic-stardate`, `membrane-shadows`, `military-space-command`,
+`mnemari`, `monasteries-of-mars`, `planetary-liaisons-and-recruiters`,
+`planets/prismere`, `planets/saltmere`, `planets/sentinel`,
+`planets/verdance`, `post-eleven-dimensional-manifold`,
+`post-teleport-ascension-stress-disorder`, `prismeri`,
+`quantum-space-harmonics`, `saint-aoife`, `solar-time-and-local-calendars`,
+`star-rangers-command-hierarchy`, `star-rangers-science-corps`,
+`teleportation-limitations`, `universal-cosmic-stardate`,
+`universes/tir-tairngire`, `year-zero`, plus `lore/index.md`.
+
+Three of these (`five-layers`, `formation-of-star-rangers`,
+`frontier-transformation-protocols`) are also the three lore pages with the
+scrambled image/alt-text bug from the image audit — worth tackling image and
+prose together on those three.
+
+## Glossary (21 terms + index)
+
+`boundary-zone`, `concordant`, `constraint-literacy`, `cyborg`, `frenar`,
+`higher-dimensional-folding`, `hyperomnium`, `instrument-drift`,
+`intermembrane-bleed`, `krenyi`, `membrane-shadow`, `metafold`,
+`noogenic-protouniverse`, `overfold`, `plural-minds`,
+`quantum-space-harmonic-wave`, `slipwave`, `smart-pet`, `universe-overlap`,
+`virtual-reality`, plus `glossary/index.md`.
+
+## Codex (4 files + index)
+
+`baby-universe-ballad`, `cosmic-limitation-on-evil` (also the stray/broken
+image from the audit), `telling-the-bees-at-cnoc-na-mbeach`,
+`the-warm-edge-correlation`, plus `codex/index.md`.
+
+## Timeline (7 files + index)
+
+`2712-eden-fold-route`, `2714-patience-first-departs`,
+`2719-outer-stations-consolidation-hearing`,
+`year-0-causeway-convergence`, `year-minus-2-aethelrock-rotation-dispute`,
+`year-minus-3-aldera-reaches-causeway`, plus `timeline/index.md`.
