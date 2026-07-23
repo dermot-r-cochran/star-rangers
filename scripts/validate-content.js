@@ -10,7 +10,7 @@ const fs = require("fs");
 const path = require("path");
 const matter = require("gray-matter");
 const { CONTENT_TYPES, TIMELINE_TYPE, CHAPTER_ID_PATTERN, isTimelineEntry, chapterIdFor } = require("../lib/content-schema");
-const { privateThreadForPage } = require("../lib/content-filter");
+const { privateThreadForPage, checkPrivateThreadSignatureTags } = require("../lib/content-filter");
 
 const SRC_DIR = path.join(__dirname, "..", "src");
 
@@ -231,6 +231,12 @@ function main() {
     const problems = checkAgainstSchema(data, schema);
     if (isChapter) problems.push(...checkChapterConsistency(filePath, data, relativePath, characterTagsById));
     if (schema === CONTENT_TYPES.character) problems.push(...checkKnownCodex(data, codexSlugs));
+    for (const { threadId, signatureTag } of checkPrivateThreadSignatureTags(data)) {
+      problems.push(
+        `tagged "${signatureTag}" (a "${threadId}" signature tag - see lib/storyline-threads.js) but missing ` +
+        `the "${threadId}" tag itself - likely meant to be private-thread content that's about to leak onto every public domain`
+      );
+    }
 
     if (isChapter && !isBlank(data.comment_id)) {
       const owner = commentIdOwners.get(data.comment_id);
