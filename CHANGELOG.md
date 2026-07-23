@@ -6,11 +6,19 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Fixed
+
+- **Four mismatched character portraits removed** — a portrait audit found Naomi Kestrel, Rosalind Vey, and Tamsin Reyes (all written as women) rendered with male stock portraits, two of them pixel-identical duplicates of Bertram Ashcombe's and Kai Larsen's own images, and Sethka Ru (an alien Serephine Dunekin) shown as an ordinary human. Dropped all four `image`/`image_alt` front-matter fields and deleted the wrong image files rather than leave inaccurate art in place; `character.njk` already renders cleanly with no portrait (five other characters have none).
+- **`src/images/lore/trigrian.jpg` re-graded toward an alien palette** — the site's own copy of "Three Suns over the Mara" (distinct from the source photo it derives from) was an unmodified Earth sunset standing in for an alien planet's sky. Applied a global hue/saturation shift plus distinctly-toned halos on the three suns matching the lore page's own trinary description (a tight orange pair, a paler wide-orbit companion).
+
 ### Changed
 
 - **About page's fan-fiction-clone links now point to on-site pages instead of GitHub repo files** — the Fan Works Policy link now goes to the homepage's [Licence section](src/index.md) (`/star-rangers/#license`), which already carries the full CC BY-NC-ND text, and the forking pointer now goes to a new `src/forking/index.md` page instead of linking directly to `CONTENT-LICENSE.md`/`FORKING.md` in the repository.
 
 ### Added
+
+- **`src/characters/reeves-eden.md`, "Reeves (Eden Space Habitat)"** — a new character page for Eden Space Habitat's own Detective Assistant Reeves, previously referenced in prose by `eden-warden.md` and `rasa-oyelaran.md` but with no page of its own; both pages' "Reeves" links (which pointed at [Threshold Station's Reeves](src/characters/reeves.md) despite the text explicitly calling Eden's Reeves "a separate deployment") now point here instead. `reeves.md`'s existing cross-reference note is now a working link too.
+- **A line acknowledging "Orbital Five-O" is also a nod to the classic *Hawaii Five-O*** — added to `src/threads/orbital-five-o/index.md`'s intro, alongside the existing in-universe explanation (the task force covers all five Compact habitats).
 
 - **`src/forking/index.md`, "Forking This Site"** — a reader-facing page adapting `FORKING.md`'s guide (the two licences, Path A vs. Path B, what's engine vs. content, step-by-step fork instructions) so the About page can link to an on-site page rather than a repository file.
 
