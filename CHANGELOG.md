@@ -6,6 +6,11 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Fixed
+
+- **Four mismatched character portraits removed** — a portrait audit found Naomi Kestrel, Rosalind Vey, and Tamsin Reyes (all written as women) rendered with male stock portraits, two of them pixel-identical duplicates of Bertram Ashcombe's and Kai Larsen's own images, and Sethka Ru (an alien Serephine Dunekin) shown as an ordinary human. Dropped all four `image`/`image_alt` front-matter fields and deleted the wrong image files rather than leave inaccurate art in place; `character.njk` already renders cleanly with no portrait (five other characters have none).
+- **`src/images/lore/trigrian.jpg` re-graded toward an alien palette** — the site's own copy of "Three Suns over the Mara" (distinct from the source photo it derives from) was an unmodified Earth sunset standing in for an alien planet's sky. Applied a global hue/saturation shift plus distinctly-toned halos on the three suns matching the lore page's own trinary description (a tight orange pair, a paler wide-orbit companion).
+
 ### Changed
 
 - **About page's fan-fiction-clone links now point to on-site pages instead of GitHub repo files** — the Fan Works Policy link now goes to the homepage's [Licence section](src/index.md) (`/star-rangers/#license`), which already carries the full CC BY-NC-ND text, and the forking pointer now goes to a new `src/forking/index.md` page instead of linking directly to `CONTENT-LICENSE.md`/`FORKING.md` in the repository.
