@@ -32,6 +32,22 @@ The reason is temporal as much as structural. A command is an event — issued, 
 
 The threshold case makes the whole model concrete: a Celestial can command a Levril, because both exist in time and a command between them is an ordinary temporal event. But no one commands the Celestial. A Celestial is simply *defined* by the upper layers — its scope, its enforcement mandate, its limits are what the timeless strata made it, and it no more receives orders from a Telearch than a river receives orders from its banks.
 
+## Timeless and Immanent
+
+A standing debate in the codex record asks whether God is timeless or immanent, and the Archive's file on that debate carries a single annotation: **category error**. The debate treats the two as rival properties of one being, when in the Cascade they are properties of different strata. The Celestials and every tier below them are immanent — present in time, present in the world, able to act, intervene, and be encountered. Every stratum above the Celestials is timeless and eternal. Both sides of the debate are describing something real. Neither is describing the same floor of the ladder, and no tradition's account is settled or unsettled by saying so.
+
+### The Avatar Exception
+
+The split admits one exception. A higher stratum can be **incarnated as an avatar**: a person operating at Celestial level or below — immanent, time-bound, encounterable — *without the full authority, power, or knowledge of its source*. The avatar is like its source without being the same person as its source. This is what keeps the exception from breaking the upper-structure constraints: the source does not enter time, does not dialogue, does not selectively intervene. A separate, limited, immanent person exists — one whose nature derives from the stratum that incarnated it.
+
+In theory, even Kieme could have incarnated as an [Arilon](/star-rangers/lore/arilon/)-figure. That avatar would have walked a single world with limited knowledge and limited power, been *like* Kieme without being the same person as Kieme — and left a record indistinguishable, from inside time, from that of a Levril-selected Champion. The Archive notes what follows from that indistinguishability rather than arguing with it: whether any given Arilon-account was a Champion or an avatar of something far higher is not decidable from the record, which is one more reason the Fellowship of Light's file on the pattern declines to issue verdicts.
+
+### The Subtle Influence
+
+There is a third thing in this file, and the Archive records it last because it is the hardest to define and explain. The codex record speaks of a **subtle influence of [Kieme](/star-rangers/glossary/kieme/)** — known in that record as **The Holy Spirit** — which is neither an avatar nor an intervention. It incarnates no separate person, so it is not the exception above. It breaches no constraint, so it is not selective intervention — no documented counterexample to Kieme's invariants attaches to it. What the codex material describes is something the Archive's own instruments have no category for: an influence without an event, working *within* time-bound minds rather than *upon* the Material layer, leaving nothing a Survey record can point to and no absence a Survey record can rule out.
+
+The Archive keeps the description without resolving it. Devotional material names this influence with a confidence the Archive does not share; the Archive's honest position is that a timeless stratum's influence inside time is precisely the kind of thing its invariant-only inference method would be structurally unable to detect — which is an admission of the method's limits, not evidence in either direction.
+
 ## Mostly Hierarchical: The Matrix Exceptions
 
 The spine above reads as a single chain, and for most tiers it is one. Two places in the structure are matrixed rather than linear:

@@ -108,6 +108,12 @@ The listing above is the spine, and it is *mostly* hierarchical — with two mat
 ### Celestials
 - **Layer:** Supervisory/Agentic
 - **Definition:** Create or supervise systemic agents used for implementation and oversight.
+- **Notes:** The Cascade's temporal threshold — Celestials and below are immanent; every stratum above is timeless and eternal.
+
+### Avatar (Incarnated)
+- **Layer:** Exception (Timeless/Immanent Crossing)
+- **Definition:** An incarnation of a timeless stratum as a person operating at Celestial level or below, without the full authority, power, or knowledge of its source — like its source, without being the same person as its source.
+- **Notes:** The source remains timeless and unbreached; the avatar is a separate, limited, immanent person. From inside time an avatar's record is indistinguishable from a Champion's.
 
 ### Levrils
 - **Layer:** Operational Functionaries
