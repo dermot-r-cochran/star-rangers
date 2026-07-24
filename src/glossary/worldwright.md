@@ -3,7 +3,7 @@ layout: glossary-entry.njk
 title: "Worldwright"
 id: worldwright
 category: "Cosmic Cascade"
-short: "The Cascade tier that establishes primary-universe coherence zones, called Concordants. Worldwright authority exists only in primary universes."
+short: "The Cascade tier that creates primary universes, including the Concordant Zones within them. Worldwright authority exists only in primary universes."
 related:
   - "Concordant"
   - "Cosmic Cascade"
@@ -12,7 +12,7 @@ related:
 tags: [worldwright, cascade, concordant, cosmology]
 ---
 
-**Worldwright** is the Cascade tier responsible for establishing and maintaining primary-universe coherence zones — each called a [Concordant](/star-rangers/glossary/concordant/).
+**Worldwright** is the Cascade tier that creates primary universes — the whole vessel at once: physics envelope, Etheric coupling, interaction regime, and internal zone structure. The coherence zones within a universe — each called a [Concordant](/star-rangers/glossary/concordant/) — are established and maintained under Worldwright authority, but the universe is the unit of creation; the zone is the unit of consistency. No Worldwright carves zones freestanding. See [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/).
 
 Worldwright authority is bounded: it exists only in primary universes. Secondary and subsequent universes are derived from primary ones and do not receive a new Worldwright.
 

@@ -58,7 +58,7 @@ Archetypal patterns enter the Etheric as rule templates, then become physical ad
 ## Worldwrights and Concordant / Concordance
 
 ### Definition
-Worldwrights establish primary-universe coherence zones called Concordants; Concordance is the plural.
+Worldwrights create primary universes; within each universe, the coherence zones are called Concordants, with Concordance as the plural. The universe is the unit of creation, the zone the unit of consistency — see [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/) for this distinction and for how zone-level, universe-level, and cross-universe authority differ.
 
 ### Mechanism
 A Concordant enforces a bounded physics+Etheric rule set with measurable edge behavior.
