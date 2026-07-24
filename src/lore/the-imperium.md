@@ -5,7 +5,7 @@ category: "History"
 tags: [imperium, history, governance, solar-system, coherence-wars, faction, predecessor, msc]
 description: "The Imperium: the authoritarian consolidation that ended the Coherence Wars and ruled the Solar System for sixty years — until its own rigidity produced the conditions for the Military Space Command."
 image: "the-imperium.jpg"
-image_alt: "A portrait in an old vintage photograph"
+image_alt: "A single monolithic tower rising sheer above a low city skyline, dwarfing every structure around it"
 ---
 
 The Tycho Accords ended the war, but they did not restore consent. They left behind a command structure already holding the guns, the routes, and the argument that history had proved it right.

@@ -9,12 +9,16 @@ related:
   - "Worldwright"
   - "Celestials"
   - "Universe Overlap"
+  - "Universal Authority"
+  - "Concordant Principal"
 tags: [concordant, concordance, cosmology, boundary]
 ---
 
-A **Concordant** (pronounced: **KON-kor-dant**) is a bounded region of reality with internally consistent physical and Etheric conditions — a zone where the rules hold.
+A **Concordant** (pronounced: **KON-kor-dant**; in full, **Concordant Zone**) is a bounded region of reality *within a universe*, with internally consistent physical and Etheric conditions — a zone where the rules hold.
 
-Concordants are produced under Worldwright authority in primary universes and maintained through higher-tier continuity governance. The plural form in canonical usage is **Concordance**.
+Concordants are produced under Worldwright authority in primary universes and maintained through higher-tier continuity governance. The universe is the unit of creation; the zone is the unit of consistency — a Concordant exists only inside a universe a [Worldwright](/star-rangers/glossary/worldwright/) made. The plural form in canonical usage is **Concordance**. Each zone is governed day to day by a [Concordant Principal](/star-rangers/glossary/concordant-principal/), under the universe's [Universal Authority](/star-rangers/glossary/universal-authority/).
+
+**Legacy usage:** older records also use "Concordant" for the universe-level governance minds themselves. That governance sense is deprecated — the current term is [Universal Authority](/star-rangers/glossary/universal-authority/); *Concordant* names only the zone. See [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/).
 
 Adjacent Concordants can meet at boundary zones while retaining distinct local rule sets. The difference between neighbouring Concordants is what makes boundary zones measurable and instrumentally distinctive.
 

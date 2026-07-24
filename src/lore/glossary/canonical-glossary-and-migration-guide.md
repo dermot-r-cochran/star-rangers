@@ -3,7 +3,7 @@ layout: lore-entry.njk
 title: "Canonical Glossary and Terminology Migration Guide"
 category: "Reference"
 tags: [glossary, terminology, migration, canon, hierarchy, concordants, worldwrights, telearchs, protouniverse]
-description: "Central canonical glossary for Star Rangers terminology, including migration mappings and plural Concordant/collective ascension additions."
+description: "Central canonical glossary for Star Rangers terminology, including migration mappings and plural Universal Authority/collective ascension additions."
 image: "canonical-glossary-and-migration-guide.jpg"
 image_alt: "An open old book"
 ---
@@ -28,17 +28,23 @@ Hyperomnium
 → Formwrights  
 → Archewrights  
 → Worldwrights  
-→ Concordants  
+→ Universes with Concordant Zones (Concordance)  
 → Telearchs  
+→ Dynarchs  
 → Celestials  
 → Levrils
+
+The listing above is the spine, and it is *mostly* hierarchical — with two matrix exceptions: **Worldwrights and Telearchs are parallel branches under the Archewrights** (creation and continuity, as peers), and the **Dynarchs are co-created**, standing under both the Telearchs and the Concordant Principals. Descent in the Cascade is creative rather than imperative — higher strata create and define the layers beneath them more than they command them — and every stratum above the Celestials is timeless and eternal. See [The Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) for the full treatment.
 
 ### Role Clarifications
 
 - **Archewrights** define archetypes and possibility spaces.
-- **Worldwrights** create primary universe sets.
-- **Concordants** operate within each universe to maintain CEI and systemic balance.
-- **Telearchs** coordinate large-scale operational activity inside and across governed systems.
+- **Worldwrights** create primary universe sets. The universe is the unit of creation; the Concordant Zone is the unit of consistency within it.
+- **Concordant Zones** (Concordants) are bounded regions within a universe where one internally consistent rule-set holds. They are places, not minds.
+- **Universal Authorities** (formerly "Concordants" in the governance sense) are the native governance intelligences of each universe, maintaining CEI and systemic balance. They are not supra-universal.
+- **Concordant Principals** (commonly **Harmonarchs** — both canonical, Principal the formal title) are the governing minds of individual Concordant Zones, stewarding each zone's rule-set under the universe's Universal Authority.
+- **Telearchs** coordinate large-scale operational activity inside and across governed systems. They are a Cascade tier, native to no universe — distinct in kind from both Universal Authorities and Concordant Principals, and a parallel branch with the Worldwrights under the Archewrights. See [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/).
+- **Dynarchs** (formerly "higher celestials") encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature. Co-created by both branches of the matrix; ranked between Concordant Principals and Celestials, standing under both the Telearchs and the Principals, with continuity prevailing on conflict.
 - **Celestials** create or supervise systemic agents.
 - **Levrils** are cosmic functionaries and super-technicians.
 - Levrils divide into two subclasses — **Higher Levrils** and **Dragons** — ranked by seniority. Both hold full Cascade standing.
@@ -52,7 +58,7 @@ Hyperomnium
 1. Primary universes are created by **Worldwrights**.
 2. Secondary and tertiary derivative universes emerge through overlap/intersection between primary universes.
 3. Demons, monsters, shadow entities, and similar beings arise from overlap distortions. The named entity type **Demons** (see Class II under Meta-Dimensional Beings below) is a formalization of this rule's "demons," not a separate concept.
-4. A universe seeded through noögenic transference begins as a **Noögenic Protouniverse** and remains under the jurisdiction of its parent universe's **Telearchs** — and the higher Cascade strata reachable through them — until it stabilizes independent Concordant-equivalent governance.
+4. A universe seeded through noögenic transference begins as a **Noögenic Protouniverse** and remains under the jurisdiction of its parent universe's **Telearchs** — and the higher Cascade strata reachable through them — until it stabilizes an independent **Universal Authority** (formerly phrased "Concordant-equivalent governance").
 
 ---
 
@@ -68,10 +74,20 @@ Hyperomnium
 - **Definition:** Create primary universe sets and design interaction regimes between universes.
 - **Notes:** May indirectly enable secondary/tertiary universe formation via overlap conditions.
 
-### Concordants
-- **Layer:** Governance (In-Universe)
-- **Definition:** Operate within individual universes to regulate CEI, entropy behavior, and continuity constraints.
-- **Notes:** Concordants are not supra-universal authorities.
+### Concordant Zones
+- **Layer:** Universe Structure (In-Universe)
+- **Definition:** Bounded regions within a universe where one internally consistent physical and Etheric rule-set holds. *Concordance* is the plural; *Concordant* alone always means the zone.
+- **Notes:** Places, not minds. A Concordant Zone exists only inside a universe a Worldwright made.
+
+### Universal Authorities
+- **Layer:** Governance (Universe-Level)
+- **Definition:** The native governance intelligence of a universe as a whole, regulating CEI, entropy behavior, and continuity constraints. May be a singular or plural mind.
+- **Notes:** Formerly recorded as "Concordants" in the governance sense — that usage is deprecated. Universal Authorities are not supra-universal: their writ ends at their own universe's edge.
+
+### Concordant Principals (Harmonarchs)
+- **Layer:** Governance (Zone-Level)
+- **Definition:** The governing mind of a single Concordant Zone, administering the zone's rule-set day to day under the universe's Universal Authority. Commonly called a **Harmonarch**; both names are canonical, with "Concordant Principal" the formal office title.
+- **Notes:** Stewards, not legislators — the rules they administer are the Worldwright's design. A Principal's writ ends at its zone's boundary. Together with the Telearch line, Principals co-define the Dynarchs of their zone's forces.
 
 ### Telearchs
 - **Layer:** Coordination
@@ -80,13 +96,24 @@ Hyperomnium
 
 ### Noögenic Protouniverse
 - **Layer:** Universe Architecture (Noögenic, Pre-Governance)
-- **Definition:** The nascent universe-state that begins at Noöseed transference and precedes the formation of a successor universe's own Concordant-equivalent governance.
+- **Definition:** The nascent universe-state that begins at Noöseed transference and precedes the formation of a successor universe's own Universal Authority (formerly phrased "Concordant-equivalent governance").
 - **Notes:** Has no independent seat in the Cascade. Falls under the jurisdiction of its parent universe's Telearchs, and the higher Cascade strata reachable through them, until it stabilizes governance of its own. Does not receive a new Worldwright.
 - **Related Terms:** Noöseed, Telearchs, Seed Mind Lifecycle
+
+### Dynarchs
+- **Layer:** Force Governance
+- **Definition:** Beings that encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature (biological life), and the other force-domains — administering their lawful operation across Concordant Zones and boundaries.
+- **Notes:** Co-created — defined jointly by both branches of the Cascade matrix rather than by a single parent tier. Ranked between Concordant Principals and Celestials, standing under both the Telearchs (continuity) and the Principals (zone-local operation), with continuity prevailing on conflict. The lowest timeless stratum. Formerly "higher celestials" — a legacy term retired as ambiguous with "High Celestials" (Telearchs); see the Migration Map.
 
 ### Celestials
 - **Layer:** Supervisory/Agentic
 - **Definition:** Create or supervise systemic agents used for implementation and oversight.
+- **Notes:** The Cascade's temporal threshold — Celestials and below are immanent; every stratum above is timeless and eternal.
+
+### Avatar (Incarnated)
+- **Layer:** Exception (Timeless/Immanent Crossing)
+- **Definition:** An incarnation of a timeless stratum as a person operating at Celestial level or below, without the full authority, power, or knowledge of its source — like its source, without being the same person as its source.
+- **Notes:** The source remains timeless and unbreached; the avatar is a separate, limited, immanent person. From inside time an avatar's record is indistinguishable from a Champion's.
 
 ### Levrils
 - **Layer:** Operational Functionaries
@@ -127,11 +154,13 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 
 ---
 
-## Glossary Additions: Plural Concordants & Collective Ascension
+## Glossary Additions: Plural Universal Authorities & Collective Ascension
 
-### Plural Concordant (Concordant Plurality)
-- **Layer:** Governance (Concordant Layer)
-- **Definition:** A Concordant formed from multiple Partial-Seed Minds unified into a coordinated, distributed intelligence rather than a single entity.
+*(This section formerly used "Plural Concordant" throughout; see the Migration Map below.)*
+
+### Plural Universal Authority (formerly Plural Concordant / Concordant Plurality)
+- **Layer:** Governance (Universe-Level)
+- **Definition:** A Universal Authority formed from multiple Partial-Seed Minds unified into a coordinated, distributed intelligence rather than a single entity.
 - **Role in System:** Maintains universe-level balance (CEI, AUC flow, entropy regulation) through internal negotiation between cognitive nodes.
 - **Key Property:** Governance emerges from alignment of multiple perspectives, not singular authority.
 - **Related Terms:** Partial-Seed Mind, Plural Ascendant Kernel, Synarch Mind, Consensus Field
@@ -140,28 +169,28 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 - **Pronunciation:** SIN-ark mind
 - **Layer:** Governance / Coordination
 - **Definition:** A unified but multi-node intelligence created from the integration of several Partial-Seed Minds.
-- **Role in System:** Functions as a plural Concordant or Telearch, capable of managing complex, high-variance universes.
+- **Role in System:** Functions as a plural Universal Authority or Telearch, capable of managing complex, high-variance universes.
 - **Key Property:** Maintains structured plurality—multiple internal identities remain active but harmonized.
-- **Related Terms:** Plural Concordant, Telearch Collective, Partial-Seed Mind
+- **Related Terms:** Plural Universal Authority, Telearch Collective, Partial-Seed Mind
 
 ### Partial-Seed Mind (PSM)
 - **Layer:** Pre-Ascension
 - **Definition:** A sentient entity with high Inner World Depth (IWD) and emerging Noögenic Seed Potential (NSP), but insufficient stability or completeness to become a full seed independently.
-- **Role in System:** Candidate for collective ascension, Telearch formation, and plural Concordant assembly.
+- **Role in System:** Candidate for collective ascension, Telearch formation, and plural Universal Authority assembly.
 - **Key Property:** Individually sub-threshold, but collectively sufficient for ascension.
 - **Related Terms:** Seed Mind, Noögenesis, Synarch Formation Threshold
 
 ### Plural Convergence
 - **Layer:** Ascension Process
 - **Definition:** The process by which multiple Partial-Seed Minds align, synchronize, and merge into a coherent plural system.
-- **Role in System:** Enables formation of Synarch Minds, Telearch Collectives, and Plural Concordants.
+- **Role in System:** Enables formation of Synarch Minds, Telearch Collectives, and Plural Universal Authorities.
 - **Key Property:** Emerges through resonance, overlap zones, and high CEI environments.
 - **Related Terms:** Partial-Seed Mind, Plural Ascendant Kernel, Consensus Field
 
 ### Plural Ascendant Kernel
 - **Layer:** Ascension Transition
 - **Definition:** A compressed, stabilized structure formed from the convergence of multiple Partial-Seed Minds prior to assignment into the hierarchy.
-- **Role in System:** Transitional state leading to Telearch Collective or Concordant Plurality realization.
+- **Role in System:** Transitional state leading to Telearch Collective or Plural Universal Authority realization.
 - **Key Property:** Encodes multi-perspective cognition rather than a single unified identity.
 - **Related Terms:** Ascendant Kernel, Plural Convergence, Synarch Mind
 
@@ -174,22 +203,22 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 
 ### Consensus Field
 - **Layer:** Governance Mechanism
-- **Definition:** A dynamic alignment mechanism through which a plural Concordant or Synarch Mind resolves internal differences and produces coherent decisions.
+- **Definition:** A dynamic alignment mechanism through which a plural Universal Authority or Synarch Mind resolves internal differences and produces coherent decisions.
 - **Role in System:** Determines CEI adjustments, anomaly tolerance, and system interventions.
 - **Key Property:** Decisions emerge from weighted convergence, not voting.
-- **Related Terms:** Plural Concordant, Synarch Mind, CEI
+- **Related Terms:** Plural Universal Authority, Synarch Mind, CEI
 
 ### Factional Axis (Plural System Internal Structure)
 - **Layer:** Governance (Internal)
-- **Definition:** A stable alignment of nodes within a plural Concordant representing a shared functional or philosophical orientation (e.g., stability, novelty, continuity).
+- **Definition:** A stable alignment of nodes within a plural Universal Authority representing a shared functional or philosophical orientation (e.g., stability, novelty, continuity).
 - **Role in System:** Enables internal specialization, structured disagreement, and adaptive governance.
 - **Key Property:** Internal diversity is preserved and constrained, not eliminated.
 - **Related Terms:** Synarch Mind, Consensus Field
 
 ### Plural Instability
 - **Layer:** Risk Condition
-- **Definition:** A state in which internal divergence within a plural Concordant exceeds stabilizing thresholds, causing external instability in the governed universe.
-- **Role in System:** Identified and mitigated by Levrils, Telearchs, and higher Concordant oversight.
+- **Definition:** A state in which internal divergence within a plural Universal Authority exceeds stabilizing thresholds, causing external instability in the governed universe.
+- **Role in System:** Identified and mitigated by Levrils, Telearchs, and Universal Authority oversight.
 - **Key Property:** Internal conflict manifests as fluctuating laws, CEI oscillations, and anomaly proliferation.
 - **Related Terms:** CEI, Consensus Field, Levrils
 
@@ -242,7 +271,7 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 ### Ascendant Kernel
 - **Layer:** Ascension Transition
 - **Definition:** A compressed, stabilized informational form of a mind transitioning into higher-order roles or seed formation.
-- **Role in System:** Gateway to Concordant ascension, Telearch formation, and Noöseed creation.
+- **Role in System:** Gateway to Universal Authority ascension, Telearch formation, and Noöseed creation.
 - **Key Property:** Maximum information density with structural coherence.
 - **Related Terms:** Structured Persistence, Noögenesis
 
@@ -295,11 +324,16 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 | Legacy / Ambiguous Usage | Canonical Term | Migration Rule |
 |---|---|---|
 | “Archewright-created universe(s)” | Worldwright-created primary universe set(s) | Replace direct creation language; keep Archewrights as archetype/possibility authors. |
-| “Concordants above universes” | Concordants within universes | Reframe Concordants as in-universe governance intelligences. |
+| “High Celestials” (coordination/jurisdiction context) | Telearchs | The commoner sense of the retired term. |
+| “higher celestials” (force/law governance context) | Dynarchs | The force-governing sense of the retired term. If context cannot disambiguate, flag rather than guess. |
+| “Concordant” (governance-intelligence sense) | Universal Authority | Reserve “Concordant” / “Concordant Zone” for the bounded region; name the universe-level governance mind a Universal Authority. |
+| “Concordants above universes” | Universal Authorities within universes | Reframe the governance intelligences as in-universe Universal Authorities; they are not supra-universal. |
+| “Plural Concordant” / “Concordant Plurality” | Plural Universal Authority | Same rename applied to the plural-ascension pathway. |
+| “Concordant-equivalent governance” (protouniverse) | independent Universal Authority | A protouniverse leaves parental Telearch jurisdiction when it stabilizes its own Universal Authority. |
 | “Dragon-class monster” | Dragon (low-ranking Levril) | Reclassify from monster taxonomy to Levril subclass. |
 | “Beautiful monster” (unqualified) | Beautiful Monster (named Class II type) *or* the collective nickname for Court-Fae/Gilded Saints/Cute Predators (see Predatory Entities) | Ambiguous on its own; qualify with specific-type or collective-nickname context on first use. |
 | “Single-seed-only ascension model” | Includes plural ascension pathways | Add Plural Convergence / Synarch thresholds where applicable. |
-| “Unified singular governance mind only” | Plural Concordant / Synarch Mind options | Permit distributed cognition with Consensus Field decisioning. |
+| “Unified singular governance mind only” | Plural Universal Authority / Synarch Mind options | Permit distributed cognition with Consensus Field decisioning. |
 
 ---
 
@@ -314,6 +348,7 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 
 ## Cross-Links
 
+- [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/)
 - [Worldwright Design Philosophies](/star-rangers/lore/worldwrights/competing-designs/)
 - [Creative Entropy Framework](/star-rangers/lore/creative-entropy-framework/)
 - [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/)

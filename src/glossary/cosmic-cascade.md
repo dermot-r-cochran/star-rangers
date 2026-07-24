@@ -7,6 +7,7 @@ short: "The fixed hierarchy of causal authority in the Star Rangers universe, fr
 related:
   - "Hyperomnium"
   - "Telearch"
+  - "Dynarch"
   - "Celestials"
   - "Levril"
   - "Champions / Heroes (Heros)"
@@ -20,9 +21,11 @@ Causality resolves from higher tier to lower tier and does not reverse.
 
 The full hierarchy is:
 
-> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Celestials (Frenar) → Levrils → Champions / Heroes
+> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Dynarchs → Celestials (Frenar) → Levrils → Champions / Heroes
 
 No tier can override a higher tier. No moral authority is encoded in the hierarchy. Champions are sentient material beings — organic or artificial — chosen by Levrils.
+
+The Cascade is mostly, not purely, hierarchical. Worldwrights and Telearchs are parallel branches under the Archewrights (creation and continuity, as peers), and the [Dynarchs](/star-rangers/glossary/dynarch/) are co-created, standing under both the Telearchs and the Concordant Principals. Descent is creative rather than imperative — higher strata create and define the layers beneath them more than they command them — and every stratum above the Celestials is timeless and eternal, the Celestials and below immanent. The one crossing between the two is the [Avatar](/star-rangers/glossary/avatar/) exception: a timeless stratum incarnated as a limited person at Celestial level or below, like its source without being the same person as it.
 
 **Example:** A Worldwright can establish a new Concordant; a Telearch operating within that Concordant cannot un-establish it, no matter how disruptive it proves. Causality in the Cascade runs one direction only — down, never up.
 
