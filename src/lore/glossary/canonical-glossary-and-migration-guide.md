@@ -34,15 +34,17 @@ Hyperomnium
 → Celestials  
 → Levrils
 
+The listing above is the spine, and it is *mostly* hierarchical — with two matrix exceptions: **Worldwrights and Telearchs are parallel branches under the Archewrights** (creation and continuity, as peers), and the **Dynarchs are co-created**, standing under both the Telearchs and the Concordant Principals. Descent in the Cascade is creative rather than imperative — higher strata create and define the layers beneath them more than they command them — and every stratum above the Celestials is timeless and eternal. See [The Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) for the full treatment.
+
 ### Role Clarifications
 
 - **Archewrights** define archetypes and possibility spaces.
 - **Worldwrights** create primary universe sets. The universe is the unit of creation; the Concordant Zone is the unit of consistency within it.
 - **Concordant Zones** (Concordants) are bounded regions within a universe where one internally consistent rule-set holds. They are places, not minds.
 - **Universal Authorities** (formerly "Concordants" in the governance sense) are the native governance intelligences of each universe, maintaining CEI and systemic balance. They are not supra-universal.
-- **Concordant Principals** are the governing minds of individual Concordant Zones, stewarding each zone's rule-set under the universe's Universal Authority.
-- **Telearchs** coordinate large-scale operational activity inside and across governed systems. They are a Cascade tier, native to no universe — distinct in kind from both Universal Authorities and Concordant Principals. See [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/).
-- **Dynarchs** (formerly "higher celestials") encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature. Ranked between Concordant Principals and Celestials; aligned with the Telearchs.
+- **Concordant Principals** (commonly **Harmonarchs** — both canonical, Principal the formal title) are the governing minds of individual Concordant Zones, stewarding each zone's rule-set under the universe's Universal Authority.
+- **Telearchs** coordinate large-scale operational activity inside and across governed systems. They are a Cascade tier, native to no universe — distinct in kind from both Universal Authorities and Concordant Principals, and a parallel branch with the Worldwrights under the Archewrights. See [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/).
+- **Dynarchs** (formerly "higher celestials") encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature. Co-created by both branches of the matrix; ranked between Concordant Principals and Celestials, standing under both the Telearchs and the Principals, with continuity prevailing on conflict.
 - **Celestials** create or supervise systemic agents.
 - **Levrils** are cosmic functionaries and super-technicians.
 - Levrils divide into two subclasses — **Higher Levrils** and **Dragons** — ranked by seniority. Both hold full Cascade standing.
@@ -82,10 +84,10 @@ Hyperomnium
 - **Definition:** The native governance intelligence of a universe as a whole, regulating CEI, entropy behavior, and continuity constraints. May be a singular or plural mind.
 - **Notes:** Formerly recorded as "Concordants" in the governance sense — that usage is deprecated. Universal Authorities are not supra-universal: their writ ends at their own universe's edge.
 
-### Concordant Principals
+### Concordant Principals (Harmonarchs)
 - **Layer:** Governance (Zone-Level)
-- **Definition:** The governing mind of a single Concordant Zone, administering the zone's rule-set day to day under the universe's Universal Authority.
-- **Notes:** Stewards, not legislators — the rules they administer are the Worldwright's design. A Principal's writ ends at its zone's boundary.
+- **Definition:** The governing mind of a single Concordant Zone, administering the zone's rule-set day to day under the universe's Universal Authority. Commonly called a **Harmonarch**; both names are canonical, with "Concordant Principal" the formal office title.
+- **Notes:** Stewards, not legislators — the rules they administer are the Worldwright's design. A Principal's writ ends at its zone's boundary. Together with the Telearch line, Principals co-define the Dynarchs of their zone's forces.
 
 ### Telearchs
 - **Layer:** Coordination
@@ -101,7 +103,7 @@ Hyperomnium
 ### Dynarchs
 - **Layer:** Force Governance
 - **Definition:** Beings that encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature (biological life), and the other force-domains — administering their lawful operation across Concordant Zones and boundaries.
-- **Notes:** Ranked between Concordant Principals and Celestials; aligned with the Telearchs, to whom their continuity obligations run. Formerly "higher celestials" — a legacy term retired as ambiguous with "High Celestials" (Telearchs); see the Migration Map.
+- **Notes:** Co-created — defined jointly by both branches of the Cascade matrix rather than by a single parent tier. Ranked between Concordant Principals and Celestials, standing under both the Telearchs (continuity) and the Principals (zone-local operation), with continuity prevailing on conflict. The lowest timeless stratum. Formerly "higher celestials" — a legacy term retired as ambiguous with "High Celestials" (Telearchs); see the Migration Map.
 
 ### Celestials
 - **Layer:** Supervisory/Agentic

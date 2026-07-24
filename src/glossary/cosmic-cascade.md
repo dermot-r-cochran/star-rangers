@@ -25,6 +25,8 @@ The full hierarchy is:
 
 No tier can override a higher tier. No moral authority is encoded in the hierarchy. Champions are sentient material beings — organic or artificial — chosen by Levrils.
 
+The Cascade is mostly, not purely, hierarchical. Worldwrights and Telearchs are parallel branches under the Archewrights (creation and continuity, as peers), and the [Dynarchs](/star-rangers/glossary/dynarch/) are co-created, standing under both the Telearchs and the Concordant Principals. Descent is creative rather than imperative — higher strata create and define the layers beneath them more than they command them — and every stratum above the Celestials is timeless and eternal.
+
 **Example:** A Worldwright can establish a new Concordant; a Telearch operating within that Concordant cannot un-establish it, no matter how disruptive it proves. Causality in the Cascade runs one direction only — down, never up.
 
 See the [Lore article on the Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) for full tier-by-tier definitions.

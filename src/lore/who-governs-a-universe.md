@@ -24,7 +24,7 @@ Ask who is *in charge* out there and you will get three different answers, all c
 
 ### Concordant Principals
 
-A **Concordant Principal** is the governing mind of a single Concordant Zone. Principals administer the zone's rule-set — they keep its physics and Etheric conditions coherent day to day — but they do not author it. The rules are the Worldwright's design; the Principal is the steward, not the legislator. A Principal's writ ends at its zone's boundary, which is precisely why boundary zones are nobody's tidy jurisdiction and everybody's problem.
+A **Concordant Principal** — commonly, a **Harmonarch** — is the governing mind of a single Concordant Zone. Principals administer the zone's rule-set — they keep its physics and Etheric conditions coherent day to day — but they do not author it. The rules are the Worldwright's design; the Principal is the steward, not the legislator. A Principal's writ ends at its zone's boundary, which is precisely why boundary zones are nobody's tidy jurisdiction and everybody's problem.
 
 ### Universal Authorities
 
@@ -42,7 +42,7 @@ The protouniverse case shows the seam clearly. A [Noögenic Protouniverse](/star
 
 ### A Note on the Dynarchs
 
-One more office sits in the seam between the resident chain and the Cascade one, and it is worth naming here because legacy records confuse it with the Telearchs constantly. The [Dynarchs](/star-rangers/glossary/dynarch/) — once loosely called "higher celestials" — encapsulate and govern the physical laws and forces themselves: Gravity, Electromagnetics, Nature. They rank below the Concordant Principals and above the [Celestials](/star-rangers/glossary/celestials/), but their alignment runs to the Telearchs, because keeping a force coherent across zone boundaries is continuity work, not resident governance. A Principal cannot command one. Most cultures' oldest gods, the Archive notes without comment, are Dynarchs seen from below.
+One more office sits in the seam between the resident chain and the Cascade one, and it is worth naming here because legacy records confuse it with the Telearchs constantly. The [Dynarchs](/star-rangers/glossary/dynarch/) — once loosely called "higher celestials" — encapsulate and govern the physical laws and forces themselves: Gravity, Electromagnetics, Nature. They are **co-created**, defined jointly by both lines they serve rather than by a single parent tier, and they stand under both: the zone's Principal for a force's local operation, the Telearchs for its continuity across boundaries and universes, with continuity prevailing where the two conflict. They rank above the [Celestials](/star-rangers/glossary/celestials/), and with the Celestials the Cascade crosses a deeper line than rank — every stratum above the Celestials is timeless and eternal, which is why the higher strata do not so much command the layers beneath them as create and define them. Most cultures' oldest gods, the Archive notes without comment, are Dynarchs seen from below.
 
 ## The Rule of Thumb
 

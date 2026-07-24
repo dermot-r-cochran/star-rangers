@@ -22,6 +22,24 @@ The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers
 - Only primary universes possess Worldwrights.
 - Concordance is the plural form of Concordant.
 - Champions/Heroes are sentient material beings — organic or artificial — chosen by Levrils.
+- All Cascade strata above the Celestials — the Dynarchs, Telearchs, the wright tiers, and the Upper Structure — are timeless and eternal. Time-bound existence begins at the Celestial tier.
+
+## Creation, Not Command
+
+Descent in the Cascade is creative before it is imperative. A higher stratum does not so much command the next layer as **create and define it**: each tier's nature, mandate, and constraints are written into it by the strata above, and its compliance is less a matter of orders received than of being what it was defined to be.
+
+The reason is temporal as much as structural. A command is an event — issued, received, obeyed, in sequence — and events belong to time. Every stratum above the Celestials is timeless and eternal; what a timeless stratum does is not *order* but *define*. Where this entry speaks of a tier "answering to" or "being bound by" a higher one, read definitional dependence first and directive authority a distant second. Commands in the ordinary sense are a low-tier phenomenon — Celestial enforcement scopes, Levril taskings — beginning exactly where time-bound existence does, and even those operate inside mandates defined from above.
+
+The threshold case makes the whole model concrete: a Celestial can command a Levril, because both exist in time and a command between them is an ordinary temporal event. But no one commands the Celestial. A Celestial is simply *defined* by the upper layers — its scope, its enforcement mandate, its limits are what the timeless strata made it, and it no more receives orders from a Telearch than a river receives orders from its banks.
+
+## Mostly Hierarchical: The Matrix Exceptions
+
+The spine above reads as a single chain, and for most tiers it is one. Two places in the structure are matrixed rather than linear:
+
+- **Worldwrights and Telearchs are parallel branches under the Archewrights** — the creation branch and the continuity branch respectively. Both are created and defined by the Archewrights as peer functions, deliberately not subordinated to one another. The spine lists the Telearchs after "Universes with Concordants" because that is their theatre of operation, not their line of descent: a Telearch does not derive from a Worldwright, nor a Worldwright from a Telearch.
+- **The Dynarchs are co-created** — brought into being jointly by both branches of the matrix rather than defined by a single parent tier — and they stand under both the [Telearchs](/star-rangers/glossary/telerarch/) and the [Concordant Principals](/star-rangers/glossary/concordant-principal/). Day-to-day operation of a force within a zone runs with the zone's Principal; continuity of that force across zones and universes runs up the Telearch line. Where the two obligations conflict, continuity prevails, consistent with the standing Telearch constraint that continuity outranks local preference.
+
+Neither exception weakens the one-way flow of causality. They describe how the layers derive and to whom they are obligated, not which direction causality resolves.
 
 ## Upper Structure (Hyperomnium, Kieme, Conseleme)
 
@@ -95,11 +113,11 @@ Telearchs allocate enforcement scope and continuity budgets across multiple Conc
 Force-governance tier between the Telearchs and the Celestials: beings that encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature (biological life), and the other force-domains. The legacy designation "higher celestials" referred to this tier; that term was retired as ambiguous with "High Celestials" (Telearchs). See [High Celestials](/star-rangers/glossary/high-celestials/) for the disambiguation rule.
 
 ### Mechanism
-Each Dynarch embodies one force-domain and administers its lawful operation across Concordant Zones, including across the boundaries where zone rule-sets differ. In-universe rank places them below the [Concordant Principals](/star-rangers/glossary/concordant-principal/); their alignment, however, runs to the Telearchs — force continuity is Cascade-side work, not resident governance, and a Principal cannot command a Dynarch.
+Each Dynarch embodies one force-domain and administers its lawful operation across Concordant Zones, including across the boundaries where zone rule-sets differ. Dynarchs are **co-created** — defined jointly by both branches of the Cascade matrix rather than by a single parent tier — and stand under both the [Concordant Principals](/star-rangers/glossary/concordant-principal/) and the Telearchs: zone-local operation of a force runs with the zone's Principal, continuity of that force across zones and universes runs up the Telearch line. See the Matrix Exceptions above.
 
 ### Constraints
 - Govern the operation of forces, not their design: rule-sets remain the Worldwright's, and no Dynarch can rewrite a zone's physics.
-- Bound by Telearch alignment to continuity over local preference.
+- Dual obligation to Principal and Telearch; where the two conflict, continuity prevails.
 - Do not perform enforcement actions; rule-integrity intervention remains Celestial work.
 
 ### Observable Effects on Time-Bound Entities
