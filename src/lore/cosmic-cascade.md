@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "The Cosmic Cascade"
 category: "Cosmology"
-tags: [cosmology, cascade, hierarchy, hyperomnium, kieme, conseleme, worldwright, concordant, telearchs, celestials, levrils, champions]
+tags: [cosmology, cascade, hierarchy, hyperomnium, kieme, conseleme, worldwright, concordant, telearchs, dynarchs, celestials, levrils, champions]
 description: "The strict hierarchy of causal authority in the Star Rangers universe, from Hyperomnium to Champions/Heroes."
 image: "cosmic-cascade.jpg"
 image_alt: "A space galaxy background"
@@ -12,7 +12,7 @@ When witnesses say a dragon changed fate, the archives ask a colder question fir
 
 The Cosmic Cascade is the fixed ordering of causal authority in the Star Rangers universe. It is ontological, not political. Causality resolves from higher tier to lower tier and does not reverse.
 
-> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Celestials (Frenar) → Levrils → Champions / Heroes
+> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Dynarchs → Celestials (Frenar) → Levrils → Champions / Heroes
 
 ## Global Invariants
 
@@ -74,7 +74,7 @@ A Concordant enforces a bounded physics+Etheric rule set with measurable edge be
 ## Telearchs
 
 ### Definition
-Supervisory agency tier for cross-Concordant continuity and enforcement delegation. Replaces the legacy designation High Celestials.
+Supervisory agency tier for cross-Concordant continuity and enforcement delegation. The commoner sense of the retired legacy designation "High Celestials" — a term that also loosely covered the Dynarchs, and was retired for exactly that ambiguity.
 
 ### Mechanism
 Telearchs allocate enforcement scope and continuity budgets across multiple Concordants.
@@ -89,10 +89,27 @@ Telearchs allocate enforcement scope and continuity budgets across multiple Conc
 - Delayed but consistent correction of illegal cross-boundary manipulations.
 - Continuity assessments for a still-forming noögenic protouniverse route to its parent universe's Telearchs, since the protouniverse has no native authority of its own yet.
 
+## Dynarchs
+
+### Definition
+Force-governance tier between the Telearchs and the Celestials: beings that encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature (biological life), and the other force-domains. The legacy designation "higher celestials" referred to this tier; that term was retired as ambiguous with "High Celestials" (Telearchs). See [High Celestials](/star-rangers/glossary/high-celestials/) for the disambiguation rule.
+
+### Mechanism
+Each Dynarch embodies one force-domain and administers its lawful operation across Concordant Zones, including across the boundaries where zone rule-sets differ. In-universe rank places them below the [Concordant Principals](/star-rangers/glossary/concordant-principal/); their alignment, however, runs to the Telearchs — force continuity is Cascade-side work, not resident governance, and a Principal cannot command a Dynarch.
+
+### Constraints
+- Govern the operation of forces, not their design: rule-sets remain the Worldwright's, and no Dynarch can rewrite a zone's physics.
+- Bound by Telearch alignment to continuity over local preference.
+- Do not perform enforcement actions; rule-integrity intervention remains Celestial work.
+
+### Observable Effects on Time-Bound Entities
+- Forces that remain coherent across boundary zones even where instruments and timebases disagree.
+- The heaviest mythic burden of any tier: beings that *are* gravity, the storm, or the living green have been worshipped as gods by nearly every low-context culture on record.
+
 ## Celestials (Frenar)
 
 ### Definition
-Operational enforcement tier below Telearchs. Frenar is a legacy designation for this same tier.
+Operational enforcement tier below the Telearchs and Dynarchs. Frenar is a legacy designation for this same tier.
 
 ### Mechanism
 Celestials execute rule-integrity actions at boundary and overlap interfaces.

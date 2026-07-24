@@ -6,7 +6,7 @@ tags: [cosmology, cascade, worldwright, concordant, concordant-zone, concordant-
 description: "The two distinctions every Cascade primer eventually needs: a primary universe versus the Concordant Zones inside it, and Telearchs versus Concordant Principals versus Universal Authorities."
 ---
 
-Asked once to explain the Cascade, Asteria sighed and said, "Where do I even begin?" The Archive's answer, after long practice with the same question, is: begin with two distinctions, because nearly every confusion about the Cascade turns out to be one of them wearing a costume.
+Asked once to explain the Cascade, [Asteria the Sage](/star-rangers/characters/asteria-the-sage/) sighed and said, "Where do I even begin?" The Archive's answer, after long practice with the same question, is: begin with two distinctions, because nearly every confusion about the Cascade turns out to be one of them wearing a costume.
 
 **Who governs a universe** depends on what you mean by *universe*, and on which of three very different kinds of authority you are actually asking about. This entry fixes both distinctions in one place. The [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) entry gives the full tier-by-tier hierarchy; the [Canonical Glossary](/star-rangers/lore/glossary/canonical-glossary-and-migration-guide/) gives the terminology law. This entry gives the map.
 
@@ -40,6 +40,10 @@ A [Telearch](/star-rangers/glossary/telerarch/) is neither of the above, and the
 
 The protouniverse case shows the seam clearly. A [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/) has no Universal Authority yet — that is what makes it *proto* — so continuity oversight defaults upward to the parent universe's Telearchs until the young universe stabilizes an Authority of its own. Jurisdiction fills the vacancy from outside; it does not become the office.
 
+### A Note on the Dynarchs
+
+One more office sits in the seam between the resident chain and the Cascade one, and it is worth naming here because legacy records confuse it with the Telearchs constantly. The [Dynarchs](/star-rangers/glossary/dynarch/) — once loosely called "higher celestials" — encapsulate and govern the physical laws and forces themselves: Gravity, Electromagnetics, Nature. They rank below the Concordant Principals and above the [Celestials](/star-rangers/glossary/celestials/), but their alignment runs to the Telearchs, because keeping a force coherent across zone boundaries is continuity work, not resident governance. A Principal cannot command one. Most cultures' oldest gods, the Archive notes without comment, are Dynarchs seen from below.
+
 ## The Rule of Thumb
 
 The Archive teaches it in one line, and the line survives because it is true:
@@ -52,6 +56,6 @@ Local, universal, cross — in that order, with no office able to do another's j
 
 - [The Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) — the full hierarchy
 - [Canonical Glossary and Terminology Migration Guide](/star-rangers/lore/glossary/canonical-glossary-and-migration-guide/) — the terminology law and legacy mappings
-- [Concordant](/star-rangers/glossary/concordant/), [Universal Authority](/star-rangers/glossary/universal-authority/), [Concordant Principal](/star-rangers/glossary/concordant-principal/), [Telearch](/star-rangers/glossary/telerarch/), [Worldwright](/star-rangers/glossary/worldwright/)
+- [Concordant](/star-rangers/glossary/concordant/), [Universal Authority](/star-rangers/glossary/universal-authority/), [Concordant Principal](/star-rangers/glossary/concordant-principal/), [Telearch](/star-rangers/glossary/telerarch/), [Dynarch](/star-rangers/glossary/dynarch/), [Worldwright](/star-rangers/glossary/worldwright/)
 - [Universe Overlap and Folding](/star-rangers/lore/universe-overlap-and-folding/) — how secondary universes arise
 - [Noögenic Seeding System](/star-rangers/lore/noogenic-seeding-system/) — how new universes are seeded, and why their governance starts vacant

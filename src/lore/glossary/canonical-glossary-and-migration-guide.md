@@ -30,6 +30,7 @@ Hyperomnium
 → Worldwrights  
 → Universes with Concordant Zones (Concordance)  
 → Telearchs  
+→ Dynarchs  
 → Celestials  
 → Levrils
 
@@ -41,6 +42,7 @@ Hyperomnium
 - **Universal Authorities** (formerly "Concordants" in the governance sense) are the native governance intelligences of each universe, maintaining CEI and systemic balance. They are not supra-universal.
 - **Concordant Principals** are the governing minds of individual Concordant Zones, stewarding each zone's rule-set under the universe's Universal Authority.
 - **Telearchs** coordinate large-scale operational activity inside and across governed systems. They are a Cascade tier, native to no universe — distinct in kind from both Universal Authorities and Concordant Principals. See [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/).
+- **Dynarchs** (formerly "higher celestials") encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature. Ranked between Concordant Principals and Celestials; aligned with the Telearchs.
 - **Celestials** create or supervise systemic agents.
 - **Levrils** are cosmic functionaries and super-technicians.
 - Levrils divide into two subclasses — **Higher Levrils** and **Dragons** — ranked by seniority. Both hold full Cascade standing.
@@ -95,6 +97,11 @@ Hyperomnium
 - **Definition:** The nascent universe-state that begins at Noöseed transference and precedes the formation of a successor universe's own Universal Authority (formerly phrased "Concordant-equivalent governance").
 - **Notes:** Has no independent seat in the Cascade. Falls under the jurisdiction of its parent universe's Telearchs, and the higher Cascade strata reachable through them, until it stabilizes governance of its own. Does not receive a new Worldwright.
 - **Related Terms:** Noöseed, Telearchs, Seed Mind Lifecycle
+
+### Dynarchs
+- **Layer:** Force Governance
+- **Definition:** Beings that encapsulate and govern physical laws and forces — Gravity, Electromagnetics, Nature (biological life), and the other force-domains — administering their lawful operation across Concordant Zones and boundaries.
+- **Notes:** Ranked between Concordant Principals and Celestials; aligned with the Telearchs, to whom their continuity obligations run. Formerly "higher celestials" — a legacy term retired as ambiguous with "High Celestials" (Telearchs); see the Migration Map.
 
 ### Celestials
 - **Layer:** Supervisory/Agentic
@@ -309,6 +316,8 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 | Legacy / Ambiguous Usage | Canonical Term | Migration Rule |
 |---|---|---|
 | “Archewright-created universe(s)” | Worldwright-created primary universe set(s) | Replace direct creation language; keep Archewrights as archetype/possibility authors. |
+| “High Celestials” (coordination/jurisdiction context) | Telearchs | The commoner sense of the retired term. |
+| “higher celestials” (force/law governance context) | Dynarchs | The force-governing sense of the retired term. If context cannot disambiguate, flag rather than guess. |
 | “Concordant” (governance-intelligence sense) | Universal Authority | Reserve “Concordant” / “Concordant Zone” for the bounded region; name the universe-level governance mind a Universal Authority. |
 | “Concordants above universes” | Universal Authorities within universes | Reframe the governance intelligences as in-universe Universal Authorities; they are not supra-universal. |
 | “Plural Concordant” / “Concordant Plurality” | Plural Universal Authority | Same rename applied to the plural-ascension pathway. |
