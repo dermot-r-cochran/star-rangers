@@ -28,9 +28,9 @@ That is the filed pattern, feature for feature. What the [Cascade](/star-rangers
 
 ## The Captain Who Ended the House
 
-The scriptural pair to Elijah is not another prophet. It is a soldier — the captain **Jehu**, anointed in secret to be the hand the prophet's commission had named, and remembered in his own corpus for the manner of his coming: *he driveth furiously.* Jehu is no witness. He is the answer to the witness — the one who does what the naming demanded. He ends the rotten house root and branch, puts down the rival cult so thoroughly the corpus says he "destroyed it out of the land," and founds a dynasty in its place.
+The scriptural pair to Elijah is not another prophet. It is a soldier — the captain **Jehu**, anointed in secret to be the hand the prophet's commission had named, and remembered in his own corpus for the manner of his coming: *he drives furiously.* Jehu is no witness. He is the answer to the witness — the one who does what the naming demanded. He ends the rotten house root and branch, puts down the rival cult so thoroughly the corpus says he "destroyed it out of the land," and founds a dynasty in its place.
 
-And then the same corpus, in the same breath, files the thing it will not let him keep: *howbeit he departed not from the sins that made the nation sin; the golden calves he did not take away.* He tore down the newer idol and kept the older one. He was granted his house a fixed and bounded span — four generations, the text is exact about it — and at the end of that span the dynasty was narrowed out of existence by its own successors, having reproduced, at its foundation, the very unaccountability it had risen to punish.
+And then the same corpus, in the same breath, files the thing it will not let him keep: *however, he didn't depart from the sins that made the nation sin — the golden calves he didn't take away.* He tore down the newer idol and kept the older one. He was granted his house a fixed and bounded span — four generations, the text is exact about it — and at the end of that span the dynasty was narrowed out of existence by its own successors, having reproduced, at its foundation, the very unaccountability it had risen to punish.
 
 That is the figure I want to set beside our own founding memory. Not the witness. The one who answered the witness, and stopped short.
 

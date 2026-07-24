@@ -3,16 +3,17 @@ layout: glossary-entry.njk
 title: "Celestials"
 id: celestials
 category: "Cosmic Cascade"
-short: "Operational enforcement tier below Telearchs; Frenar is a legacy synonym for this tier."
+short: "Operational enforcement tier below the Telearchs and Dynarchs; Frenar is a legacy synonym for this tier."
 related:
   - "Telearch"
+  - "Dynarch"
   - "Frenar"
   - "Levril"
   - "Concordant"
 tags: [celestials, frenar, cascade, enforcement]
 ---
 
-**Celestials** (pronounced: **suh-LES-tee-ulz**) are the operational enforcement tier of the Cosmic Cascade, sitting directly below Telearchs in the fixed hierarchy.
+**Celestials** (pronounced: **suh-LES-tee-ulz**) are the operational enforcement tier of the Cosmic Cascade, sitting below the [Telearchs](/star-rangers/glossary/telerarch/) and the force-governing [Dynarchs](/star-rangers/glossary/dynarch/) in the fixed hierarchy. They are also the Cascade's temporal threshold: every stratum above the Celestials is timeless and eternal, making the Celestials the highest tier that exists — and can act — in time. The asymmetry cuts one way: a Celestial can command a [Levril](/star-rangers/glossary/levril/), since a command between time-bound tiers is an ordinary temporal event, but the Celestial itself is never commanded — it is *defined* by the timeless strata above it.
 
 Their function is concrete: Celestials maintain Concordant-boundary integrity through lawful enforcement actions, acting within the scope delegated to them by Telearchs.
 
