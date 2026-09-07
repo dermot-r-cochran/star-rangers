@@ -770,6 +770,19 @@ Still live:
   is a survey coinage and not a name they gave. That is the naming doctrine
   applied to itself, and it is also a hook left deliberately loose.
 
+## What a Life Is Built From — `intake-2026-09-07.md`, sixth and seventh directions
+
+Two directions read as one lore entry (*alien alternatives to DNA*;
+*generalization of multicellular organic biological life forms*), drafted
+7 September 2026 as `src/lore/what-a-life-is-built-from.md` — the four things
+every life does, the heredities the record has found in DNA's place, and
+*multicellular* generalised to cooperation, differentiation and replacement.
+An extension of the taxonomy file and *The Shape of a Life*; nothing added to
+any named species. **Open: six readings flagged in the intake** — one entry
+not two; unnamed real chemistry; two unnamed worlds and one unnamed organism
+asserted; *carbon everywhere, so far*; the Told as the limit case of
+inheritance; category Cosmology. Draft-and-stop until confirmed. No image.
+
 ## Teddy — the first individual Pandoid, drafted 6 September 2026
 
 Raised in `intake-2026-09-06.md` (Dermot: *A dangerous Teddy Bear, actually a
