@@ -792,9 +792,12 @@ Pandoid, soft and warm, but never weak or foolish*). Drafted the same session as
   says about a Pandoid face. The prompt gained the face and two rounds were
   run the same morning; all four variants came back a great ape, which the
   naming caution forbids as squarely as a bear, so nothing is filed. **Still
-  his:** how the body escapes the bear and ape attractors — one body detail
-  of his (recommended), the face-turned-away frame, or accepting round 1's
-  first variant.
+  his:** ~~how the body escapes the bear and ape attractors~~ — **ruled
+  minutes later, fourth section: *more like a panda and less like a
+  gorilla*.** Round 3 run on the panda build, both variants panda-built and
+  grey; variant 1 recommended (clean relay; a thin black band to crop),
+  variant 2 has a labelled relay. Both on all fours where the record says
+  upright. **Still his:** the pick, or a fourth round on the stance.
 
 ## Below the Roof — the Pandoid thread, registered 6 September 2026
 
