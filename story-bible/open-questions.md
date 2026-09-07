@@ -1378,7 +1378,21 @@ and register unchanged). Open:
   block had existed since 3 September on the fianilchruinne.com clone, but
   that account's autopull cron had never run, so nothing deployed there
   until an API-triggered pull and deploy on the 7th (see the eighth section
-  of `intake-2026-09-07.md`). The cron itself is still Dermot's to install.
+  of `intake-2026-09-07.md`). ~~The cron itself is still Dermot's to install.~~
+  **Cron fixed the same afternoon**: the crontab line had existed all along
+  but named `repositories/star-rangers/`, an empty husk of the pre-retitle
+  registration; the clone is `repositories/fian-ilchruinne`. Edited in place
+  through the cPanel API 2 Cron module (the WebPros catalogue has no cron
+  methods); first real run 02:30 on 8 September.
+- ~~**An alias host for the edition?**~~ — Put 7 September 2026: an Irish
+  alias (`oige.` was floated; it cannot carry its fada, and `macaomh.` was
+  offered as the fada-free word for the Fianna's youths) or
+  `young.star-rangers.space` as a 301 to `young.fianilchruinne.com`.
+  **Ruled the same day: neither yet.** The edition is one chapter old and
+  "Young Star Rangers" is a working label; a host follows the name, as
+  `told.` followed *the Told*. Revisit when the name settles. If one is added,
+  it is a redirect, not a second build — both `star-rangers.*` domains already
+  serve full copies with their canonical on `fianilchruinne.com`.
 - ~~**The thread's registration**~~ — **done the same day**: `young-star-rangers`,
   Season 9, index pages only. **Its first chapter** is still to be written to
   the gap, and waits on the Deputy's identity (above).
