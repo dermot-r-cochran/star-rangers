@@ -12,7 +12,7 @@ related:
 tags: [frenar, celestials, cascade]
 ---
 
-**Frenar** (pronounced: **FREH-nar**) is a legacy designation for the Celestial tier of the Cosmic Cascade.
+**Frenar** (pronounced: **FREH-nar**) is a legacy designation for the [Celestial](/star-rangers/glossary/celestials/) tier of the [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/).
 
 In all current canon, Frenar and Celestial refer to the same tier. Historical records and older documentation may continue to use "Frenar" when describing boundary enforcement operations. The current preferred term is Celestial.
 

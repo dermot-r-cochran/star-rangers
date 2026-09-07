@@ -11,7 +11,7 @@ related:
 tags: [court-fae, predatory-entities, ambiguity, conceptual, meta-dimensional, sapient-monster]
 ---
 
-**Court-Fae** are sapient meta-dimensional predators — **Class II** in the [meta-dimensional beings classification](/star-rangers/lore/meta-dimensional-beings/). They exist at the intersection of the Conceptual and Etheric layers and feed on dynamics that occur in the Material and Social layers.
+**Court-Fae** are sapient meta-dimensional predators — **Class II** in the [meta-dimensional beings classification](/star-rangers/lore/meta-dimensional-beings/). They exist at the intersection of the Conceptual and [Etheric](/star-rangers/glossary/etheric/) layers and feed on dynamics that occur in the Material and Social layers.
 
 They are goal-directed and adaptive. They have no Cascade standing and are not bound by or protected by Cascade constraints.
 

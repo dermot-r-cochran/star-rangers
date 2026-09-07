@@ -17,7 +17,7 @@ tags: [cyborg, augmentation, regulation, technology, imperium, military-space-co
 
 ## History
 
-Cyborg technology saw its widest and least restrained deployment under [the Imperium](/star-rangers/lore/the-imperium/) (2543–2609 UCSD), whose military augmentation programs treated a soldier's body as just another piece of equipment to be issued, upgraded, and reclaimed. Imperium cyborg soldiers were built for the front line, not for civilian life after it — a design priority that shaped decades of postwar medical and welfare literature on what an augmentation program owes the person wearing it, once the war it was built for is over.
+Cyborg technology saw its widest and least restrained deployment under [the Imperium](/star-rangers/lore/the-imperium/) (2543–2609 [UCSD](/star-rangers/glossary/ucsd/)), whose military augmentation programs treated a soldier's body as just another piece of equipment to be issued, upgraded, and reclaimed. Imperium cyborg soldiers were built for the front line, not for civilian life after it — a design priority that shaped decades of postwar medical and welfare literature on what an augmentation program owes the person wearing it, once the war it was built for is over.
 
 ## Regulation
 

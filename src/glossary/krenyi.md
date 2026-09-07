@@ -10,7 +10,7 @@ related:
 tags: [krenyi, species]
 ---
 
-**Krenyi** is the preferred species name for the beings also called the Quiet-Built or identified by the state-marker *Nai*. The formal term is used in cross-species contexts to prevent confusion with Naiads, which are flow-anchored entities rather than persons.
+**Krenyi** is the preferred species name for the beings also called the Quiet-Built or identified by the state-marker *Nai*. The formal term is used in cross-species contexts to prevent confusion with [Naiads](/star-rangers/glossary/naiad/), which are flow-anchored entities rather than persons.
 
 The Krenyi are long-lived, physically attractive by most humanoid standards, and structurally incapable of experiencing deep fear or fury. They are polyamorous but loyal, honest by disposition, and resistant to glamour, enslavement, and mythification.
 

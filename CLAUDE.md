@@ -59,13 +59,14 @@ npm run fetch-giscus-ids  # fetch/patch giscus repo+category IDs (see TECHNICAL-
 
 ### Authoring checkers and local tools
 
-These live in `scripts/` and exist so recurring authoring chores don't get re-invented each session. Since 2026-08-24 the first two are **part of `npm test`** and the third is **a CI gate** (run after `generate-themes` in the same job, which is what makes it correct — see below); `list-canon-facts.js`, the `.ps1` tools and the image-pipeline `.js` tools below remain local-only:
+These live in `scripts/` and exist so recurring authoring chores don't get re-invented each session. Since 2026-08-24 the first two are **part of `npm test`** and the third is **a CI gate** (run after `generate-themes` in the same job, which is what makes it correct — see below); `list-canon-facts.js`, `link-glossary-terms.js`, the `.ps1` tools and the image-pipeline `.js` tools below remain local-only:
 
 ```bash
 node scripts/check-internal-links.js    # verify every internal /star-rangers/ link in src/ AND lib/ resolves (in npm test since 2026-08-24)
 node scripts/check-related-terms.js     # verify every front-matter `related:` term matches a real page title (in npm test since 2026-08-24)
 node scripts/check-contrast.js          # check every palette in src/css/ against WCAG 2.2 AA (4.5:1) on the pairs main.css actually composes; run after editing a palette AND `npm run generate-themes`, since it reads the generated files (CI runs exactly that sequence, plus a git-diff drift check that a theme-*.css wasn't hand-edited)
 node scripts/list-canon-facts.js        # aggregate every chapter's canon_facts in story order; optional term filter (e.g. `-- rescue`) for the spoiler test — informational, never a gate
+node scripts/link-glossary-terms.js     # report every glossary entry's unlinked first mention of another entry; `--write` links them (local tool since 2026-09-07; rules in lib/glossary-crosslinks.js, pinned by test/glossary-crosslinks.test.js)
 ```
 ```powershell
 .\scripts\import-image.ps1 -In "$env:USERPROFILE\Downloads\x.png" -Out src\images\characters\y.jpg -MaxEdge 1200

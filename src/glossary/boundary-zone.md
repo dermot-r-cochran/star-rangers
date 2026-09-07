@@ -11,7 +11,7 @@ related:
 tags: [boundary, concordant, cosmology]
 ---
 
-A **boundary zone** is a region where two sets of physical and Etheric conditions meet and neither wholly governs. Where that happens, the difference between them becomes measurable.
+A **boundary zone** is a region where two sets of physical and [Etheric](/star-rangers/glossary/etheric/) conditions meet and neither wholly governs. Where that happens, the difference between them becomes measurable.
 
 **The term covers two mechanisms, and only one of them is somewhere anybody has ever stood.**
 
