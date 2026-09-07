@@ -244,8 +244,8 @@ exactly as elsewhere.
 
 ## `young-star-rangers` — young.fianilchruinne.com
 
-**Registered 3 September 2026; no chapter yet, cPanel side pending. Theme
-`starquest` for now. Posture `story`. Threads: the young-adult floor
+**Registered 3 September 2026; no chapter yet; live at young.fianilchruinne.com
+since 7 September 2026. Theme `starquest` for now. Posture `story`. Threads: the young-adult floor
 (undercover-pets, orbital-five-o) plus young-star-rangers. Brand: Young Star
 Rangers.**
 
@@ -283,7 +283,7 @@ wants both goes.
 
 **Registered 7 September 2026 at Dermot's ruling *new subdomain edition*,
 named the same day at his *door's name is told*; three chapters on the
-thread, cPanel side pending. Theme `pets` for now. Posture `primer`.
+thread; live the same afternoon. Theme `pets` for now. Posture `primer`.
 Threads: the children's floor (undercover-pets) plus below-the-roof. Brand:
 The Told — the door is named for the people; the thread keeps its working
 title.**
