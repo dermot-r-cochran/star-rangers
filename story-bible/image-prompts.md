@@ -877,3 +877,33 @@ became `src/images/characters/tissadelle-shepherd.jpg` and left the gallery;
 the coverall portrait it replaced is kept as
 `story-bible/reference-art/tissadelle-shepherd-header-retired-2026-09-05.jpg`,
 still the face reference for future runs alongside the new header.
+
+## 2026-09-07 — Teddy, four rounds to a body of his own
+
+### teddy.jpg — filed from round 4 variant 2
+
+The first individual Pandoid (`src/characters/teddy.md`), whose prompt was
+queued 6 September and held on the face. Four one-line directions the next
+morning, all in `story-bible/intake-2026-09-07.md`: *Teddy is curious and
+bright* (rounds 1 and 2 — every variant a great ape, the second round with
+ape anatomy negated by name and no better), *Should look more like a Panda
+and less like a gorilla* (round 3 — panda-built and grey, but on all fours
+where the record says upright), *more alien* (round 4 — upright, panda in
+silhouette, alien in face and coat), and *second image is fine*. Every
+round's variants are kept in `image-out/characters-teddy/round<n>/`.
+
+- **Tool:** `scripts/image-prompts.js --generate --only teddy --variations 2`,
+  gemini-3.1-flash-image, 2K, no reference image; filed with
+  `image-file.ps1 -Only "characters-teddy" -Pick "characters-teddy=2"`,
+  2752×1536 → 1200×670.
+- **Aspect:** 16:9 (the character-portrait convention).
+- **What it shows, for the alt text:** A stocky grey alien with a panda-like build standing upright in a cavern lit by teal and amber fungus, large dark eyes ringed in darker grey, looking toward a small plain cylindrical instrument standing on pale silt where a line of bootprints ends.
+- **Prompt of record** (round 4, the final form of the queued prompt):
+
+> Cinematic wide shot inside a deep natural cavern of an alien world, lit only by bioluminescent fungi coating the rock in soft amber and blue-green, no other light source. In the foreground, on a floor of pale mineral silt, a small upright cylindrical survey instrument with a smooth matte casing stands on its base at the exact point where a line of human bootprints in the silt ends; the prints come toward the camera from the left and stop. A few steps beyond the instrument, at the edge of the light and partly in shadow, stands a large alien being built on the lines of a giant panda but unmistakably not an Earth animal: a stocky, rounded, heavy-bottomed body rising upright on two short hind legs, thick limbs of equal length, a big round head with no external ears, a broad flat face with a very short muzzle and no nose leather, a wide lipless mouth, and very large dark eyes set wide for seeing in low light, ringed with darker grey markings; dense thick grey fur that grows in soft overlapping ridges over the head, shoulders and back like a coat of down, reading soft and catching the amber light along its edges; turned three-quarters toward the camera so that its face is visible in the fungus-light, with those large bright attentive eyes holding an expression of open curiosity and quiet intelligence, soft and warm and neither foolish nor weak; one heavy forelimb still lowered toward the instrument as if it has just been set down. The being is clearly not a human in a costume and clearly not an ape: no gorilla, no yeti, no sasquatch, no primate brow ridge, no long arms, no knuckle-walking. It is panda-like in silhouette and build but grey all over, never black and white, and plainly an alien: no Earth panda, no Earth bear, no ears, no wet nose. The being is smaller than the passage it stands in would suggest an adult of its kind to be, and rounder. Humid air, a faint sheen of moisture on the stone, a narrow squeeze in the rock visible behind the being where the passage closes down. Quiet, watchful, unsettling and calm; nothing threatening is happening. No readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame, including on the instrument; no screens, lamps, torches, electric lights or light fittings; no people, no other animals; no weapons; no ape anatomy; no black-and-white colouring; no glamour lighting or studio backdrop. 16:9 landscape.
+
+**What the four rounds taught,** recorded once here and in the runbook:
+*upright, furred, heavy-shouldered, no snout* is the generator's gorilla,
+and negating an animal by name does not move it; only a positive build did.
+When canon gives no body, ask for one positive shape before spending rounds
+on negatives.
