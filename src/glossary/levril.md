@@ -13,11 +13,11 @@ related:
 tags: [levril, dragon, cascade, boundary, meta-dimensional, higher-dimensional]
 ---
 
-**Levril** is the formal name for the entities commonly called dragons and their kin. They are **sapient meta-dimensional beings** — their existence extends across extra higher spatial dimensions beyond the four accessible to Material-layer beings — and they are the only meta-dimensional entities with formal standing in the Cosmic Cascade.
+**Levril** is the formal name for the entities commonly called dragons and their kin. They are **sapient meta-dimensional beings** — their existence extends across extra higher spatial dimensions beyond the four accessible to Material-layer beings — and they are the only meta-dimensional entities with formal standing in the [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/).
 
-Not all meta-dimensional beings are Levrils. Sapient monsters such as Court-Fae and Gilded Saints are also meta-dimensional, but they have no Cascade standing. Non-sapient incursives are similarly meta-dimensional but sub-Levril in causal authority.
+Not all meta-dimensional beings are Levrils. Sapient monsters such as [Court-Fae](/star-rangers/glossary/court-fae/) and [Gilded Saints](/star-rangers/glossary/gilded-saints/) are also meta-dimensional, but they have no Cascade standing. Non-sapient incursives are similarly meta-dimensional but sub-Levril in causal authority.
 
-Levrils sit below Celestials (Frenar) and above Champions/Heroes in the fixed Cascade hierarchy.
+Levrils sit below [Celestials](/star-rangers/glossary/celestials/) ([Frenar](/star-rangers/glossary/frenar/)) and above [Champions](/star-rangers/glossary/champions-heroes/)/Heroes in the fixed Cascade hierarchy.
 
 **Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one [Concordant](/star-rangers/glossary/concordant/) simultaneously, at a coherence cost.
 

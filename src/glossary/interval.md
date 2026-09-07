@@ -21,7 +21,7 @@ The **Interval** is the separation between one [cosmic membrane](/star-rangers/l
 **Its one operationally interesting property is that it varies.** Everything Survey Corps documents at a [boundary zone](/star-rangers/glossary/boundary-zone/) is a consequence of a narrowing Interval:
 
 - Under a wide Interval, adjacent membranes are functionally inert to each other.
-- As it narrows, effects begin to couple across it — [Membrane Resonance](/star-rangers/glossary/intermembrane-bleed/), then [Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/) in the Etheric channel, and [Membrane Shadows](/star-rangers/glossary/membrane-shadow/) in the Physical one.
+- As it narrows, effects begin to couple across it — [Membrane Resonance](/star-rangers/glossary/intermembrane-bleed/), then [Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/) in the [Etheric](/star-rangers/glossary/etheric/) channel, and [Membrane Shadows](/star-rangers/glossary/membrane-shadow/) in the Physical one.
 - At the Class III extreme, and rarely, a [transient gravity tunnel](/star-rangers/lore/concordant-membranes/) briefly opens a genuine through-conduit. This is the only documented circumstance in which anything crosses an Interval at all. A [certified fold transit](/star-rangers/glossary/higher-dimensional-folding/) into a neighbouring membrane is not a second one: a fold compresses the separation to adjacency and releases it, so nothing traverses a standing Interval on the way.
 
 **What crosses is field structure, not matter.** A Membrane Shadow is gravity leaking across a narrowed Interval while every gram responsible for it stays on the far side. Intermembrane Bleed is template admissibility competing across one. In neither case has anything travelled.

@@ -11,7 +11,7 @@ related:
 tags: [conseleme, cascade, upper-structure, cosmology]
 ---
 
-**Conseleme** is the third tier of the Cosmic Cascade, completing the Upper Structure alongside Hyperomnium and Kieme.
+**Conseleme** is the third tier of the [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/), completing the Upper Structure alongside Hyperomnium and Kieme.
 
 Like all Upper Structure tiers, Conseleme is non-anthropomorphic. It is an origin condition, not a character or moral authority. Its function is to set nonlocal existence constraints that all Design Structure tiers — Metawrights, Formwrights, Archewrights — and every tier below must satisfy.
 
@@ -26,4 +26,4 @@ Worth noting where the marker stops. [Hyperomnium](/star-rangers/glossary/hypero
 - No selective intervention.
 - Only inferable through invariants that persist across all [Concordants](/star-rangers/glossary/concordant/).
 
-**Example:** No record exists of Conseleme addressing a crisis, negotiating with a Worldwright, or expressing intent. What can be inferred is only the invariant: every Concordant, regardless of local physical law, obeys the same handful of nonlocal constraints. That silent consistency — never a message, always a pattern — is the only evidence Conseleme leaves.
+**Example:** No record exists of Conseleme addressing a crisis, negotiating with a [Worldwright](/star-rangers/glossary/worldwright/), or expressing intent. What can be inferred is only the invariant: every Concordant, regardless of local physical law, obeys the same handful of nonlocal constraints. That silent consistency — never a message, always a pattern — is the only evidence Conseleme leaves.

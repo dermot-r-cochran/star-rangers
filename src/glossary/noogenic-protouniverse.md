@@ -16,7 +16,7 @@ tags: [noogenic, protouniverse, nooseed, telearch, cascade, jurisdiction, hierar
 
 A **Noögenic Protouniverse** is the nascent universe-state that begins the moment a Noöseed completes transference (Phase 7 of the [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/)) and initializes successor-universe emergence.
 
-It is not yet a fully governed universe. A protouniverse has not stabilized enough internal structure to support its own [Concordants](/star-rangers/glossary/concordant/), and therefore cannot yet seat a [Council of Harmonarchs](/star-rangers/glossary/council-of-harmonarchs/) or constitute a governing body of its own. Until it does, it has no independent seat in the Cosmic Cascade.
+It is not yet a fully governed universe. A protouniverse has not stabilized enough internal structure to support its own [Concordants](/star-rangers/glossary/concordant/), and therefore cannot yet seat a [Council of Harmonarchs](/star-rangers/glossary/council-of-harmonarchs/) or constitute a governing body of its own. Until it does, it has no independent seat in the [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/).
 
 ## What It Grows Into
 
@@ -42,6 +42,6 @@ A Noögenic Protouniverse remains under the jurisdiction of the [Telearchs](/sta
 - A protouniverse does not receive a new Worldwright; per [Worldwright](/star-rangers/glossary/worldwright/) canon, only primary universes carry that authority.
 - Parent-universe Telearchs must preserve continuity over local preference outcomes inside the protouniverse, the same constraint that binds them everywhere else.
 - Jurisdiction transfers out of the parent universe's Cascade strata only once the protouniverse achieves stable internal governance — its own independent [Universal Authority](/star-rangers/glossary/universal-authority/), the originating seed mind presiding as founder over a Council seated from its newly stabilized zones (see the Plural Universal Authority / Synarch Mind pathways in the [Canonical Glossary](/star-rangers/lore/glossary/canonical-glossary-and-migration-guide/)).
-- Parent-universe Celestials may act inside a protouniverse only under Telearch delegation, consistent with the ordinary Cascade constraint that Celestials cannot act independently of Telearch directives.
+- Parent-universe [Celestials](/star-rangers/glossary/celestials/) may act inside a protouniverse only under Telearch delegation, consistent with the ordinary Cascade constraint that Celestials cannot act independently of Telearch directives.
 
 **Example:** A newly transferred Noöseed begins successor-universe initialization inside what surveys log as a protouniverse. Because it has no Concordant of its own yet, an anomaly detected there is routed to the parent universe's Telearchs for continuity assessment — the same office that already coordinates enforcement across that parent universe's existing Concordants — rather than to any authority native to the protouniverse itself, because none yet exists.

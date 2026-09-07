@@ -12,9 +12,9 @@ related:
 tags: [champions, heros, heroes, cascade, material]
 ---
 
-**Champions / Heroes (Heros)** (pronounced: **CHAM-pee-unz / HEHR-ohz**) are the lowest named agency tier in the fixed Cosmic Cascade.
+**Champions / Heroes (Heros)** (pronounced: **CHAM-pee-unz / HEHR-ohz**) are the lowest named agency tier in the fixed [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/).
 
-They are **sentient material beings — organic or artificial — chosen by Levrils**. The selection reflects a Levril's assessment of constraint literacy and causal relevance. It is a bounded, lawful process, not a supernatural event or a designation of destiny.
+They are **sentient material beings — organic or artificial — chosen by [Levrils](/star-rangers/glossary/levril/)**. The selection reflects a Levril's assessment of constraint literacy and causal relevance. It is a bounded, lawful process, not a supernatural event or a designation of destiny.
 
 Canonically, Champion, Hero, and Heros are synonymous terms for the same tier.
 
