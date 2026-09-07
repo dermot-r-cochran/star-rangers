@@ -787,8 +787,14 @@ Pandoid, soft and warm, but never weak or foolish*). Drafted the same session as
 - ~~**The page title**~~ and ~~**size**~~ — **approved as drafted**: *Teddy*,
   smaller than the adults, age unfixed. Whether the thread's protagonist is a
   cub is the thread's question now, below.
-- **The face.** Canon describes none. The image prompt queued in `images.md`
-  describes a body and stops; generating it needs his description first.
+- ~~**The face.**~~ — **RULED 7 September 2026**: *Teddy is curious and
+  bright* (`intake-2026-09-07.md`, second section), the first thing canon
+  says about a Pandoid face. The prompt gained the face and two rounds were
+  run the same morning; all four variants came back a great ape, which the
+  naming caution forbids as squarely as a bear, so nothing is filed. **Still
+  his:** how the body escapes the bear and ape attractors — one body detail
+  of his (recommended), the face-turned-away frame, or accepting round 1's
+  first variant.
 
 ## Below the Roof — the Pandoid thread, registered 6 September 2026
 
@@ -797,8 +803,12 @@ child reader tier*. Realized as thread `below-the-roof`, Season 11, no chapter,
 listed on `GENERAL_TIER` so no narrowed face gains it by accident. Open, all
 put as choices in the intake:
 
-- **Which edition shows it to a child** — a new subdomain edition
-  (recommended), undercover-pets.com by one line, or wait for chapters.
+- ~~**Which edition shows it to a child**~~ — **RULED 7 September 2026**
+  (`intake-2026-09-07.md`, first section): *new subdomain edition*, realized
+  the same morning as edition `below-the-roof` in `lib/editions.js` on the
+  working host `roof.fianilchruinne.com`. **Still his:** the host name,
+  which follows the thread's name and is put as three shapes (roof / told /
+  fliade) in the intake; the cPanel side waits on it.
 - **The thread's name** — *Below the Roof* is a working title; the endonym
   would be the only name that is not the observers'.
 - ~~**The endonym and naming system**~~ — **settled by the second chapter,
@@ -823,8 +833,13 @@ put as choices in the intake:
 - ~~**Pandoid young**, and whether Teddy is the protagonist~~ — **settled by
   the approved chapter**: Teddy is the youngest, in an ensemble with
   Stone-First (choice 6(c) of the third section).
-- **One strand or two** — a survey-side strand would give the relay its second
-  telling; convergence fixed first. Still open.
+- ~~**One strand or two**~~ — **RULED 7 September 2026** (`intake-2026-09-07.md`,
+  third section): *two or more strands*. Read as at least two — the
+  survey-side strand beside the deep-side one, separate casts, no shared
+  scenes — with *or more* as permission rather than instruction. Nothing
+  drafted: **the convergence is his and fixed first**, put as three shapes in
+  the intake (one act, two records — recommended; the two logs; both in that
+  order).
 - ~~**The Fliade entry's observational sentence**~~ — **left as it stands**,
   choice (a) of the eleventh section: the sentence is about what the Archive
   holds, and the chapters carry an interior it does not. The in-story route

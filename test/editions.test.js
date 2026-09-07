@@ -194,7 +194,7 @@ test("the four tiers are in ascending order and each contains the one below", ()
 });
 
 test("the reading editions sit on their tiers and carry them whole", () => {
-  const expect = { pets: "children", starquest: "young-adult", "young-star-rangers": "young-adult", sciencefiction: "general", fellowship: "contemplative", "church-space": "contemplative" };
+  const expect = { pets: "children", "below-the-roof": "children", starquest: "young-adult", "young-star-rangers": "young-adult", sciencefiction: "general", fellowship: "contemplative", "church-space": "contemplative" };
   for (const [id, tier] of Object.entries(expect)) {
     const e = editionFor(id);
     assert.equal(e.tier, tier, id);
@@ -235,5 +235,17 @@ test("a tier constant is a floor: young-star-rangers extends the young-adult tie
   for (const t of sq.threads) assert.ok(ysr.threads.includes(t), `young-star-rangers lacks ${t}`);
   assert.ok(TIERS.general.threads.includes("young-star-rangers"), "the general tier must carry what any young-adult edition shows");
   assert.deepEqual(ysr.domains, ["young.fianilchruinne.com"]);
+});
+
+test("a tier constant is a floor: below-the-roof extends the children's tier and the general tier carries the extension", () => {
+  const btr = editionFor("below-the-roof");
+  const pets = editionFor("pets");
+  assert.ok(btr.threads.includes("below-the-roof"));
+  assert.ok(!pets.threads.includes("below-the-roof"), "undercover-pets.com keeps the agency's own page set");
+  for (const t of pets.threads) assert.ok(btr.threads.includes(t), `below-the-roof lacks ${t}`);
+  assert.ok(TIERS.general.threads.includes("below-the-roof"), "the general tier must carry what any children's edition shows");
+  assert.deepEqual(btr.domains, ["roof.fianilchruinne.com"]);
+  assert.equal(btr.presentation, "primer");
+  assert.equal(btr.commentsEnabled, false);
 });
 

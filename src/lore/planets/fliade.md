@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Fliade"
 category: "Locations"
-tags: [fliade, pandoids, anstolik, survey-world, cavern-biosphere, first-contact, star-rangers, locations]
+tags: [fliade, pandoids, anstolik, survey-world, cavern-biosphere, first-contact, below-the-roof, star-rangers, locations]
 description: "A cold terrestrial world whose biodiversity lives underground, and whose deep-cavern people the survey found before anyone had proposed doing anything to the planet — the rare case where the sapience clause arrived early enough to matter."
 plain: "Fliade is a cold planet where most life lives in warm underground caves rather than on the frozen surface. One of the peoples living there, the Pandoids, are intelligent. They do not travel in space and keep their history by speaking rather than writing. Because they were found before anyone tried to change the planet, the rules that protect inhabited worlds applied from the start."
 galaxy: "Milky Way"

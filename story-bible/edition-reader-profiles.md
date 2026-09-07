@@ -279,6 +279,47 @@ wants both goes.
 
 ---
 
+## `below-the-roof` — roof.fianilchruinne.com (working name)
+
+**Registered 7 September 2026 at Dermot's ruling *new subdomain edition*;
+three chapters on the thread, cPanel side pending, host name still his (it
+follows the thread's name). Theme `pets` for now. Posture `primer`.
+Threads: the children's floor (undercover-pets) plus below-the-roof. Brand:
+Below the Roof.**
+
+**Arrives** the same age as the pets reader, or is read to at the same age —
+and wants a different thing: not a case, but a people. The child who would
+rather be under the roof with the Told than at the bureau with the badge.
+
+**Wants** the warm dark. Short scenes, plain words, a world that is strange in
+its facts (a roof that is the surface, a record kept by saying it) and never
+strange in its feelings; the pleasure of knowing something the up-people do
+not, which is the thread's whole engine.
+
+**Loses them** by explaining the survey. The up-people are strangers who do
+not look up and do not ask, and the reader must never be told what they are
+thinking — the moment a chapter steps above the margin to make the survey
+sensible, the child is reading the wrong book. The survey-side strand, when it
+exists, is read the same way from its own side.
+
+**Posture** `primer`, shared with the pets edition for the reason given there:
+completability.
+
+**Palette** borrowed from the pets edition until the door has a name; a face
+of its own is design work behind the contrast gate. The theme audio is the
+sci-fi ambient track rather than the agency's ukulele, and a brief of its own
+is open in `music-prompts.md`.
+
+**Cast** nobody yet — the three Told with pages have no portrait, and the
+validator refuses a cast it cannot render, so the homepage uses the static
+hero. Teddy first, when his portrait is filed; then Stone-First.
+
+**Never** put the thread on undercover-pets.com: that door is the agency's
+face, and a teddy bear beside the badge is not that edition. The general tier
+carries both by construction, which is where a reader who wants both goes.
+
+---
+
 ## `pets` — undercover-pets.com
 
 **109 pages. Theme `pets` (cream `#fdf6ec`, rust `#a34726`). Posture `primer`.

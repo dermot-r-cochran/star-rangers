@@ -1364,7 +1364,7 @@ go in its bullet prose, never in the quote.)
   negative: it is the subject's own instrument, not a light fitting.
   > Cinematic portrait of a young person of about twenty-two, androgynous, a novice of a contemplative order, standing in the open stone doorway of a chapter house at dusk, upper body, seen from just inside the threshold. They hold a small lit hand-lamp with a live flame, the picture's only warm light; through the doorway behind them, green hills going dark under a pale evening sky, nothing else out there. Plain undyed novice's working clothes with a belted overtunic, short practical hair, an alert open expression caught mid-thought between staying and going — attentive, earnest, questioning, not sad. Warm lamplight against cool dusk, quiet, serene, hopeful, slightly enigmatic. No readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame; no screens, monitors, displays or consoles; no electric light fittings or bulbs anywhere, the hand-lamp's flame is the only light source; no candle arrays, no incense, no religious symbols or iconography; no weapons; no glamour styling, no corporate headshot posing. Landscape orientation.
 
-#### Teddy — added 6 September 2026, held on the face
+#### Teddy — added 6 September 2026, the face ruled 7 September, the body open
 
 - **`teddy.jpg`** — Individual Four, the one Pandoid the Fliade survey can tell
   from the others (page drafted 6 September, `intake-2026-09-06.md`; the page
@@ -1380,14 +1380,21 @@ go in its bullet prose, never in the quote.)
   body. The prompt below describes the body the record gives — upright, dense
   grey fur, smaller and rounder than an adult — and describes **no face**,
   because inventing one here would put a Pandoid face into canon through a
-  picture. Generate only after Dermot says what the face is, and add it to
-  the prompt then. *Fliade*: amber and blue-green fungus-light, wet stone,
+  picture. ~~Generate only after Dermot says what the face is, and add it to
+  the prompt then.~~ **Ruled 7 September 2026: *Teddy is curious and bright*** —
+  the face clause was added to the prompt below and two rounds run the same
+  morning (`image-out/characters-teddy/round1/`, then `round2/` with ape
+  anatomy negated by name); every variant came back a great ape, which the
+  naming caution forbids as squarely as a bear. Nothing filed. Three shapes
+  put in `intake-2026-09-07.md`: a body detail of his that breaks both
+  attractors (recommended), the face-turned-away frame, or accepting round
+  1's first variant, which has the best face of the four. *Fliade*: amber and blue-green fungus-light, wet stone,
   cold register with one warm body in it.
-  > Cinematic wide shot inside a deep natural cavern of an alien world, lit only by bioluminescent fungi coating the rock in soft amber and blue-green, no other light source. In the foreground, on a floor of pale mineral silt, a small upright cylindrical survey instrument with a smooth matte casing stands on its base at the exact point where a line of human bootprints in the silt ends; the prints come toward the camera from the left and stop. A few steps beyond the instrument, at the edge of the light and partly in shadow, stands a large upright alien being on two legs, seen from the side and slightly behind so that the face is turned away and not visible: massive rounded shoulders, a broad heavy body, dense thick grey fur that reads soft and catches the amber light along its edges, one heavy forelimb still lowered toward the instrument as if it has just been set down. The being is clearly not a human in a costume and clearly not an Earth bear: no snout, no round ears, no muzzle visible, the head kept turned into the dark. The being is smaller than the passage it stands in would suggest an adult of its kind to be, and rounder. Humid air, a faint sheen of moisture on the stone, a narrow squeeze in the rock visible behind the being where the passage closes down. Quiet, watchful, unsettling and calm; nothing threatening is happening. No readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame, including on the instrument; no screens, lamps, torches, electric lights or light fittings; no people, no other animals; no weapons; no visible face on the being; no Earth bear anatomy; no glamour lighting or studio backdrop. 16:9 landscape.
-  - **The face stays out of frame by construction** (turned away, in shadow),
-    so a run before the ruling would still be usable — but it should not be
-    run before the ruling, because a generator will put a face in anyway and
-    the picked image will carry it.
+  > Cinematic wide shot inside a deep natural cavern of an alien world, lit only by bioluminescent fungi coating the rock in soft amber and blue-green, no other light source. In the foreground, on a floor of pale mineral silt, a small upright cylindrical survey instrument with a smooth matte casing stands on its base at the exact point where a line of human bootprints in the silt ends; the prints come toward the camera from the left and stop. A few steps beyond the instrument, at the edge of the light and partly in shadow, stands a large upright alien being on two legs, turned three-quarters toward the camera so that its face is visible in the fungus-light: a broad calm face of its own with large bright attentive eyes that catch the amber light, an expression of open curiosity and quiet intelligence, soft and warm and neither foolish nor weak; massive rounded shoulders, a broad heavy body, dense thick grey fur that reads soft and catches the amber light along its edges, one heavy forelimb still lowered toward the instrument as if it has just been set down. The being is clearly not a human in a costume and clearly not an Earth bear: no snout, no round ears, no muzzle, no button nose; and clearly not an ape: no gorilla, no yeti, no sasquatch, no primate brow ridge or knuckle-walking posture, the arms no longer than the legs; the face is its own, wide and flat with the eyes set forward, unlike any Earth animal. The being is smaller than the passage it stands in would suggest an adult of its kind to be, and rounder. Humid air, a faint sheen of moisture on the stone, a narrow squeeze in the rock visible behind the being where the passage closes down. Quiet, watchful, unsettling and calm; nothing threatening is happening. No readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame, including on the instrument; no screens, lamps, torches, electric lights or light fittings; no people, no other animals; no weapons; no Earth bear or ape anatomy; no glamour lighting or studio backdrop. 16:9 landscape.
+  - **What the two rounds taught:** *upright, furred, heavy-shouldered, no
+    snout* is the generator's description of a gorilla, and negating the ape
+    by name does not move it. The prompt needs a positive body detail that is
+    neither bear nor ape, which canon has not given and is his to give.
 
 #### Priya Nakamura — added 5 September 2026
 

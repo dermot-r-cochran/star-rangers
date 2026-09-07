@@ -88,12 +88,14 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
   <p class="thread-section__description">
     Registered for this rung, with its first three chapters: <a href="/star-rangers/threads/below-the-roof/">Below
     the Roof</a>, Season 11 — the Pandoids of Fliade from inside their own deep networks, the
-    record's first storyline carried by a non-human cast. It will have an address of its own
-    when it has more chapters.
+    record's first storyline carried by a non-human cast.
   </p>
   <p class="thread-section__description">
-    <strong>Where:</strong> <strong>undercover-pets.com</strong>, in large type with a
-    reading plan of its own.
+    <strong>Where:</strong> two doors, each its own face, both in large type with a reading
+    plan of their own. <strong>undercover-pets.com</strong> carries the agency.
+    <strong>roof.fianilchruinne.com</strong> carries Below the Roof beside it, and opens with
+    that thread's first chapter. The tier carries both storylines; each door shows the one
+    it is named for.
   </p>
 </section>
 
