@@ -781,7 +781,9 @@ An extension of the taxonomy file and *The Shape of a Life*; nothing added to
 any named species. **Open: six readings flagged in the intake** — one entry
 not two; unnamed real chemistry; two unnamed worlds and one unnamed organism
 asserted; *carbon everywhere, so far*; the Told as the limit case of
-inheritance; category Cosmology. Draft-and-stop until confirmed. No image.
+inheritance; category Cosmology. ~~Draft-and-stop until confirmed.~~
+**Approved by Dermot the same day** (*Approved*, PR #733): all six readings
+confirmed, the entry canon as drafted. Nothing open. No image.
 
 ## Teddy — the first individual Pandoid, drafted 6 September 2026
 
