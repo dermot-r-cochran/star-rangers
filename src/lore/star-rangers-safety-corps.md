@@ -36,11 +36,11 @@ United Space Industry Standards responded in the way that became institutional h
 
 ## The Solar System Safety Standards Authority
 
-As the United Space Consortium consolidated interplanetary governance in the twenty-fourth century, the fragmented field of national and commercial certifiers was rationalised into the **Solar System Safety Standards Authority (SSSA)**, a USC-chartered institution with mandatory jurisdiction over all off-world operations in USC space.
+As the [United Space Consortium](/star-rangers/lore/united-space-consortium/) consolidated interplanetary governance in the twenty-fourth century, the fragmented field of national and commercial certifiers was rationalised into the **Solar System Safety Standards Authority (SSSA)**, a USC-chartered institution with mandatory jurisdiction over all off-world operations in USC space.
 
 United Space Industry Standards was the largest body absorbed into the SSSA. Its standards, methods, and crucially its culture of independence from political and commercial pressure transferred with it. The SSSA was forbidden from taking operational direction from USC member governments or from commercial operators whose systems it certified. Its funding came from certification fees structured to avoid rewarding unsafe approvals.
 
-The SSSA maintained that posture through the Coherence Wars — when it continued issuing and maintaining standards for all sides on the grounds that unsafe habitats were a worse outcome than political embarrassment — and through the Imperium period, when it resisted, with partial success, efforts to place certification under political review.
+The SSSA maintained that posture through the Coherence Wars — when it continued issuing and maintaining standards for all sides on the grounds that unsafe habitats were a worse outcome than political embarrassment — and through the [Imperium](/star-rangers/lore/the-imperium/) period, when it resisted, with partial success, efforts to place certification under political review.
 
 That record mattered later. During the Outer Stations Consolidation Hearing, the SSSA served as proof that a safety authority could remain independent even when governance changed around it. The Star Rangers Charter drew directly on that memory.
 

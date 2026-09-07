@@ -9,7 +9,7 @@ related: ["The Crisis Centuries: Terran Wildlife from Collapse to Stewardship", 
 
 The first world anyone terraformed was the one they were standing on.
 
-Terraforming is usually filed as a frontier technology: something carried out to Mars and the charter worlds and applied to ground that had never been lived on. The record says otherwise. Every technique in the modern transformation toolkit — atmospheric chemistry managed at planetary scale, ocean alkalinity and oxygen held within bounds, reef and soil scaffolding, assisted migration, coastlines rebuilt to ride water rather than resist it — was developed on Earth, during the [Crisis Centuries](/star-rangers/lore/crisis-centuries-terran-wildlife/), by people who were not trying to make a new world. They were trying to keep the old one.
+Terraforming is usually filed as a frontier technology: something carried out to [Mars](/star-rangers/lore/planets/mars/) and the charter worlds and applied to ground that had never been lived on. The record says otherwise. Every technique in the modern transformation toolkit — atmospheric chemistry managed at planetary scale, ocean alkalinity and oxygen held within bounds, reef and soil scaffolding, assisted migration, coastlines rebuilt to ride water rather than resist it — was developed on Earth, during the [Crisis Centuries](/star-rangers/lore/crisis-centuries-terran-wildlife/), by people who were not trying to make a new world. They were trying to keep the old one.
 
 ## The Repair
 
@@ -31,7 +31,7 @@ Mars is the clearest consequence. Its oldest domed cities had accumulated four c
 
 Planetary engineering is a career because the Crisis Centuries made it one. Before the repair there were climatologists, civil engineers, ecologists and oceanographers, and no profession whose object was a whole world's chemistry held within bounds on purpose. The emergency produced one out of the people already doing the work, and the institutions that consolidated the repair consolidated the discipline with it: a training ladder, a certification, and the habit of measuring success in centuries.
 
-It is a civil discipline, not a Corps one. The Star Rangers survey the worlds it may touch and certify transformation work through the Safety Corps, and the charter's living-world clause keeps them from conducting it; the engineers themselves belong to polities and cooperatives, as [Demelza Trevithick](/star-rangers/characters/demelza-trevithick/) of Kernowek Reach's Ridge Processor Cooperative does, four generations into a job that will not finish in her lifetime. What the discipline carries from its origin is its temperament. A planetary engineer is trained to expect to be outlived by the work, and to treat that as the specification rather than the failure.
+It is a civil discipline, not a Corps one. The Star Rangers survey the worlds it may touch and certify transformation work through the Safety Corps, and the charter's living-world clause keeps them from conducting it; the engineers themselves belong to polities and cooperatives, as [Demelza Trevithick](/star-rangers/characters/demelza-trevithick/) of [Kernowek Reach](/star-rangers/lore/planets/kernowek-reach/)'s Ridge Processor Cooperative does, four generations into a job that will not finish in her lifetime. What the discipline carries from its origin is its temperament. A planetary engineer is trained to expect to be outlived by the work, and to treat that as the specification rather than the failure.
 
 ## Restoration and Transformation
 

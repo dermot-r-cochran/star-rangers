@@ -19,7 +19,7 @@ Meta-dimensional existence is not rare. What matters is its stratification. Not 
 
 ### Class I — Levrils (Sapient, Cascade-Ranked)
 
-The only meta-dimensional beings with formal standing in the Cosmic Cascade. Sapient, constrained by hierarchy, and capable of lawful interaction with Material-layer beings through constraint literacy and Champions selection.
+The only meta-dimensional beings with formal standing in the [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/). Sapient, constrained by hierarchy, and capable of lawful interaction with Material-layer beings through constraint literacy and Champions selection.
 
 Levrils mark the upper limit of what Material-layer beings can negotiate with. Below this class, power may still speak, but it does not speak under lawful standing.
 

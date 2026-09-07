@@ -30,7 +30,7 @@ Handles day-to-day boundary-zone and fold-route coordination between a world's o
 
 ### Representative
 
-The formal point of contact for charter-bound interactions that require a standing relationship rather than a one-time request: data-licensing exchanges, courier-of-last-resort arrangements, and — critically — the standing invitation itself, renewed or withdrawn at the world's discretion, that lets Survey Corps traffic operate there at all. [Rhiannon Ceridwen](/star-rangers/characters/rhiannon-ceridwen/)'s direct correspondence with Survey Corps liaison staff over Aethelrock's fold-relay traffic is what this role looks like from the outside, even though she holds it by circumstance and clan authority rather than by a Ranger's service record — the two paths converge on the same function.
+The formal point of contact for charter-bound interactions that require a standing relationship rather than a one-time request: data-licensing exchanges, courier-of-last-resort arrangements, and — critically — the standing invitation itself, renewed or withdrawn at the world's discretion, that lets Survey Corps traffic operate there at all. [Rhiannon Ceridwen](/star-rangers/characters/rhiannon-ceridwen/)'s direct correspondence with Survey Corps liaison staff over [Aethelrock](/star-rangers/lore/planets/aethelrock/)'s fold-relay traffic is what this role looks like from the outside, even though she holds it by circumstance and clan authority rather than by a Ranger's service record — the two paths converge on the same function.
 
 ### Recruiter
 

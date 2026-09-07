@@ -100,7 +100,7 @@ An ordinary Class III Shear Event resolves as either Intermembrane Bleed (Etheri
 
 A transient gravity tunnel is not engineered, not Lagrange-anchored, and not stable enough to hold open on purpose. It forms and collapses on its own schedule, lasts seconds to minutes at most, and — in every documented case — closes with no warning Survey Corps instrumentation has ever caught early enough to act on. It should never be described as a "natural fold route" the way [Eden Space Habitat's](/star-rangers/lore/eden-space-habitat/) is: Eden's route is stable enough to schedule transit through, and a transient gravity tunnel is not stable enough to schedule anything. No confirmed account exists of a transit caught mid-tunnel at collapse resolving safely on either end.
 
-Two documented cases exist, at opposite ends of how predictable the underlying strain-distribution is: [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/), where the tunnel recurs on a rhythm regular enough to correlate with Tír na nÓg's own Conjunction, and [Sí Gaoithe](/star-rangers/lore/universes/si-gaoithe/), where it does not correlate with anything Survey Corps has measured yet.
+Two documented cases exist, at opposite ends of how predictable the underlying strain-distribution is: [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/), where the tunnel recurs on a rhythm regular enough to correlate with [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/)'s own Conjunction, and [Sí Gaoithe](/star-rangers/lore/universes/si-gaoithe/), where it does not correlate with anything Survey Corps has measured yet.
 
 ## What Crosses the Interval, and Why
 

@@ -13,7 +13,7 @@ image_alt: "A fan of fine green and teal light rays radiating upward and outward
 
 Every automated survey classifier has a bin for signals it cannot parse: unmodulated, non-repeating, no known protocol match. File under noise. The Sentinel's pulse sat in that bin for centuries before anyone thought to just listen to it.
 
-**The Sentinel** is a small, airless world sharing the Halyx System with [Meridian](/star-rangers/lore/planets/meridian/), close enough in-system that early Cerebraun survey logs treated the two as a matched pair before instrumentation confirmed the Sentinel was geologically inert and biologically empty. No atmosphere, no native life, no resource concentration worth a Hegemony extraction license. By every metric the [Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/) uses to prioritise a world, the Sentinel does not matter.
+**The Sentinel** is a small, airless world sharing the Halyx System with [Meridian](/star-rangers/lore/planets/meridian/), close enough in-system that early [Cerebraun](/star-rangers/lore/cerebraun/) survey logs treated the two as a matched pair before instrumentation confirmed the Sentinel was geologically inert and biologically empty. No atmosphere, no native life, no resource concentration worth a Hegemony extraction license. By every metric the [Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/) uses to prioritise a world, the Sentinel does not matter.
 
 Except for the pulse.
 

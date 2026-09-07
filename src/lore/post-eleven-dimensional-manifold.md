@@ -46,7 +46,7 @@ The question comes up as soon as anyone learns the Cascade has authoring tiers i
 
 A [**Metawright**](/star-rangers/lore/cosmic-cascade/) settles the mathematics a manifold could be expressed in. A manifold is a mathematical object, and mathematics is a conceptual realm's business — so no manifold is describable, let alone instantiable, until some realm has supplied the terms.
 
-A [**Formwright**](/star-rangers/glossary/formcluster/) instantiates the manifold itself, as a **formtype**: a lawful template built from that realm's mathematics, satisfying Conseleme's condition, and standing as the arena everything downstream is seated in. This is the tier the object belongs to. Archewrights draw archetypes and possibility space *within* it; Worldwrights seat universes *in* it.
+A [**Formwright**](/star-rangers/glossary/formcluster/) instantiates the manifold itself, as a **formtype**: a lawful template built from that realm's mathematics, satisfying Conseleme's condition, and standing as the arena everything downstream is seated in. This is the tier the object belongs to. [Archewrights](/star-rangers/lore/archewright/) draw archetypes and possibility space *within* it; Worldwrights seat universes *in* it.
 
 The ladder is the same one the Conceptual layer already follows, extended by one rung: Conseleme fixes what any mathematics must satisfy and a Metawright settles which there is; Conseleme fixes that seating must obtain and a **Formwright settles which manifold there is.**
 
@@ -64,7 +64,7 @@ This sharpens the operational warning accordingly. The three bands above are one
 
 - Fold operations that ignore the manifold's timelike channels produce unstable re-entry clocks.
 - Boundary-zone incidents intensify when manifold spacelike strain cannot dissipate.
-- Levril interventions often target manifold constraint gradients rather than local physical geometry.
+- [Levril](/star-rangers/lore/levrils/) interventions often target manifold constraint gradients rather than local physical geometry.
 
 The practical rule for Survey Corps and boundary practitioners is simple: if a universe's own dimensions explain the symptom but not the persistence, the cause is likely anchored in the Common Manifold.
 

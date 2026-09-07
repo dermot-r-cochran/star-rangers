@@ -8,7 +8,7 @@ image: "fellowship-of-light.jpg"
 image_alt: "Designed cover for the Fellowship of Light: a gold radiant compass-like emblem in a ringed seal, on a dark background — a contemplative order, not a political chamber."
 ---
 
-Governments rise and are narrowed into their successors. The Fellowship does neither. It was tending thin places before the United Space Consortium had a charter to fail, and it is still tending them now, under a different name on the operational side and the same name it always used on the other.
+Governments rise and are narrowed into their successors. The Fellowship does neither. It was tending thin places before the [United Space Consortium](/star-rangers/lore/united-space-consortium/) had a charter to fail, and it is still tending them now, under a different name on the operational side and the same name it always used on the other.
 
 The **Fellowship of Light** is not a political faction, and does not appear on any list of Solar System governing bodies for the same reason a river doesn't appear on a list of roads: it predates the category. It is a universal order — universal in reach, maintaining chapters wherever a boundary place draws people to it, not bound to one world, one polity, or one political era — and it recognizes two expressions of the same vocation.
 
@@ -26,7 +26,7 @@ The contemplative chapters also keep the Fellowship's one honorific on record. *
 
 **Operational chapters** are the newer face, formalized as boundary-zone work became a measurable operational hazard that contemplative practice alone could not fully answer. This is where the [Star Rangers](/star-rangers/lore/formation-of-star-rangers/) fit. The 2723 UCSD charter and the Consolidation Accords gave the Rangers legal standing as an independent humanitarian corps — but the vocation the charter formalized was not invented in 2723. It is the Fellowship's operational chapter, given a Solar System bureaucracy's paperwork.
 
-This is why "faction" has never quite fit the Star Rangers, even though Solar System political records file them alongside the USC, the Imperium, and the MSC out of administrative convenience. A faction wants something for itself. The Fellowship's founding renunciation — of political interest, of commercial interest, of any stake in who wins a given dispute — is older than any Solar System charter and is why the Rangers function as they do: less a faction than a **trusted universal broker**, the one carrier, mediator, or witness that every side of a dispute can accept without conceding anything to the other.
+This is why "faction" has never quite fit the Star Rangers, even though Solar System political records file them alongside the USC, the [Imperium](/star-rangers/lore/the-imperium/), and the MSC out of administrative convenience. A faction wants something for itself. The Fellowship's founding renunciation — of political interest, of commercial interest, of any stake in who wins a given dispute — is older than any Solar System charter and is why the Rangers function as they do: less a faction than a **trusted universal broker**, the one carrier, mediator, or witness that every side of a dispute can accept without conceding anything to the other.
 
 ## Two Refusals
 

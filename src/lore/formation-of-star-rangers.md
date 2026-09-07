@@ -80,7 +80,7 @@ The limits stayed.
 
 ## Older Than the Charter
 
-Solar System political record files the Star Rangers alongside the USC, the Imperium, and the MSC — predecessor and successor institutions in one continuous list. That filing is administratively convenient and substantively wrong. The Rangers are not a faction that replaced the ones before it. They are the modern operational chapter of the [Fellowship of Light](/star-rangers/lore/fellowship-of-light/), an order that was tending boundary places under a different name generations before the USC had a charter to fail.
+Solar System political record files the Star Rangers alongside the USC, the [Imperium](/star-rangers/lore/the-imperium/), and the MSC — predecessor and successor institutions in one continuous list. That filing is administratively convenient and substantively wrong. The Rangers are not a faction that replaced the ones before it. They are the modern operational chapter of the [Fellowship of Light](/star-rangers/lore/fellowship-of-light/), an order that was tending boundary places under a different name generations before the USC had a charter to fail.
 
 The 2723 charter gave that older vocation legal standing, a budget mechanism, and jurisdiction limits. It did not invent the vocation, and it is not the reason the Rangers function as a trusted universal broker rather than a faction with an angle. That reason is older than the paperwork.
 

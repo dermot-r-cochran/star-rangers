@@ -30,7 +30,7 @@ That is the specific gap Orbital Five-O was commissioned to close, and it is why
 
 ## Eden's Two Chains
 
-Eden Space Habitat is a member of the Compact for civil administration and ordinary policing — the chain above. It is, separately, a Class I Fold-Proximate Research Platform under joint Star Rangers Survey Corps and Solar System Defence Command oversight for anything touching the [Eden Passage](/star-rangers/lore/eden-space-habitat/) itself. The two chains run in parallel and rarely need to consult each other: one governs the habitat, the other governs the fold route the habitat happens to sit beside.
+Eden Space Habitat is a member of the Compact for civil administration and ordinary policing — the chain above. It is, separately, a Class I Fold-Proximate Research Platform under joint [Star Rangers Survey Corps](/star-rangers/lore/star-rangers-survey-corps/) and Solar System Defence Command oversight for anything touching the [Eden Passage](/star-rangers/lore/eden-space-habitat/) itself. The two chains run in parallel and rarely need to consult each other: one governs the habitat, the other governs the fold route the habitat happens to sit beside.
 
 A third, unofficial chain also runs through Eden's civil bureau without appearing on its books at all: the [Undercover Pets Detective Agency](/star-rangers/characters/agent-barsik/)'s own compartmentalised network, which files logs rather than reporting up any chain of command the Compact would recognise. Superintendent Oyelaran signs off on its presence at Eden without ever having been told, by anyone at any level, what it actually is.
 

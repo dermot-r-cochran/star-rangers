@@ -8,7 +8,7 @@ description: "Why an officer on personal leave is the hardest case the charter's
 
 An officer on leave is off duty, out of uniform, and still the only Star Ranger in the room. Nobody at the table forgets it, least of all the ones being kind about it.
 
-The [charter](/star-rangers/lore/formation-of-star-rangers/) is unambiguous about the institution. **Neutrality**: the Star Rangers take no side in political disputes between factions, governments, habitats or settlements, and do not campaign, endorse, or lend operational presence to anyone's legitimacy. **No planetary or large-habitat jurisdiction**: they enter only by invitation and leave when it is withdrawn. Both constraints were forced into the charter by outer-station delegates who were making certain the Rangers could never become the Military Space Command again, and both have held for a century under pressures they were not designed for.
+The [charter](/star-rangers/lore/formation-of-star-rangers/) is unambiguous about the institution. **Neutrality**: the Star Rangers take no side in political disputes between factions, governments, habitats or settlements, and do not campaign, endorse, or lend operational presence to anyone's legitimacy. **No planetary or large-habitat jurisdiction**: they enter only by invitation and leave when it is withdrawn. Both constraints were forced into the charter by outer-station delegates who were making certain the Rangers could never become the [Military Space Command](/star-rangers/lore/military-space-command/) again, and both have held for a century under pressures they were not designed for.
 
 Neither says anything about going home.
 

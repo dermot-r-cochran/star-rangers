@@ -8,7 +8,7 @@ image: "earth-leopard-grassland.jpg"
 image_alt: "A leopard resting in actively maintained grassland on Earth, photographed in 2826 UCSD"
 ---
 
-A survey botanist cataloguing Tír na nÓg's lowlands once spent a full field season convinced she'd found transplanted Earth stock, before the pigment chemistry proved otherwise. The mistake says less about Tír na nÓg than about Earth: by 2826 UCSD, a giraffe grazing in a Solar System Defence Command preserve looks close enough to a twenty-first-century photograph that most visitors assume nothing happened in between. Something did. It just wasn't mostly evolution.
+A survey botanist cataloguing [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/)'s lowlands once spent a full field season convinced she'd found transplanted Earth stock, before the pigment chemistry proved otherwise. The mistake says less about Tír na nÓg than about Earth: by 2826 UCSD, a giraffe grazing in a Solar System Defence Command preserve looks close enough to a twenty-first-century photograph that most visitors assume nothing happened in between. Something did. It just wasn't mostly evolution.
 
 ## The Long Emergency
 
@@ -34,7 +34,7 @@ That decision was selective by necessity. Preserve coverage concentrates on char
 
 Outside the preserves, the Crisis Centuries left permanent marks that stewardship never reversed, because no one was trying to. Urban generalist lineages carry crisis-era adaptations in their behaviour and physiology to this day — bolder, more nocturnal, more broadly omnivorous than their twenty-first-century ancestors, and now old enough as distinct populations that field taxonomists debate incipient subspecies status for several corvid and canid lines. Deep-ocean and open-water fauna, never practically covered by any preserve boundary, kept evolving on crisis-era trajectories: smaller, faster-maturing fish assemblages, and cephalopod lineages that expanded into ecological roles reef-obligate vertebrates once held and never fully reclaimed.
 
-A quieter divergence happened off-world. Terran domestic and companion species carried out to the early charter worlds bred under gravity, daylight spectra, and growing seasons Earth never had — the crofting stock that shaped Aethelrock's clan grazing disputes among them. Those lineages were never candidates for SSDC's Earth-side genetic archives in the first place, and centuries later they no longer entirely resemble the animals that left.
+A quieter divergence happened off-world. Terran domestic and companion species carried out to the early charter worlds bred under gravity, daylight spectra, and growing seasons Earth never had — the crofting stock that shaped [Aethelrock](/star-rangers/lore/planets/aethelrock/)'s clan grazing disputes among them. Those lineages were never candidates for SSDC's Earth-side genetic archives in the first place, and centuries later they no longer entirely resemble the animals that left.
 
 ## What Wasn't Saved
 

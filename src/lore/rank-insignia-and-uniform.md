@@ -8,7 +8,7 @@ image: "rank-insignia-and-uniform.jpg"
 image_alt: "Designed cover for Rank, Insignia, and the Ranger Uniform: a blue chevron insignia emblem in a ringed seal, on a dark background."
 ---
 
-The Military Space Command dressed its officers the way it ran its committees: a lot of surface signaling a chain of command that, by 2719 UCSD, could no longer act inside it. Braid, star-count, and full-dress ribbon order told you exactly who outranked whom and almost nothing about what that person was certified to do in a boundary zone. The Star Rangers charter's framers considered that a design flaw, not an aesthetic one, and rebuilt the uniform system from the certification up rather than the hierarchy down.
+The [Military Space Command](/star-rangers/lore/military-space-command/) dressed its officers the way it ran its committees: a lot of surface signaling a chain of command that, by 2719 UCSD, could no longer act inside it. Braid, star-count, and full-dress ribbon order told you exactly who outranked whom and almost nothing about what that person was certified to do in a boundary zone. The Star Rangers charter's framers considered that a design flaw, not an aesthetic one, and rebuilt the uniform system from the certification up rather than the hierarchy down.
 
 ## What the Charter Forbids
 
@@ -22,7 +22,7 @@ What replaced the forbidden ornament was function. A rank tab tells a Safety Cor
 
 ## The Uniform
 
-The standard field uniform is a modular shell over a thermal-and-pressure liner, not a single garment cut to one body plan. It has to work across a service that includes Krenyi like [Syra](/star-rangers/characters/syra/), Pelagene Littoral surveyors like [Mira of Brine](/star-rangers/characters/mira-of-brine/), Veyr Basaltborn specialists like [Qiren Tal](/star-rangers/characters/qiren-tal/), Serephine Dunekin scouts like [Sethka Ru](/star-rangers/characters/sethka-ru/), and analytical chassis like [Rook-7](/star-rangers/characters/rook-7/), which has no garment at all and mounts its marks directly on the hull.
+The standard field uniform is a modular shell over a thermal-and-pressure liner, not a single garment cut to one body plan. It has to work across a service that includes [Krenyi](/star-rangers/lore/krenyi/) like [Syra](/star-rangers/characters/syra/), [Pelagene Littoral](/star-rangers/lore/pelagene-littoral/) surveyors like [Mira of Brine](/star-rangers/characters/mira-of-brine/), [Veyr Basaltborn](/star-rangers/lore/veyr-basaltborn/) specialists like [Qiren Tal](/star-rangers/characters/qiren-tal/), [Serephine Dunekin](/star-rangers/lore/serephine-dunekin/) scouts like [Sethka Ru](/star-rangers/characters/sethka-ru/), and analytical chassis like [Rook-7](/star-rangers/characters/rook-7/), which has no garment at all and mounts its marks directly on the hull.
 
 That is the entire reason insignia is never sewn on. Every rank and certification mark is a magnetically-seated tab or plate, sized and positioned per body plan by the wearer's own quartermaster record, and moved to a new shell without re-issue whenever the uniform underneath it changes. A robotic chassis wears the same tab standard as a human sleeve; it is simply bolted to a different surface.
 

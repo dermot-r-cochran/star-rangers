@@ -12,7 +12,7 @@ When witnesses say a dragon changed fate, the archives ask a colder question fir
 
 The Cosmic Cascade is the fixed ordering of causal authority in the Grand Ensemble Multiverse. It is ontological, not political. Causality resolves from higher tier to lower tier and does not reverse.
 
-> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Mediarchs → Celestials (Frenar) → Levrils → Champions / Heroes
+> Hyperomnium → Kieme → Conseleme → Metawrights → Formwrights → Archewrights → Worldwrights → Universes with Concordants (Concordance) → Telearchs → Mediarchs → Celestials (Frenar) → [Levrils](/star-rangers/lore/levrils/) → Champions / Heroes
 
 ## Global Invariants
 

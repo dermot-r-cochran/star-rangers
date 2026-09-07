@@ -66,4 +66,4 @@ Eden remains active. It is now designated a Class I Fold-Proximate Research Plat
 
 The route is now mapped, monitored, and named: the Eden Passage.
 
-*Patience First* was found in 2732 UCSD. The crew were alive. The classified record contains the full account. Publicly, only this is stated: they were found by entities who were not human, not Krenyi, and not mechanical—and who had been waiting for someone to arrive.
+*Patience First* was found in 2732 UCSD. The crew were alive. The classified record contains the full account. Publicly, only this is stated: they were found by entities who were not human, not [Krenyi](/star-rangers/lore/krenyi/), and not mechanical—and who had been waiting for someone to arrive.
