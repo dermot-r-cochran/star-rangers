@@ -12,7 +12,7 @@ When a dragon appears in Material space, witnesses remember the shape first and 
 
 Levrils are dragons and dragon-kin. They are **sapient meta-dimensional beings** whose existence extends across higher spatial dimensions above the four accessible to Material-layer beings. Sapience plus that higher-dimensional extension is what distinguishes Levrils from other meta-dimensional entities.
 
-In the Cosmic Cascade, Levrils sit below Celestials (Frenar) and above Champions/Heroes. They are the lowest tier with inherent higher-dimensional extension and the only meta-dimensional entities with formal Cascade standing.
+In the [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/), Levrils sit below Celestials (Frenar) and above Champions/Heroes. They are the lowest tier with inherent higher-dimensional extension and the only meta-dimensional entities with formal Cascade standing.
 
 ## Meta-Dimensional Nature
 
@@ -27,7 +27,7 @@ Levrils exist simultaneously across multiple higher spatial dimensions. That ext
 
 ## What a Levril Looks Like
 
-Nothing, on its own account. A Levril has no form a time-bound observer could receive directly, so **the perceiver supplies one**, and the two things anyone ever reports are the two things a mind has available: **a version of their own kind, or something abstract.** A human meets a figure; a [Cerebraun](/star-rangers/lore/cerebraun/) meets a Cerebraun; a Krenyi generally meets a field, a pressure, a turn of light. The same holds in dreams as in waking encounters, which is one of the few places the record can compare accounts of one event across species and find them irreconcilable at the level of description and identical at the level of what happened.
+Nothing, on its own account. A Levril has no form a time-bound observer could receive directly, so **the perceiver supplies one**, and the two things anyone ever reports are the two things a mind has available: **a version of their own kind, or something abstract.** A human meets a figure; a [Cerebraun](/star-rangers/lore/cerebraun/) meets a Cerebraun; a [Krenyi](/star-rangers/lore/krenyi/) generally meets a field, a pressure, a turn of light. The same holds in dreams as in waking encounters, which is one of the few places the record can compare accounts of one event across species and find them irreconcilable at the level of description and identical at the level of what happened.
 
 This is why the record files a Levril by its signature rather than its shape. [The Turquoise Dove](/star-rangers/characters/turquoise-dove/) is *known only by the turquoise iridescence of her dimensional signature* — not a description of her appearance but an admission that appearance is the wrong category. The signature is the invariant; the figure is the viewer's contribution.
 

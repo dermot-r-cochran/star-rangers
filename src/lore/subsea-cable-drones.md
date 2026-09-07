@@ -26,7 +26,7 @@ That was the problem the Subsea Cable Warden Programme was built to solve.
 
 ## Classification and Origins
 
-The Programme's origins are reconstructed only in part from records declassified between 2190 and 2280 CE, with the final tranche released under the Consolidation Accords in 2724. The record remains incomplete. Some founding documents were destroyed in the data loss events of the 2130s. Others remain sealed under successor-state agreements inherited by the United Space Consortium and still not cleared for public release.
+The Programme's origins are reconstructed only in part from records declassified between 2190 and 2280 CE, with the final tranche released under the Consolidation Accords in 2724. The record remains incomplete. Some founding documents were destroyed in the data loss events of the 2130s. Others remain sealed under successor-state agreements inherited by the [United Space Consortium](/star-rangers/lore/united-space-consortium/) and still not cleared for public release.
 
 What the surviving record establishes is this:
 

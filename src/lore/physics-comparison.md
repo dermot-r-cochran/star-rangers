@@ -23,7 +23,7 @@ The fictional cosmos superficially mimics real-world physics at the Material and
 
 ### Fictional Cosmos
 - Physical constants are selected by Worldwrights to produce stable, fertile [Concordants](/star-rangers/glossary/concordant/).
-- [Mediarchs](/star-rangers/glossary/mediarch/) administer the physical forces themselves; Celestials and Levrils perform ongoing maintenance at the Etheric and Conceptual layers, inside mandates defined from the higher strata.
+- [Mediarchs](/star-rangers/glossary/mediarch/) administer the physical forces themselves; Celestials and [Levrils](/star-rangers/lore/levrils/) perform ongoing maintenance at the Etheric and Conceptual layers, inside mandates defined from the higher strata.
 - Three parallel information channels exist: quantum, thermodynamic, and conceptual.
 - Events near boundary zones or anomalies are subject to meaning-field resonance.
 
@@ -204,9 +204,9 @@ Sentient minds — organic or artificial — are not purely physical. They inter
 
 ### Fictional Cosmos
 - Higher dimensions are real, inhabited, and causally active at every scale.
-- The full Cosmic Cascade spans from non-anthropomorphic origin tiers down to material-layer Champions:
+- The full [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) spans from non-anthropomorphic origin tiers down to material-layer Champions:
   - **Origin tiers** (Hyperomnium, Kieme, Conseleme): establish existence boundary conditions without agency, dialogue, or selective intervention.
-  - **Design tiers** (Metawrights, Formwrights, Archewrights): define possible forms and maintain archetypal integrity.
+  - **Design tiers** (Metawrights, Formwrights, [Archewrights](/star-rangers/lore/archewright/)): define possible forms and maintain archetypal integrity.
   - **Worldwrights**: author primary universes and their Concordants.
   - **Telearchs**: govern cross-Concordant continuity from a higher-dimensional supervisory tier.
   - **Celestials (Frenar)**: operational enforcement at boundary and overlap interfaces.

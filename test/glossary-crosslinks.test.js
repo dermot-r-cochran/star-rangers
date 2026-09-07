@@ -1,9 +1,10 @@
 // Pins lib/glossary-crosslinks.js, the planner behind
-// scripts/link-glossary-terms.js. The cases are the ones the first run over
-// src/glossary/ turned up: a shorter title inside a longer one ("Celestials"
-// in "High Celestials"), an entry's own title, mentions already inside a
-// link or a heading, the mechanical title variants, and one link per target
-// at the earliest mention.
+// scripts/link-glossary-terms.js. The cases are the ones the first runs over
+// src/glossary/ and src/lore/ turned up: a shorter title inside a longer one
+// ("Celestials" in "High Celestials"), an entry's own title, mentions already
+// inside a link or a heading, the mechanical title variants, a title at the
+// head of a longer proper noun, and one link per target at the earliest
+// mention.
 const test = require("node:test");
 const assert = require("node:assert/strict");
 
@@ -15,9 +16,16 @@ const {
   applyLinks,
 } = require("../lib/glossary-crosslinks");
 
-function plan(entries) {
+// Fixture entries are { slug, title, body }; the planner also wants the url.
+function withUrls(entries, section = "glossary") {
+  return entries.map((e) => ({ url: `/star-rangers/${section}/${e.slug}/`, ...e }));
+}
+
+function plan(entries, section) {
   const out = {};
-  for (const e of planCrossLinks(entries)) out[e.slug] = e.links.map((l) => [l.text, l.slug]);
+  for (const e of planCrossLinks(withUrls(entries, section))) {
+    out[e.slug] = e.links.map((l) => [l.text, l.slug]);
+  }
   return out;
 }
 
@@ -28,8 +36,15 @@ test("titleVariants: acronym, article and plural forms", () => {
   );
   assert.deepEqual(titleVariants("The Interval").sort(), ["Interval", "The Interval"].sort());
   assert.deepEqual(titleVariants("Celestials").sort(), ["Celestial", "Celestials"].sort());
+  assert.ok(titleVariants("Worldwright Design Philosophies").includes("Worldwright Design Philosophy"));
+  assert.ok(titleVariants("Orbital Compute Complexes").includes("Orbital Compute Complex"));
   // A title ending in "ss" is not a plural.
   assert.deepEqual(titleVariants("Glass"), ["Glass"]);
+  // The head of a "Head: Subtitle" title is how prose names the page.
+  assert.ok(titleVariants("Deadwater: The Silent Membrane").includes("Deadwater"));
+  // A capitalised parenthetical is a name; a lower-case one is a gloss.
+  assert.ok(titleVariants("Krenyi (Quiet-Built)").includes("Quiet-Built"));
+  assert.deepEqual(titleVariants("Ollune (the Held)"), ["Ollune (the Held)", "Ollune"]);
   // The one hand-aliased title.
   assert.ok(titleVariants("Champions / Heroes (Heros)").includes("Hero"));
   assert.ok(!titleVariants("Champions / Heroes (Heros)").includes("Champions / Heroes (Heros)"));
@@ -56,7 +71,7 @@ test("links the earliest unlinked mention of each other entry, once", () => {
   const out = plan(entries);
   assert.deepEqual(out.etheric, []);
   assert.deepEqual(out.zone, [["Etheric", "etheric"]]);
-  const zone = planCrossLinks(entries)[1];
+  const zone = planCrossLinks(withUrls(entries))[1];
   assert.equal(zone.links[0].index, "A zone has ".length);
 });
 
@@ -125,9 +140,50 @@ test("mentions inside existing links, headings, code and HTML are not candidates
     ["Kieme", "kieme"],
     ["Levrils", "levril"],
   ]);
-  const a = planCrossLinks(entries)[2];
+  const a = planCrossLinks(withUrls(entries))[2];
   assert.ok(a.links[0].index > a.body.indexOf("Then"));
   assert.deepEqual(out.b, []);
+});
+
+test("a title at the head of a longer proper noun is passed over for the next mention", () => {
+  const entries = [
+    { slug: "quantum-space-harmonics", title: "Quantum Space Harmonics", body: "Waves.\n" },
+    { slug: "venice", title: "Venice", body: "A city.\n" },
+    {
+      slug: "a",
+      title: "A",
+      body: "The Quantum Space Harmonic Wave is fast; Quantum Space Harmonics explains why.\n",
+    },
+    { slug: "b", title: "B", body: "Only the Quantum Space Harmonic Wave is named here.\n" },
+    { slug: "c", title: "C", body: "New Venice was built from Venice's plans.\n" },
+  ];
+  const out = plan(entries, "lore");
+  assert.deepEqual(out.a, [["Quantum Space Harmonics", "quantum-space-harmonics"]]);
+  assert.deepEqual(out.b, []);
+  assert.deepEqual(out.c, [["Venice", "venice"]]);
+  const c = planCrossLinks(withUrls(entries, "lore"))[4];
+  assert.equal(c.links[0].index, "New Venice was built from ".length);
+});
+
+test("a link to the same slug in the other section counts as already linked", () => {
+  const entries = [
+    { slug: "cosmic-cascade", title: "The Cosmic Cascade", body: "The spine.\n" },
+    {
+      slug: "d",
+      title: "D",
+      body: "See [the Cascade](/star-rangers/glossary/cosmic-cascade/); the Cosmic Cascade again.\n",
+    },
+  ];
+  assert.deepEqual(plan(entries, "lore").d, []);
+});
+
+test("links carry the entry's own url, so a lore entry in a subdirectory resolves", () => {
+  const entries = [
+    { slug: "mars", title: "Mars", url: "/star-rangers/lore/planets/mars/", body: "Red.\n" },
+    { slug: "e", title: "E", url: "/star-rangers/lore/e/", body: "Solar Command on Mars.\n" },
+  ];
+  const e = planCrossLinks(entries)[1];
+  assert.equal(applyLinks(e.body, e.links), "Solar Command on [Mars](/star-rangers/lore/planets/mars/).\n");
 });
 
 test("applyLinks wraps each planned mention and keeps the surrounding text", () => {
@@ -140,7 +196,7 @@ test("applyLinks wraps each planned mention and keeps the surrounding text", () 
       body: "Sits below Celestials (**Frenar**) and above Levrils, a Levril's peers.\n",
     },
   ];
-  const c = planCrossLinks(entries)[2];
+  const c = planCrossLinks(withUrls(entries))[2];
   assert.equal(
     applyLinks(c.body, c.links),
     "Sits below Celestials (**[Frenar](/star-rangers/glossary/frenar/)**) and above " +
