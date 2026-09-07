@@ -818,7 +818,9 @@ put as choices in the intake:
   the same day, eighth section: *door's name is told*.** The door is named
   for the people; **still his:** whether the thread also becomes *The Told*
   (the 6 September second choice) or keeps *Below the Roof*, put as two
-  shapes in the intake. The cPanel side is deploy work now.
+  shapes in the intake. ~~The cPanel side is deploy work now.~~ **Live the
+  same afternoon**: told.fianilchruinne.com serves *The Told* at
+  v1.32.0-110.
 - **The thread's name** — *Below the Roof* is a working title; the endonym
   would be the only name that is not the observers'.
 - ~~**The endonym and naming system**~~ — **settled by the second chapter,
@@ -1356,8 +1358,12 @@ and register unchanged). Open:
 - ~~**Its face.**~~ — **ruled 3 September 2026: a second young-adult edition
   on a subdomain**, registered as `young-star-rangers` on
   `young.fianilchruinne.com` (starquest palette for now; a palette of its own
-  is open). The cPanel side — subdomain, clone, two-key `deploy.conf` — is
-  still to do.
+  is open). ~~The cPanel side — subdomain, clone, two-key `deploy.conf` — is
+  still to do.~~ **Live 7 September 2026**: the subdomain and `deploy.conf`
+  block had existed since 3 September on the fianilchruinne.com clone, but
+  that account's autopull cron had never run, so nothing deployed there
+  until an API-triggered pull and deploy on the 7th (see the eighth section
+  of `intake-2026-09-07.md`). The cron itself is still Dermot's to install.
 - ~~**The thread's registration**~~ — **done the same day**: `young-star-rangers`,
   Season 9, index pages only. **Its first chapter** is still to be written to
   the gap, and waits on the Deputy's identity (above).
