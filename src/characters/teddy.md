@@ -9,7 +9,7 @@ aliases:
   - "the Teddy Bear"
   - "Individual Four (Fliade survey log)"
   - "Carried-It-Sleeping (the Told)"
-tags: [alien, pandoid, fliade, survey-corps, first-contact, cavern-biosphere, star-rangers]
+tags: [alien, pandoid, fliade, below-the-roof, survey-corps, first-contact, cavern-biosphere, star-rangers]
 description: "The one Pandoid the Fliade survey learned to tell from the others, named by the surface party for a child's toy and logged as Individual Four: smaller than the adults, soft and warm to every instrument that has measured them, the only one who comes up to where the survey works — never seen doing it, and never once mistaken for weak by anyone who has read the log."
 ---
 
