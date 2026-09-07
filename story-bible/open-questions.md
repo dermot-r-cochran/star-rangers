@@ -797,7 +797,12 @@ Pandoid, soft and warm, but never weak or foolish*). Drafted the same session as
   gorilla*.** Round 3 run on the panda build, both variants panda-built and
   grey; variant 1 recommended (clean relay; a thin black band to crop),
   variant 2 has a labelled relay. Both on all fours where the record says
-  upright. **Still his:** the pick, or a fourth round on the stance.
+  upright. ~~**Still his:** the pick, or a fourth round on the stance.~~ —
+  **"more alien", fifth section, same morning:** round 4 run with an alien
+  face and coat on the panda build (no ears, flat face, large low-light
+  eyes, ridged down); both variants upright and plainly alien. Variant 2
+  the lean. ~~**Still his: the pick.**~~ **Picked — "second image is fine"
+  — and filed the same morning.** Nothing on Teddy's portrait is open.
 
 ## Below the Roof — the Pandoid thread, registered 6 September 2026
 

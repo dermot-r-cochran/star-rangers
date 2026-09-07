@@ -5,6 +5,8 @@ id: teddy
 species: Pandoid
 role: "None the record can assign — an individual of the deep networks, Fliade"
 status: Active
+image: teddy.jpg
+image_alt: "A stocky grey alien with a panda-like build standing upright in a cavern lit by teal and amber fungus, large dark eyes ringed in darker grey, looking toward a small plain cylindrical instrument standing on pale silt where a line of bootprints ends."
 aliases:
   - "the Teddy Bear"
   - "Individual Four (Fliade survey log)"
