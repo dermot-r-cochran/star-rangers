@@ -279,13 +279,14 @@ wants both goes.
 
 ---
 
-## `below-the-roof` — roof.fianilchruinne.com (working name)
+## `the-told` — told.fianilchruinne.com
 
-**Registered 7 September 2026 at Dermot's ruling *new subdomain edition*;
-three chapters on the thread, cPanel side pending, host name still his (it
-follows the thread's name). Theme `pets` for now. Posture `primer`.
+**Registered 7 September 2026 at Dermot's ruling *new subdomain edition*,
+named the same day at his *door's name is told*; three chapters on the
+thread, cPanel side pending. Theme `pets` for now. Posture `primer`.
 Threads: the children's floor (undercover-pets) plus below-the-roof. Brand:
-Below the Roof.**
+The Told — the door is named for the people; the thread keeps its working
+title.**
 
 **Arrives** the same age as the pets reader, or is read to at the same age —
 and wants a different thing: not a case, but a people. The child who would
@@ -305,8 +306,8 @@ exists, is read the same way from its own side.
 **Posture** `primer`, shared with the pets edition for the reason given there:
 completability.
 
-**Palette** borrowed from the pets edition until the door has a name; a face
-of its own is design work behind the contrast gate. The theme audio is the
+**Palette** borrowed from the pets edition; a face of its own is design work
+behind the contrast gate. The theme audio is the
 sci-fi ambient track rather than the agency's ukulele, and a brief of its own
 is open in `music-prompts.md`.
 

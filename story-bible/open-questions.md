@@ -813,10 +813,12 @@ put as choices in the intake:
 
 - ~~**Which edition shows it to a child**~~ — **RULED 7 September 2026**
   (`intake-2026-09-07.md`, first section): *new subdomain edition*, realized
-  the same morning as edition `below-the-roof` in `lib/editions.js` on the
-  working host `roof.fianilchruinne.com`. **Still his:** the host name,
-  which follows the thread's name and is put as three shapes (roof / told /
-  fliade) in the intake; the cPanel side waits on it.
+  the same morning as edition `the-told` in `lib/editions.js` on
+  `told.fianilchruinne.com` — ~~the host name put as three shapes~~ **ruled
+  the same day, eighth section: *door's name is told*.** The door is named
+  for the people; **still his:** whether the thread also becomes *The Told*
+  (the 6 September second choice) or keeps *Below the Roof*, put as two
+  shapes in the intake. The cPanel side is deploy work now.
 - **The thread's name** — *Below the Roof* is a working title; the endonym
   would be the only name that is not the observers'.
 - ~~**The endonym and naming system**~~ — **settled by the second chapter,
@@ -845,9 +847,12 @@ put as choices in the intake:
   third section): *two or more strands*. Read as at least two — the
   survey-side strand beside the deep-side one, separate casts, no shared
   scenes — with *or more* as permission rather than instruction. Nothing
-  drafted: **the convergence is his and fixed first**, put as three shapes in
-  the intake (one act, two records — recommended; the two logs; both in that
-  order).
+  drafted: ~~**the convergence is his and fixed first**, put as three shapes in
+  the intake~~ — **RULED the same day, eighth section: *one act, two
+  records*.** Fixed in `below-the-roof-treatment.md`; the survey-side strand
+  may now be drafted at his ask. Who speaks to the dark is settled to the
+  extent the shape needs (the smallest of the three); naming that up-person
+  is still his.
 - ~~**The Fliade entry's observational sentence**~~ — **left as it stands**,
   choice (a) of the eleventh section: the sentence is about what the Archive
   holds, and the chapters carry an interior it does not. The in-story route

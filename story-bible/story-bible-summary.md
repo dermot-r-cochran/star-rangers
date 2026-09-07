@@ -571,11 +571,13 @@ Notes that keep the tiers honest:
   `mind-design.md`, Pandoid young, and which edition shows it to a child — a
   new one on a subdomain, or undercover-pets.com by one line on
   `CHILDREN_TIER`. **The edition was ruled 7 September 2026** (`intake-2026-09-07.md`):
-  a new subdomain edition, registered as `below-the-roof` on the working
-  host `roof.fianilchruinne.com` — the children's floor plus the thread,
-  primer posture, comments off, the name still his. **The same morning: two
+  a new subdomain edition, registered as `the-told` on
+  `told.fianilchruinne.com` (his *door's name is told*, the same day) — the
+  children's floor plus the thread, primer posture, comments off; the thread
+  keeps its working title until he says otherwise. **The same morning: two
   or more strands**, the survey side beside the deep side, convergence fixed
-  before drafting and put as three shapes.
+  before drafting — **ruled the same day, *one act, two records***, in
+  `below-the-roof-treatment.md`.
 - **A tier is not a posture (21 August 2026).** Each edition now also carries a
   *presentation mode* — `story`, `primer`, `archive` or `contemplative` — and
   it deliberately does not map one-to-one onto the tiers above. The tiers are

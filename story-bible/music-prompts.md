@@ -337,13 +337,13 @@ is wrong everywhere else comes right, and that is the gag.
 
 Clever, not infantile — and the wobble comes right, which is the gag.
 
-### Below the Roof — brief open (7 September 2026)
+### The Told — brief open (7 September 2026)
 
-The children's tier's second door, `roof.fianilchruinne.com` (working name),
+The children's tier's second door, `told.fianilchruinne.com`,
 ships with the Five-O "Sci-fi ambient" file for now: a cavern lit by fungus
 is closer to Threshold than to Eden's bureau, and the ukulele is the agency's.
 A brief of its own — warm, low, wet stone and a record kept by speaking —
-waits until the door has a name.
+is still to write.
 
 ### Church Space — "Ambient drone"
 
