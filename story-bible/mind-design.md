@@ -344,8 +344,11 @@ the up-people bring; (b) **a shadow is a shape without warmth** — a people
 certain of warmth-shape meets, in a membrane shadow, exactly the thing their
 sensorium cannot place (a silhouette that returns nothing on infrared), and
 Fliade sits near a boundary feature the record has not settled. S11E02C02
-takes (a) from the survey's side as Nakagawa's reading, filed; (b) is
-reserved, and would extend the Fliade entry rather than the thread.
+takes (a) from the survey's side as Nakagawa's reading, filed. **Ruled
+later the same day — *Agreed* to the recommendation: (a) stands now, (b)
+is reserved**, not refused; it would extend the Fliade entry rather than the
+thread, and can be added by extension if a season near the boundary
+feature ever wants it.
 
 ### What a Pandoid cannot do (from the record)
 
