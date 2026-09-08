@@ -139,8 +139,9 @@ The three shapes are kept in the intake as the record of the choice.
 - **Whether Strand A gains a fourth chapter** (the waiting) before the
   convergence, or ends where it stands and the convergence chapter is its
   fourth.
-- **The thread's name** — still *Below the Roof* by default; the door is
-  *The Told* (eighth section of the intake).
+- ~~**The thread's name**~~ — **RULED 8 September 2026** (`intake-2026-09-08.md`,
+  first section): *Shape (b) agreed*. The thread is *Below the Roof*, not a
+  working title; the door is *The Told*.
 
 ## What happens when these are ruled
 

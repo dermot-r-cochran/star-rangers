@@ -831,13 +831,16 @@ put as choices in the intake:
   the same morning as edition `the-told` in `lib/editions.js` on
   `told.fianilchruinne.com` — ~~the host name put as three shapes~~ **ruled
   the same day, eighth section: *door's name is told*.** The door is named
-  for the people; **still his:** whether the thread also becomes *The Told*
+  for the people; ~~**still his:** whether the thread also becomes *The Told*
   (the 6 September second choice) or keeps *Below the Roof*, put as two
-  shapes in the intake. ~~The cPanel side is deploy work now.~~ **Live the
+  shapes in the intake~~ — **RULED 8 September 2026 (`intake-2026-09-08.md`):
+  *Shape (b) agreed*, the thread keeps *Below the Roof*.** ~~The cPanel side is deploy work now.~~ **Live the
   same afternoon**: told.fianilchruinne.com serves *The Told* at
   v1.32.0-110.
-- **The thread's name** — *Below the Roof* is a working title; the endonym
-  would be the only name that is not the observers'.
+- ~~**The thread's name**~~ — **RULED 8 September 2026** (`intake-2026-09-08.md`,
+  first section): *Below the Roof* is the title. He raised it himself — *The
+  Told might be unclear as the name of a thread?* — and agreed shape (b):
+  the endonym is the door's name, the place's is the story's.
 - ~~**The endonym and naming system**~~ — **settled by the second chapter,
   approved 6 September** (`intake-2026-09-06.md`, twelfth section). The
   people are *the Told* — one is of the people by having been told the
