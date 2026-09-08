@@ -25,7 +25,9 @@ permalink: /seasons/s11/e01/
   the manners for the first time, the youngest goes up to learn how the up-people ask, and Stone-First finishes a thought
   that was for keeping and goes to stand on the line. Then the waiting: the up-people's rising sound comes down
   through the squeeze every working time and is not answered, a small one goes up announced and stands beside
-  Stone-First, and the whole of the people learn what the waiting is for.
+  Stone-First, and the whole of the people learn what the waiting is for. And then the light comes through the squeeze
+  at the start of a working time, and the smallest of the up-people sets a stone down on the line, late, and theirs,
+  and Stone-First answers the only way there is, and a name grows.
 </p>
 
 {% set seasonNumber = "11" %}
