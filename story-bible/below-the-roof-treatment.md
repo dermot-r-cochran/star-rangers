@@ -70,7 +70,9 @@ tenth section). Strand A runs to five. **C04 is the waiting**: the line kept,
 the small ones kept from the squeeze, the sound at the end of each working
 time heard and not answered. **C05 is the convergence from the deep side**:
 Stone-First, on the line, hearing the ground announce a stranger — the
-Told's record of the one act. Neither is drafted; both at his ask.
+Told's record of the one act. **C04 drafted and approved 8 September
+(#748); C05 drafted the same day as a pair with Strand B's third**
+(`intake-2026-09-08.md`, fifteenth section).
 
 ## Strand B — the survey side (the up-people)
 
@@ -157,8 +159,10 @@ The three shapes are kept in the intake as the record of the choice.
   *Nakagawa*** (`intake-2026-09-08.md`, ninth section). Strand B's heads are
   Aravena and Nakagawa; Egede is not a head; no third. Strand B may be
   drafted at his ask.
-- **How many chapters** Strand B takes to reach the line. Three matches
-  Strand A; the rules do not require symmetry.
+- ~~**How many chapters** Strand B takes to reach the line.~~ **Three —
+  approved 8 September with S11E02C01 (#749).** S11E02C02 approved the same
+  day (#750); S11E02C03, the stone put down, drafted the same day as a pair
+  with C05.
 - ~~**Whether Strand A gains a fourth chapter** (the waiting) before the
   convergence, or ends where it stands and the convergence chapter is its
   fourth.~~ **RULED 8 September 2026 — *A forth and fifth chapter*:** the

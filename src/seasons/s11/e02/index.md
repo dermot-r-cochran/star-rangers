@@ -25,7 +25,9 @@ permalink: /seasons/s11/e02/
   sixty shifts of nothing, while the unit's channels fill with what the party stopped seeing — a boulder on every
   arrival, a withdrawal from the moving shadow and not the light, a voice at the bottom of the passage — until the
   one who knelt is asked, at last, what the third reading was, and gives it: like a thing at a door, and the
-  boulders are the knock.
+  boulders are the knock. And the morning after: a stone of the planet's own, carried through the squeeze by one
+  person, set down on the line at the feet of someone standing there in the open, and answered by the sound the
+  party had logged for two years. The log that shift says something happened.
 </p>
 
 {% set seasonNumber = "11" %}
