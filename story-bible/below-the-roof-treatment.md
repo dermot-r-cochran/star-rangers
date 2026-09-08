@@ -63,10 +63,14 @@ moment one of them does the other's manners.
 Carried-It-Sleeping, Went-Round): nobody looked up; the stone carried
 sleeping; the manners argued and the margin kept in the open. The strand is
 complete in the sense the rules require — a child who reads only these has a
-whole story — and it ends on Stone-First standing on the line. If it gains a
-further chapter before the convergence, it is the waiting: the line kept, the
-small ones kept from the squeeze, the sound at the end of each working time
-heard and not answered. It does not need one.
+whole story — and it ends on Stone-First standing on the line.
+
+**RULED 8 September 2026 — "A forth and fifth chapter"** (`intake-2026-09-08.md`,
+tenth section). Strand A runs to five. **C04 is the waiting**: the line kept,
+the small ones kept from the squeeze, the sound at the end of each working
+time heard and not answered. **C05 is the convergence from the deep side**:
+Stone-First, on the line, hearing the ground announce a stranger — the
+Told's record of the one act. Neither is drafted; both at his ask.
 
 ## Strand B — the survey side (the up-people)
 
@@ -155,9 +159,11 @@ The three shapes are kept in the intake as the record of the choice.
   drafted at his ask.
 - **How many chapters** Strand B takes to reach the line. Three matches
   Strand A; the rules do not require symmetry.
-- **Whether Strand A gains a fourth chapter** (the waiting) before the
+- ~~**Whether Strand A gains a fourth chapter** (the waiting) before the
   convergence, or ends where it stands and the convergence chapter is its
-  fourth.
+  fourth.~~ **RULED 8 September 2026 — *A forth and fifth chapter*:** the
+  waiting is C04 and the convergence is C05 (`intake-2026-09-08.md`, tenth
+  section).
 - ~~**The thread's name**~~ — **RULED 8 September 2026** (`intake-2026-09-08.md`,
   first section): *Shape (b) agreed*. The thread is *Below the Roof*, not a
   working title; the door is *The Told*.
