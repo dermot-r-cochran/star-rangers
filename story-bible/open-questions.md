@@ -1772,3 +1772,13 @@ committing the feature to brief Class III windows; (2) a Survey Archive
 casebook of unresolved shadow cases, no canon moved; (3) a standing
 direction that the work's mysteries are shadow-shaped, never crime-shaped.
 Awaiting his ruling; a treatment follows it.
+
+## Language design — `language-design.md`, written 8 September 2026 at Dermot's line (`intake-2026-09-08.md`, seventeenth section) — OPEN
+
+Derived note, nothing new asserted. Open from it: **what two peoples speak
+across a table** (no page names a Federation working language; the note
+recommends keeping it that way — every delegation works in the other side's
+language with named translators); **whether a xenolinguist is on the roof at
+Fliade** (touches the shadows seed); **whether any non-human character ever
+remarks on human names**; and whether a public lore page or teaching codex
+on the Branch's failure modes is wanted (reading 2).
