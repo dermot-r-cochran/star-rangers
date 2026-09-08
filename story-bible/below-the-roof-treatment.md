@@ -96,8 +96,9 @@ Three things the strand must do, and one it must not:
 
 Who the POV heads are is his. The shape needs at least the one who speaks to
 the dark; the ruled convergence names that person *the smallest of the
-three, the one who knelt to the humming stone*, and whether the survey-side
-pages call them Egede is a choice still open (below).
+three, the one who knelt to the humming stone*, and **they are not Egede**
+(ruled 8 September 2026, *The smallest one*, `intake-2026-09-08.md`, second
+section). The survey side names them for the first time; the name is his.
 
 ## The convergence
 
@@ -127,11 +128,11 @@ The three shapes are kept in the intake as the record of the choice.
 
 ## What stays open — his
 
-- **Which up-person.** The smallest of the three, the one who knelt to the
-  humming stone (C03). Egede, or someone the survey side names for the first
-  time. Recommendation: not Egede — his note ends on *unasked*, and the
-  strand is stronger if the one who asks is the one the record has not
-  already made wise.
+- ~~**Which up-person.**~~ **RULED 8 September 2026 — *The smallest one*.**
+  The smallest of the three, the one who knelt to the humming stone (C03);
+  not Egede, whose note ends on *unasked*. The same person speaks to the
+  dark. The survey side names them for the first time — **the name is
+  still his** (three candidates put in the intake).
 - **Strand B's POV heads**, beyond that one. Nakagawa is the obvious second;
   a third is not needed.
 - **How many chapters** Strand B takes to reach the line. Three matches

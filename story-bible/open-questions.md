@@ -871,8 +871,9 @@ put as choices in the intake:
   the intake~~ — **RULED the same day, eighth section: *one act, two
   records*.** Fixed in `below-the-roof-treatment.md`; the survey-side strand
   may now be drafted at his ask. Who speaks to the dark is settled to the
-  extent the shape needs (the smallest of the three); naming that up-person
-  is still his.
+  extent the shape needs (the smallest of the three); ~~naming that up-person
+  is still his~~ — **RULED 8 September 2026, *The smallest one*: not Egede;
+  the survey-side name is still his** (`intake-2026-09-08.md`, second section).
 - ~~**The Fliade entry's observational sentence**~~ — **left as it stands**,
   choice (a) of the eleventh section: the sentence is about what the Archive
   holds, and the chapters carry an interior it does not. The in-story route
@@ -892,11 +893,12 @@ put as choices in the intake:
   gains a survey-side strand to carry it, is the next chapter's question and
   his — and the survey-side strand, if there is one, needs its convergence
   fixed before it is drafted (the story-bible rule for strands).
-- **Who speaks to the dark.** The third chapter's up-person is *the
-  smallest of the three, the one who knelt to the humming stone*; the record
-  from inside cannot name them. The survey side would most naturally make
-  it Egede, whose codex note ends *unasked, which is worse* — his to
-  confirm before any survey-side page says so.
+- ~~**Who speaks to the dark.**~~ — **RULED 8 September 2026** (`intake-2026-09-08.md`,
+  second section): *The smallest one*. The third chapter's up-person, *the
+  smallest of the three, the one who knelt to the humming stone*, is also
+  the one who puts the stone down at the line, and is **not Egede**; the
+  record from inside cannot name them, and the survey side names them for
+  the first time — that name is his.
 - **Went-Round** — a third named adult, approved 6 September with a page;
   whether the ensemble grows further, and whether the argument the chapter
   gives to nobody is ever settled among the Told, his.
