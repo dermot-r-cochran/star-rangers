@@ -348,7 +348,12 @@ takes (a) from the survey's side as Nakagawa's reading, filed. **Ruled
 later the same day — *Agreed* to the recommendation: (a) stands now, (b)
 is reserved**, not refused; it would extend the Fliade entry rather than the
 thread, and can be added by extension if a season near the boundary
-feature ever wants it.
+feature ever wants it. **Taken up the same evening — *Shadows - option 1
+accepted*** (`intake-2026-09-08.md`, sixteenth section): the thread's second
+season is that season, and (b) arrives with its first shadow;
+`below-the-roof-second-season-treatment.md` carries the shape, and whether
+the people's word covers any shape that moves without moving a stone (the
+intake's third reading) is put there as a choice.
 
 ### What a Pandoid cannot do (from the record)
 
