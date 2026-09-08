@@ -23,7 +23,9 @@ permalink: /seasons/s11/e01/
   stone down through the squeeze to the line where their feet once stopped, and it wakes on the way, and afterwards
   the people have a name for the one who did it. Then nothing happens, and the nothing is the trouble: the Told argue
   the manners for the first time, the youngest goes up to learn how the up-people ask, and Stone-First finishes a thought
-  that was for keeping and goes to stand on the line.
+  that was for keeping and goes to stand on the line. Then the waiting: the up-people's rising sound comes down
+  through the squeeze every working time and is not answered, a small one goes up announced and stands beside
+  Stone-First, and the whole of the people learn what the waiting is for.
 </p>
 
 {% set seasonNumber = "11" %}
