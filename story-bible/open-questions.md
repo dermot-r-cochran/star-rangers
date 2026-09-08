@@ -1778,7 +1778,7 @@ the nineteenth (the register is Sapphire & Steel without the horror).
 Option 2, the casebook, was neither taken nor refused and can be drafted
 at his word. What the treatment leaves his is below.
 
-## Below the Roof, second season — `below-the-roof-second-season-treatment.md`, 8 September 2026 — OPEN
+## ~~Below the Roof, second season~~ — `below-the-roof-second-season-treatment.md`, 8 September 2026 — RULED 8 September 2026 (*approved*: every recommendation stands; drafting at his word)
 
 - **The season's number** — assign when the first chapter is drafted, in
   drafting order (recommended); Five-O's second season is also planned.
