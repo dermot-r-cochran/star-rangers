@@ -363,6 +363,15 @@ chapter images would mostly be four views of the same room.
   not scene changes. They are instructions the model cannot follow, because a
   blank certificate is not a thing it has ever seen.
 - **State the era**, or the setting defaults to contemporary Earth.
+- **No drones as set-dressing** (Dermot, 8 September 2026, `intake-2026-09-08.md`,
+  fourth section: *most AI systems and robots are not drones unless there is a
+  very good reason*). The generator reaches for hovering quadcopters and
+  floating companion-bots the moment a scene says *future* or *station*. A
+  drone goes in a prompt only when the page it illustrates has one and says
+  why; otherwise the machinery in frame is the kind that is already there —
+  fixed, built into the place, or a body shaped for its job. Negate *drone,
+  quadcopter, hovering machine* by name when the scene invites them, and
+  reject any output that adds one uninvited.
 - Small text artifacts can be fixed in-session with a targeted select-and-blur
   rather than a re-roll (worked on a garbled flight-suit name tape).
 - **Generate 4, keep 1.** Vary the seed between attempts, not the prompt;
