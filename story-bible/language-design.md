@@ -273,6 +273,41 @@ from and the strand most likely to need it next.
 
 ---
 
+## What does translate — mathematics, within the regime
+
+Dermot's question the same evening — *is mathematics universal (within each
+Metawright regime)?* — has a canon answer, and it is the one thing the
+translator's craft can lean on. The scope ladder
+(`the-scope-of-physical-law.md`) makes *provability regime-wide*: a
+Metawright settles a conceptual realm's axioms and what can be proved in
+them, every universe authored beneath that Metawright shares them, and *a
+proof carried between regimes arrives as an assertion*. Above the regime
+only Conseleme's condition holds — what any mathematics must satisfy —
+and number itself begins below the Upper Structure. So within a regime,
+mathematics is the one vocabulary two peoples share before either has
+learned a word of the other; between regimes it is not, and no instrument
+can be carried to where the comparison would be made.
+
+The record already uses this without naming it. The tell at Meridian was
+*pattern for pattern*: percussion answering test pulses in what no
+disturbed animal does. The plainmark's tally strokes carry number across
+every language on a habitat because number is not a language. The
+Chthonari reach the same theorems as Federation mathematicians through
+harmonic intuition rather than symbols — *close enough to the same fact*
+— which is the mind note's rule (a people thinks in the medium it perceives
+best) meeting the scope rule from the other side: **different routes, the
+same regime, the same proofs.** What a first contact can establish without
+a translator is that the other side counts, and what it can prove; what it
+cannot establish that way is what anything *means*, and the refusal stands
+exactly there.
+
+One caution the scope page itself supplies: *universal* has two lawful
+senses in Archive voice, universe-wide and Ensemble-wide, and regime-wide
+is neither. A page that says mathematics is *universal* is using the older
+loose word; the exact one is *regime-wide*.
+
+---
+
 ## Traps this note exists to close
 
 - **No conlang.** The record has never printed a word of any non-human
