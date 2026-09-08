@@ -100,7 +100,12 @@ Three things the strand must do, and one it must not:
   *Teddy* is speech only, and the party's fondness never becomes the
   narrator's. The facts that answer it — mass, range, eleven minutes, the
   manners — are Strand A's and Strand B does not soften them by never
-  seeing them. The cute-alien-companion pattern is a trope and refused.
+  seeing them. The cute-alien-companion pattern is a trope and refused,
+  and Dermot named the instance: **they should not look like, or ever be
+  confused with, the Ewoks of Star Wars** — in prose and in image prompts
+  alike. What keeps them clear of it is already canon: adult mass, grey,
+  upright, an alien face, and a people who argue manners and move stones,
+  not a tribe of small furred forest creatures who adopt the visitors.
 
 Who the POV heads are is his. The shape needs at least the one who speaks to
 the dark; the ruled convergence names that person *the smallest of the
