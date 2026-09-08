@@ -282,11 +282,13 @@ wants both goes.
 ## `the-told` — told.fianilchruinne.com
 
 **Registered 7 September 2026 at Dermot's ruling *new subdomain edition*,
-named the same day at his *door's name is told*; three chapters on the
-thread; live the same afternoon. Theme `pets` for now. Posture `primer`.
-Threads: the children's floor (undercover-pets) plus below-the-roof. Brand:
-The Told — the door is named for the people; the thread keeps its working
-title.**
+named the same day at his *door's name is told*; live the same afternoon.
+Theme `pets` for now. Posture `primer`. Threads: the children's floor
+(undercover-pets) plus below-the-roof. Brand: The Told — the door is named
+for the people; the thread is *Below the Roof* (ruled 8 September 2026,
+*Shape (b) agreed*). The season is complete as of 8 September: eight
+chapters in two strands, Episode 1 the deep side (five) and Episode 2 the
+survey side (three), converging on one act, two records.**
 
 **Arrives** the same age as the pets reader, or is read to at the same age —
 and wants a different thing: not a case, but a people. The child who would
@@ -311,7 +313,9 @@ behind the contrast gate. The theme audio is the
 sci-fi ambient track rather than the agency's ukulele, and a brief of its own
 is open in `music-prompts.md`.
 
-**Cast** nobody yet — the three Told with pages have no portrait, and the
+**Cast** Teddy, since his portrait was filed 7 September (#732). Stone-First
+and the survey side wait on portraits. *(Earlier text, kept for the reason:)*
+nobody yet — the three Told with pages have no portrait, and the
 validator refuses a cast it cannot render, so the homepage uses the static
 hero. Teddy first, when his portrait is filed; then Stone-First.
 

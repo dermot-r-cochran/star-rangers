@@ -172,9 +172,13 @@ The three shapes are kept in the intake as the record of the choice.
   first section): *Shape (b) agreed*. The thread is *Below the Roof*, not a
   working title; the door is *The Told*.
 
-## What happens when these are ruled
+## What happened when these were ruled
 
-Strand B's first chapter is drafted at his ask, on the shape above, with the
-convergence chapter's last scene already known. Every reading it takes is
-put as a choice in that day's intake, per the standing convention, and the
-chapter merges on his *Approved*.
+All of it, on 8 September 2026 (`intake-2026-09-08.md`, tenth to fifteenth
+sections): C04 *Waiting to Be Asked* (#748); Strand B as Episode 2 —
+S11E02C01 *Eleven Minutes* (#749), S11E02C02 *Nothing Happened* (#750);
+and the convergence as a pair, S11E01C05 *Theirs to Move* and S11E02C03
+*Something Happened* (#751). Every reading put as a choice and approved as
+drafted. The season stands complete: five chapters below, three above.
+What either people does next — whether a telling ever reaches the Archive,
+and how — is a different season's, and this note's work is done.
