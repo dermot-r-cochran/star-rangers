@@ -873,7 +873,8 @@ put as choices in the intake:
   may now be drafted at his ask. Who speaks to the dark is settled to the
   extent the shape needs (the smallest of the three); ~~naming that up-person
   is still his~~ — **RULED 8 September 2026, *The smallest one*: not Egede;
-  the survey-side name is still his** (`intake-2026-09-08.md`, second section).
+  ~~the survey-side name is still his~~ **Aravena** (ruled the same day,
+  seventh section)** (`intake-2026-09-08.md`).
 - ~~**The Fliade entry's observational sentence**~~ — **left as it stands**,
   choice (a) of the eleventh section: the sentence is about what the Archive
   holds, and the chapters carry an interior it does not. The in-story route
@@ -898,7 +899,8 @@ put as choices in the intake:
   smallest of the three, the one who knelt to the humming stone*, is also
   the one who puts the stone down at the line, and is **not Egede**; the
   record from inside cannot name them, and the survey side names them for
-  the first time — that name is his.
+  the first time — **Aravena**, ruled 8 September 2026 (`intake-2026-09-08.md`,
+  seventh section); registered on the first Strand B page that needs it.
 - **Went-Round** — a third named adult, approved 6 September with a page;
   whether the ensemble grows further, and whether the argument the chapter
   gives to nobody is ever settled among the Told, his.

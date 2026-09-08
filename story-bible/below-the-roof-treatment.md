@@ -144,8 +144,11 @@ The three shapes are kept in the intake as the record of the choice.
 - ~~**Which up-person.**~~ **RULED 8 September 2026 — *The smallest one*.**
   The smallest of the three, the one who knelt to the humming stone (C03);
   not Egede, whose note ends on *unasked*. The same person speaks to the
-  dark. The survey side names them for the first time — **the name is
-  still his** (three candidates put in the intake).
+  dark. The survey side names them for the first time — **Aravena**
+  (ruled 8 September 2026, `intake-2026-09-08.md`, seventh section): a
+  surname, no first name, no rank in the name, as Nakagawa and Egede.
+  Registered on the first Strand B page that needs it and nowhere before;
+  the record from inside never uses it.
 - **Strand B's POV heads**, beyond that one. Nakagawa is the obvious second;
   a third is not needed.
 - **How many chapters** Strand B takes to reach the line. Three matches
