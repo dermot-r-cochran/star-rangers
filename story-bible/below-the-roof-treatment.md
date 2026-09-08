@@ -149,8 +149,10 @@ The three shapes are kept in the intake as the record of the choice.
   surname, no first name, no rank in the name, as Nakagawa and Egede.
   Registered on the first Strand B page that needs it and nowhere before;
   the record from inside never uses it.
-- **Strand B's POV heads**, beyond that one. Nakagawa is the obvious second;
-  a third is not needed.
+- ~~**Strand B's POV heads**, beyond that one.~~ **RULED 8 September 2026 —
+  *Nakagawa*** (`intake-2026-09-08.md`, ninth section). Strand B's heads are
+  Aravena and Nakagawa; Egede is not a head; no third. Strand B may be
+  drafted at his ask.
 - **How many chapters** Strand B takes to reach the line. Three matches
   Strand A; the rules do not require symmetry.
 - **Whether Strand A gains a fourth chapter** (the waiting) before the
