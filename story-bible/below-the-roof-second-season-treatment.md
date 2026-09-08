@@ -216,6 +216,16 @@ Put as choices:
 
 ## What stays open — his
 
+**RULED 8 September 2026 — *approved*** (`intake-2026-09-08.md`,
+twenty-first section). Every recommendation below stands: the dormant
+gravimeter; a boundary officer called in, a new head on the survey side;
+three to five of the five candidate shadows, dark and bright both, one
+bright; the Told's word covers any shape that moves without moving a stone,
+said once by Went-Round and never glossed; a new small one as a head; the
+convergence a shadow at the line seen from both sides; the number assigned
+in drafting order. The list is kept as the record of the choice. Drafting
+still waits on his word.
+
 - **The season's number.** Seasons number globally across threads, and
   Five-O's second season is also planned. *Recommendation:* assign the
   number when the first chapter is drafted, in drafting order, and reserve
