@@ -332,6 +332,21 @@ told to them, and a person who has never been anywhere first has nothing
 that is theirs to tell. *Draft:* the youngest's whole motive, and the reason
 they go up unannounced.
 
+### Shadows — Dermot's ruling, 8 September 2026
+
+*Pandoids are wary of shadows* (`intake-2026-09-08.md`, thirteenth section),
+given while Strand B was being drafted. Two readings, both consistent with
+question 1 above, and the intake puts them as choices: (a) **a shadow is a
+thing that moves** — the fungus-light has no cycle and no source that moves,
+so nothing below the roof ever cast a moving shadow until the party's light,
+and a shape that gets up and walks across the floor is the strangest thing
+the up-people bring; (b) **a shadow is a shape without warmth** — a people
+certain of warmth-shape meets, in a membrane shadow, exactly the thing their
+sensorium cannot place (a silhouette that returns nothing on infrared), and
+Fliade sits near a boundary feature the record has not settled. S11E02C02
+takes (a) from the survey's side as Nakagawa's reading, filed; (b) is
+reserved, and would extend the Fliade entry rather than the thread.
+
 ### What a Pandoid cannot do (from the record)
 
 - **Cross the roof.** Not spacefaring; the surface is lethal.
