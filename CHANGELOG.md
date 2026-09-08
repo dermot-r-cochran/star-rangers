@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Fixed
+
+- **Six renamed or moved pages now redirect instead of returning 404** (2026-09-08, from Dermot's ask to investigate the Search Console alerts; the 19 August *Not found (404)* notice on fianilchruinne.com). The July *brane* → *membrane* rename and two later moves left old URLs dead with no stub, and the site's own git history shows exactly which: `lore/brane-shadows`, `lore/concordant-branes`, `glossary/brane-shadow`, `glossary/interbrane-bleed`, `glossary/telerarch` (the *Telearch* spelling) and `lore/cosmic-limitation-on-evil` (moved to the Codex). Each gains a redirect stub on the existing `dynarch.njk` pattern — canonical plus `noindex, follow` plus a meta refresh to the page that carries the content now. Nothing asserted about the world changes.
+
 ### Changed
 
 - **Environmental Technology Design: embodiment follows the job, and a drone is the exception** (2026-09-08, Dermot's ruling *most AI systems and robots are not drones unless there is a very good reason why a drone would be needed*, verbatim in `story-bible/intake-2026-09-08.md`, fourth section). An extension of the *AI: Present, Never Intrusive* section of [Environmental Technology Design](src/lore/environmental-technology-design.md): most lawful systems have no body of their own, the ones that do have the body the work needs, and a small free-flying machine appears only where a fixed system could not do the job — a station's outside, an ocean floor, a hull that berths on a schedule — with the record's existing drones checked against that bound and standing. The biosphere-world clause *drones that hover at the edge of notice* is the one line that does not pass on its own, and is put to Dermot as a choice rather than edited. **Ruled the same day — option 1, a clarification:** the clause is gone, the upkeep on a biosphere world is done by *the ground systems ... from where they already stand*, and the paragraph now ends *nothing announces itself as a machine, and nothing hovers*.
