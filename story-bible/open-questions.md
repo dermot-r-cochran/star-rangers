@@ -1762,3 +1762,13 @@ clarify the description to fix no era (recommended); resolve the mystery
 (a canon change, not recommended now). **Ruled minutes later: option 2** —
 the description reworded to fix no era; the archivist's in-character *this
 era's* left; the mystery stays open as July left it.
+
+## Several unsolved mysteries, not murders, just shadows — `intake-2026-09-08.md`, sixteenth section — OPEN
+
+Dermot's line after Season 11 closed (8 September 2026). Three readings put
+as choices: (1) the next season below the roof, near the boundary feature,
+taking up the reserved *shape without warmth* — recommended, at the cost of
+committing the feature to brief Class III windows; (2) a Survey Archive
+casebook of unresolved shadow cases, no canon moved; (3) a standing
+direction that the work's mysteries are shadow-shaped, never crime-shaped.
+Awaiting his ruling; a treatment follows it.
