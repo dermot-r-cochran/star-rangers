@@ -907,3 +907,14 @@ round's variants are kept in `image-out/characters-teddy/round<n>/`.
 and negating an animal by name does not move it; only a positive build did.
 When canon gives no body, ask for one positive shape before spending rounds
 on negatives.
+
+**Standing rule for every Pandoid image, from Dermot, 8 September 2026**
+(`intake-2026-09-08.md`, third section): *should not look like or ever be
+confused with the Ewoks of Star Wars*. Before filing any Pandoid output, check
+it against that silhouette — small, round, furred, hooded, a forest creature
+that could be a mascot — and reject on sight. The lesson above is how to stay
+clear of it: do not negate *Ewok* or *teddy bear* by name, state the positive
+build the record gives — adult mass, grey, upright, heavy through the
+shoulder, an alien face with no snout and no button features — and keep the
+fungus-lit cavern, not a forest. Teddy is the smallest of his people and is
+still nobody's toy.
