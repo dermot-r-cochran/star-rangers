@@ -1763,7 +1763,7 @@ clarify the description to fix no era (recommended); resolve the mystery
 the description reworded to fix no era; the archivist's in-character *this
 era's* left; the mystery stays open as July left it.
 
-## Several unsolved mysteries, not murders, just shadows — `intake-2026-09-08.md`, sixteenth section — OPEN
+## ~~Several unsolved mysteries, not murders, just shadows~~ — `intake-2026-09-08.md`, sixteenth section — RULED 8 September 2026
 
 Dermot's line after Season 11 closed (8 September 2026). Three readings put
 as choices: (1) the next season below the roof, near the boundary feature,
@@ -1771,7 +1771,31 @@ taking up the reserved *shape without warmth* — recommended, at the cost of
 committing the feature to brief Class III windows; (2) a Survey Archive
 casebook of unresolved shadow cases, no canon moved; (3) a standing
 direction that the work's mysteries are shadow-shaped, never crime-shaped.
-Awaiting his ruling; a treatment follows it.
+**Ruled the same evening: option 1 accepted, and option 3 preferred to
+murder mysteries** — refined by the eighteenth section (minor crime goes
+on; local detectives are the entry point; the Rangers are called in) and
+the nineteenth (the register is Sapphire & Steel without the horror).
+Option 2, the casebook, was neither taken nor refused and can be drafted
+at his word. What the treatment leaves his is below.
+
+## Below the Roof, second season — `below-the-roof-second-season-treatment.md`, 8 September 2026 — OPEN
+
+- **The season's number** — assign when the first chapter is drafted, in
+  drafting order (recommended); Five-O's second season is also planned.
+- **The instrument** — a dormant cross-membrane gravimeter whose log nobody
+  reads (recommended), or none.
+- **A boundary officer called in**, and a new head on the survey side
+  (recommended), or Nakagawa reading the literature alone.
+- **Which shadows, and how many** — three to five of the five candidates,
+  or others; and whether dark, bright or both (both recommended, one
+  bright).
+- **The Told's word** — whether it covers any shape that moves without
+  moving a stone (recommended: yes, once, in Went-Round's mouth).
+- **A new small one as a head.**
+- **The convergence** — a shadow at the line seen from both sides
+  (recommended); no convergence; or the officer's arrival read from below.
+- From the eighteenth section: whether Five-O's second season carries the
+  handover beat, and who on the Rangers' side is the one called in.
 
 ## Language design — `language-design.md`, written 8 September 2026 at Dermot's line (`intake-2026-09-08.md`, seventeenth section) — OPEN
 
