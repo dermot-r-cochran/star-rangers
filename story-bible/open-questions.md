@@ -1810,14 +1810,23 @@ on the Branch's failure modes is wanted (reading 2)~~ — **ruled 8 September
 document `xenolinguistics-handbook-failure-modes.md` (twenty-seventh
 section).**
 
-## The Rangers, branch by branch — `intake-2026-09-10.md`, first section — OPEN
+## The Rangers, branch by branch — `intake-2026-09-10.md`, first section — CLOSED
 
 Ruled 10 September 2026 and realized as a clarification on the rank page and the
-Frontier Corps entry. One reading taken and put to him as two shapes: **whether
-*military police* names the Provost Corps' function and not a status** (taken,
-recommended — the only reading on which *except the Provost Corps* and *no
-branch is military* both hold), or whether the Provost Corps carries some status
-the other branches do not, in which case what it is needs his words.
+Frontier Corps entry. ~~Whether *military police* names the Provost Corps'
+function and not a status~~ — **ruled the same day, *Option (a) for the Provost
+Corps*: function, not status.**
+
+## Dock Seven's cause — `intake-2026-09-10.md`, sixth section — OPEN
+
+Ruled 10 September 2026 (*the Wrath of the Dragons happened because the Star
+Rangers could not physically force a rival organisation to respect the safety of
+meta-dimensional fauna*) and realized on the Combine and fold-transit pages. Two
+readings taken and put as choices: **that the rival organisation is the
+Hyperfold Yield Combine** — (a) confirm (recommended); (b) another organisation
+not on the record, new history — and **that the name here means Dock Seven** —
+(a) confirm (recommended); (b) the older founding sequence, which would put the
+Rangers and a rival before 2831.
 
 ## Vigil and the Gendarmerie, compared — `intake-2026-09-10.md`, second and third sections — OPEN
 
@@ -1844,7 +1853,11 @@ Ruled 10 September 2026 and realized on the uniform page. Open from it:
 
 - **The medium of each people's uniform equivalent** — shapes per species in
   `species-design.md`; none asserted until a page needs one.
-- **The Liaison Corps reading** — a Planetary Representative acting as one is
-  in uniform; taken, since *no plain clothes ranks or roles* admits no other,
-  and flagged because the Liaison page had implied otherwise.
+- **The Liaison Corps as the one exception** — Dermot, same day, seventh
+  section: *might be*, noting Catherine Galen's uniform. Shapes: (a) by
+  posting — a resident Planetary Representative wears the uniform when acting
+  for the Corps and lives out of it otherwise; a liaison at a Corps posting,
+  Galen included, is in uniform on duty (recommended, realized pending his
+  word); (b) the whole corps, gate liaisons included — contradicted by Galen's
+  page; (c) no exception.
 
