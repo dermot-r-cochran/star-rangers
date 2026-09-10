@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Home"
-description: "Fian Ilchruinne — an interactive science-fantasy novel grounded in speculative cosmology. One canonical history across the Five Layers, multiple Concordants, and multiple points of view."
+description: "Fian Ilchruinne — a multi-viewpoint novel of hard science fiction with one licensed deviation. One canonical history across the Five Layers, multiple Concordants, and multiple points of view."
 ---
 {%- set heroCharacters = collections.characters | charactersByIds(edition.heroCharacterIds) | withImages -%}
 <section class="home-hero">
