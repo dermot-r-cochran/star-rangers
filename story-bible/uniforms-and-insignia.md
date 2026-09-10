@@ -235,7 +235,11 @@ something that contradicts the entry.
 
 **Canon, from `s05e02c01`** — one scene, but a precise one.
 
-They are a **ceremonial escort** of Tír na nÓg's uplands. Union protocol assigns
+They are a **ceremonial escort** of Tír na nÓg's uplands, and — canon since
+10 September 2026, Dermot: *Highland Guard is part of the ceremonial
+military* — a body of the Celtic Union's mostly ceremonial military, beside
+the Garda an Uachtaráin, which is that military's one standing
+non-ceremonial formation. Union protocol assigns
 a Highland Guard honour escort to any Star Ranger on personal leave within Union
 territory, from arrival until Ranger-cleared transit off-world. The escort is
 *"a courtesy owed the Union's own charter, not a comment on the individual

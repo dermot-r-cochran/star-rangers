@@ -1884,7 +1884,10 @@ Seanad, neither holding power; the Garda an Uachtaráin the one standing
 formation of the mostly ceremonial military; the standard Irish spellings with
 fadas. Left unestablished on purpose: what the Seanad does beyond ceremony and
 how it is seated, succession and term, where either sits, where the unit's
-members come from, whether the Highland Guard belongs to the same military.
+members come from. ~~Whether the Highland Guard belongs to the same military~~
+— **ruled the same day, twenty-fourth section: *Highland Guard is part of the
+ceremonial military*.** Still unestablished: whether the Guard is the whole of
+that military or a body within it, and whether it is raised on one world or six.
 
 ## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — CLOSED, one item open
 
