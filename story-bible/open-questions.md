@@ -1865,10 +1865,11 @@ Ruled 10 September 2026 and realized on the uniform page. Open from it:
 ## The militaries — `intake-2026-09-10.md`, eleventh section — OPEN
 
 Ruled 10 September 2026 and realized on the rank page and three polity pages.
-Open from it: **that *Solar System Compact* means the Solar System under the
-Concord's framework, whose military is the SSDC** — (a) confirm (recommended);
-(b) the Orbital Habitats Compact, giving the five habitats a military of their
-own, new; **how the Federation of Sentient Beings holds a military** with no
-central authority — marked absent, a shape when a page needs one; **what the
-Celtic Union's non-ceremonial remainder is** — marked absent.
+~~That *Solar System Compact* means the Solar System under the Concord's
+framework~~ — **confirmed the same day, fourteenth section: *Solat System
+Concord*.** ~~How the Federation of Sentient Beings holds a military~~ —
+**ruled the same day, fifteenth section: *a bit like UNIFIL* — contingents
+from member worlds under an agreed mandate, an appointed commander, no standing
+force, interposition not conquest.** Still open: **what the Celtic Union's
+non-ceremonial remainder is** — marked absent.
 
