@@ -253,6 +253,57 @@ distinct histories, rather than five body plans with the same story attached.
   everyone around it, or the difference reads as a disability rather than a
   different world.
 
+## The uniform equivalent (Dermot's direction, 10 September 2026)
+
+*"Aliens have uniform equivalents"* (`intake-2026-09-10.md`, fourth
+section), on the day the Rangers' uniform was given its reason — the
+hospital's: a mark a stranger in a working place reads to know who does
+what, built for the work, announcing a function and not a claim on anyone.
+That adds one question to the ones above that decide a body, and it is a
+question about the *medium*, since the job is universal and the form is
+each people's own. `src/lore/rank-insignia-and-uniform.md` now says this
+generally and asserts nothing per species; this is where the per-species
+answer gets derived when a page needs it. Nothing below is canon.
+
+- **Krenyi** — a clothed, humanoid, calendar-keeping people; cloth and a
+  worn mark are available and would be the boring answer. Shapes: (a) worn
+  marks of their own grammar, deliberately unlike the Rangers' geometry;
+  (b) a mark carried in the calendar-keeping itself — what a Krenyi
+  officer is, told by which count she keeps.
+- **Pelagene Littoral** — an ocean people; cloth is a poor medium in water.
+  Shapes: (a) colour or pattern on the body, controllable, as some
+  cephalopods have; (b) a carried object that reads in the water — a
+  sound-maker, a tool worn where it can be seen.
+- **Veyr Basaltborn** — shapes: (a) a mark worked into the body's own
+  surface; (b) a worn plate, on the Rangers' own magnetic principle,
+  which would explain why the Veyr took to the Rangers' tab standard
+  easily.
+- **Serephine Dunekin** — a scout people; shapes: (a) posture or gait —
+  a role told by how a body carries itself, which a desert people who
+  read distance would find natural; (b) a worn mark.
+- **Chthonari** — thought as the Undersong (`mind-design.md`); the obvious
+  medium is sound. Shapes: (a) a role carried as a standing tone or a
+  phrase in the Undersong, so that who does what is heard, not seen;
+  (b) nothing — a people who cannot read one another needing no mark, and
+  saying so.
+- **Verdani** — the lore page notes strain-linked coloration; that is
+  biology, not a mark, and must not be conscripted as one. Shapes: (a) a
+  worn or grown token, distinct from strain colour; (b) an absence, with
+  the reason stated.
+- **The Told** — read the three Below the Roof chapters before claiming
+  anything: a people whose names are tellings may carry role the same
+  way, and a visual mark for a deep-side people is the first thing to
+  doubt. Shapes: (a) a role is told, not shown; (b) nothing yet, absence
+  marked.
+- **Pandoids** — the Fliade entry and Teddy's page describe an observational
+  register; nothing about marks. Absence marked.
+
+Rule for using this list: pick a shape only in the page that needs it, in
+that page's own voice, and log the pick in the canonical guide if it coins
+a term. A people whose equivalent is *nothing* is a valid answer and an
+interesting one, and the lore page's *"does not guess"* line is there to
+keep it available.
+
 ## Where this goes
 
 Each species that gets a body plan gets a lore page on the pattern of

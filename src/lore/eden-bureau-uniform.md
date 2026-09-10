@@ -11,7 +11,7 @@ A [Star Ranger's uniform](/star-rangers/lore/rank-insignia-and-uniform/) is buil
 
 ## Who Has to Wear It
 
-[Eden Space Habitat](/star-rangers/lore/eden-space-habitat/)'s civil detective bureau, under Detective Superintendent [Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), is a uniformed service, and the uniform carries rank marks in plain view.
+[Eden Space Habitat](/star-rangers/lore/eden-space-habitat/)'s civil detective bureau, under Detective Superintendent [Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), is a uniformed service, and the uniform carries rank marks in plain view. That is the bureau's own working rule and not a [Compact](/star-rangers/lore/orbital-habitats-compact/) requirement — the Compact sets none on any habitat's bureau — and, as the rest of this entry sets out, whether a given detective is wearing it on a given day depends on the role and on the case.
 
 It is a working garment rather than a dress one: a plain single-breasted jacket over ordinary clothing, cut for a long shift and issued in one colour, with the rank mark seated at the collar. Nobody in the bureau parades in it and nothing about it is ceremonial. What it does is answer a question before it is asked.
 

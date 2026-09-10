@@ -47,7 +47,7 @@ The [Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/) is th
 
 ## The Wrath of the Dragons
 
-The devotional name attached first to a particular sequence of losses and has since been extended by ordinary usage to the whole class. It is the name most people in settled space actually reach for, and it long predates any of the standards work above.
+The devotional name attached first to a particular sequence of losses and has since been extended by ordinary usage to the whole class. It is the name most people in settled space actually reach for, and it long predates any of the standards work above. Since 2831 UCSD the event most people mean by it is [Dock Seven](/star-rangers/lore/hyperfold-yield-combine/), whose nine gallery witnesses supplied the word without being asked — and whatever answered the intrusion there, the record is plain about why there was an intrusion to answer: a licensed concern that the Rangers, holding no power to compel and built to hold none, could not make respect the safety of the fauna it was rendering.
 
 The reading behind it is not naive, and the Archive's file is careful to say so. [Dragons are low-ranking Levrils](/star-rangers/glossary/levril/) — a [Cascade](/star-rangers/lore/cosmic-cascade/) tier that genuinely acts, in Material time, on Material things. Agency is therefore available to the devotional account without any special pleading at all, which is exactly what makes the argument survive. A tradition holding that something with standing was angered, and that the losses followed, is making a claim its own cosmology licenses.
 

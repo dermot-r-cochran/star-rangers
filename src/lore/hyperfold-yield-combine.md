@@ -50,6 +50,8 @@ The Archive holds three irreconcilable accounts of what did it, and does not adj
 
 All three agree on the sequence and on the outcome. What ended the Combine is disputed. That it ended is not.
 
+Settled space mostly files the event under the older devotional name, [the Wrath of the Dragons](/star-rangers/lore/fold-transit-catastrophic-failure/#the-wrath-of-the-dragons), on the strength of nine witnesses who used the word unprompted. What the Corps teaches from it sits above the three readings rather than among them, and every one of the three starts from it: the event could happen because the one body competent to judge the operation could not physically stop it. The Rangers hold no means of compulsion in open space — no warfighting mandate, no police power beyond the Frontier's caretaker worlds, [no branch that is military](/star-rangers/lore/star-rangers-command-hierarchy/) — and are built not to; what they wanted respected was the safety of animals the law gave no standing, and wanting it was the whole of what they had. A finding was the one instrument on the table, and the officer preparing it stayed.
+
 ## What is still open
 
 Two things, and neither is the one people expect.

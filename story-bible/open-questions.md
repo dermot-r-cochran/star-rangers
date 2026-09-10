@@ -1809,3 +1809,76 @@ on the Branch's failure modes is wanted (reading 2)~~ — **ruled 8 September
 2026, *Xenolinguistics Handbook as a public page*: drafted as the Codex
 document `xenolinguistics-handbook-failure-modes.md` (twenty-seventh
 section).**
+
+## The Rangers, branch by branch — `intake-2026-09-10.md`, first section — CLOSED
+
+Ruled 10 September 2026 and realized as a clarification on the rank page and the
+Frontier Corps entry. ~~Whether *military police* names the Provost Corps'
+function and not a status~~ — **ruled the same day, *Option (a) for the Provost
+Corps*: function, not status.**
+
+## Dock Seven's cause — `intake-2026-09-10.md`, sixth section — CLOSED
+
+Ruled 10 September 2026 (*the Wrath of the Dragons happened because the Star
+Rangers could not physically force a rival organisation to respect the safety of
+meta-dimensional fauna*) and realized on the Combine and fold-transit pages.
+~~That the rival organisation is the Hyperfold Yield Combine, and that the name
+here means Dock Seven~~ — **both confirmed the same day, twelfth section:
+*Hypefold Combine and Dock 7 confirmed*.**
+
+## Vigil and the Gendarmerie, compared — `intake-2026-09-10.md`, second and third sections — OPEN
+
+Two comparisons at his ask, canon unmoved. Open from them:
+
+- **Who holds the file when an offence happens aboard a Ranger vessel docked
+  at, or a Ranger post inside, a self-governing habitat** — (a) Ranger ground
+  wherever it is, the Provost track investigates and the bureau comes aboard
+  by the captain's invitation (recommended, the charter's rule mirrored);
+  (b) docked means inside, the bureau holds it; (c) a joint instrument per
+  habitat.
+- **What Five-O borrows from the Gendarmerie** — (a) nothing, it stays a
+  civil, offence-defined task force with no ground of its own (recommended);
+  (b) the territorial half, a beat in the corridors and docks no bureau
+  holds; (c) the status half, not recommended.
+- ~~**Whether Five-O is uniformed**~~ — **ruled 10 September 2026, tenth
+  section: *Five-O does have uniforms unlike its Hawaiian namesake*.** Design
+  unstated.
+- **Who directs a Five-O inquiry and who issues a Compact warrant** — a marked
+  absence until a chapter needs it.
+
+## The uniform, and its equivalents — `intake-2026-09-10.md`, fourth section — OPEN
+
+Ruled 10 September 2026 and realized on the uniform page. Open from it:
+
+- **The medium of each people's uniform equivalent** — shapes per species in
+  `species-design.md`; none asserted until a page needs one.
+- ~~**The Liaison Corps as the one exception**~~ — **ruled 10 September
+  2026, eighth section: *Option A for planetary reps*.** By posting: a resident
+  Planetary Representative wears the uniform when acting for the Corps and
+  lives out of it otherwise; a liaison at a Corps posting is in uniform.
+- ~~**Local habitat detectives and the 19 August Eden ruling**~~ — **ruled
+  10 September 2026, thirteenth section: *local uniform depends on role and
+  case*.** Not a bureau-level choice: inside every bureau the garment follows
+  the role and the case, which is the 19 August page's own pattern; the
+  Compact sets no requirement beneath it.
+
+## The militaries — `intake-2026-09-10.md`, eleventh section — OPEN
+
+Ruled 10 September 2026 and realized on the rank page and three polity pages.
+~~That *Solar System Compact* means the Solar System under the Concord's
+framework~~ — **confirmed the same day, fourteenth section: *Solat System
+Concord*.** ~~How the Federation of Sentient Beings holds a military~~ —
+**ruled the same day, fifteenth section: *a bit like UNIFIL* — contingents
+from member worlds under an agreed mandate, an appointed commander, no standing
+force, interposition not conquest.** Still open: **what the Celtic Union's
+non-ceremonial remainder is** — marked absent.
+
+## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — OPEN
+
+Dermot wrote *Solar System Defense Command*; the record spells it *Defence* in
+34 files and *Defense* in none. (a) Keep *Defence*, the house spelling, and
+correct the founding page's two lower-case *defense* instances as a mechanical
+fix (recommended); (b) migrate the proper name to *Defense* across the record
+with a migration-map row, as a deliberate in-world choice needing a stated
+reason.
+

@@ -26,6 +26,8 @@ Member and subject worlds outside the Hegemony's own species do not get a vote o
 
 [Meridian](/star-rangers/lore/planets/meridian/), a biosphere world whose native crustacean population predates Cerebraun contact, is administered on exactly these terms: local self-governance under a resident Administrator-Voice, with ultimate authority resting in the Prime Ganglion's council chamber rather than on Meridian itself.
 
+The Hegemony keeps a military of its own, under the same single authority as everything else it keeps.
+
 ## What Unambiguous Authority Costs the Official Holding It
 
 The structure's price is paid downward, and it is worth stating precisely, because "centralised authority" is usually read as a description of who is comfortable. A Hegemony administrator who authorises the reversal of a settled classification carries personal accountability for that reversal under Prime Ganglion review — **independent of whether the reversal is later shown to be correct.** Being right is not a defence. It was not the finding that was delegated to them; it was the decision to unsettle something already filed.
