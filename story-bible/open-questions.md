@@ -1817,16 +1817,14 @@ Frontier Corps entry. ~~Whether *military police* names the Provost Corps'
 function and not a status~~ — **ruled the same day, *Option (a) for the Provost
 Corps*: function, not status.**
 
-## Dock Seven's cause — `intake-2026-09-10.md`, sixth section — OPEN
+## Dock Seven's cause — `intake-2026-09-10.md`, sixth section — CLOSED
 
 Ruled 10 September 2026 (*the Wrath of the Dragons happened because the Star
 Rangers could not physically force a rival organisation to respect the safety of
-meta-dimensional fauna*) and realized on the Combine and fold-transit pages. Two
-readings taken and put as choices: **that the rival organisation is the
-Hyperfold Yield Combine** — (a) confirm (recommended); (b) another organisation
-not on the record, new history — and **that the name here means Dock Seven** —
-(a) confirm (recommended); (b) the older founding sequence, which would put the
-Rangers and a rival before 2831.
+meta-dimensional fauna*) and realized on the Combine and fold-transit pages.
+~~That the rival organisation is the Hyperfold Yield Combine, and that the name
+here means Dock Seven~~ — **both confirmed the same day, twelfth section:
+*Hypefold Combine and Dock 7 confirmed*.**
 
 ## Vigil and the Gendarmerie, compared — `intake-2026-09-10.md`, second and third sections — OPEN
 
