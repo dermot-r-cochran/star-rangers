@@ -1818,3 +1818,33 @@ Frontier Corps entry. One reading taken and put to him as two shapes: **whether
 recommended — the only reading on which *except the Provost Corps* and *no
 branch is military* both hold), or whether the Provost Corps carries some status
 the other branches do not, in which case what it is needs his words.
+
+## Vigil and the Gendarmerie, compared — `intake-2026-09-10.md`, second and third sections — OPEN
+
+Two comparisons at his ask, canon unmoved. Open from them:
+
+- **Who holds the file when an offence happens aboard a Ranger vessel docked
+  at, or a Ranger post inside, a self-governing habitat** — (a) Ranger ground
+  wherever it is, the Provost track investigates and the bureau comes aboard
+  by the captain's invitation (recommended, the charter's rule mirrored);
+  (b) docked means inside, the bureau holds it; (c) a joint instrument per
+  habitat.
+- **What Five-O borrows from the Gendarmerie** — (a) nothing, it stays a
+  civil, offence-defined task force with no ground of its own (recommended);
+  (b) the territorial half, a beat in the corridors and docks no bureau
+  holds; (c) the status half, not recommended.
+- **Whether Five-O is uniformed** — (a) yes, on the Eden bureau's reasoning
+  (recommended); (b) no, working dress only.
+- **Who directs a Five-O inquiry and who issues a Compact warrant** — a marked
+  absence until a chapter needs it.
+
+## The uniform, and its equivalents — `intake-2026-09-10.md`, fourth section — OPEN
+
+Ruled 10 September 2026 and realized on the uniform page. Open from it:
+
+- **The medium of each people's uniform equivalent** — shapes per species in
+  `species-design.md`; none asserted until a page needs one.
+- **The Liaison Corps reading** — a Planetary Representative acting as one is
+  in uniform; taken, since *no plain clothes ranks or roles* admits no other,
+  and flagged because the Liaison page had implied otherwise.
+

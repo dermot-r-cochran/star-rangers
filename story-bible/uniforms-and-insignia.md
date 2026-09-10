@@ -55,6 +55,19 @@ the hierarchy down*.
 For a prompt, that means: **functional, matte, unornamented, and slightly
 austere.** No braid, no epaulettes, no ribbon-bar clutter, nothing gold.
 
+**The reason, in Dermot's words (10 September 2026, `intake-2026-09-10.md`,
+fourth section): *Star Rangers have uniforms for the same reason as hospital
+staff do, except there are no plain clothes ranks or roles.*** Read for role
+by colleagues, built for the work, announcing a function and not a claim on
+anyone — and worn by every rank and every role on duty, Provost and Liaison
+included, with no undercover arm and no exemption for seniority. For a
+prompt: **a Ranger on duty is never in civilian dress**, whatever the rank or
+the corps; a Ranger in ordinary clothes is a Ranger off duty, and the prompt
+should say so. *Aliens have uniform equivalents* (same direction): the
+medium per species is open — `species-design.md` carries the shapes — so
+prompt an alien Ranger in the Rangers' shell and tabs, and prompt an alien
+in their own service with no invented insignia until a page has chosen one.
+
 ## Hard constraints — do not violate these
 
 - **No faction crest, no world-of-origin flag, no national emblem of any kind.**
