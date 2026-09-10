@@ -1834,9 +1834,9 @@ Two comparisons at his ask, canon unmoved. Open from them:
   at, or a Ranger post inside, a self-governing habitat**~~ — **ruled 10
   September 2026, twentieth section: *Star Rangers have diplomatic immunity
   and therefore under provost jurisdiction unless expelled*.** The Provost's,
-  wherever the officer is; the polity's remedy is expulsion. One reading
-  open: which *expelled* — (a) the polity's, hospitality withdrawn
-  (recommended); (b) the Corps', dismissal ending the shield; both written.
+  wherever the officer is; the polity's remedy is expulsion. ~~Which
+  *expelled*~~ — **ruled the same day (*3 a*): the polity's**; the dismissal
+  sentence stays as a consequence.
 - **What Five-O borrows from the Gendarmerie** — (a) nothing, it stays a
   civil, offence-defined task force with no ground of its own (recommended);
   (b) the territorial half, a beat in the corridors and docks no bureau
@@ -1875,20 +1875,16 @@ force, interposition not conquest.** ~~Still open: what the Celtic Union's
 non-ceremonial remainder is~~ — **named 10 September 2026, eighteenth section:
 the Garda an Uachtaráin**, pending the readings below.
 
-## The Uachtarán and the Garda an Uachtaráin — `intake-2026-09-10.md`, eighteenth section — OPEN
+## The Uachtarán, the Seanad and the Garda an Uachtaráin — `intake-2026-09-10.md`, eighteenth to twenty-second sections — CLOSED
 
-Dermot: *Celtic Union presidential protection unit Garda an Uchtarain*.
-Realized in the recommended shapes. ~~What the Uachtarán is~~ — **ruled the
-same day, twenty-first section: *ceremonial president of Celtic union with
-ceremonial seanad*** — a ceremonial head of state beside a ceremonial Seanad,
-neither holding power; what the Seanad does beyond ceremony and how it is
-seated are left unestablished. Still his: **where the unit
-sits** — (a) the one standing formation of the mostly ceremonial military
-(recommended); (b) seconded from member worlds' services; (c) a Union police,
-ruled out by the charter; **the spelling** — (a) *Garda an Uachtaráin* and *Seanad* with the
-fadas (recommended); (b) *Uchtarain* and *seanad* as written. Left unestablished on purpose:
-succession and term, where members come from, where the Uachtarán sits, whether
-the Highland Guard belongs to the same military.
+Dermot: *Celtic Union presidential protection unit Garda an Uchtarain*, then
+*ceremonial president of Celtic union with ceremonial seanad*, then *1 a 2 a
+3 a*. All ruled the same day: a ceremonial Uachtarán beside a ceremonial
+Seanad, neither holding power; the Garda an Uachtaráin the one standing
+formation of the mostly ceremonial military; the standard Irish spellings with
+fadas. Left unestablished on purpose: what the Seanad does beyond ceremony and
+how it is seated, succession and term, where either sits, where the unit's
+members come from, whether the Highland Guard belongs to the same military.
 
 ## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — CLOSED, one item open
 
