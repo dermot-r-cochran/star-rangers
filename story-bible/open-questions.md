@@ -1809,3 +1809,12 @@ on the Branch's failure modes is wanted (reading 2)~~ — **ruled 8 September
 2026, *Xenolinguistics Handbook as a public page*: drafted as the Codex
 document `xenolinguistics-handbook-failure-modes.md` (twenty-seventh
 section).**
+
+## The Rangers, branch by branch — `intake-2026-09-10.md`, first section — OPEN
+
+Ruled 10 September 2026 and realized as a clarification on the rank page and the
+Frontier Corps entry. One reading taken and put to him as two shapes: **whether
+*military police* names the Provost Corps' function and not a status** (taken,
+recommended — the only reading on which *except the Provost Corps* and *no
+branch is military* both hold), or whether the Provost Corps carries some status
+the other branches do not, in which case what it is needs his words.
