@@ -24,11 +24,11 @@ Three pressures converged in the decade after the *Constant Margin* expedition.
 
 The decisive public event was the Outer Stations Consolidation Hearing of 2719 UCSD, called to assess the MSC's operational adequacy across deep-range and boundary-proximate installations. See [The Volunteered Word (S00E02C02)](/star-rangers/seasons/s00/e02/s00e02c02/) for the session itself.
 
-There General Maren Solveig Krast delivered the line that outlived her defense:
+There General Maren Solveig Krast delivered the line that outlived her defence:
 
 > "We tried democracy. The result was forty years of the Coherence Wars and three billion dead. I would rather be called a tyrant than repeat the experiment."
 
-Krast intended the statement as a defense of technocratic command. Inside her framework, it was coherent. The Coherence Wars had been catastrophic, and the MSC had genuinely stabilized the system that followed.
+Krast intended the statement as a defence of technocratic command. Inside her framework, it was coherent. The Coherence Wars had been catastrophic, and the MSC had genuinely stabilized the system that followed.
 
 What she did not foresee was that three civilian observers were recording for public release, that the quote would appear across twenty-seven outer-station news services within forty-eight hours, and that the volunteered word *tyrant* would do more political work than any rebuttal could undo.
 

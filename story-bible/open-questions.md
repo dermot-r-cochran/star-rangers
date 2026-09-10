@@ -1873,12 +1873,12 @@ from member worlds under an agreed mandate, an appointed commander, no standing
 force, interposition not conquest.** Still open: **what the Celtic Union's
 non-ceremonial remainder is** — marked absent.
 
-## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — OPEN
+## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — CLOSED, one item open
 
-Dermot wrote *Solar System Defense Command*; the record spells it *Defence* in
-34 files and *Defense* in none. (a) Keep *Defence*, the house spelling, and
-correct the founding page's two lower-case *defense* instances as a mechanical
-fix (recommended); (b) migrate the proper name to *Defense* across the record
-with a migration-map row, as a deliberate in-world choice needing a stated
-reason.
+~~Keep *Defence* or migrate to *Defense*~~ — **ruled the same day, seventeenth
+section: *Keep Defence, fix the two defense typos*.** The founding page's two
+are fixed. Still open: five more lower-case *defense* in prose (S00E02C02's
+description and a canon fact, S02E01C02, S01E03C01, the 2719 hearing timeline
+entry, `story-bible-summary.md`) — (a) sweep them in the same mechanical tier
+(recommended); (b) leave them.
 
