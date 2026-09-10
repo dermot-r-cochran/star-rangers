@@ -1830,12 +1830,13 @@ here means Dock Seven~~ — **both confirmed the same day, twelfth section:
 
 Two comparisons at his ask, canon unmoved. Open from them:
 
-- **Who holds the file when an offence happens aboard a Ranger vessel docked
-  at, or a Ranger post inside, a self-governing habitat** — (a) Ranger ground
-  wherever it is, the Provost track investigates and the bureau comes aboard
-  by the captain's invitation (recommended, the charter's rule mirrored);
-  (b) docked means inside, the bureau holds it; (c) a joint instrument per
-  habitat.
+- ~~**Who holds the file when an offence happens aboard a Ranger vessel docked
+  at, or a Ranger post inside, a self-governing habitat**~~ — **ruled 10
+  September 2026, twentieth section: *Star Rangers have diplomatic immunity
+  and therefore under provost jurisdiction unless expelled*.** The Provost's,
+  wherever the officer is; the polity's remedy is expulsion. One reading
+  open: which *expelled* — (a) the polity's, hospitality withdrawn
+  (recommended); (b) the Corps', dismissal ending the shield; both written.
 - **What Five-O borrows from the Gendarmerie** — (a) nothing, it stays a
   civil, offence-defined task force with no ground of its own (recommended);
   (b) the territorial half, a beat in the corridors and docks no bureau
@@ -1877,13 +1878,15 @@ the Garda an Uachtaráin**, pending the readings below.
 ## The Uachtarán and the Garda an Uachtaráin — `intake-2026-09-10.md`, eighteenth section — OPEN
 
 Dermot: *Celtic Union presidential protection unit Garda an Uchtarain*.
-Realized in the recommended shapes, each still his: **what the Uachtarán is** —
-(a) the rotating council's presiding member, non-executive (recommended);
-(b) an executive president, a reversal of the Union page; **where the unit
+Realized in the recommended shapes. ~~What the Uachtarán is~~ — **ruled the
+same day, twenty-first section: *ceremonial president of Celtic union with
+ceremonial seanad*** — a ceremonial head of state beside a ceremonial Seanad,
+neither holding power; what the Seanad does beyond ceremony and how it is
+seated are left unestablished. Still his: **where the unit
 sits** — (a) the one standing formation of the mostly ceremonial military
 (recommended); (b) seconded from member worlds' services; (c) a Union police,
-ruled out by the charter; **the spelling** — (a) *Garda an Uachtaráin* with the
-fadas (recommended); (b) *Uchtarain* as written. Left unestablished on purpose:
+ruled out by the charter; **the spelling** — (a) *Garda an Uachtaráin* and *Seanad* with the
+fadas (recommended); (b) *Uchtarain* and *seanad* as written. Left unestablished on purpose:
 succession and term, where members come from, where the Uachtarán sits, whether
 the Highland Guard belongs to the same military.
 
@@ -1891,8 +1894,6 @@ the Highland Guard belongs to the same military.
 
 ~~Keep *Defence* or migrate to *Defense*~~ — **ruled the same day, seventeenth
 section: *Keep Defence, fix the two defense typos*.** The founding page's two
-are fixed. Still open: five more lower-case *defense* in prose (S00E02C02's
-description and a canon fact, S02E01C02, S01E03C01, the 2719 hearing timeline
-entry, `story-bible-summary.md`) — (a) sweep them in the same mechanical tier
-(recommended); (b) leave them.
+are fixed. ~~Five more lower-case *defense* in prose~~ — **swept the same day, nineteenth
+section: *Sweep the typos*.** The changelog's released sections keep theirs.
 

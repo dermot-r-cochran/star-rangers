@@ -87,12 +87,12 @@ The listing above is the spine, and it is *mostly* hierarchical — with two mat
 - **Notes:** This is why *Concordant* now has exactly one live sense. The compact is the **Concord**; its era and civilization take the same word (**Concord-wide**, **the Concord period**); the zone above keeps **Concordant**. Do not write "Solar System Concordant" for present-day usage.
 - **Dating rule:** Pre-2790 documents carry the founding name correctly and are quoted as written, not corrected — the Star Rangers' 2723 charter preamble ("the limits of Solar System Concordant coherence") is the standing example. Post-2790 usage of the old name is an error.
 
-### Uachtarán / Garda an Uachtaráin (settled 2026-09-10)
+### Uachtarán / Seanad / Garda an Uachtaráin (settled 2026-09-10)
 - **Layer:** Institution (In-Universe, Celtic Union of Planets)
-- **Definition:** The **Uachtarán** — *President*, in Irish — is the presiding member of the Celtic Union's rotating council and the nearest thing the Union has to a head of state: presiding and representative, never executive, since the charter has no Union-wide executive. The **Garda an Uachtaráin** — *the President's Guard* — is the Union's presidential protection unit, the one standing formation of a mostly ceremonial military. Reader-facing entry: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/).
-- **The name:** Irish. *Uachtarán* (president), genitive *an Uachtaráin*; both written with their fadas. Dermot's direction of 2026-09-10 wrote *Garda an Uchtarain*; the standard spelling is adopted and flagged in `story-bible/intake-2026-09-10.md`.
-- **Notes:** Not a Union police — the charter leaves law to each member world, and Tír na nÓg's Gardaí are that world's own service — and not the Highland Guard's honour escort, which is ceremony under Union protocol. The Garda an Uachtaráin protects one office and polices nobody. Succession to the office, term, and where the unit's members are drawn from: not established.
-- **Dating rule:** No founding date on record. Pre-reconnection Union documents are quoted as written.
+- **Definition:** The **Uachtarán** — *President*, in Irish — is the Celtic Union's ceremonial head of state; the **Seanad** — *Senate* — is its ceremonial upper house. Neither holds power, since the charter has no Union-wide executive; the working business stays with the rotating council. The **Garda an Uachtaráin** — *the President's Guard* — is the Union's presidential protection unit, the one standing formation of a mostly ceremonial military. Reader-facing entry: [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/).
+- **The name:** Irish. *Uachtarán* (president), genitive *an Uachtaráin*; *Seanad* (senate); written with their fadas. Dermot's directions of 2026-09-10 wrote *Garda an Uchtarain* and *seanad*; the standard spellings are adopted and flagged in `story-bible/intake-2026-09-10.md`.
+- **Notes:** Not a Union police — the charter leaves law to each member world, and Tír na nÓg's Gardaí are that world's own service — and not the Highland Guard's honour escort, which is ceremony under Union protocol. The Garda an Uachtaráin protects one office and polices nobody. Succession and term, how the Seanad is seated, where either sits, and where the unit's members are drawn from: not established.
+- **Dating rule:** No founding dates on record. Pre-reconnection Union documents are quoted as written.
 
 ### Universal Concord Standard Date (UCSD) (settled 2026-08-05)
 - **Layer:** Standard (In-Universe, Material)
