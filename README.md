@@ -2,7 +2,7 @@
 
 The stars call us forward with hope: protect what is good, and learn what is true.
 
-*Fian Ilchruinne* is an Eleventy-powered interactive novel of hard and semi-hard science fiction built on a speculative cosmology. It begins with a station clock that has held a false reading for eleven years. From there, the project opens into a contested history of memory, duty, institutions, and the fragile civic lights that survive at the edge of the known world.
+*Fian Ilchruinne* is an Eleventy-powered interactive novel of hard science fiction with one licensed deviation. It begins with a station clock that has held a false reading for eleven years. From there, the project opens into a contested history of memory, duty, institutions, and the fragile civic lights that survive at the edge of the known world.
 
 ## Synopsis
 

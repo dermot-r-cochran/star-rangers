@@ -1,7 +1,7 @@
 {
   "name": "star-rangers",
   "version": "1.32.0",
-  "description": "Fian Ilchruinne — an interactive hard science-fiction novel built on a speculative cosmology. The stars call us forward with hope; to protect what is good and to see what is true.",
+  "description": "Fian Ilchruinne — an interactive novel of hard science fiction with one licensed deviation. The stars call us forward with hope; to protect what is good and to see what is true.",
   "main": "index.js",
   "scripts": {
     "build": "eleventy && pagefind --site _site",
