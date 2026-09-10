@@ -37,6 +37,15 @@ treated ambiguity as something to be re-categorised or erased."*
 
 Everything below assumes **(2)**.
 
+*Addendum, 10 September 2026:* a fourth uniformed body is now canon beside the
+three — the **Garda an Uachtaráin**, the Union's presidential protection unit
+(Dermot: *Celtic Union presidential protection unit Garda an Uchtarain*;
+`intake-2026-09-10.md`, eighteenth section). It is not the Union police this
+conflict note rules out: it protects the Uachtarán, the council's presiding
+member, and polices nobody. No prompt yet; when one is written it should read
+apart from the Highland Guard (ceremony) and the Gardaí (a world's civil
+police) — protection, plain, and not a costume.
+
 ---
 
 # 1. The Star Rangers

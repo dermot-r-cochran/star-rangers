@@ -1830,12 +1830,13 @@ here means Dock Seven~~ — **both confirmed the same day, twelfth section:
 
 Two comparisons at his ask, canon unmoved. Open from them:
 
-- **Who holds the file when an offence happens aboard a Ranger vessel docked
-  at, or a Ranger post inside, a self-governing habitat** — (a) Ranger ground
-  wherever it is, the Provost track investigates and the bureau comes aboard
-  by the captain's invitation (recommended, the charter's rule mirrored);
-  (b) docked means inside, the bureau holds it; (c) a joint instrument per
-  habitat.
+- ~~**Who holds the file when an offence happens aboard a Ranger vessel docked
+  at, or a Ranger post inside, a self-governing habitat**~~ — **ruled 10
+  September 2026, twentieth section: *Star Rangers have diplomatic immunity
+  and therefore under provost jurisdiction unless expelled*.** The Provost's,
+  wherever the officer is; the polity's remedy is expulsion. ~~Which
+  *expelled*~~ — **ruled the same day (*3 a*): the polity's**; the dismissal
+  sentence stays as a consequence.
 - **What Five-O borrows from the Gendarmerie** — (a) nothing, it stays a
   civil, offence-defined task force with no ground of its own (recommended);
   (b) the territorial half, a beat in the corridors and docks no bureau
@@ -1870,15 +1871,25 @@ framework~~ — **confirmed the same day, fourteenth section: *Solat System
 Concord*.** ~~How the Federation of Sentient Beings holds a military~~ —
 **ruled the same day, fifteenth section: *a bit like UNIFIL* — contingents
 from member worlds under an agreed mandate, an appointed commander, no standing
-force, interposition not conquest.** Still open: **what the Celtic Union's
-non-ceremonial remainder is** — marked absent.
+force, interposition not conquest.** ~~Still open: what the Celtic Union's
+non-ceremonial remainder is~~ — **named 10 September 2026, eighteenth section:
+the Garda an Uachtaráin**, pending the readings below.
+
+## The Uachtarán, the Seanad and the Garda an Uachtaráin — `intake-2026-09-10.md`, eighteenth to twenty-second sections — CLOSED
+
+Dermot: *Celtic Union presidential protection unit Garda an Uchtarain*, then
+*ceremonial president of Celtic union with ceremonial seanad*, then *1 a 2 a
+3 a*. All ruled the same day: a ceremonial Uachtarán beside a ceremonial
+Seanad, neither holding power; the Garda an Uachtaráin the one standing
+formation of the mostly ceremonial military; the standard Irish spellings with
+fadas. Left unestablished on purpose: what the Seanad does beyond ceremony and
+how it is seated, succession and term, where either sits, where the unit's
+members come from, whether the Highland Guard belongs to the same military.
 
 ## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — CLOSED, one item open
 
 ~~Keep *Defence* or migrate to *Defense*~~ — **ruled the same day, seventeenth
 section: *Keep Defence, fix the two defense typos*.** The founding page's two
-are fixed. Still open: five more lower-case *defense* in prose (S00E02C02's
-description and a canon fact, S02E01C02, S01E03C01, the 2719 hearing timeline
-entry, `story-bible-summary.md`) — (a) sweep them in the same mechanical tier
-(recommended); (b) leave them.
+are fixed. ~~Five more lower-case *defense* in prose~~ — **swept the same day, nineteenth
+section: *Sweep the typos*.** The changelog's released sections keep theirs.
 
