@@ -1856,12 +1856,11 @@ Ruled 10 September 2026 and realized on the uniform page. Open from it:
   2026, eighth section: *Option A for planetary reps*.** By posting: a resident
   Planetary Representative wears the uniform when acting for the Corps and
   lives out of it otherwise; a liaison at a Corps posting is in uniform.
-- **Local habitat detectives and the 19 August Eden ruling** — Dermot, same
-  day, ninth section: *local habitat detectives have no uniform requirements
-  and may be undercover*. (a) No Compact-level requirement, Eden's bureau set
-  its own, the 19 August page stands (recommended, realized); (b) Eden's
-  detectives are not uniformed after all, and the page is rewritten or
-  retired as a reversal.
+- ~~**Local habitat detectives and the 19 August Eden ruling**~~ — **ruled
+  10 September 2026, thirteenth section: *local uniform depends on role and
+  case*.** Not a bureau-level choice: inside every bureau the garment follows
+  the role and the case, which is the 19 August page's own pattern; the
+  Compact sets no requirement beneath it.
 
 ## The militaries — `intake-2026-09-10.md`, eleventh section — OPEN
 
