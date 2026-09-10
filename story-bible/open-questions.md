@@ -1837,10 +1837,10 @@ Two comparisons at his ask, canon unmoved. Open from them:
   wherever the officer is; the polity's remedy is expulsion. ~~Which
   *expelled*~~ — **ruled the same day (*3 a*): the polity's**; the dismissal
   sentence stays as a consequence.
-- **What Five-O borrows from the Gendarmerie** — (a) nothing, it stays a
-  civil, offence-defined task force with no ground of its own (recommended);
-  (b) the territorial half, a beat in the corridors and docks no bureau
-  holds; (c) the status half, not recommended.
+- ~~**What Five-O borrows from the Gendarmerie**~~ — **ruled 10 September
+  2026, twenty-third section: *Five-O borrows nothing from the Gendarmerie*.**
+  A civil, offence-defined task force with no ground of its own; the
+  comparison filed as a comparison.
 - ~~**Whether Five-O is uniformed**~~ — **ruled 10 September 2026, tenth
   section: *Five-O does have uniforms unlike its Hawaiian namesake*.** Design
   unstated.
