@@ -1842,8 +1842,9 @@ Two comparisons at his ask, canon unmoved. Open from them:
   civil, offence-defined task force with no ground of its own (recommended);
   (b) the territorial half, a beat in the corridors and docks no bureau
   holds; (c) the status half, not recommended.
-- **Whether Five-O is uniformed** — (a) yes, on the Eden bureau's reasoning
-  (recommended); (b) no, working dress only.
+- ~~**Whether Five-O is uniformed**~~ — **ruled 10 September 2026, tenth
+  section: *Five-O does have uniforms unlike its Hawaiian namesake*.** Design
+  unstated.
 - **Who directs a Five-O inquiry and who issues a Compact warrant** — a marked
   absence until a chapter needs it.
 
@@ -1853,11 +1854,24 @@ Ruled 10 September 2026 and realized on the uniform page. Open from it:
 
 - **The medium of each people's uniform equivalent** — shapes per species in
   `species-design.md`; none asserted until a page needs one.
-- **The Liaison Corps as the one exception** — Dermot, same day, seventh
-  section: *might be*, noting Catherine Galen's uniform. Shapes: (a) by
-  posting — a resident Planetary Representative wears the uniform when acting
-  for the Corps and lives out of it otherwise; a liaison at a Corps posting,
-  Galen included, is in uniform on duty (recommended, realized pending his
-  word); (b) the whole corps, gate liaisons included — contradicted by Galen's
-  page; (c) no exception.
+- ~~**The Liaison Corps as the one exception**~~ — **ruled 10 September
+  2026, eighth section: *Option A for planetary reps*.** By posting: a resident
+  Planetary Representative wears the uniform when acting for the Corps and
+  lives out of it otherwise; a liaison at a Corps posting is in uniform.
+- **Local habitat detectives and the 19 August Eden ruling** — Dermot, same
+  day, ninth section: *local habitat detectives have no uniform requirements
+  and may be undercover*. (a) No Compact-level requirement, Eden's bureau set
+  its own, the 19 August page stands (recommended, realized); (b) Eden's
+  detectives are not uniformed after all, and the page is rewritten or
+  retired as a reversal.
+
+## The militaries — `intake-2026-09-10.md`, eleventh section — OPEN
+
+Ruled 10 September 2026 and realized on the rank page and three polity pages.
+Open from it: **that *Solar System Compact* means the Solar System under the
+Concord's framework, whose military is the SSDC** — (a) confirm (recommended);
+(b) the Orbital Habitats Compact, giving the five habitats a military of their
+own, new; **how the Federation of Sentient Beings holds a military** with no
+central authority — marked absent, a shape when a page needs one; **what the
+Celtic Union's non-ceremonial remainder is** — marked absent.
 

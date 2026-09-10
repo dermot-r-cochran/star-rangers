@@ -419,6 +419,12 @@ own **Type:** line, so the two group headings were dropped in the move.
   canon (`src/lore/rank-insignia-and-uniform.md` covers Star Rangers only), so
   inventing one would be new canon cascading to all five habitat
   Commissioners. The room carries the breadth instead of a costume.
+  *Status, 10 September 2026:* the "no Compact uniform in canon" line has
+  since been overtaken for two bodies — Eden's bureau (19 August,
+  `src/lore/eden-bureau-uniform.md`) and Orbital Five-O (10 September,
+  Dermot: *Five-O does have uniforms unlike its Hawaiian namesake*). The
+  conclusion for Commissioners stands: no uniform, and the Eden page says
+  why. The Compact itself still sets no uniform requirement on a bureau.
 - **Result:** correct on the first batch. No uniform; business dress worn like a
   long day, jacket open and one sleeve turned back, a small plain lapel pin as
   the only mark of office. The coordination floor carries the breadth of the

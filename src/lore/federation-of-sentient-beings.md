@@ -24,6 +24,8 @@ The Federation has no capital world and no standing executive. Authority sits wi
 
 That structural modesty is deliberate and openly stated in Federation doctrine: a central authority strong enough to arbitrate between wildly different biochemistries and governance traditions would, sooner or later, be strong enough to overrule them. The Federation would rather stay weak at the centre than solve that problem by picking a winner.
 
+The Federation keeps a military of its own. How a confederation that maintains no central authority holds one — whether as a standing federal force, as member worlds' forces under a common arrangement, or as something the Federation's own vocabulary names differently — is not on the record, and the record does not guess.
+
 ## Relationship with the Star Rangers
 
 Where the Celtic Union of Planets maintains a standing information-sharing agreement with the Star Rangers' Survey Corps, the Federation's relationship runs deeper and older: a standing material-support compact, renewed by assembly vote each generation, under which member worlds contribute refined materials, fabrication capacity, and fold-route survey data toward Ranger operations — the same kind of voluntary outer-station contribution the Rangers' founding charter always assumed would come from many sources, not one.

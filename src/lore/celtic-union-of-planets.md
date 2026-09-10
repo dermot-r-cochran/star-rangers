@@ -46,7 +46,7 @@ The charter's weak centre extends to prestige as well as power. The Union confer
 
 The Celtic Union worlds remained functionally unknown to Solar System authorities until first contact was re-established within the last generation, when Star Rangers survey operations mapping fold-route branches beyond the Eden Passage located an inhabited system that matched no colonisation record on file.
 
-Diplomatic relations remain new, cautious, and cordial. The Union has so far declined full integration into Solar System Defence Command's jurisdiction, citing the same founding wariness of centralised authority that shaped its charter, but has entered into a standing information-sharing agreement with the Star Rangers' Survey Corps on boundary-zone matters.
+Diplomatic relations remain new, cautious, and cordial. The Union has so far declined full integration into Solar System Defence Command's jurisdiction, citing the same founding wariness of centralised authority that shaped its charter, but has entered into a standing information-sharing agreement with the Star Rangers' Survey Corps on boundary-zone matters. The Union keeps a military of its own, and it is mostly ceremonial — the Highland Guard's honour escort, rifles at rest, that Union protocol assigns to a Ranger on leave is its most visible face — which is of a piece with a charter that declined to write in a strong centre and never needed one to defend.
 
 ### What that caution looks like in practice
 
