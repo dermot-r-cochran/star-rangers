@@ -7,7 +7,7 @@ Each section below maps to a Story Bible field — copy the section body into th
 
 ## Genre
 
-Science fantasy / speculative cosmology. Multi-POV serialized institutional drama with a hard-magic-adjacent (no-magic-permitted) cosmological system. Tone sits between hopepunk and procedural mystery: the emotional register is "protect what is good, learn what is true," but the plot mechanics are closer to an incident investigation — contested records, conflicting testimony, and slow-burn revelation of what a forty-second clock discrepancy actually means.
+Hard and semi-hard science fiction built on a speculative cosmology (settled 2026-09-10; formerly filed as science fantasy). Multi-POV serialized institutional drama with a hard-magic-adjacent (no-magic-permitted) cosmological system. Tone sits between hopepunk and procedural mystery: the emotional register is "protect what is good, learn what is true," but the plot mechanics are closer to an incident investigation — contested records, conflicting testimony, and slow-burn revelation of what a forty-second clock discrepancy actually means.
 
 ---
 

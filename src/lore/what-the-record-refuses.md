@@ -7,7 +7,7 @@ description: "A structured catalogue of the points where this setting sides with
 plain: "Science fiction and fantasy stories often use convenient shortcuts: time travel, instant communication, free energy, magic that solves things. This setting mostly says no to those. This page lists every major shortcut it declines, the real physics it keeps instead, and the few cases where something looks like a familiar trope but runs on different machinery underneath."
 ---
 
-This is a science-fantasy setting: it contains a multiverse, a cosmological hierarchy, monsters, and boundary phenomena no laboratory on Earth will ever log. Precisely because of that, the record is strict about everything else. The [Physics Comparison](/star-rangers/lore/physics-comparison/) states the architecture; this page states the *refusals* — the standard conveniences of popular soft SF and fantasy that this setting declines, and the real-world physics it sides with instead.
+This is hard science fiction built on a speculative cosmology: the setting contains a multiverse, a cosmological hierarchy, monsters, and boundary phenomena no laboratory on Earth will ever log. Precisely because of that, the record is strict about everything else. The [Physics Comparison](/star-rangers/lore/physics-comparison/) states the architecture; this page states the *refusals* — the standard conveniences of popular soft SF and fantasy that this setting declines, and the real-world physics it sides with instead.
 
 The refusals come in three modes, and knowing which mode governs a given case is most of the discipline:
 
