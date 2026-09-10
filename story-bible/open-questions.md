@@ -1870,8 +1870,22 @@ framework~~ — **confirmed the same day, fourteenth section: *Solat System
 Concord*.** ~~How the Federation of Sentient Beings holds a military~~ —
 **ruled the same day, fifteenth section: *a bit like UNIFIL* — contingents
 from member worlds under an agreed mandate, an appointed commander, no standing
-force, interposition not conquest.** Still open: **what the Celtic Union's
-non-ceremonial remainder is** — marked absent.
+force, interposition not conquest.** ~~Still open: what the Celtic Union's
+non-ceremonial remainder is~~ — **named 10 September 2026, eighteenth section:
+the Garda an Uachtaráin**, pending the readings below.
+
+## The Uachtarán and the Garda an Uachtaráin — `intake-2026-09-10.md`, eighteenth section — OPEN
+
+Dermot: *Celtic Union presidential protection unit Garda an Uchtarain*.
+Realized in the recommended shapes, each still his: **what the Uachtarán is** —
+(a) the rotating council's presiding member, non-executive (recommended);
+(b) an executive president, a reversal of the Union page; **where the unit
+sits** — (a) the one standing formation of the mostly ceremonial military
+(recommended); (b) seconded from member worlds' services; (c) a Union police,
+ruled out by the charter; **the spelling** — (a) *Garda an Uachtaráin* with the
+fadas (recommended); (b) *Uchtarain* as written. Left unestablished on purpose:
+succession and term, where members come from, where the Uachtarán sits, whether
+the Highland Guard belongs to the same military.
 
 ## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — CLOSED, one item open
 
