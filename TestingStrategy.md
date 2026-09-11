@@ -74,6 +74,13 @@ Run all: `node --test test/*.test.js` · one suite: `node --test test/content-fi
   invariant that the single-word statuses key exactly as the old lowercase
   did (so no badge rule silently unmatches), that "At large" hyphenates, and
   that a qualified status such as Ilse Korvain's keys as `contained`.
+- **`test/character-status.test.js`** (added 2026-09-11) pins `CHARACTER_STATUSES`
+  and `characterStatusProblem` in `lib/content-schema.js`: the character
+  `status` vocabulary is exactly the five the corpus uses, each label keys to
+  its own entry under `statusKey`, a qualified value is accepted on its head
+  clause, absence is accepted (the field is optional), and anything outside
+  the five is refused with a message naming them. `validate-content.js`
+  applies the check to every character page; this pins the rule itself.
 
 The filter tests deliberately use the **real** `lib/storyline-threads.js`
 registry, not fixtures: church-space being the only tier-gated thread is itself a
