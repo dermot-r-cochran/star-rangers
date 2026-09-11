@@ -3,7 +3,7 @@ layout: character.njk
 title: "Muffin"
 id: muffin
 species: "Meta-dimensional predator, cute-predator feeding pattern — filed Class III (lamb-mask); filing disputed, see below"
-role: None. Resident hazard, Eden Space Habitat, Deck 7 galley approach
+role: Resident hazard, Eden Space Habitat, Deck 7 galley approach
 status: At large
 aliases:
   - "the galley cat"

@@ -3,7 +3,7 @@ layout: character.njk
 title: "Teddy"
 id: teddy
 species: Pandoid
-role: "None the record can assign — an individual of the deep networks, Fliade"
+role: "An individual of the deep networks, Fliade — no role the record can assign"
 status: Active
 image: teddy.jpg
 image_alt: "A stocky grey alien with a panda-like build standing upright in a cavern lit by teal and amber fungus, large dark eyes ringed in darker grey, looking toward a small plain cylindrical instrument standing on pale silt where a line of bootprints ends."

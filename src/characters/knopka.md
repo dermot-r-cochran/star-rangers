@@ -3,7 +3,7 @@ layout: character.njk
 title: "Knopka"
 id: knopka
 species: Rabbit (unaugmented; failed Smart Pet candidate)
-role: None — personal pet of Detective Marisol Achebe, Eden Space Habitat
+role: Personal pet of Detective Marisol Achebe, Eden Space Habitat
 status: Active
 aliases: []
 tags: [rabbit, eden, pet, undercover-pets.com]

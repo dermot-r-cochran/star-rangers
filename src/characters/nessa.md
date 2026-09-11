@@ -3,7 +3,7 @@ layout: character.njk
 title: "Nessa"
 id: nessa
 species: Cat (wild, unaugmented)
-role: None — solitary resident, Carraig Bán
+role: Solitary resident, Carraig Bán
 status: Active
 aliases: []
 tags: [prequel, carraig-ban, boundary-zone, detective-agency, undercover-pets.com]
