@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+
+- **A character's `status` is now a defined five-value vocabulary** (2026-09-11, at Dermot's ask *define the five status values in the schema*, after his question what *Active* meant on Knopka's page found the field was free text with no written meaning). `CHARACTER_STATUSES` in `lib/content-schema.js` names the five the corpus uses and what each means — *Active*, alive and present in the story's present, 2826 UCSD; *Historical*, a figure of the record's past; *Retired*, living and out of service; *At large*, known to the record but not where anyone last put it; *Contained*, in custody — matched by head clause on the same rule the badge's class key uses, so a qualified status such as Ilse Korvain's *Contained — Survey Corps custody* stands. `validate-content.js` refuses any other value by name, `npm run new -- character` shows the five at the prompt, and `test/character-status.test.js` pins the rule. No page changes: all 92 character pages already used one of the five. `CLAUDE.md`, `TestingStrategy.md` and `test/README.md` record it.
+
 ### Fixed
 
 - **Six character role badges no longer open with the word *None*** (2026-09-11, Dermot's question why *None* appeared as a keyword on Knopka's page, and his choice of the first of two fixes offered). The character layout renders `role:` as a pill badge beside species and status, so a role written as *None — personal pet of …* put *None* where the eye reads a tag. Knopka, Muffin, Nessa, Teddy, Thrum and Zhulik now state the role as what the character is — *Personal pet of Detective Marisol Achebe, Eden Space Habitat*, *Resident hazard, …*, *Solitary resident, Carraig Bán*, and so on — with Teddy's *no role the record can assign* kept as a trailing clause rather than a leading one. Wording only; nothing asserted about any character changes.

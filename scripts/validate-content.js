@@ -10,7 +10,7 @@ const fs = require("fs");
 const path = require("path");
 const crypto = require("crypto");
 const matter = require("gray-matter");
-const { CONTENT_TYPES, TIMELINE_TYPE, CHAPTER_ID_PATTERN, isTimelineEntry, chapterIdFor } = require("../lib/content-schema");
+const { CONTENT_TYPES, TIMELINE_TYPE, CHAPTER_ID_PATTERN, isTimelineEntry, chapterIdFor, characterStatusProblem } = require("../lib/content-schema");
 const { checkGatedThreadSignatureTags } = require("../lib/content-filter");
 const { isPlaceholderImage } = require("../lib/placeholder-marker");
 const { TIER_ORDER } = require("../lib/editions");
@@ -609,6 +609,8 @@ function main() {
     if (isChapter) problems.push(...checkChapterConsistency(filePath, data, relativePath));
     if (schema === CONTENT_TYPES.character) {
       problems.push(...checkKnownCodex(data, codexSlugs));
+      const statusProblem = characterStatusProblem(data.status);
+      if (statusProblem) problems.push(statusProblem);
       characterPages.push({ data, relativePath });
     }
     problems.push(...checkVersionChain(data, urlSet));

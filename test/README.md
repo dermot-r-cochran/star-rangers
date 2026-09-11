@@ -13,6 +13,7 @@
 | `markdown-containers.test.js` | The scene/POV fence-length rule a dependency bump could silently break |
 | `image-size.test.js`, `placeholder-marker.test.js` | The two header parsers' null-rather-than-guess contracts |
 | `status-key.test.js` | The status badge's class key |
+| `character-status.test.js` | The five-value character `status` vocabulary and its head-clause match |
 | `giscus-boards.test.js` | The two-level comments-board model |
 | `check-contrast.test.js` | The contrast checker's palette parser under CRLF |
 | `image-prompt-references.test.js` | The `References:` line `image-prompts.js` reads from `images.md` |
