@@ -3,7 +3,7 @@ layout: character.njk
 title: "Zhulik"
 id: zhulik
 species: Cat (unaugmented)
-role: "None — a boy's cat, transfer berths, Eden Space Habitat"
+role: "A boy's cat, transfer berths, Eden Space Habitat"
 status: Active
 aliases:
   - "the cat"

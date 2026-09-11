@@ -3,7 +3,7 @@ layout: character.njk
 title: "Thrum"
 id: thrum
 species: "Vessik (Undersong burrow commensal, unaugmented)"
-role: None — resident animal, Eden Space Habitat; no registered status of any kind
+role: Resident animal, Eden Space Habitat; no registered status of any kind
 status: Active
 aliases: []
 tags: [detective-agency, vessik, chthonari, eden, undercover-pets.com, alien-animal]
