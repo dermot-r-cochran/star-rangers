@@ -8,6 +8,13 @@ be told what to match.
 
 Where a claim is measurable it is measured. Where it is a judgement it says so.
 
+**Scope: the chapters.** Everything below describes `src/seasons/` — the
+scene wrappers, the POV blocks, the withholding between viewpoints. The
+Codex is not bound by it (Dermot's ruling, 12 September 2026): a codex
+author writes in whatever mode a document of that kind takes — first person,
+an apparently omniscient narrator, a ballad, a transcript, a school reader —
+and is held only to being valid for its author.
+
 ---
 
 ## The one-sentence version
