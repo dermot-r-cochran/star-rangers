@@ -1917,3 +1917,15 @@ same day, verbatim *The bee, The Line, Scabious frame* — all three as
 recommended; the page stands as drafted and PR #778 merged on it.** Standing
 as drafted without a separate word: *Bumbóg* as the valley's word, and the
 lifecycle stated in one clause.
+
+## An informed reader for each culture written — `intake-2026-09-12.md`, second section — OPEN by nature
+
+Dermot's two craft questions of 12 September (study others or develop a
+style; write cultures he knows less well) were answered as false choices and
+agreed. The one step in the answer that cannot be done from inside the repo
+is a reader from the culture before a page binds. His word: *No relevant
+informed readers yet but I will listen for comments.* Open until such a
+reader exists for a given culture. Standing practice meanwhile: the
+observational register and marked absences carry the load; a correction that
+arrives lands as a Codex voice, never a retcon; and a comment touching a
+culture the record is unsure of is treated as an intake, verbatim and dated.
