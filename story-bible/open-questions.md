@@ -1930,7 +1930,7 @@ observational register and marked absences carry the load; a correction that
 arrives lands as a Codex voice, never a retcon; and a comment touching a
 culture the record is unsure of is treated as an intake, verbatim and dated.
 
-## A people that did not exist in the 21st century — `intake-2026-09-12.md`, eighth section — OPEN
+## A people that did not exist in the 21st century — `intake-2026-09-12.md`, eighth section — RULED same day
 
 Dermot: *A new people group, society or culture that did not exist in the
 21st century AD.* Drafted as `src/lore/the-tally.md`: a mixed-company
@@ -1945,4 +1945,8 @@ the shape (the Tally as drafted, recommended; the Velmora guild society; a
 ring-born people of the Crisis Centuries), the name (the rendering as
 drafted, recommended; the hull's name; an untranslated endonym), and where
 they appear next (lore only for now, recommended; a Rangers or Five-O
-chapter; the children's tier). The PR stops on these.
+chapter; the children's tier). **Ruled the same evening, verbatim *The Tally
+as drafted, lore only for now*: shapes 1(a) and 3(a), the name standing with
+the page; PR #786 merged on it.** Left open by nature: the endonym, the
+fault, the body's name and the number, all marked as not carried; and the
+thread a first Tally chapter would belong to.
