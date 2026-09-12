@@ -349,7 +349,7 @@ Five pairs where the wrong choice is silent — the build passes and the damage 
 | **Valid-for-its-author** | The Codex's standard, and a different promise: an entry is *not* canon, it is a named source's account. It may contradict lore, a chapter, or another entry. What it may not be is arbitrary — the test is "could this person have known this, and would they have written it this way?", not "is this true?". `author` is required for exactly this reason: no source, no viewpoint to be valid from. |
 | **Lore/codex boundary** | Lore and the Glossary stay internally consistent; anything contested, paradoxical, or devotional moves *into* the Codex under somebody's name. When two lore pages disagree, relocate the contested reading — don't pick a winner inside lore. |
 | **Overlay** | The third status, and the one that had no name until 2026-07-25. An overlay reads the *same* reality the main record shows — same events, same cosmology, same people — through a declared lens, and is optional: opted into per domain, never load-bearing for the story it comments on. `church-space` is the only one. It is **not canon** (nothing in it binds the published seasons, and they never depend on it) and **not Codex** (a codex entry is one named source's account filed *inside* the record; an overlay is a layer laid *across* it). Note the near-collision: **overlay** is craft vocabulary, the in-universe **Overfold** is something else entirely. |
-| **Chartered** | The fourth status (settled 2026-07-26), for approved derivative work by another hand — above a fan work, below canon. One rule governs it: **canon binds it; it does not bind canon.** It must be consistent with canon as it stood at approval; later canon may contradict it freely, and when that happens the chartered work is *superseded*, not retconned or withdrawn. The main story may never depend on it, and it carries **no `canon_facts`** — same reason the Codex doesn't: it establishes nothing. Distinct from the other three by *who wrote it and where they stand*: Codex is in-universe authorship (a named source inside the world), Overlay is a lens across the same events, Chartered is **new events by another hand, out-of-universe, endorsed**. None exist yet. |
+| **Chartered** | The fourth status (settled 2026-07-26), for approved derivative work by another hand — above a fan work, below canon. One rule governs it: **canon binds it; it does not bind canon.** It must be consistent with canon as it stood at approval; later canon may contradict it freely, and when that happens the chartered work is *superseded*, not retconned or withdrawn. The main story may never depend on it, and it carries **no `canon_facts`** — same reason the Codex doesn't: it establishes nothing. Distinct from the other three by *who wrote it and where they stand*: Codex is in-universe authorship (a named source inside the world), Overlay is a lens across the same events, Chartered is **new events by another hand, out-of-universe, endorsed**. None exist yet. Also the **ceiling**: a television, streaming or cinematic adaptation is chartered at most, never canon (12 September 2026). |
 | **House voice** | The prose register of the existing corpus, approved 2026-07-25 as the reference for new work. Approval covered voice and style; the separate ratification covered content. |
 
 ### Chartered works: register, not host (settled 2026-07-26)
@@ -387,6 +387,17 @@ three homes are the existing ones: in circulation and referenced; chartered
 by individual grant and registered; or, with the commenter's explicit licence
 of the text and a plausible in-universe author, the Codex. The nicer word
 Dermot asked after is *chartered*.
+
+**Chartered is the ceiling for any screen adaptation** (Dermot's direction,
+12 September 2026, verbatim: *Any TV or Video Streaming or Cinematic
+adaptation would be treated as Chartered but never as Canon* —
+`intake-2026-09-12.md`, fourth section). An adaptation for television, a
+streaming service or cinema is at most a chartered work, whatever its scale
+or his involvement: endorsed, registered, bound by canon and binding
+nothing. The published text stays the only canon; the screen never becomes
+the record, and the record never adjusts to the screen. Being commercial, an
+adaptation also sits outside the fan-works exception and needs a real
+licence, which grants the right to adapt and at most chartered standing.
 
 ### Referencing fan images and music (settled 2026-07-26)
 
