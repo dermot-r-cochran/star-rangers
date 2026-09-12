@@ -1950,3 +1950,15 @@ as drafted, lore only for now*: shapes 1(a) and 3(a), the name standing with
 the page; PR #786 merged on it.** Left open by nature: the endonym, the
 fault, the body's name and the number, all marked as not carried; and the
 thread a first Tally chapter would belong to.
+
+## The Legend of Saint Aoife for the young-adult tier — `intake-2026-09-12.md`, ninth section — OPEN
+
+Dermot: *The Legend of Saint Aoife, for the young adult reader tier.*
+Drafted as `src/codex/the-legend-of-saint-aoife.md`, a Union teller's
+reader-school telling tagged `young-star-rangers` so young.fianilchruinne.com
+admits it; nothing new asserted about the world. Three choices put: the form
+(the Codex telling as drafted, recommended; a first Young Star Rangers
+chapter; a `plain:` summary, refused); whether to tag the lore page, the
+character page and the *Life* for the young-adult face too (recommended if
+the tier is to hold the whole of Aoife); and a designed title card, which is
+his to run. The PR stops on these.
