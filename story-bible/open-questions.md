@@ -1929,3 +1929,20 @@ reader exists for a given culture. Standing practice meanwhile: the
 observational register and marked absences carry the load; a correction that
 arrives lands as a Codex voice, never a retcon; and a comment touching a
 culture the record is unsure of is treated as an intake, verbatim and dated.
+
+## A people that did not exist in the 21st century — `intake-2026-09-12.md`, eighth section — OPEN
+
+Dermot: *A new people group, society or culture that did not exist in the
+21st century AD.* Drafted as `src/lore/the-tally.md`: a mixed-company
+generation ark that slipped the Imperium's patrols, failed its crossing two
+years out, moored to a scattered-disc body, and became one people by making
+one language and one count — the Archive's rendering *Tally*, the endonym
+marked as not carried. Seven readings flagged (human not alien; a people, in
+*Factions*; in Sol, not interstellar, so the era page's *only interstellar
+venture whose fate is known* stands; found by the Knarr Line; the rendering;
+the count withheld; the fault named and not described). Three choices put:
+the shape (the Tally as drafted, recommended; the Velmora guild society; a
+ring-born people of the Crisis Centuries), the name (the rendering as
+drafted, recommended; the hull's name; an untranslated endonym), and where
+they appear next (lore only for now, recommended; a Rangers or Five-O
+chapter; the children's tier). The PR stops on these.
