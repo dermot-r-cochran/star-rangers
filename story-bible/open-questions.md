@@ -1897,7 +1897,7 @@ are fixed. ~~Five more lower-case *defense* in prose~~ — **swept the same day,
 section: *Sweep the typos*.** The changelog's released sections keep theirs.
 
 
-## A character called Bumble — `intake-2026-09-12.md` — OPEN
+## A character called Bumble — `intake-2026-09-12.md` — RULED same day
 
 Dermot: *A character called Bumble*, five words and nothing else. Drafted as a
 bumblebee — the queen of a surface nest in the wool-shed of Gleann na gCaorach
@@ -1912,4 +1912,8 @@ placement, *Bumbóg* as the valley's word, the line-of-queens reading, *Active*,
 and the lifecycle stated gently. One commitment touches a published chapter: a
 Survey ground sensor on the shed floor during S02E04C01's crossing, its trace
 kept and marked as comparing to nothing. The name is one letter from *Bramble*,
-the storybook Smart Pet, noted in case that is unwanted.
+the storybook Smart Pet, noted in case that is unwanted. **Ruled by Dermot the
+same day, verbatim *The bee, The Line, Scabious frame* — all three as
+recommended; the page stands as drafted and PR #778 merged on it.** Standing
+as drafted without a separate word: *Bumbóg* as the valley's word, and the
+lifecycle stated in one clause.
