@@ -379,6 +379,15 @@ prevent:
 | **Canon force** | Does it bind future writing? | The canon-status table above. For chartered works: no, one-directionally. |
 | **Visibility** | Does the official site point at it? | The referencing rule below. Independent of the other two — a fan work can be linked without becoming chartered, and a chartered work needn't be linked. |
 
+**A reader comment is a case of this, not an exception to it** (12 September
+2026, `intake-2026-09-12.md`, third section). A well-written comment on the
+boards cannot be filed as Codex with attribution, because Codex lives under
+`src/` and the rule above keeps another hand's text out of that scope. Its
+three homes are the existing ones: in circulation and referenced; chartered
+by individual grant and registered; or, with the commenter's explicit licence
+of the text and a plausible in-universe author, the Codex. The nicer word
+Dermot asked after is *chartered*.
+
 ### Referencing fan images and music (settled 2026-07-26)
 
 Fan-made images and music **may be linked from the site where appropriate**, under
