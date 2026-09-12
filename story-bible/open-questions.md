@@ -1896,3 +1896,24 @@ section: *Keep Defence, fix the two defense typos*.** The founding page's two
 are fixed. ~~Five more lower-case *defense* in prose~~ — **swept the same day, nineteenth
 section: *Sweep the typos*.** The changelog's released sections keep theirs.
 
+
+## A character called Bumble — `intake-2026-09-12.md` — RULED same day
+
+Dermot: *A character called Bumble*, five words and nothing else. Drafted as a
+bumblebee — the queen of a surface nest in the wool-shed of Gleann na gCaorach
+on Drithane, one name for whichever queen holds the corner, portrait from
+Dermot's own *Bumblebee on Giant Scabious* — and put back as three choices:
+**what Bumble is** (the bee as drafted, recommended; a dog on Eden; the bureau
+floor's name for the housekeeping unit), **one queen or the line** (the line as
+drafted, recommended), and **the portrait** (his scabious frame as filed,
+recommended; his rose frame; a generated frame, refused by the 3 September
+ruling). Six readings flagged for confirmation on the page itself — species,
+placement, *Bumbóg* as the valley's word, the line-of-queens reading, *Active*,
+and the lifecycle stated gently. One commitment touches a published chapter: a
+Survey ground sensor on the shed floor during S02E04C01's crossing, its trace
+kept and marked as comparing to nothing. The name is one letter from *Bramble*,
+the storybook Smart Pet, noted in case that is unwanted. **Ruled by Dermot the
+same day, verbatim *The bee, The Line, Scabious frame* — all three as
+recommended; the page stands as drafted and PR #778 merged on it.** Standing
+as drafted without a separate word: *Bumbóg* as the valley's word, and the
+lifecycle stated in one clause.

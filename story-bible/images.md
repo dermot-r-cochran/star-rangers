@@ -1373,6 +1373,25 @@ go in its bullet prose, never in the quote.)
   negative: it is the subject's own instrument, not a light fitting.
   > Cinematic portrait of a young person of about twenty-two, androgynous, a novice of a contemplative order, standing in the open stone doorway of a chapter house at dusk, upper body, seen from just inside the threshold. They hold a small lit hand-lamp with a live flame, the picture's only warm light; through the doorway behind them, green hills going dark under a pale evening sky, nothing else out there. Plain undyed novice's working clothes with a belted overtunic, short practical hair, an alert open expression caught mid-thought between staying and going — attentive, earnest, questioning, not sad. Warm lamplight against cool dusk, quiet, serene, hopeful, slightly enigmatic. No readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame; no screens, monitors, displays or consoles; no electric light fittings or bulbs anywhere, the hand-lamp's flame is the only light source; no candle arrays, no incense, no religious symbols or iconography; no weapons; no glamour styling, no corporate headshot posing. Landscape orientation.
 
+#### Bumble — added 12 September 2026, from Dermot's own frame
+
+- **`bumble.jpg`** — the wool-shed bee of Gleann na gCaorach on Drithane
+  (page drafted 12 September, `intake-2026-09-12.md`; the direction was the
+  five words *A character called Bumble*). A bumblebee is a thing a camera can
+  photograph, so under the 3 September ruling the page takes a frame of
+  Dermot's and never a prompt — and for the first time on a character page
+  one existed: `own-photography.json` holds two bumblebees, and the pipeline's
+  *photo first, generation last* order was followed to its first step and
+  stopped there. Filed from the portfolio's `bumblebee-on-giant-scabious.jpg`
+  (*Bumblebee on Giant Scabious*, Farmleigh, Dublin, 2024, 1600×1067): rows
+  100–1000 at full width, resized to the 16:9 slot at 1200×675, JPEG quality
+  85, nothing else touched. Chosen over *Bumblebee on Golden Rose* for the
+  cold register — a bee against a bright overcast sky with dark conifers
+  either side reads as an upland valley, and the rose reads as a warm garden.
+  The alt text describes the frame, not the shed; the page does not claim the
+  picture was taken on Drithane. No prompt, no reference, no generator; the
+  provenance line is in `image-prompts.md` under *2026-09-12*.
+
 #### Teddy — added 6 September 2026, the face ruled 7 September, the body open
 
 - **`teddy.jpg`** — Individual Four, the one Pandoid the Fliade survey can tell

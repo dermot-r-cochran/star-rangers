@@ -924,3 +924,23 @@ build the record gives — adult mass, grey, upright, heavy through the
 shoulder, an alien face with no snout and no button features — and keep the
 fungus-lit cavern, not a forest. Teddy is the smallest of his people and is
 still nobody's toy.
+
+## 2026-09-12 — Bumble, the first character portrait from Dermot's own frames
+
+### bumble.jpg
+- **Type:** crop of a real photograph (no generator, no enhancement)
+- **Tool:** Pillow 12.3, on a Linux session
+- **Date:** 12 September 2026
+- **Source:** the portfolio's `src/images/photos/bumblebee-on-giant-scabious.jpg`
+  (*Bumblebee on Giant Scabious*, Farmleigh, Dublin, 2024; 1600×1067)
+- **Prompt / recipe:** none. Crop rows 100–1000 at full width (1600×900, the
+  bee kept at about 41% down and the stem still running out of the bottom),
+  resize to 1200×675 with Lanczos, save JPEG quality 85, baseline. Nothing
+  else done to the frame.
+- **Notes:** the character page is `src/characters/bumble.md`, drafted at
+  Dermot's direction *A character called Bumble* (`intake-2026-09-12.md`).
+  Under the 3 September ruling a bee is a thing a camera can photograph, so
+  the page takes his frame or a card and never a prompt; this is the first
+  character page on the site whose portrait is one of his photographs. The
+  frame stays in this repository as a copy at site size; the portfolio's file
+  and page are untouched.
