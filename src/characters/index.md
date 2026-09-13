@@ -20,20 +20,20 @@ eleventyComputed:
 {% set chars = collections.characters %}
 {% if chars.length %}
 <div class="codex-grid">
-  {% for char in chars %}
+  {%- for char in chars -%}
   <a class="codex-card" href="/star-rangers{{ char.url }}">
-    {% if char.data.image %}
+    {%- if char.data.image -%}
     <img class="codex-card__thumb" src="/star-rangers/images/characters/{{ char.data.image }}" alt="{{ char.data.image_alt | default(char.data.title) }}" />
-    {% endif %}
+    {%- endif -%}
     <p class="codex-card__category">{{ char.data.species | default("Unknown") }}{% if char.data.role %} · {{ char.data.role }}{% endif %}</p>
     <h2 class="codex-card__title">{{ char.data.title }}</h2>
-    {% if char.data.aliases and char.data.aliases.length %}
+    {%- if char.data.aliases and char.data.aliases.length -%}
     <p style="font-size:0.8rem;color:var(--color-text-muted);margin-top:0.25rem;font-family:var(--font-ui)">
       aka {{ char.data.aliases | join(", ") }}
     </p>
-    {% endif %}
+    {%- endif -%}
   </a>
-  {% endfor %}
+  {%- endfor -%}
 </div>
 {% else %}
 <p class="page-intro">No character profiles published yet.</p>

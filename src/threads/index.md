@@ -14,17 +14,17 @@ permalink: /threads/
 {% set threads = storylineThreads %}
 {% if threads.length %}
 <div class="codex-grid">
-  {% for thread in threads %}
+  {%- for thread in threads -%}
   <a class="codex-card" href="/star-rangers/threads/{{ thread.id }}/">
     <p class="codex-card__category">
-      {% for season in thread.seasons %}Season {{ season }}{% if not loop.last %}, {% endif %}{% endfor %}
+      {%- for season in thread.seasons %}Season {{ season }}{% if not loop.last %}, {% endif %}{% endfor -%}
     </p>
     <h2 class="codex-card__title">{{ thread.name }}</h2>
     <p style="font-size:0.9rem;color:var(--color-text-muted);margin-top:0.5rem;font-family:var(--font-ui)">
       {{ thread.description }}
     </p>
   </a>
-  {% endfor %}
+  {%- endfor -%}
 </div>
 {% else %}
 <p class="page-intro">No storyline threads defined yet.</p>

@@ -15,7 +15,7 @@ permalink: /start/
     src/atlas/index.md applies. -#}
 {% set atlasCount = 0 %}
 {% for entry in collections.lore %}
-  {% if entry.data.category == "Locations" and entry.data.galaxy %}{% set atlasCount = atlasCount + 1 %}{% endif %}
+  {%- if entry.data.category == "Locations" and entry.data.galaxy %}{% set atlasCount = atlasCount + 1 %}{% endif -%}
 {% endfor %}
 {% set shelfHas = {
   characters: true,
@@ -45,7 +45,7 @@ permalink: /start/
 {% set allChapters = collections.chapters %}
 {% set markedAbsencesIncluded = false %}
 {% for entry in collections.codex %}
-  {% if entry.url == "/codex/marked-absences/" %}{% set markedAbsencesIncluded = true %}{% endif %}
+  {%- if entry.url == "/codex/marked-absences/" %}{% set markedAbsencesIncluded = true %}{% endif -%}
 {% endfor %}
 
 {% if edition.readingPlan %}
@@ -59,9 +59,9 @@ permalink: /start/
 {% set plan = edition.readingPlan %}
 {% set planFirst = null %}
 {% for chapter in allChapters %}
-  {% if not planFirst and (chapter.data.season | threadForSeason).id == plan.startThreadId %}
-    {% set planFirst = chapter %}
-  {% endif %}
+  {%- if not planFirst and (chapter.data.season | threadForSeason).id == plan.startThreadId -%}
+    {%- set planFirst = chapter -%}
+  {%- endif -%}
 {% endfor %}
 
 <h1 class="page-title">Where to Start</h1>
@@ -70,21 +70,21 @@ permalink: /start/
 <section class="thread-section" aria-labelledby="plan-step-1">
   <h2 class="thread-section__title" id="plan-step-1">1 · Begin here</h2>
   <p class="thread-section__description">{{ plan.begin | safe }}</p>
-  {% if planFirst %}
+  {%- if planFirst -%}
   <ul class="chapter-list" role="list">
     <li class="chapter-list__item">
       <a href="/star-rangers{{ planFirst.url }}">
         <span class="chapter-list__code">{{ planFirst.data.id | upper }}</span>
         <span class="chapter-list__title">{{ planFirst.data.title }}</span>
-        {% if planFirst.data.location %}
+        {%- if planFirst.data.location -%}
         <span class="chapter-list__loc">{{ planFirst.data.location }}</span>
-        {% endif %}
+        {%- endif -%}
       </a>
     </li>
   </ul>
-  {% else %}
+  {%- else -%}
   <p class="thread-section__description">No chapters published yet. <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> will show them when they arrive.</p>
-  {% endif %}
+  {%- endif -%}
 </section>
 
 <section class="thread-section" aria-labelledby="plan-step-2">
@@ -95,33 +95,33 @@ permalink: /start/
 <section class="thread-section" aria-labelledby="plan-step-3">
   <h2 class="thread-section__title" id="plan-step-3">3 · Where to look things up</h2>
   <ul class="thread-section__description">
-    {% for key in ["characters", "glossary", "timeline", "codex", "lore", "atlas"] %}
-    {% if shelfHas[key] and plan.shelves[key] %}
+    {%- for key in ["characters", "glossary", "timeline", "codex", "lore", "atlas"] -%}
+    {%- if shelfHas[key] and plan.shelves[key] -%}
     <li><a href="{{ shelfUrl[key] }}">{{ shelfName[key] }}</a> — {{ plan.shelves[key] | safe }}</li>
-    {% endif %}
-    {% endfor %}
+    {%- endif -%}
+    {%- endfor -%}
   </ul>
 </section>
 
 {% set otherThreads = [] %}
 {% for thread in storylineThreads %}
-  {% if thread.id != plan.startThreadId %}
-    {% set firstInThread = null %}
-    {% for chapter in allChapters %}
-      {% if not firstInThread and (chapter.data.season | threadForSeason).id == thread.id %}
-        {% set firstInThread = chapter %}
-      {% endif %}
-    {% endfor %}
-    {% if firstInThread %}
-      {% set otherThreads = (otherThreads.push({ thread: thread, first: firstInThread }), otherThreads) %}
-    {% endif %}
-  {% endif %}
+  {%- if thread.id != plan.startThreadId -%}
+    {%- set firstInThread = null -%}
+    {%- for chapter in allChapters -%}
+      {%- if not firstInThread and (chapter.data.season | threadForSeason).id == thread.id -%}
+        {%- set firstInThread = chapter -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if firstInThread -%}
+      {%- set otherThreads = (otherThreads.push({ thread: thread, first: firstInThread }), otherThreads) -%}
+    {%- endif -%}
+  {%- endif -%}
 {% endfor %}
 {% if otherThreads.length %}
 <section class="thread-section" aria-labelledby="plan-step-4">
   <h2 class="thread-section__title" id="plan-step-4">4 · More stories</h2>
   <p class="thread-section__description">{{ plan.more | safe }}</p>
-  {% for branch in otherThreads %}
+  {%- for branch in otherThreads -%}
   <div class="season-block">
     <h3 class="season-block__title">
       <a href="/star-rangers/threads/{{ branch.thread.id }}/">{{ branch.thread.name }}</a>
@@ -131,14 +131,14 @@ permalink: /start/
         <a href="/star-rangers{{ branch.first.url }}">
           <span class="chapter-list__code">{{ branch.first.data.id | upper }}</span>
           <span class="chapter-list__title">{{ branch.first.data.title }}</span>
-          {% if branch.first.data.location %}
+          {%- if branch.first.data.location -%}
           <span class="chapter-list__loc">{{ branch.first.data.location }}</span>
-          {% endif %}
+          {%- endif -%}
         </a>
       </li>
     </ul>
   </div>
-  {% endfor %}
+  {%- endfor -%}
 </section>
 {% endif %}
 
@@ -154,9 +154,9 @@ permalink: /start/
 
 {% set spineFirst = null %}
 {% for chapter in allChapters %}
-  {% if not spineFirst and (chapter.data.season | threadForSeason).id == "tissadelle-arc" %}
-    {% set spineFirst = chapter %}
-  {% endif %}
+  {%- if not spineFirst and (chapter.data.season | threadForSeason).id == "tissadelle-arc" -%}
+    {%- set spineFirst = chapter -%}
+  {%- endif -%}
 {% endfor %}
 {% if not spineFirst and allChapters.length %}{% set spineFirst = allChapters[0] %}{% endif %}
 
@@ -165,7 +165,7 @@ permalink: /start/
   <p class="thread-section__description">
     Every archive has a spine — the sequence the rest of the shelf leans against. Ours is the <a href="/star-rangers/threads/tissadelle-arc/">Tissadelle Shepherd's Arc</a>: Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind. Everything else in the collection either runs parallel to it or exists to be consulted while reading it, which is the polite way of saying it is the right first read.
   </p>
-  {% if spineFirst %}
+  {%- if spineFirst -%}
   <p class="thread-section__description">
     Begin here. The <em>Next</em> link at the foot of each chapter walks the whole record in season order, which can hand you sideways into the parallel storylines where their seasons fall and back to the spine after each. That is not a filing error; it is how the shelf is ordered. If you want the spine unbroken, read down <a href="/star-rangers/threads/tissadelle-arc/">its thread page's chapter list</a> instead. Both paths arrive, and neither spoils the other.
   </p>
@@ -174,17 +174,17 @@ permalink: /start/
       <a href="/star-rangers{{ spineFirst.url }}">
         <span class="chapter-list__code">{{ spineFirst.data.id | upper }}</span>
         <span class="chapter-list__title">{{ spineFirst.data.title }}</span>
-        {% if spineFirst.data.location %}
+        {%- if spineFirst.data.location -%}
         <span class="chapter-list__loc">{{ spineFirst.data.location }}</span>
-        {% endif %}
+        {%- endif -%}
       </a>
     </li>
   </ul>
-  {% else %}
+  {%- else -%}
   <p class="thread-section__description">
     This edition of the record carries no chapters from the spine. <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> will tell you what it does hold — pick up the path there, and rejoin this note at step 4.
   </p>
-  {% endif %}
+  {%- endif -%}
 </section>
 
 <section class="thread-section" aria-labelledby="plan-step-2">
@@ -200,27 +200,27 @@ permalink: /start/
     When a term, a place, or a name stops you, the shelf answers without telling you what happens next. But not every section carries the same authority, and I would be a poor archivist if I let you assume otherwise:
   </p>
   <ul class="thread-section__description">
-    {% if shelfHas.glossary %}<li><a href="/star-rangers/glossary/">Glossary</a> — terms, fixed before the arguments begin. The fastest answer to "what is that?"</li>{% endif %}
-    {% if shelfHas.lore %}<li><a href="/star-rangers/lore/">Lore</a> — the settled record: what the Archive will state flatly and stand behind. History, factions, species, technology, and the cosmology under all of it.</li>{% endif %}
+    {%- if shelfHas.glossary %}<li><a href="/star-rangers/glossary/">Glossary</a> — terms, fixed before the arguments begin. The fastest answer to "what is that?"</li>{% endif -%}
+    {%- if shelfHas.lore %}<li><a href="/star-rangers/lore/">Lore</a> — the settled record: what the Archive will state flatly and stand behind. History, factions, species, technology, and the cosmology under all of it.</li>{% endif -%}
     <li><a href="/star-rangers/characters/">Characters</a> — who's who, and whose eyes you have been reading through.</li>
-    {% if shelfHas.atlas %}<li><a href="/star-rangers/atlas/">Atlas</a> — where everything is.</li>{% endif %}
-    {% if shelfHas.codex %}<li><a href="/star-rangers/codex/">Codex</a> — the paperwork itself: primary sources with named authors, some incomplete, some biased, one or two built to mislead. Unlike lore, a codex entry can be wrong. I keep those shelves too, and I say this with affection: read them the way I file them, with the author's name held firmly in view.</li>{% endif %}
+    {%- if shelfHas.atlas %}<li><a href="/star-rangers/atlas/">Atlas</a> — where everything is.</li>{% endif -%}
+    {%- if shelfHas.codex %}<li><a href="/star-rangers/codex/">Codex</a> — the paperwork itself: primary sources with named authors, some incomplete, some biased, one or two built to mislead. Unlike lore, a codex entry can be wrong. I keep those shelves too, and I say this with affection: read them the way I file them, with the author's name held firmly in view.</li>{% endif -%}
   </ul>
 </section>
 
 {% set branchThreads = [] %}
 {% for thread in storylineThreads %}
-  {% if thread.id != "tissadelle-arc" %}
-    {% set firstInThread = null %}
-    {% for chapter in allChapters %}
-      {% if not firstInThread and (chapter.data.season | threadForSeason).id == thread.id %}
-        {% set firstInThread = chapter %}
-      {% endif %}
-    {% endfor %}
-    {% if firstInThread %}
-      {% set branchThreads = (branchThreads.push({ thread: thread, first: firstInThread }), branchThreads) %}
-    {% endif %}
-  {% endif %}
+  {%- if thread.id != "tissadelle-arc" -%}
+    {%- set firstInThread = null -%}
+    {%- for chapter in allChapters -%}
+      {%- if not firstInThread and (chapter.data.season | threadForSeason).id == thread.id -%}
+        {%- set firstInThread = chapter -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if firstInThread -%}
+      {%- set branchThreads = (branchThreads.push({ thread: thread, first: firstInThread }), branchThreads) -%}
+    {%- endif -%}
+  {%- endif -%}
 {% endfor %}
 {% if branchThreads.length %}
 <section class="thread-section" aria-labelledby="plan-step-4">
@@ -228,7 +228,7 @@ permalink: /start/
   <p class="thread-section__description">
     A season number marks a position in the setting's timeline, not a claim on your attention. The other <a href="/star-rangers/threads/">storyline threads</a> run parallel to the spine, each self-contained, each with its own cast. Take them in any order, between seasons of the spine or after it — the record does not mind.
   </p>
-  {% for branch in branchThreads %}
+  {%- for branch in branchThreads -%}
   <div class="season-block">
     <h3 class="season-block__title">
       <a href="/star-rangers/threads/{{ branch.thread.id }}/">{{ branch.thread.name }}</a>
@@ -239,14 +239,14 @@ permalink: /start/
         <a href="/star-rangers{{ branch.first.url }}">
           <span class="chapter-list__code">{{ branch.first.data.id | upper }}</span>
           <span class="chapter-list__title">{{ branch.first.data.title }}</span>
-          {% if branch.first.data.location %}
+          {%- if branch.first.data.location -%}
           <span class="chapter-list__loc">{{ branch.first.data.location }}</span>
-          {% endif %}
+          {%- endif -%}
         </a>
       </li>
     </ul>
   </div>
-  {% endfor %}
+  {%- endfor -%}
 </section>
 {% endif %}
 
