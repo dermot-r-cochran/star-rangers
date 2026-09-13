@@ -8,6 +8,9 @@
 // applied per character here, not per chapter: an excluded character still
 // gets a page at their normal URL (so links from other scenes/characters
 // never 404), it just renders a placeholder instead of the real POV text.
+// Since 2026-09-13 the chapter has to be on the build too (isChapterIncluded
+// inside isCharacterPovIncluded): a carried witness's page under an excluded
+// chapter is a placeholder, not a leak of that chapter's prose.
 const fs = require("fs");
 const path = require("path");
 const matter = require("gray-matter");
