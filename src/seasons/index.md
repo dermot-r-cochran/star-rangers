@@ -19,85 +19,85 @@ permalink: /seasons/
 
 {% set allChapters = collections.chapters %}
 {% if allChapters.length %}
-  {% for thread in storylineThreads %}
-    {% set hasChapters = false %}
-    {% for chapter in allChapters %}
-      {% if (chapter.data.season | threadForSeason).id == thread.id %}{% set hasChapters = true %}{% endif %}
-    {% endfor %}
-    {% if hasChapters %}
+  {%- for thread in storylineThreads -%}
+    {%- set hasChapters = false -%}
+    {%- for chapter in allChapters -%}
+      {%- if (chapter.data.season | threadForSeason).id == thread.id %}{% set hasChapters = true %}{% endif -%}
+    {%- endfor -%}
+    {%- if hasChapters -%}
     <section class="thread-section" aria-labelledby="thread-{{ thread.id }}">
       <h2 class="thread-section__title" id="thread-{{ thread.id }}">
         <a href="/star-rangers/threads/{{ thread.id }}/">{{ thread.name }}</a>
       </h2>
       <p class="thread-section__description">{{ thread.description }}</p>
-      {% set multiSeason = (allChapters | seasonsInThread(thread.id) | length) > 1 %}
-      {% set currentSeason = -1 %}
-      {% for chapter in allChapters %}
-        {% if (chapter.data.season | threadForSeason).id == thread.id %}
-          {% if chapter.data.season != currentSeason %}
-            {% if currentSeason != -1 %}</ul></div>{% endif %}
-            {% set currentSeason = chapter.data.season %}
+      {%- set multiSeason = (allChapters | seasonsInThread(thread.id) | length) > 1 -%}
+      {%- set currentSeason = -1 -%}
+      {%- for chapter in allChapters -%}
+        {%- if (chapter.data.season | threadForSeason).id == thread.id -%}
+          {%- if chapter.data.season != currentSeason -%}
+            {%- if currentSeason != -1 %}</ul></div>{% endif -%}
+            {%- set currentSeason = chapter.data.season -%}
             <div class="season-block">
-              {% if multiSeason %}
+              {%- if multiSeason -%}
               <h3 class="season-block__title">
                 <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">{{ currentSeason | seasonLabel }}</a>
               </h3>
-              {% endif %}
+              {%- endif -%}
               <ul class="chapter-list" role="list">
-          {% endif %}
+          {%- endif -%}
                 <li class="chapter-list__item">
                   <a href="/star-rangers{{ chapter.url }}">
                     <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
                     <span class="chapter-list__title">{{ chapter.data.title }}</span>
-                    {% if chapter.data.location %}
+                    {%- if chapter.data.location -%}
                     <span class="chapter-list__loc">{{ chapter.data.location }}</span>
-                    {% endif %}
+                    {%- endif -%}
                   </a>
                 </li>
-        {% endif %}
-      {% endfor %}
+        {%- endif -%}
+      {%- endfor -%}
       </ul></div>
     </section>
-    {% endif %}
+    {%- endif -%}
   {% endfor %}
 
   {% set hasUnsorted = false %}
-  {% for chapter in allChapters %}
-    {% if (chapter.data.season | threadForSeason).id == "unsorted" %}{% set hasUnsorted = true %}{% endif %}
-  {% endfor %}
-  {% if hasUnsorted %}
+  {%- for chapter in allChapters -%}
+    {%- if (chapter.data.season | threadForSeason).id == "unsorted" %}{% set hasUnsorted = true %}{% endif -%}
+  {%- endfor -%}
+  {%- if hasUnsorted -%}
   <section class="thread-section" aria-labelledby="thread-unsorted">
     <h2 class="thread-section__title" id="thread-unsorted">Unsorted</h2>
     <p class="thread-section__description">Seasons published before being assigned to a storyline thread.</p>
-    {% set multiSeason = (allChapters | seasonsInThread("unsorted") | length) > 1 %}
-    {% set currentSeason = -1 %}
-    {% for chapter in allChapters %}
-      {% if (chapter.data.season | threadForSeason).id == "unsorted" %}
-        {% if chapter.data.season != currentSeason %}
-          {% if currentSeason != -1 %}</ul></div>{% endif %}
-          {% set currentSeason = chapter.data.season %}
+    {%- set multiSeason = (allChapters | seasonsInThread("unsorted") | length) > 1 -%}
+    {%- set currentSeason = -1 -%}
+    {%- for chapter in allChapters -%}
+      {%- if (chapter.data.season | threadForSeason).id == "unsorted" -%}
+        {%- if chapter.data.season != currentSeason -%}
+          {%- if currentSeason != -1 %}</ul></div>{% endif -%}
+          {%- set currentSeason = chapter.data.season -%}
           <div class="season-block">
-            {% if multiSeason %}
+            {%- if multiSeason -%}
             <h3 class="season-block__title">
               <a href="/star-rangers/seasons/s{{ currentSeason | zeroPad }}/">{{ currentSeason | seasonLabel }}</a>
             </h3>
-            {% endif %}
+            {%- endif -%}
             <ul class="chapter-list" role="list">
-        {% endif %}
+        {%- endif -%}
               <li class="chapter-list__item">
                 <a href="/star-rangers{{ chapter.url }}">
                   <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
                   <span class="chapter-list__title">{{ chapter.data.title }}</span>
-                  {% if chapter.data.location %}
+                  {%- if chapter.data.location -%}
                   <span class="chapter-list__loc">{{ chapter.data.location }}</span>
-                  {% endif %}
+                  {%- endif -%}
                 </a>
               </li>
-      {% endif %}
-    {% endfor %}
+      {%- endif -%}
+    {%- endfor -%}
     </ul></div>
   </section>
-  {% endif %}
+  {%- endif -%}
 {% else %}
   <p class="page-intro">No chapters published yet.</p>
 {% endif %}

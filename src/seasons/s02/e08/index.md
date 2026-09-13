@@ -26,18 +26,18 @@ permalink: /seasons/s02/e08/
 {% set hasEpisodeChapters = false %}
 <ul class="chapter-list" role="list">
 {% for chapter in collections.chapters %}
-  {% if (chapter.data.season ~ "") == seasonNumber and (chapter.data.episode ~ "") == episodeNumber %}
-    {% if not hasEpisodeChapters %}{% set hasEpisodeChapters = true %}{% endif %}
+  {%- if (chapter.data.season ~ "") == seasonNumber and (chapter.data.episode ~ "") == episodeNumber -%}
+    {%- if not hasEpisodeChapters %}{% set hasEpisodeChapters = true %}{% endif -%}
     <li class="chapter-list__item">
       <a href="/star-rangers{{ chapter.url }}">
         <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
         <span class="chapter-list__title">{{ chapter.data.title }}</span>
-        {% if chapter.data.location %}
+        {%- if chapter.data.location -%}
         <span class="chapter-list__loc">{{ chapter.data.location }}</span>
-        {% endif %}
+        {%- endif -%}
       </a>
     </li>
-  {% endif %}
+  {%- endif -%}
 {% endfor %}
 </ul>
 {% if not hasEpisodeChapters %}

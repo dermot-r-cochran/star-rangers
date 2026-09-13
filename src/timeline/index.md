@@ -13,19 +13,19 @@ eleventyComputed:
 {% set events = collections.timelineEvents %}
 {% if events.length %}
 <div class="timeline" role="list" aria-label="Canonical timeline">
-  {% for event in events %}
+  {%- for event in events -%}
   <div class="timeline-event" role="listitem">
     <span class="timeline-event__time">{{ event.data.timestamp | default("Unknown") }}</span>
     <div class="timeline-event__content">
       <h2 class="timeline-event__title">
         <a href="/star-rangers{{ event.url }}" style="color:inherit;text-decoration:none;">{{ event.data.title }}</a>
       </h2>
-      {% if event.data.summary %}
+      {%- if event.data.summary -%}
       <p class="timeline-event__desc">{{ event.data.summary }}</p>
-      {% endif %}
+      {%- endif -%}
     </div>
   </div>
-  {% endfor %}
+  {%- endfor -%}
 </div>
 {% else %}
 <p class="page-intro">No timeline events recorded yet.</p>

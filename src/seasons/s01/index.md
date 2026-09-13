@@ -26,28 +26,28 @@ permalink: /seasons/s01/
 {% set hasSeasonChapters = false %}
 {% set currentEpisode = "" %}
 {% for chapter in collections.chapters %}
-  {% if (chapter.data.season ~ "") == seasonNumber %}
-    {% if not hasSeasonChapters %}{% set hasSeasonChapters = true %}{% endif %}
-    {% set episodeValue = chapter.data.episode ~ "" %}
-    {% if episodeValue != currentEpisode %}
-      {% if currentEpisode %}</ul></div>{% endif %}
-      {% set currentEpisode = episodeValue %}
+  {%- if (chapter.data.season ~ "") == seasonNumber -%}
+    {%- if not hasSeasonChapters %}{% set hasSeasonChapters = true %}{% endif -%}
+    {%- set episodeValue = chapter.data.episode ~ "" -%}
+    {%- if episodeValue != currentEpisode -%}
+      {%- if currentEpisode %}</ul></div>{% endif -%}
+      {%- set currentEpisode = episodeValue -%}
       <div class="season-block">
         <h2 class="season-block__title">
           <a href="/star-rangers/seasons/s01/e{{ chapter.data.episode | zeroPad }}/">Episode {{ chapter.data.episode }}</a>
         </h2>
         <ul class="chapter-list" role="list">
-    {% endif %}
+    {%- endif -%}
           <li class="chapter-list__item">
             <a href="/star-rangers{{ chapter.url }}">
               <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
               <span class="chapter-list__title">{{ chapter.data.title }}</span>
-              {% if chapter.data.location %}
+              {%- if chapter.data.location -%}
               <span class="chapter-list__loc">{{ chapter.data.location }}</span>
-              {% endif %}
+              {%- endif -%}
             </a>
           </li>
-  {% endif %}
+  {%- endif -%}
 {% endfor %}
 {% if hasSeasonChapters %}
   </ul></div>
