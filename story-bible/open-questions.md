@@ -1412,7 +1412,10 @@ and register unchanged). Open:
   which carries the readings flagged: the day count against *Sent for the
   Log*'s ninth day (the chapter names no day), the kit list as prose rather
   than lore, the *nothing to report* rule as a canon fact, and the second
-  chapter's shape, still his.
+  chapter's shape — **ruled the same evening, *Recommendations accepted***:
+  Varn cast first on the edition's hero; the second chapter is the first
+  weeks before the ninth day, when it is written, and not soon; the readings
+  stand. **Open: the second chapter itself**, at his ask.
 - **A palette of its own.** The edition reuses `starquest`; a Young Star
   Rangers face means a new `theme-*.css` through `generate-themes` and the
   contrast gate. Design work, when the first chapter exists.

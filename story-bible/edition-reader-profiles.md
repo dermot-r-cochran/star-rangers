@@ -270,8 +270,9 @@ its own is design work behind the contrast gate, and open.
 
 **Cast** Zoe Smith, alone, until the Deputy exists — and then the Deputy
 first, because this site is theirs. The Deputy exists in the thread since 13
-September 2026 (Iklix Varn, *Nothing to Report*); casting Varn on the hero is
-put to Dermot in `intake-2026-09-13.md`'s third section. Cadet Shepherd may
+September 2026 (Iklix Varn, *Nothing to Report*), and cast first the same
+evening at Dermot's *Recommendations accepted* — `heroCharacterIds` is Varn,
+then Smith. Cadet Shepherd may
 guest (2826 lines up) but is not cast: her page carries her whole arc.
 
 **Reading Plan** its own since 13 September 2026 (Dermot's decision,
