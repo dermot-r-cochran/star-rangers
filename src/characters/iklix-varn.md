@@ -6,7 +6,7 @@ species: Human
 role: "Deputy Officer, Star Rangers — first field posting, fold-approach watch, Eden Space Habitat, under Field Officer Zoe Smith"
 status: Active
 aliases: []
-tags: [human, star-rangers, deputy, boundary-watch, eden, orbital-five-o, orbital-habitats-compact, season-10]
+tags: [human, star-rangers, deputy, boundary-watch, eden, young-star-rangers, orbital-five-o, orbital-habitats-compact, season-9, season-10]
 description: "A Deputy on a first posting to a watch that does not watch anything, sent across Eden's ring to fetch a contractor's log — and back with the one line in it that belongs to nobody."
 image: "iklix-varn.jpg"
 image_alt: "Iklix Varn, a lean young person with short dark hair, in plain grey-brown Star Rangers service dress with a small tab at the collar, standing in a narrow, evenly lit instrument compartment on a space habitat's ring reading a printed document held in both hands, eyes down on the page. A rack of identical sealed grey monitoring housings, each with a single small indicator light, fills the wall to the right; a closed hatch with a flush handle stands behind, and the floor is open grating."
@@ -18,7 +18,7 @@ Varn is young, in the way the [rank](/star-rangers/lore/star-rangers-command-hie
 
 ## The Posting
 
-A Deputy works under a Field Officer's supervision by definition, and Smith supervises the way her assessments say she does: with exactly what can be checked and nothing that cannot. The posting's first lesson, which Varn took on the first day, is that the watch does not watch anything — the instruments watch themselves — and that its job is to be the closest qualified officer when something happens, and to log flatly, in a form that can be checked, when nothing does.
+A Deputy works under a Field Officer's supervision by definition, and Smith supervises the way her assessments say she does: with exactly what can be checked and nothing that cannot. The posting's first lesson, which Varn took on [the first day](/star-rangers/seasons/s09/e01/s09e01c01/), is that the watch does not watch anything — the instruments watch themselves — and that its job is to be the closest qualified officer when something happens, and to log flatly, in a form that can be checked, when nothing does.
 
 Its ninth day was a form. Structural work on Eden that touches the approach monitoring is certified twice, by the habitat and by the watch's countersignature, and the countersign needs the contractor's log as well as the certification copy. The log had not come up the ring. Varn was sent for it — across to the Compact side, where the tab at a Deputy's collar is a courtesy and not a rank — and came back with two documents that agreed about everything the certification had asked and one line the certification had not: a contractor's note that the third approach mount rang under load, initialled in the Certification Office and marked *n/a*. Varn did not know what the note meant. Varn knew what *not a certification item* meant, which was the sentence the whole ring was built out of: a thing that was true and belonged to nobody.
 

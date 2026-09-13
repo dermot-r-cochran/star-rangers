@@ -244,8 +244,8 @@ exactly as elsewhere.
 
 ## `young-star-rangers` — young.fianilchruinne.com
 
-**Registered 3 September 2026; no chapter yet; live at young.fianilchruinne.com
-since 7 September 2026. Theme `starquest` for now. Posture `story`. Threads: the young-adult floor
+**Registered 3 September 2026; first chapter *Nothing to Report* (S09E01C01)
+13 September 2026; live at young.fianilchruinne.com since 7 September 2026. Theme `starquest` for now. Posture `story`. Threads: the young-adult floor
 (undercover-pets, orbital-five-o) plus young-star-rangers. Brand: Young Star
 Rangers.**
 
@@ -265,17 +265,20 @@ the reader's proxy has to stay one of fourteen.
 
 **Posture** `story`, shared with starquest for the reason given there.
 
-**Palette** borrowed from starquest until the first chapter exists; a face of
-its own is design work behind the contrast gate.
+**Palette** borrowed from starquest; the first chapter now exists, so a face of
+its own is design work behind the contrast gate, and open.
 
 **Cast** Zoe Smith, alone, until the Deputy exists — and then the Deputy
-first, because this site is theirs. Cadet Shepherd may guest (2826 lines up)
-but is not cast: her page carries her whole arc.
+first, because this site is theirs. The Deputy exists in the thread since 13
+September 2026 (Iklix Varn, *Nothing to Report*); casting Varn on the hero is
+put to Dermot in `intake-2026-09-13.md`'s third section. Cadet Shepherd may
+guest (2826 lines up) but is not cast: her page carries her whole arc.
 
 **Reading Plan** its own since 13 September 2026 (Dermot's decision,
-`intake-2026-09-13.md`): the Corps' register, starting on Orbital Five-O
-until Season 9 has a chapter, because Sen's note named a spine the edition
-does not carry and its link fell back to a pets chapter. The same day six of
+`intake-2026-09-13.md`): the Corps' register, because Sen's note named a
+spine the edition does not carry and its link fell back to a pets chapter. It
+started on Orbital Five-O for the hours Season 9 had no chapter and starts on
+*Nothing to Report* since the same evening. The same day six of
 the Corps' own lore pages — the founding, the chain of command, rank and
 uniform, the Academy, decision doctrine, proverbs — were tagged for the
 thread, so the reader inside the service has the Corps' shelf.
