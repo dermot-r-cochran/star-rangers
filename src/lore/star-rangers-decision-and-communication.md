@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Decision-Making and Communication in the Star Rangers"
 category: "Institutions"
-tags: [star-rangers, decision-making, communication, doctrine, chain-of-command, subsidiarity, safety-corps, escalation, institutions]
+tags: [star-rangers, decision-making, communication, doctrine, chain-of-command, subsidiarity, safety-corps, escalation, institutions, young-star-rangers]
 description: "Why the Corps pushes decisions to whoever is closest to the boundary, trains its officers to say only what they can support, and still keeps a handful of lines no field judgment is allowed to cross."
 image: "star-rangers-decision-and-communication.jpg"
 image_alt: "Designed cover for Decision-Making and Communication in the Star Rangers: a blue signal/broadcast-wave emblem in a ringed seal, on a dark background."

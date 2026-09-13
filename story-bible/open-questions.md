@@ -1402,7 +1402,12 @@ and register unchanged). Open:
   serve full copies with their canonical on `fianilchruinne.com`.
 - ~~**The thread's registration**~~ — **done the same day**: `young-star-rangers`,
   Season 9, index pages only. **Its first chapter** is still to be written to
-  the gap, and waits on the Deputy's identity (above).
+  the gap; ~~waits on the Deputy's identity (above)~~ — the Deputy is Iklix
+  Varn (4 September). **Its shape put as three choices on 13 September 2026**
+  (`intake-2026-09-13.md`, second section): Varn's arrival on the Eden watch
+  in early 2828 before *Sent for the Log* (recommended); Varn's Cadet year;
+  or a 2826 chapter with Cadet Shepherd as guest beside a new Deputy. Nothing
+  drafted until he picks.
 - **A palette of its own.** The edition reuses `starquest`; a Young Star
   Rangers face means a new `theme-*.css` through `generate-themes` and the
   contrast gate. Design work, when the first chapter exists.

@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Rank and the Chain of Command"
 category: "Institutions"
-tags: [star-rangers, rank, command-hierarchy, field-officer, chief, chief-provost, chief-science-officer, science-corps, guild-leadership, chapter-leader, corps-president, starwarden, archwarden, starwarden-first-officer, line-captain, star-captain, high-captain, council-of-high-captains, triumvirate, field-triumvirate, chain-of-command, oversight-council, institutions]
+tags: [star-rangers, rank, command-hierarchy, field-officer, chief, chief-provost, chief-science-officer, science-corps, guild-leadership, chapter-leader, corps-president, starwarden, archwarden, starwarden-first-officer, line-captain, star-captain, high-captain, council-of-high-captains, triumvirate, field-triumvirate, chain-of-command, oversight-council, institutions, young-star-rangers]
 description: "The Star Rangers' internal rank ladder, from Novice to the Triumvirate, how a civil-service career track and a naval command track were fused into one chain at founding, why the specialist corps are governed as guilds the command ladder has no say over, when a field-level Triumvirate can authorise emergency action, and why the Rangers are neither an army nor a navy despite sounding like one."
 image: "star-rangers-command-hierarchy.jpg"
 image_alt: "Designed cover for Rank and the Chain of Command: three stacked chevrons in a pale blue glow on a dark navy field, the category INSTITUTIONS above and the title beneath, with the lines The Rank Ladder, Novice to Triumvirate and Two career tracks fused into one chain."
