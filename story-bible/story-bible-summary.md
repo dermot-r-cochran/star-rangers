@@ -573,7 +573,7 @@ Notes that keep the tiers honest:
   tier's filters and inherited upward. The young Deputy of the third
   direction is its natural protagonist and Shepherd's 2826 its guest window.
   Realized the same day, readings confirmed and the subdomain approved: thread
-  `young-star-rangers` (Season 9, no chapter yet), edition
+  `young-star-rangers` (Season 9; first chapter *Nothing to Report*, 13 September 2026), edition
   `young-star-rangers` on `young.fianilchruinne.com` carrying the young-adult
   floor plus the thread, Zoe Smith cast. The thread is listed on
   `GENERAL_TIER`, not the young-adult floor, so starquest.site keeps the
