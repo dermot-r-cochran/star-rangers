@@ -380,6 +380,15 @@ link, so the page says it is not here and points back to the story. Same day,
 the scene-POV rule was fixed so an animal's "View from" page is real here (all
 57 had been placeholders), and Aldera and Sorcha joined the domain's cast by
 tag; the Season 1 companions and the Five-O cast stay out by Dermot's choice.
+**Season 1 itself came off the domain on 13 September 2026** (Dermot's
+decision, `intake-2026-09-13.md`): ten Season 1 chapters had carried the pets
+tag and rendered here under a *Tissadelle Shepherd's Arc* heading above
+Season 2, in the general register; the tag came off, so the domain's Seasons
+page is Season 2 alone, opened by a plain-register intro of its own
+(`seasonsIntro`). The same day the header stopped listing Lore and Atlas here,
+which were empty, and the Reading Plan's *More stories* line was reworded to
+say the other stories are on the grown-ups' site (it no longer renders here
+in any case, there being no other chapters to list).
 **Cast:** Barsik, Bubochka, the Eden warden,
 Nessa, Rasa Oyelaran — unchanged on 2026-08-21 when every other edition got one,
 because this was the only edition that had ever had a cast of its own and it is

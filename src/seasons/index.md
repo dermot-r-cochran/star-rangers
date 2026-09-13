@@ -7,6 +7,11 @@ permalink: /seasons/
 ---
 <img class="page-hero-image" src="/star-rangers/images/hero/seasons-orbit.jpg" alt="A space station orbiting a planet against the backdrop of the universe" />
 <h1 class="page-title">Seasons &amp; Episodes</h1>
+{%- if edition.seasonsIntro -%}
+{%- for para in edition.seasonsIntro -%}
+<p class="page-intro">{{ para | safe }}</p>
+{%- endfor -%}
+{%- else -%}
 <p class="page-intro">
   Begin with the record: one history, many witnesses. Read a chapter in any available character's point of view, then switch inside the chapter to see how duty, fear, and memory reshape the same event.
 </p>
@@ -16,6 +21,7 @@ permalink: /seasons/
 <p class="page-intro">
   Seasons are grouped below by <a href="/star-rangers/threads/">storyline thread</a> — each thread is an independent narrative, not a strict release order. See the <a href="/star-rangers/threads/">Threads</a> page for what each one covers. First visit? The <a href="/star-rangers/start/">reading plan</a> lays out a guided path.
 </p>
+{%- endif -%}
 
 {% set allChapters = collections.chapters %}
 {% if allChapters.length %}

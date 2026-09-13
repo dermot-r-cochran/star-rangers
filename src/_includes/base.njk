@@ -146,11 +146,22 @@
           <li><a href="/star-rangers/seasons/" {% if "/seasons/" in page.url %}aria-current="page"{% endif %}>Seasons</a></li>
           <li><a href="/star-rangers/threads/" {% if "/threads/" in page.url %}aria-current="page"{% endif %}>Threads</a></li>
           <li><a href="/star-rangers/characters/" {% if "/characters/" in page.url %}aria-current="page"{% endif %}>Characters</a></li>
-          <li><a href="/star-rangers/timeline/" {% if "/timeline/" in page.url %}aria-current="page"{% endif %}>Timeline</a></li>
-          <li><a href="/star-rangers/lore/" {% if "/lore/" in page.url %}aria-current="page"{% endif %}>Lore</a></li>
-          <li><a href="/star-rangers/atlas/" {% if "/atlas/" in page.url %}aria-current="page"{% endif %}>Atlas</a></li>
-          <li><a href="/star-rangers/glossary/" {% if "/glossary/" in page.url %}aria-current="page"{% endif %}>Glossary</a></li>
-          <li><a href="/star-rangers/codex/" {% if "/codex/" in page.url %}aria-current="page"{% endif %}>Codex</a></li>
+          {#- A header item is a promise that the section behind it has
+              something on it (the same rule the homepage cards follow). On a
+              narrowed edition Lore, Atlas, Timeline, Glossary or Codex can be
+              empty - undercover-pets.com had three items opening on "nothing
+              published yet" - so each is shown only when its filtered
+              collection is non-empty. Seasons, Threads, Characters, Story
+              Engine and About always have a page behind them. 2026-09-13. -#}
+          {%- set atlasHasPlaces = false -%}
+          {%- for entry in collections.lore -%}
+            {%- if entry.data.category == "Locations" and entry.data.galaxy %}{% set atlasHasPlaces = true %}{% endif -%}
+          {%- endfor %}
+          {% if collections.timelineEvents.length %}<li><a href="/star-rangers/timeline/" {% if "/timeline/" in page.url %}aria-current="page"{% endif %}>Timeline</a></li>{% endif %}
+          {% if collections.lore.length %}<li><a href="/star-rangers/lore/" {% if "/lore/" in page.url %}aria-current="page"{% endif %}>Lore</a></li>{% endif %}
+          {% if atlasHasPlaces %}<li><a href="/star-rangers/atlas/" {% if "/atlas/" in page.url %}aria-current="page"{% endif %}>Atlas</a></li>{% endif %}
+          {% if collections.glossary.length %}<li><a href="/star-rangers/glossary/" {% if "/glossary/" in page.url %}aria-current="page"{% endif %}>Glossary</a></li>{% endif %}
+          {% if collections.codex.length %}<li><a href="/star-rangers/codex/" {% if "/codex/" in page.url %}aria-current="page"{% endif %}>Codex</a></li>{% endif %}
           <li><a href="/star-rangers/story-engine/" {% if "/story-engine/" in page.url or "/journal/" in page.url %}aria-current="page"{% endif %}>Story Engine</a></li>
           <li><a href="/star-rangers/about/" {% if "/about/" in page.url %}aria-current="page"{% endif %}>About</a></li>
         </ul>

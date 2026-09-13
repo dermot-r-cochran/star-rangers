@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Timeline Event"
+title: "Causeway Convergence: Elvira, Galahad, and Aldera"
 timestamp: "2826 UCSD, Late Autumn"
 sort_order: 110
 summary: "Galahad, Elvira, and Aldera converge at the Marsh Causeway after Elvira's third failed ritual. The Court-Fae feeding signature is first identified."

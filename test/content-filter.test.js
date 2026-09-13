@@ -268,6 +268,17 @@ test("isSeasonInIncludedThread: THREADS only, via the season's registered thread
 // The POV page follows the CHARACTER, not the chapter. `characterData` is
 // passed explicitly here so the truth table does not depend on what the
 // live corpus happens to tag; `null` means "no character page at all".
+test("isCharacterPovIncluded: a witness the build carries still gets no page for a chapter the build excludes", () => {
+  const pets = filterFor({ topics: "undercover-pets.com", threads: "undercover-pets" });
+  const aldera = { tags: ["cat", "undercover-pets.com"] };
+  const seasonOne = { season: 1, tags: ["prequel", "aldera"], povs: [{ id: "aldera" }] };
+  const seasonTwo = { season: 2, tags: ["eden"], povs: [{ id: "aldera" }] };
+  assert.equal(isCharacterPovIncluded("aldera", pets, seasonTwo, aldera), true);
+  assert.equal(isCharacterPovIncluded("aldera", pets, seasonOne, aldera), false);
+  // CHARACTERS names the witness AND the chapter's povs, so the chapter is included too.
+  assert.equal(isCharacterPovIncluded("aldera", filterFor({ characters: "aldera" }), seasonOne, aldera), true);
+});
+
 test("isCharacterPovIncluded: CHARACTERS grants a POV page outright", () => {
   assert.equal(isCharacterPovIncluded("tissadelle", filterFor({ characters: "tissadelle" }), undefined, null), true);
   assert.equal(isCharacterPovIncluded("aldera", filterFor({ characters: "tissadelle" }), undefined, null), false);
