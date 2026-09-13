@@ -272,6 +272,14 @@ its own is design work behind the contrast gate.
 first, because this site is theirs. Cadet Shepherd may guest (2826 lines up)
 but is not cast: her page carries her whole arc.
 
+**Reading Plan** its own since 13 September 2026 (Dermot's decision,
+`intake-2026-09-13.md`): the Corps' register, starting on Orbital Five-O
+until Season 9 has a chapter, because Sen's note named a spine the edition
+does not carry and its link fell back to a pets chapter. The same day six of
+the Corps' own lore pages — the founding, the chain of command, rank and
+uniform, the Academy, decision doctrine, proverbs — were tagged for the
+thread, so the reader inside the service has the Corps' shelf.
+
 **Never** put the thread on starquest.site: that domain is a procedural's
 brand, and a Corps story under it would read as a spin-off of the wrong show.
 The general tier carries both by construction, which is where a reader who

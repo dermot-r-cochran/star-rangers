@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Rank, Insignia, and the Ranger Uniform"
 category: "Institutions"
-tags: [star-rangers, rank, insignia, uniform, survey-corps, safety-corps, pilot-section, institutions]
+tags: [star-rangers, rank, insignia, uniform, survey-corps, safety-corps, pilot-section, institutions, young-star-rangers]
 description: "How the Star Rangers mark rank and corps affiliation, and why their uniform was built to reject the Military Space Command's display culture from the first draft of the charter onward."
 image: "rank-insignia-and-uniform.jpg"
 image_alt: "Designed cover for Rank, Insignia, and the Ranger Uniform: a blue chevron insignia emblem in a ringed seal, on a dark background."

@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "The Founding of the Star Rangers"
 category: "History"
-tags: [star-rangers, founding, msc, eden, fold-route, charter, history, formation]
+tags: [star-rangers, founding, msc, eden, fold-route, charter, history, formation, young-star-rangers]
 description: "How the Star Rangers came to exist: the pressures, the arguments, and the moment the Military Space Command's institutional failure became irreversible."
 ---
 
