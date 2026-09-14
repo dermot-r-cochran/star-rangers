@@ -263,6 +263,13 @@ more way: by making the Deputy a chosen one. The Corps hands its rawest
 Deputies to Zoe Smith because they are raw, not because they are special, and
 the reader's proxy has to stay one of fourteen.
 
+**Also wants**, since 14 September 2026 (Dermot's direction,
+`intake-2026-09-14.md`, tier-wide and shared with starquest): the
+awkwardness, flirting, signalling and misread cues between younger
+characters, written with the signal and its reading both on the page. The
+Deputy's year is also the year of getting that wrong, and the tier is where
+the record says so.
+
 **Posture** `story`, shared with starquest for the reason given there.
 
 **Palette** borrowed from starquest; the first chapter now exists, so a face of
