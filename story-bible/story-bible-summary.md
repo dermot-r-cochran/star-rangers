@@ -621,6 +621,19 @@ Notes that keep the tiers honest:
   left hard to define rather than over-specified. Legacy is what a life
   leaves in others and in the record; meaning is asked, never issued. What
   the tier is *for*, not a quota, and no gate.
+- **The three tier questions are human ones; alien cultures answer them
+  differently, or not at all (14 September 2026, Dermot's direction, verbatim
+  in `intake-2026-09-14.md`, last section: *Alien cultures have very
+  different concepts of relationships, life, death, family, career, role,
+  status, legacy, individuality and personhood*).** The qualifier on the
+  three directions above. A non-human people's answer to each of the ten is
+  derived from its world and sensorium, never assigned from a list of
+  alternatives, and may be *present*, *shaped*, *absent* or *unaskable*;
+  a different concept is never a lesser one; and when a non-human viewpoint
+  carries a tier's question, the scene asks the human question in the
+  people's own terms and lets the answer be theirs. Realized as the eighth
+  question in `mind-design.md`, answered for every people that gets a mind
+  note, and a trap in `species-design.md`.
 - **The children's tier gets a second thread, Below the Roof (6 September
   2026, Dermot's ruling — `intake-2026-09-06.md`, third section: *Pandoid
   thread in child reader tier*).** The Pandoids of Fliade from inside, the
