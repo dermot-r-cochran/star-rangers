@@ -1,8 +1,30 @@
 ---
 layout: base.njk
-title: "About the Author"
-description: "About Dermot R. Cochran, creator of Fian Ilchruinne."
+eleventyComputed:
+  title: "{% if edition.about %}{{ edition.about.title }}{% else %}About the Author{% endif %}"
+  description: "{% if edition.about %}Who made {{ site.name }}, and how a grown-up can reach him.{% else %}About Dermot R. Cochran, creator of Fian Ilchruinne.{% endif %}"
 ---
+{%- if edition.about -%}
+{#- ======================================================================
+    The plain-register About. A tier opts into this by carrying `about` in
+    lib/editions.js (today: the children's tier, on CHILDREN_TIER, so both
+    children's doors serve the same page). The registry supplies the
+    sentences; this template supplies the markup. No hero: the site-wide
+    card below is the ILLUSTRATION PENDING placeholder. The child-facing
+    paragraphs name the main site in words and never link it (the 2
+    September ruling on excludedNotice); the grown-ups block carries the
+    page's only links, all to adult destinations.
+    ====================================================================== -#}
+<h1 class="page-title">{{ edition.about.title }}</h1>
+{%- for para in edition.about.intro %}
+<p class="page-intro">{{ para | safe }}</p>
+{%- endfor %}
+
+<h2 id="grown-ups">{{ edition.about.grownUpsTitle }}</h2>
+{%- for para in edition.about.grownUps %}
+<p>{{ para | safe }}</p>
+{%- endfor %}
+{%- else -%}
 <img class="page-hero-image" src="/star-rangers/images/hero/about-writer.jpg" alt="Designed placeholder card for About the Author: the title set in pale serif type over a dark blue-black gradient, headed ILLUSTRATION PENDING. No illustration for this entry exists yet." />
 <h1 class="page-title">About the Author</h1>
 <p class="page-intro">
@@ -121,3 +143,4 @@ description: "About Dermot R. Cochran, creator of Fian Ilchruinne."
   glossary and the chapters are identical on every domain, and a narrowed clone shows a
   subset of one record rather than a variant of it.
 </p>
+{%- endif -%}

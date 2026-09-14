@@ -315,8 +315,14 @@
       <p class="site-lang-note">
         Written in English, its canonical language. Your browser can translate any page into
         another language — those translations are automatic and <strong>unofficial</strong>, and
-        the English text is always the authority on canon. A human translation offered as a
+        the English text is always the authority on canon.
+        {#- The fan-works anchor exists only on the site-wide About; a tier
+            with its own plain-register About (lib/editions.js `about`) has no
+            such section, and the sentence is written for the adult reader
+            in any case. -#}
+        {%- if not edition.about %} A human translation offered as a
         <a href="/star-rangers/about/#fan-works">fan work</a> is welcome too.
+        {%- endif %}
       </p>
     </div>
   </footer>
