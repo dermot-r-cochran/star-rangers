@@ -452,6 +452,15 @@ earned by reflective work — this is the 800–1,200-word band.
 action, a badge, or a thing competing for attention breaks the register this
 edition exists to hold.
 
+**Also wants**, since 14 September 2026 (Dermot's direction,
+`intake-2026-09-14.md`, tier-wide and shared with the other contemplative
+editions): legacy and the meaning of life on the page — what survives after
+death, and what it all means — carried by the oldest body in the room and
+the cast in their later years, with the Archive's narrow mechanism and the
+traditions' wider claim both present and neither ruled on. The
+contemplative reader is the one who has already asked the question and is
+not here to be given the answer.
+
 **Posture** `contemplative`: the slowest setting on the site. 19px root, 1.9
 leading — the longest on any edition — a 62ch measure, wide paragraph spacing,
 and **titles in the body colour rather than the accent**, so nothing on the

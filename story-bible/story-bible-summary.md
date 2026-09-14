@@ -605,6 +605,22 @@ Notes that keep the tiers honest:
   to the cast principles (strength and vulnerability orthogonal; no
   stereotypes of age any more than of gender) and to the tier rule. Like
   the young-adult direction above, what the tier is *for*, not a quota.
+- **The contemplative tier is more focused on legacy and the meaning of
+  life: what survives after death, and what it all means (14 September
+  2026, Dermot's direction, verbatim in `intake-2026-09-14.md`, last
+  section).** The third of the evening's tier directions, completing the
+  ladder: the young adult misreads a cue, the general reader's career stops
+  answering, the contemplative reader asks what is left. A standing
+  direction for the church-space thread and for every contemplative
+  edition, carried by the oldest body in the room and the existing cast in
+  their later years. The record's own vocabulary is already on the shelf —
+  Conceptual Conservation as the Archive's narrow mechanism, Kiemeic
+  translation as what the traditions hold, the three-way reading of every
+  contested event — and the direction is written the way the record writes
+  all of it: both positions on the page, adjudicating none, the mysterious
+  left hard to define rather than over-specified. Legacy is what a life
+  leaves in others and in the record; meaning is asked, never issued. What
+  the tier is *for*, not a quota, and no gate.
 - **The children's tier gets a second thread, Below the Roof (6 September
   2026, Dermot's ruling — `intake-2026-09-06.md`, third section: *Pandoid
   thread in child reader tier*).** The Pandoids of Fliade from inside, the
