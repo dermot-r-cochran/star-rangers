@@ -401,6 +401,14 @@ page is Season 2 alone, opened by a plain-register intro of its own
 which were empty, and the Reading Plan's *More stories* line was reworded to
 say the other stories are on the grown-ups' site (it no longer renders here
 in any case, there being no other chapters to list).
+**The About page became the tier's own on 14 September 2026** (Dermot's
+decisions, `intake-2026-09-14.md`): until then the domain served the adult
+About verbatim — job title, build tooling, fan-fiction policy and a live link
+to the comments board this tier had switched off — and offered a parent or
+teacher no way to reach the author. Now `about` on `CHILDREN_TIER` in
+`lib/editions.js` (so The Told serves the same page) gives four plain
+paragraphs for the child and a *For grown-ups* block naming the discussion
+board and two Grok safari games. Not a redirect, by his ruling.
 **Cast:** Barsik, Bubochka, the Eden warden,
 Nessa, Rasa Oyelaran — unchanged on 2026-08-21 when every other edition got one,
 because this was the only edition that had ever had a cast of its own and it is

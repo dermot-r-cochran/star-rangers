@@ -175,6 +175,52 @@ test("the pets edition carries a plain-register notice", () => {
   validateExcludedNotice({ ...DEFAULT_EDITION, ...pets });
 });
 
+// THE TIER'S ABOUT PAGE (2026-09-14): a plain-register About a tier carries
+// in place of the site-wide page, checked the way excludedNotice is.
+const { validateAbout } = require("../lib/editions");
+
+test("a null or absent about is fine", () => {
+  validateAbout(edition({ about: null }));
+  validateAbout(edition({}));
+});
+
+test("an about needs its two titles and two paragraph arrays, and nothing else", () => {
+  const good = { title: "About", intro: ["Who made it."], grownUpsTitle: "For grown-ups", grownUps: ["How to reach him."] };
+  validateAbout(edition({ about: good }));
+  for (const field of ["title", "grownUpsTitle"]) {
+    assert.throws(
+      () => validateAbout(edition({ about: { ...good, [field]: " " } })),
+      new RegExp(`about\\.${field} must be a non-empty string`),
+      field
+    );
+  }
+  for (const field of ["intro", "grownUps"]) {
+    assert.throws(
+      () => validateAbout(edition({ about: { ...good, [field]: [] } })),
+      new RegExp(`about\\.${field} must be a non-empty array`),
+      field
+    );
+    assert.throws(
+      () => validateAbout(edition({ about: { ...good, [field]: ["ok", " "] } })),
+      new RegExp(`about\\.${field}\\[1\\] must be a non-empty string`),
+      field
+    );
+  }
+  assert.throws(() => validateAbout(edition({ about: { ...good, email: "x" } })), /unknown field "email"/);
+});
+
+test("every children's-tier edition carries the tier's About, and no other tier does", () => {
+  const children = allEditions().filter((e) => e.tier === "children");
+  assert.ok(children.length >= 2, "two children's doors were registered by 2026-09-07");
+  for (const e of children) {
+    assert.strictEqual(e.about, TIERS.children.about, `${e.id} carries the tier's About, not a copy`);
+    validateAbout({ ...DEFAULT_EDITION, ...e });
+  }
+  for (const e of allEditions().filter((e) => e.tier !== "children")) {
+    assert.equal(e.about, undefined, `${e.id} serves the site-wide About`);
+  }
+});
+
 // THE TIER LADDER (2026-09-03): children ⊂ young adult ⊂ general ⊂
 // contemplative. The registry defines each tier once and spreads it; these pin
 // that the chain nests, that every reading edition carries its tier whole, and

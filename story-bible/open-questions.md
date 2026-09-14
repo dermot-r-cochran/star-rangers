@@ -35,6 +35,17 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The children's About page's contact line — raised 14 September 2026
+
+**Raised in** `intake-2026-09-14.md`, *Left open*. The children's tier's
+About page (`about` on `CHILDREN_TIER`, `lib/editions.js`) tells a parent,
+teacher, guardian or critic to reach the author on the GitHub discussion
+board, which needs a free GitHub account most of them do not hold. Whether to
+publish an email address instead of, or beside, the board is Dermot's call
+(personal data on a public page; *Other people* and *Risk you are accepting*
+on the working folder's list). The page ships with the board alone until he
+makes it; the change is one sentence in the second grown-ups paragraph.
+
 ## Threshold Station's siting — raised 31 August 2026, RULED same day
 
 **Ruled by Dermot, 31 August 2026: ground/coastal** ("Rule ground/coastal
