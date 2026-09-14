@@ -578,6 +578,17 @@ Notes that keep the tiers honest:
   floor plus the thread, Zoe Smith cast. The thread is listed on
   `GENERAL_TIER`, not the young-adult floor, so starquest.site keeps the
   procedural's own page set and the tiers above carry the thread anyway.
+- **The young-adult tier addresses awkwardness, flirting, signalling and
+  misread cues between younger characters (14 September 2026, Dermot's
+  direction, verbatim in `intake-2026-09-14.md`, last section).** A standing
+  direction for both young-adult threads, Orbital Five-O and Young Star
+  Rangers, and for any edition on that floor: relationships between the
+  younger cast are written with the signal and the reading of the signal
+  both on the page, and the misreading is a scene, not a joke. Held to the
+  cast principles as they stand — no gender stereotypes, strength and
+  vulnerability orthogonal — and to the tier rule: reading level,
+  protagonists and depth, never a content gate. What the tier is *for*, not a
+  quota; a chapter that has no such scene owes none.
 - **The children's tier gets a second thread, Below the Roof (6 September
   2026, Dermot's ruling — `intake-2026-09-06.md`, third section: *Pandoid
   thread in child reader tier*).** The Pandoids of Fliade from inside, the
