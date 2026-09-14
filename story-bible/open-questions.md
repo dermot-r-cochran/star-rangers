@@ -1431,7 +1431,16 @@ and register unchanged). Open:
   chapter's shape — **ruled the same evening, *Recommendations accepted***:
   Varn cast first on the edition's hero; the second chapter is the first
   weeks before the ninth day, when it is written, and not soon; the readings
-  stand. **Open: the second chapter itself**, at his ask.
+  stand. ~~**Open: the second chapter itself**, at his ask.~~ — **drafted
+  14 September 2026 at his *Yes*, as *The Door With the Plant*
+  (S09E01C02)**: the fourth and fifth days, a neighbour with a watering
+  can, the honest step taken outside the hatch, Smith reading both signals
+  and saying nothing (`intake-2026-09-14.md`, last section, five readings
+  flagged). **Open now: the season's year** — the Season 9 index says it
+  *shares its year with Season 1* (2826) while the chapters and Varn's page
+  are 2828, matching *Sent for the Log*; the 13 September intake gave
+  Shepherd's 2826 as the guest window. Which resolves (the index line, or
+  the guest) is his. And the neighbour's name, if he recurs.
 - **A palette of its own.** The edition reuses `starquest`; a Young Star
   Rangers face means a new `theme-*.css` through `generate-themes` and the
   contrast gate. Design work, when the first chapter exists.
