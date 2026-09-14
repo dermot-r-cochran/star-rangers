@@ -252,6 +252,15 @@ distinct histories, rather than five body plans with the same story attached.
   that is good. But a species should also be *better* at something than
   everyone around it, or the difference reads as a disability rather than a
   different world.
+- **The human concept with alien furniture.** A people whose body was derived
+  from their world and whose family, career, status, death and personhood
+  are ours with the nouns changed. Dermot's direction, 14 September 2026:
+  *alien cultures have very different concepts of relationships, life, death,
+  family, career, role, status, legacy, individuality and personhood* — see
+  `mind-design.md`'s eighth question, which asks each of the ten for every
+  people and allows *absent* and *unaskable* as answers. The body note gets
+  a people's senses right; if the mind note is skipped, the senses end up
+  serving a human life.
 
 ## The uniform equivalent (Dermot's direction, 10 September 2026)
 

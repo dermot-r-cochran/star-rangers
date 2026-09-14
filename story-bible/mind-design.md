@@ -49,6 +49,72 @@ about*. These are its consequences, in the order they bite.
    the young-adult tier's protagonists young in their own species' years, so
    the note has to say what a young one has not yet got.
 
+## The concepts a people may not share (Dermot's direction, 14 September 2026)
+
+Verbatim, `intake-2026-09-14.md`, last section: *Alien cultures have very
+different concepts of relationships, life, death, family, career, role,
+status, legacy, individuality and personhood.*
+
+Given the same evening as the three tier directions (young adult: awkwardness
+and misread cues; general: mid-life and career; contemplative: legacy and what
+survives), and read as their qualifier: those are the questions of a **human**
+life stage, and a non-human people's answer to each is not a variant of the
+human answer. It may be a different answer; it may be no answer, because the
+concept does not exist for them; it may be a question they cannot ask, because
+their sensorium or their social structure never presents it. So the seven
+questions above gain a standing eighth, to be answered for every people that
+gets a mind note, concept by concept:
+
+8. **Which of these ten does this people have at all, and in what shape:
+   relationships, life, death, family, career, role, status, legacy,
+   individuality, personhood?** For each: *present as we mean it*, *present
+   but shaped by the world* (say how), *absent* (say what stands where it
+   would be), or *unaskable* (say what in the sensorium or the structure
+   forecloses it). The Chthonari answers below already do this for some of
+   the ten without naming them — a machine is a completion (role, legacy),
+   nothing was ever scarce (status), a shared structure nobody else can feel
+   (individuality) — and the section is to be read as the eighth question
+   answered in passing. Future notes answer it outright.
+
+   **Death includes the afterlife**, and Dermot drew the consequence the same
+   evening, verbatim: *So even the 'afterlife' is not a universal concept or
+   belief.* The record's distinction carries it. Conceptual Conservation is
+   the Archive's structural mechanism and holds for every coherent mind
+   whether or not its people have a word for it; what a people *believes*
+   follows death — translation, a Spiritual layer, a return, nothing — is
+   theirs, and may be absent or unaskable like any of the ten. A people with
+   no afterlife is not a people who lost one; a people whose dead are
+   *retained without being continued* in their own vocabulary may have
+   arrived at the Archive's position from inside, and the record should
+   notice without congratulating them. The contemplative tier's question,
+   *what survives*, is therefore asked of a non-human people in their terms
+   or not at all.
+
+Three rules travel with it, all already on the record:
+
+- **Derive, don't assign.** The answer comes from the world and the
+  sensorium, the way everything in these notes does, never from a list of
+  interesting alternatives. An alien with a hive mind because hive minds are
+  alien is the trope default; a people whose *individuality* is a shared
+  structure because their thought is the Undersong is a derivation.
+- **A different concept is not a lesser one.** The species note's last trap
+  applies: difference written only as difficulty reads as disability. A
+  people with no concept of legacy is not a people who failed to have one.
+  Where the ten are answered, at least one answer should be something the
+  people are *better* for, from inside.
+- **The tier's question is asked, not the tier's answer.** When a non-human
+  viewpoint carries a tier's question — a Chthonari in a young-adult season
+  misreading a cue, a Told elder on what survives — the scene asks the human
+  question in the people's own terms and lets the answer be theirs. The
+  three-way reading holds here too: the people's own account, the Archive's,
+  and the observer who got it wrong.
+
+On individuality and personhood in particular, the record has one more
+standing constraint: a people whose personhood is plural or shared is written
+in the terms such people would use for themselves, never as a disorder, a
+horror or a hive. That is the tone guardrail and the cast principles applied
+to a mind rather than a body.
+
 ## The Chthonari, answered
 
 ### 1. Certain of structure; unable to read a face
