@@ -90,7 +90,32 @@ gets a mind note, concept by concept:
    *what survives*, is therefore asked of a non-human people in their terms
    or not at all.
 
-Three rules travel with it, all already on the record:
+9. **How does this people interpret, understand and relate to the Cosmic
+   Cascade — and how many views of it do they hold?** Dermot's direction,
+   the same evening, verbatim: *Not only different devotional traditions but
+   also different aliens cultures and view within alien cultures all have
+   their own perspective on how they interpret, understand and relate to the
+   Cosmic Cascade.* The Archive's phrase *devotional tradition* is its
+   deliberate flattening of every human faith; the ninth question says the
+   flattening was never wide enough. A non-human people's relation to the
+   Cascade is derived like everything else here — from what their sensorium
+   registers of it (a people whose thought is the Undersong may hear the
+   Cascade's invariants as a chord and never as a hierarchy), from which
+   strata their world has ever been touched by, and from what their ten
+   concepts leave room for (a people with no personhood as we mean it has no
+   *avatar* problem and may have no word for a Champion). And it is never
+   one view: the planet-of-hats trap applies to cosmology as it applies to
+   temperament, so every people holds at least a majority reading, a
+   minority one, and a sceptical body of its own, the way settled human
+   space holds the traditions, the Institute and the transmission critics.
+   The three-way reading of any contested event extends to their accounts
+   unchanged: their reading, the physical one, and the doubt about the
+   telling. Nothing a people believes about the Cascade is adjudicated by
+   the record, and nothing in the Cascade forbids their believing it; the
+   Global Invariants say what the Cascade admits, never what anyone, human
+   or not, holds.
+
+Three rules travel with both questions, all already on the record:
 
 - **Derive, don't assign.** The answer comes from the world and the
   sensorium, the way everything in these notes does, never from a list of

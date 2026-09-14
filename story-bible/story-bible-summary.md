@@ -634,6 +634,18 @@ Notes that keep the tiers honest:
   people's own terms and lets the answer be theirs. Realized as the eighth
   question in `mind-design.md`, answered for every people that gets a mind
   note, and a trap in `species-design.md`.
+- **Every alien culture, and every view within one, has its own way of
+  interpreting, understanding and relating to the Cosmic Cascade (14
+  September 2026, Dermot's direction, verbatim in `intake-2026-09-14.md`,
+  last section).** The Archive's *devotional tradition* flattened every
+  human faith; it was never wide enough. A people's relation to the Cascade
+  is derived from its sensorium, from which strata have ever touched its
+  world, and from what its ten concepts leave room for; it is never one
+  view, the planet-of-hats trap applying to cosmology as to temperament;
+  and the three-way reading of a contested event extends to their accounts
+  unchanged. The record adjudicates none of it, and the Global Invariants
+  say what the Cascade admits, never what anyone holds. Realized as the
+  ninth question in `mind-design.md`.
 - **The children's tier gets a second thread, Below the Roof (6 September
   2026, Dermot's ruling — `intake-2026-09-06.md`, third section: *Pandoid
   thread in child reader tier*).** The Pandoids of Fliade from inside, the
