@@ -35,16 +35,18 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## The children's About page's contact line — raised 14 September 2026
+## The children's About page's contact line — raised 14 September 2026, RULED same day
 
-**Raised in** `intake-2026-09-14.md`, *Left open*. The children's tier's
-About page (`about` on `CHILDREN_TIER`, `lib/editions.js`) tells a parent,
-teacher, guardian or critic to reach the author on the GitHub discussion
-board, which needs a free GitHub account most of them do not hold. Whether to
-publish an email address instead of, or beside, the board is Dermot's call
-(personal data on a public page; *Other people* and *Risk you are accepting*
-on the working folder's list). The page ships with the board alone until he
-makes it; the change is one sentence in the second grown-ups paragraph.
+**Ruled by Dermot, 14 September 2026, evening: a role address beside the
+board** (his *Yes please* to the recommendation, after asking whether the
+site's admin address would help). Not the admin address, which carries the
+deploy mail and is tied to the hosting account; a forwarder,
+`grownups@fianilchruinne.com`, created on the fianilch cPanel account the same
+evening and pointed where the account's two existing forwarders already
+point. One address for every children's door, since the About is the tier's.
+The second grown-ups paragraph now names it as a mailto link before the
+board. Raised in `intake-2026-09-14.md`, *Left open*, and closed in its
+addendum.
 
 ## Threshold Station's siting — raised 31 August 2026, RULED same day
 
