@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Saint Aoife"
 category: "Culture"
-tags: [saint-aoife, celtic-union, culture, religion, levril, brother-daire]
+tags: [saint-aoife, celtic-union, culture, devotional-traditions, levril, brother-daire]
 description: "A locally venerated Irish holy woman of the thirteenth century, carried into space as living devotion by the Currach Fleet, and the founding figure of the Celtic Union's most-cited reinterpretation debate between hagiography and Levril encounter."
 ---
 

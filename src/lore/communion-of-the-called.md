@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "The Communion of the Called"
 category: "Institutions"
-tags: [cosmology, religion, christianity, ecumenical, church-space, communion-of-the-called]
+tags: [cosmology, devotional-traditions, christianity, ecumenical, church-space, communion-of-the-called]
 description: "The Corps is secular by charter, not its people. A working network of Christian congregations — and, among a handful of allied and partner species, functionally equivalent traditions — that Star Rangers personnel belong to on their own time, answerable to no rank and no chain of command."
 ---
 
