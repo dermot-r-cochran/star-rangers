@@ -589,6 +589,38 @@ Notes that keep the tiers honest:
   vulnerability orthogonal — and to the tier rule: reading level,
   protagonists and depth, never a content gate. What the tier is *for*, not a
   quota; a chapter that has no such scene owes none.
+- **The general tier addresses mid-life crisis and similar career issues
+  (14 September 2026, Dermot's direction, verbatim in
+  `intake-2026-09-14.md`, last section).** A standing direction for the
+  general tier's threads — the Tissadelle arc, the Founding Era, and any
+  thread the tier table does not name — and for any edition on that floor.
+  The ladder already gives this tier the middle-aged body in the room; the
+  direction says what that body carries: the questions of the middle of a
+  working life — the posting that stopped meaning what it did, the rank
+  that came too early or too late, the work that had become the self, the
+  years counted differently after the midpoint, and what a person does when
+  the career they built no longer answers. Written as the record writes
+  everything, as a scene in the register of duty and memory, never as a
+  diagnosis; the crisis is a career's and a person's, never a type's. Held
+  to the cast principles (strength and vulnerability orthogonal; no
+  stereotypes of age any more than of gender) and to the tier rule. Like
+  the young-adult direction above, what the tier is *for*, not a quota.
+- **The contemplative tier is more focused on legacy and the meaning of
+  life: what survives after death, and what it all means (14 September
+  2026, Dermot's direction, verbatim in `intake-2026-09-14.md`, last
+  section).** The third of the evening's tier directions, completing the
+  ladder: the young adult misreads a cue, the general reader's career stops
+  answering, the contemplative reader asks what is left. A standing
+  direction for the church-space thread and for every contemplative
+  edition, carried by the oldest body in the room and the existing cast in
+  their later years. The record's own vocabulary is already on the shelf —
+  Conceptual Conservation as the Archive's narrow mechanism, Kiemeic
+  translation as what the traditions hold, the three-way reading of every
+  contested event — and the direction is written the way the record writes
+  all of it: both positions on the page, adjudicating none, the mysterious
+  left hard to define rather than over-specified. Legacy is what a life
+  leaves in others and in the record; meaning is asked, never issued. What
+  the tier is *for*, not a quota, and no gate.
 - **The children's tier gets a second thread, Below the Roof (6 September
   2026, Dermot's ruling — `intake-2026-09-06.md`, third section: *Pandoid
   thread in child reader tier*).** The Pandoids of Fliade from inside, the

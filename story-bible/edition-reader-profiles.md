@@ -122,6 +122,14 @@ that answers "is this a coherent world or six marketing sites?"
 disambiguation page for the other domains, the reader concludes there is no
 centre and leaves for whichever door looked most specific.
 
+**Also wants**, since 14 September 2026 (Dermot's direction,
+`intake-2026-09-14.md`, tier-wide and shared with sciencefiction.site): the
+middle of a working life on the page — mid-life crisis and the career
+questions beside it, carried by the middle-aged body the ladder already puts
+in this tier's room, written as scenes in the register of duty and memory
+and never as a diagnosis. The general reader is the one who recognises the
+posting that stopped meaning what it did.
+
 **Posture** `story` — the site's default and, historically, its only one. The
 72ch measure, 18px root and 1.7 leading are what every other mode is a
 departure from.
@@ -443,6 +451,15 @@ earned by reflective work — this is the 800–1,200-word band.
 **Loses them** with clutter and urgency. Anything that reads as a call to
 action, a badge, or a thing competing for attention breaks the register this
 edition exists to hold.
+
+**Also wants**, since 14 September 2026 (Dermot's direction,
+`intake-2026-09-14.md`, tier-wide and shared with the other contemplative
+editions): legacy and the meaning of life on the page — what survives after
+death, and what it all means — carried by the oldest body in the room and
+the cast in their later years, with the Archive's narrow mechanism and the
+traditions' wider claim both present and neither ruled on. The
+contemplative reader is the one who has already asked the question and is
+not here to be given the answer.
 
 **Posture** `contemplative`: the slowest setting on the site. 19px root, 1.9
 leading — the longest on any edition — a 62ch measure, wide paragraph spacing,
