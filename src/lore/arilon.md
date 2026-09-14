@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Arilon"
 category: "Culture"
-tags: [arilon, fellowship-of-light, cosmic-cascade, levrils, champions, krenyi, culture, religion, ecumenical]
+tags: [arilon, fellowship-of-light, cosmic-cascade, levrils, champions, krenyi, culture, devotional-traditions, ecumenical]
 description: "Not a person. A name the Fellowship of Light's comparative archive gives to a recurring pattern — a teacher, witness, or wanderer who names a boundary truth no local authority will name first — found independently across cultures that never had contact with one another."
 image: "arilon.jpg"
 image_alt: "Overlapping translucent silhouettes of robed figures at different scales on a pale parchment ground, none of them in focus and none dominant"
