@@ -589,6 +589,22 @@ Notes that keep the tiers honest:
   vulnerability orthogonal — and to the tier rule: reading level,
   protagonists and depth, never a content gate. What the tier is *for*, not a
   quota; a chapter that has no such scene owes none.
+- **The general tier addresses mid-life crisis and similar career issues
+  (14 September 2026, Dermot's direction, verbatim in
+  `intake-2026-09-14.md`, last section).** A standing direction for the
+  general tier's threads — the Tissadelle arc, the Founding Era, and any
+  thread the tier table does not name — and for any edition on that floor.
+  The ladder already gives this tier the middle-aged body in the room; the
+  direction says what that body carries: the questions of the middle of a
+  working life — the posting that stopped meaning what it did, the rank
+  that came too early or too late, the work that had become the self, the
+  years counted differently after the midpoint, and what a person does when
+  the career they built no longer answers. Written as the record writes
+  everything, as a scene in the register of duty and memory, never as a
+  diagnosis; the crisis is a career's and a person's, never a type's. Held
+  to the cast principles (strength and vulnerability orthogonal; no
+  stereotypes of age any more than of gender) and to the tier rule. Like
+  the young-adult direction above, what the tier is *for*, not a quota.
 - **The children's tier gets a second thread, Below the Roof (6 September
   2026, Dermot's ruling — `intake-2026-09-06.md`, third section: *Pandoid
   thread in child reader tier*).** The Pandoids of Fliade from inside, the

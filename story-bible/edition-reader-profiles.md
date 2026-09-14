@@ -122,6 +122,14 @@ that answers "is this a coherent world or six marketing sites?"
 disambiguation page for the other domains, the reader concludes there is no
 centre and leaves for whichever door looked most specific.
 
+**Also wants**, since 14 September 2026 (Dermot's direction,
+`intake-2026-09-14.md`, tier-wide and shared with sciencefiction.site): the
+middle of a working life on the page — mid-life crisis and the career
+questions beside it, carried by the middle-aged body the ladder already puts
+in this tier's room, written as scenes in the register of duty and memory
+and never as a diagnosis. The general reader is the one who recognises the
+posting that stopped meaning what it did.
+
 **Posture** `story` — the site's default and, historically, its only one. The
 72ch measure, 18px root and 1.7 leading are what every other mode is a
 departure from.
