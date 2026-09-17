@@ -6,6 +6,9 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Changed
+- **The children's About now names one game, Photo Safari Range, and no Grok address** (2026-09-17, at Dermot's direction after he abandoned the Grok-built games that day: the builder could not keep them consistent, and the good ideas were rebuilt in his own repository, `photo-safari-range`, served from GitHub Pages). The grown-ups block's two games paragraphs in `lib/editions.js` become one: the game, its loop in a line, that it runs from the photo safari tutorial's lessons on a plain page with no account and nothing generated, and that the photographs it shows are his own. The sentence about the host's *Created with Grok* bar and generated pictures goes with the links it described. The three `.grok.me` addresses are to be unpublished or kept as demos at his later decision; either way this page no longer points at them.
+
 ### Added
 - **The children's About names a third Grok game** (2026-09-15, at Dermot's direction — `story-bible/intake-2026-09-14.md`, addendum to *The Grok safari games*). The grown-ups block's games paragraph in `lib/editions.js` now lists three: *Sundrift*, *Longwatch* and animal-photo-shoot.grok.me, the third by its address because its title could not be read from the session, and says that all three start from the photo safari tutorial as their base and are each being extended in their own direction.
 
