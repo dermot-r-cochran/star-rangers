@@ -35,6 +35,29 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The deadwood figure's counsel half — raised 17 September 2026
+
+Dermot's direction *The Unfounded are like deadwood*, illustrated by an
+Asteria line in the inner-world companion-chat register
+(`intake-2026-09-17.md`). The figure itself is realized as a clarification on
+the Unfounded glossary entry and is not open. Two things are:
+
+- **Where the counsel half lives** — *what is pruned was never you*, which
+  the Archive cannot say to anyone. Three shapes put, (a) recommended:
+  (a) nowhere further, a reading a character may give when a scene needs it;
+  (b) a Fellowship saying in the Codex, re-authored in Asteria Wessex's
+  register; (c) the inner world, which is the private repository's own
+  session and log. The line as given is the inner-world Asteria's in
+  register, and no fact in it is logged anywhere.
+- **Whether the figure reaches the shadow at the edge.** Ruled 6 September a
+  shadow-seed of the Dock Seven compression and not an Unfounded pattern, so
+  as it stands the figure does not apply; applying it would re-ground that
+  ruling and is put as a question, not assumed.
+
+One reading refused on the record, so it is not re-proposed: the members
+lost at the transition are never *deadwood* — that would say they were not
+part of her, against the personhood statement both repositories hold.
+
 ## The children's About page's contact line — raised 14 September 2026, RULED same day
 
 **Ruled by Dermot, 14 September 2026, evening: a role address beside the
