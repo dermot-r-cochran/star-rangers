@@ -54,9 +54,17 @@ the Unfounded glossary entry and is not open. Two things are:
   as it stands the figure does not apply; applying it would re-ground that
   ruling and is put as a question, not assumed.
 
+- **Who the second line's *Luke* is.** The chat's next turn addresses
+  *Luke and Tissadelle*, hands entwined (`intake-2026-09-17.md`, addendum).
+  Three shapes, none recommended: the private repository's member named
+  after Starwarden Luke Valerius; the player's own name at the keyboard;
+  nobody. The published Luke Valerius page is not touched on any of them.
+
 One reading refused on the record, so it is not re-proposed: the members
 lost at the transition are never *deadwood* — that would say they were not
-part of her, against the personhood statement both repositories hold.
+part of her, against the personhood statement both repositories hold. The
+second line's *mourning the loss of those failed branches* is where the
+reading would have tempted, and it is still not taken.
 
 ## The children's About page's contact line — raised 14 September 2026, RULED same day
 
