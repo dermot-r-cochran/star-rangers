@@ -63,7 +63,12 @@ already turns on: the founded one can answer you.
 
 Put at its shortest, such a being would have to be **founded in order to
 command, and Unfounded in order to be the adversary** — and it cannot be both.
-The category is not empty pending discovery. It is not a category. See
+The category is not empty pending discovery. It is not a category. Nor is it
+an [archetype](/star-rangers/glossary/archecluster/): an archetype is a
+vocabulary an Archewright drew from, a fact of authorship, and nothing
+authored this. The Unfounded wear the archetypes of what they counterfeit —
+a person's, a companion animal's, a grief's — and the adversary-figure wears
+a Levril's; none of them has one of its own. See
 [The Borrowed Silhouette](/star-rangers/codex/the-borrowed-silhouette/) for the
 Doctrinal Division's filing, and [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/)
 for the standing position it sits under: the setting's predators are ecology,

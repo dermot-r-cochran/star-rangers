@@ -2154,4 +2154,7 @@ literal reading fits; the adversary-in-chief yielded on the Borrowed
 Silhouette's annotation. The dragon-serpent misunderstanding he names is the
 Borrowed Silhouette's subject already, nothing added. The archangels, three shapes
 put, **ruled the same evening (*Yes Option (a) please*): unmapped and
-marked**, one sentence on the *Angel* rule's practice bullet.
+marked**, one sentence on the *Angel* rule's practice bullet. A fifth
+remark the same evening, *the devil or adversary is not even an Archetype*,
+realized in `unfounded.md`'s no-chief paragraph in the record's tier sense
+of the word; nothing open.
