@@ -35,6 +35,37 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Tissadelle's strength and courage — raised 18 September 2026
+
+Dermot's direction *Tissadelle Shepherd physical strength and courage*,
+illustrated by one generated still and four generated clips
+(`intake-2026-09-18.md`). Courage is realized as a clarification on the
+character page (the chapters already show it; her own *she was not brave
+about it* kept) and is not open. Strength is realized as an extension at the
+plain degree and put as a choice. Four things are open, each put as shapes:
+
+- **A. The degree of strength the page states.** (a) a hill farmer's,
+  functional, undescribed beyond that — recommended and drafted; (b) visibly
+  athletic, with both portraits of record regenerated inside the guardrails;
+  (c) the physique of the illustrations — listed, not offered, since it
+  reverses the portrait guardrails and the 28 July register.
+- **B. Where the three clips in neither repository go.** (a) nowhere here,
+  Dermot holds them — recommended; (b) a frame strip each in
+  `reference-art/`, the 2 July clip as the shadow's third costume; (c) the
+  private repository's video folder, in its own session.
+- **C. The orphan `src/video/grok-video-2026-05-10.mp4`, now identified** as
+  the earliest Tissadelle clip in the retired costume uniform (byte-identical
+  to the 11 May clip he sent). (a) stays until the video note's question is
+  ruled — recommended; (b) removed; (c) parked as a strip and removed.
+- **D. Whether prose realizes it.** (a) nothing drafted — recommended;
+  (b) a scene in the gaps — the Frontier rotation as Kane's second, or a
+  hillside chapter.
+
+One reading taken on the record: the 2 July and 7 July clips are in the
+register the 5 September intake assigned to the shadow at the edge and not
+to her, and are read that way. Nothing supplied is filed in this repository;
+the still is the private repository's file already and is not copied.
+
 ## The deadwood figure — raised 17 September 2026, counsel half RULED same day
 
 Dermot's direction *The Unfounded are like deadwood*, illustrated by an
@@ -1090,7 +1121,10 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
 
 - **`grok-video-2026-05-10.mp4` is referenced by nothing.** 30 s, 448×672, the
   only genuinely moving footage in the repo. Find it a home or remove it —
-  removal of anything published-adjacent is Dermot's call.
+  removal of anything published-adjacent is Dermot's call. **Identified
+  18 September 2026** as the earliest Tissadelle clip, in the retired costume
+  uniform (`intake-2026-09-18.md`); its home put as three shapes there,
+  indexed above under *Tissadelle's strength and courage*, C.
 - **Should the still-over-audio pieces become image + audio player?**
   `baby-universe.mp4` is 19 MB at 1 fps to show one picture, and
   `ballad-of-the-stars.md` already demonstrates the cheaper pattern. Changes a

@@ -12,7 +12,14 @@ one remaining medium. It is worse here in two specific ways:
 - **`grok-video-2026-05-10.mp4` is referenced by nothing.** Not by a page, not by
   a template, not by a script. 30 s, 448×672, 4.5 MB, sitting in the repo. An
   unreferenced image fails `npm test`; an unreferenced video is invisible to
-  every gate the project has.
+  every gate the project has. **Identified 18 September 2026:** Dermot re-sent
+  the same file (byte-identical by checksum, generator filename dated 11 May)
+  with the direction in `intake-2026-09-18.md`. It is the earliest Grok-era
+  Tissadelle — red hair long and loose, a fitted navy-and-silver costume
+  uniform with a spiral badge, heels, at a starship viewport over a nebula,
+  speaking or singing to camera — in the costume uniform the 5 September
+  portrait regeneration replaced. Its home is still his call; three shapes in
+  that intake's *Left open*, C.
 - **`baby-universe.mp4` is not really a video.** 4:02 at **1 fps** — one still
   image held over the audio, letterboxed to 854×480 with a third-party
   watermark. It works, and it is 19 MB to show one picture.
@@ -512,6 +519,9 @@ Mirrored into [`open-questions.md`](open-questions.md).
 1. **`grok-video-2026-05-10.mp4` is an orphan.** Referenced nowhere, 448×672,
    30 s, and the only genuinely moving footage in the repo. Find it a home or
    remove it — but removal of anything published-adjacent is Dermot's call.
+   **Content identified 18 September 2026** (see the top of this file): the
+   earliest Tissadelle clip, in the retired costume uniform. Still his call;
+   `intake-2026-09-18.md`, *Left open*, C.
 2. **Should the still-over-audio pieces become image + audio player?**
    `baby-universe.mp4` is 19 MB of one picture. The pattern already exists in
    `ballad-of-the-stars.md`. This changes a live page, so it is a proposal.

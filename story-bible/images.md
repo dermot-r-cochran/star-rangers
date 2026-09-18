@@ -3440,6 +3440,67 @@ ships, the honest shape is the same as the headmate's — an in-world
 artist's impression, prospective only — and it would need a clean re-make
 at size, since neither still is the portrait floor and the clip is 768 px.
 
+### Intake 2026-09-18 — strength and courage: five illustrations, none filed
+
+Dermot supplied one generated still and four generated clips (Grok era by
+their filenames; no prompt kept) with the direction in
+`intake-2026-09-18.md` — *Tissadelle Shepherd physical strength and courage*.
+Nothing is filed and nothing ships; the direction was realized in words on
+the character page. What each shows and where it lives:
+
+- **The still**, 1008×1792. A woman with long loose red hair, blue eyes and
+  freckles, in a competition-conditioned physique — heavy musculature,
+  visible vascularity — in a white halter top and white shorts, barefoot, on
+  a plain grey studio backdrop, smiling to camera. **Byte-identical to a
+  frame already in the private repository's reference material**, found by
+  checksum, so it is not copied here under that repository's hard limit.
+- **Clip dated 13 September 2026**, 15 s, 720×1280. The same figure, clothes
+  and backdrop, holding a plank and doing push-ups with a leg raised, to
+  camera. Not in either repository; Dermot holds it.
+- **Clip dated 11 May 2026**, 30 s, 448×672. **Byte-identical to
+  `src/video/grok-video-2026-05-10.mp4`**, the orphan `video-prompts.md` has
+  tracked since 20 August — now identified there. Red hair long and loose, a
+  fitted navy-and-silver costume uniform with a spiral badge and
+  lettering-like marks, heels, at a starship viewport over a nebula, speaking
+  or singing to camera: the earliest Grok-era Tissadelle, in the costume
+  uniform the 5 September regeneration replaced.
+- **Clip dated 7 July 2026**, 30 s, 448×672, with audio. The same face, hair
+  loose, in a glossy red two-piece, posing and flexing on a present-day night
+  street under illuminated signs, some readable and one naming a real city.
+  Not in either repository.
+- **Clip dated 2 July 2026**, 30 s, 448×672. A black leather halter minidress
+  with knotwork trim, barefoot, walking through a field of drifting rocks
+  under a red nebula, a crowd of seated harpists behind. Not in either
+  repository.
+
+**How the intake reads them:** the still and the 13 September clip picture
+the direction — strength as a body at exercise — and are to-camera, in a
+studio, which is a presentation and not a Ranger at work, so neither could
+stand as a portrait under the guardrails above (*outwardly plain*, *nothing
+in the image invites the viewer*). The 2 July and 7 July clips are the
+register the 5 September intake assigned to the shadow at the edge — hair
+loose and dressed with metal, knotwork, *a dress cut to be looked at* — and
+are read the same way: not her. The 7 July clip also carries readable
+signage naming a real city, the *formation-of-star-rangers.jpg* failure in
+motion.
+
+**Why nothing is parked:** the still is the private repository's already;
+the orphan is in `src/video/` already; and the three clips that are in
+neither repository were put to Dermot as a choice (nowhere here, a frame
+strip each in `reference-art/`, or the private repository in its own
+session) rather than parked by default — `intake-2026-09-18.md`, *Left
+open*, B. The degree of strength the page states is choice A there; the
+recommended and drafted degree needs no image.
+
+**Decent and modest enough for a public repo?** — Dermot's question the same
+session, answered in the intake's addendum: decent as a file in a public
+repository, yes; modest enough for *this* site as a picture of *her*, no, on
+the 4 September any-age principle (the deep neckline), her page's *never
+dressed to be looked at*, and the portrait guardrails' *nothing invites the
+viewer*; and moot for filing, since it is the private repository's file. A
+re-make through the pipeline — high-necked, at work, attention off-frame — is
+the shape that would clear every bar.
+
 ---
 
 ### 7. Codex art — in-world artists' impressions
