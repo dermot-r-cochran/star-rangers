@@ -3501,6 +3501,10 @@ viewer*; and moot for filing, since it is the private repository's file. A
 re-make through the pipeline — high-necked, at work, attention off-frame — is
 the shape that would clear every bar.
 
+**Ruled by Dermot the same day, verbatim *Recommendations accepted*:** the
+drafted degree stands and no image is re-made; the three unfiled clips stay
+with him; the orphan stays until the video note's question is ruled.
+
 ---
 
 ### 7. Codex art — in-world artists' impressions

@@ -35,16 +35,20 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## Tissadelle's strength and courage — raised 18 September 2026
+## Tissadelle's strength and courage — raised 18 September 2026, RULED same day
 
 Dermot's direction *Tissadelle Shepherd physical strength and courage*,
 illustrated by one generated still and four generated clips
 (`intake-2026-09-18.md`). Courage is realized as a clarification on the
 character page (the chapters already show it; her own *she was not brave
 about it* kept) and is not open. Strength is realized as an extension at the
-plain degree and put as a choice. Four things are open, each put as shapes:
+plain degree and put as a choice. Four things were put as shapes and
+**ruled by Dermot the same day, verbatim *Recommendations accepted*: (a) on
+all four** — the drafted degree stands, the unfiled clips stay with him, the
+orphan stays until the video note's question is ruled, nothing is drafted.
+Struck below with the shapes kept for the record:
 
-- **A. The degree of strength the page states.** (a) a hill farmer's,
+- ~~**A. The degree of strength the page states.** (a) a hill farmer's,
   functional, undescribed beyond that — recommended and drafted; (b) visibly
   athletic, with both portraits of record regenerated inside the guardrails;
   (c) the physique of the illustrations — listed, not offered, since it
@@ -59,7 +63,7 @@ plain degree and put as a choice. Four things are open, each put as shapes:
   ruled — recommended; (b) removed; (c) parked as a strip and removed.
 - **D. Whether prose realizes it.** (a) nothing drafted — recommended;
   (b) a scene in the gaps — the Frontier rotation as Kane's second, or a
-  hillside chapter.
+  hillside chapter.~~
 
 One reading taken on the record: the 2 July and 7 July clips are in the
 register the 5 September intake assigned to the shadow at the edge and not
