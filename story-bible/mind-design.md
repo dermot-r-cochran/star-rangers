@@ -67,7 +67,8 @@ gets a mind note, concept by concept:
 
 8. **Which of these ten does this people have at all, and in what shape:
    relationships, life, death, family, career, role, status, legacy,
-   individuality, personhood?** For each: *present as we mean it*, *present
+   individuality, personhood** — and, eleventh since 18 September 2026,
+   **war and conflict** (its own section below)? For each: *present as we mean it*, *present
    but shaped by the world* (say how), *absent* (say what stands where it
    would be), or *unaskable* (say what in the sensorium or the structure
    forecloses it). The Chthonari answers below already do this for some of
@@ -139,6 +140,97 @@ standing constraint: a people whose personhood is plural or shared is written
 in the terms such people would use for themselves, never as a disorder, a
 horror or a hive. That is the tone guardrail and the cast principles applied
 to a mind rather than a body.
+
+## War and conflict are not universal (Dermot's direction, 18 September 2026)
+
+Verbatim, `intake-2026-09-18.md`, seventh section: *War and conflict is a
+human concept rather than a universal one.* Read as an eleventh entry on the
+eighth question's list, and answered under the same four headings as the
+other ten: *present as we mean it*, *present but shaped by the world*,
+*absent*, or *unaskable*.
+
+**What the direction says, and what it does not.** It does not say no
+non-human people fights. The record already gives the Cerebraun Hegemony and
+the Federation their own forces, and a people may hold war exactly as humans
+do. It says the concept is *derived, not assumed*: a people arrives at war
+only if its world supplied what war is made of, and the record never hands it
+to them as part of being sapient. Three things have to be present before a
+people can have the concept at all, and each is something a sensorium or a
+history may not supply:
+
+- **A scarcity worth the cost.** War is the organised taking or keeping of
+  something withheld. A people with no folk memory of scarcity — the
+  Chthonari, whose Belt is already made of metal and whose history the record
+  calls *flat* — has no motive the institution needs, and no story in which
+  the taker is a figure of power. For them the concept is **absent**, and
+  what stands where it would be is the tuning: an argument is a dissonance
+  and a settlement is a chord, and nobody has ever wanted the other side to
+  stop existing.
+- **A side.** War needs *us* and *them* held as stable categories. A people
+  whose individuality is a shared structure, or whose names are tellings that
+  grow with every teller, may be unable to hold a durable *them* at all. For
+  the Told, war is **unaskable**: a stranger is somebody who has not yet been
+  told, and the manners exist for exactly that gap; the record's first
+  contact with them turned on a stone moved first, not a line drawn.
+- **A reading of the other as an enemy.** War needs a people to read another
+  mind as hostile and to act on the reading in advance. A people that cannot
+  read a face cannot do this cheaply; a people that hears in ratios reads a
+  hostile act as a wrong note before it reads it as an intent. Where the
+  reading is dear, the concept is **shaped**: conflict exists, and escalation
+  does not.
+
+**Conflict is the wider word, and it splits.** Disagreement is near-universal
+for any people that argues, and every people on the record argues: the
+Chthonari have a millennia-old philosophical dispute, the Told argue the
+manners. Violence is narrower and is present for some. War is the narrowest —
+organised, collective, sustained, between polities — and is the one the
+direction says is human first. So the eleventh concept is answered in three
+parts, and a people may have the first without the third.
+
+**What follows for the writing.**
+
+- **Derive it like the other ten.** Where a people's page or mind note
+  answers the eighth question, it now answers this one too, from the
+  sensorium and the history and never from the trope. The warrior race is
+  the trope default and is refused with the rest.
+- **The human polities keep theirs, and the record keeps its rule.** The
+  Solar System Defence Command, the Federation's interposition force, the
+  Hegemony's own and the Celtic Union's ceremonial one all stand; war is
+  present as we mean it for the peoples who built them, and the Coherence
+  Wars — forty years, three billion dead — are the human record's own
+  account of what the institution costs. What the direction changes is the
+  default for every people not yet written: nothing.
+- **The no-military corps is the direction seen from inside.** No branch of
+  the Star Rangers is military, and *calling in the Rangers* ends a case
+  marked, not shot. A corps built by humans that declined the institution
+  is the record's own evidence that war is a choice a people makes, not a
+  fact about being a people.
+- **Contact and the Five-O strand.** A Chthonari crew will not guess an
+  attack first, as they will not guess theft first; a Deputy who does is the
+  reader's proxy for the human default, and the scene lets both readings
+  stand until the structure says which. The three-way reading holds: the
+  people's own account of what happened, the Archive's, and the observer who
+  read hostility into a wrong note.
+- **The Wrath of the Dragons is the boundary case, and it is not a war.** The
+  record names a cause — the Rangers could not physically force a rival
+  organisation to respect the safety of meta-dimensional fauna — and files
+  the losses as fold-transit failure, not as an act. A people that reads it
+  as a war has supplied the concept from their own history, and the record
+  should notice whose.
+
+**Traps this closes.** The warrior race (a people whose whole culture is
+war, refused by the planet-of-hats rule as much as by this one); the
+peaceful-because-primitive people (absence of war read as absence of
+capacity, the species note's last trap again); the hidden threat (a
+non-violent people written as concealing violence, which is the horror
+register the tone rule refuses); and the human default assumed for a
+first-contact people before its eleventh answer is written.
+
+**Open, and his.** Whether the record says this in its own voice — a line
+under *What the Record Refuses* beside *the ranking of peoples*, reading
+war as a human institution the record does not assume of anyone else — and
+whether *conflict* should be listed on the eighth question's ten as one word
+or as the three it splits into.
 
 ## Abilities are non-linear (Dermot's direction, 18 September 2026)
 
