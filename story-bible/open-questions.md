@@ -2167,3 +2167,13 @@ for non-human sapients*. Realized as a standing section of
 own voice (a *What the Record Refuses* line or an FTP sapience-clause
 sentence), and whether the reader-facing tiers page says the ladder ranks
 questions, not minds. Both are one-sentence clarifications if wanted. **Ruled the same evening (*Approved*): both realized** — a refusal paragraph and an FTP sentence in lore, one sentence on the tiers page. CLOSED.
+
+## War and conflict are not universal — `intake-2026-09-18.md`, seventh section — REALIZED same evening, two items open
+
+Dermot: *War and conflict is a human concept rather than a universal one.*
+An eleventh concept on the mind-design eighth question, answered in
+`story-bible/mind-design.md` for the Chthonari (absent) and the Told
+(unaskable), with the human polities' forces standing. **Open:** whether the
+record says it in its own voice (a *What the Record Refuses* line beside
+*the ranking of peoples*), and whether the eighth question lists *conflict*
+as one word or as disagreement, violence and war.
