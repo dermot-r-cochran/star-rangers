@@ -648,7 +648,11 @@ and not tracked publicly. They are not dropped; this file is where they live.
   Classes; a zone has sky coordinates but no distance to its neighbour; a
   flexure is not a fold) and what it breaks. **#442 closed.** The residue is
   not the term but the two unwritten blocks it lands on — see below.
-- **The Arilon–Kieme relation**, expressed without *Son of Kieme*. **Probably
+- ~~**The Arilon–Kieme relation**, expressed without *Son of Kieme*.~~ **CLOSED
+  18 September 2026 by PR #813 (his approval):** Kieme is the Eternal Son of
+  Hyperomnium in the tradition's reading, the Arilon-figure the archetype of
+  its incarnation, *Son of* the idiom of nature; the phrase is not needed. The
+  history below is kept as written. *Was:* **Probably
   an unratified answer rather than an open question** (checked 18 August 2026):
   *Son of Kieme* appears in no page, and the relation is stated three times as
   a marked undecidability — `arilonian.md`'s *"Champion, avatar, or the
