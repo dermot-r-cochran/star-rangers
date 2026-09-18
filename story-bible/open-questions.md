@@ -2166,4 +2166,4 @@ for non-human sapients*. Realized as a standing section of
 `story-bible/mind-design.md`. **Open:** whether the record states it in its
 own voice (a *What the Record Refuses* line or an FTP sapience-clause
 sentence), and whether the reader-facing tiers page says the ladder ranks
-questions, not minds. Both are one-sentence clarifications if wanted.
+questions, not minds. Both are one-sentence clarifications if wanted. **Ruled the same evening (*Approved*): both realized** — a refusal paragraph and an FTP sentence in lore, one sentence on the tiers page. CLOSED.

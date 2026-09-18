@@ -16,7 +16,7 @@ The toolkit those disasters misused was built on Earth, for Earth, during the [C
 
 Three risks recur across every logged transformation proposal, human or otherwise:
 
-**Undetected native sapience.** A world surveyed as biologically empty or ecologically simple has been wrong before, and the cost of being wrong after transformation begins is not correctable. Every protocol version requires an extended, multi-generational survey window before large-scale conversion, specifically so a slow-maturing or non-obvious sapient population has time to be found rather than paved over.
+**Undetected native sapience.** A world surveyed as biologically empty or ecologically simple has been wrong before, and the cost of being wrong after transformation begins is not correctable. Every protocol version requires an extended, multi-generational survey window before large-scale conversion, specifically so a slow-maturing or non-obvious sapient population has time to be found rather than paved over. The clause is a threshold that protects, not a grade that orders: it asks whether a people is there to be found, and nothing in any protocol version ranks a people once found — the record [keeps no such scale](/star-rangers/lore/what-the-record-refuses/).
 
 **Boundary-proximate instability.** [Eden Space Habitat's](/star-rangers/lore/eden-space-habitat/) own history is the standing cautionary case cited in nearly every version of the doctrine: a world or habitat can sit unknowingly close to a natural higher-dimensional fold route, and large-scale engineering work near one carries risks nobody fully understood until Eden's own accidental discovery forced the question. Modern protocols require boundary-proximity clearance before heavy transformation work begins, not after.
 

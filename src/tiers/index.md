@@ -44,7 +44,9 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
     <strong>A tier is a readership,</strong> and it is defined by which threads it
     carries. The children's tier carries one with chapters and one registered for it; each rung above carries everything below it
     and adds its own. A tier is a floor, not a ceiling: an edition on it may show more
-    than the tier's threads, never fewer.
+    than the tier's threads, never fewer. The rungs order reading level, protagonists
+    and depth, and nothing else: no tier is a rating, and none ranks a reader, a people
+    or a mind.
   </li>
   <li>
     <strong>An edition is one address with a face of its own</strong> — a name, a palette,

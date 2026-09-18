@@ -222,7 +222,7 @@ note's rule that a sensorium decides what a person can be wrong about.
   as the general case, since it is the one the principle most often has to
   refuse.
 
-**Open, and his.**
+**Open, and his — ruled the same evening (*Approved*): both realized.** The record now says it in its own voice (*Minds are not ranked either*, `what-the-record-refuses.md`; the sapience clause read as a threshold on the FTP page) and the tiers page says the rungs rank no reader, people or mind. The items as they were put:
 
 - Whether the record should say this in its own voice — a line under *What
   the Record Refuses* (*the ranking of peoples — refused*), or a sentence on
