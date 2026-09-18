@@ -3,7 +3,7 @@ layout: glossary-entry.njk
 title: "Kieme"
 id: kieme
 category: "Cosmic Cascade"
-short: "The second tier of the Cosmic Cascade; a non-anthropomorphic origin condition that sets nonlocal constraints all downstream tiers must satisfy. Devotional name: the Silent Origin. Title: the Undivided. Legacy name: Holy Triumvirate."
+short: "The second tier of the Cosmic Cascade; a non-anthropomorphic origin condition that sets nonlocal constraints all downstream tiers must satisfy. Devotional name: the Silent Origin. Church-space name: the First Word. Title: the Undivided. Legacy name: Holy Triumvirate."
 related:
   - "Hyperomnium"
   - "Conseleme"
@@ -32,6 +32,8 @@ Nothing here has ever spoken. The tier admits no dialogue with time-bound entiti
 Four human names are in current use, each in its own register.
 
 **The Silent Origin** is the living devotional name, and the direct counterpart to Conseleme's Everlasting Ground. It takes the constraint for the name: the tier does not speak and never has, and the traditions called it after what they met rather than after what they wanted.
+
+**The First Word** is the church-space tradition's own name for the tier, given 2026-09-18 with the mapping that reads Kieme as the Eternal Son. It is the Logos in plain words, and it stands against the Silent Origin rather than beside it: the Word that has never spoken in time, and speaks only when incarnate — which is the [Arilon](/star-rangers/lore/arilon/)-figure's whole office. It sits, too, against the [Hyperomnium](/star-rangers/glossary/hyperomnium/) above, which on the same reading is what comes before any word. The Archive files it as it files the Everlasting Ground: the tradition's name, kept, not adopted.
 
 **The Undivided** is the title, standing where older material used the *Most Holy Triumvirate*. It refuses the count without refusing the picture — one, three and many are rival images rather than rival answers, so *undivided* declines to arbitrate and leaves the shamrock entirely intact.
 
