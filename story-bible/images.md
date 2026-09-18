@@ -3503,7 +3503,9 @@ the shape that would clear every bar.
 
 **Ruled by Dermot the same day, verbatim *Recommendations accepted*:** the
 drafted degree stands and no image is re-made; the three unfiled clips stay
-with him; the orphan stays until the video note's question is ruled.
+with him; the orphan stays until the video note's question is ruled — **and
+then removed later the same day at his instruction** (*Remove the orphan
+video from src/video*), deleted rather than parked.
 
 ---
 
