@@ -6,6 +6,27 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.33.0] — 2026-09-18
+
+Two weeks of rulings, and the release in which the top of the Cascade turned
+the right way up. The spiritual edition got its governing rule and the Journal
+its reading level; the Rangers got their jurisdiction, their uniform and the
+Compact's tier settled in a run of comparisons that moved nothing in canon
+while saying plainly what canon had always held; the children's tier got its
+own door, its own About and a bee; Season 10 got five character pages and the
+Chthonari their portraits; two lore entries said what a life is built from and
+what a mind is carried by; and the modesty bar became a standing rule. Then,
+on the last evening, a question about who would preside over a general
+co-creation unpacked the church-space theology: *Son of* read as the old idiom
+of nature, the Trinity spread across the Upper Structure instead of packed
+into Kieme, Hyperomnium the Father, Kieme the Eternal Son and *the First
+Word*, Conseleme the Holy Spirit and *the Spirit of Wisdom*, the Arilon-figure
+the archetype of the Son's incarnation, every incarnation an avatar and not
+the reverse, and Kieme's name kept, gill and all. The general resurrection was
+left a partial mystery on purpose, and Brother Fintan's *Many Homes* says how
+a believer holds it without the record's help. The Journal carries the
+reasoning in *The First Word Was Silent*.
+
 ### Added
 - **Journal: *The First Word Was Silent*** (2026-09-18, at Dermot's direction, verbatim *Journal entries, related codex and then make a new release version*). The evening's reasoning in his voice: the general resurrection left a partial mystery; the map of the church-space Trinity inverted from packed-into-Kieme to spread across the Upper Structure (Hyperomnium the Father, Kieme the Eternal Son, Conseleme the Spirit) once *Son of* was read as the old idiom of nature; the tradition's inability to tell Hyperomnium from Kieme reread as consubstantiality; Kieme's name kept over *Arilon* and over a coinage; *the First Word* chosen and the three rejected names explained; every incarnation an avatar and not the reverse.
 - **Codex: *Many Homes*** (2026-09-18, same direction). A Devotional Record from Brother Fintan's commonplace book at Cnoc na mBeach: the WEB's *In my Father's house are many homes* read beside the Archive's three files on death, which it names and refuses to run together; the tradition's co-creation reading in a believer's voice — the saints kept and the realm made of them, the communion of saints as the Council, the incarnate Son as the seat, homes as zones or as worlds of one's own, the shape left unsaid; the Archive's *not placed* stated and accepted. Passes the church-space third test: creedal, and departs from the creed only where canon lore licenses it.
