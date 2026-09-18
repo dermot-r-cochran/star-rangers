@@ -6,6 +6,9 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Changed
+- **The scripture's *demon* and *unclean spirit* get a register rule beside *angel*** (2026-09-18, at Dermot's direction, verbatim *It is possible that the New Testament use of the word demon or unclean spirit is metaphorical, but if taken literally it would refer to the Unfounded* — `story-bible/intake-2026-09-18.md`, fourth section). The canonical guide gains *Unclean spirit (register rule, settled 2026-09-18)*, the same shape as the 2026-08-08 *Angel* rule: the church-space tradition reads the two words as figurative or, taken literally, as the Unfounded class rather than the one mode the Archive calls *demon*; three findings the literal reading fits (countered not addressed, starved not destroyed, no chief); and the one point where lore supersedes, the adversary-in-chief, yielded on *The Borrowed Silhouette*'s annotation. `src/glossary/unfounded.md`'s closing paragraph points to it. Neither page gains the `church-space` tag, which would gate the glossary entry. Two remarks the same evening changed no page: that ruling out a literal theophany leaves scriptural events to the devotional traditions, recorded in the intake as a confirmation of the Cascade's standing invariant, and that the Levrilic dragons risk the Genesis and Revelation serpent reading, which is *The Borrowed Silhouette*'s subject already. The archangels, for which he has no mapping, are put as three shapes in the intake and stay his.
+
 ## [1.33.0] — 2026-09-18
 
 Two weeks of rulings, and the release in which the top of the Cascade turned

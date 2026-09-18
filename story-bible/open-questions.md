@@ -2138,3 +2138,20 @@ not need to hold everything about Aoife*: the older pages stay untagged; the
 form and the absent image stand as drafted; PR #787 merged on it.** Still
 his to ask for: a title card, or a first Young Star Rangers chapter in which
 the legend is told.
+
+## Theophany, the unclean spirits, and the archangels — `intake-2026-09-18.md`, fourth section — two CLOSED same evening, one OPEN
+
+Dermot: *if I rule out a literal theophany that leaves the explanation
+entirely for the devotional traditions to interpret*; *if taken literally
+it would refer to the Unfounded*; *I have no clear mapping for Archangels*.
+The first read as a confirmation of the standing no-literal-theophany
+invariant and the 2026-09-06 overlay rule, no page changed. The second
+realized as *Unclean spirit (register rule, settled 2026-09-18)* in the
+canonical guide beside the *Angel* rule, with a pointer from
+`src/glossary/unfounded.md`: the scripture's *demon* and *unclean spirit*
+are figurative or, literally, the Unfounded class; three findings the
+literal reading fits; the adversary-in-chief yielded on the Borrowed
+Silhouette's annotation. The dragon-serpent misunderstanding he names is the
+Borrowed Silhouette's subject already, nothing added. **OPEN: the
+archangels** — three shapes put: unmapped and marked (recommended), a Levril
+on a higher stratum's errand, or a Higher Levril.
