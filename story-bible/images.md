@@ -51,6 +51,13 @@ from that rule, and the exemption has a shape:
   opportunistically rather than as a project.
 - **A concept is never pictured; it is carded.** Unchanged, restated here so
   the three cases sit together.
+- **The modesty bar** (Dermot's standing rule, 18 September 2026 — stated in
+  full in `CLAUDE.md`, beside the tone rule): an image clears two bars, the
+  repository's (decent as a file) and the site's (nothing a parent reading
+  aloud would notice — dressed for the work or the place, never to be looked
+  at, nothing that invites the viewer), and clearing the first is not
+  clearing the second. Prompts are written to the site's bar. The worked
+  example is under *Intake 2026-09-18* below.
 - **The membrane runs one way.** Every image the pipeline touches, whether
   generated, extended, or composited onto one of his plates, is recorded in the
   register (`image-prompts.md`) and is this repository's image only. It never
