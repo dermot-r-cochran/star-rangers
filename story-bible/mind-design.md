@@ -228,10 +228,10 @@ non-violent people written as concealing violence, which is the horror
 register the tone rule refuses); and the human default assumed for a
 first-contact people before its eleventh answer is written.
 
-**Open, and his.** Whether the record says this in its own voice — a line
-under *What the Record Refuses* beside *the ranking of peoples*, reading
-war as a human institution the record does not assume of anyone else. The
-second item, one word or three, **was ruled the same evening (*Three kinds of
+**Open, and his — the first item ruled the same evening (*Yes the record
+never assumes war as a default institution*) and realized** as *War as a
+default institution — refused* in `what-the-record-refuses.md`, beside the
+ranking refusals. The second item, one word or three, **was ruled the same evening (*Three kinds of
 conflict*)**: the eighth question lists disagreement, violence and war as
 three concepts, each answered for a people in its own right, since a people
 may have the first without the third.
