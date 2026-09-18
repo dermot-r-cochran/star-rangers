@@ -2663,10 +2663,12 @@ locations.
 ### 5b. Outstanding lore illustrations — all 52, prompted 19 August 2026
 
 **Added since, no prompt yet:** `what-a-life-is-built-from.md` (7 September
-2026, the four requirements and the heredities found in DNA's place). Under
-the Conventions an abstract illustration of this is a thing no camera can
+2026, the four requirements and the heredities found in DNA's place) and its
+sibling `what-a-mind-is-carried-by.md` (18 September 2026, the four things any
+carrier of a mind has to do and the carriers the record has met). Under
+the Conventions an abstract illustration of either is a thing no camera can
 take; a prompt is written when Dermot wants one, or an emblem card
-otherwise.
+otherwise — and if the two are carded, they are carded as a pair.
 
 Written in one pass at Dermot's request. **1600×900, 16:9 landscape**, JPG ~85,
 into `src/images/lore/`. **None generated; all proposals.**
