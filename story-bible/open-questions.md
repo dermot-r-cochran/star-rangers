@@ -676,6 +676,16 @@ and not tracked publicly. They are not dropped; this file is where they live.
   realm. The general resurrection itself stays a partial mystery by his
   ruling the same day: not placed, never proposed as an event. If accepted,
   strike the line above and log it.
+  **Amended the same evening (his Option B, drafted in the mapping PR):** the
+  tradition's Son is Kieme itself, the Eternal Son of Hyperomnium the Father,
+  with Conseleme the Spirit; the Arilon-figure is the archetype of the Son's
+  incarnation, an Avatar, and *Son of Kieme* is no longer a phrase anyone
+  needs. *Son of* in the old idiom is a descriptor of nature, not descent —
+  Barnabas, son of encouragement — so Kieme is of Hyperomnium's nature and
+  nothing is counted; the creed's *begotten* is where relation returns, and
+  the Archive carries the idiom and declines the creed. The relation is
+  therefore stated, as the tradition's, in the three src pages, and this
+  question can close when he accepts the PR.
 - ~~**Where shadow beings live** — Sí Gaoithe, or a realm of their own~~ —
   **dissolved by published canon on 18 August 2026, and this index failed to
   record it** (found 25 August, after two notes had been drafted against the
