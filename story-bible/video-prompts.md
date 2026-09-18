@@ -5,7 +5,8 @@ share. Third of the family: `images.md` and `image-prompts.md` cover stills,
 [`music-prompts.md`](music-prompts.md) covers audio, this covers video. Kept in
 `story-bible/`, never published.
 
-**Why this file exists.** `src/video/` holds two files and neither has a prompt
+**Why this file exists.** `src/video/` held two files (one since 18 September
+2026, below) and neither has a prompt
 recorded anywhere — the same gap the audio check found on 20 August 2026, in the
 one remaining medium. It is worse here in two specific ways:
 
@@ -20,7 +21,11 @@ one remaining medium. It is worse here in two specific ways:
   speaking or singing to camera — in the costume uniform the 5 September
   portrait regeneration replaced. Three shapes put in that intake's *Left
   open*, C, and ruled the same day (*Recommendations accepted*): it stays
-  where it is, identified, until this file's own question is ruled.
+  where it is, identified, until this file's own question is ruled. **Ruled
+  and removed the same day**, Dermot's instruction verbatim *Remove the
+  orphan video from src/video*: the file is deleted from `src/video/`, not
+  parked, on the same footing as the 5 September source clip — he holds the
+  original, and nothing in the repository referenced it.
 - **`baby-universe.mp4` is not really a video.** 4:02 at **1 fps** — one still
   image held over the audio, letterboxed to 854×480 with a third-party
   watermark. It works, and it is 19 MB to show one picture.
@@ -521,9 +526,9 @@ Mirrored into [`open-questions.md`](open-questions.md).
    30 s, and the only genuinely moving footage in the repo. Find it a home or
    remove it — but removal of anything published-adjacent is Dermot's call.
    **Content identified 18 September 2026** (see the top of this file): the
-   earliest Tissadelle clip, in the retired costume uniform. Ruled the same
-   day to stay put until this question is ruled (`intake-2026-09-18.md`,
-   *Left open*, C).
+   earliest Tissadelle clip, in the retired costume uniform. **Removed the
+   same day at Dermot's instruction** (*Remove the orphan video from
+   src/video*); this item is closed.
 2. **Should the still-over-audio pieces become image + audio player?**
    `baby-universe.mp4` is 19 MB of one picture. The pattern already exists in
    `ballad-of-the-stars.md`. This changes a live page, so it is a proposal.

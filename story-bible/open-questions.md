@@ -61,6 +61,8 @@ Struck below with the shapes kept for the record:
   the earliest Tissadelle clip in the retired costume uniform (byte-identical
   to the 11 May clip he sent). (a) stays until the video note's question is
   ruled — recommended; (b) removed; (c) parked as a strip and removed.
+  **Then ruled (b) later the same day**, verbatim *Remove the orphan video
+  from src/video* — deleted, not parked.
 - **D. Whether prose realizes it.** (a) nothing drafted — recommended;
   (b) a scene in the gaps — the Frontier rotation as Kane's second, or a
   hillside chapter.~~
@@ -1123,12 +1125,12 @@ are the parts it could not decide.
 Raised 20 August 2026 alongside the audio check, and the gaps are the same shape
 but larger, because nothing in the toolchain looks at `src/video/` at all.
 
-- **`grok-video-2026-05-10.mp4` is referenced by nothing.** 30 s, 448×672, the
+- ~~**`grok-video-2026-05-10.mp4` is referenced by nothing.** 30 s, 448×672, the
   only genuinely moving footage in the repo. Find it a home or remove it —
-  removal of anything published-adjacent is Dermot's call. **Identified
+  removal of anything published-adjacent is Dermot's call.~~ **Identified
   18 September 2026** as the earliest Tissadelle clip, in the retired costume
-  uniform (`intake-2026-09-18.md`); its home put as three shapes there,
-  indexed above under *Tissadelle's strength and courage*, C.
+  uniform (`intake-2026-09-18.md`), and **removed the same day at Dermot's
+  instruction**, verbatim *Remove the orphan video from src/video*.
 - **Should the still-over-audio pieces become image + audio player?**
   `baby-universe.mp4` is 19 MB at 1 fps to show one picture, and
   `ballad-of-the-stars.md` already demonstrates the cheaper pattern. Changes a
