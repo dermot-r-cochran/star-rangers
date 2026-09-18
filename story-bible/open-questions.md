@@ -2139,7 +2139,7 @@ form and the absent image stand as drafted; PR #787 merged on it.** Still
 his to ask for: a title card, or a first Young Star Rangers chapter in which
 the legend is told.
 
-## Theophany, the unclean spirits, and the archangels — `intake-2026-09-18.md`, fourth section — two CLOSED same evening, one OPEN
+## Theophany, the unclean spirits, and the archangels — `intake-2026-09-18.md`, fourth section — CLOSED same evening
 
 Dermot: *if I rule out a literal theophany that leaves the explanation
 entirely for the devotional traditions to interpret*; *if taken literally
@@ -2152,6 +2152,6 @@ canonical guide beside the *Angel* rule, with a pointer from
 are figurative or, literally, the Unfounded class; three findings the
 literal reading fits; the adversary-in-chief yielded on the Borrowed
 Silhouette's annotation. The dragon-serpent misunderstanding he names is the
-Borrowed Silhouette's subject already, nothing added. **OPEN: the
-archangels** — three shapes put: unmapped and marked (recommended), a Levril
-on a higher stratum's errand, or a Higher Levril.
+Borrowed Silhouette's subject already, nothing added. The archangels, three shapes
+put, **ruled the same evening (*Yes Option (a) please*): unmapped and
+marked**, one sentence on the *Angel* rule's practice bullet.
