@@ -35,6 +35,36 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## What a mind is carried by — raised 18 September 2026, RULED same day
+
+Dermot's direction *Substrate of consciousness and awareness*
+(`intake-2026-09-18.md`, second section), realized as the lore entry
+`src/lore/what-a-mind-is-carried-by.md`, the sibling of *What a Life Is Built
+From*. Seven readings are flagged for confirmation in the intake (the two
+words defined against each other as usage; no quantum coherence ever
+required to carry a mind; *it couples* as the Physics Comparison read as a
+requirement; the two files on death kept apart with the seam named; the
+Unfounded as failing the first requirement; two absences marked and not
+explained; nothing added to any named page). Three things were put as
+choices and **ruled by Dermot the same day, verbatim *Recommendations
+accepted*: (a) on all three** — the title as drafted, no glossary entries,
+no image for now. The entry is canon as drafted; nothing remains open.
+Struck below with the shapes kept for the record:
+
+- ~~**A. The title.** (a) *What a Mind Is Carried By* — recommended and
+  drafted; (b) *The Substrate of Consciousness and Awareness*, his words;
+  (c) *What a Mind Is Built From* — listed, not offered, since a mind is
+  permitted and never built.
+- **B. Whether *awareness* and *consciousness* become glossary entries.**
+  (a) no, the lore section carries them — recommended; (b) two short
+  entries pointing at the page.
+- **C. An image.** (a) none for now, the pair under `images.md` 5b —
+  recommended; (b) an emblem card, epithet *Permitted, Registered, Coupled*
+  offered; (c) a generated frame on the 5b rule, Thrum and a chassis's
+  sensor cluster in one frame.~~
+
+---
+
 ## Tissadelle's strength and courage — raised 18 September 2026, RULED same day
 
 Dermot's direction *Tissadelle Shepherd physical strength and courage*,

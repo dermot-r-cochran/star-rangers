@@ -59,3 +59,4 @@ The practical content is the same as the taxonomy file's and the page states it 
 - [Formtype](/star-rangers/glossary/formtype/) — life as grammar, DNA as neither grammar nor vocabulary
 - [Habitable for Whom](/star-rangers/lore/habitable-for-whom/) — the same discipline applied to worlds
 - [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/) — the human frame, and why no archetype specifies a body
+- [What a Mind Is Carried By](/star-rangers/lore/what-a-mind-is-carried-by/) — the same move on the other formtype: what any carrier of a mind has to do, and the carriers the record has met
