@@ -659,6 +659,23 @@ and not tracked publicly. They are not dropped; this file is where they live.
   this line. Note the constraint either way: `kieme.md` holds that Kieme stands
   above the concept of number, so a relation stated in relational terms has to
   survive that.
+  **Candidate answer, 18 September 2026 (Dermot's lead in chat; filed as a
+  reading, not a ruling):** the undecidability *is* the record's answer, and
+  *Son of Kieme* is the church-space tradition's own name for the
+  Arilon-figure of Kieme, spoken in the kin terms traditions use and never
+  adopted by the Archive or the Fellowship. The relation itself is the Avatar
+  exception: an incarnation like its source without being it, embodied, of
+  limited knowledge and power. Where the tradition places that figure is the
+  presiding seat of a general co-creation, with the communion of saints as
+  the Council: a Universal Authority in the record's own shape, authority
+  belonging to the constituted body and no individual creating alone. This
+  keeps no-theophany, no selective intervention, and the Champion-or-avatar
+  undecidability intact, survives the number constraint (kin terms belong to
+  the tradition's register, not the record's), and does not exclude
+  Concordance zones or individually seeded child universes within such a
+  realm. The general resurrection itself stays a partial mystery by his
+  ruling the same day: not placed, never proposed as an event. If accepted,
+  strike the line above and log it.
 - ~~**Where shadow beings live** — Sí Gaoithe, or a realm of their own~~ —
   **dissolved by published canon on 18 August 2026, and this index failed to
   record it** (found 25 August, after two notes had been drafted against the
