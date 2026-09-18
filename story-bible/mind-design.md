@@ -67,8 +67,10 @@ gets a mind note, concept by concept:
 
 8. **Which of these ten does this people have at all, and in what shape:
    relationships, life, death, family, career, role, status, legacy,
-   individuality, personhood** — and, eleventh since 18 September 2026,
-   **war and conflict** (its own section below)? For each: *present as we mean it*, *present
+   individuality, personhood** — and, since 18 September 2026, **conflict in
+   its three kinds: disagreement, violence and war** (Dermot's ruling the
+   same evening, *Three kinds of conflict*; its own section below), which
+   makes thirteen, answered one kind at a time? For each: *present as we mean it*, *present
    but shaped by the world* (say how), *absent* (say what stands where it
    would be), or *unaskable* (say what in the sensorium or the structure
    forecloses it). The Chthonari answers below already do this for some of
@@ -228,9 +230,11 @@ first-contact people before its eleventh answer is written.
 
 **Open, and his.** Whether the record says this in its own voice — a line
 under *What the Record Refuses* beside *the ranking of peoples*, reading
-war as a human institution the record does not assume of anyone else — and
-whether *conflict* should be listed on the eighth question's ten as one word
-or as the three it splits into.
+war as a human institution the record does not assume of anyone else. The
+second item, one word or three, **was ruled the same evening (*Three kinds of
+conflict*)**: the eighth question lists disagreement, violence and war as
+three concepts, each answered for a people in its own right, since a people
+may have the first without the third.
 
 ## Abilities are non-linear (Dermot's direction, 18 September 2026)
 

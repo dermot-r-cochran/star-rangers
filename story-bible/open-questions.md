@@ -2175,5 +2175,6 @@ An eleventh concept on the mind-design eighth question, answered in
 `story-bible/mind-design.md` for the Chthonari (absent) and the Told
 (unaskable), with the human polities' forces standing. **Open:** whether the
 record says it in its own voice (a *What the Record Refuses* line beside
-*the ranking of peoples*), and whether the eighth question lists *conflict*
-as one word or as disagreement, violence and war.
+*the ranking of peoples*). The second item **ruled the same evening (*Three
+kinds of conflict*)**: the eighth question lists disagreement, violence and
+war as three concepts.
