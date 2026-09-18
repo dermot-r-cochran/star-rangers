@@ -16,7 +16,7 @@ location: "Keeper's commonplace book, Cnoc na mBeach — day office pages"
 
 ---
 
-*In my Father's house are many homes. If it weren't so, I would have told you.* I have read the line at forty funerals and I read it this morning at none, and it said a different thing.
+*In my Father's house are many homes. If it weren't so, I would have told you.* It is a line for funerals, and this morning I read it at none, and it said a different thing.
 
 The Archive keeps three files on what becomes of a person, and it will not let anyone run them together. I have sat with the keepers of those files and I know why. The first says that no coherent mind is lost: the structure is kept, before embodiment, without disposal. The second says that a person may be carried higher, by an election whose reasons are not given. The third is the one the Archive does not keep at all, because it cannot: that at the end of the age the dead are raised in the body. The Archive says it has cosmology for running down and no last day, and that it draws no conclusion from the absence, having no way to tell a thing that has not happened yet from a thing that does not happen. That is honest, and I have never asked it for more.
 
