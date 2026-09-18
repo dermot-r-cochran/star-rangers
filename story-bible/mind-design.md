@@ -140,6 +140,101 @@ in the terms such people would use for themselves, never as a disorder, a
 horror or a hive. That is the tone guardrail and the cast principles applied
 to a mind rather than a body.
 
+## Abilities are non-linear (Dermot's direction, 18 September 2026)
+
+Verbatim, `intake-2026-09-18.md`, sixth section: *non-linear intelligence and
+abilities*, and, put as three readings and chosen: *mind-design principle for
+non-human sapients*. A standing principle for every mind note, stated once
+here so the seven questions and the two that followed are answered under it.
+
+**Intelligence is not a line, and a people's abilities do not rise together.**
+Three claims, each already on the record and each a consequence of the body
+note's rule that a sensorium decides what a person can be wrong about.
+
+- **There is no scale.** The record has no instrument for *smarter than*
+  between peoples, and should never acquire one. What it can record is what
+  a sensorium and a tradition make *cheap*, *dear* or *impossible* for a
+  people — and cheap, dear and impossible are three columns, not three
+  points on one axis. The Archive's own precedent is the sapient/non-sapient
+  split among the meta-dimensional classes: sapience recorded as an observed
+  capability, an operational fact, never as a rank. The same discipline
+  applies to every founded people. The Frontier Transformation Protocols'
+  sapience clause is a threshold that protects, not a ladder that grades.
+- **Abilities are orthogonal.** A people may stand far beyond any human at
+  one thing and below a human child at another, and the two are unrelated
+  facts rather than a balance. The Chthonari are certain of structure and
+  cannot read a face; that is one sensorium seen from its two edges, not a
+  gift paid for with a deficit. The savant trap below is the failure mode of
+  forgetting this: a strength written as compensation implies the axis the
+  first claim denies. Technology level belongs here too. The Told are
+  sapient and low-tech; tools follow what a sensorium makes cheap, and a
+  people with no roof to know builds nothing that looks up. Low-tech is a
+  fact about a world, not a reading on a scale.
+- **Growth is stepwise, not cumulative.** Within a life, competence does
+  not accrue smoothly; it crosses thresholds. A Chthonari youth memorises
+  the course until the day it *listens* to the tunnel, and the change is a
+  step, not a slope. A Told name grows by tellings, each one an event. A
+  noögenic mind grown to the seeding founds a world, and nothing about being
+  nearly grown to it founds anything. So coming-of-age in a non-human
+  viewpoint is a threshold crossed, which is what the young-adult tier's
+  question needs from a people written in its own years.
+
+**What follows for the writing.**
+
+- **A people's genius and its blind spot are one fact.** Derive both from
+  the sensorium in the same sentence, and never let a page carry the one
+  without the other. This is the *derive, don't assign* rule applied to
+  ability: an alien that is simply better is the trope default; an alien
+  that is better *because of* what it cannot do is a derivation.
+- **Never rank peoples, and never let a character do it unchallenged.** The
+  Archive does not; a character who does is making a claim the three-way
+  reading treats like any other, and somebody in the scene should be able
+  to answer it from the other side.
+- **A case is solved by the people whose cheap thing it needs.** This is
+  what the cross-disciplinary Rangers are *for*, and why a multi-species
+  crew is not decoration: the Chthonari competence is a contractor's
+  competence until the convergence makes structure the question, and the
+  same is true of every other people in turn. Assemble the right cheap
+  things; do not write one people that has them all.
+- **The same holds one level down.** Strength and vulnerability are
+  orthogonal in a *person* as they are in a people — the cast principle
+  already carries it for Tissadelle, whose empathy commands and whose
+  apparent weakness is not a real one. A people's profile and an
+  individual's are the same shape at two scales.
+- **Made minds are not exempt.** A machine that is a human plus more of
+  everything is the omnicompetent Mind, refused. A made mind has what it is
+  certain of and what it cannot know like any other; a Kernel-compliant
+  system is the worked case, structurally unable to be persuaded out of an
+  invariant and, for the same reason, unable to be persuaded into one.
+
+**Traps this principle closes**, beside the five below.
+
+- **The ladder.** *A more advanced species*, *a lesser intelligence*, *a
+  higher form of life*: each phrase asserts the axis. Say what the people
+  can do cheaply that the speaker cannot, and what it cannot do at all.
+- **The omnicompetent alien**, and its machine twin above. Nothing founded
+  has every ability, because every ability is bought by a sensorium that
+  leaves something out.
+- **The primitive.** A low-tech people written as an early stage of a
+  high-tech one. The Told are not the Concord's past; they are a people
+  whose world made different things cheap.
+- **The compensated savant.** Already the third trap below; restated here
+  as the general case, since it is the one the principle most often has to
+  refuse.
+
+**Open, and his.**
+
+- Whether the record should say this in its own voice — a line under *What
+  the Record Refuses* (*the ranking of peoples — refused*), or a sentence on
+  the FTP page reading the sapience clause as a threshold and not a grade.
+  Both would be clarifications of what the record already does; neither is
+  needed for the principle to bind, which it does from here.
+- Whether the principle is stated on the reader-facing tiers page, where
+  the tier ladder is exactly the kind of axis a reader might mistake for
+  this one. The tiers are a reading level, protagonists and depth; they
+  rank readers' questions, never peoples or minds, and the page could say
+  so in one sentence.
+
 ## The Chthonari, answered
 
 ### 1. Certain of structure; unable to read a face
