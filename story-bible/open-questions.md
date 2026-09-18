@@ -2158,3 +2158,12 @@ marked**, one sentence on the *Angel* rule's practice bullet. A fifth
 remark the same evening, *the devil or adversary is not even an Archetype*,
 realized in `unfounded.md`'s no-chief paragraph in the record's tier sense
 of the word; nothing open.
+
+## Abilities are non-linear — `intake-2026-09-18.md`, sixth section — RULED same evening, two items open
+
+Dermot: *non-linear intelligence and abilities*, then *mind-design principle
+for non-human sapients*. Realized as a standing section of
+`story-bible/mind-design.md`. **Open:** whether the record states it in its
+own voice (a *What the Record Refuses* line or an FTP sapience-clause
+sentence), and whether the reader-facing tiers page says the ladder ranks
+questions, not minds. Both are one-sentence clarifications if wanted.
