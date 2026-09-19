@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Membrane Shadows: Gravitational Imprints from Adjacent Membranes"
 category: "Cosmology"
-tags: [membrane-shadows, gravitational-bleed, concordant-membranes, intermembrane-bleed, boundary-zone, post-11-manifold, shadow-beings]
+tags: [membrane-shadows, gravitational-bleed, concordant-membranes, intermembrane-bleed, boundary-zone, post-11-manifold, shadow-beings, photographic-beings]
 description: "Not every dark, person-shaped anomaly at a boundary zone has crossed over. A Membrane Shadow is gravitational bleed-through from a coherent mass on the far side of a narrowed Interval — the imprint of a being that never leaves its own universe to cast it."
 image: "membrane-shadows.jpg"
 image_alt: "A tall humanoid figure rendered as an absence of light rather than an object, standing before a window in an instrumented chamber"
@@ -25,6 +25,12 @@ A Membrane Shadow is what that Physical-channel signature looks like when it is 
 ## Why They Look Like Something
 
 The signature is consistent wherever it is documented: a dense-edged silhouette, rim-lit where passing light bends around it rather than through it, casting no shadow of its own — because it *is* the shadow phenomenon, not a body that could cast a second one. It registers on nothing configured to detect mass, heat, or motion on this side of the boundary; only a cross-membrane gravimeter shows anything at all. It is silent, because there is no matter present on this side to displace air or strike a surface.
+
+## The Bright Case: Photographic Beings
+
+The strain that makes a Shadow is a lens, and a lens does two things. Where its geometry diverges, the light it bends leaves the observer's line and a silhouette stands where the light was; where its geometry converges, the light it bends is brought together, and the far side's outline stands in the air as a figure made of gathered daylight. The record calls the second a **[Photographic Being](/star-rangers/glossary/photographic-beings/)** — the Kingdom of the Five Islands' word, rendered by its delegation — and the Survey Corps files it as a *membrane caustic*. It is not a second phenomenon. It is the same Class III strain-coupling in dimensions 12–15, the same rule that the neighbour supplies the shape and the Interval the strength, and the same absolute that nothing crosses: the light is this side's, gathered over a body's outline and never to a point, so the figure is bright enough to read as a person at noon, fades with the day, cannot be seen in the dark, casts nothing and burns nothing. A hand through it dims it where the hand is. It moves as the neighbour moves. Where one far-side mass patterns both geometries, the image is ringed by its own dimming.
+
+Two consequences follow for the field. Converging geometry is the narrower condition, so caustics are rarer than Shadows and the record's estimate — one image to some tens of Shadows — is expected to move as more boundary zones are watched by day, since a Shadow is easiest to see against light and a caustic is invisible without it. And the diagnostic is unchanged: an optical signature with no thermal or mass signature is a boundary phenomenon whichever way the light went, and only a cross-membrane gravimeter registers it directly. The open question below is open for the bright case too.
 
 ## The Benevolent Case: Elves and Dryads
 
@@ -71,5 +77,6 @@ Nothing rules out the possibility that a shape coherent enough to read as a bein
 
 - **Cross-membrane gravimeters**, not the optical/thermal detection loop used for Class II/III meta-dimensional beings, are the only instruments that register a Membrane Shadow directly, as a gravitational anomaly.
 - A Membrane Shadow can be photographed — the light bending around it is real and physical — but returns nothing on infrared or motion-mass sensors, which is itself diagnostic: a shape with an optical signature and no thermal or mass signature is a Membrane Shadow, not a Class III incursive, almost by definition.
+- A Photographic Being photographs as what it is, a figure of ambient light: every photometer that has looked returns the sky's spectrum, and a figure that fades with the day and returns nothing on infrared is the bright case of the same phenomenon, not a source.
 
 See also: [Concordant Membranes and Intermembrane Bleed](/star-rangers/lore/concordant-membranes/), [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/), [The Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/), [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/), [The Grand Ensemble Multiverse](/star-rangers/lore/ensemble-multiverse/).
