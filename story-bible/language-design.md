@@ -158,7 +158,7 @@ the same breath.
 
 - The Told keep a record that *cannot be seized, cannot be edited by a later
   hand, and does not survive the loss of the people who carry it*.
-- The Kingdom of the Four Islands keeps the Long Accounting, a written
+- The Kingdom of the Five Islands keeps the Long Accounting, a written
   record older than either institution can confirm, in a language every
   Solar System register had presumed extinct; the Abbess who keeps it
   corrects the delegation's errors *without visible impatience* and

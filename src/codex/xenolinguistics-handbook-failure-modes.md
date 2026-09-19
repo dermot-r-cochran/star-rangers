@@ -84,7 +84,7 @@ One more thing before the list, because candidates arrive believing the opposite
 
 *What it looks like.* A reading in the record with no error bar on it.
 
-*The case.* The delegation on Vellamar noticed that *Krilzat* does not sit in the same phonological company as the other island names of the [Kingdom of the Four Islands](/star-rangers/lore/planets/kingdom-of-the-four-islands/), and filed the observation as a candidate reading at low confidence — which is the right way, and the school teaches the filing as a model. The Abbess who keeps the Long Accounting there has been patient with the delegation's errors for years, on the stated ground that she knows exactly how much a single mistranslation costs a written archive's credibility.
+*The case.* The delegation on Vellamar noticed that *Krilzat* does not sit in the same phonological company as the other island names of the [Kingdom of the Five Islands](/star-rangers/lore/planets/kingdom-of-the-five-islands/), and filed the observation as a candidate reading at low confidence — which is the right way, and the school teaches the filing as a model. The Abbess who keeps the Long Accounting there has been patient with the delegation's errors for years, on the stated ground that she knows exactly how much a single mistranslation costs a written archive's credibility.
 
 *The rule.* **The failure is the confident entry.** The machine states its confidence because the Kernel requires it; you state yours because the record requires it; and your name goes on the reading, so that the correction — which will usually come from the other side of the table — has somebody to come to.
 

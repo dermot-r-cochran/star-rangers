@@ -2191,3 +2191,54 @@ recommended if a link is wanted; (c) an entry in Tissadelle's hand, the
 weakest. **Ruled the same afternoon: (a), the records stay completely
 disjoint** — the 6 September *separate worlds* ruling confirmed. Nothing
 realized, nothing to realize.
+
+## Epic fantasy as a reading — `intake-2026-09-19.md`, third and fourth sections — OPEN in part
+
+Dermot, the same evening: *I see it as a reading never a real mechanism
+however much I otherwise like the nostalgic fantasy genre* — ruling that an
+epic fantasy in the nostalgic register is a storyline thread of this record,
+not a new repository. Five readings flagged **Confirm** (the record's own
+sense of *reading*; a thread, not a fork or a codex-only telling; the
+nostalgic register welcome in full on the mechanism condition; every standing
+refusal binding unchanged; the named works as register, not source). Open,
+put as choices:
+
+- ~~**The seat** — (a) the Kingdom of the Five Islands, recommended; (b) a
+  forming protouniverse; (c) Tír na nÓg and the Union's legendary matter.~~
+  **Ruled the same evening: (a).**
+- ~~**The tier** — (a) young adult, listed on the general tier, lean; (b)
+  general.~~ **Ruled the same evening: (a).**
+- ~~**The strand structure** — two strands on the *one act, two records*
+  pattern, recommended; or one.~~ **Ruled the same evening: *Two or more
+  Strands*.**
+- **Two names given with the strand ruling, *The Infinite Castle* and *The
+  Timeless Library*** — read as the two strands' anchors and names
+  (**Confirm**); the treatment `five-islands-treatment.md` is written on
+  that reading.
+- **The thread's name** — (a) *The Infinite Castle and the Timeless
+  Library*, lean; (b) *The Kingdom of the Five Islands*; (c) another of
+  his. The id waits on it.
+- **Where it is listed** — (a) `GENERAL_TIER` with its own subdomain
+  edition, lean; (b) `YOUNG_ADULT_TIER`, so starquest.site carries it.
+- **Where the Castle stands** — (a) Krilzat, recommended; (b) Vellamar.
+  **What it is** — (i) the founding ark's hull, recommended; (ii) an
+  Etheric anchor structure. The Library needs no mechanism; the
+  storm-reading-as-relic shape is listed and not recommended.
+- **The young viewpoints** — a house's youngest or a watch-post child for
+  Strand A; a novice of the Sisterhood for Strand B; names his.
+- **The convergence** — (a) a door and an entry, recommended; (b) a third
+  succession disagreement; (c) what Krilzat lost.
+- **Chapters per strand, episode-per-strand, a third strand, the Season 12
+  registration and the first chapter** — his.
+
+## The number of islands — `intake-2026-09-19.md`, fifth section — CLOSED same evening
+
+Dermot, later the same evening: *Change or vary the number of Islands in the
+Kingdom.* Realized as both: the page re-filed as the Kingdom of the Five
+Islands, the count varying by record inside it (court four, Accounting
+five), the fifth name marked. Three readings flagged **Confirm** (an
+extension; five as a draft number; the fifth name stays marked).
+**Ruled the same evening, verbatim *Approved*:** the readings confirmed,
+and both choices closed on (a) — five, and the fifth name joined to
+nothing. Nothing open here; the thread's own choices stay in the section
+above.
