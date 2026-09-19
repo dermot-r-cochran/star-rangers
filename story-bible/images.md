@@ -1276,7 +1276,7 @@ staff**, which the generator added unprompted both times.
   > Cinematic portrait of a thirteenth-century Irish monastic scribe at his writing slope in a small stone scriptorium, upper body, undyed woollen habit, ink-stained fingers, absorbed and unsentimental, cold north daylight falling through one narrow window in a single hard shaft across the slope and leaving the rest of the cell in darkness, breath faintly visible in the cold, historical setting, limewash and umber, quiet and rigorous, no piety pose, no hands folded in prayer, no beatific expression, professional, no readable text, lettering, manuscript characters or written script of any kind legible anywhere in frame. Portrait orientation.
 
 - **`ilsabet-marrowtide.jpg`** — Abbess of the Tideward Sisterhood, keeper of the
-  Long Accounting, and the Kingdom of the Four Islands' de facto first point of
+  Long Accounting, and the Kingdom of the Five Islands' de facto first point of
   contact for the Survey Corps delegation.
   > Cinematic portrait of an abbess in her sixties in a coastal stone abbey, upper body, heavy plain working habit of a contemplative order, belted, with a clear shoulder line and no draping or billowing fabric, upright bearing and entirely still, cold sea light flooding in through an open doorway behind her with the sea beyond it bright and out of focus, the stone interior dark and close around her, pre-industrial island setting, grey stone and dark wool against a luminous doorway, an administrator who happens to be in orders, no serenity of expression, no benevolence, no wisdom pose, no hands folded in blessing, professional, no readable text, signage, lettering or written characters anywhere in frame. Portrait orientation.
 

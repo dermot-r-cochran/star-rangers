@@ -1,9 +1,9 @@
 ---
 layout: lore-entry.njk
-title: "The Kingdom of the Four Islands"
+title: "The Kingdom of the Five Islands"
 category: "Locations"
-tags: [four-islands, independent, kingdom, archipelago, locations, first-contact, lost-colony, abbeylands, feudal, tideward-sisterhood, old-houses, peerage, common-council, difenland, krilzat, kalenjar]
-description: "A hereditary kingdom holding the one temperate archipelago on an otherwise storm-scoured world — settled by a human departure older than any Solar System record, and found again only recently."
+tags: [five-islands, independent, kingdom, archipelago, locations, first-contact, lost-colony, abbeylands, feudal, tideward-sisterhood, old-houses, peerage, common-council, difenland, krilzat, kalenjar]
+description: "A hereditary kingdom holding the one temperate archipelago on an otherwise storm-scoured world — a name that counts five islands and a Crown that holds four — settled by a human departure older than any Solar System record, and found again only recently."
 image: "archipelago-palm-avenue.jpg"
 image_alt: "A windswept avenue of tall palms under a bright sky on the royal seat island of Vellamar"
 galaxy: "Milky Way"
@@ -13,13 +13,13 @@ locationType: "Planet"
 
 Every survey report on this world starts the same way: ninety-eight percent of the surface is uninhabitable, and somebody was already living on the other two percent when the Star Rangers found it.
 
-The world itself has no charter, no Union membership, and no Solar System designation beyond a provisional survey number nobody outside the Archive uses. What it has instead is the **Kingdom of the Four Islands** — a hereditary monarchy holding the single temperate archipelago on a planet whose open ocean and continental landmasses are, by every instrument reading taken so far, close to unsurvivable.
+The world itself has no charter, no Union membership, and no Solar System designation beyond a provisional survey number nobody outside the Archive uses. What it has instead is the **Kingdom of the Five Islands** — a hereditary monarchy holding the single temperate archipelago on a planet whose open ocean and continental landmasses are, by every instrument reading taken so far, close to unsurvivable.
 
 ## A World Built to Kill Its Own Weather
 
 Fast rotation, a wide ocean, and a greenhouse-heavy atmosphere combine to keep most of the planet locked under storm systems large enough that Survey Corps meteorologists needed a new severity classification to log them. Coastlines shift by kilometres in a single storm season. No continental interior surveyed so far has supported a stable settlement footprint for more than a few decades before weather erased it.
 
-The Four Islands survive the weather by accident of geology rather than design: a submerged, ring-shaped caldera rim breaks the worst of the deep-ocean storm systems before they reach the archipelago, leaving the islands themselves merely windy — every tree on Vellamar grows leaning, and every colonist's first lesson is which direction to expect the gusts from — rather than annihilated on the same schedule as the rest of the world. The air itself is another matter: Survey Corps atmospheric analysis has confirmed extensive, centuries-old soil and micro-flora engineering across all four islands, layered in so long ago and so thoroughly integrated into the native-seeming ecology that it went undetected until instruments looked specifically for it. The founding colonists did not arrive to a world already breathable. They made it one, generations before the record that should have said so was lost — and the Kingdom's own chronicles, which credit the accomplishment to nothing more specific than "the first settlers' hard work," have never once described it as anything other than ordinary labour.
+The four islands the Crown holds survive the weather by accident of geology rather than design: a submerged, ring-shaped caldera rim breaks the worst of the deep-ocean storm systems before they reach the archipelago, leaving the islands themselves merely windy — every tree on Vellamar grows leaning, and every colonist's first lesson is which direction to expect the gusts from — rather than annihilated on the same schedule as the rest of the world. The air itself is another matter: Survey Corps atmospheric analysis has confirmed extensive, centuries-old soil and micro-flora engineering across all four islands, layered in so long ago and so thoroughly integrated into the native-seeming ecology that it went undetected until instruments looked specifically for it. The founding colonists did not arrive to a world already breathable. They made it one, generations before the record that should have said so was lost — and the Kingdom's own chronicles, which credit the accomplishment to nothing more specific than "the first settlers' hard work," have never once described it as anything other than ordinary labour.
 
 ![A windswept avenue of tall palms on Vellamar, fronds permanently bent from the prevailing wind](/star-rangers/images/lore/archipelago-palm-avenue.jpg)
 
@@ -28,6 +28,12 @@ The Four Islands survive the weather by accident of geology rather than design: 
 The Kingdom's own oral chronicles date its founding to a sublight departure from Earth predating even the Currach Fleet's — a detail Solar System archivists have not been able to confirm or rule out, since no departure manifest from the relevant period survives complete. What both sides agree on: this was not a documented Expansion-era colonization effort. It was, like the Fleet's own arks a species deeper into the same anonymous archival gap, a departure that nobody with the authority to record it thought was worth following up on afterward.
 
 Left alone for the length of that gap, the founding population built a civilisation with no outside reference points to correct against — its own language, its own calendar, its own line of monarchs numbered past any count the Archive can independently verify. Survey Corps contact, made only in the last several years, is the first outside confirmation the Kingdom has had in longer than its own court historians can agree on.
+
+## The Count in the Name
+
+The Kingdom's name, in its own language, is a count of islands, and the count is not the one the Archive first filed. The delegation's first summary of the Kingdom's government rendered the name as *the Four Islands*, from the four the Crown holds and the four stewards the Common Council returns, and the rendering stood in the Archive until the Long Accounting had been read far enough back to reach the Sisterhood's charter, whose entries count **five**, and name them. The court's chronicle, recited at every coronation, counts four and always has. Both records call the realm by its count, so the Kingdom is the Four Islands in the one and the Five Islands in the other, and it has lived with the difference the way it lives with the two records' disagreements on succession: neither side has pressed it. The Archive files under the written count on the rule it applies to every conversion it publishes — the first rendering stands beside the corrected one, dated, under the delegation's name — and not because the written record is the truer one, which the delegation has been careful to say to the court in so many words.
+
+What the fifth name names, the record has not established. It is a name in the Accounting's oldest hand with no island the Crown counts under it, rendered at the lowest confidence the delegation's register admits and not yet published, and the delegation has filed three readings against it and pressed none: an island lost, since the open ocean beyond the caldera rim is unsurvivable and a low island on the rim itself would not be the first thing this world's weather has taken; an island renamed, one of the four under an older name, on which the *Krilzat* note below would bear; or a place that was never an island, counted for a reason the Accounting does not give. The Sisterhood, asked, answered that the Accounting says five. The court, asked, answered that the Crown holds four. Every report filed on the question ends the way the delegation's reports end.
 
 ## The Crown Reigns; the Council Rules
 
@@ -79,7 +85,7 @@ Not all of Aduine's terraces are the Crown's to tax. A wedge of the island's old
 
 What resulted is the Kingdom's one deliberate exception to direct royal administration, and about as simple a feudal ladder as three tiers allow:
 
-- **The Crown**, sovereign over all Four Islands, administers most of Aduine at second hand through Aduine's Council-elected steward.
+- **The Crown**, sovereign over all four islands the Crown holds, administers most of Aduine at second hand through Aduine's Council-elected steward.
 - **The Abbey**, holding the Abbeylands directly from the Crown as a tenant-in-chief rather than as a subject of Aduine's steward, owes Vellamar one obligation only: a fixed annual render of grain and preserved stores, delivered regardless of season or storm damage elsewhere on the island.
 - **The reeves**, free tenant farmers granted working tenure over individual terrace-strips by the Abbess, owe the Abbey a fixed share of each harvest and a set number of labour-days a season — maintaining the terrace walls, the storm-catchments, the shared threshing floors — and owe the Crown nothing directly at all.
 

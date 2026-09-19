@@ -2203,7 +2203,7 @@ nostalgic register welcome in full on the mechanism condition; every standing
 refusal binding unchanged; the named works as register, not source). Open,
 put as choices:
 
-- ~~**The seat** — (a) the Kingdom of the Four Islands, recommended; (b) a
+- ~~**The seat** — (a) the Kingdom of the Five Islands, recommended; (b) a
   forming protouniverse; (c) Tír na nÓg and the Union's legendary matter.~~
   **Ruled the same evening: (a).**
 - ~~**The tier** — (a) young adult, listed on the general tier, lean; (b)
@@ -2213,10 +2213,10 @@ put as choices:
   Strands*.**
 - **Two names given with the strand ruling, *The Infinite Castle* and *The
   Timeless Library*** — read as the two strands' anchors and names
-  (**Confirm**); the treatment `four-islands-treatment.md` is written on
+  (**Confirm**); the treatment `five-islands-treatment.md` is written on
   that reading.
 - **The thread's name** — (a) *The Infinite Castle and the Timeless
-  Library*, lean; (b) *The Kingdom of the Four Islands*; (c) another of
+  Library*, lean; (b) *The Kingdom of the Five Islands*; (c) another of
   his. The id waits on it.
 - **Where it is listed** — (a) `GENERAL_TIER` with its own subdomain
   edition, lean; (b) `YOUNG_ADULT_TIER`, so starquest.site carries it.
@@ -2230,3 +2230,17 @@ put as choices:
   succession disagreement; (c) what Krilzat lost.
 - **Chapters per strand, episode-per-strand, a third strand, the Season 12
   registration and the first chapter** — his.
+
+## The number of islands — `intake-2026-09-19.md`, fifth section — realized, two choices OPEN
+
+Dermot, later the same evening: *Change or vary the number of Islands in the
+Kingdom.* Realized as both: the page re-filed as the Kingdom of the Five
+Islands, the count varying by record inside it (court four, Accounting
+five), the fifth name marked. Three readings flagged **Confirm** (an
+extension; five as a draft number; the fifth name stays marked). Open:
+
+- **The number**, if five is not it — (a) five, as realized; (b) seven; (c)
+  no number in the title.
+- **What the fifth name is joined to** — (a) nothing, a separate marked
+  absence, recommended; (b) the Castle's island; (c) Krilzat's older
+  stratum.

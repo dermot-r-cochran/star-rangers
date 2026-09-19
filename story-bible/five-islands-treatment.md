@@ -1,4 +1,4 @@
-# The Infinite Castle and the Timeless Library — the Four Islands thread
+# The Infinite Castle and the Timeless Library — the Five Islands thread
 
 Unpublished planning note, the shape of the record's first epic-fantasy
 thread before any of it is drafted. Dermot's rulings, 19 September 2026
@@ -50,19 +50,31 @@ Run per `decision-making.md` before anything was written.
   horror; prophecy and the gods' hand in POV blocks and codex tellings
   only.
 - **Consistent with this afternoon's disjoint ruling** on the
-  `four-islands-quest` repository. This thread does not mention it, and the
-  shared number in the two kingdoms' names is a coincidence the intake has
-  already noted.
+  `four-islands-quest` repository. This thread does not mention it. The
+  number the two kingdoms' names once shared is gone: the seat is the
+  Kingdom of the Five Islands since his direction later the same evening
+  (*Change or vary the number of Islands in the Kingdom*), and the count
+  itself now varies by record, which is the thread's engine given a name
+  before its first chapter.
 
 ## What is already fixed
 
 Canon the strands inherit and may not contradict, all from
-`src/lore/planets/kingdom-of-the-four-islands.md` and the four character
+`src/lore/planets/kingdom-of-the-five-islands.md` and the four character
 pages unless noted:
 
+- **The count in the name.** The Kingdom's name is a count of islands and
+  the count varies by record: the court's chronicle counts the four the
+  Crown holds, the Long Accounting's charter-era entries count five and
+  name them, and the Archive files under the written count with its first
+  rendering, *the Four Islands*, kept beside it. What the fifth name names
+  is marked — lost, renamed, or never an island — with the delegation's
+  three low-confidence readings on the page and none pressed. The
+  Castle's ground and the fifth name are separate absences and stay so
+  unless he joins them.
 - **The world.** Fast rotation, a wide ocean and a greenhouse-heavy
   atmosphere keep most of the planet under storm systems the Survey Corps
-  needed a new severity class to log. The Four Islands survive because a
+  needed a new severity class to log. The four islands the Crown holds survive because a
   submerged caldera rim breaks the worst of it; the open ocean and the
   continents are close to unsurvivable. The wilderness beyond the caldera
   is weather, and no monster lives in it.
@@ -291,3 +303,12 @@ Three shapes, his:
 ## What happened when these were ruled
 
 *(Appended as rulings land, in the shape of the Below the Roof note.)*
+
+- **19 September, later the same evening — *Change or vary the number of
+  Islands in the Kingdom*.** Realized as both: the page is re-filed as the
+  Kingdom of the Five Islands, and the count varies by record inside it.
+  The seat's two records now disagree on the Kingdom's own name, which is
+  the strands' disagreement stated before either strand exists. Nothing
+  in this note's shapes changes; the fifth name is a fourth marked absence
+  beside Krilzat, the charter and the Accounting's first date, and is put
+  to him as a separate choice in the intake.

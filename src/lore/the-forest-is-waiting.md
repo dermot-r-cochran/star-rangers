@@ -24,7 +24,7 @@ The working end of the same fact is small and canonical. [Winnow Hanger's](/star
 
 ## A Wood Is a Clock
 
-Trees keep the living half of the archive the [glaciers keep frozen](/star-rangers/lore/stone-fire-and-ice/). The bookkeeping is the same — one layer per year, sealed in order, readable by core — but a tree's version stays alive while it records, which makes old trees the survey's favourite kind of witness: present for centuries, silent, and datable to the ring. On Vellamar the [Kingdom's](/star-rangers/lore/planets/kingdom-of-the-four-islands/) garden quarter holds specimen trees that predate the current dynasty — a court that can, in principle, check its own history against a fig — and the record's regard for such trees is the same regard it holds for any long, continuous, locally kept record: [they cannot be imported, only have been kept](/star-rangers/lore/weather-on-other-worlds/).
+Trees keep the living half of the archive the [glaciers keep frozen](/star-rangers/lore/stone-fire-and-ice/). The bookkeeping is the same — one layer per year, sealed in order, readable by core — but a tree's version stays alive while it records, which makes old trees the survey's favourite kind of witness: present for centuries, silent, and datable to the ring. On Vellamar the [Kingdom's](/star-rangers/lore/planets/kingdom-of-the-five-islands/) garden quarter holds specimen trees that predate the current dynasty — a court that can, in principle, check its own history against a fig — and the record's regard for such trees is the same regard it holds for any long, continuous, locally kept record: [they cannot be imported, only have been kept](/star-rangers/lore/weather-on-other-worlds/).
 
 ## The Strange Woods
 
