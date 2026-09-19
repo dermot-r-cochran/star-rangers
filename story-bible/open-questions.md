@@ -2230,6 +2230,12 @@ put as choices:
   succession disagreement; (c) what Krilzat lost.
 - **Chapters per strand, episode-per-strand, a third strand, the Season 12
   registration and the first chapter** — his.
+- **Photographic Beings** (sixth section, later still the same evening) —
+  read as the Castle's third record, light-written (**Confirm**; three
+  other readings listed). What they are: (a) the founders' likenesses kept
+  by the ark and still shown, recommended; (b) an optics of the place; (c)
+  a bright Membrane Shadow, not offered. The glossary entry is held in the
+  treatment until the Castle's ground and mechanism are ruled.
 
 ## The number of islands — `intake-2026-09-19.md`, fifth section — CLOSED same evening
 

@@ -126,10 +126,11 @@ pages unless noted:
 
 ## The thread in one line
 
-The Kingdom keeps two records of itself and a young keeper of each is
-learning to hold one — the court's chronicle, recited under a tree, and the
-Abbey's Accounting, written in a hand that has never changed — while the
-survey's instruments stand at the edge of both, reading something lawful in a
+The Kingdom keeps three records of itself — the court's chronicle, recited
+under a tree; the Abbey's Accounting, written in a hand that has never
+changed; and the Castle's people, written in light — and a young keeper of
+each of the first two is learning to hold one, while the survey's
+instruments stand at the edge of all three, reading something lawful in a
 castle that does not end and a library that does not age, and declining to
 say which record is right.
 
@@ -210,6 +211,73 @@ the delegation's confidence-band register is hers. Strand B is therefore
 not *the survey explaining itself*; it is the Abbey's own reading with a
 Ranger inside it who writes down each answer as given and never puts it to
 a Kingdom source that their record is missing something.
+
+### The third record — Photographic Beings (Dermot's direction, later the same evening)
+
+Given in two words after the strands were ruled, and read at the root of
+the word: *light-written*. The court's chronicle names them; the reader
+meets them in Strand A; the survey reads them in Strand B's register.
+
+**The Kingdom's reading**, which is Strand A's narration: the Castle has
+people. They are seen as light and cannot be touched; they walk the same
+way each time and never answer; they are always the same, which is how
+the chronicle knows them — the court's record of descent begins with their
+names, and a keeper learns the names by watching them go by. *Photographic*
+is the delegation's rendering of the Kingdom's own word, which the Archive
+files at the same low band as the fifth name.
+
+**The survey's reading**, kept as candidates and none pressed — his, and
+put in the intake as choices:
+
+- **(a) The founders' likenesses, kept by the ark and still shown** —
+  recommended, and it composes with the Castle as the ark's hull (choice (i)
+  above). What still runs of the ship shows what it was built to show, on a
+  cycle nobody alive set. The delegation's instrument photographs a
+  photograph. Cost: it fixes both open choices on the Castle at once, and
+  fixes that the founders' faces survive.
+- **(b) An ordinary optics of the place** — reflection, sea-air and
+  storm-light. Lawful; gives the survey nothing to keep.
+- **(c) A bright Membrane Shadow** — listed, not offered: a new licence
+  spent on old furniture.
+
+**What they do to the strands.** They are the reason the chronicle is kept
+*in* the Castle: an oral record of descent that begins with faces still
+visible is a record that checks itself against something, which is what
+the court has over the Abbey and what the Abbey's first hand has over the
+court — the Accounting names them too, and the two lists disagree, the way
+the two records disagree on everything that matters. Strand A's young
+keeper knows them by sight and by name; Strand B's novice knows them by the
+charter's hand and has never seen one; la Chapelle has seen one and filed
+three readings.
+
+**What they do to the convergence.** Shape (a), *a door and an entry*, takes
+them without change: the room the keeper finds has one in it that the
+chronicle has no name for, the Accounting's entry for the room names it,
+and the instrument log records a figure at a wavelength and a duration and
+nothing else. Three records, one figure, no name agreed.
+
+**Rules that bind them.** The 26 August rule in full: a POV may read them as
+the dead, the founders, the saints or the fae, and a `canon_facts` line may
+say *the keeper saw a figure of light in the north room* and never *the
+founders walk the Castle*. The tone rule: they never answer, and the
+season stops there — no figure of light is ever a threat, a warning or a
+grief. The bestiary rule does not apply, because they are not creatures;
+the Membrane Shadow entry is the neighbour they are told apart from, on the
+same test — no thermal or mass signature — and the treatment keeps them on
+the far side of it.
+
+**Proposed glossary entry, held here until the Castle is ruled.** Title
+*Photographic Beings*; category Entities; `short:` *The delegation's
+rendering of a Five Islands word for figures seen as light in the
+Kingdom's oldest keep — never touched, never answering, always the same;
+the court's chronicle of descent begins with their names. What they are the
+record has not established.* Body: the Kingdom's reading stated plainly;
+the survey's three candidates at low confidence, none pressed; the
+Membrane Shadow named as what they are not, with the instrument test that
+tells them apart; related: *Membrane Shadow*, *The Kingdom of the Five
+Islands*, *Abbess Ilsabet Marrowtide*. It goes to `src/glossary/` in the
+same change that registers the thread, since the keep it names is the
+Castle and the Castle is not yet canon.
 
 ## The young viewpoints
 
@@ -296,6 +364,9 @@ Three shapes, his:
 - **Chapters per strand**, and whether each strand is an episode entire on
   the Below the Roof pattern (a reader who reads one episode has one whole
   strand).
+- **What the Photographic Beings are** — (a) the ark's kept likenesses,
+  recommended; (b) an optics of the place; (c) not offered. Their glossary
+  entry waits on the Castle.
 - **A third strand.** *Two or more* leaves the door open; the natural third
   is the delegation compound on Vellamar in de Courtney's register, which
   the thread can add once the two Kingdom strands stand.
@@ -311,4 +382,10 @@ Three shapes, his:
   the strands' disagreement stated before either strand exists. Nothing
   in this note's shapes changes; the fifth name is a fourth marked absence
   beside Krilzat, the charter and the Accounting's first date, and is put
-  to him as a separate choice in the intake.
+  to him as a separate choice in the intake. **Approved** later the same
+  evening (*Approved*; *1-a 2-a*): five, and the fifth name joined to
+  nothing.
+- **19 September, later still — *Photographic Beings*.** Read as the
+  Castle's third record, light-written beside the told and the written;
+  written in above as *The third record*, with the survey's reading put as
+  three shapes and the glossary entry held here until the Castle is ruled.
