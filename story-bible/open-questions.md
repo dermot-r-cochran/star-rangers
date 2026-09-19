@@ -2181,11 +2181,13 @@ institution — refused*. The second item **ruled the same evening (*Three
 kinds of conflict*)**: the eighth question lists disagreement, violence and
 war as three concepts. Nothing open.
 
-## The Four Islands Quest and this record — `intake-2026-09-19.md` — OPEN
+## The Four Islands Quest and this record — `intake-2026-09-19.md` — CLOSED same afternoon
 
 Dermot: *it could be public codex of Tissadelle Shepherd or another author
 associated with myths and legends of Tir na nOg.* Three shapes put: (a)
 leave the two records separate; (b) a Tír na nÓg teller's telling as a
 codex entry in the Saint Aoife shape, linking the quest as the tale's text,
 recommended if a link is wanted; (c) an entry in Tissadelle's hand, the
-weakest. Nothing realized.
+weakest. **Ruled the same afternoon: (a), the records stay completely
+disjoint** — the 6 September *separate worlds* ruling confirmed. Nothing
+realized, nothing to realize.
