@@ -2249,7 +2249,10 @@ put as choices:
   the Archive's term beside it, recommended; (b) *Etheric*; (c) dropped.
   **C** the Five Islands' neighbour — (a) unnamed, the beings stay the
   Union's, recommended; (b) the Harmonic Membrane, joining the Kingdom to
-  the Good People; (c) a third membrane, named. Nothing drafted.
+  the Good People; (c) a third membrane, named. ~~Nothing drafted.~~
+  **Ruled the same evening, *Aporoved* read as *Approved*: A(a), B(a),
+  C(a)**, realized at `src/glossary/luminescent-ethereal-beings.md`; the
+  phrase given to the Union's First Landing records. Nothing open.
 
 ## The number of islands — `intake-2026-09-19.md`, fifth section — CLOSED same evening
 

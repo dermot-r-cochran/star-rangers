@@ -257,7 +257,7 @@ The word **Etheric** was carrying three jobs at once — a causal layer, a set o
 - **Layer:** Universe Structure (Inter-Membrane)
 - **Definition:** The separation between two adjacent cosmic membranes, measured across the Common Manifold rather than through either universe's own space.
 - **Notes:** A distance term, not a medium or a place — nothing is native to it, nothing travels through it under its own power, no vessel has been in one. Its one operationally significant property is that it varies: a boundary zone *is* a narrowed Interval, and Membrane Resonance, Intermembrane Bleed, Membrane Shadows and transient gravity tunnels are all consequences of that narrowing. What crosses is field structure, never matter — the sole exception being a transient gravity tunnel. A certified fold transit into a neighbouring membrane is not a second exception: a fold compresses the separation to adjacency and releases it, so nothing traverses a standing Interval.
-- **Related Terms:** Cosmic membrane, Intermembrane Bleed, Membrane Shadow, Photographic Being (the Shadow's bright, converging case; Survey Corps *membrane caustic*), Boundary Zone
+- **Related Terms:** Cosmic membrane, Intermembrane Bleed, Membrane Shadow, Photographic Being (the Shadow's bright, converging case; Survey Corps *membrane caustic*), Luminescent Ethereal Being (the Good People at a Conjunction window — a First Landing phrase kept as *Filinesse* is kept, not Archive voice, where the layer is *Etheric*), Boundary Zone
 
 ### The Common Manifold (post-11 manifold)
 - **Layer:** Cross-Universe Structure
