@@ -226,8 +226,12 @@ names, and a keeper learns the names by watching them go by. *Photographic*
 is the delegation's rendering of the Kingdom's own word, which the Archive
 files at the same low band as the fifth name.
 
-**The survey's reading**, kept as candidates and none pressed — his, and
-put in the intake as choices:
+**The survey's reading — ruled, *Option C*, the same evening.** They are
+the Membrane Shadow's bright case: the same Class III strain where its
+geometry converges, gathering this side's daylight into the far side's
+outline. Canon now, at `src/glossary/photographic-beings.md` and the
+*Bright Case* section of `src/lore/membrane-shadows.md`. The three shapes
+as they were put, kept for the record:
 
 - **(a) The founders' likenesses, kept by the ark and still shown** —
   recommended, and it composes with the Castle as the ark's hull (choice (i)
@@ -237,8 +241,14 @@ put in the intake as choices:
   fixes that the founders' faces survive.
 - **(b) An ordinary optics of the place** — reflection, sea-air and
   storm-light. Lawful; gives the survey nothing to keep.
-- **(c) A bright Membrane Shadow** — listed, not offered: a new licence
-  spent on old furniture.
+- **(c) A bright Membrane Shadow** — listed, not offered, and **chosen**:
+  on inspection the Shadow page already licensed it (rim-light, a real and
+  photographable bending), so the cost was the statement of conditions,
+  now made. The seat therefore has a narrowed Interval somewhere the court
+  can take a delegation, and the Castle's mechanism choice reweights —
+  (ii), an Etheric anchor structure at a boundary zone, now composes; (i),
+  the ark's hull, stays available beside it, since a hull and a boundary
+  zone can share ground.
 
 **What they do to the strands.** They are the reason the chronicle is kept
 *in* the Castle: an oral record of descent that begins with faces still
@@ -266,7 +276,10 @@ the Membrane Shadow entry is the neighbour they are told apart from, on the
 same test — no thermal or mass signature — and the treatment keeps them on
 the far side of it.
 
-**Proposed glossary entry, held here until the Castle is ruled.** Title
+**Glossary entry — realized**, no longer held: a boundary phenomenon does
+not depend on the Castle, so the entry names the Kingdom and not the keep,
+and the Castle stays out of canon until the thread is registered. The
+proposal as it stood: Title
 *Photographic Beings*; category Entities; `short:` *The delegation's
 rendering of a Five Islands word for figures seen as light in the
 Kingdom's oldest keep — never touched, never answering, always the same;
@@ -364,9 +377,9 @@ Three shapes, his:
 - **Chapters per strand**, and whether each strand is an episode entire on
   the Below the Roof pattern (a reader who reads one episode has one whole
   strand).
-- **What the Photographic Beings are** — (a) the ark's kept likenesses,
-  recommended; (b) an optics of the place; (c) not offered. Their glossary
-  entry waits on the Castle.
+- ~~**What the Photographic Beings are**~~ — ruled *Option C*, the
+  Membrane Shadow's bright case; canon. The Castle's mechanism choice is
+  reweighted above.
 - **A third strand.** *Two or more* leaves the door open; the natural third
   is the delegation compound on Vellamar in de Courtney's register, which
   the thread can add once the two Kingdom strands stand.
@@ -389,3 +402,7 @@ Three shapes, his:
   Castle's third record, light-written beside the told and the written;
   written in above as *The third record*, with the survey's reading put as
   three shapes and the glossary entry held here until the Castle is ruled.
+  **Ruled the same evening, *Option C*:** the Membrane Shadow's bright
+  case — licensed as a clarification of the Shadow page, realized in
+  `src/glossary/` and on the lore page; the Castle's mechanism choice
+  reweighted toward the boundary-zone shape.

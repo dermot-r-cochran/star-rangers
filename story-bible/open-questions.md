@@ -2232,10 +2232,12 @@ put as choices:
   registration and the first chapter** — his.
 - **Photographic Beings** (sixth section, later still the same evening) —
   read as the Castle's third record, light-written (**Confirm**; three
-  other readings listed). What they are: (a) the founders' likenesses kept
+  other readings listed). ~~What they are: (a) the founders' likenesses kept
   by the ark and still shown, recommended; (b) an optics of the place; (c)
-  a bright Membrane Shadow, not offered. The glossary entry is held in the
-  treatment until the Castle's ground and mechanism are ruled.
+  a bright Membrane Shadow, not offered.~~ **Ruled the same evening,
+  *Option C*:** the Membrane Shadow's bright case, licensed and realized
+  (`src/glossary/photographic-beings.md`). The Castle's mechanism choice
+  above is reweighted toward (ii), the boundary-zone shape, with (i) kept.
 
 ## The number of islands — `intake-2026-09-19.md`, fifth section — CLOSED same evening
 
