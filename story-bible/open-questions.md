@@ -2180,3 +2180,12 @@ assumes war as a default institution*) and realized** as *War as a default
 institution — refused*. The second item **ruled the same evening (*Three
 kinds of conflict*)**: the eighth question lists disagreement, violence and
 war as three concepts. Nothing open.
+
+## The Four Islands Quest and this record — `intake-2026-09-19.md` — OPEN
+
+Dermot: *it could be public codex of Tissadelle Shepherd or another author
+associated with myths and legends of Tir na nOg.* Three shapes put: (a)
+leave the two records separate; (b) a Tír na nÓg teller's telling as a
+codex entry in the Saint Aoife shape, linking the quest as the tale's text,
+recommended if a link is wanted; (c) an entry in Tissadelle's hand, the
+weakest. Nothing realized.
