@@ -2238,6 +2238,18 @@ put as choices:
   *Option C*:** the Membrane Shadow's bright case, licensed and realized
   (`src/glossary/photographic-beings.md`). The Castle's mechanism choice
   above is reweighted toward (ii), the boundary-zone shape, with (i) kept.
+- **Luminescent Ethereal beings** (eighth section, later still) — read as
+  the Good People as they present at a Conjunction window, luminous by
+  their own envelope's coupling of sound and light while its templates
+  hold here: the Etheric-channel complement of the Photographic Being
+  (**Confirm**; three other readings listed, one a reversal). Three
+  choices: **A** which beings — (a) the Good People at the window,
+  recommended; (b) the Levrils' rendered form; (c) a new species. **B** the
+  word *Ethereal*, retired 26 July — (a) kept as a tradition's name with
+  the Archive's term beside it, recommended; (b) *Etheric*; (c) dropped.
+  **C** the Five Islands' neighbour — (a) unnamed, the beings stay the
+  Union's, recommended; (b) the Harmonic Membrane, joining the Kingdom to
+  the Good People; (c) a third membrane, named. Nothing drafted.
 
 ## The number of islands — `intake-2026-09-19.md`, fifth section — CLOSED same evening
 
