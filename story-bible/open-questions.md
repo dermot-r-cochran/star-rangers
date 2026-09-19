@@ -2231,16 +2231,14 @@ put as choices:
 - **Chapters per strand, episode-per-strand, a third strand, the Season 12
   registration and the first chapter** — his.
 
-## The number of islands — `intake-2026-09-19.md`, fifth section — realized, two choices OPEN
+## The number of islands — `intake-2026-09-19.md`, fifth section — CLOSED same evening
 
 Dermot, later the same evening: *Change or vary the number of Islands in the
 Kingdom.* Realized as both: the page re-filed as the Kingdom of the Five
 Islands, the count varying by record inside it (court four, Accounting
 five), the fifth name marked. Three readings flagged **Confirm** (an
-extension; five as a draft number; the fifth name stays marked). Open:
-
-- **The number**, if five is not it — (a) five, as realized; (b) seven; (c)
-  no number in the title.
-- **What the fifth name is joined to** — (a) nothing, a separate marked
-  absence, recommended; (b) the Castle's island; (c) Krilzat's older
-  stratum.
+extension; five as a draft number; the fifth name stays marked).
+**Ruled the same evening, verbatim *Approved*:** the readings confirmed,
+and both choices closed on (a) — five, and the fifth name joined to
+nothing. Nothing open here; the thread's own choices stay in the section
+above.
