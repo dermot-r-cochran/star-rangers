@@ -2191,3 +2191,23 @@ recommended if a link is wanted; (c) an entry in Tissadelle's hand, the
 weakest. **Ruled the same afternoon: (a), the records stay completely
 disjoint** — the 6 September *separate worlds* ruling confirmed. Nothing
 realized, nothing to realize.
+
+## Epic fantasy as a reading — `intake-2026-09-19.md`, third section — OPEN
+
+Dermot, the same evening: *I see it as a reading never a real mechanism
+however much I otherwise like the nostalgic fantasy genre* — ruling that an
+epic fantasy in the nostalgic register is a storyline thread of this record,
+not a new repository. Five readings flagged **Confirm** (the record's own
+sense of *reading*; a thread, not a fork or a codex-only telling; the
+nostalgic register welcome in full on the mechanism condition; every standing
+refusal binding unchanged; the named works as register, not source). Open,
+put as choices:
+
+- **The seat** — (a) the Kingdom of the Four Islands, recommended; (b) a
+  forming protouniverse; (c) Tír na nÓg and the Union's legendary matter.
+- **The tier** — (a) young adult, listed on the general tier, lean; (b)
+  general.
+- **The strand structure** — two strands on the *one act, two records*
+  pattern, recommended; or one.
+- **The name, the Season 12 registration, the cast, the convergence and
+  the first chapter** — his, waiting on the seat.
