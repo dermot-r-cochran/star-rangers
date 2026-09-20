@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Concordant"
+revealed_by: s01e01c02
 id: concordant
 category: "Cosmology"
 short: "A bounded region of reality with internally consistent physical and Etheric rules; Concordance is the plural form."

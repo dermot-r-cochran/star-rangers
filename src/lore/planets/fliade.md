@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Fliade"
+revealed_by: s11e02c01
 category: "Locations"
 tags: [fliade, pandoids, anstolik, survey-world, cavern-biosphere, first-contact, below-the-roof, star-rangers, locations]
 description: "A cold terrestrial world whose biodiversity lives underground, and whose deep-cavern people the survey found before anyone had proposed doing anything to the planet — the rare case where the sapience clause arrived early enough to matter."

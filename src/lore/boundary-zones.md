@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Boundary Zones and Concordant Edges"
+revealed_by: s01e01c01
 category: "Cosmology"
 tags: [boundary, concordant, concordance, threshold, instrument-drift, physical-law]
 description: "How boundary zones produce measurable physical effects and why they are operationally constrained environments — and why the kind Rangers actually work in is a narrowing between universes, not an edge between Concordant Zones."

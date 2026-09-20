@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Tír na nÓg"
+revealed_by: s02e02c01
 category: "Locations"
 tags: [tir-na-nog, celtic-union, biosphere-planet, locations, human-compatible, anomaly, boirinn-uplands, donn, cliona, conjunction]
 description: "The flagship world of the Celtic Union of Planets — the only surveyed world in Solar System record naturally compatible with unmodified human atmosphere and gravity, and a standing scientific anomaly no institution has closed the file on."

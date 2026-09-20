@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Etheric"
+revealed_by: s01e02c02
 id: etheric
 category: "Cosmology"
 short: "Layer 3 of the Five Layers of Reality. The rule-template layer governing what physical expressions can remain coherent. Archetypal templates constrain physical and material admissibility."

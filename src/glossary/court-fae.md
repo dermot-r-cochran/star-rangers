@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Court-Fae"
+revealed_by: s01e02c01
 id: court-fae
 category: "Entities"
 short: "Sapient meta-dimensional predators (Class II). Feed on ambiguity, desire loops, and social debt. No Cascade standing."

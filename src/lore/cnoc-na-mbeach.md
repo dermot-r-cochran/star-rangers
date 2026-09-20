@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Cnoc na mBeach"
+revealed_by: s08e01c01
 category: "Institutions"
 tags: [church-space, communion-of-the-called, cnoc-na-mbeach, hermitage, beekeeping, institutions]
 description: "A small hive-yard hermitage under no diocese and no chain of command, kept by a retired Star Rangers Chief and whoever the Communion of the Called's chaplaincy rota sends through."

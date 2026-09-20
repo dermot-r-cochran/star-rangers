@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Krenyi"
+revealed_by: s01e01c01
 id: krenyi
 category: "Species"
 short: "Long-lived humanoids defined by clarity, coherence, and structural resistance to fear, fury, enslavement, mythification, and grief-predation — with an origin unrecorded by their own design. Also called 'Quiet-Built' or 'Nai'."

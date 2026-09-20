@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "The Hyperfold Yield Combine"
+revealed_by: s05e02c03
 category: "Factions"
 tags: [hyperfold, combine, dock-seven, commercial, fold-drive, boundary, class-iii, threshold-station, factions, defunct]
 description: "A licensed commercial concern that harvested boundary fauna for fold-transit stabiliser, and held an aperture open for four months to do it. Everything about it was lawful. It ended at Dock Seven in 2831, and the parts of it that are still unresolved are not the parts anybody expected."

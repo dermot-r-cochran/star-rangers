@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Boundary Zone"
+revealed_by: s01e01c01
 id: boundary-zone
 category: "Cosmology"
 short: "A region where two regions of differing physical and Etheric conditions meet, producing measurable instrument drift; in operational use, almost always a local narrowing of the Interval between two universes."

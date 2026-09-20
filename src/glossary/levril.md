@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Levril"
+revealed_by: s07e01c01
 id: levril
 category: "Cosmic Cascade"
 short: "Sapient meta-dimensional beings — dragons and kin — with formal Cascade standing. Below Celestials, above Champions. Distinguished from sapient and non-sapient monsters by Cascade rank and constraint literacy."

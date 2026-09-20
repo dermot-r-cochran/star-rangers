@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Smart Pet"
+revealed_by: s02e05c01
 id: smart-pet
 category: "Species"
 short: "An animal carrying a certified AI cognitive subsystem — a status the Undercover Pets Detective Agency prefers for field work, and one of the most tightly regulated animal-welfare categories in the Concord."

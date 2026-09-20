@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "The Interval"
+revealed_by: s01e01c03
 id: interval
 category: "Cosmology"
 short: "The separation between two adjacent cosmic membranes, measured across the Common Manifold rather than through any universe's own space. Boundary zones are where the Interval narrows."
