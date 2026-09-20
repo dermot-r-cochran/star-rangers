@@ -2,6 +2,8 @@
 
 In-universe documents: logs, reports, proposals, ballads, doctrine, working papers. Rendered by `_includes/codex.njk`, listed by `category`, and each fronted by a designed title card in `src/images/codex/` (from `scripts/make-codex-cover.ps1`; a generator cannot spell, so the words are set by the tool). Story content under CC BY-NC-ND 4.0.
 
+*Revelation:* an entry may carry `revealed_by` and `revised_by` like a lore page (rule in `CLAUDE.md`, 2026-09-20); nothing is hidden by them.
+
 **The Codex is not canon; each entry is canon-for-its-author.** `author` is required on every entry for that reason (`lib/content-schema.js`): an entry with nobody behind it has no point of view to be valid from and silently becomes Archive-voice fact. Codex entries carry no `canon_facts`. Optional front matter: `category`, `library`, `institution`, `location`, `tags`, `image`, `image_alt`.
 
 Two tests govern what goes here:
