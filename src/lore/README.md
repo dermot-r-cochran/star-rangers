@@ -1,5 +1,7 @@
 # `src/lore/` — settled fact
 
+*Revelation:* every page may carry `revealed_by` (the chapter id whose prose first establishes its subject) and `revised_by` (chapter ids after which it was revised). Nothing is hidden by them; `node scripts/revelation-ledger.js` reads them (rule in `CLAUDE.md`, 2026-09-20).
+
 Lore states what is flatly true in the world: cosmology, institutions, physics, species, places, history. Binding canon, story content under CC BY-NC-ND 4.0, rendered by `_includes/lore-entry.njk` and listed by `index.md` by `category`. A new or changed entry is second-tier work under `CLAUDE.md`.
 
 ## Subdirectories
