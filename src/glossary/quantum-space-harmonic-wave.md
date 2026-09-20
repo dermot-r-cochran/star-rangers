@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Quantum Space Harmonic Wave"
+revealed_by: s01e02c03
 id: quantum-space-harmonic-wave
 category: "Physics"
 short: "One of two canonical FTL channels, based on phase-locked harmonic corridor transit; the medium-range one, roughly a light-year a day."

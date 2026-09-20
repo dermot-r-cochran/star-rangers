@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Military Space Command"
+revealed_by: s00e02c01
 category: "Factions"
 tags: [msc, military-space-command, faction, solar-system, technocracy, governance, history]
 description: "The Military Space Command: the benevolent technocratic authority that governed the Solar System before the founding of the Star Rangers — and why it could not last."

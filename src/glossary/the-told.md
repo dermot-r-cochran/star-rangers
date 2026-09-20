@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "The Told"
+revealed_by: s11e01c02
 id: the-told
 category: "Species"
 short: "The Pandoids' own name for themselves, rendered in translation: one is of the people by having been told the tellings. Their personal names are tellings too — the first thing said of a person that others went on repeating."

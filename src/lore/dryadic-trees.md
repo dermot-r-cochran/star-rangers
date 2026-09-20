@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Dryadic Trees: Etheric-Rooted Organisms and Class II Anchor Points"
+revealed_by: s01e02c02
 category: "Flora"
 tags: [dryadic-trees, flora, class-ii, meta-dimensional, etheric, boundary, anchor-points, sapient-monsters]
 description: "Dryadic trees are organisms whose root systems extend into the Etheric layer, making them natural anchor points exploited by Class II meta-dimensional beings as stable footholds in Material space."

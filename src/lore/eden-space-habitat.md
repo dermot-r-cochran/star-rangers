@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Eden Space Habitat"
+revealed_by: s00e02c01
 category: "Locations"
 tags: [eden, space-habitat, fold-route, msc, history, formation, boundary]
 description: "Eden Space Habitat: built in the wrong place for the right reasons, and accidentally positioned near one of the Solar System's first confirmed natural higher-dimensional fold routes."

@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Gilded Saints"
+revealed_by: s07e01c01
 id: gilded-saints
 category: "Entities"
 short: "Sapient meta-dimensional predators (Class II). Feed on moral labour, sanctified suffering, and closure-prevention. Appear as worthy causes or sacred duties. No Cascade standing."

@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Krenyi (Quiet-Built)"
+revealed_by: s01e01c01
 category: "Species"
 tags: [krenyi, species, boundary, clarity, polyamorous, long-lived, levril, champions, senses, boundary-analyst]
 description: "The Krenyi, also called the Quiet-Built or Nai: long-lived beings defined by clarity, coherence, and resistance to mythification — which is also why they hold Levrils in the least awe and answer them the fastest."

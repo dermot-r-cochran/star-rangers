@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Chthonari"
+revealed_by: s02e04c01
 category: "Species"
 tags: [chthonari, species, undersong-belt, federation-of-sentient-beings, engineering-corps, star-rangers, low-gravity, harmonics]
 description: "A low-gravity, asteroid-burrowing insectoid people whose vibration-based senses gave them an intuitive grasp of harmonic mathematics long before they had a word for it — and who are now disproportionately represented in the Star Rangers' Engineering Corps fold-scaffold specialization."

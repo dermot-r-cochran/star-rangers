@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "The Ring-Rail"
+revealed_by: s02e02c01
 category: "Technology"
 tags: [eden, ring-rail, orbital-habitats-compact, transit, infrastructure, eden-warden, technology]
 description: "Eden Space Habitat's circumferential commuter line — the ordinary, AI-scheduled way most residents actually move around the ring, and the one everyday system that quietly touches both of Eden's separate chains of authority."

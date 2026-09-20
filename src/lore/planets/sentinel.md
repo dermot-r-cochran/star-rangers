@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "The Sentinel"
+revealed_by: s03e01c01
 category: "Locations"
 tags: [sentinel, halyx-system, meridian, cerebraun-hegemony, em-pulse, tissadelle-shepherd, anomaly, boundary-adjacent, locations]
 description: "An airless, uninhabited world in the Halyx System, catalogued for centuries as an automated hazard beacon — until a Star Ranger with a musician's ear caught the structure in its EM pulse that pattern-recognition software had been filtering out as noise."

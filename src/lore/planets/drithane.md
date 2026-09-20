@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Drithane"
+revealed_by: s02e03c01
 category: "Locations"
 tags: [drithane, celtic-union, planets, locations, brid-system, drithle-season]
 image: "drithane.jpg"
