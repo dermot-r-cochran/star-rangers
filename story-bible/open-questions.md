@@ -35,6 +35,42 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The saga line — raised 21 September 2026, OPEN
+
+Dermot's direction, given as the whole of a session's task and verbatim in
+`intake-2026-09-21.md`: *An epic saga of exploration, discovery, betrayal,
+loss, pain, false accusations, despair, deep roots, hope, silent gradual
+recovery, transformation, sacrifice and healing, with eternal rewards.* Read
+as the shape of the spine, Tissadelle Shepherd's arc, from Threshold to the
+ruled terminus. Measured beat by beat: twelve of the fourteen are on the
+page, the reward is ruled for its cosmological reading (the founding, *Happy
+New Universe*) and unwritten, and **false accusations is the one beat the
+record holds nowhere** — the nearest is `s07e01c03`'s one-sentence canon fact
+that rivals' public claims against the Corps were tested in the open and
+failed. Eight readings are flagged for confirmation (the spine not a new
+thread; a shape not a plan; *epic* a scale not a voice; betrayal institutional
+and depleted; healing keeping the *shown, not healed* seam; the reward never
+the record's own claim; *silent* hers twice; the ending test binding the last
+clause). Nothing in `src/` changed. Three things put as choices, all his:
+
+- **A. Where the line lives.** (a) story bible now, public after the
+  terminus chapters — recommended; (b) public now, which pre-tells the
+  terminus; (c) story bible only, ever.
+- **B. Where the absent beat lands.** (a) against Shepherd in Dock Seven's
+  aftermath, a Season 6 institutional-strand chapter giving the canon claims
+  their page, cleared by attrition through Season 7 — recommended, with the
+  accuser, the slot and who carries the clearing as sub-choices; (b) already
+  carried at the low degree (`s05e01c01`, the rotations, the Sentinel), write
+  nothing; (c) in another thread, Young Star Rangers or Five-O's second
+  season.
+- **C. Which reading of *eternal rewards* the general tier's ending
+  carries.** (a) the cosmology's own, the founding — recommended and already
+  settled; (b) the overlay's, on church-space alone, which the 26 August rule
+  already provides; (c) both on their tiers, the contemplative tier's added
+  block carrying the second beside the first.
+
+---
+
 ## What a mind is carried by — raised 18 September 2026, RULED same day
 
 Dermot's direction *Substrate of consciousness and awareness*
