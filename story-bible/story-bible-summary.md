@@ -225,6 +225,36 @@ Plurality — a single body hosting more than one person (headmates, or tulpas w
 4. The convergence point is decided before either strand is drafted, even if the season isn't fully written yet — see the "Established future-canon waypoints" and Season 6-7 treatment for examples of convergence points fixed well ahead of the prose.
 5. Convergence merges information or action, not necessarily the cast going forward — characters can separate again after the strands meet.
 
+### The shape of the saga (Dermot's line, 21 September 2026; approved the same day)
+
+The spine, stated whole, in his fourteen beats and his order — verbatim in
+`intake-2026-09-21.md`: **exploration, discovery, betrayal, loss, pain, false
+accusations, despair, deep roots, hope, silent gradual recovery,
+transformation, sacrifice and healing, with eternal rewards.** It describes
+the arc from Threshold to the ruled terminus, and it is a shape rather than
+a plan: the order names weight, not slot (the roots are planted in `s05e02c01`
+before the loss and hold the interior together in Season 6; sacrifice occurs
+twice, at Dock Seven and at the terminus). Where each beat sits on the page:
+
+| Beat | Where |
+|---|---|
+| Exploration, discovery | Seasons 1 and 3; `s05e02c01`–`c03` |
+| Betrayal | Institutional and depleted, never personal — the Combine, the citation, the Institute's account (`s05e02c03`, `s06e01c02`, the comparanda) |
+| Loss, pain | `s05e02c03`; the interior chapters of Season 6 |
+| False accusations | `s06e02c01` — the one beat the record held nowhere until it was drafted; the claims `s07e01c03` says were tested in the open, given their page |
+| Despair | Season 6's interior, hinted; as cosmology, a Gilded Saint's feeding condition |
+| Deep roots | The Boirinn holding, the Hollow, the holding's oldest discipline (`s05e02c01`, `s07e01c02`) |
+| Hope | `s06e01c03` — something at the edge that refuses to leave |
+| Silent gradual recovery | Season 7; the long chosen interval before the terminus; the doctrine's attrition, a lie starving |
+| Transformation | The noöseed, the protouniverse — settled, Tobble-centred |
+| Sacrifice | `s05e02c03` and the terminus (27 August rulings); the act, never the martyrdom narrative, which is the arc's antagonist |
+| Healing | *Shown, Not Healed*; the debt discharged; the well running warm |
+| Eternal rewards | The founding — *Happy New Universe, Tobble dear* — the cosmology's own reading, ruled 21 September; the overlay's *life beyond death* stays the overlay's, per the 26 August rule |
+
+**Publication:** story bible now, and the line may front the work — the
+README synopsis, the thread intro — only once the terminus chapters are
+published, since its last four beats pre-tell them.
+
 ### Season ordering: total as an index, partial in time, no branches (settled 2026-08-05)
 
 Prompted by Dermot's question — are the seasons partially ordered, or do

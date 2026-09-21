@@ -35,7 +35,7 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## The saga line — raised 21 September 2026, OPEN
+## The saga line — raised 21 September 2026, RULED same day
 
 Dermot's direction, given as the whole of a session's task and verbatim in
 `intake-2026-09-21.md`: *An epic saga of exploration, discovery, betrayal,
@@ -51,9 +51,14 @@ failed. Eight readings are flagged for confirmation (the spine not a new
 thread; a shape not a plan; *epic* a scale not a voice; betrayal institutional
 and depleted; healing keeping the *shown, not healed* seam; the reward never
 the record's own claim; *silent* hers twice; the ending test binding the last
-clause). Nothing in `src/` changed. Three things put as choices, all his:
-
-- **A. Where the line lives.** (a) story bible now, public after the
+clause). Three things put as choices and **ruled by Dermot the same day,
+verbatim *Agreed*: (a) on all three**, the readings confirmed. Realized: the
+*shape of the saga* subsection in `story-bible-summary.md`; the chapter
+`s06e02c01`, *On the Record First*, drafted with the accuser, the slot and
+the clearing made by recommendation and flagged in the intake; the founding
+recorded as the reward's reading. Struck below with the shapes kept for the
+record:
+~~- **A. Where the line lives.** (a) story bible now, public after the
   terminus chapters — recommended; (b) public now, which pre-tells the
   terminus; (c) story bible only, ever.
 - **B. Where the absent beat lands.** (a) against Shepherd in Dock Seven's
@@ -67,7 +72,7 @@ clause). Nothing in `src/` changed. Three things put as choices, all his:
   carries.** (a) the cosmology's own, the founding — recommended and already
   settled; (b) the overlay's, on church-space alone, which the 26 August rule
   already provides; (c) both on their tiers, the contemplative tier's added
-  block carrying the second beside the first.
+  block carrying the second beside the first.~~
 
 ---
 
