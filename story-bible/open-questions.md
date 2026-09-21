@@ -55,7 +55,8 @@ clause). Three things put as choices and **ruled by Dermot the same day,
 verbatim *Agreed*: (a) on all three**, the readings confirmed. Realized: the
 *shape of the saga* subsection in `story-bible-summary.md`; the chapter
 `s06e02c01`, *On the Record First*, drafted with the accuser, the slot and
-the clearing made by recommendation and flagged in the intake; the founding
+the clearing made by recommendation, **approved by Dermot the same day,
+verbatim *Approved*, and merged**; the founding
 recorded as the reward's reading. Struck below with the shapes kept for the
 record:
 ~~- **A. Where the line lives.** (a) story bible now, public after the
