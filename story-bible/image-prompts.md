@@ -38,6 +38,15 @@ Two things this does not cover, and both are already recorded below or in
   pipeline, they are recorded in `images.md` and `video-prompts.md` where they
   were supplied, and none of them ships.
 
+**Going forward the answer is one tool: every newly generated image is
+Gemini** (Dermot, 22 September 2026). Firefly and the Gemini-into-Firefly
+route are history rather than choices — they describe images already filed,
+not a menu for the next one. So a new entry's **Tool** line reads Gemini and
+its version unless something has changed, and a non-Gemini generation is a
+decision to record here with its reason, not a default anyone may reach for.
+Which is also the shape of `scripts/image-prompts.js --generate`: the pipeline
+calls Gemini and offers no other backend.
+
 No version is recorded for the statement's images beyond what each entry below
 already carries. It is a recollection given after the fact, which is exactly
 why the per-entry **Tool** line is written at the time: there it is a fact,
@@ -91,12 +100,24 @@ inferred it from the ratio, 2:3 being one Firefly offers no preset for; the
 inference was right and is now a record. The original prompts were never
 recorded.
 
-**Superseded 26 Jul 2026: these are being regenerated, not upscaled.** Dermot's
-decision — the low-quality originals won't be reused. Working prompts for the
+**Superseded 26 Jul 2026: replaced, not upscaled.** Dermot's decision — the
+low-quality originals were not reused. The prompts written for the
 replacements are in `images.md` Open work 5 (migrated 2026-08-11, when
 `firefly-prompts.md` was retired), written to
 diverge per location rather than preserve the existing look, since the repeated
 motif was the second complaint against the set after resolution.
+
+**Done — regenerated 3 September 2026**, the whole set in one batch at
+1600×893, two variants each: the eight `prismere-*` approved and merged that
+day, the three `prismeri-*` rejected as still humanoid and regenerated the
+same evening against the derived body, and `prismere-root-mat-network.jpg`
+(which was 773×1152) with them. Twelve files, all landscape, none of the
+768×1152 originals left in `src/images/`. `images.md`'s Open work 5 table
+carries the per-file record, and the batch's own entry is under *2026-09-03 —
+the Prismere set regenerated, and Agent Barsik*: Gemini 3.1 Flash Image, 2K,
+16:9, no reference images. So nothing below is a live worklist: the Grok
+attribution and the reconstructions are the record of what the *originals*
+were, and every Prismere file on disk today is Gemini's.
 
 The reconstructions below are kept as the record of what the *original* eleven
 depicted, rebuilt from each image's alt text and the lore entries
