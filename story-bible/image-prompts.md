@@ -44,11 +44,26 @@ Two things this does not cover, and both are already recorded below or in
 file under `src/images/` is landscape, square, or a portrait at a size no
 generator in this list defaults to; nothing there carries a Grok default
 aspect, and the one set that did — Prismere, at 768×1152 — has been Gemini's
-since 3 September. The scan did surface one gap rather than a conflict: the
-five 768×1376 character portraits (`aldera`, `ilse-korvain`, `karla-wender`,
-`nessa`, `rook-7`) have no per-file **Tool** line anywhere, so the statement
-above is the only provenance they have. That is precisely what a blanket
-statement is good for, and precisely why it is worth having one.
+since 3 September.
+
+**The five 768×1376 portraits are route two.** `aldera`, `ilse-korvain`,
+`karla-wender`, `nessa` and `rook-7`: Firefly worked up from a generation by
+Gemini's default *banana* image model (Dermot, 22 September 2026, his word for
+it; no version recorded, and the record does not guess at one — the pipeline's
+current `gemini-3.1-flash-image` is a later model and not what these were made
+on). They had no per-file **Tool** line, which is how the scan found them.
+
+**And the scan found the real size of that gap, which is not five files.**
+Of 89 character portraits, 65 are named nowhere in this file; of 121 lore
+images, 85 are. An unknown share of those 150 need no entry at all — the rule
+covers generated images and non-trivially enhanced photographs, and Dermot's
+own frames and the designed cards are neither — but the share cannot be told
+apart by filename, and nothing here separates them. So the standing rule at
+the top of this file ("no generated image enters the repo... without an entry
+here") describes the practice from the date it was written, not the corpus
+behind it. Which is the whole case for a blanket statement: it is the only
+provenance those files have, and it took one sentence to give it to all of
+them at once.
 
 **Going forward the answer is one tool: every newly generated image is
 Gemini** (Dermot, 22 September 2026). Firefly and the Gemini-into-Firefly
