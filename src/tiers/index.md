@@ -73,8 +73,10 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
 
 <h2>The ladder</h2>
 <p>
-  Four rungs, bottom to top. Each one names the reader it is for, the storylines it adds
-  to the rung below, and the address that serves it. Every reader has a body their own
+  Four rungs, bottom to top. Each one names the reader it is for, how it reads, the
+  storylines it adds to the rung below, and the address that serves it. The registers
+  escalate in permission rather than in seriousness: a playful rung is not a shallow one,
+  and a questioning rung is not a grim one. Every reader has a body their own
   size in the room: an animal for the child, a raw Deputy for the young adult, the
   middle-aged and the aliens for the general reader, and the oldest — and the cast in
   their later years — for the contemplative one.
@@ -82,6 +84,10 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
 
 <section class="thread-section" aria-labelledby="tier-children">
   <h3 class="thread-section__title" id="tier-children">1 · Children</h3>
+  <p class="thread-section__description">
+    <strong>How it reads:</strong> interesting and playful. Short scenes, plain words, and a
+    story to be enjoyed rather than decoded.
+  </p>
   <p class="thread-section__description">
     <a href="/star-rangers/threads/undercover-pets/">Undercover Pets</a>, Season 2: the
     Undercover Pets Detective Agency and the animals around it, written in short scenes and
@@ -104,6 +110,10 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
 <section class="thread-section" aria-labelledby="tier-young-adult">
   <h3 class="thread-section__title" id="tier-young-adult">2 · Young adult</h3>
   <p class="thread-section__description">
+    <strong>How it reads:</strong> more mysterious, with a sense of exploration and
+    adventure. The reader goes out into the record and finds things.
+  </p>
+  <p class="thread-section__description">
     Adds <a href="/star-rangers/threads/orbital-five-o/">Orbital Five-O</a>, Season 4 —
     the Governor's Investigative Task Force — and
     <a href="/star-rangers/threads/young-star-rangers/">Young Star Rangers</a>, Season 9 —
@@ -123,6 +133,10 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
 <section class="thread-section" aria-labelledby="tier-general">
   <h3 class="thread-section__title" id="tier-general">3 · General</h3>
   <p class="thread-section__description">
+    <strong>How it reads:</strong> deeper. The same record with its reasons under it — the
+    institutions, the cost of a decision, and the Lore and Codex standing behind a chapter.
+  </p>
+  <p class="thread-section__description">
     Adds the main sequence: the <a href="/star-rangers/threads/founding-era/">Founding
     Era</a>, Season 0, and <a href="/star-rangers/threads/tissadelle-arc/">Tissadelle
     Shepherd's Arc</a>, Seasons 1, 3, 5, 6 and 7 — Cadet to Line Captain to the Last Stand
@@ -140,6 +154,11 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
 
 <section class="thread-section" aria-labelledby="tier-contemplative">
   <h3 class="thread-section__title" id="tier-contemplative">4 · Contemplative</h3>
+  <p class="thread-section__description">
+    <strong>How it reads:</strong> free to question everything, the record's own premises
+    included. Questioning is not contradicting: a question asked on this rung takes nothing
+    back from the ones below it.
+  </p>
   <p class="thread-section__description">
     Adds <a href="/star-rangers/threads/church-space/">Church Space</a>, Season 8 —
     devotional reading kept beside the shared record — and the pages of the orders that
