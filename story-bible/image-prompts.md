@@ -53,32 +53,59 @@ it; no version recorded, and the record does not guess at one — the pipeline's
 current `gemini-3.1-flash-image` is a later model and not what these were made
 on). They had no per-file **Tool** line, which is how the scan found them.
 
-**And the scan found the real size of that gap, which is not five files.**
-Of 89 character portraits, 65 are named nowhere in this file; of 121 lore
-images, 85 are. An unknown share of those 150 need no entry at all — the rule
-covers generated images and non-trivially enhanced photographs, and Dermot's
-own frames and the designed cards are neither — but the share cannot be told
-apart by filename, and nothing here separates them. So the standing rule at
-the top of this file ("no generated image enters the repo... without an entry
-here") describes the practice from the date it was written, not the corpus
-behind it. Which is the whole case for a blanket statement: it is the only
-provenance those files have, and it took one sentence to give it to all of
-them at once.
+**The gap those five came out of, measured.** 270 JPEGs live under
+`src/images/`. 205 are named nowhere in this file. But this file is not the
+only record — `images.md` carries provenance for much of the corpus too, and
+counting both together leaves **82** named in neither. 28 of those are codex
+cards, which need no generation entry (*"Codex entries use designed title
+cards, not photographs"*), so the genuine gap is **54 files**. Two earlier
+counts in this session were wrong and are superseded by that one: five (it
+looked only at a single aspect ratio) and 150 (it counted only this file, and
+only two directories).
 
-**Going forward the answer is one tool: every newly generated image is
-Gemini** (Dermot, 22 September 2026). Firefly and the Gemini-into-Firefly
-route are history rather than choices — they describe images already filed,
-not a menu for the next one. So a new entry's **Tool** line reads Gemini and
-its version unless something has changed, and a non-Gemini generation is a
-decision to record here with its reason, not a default anyone may reach for.
-Which is also the shape of `scripts/image-prompts.js --generate`: the pipeline
-calls Gemini and offers no other backend.
+### What the files themselves say — audit of 22 September 2026
 
-No version is recorded for the statement's images beyond what each entry below
-already carries. It is a recollection given after the fact, which is exactly
-why the per-entry **Tool** line is written at the time: there it is a fact,
-here it is a memory.
+Read out of the JPEGs directly rather than inferred from names, and
+reproducible: JPEG marker segments for EXIF, COM and XMP, and a perceptual
+hash of every image compared against every photograph in the
+`dermot-cochran-photography` checkout, with candidate matches confirmed on
+downsampled pixels rather than on the hash.
 
+| Signal | Files | What it proves |
+| --- | --- | --- |
+| Pixel-identical to a published photograph | 6 | Dermot's own frame, certainly |
+| XMP `DigitalSourceType: trainedAlgorithmicMedia` | 3 | The file declares a generative-AI source |
+| `STAR-RANGERS-PLACEHOLDER` in a COM segment | 2 | A placeholder card, as designed |
+| A libavcodec COM segment | 39 | The file passed through ffmpeg |
+| Camera make and model surviving in EXIF | 1 | Nothing much — see below |
+
+**The photographs that can be proved are a floor, not a set.** Six files match
+a published photograph exactly: `hero/characters-hyrax.jpg`,
+`lore/cloud-sea.jpg`, `lore/drowned-forest.jpg`, `lore/grassland-storm-tree.jpg`
+and `lore/island-watchtower.jpg` pixel for pixel, and `lore/trigrian.jpg`
+closely enough to be the same frame treated. The method can only ever find
+frames that were *published* to the portfolio; anything from `F:` that never
+went up is invisible to it. And EXIF cannot fill the gap, because the import
+pipeline strips it — exactly one file in 270 still carries a camera model.
+
+**Three files that read as photographs declare generative AI**:
+`lore/boirinn-uplands-waterfall.jpg`, `lore/highland-summit-snowfields.jpg`
+and `lore/moorhen-wetland.jpg`. The tag means generative AI touched the file,
+which covers a wholly generated image and a real photograph with a generative
+edit alike, and it does not say which. Worth Dermot's eye, because their names
+and subjects would lead a reader of this file to assume the camera.
+
+**The ffmpeg marker is unexplained and is recorded as a finding, not a
+reading.** 39 files carry it, 21 in `codex/` and 18 in `lore/`. Two
+explanations fit — frames pulled from generated clips, or a resize step that
+happened to run through ffmpeg — and nothing in the files chooses between
+them. None of the six proved photographs carries it.
+
+**The 54-file worklist**, for whoever closes it. Each needs one line saying
+photograph, card or generation, and the answer is Dermot's to give:
+
+- **Carrying the ffmpeg marker** (9): `lore/aspenar.jpg`, `lore/fellowship-of-light.jpg`, `lore/krenyi.jpg`, `lore/meridian.jpg`, `lore/star-rangers-decision-and-communication.jpg`, `lore/star-rangers-safety-corps.jpg`, `lore/subsea-cable-drones.jpg`, `lore/the-unbroken-command.jpg`, `lore/undersong-belt.jpg`.
+- **The rest** (45): `characters/aldera/field-photo-02.jpg`, `characters/aldera/field-photo-04.jpg`, `characters/kai-larsen.jpg`, `characters/sen-marginalia.jpg`, `hero/codex-documents.jpg`, `hero/home-launch.jpg`, `hero/lore-cosmic.jpg`, `hero/season-00-foundation.jpg`, `hero/season-01.jpg`, `hero/season-03-datacentre.jpg`, `hero/season-05-explorers.jpg`, `hero/seasons-orbit.jpg`, `hero/timeline-clock.jpg`, `lore/aethelrock.jpg`, `lore/ai-safety-kernel.jpg`, `lore/ai-usage-credits.jpg`, `lore/autumn-canopy.jpg`, `lore/boirinn-uplands-horses.jpg`, `lore/boirinn-uplands-mist.jpg`, `lore/boundary-zones.jpg`, `lore/cnoc-na-mbeach.jpg`, `lore/coastal-sunset.jpg`, `lore/competing-designs.jpg`, `lore/concordant-membranes.jpg`, `lore/cosmic-cascade.jpg`, `lore/creative-entropy-framework.jpg`, `lore/crimson-blossom-macro.jpg`, `lore/dryadic-trees.jpg`, `lore/elder-fig-grove.jpg`, `lore/ensemble-multiverse.jpg`, `lore/environmental-technology-design.jpg`, `lore/highland-cloud-sea.jpg`, `lore/highland-scrub-road.jpg`, `lore/knarrheim.jpg`, `lore/pelagene-littoral.jpg`, `lore/pink-blossom-macro.jpg`, `lore/saltmere-mooring-gantry-2.jpg`, `lore/scarlet-thread-bloom.jpg`, `lore/seed-mind-lifecycle.jpg`, `lore/star-rangers-academy.jpg`, `lore/universe-overlap-and-folding.jpg`, `lore/violet-spike-inflorescence.jpg`, `lore/wading-heron.jpg`, `lore/wetland-treeline-reflection.jpg`, `lore/white-flower-macro.jpg`.
 ## Alt text is the prompt of record
 
 A prompt doesn't have to hide in here. The `image_alt` line in a lore entry —
