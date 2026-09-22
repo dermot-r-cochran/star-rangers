@@ -48,7 +48,7 @@ And in every tier: **say what you did.** A session that drafts narrative, change
 ## Commands
 
 ```bash
-npm install          # install dependencies (Node 20, see .nvmrc)
+npm ci                # install from the committed lockfile (Node 20, see .nvmrc) - first thing in a fresh checkout; see "Before committing" for why
 npm run start         # eleventy --serve, local dev server with live reload
 npm run build          # eleventy && pagefind --site _site (full production build incl. search index)
 npm test               # node --test test/*.test.js + check-changelog.js + check-changelog-coverage.js (warns only) + validate-content.js + check-internal-links.js + check-related-terms.js + sync-version.js --check + eleventy --dryrun
@@ -215,5 +215,8 @@ Which comments *repo* a build uses is resolved in `giscus.js` in this order: an 
 - **Tone:** the setting may be unsettling but must not tip into horror — hint at the dark fact rather than depicting it. This applies to prose and to image prompts alike (a cyber-revenant portrait showing exposed throat machinery was rejected on exactly this line; the approved version sealed the collar and left one silver seam).
 
 ## Before committing
+
+**In a fresh checkout, run `npm ci` before anything else** (2026-09-22).
+`node_modules/` is gitignored and `package-lock.json` is committed, so a machine that has never built this site has no packages at all — which is the normal state of a Claude Code cloud session, where the repository is cloned fresh into a container and nothing is installed. The reason this is worth writing down is how it presents here, which is worse than a missing-module error. `npm test` opens with the unit suite, and three of those files import a package rather than only `node:` — `test/classify-content.test.js` and `test/content-filter.test.js` reach `gray-matter`, `test/markdown-containers.test.js` reaches `markdown-it`. With nothing installed the run therefore reports **84 tests, 81 passing and 3 failing**, which reads as a real regression rather than an empty `node_modules/` — and in the worst possible place, since `content-filter` is named in this file as the one module where a regression ships church-space to a readership it was not written for. A session can lose an hour hunting a filtering bug that does not exist. **The count is a lie too**: 84 against the 131 the same command collects once the packages are there, because a test file that dies at its `require` never registers its subtests, so 47 of them are silently not run. `npm ci` rather than `npm install`, since it installs the committed lockfile exactly, which is what CI does.
 
 Run `npm test` (schema validation + Eleventy dry-run) — CI enforces this on every PR and it catches most content mistakes (bad front matter, id/filename mismatches, duplicate `comment_id`s) before they become a broken build or a lost comment thread. If you touched any script under `scripts/` that CI shellchecks — `cpanel-deploy.sh`, `deploy-lib.sh`, `mail-lib.sh`, `ensure-node.sh`, `cpanel-autopull.sh` — also expect `shellcheck --severity=warning` to run in CI. The last four are **shared, byte-identical files**: change one in this repo and the same edit must land in `dermot-cochran-photography`, `diff`-clean, in the same piece of work — and since 2026-08-24 CI's shared-scripts job checks exactly that against the sibling's `main` (in both repos, pointing at each other), so forgetting the second half surfaces as a warning on the first PR and a failure on every later one.
