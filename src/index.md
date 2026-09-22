@@ -31,11 +31,23 @@ description: "Fian Ilchruinne — a multi-viewpoint hard-science-fiction novel w
   <img class="page-hero-image" src="/star-rangers{{ ogImage }}" alt="{{ ogImageAlt }}" />
   {%- endif %}
   <h1 class="home-hero__title">✦ {{ site.name }}</h1>
-  <p class="home-hero__subtitle">
-    {{ edition.heroSubtitle | safe }}
-    {% if latestLore %} Newest from the record: <a href="/star-rangers{{ latestLore.url }}">{{ latestLore.title }}</a> — {{ latestLore.excerpt }}{% endif %}
-  </p>
-  <a class="home-hero__cta" href="/star-rangers/start/">Begin Reading</a>
+  <p class="home-hero__subtitle">{{ edition.heroSubtitle | safe }}</p>
+  {#- The newest entry used to be appended to the subtitle above, title and
+      full excerpt both. `latestLore.excerpt` is the whole first paragraph of
+      the entry, uncapped, and the Lore card below renders the same string - so
+      the homepage carried it twice and the hero ran to 162 words, of which 105
+      were the duplicate. The pitch was buried and the one call to action was
+      stranded under it. The entry keeps its place in the hero as the second
+      door instead: the paragraph sells the newest thing in the record and the
+      only button used to send a reader to chapter one, which is a mismatch a
+      second button fixes better than a sentence did. Two doors, not a menu -
+      the six section cards below are the menu. -#}
+  <div class="home-hero__ctas">
+    <a class="home-hero__cta" href="/star-rangers/start/">Begin Reading</a>
+    {%- if latestLore %}
+    <a class="home-hero__cta home-hero__cta--secondary" href="/star-rangers{{ latestLore.url }}">Newest: {{ latestLore.title }}</a>
+    {%- endif %}
+  </div>
 </section>
 
 <section aria-label="Site sections">
