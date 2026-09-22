@@ -35,6 +35,37 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The revelation ledger as an evaluation dataset — raised 22 September 2026, DEFERRED same day
+
+Not a story question. Raised in chat while the applied statistics course's
+exercises were rewritten to work for a reader with no evaluation harness of
+their own; Dermot observed that his writing might serve as data as his
+photographs already do. Scoped the same day in
+`intake-2026-09-22.md`: `revealed_by` read as a declared label against the
+revelation ledger's own title-match heuristic as a predictor, over the
+Archive's 328 titled pages. It measures well — precision 0.828, recall
+0.889, accuracy 0.976, and a recall interval on twenty-seven positives
+running 0.72 to 0.96, which is the headline-versus-class contrast in this
+corpus's own material — and it carries two real confounds worth teaching,
+the short-title bias and the per-section split.
+
+**Deferred**, on Dermot's *They might not be stable* and *leave it until the
+confirmation pass*. The twenty-seven labels are a first pass for
+confirmation, so a blank means not-yet-declared rather than not-revealed,
+and any confusion matrix built now treats 301 blanks as true negatives and
+is wrong for it. Nothing is lost by waiting: the present state is pinned at
+`16dc671` and recoverable for as long as the history exists, and two
+versions derived from two commits would give the course a real
+re-adjudication example where it now has an invented one.
+
+**What this asks of the confirmation pass, when it happens:** record in the
+commit message what moved and why — pages gaining a label, losing one, or
+having the chapter corrected, and on what grounds. That is the adjudication
+log and it cannot be reconstructed from the diff.
+
+**Open:** whether to build it at all once the labels settle, and whether it
+is then a third reference set or a second version of an existing one.
+
 ## The saga line — raised 21 September 2026, RULED same day
 
 Dermot's direction, given as the whole of a session's task and verbatim in
