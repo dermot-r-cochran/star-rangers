@@ -13,6 +13,57 @@ without inventing new prompts from scratch. That must not happen twice.
 **Rule going forward:** no generated image enters the repo, and no photograph
 gets a non-trivial enhancement pass, without an entry here.
 
+## Which generators made the repository's images
+
+Dermot's statement, 22 September 2026, recorded because it answers a question
+the per-entry records could only answer one file at a time: **every generated
+image in the repository came from Gemini or Firefly**, by one of three routes —
+
+- **Gemini alone.**
+- **Firefly worked up from a Gemini generation** — Gemini's output carried into
+  Firefly rather than either tool used end to end.
+- **Firefly alone.**
+
+Two things this does not cover, and both are already recorded below or in
+`images.md`; the statement is the rule and these are its named exceptions.
+
+- **The Prismere / Prismeri cluster is Grok**, confirmed by him the same day.
+  Section 1 below inferred it from the 768×1152 aspect and hedged at *almost
+  certainly*; the hedge is now unnecessary and the entry says so. It is the one
+  generated set in `src/images/` from a third tool, and it predates the
+  Gemini/Firefly pipeline.
+- **Supplied reference stills and clips**, which came from whatever Dermot had
+  to hand rather than through the pipeline: the two shadow stills and the
+  five-frame strip in `reference-art/` (Grok, 5 September 2026), and
+  `tissadelle-headmate-2026-08-24.jpg` (**Botify AI** — a fourth tool, and the
+  only file from it). Each is recorded in `images.md` where it was supplied,
+  and none of them ships. The Grok video orphan they used to sit beside was
+  removed from `src/video/` on 18 September 2026 at his instruction.
+
+**A scan of the repository on 22 September 2026 found no fifth case.** Every
+file under `src/images/` is landscape, square, or a portrait at a size no
+generator in this list defaults to; nothing there carries a Grok default
+aspect, and the one set that did — Prismere, at 768×1152 — has been Gemini's
+since 3 September. The scan did surface one gap rather than a conflict: the
+five 768×1376 character portraits (`aldera`, `ilse-korvain`, `karla-wender`,
+`nessa`, `rook-7`) have no per-file **Tool** line anywhere, so the statement
+above is the only provenance they have. That is precisely what a blanket
+statement is good for, and precisely why it is worth having one.
+
+**Going forward the answer is one tool: every newly generated image is
+Gemini** (Dermot, 22 September 2026). Firefly and the Gemini-into-Firefly
+route are history rather than choices — they describe images already filed,
+not a menu for the next one. So a new entry's **Tool** line reads Gemini and
+its version unless something has changed, and a non-Gemini generation is a
+decision to record here with its reason, not a default anyone may reach for.
+Which is also the shape of `scripts/image-prompts.js --generate`: the pipeline
+calls Gemini and offers no other backend.
+
+No version is recorded for the statement's images beyond what each entry below
+already carries. It is a recollection given after the fact, which is exactly
+why the per-entry **Tool** line is written at the time: there it is a fact,
+here it is a memory.
+
 ## Alt text is the prompt of record
 
 A prompt doesn't have to hide in here. The `image_alt` line in a lore entry —
@@ -42,7 +93,7 @@ Treat an alt-text mismatch as a defect, not a documentation lapse.
 
     ### <filename>
     - **Type:** generation | enhancement
-    - **Tool:** Firefly / Grok / Lightroom / Photoshop / other, plus version if known
+    - **Tool:** Gemini / Firefly / Grok / Lightroom / Photoshop / other, plus version if known
     - **Date:**
     - **Source:** (enhancement only) original file or negative
     - **Prompt / recipe:**
@@ -54,16 +105,31 @@ Treat an alt-text mismatch as a defect, not a documentation lapse.
 
 ### The Prismere / Prismeri cluster (11 files)
 
-All eleven are 768x1152, almost certainly Grok output at its default size — 2:3
-is not a ratio Firefly offers as a preset, which is the strongest evidence they
-came from a different tool. The original prompts were never recorded.
+All eleven are 768x1152, **Grok output at its default size** — confirmed by
+Dermot, 22 September 2026, when he named Gemini and Firefly as the generators
+behind every other generated image in the repository. Until then this entry
+inferred it from the ratio, 2:3 being one Firefly offers no preset for; the
+inference was right and is now a record. The original prompts were never
+recorded.
 
-**Superseded 26 Jul 2026: these are being regenerated, not upscaled.** Dermot's
-decision — the low-quality originals won't be reused. Working prompts for the
+**Superseded 26 Jul 2026: replaced, not upscaled.** Dermot's decision — the
+low-quality originals were not reused. The prompts written for the
 replacements are in `images.md` Open work 5 (migrated 2026-08-11, when
 `firefly-prompts.md` was retired), written to
 diverge per location rather than preserve the existing look, since the repeated
 motif was the second complaint against the set after resolution.
+
+**Done — regenerated 3 September 2026**, the whole set in one batch at
+1600×893, two variants each: the eight `prismere-*` approved and merged that
+day, the three `prismeri-*` rejected as still humanoid and regenerated the
+same evening against the derived body, and `prismere-root-mat-network.jpg`
+(which was 773×1152) with them. Twelve files, all landscape, none of the
+768×1152 originals left in `src/images/`. `images.md`'s Open work 5 table
+carries the per-file record, and the batch's own entry is under *2026-09-03 —
+the Prismere set regenerated, and Agent Barsik*: Gemini 3.1 Flash Image, 2K,
+16:9, no reference images. So nothing below is a live worklist: the Grok
+attribution and the reconstructions are the record of what the *originals*
+were, and every Prismere file on disk today is Gemini's.
 
 The reconstructions below are kept as the record of what the *original* eleven
 depicted, rebuilt from each image's alt text and the lore entries
