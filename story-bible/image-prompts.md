@@ -13,6 +13,36 @@ without inventing new prompts from scratch. That must not happen twice.
 **Rule going forward:** no generated image enters the repo, and no photograph
 gets a non-trivial enhancement pass, without an entry here.
 
+## Which generators made the repository's images
+
+Dermot's statement, 22 September 2026, recorded because it answers a question
+the per-entry records could only answer one file at a time: **every generated
+image in the repository came from Gemini or Firefly**, by one of three routes —
+
+- **Gemini alone.**
+- **Firefly worked up from a Gemini generation** — Gemini's output carried into
+  Firefly rather than either tool used end to end.
+- **Firefly alone.**
+
+Two things this does not cover, and both are already recorded below or in
+`images.md`; the statement is the rule and these are its named exceptions.
+
+- **The Prismere / Prismeri cluster is Grok**, confirmed by him the same day.
+  Section 1 below inferred it from the 768×1152 aspect and hedged at *almost
+  certainly*; the hedge is now unnecessary and the entry says so. It is the one
+  generated set in `src/images/` from a third tool, and it predates the
+  Gemini/Firefly pipeline.
+- **Supplied Grok reference stills and clips** — the shadow stills in
+  `reference-art/`, the orphan in `src/video/`, and the material described but
+  not filed. Those arrived as supplied material rather than through the
+  pipeline, they are recorded in `images.md` and `video-prompts.md` where they
+  were supplied, and none of them ships.
+
+No version is recorded for the statement's images beyond what each entry below
+already carries. It is a recollection given after the fact, which is exactly
+why the per-entry **Tool** line is written at the time: there it is a fact,
+here it is a memory.
+
 ## Alt text is the prompt of record
 
 A prompt doesn't have to hide in here. The `image_alt` line in a lore entry —
@@ -42,7 +72,7 @@ Treat an alt-text mismatch as a defect, not a documentation lapse.
 
     ### <filename>
     - **Type:** generation | enhancement
-    - **Tool:** Firefly / Grok / Lightroom / Photoshop / other, plus version if known
+    - **Tool:** Gemini / Firefly / Grok / Lightroom / Photoshop / other, plus version if known
     - **Date:**
     - **Source:** (enhancement only) original file or negative
     - **Prompt / recipe:**
@@ -54,9 +84,12 @@ Treat an alt-text mismatch as a defect, not a documentation lapse.
 
 ### The Prismere / Prismeri cluster (11 files)
 
-All eleven are 768x1152, almost certainly Grok output at its default size — 2:3
-is not a ratio Firefly offers as a preset, which is the strongest evidence they
-came from a different tool. The original prompts were never recorded.
+All eleven are 768x1152, **Grok output at its default size** — confirmed by
+Dermot, 22 September 2026, when he named Gemini and Firefly as the generators
+behind every other generated image in the repository. Until then this entry
+inferred it from the ratio, 2:3 being one Firefly offers no preset for; the
+inference was right and is now a record. The original prompts were never
+recorded.
 
 **Superseded 26 Jul 2026: these are being regenerated, not upscaled.** Dermot's
 decision — the low-quality originals won't be reused. Working prompts for the
