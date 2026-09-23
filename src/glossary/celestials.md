@@ -19,6 +19,8 @@ Their function is concrete: Celestials maintain Concordant-boundary integrity th
 
 **Scope attaches to the process, not to the persons.** An enforcement action addresses the unlawful operation and reaches exactly as far as that operation does. Anything not part of it falls outside the action's scope and is left untouched — spared *structurally*, rather than assessed and found worthy. A Celestial no more adjudicates worth than a Levril does; what it establishes is the boundary of a process, and everything the process does not include is simply not included. Material-layer witnesses to an enforcement action routinely read the distinction backwards, concluding that whoever survived was judged to deserve it. Nothing in the Cascade has ever been obliged to correct them.
 
+**The tier is graded within itself**, as the Levrils are, and it is one of only two Cascade strata that are. The shape of the grading is not in the record, and the record invents none. The retired designations *High Celestials* and *higher celestials* do not name it: both meant other tiers ([High Celestials](/star-rangers/glossary/high-celestials/)).
+
 **[Frenar](/star-rangers/glossary/frenar/)** is a legacy designation for this same tier. In all current canon, Celestial and Frenar are synonymous. Historical records may use either term.
 
 **Example:** When an unauthorised [Higher-Dimensional Folding](/star-rangers/glossary/higher-dimensional-folding/) attempt threatens to breach a [Concordant](/star-rangers/glossary/concordant/) boundary, it is a Celestial enforcement action — not a Telearch or a [Champion](/star-rangers/glossary/champions-heroes/) — that intervenes. The Celestial's authority to act comes from delegation; it does not originate the law it enforces.
