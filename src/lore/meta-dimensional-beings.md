@@ -4,7 +4,7 @@ title: "Meta-Dimensional Beings: Classification"
 category: "Entities"
 tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, obligers, gilded-saints, overbearers, beautiful-monsters, threnes, cute-predators, higher-dimensional, boundary]
 description: "A classification of all meta-dimensional beings in the Grand Ensemble Multiverse: sapient Cascade-ranked Levrils, sapient monsters, and non-sapient incursives."
-plain: "Some beings exist in more dimensions than the four we can reach, and they sometimes cross into our space at boundary zones. The record sorts them into three classes. Class I, the Levrils, are intelligent and follow the laws of the Cosmic Cascade, so they can be lawfully dealt with. Class II beings are intelligent but follow no such law, which makes them dangerous. Class III beings are not intelligent at all — they act on instinct, like animals. Knowing the class tells you whether talking is even possible."
+plain: "Some beings exist in more dimensions than the four we can reach, and they sometimes cross into our space at boundary zones. The record sorts them into three classes. Class I, the Levrils, are intelligent and follow the laws of the Cosmic Cascade, so they can be lawfully dealt with. Most Class II beings are intelligent but follow no such law, which makes them dangerous; a few are only visitors from next door. Class III beings are not intelligent at all — they act on instinct, like animals. Knowing the class tells you whether talking is even possible."
 image: "meta-dimensional-beings.jpg"
 image_alt: "Designed title card on a dark violet star field: the category ENTITIES in spaced capitals at the top, three concentric circles held in a soft glow, and below a short rule the title META-DIMENSIONAL BEINGS: CLASSIFICATION in pale serif capitals, subtitled 'Three Classes of Being' and 'Sorted by whether talking is possible at all'."
 ---
@@ -34,20 +34,20 @@ See: [Levrils](/star-rangers/lore/levrils/)
 > surveyed exist unnamed, and the Unfounded hold no pattern steady enough to
 > count (see [Unfounded](/star-rangers/glossary/unfounded/)). Class II and III
 > are not Unfounded by definition: the [Caomhari](/star-rangers/glossary/caomhari/)
-> are founded, native to their own universe, and sit in Class II by what they
-> are capable of. The **Class II / Class III
+> are founded, native to their own universe, and sit in Class II by how they
+> present, not by origin (see *Founded neighbours* below). The **Class II / Class III
 > split itself does** survive that, because sapience is an observed capability
 > and an operational fact, not a claim about design. Class I is different in
 > kind: Levrils are founded, and *Higher Levril* and *Dragon* are real
 > subclasses of a real tier.
 
-### Class II — Sapient Monsters
+### Class II — Sapient, Without Cascade Standing
 
-Meta-dimensional beings with a degree of sapience — goal-directed, adaptive, capable of learning and strategy — but without Cascade standing. They are not bound by Cascade constraints and not protected by them. Their sapience makes them more dangerous than incursives because they learn, adjust, and exploit.
+Beings met as meta-dimensional that have a degree of sapience — goal-directed, adaptive, capable of learning and strategy — but no Cascade standing. They are not bound by Cascade constraints and not protected by them. The class holds two groups that share those two facts and almost nothing else.
 
-Sapient monsters cannot perform functions reserved for Cascade-ranked entities. They have no legitimate authority at any tier.
+#### The Unfounded (sapient monsters)
 
-Not every Class II being is predatory. The crossers documented at [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/) have never produced a confirmed feeding signature in any recorded encounter, and the crossers at [Sí Gaoithe](/star-rangers/lore/universes/si-gaoithe/) resist clean Class II/III sorting altogether — see both entries for why "sapient" and "monster" are not the same claim.
+Meta-dimensional in origin, founded by nothing, and predatory. Their sapience makes them more dangerous than incursives because they learn, adjust, and exploit. Sapient monsters cannot perform functions reserved for Cascade-ranked entities, and they have no legitimate authority at any tier. The names below are the modes the Archive has met, not a census (see above).
 
 **Examples:**
 
@@ -56,6 +56,13 @@ Not every Class II being is predatory. The crossers documented at [Tír Tairngir
 - **Obligers** — Conceptual↔Etheric predators. Feed on ambiguity, desire loops, and social debt. Adaptive and strategic; the entity at the Marsh Causeway learned from each of Elvira's failed rituals and adjusted its feeding condition accordingly. Sapient enough to maintain a deception across multiple encounters.
 - **Gilded Saints** — Virtue-extractors. Feed on moral labour, sanctified suffering, and closure-prevention. Sapient enough to identify and sustain the specific emotional conditions they require. Present as worthy causes or sacred duties.
 - **Threnes** — Grief-extractors. Feed on unresolved mourning, prolonging loss rather than allowing it to resolve — a closure-prevention pattern keyed to grief rather than virtue.
+
+#### Founded neighbours
+
+**Not meta-dimensional in origin, and filed here because they appear so.** A meta-dimensional being has no *from*: it extends across higher spatial dimensions rather than living in a universe next door ([Umbral Moon](/star-rangers/lore/umbral-moon/)). A founded neighbour has one. It is native to an adjacent universe under its own Worldwright, and it presents as meta-dimensional because its influence reaches across the membrane: as an imprint, as an image, or in a body through a transient gravity tunnel. Witnesses and instruments meet the presentation and not the origin, which is why the Archive files them in this class. The filing records what is met; it makes no claim about what they are at home.
+
+- **[Caomhari](/star-rangers/glossary/caomhari/)** — the beings of [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/), the Celtic Union's Good People. No confirmed feeding signature in any recorded encounter; the clearest case that a Class II being need not be a predator.
+- **The crossers at [Sí Gaoithe](/star-rangers/lore/universes/si-gaoithe/)** — an unsettled case. They resist clean Class II/III sorting altogether, and whether they are neighbours at all is not established; see that entry for why *sapient* and *monster* are not the same claim.
 
 ### Class III — Non-Sapient Incursives
 
@@ -83,7 +90,7 @@ Levrils (Class I) translate into Material space through lawful dimensional chann
 ## Detection
 
 - **Class I (Levrils):** Instrument anomalies consistent with extra-dimensional field intrusion. Clean signature. Identifiable by trained observers.
-- **Class II (Sapient monsters):** Etheric-layer disturbance in the Conceptual↔Etheric band. Detectable by constraint-literate practitioners. Rook-7's sensor arrays detect feeding-condition asymmetries that correlate with Class II presence.
+- **Class II (the Unfounded):** Etheric-layer disturbance in the Conceptual↔Etheric band. Detectable by constraint-literate practitioners. Rook-7's sensor arrays detect feeding-condition asymmetries that correlate with Class II presence.
 - **Class III (Non-sapient):** Boundary-state escalation and local physics disagreement. Physical instruments can detect precursor conditions. Animals and cyber-enhanced beings often react before instruments register.
 
 ## Cascade Standing and Authority

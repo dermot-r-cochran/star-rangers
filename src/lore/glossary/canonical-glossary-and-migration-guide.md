@@ -208,27 +208,27 @@ Levril is a rank in the Cascade, not a single form. Two subclasses are recognize
 Ranked below Celestials, like Levrils, but holding **no Cascade standing** — see [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) for the full Class I/II/III framework.
 
 ### Overbearers
-- **Layer:** Class II — Sapient Monster
+- **Layer:** Class II — the Unfounded (sapient monster)
 - **Definition:** Sapient meta-dimensional predators that feed through confrontation, intimidation, and forced submission rather than deception.
 - **Classification Rule:** Not a Levril. A formalization of the first term in World Structure Rule 3, not a Cascade-ranked entity. Filed as *Demons* until 2026-09-23 and renamed because the word brought a theology the record refuses (see the migration map); *demon* is now a devotional word only, as *angel* is.
 
 ### Obligers
-- **Layer:** Class II — Sapient Monster
+- **Layer:** Class II — the Unfounded (sapient monster)
 - **Definition:** Sapient meta-dimensional predators that present as obliging and feed on the obligations that creates: ambiguity, desire loops and undefined social debt.
 - **Classification Rule:** Not a Levril. Filed as *Court-Fae* until 2026-09-23 (see the migration map). No court, rank or coordination: the Unfounded have none.
 
 ### Caomhari
-- **Layer:** Class II — sapient crossers of the Harmonic Membrane, not predatory
+- **Layer:** Class II — founded neighbour: not meta-dimensional in origin, filed in Class II because it presents as meta-dimensional across the membrane; not predatory
 - **Definition:** The official record's name for the beings native to Tír Tairngire, from Irish *caomh*, gentle, kind. The Celtic Union's own name is *the Good People*; off-world speech says *elves*.
 - **Classification Rule:** Archive voice writes *Caomhari* (named 2026-09-23). *The Good People* is quoted as the Union's word, as *Filinesse* is kept; *elves* is quoted as speech and never adopted. Never give them a body in a description or an image prompt: what is seen is a presentation.
 
 ### Beautiful Monsters
-- **Layer:** Class II — Sapient Monster
+- **Layer:** Class II — the Unfounded (sapient monster)
 - **Definition:** Sapient meta-dimensional predators that feed on desire and vanity, manifesting as objects of attraction or awe to draw victims into dependency.
 - **Classification Rule:** Not a Levril. Distinct from the informal nickname "beautiful monsters" applied to Obligers, Gilded Saints, and Cute Predators as a group (see [Predatory Entities](/star-rangers/lore/predatory-entities/)) — this is one specific named type, not the collective nickname.
 
 ### Threnes
-- **Layer:** Class II — Sapient Monster
+- **Layer:** Class II — the Unfounded (sapient monster)
 - **Definition:** Sapient meta-dimensional predators that feed on unresolved grief and mourning, prolonging loss rather than allowing it to resolve.
 - **Classification Rule:** Not a Levril. Functionally parallel to Gilded Saints' closure-prevention, but keyed to grief rather than virtue.
 
