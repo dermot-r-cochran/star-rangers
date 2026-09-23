@@ -2348,7 +2348,8 @@ from the shadow-seed at the edge. Realized in `tissadelle-arc-s6-7.md`, *The
 siege below the questing layer*. **Still open:**
 - ~~Whether any of it reaches the page~~ — **ruled the same evening: partly,
   through narrative prose**, one of the few parts of her inner world that can
-  be. **Two POVs are fixed: Tobble, and the avatar understood as Saint
-  Aoife.** Still open: the slot, and which other headmates, if any, take a
-  POV (choices put in chat). Nothing is drafted.
+  be. **Three POVs are fixed: Tobble, Asteria, and the avatar understood as
+  Saint Aoife** (Asteria ruled the same evening). No other headmate takes a
+  POV. Still open: the slot, and whether the avatar's block is
+  `tier=contemplative`. Nothing is drafted.
 - What Tobble sees the counterfeit do, the tells, beyond wearing her face.
