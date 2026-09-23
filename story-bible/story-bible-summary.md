@@ -149,14 +149,14 @@ The ages above are the ordinary route, not the only one. Written up as a new sec
 
 ### Threats/entities (non-magical, rule-based)
 - **Court-Fae / Gilded Saints** — entities that feed on ambiguity, consent erosion, and unresolved obligation loops; naming the threat precisely is a functional weapon against them, not a narrative flourish. Author-facing counter-mechanism detail (deliberately kept out of `src/lore/predatory-entities.md` so the public site doesn't hand readers the answer ahead of the story — see "Editorial note" below): Court-Fae feed on unresolved loops and cannot feed on one that has already been broken by making the ambiguity explicit and discharging the social debt — this is the exact mechanic Season 1 dramatizes at the Marsh Causeway (S01E03C02, "The Right Question") and that Season 7 ("Naming the Line") is planned to reuse. Gilded Saints feed on closure-prevention and are countered by recognizing that pattern and accepting that enough can be enough — not yet dramatized in any published chapter.
-- **Levrils (dragons)** — bounded but powerful; meta-dragons exist across boundary mismatches.
+- **Levrils** (the lower rank are Dragons) — bounded but powerful; meta-Levrils exist across boundary mismatches.
 - **Krenyi ("Quiet-Built")** — a long-lived species (Syra is ~150 years old, not unusually old for her kind); explicitly cannot interbreed with humans and must not be enslaved or mythologized — this is stated as hard canon, not subtext.
 
 ### Canon rules stated explicitly in-text
 - Threshold Station sits where two Concordants meet, producing measurable instrument drift.
 - Krenyi do not interbreed with humans and cannot be enslaved or mythified.
 - There is no magic; apparent "supernatural" effects are boundary interference or Etheric pattern expression.
-- Levrils are bounded but powerful; meta-dragons exist across boundary mismatches.
+- Levrils are bounded but powerful; meta-Levrils exist across boundary mismatches.
 - Magic does not exist as a real ontological force. Historical figures, legends, and characters who describe events as magical are using a period- or culture-specific belief system, or a pre-instrumentation cognitive shorthand, for lawful higher-dimensional/Etheric phenomena — a narrative or in-universe framing choice, never a statement of underlying mechanism.
 - No scene has an impartial, omniscient narrator, except a passage explicitly told from Kieme's perspective — the sole non-anthropomorphic Upper-Structure tier for which that register is earned rather than a craft shortcut.
 
@@ -876,7 +876,7 @@ There is deliberately **no major/supporting/minor character hierarchy**. Three t
 - **Star Rangers** — independent, neutral, self-funded humanitarian boundary-operations corps chartered 2723 UCSD; accountable only to an Oversight Council; no planetary/large-habitat jurisdiction; cannot take political sides.
 - **Krenyi ("Quiet-Built")** — long-lived species (Syra's is ~150yo, unremarkable for them); cannot interbreed with humans; must not be enslaved or mythologized (explicit hard canon). "Nai" prefix (as in "Nai Syra") signals "still relevant here," not a title or greeting.
 - **Court-Fae / Gilded Saints** — entities that feed on ambiguity, consent erosion, and unresolved obligation loops; precise naming disrupts their feeding mechanism.
-- **Levrils** — dragons; bounded but powerful. Meta-dragons exist across boundary mismatches.
+- **Levrils** — two ranks, Higher Levrils and Dragons; bounded but powerful. Meta-Levrils exist across boundary mismatches.
 - **Worldwright** — the authority under which Concordants are produced/maintained.
 - **Instrument drift** — the measurable symptom of standing near a boundary zone (e.g., Threshold Station's 40-second chronometer disagreement).
 - **"Magic" (in-world usage)** — not a real force in this setting's cosmology. A colloquial, legendary, or period-specific term some characters and historical sources use for Etheric/boundary phenomena they haven't correctly modeled — e.g. Elvira being called "the Enchantress" by locals, or old records describing an "enchantment" or "curse." Always resolves mechanically (Five Layers, Concordants, boundary interference) under the hood; treat any in-text use of "magic" as a statement about the speaker's belief or culture, never about the underlying mechanism.

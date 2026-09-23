@@ -195,12 +195,12 @@ Levril is a rank in the Cascade, not a single form. Two subclasses are recognize
 ### Higher Levrils
 - **Layer:** Levril Subclass
 - **Definition:** The most senior Levrils, closest in authority to Celestials; entrusted with cross-Concordant coordination and the selection or mentorship of especially high-causal-relevance Champions.
-- **Classification Rule:** Distinct from Meta-dragons (a Concordant-span property). "Higher" denotes rank within the Levril tier, not dimensional reach.
+- **Classification Rule:** Distinct from Meta-Levrils (a Concordant-span property). "Higher" denotes rank within the Levril tier, not dimensional reach.
 
 ### Dragons
 - **Layer:** Levril Subclass
 - **Definition:** Low-ranking Levrils specialized for constrained high-energy and frontier functions.
-- **Classification Rule:** Not monster-class entities.
+- **Classification Rule:** Not monster-class entities. In Archive voice *dragon* means this rank and nothing else (ruled 2026-09-23). Common speech calls every Levril a dragon because Dragons are the Levrils people see; quote that use as speech, never adopt it.
 
 ## Meta-Dimensional Beings (Non-Levril)
 
@@ -564,6 +564,8 @@ about a pronoun system of their own.
 | “Concordant-wide” / “the Concordant period” / “the Concordant” (civil or civilizational sense) | Concord-wide / the Concord period / the Concord | The compact and the era it names both follow the 2790 restyling. Reserve *Concordant* for the cosmological zone alone. |
 | “Concordant-equivalent governance” (protouniverse) | independent Universal Authority | A protouniverse leaves parental Telearch jurisdiction when it stabilizes its own Universal Authority. |
 | “Dragon-class monster” | Dragon (low-ranking Levril) | Reclassify from monster taxonomy to Levril subclass. |
+| “Meta-dragon(s)” | Meta-Levril(s) | Renamed 2026-09-23. A pure rename with **no change of meaning**: the Concordant-span property, independent of rank. The old word gave *dragon* a meaning that cut across the rank it names. |
+| “dragon(s)” for every Levril, or “dragons and kin” (Archive voice) | Levril(s); *Dragon* for the lower rank only | Ruled 2026-09-23. Witness speech that calls a Levril a dragon is quoted as written. |
 | “Beautiful monster” (unqualified) | Beautiful Monster (named Class II type) *or* the collective nickname for Court-Fae/Gilded Saints/Cute Predators (see Predatory Entities) | Ambiguous on its own; qualify with specific-type or collective-nickname context on first use. |
 | “Single-seed-only ascension model” | Includes plural ascension pathways | Add Plural Convergence / Synarch thresholds where applicable. |
 | “Unified singular governance mind only” | Plural Universal Authority / Synarch Mind options | Permit distributed cognition with Consensus Field decisioning. |
