@@ -29,7 +29,7 @@ it would be. The Unfounded are underwritten by no origin condition at all, so
 there is no decision for a category to record. What the names record instead is
 *how the counterfeit runs* — which shape it wears, and what it feeds on.
 
-Three consequences the record has had to absorb, all of which follow from
+Four consequences the record has had to absorb, all of which follow from
 there being no kind underneath the name:
 
 - **Two things filed under one name need have nothing else in common.** The
@@ -44,6 +44,15 @@ there being no kind underneath the name:
   each other — a clear question insisted upon, naming and closure, asymmetry
   detection. They are not weapons against three species. They are three ways of
   refusing three ways of failing.
+- **The list is not closed, and cannot be.** The names are the modes the
+  Archive has met and filed, not an inventory of what exists. A mode nobody
+  has surveyed has no name yet and is no less present for it. And because
+  the Unfounded are transient and unordered, with no kind to hold a pattern
+  steady, a complete classification is not merely unfinished but
+  unavailable: there is nothing for a census to count twice. A report that
+  fits no name is filed as what the thing was seen to do, and stays
+  unnamed until a second report resembles it; resemblance, as above, is
+  not relation.
 
 The sapient/non-sapient split ([Class II and Class III](/star-rangers/lore/meta-dimensional-beings/))
 survives this and is doing different work: it records what a given pattern is

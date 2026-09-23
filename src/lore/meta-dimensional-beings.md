@@ -27,9 +27,15 @@ See: [Levrils](/star-rangers/lore/levrils/)
 
 > **On the names below.** *Obligers*, *Gilded Saints*, *Overbearers*, *Beautiful
 > Monsters*, *Threnes*, *Cute Predators* — these are [Unfounded](/star-rangers/glossary/unfounded/),
-> and the names are **modes of failure rather than kinds**. Nothing in Classes
-> II and III exists by design, so there is no decision for a category to record;
-> what a name records is how the counterfeit runs. The **Class II / Class III
+> and the names are **modes of failure rather than kinds**. Nothing filed under
+> these names exists by design, so there is no decision for a category to record;
+> what a name records is how the counterfeit runs. The list is the Archive's
+> record so far, not a census, and it cannot be completed: modes nobody has
+> surveyed exist unnamed, and the Unfounded hold no pattern steady enough to
+> count (see [Unfounded](/star-rangers/glossary/unfounded/)). Class II and III
+> are not Unfounded by definition: the [Caomhari](/star-rangers/glossary/caomhari/)
+> are founded, native to their own universe, and sit in Class II by what they
+> are capable of. The **Class II / Class III
 > split itself does** survive that, because sapience is an observed capability
 > and an operational fact, not a claim about design. Class I is different in
 > kind: Levrils are founded, and *Higher Levril* and *Dragon* are real
