@@ -6,7 +6,7 @@ id: gilded-saints
 category: "Entities"
 short: "Sapient meta-dimensional predators (Class II). Feed on moral labour, sanctified suffering, and closure-prevention. Appear as worthy causes or sacred duties. No Cascade standing."
 related:
-  - "Court-Fae"
+  - "Obligers"
   - "Boundary Zone"
   - "Etheric"
 tags: [gilded-saints, predatory-entities, virtue, closure, meta-dimensional, sapient-monster]
@@ -19,7 +19,7 @@ They feed on:
 - **Sanctified suffering** — pain or sacrifice given spiritual significance.
 - **Closure-prevention** — maintaining a situation in which resolution never quite arrives.
 
-Unlike [Court-Fae](/star-rangers/glossary/court-fae/), Gilded Saints do not appear as threats or predators at all. They manifest as worthy causes, inspiring figures, or sacred duties. The sapience directing that presentation is oriented entirely toward sustaining the emotional conditions they require.
+Unlike [Obligers](/star-rangers/glossary/obligers/), Gilded Saints do not appear as threats or predators at all. They manifest as worthy causes, inspiring figures, or sacred duties. The sapience directing that presentation is oriented entirely toward sustaining the emotional conditions they require.
 
 **Counter:** recognise the closure-prevention pattern. Accept that enough is enough. The absence of suffering is not the abandonment of virtue.
 

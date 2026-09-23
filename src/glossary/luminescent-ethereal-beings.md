@@ -3,7 +3,7 @@ layout: glossary-entry.njk
 title: "Luminescent Ethereal Beings"
 id: luminescent-ethereal-beings
 category: "Cosmology"
-short: "The Good People as they present at a Conjunction window — Class II crossers of the Harmonic Membrane, luminous by their own envelope's coupling of sound and light for as long as its templates hold on this side, and by nothing else. The Etheric-channel complement of the Photographic Being, which is an image and crosses nothing."
+short: "The Caomhari (the Good People) as they present at a Conjunction window — Class II crossers of the Harmonic Membrane, luminous by their own envelope's coupling of sound and light for as long as its templates hold on this side, and by nothing else. The Etheric-channel complement of the Photographic Being, which is an image and crosses nothing."
 related:
   - "Photographic Beings"
   - "Membrane Shadow"
@@ -13,7 +13,7 @@ related:
 tags: [luminescent-ethereal-beings, good-people, tir-tairngire, intermembrane-bleed, boundary-zone, cosmology]
 ---
 
-**Luminescent Ethereal Beings** is the phrase the Celtic Union's First Landing records use for the first confirmed sightings of the people who cross from [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/) at a Conjunction window — set down before the Union's own telling had settled on *the Good People* and before anyone had coined *Etheric* for the layer the phrase was reaching for. The Archive keeps it as it keeps *Filinesse*: a rendering from the contact record, not a term of its own. In Archive voice the layer is the [Etheric](/star-rangers/glossary/etheric/), the people are the Good People, and the phenomenon below is theirs; three names, one thing, in the order they were coined, and none more real than the others.
+**Luminescent Ethereal Beings** is the phrase the Celtic Union's First Landing records use for the first confirmed sightings of the people who cross from [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/) at a Conjunction window — set down before the Union's own telling had settled on *the Good People* and before anyone had coined *Etheric* for the layer the phrase was reaching for. The Archive keeps it as it keeps *Filinesse*: a rendering from the contact record, not a term of its own. In Archive voice the layer is the [Etheric](/star-rangers/glossary/etheric/), the people are the [Caomhari](/star-rangers/glossary/caomhari/), and the phenomenon below is theirs; three names, one thing, in the order they were coined, and none more real than the others.
 
 **Who they are** is on the Tír Tairngire page and is not restated here except in its bounds: beings native to that membrane's own Concordant, crossing bodily through a transient gravity tunnel at resonance peak and withdrawing before it closes; [Class II](/star-rangers/lore/meta-dimensional-beings/), sapient, without Cascade standing, and the clearest documented case that Class II is not a predator; tall, unhurried, and correct in a way that is the problem, because a body built to a neighbouring Concordant's templates reads on this side as almost exactly right.
 

@@ -43,7 +43,7 @@ Aldera communicates through filed logs. She does not volunteer information that 
 
 She is aware of Rook-7 through the wider inter-agency channels the detective agency and the police department both draw on, not through any shared chain of command — Rook-7 answers to Threshold Station's police department, not to the agency. Direct contact within the story has not yet occurred. Whether their shared log format is a common protocol or a convergent development is not yet established.
 
-She identified the Court-Fae feeding signature before Galahad arrived at the causeway. She noted the loop structure — attempt, failure, confusion, renewed attempt — and classified it correctly as a feeding mechanism rather than a boundary problem.
+She identified the Obliger feeding signature before Galahad arrived at the causeway. She noted the loop structure — attempt, failure, confusion, renewed attempt — and classified it correctly as a feeding mechanism rather than a boundary problem.
 
 Her recommendation is precise: name what is known. Clarity breaks the loop. Ambiguity is the food source.
 

@@ -164,7 +164,7 @@ Rangers' own unwillingness to close the file — or all three, compounding.
 
 ## Season 7 — "Naming the Line" (working title)
 
-**A. Doctrine as the actual weapon.** Ranger counter-doctrine against Court-Fae and Gilded
+**A. Doctrine as the actual weapon.** Ranger counter-doctrine against Obligers and Gilded
 Saints is explicit and already canon: *name what you know, discharge the debt, recognize the
 closure-prevention pattern, accept that enough is enough*
 (`predatory-entities.md`). The season's climax is not a fight. It's Wender, Syra, and

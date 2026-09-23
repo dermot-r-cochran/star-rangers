@@ -212,10 +212,20 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 - **Definition:** Sapient meta-dimensional predators that feed through confrontation, intimidation, and forced submission rather than deception.
 - **Classification Rule:** Not a Levril. A formalization of the first term in World Structure Rule 3, not a Cascade-ranked entity. Filed as *Demons* until 2026-09-23 and renamed because the word brought a theology the record refuses (see the migration map); *demon* is now a devotional word only, as *angel* is.
 
+### Obligers
+- **Layer:** Class II — Sapient Monster
+- **Definition:** Sapient meta-dimensional predators that present as obliging and feed on the obligations that creates: ambiguity, desire loops and undefined social debt.
+- **Classification Rule:** Not a Levril. Filed as *Court-Fae* until 2026-09-23 (see the migration map). No court, rank or coordination: the Unfounded have none.
+
+### Caomhari
+- **Layer:** Class II — sapient crossers of the Harmonic Membrane, not predatory
+- **Definition:** The official record's name for the beings native to Tír Tairngire, from Irish *caomh*, gentle, kind. The Celtic Union's own name is *the Good People*; off-world speech says *elves*.
+- **Classification Rule:** Archive voice writes *Caomhari* (named 2026-09-23). *The Good People* is quoted as the Union's word, as *Filinesse* is kept; *elves* is quoted as speech and never adopted. Never give them a body in a description or an image prompt: what is seen is a presentation.
+
 ### Beautiful Monsters
 - **Layer:** Class II — Sapient Monster
 - **Definition:** Sapient meta-dimensional predators that feed on desire and vanity, manifesting as objects of attraction or awe to draw victims into dependency.
-- **Classification Rule:** Not a Levril. Distinct from the informal nickname "beautiful monsters" applied to Court-Fae, Gilded Saints, and Cute Predators as a group (see [Predatory Entities](/star-rangers/lore/predatory-entities/)) — this is one specific named type, not the collective nickname.
+- **Classification Rule:** Not a Levril. Distinct from the informal nickname "beautiful monsters" applied to Obligers, Gilded Saints, and Cute Predators as a group (see [Predatory Entities](/star-rangers/lore/predatory-entities/)) — this is one specific named type, not the collective nickname.
 
 ### Threnes
 - **Layer:** Class II — Sapient Monster
@@ -258,7 +268,7 @@ The word **Etheric** was carrying three jobs at once — a causal layer, a set o
 - **Layer:** Universe Structure (Inter-Membrane)
 - **Definition:** The separation between two adjacent cosmic membranes, measured across the Common Manifold rather than through either universe's own space.
 - **Notes:** A distance term, not a medium or a place — nothing is native to it, nothing travels through it under its own power, no vessel has been in one. Its one operationally significant property is that it varies: a boundary zone *is* a narrowed Interval, and Membrane Resonance, Intermembrane Bleed, Membrane Shadows and transient gravity tunnels are all consequences of that narrowing. What crosses is field structure, never matter — the sole exception being a transient gravity tunnel. A certified fold transit into a neighbouring membrane is not a second exception: a fold compresses the separation to adjacency and releases it, so nothing traverses a standing Interval.
-- **Related Terms:** Cosmic membrane, Intermembrane Bleed, Membrane Shadow, Photographic Being (the Shadow's bright, converging case; Survey Corps *membrane caustic*), Luminescent Ethereal Being (the Good People at a Conjunction window — a First Landing phrase kept as *Filinesse* is kept, not Archive voice, where the layer is *Etheric*), Boundary Zone
+- **Related Terms:** Cosmic membrane, Intermembrane Bleed, Membrane Shadow, Photographic Being (the Shadow's bright, converging case; Survey Corps *membrane caustic*), Luminescent Ethereal Being (the Caomhari at a Conjunction window — a First Landing phrase kept as *Filinesse* is kept, not Archive voice, where the layer is *Etheric*), Boundary Zone
 
 ### The Common Manifold (post-11 manifold)
 - **Layer:** Cross-Universe Structure
@@ -285,7 +295,7 @@ The word **Etheric** was carrying three jobs at once — a causal layer, a set o
 - **Layer:** Cross-Universe Structure
 - **Definition:** Each lawful FTL channel is defined at a specific tier of the Cosmic Cascade, and neither is an Ensemble-wide fact. **Quantum space harmonics** are specific to, and defined within, the **local archecluster**: the quantum kernel the wave rides is itself archecluster-scoped, and corridor admissibility is the cluster's finer vocabulary within it, drawn from the local Archewright's archetypes and possibility space. **Fold transit** is specific to, and defined within, the **local formcluster**: fold geometry is a property of the Common Manifold — the local Formwright's formtype, in which every membrane of the cluster is seated.
 - **Notes:** This is the deepest form of the two-channel independence rule: the channels share neither physics nor route map because they are not facts at the same tier. Scope states where a mechanism is *defined*, not where a transit is *performed* — a fold operation still runs inside a single universe, so the flexure entry's "inside a single Concordant" line stands unchanged. Outside its cluster a channel does not fail; it fails to refer: a neighbouring archecluster in the same formcluster folds by the local rules and need not admit harmonic corridors at all, and across a formcluster boundary there is no shared arena and no measured separation to fold.
-- **The home membrane (settled 2026-09-12):** carries no designation on the record. Archive voice writes *the home membrane* or *this membrane*; Survey usage is *this universe*. Every named membrane was named from here by the survey that reached it; nothing has named ours from outside, and no neighbour's name for it is recorded — the Good People have answered *where* only of their own country. Do not coin a designation. Where a tradition's or a species' name for it appears, file it translated beside the Archive's term, on the Kieme pattern of names side by side.
+- **The home membrane (settled 2026-09-12):** carries no designation on the record. Archive voice writes *the home membrane* or *this membrane*; Survey usage is *this universe*. Every named membrane was named from here by the survey that reached it; nothing has named ours from outside, and no neighbour's name for it is recorded — the Caomhari have answered *where* only of their own country. Do not coin a designation. Where a tradition's or a species' name for it appears, file it translated beside the Archive's term, on the Kieme pattern of names side by side.
 - **Related Terms:** the Common Manifold, Archecluster, Formcluster, Flexure
 
 ### Generalised Quantum Mechanics (settled 2026-08-08)
@@ -565,10 +575,12 @@ about a pronoun system of their own.
 | “Concordant-wide” / “the Concordant period” / “the Concordant” (civil or civilizational sense) | Concord-wide / the Concord period / the Concord | The compact and the era it names both follow the 2790 restyling. Reserve *Concordant* for the cosmological zone alone. |
 | “Concordant-equivalent governance” (protouniverse) | independent Universal Authority | A protouniverse leaves parental Telearch jurisdiction when it stabilizes its own Universal Authority. |
 | “Dragon-class monster” | Dragon (low-ranking Levril) | Reclassify from monster taxonomy to Levril subclass. |
+| “Court-Fae” | Obligers (an Obliger) | Renamed 2026-09-23. A pure rename with **no change of meaning**. *Court* claimed a hierarchy the Unfounded cannot have, and *fae* collided with the Union's name for the Caomhari. Old URL 301s. Published prose where a character chooses the word *Court-Fae* stands as that character's word; official language (`canon_facts`, formal classifications, doctrine) says *Obligers*. |
+| “the Good People” / “Elves” (Archive voice) | Caomhari | Named 2026-09-23. *The Good People* stays as the Celtic Union's word and *elves* as off-world speech, both quoted, never adopted. |
 | “Demon(s)” (the Class II mode, Archive voice) | Overbearer(s) | Renamed 2026-09-23. A pure rename with **no change of meaning**: the confrontational predators that feed through intimidation and forced submission. The old word brought a devil-in-chief, a moral cosmology and a kind of being, all of which the record refuses. *Demon* stays in devotional voice, where it means the whole Unfounded class; quote it there as written. |
 | “Meta-dragon(s)” | Meta-Levril(s) | Renamed 2026-09-23. A pure rename with **no change of meaning**: the Concordant-span property, independent of rank. The old word gave *dragon* a meaning that cut across the rank it names. |
 | “dragon(s)” for every Levril, or “dragons and kin” (Archive voice) | Levril(s); *Dragon* for the lower rank only | Ruled 2026-09-23. Witness speech that calls a Levril a dragon is quoted as written. |
-| “Beautiful monster” (unqualified) | Beautiful Monster (named Class II type) *or* the collective nickname for Court-Fae/Gilded Saints/Cute Predators (see Predatory Entities) | Ambiguous on its own; qualify with specific-type or collective-nickname context on first use. |
+| “Beautiful monster” (unqualified) | Beautiful Monster (named Class II type) *or* the collective nickname for Obligers/Gilded Saints/Cute Predators (see Predatory Entities) | Ambiguous on its own; qualify with specific-type or collective-nickname context on first use. |
 | “Single-seed-only ascension model” | Includes plural ascension pathways | Add Plural Convergence / Synarch thresholds where applicable. |
 | “Unified singular governance mind only” | Plural Universal Authority / Synarch Mind options | Permit distributed cognition with Consensus Field decisioning. |
 | “Etheric dimensions” / “invisible Etheric space” | Compact dimensions | The seven-dimension sense of *Etheric* is retired. Reserve *Etheric* for the Layer 3 causal mode; name the dimensions themselves compact. |

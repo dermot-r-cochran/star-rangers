@@ -7,7 +7,7 @@ category: "Species"
 short: "Long-lived humanoids defined by clarity, coherence, and structural resistance to fear, fury, enslavement, mythification, and grief-predation — with an origin unrecorded by their own design. Also called 'Quiet-Built' or 'Nai'."
 related:
   - "Naiad"
-  - "Court-Fae"
+  - "Obligers"
 tags: [krenyi, species]
 ---
 
