@@ -2338,3 +2338,14 @@ extension; five as a draft number; the fifth name stays marked).
 and both choices closed on (a) — five, and the fifth name joined to
 nothing. Nothing open here; the thread's own choices stay in the section
 above.
+
+## The siege below the questing layer — `intake-2026-09-23.md`, last section — RULED in part
+
+Dermot's direction, ruled 1(a), 2(a) the same day: the Unfounded siege of
+Tissadelle's inner world, from the fall into the overfold to the founding,
+runs in Tobble's deeper layer; the counterfeit wearing her face is distinct
+from the shadow-seed at the edge. Realized in `tissadelle-arc-s6-7.md`, *The
+siege below the questing layer*. **Still open:**
+- Whether any of it reaches the page, and in which slot. Nothing is drafted.
+- Whether the reader ever learns of the siege, or only Tobble does.
+- What Tobble sees the counterfeit do, the tells, beyond wearing her face.

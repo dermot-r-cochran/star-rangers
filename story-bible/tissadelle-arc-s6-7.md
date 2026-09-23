@@ -1169,3 +1169,50 @@ least of us* — and the ground stops leaning. The top office's name is a
 marked absence; why she ran the titles backwards is his suspicion,
 unfiled. The beat is added to the draft's tells, not substituted for them:
 "partly" is honoured.
+
+## The siege below the questing layer (Dermot, 23 September 2026 — direction, ruled same day)
+
+Verbatim in `intake-2026-09-23.md`, last section. **Planning canon, held off
+the page** like the Aoife identification above: nothing here goes into
+`src/` until the seasons reach it.
+
+**What happens.** From the fall into the overfold at Dock Seven (2831 UCSD,
+Mid-Autumn) until the founding, Unfounded counterfeits besiege her inner
+world. They arrive separately, like scavengers at the same wound, and never
+coordinate, because the class cannot. One of them wears Tissadelle's own
+shape. The siege runs in **Tobble's subsystem, deeper than the questing
+layer** (ruling 2a). The published S6–7 chapters are her view from the
+layer above, where *"the danger was inside, and it was gentle"*. So the
+siege adds to what they show without contradicting it: each viewpoint
+withholds what the others supply, and nothing reaches into her layer.
+
+**How it ends.** *Regaining control* is the founder's refusal, the
+mechanism the protouniverse glossary already holds: *"a claim to a title is
+a structural act"*, and *"a claim the founder declines has nothing to seat
+itself in."* The counterfeit wearing her face is a claim to be her. Tobble
+declines it, and it has nothing to seat in. It is starved, not destroyed,
+because the Unfounded cannot be destroyed. At and after the founding, the
+Telearch avatar that the young universe understands as Saint Aoife
+ministers to its new Harmonarchs until a Universal Authority stabilises. The
+avatar helps the stabilising and does not rescue: an avatar has *"limited
+power"*, and nothing reaches in.
+
+**Two things wear her face, and they are different (ruling 1a).** The
+Unfounded counterfeit of the siege is a pattern founded by nothing. The
+shadow at the edge after the founding stays as ruled on 6 September: a
+nonviable shadow-seed of the Dock Seven compression, her own remainder and
+not a counterfeit. Tobble's in-scene *"consistent with"* filing is what
+lets a reader wonder whether they are one thing, and the record never says.
+
+**Bounds kept.**
+- The event is *the overfold*, per ruling 2 above. *Common manifold* was the
+  direction's shorthand, and the Manifold is not a place anyone falls into.
+- There is no protouniverse during the stall. It begins at completed
+  transference. What the siege besieges is her inner world, carried in his
+  layer; formation-stage vulnerability applies only after the founding.
+- Tone: unsettling, never horror. Her face on a thing that is not her is the
+  dark fact, and it is hinted, not depicted.
+- Plural terms: headmates are persons, and Tobble is not a vessel. A
+  counterfeit wearing a member's shape is not a member.
+
+**Open:** see `open-questions.md`, the section of the same name.
