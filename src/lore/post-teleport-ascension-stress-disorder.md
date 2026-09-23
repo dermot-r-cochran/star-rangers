@@ -12,7 +12,7 @@ Ordinary jump fatigue has a known shape: anxiety, a flattened mood, a day or two
 
 ## Definition
 
-**Post-Teleport Ascension Stress Disorder (PTASD)** is a recognised Medical Corps diagnosis for a distinct psychological aftermath reported by a minority of personnel following teleportation events executed at or near active [boundary zones](/star-rangers/lore/boundary-zones/) — Class II or III interfaces most often, though confirmed Class I cases exist. It is diagnosed separately from the ordinary anxiety, depression, and central fatigue symptoms already documented under [Teleportation Constraints](/star-rangers/lore/teleportation-limitations/), which PTASD patients also experience and which resolve on the normal timeline. PTASD does not.
+**Post-Teleport Ascension Stress Disorder (PTASD)** is a recognised Medical Corps diagnosis for a distinct psychological aftermath reported by a minority of personnel following teleportation events executed at or near active [boundary zones](/star-rangers/lore/boundary-zones/) — Type II or III interfaces most often, though confirmed Type I cases exist. It is diagnosed separately from the ordinary anxiety, depression, and central fatigue symptoms already documented under [Teleportation Constraints](/star-rangers/lore/teleportation-limitations/), which PTASD patients also experience and which resolve on the normal timeline. PTASD does not.
 
 ## Presentation
 
@@ -35,9 +35,9 @@ Safety Corps investigators are careful to note that this hypothesis explains the
 
 ## Risk Factors and Certification
 
-- Confirmed cases cluster heavily among personnel jumping at or through Threshold-class stations and other confirmed Class II/III interfaces.
+- Confirmed cases cluster heavily among personnel jumping at or through Threshold-class stations and other confirmed Type II/III interfaces.
 - No confirmed correlation yet with rank, specialization, or prior boundary exposure; a first-jump Cadet and a decorated [certified boundary analyst](/star-rangers/lore/star-rangers-safety-corps/) have each been diagnosed.
-- The Safety Corps now requires a PTASD-specific screening question set as part of post-jump clearance at any station rated Class II or above, alongside the standard neurological and mood-symptom checks already mandated under Teleportation Constraints.
+- The Safety Corps now requires a PTASD-specific screening question set as part of post-jump clearance at any station rated Type II or above, alongside the standard neurological and mood-symptom checks already mandated under Teleportation Constraints.
 - A PTASD diagnosis does not disqualify a Ranger from further boundary-proximate teleport use. It does trigger a mandatory Medical Corps review before the next authorization, the same standing the Safety Corps holds over equipment recertification after a stress event.
 
 ## Treatment

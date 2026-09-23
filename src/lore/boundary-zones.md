@@ -15,7 +15,7 @@ A boundary zone is a region where two sets of physical and Etheric conditions me
 
 **Two different edges wear this name, they are not the same phenomenon, and only one of them is somewhere anybody has ever stood.**
 
-An *inter-membrane* boundary zone is where the [Interval](/star-rangers/glossary/interval/) between two universes narrows — locally, where a **flexure** in one [membrane](/star-rangers/lore/concordant-membranes/) carries a patch of it toward its neighbour. (A flexure is a standing bend in a membrane's own geometry, and is not a [higher-dimensional fold](/star-rangers/lore/universe-overlap-and-folding/), which is engineered transit inside a single Concordant. Nothing travels along a flexure and nobody makes one.) This is the operational case, the one graded by the Boundary-State Classes below, and the only kind capable of [Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/), [Membrane Shadows](/star-rangers/lore/membrane-shadows/) and transient gravity tunnels. **Everything documented on this page describes it.** Threshold Station and the Marsh Causeway both sit on this kind.
+An *inter-membrane* boundary zone is where the [Interval](/star-rangers/glossary/interval/) between two universes narrows — locally, where a **flexure** in one [membrane](/star-rangers/lore/concordant-membranes/) carries a patch of it toward its neighbour. (A flexure is a standing bend in a membrane's own geometry, and is not a [higher-dimensional fold](/star-rangers/lore/universe-overlap-and-folding/), which is engineered transit inside a single Concordant. Nothing travels along a flexure and nobody makes one.) This is the operational case, the one graded by the Boundary Types below, and the only kind capable of [Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/), [Membrane Shadows](/star-rangers/lore/membrane-shadows/) and transient gravity tunnels. **Everything documented on this page describes it.** Threshold Station and the Marsh Causeway both sit on this kind.
 
 An *intra-universe* boundary zone is an internal edge between two [Concordant Zones](/star-rangers/glossary/concordant/) of one universe. It is a sound category and it is not a destination: a Concordant Zone spans the visible universe, so the edge between two of them lies beyond any horizon an instrument could be carried to, and no post has ever been established on one. Older filings sometimes describe operational work at "the edge of two Concordants" — the Survey Archive now reads those as the loose usage of their period, not as claims about where anybody was.
 
@@ -33,22 +33,22 @@ Boundary zones are transition domains with coupled but non-identical physics+Eth
 - Cross-position comparisons diverge because local constraints differ.
 - Phase displacement across the narrowed [Interval](/star-rangers/glossary/interval/) drives oscillating anomalies.
 
-## Boundary-State Classes
+## Boundary Types
 
-### Class I — Stable Gradient
+### Type I — Stable Gradient
 Low-amplitude drift, predictable correction cycles.
 
-### Class II — Oscillatory Interface
+### Type II — Oscillatory Interface
 Alternating dominance windows with periodic chronometry divergence.
 
-### Class III — Shear Event
+### Type III — Shear Event
 Rapid discontinuity growth with high instrumentation disagreement.
 
-**A Class II example, in the numbers.** Threshold Station's chronometer discrepancy is the best-documented case on the books, and it is worth quoting as a figure rather than a category: forty seconds, present for at least eleven years by 2826 UCSD, and carried for most of that period as a calibration fault rather than a boundary reading. That is what Class II looks like from inside — not an alarm, but a small stable wrongness that survives every attempt to correct it, because the drift is not an error in the instrument and there is nothing in the instrument to correct. [The Forty-Second Discrepancy (S01E01C02)](/star-rangers/seasons/s01/e01/s01e01c02/) is the meeting where the station's own record is read back in that light for the first time.
+**A Type II example, in the numbers.** Threshold Station's chronometer discrepancy is the best-documented case on the books, and it is worth quoting as a figure rather than a category: forty seconds, present for at least eleven years by 2826 UCSD, and carried for most of that period as a calibration fault rather than a boundary reading. That is what Type II looks like from inside — not an alarm, but a small stable wrongness that survives every attempt to correct it, because the drift is not an error in the instrument and there is nothing in the instrument to correct. [The Forty-Second Discrepancy (S01E01C02)](/star-rangers/seasons/s01/e01/s01e01c02/) is the meeting where the station's own record is read back in that light for the first time.
 
 ## Operational Constraints
 
-- Recalibration alone cannot remove Class II/III drift.
+- Recalibration alone cannot remove Type II/III drift.
 - Long-baseline timing assumptions are invalid inside active zones.
 - Ritual or constraint-literacy procedures must include phase window checks.
 
@@ -66,7 +66,7 @@ Both documented sites lie within the Solar System, which reads as an improbable 
 
 Boundary monitoring at Threshold-class stations is handled by the Survey Corps, a specialist operational branch within the Star Rangers.
 
-The link between the two sites was not deduced from theory. It was found by overlaying three unrelated-looking traces on one table — station chronometer drift, ritual residue from the causeway, and a signal from the oldest tree in the [dryadic grove](/star-rangers/lore/dryadic-trees/) — and noticing that they shared phase families and recurrence intervals at a 3:7 coupling. [The Broken Causeway (S01E02C01)](/star-rangers/seasons/s01/e02/s01e02c01/) and [The Grove at the Fault Line (S01E02C02)](/star-rangers/seasons/s01/e02/s01e02c02/) cover the fieldwork; [Harmonic Debrief (S01E02C03)](/star-rangers/seasons/s01/e02/s01e02c03/) is where one problem replaces two, and where the practical consequence lands — that a station carrying an unexplained Class II interface is also a station whose transit margins are not what its published tables say.
+The link between the two sites was not deduced from theory. It was found by overlaying three unrelated-looking traces on one table — station chronometer drift, ritual residue from the causeway, and a signal from the oldest tree in the [dryadic grove](/star-rangers/lore/dryadic-trees/) — and noticing that they shared phase families and recurrence intervals at a 3:7 coupling. [The Broken Causeway (S01E02C01)](/star-rangers/seasons/s01/e02/s01e02c01/) and [The Grove at the Fault Line (S01E02C02)](/star-rangers/seasons/s01/e02/s01e02c02/) cover the fieldwork; [Harmonic Debrief (S01E02C03)](/star-rangers/seasons/s01/e02/s01e02c03/) is where one problem replaces two, and where the practical consequence lands — that a station carrying an unexplained Type II interface is also a station whose transit margins are not what its published tables say.
 
 Teleportation executed at or through an active interface carries its own documented aftermath, distinct from ordinary jump fatigue: see [Post-Teleport Ascension Stress Disorder](/star-rangers/lore/post-teleport-ascension-stress-disorder/).
 

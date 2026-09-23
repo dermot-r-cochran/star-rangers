@@ -43,7 +43,7 @@ Two consequences are worth stating, because both get assumed the other way round
 
 **None of which the Archive can confirm.** [Concordant](/star-rangers/glossary/concordant/) declines to answer how many zones a universe holds and gives the reason plainly: a handful of unbounded zones and endlessly many merely vast ones look identical from anywhere inside either, since one zone already exceeds everything an observer can see. That has not changed and is not weakened by anything above. The tiling is the **design account**, filed as such — it comes from the strata that author membranes, not from anyone who has stood at an edge, and no survey now or later is shaped to check it. It is a jigsaw no one has ever seen a single edge of, described by the only parties in a position to have seen the whole picture.
 
-Everything graded by the Boundary-State Classes below belongs to the **second** row. There is no Interval inside a universe, so a zone edge cannot produce a bleed event however sharply the two rule-sets differ.
+Everything graded by the Boundary Types below belongs to the **second** row. There is no Interval inside a universe, so a zone edge cannot produce a bleed event however sharply the two rule-sets differ.
 
 What separates one membrane from the next is the **[Interval](/star-rangers/glossary/interval/)** — manifold separation, measured across the Common Manifold rather than through either universe's own space. The Interval is not a place and not a medium anything travels through under its own power; no ship has ever been in it, and no being is native to it. It is the distance term in every inter-membrane measurement Survey Corps takes, and its only operationally interesting property is that it varies. Under a wide Interval, one universe's [Etheric](/star-rangers/glossary/etheric/) archetypal templates have no measurable reach into its neighbour. The two membranes are real, adjacent, and functionally inert to each other.
 
@@ -69,13 +69,13 @@ Survey Corps extends that same structure, one band higher, to the *Etheric* half
 
 One distinction has to be kept straight here, because the shared word "Etheric" hides it. A universe's templates have geometric extent at home through its own [compact dimensions](/star-rangers/glossary/compact-dimensions/) — part of its local dimensional floor, inside its own membrane, no Interval involved. The trans-concordant constraint field is a different band doing a different job: it is what carries templates *across* the Interval to a neighbour. Local extent and cross-membrane reach are two scopes of one layer, not one mechanism described twice, and an analyst who conflates them will look for a bleed signature in the wrong band.
 
-Survey Corps now names this coupling **[Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/)**, graded against the same Boundary-State Classes already used for the physical drift:
+Survey Corps now names this coupling **[Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/)**, graded against the same Boundary Types already used for the physical drift:
 
-| Boundary-State Class | Physical signature | Etheric signature |
+| Boundary Type | Physical signature | Etheric signature |
 |---|---|---|
-| Class I — Stable Gradient | Low-amplitude drift, predictable correction | Undetectable |
-| Class II — Oscillatory Interface | Periodic chronometry divergence | **Membrane Resonance** — detectable, non-displacing |
-| Class III — Shear Event | Rapid discontinuity growth | **Intermembrane Bleed** — neighbouring templates compete for local admissibility |
+| Type I — Stable Gradient | Low-amplitude drift, predictable correction | Undetectable |
+| Type II — Oscillatory Interface | Periodic chronometry divergence | **Membrane Resonance** — detectable, non-displacing |
+| Type III — Shear Event | Rapid discontinuity growth | **Intermembrane Bleed** — neighbouring templates compete for local admissibility |
 
 Neither signature causes the other. They are two observables of the same membrane-proximity event, measured through different dimensional bands of the same manifold.
 
@@ -94,9 +94,9 @@ A membrane-proximity event does not resolve by recalibrating instruments on one 
 - No amount of Physical-layer recalibration resolves an Etheric-signature event. Etheric-layer certification exists specifically to read and respond to Membrane Resonance before it develops into Intermembrane Bleed.
 - The Physical-signature column above is not always the diffuse "rapid discontinuity growth" of an ordinary Shear Event. When the far-side mass is concentrated and coherent — a living being, most often — the same strain-distribution mechanism can resolve into a [Membrane Shadow](/star-rangers/lore/membrane-shadows/): a structured, person- or creature-shaped gravitational imprint, seen but never crossed.
 
-## Beyond Class III: Transient Gravity Tunnels
+## Beyond Type III: Transient Gravity Tunnels
 
-An ordinary Class III Shear Event resolves as either Intermembrane Bleed (Etheric templates competing for local admissibility) or, where the far-side mass is coherent enough, a Membrane Shadow — a gravitational imprint, with nothing physical crossing either way. Survey Corps has documented a third, far rarer outcome at the same Class III extreme: the same strain-distribution mechanism, instead of only bending light or contesting templates, briefly opens a genuine through-conduit between the two membranes — a **transient gravity tunnel**.
+An ordinary Type III Shear Event resolves as either Intermembrane Bleed (Etheric templates competing for local admissibility) or, where the far-side mass is coherent enough, a Membrane Shadow — a gravitational imprint, with nothing physical crossing either way. Survey Corps has documented a third, far rarer outcome at the same Type III extreme: the same strain-distribution mechanism, instead of only bending light or contesting templates, briefly opens a genuine through-conduit between the two membranes — a **transient gravity tunnel**.
 
 A transient gravity tunnel is not engineered, not Lagrange-anchored, and not stable enough to hold open on purpose. It forms and collapses on its own schedule, lasts seconds to minutes at most, and — in every documented case — closes with no warning Survey Corps instrumentation has ever caught early enough to act on. It should never be described as a "natural fold route" the way [Eden Space Habitat's](/star-rangers/lore/eden-space-habitat/) is: Eden's route is stable enough to schedule transit through, and a transient gravity tunnel is not stable enough to schedule anything. No confirmed account exists of a transit caught mid-tunnel at collapse resolving safely on either end.
 

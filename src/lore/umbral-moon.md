@@ -43,7 +43,7 @@ Crossings here are more frequent than at any other documented site inside the So
 
 ## See Also
 
-- [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/) — the flexure, and the Boundary-State Classes
+- [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/) — the flexure, and the Boundary Types
 - [Concordant Membranes](/star-rangers/lore/concordant-membranes/) — the Interval, and what a transient gravity tunnel actually is
 - [Membrane Shadows](/star-rangers/lore/membrane-shadows/) — far-side mass registering with nothing behind it
 - [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) — where Class III incursives sit, and do not
