@@ -24,7 +24,7 @@ Five files, and the desk owes the reader the same honesty the Archivist owes: no
 
 ## The Chamber Window — unsettled
 
-The paradigm case, and the one the lore entry's illustration was drawn from. Late in 2826 UCSD, during the first Class III window logged on the boundary approach after the station's drift was read as a boundary reading, a figure stood between the instrument chamber's observer and the exterior window: tall, dense-edged, rim-lit where the corridor lighting bent round it, casting no shadow of its own. Thermal, nil. Mass, nil. Motion, nil. Gravimeter, a body's worth of strain resolving to an outline, coincident to the second with the optical record, and gone when the window closed. The photograph is in the file and is good.
+The paradigm case, and the one the lore entry's illustration was drawn from. Late in 2826 UCSD, during the first Type III window logged on the boundary approach after the station's drift was read as a boundary reading, a figure stood between the instrument chamber's observer and the exterior window: tall, dense-edged, rim-lit where the corridor lighting bent round it, casting no shadow of its own. Thermal, nil. Mass, nil. Motion, nil. Gravimeter, a body's worth of strain resolving to an outline, coincident to the second with the optical record, and gone when the window closed. The photograph is in the file and is good.
 
 What stood on the far side is **unsettled**, and will stay so. The Archivist's rule for the unsettled kind is that nobody is withholding an answer; the record simply never took one in. Here the record *cannot* take one in — the mass responsible never left its own universe, and no instrument can be carried to where it stood. That is a stronger reason for the same mark. The file records what the trace says: coherent, upright, still for the duration of the window. It does not say *who*, because *who* is a question about a place the question cannot reach.
 
@@ -42,7 +42,7 @@ The physics is not the puzzle. The lore entry is explicit that the load is set b
 
 ## The Watch Officer's Brother — provisional
 
-A silhouette on the docks in 2828 UCSD, during a window, seen by one officer and resolved by that officer, at once and with certainty, as a brother nineteen years dead. The trace is unremarkable: coherent, upright, a Class III imprint like the chamber's. The identification is the whole of the file.
+A silhouette on the docks in 2828 UCSD, during a window, seen by one officer and resolved by that officer, at once and with certainty, as a brother nineteen years dead. The trace is unremarkable: coherent, upright, a Type III imprint like the chamber's. The identification is the whole of the file.
 
 The record's position is [already published](/star-rangers/lore/membrane-shadows/) and the desk applies it without pleasure: a resemblance is the witness's pattern-matching first and a claim about the far side a distant second, and there is no alternate-timeline double to be seen because no neighbouring membrane shares a history with this one. So the identification is filed **provisional** — the Archivist's word for a record kept with its confidence stated — and the officer's own account is in the file unedited, at the officer's request, with the desk's reading beside it and not over it. The officer has asked not to be named on this page, which the desk honours, and has asked that the file not be closed, which the desk was not going to do anyway.
 

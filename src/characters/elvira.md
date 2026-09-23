@@ -23,7 +23,7 @@ What she does is craft. Etheric structures express through the physical substrat
 
 ## Character Notes
 
-Elvira does not experience deep fear. This is not a trained quality — it is structural, a feature of her nature. She once considered it a flaw. She no longer does. The Marsh Causeway is Class II oscillatory, and the work requires someone who can stand in it and continue taking measurements.
+Elvira does not experience deep fear. This is not a trained quality — it is structural, a feature of her nature. She once considered it a flaw. She no longer does. The Marsh Causeway is Type II oscillatory, and the work requires someone who can stand in it and continue taking measurements.
 
 She pays attention to vocabulary. When Galahad uses precise language for the boundary events — not fumbling for metaphors, not reaching for folklore — she notices immediately, and revises her model of him upward.
 

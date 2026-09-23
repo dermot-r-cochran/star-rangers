@@ -66,7 +66,7 @@ They are not intelligent, but they are not inert. A boundary collapse event can 
 **Examples:**
 
 - **Cute Predators** (tickle bugs, lamb-masks) — operate at the micro-scale of consent erosion. No evidence of goal-directed sapience; their behaviour is instinctive pattern-matching against vulnerability signals.
-- **Larger incursives** — documented at Class III boundary collapse events; no communication, no negotiation, no Cascade standing.
+- **Larger incursives** — documented at Type III boundary collapse events; no communication, no negotiation, no Cascade standing.
 
 **Not every shadow-shaped anomaly belongs on this list.** A [Membrane Shadow](/star-rangers/lore/membrane-shadows/) presents the same way — dark, roughly person- or creature-shaped, seen at a boundary zone — but nothing has entered material space to produce it. It is a gravitational imprint leaking across a narrowed cosmic-membrane gap from a mass that stays entirely in its own Concordant, not a being of any class. It falls outside this classification altogether, not at the bottom of it.
 
@@ -74,7 +74,7 @@ They are not intelligent, but they are not inert. A boundary collapse event can 
 
 Meta-dimensional beings enter Material space through:
 
-- **Boundary zones** — the most common entry point; Class II/III instability at [Concordant](/star-rangers/glossary/concordant/) edges allows ingress.
+- **Boundary zones** — the most common entry point; Type II/III instability at [Concordant](/star-rangers/glossary/concordant/) edges allows ingress.
 - **Universe overlap windows** — temporary coexistence periods permit partial dimensional extension into Material space.
 - **Fold-proximate instability** — unauthorised or degraded fold operations can open ingress corridors.
 
