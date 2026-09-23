@@ -85,7 +85,7 @@ Randomness is real, but it carries a faint Etheric texture that can be sculpted 
 - Overlaps manifest as:
   - Conceptual turbulence.
   - "Thin places" and anomalies such as the Threshold Station boundary discrepancy.
-  - Shadow and predatory entities such as the Court-Fae at the Marsh Causeway.
+  - Shadow and predatory entities such as the Obliger at the Marsh Causeway.
   - Ecological and biological influence at the Material layer.
 - Gravity and spacetime distort predictably near overlap boundaries.
 - Syra's coherence-reading and Rook-7's sensor arrays both detect this dimensional tension.
@@ -126,7 +126,7 @@ Entropy is real and inevitable, but actively stabilised. Catastrophic collapse r
 - Evolution follows physical law, but meaning-fields exert subtle Material-layer pressure on:
   - Intuition and dreaming states.
   - Archetypal fears and pattern recognition.
-  - Instinctive responses to conceptual turbulence — for example, Aldera's acute detection of the Court-Fae feeding signature at the Marsh Causeway.
+  - Instinctive responses to conceptual turbulence — for example, Aldera's acute detection of the Obliger feeding signature at the Marsh Causeway.
 
 ### Key Difference
 Life evolves normally but is not perfectly sealed from Etheric influence. Biological systems can register meaning-field disturbance without consciously understanding it.

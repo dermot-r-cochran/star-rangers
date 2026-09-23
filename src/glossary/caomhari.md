@@ -1,0 +1,23 @@
+---
+layout: glossary-entry.njk
+title: "Caomhari"
+id: caomhari
+category: "Cosmology"
+short: "The official record's name for the sapient beings native to Tír Tairngire, who cross the Harmonic Membrane at a Conjunction window: Class II, and not predatory. The Celtic Union calls them the Good People; off-world speech calls them elves."
+related:
+  - "Luminescent Ethereal Beings"
+  - "Membrane Shadow"
+  - "Photographic Beings"
+  - "Boundary Zone"
+tags: [caomhari, good-people, tir-tairngire, meta-dimensional, boundary-zone, cosmology]
+---
+
+**Caomhari** (pronounced: **KEEV-ar-ee**) is the official record's name for the sapient beings native to [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/), the neighbouring universe whose membrane opens onto Tír na nÓg's Concordant on a regular rhythm. The name comes from the Irish *caomh*: gentle, kind, dear.
+
+**Three names, one people.** The Celtic Union has called them *the Good People* since its First Landing, and the record keeps that as the Union's word, the way it keeps *Filinesse* for their country. Off-world speech calls them *elves*, and the record quotes that as speech and never adopts it, because the word brings a body and a race with it and the Caomhari have neither on this side. In Archive voice they are the Caomhari.
+
+They are Class II in the [meta-dimensional beings classification](/star-rangers/lore/meta-dimensional-beings/): sapient and without Cascade standing, and the clearest case on record that a Class II being need not be a predator. What a witness sees of one is a presentation, pitched at the boundary to be met, as with the Dryads; see [Membrane Shadows](/star-rangers/lore/membrane-shadows/). At a Conjunction window they are luminous, which the First Landing records called [Luminescent Ethereal Beings](/star-rangers/glossary/luminescent-ethereal-beings/).
+
+They are not [Obligers](/star-rangers/glossary/obligers/). The two share nothing but a history of being called by the same folk word, and that confusion is why both names were settled on 2026-09-23.
+
+**Example:** A Union field note from a Conjunction window records *the Good People at the tree line, three, withdrawing before the close*. Filed, it reads: three Caomhari presentations, Class II, no feeding signature, withdrew before the window closed.

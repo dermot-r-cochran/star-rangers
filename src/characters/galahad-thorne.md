@@ -27,7 +27,7 @@ He is methodical without being rigid. He is cautious without being fearful. He h
 - Joined the Survey Corps in 2814 UCSD, twelve years before the Threshold posting.
 - Boundary posting experience: six prior stations, two of which recorded unexplained events.
 - Transferred to Threshold Station in 2826 UCSD as team lead for new survey group.
-- Has no documented contact with Court-Fae or Levrils prior to the Threshold posting.
+- Has no documented contact with Obligers or Levrils prior to the Threshold posting.
 - Married, and left the marriage some years before the Threshold transfer. Nothing about it is on the survey record, and he has never given anyone at a boundary post a reason to ask.
 
 ## The Marriage

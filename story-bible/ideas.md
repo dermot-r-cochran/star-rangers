@@ -401,7 +401,7 @@ What the corpus already holds, so the gaps are read against it rather than
 guessed: cuteness-as-cover (the agency animals — Knopka's "too adorable to
 suspect" is the stated doctrine); one cute ambiguity (Muffin, the Deck 7 thing
 nobody describes the same way twice); glamour-class beauty with a feeding
-pattern (the Court-Fae); grief-predation (threnes, and the Krenyi's structural
+pattern (the Obligers); grief-predation (threnes, and the Krenyi's structural
 resistance to it); and the three-class predatory-entity taxonomy plus the
 sapient/non-sapient monster split in meta-dimensional lore. Every predator
 currently on the books feeds on a negative state or uses concealment. That is
@@ -416,7 +416,7 @@ Missing kinds, in rough order of how much new cosmology each would need:
    people are slowly spent. The inverse of Knopka: not cute to hide, cute to
    hunt. Tone-safe by construction (the harm is depletion, never gore), and it
    gives the welfare/certification apparatus a genuinely hard case.
-2. **True beauty as the hazard — no glamour.** The Court-Fae's beauty reads as
+2. **True beauty as the hazard — no glamour.** The Obliger's beauty reads as
    instrument. Missing: a monster whose beauty is *real*, so that destroying or
    banishing it feels like vandalism of something irreplaceable, and the moral
    trap is genuine rather than an illusion to see through. A survey crew that
@@ -447,7 +447,7 @@ Missing kinds, in rough order of how much new cosmology each would need:
    records rather than territory. Must stay this side of horror: the danger is
    that it is *flattering* to describe, not that describing it dooms anyone.
 
-Instances worth adding even without new kinds: a named Court-Fae figure filed
+Instances worth adding even without new kinds: a named Obligers figure filed
 as a beautiful-monster case study (codex, some survey author's account); a
 threne subtype that presents as a comfort animal (bridges kinds 1 and 4); and
 a Kate Ukrainka children's book about a monster the children correctly love —

@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Meta-Dimensional Beings: Classification"
 category: "Entities"
-tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, court-fae, gilded-saints, overbearers, beautiful-monsters, threnes, cute-predators, higher-dimensional, boundary]
+tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, obligers, gilded-saints, overbearers, beautiful-monsters, threnes, cute-predators, higher-dimensional, boundary]
 description: "A classification of all meta-dimensional beings in the Grand Ensemble Multiverse: sapient Cascade-ranked Levrils, sapient monsters, and non-sapient incursives."
 plain: "Some beings exist in more dimensions than the four we can reach, and they sometimes cross into our space at boundary zones. The record sorts them into three classes. Class I, the Levrils, are intelligent and follow the laws of the Cosmic Cascade, so they can be lawfully dealt with. Class II beings are intelligent but follow no such law, which makes them dangerous. Class III beings are not intelligent at all — they act on instinct, like animals. Knowing the class tells you whether talking is even possible."
 image: "meta-dimensional-beings.jpg"
@@ -25,7 +25,7 @@ Levrils mark the upper limit of what Material-layer beings can negotiate with. B
 
 See: [Levrils](/star-rangers/lore/levrils/)
 
-> **On the names below.** *Court-Fae*, *Gilded Saints*, *Overbearers*, *Beautiful
+> **On the names below.** *Obligers*, *Gilded Saints*, *Overbearers*, *Beautiful
 > Monsters*, *Threnes*, *Cute Predators* — these are [Unfounded](/star-rangers/glossary/unfounded/),
 > and the names are **modes of failure rather than kinds**. Nothing in Classes
 > II and III exists by design, so there is no decision for a category to record;
@@ -47,7 +47,7 @@ Not every Class II being is predatory. The crossers documented at [Tír Tairngir
 
 - **Overbearers** — Confrontational predators. Feed through intimidation and forced submission rather than deception. A formalization of the beings that universe-overlap doctrine names first among those arising from overlap distortions. Filed as *Demons* until 2026-09-23.
 - **Beautiful Monsters** — Desire-extractors. Feed on vanity and attraction, manifesting as objects of desire or awe to draw victims into dependency. Not to be confused with the informal "beautiful monsters" nickname applied to this whole predator group (see [Predatory Entities](/star-rangers/lore/predatory-entities/)).
-- **Court-Fae** — Conceptual↔Etheric predators. Feed on ambiguity, desire loops, and social debt. Adaptive and strategic; the entity at the Marsh Causeway learned from each of Elvira's failed rituals and adjusted its feeding condition accordingly. Sapient enough to maintain a deception across multiple encounters.
+- **Obligers** — Conceptual↔Etheric predators. Feed on ambiguity, desire loops, and social debt. Adaptive and strategic; the entity at the Marsh Causeway learned from each of Elvira's failed rituals and adjusted its feeding condition accordingly. Sapient enough to maintain a deception across multiple encounters.
 - **Gilded Saints** — Virtue-extractors. Feed on moral labour, sanctified suffering, and closure-prevention. Sapient enough to identify and sustain the specific emotional conditions they require. Present as worthy causes or sacred duties.
 - **Threnes** — Grief-extractors. Feed on unresolved mourning, prolonging loss rather than allowing it to resolve — a closure-prevention pattern keyed to grief rather than virtue.
 
