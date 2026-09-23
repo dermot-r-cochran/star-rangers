@@ -178,6 +178,7 @@ The listing above is the spine, and it is *mostly* hierarchical — with two mat
 - **Layer:** Supervisory/Agentic
 - **Definition:** Create or supervise systemic agents used for implementation and oversight.
 - **Notes:** The Cascade's temporal threshold — Celestials and below are immanent in Material-layer time; the middle strata above them exist in conceptual time; eternity proper begins above the Worldwrights.
+- **Classification Rule:** Graded within the tier by delegation from the Mediarchs (ruled 2026-09-23): the breadth of scope the Mediarchs, as the Telearch line's proxies inside a universe, entrust a Celestial with, a grade of authority and never of reach. The grades are unnamed and their number is not established. Only Celestials and Levrils are ranked within their strata; every other stratum differs by domain or function, and Champions are unranked. Never name a Celestial grade *High* or *higher Celestial*: both are retired designations for other tiers.
 
 ### Avatar (Incarnated)
 - **Layer:** Exception (Temporal-Register Crossing)

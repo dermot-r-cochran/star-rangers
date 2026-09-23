@@ -127,6 +127,8 @@ The spine above reads as a single chain, and for most tiers it is one. Two place
 
 Neither exception weakens the one-way flow of causality. They describe how the layers derive and to whom they are obligated, not which direction causality resolves.
 
+**Ranked within, and flat within.** Only two strata are graded inside themselves: the Celestials and the Levrils. Every other stratum differs within itself by domain or function, never by grade — Mediarchs by the force each embodies, the matrix's two branches by what each carries, the design strata by what each defines — so a question about which of two Mediarchs outranks the other has no answer, because it asks the wrong kind of question. Champions are not graded either: a Champion's standing is causal relevance, assessed by a Levril, not a rank held.
+
 ## Upper Structure (Hyperomnium, Kieme, Conseleme)
 
 ### Definition
@@ -224,6 +226,9 @@ Celestials execute rule-integrity actions at boundary and overlap interfaces.
 
 ### Scale
 A Celestial's attention is never smaller than a galaxy and is usually wider. The tier exists to keep a Concordant's boundaries whole, and a Concordant's boundaries are not drawn around worlds; an enforcement action reaches exactly as far as the unlawful operation it addresses, and operations that reach a Celestial's threshold are the kind whose edges run through systems, not settlements. A single planet enters a Celestial's scope only as part of a process that crosses it, and is left untouched the moment the process ends. Material-layer witnesses who report a Celestial attending *to them* have, without exception, been standing inside something much larger.
+
+### Internal Order
+The Celestials are graded within their tier, as the Levrils are, and the grade is **delegation from the Mediarchs**: how broad a scope the Mediarchs entrust a Celestial to act within. The Telearchs allocate enforcement scope across Concordants; inside a universe it reaches the Celestials through the Mediarchs, who are the Telearch line's proxies there, so the grade is the Telearch line's trust as a Mediarch hands it down. It is a grade of authority, not of reach. What one enforcement action reaches is still set by the operation it addresses and nothing else (see *Scale*), so a Celestial of wide delegation acting on a narrow unlawful operation reaches exactly as far as that operation does. The grade says what a Celestial may be sent to; the operation says how far it goes when it arrives. The record holds no names for the grades and has not established how many there are. Two names it may be tempting to reach for are not available, because both are retired and both meant other tiers: *High Celestials* (the Telearchs) and *higher celestials* (the Mediarchs). See [High Celestials](/star-rangers/glossary/high-celestials/).
 
 ### Constraints
 - Cannot revise hierarchy order.
