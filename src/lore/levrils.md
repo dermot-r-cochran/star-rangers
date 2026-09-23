@@ -10,7 +10,7 @@ image_alt: "Designed cover for Levrils: a gold dragon-wing silhouette on a dark 
 
 When a dragon appears in Material space, witnesses remember the shape first and the field effects later. The archives reverse that order on purpose.
 
-Levrils are dragons and dragon-kin. They are **sapient meta-dimensional beings** whose existence extends across higher spatial dimensions above the four accessible to Material-layer beings. Sapience plus that higher-dimensional extension is what distinguishes Levrils from other meta-dimensional entities.
+In common speech every Levril is a dragon. In the record only the lower rank is: *Dragon* names the junior subclass described below, and the word spread to the whole tier because Dragons are the Levrils people see. Their work is high-energy, and at that salience every witness renders the same shape (see *What a Levril Looks Like*). Levrils are **sapient meta-dimensional beings** whose existence extends across higher spatial dimensions above the four accessible to Material-layer beings. Sapience plus that higher-dimensional extension is what distinguishes Levrils from other meta-dimensional entities.
 
 In the [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/), Levrils sit below Celestials (Frenar) and above Champions/Heroes. They are the lowest tier with inherent higher-dimensional extension and the only meta-dimensional entities with formal Cascade standing.
 
@@ -23,7 +23,7 @@ Levrils exist simultaneously across multiple higher spatial dimensions. That ext
 - They can perceive Concordant boundary conditions from angles unavailable to three-dimensional instruments.
 - Their apparent materialisation and dematerialisation in Material-layer space is translation across dimensional bands, not creation or destruction.
 
-**Meta-dragons** are a subset of Levrils whose higher-dimensional extension spans more than one Concordant simultaneously. That span carries a coherence cost: the broader the reach, the heavier the maintenance burden.
+**Meta-Levrils** are a subset of Levrils whose higher-dimensional extension spans more than one Concordant simultaneously. That span carries a coherence cost: the broader the reach, the heavier the maintenance burden.
 
 ## What a Levril Looks Like
 
