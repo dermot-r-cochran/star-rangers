@@ -26,6 +26,8 @@ Nothing about a plural mind requires anything beyond the [Five Layers](/star-ran
 
 This is not the mechanism that produces plurality, in the sense of an explanation the people living it need or asked for. It is only the reason the cosmology has never had to treat it as an exception.
 
+Nor does the record claim that plurality has anything to do with universe-seeding. One plural system's part in one noögenic founding is on file, and it is that system's story, not a property of plural minds.
+
 **Example:** [Sen](/star-rangers/characters/sen/), Senior Archivist of the Survey Archive, is three people — Cael, Wyn, and Sen — sharing one body and one desk.
 
 **A second case:** [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/) shares one body with Tobble, a **nonhuman headmate** — a member whose own identity is a species other than the body's. Tobble is a ginger cat and uses he/him. A member's identity has never been required to match the body they share, and the standards have never said it should; the recurring error here is institutional rather than cosmological, since the [Smart Pet](/star-rangers/glossary/smart-pet/) programme has trained everyone to hear "cat" and think *animal*. Tobble is a person. The form that would record him correctly does not exist yet, which is the same class of problem the older single-identity paperwork was, and will presumably be corrected the same way.
