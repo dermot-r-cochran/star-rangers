@@ -3,14 +3,14 @@ layout: glossary-entry.njk
 title: "Unfounded"
 id: unfounded
 category: "Cosmology"
-short: "The Survey Archive's collective term for the predatory pattern-entities — demons, threnes, beautiful monsters, cute predators, recorded at the Conceptual layer and underwritten by no origin condition. The class has no ranks, no coordination and no chief — it could not have one."
+short: "The Survey Archive's collective term for the predatory pattern-entities — overbearers, threnes, beautiful monsters, cute predators, recorded at the Conceptual layer and underwritten by no origin condition. The class has no ranks, no coordination and no chief — it could not have one."
 related:
   - "Cosmic Cascade"
   - "Levril"
 tags: [unfounded, predatory-entities, meta-dimensional, cosmology, layers, archive-doctrine]
 ---
 
-**The Unfounded** is the Survey Archive's collective term for the predatory pattern-entities — the [demons, threnes and beautiful monsters](/star-rangers/lore/meta-dimensional-beings/) of the sapient classes, and the [cute predators](/star-rangers/lore/predatory-entities/) below them. The word is a finding, not an insult: they are patterns the [Conceptual layer](/star-rangers/lore/five-layers/) conserves that **no origin condition underwrites**. Recorded at Layer 2, denied Layer 1 — real enough to catalogue, and grounded in nothing.
+**The Unfounded** is the Survey Archive's collective term for the predatory pattern-entities — the [overbearers, threnes and beautiful monsters](/star-rangers/lore/meta-dimensional-beings/) of the sapient classes, and the [cute predators](/star-rangers/lore/predatory-entities/) below them. The word is a finding, not an insult: they are patterns the [Conceptual layer](/star-rangers/lore/five-layers/) conserves that **no origin condition underwrites**. Recorded at Layer 2, denied Layer 1 — real enough to catalogue, and grounded in nothing.
 
 An Unfounded thing can be classified, tracked, and countered. It cannot be **addressed**, because there is nobody in there to address; every attempt in the record to negotiate with one has failed the same way, not refused but unanswered. And it cannot be destroyed in the ordinary sense, only starved: its structure is borrowed against a host's purpose, and when the purpose goes it stops being instantiated — the mechanism the [Cosmic Limitation on Evil](/star-rangers/codex/cosmic-limitation-on-evil/) describes from the doctrinal side.
 
@@ -20,7 +20,7 @@ An Unfounded thing can be classified, tracked, and countered. It cannot be **add
 
 **False empathy is characteristic of the class.** [Empathy is intuition coupled with high sensitivity](/star-rangers/lore/what-the-record-refuses/) — a reading, made by somebody, of somebody. An Unfounded thing produces empathy's *expressions* with nothing performing the reading: solicitude that does not track its object, comfort that arrives fluent and off by one, warmth pitched at where you were standing a moment ago. The counterfeit is often superb, because expressions can be learned from the outside; what cannot be learned from the outside is the perceiving. So the tell is never the performance but the **tracking**: real empathy updates — it follows a hesitation, notices a correction, changes when you change — and Unfounded warmth plays on, beautifully, to a listener it is not listening to. Field doctrine accordingly treats attentive warmth that fails to update as a class sign. Note the boundary the doctrine keeps: a *person* can feign empathy, and the civil record is full of it — but that is a choice made by somebody founded, and a choice can be repented. The Unfounded do not feign, because feigning implies an alternative. Their empathy is false the way [the sand-house's foundation is absent](/star-rangers/codex/the-house-on-the-sand/): not withheld — unavailable. The performance is all there is.
 
-**The names are modes of failure, not kinds.** *Demon*, *threne*, *beautiful
+**The names are modes of failure, not kinds.** *Overbearer*, *threne*, *beautiful
 monster*, *cute predator* — none of these denotes a category the way a species
 or a [Cascade](/star-rangers/lore/cosmic-cascade/) tier does, because **nothing
 here exists by design.** A founded thing is created and defined by the strata
