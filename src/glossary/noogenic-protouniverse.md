@@ -26,6 +26,18 @@ It is not yet a fully governed universe. A protouniverse has not stabilized enou
 
 Note that the relation is free at both ends. **A parent universe may itself be primary, secondary, or derived**; seeding takes a mind capable of it, not a pedigree. And a matured noögenic universe is not classified by its parent's standing — [noögenic descent is a separate axis from primary/secondary/derived](/star-rangers/lore/universe-overlap-and-folding/) rather than a fourth entry on that list. This is the sharp difference from a **derived** universe, which is permanently subordinate and never graduates: subordination here is a phase of growth, not a standing condition.
 
+## Where the Energy Comes From
+
+**Nothing is taken from the parent but the start.** A seed carries structure, not mass, and the energy a new universe runs on is not shipped across with it. The record's account follows ordinary cosmology rather than departing from it, in three steps.
+
+**Energy is conserved locally, not globally.** Conservation of energy holds wherever the laws are the same from one moment to the next. An expanding universe is not the same from one moment to the next across its whole extent, so there is no global total that must stay fixed. The familiar case is the energy that drives expansion: its density holds steady while the volume grows, so the total grows with it, and no law is broken. Every universe the record has measured already does this.
+
+**A universe can cost nothing in total.** In the models the Science Corps works from, the positive energy of what a universe contains is balanced by the negative energy of its own gravity, so the whole can sum to zero. A universe that begins from a small, high-energy patch of vacuum inflates into its full size on that balance, and the inflation is paid for inside it.
+
+**The growth happens in the child's own spacetime.** A protouniverse inflates in a spacetime of its own, closed off from its parent's, so the parent's accounts record only the cost of transference: the seed, and whatever scaffold carried it. The one worked case ran on a lost vessel's own archival stores. Everything after that is the child's, and is paid for in the child.
+
+**The fence.** None of this is a power source. The energy of a new universe's expansion sits in a spacetime nobody in the parent can reach, so nothing in the parent can draw on it, and the record's refusal of [limitless energy](/star-rangers/lore/the-fusion-ceiling/) stands untouched. A universe may get a free lunch; nobody inside another universe can eat it.
+
 ## Formation
 
 **A protouniverse is at its most vulnerable while it is forming**, and the reason follows from what a [Noöseed](/star-rangers/glossary/nooseed/) is. Universes replicate by transmissible interior complexity, not by mass: what a seed carries into a new substrate is *structure* — self-models, layered intention, memory topology, the architecture [Inner World Depth](/star-rangers/glossary/inner-world-depth-iwd/) measures. Before that structure has settled into zones with physics of their own, it is the only organisation the young universe has. So a forming protouniverse is ordered the way an interior is ordered, and not yet the way a universe is: by **roles before law**. Named places with rules, persons holding offices, titles that do work because there is nothing else yet to do it — a court, not a code.
