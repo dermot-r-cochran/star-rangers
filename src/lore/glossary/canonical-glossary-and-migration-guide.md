@@ -49,7 +49,7 @@ The listing above is the spine, and it is *mostly* hierarchical — with two mat
 - **Levrils** are cosmic functionaries and super-technicians.
 - Levrils divide into two subclasses — **Higher Levrils** and **Dragons** — ranked by seniority. Both hold full Cascade standing.
 - **Dragons** are low-ranking Levrils, not monsters.
-- **Demons, Beautiful Monsters, and Threnes** are meta-dimensional beings ranked below Celestials, like Levrils, but they are **not** Levrils and hold **no Cascade standing** — see Class II under Meta-Dimensional Beings below.
+- **Overbearers, Beautiful Monsters, and Threnes** are meta-dimensional beings ranked below Celestials, like Levrils, but they are **not** Levrils and hold **no Cascade standing** — see Class II under Meta-Dimensional Beings below.
 
 ---
 
@@ -57,7 +57,7 @@ The listing above is the spine, and it is *mostly* hierarchical — with two mat
 
 1. Primary universes are created by **Worldwrights**.
 2. Secondary and tertiary derivative universes emerge through overlap/intersection between primary universes.
-3. Demons, monsters, shadow entities, and similar beings arise from overlap distortions. The named entity type **Demons** (see Class II under Meta-Dimensional Beings below) is a formalization of this rule's "demons," not a separate concept.
+3. Overbearers, monsters, shadow entities, and similar beings arise from overlap distortions. The named entity type **Overbearers** (see Class II under Meta-Dimensional Beings below) is a formalization of this rule's first term, not a separate concept; the rule called them *demons* until 2026-09-23.
 4. A universe seeded through noögenic transference begins as a **Noögenic Protouniverse** and remains under the jurisdiction of its parent universe's **Telearchs** — and the higher Cascade strata reachable through them — until it stabilizes an independent **Universal Authority** (formerly phrased "Concordant-equivalent governance").
 
 ---
@@ -206,10 +206,10 @@ Levril is a rank in the Cascade, not a single form. Two subclasses are recognize
 
 Ranked below Celestials, like Levrils, but holding **no Cascade standing** — see [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) for the full Class I/II/III framework.
 
-### Demons
+### Overbearers
 - **Layer:** Class II — Sapient Monster
 - **Definition:** Sapient meta-dimensional predators that feed through confrontation, intimidation, and forced submission rather than deception.
-- **Classification Rule:** Not a Levril. A formalization of the "demons" named in World Structure Rule 3, not a Cascade-ranked entity.
+- **Classification Rule:** Not a Levril. A formalization of the first term in World Structure Rule 3, not a Cascade-ranked entity. Filed as *Demons* until 2026-09-23 and renamed because the word brought a theology the record refuses (see the migration map); *demon* is now a devotional word only, as *angel* is.
 
 ### Beautiful Monsters
 - **Layer:** Class II — Sapient Monster
@@ -228,11 +228,11 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 - **Practice:** prospective rule; the word currently appears nowhere in the corpus, so there is no migration to run. Devotional traditions keep their own vocabulary and are not obliged to adopt the Archive's — this rule governs the Archive's voice, not theirs. *Archangel* falls under this rule unchanged (settled 2026-09-18): it is the same word with a rank on it, the record has no instrument for rank inside another tradition's hierarchy, and it files nothing under the name and marks the absence rather than mapping the rank onto a Levril's.
 
 ### Unclean spirit (register rule, settled 2026-09-18)
-- **Register:** the New Testament's *unclean spirit* is not an Archive word and appears only in the Codex and in overlay layers (currently `church-space`), as *angel* does. *Demon* is different: the Archive already uses it in its own voice for one Class II mode (above), and that use stands. This entry is a rule about the scripture's two words, not an entry about a being.
-- **What the tradition means by them:** on the church-space tradition's own reading, its scripture's *demon* and *unclean spirit* are either figurative — which is the tradition's reading to make, and the record does not adjudicate it — or literal, and taken literally they refer to the [Unfounded](/star-rangers/glossary/unfounded/): the class, not the one mode the Archive happens to call *demon*, since the scripture's word does not say which way the counterfeit runs.
+- **Register:** the New Testament's *unclean spirit* is not an Archive word and appears only in the Codex and in overlay layers (currently `church-space`), as *angel* does. *Demon* now follows the same rule: the Archive used it in its own voice for one Class II mode until 2026-09-23, when that mode was renamed *Overbearers* (above). This entry is a rule about the scripture's two words, not an entry about a being.
+- **What the tradition means by them:** on the church-space tradition's own reading, its scripture's *demon* and *unclean spirit* are either figurative — which is the tradition's reading to make, and the record does not adjudicate it — or literal, and taken literally they refer to the [Unfounded](/star-rangers/glossary/unfounded/): the class, not the one mode the Archive calls *Overbearers*, since the scripture's word does not say which way the counterfeit runs.
 - **Where the literal reading fits the record.** Three findings line up. An Unfounded thing cannot be addressed, only countered by a clear question, a name and a refusal, and the gospel's pattern is a rebuke and a departure, never a negotiation — *Be quiet, and come out of him!* An Unfounded thing is not destroyed but starved, its structure borrowed against a host's purpose, and the spirit that *passes through waterless places seeking rest, and doesn't find it* and returns with seven others is the class as the record describes it: unfed without a host, recurring wherever a founded form can be counterfeited. And the class has no chief: *by the prince of the demons* is the accusers' phrase in the scripture, not the tradition's doctrine, and the answer it gets — *a kingdom divided against itself cannot stand* — is the record's own finding that the class has never been observed coordinating, put as a question.
 - **Where lore supersedes.** The adversary-in-chief. Mainstream tradition holds a single personal adversary; the record's position is [The Borrowed Silhouette](/star-rangers/codex/the-borrowed-silhouette/)'s, that the description cannot be satisfied, because such a being would have to be founded to command and Unfounded to be the adversary. The overlay yields on mechanism and keeps its promise, and the shape of the yielding is already on file in that paper's annotation: *You have proven that he cannot be filed. We were not asking you to file him.* The speaking spirits are the same yielding in small. The record's class sign is expression with nobody performing the reading, so a literal reading files *I know who you are* as counterfeit — the accurate shape, the absent membership — and reads the refusal to let them speak as the counter the field doctrine describes.
-- **Practice:** prospective for *unclean spirit*, which appears nowhere in Archive voice; no migration for *demon*, whose Class II use is unchanged. Devotional traditions keep their own vocabulary and are not obliged to adopt the Archive's.
+- **Practice:** prospective for *unclean spirit*, which appears nowhere in Archive voice; *demon* was migrated on 2026-09-23, when its Class II use became *Overbearers*. Devotional traditions keep their own vocabulary and are not obliged to adopt the Archive's.
 
 ---
 
@@ -482,7 +482,7 @@ The word **Etheric** was carrying three jobs at once — a causal layer, a set o
 ### Anomalous Echo Entity
 - **Layer:** Secondary/Tertiary Universe Artifact
 - **Definition:** A partially coherent entity formed when Echo Persistence interacts with overlap zones between universes.
-- **Role in System:** Explains emergence of ghost-like beings, shadow entities, and proto-demonic structures.
+- **Role in System:** Explains emergence of ghost-like beings, shadow entities, and proto-Unfounded structures.
 - **Key Property:** Not a true original mind, but a distortion-amplified fragment.
 - **Related Terms:** Overlap Zones, Secondary Universes
 
@@ -564,6 +564,7 @@ about a pronoun system of their own.
 | “Concordant-wide” / “the Concordant period” / “the Concordant” (civil or civilizational sense) | Concord-wide / the Concord period / the Concord | The compact and the era it names both follow the 2790 restyling. Reserve *Concordant* for the cosmological zone alone. |
 | “Concordant-equivalent governance” (protouniverse) | independent Universal Authority | A protouniverse leaves parental Telearch jurisdiction when it stabilizes its own Universal Authority. |
 | “Dragon-class monster” | Dragon (low-ranking Levril) | Reclassify from monster taxonomy to Levril subclass. |
+| “Demon(s)” (the Class II mode, Archive voice) | Overbearer(s) | Renamed 2026-09-23. A pure rename with **no change of meaning**: the confrontational predators that feed through intimidation and forced submission. The old word brought a devil-in-chief, a moral cosmology and a kind of being, all of which the record refuses. *Demon* stays in devotional voice, where it means the whole Unfounded class; quote it there as written. |
 | “Meta-dragon(s)” | Meta-Levril(s) | Renamed 2026-09-23. A pure rename with **no change of meaning**: the Concordant-span property, independent of rank. The old word gave *dragon* a meaning that cut across the rank it names. |
 | “dragon(s)” for every Levril, or “dragons and kin” (Archive voice) | Levril(s); *Dragon* for the lower rank only | Ruled 2026-09-23. Witness speech that calls a Levril a dragon is quoted as written. |
 | “Beautiful monster” (unqualified) | Beautiful Monster (named Class II type) *or* the collective nickname for Court-Fae/Gilded Saints/Cute Predators (see Predatory Entities) | Ambiguous on its own; qualify with specific-type or collective-nickname context on first use. |
