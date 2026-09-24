@@ -35,6 +35,24 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The ladder in other tongues — raised 24 September 2026, RULED same day
+
+**Ruled 24 September 2026, *Yes, agreed*:** all four recommendations stand as drafted.
+
+Drafted from his direction *gaelic titles for star ranger ranks and alien
+language title equivalents for each rank* as `src/lore/the-ladder-in-other-tongues.md`
+(`intake-2026-09-24.md`). Four choices are open, and each has a recommendation
+already drafted:
+
+- Irish captaincies: *Captaen* (drafted) or *Ceannaire*.
+- Irish Chief: *Ardoifigeach* (drafted), *Saoi*, or the learned-grades reading
+  with *ollamh*.
+- The Union's other five languages: leave unfiled (drafted) or add Scottish
+  Gaelic.
+- Veyr and Serephine: leave as absences (drafted), or give each a channel first.
+
+---
+
 ## The revelation ledger as an evaluation dataset — raised 22 September 2026, DEFERRED same day
 
 Not a story question. Raised in chat while the applied statistics course's
