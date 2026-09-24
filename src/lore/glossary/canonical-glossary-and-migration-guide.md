@@ -87,7 +87,7 @@ The listing above is the spine, and it is *mostly* hierarchical — with two mat
 - **Notes:** This is why *Concordant* now has exactly one live sense. The compact is the **Concord**; its era and civilization take the same word (**Concord-wide**, **the Concord period**); the zone above keeps **Concordant**. Do not write "Solar System Concordant" for present-day usage.
 - **Dating rule:** Pre-2790 documents carry the founding name correctly and are quoted as written, not corrected — the Star Rangers' 2723 charter preamble ("the limits of Solar System Concordant coherence") is the standing example. Post-2790 usage of the old name is an error.
 
-### Maor Réalta and the Irish rank styles (proposed 2026-09-24)
+### Maor Réalta and the Irish rank styles (settled 2026-09-24)
 - **Layer:** Institution (In-Universe, Celtic Union of Planets — a rendering of Star Ranger usage)
 - **Definition:** **Maor Réalta**, plural **Maoir Réalta** — *warden of the stars* — is the Celtic Union's Irish rendering of *Star Ranger*, and the corps is **na Maoir Réalta**. The full ladder in Irish (*Nóibhíseach, Dalta, Leas-Oifigeach, Oifigeach Allamuigh, Oifigeach Sinsearach, Príomhoifigeach, Ceann Rannóige, Ardoifigeach, Maor Stáisiúin, Maor Loinge, Captaen Líne, Captaen Réalta, Ardchaptaen, Comhairle na nArdchaptaen, An Triúracht, Triúracht Allamuigh*) and Chief's duty titles are on [The Ladder in Other Tongues](/star-rangers/lore/the-ladder-in-other-tongues/).
 - **The name:** Irish *maor* covers both *warden* and *ranger*, which is why one word carries the corps and both warden ranks.

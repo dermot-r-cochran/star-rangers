@@ -35,7 +35,9 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## The ladder in other tongues — raised 24 September 2026
+## The ladder in other tongues — raised 24 September 2026, RULED same day
+
+**Ruled 24 September 2026, *Yes, agreed*:** all four recommendations stand as drafted.
 
 Drafted from his direction *gaelic titles for star ranger ranks and alien
 language title equivalents for each rank* as `src/lore/the-ladder-in-other-tongues.md`
