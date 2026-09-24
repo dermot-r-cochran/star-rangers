@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Obligers"
+irish: "Na Comaoineoirí"
+irish_gloss: "those who lay a favour on you, from cuir comaoin ar, to put someone under an obligation"
 revealed_by: s01e02c01
 id: obligers
 category: "Entities"

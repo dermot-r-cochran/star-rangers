@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Arilonian"
+irish: "Arilónach"
+irish_gloss: "of Arilon, taken into Irish spelling as the Union takes any place-name"
 id: arilonian
 category: "Culture"
 short: "Of the traditions descended from the Arilon accounts — the broadest term for that stream of devotional belief, wider than any organisation and narrower than devotion in general."

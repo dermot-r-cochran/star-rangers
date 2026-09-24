@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Levril"
+irish: "Levril"
+irish_gloss: "borrowed, plural Levrilí; a Dragon is a dragan, plural dragain"
 revealed_by: s07e01c01
 id: levril
 category: "Cosmic Cascade"

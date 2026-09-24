@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Archecluster"
+irish: "Braisle Seanchló"
+irish_gloss: "a cluster of archetypes; an Archewright is an Ardsaor, a master wright"
 id: archecluster
 category: "Cosmic Cascade"
 short: "Every universe tracing to one Archewright, sharing that Archewright's archetypes and possibility space. A fact of authorship, not a chain of command."

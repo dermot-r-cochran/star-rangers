@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Cosmic Cascade"
+irish: "An tEas Cosmach"
+irish_gloss: "the cosmic waterfall"
 id: cosmic-cascade
 category: "Cosmology"
 short: "The fixed hierarchy of causal authority in the Grand Ensemble Multiverse, from Hyperomnium down to Champions/Heroes. Ontological, not political."

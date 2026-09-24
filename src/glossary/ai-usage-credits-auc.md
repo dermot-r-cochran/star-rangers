@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Allocation Units of Cognition (AUC)"
+irish: "Aonaid Leithdháilte Cognaíochta (ALC)"
+irish_gloss: "units of allocation of cognition"
 id: ai-usage-credits-auc
 category: "Economics"
 short: "The canonical allocation unit of intelligent computation capacity, issued in relation to novelty contribution."

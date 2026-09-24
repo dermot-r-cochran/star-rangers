@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Mediarch"
+irish: "Mediarch"
+irish_gloss: "borrowed, as the English borrows it"
 id: mediarch
 category: "Cosmic Cascade"
 short: "The Cascade tier that encapsulates and governs physical laws and forces — Gravity, Electromagnetics, Nature. A Mediarch is a proxy Telearch, scoped to one force-domain inside a universe. Commonly also called Exarchs. Legacy names: Dynarch; earlier, higher celestials."

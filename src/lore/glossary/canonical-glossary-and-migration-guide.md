@@ -87,6 +87,12 @@ The listing above is the spine, and it is *mostly* hierarchical — with two mat
 - **Notes:** This is why *Concordant* now has exactly one live sense. The compact is the **Concord**; its era and civilization take the same word (**Concord-wide**, **the Concord period**); the zone above keeps **Concordant**. Do not write "Solar System Concordant" for present-day usage.
 - **Dating rule:** Pre-2790 documents carry the founding name correctly and are quoted as written, not corrected — the Star Rangers' 2723 charter preamble ("the limits of Solar System Concordant coherence") is the standing example. Post-2790 usage of the old name is an error.
 
+### The Union's Irish (settled 2026-09-24)
+- **Layer:** Language (In-Universe, Celtic Union of Planets)
+- **Definition:** The Irish of the Celtic Union in the 29th century. It descends from the Irish the Currach Fleet carried, three centuries on, and is its own language. It is not the Irish of the arks' century, and it is not the old language. Every glossary entry carries the Union's term for it, with a literal sense, on one line under the title.
+- **Rules:** Translate where the English coined, and borrow where the English borrowed. A people's own name is kept. Where the Union already had a word (*Na Daoine Maithe*), it is the Union's word that is used. *Ilchruinne* and *fian* are never used.
+- **Notes:** A register, not multi-language support: there are no translated pages. The rule against conlangs governs non-human languages only.
+
 ### Maor Réalta and the Irish rank styles (settled 2026-09-24)
 - **Layer:** Institution (In-Universe, Celtic Union of Planets — a rendering of Star Ranger usage)
 - **Definition:** **Maor Réalta**, plural **Maoir Réalta** — *warden of the stars* — is the Celtic Union's Irish rendering of *Star Ranger*, and the corps is **na Maoir Réalta**. The full ladder in Irish (*Nóibhíseach, Dalta, Leas-Oifigeach, Oifigeach Allamuigh, Oifigeach Sinsearach, Príomhoifigeach, Ceann Rannóige, Ardoifigeach, Maor Stáisiúin, Maor Loinge, Captaen Líne, Captaen Réalta, Ardchaptaen, Comhairle na nArdchaptaen, An Triúracht, Triúracht Allamuigh*) and Chief's duty titles are on [The Ladder in Other Tongues](/star-rangers/lore/the-ladder-in-other-tongues/).

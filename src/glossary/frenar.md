@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Frenar"
+irish: "Frenar"
+irish_gloss: "borrowed, and retired in Irish as in English"
 id: frenar
 category: "Cosmic Cascade"
 short: "Legacy designation synonymous with Celestials in current canon."

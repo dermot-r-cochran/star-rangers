@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Unfounded"
+irish: "Na Neamhbhunaithe"
+irish_gloss: "the unfounded, those without a foundation"
 id: unfounded
 category: "Cosmology"
 short: "The Survey Archive's collective term for the predatory pattern-entities — overbearers, threnes, beautiful monsters, cute predators, recorded at the Conceptual layer and underwritten by no origin condition. The class has no ranks, no coordination and no chief — it could not have one."

@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Inner World Depth (IWD)"
+irish: "Doimhneacht an Domhain Istigh (DDI)"
+irish_gloss: "the depth of the world within"
 id: inner-world-depth-iwd
 category: "Noögenics"
 short: "A measure of layered interior mind complexity relevant to noögenic seed viability."

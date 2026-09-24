@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Enrolled Text"
+irish: "An Téacs Rollaithe"
+irish_gloss: "the enrolled text, the text on the roll"
 id: enrolled-text
 category: "Records"
 short: "The way settled space keeps a constitutional instrument: a founding text enrolled once and never edited in place, plus the complete ordered record of every amendment against it. The current wording is a derivation anyone may re-perform, not the authority."

@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Cyborg"
+irish: "Cibearorgánach"
+irish_gloss: "a cyber-organic one"
 id: cyborg
 category: "Society"
 short: "A living being — human or animal — carrying physical cybernetic modification to the body itself, distinct from a Smart Pet's purely cognitive AI subsystem. Heavily regulated since the Imperium's military cyborg programs; today one of the most tightly controlled categories of augmentation in the Concord."

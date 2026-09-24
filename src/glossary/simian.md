@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Simian"
+irish: "Símiach"
+irish_gloss: "borrowed, stipulated in Irish as in English"
 id: simian
 category: "Species"
 short: "The record's stipulated word for Earth's non-human primates — a subtraction natural language never managed on its own, since every older word either includes humanity or cuts too narrow."

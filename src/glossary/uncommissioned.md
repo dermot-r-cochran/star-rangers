@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Uncommissioned"
+irish: "Neamhchoimisiúnaithe"
+irish_gloss: "uncommissioned"
 id: uncommissioned
 category: "Society"
 short: "The certification status of a mind standing outside the commissioning gate — never presented, presented and refused, or built where no gate was applied. A statement about paperwork that never existed, not about the mind's character: the offence, where there is one, is the maker's."

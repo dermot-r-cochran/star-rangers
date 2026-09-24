@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Noögenic Protouniverse"
+irish: "Réamhchruinne Nóigineach"
+irish_gloss: "a noögenic fore-universe"
 id: noogenic-protouniverse
 category: "Noögenics"
 short: "The nascent universe-state immediately following noöseed transference. Remains under the jurisdiction of the Telearchs — and the higher Cascade strata reachable through them — of its parent universe until it stabilizes into independent governance."

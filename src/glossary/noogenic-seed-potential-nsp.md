@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Noögenic Seed Potential (NSP)"
+irish: "Acmhainneacht an tSíolaithe Nóiginigh (ASN)"
+irish_gloss: "the potential for noögenic seeding"
 id: noogenic-seed-potential-nsp
 category: "Noögenics"
 short: "The probability that a mind can compress into a stable noöseed while preserving generative structure."

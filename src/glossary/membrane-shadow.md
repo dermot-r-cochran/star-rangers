@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Membrane Shadow"
+irish: "Scáth Seicne"
+irish_gloss: "a shadow of the membrane"
 id: membrane-shadow
 category: "Cosmology"
 short: "A dark, person- or creature-shaped optical anomaly at a boundary zone, produced by gravitational bleed from a coherent mass on the far side of a narrowed Interval — not a being that has crossed over, but the imprint of one that hasn't."

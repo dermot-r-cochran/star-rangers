@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Etheric"
+irish: "Éitreach"
+irish_gloss: "etheric, of the éitear"
 revealed_by: s01e02c02
 id: etheric
 category: "Cosmology"

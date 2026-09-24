@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Plural Minds"
+irish: "Aigní Iolracha"
+irish_gloss: "plural minds"
 id: plural-minds
 category: "Society"
 short: "A single body hosting more than one person — headmates or tulpas — recognised as an ordinary, lawful arrangement rather than a disorder or a supernatural event."

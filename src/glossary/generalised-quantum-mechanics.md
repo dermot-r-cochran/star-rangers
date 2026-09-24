@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Generalised Quantum Mechanics"
+irish: "Meicnic Chandamach Ghinearálaithe"
+irish_gloss: "generalised quantum mechanics"
 id: generalised-quantum-mechanics
 category: "Physics"
 short: "The single lawful theory behind the cosmos's probability, coherence and information physics: standard quantum mechanics preserved exactly as its kernel, plus Etheric extension terms that add couplings — never permissions."

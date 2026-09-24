@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Conceptual Conservation"
+irish: "Caomhnú Coincheapúil"
+irish_gloss: "conceptual conservation"
 id: conceptual-conservation
 category: "Cosmology"
 short: "The principle that no coherent mind is lost: identity structures that once cohered remain admissible concept states at the Conceptual layer, retained without being continued."

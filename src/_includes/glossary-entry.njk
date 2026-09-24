@@ -12,6 +12,9 @@ commentsCategory: lore
       </ol>
     </nav>
     <h1 class="glossary-entry__term">{{ title }}</h1>
+    {% if irish %}
+    <p class="glossary-entry__irish">In the Union's Irish: <span lang="ga">{{ irish }}</span>{% if irish_gloss %} <span class="glossary-entry__irish-gloss">— {{ irish_gloss }}</span>{% endif %}</p>
+    {% endif %}
     {% if category %}
     <p class="glossary-entry__category">
       <span class="character-badge">{{ category }}</span>

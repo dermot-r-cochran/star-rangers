@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Krenyi"
+irish: "Krenyi"
+irish_gloss: "the people's name, kept; Quiet-Built is na Ciúinthógtha"
 revealed_by: s01e01c01
 id: krenyi
 category: "Species"

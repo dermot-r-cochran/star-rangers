@@ -1785,6 +1785,14 @@ a:focus {
   margin: var(--spacing-sm) 0;
 }
 .glossary-entry__category { margin-bottom: var(--spacing-sm); }
+.glossary-entry__irish {
+  color: var(--color-text-muted);
+  margin: 0 0 var(--spacing-sm);
+}
+.glossary-entry__irish [lang="ga"] {
+  color: var(--color-text);
+  font-style: italic;
+}
 .glossary-entry__body {
   max-width: var(--max-prose);
 }

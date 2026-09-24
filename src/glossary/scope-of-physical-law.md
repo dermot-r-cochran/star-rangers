@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Scope of Physical Law"
+irish: "Raon an Dlí Fhisiciúil"
+irish_gloss: "the range of physical law"
 id: scope-of-physical-law
 category: "Physics"
 short: "Every physical fact is scoped to one of six levels — mediarch realm, Concordant, membrane, archecluster, formcluster, or mathematical regime — and is well-formed only at its level. Nothing physical is Ensemble-wide."

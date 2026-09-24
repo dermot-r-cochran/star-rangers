@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Concordant Principal"
+irish: "Príomhaire Comhréire"
+irish_gloss: "principal of an accord; in common speech Ceann Comhcheoil, head of harmony, for Harmonarch"
 id: concordant-principal
 category: "Cosmology"
 short: "The governing mind of a single Concordant Zone — commonly called a Harmonarch: steward of the zone's rule-set, subordinate to the universe's Universal Authority."

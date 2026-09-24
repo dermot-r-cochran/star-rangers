@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Gilded Saints"
+irish: "Na Naoimh Óraithe"
+irish_gloss: "the gilded saints"
 revealed_by: s07e01c01
 id: gilded-saints
 category: "Entities"

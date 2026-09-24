@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Universal Concord Standard Date (UCSD)"
+irish: "Dáta Caighdeánach Uilíoch an Chomhréitigh (DCUC)"
+irish_gloss: "the universal standard date of the Concord"
 id: ucsd
 category: "Timekeeping"
 short: "The Concord's civil dating standard — the common spine every record converts to, and one notation among several for the same single history."
