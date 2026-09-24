@@ -157,6 +157,40 @@ Or a small forward-leaning observation that declines to resolve:
   it — true of plural minds, of Falkorian's refusal, of Elvira's classification.
 - **No exclamation marks**, effectively. The register does not raise its voice.
 
+## 11. The Union's Irish in Union mouths
+
+*This is a direction, not a finding from the corpus.* Dermot, 2026-09-24, verbatim:
+*local dialogue or POV in Celtic Union characters may use hints of 279th century
+Celtic Union gaelic*. *279th* is read as *29th*, the century of the Union's Irish
+ruled the same day (`intake-2026-09-24.md`).
+
+- **Who.** Characters of the Celtic Union, in their own dialogue and in their own
+  POV blocks. Documents a Union hand wrote count too. The Archive's narration does
+  not use it, and neither do characters from elsewhere. The one exception is an
+  off-worlder repeating a word they have learned, and the prose shows that it was
+  learned.
+- **How much.** Hints: a word or a short phrase at a time, such as a greeting, an
+  endearment, a name for a thing, or a Union institution. It never becomes a
+  sentence the reader must translate to follow the scene. The context teaches the
+  word, or the English beside it carries the meaning. There are no footnotes, no
+  bracketed translations, and nothing is italicised as foreign on the Union's own
+  ground.
+- **Which Irish.** The Union's own 29th-century Irish, held to neither today's
+  standard nor the old forms. Where the glossary gives a term's Union form, a
+  Union speaker uses that form: a Union Ranger may call the corps *na Maoir
+  Réalta*, and a Union child says *na Daoine Maithe*. *Ilchruinne* and *fian*
+  never appear.
+- **Where it shows.** It shows most at home and under strain, and least when the
+  character is working with off-worlders. It is the sound of a person at home, not
+  a costume. It is used sparingly, because a word that comes back on every page
+  stops carrying anything.
+- **What it is never.** It is never stage-Irish. There is no comic accent, no
+  phonetic spelling of English, and no *begorrah* register. That would be the
+  stereotyped shorthand §10 already refuses. The hint marks a living language
+  spoken by people for whom it is ordinary.
+- **Tier.** It is allowed at every rung. On the children's rung the context
+  glosses the word in the same breath.
+
 ---
 
 ## For a drafter, in order of importance
