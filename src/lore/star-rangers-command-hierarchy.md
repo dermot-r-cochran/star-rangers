@@ -190,6 +190,7 @@ The paradigm case is a hostage extraction aboard a deep-space liner — squarely
 - [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/)
 - [The Star Rangers Science Corps](/star-rangers/lore/star-rangers-science-corps/)
 - [The Star Ranger Liaison Corps](/star-rangers/lore/planetary-liaisons-and-recruiters/)
+- [The Ladder in Other Tongues](/star-rangers/lore/the-ladder-in-other-tongues/) — the ranks in the Celtic Union's Irish, and in translation by six peoples
 - [Military Space Command](/star-rangers/lore/military-space-command/)
 - [Karla Wender](/star-rangers/characters/karla-wender/)
 - [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)
