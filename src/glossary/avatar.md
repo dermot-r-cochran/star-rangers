@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Avatar"
+irish: "Ionchollú"
+irish_gloss: "an incarnation, literally an in-fleshing"
 id: avatar
 category: "Cosmic Cascade"
 short: "An incarnation of a timeless stratum as a person operating at Celestial level or below — like its source, without being the same person as its source, and without its full authority, power, or knowledge."

@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Virtual Reality"
+irish: "Réaltacht Fhíorúil"
+irish_gloss: "virtual reality"
 id: virtual-reality
 category: "Practices"
 short: "A technology in retreat as mass entertainment, on the reasoning that a manufactured experience is exactly the kind of low-novelty artifact the Ledger audits harshly — and in narrow, valued use as the only practical way to perceive a real structure no baseline sense can reach, from a fold scaffold to an alien signal."

@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Boundary Zone"
+irish: "Crios Teorann"
+irish_gloss: "a belt of the boundary"
 revealed_by: s01e01c01
 id: boundary-zone
 category: "Cosmology"

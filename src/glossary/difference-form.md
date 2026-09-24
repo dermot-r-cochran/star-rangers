@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Difference Form"
+irish: "Foirm na Difríochta"
+irish_gloss: "the form of the difference"
 id: difference-form
 category: "Records"
 short: "The required drafting form for a constitutional amendment: state only what changes — strike these words, insert these — against a named, dated state of the text, with date, sponsors and reasons on its face. A restatement can smuggle; a difference cannot."

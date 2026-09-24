@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Conseleme"
+irish: "Conseleme"
+irish_gloss: "borrowed, as the English borrows it; the devotional name is An Talamh Síoraí, the Everlasting Ground"
 id: conseleme
 category: "Cosmic Cascade"
 short: "The third tier of the Cosmic Cascade; a non-anthropomorphic origin condition completing the Upper Structure. Devotional name: the Everlasting Ground. Church-space name: the Spirit of Wisdom."

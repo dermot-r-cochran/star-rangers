@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Compact Dimensions"
+irish: "Toisí Dlútha"
+irish_gloss: "close-packed dimensions"
 id: compact-dimensions
 category: "Cosmology"
 short: "The spatial dimensions of a universe that are too tightly wound to be traversed or observed at Material scale. Our home universe has seven, alongside three extended dimensions and one of time."

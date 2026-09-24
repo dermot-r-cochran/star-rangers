@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Worldwright"
+irish: "Saor Domhan"
+irish_gloss: "a wright of worlds"
 id: worldwright
 category: "Cosmic Cascade"
 short: "The Cascade tier that creates primary universes, including the Concordant Zones within them. Worldwright authority exists only in primary universes."

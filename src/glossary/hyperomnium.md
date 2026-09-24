@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Hyperomnium"
+irish: "Hyperomnium"
+irish_gloss: "borrowed, as the English borrows it"
 id: hyperomnium
 category: "Cosmic Cascade"
 short: "The highest fixed tier in the Cosmic Cascade; non-anthropomorphic origin constraint."

@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Champions / Heroes (Heros)"
+irish: "Curaidh / Laochra"
+irish_gloss: "champions / heroes, the two old words for the one who is chosen to act"
 id: champions-heroes
 category: "Cosmic Cascade"
 short: "The lowest named tier of the Cascade. Sentient material beings — organic or artificial — chosen by Levrils for their constraint literacy and causal relevance."

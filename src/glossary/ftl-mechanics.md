@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "FTL Mechanics"
+irish: "Meicnic NTS"
+irish_gloss: "the mechanics of níos tapúla ná solas, faster than light"
 id: ftl-mechanics
 category: "Physics"
 short: "Faster-than-light transit has exactly two lawful channels: Quantum Space Harmonic Wave and Higher-Dimensional Folding. No third method has ever been demonstrated."

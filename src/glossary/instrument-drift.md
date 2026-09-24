@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Instrument Drift"
+irish: "Síobadh Ionstraimí"
+irish_gloss: "the drifting of instruments, as snow drifts"
 revealed_by: s01e01c01
 id: instrument-drift
 category: "Physical Effects"

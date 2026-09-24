@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Photographic Beings"
+irish: "Neacha Grianghrafacha"
+irish_gloss: "sun-drawn beings; a grianghraf, a photograph, is literally a sun-picture"
 id: photographic-beings
 category: "Cosmology"
 short: "A bright, person- or creature-shaped optical anomaly at a boundary zone — the Membrane Shadow's converging case, where the strain between two membranes gathers this side's ambient light into the far side's outline instead of bending it away. Made of borrowed light, never of a body; nothing crosses."

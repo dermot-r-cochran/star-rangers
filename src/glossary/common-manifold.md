@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "The Common Manifold"
+irish: "An tIlfhillteán Coiteann"
+irish_gloss: "the common many-fold, a coinage"
 id: common-manifold
 category: "Cosmology"
 short: "The higher-order spacelike and timelike structure beyond any universe's own dimensional floor — the one piece of architecture every universe the record has ever reached demonstrably shares. Survey Corps calls it the post-11 manifold."

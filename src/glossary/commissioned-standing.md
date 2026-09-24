@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Commissioned Standing"
+irish: "Seasamh Coimisiúnaithe"
+irish_gloss: "commissioned standing"
 id: commissioned-standing
 category: "Society"
 short: "The civil status a system commissioned as a mind acquires at the gate: not personal property, not saleable, not scrappable. Withdrawal from service exists, for cause and through process; disposal does not."

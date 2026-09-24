@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Smart Pet"
+irish: "Peata Cliste"
+irish_gloss: "a clever pet"
 revealed_by: s02e05c01
 id: smart-pet
 category: "Species"

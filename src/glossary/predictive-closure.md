@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Predictive Closure"
+irish: "Dúnadh Tuarthach"
+irish_gloss: "a foretold closing"
 id: predictive-closure
 category: "Cosmology"
 short: "A post-horizon regime in which macroscale outcomes converge into narrow forecast bands and durable surprise approaches zero."

@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Universe Fertility Index (UFI)"
+irish: "Innéacs Torthúlachta Cruinne (ITC)"
+irish_gloss: "index of a universe's fertility"
 id: universe-fertility-index-ufi
 category: "Noögenics"
 short: "A universe-level measure of how effectively its civilizations produce viable seed minds."

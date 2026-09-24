@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "The Told"
+irish: "Na hInste"
+irish_gloss: "the told ones; translated, as the English translates it"
 revealed_by: s11e01c02
 id: the-told
 category: "Species"

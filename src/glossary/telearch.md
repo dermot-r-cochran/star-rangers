@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Telearch"
+irish: "Telearch"
+irish_gloss: "borrowed, as the English borrows it"
 revealed_by: s07e01c03
 id: telearch
 category: "Cosmic Cascade"

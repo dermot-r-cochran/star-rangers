@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Concordant"
+irish: "Comhréir"
+irish_gloss: "accord, things agreeing in proportion; plural Comhréireanna"
 revealed_by: s01e01c02
 id: concordant
 category: "Cosmology"

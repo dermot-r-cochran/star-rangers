@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Caomhari"
+irish: "Na Daoine Maithe"
+irish_gloss: "the Good People, the Union's own name since its First Landing; the record's Caomhari is built from the Irish caomh, gentle"
 id: caomhari
 category: "Cosmology"
 short: "The official record's name for the sapient beings native to Tír Tairngire, who cross the Harmonic Membrane at a Conjunction window: Class II, and not predatory. The Celtic Union calls them the Good People; off-world speech calls them elves."

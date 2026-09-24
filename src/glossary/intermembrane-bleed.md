@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Intermembrane Bleed"
+irish: "Úscadh Idirsheicne"
+irish_gloss: "seepage between membranes"
 id: intermembrane-bleed
 category: "Cosmology"
 short: "The Survey Corps term for measurable Etheric-layer intrusion between adjacent Concordant membranes at a boundary zone, ranging from faint Membrane Resonance to a full Type III bleed event."

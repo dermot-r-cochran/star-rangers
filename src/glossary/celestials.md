@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Celestials"
+irish: "Na Neamhaithe"
+irish_gloss: "the heavenly ones"
 id: celestials
 category: "Cosmic Cascade"
 short: "Operational enforcement tier below the Telearchs and Mediarchs; Frenar is a legacy synonym for this tier."

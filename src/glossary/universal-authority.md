@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Universal Authority"
+irish: "An tÚdarás Uilíoch"
+irish_gloss: "the universal authority"
 id: universal-authority
 category: "Cosmology"
 short: "The native governance body of a universe as a whole: the Council of Harmonarchs plus the universe's founding seed mind, or a lead Harmonarch where there is none. Formerly recorded as 'Concordant' in the governance sense."

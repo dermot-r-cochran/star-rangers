@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Slipwave"
+irish: "Slipwave"
+irish_gloss: "a band's own name, kept"
 id: slipwave
 category: "Culture"
 short: "A three-person spacer-folk band from Eden Space Habitat's civilian arts circuit, active before its vocalist, Tissadelle Shepherd, enlisted as a Star Rangers cadet. Best known for the recordings later adopted informally as the Star Rangers Anthem and for 'Ballad of the Stars.'"

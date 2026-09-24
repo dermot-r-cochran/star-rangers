@@ -77,6 +77,17 @@ function checkAgainstSchema(data, schema) {
     }
   }
 
+  // A glossary entry's `irish_gloss` explains its `irish` term, so one
+  // without the other would render a literal sense of nothing.
+  if (!isBlank(data.irish_gloss) && isBlank(data.irish)) {
+    problems.push(`"irish_gloss" is set but "irish" is not - the gloss explains a term that is missing`);
+  }
+  for (const field of ["irish", "irish_gloss"]) {
+    if (!isBlank(data[field]) && typeof data[field] !== "string") {
+      problems.push(`field "${field}" must be a string, got ${JSON.stringify(data[field])}`);
+    }
+  }
+
   for (const field of schema.numeric || []) {
     if (!isBlank(data[field]) && !Number.isFinite(Number(data[field]))) {
       problems.push(`field "${field}" must be a number, got ${JSON.stringify(data[field])}`);

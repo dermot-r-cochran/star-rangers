@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "The Interval"
+irish: "An tEatramh"
+irish_gloss: "the interval"
 revealed_by: s01e01c03
 id: interval
 category: "Cosmology"

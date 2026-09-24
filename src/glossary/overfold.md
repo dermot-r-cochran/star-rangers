@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Overfold"
+irish: "An Forfhilleadh"
+irish_gloss: "the over-fold"
 revealed_by: s01e00c01
 id: overfold
 category: "Cosmology"

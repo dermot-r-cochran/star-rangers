@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Luminescent Ethereal Beings"
+irish: "Neacha Lonracha Aerga"
+irish_gloss: "luminous airy beings"
 id: luminescent-ethereal-beings
 category: "Cosmology"
 short: "The Caomhari (the Good People) as they present at a Conjunction window — Class II crossers of the Harmonic Membrane, luminous by their own envelope's coupling of sound and light for as long as its templates hold on this side, and by nothing else. The Etheric-channel complement of the Photographic Being, which is an image and crosses nothing."

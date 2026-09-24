@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Higher-Dimensional Folding"
+irish: "Filleadh na nArdtoisí"
+irish_gloss: "the folding of the higher dimensions"
 id: higher-dimensional-folding
 category: "Physics"
 short: "One of two canonical FTL channels: the long-range one — a slow, preparation-heavy higher-dimensional drift that briefly folds distant regions into adjacency so a vessel can cross."

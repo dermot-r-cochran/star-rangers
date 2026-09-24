@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Constraint Literacy"
+irish: "Litearthacht Srianta"
+irish_gloss: "literacy in constraints; srian is also a bridle"
 id: constraint-literacy
 category: "Practices"
 short: "The ability to read Etheric structures as they express through the physical world, and to work with rather than against them. Not magic."

@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Kieme"
+irish: "Kieme"
+irish_gloss: "borrowed, as the English borrows it; the devotional name is An Bunús Ciúin, the Silent Origin"
 id: kieme
 category: "Cosmic Cascade"
 short: "The second tier of the Cosmic Cascade; a non-anthropomorphic origin condition that sets nonlocal constraints all downstream tiers must satisfy. Devotional name: the Silent Origin. Church-space name: the First Word. Title: the Undivided. Legacy name: Holy Triumvirate."

@@ -1,6 +1,8 @@
 ---
 layout: glossary-entry.njk
 title: "Duty Season"
+irish: "Séasúr Dualgais"
+irish_gloss: "a season of duty"
 id: duty-season
 category: "Society"
 short: "The Star Rangers' career clock: one UCSD year of postings, certifications and boards, called simply 'a season' in service speech — not to be confused with the calendar seasons a timestamp carries."
