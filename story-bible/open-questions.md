@@ -2397,6 +2397,4 @@ watchers). Four choices put:
 
 **Ruled the same day, verbatim *Approved, all recommendations as
 drafted*: 1(a), 2(a), 3(a), 4(a). PR #867 merged on it.** A title card
-remains his to ask for. Noticed and not changed: `two-in-the-one-currach.md` files the river abbey
-on Tír na nÓg while `boundary-zones.md` places the Marsh Causeway within the
-Solar System; the new entry names no planet.
+remains his to ask for. ~~Noticed and not changed: `two-in-the-one-currach.md` files the river abbey on Tír na nÓg~~ — **fixed the same day at his direction**: the `institution` field now says *on the Boyne, near Dún Rí* and names no planet, since the Marsh Causeway that Aldera walks to from Dún Rí lies within the Solar System.
