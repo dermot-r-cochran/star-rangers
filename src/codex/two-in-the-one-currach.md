@@ -4,7 +4,7 @@ title: "Two in the One Currach"
 category: "Devotional Record"
 library: "Celtic Union Archives"
 author: "Brother Daire, keeper of the river abbey on the Boyne, near Dún Rí"
-institution: "Fellowship of Light — the contemplative chapter at the river abbey, Tír na nÓg"
+institution: "Fellowship of Light — the contemplative chapter at the river abbey on the Boyne, near Dún Rí"
 location: "Set down in the abbey's own book; copies carried outward along Aoife's devotion. The Ceridwen Archive on Aethelrock shelves one beside The Life of Saint Aoife, and the Survey Archive's reconciliation desk holds another in the binders, beside the ballad it answers."
 description: "Brother Daire's meditation on the circulating Baby Universe ballad, set down at the river abbey: the song sings one woman through the seam, and the abbey keeps vigil for two — the woman and the cat, a crew in one currach — declining, in Aoife's own discipline, to sing a single note past what is given."
 tags: [brother-daire, fellowship-of-light, saint-aoife, tissadelle-shepherd, tobble, dock-seven, threshold-station, noogenic, protouniverse, plural-mind, celtic-union, tir-na-nog, devotional, culture]
