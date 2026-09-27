@@ -2372,14 +2372,14 @@ siege below the questing layer*. **Still open:**
   `tier=contemplative`. Nothing is drafted.
 - What Tobble sees the counterfeit do, the tells, beyond wearing her face.
 
-## Aoife the slave girl, champion and prophet of a hidden Fellowship — `intake-2026-09-27.md` — OPEN
+## Aoife the slave girl, champion and prophet of a hidden Fellowship — `intake-2026-09-27.md` — RULED same day
 
 Dermot's direction, given as a session's task: *The legend of how a young
 slave girl Aoife becomes a levrilic champion and prophet, joining the secret
 Fellowship of Light.* Drafted as `src/codex/the-champion-at-the-thorn-well.md`,
 the river abbey's feast-night telling with the keeper's margin and an Archive
 note, plus a paragraph on the lore page naming it as a third telling beside
-the two readings. Six readings flagged **Confirm** (legend as a Codex telling;
+the two readings. Six readings flagged **Confirm**, all confirmed the same day (legend as a Codex telling;
 *slave* as the law's *cumal*, freed before the dowry; *champion* in the
 Cascade's sense with the Rangers' *unsettled* kept beside it; *prophet* in the
 Arilon sense; *secret* as hidden in her century; *joining* as entry among the
@@ -2395,6 +2395,8 @@ watchers). Four choices put:
   lean; (b) Codex only.
 - **The image** — (a) none, as drafted; (b) a designed title card, his to run.
 
-Noticed and not changed: `two-in-the-one-currach.md` files the river abbey
+**Ruled the same day, verbatim *Approved, all recommendations as
+drafted*: 1(a), 2(a), 3(a), 4(a). PR #867 merged on it.** A title card
+remains his to ask for. Noticed and not changed: `two-in-the-one-currach.md` files the river abbey
 on Tír na nÓg while `boundary-zones.md` places the Marsh Causeway within the
 Solar System; the new entry names no planet.
