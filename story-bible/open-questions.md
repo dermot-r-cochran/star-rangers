@@ -2425,3 +2425,18 @@ with the plant; his shift unplaced; the tags keep him to the thread's face;
 no portrait, his to prompt). **Ruled the same day, verbatim *Approved, all
 readings confirmed, merge when green*; PR #872 merged on it.** Still his: a
 portrait, when he wants one.
+
+## Noah comes back to the plant — `intake-2026-09-27.md`, fifth follow-up — RULED same day
+
+Dermot's direction, the same day: *Draft a Season 9 chapter where Noah comes
+back to the plant.* Drafted as *Without the Can* (S09E01C04), the eighth day:
+Noah's first POV, the can left inside as the whole of what he has to say,
+Varn reading the empty hands first and asking his name, the exchange
+unlogged, Smith noting the corridor step held and the desk step not moved.
+Five readings flagged **Confirm** (his mother waters the plant; a resident's
+POV in the Corps' thread; the desk step held for later; the exchange
+unlogged; the eighth day). **Ruled the same day, verbatim *Approved, add the
+sixth-day clause, merge when green*; PR #873 merged on it.** From the fit
+check, **open for the fifth chapter:** the season has no mystery of its own
+yet (Tikket and the ringing mount are the candidate, held since 14
+September); three chapters running end on Smith declining to speak.
