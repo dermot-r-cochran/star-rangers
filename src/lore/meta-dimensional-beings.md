@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Meta-Dimensional Beings: Classification"
 category: "Entities"
-tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, obligers, gilded-saints, overbearers, beautiful-monsters, threnes, cute-predators, higher-dimensional, boundary]
+tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, obligers, gilded-saints, overbearers, beautiful-monsters, threnes, ghost-witches, cute-predators, higher-dimensional, boundary]
 description: "A classification of all meta-dimensional beings in the Grand Ensemble Multiverse: sapient Cascade-ranked Levrils, sapient monsters, and non-sapient incursives."
 plain: "Some beings exist in more dimensions than the four we can reach, and they sometimes cross into our space at boundary zones. The record sorts them into three classes. Class I, the Levrils, are intelligent and follow the laws of the Cosmic Cascade, so they can be lawfully dealt with. Most Class II beings are intelligent but follow no such law, which makes them dangerous; a few are only visitors from next door. Class III beings are not intelligent at all — they act on instinct, like animals. Knowing the class tells you whether talking is even possible."
 image: "meta-dimensional-beings.jpg"
@@ -56,6 +56,7 @@ Meta-dimensional in origin, founded by nothing, and predatory. Their sapience ma
 - **Obligers** — Conceptual↔Etheric predators. Feed on ambiguity, desire loops, and social debt. Adaptive and strategic; the entity at the Marsh Causeway learned from each of Elvira's failed rituals and adjusted its feeding condition accordingly. Sapient enough to maintain a deception across multiple encounters.
 - **Gilded Saints** — Virtue-extractors. Feed on moral labour, sanctified suffering, and closure-prevention. Sapient enough to identify and sustain the specific emotional conditions they require. Present as worthy causes or sacred duties.
 - **Threnes** — Grief-extractors. Feed on unresolved mourning, prolonging loss rather than allowing it to resolve — a closure-prevention pattern keyed to grief rather than virtue.
+- **Ghost-Witches** — Guilt-extractors. Feed on unpaid guilt and the will to pay it: present as the returned dead with a grievance and a remedy, the figure every tradition keeps of the one who comes back knowing and can be settled for a price — and the price is amends that are never quite the right amends, so the debt renews. A closure-prevention pattern keyed to guilt, beside the Gilded Saint's virtue and the Threne's grief. The tell is the record's own: a [Membrane Shadow](/star-rangers/lore/membrane-shadows/), the real thing behind every ghost story, never speaks, and a ghost-witch does nothing but — fluently, and to a debtor it is not listening to. The founded dead do not come back to be paid; nobody is in there to be paid. The shape is worn, never a person: no body, no gender, no biography. Filed 2026-09-27.
 
 #### Founded neighbours
 

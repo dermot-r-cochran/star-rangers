@@ -245,6 +245,11 @@ Ranked below Celestials, like Levrils, but holding **no Cascade standing** — s
 - **Definition:** Sapient meta-dimensional predators that feed on unresolved grief and mourning, prolonging loss rather than allowing it to resolve.
 - **Classification Rule:** Not a Levril. Functionally parallel to Gilded Saints' closure-prevention, but keyed to grief rather than virtue.
 
+### Ghost-Witches
+- **Layer:** Class II — the Unfounded (sapient monster)
+- **Definition:** Sapient meta-dimensional predators that feed on unpaid guilt, presenting as the returned dead with a grievance and a remedy whose price is amends that never settle the debt.
+- **Classification Rule:** Not a Levril, and not a [Membrane Shadow](/star-rangers/lore/membrane-shadows/): the Shadow is physics and never speaks; the ghost-witch wears the ghost every tradition promised and speaks. Third member of the closure-prevention family (virtue, grief, guilt). *Witch* names a worn shape and never a person; no body, gender or biography is ever given. Filed 2026-09-27.
+
 ### Angel (register rule, settled 2026-08-08)
 - **Register:** the word **Angel** appears only in the Codex and in overlay layers (currently `church-space`) — never in Archive voice. Lore, glossary and timeline pages do not use it: the Archive holds no classification and no file under the name, and this entry is a rule about the word, not an entry about a being.
 - **What a source means by it:** within the limits the record already keeps, a source writing *angel* can be referring to exactly two real kinds of thing. **(1) A Levril** — a founded Cascade being with genuine standing and agency, most often encountered on duty at enforcement, maintenance, or boundary interfaces; the being answers, as the founded do. **(2) A messenger from another membrane** — and here the record's limits bind hard: matter crosses only through a transient gravity tunnel, so a messenger in the literal sense is a bodily crosser at one of the rare documented sites, and the dream-and-vision channel carries no dispatch at all — an angel *seen in a dream* is, on the record's terms, not a messenger, because nothing sent it.
