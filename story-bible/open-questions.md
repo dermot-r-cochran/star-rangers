@@ -2440,3 +2440,13 @@ sixth-day clause, merge when green*; PR #873 merged on it.** From the fit
 check, **open for the fifth chapter:** the season has no mystery of its own
 yet (Tikket and the ringing mount are the candidate, held since 14
 September); three chapters running end on Smith declining to speak.
+
+## Lev Saunders joins the Star Rangers when he is older — raised 27 September 2026
+
+`intake-2026-09-27.md`, last section, records the direction verbatim. It is
+planning ground: his page (eight years old in 2827) may not carry it until a
+chapter lands it. Open, put as choices there: which corps (unstated
+recommended), when it lands on the page (a cadet chapter around 2837
+recommended), and whether either animal travels with him (unruled).
+**Ruled the same evening, verbatim *Approved*:** all three as recommended.
+Nothing open until a thread reaches the year.
