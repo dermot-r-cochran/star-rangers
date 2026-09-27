@@ -5,6 +5,8 @@ id: nakagawa
 species: Human
 role: "Survey Lead, Fliade survey — Star Rangers Survey Corps"
 status: Active
+image: "nakagawa.jpg"
+image_alt: "Hesper Nakagawa, in middle age, standing still in a grey-green field coverall with a single pale tab at the collar on the floor of a frost-crusted cavern junction, hands empty at the sides, looking down at the stone; the relay unit stands upright on its base to the left, and two dark passage mouths open behind."
 aliases:
   - "the survey lead"
 tags: [human, survey-corps, fliade, below-the-roof, first-contact, cavern-biosphere, star-rangers]

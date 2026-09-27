@@ -1174,6 +1174,62 @@ the entry, per the standing pipeline rule.
   *(Revised 3 September 2026: the prompt asked for "terminals" and both variants of the first run were wall-to-wall monitors — the lettering ban cannot beat the scene, so the scene changed.)*
   *(Revised again the same evening, Dermot: "Barsik would not have literal filing cabinets" — the re-brief had swapped monitors for cabinets and binders, a twentieth-century office either way. The room is now a habitat office: matte panels, a hatch. A first re-brief kept "a low shelf of unmarked document cases" and the model drew ring binders on it — so the shelf went too. The only paper in frame is the stack he sits on, which the page itself supplies.)*
 
+**2026-09-27 — Noah at the plant, and the Fliade surface party.**
+
+Written at Dermot's *Yes please* to the offer of Noah's portrait first and
+Aravena and Hesper Nakagawa as a Fliade pair (his choice from the art survey
+of the same day). All three are portraits of people who do not exist, so the
+generator is the right tool under the Conventions. **1200 px long edge, 16:9
+landscape**, into `src/images/characters/`. The negatives travel inside each
+blockquote (30 August lesson). Every face is undescribed in the record, so
+whatever comes back is a proposal: two variants each, put to him as pairs.
+None of the three records a gender for Aravena or Nakagawa, and the prompts
+do not supply one. **All three filed the same day on his *Approved*:** Noah
+from run 1 variant 2, Aravena from run 2 variant 2, Nakagawa from run 1
+variant 1; the record is in `image-prompts.md` under the same date.
+
+- **`noah-adeyemi.jpg`** — Resident, Eden's fold-approach side, nineteen or
+  twenty, the only person on the ring seen to look at the hatch. The record
+  holds him in one act: crouched at the plant outside his own door with a
+  watering can that was full, looking up at the hatch as it opened. That is
+  the portrait — the moment before *You're the hatch*. Civilian, no uniform,
+  no tab; the plant is the only prop and the can is the only tell. The
+  named door and the numbered hatch stay out of frame or unmarked, since a
+  generator cannot spell. Attention off-frame, on someone out of shot; not
+  posing, not to camera (the 28 July guardrails, which are for everyone).
+  The corridor is a habitat ring: smooth composite panels, a gentle upward
+  curve, day-cycle light with no fittings showing. Nothing glowing.
+  > Cinematic candid portrait of a young man of nineteen or twenty, of West African heritage, crouched on one knee in a plain residential corridor aboard a large space habitat ring, beside a small potted plant standing on the floor outside a closed flush door. He holds a plain grey metal watering can in both hands, spout tilted down, and is looking up and to one side, off-frame, at someone out of shot, his expression open and about to speak. Ordinary civilian clothing of no recognisable period: a plain dark work shirt with the sleeves pushed up, soft dark trousers, no logos, no badges, no printed words. The corridor is smooth pale composite panelling curving gently upward out of frame, clean and slightly worn at hand height, with no signage, no displays, no screens, no visible lamp fittings, no letters and no numerals anywhere; even soft overhead light like a habitat's day cycle. The door behind him is blank. Documentary, available light, natural skin, shallow depth of field with the plant and his face sharp and the corridor soft, 35 mm film look, muted colour. No uniform, no weapon, no futuristic gadget, no hologram, no lens flare, no dramatic lighting, no glow, not looking at the camera, not smiling for the camera. Landscape orientation.
+
+- **`aravena.jpg`** — Surveyor, Fliade surface party, the newest and
+  smallest of the three; carries the relay unit down the long passage and
+  is the one who turns round at the end of each working time, light held
+  low, and asks the dark whether that was all right. That is the portrait:
+  last up the passage, turned back toward the deep dark below the squeeze.
+  The Ranger block applies, adapted for cold-cavern field dress; Survey
+  Corps working dress is a plain coverall. The relay unit rides on the back —
+  *smooth and about the length of an arm* — and is described as unmarked.
+  The dark is empty; nothing stands in it (hint, don't show, and the record
+  says nothing answers). Age and gender are not in the record and are not
+  in the prompt. Pair with `nakagawa.jpg`: same cavern, same light, same kit.
+  *(Run 1, same day: variant 1 wore a stitched sleeve badge and variant 2 an
+  oxblood tab, the provost track's colour; the Survey track's insert is pale
+  grey-green (canon since 4 September). Re-rolled with the colour named and
+  run 1 variant 2 held as the reference so the person stays.)*
+  References: `story-bible/reference-art/aravena-candidate-2026-09-27.jpg`
+  > Cinematic candid portrait of a slight, small-framed surveyor of indeterminate age and androgynous appearance, upper body, standing in a narrow rock passage deep underground on a cold world, turned back to face the dark end of the passage, seen in three-quarter profile from beside and slightly behind, face lit from below by a plain hand lamp held low at the hip with its beam on the stone floor. Keep the same person as the reference image: the same face, hair and build. Plain well-kept field coverall in a muted grey-green, high collar, one small plain-finished geometric tab at the collar with a single pale grey-green insert and nothing else, no badge on the sleeve, no red anywhere: no name tape, no nameplate, no stitched badge, no printed words, no letters and no numerals anywhere. A smooth unmarked matte cylinder about the length of an arm is strapped across the back like a bedroll. Breath faintly visible in the cold. The passage walls are pale mineral rock with a fine crust of frost, receding into complete darkness; the dark is empty, nothing stands in it, no eyes, no figure, no glow. Documentary, available light from the one lamp only, natural skin, shallow depth of field, 35 mm film look, muted colour. No helmet, no visor, no weapon, no futuristic gadget, no screen, no display, no hologram, no lens flare, not looking at the camera. Landscape orientation.
+
+- **`nakagawa.jpg`** — Survey Lead, Fliade; *reads the ground, which from
+  the outside looks like standing still*. The portrait is that stillness:
+  standing in the party's working light at the junction, hands empty,
+  looking down at the cavern floor, unhurried, the one person whose job is
+  to hold the party still. Middle-aged; gender not in the record and not in
+  the prompt. Ranger block adapted for the same field dress as Aravena's,
+  the relay unit on its base at the edge of frame so the pair reads as one
+  party. Working light is portable lamp stands, plain, no fittings shown.
+  > Cinematic candid portrait of a survey lead in middle age, of East Asian heritage and androgynous appearance, upper body, standing perfectly still on the open floor of a rock cavern junction deep underground on a cold world, hands empty at the sides, head bowed slightly, looking down at the stone floor with unhurried attention, face lit from the side by the party's plain working light. Plain well-kept field coverall in a muted grey-green, high collar, small plain-finished geometric tab at the collar with a single pale grey-green insert and nothing else: no name tape, no nameplate, no stitched badge, no printed words, no letters and no numerals anywhere. At the edge of frame, on the floor, a smooth unmarked matte cylinder about the length of an arm stands upright on a plain base. Breath faintly visible in the cold. Pale mineral rock walls with a fine crust of frost, three dark passage mouths receding into complete darkness beyond the light; the dark is empty, nothing stands in it, no eyes, no figure, no glow. Documentary, available light from plain lamps out of frame, natural skin, shallow depth of field, 35 mm film look, muted colour. No helmet, no visor, no weapon, no futuristic gadget, no screen, no display, no hologram, no lens flare, not looking at the camera. Landscape orientation.
+
+
 #### The seventeen replaced on 12 August 2026
 
 Portraits for pages whose previous image was removed — see Open work 0 for

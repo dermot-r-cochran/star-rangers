@@ -5,6 +5,8 @@ id: aravena
 species: Human
 role: "Surveyor, Fliade surface party — the newest and smallest of the three"
 status: Active
+image: "aravena.jpg"
+image_alt: "Aravena, a slight surveyor in a grey-green field coverall with a single pale tab at the collar, seen from beside and behind in a narrow frost-crusted rock passage, the relay unit strapped across the back, a hand lamp held low with its beam on the floor, face turned toward the dark end of the passage, breath faintly visible in the cold."
 aliases:
   - "the smallest of the three, the one who knelt to the humming stone (the Told)"
 tags: [human, survey-corps, fliade, below-the-roof, first-contact, cavern-biosphere, star-rangers]
