@@ -2399,7 +2399,7 @@ watchers). Four choices put:
 drafted*: 1(a), 2(a), 3(a), 4(a). PR #867 merged on it.** A title card
 remains his to ask for. ~~Noticed and not changed: `two-in-the-one-currach.md` files the river abbey on Tír na nÓg~~ — **fixed the same day at his direction**: the `institution` field now says *on the Boyne, near Dún Rí* and names no planet, since the Marsh Causeway that Aldera walks to from Dún Rí lies within the Solar System.
 
-## A Young Star Rangers chapter in which the legend is told — `intake-2026-09-27.md`, last section — OPEN
+## A Young Star Rangers chapter in which the legend is told — `intake-2026-09-27.md`, last section — RULED same day
 
 Dermot's direction, the same day: *Draft a Young Star Rangers chapter where
 the legend is told.* Drafted as *What Did Not Fit* (S09E01C03), the seventh
@@ -2409,4 +2409,6 @@ telling entered in the log with its duration. Five readings flagged
 **Confirm** (the *Life*'s shape with the abbey's claim refused; Smith's chain
 as a new fact; what Smith may know in 2828; a second unexpanded file; the
 seventh day). Two choices: which telling ((a) as drafted, recommended) and
-whether the telling goes in the log ((a) as drafted).
+whether the telling goes in the log ((a) as drafted). **Ruled the same day,
+verbatim *Approved, all recommendations as drafted, merge when green*: all
+five readings confirmed, 1(a) and 2(a); PR #869 merged on it.**
