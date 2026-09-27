@@ -1052,3 +1052,35 @@ still nobody's toy.
   character page on the site whose portrait is one of his photographs. The
   frame stays in this repository as a copy at site size; the portfolio's file
   and page are untouched.
+
+## 2026-09-27 — Noah at the plant, and the Fliade surface party
+
+Three portraits at Dermot's *Yes please* to the art survey of the same day,
+which found nothing pending and offered Noah first and the Fliade pair next.
+Briefs in `images.md` § 1 under the same date; all three faces were
+undescribed in the record, so every result was a proposal, put to him as
+side-by-side pairs. His word on the three picks: *Approved*.
+
+### noah-adeyemi.jpg — filed from run 1 variant 2
+- **Type:** generation
+- **Tool:** Gemini, `gemini-3.1-flash-image`, via `scripts/image-prompts.js --generate --only noah-adeyemi`
+- **Date:** 27 September 2026
+- **Prompt / recipe:** the blockquote in `images.md`; 16:9, 2K, two variants, no reference.
+- **Notes:** variant 1 set him in a circular tube with a stranger's sleeve at the frame edge; variant 2 read as a ring, doors receding, and was picked. Lettering check: two distant door labels are blurred rectangles, nothing readable; the door behind him is blank. One ceiling light strip shows, against the brief's *no visible fittings*; accepted as a habitat's day cycle. Filed with `import-image.ps1 -MaxEdge 1200`. Run kept as `image-out/characters-noah-adeyemi/`.
+
+### aravena.jpg — filed from run 2 variant 2
+- **Type:** generation
+- **Tool:** Gemini, `gemini-3.1-flash-image`, same route
+- **Date:** 27 September 2026
+- **Source:** run 1 variant 2 held as `References:` (`story-bible/reference-art/aravena-candidate-2026-09-27.jpg`) so the person carried across the re-roll.
+- **Prompt / recipe:** the blockquote in `images.md`, revised after run 1; 16:9, 2K, two variants each run.
+- **Notes:** run 1 failed on the tab both ways — variant 1 a stitched sleeve badge, variant 2 an oxblood collar tab, the provost track's colour — because the brief said *a single colour insert* and never named it; the Survey track's insert is pale grey-green (canon since 4 September). The re-roll named the colour and the person held exactly; variant 2 kept the lamp low with its beam on the floor and was picked. Nothing readable anywhere. Runs kept as `image-out/characters-aravena-run1/` and `characters-aravena/`.
+
+### nakagawa.jpg — filed from run 1 variant 1
+- **Type:** generation
+- **Tool:** Gemini, `gemini-3.1-flash-image`, same route
+- **Date:** 27 September 2026
+- **Prompt / recipe:** the blockquote in `images.md`; 16:9, 2K, two variants, no reference. The colour was added to the brief after Aravena's run 1; this frame already carried a muted green insert and was not re-rolled.
+- **Notes:** variant 2 put a lamp head and its cable in frame, against *lamps out of frame*, and hung the tab as a chevron on the chest; variant 1 kept the tab at the collar, the unit on its base at the edge of frame and the working light out of shot, and was picked. A thin cable runs along the left wall, read as the party's own. Nothing readable anywhere. Run kept as `image-out/characters-nakagawa/`.
+
+**Lesson recorded:** a brief for anyone in Ranger dress names the track colour of the tab insert. *A single colour insert* invites the generator to choose, and it chose the provost's.
