@@ -1668,7 +1668,7 @@ and register unchanged). Open:
   present (`intake-2026-09-27.md`, second follow-up). **Still open:** the
   3 September guest window, Shepherd's 2826, no longer coincides with the
   season's year; a guest would be a 2826 chapter or Shepherd at her 2828
-  rank, his to choose. ~~And the neighbour's name, if he recurs.~~ — **named 27 September 2026 at his direction: Noah Adeyemi**, in Smith's block of S09E01C02, two alternates put (`intake-2026-09-27.md`, third follow-up).
+  rank, his to choose. ~~And the neighbour's name, if he recurs.~~ — **named 27 September 2026 at his direction: Noah Adeyemi**, in Smith's block of S09E01C02, two alternates put and **the name ruled the same day, verbatim *Approved, Noah Adeyemi*** (`intake-2026-09-27.md`, third follow-up).
 - **A palette of its own.** The edition reuses `starquest`; a Young Star
   Rangers face means a new `theme-*.css` through `generate-themes` and the
   contrast gate. Design work, when the first chapter exists.
