@@ -1661,11 +1661,14 @@ and register unchanged). Open:
   (S09E01C02)**: the fourth and fifth days, a neighbour with a watering
   can, the honest step taken outside the hatch, Smith reading both signals
   and saying nothing (`intake-2026-09-14.md`, last section, five readings
-  flagged). **Open now: the season's year** — the Season 9 index says it
+  flagged). ~~**Open now: the season's year** — the Season 9 index says it
   *shares its year with Season 1* (2826) while the chapters and Varn's page
-  are 2828, matching *Sent for the Log*; the 13 September intake gave
-  Shepherd's 2826 as the guest window. Which resolves (the index line, or
-  the guest) is his. And the neighbour's name, if he recurs.
+  are 2828, matching *Sent for the Log*~~ — **fixed 27 September 2026 at his
+  direction**: the index now says 2828, two years after the main line's
+  present (`intake-2026-09-27.md`, second follow-up). **Still open:** the
+  3 September guest window, Shepherd's 2826, no longer coincides with the
+  season's year; a guest would be a 2826 chapter or Shepherd at her 2828
+  rank, his to choose. And the neighbour's name, if he recurs.
 - **A palette of its own.** The edition reuses `starquest`; a Young Star
   Rangers face means a new `theme-*.css` through `generate-themes` and the
   contrast gate. Design work, when the first chapter exists.

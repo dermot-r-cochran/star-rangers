@@ -17,7 +17,7 @@ permalink: /seasons/s09/
   The Corps from the bottom rung. Season 9 is the Young Star Rangers thread: a raw Deputy's first field posting under a Field Officer who has supervised fourteen of them, on the boundary watch that most civilians mean when they say a Star Ranger came.
 </p>
 <p class="page-intro">
-  A season that stands alone and shares its year with Season 1: no prior reading required, and readers of the main line may recognise a cadet passing through.
+  A season that stands alone, set in 2828 UCSD, two years after the main line's present: no prior reading required, and readers of Season 1 will know the habitat, if not the hatch.
 </p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (9 | threadForSeason).id }}/">{{ (9 | threadForSeason).name }}</a></p>
 
