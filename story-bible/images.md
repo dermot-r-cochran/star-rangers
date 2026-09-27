@@ -1229,6 +1229,18 @@ variant 1; the record is in `image-prompts.md` under the same date.
   party. Working light is portable lamp stands, plain, no fittings shown.
   > Cinematic candid portrait of a survey lead in middle age, of East Asian heritage and androgynous appearance, upper body, standing perfectly still on the open floor of a rock cavern junction deep underground on a cold world, hands empty at the sides, head bowed slightly, looking down at the stone floor with unhurried attention, face lit from the side by the party's plain working light. Plain well-kept field coverall in a muted grey-green, high collar, small plain-finished geometric tab at the collar with a single pale grey-green insert and nothing else: no name tape, no nameplate, no stitched badge, no printed words, no letters and no numerals anywhere. At the edge of frame, on the floor, a smooth unmarked matte cylinder about the length of an arm stands upright on a plain base. Breath faintly visible in the cold. Pale mineral rock walls with a fine crust of frost, three dark passage mouths receding into complete darkness beyond the light; the dark is empty, nothing stands in it, no eyes, no figure, no glow. Documentary, available light from plain lamps out of frame, natural skin, shallow depth of field, 35 mm film look, muted colour. No helmet, no visor, no weapon, no futuristic gadget, no screen, no display, no hologram, no lens flare, not looking at the camera. Landscape orientation.
 
+- **`lev.jpg`** — Lev Saunders, about eight, the boy with the wrong rabbit.
+  Added the same evening at Dermot's *Yes please* after the page merged.
+  The portrait is the walk back from the walkway in *Four Seconds*: a boy
+  carrying a plain pet carrier with both arms, door shut, the shift change
+  starting to move again behind him. Muffin is never depicted, and the
+  shut carrier is the point. Undercover Pets register: lit warm and
+  ordinary, not haunted. No look to camera (the guardrails are for
+  everyone); his attention is on the box. Heritage is not in the record
+  and is not in the prompt; whatever comes back is a proposal. **Filed the
+  same evening from run 1 variant 2 on his *Approved*.**
+  > Cinematic candid portrait of a boy of about eight walking along a pale, gently curving residential corridor aboard a large space habitat ring, carrying a plain grey plastic pet carrier in both arms against his chest, its wire door shut and nothing visible inside, his eyes on the carrier door and his mouth set, serious and a little pleased with himself. Ordinary children's clothing of no recognisable period: a plain soft jumper, plain trousers, scuffed shoes, no logos, no badges, no printed words. Behind him, soft and out of focus, a few adults in plain work clothes turning back to their day, and warm light spilling from an open doorway; smooth composite panelling, no signage, no displays, no screens, no visible lamp fittings, no letters and no numerals anywhere. Warm, ordinary, gently lit like a habitat's afternoon; documentary, available light, natural skin, shallow depth of field with the boy and the carrier sharp, 35 mm film look, warm muted colour. No uniform, no weapon, no futuristic gadget, no hologram, no lens flare, no dramatic lighting, nothing glowing, not looking at the camera, not smiling for the camera. Landscape orientation.
+
 
 #### The seventeen replaced on 12 August 2026
 

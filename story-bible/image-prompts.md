@@ -1084,3 +1084,10 @@ side-by-side pairs. His word on the three picks: *Approved*.
 - **Notes:** variant 2 put a lamp head and its cable in frame, against *lamps out of frame*, and hung the tab as a chevron on the chest; variant 1 kept the tab at the collar, the unit on its base at the edge of frame and the working light out of shot, and was picked. A thin cable runs along the left wall, read as the party's own. Nothing readable anywhere. Run kept as `image-out/characters-nakagawa/`.
 
 **Lesson recorded:** a brief for anyone in Ranger dress names the track colour of the tab insert. *A single colour insert* invites the generator to choose, and it chose the provost's.
+
+### lev.jpg — filed from run 1 variant 2
+- **Type:** generation
+- **Tool:** Gemini, `gemini-3.1-flash-image`, via `scripts/image-prompts.js --generate --only lev`
+- **Date:** 27 September 2026, the same evening as the three above
+- **Prompt / recipe:** the blockquote in `images.md` § 1 under the same date; 16:9, 2K, two variants, no reference. Heritage not in the record and not in the prompt.
+- **Notes:** both variants held the shut carrier with nothing visible inside, which was the brief's point. Variant 1 carried it sideways under a doorway of onlookers with ceiling light panels showing; variant 2 was the plainer corridor, the boy's eyes on the door of the box, the deck walking away behind him, and was picked (*Approved*). Lettering check: one blank wall panel, nothing readable. Filed with `import-image.ps1 -MaxEdge 1200`. Run kept as `image-out/characters-lev/`.
