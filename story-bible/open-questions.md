@@ -2415,3 +2415,11 @@ seventh day). Two choices: which telling ((a) as drafted, recommended) and
 whether the telling goes in the log ((a) as drafted). **Ruled the same day,
 verbatim *Approved, all recommendations as drafted, merge when green*: all
 five readings confirmed, 1(a) and 2(a); PR #869 merged on it.**
+
+## A character page for Noah Adeyemi — `intake-2026-09-27.md`, fourth follow-up — OPEN
+
+Dermot's direction, the same day: *Draft a character page for Noah Adeyemi.*
+Drafted as `src/characters/noah-adeyemi.md` from *The Door With the Plant*
+alone, no image. Four readings flagged **Confirm** (he lives behind the door
+with the plant; his shift unplaced; the tags keep him to the thread's face;
+no portrait, his to prompt).
