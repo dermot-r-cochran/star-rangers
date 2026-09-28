@@ -35,6 +35,30 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## A physics and cosmology skill — raised 28 September 2026, DEFERRED same day
+
+`intake-2026-09-28.md`, last section. Dermot asked whether the context needs a
+physics and cosmology skill. Assessed as not yet: the rulebook such a skill
+would hold is already published as canon (the scope ladder, the Generalisation
+page, the Cascade's time section, What the Record Refuses, the Physics
+Comparison, `cascade-structure-and-limits.md`), CLAUDE.md points at all of it,
+and a restatement would be a second copy to drift. **Deferred on his *Yes
+agreed*.** Two candidate procedures, to be written as a skill the third time
+either is run from scratch, holding steps and links only and never the physics:
+
+1. **A physics check for a new or edited lore page** — name the page's scope
+   on the ladder; check it against the refusals table; confirm it adds
+   couplings and never permissions; ask whether it hands anyone a repeatable
+   counter-move; if it borrows real physics, run the Journal's precision pass
+   with references. Run by hand on 28 September for the two quantum entries.
+2. **A real-physics attribution pass for the Journal** — a checklist of the
+   traps: year, venue, who actually proposed what, what an experiment tested
+   and at what precision. The 6 September entries corrected three attributions
+   after drafting; the 28 September pair needed one (Sorkin's alternatives
+   against Counterpane's independent sources).
+
+Count of from-scratch runs so far: one each.
+
 ## Slipwave's standing under the Music Corps intake — raised 28 September 2026
 
 Raised in `intake-2026-09-28.md`. **Ruled the same day** by his *Xenomusicology
