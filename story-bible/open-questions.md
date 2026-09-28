@@ -40,9 +40,9 @@ reason. Verify against the repo before acting on any line here.
 Raised in `intake-2026-09-28.md`. **Ruled the same day** by his *Xenomusicology
 branch Slipwave project*: readings (a) and (b) close as both, by record (a
 civilian band to the circuit, the branch's Slipwave project to the corps), and
-the study is the Xenomusicology branch. Still open: the Union's Irish for the
-branch (*Ceoleolaíocht Chomparáideach* proposed), and whether the project name is
-public (drafted as public). Also the
+the study is the Xenomusicology branch. The Union's Irish for the branch
+(*Ceoleolaíocht Chomparáideach*) and the public project name were **approved the
+same evening**; nothing open. Also the
 pre-existing Season 2 / Season 3 wobble on the Sentinel telemetry duty, raised as
 issue #883 and **ruled the same day**: seasons can overlap in time, so it is one
 event at the seam; the page says so.
