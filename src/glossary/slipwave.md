@@ -5,11 +5,11 @@ irish: "Slipwave"
 irish_gloss: "a band's own name, kept"
 id: slipwave
 category: "Culture"
-short: "A three-person spacer-folk band from Eden Space Habitat's civilian arts circuit, active before its vocalist, Tissadelle Shepherd, enlisted as a Star Rangers cadet. Best known for the recordings later adopted informally as the Star Rangers Anthem and for 'Ballad of the Stars.'"
-tags: [slipwave, music, band, culture, tissadelle, perrin-ashgrove, marlow-calloway, eden, pre-ranger, anthem, ballad, musician-specialization]
+short: "A three-person spacer-folk band from Eden Space Habitat's civilian arts circuit, active while its vocalist, Tissadelle Shepherd, was a Music Corps Novice placed with it, before her Cadet standing was confirmed. Best known for the recordings later adopted informally as the Star Rangers Anthem and for 'Ballad of the Stars.'"
+tags: [slipwave, music, band, culture, music-corps, tissadelle, perrin-ashgrove, marlow-calloway, eden, pre-ranger, anthem, ballad, musician-specialization]
 ---
 
-**Slipwave** was a three-person spacer-folk band that played Eden Space Habitat's civilian arts circuit for a little under two years, several seasons before its vocalist, [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/), enlisted as a Star Rangers cadet. The name refers to the pitch drift habitat musicians learned to compensate for when a station's rotational hum leaks into an unshielded sound system — a small, specific, entirely civilian problem, and a deliberately unglamorous name for a band that mostly played dock-adjacent common rooms.
+**Slipwave** was a three-person spacer-folk band that played Eden Space Habitat's civilian arts circuit for a little under two years, before its vocalist, [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/), had her Star Rangers Cadet standing confirmed. She was already a Novice of the [Music Corps](/star-rangers/lore/star-rangers-music-corps/) for the band's last year, and the band was her placement: the college puts its novices with working ensembles, civilian ones included, for the time its study needs, which is how a dock band came to have a Ranger in it without ever being a Ranger band. The name refers to the pitch drift habitat musicians learned to compensate for when a station's rotational hum leaks into an unshielded sound system — a small, specific, entirely civilian problem, and a deliberately unglamorous name for a band that mostly played dock-adjacent common rooms.
 
 Slipwave never recorded a studio album. Their surviving catalogue is a handful of habitat-circuit recordings, most of them incomplete or badly mic'd. Two are not.
 

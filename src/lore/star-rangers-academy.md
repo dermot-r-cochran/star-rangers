@@ -20,7 +20,7 @@ The consequence is worth stating in its strongest form, because it is the point:
 
 ## Colleges and Schools
 
-A **college** covers a corps: Survey, Science, Safety, Provost, [Frontier](/star-rangers/lore/star-rangers-frontier-corps/), [Liaison](/star-rangers/lore/planetary-liaisons-and-recruiters/), Medical, Engineering, and the rest. It owns the corps' certification criteria and the examinations against them.
+A **college** covers a corps: Survey, Science, Safety, Provost, [Frontier](/star-rangers/lore/star-rangers-frontier-corps/), [Liaison](/star-rangers/lore/planetary-liaisons-and-recruiters/), Medical, Engineering, [Music](/star-rangers/lore/star-rangers-music-corps/), and the rest. It owns the corps' certification criteria and the examinations against them.
 
 A **school** covers a branch inside that corps — the piloting and navigation track, the boundary-safety track, the research track, the security track, and the smaller specializations that get less notice and no less rigour. A school owns the specific competencies of one kind of work.
 

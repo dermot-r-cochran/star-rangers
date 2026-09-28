@@ -100,7 +100,7 @@ What a technical Chief accumulates past that ceiling is not further rank but rec
 
 Nothing prevents a decorated technical Chief from later crossing into the command track if a Starwarden's post opens and they want it. The two paths share a ceiling rank, not a ceiling career.
 
-The same sideways-not-up logic operates well below Chief, and outside the boundary-science specializations entirely. A Ranger who carries the Corps' musician specialization, for instance, isn't on a slower route to command — just a different route altogether. See [Slipwave](/star-rangers/glossary/slipwave/) for a working example.
+The same sideways-not-up logic operates well below Chief, and outside the boundary-science specializations entirely. A Ranger who carries the Corps' musician specialization, for instance, isn't on a slower route to command — just a different route altogether. See [Slipwave](/star-rangers/glossary/slipwave/) for a working example. The specialization is the [Music Corps](/star-rangers/lore/star-rangers-music-corps/)' own.
 
 ## Above Chief: Formal Mentoring, Because Nothing Can Be Examined
 
