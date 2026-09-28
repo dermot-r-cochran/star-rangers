@@ -35,6 +35,16 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Slipwave's standing under the Music Corps intake — raised 28 September 2026
+
+Raised in `intake-2026-09-28.md`. Drafted under reading (a): Slipwave stayed a
+civilian dock-circuit band and was Shepherd's Novice placement, so nothing the
+glossary says about it changes. Reading (b), that it was a Corps ensemble, would
+reword "civilian arts circuit" and "the Corps still commissions nothing". Also
+open: whether the Music Corps' study gets a one-word name (none coined), and the
+pre-existing Season 2 / Season 3 wobble on the Sentinel telemetry duty, raised as
+an issue.
+
 ## The ladder in other tongues — raised 24 September 2026, RULED same day
 
 **Ruled 24 September 2026, *Yes, agreed*:** all four recommendations stand as drafted.
