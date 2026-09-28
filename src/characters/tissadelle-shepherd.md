@@ -32,7 +32,7 @@ By Season 5, these qualities have become load-bearing. A Line Captain who will n
 Several promotions land each season rather than one — Shepherd's climb is compressed, not skipped:
 
 - **Season 1:** Cadet → Deputy → Officer (general operations track)
-- **Season 2:** Officer → Senior → Principal, rotated onto the Survey Corps track — the posting that puts her on Hegemony telemetry duty during the Sentinel Signal, below
+- **Season 2:** Officer → Senior → Principal, rotated onto the Survey Corps track — the posting that puts her on Hegemony telemetry duty, and the finding told under the Sentinel Signal, below, falls at the seam: the rotation begins in Season 2, the backlog she read as a new Principal belongs to Season 3, and the seasons overlap in time
 - **Season 3:** Principal → Section Lead → **Chief Ranger**, rotated back onto general operations rather than staying Survey-track
 - **Season 4:** Chief Ranger → Starwarden → Archwarden (then styled Starwarden First Officer) → Line Captain
 - **Season 5 (opening):** Line Captain
