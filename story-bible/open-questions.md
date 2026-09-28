@@ -43,7 +43,8 @@ glossary says about it changes. Reading (b), that it was a Corps ensemble, would
 reword "civilian arts circuit" and "the Corps still commissions nothing". Also
 open: whether the Music Corps' study gets a one-word name (none coined), and the
 pre-existing Season 2 / Season 3 wobble on the Sentinel telemetry duty, raised as
-an issue.
+issue #883 and **ruled the same day**: seasons can overlap in time, so it is one
+event at the seam; the page says so.
 
 ## The ladder in other tongues — raised 24 September 2026, RULED same day
 
