@@ -35,6 +35,16 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Sixty-Eight in a Hundred — slot, the Warden's POV, its restraint — raised 29 September 2026
+
+`intake-2026-09-29.md`. Drafted as S02E11C01 in the Undercover Pets thread at his
+direction for a failure caused by refusing to trust a mind. Three readings,
+each drafted under the recommended option and each his to amend: the slot
+(Season 2 Episode 11, against a Five-O chapter or a Codex account); whether the
+Warden stays without a POV block (as drafted, against a Ward block or a
+contemplative-tier one); and whether the Warden answers and does not urge the
+children's row (as drafted, against a notice posted to the row itself).
+
 ## A physics and cosmology skill — raised 28 September 2026, DEFERRED same day
 
 `intake-2026-09-28.md`, last section. Dermot asked whether the context needs a

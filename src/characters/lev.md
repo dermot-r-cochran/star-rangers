@@ -10,7 +10,7 @@ image_alt: "Lev Saunders, a boy of about eight in a plain olive jumper and brown
 aliases:
   - "the boy with the cat"
   - "the boy with the wrong rabbit"
-tags: [human, eden, resident, undercover-pets.com, season-2]
+tags: [human, eden, resident, terraces, undercover-pets.com, season-2]
 description: "A boy of about eight who came aboard Eden with his mother and a cat in the spring of 2827, asked a rabbit where the cat had gone and was taken seriously by one, and in late summer picked up the thing by the Deck 7 galley door that a whole deck could not stop feeding, told it no in front of everybody, and carried it home in a box."
 ---
 
@@ -34,13 +34,19 @@ He found a rabbit there, in a carrier at a detective's feet, and it was the wron
 
 At the bureau afterwards he said his family would keep it, in the voice of a person who has already asked at home and been told *we'll see*, which is a yes. When [Detective Achebe](/star-rangers/characters/marisol-achebe/)'s pen stopped at the bracket where the species goes, he told her the name, because she seemed to have forgotten it. The application went into the compliance queue at the end of the shift.
 
+## The Children's Row
+
+Every child on Eden is given a runner of the Eden strawberry in their first summer aboard, and a place for it on the children's row at the bottom of the ring terraces. In the early autumn of 2827 the terrace loop ran warm for three days, the Warden filed sixty-eight in a hundred for root disease on it, and the Terrace Committee decided to wait for the culture. On the second day Lev read the Warden's notice at the terrace gate, the part of it the bureau's cat was not sitting on, and asked the Warden, once and in order, whether his plant was sick. The Warden said it did not know, that the plant might already carry it, and that if it stopped drinking the terrace water that day it would more likely than not stay well; that the plant was his; and that his window could have terrace light if he wanted it. He said *yes please*, and carried the plant home in both hands.
+
+Every Eden strawberry on the terraces died. His did not. In the sixth week the Committee's chair, [Tomas Brennock](/star-rangers/characters/tomas-brennock/), came to the door and asked for a runner, once, and waited, and Lev gave him the one with the most leaves, and told him to change the water every morning. See [Sixty-Eight in a Hundred (S02E11C01)](/star-rangers/seasons/s02/e11/s02e11c01/).
+
 ## What He Declines
 
 He does not ask a question twice. Each time he has put a case to somebody, he has said it once, in order, and waited.
 
 He does not describe Muffin. He knows it is not a cat, because he has a cat; that is as far as he gets, and he does not mind. Small animals, in his view, are not for describing. They are for picking up or not picking up.
 
-He does not give things to things that ask. His hand went towards his pocket on the walkway and he stopped it, because that was his lunch.
+He does not give things to things that ask. His hand went towards his pocket on the walkway and he stopped it, because that was his lunch. He gives things to people who ask once and wait, and when he does, he gives them the good one.
 
 ## Character Notes
 
