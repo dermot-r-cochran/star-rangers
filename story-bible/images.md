@@ -67,6 +67,17 @@ from that rule, and the exemption has a shape:
 - **The site says so once**, on the About page: illustrations are generated,
   or made from the author's photographs, and the prose is the work. The
   register is not rendered, so that sentence is the reader's only notice.
+- **Generated images look like his photographs; what they show is what no
+  camera could** (Dermot, 29 September 2026, verbatim *"Yes, agreed"* to that
+  recommendation, over an openly painterly register and a look per thread —
+  `intake-2026-09-29.md`). The light, colour, lens and grain are his: his
+  frames as the plate or as references first, per the photo-first order, and a
+  prompt asks for a photograph, not an illustration. The generated look is a
+  fault to prompt against: gloss, over-detail, plastic skin, perfect symmetry,
+  HDR glow. What keeps such an image from passing as his work is its subject,
+  which the first bullet already limits to what no camera can photograph, plus
+  the register and the About page sentence, never a visible style. Undercover
+  Pets keeps its own cute register; designed cards stay cards.
 
 The photo-first order below is how the exemption is exercised; this is the
 boundary it is exercised inside.
