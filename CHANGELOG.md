@@ -6,6 +6,9 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+- **`RELATED-REPOSITORIES.md` — the map of the account's public repositories, and a *Related repositories* section in `CLAUDE.md`** (2026-09-29, Dermot's direction, verbatim *Identity any of my public repos that are related to each other and update CLAUDE.md in each one, creating subordinate and supporting markdown files as needed*). The new root file states, family by family and from the evidence in each repository, what crosses between the sixteen public repositories: the two giscus boards this site posts to, the portfolio and its four readers, the four one-file browser pages that inherit `four-islands-quest`'s rules, the three engineering repositories the About page names as lineage, and the siblings that share only the house testing conventions. Every other repository's `CLAUDE.md` gains a short section naming its own neighbours and pointing here. Prompted by a session in the photography repository that had to discover a second game copying its frames by listing his repositories.
+
 ### Fixed
 - **Tissadelle's page — the Sentinel telemetry duty sits at the Season 2 / Season 3 seam** (2026-09-28, Dermot's ruling on issue #883, verbatim *the seasons can overlap in time unless it was two different but similar events*): the *Rank Progression* line for Season 2 now says the rotation begins there, the finding told under *The Sentinel Signal* belongs to Season 3, and the seasons overlap in time; recorded in `story-bible/intake-2026-09-28.md`.
 
