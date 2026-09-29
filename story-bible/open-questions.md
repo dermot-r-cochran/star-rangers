@@ -35,7 +35,9 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## Sixty-Eight in a Hundred — slot, the Warden's POV, its restraint — raised 29 September 2026
+## ~~Sixty-Eight in a Hundred — slot, the Warden's POV, its restraint~~ — raised 29 September 2026, APPROVED same day
+
+**Closed** by his *Approved*: all three readings stand as drafted.
 
 `intake-2026-09-29.md`. Drafted as S02E11C01 in the Undercover Pets thread at his
 direction for a failure caused by refusing to trust a mind. Three readings,
