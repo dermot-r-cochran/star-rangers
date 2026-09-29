@@ -28,6 +28,42 @@ line there when something here becomes a decision rather than a task.
 | Character portraits | **1200×675 — 16:9 landscape**, not portrait (see below) |
 | Codex entries | designed dark-gradient **title cards**, not photographs |
 | `image_alt` | must describe what the file *actually shows* |
+| Technical lore diagrams | **inline SVG in the page body**, drawn to the entry's own numbers (see below) |
+
+**Diagrams on technical lore pages** (Dermot, 29 September 2026, verbatim:
+*"Technical lore pages may have technical or scientific diagrams similar to
+the style of the Applied Stats tutorial"* — `intake-2026-09-29.md`). A
+fourth kind of image beside photographs, generated art and designed cards,
+and the only one that asserts. The shape, taken from the tutorial's
+*The figures*:
+
+- **Where.** Physics and Technology entries, and Cosmology entries where the
+  entry states a structure (tiers, a hierarchy, an order). A diagram sits in
+  the body beside the paragraph it draws; the hero `image:` is unchanged.
+- **Drawn, never generated.** Inline SVG written by hand or by a script,
+  about 640 units wide, labels as real text. A generator cannot spell and
+  cannot hold a number, which is the reason cards exist, and it is the same
+  reason here.
+- **The entry's numbers, and nothing more.** *Art is illustrative* (below) is
+  allowed to be technically wrong; a diagram is not. It says in pictures what
+  the page already says in words, from the same figures, and adds no fact the
+  text lacks, since a diagram that adds one is a canon change made by drawing.
+  Physics is real physics: a ring drawn rotating must be able to rotate.
+- **Archive voice.** Labels speak as the page speaks: UCSD dates, in-world
+  names, no one from our century (the Journal carries real-world notes).
+- **Readable by everyone.** Colour by class, never meaning carried by colour
+  alone: every class is named on the figure. Colours come from the site's CSS
+  custom properties, so every palette and both light and dark render it, and
+  the contrast checker cannot see inline SVG, so read it back in a browser in
+  at least one light and one dark theme. A `<title>` and a caption in words
+  carry it for a screen reader, the way `image_alt` does for a picture.
+- **The tutorial's kinds are the vocabulary**: boxes and arrows in rows,
+  boxes inside boxes, curves, bars, points on axes. A new kind is fine; a
+  decorative one is not.
+
+This does not reopen *a concept is never pictured; it is carded*. A card
+stands for a concept as a page's image; a diagram draws a structure the text
+has already stated, in the body.
 
 **The exemption, stated** (Dermot's ruling, 3 September 2026). The portfolio
 site takes only his own single-frame photographs; this repository is exempt
