@@ -78,6 +78,19 @@ from that rule, and the exemption has a shape:
   which the first bullet already limits to what no camera can photograph, plus
   the register and the About page sentence, never a visible style. Undercover
   Pets keeps its own cute register; designed cards stay cards.
+  **Refined the same day** (verbatim: *"even the generated images such look like
+  they were taken from a 29th century photographic device unless intended to be
+  codex art"*): a generated image is a **photograph taken inside the world**, by
+  a 29th-century camera that someone in the record was holding or had mounted.
+  The video runbook's *The camera is a witness* applies to stills: no angle no
+  person or instrument could have taken, and the frame knows less than the
+  scene. Hard SF keeps the device honest: optics are optics, so it is a
+  photograph in every physical respect, and nothing about the date shows in the
+  image itself (no overlays, readouts or date stamps, and the period-tech
+  negatives in prompts still apply). The one exception is **Codex art**, which
+  is an artefact made by its in-world author and takes that author's medium,
+  under the Codex-art rules below (a wrong belief is allowed; a wrong century
+  or a real place is not).
 
 The photo-first order below is how the exemption is exercised; this is the
 boundary it is exercised inside.
