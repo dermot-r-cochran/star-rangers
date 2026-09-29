@@ -90,7 +90,12 @@ from that rule, and the exemption has a shape:
   negatives in prompts still apply). The one exception is **Codex art**, which
   is an artefact made by its in-world author and takes that author's medium,
   under the Codex-art rules below (a wrong belief is allowed; a wrong century
-  or a real place is not).
+  or a real place is not). **A second exception, the same day:** Tissadelle's
+  inner world is inside a mind, where no camera in the record can go, and it
+  is allowed to look dreamy and dreamlike (Dermot, verbatim: *"Tissadelle's
+  inner world is allowed to look more dreamy and dreamlike"*). Dreamlike is
+  how such a frame sees, never what is in it; the modesty bar and the tone
+  rule hold unchanged.
 
 The photo-first order below is how the exemption is exercised; this is the
 boundary it is exercised inside.
