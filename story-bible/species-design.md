@@ -18,6 +18,16 @@ terrestrial bears, despite the name**. The published refusal now turns on the
 built on it, and an upright body arrived at independently is not a second entry
 on that list.
 
+**The frame is the point — 30 September 2026.** Dermot's direction, verbatim:
+*"Krenyi are the strangest non-human people because they look superficially
+humanoid and could pass as almost human."* This is the 22 September exception
+(*too humanoid unless that is the point of the story*) applied to the one
+people on the human frame: the resemblance is the work, and every difference
+lands as a correction to an assumption the frame invited. Realized on the lore
+page as *The Nearest Frame Is the Strangest*. For the other species nothing
+changes — they still owe the record a body that follows from a world, and the
+Krenyi are not a licence for a second near-human people.
+
 **So nothing here needs redoing.** The five species below still owe the record a
 body that follows from a world, and *"could this be a human with features
 applied?"* is still the test that fails a drifted portrait. What changed is that

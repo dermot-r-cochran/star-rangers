@@ -16,11 +16,20 @@ The Krenyi — also called the Quiet-Built, or known individually by the state-m
 ## Physical and Social Characteristics
 
 - Long-lived: individual Krenyi may live for centuries without apparent degradation.
-- Physically attractive by most humanoid standards.
-- High female birthrate.
+- Rare: a birth rate far lower and slower than the human one, so a small people however long-lived; and in consequence exceptional Rangers who are seldom had. See [In the Corps](#in-the-corps-rare-and-valued).
+- Physically attractive by most humanoid standards, and to humans emotionally unreadable. See [Humans, and the Attachment That Does Not Form](#humans-and-the-attachment-that-does-not-form).
+- Females outnumber males about three to one, at birth and across a lifetime.
 - Cannot interbreed with humans or any other species.
 - Finely tuned sensitivity, reflexes and awareness — low-light acuity, motion caught at the edge of vision, balance and righting, and a reaction that closes before a human has finished registering that something happened. **There is no sensory organ to point at: the whole body is the instrument.** See the two sections below.
 - Free by structure: no physical, social, or metaphysical mechanism exists within the story's cosmology by which a Krenyi could be owned or compelled. The older filings said *unenslavable*, which names the thing by its absence; the freedom is the fact.
+
+## The Nearest Frame Is the Strangest
+
+The Krenyi are the only other people the record holds built on the human frame, and it is the frame, not anything under it, that makes them the strangest people in it. A Chthonari or a Veyr announces its difference before a word is exchanged, and a human meeting one has nothing to correct: the mind expects nothing and is not wrong. A Krenyi is met as a person of a familiar kind, and every difference then arrives as a correction to something the observer had already assumed. Two arms, a face, an upright gait, and a stillness that is not composure; a gaze that reads the room and is not afraid of it; an age that will not resolve; a body that is the instrument and has no organ to show for it; blood that would kill the one it was meant to save. Nothing in the list is hidden. All of it is missed at first, because the frame says there is nothing to look for.
+
+**A Krenyi could pass as almost human to a low-context observer, and does not try to.** The passing fails on time rather than on inspection: within an hour the stillness has registered, within a year the age has, and nothing in the exchange was ever a claim. The Quiet-Built use no social deception, and *what are you, really* gets the material answer and declines the rest, which is not the same as pretending. They are the people most easily mistaken for human and the furthest from it beneath the frame, and the mistake is the observer's every time.
+
+Survey teaching puts it the other way round from how a first-year expects. The peoples furthest from the human frame are the easiest to meet correctly, because nothing in the meeting is assumed; the one nearest it is the one a cadet is trained on, not for any hazard the Krenyi present but for the assumptions the frame invites. The resemblance is superficial and complete at once, and the record keeps both halves of that sentence.
 
 ## Emotional Range
 
@@ -93,6 +102,8 @@ The first fact is not a judgement on humans and is not offered as one. The bond 
 
 What the record does have is an observation about the direction the misunderstanding usually runs. Humans do form attachments to Krenyi — the [Physical and Social Characteristics](#physical-and-social-characteristics) list notes, flatly, that Krenyi are attractive by most humanoid standards, and the honesty and the calm are their own draw. A Krenyi meeting that is generally meeting the same thing they meet everywhere else: a person reading them as category rather than as company, wanting the Quiet-Built rather than wanting *them*. It is the [mythification](#resistance-to-mythification) problem in its most personal register, and it gets the standard answer — name the distortion, return the exchange to material terms, and stay. They are not usually unkind about it. They are almost never wrong about which it is.
 
+**The attraction and the distance arrive together, and the record keeps them as one fact.** Humans find the Krenyi physically attractive and emotionally unreadable, and the second is what the first runs into. A human reads another person's feeling off the things a body does with it: the flinch, the held breath, the gesture that leaks. A Krenyi body does none of that, not by discipline but by construction, because [movement is noise in its own readings](#the-whole-body-is-the-instrument), and a still instrument gives off almost nothing to read. So the exchange is asymmetric in a way neither side chose. The Krenyi reads the human's fear accurately and the human reads a calm surface that could be anything. *Unreadable* is the human report, and it is accurate as a report about the human: the feeling is there, the record says so, and the channel a human would read it on is the one the Quiet-Built do not use.
+
 ## What a Krenyi Body Does With Foreign Material
 
 The interbreeding refusal is a matter of consent, and it would also be moot without it. **Krenyi immunity destroys foreign genetic material outright** — not tolerating it poorly, not rejecting a graft over weeks, but identifying anything that did not originate in a Krenyi and taking it apart. Human DNA entering a Krenyi system does not persist long enough to do anything, which is why the Krenyi state *cannot interbreed with any other species* as a flat fact rather than as an untested assumption.
@@ -132,6 +143,16 @@ The mechanism is the one that resists glamour generally. A threne's offer is [co
 A Krenyi asked about this gives the material answer — that a constraint was named and something was done about it — and declines the rest. It is read, invariably, as modesty. It is not modesty. It is the same refusal they make about a homeworld, and it has the same effect: it leaves a space where an explanation would sit, and other peoples have never once left such a space empty.
 
 The largest of those spaces is filed under a name the Quiet-Built did not choose and have never been asked about. See [Arilon](/star-rangers/lore/arilon/), where the [Fellowship of Light](/star-rangers/lore/fellowship-of-light/) records — without adopting it, and without any means of testing it — the reading that some of the pattern's accounts concern a people who look almost human and decline to say what they are.
+
+## In the Corps: Rare, and Valued
+
+**Krenyi make exceptional Star Rangers, and the record is exact about what the word claims.** It ranks nobody. [Minds are not ranked](/star-rangers/lore/what-the-record-refuses/), and a people's abilities do not rise together; what the record can state is what a sensorium makes cheap, dear or impossible, and Ranger work happens to be the work a Krenyi sensorium makes cheap. Boundary survey is reading a room precisely without moving much. Safety work is orienting without flinching when everyone else's instrument has gone loud. Liaison is saying the material thing and declining the rest. Every one of those is described elsewhere on this page as simply what the Quiet-Built are, and the Corps did not have to train it in. What it trains is the part they lack, which is the human social grammar a novel case defeats.
+
+**They are rare, and the rarity is arithmetic.** The Krenyi birth rate is far lower and slower than the human one: children come seldom and far apart across a long life, and a people that lives for centuries and replaces itself slowly is a small people however long it has existed. This is not infertility, and the record does not file it as one; a Krenyi who wants a child has one, in time. The three-to-one ratio sits inside that and does not change it. So there are few Krenyi anywhere, fewer in service, and a Krenyi officer is a rarity on any roster, which is the ordinary condition of [Syra's](/star-rangers/characters/syra/) career and not a distinction she has ever remarked on.
+
+**What they survive, they survive on their own.** The body that is the instrument is also robust, rarely sick, and quick to repair: the same immunity that takes foreign material apart keeps a wound clean, and a Krenyi heals fast and heals whole. The limit is the other face of the same fact. Nothing donated, grafted or transplanted persists in a Krenyi, so a Krenyi hurt past what their own body can repair cannot be helped by the means a human would be, and a medic who knows this knows the one thing that matters about treating one. Survival skill, on this page, means the sensitivity, the reflexes, the calm under a panic cascade and the healing together, and none of them is courage. There is nothing being mastered.
+
+**Highly valued, then, in the only sense the Corps has for the phrase**: a scarce competence is not wasted, and a posting that needs a Krenyi gets one when one can be had. The Krenyi meet being valued the way they meet everything else, which is the [mythification](#resistance-to-mythification) answer in a working register. A Corps that wanted the Quiet-Built rather than wanting the officer in front of it would get the material terms named and the exchange returned to them. Their service, like their cooperation, is extended and not obtained, and the Corps has never had to be told twice.
 
 ## The Present Tense, and What the Past Is For
 
