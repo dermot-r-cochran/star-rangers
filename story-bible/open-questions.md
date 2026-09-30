@@ -35,7 +35,7 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## The Oversight Council — its composition, and its standing beyond the Solar System — raised 30 September 2026, standing RULED same day; original seating OPEN
+## The Oversight Council — its composition, and its standing beyond the Solar System — raised 30 September 2026, RULED same day, in two steps
 
 `intake-2026-09-30.md`, last section. Dermot asked what the Civilian
 Oversight Council is and how it is elected or composed, then what holds the
@@ -55,9 +55,11 @@ day, on the observation that the Corps is *neutral and independent rather
 than human-centric*, ruled verbatim *"Option 2 but it gradually evolves
 towards Option 3"*:** the mechanism written into lore and the Council
 drifting toward being seated by the recognising polities, realized as
-`src/lore/the-oversight-council.md` (intake, last section). Still his: the
-Accords' original seating provision (seats, bodies, term, chair) and the
-year the Federation's non-voting seat was first filled.
+`src/lore/the-oversight-council.md` (intake, last section). **Then, later still, verbatim *"Original seating as recommended"*:** the
+habitats and outer stations, one voting seat per settlement above the
+habitat threshold, appointed on the settlement's own terms, chair rotating
+by session, no seat for the SSDC, the Concord or a planetary government.
+Still his: the year the Federation's non-voting seat was first filled.
 
 ## ~~Sixty-Eight in a Hundred — slot, the Warden's POV, its restraint~~ — raised 29 September 2026, APPROVED same day
 
