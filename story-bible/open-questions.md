@@ -1337,6 +1337,20 @@ are the parts it could not decide.
 - **Should `validate-content.js` cover `src/audio/` and `src/video/`?** Images
   get unreferenced, duplicate-bytes and stale-slug checks; audio and video get
   none of the three. An orphan track is currently invisible to every gate.
+- ~~**The Told's theme label**~~ (raised 30 September 2026) — **ruled the
+  same day: *Cavern ambient*** (Dermot, verbatim *Cavern ambient for the
+  Told*). Registered in `lib/editions.js` with the file when the track is
+  generated, not before. **Still open: generating the track** — the brief is
+  in `music-prompts.md` and queued as `prompt-sheet.md` 2.8.
+- ~~**Does Young Star Rangers get a sibling track?**~~ (raised 30 September
+  2026) — **ruled the same day: keep sharing** (verbatim *keep sharing for
+  Young Star Rangers*). The sibling brief stays in `music-prompts.md` as a
+  record and is not queued.
+- **A recording of *Hymn of the Thin Places*** (raised 30 September 2026). Two
+  takes briefed, one printed verse each, because the entry says the refrain is
+  the only element every variant shares and no single master can exist; a take
+  singing both verses would manufacture the complete version the entry denies.
+  Draft-and-stop, as the anthems.
 
 ## Video — `video-prompts.md`
 
