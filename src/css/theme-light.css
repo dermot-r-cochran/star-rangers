@@ -689,6 +689,20 @@ a:focus {
 .pov-block--krenyi  { border-left-color: #a8710a; }
 .pov-block--thorn   { border-left-color: #b8402f; }
 
+/* The scene label in the chapter body: the same caption the scene-by-scene
+   list below the chapter uses, so a scene is named once in the prose and
+   once in the index in one voice. Visible since 2026-09-30 so a read-aloud
+   that speaks visible text only announces the boundary. */
+.scene__label {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: var(--spacing-xl) 0 var(--spacing-sm);
+}
+
 /* --- Chapter Body Prose --- */
 .chapter-body {
   max-width: var(--max-prose);

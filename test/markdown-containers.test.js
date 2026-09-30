@@ -148,9 +148,9 @@ test("a pov header carries the chapter's label from env.povs, and the aria-label
   assert.ok(html.includes('data-pov="aldera"'), "the id stays the machine key");
 });
 
-test("scene and pov boundaries are headings: a hidden h2 for the scene, h3 for a pov inside it, h2 for a pov with no scene", () => {
+test("scene and pov boundaries are headings: an h2 for the scene, h3 for a pov inside it, h2 for a pov with no scene", () => {
   const inScene = md.render(["::::: scene 2", "::: pov brin", "Text.", ":::", ":::::", ""].join("\n"));
-  assert.ok(inScene.includes('<h2 class="scene__label visually-hidden">Scene 2</h2>'));
+  assert.ok(inScene.includes('<h2 class="scene__label">Scene 2</h2>'));
   assert.ok(inScene.includes('<h3 class="pov-header__name">brin</h3>'));
   const noScene = md.render(["::: pov brin", "Text.", ":::", ""].join("\n"));
   assert.ok(noScene.includes('<h2 class="pov-header__name">brin</h2>'));
