@@ -6,7 +6,7 @@ irish_gloss: "the people's name, kept; Quiet-Built is na Ciúinthógtha"
 revealed_by: s01e01c01
 id: krenyi
 category: "Species"
-short: "Long-lived humanoids defined by clarity, coherence, and structural resistance to fear, fury, enslavement, mythification, and grief-predation — with an origin unrecorded by their own design. Also called 'Quiet-Built' or 'Nai'."
+short: "Long-lived humanoids defined by clarity, coherence, and a freedom that is structural rather than won — no mechanism in the cosmology can own or compel one — with the same built-in resistance to fear, fury, mythification and grief-predation, and an origin unrecorded by their own design. Also called 'Quiet-Built' or 'Nai'."
 related:
   - "Naiad"
   - "Obligers"
@@ -15,7 +15,7 @@ tags: [krenyi, species]
 
 **Krenyi** is the preferred species name for the beings also called the Quiet-Built or identified by the state-marker *Nai*. The formal term is used in cross-species contexts to prevent confusion with [Naiads](/star-rangers/glossary/naiad/), which are flow-anchored entities rather than persons.
 
-The Krenyi are long-lived, physically attractive by most humanoid standards, and structurally incapable of experiencing deep fear or fury. They are polyamorous but loyal, honest by disposition, and resistant to glamour, enslavement, and mythification.
+The Krenyi are long-lived, physically attractive by most humanoid standards, and structurally incapable of experiencing deep fear or fury. They are polyamorous but loyal, honest by disposition, and resistant to glamour and mythification. Their freedom is structural rather than defended: no physical, social or metaphysical mechanism exists in the cosmology by which a Krenyi could be owned or compelled, so their cooperation is only ever extended, never obtained.
 
 *"Nai"* as a state means "still relevant here." It is not a title. It is an acknowledgement of continued presence and engagement.
 

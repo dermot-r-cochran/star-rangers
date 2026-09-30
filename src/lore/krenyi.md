@@ -20,7 +20,7 @@ The Krenyi — also called the Quiet-Built, or known individually by the state-m
 - High female birthrate.
 - Cannot interbreed with humans or any other species.
 - Finely tuned sensitivity, reflexes and awareness — low-light acuity, motion caught at the edge of vision, balance and righting, and a reaction that closes before a human has finished registering that something happened. **There is no sensory organ to point at: the whole body is the instrument.** See the two sections below.
-- Unenslavable: no physical, social, or metaphysical mechanism for enslaving them exists within the story's cosmology.
+- Free by structure: no physical, social, or metaphysical mechanism exists within the story's cosmology by which a Krenyi could be owned or compelled. The older filings said *unenslavable*, which names the thing by its absence; the freedom is the fact.
 
 ## Emotional Range
 
