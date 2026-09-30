@@ -55,7 +55,7 @@ could pass as almost human, realized as a lore section and put back with four
 readings: strangest as the observer's experience; passing possible and never
 attempted; survey teaching training cadets on the nearest frame (new
 practice, one sentence, cut if unwanted); and no licence for a second
-near-human people. The same day's follow-up (the three-to-one ratio; attractive but unreadable) adds three more: the ratio holding across a lifetime as well as at birth; nothing asserted about its bearing on polyamory; unreadable as the human report about the channel, never about the feeling. Open until he confirms.
+near-human people. The same day's follow-up (the three-to-one ratio; attractive but unreadable) adds three more: the ratio holding across a lifetime as well as at birth; nothing asserted about its bearing on polyamory; unreadable as the human report about the channel, never about the feeling. The third direction (exceptional Rangers, low fertility, healing, rare and valued) adds four: fertility low over a lifetime; healing's limit, that nothing donated or grafted can help a Krenyi, a derived consequence; rare in the Corps with Syra as the case; valued in the Corps' only sense. Open until he confirms.
 
 ## A physics and cosmology skill — raised 28 September 2026, DEFERRED same day
 

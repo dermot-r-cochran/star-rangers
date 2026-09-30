@@ -16,6 +16,7 @@ The Krenyi — also called the Quiet-Built, or known individually by the state-m
 ## Physical and Social Characteristics
 
 - Long-lived: individual Krenyi may live for centuries without apparent degradation.
+- Rare: fertility far below the human rate, so a small people however long-lived; and in consequence exceptional Rangers who are seldom had. See [In the Corps](#in-the-corps-rare-and-valued).
 - Physically attractive by most humanoid standards, and to humans emotionally unreadable. See [Humans, and the Attachment That Does Not Form](#humans-and-the-attachment-that-does-not-form).
 - Females outnumber males about three to one, at birth and across a lifetime.
 - Cannot interbreed with humans or any other species.
@@ -142,6 +143,16 @@ The mechanism is the one that resists glamour generally. A threne's offer is [co
 A Krenyi asked about this gives the material answer — that a constraint was named and something was done about it — and declines the rest. It is read, invariably, as modesty. It is not modesty. It is the same refusal they make about a homeworld, and it has the same effect: it leaves a space where an explanation would sit, and other peoples have never once left such a space empty.
 
 The largest of those spaces is filed under a name the Quiet-Built did not choose and have never been asked about. See [Arilon](/star-rangers/lore/arilon/), where the [Fellowship of Light](/star-rangers/lore/fellowship-of-light/) records — without adopting it, and without any means of testing it — the reading that some of the pattern's accounts concern a people who look almost human and decline to say what they are.
+
+## In the Corps: Rare, and Valued
+
+**Krenyi make exceptional Star Rangers, and the record is exact about what the word claims.** It ranks nobody. [Minds are not ranked](/star-rangers/lore/what-the-record-refuses/), and a people's abilities do not rise together; what the record can state is what a sensorium makes cheap, dear or impossible, and Ranger work happens to be the work a Krenyi sensorium makes cheap. Boundary survey is reading a room precisely without moving much. Safety work is orienting without flinching when everyone else's instrument has gone loud. Liaison is saying the material thing and declining the rest. Every one of those is described elsewhere on this page as simply what the Quiet-Built are, and the Corps did not have to train it in. What it trains is the part they lack, which is the human social grammar a novel case defeats.
+
+**They are rare, and the rarity is arithmetic.** Krenyi fertility is far below the human rate, over a lifetime and not only a year, and a people that lives for centuries and replaces itself slowly is a small people however long it has existed. The three-to-one ratio sits inside that and does not change it. So there are few Krenyi anywhere, fewer in service, and a Krenyi officer is a rarity on any roster, which is the ordinary condition of [Syra's](/star-rangers/characters/syra/) career and not a distinction she has ever remarked on.
+
+**What they survive, they survive on their own.** The body that is the instrument is also robust, rarely sick, and quick to repair: the same immunity that takes foreign material apart keeps a wound clean, and a Krenyi heals fast and heals whole. The limit is the other face of the same fact. Nothing donated, grafted or transplanted persists in a Krenyi, so a Krenyi hurt past what their own body can repair cannot be helped by the means a human would be, and a medic who knows this knows the one thing that matters about treating one. Survival skill, on this page, means the sensitivity, the reflexes, the calm under a panic cascade and the healing together, and none of them is courage. There is nothing being mastered.
+
+**Highly valued, then, in the only sense the Corps has for the phrase**: a scarce competence is not wasted, and a posting that needs a Krenyi gets one when one can be had. The Krenyi meet being valued the way they meet everything else, which is the [mythification](#resistance-to-mythification) answer in a working register. A Corps that wanted the Quiet-Built rather than wanting the officer in front of it would get the material terms named and the exchange returned to them. Their service, like their cooperation, is extended and not obtained, and the Corps has never had to be told twice.
 
 ## The Present Tense, and What the Past Is For
 
