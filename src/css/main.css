@@ -649,12 +649,30 @@ a:focus {
   border-bottom: 1px solid var(--color-border);
 }
 .pov-header__name {
+  margin: 0;
   font-family: var(--font-ui);
   font-size: 0.85rem;
+  line-height: inherit;
   font-weight: 700;
   color: var(--color-accent);
   text-transform: uppercase;
   letter-spacing: 0.08em;
+}
+
+/* Text for assistive readers only: the scene label the chapter body never
+   showed visually, kept out of sight without leaving the accessibility tree
+   (display:none would). */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
 }
 .pov-header__label {
   font-family: var(--font-ui);
