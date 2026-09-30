@@ -81,6 +81,24 @@ Those are the throat machinery of the cyber-revenant portrait — they depict th
 dark fact rather than hinting at it. A held note that will not resolve is the
 approved version of the same instinct.
 
+### The rung's register (22 September 2026)
+
+Dermot named each reading tier's register on 22 September — *the child reader
+tier should be interesting and playful, the young adult tier should be more
+mysterious with a sense of exploration and adventure, the general tier should go
+deeper, and the contemplative tier is allowed to question everything* — and a
+theme track is the one place a tier's register is heard before it is read. So
+each edition brief below is checked against its rung as well as against the
+signature. Children (pets, the Told): interesting and playful, delight the
+measure — the hum stays but nothing in the track is sad. Young adult (Five-O,
+Young Star Rangers): mysterious, exploring — forward motion permitted, the
+mystery an invitation and never a weight. General (the default): deeper — the
+one theme that may carry the whole signature undiluted. Contemplative
+(Fellowship, Church Space): allowed to question — the held note that will not
+resolve is what a question left open sounds like, and it belongs at the top of
+the ladder more than anywhere else. The ladder's invariant holds in audio too:
+a higher rung's theme adds, and never contradicts, what a lower rung's said.
+
 ### The canon boundary
 
 **Music is illustrative; the prose is canon** — the same rule the images carry.
@@ -116,6 +134,20 @@ attributed to a named in-universe author, inside a codex entry — which makes t
   *their* absence, not the archive's, and declines to claim they have no forms of
   their own. A "Krenyi theme" would answer, in a footer player, the one question
   that entry deliberately leaves open. Don't.
+- **Anything the Corps commissioned** (added 30 September 2026, after the Music
+  Corps page landed on 28 September). `src/lore/star-rangers-music-corps.md`
+  says twice that the Corps commissions nothing and that the Music Corps has no
+  repertoire; the anthem is Slipwave's and the hymn is nobody's, and that is the
+  page's whole argument. So no *Star Rangers theme* in the sense of an official
+  march, no Music Corps fanfare, no commissioning music. A site theme is site
+  furniture and makes no such claim; a track *filed as the Corps' own* would.
+- **Speech the record holds only in translation** (same day). The Told's words,
+  the Ovruhn keeper's click-speech and the Spiralites' pulse-speech have no
+  recorded form — `src/glossary/the-told.md` says so outright, and the other two
+  pages render everything through the translation desk. A generated voice
+  *speaking* as any of them invents the one thing the record has declined to
+  invent. Their textures may be rendered (below, and labelled as renderings);
+  their speech may not.
 
 ---
 
@@ -337,13 +369,71 @@ is wrong everywhere else comes right, and that is the gag.
 
 Clever, not infantile — and the wobble comes right, which is the gag.
 
-### The Told — brief open (7 September 2026)
+### The Told — brief written 30 September 2026 (label still his)
 
-The children's tier's second door, `told.fianilchruinne.com`,
-ships with the Five-O "Sci-fi ambient" file for now: a cavern lit by fungus
-is closer to Threshold than to Eden's bureau, and the ukulele is the agency's.
-A brief of its own — warm, low, wet stone and a record kept by speaking —
-is still to write.
+The children's tier's second door, `told.fianilchruinne.com`, has shipped with
+the Five-O "Sci-fi ambient" file since 7 September, on the reasoning that a
+cavern lit by fungus is closer to Threshold than to Eden's bureau and the
+ukulele is the agency's. That was a placeholder and this is the brief.
+
+Everything in it comes from the five *Below the Roof* chapters. The people keep
+their whole record by saying it out loud, in the warm, and a telling gets
+*shorter the second time* when it is getting true. The up-people's survey relay
+is *the humming stone*, which the youngest carried through the squeeze against
+their chest and felt *in their teeth* — so the house hum here is not a station's
+structure heard through a wall but a small device asleep against a body, near
+and even and warm. The rung is the children's, and the thread's own comedy
+(nobody looked up) is gentle, so the register is playful and curious and never
+sad. And the people listen to the ground: the signature's late pulse is water,
+dripping a fraction behind where the ear expects it.
+
+| Field | |
+|---|---|
+| **Style** | cavern ambient, warm, low, wet-stone resonance, slow, gentle, curious |
+| **Mood** | warm, curious, safe, patient, a little funny |
+| **Instruments** | soft mallets on stone, low wooden flute, water drips, a small even hum close by |
+| **Production** | the hum small and near rather than vast, like a device asleep against a chest; drips land a fraction late; a short figure told twice and shorter the second time; damp close reverb, not a cathedral |
+| **Exclude** | ukulele, cartoon, nursery toy piano, horror cave drone, bat squeaks, choir, synth pad, sub-drop |
+| **Form** | instrumental, 90 s, seamless loop |
+
+Somewhere warm under a great deal of cold rock, and nothing in it is afraid.
+
+**The label is a decision, not a field.** `themeAudio.label` ships to the
+reader on the player, so a new track under the borrowed label *Sci-fi ambient*
+would be the half-overridden state `lib/editions.js` warns against. Three
+shapes, on the pattern the existing labels keep (a genre word and a texture
+word): **(a) *Cavern ambient*** — recommended, since it says what the reader
+will hear and sits beside *Celtic ambient* and *Sci-fi ambient* as a sibling;
+**(b) *Warm stone***, closer to the thread's own vocabulary and further from
+the pattern; **(c) keep sharing the Five-O file** and write nothing, which was
+the 7 September placeholder and is still a coherent choice while the thread has
+five chapters. Registering (a) or (b) is an edit to a live edition entry and
+waits for him.
+
+### Young Star Rangers — shares Five-O's track; a brief in case it should not
+
+`young.fianilchruinne.com` reuses `starquest-theme.wav` under the same label,
+as it reuses the starquest palette — a face of its own was deferred until the
+first chapter, and the first chapter now exists (*Nothing to Report*,
+S09E01C01). The kinship is real and worth keeping audible: Five-O picks the
+same Deputy up nine days later from the other side of the ring. So the choice
+is **(a) keep sharing**, nothing to do, the two young-adult doors sound like one
+family; or **(b) a sibling track under the same label** — same arpeggio family
+as Five-O, so a listener moving between them hears the kinship, but the
+procedural's tautness replaced by a first watch's curiosity. **(a) is the safe
+default and (b) is ready if he wants the door to sound like its own**; the
+label stays *Sci-fi ambient* either way, since the family test is the point.
+
+| Field | |
+|---|---|
+| **Style** | sci-fi ambient, minimal, slow arpeggio, watch-keeping, spacious, mysterious |
+| **Mood** | curious, alert, unproven, quietly expectant |
+| **Instruments** | analogue arpeggio, soft electric piano, low sustained pad, one distant ping at long intervals |
+| **Production** | the same arpeggio family as the Five-O theme but slower and an octave up, a chord that keeps almost resolving, the ping never on the beat, a ring station's hum underneath |
+| **Exclude** | brass, drum groove, tension stinger, hero theme, orchestral hit, alarm |
+| **Form** | instrumental, 90 s, seamless loop |
+
+A hatch on Eden's ring that nobody looks at, and someone looking at it.
 
 ### Church Space — "Ambient drone"
 
@@ -483,6 +573,71 @@ losing the wobble is what that sounds like. Two musicians who have spent decades
 playing memorials and musters, recorded properly for the first time, and
 something has gone out of it that nobody involved would have named.
 
+### *Hymn of the Thin Places* — added 30 September 2026
+
+`src/codex/hymn-of-the-thin-places.md` — lyrics published, **no recording
+exists, and the entry says no single archival master can.** Two things in it
+decide the brief. The refrain is *"the one element every recorded variant holds
+in common, word for word"*; the verses *"vary slightly by chapter and by
+world"*, and the entry prints two — one as sung at the Threshold Station
+memorial in 2830, one as sung at Cadet commissionings on Eden. And it is
+*deliberately singable by a room that does not share one theology*: no organ,
+no chapter's acoustics, nothing that makes it one tradition's. So, like the
+anthem, there are legitimately **two takes, and each sings one verse.** A take
+that sings both verses as a single song has manufactured the complete version
+the entry says does not exist.
+
+**Take A — the Threshold memorial, 2830.** A room of Rangers, not a choir.
+
+| Field | |
+|---|---|
+| **Style** | unaccompanied congregational singing, memorial, slow, field recording |
+| **Mood** | grave, steady, shared, unshowy |
+| **Instruments** | one plain voice on the verse, a room of mixed untrained voices on the refrain, no instruments |
+| **Production** | the verse carried by one voice and the refrain taken up by everyone, louder and surer than the verse; a large hard-walled station room, station hum audible in the gap before the refrain; slight drift on held notes; recorded from inside the room |
+| **Exclude** | organ, choir arrangement, harmony parts, plainchant, church acoustics, soloist vibrato, applause, reverb wash |
+| **Form** | vocal, the Threshold verse and the refrain as published, nothing else |
+
+**Take B — a Cadet commissioning, Eden.** The Eden verse; a brighter room,
+younger voices, more of them, the refrain identical to the note.
+
+| Field | |
+|---|---|
+| **Style** | as Take A |
+| **Mood** | steady, expectant, plain, collective |
+| **Instruments** | as Take A; a larger and younger room |
+| **Production** | as Take A; a hall rather than a station room, less hum, the refrain taken up faster because this room has sung it before |
+| **Exclude** | as Take A, plus fanfare, drums, anything that makes it a ceremony's music rather than a room's |
+| **Form** | vocal, the Eden verse and the refrain as published, nothing else |
+
+The refrain has to sit in a range a room of non-singers can hold, for the same
+in-world reason as the anthem's chorus, and here it is doubly the case: *"the
+thin place doesn't ask what you believe"* is the line that lets a mixed room
+sing at all, and a soaring setting would be a chapter's claim on it. Draft and
+stop, as the other recordings.
+
+### *Baby Universe* — Take B, the ferry slip
+
+`src/codex/two-in-the-one-currach.md` adds a second way the ballad travels:
+*"A boatman had it at the ferry slip, half under his breath, the way that song
+is everywhere carried — not performed, exactly; kept lit."* Winter, a river, a
+man who is not singing to anyone. Everything the main brief says about the
+pronoun shift stands; here the shift is simpler to hold, because only the
+chorus is fully voiced at all.
+
+| Field | |
+|---|---|
+| **Style** | half-hummed, half-sung, unaccompanied, outdoor field recording, fragment |
+| **Mood** | private, absent-minded, tender, cold |
+| **Instruments** | one voice half under the breath; river, wind on water, rope, a boat against a slip |
+| **Production** | recorded at a distance and not for recording; verses mostly hummed with a word surfacing here and there, the chorus the only part fully voiced and still quiet; no reverb, winter air |
+| **Exclude** | performance, band, reverb, harmony, studio vocal, a listener |
+| **Form** | vocal fragment, under a minute; every audible word verbatim from the published lyric |
+
+Words that surface are the entry's; a generator that supplies its own where the
+humming should be has written a verse, and that is the codex's job, not the
+track's.
+
 ---
 
 ## Textures, not themes
@@ -511,6 +666,80 @@ same as a piece of music. And a human-audible rendering is **a translation and
 should be labelled as one** if it is ever published, on the same footing as any
 other adaptation in the record: attributed, dated, and never mistaken for the
 thing itself.
+
+### An Ovruhn recital — added 30 September 2026
+
+`src/lore/ovruhn.md` and `src/codex/the-two-songs-of-the-loud-people.md`
+establish chorus-keeping: the keeper speaks, the chorus confirms, corrects or
+withholds, and *the account is whatever survives the room*; beneath it the
+under-song, infrasound that *carries for tens of kilometres* through dense air
+and bedrock; and, once in the keeping, a passage the chorus confirms *in full
+unison*, which the translation desk notes is rare.
+
+| Field | |
+|---|---|
+| **Style** | call and confirm, click rhythm, low chorus swell, infrasonic drone brought into hearing, unmetered, no melody |
+| **Mood** | patient, fair, immense, faintly amused |
+| **Instruments** | layered clicks (wood, tongue, stone), many low bowed voices moving as one, a felt sub tone; nothing plucked, no words |
+| **Production** | one line of clicks answered by a broad low swell, the swell sometimes withheld; one passage where every low voice moves together; dense humid air, long low reverb as if through rock |
+| **Exclude** | whale song, dolphin, throat singing, human voices with words, melody, horror drone, sub-drop |
+| **Form** | instrumental, long, no development |
+
+Three limits. **No words** — the keeper's speech exists only as the desk's
+rendering (see *Where a track may not be generated*). The under-song is *felt
+rather than heard by most species*, so an audible rendering is a translation
+and is labelled as one, exactly as the Undersong above. And the shared negative's
+*no whale song* is the prohibition most at risk here, because it is the
+generator's first guess for a large body's low voice; re-roll rather than accept
+it.
+
+### The Sentinel signal — scene material, never the page's
+
+`src/lore/planets/sentinel.md` and S03E01C01 give the record's whole
+description: *a pulse under the pulse, a phrase that returned eleven seconds
+later almost the same and not quite, the way a chorus comes back changed by
+whatever happened in the verse*; consistent periodicity; drift to catalogue.
+And the page's point is what it does **not** say: *musical structure is not
+proof of intelligence behind it*, origin, intent and mechanism undetermined.
+
+| Field | |
+|---|---|
+| **Style** | electromagnetic signal rendered as audio, pulse train, a phrase that returns changed, sparse, dry |
+| **Mood** | patient, unfiled, quietly wrong |
+| **Instruments** | one filtered pulse, a second slower pulse beneath it, nothing recognisable as an instrument or a voice |
+| **Production** | an eleven-second cycle, each return almost the same and not quite; a slow drift across the whole; no reverb, direct to a headset, telemetry noise floor audible |
+| **Exclude** | melody, synth lead, voice, morse code, sci-fi bleeps, alarm, theremin, whale song |
+| **Form** | instrumental, 60–90 s; may loop, since the return is the point |
+
+**Limit: this may score a scene or a reading of the Season 3 chapter and may
+never be embedded on the Sentinel page or in the chapter as *the signal*.** A
+track in the record would settle in a footer what the Survey Corps has not
+settled in three centuries, and anything that sounds like an instrument or a
+voice answers a question the page keeps open. The eleven seconds are the
+entry's; keep them.
+
+### The Carillon — the hum that names itself carefully
+
+`src/lore/planets/corryn.md`: the gas giant's rings *emit a constant
+low-frequency hum … that periodically resolves into complex recurring
+patterns*; the name is chosen because *a carillon is a set of tuned bells, and
+naming one says the sound has a pattern without claiming anyone is ringing it*;
+and its apparent sentience *is a live question and stays one*.
+
+| Field | |
+|---|---|
+| **Style** | planetary drone, low-frequency hum, slow recurring pattern, vast, unmetered |
+| **Mood** | immense, indifferent, patterned, unresolved |
+| **Instruments** | a low hum whose partials briefly align into a pattern and slide apart; no bells |
+| **Production** | long stretches of plain hum, then a pattern resolving out of it and dissolving back; the pattern recurs but never in the same place; slow electrical crackle at the edges |
+| **Exclude** | bells, chimes, carillon, church bells, voice, melody, sub-drop as threat, anything that addresses the listener |
+| **Form** | instrumental, long |
+
+**Bells are the name, not the sound** — a track with a bell in it has taken the
+metaphor literally and made the claim the page refuses. And the page's last
+section, the *sense of address* some people in the system report, belongs to
+those people and *says nothing about the Carillon*: nothing in this track
+turns toward the listener. That is the horror line in its Corryn form.
 
 ### Slipwave's cross-species arrangements — not yet
 
@@ -812,9 +1041,9 @@ Mirrored into [`open-questions.md`](open-questions.md).
 1. **Do the four existing themes get regenerated?** Their prompts are gone, so
    any regeneration is a new track rather than a recovery — a change to four
    live domains' front-of-house, not maintenance.
-2. **Does Church Space get its own theme?** It currently plays the default
-   Celtic ambient. Falling through may well be right; it has just never been
-   decided.
+2. ~~**Does Church Space get its own theme?**~~ Ruled 20 August 2026: yes,
+   *Rotational Hum*, registered as "Ambient drone" — see the edition's entry
+   above.
 3. **WAV → m4a/mp3 for the four themes.** Mechanical, saves ~20 MB of repo and
    bandwidth, touches live domains.
 4. **Recordings for the two unrecorded anthems.** *Half-Light Causeway* and
@@ -824,3 +1053,10 @@ Mirrored into [`open-questions.md`](open-questions.md).
    unreferenced check over `src/audio/` and `src/video/` in
    `validate-content.js` is a small script change and would close a gap that is
    currently covered by nothing at all.
+6. **The Told's theme label** (30 September 2026). The brief is written; the
+   label is a live edition entry and three shapes are put above, *Cavern
+   ambient* recommended.
+7. **Does Young Star Rangers get a sibling track?** (30 September 2026.) Keep
+   sharing Five-O's file, or the ready sibling brief under the same label.
+8. **A recording of *Hymn of the Thin Places*** (30 September 2026). Two takes
+   briefed, one verse each; draft-and-stop like the anthems.

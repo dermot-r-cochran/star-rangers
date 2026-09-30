@@ -1319,6 +1319,20 @@ are the parts it could not decide.
 - **Should `validate-content.js` cover `src/audio/` and `src/video/`?** Images
   get unreferenced, duplicate-bytes and stale-slug checks; audio and video get
   none of the three. An orphan track is currently invisible to every gate.
+- **The Told's theme label** (raised 30 September 2026). The edition has
+  played Five-O's file as a placeholder since 7 September; the brief is now
+  written in `music-prompts.md`. Three shapes: *Cavern ambient* (recommended,
+  a sibling of the existing genre-word labels), *Warm stone*, or keep sharing.
+  The label is a live edition entry in `lib/editions.js`, so it waits for him.
+- **Does Young Star Rangers get a sibling track?** (raised 30 September 2026).
+  It shares Five-O's file and label, which keeps the two young-adult doors one
+  family. Keep sharing (the safe default) or the ready sibling brief under the
+  same label.
+- **A recording of *Hymn of the Thin Places*** (raised 30 September 2026). Two
+  takes briefed, one printed verse each, because the entry says the refrain is
+  the only element every variant shares and no single master can exist; a take
+  singing both verses would manufacture the complete version the entry denies.
+  Draft-and-stop, as the anthems.
 
 ## Video — `video-prompts.md`
 

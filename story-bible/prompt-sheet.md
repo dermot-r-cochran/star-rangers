@@ -337,10 +337,36 @@ skirt, gaze to camera, beauty lighting, text, lettering, watermark.
 coloured insert" with "a single plain horizontal bar, with a narrow
 slate-blue insert" and "early thirties" with "early twenties".
 
+### 2.8 The Told — theme (queued 30 September 2026)
+
+The children's second door has played Five-O's track since 7 September as a
+placeholder. Full brief, reasoning and the label choice (*Cavern ambient*
+recommended, his to register) in `music-prompts.md` under *The Told*. One-box
+paste, in field order:
+
+> cavern ambient, warm, low, wet-stone resonance, slow, gentle, curious, warm,
+> curious, safe, patient, a little funny, soft mallets on stone, low wooden
+> flute, water drips, a small even hum close by, the hum small and near like a
+> device asleep against a chest, drips landing a fraction late, a short figure
+> told twice and shorter the second time, damp close reverb
+
+**Exclude:** ukulele, cartoon, nursery toy piano, horror cave drone, bat
+squeaks, choir, synth pad, sub-drop. **Form:** instrumental, 90 s, seamless
+loop, m4a, around −18 LUFS.
+
 ### Conditional
 
-- **A Church Space theme.** Only if the fall-through to Celtic ambient is judged
-  an omission rather than a decision. Brief in `music-prompts.md`.
+- ~~**A Church Space theme.**~~ Ruled 20 August 2026: *Rotational Hum*,
+  registered as "Ambient drone".
+- **A Young Star Rangers sibling track.** Only if the door should sound like
+  its own rather than Five-O's family; brief ready in `music-prompts.md`, same
+  label either way.
+- ***Hymn of the Thin Places*, two takes**, and ***Baby Universe* at the ferry
+  slip.** Recordings attached to codex entries are draft-and-stop; briefs in
+  `music-prompts.md`.
+- **Three textures** — an Ovruhn recital, the Sentinel signal, the Carillon —
+  for a scene or a reading, never a page. The Sentinel one may never be
+  embedded as *the signal*; briefs and limits in `music-prompts.md`.
 - **The four edition themes.** They work. Regenerating is a change to four live
   domains and there is no prompt to regenerate *from*, so it produces new tracks
   rather than better versions of these.
