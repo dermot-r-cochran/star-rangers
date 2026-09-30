@@ -31,7 +31,7 @@ test("a scene wrapper survives nested pov blocks (the fence-length rule)", () =>
     ].join("\n")
   );
 
-  assert.ok(html.includes('<section class="scene" data-scene="1">'));
+  assert.ok(html.includes('<section class="scene" data-scene="1" aria-label="Scene 1">'));
   assert.equal(count(html, 'class="pov-block"'), 2);
   // The nested ::: closes only its own pov block: both povs render INSIDE
   // the scene, so the output ends pov-close then scene-close. If the
@@ -45,7 +45,7 @@ test("a pov block carries its id in data-pov, aria-label and the header", () => 
   const html = md.render("::: pov aldera\nHer view.\n:::\n");
   assert.ok(html.includes('data-pov="aldera"'));
   assert.ok(html.includes('aria-label="POV: aldera"'));
-  assert.ok(html.includes('<span class="pov-header__name">aldera</span>'));
+  assert.ok(html.includes('class="pov-header__name">aldera</h'));
 });
 
 test("pov blocks render standalone when a chapter has no scene wrapper", () => {
@@ -134,3 +134,26 @@ test("parsePovInfo and povTierVisible are the shared predicate", () => {
   assert.equal(povTierVisible("contemplative", undefined), false);
   assert.equal(povTierVisible("general", undefined), true);
 });
+
+// Since 2026-09-30 the header carries the chapter's own label when Eleventy
+// hands the renderer the page data as env, and headings mark both scene and
+// pov boundaries for readers that navigate or listen by them. Pinned because
+// the label and the heading levels are what a screen reader or an OS
+// read-aloud actually says at a boundary, and nothing else checks them.
+test("a pov header carries the chapter's label from env.povs, and the aria-label follows it", () => {
+  const env = { povs: [{ id: "Aldera", label: "Aldera Vane (Human)" }] };
+  const html = md.render(["::: pov aldera", "Text.", ":::", ""].join("\n"), env);
+  assert.ok(html.includes('aria-label="POV: Aldera Vane (Human)"'));
+  assert.ok(html.includes('class="pov-header__name">Aldera Vane (Human)</h'));
+  assert.ok(html.includes('data-pov="aldera"'), "the id stays the machine key");
+});
+
+test("scene and pov boundaries are headings: an h2 for the scene, h3 for a pov inside it, h2 for a pov with no scene", () => {
+  const inScene = md.render(["::::: scene 2", "::: pov brin", "Text.", ":::", ":::::", ""].join("\n"));
+  assert.ok(inScene.includes('<h2 class="scene__label">Scene 2</h2>'));
+  assert.ok(inScene.includes('<h3 class="pov-header__name">brin</h3>'));
+  const noScene = md.render(["::: pov brin", "Text.", ":::", ""].join("\n"));
+  assert.ok(noScene.includes('<h2 class="pov-header__name">brin</h2>'));
+  assert.ok(!noScene.includes("scene__label"));
+});
+
