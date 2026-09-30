@@ -47,7 +47,7 @@ Warden stays without a POV block (as drafted, against a Ward block or a
 contemplative-tier one); and whether the Warden answers and does not urge the
 children's row (as drafted, against a notice posted to the row itself).
 
-## The Krenyi as the strangest people — raised 30 September 2026
+## The Krenyi as the strangest people — raised 30 September 2026, RULED same day
 
 `intake-2026-09-30.md`, last section. Dermot's direction that the Krenyi are
 the strangest non-human people because they look superficially humanoid and
@@ -55,7 +55,7 @@ could pass as almost human, realized as a lore section and put back with four
 readings: strangest as the observer's experience; passing possible and never
 attempted; survey teaching training cadets on the nearest frame (new
 practice, one sentence, cut if unwanted); and no licence for a second
-near-human people. The same day's follow-up (the three-to-one ratio; attractive but unreadable) adds three more: the ratio holding across a lifetime as well as at birth; nothing asserted about its bearing on polyamory; unreadable as the human report about the channel, never about the feeling. The third direction (exceptional Rangers, low fertility, healing, rare and valued) adds four: a lower, slower birth rate (his correction the same day, *rather than infertility*, applied); healing's limit, that nothing donated or grafted can help a Krenyi, a derived consequence; rare in the Corps with Syra as the case; valued in the Corps' only sense. Open until he confirms.
+near-human people. The same day's follow-up (the three-to-one ratio; attractive but unreadable) adds three more: the ratio holding across a lifetime as well as at birth; nothing asserted about its bearing on polyamory; unreadable as the human report about the channel, never about the feeling. The third direction (exceptional Rangers, low fertility, healing, rare and valued) adds four: a lower, slower birth rate (his correction the same day, *rather than infertility*, applied); healing's limit, that nothing donated or grafted can help a Krenyi, a derived consequence; rare in the Corps with Syra as the case; valued in the Corps' only sense. **Ruled by Dermot the same day, verbatim *Approved*:** all readings confirmed as drafted, with *lower slower birth rate rather than infertility* applied first; PR #899.
 
 ## A physics and cosmology skill — raised 28 September 2026, DEFERRED same day
 
