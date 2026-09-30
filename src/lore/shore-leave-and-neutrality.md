@@ -55,6 +55,7 @@ So the Rangers issue guidance rather than prohibition, and the officer carries t
 ## See also
 
 - [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/) — the charter constraints and who forced them in
+- [The Oversight Council](/star-rangers/lore/the-oversight-council/) — the body the Corps answers to, and why recognition made its neutrality reach past the system that wrote it
 - [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/) — the confederation supplying the largest share of extra-Concord officers
 - [The Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/) — the withdrawn invitation, and the limit holding
 - [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) — where a specialist officer's independence begins and ends

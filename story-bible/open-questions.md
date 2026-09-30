@@ -35,6 +35,32 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The Oversight Council — its composition, and its standing beyond the Solar System — raised 30 September 2026, RULED same day, APPROVED same day
+
+`intake-2026-09-30.md`, last section. Dermot asked what the Civilian
+Oversight Council is and how it is elected or composed, then what holds the
+Corps to account in the rest of the galaxy. The record establishes what the
+Council is and does (the charter's sole civilian accountability, holding
+the Triumvirate to answer, unable to defund the Corps; the Dock Seven
+citation, inquiry and funeral) and that outside the Solar System the Corps
+is *recognised* rather than overseen, with each polity free to expel an
+individual Ranger. It never names the Council's seats, term, electorate or
+appointing authority, and never says whether any polity beyond the Solar
+System has ratified or acknowledged the charter. Three shapes put for each;
+recommended (b) seated by the habitats and outer stations that forced the
+jurisdiction clause in, and (1) purely Solar System with recognition the
+whole of the wider relationship. **His answer the same day, verbatim *"Not
+sure"*:** open, a marked absence, nothing asserted. **Then, later the same
+day, on the observation that the Corps is *neutral and independent rather
+than human-centric*, ruled verbatim *"Option 2 but it gradually evolves
+towards Option 3"*:** the mechanism written into lore and the Council
+drifting toward being seated by the recognising polities, realized as
+`src/lore/the-oversight-council.md` (intake, last section). **Then, later still, verbatim *"Original seating as recommended"*:** the
+habitats and outer stations, one voting seat per settlement above the
+habitat threshold, appointed on the settlement's own terms, chair rotating
+by session, no seat for the SSDC, the Concord or a planetary government.
+**Ruled by Dermot the same day, verbatim *Approved*:** all readings as drafted; PR #903. The year the Federation's non-voting seat was first filled stays a marked absence on the page.
+
 ## ~~Sixty-Eight in a Hundred — slot, the Warden's POV, its restraint~~ — raised 29 September 2026, APPROVED same day
 
 **Closed** by his *Approved*: all three readings stand as drafted.

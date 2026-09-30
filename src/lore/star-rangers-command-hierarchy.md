@@ -20,7 +20,7 @@ The upper ranks — Starwarden and above — read like a navy because their inst
 
 **Chief is the hinge.** It is the top of the certification ladder and the entry point into eligibility for a command posting — which is also why, depending on specialization and context, a Chief can be addressed by a working title that reads more like the naval half of the ladder than the civil-service half. See below.
 
-The charter's independence clause governs none of this. See [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/). It says the Corps answers to the civilian Oversight Council and no external command chain — nothing about how the Corps organises itself internally. Nobody outside the Corps outranks a Ranger's captain. That is the entire point.
+The charter's independence clause governs none of this. See [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/). It says the Corps answers to the civilian [Oversight Council](/star-rangers/lore/the-oversight-council/) and no external command chain — nothing about how the Corps organises itself internally. Nobody outside the Corps outranks a Ranger's captain. That is the entire point.
 
 ## The Ladder
 
