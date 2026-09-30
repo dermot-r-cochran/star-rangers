@@ -47,6 +47,14 @@ Warden stays without a POV block (as drafted, against a Ward block or a
 contemplative-tier one); and whether the Warden answers and does not urge the
 children's row (as drafted, against a notice posted to the row itself).
 
+## Toval, Syra's trainee — raised 30 September 2026
+
+`intake-2026-09-30.md`, last section. Drafted at Dermot's ask as
+`src/characters/toval.md`; five readings put: the name (Toval recommended;
+Ilen, Vesh offered), his age (under sixty, cut to *young* if unwanted), the
+intake route, naming him once in the chapter, and counting his log as a
+third instrument-side account. No portrait yet. Open until he confirms.
+
 ## The Krenyi as the strangest people — raised 30 September 2026, RULED same day
 
 `intake-2026-09-30.md`, last section. Dermot's direction that the Krenyi are
