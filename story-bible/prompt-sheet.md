@@ -340,9 +340,9 @@ slate-blue insert" and "early thirties" with "early twenties".
 ### 2.8 The Told — theme (queued 30 September 2026)
 
 The children's second door has played Five-O's track since 7 September as a
-placeholder. Full brief, reasoning and the label choice (*Cavern ambient*
-recommended, his to register) in `music-prompts.md` under *The Told*. One-box
-paste, in field order:
+placeholder. Full brief and reasoning in `music-prompts.md` under *The Told*;
+the label is **ruled *Cavern ambient*** (30 September 2026) and goes into
+`lib/editions.js` together with the file. One-box paste, in field order:
 
 > cavern ambient, warm, low, wet-stone resonance, slow, gentle, curious, warm,
 > curious, safe, patient, a little funny, soft mallets on stone, low wooden
@@ -358,9 +358,8 @@ loop, m4a, around −18 LUFS.
 
 - ~~**A Church Space theme.**~~ Ruled 20 August 2026: *Rotational Hum*,
   registered as "Ambient drone".
-- **A Young Star Rangers sibling track.** Only if the door should sound like
-  its own rather than Five-O's family; brief ready in `music-prompts.md`, same
-  label either way.
+- ~~**A Young Star Rangers sibling track.**~~ Ruled 30 September 2026: keep
+  sharing Five-O's file. Not queued.
 - ***Hymn of the Thin Places*, two takes**, and ***Baby Universe* at the ferry
   slip.** Recordings attached to codex entries are draft-and-stop; briefs in
   `music-prompts.md`.

@@ -369,7 +369,7 @@ is wrong everywhere else comes right, and that is the gag.
 
 Clever, not infantile — and the wobble comes right, which is the gag.
 
-### The Told — brief written 30 September 2026 (label still his)
+### The Told — brief written 30 September 2026; label ruled *Cavern ambient* the same day
 
 The children's tier's second door, `told.fianilchruinne.com`, has shipped with
 the Five-O "Sci-fi ambient" file since 7 September, on the reasoning that a
@@ -398,31 +398,25 @@ dripping a fraction behind where the ear expects it.
 
 Somewhere warm under a great deal of cold rock, and nothing in it is afraid.
 
-**The label is a decision, not a field.** `themeAudio.label` ships to the
-reader on the player, so a new track under the borrowed label *Sci-fi ambient*
-would be the half-overridden state `lib/editions.js` warns against. Three
-shapes, on the pattern the existing labels keep (a genre word and a texture
-word): **(a) *Cavern ambient*** — recommended, since it says what the reader
-will hear and sits beside *Celtic ambient* and *Sci-fi ambient* as a sibling;
-**(b) *Warm stone***, closer to the thread's own vocabulary and further from
-the pattern; **(c) keep sharing the Five-O file** and write nothing, which was
-the 7 September placeholder and is still a coherent choice while the thread has
-five chapters. Registering (a) or (b) is an edit to a live edition entry and
-waits for him.
+**The label is *Cavern ambient*** — Dermot's ruling, 30 September 2026,
+verbatim *Cavern ambient for the Told*, from three shapes put (*Cavern
+ambient*, *Warm stone*, keep sharing). `themeAudio.label` ships to the reader
+on the player, so the label goes into `lib/editions.js` **with the file and not
+before**: a new label over the borrowed Five-O file is the half-overridden
+player the registry warns against, in reverse. Until the track is generated
+and filed the edition keeps *Sci-fi ambient* / `starquest-theme.wav`, and the
+entry's own comment says what it is waiting for.
 
-### Young Star Rangers — shares Five-O's track; a brief in case it should not
+### Young Star Rangers — keeps sharing Five-O's track (ruled 30 September 2026)
 
 `young.fianilchruinne.com` reuses `starquest-theme.wav` under the same label,
-as it reuses the starquest palette — a face of its own was deferred until the
-first chapter, and the first chapter now exists (*Nothing to Report*,
-S09E01C01). The kinship is real and worth keeping audible: Five-O picks the
-same Deputy up nine days later from the other side of the ring. So the choice
-is **(a) keep sharing**, nothing to do, the two young-adult doors sound like one
-family; or **(b) a sibling track under the same label** — same arpeggio family
-as Five-O, so a listener moving between them hears the kinship, but the
-procedural's tautness replaced by a first watch's curiosity. **(a) is the safe
-default and (b) is ready if he wants the door to sound like its own**; the
-label stays *Sci-fi ambient* either way, since the family test is the point.
+as it reuses the starquest palette. The kinship is real and worth keeping
+audible: Five-O picks the same Deputy up nine days later from the other side
+of the ring. Two shapes were put — keep sharing, or a sibling track under the
+same label — and **Dermot ruled *keep sharing for Young Star Rangers*** the
+same day. Nothing to do; the two young-adult doors sound like one family. The
+sibling brief stays below as a record of what was offered, and is **not
+queued**.
 
 | Field | |
 |---|---|
@@ -1053,10 +1047,10 @@ Mirrored into [`open-questions.md`](open-questions.md).
    unreferenced check over `src/audio/` and `src/video/` in
    `validate-content.js` is a small script change and would close a gap that is
    currently covered by nothing at all.
-6. **The Told's theme label** (30 September 2026). The brief is written; the
-   label is a live edition entry and three shapes are put above, *Cavern
-   ambient* recommended.
-7. **Does Young Star Rangers get a sibling track?** (30 September 2026.) Keep
-   sharing Five-O's file, or the ready sibling brief under the same label.
+6. ~~**The Told's theme label**~~ Ruled 30 September 2026: *Cavern ambient*,
+   registered with the file when the track exists. What stays open is
+   generating the track.
+7. ~~**Does Young Star Rangers get a sibling track?**~~ Ruled 30 September
+   2026: keep sharing.
 8. **A recording of *Hymn of the Thin Places*** (30 September 2026). Two takes
    briefed, one verse each; draft-and-stop like the anthems.

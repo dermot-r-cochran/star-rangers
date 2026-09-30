@@ -47,6 +47,24 @@ Warden stays without a POV block (as drafted, against a Ward block or a
 contemplative-tier one); and whether the Warden answers and does not urge the
 children's row (as drafted, against a notice posted to the row itself).
 
+## Toval, Syra's trainee — raised 30 September 2026, RULED same day
+
+`intake-2026-09-30.md`, last section. Drafted at Dermot's ask as
+`src/characters/toval.md`; five readings put: the name (Toval recommended;
+Ilen, Vesh offered), his age (under sixty, cut to *young* if unwanted), the
+intake route, naming him once in the chapter, and counting his log as a
+third instrument-side account. No portrait yet. **Ruled by Dermot the same day, verbatim *Approved*:** all five as drafted; PR #900.
+
+## The Krenyi as the strangest people — raised 30 September 2026, RULED same day
+
+`intake-2026-09-30.md`, last section. Dermot's direction that the Krenyi are
+the strangest non-human people because they look superficially humanoid and
+could pass as almost human, realized as a lore section and put back with four
+readings: strangest as the observer's experience; passing possible and never
+attempted; survey teaching training cadets on the nearest frame (new
+practice, one sentence, cut if unwanted); and no licence for a second
+near-human people. The same day's follow-up (the three-to-one ratio; attractive but unreadable) adds three more: the ratio holding across a lifetime as well as at birth; nothing asserted about its bearing on polyamory; unreadable as the human report about the channel, never about the feeling. The third direction (exceptional Rangers, low fertility, healing, rare and valued) adds four: a lower, slower birth rate (his correction the same day, *rather than infertility*, applied); healing's limit, that nothing donated or grafted can help a Krenyi, a derived consequence; rare in the Corps with Syra as the case; valued in the Corps' only sense. **Ruled by Dermot the same day, verbatim *Approved*:** all readings confirmed as drafted, with *lower slower birth rate rather than infertility* applied first; PR #899.
+
 ## A physics and cosmology skill — raised 28 September 2026, DEFERRED same day
 
 `intake-2026-09-28.md`, last section. Dermot asked whether the context needs a
@@ -1319,15 +1337,15 @@ are the parts it could not decide.
 - **Should `validate-content.js` cover `src/audio/` and `src/video/`?** Images
   get unreferenced, duplicate-bytes and stale-slug checks; audio and video get
   none of the three. An orphan track is currently invisible to every gate.
-- **The Told's theme label** (raised 30 September 2026). The edition has
-  played Five-O's file as a placeholder since 7 September; the brief is now
-  written in `music-prompts.md`. Three shapes: *Cavern ambient* (recommended,
-  a sibling of the existing genre-word labels), *Warm stone*, or keep sharing.
-  The label is a live edition entry in `lib/editions.js`, so it waits for him.
-- **Does Young Star Rangers get a sibling track?** (raised 30 September 2026).
-  It shares Five-O's file and label, which keeps the two young-adult doors one
-  family. Keep sharing (the safe default) or the ready sibling brief under the
-  same label.
+- ~~**The Told's theme label**~~ (raised 30 September 2026) — **ruled the
+  same day: *Cavern ambient*** (Dermot, verbatim *Cavern ambient for the
+  Told*). Registered in `lib/editions.js` with the file when the track is
+  generated, not before. **Still open: generating the track** — the brief is
+  in `music-prompts.md` and queued as `prompt-sheet.md` 2.8.
+- ~~**Does Young Star Rangers get a sibling track?**~~ (raised 30 September
+  2026) — **ruled the same day: keep sharing** (verbatim *keep sharing for
+  Young Star Rangers*). The sibling brief stays in `music-prompts.md` as a
+  record and is not queued.
 - **A recording of *Hymn of the Thin Places*** (raised 30 September 2026). Two
   takes briefed, one printed verse each, because the entry says the refrain is
   the only element every variant shares and no single master can exist; a take
