@@ -22,6 +22,14 @@ The Krenyi — also called the Quiet-Built, or known individually by the state-m
 - Finely tuned sensitivity, reflexes and awareness — low-light acuity, motion caught at the edge of vision, balance and righting, and a reaction that closes before a human has finished registering that something happened. **There is no sensory organ to point at: the whole body is the instrument.** See the two sections below.
 - Free by structure: no physical, social, or metaphysical mechanism exists within the story's cosmology by which a Krenyi could be owned or compelled. The older filings said *unenslavable*, which names the thing by its absence; the freedom is the fact.
 
+## The Nearest Frame Is the Strangest
+
+The Krenyi are the only other people the record holds built on the human frame, and it is the frame, not anything under it, that makes them the strangest people in it. A Chthonari or a Veyr announces its difference before a word is exchanged, and a human meeting one has nothing to correct: the mind expects nothing and is not wrong. A Krenyi is met as a person of a familiar kind, and every difference then arrives as a correction to something the observer had already assumed. Two arms, a face, an upright gait, and a stillness that is not composure; a gaze that reads the room and is not afraid of it; an age that will not resolve; a body that is the instrument and has no organ to show for it; blood that would kill the one it was meant to save. Nothing in the list is hidden. All of it is missed at first, because the frame says there is nothing to look for.
+
+**A Krenyi could pass as almost human to a low-context observer, and does not try to.** The passing fails on time rather than on inspection: within an hour the stillness has registered, within a year the age has, and nothing in the exchange was ever a claim. The Quiet-Built use no social deception, and *what are you, really* gets the material answer and declines the rest, which is not the same as pretending. They are the people most easily mistaken for human and the furthest from it beneath the frame, and the mistake is the observer's every time.
+
+Survey teaching puts it the other way round from how a first-year expects. The peoples furthest from the human frame are the easiest to meet correctly, because nothing in the meeting is assumed; the one nearest it is the one a cadet is trained on, not for any hazard the Krenyi present but for the assumptions the frame invites. The resemblance is superficial and complete at once, and the record keeps both halves of that sentence.
+
 ## Emotional Range
 
 To human observers, Krenyi can seem unusually calm. The more precise truth is that their emotional range is bounded in specific ways.

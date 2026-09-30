@@ -47,6 +47,16 @@ Warden stays without a POV block (as drafted, against a Ward block or a
 contemplative-tier one); and whether the Warden answers and does not urge the
 children's row (as drafted, against a notice posted to the row itself).
 
+## The Krenyi as the strangest people — raised 30 September 2026
+
+`intake-2026-09-30.md`, last section. Dermot's direction that the Krenyi are
+the strangest non-human people because they look superficially humanoid and
+could pass as almost human, realized as a lore section and put back with four
+readings: strangest as the observer's experience; passing possible and never
+attempted; survey teaching training cadets on the nearest frame (new
+practice, one sentence, cut if unwanted); and no licence for a second
+near-human people. Open until he confirms.
+
 ## A physics and cosmology skill — raised 28 September 2026, DEFERRED same day
 
 `intake-2026-09-28.md`, last section. Dermot asked whether the context needs a
