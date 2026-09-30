@@ -16,8 +16,8 @@ The Krenyi — also called the Quiet-Built, or known individually by the state-m
 ## Physical and Social Characteristics
 
 - Long-lived: individual Krenyi may live for centuries without apparent degradation.
-- Physically attractive by most humanoid standards.
-- High female birthrate.
+- Physically attractive by most humanoid standards, and to humans emotionally unreadable. See [Humans, and the Attachment That Does Not Form](#humans-and-the-attachment-that-does-not-form).
+- Females outnumber males about three to one, at birth and across a lifetime.
 - Cannot interbreed with humans or any other species.
 - Finely tuned sensitivity, reflexes and awareness — low-light acuity, motion caught at the edge of vision, balance and righting, and a reaction that closes before a human has finished registering that something happened. **There is no sensory organ to point at: the whole body is the instrument.** See the two sections below.
 - Free by structure: no physical, social, or metaphysical mechanism exists within the story's cosmology by which a Krenyi could be owned or compelled. The older filings said *unenslavable*, which names the thing by its absence; the freedom is the fact.
@@ -100,6 +100,8 @@ Krenyi do not form romantic attachments to humans, and will not consent to inter
 The first fact is not a judgement on humans and is not offered as one. The bond a Krenyi requires before attraction is possible does not form across that particular distance, and the Krenyi report this the way a person reports any other fact about their own interior: as the case, without apology and without a theory. The record does not have a mechanism for it and does not pretend to.
 
 What the record does have is an observation about the direction the misunderstanding usually runs. Humans do form attachments to Krenyi — the [Physical and Social Characteristics](#physical-and-social-characteristics) list notes, flatly, that Krenyi are attractive by most humanoid standards, and the honesty and the calm are their own draw. A Krenyi meeting that is generally meeting the same thing they meet everywhere else: a person reading them as category rather than as company, wanting the Quiet-Built rather than wanting *them*. It is the [mythification](#resistance-to-mythification) problem in its most personal register, and it gets the standard answer — name the distortion, return the exchange to material terms, and stay. They are not usually unkind about it. They are almost never wrong about which it is.
+
+**The attraction and the distance arrive together, and the record keeps them as one fact.** Humans find the Krenyi physically attractive and emotionally unreadable, and the second is what the first runs into. A human reads another person's feeling off the things a body does with it: the flinch, the held breath, the gesture that leaks. A Krenyi body does none of that, not by discipline but by construction, because [movement is noise in its own readings](#the-whole-body-is-the-instrument), and a still instrument gives off almost nothing to read. So the exchange is asymmetric in a way neither side chose. The Krenyi reads the human's fear accurately and the human reads a calm surface that could be anything. *Unreadable* is the human report, and it is accurate as a report about the human: the feeling is there, the record says so, and the channel a human would read it on is the one the Quiet-Built do not use.
 
 ## What a Krenyi Body Does With Foreign Material
 
