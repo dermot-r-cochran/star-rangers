@@ -137,6 +137,15 @@ reference for how a thing is done here:
   **`dermot-r-cochran/foundation-model`**, **`dermot-r-cochran/shadow-architect`**,
   **`dermot-r-cochran/visual-llm`**, with `swarm`, `Voting` and the ADM
   above.
+- **`dermot-r-cochran/virtual-anthropology`** — *The Archipelago*, a
+  deterministic, event-sourced virtual civilisation of simulated digital
+  persons across four law-governed islands, with a research pipeline that
+  publishes only what traces to the event log and a GitHub Pages site over
+  the published datasets (added 2026-10-01, the day it was attached to a
+  session and found nothing naming it). Its committed `exports/` and
+  `reports/` are a golden output CI regenerates and diffs, the same idea as
+  `Voting`'s `tests/golden/`; its `CLAUDE.md` names `world-model`, `swarm`
+  and `careful-memory` as resemblances of discipline and says so.
 - Every one of them, and `star-rangers` and the portfolio, carries a
   **`TestingStrategy.md`**: what each layer of the suite protects, what
   fails against what warns, and how to extend it, kept apart from the
@@ -149,10 +158,13 @@ reference for how a thing is done here:
   breached decision fails CI rather than drifting: `swarm`, `careful-memory`,
   `world-model`, `shadow-architect`, the ADM.
 
-Two resemblances that are not relationships: `foundation-model`'s
+Three resemblances that are not relationships: `foundation-model`'s
 expertise-weighted voting and the `Voting` crate share a word and nothing
-else, and `visual-llm` is built for very large photo sets but reads nothing
-from the portfolio.
+else; `visual-llm` is built for very large photo sets but reads nothing
+from the portfolio; and `virtual-anthropology`'s simulated citizens, forks
+and continuity claims never cross into this record's digital persons or
+plural minds, nor the record into its scenarios — different licences, and
+a canon here that changes only by extension.
 
 ## Keeping this true
 
