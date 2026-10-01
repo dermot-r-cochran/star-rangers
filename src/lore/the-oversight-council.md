@@ -33,7 +33,7 @@ The Council answered the way a civilian body answers, which is slowly and by sea
 
 Three polities have been asked, and their answers are on the record and in character:
 
-- The **Federation of Sentient Beings** holds its seat and has held it longest, filled by a delegate the assembly appoints for the purpose and replaces at each renewal of the [material-support compact](/star-rangers/lore/federation-of-sentient-beings/). The Federation's founding delegates had already called the Corps' neutrality *entirely reasonable*, since it is the principle their own charter runs on; a seat that can ask and cannot decide is, by the Federation's lights, the only kind of seat a confederation should want on anyone else's council.
+- The **Federation of Sentient Beings** holds its seat and has held it longest — first filled in 2791 UCSD, within a generation of contact and after the first renewal of the compact — filled by a delegate the assembly appoints for the purpose and replaces at each renewal of the [material-support compact](/star-rangers/lore/federation-of-sentient-beings/). The Federation's founding delegates had already called the Corps' neutrality *entirely reasonable*, since it is the principle their own charter runs on; a seat that can ask and cannot decide is, by the Federation's lights, the only kind of seat a confederation should want on anyone else's council.
 - The **[Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/)** declined. Its officials, who had said on the diplomatic record that they saw no reason to fund an institution they did not command, said with the same plainness that a seat without a vote was an arrangement they saw no reason to occupy. The seat stands empty and is offered again at intervals, and the Hegemony has declined it each time without discourtesy.
 - The **[Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/)** has not answered. The offer stands with the Union's rotating council, in the same file as the Union's standing refusal of full integration into Solar System Defence Command's jurisdiction, and the Union's diplomats have said, when asked, that a charter drafted world by world over thirty years does not take a seat on anyone's council in a hurry. The Union's information-sharing agreement with the [Survey Corps](/star-rangers/lore/formation-of-star-rangers/) is unaffected either way.
 
@@ -41,7 +41,7 @@ So the Council in 2826 UCSD is a body whose voting seats are one system's and wh
 
 ## What Is Not Established
 
-How many voting seats the Council holds in a given year is a count, not a rule, and the Archive does not keep it here. The year the Federation's seat was first filled is not fixed here. Whether the Union will answer, and whether the Hegemony's refusal is a position or a posture, are questions of the present and stay open in it. None of these gaps is a gap in the Council's authority, which is exactly as the charter wrote it: it may ask, and the Corps must answer.
+How many voting seats the Council holds in a given year is a count, not a rule, and the Archive does not keep it here. Whether the Union will answer, and whether the Hegemony's refusal is a position or a posture, are questions of the present and stay open in it. None of these gaps is a gap in the Council's authority, which is exactly as the charter wrote it: it may ask, and the Corps must answer.
 
 ## See also
 

@@ -59,7 +59,7 @@ drifting toward being seated by the recognising polities, realized as
 habitats and outer stations, one voting seat per settlement above the
 habitat threshold, appointed on the settlement's own terms, chair rotating
 by session, no seat for the SSDC, the Concord or a planetary government.
-**Ruled by Dermot the same day, verbatim *Approved*:** all readings as drafted; PR #903. The year the Federation's non-voting seat was first filled stays a marked absence on the page.
+**Ruled by Dermot the same day, verbatim *Approved*:** all readings as drafted; PR #903. **Then, 1 October 2026, verbatim *Add the year the Federation's seat was first filled*:** 2791 UCSD, recommended and adopted (`intake-2026-10-01.md`). Nothing on the Council now open.
 
 ## ~~Sixty-Eight in a Hundred — slot, the Warden's POV, its restraint~~ — raised 29 September 2026, APPROVED same day
 
