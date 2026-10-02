@@ -29,7 +29,7 @@
     "@11ty/eleventy-navigation": "^1.0.5",
     "gray-matter": "^4.0.3",
     "luxon": "^3.7.2",
-    "markdown-it": "^14.2.0",
+    "markdown-it": "^14.3.2",
     "markdown-it-container": "^4.0.0",
     "pagefind": "^1.5.2"
   }
