@@ -53,8 +53,11 @@ implication, and stays unasked. **Re-grounded by Dermot the same evening**
 engineered from human ancestors"*): the evolutionary account is withdrawn in
 favour of a possible making, and realized as two paragraphs on the lore
 page — the negative half as the Archive's finding, the positive half as a
-reading held and not adopted, no tier named. Which tier, if any, he means
-by *higher power* is the one thing left open; three shapes in
+reading held and not adopted, no tier named. The shape was given the same
+evening (*ideal levril champions ... unproven and simply unknown if they
+were designed by Levrils as Levrilic champions and heros*): Levrils, as a
+reading stated and left unknown in the strict sense, realized as a third
+paragraph. Nothing on Krenyi origin is open; four readings flagged in
 `intake-2026-10-02.md`.
 
 ## The Oversight Council — its composition, and its standing beyond the Solar System — raised 30 September 2026, RULED same day, APPROVED same day
