@@ -785,6 +785,46 @@ a:focus {
   margin-top: var(--spacing-sm);
 }
 
+/* --- "In the Archive" (chapter backlinks) ---
+   Borrows the .canon-facts box: the shape a reader already knows as "the
+   Archive talking about the text rather than in it". Derived list, never
+   authored; see lib/archive-backlinks.js. */
+.archive-links {
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-md);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  max-width: var(--max-prose);
+}
+.archive-links__heading {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  color: var(--color-text);
+}
+.archive-links__lede {
+  margin-top: var(--spacing-xs);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+.archive-links__list {
+  list-style: none;
+  margin-top: var(--spacing-md);
+  padding: 0;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.archive-links__list li + li {
+  margin-top: var(--spacing-xs);
+}
+.archive-links__kind {
+  margin-left: var(--spacing-sm);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
 /* --- Scene-by-scene links (chapter overview) --- */
 .chapter-scenes {
   margin: var(--spacing-xl) 0;
@@ -1242,6 +1282,7 @@ a:focus {
 }
 .chapter-list__item a {
   display: flex;
+  flex-wrap: wrap;
   align-items: baseline;
   gap: var(--spacing-md);
   padding: var(--spacing-sm) var(--spacing-md);
@@ -1271,6 +1312,16 @@ a:focus {
   color: var(--color-text-muted);
   font-style: italic;
   margin-left: auto;
+}
+/* The chapter's own one-paragraph summary (front-matter `description`),
+   shown where a reader chooses a chapter and nowhere on the chapter itself
+   (2026-10-02): the summary belongs before the choice, not beside the prose. */
+.chapter-list__desc {
+  flex-basis: 100%;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--color-text-muted);
 }
 
 /* --- Codex --- */

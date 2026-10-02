@@ -113,6 +113,27 @@ commentsCategory: episodes
   </aside>
   {% endif %}
 
+  {#- "In the Archive": the record's own pages that read this chapter, derived
+      at build time (lib/archive-backlinks.js) from the included lore,
+      glossary, codex and journal collections. Kept after the prose and the
+      canon facts on purpose: the general tier is "the same record with its
+      reasons under it", and the reasons go under the text, not beside it. -#}
+  {%- set archiveLinks = { id: id, comment_id: comment_id } | archiveBacklinks(collections.lore, collections.glossary, collections.codex, collections.journalEntries) -%}
+  {% if archiveLinks.length %}
+  <aside class="archive-links" aria-labelledby="archive-links-heading" data-pagefind-ignore>
+    <h2 class="archive-links__heading" id="archive-links-heading">In the Archive</h2>
+    <p class="archive-links__lede">Pages of the record that read this chapter.</p>
+    <ul class="archive-links__list" role="list">
+      {% for link in archiveLinks %}
+      <li>
+        <a href="/star-rangers{{ link.url }}">{{ link.title }}</a>
+        <span class="archive-links__kind">{{ link.label }}{% if link.relation == "revealed" %} · first revealed here{% elif link.relation == "revised" %} · revised after this chapter{% endif %}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
   {% set previousChapter = collections.chapters | previousChapterIn(id) %}
   {% set nextChapter = collections.chapters | nextChapterIn(id) %}
   <nav class="chapter-pagination" aria-label="Chapter navigation" data-pagefind-ignore>

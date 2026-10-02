@@ -13,6 +13,7 @@
 | `markdown-containers.test.js` | The scene/POV fence-length rule a dependency bump could silently break |
 | `image-size.test.js`, `placeholder-marker.test.js` | The two header parsers' null-rather-than-guess contracts |
 | `status-key.test.js` | The status badge's class key |
+| `archive-backlinks.test.js` | The three reasons a page is listed under a chapter's "In the Archive", prefix-agnostic matching, and the section-then-title order |
 | `character-status.test.js` | The five-value character `status` vocabulary and its head-clause match |
 | `giscus-boards.test.js` | The two-level comments-board model |
 | `check-contrast.test.js` | The contrast checker's palette parser under CRLF |

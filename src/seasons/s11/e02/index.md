@@ -44,6 +44,9 @@ permalink: /seasons/s11/e02/
         {%- if chapter.data.location -%}
         <span class="chapter-list__loc">{{ chapter.data.location }}</span>
         {%- endif -%}
+        {%- if chapter.data.description -%}
+        <span class="chapter-list__desc">{{ chapter.data.description }}</span>
+        {%- endif -%}
       </a>
     </li>
   {%- endif -%}
