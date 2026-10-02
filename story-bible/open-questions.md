@@ -35,6 +35,21 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The Krenyi origin reading — where the evolutionary account of their rarity lives — raised 2 October 2026, OPEN
+
+`intake-2026-10-02.md`, last section. Dermot's question on the Krenyi's
+limitations carried the premise that being few and slow to reproduce were
+*evolutionary adaptations on their homeworld*. The record does not hold it:
+the rarity is filed as arithmetic with no cause, and the origin section of
+`src/lore/krenyi.md` keeps the entry empty on the Krenyi's own stated wish,
+so an account drawn back from their biology is exactly what it refuses. Put
+as three shapes: (a) authorial background held in the story bible, unrevealed
+(recommended); (b) revealed through a Krenyi voice, a POV block or a
+Krenyi-authored codex entry, placing nothing, with the lore page keeping its
+refusal; (c) dropped as not a fact about the world. Whether the Krenyi
+evolved at all is a second question the same account would answer by
+implication, and stays unasked.
+
 ## The Oversight Council — its composition, and its standing beyond the Solar System — raised 30 September 2026, RULED same day, APPROVED same day
 
 `intake-2026-09-30.md`, last section. Dermot asked what the Civilian
