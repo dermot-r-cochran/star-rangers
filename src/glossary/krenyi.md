@@ -6,7 +6,7 @@ irish_gloss: "the people's name, kept; Quiet-Built is na Ciúinthógtha"
 revealed_by: s01e01c01
 id: krenyi
 category: "Species"
-short: "Long-lived humanoids defined by clarity, coherence, and a freedom that is structural rather than won — no mechanism in the cosmology can own or compel one — with the same built-in resistance to fear, fury, mythification and grief-predation, and an origin unrecorded by their own design. Also called 'Quiet-Built' or 'Nai'."
+short: "Long-lived humanoids defined by clarity, coherence, and a freedom that is structural rather than won — no mechanism in the cosmology can own or compel one — with the same built-in resistance to fear, fury, mythification and grief-predation, and an origin unrecorded by their own design. Also called 'Quiet-Built'; the state-marker 'Nai' is a courtesy, not a name for the people."
 related:
   - "Naiad"
   - "Obligers"

@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Changed
+
+- **Krenyi: *Nai* is a state-marker, never a name for the people** (clarification, Dermot's choice on 2026-10-02 between keeping *Nai* and respelling it *Nyi*). The record has always defined *Nai* as the courtesy *still relevant here*, placed before a name and explicitly not a title; three phrasings had drifted toward using it as a second name for the species, and now say what the body text already said. The `short` of `src/glossary/krenyi.md` and the description and opening line of `src/lore/krenyi.md` no longer list *Nai* beside *Quiet-Built* as something the Krenyi are "also called", and the S01E02C01 canon fact *Obligers resist clarity; Nai demand clarity* now reads *the Krenyi demand clarity*. The spelling stays *Nai*: nothing in the record derives it from *Krenyi*, and the near-collision with *Naiad* is the stated in-world reason the formal species name exists.
+
 ## [1.34.0] — 2026-10-02
 
 Two weeks in which the record learned to say what it had been assuming. The

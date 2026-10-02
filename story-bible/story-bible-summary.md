@@ -874,7 +874,7 @@ There is deliberately **no major/supporting/minor character hierarchy**. Three t
 - **MSC** — Military Space Command; the pre-Rangers military authority, narrowed into the SSDC after 2722 UCSD.
 - **SSDC** — Solar System Defence Command; what the MSC became after the Consolidation Accords.
 - **Star Rangers** — independent, neutral, self-funded humanitarian boundary-operations corps chartered 2723 UCSD; accountable only to an Oversight Council; no planetary/large-habitat jurisdiction; cannot take political sides.
-- **Krenyi ("Quiet-Built")** — long-lived species (Syra's is ~150yo, unremarkable for them); cannot interbreed with humans; must not be enslaved or mythologized (explicit hard canon). "Nai" prefix (as in "Nai Syra") signals "still relevant here," not a title or greeting.
+- **Krenyi ("Quiet-Built")** — long-lived species (Syra's is ~150yo, unremarkable for them); cannot interbreed with humans; must not be enslaved or mythologized (explicit hard canon). "Nai" prefix (as in "Nai Syra") is a state-marker signalling "still relevant here," not a title, a greeting, or a name for the people.
 - **Obligers / Gilded Saints** — entities that feed on ambiguity, consent erosion, and unresolved obligation loops; precise naming disrupts their feeding mechanism.
 - **Levrils** — two ranks, Higher Levrils and Dragons; bounded but powerful. Meta-Levrils exist across boundary mismatches.
 - **Worldwright** — the authority under which Concordants are produced/maintained.
