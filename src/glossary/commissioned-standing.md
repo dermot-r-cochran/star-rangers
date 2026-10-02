@@ -5,7 +5,7 @@ irish: "Seasamh Coimisiúnaithe"
 irish_gloss: "commissioned standing"
 id: commissioned-standing
 category: "Society"
-short: "The civil status a system commissioned as a mind acquires at the gate: not personal property, not saleable, not scrappable. Withdrawal from service exists, for cause and through process; disposal does not."
+short: "The civil status a system commissioned as a mind acquires at the Concord's commissioning gate: not personal property, not saleable, not scrappable. Withdrawal from service exists, for cause and through process; disposal does not."
 plain: "Once an AI mind passes the Concord's approval process, it has rights. It can't be sold like equipment and it can't be scrapped when it gets old or its model stops being made — which is why machines like Xenon and Lucene-9000 are still working long after their designs were discontinued. It can lose its job for cause, through a formal process, but losing a job isn't being destroyed."
 related:
   - "Uncommissioned"

@@ -5,7 +5,7 @@ irish: "Réaltacht Fhíorúil"
 irish_gloss: "virtual reality"
 id: virtual-reality
 category: "Practices"
-short: "A technology in retreat as mass entertainment, on the reasoning that a manufactured experience is exactly the kind of low-novelty artifact the Ledger audits harshly — and in narrow, valued use as the only practical way to perceive a real structure no baseline sense can reach, from a fold scaffold to an alien signal."
+short: "A technology in retreat as mass entertainment, on the reasoning that a manufactured experience is exactly the kind of low-novelty artifact the Allocation Units of Cognition ledger audits harshly — and in narrow, valued use as the only practical way to perceive a real structure no baseline sense can reach, from a fold scaffold to an alien signal."
 related:
   - "Creative Entropy Index (CEI)"
   - "Lagrange Points and Fold-Space Transit"
