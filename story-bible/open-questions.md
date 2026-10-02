@@ -35,7 +35,7 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## The Krenyi origin reading — where the evolutionary account of their rarity lives — raised 2 October 2026, OPEN
+## The Krenyi origin reading — where the evolutionary account of their rarity lives — raised 2 October 2026, RE-GROUNDED same day
 
 `intake-2026-10-02.md`, last section. Dermot's question on the Krenyi's
 limitations carried the premise that being few and slow to reproduce were
@@ -48,7 +48,14 @@ as three shapes: (a) authorial background held in the story bible, unrevealed
 Krenyi-authored codex entry, placing nothing, with the lore page keeping its
 refusal; (c) dropped as not a fact about the world. Whether the Krenyi
 evolved at all is a second question the same account would answer by
-implication, and stays unasked.
+implication, and stays unasked. **Re-grounded by Dermot the same evening**
+(*"They may have designed by a higher power but are not genetically
+engineered from human ancestors"*): the evolutionary account is withdrawn in
+favour of a possible making, and realized as two paragraphs on the lore
+page — the negative half as the Archive's finding, the positive half as a
+reading held and not adopted, no tier named. Which tier, if any, he means
+by *higher power* is the one thing left open; three shapes in
+`intake-2026-10-02.md`.
 
 ## The Oversight Council — its composition, and its standing beyond the Solar System — raised 30 September 2026, RULED same day, APPROVED same day
 
