@@ -13,6 +13,7 @@ Plain Node modules required by `.eleventy.js`, by `src/_data/*.js` and by `scrip
 | `image-size.js` | JPEG/PNG dimensions from the header, null rather than guess, for Open Graph tags |
 | `placeholder-marker.js` | Detects the PLACEHOLDER stamp in a JPEG COM segment |
 | `status-key.js` | The class key for a character's status badge: head clause, slugified |
+| `archive-backlinks.js` | `findArchiveBacklinks`: which lore, glossary, codex and journal pages cite a chapter (by URL, by `/c/` alias, or by `revealed_by` / `revised_by`), behind the chapter layout's "In the Archive" block; derived every build, never authored |
 
 Two rules. Anything that decides what a reader sees goes through `content-filter.js` and `classify-content.js`; a new content-bearing field or page type has to be added to those predicates and to `classifyContentPath`, or it will silently always or never be included under a narrowed deploy. And `editions.js` is the one file here that is a decision about live sites: registering or re-pointing a domain is second-tier work, and moving a tier is never done without instruction (`CLAUDE.md`, *Authority and review boundary*).
 

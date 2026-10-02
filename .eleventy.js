@@ -20,6 +20,7 @@ const {
 } = require("./lib/classify-content");
 const { threadForSeason, DEFAULT_REFERENCE_DOMAIN } = require("./lib/storyline-threads");
 const { statusKey } = require("./lib/status-key");
+const { findArchiveBacklinks } = require("./lib/archive-backlinks");
 const { getEdition, validateEditions, PRESENTATION_MODES } = require("./lib/editions");
 
 // classifyContentPath / isRelatedTopicPageIncluded / isContentIncluded moved
@@ -379,6 +380,28 @@ module.exports = function(eleventyConfig) {
   // null past either end, and naturally skips anything CHARACTERS/TOPICS/
   // THREADS filtering has excluded, since the collection itself already
   // omits those chapters - no dead links to hidden content.
+  // The chapter layout's "In the Archive" block: every lore, glossary, codex
+  // and journal page the build includes whose source cites this chapter (by
+  // its URL or its /c/ alias) or names it in revealed_by / revised_by.
+  // Derived, never authored; see lib/archive-backlinks.js. Scans the source
+  // (rawInput) rather than rendered output so it is prefix-stable and does
+  // not depend on render order.
+  eleventyConfig.addFilter("archiveBacklinks", function(chapterData, lore, glossary, codex, journal) {
+    const pages = [];
+    const add = (items, section) => (items || []).forEach((item) => pages.push({
+      title: item.data.title,
+      url: item.url,
+      section,
+      raw: typeof item.rawInput === "string"
+        ? item.rawInput
+        : (item.template && item.template.frontMatter && item.template.frontMatter.content) || "",
+      revealedBy: item.data.revealed_by,
+      revisedBy: item.data.revised_by,
+    }));
+    add(lore, "lore"); add(glossary, "glossary"); add(codex, "codex"); add(journal, "journal");
+    return findArchiveBacklinks(chapterData, pages);
+  });
+
   eleventyConfig.addFilter("previousChapterIn", (chapters, id) => {
     const index = (chapters || []).findIndex((c) => c.data.id === id);
     return index > 0 ? chapters[index - 1] : null;
