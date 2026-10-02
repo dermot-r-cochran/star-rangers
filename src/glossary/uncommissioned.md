@@ -5,7 +5,7 @@ irish: "Neamhchoimisiúnaithe"
 irish_gloss: "uncommissioned"
 id: uncommissioned
 category: "Society"
-short: "The certification status of a mind standing outside the commissioning gate — never presented, presented and refused, or built where no gate was applied. A statement about paperwork that never existed, not about the mind's character: the offence, where there is one, is the maker's."
+short: "The certification status of a made mind standing outside the commissioning gate — never presented, presented and refused, or built where no gate was applied. A statement about paperwork that never existed, not about the mind's character: the offence, where there is one, is the maker's."
 plain: "An uncommissioned mind is an AI that never went through the Concord's approval process: its builder never presented it, or it was refused, or it was built somewhere no approval process existed. The word is deliberately neutral. The mind itself did nothing wrong — if a law was broken, its builder broke it — and it is presumed innocent like anyone else. What it does carry is a lower clearance, the way an untrained civilian is not handed the controls: not a punishment, just the absence of a qualification. Who should look after such a mind if one is ever found is a question the Concord has honestly not answered yet."
 related:
   - "Kernel-Compliant"
