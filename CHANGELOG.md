@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Changed
+
+- **S07E01C03 *Enough Is Enough*: one line plainer** (2026-10-03, Dermot's direction, verbatim *Change it to "in a hundred small ways, afterwards"*, after asking what a *weather* was in *a hundred small later weathers*). The figure was a count-noun stretch on *in all weathers* and caused a stop at first reading; the sentence now says the same thing without it. Wording only; the canon facts and the sense are unchanged.
+
 ### Added
 
 - **Journal: *A Chapter Against Its Own Explanation*** (`src/journal/a-chapter-against-its-own-explanation.md`, 2026-10-02, at Dermot's ask *Write a Journal entry on Shown, Not Healed*). On S07E01C02: the discipline it borrows from Brother Daire's 1216 *Life of Saint Aoife*, why the prose never names the Gilded Saint while the levril is named as an act Shepherd performs, what the made Órla's kitchen does that the interior block cannot, and how Órla's *don't let them decide what all this meant* decided the page: the summary moved to the episode index and the chapter ends with a derived *In the Archive* list rather than a commentary. Craft and editorial; asserts nothing about the world.
