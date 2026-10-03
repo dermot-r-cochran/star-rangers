@@ -2590,7 +2590,9 @@ September); three chapters running end on Smith declining to speak.
 **The silence paid 3 October 2026** by S09E01C05 *Stand Where You Like*
 (`intake-2026-10-03.md`, *The next chapter: Season 9's fifth*); the
 Tikket candidate went to Season 10 the same day, and whether Season 9
-needs a mystery of its own is put there as a choice, (a) recommended.
+needs a mystery of its own was put there as a choice, (a) recommended —
+**ruled the same day, *Agreed*: Season 9 is the corridor season, five
+chapters, complete in itself.** Nothing of the thread is open.
 
 ## Lev Saunders joins the Star Rangers when he is older — raised 27 September 2026
 
