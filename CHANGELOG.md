@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+
+- **Glossary: *Spoke Car*** (`src/glossary/spoke-car.md`, 2026-10-03, at Dermot's ask after reading *Nothing to Report* and asking what a spoke car was). The radial car of a spin habitat between the hub and the ring, drawn from the Ring-Rail and Eden pages, where it was defined but unreachable from the chapter; carries its Union Irish line (*Carr Spóca*), the weight gradient and the sideways lean a rider feels, the Hub-Ward restriction by reference to the Ring-Rail page, and the two Season 9 uses as examples. Because it cites both chapters, their *In the Archive* lists now reach it. Asserts nothing new: every fact is the two lore pages' or the chapters'.
+
 ### Changed
 
 - **S07E01C03 *Enough Is Enough*: one line plainer** (2026-10-03, Dermot's direction, verbatim *Change it to "in a hundred small ways, afterwards"*, after asking what a *weather* was in *a hundred small later weathers*). The figure was a count-noun stretch on *in all weathers* and caused a stop at first reading; the sentence said the same thing without it. **Revised the same day** on his refinement that a figure is valid in dialogue, internal dialogue or at the contemplative tier, and the sentence sits in Wender's POV block, which the house style reads in her idiom: *in a hundred small weathers, afterwards* (his *Option 1* of three), the figure restored with one modifier fewer, so nothing stacks before the noun. Wording only; the canon facts and the sense are unchanged.
