@@ -43,7 +43,7 @@ The Outer Stations Consolidation Hearing produced a formal finding—disputed by
 Specific findings included:
 
 - Response-time inadequacy for fold-proximate incidents: the MSC's committee-mediated chain of authority could not produce an operational response to a boundary event within less than six weeks. Field operations at fold-adjacent environments required response times measured in hours.
-- Boundary-zone knowledge deficit: the MSC had no institutional framework for the class of phenomena that the Eden observations, the *Constant Margin* data, and the classified *Patience First* recovery report described. Its senior scientists were competent; its command structure had no mechanism for converting scientific findings into operational action without a committee review cycle.
+- Boundary-zone knowledge deficit: the MSC had no institutional framework for the class of phenomena that the Eden observations, the *Constant Margin* data, and the classified *Patience First* disappearance file described. Its senior scientists were competent; its command structure had no mechanism for converting scientific findings into operational action without a committee review cycle.
 - Accountability gap: local habitats and outer stations with legitimate operational concerns had no effective escalation path within the advisory council system.
 
 ## The Consolidation Accords and the Star Rangers Charter
@@ -98,7 +98,7 @@ That is also the vocation the Fellowship was following under another name before
 
 ## What the Star Rangers Inherited
 
-The Star Rangers began with the navigational data from *Constant Margin*, the partial recovery data from *Patience First*, Dr. Pitch's declassified fold-mechanics analysis, and eleven years of Eden anomaly logs—the same logs the MSC calibration board had blamed on sensor degradation. See [No Longer Supplementary (S00E03C02)](/star-rangers/seasons/s00/e03/s00e03c02/) for what it meant to the two people who built and flew that inheritance to see it cited rather than buried.
+The Star Rangers began with the navigational data from *Constant Margin*, the partial data left by the disappearance of *Patience First*, Dr. Pitch's declassified fold-mechanics analysis, and eleven years of Eden anomaly logs—the same logs the MSC calibration board had blamed on sensor degradation. See [No Longer Supplementary (S00E03C02)](/star-rangers/seasons/s00/e03/s00e03c02/) for what it meant to the two people who built and flew that inheritance to see it cited rather than buried.
 
 They also inherited unanswered questions:
 

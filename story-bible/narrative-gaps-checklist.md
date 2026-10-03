@@ -1,24 +1,25 @@
 # Narrative Gaps Checklist
 
-What's actually written versus what the story bible and site copy have committed to. **Re-derived from `src/seasons/` on 2026-08-10**, per this file's own standing instruction not to trust it once stale — the previous derivation was 2026-07-14 with patches through 07-29, and by August it was describing a different book.
+What's actually written versus what the story bible and site copy have committed to. **Re-derived from `src/seasons/` on 2026-10-03**, per this file's own standing instruction not to trust it once stale (the previous derivation, 2026-08-10, said 44 chapters; disk said 69). Open questions this raises are indexed in `open-questions.md`.
 
-**44 chapter files exist across nine seasons and five storyline threads.**
+**69 chapter files exist across twelve seasons (0 to 11) and seven storyline threads.**
 
 ---
 
 ## What the re-derivation changed
 
-The old list was organised as *the Tissadelle arc, plus some reserved slots*. That is no longer what the work is. Three of its structural claims were false against disk:
+Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| **Season 2** — "intentionally unwritten… not a gap to fill by default" | **Thirteen chapters**, nine episodes. The second-most-written thread in the book. |
-| **Season 4** — "intentionally unwritten, same as Season 2" | **One chapter** — *Docked Twice*. |
-| *(Season 8 not mentioned at all)* | **Exists** — *The Night Office*, its own thread. |
+| 44 chapters, nine seasons, five threads | **69 chapters, twelve seasons, seven threads** |
+| **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
+| **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
+| *(Young Star Rangers not listed)* | **Exists** — Season 9, four chapters, its own edition on young.fianilchruinne.com |
+| **Below the Roof** — three chapters | **Eight**, across two episodes |
+| **Season 3** — two chapters | **Three** (*What Meridian Asked* added) |
 
-None of this is a contradiction, and nothing was written that shouldn't have been. Seasons 2 and 4 were *reserved* for storylines that don't run through Tissadelle — and those storylines have since been written, which is the reservation being honoured rather than broken. The checklist simply never noticed, because it was watching one thread and filing the other four as absence.
-
-**The lesson for the next re-derivation:** count threads, not seasons. A season reading "empty" in a Tissadelle-shaped list may be full.
+**The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
 
 ---
 
@@ -29,33 +30,30 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | Thread | Seasons | Chapters | State |
 |---|---|---|---|
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
-| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 27 | The spine. Ends written; middle thin |
-| **Undercover Pets** | 2 | 9 | Substantial and unlisted until now |
-| **Orbital Five-O** | 4 | 1 | **A thread on one chapter** |
-| **Below the Roof** | 11 | 3 | **A thread on three chapters** — S11E01C01 drafted and approved 2026-09-06 (PR #725); S11E01C02 drafted the same evening at his ask *Endonym and naming*, supplying both from inside (the Told; names as tellings) and the relay's reason, approved the same evening (PR #727); S11E01C03 drafted the same evening at his ask — the manners argued, how the up-people ask, Stone-First on the line — approved the same evening (PR #729); the survey's answer is his, put as three shapes |
-| **Church Space** | 8 | 1 | **A thread on one chapter** |
+| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 31 | The spine. Ends written; middle thin (S3 three chapters, S5 no E00) |
+| **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
+| **Orbital Five-O** | 4, 10 | 3 | Two seasons, three chapters; Season 10's cast is the Young Star Rangers' (see `open-questions.md`) |
+| **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
+| **Young Star Rangers** | 9 | 4 | One episode, complete in itself |
+| **Below the Roof** | 11 | 8 | Two episodes; the second season treated (`below-the-roof-second-season-treatment.md`) |
 
 ---
 
 ## The actual gaps, in order of how much they cost
 
-### 1. Two threads are one chapter each
+### 1. Two threads are still thin
 
-**Orbital Five-O** (S4, *Docked Twice*) and **Church Space** (S8, *The Night Office*) each have a single chapter carrying an entire named thread. Both are advertised on the site as threads in their own right, and a reader following either arrives at the end almost immediately.
+**Orbital Five-O** carries two seasons on three chapters, and **Church Space** carries a deployment (church-space.site and .online, their own comments board) on two. Both are advertised as threads in their own right. Five-O's second season (`five-o-second-season-treatment.md`) and the Chthonari strand are treated and unwritten; the Five-O case mechanism and the three-rung ladder (bureau, Five-O, Rangers) were ruled 8 September and have one chapter pair to show for them.
 
-Church Space additionally has a **deployment** built around it — the church-space.site/.online domains filter to that thread, with their own comments repo. A domain whose whole reason for existing is one chapter is the sharpest instance of this on the site.
+### 2. Season 3 is three chapters for a whole rank-era
 
-*This is the largest gap in the book and the old checklist could not see it, because both seasons were filed as deliberately blank.*
+*Filed Under Noise*, *Independent Verification* and *What Meridian Asked* stand in for Principal → Section Lead → Chief Ranger.
 
-### 2. Season 3 is two chapters for a whole rank-era
-
-Carried over from the previous derivation, still true. *Filed Under Noise* and *Independent Verification* stand in for Principal → Section Lead → Chief Ranger. The season intro promises "two years into her service… an archive backlog nobody else wanted"; two chapters cover it.
-
-- [ ] The Sentinel–Meridian connection: Sohrel has now declined to raise it four times without stating a reason on the record. Either a fifth declination that finally costs her something, or the raising.
+- [ ] The Sentinel–Meridian connection: Sohrel has declined to raise it without stating a reason on the record. Either a declination that finally costs her something, or the raising.
 
 ### 3. Season 5 opens at E01
 
-- [x] **E01C01 — *Refusal to Certify*** (added since the last derivation; the old list said S5 E00/E01 were "skipped entirely"). Shepherd's first dispute in rank, solved by empathy where six weeks of confidence had failed.
+- [x] E01C01 — *Refusal to Certify*.
 - [x] E02C01–C03 — *What the Hill Keeps*, *A Fraction of a Second*, *What Came Off the Ship* (the Last Stand).
 - [ ] **E00** — still absent. The only season that opens without one.
 
@@ -63,13 +61,13 @@ Carried over from the previous derivation, still true. *Filed Under Noise* and *
 
 From `story-bible-summary.md`'s "Established future-canon waypoints" — hooks that exist in character entries and have never landed in prose:
 
-- [ ] **Karla Wender: Chief Pilot → High Captain.** A progression asserted on her page and dramatised nowhere.
-- [ ] **The Tissadelle/Wender relationship**, developing "across early seasons" per her character entry — but the early seasons are written and it isn't in them.
+- [ ] **Karla Wender: Chief Pilot → High Captain.** Asserted on her page, dramatised nowhere.
+- [ ] **The Tissadelle/Wender relationship**, developing "across early seasons" per her character entry; the early seasons are written and it isn't in them.
 - [ ] **Founding-era open questions:** fold terminus contact, other fold routes, whether Threshold's drift is Eden-class phenomena.
 
-### 5. Season 1 has a chapter the old list never counted
+### 5. Continuity slips, found and fixed 2026-10-03
 
-- [x] **E00C00 — *Below the Bells***. The old entry read "E00 (3 ch)"; there are four. Prequel backstory now runs c00–c03.
+A cross-check of every chapter's canon facts against the chapter bodies and character pages (`intake-2026-10-03.md`, *Continuity*) found eleven statements that could not both be true. Nine were arithmetic, chronology or naming slips and were fixed as clarifications in the same change; two (the S07E01C01 timestamp against its own day-count, Asteria's age in Season 8) and one reading (Galahad's *three years ago* at the causeway) are put as choices in the intake, with fourteen near-misses beside them, chiefly **where the UCSD year turns**, which no page settles and which decides several of the others.
 
 ---
 
@@ -78,11 +76,12 @@ From `story-bible-summary.md`'s "Established future-canon waypoints" — hooks t
 Recorded here so a later pass doesn't reopen them.
 
 - **Founding Era** — fully dramatised, 2712 to 2723. Nothing outstanding.
-- **The Last Stand** — written as `s05e02c03`, in Season 5 rather than at the S5/S6 seam. Seen from five viewpoints, **none of which can name what they saw**; the record still fails to close, and now the reader knows what it is failing to close over.
-- **Seasons 6–7** — ratified canon as of 2026-07-25. Strand A in `s06e01c02`, Strand B in `s06e01c01`/`c03`, the strands meeting in `s07e01c03` — later than the treatment outlined, noted rather than "fixed", because the arc reads as written. `tissadelle-arc-s6-7.md` is background reasoning now, not a specification the chapters must match; where they differ, the chapters won.
-- **"Who gets to name the truth" stays live**, not settled: `s07e01c03` holds the Council's citation, the Codex's account and what Wender privately knows permanently unreconciled — true for the reader, contested in-universe.
+- **The Last Stand** — written as `s05e02c03`, in Season 5 rather than at the S5/S6 seam. Seen from five viewpoints, **none of which can name what they saw**; the record still fails to close, and nothing here should close it.
+- **Seasons 6–7** — ratified canon as of 2026-07-25. Strand A in `s06e01c02`, Strand B in `s06e01c01`/`c03`, the strands meeting in `s07e01c03` — later than the treatment outlined, noted rather than corrected.
+- **"Who gets to name the truth" stays live**, not settled: `s07e01c03` holds the Council's citation, the Codex's account and what Wender privately knows permanently unreconciled — true for the reader, true in-world.
 - **The arc's cosmological endgame** — the protouniverse's "Saint Aoife" is a Telearch avatar. In `tissadelle-arc-s6-7.md`, spoiler-safe, deliberately not in public lore.
+- **The marked absences** — the *Patience First* terminus, the 2732 recovery, the Krenyi origin, what Aoife met, the shadow at the edge, Threshold's report-numbering base. Gaps in the record by the record's own doctrine; never gaps in the work.
 
 ---
 
-*Cross-reference: `story-bible-summary.md` (Narrative Structure, per-season breakdowns), `tissadelle-arc-s6-7.md` (full S6–7 treatment), and `lib/storyline-threads.js` (the thread definitions this list is now organised by).*
+*Cross-reference: `story-bible-summary.md` (Narrative Structure, per-season breakdowns), `tissadelle-arc-s6-7.md` (full S6–7 treatment), and `lib/storyline-threads.js` (the thread definitions this list is derived from).*

@@ -16,7 +16,7 @@ permalink: /seasons/s00/e02/
 <img class="page-hero-image" src="/star-rangers/images/hero/season-00-foundation.jpg" alt="A moody, neon-lit futuristic corridor" />
 <h1 class="page-title">Founding Era · Episode 2</h1>
 <p class="page-intro">
-  Solar Command, Mars, 2719 UCSD. A hearing convened to ask whether the Military Space Command can still answer for the conditions it governs runs three months past its schedule — and produces, alongside six years of unresolved findings, one honestly volunteered sentence that outruns all of them.
+  Solar Command, Mars, 2719 UCSD. A hearing convened to ask whether the Military Space Command can still answer for the conditions it governs scheduled for three weeks, runs six months — and produces, alongside six years of unresolved findings, one honestly volunteered sentence that outruns all of them.
 </p>
 
 {% set seasonNumber = "0" %}
