@@ -363,16 +363,18 @@ Three shapes, his:
 
 ## What stays open — his
 
-- **The thread's name and id.** Put as choices in the intake: the pair as
+- ~~**The thread's name and id.** Put as choices in the intake: the pair as
   given, the seat's name, or another of his. The id is a permalink and
-  waits on the name.
+  waits on the name.~~ **Ruled 3 October 2026, *1a*: the pair as given;
+  id `five-islands`.**
 - **The season registration** in `lib/storyline-threads.js` (Season 12 when
   this was written; Below the Roof's second season took 12 on 3 October
   2026, so the next free number when the first chapter exists), and whether
   the thread is listed on `GENERAL_TIER` with its own young-adult edition on
   a subdomain (the young-star-rangers precedent) or on `YOUNG_ADULT_TIER`
   so starquest.site carries it too. Put as a choice in the intake.
-- **Where the Castle stands and what it is** — the two shapes each, above.
+- ~~**Where the Castle stands and what it is** — the two shapes each, above.~~
+  **Ruled 3 October 2026, *4a-i*: Krilzat, the ark's hull.**
 - **The young viewpoints' names**, and whether Strand A's proxy is of a
   house or of the watch.
 - **The convergence** — (a) recommended, above.
@@ -435,3 +437,12 @@ Three shapes, his:
   thread's name, its listing, the novice's name and the Castle's two
   shapes are named in it as the decisions, per the merge-unless-open
   rule.
+- **3 October 2026, later — *1a 2a 3a 4a-i 5a*.** The name stands as
+  registered; the listing stands (general tier, no edition yet); the
+  novice is Oriel Fenwick; **the Castle stands on Krilzat and is the
+  founding ark's hull**, (a) and (i) above, both as recommended; the band
+  stays. The Castle's two choices are closed, so Strand A can be drafted:
+  its young viewpoint and the convergence remain his and are put as
+  above. The mechanism rule is unchanged — the court's strand narrates
+  the Kingdom's reading, and the hull number appears only where the
+  survey's log is quoted.
