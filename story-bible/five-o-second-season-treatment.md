@@ -309,3 +309,24 @@ the established structure (`::::: scene` wrappers, `::: pov` blocks, no shared
 scenes); every chapter reports what it commits the story to; and the Reading
 Tiers page needs no change, since the thread already sits on the young-adult
 tier and the general and contemplative tiers inherit it.
+
+## What happened when the convergence was drafted
+
+**3 October 2026, at Dermot's *Option 1*** (`intake-2026-10-03.md`, *The
+Five-O convergence*): S10E01C03 *What It Hangs From*, the ruled shape
+realized — the Deputy lays Five-O's reconciliation beside the crew's log
+and the certification and names the member all three are about, approach
+mount three, which is what the six instruments hang from; the monitoring
+that certified the mount normal was re-baselined while it carried the load
+the certification does not name. Five-O's intent reading and the crew's
+error reading each half right, as ruled; the mechanism from the twentieth
+message realized as a berth strike logged in 2825 and an inspection
+deferred twice under an extended interval and never done; nobody meant
+harm. The convergence merges the accounts and no crew: the Chthonari are
+not in the room, Five-O files the schedule in the open, and the one lever
+the Corps holds — re-baselining its own instruments — is the thing Smith
+does in place of the countersign. The catastrophe stays potential and
+hinted (the instruments that would first see a fold approach go wrong hang
+from the one member nobody has looked at). What the re-baselined number
+says, and what the Compact does with Larsen's letter, are the season's
+next chapters.

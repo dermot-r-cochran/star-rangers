@@ -87,12 +87,12 @@ re-derivation checks them too. Re-derive against `story-bible/` and
   the line, Stone-First answers by moving one, neither record carries what
   was said. The 2026-10-03 inventory listed it as unwritten in error;
   corrected the same day.
-- [ ] **Orbital Five-O, second season** — the Deputy's strand (S10E01C01) and
-  the Chthonari crew's (S10E01C02) are one chapter each; the convergence is
-  ruled in `five-o-second-season-treatment.md` (*two readings of one
-  structure*: the Deputy lays the task force's ledger beside the crew's log
-  and names what the two have in common) and unwritten. C01 ends with the
-  log fetched and the laying-beside not yet done.
+- [x] **Orbital Five-O, second season** — the convergence drafted 3 October
+  2026 as S10E01C03 *What It Hangs From*: the Deputy lays the task force's
+  reconciliation beside the crew's log and the certification and names the
+  member all three are about, approach mount three, which the instruments
+  hang from. What the re-baselined instrument says, and what the Compact
+  does with Larsen's letter, are the season's next chapters.
 
 ### Treated, nothing drafted
 
