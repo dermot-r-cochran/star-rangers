@@ -33,7 +33,12 @@ permalink: /seasons/s12/e01/
   because nobody came. The small ones are not afraid of it, which is what Stone-First comes down the shelving to be
   careful about; Went-Round goes round it and finds it has a back the same as its front; it goes back into the wall
   before the telling ends. Everyone was there, so nobody can tell it, and the Told have no word for a thing that is
-  beside you and in nobody's place.
+  beside you and in nobody's place. And then the one act, from the deep side: Stone-First is on the line when the
+  up-people's loud comes down, and there is a shape on the line too, an arm's length beside, facing the squeeze, and
+  it moved no stone coming. The small up-person comes through with the stone and the light held low, and the light
+  finds Stone-First's feet, and then finds the shape, and goes round it. The up-person sets the stone down a hand
+  from Stone-First's feet and not from the other's, and Stone-First answers, and the shape answers nothing. The
+  up-people, who cannot hear the ground, could tell the two apart. Nobody records what was said.
 </p>
 
 {% set seasonNumber = "12" %}
