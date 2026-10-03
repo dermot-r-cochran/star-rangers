@@ -24,7 +24,11 @@ permalink: /seasons/s12/e01/
   moves at the edge of the silt while Stone-First is on the line, moved well, and the ground says someone is coming, and
   nobody comes. The manners have been done, properly, by nobody. The line has three stones on it now, and the third is
   nobody's, and below, Carried-It-Sleeping keeps the small ones from going up to look and works out what the up-people
-  felt for a whole season, from the inside.
+  felt for a whole season, from the inside. Then Stone-First is in the warm, telling, where everyone can hear, and a
+  small one goes up to look anyway, and sees Stone-First on the line between the three stones, standing the way
+  Stone-First stands, and the stone the small one moved is not answered. Went-Round goes round it, and goes up, and
+  stands in Stone-First's place to see what it looks like from the other side, and it looks like Stone-First, even
+  with nobody in it.
 </p>
 
 {% set seasonNumber = "12" %}
