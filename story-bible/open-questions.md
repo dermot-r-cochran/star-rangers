@@ -2470,7 +2470,13 @@ put as choices:
 - **The convergence** — (a) a door and an entry, recommended; (b) a third
   succession disagreement; (c) what Krilzat lost.
 - **Chapters per strand, episode-per-strand, a third strand, the Season 12
-  registration and the first chapter** — his.
+  registration and the first chapter** — his. **3 October 2026:** the first
+  chapter drafted at his ask as S13E02C01 *The Same Hand* (Strand B first;
+  Season 13, since Below the Roof took 12), the thread registered as
+  `five-islands` under the lean name and listing, and the PR stopped on
+  the name, the listing, the novice's name and Strand B-first — see
+  `intake-2026-10-03.md`, last section. The Castle's two shapes, the
+  convergence and the rest stay as above.
 - **Photographic Beings** (sixth section, later still the same evening) —
   read as the Castle's third record, light-written (**Confirm**; three
   other readings listed). ~~What they are: (a) the founders' likenesses kept

@@ -408,3 +408,30 @@ Three shapes, his:
   case — licensed as a clarification of the Shadow page, realized in
   `src/glossary/` and on the lore page; the Castle's mechanism choice
   reweighted toward the boundary-zone shape.
+- **3 October 2026 — *Draft the Five Islands first chapter*.** Drafted as
+  **S13E02C01 *The Same Hand*** (`src/seasons/s13/e02/s13e02c01.md`),
+  Strand B's first chapter, because the Library is the shortest reach
+  from what is published (the Abbess, la Chapelle and the Accounting are
+  on the page; the Castle is not canon and its ground and mechanism are
+  his). Heads: a new novice, **Oriel Fenwick** (`src/characters/
+  oriel-fenwick.md`, sixteen, a reeve's daughter from Difenland — the
+  Strand B young viewpoint the note put as *a novice of the Sisterhood
+  learning the hand*, name the draft's and his to change), and Emma la
+  Chapelle. The hand's rule stated by the Abbess; a charter-era practice
+  page counting five and naming them, the fifth a name the novice has
+  never heard; *the Accounting says five* and *you are here to keep a
+  hand*; la Chapelle declining both ways on the steps and writing the
+  question down as given; the empty column ruled; and the Library's
+  timelessness given its recommended reading in the Abbess's mouth —
+  nobody outside the order can say when it began, inside it begins every
+  morning when a novice sits down, *the book does not get older; we do*.
+  No mechanism reached for, none needed. The fifth name is seen and not
+  fixed, by the rule above.
+  **Registered with it, and stopped on:** thread `five-islands` named
+  *The Infinite Castle and the Timeless Library* (lean (a)), Season 13,
+  listed on `GENERAL_TIER` with no edition (lean), thread landing page
+  and Season 13 pages built, Episode 1 (the Castle) empty until its
+  ground and mechanism are his. The PR that carried it did not merge: the
+  thread's name, its listing, the novice's name and the Castle's two
+  shapes are named in it as the decisions, per the merge-unless-open
+  rule.
