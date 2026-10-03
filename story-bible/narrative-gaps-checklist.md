@@ -32,7 +32,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
 | **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 31 | The spine. Ends written; middle thin (S3 three chapters, S5 no E00) |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
-| **Orbital Five-O** | 4, 10 | 3 | Two seasons, three chapters; Season 10's cast is the Young Star Rangers' (see `open-questions.md`) |
+| **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 4 | One episode, complete in itself |
 | **Below the Roof** | 11 | 8 | Two episodes; the second season treated (`below-the-roof-second-season-treatment.md`) |
