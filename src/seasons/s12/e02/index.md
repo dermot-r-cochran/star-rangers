@@ -22,7 +22,12 @@ permalink: /seasons/s12/e02/
   broken. Aravena, asked at last, says where it stands: where the small one stood for eleven minutes, the first
   year. Nakagawa strikes the word fault, writes down what the imager saw and not what it was, and asks the Corps
   for the one colleague whose page this is. In a rack at the station, something the survey does not own goes on
-  logging what the survey does not read.
+  logging what the survey does not read. Then the colleague comes, on the supply run, and reads the file in the wind,
+  and asks about the third shelf of the rack. Odile Ferrant breaks a seal that is hers to break and reads two years
+  of a log that said nominal every day and meant inside the band. She watches the knock from the junction, asks for a
+  handheld to go with the stone, and is told not today. She files her reading at its grade in her own file, under the
+  name of the page she reads for a living, writes one line in the survey's log, and will not say what the feature is.
+  The station had known for two years, in a language nobody on it could read.
 </p>
 
 {% set seasonNumber = "12" %}
