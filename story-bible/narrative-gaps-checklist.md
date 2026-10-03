@@ -12,11 +12,11 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **69 chapters, twelve seasons, seven threads** |
+| 44 chapters, nine seasons, five threads | **70 chapters, thirteen seasons, seven threads** |
 | **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, four chapters, its own edition on young.fianilchruinne.com |
-| **Below the Roof** — three chapters | **Eight**, across two episodes |
+| **Below the Roof** — three chapters | **Nine**, across two seasons |
 | **Season 3** — two chapters | **Three** (*What Meridian Asked* added) |
 
 **The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
@@ -35,7 +35,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 4 | One episode, complete in itself |
-| **Below the Roof** | 11 | 8 | Two episodes; the second season treated (`below-the-roof-second-season-treatment.md`) |
+| **Below the Roof** | 11, 12 | 9 | Season 11 two episodes, complete; Season 12 begun 3 October (`below-the-roof-second-season-treatment.md`) |
 
 ---
 
@@ -94,14 +94,23 @@ re-derivation checks them too. Re-derive against `story-bible/` and
   hang from. What the re-baselined instrument says, and what the Compact
   does with Larsen's letter, are the season's next chapters.
 
+### Treated, drafting begun
+
+- [ ] **Below the Roof, second season** — Season 12, *not murders, just
+  shadows*, near the boundary feature
+  (`below-the-roof-second-season-treatment.md`). S12E01C01 *No Warmth in
+  It* drafted 3 October 2026, the first of Strand A's tellings; two to four
+  more tellings, Strand B from the imager fault, and the convergence pair
+  remain.
+
 ### Treated, nothing drafted
 
-- [ ] **Below the Roof, second season** — *not murders, just shadows*, near the
-  boundary feature (`below-the-roof-second-season-treatment.md`).
 - [ ] **The Five Islands** — *The Infinite Castle and The Timeless Library*: the
   court's oral chronicle against the Abbey's Long Accounting, the survey's
   instrument log off both (`five-islands-treatment.md`). Approved in shape;
-  no Season 12 in `lib/storyline-threads.js`, no chapter.
+  not registered in `lib/storyline-threads.js` (its treatment's Season 12
+  went to Below the Roof's second season on 3 October; it takes the next
+  free number), no chapter.
 
 ### Drafted, approved, unslotted
 

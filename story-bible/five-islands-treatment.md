@@ -366,7 +366,9 @@ Three shapes, his:
 - **The thread's name and id.** Put as choices in the intake: the pair as
   given, the seat's name, or another of his. The id is a permalink and
   waits on the name.
-- **The Season 12 registration** in `lib/storyline-threads.js`, and whether
+- **The season registration** in `lib/storyline-threads.js` (Season 12 when
+  this was written; Below the Roof's second season took 12 on 3 October
+  2026, so the next free number when the first chapter exists), and whether
   the thread is listed on `GENERAL_TIER` with its own young-adult edition on
   a subdomain (the young-star-rangers precedent) or on `YOUNG_ADULT_TIER`
   so starquest.site carries it too. Put as a choice in the intake.
