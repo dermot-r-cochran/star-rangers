@@ -12,7 +12,7 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **79 chapters, thirteen seasons, seven threads** |
+| 44 chapters, nine seasons, five threads | **80 chapters, fourteen seasons, eight threads** |
 | **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
@@ -36,6 +36,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 5 | **Complete** — one episode, the corridor season; the fifth chapter (3 October 2026) pays the officer's silence, ruled complete the same day |
 | **Below the Roof** | 11, 12 | 17 | Two seasons, each two episodes, both complete (`below-the-roof-second-season-treatment.md`) |
+| **The Infinite Castle and the Timeless Library** | 13 | 1 | Registered 3 October 2026 on the first chapter (Strand B, the Library); the name, listing and the Castle (Krilzat, the ark's hull) ruled the same day; Strand A draftable (`five-islands-treatment.md`) |
 
 ---
 
@@ -104,10 +105,13 @@ re-derivation checks them too. Re-derive against `story-bible/` and
 
 - [ ] **The Five Islands** — *The Infinite Castle and The Timeless Library*: the
   court's oral chronicle against the Abbey's Long Accounting, the survey's
-  instrument log off both (`five-islands-treatment.md`). Approved in shape;
-  not registered in `lib/storyline-threads.js` (its treatment's Season 12
-  went to Below the Roof's second season on 3 October; it takes the next
-  free number), no chapter.
+  instrument log off both (`five-islands-treatment.md`). First chapter
+  drafted 3 October 2026 (S13E02C01 *The Same Hand*, the Library's strand)
+  and the thread registered as Season 13 in the same PR; Dermot ruled the
+  same day (*1a 2a 3a 4a-i 5a*): the name, the general-tier listing, the
+  novice's name, and the Castle on Krilzat as the founding ark's hull.
+  Strand A (Episode 1) is draftable; its young viewpoint and the
+  convergence are still his.
 
 ### Drafted, approved, unslotted
 

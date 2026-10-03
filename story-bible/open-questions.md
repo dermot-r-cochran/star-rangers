@@ -2456,21 +2456,35 @@ put as choices:
   Timeless Library*** — read as the two strands' anchors and names
   (**Confirm**); the treatment `five-islands-treatment.md` is written on
   that reading.
-- **The thread's name** — (a) *The Infinite Castle and the Timeless
+- ~~**The thread's name** — (a) *The Infinite Castle and the Timeless
   Library*, lean; (b) *The Kingdom of the Five Islands*; (c) another of
-  his. The id waits on it.
-- **Where it is listed** — (a) `GENERAL_TIER` with its own subdomain
-  edition, lean; (b) `YOUNG_ADULT_TIER`, so starquest.site carries it.
-- **Where the Castle stands** — (a) Krilzat, recommended; (b) Vellamar.
+  his. The id waits on it.~~ **Ruled 3 October 2026, *1a*; id
+  `five-islands`.**
+- ~~**Where it is listed** — (a) `GENERAL_TIER` with its own subdomain
+  edition, lean; (b) `YOUNG_ADULT_TIER`, so starquest.site carries it.~~
+  **Ruled 3 October 2026, *2a*: `GENERAL_TIER`; an edition of its own is
+  a later live-site decision.**
+- ~~**Where the Castle stands** — (a) Krilzat, recommended; (b) Vellamar.
   **What it is** — (i) the founding ark's hull, recommended; (ii) an
-  Etheric anchor structure. The Library needs no mechanism; the
-  storm-reading-as-relic shape is listed and not recommended.
+  Etheric anchor structure.~~ **Ruled 3 October 2026, *4a-i*.** The
+  Library needs no mechanism; the storm-reading-as-relic shape is listed
+  and not recommended.
 - **The young viewpoints** — a house's youngest or a watch-post child for
   Strand A; a novice of the Sisterhood for Strand B; names his.
 - **The convergence** — (a) a door and an entry, recommended; (b) a third
   succession disagreement; (c) what Krilzat lost.
 - **Chapters per strand, episode-per-strand, a third strand, the Season 12
-  registration and the first chapter** — his.
+  registration and the first chapter** — his. **3 October 2026:** the first
+  chapter drafted at his ask as S13E02C01 *The Same Hand* (Strand B first;
+  Season 13, since Below the Roof took 12), the thread registered as
+  `five-islands` under the lean name and listing, and the PR stopped on
+  the name, the listing, the novice's name and Strand B-first — see
+  `intake-2026-10-03.md`, last section. **Ruled the same day, *1a 2a 3a
+  4a-i 5a*:** the name as given, the general-tier listing with no edition
+  yet, Oriel Fenwick, **the Castle on Krilzat and the founding ark's
+  hull**, the band as drafted. Still open: Strand A's young viewpoint
+  (house or watch-post), the convergence ((a) recommended), chapters per
+  strand, a third strand, an edition of its own.
 - **Photographic Beings** (sixth section, later still the same evening) —
   read as the Castle's third record, light-written (**Confirm**; three
   other readings listed). ~~What they are: (a) the founders' likenesses kept

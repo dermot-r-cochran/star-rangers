@@ -363,16 +363,18 @@ Three shapes, his:
 
 ## What stays open — his
 
-- **The thread's name and id.** Put as choices in the intake: the pair as
+- ~~**The thread's name and id.** Put as choices in the intake: the pair as
   given, the seat's name, or another of his. The id is a permalink and
-  waits on the name.
+  waits on the name.~~ **Ruled 3 October 2026, *1a*: the pair as given;
+  id `five-islands`.**
 - **The season registration** in `lib/storyline-threads.js` (Season 12 when
   this was written; Below the Roof's second season took 12 on 3 October
   2026, so the next free number when the first chapter exists), and whether
   the thread is listed on `GENERAL_TIER` with its own young-adult edition on
   a subdomain (the young-star-rangers precedent) or on `YOUNG_ADULT_TIER`
   so starquest.site carries it too. Put as a choice in the intake.
-- **Where the Castle stands and what it is** — the two shapes each, above.
+- ~~**Where the Castle stands and what it is** — the two shapes each, above.~~
+  **Ruled 3 October 2026, *4a-i*: Krilzat, the ark's hull.**
 - **The young viewpoints' names**, and whether Strand A's proxy is of a
   house or of the watch.
 - **The convergence** — (a) recommended, above.
@@ -408,3 +410,39 @@ Three shapes, his:
   case — licensed as a clarification of the Shadow page, realized in
   `src/glossary/` and on the lore page; the Castle's mechanism choice
   reweighted toward the boundary-zone shape.
+- **3 October 2026 — *Draft the Five Islands first chapter*.** Drafted as
+  **S13E02C01 *The Same Hand*** (`src/seasons/s13/e02/s13e02c01.md`),
+  Strand B's first chapter, because the Library is the shortest reach
+  from what is published (the Abbess, la Chapelle and the Accounting are
+  on the page; the Castle is not canon and its ground and mechanism are
+  his). Heads: a new novice, **Oriel Fenwick** (`src/characters/
+  oriel-fenwick.md`, sixteen, a reeve's daughter from Difenland — the
+  Strand B young viewpoint the note put as *a novice of the Sisterhood
+  learning the hand*, name the draft's and his to change), and Emma la
+  Chapelle. The hand's rule stated by the Abbess; a charter-era practice
+  page counting five and naming them, the fifth a name the novice has
+  never heard; *the Accounting says five* and *you are here to keep a
+  hand*; la Chapelle declining both ways on the steps and writing the
+  question down as given; the empty column ruled; and the Library's
+  timelessness given its recommended reading in the Abbess's mouth —
+  nobody outside the order can say when it began, inside it begins every
+  morning when a novice sits down, *the book does not get older; we do*.
+  No mechanism reached for, none needed. The fifth name is seen and not
+  fixed, by the rule above.
+  **Registered with it, and stopped on:** thread `five-islands` named
+  *The Infinite Castle and the Timeless Library* (lean (a)), Season 13,
+  listed on `GENERAL_TIER` with no edition (lean), thread landing page
+  and Season 13 pages built, Episode 1 (the Castle) empty until its
+  ground and mechanism are his. The PR that carried it did not merge: the
+  thread's name, its listing, the novice's name and the Castle's two
+  shapes are named in it as the decisions, per the merge-unless-open
+  rule.
+- **3 October 2026, later — *1a 2a 3a 4a-i 5a*.** The name stands as
+  registered; the listing stands (general tier, no edition yet); the
+  novice is Oriel Fenwick; **the Castle stands on Krilzat and is the
+  founding ark's hull**, (a) and (i) above, both as recommended; the band
+  stays. The Castle's two choices are closed, so Strand A can be drafted:
+  its young viewpoint and the convergence remain his and are put as
+  above. The mechanism rule is unchanged — the court's strand narrates
+  the Kingdom's reading, and the hull number appears only where the
+  survey's log is quoted.
