@@ -47,7 +47,7 @@ She identified the Obliger feeding signature before Galahad arrived at the cause
 
 Her recommendation is precise: name what is known. Clarity breaks the loop. Ambiguity is the food source.
 
-She filed, and she waited, for three years. Elvira asked in the end — on the record, in [The Right Question](/star-rangers/seasons/s01/e03/s01e03c02/) — and Aldera answered.
+She filed, and she waited, for three years. Elvira asked in the end — on the record, in [The Right Question](/star-rangers/seasons/s01/e03/s01e03c01/) — and Aldera answered.
 
 ## Before the Causeway
 

@@ -35,7 +35,7 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## Continuity — three slips held as choices and fourteen near-misses — raised 3 October 2026, OPEN
+## Continuity — three slips held as choices and fourteen near-misses — raised 3 October 2026, RULED same day (*Apply the recommended choices*)
 
 `intake-2026-10-03.md`, *Continuity*. A cross-check of every chapter's canon
 facts against the chapter bodies and character pages found eleven
@@ -401,7 +401,7 @@ nowhere else. Both strays sit in the first-published chapter.
 logs the grove "approximately 1.3 kilometres from Threshold Station's
 boundary-side hull section" (`s01e02c02`); "the sky over Dock Seven had
 gone from black to the colour of old steel" at dawn (`s01e02c03`); Galahad
-walks out to the causeway carrying the survey archive (`s01e03c02`); and
+walks out to the causeway carrying the survey archive (`s01e03c01`); and
 the prequel's geography — Dún Rí, the Boyne, Carraig Bán, the marsh — is
 one sailing-reachable coastline, with `boundary-zones.md` placing both
 documented sites "within the Solar System" as places that "could be stood

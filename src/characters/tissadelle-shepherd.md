@@ -32,9 +32,9 @@ By Season 5, these qualities have become load-bearing. A Line Captain who will n
 Several promotions land each season rather than one — Shepherd's climb is compressed, not skipped:
 
 - **Season 1:** Cadet → Deputy → Officer (general operations track)
-- **Season 2:** Officer → Senior → Principal, rotated onto the Survey Corps track — the posting that puts her on Hegemony telemetry duty, and the finding told under the Sentinel Signal, below, falls at the seam: the rotation begins in Season 2, the backlog she read as a new Principal belongs to Season 3, and the seasons overlap in time
+- **Season 2:** Officer → Senior → Principal, rotated onto the Survey Corps track — the posting that puts her on Hegemony telemetry duty, and the finding told under the Sentinel Signal, below, falls at the seam: the rotation begins in Season 2, the backlog she read as a new Principal belongs to Season 3, which opens in Late Winter 2828 with her already in the rank
 - **Season 3:** Principal → Section Lead → **Chief Ranger**, rotated back onto general operations rather than staying Survey-track
-- **Season 4:** Chief Ranger → Starwarden → Archwarden (then styled Starwarden First Officer) → Line Captain
+- **Between Seasons 3 and 5 (2828–2831):** Chief Ranger → Starwarden → Archwarden (then styled Starwarden First Officer) → Line Captain
 - **Season 5 (opening):** Line Captain
 
 See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for what each rank on that ladder carries.
@@ -65,7 +65,7 @@ She is physically strong. It is a hill farmer's strength and not an athlete's: t
 
 And she is brave, in the sense the record can support and no other. Her own account of the last forty-one minutes aboard the *Sufficient Cause* is that she was not brave about it, and not frightened either, and that she could not tell whether that was steadiness or only the part before fear arrives; the page keeps her word — see [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/). What the record holds instead is the shape of the thing: the arithmetic done three times, the harder order chosen because it was the one she could defend, every soul off the ship and her First Officer sent by a direct order and then a second — and, two seasons earlier, a Principal standing in a review chamber to be disbelieved about a signal until the finding was reproduced without her. Courage in her runs on the same economy as her confidence: real, spent where the work is, never performed. She would not accept the word. She has never yet declined the cost.
 
-Her relationship to [Karla Wender](/star-rangers/characters/karla-wender/) develops across the early seasons from distant chain-of-command awareness to direct operational contact, and then becomes formal. On Shepherd's promotion to Starwarden in Season 4, Wender is assigned as her **official mentor** under the Corps' [standing policy for the command ranks](/star-rangers/lore/star-rangers-command-hierarchy/) — the pairing that replaces, above Chief, what the [Academy](/star-rangers/lore/star-rangers-academy/) does by examination below it.
+Her relationship to [Karla Wender](/star-rangers/characters/karla-wender/) develops across the early seasons from distant chain-of-command awareness to direct operational contact, and then becomes formal. On Shepherd's promotion to Starwarden, between Seasons 3 and 5, Wender is assigned as her **official mentor** under the Corps' [standing policy for the command ranks](/star-rangers/lore/star-rangers-command-hierarchy/) — the pairing that replaces, above Chief, what the [Academy](/star-rangers/lore/star-rangers-academy/) does by examination below it.
 
 The assignment reads as obvious in hindsight and was not. Wender crossed the hinge rank from the technical ceiling, having spent an entire career getting better at one thing; Shepherd crossed it because a generalist's rotations had left her no other ladder. Two officers, opposite reasons, one rank — which is exactly why the pairing works. Wender is the one person senior to her who knows precisely what the crossing costs and arrived at it from the far side.
 

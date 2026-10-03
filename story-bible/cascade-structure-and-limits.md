@@ -683,7 +683,7 @@ three registers, all compatible with the settled positions above:
 - **The prose refuses fatalism explicitly.** S01E02C05: the team "did not move
   the body and call the failure fate — the way the folk around the causeway
   called every unexplained loss a Court thing and left it there, unexamined";
-  S01E03C01: a file precise enough that no inheritor "would be able to pretend
+  S01E03C04: a file precise enough that no inheritor "would be able to pretend
   it had been either malice or fate"; S06E01C01: "She was not a woman given to
   visions"; S01E00C02: "not a vision, nothing so generous as an image".
 - **Fatalistic readings are held by attributed in-universe voices in the

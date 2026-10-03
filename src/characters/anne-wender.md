@@ -18,7 +18,7 @@ Anne Wender did not name the settlement, and could not have refused it.
 
 ## Wender
 
-She went out in her late thirties to a frontier world under charter to [the Cairn Trust](/star-rangers/lore/cairn-trust/), hired as a safety officer for a buildout — the decade or more of imported cores, certified crews and rationed power that stands between a founding landing and a colony that can carry itself. It is ordinary work and she was good at it, in the way that is only visible afterwards: the settlement's early years contain no incident anybody remembers, which is what a safety officer is for and is never what one is thanked for.
+She went out in her early forties to a frontier world under charter to [the Cairn Trust](/star-rangers/lore/cairn-trust/), hired as a safety officer for a buildout — the decade or more of imported cores, certified crews and rationed power that stands between a founding landing and a colony that can carry itself. It is ordinary work and she was good at it, in the way that is only visible afterwards: the settlement's early years contain no incident anybody remembers, which is what a safety officer is for and is never what one is thanked for.
 
 Then the colony constituted itself and **elected her**, which is not the same job and answers to a different authority.
 

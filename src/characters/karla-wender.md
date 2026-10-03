@@ -44,7 +44,7 @@ The pairing puts the two crossings of the hinge rank side by side. Wender came t
 
 Wender was herself mentored by [Asteria](/star-rangers/characters/asteria-the-sage/), and the dates only permit one version of that, which happens to be the version worth having.
 
-Asteria was long retired by the time Galahad Thorne met her on a frontier posting, somewhere inside his twelve unbroken Survey Corps years — so she left the service in the early 2820s at the latest, at about a hundred, holding Star Captain. Wender was climbing the certification ladder through exactly that period: a Novice around the turn of the century, a Chief by the early 2820s, and not a Starwarden until after Season 1 opens. The two careers overlap for the whole of Wender's ascent and not for a day of her command.
+Asteria was retired by the time Galahad Thorne met her on a frontier posting, somewhere inside his twelve unbroken Survey Corps years — so she left the service in the early 2820s at the latest, at about a hundred, holding Star Captain. Wender was climbing the certification ladder through exactly that period: a Novice around the turn of the century, a Chief by the early 2820s, and not a Starwarden until after Season 1 opens. The two careers overlap for the whole of Wender's ascent and not for a day of her command.
 
 Which means **Asteria was never her assigned mentor.** The formal pairing begins at Starwarden, and by then Asteria was on a quiet planet running a chapter house. What Asteria gave her, she gave to a junior officer on the examined half of the ladder, with no policy requiring it and nothing on either record to show for it — a Star Captain in her nineties taking an interest in a pilot in her twenties because she felt like it.
 

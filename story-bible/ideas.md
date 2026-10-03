@@ -71,7 +71,7 @@ restating it:
   under time pressure that morning and had not yet decided whether he trusted
   himself to make a second one calmly" — and the chapter's answer is a rule,
   written so that a depleted officer doesn't have to be fresh to be safe.
-- **The `s01e03c01` administrator** — "defensiveness worn thin by exhaustion"
+- **The `s01e03c04` administrator** — "defensiveness worn thin by exhaustion"
   — a minor official defending a failed protocol, tired rather than venal.
 - **Albercombe** (via ../src/characters/jeeves.md): Eden's welfare program
   finds a household intelligence "cheaper than the paperwork for a burnout" —

@@ -13,7 +13,7 @@ scene holds the corpus's structure: two viewpoints, each withholding what the
 other supplies.
 
 **Timing deliberately unfixed.** At the Marsh Causeway outpost, after Aldera's
-arrival and before *The Right Question* (S01E03C02), while the circle still
+arrival and before *The Right Question* (S01E03C01), while the circle still
 fails nightly and the two of them have not yet spoken on the record. No date is
 given. It could sit as a chapter in Season 1 Episode 2 or 3, as a gated
 `tier=contemplative` block on an existing chapter, or stay here.
