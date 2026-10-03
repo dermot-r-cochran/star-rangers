@@ -81,14 +81,18 @@ re-derivation checks them too. Re-derive against `story-bible/` and
 
 ### Convergences fixed and not yet on the page
 
-- [ ] **Below the Roof, first season** — an up-person puts a stone down first
-  at the line, Stone-First hears the ground announce a stranger; each strand
-  records it and neither records what was said (`below-the-roof-treatment.md`).
-  Both strands written (S11E01, five chapters; S11E02, three); the meeting is
-  not.
+- [x] **Below the Roof, first season** — written 8 September 2026 as a
+  pair, *Theirs to Move* (S11E01C05, the deep side) and *Something Happened*
+  (S11E02C03, from above), PR #751: an up-person sets a stone down first at
+  the line, Stone-First answers by moving one, neither record carries what
+  was said. The 2026-10-03 inventory listed it as unwritten in error;
+  corrected the same day.
 - [ ] **Orbital Five-O, second season** — the Deputy's strand (S10E01C01) and
   the Chthonari crew's (S10E01C02) are one chapter each; the convergence is
-  ruled in `five-o-second-season-treatment.md` and unwritten.
+  ruled in `five-o-second-season-treatment.md` (*two readings of one
+  structure*: the Deputy lays the task force's ledger beside the crew's log
+  and names what the two have in common) and unwritten. C01 ends with the
+  log fetched and the laying-beside not yet done.
 
 ### Treated, nothing drafted
 
