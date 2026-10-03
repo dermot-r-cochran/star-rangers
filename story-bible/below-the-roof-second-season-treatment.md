@@ -389,7 +389,7 @@ chapter exists, and its treatment is corrected to say so.
   unchanged. Conduct unchanged. The chapter never prints the page's name.
   Nakagawa's closing count: three records on one roof that cannot be laid
   side by side, and a fourth below, kept by speaking.
-- **S12E01C05 *The Light Went Round It* and S12E02C03 *Two on the
+- **S12E01C06 *The Light Went Round It* and S12E02C03 *Two on the
   Line*** (same day, at his *Draft the Below the Roof convergence
   chapters*, drafted as a pair) — the convergence, recommended (1): a
   shadow at the line seen from both sides. One act, two records, written
@@ -415,10 +415,33 @@ chapter exists, and its treatment is corrected to say so.
   word, from what the up-people did with it: *the one not asked*; not a
   word, and none made. Nobody records what Aravena said; nobody tells
   anybody anything; the line has four stones.
-- **The season's two strands are complete: five chapters below, three
-  above**, the shape of Season 11 exactly. Candidate 5 (the shape that
-  went through the squeeze) stays unwritten and optional under the
-  ruling's three-to-five; adding it would be a sixth deep-side chapter at
-  his ask. Nothing is explained, nothing is named on any Told page, the
-  Fliade entry's sentence on the feature stands, and the Membrane Shadow
-  page is never printed in the thread.
+- **S12E01C05 *Where the Rock Is*** (same day, at his *Draft the sixth
+  Below the Roof chapter*) — candidate 5, *the shape that went through
+  the squeeze*, the fifth and last of the Told's tellings, placed before
+  the convergence because a convergence closes an episode: the
+  convergence drafted as C05 was renumbered to **S12E01C06** in the same
+  change (its `comment_id`, and so its `/c/` citation, unchanged; its
+  timestamp and Went-Round's closing count of tellings updated from five
+  to six). Heads: Stone-First-Who-Waited (three blocks) and Carried-It-
+  Sleeping (two). The smaller of the two small ones who tried the
+  squeeze all of Season 11, the first to stand beside Stone-First, asks
+  with a stone to go up once more and find out whether they still fit;
+  Stone-First steps off the line for the first time to let them; the
+  rock closes on them at the narrow, the day every small one is told
+  about; held there, facing up, they see a shape in the crack ahead where
+  it is a hand wide, in the rock the way a person is in the warm, not
+  scraping, going on where the rock is and then not ahead. Stone-First
+  cannot follow and says *breathe out*. The mechanism (a shadow needs no
+  gap) stays the Archive's; the Told's certainty about stone fails
+  without the stone moving. Carried-It-Sleeping's reading: the small
+  ones' whole season was wanting to fit the one way through, and the
+  thing fitted everything and needed nothing, and a way is not less
+  yours for having been used by something that did not need one. Stone-
+  First's: nothing about the rock or the small one has stopped being
+  true; the margin has edges everywhere this season, and Stone-First kept
+  the one that could be kept.
+- **The season's two strands are complete: six chapters below, three
+  above** — all five candidate shadows and the convergence on the deep
+  side, Season 11's shape plus one. Nothing is explained, nothing is
+  named on any Told page, the Fliade entry's sentence on the feature
+  stands, and the Membrane Shadow page is never printed in the thread.

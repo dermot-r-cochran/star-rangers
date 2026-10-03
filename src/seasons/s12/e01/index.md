@@ -33,7 +33,11 @@ permalink: /seasons/s12/e01/
   because nobody came. The small ones are not afraid of it, which is what Stone-First comes down the shelving to be
   careful about; Went-Round goes round it and finds it has a back the same as its front; it goes back into the wall
   before the telling ends. Everyone was there, so nobody can tell it, and the Told have no word for a thing that is
-  beside you and in nobody's place. And then the one act, from the deep side: Stone-First is on the line when the
+  beside you and in nobody's place. Then the small one who first stood beside Stone-First asks, with the manners, to
+  go up the squeeze one more time, to find out whether they still fit, and the rock closes on them at the narrow the
+  way it closes on everyone, and while they are held there a shape is in the crack ahead, where the crack is a hand
+  wide, in the rock the way a person is in the warm, and then it is not ahead. The squeeze is the people's one way,
+  and a thing has used it without needing a way. And then the one act, from the deep side: Stone-First is on the line when the
   up-people's loud comes down, and there is a shape on the line too, an arm's length beside, facing the squeeze, and
   it moved no stone coming. The small up-person comes through with the stone and the light held low, and the light
   finds Stone-First's feet, and then finds the shape, and goes round it. The up-person sets the stone down a hand
