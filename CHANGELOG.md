@@ -8,7 +8,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Changed
 
-- **S07E01C03 *Enough Is Enough*: one line plainer** (2026-10-03, Dermot's direction, verbatim *Change it to "in a hundred small ways, afterwards"*, after asking what a *weather* was in *a hundred small later weathers*). The figure was a count-noun stretch on *in all weathers* and caused a stop at first reading; the sentence now says the same thing without it. Wording only; the canon facts and the sense are unchanged.
+- **S07E01C03 *Enough Is Enough*: one line plainer** (2026-10-03, Dermot's direction, verbatim *Change it to "in a hundred small ways, afterwards"*, after asking what a *weather* was in *a hundred small later weathers*). The figure was a count-noun stretch on *in all weathers* and caused a stop at first reading; the sentence said the same thing without it. **Revised the same day** on his refinement that a figure is valid in dialogue, internal dialogue or at the contemplative tier, and the sentence sits in Wender's POV block, which the house style reads in her idiom: *in a hundred small weathers, afterwards* (his *Option 1* of three), the figure restored with one modifier fewer, so nothing stacks before the noun. Wording only; the canon facts and the sense are unchanged.
 
 ### Added
 
