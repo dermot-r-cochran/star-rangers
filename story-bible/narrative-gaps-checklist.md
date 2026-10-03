@@ -12,11 +12,11 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **75 chapters, thirteen seasons, seven threads** |
+| 44 chapters, nine seasons, five threads | **77 chapters, thirteen seasons, seven threads** |
 | **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, four chapters, its own edition on young.fianilchruinne.com |
-| **Below the Roof** — three chapters | **Fourteen**, across two seasons |
+| **Below the Roof** — three chapters | **Sixteen**, across two seasons |
 | **Season 3** — two chapters | **Three** (*What Meridian Asked* added) |
 
 **The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
@@ -35,7 +35,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 4 | One episode, complete in itself |
-| **Below the Roof** | 11, 12 | 14 | Season 11 two episodes, complete; Season 12 begun 3 October (`below-the-roof-second-season-treatment.md`) |
+| **Below the Roof** | 11, 12 | 16 | Two seasons, each two episodes, both complete (`below-the-roof-second-season-treatment.md`) |
 
 ---
 
@@ -81,6 +81,12 @@ re-derivation checks them too. Re-derive against `story-bible/` and
 
 ### Convergences fixed and not yet on the page
 
+- [x] **Below the Roof, second season** — Season 12, *not murders, just
+  shadows*, written 3 October 2026 in a day at Dermot's ask, chapter by
+  chapter under his standing approval: Strand A's four tellings and the
+  convergence below (S12E01C01–C05), Strand B's three above
+  (S12E02C01–C03), five and three as in Season 11. Nothing explained,
+  nothing named. Candidate 5 of the treatment unwritten and optional.
 - [x] **Below the Roof, first season** — written 8 September 2026 as a
   pair, *Theirs to Move* (S11E01C05, the deep side) and *Something Happened*
   (S11E02C03, from above), PR #751: an up-person sets a stone down first at
@@ -93,18 +99,6 @@ re-derivation checks them too. Re-derive against `story-bible/` and
   member all three are about, approach mount three, which the instruments
   hang from. What the re-baselined instrument says, and what the Compact
   does with Larsen's letter, are the season's next chapters.
-
-### Treated, drafting begun
-
-- [ ] **Below the Roof, second season** — Season 12, *not murders, just
-  shadows*, near the boundary feature
-  (`below-the-roof-second-season-treatment.md`). S12E01C01 *No Warmth in
-  It*, S12E01C02 *Someone Is Coming*, S12E01C03 *Where Someone Always
-  Stands* and S12E01C04 *Out of the Wall* drafted 3 October 2026: Strand
-  A's four tellings, the bright one last. S12E02C01 *Imager Fault* and
-  S12E02C02 *Nominal* the same day are Strand B, the boundary officer
-  Odile Ferrant on the roof. Candidate 5 is optional; the convergence
-  pair remains.
 
 ### Treated, nothing drafted
 

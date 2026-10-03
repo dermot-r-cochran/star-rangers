@@ -27,7 +27,12 @@ permalink: /seasons/s12/e02/
   of a log that said nominal every day and meant inside the band. She watches the knock from the junction, asks for a
   handheld to go with the stone, and is told not today. She files her reading at its grade in her own file, under the
   name of the page she reads for a living, writes one line in the survey's log, and will not say what the feature is.
-  The station had known for two years, in a language nobody on it could read.
+  The station had known for two years, in a language nobody on it could read. And then the one act, from above:
+  Nakagawa has slept on it and the answer is today. Aravena takes the stone through, and on the chest strap, pointed
+  where the light points, Ferrant's handheld. The light finds the one on the line, and beside it, an arm's length to
+  the side, a second shape the light goes round. The handheld sees two upright shapes and one thermal return. Aravena
+  does the thing anyway, a hand from the warm one's feet, and is answered by the sound the party has known for a year,
+  and the other answers nothing. The log that shift says what happened and not one thing more.
 </p>
 
 {% set seasonNumber = "12" %}

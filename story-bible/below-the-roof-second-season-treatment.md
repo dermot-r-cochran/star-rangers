@@ -389,8 +389,36 @@ chapter exists, and its treatment is corrected to say so.
   unchanged. Conduct unchanged. The chapter never prints the page's name.
   Nakagawa's closing count: three records on one roof that cannot be laid
   side by side, and a fourth below, kept by speaking.
-- Still to draft: the convergence as a pair — a shadow at the line seen
-  from both sides, the party's stone answered and the shape answering
-  nothing; the handheld Ferrant asked for is the natural instrument, and
-  Nakagawa's *not today* is the door it comes through. Candidate 5 stays
-  optional. Each at his ask.
+- **S12E01C05 *The Light Went Round It* and S12E02C03 *Two on the
+  Line*** (same day, at his *Draft the Below the Roof convergence
+  chapters*, drafted as a pair) — the convergence, recommended (1): a
+  shadow at the line seen from both sides. One act, two records, written
+  to one shared set of facts. Stone-First-Who-Waited is on the line when
+  a shape stands an arm's length beside, facing the squeeze, having moved
+  no stone; Aravena comes through with the stone and, by Nakagawa's
+  order that morning, Ferrant's handheld on the chest strap, pointed low,
+  sound channel off; the light goes onto the one and round the other,
+  throwing no shadow behind it; Aravena sets the stone a hand from the
+  warm one's feet and not the other's, says the thing, and is answered by
+  the rock; the shape answers nothing and does not move; both still on
+  the line when the light withdraws; gone later with no stone moved,
+  which only the deep side knows. Deep heads: Stone-First (three blocks)
+  and Went-Round (two); survey heads: Aravena (two), Ferrant (one),
+  Nakagawa (two). The recognition the season turns on, from both sides:
+  the up-people, who cannot hear the ground, told the two apart by their
+  light and asked the one who could answer; the Told, who hear the
+  ground, could not tell what the other was — each people has the
+  instrument the other lacks, for once about the same thing on the same
+  line. Ferrant's grade does not change (*direct observation, reading
+  unchanged*); what she learned and cannot write is that it stood
+  *beside*, the word the Told lack too. Went-Round's nearest thing to a
+  word, from what the up-people did with it: *the one not asked*; not a
+  word, and none made. Nobody records what Aravena said; nobody tells
+  anybody anything; the line has four stones.
+- **The season's two strands are complete: five chapters below, three
+  above**, the shape of Season 11 exactly. Candidate 5 (the shape that
+  went through the squeeze) stays unwritten and optional under the
+  ruling's three-to-five; adding it would be a sixth deep-side chapter at
+  his ask. Nothing is explained, nothing is named on any Told page, the
+  Fliade entry's sentence on the feature stands, and the Membrane Shadow
+  page is never printed in the thread.
