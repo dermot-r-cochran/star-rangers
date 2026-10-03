@@ -365,7 +365,32 @@ chapter exists, and its treatment is corrected to say so.
   is for the officer to read. The request to the boundary side is filed
   with the fact and no reading, so the officer's arrival is the next
   chapter's. The strand does not go down and sees nothing of the deep.
-- Still to draft: Strand B's second chapter (the boundary officer called
-  in, the gravimeter's log read, *how much of what this person knows may
-  be written in a log the Told will never read*), and the convergence as
-  a pair. Each at his ask.
+- **S12E02C02 *Nominal*** (same day, at his *Draft the next Below the
+  Roof chapter*) — Strand B's second chapter: the boundary officer called
+  in, recommended (a). The new head is **Odile Ferrant**, Section Lead,
+  Survey Corps boundary monitoring at a Threshold-class station, certified
+  boundary analyst (`src/characters/odile-ferrant.md`, written with the
+  chapter; no image yet). Three heads: Nakagawa, Ferrant, Aravena. She
+  reads the file in the wind and asks first about the rack; breaks the
+  gravimeter's seal (hers to break) and reads two years of *nominal* that
+  meant *inside the band*: a small stable offset since before the first
+  knock, and seven excursions coincident with the imager's seven — the
+  Forty-Second Discrepancy's shape, on a roof, and she was trained on it.
+  She watches the knock from the junction and hears the answer through
+  her boots; asks Aravena what was said and, told it is not in the log,
+  says *good*; asks for a handheld to go with the stone and is told *not
+  today* (the convergence's instrument, left for the convergence to
+  grant). The strand's question — *how much of what this person knows may
+  be written in a log the Told will never read* — is answered as her
+  discipline: the reading goes in the boundary side's own file, at its
+  grade, under the page's name, *consistent with* and never *is*; the
+  survey log gets one line and no name; the feature under study stays in
+  her file and out of the survey's, so the Fliade entry's sentence is
+  unchanged. Conduct unchanged. The chapter never prints the page's name.
+  Nakagawa's closing count: three records on one roof that cannot be laid
+  side by side, and a fourth below, kept by speaking.
+- Still to draft: the convergence as a pair — a shadow at the line seen
+  from both sides, the party's stone answered and the shape answering
+  nothing; the handheld Ferrant asked for is the natural instrument, and
+  Nakagawa's *not today* is the door it comes through. Candidate 5 stays
+  optional. Each at his ask.
