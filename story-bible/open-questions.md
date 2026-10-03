@@ -2189,8 +2189,12 @@ at his word. What the treatment leaves his is below.
 
 ## ~~Below the Roof, second season~~ — `below-the-roof-second-season-treatment.md`, 8 September 2026 — RULED 8 September 2026 (*approved*: every recommendation stands; drafting at his word)
 
-- **The season's number** — assign when the first chapter is drafted, in
-  drafting order (recommended); Five-O's second season is also planned.
+- ~~**The season's number** — assign when the first chapter is drafted, in
+  drafting order (recommended); Five-O's second season is also planned.~~
+  **Assigned 3 October 2026: Season 12**, when S12E01C01 *No Warmth in It*
+  was drafted (`intake-2026-10-03.md`, last section). Open from that
+  drafting: whether the new small one becomes a head, which needs a name
+  and a page.
 - **The instrument** — a dormant cross-membrane gravimeter whose log nobody
   reads (recommended), or none.
 - **A boundary officer called in**, and a new head on the survey side

@@ -254,3 +254,32 @@ first telling first (the shortest reach from what is published, and it
 fixes the register the others follow), then Strand B from the imager fault,
 then the convergence as a pair. The shadows seed and this treatment are
 the record of the choice.
+
+## Drafting record
+
+**3 October 2026 — the first telling drafted.** At Dermot's *Draft the first
+chapter of Below the Roof's second season*, under his standing approval of
+the same day for the mundane (`intake-2026-10-03.md`, *Standing approval
+for the mundane*). **The season is Season 12**, assigned in drafting order
+as recommended above: 0–11 were claimed, so the registry now carries
+`seasons: [11, 12]` on the thread. The Five Islands treatment names Season
+12 for its own first season; it takes the next free number when its first
+chapter exists, and its treatment is corrected to say so.
+
+- **S12E01C01 *No Warmth in It*** — candidate 1, *the shape at the seep*,
+  Strand A's first telling. Heads: Went-Round and Stone-First-Who-Waited.
+  The new small one is in it as the witness — the smallest of the Told,
+  born after the two stones, unnamed because the warm has not settled on
+  what to say of them — and not as a head, because a head needs a page
+  (`src/characters/<id>.md` for the scene-POV pages) and the name the page
+  would carry is the warm's to grow, not the draft's to assign. The Told's
+  word, *shadow*, is said once, by Went-Round, and not glossed: it covers
+  any shape that moves and moves no stone, the fullest form. The telling
+  is settled by who was there and the shape is not settled, on
+  Went-Round's finding from *Someone to Ask*. Nobody goes up; the up-people
+  are not told. Timestamp *2833 UCSD, the survey's third year on the
+  ground*. Five canon facts, each a thing the smallest or the warm could
+  know; none says what the shape was.
+- Still to draft: the remaining Strand A tellings (two to four, from
+  candidates 2–5, one bright), Strand B from the imager fault, and the
+  convergence as a pair. Each at his ask.
