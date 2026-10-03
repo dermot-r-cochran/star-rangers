@@ -378,3 +378,22 @@ is quoted in Larsen's annex, which is as told as the crew gets. What the
 inspection finds, and the ending test (the ending must change how the
 beginning reads: the form on the ninth day was the whole mechanism), are
 the season's last chapter.
+
+**3 October 2026, the last of the evening, at Dermot's *Draft the next
+Season 10 chapter, I approve anything mundane that does not seem like a
+radical change*:** S10E01C07 *Record in Order*, the season's last chapter.
+The joint inspection finds the 2825 strike's damage at the mount's root
+under the original skin, a bent bracket that shifted its load onto mount
+three; the crew's members sound; two pairs of engineers agree one number,
+the reference's; the habitat corrects its certification and schedules the
+remedial work at once; the Compact's audit finds a date held and no
+intent; Five-O closes its file in the open and the raven leaves; Smith
+countersigns because the record is now in order, and writes *not a
+finding* under it, because none was needed. The potential catastrophe is
+said once under the ring and goes into the report and nowhere else. The
+ending test met as the ruling asks: the ninth day's form reads, from the
+end, as the whole mechanism (*nothing on the watch watched anything; a
+Deputy carried a line across a ring until it reached the one desk that
+could say whose it was*). **Season 10 stands complete at seven chapters:
+the Deputy's strand C01, C03, C04, C06, C07; the crew's C02, C05.** The
+treatment's work is done.
