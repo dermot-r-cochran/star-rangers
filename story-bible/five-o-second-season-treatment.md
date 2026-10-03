@@ -330,3 +330,18 @@ hinted (the instruments that would first see a fold approach go wrong hang
 from the one member nobody has looked at). What the re-baselined number
 says, and what the Compact does with Larsen's letter, are the season's
 next chapters.
+
+**3 October 2026, the same evening, at Dermot's *Draft the next Season 10
+chapter*:** S10E01C04 *More, Not When*, the first of the two beats the
+convergence left owed. The watch's re-baseline carried out under the dock
+ring at ring's night, by two engineers the Starwarden sent from the Passage
+oversight, with the Deputy standing where the watch's request was carried
+out; the number, a third again over the certified load, the zero set with
+the deflection already in it; the countersign refused rather than withheld,
+on the one ground within the watch's competence; the instruments left on
+mount three as the member's only witness; and the Compact's courteous
+answer to Larsen's letter, the inspection scheduled for the next budget
+quarter, nobody refusing anything. The second beat, what the Compact does
+when the quarter comes and what the Starwarden does with the referral, is
+the season's next; the crew's strand has not yet heard the engineers on
+their deck, which is Strand B's to tell if it is told.
