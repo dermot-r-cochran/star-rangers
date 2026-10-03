@@ -345,3 +345,18 @@ quarter, nobody refusing anything. The second beat, what the Compact does
 when the quarter comes and what the Starwarden does with the referral, is
 the season's next; the crew's strand has not yet heard the engineers on
 their deck, which is Strand B's to tell if it is told.
+
+**3 October 2026, later the same evening, at Dermot's *Draft the next
+Season 10 chapter*:** S10E01C05 *What Settles It*, Strand B's second
+chapter and the crew's last shift. The information crosses the wall by the
+one route the strand rules allow: Tsikk's standing question to the
+habitat's mind, asked from the deck every shift, is answered on the last
+shift with the changed record (re-baselined; countersign refused;
+inspection scheduled next quarter). The crew never meets the watch, the
+task force or the engineers, and does not learn who set the reference or
+what it found. Tekka, who said the first reading settled it, says what
+settles it now (the asking completed, not the ring); Kattik adds the
+log's closing line (*read; by whom, not known to this crew; mount still
+rings*); Tikket stands on the mount a last time. The crew leaves Eden.
+The season's remaining beat is the quarter's and the Starwarden's, on
+the Deputy's side.
