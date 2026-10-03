@@ -35,6 +35,18 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Continuity — three slips held as choices and fourteen near-misses — raised 3 October 2026, OPEN
+
+`intake-2026-10-03.md`, *Continuity*. A cross-check of every chapter's canon
+facts against the chapter bodies and character pages found eleven
+contradictions; nine were fixed as clarifications. Open, each put as a
+choice with a recommendation: the S07E01C01 timestamp against its own
+day-count; Galahad's *three years ago* at the causeway; Asteria's age in
+Season 8; and fourteen near-misses, chiefly **where the UCSD year turns**
+(no page settles it, and it decides the S07 stamp, Aldera's arrival year
+and the S03 stamps), the order of *The Order of Evacuation*, which rank is
+the entry rank, Season 10's thread, and the Threshold police's name.
+
 ## The Krenyi origin reading — where the evolutionary account of their rarity lives — raised 2 October 2026, RE-GROUNDED same day
 
 `intake-2026-10-02.md`, last section. Dermot's question on the Krenyi's
