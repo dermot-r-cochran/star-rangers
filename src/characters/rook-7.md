@@ -3,7 +3,7 @@ layout: character.njk
 title: "Rook-7"
 id: rook
 species: Robot (Investigative/Analytical chassis)
-role: Field Analyst, Threshold Station Police Department
+role: Field Analyst, Threshold Station Constabulary
 status: Active
 aliases:
   - "Rook"

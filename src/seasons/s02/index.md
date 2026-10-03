@@ -14,7 +14,7 @@ permalink: /seasons/s02/
 
 <h1 class="page-title">Season 2</h1>
 <p class="page-intro">
-  Eden Space Habitat runs on paperwork, and the Undercover Pets Detective Agency reads it first. Season 2 follows Agent Barsik, a cat, and Bubochka, a trainee rabbit, from the service tunnels of Eden to a crossing night on Drithane. There, a whole valley turns its lights down to watch the sky. Along the way they meet small warm creatures that nobody has a name for yet.
+  Eden Space Habitat runs on paperwork, and the Undercover Pets Detective Agency reads it first. Season 2 opens on the office that reads that paperwork, then follows Agent Barsik, a cat, and Bubochka, a trainee rabbit, from the service tunnels of Eden to a crossing night on Drithane. There, a whole valley turns its lights down to watch the sky. Along the way they meet small warm creatures that nobody has a name for yet.
 </p>
 <p class="page-intro">
   This season stands on its own. You do not need to read anything else first. It is funny on the surface and careful underneath, and there is nothing in it a young reader should not meet. The shortest parts of each chapter are written for exactly that reader: the same events, told simply. Grown-ups reading along should know that the cat has already read their file.

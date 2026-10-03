@@ -6,7 +6,7 @@ library: "Earth Institutional Archives"
 tags: [rook-7, threshold-station, boundary, field-log, police-department]
 description: "Rook-7's compiled log from the first week at Threshold Station. Classified by the police department as a preliminary site assessment."
 author: "Rook-7"
-institution: "Threshold Station Police Department (Field Unit Network)"
+institution: "Threshold Station Constabulary (Field Unit Network)"
 location: "Police Department Central Archive, Earth — synced from Rook-7's field-unit storage via the next Star Rangers courier run out of Threshold Station"
 image: "rook-7-first-week-log.jpg"
 image_alt: "Designed cover for Field Log: Rook-7: a terminal-style log readout in teal-green scanlines on a dark background."

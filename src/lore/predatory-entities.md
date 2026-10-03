@@ -28,7 +28,7 @@ They resist clarity because clarity destroys the feeding condition. They prefer 
 
 Their sapience matters operationally. The Obliger at the Marsh Causeway adapted across each of Elvira's failed rituals, learning from every attempt and adjusting the substrate to block resolution. That is not instinct. That is strategy.
 
-**How to counter them:** ask the question that has a definite answer, and insist on the answer. The Marsh Causeway sequence is the worked case end to end — [The Broken Causeway (S01E02C01)](/star-rangers/seasons/s01/e02/s01e02c01/) for the feeding condition being fed by well-meant, imprecise work, and [The Right Question (S01E03C02)](/star-rangers/seasons/s01/e03/s01e03c02/) for what breaks it: not force, and not a better ritual, but somebody finally putting a question to the one participant nobody had asked, in terms that could not be answered ambiguously. Note that clarity broke the *loop*, not the anchor. [The Root and the Rest of It (S01E03C03)](/star-rangers/seasons/s01/e03/s01e03c03/) is the second half of the job, and the demonstration that removing one cause from a two-cause problem proves only which cause you removed.
+**How to counter them:** ask the question that has a definite answer, and insist on the answer. The Marsh Causeway sequence is the worked case end to end — [The Broken Causeway (S01E02C01)](/star-rangers/seasons/s01/e02/s01e02c01/) for the feeding condition being fed by well-meant, imprecise work, and [The Right Question (S01E03C01)](/star-rangers/seasons/s01/e03/s01e03c01/) for what breaks it: not force, and not a better ritual, but somebody finally putting a question to the one participant nobody had asked, in terms that could not be answered ambiguously. Note that clarity broke the *loop*, not the anchor. [The Root and the Rest of It (S01E03C02)](/star-rangers/seasons/s01/e03/s01e03c02/) is the second half of the job, and the demonstration that removing one cause from a two-cause problem proves only which cause you removed.
 
 ## Gilded Saints
 
@@ -57,6 +57,6 @@ They are non-sapient. Their behaviour is instinctive pattern-matching against vu
 ## See Also
 
 - [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/) — where these three sit relative to entities that do hold Cascade standing
-- [The Right Question (S01E03C02)](/star-rangers/seasons/s01/e03/s01e03c02/) — an Obliger feeding condition broken by clarity
+- [The Right Question (S01E03C01)](/star-rangers/seasons/s01/e03/s01e03c01/) — an Obliger feeding condition broken by clarity
 - [Shown, Not Healed (S07E01C02)](/star-rangers/seasons/s07/e01/s07e01c02/) — the Gilded Saint counter, taught under live conditions
 - [Saint Aoife](/star-rangers/lore/saint-aoife/) — the shown/healed distinction, fourteen centuries early

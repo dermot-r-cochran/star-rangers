@@ -14,7 +14,7 @@ permalink: /seasons/s10/
 
 <h1 class="page-title">Season 10</h1>
 <p class="page-intro">
-  Orbital Five-O's second season, and the first told in two strands that never share a room. On Eden's fold-approach side, a Deputy on a first posting is sent to fetch a contractor's log. Under the dock ring, a crew of four who hear the habitat through the deck have already written in it something the certification did not ask for. Between them stands the one structure both jurisdictions touch, reporting itself sound.
+  Orbital Five-O's second season, carried by the young cast of Season 9 — a Deputy's first posting is the reader's way in — and the first told in two strands that never share a room. On Eden's fold-approach side, a Deputy on a first posting is sent to fetch a contractor's log. Under the dock ring, a crew of four who hear the habitat through the deck have already written in it something the certification did not ask for. Between them stands the one structure both jurisdictions touch, reporting itself sound.
 </p>
 <p class="page-intro">
   Season 4's case turned on the difference between a machine that works and one that only holds still. This season's turns on the difference between a structure that is certified and a structure that is heard — and on who, out of three parties with no standing to report to each other, carries one account into the other room. Read the two strands in order; they are complete apart, and they meet once.
