@@ -12,10 +12,10 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **78 chapters, thirteen seasons, seven threads** |
+| 44 chapters, nine seasons, five threads | **79 chapters, thirteen seasons, seven threads** |
 | **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
-| *(Young Star Rangers not listed)* | **Exists** — Season 9, four chapters, its own edition on young.fianilchruinne.com |
+| *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
 | **Below the Roof** — three chapters | **Seventeen**, across two seasons |
 | **Season 3** — two chapters | **Three** (*What Meridian Asked* added) |
 
@@ -34,7 +34,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
 | **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
-| **Young Star Rangers** | 9 | 4 | One episode, complete in itself |
+| **Young Star Rangers** | 9 | 5 | One episode, complete in itself; the fifth chapter (3 October 2026) pays the officer's silence |
 | **Below the Roof** | 11, 12 | 17 | Two seasons, each two episodes, both complete (`below-the-roof-second-season-treatment.md`) |
 
 ---
@@ -142,10 +142,13 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   waits on a thread reaching about 2837.
 - [ ] **The younger Shepherd as a Five-O guest** (2826) and **Wender** in a
   pre-2810 chapter — licensed 3 September, neither used.
-- [ ] **Zoe Smith declining to speak** — three Season 9 chapters running end
-  on it; the fifth chapter has to pay it. Season 9 has no mystery of its own
-  yet; Tikket and the ringing mount are the candidate, held since
-  14 September.
+- [x] **Zoe Smith declining to speak** — paid 3 October 2026 by S09E01C05
+  *Stand Where You Like*: the desk step moves on Varn's own, Smith says so
+  aloud for the first time, and answers the question about the well with
+  the one thing she has, that she was never told. Season 9 still has no
+  mystery of its own: the Tikket candidate went to Season 10's mount the
+  same day, and whether the season needs one is put to Dermot as a
+  choice in the intake.
 - [ ] **Sohrel and the Sentinel–Meridian connection** — declined without a
   stated reason; either a declination that costs her something, or the
   raising (also under *Season 3* above).
