@@ -2587,6 +2587,10 @@ sixth-day clause, merge when green*; PR #873 merged on it.** From the fit
 check, **open for the fifth chapter:** the season has no mystery of its own
 yet (Tikket and the ringing mount are the candidate, held since 14
 September); three chapters running end on Smith declining to speak.
+**The silence paid 3 October 2026** by S09E01C05 *Stand Where You Like*
+(`intake-2026-10-03.md`, *The next chapter: Season 9's fifth*); the
+Tikket candidate went to Season 10 the same day, and whether Season 9
+needs a mystery of its own is put there as a choice, (a) recommended.
 
 ## Lev Saunders joins the Star Rangers when he is older — raised 27 September 2026
 

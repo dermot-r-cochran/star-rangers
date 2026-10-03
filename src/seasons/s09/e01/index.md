@@ -15,7 +15,7 @@ permalink: /seasons/s09/e01/
 
 <h1 class="page-title">Season 9 · Episode 1</h1>
 <p class="page-intro">
-  The first posting. A Deputy arrives on the boundary watch with a service suffix, a kit list and no idea yet which of the things they were trained for will turn out to be the job.
+  The first posting. A Deputy arrives on the boundary watch with a service suffix, a kit list and no idea yet which of the things they were trained for will turn out to be the job. A neighbour waters a plant that does not need it, and the Deputy reads him three ways and takes a step. The officer tells a story about a girl at a well that will not end. The neighbour comes back without the can. And on the thirtieth day, with the Corps gone from the ring again, the Deputy stands at the desk where a person stands, without deciding to, and the officer who does not tell Deputies what things mean says so out loud, and answers the question held since the seventh day with the one thing she has.
 </p>
 
 {% set seasonNumber = "9" %}
