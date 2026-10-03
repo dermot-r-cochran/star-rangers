@@ -71,6 +71,83 @@ A cross-check of every chapter's canon facts against the chapter bodies and char
 
 ---
 
+## Strands and arcs
+
+Added 2026-10-03 at Dermot's direction, after an inventory of unfinished
+arcs, storylines, threads and strands. The table above counts threads; this
+section counts the smaller units the registry has no row for, so the next
+re-derivation checks them too. Re-derive against `story-bible/` and
+`src/seasons/` before trusting it.
+
+### Convergences fixed and not yet on the page
+
+- [ ] **Below the Roof, first season** — an up-person puts a stone down first
+  at the line, Stone-First hears the ground announce a stranger; each strand
+  records it and neither records what was said (`below-the-roof-treatment.md`).
+  Both strands written (S11E01, five chapters; S11E02, three); the meeting is
+  not.
+- [ ] **Orbital Five-O, second season** — the Deputy's strand (S10E01C01) and
+  the Chthonari crew's (S10E01C02) are one chapter each; the convergence is
+  ruled in `five-o-second-season-treatment.md` and unwritten.
+
+### Treated, nothing drafted
+
+- [ ] **Below the Roof, second season** — *not murders, just shadows*, near the
+  boundary feature (`below-the-roof-second-season-treatment.md`).
+- [ ] **The Five Islands** — *The Infinite Castle and The Timeless Library*: the
+  court's oral chronicle against the Abbey's Long Accounting, the survey's
+  instrument log off both (`five-islands-treatment.md`). Approved in shape;
+  no Season 12 in `lib/storyline-threads.js`, no chapter.
+
+### Drafted, approved, unslotted
+
+Finished prose in the story-bible waiting for a slot; each stays out of
+`src/` until one is chosen.
+
+- [ ] **The terminus farewell** (`scene-draft-terminus-farewell.md`) — after
+  `s07e01c03` by an interval deliberately unfixed. Slotting it unlocks the
+  next.
+- [ ] ***You're Up Early*** (`scene-draft-youre-up-early.md`) — the shadow at
+  the edge of Tobble's universe; sits after the terminus, so waits on it.
+- [ ] **Elvira's dream** (`scene-draft-elviras-dream.md`) — at the causeway,
+  after Aldera's arrival; slot unfixed, five readings flagged.
+- [ ] ***One Warmth in the Room*** (`scene-draft-one-warmth-in-the-room.md`) —
+  Suvra Kel and Sen; after Suvra Kel's entry into service.
+- [ ] **The Tír na nÓg expulsion parting**
+  (`scene-draft-expulsion-parting.md`) — timing deliberately unfixed.
+
+### Character arcs with promised beats
+
+- [ ] **Karla Wender, Chief Pilot → High Captain** — on her page, dramatised
+  nowhere (also under *Standing waypoints* above).
+- [ ] **Wender's mentorship of Shepherd** — placed between Seasons 3 and 5
+  since 2026-10-03; no chapter.
+- [ ] **Tissadelle at the terminus; Tobble's downgraded inner codex** — the
+  register ruled 27 August (fond farewell, almost no grief), the mechanism
+  deliberately unwritten until its chapters (`tissadelle-arc-s6-7.md`).
+- [ ] **The saga's last four beats** — silent gradual recovery,
+  transformation, sacrifice at the terminus, the founding — all after the
+  published end (`story-bible-summary.md`, *The shape of the saga*).
+- [ ] **Lev Saunders joins the Rangers when older** — ruled 27 September;
+  waits on a thread reaching about 2837.
+- [ ] **The younger Shepherd as a Five-O guest** (2826) and **Wender** in a
+  pre-2810 chapter — licensed 3 September, neither used.
+- [ ] **Zoe Smith declining to speak** — three Season 9 chapters running end
+  on it; the fifth chapter has to pay it. Season 9 has no mystery of its own
+  yet; Tikket and the ringing mount are the candidate, held since
+  14 September.
+- [ ] **Sohrel and the Sentinel–Meridian connection** — declined without a
+  stated reason; either a declination that costs her something, or the
+  raising (also under *Season 3* above).
+
+### Worlds from the July intake
+
+- [x] Fliade, Umbral Moon — written.
+- [ ] **Kalypsis Dawn** — still live, and known to contradict canon as
+  drafted (#472).
+
+---
+
 ## Complete, and deliberately so
 
 Recorded here so a later pass doesn't reopen them.
