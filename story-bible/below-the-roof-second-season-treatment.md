@@ -297,6 +297,29 @@ chapter exists, and its treatment is corrected to say so.
   of the silt, on the Membrane Shadow page) is the Archive's and the Told
   never learn it; the chapter gives no cause. The first telling failed
   warmth; this one fails stone — the two certainties, in order.
-- Still to draft: one to three more Strand A tellings (from candidates
-  3–5, one of them bright), Strand B from the imager fault, and the
-  convergence as a pair. Each at his ask.
+- **S12E01C03 *Where Someone Always Stands*** (same day, at his *Draft
+  the next Below the Roof chapter*) — candidate 3, *the shape that was
+  somebody*. Heads: Carried-It-Sleeping and Went-Round; Stone-First is in
+  the warm, telling the line at the small ones' ask, heard by everyone,
+  and is not a head. A small one (the next up from the smallest, the one
+  who said *the ground was there*) goes up anyway, moves a stone at the
+  top of the shelving, and sees a shape on the line in Stone-First's
+  place, Stone-First's size and stance; it does not answer the stone. The
+  warm settles it by who was there — the small one was, Stone-First was
+  not, both true — and the record's own position (a resemblance is the
+  witness's pattern-matching first, never a double) is given in the Told's
+  terms as Went-Round's: at the line the warm runs out, the eye has only
+  where a thing stands, and a thing standing where someone always stands
+  looks like them until it does what they do. New in-world fact, an
+  extension: no Pandoid can read warmth at the line, so the seep telling
+  could say *no warmth* and this one cannot. Went-Round goes up, stands in
+  Stone-First's place (which holds the shape with nobody in it), answers
+  Stone-First's stone from the line, and the two stand there the wrong
+  way round; Stone-First makes the small sound for the first time. The
+  ending in miniature: a whole life of standing in one place made a place
+  that looks like its keeper, which is the thing that let the shape be
+  mistaken.
+- Still to draft: the bright one (candidate 4; the ruling asks for one
+  bright, so it is the one Strand A telling still owed) and, if wanted,
+  candidate 5; then Strand B from the imager fault, and the convergence
+  as a pair. Each at his ask.

@@ -12,11 +12,11 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **71 chapters, thirteen seasons, seven threads** |
+| 44 chapters, nine seasons, five threads | **72 chapters, thirteen seasons, seven threads** |
 | **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, four chapters, its own edition on young.fianilchruinne.com |
-| **Below the Roof** — three chapters | **Ten**, across two seasons |
+| **Below the Roof** — three chapters | **Eleven**, across two seasons |
 | **Season 3** — two chapters | **Three** (*What Meridian Asked* added) |
 
 **The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
@@ -35,7 +35,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 4 | One episode, complete in itself |
-| **Below the Roof** | 11, 12 | 10 | Season 11 two episodes, complete; Season 12 begun 3 October (`below-the-roof-second-season-treatment.md`) |
+| **Below the Roof** | 11, 12 | 11 | Season 11 two episodes, complete; Season 12 begun 3 October (`below-the-roof-second-season-treatment.md`) |
 
 ---
 
@@ -99,9 +99,10 @@ re-derivation checks them too. Re-derive against `story-bible/` and
 - [ ] **Below the Roof, second season** — Season 12, *not murders, just
   shadows*, near the boundary feature
   (`below-the-roof-second-season-treatment.md`). S12E01C01 *No Warmth in
-  It* and S12E01C02 *Someone Is Coming* drafted 3 October 2026, the first
-  two of Strand A's tellings; one to three more tellings, Strand B from the
-  imager fault, and the convergence pair remain.
+  It*, S12E01C02 *Someone Is Coming* and S12E01C03 *Where Someone Always
+  Stands* drafted 3 October 2026, the first three of Strand A's tellings;
+  the bright one (and candidate 5 if wanted), Strand B from the imager
+  fault, and the convergence pair remain.
 
 ### Treated, nothing drafted
 
