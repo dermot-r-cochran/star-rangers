@@ -343,5 +343,29 @@ chapter exists, and its treatment is corrected to say so.
   the ones not born yet.
 - Strand A's four tellings are drafted (candidates 1–4). Candidate 5
   (the shape that went through the squeeze) is unwritten and optional
-  under the ruling's three-to-five. Still to draft: Strand B from the
-  imager fault, and the convergence as a pair. Each at his ask.
+  under the ruling's three-to-five.
+- **S12E02C01 *Imager Fault*** (same day, at his *Draft the next Below
+  the Roof chapter*) — Strand B's first chapter, Episode 2, from the
+  imager fault as the treatment's order had it. Heads: Aravena and
+  Nakagawa; Egede present and not a head, as in Season 11. The knock is
+  routine (a year of it, answered every time by the one on the line);
+  the imager at the junction, left on its stand between shifts, records a
+  dark shape at the third passage mouth with a lit rim and nothing on
+  thermal, sound or mass, forty seconds the first time, seven times in
+  seven weeks through two recalibrations, a lens change and the spare
+  imager. Egede's *imager artefact* stands for seven weeks — the language
+  note's *filed as noise* failure mode, run honestly — and Nakagawa
+  strikes it after the seventh, rewrites to the fact, and enters the
+  lapse as Nakagawa's own. Aravena's observation: it stands exactly where
+  Individual Four stood for the eleven minutes; and nothing on the imager
+  has ever answered or moved a stone. The dormant cross-membrane
+  gravimeter is planted: boundary-side, sealed, logging since the first
+  year, ticked nominal on the third-year manifest and unread — the
+  Forty-Second Discrepancy's shape, on a roof, as recommended; its log
+  is for the officer to read. The request to the boundary side is filed
+  with the fact and no reading, so the officer's arrival is the next
+  chapter's. The strand does not go down and sees nothing of the deep.
+- Still to draft: Strand B's second chapter (the boundary officer called
+  in, the gravimeter's log read, *how much of what this person knows may
+  be written in a log the Told will never read*), and the convergence as
+  a pair. Each at his ask.

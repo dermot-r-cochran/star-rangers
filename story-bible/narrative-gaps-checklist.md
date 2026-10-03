@@ -12,11 +12,11 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **73 chapters, thirteen seasons, seven threads** |
+| 44 chapters, nine seasons, five threads | **74 chapters, thirteen seasons, seven threads** |
 | **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, four chapters, its own edition on young.fianilchruinne.com |
-| **Below the Roof** — three chapters | **Twelve**, across two seasons |
+| **Below the Roof** — three chapters | **Thirteen**, across two seasons |
 | **Season 3** — two chapters | **Three** (*What Meridian Asked* added) |
 
 **The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
@@ -35,7 +35,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 4 | One episode, complete in itself |
-| **Below the Roof** | 11, 12 | 12 | Season 11 two episodes, complete; Season 12 begun 3 October (`below-the-roof-second-season-treatment.md`) |
+| **Below the Roof** | 11, 12 | 13 | Season 11 two episodes, complete; Season 12 begun 3 October (`below-the-roof-second-season-treatment.md`) |
 
 ---
 
@@ -101,8 +101,9 @@ re-derivation checks them too. Re-derive against `story-bible/` and
   (`below-the-roof-second-season-treatment.md`). S12E01C01 *No Warmth in
   It*, S12E01C02 *Someone Is Coming*, S12E01C03 *Where Someone Always
   Stands* and S12E01C04 *Out of the Wall* drafted 3 October 2026: Strand
-  A's four tellings, the bright one last. Candidate 5 is optional; Strand
-  B from the imager fault and the convergence pair remain.
+  A's four tellings, the bright one last. S12E02C01 *Imager Fault* the
+  same day opens Strand B. Candidate 5 is optional; Strand B's second
+  chapter (the boundary officer) and the convergence pair remain.
 
 ### Treated, nothing drafted
 
