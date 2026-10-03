@@ -319,7 +319,29 @@ chapter exists, and its treatment is corrected to say so.
   ending in miniature: a whole life of standing in one place made a place
   that looks like its keeper, which is the thing that let the shape be
   mistaken.
-- Still to draft: the bright one (candidate 4; the ruling asks for one
-  bright, so it is the one Strand A telling still owed) and, if wanted,
-  candidate 5; then Strand B from the imager fault, and the convergence
-  as a pair. Each at his ask.
+- **S12E01C04 *Out of the Wall*** (same day, at his *Draft the next
+  Below the Roof chapter*) — candidate 4, *the shape that was not dark*,
+  the bright one the ruling asked for. Heads: Carried-It-Sleeping, Stone-
+  First-Who-Waited and Went-Round, three for the first time, because the
+  whole of the people was there. In the middle of Went-Round telling the
+  two stones, the amber goes out of the near wall and a shape of gathered
+  light stands in the middle of the warm, in nobody's place, for half a
+  telling; a gap in the warmth the size of it, as at the seep; the walls
+  dimmer on its side; back into the wall when it goes; no stone either
+  way. The canon mechanism (the converging case, this side's ambient
+  light gathered into the far side's outline — the Photographic Being) is
+  the Archive's and never the Told's; what the chapter keeps of it is
+  that the light is the walls' own, taken and returned, and that it is the
+  same from behind. The care the treatment asked for: the people are not
+  afraid of it, Stone-First sees that and is more careful than for any of
+  the dark three, and says once that nothing is neither kind nor unkind
+  and the people are not to give it a thing it did not do; the warm hears
+  and does not altogether believe it. Not a visitor, not a blessing: it
+  is *beside*, in nobody's place, and the Told find they have no word
+  for that and Went-Round does not make one. The new shape: everyone was
+  there, so nobody can tell it; Went-Round's answer is that it is told to
+  the ones not born yet.
+- Strand A's four tellings are drafted (candidates 1–4). Candidate 5
+  (the shape that went through the squeeze) is unwritten and optional
+  under the ruling's three-to-five. Still to draft: Strand B from the
+  imager fault, and the convergence as a pair. Each at his ask.

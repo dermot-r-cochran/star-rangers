@@ -28,7 +28,12 @@ permalink: /seasons/s12/e01/
   small one goes up to look anyway, and sees Stone-First on the line between the three stones, standing the way
   Stone-First stands, and the stone the small one moved is not answered. Went-Round goes round it, and goes up, and
   stands in Stone-First's place to see what it looks like from the other side, and it looks like Stone-First, even
-  with nobody in it.
+  with nobody in it. Then, in the middle of a telling with the whole of the people in the warm, the amber goes out
+  of the near wall and stands in the middle of them, a shape of gathered light in nobody's place. Nobody moved a stone,
+  because nobody came. The small ones are not afraid of it, which is what Stone-First comes down the shelving to be
+  careful about; Went-Round goes round it and finds it has a back the same as its front; it goes back into the wall
+  before the telling ends. Everyone was there, so nobody can tell it, and the Told have no word for a thing that is
+  beside you and in nobody's place.
 </p>
 
 {% set seasonNumber = "12" %}
