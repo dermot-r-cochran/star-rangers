@@ -360,3 +360,21 @@ log's closing line (*read; by whom, not known to this crew; mount still
 rings*); Tikket stands on the mount a last time. The crew leaves Eden.
 The season's remaining beat is the quarter's and the Starwarden's, on
 the Deputy's side.
+
+**3 October 2026, later still, at Dermot's *Draft the next Season 10
+chapter*:** S10E01C06 *By Invitation*, the Deputy's strand and the
+season's owed beat: the Starwarden's *noted* (a referral kept, against the
+office's *n/a* that struck), the raven flying the dock ring before any
+letter has arrived, and Five-O on the Governor's authority recognising
+that a Compact-certified member carrying the Corps' fold-route instruments
+is a matter the Compact cannot finish alone, and issuing the invitation,
+which is the 8 September ladder rule realized in the thread's own season:
+the bureaus do not call the Rangers, the Rangers do not come uncalled,
+and Five-O is the tier that issues the invitation. The wall is not
+lowered; a thing is passed over it in writing. The joint inspection is set
+two days off, under the watch's shift; the countersign stays refused until
+the record says what the structure carries. The crew's closing log line
+is quoted in Larsen's annex, which is as told as the crew gets. What the
+inspection finds, and the ending test (the ending must change how the
+beginning reads: the form on the ninth day was the whole mechanism), are
+the season's last chapter.
