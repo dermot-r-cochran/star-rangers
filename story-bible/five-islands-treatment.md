@@ -376,7 +376,8 @@ Three shapes, his:
 - ~~**Where the Castle stands and what it is** — the two shapes each, above.~~
   **Ruled 3 October 2026, *4a-i*: Krilzat, the ark's hull.**
 - **The young viewpoints' names**, and whether Strand A's proxy is of a
-  house or of the watch.
+  house or of the watch. *Drafted 3 October 2026 as the pair, Wren of
+  Knight Pellam and Bram Tollick; put to him with the first chapter.*
 - **The convergence** — (a) recommended, above.
 - **Chapters per strand**, and whether each strand is an episode entire on
   the Below the Roof pattern (a reader who reads one episode has one whole
@@ -446,3 +447,32 @@ Three shapes, his:
   above. The mechanism rule is unchanged — the court's strand narrates
   the Kingdom's reading, and the hull number appears only where the
   survey's log is quoted.
+- **3 October 2026, later still — *Draft the Infinite Castle first
+  chapter*.** Drafted as **S13E01C01 *The Names Go By***
+  (`src/seasons/s13/e01/s13e01c01.md`), Strand A's first chapter, on
+  the Castle as ruled (Krilzat; the ark's hull, never named). The young
+  viewpoint drafted is **the pair** the note allowed — *Wren, of Knight
+  Pellam* (`src/characters/wren-pellam.md`, fifteen, a Knight's house's
+  youngest sent to learn the chronicle) and *Bram Tollick*
+  (`src/characters/bram-tollick.md`, fourteen, the keeper's son who keeps
+  the door) — because the strand's engine needs both halves: the court
+  has the names and has never seen them; the watch has seen them every
+  day and has no names. The choice (pair, house alone, watch alone) and
+  both names are put to him and the PR stops on them. What the chapter
+  fixes, as extensions inside the ruled shape: every Old House sends its
+  youngest to the Castle in each generation to learn the chronicle in
+  its rooms; the keep is grey, seamless, windowless, its rooms all one
+  height, its hall longer than the keep is wide and going down into the
+  rock, one door kept by the watch since before the count of kings; the
+  watch keeps a count of rooms in notches on the door-post, no record;
+  the Castle does not lean, which is the chronicle's first line for it;
+  and the chronicle's first three names — *Aldous, who came first;
+  Mereth, who stood at the door; Hallin, who went down and was long* —
+  each with the way its figure walks, as the watch has it. The
+  Photographic Beings appear exactly as ruled: seen as light, no shadow
+  under them, the same way each time, never answering; the court's
+  reading (the founders) is Wren's and the record states only that a
+  figure of light walked the hall. The convergence's act — a door the
+  chronicle has no name for — is not spent; the fourth door on the left
+  is where Aldous goes and stays shut. The hull number is for the
+  survey's log, which is not in this strand.

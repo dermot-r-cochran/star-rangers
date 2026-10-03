@@ -2482,9 +2482,13 @@ put as choices:
   `intake-2026-10-03.md`, last section. **Ruled the same day, *1a 2a 3a
   4a-i 5a*:** the name as given, the general-tier listing with no edition
   yet, Oriel Fenwick, **the Castle on Krilzat and the founding ark's
-  hull**, the band as drafted. Still open: Strand A's young viewpoint
-  (house or watch-post), the convergence ((a) recommended), chapters per
-  strand, a third strand, an edition of its own.
+  hull**, the band as drafted. Later the same day Strand A's first
+  chapter was drafted (S13E01C01 *The Names Go By*) as **the pair**, Wren
+  of Knight Pellam and Bram Tollick, with the chronicle's first three
+  names, and its PR stopped on the viewpoint, the names and the lines
+  (`intake-2026-10-03.md`, last section). Still open: the convergence
+  ((a) recommended), chapters per strand, a third strand, an edition of
+  its own.
 - **Photographic Beings** (sixth section, later still the same evening) —
   read as the Castle's third record, light-written (**Confirm**; three
   other readings listed). ~~What they are: (a) the founders' likenesses kept
