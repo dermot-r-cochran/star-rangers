@@ -34,7 +34,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
 | **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
-| **Young Star Rangers** | 9 | 5 | One episode, complete in itself; the fifth chapter (3 October 2026) pays the officer's silence |
+| **Young Star Rangers** | 9 | 5 | **Complete** — one episode, the corridor season; the fifth chapter (3 October 2026) pays the officer's silence, ruled complete the same day |
 | **Below the Roof** | 11, 12 | 17 | Two seasons, each two episodes, both complete (`below-the-roof-second-season-treatment.md`) |
 
 ---
@@ -145,10 +145,11 @@ Finished prose in the story-bible waiting for a slot; each stays out of
 - [x] **Zoe Smith declining to speak** — paid 3 October 2026 by S09E01C05
   *Stand Where You Like*: the desk step moves on Varn's own, Smith says so
   aloud for the first time, and answers the question about the well with
-  the one thing she has, that she was never told. Season 9 still has no
-  mystery of its own: the Tikket candidate went to Season 10's mount the
-  same day, and whether the season needs one is put to Dermot as a
-  choice in the intake.
+  the one thing she has, that she was never told. Season 9 has no
+  mystery of its own and does not need one: the Tikket candidate went to
+  Season 10's mount the same day, and Dermot ruled the same day
+  (*Agreed*) that Season 9 is the corridor season, five chapters,
+  complete in itself.
 - [ ] **Sohrel and the Sentinel–Meridian connection** — declined without a
   stated reason; either a declination that costs her something, or the
   raising (also under *Season 3* above).
