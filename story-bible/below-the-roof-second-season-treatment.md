@@ -280,6 +280,23 @@ chapter exists, and its treatment is corrected to say so.
   are not told. Timestamp *2833 UCSD, the survey's third year on the
   ground*. Five canon facts, each a thing the smallest or the warm could
   know; none says what the shape was.
-- Still to draft: the remaining Strand A tellings (two to four, from
-  candidates 2–5, one bright), Strand B from the imager fault, and the
+- **S12E01C02 *Someone Is Coming*** (same day, at his *Draft the next
+  Below the Roof chapter*) — candidate 2, *the stone that moved with
+  nobody there*. Heads: Stone-First-Who-Waited and Carried-It-Sleeping.
+  A rock at the edge of the silt shifts, moved well, while Stone-First is
+  on the line in the middle of a working time; the ground says *someone is
+  coming*; nobody comes, by the shelving, the squeeze or the silt. Stone-
+  First leaves it, on the rule that a stone moved for you is not yours to
+  move, so the line carries three stones and the third is nobody's. Went-
+  Round's reading: the ground says *someone* and never *who*; the Told
+  always supplied the who by being there. Carried-It-Sleeping's: the Told
+  now know from inside what the up-people stood in for a whole season,
+  announced and not knowing by whom. The small ones are kept from going up
+  on *a thing nobody was there for is nobody's to go and take*. The
+  mechanism (the gradient near a strong shadow loading a rock at the edge
+  of the silt, on the Membrane Shadow page) is the Archive's and the Told
+  never learn it; the chapter gives no cause. The first telling failed
+  warmth; this one fails stone — the two certainties, in order.
+- Still to draft: one to three more Strand A tellings (from candidates
+  3–5, one of them bright), Strand B from the imager fault, and the
   convergence as a pair. Each at his ask.
