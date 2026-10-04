@@ -19,6 +19,9 @@ permalink: /seasons/s04/
 <p class="page-intro">
   A procedural season that stands alone: notifications filed in advance, jurisdiction enforced from the inside, and cases that live in the gaps between honest records. No prior season required — though readers of the main line will recognise the habitats, and readers of Season 2 may recognise a working method from the other end of the telescope.
 </p>
+<p class="page-intro">
+  Episode 0 is a prologue set a year before the season, in the late autumn of 2826, when Tissadelle Shepherd was a Deputy on Eden's fold-approach watch; by the season's own year she holds higher rank elsewhere, and nothing in Episode 1 onward depends on the prologue.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (4 | threadForSeason).id }}/">{{ (4 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "4" %}
