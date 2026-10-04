@@ -33,7 +33,7 @@ Several promotions land each season rather than one — Shepherd's climb is comp
 
 - **Season 1:** Cadet → Deputy → Officer (general operations track) — the Deputy posting served under [Zoe Smith](/star-rangers/characters/zoe-smith/) on Eden's fold-approach watch in the late autumn of 2826 ([What It Did Not Say (S04E00C01)](/star-rangers/seasons/s04/e00/s04e00c01/))
 - **Season 2:** Officer → Senior → Principal, rotated onto the Survey Corps track — the posting that puts her on Hegemony telemetry duty, and the finding told under the Sentinel Signal, below, falls at the seam: the rotation begins in Season 2, the backlog she read as a new Principal belongs to Season 3, which opens in Late Winter 2828 with her already in the rank
-- **Season 3:** Principal → Section Lead → **Chief Ranger**, rotated back onto general operations rather than staying Survey-track
+- **Season 3:** Principal → Section Lead → **Chief Ranger**, rotated back onto general operations rather than staying Survey-track — Section Lead at Threshold by the summer of 2828, stating the station's transit windows ([Aware of Weather (S03E02C01)](/star-rangers/seasons/s03/e02/s03e02c01/))
 - **Between Seasons 3 and 5 (2828–2831):** Chief Ranger → Starwarden (late autumn 2829, a fold-approach post on the outward frontier the record does not name — [Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)) → Archwarden (then styled Starwarden First Officer) → Line Captain
 - **Season 5 (opening):** Line Captain
 
