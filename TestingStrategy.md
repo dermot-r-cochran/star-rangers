@@ -69,6 +69,15 @@ Run all: `node --test test/*.test.js` · one suite: `node --test test/content-fi
   missing SOF markers, zero dimensions, non-images, unreadable paths —
   plus the by-path memoisation.
 - **`test/archive-backlinks.test.js`** (added 2026-10-02) pins `lib/archive-backlinks.js`, the derivation behind the chapter layout's "In the Archive" block: a page is listed for exactly three reasons (a link to the chapter's URL, a link to its `/c/` alias, or a `revealed_by` / `revised_by` naming it), matching ignores the site prefix because the source is scanned rather than the output, and the order is section then title so the block is stable across builds. A regression here would silently drop the record's own commentary from under a chapter, which nothing structural would notice.
+- **`test/related-terms.test.js`** (added 2026-10-04) pins `lib/related-terms.js`,
+  the resolver behind the glossary layout's Related Terms list: a `related:`
+  term resolves by exact title against the collections this build carries,
+  glossary first, then lore, and a miss is **null, never the glossary index**.
+  The regression it guards: on a narrowed edition the collections are already
+  filtered, so an excluded page's term used to fall back to `/glossary/`, and
+  undercover-pets.com's one glossary entry (Smart Pet) linked all five of its
+  related terms to an index none of them was on. The layout now renders only
+  the terms that resolve and omits the aside when none do.
 - **`test/status-key.test.js`** (added 2026-09-06) pins `lib/status-key.js`,
   the class-name key for a character's status badge: the head clause before
   an em dash, colon, semicolon, comma or parenthesis, slugified. It holds the

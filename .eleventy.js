@@ -13,6 +13,7 @@ const {
   threadForPage,
   getRelatedContentUrls
 } = require("./lib/content-filter");
+const { resolveRelatedTerm, resolvedRelatedTerms } = require("./lib/related-terms");
 const {
   classifyContentPath,
   isRelatedTopicPageIncluded,
@@ -346,11 +347,24 @@ module.exports = function(eleventyConfig) {
     (glossaryAlphaKey(title).charAt(0) || "").toUpperCase()
   );
 
+  // Kept for any caller that wants a URL no matter what: on a miss it still
+  // falls back to the glossary index. The glossary layout no longer uses it
+  // for Related Terms (2026-10-04) - see resolvedRelatedTerms below.
   eleventyConfig.addFilter("glossaryUrl", function(term, glossaryCollection, loreCollection) {
-    const match =
-      (glossaryCollection || []).find((item) => item.data.title === term) ||
-      (loreCollection || []).find((item) => item.data.title === term);
-    return `/star-rangers${match ? match.url : "/glossary/"}`;
+    const url = resolveRelatedTerm(term, glossaryCollection, loreCollection);
+    return `/star-rangers${url || "/glossary/"}`;
+  });
+
+  // The `related:` terms that resolve ON THIS BUILD, each with its
+  // prefixed url, so a layout links only pages the edition carries. On a
+  // narrowed edition the collections are already filtered, so an excluded
+  // page's term simply drops out of the list instead of linking to the
+  // glossary index (the undercover-pets.com Smart Pet case, 2026-10-04).
+  eleventyConfig.addFilter("resolvedRelatedTerms", function(related, glossaryCollection, loreCollection) {
+    return resolvedRelatedTerms(related, glossaryCollection, loreCollection).map(({ term, url }) => ({
+      term,
+      url: `/star-rangers${url}`
+    }));
   });
 
   // For the Atom feed (src/feed.njk) - formats a chapter's real-world
