@@ -36,7 +36,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 5 | **Complete** — one episode, the corridor season; the fifth chapter (3 October 2026) pays the officer's silence, ruled complete the same day |
 | **Below the Roof** | 11, 12 | 17 | Two seasons, each two episodes, both complete (`below-the-roof-second-season-treatment.md`) |
-| **The Infinite Castle and the Timeless Library** | 13 | 4 | Registered 3 October 2026; two chapters in each strand; the convergence drafted 4 October as a pair on shape (a), PR waiting on Dermot (`five-islands-treatment.md`) |
+| **The Infinite Castle and the Timeless Library** | 13 | 4 | Registered 3 October 2026; two chapters in each strand, the convergence closing both, all rulings landed 4 October; whether either strand grows is Dermot's (`five-islands-treatment.md`) |
 
 ---
 
@@ -114,7 +114,7 @@ re-derivation checks them too. Re-derive against `story-bible/` and
   By*) as the pair, Wren of Knight Pellam and Bram Tollick, ruled 4
   October (*1 a 2 yes 3 yes*); the convergence drafted the same day as
   S13E01C02 *A Door Was Given* and S13E02C02 *Always There* on shape (a),
-  PR waiting on his word (`intake-2026-10-04.md`).
+  ruled the same day (*1 a 2 yes 3 yes*; `intake-2026-10-04.md`).
 
 ### Drafted, approved, unslotted
 

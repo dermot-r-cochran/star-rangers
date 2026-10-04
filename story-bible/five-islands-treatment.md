@@ -378,8 +378,8 @@ Three shapes, his:
 - ~~**The young viewpoints' names**, and whether Strand A's proxy is of a
   house or of the watch.~~ **Ruled 4 October 2026: the pair, Wren of
   Knight Pellam and Bram Tollick, and Oriel Fenwick for Strand B.**
-- **The convergence** — (a) recommended, above. *Drafted 4 October 2026
-  on (a) as a pair, put to him with the chapters.*
+- ~~**The convergence** — (a) recommended, above.~~ **Ruled 4 October
+  2026: (a), as drafted.**
 - **Chapters per strand**, and whether each strand is an episode entire on
   the Below the Roof pattern (a reader who reads one episode has one whole
   strand).
@@ -519,3 +519,8 @@ Three shapes, his:
   lamp and the room is empty; the instrument sees the figure only while
   a lamp is there). The convergence's figure is the only one in the
   Castle that stands still, and its name is the Accounting's alone.
+- **4 October 2026, later — *1 a 2 yes 3 yes*.** The convergence (a), the
+  Accounting's name and the instrument's passage all stand. The season's
+  two strands each have two chapters and the convergence closes both;
+  whether either strand grows, whether a third strand is added, and an
+  edition of the thread's own remain his.
