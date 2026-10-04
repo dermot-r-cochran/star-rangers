@@ -30,13 +30,14 @@ See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-an
 
 - **Before Season 1:** Novice → Cadet → Deputy → Officer → Senior → Principal → Section Lead → Chief — the whole climb on the piloting and navigation track, no rotations, one specialization
 - **Season 1:** Chief Pilot, pilot section
-- **Later canon:** High Captain (progression details to be established in story)
+- **2829 UCSD, Late Autumn:** Line Captain, when the Corps paired her with the newly promoted Starwarden Shepherd as mentor ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)); whether she passed through Starwarden and Archwarden to reach it, or was advanced out of turn, the record has not said
+- **Season 5:** High Captain (the step from Line Captain to be established in story)
 
 See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for the full ladder Chief Pilot and High Captain sit on.
 
 ## Mentorship
 
-Above Chief there is no [Academy](/star-rangers/lore/star-rangers-academy/) — no college for command, no syllabus, no examination. The Corps [assigns mentors instead](/star-rangers/lore/star-rangers-command-hierarchy/), formally and as a duty, from Starwarden upward. Wender is [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)'s official mentor, assigned on Shepherd's promotion to that rank.
+Above Chief there is no [Academy](/star-rangers/lore/star-rangers-academy/) — no college for command, no syllabus, no examination. The Corps [assigns mentors instead](/star-rangers/lore/star-rangers-command-hierarchy/), formally and as a duty, from Starwarden upward. Wender is [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)'s official mentor, assigned on Shepherd's promotion to that rank in the late autumn of 2829 UCSD; the pairing's first meeting is [Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/), where the one instruction she gives is the one her page states below, and the thing she declines to ask is the point.
 
 The pairing puts the two crossings of the hinge rank side by side. Wender came to command from the technical ceiling, after a whole career spent getting better at one thing; Shepherd came to it because rotating through everything had left her nothing else to climb. The Corps needs both and promoted both, and then gave the specialist the generalist to look after — on the reasoning, never written down anywhere, that the officer who knows exactly what the crossing costs is the one who paid full price for it.
 

@@ -12,7 +12,7 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **83 chapters, fourteen seasons, eight threads** |
+| 44 chapters, nine seasons, five threads | **84 chapters, fourteen seasons, eight threads** |
 | **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
@@ -30,7 +30,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | Thread | Seasons | Chapters | State |
 |---|---|---|---|
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
-| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 31 | The spine. Ends written; middle thin (S3 three chapters, S5 no E00) |
+| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 32 | The spine. Ends written; middle thin (S3 three chapters); S5 gained its E00 on 4 October 2026 |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
 | **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
@@ -56,14 +56,14 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 
 - [x] E01C01 — *Refusal to Certify*.
 - [x] E02C01–C03 — *What the Hill Keeps*, *A Fraction of a Second*, *What Came Off the Ship* (the Last Stand).
-- [ ] **E00** — still absent. The only season that opens without one.
+- [x] **E00** — *Not Asked* (S05E00C01), 4 October 2026: the prologue, 2829, Shepherd's promotion to Starwarden and the Corps' pairing of Wender as her mentor, the first meeting, and the letter to Kane.
 
 ### 4. Standing waypoints, still unpaid
 
 From `story-bible-summary.md`'s "Established future-canon waypoints" — hooks that exist in character entries and have never landed in prose:
 
 - [ ] **Karla Wender: Chief Pilot → High Captain.** Asserted on her page, dramatised nowhere.
-- [ ] **The Tissadelle/Wender relationship**, developing "across early seasons" per her character entry; the early seasons are written and it isn't in them.
+- [ ] **The Tissadelle/Wender relationship**, developing "across early seasons" per her character entry; the early seasons are written and it isn't in them. *Part-paid 4 October 2026: the formal pairing and its first meeting (S05E00C01); the earlier, informal half, Wender in rooms the rooms did not require, is still told only by report.*
 - [ ] **Founding-era open questions:** fold terminus contact, other fold routes, whether Threshold's drift is Eden-class phenomena.
 
 ### 5. Continuity slips, found and fixed 2026-10-03
@@ -137,8 +137,9 @@ Finished prose in the story-bible waiting for a slot; each stays out of
 
 - [ ] **Karla Wender, Chief Pilot → High Captain** — on her page, dramatised
   nowhere (also under *Standing waypoints* above).
-- [ ] **Wender's mentorship of Shepherd** — placed between Seasons 3 and 5
-  since 2026-10-03; no chapter.
+- [x] **Wender's mentorship of Shepherd** — placed between Seasons 3 and 5
+  since 2026-10-03; paid 4 October 2026 by S05E00C01 *Not Asked*, the
+  pairing's first meeting, with Wender at Line Captain in 2829.
 - [ ] **Tissadelle at the terminus; Tobble's downgraded inner codex** — the
   register ruled 27 August (fond farewell, almost no grief), the mechanism
   deliberately unwritten until its chapters (`tissadelle-arc-s6-7.md`).

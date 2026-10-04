@@ -34,7 +34,7 @@ Several promotions land each season rather than one — Shepherd's climb is comp
 - **Season 1:** Cadet → Deputy → Officer (general operations track)
 - **Season 2:** Officer → Senior → Principal, rotated onto the Survey Corps track — the posting that puts her on Hegemony telemetry duty, and the finding told under the Sentinel Signal, below, falls at the seam: the rotation begins in Season 2, the backlog she read as a new Principal belongs to Season 3, which opens in Late Winter 2828 with her already in the rank
 - **Season 3:** Principal → Section Lead → **Chief Ranger**, rotated back onto general operations rather than staying Survey-track
-- **Between Seasons 3 and 5 (2828–2831):** Chief Ranger → Starwarden → Archwarden (then styled Starwarden First Officer) → Line Captain
+- **Between Seasons 3 and 5 (2828–2831):** Chief Ranger → Starwarden (late autumn 2829, a fold-approach post on the outward frontier the record does not name — [Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)) → Archwarden (then styled Starwarden First Officer) → Line Captain
 - **Season 5 (opening):** Line Captain
 
 See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for what each rank on that ladder carries.
@@ -73,7 +73,7 @@ What Wender was already doing informally, the policy only named. She had been re
 
 The other standing figure in her career is [Chief Ranger Galen Kane](/star-rangers/characters/galen-kane/) of the [Frontier Corps](/star-rangers/lore/star-rangers-frontier-corps/), whose circuit she rode as the second of a pair during the early Frontier certification rotation her Rank Progression section undercounts. The mentorship never formally closed; it reversed direction. From Starwarden onward, Kane has been the advisor she trusts most — an officer with no place in her chain of command, no boundary certification, and no stake in anything she decides, which is, on her reading, the entire qualification. What she takes to him is never the science. It is the question his corps spends whole careers on and hers almost none: when leaving is the correct order.
 
-Both relationships begin at Starwarden, and the coincidence is the point. The Corps assigned her one mentor and she kept another, and the two are not redundant: Wender is answerable for her and can order her, which is what makes the mentorship binding and what makes some questions unaskable inside it. Kane can order her nothing. Shepherd has never framed this as a preference between them, and would decline the framing. She has one adviser whose judgement she is required to take seriously and one whose judgement costs her nothing to hear, and she has never confused which is which.
+Both relationships begin at Starwarden, in the same week of 2829 ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)), and the coincidence is the point. The Corps assigned her one mentor and she kept another, and the two are not redundant: Wender is answerable for her and can order her, which is what makes the mentorship binding and what makes some questions unaskable inside it. Kane can order her nothing. Shepherd has never framed this as a preference between them, and would decline the framing. She has one adviser whose judgement she is required to take seriously and one whose judgement costs her nothing to hear, and she has never confused which is which.
 
 ## Tobble
 
