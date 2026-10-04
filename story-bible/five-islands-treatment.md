@@ -378,7 +378,8 @@ Three shapes, his:
 - ~~**The young viewpoints' names**, and whether Strand A's proxy is of a
   house or of the watch.~~ **Ruled 4 October 2026: the pair, Wren of
   Knight Pellam and Bram Tollick, and Oriel Fenwick for Strand B.**
-- **The convergence** — (a) recommended, above.
+- ~~**The convergence** — (a) recommended, above.~~ **Ruled 4 October
+  2026: (a), as drafted.**
 - **Chapters per strand**, and whether each strand is an episode entire on
   the Below the Roof pattern (a reader who reads one episode has one whole
   strand).
@@ -480,3 +481,46 @@ Three shapes, his:
   chronicle's first three lines stand. Both strands now have a first
   chapter; the convergence, chapters per strand, a third strand and an
   edition remain his.
+- **4 October 2026 — *Draft the Five Islands convergence chapters*.**
+  Drafted as a pair on shape **(a), a door and an entry**, the
+  recommended convergence, and the PR stops on it since the convergence
+  was still his: **S13E01C02 *A Door Was Given*** (`src/seasons/s13/e01/
+  s13e01c02.md`, Bram and Wren) and **S13E02C02 *Always There***
+  (`src/seasons/s13/e02/s13e02c02.md`, Oriel and Emma). One act, three
+  records, the pattern the note fixed: the keeper and the house's youngest
+  go down the right side past the notches and find a door standing open
+  where every door is shut, with a figure of light standing in it at no
+  hour, nameless to the chronicle; the court's line, *a door was given,
+  on Krilzat, in Pellam's time, on the right side past the ninth, and one
+  stands in it*, is carried to the Abbey by a reciter, as the court does
+  when a line is new; the novice finds the room in the Accounting's own
+  count of the Castle, in the hand, dated before she was born, with a
+  name, *Orrin, who waits*; the Abbess answers *it was always there* and
+  does not offer the name; the delegation's one instrument, let through
+  by the court as far as the keeper decides and set by the keeper inside
+  the door, logs a standing figure at the lamp's wavelength for exactly
+  as long as a lamp was in the room, and la Chapelle files it at the
+  lowest band with three readings and adopts no name. None of the three
+  records carries the other two. How the instrument crossed without a
+  Ranger crossing: the Below the Roof relay's shape — a thing travels, a
+  person does not — on de Courtney's one request in three years, the
+  court's *the keeper decides*, and the strand rule kept whole.
+  **Two things fixed as extensions on the way:** the Accounting keeps its
+  own count of the Castle's rooms and names the figures, never put to the
+  court; and the court sends a reciter to the Abbey whenever a line is
+  new, which is what *the sole written check* on the page looks like in
+  practice. **One correction:** the Photographic Beings entry says a
+  figure gathers this side's ambient light and cannot be seen in the
+  dark, and S13E01C01 had one bright past the lamp's reach in a dark
+  hall; a genuine dilemma between two canon pages, resolved for the
+  entry — the first chapter now has the figure as the lamp's light
+  gathered, brighter than the lamp's reach, invisible without a lamp,
+  and the convergence is built on exactly that (the keeper lowers the
+  lamp and the room is empty; the instrument sees the figure only while
+  a lamp is there). The convergence's figure is the only one in the
+  Castle that stands still, and its name is the Accounting's alone.
+- **4 October 2026, later — *1 a 2 yes 3 yes*.** The convergence (a), the
+  Accounting's name and the instrument's passage all stand. The season's
+  two strands each have two chapters and the convergence closes both;
+  whether either strand grows, whether a third strand is added, and an
+  edition of the thread's own remain his.

@@ -2474,7 +2474,12 @@ put as choices:
   3–4 October 2026: Oriel Fenwick (B); the pair, Wren of Knight Pellam
   and Bram Tollick (A).**
 - **The convergence** — (a) a door and an entry, recommended; (b) a third
-  succession disagreement; (c) what Krilzat lost.
+  succession disagreement; (c) what Krilzat lost. **Drafted 4 October
+  2026 on (a)** as S13E01C02 *A Door Was Given* and S13E02C02 *Always
+  There*, with the Accounting's name *Orrin, who waits* and the
+  instrument's passage put beside it (`intake-2026-10-04.md`) — **ruled
+  the same day, *1 a 2 yes 3 yes*: all three stand.** Open for the
+  thread now: chapters per strand, a third strand, an edition of its own.
 - **Chapters per strand, episode-per-strand, a third strand, the Season 12
   registration and the first chapter** — his. **3 October 2026:** the first
   chapter drafted at his ask as S13E02C01 *The Same Hand* (Strand B first;
