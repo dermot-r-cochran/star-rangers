@@ -6,11 +6,12 @@ irish_gloss: "a cyber-organic one"
 id: cyborg
 category: "Society"
 short: "A living being — human or animal — carrying physical cybernetic modification to the body itself, distinct from a Smart Pet's purely cognitive AI subsystem. Heavily regulated since the Imperium's military cyborg programs; today one of the most tightly controlled categories of augmentation in the Concord."
+plain: "A cyborg is a person or an animal whose own body has been changed with machine parts: a new arm, a built-in sense, a wire that goes into the brain. That is different from a Smart Pet, whose body is not changed at all. Aldera the cat is both at once. She is a Smart Pet, and she is a cyborg too, because of the tiny link she carries that lets her send her reports. Long ago an empire built cyborg soldiers and treated their bodies like equipment, and people have been very careful about it ever since. The rule now is that the answer to changing a body is usually no."
 related:
   - "Smart Pet"
   - "The AI Safety Kernel"
   - "Kernel-Compliant"
-tags: [cyborg, augmentation, regulation, technology, imperium, military-space-command, society]
+tags: [cyborg, augmentation, regulation, technology, imperium, military-space-command, society, undercover-pets.com]
 ---
 
 **Cyborg** designates a living being — human or animal — carrying physical cybernetic modification to the body itself: replaced or augmented limbs, sensory hardware, neural interfacing wired directly into biological tissue. It is a distinct category from [Smart Pet](/star-rangers/glossary/smart-pet/), which covers an AI cognitive subsystem running *alongside* an unmodified biological body. An individual can hold either status, both, or neither, and the two are certified — and regulated — separately.
