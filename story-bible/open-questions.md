@@ -2469,8 +2469,10 @@ put as choices:
   Etheric anchor structure.~~ **Ruled 3 October 2026, *4a-i*.** The
   Library needs no mechanism; the storm-reading-as-relic shape is listed
   and not recommended.
-- **The young viewpoints** — a house's youngest or a watch-post child for
-  Strand A; a novice of the Sisterhood for Strand B; names his.
+- ~~**The young viewpoints** — a house's youngest or a watch-post child for
+  Strand A; a novice of the Sisterhood for Strand B; names his.~~ **Ruled
+  3–4 October 2026: Oriel Fenwick (B); the pair, Wren of Knight Pellam
+  and Bram Tollick (A).**
 - **The convergence** — (a) a door and an entry, recommended; (b) a third
   succession disagreement; (c) what Krilzat lost.
 - **Chapters per strand, episode-per-strand, a third strand, the Season 12
@@ -2486,9 +2488,10 @@ put as choices:
   chapter was drafted (S13E01C01 *The Names Go By*) as **the pair**, Wren
   of Knight Pellam and Bram Tollick, with the chronicle's first three
   names, and its PR stopped on the viewpoint, the names and the lines
-  (`intake-2026-10-03.md`, last section). Still open: the convergence
-  ((a) recommended), chapters per strand, a third strand, an edition of
-  its own.
+  (`intake-2026-10-03.md`, last section) — **ruled 4 October 2026, *1 a
+  2 yes 3 yes*: all three stand.** Still open: the convergence ((a)
+  recommended), chapters per strand, a third strand, an edition of its
+  own.
 - **Photographic Beings** (sixth section, later still the same evening) —
   read as the Castle's third record, light-written (**Confirm**; three
   other readings listed). ~~What they are: (a) the founders' likenesses kept

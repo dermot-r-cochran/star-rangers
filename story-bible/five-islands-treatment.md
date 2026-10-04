@@ -375,9 +375,9 @@ Three shapes, his:
   so starquest.site carries it too. Put as a choice in the intake.
 - ~~**Where the Castle stands and what it is** — the two shapes each, above.~~
   **Ruled 3 October 2026, *4a-i*: Krilzat, the ark's hull.**
-- **The young viewpoints' names**, and whether Strand A's proxy is of a
-  house or of the watch. *Drafted 3 October 2026 as the pair, Wren of
-  Knight Pellam and Bram Tollick; put to him with the first chapter.*
+- ~~**The young viewpoints' names**, and whether Strand A's proxy is of a
+  house or of the watch.~~ **Ruled 4 October 2026: the pair, Wren of
+  Knight Pellam and Bram Tollick, and Oriel Fenwick for Strand B.**
 - **The convergence** — (a) recommended, above.
 - **Chapters per strand**, and whether each strand is an episode entire on
   the Below the Roof pattern (a reader who reads one episode has one whole
@@ -476,3 +476,7 @@ Three shapes, his:
   chronicle has no name for — is not spent; the fourth door on the left
   is where Aldous goes and stays shut. The hull number is for the
   survey's log, which is not in this strand.
+- **4 October 2026 — *1 a 2 yes 3 yes*.** The pair, both names and the
+  chronicle's first three lines stand. Both strands now have a first
+  chapter; the convergence, chapters per strand, a third strand and an
+  edition remain his.

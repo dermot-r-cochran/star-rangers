@@ -36,7 +36,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 5 | **Complete** — one episode, the corridor season; the fifth chapter (3 October 2026) pays the officer's silence, ruled complete the same day |
 | **Below the Roof** | 11, 12 | 17 | Two seasons, each two episodes, both complete (`below-the-roof-second-season-treatment.md`) |
-| **The Infinite Castle and the Timeless Library** | 13 | 2 | Registered 3 October 2026; one chapter in each strand (the Library, then the Castle); Strand A's viewpoint pair put to Dermot with its first chapter; the convergence (a door and an entry) still to draft (`five-islands-treatment.md`) |
+| **The Infinite Castle and the Timeless Library** | 13 | 2 | Registered 3 October 2026; one chapter in each strand (the Library, then the Castle), both casts ruled by 4 October; the convergence (a door and an entry) still to draft (`five-islands-treatment.md`) |
 
 ---
 
@@ -111,8 +111,8 @@ re-derivation checks them too. Re-derive against `story-bible/` and
   same day (*1a 2a 3a 4a-i 5a*): the name, the general-tier listing, the
   novice's name, and the Castle on Krilzat as the founding ark's hull.
   Strand A's first chapter drafted the same day (S13E01C01 *The Names Go
-  By*) as the pair, Wren of Knight Pellam and Bram Tollick, PR stopped on
-  the viewpoint and the names; the convergence is still his.
+  By*) as the pair, Wren of Knight Pellam and Bram Tollick, ruled 4
+  October (*1 a 2 yes 3 yes*); the convergence is still his.
 
 ### Drafted, approved, unslotted
 
