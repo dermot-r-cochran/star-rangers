@@ -12,8 +12,8 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **84 chapters, fourteen seasons, eight threads** |
-| **Orbital Five-O** — "a thread on one chapter" | **Three chapters** across Seasons 4 and 10 (*Docked Twice*; *Sent for the Log*, *Sound, as Certified*) |
+| 44 chapters, nine seasons, five threads | **85 chapters, fourteen seasons, eight threads** |
+| **Orbital Five-O** — "a thread on one chapter" | **Nine chapters** across Seasons 4 and 10 (*What It Did Not Say*, *Docked Twice*; Season 10's seven) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
 | **Below the Roof** — three chapters | **Seventeen**, across two seasons |
@@ -32,7 +32,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
 | **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 32 | The spine. Ends written; middle thin (S3 three chapters); S5 gained its E00 on 4 October 2026 |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
-| **Orbital Five-O** | 4, 10 | 8 | Season 4 one chapter; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
+| **Orbital Five-O** | 4, 10 | 9 | Season 4 two chapters, its E00 the Shepherd guest (4 October 2026); Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 5 | **Complete** — one episode, the corridor season; the fifth chapter (3 October 2026) pays the officer's silence, ruled complete the same day |
 | **Below the Roof** | 11, 12 | 17 | Two seasons, each two episodes, both complete (`below-the-roof-second-season-treatment.md`) |
@@ -44,7 +44,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 
 ### 1. Two threads are still thin
 
-**Orbital Five-O** carries two seasons on three chapters, and **Church Space** carries a deployment (church-space.site and .online, their own comments board) on two. Both are advertised as threads in their own right. Five-O's second season (`five-o-second-season-treatment.md`) and the Chthonari strand are treated and unwritten; the Five-O case mechanism and the three-rung ladder (bureau, Five-O, Rangers) were ruled 8 September and have one chapter pair to show for them.
+**Orbital Five-O** carries two seasons on nine chapters, Season 4 on two of them, and **Church Space** carries a deployment (church-space.site and .online, their own comments board) on two. Both are advertised as threads in their own right. Five-O's second season (`five-o-second-season-treatment.md`) and the Chthonari strand are treated and unwritten; the Five-O case mechanism and the three-rung ladder (bureau, Five-O, Rangers) were ruled 8 September and have one chapter pair to show for them.
 
 ### 2. Season 3 is three chapters for a whole rank-era
 
@@ -148,8 +148,10 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   published end (`story-bible-summary.md`, *The shape of the saga*).
 - [ ] **Lev Saunders joins the Rangers when older** — ruled 27 September;
   waits on a thread reaching about 2837.
-- [ ] **The younger Shepherd as a Five-O guest** (2826) and **Wender** in a
-  pre-2810 chapter — licensed 3 September, neither used.
+- [x] **The younger Shepherd as a Five-O guest** (2826) — licensed 3 September,
+  used 4 October 2026 by S04E00C01 *What It Did Not Say*: her Deputy posting
+  under Zoe Smith on Eden's fold-approach watch, late autumn 2826, Five-O on
+  the Compact side. **Wender** in a pre-2810 chapter stays unused.
 - [x] **Zoe Smith declining to speak** — paid 3 October 2026 by S09E01C05
   *Stand Where You Like*: the desk step moves on Varn's own, Smith says so
   aloud for the first time, and answers the question about the well with

@@ -1732,6 +1732,10 @@ Chief Pilot by then), and would need a Five-O chapter set around 2800–2810.
   2026: yes** ("Shepherd rotated through a lot of roles so could have Zoe's
   Deputy"). Her 2826 Deputy stint may be served under Zoe; the first Young
   Star Rangers chapter may open on her, with the thread's own Deputy beside.
+  **Used 4 October 2026** as S04E00C01 *What It Did Not Say* — the Deputy
+  posting under Zoe on Eden's fold-approach watch, late autumn 2826, between
+  Season 2's first Five-O case and her Officer rank at *Testing, Inspection
+  and Certification*; Five-O on the Compact side, nothing moved.
 - **A pre-2810 Five-O chapter for a young Wender** — whether the thread ever
   claims an earlier era at all.
 
