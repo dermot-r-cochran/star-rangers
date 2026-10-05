@@ -18,3 +18,4 @@ and leave the circumstances behind.
 - Better an honest record with gaps than a reconstruction pretending to be the thing.
 - A life laid down well ends in farewell; the grief belongs to those who stay.
 - A bound worth having comes from outside the thing it bounds; self-restraint alone hardens or is captured.
+- Passion for one's work is a recent expectation; the older virtues are diligence, fidelity and craft, and the watch is kept on the days nothing is wrong.
