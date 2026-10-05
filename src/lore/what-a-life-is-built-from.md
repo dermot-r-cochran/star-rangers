@@ -5,6 +5,8 @@ category: "Cosmology"
 tags: [biology, heredity, species, cross-biosphere, survey-corps, doctrine, non-humanoid, medical, chemistry]
 description: "Heredity and the body, generalised: the four things any life does — hold a boundary, run a metabolism, keep a record that copies with error, and organise parts into a whole — and the several unrelated ways the record has found each of them done, of which DNA and the cell are one."
 plain: "Every living thing has to keep itself separate from the world, use energy, pass on a record of how to build itself, and organise its parts into a body. Earth life does all four with cells and DNA. Other worlds do them other ways: different molecules carry the record, some bodies are not made of cells at all, and some kinds of inheritance pass on a partner instead of a code. The survey writes down what each life does, not what it is made of."
+image: "what-a-life-is-built-from.jpg"
+image_alt: "Four shallow dishes of dark stone in a row on a frosted grey bench, lit coldly from one side: a loose tangle of pale green glassy filament in the first, a flat disc rimmed with frost in the second, a single clear rounded drop in the third, and in the fourth a chip of grey rock crusted with grey-green growth and one small orange patch."
 ---
 
 A description of a body that begins with its molecules has begun at the wrong end.
