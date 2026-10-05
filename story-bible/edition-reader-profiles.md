@@ -424,6 +424,15 @@ teacher no way to reach the author. Now `about` on `CHILDREN_TIER` in
 `lib/editions.js` (so The Told serves the same page) gives four plain
 paragraphs for the child and a *For grown-ups* block naming the discussion
 board and two Grok safari games. Not a redirect, by his ruling.
+**The glossary follows the links since 5 October 2026** (Dermot's choice,
+`intake-2026-10-05.md`): asked whether almost all glossary entries should
+reach this edition, he chose the reachability rule on `CHILDREN_TIER` — an
+entry joins when a page the tier carries links it and it carries a `plain:`
+line — over opening all 83, whose index would have been eighty adult-register
+`short`s the pets prose never leads to. Five entries here now (Smart Pet,
+Cyborg, Plural Minds, UCSD, Boundary Zone), and the index shows their `plain:`
+lines under a plain intro, not the `short`s; `check-children-glossary.js` is
+the gate.
 **Cast:** Barsik, Bubochka, the Eden warden,
 Nessa, Rasa Oyelaran — unchanged on 2026-08-21 when every other edition got one,
 because this was the only edition that had ever had a cast of its own and it is

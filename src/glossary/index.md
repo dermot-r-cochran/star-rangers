@@ -6,9 +6,22 @@ eleventyComputed:
 ---
 <img class="page-hero-image" src="/star-rangers/images/lore/canonical-glossary-and-migration-guide.jpg" alt="An old hardback book with a green cloth cover, lying open on a plain white background at a double spread of blank, age-yellowed pages." />
 <h1 class="page-title">Glossary</h1>
+{#- On a children's-tier build the index speaks in the tier's register: a
+    plain intro, and each entry's `plain:` line in place of its `short`
+    (Dermot's choice, 2026-10-05 - story-bible/intake-2026-10-05.md). The
+    glossary an edition at that tier carries is the set its story pages
+    link, one hop, each with a `plain:` line, which
+    scripts/check-children-glossary.js enforces, so the `short` fallback below never shows on a children's
+    build; it is there so a gap would show a definition rather than nothing. -#}
+{%- if edition.tier == "children" %}
+<p class="page-intro">
+  Here is what a word means, if you meet one in the story you don't know. Press a word to read more about it.
+</p>
+{%- else %}
 <p class="page-intro">
   Words fail first when a frontier starts to slip. This glossary fixes the terms used across the record. If a term carries rival meanings in-universe, the confirmed canonical sense appears first.
 </p>
+{%- endif %}
 
 {% set terms = collections.glossary %}
 {% if terms.length %}
@@ -40,7 +53,9 @@ eleventyComputed:
         <span class="character-badge" style="margin-left:0.5rem">{{ term.data.category }}</span>
         {%- endif -%}
       </dt>
-      {%- if term.data.short -%}
+      {%- if edition.tier == "children" and term.data.plain -%}
+      <dd class="glossary-list__def">{{ term.data.plain }}</dd>
+      {%- elif term.data.short -%}
       <dd class="glossary-list__def">{{ term.data.short }}</dd>
       {%- endif -%}
     </div>
