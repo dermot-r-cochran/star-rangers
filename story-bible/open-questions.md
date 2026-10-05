@@ -2688,3 +2688,22 @@ yet, queued with the codex entry's title card), ~~the reported sentence~~
   the Section Lead who ran the calibration, Yusuf Adair (new) as the
   Science Corps reviewer who never left. **Approved by him the same
   session**: the year, the discoverer and the prequel slot stand.
+
+## The children's timeline — `intake-2026-10-05.md`, last section — OPEN
+
+Raised by Dermot the same evening with a bare link to
+undercover-pets.com/timeline/. The page lists two events, both Season 1's
+(Aldera reaching the Causeway, the Causeway Convergence), the season the
+domain stopped carrying on 13 September; the Convergence summary names the
+failed ritual and the Obliger; every onward link but *Boundary Zone* and
+Aldera's page is a placeholder; the summaries read at grades 12–15; and
+Season 2 has no timeline entry anywhere in the record. Three shapes put:
+(1) take the pets tag off the two entries, so the shelf empties and the
+header, card and Reading Plan hide it by rules already in place —
+*recommended now*, at the cost of a glossary-gate warning on *Boundary
+Zone*; (2) keep them and add a `plain:` field and a children's intro — not
+recommended alone; (3) give Season 2 its own entries — the shape that makes
+the shelf true to its name, waiting on **his canon question: which of the
+agency's events the public record holds in 2827**, since the timeline is
+public in-story knowledge and the unit is undercover. Nothing in `src/`
+changed.
