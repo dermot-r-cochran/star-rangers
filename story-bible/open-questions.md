@@ -2750,3 +2750,12 @@ glossary entry for *videocast* (recommended none yet, since it needs an
 Irish line he has looked at); whether the ledger and the Kernel are the whole
 cause (as drafted) or a third in-world cause is wanted; whether the
 profession ever enters the prose.
+
+## The ban on AI glasses — `intake-2026-10-05.md`, last section — REALIZED, one choice open
+
+Realized on `src/glossary/smart-pet.md` (*Why an Animal, and Not a Person*)
+and the refusals page: no human in the Concord carries an AI subsystem on or
+in the body, the commissioning gate having never passed one. Open, his:
+whether a named statute or Accords clause should stand behind the gate's
+refusal, or the gate alone is the instrument (recommended: the gate). The
+metaverse direction of the same evening is realized with nothing open.
