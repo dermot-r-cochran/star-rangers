@@ -2689,7 +2689,7 @@ yet, queued with the codex entry's title card), ~~the reported sentence~~
   Science Corps reviewer who never left. **Approved by him the same
   session**: the year, the discoverer and the prequel slot stand.
 
-## The children's timeline — `intake-2026-10-05.md`, last section — OPEN
+## The children's timeline — `intake-2026-10-05.md`, last sections — RULED same evening
 
 Raised by Dermot the same evening with a bare link to
 undercover-pets.com/timeline/. The page lists two events, both Season 1's
@@ -2705,5 +2705,9 @@ Zone*; (2) keep them and add a `plain:` field and a children's intro — not
 recommended alone; (3) give Season 2 its own entries — the shape that makes
 the shelf true to its name, waiting on **his canon question: which of the
 agency's events the public record holds in 2827**, since the timeline is
-public in-story knowledge and the unit is undercover. Nothing in `src/`
-changed.
+public in-story knowledge and the unit is undercover. **Ruled the same
+evening, verbatim *Option 1 now, and draft Season 2 entries as a
+proposal*:** ~~shape 1~~ done (two tags off; *Boundary Zone* now reached
+from Aldera's page instead); shape 3 drafted as a proposal in its own
+pull request, where the public-record question is put beside the drafts
+and stays open until he answers it.
