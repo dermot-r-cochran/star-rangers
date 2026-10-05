@@ -2725,7 +2725,7 @@ the tier (recommended: keep). **Approved by him the same evening, verbatim
 *Recommendations approved*:** all three as recommended; merged as PR #965.
 Nothing open.
 
-## Ariel Pinya, the Called In stories — `intake-2026-10-05.md`, last section — DRAFTED, open
+## Ariel Pinya, the Called In stories — `intake-2026-10-05.md` — APPROVED same evening
 
 Dermot's one line, *Ariel Pinya writes in-store codex fiction about Star
 Rangers*, read as a second in-universe author on Kate Ukrainka's pattern and
@@ -2739,8 +2739,10 @@ corrections in the Archive's note. Open, his: the reading of *in-store*
 the 8 September rule refuses); the coined names (*Called In*, *The Short
 Stair*, Oyinlola, twenty-six, the Commander); the two claims that Rangers
 read the stories and recruits know the oath; Pinya's pronouns, face and home
-(recommended none yet).
-## Performers and generated work — `intake-2026-10-05.md`, last section — REALIZED, three choices open
+(recommended none yet). **Approved by him the same evening, verbatim
+*Recommendations approved, merge all three*:** all as recommended; merged in
+PR #966. Still deliberately absent: Pinya's pronouns, face and home.
+## Performers and generated work — `intake-2026-10-05.md` — APPROVED same evening
 
 Dermot's direction on actors, models and musicians in the 29th century,
 holograms, the rig's cost and the quiet assistant, realized as
@@ -2749,13 +2751,16 @@ holograms, the rig's cost and the quiet assistant, realized as
 glossary entry for *videocast* (recommended none yet, since it needs an
 Irish line he has looked at); whether the ledger and the Kernel are the whole
 cause (as drafted) or a third in-world cause is wanted; whether the
-profession ever enters the prose.
+profession ever enters the prose. **Approved as recommended the same
+evening** and merged in PR #966. Still open by design: a *videocast* glossary
+entry waits on an Irish line he has looked at.
 
-## The ban on AI glasses — `intake-2026-10-05.md`, last section — REALIZED, one choice open
+## The ban on AI glasses — `intake-2026-10-05.md` — APPROVED same evening
 
 Realized on `src/glossary/smart-pet.md` (*Why an Animal, and Not a Person*)
 and the refusals page: no human in the Concord carries an AI subsystem on or
 in the body, the commissioning gate having never passed one. Open, his:
 whether a named statute or Accords clause should stand behind the gate's
-refusal, or the gate alone is the instrument (recommended: the gate). The
-metaverse direction of the same evening is realized with nothing open.
+refusal, or the gate alone is the instrument (recommended: the gate). **The
+gate alone, approved the same evening**; merged in PR #966. The metaverse
+direction of the same evening is realized with nothing open.
