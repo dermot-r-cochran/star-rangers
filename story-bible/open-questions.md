@@ -2724,3 +2724,19 @@ or fewer (recommended: five); the two lore links that are placeholders on
 the tier (recommended: keep). **Approved by him the same evening, verbatim
 *Recommendations approved*:** all three as recommended; merged as PR #965.
 Nothing open.
+
+## Ariel Pinya, the Called In stories — `intake-2026-10-05.md`, last section — DRAFTED, open
+
+Dermot's one line, *Ariel Pinya writes in-store codex fiction about Star
+Rangers*, read as a second in-universe author on Kate Ukrainka's pattern and
+drafted as `src/characters/ariel-pinya.md` and `src/codex/the-short-stair.md`:
+kiosk fiction about the Corps that gets the posture right (the small stable
+wrongness, the invitation, the instrument and the page, the marked ending)
+and the institution wrong (naval ranks, a sidearm never drawn, an oath the
+Corps does not have), filed Cultural Record with the Corps' own pencil
+corrections in the Archive's note. Open, his: the reading of *in-store*
+(recommended both); the shape (recommended as drafted, not the space western
+the 8 September rule refuses); the coined names (*Called In*, *The Short
+Stair*, Oyinlola, twenty-six, the Commander); the two claims that Rangers
+read the stories and recruits know the oath; Pinya's pronouns, face and home
+(recommended none yet).
