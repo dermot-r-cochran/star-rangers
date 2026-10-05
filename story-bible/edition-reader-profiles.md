@@ -614,9 +614,14 @@ listed for a token inherits the `story` value.
 | `--hero-height` | 320px | 280px | 200px | 260px | Hero image and slideshow |
 | `--color-title` | accent | accent | accent | body text | Quiet headings, contemplative only |
 
-Two structural rules exist because no property could carry them: `primer` pads
+Three structural rules exist because no property could carry them: `primer` pads
 the POV buttons to a finger-sized target (padding is in px and would not scale
-with the root size), and `archive` left-aligns the homepage hero.
+with the root size), `archive` left-aligns the homepage hero, and (5 October
+2026) the chapter's *From the Archive* aside sits beside the prose in a margin
+column in `archive` and `contemplative` at the wide breakpoint and under it in
+`story` and `primer` — placement is not a value a token holds, and the posture
+that reads a story straight through is the one that meets the Archive under the
+text.
 
 **Adding a mode is a design decision, not configuration.** It has to be a
 posture no existing mode serves, and it costs a block in main.css that all nine
