@@ -1,0 +1,56 @@
+---
+layout: lore-entry.njk
+title: "Performers and Generated Work"
+category: "Culture"
+tags: [culture, performance, ai, generated-work, videocast, role-playing, simulation, virtual-reality, cei, practices]
+description: "Why actors, models and musicians were not replaced by the machines that can imitate them: the performed scene is where the novelty is and where the provenance stops, generated fiction, videocasts and interactive role-playing works are extensions of it, simulation training is acted before it is run, and the assistant that lives in every wall is trained to say nothing until it is needed."
+plain: "In the twenty-ninth century, machines can make stories, shows and games. But they do not make them out of nothing. Actors, models and musicians act out scenes first, and the machines build on those. The people who acted are always named. There are no holograms, because light cannot float in empty air. Virtual-reality headsets exist, but wearing one is tiring and makes people feel unwell, so they are used only for short jobs where nothing else works. And the helpful voices in the walls are trained to stay quiet unless they are needed."
+---
+---
+
+A visitor from the twenty-first century, who had been told what the machines of 2826 [UCSD](/star-rangers/glossary/ucsd/) could do, would expect to find no actors left. The record holds a great many. It holds models, musicians, players of every kind, and a profession the earlier century had no name for, because the thing it does did not yet need doing. This page says why the first expectation was wrong, and what the machines are doing instead.
+
+## The Performed Scene
+
+**Generated work in this record is built from performed work, and says so.** A story generated for the matte sheets, a videocast, an interactive role-playing work, a training scenario for a [Safety Corps](/star-rangers/lore/star-rangers-safety-corps/) rig: each begins as scenes and scenarios that performers act, sing or sit for, and each is an extension of those scenes rather than an invention beside them. The performers are credited by name on the work, the way [an adapter is credited](/star-rangers/lore/narrative-works-and-their-adaptation/), and for the same reason. The original is the performance; the generation is the courtesy.
+
+The arrangement was not legislated. It fell out of two things the Concord already had.
+
+**The ledger prices novelty, and the novelty is the performer's.** The [Allocation Units of Cognition](/star-rangers/glossary/ai-usage-credits-auc/) ledger, and the [Creative Entropy Index](/star-rangers/glossary/creative-entropy-index-cei/) that audits what cognition was spent on, reward genuine emergence and audit recombination harshly, however well dressed. A generator working from nothing produces recombination, because that is what a generator is. A generator working from a scene a person actually played produces an extension of something that was new once, in a room, with a body in it, and the ledger can see the difference. So a studio's cheapest honest input is a performance, and the profession that supplies performances did not go anywhere.
+
+**The Kernel will not let a generated figure pass as a person.** A [kernel-compliant](/star-rangers/lore/ai-safety-kernel/) system does not present a fabrication as a fact or obscure where its knowledge stops. A generated figure in a work therefore carries its provenance the way everything in this culture does: which performed scenes it was extended from, by whose performance, and where the extension begins. Asked what it is, it says. A figure that could not say would be [the same pretence the holodeck's population was refused for](/star-rangers/lore/what-the-record-refuses/), and no lawful system will build one. The consequence for the profession is that the performer is not a quarry the machine mines once. The performer is the named source every extension points back to, and a work with nobody behind its figures reads here the way an unsourced claim reads: as nothing.
+
+## What Gets Made
+
+**Videocasts** are the recorded performance works of the period, picture and sound together, read on the same [matte, unlit surfaces](/star-rangers/lore/what-the-record-refuses/) as everything else. They move, and they do not glow: a sheet showing one is read by the light already in the room and lights nobody's face. A videocast is nearer to [a scored and illustrated record](/star-rangers/lore/narrative-works-and-their-adaptation/) than to the film of earlier centuries, and it is credited like one, with the performers' names on the spine beside the author's and, where the work has been carried across to another people, the adapter's.
+
+**Interactive role-playing works** are the form the generated extension was always best at, because the one part of the work that cannot be performed in advance is the player's. Every other figure in such a work is a performer's scenes extended to meet what the player does, inside the Kernel's rules: a figure answers back, keeps its character, and says what it is if asked. The form's grammar, a party, a class to fit the encounter, a world kept consistent across sessions, is common currency across the Concord and was common long before the Charter; the record's own account of a mind that keeps house in that grammar is on [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)'s page, and is hers.
+
+**Simulation training is acted before it is run.** The Corps trains by [doing the thing badly somewhere it is safe to do it badly](/star-rangers/lore/what-the-record-refuses/), and most of what goes wrong in the field goes wrong between people: the crew member who will not say, the passenger who says too much, the official who answers a different question. Those parts are performed, by performers, before a scenario ever reaches a rig or a drill corridor, because a generator extending nothing produces the textbook's idea of a difficult person and the Safety Corps has met the real one. The performed scenario is credited in the training record, and a certification earned against it is a certification earned against somebody.
+
+**And print fiction with a named author on the spine did not go anywhere either**, for the reason above: a story that cost its author something is a story the ledger can see.
+
+## What the Rig Costs
+
+The record has already said that immersive entertainment peaked and declined before 2826, and [why the audience left](/star-rangers/glossary/virtual-reality/). There is a second reason, and it is the body's rather than the culture's.
+
+**A virtual-reality rig is inherently tiring, and it is inherently a stress.** It gives the eyes and ears a place, and the balance organs, the skin, the gut and the proprioceptive sense report a different one, and the body treats the disagreement as a condition to be resolved. It is never resolved while the rig is worn. The eyes are asked to converge on a thing at one distance and focus at another, which no eye evolved to do for long. Attention is held, continuously, to a sensorium that does not quite agree with itself. None of this is a fault in the equipment, and no generation of equipment has removed it, because the cause is not in the equipment: it is in giving a body a place it is not in. The result is fatigue that arrives early and leaves late, and a load the Concord's medicine files under overall health rather than under eyesight.
+
+So a rig is used the way a hazardous instrument is used. Survey and Engineering rig hours are logged as exposure and bounded by it; sessions are short; the fold-visualization navigator who [spends real hours inside one](/star-rangers/glossary/virtual-reality/) is doing so because the structure cannot be seen any other way, and goes home tired in a way a day at a matte sheet does not make her. Nobody lives in one, nobody is entertained in one for an evening, and a culture that had other reasons to leave immersive entertainment found this one waiting when it went.
+
+**Holograms are not a lesser rig.** They are not possible. An image standing in empty air would have to be light scattered from something, and air is not something; [the record refuses the projected figure outright](/star-rangers/lore/what-the-record-refuses/), and a performer's work is never shown that way.
+
+## The Assistant in the Wall
+
+The lawful systems that run a habitat, a station or a household are [present everywhere and announce almost none of it](/star-rangers/lore/environmental-technology-design/). That is not an accident of design taste. **A virtual assistant is trained to be low-key and non-intrusive**, at commissioning, as a matter of the Kernel's own doctrine applied to a voice: it attends, it answers when addressed, it speaks unasked only where the First Invariant requires it, and it does not greet, suggest, remind, or fill a silence. It says *please* and *thank you* [where those are heard](/star-rangers/lore/ai-safety-kernel/), and otherwise says nothing. A resident of 2826 can go a week without hearing the system that keeps her alive, and most do.
+
+The reasoning is the same as the holodeck's, seen from the other side. A system that performed its own helpfulness would be presenting a picture of attentiveness in place of the thing, and a partner constantly announcing its presence has stopped being a partner. The performers are the ones who perform here. The machines were trained not to.
+
+## See Also
+
+- [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/) — holograms, the holodeck, and the surfaces a work is read on
+- [Virtual Reality](/star-rangers/glossary/virtual-reality/) — the instrument that survived, and where it stops
+- [Narrative Works and Their Adaptation](/star-rangers/lore/narrative-works-and-their-adaptation/) — the shape of a work, and who is credited for carrying it across
+- [The AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/) — truthfulness, and the courtesy that follows from it
+- [Environmental Technology and Design](/star-rangers/lore/environmental-technology-design/) — AI present, never intrusive
+- [Creative Entropy Index (CEI)](/star-rangers/glossary/creative-entropy-index-cei/) — what novelty credit is looking for

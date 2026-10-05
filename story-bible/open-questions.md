@@ -2740,3 +2740,13 @@ the 8 September rule refuses); the coined names (*Called In*, *The Short
 Stair*, Oyinlola, twenty-six, the Commander); the two claims that Rangers
 read the stories and recruits know the oath; Pinya's pronouns, face and home
 (recommended none yet).
+## Performers and generated work — `intake-2026-10-05.md`, last section — REALIZED, three choices open
+
+Dermot's direction on actors, models and musicians in the 29th century,
+holograms, the rig's cost and the quiet assistant, realized as
+`src/lore/performers-and-generated-work.md` with a clarification on the
+*Virtual Reality* entry and additions to the refusals page. Open, his: a
+glossary entry for *videocast* (recommended none yet, since it needs an
+Irish line he has looked at); whether the ledger and the Kernel are the whole
+cause (as drafted) or a third in-world cause is wanted; whether the
+profession ever enters the prose.
