@@ -2767,7 +2767,7 @@ refusal, or the gate alone is the instrument (recommended: the gate). **The
 gate alone, approved the same evening**; merged in PR #966. The metaverse
 direction of the same evening is realized with nothing open.
 
-## The Archive as the Book — `intake-2026-10-05.md`, last section — SHAPES PUT, open
+## ~~The Archive as the Book~~ — `intake-2026-10-05.md`, last section — RULED same evening (*Recommendations approved, draft the Archive page too*)
 
 Dermot's evening thought, verbatim *The Archive as perhaps the in-story
 equivalent of The Book in the Hitchhikers Guide to the Galaxy tv series, in
@@ -2790,3 +2790,9 @@ rather than reversing it); whether D (authored Archive interruptions in
 the chapter, the Book's own device, listed not offered) is wanted at all;
 and E, a lore page for the Archive itself (lean: draft it as a gathering
 of what is published).
+**Ruled the same evening**, verbatim *Recommendations approved, draft the
+Archive page too*: the four readings confirmed, shape A with the
+front-matter anchor and the posture-dependent placement, D not taken, E
+drafted as `src/lore/the-archive.md`. Realized as `lib/archive-companions.js`
+and the *From the Archive* aside on every chapter; seventeen chapters carry
+the first `related:` lists. Nothing open.

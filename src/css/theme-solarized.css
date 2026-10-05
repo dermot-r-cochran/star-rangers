@@ -67,7 +67,8 @@
    themes and the modes would multiply - 9 x 4 combinations to keep straight
    rather than 9 palettes and 4 posture overlays that compose. The two
    structural rules below are the deliberate exceptions, each noted with why a
-   property could not carry it.
+   property could not carry it - and a third, the "From the Archive" aside's
+   placement by posture, sits with that aside's own styles further down.
 
    A MODE IS A POSTURE, NOT A TIER. The audience tiers (children -> young adult
    -> general -> contemplative, story-bible-summary.md) are about register and
@@ -826,6 +827,83 @@ a:focus {
   margin-left: var(--spacing-sm);
   font-size: 0.8rem;
   color: var(--color-text-muted);
+}
+
+/* --- "From the Archive" (the entries that accompany a chapter) ---
+   The Archive beside the narrative: the entries for what the chapter meets,
+   each with its own one-line account (lib/archive-companions.js; Dermot's
+   direction of 2026-10-05, the Archive as the Book that accompanies the
+   story). Same box as .canon-facts and .archive-links, since it is the same
+   voice - the Archive talking about the text rather than in it. */
+.chapter-reading {
+  display: block;
+}
+.archive-companions {
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-md);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  max-width: var(--max-prose);
+}
+.archive-companions__heading {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  color: var(--color-text);
+}
+.archive-companions__lede {
+  margin-top: var(--spacing-xs);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+.archive-companions__list {
+  list-style: none;
+  margin-top: var(--spacing-md);
+  padding: 0;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.archive-companions__item + .archive-companions__item {
+  margin-top: var(--spacing-md);
+}
+.archive-companions__kind {
+  margin-left: var(--spacing-sm);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+.archive-companions__text {
+  margin-top: var(--spacing-xs);
+  font-size: 0.875rem;
+  color: var(--color-text);
+}
+/* Structural, and the third deliberate exception to "a mode moves only
+   properties" (see the presentation-mode note at the top of this file):
+   WHERE the aside sits is not a value any token holds. In the archive and
+   contemplative postures, reference density and sitting with a page, the
+   Archive accompanies the prose in a margin column once the viewport has
+   room for both; in story and primer, reading straight through, it stays
+   under the text. The DOM order is body then aside, so the two layouts show
+   the same page, and the grid only ever adds a column. Dermot's choice,
+   2026-10-05, re-grounding the 2026-10-02 placement: reasons stay under the
+   text; vocabulary may sit beside it, where the posture asks. */
+@media (min-width: 1100px) {
+  :root[data-presentation="archive"] .chapter-reading,
+  :root[data-presentation="contemplative"] .chapter-reading {
+    display: grid;
+    grid-template-columns: minmax(0, var(--max-prose)) minmax(14rem, 18rem);
+    column-gap: var(--spacing-xl);
+    align-items: start;
+  }
+  :root[data-presentation="archive"] .archive-companions,
+  :root[data-presentation="contemplative"] .archive-companions {
+    margin-top: 0;
+    position: sticky;
+    top: var(--spacing-md);
+    max-height: calc(100vh - 2 * var(--spacing-md));
+    overflow-y: auto;
+  }
 }
 
 /* --- Scene-by-scene links (chapter overview) --- */

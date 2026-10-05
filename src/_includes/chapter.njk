@@ -77,8 +77,35 @@ commentsCategory: episodes
   </div>
   {% endif %}
 
+  {#- "From the Archive": the Archive entries that accompany this chapter -
+      pages whose revealed_by names it, plus the chapter's own `related:`
+      titles - each with the entry's own one-line account, in the Archive's
+      voice (lib/archive-companions.js; Dermot's direction of 2026-10-05, the
+      Archive as the Book that accompanies the narrative). Where it sits is
+      the posture's: beside the prose in the archive and contemplative
+      presentations at the wide breakpoint, under it in story and primer
+      (main.css, .chapter-reading). The DOM order is the same either way, so
+      a reader without the grid meets it directly under the text. -#}
+  {%- set archiveCompanions = { id: id } | fromTheArchive(related, collections.glossary, collections.lore, collections.codex, edition.tier) -%}
+  <div class="chapter-reading">
   <div class="chapter-body">
     {{ content | safe }}
+  </div>
+  {% if archiveCompanions.length %}
+  <aside class="archive-companions" aria-labelledby="archive-companions-heading" data-pagefind-ignore>
+    <h2 class="archive-companions__heading" id="archive-companions-heading">From the Archive</h2>
+    <p class="archive-companions__lede">The record's entries for what this chapter meets.</p>
+    <ul class="archive-companions__list" role="list">
+      {% for entry in archiveCompanions %}
+      <li class="archive-companions__item">
+        <a class="archive-companions__title" href="{{ entry.url }}">{{ entry.title }}</a>
+        <span class="archive-companions__kind">{{ entry.label }}{% if entry.category %} · {{ entry.category }}{% endif %}{% if entry.relation == "revealed" %} · first revealed here{% endif %}</span>
+        {% if entry.text %}<p class="archive-companions__text">{{ entry.text }}</p>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
   </div>
 
   {% set scenes = scenePovPages | scenesForChapter(id) %}

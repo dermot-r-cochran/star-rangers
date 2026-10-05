@@ -22,6 +22,7 @@ const {
 const { threadForSeason, DEFAULT_REFERENCE_DOMAIN } = require("./lib/storyline-threads");
 const { statusKey } = require("./lib/status-key");
 const { findArchiveBacklinks } = require("./lib/archive-backlinks");
+const { findArchiveCompanions } = require("./lib/archive-companions");
 const { getEdition, validateEditions, PRESENTATION_MODES } = require("./lib/editions");
 
 // classifyContentPath / isRelatedTopicPageIncluded / isContentIncluded moved
@@ -414,6 +415,33 @@ module.exports = function(eleventyConfig) {
     }));
     add(lore, "lore"); add(glossary, "glossary"); add(codex, "codex"); add(journal, "journal");
     return findArchiveBacklinks(chapterData, pages);
+  });
+
+  // The chapter layout's "From the Archive" aside: the Archive entries that
+  // accompany this chapter - every glossary, lore or codex page the build
+  // includes whose revealed_by names the chapter, plus those the chapter's
+  // own `related:` names by title - each with its one-line account (short or
+  // description; the plain line on a children's-tier build). Authored
+  // anchors, derived rendering; see lib/archive-companions.js and the
+  // 2026-10-05 ruling it realizes. Resolves against the build's own
+  // collections, so a narrowed edition never shows an entry it excludes.
+  eleventyConfig.addFilter("fromTheArchive", function(chapterData, related, glossary, lore, codex, tier) {
+    const pages = [];
+    const add = (items, section) => (items || []).forEach((item) => pages.push({
+      title: item.data.title,
+      url: item.url,
+      section,
+      category: item.data.category,
+      short: item.data.short,
+      description: item.data.description,
+      plain: item.data.plain,
+      revealedBy: item.data.revealed_by,
+    }));
+    add(glossary, "glossary"); add(lore, "lore"); add(codex, "codex");
+    return findArchiveCompanions(chapterData, related, pages, { tier }).map((entry) => ({
+      ...entry,
+      url: `/star-rangers${entry.url}`,
+    }));
   });
 
   eleventyConfig.addFilter("previousChapterIn", (chapters, id) => {
