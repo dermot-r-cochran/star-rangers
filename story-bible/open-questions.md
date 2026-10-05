@@ -2741,7 +2741,9 @@ Stair*, Oyinlola, twenty-six, the Commander); the two claims that Rangers
 read the stories and recruits know the oath; Pinya's pronouns, face and home
 (recommended none yet). **Approved by him the same evening, verbatim
 *Recommendations approved, merge all three*:** all as recommended; merged in
-PR #966. Still deliberately absent: Pinya's pronouns, face and home.
+PR #966. ~~Still deliberately absent: Pinya's pronouns, face and home.~~
+**Pronouns ruled she/her later the same evening**; face and home stay
+absent by design.
 ## Performers and generated work — `intake-2026-10-05.md` — APPROVED same evening
 
 Dermot's direction on actors, models and musicians in the 29th century,
