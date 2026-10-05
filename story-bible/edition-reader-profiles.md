@@ -433,6 +433,12 @@ line — over opening all 83, whose index would have been eighty adult-register
 Cyborg, Plural Minds, UCSD, Boundary Zone), and the index shows their `plain:`
 lines under a plain intro, not the `short`s; `check-children-glossary.js` is
 the gate.
+**The Timeline left the domain the same evening** (Dermot's ruling,
+*Option 1 now*, same intake): its two events were Season 1's, carried by a
+tag that had outlived Season 1's removal, with the failed ritual and the
+Obliger in one summary and every onward link but two a placeholder. The
+tag came off both; the shelf is empty here and the header, card and
+Reading Plan hide it. Season 2's own entries are drafted as a proposal.
 **Cast:** Barsik, Bubochka, the Eden warden,
 Nessa, Rasa Oyelaran — unchanged on 2026-08-21 when every other edition got one,
 because this was the only edition that had ever had a cast of its own and it is
