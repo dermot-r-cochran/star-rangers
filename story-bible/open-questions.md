@@ -2645,7 +2645,12 @@ survey chapter and the Codex entry on Aoife's death.* Drafted as S03E02C02
 drafted: ~~the slot~~ (S03E02C02 stands), ~~Halvorsen~~ (kept; no portrait
 yet, queued with the codex entry's title card), ~~the reported sentence~~
 (stays).
-- **Still unwritten, and still absent on purpose:** any page set in another
+- ~~**Still unwritten, and still absent on purpose:** any page set in another
   *formcluster* (Wholecloth, Selvage), which the 25 August policy allows only
-  as a Codex report through the Cascade's strata or for a genuine dilemma;
-  and the discovery of Counterpane itself, whose date lore leaves open.
+  as a Codex report through the Cascade's strata or for a genuine dilemma~~ —
+  **the Codex report drafted the same day at his ask** as
+  `src/codex/the-cloth-as-taught.md` (intake, third section): a Krenyi
+  Champion's account of a Levril's teaching, graded *carried*, nothing
+  observed. Still absent on purpose: any *narrative* seated in Wholecloth,
+  which waits on a genuine dilemma; and the discovery of Counterpane itself,
+  whose date lore leaves open.
