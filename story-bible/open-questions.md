@@ -2712,7 +2712,7 @@ from Aldera's page instead); shape 3 drafted as a proposal in its own
 pull request, where the public-record question is put beside the drafts
 and stays open until he answers it.
 
-## Season 2's timeline, as a proposal — `intake-2026-10-05.md`, last section — DRAFTED, open
+## Season 2's timeline, as a proposal — `intake-2026-10-05.md`, last section — APPROVED same evening
 
 Five entries for the year Season 2 covers, drafted at his *draft Season 2
 entries as a proposal*, each on a public document of that year and holding
@@ -2721,4 +2721,6 @@ children's register on the Timeline index. Open, his: whether the
 public-record line is drawn where the drafts draw it (recommended: as
 drafted; the bureau's closed cases are the case for the other side); five
 or fewer (recommended: five); the two lore links that are placeholders on
-the tier (recommended: keep).
+the tier (recommended: keep). **Approved by him the same evening, verbatim
+*Recommendations approved*:** all three as recommended; merged as PR #965.
+Nothing open.

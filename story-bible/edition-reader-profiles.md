@@ -438,7 +438,11 @@ the gate.
 tag that had outlived Season 1's removal, with the failed ritual and the
 Obliger in one summary and every onward link but two a placeholder. The
 tag came off both; the shelf is empty here and the header, card and
-Reading Plan hide it. Season 2's own entries are drafted as a proposal.
+Reading Plan hide it. **Season 2's own entries followed the same evening**
+(his *Recommendations approved* on the proposal): five, each on a public
+document of the pets year and holding only what the chapters' canon facts
+fix, each with a `plain:` line the index shows in place of `summary` under
+a plain intro, grade 4.6 to 7.1. The Timeline is back in the header.
 **Cast:** Barsik, Bubochka, the Eden warden,
 Nessa, Rasa Oyelaran — unchanged on 2026-08-21 when every other edition got one,
 because this was the only edition that had ever had a cast of its own and it is
