@@ -2656,5 +2656,5 @@ yet, queued with the codex entry's title card), ~~the reported sentence~~
   whose date lore leaves open~~ — **drafted the same day at his ask** as
   S01E00C05 *Survives Correction* (intake, fourth section): 2814, Syra as
   the Section Lead who ran the calibration, Yusuf Adair (new) as the
-  Science Corps reviewer who never left. The year, the discoverer and the
-  prequel slot are his to confirm.
+  Science Corps reviewer who never left. **Approved by him the same
+  session**: the year, the discoverer and the prequel slot stand.
