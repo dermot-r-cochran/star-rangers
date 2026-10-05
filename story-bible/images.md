@@ -2514,9 +2514,9 @@ Most of them postdate July. Prompts for all 52 are at *Outstanding lore illustra
   85, nothing else touched; the small red call point by the stair base is
   left, since a button is not a period. The alt text describes the frame.
   It is a real building, named by Dermot the same evening: **part of
-  University College Dublin** (his words, *Real building is part of
-  University College Dublin*; which building he did not say and the entry
-  does not guess). Not in `own-photography.json`. On record here on the
+  University College Dublin, on the Belfield campus** (his words, *Real
+  building is part of University College Dublin* and *Belfield campus*;
+  which building he did not say and the entry does not guess). Not in `own-photography.json`. On record here on the
   Formation-page lesson that a real place standing in for a fictional one
   is a decision and not an accident; the page itself says nothing of it.
   No prompt, no reference, no generator.
