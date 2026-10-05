@@ -5,6 +5,8 @@ category: "Cosmology"
 tags: [cosmology, consciousness, awareness, mind, substrate, sapience, plural-minds, made-minds, noogenic, five-layers, survey-corps, doctrine, medical]
 description: "The substrate of consciousness and awareness, generalised: what the cosmology settles about a mind (that it is permitted, registered and coupled) and what it leaves to the world (what carries it); the four things any carrier has to do; and the carriers the record has actually met, from nervous tissue and classical computation to a shared body, a chorus, a dimensional band, a universe, and none."
 plain: "Every mind has to be carried by something — a brain, a computer, a body, sometimes more than one, sometimes something stranger. The deep structure of the universe-family allows minds to exist and keeps a record of each one, but it never says what a mind has to be made of. So the same kind of mind turns up carried by very different things. Awareness is what a body notices; consciousness is there being somebody the noticing is for. Animals have the first without being people. The survey never decides who is a person by looking at what carries them. It finds out by talking to them, however long that takes."
+image: "what-a-mind-is-carried-by.jpg"
+image_alt: "A small plain room seen through a doorway at night: a pale table with an empty chair on the near side, and across from it a smooth, featureless blue-grey box the size of a travelling chest resting on a low slab, with a mug set on the table in front of it and a thread of warm-coloured steam rising. A dark window is behind, and the back of a second chair shows at the far end of the table."
 ---
 
 Ask the record what a mind is made of and it will ask what you are pointing at.
