@@ -176,7 +176,9 @@ ruled the same day (`intake-2026-09-24.md`).
   bracketed translations, and nothing is italicised as foreign on the Union's own
   ground.
 - **Which Irish.** The Union's own 29th-century Irish, held to neither today's
-  standard nor the old forms. Where the glossary gives a term's Union form, a
+  standard nor the old forms — a language partly lost on the crossing and rebuilt
+  from the texts and from linguistic principles (Dermot, 2026-10-05), so it is
+  regular where the old was irregular, and a Union speaker may know that. Where the glossary gives a term's Union form, a
   Union speaker uses that form: a Union Ranger may call the corps *na Maoir
   Réalta*, and a Union child says *na Daoine Maithe*. *Ilchruinne* and *fian*
   never appear.
