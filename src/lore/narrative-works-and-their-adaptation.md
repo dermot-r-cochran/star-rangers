@@ -55,6 +55,7 @@ Adapters cite this more often than any other case when explaining the trade to n
 
 - [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/) — the universal translator, and the surfaces a work is read on
 - [Virtual Reality](/star-rangers/glossary/virtual-reality/) — rendering a structure a sense cannot reach, and where the instrument stops
+- [Performers and Generated Work](/star-rangers/lore/performers-and-generated-work/) — the performed scene under every generated work, the videocast, and who is credited
 - [Creative Entropy Index (CEI)](/star-rangers/glossary/creative-entropy-index-cei/) — what novelty credit is actually looking for
 - [The Chthonari](/star-rangers/lore/chthonari/) — the Undersong, and the adapters' standing hard case
 - [The Ollune](/star-rangers/lore/ollune/) — two channels, and the right to decline a rendering
