@@ -783,6 +783,83 @@ internally consistent and neither able to refute the other. No worked example
 exists yet; the first use is a canon change and goes through draft-and-stop
 like any other.
 
+### What kinds of dilemma the device can carry (assessed 2026-10-05, at Dermot's question)
+
+Dermot asked, the day the Counterpane and Wholecloth material was written,
+*what kinds of dilemma would be possible*. The answer, filed here at his
+instruction, is that the device is narrower than it looks, and that the
+corpus has not needed it for the reason it is narrow: every tension recorded
+so far was resolved inside one record by clarification. The policy demands
+something stronger — two canon commitments the work needs **both true** —
+and that shape arises in one place.
+
+**What the device can and cannot split.** A divergence can be realized across
+formclusters only on facts that are formcluster-scoped or narrower, and
+`src/lore/the-scope-of-physical-law.md` fixes what those are: the manifold
+and its fold geometry, seating and the Interval, commensurability, and
+everything beneath — the archetype vocabulary, the quantum kernel, harmonic
+admissibility, membrane constants, Etheric templates. Above that line nothing
+splits. Layers 1 and 2 are multiverse-wide, so Conceptual Conservation,
+Kiemeic translation, Kieme's restraint, the no-moral-cosmology invariant and
+the Unfounded's groundlessness are everywhere or nowhere; time is linear
+Ensemble-wide (`src/lore/universal-cosmic-stardate.md`); and the record's
+refusals are values of the work, not facts of our cluster, so another cluster
+is never where the universal translator or the quantum oracle quietly works.
+Every dilemma about the soul, prayer, eschatology or fate therefore stays
+where it is — Codex, overlay, or marked absence.
+
+**The four kinds that qualify, from narrowest reach to widest:**
+
+1. **Necessity against contingency.** Canon states a mechanism as the way
+   things are; canon elsewhere states it was never necessary; a story needs
+   the other case to be real somewhere. This is the only shape the device
+   truly resolves, and Counterpane is already its worked form — *identical
+   at base* beside *the kernel happens to be ours*. Wholecloth and Selvage
+   are the same shape at the fold and seeding tiers. All three were written
+   as lore additions rather than as dilemma resolutions, which is why the
+   paragraph above still says no worked example exists; in shape, they are
+   the examples.
+2. **Archetype dilemmas.** A story that needs a shape the local vocabulary
+   forbids: a second metazoan lineage with no descent relation, a made mind
+   that does not converge on the AI Safety Archetype, a people whose
+   convergence shapes are not ours. These are archecluster-scoped, and that
+   is the one fact in this section with a consequence for prose: Counterpane
+   is fold-reachable, so this is the only kind that can carry a **chapter**
+   and not only structure. A survey party can stand in the other horn.
+3. **Seating dilemmas.** A story that needs a universe with no neighbour — no
+   shadow on any wall, no weather from next door, no derivation — against the
+   record's standing picture of membranes as things with edges.
+   Formcluster-scoped, so structure only. Wholecloth holds the whole class
+   already, and the Selvage edge is the one such horn that still moves.
+4. **Provability dilemmas.** A story that needs a different arithmetic, not
+   different physics. Only across Metawrights, and the record holds no named
+   second regime. The furthest the device reaches and the least usable, since
+   a proof carried between regimes arrives as an assertion.
+
+**What has actually come up.** Four dilemmas are recorded in the intakes, all
+small and all in-cluster: the Photographic Beings figure against a dark hall
+(`five-islands-treatment.md`, resolved for the entry); a hovering-drones
+sentence against a ruling (`intake-2026-09-08.md`, resolved by
+clarification); *secret* against *open by constitution* for the Fellowship
+(`intake-2026-09-27.md`, resolvable as hidden then and open now); and the
+Compact's galactic standing (`intake-2026-09-30.md`), where a larger shape
+would have *needed* a dilemma and none existed. None had two horns the work
+required. That is the pattern to expect: the scope ladder pre-empts most
+mechanism conflicts by scoping each fact before a story leans on it, so the
+device will rarely fire for physics.
+
+**Where the first real one is likeliest.** Kind 2, at Counterpane, because it
+is the only horn a chapter can be seated in without inventing an
+observation. The lore has pre-registered the question:
+`src/lore/made-minds-and-the-ai-safety-archetype.md` states the convergence
+archetypes at archecluster width with *no observation either way*. A
+Counterpane story that met a made mind, or a biosphere, that had converged on
+something else would not be a contradiction; it would be the first
+measurement past the hedge, filed as a revision the way *Survives
+Correction* (S01E00C05) filed the kernel. That is not yet a dilemma. It
+becomes one only if a chapter here first needs the archetype to be
+universal — and no chapter should.
+
 ---
 
 ## Teaching analogy: Corps ranks (weak, and useful anyway)
