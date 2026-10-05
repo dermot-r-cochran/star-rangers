@@ -19,3 +19,4 @@ and leave the circumstances behind.
 - A life laid down well ends in farewell; the grief belongs to those who stay.
 - A bound worth having comes from outside the thing it bounds; self-restraint alone hardens or is captured.
 - Passion for one's work is a recent expectation; the older virtues are diligence, fidelity and craft, and the watch is kept on the days nothing is wrong.
+- The work can be contracted for; the feeling cannot. Tiredness is ordinary and depletion is evidence about the role, so the honest answers to a role that drains past recovery are to redesign it or to leave it.
