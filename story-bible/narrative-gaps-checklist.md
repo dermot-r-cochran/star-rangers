@@ -17,7 +17,7 @@ Against the 2026-08-10 list:
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
 | **Below the Roof** — three chapters | **Seventeen**, across two seasons |
-| **Season 3** — two chapters | **Four** (*What Meridian Asked* added; *Aware of Weather* opened Episode 2, 4 October 2026) |
+| **Season 3** — two chapters | **Five** (*What Meridian Asked* added; *Aware of Weather* opened Episode 2, 4 October 2026; *Honest Clocks* added 5 October 2026, the record's first chapter outside the local archecluster) |
 
 **The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
 
@@ -48,7 +48,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 
 ### 2. Season 3 is three chapters for a whole rank-era
 
-*Filed Under Noise*, *Independent Verification* and *What Meridian Asked* stand in for Principal → Section Lead → Chief Ranger.
+*Filed Under Noise*, *Independent Verification* and *What Meridian Asked* stand in for Principal → Section Lead → Chief Ranger; *Aware of Weather* (Section Lead, summer 2828) and *Honest Clocks* (Chief Ranger, spring 2829, the Counterpane revisit) have since paid the two later rungs once each.
 
 - [ ] The Sentinel–Meridian connection: Sohrel has declined to raise it without stating a reason on the record. Either a declination that finally costs her something, or the raising.
 

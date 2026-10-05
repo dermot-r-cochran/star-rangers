@@ -40,4 +40,4 @@ That same refusal is what makes her legible, fourteen centuries later, to reader
 
 She kept no formal writings of her own. Everything known of her interior life passes through someone else's hand — Brother Daire's, and now a chain of devotional and scholarly readers stretching from medieval Ireland to the charter worlds of the [Celtic Union](/star-rangers/lore/celtic-union-of-planets/). She would likely have found that unsurprising. She spent her life being asked to explain something she'd already told everyone, honestly, she couldn't fully explain.
 
-See also: [Saint Aoife](/star-rangers/lore/saint-aoife/), [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [Brother Daire](/star-rangers/characters/brother-daire/), [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/).
+See also: [Saint Aoife](/star-rangers/lore/saint-aoife/), [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [What Was Carried](/star-rangers/codex/what-was-carried/), [Brother Daire](/star-rangers/characters/brother-daire/), [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/).
