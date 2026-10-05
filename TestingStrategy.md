@@ -109,6 +109,7 @@ In order after the unit suite:
 | `scripts/validate-content.js` | front-matter schema violations, id/filename mismatches, duplicate `comment_id`s, the image bookkeeping (missing targets, unreferenced files, byte-identical duplicates, layout-emitted URLs), each edition's hero cast |
 | `scripts/check-internal-links.js` | a cross-link to a page renamed or never written — schema and dry run both pass on those |
 | `scripts/check-related-terms.js` | a `related:` term that silently falls back to `/glossary/`; warns (without failing) on duplicated page titles |
+| `scripts/check-children-glossary.js` | a page a children's-tier edition carries, or that edition's own copy in `lib/editions.js`, linking a glossary entry the edition renders as a placeholder, or one with no `plain:` line; an entry the tier carries without one. Warns on an entry the tier carries that nothing on it links. A carried entry's own onward links are not enforced (one hop from the story, never the closure); their count is printed (since 2026-10-05; the rule is in CLAUDE.md) |
 | `scripts/sync-version.js --check` | README/package.json version drift |
 | `eleventy --dryrun` | template and build errors, without writing `_site/` |
 

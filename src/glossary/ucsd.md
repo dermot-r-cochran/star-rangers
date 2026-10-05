@@ -9,7 +9,7 @@ short: "The Concord's civil dating standard — the common spine every record co
 plain: "UCSD is the calendar most records in this story use, the way we use dates like 2026. It continues old Earth's year count with 200 added, so the numbers keep climbing past the space age. Alien civilisations have their own calendars for the same events — a date can be written many ways, but it is always the same day. Clocks far apart drift a tiny bit because of physics, but the difference is small and gets corrected."
 related:
   - "Concordant"
-tags: [timekeeping, ucsd, concord, records]
+tags: [timekeeping, ucsd, concord, records, undercover-pets.com]
 ---
 
 **Universal Concord Standard Date (UCSD)** is the civil dating standard of [the Solar System Concord](/star-rangers/lore/solar-system-concord/) — the shared spine that dates in the public record convert to, whatever notation they were first written in.

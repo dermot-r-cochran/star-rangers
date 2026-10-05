@@ -7,11 +7,12 @@ revealed_by: s01e01c01
 id: boundary-zone
 category: "Cosmology"
 short: "A region where two regions of differing physical and Etheric conditions meet, producing measurable instrument drift; in operational use, almost always a local narrowing of the Interval between two universes."
+plain: "A boundary zone is a place where two parts of space with different rules meet, and neither one wins. Instruments put on either side of it give different answers, and none of them is broken: each one is measuring the place it is in, and the places don't agree. People can live and work in one, but anything that needs fine measuring gets less reliable the longer they stay. The Star Rangers keep watch posts at boundary zones. The Marsh Causeway, where Aldera the cat is stationed, sits right on one, and she feels it in the air and the reeds before any instrument does."
 related:
   - "Concordant"
   - "Instrument Drift"
   - "Etheric"
-tags: [boundary, concordant, cosmology]
+tags: [boundary, concordant, cosmology, undercover-pets.com]
 ---
 
 A **boundary zone** is a region where two sets of physical and [Etheric](/star-rangers/glossary/etheric/) conditions meet and neither wholly governs. Where that happens, the difference between them becomes measurable.

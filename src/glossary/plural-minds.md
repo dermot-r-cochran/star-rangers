@@ -6,10 +6,11 @@ irish_gloss: "plural minds"
 id: plural-minds
 category: "Society"
 short: "A single body hosting more than one person — headmates or tulpas — recognised as an ordinary, lawful arrangement rather than a disorder or a supernatural event."
+plain: "A plural mind is one body with more than one person living in it. Each of them is a real person, with their own thoughts and their own voice, and nothing is wrong with any of them. Long ago, doctors and forms tried to make every body into one person. The rules now say a body holds as many people as it holds, and the forms were changed to match. Everyone who shares a body shares what the body does, good or bad, whoever was speaking at the time. Sen the archivist is three people in one body. The Eden Warden is two, Ward and Custos, sharing one computer, and whether that is the same kind of thing is a question nobody has answered yet."
 related:
   - "Etheric"
   - "The Solar System Concord"
-tags: [plural-minds, headmates, tulpas, conceptual-layer, society]
+tags: [plural-minds, headmates, tulpas, conceptual-layer, society, undercover-pets.com]
 ---
 
 A **plural mind** is a single body and nervous system hosting more than one person — commonly called headmates, or, when one person's own mind deliberately cultivates another, a tulpa. Each is a real, distinct person with their own perspective, preferences, and voice. None is a symptom of the others.
