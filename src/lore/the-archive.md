@@ -34,6 +34,8 @@ Where the record holds something, it says what the holding has survived. [A clai
 
 The Archive writes in the [canonical terms](/star-rangers/lore/glossary/canonical-glossary-and-migration-guide/), and where a term has drifted it keeps the migration on record rather than correcting the past silently. It dates in UCSD and leaves the author's own date beside the conversion. It files every physical claim [at the scope it is a fact about](/star-rangers/lore/the-scope-of-physical-law/) and no wider. It renders other calendars, other grammars and other peoples' names into its own register as translation, and says so, and a people whose own forms it keeps untranslated is making a statement by it.
 
+It does not speculate: what it has not verified it files as unverified, what a source conjectures it files as that source's conjecture, and the fiction in its holdings it files as fiction, told and labelled, with no quarrel and no standing.
+
 Two things its voice does not do. It holds no classification under another tradition's words — it carries a devotional idiom where a source uses one and declines the creed, and it keeps the tradition's own vocabulary in the tradition's mouth, in the Codex, attributed. And where the record holds an argument, [it holds both sides and the cases where the cost came due, and not a verdict](/star-rangers/lore/what-nobody-certifies/).
 
 ## What It Is Not
