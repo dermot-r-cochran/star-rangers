@@ -20,3 +20,4 @@ and leave the circumstances behind.
 - A bound worth having comes from outside the thing it bounds; self-restraint alone hardens or is captured.
 - Passion for one's work is a recent expectation; the older virtues are diligence, fidelity and craft, and the watch is kept on the days nothing is wrong.
 - The work can be contracted for; the feeling cannot. Tiredness is ordinary and depletion is evidence about the role, so the honest answers to a role that drains past recovery are to redesign it or to leave it.
+- A clarification is the same judge explaining; an appeal needs a different judge with the power to move the outcome, the record shown to the subject, and a recorded result. Commentary never moves standing, and a process that offers the first and calls it the second lets a finding carry a grade it has not survived.
