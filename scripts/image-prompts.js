@@ -124,7 +124,12 @@ const SECTION_TARGETS = [
   // `\d+[a-z]?` because images.md numbers sub-sections 5a/5b, and the twelve
   // Prismere prompts under 5a were invisible to a bare-number match (found
   // 3 September 2026 when the set was finally regenerated).
-  { match: /^###\s*\d+[a-z]?\.\s*Missing lore illustrations/i, dir: 'lore' },
+  // `(?:Missing|Outstanding)` because 5b is headed "Outstanding lore
+  // illustrations" and its 52 prompts of 19 August were invisible to every
+  // mode until 5 October 2026, when the two added that day did not show up
+  // either - which is how it was found. --list reported 0 pending for seven
+  // weeks while 5b said "none generated; all proposals".
+  { match: /^###\s*\d+[a-z]?\.\s*(?:Missing|Outstanding) lore illustrations/i, dir: 'lore' },
   // Codex art (Dermot's rulings of 18 August and 3 September 2026): an
   // in-world artist's impression that lives in a codex entry's body, the
   // entry's own header staying a designed card. Filed under src/images/codex/
