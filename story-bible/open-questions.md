@@ -846,6 +846,21 @@ listed first so nobody tidies them away.
 
 ## Considered and rejected — do not re-propose
 
+- **A fan-fiction starter kit or sample page — rejected by Dermot, 5 October
+  2026** (*Option 1*, nothing, at his question whether one was needed; his
+  framing: *I allow fanfiction but don't need to over-encourage it either*).
+  The repository already carries everything a fan writer needs — the
+  licence's Fan Works Policy, the About page's fan section (where to post,
+  translations, clones, the *Noted* list), the Forking guide and `npm run
+  new` for clones, the Fan Creations comments category, the published canon
+  facts, glossary, *What the Record Refuses* and the `/llms.txt` export.
+  A kit would authenticate in advance what the licence files as *in
+  circulation*, a sample page has no author it could have (his would be
+  canon, a drafted one house prose standing where fan work stands), and
+  either invites the questions CONTRIBUTING says a fork must not create.
+  The one small gap named — a pointer from the About fan section to the
+  refusals page and the glossary — was offered and declined with the rest.
+  Recorded in `intake-2026-10-05.md`.
 - **Evennia (Python MUD/multiplayer text-game framework) — rejected by Dermot,
   25 August 2026**, as overreach. It is a persistent server with accounts,
   sessions and per-player state, all of which the static-site ruling of
