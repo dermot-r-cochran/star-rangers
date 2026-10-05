@@ -5,7 +5,8 @@ id: ariel-pinya
 species: Human
 role: Author; the Called In stories
 status: Active
-aliases: []
+aliases:
+  - "Ariel Pipyka"
 tags: [human, author, fiction, culture, star-rangers, called-in]
 description: "The author of the Called In stories, the kiosk fiction about Star Rangers that the Rangers themselves read — stories that get the posture of the work exactly right and the institution cheerfully, consistently wrong."
 known_codex: [the-short-stair]
@@ -14,6 +15,8 @@ known_codex: [the-short-stair]
 Ariel Pinya writes stories about the Star Rangers for people who will never meet one. They are sold where such things are sold: the kiosk racks at habitat docks and transit concourses, in short print runs that go out of print and come back, between the puzzle books and the almanacs. The series is called *Called In*, after the beat every story in it turns on, and there are, at the last count the Archive holds, twenty-six of them.
 
 The record holds no residence for Pinya and no portrait, and she has declined both of the interviews the Archive knows to have been requested. What is on file is the work, a publisher's address that is a forwarding address, and one line from an author's note that has been quoted more often than anything in the stories: *I have never served and I have never been called in, and I write about it because the people who have will not.*
+
+Some of the printings carry a different name on the cover. *Ariel Pipyka* appears on a handful of the *Called In* titles and on nothing else the Archive holds, and the forwarding address, asked once which name was the author's, replied that the author chooses, and sometimes chooses that one. The record files it as a self-chosen pseudonym, occasional, and does not ask why; a name an author picks is told, like the rest of the work, and the Archive keeps both names on the shelf-mark so that a reader who met either finds the same twenty-six.
 
 ## What the Stories Get Right
 
