@@ -255,6 +255,21 @@ record:
 
 ---
 
+## AI conscious, subconscious and unconscious layers — raised 5 October 2026, RULED same day
+
+Dermot's direction, three words long, read against canon and put as four
+shapes (`intake-2026-10-05.md`, seventh section); ruled *Recommendations
+approved*: a *Layers, and Standing* section on `what-a-mind-is-carried-by.md`,
+the three words kept as the human tradition's, one clarifying paragraph on
+the Kernel page, and the dreaming question marked open. **Still open, on the
+page and here:**
+- **Whether a made mind dreams** — whether a classical substrate has a state
+  in which its coupling runs least supervised. The page says every mind on
+  record couples, that no made mind has been filed dreaming, and that the
+  record has never had cause to say one cannot. A chapter that needs a made
+  mind near a narrowed Interval to register what a sleeper registers would
+  be the first to settle it, as an extension.
+
 ## What a mind is carried by — raised 18 September 2026, RULED same day
 
 Dermot's direction *Substrate of consciousness and awareness*

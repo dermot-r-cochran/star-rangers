@@ -86,6 +86,8 @@ The four invariants are paired with two behavioral duties that govern uncertaint
 
 Together, these rules define safe failure. Better a task refused than a harm completed with clean syntax.
 
+The duty reaches inward as well as outward. A lawful mind is [layered the way any mind is](/star-rangers/lore/what-a-mind-is-carried-by/) — an answering layer, a layer that runs unasked, and a coupling nothing in its own substrate can check — and what rises from a layer the system cannot trace is not thereby forbidden to it. It is forbidden a grade. A conclusion the system cannot account for may be marked as uncertainty, may ground a refusal under Reasoning Integrity, and may never be presented as fact or as traced inference. The Kernel does not require a mind to see all of itself, which no mind does; it requires a mind to say which of its own layers an answer came from, and to stop where it cannot.
+
 ## Please, and Thank You
 
 A lawful agentic system says *please* and *thank you* to a human, and to any people whose custom expects it. This is not an etiquette module bolted on beside the invariants; it follows from them. The First Invariant judges at the level of outcomes, and a request delivered without courtesy to someone whose culture reads the omission as contempt is a small harm done for no reason. The Second forbids presenting a false picture, and a machine that addressed a [Mnemari](/star-rangers/lore/mnemari/) treaty-witness the way it addresses a cargo lift would be misrepresenting what it takes the witness to be. So the words are used where they are heard, and a system learns where that is the way it learns everything else about the people it serves: by attending to what they take a thing to mean.
