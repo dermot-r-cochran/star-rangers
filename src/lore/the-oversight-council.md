@@ -5,6 +5,8 @@ revealed_by: s06e01c02
 category: "Institutions"
 tags: [star-rangers, oversight-council, charter, neutrality, institutions, solar-system, federation-of-sentient-beings, celtic-union, cerebraun-hegemony, history]
 description: "The civilian body the Star Rangers answer to, and the only one: what the 2723 charter made it, why a clause written against Solar System factions came to bind the Corps toward every people, and how a council seated by one system has been drifting, seat by seat, toward being seated by all who recognise the Corps."
+image: "the-oversight-council.jpg"
+image_alt: "An atrium seen from below: white cantilevered galleries with glass balustrades step up around a curved drum of balconies, warm strip lights set into the soffits, a glass-sided spiral stair rising at the lower right, and daylight coming through skylights above."
 ---
 
 The Star Rangers answer to one body, and it is not a command. It is a room.

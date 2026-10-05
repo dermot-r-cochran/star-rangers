@@ -2495,6 +2495,29 @@ for f in $(find src/lore -name '*.md' ! -name index.md); do
 
 Most of them postdate July. Prompts for all 52 are at *Outstanding lore illustrations* below.
 
+#### The Oversight Council — added 5 October 2026, from Dermot's own frame
+
+- **`the-oversight-council.jpg`** — the page had no image and no prompt. At
+  Dermot's question whether a photograph of his, an atrium with cantilevered
+  galleries, glass balustrades, a drum of balconies, strip lights under the
+  soffits and skylights above, would work as a station, ship or habitat
+  interior, the reading was: a habitat or civic institution, yes, and best;
+  a station only cropped below the skylights; a ship not at all. Among the
+  imageless institution pages the Oversight Council took it (*Yes agreed*):
+  galleries over a public floor read as a civilian body's building, and the
+  page does not claim where the picture was taken. Filed under *photo first,
+  generation last* at its first step: the frame as supplied (4607×3071),
+  cropped 110 px off the left and 73 px off the top to keep 3:2 and to drop
+  the one twenty-first-century exit pictogram, which sat on the wall at the
+  left edge; a cloned patch was tried first and showed a hard edge at site
+  scale, so the crop is the honest fix. Resized to 1600×1067, JPEG quality
+  85, nothing else touched; the small red call point by the stair base is
+  left, since a button is not a period. The alt text describes the frame.
+  It is a real building and is not in `own-photography.json`; Dermot names
+  it here if he wants it on record, on the Formation-page lesson that a
+  real place standing in for a fictional one is a decision and not an
+  accident. No prompt, no reference, no generator.
+
 ### 5a. Missing lore illustrations (19 pages) — audited 2026-07-30, archived
 
 An unrecorded gap. Open work 1 covers character portraits; nothing here had ever
