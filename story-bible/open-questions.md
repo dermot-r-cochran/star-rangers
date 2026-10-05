@@ -2634,20 +2634,17 @@ recommended), and whether either animal travels with him (unruled).
 **Ruled the same evening, verbatim *Approved*:** all three as recommended.
 Nothing open until a thread reaches the year.
 
-## The first chapter outside the local archecluster, and Aoife's death — `intake-2026-10-05.md`, second section — DRAFTED, three choices open
+## The first chapter outside the local archecluster, and Aoife's death — `intake-2026-10-05.md`, second section — APPROVED same session
 
 Dermot's observation that no part of the story is set in another formcluster
 or archecluster and nothing describes a translation into the Spiritual layer,
 checked and found exact; his ask the same session: *Draft the Counterpane
 survey chapter and the Codex entry on Aoife's death.* Drafted as S03E02C02
 *Honest Clocks* (with Chief Ingrid Halvorsen, new) and `src/codex/what-was-carried.md`.
-Still his:
-- **The chapter's slot** — Season 3, Episode 2 was chosen (the thin
-  rank-era, Shepherd a Chief Ranger on general operations in 2829); a new
-  Survey Corps thread was the alternative and is a registration decision.
-- **Halvorsen** — keep, rename or replace; no portrait yet.
-- **The reported sentence** in the codex entry, *I am going where I was
-  shown*, behind one witness; it can come out without anything else moving.
+**Approved by him the same session** with the three choices taken as
+drafted: ~~the slot~~ (S03E02C02 stands), ~~Halvorsen~~ (kept; no portrait
+yet, queued with the codex entry's title card), ~~the reported sentence~~
+(stays).
 - **Still unwritten, and still absent on purpose:** any page set in another
   *formcluster* (Wholecloth, Selvage), which the 25 August policy allows only
   as a Codex report through the Cascade's strata or for a genuine dilemma;
