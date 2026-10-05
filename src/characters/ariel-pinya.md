@@ -29,6 +29,14 @@ Everything institutional. Pinya's Rangers hold naval ranks the Corps has never u
 
 The Archive files the stories in the [Codex](/star-rangers/codex/) for the same reason it files [Kate Ukrainka](/star-rangers/characters/kate-ukrainka/)'s: as one author's account, valid for its author and stated as such. Where a *Called In* story describes the Corps, the record is at [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/) and [The Command Hierarchy](/star-rangers/lore/star-rangers-command-hierarchy/), and the two disagree on every point of procedure. Where a story describes what it is to be called in to something that will not explain itself, the record has no quarrel with it.
 
+## Conjecture, Licensed
+
+Pinya speculates. She conjectures freely and at length, and she is right to, because she is writing fiction and fiction may say what a record may not. Where the Archive marks an absence, she fills it: a Commander's first posting and why it ended, the words of the oath and who wrote them, what a Deputy says to herself on a stair at the fourteenth step, why the publisher's address forwards. None of it is on any file, and none of it needs to be. A story carries its kind on its cover, and a reader who opens a *Called In* story has been told what they are holding.
+
+This is the mirror image of [the Senior Archivist's desk](/star-rangers/characters/sen/), which conjectures nothing and files Pinya's stories without quarrel for exactly that reason: the desk's discipline sorts what is told from what is held, and a story that says it is told has already done the sorting. The same shelf holds the author who grounds nothing and says so and the archivist who grounds everything and says so, and the Archive is built so that neither is mistaken for the other.
+
+The one thing Pinya does not conjecture is the one thing her readers expect her to. The wrongness itself is never explained — not the stair, not the grain store, not the school — and her Rangers, who in every other respect are inventions, hold to the record's own discipline on that single point: they measure, they name what can be named, and they write the rest down as not yet established. Reviewers who have called this a failure of nerve have the thing backwards. She will invent a Ranger's whole life and not one line of what the Ranger was called in to, and the stories are about the difference.
+
 ## Who Reads Them
 
 Rangers do. The stories are passed hand to hand on survey postings and turn up in the shared shelves of monitoring stations, and the Corps' own joke is that a new Deputy can be dated by which story she thinks is the good one. Nobody in the Corps has publicly claimed to have met the author, and the one Ranger the Archive knows to have written to the publisher received a reply from the forwarding address, typed, that thanked her for the correction and did not say which one.
