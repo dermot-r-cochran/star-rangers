@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Episode 0"
-description: "Prequels to Season 1 — how a household cat became the Marsh Causeway's first watcher, and how three machines reached a wrecked ship a generation earlier."
+description: "Prequels to Season 1 — how a household cat became the Marsh Causeway's first watcher, how three machines reached a wrecked ship a generation earlier, and how a boundary analyst on a newly reached membrane filed three words and declined a softer one."
 permalink: /seasons/s01/e00/
 ---
 <nav class="chapter-breadcrumb" aria-label="Episode location">
@@ -15,7 +15,7 @@ permalink: /seasons/s01/e00/
 <img class="page-hero-image" src="/star-rangers/images/hero/s01e00-cat.jpg" alt="A black cat" />
 <h1 class="page-title">Season 1 · Episode 0</h1>
 <p class="page-intro">
-  What came before Episode 1, at two different distances. Four years back: before Elvira ever took up the Marsh Causeway outpost, her household cat chose exile over a garden gate — and found, on a bare tidal rock, the first confirmation that her sensitivity to the boundary was real. Thirty-eight years back: a long-voyage ship stops answering, three machines are sent to it, and what they carry out are children.
+  What came before Episode 1, at two different distances. Four years back: before Elvira ever took up the Marsh Causeway outpost, her household cat chose exile over a garden gate — and found, on a bare tidal rock, the first confirmation that her sensitivity to the boundary was real. Thirty-eight years back: a long-voyage ship stops answering, three machines are sent to it, and what they carry out are children. Twelve years back: the Survey Corps' first party on the membrane later registered as Counterpane logs nothing wrong for ninety days, and then a routine calibration returns a residual that will not close, and a Krenyi Section Lead files what happened and nothing smaller.
 </p>
 
 {% set seasonNumber = "1" %}
