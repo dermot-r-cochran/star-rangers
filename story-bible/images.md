@@ -2793,15 +2793,29 @@ locations.
   4:3, 1600px wide.
   > A vast field of stars and nebulae, deep and layered, with a sense of enormous distance — and at its centre something small, dense and structured: a compact point of organised light with visible internal architecture, clearly not a star. The scale relationship is the subject: something very small carrying the information a very large thing will be built from. Cosmological, contemplative, no figures, no text, no lettering. Landscape orientation.
 
-### 5b. Outstanding lore illustrations — all 52, prompted 19 August 2026
+### 5b. Outstanding lore illustrations — all 54: 52 prompted 19 August 2026, the pair below 5 October 2026
 
-**Added since, no prompt yet:** `what-a-life-is-built-from.md` (7 September
-2026, the four requirements and the heredities found in DNA's place) and its
-sibling `what-a-mind-is-carried-by.md` (18 September 2026, the four things any
-carrier of a mind has to do and the carriers the record has met). Under
-the Conventions an abstract illustration of either is a thing no camera can
-take; a prompt is written when Dermot wants one, or an emblem card
-otherwise — and if the two are carded, they are carded as a pair.
+**Visible to the pipeline since 5 October 2026, and not before.**
+`scripts/image-prompts.js` matched the heading *Missing lore illustrations*
+and this one says *Outstanding*, so every mode of the script skipped the
+whole section for seven weeks: `--list` reported nothing pending while this
+note said *none generated; all proposals*, and the Step 1 of the runbook
+above was answering for 5a alone. Found when the two prompts added on
+5 October did not show up either. The match now takes either word, which
+means **`--list` reports 54 pending from this section** and a bare
+`--generate` would attempt all of them: Step 2's *generate ONE first* is the
+guard, and `--only <name>` the tool.
+
+**The pair, prompted 5 October 2026 at Dermot's *Yes please*:**
+`what-a-life-is-built-from.md` (7 September 2026, the four requirements and
+the heredities found in DNA's place) and its sibling
+`what-a-mind-is-carried-by.md` (18 September 2026, the four things any
+carrier of a mind has to do and the carriers the record has met). Both are
+abstract pages, so both take the section's rule, a concrete anchor each,
+and they are carded as a pair: the same station on the same night, the same
+cold light and the same film, one on a bench and one at a table, so that
+the two pages read as the two halves they are. Their entries are the last
+two under *Cosmology* below.
 
 Written in one pass at Dermot's request. **1600×900, 16:9 landscape**, JPG ~85,
 into `src/images/lore/`. **None generated; all proposals.**
@@ -2829,7 +2843,7 @@ and framed on the devotion rather than the woman.
 
 ---
 
-#### Cosmology (10)
+#### Cosmology (12)
 
 Impressions, never schematics. The Cascade tiers in particular must not become
 nested-sphere diagrams.
@@ -2870,6 +2884,20 @@ nested-sphere diagrams.
 - **`what-the-record-refuses.jpg`** — *what is refused outright, what is kept but honestly priced.*
   > A small, meticulously kept props store in a working repertory theatre: open shelving, everything squared away and nothing ticketed, labelled or numbered anywhere, and one shelf standing conspicuously and deliberately empty and swept clean while every other shelf is full. Plain worklight, no stage lighting, no glamour. Ordered, unsentimental, faintly witty. Warm wood, dust, one bare clean shelf.
   - **The empty shelf is the page.** A refusal that is *filed* rather than merely absent.
+
+- **`what-a-life-is-built-from.jpg`** — *the four requirements recur on every surveyed world; not one of the solutions does.*
+  *(Prompted 5 October 2026. The first of a pair with `what-a-mind-is-carried-by.jpg` below: same station, same night, same light and film. The anchor is the page's own method, four unlike things doing one job, and the four are the page's cases — Prismere's glass filament, Sardain's cold solvent, a composition, a mineral heredity — named here and on no picture. Dishes of stone rather than laboratory glass, so there is no surface a label could land on.)*
+  References: `../dermot-cochran-photography/src/images/photos/fungi-on-a-mossy-stump.jpg`, `../dermot-cochran-photography/src/images/photos/clematis-seedheads.jpg`
+  > Documentary photograph taken inside the world by a 29th-century camera, available light. A field bench in a survey hut on a cold world at night, seen from slightly above and to one side: four identical shallow dishes of plain dark stone in a row, each holding something alive that resembles none of the others. In the first, a loose tangle of glassy translucent filament with a faint green cast. In the second, a flat film with a skin rimed in frost, visibly cold, the stone around it misted. In the third, a single cloudy drop with no structure inside it at all, holding a clean curved edge against the dish. In the fourth, a chip of grey mineral with a faint living crust creeping across one face. Each thing keeps a clear boundary against its dish, and nothing else is on the bench: no tools, no vessels, no paper, no hands. Cold even light from one side, breath-frost along the bench edge, the hut wall a plain composite panel in shadow behind. Four unlike answers to one question, laid side by side. Photographic, 35 mm film look, natural grain, shallow depth of field, muted colour; use the reference images only for light, grain, colour and the texture of living things on a surface, and do not copy their subjects. Slate, frost, glass-green, one warm fleck in the mineral. No readable text, lettering, numerals, signage, labels or written characters of any script anywhere in frame; no glow, no bioluminescence, no screens, no instruments, no figures; no visible lamp or light fitting. Landscape orientation.
+  - **Extra negative:** petri dish, laboratory glassware, test tube, specimen jar, microscope, pipette, label, gloved hand.
+  - **Four, because the page is four requirements; unlike, because no solution recurs.** A frame of four similar samples would illustrate a laboratory, not the page.
+
+- **`what-a-mind-is-carried-by.jpg`** — *nobody argues from carrier to standing; the survey finds a mind by meeting it, however long that takes.*
+  *(Prompted 5 October 2026. The second of the pair: the same station, the same night, the bench's cold light moved to a table. The anchor is the page's practical content — the mind is met, not inspected, and the carrier can be anything — and the register is *Ask and It Will Be Reviewed*'s, affectionate and faintly funny: two parties to a conversation, one of them a box, and the meeting taken as seriously as any. The sealed housing with one indicator is the Iklix Varn precedent for a far-future machine that is not twentieth-century test gear; the cup is the page's last line.)*
+  References: `../dermot-cochran-photography/src/images/photos/empty-bench-greenwich.jpg`
+  > Documentary photograph taken inside the world by a 29th-century camera, available light. A small plain meeting room on a boundary station late in its night, seen from the doorway: one table of pale composite, and across it two places set for a conversation. On the near side an ordinary chair, pushed back a little as though someone has just sat down out of frame. On the far side there is no chair and nothing a chair would fit: a smooth matte sealed housing the size of a travelling chest rests on a low plinth, one small recessed indicator on its face and nothing else, no screen, no seams, no cables, no lights. On the table in front of it a plain cup of something warm, steaming, set there as a courtesy nobody needed. The room is otherwise bare: plain composite walls curving gently into the ceiling, soft even light from a concealed cove, a dark viewport with nothing in it. Patient, quiet, faintly funny, and the meeting taken as seriously as any. Photographic, 35 mm film look, natural grain, muted colour; use the reference image only for light, grain and the colour of a place where someone is expected, and do not copy its subject. Slate, bone-white composite, one warm thread of steam. No readable text, lettering, numerals, signage or written characters of any script anywhere in frame; no screens, monitors, holograms or glowing displays; no robot, android, humanoid machine, face, eyes, limbs or drone; no visible lamp or light fitting; no figures in frame. Landscape orientation.
+  - **Extra negative:** robot, android, droid, humanoid machine, drone, quadcopter, glowing eyes, speaker grille, keyboard, control panel, cables, server rack.
+  - **The box must not become a character.** A face, a lens that reads as an eye, or a limb turns the page's point inside out; the only sign that anyone is there is that a place was set.
 
 #### Physics (4)
 
