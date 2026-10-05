@@ -2652,5 +2652,9 @@ yet, queued with the codex entry's title card), ~~the reported sentence~~
   `src/codex/the-cloth-as-taught.md` (intake, third section): a Krenyi
   Champion's account of a Levril's teaching, graded *carried*, nothing
   observed. Still absent on purpose: any *narrative* seated in Wholecloth,
-  which waits on a genuine dilemma; and the discovery of Counterpane itself,
-  whose date lore leaves open.
+  which waits on a genuine dilemma. ~~The discovery of Counterpane itself,
+  whose date lore leaves open~~ — **drafted the same day at his ask** as
+  S01E00C05 *Survives Correction* (intake, fourth section): 2814, Syra as
+  the Section Lead who ran the calibration, Yusuf Adair (new) as the
+  Science Corps reviewer who never left. The year, the discoverer and the
+  prequel slot are his to confirm.
