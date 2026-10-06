@@ -2812,3 +2812,13 @@ the Union seat; nothing on Aethelrock changes), which worlds say *Taoiseach* and
 *Príomh-Aire*, seats per world (closed the same evening by his cube-root rule: derived from the electorate, not chosen; the one remaining reading is how a Union chamber with no lower house takes a third, drafted as a third of the cube root of the Union's whole electorate), which worlds seat
 their own assemblies by the draw (marked absence), and stratifying the draw by
 clan (drafted where a registry records clans).
+
+## E01's adult "View from" buttons on undercover-pets.com — `intake-2026-10-06.md` — OPEN, his (recommended: no change)
+
+The three Season 2 Episode 1 chapters now carry a Barsik block each, so the
+child has a live viewpoint on every chapter the pets door opens on; the
+Larsen, Voss and Calloway buttons stay placeholders there under the 2
+September choice that keeps the Five-O cast off the children's domain. (a)
+Leave as ruled, recommended. (b) Tag the three character pages
+`undercover-pets.com`, at the cost of three adult cast pages on the
+children's site.
