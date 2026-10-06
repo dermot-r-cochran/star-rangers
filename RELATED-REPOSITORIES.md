@@ -158,6 +158,14 @@ reference for how a thing is done here:
   breached decision fails CI rather than drifting: `swarm`, `careful-memory`,
   `world-model`, `shadow-architect`, the ADM.
 
+One document crosses between two of them (added 6 October 2026):
+`Voting`'s `docs/lot-then-vote.md` and `virtual-anthropology`'s
+`the-archipelago/docs/lot-then-vote.md` are the same design note, a chamber
+whose candidates are drawn by lot and then elected as normal, written for
+the real world in the first and read against the Archipelago's governance in
+the second. Neither implements it. A decision changed in one copy is changed
+in the other, and each repository's `CLAUDE.md` says so.
+
 Three resemblances that are not relationships: `foundation-model`'s
 expertise-weighted voting and the `Voting` crate share a word and nothing
 else; `visual-llm` is built for very large photo sets but reads nothing
