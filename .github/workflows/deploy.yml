@@ -21,6 +21,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Full history and tags, so `git describe` below can name the
+          # release the way scripts/deploy-lib.sh does for the cPanel clones.
+          # The default shallow clone has no tags and would stamp the site
+          # with the bare commit.
+          fetch-depth: 0
+
+      # Stamp what this run ships into /version.txt and <meta name="site-version">,
+      # the same `git describe --tags --always` the cPanel deploy uses, so the
+      # canonical domain can be checked from outside with one request like any
+      # other domain (src/_data/build.js reads DEPLOY_VERSION). Before this the
+      # Pages build reported "dev", which src/version.njk reserved for builds
+      # that did not come through a deploy path - true of a local build, and no
+      # longer true of this one.
+      - name: Name the release being shipped
+        run: echo "DEPLOY_VERSION=$(git describe --tags --always)" >> "$GITHUB_ENV"
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
