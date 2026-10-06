@@ -1,6 +1,7 @@
 ---
 layout: glossary-entry.njk
 title: "Membrane Shadow"
+revealed_by: s12e02c01
 irish: "Scáth Seicne"
 irish_gloss: "a shadow of the membrane"
 id: membrane-shadow

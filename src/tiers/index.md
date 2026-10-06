@@ -35,14 +35,14 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
 <ul>
   <li>
     <strong>A thread is a storyline.</strong> It is a set of whole seasons that read as one
-    story, and every season belongs to exactly one thread. Seven are registered — the
+    story, and every season belongs to exactly one thread. Eight are registered — the
     Founding Era, Tissadelle Shepherd's Arc, Undercover Pets, Orbital Five-O, Young Star
-    Rangers, Below the Roof and Church Space — and the <a href="/star-rangers/threads/">Threads</a> page
+    Rangers, Below the Roof, The Infinite Castle and the Timeless Library, and Church Space — and the <a href="/star-rangers/threads/">Threads</a> page
     lists the ones the address you are on can see.
   </li>
   <li>
     <strong>A tier is a readership,</strong> and it is defined by which threads it
-    carries. The children's tier carries one with chapters and one registered for it; each rung above carries everything below it
+    carries. The children's tier carries two; each rung above carries everything below it
     and adds its own. A tier is a floor, not a ceiling: an edition on it may show more
     than the tier's threads, never fewer. The rungs order reading level, protagonists
     and depth, and nothing else: no tier is a rating, and none ranks a reader, a people
@@ -94,9 +94,10 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
     plain words. The bottom of the ladder, and complete in itself.
   </p>
   <p class="thread-section__description">
-    Registered for this rung, with its first chapters in two strands: <a href="/star-rangers/threads/below-the-roof/">Below
-    the Roof</a>, Season 11 — the Pandoids of Fliade from inside their own deep networks, the
-    record's first storyline carried by a non-human cast.
+    Beside it on this rung: <a href="/star-rangers/threads/below-the-roof/">Below
+    the Roof</a>, Seasons 11 and 12 — the Pandoids of Fliade from inside their own deep networks, the
+    record's first storyline carried by a non-human cast. Two complete seasons, each told in
+    two strands.
   </p>
   <p class="thread-section__description">
     <strong>Where:</strong> two doors, each its own face, both in large type with a reading
@@ -114,7 +115,7 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
     adventure. The reader goes out into the record and finds things.
   </p>
   <p class="thread-section__description">
-    Adds <a href="/star-rangers/threads/orbital-five-o/">Orbital Five-O</a>, Season 4 —
+    Adds <a href="/star-rangers/threads/orbital-five-o/">Orbital Five-O</a>, Seasons 4 and 10 —
     the Governor's Investigative Task Force — and
     <a href="/star-rangers/threads/young-star-rangers/">Young Star Rangers</a>, Season 9 —
     Cadets and Deputies in their first field postings. The young-adult reader's proxy is a

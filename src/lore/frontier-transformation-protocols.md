@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Frontier Transformation Protocols"
+revealed_by: s12e02c01
 category: "Institutions"
 tags: [terraforming, transformation-protocols, safety, ai-safety-kernel, institutions, kernowek-reach, mars]
 description: "The safety doctrine governing when — and whether — a frontier world may be terraformed at all, and why every major Solar System polity ended up with its own version of the same answer: slowly, incompletely, and never on a Kernel-compliant system's say-so alone."

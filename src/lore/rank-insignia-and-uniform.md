@@ -1,6 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "Rank, Insignia, and the Ranger Uniform"
+revealed_by: s12e02c02
 category: "Institutions"
 tags: [star-rangers, rank, insignia, uniform, survey-corps, safety-corps, pilot-section, institutions, young-star-rangers]
 description: "How the Star Rangers mark rank and corps affiliation, and why their uniform was built to reject the Military Space Command's display culture from the first draft of the charter onward."

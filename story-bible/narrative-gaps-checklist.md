@@ -1,8 +1,8 @@
 # Narrative Gaps Checklist
 
-What's actually written versus what the story bible and site copy have committed to. **Re-derived from `src/seasons/` on 2026-10-03**, per this file's own standing instruction not to trust it once stale (the previous derivation, 2026-08-10, said 44 chapters; disk said 69). Open questions this raises are indexed in `open-questions.md`.
+What's actually written versus what the story bible and site copy have committed to. **Re-derived from `src/seasons/` on 2026-10-03**, per this file's own standing instruction not to trust it once stale (the previous derivation, 2026-08-10, said 44 chapters; disk said 69). **Re-counted from disk on 2026-10-06**: the opening line below had still said 69, twelve and seven while the table under it said 86, fourteen and eight, and disk said 93. Open questions this raises are indexed in `open-questions.md`.
 
-**69 chapter files exist across twelve seasons (0 to 11) and seven storyline threads.**
+**93 chapter files exist across fourteen seasons (0 to 13) and eight storyline threads** (counted 2026-10-06: Season 0 six, 1 eighteen, 2 fifteen, 3 five, 4 two, 5 five, 6 four, 7 three, 8 two, 9 five, 10 seven, 11 eight, 12 nine, 13 four).
 
 ---
 
@@ -12,7 +12,7 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **86 chapters, fourteen seasons, eight threads** |
+| 44 chapters, nine seasons, five threads | **93 chapters, fourteen seasons, eight threads** (86 on 3 October; 93 by the 6 October count) |
 | **Orbital Five-O** — "a thread on one chapter" | **Nine chapters** across Seasons 4 and 10 (*What It Did Not Say*, *Docked Twice*; Season 10's seven) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
@@ -30,7 +30,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | Thread | Seasons | Chapters | State |
 |---|---|---|---|
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
-| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 33 | The spine. Ends written; middle thin (S3 four chapters, its Episode 2 opened 4 October 2026); S5 gained its E00 the same day |
+| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 35 | The spine. Ends written; middle thin (S3 four chapters, its Episode 2 opened 4 October 2026); S5 gained its E00 the same day |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
 | **Orbital Five-O** | 4, 10 | 9 | Season 4 two chapters, its E00 the Shepherd guest (4 October 2026); Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
