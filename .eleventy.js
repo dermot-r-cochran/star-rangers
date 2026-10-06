@@ -218,11 +218,12 @@ module.exports = function(eleventyConfig) {
   // segment written out by hand for GitHub Pages' /star-rangers/
   // project-site subpath to resolve at all). Forking this repo under a
   // different name/host means setting SITE_PATH_PREFIX once instead of
-  // hand-editing every file it appears in. Unset (this project's own
-  // local/CI/GitHub Pages builds never set it) leaves output byte-for-byte
-  // unchanged, and cPanel builds don't need it either -
-  // scripts/cpanel-deploy.sh already strips this same prefix with its own
-  // post-build sed step, independently of this.
+  // hand-editing every file it appears in. Unset (local and CI builds)
+  // leaves output byte-for-byte unchanged; the GitHub Pages workflow sets
+  // it to "/" since 2026-10-06, when fianilchruinne.com became the Pages
+  // custom domain and that build moved to the root; and cPanel builds don't
+  // need it either - scripts/cpanel-deploy.sh already strips this same
+  // prefix with its own post-build sed step, independently of this.
   const sitePathPrefix = process.env.SITE_PATH_PREFIX;
   if (sitePathPrefix && sitePathPrefix !== "/star-rangers/") {
     eleventyConfig.addTransform("rewriteSitePathPrefix", function (content, outputPath) {
@@ -237,7 +238,13 @@ module.exports = function(eleventyConfig) {
         // https://dermot-r-cochran.github.io/ on every cPanel domain. The
         // character before /star-rangers/ in an absolute url belongs to the
         // host; anchoring on the delimiter is what tells the two apart.
-        return content.replace(/(["'(])\/star-rangers\//g, `$1${sitePathPrefix}`);
+        // `url=` is the one other delimiter a root-relative path follows: the
+        // meta-refresh stubs in src/chapter-aliases.njk and src/version-latest.njk
+        // write `content="0; url=/star-rangers/..."`, unquoted. On cPanel the
+        // .htaccess RedirectMatch forwards the /star-rangers/ namespace anyway,
+        // so the sed step never needed it; a root-served Pages build has no
+        // .htaccess, and without this the stubs would land on a 404.
+        return content.replace(/(["'(]|url=)\/star-rangers\//g, `$1${sitePathPrefix}`);
       }
       return content;
     });
