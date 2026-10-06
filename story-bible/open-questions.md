@@ -2808,6 +2808,6 @@ clan's own affair; (iii) both barred from the floor, which reads against the
 weak centre. Beside it, the same intake's four readings on the draft: the
 Aethelrock head-of-government style (drafted as attaching to the Ridgemoot
 seat-holder for Union purposes), which worlds say *Taoiseach* and which
-*Príomh-Aire*, seats per world (drafted equal, number open), which worlds seat
+*Príomh-Aire*, seats per world (closed the same evening by his cube-root rule: derived from the electorate, not chosen; the one remaining reading is how a Union chamber with no lower house takes a third, drafted as a third of the cube root of the Union's whole electorate), which worlds seat
 their own assemblies by the draw (marked absence), and stratifying the draw by
 clan (drafted where a registry records clans).

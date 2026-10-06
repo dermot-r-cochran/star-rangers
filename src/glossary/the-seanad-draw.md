@@ -16,7 +16,7 @@ tags: [celtic-union, seanad, governance, institutions, clans]
 
 ## The method
 
-Each of the six charter worlds returns the same number of senators, whatever its population, and seats them by the same two steps.
+Each of the six charter worlds returns the same number of senators, whatever its population, and seats them by the same two steps. The number is the charter's arithmetic rather than anyone's choice: a Union chamber is sized at a third of the cube root of the Union's whole electorate, and the bench is divided equally among the six. The same arithmetic, carried out of the arks, sizes the worlds' own institutions: a lower house of as many seats as the cube root of the world's electors, an upper house of about a third of that where a world keeps one, and an executive council of about a quarter of the upper house again, deputies not counted. The record does not give the worlds' electorates, so it does not give the numbers; a world's own registry does.
 
 **The lot.** Before each seating a world draws, from the registry of its citizens of age, the names that will stand. The draw is weighted so that the drawn names carry the world's people in proportion: by age, by sex, by district, and on a world whose registry records clans, by clan. A name drawn may refuse, and the draw continues until the proportions hold. A name that accepts is paid for the season of the candidacy and for the term if elected, and the place it leaves, a croft, a post, a course of study, is held.
 
