@@ -166,6 +166,15 @@ the real world in the first and read against the Archipelago's governance in
 the second. Neither implements it. A decision changed in one copy is changed
 in the other, and each repository's `CLAUDE.md` says so.
 
+And data crosses one way between two others (same day): `swarm`'s
+`examples/archipelago_first_fork.py` reads a published export from a
+`virtual-anthropology` checkout (`dataset.json`, `governance_events.json`)
+and synthesises the simulated citizens' positions with `episteme/population.py`,
+the module that implements the design note's AI-mediation section (ADR-0004
+there: cited structure, OPINION claims, no beliefs, no generated
+interpretation). A test in `swarm` pins the export's shape; nothing is
+written back and no code is shared.
+
 Three resemblances that are not relationships: `foundation-model`'s
 expertise-weighted voting and the `Voting` crate share a word and nothing
 else; `visual-llm` is built for very large photo sets but reads nothing
