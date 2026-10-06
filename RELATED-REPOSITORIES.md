@@ -154,9 +154,11 @@ reference for how a thing is done here:
   in the change that adds the tests that earn it and never lowered: `swarm`,
   `careful-memory`, `world-model`, `foundation-model`, `shadow-architect`,
   `visual-llm`.
-- Five keep **architecture decision records with a guard test each**, so a
-  breached decision fails CI rather than drifting: `swarm`, `careful-memory`,
-  `world-model`, `shadow-architect`, the ADM.
+- Five keep **architecture decision records**: `swarm`, `careful-memory`,
+  `world-model`, `shadow-architect`, the ADM. `swarm` guards three of its
+  four with a named test, so a breached decision fails CI rather than
+  drifting; `shadow-architect` guards one, and the others say in their own
+  `CLAUDE.md` how far tests reach their decisions.
 
 One document crosses between two of them (added 6 October 2026):
 `Voting`'s `docs/lot-then-vote.md` and `virtual-anthropology`'s
