@@ -2805,9 +2805,10 @@ absence in the record's voice and asserts nothing. Three shapes put in the
 intake: (i) neither exists in law and both in fact, unrecognised like the
 titles (lean); (ii) inter-clan associations registered, intra-clan factions a
 clan's own affair; (iii) both barred from the floor, which reads against the
-weak centre. Beside it, the same intake's four readings on the draft: the
-Aethelrock head-of-government style (drafted as attaching to the Ridgemoot
-seat-holder for Union purposes), which worlds say *Taoiseach* and which
+weak centre. Beside it, the same intake's readings on the draft: the
+Aethelrock head-of-government style (RULED the same evening, *Ridgemoot
+seat-holder*: the style attaches for Union purposes to the clan head holding
+the Union seat; nothing on Aethelrock changes), which worlds say *Taoiseach* and which
 *Príomh-Aire*, seats per world (closed the same evening by his cube-root rule: derived from the electorate, not chosen; the one remaining reading is how a Union chamber with no lower house takes a third, drafted as a third of the cube root of the Union's whole electorate), which worlds seat
 their own assemblies by the draw (marked absence), and stratifying the draw by
 clan (drafted where a registry records clans).
