@@ -2796,3 +2796,18 @@ front-matter anchor and the posture-dependent placement, D not taken, E
 drafted as `src/lore/the-archive.md`. Realized as `lib/archive-companions.js`
 and the *From the Archive* aside on every chapter; seventeen chapters carry
 the first `related:` lists. Nothing open.
+
+## Inter-clan parties and intra-clan factions in the Seanad — `intake-2026-10-06.md` — OPEN, his
+
+Dermot's direction, verbatim *status of inter-clan parties of intra-clan
+factions to be determined*. The glossary entry *The Seanad Draw* marks the
+absence in the record's voice and asserts nothing. Three shapes put in the
+intake: (i) neither exists in law and both in fact, unrecognised like the
+titles (lean); (ii) inter-clan associations registered, intra-clan factions a
+clan's own affair; (iii) both barred from the floor, which reads against the
+weak centre. Beside it, the same intake's four readings on the draft: the
+Aethelrock head-of-government style (drafted as attaching to the Ridgemoot
+seat-holder for Union purposes), which worlds say *Taoiseach* and which
+*Príomh-Aire*, seats per world (drafted equal, number open), which worlds seat
+their own assemblies by the draw (marked absence), and stratifying the draw by
+clan (drafted where a registry records clans).
