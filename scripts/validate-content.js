@@ -123,6 +123,26 @@ function checkChapterConsistency(inputPath, data, relativePath) {
       if (pov && pov.tier !== undefined && !TIER_ORDER.includes(String(pov.tier))) {
         problems.push(`povs[${index}] names tier "${pov.tier}", which is not one of ${TIER_ORDER.join(", ")}`);
       }
+      // The label convention (2026-10-07, Dermot's choice among three shapes
+      // after the 85 distinct labels were found carrying four kinds of thing
+      // in four orders): `<rank as held in this chapter> <name> (<frame>[, <one
+      // qualifier>])` - the frame first (species, with the augmentation the
+      // record marks: Smart Pet, Cyber-Enhanced, plural, unaugmented), then at
+      // most one qualifier the chapter needs, commas only, nothing after the
+      // name outside the bracket. A warning rather than a failure: the label
+      // is presentation, not canon, and a chapter with a bare name still
+      // builds; what the warning catches is the drift that put "Human - the
+      // eldest survivor" and "Órla Shepherd, as remembered (Human)" beside
+      // "Human, the eldest survivor" and "(Human, as remembered)".
+      if (pov && !isBlank(pov.label)) {
+        const label = String(pov.label);
+        const bracket = label.match(/^(.*\S)\s+\(([^()]+)\)$/);
+        if (!bracket) {
+          console.warn(`WARN: ${relativePath}: povs[${index}] label "${label}" has no bracket - the convention is "<rank> <name> (<frame>[, <qualifier>])"`);
+        } else if (/[—–;]/.test(bracket[2]) || /,\s*(as remembered|[A-Z])/.test(bracket[1])) {
+          console.warn(`WARN: ${relativePath}: povs[${index}] label "${label}" - the bracket takes commas only, and anything after the name goes inside it`);
+        }
+      }
     });
 
     if (data.povs.length < 2 && !GRANDFATHERED_SINGLE_POV_CHAPTERS.has(relativePath)) {
