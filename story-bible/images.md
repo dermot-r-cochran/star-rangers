@@ -3026,7 +3026,8 @@ nested-sphere diagrams.
 
 - **`cross-biosphere-taxonomy.jpg`** — *frames, which describe structure and claim no ancestry, and lineages, which claim ancestry and never leave one world.*
   > A long bare bench holding four articulated skeletons of clearly unrelated origin laid side by side, each built on a broadly similar plan and each unmistakably not a variation of the others. Nothing else on the bench — no card, no label, no plaque, no case and no mount plate. Cool even daylight. Rigorous and slightly uncanny. Bone white, grey bench.
-  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: no human skeleton; 2 sat one on a bench like a prop.
+  - **Delivered 7 October 2026 and withdrawn the same evening**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: no human skeleton; 2 sat one on a bench like a prop.
+  - **Withdrawn, 7 October 2026** (Dermot, verbatim: *"Aliens would not have skeletons like terrestrial veterbrates."*): the five skeletons were a cat, a monkey, a bird and a lizard, every one a terrestrial vertebrate, so the picture asserted the kinship the page exists to refuse. File removed, page bare. Re-prompt as frames that share no plan: a lattice, a segmented hydrostat, a radial body, nothing with a spine, and nothing that a museum would shelve beside a cat.
 
 - **`frontier-transformation-protocols.jpg`** — *slowly, incompletely, and never on a Kernel-compliant system's say-so alone.*
   > A wide view across a frontier world's untouched valley at dawn — native vegetation, standing water, bare rock — with a single small survey stake driven at the near edge of the frame and nothing else built anywhere in sight. Enormous, intact, and observed rather than begun. Cold clear light, long shadows. Ochre, grey-green, pale sky.
@@ -3196,7 +3197,8 @@ nested-sphere diagrams.
   - **Extra negative:** creature, monster, teeth, claws, blood, gore, corpse, horror, body, violence, glowing eyes, shadow figure.
   - **Superseded — use Open work 6's brief instead, 19 August.** That section already carried a prompt for this file and it is the better one: *a vacated habitat compartment, one chair turned away from the open door, a personal effect left exactly where someone set it down.* Same discipline, held indoors and in-setting, where the clearing above is neither. The frame above is kept only as a second option if the interior refuses to read.
   - **Hint at the dark fact rather than depicting it**, exactly as the tone line requires. Nothing in frame is frightening; what is frightening is what the frame implies, and that is the setting's whole register.
-  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: colder light; 1 was warmer than the page.
+  - **Delivered 7 October 2026 and withdrawn the same evening**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: colder light; 1 was warmer than the page.
+  - **Withdrawn, 7 October 2026** (Dermot, verbatim: *"Predatory entities do not literally eat people as that image implied."*): boots and a folded blanket beside a ring in the grass read as a body taken, and the page's entities feed on nothing of the kind. The file is removed and the page is bare again. Re-prompt from the page's own feeding method, with nothing in frame that a predator of bodies would leave; the empty-compartment brief in Open work 6 is the better start.
 
 #### Timeline Notes (1)
 
