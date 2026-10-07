@@ -4,6 +4,8 @@ title: "The Ilveth (Warm-Eyed)"
 category: "Species"
 tags: [ilveth, warm-eyed, species, sardain, thermal-vision, cold-world, night-vision, heat-thrift, non-humanoid]
 description: "The Ilveth of Sardain: a cold-bodied people who see warmth the way others see light, on a world where heat is the only wealth — and to whom every warm-blooded visitor is a lantern that cannot be put out."
+image: "ilveth.jpg"
+image_alt: "A long low non-human being on a plain of grey ancient ice under a dim sun, segmented and carried close to the ground on many short limbs, its forward third rising into a smooth hooded crown with no face, broad vanes lying folded along its flank, half turned toward the camera"
 plain: "The Ilveth come from Sardain, a very cold, dark planet. Their bodies are cold, and their eyes sense heat instead of light, so they can see living things in total darkness. Warm-blooded visitors like humans look to them like bright lamps. Heat is precious on their world, so they spend it carefully — they even talk to each other by warming patterns on their skin, which costs real effort, so nothing is said idly."
 ---
 

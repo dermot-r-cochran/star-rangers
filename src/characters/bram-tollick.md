@@ -9,6 +9,8 @@ aliases:
   - "the keeper's boy (court shorthand)"
 tags: [human, five-islands, watch-post, krilzat, the-castle, young-adult]
 description: "Fourteen, the son of the keeper of the Casimor watch-post, which holds the Sergeant tier on service rather than blood and is honoured above nearly every other commoner rank for it; he has kept the Castle's one door since he could reach the bar, and has watched the Castle's people go by at their hours all his life without a name for any of them."
+image: "bram-tollick.jpg"
+image_alt: "A boy of about fourteen in a plain grey wool tunic and leather belt, both hands on a heavy timber bar across a stone doorway in an old keep, looking away along a dark empty hall, grey daylight on his face"
 ---
 
 Bram Tollick keeps a door. The [Casimor watch-post](/star-rangers/lore/planets/kingdom-of-the-five-islands/) on Krilzat is the one hereditary command in the Kingdom that still means something on the ground, held on service rather than blood and filled the way the Sergeant tier has always been filled, and the service it holds is the Castle: the old keep inside the watch's own stone, with one door, which the watch has kept since before the Kingdom's count of monarchs begins. Bram is the keeper's son and has had the bar of that door in his hands since he could reach it.

@@ -9,6 +9,8 @@ aliases:
   - "the new novice at the practice desk (delegation notes)"
 tags: [human, five-islands, tideward-sisterhood, novice, first-contact, young-adult]
 description: "A reeve's daughter from Difenland who entered the Tideward Sisterhood at sixteen and sat down on her first morning to learn the hand the Long Accounting has been written in since before anyone can say. Known to the record because the survey's junior xenolinguist, working the next shelf, wrote down the question she asked and the answer she was given."
+image: "oriel-fenwick.jpg"
+image_alt: "A girl of about sixteen in a grey habit and close white undercap, bent over a sloped copying desk in a stone scriptorium with a pen in her hand, an exemplar propped before her, the marks on both sheets too faint to read, daylight from a tall window"
 ---
 
 Oriel Fenwick is in the record because [Emma la Chapelle](/star-rangers/characters/emma-la-chapelle/) writes down what she is told, and on the novice's first day in the scriptorium the novice asked her something and la Chapelle wrote it down. Everything else here is what a delegation linguist working three days a week on the Abbeylands could observe of a novice at the next desk, and the Archive keeps it at that distance on purpose.

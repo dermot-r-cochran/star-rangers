@@ -4,6 +4,8 @@ title: "The Honest Dark"
 category: "Physics"
 tags: [night-sky, moons, stars, physics, planets, astronomy, calendars, dark-sky]
 description: "Night skies on habitable worlds: dark by default on every settled world because the technology does not shine, lit by whatever each sky honestly holds — moons, rings, three suns, a debris band, or the galaxy everyone else lives in."
+image: "the-honest-dark.jpg"
+image_alt: "A cluster of low dark unlit buildings in a snowbound valley at night under a single low bright moon, mountains around, and a sky of sharp stars crossed by a scatter of faint parallel streaks"
 ---
 
 Every settled world in the record keeps its night sky, and none of them legislated for it. [Technology that does not announce itself](/star-rangers/lore/what-the-record-refuses/) does not wash out the dark: a civilisation of matte displays and grey-box power plants throws almost no light upward, so the sky over a settlement looks much as it did before the settlement came. Dark skies are not a heritage protection here. They are what the infrastructure fails to ruin by default — and the consequence, easy to miss for being everywhere, is that **every settlement in the record can still see where it is.**

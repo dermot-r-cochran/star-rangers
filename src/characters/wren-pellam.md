@@ -9,6 +9,8 @@ aliases:
   - "Pellam's girl (court shorthand)"
 tags: [human, five-islands, old-houses, krilzat, the-castle, young-adult]
 description: "The youngest of Knight Pellam's house, fifteen, sent across the water to Krilzat to learn the court's chronicle of descent in the rooms where it is kept, as every Old House sends its youngest; the first keeper-in-training of the Castle the record has from inside."
+image: "wren-pellam.jpg"
+image_alt: "A girl of about fifteen in a plain dark grey wool dress with a high neck, hair tied back, standing in a worn stone hall looking down its unlit length away from the camera, a folded cloth in her hands, a faint pale light on her face from down the hall"
 ---
 
 Wren is the youngest of a Knight's house, the floor of the [Kingdom's](/star-rangers/lore/planets/kingdom-of-the-five-islands/) hereditary ladder, which presides and administers nothing and still sends its youngest to the Castle in every generation to learn the chronicle. That is the custom the record has her for: the court's record of descent and deed is kept by being recited, and it is learned in the Castle's rooms and about them, and a house that cannot put a reciter under the Elder Grove at the next coronation is a house that has let its part of the record lapse. Pellam has never let it lapse. Wren is fifteen and is the one sent.

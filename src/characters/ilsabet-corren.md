@@ -7,6 +7,8 @@ role: "Fellow in Comparative Records, the Institute"
 status: Active
 tags: [the-institute, survey-archive, records, governance, concord, threshold-station, comparative-records]
 description: "The Institute fellow who reads institutions' records as instrument logs — and the author of the Amendment Atlas proposal, the once-a-generation idea that finally arrived carrying a scope. Her working rule is printed on everything she drafts: the record's line, not the people's."
+image: "ilsabet-corren.jpg"
+image_alt: "A woman in a dark jumper and long grey coat at a tall shelf of old bound registers in a reading room, one finger on an open register on a stand, her eyes on the next spine along"
 known_codex:
   - the-amendment-atlas
   - the-verification-doctrine
