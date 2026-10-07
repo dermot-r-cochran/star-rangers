@@ -12,7 +12,7 @@ Against the 2026-08-10 list:
 
 | It said | Disk says |
 |---|---|
-| 44 chapters, nine seasons, five threads | **93 chapters, fourteen seasons, eight threads** (86 on 3 October; 93 by the 6 October count) |
+| 44 chapters, nine seasons, five threads | **94 chapters, fourteen seasons, eight threads** (86 on 3 October; 93 by the 6 October count; 94 on 7 October with S01E01C04) |
 | **Orbital Five-O** — "a thread on one chapter" | **Nine chapters** across Seasons 4 and 10 (*What It Did Not Say*, *Docked Twice*; Season 10's seven) |
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
@@ -30,7 +30,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | Thread | Seasons | Chapters | State |
 |---|---|---|---|
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
-| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 35 | The spine. Ends written; middle thin (S3 four chapters, its Episode 2 opened 4 October 2026); S5 gained its E00 the same day |
+| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 36 | The spine. Ends written; middle thin (S3 four chapters, its Episode 2 opened 4 October 2026); S5 gained its E00 the same day; S1 gained her first viewpoint 7 October 2026 (*Station Time*, S01E01C04) — until then no Season 1 chapter named her |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
 | **Orbital Five-O** | 4, 10 | 9 | Season 4 two chapters, its E00 the Shepherd guest (4 October 2026); Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
