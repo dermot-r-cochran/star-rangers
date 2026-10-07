@@ -350,6 +350,72 @@ function checkFrontMatterImageUrlResolves(data, relativePath, index) {
   ];
 }
 
+// A character's gallery and season keys. Added 2026-10-07 with the season
+// pages' portrait strip (lib/season-portraits.js). Three things a page can
+// get wrong that nothing else sees:
+//
+//   1. A gallery item's `image` names no file under src/images/characters/<id>/.
+//      character.njk hardcodes that directory, so a frame filed one level up
+//      passes the orphan check (the file IS referenced) and 404s on the page -
+//      the drithane.jpg failure, for galleries.
+//   2. `image_season` or an item's `season` is not a whole number, so the
+//      strip's number comparison never matches and the frame silently never
+//      surfaces on any season page.
+//   3. The key names a season with no index page (src/seasons/sNN/index.md),
+//      so there is no page for the frame to surface on. A typo'd 15 for 5
+//      would otherwise look exactly like a frame nobody had keyed.
+const SEASONS_DIR = path.join(SRC_DIR, "seasons");
+function existingSeasonNumbers() {
+  if (!fs.existsSync(SEASONS_DIR)) return new Set();
+  return new Set(
+    fs.readdirSync(SEASONS_DIR, { withFileTypes: true })
+      .filter((d) => d.isDirectory() && /^s\d{2}$/.test(d.name) && fs.existsSync(path.join(SEASONS_DIR, d.name, "index.md")))
+      .map((d) => Number(d.name.slice(1)))
+  );
+}
+
+function seasonKeyProblem(value, label, seasons) {
+  if (isBlank(value)) return null;
+  const n = Number(value);
+  if (!Number.isInteger(n) || n < 0) {
+    return `${label} "${value}" is not a whole season number - the season pages compare it as a number, so this frame would surface nowhere`;
+  }
+  if (!seasons.has(n)) {
+    return `${label} ${n} names no season page (no src/seasons/s${String(n).padStart(2, "0")}/index.md), so there is nowhere for the frame to surface`;
+  }
+  return null;
+}
+
+function checkCharacterGallery(data, index, seasons) {
+  const problems = [];
+  const headerProblem = seasonKeyProblem(data.image_season, "image_season", seasons);
+  if (headerProblem) problems.push(headerProblem);
+  if (!isBlank(data.image_season) && isBlank(data.image)) {
+    problems.push("image_season is set but the page has no image: to key");
+  }
+  if (data.gallery === undefined || data.gallery === null) return problems;
+  if (!Array.isArray(data.gallery)) return problems.concat("gallery must be a list of {image, caption?, image_alt?, season?} items");
+  data.gallery.forEach((item, i) => {
+    const where = `gallery[${i}]`;
+    if (!item || typeof item !== "object" || isBlank(item.image)) {
+      problems.push(`${where} has no image`);
+      return;
+    }
+    const rel = `characters/${data.id}/${String(item.image).replace(/^\/+/, "")}`;
+    if (!index.byRelPath.has(rel)) {
+      const elsewhere = index.byBasename.get(path.basename(String(item.image)).replace(/\.[^.]+$/, "")) || [];
+      problems.push(
+        `${where} image "${item.image}" resolves to /star-rangers/images/${rel}, which does not exist` +
+        (elsewhere.length ? ` - the file is at src/images/${elsewhere.join(", src/images/")}` : "") +
+        ". character.njk supplies images/characters/<id>/, so the value is the file name below it."
+      );
+    }
+    const seasonProblem = seasonKeyProblem(item.season, `${where} season`, seasons);
+    if (seasonProblem) problems.push(seasonProblem);
+  });
+  return problems;
+}
+
 // Every edition's hero cast has to be able to RENDER on that edition. Four
 // ways it silently cannot, the first three found live on 2026-08-21:
 //
@@ -620,6 +686,7 @@ function main() {
   const chainCurrent = new Map();
   const imageFiles = findImageFiles(IMAGES_DIR);
   const imageIndex = indexImages(imageFiles);
+  const seasonNumbers = existingSeasonNumbers();
   // Collected on the way past, for the hero-cast check below.
   const characterPages = [];
 
@@ -640,6 +707,7 @@ function main() {
     if (isChapter) problems.push(...checkChapterConsistency(filePath, data, relativePath));
     if (schema === CONTENT_TYPES.character) {
       problems.push(...checkKnownCodex(data, codexSlugs));
+      problems.push(...checkCharacterGallery(data, imageIndex, seasonNumbers));
       const statusProblem = characterStatusProblem(data.status);
       if (statusProblem) problems.push(statusProblem);
       characterPages.push({ data, relativePath });

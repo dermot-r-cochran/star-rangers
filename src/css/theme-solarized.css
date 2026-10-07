@@ -1854,6 +1854,65 @@ a:focus {
   border-radius: var(--radius-lg);
   border: 1px solid var(--color-border);
 }
+/* Portraits from this season: the strip a season index page shows for every
+   character frame keyed to it (src/_includes/season-portraits.njk,
+   lib/season-portraits.js, 2026-10-07). The frames are the 16:9 portraits the
+   character galleries file, so the ratio matches .character-gallery__figure;
+   the strip sits between the season's intro and its chapter list, and reads
+   as a small cast line rather than a gallery - a name and a standing under
+   each frame, nothing else. */
+.season-portraits {
+  margin: var(--spacing-xl) 0;
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--color-border);
+}
+.season-portraits__title {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin-bottom: var(--spacing-md);
+}
+.season-portraits__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--spacing-md);
+}
+.season-portraits__item {
+  margin: 0;
+}
+.season-portraits__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+.season-portraits__image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+}
+.season-portraits__name {
+  display: block;
+  margin-top: var(--spacing-xs);
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  color: var(--color-accent);
+}
+.season-portraits__link:hover .season-portraits__name,
+.season-portraits__link:focus-visible .season-portraits__name {
+  text-decoration: underline;
+}
+.season-portraits__caption {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
 .character-known-codex {
   margin-top: var(--spacing-xl);
   padding: var(--spacing-md);

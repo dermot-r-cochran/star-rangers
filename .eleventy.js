@@ -4,6 +4,7 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const { createMarkdownRenderer, povTierVisible } = require("./lib/markdown-containers");
 const { imageSize } = require("./lib/image-size");
 const { isPlaceholderImage } = require("./lib/placeholder-marker");
+const { seasonPortraits } = require("./lib/season-portraits");
 const {
   getContentFilter,
   isCharacterIncluded,
@@ -513,6 +514,18 @@ module.exports = function(eleventyConfig) {
       p && p.data && !isBlankValue(p.data.image) &&
       !isPlaceholderImage(path.join(__dirname, "src", "images", "characters", String(p.data.image)))
     )
+  );
+
+  // The character portraits a season page shows (src/_includes/season-portraits.njk),
+  // keyed on the character by `image_season` / a gallery item's `season` -
+  // rules and the reason they are authored rather than derived in
+  // lib/season-portraits.js. Takes `collections.characters`, so the strip
+  // narrows with the edition like every other listing, and drops PLACEHOLDER
+  // cards the way withImages does above.
+  eleventyConfig.addFilter("seasonPortraits", (characters, seasonNumber) =>
+    seasonPortraits(characters, seasonNumber, {
+      isPlaceholder: (rel) => isPlaceholderImage(path.join(__dirname, "src", "images", "characters", rel))
+    })
   );
 
   // Same resolve-by-id pattern as charactersByIds, but codex entries have no
