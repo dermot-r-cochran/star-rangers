@@ -2,7 +2,7 @@
 layout: character.njk
 title: "Elvira"
 id: elvira
-species: Unclassified
+species: Person, kind not established
 role: Boundary Practitioner, Outpost Keeper
 status: Active
 aliases:
