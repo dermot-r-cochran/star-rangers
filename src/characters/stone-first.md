@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [alien, pandoid, fliade, below-the-roof, cavern-biosphere, star-rangers]
 description: "An adult of the people below Fliade's roof, called Stone-First for always moving a stone before entering a place, who keeps the margin where the deep begins — being there on all the times when nothing happens, so as to be there on the time when something does."
+image: "stone-first.jpg"
+image_alt: "A large grey-furred being built like a very large soft toy bear, seen from behind and to one side at the lip where a cavern floor shelves down into dark, lit only by amber and blue fungi on the rock, a fist-sized stone newly set down on the silt a stride ahead of it, its head turned toward the dark below"
 ---
 
 The name is a telling. Among the people of the deep networks a person is called by the first thing said of them that others went on repeating, and what was said of this one, long enough ago that nobody now tells it firsthand, is that they move a stone first — every time, into every place, so that the ground announces them before they are seen. It is the people's manners for entering, and Stone-First is the one who kept them when others were careless, which is how a habit becomes a name. The name is rendered here in translation, as the record renders every word of a people whose own words it does not hold; the people's word for it is theirs.
