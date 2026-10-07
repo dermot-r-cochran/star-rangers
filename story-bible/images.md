@@ -3993,6 +3993,48 @@ reference, and Toval takes Syra's.
   - **Already turned.** The name is a way of being; the portrait catches it mid-act.
   - **Delivered 7 October 2026**, variation 2 of 2 of the second roll (`gemini-3.1-flash-image`, 2K, Teddy's portrait sent as the reference), through `import-image.ps1` at finish strength 1, after Dermot's *cute giant teddy bears* ruling: no clothing and already turned; 1 wore a harness.
 
+### 9. Missing portraits — Tissadelle's second frames (queued 7 October 2026)
+
+Dermot's direction, verbatim: *"Add a second Season 1 frame and a second
+Season 5 frame"*, taking up the line left open on 5 September (each season may
+have *two or more* portraits; *no brief needed — same prompts, different
+moment — but not run until asked*). Queued here for the desktop, since
+generation needs the Gemini key; issue #1013 (`needs-desktop`) names this
+section. Both **16:9 landscape** at 1200×675, filed under
+`src/images/characters/tissadelle/` beside `season-1-cadet.jpg`, through
+`import-image.ps1 -MaxEdge 1200` with the finish at strength 1. The published
+header and the cadet frame go as the two references, for her face only. The
+28 July guardrails, the modesty bar and the standing negative are inside each
+blockquote. The uniform and rank marks are the 5 September prompts of record
+(`image-prompts.md`, *2026-09-05*): Season 1 a single bar with the slate-blue
+insert and no ribbons, Season 5 three concentric rings with the ribbon row,
+the plain diamond patch on both.
+
+**The moments.** Different from the two filed frames, which are both a
+sealed compartment with a hand on a housing. Season 1 is the posting itself:
+the season page's own line (*Cadet Tissadelle Shepherd's first posting*) and
+Dock Seven, where Season 1 opens — no chapter puts her on the page in Season
+1, so the frame asserts no scene, only the posting. Season 5 is the Halyx
+corridor (*Refusal to Certify*, S05E01C01): she asked what the corridor
+sounded like and then asked to be taught, so the frame is a Line Captain's
+hand flat on the frame at the seam, listening. Qiren Tal stays out of frame,
+since the Veyr body has no filed picture and is not asserted here.
+
+**At filing**, the gallery items on `src/characters/tissadelle-shepherd.md`
+take `season: 1` / `season: 5` and these captions, with alts written from the
+files: *Season 1 — Cadet, first posting* and *Season 5 — Line Captain, Halyx
+Relay*. The season pages pick them up with nothing else to do.
+
+- **`tissadelle/season-1-first-posting.jpg`** — her first posting: a cadet newly arrived on Dock Seven of Threshold Station, kit at her feet, looking along the dock.
+  References: `src/images/characters/tissadelle-shepherd.jpg`, `src/images/characters/tissadelle/season-1-cadet.jpg`
+  > Cinematic candid portrait, 16:9 landscape, the face in the upper third of the frame, attention off-frame, at work, never posed to camera, dressed for the work and the place, modest, nothing that invites the viewer. A woman in her early twenties with long red hair tied back for work and blue-green eyes, the same face as the reference images, standing on the deck of a wide, quiet docking hall inside a boundary-survey station eight centuries from now, newly arrived: a single plain soft field kit bag on the deck at her feet, one hand holding its strap, her face turned to look along the length of the dock away from the camera, taking the place in, upright, self-possessed, alert rather than eager. She wears the standard field uniform of an interstellar rescue and survey service: a modular matte shell in dark slate-grey over a close-fitting thermal liner, sealed seams, a plain stand collar, utilitarian and unornamented, sized to her rather than tailored. Absolutely no chevrons, no stripes, no wings, no stars, no eagles, no arrowheads, no crests, no emblems, no badges of any other kind, no name tape, no name badge, no printed words, no letters and no numerals anywhere on her clothing. No braid, no epaulettes, no belts, no buckles, no piping, no cape, no armour plates, no flags. Nothing on the uniform glows. The chest carries exactly two things and nothing else: one small rectangular hard-edged metal tab, plain matte finish, seated proud of the chest, marked only with a single plain horizontal bar carrying a narrow slate-blue insert; and beside it one small plain fabric patch that is a single flat diamond shape with nothing drawn on it. Nothing below them: no ribbons and no decorations of any kind, because she is newly qualified. The dock is clean, plain and very large: flat matte wall and deck panels, sealed plain housings with flat fronts and honest seams, one wide sealed dock door closed at the far end, soft diffuse light from concealed recessed sources, a faint cool haze in the far distance of the hall and nothing shown through any opening. Unglamorous available light; visible skin texture; no beauty retouching, no styled hair, no makeup emphasis. Nothing in the image invites the viewer; she is at work. Muted realistic palette. No other people in frame. Use the reference images only for her face, hair colour and eye colour; do not copy their clothing, insignia, setting or lighting. Negative: readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame; holograms, projected light, glowing displays, screens, monitors, consoles, dials, gauges, meters, knobs, toggles, tube screens, exposed cables, tablets, laptops; visible lamp, light fitting or bulb; flat studio backdrop, gradient background, glamour lighting, corporate headshot, posed smiling to camera; weapons. coveralls, boiler suit, backpack with straps and buckles, wheeled suitcase, airport, hangar with aircraft, spaceship visible, crowd, planet through a window, stars through a window, neon, smile to camera.
+  - **Two marks, nothing below.** The 5 September run put a ribbon row on a cadet twice; it is negated by name here.
+
+- **`tissadelle/season-5-halyx-corridor.jpg`** — Halyx Relay Station's outer-ring transit corridor, 2831: a Line Captain's hand flat on the frame at the seam, listening for what the monitors could not sample.
+  References: `src/images/characters/tissadelle-shepherd.jpg`, `src/images/characters/tissadelle/season-1-cadet.jpg`
+  > Cinematic candid portrait, 16:9 landscape, the face in the upper third of the frame, attention off-frame, at work, never posed to camera, dressed for the work and the place, modest, nothing that invites the viewer. A woman in her early thirties with long red hair tied back for work and blue-green eyes, the same face as the reference images, crouched on one knee at the structural frame of a long curved transit corridor inside a relay station eight centuries from now, the flat of one bare hand pressed to a plain seam in the frame where two matte structural sections meet, her head inclined a little toward the hand as if listening to the metal, her eyes down the length of the corridor and not on the camera, patient and entirely attentive. She wears the standard field uniform of an interstellar rescue and survey service: a modular matte shell in dark slate-grey over a close-fitting thermal liner, sealed seams, a plain stand collar, utilitarian and unornamented, sized to her rather than tailored. Absolutely no chevrons, no stripes, no wings, no stars, no eagles, no arrowheads, no crests, no emblems, no badges of any other kind, no name tape, no name badge, no printed words, no letters and no numerals anywhere on her clothing. No braid, no epaulettes, no belts, no buckles, no piping, no cape, no armour plates, no flags. Nothing on the uniform glows. The chest carries exactly three things and nothing else: one small square hard-edged metal tab, plain matte finish, seated proud of the chest, engraved only with three thin concentric circles like a target with no centre dot; beside it one small plain fabric patch that is a single flat diamond shape with nothing drawn on it; and below them a single short row of small dull-coloured service ribbons. The corridor is wide, long and empty, curving gently away, its walls and floor flat matte structural panels in muted grey with honest seams and sealed plain housings at intervals, at most one small unlit indicator on any of them, soft even light from concealed recessed sources, nothing shown through any opening. A small plain sealed instrument case stands closed on the floor beside her and nothing is attached to it. Unglamorous available light; visible skin texture; no beauty retouching, no styled hair, no makeup emphasis. Nothing in the image invites the viewer; she is at work. Muted realistic palette. No other people in frame. Use the reference images only for her face, hair colour and eye colour; do not copy their clothing, insignia, setting or lighting. Negative: readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame; holograms, projected light, glowing displays, screens, monitors, consoles, dials, gauges, meters, knobs, toggles, tube screens, exposed cables, tablets, laptops; visible lamp, light fitting or bulb; flat studio backdrop, gradient background, glamour lighting, corporate headshot, posed smiling to camera; weapons. stethoscope, headphones, handheld scanner with a screen, tablet, torch, glowing seam, cracked wall, sparks, steam, pipes and valves, industrial grime, second person, Veyr or alien figure, smile to camera.
+  - **The hand, not an instrument.** The chapter's point is that the detecting instrument was a refusal and an ear; the pickups she mounts later are not in the frame.
+
 ## History (2026-07-24)
 
 A full visual review of ~250 files in July 2026 found five character portraits

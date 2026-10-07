@@ -337,6 +337,15 @@ skirt, gaze to camera, beauty lighting, text, lettering, watermark.
 coloured insert" with "a single plain horizontal bar, with a narrow
 slate-blue insert" and "early thirties" with "early twenties".
 
+### 2.9 `tissadelle/season-1-first-posting.jpg`, `tissadelle/season-5-halyx-corridor.jpg` — second frames per season (queued 7 October 2026)
+
+Dermot: *Add a second Season 1 frame and a second Season 5 frame*. The two
+prompts are of record in [`images.md`](images.md) § 9 and read by
+`image-prompts.js`; run on the desktop with
+`node scripts/image-prompts.js --generate --only season-1-first-posting,season-5-halyx-corridor`,
+file through `import-image.ps1 -MaxEdge 1200`, then add the two gallery items
+with their `season:` keys and captions as § 9 says. Strike this when filed.
+
 ### 2.8 The Told — theme (queued 30 September 2026)
 
 The children's second door has played Five-O's track since 7 September as a
