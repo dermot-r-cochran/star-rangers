@@ -2,6 +2,36 @@
 
 **Open items from this file are indexed in [`open-questions.md`](open-questions.md).**
 
+## Dialect and language variants, between characters and between members of a collective — raised 7 October 2026, OPEN
+
+Dermot, 7 October 2026, from a typo of his own: *"That typo makes me thinking
+about dialects and language variants for different characters"*, then *"or
+dialect differences between headmates within a plural system."*
+
+Two ideas in one, both unworked so far. Nothing in the bible or the lore pages
+names dialect, idiolect or register as a device yet (checked the same day).
+
+- **Between characters.** Planet, caste, corps and generation could each leave
+  a mark on speech. The craft constraint is the house voice and the tiers: a
+  variant has to live in lexis, rhythm, idiom and what a speaker leaves unsaid,
+  never in phonetic spelling, which reads as a trope and defeats the children's
+  tier. A variant should also be a *fact about the world* (a word that exists
+  on Drithane and nowhere else, a formality the Star Rangers keep from an older
+  service) rather than colour.
+- **Between members of a collective.** In real plural systems members commonly
+  differ in vocabulary, cadence, formality, humour, and sometimes accent or
+  preferred language; it is one of the ordinary ways a system and its friends
+  know who is fronting. Fiction could carry that without tags: the reader
+  learns who is present from how the sentence is built. The guard is the one
+  the references set (morethanone.info, Pluralpedia): every member is real,
+  none is a device, and a speech difference is never a tell for "the dangerous
+  one". Relevant first to the private inner-world work and to any collective
+  the seasons already hold.
+
+**Open:** whether to adopt either as a standing device, and if so where the
+first instance goes. An authorship call, Dermot's. Until ruled, nothing is
+drafted from it.
+
 ## Detective Doctrine: Inevitability, Not Brilliance (settled 2026-08-23)
 
 Dermot's direction, arrived at reading the genre against the cosmology; the

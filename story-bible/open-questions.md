@@ -35,6 +35,15 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Dialect and language variants — between characters, and between members of a collective — raised 7 October 2026, OPEN
+
+Raised in `ideas.md` from a remark of Dermot's. Two ideas: speech variants by
+planet, caste, corps or generation, carried in lexis and rhythm, never in
+phonetic spelling; and the documented fact that members of a plural system
+often differ in vocabulary, cadence and formality, which prose could use so a
+reader knows who is present without a tag. Whether to adopt either, and where
+the first instance goes, is his. Nothing drafted until ruled.
+
 ## Continuity — three slips held as choices and fourteen near-misses — raised 3 October 2026, RULED same day (*Apply the recommended choices*)
 
 `intake-2026-10-03.md`, *Continuity*. A cross-check of every chapter's canon
