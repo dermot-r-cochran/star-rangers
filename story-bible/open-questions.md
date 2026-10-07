@@ -2831,3 +2831,14 @@ September choice that keeps the Five-O cast off the children's domain. (a)
 Leave as ruled, recommended. (b) Tag the three character pages
 `undercover-pets.com`, at the cost of three adult cast pages on the
 children's site.
+
+## ~~Intelligence Engineering as a profession~~ — `intake-2026-10-07.md`, last section — RULED same evening (*Option 1 approved*: record only)
+
+His line, the evening of 7 October: *Intelligence Engineering as the future
+profession and career for people who work with and optimise interactions
+with machine intelligence.* Read as an extension of the morning's ruling that
+*engineering intelligence* stays a theme word, since it names a profession
+rather than a lens or a title. Four shapes put: record only (recommended);
+an in-world profession as a glossary or lore entry, name and seat his; a
+paragraph in `local-agent`'s decisions file, which partly reopens *undefined
+in public*; a Journal entry, which the morning declined for the lens.
