@@ -4,6 +4,8 @@ title: "The Habitat Threshold"
 category: "Institutions"
 tags: [habitat-threshold, orbital-habitats-compact, jurisdiction, governance, charter, institutions, self-governing]
 description: "The charter population line above which a self-governing orbital settlement passes out of Star Rangers jurisdiction entirely — and the reasons a settlement might set out to cross it."
+image: "habitat-threshold.jpg"
+image_alt: "A ring habitat of plain grey hull with a central hub and four spokes, seen from a little way off against the dark, a band of warm windows along the ring"
 ---
 
 The charter does not define an orbital habitat by its size, its shape, or how many rings it turns. It defines one by how many people have stopped intending to leave.

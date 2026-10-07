@@ -4,6 +4,8 @@ title: "Quantum Computing and the Cavern Constraint"
 category: "Physics"
 tags: [quantum-computing, decoherence, boundary-zones, etheric, causality, no-time-travel, physics, technology]
 description: "Why the Concord's quantum computers live deep under sealed rock and nowhere else — two channels of decoherence instead of one — and why they are fast machines rather than oracles: there are no parallel timelines to exploit."
+image: "quantum-computing-and-the-cavern-constraint.jpg"
+image_alt: "A deep dry rock cavern with a wide empty floor, one plain grey machine cabinet standing alone on a low plinth at its centre"
 plain: "A quantum computer is a special machine that is very fast at a few hard problems. Here they only work well when built deep underground, in sealed caves far from the 'thin places' where universes touch, because the tiniest disturbance ruins them — and near those thin places the disturbance is far from tiny. They are fast, not magic: some people imagine a quantum computer borrows other timelines to do its work, but in this cosmos there are no other timelines to borrow, so a quantum computer can never read the future or reach across worlds. Ordinary computers and the everyday machine minds run on normal hardware and need no cave."
 related:
   - "Physics Comparison: Real Cosmos vs. The Fictional Cosmos"
