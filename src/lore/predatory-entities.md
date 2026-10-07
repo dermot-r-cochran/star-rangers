@@ -11,6 +11,8 @@ The most dangerous predator in a boundary story often arrives looking harmless, 
 
 Three named modes of predatory meta-dimensional failure exploit social, emotional, and moral dynamics to feed. *Mode* rather than *class* is deliberate and is the settled position: these are [Unfounded](/star-rangers/glossary/unfounded/), nothing among them exists by design, and the names record how a counterfeit runs rather than a kind it belongs to. They are sometimes called "beautiful monsters" because they tend to manifest in appealing or non-threatening forms. (This is an informal nickname for the group, unrelated to the specifically named "Beautiful Monsters" type — see [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/).)
 
+*Feeding* is the record's working word for what follows, and it is a misnomer the record keeps for its usefulness. Nothing here eats, and nothing here reads a mind: none of the three is psionic or telepathic. What each exploits is an **etheric disturbance**, the kind that confusion, a story left vague or a consent withheld produces in the Conceptual↔Etheric layer, and the sections below describe the disturbance each one seeks and the behaviour that closes it off. Read *feeds on* throughout as *exploits the disturbance produced by*.
+
 All three are meta-dimensional beings. Obligers and Gilded Saints are **sapient monsters** (Class II meta-dimensional beings): goal-directed, adaptive, and capable of sustained deception. Cute Predators are **non-sapient** (Class III): their behaviour is instinctive pattern-matching, not strategy.
 
 None of them hold Cascade standing. They cannot be negotiated with under Cascade-governed terms.
