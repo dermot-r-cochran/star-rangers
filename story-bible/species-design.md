@@ -316,6 +316,17 @@ answer gets derived when a page needs it. Nothing below is canon.
   marked.
 - **Pandoids** — the Fliade entry and Teddy's page describe an observational
   register; nothing about marks. Absence marked.
+  *Scale and frame, ruled 7 October 2026* (Dermot, verbatim: *"Pandoids are
+  less humanoid than the Kyreni but more humanoid than almost any other
+  people."*, and the same evening *"Pandoids look more like cute giant teddy
+  bears than like sloths"* and *"A human in a cold suit would almost be the
+  size of a Pandoid and almost blend in if the suit had black and white
+  markings."*): upright on two legs with forelimbs of equal length, about
+  the size of a suited human, a round head on a round body; the Krenyi are
+  the only people on the human frame (`src/lore/krenyi.md`), and the
+  Pandoids sit just below them on the humanoid scale, above every other
+  people the record holds. The cold-suit reading is noted in
+  `intake-2026-10-07.md` and not yet on a page.
 
 Rule for using this list: pick a shape only in the page that needs it, in
 that page's own voice, and log the pick in the canonical guide if it coins

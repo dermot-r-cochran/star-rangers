@@ -4,8 +4,6 @@ title: "Cross-Biosphere Taxonomy: Frames and Lineages"
 category: "Institutions"
 tags: [taxonomy, survey-corps, species, classification, biology, frames, lineages, medical]
 description: "Why the Survey Corps cannot classify alien species the way it classifies Earth's — and the two-rank scheme it built instead: frames, which describe structure and claim no ancestry, and lineages, which claim ancestry and never leave one world."
-image: "cross-biosphere-taxonomy.jpg"
-image_alt: "Five small animal skeletons of different builds set out side by side on a grey table in a plain room, a cat, a monkey, a bird and a lizard among them, under window light"
 ---
 
 The Corps needs a way to file a species. A medic needs to know what a body is made of before treating one, a quartermaster needs it before fitting a uniform shell, and a life-support officer needs it before deciding what a compartment must contain. So there is a classification, it is used daily, and **it is not a Linnaean taxonomy** — because it cannot be.
