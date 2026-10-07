@@ -1469,6 +1469,15 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
   `baby-universe.mp4` is 19 MB at 1 fps to show one picture, and
   `ballad-of-the-stars.md` already demonstrates the cheaper pattern. Changes a
   live page.
+- **Two Slipwave videocasts filed 7 October 2026, three things open.**
+  `src/codex/odonata-raise-your-banners.md` and `src/codex/borrow-the-angle.md`
+  carry Dermot's two music videos with their captioned lines as the only
+  confirmed text. Open and his: **which session** they belong to (the entries
+  and `slipwave.md` leave it unstated); **the full lyric sheets**, which close
+  the transcriber's gap when supplied; and **the two codex covers**, owed from
+  `make-codex-cover.ps1` so the Slipwave card set stays whole (a
+  `needs-desktop` issue). If he rules them dock-era with Shepherd, her page's
+  *two dock-circuit recordings survived* line needs an extension.
 - **Two newly identified recordings need canon homes** (identified 20 August
   2026). The 3:49 is **Slipwave**, which makes a fourth recording by a band whose
   catalogue `slipwave.md` already characterises — *a handful, most incomplete or

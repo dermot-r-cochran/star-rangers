@@ -512,9 +512,67 @@ better than cutting to a picture.
     - **Negative:**
     - **Notes:** seed, clip count and lengths, cut points, source clips kept where
 
-No entries yet. The two files in `src/video/` predate this file and have no
-recorded prompts; do not reconstruct one and file it as though it were the
-original.
+### `odonata-raise-your-banners.mp4`
+- **Type:** supplied, 7 October 2026 (Dermot: *Two codex music videos from Slipwave band*)
+- **Tool:** unrecorded — do not reconstruct
+- **Date:** filed 2026-10-07
+- **Used by:** `src/codex/odonata-raise-your-banners.md`
+- **Prompt:** unrecorded
+- **Negative:** unrecorded
+- **Notes:** 3:32, 1280×720, 24 fps, H.264 + AAC 48 kHz stereo, 27 MB. Genuinely moving footage (slow camera moves and animated water, wings, lanterns), not a held still. Nine lyric lines composited as captions at the foot of the frame, one per section, in a clean serif, correctly spelled; title card composited at the head. Poster frame `odonata-raise-your-banners-poster.jpg` taken at 0:01.
+
+### `borrow-the-angle.mp4`
+- **Type:** supplied, same day
+- **Tool:** unrecorded — do not reconstruct
+- **Date:** filed 2026-10-07
+- **Used by:** `src/codex/borrow-the-angle.md`
+- **Prompt:** unrecorded
+- **Negative:** unrecorded
+- **Notes:** 3:52, 1280×720, 24 fps, H.264 + AAC 48 kHz stereo, 23 MB. Moving footage as above. Ten captioned lines, same treatment; the last twenty seconds carry no caption. Poster frame `borrow-the-angle-poster.jpg` taken at 0:01.
+
+The first file in `src/video/`, `baby-universe.mp4`, predates this file and has no
+recorded prompt; do not reconstruct one and file it as though it were the
+original. The two above are recorded as absences for the same reason.
+
+## The two Slipwave videocasts, read 7 October 2026
+
+Supplied as *two codex music videos from Slipwave band* and filed the same day
+as codex entries, each carrying its file. What the files are, measured and
+looked at (not heard — the standing disclosure applies):
+
+- **The caption rule is met, for the first time.** Every earlier supplied piece
+  broke on lettering in the frame. These composite a title card and one lyric
+  line per section in a real typeface, spelled correctly, held for the
+  section's length. That is exactly what *Title text is composited in the
+  edit, never generated in the frame* asked for.
+- **They move.** 24 fps, slow pushes and drifts, animated water and wings,
+  cut on the song's sections. The still-over-audio question (open item 2
+  below) does not arise for them.
+- **720p, held throughout** — the *Delivery* rule's second case, a uniformly
+  720p piece rather than a mixed one. Below the stills' 1600 px, as every
+  generated video so far has been.
+- **The register is off-house and the record already has the answer.** Bronze
+  gates, towers, a harbour under dragon wings, light with no source, sparkle
+  and bloom: the house signature (diegetic light, matte surfaces, the camera
+  as witness) is not what these are doing. `performers-and-generated-work.md`
+  calls a recording with pictures a *videocast* and files generated pictures
+  as the maker's; both entries therefore say the pictures were laid over the
+  recording after the fact, are uncredited, and witness nothing. The imagery
+  is the maker's painted world, as *Paper Galaxies*' backdrop was, and the
+  Archive reads it as that.
+- **The captions are the only confirmed text.** Nine and ten lines, one to a
+  section, and no lyric sheet. Both entries print the captions in order as
+  confirmed and transcribe nothing else — the 20 August rule that a lyric
+  cannot be derived from a spectrogram holds, and a full sheet from Dermot
+  closes the gap when he has one.
+- **Nobody in frame is a named character.** The woman at the water in *Borrow
+  the Angle* is dark-haired and unnamed; the entry says so.
+
+Three things stay his, put in `intake-2026-10-07.md`: which session the
+recordings belong to (dock-era with Shepherd, later with Ashgrove and
+Calloway alone, or left unfixed as filed), the full lyric sheets, and the
+codex covers (the Slipwave set shares a designed card; two more are owed via
+`make-codex-cover.ps1`, filed as a `needs-desktop` issue).
 
 ---
 

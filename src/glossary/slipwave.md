@@ -21,6 +21,8 @@ By the time Shepherd made Line Captain, cadet cohorts several intakes removed fr
 
 The second is [Ballad of the Stars](/star-rangers/codex/ballad-of-the-stars/), recorded the same season. It never made muster rotation the way the anthem did — it is slower, more personal, and travels differently: found in someone's audio stock rather than sung in formation, usually while a ship is overdue.
 
+Two more surfaced later, complete, and with pictures laid over them as videocasts: [Odonata: Raise Your Banners](/star-rangers/codex/odonata-raise-your-banners/) and [Borrow the Angle](/star-rangers/codex/borrow-the-angle/). Neither recording states which of the band's sessions it comes from, and the Archive has not established it; the pictures are uncredited, were added after the fact, and are nobody's witness to a room the band played in. The catalogue was never said to be closed, and these are the handful's late arrivals.
+
 ## Status
 
 Slipwave did not formally disband. Its two other members — **Perrin Ashgrove** (percussion) and **Marlow Calloway** (strings) — enlisted not long after Shepherd did, though neither chased her career. Both hold the rank of [Officer](/star-rangers/lore/star-rangers-command-hierarchy/) and carry the Corps' **musician** specialization, a designation that exists for the same reason the boundary-safety and piloting specializations do further up the ladder: so someone extremely good at one thing isn't required to stop doing it in order to keep being promoted. Ashgrove and Calloway play muster halls and dock common rooms wherever they're posted, which is most of the reason the anthem kept circulating as reliably as it did — cadet cohorts learned it from the two people still playing it, not from a memo.
