@@ -950,6 +950,28 @@ in-world, and the only one with a page waiting for it. Two things follow:
 
 ---
 
+## Two Slipwave recordings with pictures — 7 October 2026
+
+Dermot supplied two finished pieces as *two codex music videos from Slipwave
+band*: *Odonata: Raise Your Banners* (3:32) and *Borrow the Angle* (3:52),
+1280×720 at 24 fps with genuinely moving pictures, filed the same day as
+`src/video/odonata-raise-your-banners.mp4` and `src/video/borrow-the-angle.mp4`
+with codex entries of the same slugs. The video side is read in
+[`video-prompts.md`](video-prompts.md); this is the audio side.
+
+- **Tool:** _needed_ · **Prompt:** _needed_ · **Lyrics:** the full sheets are
+  _needed_. Each videocast carries one lyric line per section as a composited
+  caption — nine and ten lines — and those are the only confirmed text; both
+  entries print them in order as captions and transcribe nothing else.
+- **Not heard.** The structural reading and every statement about the music
+  in the entries comes from the captions and the pictures, not the audio.
+- **Catalogue.** `slipwave.md` gains a paragraph: two more surfaced later,
+  complete, with pictures laid over them; the session is not stated and the
+  Archive has not established it. That keeps every existing sentence true
+  (*most incomplete or badly mic'd, two are not*; *never recorded a studio
+  album*) and leaves the lineup his. The 20 August 3:49, identified as
+  Slipwave then, is still unfiled and is not either of these.
+
 ## Regeneration worklist
 
 Every supplied file in one table, with what would need to change. **Audio and
