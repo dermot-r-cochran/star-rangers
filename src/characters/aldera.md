@@ -51,4 +51,4 @@ She filed, and she waited, for three years. Elvira asked in the end — on the r
 
 ## Before the Causeway
 
-[Season 1, Episode 0](/star-rangers/seasons/s01/e00/) covers the years before her arrival: an unaugmented, unaffiliated cat leaving Dún Rí — Elvira's own childhood household — on her own terms, and a chance meeting with a wild, constraint-literate cat named Nessa on the tidal rock of Carraig Bán, who points her toward the Marsh Causeway. Neither Aldera nor Elvira has yet connected the outpost to the household either of them left behind.
+[Season 1, Episode 0](/star-rangers/seasons/s01/e00/) covers the autumn before her arrival: an unaugmented, unaffiliated cat leaving Dún Rí — Elvira's own childhood household — on her own terms, and a chance meeting with a wild, constraint-literate cat named Nessa on the tidal rock of Carraig Bán, who points her toward the Marsh Causeway. Neither Aldera nor Elvira has yet connected the outpost to the household either of them left behind.
