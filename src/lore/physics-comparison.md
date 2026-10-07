@@ -36,7 +36,7 @@ Physical constants are engineered, not merely unexplained. Some events carry a f
 
 ### Real Cosmos
 - Strictly forward in time.
-- Randomness appears irreducible; no retrocausal influence has ever been observed.
+- Randomness appears irreducible. Apparent retrocausality is observed in delayed-choice experiments, and no retrocausal influence has ever been scientifically verified: the sorted interference appears only in coincidence with a result that arrives forward in time.
 
 ### Fictional Cosmos
 - Causality is stable by design.
