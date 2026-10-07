@@ -2182,9 +2182,13 @@ characters*). His answer, verbatim: **"1 Yes 2 Maybe 3 Unknown"**.
   (`intake-2026-08-27.md`) is the only ground. **Do not generate a Season 6–7
   frame until he describes her**; the direction says *can have*, not *must*.
 
-Also open from the same direction: a second frame for Season 1 and for
-Season 5, so each season has the *two or more* the direction allows. No
-brief needed — same prompts, different moment — but not run until asked.
+~~Also open from the same direction: a second frame for Season 1 and for
+Season 5~~ — **asked 7 October 2026** (*Add a second Season 1 frame and a
+second Season 5 frame*): both prompted in `images.md` § 9 (the posting on
+Dock Seven; the Halyx corridor, hand on the frame) and queued for the desktop
+under issue #1013 (`needs-desktop`), since generation needs the key. Filing adds the
+two gallery items with `season:` keys and captions, and the season pages pick
+them up. Nothing in it is his to decide except the pick between variants.
 
 ## A spiritual edition with a governing rule — `intake-2026-09-06.md`, seventh section — RULED 6 September 2026
 
