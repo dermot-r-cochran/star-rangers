@@ -98,7 +98,7 @@ Any given [Concordant](/star-rangers/glossary/concordant/) is one coherence zone
 ## 5. Energy and Entropy
 
 ### Real Cosmos
-- Entropy increases monotonically, with no external regulation observed.
+- Entropy increases monotonically, with no external regulation scientifically verified.
 - Heat death is the long-term terminal state predicted by current models.
 
 ### Fictional Cosmos
@@ -160,7 +160,7 @@ Information has a third metaphysical channel. Standard instruments cannot detect
 
 ### Real Cosmos
 - Disasters follow physical law without exception.
-- No external intervention has ever been observed.
+- No external intervention has ever been scientifically verified. Interventions are reported, and none has survived verification.
 
 ### Fictional Cosmos
 - Disasters unfold naturally and are not suppressed by default.
