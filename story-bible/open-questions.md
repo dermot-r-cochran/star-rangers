@@ -2832,7 +2832,7 @@ Leave as ruled, recommended. (b) Tag the three character pages
 `undercover-pets.com`, at the cost of three adult cast pages on the
 children's site.
 
-## Intelligence Engineering as a profession — `intake-2026-10-07.md`, last section — OPEN, his (recommended: record only)
+## ~~Intelligence Engineering as a profession~~ — `intake-2026-10-07.md`, last section — RULED same evening (*Option 1 approved*: record only)
 
 His line, the evening of 7 October: *Intelligence Engineering as the future
 profession and career for people who work with and optimise interactions
