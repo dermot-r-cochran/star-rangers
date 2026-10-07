@@ -4,6 +4,8 @@ title: "Where the Weather Stops"
 category: "Physics"
 tags: [caves, caverns, underground, karst, physics, planets, fliade, geology]
 description: "Caves and the underground on habitable worlds: the one country every world has and almost no survey finishes — where the weather stops, the mean is remembered, and everyone who moves in came for the same reason."
+image: "where-the-weather-stops.jpg"
+image_alt: "From inside a dry cave a few metres from its mouth, snow blowing hard past the opening in grey daylight, still air and dry stone inside, a single plain cylindrical instrument standing on the floor"
 ---
 
 The Fliade survey's opening judgement was wrong by most of the biosphere, and the record keeps that sentence where every survey team will read it. Cavern systems honeycombed the crust *on a scale the surface gave no hint of* — and the lesson generalises past Fliade to every world with a crust: the underground is the one country a survey cannot read from orbit, and every surface report is provisional about what is underneath it.

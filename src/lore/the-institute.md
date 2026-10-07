@@ -4,6 +4,8 @@ title: "The Institute"
 category: "Institutions"
 tags: [the-institute, secular, skeptic, cosmic-cascade, boundary, institutions, fold-drive, dock-seven, methodology]
 description: "An independent, non-political academic body designed to provide intelligent constructive criticism — especially, though never exclusively, of the Star Rangers. Secular and sceptical, it accepts the instruments and declines the cosmology: the counterweight to devotional readings of boundary phenomena, and the source of the material explanation of Dock Seven that most of settled space actually believes."
+image: "the-institute.jpg"
+image_alt: "A bare office with one plain wooden desk, a black chair, a closed notebook and a pen, and a plain sealed case on a stand by the wall, daylight through a frosted window"
 ---
 
 Ask the Fellowship what happens at a thin place and you will be told the world runs thin there. Ask the Institute and you will be told that a great many instruments disagree with each other in a small volume of space, that this is interesting, and that nothing has yet been established beyond it.

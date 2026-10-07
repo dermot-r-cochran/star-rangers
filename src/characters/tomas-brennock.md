@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [human, eden, resident, terraces, undercover-pets.com, season-2]
 description: "The grower who chairs the committee that holds Eden's ring terraces, and who in the autumn of 2827 wrote two minutes on one page: Noted. Pending confirmation. and, five days later, Confirmed."
+image: "tomas-brennock.jpg"
+image_alt: "A man in his fifties in a canvas apron on a long curved planting terrace inside a ring habitat, holding up an uprooted strawberry plant with clean white roots, his other hand on a green valve wheel, rows of plants curving away under a pale diffuse roof"
 ---
 Tomas Brennock has chaired Eden's Terrace Committee for six years, and grows on terrace five, which is his in the way the terraces' grant means: he works it, and its valve is under his hand.
 
