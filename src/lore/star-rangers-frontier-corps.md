@@ -4,6 +4,8 @@ title: "The Star Rangers Frontier Corps"
 category: "Institutions"
 tags: [star-rangers, frontier-corps, frontier, law-enforcement, caretaker-clause, charter, institutions, colonies, sheriff]
 description: "The specialist corps that serves as caretaker law enforcement on frontier worlds with no local government or law of their own — not even a sheriff — and whose mandate on every world it serves is designed to end."
+image: "star-rangers-frontier-corps.jpg"
+image_alt: "A muddy track running toward a small settlement of timber buildings with lit windows in a wide valley at dusk under cloud, a sliver of moon above"
 ---
 
 Every law-enforcement institution in history has measured itself by what it caught. One measures itself by how soon it can leave.

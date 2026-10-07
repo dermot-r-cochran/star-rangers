@@ -4,6 +4,8 @@ title: "Predatory Entities: Obligers, Gilded Saints, and Cute Predators"
 category: "Entities"
 tags: [obligers, gilded-saints, cute-predators, predatory-entities, ambiguity, consent, sapient-monsters, meta-dimensional]
 description: "The three principal classes of predatory meta-dimensional entity in the Grand Ensemble Multiverse, classified by sapience and feeding method."
+image: "predatory-entities.jpg"
+image_alt: "A clearing in a wood where the grass lies flattened in a wide ring, a pair of boots and a folded blanket at its edge, no one there"
 plain: "Some beings from outside our universe feed on feelings instead of food. Obligers feed on confusion and unfinished business; asking a clear question, and insisting on a clear answer, breaks their hold. Gilded Saints pretend to be worthy causes and feed on hard moral effort and on sadness that is never allowed to end. Cute Predators are small and not intelligent; they feed on the little 'yes' you say when saying 'no' feels rude. None of the three can be bargained with. Being clear and honest is the best protection against all of them."
 ---
 

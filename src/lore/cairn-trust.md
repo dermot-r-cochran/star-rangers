@@ -4,6 +4,8 @@ title: "The Cairn Trust"
 category: "Factions"
 tags: [cairn-trust, frontier, settlement, fusion, frontier-corps, charter, commercial, trust, factions]
 description: "The largest of the concerns that underwrite frontier foundings — passage out, the first rationed fusion cores, and the decade of buildout — recouped over a generation. It is named for a thing built by people who have passed for people who have not yet arrived, and it means it."
+image: "cairn-trust.jpg"
+image_alt: "A tall dry-stone cairn on a bare summit ridge at dawn, ranges of mountains receding behind it under a clearing sky"
 plain: "The Cairn Trust pays for new colonies. It carries settlers out, supplies the first fusion cores, and funds the ten to twenty years of building before a colony can power itself, and it gets its money back slowly out of what the colony later produces. Because it is a trust rather than an ordinary company, the money is not its own: it is held for the settlers still waiting for their own passage. That is why it can seem hard. A company may forgive a debt whenever it likes. A trustee is not allowed to."
 ---
 

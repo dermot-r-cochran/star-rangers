@@ -52,6 +52,30 @@ already, and the `codex/` path takes it automatically. The target is
 for the pick. Images filed before 7 October 2026 are unfinished; re-finishing
 them is a decision of his, not a default.
 
+**Spacecraft are derived, not styled** (Dermot, 7 October 2026, verbatim:
+*"Derive spaceship images from design principles and detailed blueprints where
+possible."*): a ship, a station or a platform in a prompt is built from what
+its page and the record's physics say it does, in that order: where its people
+get their weight (a coasting hull spins, and the spin axis runs along its line
+of travel, so a ring or a drum, never a glazed cabin with a floor), where its
+heat goes (radiators, which are large and plain), what it carries and where,
+and what is lit, which is almost nothing. Where a page or the story bible holds
+a blueprint, measurements or a deck plan, the prompt quotes them. The generator's
+stock ship, a lit flank with a glazed nose, is the thing this rule refuses. The
+first three held under it, the same evening: the generation ark, Kalypsis Dawn's
+ship and the Hyperfold Yield Combine's platform.
+
+**An old-fashioned look carries a hint of the century, unless the page is
+Historical** (Dermot, 7 October 2026, verbatim: *"Any image that looks old
+fashioned should have a hint of advanced technology unless historical."*): a
+frame set in the record's present may look plain, worn and ordinary, since that
+is the house look, but not period. Where the generator reaches for a 20th-century
+safe, a joiner's shop, a Victorian schoolroom or a churchyard, the prompt puts
+one thing in the frame that says the century, in the record's idiom: a sealed
+plain housing with a single indicator, an honest seam, a material that is not
+quite the old one. A page in the History category, or a frame the page sets in
+the past, is exempt. Six held under it the same evening and re-prompted.
+
 **Which pages carry an image** (Dermot, 7 October 2026, verbatim: *"Characters
 with no physical body would not needed an image. Neither would abstract
 concepts as lore."*): a character page gets a portrait when the character has
@@ -2908,10 +2932,12 @@ nested-sphere diagrams.
 
 - **`archecluster.jpg`** — *one Archewright's vocabulary carried in every route chart, statute book and certified machine.*
   > A vast orbital archive hall seen from a high gallery, rank upon rank of identical plain shelving running away in perfect repetition into soft distance, every bay built to the same proportion. Two small figures far below at floor level for scale. Cool even daylight from a high clerestory, no fittings visible. The repetition is the subject: one vocabulary, everywhere, unremarked. Pale stone, brushed alloy, deep shadow between the ranks. Immense, ordered, quiet.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: symmetry from the gallery; 2 looked down from a stair and lost the repetition.
 
 - **`archewright.jpg`** — *eternal, unobserved, and known only by inference.*
   > A worked stone quarry face at dawn, seen straight on, where every block that ever left it has been cut to the same handful of standard proportions — the negative shapes still legible in the rock. No tools, no workers, no machinery, nobody present and no sign of anyone recently. Cold clear early light raking across the cut faces. What made the shapes is absent and only the shapes remain. Grey stone, pale sky, long shadow.
   - **Absence is the whole entry.** Anything that depicts a maker contradicts *known only by inference*.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: cleaner cells; 1 had a stair-like break that read as a building.
 
 - **`ask-and-it-will-be-reviewed.jpg`** — the church-space telling of prayer as *a permissions office*, and *the joke is load-bearing.*
   > A modest municipal planning-office waiting room, warm and worn and entirely ordinary: a row of wooden chairs against a wall, a counter with a closed shutter, a well-swept floor, a plant somebody waters. One chair holds a folded coat as though its owner has stepped out. Late afternoon light through frosted glass. Utterly mundane and quietly numinous, with nothing supernatural anywhere in frame. Warm wood, cream paint, dust in the light.
@@ -2920,20 +2946,25 @@ nested-sphere diagrams.
 - **`counterpane-archecluster.jpg`** — *single systems behave identically; correlations among independent sources obey a different composition rule.*
   > Two identical hand-woven cloths lying side by side on a plain table, each thread and weave indistinguishable, but where they overlap at the centre the interference of the two patterns produces a moiré figure that belongs to neither. Flat even daylight from one side, plain table, nothing else in frame. Quiet, exact, faintly wrong. Undyed linen, grey table, one cool shadow.
   - **The best frame in the set for a physics idea**: identical parts, a joint behaviour that is not.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the ringed centre reads as the weave that is not ours.
 
 - **`made-minds-and-the-ai-safety-archetype.jpg`** — *an archetype explains convergence, never enforcement. Nothing in the Cascade holds a kernel shut.*
   > Three unrelated hand-made wooden doors of different ages and joinery standing in a row against a plain wall, each fitted with a latch of visibly different manufacture, and every latch resolving to the same simple shape. All three doors stand closed and none is locked; there is no bolt, no chain, no seal and no mechanism holding any of them. Cool workshop daylight. Convergence without compulsion. Warm wood, dull iron, grey wall.
+  - **Generated 7 October 2026 and held**, variation 1 chosen on the sheet (workshop context and the three latches; 2 had a modern door too clean.), then held at Dermot's two rules of the same evening: three old plank doors in a joiner's shop; re-prompt with the advanced hint (the latch, or what the doors close). Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 - **`post-eleven-dimensional-manifold.jpg`** — the structure *shared by every universe in the Cascade, regardless of its own dimensional floor.*
   > A great still body of dark water at night seen from just above the surface, absolutely flat, with the reflections of several separate distant lights lying on it — each light unreachable from the others across the surface, all of them held by the same water. No horizon visible, no shore, no vessel, no sky detail. Utterly calm. Black, silver, one warm reflected point.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the reflections hold the water; 2 was emptier than the page.
 
 - **`resurrection-and-the-life.jpg`** — *life beyond death rather than life after it, and a last day.*
   > A country burial ground at first light, low stone wall, wet grass, plain unornamented markers, the light just reaching the top of the far wall and not yet the ground. No figures, no ceremony, no flowers, no ruin. Ordinary, tended, and waiting. Grey-green, wet stone, one line of gold along the wall top.
   - **Extra negative:** skeleton, bones, ghost, spirit, ascending figure, light from the sky, angel, resurrection imagery of any kind.
   - This is a church-space overlay page: it reads devotional tradition sympathetically and asserts nothing. A depicted resurrection would make the picture claim what the page declines to.
+  - **Generated 7 October 2026 and held**, variation 1 chosen on the sheet (the lit wall line; 2 was flatter.), then held at Dermot's two rules of the same evening: a Northumbrian churchyard; re-prompt with the devotion's own ground on a settled world, one plain advanced thing in it. Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 - **`selvage-archecluster.jpg`** — *the weave's self-finished edge*, where sealed universes *can never touch one another, and can still reproduce.*
   > The finished edge of a heavy woven cloth photographed very close, filling the frame, where the weave turns back on itself and closes without a hem or a stitch. Along that edge the threads are dense and perfectly regular; beyond it, nothing. Raking side light picking out every thread. Textile, tactile, exact. Undyed fibre, warm shadow.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the corner says edge; 1 was a straight edge only.
 
 - **`wholecloth-formcluster.jpg`** — *woven without fold geometry and with static seating; primary, childless, and sealed.*
   > A single vast unbroken sheet of woven cloth stretched taut and filling the frame, seen straight on and lit flat, with no seam, no join, no fold, no crease and no edge visible anywhere in frame. Perfectly regular, perfectly still. Cool even light. Pale undyed fibre, almost monochrome.
@@ -2942,6 +2973,7 @@ nested-sphere diagrams.
 - **`what-the-record-refuses.jpg`** — *what is refused outright, what is kept but honestly priced.*
   > A small, meticulously kept props store in a working repertory theatre: open shelving, everything squared away and nothing ticketed, labelled or numbered anywhere, and one shelf standing conspicuously and deliberately empty and swept clean while every other shelf is full. Plain worklight, no stage lighting, no glamour. Ordered, unsentimental, faintly witty. Warm wood, dust, one bare clean shelf.
   - **The empty shelf is the page.** A refusal that is *filed* rather than merely absent.
+  - **Generated 7 October 2026 and held**, variation 1 chosen on the sheet (no light fitting in frame; 2 showed fluorescent tubes.), then held at Dermot's two rules of the same evening: a storeroom of hats, jars and baskets reads as a 20th-century attic; re-prompt with the shelves' contents a century on. Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 - **`what-a-life-is-built-from.jpg`** — *the four requirements recur on every surveyed world; not one of the solutions does.*
   *(Prompted 5 October 2026. The first of a pair with `what-a-mind-is-carried-by.jpg` below: same station, same night, same light and film. The anchor is the page's own method, four unlike things doing one job, and the four are the page's cases — Prismere's glass filament, Sardain's cold solvent, a composition, a mineral heredity — named here and on no picture. Dishes of stone rather than laboratory glass, so there is no surface a label could land on.)*
@@ -2965,6 +2997,7 @@ nested-sphere diagrams.
   > A single small window of a habitat cabin seen from inside in the middle of the night, the cabin dark and the bunk empty and unmade, and on the far wall a faint indistinct patterning of light that does not correspond to anything outside the window. No figure, nobody sleeping, nothing at the window. Very dark, very quiet. Deep blue-black with one dim uncertain pale shape.
   - **Extra negative:** face, figure, silhouette, apparition, eyes, creature, anything that could read as a sender.
   - *A dream is never evidence about who sent it — nothing did.* The prompt has to hold that line, so the room is empty in both directions.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the patterning on the wall; 1 had a lit lamp and a forest outside the window.
 
 - **`generalised-quantum-mechanics.jpg`** — *the laboratory theory survives exactly as its kernel, and everything Etheric enters as extension terms.*
   > A well-used bench-top physics apparatus of entirely ordinary laboratory kind — a rigid optical bench, mounted posts, a sealed enclosure — clean, calibrated and clamped down, sitting on a stone bench in a plain university laboratory. Around it and behind it the room falls into soft darkness. Nothing exotic, nothing glowing, nothing added. Flat daylight from a high window. Brushed alloy, black anodising, grey stone.
@@ -2974,25 +3007,31 @@ nested-sphere diagrams.
   > A deep rock cavern, dry and sealed, its bare stone walls curving away, holding a single compact plain-cased machine cabinet standing alone on a level plinth at the centre with a great deal of empty floor around it. The rock is the subject and the machine is small in it. Cool even light with no visible source, deep quiet. No cables in shot, no racks, no personnel. Grey stone, matte casing, black shadow.
   - **Extra negative:** glowing chandelier cryostat, gold-plated quantum computer, cables, wires, blue glow, server racks.
   - The gold-cryostat image is the single strongest default and it is wrong twice — it is the popular photograph, and it is a glowing object in a page about shielding.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: more empty floor around the cabinet.
 
 - **`the-scope-of-physical-law.jpg`** — *a physics claim is well-formed only at its level. Nothing physical is Ensemble-wide.*
   > A set of six plain nested wooden measuring boxes of graduated size, sitting apart from one another in a row on a workbench rather than stacked inside each other, each one plainly made to a different standard and none of them matching. Flat workshop daylight. Ordinary, handmade, exact. Warm wood, grey bench.
   - **Apart rather than nested**, deliberately: nesting would assert that the smaller scopes sit inside the larger as containers, which is not what the entry says.
+  - **Generated 7 October 2026 and held**, variation 2 chosen on the sheet (the six sit apart and graduated; 1 was five and uneven.), then held at Dermot's two rules of the same evening: a period woodworking bench; re-prompt so the bench, not the boxes, carries the century. Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 #### Institutions (14)
 
 - **`communion-of-the-called.jpg`** — *secular by charter, not its people*; answerable to no rank.
   > A small plain room aboard a space installation set out for a gathering that has ended: a dozen mismatched chairs pulled into a rough circle, a folding table with cups on it, the room empty. Nothing on the walls, no ornament, no symbol of any kind visible. Warm ordinary light. Companionable and entirely unofficial. Warm neutrals, worn deck.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: bare walls; 2 had panels and fittings on the wall.
 
 - **`cross-biosphere-taxonomy.jpg`** — *frames, which describe structure and claim no ancestry, and lineages, which claim ancestry and never leave one world.*
   > A long bare bench holding four articulated skeletons of clearly unrelated origin laid side by side, each built on a broadly similar plan and each unmistakably not a variation of the others. Nothing else on the bench — no card, no label, no plaque, no case and no mount plate. Cool even daylight. Rigorous and slightly uncanny. Bone white, grey bench.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: no human skeleton; 2 sat one on a bench like a prop.
 
 - **`frontier-transformation-protocols.jpg`** — *slowly, incompletely, and never on a Kernel-compliant system's say-so alone.*
   > A wide view across a frontier world's untouched valley at dawn — native vegetation, standing water, bare rock — with a single small survey stake driven at the near edge of the frame and nothing else built anywhere in sight. Enormous, intact, and observed rather than begun. Cold clear light, long shadows. Ochre, grey-green, pale sky.
   - **One stake and nothing else.** The whole clause is that the world gets time.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the plain post; 2 carried a tag that could have been read.
 
 - **`habitat-threshold.jpg`** — *the charter population line above which a settlement passes out of jurisdiction entirely.*
   > A large orbital habitat seen from outside at a middle distance, whole and self-contained against the black, its inhabited ring lit from within along its length, no vessel docked and no other structure anywhere near it. Nothing arriving, nothing attending. Self-sufficient and slightly solitary. Steel grey, warm interior glow through the ring windows, deep black.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: no lettering; 1 carried a painted name.
 
 - **`heritable-modification-protocols.jpg`** — *between a change that ends with the body carrying it and a change that breeds.*
   > A plain laboratory bench holding two identical sealed sample vessels standing a hand's width apart, one of them standing inside a shallow plain tray and the other on the bare bench beside it, everything else about them the same. Flat clinical daylight, no other equipment in frame. Spare, exact, consequential. White, glass, brushed steel.
@@ -3000,6 +3039,7 @@ nested-sphere diagrams.
 
 - **`monasteries-of-mars.jpg`** — *scattered across Mars's open, thin-atmosphere terrain, deliberately unaffiliated.*
   > A small low stone-built enclosure alone on open rust-coloured Martian ground at evening, sealed and plain, its walls the same material as the ground it stands on, with an enormous empty landscape running to the horizon in every direction and no road, track, vehicle or other structure anywhere. Thin pale sky, long shadow, one small sealed doorway. Rust, ochre, deep violet sky. Austere and unlonely.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: square and alone; 2 was round and busier.
 
 - **`planetary-liaisons-and-recruiters.jpg`** — *the berth a Ranger moves to when front-line work stops being possible without leaving the force.*
   > A modest ground-floor office on an ordinary inhabited world, its door standing open onto a busy street, one plain desk inside and two chairs on the public side of it. A person's coat on a hook. Nobody in frame. Warm daylight from the street reaching a little way in. Approachable, unimportant-looking, permanent. Warm plaster, worn wood, street light beyond.
@@ -3010,17 +3050,21 @@ nested-sphere diagrams.
 
 - **`solar-system-concord.jpg`** — *the compact that every government since has enforced, and none has owned.*
   > A large plain assembly chamber with a ring of identical unmarked desks and no head of table, no dais, no throne, no seat of honour and no flag or emblem anywhere, seen from one side and entirely empty of people. Even daylight from a high band of windows. Deliberately unimpressive, deliberately symmetrical. Pale stone, plain wood, cool light.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the single ring; 2 doubled it.
 
 - **`star-rangers-frontier-corps.jpg`** — *whose mandate on every world it serves is designed to end.*
   > A single set of boot tracks crossing wet ground away from the camera toward a small frontier settlement in the middle distance, the settlement lit and busy at dusk, the tracks leading away from it and out of frame at the near edge. Nobody in shot. Cold blue evening with the settlement warm in the distance. Departure as the achievement. Grey-blue, wet ground, distant amber.
   - **The best single image in this set**, and it is entirely the entry's own idea.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the track leads in; 2 was mud without a road.
 
 - **`star-rangers-navigation-corps.jpg`** — *route certificates expire when hull certificates do not.*
   > A navigational beacon buoy alone in deep space, plain and unlit and slightly out of alignment with the corridor it marks, the starfield behind it. Nothing else in frame — no ship, no station, no route line. Small, exact, and quietly out of date. Matte grey against black, one cold highlight.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: no lettering; 1 was marked.
 
 - **`star-rangers-science-corps.jpg`** — *interprets what the Survey Corps collects.*
   > A plain working room aboard an installation where a long bench holds a single sealed sample container and, beside it, a stack of shut plain-bound record volumes; a chair pushed back from the bench. Nobody present. The specimen is unremarkable and the record beside it is thick. Cool even light. Grey, warm binding cloth, glass.
   - **The stack is taller than the specimen is interesting**, which is the corps.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: no notices or instruments; 1 was covered in labels and an oscilloscope.
 
 - **`the-commonwealth.jpg`** — *thin by design.*
   > A modest meeting room in an orbital habitat with a long table set for perhaps ten, most of the chairs empty and pushed in, three cups at one end where a short conversation happened. A wide window onto the habitat's interior curve. Unhurried, undemanding, well kept. Warm neutrals, pale daylight.
@@ -3037,56 +3081,69 @@ nested-sphere diagrams.
   > A single recovered fragment of hull plate laid flat on a bare bench under even light, its torn edge presented to the camera, clean and dry and quite small. Nothing else on the bench at all — no tag, no label, no card, no marker. The room around it dark. Sober and undramatic. Grey metal, black shadow.
   - **Extra negative:** explosion, fire, debris field, wreck, dramatic destruction, ship breaking apart.
   - The entry is about how a loss is *classified*, not about the loss.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the shear is cleaner; 2 was a torn lump.
 
 - **`kalypsis-dawn.jpg`** — *a boundary zone cannot be shielded against, only carried better references into.*
   > An unarmed survey and transport vessel in deep space seen three-quarter from ahead, mid-sized, plainly built, with no weapon mounts and no aggressive line anywhere on the hull, holding station in a region of ordinary starfield. Working lights along the hull, a large observation viewport, a plain unmarked hull. Calm, capable, unthreatening. Pale grey hull, deep black, cold starlight.
   - **The lee is the name**, so the silhouette should read as shelter rather than force. No cannon, no prow, no wings.
+  - **Generated 7 October 2026 and held**, variation 2 chosen on the sheet (no lettering; 1 carried a name.), then held at Dermot's two rules of the same evening: spacecraft: a glazed forward cabin and a lit flank are the stock image, not a design; re-prompt from what the page says the ship is for. Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 - **`orbital-compute-complexes.jpg`** — *classical machines without exception, since no quantum computer flies.*
   > A very large orbital structure above a settled world, plainly industrial and entirely without windows, its whole surface given over to flat radiator panels edge-on to the sun and running away in ranks. The planet below fills the lower frame. Hard sunlight, black shadow, no glow anywhere. Functional to the point of austerity. White radiator faces, black structure, blue-grey world.
   - **Radiators, not lights.** Heat rejection is what a compute complex actually looks like, and it keeps the frame off the glowing-datacentre default.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the plain geometry; 2 was more structure than radiator.
 
 #### Factions (3)
 
 - **`cairn-trust.jpg`** — *a marker is of no use to the one who set it.*
   > A cairn of stacked flat stones standing on a high bare ridge on an unfamiliar world at first light, carefully built and weathered, with an empty valley beyond it and no track, no building and nobody in sight. Behind it the ridge continues into distance. Cold clear light, long shadow from the stack. Purposeful and unattended. Grey stone, pale gold light, cold blue distance.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the cairn sits on the summit; 1 sat below the ridge.
 
 - **`halvern-combine.jpg`** — *a permission outlives the power that granted it.*
   > A heavy old office safe standing open in an otherwise emptied room, its interior holding one squared stack of plain document wallets, every one shut and tied closed with tape, none of them open and no loose paper anywhere, and nothing else. The room around it is stripped: pale rectangles on the wall where things hung, dust, a bare floor. Flat daylight through an uncurtained window. The institution has gone and the paper has not. Dull green enamel, brass, dust.
+  - **Generated 7 October 2026 and held** (both variations carried a maker's plate, and then Dermot's rule of the same evening applied too): a 20th-century safe in a stripped room with nothing to say the century; re-prompt with one sealed plain housing or seam that does. Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 - **`hyperfold-yield-combine.jpg`** — *everything about it was lawful*, and it ended at Dock Seven.
   > An industrial rendering platform in open space, plain and well maintained and entirely intact, holding station off a distant station's lights. Ordinary working plant: tanks, transfer booms, docking cradles, all of it orderly. Nothing dramatic, nothing sinister, nothing damaged. Hard sunlight from one side. Cold grey plant, black space, distant warm station. Utterly unremarkable, which is the entry.
   - **Extra negative:** creature, tentacle, dragon, aperture, portal, rift, destruction, wreckage.
+  - **Generated 7 October 2026 and held**, variation 1 chosen on the sheet (no painted name; 2 carried one. Tank labels are too small to read at site size and are left.), then held at Dermot's two rules of the same evening: spacecraft: the platform's plant is plausible but undesigned; re-prompt from the page's process (what a rendering platform renders, and where the heat goes). Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 #### Locations (5)
 
 - **`planets/cirrane.jpg`** — *the only Federation member world with no surface.*
   > The upper atmosphere of a great gas giant seen from within it, banded cloud layers running away in enormous horizontal strata above and below, sunlight coming from one side through miles of haze, and no ground, no horizon and no solid object anywhere in frame. Vast, layered, entirely open. Ochre, cream, deep amber shadow.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the brighter bands; 1 was darker at the foot.
 
 - **`planets/corryn.jpg`** — the ringed gas giant *whose rings pulse and hum in patterns.*
   > A gas giant with a complex ring system seen from the night side of a nearby habitable world, low above the horizon and dominating the sky, its rings edge-lit and carrying faint patterned colour in blues, purples and greens along their length. In the foreground the dark silhouette of a hillside with spiral-form vegetation against the sky. Quiet, enormous, patterned. Deep blue-black, cold ring colour, black foreground.
   - **Patterned, never addressed.** No face in the rings, nothing that reads as a signal aimed at the viewer.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the ridge reads better; 2 had a second moon that the page does not.
 
 - **`planets/fliade.jpg`** — *biodiversity lives underground.*
   > The interior of an enormous deep cavern on a cold world, its floor and walls carrying dense, complex, entirely non-photosynthetic growth in pale and dark forms, lit only by the faint self-luminescence of the growth itself and by nothing else. No opening to the sky, no equipment, no figures. Cold, crowded, alive. Pale grey-green light, black rock, deep shadow.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the throat recedes; 2 was a wall.
 
 - **`planets/verdance.jpg`** — *four climate zones, each hosting a distinct native civilization.*
   > A high aerial view across a world where four utterly different landscapes meet within sight of one another — cold forest, open savanna, wetland, and high dry upland — the transitions clearly visible, each with its own distinct built settlement small in the distance. Clear midday light. Extraordinary range held in one frame. Full natural colour, wide horizon.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: no place-name lettering; 1 carried labels.
 
 - **`umbral-moon.jpg`** — *a small dark body at Earth–Moon L5, held by ordinary celestial mechanics.*
   > A small, dark, irregular airless body in space seen close and lit hard from one side, its far limb in complete blackness, the Earth and the Moon both visible together as small distant discs in the same frame at a great distance. Nothing built on it, nothing orbiting it, nothing strange about it. Cold, plain, unremarkable. Charcoal rock, hard white light, black.
   - **Nothing strange about the moon**, which is the fix that entry made: the flexure merely shares the address.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the pair is far and small; 1 had a bright galaxy behind.
 
 #### Universes (1)
 
 - **`universes/deadwater.jpg`** — *no corridor has ever formed there, and every journey between its stars is sublight.*
   > A deep-space starfield of ordinary appearance, seen wide, with a single small sublight vessel crossing it far off and plainly a very long way from anything. No corridor, no aperture, no distortion, no structure. The emptiness is the subject and it is entirely calm. Black, cold white points, one dim hull.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the dark shape is lower and plainer.
 
 #### Species (1)
 
 - **`ollune.jpg`** — *never stood on a surface, never lit a fire.*
   > Several large, delicate, entirely non-humanoid atmospheric beings holding position in the sunlit upper cloud of a gas giant, seen at middle distance, broad and translucent and built for buoyancy rather than for walking, with no legs, no feet and nothing that could grip. Banded cloud running away behind and below them. Serene, alien, at home. Amber and cream cloud, pale translucent forms.
   - **Extra negative:** wings, faces, eyes, limbs, hands, humanoid form, jellyfish cliché with trailing tentacles.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: three at different distances; 1 bunched them.
 
 #### Culture (3)
 
@@ -3095,9 +3152,11 @@ nested-sphere diagrams.
 
 - **`cill-aoife-devotion.jpg`** — the devotion *carried into space as living devotion by the Currach Fleet.* Filed under this name rather than `saint-aoife.jpg` — see the collision note above.
   > A small plain shrine niche set into the bulkhead of an old colony vessel's corridor: a shallow recess holding a few sprigs of blackthorn in water and a worn stone the size of a fist, the metal around it polished bright by generations of hands passing. Nothing ornate, no image, no figure, no candle. Ordinary corridor light. Devotion as an unbroken habit rather than an occasion. Dull alloy, wet green, one bright worn patch.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: no stencilled lettering; 1 carried a section code.
 
 - **`star-rangers-proverbs-and-maxims.jpg`** — *taught in the college, inadmissible in the log.*
   > A worn wooden lecture-room bench in a training college, seen close, its surface marked by decades of use, with a plain shut record book set squarely on it and nothing else. Cold daylight from a high window. Two registers, one bench. Warm scarred wood, grey light, dark binding.
+  - **Generated 7 October 2026 and held**, variation 2 chosen on the sheet (no lettering on the cover; 1 was a titled register with carved initials.), then held at Dermot's two rules of the same evening: a Victorian schoolroom; re-prompt with the Academy's own room. Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 #### Records (2)
 
@@ -3105,6 +3164,7 @@ nested-sphere diagrams.
   > A close view of a heavy hatch frame in a working orbital habitat, carrying a vertical stack of flat painted colour bands with simple geometric marks on them — chevrons, plain rings, short tally strokes, lozenges — crisply painted, hard-wearing, and containing no letters or numerals of any kind. The corridor beyond is out of focus. Utilitarian and oddly handsome. Saturated flat colour against grey alloy.
   - **The one prompt in the set whose subject cannot be moved.** Everywhere else the 19 August fix was to change the scene (see *the lettering ban cannot beat the scene* under Prompt craft); here the marks **are** the entry, so the scene stays and the handling has to differ. Two things do the work: the prompt describes the marks purely as **painted geometric shapes** and never as a marking system, a code or a standard — naming the function is what summons letters — and **nothing else in frame is markable**, the corridor beyond being thrown out of focus.
   - **Check at 4× without fail**, and if glyphs appear anyway the next move is to crop tighter onto a single band rather than to add negatives. A band of flat colour with one chevron on it has nowhere to put a word.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the column reads clean against the wheel hatch; 2 had a person and more clutter. The cable density is the generator's and stays.
 
 - **`timekeeping-and-the-common-record.jpg`** — *time distributed by courier in a civilisation without faster-than-light communication.*
   > A small hardened transit case standing alone on a plain bench in a ship's compartment, closed and clamped down and secured with a strap, plainly precious and plainly unremarkable to look at. Cool even light, nothing else in frame. What is inside is a clock, and the picture does not show it. Matte case, dull alloy, grey bench.
@@ -3113,13 +3173,16 @@ nested-sphere diagrams.
 
 - **`formation-of-star-rangers.jpg`** — *the moment the Military Space Command's institutional failure became irreversible.*
   > A long negotiating table in a plain hall, seen from one end, strewn with the aftermath of many days: pushed-back chairs at irregular angles, cups and glasses left where they stood, one chair overturned and not righted. Nothing on the table but the cups — no paper, no folder, no document anywhere in frame. The room empty and the work finished. Grey late light through tall windows. Exhausted and consequential. Cool grey, pale wood, cold daylight.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: cool light and bare walls; 2 had signs and a notice.
 
 - **`the-generation-ark-era.jpg`** — *the odds of arriving were the odds of an early Norse or Irish open-boat ocean crossing.*
   > An enormous, plain, slow sublight vessel crossing deep space, seen small in a very wide frame, its long hull built for endurance rather than speed and showing the accumulated repairs of a long passage. No destination visible, no star close. Vast emptiness around it and the ship entirely alone. Cold white points, dull hull, black.
+  - **Generated 7 October 2026 and held**, variation 2 chosen on the sheet (no readable name; 1 carried one. A faint mark on the hull is below site size.), then held at Dermot's two rules of the same evening: spacecraft: the hull shows no spin structure and no radiators; re-prompt from the record's own principles (a coasting ark spins for gravity, its axis along its line of travel; nothing is lit that need not be). Nothing filed; the files stay in `image-out/` until the re-prompt runs.
 
 - **`what-nobody-certifies.jpg`** — hulls, routes, people and minds are certified, and *nothing at all certifies a permission to be somewhere.*
   > A plain office wall carrying five identical shallow mounting niches in a level row. Four hold a small stamped metal seal hanging on a short cord — plain discs bearing only a struck geometric device, no writing of any kind. The fifth niche is empty and holds nothing at all. Flat even daylight, nothing else in frame. Bureaucratic, deliberate, quietly pointed. Pale wall, dull metal, one empty recess.
   - **Seals rather than certificates — rewritten 19 August.** The first version asked for *four framed certificates, each one blank of any writing*, the exact self-defeating shape #415 disproved: a certificate's purpose is to carry writing, so the model draws the writing. A struck metal seal keeps the whole idea — four things certified, a fifth with nothing — and removes the writing surface instead of arguing with it.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the empty cord is the page; 2 left the fifth niche bare.
 
 #### Entities (1)
 
@@ -3128,6 +3191,7 @@ nested-sphere diagrams.
   - **Extra negative:** creature, monster, teeth, claws, blood, gore, corpse, horror, body, violence, glowing eyes, shadow figure.
   - **Superseded — use Open work 6's brief instead, 19 August.** That section already carried a prompt for this file and it is the better one: *a vacated habitat compartment, one chair turned away from the open door, a personal effect left exactly where someone set it down.* Same discipline, held indoors and in-setting, where the clearing above is neither. The frame above is kept only as a second option if the interior refuses to read.
   - **Hint at the dark fact rather than depicting it**, exactly as the tone line requires. Nothing in frame is frightening; what is frightening is what the frame implies, and that is the setting's whole register.
+  - **Delivered 7 October 2026**, variation 2 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: colder light; 1 was warmer than the page.
 
 #### Timeline Notes (1)
 
@@ -3145,6 +3209,7 @@ jellyfish). Beyond those, the set's own risk is sameness: a great many of these
 are *a quiet room with one object in it*, which is the right answer individually
 and would be a monotonous gallery. **Judge them as a page of thumbnails, not one
 at a time**, and re-roll for variety rather than for quality where they cluster.
+  - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the even row against the wall; 2 scattered them in a hall.
 
 #### Two delivered portraits versus the bureau uniform (19 August 2026)
 

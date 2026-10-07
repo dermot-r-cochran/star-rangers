@@ -4,6 +4,8 @@ title: "Orbital Compute Complexes"
 category: "Technology"
 tags: [orbital-compute, data-centres, quantum-computing, technology, infrastructure, earth, mars, aspenar, orbital-habitat]
 description: "The vast orbital supercomputer and data-centre complexes above Earth, Mars, Aspenar and other settled worlds — classical machines without exception, since no quantum computer flies — linked by shielded telecommunications to the subterranean quantum compute centres on each planet."
+image: "orbital-compute-complexes.jpg"
+image_alt: "Rank upon rank of white radiator panels on a dark truss stretching away above the curve of a planet at night, city lights faint on the surface below"
 plain: "The big computer centres of settled space float in orbit, where sunlight for power is constant and there is room to grow. None of them contains a quantum computer — those only work deep underground in sealed caves, so every planet keeps its quantum machines below ground and connects them to the orbital centres with carefully shielded communication links. The orbital centres do nearly all the everyday computing; the underground vaults handle only the few special problems quantum machines are good at."
 ---
 

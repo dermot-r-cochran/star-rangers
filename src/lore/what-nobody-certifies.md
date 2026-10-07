@@ -4,6 +4,8 @@ title: "What Nobody Certifies"
 category: "History"
 tags: [certification, charter, jurisdiction, star-rangers, safety-corps, navigation-corps, invitation, corryn, fliade, history]
 description: "This record certifies hulls, routes, people and minds — and nothing at all certifies a permission to be somewhere. The gap is not an oversight; it is the shape of what the Rangers were forbidden to become."
+image: "what-nobody-certifies.jpg"
+image_alt: "Five shallow niches in a pale wall, four holding a plain metal disc on a cord and the fifth holding only an empty cord"
 plain: "The Star Rangers and their sister corps certify a great many things: ships, fold routes, qualified people, lawful machine minds. Nobody certifies a licence to settle somewhere. There is no standard for it, no body that issues one, and no review. That is not an accident — a body able to review a settlement's right to be there would need the power to enter and to compel, and the Rangers were deliberately forbidden both when their charter was written."
 ---
 

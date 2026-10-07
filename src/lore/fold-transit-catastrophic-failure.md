@@ -4,6 +4,8 @@ title: "Catastrophic Failure in Fold Transit"
 category: "Technology"
 tags: [fold-drive, fold-transit, safety-corps, certification, standards, the-institute, wrath-of-the-dragons, boundary, loss]
 description: "Why vessels are lost in and around fold transit, why the losses cluster on hulls certified to somebody else's standard, and the three accounts settled space gives of the same wreckage."
+image: "fold-transit-catastrophic-failure.jpg"
+image_alt: "A single slab of dark metal on a scarred workbench in low light, one edge sheared clean and bright, the rest dull"
 ---
 
 Nothing has ever been lost inside a fold. Things are lost at the two ends of one, which is a different problem, a duller one, and — the Safety Corps would insist on this — a solvable one.

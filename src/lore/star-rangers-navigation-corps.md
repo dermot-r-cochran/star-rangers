@@ -4,6 +4,8 @@ title: "The Star Rangers Navigation Corps"
 category: "Institutions"
 tags: [star-rangers, navigation-corps, drift-routes, certification, fold-transit, survey-corps, lagrange, institutions]
 description: "The corps that certifies routes rather than hulls, why route certificates expire when hull certificates do not, and why the body that measures a corridor's drift cannot be the body that clears it."
+image: "star-rangers-navigation-corps.jpg"
+image_alt: "A small plain cylindrical buoy with an antenna mast tumbling slowly against a dense starfield, unlit and unmarked"
 ---
 
 A corridor that was safe last year is not a corridor that is safe. The Navigation Corps exists because that sentence costs money and nobody has found a way to stop it being true.
