@@ -17,6 +17,7 @@ const tissadelle = {
     image: "tissadelle-shepherd.jpg",
     image_alt: "Header alt",
     image_season: 5,
+    image_caption: "Season 5 — Line Captain",
     gallery: [
       { image: "season-1-cadet.jpg", caption: "Season 1 — Cadet", season: 1, image_alt: "Cadet alt" },
       { image: "field-01.jpg" } // uncaptioned, unkeyed: never on a season page
@@ -37,7 +38,7 @@ test("a header portrait keyed with image_season appears on that season only", ()
     url: "/characters/tissadelle-shepherd/",
     src: "/star-rangers/images/characters/tissadelle-shepherd.jpg",
     alt: "Header alt",
-    caption: null
+    caption: "Season 5 — Line Captain"
   }]);
   assert.deepEqual(seasonPortraits([tissadelle, aldera], 3), []);
 });
@@ -90,6 +91,11 @@ test("order is by character id, then header before gallery, whatever order the c
   const a = { url: "/characters/a/", data: { id: "a", title: "A", image: "a.jpg", image_season: 2 } };
   const srcs = seasonPortraits([b, a], 2).map((p) => p.src.replace("/star-rangers/images/characters/", ""));
   assert.deepEqual(srcs, ["a.jpg", "b.jpg", "b/a.jpg", "b/z.jpg"]);
+});
+
+test("a header portrait with no image_caption carries a null caption, not the role or anything derived", () => {
+  const c = { url: "/characters/c/", data: { id: "c", title: "Cee", role: "Line Captain", image: "c.jpg", image_season: 2 } };
+  assert.equal(seasonPortraits([c], 2)[0].caption, null);
 });
 
 test("a frame with no alt falls back to the character's title", () => {

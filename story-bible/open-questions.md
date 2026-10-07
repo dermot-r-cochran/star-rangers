@@ -2170,10 +2170,13 @@ characters*). His answer, verbatim: **"1 Yes 2 Maybe 3 Unknown"**.
   `src/_includes/season-portraits.njk`, included on all fourteen season pages
   and rendering on the two with a keyed frame. The chapter layout was not
   touched: a chapter already carries its hero image and its POV buttons, and
-  a portrait beside each chapter was more than the Maybe asked. Still open
+  a portrait beside each chapter was more than the Maybe asked. ~~Still open
   under this shape: whether the strip should name a standing under a header
-  frame, which carries no caption (Season 5 shows her name alone today — a
-  `caption` on the header would be a third field, not added on a guess).
+  frame~~ — **ruled the same evening** (*Add a caption field for the header
+  portrait too, if needed*): `image_caption:` on the character gives the
+  header frame its standing, worded as a gallery item's caption is, shown
+  under the portrait on her page and on the season page; hers reads *Season 5
+  — Line Captain*. Nothing under shape 2 is open now.
 - **3. What she looks like in Seasons 6–7** — *Unknown*, his word. Open, and
   his: no brief exists for her later years, and the terminus register
   (`intake-2026-08-27.md`) is the only ground. **Do not generate a Season 6–7

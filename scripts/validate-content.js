@@ -393,6 +393,9 @@ function checkCharacterGallery(data, index, seasons) {
   if (!isBlank(data.image_season) && isBlank(data.image)) {
     problems.push("image_season is set but the page has no image: to key");
   }
+  if (!isBlank(data.image_caption) && isBlank(data.image)) {
+    problems.push("image_caption is set but the page has no image: to caption");
+  }
   if (data.gallery === undefined || data.gallery === null) return problems;
   if (!Array.isArray(data.gallery)) return problems.concat("gallery must be a list of {image, caption?, image_alt?, season?} items");
   data.gallery.forEach((item, i) => {

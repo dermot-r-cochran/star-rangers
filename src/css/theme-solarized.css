@@ -1626,6 +1626,7 @@ a:focus {
   .character-header__inner { flex-direction: column; }
   .character-header__text { width: 100%; }
   .character-portrait { max-width: 100%; }
+  .character-portrait-figure { max-width: 100%; }
 }
 
 /* --- Focus Visible --- */
@@ -1762,6 +1763,23 @@ a:focus {
   border: 1px solid var(--color-border);
   flex-shrink: 0;
   margin-bottom: var(--spacing-md);
+}
+/* The header portrait with its standing under it, when the page gives one
+   (`image_caption`, 2026-10-07). The figure takes the portrait's place in the
+   header flex row, so the image keeps every rule above. */
+.character-portrait-figure {
+  margin: 0 0 var(--spacing-md);
+  width: 100%;
+  max-width: 420px;
+  flex-shrink: 0;
+}
+.character-portrait-figure .character-portrait {
+  margin-bottom: var(--spacing-xs);
+}
+.character-portrait__caption {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  text-align: center;
 }
 .character-name {
   font-size: 2rem;

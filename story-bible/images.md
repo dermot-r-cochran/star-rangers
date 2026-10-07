@@ -247,7 +247,9 @@ both places, since the validator fails byte-identical duplicates. **Season
 portraits surface on the season pages too** (taken up 7 October 2026 at
 Dermot's *take up the season portraits open question*, the *2 Maybe* of
 5 September): a frame is keyed to a season on the character page — `image_season:`
-on the header portrait, `season:` on a gallery item — and the season's index
+on the header portrait (with `image_caption:` for its standing, worded as a
+gallery item's caption is, since his *Add a caption field for the header
+portrait too* the same evening), `season:` on a gallery item — and the season's index
 page shows every keyed frame the build includes under *Portraits from this
 season*, with the character's name and the item's authored caption
 (`lib/season-portraits.js`, `src/_includes/season-portraits.njk`). Nothing is
