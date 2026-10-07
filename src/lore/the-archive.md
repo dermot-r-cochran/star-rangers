@@ -4,6 +4,8 @@ title: "The Archive"
 category: "Institutions"
 tags: [archive, survey-archive, records, verification, institutions, threshold-station, sen]
 description: "The record itself, and the institution that keeps it: older and larger than the Star Rangers, owned by no corps, holding its documents where the world keeps them, admitting every claim at the door and believing none of them there, marking where its knowledge stops rather than guessing across the gap, and keeping its own errors on the shelf beside their corrections."
+image: "the-archive.jpg"
+image_alt: "Designed cover for The Archive: concentric pale parchment rings in a soft tinted glow on a dark warm background, a shelf that appends and never overwrites"
 plain: "The Archive is the record of everything the Star Rangers' world knows about itself, and the people who keep it. It is older and bigger than the Star Rangers, and nobody owns it. It writes down what it is told, says how sure it is, and marks the places where it does not know instead of guessing."
 revealed_by: s05e02c02
 ---

@@ -4,6 +4,8 @@ title: "Weather on Other Worlds"
 category: "Physics"
 tags: [weather, meteorology, planets, survey-corps, physics, atmosphere, climate]
 description: "The record's doctrine on alien and remote-world weather: the same physics run on different numbers, forecast only by whoever is standing under the sky in question — and no storm anywhere is sent."
+image: "weather-on-other-worlds.jpg"
+image_alt: "Three acacia trees standing on dry savannah grass under a dark storm sky, in flat grey light with the rain not yet arrived; one of Dermot's own frames, standing in for weather on any world"
 ---
 
 The Survey Corps does not invent new storm-severity classifications happily, and the [Kingdom of the Five Islands](/star-rangers/lore/planets/kingdom-of-the-five-islands/) made it do so anyway. The scales the survey arrived with were calibrated on Terran hurricanes; the archipelago's permanent storm belts sat above the top of them, and a scale a world's ordinary weather exceeds is not a scale. The new classification was filed with a covering note whose first sentence survey meteorologists still quote: *the sky was not being dramatic; our instrument was being provincial.*
