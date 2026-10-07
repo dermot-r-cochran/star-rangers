@@ -4,6 +4,8 @@ title: "The Star Rangers Music Corps"
 category: "Institutions"
 tags: [star-rangers, music-corps, xenomusicology, music, corps, institutions, academy, musician-specialization, slipwave, tissadelle, chthonari, ovruhn, sentinel]
 description: "The specialist corps for music and whatever stands in its place: the college that trains the Corps' musicians, and the study of how the peoples the Rangers meet understand music, or its equivalent, in their cultures and in their bodies."
+image: "star-rangers-music-corps.jpg"
+image_alt: "Designed cover for the Star Rangers Music Corps: five brass points in an arc in a soft tinted glow on a dark plum background, like notes on a stave"
 ---
 
 The Corps has never commissioned a song, and it keeps a corps for music. Both facts are true, and the second explains the first.

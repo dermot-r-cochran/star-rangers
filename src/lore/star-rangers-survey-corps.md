@@ -4,6 +4,8 @@ title: "The Star Rangers Survey Corps"
 category: "Institutions"
 tags: [star-rangers, survey-corps, branches, archive, planetology, meteorology, ecology, institutions]
 description: "The Star Rangers Survey Corps and its branches — the Archive, Planetology, Meteorology, Ecology, and the Xenolinguists — the field half of the record: the Corps that collects what everyone else interprets."
+image: "star-rangers-survey-corps.jpg"
+image_alt: "Designed cover for the Star Rangers Survey Corps: three nested pale green arcs in a soft tinted glow on a dark slate-green background, the corps' branches under one standard"
 ---
 
 The Survey Corps collects. That sentence is quoted on more pages of this record than any other institutional fact in it, usually by way of explaining what somebody *else* does — [the Science Corps explains what was collected](/star-rangers/lore/star-rangers-science-corps/), the [Safety Corps](/star-rangers/lore/star-rangers-safety-corps/) investigates what went wrong with it, a station manager decides whether an anomaly in it goes upstream. This page is about the collecting.

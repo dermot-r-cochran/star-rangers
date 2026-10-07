@@ -4,6 +4,8 @@ title: "The Thin Inheritance"
 category: "Physics"
 tags: [soils, agriculture, physics, planets, erosion, terraces, fertility]
 description: "Soils on habitable worlds: the one substance that needs stone, water, life and time together — an inch a century, eaten daily — and the half-metre every civilisation on land actually lives from."
+image: "the-thin-inheritance.jpg"
+image_alt: "A dense cluster of pale yellow fungi growing from a fallen branch among moss and brown leaf litter on a woodland floor; one of Dermot's own frames, the soil being made"
 ---
 
 Everything this set has covered meets in the top half-metre of the ground. Soil is stone ground fine by [mountains losing their argument](/star-rangers/lore/stone-fire-and-ice/), wetted by [the water ledger](/star-rangers/lore/rivers-old-lakes-young/), and worked through with the dead of [every forest and grassland](/star-rangers/lore/the-forest-is-waiting/) that ever stood on it — the only substance in the record that requires rock, water, life and time *together*, and the slowest-made infrastructure any world has. The usual rate is an inch a century. The usual rate of loss, where anyone is careless, is faster.
