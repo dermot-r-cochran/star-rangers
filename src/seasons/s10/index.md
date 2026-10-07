@@ -22,6 +22,7 @@ permalink: /seasons/s10/
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (10 | threadForSeason).id }}/">{{ (10 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "10" %}
+{% include "season-portraits.njk" %}
 {% set hasSeasonChapters = false %}
 {% set currentEpisode = "" %}
 {% for chapter in collections.chapters %}

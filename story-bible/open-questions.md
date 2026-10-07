@@ -2150,7 +2150,7 @@ shape; the Unfounded-pattern and unpreserved-remainder shapes retired.
 Still open: whether it ever leaves (no recommendation was put), the slot,
 which waits on the terminus's, and the members' names and count.
 
-## Tissadelle's portraits — `intake-2026-09-05.md`, late evening — PARTLY RULED 5 September 2026
+## Tissadelle's portraits — `intake-2026-09-05.md`, late evening — PARTLY RULED 5 September 2026; shape 2 TAKEN UP 7 October 2026
 
 Three shapes put after the direction *Tissadelle can have two or more
 portraits for each season* (grounded: *one of the principal major
@@ -2160,11 +2160,20 @@ characters*). His answer, verbatim: **"1 Yes 2 Maybe 3 Unknown"**.
   the same evening: header swapped, the coverall portrait retired to
   `reference-art/tissadelle-shepherd-header-retired-2026-09-05.jpg`, the
   gallery keeping *Season 1 — Cadet*.
-- **2. Season portraits surfaced on the season pages too** — *Maybe*. Open.
-  A larger engine change (a season-keyed image on the character, read by the
-  season and chapter layouts); nothing on the site asks for it yet. Don't
-  build it on a maybe; raise it again when a season page would actually show
-  one.
+- ~~**2. Season portraits surfaced on the season pages too** — *Maybe*~~ —
+  **taken up 7 October 2026** at Dermot's direction (*Leave it, but take up
+  the season portraits open question*, declining an image gallery for the
+  site the same evening — `intake-2026-10-07.md`, last section). Realized as
+  the smaller of the two shapes the note foresaw: a season-keyed image on the
+  character (`image_season:` for the header, `season:` on a gallery item),
+  read by the **season index pages** only — `lib/season-portraits.js`,
+  `src/_includes/season-portraits.njk`, included on all fourteen season pages
+  and rendering on the two with a keyed frame. The chapter layout was not
+  touched: a chapter already carries its hero image and its POV buttons, and
+  a portrait beside each chapter was more than the Maybe asked. Still open
+  under this shape: whether the strip should name a standing under a header
+  frame, which carries no caption (Season 5 shows her name alone today — a
+  `caption` on the header would be a third field, not added on a guess).
 - **3. What she looks like in Seasons 6–7** — *Unknown*, his word. Open, and
   his: no brief exists for her later years, and the terminus register
   (`intake-2026-08-27.md`) is the only ground. **Do not generate a Season 6–7

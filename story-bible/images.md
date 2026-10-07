@@ -243,9 +243,18 @@ and, so far, the only page with one. **The header follows the page's latest
 standing** — ruled the same evening (*1 Yes*): her header is now the Season 5
 Line Captain frame, the old coverall portrait retired to `reference-art/`, and
 the gallery holds the seasons the header does not show. A frame is never in
-both places, since the validator fails byte-identical duplicates. Surfacing
-season portraits on season pages (*2 Maybe*) and her look in Seasons 6–7
-(*3 Unknown*) are in `open-questions.md`.
+both places, since the validator fails byte-identical duplicates. **Season
+portraits surface on the season pages too** (taken up 7 October 2026 at
+Dermot's *take up the season portraits open question*, the *2 Maybe* of
+5 September): a frame is keyed to a season on the character page — `image_season:`
+on the header portrait, `season:` on a gallery item — and the season's index
+page shows every keyed frame the build includes under *Portraits from this
+season*, with the character's name and the item's authored caption
+(`lib/season-portraits.js`, `src/_includes/season-portraits.njk`). Nothing is
+inferred from captions or casts: a frame is on a season page because it was
+keyed there, and a placeholder card never is. Her Season 5 header and Season 1
+gallery frame are the two keyed today. Her look in Seasons 6–7 (*3 Unknown*)
+stays in `open-questions.md`.
 
 **AIs get portraits like everyone else** (12 August 2026, superseding the older
 rule that they got an abstract emblem or interface instead of a face — that rule

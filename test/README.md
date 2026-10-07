@@ -18,5 +18,6 @@
 | `giscus-boards.test.js` | The two-level comments-board model |
 | `check-contrast.test.js` | The contrast checker's palette parser under CRLF |
 | `image-prompt-references.test.js` | The `References:` line `image-prompts.js` reads from `images.md` |
+| `season-portraits.test.js` | The season pages' portrait strip: a frame surfaces only where its author keyed it, the strip is built from the collection it is handed, placeholders drop, order is deterministic |
 
 The tests use the real registries (`lib/storyline-threads.js`, `lib/editions.js`), not fixtures: a registry change that breaks an expectation should be noticed, not absorbed. A bug fix lands with its regression test.
