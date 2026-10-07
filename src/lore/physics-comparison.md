@@ -98,7 +98,7 @@ Any given [Concordant](/star-rangers/glossary/concordant/) is one coherence zone
 ## 5. Energy and Entropy
 
 ### Real Cosmos
-- Entropy increases monotonically, with no external regulation observed.
+- Entropy increases monotonically, with no external regulation scientifically verified.
 - Heat death is the long-term terminal state predicted by current models.
 
 ### Fictional Cosmos
@@ -160,13 +160,13 @@ Information has a third metaphysical channel. Standard instruments cannot detect
 
 ### Real Cosmos
 - Disasters follow physical law without exception.
-- No external intervention has ever been observed.
+- No external intervention has ever been scientifically verified. Interventions are reported, and none has survived verification.
 
 ### Fictional Cosmos
 - Disasters unfold naturally and are not suppressed by default.
 - Levril intervention occurs only when an event risks:
   - [Concordant](/star-rangers/glossary/concordant/)-level structural collapse.
-  - A premature Cascade-hierarchy ending.
+  - A runaway entropy spiral at the Etheric layer — one that would carry a Concordant toward its [Entropy Horizon](/star-rangers/glossary/entropy-horizon/) ahead of its own lifecycle, the failure the maintenance in §5 exists to prevent. The Cascade itself has no ending to bring forward: its order is fixed, and its upper strata are eternal outright.
   - A violation of Celestial or Telearch enforcement law.
 - Tragedies below that threshold proceed without supernatural rescue.
 
