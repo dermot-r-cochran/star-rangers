@@ -12,6 +12,7 @@ tags: [human, star-rangers, novice, cadet, music-corps, xenomusicology, line-cap
 description: "Star Ranger cadet at the start of Season 1; earns the rank of Line Captain by Season 5 — by way of rotations through almost every branch of every specialist corps, a generalist's route that ends, deliberately, on the command path."
 image: tissadelle-shepherd.jpg
 image_season: 5
+image_caption: "Season 5 — Line Captain"
 image_alt: "Tissadelle Shepherd in her early thirties, red hair tied back and blue-green eyes, in the dark slate-grey Ranger field uniform with a stand collar, a small square metal rank tab marked with three concentric rings on her chest, a plain diamond patch and a short row of service ribbons beside it, working at a sealed wall unit with a small window in a pale panelled compartment, her attention on the unit and not the viewer"
 known_codex: [star-rangers-anthem, ballad-of-the-stars]
 gallery:
