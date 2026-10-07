@@ -16,4 +16,8 @@ JPEG at quality about 85. Each layout hardcodes which of these directories it re
 
 **Placeholders.** A PORTRAIT PENDING or ILLUSTRATION PENDING card is stamped in its JPEG COM segment (`scripts/mark-placeholder.js`, detected by `lib/placeholder-marker.js`), so the homepage slideshow skips it and the image queue counts it as unfinished. The tools that make cards are in `scripts/` (`make-codex-cover.ps1`, `make-emblem-card.ps1`, `make-placeholder-card.ps1`, and `make-cards.js` for non-Windows sessions).
 
+**Finish.** A generated photograph is finished toward Dermot's own photographs on the way in (`scripts/photo-finish.py`, run by `import-image.ps1` at strength 1 by default, since 2026-10-07): black floor, saturation eased, a light optical softening, grain to the measured shortfall against `scripts/photo-profile.json`. Cards, emblems and his own plates take `-Finish 0`; the `codex/` path does so by itself. Rule and reasons in `story-bible/images.md`, *Finish*.
+
+**Which pages carry an image** (Dermot, 2026-10-07): a character with a body gets a portrait and a mind or an instrument signature does not; a place, a people, a thing or a sky gets an illustration, an institution an emblem card, and an abstract concept, doctrine or law none. A page without an image is complete.
+
 Tone applies to images as to prose: unsettling, never horror.

@@ -30,6 +30,38 @@ line there when something here becomes a decision rather than a task.
 | `image_alt` | must describe what the file *actually shows* |
 | Technical lore diagrams | **inline SVG in the page body**, drawn to the entry's own numbers (see below) |
 
+**Finish: a generated photograph is finished toward Dermot's own** (Dermot,
+7 October 2026, verbatim: *"the base image generator has inherent limitations
+regardless of the prompt itself so post-processing is needed or some way to
+align it with the tone and style of real photographs, especially my own
+photos. The image generator looks like it was training on stock photos"*; and
+*"I don't mind if the generated image looks like an imperfect photograph taken
+in the future. That would make it feel more authentic in some ways"*). Measured
+the same day against the 217 photographs on his site, the repository's images
+crushed their blacks (1st percentile 7 against 16), carried half the grain and
+had half again as much smooth gradient area. `scripts/photo-finish.py` closes
+that gap on the way in, by the shortfall only: a black floor, saturation eased
+downward, a light optical softening, grain to the site's level. `import-image.ps1`
+runs it by default at **strength 1**, the measured match (his ruling, same day:
+*"Strength 1 as default please"*); strength 2 adds a highlight roll-off, a
+vignette and a colour fringe and is used per image and on purpose; strength 0
+is for designed cards, emblem cards and his own plates, which are photographs
+already, and the `codex/` path takes it automatically. The target is
+`scripts/photo-profile.json`, rebuilt from the sibling portfolio checkout with
+`--profile-from`. `--measure` prints a candidate's figures beside the profile,
+for the pick. Images filed before 7 October 2026 are unfinished; re-finishing
+them is a decision of his, not a default.
+
+**Which pages carry an image** (Dermot, 7 October 2026, verbatim: *"Characters
+with no physical body would not needed an image. Neither would abstract
+concepts as lore."*): a character page gets a portrait when the character has
+a body, and none when the record knows it only as a mind, an instrument
+signature or a name; a lore entry gets an illustration when it is a place, a
+people, a thing or a sky, an emblem card when it is an institution, and none
+when it is an abstract concept, a doctrine or a piece of law (a technical page
+may still carry an inline diagram by the rule below). A page without an image
+is complete, not pending.
+
 **Diagrams on technical lore pages** (Dermot, 29 September 2026, verbatim:
 *"Technical lore pages may have technical or scientific diagrams similar to
 the style of the Applied Stats tutorial"* — `intake-2026-09-29.md`). A
@@ -3801,3 +3833,45 @@ upscaled to 1600×900, with the centre picked so that the CSS band lands on the
 lettering (verified by simulating the 1100×320 crop before committing, not
 after). A naive centre crop put the nameplate and the journal's title outside
 the visible band on both. Worth repeating for any portrait-orientation source.
+
+### Intake 2026-10-07 — the finish, and which pages carry an image
+
+Dermot's question the same day: *"check for new images needed or missing
+images on the star-rangers repo"*, then the rule above on which pages carry
+one. Counted from `main` at 709eea7a: 52 lore entries pending in this file's
+manifest (prompts written, generation the bottleneck); 23 lore pages and 12
+character pages with neither an image nor an entry here; two stamped
+placeholder cards still live (the About the Author and Characters heroes); no
+page references a file that is absent. Read by his rule:
+
+**Lore pages that get an image** (prompts to write; photo-first where a camera
+could have taken it, from `own-photography.json`): *Greenward* and *The Guest
+Ring* (habitats, generated); *New Cotswolds* and *Winterbourne* (settled
+country, his own landscape frames as plates); *Quern* (a planet, generated);
+*The Ilveth* (a people, generated); *The Tally* (a people and their ark,
+generated, or an emblem card); *The Eden Bureau Uniform* (a garment on a
+figure at work, generated); *The Honest Dark* (a night sky, his own frame);
+*The Thin Inheritance* (soil, his own close frame); *Weather on Other Worlds*
+(a sky, his own storm frame); *Where the Weather Stops* (a cave, his own frame
+if one exists, else none); *The Star Rangers Music Corps*, *The Star Rangers
+Survey Corps* and *The Archive* (institutions, emblem cards by
+`make-emblem-card.ps1`).
+
+**Lore pages that stay bare** (abstract concepts, doctrine, law): *Climate
+Repair and the Origin of Terraforming*, *Commissioned Standing*, *Habitable,
+for Whom*, *Habitats and the Worlds Beneath Them*, *Performers and Generated
+Work*, *The Enrolled Text*, *The Ladder in Other Tongues*, *The Shape of a
+Life*. *Habitable, for Whom* is a Physics page and may take an inline diagram.
+
+**Characters that get a portrait** (a body the record describes): Ariel Pinya,
+Bram Tollick, Ilsabet Corren, Ingrid Halvorsen, Odile Ferrant, Oriel Fenwick,
+Tomas Brennock, Wren of Knight Pellam (human); Toval (Krenyi, Syra's portrait
+as the kind's reference); Stone-First and Went-Round (Pandoid, Teddy's
+portrait as the kind's reference, *more like a panda*).
+
+**Character that stays bare:** The Kept Line, a Dragon known only from
+instrument logs.
+
+The entries for the 26 are to be written here in the ordinary way, and the
+generation run needs the desktop key. Generation is a spend, so the run waits
+on his word while the October freeze holds.
