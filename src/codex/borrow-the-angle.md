@@ -6,6 +6,8 @@ library: "Eden Space Habitat Collections"
 tags: [slipwave, videocast, xenomusicology, dragonflies, tissadelle-shepherd, perrin-ashgrove, marlow-calloway, eden, star-rangers, music, culture]
 description: "Surviving videocast and captioned lines of 'Borrow the Angle,' a Slipwave recording about reading a pattern by time and touch and listening, with pictures laid over it later — the nearest thing in the band's catalogue to a statement of method."
 author: "Slipwave (lineup not stated on the recording)"
+image: "borrow-the-angle.jpg"
+image_alt: "Designed cover for 'Borrow the Angle': the category CULTURAL RECORD in spaced capitals, a faint motif of ruled lines, and below a rule the title in pale serif capitals over Eden Space Habitat Collections, on a dark blue-black gradient, in the codex's plain card style."
 institution: "Eden Space Habitat civilian arts circuit — no formal Star Rangers commission"
 location: "Habitat-circuit audio stock, Eden Space Habitat; one surviving videocast, pictures uncredited"
 ---
