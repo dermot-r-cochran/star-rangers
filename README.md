@@ -12,7 +12,7 @@ There is no magic in this record. What looks supernatural — the thing Elvira h
 
 The chronological spine of the series belongs to Tissadelle Shepherd. As a newly-made Principal at the Halyx Relay Station she hears musical structure in an EM pulse that three centuries of classifiers filed as an automated hazard beacon — and learns that getting a reclassification approved is the harder problem. As a Line Captain she carries a data exchange home to Tír na nÓg and finds the boundary she was trained to name waiting in her mother's back hollow, on a planet where the Star Rangers hold no jurisdiction at all. Under the 2723 Charter the Rangers act only by invitation, for the matter the invitation covers — so every season turns on the same pressure: keeping the record true inside institutions that own the ground, the archives, and the right to refuse. Her arc runs from those first postings to what the record calls the Last Stand, and to what the Last Stand leaves behind.
 
-Around that spine run the other storylines. The Founding Era looks back to the years under Military Space Command rule that made the Star Rangers both necessary and possible — before the Charter, and before Threshold's drift had a name. Undercover Pets follows the Undercover Pets Detective Agency and the animals around it: Agent Barsik's working file, trainee Bubochka's exercises, and the specimen the record still cannot classify. Orbital Five-O rides with Commander Kai Larsen's Governor's Investigative Task Force, closing the jurisdictional gap none of the five self-governing Compact habitats could close alone.
+Around that spine run the other storylines. The Founding Era looks back to the years under Military Space Command rule that made the Star Rangers both necessary and possible — before the Charter, and before Threshold's drift had a name. Undercover Pets follows the Undercover Pets Detective Agency and the animals around it: Agent Barsik's working file, trainee Bubochka's exercises, and the specimen the record still cannot classify. Orbital Five-O rides with Commander Kai Larsen's Governor's Investigative Task Force, closing the jurisdictional gap none of the five self-governing Compact habitats could close alone. Young Star Rangers takes the Corps from the bottom rung, a raw Deputy's first year. Below the Roof goes down into Fliade's deep networks with the Pandoids, a people who keep their record by speaking it, written for the child reader. Five Islands reads a human kingdom from inside its own three records, the chronicle told, the Accounting written, and the Castle's people written in light.
 
 The story moves across stations, causeways, archives, and boundary zones in the long afterlight of empire, and every chapter can be reread from another witness's point of view. As the viewpoints converge, the question sharpens: who gets to name the truth when history itself has started to slip?
 
@@ -34,9 +34,15 @@ Grouped by storyline thread — see [Site sections](#site-sections) and [`lib/st
 | Thread | Seasons | Chapters | What it is |
 |---|---|---|---|
 | **Founding Era** | 0 | 6 | The years that made the Star Rangers both necessary and possible, under the last stretch of Military Space Command rule — before the Charter, and before Threshold Station's drift had a name. |
-| **Tissadelle Shepherd's Arc** | 1, 3, 5–7 | 27 | The chronological spine of the published series — Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind. |
-| **Undercover Pets** | 2 | 9 | The Undercover Pets Detective Agency and the animals around it — Agent Barsik's working file, trainee Bubochka's exercises, and the specimen the record still cannot classify. |
-| **Orbital Five-O** | 4 | 1 | The Governor's Investigative Task Force — Commander Kai Larsen closing the jurisdictional gap none of the five self-governing Compact habitats could close alone. |
+| **Tissadelle Shepherd's Arc** | 1, 3, 5–7 | 36 | The chronological spine of the published series — Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind. |
+| **Undercover Pets** | 2 | 15 | The Undercover Pets Detective Agency and the animals around it — Agent Barsik's working file, trainee Bubochka's exercises, and the specimen the record still cannot classify. |
+| **Orbital Five-O** | 4, 10 | 9 | The Governor's Investigative Task Force — Commander Kai Larsen closing the jurisdictional gap none of the five self-governing Compact habitats could close alone. |
+| **Young Star Rangers** | 9 | 5 | The Corps from the bottom rung — Cadets and Deputies in their first field postings, and the year in which a raw Deputy learns what the rank means. |
+| **Below the Roof** | 11, 12 | 17 | The Pandoids of Fliade from inside the deep networks — a people who keep their record by speaking it, met on their own ground rather than the survey's; written for the child reader. |
+| **Five Islands** | 13 | 4 | The Kingdom of the Five Islands from inside its own records — the court's chronicle recited under a tree, the Abbey's Accounting in a hand that has never changed, and the Castle's people written in light. |
+| **Church-space** | 8 | 2 | An overlay for the contemplative reading tier, served on its own editions: the same events read through an explicitly Christian lens. Commentary, not canon; absent from the general-tier site. |
+
+Chapter counts are as of 8 October 2026; the seasons index on the site is always current.
 
 ## Release notes
 
