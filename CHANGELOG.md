@@ -6,6 +6,23 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.35.0] — 2026-10-08
+
+Six days in which the seasons filled out and the pictures caught up. Season
+10 ran from its third chapter to its seventh, Season 12 was written whole,
+and Season 13 registered the Five Islands thread with its convergence;
+Seasons 3, 4 and 5 gained prologue and second episodes, Season 1 gained
+Tissadelle's own view of the station, and Agent Barsik's view reached Season
+2. The Archive now accompanies every chapter, the children's glossary
+follows the links, and the canonical domain moved to GitHub Pages, so a
+merge is live within minutes and `/version.txt` says which. More than
+seventy illustrations were generated, finished toward Dermot's own
+photographs by the new finish, and filed, with a starship design note so a
+hull is derived before it is drawn; three ten-second clips joined the lore
+pages; the About page took his own Dublin Bay and his one line on the work;
+and the README's story so far now rewrites itself at every version bump,
+this one included.
+
 ### Added
 
 - **The README's story-so-far table regenerates at every version bump** (`scripts/sync-story-so-far.js`, `test/sync-story-so-far.test.js`, 2026-10-08, Dermot's direction *update the seasons directory with each new release version* after the table had sat four threads and three months stale). Threads, order and seasons come from `lib/storyline-threads.js`, chapter counts from the chapter files under `src/seasons/`, and the "What it is" column is kept as authored, with a new thread taking the first sentence of its registry description until someone writes its line. The `version` lifecycle hook runs it after `sync-version.js`, so `npm version X.Y.Z` rewrites the table; `npm test` checks only that the table's stamp names the current version, since the refresh is per release and a per-chapter check would fail every chapter PR. Anchored on `<!-- story-so-far:begin/end -->` comments in `README.md` and fails loudly if they go.
