@@ -5,7 +5,7 @@ category: "Reference"
 tags: [glossary, terminology, migration, canon, hierarchy, ranks, archwarden, concordants, worldwrights, telearchs, protouniverse, dimensions, compact-dimensions, interval, common-manifold]
 description: "Central canonical glossary for Star Rangers terminology, including migration mappings and plural Universal Authority/collective ascension additions."
 image: "canonical-glossary-and-migration-guide.jpg"
-image_alt: "An old hardback book with a green cloth cover, lying open on a plain white background at a double spread of blank, age-yellowed pages."
+image_alt: "A heavy bound reference volume lying open on a pale worktable in an archive reading room, its pages ruled in empty columns, a short red pencil in the gutter of the spine; beside it a small sealed cream housing with one green indicator, and behind, out of focus, shelves of identical unmarked spines."
 ---
 
 # Canonical Glossary and Terminology Migration Guide
