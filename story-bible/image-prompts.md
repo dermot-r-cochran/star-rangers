@@ -1108,3 +1108,19 @@ the photographic finish at strength 1:
 
 Both picks are proposals put to Dermot on the sheet; the pull request waits
 on his word. Prompts of record are the § 9 entries as written on 7 October.
+
+## 2026-10-08 — Codex covers for the two Slipwave videocast entries (issue #1016)
+
+Dermot's choice, verbatim *"Yes option 1"*, among three shapes: the plain
+codex card as the tool draws it today, no card, or the Ballad's gold-on-
+starfield look once its underlay (`art/slipwave-common-room.jpg`, not in the
+repository) is found or remade. Drawn by `make-codex-cover.ps1` with the
+flags the issue set out, no underlay, default motif:
+
+```powershell
+.\scripts\make-codex-cover.ps1 -TitleLines "ODONATA","RAISE YOUR BANNERS" -Category "CULTURAL RECORD" -Institution "Eden Space Habitat Collections" -Out src\images\codex\odonata-raise-your-banners.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "BORROW THE ANGLE" -Category "CULTURAL RECORD" -Institution "Eden Space Habitat Collections" -Out src\images\codex\borrow-the-angle.jpg
+```
+
+They match the codex's plain cards rather than the Ballad cover; the alts
+say so. Remaking them in the Ballad look is open until the underlay exists.
