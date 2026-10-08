@@ -1091,3 +1091,20 @@ side-by-side pairs. His word on the three picks: *Approved*.
 - **Date:** 27 September 2026, the same evening as the three above
 - **Prompt / recipe:** the blockquote in `images.md` § 1 under the same date; 16:9, 2K, two variants, no reference. Heritage not in the record and not in the prompt.
 - **Notes:** both variants held the shut carrier with nothing visible inside, which was the brief's point. Variant 1 carried it sideways under a doorway of onlookers with ceiling light panels showing; variant 2 was the plainer corridor, the boy's eyes on the door of the box, the deck walking away behind him, and was picked (*Approved*). Lettering check: one blank wall panel, nothing readable. Filed with `import-image.ps1 -MaxEdge 1200`. Run kept as `image-out/characters-lev/`.
+
+## 2026-10-08 — Tissadelle's second Season 1 and Season 5 frames (issue #1013)
+
+Run on the desktop from `story-bible/images.md` § 9, two variations each,
+`gemini-3.1-flash-image`, 2K, the published header and the cadet frame sent as
+references for the face. Filed through `import-image.ps1 -MaxEdge 1200` with
+the photographic finish at strength 1:
+
+- `tissadelle/season-1-first-posting.jpg` — variation 1 of 2: the dock behind
+  her reads as a dock, kit at her feet, two marks and nothing below; variation 2
+  stood her in a corridor.
+- `tissadelle/season-5-halyx-corridor.jpg` — variation 1 of 2: the hand flat
+  on the seam and the face turned to listen, rings and ribbon row on the tab;
+  variation 2 crouched lower with the eyes nearly closed.
+
+Both picks are proposals put to Dermot on the sheet; the pull request waits
+on his word. Prompts of record are the § 9 entries as written on 7 October.
