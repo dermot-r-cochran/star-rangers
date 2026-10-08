@@ -28,6 +28,10 @@ eleventyComputed:
 <img class="page-hero-image" src="/star-rangers/images/hero/about-writer.jpg" alt="Designed placeholder card for About the Author: the title set in pale serif type over a dark blue-black gradient, headed ILLUSTRATION PENDING. No illustration for this entry exists yet." />
 <h1 class="page-title">About the Author</h1>
 <p class="page-intro">
+  <em>Fian Ilchruinne</em> is a world that no one really understands but everyone tries to
+  explain in their own way.
+</p>
+<p class="page-intro">
   Dermot R. Cochran is a senior software engineer working in applied AI, based in Dublin,
   Ireland. His work spans engineering, photography, and fiction, with a growing focus on
   engineering intelligence, human-AI systems, and the role of intelligent tools in
