@@ -66,10 +66,22 @@ const DEFAULT_OG_IMAGE_ALT =
 // Twitter Card preview, regardless of computed-field evaluation order. Keyed
 // by classifyContentPath's inputPath-based `kind`, not data.layout, for the
 // same reason isContentIncluded is - see that function's own comment.
+// Journal entries carry no image of their own (all 38 at 8 October 2026),
+// so every one of them fell back to the launch hero - which is how a chat
+// app previewing "Almost Despaired" showed a space shuttle, a real
+// twentieth-century vehicle, as the face of a 29th-century record (Dermot's
+// Replika screenshot, 8 October 2026). The Journal has its own hero, the
+// notebook the index shows, and that is what a journal card should carry.
+const JOURNAL_OG_IMAGE = "/images/hero/journal-notebook.jpg";
+const JOURNAL_OG_IMAGE_ALT =
+  "An open journal on a wooden desk, headed Author's Journal in cursive above a dated handwritten entry, with an ink bottle behind it";
+
 function computeOgImage(data, included) {
   if (!included) return DEFAULT_OG_IMAGE;
-  const dir = OG_IMAGE_DIRS[classifyContentPath(data.page && data.page.inputPath)];
-  return dir && data.image ? `/images/${dir}/${data.image}` : DEFAULT_OG_IMAGE;
+  const kind = classifyContentPath(data.page && data.page.inputPath);
+  const dir = OG_IMAGE_DIRS[kind];
+  if (dir && data.image) return `/images/${dir}/${data.image}`;
+  return kind === "journal" ? JOURNAL_OG_IMAGE : DEFAULT_OG_IMAGE;
 }
 
 // Alt text for whatever computeOgImage settled on, so a card has a text
@@ -80,6 +92,7 @@ function computeOgImage(data, included) {
 // found on-page and story-bible/images.md now has a standing rule against.
 function computeOgImageAlt(data, ogImage) {
   if (ogImage === DEFAULT_OG_IMAGE) return DEFAULT_OG_IMAGE_ALT;
+  if (ogImage === JOURNAL_OG_IMAGE) return JOURNAL_OG_IMAGE_ALT;
   return data.image_alt || data.title || undefined;
 }
 
