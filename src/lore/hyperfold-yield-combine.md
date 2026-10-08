@@ -5,6 +5,8 @@ revealed_by: s05e02c03
 category: "Factions"
 tags: [hyperfold, combine, dock-seven, commercial, fold-drive, boundary, class-iii, threshold-station, factions, defunct]
 description: "A licensed commercial concern that harvested boundary fauna for fold-transit stabiliser, and held an aperture open for four months to do it. Everything about it was lawful. It ended at Dock Seven in 2831, and the parts of it that are still unresolved are not the parts anybody expected."
+image: "hyperfold-yield-combine.jpg"
+image_alt: "An industrial rendering platform in open space: an open truss carrying tank clusters, booms and cradles under a field of flat radiator panels far larger than the plant itself, a small unlit drum at one end, a distant station's few warm lights, hard sunlight from one side"
 ---
 
 The uncomfortable thing about the Hyperfold Yield Combine is not that it was a criminal enterprise. It is that it was not one. It was a well-run business with a licence, a counsel's opinion, an audited product, and a market that wanted more than it could supply, and every part of it was legal right up to the moment it was destroyed.

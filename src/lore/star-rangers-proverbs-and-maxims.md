@@ -4,6 +4,8 @@ title: "Proverbs and Maxims of the Star Rangers"
 category: "Culture"
 tags: [star-rangers, doctrine, culture, training, academy, verification, survey-archive, institutions, young-star-rangers]
 description: "The Corps' working sayings — where each one came from, what it is for, and the rule that keeps every one of them out of the reports the Corps files."
+image: "star-rangers-proverbs-and-maxims.jpg"
+image_alt: "A long plain bench in a lecture room, its matte composite surface scarred by use, a plain shut cloth-bound book set squarely on it beside a small sealed grey housing with a single indicator, cold daylight from a high window"
 plain: "The Star Rangers have about two dozen short sayings they teach and repeat. Most of them are borrowed from the Survey Archive's rules about evidence. They are teaching tools and memory aids, and there is a firm rule that none of them may ever appear in an official report — a report has to state what was actually observed. This page lists the main ones, says where each came from when that is known, and admits when it isn't."
 related: ["Decision-Making and Communication in the Star Rangers", "The Star Rangers Academy", "The Star Rangers Safety Corps", "The Star Rangers Frontier Corps", "The Institute", "Instrument Drift"]
 ---

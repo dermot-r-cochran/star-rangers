@@ -4,6 +4,8 @@ title: "The Tally"
 category: "Factions"
 tags: [the-tally, faction, sol-system, outer-system, generation-ark, imperium, habitat, language, history, culture]
 description: "A people of the Solar System's outer dark who did not exist before they were aboard: a mixed-company generation ark that slipped the Imperium's patrols, failed its crossing, moored to a body it never named for the sky's sake, and became one people by making one language and one count — and who, three centuries on, keep the longest continuous closed-system ledger in Sol and decline to be counted themselves."
+image: "the-tally.jpg"
+image_alt: "A very old generation-ark hull moored to a dark cratered ice body under a sun that is only the brightest star: a long patched cylinder with its drum held at the spin axis on a strut tower, heavy lines running to the surface, radiator panels along the spine, a few small dim warm windows the only colour"
 plain: "The Tally are a people who were made, not inherited. Their ancestors left the Solar System in a generation ship, from many countries and many languages, when leaving without permission was the only way to leave at all. The crossing failed. They stopped at a dark icy body far beyond the asteroid belt, moored the ship to it, and stayed. Their children invented a language nobody had spoken before. They count everything — air, water, food, work, and what each person has given back — and they keep the books of that count going back three hundred years. They were found again only two generations ago. They are polite, exact, and not very interested in the Sun."
 related:
   - "The Generation-Ark Era"

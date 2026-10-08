@@ -4,6 +4,8 @@ title: "The Scope of Physical Law"
 category: "Physics"
 tags: [physics, scope, cascade, mediarch, concordant, membrane, archecluster, formcluster, cosmology]
 description: "Every physical fact in the record is scoped to one of six levels — mediarch realm, Concordant, membrane, archecluster, formcluster, or mathematical regime — and a physics claim is well-formed only at its level. Nothing physical is Ensemble-wide."
+image: "the-scope-of-physical-law.jpg"
+image_alt: "Six boxes of graduated size standing apart in a row on a grey composite work surface in a workshop, three of worn wood and three of pale composite, none matching, a sealed grey housing with a single indicator at the far end"
 plain: "Physics facts come in sizes. Some are true about one force, some about one region, one universe, one family of universes, or the mathematics behind all of them. This page says which size each kind of fact is, so nothing gets called true 'everywhere' when the record only knows it is true here. Even the most basic quantum physics is a 'here' fact — true across our whole family of universes — not an 'everywhere' fact."
 ---
 

@@ -4,6 +4,8 @@ title: "The Kalypsis Dawn"
 category: "Technology"
 tags: [kalypsis-dawn, lee-class, star-rangers, neutral-passage, boundary, fold-transit, multispecies, tissadelle-shepherd, technology]
 description: "An unarmed Lee-Class vessel built for neutral passage and hazard response — and built on the principle that a boundary zone cannot be shielded against, only carried better references into."
+image: "kalypsis-dawn.jpg"
+image_alt: "The Kalypsis Dawn, an unarmed Lee-class vessel, three-quarter from ahead against ordinary starfield: a plain grey spine with two short drums amidships, flat radiator panels aft, a sealed housing forward, a small docking structure at the bow, no windows but a few dark ports, nothing lit, sunlit from one side"
 plain: "The Kalypsis Dawn is an unarmed Star Rangers ship, commanded by Line Captain Tissadelle Shepherd, built to carry delegates, refugees and scientific teams through dangerous places. It is not armed, because arming it would break the agreements that let it pass. Its interior can be reconfigured for species that need water, low gravity, vibration or open air. Its real design idea is that you cannot shield a ship against a boundary zone: instead it carries several independent sets of instruments, so that when they disagree the crew can tell by how much."
 ---
 
