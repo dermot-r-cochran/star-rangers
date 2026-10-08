@@ -4,6 +4,8 @@ title: "The Guest Ring"
 category: "Locations"
 tags: [guest-ring, drithane, brid-system, federation-of-sentient-beings, space-habitat, reciprocal-instrument, celtic-union, locations]
 description: "The Federation habitat in orbit around Drithane — the alien half of the reciprocal instrument, called by a name its own occupants did not choose and have never objected to."
+image: "the-guest-ring.jpg"
+image_alt: "A long low curved observation gallery aboard a non-human habitat, its glazing running the full length at knee height, pale seamless matte surfaces with no fittings, and beyond the glazing a snowbound cold world under a single bright moon with fine white streaks crossing the dark sky"
 galaxy: "Milky Way"
 system: "Bríd System"
 locationType: "Habitat"

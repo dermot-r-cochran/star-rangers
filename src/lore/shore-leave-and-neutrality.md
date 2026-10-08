@@ -4,6 +4,8 @@ title: "Shore Leave and the Neutrality Constraint"
 category: "Institutions"
 tags: [star-rangers, charter, neutrality, shore-leave, jurisdiction, officers, celtic-union, institutions]
 description: "Why an officer on personal leave is the hardest case the charter's neutrality clause has to cover, and why the Star Rangers have never written a rule that would fix it."
+image: "shore-leave-and-neutrality.jpg"
+image_alt: "A quiet bar on a habitat concourse in the afternoon, nearly empty, plain unlabelled bottles and glasses on plain shelves lit from behind, a jacket folded on a pulled-out stool with a half-finished drink on the counter, the concourse's matte panels beyond the opening"
 ---
 
 An officer on leave is off duty, out of uniform, and still the only Star Ranger in the room. Nobody at the table forgets it, least of all the ones being kind about it.

@@ -4,6 +4,8 @@ title: "What the Record Refuses"
 category: "Cosmology"
 tags: [cosmology, physics, causality, ftl, ai, craft-boundary, five-layers]
 description: "A structured catalogue of the points where this setting sides with real physics and declines the standard conveniences of popular soft science fiction and fantasy — what is refused outright, what is kept but honestly priced, and what keeps its familiar shape over a lawful mechanism."
+image: "what-the-record-refuses.jpg"
+image_alt: "A small store of plain composite shelving, everything squared away and nothing labelled, sealed grey housings, folded cloth, unlabelled jars, masks, cups and coils of line, with one shelf column standing empty and swept clean"
 plain: "Science fiction and fantasy stories often use convenient shortcuts: time travel, instant communication, free energy, magic that solves things. This setting mostly says no to those. This page lists every major shortcut it declines, the real physics it keeps instead, and the few cases where something looks like a familiar trope but runs on different machinery underneath."
 ---
 
