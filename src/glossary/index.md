@@ -4,7 +4,7 @@ title: "Glossary"
 eleventyComputed:
   description: "Definitions of every term, name, and concept used in {{ site.name }}."
 ---
-<img class="page-hero-image" src="/star-rangers/images/lore/canonical-glossary-and-migration-guide.jpg" alt="An old hardback book with a green cloth cover, lying open on a plain white background at a double spread of blank, age-yellowed pages." />
+<img class="page-hero-image" src="/star-rangers/images/lore/canonical-glossary-and-migration-guide.jpg" alt="A heavy bound reference volume lying open on a pale worktable in an archive reading room, its pages ruled in empty columns, a short red pencil in the gutter of the spine; beside it a small sealed cream housing with one green indicator, and behind, out of focus, shelves of identical unmarked spines." />
 <h1 class="page-title">Glossary</h1>
 {#- On a children's-tier build the index speaks in the tier's register: a
     plain intro, and each entry's `plain:` line in place of its `short`

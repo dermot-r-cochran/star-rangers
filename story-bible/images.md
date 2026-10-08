@@ -3381,6 +3381,12 @@ image parts, for light and weather and never for content.
   - **Still inside, moving outside.** One physical fact, stated as geometry across the frame.
   - **Delivered 7 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `import-image.ps1` at finish strength 1: the snow is moving past the mouth; 2 was calm outside.
 
+- **`canonical-glossary-and-migration-guide.jpg`** — *An archivist with a red pencil can change how a civilization remembers itself.*
+  Also the Glossary page's hero; the two share the file (resolved 15 August 2026, above). Replaces the stock open book on white, which claimed nothing, dated nothing and sat letterboxed in the hero band; Dermot sent the Glossary page as a screenshot on 8 October 2026 and the swap the audit had left for an opportunity was made. The archivist's own desk in the record's present: a bound reference volume open at a page that cannot be read, a red pencil in the gutter, and one sealed thing that says the century.
+  > Documentary photograph taken inside the world by a 29th-century camera, available light, muted colour, documentary realism, nothing dramatic, realistic, still, slightly too empty. A heavy bound reference volume lying open on a plain pale worktable in a quiet archive reading room, photographed from a low oblique angle along the table so that the open pages are foreshortened and nothing on them can be read, the pages faintly ruled in columns, a short red pencil lying in the gutter of the spine. Beside the book, resting flat on the table, a small sealed plain housing of pale matte composite with no screen and no markings, a single tiny steady indicator at one corner, the only artificial light in the frame. Soft grey daylight from a high window off to one side. The far wall out of focus: plain shelving of identical unmarked spines. No people, no hands. Realistic, still, a little too empty. Negative: readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame; holograms, projected light, glowing displays, screens, monitors, consoles, dials, gauges, meters, knobs, toggles, tube screens, exposed cables, tablets, laptops; visible lamp, light fitting or bulb; flat studio backdrop, gradient background, glamour lighting, corporate headshot, posed smiling to camera; weapons. white background, cut-out, product photograph, quill, inkwell, candle, leather and brass, Victorian study, globe, magnifying glass, spectacles, coffee cup.
+  - **The housing is the century.** Everything else in the frame could be four hundred years old, which is the archive's point; the one sealed thing says when.
+  - **Delivered 8 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `image-file.ps1` at finish strength 1: unmarked spines, empty ruled columns, the pencil and the housing where the prompt put them; 2 had labelled binders on the shelves and faint marks on the page that read as writing. The stock book it replaces is gone from the repository.
+
 ### 6. Images that should not stay — audited 2026-08-10
 
 Open work 1 and 5 are the images that are **missing**. This is the other half:
@@ -3758,7 +3764,8 @@ is within the darkroom test; nothing else touched.
   *art is illustrative*. Left as the conventions say.
 - `canonical-glossary-and-migration-guide.jpg` — a stock open book at 1920px.
   Claims nothing, dates nothing; a card would suit a reference page better.
-  Left for an opportunistic swap, not a project.
+  Left for an opportunistic swap, not a project. *Swapped 8 October 2026 for a
+  generated archive desk (5c).*
 - Everything else: designed cards, abstract or astronomical stock (tier 4),
   generated scenes with no legible face, and Dermot's own frames. Nothing
   else fails a question.
