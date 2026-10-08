@@ -112,6 +112,7 @@ In order after the unit suite:
 | `scripts/check-related-terms.js` | a `related:` term that silently falls back to `/glossary/`; warns (without failing) on duplicated page titles |
 | `scripts/check-children-glossary.js` | a page a children's-tier edition carries, or that edition's own copy in `lib/editions.js`, linking a glossary entry the edition renders as a placeholder, or one with no `plain:` line; an entry the tier carries without one. Warns on an entry the tier carries that nothing on it links. A carried entry's own onward links are not enforced (one hop from the story, never the closure); their count is printed (since 2026-10-05; the rule is in CLAUDE.md) |
 | `scripts/sync-version.js --check` | README/package.json version drift |
+| `scripts/sync-story-so-far.js --check` | README's story-so-far table not regenerated at the current version (its stamp names the version it was last written at; counts themselves are refreshed per release, not per chapter, by the `version` hook) |
 | `eleventy --dryrun` | template and build errors, without writing `_site/` |
 
 The gates don't subdivide — `validate-content.js` always scans everything. To

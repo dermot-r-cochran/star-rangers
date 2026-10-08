@@ -51,7 +51,7 @@ And in every tier: **say what you did.** A session that drafts narrative, change
 npm ci                # install from the committed lockfile (Node 20, see .nvmrc) - first thing in a fresh checkout; see "Before committing" for why
 npm run start         # eleventy --serve, local dev server with live reload
 npm run build          # eleventy && pagefind --site _site (full production build incl. search index)
-npm test               # node --test test/*.test.js + check-changelog.js + check-changelog-coverage.js (warns only) + validate-content.js + check-internal-links.js + check-related-terms.js + sync-version.js --check + eleventy --dryrun
+npm test               # node --test test/*.test.js + check-changelog.js + check-changelog-coverage.js (warns only) + validate-content.js + check-internal-links.js + check-related-terms.js + sync-version.js --check + sync-story-so-far.js --check + eleventy --dryrun
 npm run new             # scaffold a new content file (prompts for type, or `-- character`/`-- chapter`/etc.)
 npm run generate-themes  # regenerate every src/css/theme-*.css from src/css/main.css
 npm run fetch-giscus-ids  # fetch/patch giscus repo+category IDs (see TECHNICAL-README.md's giscus section)
