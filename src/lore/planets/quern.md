@@ -14,6 +14,13 @@ locationType: "Planet"
 
 Quern's weather report has not been revised since it was first filed, and the Survey Corps does not expect to revise it. The world has weather the way a river has a shape: violent everywhere, and the same violence in the same places, on no calendar at all — a deficiency its settlers have made good in their own way, as this entry will come to.
 
+<video controls preload="none" poster="/star-rangers/video/quern-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/quern.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/quern.mp4">Download the clip</a>.
+</video>
+
+*Ten seconds from a fixed camera at the Millrace, looking along the rain toward the storm wall.*
+
 **Quern** is the innermost planet of the **Kiln System**, a red dwarf star small enough and close enough to hold its one rocky world face-on. The planet is tidally locked: its rotation and its orbit are the same twenty-nine hours, so one hemisphere keeps the star and the other keeps the dark, permanently. The first survey crew named the star for what it does and the planet for what the star does *to* it — a quern being the pair of millstones a hand-mill grinds between — and by the time they were done charting, the naming theme was carrying itself. The people who later settled the world declined the whole vocabulary and named the only three things that matter when you live there. The record keeps both sets of names, and is careful about whose is whose.
 
 ## The Standing Storm

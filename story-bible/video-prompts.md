@@ -599,3 +599,55 @@ Mirrored into [`open-questions.md`](open-questions.md).
    and these scene prompts should be treated as a loose library rather than as
    anything the record commits to. Nobody has said which, and the answer changes
    what this section is for.
+
+---
+
+## Three clips offered 8 October 2026, written before anything is generated
+
+Dermot's offer, verbatim: *"let me know if short generated video clips would
+also be useful"*, then *"Would you trust Grok to create these videos? I have a
+fixed price subscription and I could open it in Chrome."* The answer given:
+yes for the two landscapes, with eyes open for the ark, since generators turn
+a spine with its drum. Each is one held shot in the house motion signature,
+derived from its page (and, for the ark, from `starship-design.md`'s sheet A),
+run on Grok Imagine from his Chrome, two takes each, his pick, anything
+lettered or physically wrong dropped rather than healed. Kept clips go into
+`src/video/` with a poster frame and an entry here, by one pull request.
+
+### A. The drithle run over Drithane (The Honest Dark; the Guest Ring)
+
+> Slow continuous camera drift, never locked off and never settling. Long unbroken take. Diegetic light only: starlight, moonlight, lightning; nothing glows that would not glow. Matte surfaces, real materials, dust and wear. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. A fixed camera on a hillside above a snowbound valley at night: a cluster of low dark buildings with not one window lit, a single low bright moon over mountains, and across a sky crowded with sharp stars a scatter of fine silent white streaks all travelling the same way, one after another, unhurried, for the whole take. The snow blue-grey in moonlight. Nothing on the ground moves. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms, projected interfaces, glowing UI or floating icons. No lens flares, no light streaks, no volumetric god rays as decoration. No drone flythrough, no crash zoom, no whip pan, no camera passing through solid objects. No jump scares, no sudden movement toward camera, no gore, no horror imagery. No time-lapse clouds, no slow-motion explosion, no hyperspace star streaks. No people, no figures, no vehicles. Not a music-video montage, not a trailer.
+
+### B. The standing storm at Quern (Quern)
+
+> Slow continuous camera drift, never locked off and never settling. Long unbroken take. Diegetic light only: starlight, moonlight, lightning; nothing glows that would not glow. Matte surfaces, real materials, dust and wear. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. A fixed camera on a plain of wet black grit looking along the line of a permanent sideways rain: a row of low rounded windowless stone houses that do not move, rain streaking across the frame horizontally for the whole take, and on the right horizon a towering wall of storm cloud lit from within by continuous slow lightning, red-amber at its base, while the sky to the left is a clear starless black. The storm wall breathes but never advances. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms, projected interfaces, glowing UI or floating icons. No lens flares, no light streaks, no volumetric god rays as decoration. No drone flythrough, no crash zoom, no whip pan, no camera passing through solid objects. No jump scares, no sudden movement toward camera, no gore, no horror imagery. No time-lapse clouds, no slow-motion explosion, no hyperspace star streaks. No people, no figures, no vehicles. Not a music-video montage, not a trailer.
+
+### C. The ark's drum turning (The Generation-Ark Era; sheet A of starship-design.md)
+
+> Slow continuous camera drift, never locked off and never settling. Long unbroken take. Diegetic light only: starlight, moonlight, lightning; nothing glows that would not glow. Matte surfaces, real materials, dust and wear. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. A hull-mounted camera on the still spine of a Currach-era generation ark in deep space, looking aft along the spine: the wide patched drum amidships turns slowly and steadily about the ship's long axis, about one turn in twenty seconds, while the spine, the flat radiator panels and the stars behind stay still. Dull grey hull patched in many greys, no window band, no markings, nothing lit, one far sun lighting it from the side. The drum's turn is the only motion. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms, projected interfaces, glowing UI or floating icons. No lens flares, no light streaks, no volumetric god rays as decoration. No drone flythrough, no crash zoom, no whip pan, no camera passing through solid objects. No jump scares, no sudden movement toward camera, no gore, no horror imagery. No time-lapse clouds, no slow-motion explosion, no hyperspace star streaks. No people, no figures, no vehicles. Not a music-video montage, not a trailer. No engine glow, no glazed cabin, no fins, no lit flank, and the spine must not rotate.
+
+**Run and judged, 8 October 2026.** Grok Imagine from Dermot's Chrome, 720p
+(the plan's ceiling; 1080p refused), 10 s, 16:9, two takes each, frames pulled
+at 0, 3, 6 and 9 s with ffmpeg and read against the lines below. Kept and filed
+in `src/video/` with poster frames, embedded on their pages after the opening
+paragraph:
+
+- **A, take 1** (`the-honest-dark.mp4`): a slow drift that never settles, the
+  streaks one way for the whole take, the moon steady, not a window lit. Take 2
+  passed too and is the alternate, in `image-out/video/`.
+- **B, take 1** (`quern.mp4`): the wall on the right lit from within and
+  breathing, the dark to the left, the row of houses still. Take 2 passed with
+  the wall more central; alternate kept.
+- **C, take 1** (`the-generation-ark-era.mp4`): the drum turns about the
+  spine, ports coming round into view across the take, the spine's truss
+  still; the camera drifts a little, which the preamble allows. Take 2 failed
+  the sheet, a bare cylinder with no spine or radiators and the camera
+  orbiting it; dropped.
+
+Lettering: none in any take. Lesson for the next clips: Grok respects a
+negative stated as objects ("no lit windows") and a motion stated as the one
+thing that moves; it does not respect "camera fixed" unless the mount is named.
+
+**Judging a take:** A fails if a window lights or the streaks change direction;
+B fails if the houses move or the storm advances; C fails if the spine turns
+with the drum, the drum's ends morph, or anything on the hull glows.

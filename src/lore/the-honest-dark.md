@@ -10,6 +10,13 @@ image_alt: "A cluster of low dark unlit buildings in a snowbound valley at night
 
 Every settled world in the record keeps its night sky, and none of them legislated for it. [Technology that does not announce itself](/star-rangers/lore/what-the-record-refuses/) does not wash out the dark: a civilisation of matte displays and grey-box power plants throws almost no light upward, so the sky over a settlement looks much as it did before the settlement came. Dark skies are not a heritage protection here. They are what the infrastructure fails to ruin by default — and the consequence, easy to miss for being everywhere, is that **every settlement in the record can still see where it is.**
 
+<video controls preload="none" poster="/star-rangers/video/the-honest-dark-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/the-honest-dark.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/the-honest-dark.mp4">Download the clip</a>.
+</video>
+
+*A hillside instrument's ten seconds of a drithle run over a Drithane valley, the settlement below it unlit.*
+
 ## What Each Sky Honestly Holds
 
 With no glow to flatten them, night skies stay as different as their worlds, and the record's are a catalogue of what a sky can lawfully do. [Drithane's](/star-rangers/lore/planets/drithane/) performs on a timetable: twice an orbit the world crosses the Bríd System's debris band and the drithle run — silent white sparks over snowbound valleys, under a single low bright moon, predictable to the hour before the founders had finished unloading. [Prismere's](/star-rangers/lore/planets/prismere/) rings made the *summary paragraph* of its first survey, and its permanently hazed upper air renders the corridor Lattice visible — a night sky that is also an instrument, read professionally. [Trígrian's](/star-rangers/lore/planets/trigrian/) three suns make true night a negotiated interval: dark is what happens when all three consent to be elsewhere, and the triple sunset that opens the burning season is the sky's warning shot. A world's nights are as derivable as its weather — same discipline, [lights-out edition](/star-rangers/lore/weather-on-other-worlds/).

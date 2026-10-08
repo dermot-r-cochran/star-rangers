@@ -15,6 +15,13 @@ related:
 
 The fleets that crossed to other stars before there was a quick way to do it named themselves, deliberately, for the smallest boats their ancestors had ever trusted to open water — the Irish *currach*, the Norse *knarr*. The choice was not only sentiment. The odds were about the same.
 
+<video controls preload="none" poster="/star-rangers/video/the-generation-ark-era-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/the-generation-ark-era.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/the-generation-ark-era.mp4">Download the clip</a>.
+</video>
+
+*Ten seconds from a hull mount on a Currach-era ark's spine, looking aft, the drum turning.*
+
 ## The Only Road Out
 
 Before the first [fold routes and harmonic corridors](/star-rangers/lore/ftl-mechanics/) turned the crossing into a matter of weeks — the Eden Passage among the earliest, roughly 2712 UCSD — reaching another star meant a **generation ark**: a sealed sublight hull on a transit measured in decades, carrying a company that expected to be born, to live, and to die aboard, handing the voyage on to children who would see neither the world it left nor, for most of them, the world it sought. No rescue could be sent after one. No signal it sent home could be answered inside a human lifetime. An ark was a one-way wager placed by people who would not live to learn whether they had won it.
