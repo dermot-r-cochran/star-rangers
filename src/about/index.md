@@ -9,11 +9,11 @@ eleventyComputed:
     The plain-register About. A tier opts into this by carrying `about` in
     lib/editions.js (today: the children's tier, on CHILDREN_TIER, so both
     children's doors serve the same page). The registry supplies the
-    sentences; this template supplies the markup. No hero: the site-wide
-    card below is the ILLUSTRATION PENDING placeholder. The child-facing
+    sentences; this template supplies the markup. No hero on this register. The child-facing
     paragraphs name the main site in words and never link it (the 2
     September ruling on excludedNotice); the grown-ups block carries the
-    page's only links, all to adult destinations.
+    page's only links, all to adult destinations. The hero below is
+    Dermot's own frame, Dublin Bay from the Hills (8 October 2026).
     ====================================================================== -#}
 <h1 class="page-title">{{ edition.about.title }}</h1>
 {%- for para in edition.about.intro %}
@@ -25,7 +25,7 @@ eleventyComputed:
 <p>{{ para | safe }}</p>
 {%- endfor %}
 {%- else -%}
-<img class="page-hero-image" src="/star-rangers/images/hero/about-writer.jpg" alt="Designed placeholder card for About the Author: the title set in pale serif type over a dark blue-black gradient, headed ILLUSTRATION PENDING. No illustration for this entry exists yet." />
+<img class="page-hero-image" src="/star-rangers/images/hero/about-writer.jpg" alt="Dublin seen from high ground to the south on a hazy November afternoon: the office blocks of Sandyford across the foot of the frame, the city beyond, the red-and-white banded Poolbeg chimneys over the docks, and the bay running out to Howth on the far shore" />
 <h1 class="page-title">About the Author</h1>
 <p class="page-intro">
   <em>Fian Ilchruinne</em> is a world that no one really understands but everyone tries to
