@@ -337,7 +337,7 @@ skirt, gaze to camera, beauty lighting, text, lettering, watermark.
 coloured insert" with "a single plain horizontal bar, with a narrow
 slate-blue insert" and "early thirties" with "early twenties".
 
-### 2.9 `tissadelle/season-1-first-posting.jpg`, `tissadelle/season-5-halyx-corridor.jpg` — second frames per season (queued 7 October 2026)
+### 2.9 `tissadelle/season-1-first-posting.jpg`, `tissadelle/season-5-halyx-corridor.jpg` — second frames per season (queued 7 October 2026) — **run 8 October 2026** (issue #1013), struck
 
 Dermot: *Add a second Season 1 frame and a second Season 5 frame*. The two
 prompts are of record in [`images.md`](images.md) § 9 and read by

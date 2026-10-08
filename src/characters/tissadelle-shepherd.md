@@ -20,6 +20,14 @@ gallery:
     caption: "Season 1 — Cadet"
     season: 1
     image_alt: "Tissadelle Shepherd in her early twenties, red hair tied back, in the dark slate-grey field uniform with a stand collar, a single small rectangular rank tab with a slate-blue bar on her chest and a plain diamond patch beside it, nothing else on the uniform, standing in a pale sealed compartment with one hand on a smooth housing to her right."
+  - image: season-1-first-posting.jpg
+    caption: "Season 1 — Cadet, first posting"
+    season: 1
+    image_alt: "Tissadelle Shepherd in her early twenties, red hair tied back, in the dark slate-grey one-piece field uniform with a stand collar, a single small rectangular rank tab with a slate-blue bar and a plain diamond patch on her chest and nothing else, standing in a wide pale sealed dock with her kit bag at her feet, looking along the dock and away from the camera."
+  - image: season-5-halyx-corridor.jpg
+    caption: "Season 5 — Line Captain, Halyx Relay"
+    season: 5
+    image_alt: "Tissadelle Shepherd in her early thirties, red hair tied back, crouched in a pale curving station corridor with her right hand laid flat on the wall at a seam, her face turned to the wall and listening, the rank tab with three concentric rings and a short ribbon row on her chest beside the plain diamond patch, a small closed case on the floor beside her."
 ---
 
 Cadet is the entry rank. It is where formal training meets first operational exposure, and where the qualities that will become most useful later are not yet rewarded in proportion.
