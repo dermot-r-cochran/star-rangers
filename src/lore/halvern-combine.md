@@ -4,6 +4,8 @@ title: "The Halvern Combine"
 category: "Factions"
 tags: [halvern, combine, imperium, commercial, charter, corryn, spiralites, frontier-transformation-protocols, factions]
 description: "A commercial concern descended from the Imperium's industrial patrons, still exercising a licence issued by a government that fell in 2609 — because a permission outlives the power that granted it, and nobody has standing to withdraw one."
+image: "halvern-combine.jpg"
+image_alt: "A tall grey-green sealed cabinet standing open in a stripped room, one squared stack of tied document wallets inside and nothing else, a single indicator by its latch, pale rectangles on the walls where things hung, dust, bare floor, flat daylight from a window"
 plain: "The Halvern Combine is a company descended from the families who owned the shipyards and fold-drive patents behind the Imperium's fleet. The Imperium fell in 2609, but the Combine did not, because a company is not a government. It still runs a colony at Corryn on a licence the Imperium issued, which nobody living can cancel — the office that granted it stopped existing more than two centuries ago, and no later body took over the file."
 ---
 

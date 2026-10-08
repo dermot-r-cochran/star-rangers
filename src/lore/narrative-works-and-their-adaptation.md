@@ -4,6 +4,8 @@ title: "Narrative Works and Their Adaptation"
 category: "Culture"
 tags: [culture, narrative, adaptation, translation, xenolinguistics, cei, archive, practices]
 description: "What a published work of fiction actually looks like in the Concord — a spine of scenes carrying several viewpoints, with its reference apparatus attached — and why adapting one across species is measured in years and credited to a named adapter."
+image: "narrative-works-and-their-adaptation.jpg"
+image_alt: "A reader's table by a window holding one plain cloth-bound volume lying shut with a ribbon marker and four slimmer plain volumes standing shut on their edges around it, every spine and cover unlettered, shelves of plain books behind"
 plain: "Stories here are not published as one long text. A work is a spine of scenes, each scene carrying several characters' viewpoints, with reference material and source documents attached to it. Pictures and sound are part of it, but nothing glows and nothing is projected. Adapting a work for another species takes years, because there is no machine that translates. The person who does it is named, and their version is treated as their account rather than as the work itself."
 ---
 
