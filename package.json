@@ -6,8 +6,8 @@
   "scripts": {
     "build": "eleventy && pagefind --site _site",
     "start": "eleventy --serve",
-    "test": "node --test test/*.test.js && node scripts/check-changelog.js && node scripts/check-changelog-coverage.js && node scripts/validate-content.js && node scripts/check-internal-links.js && node scripts/check-related-terms.js && node scripts/check-children-glossary.js && node scripts/revelation-ledger.js --check && node scripts/sync-version.js --check && eleventy --dryrun",
-    "version": "node scripts/sync-version.js",
+    "test": "node --test test/*.test.js && node scripts/check-changelog.js && node scripts/check-changelog-coverage.js && node scripts/validate-content.js && node scripts/check-internal-links.js && node scripts/check-related-terms.js && node scripts/check-children-glossary.js && node scripts/revelation-ledger.js --check && node scripts/sync-version.js --check && node scripts/sync-story-so-far.js --check && eleventy --dryrun",
+    "version": "node scripts/sync-version.js && node scripts/sync-story-so-far.js",
     "new": "node scripts/new-content.js",
     "generate-themes": "node scripts/generate-themes.js",
     "fetch-giscus-ids": "node scripts/fetch-giscus-ids.js"
