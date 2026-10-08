@@ -806,7 +806,7 @@ photographs of identifiable strangers: `cormac-dubhghlas`,
 | `lore/meta-dimensional-beings.jpg` | Generic hooded-figure stock | Three classes of being, sorted by whether talking is possible |
 | `lore/military-space-command.jpg` | Real NASA EVA imagery in a stock composite; licence unverified | A benevolent technocracy that could not last |
 | `hero/characters-concourse.jpg` | Same family, same unverified provenance | A page hero for the whole cast. **On undercover-pets.com, resolved 1 September** with Dermot's own photograph `hero/characters-hyrax.jpg` (*Rock Hyrax on the Coffee Machine*, Nairobi 2025, from the portfolio at its 1600×1037 site size) via the new per-edition `sectionHeroes` field in `lib/editions.js`; every other domain still shows the pending card, and this row stays open for them |
-| `hero/about-writer.jpg` | Typewriter-and-rotary-phone cliché | The About page. Dermot's own photography is the obvious answer here |
+| `hero/about-writer.jpg` | ~~Typewriter-and-rotary-phone cliché, then a stamped placeholder~~ **Replaced 8 October 2026 with Dermot's own *Dublin Bay from the Hills*** (his choice of five of his frames put side by side: *"I live in Dublin so that makes sense"*), centre-cropped to 16:9 from the portfolio's re-developed 1600 file; photo first, generation last, and the author seen through the work rather than a face | The About page |
 
 **Batch 2, 12 August (4, this PR).** The forty never-opened lore images were
 finally looked at, all forty at once as a contact sheet. **The result was far
