@@ -26,7 +26,7 @@ Aoife lived through the first generations of Anglo-Norman lordship in Ireland, a
 
 ## Carried Off Earth
 
-Unlike most Currach Fleet cultural cargo, Aoife's devotion did not travel as archived text waiting to be revived on arrival. It travelled as living observance — feast kept, well-water blessing continued in symbolic form aboard ship, the story retold to children who had never seen Ireland and never would. That continuity is part of why the Union treats her differently from other historical religious figures preserved in its archives: Aoife was never a subject of antiquarian interest. She was, and remains, someone's grandmother's saint.
+Unlike most Currach Fleet cultural cargo, Aoife's devotion did not travel as archived text waiting to be revived on arrival. It travelled as living observance — feast kept, well-water blessing continued in symbolic form aboard ship, the story retold to children who had never seen Ireland and never would. That continuity is part of why the Union treats her differently from other historical figures of devotion preserved in its archives: Aoife was never a subject of antiquarian interest. She was, and remains, someone's grandmother's saint.
 
 ## The Reinterpretation
 
