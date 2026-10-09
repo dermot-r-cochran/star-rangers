@@ -35,15 +35,18 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## The Inspectorate — the schedule entire, and former Rangers as inspectors — raised 9 October 2026, OPEN
+## The Inspectorate — the schedule entire — raised 9 October 2026, OPEN
 
 `intake-2026-10-09.md`. The Inspectorate of the Star Rangers is on the
 Council page with the two rungs Dermot gave (Chief Inspector to Chief,
-Inspector-General to High Captain). Two extensions offered as choices,
-neither asserted: whether the Archive quotes the full schedule of grades
-(leave it unquoted, recommended) and whether former Rangers may serve as
-inspectors (leave it unestablished, recommended). Four readings flagged
-there for his eye; the pages stand on them until he says otherwise.
+Inspector-General to High Captain). One extension offered as a choice,
+not asserted: whether the Archive quotes the full schedule of grades
+(leave it unquoted, recommended), and with it whether the legal division
+and the audit bureau keep grades of their own. The former-Rangers
+question offered the same morning was answered by his second direction
+the same day (recruited from outside the Corps) and is struck. Nine
+readings flagged across the two sections for his eye; the pages stand on
+them until he says otherwise.
 
 ## Dialect and language variants — between characters, and between members of a collective — raised 7 October 2026, OPEN
 
