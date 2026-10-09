@@ -40,12 +40,10 @@ eleventyComputed:
 
 <h2>How this site is built</h2>
 <p>
-  Fian Ilchruinne is a static site built with <a href="https://www.11ty.dev/">Eleventy</a>.
-  Content lives as Markdown and Nunjucks templates in this repository's <code>src/</code>
-  directory; <code>npm run build</code> runs Eleventy to compile it into the static
-  <code>_site/</code> output, <code>npm run start</code> serves it locally with live
-  reload, and <code>npm test</code> runs an Eleventy dry-run build in CI on every pull
-  request, alongside a ShellCheck pass over the deployment scripts.
+  Fian Ilchruinne is a static site built with <a href="https://www.11ty.dev/">Eleventy</a>
+  from Markdown and Nunjucks templates, checked by a test suite and a dry-run build on
+  every pull request before anything is published. The commands, the content schema and
+  the deployment path are in the repository's README and technical README.
 </p>
 
 <h2>How this site is written</h2>

@@ -22,9 +22,13 @@ module.exports = function () {
   // as both umbrella and work title. The corps keeps its name in the
   // fiction, and the /star-rangers/ URL paths and alias domains are
   // deliberately unchanged - only front-of-house branding has ever moved.
-  // The tab carries the settled hyphenated form "Fian-ilchruinne"; the
-  // header/footer/homepage-heading carry "Fian Ilchruinne", the spaced,
-  // capitalised display variant Dermot chose for on-page branding. Old
+  // The tab, header, footer and homepage heading all carry "Fian Ilchruinne".
+  // Until 2026-10-09 the tab alone kept the hyphenated umbrella spelling
+  // "Fian-ilchruinne" from 2026-08-03; a site review that day found a
+  // reader meeting two spellings and Dermot ruled the tab should match the
+  // headings (story-bible/intake-2026-10-09.md). The hyphenated form
+  // survives only in the alias domain names, which are spelling insurance
+  // (lib/editions.js). Old
   // Irish fian (the warrior-band) + ilchruinne (Irish for multiverse) -
   // "the multiverse Fianna"; the fused, single-n and fiann- variants are
   // all superseded (story-bible/the-title-and-its-risk.md has the full
@@ -34,7 +38,7 @@ module.exports = function () {
   // (src/lore/ensemble-multiverse.md), which is why the description still
   // says it.
   const name = process.env.SITE_NAME || "Fian Ilchruinne";
-  const title = process.env.SITE_TITLE || "Fian-ilchruinne";
+  const title = process.env.SITE_TITLE || "Fian Ilchruinne";
 
   // SITE_NOINDEX=true (deploy.conf, threaded per-domain by
   // scripts/cpanel-deploy.sh) marks this build as a testing/staging domain
