@@ -18,7 +18,7 @@ Its cosmic membrane sits close enough to Tír na nÓg's own, in the post-11 mani
 
 ## The Tunnel
 
-At resonance peak, the narrowed membrane can open a [transient gravity tunnel](/star-rangers/lore/concordant-membranes/#beyond-class-iii-transient-gravity-tunnels) — the rarer, matter-crossing outcome of the same strain-distribution mechanism that produces an ordinary Membrane Shadow elsewhere. Tír Tairngire's tunnel is the more reliable of the two documented cases: it forms and collapses on a schedule regular enough that whatever crosses appears to know it, and no recorded transit at this site — in either direction — has ever been caught mid-collapse. Survey Corps has no instrument reading that explains why this site behaves so much more predictably than the only other confirmed one.
+At resonance peak, the narrowed membrane can open a [transient gravity tunnel](/star-rangers/lore/concordant-membranes/#beyond-type-iii-transient-gravity-tunnels) — the rarer, matter-crossing outcome of the same strain-distribution mechanism that produces an ordinary Membrane Shadow elsewhere. Tír Tairngire's tunnel is the more reliable of the two documented cases: it forms and collapses on a schedule regular enough that whatever crosses appears to know it, and no recorded transit at this site — in either direction — has ever been caught mid-collapse. Survey Corps has no instrument reading that explains why this site behaves so much more predictably than the only other confirmed one.
 
 ## Who Crosses
 
