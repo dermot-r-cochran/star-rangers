@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Rank and the Chain of Command"
 category: "Institutions"
-tags: [star-rangers, rank, command-hierarchy, field-officer, chief, chief-provost, chief-science-officer, science-corps, guild-leadership, chapter-leader, corps-president, starwarden, archwarden, starwarden-first-officer, line-captain, star-captain, high-captain, council-of-high-captains, triumvirate, field-triumvirate, chain-of-command, oversight-council, institutions, young-star-rangers]
+tags: [star-rangers, rank, command-hierarchy, field-officer, chief, chief-provost, chief-science-officer, science-corps, guild-leadership, chapter-leader, corps-president, starwarden, archwarden, starwarden-first-officer, line-captain, star-captain, high-captain, council-of-high-captains, triumvirate, field-triumvirate, chain-of-command, oversight-council, inspectorate, institutions, young-star-rangers]
 description: "The Star Rangers' internal rank ladder, from Novice to the Triumvirate, how a civil-service career track and a naval command track were fused into one chain at founding, why the specialist corps are governed as guilds the command ladder has no say over, when a field-level Triumvirate can authorise emergency action, and why the Rangers are neither an army nor a navy despite sounding like one."
 image: "star-rangers-command-hierarchy.jpg"
 image_alt: "Designed cover for Rank and the Chain of Command: three stacked chevrons in a pale blue glow on a dark navy field, the category INSTITUTIONS above and the title beneath, with the lines The Rank Ladder, Novice to Triumvirate and Two career tracks fused into one chain."
@@ -183,9 +183,14 @@ The paradigm case is a hostage extraction aboard a deep-space liner — squarely
 
 **What it is not.** A Field Triumvirate does not confer planetary jurisdiction, does not authorise policing, administration, or a standing presence, and does not survive the emergency that convened it — the charter's existing limits on entering, governing, or remaining on a planet or self-governing habitat apply the moment the immediate threat to life is resolved. Every Field Triumvirate action is reported to the Council of High Captains and reviewed by the Safety Corps and, where conduct is disputed, the Provost track, exactly as any other incident would be. Convening one is not a judgment call three officers get to make quietly; it is a judgment call three officers make in the open, on a record built to be second-guessed.
 
+## Rank-Equivalent, Not Rank: The Inspectorate
+
+One body outside the Corps is read against this ladder without standing on it. The [Oversight Council](/star-rangers/lore/the-oversight-council/) does its asking through its own standing office, the **Inspectorate of the Star Rangers**, whose officers are not Rangers and hold no Corps rank — they are often retired police officers and military police, or their equivalents, from the polities that seat the Council, and never drawn from the Provost track. The Council's schedule of precedence sets each Inspectorate grade **rank-equivalent** to a rung here — a **Chief Inspector** to a Chief, the **Inspector-General** to a High Captain — and the equivalence governs reception, precedence and the scope of what an inspector's grade may ask, never command. A Chief Inspector is answered as a Chief is answered; she cannot give the order a Chief gives. The Inspector-General, one High Captain's equal, sits below the Council of High Captains and the Triumvirate by design: the Inspectorate asks, and it is the Council that holds the Triumvirate to account. The full account is on the Council's own page.
+
 ## See Also
 
 - [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/)
+- [The Oversight Council](/star-rangers/lore/the-oversight-council/) — the body the Corps answers to, and the Inspectorate it asks through
 - [Decision-Making and Communication in the Star Rangers](/star-rangers/lore/star-rangers-decision-and-communication/)
 - [The Star Rangers Safety Corps](/star-rangers/lore/star-rangers-safety-corps/)
 - [The Star Rangers Science Corps](/star-rangers/lore/star-rangers-science-corps/)
