@@ -143,6 +143,12 @@
       <nav class="site-nav" aria-label="Main navigation">
         <ul class="site-nav__list" role="list">
           <li><a href="/star-rangers/" {% if page.url == "/star-rangers/" %}aria-current="page"{% endif %}>Home</a></li>
+          {#- The Reading Plan is the front door for a first visit, and until
+              2026-10-09 it was reachable only from the homepage's Begin
+              Reading button; a site review that day found a new reader
+              walking the catalogue sections instead. It sits second, before
+              the shelves it introduces. -#}
+          <li><a href="/star-rangers/start/" {% if "/start/" in page.url %}aria-current="page"{% endif %}>Start</a></li>
           <li><a href="/star-rangers/seasons/" {% if "/seasons/" in page.url %}aria-current="page"{% endif %}>Seasons</a></li>
           <li><a href="/star-rangers/threads/" {% if "/threads/" in page.url %}aria-current="page"{% endif %}>Threads</a></li>
           <li><a href="/star-rangers/characters/" {% if "/characters/" in page.url %}aria-current="page"{% endif %}>Characters</a></li>

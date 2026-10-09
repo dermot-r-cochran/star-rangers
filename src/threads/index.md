@@ -26,6 +26,19 @@ permalink: /threads/
   </a>
   {%- endfor -%}
 </div>
+{#- Season 8 is the church-space thread, carried only by the contemplative
+    tier; on every lower tier it is absent rather than a placeholder
+    (CLAUDE.md, the tier gate). On the general tier that leaves a numbered
+    list with a gap in it, which a 2026-10-09 site review read as a slip.
+    The Official Editions page already names church-space.site, so saying
+    where the season lives gives nothing away; Dermot ruled the line in the
+    same day. Only the general tier shows it: a narrowed edition is missing
+    other seasons too, and the line would single one out. -#}
+{%- if edition.tier == "general" %}
+<p class="page-intro">
+  Season 8 is not missing. It belongs to a thread carried only by the contemplative edition, listed on the <a href="/star-rangers/official/">Official Editions</a> page.
+</p>
+{%- endif %}
 {% else %}
 <p class="page-intro">No storyline threads defined yet.</p>
 {% endif %}
