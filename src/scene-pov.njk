@@ -3,6 +3,13 @@ pagination:
   data: scenePovPages
   size: 1
   alias: item
+  # Without this Eleventy adds only the FIRST paginated page to collections.all,
+  # so src/sitemap.njk (which walks collections.all) listed exactly one scene-POV
+  # page - the pitch POV of S00E01C01 - out of 312 built; found 2026-10-09 by
+  # counting the live sitemap against the build. Every other collection in
+  # .eleventy.js filters by layout or inputPath, so these pages reach nothing
+  # else; the sitemap's own `item.included` guard still keeps hidden POVs out.
+  addAllPagesToCollections: true
 permalink: "{{ item.url }}"
 layout: scene-pov.njk
 eleventyComputed:

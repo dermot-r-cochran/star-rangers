@@ -327,6 +327,14 @@ deploy_alias_notice() {
   fi
 
   dan_tmp=$(mktemp -d) || { echo "FAIL [$dan_label]: could not create a temp dir" >&2; return 1; }
+  # mktemp -d creates the directory 0700, and `rsync -a "$dan_tmp/" "$dan_dest"`
+  # copies the SOURCE directory's mode onto the destination document root.
+  # Apache then cannot enter the docroot and answers 403 to everything
+  # ("Server unable to read htaccess file, denying access to be safe") - which
+  # is what starquest.online, church-space.online, fellowshipoflight.online and
+  # fellowshipoflight.space served for weeks, found 2026-10-09 in Search Console.
+  # The full-site deploy below never hit this because _site/ is created 0755.
+  chmod 755 "$dan_tmp" || { echo "FAIL [$dan_label]: could not chmod the temp dir" >&2; rm -rf "$dan_tmp"; return 1; }
 
   for dan_file in index.html .htaccess robots.txt; do
     # The target is a hostname validated by lib/editions.js (it must be a domain
