@@ -80,11 +80,16 @@ CHARACTERS=""
 TOPICS=""
 THREADS=""
 ADMIN_EMAIL=""
-# fianilchruinne.com replaced sciencefiction.site as the canonical address of
-# the default edition on 2026-08-03; a conf-less clone now claims the
-# canonical. sciencefiction.site still serves the same edition and a clone
-# can keep saying so explicitly via deploy.conf's DOMAIN.
-DOMAIN="fianilchruinne.com"
+# No default, since 2026-10-09. Until then a conf-less clone, or a deploy.conf
+# with no DOMAIN line, silently claimed fianilchruinne.com: it built the
+# canonical full site, branded as the canonical, with every page's canonical
+# tag and the whole sitemap naming fianilchruinne.com, and rsynced that onto
+# whatever domain the account actually serves. sciencefiction.site and
+# starquest.site ran that way for weeks, reported as SUCCESS, and Google kept
+# two pages of each. The deploy now refuses to run without a DOMAIN (checked
+# right after deploy.conf is sourced); the canonical domain names itself in
+# its own deploy.conf like any other.
+DOMAIN=""
 SITE_NAME=""
 SITE_TITLE=""
 # SITE_NOINDEX=true builds a domain that asks not to be indexed at all:
@@ -112,6 +117,17 @@ DEPLOY_PRIMARY="true"
 # shellcheck disable=SC1091
 [ -f "$REPOSITORY_ROOT/deploy.conf" ] && . "$REPOSITORY_ROOT/deploy.conf"
 
+# DOMAIN is the one key with no safe default - see its declaration above. An
+# inline `exit 1` is right here: nothing has been built, no log file is open
+# yet, and cPanel's own deploy log and cpanel-autopull.sh's failure mail both
+# carry stderr.
+if [ -z "$DOMAIN" ]; then
+  echo "FAIL: deploy.conf sets no DOMAIN (or there is no deploy.conf). The domain" >&2
+  echo "FAIL:   decides the edition, the canonical tags, the sitemap and the branding," >&2
+  echo "FAIL:   so a missing value cannot be guessed. Put DOMAIN=<host> in deploy.conf" >&2
+  echo "FAIL:   (sample-deploy-minimal.conf is the two-line form)." >&2
+  exit 1
+fi
 # ADMIN_EMAIL defaults to admin@<DOMAIN> rather than staying unset, so every
 # clone gets a deploy-log notification out of the box without needing its
 # own deploy.conf entry. The flag feeds a loud warning inside main()'s

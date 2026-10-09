@@ -125,7 +125,7 @@ These production domains are hosted on [iFastNet](https://ifastnet.com/portal/af
    - `cp sample-deploy.conf deploy.conf` — the full template, documenting every key inline. Copy this one if the clone needs the keys that stay machine-side and are never resolved from the registry (`ADMIN_EMAIL`, the raw `GISCUS_*_ID` values, `CUSTOM_CSS_FILE`, `DEPLOY_PRIMARY`, and `ALT_DOMAINS` with its `ALT_<id>_*` keys), or needs to override what the registry would otherwise fill in.
 
    For a domain **not** registered in `lib/editions.js` (an independent host, or a fork), the lookup resolves nothing and every unset key falls back to the plain defaults below — so set what the clone needs explicitly in `deploy.conf`. `EDITION=<id>` alone borrows a registered edition's homepage copy and flourishes, but nothing else: branding (`SITE_NAME`/`SITE_TITLE`) and the content filter (`CHARACTERS`/`TOPICS`/`THREADS`) are filled from the registry only when the *domain* resolves, so set those keys too if you want them. The cleaner route is registering the domain in an untracked `editions.local.json`, which re-points an existing edition (or declares a new one) so the two-line form works for your domain exactly as it does for a registered one — [`FORKING.md`](./FORKING.md)'s "Taking an edition to your own domain" section is the walkthrough.
-2. Edit `deploy.conf` with values for that clone. Every key is optional; a commented-out or missing key falls back to its default. Example, showing every key at once:
+2. Edit `deploy.conf` with values for that clone. Every key but `DOMAIN` is optional; a commented-out or missing key falls back to its default, while a missing `DOMAIN` fails the deploy before anything is built. Example, showing every key at once:
 
 ```bash
 CPANEL_USER=sciencef
@@ -171,7 +171,7 @@ COMMENTS_ENABLED=true
 | `GISCUS_CATEGORY_JOURNAL_ID` | *(unset — shared default's ID)* | That repo's "Journal" category ID. Required if `GISCUS_REPO` is set. |
 | `DEPLOY_PRIMARY` | `true` | Set `false` to skip deploying to `/home/<CPANEL_USER>/public_html/` entirely — for an account whose `public_html` is reserved for something else (or left parked) and should only serve one or more `ALT_DOMAINS` below. |
 
-If `deploy.conf` is missing entirely, every key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `DOMAIN=fianilchruinne.com`, `SITE_NAME=Fian Ilchruinne`/`SITE_TITLE=Fian-ilchruinne`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@fianilchruinne.com`, no custom lore/CSS, comments on, and the shared default giscus repo.
+`DOMAIN` has no default: a missing `deploy.conf`, or one without that line, fails the deploy before anything is built (since 2026-10-09, after two clones that fell back to the canonical domain served the canonical site under their own names). Every other key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `SITE_NAME=Fian Ilchruinne`/`SITE_TITLE=Fian-ilchruinne`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@fianilchruinne.com`, no custom lore/CSS, comments on, and the shared default giscus repo.
 
 ### `ALT_DOMAINS` — deploying more than one domain from one clone
 
