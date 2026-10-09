@@ -2,6 +2,63 @@
 
 **Open items from this file are indexed in [`open-questions.md`](open-questions.md).**
 
+## Three Routes to One Stillness — the Krenyi beside the INFJ-A, 9 October 2026, agreed
+
+Dermot asked for the [Krenyi](../src/lore/krenyi.md) compared with the sigma
+INFJ-A personality type, the type he gave Tissadelle on 28 July 2026 (highly
+sensitive but confident, self-directed, outside the hierarchy, expecting a
+depth most people cannot supply). He agreed the reading below (*Agreed*). It
+is a craft note and not a lore change; nothing on the Krenyi page moves.
+
+**The finding.** The Krenyi look like the INFJ-A made into a people, and the
+resemblance holds on every surface trait: no small talk, straight to material
+terms; bond before attraction; few deep loyal bonds; the quiet cut-off (the
+INFJ's door slam is the Krenyi withdrawing relevance); reading a room's
+undercurrents fast; honesty with a short-lived blindness to new social games;
+low reactivity, no hunger for approval; cooperation extended rather than owed;
+grief that does not run on. It breaks on the mechanism under each trait, and
+the break runs the same way every time. **An INFJ-A arrives at stillness by
+feeling a great deal and governing it. A Krenyi arrives at the same stillness
+by not having three of the feelings at all.**
+
+**The divergences, which are the usable part:**
+
+- *Empathy.* The INFJ feels other people's states and sometimes drowns in
+  them. The Krenyi reads a frightened human accurately without feeling any of
+  it; the page calls this a different instrument, not a better grade of the
+  same one. Tissadelle leads by felt empathy. A Krenyi commands by attention.
+- *Symbol and meaning.* The sharpest one. The INFJ lives in metaphor and loves
+  fiction and music for it. The Krenyi refuse symbol as a practice, read a
+  novel for its apparatus, and find human music reaching for handholds they
+  lack. Tissadelle came up through the Music Corps and Slipwave; her inner
+  world is made of the things a Krenyi has no instrument for.
+- *Time.* The INFJ is future-oriented and carries the past heavily. The Krenyi
+  attend to what is here and coming and let the past go unless it does work.
+- *Harmony.* The INFJ keeps the room at peace, which means joining its small
+  fictions. The Krenyi cannot pretend not to have seen one.
+- *Confidence.* Tissadelle's is real and withheld, read as weakness by rooms
+  that grade on projection. A Krenyi's stillness is read as poise, and that
+  reading is also wrong, because nothing is being mastered. Both misread, in
+  opposite directions.
+- *Interior.* Tissadelle's outward solitude is matched by a populated
+  interior. The Krenyi page says nothing of an inner multiplicity, and a
+  people who refuse to be placed by an origin would refuse a type too.
+
+**Why it stays a seed.** The Krenyi page already holds the sentence that stops
+them becoming the INFJ species: likening a people to a human category records
+what the encounter resembled and nothing about the thing. The same rule that
+keeps Tissadelle *her and not a type* keeps the Krenyi a people and not a
+temperament.
+
+**The seed.** The Krenyi page sets the Quiet-Built beside the contemplatives:
+two routes to one condition, the body and the discipline. Tissadelle beside
+[Syra](../src/characters/syra.md) would show a third, the governed feeling,
+and the three would read each other's stillness wrongly in ways a scene could
+use: the Krenyi reading Tissadelle's withheld confidence as a fiction the room
+is conducting; Tissadelle reading Krenyi stillness as composure and waiting
+for it to run out; a contemplative recognising both and naming neither.
+No slot, no draft; it waits for a chapter that wants it.
+
 ## Dialect and language variants, between characters and between members of a collective — raised 7 October 2026, OPEN
 
 Dermot, 7 October 2026, from a typo of his own: *"That typo makes me thinking
