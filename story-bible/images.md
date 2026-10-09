@@ -3387,7 +3387,25 @@ image parts, for light and weather and never for content.
   - **The housing is the century.** Everything else in the frame could be four hundred years old, which is the archive's point; the one sealed thing says when.
   - **Delivered 8 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K), through `image-file.ps1` at finish strength 1: unmarked spines, empty ruled columns, the pencil and the housing where the prompt put them; 2 had labelled binders on the shelves and faint marks on the page that read as writing. The stock book it replaces is gone from the repository.
 
-### 6. Images that should not stay — audited 2026-08-10
+### 5d. Outstanding lore illustrations — 9 October 2026 (Threshold Station, from Dermot's own frame)
+
+The page was written 9 October 2026 from the published canon, and a place
+gets an illustration. Dermot's choice among four of his coastal frames,
+shown side by side: *The Great South Wall* (`great-south-wall-light-track`
+on dermotcochran.com, Great South Wall, March 2026), a sea wall running out
+to a light at dusk with the sun on the water beyond. His ruling the same
+day: a composite is fine, the place need not be real. So the frame is the
+plate and the far end is re-rendered; the record never describes the
+station's shape, and the picture withholds it too. Registered in
+`image-prompts.md` as a composite on his plate.
+
+- **`threshold-station.jpg`** — *a shore station in the Solar System, built on a coast where the Interval between two universes narrows over the water off its docks. Its vocabulary is a harbour's.*
+  The plate is Dermot's own frame of the Great South Wall at dusk, sent as the reference and to be kept as it is: the wall, the water, the sky, the low sun and the lens flare, all his. What changes is the far end: the red lighthouse and the ferry become the station's shoreward edge, low and dark against the light, a long line of docks along the water with a few working lights and no glazing, no tower, no antenna, nothing that announces itself. Nothing in the record says what the station looks like, and the picture keeps that.
+  References: `../dermot-cochran-photography/src/images/photos/great-south-wall-light-track.jpg`
+  > Edit the reference photograph and keep it as it is in every respect except the far end of the sea wall. Keep the stone wall in the foreground, the rough boulder edge on the right, the sea on the left, the pale dusk sky, the low sun and its glare on the wet stone, the lens flare, the grain, the framing and the colour exactly as the photograph has them. At the far end of the wall, where the photograph shows a red lighthouse and a white ship, place instead the shoreward edge of a small coastal station seen from a long way off, in silhouette against the light: a long, low line of plain docks and dark hull-like structures along the water, a few small steady working lights, no tower, no glazing, no antenna, no mast, no ship, no people, no text or markings of any kind. The station is dark against the sky and reads only as a shape; the sun and the sea do all the work. Documentary realism, available light, muted colour, nothing dramatic, nothing added anywhere else in the frame. Landscape orientation, the same aspect as the photograph.
+  - **The plate is the picture.** Anything the model wants to add elsewhere is wrong; the brief is one edit at the far end.
+  - **No tower.** The Sceir Light is a different page and its tower faces landward; the station has no tower on record.
+  - **Delivered 9 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K, the plate sent as the one reference), through `import-image.ps1` at finish strength 1: the plate is untouched and the far end is one low dark line with three working lights, which is all the record allows. Dermot: *"That composite looks great."* Variation 2 ran a whole shoreline of sheds out of the right of the frame; his reading, *"it extends out of the frame implying a much larger structure"*, and the record gives no such structure.
 
 Open work 1 and 5 are the images that are **missing**. This is the other half:
 images that **exist and shouldn't**. Prompted by Dermot noticing that Saint

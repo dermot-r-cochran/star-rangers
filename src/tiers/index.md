@@ -161,7 +161,7 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
     back from the ones below it.
   </p>
   <p class="thread-section__description">
-    Adds <a href="/star-rangers/threads/church-space/">Church Space</a>, Season 8 —
+    Adds <a href="https://church-space.site/threads/church-space/">Church Space</a>, Season 8 —
     devotional reading kept beside the shared record — and the pages of the orders that
     keep it. This is the only tier that holds the whole record. It may also carry
     additional viewpoint scenes in any chapter of any storyline: a character sitting with
