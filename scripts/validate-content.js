@@ -677,6 +677,13 @@ function main() {
   // silently mixing their comments (see comment_id's own doc in
   // lib/content-schema.js for why it must stay unique and permanent).
   const commentIdOwners = new Map();
+  // character id -> relativePath of the first character page seen with it.
+  // A chapter's `povs:` and the editions' hero casts name a character by this
+  // id (.eleventy.js resolves `c.data.id`), so two pages sharing one id would
+  // both answer to it and the wrong portrait or viewpoint could render. Found
+  // 2026-10-09 by scripts/extract-characters.js: sorcha.md and
+  // sorcha-shepherd.md both carried `id: sorcha`.
+  const characterIdOwners = new Map();
   const codexSlugs = loadCodexSlugs();
   // Every URL the site builds, so a version chain's forward and backward links
   // can be checked against something real rather than assumed.
@@ -735,6 +742,15 @@ function main() {
         problems.push(`comment_id "${data.comment_id}" is already used by ${owner} - each chapter needs its own`);
       } else {
         commentIdOwners.set(data.comment_id, relativePath);
+      }
+    }
+
+    if (schema === CONTENT_TYPES.character && !isBlank(data.id)) {
+      const owner = characterIdOwners.get(String(data.id));
+      if (owner) {
+        problems.push(`id "${data.id}" is already used by ${owner} - a chapter's povs: and an edition's hero cast name a character by id, so each page needs its own`);
+      } else {
+        characterIdOwners.set(String(data.id), relativePath);
       }
     }
 
