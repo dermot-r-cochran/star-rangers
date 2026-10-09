@@ -19,7 +19,7 @@ This wants saying plainly, because the site's other property invites a much wors
 
 ## What It Shares the Point With
 
-**L5 also carries a [flexure](/star-rangers/lore/boundary-zones/)** — a standing bend in this membrane's own geometry, drawing a patch of it toward a neighbour, so that the [Interval](/star-rangers/glossary/interval/) narrows over that patch and nowhere else. It is the ordinary inter-membrane case: the same kind of edge [Threshold Station](/star-rangers/lore/habitat-threshold/) and the Marsh Causeway sit on, and it behaves the same way.
+**L5 also carries a [flexure](/star-rangers/lore/boundary-zones/)** — a standing bend in this membrane's own geometry, drawing a patch of it toward a neighbour, so that the [Interval](/star-rangers/glossary/interval/) narrows over that patch and nowhere else. It is the ordinary inter-membrane case: the same kind of edge [Threshold Station](/star-rangers/lore/threshold-station/) and the Marsh Causeway sit on, and it behaves the same way.
 
 Two things follow, and the record is careful about both.
 
