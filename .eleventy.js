@@ -24,7 +24,10 @@ const { threadForSeason, DEFAULT_REFERENCE_DOMAIN } = require("./lib/storyline-t
 const { statusKey } = require("./lib/status-key");
 const { findArchiveBacklinks } = require("./lib/archive-backlinks");
 const { findArchiveCompanions } = require("./lib/archive-companions");
-const { getEdition, validateEditions, PRESENTATION_MODES } = require("./lib/editions");
+const { getEdition, validateEditions, PRESENTATION_MODES, editionForDomain } = require("./lib/editions");
+const { unlinkExcluded } = require("./lib/unlink-excluded");
+const matter = require("gray-matter");
+const fs = require("fs");
 
 // classifyContentPath / isRelatedTopicPageIncluded / isContentIncluded moved
 // verbatim to lib/classify-content.js (required above) so they can be
@@ -237,6 +240,27 @@ module.exports = function(eleventyConfig) {
   // it to "/" since 2026-10-06, when fianilchruinne.com became the Pages
   // custom domain and that build moved to the root; and cPanel builds don't
   // need it either - scripts/cpanel-deploy.sh already strips this same
+  // Links to pages THIS build excludes are rendered as plain text, so no
+  // reader reaches a "Not included in this edition" stub by clicking (Dermot's
+  // choice, 2026-10-09, after a site review read the four such stubs reachable
+  // from inside the canonical site as dead ends). The stub still builds at its
+  // URL for a direct hit and now says what the page is (excluded.njk). The set
+  // of excluded URLs is gathered by the `excludedPages` collection below;
+  // collections resolve before any transform runs. Registered BEFORE the
+  // SITE_PATH_PREFIX rewrite, which is why lib/unlink-excluded.js matches the
+  // hardcoded /star-rangers/ form every href in the corpus is written in.
+  const excludedUrls = new Set();
+  eleventyConfig.addCollection("excludedPages", (collectionApi) => {
+    excludedUrls.clear();
+    const pages = collectionApi.getAll().filter((item) => item.data.layout === "excluded.njk");
+    for (const item of pages) if (item.url) excludedUrls.add(item.url);
+    return pages;
+  });
+  eleventyConfig.addTransform("unlinkExcluded", function (content, outputPath) {
+    if (outputPath && /\.html$/.test(outputPath)) return unlinkExcluded(content, excludedUrls);
+    return content;
+  });
+
   // prefix with its own post-build sed step, independently of this.
   const sitePathPrefix = process.env.SITE_PATH_PREFIX;
   if (sitePathPrefix && sitePathPrefix !== "/star-rangers/") {
@@ -710,6 +734,29 @@ module.exports = function(eleventyConfig) {
     // excluded page points at its own homeDomain instead of the default
     // reference domain, so it never loops back to another placeholder.
     referenceDomain: (data) => computeReferenceDomain(data),
+    // What the stub may say about the page it stands in for (excluded.njk,
+    // since 2026-10-09): the page's own title and description, read back from
+    // its file rather than from `data`, because the computed `title` and
+    // `description` above have already been replaced by the time any other
+    // computed field could read them. Only an excluded content file is read;
+    // a paginated page has no file of its own and gets nothing. The edition
+    // the reader is sent to is named by tier, so the sentence can say "the
+    // contemplative edition" or "the full record" without a hand-kept table.
+    excludedPage: (data) => {
+      if (isContentIncluded(data, contentFilter)) return undefined;
+      const inputPath = data.page && data.page.inputPath;
+      let title, description;
+      if (inputPath && /\.md$/.test(inputPath) && fs.existsSync(inputPath)) {
+        try {
+          const fm = matter(fs.readFileSync(inputPath, "utf8")).data || {};
+          title = fm.title;
+          description = fm.description;
+        } catch (e) { /* a stub with nothing to say is still a stub */ }
+      }
+      const domain = computeReferenceDomain(data);
+      const edition = editionForDomain(domain);
+      return { title, description, domain, tier: edition ? edition.tier : null };
+    },
     // The comments board this page posts to - see computeGiscusBoard. Read by
     // base.njk in place of the build-wide `giscus` global.
     giscusBoard: (data) => computeGiscusBoard(data),

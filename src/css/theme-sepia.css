@@ -1301,6 +1301,17 @@ a:focus {
   color: var(--color-title);
   margin-bottom: var(--spacing-lg);
 }
+/* A link to a page this build excludes, rendered as plain text by the
+   unlinkExcluded transform (lib/unlink-excluded.js, 2026-10-09). Marked only
+   by a dotted underline and the title attribute's hint, so it reads as a
+   name and not as a broken link. */
+.gated-link {
+  color: inherit;
+  text-decoration: underline dotted;
+  text-underline-offset: 0.15em;
+  cursor: help;
+}
+
 .page-intro {
   font-size: 1rem;
   color: var(--color-text-muted);

@@ -1124,3 +1124,13 @@ flags the issue set out, no underlay, default motif:
 
 They match the codex's plain cards rather than the Ballad cover; the alts
 say so. Remaking them in the Ballad look is open until the underlay exists.
+
+## 2026-10-09 — Threshold Station, a composite on Dermot's own plate
+
+### threshold-station.jpg — filed from run 1 variation 1
+- **Type:** composite: Dermot's own photograph as the plate, one region re-rendered
+- **Plate:** *The Great South Wall* (`great-south-wall-light-track.jpg` on dermotcochran.com, Great South Wall, March 2026), chosen by him from four coastal frames shown side by side (*"Option 1 for the coastal frame is fine"*), with his ruling that a composite is fine and the place need not be real
+- **Tool:** Gemini, `gemini-3.1-flash-image`, via `scripts/image-prompts.js --generate --only threshold-station`, the plate sent as the one reference; filed through `import-image.ps1` at finish strength 1
+- **Date:** 9 October 2026
+- **Prompt / recipe:** the blockquote in `images.md` § 5d: keep the photograph in every respect except the far end of the wall, where the red lighthouse and the ferry become the shoreward edge of a small coastal station in silhouette, a low line of docks with a few working lights, no tower, no glazing, no antenna, no text; 16:9, 2K, two variations
+- **Notes:** variation 1 is the plate untouched with one low dark line and three lights at the far end; Dermot: *"That composite looks great."* Variation 2 ran a shoreline of sheds out of the right of the frame; his reading, *"it extends out of the frame implying a much larger structure"*, which the record does not give. Alt text written from the file. The lens flare and the headland on the horizon are the photograph's own.
