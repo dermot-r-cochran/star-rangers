@@ -295,3 +295,20 @@ test("a tier constant is a floor: the-told extends the children's tier and the g
   assert.equal(btr.commentsEnabled, false);
 });
 
+
+test("aliasesOf inverts the ALIASES map: every parked alias of a domain, sorted, nothing for a domain nothing points at", () => {
+  const { ALIASES, aliasesOf } = require("../lib/editions");
+  assert.deepEqual(aliasesOf("starquest.site"), ["star-rangers.site", "starquest.online"]);
+  assert.deepEqual(aliasesOf("https://www.fianilchruinne.com/"), [
+    "fian-ilchruinne.com",
+    "fianilchruinne.net",
+    "fianilchruinne.online",
+    "fianilchruinne.site",
+    "fianilchruinne.space"
+  ]);
+  assert.deepEqual(aliasesOf("undercover-pets.com"), []);
+  assert.deepEqual(aliasesOf(""), []);
+  for (const alias of Object.keys(ALIASES)) {
+    assert.ok(aliasesOf(ALIASES[alias]).includes(alias), `${alias} missing from aliasesOf(${ALIASES[alias]})`);
+  }
+});
