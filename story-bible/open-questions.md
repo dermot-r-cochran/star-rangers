@@ -35,6 +35,16 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The Inspectorate — the schedule entire, and former Rangers as inspectors — raised 9 October 2026, OPEN
+
+`intake-2026-10-09.md`. The Inspectorate of the Star Rangers is on the
+Council page with the two rungs Dermot gave (Chief Inspector to Chief,
+Inspector-General to High Captain). Two extensions offered as choices,
+neither asserted: whether the Archive quotes the full schedule of grades
+(leave it unquoted, recommended) and whether former Rangers may serve as
+inspectors (leave it unestablished, recommended). Four readings flagged
+there for his eye; the pages stand on them until he says otherwise.
+
 ## Dialect and language variants — between characters, and between members of a collective — raised 7 October 2026, OPEN
 
 Raised in `ideas.md` from a remark of Dermot's. Two ideas: speech variants by
