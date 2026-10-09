@@ -6,6 +6,9 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Alias domains answered 403 instead of redirecting** (`scripts/cpanel-deploy.sh`, 2026-10-09, found in a Search Console sweep of every domain). `deploy_alias_notice()` renders the redirect notice into a `mktemp -d` directory, which is created `0700`, and `rsync -a` then copies that mode onto the alias's document root, so Apache could not read the `.htaccess` it had just been given and refused every request. starquest.online, church-space.online, fellowshipoflight.online and fellowshipoflight.space had all served "403 Forbidden" since their demotion to aliases. The temp directory is now `chmod 755` before the rsync. The same sweep found the sciencef and starques clones building the canonical full site because their `deploy.conf` had no `DOMAIN` line (the conf-less fallback is fianilchruinne.com); fixed on the accounts, not in the repo.
+- **Scene-POV pages reach the sitemap** (`src/scene-pov.njk`, 2026-10-09). Eleventy adds only the first page of a paginated template to `collections.all` unless `addAllPagesToCollections` is set, so `src/sitemap.njk` listed one scene-POV page out of 312 (the pitch POV of S00E01C01). Every other collection filters by layout or input path, so nothing else changes; hidden POVs are still excluded by the sitemap's `item.included` guard. Search Console had been finding the pages through chapter links anyway, which is why the gap never showed as missing pages.
+
 ## [1.35.0] — 2026-10-08
 
 Six days in which the seasons filled out and the pictures caught up. Season
