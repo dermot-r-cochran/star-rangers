@@ -152,12 +152,30 @@ permalink: /start/
   <em>An archivist's note — which is to say: unofficial, signed, and permitted an opinion. I keep the record you are about to read reconciled, and this note is what I tell people who ask my desk where to start, written down so I can stop repeating it. The record is one history attested by many witnesses, and the shelf around it is reference, not homework — you need none of it before you begin. If you would rather browse than be guided, <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> lists everything, and my feelings will survive.</em>
 </p>
 
+{#- "Begin here" opens on the spine's first numbered episode, not on
+    Episode 0. Story order puts the Season 1 prequels (S01E00) first, and
+    until 2026-10-09 the page sent a new reader to a cat on the road to an
+    abbey when the homepage had just promised a station clock; Dermot's
+    Option A that day: open on the clock, offer the prequels one line later.
+    `preludeFirst` is the first Season 1 Episode 0 chapter, if the build
+    carries one; the sentence under it describes that episode, so it is
+    pinned to Season 1 rather than to whichever season the spine opens on. -#}
 {% set spineFirst = null %}
+{% set preludeFirst = null %}
 {% for chapter in allChapters %}
-  {%- if not spineFirst and (chapter.data.season | threadForSeason).id == "tissadelle-arc" -%}
-    {%- set spineFirst = chapter -%}
+  {%- if (chapter.data.season | threadForSeason).id == "tissadelle-arc" -%}
+    {%- if not spineFirst and chapter.data.episode > 0 -%}
+      {%- set spineFirst = chapter -%}
+    {%- endif -%}
   {%- endif -%}
 {% endfor %}
+{% if spineFirst %}
+  {%- for chapter in allChapters -%}
+    {%- if not preludeFirst and spineFirst.data.season == 1 and chapter.data.season == 1 and chapter.data.episode == 0 -%}
+      {%- set preludeFirst = chapter -%}
+    {%- endif -%}
+  {%- endfor -%}
+{% endif %}
 {% if not spineFirst and allChapters.length %}{% set spineFirst = allChapters[0] %}{% endif %}
 
 <section class="thread-section" aria-labelledby="plan-step-1">
@@ -180,6 +198,11 @@ permalink: /start/
       </a>
     </li>
   </ul>
+  {%- if preludeFirst -%}
+  <p class="thread-section__description">
+    The same season also keeps an <a href="/star-rangers{{ preludeFirst.url | replace(preludeFirst.fileSlug + "/", "") }}">Episode 0</a> of prequels — a household cat, three machines on a wrecked ship, a boundary analyst's three words — which the <em>Next</em> link will not hand you on this path. Read them after the station, when you know what they were before.
+  </p>
+  {%- endif -%}
   {%- else -%}
   <p class="thread-section__description">
     This edition of the record carries no chapters from the spine. <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> will tell you what it does hold — pick up the path there, and rejoin this note at step 4.
