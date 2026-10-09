@@ -1,7 +1,7 @@
 ---
 layout: character.njk
 title: "Sorcha Shepherd"
-id: sorcha
+id: sorcha-shepherd
 species: Human
 role: Cartographic Surveyor, Union Land Registry (Tír na nÓg)
 status: Active
