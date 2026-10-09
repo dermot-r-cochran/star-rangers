@@ -35,6 +35,19 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The Celtic Union's distance from Sol — raised 9 October 2026, OPEN, fix only when a chapter needs it
+
+Dermot asked whether 2826 UCSD (2626 CE, 600 years from 2026) leaves room
+for the Founding Era. It does: the record paces the 486 years to 2712 UCSD
+with dated steps (`intake-2026-10-09.md`, last section). The one pinch is
+the Currach Fleet: six sublight arks leave 2561–2589 UCSD and the Union is
+six worlds with a thirty-year charter and a reconstructed Irish by 2826,
+so crossing and building share 237–265 years. No distance and no arrival
+year are on record, which is consistent. When a chapter first needs either,
+fix the distance at something the transit can bear, under ten light-years
+at a tenth of lightspeed, and let the arrival year follow; never move the
+UCSD offset, settled 5 August. His *That makes sense*.
+
 ## The Inspectorate — the schedule entire — raised 9 October 2026, RULED same day (*Sounds good*)
 
 `intake-2026-10-09.md`. The Inspectorate of the Star Rangers is on the
