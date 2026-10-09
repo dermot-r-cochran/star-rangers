@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **[Timekeeping and the Common Record](src/lore/timekeeping-and-the-common-record.md) gains *No Galactic Calendar* and *Naming the Present*** (2026-10-09, Dermot's *Option 1 for both* on two questions, what the contemporary era of 2826 UCSD is called and how galactic years are recorded — `story-bible/intake-2026-10-09.md`). There is no galactic year: the astronomer's is two hundred million of anyone's years, and a civil one would need a galactic present, which no signal faster than a hull supplies; a year is always somebody's year, converted beside UCSD and never replaced, and the Survey Corps' pulsar ephemeris is a shared coordinate rather than a calendar, kept consistent with the paper timescale of *Count and Calibration*. The Archive names no era for its own present: the retrospective names it carries were given afterwards, *the Concord period* runs to the present without describing it, and a people may name the present in its own voice with the record filing the name beside the date. Both extensions of the 5 August settlement; the rule sits in CLAUDE.md beside the dates rule.
+
 ## [1.36.0] — 2026-10-09
 
 One day, and the record read by a stranger. A Grok review run as a new
