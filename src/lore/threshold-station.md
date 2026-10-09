@@ -10,7 +10,7 @@ system: "Sol System"
 locationType: "Station"
 ---
 
-Nothing at Threshold Station announces itself. A clock was wrong by forty seconds, and it took someone with the patience to compare two clocks, day after day, to notice that the fault would not stay corrected.
+Sometimes little details turn out to be much more important than anyone would ever have expected. Threshold Station is perhaps the most famous example, so far, in the history of the Star Rangers organisation.
 
 **Threshold Station** is a shore station in the Solar System, built on a coast where the [Interval](/star-rangers/glossary/interval/) between two universes narrows over the water off its docks. Its vocabulary is a harbour's: hulls, cutters, docks, and the thin water off Dock Seven meant literally. It did not arrive at the boundary. It was built there, about 2813 UCSD, and stayed: a [Survey Corps](/star-rangers/lore/formation-of-star-rangers/) post with a [Starwarden](/star-rangers/lore/star-rangers-command-hierarchy/) answering for it and a crew drawn from several peoples. The [Marsh Causeway](/star-rangers/lore/boundary-zones/) is a short walk down the same shore, the only other boundary in the Solar System that can be stood on, and that the two are neighbours says nothing about where boundaries are and a great deal about where the instruments are.
 
