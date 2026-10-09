@@ -8,7 +8,7 @@
 const test = require("node:test");
 const assert = require("node:assert/strict");
 
-const { createMarkdownRenderer } = require("../lib/markdown-containers");
+const { createMarkdownRenderer, headingSlug } = require("../lib/markdown-containers");
 
 const md = createMarkdownRenderer();
 
@@ -157,3 +157,47 @@ test("scene and pov boundaries are headings: an h2 for the scene, h3 for a pov i
   assert.ok(!noScene.includes("scene__label"));
 });
 
+
+// Heading ids (markdown-it-anchor, since 2026-10-09). Pinned because the
+// corpus's fragment links were written to this exact shape before any id
+// existed, and a slugify that hyphenated punctuation instead of dropping it
+// would silently break every one of them again while the build stayed green.
+test("headings carry GitHub-shaped ids, and nothing else is added to them", () => {
+  const html = md.render(
+    [
+      "## In the Corps: Rare, and Valued",
+      "## An Origin the Record Doesn't Hold",
+      "## Past, Present, and Future",
+      "## Past, Present, and Future",
+      "## The [Name](/star-rangers/)",
+      ""
+    ].join("\n\n")
+  );
+  assert.ok(html.includes('<h2 id="in-the-corps-rare-and-valued">'), "punctuation is dropped, not hyphenated");
+  assert.ok(html.includes('<h2 id="an-origin-the-record-doesnt-hold">'), "an apostrophe is dropped");
+  assert.ok(html.includes('<h2 id="past-present-and-future">'));
+  assert.ok(html.includes('<h2 id="past-present-and-future-1">'), "a repeated heading is uniquified");
+  assert.ok(html.includes('<h2 id="the-name">'), "the id comes from the heading's text, markup aside");
+  assert.ok(!html.includes("tabindex"), "no tabindex");
+  assert.ok(!html.includes("header-anchor"), "no permalink markup");
+});
+
+test("headingSlug keeps letters in any script and hyphens already in the words", () => {
+  assert.equal(headingSlug("Quiet-Zone Tunnels: Undetected Natural Fold Conduits"), "quiet-zone-tunnels-undetected-natural-fold-conduits");
+  assert.equal(headingSlug("Garda an Uachtaráin — the President's Guard"), "garda-an-uachtaráin-the-presidents-guard");
+});
+
+test("a heading inside a tier-gated block the build drops gets no id and costs no slug", () => {
+  const src = [
+    "::: pov asteria tier=contemplative",
+    "## The Same Heading",
+    ":::",
+    "## The Same Heading",
+    ""
+  ].join("\n");
+  const general = createMarkdownRenderer({ buildTier: "general" }).render(src);
+  assert.ok(general.includes('<h2 id="the-same-heading">'), "the visible heading keeps the plain slug");
+  assert.ok(!general.includes("the-same-heading-1"));
+  const contemplative = createMarkdownRenderer({ buildTier: "contemplative" }).render(src);
+  assert.ok(contemplative.includes('<h2 id="the-same-heading">') && contemplative.includes('<h2 id="the-same-heading-1">'));
+});

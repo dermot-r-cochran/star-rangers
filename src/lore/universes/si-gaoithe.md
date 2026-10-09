@@ -19,7 +19,7 @@ Where Tír Tairngire's membrane cycles on a rhythm regular enough to set a calen
 
 ## The Tunnels
 
-At its more extreme fluctuations, Sí Gaoithe's membrane opens the same rare, matter-crossing outcome documented at Tír Tairngire — a [transient gravity tunnel](/star-rangers/lore/concordant-membranes/#beyond-class-iii-transient-gravity-tunnels) — but with none of the other site's reliability. Duration, location, and recurrence are all unpredictable; no instrumented team has ever had advance warning of one forming, and none has caught one closing on a schedule the way Tír Tairngire's does. The folk term "fairy wind" describes the tunnel's only consistent tell: a brief, localized gust or dust-devil at the exact site, gone by the time anyone arrives to check it.
+At its more extreme fluctuations, Sí Gaoithe's membrane opens the same rare, matter-crossing outcome documented at Tír Tairngire — a [transient gravity tunnel](/star-rangers/lore/concordant-membranes/#beyond-type-iii-transient-gravity-tunnels) — but with none of the other site's reliability. Duration, location, and recurrence are all unpredictable; no instrumented team has ever had advance warning of one forming, and none has caught one closing on a schedule the way Tír Tairngire's does. The folk term "fairy wind" describes the tunnel's only consistent tell: a brief, localized gust or dust-devil at the exact site, gone by the time anyone arrives to check it.
 
 ## Who Crosses
 
