@@ -61,7 +61,7 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
 <p>
   Inside a thread the units get smaller. A thread is made of seasons, a season of
   episodes, an episode of chapters, and a chapter of scenes seen from more than one
-  viewpoint. Within a single season the story may also run as two <strong>strands</strong>:
+  viewpoint. Within a single season the story may also run as two or more <strong>strands</strong>:
   parallel storylines with separate casts and no shared scenes, each complete on its own,
   meeting at a point fixed before either was written. Season 1 is the model — the
   Threshold Station survey team on one strand, the Marsh Causeway on the other, and the
