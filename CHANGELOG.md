@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Saltmere links Kernel-compliant to its glossary entry** (`src/lore/planets/saltmere.md`, 2026-10-10, at Dermot's ask). The Aquabots section used the term without a link, so a reader arriving on the page had only the sentence's behavioural gloss; the first use now links to the Kernel-Compliant glossary entry. Wording unchanged.
+
 - **The Told: a grown name is said in full only on formal occasions** (`src/glossary/the-told.md`, `story-bible/open-questions.md`, 2026-10-10, Dermot's ruling: *"It may grow but it is not required to address them by the full extent of the name except for formal occasions"*). The glossary's *A name grows* paragraph now says a name may grow but need not, and that in ordinary speech the people call a person by the first telling (Stone-First-Who-Waited is still, most days, Stone-First), with the whole name kept for formal occasions; the record follows the speakers. It replaces the line that the record *does not shorten* a grown name, which Season 12 already did not follow. A clarification; Carried-It-Sleeping's name is unchanged.
 
 - **Reading Tiers explains why one thread is named for an arc** (`src/tiers/index.md`, 2026-10-10, Dermot's choice of *keep the name and add a sentence* among three shapes). The page says a character's arc is not a reading path, and the thread *Tissadelle Shepherd's Arc* is one; a sentence now says the thread borrows its name from her arc because her career puts its five seasons in order, and that the thread is the reading path while the arc stays hers. The thread's name, id and URL are unchanged.
