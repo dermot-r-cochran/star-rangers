@@ -68,7 +68,9 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
   two converging at the causeway. A strand is a way of reading a season, not a setting on
   the site: no address shows one strand without the other. And a character's <em>arc</em>
   — Tissadelle Shepherd's, say — is a trajectory through many seasons, not a reading path
-  of its own.
+  of its own. The thread called <a href="/star-rangers/threads/tissadelle-arc/">Tissadelle
+  Shepherd's Arc</a> borrows its name from hers because her career is what puts its five
+  seasons in order; the thread is the reading path, and the arc is still hers.
 </p>
 
 <h2>The ladder</h2>
