@@ -43,8 +43,8 @@ Union's weight is political, not headcount, and the Solar System outnumbers
 it many times over; his addition, the Union's diplomatic ties to the
 Federation and the Hegemony are better. Realized on
 `civilisation-comparison.md` and the Union page's *Ties beyond the Solar
-System*. **Reading taken, flagged on the PR:** *better* means closer than the
-Solar System's ties to each. **Still open, held until a chapter needs it:** how
+System*. **Reading confirmed the same evening (*Option (a)*):** *better* means closer
+than the Solar System's ties to each. **Still open, held until a chapter needs it:** how
 the Union's ties to the Hegemony were made, and the Hegemony's and the
 Federation's populations. *Humans the overall majority* is not filed; under
 Option 1 it is not established. **Added the same evening, verbatim:** *"Solar System is mostly human populated, Celtic Union is the next largest human population but much less dense"* — filed on both pages.
