@@ -65,3 +65,11 @@ She does not mythologise the work. The work is the work.
 Her relationship to Tissadelle Shepherd develops across the early seasons. At Season 1's start, Shepherd is a cadet well below Wender's operational horizon. That changes.
 
 By Season 5, holding the rank of High Captain, Wender sits directly in Shepherd's chain of command during fleet-wide anomaly review — and reads, correctly, that a documented anomaly flag doesn't require a subordinate to disclose everything she privately knows to be sound. See [A Fraction of a Second (S05E02C02)](/star-rangers/seasons/s05/e02/s05e02c02/).
+
+## After Dock Seven
+
+The doctrine she taught came back to her in the mid-autumn of 2831 UCSD. She read Shepherd's Triumvirate log twice, looking for the place where it stopped being right, and did not find one. The order was correct, she was eleven hours away, and the ship was already in. She keyed the relay: *Countermand nothing* ([What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/)).
+
+Nineteen days later the Oversight Council put a hero's citation on her desk. Every sentence in it was true and the sum was a lie, *this is finished*, and she did not sign it ([What the Instruments Kept (S06E01C02)](/star-rangers/seasons/s06/e01/s06e01c02/)). Fifty-three days after Dock Seven the same doctrine left her without an answer. An inquiry submission laid the claim that Shepherd's survey flag was pretextual, the coordinate lying on land held under her family's name, and Wender had never asked her what she knew about it. She would not claim past her evidence: "The Corps does not answer the first claim" ([On the Record First (S06E02C01)](/star-rangers/seasons/s06/e02/s06e02c01/)).
+
+In the early winter she picked up the stylus she had set down and began the accurate account of Dock Seven with Syra and the Survey Archive's reconciling desk: a list of what was known ([The Accurate Account (S07E01C01)](/star-rangers/seasons/s07/e01/s07e01c01/)). When a detail only Shepherd could know came back across the warm edge, she had the whole account sent, neither softened nor finished, and gave Shepherd the next decision: "let her tell us what she wants, and let that be the order" ([Enough Is Enough (S07E01C03)](/star-rangers/seasons/s07/e01/s07e01c03/)).
