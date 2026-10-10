@@ -2899,3 +2899,27 @@ rather than a lens or a title. Four shapes put: record only (recommended);
 an in-world profession as a glossary or lore entry, name and seat his; a
 paragraph in `local-agent`'s decisions file, which partly reopens *undefined
 in public*; a Journal entry, which the morning declined for the lens.
+
+## Three questions from the character-growth audit — raised and ruled 10 October 2026
+
+The audit of the twelve characters with viewpoints in more than one season
+(this session; the page updates merged as #1070) left three questions, each
+put to him as choices with a recommendation. All three recommendations
+taken the same evening.
+
+- **Does Carried-It-Sleeping's name grow in Season 12? — OPEN, his; held on
+  purpose.** The Told's rule is that a truer thing said later is added on,
+  and Season 12 shows one: from S12E01C02 they are no longer among the small
+  ones but keep them. The name was not grown when the page was extended.
+  **Ruled: hold, and mark it here** — so the unchanged name reads as a choice
+  rather than an oversight. Whether it grows, when, and to what, stay his;
+  nothing is drafted until he asks.
+- ~~**Syra's repeated opening**~~ — **RULED: keep as a deliberate echo.**
+  Her Season 5 and Season 7 blocks both open *Syra did not experience deep
+  fear…* (S05E02C03, S07E01C01). Her constancy is the point, so the repeat
+  stays; a later prose pass should not vary either line.
+- ~~**A bridge for Syra taking the boundary desk**~~ — **RULED: leave as a
+  marked absence.** She leaves Season 1 as Thorne's analyst and is at the
+  boundary desk training Toval by Season 5, with nothing between. Her page
+  already says *the record does not say when she took the desk*; on Sen's
+  doctrine the gap stays marked, and no bridge is drafted.
