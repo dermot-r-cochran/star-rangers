@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Told: a grown name is said in full only on formal occasions** (`src/glossary/the-told.md`, `story-bible/open-questions.md`, 2026-10-10, Dermot's ruling: *"It may grow but it is not required to address them by the full extent of the name except for formal occasions"*). The glossary's *A name grows* paragraph now says a name may grow but need not, and that in ordinary speech the people call a person by the first telling (Stone-First-Who-Waited is still, most days, Stone-First), with the whole name kept for formal occasions; the record follows the speakers. It replaces the line that the record *does not shorten* a grown name, which Season 12 already did not follow. A clarification; Carried-It-Sleeping's name is unchanged.
+
 - **Reading Tiers explains why one thread is named for an arc** (`src/tiers/index.md`, 2026-10-10, Dermot's choice of *keep the name and add a sentence* among three shapes). The page says a character's arc is not a reading path, and the thread *Tissadelle Shepherd's Arc* is one; a sentence now says the thread borrows its name from her arc because her career puts its five seasons in order, and that the thread is the reading path while the arc stays hers. The thread's name, id and URL are unchanged.
 
 - **A canon fact in S07E01C03 loses a craft word** (`src/seasons/s07/e01/s07e01c03.md`, 2026-10-10, Dermot's *"Reword the arc canon fact as suggested"*). The fact shown under the chapter read *the exact harm the arc indicts*, putting the story bible's word *arc* in front of readers; it now reads *the exact harm the record's own account warns against*. A clarification: what the fact binds is unchanged.

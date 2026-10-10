@@ -2913,7 +2913,14 @@ taken the same evening.
   ones but keep them. The name was not grown when the page was extended.
   **Ruled: hold, and mark it here** — so the unchanged name reads as a choice
   rather than an oversight. Whether it grows, when, and to what, stay his;
-  nothing is drafted until he asks.
+  nothing is drafted until he asks. **Clarified the same evening**, his words:
+  *"It may grow but it is not required to address them by the full extent of
+  the name except for formal occasions."* So a name *may* grow and is not
+  owed to; and a grown name is said in full only on formal occasions, the
+  first telling serving day to day — which is how Season 12 already writes
+  Stone-First. Recorded in `src/glossary/the-told.md`, *A name grows*.
+  Carried-It-Sleeping's name stays as it is; whether and when it grows is
+  still his.
 - ~~**Syra's repeated opening**~~ — **RULED: keep as a deliberate echo.**
   Her Season 5 and Season 7 blocks both open *Syra did not experience deep
   fear…* (S05E02C03, S07E01C01). Her constancy is the point, so the repeat
