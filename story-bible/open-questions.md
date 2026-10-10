@@ -35,6 +35,20 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The four polities' populations — raised 10 October 2026, RULED same day (*Option 1, Celtic Union has better diplomatic ties the the Federation and Hegemony*)
+
+Extent ruled first (Hegemony thousands of star systems, Federation hundreds,
+Union several, Solar System one). Population: Option 1 of four shapes — the
+Union's weight is political, not headcount, and the Solar System outnumbers
+it many times over; his addition, the Union's diplomatic ties to the
+Federation and the Hegemony are better. Realized on
+`civilisation-comparison.md` and the Union page's *Ties beyond the Solar
+System*. **Reading confirmed the same evening (*Option (a)*):** *better* means closer
+than the Solar System's ties to each. **Still open, held until a chapter needs it:** how
+the Union's ties to the Hegemony were made, and the Hegemony's and the
+Federation's populations. *Humans the overall majority* is not filed; under
+Option 1 it is not established. **Added the same evening, verbatim:** *"Solar System is mostly human populated, Celtic Union is the next largest human population but much less dense"* — filed on both pages.
+
 ## The Celtic Union's distance from Sol — raised 9 October 2026, OPEN, fix only when a chapter needs it
 
 Dermot asked whether 2826 UCSD (2626 CE, 600 years from 2026) leaves room
