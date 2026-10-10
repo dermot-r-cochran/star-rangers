@@ -154,10 +154,8 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
   </p>
   <p class="thread-section__description">
     <strong>Where:</strong> <strong>fianilchruinne.com</strong>, the canonical address,
-    which shows every public page of the record;
-    <strong>sciencefiction.site</strong>, the same tier at its original address; and
-    <strong>dermot-r-cochran.github.io/star-rangers</strong>, built from the public
-    repository.
+    which shows every public page of the record; and
+    <strong>sciencefiction.site</strong>, the same tier at its original address.
   </p>
 </section>
 
