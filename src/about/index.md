@@ -135,17 +135,22 @@ eleventyComputed:
 
 <h2 id="how-this-site-is-deployed">How this site is deployed</h2>
 <p>
-  Two deployments run from this repository. A GitHub Actions workflow builds the site
-  with Eleventy on every push to <code>main</code> and publishes the result to
-  <a href="https://dermot-r-cochran.github.io/star-rangers/">GitHub Pages</a>. Separately,
-  cPanel-hosted clones of the site pull updates via cPanel's Git Version Control feature,
-  driven by <code>.cpanel.yml</code> and <code>scripts/cpanel-deploy.sh</code>, which build
-  the site with Eleventy and copy it into <code>public_html</code>. Each clone's identity —
-  its palette, its wording, and whether it narrows the content to a subset — is resolved
-  from a registry in the repository by domain name, so a clone's own untracked
-  <code>deploy.conf</code> need only name the account and the domain. What that registry
-  may hold is deliberately limited: it carries framing, never facts. The lore, the
-  glossary and the chapters are identical on every domain, and a narrowed clone shows a
-  subset of one record rather than a variant of it.
+  Two deployments run from this repository. The canonical site,
+  <a href="https://fianilchruinne.com/">fianilchruinne.com</a>, is served by
+  GitHub Pages: a GitHub Actions workflow builds it with Eleventy on every push to
+  <code>main</code> and publishes the result, so a change merged there is live within
+  minutes. Every other edition is a cPanel-hosted clone of the repository. Each clone
+  pulls from <code>main</code> on a schedule, usually overnight, and rebuilds only when
+  that pull brings something new, using <code>scripts/cpanel-deploy.sh</code> to build
+  the site with Eleventy and copy it into <code>public_html</code>. So a change reaches
+  the canonical site first and the other editions the following morning.
+</p>
+<p>
+  Each clone's identity — its palette, its wording, and whether it narrows the content
+  to a subset — is resolved from a registry in the repository by domain name, so a
+  clone's own untracked <code>deploy.conf</code> need only name the account and the
+  domain. What that registry may hold is deliberately limited: it carries framing, never
+  facts. The lore, the glossary and the chapters are identical on every domain, and a
+  narrowed clone shows a subset of one record rather than a variant of it.
 </p>
 {%- endif -%}
