@@ -3,7 +3,6 @@ layout: character.njk
 title: "Wren Ansell"
 id: wren-ansell
 role: "Chief Surveyor, Survey Corps Standards Office — Star Rangers"
-status: Active
 aliases:
   - "Chief Surveyor Wren Ansell"
 tags: [survey-corps, standards-office, protocol, threshold-station, official-documents, author]
