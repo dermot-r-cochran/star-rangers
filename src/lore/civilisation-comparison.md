@@ -157,4 +157,19 @@ All three worlds solve the same problem. Only the third leaves the witnesses una
 
 ---
 
+## Four Polities by Extent
+
+Everything above is drawn from the Solar System's own history, because that is the history USC historians had to compare. By the record's present the Solar System is one polity among four, and the smallest of them in reach. Counted by star systems, the four stand in this order:
+
+| Polity | Star systems | How the reach is held |
+|---|---|---|
+| [The Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/) | Thousands | One central authority, with an appointed Administrator-Voice on each world it governs |
+| [The Federation of Sentient Beings](/star-rangers/lore/federation-of-sentient-beings/) | Hundreds | Sovereign member worlds, with no capital and no standing executive |
+| [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/) | Several | Six charter worlds, settled from six arks, each sovereign under a weak confederal charter |
+| The Solar System | One, its own | Governments that rise and fall, under the law of the [Concord](/star-rangers/lore/solar-system-concord/) |
+
+Extent is the one measure the record holds for all four. A count of star systems is not a count of inhabited worlds, of people or of weight in settled affairs, and the record has not established the four polities' populations. It ranks them by reach and by nothing else.
+
+---
+
 See: [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/), [Physics Comparison: Real Cosmos vs. The Fictional Cosmos](/star-rangers/lore/physics-comparison/), [The Five Layers](/star-rangers/lore/five-layers/), [The Cosmic Cascade](/star-rangers/lore/cosmic-cascade/)

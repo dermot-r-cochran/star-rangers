@@ -10,7 +10,7 @@ image_alt: "Designed cover for The Cerebraun Hegemony: a teal hexagonal emblem i
 
 Where the Federation of Sentient Beings keeps no capital and no executive on principle, the Cerebraun Hegemony has both, and considers the alternative a category error.
 
-The **Cerebraun Hegemony** is the governing state of the [Cerebraun](/star-rangers/lore/cerebraun/) species and the dominant power across its home cluster: a single central authority — the **Prime Ganglion**, a rotating council seat held by whichever Cerebraun demonstrates the clearest capacity to hold the whole polity's competing internal signals in coherent balance — with subordinate world-administrations answerable to it rather than treaty partners of it.
+The **Cerebraun Hegemony** is the governing state of the [Cerebraun](/star-rangers/lore/cerebraun/) species and the dominant power across its home cluster: a single central authority — the **Prime Ganglion**, a rotating council seat held by whichever Cerebraun demonstrates the clearest capacity to hold the whole polity's competing internal signals in coherent balance — with subordinate world-administrations answerable to it rather than treaty partners of it. By extent it is the largest polity on record, reaching thousands of star systems ([Four Polities by Extent](/star-rangers/lore/civilisation-comparison/#four-polities-by-extent)).
 
 ## Governing Philosophy
 

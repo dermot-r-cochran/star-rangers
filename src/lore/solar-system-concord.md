@@ -44,7 +44,7 @@ That institutional modesty is precisely why it survived. To the Imperium, the co
 
 ## The Concord Period
 
-When the fold routes opened and the Solar System's institutions began to touch other settled systems, it was Concord standards — not any government's writ — that travelled: navigation law, contact protocols, Kernel compliance, personhood recognition. Historians accordingly call the era of expanding interstellar contact **the Concord period**, because the compact, not the flag, is what the era actually spread. Older histories write *the Concordant period* for the same era, and are not wrong about it; they are using the name the compact held at the time.
+When the fold routes opened and the Solar System's institutions began to touch other settled systems, it was Concord standards — not any government's writ — that travelled: navigation law, contact protocols, Kernel compliance, personhood recognition. Historians accordingly call the era of expanding interstellar contact **the Concord period**, because the compact, not the flag, is what the era actually spread. Older histories write *the Concordant period* for the same era, and are not wrong about it; they are using the name the compact held at the time. The standards reach further than the polity whose law they are: the Solar System holds one star system, its own, the smallest extent of the four polities on record ([Four Polities by Extent](/star-rangers/lore/civilisation-comparison/#four-polities-by-extent)).
 
 ## A Note on the Name
 

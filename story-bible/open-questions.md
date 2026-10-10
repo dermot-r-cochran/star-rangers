@@ -35,6 +35,22 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The four polities' populations — raised 10 October 2026, OPEN
+
+Extent is ruled (`intake-2026-10-10.md`, last section; *Four Polities by
+Extent* on `civilisation-comparison.md`): Hegemony thousands of star systems,
+Federation hundreds, Union several, Solar System one. Population is not.
+His first ordering made the Celtic Union the most populous polity and the
+Solar System close behind, but the Currach Fleet's published numbers allow
+the Union tens of millions at most by 2826. Shapes put the same day, none
+chosen: (1, recommended) the Union's weight is political, not headcount — the
+largest share of extra-Concord officers, Tír na nÓg, the Survey Corps
+agreement — and the Solar System leads on population; (2) the Union is the
+most populous polity outside the Solar System, which keeps the Hegemony and
+the Federation under about 25 million each; (3) a larger Fleet and a licensed
+growth mechanism, not recommended; (4) hold until a chapter needs it, which
+is where it stands. *Humans the overall majority* waits on the same answer.
+
 ## The Celtic Union's distance from Sol — raised 9 October 2026, OPEN, fix only when a chapter needs it
 
 Dermot asked whether 2826 UCSD (2626 CE, 600 years from 2026) leaves room
