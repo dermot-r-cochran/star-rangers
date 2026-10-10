@@ -60,14 +60,19 @@ former-Rangers question offered the same morning was answered by his
 second direction the same day (recruited from outside the Corps). All
 nine readings approved as taken. Nothing of the Inspectorate is open.
 
-## Dialect and language variants — between characters, and between members of a collective — raised 7 October 2026, OPEN
+## Dialect and language variants — between characters, and between members of a collective — raised 7 October 2026, RULED 10 October 2026 (*Approved*)
 
 Raised in `ideas.md` from a remark of Dermot's. Two ideas: speech variants by
 planet, caste, corps or generation, carried in lexis and rhythm, never in
 phonetic spelling; and the documented fact that members of a plural system
 often differ in vocabulary, cadence and formality, which prose could use so a
-reader knows who is present without a tag. Whether to adopt either, and where
-the first instance goes, is his. Nothing drafted until ruled.
+reader knows who is present without a tag. ~~Whether to adopt either, and where
+the first instance goes, is his. Nothing drafted until ruled.~~ **Ruled 10
+October 2026, *Approved*:** adopted, for plural minds first, Sen's three
+(Cael, Wyn and Sen). Constraints: lexis and rhythm, never phonetic spelling;
+every member real; a speech difference never a tell for the dangerous one.
+No prose drafted: nothing is written until a chapter calls for it. See
+`ideas.md` and `intake-2026-10-10.md`, *Rulings of the evening*.
 
 ## Continuity — three slips held as choices and fourteen near-misses — raised 3 October 2026, RULED same day (*Apply the recommended choices*)
 
@@ -2872,7 +2877,7 @@ the Union seat; nothing on Aethelrock changes), which worlds say *Taoiseach* and
 their own assemblies by the draw (marked absence), and stratifying the draw by
 clan (drafted where a registry records clans).
 
-## E01's adult "View from" buttons on undercover-pets.com — `intake-2026-10-06.md` — OPEN, his (recommended: no change)
+## E01's adult "View from" buttons on undercover-pets.com — `intake-2026-10-06.md` — RULED 10 October 2026 (*Approved*: (a), no change)
 
 The three Season 2 Episode 1 chapters now carry a Barsik block each, so the
 child has a live viewpoint on every chapter the pets door opens on; the
@@ -2880,7 +2885,9 @@ Larsen, Voss and Calloway buttons stay placeholders there under the 2
 September choice that keeps the Five-O cast off the children's domain. (a)
 Leave as ruled, recommended. (b) Tag the three character pages
 `undercover-pets.com`, at the cost of three adult cast pages on the
-children's site.
+children's site. **Ruled 10 October 2026, *Approved*: (a).** The three
+buttons stay placeholders; no change (`intake-2026-10-10.md`, *Rulings of
+the evening*).
 
 ## ~~Intelligence Engineering as a profession~~ — `intake-2026-10-07.md`, last section — RULED same evening (*Option 1 approved*: record only)
 

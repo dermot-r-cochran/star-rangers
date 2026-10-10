@@ -59,7 +59,7 @@ is conducting; Tissadelle reading Krenyi stillness as composure and waiting
 for it to run out; a contemplative recognising both and naming neither.
 No slot, no draft; it waits for a chapter that wants it.
 
-## Dialect and language variants, between characters and between members of a collective — raised 7 October 2026, OPEN
+## Dialect and language variants, between characters and between members of a collective — raised 7 October 2026, RULED 10 October 2026 (*Approved*)
 
 Dermot, 7 October 2026, from a typo of his own: *"That typo makes me thinking
 about dialects and language variants for different characters"*, then *"or
@@ -85,9 +85,24 @@ names dialect, idiolect or register as a device yet (checked the same day).
   one". Relevant first to the private inner-world work and to any collective
   the seasons already hold.
 
-**Open:** whether to adopt either as a standing device, and if so where the
+~~**Open:** whether to adopt either as a standing device, and if so where the
 first instance goes. An authorship call, Dermot's. Until ruled, nothing is
-drafted from it.
+drafted from it.~~
+
+**Ruled 10 October 2026, Dermot's *Approved* to the recommendation:** the
+device is adopted, **for plural minds first**. Sen's three, Cael, Wyn and
+Sen, are where it applies first; variants between characters (planet,
+caste, corps, generation) come after, on the same constraints. The
+constraints bind as written above: the difference lives in lexis, rhythm,
+idiom and what a speaker leaves unsaid, **never in phonetic spelling**;
+**every member is real**, none a device; and **a speech difference is never
+a tell for the dangerous one**. Sen's character page already records the
+habit from outside (colleagues come to notice *the shift in register
+between an answer that sounds like Cael and one that sounds like Wyn*), so
+the device extends what is published and alters nothing. **No prose is
+drafted from the ruling:** nothing is written until a chapter calls for it.
+Recorded in CLAUDE.md's content authoring conventions and in
+`intake-2026-10-10.md`, *Rulings of the evening*.
 
 ## Detective Doctrine: Inevitability, Not Brilliance (settled 2026-08-23)
 

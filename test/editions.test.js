@@ -295,6 +295,17 @@ test("a tier constant is a floor: the-told extends the children's tier and the g
   assert.equal(btr.commentsEnabled, false);
 });
 
+test("five-islands is seated young-adult and listed on the general tier, so no young-adult face gains it by accident", () => {
+  // Dermot, 2026-09-19 ("young adult, listed on the general tier") and
+  // 2026-10-10 ("Approved"): Season 13 sits on the young-adult rung of
+  // src/tiers/, with no edition of its own yet.
+  assert.ok(TIERS.general.threads.includes("five-islands"), "the general tier carries the young-adult rung's threads");
+  assert.ok(!TIERS["young-adult"].threads.includes("five-islands"), "the young-adult floor is starquest.site's page set");
+  for (const id of ["starquest", "young-star-rangers"]) {
+    assert.ok(!editionFor(id).threads.includes("five-islands"), `${id} keeps its own face`);
+  }
+});
+
 
 test("aliasesOf inverts the ALIASES map: every parked alias of a domain, sorted, nothing for a domain nothing points at", () => {
   const { ALIASES, aliasesOf } = require("../lib/editions");
