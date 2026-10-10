@@ -15,7 +15,7 @@ image_alt: "An aging scuffed grey service robot with several mismatched retrofit
 
 It logs continuously. That is the first thing to know about Rook-7.
 
-The second: the logs are not neutral. They contain assessments, hypotheses, recommendations, and dry observations that function as commentary. Whether Rook-7 is aware of the commentary dimension of its logs is not yet established.
+The second: the logs are not neutral. They contain assessments, hypotheses, recommendations, and dry observations that function as commentary. Whether Rook-7 was aware of the commentary dimension of its logs stayed open for years. By 2831 it had resolved the status of the thing its logs sometimes did, and the resolution was that it did not matter what the thing was called ([S06E02C01](/star-rangers/seasons/s06/e02/s06e02c01/)).
 
 It is a bipedal robot on an older civilian chassis. The chassis classification is either outdated or deliberately understated — one of these possibilities is more interesting than the other, and Rook-7 has flagged both in its own follow-up queue. Its sensor arrays are non-standard. Their origin is not yet confirmed.
 
