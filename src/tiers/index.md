@@ -124,10 +124,18 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
     Tissadelle Shepherd's cadet year.
   </p>
   <p class="thread-section__description">
+    Beside them on this rung: <a href="/star-rangers/threads/five-islands/">The Infinite
+    Castle and the Timeless Library</a>, Season 13 — the Kingdom of the Five Islands from
+    inside its own records, with a young keeper of each learning to hold one. One season,
+    told in two strands.
+  </p>
+  <p class="thread-section__description">
     <strong>Where:</strong> two doors, each its own face. <strong>starquest.site</strong>
     carries Orbital Five-O and the pets. <strong>young.fianilchruinne.com</strong> carries
-    Young Star Rangers beside them, and opens with that thread's first chapter. The tier
-    carries both storylines; each door shows the one it is named for.
+    Young Star Rangers beside them, and opens with that thread's first chapter. Each door
+    shows the storyline it is named for. The Infinite Castle and the Timeless Library has
+    no door of its own yet, and is read on the general addresses, which carry everything
+    on the rungs below them.
   </p>
 </section>
 
