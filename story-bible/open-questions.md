@@ -35,21 +35,19 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## The four polities' populations — raised 10 October 2026, OPEN
+## The four polities' populations — raised 10 October 2026, RULED same day (*Option 1, Celtic Union has better diplomatic ties the the Federation and Hegemony*)
 
-Extent is ruled (`intake-2026-10-10.md`, last section; *Four Polities by
-Extent* on `civilisation-comparison.md`): Hegemony thousands of star systems,
-Federation hundreds, Union several, Solar System one. Population is not.
-His first ordering made the Celtic Union the most populous polity and the
-Solar System close behind, but the Currach Fleet's published numbers allow
-the Union tens of millions at most by 2826. Shapes put the same day, none
-chosen: (1, recommended) the Union's weight is political, not headcount — the
-largest share of extra-Concord officers, Tír na nÓg, the Survey Corps
-agreement — and the Solar System leads on population; (2) the Union is the
-most populous polity outside the Solar System, which keeps the Hegemony and
-the Federation under about 25 million each; (3) a larger Fleet and a licensed
-growth mechanism, not recommended; (4) hold until a chapter needs it, which
-is where it stands. *Humans the overall majority* waits on the same answer.
+Extent ruled first (Hegemony thousands of star systems, Federation hundreds,
+Union several, Solar System one). Population: Option 1 of four shapes — the
+Union's weight is political, not headcount, and the Solar System outnumbers
+it many times over; his addition, the Union's diplomatic ties to the
+Federation and the Hegemony are better. Realized on
+`civilisation-comparison.md` and the Union page's *Ties beyond the Solar
+System*. **Reading taken, flagged on the PR:** *better* means closer than the
+Solar System's ties to each. **Still open, held until a chapter needs it:** how
+the Union's ties to the Hegemony were made, and the Hegemony's and the
+Federation's populations. *Humans the overall majority* is not filed; under
+Option 1 it is not established.
 
 ## The Celtic Union's distance from Sol — raised 9 October 2026, OPEN, fix only when a chapter needs it
 
