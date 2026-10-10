@@ -2,6 +2,7 @@
 layout: character.njk
 title: "Detective Marisol Achebe"
 id: achebe
+pov_ids: [marisol-achebe]
 species: Human
 role: Detective, Eden Space Habitat detective bureau
 status: Active
