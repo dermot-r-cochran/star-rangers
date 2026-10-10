@@ -47,7 +47,7 @@ System*. **Reading taken, flagged on the PR:** *better* means closer than the
 Solar System's ties to each. **Still open, held until a chapter needs it:** how
 the Union's ties to the Hegemony were made, and the Hegemony's and the
 Federation's populations. *Humans the overall majority* is not filed; under
-Option 1 it is not established.
+Option 1 it is not established. **Added the same evening, verbatim:** *"Solar System is mostly human populated, Celtic Union is the next largest human population but much less dense"* — filed on both pages.
 
 ## The Celtic Union's distance from Sol — raised 9 October 2026, OPEN, fix only when a chapter needs it
 

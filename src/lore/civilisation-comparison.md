@@ -168,7 +168,7 @@ Everything above is drawn from the Solar System's own history, because that is t
 | [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/) | Several | Six charter worlds, settled from six arks, each sovereign under a weak confederal charter |
 | The Solar System | One, its own | Governments that rise and fall, under the law of the [Concord](/star-rangers/lore/solar-system-concord/) |
 
-Extent is not population, and it is not weight. The Solar System, with one star, outnumbers the Celtic Union many times over, since the Union has grown from six generation arks in about two centuries; the Hegemony's and the Federation's populations the record has not established. The Union's weight in settled affairs comes from elsewhere: it supplies the largest share of the Corps' officers from beyond the Concord, it holds the one world naturally fit for unmodified humans, and its diplomatic ties to the Federation and the Hegemony are closer than the Solar System's to either.
+Extent is not population, and it is not weight. The Solar System, with one star, is mostly human and outnumbers the Celtic Union many times over, since the Union has grown from six generation arks in about two centuries. The Union is the next largest human population on record, and far less dense: fewer people, spread across several systems. The Hegemony's and the Federation's populations the record has not established. The Union's weight in settled affairs comes from elsewhere: it supplies the largest share of the Corps' officers from beyond the Concord, it holds the one world naturally fit for unmodified humans, and its diplomatic ties to the Federation and the Hegemony are closer than the Solar System's to either.
 
 ---
 
