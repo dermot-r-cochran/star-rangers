@@ -283,6 +283,57 @@ permalink: /start/
   </p>
 </section>
 
+<section class="thread-section" aria-labelledby="plan-arranged">
+  <h2 class="thread-section__title" id="plan-arranged">How the record is arranged</h2>
+  <p class="thread-section__description">
+    Outside Sen's note, and in plain terms: the record is published at four reading tiers that nest, each carrying
+    everything inside it and adding storylines of its own, and nothing read on an inner tier is withdrawn or
+    contradicted on an outer one. Every address you can read it at is an <em>edition</em> on one of those tiers.
+    Inside any storyline the units get smaller in the same order everywhere.
+  </p>
+  <figure class="lore-diagram">
+<svg viewBox="0 0 640 394" role="img" aria-labelledby="arranged-title arranged-desc">
+<title id="arranged-title">How the record is arranged</title>
+<desc id="arranged-desc">Four nested boxes show the reading tiers. Children, which reads interesting and playful, is innermost; young adult, mysterious, with exploration and adventure, contains it; general, deeper, contains that; and contemplative, free to question everything, contains them all. Each tier carries everything inside it and adds its own storylines.{% if edition.tier %} This edition sits at the {{ edition.tier | replace("-", " ") }} tier.{% endif %} Below, a row of six boxes shows the units inside a storyline, largest to smallest: thread, season, episode, chapter, scene, and viewpoint. A note under the season box says a season may run as two or more strands, parallel storylines that meet at a fixed point.</desc>
+<text x="20" y="28" class="sm mute">One record at four reading tiers: each carries everything inside it, and adds its own storylines</text>
+<rect x="20" y="44" width="600" height="196" rx="6" class="{% if edition.tier == "contemplative" %}box-1{% else %}box-2{% endif %}"/>
+<text x="34" y="66">Contemplative{% if edition.tier == "contemplative" %}<tspan class="sm fill-1"> · this edition</tspan>{% endif %}</text>
+<text x="606" y="66" text-anchor="end" class="sm mute">free to question everything</text>
+<rect x="40" y="78" width="560" height="148" rx="6" class="{% if edition.tier == "general" %}box-1{% else %}box-2{% endif %}"/>
+<text x="54" y="100">General{% if edition.tier == "general" %}<tspan class="sm fill-1"> · this edition</tspan>{% endif %}</text>
+<text x="586" y="100" text-anchor="end" class="sm mute">deeper</text>
+<rect x="60" y="112" width="520" height="100" rx="6" class="{% if edition.tier == "young-adult" %}box-1{% else %}box-2{% endif %}"/>
+<text x="74" y="134">Young adult{% if edition.tier == "young-adult" %}<tspan class="sm fill-1"> · this edition</tspan>{% endif %}</text>
+<text x="566" y="134" text-anchor="end" class="sm mute">mysterious, with exploration and adventure</text>
+<rect x="80" y="146" width="480" height="52" rx="6" class="{% if edition.tier == "children" %}box-1{% else %}box-2{% endif %}"/>
+<text x="94" y="168">Children{% if edition.tier == "children" %}<tspan class="sm fill-1"> · this edition</tspan>{% endif %}</text>
+<text x="546" y="168" text-anchor="end" class="sm mute">interesting and playful</text>
+<rect x="20.0" y="288" width="86" height="44" rx="5" class="box-2"/>
+<text x="63.0" y="315" text-anchor="middle">Thread</text>
+<path d="M109.0 310 h10.8 m-4 -4 l4 4 l-4 4" class="line-0"/>
+<rect x="122.8" y="288" width="86" height="44" rx="5" class="box-2"/>
+<text x="165.8" y="315" text-anchor="middle">Season</text>
+<path d="M211.8 310 h10.8 m-4 -4 l4 4 l-4 4" class="line-0"/>
+<rect x="225.6" y="288" width="86" height="44" rx="5" class="box-2"/>
+<text x="268.6" y="315" text-anchor="middle">Episode</text>
+<path d="M314.6 310 h10.8 m-4 -4 l4 4 l-4 4" class="line-0"/>
+<rect x="328.4" y="288" width="86" height="44" rx="5" class="box-2"/>
+<text x="371.4" y="315" text-anchor="middle">Chapter</text>
+<path d="M417.4 310 h10.8 m-4 -4 l4 4 l-4 4" class="line-0"/>
+<rect x="431.2" y="288" width="86" height="44" rx="5" class="box-2"/>
+<text x="474.2" y="315" text-anchor="middle">Scene</text>
+<path d="M520.2 310 h10.8 m-4 -4 l4 4 l-4 4" class="line-0"/>
+<rect x="534.0" y="288" width="86" height="44" rx="5" class="box-2"/>
+<text x="577.0" y="315" text-anchor="middle">Viewpoint</text>
+<text x="20" y="276" class="sm mute">Inside every storyline, largest to smallest</text>
+<path d="M165.8 334 v14 h8" class="line-0 dash"/>
+<text x="179" y="352" class="sm mute">a season may run as two or more strands that meet at a fixed point</text>
+<text x="20" y="380" class="sm mute">A chapter is made of scenes, and each scene is seen from more than one viewpoint</text>
+</svg>
+<figcaption>The reading tiers nest; the edition you are reading is marked. Inside a storyline, a thread holds whole seasons, a season holds episodes (and may run as two or more strands, parallel storylines that meet at a point fixed in advance), an episode holds chapters, a chapter holds scenes, and each scene is told from more than one viewpoint. <a href="/star-rangers/tiers/">Reading Tiers</a> says which storylines each tier carries and where to read it.</figcaption>
+  </figure>
+</section>
+
 <section class="thread-section" aria-label="Beyond the record">
   <p class="thread-section__description">
     Beyond the record's own shelves: the <a href="/star-rangers/story-engine/">Story Engine</a> collects out-of-world craft notes on how the work is built, and new chapters arrive on the <a href="{{ '/feed/feed.xml' | absoluteUrl(site.url) }}">Atom feed</a>.
