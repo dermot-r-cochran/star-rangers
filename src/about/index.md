@@ -38,7 +38,7 @@ eleventyComputed:
   creativity and decision-making.
 </p>
 
-<h2>How this site is built</h2>
+<h2 id="how-this-site-is-built">How this site is built</h2>
 <p>
   Fian Ilchruinne is a static site built with <a href="https://www.11ty.dev/">Eleventy</a>
   from Markdown and Nunjucks templates, checked by a test suite and a dry-run build on
@@ -46,7 +46,7 @@ eleventyComputed:
   the deployment path are in the repository's README and technical README.
 </p>
 
-<h2>How this site is written</h2>
+<h2 id="how-this-site-is-written">How this site is written</h2>
 <p>
   The words on this site have been drafted and edited with the help of more than one tool over
   time, and the split is worth naming honestly. The early version of the site leaned on
@@ -62,7 +62,7 @@ eleventyComputed:
   <a href="/star-rangers/journal/two-copies-forty-seconds-apart/">Journal</a>.
 </p>
 
-<h2>How this site is illustrated</h2>
+<h2 id="how-this-site-is-illustrated">How this site is illustrated</h2>
 <p>
   The pictures are illustrations, not the work. Most are generated, some are made from the
   author's own photographs, and a few are those photographs as they stand; every one of them is
@@ -72,7 +72,7 @@ eleventyComputed:
   goes there.
 </p>
 
-<h2>The engineering behind the record</h2>
+<h2 id="the-engineering-behind-the-record">The engineering behind the record</h2>
 <p>
   Three of the author's public engineering projects ask, in code, the questions this story asks in
   fiction — and the resemblance is lineage, not coincidence.
@@ -133,7 +133,7 @@ eleventyComputed:
   circulation, and noted.
 </p>
 
-<h2>How this site is deployed</h2>
+<h2 id="how-this-site-is-deployed">How this site is deployed</h2>
 <p>
   Two deployments run from this repository. A GitHub Actions workflow builds the site
   with Eleventy on every push to <code>main</code> and publishes the result to
