@@ -8,7 +8,7 @@ status: Active
 aliases:
   - "Shepherd"
   - "Tiss"
-tags: [human, star-rangers, novice, cadet, music-corps, xenomusicology, line-captain, celtic-union, tir-na-nog, sentinel, meridian, halyx-system, season-1, season-5, plural-mind, tobble]
+tags: [human, star-rangers, novice, cadet, music-corps, xenomusicology, line-captain, celtic-union, tir-na-nog, sentinel, meridian, halyx-system, season-1, season-5, season-6, plural-mind, tobble]
 description: "Star Ranger cadet at the start of Season 1; earns the rank of Line Captain by Season 5 — by way of rotations through almost every branch of every specialist corps, a generalist's route that ends, deliberately, on the command path."
 image: tissadelle-shepherd.jpg
 image_season: 5
@@ -56,6 +56,12 @@ The track changes are not indecision. Most Rangers who make Chief have spent the
 
 The breadth has a second axis the section above undercounts. Across those rotations Shepherd has worked beside colleagues from **almost every sentient people known to the Star Rangers** — not met at a reception or filed past in a corridor, but served with: watches shared, certifications co-signed, problems held jointly until they gave. The exceptions are structural rather than personal — a people the Corps knows is not always a people with anyone in service to know — and the record keeps no ledger of which peoples are on the list, because she doesn't. What the range built is what the rotations built, one layer further out: a commanding officer whose working assumption is that competence arrives in more shapes than any one world teaches, and who has been the stranger at enough other peoples' instruments to know what the courtesy costs in both directions. Whether a mind that already contains more than one way of being a person has a head start at meeting a colleague who senses the world otherwise is a reading others have offered on her behalf; she has never offered it herself, and would file it as one more claim past her evidence.
 
+## The Last Stand
+
+The record's last entry for her on duty is Mid-Autumn 2831 UCSD, in the thin water off Threshold Station's Dock Seven ([What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/)). The fleet-priority survey she had filed ten days earlier found an aperture that would not close, and a licensed concern, the [Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/), working the narrowed Interval off the dock for stock. She convened a Field Triumvirate at 0410, by the clause and in the open, had every soul taken off the *Sufficient Cause* by shuttle and contracted courier, and took the ship in alone to hold the aperture's edge. Every person aboard survived. The vessel was not recovered, and the station logged her position at the failure point at the moment of closure. What answered the intrusion spared the Rangers without explaining why; every material witness on the outer gallery recorded it as dragons, and the Archive holds [three irreconcilable accounts](/star-rangers/lore/fold-transit-catastrophic-failure/) of what did it and adjudicates none.
+
+What the Last Stand leaves behind is told from Season 6 on, and the record's own position is short. There is no body. Catastrophic paradox load fractures a plural mind unevenly, the member bearing the load first, and Tobble, who had been carrying nothing, was left with structure to spend and spent it, with the ship's own records for a scaffold. What went in was some of her and not her, on his account, and he has never called it a rescue. The [Oversight Council](/star-rangers/lore/the-oversight-council/) opened its inquiry on the station and held a funeral a year later; [the address](/star-rangers/codex/wender-funeral-address/) is in the Codex, as delivered. Sen has since filed her [among the comparanda](/star-rangers/codex/shepherd-among-the-comparanda/), which the Archive carries as one archivist's filing and not as its own.
+
 ## Character Notes
 
 Shepherd does not mythologise the Rangers or the role. She treats the title as a job description. This makes her easy to work with and occasionally difficult to inspire — she is not moved by abstractions, only by clearly stated problems that have clearly available solutions.
@@ -96,7 +102,7 @@ The obvious mistake gets made constantly. The [Smart Pet](/star-rangers/glossary
 
 Shepherd corrects it once, precisely, and does not raise it again — the same economy she brings to a misread instrument. She does not explain the arrangement to a room that has not asked, and she does not treat it as a disclosure she owes anyone. What she will not do is let it pass uncorrected in front of Tobble, which is a different matter from minding on her own account, and is the distinction most people who get it wrong never notice her making.
 
-Her file carries a plural registration and nothing further. Reviewers who go looking for a welfare concern in it find a mind with more people in it than the form has boxes for, all of them stable, none of them a symptom, and no finding to write.
+Her file carries a plural registration, filed by her after the Starwarden posting of 2829, when Tobble was still in no file the Corps held ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)), and nothing further. Reviewers who go looking for a welfare concern in it find a mind with more people in it than the form has boxes for, all of them stable, none of them a symptom, and no finding to write.
 
 ### Who fronts, and when
 
