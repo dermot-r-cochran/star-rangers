@@ -8,6 +8,8 @@ status: Historical
 aliases:
   - "Delegate Solano"
 tags: [halyard-station, outer-stations, consolidation-hearing, founding, pre-charter, charter, history, human]
+image: "petra-solano.jpg"
+image_alt: "Petra Solano, a woman of middle years with grey hair drawn back, in a dark unornamented jacket, seated on a wooden bench in the raked gallery of a stone-walled chamber with other delegates behind her, hands folded in her lap, her attention on the floor of the chamber off to one side."
 description: "Halyard Station's delegate, who recorded nine seconds of General Krast's testimony and released them within the hour, and four years later struck the exception clause from the Star Rangers Charter's jurisdiction limits for the third time that morning, in a voice she never raised."
 ---
 

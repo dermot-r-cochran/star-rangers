@@ -280,6 +280,7 @@ for (const file of characterFiles) {
   characters.push({
     id,
     frontMatterId: fmId,
+    povIds: Array.isArray(data.pov_ids) ? data.pov_ids.map(String) : [],
     title: data.title != null ? String(data.title) : id,
     role,
     status: data.status != null ? String(data.status) : null,
@@ -307,6 +308,10 @@ function resolvePovId(povId, label) {
   if (fileIds.has(povId)) return [povId];
   const viaFm = fmIdToFile.get(povId);
   if (viaFm && viaFm.length) return viaFm;
+  // `pov_ids:` on a page (since 2026-10-10) declares other ::: pov ids that
+  // resolve to it; src/_data/scenePovPages.js honours the same field.
+  const viaAlias = characters.filter((c) => Array.isArray(c.povIds) && c.povIds.includes(povId)).map((c) => c.id);
+  if (viaAlias.length) return viaAlias;
   if (label) {
     const name = String(label).replace(/\s*\(.*$/, "").trim();
     const hits = titleIndex.filter((t) => t.re.test(name)).map((t) => t.id);

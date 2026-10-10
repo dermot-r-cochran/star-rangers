@@ -2,6 +2,7 @@
 layout: character.njk
 title: "Maren Solveig Krast"
 id: maren-solveig-krast
+pov_ids: [krast]
 species: Human
 role: General, Military Space Command; Solar Command, Mars (b. 2665 UCSD – d. 2720 UCSD)
 status: Historical

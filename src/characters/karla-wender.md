@@ -2,6 +2,7 @@
 layout: character.njk
 title: "Karla Wender"
 id: wender
+pov_ids: [karla-wender]
 species: Human
 role: Chief Pilot, Pilot Section (Season 1 start)
 status: Active

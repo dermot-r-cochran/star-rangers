@@ -1134,3 +1134,24 @@ say so. Remaking them in the Ballad look is open until the underlay exists.
 - **Date:** 9 October 2026
 - **Prompt / recipe:** the blockquote in `images.md` § 5d: keep the photograph in every respect except the far end of the wall, where the red lighthouse and the ferry become the shoreward edge of a small coastal station in silhouette, a low line of docks with a few working lights, no tower, no glazing, no antenna, no text; 16:9, 2K, two variations
 - **Notes:** variation 1 is the plate untouched with one low dark line and three lights at the far end; Dermot: *"That composite looks great."* Variation 2 ran a shoreline of sheds out of the right of the frame; his reading, *"it extends out of the frame implying a much larger structure"*, which the record does not give. Alt text written from the file. The lens flare and the headland on the horizon are the photograph's own.
+
+## 2026-10-10 — Seven portraits for the viewpoints that had none (section 10 of images.md)
+
+Run on the desktop at Dermot's *"Run the seven missing portraits"*, two
+variations each, `gemini-3.1-flash-image`, 2K, no references, filed through
+`import-image.ps1 -MaxEdge 1200` with the photographic finish at strength 1.
+Prompts of record are the section 10 entries as written the same day. Alt
+text written from the files.
+
+- `ysolde-pitch.jpg` — variation 2 of 2: profile at the porthole, hand on the folder; 1 faced nearer the viewer with a brass lamp.
+- `beatrix-kilbride.jpg` — variation 2 of 2: hand on the hatch frame, looking along the ring; 1 carried a keypad panel at the frame's edge, a period device.
+- `wren-okafor.jpg` — variation 1 of 2: hand on the instrument case as briefed; 2 had the case on the wall and the hatch dark.
+- `adaeze-okafor.jpg` — variation 2 of 2: attention off-frame, the rail line through the window; 1 looked straight at the viewer.
+- `rutger-voss.jpg` — variation 2 of 2: collar tabs only, a bound log, ink and a stamp; 1 wore two-bar epaulettes and held a modern ballpoint.
+- `petra-solano.jpg` — variation 1 of 2: attentive, other delegates behind, hands in the lap with nothing in them; 2 was the same frame, sadder.
+- `yusuf-adair.jpg` — variation 2 of 2: one collar tab with a blue inset, daylight, the instrument under its cloth; 1 wore a chest badge of four shapes, which the Ranger block forbids.
+
+The founding six are drawn in an earlier century's dress and rooms; Voss's
+service dress and the Mars offices match Drey's frame. Not resolved by these
+frames and not claimed: heritage, exact age, and anything after each
+person's last chapter.

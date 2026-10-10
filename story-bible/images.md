@@ -4242,3 +4242,56 @@ record holds no portrait of her; she stays bare by her own page.
   epithet *Older Than the Corps, Owned by None*, qualifier *The Record, and the
   Institution That Keeps It*. The epithets are authored here, from each page's
   own first lines, and are not fields of any page.
+
+### 10. Missing portraits — the seven founding viewpoints (queued 10 October 2026)
+
+Dermot's direction, verbatim: *"Run the seven missing portraits"*, the day
+after the seven character pages for the POV ids that had none (PR #1050).
+Each is a person with a body, so each gets a portrait under the 7 October
+rule. All **16:9 landscape**, filed through `import-image.ps1 -MaxEdge 1200`
+with the finish at strength 1. The 28 July guardrails and the modesty bar
+inside every blockquote: at work, attention off-frame, nothing that invites
+the viewer, no lettering, no period technology. Heritage is not in the record
+and not in the prompt; gender is the record's; age only where the record
+implies it. Six are the founding era, 2712 to 2723 UCSD, under the
+old-fashioned hint: an earlier century than the record's present, with the
+Military Space Command's severe service dress where the page wears it
+(`sildron-drey.jpg` is the precedent). The seventh is a Science Corps
+Principal in 2814, under the Ranger block.
+
+- **`ysolde-pitch.jpg`** — *She stayed at her desk instead, and began drafting the report she expected to write afterward, in whichever tense turned out to be true.*
+  Eden's chief scientist at twenty to four in the morning, station time, the moment she signs the model over and does not go to the docking ring. The habitat is a working interior, not a laboratory set.
+  > Cinematic candid portrait of a woman of middle years, a habitat's chief scientist, upper body, seated at a plain worktable in a small quiet office aboard a space habitat in the small hours, one hand flat on a closed plain folder, her attention on the dark window to one side and not on the viewer. Plain practical working clothes of an earlier century of spaceflight, no insignia, no name tape, no printed words, no letters and no numerals anywhere. Composed, tired, entirely unhurried; the face of someone who has decided a thing and will not watch it happen. Dim warm desk light, a dark viewport with no planet in it, bare walls. No screens, no tablets, no glowing panels, no meters, no toggles, no antenna. No glassware, no equipment wall. Muted ochre, grey and one warm lamp. Documentary realism, nothing dramatic. Landscape orientation, 16:9.
+  - **The desk is the picture.** She is the one who did not go.
+
+- **`beatrix-kilbride.jpg`** — *Last chance to be the fourth name that isn't on this list.*
+  The cargo captain at the airlock in 2712, the moment before the Constant Margin goes. Working dress, not a uniform; the hauler is a modified cargo vessel and the ring is a habitat's docking ring.
+  > Cinematic candid portrait of a woman of middle years, a cargo captain, upper body, standing at the open inner hatch of a docking-ring airlock aboard a space habitat in an earlier century of spaceflight, one hand on the hatch frame, looking along the ring toward the hull she is about to board and not at the viewer. Plain hard-worn working coverall of a cargo crew, no insignia, no name tape, no printed words, no letters and no numerals anywhere. Flat, steady, decided; the face of someone who has never wanted a decision that still had a door. Hard practical light from above, the ring curving away behind her, dark hatch metal, scuffed surfaces. No screens, no tablets, no glowing panels, no meters, no toggles, no weapons. Muted grey, rust and dull steel. Documentary realism, nothing dramatic. Landscape orientation, 16:9.
+  - **No ship in frame.** The record describes the hauler only as modified; the hatch and the ring carry it.
+
+- **`wren-okafor.jpg`** — *There was no data past that point yet. There was only the going.*
+  The boundary analyst in the instrument bay of Patience First before departure, 2714. A small ship, six aboard; the bay is cramped and worked.
+  > Cinematic candid portrait of a woman of indeterminate age, a boundary analyst, upper body, standing in the cramped instrument bay of a small spacecraft in an earlier century of spaceflight, one hand resting on a plain closed instrument case, her attention on something beyond the bay's hatch and not on the viewer. Plain practical working clothes of a ship's crew, no insignia, no name tape, no printed words, no letters and no numerals anywhere. Clear, certain, without bravado; the face of someone who has read every caveat and is still going. Cool working light, close metal walls, cabling run tidily along a bulkhead, a dark hatch beyond. No screens, no tablets, no glowing panels, no meters, no toggles, no antenna, no weapons. Muted grey-blue, dull steel, one pale light. Documentary realism, nothing dramatic. Landscape orientation, 16:9.
+  - **Nothing of the terminus.** The frame is before departure and shows nowhere she is going.
+
+- **`adaeze-okafor.jpg`** — *Then keep the record. Since apparently that's the only thing either of us actually has the authority to do.*
+  A civilian in a bare correspondence office at Solar Command on Mars, 2715, across a desk from a lieutenant who is not in the frame. She has travelled on savings that will not survive a second trip.
+  > Cinematic candid portrait of a woman of indeterminate age, a civilian visitor, upper body, seated on the visitor's side of a bare institutional desk in a plain office on Mars in an earlier century of spaceflight, her coat still on, hands folded, her gaze level and fixed on the person across the desk who is not in the frame. Plain travelling clothes of a private citizen, no insignia, no printed words, no letters and no numerals anywhere. Composed, grieving, entirely in control of it; the face of someone who has written ten letters and come in person for the eleventh. Flat institutional light, a bare wall, a narrow window with rust-coloured Martian ground beyond it. No screens, no tablets, no glowing panels, no documents on the desk, no flag, no crest. Muted rust, grey and dull olive. Documentary realism, nothing dramatic. Landscape orientation, 16:9.
+  - **The desk is bare.** The form letter is the whole of what the institution gave her, and it is not shown.
+
+- **`rutger-voss.jpg`** — *He filed her visit, verbatim where he could manage it, into a running correspondence log the office kept for exactly this purpose and forwarded to no one who had ever asked to see it.*
+  The junior lieutenant at the Casualty Correspondence Office desk, 2715: younger than she expected, in the Military Space Command's severe service dress, the same institution as Drey's frame.
+  > Cinematic candid portrait of a young man, a junior lieutenant, upper body, seated behind a bare institutional desk in a plain office on Mars in an earlier century of spaceflight, in the severe service dress of a militarised space command of that era, plain and well kept, with no name tape, no nameplate, no medals, no printed words, no letters and no numerals anywhere, writing by hand in a plain bound log and looking down at it, not at the viewer. Serious, young, careful; the face of someone keeping a record nobody has asked to see. Flat institutional light, a bare wall, a narrow window with rust-coloured Martian ground beyond it. No screens, no tablets, no glowing panels, no meters, no toggles, no weapons, no flag, no crest. Muted rust, grey and dull olive. Documentary realism, nothing dramatic. Landscape orientation, 16:9.
+  - **Same room family as Drey and Adaeze.** Solar Command on Mars has one look across the three frames.
+
+- **`petra-solano.jpg`** — *This is the sentence the hearing needed eleven weeks to produce. Everything else was true. This is the part that's memorable.*
+  The delegate in the hearing chamber on Mars in 2719, the eleventh week of testimony, in the gallery seat of an outer-station delegation. She is listening, and the frame does not show what she is holding.
+  > Cinematic candid portrait of a woman of middle years, a station delegate, upper body, seated in the raked gallery of a formal hearing chamber on Mars in an earlier century of spaceflight, leaning slightly forward with her hands below the frame's edge, her attention on the floor of the chamber off to one side and not on the viewer. Plain civil dress of a public delegate, dark and unornamented, no insignia, no printed words, no letters and no numerals anywhere. Attentive, quiet, decided; the face of someone who has recognised a sentence the moment it was said. Formal institutional light, rows of plain seating behind her, a tall chamber wall, no crest, no flag, no banner. No screens, no tablets, no glowing panels, no microphones, no recording device of any kind visible. Muted stone, dark cloth and one cold light. Documentary realism, nothing dramatic. Landscape orientation, 16:9.
+  - **Her hands are out of frame on purpose.** A visible recording unit would be a period device and a distortion; the record says only that her thumb was already on it.
+
+- **`yusuf-adair.jpg`** — *He had wanted it to be the instruments. He would have said so to anyone who asked, because it was true and because wanting a thing has never been a correction.*
+  A Science Corps Principal on the Survey Corps Standards Office calibration floor on Earth, 2814, with the filing he has read more than anything that year. Ranger block; the tab's insert is left to a single muted colour, since the record gives the science track no colour.
+  > Star Rangers service dress, plain and well kept, carrying small geometric rank marks only — a plain-finished tab at the collar, shapes and a single muted colour insert and nothing else. No name tape, no nameplate, no stitched badge, no printed words, no letters and no numerals anywhere on the clothing. Cinematic candid portrait of a man of indeterminate age, a Science Corps Principal, upper body, standing at a long plain calibration bench on a quiet institutional floor on Earth, daylight from high windows, a closed plain folder under one hand, looking along the bench at an instrument under a cloth and not at the viewer. Patient, exact, unhurried; the face of someone who wanted the answer to be the instruments and went to the record instead. Spare interior, pale stone and brushed alloy, long shadows, nothing on the walls. No screens, no tablets, no glowing panels, no meters, no toggles, no antenna, no glassware, no equipment wall. Muted grey, pale daylight, one warm neutral. Documentary realism, nothing dramatic. Landscape orientation, 16:9.
+  - **The instrument stays under its cloth.** The record never describes the bench kit, and a Counterpane instrument drawn by the generator would be an invention.
+
+**Delivered 10 October 2026**, all seven, one run of two variations each; the picks and what set the others aside are in `image-prompts.md` under the same date.
