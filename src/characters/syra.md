@@ -33,6 +33,14 @@ She will not be mythologised. If someone begins treating her as a symbol or an a
 
 She is initially trusting of new contacts and can be briefly taken in by human social deceptions she has not encountered before. She recalibrates quickly.
 
+## At the Boundary Desk
+
+By the mid-autumn of 2831 UCSD Syra holds Threshold Station's boundary desk, and is training a young Krenyi Cadet there, [Toval](/star-rangers/characters/toval/), out of the habit of rounding up. The record does not say when she took the desk. On the morning of Dock Seven she gave the desk an assessment that arrived at the speed of the data: "Say only what the instruments carry." She built the finding on the held aperture rather than on the animals taken through it, and flagged what she could not support ([What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/)).
+
+In the early winter that followed she held the boundary data while the station built its account of Dock Seven, because she wanted nothing from the signal except its actual value. She kept apart two findings the room kept collapsing into one, that the warm signal was structured and that it was sustained; flagged the old identification of Saint Aoife's encounter as an inference; and set the order of work, ruling out before naming and starting with the station's own paperwork. *Name what you know* was doctrine before it was temperament ([The Accurate Account (S07E01C01)](/star-rangers/seasons/s07/e01/s07e01c01/)). Before the account was finished she had ruled out a [Gilded Saint](/star-rangers/glossary/gilded-saints/) with the same refusal to name what she could not support ([Enough Is Enough (S07E01C03)](/star-rangers/seasons/s07/e01/s07e01c03/)).
+
+The precision is the one she brought to Counterpane. What is new is the desk, and the Cadet beside her.
+
 ## On the Krenyi term
 
 "Krenyi" is used in story to avoid confusion with Naiads, which are river-bound entities, not persons. "Nai" as a state means *still relevant here* — not a greeting or a title, but an acknowledgement that she remains present and engaged.
