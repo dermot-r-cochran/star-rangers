@@ -292,9 +292,9 @@ permalink: /start/
     Inside any storyline the units get smaller in the same order everywhere.
   </p>
   <figure class="lore-diagram">
-<svg viewBox="0 0 640 370" role="img" aria-labelledby="arranged-title arranged-desc">
+<svg viewBox="0 0 640 394" role="img" aria-labelledby="arranged-title arranged-desc">
 <title id="arranged-title">How the record is arranged</title>
-<desc id="arranged-desc">Four nested boxes show the reading tiers. Children, which reads interesting and playful, is innermost; young adult, mysterious, with exploration and adventure, contains it; general, deeper, contains that; and contemplative, free to question everything, contains them all. Each tier carries everything inside it and adds its own storylines.{% if edition.tier %} This edition sits at the {{ edition.tier | replace("-", " ") }} tier.{% endif %} Below, a row of six boxes shows the units inside a storyline, largest to smallest: thread, season, episode, chapter, scene, and viewpoint.</desc>
+<desc id="arranged-desc">Four nested boxes show the reading tiers. Children, which reads interesting and playful, is innermost; young adult, mysterious, with exploration and adventure, contains it; general, deeper, contains that; and contemplative, free to question everything, contains them all. Each tier carries everything inside it and adds its own storylines.{% if edition.tier %} This edition sits at the {{ edition.tier | replace("-", " ") }} tier.{% endif %} Below, a row of six boxes shows the units inside a storyline, largest to smallest: thread, season, episode, chapter, scene, and viewpoint. A note under the season box says a season may run as two strands, parallel storylines that meet at a fixed point.</desc>
 <text x="20" y="28" class="sm mute">One record at four reading tiers: each carries everything inside it, and adds its own storylines</text>
 <rect x="20" y="44" width="600" height="196" rx="6" class="{% if edition.tier == "contemplative" %}box-1{% else %}box-2{% endif %}"/>
 <text x="34" y="66">Contemplative{% if edition.tier == "contemplative" %}<tspan class="sm fill-1"> · this edition</tspan>{% endif %}</text>
@@ -326,9 +326,11 @@ permalink: /start/
 <rect x="534.0" y="288" width="86" height="44" rx="5" class="box-2"/>
 <text x="577.0" y="315" text-anchor="middle">Viewpoint</text>
 <text x="20" y="276" class="sm mute">Inside every storyline, largest to smallest</text>
-<text x="20" y="354" class="sm mute">A chapter is made of scenes, and each scene is seen from more than one viewpoint</text>
+<path d="M165.8 334 v14 h8" class="line-0 dash"/>
+<text x="179" y="352" class="sm mute">a season may run as two strands, parallel storylines that meet at a fixed point</text>
+<text x="20" y="380" class="sm mute">A chapter is made of scenes, and each scene is seen from more than one viewpoint</text>
 </svg>
-<figcaption>The reading tiers nest; the edition you are reading is marked. Inside a storyline, a thread holds whole seasons, a season holds episodes, an episode holds chapters, a chapter holds scenes, and each scene is told from more than one viewpoint. <a href="/star-rangers/tiers/">Reading Tiers</a> says which storylines each tier carries and where to read it.</figcaption>
+<figcaption>The reading tiers nest; the edition you are reading is marked. Inside a storyline, a thread holds whole seasons, a season holds episodes (and may run as two strands, parallel storylines that meet at a point fixed in advance), an episode holds chapters, a chapter holds scenes, and each scene is told from more than one viewpoint. <a href="/star-rangers/tiers/">Reading Tiers</a> says which storylines each tier carries and where to read it.</figcaption>
   </figure>
 </section>
 
