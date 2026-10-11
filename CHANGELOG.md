@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Which model does which work** (`CLAUDE.md`, `.claude/agents/mechanical.md`, 2026-10-11, Dermot's direction). A new subsection under *Authority and review boundary* assigns narrative prose and image prompts to Fable, judgement and planning to Opus, and gate-checked mechanical work to Sonnet subagents, and notes that a subagent inherits its parent session's model unless one is named. The new `mechanical` subagent definition is pinned to Sonnet and limited to work a checker can prove.
+
 - **Antariksha, a Compact habitat run in many languages** (`src/lore/antariksha.md`, `src/lore/orbital-habitats-compact.md`, `src/lore/glossary/canonical-glossary-and-migration-guide.md`, `story-bible/intake-2026-10-10.md`, 2026-10-10, Dermot's *"Option 1 please"* then *"1a, 2a, Antariksha"*). The first Indian place in the record: a working habitat in high Earth orbit and one of the Orbital Habitats Compact's five members, built around a weightless foundry hub and settled largely from South Asia, with at least eight languages in daily use and none official. The Compact page now names its three known members (Eden, Halcyon, Antariksha) and notes that New London is not one. No image yet.
 
 - **The Guest Ring and Greenward are twenty years old, not eighty** (`src/lore/the-guest-ring.md`, `src/lore/greenward-habitat.md`, `story-bible/intake-2026-10-10.md`, 2026-10-10, Dermot's *"Option 1"*). A chronology fix: the Rangers brokered the Ring above a Union world, but the Union page has the Rangers finding the Union only within the last generation. Four mentions of the instrument's age change; nothing else in either page depended on the figure.
