@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **Opus approves Sonnet and Haiku subagents and escalates as needed** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Opus's approval covers Haiku as well as Sonnet, and Opus escalates a judgement it should not make alone to Fable, or to Dermot when Fable is not available.
+- **Opus approves Sonnet and Haiku subagents and escalates as needed** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Opus's approval covers Haiku as well as Sonnet, and Opus escalates a judgement it should not make alone to Fable, or to Dermot when Fable is not available. Haiku may feed a Sonnet subagent's job as input, but approval still comes from Opus.
 
 - **Decisions go to Dermot when Fable is not available** (`CLAUDE.md`, 2026-10-11, his confirmation). Where no Fable session can approve or triage a decision, it is put to him directly as choices.
 
