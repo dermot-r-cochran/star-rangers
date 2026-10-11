@@ -103,3 +103,14 @@ Only Class I beings (Levrils) have Cascade standing. This means:
 - They can select Champions and mentor in constraint literacy.
 
 Class II and III beings have no Cascade authority. Treating a sapient monster as though it holds Cascade standing is a category error with operational consequences.
+
+## Above the Classification: The Celestials
+
+The [Celestials](/star-rangers/glossary/celestials/) are not filed here. The Levrils are *the lowest tier with inherent higher-dimensional extension*, so the Celestials above them have that extension too. But they are a tier of the Cascade, not a class of being met at a boundary. That makes them inherently higher than everything this page classifies, rather than its highest entry.
+
+What they do to the three classes is uneven, and the reason is structural:
+
+- **Class I: they command.** A Celestial can command a Levril as one person commands another, and no Levril can bypass a Celestial directive.
+- **Classes II and III: they limit, and only at threshold.** A Celestial acts on an unlawful operation that threatens a Concordant's boundaries, at a scale never smaller than a galaxy, and its action reaches only as far as that operation does. Where a sapient monster or an incursion is part of such an operation, it falls inside the action. Otherwise it does not. Even then the action is on the operation, never on the being. The [Unfounded](/star-rangers/glossary/unfounded/) can be countered but not addressed, and a Celestial does not hold standing over a thing that has none.
+
+Below that threshold, which is where almost every encounter with a monster sits, nothing above the Levrils is involved. The countering is done by Levrils within their own constraints and by the ordinary means this record already holds: naming, closure and structural resistance. That is why monsters stay rare, local and unmanaged. No higher tier keeps them in check, and nobody can call one in to do it.
