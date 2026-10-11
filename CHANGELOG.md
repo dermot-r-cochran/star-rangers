@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Opus approves Sonnet and Haiku subagents and escalates as needed** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Opus's approval covers Haiku as well as Sonnet, and Opus escalates a judgement it should not make alone to Fable, or to Dermot when Fable is not available. Haiku may feed a Sonnet subagent's job as input, but approval still comes from Opus.
+
 - **Decisions go to Dermot when Fable is not available** (`CLAUDE.md`, 2026-10-11, his confirmation). Where no Fable session can approve or triage a decision, it is put to him directly as choices.
 
 - **Video follows the camera rule, and Grok Imagine is reached through Chrome** (`CLAUDE.md`, `story-bible/video-prompts.md`, `story-bible/images.md`, 2026-10-11, Dermot's direction). A generated clip may show only what no camera can film, as with stills, with its prompt kept in `video-prompts.md`. Grok Imagine is driven through the Claude in Chrome extension, which makes video generation a desktop step run on Opus. A generated still or clip looks as if taken by a 29th-century device inside the world, including for scenes set before cameras existed.
