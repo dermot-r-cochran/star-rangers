@@ -35,6 +35,13 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Engineering as the writing method, a Journal entry — raised 11 October 2026, OPEN, noted for later
+
+Noted in `ideas.md` (*Engineering as the Writing Method*) at Dermot's choice,
+*Option 1, note it for later*. Nothing is drafted. Still open: when to draft
+it, and whether Fable or Opus drafts it. Under the 11 October model rules it
+falls to Opus unless he names Fable.
+
 ## The four polities' populations — raised 10 October 2026, RULED same day (*Option 1, Celtic Union has better diplomatic ties the the Federation and Hegemony*)
 
 Extent ruled first (Hegemony thousands of star systems, Federation hundreds,
