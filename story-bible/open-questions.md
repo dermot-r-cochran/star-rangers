@@ -39,7 +39,13 @@ reason. Verify against the repo before acting on any line here.
 
 Noted in `ideas.md` (*Engineering as the Writing Method*) at Dermot's choice,
 *Option 1, note it for later*. Nothing is drafted. Fable drafts it, since
-Journal entries are Fable's work (Dermot, the same day). Still open: when.
+Journal entries are Fable's work (Dermot, the same day). Still open: when,
+and whether it is needed at all. **Put both to Fable first** (Dermot, the
+same day: *"When Fable is ready please ask it about the timing or necessity
+of that Journal entry"*). The next session with Fable available reads this
+section and the `ideas.md` note and decides: draft now, set a time, or drop
+it. Under *Who approves whom* it may settle that itself, naming its choice
+and reason here, or put it to Dermot as choices.
 
 ## The four polities' populations — raised 10 October 2026, RULED same day (*Option 1, Celtic Union has better diplomatic ties the the Federation and Hegemony*)
 
