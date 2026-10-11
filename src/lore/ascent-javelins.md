@@ -22,7 +22,7 @@ So people fly.
 
 A javelin does not take off; it is *thrown*. The craft rides a launch cradle to near-vertical, fires a hard boost that most passengers describe with the same word their great-great-grandparents would have used for a missile launch, and transitions through three regimes on the way up: ballistic boost off the cradle, air-breathing aerodynamic climb through the middle atmosphere, and closed-cycle rocket flight for orbital insertion. Descent belongs to the landing craft, which come down as an unpowered glide with terminal powered braking onto the runway, which is why every settled world's spaceport looks from a distance like a missile battery interleaved with a runway — because structurally, that is what it is.
 
-The standard passenger experience is ninety seconds of being sat on by the planet, eleven minutes of steep climbing flight, and then the silence that every first-timer mistakes for engine failure and every crew member has learned to announce in advance.
+The standard passenger experience is ninety seconds of being sat on by the planet, eleven minutes of steep climbing flight, and then the silence that every first-timer mistakes for engine failure and every crew member has learned to announce in advance. The crew is a pilot and a co-pilot on a flight deck forward, with the passengers behind them. The ascent itself is highly automated, so the two are there to certify the craft, watch the climb and take over if anything departs from it, not to fly it by hand; the announcement is theirs.
 
 ## The Gravity Envelope
 
