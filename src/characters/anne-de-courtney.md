@@ -10,7 +10,7 @@ aliases:
 tags: [human, star-rangers, survey-corps, five-islands, vellamar, chief-ranger, first-contact, standing-delegation]
 description: "Chief Ranger heading the Survey Corps' one standing delegation in the Kingdom of the Five Islands — the officer whose entire method is not asking the court for the second thing before the first one is understood."
 image: "anne-de-courtney.jpg"
-image_alt: "Anne de Courtney, a woman in her fifties with grey hair and a dark blue scarf, standing inside a plain cool stone room and looking out through an open doorway at a harbour town of tiled roofs and terraced hills in warm afternoon light. She has not stepped toward it."
+image_alt: "Anne de Courtney, a woman in her fifties with short grey hair, in the deep olive field shell of the Survey Corps with a single tab at her collar, standing just inside the open doorway of a whitewashed stone room. Through the door a town of tiled roofs and wind-bent palms falls away in warm afternoon light; she has not stepped toward it."
 ---
 
 The Kingdom granted the Survey Corps a single standing delegation on Vellamar and nothing else. Anne de Courtney has spent her tenure making sure that stays exactly what it is, which has required declining considerably more from her own side of the table than from the Kingdom's.
