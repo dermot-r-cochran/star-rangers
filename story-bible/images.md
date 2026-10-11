@@ -129,7 +129,7 @@ has already stated, in the body.
 site takes only his own single-frame photographs; this repository is exempt
 from that rule, and the exemption has a shape:
 
-- **A generator may make what no camera can**: a non-human body, a habitat, an
+- **A generator may make what no camera can** (and the same holds for video, Dermot, 11 October 2026 — `video-prompts.md`, *What a generator may make*): a non-human body, a habitat, an
   artificial mind, an artefact, or a portrait of someone who does not exist.
   *Clarified 5 September 2026, when Zhulik's page went up behind a card because
   a cat is photographable — Dermot: "Although I could photograph a cat for you;
