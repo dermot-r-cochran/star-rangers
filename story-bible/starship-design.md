@@ -81,6 +81,34 @@ blueprint figure not cited is a derivation from real physics and is marked
     is still their home. *So:* an old hull in a picture is a kept thing, not a
     wreck.
 
+11. **A crew is sized by the people-work, never the machine-work** (Dermot,
+    11 October 2026, on *"Star Trek and Andromeda tend to have much larger crews
+    than an advanced starship would actually need"*, choosing to record it as a
+    principle). Derived from what the record already holds: the *Constant
+    Margin* flew with three, *Patience First* with six, Threshold Station runs
+    with twenty, a Chthonari contractor crew is four, and the largest crew in
+    the record, the Lee-class's forty to sixty, is there for delegates,
+    evacuees, a multispecies trauma ward, xenobiology and xenolinguistics,
+    because a ship's mind offers candidate readings and never decides what
+    anything means (`kalypsis-dawn.md`). *So:* a ship runs with a few; it
+    carries more only for what people must do (judgement, care, contact, the
+    passengers' needs). No crowd of hands on a bridge, no deck of people turning
+    valves a machine would turn.
+
+12. **A High Captain's command ship is a mobile headquarters** (Dermot,
+    11 October 2026, verbatim: *"A High Captain's command ship is more like a
+    mobile headquarters than a normal starship."*). A High Captain holds flag
+    authority over a whole region or theatre (`star-rangers-command-hierarchy.md`),
+    and with no faster-than-light communication (principle 4) a theatre's
+    headquarters has to travel with its commander: orders, records and the
+    people who weigh them cannot outrun the hull that carries them. *So:*
+    the ship is sized by its headquarters work under principle 11, staff,
+    records, liaison and the business of the region, not by flying it; it
+    reads as a working headquarters that moves, closer to a station than a
+    cruiser, unarmed like every Ranger hull. No such ship is yet named on a
+    page; class, size and whether every High Captain has one are his (open
+    items).
+
 ---
 
 ## Blueprints
@@ -191,5 +219,6 @@ figures follow from the principles and real physics and are his to change.
 - The Tally's weight at the Mooring (A).
 - The Threshold-class shape (E).
 - Whether any ship in the record has windows at all beyond ports.
+- The High Captain's command ship (principle 12): its class name, its size, whether every High Captain has one, and whether it gets a sheet (F) before any page or picture needs it.
 - Whether these sheets become a lore page (*Hulls of the Record*, Technology)
   once he has ruled on the open items; until then they are planning.
