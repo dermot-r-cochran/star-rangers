@@ -130,12 +130,26 @@ test("a section hero must exist on disk and must not be the pending card", () =>
     () => validateSectionHeroes(edition({ sectionHeroes: { characters: { image: "no-such-file.jpg", alt: "x" } } }), HERO_DIR),
     /is not in/
   );
-  // characters-concourse.jpg is the PLACEHOLDER-stamped card the field exists
-  // to get past; naming it as an override is refused.
-  assert.throws(
-    () => validateSectionHeroes(edition({ sectionHeroes: { characters: { image: "characters-concourse.jpg", alt: "x" } } }), HERO_DIR),
-    /PLACEHOLDER-stamped/
-  );
+  // A PLACEHOLDER-stamped card is what the field exists to get past; naming
+  // one as an override is refused. The site's own pending Characters card was
+  // retired on 2026-10-11, so the stamped file is built in a temporary dir.
+  const fs = require("fs");
+  const os = require("os");
+  const { MARKER } = require("../lib/placeholder-marker");
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "hero-"));
+  try {
+    const marker = Buffer.from(MARKER, "latin1");
+    const len = Buffer.alloc(2);
+    len.writeUInt16BE(marker.length + 2);
+    const jpeg = Buffer.concat([Buffer.from([0xff, 0xd8, 0xff, 0xfe]), len, marker, Buffer.from([0xff, 0xd9])]);
+    fs.writeFileSync(path.join(tmp, "stamped.jpg"), jpeg);
+    assert.throws(
+      () => validateSectionHeroes(edition({ sectionHeroes: { characters: { image: "stamped.jpg", alt: "x" } } }), tmp),
+      /PLACEHOLDER-stamped/
+    );
+  } finally {
+    fs.rmSync(tmp, { recursive: true, force: true });
+  }
 });
 
 test("the pets edition names a real, unstamped Characters hero", () => {
