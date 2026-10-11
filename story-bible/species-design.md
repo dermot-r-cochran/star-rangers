@@ -334,6 +334,10 @@ a term. A people whose equivalent is *nothing* is a valid answer and an
 interesting one, and the lore page's *"does not guess"* line is there to
 keep it available.
 
+## Marks of belonging (Dermot's direction, 11 October 2026)
+
+Asked whether non-human peoples have an equivalent of a flag, he chose a principle and no designs yet. A people marks belonging in its own medium, as it marks a role (the uniform equivalent above): a phrase, a struck rhythm, a colour, a posture, a scent, whatever its senses carry best. Nothing is defined per people until a page needs it, and then it is derived here first, from the people's senses and world, never borrowed from a human flag. The Celtic Union's ceremonial flag (six stars for six arks, `celtic-union-of-planets.md`, same day) is the one human polity's flag on record.
+
 ## Where this goes
 
 Each species that gets a body plan gets a lore page on the pattern of
