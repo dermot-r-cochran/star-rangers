@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Through, Not As: no character is all-knowing, omnipresent or all-powerful** (`src/lore/cosmic-cascade.md`, `CLAUDE.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's direction). A new section of the Cosmic Cascade says that the strata above the Celestials are not characters in the usual sense. They act through structure, design, avatars, Champions and prophets, and never appear as themselves. A new Global Invariants bullet states that nobody the record can meet is unlimited. A prophet is filed like a Champion and receives no message. This is an extension and clarification of the theophany, avatar and no-dialogue rules already in place. Three readings are open for Dermot.
+
 - **Fable writes Journal entries** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Journal entries join narrative prose and image prompts as Fable's work.
 
 - **Opus approves Sonnet and Haiku subagents and escalates as needed** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Opus's approval covers Haiku as well as Sonnet, and Opus escalates a judgement it should not make alone to Fable, or to Dermot when Fable is not available. Haiku may feed a Sonnet subagent's job as input, but approval still comes from Opus.

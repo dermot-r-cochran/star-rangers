@@ -2956,3 +2956,14 @@ taken the same evening.
   boundary desk training Toval by Season 5, with nothing between. Her page
   already says *the record does not say when she took the desk*; on Sen's
   doctrine the gap stays marked, and no bridge is drafted.
+
+## The strata above the Celestials are not characters — `intake-2026-10-11.md` — OPEN, his (three readings)
+
+Drafted as *Through, Not As* in `src/lore/cosmic-cascade.md`. Three readings
+are open, each with a recommendation: (1) the scope is everything above the
+Celestials, which is the avatar line, with the temporal registers unchanged;
+(2) a prophet is filed like a Champion, forth-telling and receiving no
+message; (3) the Kieme-perspective narration exception in
+`story-bible-summary.md` is kept and read as *impartial*, not all-knowing.
+Reading 3 has not been applied yet. A *Prophet* glossary entry waits on
+reading 2.
