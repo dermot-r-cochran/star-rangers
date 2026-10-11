@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **An ascent javelin's crew** (`src/lore/ascent-javelins.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's direction). A pilot and a co-pilot on a flight deck forward with the passengers behind; the ascent is highly automated, and the crew certify, watch and take over. A landing craft can bring a javelin down as cargo and a javelin can carry a folded landing craft up, but they are never the same vehicle.
+- **An ascent javelin's crew** (`src/lore/ascent-javelins.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's direction). A pilot and a co-pilot on a flight deck forward with the passengers behind; the ascent is highly automated, and the crew certify, watch and take over. A landing craft can bring a javelin down as cargo and a javelin can carry a folded landing craft up, but they are never the same vehicle, and their pilots usually hold different specialisations.
 
 - **The two newer Slipwave codex covers now match the set** (`src/images/codex/borrow-the-angle.jpg`, `odonata-raise-your-banners.jpg`, both entries' `image_alt`, `story-bible/image-prompts.md`, 2026-10-11, at Dermot's word that the codex songs should carry the existing covers). Built from the Anthem cover's starfield and trailing star with the new titles in gold serif, replacing the plain cards of 8 October.
 
