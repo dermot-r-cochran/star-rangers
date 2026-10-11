@@ -2967,3 +2967,9 @@ message; (3) the Kieme-perspective narration exception in
 `story-bible-summary.md` is kept and read as *impartial*, not all-knowing.
 Reading 3 has not been applied yet. A *Prophet* glossary entry waits on
 reading 2.
+Later the same day: *Theophanies are usually either Levrils or more rarely
+Celestials.* This is drafted as the no-theophany line moving up to stand
+above the Celestials, which resolves the conflict with the immanence
+section. That is reading 4: (A) a Celestial may be the being met, which is
+recommended and drafted; or (B) only its enforcement action is witnessed,
+and the line stays above the Levrils.
