@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **An ascent javelin's crew** (`src/lore/ascent-javelins.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's direction). A pilot and a co-pilot on a flight deck forward with the passengers behind; the ascent is highly automated, and the crew certify, watch and take over.
+
 - **The two newer Slipwave codex covers now match the set** (`src/images/codex/borrow-the-angle.jpg`, `odonata-raise-your-banners.jpg`, both entries' `image_alt`, `story-bible/image-prompts.md`, 2026-10-11, at Dermot's word that the codex songs should carry the existing covers). Built from the Anthem cover's starfield and trailing star with the new titles in gold serif, replacing the plain cards of 8 October.
 
 - **Photorealism audit of the lore and hero images** (`story-bible/images.md`, 2026-10-11, from Dermot's question whether images such as the Prismeri are photorealistic enough). Every non-card image under `src/images/lore/` and `src/images/hero/` that is not one of his own frames was judged by eye: 94 read as photographs, 39 do not (the twelve-image Prismere and Prismeri set, seven hero banners, and twenty lore images), and 19 show abstract or immaterial subjects where non-photographic art is right; the causes in the prompts, a batch order and two decisions for him are recorded. Nothing was regenerated.
