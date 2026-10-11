@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The two newer Slipwave codex covers now match the set** (`src/images/codex/borrow-the-angle.jpg`, `odonata-raise-your-banners.jpg`, both entries' `image_alt`, `story-bible/image-prompts.md`, 2026-10-11, at Dermot's word that the codex songs should carry the existing covers). Built from the Anthem cover's starfield and trailing star with the new titles in gold serif, replacing the plain cards of 8 October.
+
 - **Photorealism audit of the lore and hero images** (`story-bible/images.md`, 2026-10-11, from Dermot's question whether images such as the Prismeri are photorealistic enough). Every non-card image under `src/images/lore/` and `src/images/hero/` that is not one of his own frames was judged by eye: 94 read as photographs, 39 do not (the twelve-image Prismere and Prismeri set, seven hero banners, and twenty lore images), and 19 show abstract or immaterial subjects where non-photographic art is right; the causes in the prompts, a batch order and two decisions for him are recorded. Nothing was regenerated.
 
 - **The Celtic Union's ceremonial flag** (`src/lore/celtic-union-of-planets.md`, `story-bible/species-design.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's choices). Six small pale stars in a ring on deep sea-blue, one for each ark of the Currach Fleet, flown only on ceremonial occasions and never on working kit. Non-human peoples mark belonging in their own media, defined per people when a page needs it.
