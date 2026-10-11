@@ -52,6 +52,10 @@ already, and the `codex/` path takes it automatically. The target is
 for the pick. Images filed before 7 October 2026 are unfinished; re-finishing
 them is a decision of his, not a default.
 
+**Places are well kept; the imperfection is the camera's** (Dermot, 11 October 2026, choosing *"Well kept by default"* when asked why the habitats and ship interiors looked run down and in need of cleaning). His 7 October welcome for *an imperfect photograph taken in the future* is about the photograph: grain, a soft corner, a flat sky. It had been carried into the places instead (*worn*, *scuffed*, *weathered*, *grime* and *rust* ran to well over a hundred uses across the prompts) and the generator's stock science-fiction look is the used future of film sets. So a habitat, a ship, a station or a Ranger's kit is clean and maintained unless its page says otherwise (a frontier post, a derelict, a working engine space), with honest marks of use at most; a prompt says *kept* and negates grime, rust, peeling paint, debris and neglect. Wear words in existing prompts are swept as each entry is revised.
+
+**Machines are made with care** (Dermot, 11 October 2026, choosing *"Made with care"* when asked whether the humanoid robots looked too robotic). What canon fixes stays: Jeeves's round dark lenses that make no attempt to be eyes (his ruling of 30 August), Lucene-9000's seams and manufactured face. What changes is the finish: a kernel-compliant machine is a well-designed object someone was proud to make, in considered proportions and warm, honest materials, never a crash-test dummy, a shop mannequin, a toy or an industrial arm. Prompts negate those four by name.
+
 **Spacecraft are derived, not styled** (Dermot, 7 October 2026, verbatim:
 *"Derive spaceship images from design principles and detailed blueprints where
 possible."*): a ship, a station or a platform in a prompt is built from what
