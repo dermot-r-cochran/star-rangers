@@ -35,6 +35,8 @@ What a uniform carries instead is what a colleague across a corridor actually ne
 
 So a Ranger's uniform is legible and carries no text at all, which sounds like a contradiction and is simply what insignia has always been for. Everything else about who she is stays where it belongs, which is with her.
 
+**The shell's colour carries the corps.** Field shells are coloured by corps, dark and muted, so that a hangar full of Rangers still reads as one service and a track tab, always the lighter and clearer of the two, stands out on any shell: the Survey Corps in deep olive, the Safety Corps in dark ochre-brown, the Science Corps in deep teal, the Frontier Corps in dust brown, and the Engineering Corps in graphite with steel seam-piping. No shell repeats a tab: copper belongs to the engineering track's insert alone, and a surveyor's pale grey-green tab reads plainly against the olive of her own corps. The Archive has not recorded shell colours for the other corps.
+
 Dress uniform exists for ceremonial and hearing-room occasions and differs from field kit mainly in finish, not in insignia — the charter's drafters were explicit that a Ranger should not need to relearn the rank system to read a colleague across a formal setting.
 
 ## Why a Uniform at All
