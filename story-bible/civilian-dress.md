@@ -163,7 +163,11 @@ coat or hat-brim detective look; no name tape, logo, badge or lettering on any
 garment.* The period items are dropped from the negative only where the page
 says the character dresses old (Ashcombe) or the frame is History.
 
-## Open — Dermot's decisions
+## Ruled 11 October 2026
+
+Dermot accepted all five recommendations below as put (*"Accept all five"*), so each item's option A is now the rule: Albercombe is not retro, and his next portrait dresses him in his own jacket in this note's vocabulary; neckties and lapels are absent from present-day dress, open only to a page that says a character dresses old, or to History; formality is the same clothes in a better finish; there are no colour customs except where a page names one (Aethelrock's setts); and an isolate's own dress is exempt from the hint-of-the-century rule, the hint arriving with the Survey's kit. On his question whether political leaders have a dress code of their own he chose **ceremony only**: no everyday leaders' dress anywhere; the Celtic Union's ceremonial offices (Uachtarán, Seanad) wear a ceremonial dress on occasions only, drafted when a page needs it, and leaders elsewhere dress as any senior professional does. His answer on detectives was the record's own: juniors wear the issued bureau jacket, seniors and the undercover their own clothes.
+
+## As put — Dermot's decisions (ruled above)
 
 1. **Albercombe.** A) Not retro: nothing changes on his page; the portrait
    stands as illustration, and its next re-make dresses him in his own
