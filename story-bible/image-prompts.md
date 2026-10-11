@@ -1125,6 +1125,8 @@ flags the issue set out, no underlay, default motif:
 They match the codex's plain cards rather than the Ballad cover; the alts
 say so. Remaking them in the Ballad look is open until the underlay exists.
 
+**Remade in the set's look, 11 October 2026** (Dermot, on the codex index: *"There should be existing covers for the codex songs"*, then *"design or choose fonts as needed"*). The underlay was never found, so both covers were built from `star-rangers-anthem.jpg` itself: its starfield, trailing star, *Cultural Record* header and gold rule kept, the text block under the rule cleared by a diffusion fill that follows the vignette, and the new lines set in Georgia (title, gold, tracked; subtitles) and Consolas (the spaced bottom line), the nearest faces on this machine to the set's DejaVu Serif and Sans Mono. Lines: the title; *Slipwave · lineup not stated*; *Eden Space Habitat Collections*; *RECOVERED RECORDING · VIDEOCAST*. Recipe kept at `story-bible/reference-art/slipwave_cover.py`.
+
 ## 2026-10-11 — Cnoc na mBeach, a composite on Dermot's own plate
 
 ### cnoc-na-mbeach.jpg — filed from run 1 variation 1
