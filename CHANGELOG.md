@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Celtic Union's ceremonial flag** (`src/lore/celtic-union-of-planets.md`, `story-bible/species-design.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's choices). Six small pale stars in a ring on deep sea-blue, one for each ark of the Currach Fleet, flown only on ceremonial occasions and never on working kit. Non-human peoples mark belonging in their own media, defined per people when a page needs it.
+
 - **Century audit of the character and lore images** (`story-bible/images.md`, 2026-10-11, from Dermot's question whether the non-historical images look closer to the 21st century or the 29th). Every image was sorted by whether it reads as the record's century, and the 67 that read as ours or as a rendered set are put in nine batches for fixing, hero cast first.
 
 - **Every High Captain holds a command ship** (`src/lore/star-rangers-command-hierarchy.md`, `story-bible/starship-design.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's direction). An extension of the command hierarchy page: a High Captain's command ship is a headquarters that moves, since no message outruns a hull, and sessions of the Council of High Captains and the Triumvirate are hosted aboard one. A command ship is as a rule slower to arrive than a Line Captain's ship or a Star Captain's flagship.
