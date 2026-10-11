@@ -5,7 +5,7 @@ category: "History"
 tags: [star-rangers, founding, msc, eden, fold-route, charter, history, formation, young-star-rangers]
 description: "How the Star Rangers came to exist: the pressures, the arguments, and the moment the Military Space Command's institutional failure became irreversible."
 image: "formation-of-star-rangers.jpg"
-image_alt: "A long bare hall with high windows and a long wooden table set with used cups and glasses, chairs pushed back, one tipped against the wall, after a meeting has ended"
+image_alt: "A long pale table seen from one end in a coved ochre-grey chamber, set with cups, saucers, glasses and a carafe left where they stood, moulded chairs pushed back and one lying on the floor, under ceiling light slots; at the far end a long low window looks out on rust-red Martian ground under a pale sky"
 ---
 
 The hearing chamber was meant to defend the old order. Instead it gave the Solar System a sentence it could not forget and a record it could not excuse.
