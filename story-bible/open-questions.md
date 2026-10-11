@@ -2957,7 +2957,7 @@ taken the same evening.
   already says *the record does not say when she took the desk*; on Sen's
   doctrine the gap stays marked, and no bridge is drafted.
 
-## The strata above the Celestials are not characters — `intake-2026-10-11.md` — OPEN, his (three readings)
+## The strata above the Celestials are not characters — `intake-2026-10-11.md` — readings 1–2 RULED (*Scope A, Prophet A*); 3, 4, 5 OPEN, his
 
 Drafted as *Through, Not As* in `src/lore/cosmic-cascade.md`. Three readings
 are open, each with a recommendation: (1) the scope is everything above the
