@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"
 image: "knarrheim.jpg"
-image_alt: "A rendered fantasy landscape of an alien planet"
+image_alt: "Range after range of red-brown mountains under a violet sky, a large pale moon and a smaller one hanging above a glowing band of horizon, stars overhead"
 ---
 
 Every other Solar System capital was built to be one. Knarrheim was built to haul ice, and only stopped moving because it turned out to be more useful staying still.

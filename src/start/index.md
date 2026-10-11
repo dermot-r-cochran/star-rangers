@@ -146,7 +146,7 @@ permalink: /start/
 {#- ======================================================================
     The site-wide plan: Sen's archivist's note.
     ====================================================================== -#}
-<img class="page-hero-image" src="/star-rangers/images/hero/s01e03-archive.jpg" alt="An old archive shelf of records" />
+<img class="page-hero-image" src="/star-rangers/images/hero/s01e03-archive.jpg" alt="Shelves packed with worn paper files and folders standing on end, a row of labelled archive files on the shelf below" />
 <h1 class="page-title">The Reading Plan</h1>
 <p class="page-intro">
   <em>An archivist's note — which is to say: unofficial, signed, and permitted an opinion. I keep the record you are about to read reconciled, and this note is what I tell people who ask my desk where to start, written down so I can stop repeating it. The record is one history attested by many witnesses, and the shelf around it is reference, not homework — you need none of it before you begin. If you would rather browse than be guided, <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> lists everything, and my feelings will survive.</em>

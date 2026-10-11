@@ -31,7 +31,7 @@ See [Plural Minds](/star-rangers/glossary/plural-minds/) for how this fits the w
 
 ## Marginalia
 
-![A ruled ledger page in a dark archive, a single handwritten marginal note glowing gold beside the margin rule, reading "you checked that twice already — the second answer didn't change."](/star-rangers/images/characters/sen-marginalia.jpg)
+![Designed card on a dark ruled ledger page: headed CULTURAL RECORD, a handwritten marginal note glowing gold beside the margin rule reading "you checked that twice already — the second answer didn't change.", then the title MARGINALIA, "Sen's Private Companion" and "Unsigned. Filed anyway."](/star-rangers/images/characters/sen-marginalia.jpg)
 
 Nobody at the Survey Archive has ever put a name on an org chart for the small, [Kernel-compliant](/star-rangers/lore/ai-safety-kernel/) agentic process that keeps Sen's desk running after hours, because nobody has ever asked whether Sen's desk needed one and Sen has never volunteered the answer. Sen calls it Marginalia. It is not issued equipment, not a Corps system, and not on any registry that would let a personnel review find it — a quiet fact Sen has never lied about and never once been asked about directly, the same distinction that keeps a Ranger's private chapel attendance out of a service file.
 

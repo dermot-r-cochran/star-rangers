@@ -90,6 +90,6 @@ The second-settled charter world, [Ynys Wydrin](/star-rangers/lore/planets/ynys-
 
 By 2826 UCSD, wildlife preserves across Earth's remaining unmanaged biomes are healthier than at any point since the early industrial era, maintained under Solar System Defence Command environmental protocols rather than allowed to recede. The Currach Fleet's founders left believing they were saving something Earth could not keep. Earth, in its own slower way, has spent the centuries since proving that belief only partly right.
 
-![A leopard resting in grassland on Earth, photographed in 2826 UCSD](/star-rangers/images/lore/earth-leopard-grassland.jpg)
+![A leopard resting in actively maintained grassland on Earth, photographed in 2826 UCSD](/star-rangers/images/lore/earth-leopard-grassland.jpg)
 
 See also: [The Generation-Ark Era](/star-rangers/lore/the-generation-ark-era/) — the pre-fold sublight crossing the Currach Fleet made, and the odds it beat, [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [United Space Consortium](/star-rangers/lore/united-space-consortium/), [The Imperium](/star-rangers/lore/the-imperium/), [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/), [Saint Aoife](/star-rangers/lore/saint-aoife/) — devotion carried off Earth as living observance rather than archive, [What the Hill Keeps (S05E02C01)](/star-rangers/seasons/s05/e02/s05e02c01/) — the invitation-only jurisdiction and the honour escort, from both ends.
