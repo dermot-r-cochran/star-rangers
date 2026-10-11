@@ -4386,3 +4386,121 @@ Dermot, 10 October 2026, verbatim: *"please triage any generate images under sta
 
 **Machines made with care, rolled 11 October 2026** (one round, two variations each, finished at strength 1). **Filed:** `jeeves` 2 (cream shell, warm kitchen; the face still near a dummy's, which the canon lenses partly fix), `xenon` 2 (the hands at work, a kept bay), `rook-7` 1 (clean shell, the non-standard array plainly a different make; its first prompt of record). **Held:** `lucene-9000`, whose variation 2 became a human woman and variation 1 grew bare jointed arms; the portrait filed on 10 October stays.
 
+
+### Century audit, 11 October 2026
+
+Dermot, 11 October 2026, verbatim: *"If you look at any non-historical image and tried to guess the century does it look closer to 21st or 29th?"*, and he approved an audit first, then fixes in batches. This is the audit; nothing was generated or changed.
+
+**Method.** Labelled contact sheets of all 311 files under `src/images/characters/` (with `aldera/` and `tissadelle/`) and `src/images/lore/` (with `planets/` and `universes/`), twelve to a sheet at 480 px a frame, judged by eye; each file was matched to the page that carries it (`image:` in front matter, or an inline gallery) and that page's `status`, `category` and tags were read, so an old look on a Historical, isolate or deliberately plain page was not counted against it. The line between a plain picture and a dated one is the 7 October rule's own: a frame in the record's present *may look plain, worn and ordinary, … but not period*. A scene with nothing in it that belongs to any century counts as (A); a scene with something that belongs to ours counts as (B). *What the Record Refuses* supplied the period objects by name: banks of screens, and the sprung, jointed desk lamp. Designed cards, emblem cards and title cards (49) were skipped, as were non-human bodies in natural landscapes and the plain landscapes, macros and star fields, which are listed under (E). The five classes:
+
+- **(A)** reads 29th century: a plausible future, or plain with nothing period in it;
+- **(B)** reads 20th or 21st century and should not;
+- **(C)** a rendered science-fiction set: a film, game or CGI look rather than a photograph of a future;
+- **(D)** rightly old, either (D1) Historical or an isolate, or (D2) plain by canon with no hint of the century in frame (a decision of his, below);
+- **(E)** not a built or human scene; the century does not apply.
+
+**Counts.** 262 judged: A 70, B 47, C 20, D 33 (D1 20, D2 13), E 92. Skipped as cards: 49.
+
+#### (B) Reads 20th or 21st century: 47
+
+*Characters (29)*
+
+- `agent-barsik` — paper stacks on a steel desk, pipework and a bank-vault door.
+- `alala` — a shopping-mall dome, the crowd in jeans and T-shirts.
+- `aldera/field-photo-02` — a present-day painted boat hull with lettering.
+- `anne-de-courtney` — Survey chief at the Five Islands in no Survey kit (ruling 5).
+- `anne-wender` — Portakabins, timber pallets: a building site of today.
+- `bubochka` — a present-day farmhouse kitchen, mug and milk glass.
+- `bubochka-alert` — the same present-day kitchen (an inline image on Bubochka's page).
+- `cormac-dubhghlas` — waxed jacket, knitted cap, today's farm; Aethelrock keeps technology visible.
+- `demelza-trevithick` — a steam-age machine hall, an old electric motor.
+- `dorian-calloway` — a drop-ceiling office, a wall of monitors, a suit with lapels.
+- `elvira` — a present-day leather jacket; the stone room itself is fine.
+- `emma-la-chapelle` — Survey officer at the Five Islands in no Survey kit (ruling 5).
+- `ernesto-strozzi` — khaki safari shirt and a steel filing cabinet.
+- `galen-kane` — a 19th-century timber town hall, the townsfolk in tweed.
+- `fergus-aonghas` — quilted jacket, beanie, a timber pit-head; Aethelrock tech should show.
+- `idris-bryneth` — a present-day oilskin on an empty moor; Aethelrock tech should show.
+- `ingrid-halvorsen` — a present-day parka, steel flasks, a prefab hut.
+- `kai-larsen` — a NASA-style flight suit with patches, an ISS-era station, screens.
+- `knopka` — a present-day flat: timber floor, panelled door, tote bag.
+- `marisol-achebe` — sacks, tins and steel shelving of a present-day storeroom.
+- `niamh-o-ceallaigh` — today's fishing harbour, plastic crates; Aethelrock tech should show.
+- `odile-ferrant` — present-day hiking kit, aluminium rack, hard cases.
+- `rasa-oyelaran` — a present-day open-plan police office of monitors.
+- `rhiannon-ceridwen` — a present-day steel lattice radio mast.
+- `sen` — a domed brass desk lamp and film cans: a 20th-century archive.
+- `sofia-santos` — brass valves, gauges and pipework of a steam-era plant.
+- `sorcha-shepherd` — a present-day total station on a yellow tripod.
+- `wendell-albercombe` — the herringbone jacket; ruled 11 October for his own jacket.
+- `xenon` — one object: a sprung, jointed desk lamp, refused as period.
+
+*Lore (18)*
+
+- `ai-safety-kernel` — a 2020s circuit board, capacitors and chips (a concept: card it).
+- `ai-usage-credits` — a stock circuit-trace graphic (a concept: card it).
+- `ask-and-it-will-be-reviewed` — a 1970s municipal waiting room, cork board, fuse box.
+- `communion-of-the-called` — steel folding chairs, trestle table, flasks; also grimy.
+- `cross-biosphere-taxonomy` — peeling plaster and an old school bench.
+- `environmental-technology-design` — a stock circuit-board graphic.
+- `generalised-quantum-mechanics` — a 20th-century lab: sash windows, stone bench, cable.
+- `halvern-combine` — a steel office cabinet, ledgers, framed certificates.
+- `made-minds-and-the-ai-safety-archetype` — the newest of the three doors is today's flush door.
+- `monasteries-of-mars` — an unroofed stone ruin; the page has pressure-hermitages.
+- `planetary-liaisons-and-recruiters` — a 1950s street office: wooden desk, coat peg, boxy machine.
+- `resurrection-and-the-life` — concrete walls and a grey utility box: a present-day cemetery.
+- `saltmere-mooring-gantry-1` — a present-day harbour jetty, a RIB's bow in frame (his own frame).
+- `saltmere-mooring-gantry-2` — the same jetty, on the Thalassa page (his own frame).
+- `seed-mind-lifecycle` — a stock data-tunnel graphic (a concept: card it).
+- `star-rangers-science-corps` — a steel-framed 1950s desk, specimen jar, radiator pipes.
+- `the-institute` — a present-day swivel chair and a Peli case.
+- `the-scope-of-physical-law` — a present-day university lab behind the boxes.
+
+#### (C) A rendered science-fiction set: 20
+
+*Characters (9)*: `bertram-ashcombe` (a film set with monitor banks, the grin to camera; the suit is his page's), `dagny-voss`, `dr-iona-vale`, `eden-warden` (an architectural visualisation), `imogen-petrakis`, `isren-farrowkin` (a CGI body in a Jacobean hall), `karla-wender` (a control yoke and glowing displays, both refused), `lumbarian`, `qiren-tal`. All but Karla Wender were already on the 10 October photorealism triage.
+
+*Lore (11)*: `archecluster`, `ascent-javelins` (also the stock ship), `cerebraun`, `cill-aoife-devotion` (a grimy film-set corridor; the place should be kept), `embodied-cognition`, `habitat-threshold` (a lit-flank stock station), `kieme-visible-hand` (a game render), `knarrheim` (a stock fantasy planet; the page is a habitat), `membrane-shadows`, `new-london-space-habitat`, `things-that-are-made`.
+
+#### (D) Rightly old: 33
+
+*D1, Historical or an isolate (20).* Historical pages: `adaeze-okafor`, `beatrix-kilbride`, `brother-daire`, `maren-solveig-krast`, `osric-fenholt`, `petra-solano`, `rutger-voss`, `saint-aoife`, `sildron-drey`, `thalassa-vexar`, `wren-okafor`, `ysolde-pitch`, and the History lore `formation-of-star-rangers`, `the-generation-ark-era`, `the-imperium`. The Kingdom of the Five Islands' own people (ruling 5, isolates exempt): `bram-tollick`, `ilsabet-marrowtide`, `oriel-fenwick`, `wren-pellam`. And `ilse-korvain`, whose page calls the coat archaic and whose silver seam carries the century.
+
+*D2, plain by canon, no hint in frame (13).* *What the Record Refuses* says such places *had no reason to look like anything else* (a hive-yard and stone cells, a chapter house on a green hill, Tír na nÓg's farmland): `asteria-the-sage`, `brother-fintan`, `peran-slade` (Fellowship chapter houses and the hermitage), `cnoc-na-mbeach` (his own frame), `sorcha` (homespun, by her page), `sorcha-nic-dhiarmada` and `drithane` (Drithane's valleys), `ilsabet-corren` (a reading room of bound registers), `new-cotswolds` (a preservation settlement), `winterbourne` (whose page argues the point), `verdance` (the Verdani's four settlements), `quern` (low houses shaped for the wind, by its page), `star-rangers-frontier-corps` (a timber settlement down a muddy track). `orla-shepherd`, by contrast, carries the hint already (small drone lights over the pasture, as the Tír na nÓg page describes) and is counted (A).
+
+#### (A) Reads 29th century, or plain with nothing period: 70
+
+*Characters (39)*: `andrew-falkorian`, `aravena`, `galahad-thorne`, `galen`, `iklix-varn`, `jeeves`, `kate-ukrainka` (the cardigan and mug are carried by the habitat in the window), `kattik`, `lev`, `lorien-the-wanderer`, `lucene-9000`, `luke-valerius`, `muffin`, `nakagawa`, `naomi-kestrel`, `noah-adeyemi`, `orla-shepherd`, `petra-voss`, `priya-nakamura`, `rhian-gwynne`, `rook-7`, `rosalind-vey`, `sylvie-harrow`, `syra`, `tamsin-reyes`, `tekka`, `thrum`, `tikket`, `tissadelle-shepherd`, `tissadelle/season-1-cadet`, `tissadelle/season-1-first-posting`, `tissadelle/season-5-halyx-corridor`, `tomas-brennock`, `toval`, `tsikk`, `yusuf-adair`, `zara-wayland`, `zhulik`, `zoe-smith`.
+
+*Lore (31)*: `canonical-glossary-and-migration-guide`, `dreams-across-the-interval`, `eden-bureau-uniform`, `eden-ring-rail`, `greenward-habitat`, `heritable-modification-protocols`, `hyperfold-yield-combine`, `kalypsis-dawn`, `narrative-works-and-their-adaptation`, `orbital-compute-complexes`, `plainmark`, `predatory-entities`, `quantum-computing-and-the-cavern-constraint`, `shore-leave-and-neutrality` (a period bar, carried by the habitat corridor behind it), `solar-system-concord`, `star-rangers-navigation-corps`, `star-rangers-proverbs-and-maxims`, `the-commonwealth`, `the-fusion-ceiling` (the grey box on a concrete pad, as canon says), `the-guest-ring`, `the-honest-dark`, `the-oversight-council` (his own frame), `the-tally`, `threshold-station` (his own frame), `timekeeping-and-the-common-record`, `universal-cosmic-stardate`, `what-a-life-is-built-from`, `what-a-mind-is-carried-by`, `what-nobody-certifies`, `what-the-record-refuses`, `where-the-weather-stops`.
+
+#### (E) Not a built or human scene: 92
+
+*Characters (12)*: `aldera`, `aldera/field-photo-01`, `aldera/field-photo-03`, `aldera/field-photo-04`, `bumble`, `nessa`, `turquoise-dove`; non-human bodies in natural ground, not judged for century: `stone-first`, `suvra-kel`, `sethka-ru`, `teddy`, `went-round` (their render look, where it shows, is the 10 October triage's business, not this audit's).
+
+*Lore (80)*: landscapes, macros, wildlife and star fields, his frames and generated (`archewright`, `archipelago-palm-avenue`, `autumn-canopy`, `boirinn-uplands-horses`, `boirinn-uplands-mist`, `boirinn-uplands-waterfall`, `cairn-trust`, `cloud-sea`, `coastal-sunset`, `crimson-blossom-macro`, `drowned-forest`, `dryadic-trees`, `earth-leopard-grassland`, `elder-fig-grove`, `frontier-transformation-protocols`, `grassland-storm-tree`, `gull-on-rock`, `highland-cloud-sea`, `highland-rock-spires`, `highland-scrub-road`, `highland-sentinel-lizard`, `highland-summit-snowfields`, `island-watchtower`, `moorhen-wetland`, `pink-blossom-macro`, `scarlet-thread-bloom`, `shoreless-sea`, `the-thin-inheritance`, `trigrian`, `trigrian-triple-sunset`, `violet-spike-inflorescence`, `volcanic-strata`, `wading-heron`, `weather-on-other-worlds`, `wetland-treeline-reflection`, `white-flower-macro`, `young-lake-margin`); space, abstracts and diagrams (`aethelrock`, a stock render worth replacing on other grounds, `arilon`, `boundary-zones`, `competing-designs`, `concordant-membranes`, `cosmic-cascade`, `creative-entropy-framework`, `ensemble-multiverse`, `five-layers`, `noogenic-seeding-system`, `physics-comparison`, `planets/cirrane`, `planets/corryn`, `post-eleven-dimensional-manifold`, `quantum-space-harmonics`, `sentinel`, `teleportation-limitations`, `threnos-omega`, `umbral-moon`, `universe-overlap-and-folding`, `universes/deadwater`, `universes/si-gaoithe`, `universes/tir-tairngire`, `who-governs-a-universe`); objects with no setting (`counterpane-archecluster`, `fold-transit-catastrophic-failure`, `selvage-archecluster`, `wholecloth-formcluster`); and alien bodies and worlds in natural ground (`ilveth`, `ollune`, `planets/fliade`, the Prismere set `prismere-driftjellies`, `prismere-flowering-glasswood`, `prismere-glass-spires`, `prismere-glasswood-grove`, `prismere-luminous-towers`, `prismere-orbital-vista`, `prismere-root-mat-network`, `prismere-twilight-lattice`, `prismere-umbral-ray`, and `prismeri-first-wings`, `prismeri-full-wings`, `prismeri-lattice-gathering`).
+
+*Skipped as cards (49)*: characters `mira-of-brine`, `reeves`, `reeves-eden`, `sen-marginalia`, `sohrel`; and the 44 lore title, emblem and designed cards.
+
+#### Proposed batch order for fixing B and C
+
+Most visible first: the hero cast (`heroCharacterIds` in `lib/editions.js`, across the editions), then characters by the number of pages that link to them, then lore by the same count. Sets that share one fix travel together. Batches of eight; one round of two variations each, finished at strength 1, as the 10–11 October batches were.
+
+1. **Hero cast.** `dr-iona-vale`, `karla-wender`, `kai-larsen`, `wendell-albercombe`, `dorian-calloway`, `rasa-oyelaran`, `eden-warden`, `agent-barsik`.
+2. **Hero cast and most-linked characters.** `bubochka`, `bubochka-alert`, `sen`, `elvira`, `imogen-petrakis`, `marisol-achebe`, `knopka`, `xenon`.
+3. **Two sets.** Aethelrock's five, technology visible as its page says: `cormac-dubhghlas`, `fergus-aonghas`, `idris-bryneth`, `niamh-o-ceallaigh`, `rhiannon-ceridwen`; and the Five Islands Survey three, each in Survey kit within the isolate's room: `anne-de-courtney`, `emma-la-chapelle`, `ernesto-strozzi`.
+4. **Remaining characters.** `lumbarian`, `sorcha-shepherd`, `qiren-tal`, `odile-ferrant`, `galen-kane`, `bertram-ashcombe`, `sofia-santos`, `demelza-trevithick`.
+5. **Last characters, first lore.** `dagny-voss`, `isren-farrowkin`, `ingrid-halvorsen`, `anne-wender`, `alala`, `aldera/field-photo-02`, `ai-safety-kernel`, `the-scope-of-physical-law`.
+6. **Lore.** `cill-aoife-devotion`, `cross-biosphere-taxonomy`, `cerebraun`, `membrane-shadows`, `environmental-technology-design`, `made-minds-and-the-ai-safety-archetype`, `new-london-space-habitat`, `generalised-quantum-mechanics`.
+7. **Lore.** `seed-mind-lifecycle`, `saltmere-mooring-gantry-1`, `saltmere-mooring-gantry-2`, `planetary-liaisons-and-recruiters`, `the-institute`, `star-rangers-science-corps`, `monasteries-of-mars`, `kieme-visible-hand`.
+8. **Lore.** `habitat-threshold`, `embodied-cognition`, `communion-of-the-called`, `things-that-are-made`, `ascent-javelins`, `archecluster`, `ai-usage-credits`, `resurrection-and-the-life`.
+9. **Lore, the last three.** `knarrheim`, `halvern-combine`, `ask-and-it-will-be-reviewed`.
+
+The three concept images (`ai-usage-credits`, `seed-mind-lifecycle`, `environmental-technology-design`) and `ai-safety-kernel` go to cards under the existing convention that a concept is carded, not pictured. `knarrheim` and `monasteries-of-mars` are corrections to canon as much as to century: the first shows a planet for a habitat, the second a roofless ruin for a pressure-hermitage. Ships and stations in C (`ascent-javelins`, `habitat-threshold`, `new-london-space-habitat`) go through the `starship-design` loop.
+
+#### Needing a decision of Dermot's
+
+1. **The plain-by-canon places (D2, 13 images).** *What the Record Refuses* says a hermitage, a chapter house or Tír na nÓg's farmland look as they always did; the 7 October rule says an old-fashioned look carries a hint unless Historical, and only isolates were exempted (ruling 5). A) The hint reaches them: one quiet thing per frame, as `orla-shepherd`'s drone lights already show. B) They are exempt like isolates, the canon paragraph being the reason. C) Per page. **Recommended: A**, at the lowest priority, after batch 9, because Orla Shepherd shows it costs the place nothing.
+2. **Undercover Pets rooms** (`agent-barsik`, `bubochka`, `bubochka-alert`, `knopka`). The cute register is the animals', and these rooms are Eden's. A) The century rule reaches the rooms. B) The cute register exempts the whole frame. **Recommended: A**, and they are batched on that footing.
+3. **His own frames of built things** (`saltmere-mooring-gantry-1`, `-2`; also `the-oversight-council`, `threshold-station` and `cnoc-na-mbeach`, which pass). A photograph of today is of today. A) Keep them; the photo-first order outranks the hint, and the gantry pair needs only the RIB's bow cropped out. B) Replace them with generated frames. **Recommended: A**; batch 7 then shrinks to a crop.
+4. **Pages that never say where or when.** `asteria-the-sage` is on *a quiet planet*; `sorcha`'s settlements are unnamed; `ask-and-it-will-be-reviewed` and `made-minds-and-the-ai-safety-archetype` are metaphors whose rooms and doors have no in-world place. The first two are in D2 and wait on decision 1. For the two metaphors, a prompt can only date the furniture to the century if the picture is an in-world room: **recommended**, treat both as rooms somewhere in the record and give them the century.

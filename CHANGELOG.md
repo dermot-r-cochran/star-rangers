@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Century audit of the character and lore images** (`story-bible/images.md`, 2026-10-11, from Dermot's question whether the non-historical images look closer to the 21st century or the 29th). Every image was sorted by whether it reads as the record's century, and the 67 that read as ours or as a rendered set are put in nine batches for fixing, hero cast first.
+
 - **Every High Captain holds a command ship** (`src/lore/star-rangers-command-hierarchy.md`, `story-bible/starship-design.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's direction). An extension of the command hierarchy page: a High Captain's command ship is a headquarters that moves, since no message outruns a hull, and sessions of the Council of High Captains and the Triumvirate are hosted aboard one. A command ship is as a rule slower to arrive than a Line Captain's ship or a Star Captain's flagship.
 
 - **Two starship principles: crews sized by people-work, and the High Captain's command ship as a mobile headquarters** (`story-bible/starship-design.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's directions). A ship runs with a few and carries more only for what people must do, which the record's crews of three to sixty already show; a High Captain's command ship travels as the region's headquarters, since no message outruns a hull. Its class and size are left open.
