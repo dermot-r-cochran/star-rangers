@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Toval and Sylvie Harrow re-made** (`src/images/characters/toval.jpg`, `sylvie-harrow.jpg`, both pages' `image_alt`, `story-bible/images.md`, 2026-10-11, from Dermot's questions about human-looking characters who look odder than they should). Toval's prompt had invented a pale, hairless look the record never gives; he now passes as almost human, as the Krenyi page says, in the Survey Corps' olive field shell with a Cadet's single tab. Sylvie Harrow's office had acquired a filing cabinet the prompt never asked for; her room now takes its colour from lived-in things.
+
 - **The corps shell colours, adopted** (`src/lore/rank-insignia-and-uniform.md`, `story-bible/uniforms-and-insignia.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's approval). An extension of the rank page, which already said the garment's colour carries the corps: Survey deep olive, Safety dark ochre-brown, Science deep teal, Frontier dust brown, Engineering graphite with steel piping, dark and muted so any lighter track tab reads on any shell. Three shades changed from the September proposal so that no shell repeats a tab colour.
 
 - **The photographic finish keeps colour when it lifts the shadows** (`scripts/photo-finish.py`, 2026-10-11, from Dermot's question whether the uniforms and habitat interiors are too grey). The black-floor lift added the same light to every channel, which greyed mid-dark colour (Toval's portrait fell from saturation 0.19 to 0.12 on the lift alone); it now lifts luminance as a per-pixel gain, capped near black, so hue and saturation survive. Already-filed images are unchanged.
