@@ -4671,3 +4671,7 @@ The six heroes below had no prompt of record (cause 4). Each is written fresh fr
 
 **Filed 11 October 2026, later:** `sen` (variation 1 of round 4, the record cases replaced by a plain wall; Survey Corps shell per *"Sen is uniformed"*) and `hero/home-launch` (variation 1 of round 4, the javelin high in its climb with the cradle out of shot, cropped to 15:8; `DEFAULT_OG_IMAGE_ALT` rewritten). The Space Shuttle is gone from the share card.
 
+**Historical means pre-settlement, for the old-look exemption** (Dermot, 11 October 2026, choosing *"Only pre-settlement history"*). The exemption from the hint-of-the-century rule covers the truly old: Earth's past, Saint Aoife's 1216, the Kingdom of the Five Islands' own dress and rooms. A page in the Historical category set between the 23rd and the 28th centuries looks like its own century, a little behind 2826 and never like ours.
+
+**Added to the century batches the same day** (a sweep for the chapel-and-timber blind spot, after the Concord): `characters/ilsabet-corren` (an old library reading room for a civil Institute), `lore/narrative-works-and-their-adaptation` (an oak study), `lore/star-rangers-frontier-corps` (an Old West timber town, also a space-western risk), `characters/elvira` (her room is still a rubble-stone farm building; borderline, a working post), and by the ruling above `characters/petra-solano` (a stone hall with pews for the 2719 hearing, held on stations) and `lore/formation-of-star-rangers` (an early-20th-century factory hall for 2723).
+
