@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **What a noögenic universe inherits** (`src/glossary/noogenic-protouniverse.md`, `src/glossary/archecluster.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's *"Option A"*). A child universe raised by seeding inherits the vocabulary of its parent's law, not the sentences. Conseleme's conditions and the Formwright's formtype bind it. It belongs to its parent's archecluster by descent and inherits the archetypes, the Etheric rule-templates, the quantum kernel and harmonic admissibility. The particular physics of each zone settles afresh. The archecluster entry now names noögenic descendants as members.
+
 - **Celestials stand above the meta-dimensional classification** (`src/lore/meta-dimensional-beings.md`, `src/glossary/celestials.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's *"Option A"*). Celestials are higher-dimensional but are not meta-dimensional beings in the record's sense. They command Levrils. They limit monsters and incursives only where these are part of an unlawful operation at the enforcement threshold, acting on the operation and never on the being. Below that threshold nothing above the Levrils is involved. This is a clarification.
 
 - **Fable's image-prompt work is this repository's only** (`CLAUDE.md`, 2026-10-11, Dermot: *"Image prompts in other repos probably do not need Fable"*). Image prompts in his other repositories are written by Opus.
