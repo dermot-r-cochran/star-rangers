@@ -3423,6 +3423,15 @@ station's shape, and the picture withholds it too. Registered in
   - **No tower.** The Sceir Light is a different page and its tower faces landward; the station has no tower on record.
   - **Delivered 9 October 2026**, variation 1 of 2 (`gemini-3.1-flash-image`, 2K, the plate sent as the one reference), through `import-image.ps1` at finish strength 1: the plate is untouched and the far end is one low dark line with three working lights, which is all the record allows. Dermot: *"That composite looks great."* Variation 2 ran a whole shoreline of sheds out of the right of the frame; his reading, *"it extends out of the frame implying a much larger structure"*, and the record gives no such structure.
 
+### 5e. Outstanding lore illustrations — 11 October 2026 (Cnoc na mBeach, from Dermot's own frame)
+
+The card was put beside three of his frames on 10 October; his *"Yes please"* to the recommendation chose *Martello Through St Begnet's* (`martello-through-st-begnets` on dermotcochran.com, Dalkey Island): a rough granite window in a roofless church wall, looking out to green ground. The page is a present-day place, so by the 7 October rule an old-fashioned look carries a hint of the century; the Threshold Station precedent applies, the plate kept and one region edited. What changes is the view through the window only: the Martello tower gives way to the page's own hive-yard, and the hint is the hives' make.
+
+- **`cnoc-na-mbeach.jpg`** — *a hive-yard and a handful of stone cells on land no diocese claims.*
+  References: `../dermot-cochran-photography/src/images/photos/martello-through-st-begnets.jpg`
+  > Edit the reference photograph and keep it exactly as it is in every respect except the view through the window opening. Keep the rough granite wall, the lintel, the sill, the lichen, the stone texture, the framing, the light, the colour and the grain of the photograph, all untouched. Through the window, in place of the stone tower, the green ground continues up a gentle slope to a row of four or five low beehives standing in the grass, plain and squared, their bodies a smooth pale matte composite with no seams, labels or markings, quietly too well made for an old place, and one low drystone wall beyond them; soft overcast sky above. The hives are small and slightly out of focus, as the tower was. No people, no bees visible, no towers, no buildings, no screens, no lights, no lettering of any kind. It must still look like the same untouched photograph. 16:9 landscape.
+  - **The plate is the picture.** One edit, through the window; anything added elsewhere is wrong.
+
 Open work 1 and 5 are the images that are **missing**. This is the other half:
 images that **exist and shouldn't**. Prompted by Dermot noticing that Saint
 Aoife "looks a bit too much like a dark shadow", which turned out to be the
