@@ -105,9 +105,13 @@ blueprint figure not cited is a derivation from real physics and is marked
     the ship is sized by its headquarters work under principle 11, staff,
     records, liaison and the business of the region, not by flying it; it
     reads as a working headquarters that moves, closer to a station than a
-    cruiser, unarmed like every Ranger hull. No such ship is yet named on a
-    page; class, size and whether every High Captain has one are his (open
-    items).
+    cruiser, unarmed like every Ranger hull. Every High Captain has one, and
+    sessions of the Council of High Captains and the Triumvirate are hosted
+    aboard one (Dermot, same day, verbatim: *"Every High Captain needs a command
+    ship especially for hosting a High Triumvirate or High Council session."*;
+    read as the record's Triumvirate and Council of High Captains, since *High
+    Council* is the Imperium's chamber). Now on the command hierarchy page.
+    Class and size are his (open items).
 
 ---
 
@@ -219,6 +223,6 @@ figures follow from the principles and real physics and are his to change.
 - The Tally's weight at the Mooring (A).
 - The Threshold-class shape (E).
 - Whether any ship in the record has windows at all beyond ports.
-- The High Captain's command ship (principle 12): its class name, its size, whether every High Captain has one, and whether it gets a sheet (F) before any page or picture needs it.
+- The High Captain's command ship (principle 12): its class name, its size, how a session is hosted (whose ship, by rotation or by the Triumvirate's), and whether it gets a sheet (F) before any page or picture needs it.
 - Whether these sheets become a lore page (*Hulls of the Record*, Technology)
   once he has ruled on the open items; until then they are planning.
