@@ -10,7 +10,7 @@ aliases:
 tags: [boundary, unclassified, causeway, etheric, season-1]
 description: "A boundary practitioner working alone at the Marsh Causeway outpost. Her classification is contested; she is not magical."
 image: "elvira.jpg"
-image_alt: "Elvira, a woman in her forties in a grey-green work coat, crouched on a chalk floor in a stone room, pinching a thread of a square survey grid at its crossing. Glass jars and earthenware pots of water stand at intervals across the floor; a straightedge leans against a table with shut record books, a plumb bob hangs beside it, and an open door shows flat reed marsh under a pale sky."
+image_alt: "Elvira, a woman in her forties in a grey-green work coat, crouched on a chalk floor in a stone room, setting a small weight on a thread of a square survey grid at its crossing. Glass jars and earthenware pots of water stand at intervals across the floor; on a grey composite table a straightedge, a coiled plumb line and shut record books; a small rounded housing with one green indicator sits flush in the stone beside an open composite door onto flat reed marsh under a pale sky."
 ---
 
 The thread goes down into the chalk, and the chalk goes down into the ground, and the ground is not what it looks like at the surface. Elvira works with materials that respond to Etheric gradients: chalk, thread, water held in specific vessels, and written records that go back further than her time at the outpost.
