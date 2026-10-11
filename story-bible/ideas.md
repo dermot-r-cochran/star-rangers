@@ -40,8 +40,7 @@ the entry should link it rather than repeat it.
 
 **Register and model, when it is drafted.** Contemplative register, 800 to
 1,200 words, written for critics, peer authors and students of the writing.
-Under the 11 October model rules a Journal essay falls to Opus unless Dermot
-names Fable for it.
+Fable drafts it: Journal entries are Fable's work (Dermot, 11 October 2026).
 
 ## Three Routes to One Stillness — the Krenyi beside the INFJ-A, 9 October 2026, agreed
 
