@@ -194,3 +194,6 @@ Dermot accepted all five recommendations below as put (*"Accept all five"*), so 
    History, because a century it never had would be false to it; any hint comes
    in with the delegation's kit. B) The hint applies as in any present-day
    frame. C) Decide per page. **Recommended: A.**
+
+**Two further rulings, 11 October 2026.** The clan setts of Aethelrock are now a lore page (`src/lore/the-setts-of-aethelrock.md`, at his *"Add a lore page for the clan colours and tartans, if still in use"*), with the five colourings first chosen for the batch-3 portraits made canon; Clan Avalon has no sett on record. And at the Kingdom of the Five Islands' court the Survey writes by hand (his *"Keep, as a courtesy"*, on Emma la Chapelle's notebook and pencil): the delegation brings nothing into the Kingdom's rooms that the court would read as a machine.
+
