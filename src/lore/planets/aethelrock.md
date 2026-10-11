@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Bruane System"
 locationType: "Planet"
 image: "aethelrock.jpg"
-image_alt: "An illustrated background of space and a planet"
+image_alt: "Jagged black rock spires and curved, blade-like ridges in silhouette around a bright white light low between them, under a star field with the band of the galaxy behind"
 ---
 
 Ask a Union diplomat which charter world is hardest to get a straight answer from, and the answer is not Ynys Wydrin, where the trouble is the air. It is Aethelrock, where the trouble is agreeing on who gets to speak.
