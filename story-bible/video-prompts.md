@@ -163,6 +163,17 @@ can film comes from Dermot's own footage or does not go in. Every clip the
 pipeline touches has its prompt kept in this file and stays in this
 repository. The site's modesty bar and the tone rule apply to every frame.
 
+**A generated clip is footage recorded inside the world** (Dermot, 11 October
+2026, verbatim: *"a generated image or video should look like it was taken from
+a contemporary video graphic or photographic device, for example 29th
+century"*). It is what a 29th-century recording device, held or mounted by
+someone in the record, would have captured — the motion counterpart of the 29
+September rule for stills in `images.md`. It reads as real footage in every
+physical respect, with no overlays, readouts or date stamps. A scene set before
+cameras existed (a Currach-era ark, a 1216 AD event) is still shot as if by a
+29th-century device, as a reconstruction or archive record made at the story's
+present (his choice the same day), never in a period film look.
+
 ### The camera is a witness
 
 The strongest rule here, and it comes straight out of how the prose works:

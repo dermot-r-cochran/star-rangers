@@ -178,6 +178,12 @@ from that rule, and the exemption has a shape:
   they were taken from a 29th century photographic device unless intended to be
   codex art"*): a generated image is a **photograph taken inside the world**, by
   a 29th-century camera that someone in the record was holding or had mounted.
+  *Restated 11 October 2026 for stills and video alike* (verbatim: *"a
+  generated image or video should look like it was taken from a contemporary
+  video graphic or photographic device, for example 29th century"*), and a
+  scene from before cameras existed is still taken as if by a 29th-century
+  device, a reconstruction made at the story's present (`video-prompts.md`,
+  *What a generator may make*).
   The video runbook's *The camera is a witness* applies to stills: no angle no
   person or instrument could have taken, and the frame knows less than the
   scene. Hard SF keeps the device honest: optics are optics, so it is a
