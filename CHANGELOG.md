@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Haiku and the Chrome extension** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Haiku makes no edits in this repository and may only search and summarise; the Chrome extension runs on Opus for anything that signs in, submits or posts, on Sonnet for read-only browsing, and never on Haiku.
+
 - **Who approves whom** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Opus may approve a Sonnet subagent's work, and Fable may approve Opus's work and decide which open decisions are put to Dermot. A decision Fable settles is named in the PR body so it can be overruled later. The never-without-instruction list stays his alone.
 
 - **Which model does which work** (`CLAUDE.md`, `.claude/agents/mechanical.md`, 2026-10-11, Dermot's direction). A new subsection under *Authority and review boundary* assigns narrative prose and image prompts to Fable, judgement and planning to Opus, and gate-checked mechanical work to Sonnet subagents, and notes that a subagent inherits its parent session's model unless one is named. The new `mechanical` subagent definition is pinned to Sonnet and limited to work a checker can prove.
