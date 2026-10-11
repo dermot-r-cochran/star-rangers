@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Sol System"
 locationType: "City"
 image: "coastal-sunset.jpg"
-image_alt: "Sunset over open water beyond Venice's platform breakwaters, 2826 UCSD"
+image_alt: "The sun low and bright over open sea, a line of breaking waves near the horizon and its light lying gold across the water"
 ---
 
 For most of its history, Venice measured its relationship with the sea in centimetres of *acqua alta* and the age of whichever barrier scheme was supposed to hold the next tide out. By 2826 UCSD, the city has stopped measuring that fight entirely, because it no longer needs to win it one flood at a time. It floats.
