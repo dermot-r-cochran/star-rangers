@@ -1125,6 +1125,16 @@ flags the issue set out, no underlay, default motif:
 They match the codex's plain cards rather than the Ballad cover; the alts
 say so. Remaking them in the Ballad look is open until the underlay exists.
 
+## 2026-10-11 — Cnoc na mBeach, a composite on Dermot's own plate
+
+### cnoc-na-mbeach.jpg — filed from run 1 variation 1
+- **Type:** composite: Dermot's own photograph as the plate, one region re-rendered
+- **Plate:** *Martello Through St Begnet's* (`martello-through-st-begnets.jpg` on dermotcochran.com, Dalkey Island), chosen by him from three frames shown beside the emblem card (*"Yes please"* to the recommendation, 11 October 2026)
+- **Tool:** Gemini, `gemini-3.1-flash-image`, via `scripts/image-prompts.js --generate --only cnoc-na-mbeach`, the plate sent as the one reference; finished by `photo-finish.py` at strength 1, 1600 px
+- **Date:** 11 October 2026
+- **Prompt / recipe:** the blockquote in `images.md` § 5e: keep the photograph in every respect except the view through the window, where the Martello tower becomes a row of plain seamless hives on the green, the hint of the century the 7 October rule asks for
+- **Notes:** variation 1 keeps the wall untouched with the hives small and soft as the tower was; variation 2 sharper and larger. Replaces the emblem card, which stays in git history.
+
 ## 2026-10-09 — Threshold Station, a composite on Dermot's own plate
 
 ### threshold-station.jpg — filed from run 1 variation 1
