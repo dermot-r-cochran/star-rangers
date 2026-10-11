@@ -45,6 +45,16 @@ Two things that make the line land where it does:
 
 And in every tier: **say what you did.** A session that drafts narrative, changes canon, or touches a live domain's configuration reports it plainly, so nothing lands by default because nobody noticed it.
 
+### Which model does which work
+
+Dermot's direction, 2026-10-11: the delegation line above is also the model line. Fable's quota is the one he runs out of; Opus's he does not.
+
+- **Fable: narrative prose and image prompts.** Drafting scenes and chapters, and writing or revising prompts in `story-bible/image-prompts.md`, `images.md` and `prompt-sheet.md`. Keep Fable for these and spend it on nothing else.
+- **Opus: judgement and planning.** Everything in the second tier other than prose: lore, glossary, codex and timeline entries, `canon_facts`, a new entry's Union Irish line, the direction check, putting choices to Dermot, and reviewing a PR for a decision that is still open. Opus is also the default for a session and for review of anything a subagent did.
+- **Sonnet: work a gate checks.** Delegate it to a subagent with a clear brief, then review the diff before merging. This covers the first tier's mechanical work: running `npm ci` and `npm test` and fixing what the checkers flag (links and fragments, stale `related:` titles, schema and image bookkeeping), terminology sweeps from a row already in the migration map, changelog entries for work already done, engine, script and CI changes with their unit tests, regenerating the derived artefacts, and read-only searches across the corpus. `.claude/agents/mechanical.md` is the subagent definition pinned to Sonnet.
+
+A subagent runs on its parent session's model unless its definition or the call names another. So a session started on Fable passes Fable to every subagent it spawns. Name the model on every delegation, and don't start a session on Fable unless the work is prose or prompts.
+
 ## Commands
 
 ```bash
