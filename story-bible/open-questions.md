@@ -2973,3 +2973,8 @@ above the Celestials, which resolves the conflict with the immanence
 section. That is reading 4: (A) a Celestial may be the being met, which is
 recommended and drafted; or (B) only its enforcement action is witnessed,
 and the line stays above the Levrils.
+Then: *lower strata may be considered as messengers or ordinary angels in
+the broader more general sense*. This is drafted as an extension of the
+*Angel* register rule, with Levrils or, rarely, Celestials. That is reading
+5: (A) the word stays in the Codex and overlay, recommended and drafted; or
+(B) the Archive may use it too.
