@@ -1222,3 +1222,41 @@ archecluster *looks like nothing at all* from inside.
 Device **rings**, concentric, for nested structure. Title and category
 are the page's own (*Inside an Archecluster*, *Cosmology*); no epithet or
 qualifier, since none is authored.
+
+## 2026-10-11 — The five July codex cards, redrawn in the new template
+
+No generator prompts: deterministic cards from `make-codex-cover.ps1`, at
+Dermot's *"Yes please"* of 11 October 2026. These five predate the script
+(the section above left them out as *drawn before the script existed*),
+but they were already in its layout and palette, ruled lines and an
+OFFICIAL stamp, so the script reproduces them with the motif they carry,
+**rules**, and only the type changes. The text was read back from each card
+at full size before redrawing, and a sample (*Redline Protocol*) was checked
+at 300 px first.
+
+```powershell
+.\scripts\make-codex-cover.ps1 -TitleLines "EXPLORATION","BUDGET DOCTRINE" -Category "INSTITUTIONAL DOCTRINE" -Subtitle "Entropy, Variability, Risk" -Institution "Dr. Senna Okoye" -Author "AI GOVERNANCE COMMISSION · DOCTRINE OFFICE" -Stamp "OFFICIAL" -Motif rules -Out src\images\codex\exploration-budget-doctrine.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "INCIDENT REPORT","001" -Category "SURVEY RECORDS" -Subtitle "Dock Seven Chronometer Discrepancy" -Institution "Sub-officer Pren Halvard" -Author "SURVEY CORPS · THRESHOLD STATION" -Stamp "OFFICIAL" -Motif rules -Out src\images\codex\incident-report-001.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "REDLINE PROTOCOL" -Category "OFFICIAL DOCUMENTS" -Subtitle "Variability Governance" -Institution "AI Governance Commission - Doctrine Office" -Author "DR. KWAME REYES-OSEI" -Stamp "OFFICIAL" -Motif rules -Out src\images\codex\redline-protocol.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "BOUNDARY","MONITORING","PROTOCOL" -Category "OFFICIAL DOCUMENTS" -Subtitle "Threshold-Class Stations" -Institution "Chief Surveyor Wren Ansell" -Author "SURVEY CORPS · STAR RANGERS" -Stamp "OFFICIAL" -Motif rules -Out src\images\codex\survey-corps-protocol.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "SURVEY NOTE:","TÍR NA NÓG" -Category "SURVEY RECORDS" -Subtitle "On the Origins of Compatibility" -Institution "Field Xenobiologist R. Kestrel-Aonghas" -Author "SURVEY CORPS XENOBIOLOGY OFFICE" -Stamp "OFFICIAL" -Motif rules -Out src\images\codex\tir-na-nog-compatibility-survey-note.jpg
+```
+
+The script's two lower lines are a serif line (`-Institution`) and a
+tracked-capitals line (`-Author`). Four of the five July cards put the
+author's name in the serif line and the institution in capitals below it,
+the reverse of *Redline Protocol*; each card keeps its own order, so the
+flags carry the name or the institution as that card set it. Run from
+PowerShell 5.1, the `·`, `Í` and `Ó` are safest passed as `[char]0x00B7`,
+`[char]0x00CD` and `[char]0x00D3`, since a BOM-less script file is read as
+ANSI. Text is unchanged on all five, and the alt text (ruled lines, an
+OFFICIAL stamp, dark navy) still describes them, so no alt changed.
+
+**`scripts/make-cards.js` now follows the redesign.** The Node port draws
+the new layout: the same sizes, colours, tracking, shrink-to-fit floors,
+stamp placement and measured lower block. It names Georgia and Bahnschrift
+SemiBold first and falls back to DejaVu Serif or Liberation Serif and
+DejaVu Sans Condensed or Liberation Sans Narrow where they are missing, and
+it estimates widths rather than measuring them, so a line can shrink a step
+differently from the `.ps1`. A card that must match exactly still comes
+from the `.ps1`. Its layout is pinned by `test/make-cards.test.js`.
