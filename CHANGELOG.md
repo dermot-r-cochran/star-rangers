@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Video follows the camera rule, and Grok Imagine is reached through Chrome** (`CLAUDE.md`, `story-bible/video-prompts.md`, `story-bible/images.md`, 2026-10-11, Dermot's direction). A generated clip may show only what no camera can film, as with stills, with its prompt kept in `video-prompts.md`. Grok Imagine is driven through the Claude in Chrome extension, which makes video generation a desktop step run on Opus. A generated still or clip looks as if taken by a 29th-century device inside the world, including for scenes set before cameras existed.
+
 - **Haiku and the Chrome extension** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Haiku makes no edits in this repository and may only search and summarise; the Chrome extension runs on Opus for anything that signs in, submits or posts, on Sonnet for read-only browsing, and never on Haiku.
 
 - **Who approves whom** (`CLAUDE.md`, 2026-10-11, Dermot's direction). Opus may approve a Sonnet subagent's work, and Fable may approve Opus's work and decide which open decisions are put to Dermot. A decision Fable settles is named in the PR body so it can be overruled later. The never-without-instruction list stays his alone.
