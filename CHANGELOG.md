@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Saltmere's settlers stated as human** (`src/lore/planets/saltmere.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot's choice when asked whether Saltmere is a human colony or a different people). A clarification: one sentence says the colony is human and grew up out of contact, as the Five Islands did, which the lost manifest and the first-contact record already implied.
+
 - **Cnoc na mBeach pictured from Dermot's own frame** (`src/images/lore/cnoc-na-mbeach.jpg`, `src/lore/cnoc-na-mbeach.md`, `story-bible/images.md`, `story-bible/image-prompts.md`, 2026-10-11, his choice among three frames set beside the card). His photograph through a window of St Begnet's on Dalkey Island is the plate; only the view through the window changed, the tower giving way to the page's hive-yard, so the place carries a hint of its century. The emblem card is retired.
 
 - **The Founder** (`src/lore/who-governs-a-universe.md`, `src/glossary/universal-authority.md`, `src/glossary/worldwright.md`, `story-bible/intake-2026-10-11.md`, 2026-10-11, Dermot: *"A founder is not strictly a member of the eternal Cascade nor is an external worldwright"*, then *"Option A"*). A noögenic universe's founder is not a Cascade tier, because nothing above defined it, and it is not the person whose mind it came from. Nor is it an external Worldwright. It is the source of its universe's law, not its author, and it presides over the administration of that law without revising it. A Worldwright may author several universes, as the Worldwright entry now states outright, while a founder has exactly one.
