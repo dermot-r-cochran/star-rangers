@@ -63,6 +63,11 @@ A subagent runs on its parent session's model unless its definition or the call 
 
 Asking Fable for an approval spends Fable quota, so batch the decisions in one PR into one request.
 
+**Haiku and the Chrome extension** (Dermot, 2026-10-11):
+
+- **Haiku makes no edits in this repository.** The rules here are too long and too fine for it, a terminology sweep or a changelog entry included. It may run read-only searches and summarise a CI log. In the smaller engineering repositories it may also make trivial fixes their gates catch; each one's own `CLAUDE.md` says where.
+- **The Chrome extension: Opus** for anything that signs in, submits or posts; Sonnet for read-only browsing, such as checking a live page or `/version.txt`; never Haiku. The extension acts in Dermot's own Chrome with his sign-ins, and a web page can carry text written to steer the model.
+
 ## Commands
 
 ```bash
