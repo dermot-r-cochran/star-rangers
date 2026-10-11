@@ -3827,7 +3827,9 @@ is within the darkroom test; nothing else touched.
   real place.
 - `noogenic-seeding-system.jpg` — the JWST Carina "cosmic cliffs" (NASA/ESA/CSA,
   public domain) with a small composited circuit motif. A nebula is not of a
-  century; kept as tier 4, alt accurate.
+  century; kept as tier 4, alt accurate. *(11 October 2026, Dermot's choice: credited on the About
+  page's "How this site is illustrated", NASA, ESA, CSA and STScI; lore keeps
+  its in-world voice.)*
 - `the-fusion-ceiling.jpg` — generated; two workers, faces small and turned,
   no lettering. Kept.
 - `the-imperium.jpg` — real skyscraper, already the recorded precedent for

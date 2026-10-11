@@ -21,8 +21,6 @@ Saltmere's original colony manifest has never been recovered, and the founding g
 
 The mooring towers are not decoration and not optional infrastructure in the way a bridge or a seawall might be elsewhere. They are the habitat, in the same sense [Kernowek Reach's](/star-rangers/lore/planets/kernowek-reach/) processor stations are the habitat: running continuously, monitored constantly, and the entire difference between a city segment staying where its residents left it that morning and a city segment two kilometres off station by evening.
 
-![The same mooring gantry from a second angle, the paired tower's cabled truss framing visible against the open water](/star-rangers/images/lore/saltmere-mooring-gantry-2.jpg)
-
 ## Platform Hulls and the Drift Cycle
 
 A platform hull is not a ship, though it is built and inspected like one. Each hull carries a city segment — housing, a market concourse, a water-reclamation plant, whatever a given segment specializes in — and stays coupled to one or more mooring towers by cable rather than by any fixed foundation, because Saltmere has no seabed shallow enough anywhere to found one on. The coupling is deliberately not rigid: a hull rides the swell and drifts on its tether through a full **drift cycle** measured in days rather than hours, re-centering against the tower's own tension rather than fighting the ocean outright.

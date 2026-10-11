@@ -69,7 +69,10 @@ eleventyComputed:
   recorded with what made it. Where a picture and an entry disagree, the entry is right. The
   author's photography has a home of its own at
   <a href="https://dermotcochran.com/">dermotcochran.com</a>, and nothing made for this site
-  goes there.
+  goes there. One picture is neither: the nebula behind the
+  <a href="/star-rangers/lore/noogenic-seeding-system/">Noögenic Seeding System</a> entry is the
+  James Webb Space Telescope's image of the "Cosmic Cliffs" in the Carina Nebula, credit NASA,
+  ESA, CSA and STScI, with a small motif added.
 </p>
 
 <h2 id="the-engineering-behind-the-record">The engineering behind the record</h2>
