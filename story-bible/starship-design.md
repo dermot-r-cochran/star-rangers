@@ -111,7 +111,12 @@ blueprint figure not cited is a derivation from real physics and is marked
     ship especially for hosting a High Triumvirate or High Council session."*;
     read as the record's Triumvirate and Council of High Captains, since *High
     Council* is the Imperium's chamber). Now on the command hierarchy page.
-    Class and size are his (open items).
+    It is usually slower to arrive than a Line Captain's ship or a Star
+    Captain's flagship (Dermot, same day, verbatim: *"Command Ships are often
+    slower to arrive than a Line Ship or Star Captain's Flagship"*), which
+    also puts a Star Captain's flagship in the record. Class, size and the
+    reason for the slower arrival beyond what a headquarters hull is built for
+    are his (open items).
 
 ---
 
