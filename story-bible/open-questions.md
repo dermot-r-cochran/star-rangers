@@ -2956,3 +2956,25 @@ taken the same evening.
   boundary desk training Toval by Season 5, with nothing between. Her page
   already says *the record does not say when she took the desk*; on Sen's
   doctrine the gap stays marked, and no bridge is drafted.
+
+## The strata above the Celestials are not characters — `intake-2026-10-11.md` — RULED same day (*Scope A, Prophet A*; *3A 4A 5A*), nothing open
+
+Drafted as *Through, Not As* in `src/lore/cosmic-cascade.md`. Three readings
+are open, each with a recommendation: (1) the scope is everything above the
+Celestials, which is the avatar line, with the temporal registers unchanged;
+(2) a prophet is filed like a Champion, forth-telling and receiving no
+message; (3) the Kieme-perspective narration exception in
+`story-bible-summary.md` is kept and read as *impartial*, not all-knowing.
+Reading 3 has not been applied yet. A *Prophet* glossary entry waits on
+reading 2.
+Later the same day: *Theophanies are usually either Levrils or more rarely
+Celestials.* This is drafted as the no-theophany line moving up to stand
+above the Celestials, which resolves the conflict with the immanence
+section. That is reading 4: (A) a Celestial may be the being met, which is
+recommended and drafted; or (B) only its enforcement action is witnessed,
+and the line stays above the Levrils.
+Then: *lower strata may be considered as messengers or ordinary angels in
+the broader more general sense*. This is drafted as an extension of the
+*Angel* register rule, with Levrils or, rarely, Celestials. That is reading
+5: (A) the word stays in the Codex and overlay, recommended and drafted; or
+(B) the Archive may use it too.
