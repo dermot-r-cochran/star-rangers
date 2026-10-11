@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The old-look exemption covers pre-settlement history only** (`story-bible/images.md`, 2026-10-11, Dermot's choice). Historical pages of the 23rd to 28th centuries look like their own centuries; six images join the century batches, among them the 2719 hearing and the 2723 founding, and three civil rooms that read as chapels or old libraries.
+
 - **Image fix list, third pass: fourteen generic or stale alts rewritten to describe their images** (2026-10-11). The Codex, Lore, Timeline and Threads heroes; the S01E00, S01E03 (and `/start/`), Season 3, S03E01 and S05E02 heroes; Knarrheim and Aethelrock; the Asteria the Sage and Odonata codex cards, whose alts now quote the words on the card; and the Five Islands palm avenue, whose second appearance on the page now carries the same alt as the first. No image changed.
 
 - **Image fix list, second pass: four alt texts and one card spelling** (`src/characters/sohrel.md`, `src/images/characters/sohrel.jpg`, `src/characters/sen.md`, `src/lore/venice.md`, `src/lore/planets/tir-na-nog.md`, `src/lore/celtic-union-of-planets.md`, 2026-10-11). Sohrel's card read *Nine centers*; the line is redrawn in the same face as *Nine centres*, and the alt now gives the card's words (eight limbs and the central brain are the nine centres, as `cerebraun.md` has it). The Marginalia card's alt gives its visible titles. `coastal-sunset.jpg` carried two alts, one naming breakwaters that are not in frame; both pages now share one accurate alt. The leopard on the Celtic Union page takes the same alt as its Terran-wildlife page.
