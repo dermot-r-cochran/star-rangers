@@ -13,7 +13,7 @@ locationType: "Planet"
 
 Every survey of Saltmere opens with the same instrument check, because the first reading always looks like sensor failure: zero percent landmass, at any resolution, on any pass. It isn't an error. There is no land on Saltmere. There never was.
 
-**Saltmere** is the second planet of the **Annwyn System**, and — outside a scatter of submerged seamounts too deep to break the surface at any tide — a single unbroken global ocean from pole to pole. Whoever settled it did not have the option of building on ground, because Saltmere never offered any. They built on the water instead, and four centuries later are still doing it.
+**Saltmere** is the second planet of the **Annwyn System**, and — outside a scatter of submerged seamounts too deep to break the surface at any tide — a single unbroken global ocean from pole to pole. Whoever settled it did not have the option of building on ground, because Saltmere never offered any. They built on the water instead, and four centuries later are still doing it. They were human: a colony cut off from the rest of the record for long enough that its own account of its founding was lost, one of the human worlds that grew up out of contact, as the [Kingdom of the Five Islands](/star-rangers/lore/planets/kingdom-of-the-five-islands/) did.
 
 ## A World With Nowhere to Stand
 
