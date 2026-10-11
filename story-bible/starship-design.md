@@ -227,10 +227,18 @@ which showed a Space Shuttle; the 10 October rule names ascent by javelin
   air intakes along the underside for the air-breathing climb, the rocket
   nozzles at the tail. **One body, no stack**: no external tank, no strap-on
   boosters, no orbiter riding on anything; the cradle is a ground rail frame
-  that stays behind. Length (derived) **40 to 60 m** for a passenger javelin.
+  that stays behind. Length (derived, awaiting him) **40 to 60 m** for a
+  passenger javelin.
+- **Crew and layout** (Dermot, 11 October 2026, verbatim: *"Ascent Javelin
+  would have a pilot, co-pilot and passengers although highly automated"*):
+  a **flight deck forward** for a pilot and a co-pilot, and a **passenger
+  cabin** behind it. Flight is highly automated: the crew certify, monitor
+  and take over when they must; they do not hand-fly the ascent. This
+  replaces the first draft's guess of no cockpit.
 - **Surface** (principle 5): dull, unmarked, a plain pale thermal skin with
-  the honest seams of its panels, no painted name, no glazed cockpit (the
-  crew fly it on instruments), at most a few small passenger ports.
+  the honest seams of its panels, no painted name. The flight deck shows as a
+  short row of narrow ports at the nose, never a glazed bubble canopy; no
+  window band along the cabin, at most a few small passenger ports.
 - **What is lit** (real physics): during the boost, the exhaust plume and the
   cloud it raises, which is the one bright thing a launch has; nothing on
   the hull is lit.
