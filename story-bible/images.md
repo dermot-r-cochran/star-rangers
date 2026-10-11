@@ -4504,3 +4504,89 @@ The three concept images (`ai-usage-credits`, `seed-mind-lifecycle`, `environmen
 2. **Undercover Pets rooms** (`agent-barsik`, `bubochka`, `bubochka-alert`, `knopka`). The cute register is the animals', and these rooms are Eden's. A) The century rule reaches the rooms. B) The cute register exempts the whole frame. **Recommended: A**, and they are batched on that footing.
 3. **His own frames of built things** (`saltmere-mooring-gantry-1`, `-2`; also `the-oversight-council`, `threshold-station` and `cnoc-na-mbeach`, which pass). A photograph of today is of today. A) Keep them; the photo-first order outranks the hint, and the gantry pair needs only the RIB's bow cropped out. B) Replace them with generated frames. **Recommended: A**; batch 7 then shrinks to a crop.
 4. **Pages that never say where or when.** `asteria-the-sage` is on *a quiet planet*; `sorcha`'s settlements are unnamed; `ask-and-it-will-be-reviewed` and `made-minds-and-the-ai-safety-archetype` are metaphors whose rooms and doors have no in-world place. The first two are in D2 and wait on decision 1. For the two metaphors, a prompt can only date the furniture to the century if the picture is an in-world room: **recommended**, treat both as rooms somewhere in the record and give them the century.
+
+### Photorealism audit of lore and hero images, 11 October 2026
+
+Dermot, 11 October 2026, verbatim: *"Also check for images such as Prismeri that are not photorealistic enough"*, under his standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*. The character portraits were triaged on 10 October (the intake above); this pass covers `src/images/lore/` with `planets/` and `universes/`, and `src/images/hero/`. It is the 10 October question asked of the rest: not the century, which the century audit above judged, but whether a frame reads as a photograph. Nothing was generated, changed or re-prompted.
+
+**Method.** Labelled contact sheets of all 215 files, four across at 400 px a frame, judged by eye, with 60% centre crops at 800 px for the 36 borderline frames. Each file was matched to the page that carries it, and that page's category and description read, so a cosmology or universe page was judged as a subject no camera can reach. Skipped: the 45 designed cards (emblem, title and placeholder cards, `hero/characters-concourse.jpg` among them) and the 18 files the record names as Dermot's own frames or composites on his plates (`hero/characters-hyrax`, `cloud-sea`, `drowned-forest`, `grassland-storm-tree`, `island-watchtower`, `trigrian`, `trigrian-triple-sunset`, `archipelago-palm-avenue`, `highland-rock-spires`, `highland-summit-snowfields`, `boirinn-uplands-waterfall`, `moorhen-wetland`, `highland-sentinel-lizard`, `cnoc-na-mbeach`, `threshold-station`, `the-oversight-council`, `saltmere-mooring-gantry-1` and `-2`); his frames are photographs by definition. The other landscapes, macros and wildlife read as his and are counted (P) either way. No Codex art falls in scope: the section 7 pool lives under `src/images/codex/` as inline body images, so the convention exempting it is untouched here. The three classes, as the 10 October triage drew the line (a CGI or 3D-render look, plush, clay or plastic surfaces, glossy concept art, over-smooth airbrushed surfaces, game-render sets, painterly):
+
+- **(P)** reads as a photograph;
+- **(R)** not photorealistic enough;
+- **(I)** an immaterial or abstract subject, where non-photographic art is right.
+
+**Counts.** 152 judged: P 94 (hero 11, lore 83), R 39 (hero 7, lore 32), I 19 (hero 1, lore 18). Skipped: 45 cards, 18 of his own frames.
+
+**What the prompts did.** Three causes, and one absence:
+
+1. *Painterly science-fiction concept art*, asked for by name: the twelve Prismere and Prismeri prompts in section 5a, every one.
+2. *A genre label in place of a register*: the short 5a and 5b prompts open on the subject and describe it as *far-future science-fiction interior*, *science-fiction spaceport infrastructure* or *rendered as banks of quiet data surfaces*, and name no camera, lens or grain and carry no render negatives. The generator reads the genre label as its stock render.
+3. *A photograph asked for, the render left open*: five newer prompts already open *Documentary photograph taken inside the world by a 29th-century camera*, and still came back rendered, because none describes real materials (fur, hide, weathered stone, worn fabric), names a lens and grain, or carries the render negatives the 10 October revisions added (CGI, 3D render, clay, plastic sheen, over-smooth surfaces, glossy concept art). It is the lesson of the portraits again: the opener alone does not hold.
+4. *No prompt of record*: ten R files, most of them hero banners filed before prompts lived here, and four lore files. Each needs a prompt written fresh from its page and alt.
+
+#### (R) Not photorealistic enough: 39
+
+*Hero (7)*
+
+- `hero/home-launch.jpg` — `.eleventy.js` `DEFAULT_OG_IMAGE`, so the share card of every page without its own image. A stock CGI composite, shuttle over a painted Earth. No prompt of record; also a Space Shuttle, which the 10 October ascent-javelin rule retires.
+- `hero/seasons-orbit.jpg` — Seasons index. A glossy CGI capsule over a stock Earth. No prompt of record.
+- `hero/season-01.jpg` — Season 1 and the Tissadelle Arc thread. A CGI stock station, lit flank. No prompt of record.
+- `hero/season-00-foundation.jpg` — Season 0, its three episodes and the Founding Era thread. A 3D-render set: neon rings, an empty plinth. No prompt of record.
+- `hero/season-05-explorers.jpg` — Season 5. A CGI helmet, glossy visor, render lighting. No prompt of record.
+- `hero/atlas-chart.jpg` — the Atlas index. Glossy generated still life, oil-lamp glow, fake lettering. No prompt of record.
+- `hero/story-engine.jpg` — `/story-engine/`. Glossy steampunk concept still life. Chosen on 25 July as deliberately whimsical and out of character (*Meta-page heroes* above); see decision 1.
+
+*Lore, the Prismere and Prismeri set (12), one batch by the all-or-none rule of 11 August*
+
+- `prismere-orbital-vista`, `prismere-glasswood-grove`, `prismere-flowering-glasswood`, `prismere-luminous-towers`, `prismere-glass-spires`, `prismere-driftjellies`, `prismere-umbral-ray`, `prismere-twilight-lattice`, `prismere-root-mat-network` (the Prismere page and its galleries); `prismeri-first-wings`, `prismeri-full-wings`, `prismeri-lattice-gathering` (the Prismeri page). All painterly fantasy illustration, the creatures drawn like dragons. Cause 1: every prompt asks for *Painterly science-fiction concept art*. The Prismeri prompts carry a body derived and confirmed on 3 September, which a re-roll keeps; only the register changes. See decision 2.
+
+*Lore, the rest (20)*
+
+- `archecluster.jpg` — *Inside an Archecluster*. CGI architectural visualisation, an endless rendered hall. Cause 2.
+- `planets/fliade.jpg` — Fliade. The cavern growth reads as sculpted clay. Cause 2.
+- `aethelrock.jpg` — Aethelrock (also on the codex entry *Aethelrock and Tír na nÓg*). A stock terrain render. No prompt of record.
+- `cross-biosphere-taxonomy.jpg` — the specimens read as plush and clay, the tardigrade above all. Cause 3.
+- `predatory-entities.jpg` — an over-smooth grey render room, plastic surfaces. Cause 3.
+- `cerebraun.jpg` — the Cerebraun species page. A CGI concept hall, rendered haze. No prompt of record.
+- `membrane-shadows.jpg` — a game-render bridge set with monitor banks. Cause 2, and the prompt asks for the figure *rendered as an absence of light*.
+- `new-london-space-habitat.jpg` — glossy CGI concept art, toy-like rings. Firefly, from a prompt Dermot supplied on 26 July (`image-prompts.md`), with no register named.
+- `ollune.jpg` — painterly translucent creatures over a painted gas giant. Cause 2.
+- `ilveth.jpg` — the body reads as clay, smooth and sculpted. Cause 3.
+- `eden-ring-rail.jpg` — the people are photographic; the habitat's far wall reads as a painted model. Cause 3; lower priority.
+- `sentinel.jpg` (*The Sentinel*, a Locations page under `planets/`) — a stock particle-burst graphic for an airless physical world. No prompt of record; the page is a place, so a photograph of the world is the frame.
+- `embodied-cognition.jpg` — a game-render robot in a CGI hall. Cause 2.
+- `kieme-visible-hand.jpg` — a game-render vault door and an armoured figure. Cause 2.
+- `habitat-threshold.jpg` — a CGI stock station, lit flank. Cause 2; goes through the `starship-design` loop.
+- `things-that-are-made.jpg` — a CGI brutalist megastructure. Cause 2.
+- `ascent-javelins.jpg` — a CGI stock spaceplane over a rendered spaceport. Cause 2; `starship-design` loop.
+- `planets/corryn.jpg` — an illustration, stylised plant silhouettes under a ringed giant. Cause 2.
+- `knarrheim.jpg` — a stock fantasy-planet render. No prompt of record; the century audit already found it shows a planet for a habitat.
+- `quern.jpg` (Quern, under `planets/`) — CGI huts under a rendered storm. Cause 3.
+
+Twelve of these are also on the century audit's list, as (C) a rendered set or (B): `archecluster`, `cerebraun`, `membrane-shadows`, `new-london-space-habitat`, `embodied-cognition`, `kieme-visible-hand`, `habitat-threshold`, `things-that-are-made`, `ascent-javelins`, `knarrheim`, `cross-biosphere-taxonomy`, plus `aethelrock` (named in its (E) as worth replacing). Each is fixed once, in whichever batch reaches it first, and the century audit's batches 6 to 9 shrink accordingly.
+
+*Read as photographs, noted and not flagged:* `drithane` (an oversized moon, a stock-composite feel), `cill-aoife-devotion` (a film-set corridor, already the century audit's (C)), `the-commonwealth` (the habitat through the window is softer than the room), `star-rangers-frontier-corps` (heavy HDR), and the model-shot ships `hyperfold-yield-combine`, `kalypsis-dawn`, `the-generation-ark-era`, `the-tally` and `star-rangers-navigation-corps`, which read as photographed studio models, the register of a well-made effects shot, and pass. `hero/journal-notebook.jpg` reads as a photograph and carries its one chosen phrase.
+
+#### (I) Immaterial or abstract, non-photographic art right: 19
+
+- *Cosmology and physics, a structure no camera can stand outside of (12):* `boundary-zones`, `concordant-membranes`, `creative-entropy-framework`, `worldwrights/competing-designs` (`competing-designs.jpg`), `five-layers`, `physics-comparison`, `quantum-space-harmonics`, `teleportation-limitations`, `universe-overlap-and-folding`, `who-governs-a-universe`, `post-eleven-dimensional-manifold`, and `hero/lore-cosmic.jpg` (the Lore index).
+- *Universes, seen as membranes (3):* `universes/si-gaoithe`, `universes/tir-tairngire`, `universes/threnos-omega` (`threnos-omega.jpg`).
+- *A pattern, not a person (1):* `arilon`, which its page calls a name for a recurring figure across cultures; the soft, painted crowd of hooded shapes suits a type that is nobody in particular.
+- *Concepts already going to cards (3):* `ai-usage-credits`, `environmental-technology-design`, `seed-mind-lifecycle`, stock graphics the century audit already sends to cards; abstract, so not regenerated as photographs.
+
+The astrophotographs (`cosmic-cascade`, `ensemble-multiverse`, `noogenic-seeding-system`, `universes/deadwater`, `planets/cirrane`) are photographs of real skies and count (P).
+
+#### Proposed batch order
+
+Most visible first: the hero banners, by how many pages carry them; then lore pages by the number of pages linking to them; series kept together. Batches of about eight, one round of two variations each, finished at strength 1, as the 10–11 October batches were. Each prompt is revised first, on the 10 October pattern: open as a documentary photograph taken inside the world by a 29th-century camera, describe real materials, name a lens and grain, and carry the render negatives; non-human bodies (Ilveth, Ollune, the Prismeri) photographed from further off and back-lit, as the Pandoids were.
+
+1. **Hero banners and the two most-linked lore pages.** `home-launch`, `seasons-orbit`, `season-01`, `season-00-foundation`, `season-05-explorers`, `atlas-chart`, `archecluster` (27 linking pages), `planets/fliade` (26). The ships among the heroes (`home-launch`, `seasons-orbit`, `season-01`) go through the `starship-design` loop, `home-launch` as an ascent javelin.
+2. **Most-linked lore.** `cross-biosphere-taxonomy` (22), `aethelrock` (22), `predatory-entities` (21), `cerebraun` (18), `membrane-shadows` (17), `new-london-space-habitat` (12), `ollune` (8), `ilveth` (7).
+3. **The Prismere and Prismeri set, all twelve together** (Prismere 8 linking pages, Prismeri 9). Larger than eight because the all-or-none rule of 11 August binds it; the Prismeri prompts keep the body confirmed on 3 September and change only the register.
+4. **Lore.** `eden-ring-rail` (7), `sentinel` (7), `embodied-cognition` (6), `kieme-visible-hand` (6), `habitat-threshold` (5), `things-that-are-made` (4), `ascent-javelins` (3), `planets/corryn` (3).
+5. **The last two, and the decision.** `knarrheim` (2), `quern` (2), and `story-engine` if decision 1 goes B.
+
+#### Needing a decision of Dermot's
+
+1. **Out-of-character heroes** (`hero/story-engine.jpg`, and `hero/journal-notebook.jpg`, which passes). They head `/story-engine/` and the Journal, which speak to real readers, not from inside the record, and the brass machine was chosen on 25 July as deliberately whimsical. A) The photograph preference governs in-world pages only; the out-of-character section keeps its own register. B) Every hero is held to it, and `story-engine` regenerates. **Recommended: A**; `atlas-chart` is still regenerated, because the Atlas maps the world and its banner should look like it.
+2. **The Prismere and Prismeri set.** A) Regenerate all twelve as documentary photographs of the world, the creatures at a distance and back-lit, under the all-or-none rule. B) Refile the set as Codex art, a named in-world naturalist's plates, which would keep the painterly surface legitimately and needs an author and a codex entry to hang them on. C) Keep the set until a better generator, and record the gap. **Recommended: A**, since Prismere is a material world a camera could stand in and his preference is a photograph wherever one could be taken; B is the fallback if the bodies will not hold photographically, as Stone-First's would not.
