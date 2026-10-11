@@ -61,7 +61,7 @@ A subagent runs on its parent session's model unless its definition or the call 
 - **Fable approves Opus's work, and decides which questions go to Dermot.** A PR carrying an open decision no longer stops by default: Fable reads it and either settles the decision or puts it to Dermot as choices. Where Fable settles it, the PR body says which decision, what Fable chose and why, so he can overrule it later; the PR then merges when green. Where Fable puts it to him, the PR stops as before and names it.
 - **Fable's approval does not reach the never-without-instruction list.** Rewriting history, force-pushing `main`, deleting shared branches or tags, cutting a release tag, moving a tier gate, and taking content off or changing the identity of a live domain still need his explicit instruction in the session (his choice the same day).
 
-Asking Fable for an approval spends Fable quota, so batch the decisions in one PR into one request.
+Asking Fable for an approval spends Fable quota, so batch the decisions in one PR into one request. **Where Fable is not available** to the session (Dermot, 2026-10-11, confirming the practice), the decision goes to him directly as choices, in the session, rather than waiting for Fable or being settled by a lower model.
 
 **Haiku and the Chrome extension** (Dermot, 2026-10-11):
 
