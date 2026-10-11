@@ -1167,3 +1167,58 @@ The founding six are drawn in an earlier century's dress and rooms; Voss's
 service dress and the Mars offices match Drey's frame. Not resolved by these
 frames and not claimed: heritage, exact age, and anything after each
 person's last chapter.
+
+## 2026-10-11 — Codex card legibility, and the archecluster emblem card
+
+No generator prompts: deterministic cards from the two `.ps1` tools, at
+Dermot's *"Yes agreed"* of 11 October 2026.
+
+**Codex cards, redrawn for the index.** On the codex index a card renders
+about 300 px wide, and the small lines of `make-codex-cover.ps1`'s template
+(category, stamp, subtitle, institution, author) had gone to grey threads.
+The template now sets them in one pairing used on every card: Georgia for
+the title, subtitle and institution, and Bahnschrift SemiBold (Windows'
+DIN) for the tracked capitals of the category, stamp and author lines,
+which were Consolas. The small lines are roughly twice their old size,
+lighter (7:1 or better against the gradient behind them, measured), and
+tracked about half as wide; long lines shrink to fit; the title tops out at
+104 px instead of 112 and the lower block rises above the old divider only
+as far as its content needs. Gradient, motifs, rule and serif title are
+unchanged. Each card was checked at 300 px before the set was redrawn.
+
+Eight cards were redrawn, every plain codex card the script (or one of its
+two ports) had drawn, with the text each already carried:
+
+```powershell
+.\scripts\make-codex-cover.ps1 -TitleLines "THE COSMIC LIMITATION","ON EVIL" -Category "DOCTRINAL RECORD" -Subtitle "The One Confirmed Exception" -Institution "Survey Archive - Doctrinal Division" -Author "THEORIST EMRYS KADE" -Stamp "CONTESTED" -Motif dissolution -Out src\images\codex\cosmic-limitation-on-evil.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "THE COURTESY","THAT WAS WITHDRAWN" -Category "OFFICIAL DOCUMENTS" -Subtitle "Minuted reply of the Keeper of the Rolls" -Institution "Registry of Rolls and Holdings, Tír na nÓg" -Author "Aoibheann Ní Mheara" -Stamp "FILED AS RECEIVED" -Motif rules -Out src\images\codex\the-courtesy-that-was-withdrawn.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "NEITHER AUTHOR","NOR WARDEN" -Category "DOCTRINAL RECORD" -Subtitle "Working paper on the design tiers and suffering" -Institution "Survey Archive - Doctrinal Division" -Author "Theorist Emrys Kade" -Stamp "FILED AS DOCTRINE" -Motif rules -Out src\images\codex\neither-author-nor-warden.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "THE TWO SONGS","OF THE LOUD PEOPLE" -Category "XENOLOGY RECORD" -Subtitle "A Keeper's Account of Humanity" -Institution "Rendered from Chorus-Keeping · Archive Translation Desk" -Author "KEEPER VHEN OF THAVREN" -Stamp "RENDERED" -Motif dissolution -Out src\images\codex\the-two-songs-of-the-loud-people.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "NOTHING CROSSED" -Category "WORKING PAPERS" -Subtitle "Five shadows the desk cannot close" -Institution "Survey Corps - Gravimetry Desk, Threshold Station" -Author "SURVEYOR MAREN HALLORAN" -Stamp "UNSETTLED" -Motif dissolution -Out src\images\codex\nothing-crossed.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "XENOLINGUISTICS","HANDBOOK" -Category "INSTITUTIONAL DOCTRINE" -Subtitle "The Ten Failures" -Institution "Star Rangers Academy - Xenolinguistics Branch" -Author "THE BRANCH SCHOOL, TEACHING STAFF" -Stamp "FIRST-YEAR READER" -Motif rules -Out src\images\codex\xenolinguistics-handbook-failure-modes.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "TWO SAYINGS,","KEPT TOGETHER" -Category "DEVOTIONAL RECORD" -Subtitle "A promise, and the confession that earns it" -Institution "Fellowship of Light - Comparative File" -Author "UNATTRIBUTED" -Stamp "RECEIVED" -Motif rules -Out src\images\codex\two-sayings-kept-together.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "THE READING BEFORE","A FIRST VIGIL" -Category "DOCTRINAL RECORD" -Subtitle "Novice Instruction, Read Aloud" -Institution "Fellowship of Light - Contemplative Chapters" -Author "TRADITIONAL" -Stamp "DEVOTIONAL" -Motif rules -Out src\images\codex\the-reading-before-a-first-vigil.jpg
+```
+
+The first four flags are of record (the script's header, `prompt-sheet.md`
+2.5 and 2.6, and the 31 August section above). The last four were never
+written down and were read back from the cards themselves: *Nothing
+Crossed*, the *Xenolinguistics Handbook*, *Two Sayings, Kept Together* and
+*The Reading Before a First Vigil*. Not redrawn: the five Slipwave covers,
+which have their own gold starfield look; Asteria's card, whose header is
+in-world art under the lettering; and the cards drawn before the script
+existed, whose palettes and motifs it cannot reproduce. Text is unchanged
+on all eight, so no alt changed. `scripts/make-cards.js`, the Node port,
+still draws the old layout.
+
+**`lore/archecluster.jpg`, an emblem card.** It replaces a CGI archive hall
+the photorealism audit flagged, at Dermot's choice: the page says an
+archecluster *looks like nothing at all* from inside.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\archecluster.md -Device rings -Tint '#1A1830' -Accent '#B4AEDA'
+```
+
+Device **rings**, concentric, for nested structure. Title and category
+are the page's own (*Inside an Archecluster*, *Cosmology*); no epithet or
+qualifier, since none is authored.
