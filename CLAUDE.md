@@ -55,6 +55,14 @@ Dermot's direction, 2026-10-11: the delegation line above is also the model line
 
 A subagent runs on its parent session's model unless its definition or the call names another. So a session started on Fable passes Fable to every subagent it spawns. Name the model on every delegation, and don't start a session on Fable unless the work is prose or prompts.
 
+**Who approves whom** (Dermot, 2026-10-11, verbatim: *"Opus may give approval to Sonnet subagents and Fable may give approval to Opus or decide exactly what I should be asked to decide on"*):
+
+- **Opus approves Sonnet's work.** A Sonnet subagent's diff merges on an Opus review and green CI, with no wait for Dermot.
+- **Fable approves Opus's work, and decides which questions go to Dermot.** A PR carrying an open decision no longer stops by default: Fable reads it and either settles the decision or puts it to Dermot as choices. Where Fable settles it, the PR body says which decision, what Fable chose and why, so he can overrule it later; the PR then merges when green. Where Fable puts it to him, the PR stops as before and names it.
+- **Fable's approval does not reach the never-without-instruction list.** Rewriting history, force-pushing `main`, deleting shared branches or tags, cutting a release tag, moving a tier gate, and taking content off or changing the identity of a live domain still need his explicit instruction in the session (his choice the same day).
+
+Asking Fable for an approval spends Fable quota, so batch the decisions in one PR into one request.
+
 ## Commands
 
 ```bash
