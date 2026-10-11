@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Jeeves, Xenon and Rook-7 re-made as machines made with care** (`src/images/characters/jeeves.jpg`, `xenon.jpg`, `rook-7.jpg`, their `image_alt`, `story-bible/images.md`, 2026-10-11, Dermot's *Made with care*). Canon features kept; the finish now well-designed objects in kept rooms. Rook-7 has its first prompt of record; Lucene-9000 keeps its 10 October portrait.
+
 - **Two image conventions: places well kept, machines made with care** (`story-bible/images.md`, `CLAUDE.md`, 2026-10-11, Dermot's choices). Habitats, ships, stations and kit are clean and maintained unless a page says otherwise, the imperfection belonging to the camera rather than the place; kernel-compliant machines keep what canon fixes but are finished as well-designed objects, never crash-test dummies or mannequins. CLAUDE.md now says that revising a prompt to fix how its image renders is Opus's work.
 
 - **Toval and Sylvie Harrow re-made** (`src/images/characters/toval.jpg`, `sylvie-harrow.jpg`, both pages' `image_alt`, `story-bible/images.md`, 2026-10-11, from Dermot's questions about human-looking characters who look odder than they should). Toval's prompt had invented a pale, hairless look the record never gives; he now passes as almost human, as the Krenyi page says, in the Survey Corps' olive field shell with a Cadet's single tab. Sylvie Harrow's office had acquired a filing cabinet the prompt never asked for; her room now takes its colour from lived-in things. Muffin's deck, which read as a present-day restaurant corridor, is now a habitat's: seamless composite, a flush vent slot, a rounded door.
