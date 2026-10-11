@@ -206,6 +206,38 @@ figures follow from the principles and real physics and are his to change.
   a small spun section for the crew, radiators, and the rack of sealed
   housings the chapters describe. Put as a choice before any picture.
 
+### F. An ascent javelin (surface to orbit)
+
+Added 11 October 2026 for the site's default share card (`hero/home-launch.jpg`),
+which showed a Space Shuttle; the 10 October rule names ascent by javelin
+(`CLAUDE.md`, *No orbital towers*).
+
+- **Purpose** (canon, `src/lore/ascent-javelins.md`): passengers and cargo
+  from surface to a stable parking orbit; the journey down is a landing
+  craft's. Standard javelins are chemical-cycle, rated to about 1 g;
+  fusion-thermal variants climb heavier worlds.
+- **Launch** (canon): *thrown, not taken off*: the craft rides a **launch
+  cradle to near-vertical**, fires a hard boost off it, then climbs through
+  three regimes: ballistic boost, **air-breathing aerodynamic climb** through
+  the middle atmosphere, closed-cycle rocket flight for insertion. Ninety
+  seconds of boost, eleven minutes of climb. A spaceport *looks from a
+  distance like a missile battery interleaved with a runway*.
+- **Shape** (derived): one slender **winged** body, because the middle regime
+  is aerodynamic: short swept wings or strakes, a blunt heat-shielded nose,
+  air intakes along the underside for the air-breathing climb, the rocket
+  nozzles at the tail. **One body, no stack**: no external tank, no strap-on
+  boosters, no orbiter riding on anything; the cradle is a ground rail frame
+  that stays behind. Length (derived) **40 to 60 m** for a passenger javelin.
+- **Surface** (principle 5): dull, unmarked, a plain pale thermal skin with
+  the honest seams of its panels, no painted name, no glazed cockpit (the
+  crew fly it on instruments), at most a few small passenger ports.
+- **What is lit** (real physics): during the boost, the exhaust plume and the
+  cloud it raises, which is the one bright thing a launch has; nothing on
+  the hull is lit.
+- **Not military** (`CLAUDE.md`, the Rangers are not military; and the
+  spaceport is civil traffic): the missile resemblance is the page's simile
+  and stays one. No markings, no ordnance, no launch vehicle on a truck.
+
 ---
 
 ## How a prompt uses this
@@ -228,6 +260,6 @@ figures follow from the principles and real physics and are his to change.
 - The Tally's weight at the Mooring (A).
 - The Threshold-class shape (E).
 - Whether any ship in the record has windows at all beyond ports.
-- The High Captain's command ship (principle 12): its class name, its size, how a session is hosted (whose ship, by rotation or by the Triumvirate's), and whether it gets a sheet (F) before any page or picture needs it.
+- The High Captain's command ship (principle 12): its class name, its size, how a session is hosted (whose ship, by rotation or by the Triumvirate's), and whether it gets a sheet (G) before any page or picture needs it.
 - Whether these sheets become a lore page (*Hulls of the Record*, Technology)
   once he has ruled on the open items; until then they are planning.
