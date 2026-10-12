@@ -9,7 +9,7 @@ aliases: []
 tags: [human, star-rangers, survey-corps, counterpane, archecluster, calibration, season-3]
 description: "The Survey Corps Chief who carries the three-source bench through the fold to Counterpane and home again, and who has never once called what it reads there a finding until it is home."
 image: "ingrid-halvorsen.jpg"
-image_alt: "A woman in her late fifties with cropped grey hair in a plain insulated field coat, standing at a metal bench in a bare cold shelter, three identical sealed steel cylinders in a row, her hand lifting one clear, her breath faintly visible"
+image_alt: "Ingrid Halvorsen, a woman in her late fifties with cropped grey hair and a still face, in a deep olive Survey Corps field shell with a small tab of one bar and one ring, gloved, lifting the middle one of three smooth pale grey sealed ovoids from its recess in a plain bench, her breath faintly visible. Around her the curved pale walls of a small field shelter, its rounded doorway full of flat cold light."
 ---
 
 Chief is the formal ceiling of the Survey Corps' technical path, and Halvorsen reached it the way the [rank page](/star-rangers/lore/star-rangers-command-hierarchy/) says a technical Chief does: by getting better at one thing for longer than anyone around her thought one thing could take. The thing is correlation calibration — the branch of the Survey that asks not what an instrument reads but what several instruments read *together*, and whether the together is the sum of the parts. On most benches it is. Her career is the benches where it is not.

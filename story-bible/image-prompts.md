@@ -1260,3 +1260,13 @@ DejaVu Sans Condensed or Liberation Sans Narrow where they are missing, and
 it estimates widths rather than measuring them, so a line can shrink a step
 differently from the `.ps1`. A card that must match exactly still comes
 from the `.ps1`. Its layout is pinned by `test/make-cards.test.js`.
+
+## 2026-10-12 — Century audit concept cards
+
+The century audit of 11 October (`images.md`, *Century audit*) sends four concept images to emblem cards under the rule that a concept is carded, not pictured: `ai-safety-kernel`, `environmental-technology-design`, `seed-mind-lifecycle` and `ai-usage-credits`. Each is drawn by `scripts/make-emblem-card.ps1` with the page's own title and category and no epithet or qualifier, since none is authored, at finish 0.
+
+- **`lore/ai-safety-kernel.jpg`** (century batch 6, 12 October 2026), replacing a stock photograph of a circuit board. Device **shield**, for safety and certification.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\ai-safety-kernel.md -Device shield -Tint '#16202A' -Accent '#A9C4C9'
+```
