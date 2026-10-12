@@ -14,7 +14,7 @@ gallery:
   - image: field-photo-01.jpg
     image_alt: "A tabby kitten with a black collar sitting in the bow of a boat at sunset, water and a green shoreline behind it."
   - image: field-photo-02.jpg
-    image_alt: "A tabby kitten perched on the stern of a red boat, looking out over the water at sunset."
+    image_alt: "A tabby kitten perched on the bow of a boat with a red hull, looking out over calm water at sunset."
   - image: field-photo-03.jpg
     image_alt: "Close-up portrait of a tabby-and-white kitten with blue eyes among yellow flowers."
   - image: field-photo-04.jpg
