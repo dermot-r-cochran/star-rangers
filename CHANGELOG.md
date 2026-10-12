@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Cerebraun card redrawn with a sphere** (`src/images/lore/cerebraun.jpg`, 2026-10-12). The emblem card filed earlier the same day carried the species device, a head-and-shoulders figure, which asserted a person-shaped body; it now carries a plain sphere. The page's `image_alt` and the image register were updated, and the image runbook no longer calls the Cerebraun cephalopod-descended in its own notes.
+
 - **Century audit follow-up: Cerebraun carded, the Membrane Shadow re-made, three stale prompt entries removed** (`story-bible/images.md`, 2026-10-12). The Cerebraun page's image is now an emblem card in place of a robed humanoid figure in a brutalist hall, until the people's body is described; the Membrane Shadow's picture is re-made so the figure casts no shadow, as its page says; and three older duplicate prompt entries were removed from the image runbook. Both pages' `image_alt` were rewritten from their new files.
 
 - **Prismere's nine world images re-made as photographs** (`src/lore/planets/prismere.md`, `story-bible/images.md`, 2026-10-12, Dermot's choice). The orbital vista, glasswood grove, flowering glasswood, luminous towers, glass spires, driftjellies, umbral ray, twilight Lattice and root-mat network now show Prismere as documentary photographs in place of painterly concept art, each alt rewritten from the file. At Dermot's word the all-or-none rule that bound the twelve Prismere images is set aside for this set; the three Prismeri images stay as filed until their Codex-art plates are approved.
