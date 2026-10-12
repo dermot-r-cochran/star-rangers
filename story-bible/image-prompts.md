@@ -1290,3 +1290,9 @@ The century audit of 11 October (`images.md`, *Century audit*) sends four concep
 ```
 
 With this card the four concept images the century audit sent to cards are all carded.
+
+- **`lore/cerebraun.jpg`** (century audit follow-up, 12 October 2026), replacing a CGI hall with a robed humanoid figure, which gave the people a body the page refuses. Device **figure**, the species device. A card until the body has a section in `species-design.md`; every generated attempt (four, on 12 October) drew an Earth octopus or squid.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\cerebraun.md -Device figure -Tint '#1E1A2A' -Accent '#C2A9C8'
+```
