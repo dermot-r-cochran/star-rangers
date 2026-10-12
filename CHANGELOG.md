@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Prismeri silhouettes tried; Ilveth and Qiren Tal kept** (`story-bible/images.md`, 2026-10-12, Dermot's choices). The three Prismeri prompts were revised to show the body only as a distant back-lit silhouette, and one round was rolled. Under Dermot's test that a Prismeri must never be mistakable for a Levril's dragon outline, two of the three failed, so the Prismere set keeps all its filed images and the choice between Codex art and splitting the set is open for him. The Ilveth and Qiren Tal portraits stay as filed for now, at his choice, with the gap recorded.
+
 - **Century audit, batch 10: the last three of the audit's dated images re-made** (`story-bible/images.md`, 2026-10-12). Knarrheim's page now shows the station it describes, a long patched ice-hauler hull with two rings turning about it, refinery modules, radiators and the ice body it docked at, in place of a stock fantasy planet under two moons; the Halvern Combine's tied stack of papers sits in a recess in a clean wall, in place of a steel cabinet and framed certificates; and Ask, and It Will Be Reviewed is a planning office's waiting room of the century, in place of a 1970s room with a cork board and a fuse box. Each page's `image_alt` was rewritten from its new file.
 
 - **A Levrilic dragon is a signature, not a reptile** (`src/lore/levrils.md`, 2026-10-12, Dermot's direction). A clarification: *Dragon* is the witnesses' name for how they render a Levril's signature, not a description of a body; no reptile, nothing that breathes fire.
