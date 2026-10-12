@@ -1276,3 +1276,9 @@ The century audit of 11 October (`images.md`, *Century audit*) sends four concep
 ```powershell
 .\scripts\make-emblem-card.ps1 -Page src\lore\environmental-technology-design.md -Device rings -Tint '#18221C' -Accent '#A8C8B0'
 ```
+
+- **`lore/seed-mind-lifecycle.jpg`** (century batch 8, 12 October 2026), replacing a stock graphic of a data tunnel. Device **sundial**, for a lifecycle told in phases.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\seed-mind-lifecycle.md -Device sundial -Tint '#1A1A2A' -Accent '#B9B4D8'
+```

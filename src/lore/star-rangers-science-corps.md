@@ -5,7 +5,7 @@ category: "Institutions"
 tags: [star-rangers, science-corps, chief-science-officer, survey-corps, boundary, research, institutions]
 description: "The Star Rangers Science Corps: the guild-independent research body that interprets what the Survey Corps collects, and the Chief Science Officer duty title that leads it post by post."
 image: "star-rangers-science-corps.jpg"
-image_alt: "A plain grey room with a wooden bench by a window, three cloth-bound ledgers stacked beside a sealed glass jar holding a sample, a pencil pot and a chair"
+image_alt: "A plain pale room aboard an installation with a long window onto black space: on a long composite bench a small smooth grey sealed ovoid sits in a round recess beside a tall stack of shut cloth-bound volumes, and a moulded chair is pushed back from the bench."
 ---
 
 The MSC's preliminary report on Eden's fold-adjacent position took fourteen months to reach a conclusion nobody upstream wanted to act on. The Science Corps was built, in part, so that a finding could stop taking that long to matter.
