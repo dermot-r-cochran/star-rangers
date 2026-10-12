@@ -8,7 +8,7 @@ galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"
 image: "new-london-space-habitat.jpg"
-image_alt: "Three interlocking rings around a tall central spire on radial spokes. The widest ring carries a lamplit city — a domed cathedral, a gothic clock tower, and a twin-towered bridge over a winding waterway, among parkland. Earth and a crescent Moon hang beyond."
+image_alt: "A narrow wet cobbled street in New London after rain, old brick and stone frontage on one side and plain modern pale buildings on the other, opening onto a low stone bridge over a dark canal, a few people walking and crossing, roses in stone planters by the bank. Beyond the rooftops the ground curves visibly upward into a flat grey-white overcast, the far part of the ring rising like a wall with the city built up it."
 ---
 
 New London was built because the British Isles were drowning. It is still here, at full occupancy, three centuries after they stopped.

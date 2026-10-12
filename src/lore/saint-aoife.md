@@ -5,7 +5,7 @@ category: "Culture"
 tags: [saint-aoife, celtic-union, culture, devotional-traditions, levril, brother-daire]
 description: "A locally venerated Irish holy woman of the thirteenth century, carried into space as living devotion by the Currach Fleet, and the founding figure of the Celtic Union's most-cited reinterpretation debate between hagiography and Levril encounter."
 image: "cill-aoife-devotion.jpg"
-image_alt: "A recessed niche in a scratched steel corridor wall aboard a station, a sprig of blossom in a tin cup and a dark stone beside it, a figure walking away down the corridor"
+image_alt: "A rounded niche set into the pale composite wall of a ship's corridor, a few sprigs of white blossom in a small glass of water and a smooth dark stone inside it, its rim worn smooth. The clean corridor curves away beside it, a handrail along the wall, and far down it one person walks away."
 ---
 
 Most saints the Currach Fleet's founders carried off Earth stayed exactly what they had always been: names on a calendar, patrons of a trade, comfort at a deathbed. Aoife is the one who kept changing shape.
