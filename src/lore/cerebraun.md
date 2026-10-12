@@ -3,14 +3,14 @@ layout: lore-entry.njk
 title: "Cerebraun"
 category: "Species"
 tags: [cerebraun, species, cerebraun-hegemony, multiple-brains, cephalopod-analog]
-description: "A cephalopod-descended, multi-brained species whose distributed cognition and layered inner lives resist easy translation for singly-brained observers — and the founding people of the Cerebraun Hegemony."
+description: "A multi-brained species, cephalopod-like to a human eye, whose distributed cognition and layered inner lives resist easy translation for singly-brained observers — and the founding people of the Cerebraun Hegemony."
 image: "cerebraun.jpg"
 image_alt: "Designed cover for Cerebraun: a plain circle in a soft glow under the category Species, with the title below, on a dark violet-black background."
 ---
 
 Ask a Cerebraun a simple question and the answer sometimes arrives in three parts, seconds apart, none of them contradicting the others. Xenolinguists spent a decade assuming this was evasion before admitting it was just how the species thinks.
 
-The **Cerebraun** are a cephalopod-descended, sapient people distinguished from every singly-brained species on record by a single structural fact: cognition, for a Cerebraun, is not one thing happening in one place.
+The **Cerebraun** are a sapient people that a human observer tends to describe as cephalopod-like. That is a likeness, not a lineage: [no other people in this record is a metazoan](/star-rangers/lore/cross-biosphere-taxonomy/), and the Cerebraun share no descent with Earth's octopus or squid. What distinguishes them from every singly-brained species on record is a single structural fact: cognition, for a Cerebraun, is not one thing happening in one place.
 
 ## Physical and Cognitive Characteristics
 
