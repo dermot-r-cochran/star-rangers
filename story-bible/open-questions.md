@@ -1971,7 +1971,9 @@ Open, all in the intake:
 - **Cross-links** to the Crisis Centuries, FTP, Mars and Venice pages wait on
   the entry merging.
 
-## Elvira's dream — `intake-2026-09-03.md`, thirteenth direction
+## Elvira's dream — `intake-2026-09-03.md`, thirteenth direction — RULED 13 October 2026
+
+**RULED: a chapter before *The Broken Causeway*, S01E02C00** (Dermot's choice among the three slots below). Nothing open.
 
 Dermot, 3 September 2026: Elvira had a dream in which she transformed Aldera
 into a feline humanoid using magic. Drafted as

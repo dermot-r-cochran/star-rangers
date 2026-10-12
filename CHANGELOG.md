@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **New chapter: *A Working That Worked* (S01E02C00)** (`src/seasons/s01/e02/s01e02c00.md`, 2026-10-13). Elvira's dream, drafted and approved on 3 September 2026, is placed as the chapter before *The Broken Causeway* at Dermot's choice of slot: she dreams a working that takes and changes Aldera's shape, and on waking files the mechanism as the village's and the wish as her own; Aldera's log notes the morning and does not ask. The approved text is unchanged except that Aldera's log calls Elvira *Subject A*, matching S01E02C01. Elvira and Aldera POVs.
+
 ## [1.39.0] — 2026-10-12
 
 The pictures now look like the 29th century, and the bodies that are not human stay themselves. The century audit is finished: every dated character and lore image was re-made or carded, the plain-by-canon places given one quiet hint each, and four concept images became emblem cards. The photorealism audit re-made the hero banners and most lore images as photographs; Prismere's nine world frames are filed, and the Prismeri are drawn as a naturalist's plates (*Plates of the Prismeri*, by Halle Ostrander), with a short neck and no tail so that no one mistakes them for the dragon of a Levril account. Canon gained a principle for all non-terrestrial life: an Earth likeness is the observer's, never a lineage, with Tír na nÓg the one possible exception of degree, and the chance of any record crossing between stars falling with distance. Alongside: the Celtic Union's ceremonial flag, the setts of Aethelrock, ascent-javelin crews, every High Captain's command ship, robot in the glossary, and the codex cards readable at index size.
