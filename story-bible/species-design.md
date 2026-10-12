@@ -441,6 +441,8 @@ from `src/lore/planets/prismere.md` and what the Prismeri page already held:
    made cheap" (the planet page already says the contribution is expertise;
    this gives it a reason).
 
+**Neck and tail, confirmed 12 October 2026** (Dermot, confirming two readings the Codex plates of the Prismeri had added, after every photographic attempt drew the Prismeri as dragons, and his test that same day, verbatim *"The Prismeri would no longer be confused with Levrilic dragons"*). The derivation above fixed the spine, the limbs and the head and was silent on both; it now says: **the neck is short, the head carried close against the shoulders, and there is no tail**, the body ending at the hind legs with the membrane running between wing and leg. Both follow from the frame already derived: a flier that rests by hanging and works from the hang gains nothing from a long neck or a tail, and both are the features that would sort a Prismeri outline into a Levril's dragon. Realized as a clarification in `src/lore/prismeri.md`'s *A Body for Thin Ground and Thick Air*.
+
 **Traps avoided.** No human frame: the spine is level, the wings are the
 forelimbs, rest is hanging, ground travel is quadrupedal. No insectoid head
 on a biped (the Qiren Tal failure). No planet of hats: the two forms do
