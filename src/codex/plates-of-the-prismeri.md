@@ -4,7 +4,7 @@ title: "Plates of the Prismeri"
 category: "Survey Records"
 tags: [prismeri, prismere, federation-of-sentient-beings, metamorphosis, survey-records, codex-art, natural-history]
 description: "Three natural-history plates of the Prismeri in ink and watercolour, drawn from life on the Federation's contact survey of Prismere and revised once the two preliminary species reports were shown to describe one people, with the naturalist's notes to each plate."
-author: "[Name to be chosen], field naturalist, Federation contact survey of Prismere"
+author: "Halle Ostrander, field naturalist, Federation contact survey of Prismere"
 institution: "Federation contact survey of Prismere"
 location: "Survey plates, Prismere contact file; copies circulated with the revised species report"
 image: "plates-of-the-prismeri.jpg"
