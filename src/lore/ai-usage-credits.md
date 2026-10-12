@@ -5,7 +5,7 @@ category: "Economics"
 tags: [auc, ai-usage-credits, economics, cei, novelty, noogenic]
 description: "Economic protocol for allocating intelligent computation capacity according to measurable novelty contribution."
 image: "ai-usage-credits.jpg"
-image_alt: "Abstract circuit-board traces in cyan and orange on a dark background, with faint columns of binary digits behind them"
+image_alt: "Designed cover for Allocation Units of Cognition: Cognition as Scarce Infrastructure: concentric rings in a soft glow under the category Economics, with the title below in two lines, on a dark brown-black background."
 ---
 
 AUC ledgers glow brightest in young systems, when new ideas are still arriving faster than institutions can file them. That glow is counted, traded, and argued over because cognition itself is scarce infrastructure.

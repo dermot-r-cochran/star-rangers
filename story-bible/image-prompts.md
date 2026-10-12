@@ -1282,3 +1282,11 @@ The century audit of 11 October (`images.md`, *Century audit*) sends four concep
 ```powershell
 .\scripts\make-emblem-card.ps1 -Page src\lore\seed-mind-lifecycle.md -Device sundial -Tint '#1A1A2A' -Accent '#B9B4D8'
 ```
+
+- **`lore/ai-usage-credits.jpg`** (century batch 9, 12 October 2026), replacing a stock graphic of circuit traces. Device **rings**, for a system of allocation; the title breaks after its colon.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\ai-usage-credits.md -Device rings -Tint '#221C14' -Accent '#D2BC8E'
+```
+
+With this card the four concept images the century audit sent to cards are all carded.

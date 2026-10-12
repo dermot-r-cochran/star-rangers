@@ -5,7 +5,7 @@ category: "Technology"
 tags: [ascent-javelin, orbital-ascent, spaceflight, technology, teleportation, fusion, safety-corps, high-gravity]
 description: "Why getting off a planet still means flying: the missile-launched orbital ascent craft that carry passengers and cargo from surface to orbit on Earth-gravity worlds and below — and the fusion-boosted variants that make even heavy worlds climbable."
 image: "ascent-javelins.jpg"
-image_alt: "A slender winged craft climbing steeply away from a spaceport on a blue-white exhaust plume, the curve of the planet visible above the haze"
+image_alt: "An ascent javelin seen from alongside in its climb above a deck of cloud: a long, pale, flattened winged lifting body with a blunt nose and a short row of ports at the front, a faint exhaust trail behind, the sky darkening toward the top of the frame."
 ---
 
 Every technology the Concord possesses for crossing space politely declines to help with the first hundred kilometres. Getting off a planet is still, after eight centuries, a matter of throwing yourself at the sky hard enough that it gives in.
