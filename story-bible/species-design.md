@@ -297,6 +297,14 @@ answer gets derived when a page needs it. Nothing below is canon.
   surface; (b) a worn plate, on the Rangers' own magnetic principle,
   which would explain why the Veyr took to the Rangers' tab standard
   easily.
+  **Ruled 12 October 2026** (Dermot, choosing *"Marks seated on the body"*
+  for Qiren Tal's portrait): a Veyr on duty wears no garment. The corps
+  colour and the rank tab are seated directly on the lattice body, as
+  Rook-7's marks are on its chassis (*bolted to a different surface*,
+  `src/lore/rank-insignia-and-uniform.md`), which is shape (b) on the
+  body itself. Where a Veyr's corps or rank is not on record, a prompt
+  shows one plain seated tab with no colour. The Veyr's own mark, if
+  they have one beside the Rangers', is still undescribed.
 - **Serephine Dunekin** — a scout people; shapes: (a) posture or gait —
   a role told by how a body carries itself, which a desert people who
   read distance would find natural; (b) a worn mark.

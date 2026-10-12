@@ -195,5 +195,7 @@ Dermot accepted all five recommendations below as put (*"Accept all five"*), so 
    in with the delegation's kit. B) The hint applies as in any present-day
    frame. C) Decide per page. **Recommended: A.**
 
+**Ashcombe, ruled 12 October 2026** (Dermot, choosing *"Constabulary uniform, immaculate"*, on the conflict flagged above between his page's *uniform* and the suit in his portraits). He wears the Threshold Station Constabulary's uniform, pressed and perfect, and *immaculately dressed* is carried by its finish, not by a 20th-century suit; his page stands as written. So he is no longer the record's example of a character who dresses old, and the necktie, lapels and suit go back into his prompt's negative like anyone else's. His care for dress stays his, shown in how the uniform is kept. No uniform design for the Constabulary is on record, so a prompt shows a plain dark well-cut uniform jacket with a band collar, no lapels, no tie and no insignia (`images.md`, the same day).
+
 **Two further rulings, 11 October 2026.** The clan setts of Aethelrock are now a lore page (`src/lore/the-setts-of-aethelrock.md`, at his *"Add a lore page for the clan colours and tartans, if still in use"*), with the five colourings first chosen for the batch-3 portraits made canon; Clan Avalon has no sett on record. And at the Kingdom of the Five Islands' court the Survey writes by hand (his *"Keep, as a courtesy"*, on Emma la Chapelle's notebook and pencil): the delegation brings nothing into the Kingdom's rooms that the court would read as a machine.
 
