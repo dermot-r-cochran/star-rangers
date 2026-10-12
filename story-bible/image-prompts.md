@@ -1270,3 +1270,9 @@ The century audit of 11 October (`images.md`, *Century audit*) sends four concep
 ```powershell
 .\scripts\make-emblem-card.ps1 -Page src\lore\ai-safety-kernel.md -Device shield -Tint '#16202A' -Accent '#A9C4C9'
 ```
+
+- **`lore/environmental-technology-design.jpg`** (century batch 7, 12 October 2026), replacing a stock graphic of circuit traces. Device **rings**; **triad** was tried first and read as a wireless-signal icon. The title is long enough that the card breaks it after its colon (the script's new behaviour, the same day).
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\environmental-technology-design.md -Device rings -Tint '#18221C' -Accent '#A8C8B0'
+```
