@@ -11,7 +11,7 @@ aliases:
   - "The Wanderer"
 tags: [freelance, explorer, independent, captain, frontier, fold-corridors]
 image: "lorien-the-wanderer.jpg"
-image_alt: "A weathered woman in a worn brown leather flight jacket standing in the compact cabin of her courier ship, everything stowed behind flush locker doors, a made bunk recessed in the wall and a small viewport onto space behind her"
+image_alt: "A weathered woman with short greying hair, in a worn brown leather flight jacket, standing in the compact cabin of her courier ship, everything stowed behind flush locker doors and a small viewport onto stars behind her"
 description: "An unaffiliated freelance captain who charts unclaimed fold corridors and sells the survey data to whoever pays first — Survey Corps included, when the price and the politics both work out."
 ---
 
