@@ -2980,3 +2980,11 @@ the broader more general sense*. This is drafted as an extension of the
 *Angel* register rule, with Levrils or, rarely, Celestials. That is reading
 5: (A) the word stays in the Codex and overlay, recommended and drafted; or
 (B) the Archive may use it too.
+
+## Cured during pregnancy: the child or the line — `intake-2026-10-13.md` — OPEN, his
+
+His direction that *genetic disorders can often be treated and cured during pregnancy* is recorded as (A) somatic treatment of the unborn child, the child cured and their own children treated in turn, which sits inside the Heritable Modification Protocols' somatic line untouched; recommended. (B) The disorder corrected in the line itself, on the protocols' restoration road, is also compatible and a stronger claim. Nothing drafted depends on either.
+
+## Cosmetic nanites after *no Andromeda nanobots* — `intake-2026-10-13.md` — OPEN, his
+
+(A) The three published *cosmetic nanites* (environmental technology, Terran wildlife, Tír na nÓg) stand as bounded, non-replicating upkeep, with surgical microdrones for medicine; recommended, no page changes. (B) *Nanite* leaves the record and the three pages are revised to drones.
