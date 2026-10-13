@@ -174,14 +174,14 @@ uniform was ruled on 12 October.
 
 ## Dress by place
 
-Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each setting, under principles 11 to 13. Every line is marked *derived* (it follows from the page named) or *proposed* (a reading that fits the page and is his to change); nothing here is canon. The facts were gathered from each place's own page; *not stated* means the page is silent. Each block's *Tags:* line names the character tags whose portraits illustrate it; the Wardrobe artefact is built from this section by `scripts/extract-wardrobe.js`, and is changed here, never there.
+Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each setting, under principles 11 to 13. Every line is marked *derived* (it follows from the page named) or *proposed* (a reading that fits the page and is his to change); nothing here is canon. **The proposed lines were approved as drafted on 13 October 2026** (Dermot, *"Sounds good. Option A."*), with one change: a place's sign of the century is extra, never a reason for plain cloth, so the three lines that said *so clothes need not* now say the cloth carries its one detail as everywhere. *Proposed* is kept on the rest as the record of where each line came from; approved means adopted for prompts and the Wardrobe, still not canon. Mars has no line for present-day civilian dress, deliberately, until a page needs one. The facts were gathered from each place's own page; *not stated* means the page is silent. Each block's *Tags:* line names the character tags whose portraits illustrate it; the Wardrobe artefact is built from this section by `scripts/extract-wardrobe.js`, and is changed here, never there.
 
 ### Eden and the Compact habitats
 *Tags:* `eden`, `orbital-habitats-compact`
 - **Conditions:** Spin gravity on the ring and low gravity at the hub (`eden-ring-rail.md`); the climate is the habitat's own and its temperature not stated. *Derived.*
 - **Everyday:** Light layers for a held climate: knitwear, soft jackets, plain coats, cardigans and aprons, in colours of the wearer's own. A resident from anywhere dresses as from there, one chosen thing at a time. *Proposed.*
 - **At work:** The bureau's junior detectives wear the issued jacket, *plain single-breasted … issued in one colour*, rank strokes at the collar; seniors and the undercover their own cloth (`eden-bureau-uniform.md`). Growers on the terraces work in canvas aprons with sleeves pushed up. *Derived, the aprons from practice.*
-- **The century's sign:** A ring's light and its terraces through a window carry it, so clothes need not. *Proposed.*
+- **The century's sign:** A ring's light and its terraces through a window carry it, and the cloth carries its one detail as everywhere (principle 11). *Approved.*
 
 ### Antariksha
 *Tags:* `antariksha`
@@ -195,14 +195,14 @@ Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each settin
 - **Conditions:** A shore station on a coast, harbour weather, *trace ozone … Threshold Stink* (`threshold-station.md`). *Derived.*
 - **Everyday:** Weatherproof outer layers over plain clothes, made for wind and spray; a crew *drawn from several peoples*, each dressing as from home. *Proposed, the crew derived.*
 - **At work:** Rangers in their shells; the Constabulary in its plain dark uniform jacket with a band collar (ruled 12 October); hull-fitters and Maintenance in work clothes. *Derived.*
-- **The century's sign:** The station and its harbour. *Proposed.*
+- **The century's sign:** The station and its harbour, and the cloth carries its one detail as everywhere. *Approved.*
 
 ### New London
 *Tags:* none on record
 - **Conditions:** Held at 16–18 °C, a perpetual soft overcast, rain on a schedule nobody publishes, Earth-standard gravity at the rim (`new-london-space-habitat.md`). *Derived.*
 - **Everyday:** *Layered dressing a practical habit rather than a costume*: wool and knit in layers, a coat for the rain. The frontage is neo-Victorian; the clothes are not. *Derived, the last sentence from rulings 2 and 3.*
 - **Custom:** Titles are used at court functions, and formal dress is the same clothes in a better finish; the street keeps imperial measures. *Derived.*
-- **The century's sign:** The rings' engineered sky. *Proposed.*
+- **The century's sign:** The rings' engineered sky, and the cloth carries its one detail as everywhere. *Approved.*
 
 ### Tír na nÓg
 *Tags:* `tir-na-nog`
