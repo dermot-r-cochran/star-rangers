@@ -1344,3 +1344,19 @@ cards above.
 ```powershell
 .\scripts\make-emblem-card.ps1 -Page src\lore\post-eleven-dimensional-manifold.md -Device fold -Tint '#1A1830' -Accent '#B4AEDA'
 ```
+
+## 2026-10-13 — Sohrel, a portrait prompt from the Cerebraun body
+
+The prompt, written on Fable under the 11 October model split, once the body
+behind the likeness had a section in `species-design.md` (PR #1178). Nothing
+generated and nothing filed; the designed card at
+`src/images/characters/sohrel.jpg` and its alt stay until a frame is filed
+from the desktop.
+
+### sohrel.jpg — prompt written 13 October 2026, NOT YET GENERATED
+- **Type:** generation, replacing a designed card whose device is a cephalopod-like figure with a node at each limb's tip, where the record gives the Cerebraun no Earth lineage and `species-design.md` now gives the body
+- **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only sohrel`
+- **Date:** prompt 2026-10-13; generation pending
+- **Source:** `story-bible/species-design.md`, *Cerebraun — the body behind the likeness* (the recommended points: no head and no paired eyes, sight along the limbs; eight limbs in two tiers of four, ventral bearing and dorsal working, no suckers; no front; a dry matte finely textured skin, one quiet tone at rest; a seated human's bulk for the frame only), `src/lore/cerebraun.md` (nine centres and one voice, the display skin, the two channels), `src/characters/sohrel.md` (the desk, the three centuries, the second line), S03E01C01 (ship's night, the second line drafted, the third dorsal arm's four centimetres of colour shift beneath the desk), `src/lore/cross-biosphere-taxonomy.md` (the Hydrostata frame; the likeness is the observer's)
+- **Prompt / recipe:** of record in `images.md` § 13, *Missing portraits — Sohrel, from the Cerebraun body*, the one shape `scripts/image-prompts.js` parses; not duplicated here. Opens as a documentary photograph taken inside the world by a 29th-century camera; the body from the species note (no head, no paired eyes, small eyes along the limbs, two tiers of four, no suckers, no front, dry matte grained skin in one tone); the moment from the chapter (a bare desk built for the body, late in ship's night, one upper limb beneath the desk with a small warmer patch); render negatives, and octopus, squid, cuttlefish, cephalopod, tentacles, suckers, beak, siphon, fins, kraken, Cthulhu, sea creature, humanoid, face and paired eyes refused by name.
+- **Notes:** 16:9 landscape, filed through `import-image.ps1 -MaxEdge 1200` at finish strength 1. The card at the target path makes the entry read as *done* to `--list`; `--only` generates regardless. Triage each variation for the Earth animal before its century: a head, a pair of eyes, suckers, a wet gloss or a node at a limb's tip fails whatever else it gets right. Readings taken for the frame, Fable's under *Who approves whom* and his to overrule, none written to a page: a muted slate-violet grey at rest, after the card's palette; the dissent as one small warmer patch under the desk and no glow or pattern anywhere, since the display resolves at four centimetres; the eyes small, matte and flush, none in pairs, on the tone rule; nothing worn and no mark of office; a bare desk on the lettering rule's remove move; no chair, the body on a low platform; a human-height doorway for scale. The species note's status line still reads as a draft and `open-questions.md` still lists the body as OPEN; a prompt in `images.md` is neither the lore extension nor the re-roll that entry holds back, and the body it draws binds nothing until he rules. Alt text to be written from the filed frame.
