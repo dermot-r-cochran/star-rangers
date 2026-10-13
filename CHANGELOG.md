@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **S01E01C01 and S01E01C02 rewritten toward 450 words a viewpoint** (`src/seasons/s01/e01/`, 2026-10-13, a draft for Dermot's approval from the 13 October reader review). Thorne's opening now ends on the two clocks above the seal and the hatch instead of *This was going to be interesting*; Syra arrives having read the public release that closed the forty seconds; Rook-7 logs the seal cycle against both clocks and the first exchange. In the briefing each viewpoint carries something the others cannot see: Thorne's unfiled four-line note, Syra's three readings of Report 22, Rook-7's count of who read what. The station's own report numbering is untouched.
+
 - **Only a genuine dilemma or conflict goes to Dermot** (`CLAUDE.md`, *Who approves whom*, 2026-10-13, his word). Every other open decision is settled by the recommendation, named in the PR body so he can overrule it.
 
 - **Decisions triage Opus first, then Fable, then Dermot** (`CLAUDE.md`, *Who approves whom*, 2026-10-13, Dermot's word). Opus settles an open decision or approval where precedent answers it; Fable sees only what Opus escalates, and Dermot only what Fable cannot settle and what is neither mechanical, mundane nor routine.
