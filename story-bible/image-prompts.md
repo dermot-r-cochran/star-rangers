@@ -1296,3 +1296,26 @@ With this card the four concept images the century audit sent to cards are all c
 ```powershell
 .\scripts\make-emblem-card.ps1 -Page src\lore\cerebraun.md -Device sphere -Tint '#1E1A2A' -Accent '#C2A9C8'
 ```
+
+## 2026-10-13 — The cloth clusters carded
+
+No generator prompts: three deterministic emblem cards from
+`make-emblem-card.ps1`, at Dermot's *"Archecluster fabric images are
+misleading - maybe just replace with a title card each?"* (13 October 2026).
+The photographs showed cloth, which the registry uses only as a name, so a
+reader took the metaphor for the object. Same palette as
+`lore/archecluster.jpg`, so the family reads as one; title and category are
+each page's own, with no epithet or qualifier, at finish 0. The previous
+photographs and their prompts stay in `images.md` and git.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\counterpane-archecluster.md -Device triad -Tint '#1A1830' -Accent '#B4AEDA'
+.\scripts\make-emblem-card.ps1 -Page src\lore\selvage-archecluster.md -Device rings -Tint '#1A1830' -Accent '#B4AEDA'
+.\scripts\make-emblem-card.ps1 -Page src\lore\wholecloth-formcluster.md -Device sphere -Tint '#1A1830' -Accent '#B4AEDA'
+```
+
+Devices: **triad** for Counterpane, a comparison read from three or more
+sources; **rings** for Selvage, as on its parent page; **sphere** for
+Wholecloth, a single closed circle for a sealed whole. Wholecloth is a
+formcluster, not an archecluster, and is carded with them because it is the
+same cloth as Selvage.

@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Counterpane, Selvage and Wholecloth carded** (`src/images/lore/`, 2026-10-13, Dermot's word). Their photographs of woven cloth read as literal objects, where the cloth is only the registry's name, so each page now carries an emblem card in the palette of *Inside an Archecluster*. The three `image_alt`s are rewritten.
+
 - **Aldera's gallery runs with two photographs** (2026-10-13, Dermot's word). The two frames of a tabby-and-white kitten with blue eyes (`field-photo-03`, `-04`) are retired, because they did not read as the tabby of her portrait. The two boat photographs stay.
 
 - **Rook-7, Syra and General Krast re-made** (2026-10-13, Dermot's picks). Rook-7 had read as childlike. It now stands at its desk with adult working proportions and a plain sensor faceplate in place of a mannequin's face. Syra had read as frail, which the Krenyi are not. She now has a healthy, settled face of no placeable age, a strong frame and nothing in her expression to read. Krast's portrait had read as a hand-tinted 1940s print, with US-style ribbons and stars. It is now an austere official portrait from her own century, in her fifties, with small silver rank marks. The prompts are in `story-bible/images.md` (Krast's is the first on record), and the three `image_alt`s are rewritten.
