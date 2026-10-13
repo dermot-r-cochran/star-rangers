@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Naval comparisons on the ladder** (`src/lore/star-rangers-command-hierarchy.md`, 2026-10-14, Dermot's word). Principal is roughly a naval lieutenant. Section Lead is between lieutenant and lieutenant commander. Chief is roughly a lieutenant commander and explicitly not a chief warrant officer.
+
 - **Glossary entries for Reclaimers, TAFS and Ashwardens** (`src/glossary/reclaimers.md`, `src/glossary/tafs.md`, `src/glossary/ashwardens.md`, 2026-10-13, Dermot's choice). Three short entries for the hidden systems of the 29th century that `civilisation-comparison.md` names, worded only from what that page and the Three-Era Framework timeline entry already say, with what the record has not established marked as such. TAFS is given by its initials alone, since no page expands them. Each carries its Union Irish line, and the comparison page now links the first mention of each.
 
 - **Senior, clarified** (`src/lore/star-rangers-command-hierarchy.md`, 2026-10-14, Dermot's word). A Senior is *frequently second on a team or shift, under its Section Lead*, replacing *a section's second*, which put a Senior above the Section Leads who outrank them.
