@@ -36,7 +36,7 @@ The 21st century is the anomaly. It is the **only era in which very high complex
 |---|---|---|---|
 | Technology visibility | Direct, manual | Highly visible (machines, infrastructure) | Almost invisible (Levril systems) |
 | Energy | Human and animal, biomass | Fossil fuels, renewables, nuclear | Entropy harvesting, background field extraction |
-| Waste handling | Accumulates locally | Managed via landfills and recycling systems | Instantly reclaimed (Reclaimers, TAFS) |
+| Waste handling | Accumulates locally | Managed via landfills and recycling systems | Instantly reclaimed ([Reclaimers](/star-rangers/glossary/reclaimers/), [TAFS](/star-rangers/glossary/tafs/)) |
 | Materials | Natural (wood, stone, metal) | Synthetic and advanced composites | Simple-appearing, but atomically reconfigurable |
 | Industry | Craft-based | Industrialised, global supply chains | Fully automated, hidden substrate network |
 | Knowledge | Limited, guild-controlled | Broad and digital | Vast — but abstracted and ritualised |
@@ -83,7 +83,7 @@ The 21st century demanded direct technical literacy. Engineers could inspect the
 
 **Visible supply chains.** Ports, warehouses, and manufacturing hubs could be seen, mapped, and disrupted. In the 29th century, supply flows through substrate caches and automated redistribution. What cannot be located cannot be interrupted in the same way.
 
-**Visible industry.** Factories, refineries, and power plants occupied land and left measurable waste. In the 29th century, Ashwarden interventions, entropy grids, and Reclaimer flows have replaced that presence with systems that leave almost nothing to argue with in public view.
+**Visible industry.** Factories, refineries, and power plants occupied land and left measurable waste. In the 29th century, [Ashwarden](/star-rangers/glossary/ashwardens/) interventions, entropy grids, and Reclaimer flows have replaced that presence with systems that leave almost nothing to argue with in public view.
 
 **Persistent waste.** The 21st century lived beside what it could not easily erase. In the 29th, TAFS filtering and Reclaimer pass-throughs remove degraded material before it can become civic memory.
 
