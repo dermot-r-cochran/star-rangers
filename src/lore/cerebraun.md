@@ -18,6 +18,9 @@ The **Cerebraun** are a sapient people that a human observer tends to describe a
 - Each of the species' eight primary limbs carries its own semi-autonomous ganglion, capable of independent sensory processing, reflexive decision-making, and — controversially, among xenobiologists who first documented it — a measurable degree of localized preference and mood.
 - The central brain does not fully override the limb-ganglia. It negotiates with them. A Cerebraun under stress can visibly experience one limb's ganglion acting against the central brain's stated intention, a phenomenon their own physicians treat as ordinary rather than pathological.
 - Skin bears chromatophore and texture-changing tissue capable of rapid, high-bandwidth display — used for identity signaling, emotional broadcast, and a formal display-language reserved for precise technical and diplomatic communication.
+- The body has no head and no front. It has an upper side and an underside and is otherwise the same from every direction. A Cerebraun has no pair of eyes. It sees through many small eyes set along its limbs, so each ganglion watches its own stretch of the room.
+- The eight limbs grow in two tiers of four and do different work. The lower four are short and bear the body's weight; the upper four are longer and do the handling. None carries suckers.
+- At rest the skin is dry, matte and finely grained, and holds one quiet tone; the display described above is something a Cerebraun does, not how one looks when still.
 
 ## Complex Inner Worlds
 
