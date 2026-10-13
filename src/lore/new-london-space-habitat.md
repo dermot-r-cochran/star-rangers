@@ -17,7 +17,7 @@ New London was built because the British Isles were drowning. It is still here, 
 
 ## Founding
 
-Construction began in the 2180s CE (2380s UCSD), a dating the habitat's own archives still print first, in the same custodial spirit that keeps everything else there in its original form.
+Construction began in the 2180s CE (2380s UCSD), a dating the habitat's own archives still print alongside the standard, in the same custodial spirit that keeps everything else there in its original form.
 
 The habitat was a response to the [Crisis Centuries](/star-rangers/lore/crisis-centuries-terran-wildlife/), and specifically to the climate-driven coastal fragmentation events of the 2130s and 2140s CE that had already cost the historical record its 2130s data-loss gap and reshaped every low-lying coastline on Earth. Large parts of the British Isles came out of those decades uninhabitable. What went up to L5 was an attempt to keep something that had been coastal, low-lying, and heavily archived from being lost in the same way twice.
 
