@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Seanad recognises no parties or factions** (`src/glossary/the-seanad-draw.md`, 2026-10-13). Senators of different clans do combine on the floor and a clan's senators sometimes divide, but no association or faction appears on the ballot or in the chamber's record, holds a bench or a whip, or speaks as a body; the marked absence is filled at Dermot's ruling. Also: Noah Adeyemi's portrait now shows the eighth day, empty-handed at his door, and the civilian dress note gains three principles (each place its own wardrobe, fashion local and slow, heritage in one chosen thing).
+
 - **Six portraits made distinct from characters they resembled** (`story-bible/images.md`, 2026-10-13). After a side-by-side look at all 75 human portraits, Rutger Voss, Wren and Adaeze Okafor, Zoe Smith, Yusuf Adair and Sofia Santos are regenerated so no two characters share a face, at Dermot's direction that existing characters may gain diversity where they would otherwise look too similar; the Okafor sisters keep a family likeness. Lev's pet carrier is now a seamless capsule of the century.
 
 - **Centuries labelled with their calendars** (2026-10-13). *Civilisation Comparison* names its eras as the 13th and 21st centuries CE and the 29th century UCSD (27th CE), with a note that the framework was built in the old count and extended in the new, so its third era lies six centuries after the second, not eight. The same labels in the framework's timeline entry, *What the Record Refuses*, and the Saint Aoife and Breanainn Ó Sé pages.
