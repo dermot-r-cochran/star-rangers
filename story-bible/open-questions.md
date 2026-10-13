@@ -2889,7 +2889,7 @@ drafted as `src/lore/the-archive.md`. Realized as `lib/archive-companions.js`
 and the *From the Archive* aside on every chapter; seventeen chapters carry
 the first `related:` lists. Nothing open.
 
-## Inter-clan parties and intra-clan factions in the Seanad — `intake-2026-10-06.md` — OPEN, his
+## ~~Inter-clan parties and intra-clan factions in the Seanad~~ — `intake-2026-10-06.md` — RULED 13 October 2026 (*Yes agreed*: (i), they exist in fact and the Seanad recognises neither; realized on *The Seanad Draw*)
 
 Dermot's direction, verbatim *status of inter-clan parties of intra-clan
 factions to be determined*. The glossary entry *The Seanad Draw* marks the
@@ -2993,6 +2993,6 @@ His direction that *genetic disorders can often be treated and cured during preg
 
 The table's columns are the 13th and 21st centuries (CE, the USC scholars' own notation before adoption) and the 29th (UCSD); in CE the present is the 27th, so the table reads an 800-year gap that is 600. The Saint Aoife page, Breanainn Ó Sé and *The Warm-Edge Correlation* set *a thirteenth-century holy woman* beside *a twenty-ninth-century* taxonomist or station the same way. (A) Label the columns and phrases with their calendars, *29th century UCSD (27th CE)*, and add one sentence in the page's own voice that the framework was built in CE and extended in UCSD; recommended, a clarification. (B) Re-key the page to CE throughout (*27th century*). (C) Leave the notation and only add the sentence, the mix itself being the in-world artefact.
 
-## One wardrobe for every human world — `civilian-dress.md`, review of 13 October 2026 — OPEN, his
+## ~~One wardrobe for every human world~~ — `civilian-dress.md`, review of 13 October 2026 — RULED same day (*Yes agreed*: (A); with fashion local and slow, and heritage in one chosen thing, principles 11 to 13)
 
 The note's prompt vocabulary (plain considered cuts, quiet natural colours, band collar, concealed closure) is applied everywhere, so Eden, Aethelrock, Thalassa, the frontier and Mars dress alike: *band collar* appears 27 times in `images.md`, and the 13 October cast sheet shows most of the cast in the same charcoal or olive jacket. That pulls against the same day's diversity and uniqueness directions. (A) The century lives in one detail of cloth (the closure, the seam, how it behaves); cut, layering, garment kind, colour and pattern follow each place's climate, work and culture, a dress line added per setting as pages need it; recommended, a clarification that leaves ruling 4 (colour personal, no colour customs) standing. (B) Write per-world dress notes now for the charter worlds, Eden, Thalassa and Mars. (C) Keep the vocabulary; vary colour only.

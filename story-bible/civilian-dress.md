@@ -103,6 +103,28 @@ and the record now holds no character who dresses old. See* Ashcombe, ruled
 10. **The hint of the century.** A present-day frame *may look plain, worn and
     ordinary … but not period*; History is exempt (`images.md`, 7 October).
 
+11. **Each place has its own wardrobe, and people do not dress alike.** RULED
+    13 October 2026 (Dermot, *"Yes agreed"*, to option A of *One wardrobe for
+    every human world*, with his uniqueness and diversity directions of the
+    same day). The century lives in one detail of cloth (a closure, a seam,
+    how the cloth behaves); cut, layering, garment kind, colour and pattern
+    follow each place's climate, work and culture, and each person's age,
+    build and taste. The vocabulary below is a range, not an outfit. Ruling 4
+    stands: colour is personal, and no place has a colour custom unless a page
+    names one. A dress line is added per setting as pages need it.
+
+12. **Fashion is local and slow.** RULED the same day (option A). With no FTL
+    communication a look can travel no faster than a ship, so there is no
+    fashion across the settled worlds: each habitat and world has its own
+    current look, styles move within it and are carried between worlds by
+    people, and a ship's crew is recognisable as being from somewhere.
+
+13. **Heritage may show in one chosen thing.** RULED the same day (option A).
+    A person may carry their heritage in one choice of their own (a pattern, a
+    garment form, a way of wearing it), never as costume and never as the
+    picture's point, as Aethelrock's setts are a custom kept. Dress has not
+    converged, and it has not frozen either.
+
 ## What follows, by setting
 
 - **Habitat professional** (Eden, Threshold, the Compact). DERIVED: a plain
@@ -151,16 +173,20 @@ uniform was ruled on 12 October.
 
 ## How a prompt says it — PROPOSED
 
-**Positive.** *Plain, well-made everyday clothing of the twenty-ninth century:
-simple considered cuts, soft matte woven and knitted cloth in quiet natural
-colours, a plain or band collar, a jacket with a concealed closure and no
-lapels, clean and cared for, honest mends; nothing printed, nothing lettered.*
-Name the place's reason (*layered for a cool habitat*, *weatherproof for an
-upland*), and name the work.
+**Positive.** *Well-made everyday clothing of the twenty-ninth century: simple
+considered cuts, soft matte woven and knitted cloth, clean and cared for,
+honest mends; nothing printed, nothing lettered.* Then choose, per person and
+against the cast already filed (principles 11 to 13): the garment (not always
+a jacket), the colour (the wearer's own, quiet or strong), the collar, the fit,
+and any one heritage element. Name the place's reason (*layered for a cool
+habitat*, *weatherproof for an upland*), and name the work.
 
 **The hint, in cloth.** One detail of cut or closure no past century had: a
 closure with no visible fastening, a seam that is a line and not stitching,
-a cloth that drapes like wool and is not quite wool. Never a light.
+a cloth that drapes like wool and is not quite wool. Never a light. Use it on
+one garment in a frame, or not at all where the room or the sky already
+carries the century; it is not a description of every jacket (the 13 October
+review found *band collar* in 27 prompts).
 
 **Standard negative.** *No science-fiction costume, no skin-tight bodysuit, no
 cape, no glowing trim or light strips, no visible electronics or screens on
