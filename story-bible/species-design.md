@@ -293,6 +293,17 @@ answer gets derived when a page needs it. Nothing below is canon.
   Shapes: (a) colour or pattern on the body, controllable, as some
   cephalopods have; (b) a carried object that reads in the water — a
   sound-maker, a tool worn where it can be seen.
+  **Taken for Mira of Brine's portrait prompt, 13 October 2026** (Fable,
+  under *Who approves whom*; his to overrule; `images.md` § 12): she is a
+  Ranger on duty (`src/lore/rank-insignia-and-uniform.md` names Pelagene
+  surveyors like Mira among the modular shell's wearers), so the prompt
+  gives the Rangers' shell as a Pelagene wears it, a few small fitted
+  sections seated between the folds with nearly all of the integument left
+  open, since the integument is the organ of perception and must stay wet
+  (`src/lore/pelagene-littoral.md`); and one plain seated tab with no
+  colour, her corps and rank being off the record, on the Veyr precedent
+  below. That is the Rangers' uniform on a Pelagene, not the people's own
+  equivalent, which stays open as (a) or (b).
 - **Veyr Basaltborn** — shapes: (a) a mark worked into the body's own
   surface; (b) a worn plate, on the Rangers' own magnetic principle,
   which would explain why the Veyr took to the Rangers' tab standard

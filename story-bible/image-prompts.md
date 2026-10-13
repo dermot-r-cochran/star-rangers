@@ -1297,6 +1297,21 @@ With this card the four concept images the century audit sent to cards are all c
 .\scripts\make-emblem-card.ps1 -Page src\lore\cerebraun.md -Device sphere -Tint '#1E1A2A' -Accent '#C2A9C8'
 ```
 
+## 2026-10-13 — Mira of Brine, a portrait prompt from the Pelagene page (issue #1129)
+
+Step 1 of issue #1129: the prompt, written on Fable under the 11 October
+model split. Nothing generated and nothing filed; the emblem card at
+`src/images/characters/mira-of-brine.jpg` and its alt stay until a frame is
+filed from the desktop.
+
+### mira-of-brine.jpg — prompt written 13 October 2026, NOT YET GENERATED
+- **Type:** generation, replacing a designed emblem card whose silhouette is humanoid where `src/lore/pelagene-littoral.md` gives a radially symmetrical body
+- **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only mira-of-brine`
+- **Date:** prompt 2026-10-13; generation pending
+- **Source:** `src/lore/pelagene-littoral.md` (the body, the senses, the never-had-fire chemistry), `src/characters/mira-of-brine.md` (the humid high-pressure section, condensation on cold panels, coolant turbulence), `src/lore/rank-insignia-and-uniform.md` (Pelagene surveyors like Mira wear the modular shell)
+- **Prompt / recipe:** of record in `images.md` § 12, *Missing portraits — Mira of Brine, from the Pelagene page*, the one shape `scripts/image-prompts.js` parses; not duplicated here. Opens as a documentary photograph taken inside the world by a 29th-century camera; the body from its page (vertical axis, no front, no head or eyes, folded wet integument, cirri at simultaneous work, a boneless body settled in air); the Rangers' shell as a Pelagene wears it with one plain seated tab; render negatives, and the Earth animals and the card's humanoid refused by name.
+- **Notes:** 16:9 landscape, filed through `import-image.ps1 -MaxEdge 1200` at finish strength 1. The card at the target path makes the entry read as *done* to `--list`; `--only` generates regardless. Triage each variation for the Earth animal before its century: a starfish, a jellyfish, an octopus or a humanoid fails whatever else it gets right. Readings taken for the frame, Fable's under *Who approves whom* and his to overrule, none written to a page: the bulk of a crouched adult human; an opaque mottled grey-green; no eyes; the folds running up and down; the shell as a few fitted sections between the folds; the tab plain and colourless on the Veyr precedent (recorded in `species-design.md`, *The uniform equivalent*). The hydration cycles are kept out of frame on the page's own warning that they read as frailty. Alt text to be written from the filed frame.
+
 ## 2026-10-13 — The cloth clusters carded
 
 No generator prompts: three deterministic emblem cards from
