@@ -57,6 +57,8 @@ At night the rings dim to a warm amber pitched at gaslight, and the transparent 
 
 All of which sits awkwardly beside the fact that the Crown-in-Parliament below it passes real legislation. New London is at once the most theatrical and the most functional thing in Earth orbit, and it does not experience the two as a contradiction: the birdsong is a recording and the bills are law, and the habitat's own answer, when pressed, is that a culture is entitled to decide which of its inheritances it keeps working and which it keeps merely present.
 
+Measures fall along the same line. The street keeps the old ones: the pubs pour pints, the market weighs in pounds and ounces, and the distances on the promenade are posted in yards and miles. Everything that has to agree with somebody outside the rings does not. The habitat's engineering, its navigation and docking, its customs papers and the Crown-in-Parliament's own statute book run on the same units as the rest of the Solar System, because a ring's spin, a docking clearance and a law that binds trade have to mean the same thing at both ends. Where the old measure survives in a record it is printed beside the standard one, as the old era is printed beside the UCSD date, and never instead of it.
+
 ## Population and Governance
 
 New London houses approximately **180,000 residents**, some sixty thousand to a ring, most of them descended from the British evacuation programmes. Immigration policy was restrictive for most of the habitat's history and has relaxed considerably in recent decades, a shift that tracks the slow argument above about what the place is now for.
