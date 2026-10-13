@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Institute's units** (2026-10-14, Dermot's *Option 1*). The *fold-dynamics section* and the *comparative testimony section* are now the fold-dynamics unit and the comparative testimony unit, on Ausma Reihl's and Maren Ilves's pages, in the two codex entries' author lines and citations, and in a migration-map row. `the-institute.md` gains a sentence saying the Institute is divided into faculties, schools, divisions and units.
+
 - **Every organisation has its own structure** (canonical guide, *Department / section*, 2026-10-14, Dermot's word). The Corps' department, section and ranks belong to the Star Rangers. Every other major organisation is described in its own terms, and the Institute is divided into faculties, schools, divisions and units.
 
 - **The Institute keeps its own structures** (canonical guide, *Department / section*, 2026-10-14, Dermot's word). The Institute is more like a civilian university, so its sections are its own academic units and are not renamed to departments.

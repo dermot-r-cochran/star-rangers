@@ -2,7 +2,7 @@
 layout: character.njk
 title: "Maren Ilves"
 id: maren-ilves
-role: "Comparative testimony section, The Institute"
+role: "Comparative testimony unit, The Institute"
 status: Active
 aliases:
   - "Dr. Maren Ilves"
@@ -11,7 +11,7 @@ description: "The Institute researcher whose paper on the dead took judgment, pu
 known_codex: [three-claims-concerning-the-dead]
 ---
 
-Maren Ilves works in the comparative testimony section of [the Institute](/star-rangers/lore/the-institute/), the secular research body of no fixed world that accepts the instruments and declines the cosmology, and is the author of Institute paper no. 9204, [Three Claims Concerning the Dead, Considered Separately](/star-rangers/codex/three-claims-concerning-the-dead/). The section's material is testimony: doctrinal texts, funeral liturgies and witness accounts taken in grief, read with the Institute's practice of extracting the observational content and leaving the rest visibly untouched.
+Maren Ilves works in the comparative testimony unit of [the Institute](/star-rangers/lore/the-institute/), the secular research body of no fixed world that accepts the instruments and declines the cosmology, and is the author of Institute paper no. 9204, [Three Claims Concerning the Dead, Considered Separately](/star-rangers/codex/three-claims-concerning-the-dead/). The section's material is testimony: doctrinal texts, funeral liturgies and witness accounts taken in grief, read with the Institute's practice of extracting the observational content and leaving the rest visibly untouched.
 
 The paper is written in the Institute's plural voice and uses no cosmology. It argues from the record of consequence, the record of persistence and non-persistence, and the comparative archive of what traditions actually teach, and it says on its first page who it is for: the bereaved are owed the same care with evidence as anyone else, and receive a great deal less of it.
 
@@ -19,7 +19,7 @@ The paper is written in the Institute's plural voice and uses no cosmology. It a
 
 - Author of [Three Claims Concerning the Dead, Considered Separately](/star-rangers/codex/three-claims-concerning-the-dead/), Institute Papers no. 9204, circulated open. Its finding is that filing judgment, punishment and reward as one doctrine is the error, and the only error the paper is confident of. Punishment reads a true regularity about parasitic structures backwards and carries it past its evidence to persons. Reward is not a claim the paper can evaluate, and is filed. Judgment compresses a plain observational fact, that nothing done is erasable, into a form teachable to anyone.
 - Its null-results section, printed at the finding's length per house rule, records that inheritance, the Institute's standard account of true content in devotional vocabulary, cannot explain why traditions with no demonstrable contact converge on the same architecture, and that the paper cannot construct the observation that would overturn its own finding on judgment. The items are left open.
-- The paper is undated. Its number follows the fold-dynamics section's Dock Seven paper, no. 8811, and the record places it after that account, which puts it after 2831 UCSD.
+- The paper is undated. Its number follows the fold-dynamics unit's Dock Seven paper, no. 8811, and the record places it after that account, which puts it after 2831 UCSD.
 
 ## Character Notes
 
