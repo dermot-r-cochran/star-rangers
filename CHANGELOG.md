@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **"Archon systems" removed from *The Critical Insight*** (`src/lore/civilisation-comparison.md`, 2026-10-13). *Archon* is Threnos-Ω's own word for a Harmonarch, and the canonical guide keeps it out of general usage, where it names nothing. The line now lists Levrils, Reclaimers and Ashwardens, as the rest of the page does.
+
 - **The four polities are not the whole settled reach** (`src/lore/civilisation-comparison.md`, *Four Polities by Extent*, 2026-10-13, Dermot's word). A clarification: the section read as if the Hegemony, the Federation, the Celtic Union and the Solar System were everyone. It now says that some isolated settlements (the Kingdom of the Five Islands, Quern) and several peoples (the Told of Fliade) belong to none of the four.
 
 - **Mira of Brine's portrait** (`src/images/characters/mira-of-brine.jpg`, 2026-10-13). The humanoid emblem card is replaced by a generated photograph from the Pelagene page's body: radially symmetrical, no face, cirri at work along a wall seam. `image_alt` rewritten; the frame choice is recorded in `story-bible/images.md` § 12. Closes #1129.

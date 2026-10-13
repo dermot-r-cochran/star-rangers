@@ -129,7 +129,7 @@ The 29th century is not primitive. It is **post-comprehension**.
 
 - The 13th century lacks knowledge.
 - The 21st century wrestles openly with complexity.
-- The 29th century hands complexity to Levrils, Reclaimers, and Archon systems, then argues over how much human agency should remain.
+- The 29th century hands complexity to Levrils, Reclaimers and Ashwardens, then argues over how much human agency should remain.
 
 This is the civic setting that produces the guild system, the Coherence Index, and the Star Rangers' mandate. The question is not merely *can we manage the boundary systems* but *should we, under whose authority, and with what protection against failures no one can yet see*.
 
