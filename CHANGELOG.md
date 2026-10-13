@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Dress by place, and a wardrobe extractor** (`story-bible/civilian-dress.md`, `scripts/extract-wardrobe.js`, 2026-10-13). The civilian dress note gains a dress line for eighteen settings, each line marked derived from its place's page or proposed; a local tool builds the data for a private reference artefact from that section and the character portraits, regenerated at each release with the other three.
+
 - **The Seanad recognises no parties or factions** (`src/glossary/the-seanad-draw.md`, 2026-10-13). Senators of different clans do combine on the floor and a clan's senators sometimes divide, but no association or faction appears on the ballot or in the chamber's record, holds a bench or a whip, or speaks as a body; the marked absence is filled at Dermot's ruling. Also: Noah Adeyemi's portrait now shows the eighth day, empty-handed at his door, and the civilian dress note gains three principles (each place its own wardrobe, fashion local and slow, heritage in one chosen thing).
 
 - **Six portraits made distinct from characters they resembled** (`story-bible/images.md`, 2026-10-13). After a side-by-side look at all 75 human portraits, Rutger Voss, Wren and Adaeze Okafor, Zoe Smith, Yusuf Adair and Sofia Santos are regenerated so no two characters share a face, at Dermot's direction that existing characters may gain diversity where they would otherwise look too similar; the Okafor sisters keep a family likeness. Lev's pet carrier is now a seamless capsule of the century.
