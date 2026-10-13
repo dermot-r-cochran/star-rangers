@@ -24,14 +24,19 @@ civilian cloth is *the entry working, not the entry contradicted* (`images.md`,
 19 August note). What reads as twentieth-century is the generator's: a lapelled
 sports jacket over an open collar is the stock detective, and the portrait was
 filed before the 7 October hint rule existed. Herringbone itself is a weave as
-old as looms and need not date anything; the cut does. Whether to make it a
-trait is open item 1.
+old as looms and need not date anything; the cut does. (Prompts still negate
+it, because the generator draws it as a sports jacket; the standard negative
+below is a prompt rule, not a claim about the cloth.) Whether to make it a
+trait was open item 1, ruled *not retro* on 11 October.
 
 The record does hold one deliberately dressy officer: Bertram Ashcombe, *"immaculately
 dressed"*, who *"dresses for the job he believes he is doing"*
 (`src/characters/bertram-ashcombe.md`), and whose prompt says *the formality is
 his, not the room's*. That is the shape a deliberate choice takes: the page
-says it.
+says it. *(Superseded 12 October 2026: his page's* uniform *was ruled to
+stand, so he wears the Threshold Station Constabulary's uniform, immaculate,
+and the record now holds no character who dresses old. See* Ashcombe, ruled
+*below.)*
 
 ## The principles the record already forces
 
@@ -136,11 +141,13 @@ says it.
   member off duty dresses as a civilian of wherever home is. An independent
   courier has no uniform at all (Lorien's unmarked flight jacket, in practice).
 
-*Found in passing, not acted on:* two Survey Corps officers at work on Vellamar
+*Found in passing, since resolved:* two Survey Corps officers at work on Vellamar
 are shown in what may not read as the olive Survey shell (Emma la Chapelle's
 green field jacket over a leather vest, Ernesto Strozzi's khaki shirt), which
 the no-plain-clothes rule would refuse, and Ashcombe's page says *uniform* where
-his portrait shows a suit. Worth a check when each is next re-made.
+his portrait shows a suit. Both resolved: la Chapelle and Strozzi were re-made
+in the Survey shell in the century audit's batch 3 (11 October), and Ashcombe's
+uniform was ruled on 12 October.
 
 ## How a prompt says it — PROPOSED
 
@@ -161,7 +168,8 @@ clothing, no shoulder pads, epaulettes, braid or armour; no twentieth-century
 business suit, necktie, lapelled sports jacket, tweed or herringbone, trench
 coat or hat-brim detective look; no name tape, logo, badge or lettering on any
 garment.* The period items are dropped from the negative only where the page
-says the character dresses old (Ashcombe) or the frame is History.
+says the character dresses old (no page does, since 12 October) or the frame
+is History.
 
 ## Ruled 11 October 2026
 
@@ -199,3 +207,4 @@ Dermot accepted all five recommendations below as put (*"Accept all five"*), so 
 
 **Two further rulings, 11 October 2026.** The clan setts of Aethelrock are now a lore page (`src/lore/the-setts-of-aethelrock.md`, at his *"Add a lore page for the clan colours and tartans, if still in use"*), with the five colourings first chosen for the batch-3 portraits made canon; Clan Avalon has no sett on record. And at the Kingdom of the Five Islands' court the Survey writes by hand (his *"Keep, as a courtesy"*, on Emma la Chapelle's notebook and pencil): the delegation brings nothing into the Kingdom's rooms that the court would read as a machine.
 
+**Read against the rulings of 13 October 2026** (`intake-2026-10-13.md`; the Benevolent Critic's pass the same day). Three directions of that day bear on dress, and none changes a rule above. *Bodies of the century:* bodies differ by training, work, age and heritage, a heavy working build is fit, and prosthetics rarely look like prosthetics, so clothing is cut for the person and never to hide or display a replaced limb. *Cleaner settlements:* kept clothes in kept places, as principle 7 already says. *Retro-futurist design passes when it looks intentional:* that allowance was given for furnishings and does not reopen ruling 2, so a lapelled jacket or a necktie still waits for a page that says a character dresses old.
