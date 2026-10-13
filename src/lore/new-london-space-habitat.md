@@ -17,7 +17,7 @@ New London was built because the British Isles were drowning. It is still here, 
 
 ## Founding
 
-Construction began in the 2380s UCSD — the 2180s CE, a dating the habitat's own archives still print alongside the standard, in the same custodial spirit that keeps everything else there in its original form.
+Construction began in the 2180s CE (2380s UCSD), a dating the habitat's own archives still print first, in the same custodial spirit that keeps everything else there in its original form.
 
 The habitat was a response to the [Crisis Centuries](/star-rangers/lore/crisis-centuries-terran-wildlife/), and specifically to the climate-driven coastal fragmentation events of the 2130s and 2140s CE that had already cost the historical record its 2130s data-loss gap and reshaped every low-lying coastline on Earth. Large parts of the British Isles came out of those decades uninhabitable. What went up to L5 was an attempt to keep something that had been coastal, low-lying, and heavily archived from being lost in the same way twice.
 
@@ -83,7 +83,7 @@ Crucially, **New London is not a member of the [Orbital Habitats Compact](/star-
 
 ## The L5 Problem
 
-New London has been at Earth–Moon L5 since the 2380s. Fold transit did not become practical for anyone until the [Eden Passage](/star-rangers/lore/eden-space-habitat/) was confirmed in 2712 UCSD, more than three centuries later.
+New London has been at Earth–Moon L5 since the 2180s CE (2380s UCSD). Fold transit did not become practical for anyone until the [Eden Passage](/star-rangers/lore/eden-space-habitat/) was confirmed in 2712 UCSD, more than three centuries later.
 
 When Survey Corps subsequently classified [Lagrange points for fold operations](/star-rangers/lore/lagrange-fold-points/), the criterion it settled on was gravitational flatness — and L4 and L5 of any stable two-body system, a planet and a large moon included, fell into **Tier 1: designated fold-staging zones**, the preferred sites for aperture generation.
 
