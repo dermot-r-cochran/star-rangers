@@ -2424,7 +2424,7 @@ where each goes:
 | File | Current | Route |
 |---|---|---|
 | ~~`characters/agent-barsik.jpg`~~ | ~~512×1024~~ | **regenerated 3 September 2026** at 1200×670, prompt revised (the "terminals" line was drawing monitors) — drafted for review |
-| `characters/aldera/field-photo-03.jpg`, `-04.jpg` | 512×1120 — **PNG data under a .jpg extension** | re-crop from Dermot's own originals — see the Aldera note below; his hands, stays here |
+| ~~`characters/aldera/field-photo-03.jpg`, `-04.jpg`~~ | 512×1120 — **PNG data under a .jpg extension** | **Retired 13 October 2026** at Dermot's word, *"drop the other two kitten images that don't align"*: the tabby-and-white kitten with blue eyes did not read as the tabby of the portrait. The gallery now runs with two; see the Aldera note below |
 | ~~`lore/prismere-*` / `prismeri-*` — 11 files~~ | ~~768×1152~~ | **regenerated 3 September 2026** as one batch at 1600×893, two variants each; the eight `prismere-*` approved and merged, the three `prismeri-*` rejected as still humanoid, then **regenerated the same evening to the derived body** and drafted for review |
 | ~~`lore/prismere-root-mat-network.jpg`~~ | ~~773×1152~~ | **regenerated with the set, 3 September 2026** |
 
@@ -2652,6 +2652,7 @@ follow, and both are cheap:
 card while its sibling Saltmere entries have two photographs each; the Knarr
 Line's Nordic-heritage coastal world wants a real cold-coast frame.
 
+*(Resolved 13 October 2026: the second choice below was taken. Dermot had the two frames dropped because the tabby-and-white kitten did not match the tabby of the portrait, and the gallery runs with `field-photo-01`/`-02`. He called the causeway portrait "the best one and the most correct" the same day.)*
 **Aldera gallery (`field-photo-03`/`-04`) — re-crop, don't generate** (moved
 from the retired `firefly-prompts.md` § D). `field-photo-01`/`-02` read as
 photographs of a real kitten in a boat; generated frames in the same gallery
