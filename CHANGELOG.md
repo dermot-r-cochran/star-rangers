@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The four polities are not the whole settled reach** (`src/lore/civilisation-comparison.md`, *Four Polities by Extent*, 2026-10-13, Dermot's word). A clarification: the section read as if the Hegemony, the Federation, the Celtic Union and the Solar System were everyone. It now says that some isolated settlements (the Kingdom of the Five Islands, Quern) and several peoples (the Told of Fliade) belong to none of the four.
+
 - **Mira of Brine's portrait** (`src/images/characters/mira-of-brine.jpg`, 2026-10-13). The humanoid emblem card is replaced by a generated photograph from the Pelagene page's body: radially symmetrical, no face, cirri at work along a wall seam. `image_alt` rewritten; the frame choice is recorded in `story-bible/images.md` § 12. Closes #1129.
 
 - **S01E01C01 and S01E01C02 rewritten toward 450 words a viewpoint** (`src/seasons/s01/e01/`, 2026-10-13, a draft for Dermot's approval from the 13 October reader review). Thorne's opening now ends on the two clocks above the seal and the hatch instead of *This was going to be interesting*; Syra arrives having read the public release that closed the forty seconds; Rook-7 logs the seal cycle against both clocks and the first exchange. In the briefing each viewpoint carries something the others cannot see: Thorne's unfiled four-line note, Syra's three readings of Report 22, Rook-7's count of who read what. The station's own report numbering is untouched.
