@@ -2989,6 +2989,6 @@ His direction that *genetic disorders can often be treated and cured during preg
 
 (A) The three published *cosmetic nanites* (environmental technology, Terran wildlife, Tír na nÓg) stand as bounded, non-replicating upkeep, with surgical microdrones for medicine; recommended, no page changes. (B) *Nanite* leaves the record and the three pages are revised to drones.
 
-## Mixed calendars in *Civilisation Comparison* and the Aoife lines — `intake-2026-10-13.md` — OPEN, his
+## ~~Mixed calendars in *Civilisation Comparison* and the Aoife lines~~ — `intake-2026-10-13.md` — RULED same day (*Yes please*: (A), labelled, one explanatory sentence; *The Warm-Edge Correlation* left in its author's voice)
 
 The table's columns are the 13th and 21st centuries (CE, the USC scholars' own notation before adoption) and the 29th (UCSD); in CE the present is the 27th, so the table reads an 800-year gap that is 600. The Saint Aoife page, Breanainn Ó Sé and *The Warm-Edge Correlation* set *a thirteenth-century holy woman* beside *a twenty-ninth-century* taxonomist or station the same way. (A) Label the columns and phrases with their calendars, *29th century UCSD (27th CE)*, and add one sentence in the page's own voice that the framework was built in CE and extended in UCSD; recommended, a clarification. (B) Re-key the page to CE throughout (*27th century*). (C) Leave the notation and only add the sentence, the mix itself being the in-world artefact.

@@ -20,7 +20,7 @@ tags: [history, usc, three-era-framework, guild, infrastructure, civilisation, t
 </header>
 <div class="lore-entry__body">
 
-The Three-Era Framework was not codified in one act; it matured across the eras it describes. Its core comparison — the 13th and 21st centuries as opposite relationships between technological capability and technological visibility — appears in USC-era historical scholarship, which adopted the two-era contrast as a standard reference model. The third column was added by the historians who lived in it: present-era archivists extended the framework to the 29th century once it became clear their own time had completed the pattern the USC scholars had only projected.
+The Three-Era Framework was not codified in one act; it matured across the eras it describes. Its core comparison — the 13th and 21st centuries as opposite relationships between technological capability and technological visibility — appears in USC-era historical scholarship, which adopted the two-era contrast as a standard reference model. The third column was added by the historians who lived in it: present-era archivists extended the framework to the 29th century, in the Concord's count (the 27th CE), once it became clear their own time had completed the pattern the USC scholars had only projected.
 
 The key finding is counterintuitive: the 21st century is the historical outlier, not the norm. It is the only era in which civilisational complexity was both extremely high **and** fully exposed to lay comprehension. All other eras — before and after — converge on a pattern of legible simplicity at the surface, regardless of what operates beneath.
 

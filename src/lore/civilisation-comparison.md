@@ -12,6 +12,8 @@ A cart breaks in the street. In one century, hands gather around it. In another,
 
 That single scene explains why USC historians keep returning to the 13th, 21st, and 29th centuries. The comparison is counterintuitive: on the surface, the 29th century resembles the 13th more than the 21st. That resemblance matters for Velmora, the guild system, and the political memory behind the Boundary Crisis.
 
+A note on the numbering, because it misleads. The framework was built by USC historians, who wrote before the Concord's count was adopted, so its first two eras keep their common-era names. Its third was added in the Concord's count, which runs two hundred years ahead. The 29th century UCSD is the 27th CE: the third era lies six centuries after the second, not eight.
+
 ---
 
 ## The Core Pattern
@@ -20,9 +22,9 @@ Each era can be plotted on two axes: **technological capability** and **visibili
 
 | Era | Capability | Visibility | Control |
 |---|---|---|---|
-| 13th century | Low | High — everything is direct and manual | Low |
-| 21st century | High | High — machines and infrastructure are everywhere | High (with effort) |
-| 29th century | Extremely high | Almost invisible — Levril systems operate beneath perception | Extremely high (but abstracted) |
+| 13th century CE | Low | High — everything is direct and manual | Low |
+| 21st century CE | High | High — machines and infrastructure are everywhere | High (with effort) |
+| 29th century UCSD (27th CE) | Extremely high | Almost invisible — Levril systems operate beneath perception | Extremely high (but abstracted) |
 
 The 21st century is the anomaly. It is the **only era in which very high complexity remains fully exposed**. The 13th century is legible because it is simple. The 29th is legible on the surface only because its deepest machinery has vanished from sight.
 
@@ -30,7 +32,7 @@ The 21st century is the anomaly. It is the **only era in which very high complex
 
 ## Comparative Table
 
-| Dimension | 13th Century | 21st Century | 29th Century |
+| Dimension | 13th Century CE | 21st Century CE | 29th Century UCSD (27th CE) |
 |---|---|---|---|
 | Technology visibility | Direct, manual | Highly visible (machines, infrastructure) | Almost invisible (Levril systems) |
 | Energy | Human and animal, biomass | Fossil fuels, renewables, nuclear | Entropy harvesting, background field extraction |
