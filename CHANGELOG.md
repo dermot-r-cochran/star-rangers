@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **General operations and special purpose missions** (`src/lore/star-rangers-command-hierarchy.md`, canonical guide, 2026-10-14, Dermot's word). Academy teaching postings and Planetary Representatives are not normally general operations. A general operations mission may be led by a Chief; a special purpose mission is led by a Starwarden or above. *Special purpose* replaces yesterday's *special operations*, with a migration-map row.
+
 - **Track Is Not Corps** (`src/lore/star-rangers-command-hierarchy.md`, canonical guide, 2026-10-13, Dermot's word). A clarification: a Ranger of any corps may hold the general operations track, and general operations is the usual (not the only) road from Chief to Starwarden. A mixed mission under a Starwarden or above is filed as general or special operations depending on the context, and neither name means a combat formation. Recorded in `story-bible/intake-2026-10-13.md`.
 
 - **The Cerebraun body, ruled and extended** (`src/lore/cerebraun.md`, *Physical and Cognitive Characteristics*, 2026-10-13, Dermot's *Approved* on PR #1178). Three points are added as an extension: no head and no front, with eyes along the limbs; two tiers of four limbs, with no suckers; and dry, matte skin at rest. The draft's status is updated in `species-design.md` and `open-questions.md`.
