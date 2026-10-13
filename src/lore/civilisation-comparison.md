@@ -161,7 +161,7 @@ All three worlds solve the same problem. Only the third leaves the witnesses una
 
 ## Four Polities by Extent
 
-Everything above is drawn from the Solar System's own history, because that is the history USC historians had to compare. By the record's present the Solar System is one polity among four, and the smallest of them in reach. Counted by star systems, the four stand in this order:
+Everything above is drawn from the Solar System's own history, because that is the history USC historians had to compare. By the record's present the Solar System is one of four neighbouring polities, and the smallest of them in reach. The four are not the whole of the settled reach. Some isolated settlements answer to none of them, such as the [Kingdom of the Five Islands](/star-rangers/lore/planets/kingdom-of-the-five-islands/) and [Quern](/star-rangers/lore/planets/quern/). Several peoples belong to none of them either, such as [the Told of Fliade](/star-rangers/lore/planets/fliade/), whom the survey found before any polity had business on that world. Counted by star systems, the four stand in this order:
 
 | Polity | Star systems | How the reach is held |
 |---|---|---|
