@@ -21,7 +21,7 @@ The paper is the Warm-Edge Correlation. After the Dock Seven failure of Mid-Autu
 - Ridgemoot chaplain keeping Aoife's devotion; serving Threshold Station under the Celtic Union devotional chaplaincy at the time of the paper. [The Warm-Edge Correlation](/star-rangers/codex/the-warm-edge-correlation/), circulated as an unnumbered working paper after Mid-Autumn 2831 UCSD; a copy is held in the reconciliation binders beside the Dock Seven incident file.
 - His caution: the devotion he keeps has every reason to want the warm edge to mean mercy, and that wanting is precisely why the devotion must not be the one to say it does. A devotion that decided on Line Captain Shepherd's behalf that a levril at her boundary was a saint sent to save her would be turning a woman still becoming into a meaning, and closing a file that is not hers to close.
 - His further precision, which he asked to stand in the record: even the word *divine* settles nothing, because in this cosmology it has no fixed referent, so to call the warm edge "divine mercy" is to claim a precision the setting itself does not have. A levril is a levril.
-- More than one Ridgemoot chaplain is on record with the Union's prevailing position, that a thirteenth-century holy woman and a twenty-ninth-century Cascade taxonomist were never answering the same question; whether Ó Sé is among them the record does not say.
+- More than one Ridgemoot chaplain is on record with the Union's prevailing position, that a thirteenth-century (AD) holy woman and a twenty-ninth-century (UCSD) Cascade taxonomist were never answering the same question; whether Ó Sé is among them the record does not say.
 
 ## Character Notes
 
