@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Five small corrections from a reader review** (2026-10-13, Dermot's *agreed as recommended*). S01E01C01: Thorne's roster now counts two new transfers, as arrive. S01E02C03: Rook-7's note no longer quotes as Syra's statement a line she only thought. S07E01C01 and S07E01C03: three phrases in the author's voice (*the setting had a name for*, *canon had a name for*) now name in-world sources (*the record*, *the Survey Archive*).
+
 - **New chapter: *A Working That Worked* (S01E02C00)** (`src/seasons/s01/e02/s01e02c00.md`, 2026-10-13). Elvira's dream, drafted and approved on 3 September 2026, is placed as the chapter before *The Broken Causeway* at Dermot's choice of slot: she dreams a working that takes and changes Aldera's shape, and on waking files the mechanism as the village's and the wish as her own; Aldera's log notes the morning and does not ask. The approved text is unchanged except that Aldera's log calls Elvira *Subject A*, matching S01E02C01. Elvira and Aldera POVs.
 
 ## [1.39.0] — 2026-10-12
