@@ -15,7 +15,7 @@ image_alt: "Anne de Courtney, a woman in her fifties with grey hair drawn back, 
 
 The Kingdom granted the Survey Corps a single standing delegation on Vellamar and nothing else. Anne de Courtney has spent her tenure making sure that stays exactly what it is, which has required declining considerably more from her own side of the table than from the Kingdom's.
 
-She holds the delegation as a Chief Ranger — a general operational section, in the Corps' own accounting, of a size that would be unremarkable at a boundary post and is the entire Solar System presence on this world. What she answers for is a compound at the edge of the capital, the people working out of it, and a relationship nobody has written the rules for yet.
+She holds the delegation as a Chief Ranger — a general operations department, in the Corps' own accounting, of a size that would be unremarkable at a boundary post and is the entire Solar System presence on this world. What she answers for is a compound at the edge of the capital, the people working out of it, and a relationship nobody has written the rules for yet.
 
 ## Known History
 

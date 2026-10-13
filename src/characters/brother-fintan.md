@@ -9,7 +9,7 @@ aliases:
   - "Chief Warden Officer Fintan Delaney (Ret.)"
   - "The Beekeeper of Cnoc na mBeach"
 tags: [church-space, communion-of-the-called, star-rangers, safety-corps, chief, retired, monastic, beekeeping, human, celtic-union]
-description: "A retired Star Rangers Chief on the boundary-safety track who traded thirty years of instrument-reading for a hive-yard on the Cnoc na mBeach hermitage — and finds the two disciplines less different than his old section expected him to."
+description: "A retired Star Rangers Chief on the boundary-safety track who traded thirty years of instrument-reading for a hive-yard on the Cnoc na mBeach hermitage — and finds the two disciplines less different than his old department expected him to."
 image: "brother-fintan.jpg"
 image_alt: "Brother Fintan, a white-haired man with a short white beard, in a dark wool jumper, among plain wooden hives in a whitewashed stone hive-yard at first light, one hand flat on a hive roof and his head inclined toward it, a few bees in the air. Green hills rise into mist behind, and in the pale sky above them one small point of light."
 ---

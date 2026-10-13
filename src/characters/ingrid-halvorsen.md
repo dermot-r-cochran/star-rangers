@@ -28,6 +28,6 @@ What she has not filed anywhere is the question six revisits have left her carry
 
 - Survey track from Cadet; correlation calibration branch from Senior.
 - Present on the Counterpane revisits from the second onward, running the three-source bench on each.
-- Spring 2829 UCSD: the seventh revisit, with Chief Ranger Tissadelle Shepherd commanding the general operations section — the first commanding officer in six revisits to ask for a stream.
+- Spring 2829 UCSD: the seventh revisit, with Chief Ranger Tissadelle Shepherd commanding the general operations department — the first commanding officer in six revisits to ask for a stream.
 
 See also: [Counterpane: The Discrepant Archecluster](/star-rangers/lore/counterpane-archecluster/), [Inside an Archecluster](/star-rangers/lore/archecluster/), [The Scope of Physical Law](/star-rangers/lore/the-scope-of-physical-law/), [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/), [Honest Clocks (S03E02C02)](/star-rangers/seasons/s03/e02/s03e02c02/).
