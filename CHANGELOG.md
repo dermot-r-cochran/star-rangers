@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Only a genuine dilemma or conflict goes to Dermot** (`CLAUDE.md`, *Who approves whom*, 2026-10-13, his word). Every other open decision is settled by the recommendation, named in the PR body so he can overrule it.
+
 - **Decisions triage Opus first, then Fable, then Dermot** (`CLAUDE.md`, *Who approves whom*, 2026-10-13, Dermot's word). Opus settles an open decision or approval where precedent answers it; Fable sees only what Opus escalates, and Dermot only what Fable cannot settle and what is neither mechanical, mundane nor routine.
 
 - **Journal entries and phrase passes move to Opus** (`CLAUDE.md`, *Which model does which work*, 2026-10-13, Dermot's word). A Journal entry is an essay on how the work is made, so it is judgement work; only story prose quoted or drafted inside one stays with Fable. A repetition pass that varies an existing phrase invents nothing and goes to Opus too.
