@@ -12,7 +12,7 @@ aliases:
 tags: [human, star-rangers, chief-pilot, pilot-section, high-captain, season-1]
 description: "Chief Pilot of the pilot section at the start of Season 1; later known as High Captain Wender. The specialist's route: Novice to Chief Pilot on a single track, and only then into command."
 image: "karla-wender.jpg"
-image_alt: "Karla Wender, a woman with short brown hair, in a dark grey field shell with a small deep-indigo tab at the collar, standing by a clear table in a kept, pale ready room, one hand resting on a closed flight case."
+image_alt: "A woman in her forties in a plain charcoal field shell with a small indigo rank tab at the collar, standing at the end of a table in a pale coved ready room, one hand flat on the bare table beside a mug and a folded jacket, listening to someone out of frame; a long low window behind her shows black space"
 ---
 
 The pilot section works in conditions where most navigation instruments fail: boundary-proximate transit, folding-adjacent approach corridors, edge conditions at [Concordant](/star-rangers/glossary/concordant/) overlap zones. Wender commands it.

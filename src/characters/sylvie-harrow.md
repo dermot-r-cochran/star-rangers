@@ -9,7 +9,7 @@ aliases: []
 tags: [human, eden, witness, orbital-habitats-compact, undercover-pets.com]
 description: "A claims assessor and the principal witness in one of DI Albercombe's open referrals — whose statement contains no false sentence, no inconsistency, and nothing that catches. Two intelligences have independently noticed that this is the problem."
 image: "sylvie-harrow.jpg"
-image_alt: "Sylvie Harrow, a woman in her forties with brown hair loosely tied back, in a rust-coloured jumper, seated at a bare metal table in a plain warm-walled room with her hands together, answering someone out of frame pleasantly, a potted plant on a shelf behind her."
+image_alt: "A woman in a plain warm-toned jacket seated at a pale table in a coved interview room, hands loosely together, composed and pleasant; a potted plant on a low shelf and a long window onto a habitat's cultivated terraces behind her"
 ---
 
 Sylvie Harrow assesses claims for the Eden Mutual Assurance Society, which is to say she has spent eleven years professionally distinguishing what happened from what a document says happened. She is good at it, well thought of, punctual with her filings, and the principal witness in a minor Deck 11 matter that arrived on [Detective Inspector Wendell Albercombe](/star-rangers/characters/wendell-albercombe/)'s desk looking exactly as boring as his referrals usually look, and has stayed open considerably longer than they usually stay.
