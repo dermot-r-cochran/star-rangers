@@ -52,7 +52,7 @@ integument, quiet at rest; the Earth animal refused by name in prompts; a
 scale for the frame only. Life cycle, the mind note, a pronoun system and a
 mark of office are marked absent and not proposed. **Nothing lands on
 `src/lore/cerebraun.md`, and Sohrel's portrait is not re-rolled, until he
-rules.** Branch `story-bible/cerebraun-body`.
+rules.** PR #1178, branch `story-bible/cerebraun-body`.
 
 ## Engineering as the writing method, a Journal entry — raised 11 October 2026, OPEN, noted for later
 
