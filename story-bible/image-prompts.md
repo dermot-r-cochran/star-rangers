@@ -1319,3 +1319,13 @@ sources; **rings** for Selvage, as on its parent page; **sphere** for
 Wholecloth, a single closed circle for a sealed whole. Wholecloth is a
 formcluster, not an archecluster, and is carded with them because it is the
 same cloth as Selvage.
+
+**`lore/post-eleven-dimensional-manifold.jpg`, an emblem card** (13 October
+2026, Dermot's *"same treatment for formclusters - they are too abstract to
+visualize"*). The Common Manifold is the formcluster's shared structure.
+Device **fold**, for where fold transit is defined; same palette as the
+cards above.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\post-eleven-dimensional-manifold.md -Device fold -Tint '#1A1830' -Accent '#B4AEDA'
+```
