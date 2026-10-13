@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Common Manifold carded** (`src/images/lore/post-eleven-dimensional-manifold.jpg`, 2026-10-13, Dermot's word). Formclusters are too abstract to picture, so the formcluster's shared structure takes an emblem card in the Archecluster palette in place of night water with four lights; `image_alt` rewritten. Archeclusters, formclusters and their structures now take cards, never a picture.
+
 - **Counterpane, Selvage and Wholecloth carded** (`src/images/lore/`, 2026-10-13, Dermot's word). Their photographs of woven cloth read as literal objects, where the cloth is only the registry's name, so each page now carries an emblem card in the palette of *Inside an Archecluster*. The three `image_alt`s are rewritten.
 
 - **Aldera's gallery runs with two photographs** (2026-10-13, Dermot's word). The two frames of a tabby-and-white kitten with blue eyes (`field-photo-03`, `-04`) are retired, because they did not read as the tabby of her portrait. The two boat photographs stay.
