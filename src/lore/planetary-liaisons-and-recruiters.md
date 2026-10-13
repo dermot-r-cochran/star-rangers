@@ -5,7 +5,7 @@ category: "Institutions"
 tags: [star-rangers, liaison-corps, liaison, representative, recruiter, planetary-jurisdiction, invitation, reassignment, celtic-union, rhiannon-ceridwen, institutions]
 description: "The Liaison Corps and its Planetary Representatives — the specialist corps that resolves the charter's no-jurisdiction clause, and the berth a Ranger moves to when front-line work stops being possible without leaving the force."
 image: "planetary-liaisons-and-recruiters.jpg"
-image_alt: "A small, pale, coved office with nobody in it: a bare desk with rounded edges and two moulded chairs on the public side, a coat on a hook, and a tall rounded doorway standing open onto a quiet sunlit street of earth-coloured buildings with deep-set windows."
+image_alt: "A small empty ground-floor office: a pale desk with softly rounded edges and two pale pedestal chairs, a coat on a hook, and a rounded doorway open onto a quiet street of low earth-coloured buildings, an ascent javelin's trail climbing the sky beyond"
 ---
 
 The charter that keeps the Star Rangers off a planet's ground is the same charter that made it inevitable someone would eventually need to stand on that ground anyway. The **Liaison Corps** is how the Corps resolves that contradiction without breaking its own rule.
