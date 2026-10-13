@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Sohrel's portrait prompt written** (`story-bible/images.md` § 13, `story-bible/image-prompts.md`, 2026-10-13). The filed card draws a cephalopod-like figure where the record gives the Cerebraun no Earth lineage, so a documentary-photograph prompt is written from the body in `species-design.md` (PR #1178): no head and no paired eyes, small eyes along the limbs, eight limbs in two tiers of four with no suckers, no front, a dry matte skin in one quiet tone, at a bare desk built for the body late in ship's night on the Halyx Relay Station with one small warmer patch beneath the desk, and octopus, squid, cephalopod, humanoid and face refused by name. Not yet generated; the card and its alt stay until a frame is filed.
+
 - **"Archon systems" removed from *The Critical Insight*** (`src/lore/civilisation-comparison.md`, 2026-10-13). *Archon* is Threnos-Ω's own word for a Harmonarch, and the canonical guide keeps it out of general usage, where it names nothing. The line now lists Levrils, Reclaimers and Ashwardens, as the rest of the page does.
 
 - **The four polities are not the whole settled reach** (`src/lore/civilisation-comparison.md`, *Four Polities by Extent*, 2026-10-13, Dermot's word). A clarification: the section read as if the Hegemony, the Federation, the Celtic Union and the Solar System were everyone. It now says that some isolated settlements (the Kingdom of the Five Islands, Quern) and several peoples (the Told of Fliade) belong to none of the four.
