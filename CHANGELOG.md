@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Six portraits made distinct from characters they resembled** (`story-bible/images.md`, 2026-10-13). After a side-by-side look at all 75 human portraits, Rutger Voss, Wren and Adaeze Okafor, Zoe Smith, Yusuf Adair and Sofia Santos are regenerated so no two characters share a face, at Dermot's direction that existing characters may gain diversity where they would otherwise look too similar; the Okafor sisters keep a family likeness. Lev's pet carrier is now a seamless capsule of the century.
+
 - **Centuries labelled with their calendars** (2026-10-13). *Civilisation Comparison* names its eras as the 13th and 21st centuries CE and the 29th century UCSD (27th CE), with a note that the framework was built in the old count and extended in the new, so its third era lies six centuries after the second, not eight. The same labels in the framework's timeline entry, *What the Record Refuses*, and the Saint Aoife and Breanainn Ó Sé pages.
 
 - **New codex entry: *Why Two Hundred*** (`src/codex/why-two-hundred.md`, 2026-10-13). A Survey Archive working paper by Sen grading three accounts of why UCSD runs two hundred years ahead of the common era: that it counts from the United Space Consortium (refuted), that it measures the Fragmentation (a coincidence nobody has unseated), and that it kept the two counts from ever writing the same present year while both were in use (the best account, with the drafting commission's own reason marked absent). And **New London's measures** (`src/lore/new-london-space-habitat.md`): imperial on the street, the standard units in engineering, navigation, customs and law.
