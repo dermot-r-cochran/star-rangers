@@ -9,7 +9,7 @@ aliases: []
 tags: [ynys-wydrin, celtic-union, avallach-system, engineering, human]
 description: "A senior fabrication engineer at the Celtic Union's dome and life-support engineering base on Ynys Wydrin, whose recycler and cold-world agricultural designs have been exported to two later charter worlds — and who has never once visited either."
 image: "rhian-gwynne.jpg"
-image_alt: "A woman in a pale insulated work shell at a sealed housing in a dome workshop, absorbed and half-turned from the camera, tall growing frames lit green beside her and a white frozen plain beyond the misted glazing"
+image_alt: "A woman with dark curly hair in a pale insulated work shell standing in a dome workshop among sealed white fabrication housings, tall growing frames lit green behind her and a frozen white plain beyond the misted glazing"
 ---
 
 Rhian Gwynne has spent twenty local years designing systems for worlds she has never set foot on, and considers that entirely normal for the job.

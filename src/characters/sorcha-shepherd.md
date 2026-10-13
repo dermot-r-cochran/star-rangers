@@ -9,7 +9,7 @@ aliases: []
 tags: [human, tir-na-nog, celtic-union, boirinn, dryadic, family, land-registry]
 description: "Tissadelle Shepherd's cousin: the Union land-registry surveyor who eventually solved, from the civilian record alone, the enigma her cousin's rank never let her touch — and who started because the news of the loss arrived too abrupt for the clan to believe it was the whole of it."
 image: "sorcha-shepherd.jpg"
-image_alt: "Sorcha Shepherd, a woman in her thirties with dark hair tied back, in a moss-grey field jacket with a high collar, one gloved hand resting on a small sealed survey instrument on a slender dark stand, looking away along her line across bare fissured limestone pavement. A drystone wall runs along the skyline under flat overcast."
+image_alt: "A dark-haired woman in a moss-grey field jacket on open limestone pavement, one gloved hand on a small sealed dome-shaped survey instrument on a slender tripod, looking along her line; a drystone wall on the skyline and an ascent javelin's trail high in the overcast"
 ---
 
 Sorcha Shepherd holds the croft adjoining Órla's, on the far side of a grazing boundary the two households disputed, comfortably and without resolution, for the better part of a decade — the ordinary weather of clan life in the Boirinn Uplands, and the dispute [Órla](/star-rangers/characters/orla-shepherd/) was still narrating on the climb the last afternoon her daughter ever walked the hill. Four days a week Sorcha is elsewhere: a cartographic surveyor with the Union Land Registry, the office that has been measuring Tír na nÓg's townlands since before the Union had a fleet, and filing the measurements whether or not they agree with the ones before.

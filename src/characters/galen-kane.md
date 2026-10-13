@@ -8,7 +8,7 @@ status: Active
 tags: [human, star-rangers, frontier-corps, chief-ranger, frontier, caretaker-clause, law-enforcement, sheriff, tissadelle]
 description: "Chief Ranger of the Star Rangers Frontier Corps — thirty years of caretaker circuits on worlds too young to police themselves, a career he counts in the ceremonies that ended his own mandate, and a mentor to early-career Tissadelle Shepherd who became, once she entered command, the advisor she trusts most."
 image: "galen-kane.jpg"
-image_alt: "A grey-haired man in a plain dark jacket standing among rows of timber benches in a frontier settlement's new meeting hall, its ceiling curving into the walls, while two small figures at the far end conduct a swearing-in; through the windows, open grassland and the trail of an ascent javelin in the morning sky"
+image_alt: "A grey-haired man in a plain dark jacket standing among rows of timber benches in a frontier settlement's new meeting hall, watching two small figures at the far end conduct a swearing-in; the ceiling curves down into the walls and tall windows look out on open grassland"
 ---
 
 Most peace officers count what they caught. [The Frontier Corps](/star-rangers/lore/star-rangers-frontier-corps/) counts how soon it could leave, and Galen Kane, who has served in it his whole career, counts departures. He holds the rank of [Chief](/star-rangers/lore/star-rangers-command-hierarchy/) — the top of the certification ladder — and carries the duty title **Chief Ranger**, commanding the operational section that sets the Corps' circuit rosters across a frontier region: which Ranger rides which passage, alone or paired, serving which handful of young worlds, and for how long before rotation.
