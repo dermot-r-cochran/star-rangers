@@ -461,3 +461,247 @@ different work for a physical reason, and the outsiders-get-wrong section is
 about posture, which is the Krenyi standard applied.
 
 **Readings flagged in `intake-2026-09-03.md`, eleventh direction.**
+
+---
+
+## Cerebraun — the body behind the likeness (drafted 13 October 2026, at Dermot's ruling of 12 October: *emblem card now, body later*)
+
+**Status: a draft put to Dermot; nothing below is canon until he rules.**
+Drafted on Fable, since it is a body an image prompt will depict. The cause
+is on the record: every generated attempt at the Cerebraun page and at
+Sohrel's portrait drew an Earth octopus or squid (four on 12 October 2026,
+`image-prompts.md`, *Century audit concept cards*), and the record says no
+other people is a metazoan. His word the same day: cephalopod-descended was
+*"just how a human might see them"*, realized as a clarification of
+`src/lore/cerebraun.md` in PR #1150 and as *A Likeness Belongs to Whoever
+Sees It* on `src/lore/cross-biosphere-taxonomy.md`. So this section does the
+one thing that page asks of a description: it says what a human sees, and
+then what is actually there, and marks each point **derived** (with its page)
+or **proposed** (a choice, his).
+
+### What the record already fixes (derived)
+
+Gathered in one place, as the sections above do for the other peoples.
+Nothing here is new.
+
+- **Nine centres, one person.** A dominant central brain for judgement,
+  language and planning; eight primary limbs, each carrying its own
+  semi-autonomous ganglion with sensory processing, reflexes and a measurable
+  preference and mood of its own; the central brain negotiates with the
+  limb-ganglia and does not fully override them (`src/lore/cerebraun.md`,
+  *Physical and Cognitive Characteristics*). A single Cerebraun is one person
+  with nine processing centres, not nine persons (the same page: *a single
+  Cerebraun can hold…*). Under `mind-design.md`'s standing constraint a
+  people whose cognition is distributed is written in its own terms, never as
+  a disorder or a hive, and the page already does this: its physicians treat
+  a limb acting against the central brain's stated intention as ordinary.
+- **Frame: Hydrostata.** Fluid pressure, *no rigid skeleton at all*, the row
+  shared with the Pelagene Littoral (`src/lore/cross-biosphere-taxonomy.md`,
+  the frames table). The frame says how a body is held up and nothing about
+  kinship; sharing a row with the Pelagene makes the two taxonomic neighbours
+  and no more.
+- **The skin is a channel.** Chromatophore and texture-changing tissue
+  capable of rapid, high-bandwidth display, used for identity signalling,
+  emotional broadcast and a formal display-language reserved for precise
+  technical and diplomatic work (`cerebraun.md`). The display resolves
+  finely: Sohrel's dissent is *a slow color shift across four centimeters of
+  skin* (S03E01C01), so a patch a few centimetres wide carries a statement.
+- **Two channels at once.** Spoken or written language from the central
+  brain; skin-display from the limb-ganglia beneath it (`cerebraun.md`,
+  *Communication*; the `canon_facts` of S03E01C01; the Xenolinguistics
+  Handbook's first failure mode). So a Cerebraun speaks aloud, reads and
+  writes: the body has a voice and reads a page.
+- **The limbs are told apart by position.** *The limb-ganglion governing
+  Sohrel's third dorsal arm* (S03E01C01; *the third dorsal arm's ganglion*
+  again in C03; C02 has *the limb-ganglion beneath the desk*). Dorsal arms
+  exist and are counted, which fixes a dorsal side and a ventral one: the
+  body has an up and a down, and the eight limbs are not an undifferentiated
+  ring.
+- **The limbs are not all alike in what they do.** The third dorsal arm
+  argues, hums faintly beneath a desk, goes still as *the shape of a
+  disagreement choosing not to spend itself*, and reads as recognition (C01,
+  C02, C03). A limb can act, sound and signal on its own. Where in the limb
+  the ganglion sits is **not** on record: the designed card for Sohrel draws
+  a node at each tip, and that is the card's device, not canon.
+- **Sohrel sits at a desk, reads, drafts and signs** (C01, C02, C03), on a
+  relay station with humans aboard (C01: *unreadable to any human on the
+  relay station*). So the body works at a surface, in a room humans also use,
+  and is not confined to a tank or a medium of its own. Whether it breathes
+  the same air is not on record.
+- **A people who need instruments for a water people's channels.** Cerebraun
+  administrators on Meridian *still rely on translation instrumentation* to
+  follow the reef-cities' underwater claw-percussion and chemical signalling
+  (`src/lore/planets/meridian.md`). A hint, not a finding: a people native to
+  a chemical-signalling ocean would be expected to have had a nearer sense.
+- **The likeness is the observer's.** *Cephalopod-like to a human eye*; no
+  descent from Earth's octopus or squid; a description or picture that turns
+  the likeness into the Earth animal *has turned the likeness into a claim the
+  record does not make* (`cerebraun.md`; `cross-biosphere-taxonomy.md`, *A
+  Likeness Belongs to Whoever Sees It*). And the general rule under it: no
+  other people in the record is a metazoan (same page, *It Goes Deeper Than
+  Ancestry*).
+- **What the record declines.** The homeworld is unnamed: the Hegemony is
+  *the dominant power across its home cluster* and nothing more
+  (`cerebraun-hegemony.md`). No pronoun system is declared; the three Sohrel
+  chapters and the character page use the name throughout and no pronoun,
+  which is a usage that stands (CLAUDE.md's pronoun rule: existing usage
+  stands, and a new system is a per-species vocabulary decision). No scale,
+  no colour at rest, no sense organs, no mode of locomotion, and no lifespan
+  beyond Sohrel's three centuries in one post (`sohrel.md`).
+
+### What a human sees (derived, restated for a prompt)
+
+A soft body with no bones in it; eight limbs; a skin that changes colour and
+texture while you watch. Those three facts are the whole of the likeness, and
+they are why the generator reaches for an octopus every time: on Earth they
+occur together in exactly one lineage. The job of the points below is to say
+what is there that an octopus does not have, and what an octopus has that is
+not there, so that the likeness fires at a glance and fails on inspection,
+which is the record's own pattern for a people (the Krenyi, *The Nearest
+Frame Is the Strangest*).
+
+### What is actually there (proposed, each a choice)
+
+Answered by the body note's seven questions, in their order, from the facts
+above; nothing from the world, because the world is not on record.
+
+1. **What the world did to the body: not on record, and this draft does not
+   supply it.** Two shapes. **(a) Leave the homeworld unnamed** and derive
+   only what the body already fixes, naming the world when a page needs it
+   (Dermot's scope ruling of 13 August: anywhere in the known Concordant, or
+   elsewhere in the membrane where crossover is safe). **(b) Name a world
+   type now** (a dense-atmosphere world where a boneless body is partly borne
+   by the air, or a shore world of shallow fluid) so the body can be derived
+   forward as the others are. **Recommended: (a).** Nothing on any page needs
+   the world, the Meridian hint argues against the obvious ocean, and a world
+   named to explain a picture is the error the whole method exists to avoid.
+
+2. **How it senses: no head, no pair of eyes; sight along the limbs.** Each
+   limb-ganglion does its own sensory processing (derived), and a people who
+   read a four-centimetre colour shift on their own and one another's limbs
+   need colour vision close to the skin. So: **no head**, and **no two large
+   forward eyes**; instead many small eyes along the limbs, several to a
+   limb, each ganglion seeing its own neighbourhood of skin and the room
+   beyond it, and the central brain seeing through the limbs. This is the
+   single point that does most against the octopus attractor, whose
+   silhouette is a head with two eyes, and it is the point that makes the
+   people's own habit (nine centres, each with its own view) visible in a
+   photograph. **Alternative:** a cluster of small eyes on the central body
+   and none on the limbs. **Recommended: along the limbs.**
+
+3. **Limbs: four dorsal, four ventral, and they do different work.** *Third
+   dorsal arm* fixes a dorsal set of at least three (derived). Proposed: eight
+   in two tiers of four, the **ventral four** short, broad and load-bearing,
+   the body resting on them, and the **dorsal four** longer and freer, the
+   working and signalling limbs; a Cerebraun at a desk rests on the lower
+   tier with the upper tier on the surface or draped beneath it, as Sohrel's
+   third dorsal arm is. No suckers and no hooks: a limb's inner surface is
+   the same textured skin as the rest, and it holds by wrapping and by the
+   texture-change tissue raising a grip (the tissue is derived; the grip is
+   proposed). **Alternative:** eight alike around the body, *dorsal* meaning
+   only the upper half in posture. **Recommended: two tiers**, because it
+   gives the generator a body plan an octopus does not have and gives the
+   prose something to do with *which limb*.
+
+4. **Symmetry: dorsoventral, not radial.** Follows from 3. A top and a
+   bottom, an upper tier and a lower, and **no front**: a Cerebraun addresses
+   a room with whichever limbs are nearest, and *facing* someone is a courtesy
+   of turning the signalling tier toward them, not a fact of anatomy. (The
+   first half is derived from *dorsal*; the no-front is proposed.)
+
+5. **Surface: dry, matte and finely textured at rest.** Nothing says the body
+   is wet, and the Meridian hint says the people are not native to a chemical
+   ocean. Proposed: an integument dry to the touch, matte, with a fine raised
+   grain the texture tissue can smooth flat or lift into ridges; colour at
+   rest **quiet and uniform**, one muted tone across the whole body, so that
+   a display reads as a change from stillness (the formal display-language is
+   *reserved*, which implies a resting state that says nothing). This refuses
+   the generator's wet gloss, the octopus's second tell after the eyes. The
+   resting tone is not chosen here; the two cards use violet and teal, and
+   either would do. **Alternative:** a wet skin kept moist on a station, on
+   the Pelagene pattern. **Recommended: dry.**
+
+6. **Life cycle: not on record; nothing proposed.** Sohrel has held one post
+   for about three centuries (`sohrel.md`), so a Cerebraun lives at least
+   that long; whether the limbs and the central brain age differently,
+   whether a limb is ever lost and regrown, and how a young Cerebraun comes
+   by nine centres are open and better answered by a chapter than by a note.
+   Marked absent.
+
+7. **What a station costs them: the second channel, unread.** Derived from
+   the page and the chapters: on a human station nobody reads the skin, so
+   half of what a Cerebraun says lands nowhere, every day. The body note's
+   sixth question was answered by the lore before the body was described,
+   which is unusual and worth keeping: the daily cost is not physical. One
+   physical cost is proposed and small: a boneless body at human-station
+   gravity tires in the lower tier, and a Cerebraun working long at a surface
+   rests the body on it, which a human reads as slumping and should not.
+
+8. **What the biology made them good at, and the job that followed
+   (derived).** Holding a correct position and an unresolved one at once
+   without pretending the second is not there (`sohrel.md`), which is the
+   Administrator-Voice's whole craft; and the Prime Ganglion is held by
+   *whichever Cerebraun demonstrates the clearest capacity to hold the whole
+   polity's competing internal signals in coherent balance*
+   (`cerebraun-hegemony.md`). The polity's structure is the neurology at
+   scale, by the species' own account. Nothing to add.
+
+**Scale, for the frame only (proposed).** No page gives a size. For Sohrel's
+portrait the body is drawn at about the bulk of a seated adult human, low and
+broad on its ventral tier, the dorsal limbs reaching a desk built for it; the
+desk is Sohrel's own on a Hegemony relay station, so its height is the
+species' and not a human's. A scale fixed for a picture is not canon, and the
+record need not state one until a chapter does.
+
+### Marks and the uniform equivalent (open, his)
+
+The Cerebraun are not Rangers, and the Hegemony is a polity with its own
+military and its own offices (`cerebraun-hegemony.md`). The page already says
+the skin carries *identity signaling*, so the natural reading of a Hegemony
+mark of office is a display, not a worn thing; whether an Administrator-Voice
+shows one, and what it looks like, is not on record and is not needed for
+Sohrel's portrait, which draws no mark. Listed under *The uniform equivalent*
+above by this pointer only; the pick is made in the page that needs it.
+
+### The Earth animal, refused by name (proposed as a prompt rule)
+
+Under the 12 October convention (`images.md`, *An Earth likeness is the
+observer's*), a Cerebraun prompt says the body from this section and negates
+the Earth animal by name. The features that would turn the likeness into the
+animal, none of which the record gives the Cerebraun: a head; two large eyes;
+a mantle with a cavity and a siphon; suckers; a beak; ink; fins; a wet gloss;
+arms tapering to a point; a body that swims. The prompt negates *octopus,
+squid, cuttlefish, cephalopod, tentacles with suckers, beak, siphon, fins*,
+and the generator's stock phrases *sea creature, alien octopus, Cthulhu,
+kraken*. A frame that draws any of them fails, however photographic it is.
+
+### Where this goes
+
+- **Nothing is written to `src/lore/cerebraun.md` until Dermot rules.** When
+  he does, the points he approves land there as an **extension** on the
+  Krenyi pattern (a body section, something the people are structurally bad
+  at, the thing outsiders get wrong: the slump, read as fatigue or deference,
+  which is neither), and the `cephalopod-analog` tag stands.
+- **Sohrel's portrait is then re-rolled** against the approved body: the
+  S03E01C01 moment, the second line drafted and the third dorsal arm shifting
+  colour beneath the desk, a documentary photograph by a 29th-century camera,
+  with the Earth animal negated as above. The prompt is Fable's to write into
+  `images.md` when the body is settled; `characters/sohrel.jpg` stays a card
+  until then, as `lore/cerebraun.jpg` does (both in the 10 October card list,
+  *Replace with a photograph or a generated photograph*).
+- **`mind-design.md` has no Cerebraun section.** The lore page answers its
+  first, second and sixth questions in outline (certain of nine views at once
+  and apt to read a single-centred mind as under-reporting; thought as
+  negotiation; the unread channel as the daily cost); the rest wait on a page
+  that needs them.
+- **Traps avoided.** No human frame (the standing refusal; the Hydrostata
+  row). No *features applied* (the Qiren Tal failure): every point above is
+  subtracted from or added to a body the pages already describe. No planet of
+  hats: the people's own doctrine says the limbs execute and Sohrel's record
+  says they negotiate, which is the internal disagreement the cast principles
+  ask for, already on the page. The *human concept with alien furniture* trap
+  is the one this section cannot close, because it is a body note; the mind
+  note is the open item above.
+
+**Readings put to Dermot in the PR that carries this section; his rulings
+to be recorded here and in `open-questions.md`.**

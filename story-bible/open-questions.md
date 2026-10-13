@@ -35,6 +35,25 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## The Cerebraun body — raised 12 October 2026 (*emblem card now, body later*), DRAFTED 13 October 2026, OPEN
+
+`species-design.md`, *Cerebraun — the body behind the likeness*, drafted on
+Fable from `cerebraun.md`, the three Sohrel chapters, `sohrel.md`,
+`cross-biosphere-taxonomy.md` and `meridian.md`, after every generated
+attempt at the species page and at Sohrel's portrait drew an Earth octopus or
+squid. What the pages fix is gathered with its citations (nine centres, the
+Hydrostata frame, the display skin, a counted dorsal tier, Sohrel at a desk,
+the Meridian instrumentation hint). Seven proposed points are put as choices
+in the PR that carries the draft, a recommendation marked on each: the
+homeworld left unnamed; no head and no paired eyes, sight along the limbs;
+eight limbs in two tiers of four, ventral bearing and dorsal working, no
+suckers; dorsoventral symmetry with no front; a dry, matte, finely textured
+integument, quiet at rest; the Earth animal refused by name in prompts; a
+scale for the frame only. Life cycle, the mind note, a pronoun system and a
+mark of office are marked absent and not proposed. **Nothing lands on
+`src/lore/cerebraun.md`, and Sohrel's portrait is not re-rolled, until he
+rules.** PR #1178, branch `story-bible/cerebraun-body`.
+
 ## Engineering as the writing method, a Journal entry — raised 11 October 2026, OPEN, noted for later
 
 Noted in `ideas.md` (*Engineering as the Writing Method*) at Dermot's choice,
