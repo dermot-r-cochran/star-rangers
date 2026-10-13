@@ -10,7 +10,7 @@ aliases:
 tags: [robot, police-department, threshold-station, boundary, season-1]
 description: "A robot with non-standard sensor arrays and an investigative/analytical classification, assigned to the Threshold Station survey."
 image: "rook-7.jpg"
-image_alt: "Rook-7, a bipedal robot with a smooth pale grey shell and a round sensor array of a visibly different make set into the side of its head, seated at a clear glass desk in a quiet, sunlit office, its hands resting by a single sheet of paper."
+image_alt: "Rook-7, a bipedal robot with a broad pale grey composite shell and a plain flat faceplate, with a cluster of round sensor lenses of a different make fitted to the side of its head, standing at a desk in a quiet, sunlit office, one hand resting on a single sheet of paper"
 ---
 
 It logs continuously. That is the first thing to know about Rook-7.
