@@ -64,7 +64,9 @@ A Ranger's service track is assigned independently of their corps. A Ranger of a
 
 General operations is also the usual road from Chief to a first command. A Starwarden answers for a fixed post, a station and everything on it, and general operations is the track that runs a post's watch across every corps aboard. A Chief who has held it has already done, on a smaller scale, the work a Starwarden is asked for. It is the usual road and not the only one: [no examination stands between a Chief and a command posting](/star-rangers/lore/star-rangers-academy/), and a Chief from any track may be given one.
 
-A mixed group of specialists sent on a shared mission under a Starwarden or above is filed either as **general operations** or as **special operations**, depending on the context. The name describes the mission, not the people, so the same Rangers from the same corps may serve under either. The record has not reduced the choice between the two to a rule. Neither name means a combat formation. *Special operations* sounds like a strike force, and the Corps has no strike forces, because no branch of the Star Rangers is military (see *The Provost Track, and What the Rangers Are Not*, below).
+Not every posting counts as general operations. Teaching at the [Academy](/star-rangers/lore/star-rangers-academy/) and serving as a [Planetary Representative](#the-third-path-the-liaison-corps) are not normally counted, because the first certifies, the second represents, and neither runs a post's watch.
+
+A mixed group of specialists sent on a shared mission is filed either as a **general operations** mission or as a **special purpose** mission. A general operations mission may be led by a Chief. A special purpose mission is led by a Starwarden or above, and beyond that rank line, which filing a mission takes depends on its context. The name describes the mission, not the people, so the same Rangers from the same corps may serve on either. Neither is a combat formation, because no branch of the Star Rangers is military (see *The Provost Track, and What the Rangers Are Not*, below).
 
 ## Guild Leadership: The Corps Aren't Commanded
 
