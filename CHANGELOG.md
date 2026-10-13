@@ -10,6 +10,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 - **S01E02C03 explains the band coupling once** (`src/seasons/s01/e02/s01e02c03.md`, 2026-10-13, a draft for Dermot's approval from the 13 October reader review). Syra's viewpoint carries the whole explanation; Thorne's and Rook-7's now carry his decision to issue the conservative-lock-margin advisory to Traffic Control under the survey's own certification, with the station administration copied in the same transmission, two days before the next ships are due. A sixth canon fact records the advisory.
 
+- **Phrase pass on three tics in the densest clusters** (eleven chapters, 2026-10-13, a draft for Dermot's approval from the 13 October reader review). *That was the…* goes from 81 lines to 66, thinned where several sat in one chapter or in adjacent ones (S12E01C02 and C04, S12E02C01 and C02, S05E00C01, S05E02C03, S09E01C03 and C04, S03E02C01); *in the specific way* from 9 to 8 (S05E02C01, which sat beside C02's); *not a question* from 8 to 7 (S01E02C01, the third in a row across the opening episodes). Single, well-placed uses are left alone; no chapter's meaning changes.
+
 - **Only a genuine dilemma or conflict goes to Dermot** (`CLAUDE.md`, *Who approves whom*, 2026-10-13, his word). Every other open decision is settled by the recommendation, named in the PR body so he can overrule it.
 
 - **Decisions triage Opus first, then Fable, then Dermot** (`CLAUDE.md`, *Who approves whom*, 2026-10-13, Dermot's word). Opus settles an open decision or approval where precedent answers it; Fable sees only what Opus escalates, and Dermot only what Fable cannot settle and what is neither mechanical, mundane nor routine.
