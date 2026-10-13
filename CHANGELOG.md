@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Cerebraun body, ruled and extended** (`src/lore/cerebraun.md`, *Physical and Cognitive Characteristics*, 2026-10-13, Dermot's *Approved* on PR #1178). Four points are added as an extension: no head and no front; eyes along the limbs; two tiers of four limbs, with no suckers; dry, matte skin at rest. The page also notes that the cephalopod a human sees is the observer's likeness. The draft's status is updated in `species-design.md` and `open-questions.md`.
+
+- **Sohrel's portrait** (`src/images/characters/sohrel.jpg`, 2026-10-13). The emblem card is replaced by a photograph generated from the Fable prompt in § 13. `image_alt` is rewritten, and the frame choice is recorded in `images.md`.
+
 - **Sohrel's portrait prompt written** (`story-bible/images.md` § 13, `story-bible/image-prompts.md`, 2026-10-13). The filed card draws a cephalopod-like figure where the record gives the Cerebraun no Earth lineage, so a documentary-photograph prompt is written from the body in `species-design.md` (PR #1178): no head and no paired eyes, small eyes along the limbs, eight limbs in two tiers of four with no suckers, no front, a dry matte skin in one quiet tone, at a bare desk built for the body late in ship's night on the Halyx Relay Station with one small warmer patch beneath the desk, and octopus, squid, cephalopod, humanoid and face refused by name. Not yet generated; the card and its alt stay until a frame is filed.
 
 - **"Archon systems" removed from *The Critical Insight*** (`src/lore/civilisation-comparison.md`, 2026-10-13). *Archon* is Threnos-Ω's own word for a Harmonarch, and the canonical guide keeps it out of general usage, where it names nothing. The line now lists Levrils, Reclaimers and Ashwardens, as the rest of the page does.

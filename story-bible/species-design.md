@@ -466,7 +466,7 @@ about posture, which is the Krenyi standard applied.
 
 ## Cerebraun — the body behind the likeness (drafted 13 October 2026, at Dermot's ruling of 12 October: *emblem card now, body later*)
 
-**Status: a draft put to Dermot; nothing below is canon until he rules.**
+**Status: ruled 13 October 2026** (Dermot's *"Approved"* on PR #1178 among the night's PRs, under his rule that only a genuine dilemma comes to him): every recommendation below stands. The body points are extended into `src/lore/cerebraun.md`; the prompt-only points (the Earth animal refused by name, the scale for the frame) stay here.
 Drafted on Fable, since it is a body an image prompt will depict. The cause
 is on the record: every generated attempt at the Cerebraun page and at
 Sohrel's portrait drew an Earth octopus or squid (four on 12 October 2026,
@@ -703,5 +703,6 @@ kraken*. A frame that draws any of them fails, however photographic it is.
   is the one this section cannot close, because it is a body note; the mind
   note is the open item above.
 
-**Readings put to Dermot in the PR that carries this section; his rulings
-to be recorded here and in `open-questions.md`.**
+**Readings put to Dermot in the PR that carries this section.** Ruled 13 October
+2026: all as recommended (*"Approved"*). Recorded in `open-questions.md`;
+Sohrel's portrait re-rolled against it the same night.
