@@ -21,7 +21,6 @@ The **Cerebraun** are a sapient people that a human observer tends to describe a
 - The body has no head and no front. It has an upper side and an underside and is otherwise the same from every direction. A Cerebraun has no pair of eyes. It sees through many small eyes set along its limbs, so each ganglion watches its own stretch of the room.
 - The eight limbs grow in two tiers of four and do different work. The lower four are short and bear the body's weight; the upper four are longer and do the handling. None carries suckers.
 - At rest the skin is dry, matte and finely grained, and holds one quiet tone; the display described above is something a Cerebraun does, not how one looks when still.
-- The cephalopod a human first sees in all this is the observer's own likeness at work (see [A Likeness Belongs to Whoever Sees It](/star-rangers/lore/cross-biosphere-taxonomy/#a-likeness-belongs-to-whoever-sees-it)). The Cerebraun are not metazoans, and the resemblance ends at the outline.
 
 ## Complex Inner Worlds
 

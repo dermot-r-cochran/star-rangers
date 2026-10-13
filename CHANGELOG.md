@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **The Cerebraun body, ruled and extended** (`src/lore/cerebraun.md`, *Physical and Cognitive Characteristics*, 2026-10-13, Dermot's *Approved* on PR #1178). Four points are added as an extension: no head and no front; eyes along the limbs; two tiers of four limbs, with no suckers; dry, matte skin at rest. The page also notes that the cephalopod a human sees is the observer's likeness. The draft's status is updated in `species-design.md` and `open-questions.md`.
+- **The Cerebraun body, ruled and extended** (`src/lore/cerebraun.md`, *Physical and Cognitive Characteristics*, 2026-10-13, Dermot's *Approved* on PR #1178). Three points are added as an extension: no head and no front, with eyes along the limbs; two tiers of four limbs, with no suckers; and dry, matte skin at rest. The draft's status is updated in `species-design.md` and `open-questions.md`.
 
 - **Sohrel's portrait** (`src/images/characters/sohrel.jpg`, 2026-10-13). The emblem card is replaced by a photograph generated from the Fable prompt in § 13. `image_alt` is rewritten, and the frame choice is recorded in `images.md`.
 
