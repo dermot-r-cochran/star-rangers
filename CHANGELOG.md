@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Glossary entries for Reclaimers, TAFS and Ashwardens** (`src/glossary/reclaimers.md`, `src/glossary/tafs.md`, `src/glossary/ashwardens.md`, 2026-10-13, Dermot's choice). Three short entries for the hidden systems of the 29th century that `civilisation-comparison.md` names, worded only from what that page and the Three-Era Framework timeline entry already say, with what the record has not established marked as such. TAFS is given by its initials alone, since no page expands them. Each carries its Union Irish line, and the comparison page now links the first mention of each.
+
 - **General operations and special purpose missions** (`src/lore/star-rangers-command-hierarchy.md`, canonical guide, 2026-10-14, Dermot's word). Academy teaching postings and Planetary Representatives are not normally general operations. A general operations mission may be led by a Chief; a special purpose mission is led by a Starwarden or above. *Special purpose* replaces yesterday's *special operations*, with a migration-map row.
 
 - **Track Is Not Corps** (`src/lore/star-rangers-command-hierarchy.md`, canonical guide, 2026-10-13, Dermot's word). A clarification: a Ranger of any corps may hold the general operations track, and general operations is the usual (not the only) road from Chief to Starwarden. A mixed mission under a Starwarden or above is filed as general or special operations depending on the context, and neither name means a combat formation. Recorded in `story-bible/intake-2026-10-13.md`.
