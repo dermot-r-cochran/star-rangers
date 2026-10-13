@@ -171,6 +171,120 @@ his portrait shows a suit. Both resolved: la Chapelle and Strozzi were re-made
 in the Survey shell in the century audit's batch 3 (11 October), and Ashcombe's
 uniform was ruled on 12 October.
 
+
+## Dress by place
+
+Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each setting, under principles 11 to 13. Every line is marked *derived* (it follows from the page named) or *proposed* (a reading that fits the page and is his to change); nothing here is canon. The facts were gathered from each place's own page; *not stated* means the page is silent. Each block's *Tags:* line names the character tags whose portraits illustrate it; the Wardrobe artefact is built from this section by `scripts/extract-wardrobe.js`, and is changed here, never there.
+
+### Eden and the Compact habitats
+*Tags:* `eden`, `orbital-habitats-compact`
+- **Conditions:** Spin gravity on the ring and low gravity at the hub (`eden-ring-rail.md`); the climate is the habitat's own and its temperature not stated. *Derived.*
+- **Everyday:** Light layers for a held climate: knitwear, soft jackets, plain coats, cardigans and aprons, in colours of the wearer's own. A resident from anywhere dresses as from there, one chosen thing at a time. *Proposed.*
+- **At work:** The bureau's junior detectives wear the issued jacket, *plain single-breasted … issued in one colour*, rank strokes at the collar; seniors and the undercover their own cloth (`eden-bureau-uniform.md`). Growers on the terraces work in canvas aprons with sleeves pushed up. *Derived, the aprons from practice.*
+- **The century's sign:** A ring's light and its terraces through a window carry it, so clothes need not. *Proposed.*
+
+### Antariksha
+*Tags:* `antariksha`
+- **Conditions:** Two counter-rotating cylinders at Earth-standard weight, and a microgravity foundry (`antariksha.md`). *Derived.*
+- **Everyday:** Founders *came largely from South Asia … for work*, and at least eight languages are spoken, none official, so heritage shows widely and in the wearer's own choice, never as a uniform of origin. *Proposed.*
+- **At work:** In the foundry's microgravity nothing may float free: close-fitting coveralls with no loose ends, hair bound or covered, sleeves closed at the wrist. *Proposed, from the physics.*
+- **The century's sign:** The foundry kit itself. *Proposed.*
+
+### Threshold Station
+*Tags:* `threshold-station`
+- **Conditions:** A shore station on a coast, harbour weather, *trace ozone … Threshold Stink* (`threshold-station.md`). *Derived.*
+- **Everyday:** Weatherproof outer layers over plain clothes, made for wind and spray; a crew *drawn from several peoples*, each dressing as from home. *Proposed, the crew derived.*
+- **At work:** Rangers in their shells; the Constabulary in its plain dark uniform jacket with a band collar (ruled 12 October); hull-fitters and Maintenance in work clothes. *Derived.*
+- **The century's sign:** The station and its harbour. *Proposed.*
+
+### New London
+*Tags:* none on record
+- **Conditions:** Held at 16–18 °C, a perpetual soft overcast, rain on a schedule nobody publishes, Earth-standard gravity at the rim (`new-london-space-habitat.md`). *Derived.*
+- **Everyday:** *Layered dressing a practical habit rather than a costume*: wool and knit in layers, a coat for the rain. The frontage is neo-Victorian; the clothes are not. *Derived, the last sentence from rulings 2 and 3.*
+- **Custom:** Titles are used at court functions, and formal dress is the same clothes in a better finish; the street keeps imperial measures. *Derived.*
+- **The century's sign:** The rings' engineered sky. *Proposed.*
+
+### Tír na nÓg
+*Tags:* `tir-na-nog`
+- **Conditions:** Earth-like air and gravity, four seasons, oceans warmer and calmer than Earth's; the Boirinn uplands misty and wet in winter (`planets/tir-na-nog.md`). *Derived.*
+- **Everyday:** *Smart-weave clothing that reads as ordinary cloth*: wool coats and scarves in the uplands, lighter cloth on the warm coasts. *Derived.*
+- **At work:** Flock-holders and horse-keepers in field jackets and plain trousers; the crook is a tool, not a costume. *Proposed, the crook from practice.*
+- **The century's sign:** The cloth's behaviour, invisible by design (`environmental-technology-design.md`), so a frame carries it in something else, as Orla Shepherd's drone lights do. *Derived.*
+
+### Aethelrock
+*Tags:* `aethelrock`
+- **Conditions:** A cold, high-relief granite world of short growing seasons, crops grown under glass (`planets/aethelrock.md`). *Derived.*
+- **Everyday:** Plain weatherproof coats, the clan's sett *only at the collar or the scarf* the commonest way to wear it; a sett is *a choice and a custom, never a uniform* (`the-setts-of-aethelrock.md`). *Derived.*
+- **At work:** Mining, fishing, arable and relay work, each in its own heavy outer layer; Rangers wear no sett on duty. *Derived.*
+- **The century's sign:** Technology kept in plain sight, the world's own rule: heating conduits, drones, sealed housings. *Derived.*
+
+### Ynys Wydrin
+*Tags:* `ynys-wydrin`
+- **Conditions:** Thin unbreathable air and permafrost outside; life in domes under *borrowed sun* (`planets/ynys-wydrin.md`). *Derived.*
+- **Everyday:** Insulated shells and layers inside cool domes; outside, pressure gear every time. *Derived for outside, proposed for inside.*
+- **The century's sign:** Here technology *declares itself*, so outdoor kit shows its seals and fittings plainly, never as glowing trim. *Derived.*
+
+### Drithane
+*Tags:* `drithane`
+- **Conditions:** Cold, dry and high, *thin but breathable-with-acclimatisation*, settled in geothermal valleys (`planets/drithane.md`). *Derived.*
+- **Everyday:** Wool, the world's own export, worn wrapped and layered against the cold. *Proposed, from the export.*
+- **Custom:** Settlements *go dark by custom* on crossing nights, so nothing worn carries a light. *Derived.*
+
+### Kernowek Reach
+*Tags:* `kernowek-reach`
+- **Conditions:** *Thin, oxygen-poor … particulate haze* outside an engineered band of breathable air; cold mornings (`planets/kernowek-reach.md`). *Derived.*
+- **Everyday:** Ordinary layers inside the band, a breather and a dust-sealed outer layer beyond it. *Proposed.*
+- **At work:** Processor-station and terraforming crews in coveralls. *Derived from practice.*
+
+### Thalassa
+*Tags:* `thalassa`
+- **Conditions:** *Ninety-six percent open water*, cities on floating platforms (`planets/thalassa.md`). *Derived.*
+- **Everyday:** Clothes for deck and spray, quick to dry; the Sol-diaspora engineers' heritage in each person's own choices. *Proposed.*
+- **Custom:** New Venice keeps its heritage families and coloured facades; New Atlantis builds *to bend, not to boast*. Neither page names a dress custom, so none is drawn. *Derived.*
+
+### Mars
+*Tags:* `mars`
+- **Conditions:** Sealed, radiation-hardened domes; outside *survivable in a pressure suit*; the hermitages face *extreme temperature swings* (`planets/mars.md`, `monasteries-of-mars.md`). *Derived.*
+- **Everyday:** Present-day dome dress is not stated; the record's Martian portraits are History, in their period's service dress, and so are not shown here. *Derived.*
+
+### The Kingdom of the Five Islands
+*Tags:* `five-islands`
+- **Conditions:** A storm world whose islands are *merely windy*; every tree on Vellamar leans (`planets/kingdom-of-the-five-islands.md`). *Derived.*
+- **Everyday:** The Kingdom's own dress, wool tunics and plain high-necked dresses in the portraits, exempt from the hint of the century as an isolate's (ruling 5). *Derived, the garments from practice.*
+- **Custom:** The Tideward Sisterhood in habit; the court's ceremonial flowers in scarlet and violet-to-crimson. The Survey delegation brings nothing the court would read as a machine. *Derived.*
+
+### Saltmere
+*Tags:* none on record
+- **Conditions:** No land at all; platforms on tethers through storms that cannot be outrun (`planets/saltmere.md`). *Derived.*
+- **Everyday:** Weather gear and hull-work clothes; a lost colony four centuries out of contact, so its dress is its own, as an isolate's. *Proposed.*
+
+### Frontier settlements
+*Tags:* `frontier`, `cairn-trust`
+- **Conditions:** Young worlds in a buildout of ten to twenty years, some of them heavy (`star-rangers-frontier-corps.md`). *Derived.*
+- **Everyday:** Plain new work clothes landed as kit, weatherproof and well kept: sequencing, not poverty. *Derived from the buildout rule.*
+- **Custom:** A Ranger attends a swearing-in *as a civilian guest, unarmed*. *Derived.*
+
+### The Belt habitats
+*Tags:* `belt`
+- **Conditions:** Knarr Line habitats with refinery work; Saltvik keeps a hand-rung all-stop bell (`knarrheim.md`, `saltvik.md`). *Derived.*
+- **At work:** Close-fitting coveralls near machinery, nothing loose to catch. *Proposed.*
+- **Custom:** Norwegian, Danish, Icelandic and Swedish heritage, in each person's own choices. *Proposed.*
+
+### Quern
+*Tags:* `quern`
+- **Conditions:** Sideways rain and lightning; air electrolysed out of the rain (`planets/quern.md`). *Derived.*
+- **Everyday:** *Outside, everyone is masked, always*; wind-cut outer layers. *Derived for the mask, proposed for the layers.*
+
+### Aspenar
+*Tags:* `aspenar`
+- **Conditions:** Near Earth gravity; ultraviolet and radiation lethal *for more than minutes* outside; domes with filtered daylight (`planets/aspenar.md`). *Derived.*
+- **At work:** Refinery coveralls with high collars indoors; full cover outside. *Proposed, the coverall from practice.*
+
+### Earth
+*Tags:* none on record
+- **Conditions:** Biomes healthier than at any point since the early industrial era; Venice floats and *does not flood* (`venice.md`, `the-commonwealth.md`). *Derived.*
+- **Everyday:** The widest range of any place in the record, by climate, region and heritage. *Proposed.*
+
 ## How a prompt says it — PROPOSED
 
 **Positive.** *Well-made everyday clothing of the twenty-ninth century: simple
