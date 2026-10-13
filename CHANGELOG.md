@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Mira of Brine's portrait** (`src/images/characters/mira-of-brine.jpg`, 2026-10-13). The humanoid emblem card is replaced by a generated photograph from the Pelagene page's body: radially symmetrical, no face, cirri at work along a wall seam. `image_alt` rewritten; the frame choice is recorded in `story-bible/images.md` § 12. Closes #1129.
+
 - **S01E01C01 and S01E01C02 rewritten toward 450 words a viewpoint** (`src/seasons/s01/e01/`, 2026-10-13, a draft for Dermot's approval from the 13 October reader review). Thorne's opening now ends on the two clocks above the seal and the hatch instead of *This was going to be interesting*; Syra arrives having read the public release that closed the forty seconds; Rook-7 logs the seal cycle against both clocks and the first exchange. In the briefing each viewpoint carries something the others cannot see: Thorne's unfiled four-line note, Syra's three readings of Report 22, Rook-7's count of who read what. The station's own report numbering is untouched.
 
 - **S01E02C03 explains the band coupling once** (`src/seasons/s01/e02/s01e02c03.md`, 2026-10-13, a draft for Dermot's approval from the 13 October reader review). Syra's viewpoint carries the whole explanation; Thorne's and Rook-7's now carry his decision to issue the conservative-lock-margin advisory to Traffic Control under the survey's own certification, with the station administration copied in the same transmission, two days before the next ships are due. A sixth canon fact records the advisory.
