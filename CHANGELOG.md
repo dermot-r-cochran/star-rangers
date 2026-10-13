@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Four portraits corrected, and the dress lines approved** (2026-10-13). Rhian Gwynne now looks at her work rather than the camera; Sorcha Shepherd's and Galahad Thorne's survey instruments are flat sealed wedges on stone instead of domes on tripods that read as present-day GPS receivers; Idris Bryneth's drone flies clear of the fence. The proposed dress lines in `story-bible/civilian-dress.md` are approved, each place's sign of the century in addition to the cloth's own detail.
+
 - **Dress by place, and a wardrobe extractor** (`story-bible/civilian-dress.md`, `scripts/extract-wardrobe.js`, 2026-10-13). The civilian dress note gains a dress line for eighteen settings, each line marked derived from its place's page or proposed; a local tool builds the data for a private reference artefact from that section and the character portraits, regenerated at each release with the other three.
 
 - **The Seanad recognises no parties or factions** (`src/glossary/the-seanad-draw.md`, 2026-10-13). Senators of different clans do combine on the floor and a clan's senators sometimes divide, but no association or faction appears on the ballot or in the chamber's record, holds a bench or a whip, or speaks as a body; the marked absence is filled at Dermot's ruling. Also: Noah Adeyemi's portrait now shows the eighth day, empty-handed at his door, and the civilian dress note gains three principles (each place its own wardrobe, fashion local and slow, heritage in one chosen thing).
