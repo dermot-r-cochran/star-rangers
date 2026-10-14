@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- Tissadelle Shepherd's POV may include private inward conversations with the public-facing members of her system, Tobble and Asteria the Sage first, and likewise Sen's three and any non-human plural system (Dermot, 14 October 2026). It is recorded in `story-bible/intake-2026-10-14.md` with its canon checks, and as a paragraph under §5 of `story-bible/prose-style.md`, citing the form already published in S05E02C03.
+
 - **New Journal entry, *What the Refusals Cost*** (`src/journal/what-the-refusals-cost.md`, 2026-10-14, at Dermot's question what ruling out magic and time travel had cost). It sets the kinds of story each refusal closed off beside where some of them went (the past kept as the record, the will kept as a character's experience, the marvel kept as physics), names the two losses that do not come back, and ends on what the refusals bought. It is the cost side of *Special Pleading*, and links to it rather than repeating it.
 
 - `story-bible/images.md` records Dermot's liking of 14 October 2026 for the whimsical fantasy dress and lighting of the Asteria the Sage Codex art, as a register a painted Codex artefact may take freely.
