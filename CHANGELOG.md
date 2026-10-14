@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- The 21 open choices in the four people-by-people sections of 14 October 2026 (dress and colour, social order, companions, machine minds) are ruled as recommended by Dermot the same day, and each section now records the ruling.
+
 - `story-bible/species-design.md` gains *Minds they make*, answering Dermot's question of 14 October 2026 about machine and virtual intelligence among the non-humanoid peoples. It goes people by people, marks each line derived, proposed or not established, and ends with five choices for him.
 
 - `story-bible/civilian-dress.md` gains principle 15 (proposed) and a section, *Peoples in their own media*, working out from the record the dress, ornament, role marks and surface colour of fourteen non-human peoples and the Mnemari, each line marked derived or proposed, with five open choices put to Dermot; `species-design.md` and `open-questions.md` point to it.

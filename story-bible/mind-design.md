@@ -1181,7 +1181,10 @@ or compared with, any human ideology. The record's few named offices
 (*Republic*, *Dominion*, *Compact*, *Assembly*) are Verdance's own names,
 already on its page, and no more are added here.
 
-### Open — his choices
+### His choices — ruled 14 October 2026
+
+**RULED 14 October 2026: all as recommended** (Dermot, verbatim: *"All approved as recommended. Sounds good."*). The recommendation in each item below is now the ruling.
+
 
 1. **The Cerebraun reading of a polity as a body: theirs, or a general
    law?** (A) The Cerebraun's own doctrine only. Other peoples' orders come
