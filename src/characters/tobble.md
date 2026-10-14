@@ -8,7 +8,7 @@ status: Active
 tags: [tobble, plural-mind, tissadelle-shepherd, season-2, season-5, season-6]
 description: "A member of Tissadelle Shepherd's plural system: a ginger cat, he/him, sharing her body as a person on the Concord's ordinary terms. Fronts with cats. Keeps the deeper, more ordered layer of the system's inner world, and was what was left with structure to spend at Dock Seven."
 image: tobble.jpg
-image_alt: "Painted impression of a ginger tabby cat sitting upright on the flat top of a low dry-stone wall on an open hillside before sunrise, seen in three-quarter view with his gaze fixed on something far off to the right; a grey sky with gold at the horizon, heavy brushwork, the hillside dissolving into bare canvas at the edges."
+image_alt: "Painted impression of a ginger tabby cat sitting upright on the flat top of a low dry-stone wall on an open hillside before sunrise, wearing a short night-blue mantle over his shoulders, closed at the throat with one small silver clasp and edged with silver leaf embroidery; seen in three-quarter view with his gaze fixed on something far off to the right, a grey sky with gold at the horizon, heavy brushwork, the hillside dissolving into bare canvas at the edges."
 image_caption: "An impression painted from the system's description, not a likeness"
 ---
 
