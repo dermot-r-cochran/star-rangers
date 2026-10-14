@@ -631,7 +631,12 @@ Nothing here is new.
   relay station with humans aboard (C01: *unreadable to any human on the
   relay station*). So the body works at a surface, in a room humans also use,
   and is not confined to a tank or a medium of its own. Whether it breathes
-  the same air is not on record.
+  the same air was not on record until **Dermot, 14 October 2026**, verbatim:
+  *"They might not like it over prolonged exposure but have a limited
+  tolerance and it is not toxic for them."* Now on `cerebraun.md`: human air
+  is breathable and not toxic to them, with limited tolerance, and they come
+  to dislike it over prolonged exposure. Their preferred air is still not on
+  record, and stays unnamed with the homeworld.
 - **A people who need instruments for a water people's channels.** Cerebraun
   administrators on Meridian *still rely on translation instrumentation* to
   follow the reef-cities' underwater claw-percussion and chemical signalling
