@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- `story-bible/species-design.md` gains *In the Corps*, answering Dermot's question of 14 October 2026 about non-humanoid people in the Star Rangers: for each people, whether and where they serve, the Rangers on record, the uniform equivalent, what the Corps provides and what limits them, each line marked derived, proposed or not established, with a census, a draft principle and five open choices. The gaps are added to the worklist in `open-questions.md`.
+
 - The 21 open choices in the four people-by-people sections of 14 October 2026 (dress and colour, social order, companions, machine minds) are ruled as recommended by Dermot the same day, and each section now records the ruling.
 
 - `story-bible/species-design.md` gains *Minds they make*, answering Dermot's question of 14 October 2026 about machine and virtual intelligence among the non-humanoid peoples. It goes people by people, marks each line derived, proposed or not established, and ends with five choices for him.

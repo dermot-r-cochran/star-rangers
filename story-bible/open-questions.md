@@ -61,9 +61,22 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 - [ ] **Ovruhn** (Thavren), **Ilveth** (Sardain), **Pelagene** (Nerath), **Serephine** (Kharis Belt IV), **Veyr Basaltborn** (Veyr-3): one character each, no home-world page. Further named Ovruhn are explicitly invited (see the Ovruhn entry below). The Veyr and Serephine *leave as absences* ruling covers their language channel only.
 - [ ] **Verdance**: one Verdani character, but the planet holds four civilisations.
 
+**Peoples the record says serve in the Corps, or could, with no Ranger on record** (added 14 October 2026 from `species-design.md`, *In the Corps*):
+- [ ] **A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.
+- [ ] **An Ovruhn Ranger**: `ovruhn.md`, *In the Corps*, describes Ovruhn Rangers in structural survey, search, acoustic watch and disaster mass care; the one named Ovruhn, Vhen, is a chorus keeper on Thavren. This line is the Corps half of the Ovruhn entry's *"any Corps character"*.
+- [ ] **A Prismeri on a Corps posting**: guild astrogators do Survey Corps fold-route confirmation under the compact, and Prismeri contracts name *Ranger liaison postings*, but no Prismeri individual is on record (the *Federation peoples* Prismeri line above is the people as a whole; this one is the posting). Whether such a posting is a Ranger or a seconded guild member is choice 4 in that section.
+- [ ] **A Verdani in or beside the Corps**: Verdani need only full-spectrum light, which Ranger vessels already carry, and Isren Farrowkin sponsored the Survey Corps data-sharing proposal, but no Verdani Ranger is on record.
+- [ ] **The corps of the four non-humanoid Rangers on record**: Mira of Brine, Qiren Tal, Sethka Ru and Suvra Kel each have a role and no corps or rank on their pages; fill when a chapter or portrait needs one, on the Veyr precedent of one plain seated tab until then.
+
+Not on this list, with reasons in that section: the Ollune and the Cerebraun (marked absences, choices 3 and 2), and the Told, Meridian sapients, Spiralites and Doreth (not gaps: not met, not members, or known by one line).
+
 **Kept thin on purpose, so not on this list:** Elvira's kind (a marked absence), New Cotswolds (nothing has come back from it), and the Five Islands' marked absences (meanings and names, not missing people).
 
 **How to fill one:** a character page is Fable's work under CLAUDE.md, grounded only in its people's pages with the rest marked absent, and it gets a portrait prompt in the same PR. The Knarr, Tally, Cerebraun and Meridian pages of 14 October are the worked examples. A home-world page is lore, Opus's unless it is narrated history. Strike each line here with the PR that fills it.
+
+## Non-humanoid peoples in the Corps — raised 14 October 2026, OPEN, five choices his
+
+Dermot, 14 October 2026: *"Non-humanoid people in the Star Rangers organisation"*. Answered people by people in `species-design.md`, *In the Corps — non-human peoples in the Star Rangers, people by people*, each line marked derived, proposed or not established, with a census. Five choices are put there with recommendations, and all are open: (1) the service ages as the human instance, set per physiology by the Medical Corps (recommended), or binding on all; (2) keep the marked absence of any Cerebraun Ranger (recommended), or state that individuals may serve; (3) the Ollune as not established with the reason marked (recommended), or an Ollune serving from a hull; (4) a Prismeri *Ranger liaison posting* as a seconded guild member (recommended), or Prismeri Rangers on the ordinary ladder; (5) adopt the draft principle *the Corps adapts to the Ranger in everything it provides, in nothing it certifies, and says where it cannot* (recommended), or leave it unstated. Choice 1 is a genuine dilemma (Syra at about 150 against the 110 limit); the others are canon or taste calls. The gaps went to the worklist above.
 
 ## Characters for the Knarr Line and the Tally — Dermot's direction of 14 October 2026 — DRAFTED same day, choices named in the PR
 
