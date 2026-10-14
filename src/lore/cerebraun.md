@@ -21,6 +21,7 @@ The **Cerebraun** are a sapient people that a human observer tends to describe a
 - The body has no head and no front. It has an upper side and an underside and is otherwise the same from every direction. A Cerebraun has no pair of eyes. It sees through many small eyes set along its limbs, so each ganglion watches its own stretch of the room.
 - The eight limbs grow in two tiers of four and do different work. The lower four are short and bear the body's weight; the upper four are longer and do the handling. None carries suckers.
 - At rest the skin is dry, matte and finely grained, and holds one quiet tone; the display described above is something a Cerebraun does, not how one looks when still.
+- A Cerebraun can breathe the air humans keep on a station or a ship, and is not harmed by it: it is not toxic to them. It is not the air they would choose, though. Their tolerance for it is limited, and over prolonged exposure they come to dislike it, so a long posting among humans is a cost a Cerebraun carries rather than a danger it is protected from. What air they would choose, the record has not established.
 
 ## Complex Inner Worlds
 
