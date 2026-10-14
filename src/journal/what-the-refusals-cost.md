@@ -36,11 +36,13 @@ And a fourth thing, less often counted: a readership. Some readers come for exac
 
 ## Where some of it went
 
-A refusal moves a story more often than it deletes one, and three of these have moved rather than gone.
+A refusal moves a story more often than it deletes one, and four of these have moved rather than gone.
 
 **The past came back as the record.** If the past cannot be visited, it has to be kept, and keeping became the setting's central institution. [The Archive](/star-rangers/lore/the-archive/) is what a world builds when nobody can go back and check. The Cascade page says it exactly: what changes about the past *is how it is remembered, interpreted and understood*, and that changes in the present. Saint Aoife reaches the present twice, as [a Life](/star-rangers/codex/life-of-saint-aoife/) and [a legend](/star-rangers/codex/the-legend-of-saint-aoife/), each with its author attached, and the gap between them is the story. The time-travel story becomes a story about evidence.
 
 **The will came back as character.** A [point of view](/star-rangers/lore/cosmic-cascade/#through-not-as) may hold an experience the narration does not endorse, and that is where prayer, vision and the answered call now live. What reaches the world from above it does so through structure, design, avatars, Champions and prophets, all of them bounded. The spell is gone, and in its place are people who keep going without a guarantee, which turns out to be a story about faith in the exact sense, a belief held in proportion to what supports it.
+
+**The impossible came back inside minds.** An inner world is the one place in this record where magic and time travel can seem to happen. Tissadelle's is built like a high-fantasy role-playing game, and in it a working can seem to work and a past can seem to be walked back into. Nothing leaks out of it: what happens there is filed as the experience of the people whose interior it is, never as an event in the world. And the address does not travel: an inner world that becomes a universe of its own becomes a world, and its magic is downgraded and normalized in the crossing: the enchanted things arrive as their ordinary counterparts, not destroyed but no longer enchanted. It means the fantasy story was not refused outright. It was given an address, and the address has an edge.
 
 **The marvel came back as physics.** The mythic register stayed and the mechanism changed. A dragon may fly where the air is dense and the gravity low, and owes nobody an apology; it also has a diet. Strangeness is allowed as long as someone can say how it works.
 
@@ -48,7 +50,7 @@ A refusal moves a story more often than it deletes one, and three of these have 
 
 Two losses do not move anywhere, and it would be dishonest to pretend otherwise.
 
-The first is the undo itself. Nothing in this record substitutes for a second chance at the past. Relativity would still let a traveller's clock run slow against home, so the record keeps forward travel of a kind, but forward is the only direction, and it is no help with what has already happened.
+The first is the undo itself. Nothing in this record substitutes for a second chance at the past: an inner world can seem to offer one, and the world outside is unchanged by it. Relativity would still let a traveller's clock run slow against home, so the record keeps forward travel of a kind, but forward is the only direction, and it is no help with what has already happened.
 
 The second is the will acting directly. Nothing replaces wanting something hard enough that the world changes. This is the larger loss of the two, and the one a fantasy reader will feel first.
 
