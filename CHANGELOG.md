@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.40.0] — 2026-10-14
+
+The polities are filled in and peopled. The three held questions on the four polities are answered: the Union and the Hegemony deal world by world, the Star Rangers are the mediator both sides trust when one is needed, and the faster-than-light limit is why no single galactic authority exists. Four characters are added for peoples the record had named but not peopled (Tove Strand of the Knarr Line, Tare of the Tally, Tavesh of the Cerebraun, and Sixth Course of Meridian), each with a portrait, and a worklist records the gaps that remain. The Cerebraun have a body, and Sohrel and Mira of Brine have portraits. The ladder of ranks and structures is clarified: track and corps, department and section, Senior, and the naval comparisons. A new chapter, *A Working That Worked*, is added; the opening chapters, the finale and Knopka's viewpoint are rewritten from a reader review; and UCSD dating now runs CE first before the Concord. The century re-check of images is complete. Antariksha has its design sheet and its picture.
+
 - `story-bible/open-questions.md` gains a worklist of the peoples and settlements the record names but nobody yet lives in, from the 14 October representation survey, to fill when a chapter needs one.
 
 - Portraits filed for Tavesh, Sixth Course, Tove Strand and Tare (`src/images/characters/`), each chosen by Dermot from the generated variants. Tavesh's prompt now uses Sohrel's filed portrait as the reference for the Cerebraun body.
