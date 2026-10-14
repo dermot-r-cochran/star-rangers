@@ -549,7 +549,7 @@ Levril test as the *reason* changes nothing on the page. Lengthening the neck
 or adding a tail would be a change of canon by preference, and that is his
 alone to make. Choices put to him:
 
-- **A. Keep the shape; record the physics as its basis.** (Recommended.) The
+- **A. Keep the shape; record the physics as its basis.** (Recommended; **ruled 14 October 2026**, *"Option A is fine"*.) The
   Levril test stays as a picture rule, and the body has its physical reasons.
 - **B. Lift the Levril test and lengthen the neck modestly** (a jointed, plated
   neck about the length of the head). This is a canon change he would make
