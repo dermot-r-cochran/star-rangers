@@ -32,7 +32,7 @@ Not the two forms; the record has corrected that. The posture. A Prismeri hangin
 
 ## First Wings
 
-![A finished natural-history painting in oil: a slender grey-violet First Wings Prismeri seen from above and behind, hanging head-down by its long-toed hind feet from the shaped ledges of a pale lumenspire lit faintly from within, both wings folded close, the ribbed back and the smooth domed head bent down toward a small triangular glass prism held in its thin clawed wing-fingers, one pale stripe of inlaid glass running along the crown of the head; warm amber haze behind, soft crystal spires far off and a forest of bare crystal spikes below](/star-rangers/images/lore/prismeri-first-wings-painting.jpg)
+![A finished natural-history painting in oil: a grey-violet First Wings Prismeri hanging head-down by its long-toed hind feet from an amber-lit ledge, seen from the side, its near wing held part open so the thin veined membrane shows from the long outer digit back to the hind leg with the haze glowing through it, the smooth head bent down in profile with one half-lidded dark eye and a closed mouth, a pale stripe of inlaid glass along the crown, its three-fingered wing-hands holding a small triangular glass prism up to the light; warm amber haze behind, soft crystal spires and a forest of pale crystal spikes below](/star-rangers/images/lore/prismeri-first-wings-painting-2.jpg)
 *Halle Ostrander's finished painting on panel, worked up afterwards from Plate I of [Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/).*
 
 
