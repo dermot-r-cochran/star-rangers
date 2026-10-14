@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **No Cerebraun voice is audible to humans; machine translation is still needed** (`src/lore/cerebraun.md`, *Communication*, 2026-10-14, Dermot's direction). Whether their speech is sound outside human hearing or no sound at all is marked not established. The translation renders the spoken channel and leaves the skin to be read. Recorded in `story-bible/intake-2026-10-14.md`.
+
 - **The Cerebraun can breathe human air** (`src/lore/cerebraun.md`, 2026-10-14, Dermot's direction). It is not toxic to them, but their tolerance is limited and they come to dislike it over prolonged exposure. Their preferred air is not on record. Recorded in `story-bible/intake-2026-10-14.md`, and the body sheet in `species-design.md` is updated.
 
 - **The Prismeri page now carries Halle Ostrander's finished paintings** (`src/lore/prismeri.md`, 2026-10-14, at Dermot's *"If we must have codex art for Prismeri then it needs to be closer to a photograph as much as possible"*). Two hyperreal oil paintings, worked up by the same naturalist from the field sheets, are filed as new files (`src/images/lore/prismeri-full-wings-painting.jpg`, `prismeri-lattice-gathering-painting.jpg`) and replace Plates II and III as the page's hero and its second and third images, with captions crediting them. The First Wings painting failed both rounds on the face, so that section stays on Plate I. The plates themselves are unchanged and stay in *Plates of the Prismeri*, which gains an Archive note saying the naturalist later worked the sheets up into paintings on panel; Ostrander's character page gains a line to match. Prompts in `story-bible/images.md`, runs in `story-bible/image-prompts.md`.
