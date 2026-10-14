@@ -9,6 +9,8 @@ aliases:
   - "Sixth Course of the Long Shelf"
 description: "One of the Long Shelf reef-city's analysts, a Meridian person who hears a city as a structure answering itself, and who ran the comparison between the Sentinel's pulse and Meridian claw-percussion that found resemblance and not authorship — on the Long Shelf's own account, and no other's."
 tags: ["meridian", "crustacean", "halyx-system", "cerebraun-hegemony", "sentinel", "season-3"]
+image: "sixth-course.jpg"
+image_alt: "Sixth Course on a load-bearing strut of the Long Shelf lattice in dim green water: a long, low, segmented body in dark mineral-grey plates on many short jointed limbs, a smooth armoured hood with a row of small sense-pits, and two blunt forelimb claws laid on the strut."
 ---
 
 A reef-city is not quiet. Every load-bearing course of the Long Shelf carries the percussion of everyone standing on it, and Sixth Course has spent a working life telling which strikes are speech, which are the city settling, and which are the sea.

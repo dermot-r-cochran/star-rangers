@@ -7,6 +7,8 @@ role: "Reader of the ledgers, the Tally — a rotated role; held at the Survey C
 status: Active
 tags: [human, the-tally, sol-system, outer-system, generation-ark, civilian, ledgers]
 description: "The Tally reader who turned the pages for the Survey Corps the third time it asked to see the ledgers: born in the hull, exact and unhurried, counted in a book the record does not hold, and named by the Archive for the weight that is entered so that what is carried can be counted on its own."
+image: "tare.jpg"
+image_alt: "Tare at a mended composite desk in a patched curved room, turning a page of a large ledger as it blurs in motion: black hair cut at the jaw, an undyed grey-brown tunic, a shelf of dark ledger spines behind her."
 ---
 
 Tare is a reader of the ledgers. The [Tally](/star-rangers/lore/the-tally/) have no rank that is not a role and no role that is not rotated, and the reader's is one of them: when the ledgers are shown to anyone, they are shown in the hull, in the Tally's language, by a reader who turns the pages. The [Survey Corps](/star-rangers/lore/star-rangers-survey-corps/) has asked to see them three times and been shown them each time. At the third showing the reader was Tare.
