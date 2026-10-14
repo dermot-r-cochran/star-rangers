@@ -35,6 +35,10 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Dress, ornament and surface colour of the non-human peoples — `civilian-dress.md`, *Peoples in their own media*, 14 October 2026 — OPEN, not blocking
+
+At his two questions of 14 October (*"Dress codes, styles and ornamentation for non-humanoid peoples"*; *"Skin or surface colour variations in non-humanoid peoples"*), each people was worked out from the record, line by line derived or proposed, with principle 15 proposed as the general rule. Five choices are put to him there as options with recommendations: (1) the Pandoid coat, grey or black-and-white markings, A recommended; (2) the four Chthonari portraits alike, vary at the next re-roll or keep one carapace for the people, A recommended; (3) whether a Cerebraun's resting tone is individual or regional, A (individual) recommended; (4) the Pelagene's own role medium, a carried object or a skin display, A (object) recommended; (5) a Verdani token, none with the reason stated or a worn or grown one, A (none) recommended. The proposals stand as recommended until he rules.
+
 ## Peoples and settlements the record names but nobody yet lives in: a worklist, raised 14 October 2026, OPEN, fill when a chapter needs one
 
 Dermot asked, 14 October 2026: *"Any other people groups that seem under represented either as characters or as settlements?"*, adding *"Keeping in mind that 6 centuries have past and that people groups may have blended in some ways."* A read-only survey counted characters, POV chapters and settlement pages for every people and group the record names, using the record's own 29th-century groupings and not today's ethnic or national categories. He chose A, then B, then C. **A** was a Knarr Line and a Tally character (Tove Strand and Tare, PR #1206). **B** was a second Cerebraun and a Meridian character (Tavesh and Sixth Course, PR #1205). Portraits for all four are in PR #1207. **C** is this list: the gaps that remain, kept here so each can be filled when a chapter needs one rather than all at once.

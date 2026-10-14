@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- `story-bible/civilian-dress.md` gains principle 15 (proposed) and a section, *Peoples in their own media*, working out from the record the dress, ornament, role marks and surface colour of fourteen non-human peoples and the Mnemari, each line marked derived or proposed, with five open choices put to Dermot; `species-design.md` and `open-questions.md` point to it.
+
 - `story-bible/civilian-dress.md` gains principle 14, ruled by Dermot on 14 October 2026: a Krenyi dresses plainly, in clothes that are well made and unornamented and chosen for clarity, not utility. It is proposed from the Krenyi page's *absence of ornament* and stands in for a place entry, since the Krenyi decline to be placed.
 
 ## [1.40.0] — 2026-10-14

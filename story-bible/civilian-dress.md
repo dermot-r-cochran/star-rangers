@@ -137,6 +137,29 @@ and the record now holds no character who dresses old. See* Ashcombe, ruled
     one. On duty a Krenyi Ranger wears the uniform like anyone else (Toval); off
     duty, Syra's plain fitted high-necked garment is the worked example.
 
+15. **Every people dresses, marks and colours itself in its own medium, and
+    colour is never a tell.** PROPOSED 14 October 2026, at Dermot's two
+    questions of that day (*"Dress codes, styles and ornamentation for
+    non-humanoid peoples"*; *"Skin or surface colour variations in
+    non-humanoid peoples"*); the per-people working is in *Peoples in their
+    own media* below. It generalises principle 8 and *Marks of belonging*
+    (`species-design.md`) in four clauses. (a) What a people wears, if
+    anything, answers its body first, and nothing worn covers an organ of
+    sense or of metabolism: the Pelagene integument, the Verdani kinbeds, the
+    Ovruhn flank, the Cerebraun skin, a Chthonari's limb-tips. (b) A role or
+    a belonging is marked in the medium the people's senses carry best, and
+    that medium need not be visible to a human at all: the Ollune near word
+    is chemical, a Chthonari name is struck, a name among the Told is a
+    telling, an Ilveth statement is warmth. (c) Individuals differ in surface
+    colour, as humans do, inside whatever the people's page fixes. (d) Colour
+    reads only what a page says it reads (Verdani kinstrain and home biome,
+    Prismeri life stage, Cerebraun display) and never a person's character,
+    rank or danger, as a speech difference is never a tell for the dangerous
+    one (`ideas.md`, 10 October). Two prompt rules follow: nothing glows
+    unless its page says so (the Spiralites' inner light is the one case on
+    record), and colour that changes belongs only to a people whose page
+    gives it a channel (the Cerebraun).
+
 ## What follows, by setting
 
 - **Habitat professional** (Eden, Threshold, the Compact). DERIVED: a plain
@@ -302,6 +325,122 @@ Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each settin
 *Tags:* none on record
 - **Conditions:** Biomes healthier than at any point since the early industrial era; Venice floats and *does not flood* (`venice.md`, `the-commonwealth.md`). *Derived.*
 - **Everyday:** The widest range of any place in the record, by climate, region and heritage. *Proposed.*
+
+## Peoples in their own media — dress, ornament and surface colour
+
+Drafted 14 October 2026 at Dermot's two questions of that day, verbatim: *"Dress codes, styles and ornamentation for non-humanoid peoples"* and *"Skin or surface colour variations in non-humanoid peoples"*, minutes after he ruled principle 14 for the Krenyi. The section works principle 15 out people by people. **Nothing here is canon, and nothing in it is written to a page:** each line is **derived** (it follows from the page cited) or **proposed** (a reading that fits the page, his to change), and *not stated* means the record is silent. A proposed line is a default for image prompts, not a fact about a culture; no meaning is given to a colour or a mark beyond what a page supports, and a people's role mark is picked in the page that needs it, under the rule in `species-design.md` (*The uniform equivalent*, *Marks of belonging*). Portraits and their prompts are cited as practice: an `image_alt` records what a file shows, and the colours chosen for a frame (*Readings taken for the frame* in `images.md`) are Fable's illustrative readings, not the record's. The Krenyi are principle 14 and are not repeated here; the Mnemari close the list for contrast. This section is not read by `scripts/extract-wardrobe.js`, which stops at *Dress by place*.
+
+Three refusals hold for every block, from the trope default and the standing image rules: no glowing tattoos, no war paint, no tribal jewellery, no bioluminescent signalling unless the page gives it; no human garment on a body it was not cut for (principle 8); and the modesty and tone bars as for anyone, which for these bodies mostly means nothing that makes a body a spectacle or a threat.
+
+### Cerebraun
+- **Conditions and body:** No head and no front, an upper and an underside, eight limbs in two tiers of four, small eyes along the limbs; the skin is chromatophore and texture-changing tissue, *dry, matte and finely grained* at rest, holding *one quiet tone* (`src/lore/cerebraun.md`, extended at the 13 October ruling; `species-design.md`, *Cerebraun*). The homeworld and its air are unnamed. *Derived.*
+- **Coverings and worn things:** None on record; Sohrel's and Tavesh's prompts draw *nothing worn and no mark of office* (`images.md` § 14). The skin is the second channel, so a covering would silence half of what a Cerebraun says; the default is no garment, and instruments are housings at a surface, not worn (Tavesh's frame). *Proposed, from the derived channel.*
+- **Ornament and role marks:** The skin carries *identity signaling* and a formal display-language for technical and diplomatic work (`cerebraun.md`), so identity and formality are displayed, not worn. A Hegemony mark of office is not on record; its natural reading is a display, and the pick waits for a page (`species-design.md`). Default for a prompt: no mark shown. *Derived for the channel; proposed for the default.*
+- **Surface colour:** Fixed: one quiet tone at rest, and display as a change from stillness. Varies: the display, rapid and high-bandwidth, with emotional broadcast leaking from the limb-ganglia, resolving at about four centimetres (*a slow color shift across four centimeters of skin*, S03E01C01). Individuals differ in resting tone in practice, Sohrel slate-violet and Tavesh warm grey-olive (`images.md` § 14, readings for the frame, not on a page). Whether resting tone follows anything is open item 3. Age, region and life stage: not stated. *Derived, with the two tones as practice.*
+- **Prompt vocabulary:** *one quiet matte tone across the whole body; any display a small patch a shade warmer or cooler, a few centimetres wide, never a glow and never a pattern across the body; nothing worn.* Negate the Earth animal by name, as in `species-design.md`.
+
+### Chthonari
+- **Conditions and body:** Small, six-limbed, exoskeletal, low and dense; vibration-sensing organs along each limb and the lower carapace; brief vacuum tolerated, a sealed burrow needed (`src/lore/chthonari.md`). *Derived.*
+- **Coverings and worn things:** Not stated, and none in the four portraits. Anything worn must leave the limbs and the lower carapace in contact with the structure, since that is where a Chthonari hears; a Chthonari in Corps service wears the modular shell *fitted per body plan* (`rank-insignia-and-uniform.md`), on that condition. *Proposed, from the derived sense.*
+- **Ornament and role marks:** A name is *struck, not spoken*, a short signature of strikes on whatever is underfoot (`chthonari.md`), so the record's one Chthonari mark of a person is a sound in the structure. A role mark is open between a standing tone in the Undersong and nothing at all (`species-design.md`, shapes (a) and (b)). No visual ornament is on record or proposed. *Derived for the name.*
+- **Surface colour:** Not stated on the page. The filed set is *dull slate carapace with a bronze cast, the Undersong's nickel-iron in it*, chosen as *an illustration decision, not canon* (`images.md`, Orbital Five-O), and all four are alike. Proposed: the carapace is not a display surface (the people's medium is vibration), so individuals differ in wear, scuffing, grit and a modest range of tone, never in pattern. Whether the next portraits vary is open item 2. *Practice and proposed.*
+- **Prompt vocabulary:** *matte worn chitin, scuffs and grit in the segment joints, every limb in contact with the plating; no mandibles, no gloss, no markings.*
+
+### Ilveth
+- **Conditions and body:** Long and low, segmented, several paired limbs; a hooded sensory crown with dry mirror-pits and a ring of small photic eyes below it; broad vascular vanes along the flank and crown; the body runs at ground temperature (`src/lore/ilveth.md`). *Derived.*
+- **Coverings and worn things:** Aboard station the modular shell is worn *as a cooling shell*, with chilled quarters (`ilveth.md`; `src/characters/suvra-kel.md`). At home, shelter means *not showing the sky your heat*, and insulation is raised *to the level other civilisations reserve for art* (`ilveth.md`). What an Ilveth wears at home is not stated; if anything, it would be insulation, and it would carry no light. *Derived for the station; proposed for home.*
+- **Ornament and role marks:** The register that matters is the warm-write: meaning written in heat on the vanes, costly, *reserved for what is worth paying to say* (`ilveth.md`). It is thermal, so it is invisible to a human eye and to an ordinary camera. A role mark is not stated; if one exists it would most likely be in that register, so a prompt shows none. *Derived for the channel; proposed for the absence in a picture.*
+- **Surface colour:** Not stated on the page. Varies, in the thermal band only: the vanes flood and starve deliberately, and *flicker involuntarily* when an Ilveth is exhausted, ill or frightened, and Ilveth manners decline to answer it (`ilveth.md`). In visible light, practice gives slate-grey (Suvra Kel) and *dull, dry, finely granular grey-blue with frost in the creases* (`images.md`, `ilveth.jpg`). Proposed: cold, unsaturated greys, frost on home ground, no visible change with mood. *Practice and proposed.*
+- **Prompt vocabulary:** *dull dry granular grey hide, frost in the creases, vanes folded flat; nothing glows, nothing lit.* A heat-image of an Ilveth is not a photograph's register and is not proposed.
+
+### Ovruhn
+- **Conditions and body:** A large, broad, deep-chested quadruped mass with a fan of handling tendrils; the hide of the flanks is the ear; small mild eyes; resonant chambers in the chest (`src/lore/ovruhn.md`). *Derived.*
+- **Coverings and worn things:** On duty the shell is *mostly a mounting for the instruments that stand in for a starved sense* (`ovruhn.md`, *In the Corps*). Since the flank hide hears, nothing heavy covers the flanks. *Derived for the shell; proposed for the flanks.*
+- **Ornament and role marks:** The medium is sound: the under-song is honest by physiology, and a role among them is kept in the chorus (Vhen is *a keeper of the meeting-chorus*, `src/characters/vhen.md`). A role is heard, not worn. No visual mark is on record. *Derived for the chorus; proposed that a role is heard.*
+- **Surface colour:** Not stated, and no Ovruhn has been drawn (the lore image is a card; Vhen has none). Thavren's light is *shadowless and sourceless* and sight is the short sense, so display colour would carry little there. Proposed default: a quiet, uneven hide of muted mineral tones, varying by individual and age as any hide does, with no markings that signal. *Proposed.*
+- **Prompt vocabulary:** *a deep-chested quadruped bulk, matte uneven hide, tendrils at work, small mild eyes; nothing worn on the flanks.*
+
+### Pelagene Littoral
+- **Conditions and body:** Radially symmetrical about a vertical axis; a large folded water-permeable integument that is the organ of perception; fine tentacular cirri; a buoyancy organ; slowly drying on a station (`src/lore/pelagene-littoral.md`). *Derived.*
+- **Coverings and worn things:** The Rangers' shell as a Pelagene wears it: a few small fitted sections seated between the folds, nearly all of the integument left open, since covering it would blind and dry her (`species-design.md`, taken for Mira of Brine's prompt on 13 October). Hydration-cycle kit exists (`src/characters/mira-of-brine.md`) and stays out of frame, on the page's warning that it gets read as frailty (`images.md` § 12). *Derived.*
+- **Ornament and role marks:** The people's own equivalent is open between controllable colour or pattern on the body and a carried object that reads in the water (`species-design.md`); this is open item 4. A carried object would be grown metal, since *metals are grown, not melted* (`pelagene-littoral.md`). *Derived for the shapes; open.*
+- **Surface colour:** Not stated. Mira's frame gives *an opaque mottled grey-green*, translucency refused as *a jellyfish's tell* (`images.md` § 12, reading for the frame). Proposed: opaque and mottled, individuals differing in tone and mottle, wet; no translucency and no glow. *Practice and proposed.*
+- **Prompt vocabulary:** *opaque mottled wet integument in deep vertical folds, cirri at simultaneous work; a few small shell sections seated between the folds.*
+
+### Prismeri
+- **Conditions and body:** A flier: level spine, wing-forelimbs with three free clawed fingers, prehensile hind feet, rests by hanging; two forward eyes and a crystalline facet band on the skull ridge; short neck, no tail (`src/lore/prismeri.md`). *Derived.*
+- **Coverings and worn things:** Not stated. Off-world postings carry light-spectrum and, for Full Wings, corridor-geometry accommodations (`prismeri.md`). Proposed: nothing on the wing membrane, which is the flight surface, and nothing over the facet band, which reads the light overhead. *Proposed, from derived organs.*
+- **Ornament and role marks:** The form itself is visible, but *the Emergence adds a sense, not a rank*, guild status is not hereditary, and no lesser standing attaches to those who never transform (`prismeri.md`). So the gold-and-blue of Full Wings marks a life stage and never a status, and no guild mark is on record. *Derived.*
+- **Surface colour:** Fixed by life stage, the record's clearest case. First Wings: a soft, still-hardening exoskeleton *in grey-violet tones*, translucent gossamer membranes. Full Wings: *hardened, gold-and-blue chitin plating*, load-bearing wings, crystalline tendrils from the skull ridge (`prismeri.md`; the three plates). The change is irreversible and not universal. Variation within a form is not stated; proposed: shade varies between individuals inside each form's palette. The forest glows; the page does not say the Prismeri do, so they do not. *Derived, with one proposed line.*
+- **Prompt vocabulary:** *grey-violet soft exoskeleton and translucent membranes* (First Wings) or *gold-and-blue hard plate and crystalline ridge tendrils* (Full Wings); *no glow, no long neck, no tail.*
+
+### Serephine Dunekin
+- **Conditions and body:** A closed form, *sealed, opaque, reflective*, mineral-hard, for most of the day, and an open form at dawn and dusk when the furled respiratory surface unfolds; light-scattering eye membranes (`src/lore/serephine-dunekin.md`). *Derived.*
+- **Coverings and worn things:** In station air Sethka wears *filtration gear mostly for comfort* (`src/characters/sethka-ru.md`), and the modular shell is fitted per body plan (`rank-insignia-and-uniform.md`). The closed body is itself the armour against the sky, so nothing more is needed outdoors at home; anything worn must leave the surfaces that open free to open. *Derived for the gear; proposed for the rest.*
+- **Ornament and role marks:** Open between posture or gait and a worn mark (`species-design.md`); no pick. Not stated.
+- **Surface colour:** Fixed: the closed form opaque and reflective. Varies, twice a day: the open form, *broad, fanned, many-surfaced*, vascular. Practice: *matte pale bone-grey, weathered like old bone* for the carapace, the vanes thin and translucent (`images.md`, `sethka-ru.jpg`). Proposed: individuals differ in shade and weathering; the open form is a body breathing, never a display. *Derived, with practice and one proposed line.*
+- **Prompt vocabulary:** *pale weathered reflective carapace, pitted and scratched; respiratory vanes thin and translucent where the low light comes through, only at a margin hour.*
+
+### Verdani
+- **Conditions and body:** Low-slung and multiply supported; kinbeds of photosynthetic thallenwort on broad extensible vanes; no single face; continuous orienting to the light (`src/lore/verdani.md`). *Derived.*
+- **Coverings and worn things:** Off-world they need full-spectrum light (`verdani.md`). A kinbed shaded is a metabolism cut, and kinbed health is treated as a physician treats a heart (`verdani.md`), so nothing is worn over a vane. *Derived for the need; proposed for the rule.*
+- **Ornament and role marks:** Strain colour *is biology, not a mark, and must not be conscripted as one* (`species-design.md`). Belonging is carried in the kinstrain name, Farrowkin or Duskkin, which names the lineage a person was bonded into (`verdani.md`). A worn or grown token, or an absence with its reason, is open item 5. *Derived for the name; open for the token.*
+- **Surface colour:** The record's most fixed case, and it varies by **region and lineage**: deep chlorophyll green (high-canopy), duller olive-brown (fenland, under marsh mist), pale and highly reflective (high-terrace, unfiltered sun), reddish (steppe, from accessory pigments). Colour is *a reasonably reliable indicator of kinstrain and, by extension, home biome* and of nothing about the individual (`verdani.md`). Isren's kinbeds *run the deep chlorophyll green of a High-Reach Compact lineage* though she was raised in Understory territory, and delegates who read it as faction are *reliably wrong-footed* (`src/characters/isren-farrowkin.md`). The vanes opening or folding is *not display or mood — it is eating* (`verdani.md`). Change with kinbed health or age: not stated. *Derived.*
+- **Prompt vocabulary:** *living leaf tissue with torn margins, the daylight through it*, in the lineage's colour; *no face, no head, nothing worn on the vanes.*
+
+### Veyr Basaltborn
+- **Conditions and body:** A truss, an external lattice of fine chitinous members; compound eyes distributed; no fixed front (`src/lore/veyr-basaltborn.md`). *Derived.*
+- **Coverings and worn things:** A Veyr on duty wears no garment: corps colour and rank tab are seated directly on the lattice (ruled 12 October, `species-design.md`). *Derived.*
+- **Ornament and role marks:** The Veyr's own mark beside the Rangers' is *still undescribed* (`species-design.md`); shape (a), a mark worked into the body's surface, stays a shape. Not stated.
+- **Surface colour:** Fixed for the people: *the dark iridescent sheen of cooled basalt*, abrasion-resistant *the way a glaze resists sand* (`veyr-basaltborn.md`; `src/characters/qiren-tal.md`). Variation between individuals is not stated; proposed: wear, grit and the sheen moving with the light, never with mood. *Derived, with one proposed line.*
+- **Prompt vocabulary:** *dark chitin with the iridescent sheen of cooled basalt, worn, grit in the joints; a single seated tab where the record gives one.*
+
+### Ollune
+- **Conditions and body:** Mostly envelope, a translucent gas bladder several metres across with tendrils and filter-vanes beneath; buoyant only by continuous metabolic effort (`src/lore/ollune.md`). *Derived.*
+- **Coverings and worn things:** *Mass is a tax*: anything carried is lifted *hourly, forever*, and an Ollune holds only what it is using (`ollune.md`). So the people wear nothing that is not at work, and the rare traveller goes in a Federation-built pressure hull (`ollune.md`). *Derived.*
+- **Ornament and role marks:** Office exists only as a **near word**, a chemical mark attributable to the body that made it; the far word binds nothing (`ollune.md`). A role is therefore marked chemically, at close range, by consent, and is invisible to a camera. Ornament for its own sake would be weight, and the word for a rich individual is *heavy*, *and is not flattering*. *Derived.*
+- **Surface colour:** Translucent (`ollune.md`); what a viewer sees is mostly the light through the envelope, amber against the sun in the filed frame, *veined like a leaf held up to the sun* (`images.md`, `ollune.jpg`). The frame's glowing core was refused, since the page gives none. Variation: not stated; proposed: size and veining, not colour. *Derived, with practice.*
+- **Prompt vocabulary:** *translucent veined envelope lit from behind, a short fringe of tendrils and filter-vanes; no glowing core, nothing carried.*
+
+### Pandoids (the Told)
+- **Conditions and body:** Large, upright, powerfully built, thick fur that *reads as grey against the stone* (`src/lore/planets/fliade.md`); about the size of a suited human, round head on a round body, *cute giant teddy bears* rather than sloths (ruled 7 October, `species-design.md`). The deep networks are warm. *Derived.*
+- **Coverings and worn things:** None on record, and the fur is the coat. The Told carry their record in speech, and a stone moved before entering is manners, not equipment (`src/glossary/the-told.md`; `src/characters/teddy.md`). *Derived.*
+- **Ornament and role marks:** A person is named by a telling, and a name grows (`the-told.md`), so who someone is and what they have done are told, not shown. *A visual mark for a deep-side people is the first thing to doubt* (`species-design.md`). No ornament is proposed. *Derived.*
+- **Surface colour:** Grey, from the page. Individuals differ in practice: Teddy grey, *eyes ringed in darker grey*, smaller and with *a denser coat* (`teddy.md`); Went-Round *dark-grey*; Stone-First grey. Dermot's remark of 7 October that a suited human *would almost blend in if the suit had black and white markings* is noted and not on a page (`intake-2026-10-07.md`); whether the coat carries such markings is open item 1. *Derived, with practice.*
+- **Prompt vocabulary:** *dense grey fur in soft overlapping ridges, real and a little matted, silt caught low down; darker grey round the eyes; nothing worn or carried but, at times, a stone.*
+
+### Meridian sapients
+- **Conditions and body:** An armoured, segmented crustacean line breathing ammonia-saline seas; claw-percussion and a slower chemical channel; builders in secreted mineral composite (`src/lore/planets/meridian.md`). Humans meet them only through instrumentation and armoured remote proxies. *Derived.*
+- **Coverings and worn things:** Not stated. What a Meridian people makes is the city, lattice laid course on course (`src/characters/sixth-course.md`); nothing worn is proposed. *Proposed.*
+- **Ornament and role marks:** A name is a percussion address, *a pattern others strike*, rendered as a course of the city's lattice (`sixth-course.md`). Role marks: not stated; proposed, carried in the address and the percussion, not on the shell. *Derived for the name.*
+- **Surface colour:** Not stated. Sixth Course's frame: *dark mineral-grey plates* in dim green water (`sixth-course.md`). Any picture is a proxy's camera in that water. Proposed: muted mineral tones, individuals differing in plate wear and tone. *Practice and proposed.*
+- **Prompt vocabulary:** *dark mineral-grey armoured plates, low and segmented, dim green water; a strut of mineral lattice.*
+
+### Spiralites
+- **Conditions and body:** *Semi-translucent, with bioluminescent neural structure visible beneath the skin*; they speak, and reproduce, by electromagnetic pulse; they build spiral habitats tuned to the Carillon (`src/lore/planets/corryn.md`). *Derived.*
+- **Coverings and worn things:** Not stated. The colony shields itself against the fields; a covering that shielded a Spiralite would gag it, so none is proposed. *Proposed, from the derived channel.*
+- **Ornament and role marks:** Not stated.
+- **Surface colour:** The one people on record whose page gives an inner light, and it is neural structure beneath the skin, not a mark on it. Speech is electromagnetic, so the light is not the speech, and the page does not say it varies. *Derived for the light; proposed for its reading.* No image has been made.
+- **Prompt vocabulary:** *semi-translucent body, a faint inner light of neural structure beneath the skin; no patterns on the surface, no glowing marks.*
+
+### Doreth
+- **Conditions and body:** *Heavy-built, radiation-tolerant*, breathing a *denser, sulfur-rich atmosphere*, living in sealed dome sections on Aspenar (`src/lore/planets/aspenar.md`). *Derived.*
+- **Coverings, ornament and surface colour:** Not stated, and nothing is proposed; the Doreth wait for a page.
+
+### Mnemari, for contrast
+- **Conditions and body:** A humanoid people (`src/lore/mnemari.md`), so cloth and a worn mark are available, as for the Krenyi. *Derived.*
+- **Dress and ornament:** Not stated. Principle 14 is the Krenyi's and does not transfer. The Setting-Down and the Held Roles are a civic change, not a dress one, and no garment or mark is proposed for them. Principles 1 to 7 apply as for anyone. *Proposed.*
+- **Surface colour:** Not stated, and the image is a card.
+
+### Open — his choices
+
+Kept to the questions where two readings both fit the record and the choice is taste. Everything else above stands as recommended, under the dilemma-only rule, until he changes it.
+
+1. **The Pandoid coat.** A) Grey, as the Fliade page and all three filed portraits have it, individuals differing in shade, with Teddy's darker eye-rings the one marking on record. B) Black-and-white markings, after his 7 October remark about the cold suit, written to the Fliade page as a clarification, with the three portraits re-rolled. **Recommended: A.** The page says grey, and markings in black and white pull a generator straight to the Earth panda that every Pandoid prompt negates.
+2. **The four Chthonari alike.** A) Keep the filed set; the next re-roll of any one varies wear, scuffing and tone within the slate-and-bronze range, so each is a unique face under the identity rule. B) One carapace for the people, and individuals told apart only by size, posture and what they are doing, since colour is not their medium. **Recommended: A.** The set stands as he approved it, and the identity rule applies at the next re-roll, not now.
+3. **What a Cerebraun's resting tone follows.** A) It is individual, like a human's skin tone, tied to no office, region or age, as Sohrel's slate-violet and Tavesh's grey-olive already are. B) It follows the home cluster's regions, on the Verdani pattern. **Recommended: A.** Nothing on a page ties it to anything, and regional colour is the Verdani's distinction.
+4. **The Pelagene's own medium for a role.** A) A carried object that reads in the water, a sound-maker or a grown-metal tool worn where it can be seen, with the integument's colour fixed and not a display. B) Controllable colour or pattern on the integument. **Recommended: A.** Display skin is already the Cerebraun's channel, and the Pelagene integument is spoken for as the organ of perception.
+5. **A Verdani token.** A) Nothing worn and nothing grown: belonging is the kinstrain name, and the reason is stated (anything on a vane shades a metabolism). B) A worn or grown token, distinct from strain colour, carried off the vanes. **Recommended: A.** The page already gives belonging a medium, the name, and gives the vanes a job that a token would cost.
 
 ## How a prompt says it — PROPOSED
 
