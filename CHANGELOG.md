@@ -8,6 +8,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 - `story-bible/mind-design.md` gains *How a people holds standing*, at Dermot's question of 14 October 2026: the social and functional order of each non-humanoid people (the Cerebraun and their Hegemony, Meridian's reef-cities, the Chthonari, Ilveth, Ovruhn, Pelagene, Prismeri, Serephine, Verdani, Veyr, Ollune, the Told, the Spiralites and the Doreth), each line marked derived, proposed or not established, with what it means for the Corps, a paragraph on what holds generally, and five open choices for him.
 
+- `story-bible/species-design.md` gains *Living with other life*, a people-by-people account of the companions, working animals, commensals and tended life of fourteen non-human peoples, each line marked derived, proposed or not established, with six open choices for Dermot (14 October 2026, at his direction *"Pets and companion creatures for non-humanoid peoples"*).
+
 - `story-bible/civilian-dress.md` gains principle 14, ruled by Dermot on 14 October 2026: a Krenyi dresses plainly, in clothes that are well made and unornamented and chosen for clarity, not utility. It is proposed from the Krenyi page's *absence of ornament* and stands in for a place entry, since the Krenyi decline to be placed.
 
 ## [1.40.0] — 2026-10-14
