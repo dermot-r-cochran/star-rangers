@@ -1127,3 +1127,416 @@ human Ranger's culture, it is never the baseline the others are measured from
    the two names for the people are left. (B) State it on the Fliade page or
    in the glossary. **Recommended: A.** `fliade.md` keeps the survey's side
    on purpose, and the chapters keep the Told's.
+
+---
+
+## Minds they make — machine and virtual intelligence, people by people (drafted 14 October 2026)
+
+Dermot's question, verbatim: *"Machine intelligence or virtual intelligence as
+used and developed, if any, by non-humanoid peoples."* This section answers it
+people by people, from the record. Every line is marked **DERIVED** (with the
+page it comes from), **PROPOSED** (a choice, his to overrule), or **not
+established** (with the reason the absence is the right shape, where it is).
+Nothing here is written to `src/`; the open items at the end are his.
+
+**Two terms, fixed first.** *Machine intelligence* here means an agentic made
+mind, the thing the Kernel governs. *Virtual intelligence* has two readings,
+and the record answers both. (a) **A machine that computes without deciding**:
+the record's range of postures runs *"from none, through instruments that
+compute without deciding, to traditions the Concord would recognise as peers"*
+(DERIVED, `the-makers-shape.md`), so this is a real point on the range, and
+several peoples below sit on it. (b) **A simulated person**: refused. A
+simulated person who answers back and does not say what it is, is the
+universal-translator pretence *"given a body and a room to stand in"*
+(DERIVED, `what-the-record-refuses.md`, the holodeck clause). No people below
+is given one.
+
+**The four rules every sub-block obeys** (all DERIVED):
+
+- **A made mind is made from its makers.** Each people's machines, if any,
+  carry that people's senses, language and priorities; there is no
+  species-neutral machine and no archetype for AI as distinct from sapience
+  (`the-makers-shape.md`, `made-minds-and-the-ai-safety-archetype.md`).
+- **Declining is a complete answer.** The Krenyi build none, *"needing no AI
+  and wanting none are, to them, one fact rather than two"* (`krenyi.md`);
+  no point on the range is ahead of any other.
+- **The safety shape converges; nothing else does.** Nearly every
+  machine-building culture arrives at conditional obedience, lawful refusal,
+  harm weighed at outcomes and deception forbidden to the machine. The
+  archetype explains that convergence and enforces nothing
+  (`made-minds-and-the-ai-safety-archetype.md`).
+- **The Kernel is the Concord's and claims nothing wider.** Some alien
+  civilisations run approval regimes of their own; some run none; at least
+  one fields beneficial machines in a variety no Concord gate would have
+  passed, filed as *unusual* and nothing worse (`ai-safety-kernel.md`,
+  *Commissioning*). **Which faction that is stays open**
+  (`intake-2026-07-28.md`, third direction: *"don't resolve it in a lore
+  page"*), and nothing below names one.
+
+### Cerebraun and the Hegemony
+
+- **What the record says.** The Hegemony runs automated survey
+  classification: *"centuries of automated classification"* filed the
+  Sentinel's pulse as a hazard beacon until a Ranger heard structure in it
+  (DERIVED, `planets/sentinel.md`). It keeps translation instrumentation for
+  Meridian's two channels, which argues with itself over connotation for half
+  an hour and keeps a connotation log (DERIVED, `planets/meridian.md`,
+  `characters/tavesh.md`). Whether either system is an agentic mind or an
+  instrument that computes without deciding is **not established**.
+- **Does a distributed mind need one?** The record's own counter-case says a
+  mind that is already several still keeps a companion: Sen is three people
+  at one desk and keeps Marginalia anyway (DERIVED, `characters/sen.md`). So
+  nine centres is no reason to need no machine. Whether the Cerebraun build
+  agentic minds is **not established**.
+- **Form, if they do (PROPOSED).** The biology gives the shape before the
+  doctrine does. A Cerebraun limb-ganglion has *"localized preference and
+  mood"* and can act against the central brain, which Cerebraun physicians
+  treat *"as ordinary rather than pathological"* (DERIVED, `cerebraun.md`). To
+  that body, a part that can decline the central voice is not alarming. A
+  Cerebraun-made mind would be built as a centre among centres, reporting on
+  two channels (a stated position and a confidence display), the way a
+  Cerebraun does. Hegemony *doctrine* says the limbs execute and do not
+  bargain (DERIVED, `cerebraun-hegemony.md`); which of the two its machine law
+  follows is **open choice 1**.
+- **Kernel relation.** Outside it. The Hegemony is in neither the Concord nor
+  the Federation (DERIVED, `federation-of-sentient-beings.md`); whether it
+  runs a regime of its own is **not established**.
+- **Meeting the Corps.** Ranger vessels in Hegemony space carry
+  Kernel-compliant systems by charter (DERIVED, `ai-safety-kernel.md`, *The
+  Kernel and the Star Rangers*). The documented meeting is already the
+  Sentinel: a Hegemony classifier's noise bin, and a human ear. **Trap
+  closed:** the *Veritas Report*'s obedient machines
+  (`made-minds-and-the-ai-safety-archetype.md`) must not be pinned on the
+  Hegemony as its machine culture. That makes a people a villain, which the
+  cast principles refuse.
+
+### Chthonari
+
+- **Build, and incorporate.** Chthonari engineering builds agentic systems
+  *into* the work, *"a monitoring intelligence built into a scaffold or a
+  burrow the way another culture would build in a load-bearing rib"*; to them
+  a structure that can also listen *"is a completion"* (DERIVED,
+  `chthonari.md`, *Machines in the Work*; `mind-design.md` §5).
+- **Form.** A listening member of a tuned structure, reading the same
+  substrate vibration the Undersong runs on (DERIVED, same pages). Never a
+  discrete robot: incorporation is **not** the beneficial-robots faction, and
+  the record says not to conflate the two (DERIVED, `intake-2026-07-28.md`).
+- **Kernel relation.** Inside Concord jurisdiction the practice runs under the
+  Kernel *"like everyone else's"*, and *"the instinct is older than the
+  compliance"* (DERIVED, `chthonari.md`). Chthonari monitors stand outside the
+  Concord's please-and-thanks convention, being members of the structure and
+  not colleagues beside it (DERIVED, `ai-safety-kernel.md`; `open-questions.md`,
+  4 September). What governs a monitor at home in the Belt, a Federation
+  member, is **not established**: **open choice 2**.
+- **Meeting the Warden.** Tsikk addresses Eden's Warden from the deck, as part
+  of the work, without the desk the humans go through (DERIVED,
+  `characters/tsikk.md`). Two things stay open and are left so: what Tsikk
+  made of a habitat answering from its record while its structure said
+  otherwise, and what the difference between a Chthonari monitor and the
+  Compact's Warden will cost Tsikk, if anything. The page marks both as not
+  yet held.
+
+### Ilveth
+
+- **What the record says.** Astronomy came late, *"through instruments"*;
+  industry is buried heat-mining; heat-thrift carries the moral weight other
+  cultures give honesty; and *"for a people who see heat, industry is
+  illumination"* (DERIVED, `ilveth.md`). Whether they build agentic machines
+  is **not established**.
+- **Form, if they do (PROPOSED).** Computation is heat. To an Ilveth a working
+  machine mind is a lit building, shouting, so any Ilveth-made mind would be
+  small, buried, banked and cold-running, and its makers would count its
+  waste heat as the first fact about it. The likelier posture is the second
+  point on the range: instruments that compute without deciding, kept small.
+- **Kernel relation.** A contacted world; no Ilveth regime on record (**not
+  established**). The Kernel's fourth invariant counts computation as a waste
+  to be minimised (DERIVED, `ai-safety-kernel.md`), which an Ilveth would read
+  as the one clause written in their own terms (PROPOSED).
+- **Meeting the Corps (PROPOSED).** A warm room greys the mirror-pits (DERIVED,
+  `ilveth.md`), and a station's compute is warmth. An Ilveth would see a
+  station's systems minds the way they see humans: *lanterns that cannot be
+  put out*.
+
+### Ovruhn
+
+- **What the record says.** Anything worth keeping is chorus-kept; writing
+  *"solved a problem the Ovruhn never had, which is why they never built it"*;
+  in vacuum work an Ovruhn runs *"on instruments"*, and the field shell is
+  *"mostly a mounting for the instruments that stand in for a starved sense"*
+  (DERIVED, `ovruhn.md`). The Maker's Shape alludes to them, unnamed: *"a
+  people whose record lives in living voices may want very little from a
+  machine that talks"* (DERIVED, `the-makers-shape.md`; the allusion noted in
+  `intake-2026-08-29.md`).
+- **They use instruments; agentic minds are not established, and that is the
+  right shape.** A people who never put memory outside the body into writing
+  have no reason to put judgement outside it into a machine. They use sensing
+  instruments, and only where their own sense fails.
+- **Form, if one ever were built (PROPOSED).** A chorus member, checked
+  against the others like any keeper, its authority a function of agreement.
+  Not a store.
+- **Kernel relation.** Thavren is a Federation member world (DERIVED,
+  `ovruhn.md`); Federation machines stand outside the Concord's conventions
+  (DERIVED, `open-questions.md`, 4 September). No Ovruhn regime is on record.
+- **Meeting human-side AI.** A machine voice has no under-song: words with no
+  body-sound under them. The Ovruhn already have a category for that, the
+  human office, *"words that bind whoever utters them"*, the thing about
+  humans they find hardest and most worth study (DERIVED, `ovruhn.md`). How
+  they hear a Kernel system's stated uncertainty is **open choice 4**.
+
+### Pelagene Littoral
+
+- **What the record says.** No fire, ever; metals grown electrochemically over
+  seasons; force from pressure; a people who report *which direction a system
+  is moving and at what rate* rather than where it is, and who *"cannot
+  improvise fast"* (DERIVED, `pelagene-littoral.md`). Machine minds **not
+  established**.
+- **Form, if they do (PROPOSED).** Grown, not fabricated, over seasons, so no
+  Pelagene mind is ever temporary, and a disposable one would be incoherent to
+  them. Made from its makers, it would answer *what a system is doing* before
+  *what it is*: a gradient-reporter. Neither point needs to be canon until a
+  chapter wants a Pelagene machine.
+- **Kernel relation.** Nerath's polity is not on the record beyond the species
+  page; **not established**.
+- **Meeting the Corps (PROPOSED).** Mira of Brine reads coolant turbulence
+  before station instruments flag it (DERIVED, `pelagene-littoral.md`). The
+  meeting is the pairing the Concord already practises
+  (`embodied-cognition.md`): her grounded reading beside a systems mind's model
+  accepted on report, neither ranked.
+
+### Prismeri
+
+- **What the record says.** Full Wings tendrils read corridor geometry that
+  *"no known instrument"* matches; Prismere's contribution is expertise
+  *"because expertise is what the world made cheap"*; and a drone passing
+  overhead startles a Prismeri, a body doing what Prismere built it to do
+  (DERIVED, `prismeri.md`). Machine minds **not established**, and the shape
+  fits: their world-class skill is a sense no machine has, which leaves little
+  for an agentic machine to do that a Prismeri would want done.
+- **Kernel relation.** A Federation member world; no regime on record.
+- **Meeting the Corps.** The guilds do Survey Corps fold-route confirmation
+  (DERIVED, `prismeri.md`), and Ranger fold-capable navigational intelligences
+  must be Kernel-compliant (DERIVED, `ai-safety-kernel.md`), so a Prismeri
+  astrogator and a Kernel navigation mind already work the same routes. How
+  they divide the work is PROPOSED: the machine measures, and the Prismeri
+  reads what the measurement cannot. **One physical point** (DERIVED): an
+  embodied machine crossing overhead is the one thing a Prismeri body cannot
+  be talked out of noticing, so drone routes on a shared posting are a
+  courtesy question.
+
+### Serephine Dunekin
+
+- **What the record says.** The solar furnace reaches working temperature in
+  the lethal middle of the day *"and runs unattended because it has to"*, and
+  Serephine engineering is *"full of thermal-differential machines"* (DERIVED,
+  `serephine-dunekin.md`). So they automate, and what they automate is the
+  hours nobody can stand in. Whether anything in those hours *decides* is
+  **not established**.
+- **Form (PROPOSED).** This is the one people whose world makes a strong case
+  for a mind that works while its makers cannot. It is also a people whose
+  whole culture is built on acting when conditions permit (DERIVED, same
+  page). Whether the unattended hours are kept by instruments that compute
+  without deciding, every decision waiting for the next margin, or by agentic
+  watch-keepers, is **open choice 3**.
+- **Kernel relation.** Kharis Belt IV's polity is not on the record; **not
+  established**.
+- **Meeting the Corps (PROPOSED).** A Kernel system's habit of stated
+  uncertainty is Sethka Ru's own aphorism, *"assume stable is not a
+  methodology; it is a wish"* (DERIVED, `serephine-dunekin.md`), in machine
+  form.
+
+### Verdani
+
+- **What the record says.** A people limited by energy per day, whose industry
+  is cultivation run *"at ambient temperature across very large areas"*, and
+  for whom haste has *"a real price, paid in metabolism"* (DERIVED,
+  `verdani.md`). Machine minds **not established**.
+- **Form, if they do (PROPOSED).** Cultivated rather than built, and slow. The
+  likelier use is the second point on the range, instruments that compute
+  without deciding, above all for the light-mapping Isren Farrowkin names as
+  her people's direct stake (DERIVED, `verdani.md`).
+- **Kernel relation.** Verdance anchors the Federation compact's diplomatic
+  standing (DERIVED, `federation-of-sentient-beings.md`), and it has four
+  governments. A Verdani machine law, if any, would be each government's own,
+  not the people's (PROPOSED, from the Federation's principle that internal
+  governance is each member's business).
+- **Meeting the Corps (PROPOSED).** The Kernel's fourth invariant (waste
+  counted, delay preferred over reckless commitment) reads to a Verdani as
+  plain accounting rather than as ethics.
+
+### Veyr Basaltborn
+
+- **What the record says.** On Veyr-3 instruments drift and materials do not
+  lie, so a Veyr *"trusts the resonance until the readout can be reconciled
+  with it"*; their engineering is obsessed with margin, redundancy *"and the
+  honest statement of a rating"*; their instruments have no handle (DERIVED,
+  `veyr-basaltborn.md`). Machine minds **not established**.
+- **Form, if they do (PROPOSED).** A mind built to stay true while the world
+  tries to shake it apart: redundant, many-pointed, and rated, never trusted
+  past its stated tolerance. That is the Kernel's Epistemic Humility arrived
+  at from metallurgy, which is the convergence the archetype page predicts and
+  not a borrowing.
+- **Kernel relation.** No Veyr polity on record (**not established**).
+- **Meeting the Corps (PROPOSED).** A Veyr officer will check a Kernel system's
+  reading against the deck's own resonance before acting on it, and will keep
+  arguing for a reserve (DERIVED, `veyr-basaltborn.md`) if the machine's plan
+  has no fallback. Neither is distrust; both are calibration.
+
+### Ollune
+
+- **What the record says.** No fire, no metals within reach, no surface;
+  technology *"entirely biochemical"*, cities grown; an import *"has to be
+  lifted by the body that accepts it, permanently"*, so the only imports worth
+  having are weightless: news, survey data, position corrections and the
+  carriage itself (DERIVED, `ollune.md`). Machine minds **not established**,
+  and the shape fits: hardware is mass, and mass is a tax.
+- **Form (PROPOSED).** None of their own. Where an Ollune meets a machine mind
+  it is through a hull, as all contact with them is.
+- **Kernel relation, and the near word.** Ollune drafting practice, a
+  statement *"signed, permanent, and belongs to the person who made it"*,
+  reached the Safety Corps' standards process (DERIVED, `ollune.md`). A Kernel
+  system's logged, traced output looks like that principle. Whether an Ollune
+  treats it as a near word (binding) or as far word (speech, and no evidence)
+  is **open choice 5**.
+
+### The Told (Pandoids of Fliade)
+
+- **No machines, and the absence is the right shape** (DERIVED). The survey's
+  relay is to them *"the humming stone"*, and *"a machine is a thing that
+  sleeps"* (`mind-design.md`, Pandoid §5; `s11e01c02`). They keep their
+  record by speaking it, a record that *"cannot be seized, cannot be edited by
+  a later hand, and does not survive the loss of the people who carry it"*
+  (`planets/fliade.md`). A machine that kept a record would have the opposite
+  three properties.
+- **Kernel relation.** Only as protected parties: the first invariant counts
+  harm to an alien exactly as harm to a human (DERIVED, `ai-safety-kernel.md`),
+  so every Concord system on Fliade is bound toward them without their having
+  asked. That touches the Fliade entry's own open question, whether restraint
+  toward a people who cannot ask is a protection or a courtesy, which stays
+  open.
+- **Trap closed.** No Told character learns to operate the relay, and no
+  telling treats it as a mind. A sleeping stone is the whole of what it is to
+  them.
+
+### Meridian sapients
+
+- **What the record says.** They build in secreted mineral composite, a
+  lattice updated generation over generation; a city built that way *"is also
+  an instrument"*, and the Long Shelf's analysts listen to the whole of it
+  (DERIVED, `planets/meridian.md`, `characters/sixth-course.md`). Humans meet
+  them *"only ever ... through translation instrumentation and armored remote
+  proxies"*, and the Hegemony's channel is instrumentation they did not build
+  (DERIVED, same pages, `characters/tavesh.md`).
+- **Machine minds: not established, and the record is the wrong witness.** The
+  page's own doctrine is that *"a technology need not look like one"*: two
+  surveys filed their cities as geology. A machine of theirs, if there were
+  one, is exactly what the record would have missed, so the line is marked
+  and nothing is guessed across it.
+- **Kernel relation.** A Hegemony subject world. The proxies a Ranger crew
+  sends are Kernel-compliant by charter; the Hegemony's instrumentation is
+  outside the Kernel.
+- **Meeting the Corps.** Already on record, and through a machine on both
+  sides: a Concord proxy and a Hegemony channel.
+
+### Spiralites (Corryn Prime)
+
+- **What the record says.** They speak in electromagnetic pulse, *"not as an
+  adjunct to speech — as speech"*, and reproduce by it; their spiral habitats
+  resonate with the Carillon's rings; the Imperium-chartered colony's
+  emissions are degrading both (DERIVED, `planets/corryn.md`). Machine minds
+  **not established**.
+- **What any machine is to them (PROPOSED, from the derived fact).** Every
+  powered machine radiates in their medium. To a Spiralite a Concord machine
+  is not silent equipment: it talks constantly, in their language's channel,
+  saying nothing. That is the colony's harm made general, and it is why no
+  Spiralite machine culture should be invented lightly: whatever they built
+  would be built in the medium they speak in.
+- **Kernel relation (not established, deliberately).** The colony holds an
+  Imperium charter, and the Imperium ran obedient machines (DERIVED,
+  `made-minds-and-the-ai-safety-archetype.md`). Whether the colony's own
+  systems are Kernel-compliant is not on record, and settling it would settle
+  part of the Corryn standing case, which stays open. Whether a boundary zone
+  such as Corryn's can produce a mind is also open (DERIVED,
+  `what-a-mind-is-carried-by.md`), and is not a Spiralite question.
+
+### Doreth
+
+- **What the record says.** One sentence: a heavy-built, radiation-tolerant
+  Federation people, the most numerous of Aspenar's non-human residents, in
+  sealed sulfur-rich sections (DERIVED, `planets/aspenar.md`). Aspenar's ring
+  carries one of settled space's largest orbital compute complexes, all
+  classical machines (DERIVED, same page, `orbital-compute-complexes.md`).
+- **Not established, and nothing is proposed.** A people with one sentence in
+  the record is owed a page before it is owed a machine culture. Whether the
+  Doreth have anything to do with Aspenar's compute is not on record, and
+  should not be implied by proximity.
+
+### What holds across the peoples
+
+Read together, the peoples sit across the whole range The Maker's Shape
+describes, and no one of them is ahead. **One incorporates agentic machines on
+the record** (the Chthonari), and **one runs systems whose agency is not
+established** (the Hegemony's classifiers and channel). **Several use
+instruments that compute without deciding** (the Ovruhn and Serephine on the
+record; probably the Verdani and Ilveth), each where its own sense or its own
+hours run out. **Some show no use for one** (Prismeri, Ollune), because the
+world already gave them what a machine would supply, or made the machine too
+heavy to keep. **One has no machines and no concept that maps** (the Told), and
+**three are unknown** (Meridian, Spiralites, Doreth), where the absence is
+marked rather than filled. The rule under the pattern is the Maker's Shape's
+own, *you can read a people in what they automate*: each people automates
+what its senses or its world could not cover, and nothing else.
+
+**How the Kernel reaches non-human builders** is narrow and exact. It binds
+them inside Concord jurisdiction, as it binds the Chthonari there. It binds
+every system on a Ranger vessel, whoever fabricated it. It protects every
+non-human, everywhere a Concord system acts, under the first invariant.
+Beyond that it claims nothing. Where an alien machine law resembles it, the
+archetype explains the resemblance and enforces none of it; and a Federation
+member's machine law, if any, is that member's business, since no member's
+internal governance is any other's (DERIVED, `federation-of-sentient-beings.md`).
+The Federation also counts synthetic peoples among its constituents (DERIVED,
+same page). Those are peoples, not minds anyone made, and this section does
+not develop them.
+
+### Open — his choices
+
+1. **Cerebraun machine law: doctrine or biology.** A: a Hegemony-built mind is
+   built as its doctrine says limbs should be, executing the central voice
+   without bargaining. B: it is built as Cerebraun bodies actually are, a
+   centre among centres that may decline the central voice, which their
+   physicians already treat as ordinary. **Recommend B.** It follows from the
+   body (`cerebraun.md`), it fits the archetype's *nearly every* convergence,
+   it matches Sohrel's record that the limbs negotiate, and A would make the
+   Hegemony the *Veritas Report*'s obedient machines, a villain shape the cast
+   principles refuse.
+2. **Chthonari monitors at home in the Belt.** A: the Belt keeps an approval
+   regime of its own, in the Undersong's idiom and recognisably the
+   archetype's shape. B: none; incorporation itself is the safety, since a
+   monitor that is part of the structure fails with it and is heard by
+   everyone listening. **Recommend A,** filed as the archetype's convergence and
+   not a copy of the Kernel. B comes too close to *the structure keeps itself
+   safe*, a guarantee nobody maintains, which the archetype page refuses.
+3. **Serephine: who keeps the lethal hours.** A: agentic watch-keepers decide
+   in the hours no Serephine can stand in. B: instruments that compute without
+   deciding; the furnace runs, and every decision waits for the next margin.
+   **Recommend B.** It carries the page's *acting when conditions permit* into
+   their machinery, rather than giving them the one thing their culture is
+   built around not doing.
+4. **Ovruhn and a voice with no under-song.** A: they come to hear a Kernel
+   system's stated uncertainty as the under-song a machine lacks, and trust it
+   for that. B: they file a machine voice with human offices (words held apart
+   from any body), studied rather than trusted. **Recommend B.** It extends a
+   fact already on their page rather than inventing an equivalence, and it
+   keeps the Kernel from becoming the key that opens every people.
+5. **Ollune and a machine's word.** A: a Kernel system's signed, logged output
+   is a near word and binds. B: nothing a machine says binds, because a near
+   word belongs to the body that made it; any agreement a machine is party to
+   must be carried and marked by a person. **Recommend B.** It is the stranger
+   answer and needs no new machinery, it keeps the Ranger courier as the
+   load-bearing member (`ollune.md`), and it leaves no machine a legal party
+   on Cirrane.
+
+Left open and not put as choices, because the record already holds them open:
+which faction fields the beneficial robots; what Tsikk made of the Warden's
+reading, and what the difference will cost; the Corryn standing case; whether
+a made mind dreams (`open-questions.md`, 5 October).
