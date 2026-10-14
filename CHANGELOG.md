@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- `story-bible/civilian-dress.md` gains principle 14, ruled by Dermot on 14 October 2026: a Krenyi dresses plainly, in clothes that are well made and unornamented and chosen for clarity, not utility. It is proposed from the Krenyi page's *absence of ornament* and stands in for a place entry, since the Krenyi decline to be placed.
+
 ## [1.40.0] — 2026-10-14
 
 The polities are filled in and peopled. The three held questions on the four polities are answered: the Union and the Hegemony deal world by world, the Star Rangers are the mediator both sides trust when one is needed, and the faster-than-light limit is why no single galactic authority exists. Four characters are added for peoples the record had named but not peopled (Tove Strand of the Knarr Line, Tare of the Tally, Tavesh of the Cerebraun, and Sixth Course of Meridian), each with a portrait, and a worklist records the gaps that remain. The Cerebraun have a body, and Sohrel and Mira of Brine have portraits. The ladder of ranks and structures is clarified: track and corps, department and section, Senior, and the naval comparisons. A new chapter, *A Working That Worked*, is added; the opening chapters, the finale and Knopka's viewpoint are rewritten from a reader review; and UCSD dating now runs CE first before the Concord. The century re-check of images is complete. Antariksha has its design sheet and its picture.

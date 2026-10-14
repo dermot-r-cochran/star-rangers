@@ -125,6 +125,18 @@ and the record now holds no character who dresses old. See* Ashcombe, ruled
     picture's point, as Aethelrock's setts are a custom kept. Dress has not
     converged, and it has not frozen either.
 
+14. **A Krenyi dresses plainly.** RULED 14 October 2026 (Dermot, *"Option A"*,
+    after asking *"Krenyi dress style or just very functional?"*). PROPOSED from
+    `src/lore/krenyi.md`, which describes their manner, *no ornamental mystery*,
+    and clarity as *an absence of ornament*, and says nothing about clothes. A
+    Krenyi's clothes are well made and unornamented, chosen for clarity, not
+    utility: nothing is added that adds nothing, and that is not the same as
+    workwear. The cloth may be fine and the cut exact. This holds wherever a Krenyi
+    is, and needs no setting of its own: the Krenyi decline to be placed, so
+    *Dress by place* carries no Krenyi entry, and this principle stands in for
+    one. On duty a Krenyi Ranger wears the uniform like anyone else (Toval); off
+    duty, Syra's plain fitted high-necked garment is the worked example.
+
 ## What follows, by setting
 
 - **Habitat professional** (Eden, Threshold, the Compact). DERIVED: a plain
