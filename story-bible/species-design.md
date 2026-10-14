@@ -456,6 +456,108 @@ from `src/lore/planets/prismere.md` and what the Prismeri page already held:
 
 **Neck and tail, confirmed 12 October 2026** (Dermot, confirming two readings the Codex plates of the Prismeri had added, after every photographic attempt drew the Prismeri as dragons, and his test that same day, verbatim *"The Prismeri would no longer be confused with Levrilic dragons"*). The derivation above fixed the spine, the limbs and the head and was silent on both; it now says: **the neck is short, the head carried close against the shoulders, and there is no tail**, the body ending at the hind legs with the membrane running between wing and leg. Both follow from the frame already derived: a flier that rests by hanging and works from the hang gains nothing from a long neck or a tail, and both are the features that would sort a Prismeri outline into a Levril's dragon. Realized as a clarification in `src/lore/prismeri.md`'s *A Body for Thin Ground and Thick Air*.
 
+### The body sheet: flight, shell, neck and tail against Prismere's physics (drafted 14 October 2026)
+
+Dermot asked whether it makes biological sense for the Prismeri to resemble
+dragons, *"If so then that restriction may be lifted"*, and then, verbatim:
+*"However a large flying creature must be consistent with physics and
+planetary conditions."* The record gives no numbers: Prismere's gravity is
+*low*, its air *dense and full of suspended crystal*, and no page gives a
+Prismeri's mass or span. So this sheet proposes figures, works the physics
+from them, and checks the results against the two constraints the record does
+fix. Every figure is **proposed** and his to confirm. Nothing here is on a
+public page.
+
+**Proposed figures.**
+
+| | Value | Why |
+|---|---|---|
+| Surface gravity | 0.40 g (3.9 m/s²) | Low, and low enough that hanging by the feet is cheap; see the station check below |
+| Surface air density | 2.5 kg/m³ (about twice Earth's) | *Dense*; enough to carry the particulate haze |
+| Oxygen partial pressure | about 30 kPa (Earth: 21) | Not on record; proposed because a large shelled flier needs it (below) |
+| First Wings | 25 kg, 4.0 m span, aspect ratio 6 | Light frame, low stall speed, forest flight (`prismeri.md`) |
+| Full Wings | 45 kg, 5.5 m span, aspect ratio 8 | Heavier plated form, sustained flight into the haze layer |
+
+**Flight, worked.** A standard flight-power model (parasite drag plus induced
+drag, the minimum-power speed found numerically; drag coefficient 0.03, span
+efficiency 0.87) gives:
+
+| | Wing loading | Minimum power | Speed at minimum power | Stall |
+|---|---|---|---|---|
+| First Wings, Prismere | 37 N/m² | 1.9 W/kg | 4.9 m/s | 4.6 m/s |
+| Full Wings, Prismere | 47 N/m² | 1.7 W/kg | 5.2 m/s | 5.2 m/s |
+| First Wings, standard station (1 g, 1.2 kg/m³) | 92 N/m² | 10.9 W/kg | 11.2 m/s | 10.5 m/s |
+| Full Wings, standard station | 117 N/m² | 9.9 W/kg | 11.8 m/s | 11.8 m/s |
+| *Earth flying fox, for comparison* | *26 N/m²* | *5.8 W/kg* | | |
+| *Quetzalcoatlus, for comparison* | *267 N/m²* | *11.0 W/kg* | | |
+
+Two checks against the record, and both pass:
+
+- *Flight is cheap* on Prismere (`prismeri.md`). At under 2 W/kg, a
+  45-kilogram flier spends less per kilogram than an Earth bat, and the slow
+  speeds suit glasswood groves and a hanging launch.
+- *On a standard-gravity station a Prismeri can neither fly nor hang*
+  (`prismeri.md`). At 1 g in station air the same body needs five to six
+  times the power per kilogram and stalls at over 10 m/s, which no corridor
+  allows, and its feet would carry two and a half times the load they evolved
+  for. The proposed figures reproduce the record's own line, which is the best
+  evidence that they are in the right range.
+
+**The shell.** The page gives the Prismeri an exoskeleton: soft grey-violet in
+First Wings, hardened gold-and-blue chitin plate in Full Wings, with an
+irreversible moult inside a self-secreted mineral shell between them. That
+binds harder than gravity does.
+
+- *Moulting.* A large animal inside a shell is helpless while a new one
+  hardens. A single, irreversible moult inside a protective mineral case is
+  exactly how a big shelled flier would solve that: moult once, protected, and
+  never again. The canon life cycle is the physically right answer, and was
+  written before anyone asked.
+- *Plate weight.* Shell mass grows faster than body size, which sets a
+  ceiling. At 0.40 g the ceiling is about two and a half times higher than on
+  Earth, which is what lets a 45-kilogram plated flier exist at all.
+- *Breathing.* Earth's largest insects lived when the air held more oxygen.
+  If the Prismeri breathe through a shell, dense air richer in oxygen than
+  Earth's is what makes their size work. Hence the proposed 30 kPa. If they
+  have lungs, the figure matters less.
+
+**Neck and tail, decided by the physics.**
+
+- *Neck.* For the same bending strain, a neck at 0.40 g can carry the head on
+  a lever two and a half times longer than on Earth. Physics would therefore
+  allow a long neck. A shelled neck would be built of many short plated rings,
+  more like a jointed limb than a smooth serpentine neck. **Physics permits a
+  long neck; it does not require one.**
+- *Tail.* In flight a tail buys steadiness and costs weight. Bats fly well
+  without one through active wing control, and early pterosaurs flew with one.
+  **Physics is neutral.**
+- *What decides both is the ecology the record already holds.* A Prismeri
+  works hanging head-down, with feet holding and wing-fingers working. The eyes
+  need to be close to the hands, which favours the head carried against the
+  shoulders. A tail hangs uselessly in that posture and snags in a glasswood
+  stand. So the confirmed short neck and no tail, ruled on 12 October to pass
+  the Levril test, also follow from the body's own way of life. The physics
+  gives them a second, independent reason.
+
+**What follows for his question.** It does make biological sense for a flier
+on this world to look like a dragon. The neck and tail of a Prismeri, though,
+are now published canon (`prismeri.md`, clarified 12 October). Under the
+standing rule, published canon changes only by extension, clarification or
+genuine dilemma. Physics supplies no dilemma, because the confirmed shape is
+consistent with it and better motivated than the dragon outline. Lifting the
+Levril test as the *reason* changes nothing on the page. Lengthening the neck
+or adding a tail would be a change of canon by preference, and that is his
+alone to make. Choices put to him:
+
+- **A. Keep the shape; record the physics as its basis.** (Recommended.) The
+  Levril test stays as a picture rule, and the body has its physical reasons.
+- **B. Lift the Levril test and lengthen the neck modestly** (a jointed, plated
+  neck about the length of the head). This is a canon change he would make
+  knowingly, with the plates kept as the naturalist's earlier reading.
+- **C. Confirm the proposed figures** (gravity, air density, oxygen, mass and
+  span) as canon, whichever of A or B he takes. They would go on the Prismere
+  and Prismeri pages as a clarification.
+
 **Traps avoided.** No human frame: the spine is level, the wings are the
 forelimbs, rest is hanging, ground travel is quadrupedal. No insectoid head
 on a biped (the Qiren Tal failure). No planet of hats: the two forms do
