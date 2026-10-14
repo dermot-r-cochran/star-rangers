@@ -7,6 +7,8 @@ description: "A working habitat in high Earth orbit and a member of the Orbital 
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"
+image: "antariksha.jpg"
+image_alt: "Two long grey cylinders joined end to end by a narrower hub, seen through a craft's window above the curve of the Earth; plain dark radiator slabs stand out from the hub, and short stubs at either end carry collectors."
 ---
 
 Antariksha was not built to keep anything. It was built to make things, and the people who built it brought their languages with them because they were the people doing the work.
