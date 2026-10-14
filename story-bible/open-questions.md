@@ -35,6 +35,32 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Peoples and settlements the record names but nobody yet lives in: a worklist, raised 14 October 2026, OPEN, fill when a chapter needs one
+
+Dermot asked, 14 October 2026: *"Any other people groups that seem under represented either as characters or as settlements?"*, adding *"Keeping in mind that 6 centuries have past and that people groups may have blended in some ways."* A read-only survey counted characters, POV chapters and settlement pages for every people and group the record names, using the record's own 29th-century groupings and not today's ethnic or national categories. He chose A, then B, then C. **A** was a Knarr Line and a Tally character (Tove Strand and Tare, PR #1206). **B** was a second Cerebraun and a Meridian character (Tavesh and Sixth Course, PR #1205). Portraits for all four are in PR #1207. **C** is this list: the gaps that remain, kept here so each can be filled when a chapter needs one rather than all at once.
+
+**Federation peoples with full lore and nobody to speak for them** (no character, no POV):
+- [ ] **Mnemari**: `src/lore/mnemari.md`, with no home-world page (Ilenne).
+- [ ] **Ollune**: `src/lore/ollune.md`, `src/lore/planets/cirrane.md`.
+- [ ] **Prismeri**: `src/lore/prismeri.md`, `src/lore/planets/prismere.md`. They are seen only through Halle Ostrander's drawings.
+
+**Peoples under a power not their own:**
+- [ ] **Corryn**: the Spiralites and the Imperium-remnant human colony (`src/lore/planets/corryn.md`) have no characters. The colony's charter story is ready settlement material.
+
+**Human peoples and places with pages and no people:**
+- [ ] **The Commonwealth and New London**: two pages, no character.
+- [ ] **Earth in the present**: three Codex authors, no chapter set there in 2826, and no Earth-resident POV.
+- [ ] **Winterbourne** and **Saltmere**: one page each, no character.
+
+**Peoples with one character and no home-world page** (a plain gap, not ruled anywhere):
+- [ ] **Krenyi**: three characters and nine POV chapters, but no homeworld page.
+- [ ] **Ovruhn** (Thavren), **Ilveth** (Sardain), **Pelagene** (Nerath), **Serephine** (Kharis Belt IV), **Veyr Basaltborn** (Veyr-3): one character each, no home-world page. Further named Ovruhn are explicitly invited (see the Ovruhn entry below). The Veyr and Serephine *leave as absences* ruling covers their language channel only.
+- [ ] **Verdance**: one Verdani character, but the planet holds four civilisations.
+
+**Kept thin on purpose, so not on this list:** Elvira's kind (a marked absence), New Cotswolds (nothing has come back from it), and the Five Islands' marked absences (meanings and names, not missing people).
+
+**How to fill one:** a character page is Fable's work under CLAUDE.md, grounded only in its people's pages with the rest marked absent, and it gets a portrait prompt in the same PR. The Knarr, Tally, Cerebraun and Meridian pages of 14 October are the worked examples. A home-world page is lore, Opus's unless it is narrated history. Strike each line here with the PR that fills it.
+
 ## Characters for the Knarr Line and the Tally — Dermot's direction of 14 October 2026 — DRAFTED same day, choices named in the PR
 
 Dermot: add characters for under-represented peoples, starting with the Knarr
