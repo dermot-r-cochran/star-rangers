@@ -708,3 +708,422 @@ kraken*. A frame that draws any of them fails, however photographic it is.
 **Readings put to Dermot in the PR that carries this section.** Ruled 13 October
 2026: all as recommended (*"Approved"*). Recorded in `open-questions.md`;
 Sohrel's portrait re-rolled against it the same night.
+
+---
+
+## Living with other life — companions, working animals and commensals, people by people
+
+Written 14 October 2026 at Dermot's direction, verbatim: *"Pets and companion
+creatures for non-humanoid peoples"*. Every line is marked. **Derived** means
+the record already says or plainly implies it, and the page is cited.
+**Proposed** means a choice made here, and it is his to take or leave.
+**Not established** means the record is silent, and this note leaves it so
+rather than filling it. Nothing here is written to `src/`.
+
+**What the question is asking.** The human word *pet* bundles five things:
+an animal kept close, fed, named, owned, and kept for company rather than for
+work. The record's own pets are human-side and are a legal category before
+they are anything else. A [Smart Pet](/star-rangers/glossary/smart-pet/) is an
+animal carrying a certified cognitive subsystem in a collar, under a welfare
+regime written because the animal cannot consent. Its kin on Eden are cats and
+rabbits carried by people. So the question per people is which of the five
+has any footing, and what the relation is called when it is not *pet*.
+[Cross-Biosphere Taxonomy](/star-rangers/lore/cross-biosphere-taxonomy/)
+already settles the first word: *animal* travels across biospheres as a
+declared translation, because what it predicts (a mobile, sensing, behaving
+organism that is not a person) holds on every surveyed world. Whether *pet*
+travels the same way is the first open choice below.
+
+**The method for anything proposed.** It is the body note's method, turned on
+the animals.
+
+1. The creature comes from the people's own biosphere and is built from that
+   world's medium and chemistry outward.
+2. It is legible in the people's own dominant sense. A vibration people's
+   animal is read through substrate, a heat people's through warmth.
+3. It has a reason to be near the people before it has an affectionate one.
+   The vessik is the model: a granary tenant first, a fracture alarm second,
+   and fond feeling only on Deck 7, where it is *unmistakably not theirs*.
+4. It is named by what it does, never after an Earth animal. If it is ever
+   drawn, the prompt negates the nearest Earth animal by name, under the
+   12 October convention (`images.md`).
+5. No space-dog, no dragon kept as a pet, no cute monster. Monsters are filed
+   elsewhere entirely, as meta-dimensional, and are rare and valid only under
+   boundary conditions (CLAUDE.md). They are never kept, tamed or befriended
+   on any page. [The Unfounded](/star-rangers/glossary/unfounded/) wear *the
+   shape of a companion animal* among other founded shapes. So a companion
+   creature in prose must be plainly founded: ordinary biology from its own
+   world, nothing uncanny about it, and no hint that it is more than it is.
+
+### Chthonari — the Undersong Belt
+
+- **Derived.** The vessik is a burrow commensal, *"small, low, six-limbed"*
+  and built on the same substrate-sensing principle as the Chthonari. It is
+  *tolerated in the walls* for a granary reason and for a structural one: *"a
+  burrow whose vessik have gone still is a burrow with a stress fracture in
+  it"*. Every Chthonari child learns to check this *before they learn to read*
+  (`src/characters/thrum.md`). It is filed as an animal on the taxonomy page,
+  in Cataphracta beside the people (`cross-biosphere-taxonomy.md`).
+- **Derived.** A vessik is *"not livestock, not a companion animal under any
+  Compact schedule, and not a Smart Pet"*. Thrum reached Eden *"in a sealed
+  transit burrow, in the luggage of"* a Chthonari engineer, and stayed
+  (`thrum.md`). Why she carried one is **not established**.
+- **Derived.** The vessik cannot be charmed, and `mind-design.md` (the
+  Chthonari, first answer) reads that as the people's own virtue at animal
+  scale.
+- **Does "pet" fit?** No. The relation is with the burrow, not with a person.
+  The vessik lives in the structure the people listen to, and its stillness
+  is part of what the structure says. *Commensal*, the record's own word, is
+  exact.
+- **Proposed.** The Chthonari count the vessik as part of a burrow's
+  listening, in the same way they build a monitoring intelligence into a
+  scaffold. To them *"a structure that can also listen is … a completion"*
+  (`chthonari.md`, *Machines in the Work*). On that reading the engineer did
+  not bring a pet to Eden. She brought her quarters' listening with her, and
+  left it in a structure that had none. This stays here and goes into no
+  chapter unless he takes it (open choice 2).
+- **Welfare.** Thrum's own *Open Question* is the record's statement of the
+  gap: no framework on Eden covers a vessik. Nothing is added here.
+- **Chapters and Undercover Pets.** Already in. Thrum is the thread's one
+  non-human people's animal, and its value is that it is the *one clean
+  measurement* in the file.
+
+### Veyr Basaltborn — Veyr-3
+
+- **Not established.** No page names any non-sapient life on Veyr-3.
+  `veyr-basaltborn.md` gives the world (heavy gravity, active basalt, mineral
+  aerosol, constant micro-shock) and the people's senses: distributed
+  compound eyes tuned to contrast and motion in haze, and limb-tips that read
+  resonance. *"If a panel sounds wrong under strain, a Veyr trusts the
+  resonance."*
+- **Proposed: a living plumb, tended and not kept.** A sessile lattice-grower
+  of the basalt crust. It grows slowly in fine mineral struts, as the Veyr's
+  own frame does, and it re-sets its growth toward the true vertical after
+  every shock, so its layers record the ground's shock history. Built from
+  the world outward: heavy gravity favours a low, braced organism, and
+  constant aerosol favours a filter-feeder on settling mineral dust. Matched
+  to the senses: its alignment shows as a contrast line to compound eyes, and
+  its struts ring true or false under a limb-tip. A people who *calibrate by
+  material behaviour rather than by instrument* would keep colonies at a
+  workshop as the reference that does not drift. Any fondness for it is a
+  craftsman's fondness for a true tool.
+- **Does "pet" fit?** No. On the proposal, the relation is calibration. The
+  people's temperament as the record gives it (*composure*, *tolerant of
+  noise*) supplies no reason for keeping animals for company, and none is
+  invented.
+- **Chapters.** A Veyr Ranger's quarters could hold a colony without
+  breaking anything, since it is sessile and asks nothing of a habitat's
+  welfare regime. It is a detail for a Qiren Tal scene, not a thread.
+
+### Serephine Dunekin — Kharis Belt IV
+
+- **Not established.** No page names any other Kharis life.
+  `serephine-dunekin.md` fixes the two lethal extremes each day, the
+  closed form and the open form, the crepuscular rhythm, and *buried thermal
+  mass used as a battery*.
+- **Proposed: fellow waiters.** On a world where everything alive must avoid
+  the same two lethal hours, the life that shares the Serephine's day shares
+  their shelters. Buried thermal mass is warm through the cold and cool
+  through the heat for whatever lives in it. The proposed relation is
+  co-sheltering: organisms that close when the people close and open at the
+  same margins, tolerated in the buffer walls and neither fed nor owned. The
+  creature is matched to the light-scattering eye membranes. It is read by
+  how it opens in the raked light of the margins, the one time a Serephine
+  is also open.
+- **Does "pet" fit?** It mislabels the relation. Company on Kharis happens in
+  the windows and nowhere else, and *"the safe hours are for living"*
+  (`serephine-dunekin.md`). Something that waited out the heat beside you
+  shares your day. It is not kept.
+- **Chapters.** None needed. If Sethka Ru's file ever wants a home detail,
+  this is the one available.
+
+### Pelagene Littoral — Nerath
+
+- **Not established.** No page names any other Nerath life.
+  `pelagene-littoral.md` fixes the stratified, non-water fluid, a body that
+  senses pressure, flow and chemistry over its whole surface, radial
+  symmetry about the vertical, and the rule that *"nothing on Nerath ever
+  stays where it was put"*.
+- **Derived, and it decides the question.** A kept animal needs a place to be
+  kept in, and the Pelagene have no fixed places, no stable inventory and no
+  landmarks. *Keeping*, the core of *pet*, is the fixed state the record
+  says they are structurally poor at.
+- **Proposed: the drift-fellow.** The relation that fits is accompaniment.
+  Small organisms ride the same layer interface a Pelagene holds, trimming
+  at the same depth. Each is legible by the wake and the chemical trace it
+  leaves, which a whole-body chemical sense reads without looking. What a
+  Pelagene would value is *who holds the band with you*, which is a rate and
+  a direction. A possession is neither.
+- **Does "pet" fit?** No. Accompaniment is the word.
+- **Welfare and Undercover Pets.** A Nerath organism could not cross to a
+  station casually. It would need its own layered fluid carried with it, so
+  no Thrum-like stowaway is plausible, and none should be written.
+
+### Verdani — Verdance
+
+- **Derived.** Thallenwort is an obligate photosynthetic symbiont in the
+  kinbeds. It is passed by kinbed-to-kinbed contact in infancy, and that
+  passing is *"the foundational kinship act, more binding in practice than …
+  shared parentage"* (`verdani.md`). It is a partner and a kin-lineage, and
+  the record files Verdani by it (`cross-biosphere-taxonomy.md`).
+- **Derived.** Verdani industry is cultivation: *"grown materials, bred
+  organisms, processes measured in seasons"* (`verdani.md`). The steppe
+  nation, the **Aurelin Herdlands**, is governed by **Migratory Councils**
+  *"that follow the traditional herding routes"*, and the high terraces have
+  *"alpine farming communities"* (`planets/verdance.md`). The Verdani are the
+  record's one non-human people with herding on the page.
+- **Not established.** What the Herdlands herd. Whether any Verdani keep an
+  animal for company.
+- **Does "pet" fit?** It is the wrong word in the most instructive way. The
+  closest thing a Verdani has to a creature carried close all their life is
+  thallenwort, and calling a kin-partner a pet inverts the relation. Herding
+  is work and politics (the Councils against the Waystation Compact), and the
+  record gives it no companion register.
+- **Proposed, lightly.** If a chapter needs the herds, they are built from
+  the Verdani energy budget. The herds move at the pace of the light and the
+  water, and the herder's day is measured in light taken, as the people's
+  own is. What the animal is stays open (open choice 3).
+- **Trap.** A herding people is the easiest place on the record for the
+  allegory trap, *basically a pastoral human culture*. The route against it
+  is the one the Verdani page already uses: the light budget, not the
+  landscape.
+
+### Ilveth — Sardain
+
+- **Derived.** Sardain's life crowds into *"geothermal provinces where the
+  biosphere itself has always crowded"*. Heat is the only wealth, and
+  anything warm is visible *"from horizon distance"* to the mirror-pits
+  (`ilveth.md`). Warm-blooded visitors are *"lanterns that cannot be put
+  out"*.
+- **Proposed: watched, not kept.** A people who see every warm body to the
+  horizon never needed to keep an animal close to know where it was. Their
+  relation to warm life is watching it at a distance. A warm animal inside a
+  building would make the building *shout*, which is the indiscretion
+  heat-thrift exists to prevent. So Ilveth keep no warm animals indoors, on
+  the record's own logic, and any commensal that does live in their walls is
+  cold-running. It is invisible to the pits and known only to the small
+  photic eyes.
+- **Does "pet" fit?** No. A kept warm animal would read to an Ilveth as a
+  fire kept burning for company, which is an extravagance and not a comfort.
+- **Chapters and Undercover Pets: the best opening in this survey.** An
+  Ilveth Ranger aboard Eden sees every Smart Pet as a small warm lamp through
+  any wall or vent. It is the one observer an undercover cat cannot hide
+  from. By the Sardain courtesy of answering what is said rather than what
+  a body shows, they are also likely to keep what they see to themselves. It needs no new creature and breaks nothing: it is `ilveth.md`
+  applied to Deck 7.
+
+### Ovruhn — Thavren
+
+- **Not established.** No page names any other Thavren life. `ovruhn.md`
+  fixes the far sense as sound, the under-song (honest, involuntary, carrying
+  tens of kilometres), and that *"nothing alive is acoustically quiet"*.
+- **Derived, at the edge.** Comfort among Ovruhn *"arrives before it is asked
+  for, because the asking was audible an hour ago"*. Ovruhn steady a crowded
+  shelter deck with a low under-song (`ovruhn.md`). The record says this of
+  people and is silent on animals.
+- **Proposed.** Of all the peoples here, *company* fits the Ovruhn best. An
+  animal's distress is as audible to them as a person's, and their ethic is
+  answering it. The difference from a human pet is privacy. No animal near
+  an Ovruhn belongs to one listener: everyone in range hears its heart. A
+  creature kept close would be a household of the whole band, not of one
+  keeper. A Thavren creature is built from dense air and short sight: a body
+  read by its sound, not its shape.
+- **Does "pet" fit?** Partly. There is company and care. There is no private
+  ownership, which the human word assumes.
+- **Chapters and Undercover Pets.** An Ovruhn Ranger on Eden hears Barsik's
+  heartbeat change before Barsik moves, and would offer comfort to a cat
+  whose cover depends on looking unbothered. It needs no new creature, and
+  it is in register for both threads.
+- **Trap.** The first survey compared the Ovruhn to three Earth animals in
+  one paragraph and the press made *the hybrid people* of it (`ovruhn.md`). A
+  Thavren creature must not be built the same way.
+
+### Prismeri — Prismere
+
+- **Derived.** Prismere's fauna is on the page (`planets/prismere.md`).
+  **Driftjellies** are harmless aerial filter-feeders. **Thornbacks** are
+  crystal-spined ground grazers whose shells are *"shed naturally during
+  growth molts and collected rather than harvested from a living animal"*,
+  and are an export. The **umbral ray** is the silent apex glider behind the
+  dusk curfew and the *"Lattice-reader's escort"*. First Wings *"tend
+  lumenspire settlements"* (`prismeri.md`). The lumenspires are living
+  mineral towers fed by a shared root-mat, and the people live in them.
+- **Implied.** That the Prismeri are the ones collecting the shed shells:
+  the export is Prismere's, and the page does not name the collector.
+- **Derived from the body, and it rules out the obvious pet.** The facet band
+  on the skull ridge exists to catch a shape crossing the light overhead, and
+  a Prismeri *"who startles at a drone passing overhead is not nervous"*
+  (`prismeri.md`). Anything airborne kept above a hanging Prismeri would
+  trip that sense all day. A kept flier is the one thing this people could
+  not live with.
+- **Does "pet" fit?** No. The relations are tending (the lumenspires, which
+  are architecture as much as life) and gathering (the shed shells). Nothing
+  is kept for company.
+- **Trap.** The Prismeri have already been drawn as dragons more than once
+  (`species-design.md` above). A Prismeri beside any winged creature in a
+  picture invites the *dragon-pet* reading, and the 12 October negation
+  applies to both bodies.
+
+### Cerebraun — homeworld unnamed
+
+- **Not established.** The homeworld is unnamed (ruled 13 October, option
+  (a), above), so no Cerebraun biosphere exists to build a creature from, and
+  none is proposed.
+- **Derived.** Each limb-ganglion has *"a measurable degree of localized
+  preference and mood"*. The central brain negotiates with the limbs and
+  does not override them (`cerebraun.md`).
+- **Proposed: attachment held by a limb.** If a Cerebraun forms an attachment
+  to an animal, the record's neurology says where it would sit: possibly in
+  one limb's ganglion rather than in the central voice. It would be a
+  preference the voice tolerates and negotiates with, shown on the second
+  channel, and never stated on the first. This needs no homeworld (open
+  choice 4).
+- **Does "pet" fit?** Undecided until a page needs it. The proposal above is
+  the Cerebraun shape of the question.
+- **Meridian.** The Cerebraun live beside Meridian's biosphere as
+  administrators. There is no relation to its animals on record.
+
+### Meridian sapients — Meridian
+
+- **Derived.** The seas are dense with *"armored, segmented"* life, from
+  *"filter-feeding reef-builders the size of a closed fist"* to apex hunters
+  of several tonnes *"in coordinated hunting groups"*. The sapients' cities
+  are built *"in secreted mineral composite"*, and their channels are
+  claw-percussion and chemistry diffused into the water (`planets/meridian.md`).
+  *Crustacean* is the record's likeness word, read as the taxonomy page reads
+  every likeness.
+- **Not established.** Whether the reef-builders have any part in the
+  cities. The page leaves open whose secretion the composite is.
+- **Proposed.** If a page needs it, the reef-cities are co-built: the
+  sapients arrange, and fist-sized reef-builders lay composite where a
+  chemical trace in the water tells them to. That makes the relation a
+  partnership in building, legible on both of the people's channels. It is a
+  choice, and it touches the near-quarrying incident's premise (the cities
+  read as natural growth), which it would strengthen rather than break.
+- **Does "pet" fit?** No.
+- **Welfare and Undercover Pets.** None can apply. No human can breathe
+  Meridian's chemistry, and no Meridian organism survives a human habitat.
+
+### Ollune — Cirrane
+
+- **Derived.** Ollune technology is *"entirely biochemical"*: *"their
+  equivalent of an industry is a cultivated lineage of organisms"*. The
+  shoals are living bladder architecture, *"tended, pruned, and extended
+  across generations"* (`ollune.md`). Cirrane's large fauna are soft,
+  buoyant, translucent filter-feeders (`planets/cirrane.md`).
+- **Derived, and it decides the question.** *"Anything an Ollune carries must
+  be lifted for as long as they own it."* A kept animal that cannot hold its
+  own lift is a permanent metabolic charge, and the word for an owner of
+  such things is *heavy*, *"and is not flattering"*. Companionship on
+  Cirrane is the **hold**: people carrying people through the night.
+- **Does "pet" fit?** No. The one creature an Ollune could keep close is one
+  that pays its own lift, and a creature that does that is free to drift
+  off, which makes it a fellow drifter and not a possession. The nearest kept
+  life is the shoal's cultivated lineages. Whatever affection there is
+  attaches to the shoal.
+- **Welfare and Undercover Pets.** None can apply: no shared facility exists
+  that an Ollune and a human can occupy unsuited.
+
+### Pandoids, the Told — Fliade
+
+- **Derived.** **Anstolik** herds range the surface plains and the upper
+  cavern levels, bellow to mark territory, and defend corridors *"with more
+  conviction than their build suggests"* (`planets/fliade.md`). In the Told's
+  own telling, the **runners** graze the upper levels and *"bellow once and
+  are done"* (S11E01C01). *"A runner is not told anything. A runner is born
+  knowing where the grazing is"* (S11E01C02), and the line between person and
+  animal is drawn by telling. The upper levels, *"the runners' ground"*,
+  *"was the runners'"* (C01).
+- **Implied, not stated.** That the runners are the Anstolik. Both graze the
+  upper levels and both bellow, and no page says it in so many words. The two
+  names stand as two sides of one encounter, as *Pandoid* and *the Told* do.
+- **Derived.** The survey's proposal to collar the Anstolik was refused at
+  countersign, partly because *"the animal was not asked either"*
+  (`codex/proposal-to-collar-the-anstolik.md`).
+- **Derived.** The record's one image of a Told holding something that sleeps
+  is Carried-It-Sleeping holding the survey's relay through the squeeze
+  (`characters/teddy.md`), and the relay is a machine: *the humming stone*.
+- **Does "pet" fit?** No, and the record already says why. The Told's
+  relation to the runners is between neighbours who each have their own
+  ground, and keeping would contradict the manners. A people who cede the
+  upper levels to the runners do not take a runner home.
+- **Chapters.** The runners can appear in *Below the Roof* exactly as they
+  do now, as neighbours with ground of their own. Nothing more is needed.
+
+### Spiralites — Corryn Prime
+
+- **Derived.** Corryn Prime's biomes are *"dominated by spiral-form flora
+  growing in mathematical progressions, an adaptation to the system's
+  electromagnetic fields"*. The people speak and reproduce by
+  electromagnetic pulse, and they build *"spiral habitats that resonate with
+  the Carillon's ring frequencies"* (`planets/corryn.md`).
+- **Not established.** Any fauna, and any relation to it.
+- **Proposed: nothing.** Corryn is a standing harm case, with a colony
+  degrading the people's medium (`halvern-combine.md`). A companion creature
+  added there would sentimentalise a protocol case, and the record is better
+  without one until a chapter asks.
+- **Does "pet" fit?** Not established.
+
+### Doreth — Aspenar
+
+- **Derived.** One line: *"a heavy-built, radiation-tolerant people whose
+  homeworld biochemistry runs on a denser, sulfur-rich atmosphere"*. On
+  Aspenar they live in sealed sections, linked to human domes only by
+  pressure-locked corridors (`planets/aspenar.md`).
+- **Not established.** Everything else. The only safe inference is that any
+  Doreth animal on Aspenar lives behind the same locks.
+- **Proposed: nothing.** A people known by one line is not given a companion
+  creature before they are given a body.
+
+### What holds across the peoples
+
+Four things hold across the record. First, no non-human people is shown
+keeping an animal for company alone. Every derived relation has a working
+reason or none: the vessik in the walls, the thornback shells, the Ollune
+lineages, the Verdani cultivation and herds, the runners left to their
+ground. Second, the relation is with a place more often than with a person:
+the vessik with the burrow, the lumenspires with the settlement, the
+lineages with the shoal, the runners with their own ground. Third, each
+people reads other life in its own medium, and so would read a human's pet
+in its own medium too. To a Chthonari a Smart Pet is too light to feel. To
+an Ilveth it is a lamp, and to an Ovruhn a heartbeat. None of them sees a
+face. Fourth, the welfare frameworks are human-side, written for collars and
+subsystems, and a non-human people's animal on a human habitat falls through
+all of them. Thrum's page already states that, and it holds for any second
+case. *Pet* is the human case, one relation among the relations. Like the
+human Ranger's culture, it is never the baseline the others are measured from
+(CLAUDE.md, the 28 September usage rule).
+
+### Open — his choices
+
+1. **Does *pet* travel?** (A) The record keeps *pet* for human-side kept
+   animals (the Smart Pet register) and names every other people's relation
+   in its own terms: commensal, tended, herded, watched, accompanied,
+   neighbour. (B) Allow *pet* as a declared translation, as *animal* is.
+   **Recommended: A.** *Animal* travels because what it predicts survives
+   the crossing. *Pet* predicts ownership and company kept for its own sake,
+   and none of the relations derived here has both.
+2. **Why the engineer carried Thrum.** (A) Leave it a marked absence: the
+   gap in the paperwork is the point of the page. (B) Adopt the proposal that
+   a Chthonari on a long posting carries a vessik as her quarters' listening.
+   **Recommended: A** in canon, with B kept in this note as the reading a
+   chapter may reach for.
+3. **What the Aurelin Herdlands herd.** (A) Leave it unestablished until a
+   chapter needs a herd. (B) Fix a steppe grazer now, from the light budget.
+   **Recommended: A.** Nothing needs it yet, and a herd named early is where
+   the pastoral allegory gets in.
+4. **The Cerebraun attachment held by a limb.** (A) Record it as the
+   standing reading for any page that needs a Cerebraun attachment to an
+   animal or anything else. (B) Drop it. **Recommended: A.** It comes
+   straight from the neurology on the page, needs no homeworld, and is the
+   opposite of a human concept with alien furniture.
+5. **A second non-human people's animal on Eden.** (A) Thrum stays the only
+   one, and other peoples enter the Undercover Pets thread through their
+   Rangers' senses (the Ilveth who sees every cat, the Ovruhn who hears
+   one). (B) Bring a second creature aboard. **Recommended: A.** Thrum's
+   value is that it is the one clean measurement, and most of the creatures
+   above could not survive a human habitat anyway.
+6. **Runners and Anstolik.** (A) Leave the identification to the reader, as
+   the two names for the people are left. (B) State it on the Fliade page or
+   in the glossary. **Recommended: A.** `fliade.md` keeps the survey's side
+   on purpose, and the chapters keep the Told's.
