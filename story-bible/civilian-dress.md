@@ -270,6 +270,12 @@ Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each settin
 - **At work:** Close-fitting coveralls near machinery, nothing loose to catch. *Proposed.*
 - **Custom:** Norwegian, Danish, Icelandic and Swedish heritage, in each person's own choices. *Proposed.*
 
+### The Tally's hull
+*Tags:* `the-tally`
+- **Conditions:** A sealed generation-ark hull moored to a scattered-disc body, a closed ecology three centuries old in which air, water, cloth and work are tallied continuously and *waste is the one obscenity in the language* (`the-tally.md`). *Derived.*
+- **Everyday:** Cloth of the hull's own loop, worn long, mended honestly and cut to be re-cut, in the few undyed or once-dyed tones a closed system affords; nothing on the person that is not on the books. *Proposed, from the count.*
+- **Custom:** No heritage element at all, since *nothing behind them is theirs* (`the-tally.md`): the one human dress in the record with nothing older than the Mooring in it. The hint of the century is the hull. *Derived for the absence, proposed for the hint.*
+
 ### Quern
 *Tags:* `quern`
 - **Conditions:** Sideways rain and lightning; air electrolysed out of the rain (`planets/quern.md`). *Derived.*
