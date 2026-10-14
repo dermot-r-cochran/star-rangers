@@ -1399,6 +1399,19 @@ and its canon check are in `images.md` § 1 under the entry's 14 October note.
 - **Prompt / recipe:** the blockquote in `images.md` § 1; the room, light, pose, garment, robustness, trope guard, century negatives and photographic finish of 13 October unchanged. Three carriers of the alien, none an organ: exact symmetry with the eyes set wider and more level; pupils opened to the dark room with the iris ring still showing, matte, no glow; skin of one even unlined tone. The trope guard gained almond eyes, reflective eyes, slit pupils, doll, mannequin and android by name.
 - **Notes:** run 1 kept her face exactly; variation 1 opened the pupils to all black, a feature to point at and the black-eyed trope, and variation 2 read as the ordinary lined human again. The prompt was tightened (iris ring visible, white at both sides, eyes noticeably wider, skin unlined, *a degree too regular, as if drawn from an average rather than born*) and run 2's variation 1 picked: still her, symmetrical, wide-set dark eyes with the iris showing, smooth even skin, no placeable age, hands folded. Variation 2 read as startled (whites all round, brows lifted), which a people without deep fear would not show; 3 and 4 drifted back to the lined face. Triage: century reads as the audit's (A), plain with nothing period, nothing made in frame but the garment and the surfaces; identity holds against the 13 October portrait; modesty clears the site's bar; no trope. Nothing readable anywhere. Filed with `import-image.ps1 -MaxEdge 1200`, finish strength 1. Runs kept as `image-out/characters-syra-run1/` and `characters-syra/`. Alt text rewritten from the frame.
 
+## 2026-10-14 — Toval, given the Krenyi carriers
+
+At Dermot's "Toval", taking up the queue note under Syra's entry. The reading is
+in `images.md` under Toval's entry, 14 October note.
+
+### toval.jpg — filed from variation 1
+- **Type:** generation, replacing the 11 October portrait
+- **Tool:** Gemini `gemini-3.1-flash-image`, 2K, via `scripts/image-prompts.js --generate --only toval --variations 4`
+- **Date:** 14 October 2026
+- **Source:** `src/lore/krenyi.md`, `src/characters/toval.md`, Syra's prompt of record and its two 14 October notes (`images.md` § 1)
+- **Prompt / recipe:** the blockquote in `images.md`. Two carriers, symmetry with the eyes set wider and more level, and pupils opened with the iris ring showing; born, not made; eyes lifted off-frame so both carriers show; the room dim; his own 11 October frame cropped to the face (`story-bible/reference-art/toval-face-2026-10-14.jpg`) as the reference in place of Syra's portrait; wall sockets negated.
+- **Notes:** four variations, all holding his face. Variation 1 picked: frontal, symmetrical, the pupils open with the iris showing, freckled living skin, the collar tab, the pen stopped. Flaws passed: the housing's indicator is lit green where the prompt says unlit, and the paper carries rows of dots that read as figures but not as characters; the room came back lit rather than dim. 2 kept ordinary pupils and drew a present-day office behind; 3 had the strongest eyes but handwriting that reads as numerals and no collar tab; 4 grew a present-day electrical cabinet with a hazard sticker. Triage: century (A) with the two flaws named; identity holds against the 11 October frame; modesty clears the site's bar; no trope. Filed with `import-image.ps1 -MaxEdge 1200`, finish strength 1. Run kept as `image-out/characters-toval-2026-10-14/`. Alt text rewritten from the frame.
+
 ## 2026-10-14 — Syra, re-rolled so she does not read as Lucene-9000
 
 At Dermot's direction later the same day, verbatim *"Syra as a Kyeni does not
