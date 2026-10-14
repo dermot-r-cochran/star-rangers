@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The First Wings painting is filed, and the Prismeri page now reads as one set** (`src/images/lore/prismeri-first-wings-painting.jpg`, `src/lore/prismeri.md`, 2026-10-14, three further rounds on Fable after the three below). The First Wings section carries Halle Ostrander's finished painting after Plate I, seen from above and behind with the head bent to the glass, in place of the plate, which stays in *Plates of the Prismeri*; the codex entry's Archive note and Ostrander's page now say the Prismeri entry carries all three paintings. The prompt of record in `story-bible/images.md` carries the two changes that worked, the facet band written as one lengthwise seam of glass and the hand as a Y against the lit glass, and `story-bible/image-prompts.md` carries the six variations and their verdicts.
+
 - **No Cerebraun voice is audible to humans; machine translation is still needed** (`src/lore/cerebraun.md`, *Communication*, 2026-10-14, Dermot's direction). Whether their speech is sound outside human hearing or no sound at all is marked not established. The translation renders the spoken channel and leaves the skin to be read. Recorded in `story-bible/intake-2026-10-14.md`.
 
 - **The Cerebraun can breathe human air** (`src/lore/cerebraun.md`, 2026-10-14, Dermot's direction). It is not toxic to them, but their tolerance is limited and they come to dislike it over prolonged exposure. Their preferred air is not on record. Recorded in `story-bible/intake-2026-10-14.md`, and the body sheet in `species-design.md` is updated.
