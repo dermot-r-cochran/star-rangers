@@ -8,6 +8,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 - `story-bible/civilian-dress.md` gains principle 15 (proposed) and a section, *Peoples in their own media*, working out from the record the dress, ornament, role marks and surface colour of fourteen non-human peoples and the Mnemari, each line marked derived or proposed, with five open choices put to Dermot; `species-design.md` and `open-questions.md` point to it.
 
+- `story-bible/mind-design.md` gains *How a people holds standing*, at Dermot's question of 14 October 2026: the social and functional order of each non-humanoid people (the Cerebraun and their Hegemony, Meridian's reef-cities, the Chthonari, Ilveth, Ovruhn, Pelagene, Prismeri, Serephine, Verdani, Veyr, Ollune, the Told, the Spiralites and the Doreth), each line marked derived, proposed or not established, with what it means for the Corps, a paragraph on what holds generally, and five open choices for him.
+
 - `story-bible/civilian-dress.md` gains principle 14, ruled by Dermot on 14 October 2026: a Krenyi dresses plainly, in clothes that are well made and unornamented and chosen for clarity, not utility. It is proposed from the Krenyi page's *absence of ornament* and stands in for a place entry, since the Krenyi decline to be placed.
 
 ## [1.40.0] — 2026-10-14
