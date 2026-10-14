@@ -35,6 +35,33 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Characters for the Knarr Line and the Tally — Dermot's direction of 14 October 2026 — DRAFTED same day, choices named in the PR
+
+Dermot: add characters for under-represented peoples, starting with the Knarr
+Line and the Tally, both of which had settlement and lore pages and no
+character; and the reminder that six centuries have passed, peoples have
+blended, and heritage survives only where the record says it does. Drafted
+on Fable as `src/characters/tove-strand.md` and `src/characters/tare.md`,
+each grounded only in `knarr-line.md`, `knarrheim.md`, `saltvik.md` and
+`the-tally.md`, with the rest marked absent; portrait prompts in `images.md`
+§ 15, not generated; the Tally given a *Dress by place* entry in
+`civilian-dress.md`. Settled by recommendation under the dilemma-only rule,
+each his to overrule: **the names** (*Tove Strand*, a Norwegian and Danish
+name whose surname means *shore*, chosen conservatively since the Line's
+pages give a naming practice for ships and not for people; *Tare*, the
+Archive's rendering of a Tally name by what it says, on the convention the
+people's own name is rendered by, the word itself marked as not carried, with
+the alternatives of an untranslated word or a founder-language name listed in
+the PR); **the roles** (a hauler pilot on the far-edge prospecting run, the
+heading on which the Tally were found; a reader of the ledgers, the role the
+Tally page already names, held at the Survey Corps' third showing); **one
+small fact asserted** (Survey Corps parties bound for the mooring ride the
+Line's prospecting run, at the Line's ordinary rate, which the Tally page does
+not say and does not exclude); and **the readings for the portraits** (ages,
+builds and heritage, in § 15). Left open by nature, as the Tally page leaves
+them: how the Tally give names, the endonym, the number. Not done: no chapter,
+no placement in an existing chapter, no image generated.
+
 ## The Cerebraun body — raised 12 October 2026 (*emblem card now, body later*), DRAFTED and RULED 13 October 2026
 
 `species-design.md`, *Cerebraun — the body behind the likeness*, drafted on
