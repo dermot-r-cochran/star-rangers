@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- `story-bible/open-questions.md` gains a worklist of the peoples and settlements the record names but nobody yet lives in, from the 14 October representation survey, to fill when a chapter needs one.
+
 - Portraits filed for Tavesh, Sixth Course, Tove Strand and Tare (`src/images/characters/`), each chosen by Dermot from the generated variants. Tavesh's prompt now uses Sohrel's filed portrait as the reference for the Cerebraun body.
 
 - **Two characters for the under-represented peoples: Tavesh and Sixth Course** (`src/characters/tavesh.md`, `src/characters/sixth-course.md`, `story-bible/images.md` § 14, `story-bible/image-prompts.md`, 2026-10-14, Dermot's *Option B*). Tavesh is a second Cerebraun, the keeper of the Halyx Relay Station's chemical-and-percussion translation channel to Meridian's reef-cities, with no office and the opposite view of the channel from the Administrator-Voice's; Sixth Course is the record's first named Meridian person, an analyst to the Long Shelf reef-city council who ran the 2828 comparison between the Sentinel's pulse and Meridian claw-percussion. Both pages are grounded in the three Sohrel chapters and the Cerebraun, Hegemony, Meridian and Sentinel pages, with the rest marked absent; neither declares a pronoun system, both use the name throughout, and the Sentinel–Meridian question is left open. Portrait prompts for both are written and not generated, so neither page carries an image yet.
