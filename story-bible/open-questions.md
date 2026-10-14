@@ -3174,3 +3174,7 @@ The note's prompt vocabulary (plain considered cuts, quiet natural colours, band
 ## The Cerebraun account of humans in a Cerebraun voice — `intake-2026-10-13.md`, last section — OPEN, not blocking
 
 The account is filed as the Hegemony's in `src/lore/cerebraun.md` (home settled by Fable, 13 October 2026). Whether it should also exist as a Codex entry in a Cerebraun author's own voice is his: (A) leave it as the lore section only, recommended until a chapter needs a Cerebraun to say it; (B) a Hegemony contact-doctrine paper by a new named Administrator-Voice, with a character page in the same PR; (C) a Prime Ganglion office memorandum with its author withheld, a marked absence rather than a page. Sohrel is not the author for (B): a doctrinal account of another people is not a document that record produces.
+
+## How a people holds standing — `mind-design.md`, 14 October 2026 — OPEN, not blocking
+
+Five choices from the people-by-people section on social and functional order, each with a recommendation there: (1) the Cerebraun body-to-polity reading as their own doctrine only (A, recommended) or a general law (B); (2) how the Prime Ganglion's capacity is shown, marked absent (A, recommended) or a stated practice (B); (3) keeping the margin as a doing with no word (A, recommended) or an office (B), already open on Stone-First's page; (4) the Ovruhn old keepers as the chorus's own measure (A, recommended) or a standing elder body (B); (5) who speaks for the Spiralites, left for the Corryn chapter to find (A, recommended) or fixed now (B).
