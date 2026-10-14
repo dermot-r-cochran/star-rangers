@@ -99,10 +99,54 @@ it many times over; his addition, the Union's diplomatic ties to the
 Federation and the Hegemony are better. Realized on
 `civilisation-comparison.md` and the Union page's *Ties beyond the Solar
 System*. **Reading confirmed the same evening (*Option (a)*):** *better* means closer
-than the Solar System's ties to each. **Still open, held until a chapter needs it:** how
+than the Solar System's ties to each. ~~**Still open, held until a chapter needs it:** how
 the Union's ties to the Hegemony were made, and the Hegemony's and the
 Federation's populations. *Humans the overall majority* is not filed; under
-Option 1 it is not established. **Added the same evening, verbatim:** *"Solar System is mostly human populated, Celtic Union is the next largest human population but much less dense"* — filed on both pages.
+Option 1 it is not established.~~ **Added the same evening, verbatim:** *"Solar System is mostly human populated, Celtic Union is the next largest human population but much less dense"* — filed on both pages.
+
+**The three held questions drafted 14 October 2026 (Fable), on the
+recommendations, under the dilemma-only rule; each can be overturned.**
+A cloud routine drafted the same the night before and could not push; this
+is the redo from the record.
+
+1. *How the Union's ties to the Hegemony were made* — **1A, world by
+   world:** arrangements between particular Union charter worlds and
+   particular Hegemony worlds, each made with the Administrator-Voice on
+   the spot inside the Prime Ganglion's standing policy, with no instrument
+   between the Union and the Hegemony as wholes. The precedents it rests on:
+   the Union's charter was *drafted world by world over thirty years* and
+   declines a strong centre; an Administrator-Voice *holds final authority
+   over that world's local governance*; the Hegemony's dealings with every
+   whole authority (the Rangers, the Federation, the Solar System) are
+   *correct rather than warm*. Which worlds and what each arrangement
+   covers stay marked absent. Realized on the Union page's *Ties beyond the
+   Solar System*, the Hegemony page's *Relationship with the Star Rangers*
+   and the comparison section. *Alternatives not taken:* 1B, a single
+   Union–Hegemony instrument made at reconnection through the Rangers, which
+   would have the Union take as a whole the kind of seat it has not taken
+   anywhere; 1C, leave the absence marked, which the record did until today.
+2. *The Hegemony's and the Federation's populations* — **2A, marked absent
+   with the in-world reason no figure exists:** the Hegemony counts for the
+   Prime Ganglion's use and has given outsiders no figure; the Federation
+   has no office that could count, since whether a member's people are
+   numbered, and what is counted as one, is that member's internal business.
+   Explains the epistemology, invents no number (`CLAUDE.md`, *explain the
+   epistemology, never invent the fact*). On the comparison section and both
+   polity pages. *Alternatives:* 2B, invent orders of magnitude from extent,
+   refused by the marked-absences doctrine; 2C, a bare *not established*
+   with no shape, which is what stood.
+3. *Humans the overall majority* — **3A, stays not filed**, and the
+   comparison section now says why: there is no census across the four
+   that could establish it, and the Archive does not file a majority it
+   cannot count. *Alternative:* 3B, file his 10 October ordering (humans the
+   overall majority) as canon; not taken because his Option 1 did not carry that half of the
+   direction, and 2A leaves nothing to count it from.
+
+No dilemma found: the three rest on precedents that do not conflict.
+Everything ruled on 10 October stands unchanged (extents; the Union's
+weight political, not headcount; the Solar System outnumbering the Union
+many times; the Union's ties closer than the Solar System's; his verbatim
+line on human population).
 
 ## The Celtic Union's distance from Sol — raised 9 October 2026, OPEN, fix only when a chapter needs it
 
