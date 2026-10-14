@@ -299,7 +299,15 @@ from that rule, and the exemption has a shape:
   negatives in prompts still apply). The one exception is **Codex art**, which
   is an artefact made by its in-world author and takes that author's medium,
   under the Codex-art rules below (a wrong belief is allowed; a wrong century
-  or a real place is not). **A second exception, the same day:** Tissadelle's
+  or a real place is not). *His taste, 14 October 2026, verbatim: "I do like
+  the whimsical fantasy dress styles and lighting as shown in the codex art
+  portrait of Asteria the Sage"* (`src/images/codex/asteria-the-sage-impression-artwork.jpg`:
+  a dark hooded cloak worked in silver botanical embroidery, layered and
+  belted, among bare branches by night in blue, black and silver). So a
+  painted Codex artefact may take that register of dress and light freely, as
+  its maker's imagination: it is the painter's answer, never a claim about
+  29th-century dress, and `civilian-dress.md` is not changed by it. Whether
+  it reaches beyond Codex art is not ruled. **A second exception, the same day:** Tissadelle's
   inner world is inside a mind, where no camera in the record can go, and it
   is allowed to look dreamy and dreamlike (Dermot, verbatim: *"Tissadelle's
   inner world is allowed to look more dreamy and dreamlike"*). Dreamlike is
