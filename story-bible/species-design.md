@@ -2085,7 +2085,10 @@ lives in*, as new lines. The Ollune and Cerebraun absences are marked with
 their reasons and are choices, not gaps. The Told, Meridian, Spiralites and
 Doreth are not gaps at all.
 
-### Open — his choices
+### His choices — ruled 14 October 2026
+
+**RULED 14 October 2026: all five as recommended, option A** (Dermot, verbatim: *"Yes Options A approved for all"*). Choice 1 is realised the same day as a clarification of `star-rangers-command-hierarchy.md` (the ages are the human case; other peoples' equivalents are set by the Medical Corps).
+
 
 1. **The service ages.** (A) The ages on the command page (about 55 for a
    Liaison posting, 75 for a pension, 110 the limit) are the human instance.
