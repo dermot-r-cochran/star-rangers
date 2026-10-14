@@ -357,6 +357,8 @@ keep it available.
 
 Asked whether non-human peoples have an equivalent of a flag, he chose a principle and no designs yet. A people marks belonging in its own medium, as it marks a role (the uniform equivalent above): a phrase, a struck rhythm, a colour, a posture, a scent, whatever its senses carry best. Nothing is defined per people until a page needs it, and then it is derived here first, from the people's senses and world, never borrowed from a human flag. The Celtic Union's ceremonial flag (six stars for six arks, `celtic-union-of-planets.md`, same day) is the one human polity's flag on record.
 
+**Dress, ornament and surface colour, people by people** (14 October 2026): worked out from the record, derived or proposed per line, with the open choices his, in `civilian-dress.md`, principle 15 and *Peoples in their own media*.
+
 ## Where this goes
 
 Each species that gets a body plan gets a lore page on the pattern of
