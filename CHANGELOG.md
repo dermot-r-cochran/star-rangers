@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Service ages are the human case** (`src/lore/star-rangers-command-hierarchy.md`, 2026-10-14, Dermot's ruling, option A). The three ages that bound a Ranger's service rest on human medicine. A Ranger of another people serves to equivalents the Medical Corps sets from that people's physiology, which is why Syra, a Krenyi, is still on the boundary desk at about a hundred and fifty. This is a clarification that resolves the one conflict in the *In the Corps* note, and the note's four other choices are also ruled as recommended.
+
 - `story-bible/species-design.md` gains *In the Corps*, answering Dermot's question of 14 October 2026 about non-humanoid people in the Star Rangers: for each people, whether and where they serve, the Rangers on record, the uniform equivalent, what the Corps provides and what limits them, each line marked derived, proposed or not established, with a census, a draft principle and five open choices. The gaps are added to the worklist in `open-questions.md`.
 
 - The 21 open choices in the four people-by-people sections of 14 October 2026 (dress and colour, social order, companions, machine minds) are ruled as recommended by Dermot the same day, and each section now records the ruling.
