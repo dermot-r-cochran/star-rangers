@@ -105,7 +105,9 @@ Federation's populations. *Humans the overall majority* is not filed; under
 Option 1 it is not established.~~ **Added the same evening, verbatim:** *"Solar System is mostly human populated, Celtic Union is the next largest human population but much less dense"* — filed on both pages.
 
 **The three held questions drafted 14 October 2026 (Fable), on the
-recommendations, under the dilemma-only rule; each can be overturned.**
+recommendations, under the dilemma-only rule; the first ruled by Dermot the
+same day (below), the second and third still on the recommendation and
+each still overturnable.**
 A cloud routine drafted the same the night before and could not push; this
 is the redo from the record.
 
@@ -125,6 +127,38 @@ is the redo from the record.
    Union–Hegemony instrument made at reconnection through the Rangers, which
    would have the Union take as a whole the kind of seat it has not taken
    anywhere; 1C, leave the absence marked, which the record did until today.
+   **Ruled by Dermot, 14 October 2026, verbatim:** *"Option 1A sounds valid
+   for the polities with the Star Rangers organization as the trusted
+   mediator when needed"*. So 1A is confirmed, no longer resting on the
+   recommendation, with his addition: the Star Rangers are the mediator both
+   sides trust when a world-to-world arrangement needs a go-between or a
+   dispute arises under one. *When needed* is read literally: the Rangers
+   are a party to none of the arrangements, decide nothing under them, and
+   there is still no instrument between the Union and the Prime Ganglion;
+   this is not 1B. It rests on the charter's unconditional neutrality and
+   the *trusted courier of last resort* role the Corps grew into, and the
+   record's one standing limit, the non-political mandate (*do not govern,
+   legislate, police, or administer*), is kept: a mediator who decides
+   nothing administers nothing. Realized as one sentence or two on the
+   Union page's *Ties beyond the Solar System*, the Hegemony page's
+   *Relationship with the Star Rangers*, the comparison section's closing
+   clause and the founding page's *Trusted courier of last resort*
+   paragraph. No incident, mediator or date is named; how often it has been
+   needed is marked absent.
+   **Second ruling the same day, verbatim:** *"The FTL limit prevents a
+   single galactic political authority from establishing and the Star
+   Rangers partly reduce the the need for one"*. Checked against the record
+   before filing: `ftl-mechanics.md` already holds no faster-than-light
+   communication and archives transit-lagged by decades; the Hegemony, the
+   largest polity, already puts final local authority in each world's
+   Administrator-Voice; the Concord is *not a government*; the comparison
+   page already says the four are not the whole of the settled reach. No
+   contradiction found. Realized as a paragraph after the extent table in
+   `civilisation-comparison.md` (why four polities and not one, why they
+   deal world by world, and the Rangers reducing the need *partly*) and a
+   closing sentence on the founding page's *Trusted courier of last resort*
+   paragraph. *Partly* kept literal: the Rangers reduce the need for such an
+   authority by carrying and by mediating when asked, and are not one.
 2. *The Hegemony's and the Federation's populations* — **2A, marked absent
    with the in-world reason no figure exists:** the Hegemony counts for the
    Prime Ganglion's use and has given outsiders no figure; the Federation
