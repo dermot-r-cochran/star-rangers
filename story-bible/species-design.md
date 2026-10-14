@@ -1546,3 +1546,584 @@ Left open and not put as choices, because the record already holds them open:
 which faction fields the beneficial robots; what Tsikk made of the Warden's
 reading, and what the difference will cost; the Corryn standing case; whether
 a made mind dreams (`open-questions.md`, 5 October).
+
+---
+
+## In the Corps — non-human peoples in the Star Rangers, people by people
+
+Written 14 October 2026 at Dermot's direction, verbatim: *"Non-humanoid people
+in the Star Rangers organisation"*. It builds on the four people-by-people
+sections ruled earlier the same day (`civilian-dress.md`, *Peoples in their own
+media* and principle 15; `mind-design.md`, *How a people holds standing*; and,
+above, *Living with other life* and *Minds they make*) and contradicts none of
+them. Every line is marked. **DERIVED** means the record says it or plainly
+implies it, and the page is cited. **PROPOSED** means a choice made here, his to
+take or leave. **Not established** means the record is silent, and this note
+leaves it so. Nothing here is written to `src/`.
+
+**The frame, from CLAUDE.md and the pages it points to** (all DERIVED). Humans
+are not privileged in the Corps, and a human Ranger's culture is one case among
+the cases; *alien* names only a being unknown to the Rangers, so no one in this
+section is an alien to the Corps (the 28 September usage rule). No branch is
+military; only the Frontier Corps polices, and only the Provost Corps does the
+work of military police (`star-rangers-command-hierarchy.md`, *What the Rangers
+Are Not*). Every Ranger on duty is in uniform for the hospital's reason, with no
+plain-clothes role, and other peoples have uniform equivalents in their own
+media (`rank-insignia-and-uniform.md`, *Why a Uniform at All*). Ranger service
+is *"individual and apolitical"* and never a quota (`chthonari.md`). Cadets
+come in by a planetary recruiter's recommendation, the colleges confirm Cadet
+standing, and certification is examined on grounds that *"credit no one's
+physiology"* (`star-rangers-academy.md`; `krenyi.md`).
+
+**The standard the Corps already built for this** (DERIVED,
+`rank-insignia-and-uniform.md`). The field uniform is *"a modular shell over a
+thermal-and-pressure liner, not a single garment cut to one body plan"*. Every
+mark is a magnetically seated tab or plate, *"sized and positioned per body plan
+by the wearer's own quartermaster record"*. Marks are *"shapes, not words"*,
+because a service carrying Krenyi, Pelagene, Veyr and Serephine officers
+*"cannot put its chain of command into any one people's alphabet"*. The tab is
+legible *"to an eye, a sensor or a limb-tip"* (`the-ladder-in-other-tongues.md`,
+*Why the Tab Does Not Translate*), so it can be read by touch as well as by
+sight. Each people renders the ladder in its own words, and *"in any
+disagreement between a rendering and a tab, the tab is right"* (same page).
+
+### Chthonari — the Undersong Belt
+
+- **Whether and where they serve.** DERIVED: individual Chthonari are
+  *"disproportionately represented in the Star Rangers' Engineering Corps,
+  specifically in fold-scaffold construction and maintenance"*, as a career
+  choice and not a compact obligation (`chthonari.md`;
+  `federation-of-sentient-beings.md`). DERIVED: *"Chthonari recruiters"*
+  exist and are *"tired of explaining the difference to visiting press"*
+  (`chthonari.md`), so Chthonari also hold the Liaison Corps' recruiter role.
+  DERIVED: *"Chthonari Rangers"* and *"Chthonari engineers"* file the
+  structural rendering of the ladder in Corps records
+  (`the-ladder-in-other-tongues.md`). The Music Corps' xenomusicology branch
+  studies them, since *"music and mathematics are nearly the same thing"*
+  (`star-rangers-music-corps.md`).
+- **Named Rangers on record.** None. Tsikk, Tekka, Tikket and Kattik are a
+  Federation contractor crew on Eden, not Rangers (`characters/tsikk.md` and
+  the other three). The record's strongest Corps concentration has no named
+  member: a worklist gap, filed below.
+- **Uniform equivalent and rank.** DERIVED: the modular shell fitted per body
+  plan. PROPOSED, from the derived sense (`civilian-dress.md`, Chthonari): the
+  fit leaves the limbs and the lower carapace in contact with the structure,
+  because that is where a Chthonari hears. DERIVED: the rank tab is legible to
+  a limb-tip, so a Chthonari reads another Ranger's rank by touch or through
+  the deck's contact. Their own role-mark stays open between a standing tone
+  in the Undersong and nothing (`species-design.md`, *The uniform equivalent*).
+  DERIVED: the Undersong form of a rank also marks whether the officer is felt
+  through shared structure (`the-ladder-in-other-tongues.md`). Like every
+  rendering, that is a courtesy and the tab governs.
+- **What the Corps must provide.** DERIVED: *"sustained work and reproduction
+  both require a sealed, pressurized burrow"*, and the body is built for
+  *"negligible gravity"* (`chthonari.md`). PROPOSED: a sealed, pressurised
+  quarters module, in the low-gravity hub where a station has one, with solid
+  structure underfoot rather than floated or damped decking. DERIVED: on Eden
+  *"everybody who can decide anything lives in the air"* (`tikket.md`).
+  PROPOSED: so the Corps owes a Chthonari Ranger a structure-borne channel into
+  the decisions, as it owes an Ilveth a cold room.
+- **What they bring.** DERIVED: they read a structure's resonance *"through the
+  hull, through the deck plating"* before instruments confirm it, and fold
+  scaffolds are *"the same kind of reading"* (`chthonari.md`).
+- **What limits them.** DERIVED: they cannot read a face
+  (`what-the-record-refuses.md`). Air-borne talk does not reach them.
+- **Recruitment and the Academy.** DERIVED: recruitment runs through Chthonari
+  recruiters, against a press that keeps reading a career pattern as a quota.
+  PROPOSED: the Engineering college's fold-scaffold school is where a
+  Chthonari cadet's sense meets the examination, and the examination is set on
+  the reading, never on the body that does it (the Krenyi precedent,
+  `krenyi.md`).
+
+### Ilveth — Sardain
+
+- **Whether and where they serve.** DERIVED: *"Ilveth Rangers go where the
+  dark is a problem and patience is the method: night survey, dark-side and
+  deep-shadow operations, and above all search and rescue"* (`ilveth.md`,
+  *In the Corps*). Ilveth Rangers use their rendering of the ladder in
+  click-speech for the day's work (`the-ladder-in-other-tongues.md`). Which
+  corps holds search and rescue is **not established**.
+- **Named Rangers on record.** **Suvra Kel**, search and rescue specialist,
+  *"among the first Ilveth to take Corps service"* (`characters/suvra-kel.md`).
+  Her corps and rank are **not established**.
+- **Uniform equivalent and rank.** DERIVED: the modular shell worn *"as a
+  cooling shell"* (`ilveth.md`; `suvra-kel.md`). PROPOSED: corps colour and
+  tab on the shell as for anyone, and nothing worn over the vanes or the
+  sensory crown. DERIVED: an Ilveth's own register of weight is the
+  warm-write, kept for what is *"worth paying to say"*, and is unusable in a
+  warm hull (`ilveth.md`). So an Ilveth's own role-mark, if any, is not worn on
+  duty aboard ship (`civilian-dress.md`, Ilveth, proposed there).
+- **What the Corps must provide.** DERIVED: chilled quarters, and the cost
+  that a shipboard Ilveth is *"held to their click-speech"* because the thermal
+  register is unusable in a warm hull (`ilveth.md`). PROPOSED: a team plan
+  that sends the Ilveth in *"ahead of the suppression"* (`suvra-kel.md`),
+  written into search-and-rescue doctrine and not left to one crew's habit.
+- **What they bring.** DERIVED: mirror-pits that read presence, temperature
+  and flow *"in no light at all"*, and a casualty read before instruments read
+  it (`suvra-kel.md`).
+- **What limits them.** DERIVED: the sense *"fails honestly"* in rain, mist,
+  steam and *"any room kept at everyone else's comfort"* (`suvra-kel.md`).
+- **Recruitment and the Academy.** DERIVED: the Ilveth were *"reached rather
+  than reaching"*: the survey came to Sardain (`ilveth.md`). PROPOSED: so the
+  first Ilveth Rangers came in by the survey's contact, as Suvra Kel did, and
+  the later ones by Ilveth recruiters once that first generation retired. A
+  cold examination room is a provision, not a concession.
+
+### Ovruhn — Thavren
+
+- **Whether and where they serve.** DERIVED: Ovruhn Rangers serve *"where
+  hearing through things is the job"*: structural assessment and fatigue
+  survey, atmosphere-side search through smoke and collapse, long acoustic
+  watch, and mass-care work in disaster response. They keep to atmosphere
+  postings where the choice exists (`ovruhn.md`, *In the Corps*). The Ovruhn
+  rendering of the ladder *"changes verb at the hinge"*, heard by Ovruhn
+  Rangers listening to how the ranks behaved (`the-ladder-in-other-tongues.md`).
+  Thavren carries the Federation compact's joint disaster response
+  (`federation-of-sentient-beings.md`). Which corps is **not established**.
+- **Named Rangers on record.** None. The one named Ovruhn, Vhen, is a chorus
+  keeper on Thavren (`characters/vhen.md`), and *"any Corps character"* is
+  already an open line (`open-questions.md`, the Ovruhn entry).
+- **Uniform equivalent and rank.** DERIVED: the shell is *"mostly a mounting
+  for the instruments that stand in for a starved sense"* (`ovruhn.md`).
+  PROPOSED there and kept here: nothing heavy over the flank hide, which is the
+  ear (`civilian-dress.md`, Ovruhn). Their own role-mark is heard, not worn.
+- **What the Corps must provide.** DERIVED: *"among the largest bodies in Corps
+  service"* (`ovruhn.md`). PROPOSED: so hatch and corridor clearance and the
+  mass budget of small craft are the Ovruhn's first provision, and a posting
+  without air is taken only on instruments.
+- **What they bring.** DERIVED: an Ovruhn walking a hull *"hears what
+  instrumented inspection schedules"*, and the under-song steadies a crowded
+  shelter deck *"as plain acoustics"* (`ovruhn.md`).
+- **What limits them.** DERIVED: their far sense is sound, so vacuum starves
+  it. Deception about one's own state is *"unavailable"* (`ovruhn.md`). On
+  watch with humans, that cuts both ways.
+- **Recruitment and the Academy.** DERIVED: Thavren was reached by the
+  Federation, not reaching (`ovruhn.md`). PROPOSED: their knowledge
+  *"scales at the speed of teaching"*, chorus-kept, so an Ovruhn cadet learns
+  a part by holding it beside a keeper, which is close to how the Academy
+  already teaches by posting serving officers as faculty
+  (`star-rangers-academy.md`).
+
+### Veyr Basaltborn — Veyr-3
+
+- **Whether and where they serve.** DERIVED: Veyr Rangers are *"usually placed
+  where mechanical stress and thermal risk overlap: outer-ring hull junctions,
+  coolant transit nodes, emergency patch corridors"*, which is *"not tokenism
+  and not coincidence"* (`veyr-basaltborn.md`). DERIVED: the Veyr serve and no
+  rendering of the ladder is on file from them (`the-ladder-in-other-tongues.md`,
+  *Where There Is No Rendering*).
+- **Named Rangers on record.** **Qiren Tal**, Hull Systems Specialist
+  (`characters/qiren-tal.md`). In 2831 they refused to certify Halyx Relay
+  Station's outer-ring corridor for six weeks, and were right (S05E01C01). The
+  chapter is tagged Safety Corps; Qiren's own corps and rank are **not
+  established**.
+- **Uniform equivalent and rank.** DERIVED, ruled 12 October 2026: a Veyr on
+  duty wears no garment; corps colour and rank tab are seated directly on the
+  lattice, and where corps or rank is off the record a prompt shows one plain
+  seated tab with no colour (`species-design.md`, *The uniform equivalent*).
+  The Veyr are *"among the reasons that standard exists at all"*
+  (`veyr-basaltborn.md`). Their own mark is undescribed.
+- **What the Corps must provide.** **Not established.** PROPOSED: little. The
+  body is built for crushing gravity and is *"extremely careful in low
+  gravity"*. That restraint is calibration and asks for nothing (`veyr-basaltborn.md`).
+- **What they bring.** DERIVED: calibration *"by material behaviour rather
+  than by instrument"*, and an engineering of margin and *"the honest statement
+  of a rating"* (`veyr-basaltborn.md`; S05E01C01).
+- **What limits them.** DERIVED: poor at *"a single decisive commitment of the
+  whole body"*, and apt to keep arguing for a reserve after the decision
+  (`veyr-basaltborn.md`).
+- **Recruitment and the Academy.** **Not established.** PROPOSED: the
+  certification culture is where a Veyr is most at home, since a refusal to
+  certify is the Corps' own instrument (S05E01C01).
+
+### Serephine Dunekin — Kharis Belt IV
+
+- **Whether and where they serve.** DERIVED: Serephine scouts serve and are
+  *"named among the reasons"* the shell had to be modular (`sethka-ru.md`;
+  `rank-insignia-and-uniform.md`). No rendering of the ladder is on file
+  (`the-ladder-in-other-tongues.md`).
+- **Named Rangers on record.** **Sethka Ru**, Long-Range Scout
+  (`characters/sethka-ru.md`). Corps and rank **not established**.
+- **Uniform equivalent and rank.** DERIVED: the shell fitted per body plan,
+  and *"filtration gear mostly for comfort"* in station air (`sethka-ru.md`).
+  PROPOSED (`civilian-dress.md`, Serephine): the fit leaves the surfaces that
+  open free to open. Their own role-mark stays open between posture or gait
+  and a worn mark (`species-design.md`).
+- **What the Corps must provide.** DERIVED: a schedule. *"A service that learns
+  to schedule around them gets a scout who has been reading exposure margins
+  since before there was anyone to teach him"* (`serephine-dunekin.md`).
+  PROPOSED: the open form has its margin hours on a posting as at home, so the
+  duty roster is written around a Serephine's two windows, as a cold room is
+  kept for an Ilveth.
+- **What they bring.** DERIVED: positional discipline, and *"assume stable is
+  not a methodology; it is a wish"* (`sethka-ru.md`). In the open form at dusk
+  a Serephine does *"something no other species in the Corps can do at all"*
+  (`serephine-dunekin.md`).
+- **What limits them.** DERIVED, and the page names it as the real cost of
+  service: sustained effort, and *"situations that will not wait for a
+  window"*. *"Serephine Rangers manage it. The record does not pretend it is
+  free"* (`serephine-dunekin.md`).
+- **Recruitment and the Academy.** **Not established.**
+
+### Pelagene Littoral — Nerath
+
+- **Whether and where they serve.** DERIVED: *"Pelagene surveyors like Mira of
+  Brine"* wear the shell (`rank-insignia-and-uniform.md`), and *"Rangers who
+  have served with them"* report on their materials habits
+  (`pelagene-littoral.md`). So Pelagene Rangers serve, plural. They are best at
+  corrosion, coolant, sealing and cross-medium contamination (same page). Which
+  corps holds an *environmental surveyor* is **not established**. Unlike the
+  Veyr and Serephine, the Pelagene are not listed among the peoples with no
+  rendering of the ladder (`the-ladder-in-other-tongues.md`). The absence is
+  real, and that page simply does not mark it.
+- **Named Rangers on record.** **Mira of Brine**, Environmental Surveyor
+  (`characters/mira-of-brine.md`). Corps and rank **not established**.
+- **Uniform equivalent and rank.** DERIVED, taken for her portrait on 13
+  October 2026: the Rangers' shell as a Pelagene wears it, *"a few small fitted
+  sections seated between the folds with nearly all of the integument left
+  open"*, and one plain seated tab with no colour while her corps and rank are
+  off the record (`species-design.md`, *The uniform equivalent*). The people's
+  own role-mark was ruled on 14 October: a carried object that reads in the
+  water (`civilian-dress.md`, choice 4). PROPOSED: on duty in air that object
+  stays home; the shell and the tab are the mark.
+- **What the Corps must provide.** DERIVED: *"assistive hydration cycles"*,
+  standard atmosphere, and humid, high-pressure working sections where *"the
+  physics is more legible to her"* (`mira-of-brine.md`). The cycles are
+  provision, not frailty: *"It is the reverse"* (`pelagene-littoral.md`).
+- **What they bring.** DERIVED: leaks, vapour creep and contamination found
+  *"before human instruments flag them"* (`mira-of-brine.md`).
+- **What limits them.** DERIVED: *"They cannot improvise fast"*, and a
+  temporary fix is *"faintly incoherent"* to them (`pelagene-littoral.md`).
+- **Recruitment and the Academy.** **Not established.**
+
+### Prismeri — Prismere
+
+- **Whether and where they serve.** DERIVED: Full Wings *"crew the astrogation
+  guilds that read Prismere's sky for the Federation and, through the standing
+  Federation-Ranger material compact, for Survey Corps fold-route confirmation
+  work"* (`prismeri.md`). DERIVED: every off-world Prismeri posting contract
+  carries the light and corridor accommodations, *"Ranger liaison postings
+  included"* (same page). DERIVED: *"The Prismeri work with the Corps under a
+  standing material compact"*, and nothing from them renders the ranks
+  (`the-ladder-in-other-tongues.md`). Whether a Prismeri on a *Ranger liaison
+  posting* is a sworn Ranger or a guild member seconded under contract is
+  **not established**, and is choice 4 below.
+- **Named Rangers on record.** None. The people are seen only through Halle
+  Ostrander's plates (`open-questions.md`, worklist).
+- **Uniform equivalent and rank.** **Not established.** PROPOSED
+  (`civilian-dress.md`, Prismeri): nothing on the wing membrane or over the
+  facet band. A seated plate goes on the body. DERIVED: the gold-and-blue of
+  Full Wings marks a life stage and never a rank (`prismeri.md`). A Corps that
+  read it as seniority would make the error `mind-design.md` names.
+- **What the Corps must provide.** DERIVED: the Prismere light spectrum; for
+  Full Wings, *"some exposure to genuine harmonic-corridor geometry"*, since
+  deprivation dulls the sense; and the one thing *"no contract can supply"*, a
+  ceiling worth hanging from, which is why postings are short *"by their own
+  preference"* (`prismeri.md`). PROPOSED: a beam in their quarters and in a
+  meeting room (*"hold meetings somewhere with a beam"*, `mind-design.md`) is
+  the cheapest provision in this section.
+- **What they bring.** DERIVED: tendrils that read corridor geometry that
+  *"no known instrument"* matches (`prismeri.md`).
+- **What limits them.** DERIVED: weight; on a standard-gravity station they can
+  neither fly nor hang (`prismeri.md`). A drone overhead startles them, and
+  that is the body working (`species-design.md`, *Minds they make*).
+- **Recruitment and the Academy.** **Not established.** PROPOSED: the guild,
+  not a recruiter, is the door, on the reading recommended in choice 4.
+
+### Ollune — Cirrane
+
+- **Whether and where they serve.** DERIVED: what Cirrane gives the Corps is
+  method, not people. Ollune agreement-drafting practice reached the Safety
+  Corps standards process, and the Safety Corps' separation of a reported
+  concern from a signed finding is Ollune anatomy (`ollune.md`). The
+  `safety-corps` tag on `ollune.md` marks that borrowing, not service.
+  Ollune Rangers: **not established**, and choice 3 below.
+- **Named Rangers on record.** None.
+- **Uniform equivalent and rank.** DERIVED: office exists only in the near
+  word, a chemical mark attributable to the body that made it (`ollune.md`;
+  `mind-design.md`, Ollune). PROPOSED: a rank tab carried by an Ollune would be
+  mass lifted *"hourly, forever"*. So if an Ollune ever served, the tab would
+  be seated on the hull, as Rook-7's marks are on its chassis
+  (`rank-insignia-and-uniform.md`), and the near word would carry the office
+  inside it.
+- **What the Corps must provide.** DERIVED: *"no shared facility exists that
+  both an Ollune and a human can occupy unsuited"*; a travelling Ollune lives in
+  a Federation-built pressure hull keeping a warm hydrogen envelope at
+  Cirrane's temperate-shell conditions (`ollune.md`). DERIVED: in freefall lift
+  costs nothing, *"some describe it as the deepest rest a body can know"*, and
+  Federation postings now brief for it (same page).
+- **What they bring.** DERIVED: position-keeping in depth, bearing and phase,
+  which Survey Corps astrogators find *"harder to stop using afterwards"*
+  (`ollune.md`).
+- **What limits them.** DERIVED: no surface, no fire, no metal; no vessel they
+  could have built (`ollune.md`).
+- **Recruitment and the Academy.** **Not established.**
+
+### Verdani — Verdance
+
+- **Whether and where they serve.** **Not established.** DERIVED: Verdance
+  anchors the compact's diplomatic standing, and Isren Farrowkin sponsored the
+  Federation's first data-sharing proposal with Survey Corps fold-route mapping,
+  on the ground that her people have *"an unusually direct stake in accurate
+  boundary-zone data"* (`isren-farrowkin.md`; `federation-of-sentient-beings.md`).
+  She is a delegate, not a Ranger.
+- **Named Rangers on record.** None.
+- **Uniform equivalent and rank.** DERIVED, ruled 14 October: nothing worn
+  and nothing grown; belonging is the kinstrain name, since anything on a vane
+  shades a metabolism (`civilian-dress.md`, choice 5). PROPOSED: so a Verdani
+  Ranger's tab is seated off the vanes, and strain colour is never read as
+  corps or rank (`species-design.md`, *The uniform equivalent*).
+- **What the Corps must provide.** DERIVED: full-spectrum light, *"a standard
+  accommodation most Federation and Star Ranger vessels already carry for
+  unrelated reasons"*; otherwise fully compatible with humanoid life-support
+  (`verdani.md`). Of all the non-humanoid peoples, theirs is the lightest
+  provision on record.
+- **What they bring.** PROPOSED: survey work that maps light, from Isren's
+  stated stake.
+- **What limits them.** DERIVED: *"Haste has a real price"*, paid in
+  metabolism (`verdani.md`). That is the Serephine cost in another key, and
+  the same scheduling answers it.
+- **Recruitment and the Academy.** **Not established.** PROPOSED: a recruiter
+  on Verdance works country by country, since *"no Verdani country claims
+  authority over another"* (`planets/verdance.md`). The Corps is asked in, and
+  it does not choose the level (`mind-design.md`, Verdani).
+
+### Cerebraun and the Hegemony
+
+- **Whether and where they serve.** DERIVED, a marked absence: *"Whether any
+  Cerebraun has served in the Corps the record does not say. The rendering is
+  the Hegemony's, for dealing with Rangers, not for being one"*
+  (`the-ladder-in-other-tongues.md`). DERIVED: the Hegemony's dealings are
+  *"correct rather than warm"*; it keeps no support compact, sees *"no reason
+  to fund an institution they do not command"*, has withdrawn an invitation
+  once without explanation, and declines the Oversight Council's non-voting
+  seat (`cerebraun-hegemony.md`).
+- **Named Rangers on record.** None. Sohrel and Tavesh are Hegemony officials
+  (`characters/sohrel.md`, `characters/tavesh.md`).
+- **Uniform equivalent and rank.** DERIVED: the skin is the second channel, so
+  a covering would silence half of what a Cerebraun says (`civilian-dress.md`,
+  Cerebraun). PROPOSED, only if a page ever needs a Cerebraun Ranger: one seated
+  plate on a housing, nothing over the display skin.
+- **What a Cerebraun would meet.** DERIVED: Hegemony diplomats find the Corps
+  doctrine that an order stops short of the method *"the least natural thing in
+  the ladder"* (`the-ladder-in-other-tongues.md`). PROPOSED, from the 14
+  October ruling that a Cerebraun-made mind follows the body and not the
+  doctrine (*Minds they make*, choice 1): a Cerebraun Ranger would find the
+  guild boundary nearer to its own body than to its polity's doctrine. That is
+  a reason the absence is interesting. It is not a reason to fill it.
+- **Recruitment.** DERIVED: Rangers enter Hegemony space only by invitation
+  (`cerebraun-hegemony.md`), and a recruiter works on a world the Corps has no
+  jurisdiction over (`star-rangers-academy.md`, *Intake*). A Cerebraun recruit
+  would come by an individual's choice and through no channel the Hegemony
+  keeps. Choice 2 below.
+
+### Meridian sapients — Meridian
+
+- **Whether they serve.** **Not established.** DERIVED: a Hegemony subject
+  world; humans meet its people *"only ever ... through translation
+  instrumentation and armored remote proxies"*, and Ranger crews enter on the
+  rare occasions the Hegemony grants it (`planets/meridian.md`). The Corps'
+  low-context reporting exists partly so a statement survives the crossing to
+  *"claw-percussion and chemical signaling"* (`star-rangers-decision-and-communication.md`).
+- **Named Rangers on record.** None. Sixth Course is an analyst to the Long
+  Shelf council (`characters/sixth-course.md`).
+- **What limits them.** DERIVED: an ammonia-saline sea, and no shared
+  facility. PROPOSED: a Meridian Ranger is not proposed. A people who have
+  never been met except through a proxy is a case for the Survey Corps, not a
+  recruiting ground.
+
+### The Told (the Pandoids of Fliade)
+
+- **Whether they serve.** No. DERIVED: *"They do not travel in space, and they
+  keep their record by speaking it"* (`planets/fliade.md`). Fliade is a
+  first-contact world, and the standing doctrine is *"longest survey windows,
+  lightest presence"* (same page). Their manners for a stranger are to leave it
+  to them until they ask (`mind-design.md`, the Told). Nothing of their language
+  is translated, so no rendering of the ranks exists or could
+  (`the-ladder-in-other-tongues.md`).
+- **Named Rangers on record.** None. Stone-First, Went-Round and Teddy carry the
+  `star-rangers` tag as the thread's setting, not as service.
+- **Recruitment.** DERIVED in effect: a recruiter reads *"a neighbour's
+  child"* on a world she lives on (`star-rangers-academy.md`), and no Ranger
+  lives among the Told. PROPOSED: recruitment from a people who have not asked
+  would break the manners the survey is keeping, and is refused, not merely
+  absent.
+
+### Spiralites — Corryn Prime
+
+- **Whether they serve.** **Not established.** DERIVED: they speak and
+  reproduce by electromagnetic pulse, and Corryn is a standing harm case under
+  an Imperium-chartered colony (`planets/corryn.md`; `halvern-combine.md`).
+  PROPOSED, from *Minds they make*: every powered Ranger vessel would be noise
+  in a Spiralite's speech channel, so service would be a life inside noise.
+  Nothing is proposed until the Corryn case moves.
+
+### Doreth — Aspenar
+
+- **Whether they serve.** **Not established.** DERIVED: one line, a
+  heavy-built, radiation-tolerant Federation people in sealed sulfur-rich
+  sections on the world whose alloy is *"the material backbone"* of the Ranger
+  compact (`planets/aspenar.md`). Not proposed: a people with one sentence is
+  owed a page before it is owed a Ranger.
+
+### For contrast: the Krenyi, and the Mnemari
+
+- **Krenyi** (humanoid, the only other people on the human frame). DERIVED:
+  *"exceptional Star Rangers"*, rare because the birth rate is low, *"valued"*
+  only in the sense that *"a scarce competence is not wasted"*. They work
+  boundary survey, safety and liaison, and the Corps trains *"the human social
+  grammar a novel case defeats"* (`krenyi.md`, *In the Corps*). A Krenyi
+  *"sits the same examination as anybody else"*, on grounds that credit no
+  one's physiology (same page). Rangers on record: **Syra** (boundary analyst,
+  about 150 years old and *"not particularly old for her kind"*), **Toval**
+  (Cadet, Survey Corps), **Ilvane** (Boundary Analyst, Survey Corps)
+  (`characters/syra.md`, `toval.md`, `ilvane.md`; `threshold-station.md`).
+  They wear cloth and a worn mark, the boring answer the uniform page assumes.
+  The contrast is the point. The one people nearest the human frame is the one
+  the Academy trains cadets on, *"not for any hazard the Krenyi present but for
+  the assumptions the frame invites"* (`krenyi.md`).
+- **Mnemari** (humanoid by their page). No Ranger on record. DERIVED: they serve
+  the Federation as mediators and treaty-witnesses (`mnemari.md`). They matter
+  here for one reason: a people with no natural upper bound on lifespan meets
+  the Corps' service ages (choice 1).
+
+### What holds across the peoples
+
+**Where they serve follows the sense, and is never a quota.** Every placement
+on record is the work a people's body makes cheap: Chthonari in fold
+scaffolds, Veyr where stress meets heat, Ilveth in the dark, Ovruhn where
+hearing through things is the job, Pelagene in the plumbing, Serephine where
+margins decide, Krenyi at the boundary desk. The record says twice, in two
+voices, that this is neither tokenism nor assignment (`veyr-basaltborn.md`;
+`chthonari.md`). Nobody is posted by species, and the pattern is what
+individuals choosing well looks like.
+
+**Every Ranger's mark is the Corps' on duty; a people's own mark is theirs off
+it** (DERIVED for the Veyr and Pelagene rulings; PROPOSED as the general rule).
+On duty the shell, the corps colour and the tab say role, because one service
+cannot read every people's medium at a doorway. A people's own mark, the struck name,
+the warm-write, the chorus, the kinstrain name, does not compete with the tab
+and is not suppressed by it. It is simply not the uniform. The renderings of
+the ladder are the same arrangement in language: each is a courtesy, and the
+tab is right.
+
+**A draft principle: the Corps fits its provision to the Ranger, and never its
+standard** (PROPOSED, from DERIVED instances). The record supports the first
+half everywhere it looks. The shell is modular *because* of the Veyr and the
+Serephine. Marks are seated per body plan by the wearer's own quartermaster
+record. Ilveth keep chilled quarters, Pelagene run hydration cycles, Verdani
+light is carried as standard, Prismeri contracts write in light and corridor
+geometry, and the Serephine are scheduled around. The second half is just as
+plain. Certification credits no one's physiology, and a Krenyi sits the same
+examination as anyone (`krenyi.md`). Qiren's refusal to certify held for six
+weeks because a rating is a rating (S05E01C01). And the principle has a stated
+edge where provision runs out. *"What no contract can supply is a ceiling worth
+hanging from"* (`prismeri.md`). The Serephine cost of emergencies *"is not
+free"* (`serephine-dunekin.md`). No facility holds an Ollune and a human
+unsuited (`ollune.md`). Where the Corps cannot fit a Ranger it says so, and the
+cost stays on the record rather than being charged to the Ranger. Stated as one
+line for a page that needs it: **the Corps adapts to the Ranger in everything
+it provides, in nothing it certifies, and says where it cannot.** Choice 5 asks
+whether to take it.
+
+**What the Corps must provide comes in five kinds** (DERIVED from the blocks
+above). *Medium*: a sealed burrow, a cold room, humid high pressure, a warm
+hydrogen hull. *Light*: the full spectrum for the Verdani, Prismere's spectrum,
+none at all for an Ilveth's work. *Gravity and mass*: low-gravity hubs for the
+Chthonari, a beam for the Prismeri, clearance for the Ovruhn, the Veyr's
+restraint in light gravity. *Time*: the Serephine's two windows, the Verdani
+metabolic price of haste. *Channel*: structure-borne for the Chthonari,
+click-speech for the Ilveth, the under-song heard as plain acoustics. Rank
+reading needs none of these, since the tab is legible to an eye, a sensor or a
+limb-tip.
+
+**Who cannot serve, and why, is never a ranking** (DERIVED, `what-the-record-refuses.md`,
+the ladder refused). The Told do not travel in space and have not asked. The
+Meridian sapients have never been met except through a proxy. The Ollune
+cannot share a room. The Cerebraun's polity does not fund what it does not
+command, and no individual is on record. Each is a fact about a world or a
+polity. None is a fact about a mind.
+
+**Recruitment follows contact, then becomes the people's own** (DERIVED in
+part). Recruiters are serving or retired Rangers who live where they recruit
+(`star-rangers-academy.md`; `planetary-liaisons-and-recruiters.md`). The
+Chthonari already have their own recruiters. PROPOSED: a newly met people's
+first Rangers come in by the survey's contact, as Suvra Kel did, and the
+recruiting passes to that people's own retired Rangers within a generation.
+No recruiter works on a people who have not asked.
+
+**The service ages are a human case** (DERIVED, choice 1). The limit of about
+a hundred and ten is set where *"the eleventh decade's borrowed capability runs
+out"* (`star-rangers-command-hierarchy.md`), which is a fact about human
+medicine (`planetary-liaisons-and-recruiters.md`). Syra is about 150 and on the
+boundary desk in 2831. So the record already holds the ages as the human
+instance of a rule whose other instances it has not written.
+
+### Census
+
+| People | Rangers on record | Corps / tracks | Uniform equivalent | Standing |
+|---|---|---|---|---|
+| Chthonari | none named | Engineering, fold-scaffold specialization; Liaison recruiters | shell fitted with limbs and underside on the structure; tab read by limb-tip | service derived; no Ranger: gap |
+| Ilveth | Suvra Kel | night survey, dark-side, search and rescue (corps not established) | shell as a cooling shell | derived |
+| Ovruhn | none named | structural and fatigue survey, search, acoustic watch, disaster mass care | shell as an instrument mount, flanks open | service derived; no Ranger: gap |
+| Veyr Basaltborn | Qiren Tal | stress-and-heat postings; certification (corps not established) | corps colour and tab seated on the lattice | derived (ruled 12 Oct) |
+| Serephine Dunekin | Sethka Ru | long-range scouting (corps not established) | shell fitted; filtration gear for comfort | derived |
+| Pelagene Littoral | Mira of Brine | environmental survey (corps not established) | shell sections between the folds, one plain tab | derived (taken 13 Oct) |
+| Prismeri | none | guild astrogators on Survey Corps fold-route work by compact; liaison postings by contract | not established; nothing on wing or facet band (proposed) | compact derived; Ranger status open (choice 4) |
+| Ollune | none | method only: Safety Corps standards | tab on the hull, office in the near word (proposed) | not established (choice 3) |
+| Verdani | none | none on record; light-mapping survey (proposed) | tab off the vanes; kinstrain name, no token | not established: gap |
+| Cerebraun | none | none on record | nothing over the display skin (proposed) | marked absence (choice 2) |
+| Meridian sapients | none | none | not proposed | not established |
+| The Told | none | none, and none sought | a role is told | do not serve (derived) |
+| Spiralites | none | none | not proposed | not established |
+| Doreth | none | none | not proposed | not established |
+| Krenyi (contrast) | Syra, Toval, Ilvane | Survey Corps boundary desk; safety, liaison | cloth and a worn mark | derived |
+
+The gaps (a people with lore weight and no Ranger) go to the worklist in
+`open-questions.md`, *Peoples and settlements the record names but nobody yet
+lives in*, as new lines. The Ollune and Cerebraun absences are marked with
+their reasons and are choices, not gaps. The Told, Meridian, Spiralites and
+Doreth are not gaps at all.
+
+### Open — his choices
+
+1. **The service ages.** (A) The ages on the command page (about 55 for a
+   Liaison posting, 75 for a pension, 110 the limit) are the human instance.
+   Each people's equivalents are set from its own physiology by the Medical
+   Corps, whose finding the command ladder cannot override. Written later as a
+   clarification of `star-rangers-command-hierarchy.md`. (B) The ages bind
+   every Ranger as written. **Recommended: A.** The page grounds the limit in
+   human medicine, and Syra at about 150 on the boundary desk in 2831 cannot
+   stand under B. The two commitments cannot both hold, so this is a genuine
+   dilemma, and A resolves it by clarification.
+2. **A Cerebraun in the Corps.** (A) Keep the ladder page's marked absence:
+   the record does not say whether any Cerebraun has served. (B) State that
+   individual Cerebraun may serve and some have, as individuals outside any
+   Hegemony channel. **Recommended: A.** The absence is published, it is the
+   Hegemony's distance shown in one line, and nothing needs it filled. B stays
+   available for a chapter that wants a Cerebraun Ranger.
+3. **An Ollune in the Corps.** (A) Not established, with the reason marked: no
+   shared facility, and Cirrane's gift to the Corps is method. The charter does
+   not close the door. (B) An Ollune serves from a hull kept at Cirrane's
+   conditions, carrying near words, its tab seated on the hull. **Recommended:
+   A.** B needs a vessel nobody has built and a role the Corps already fills by
+   courier. A keeps both open without inventing either.
+4. **What a Prismeri "Ranger liaison posting" is.** (A) A guild member
+   seconded to the Corps under the compact's contract, not a sworn Ranger, with
+   individual Prismeri free to enlist and none on record. (B) Prismeri Rangers
+   serving in the Survey Corps under the ordinary ladder. **Recommended: A.**
+   Every Prismeri line on record runs through the guilds and the compact, and
+   the ladder page lists them among the peoples who *work with* the Corps.
+5. **The draft principle.** (A) Adopt it in this note as the standing reading:
+   *the Corps adapts to the Ranger in everything it provides, in nothing it
+   certifies, and says where it cannot*. It goes to a page only when one needs
+   it. (B) Leave it unstated, since every instance is already on its own page.
+   **Recommended: A.** It gathers instances the record already holds, it
+   answers a reader's obvious question about so many body plans in one
+   service, and its third clause keeps the costs on the record, where the
+   Serephine and Prismeri pages already put them.
+
+Left open and not put as choices, because the record already holds them open:
+the corps of Mira of Brine, Qiren Tal, Sethka Ru and Suvra Kel; the Veyr,
+Serephine and Ilveth peoples' own role-marks; and which corps holds search
+and rescue.
