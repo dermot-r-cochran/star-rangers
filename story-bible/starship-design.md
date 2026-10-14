@@ -246,6 +246,57 @@ which showed a Space Shuttle; the 10 October rule names ascent by javelin
   spaceport is civil traffic): the missile resemblance is the page's simile
   and stays one. No markings, no ordnance, no launch vehicle on a truck.
 
+### G. Antariksha (a counter-rotating pair, the Compact's foundry habitat)
+
+Added 14 October 2026 for the lore page's owed illustration (`intake-2026-10-10.md`,
+*An Indian habitat*, approved by him 11 October *"Approved as drafted"*). The
+page carries more worked figures than any other habitat in the record, so most
+of this sheet is canon.
+
+- **Purpose** (canon, `src/lore/antariksha.md`): built to make what can only be
+  made where nothing weighs anything; the non-rotating hub is a foundry (drawn
+  glass fibre, crystal growth, large lattices) and the habitat around it houses
+  the people who run it. High Earth orbit; a Compact member; about 150,000
+  residents at a busy city's density.
+- **Weight** (canon): **two cylinders, each about 2 km long and 1,200 m
+  across**, turning in opposite directions on a common axis, **about 1.2 rpm**
+  for Earth-standard weight at the floor, **about 77 m/s** at the floor; about
+  fifteen square kilometres of floor between them. The formula checks: 895 /
+  1.2² ≈ 620 m, the cylinder's radius within rounding. Below 2 rpm, so
+  residents born there need no adaptation, as the page says.
+- **Why two** (canon): counter-rotation leaves the pair with no net angular
+  momentum, so turning the whole habitat to face the sun costs almost nothing;
+  one cylinder of that size would fight every turn like a gyroscope.
+  Principle 7's counter-rotating case at habitat scale.
+- **Layout** (derived): the two drums lie **end to end on one axis** with the
+  **hub between their inner ends**, a shorter non-rotating drum of smaller
+  diameter (a working figure: **300 m across, 400 m long**) on bearings to
+  both, so the foundry sits at the centre of mass and the weightless work is
+  reached from either cylinder without leaving the axis. **Docking** is on the
+  hub's rim, in the annular gap between the two drums' end caps, where a craft
+  can hold station against something that does not turn. A non-rotating spine
+  runs the axis through both drums and stands out as a short stub at each
+  end (derived, awaiting him: the page says only that the hub does not rotate).
+- **Sun and power** (derived from the canon turning): the axis is kept pointed
+  at the sun. The sunward stub carries a flat dark field of collectors; the
+  drums are lit from inside and keep a day by their own lighting, which is why
+  the hub can work round the clock and the cylinders need no window strips. In
+  high orbit the hull is the radiation shield, and a window band would be a
+  gap in it (principle 5 and real physics agree here).
+- **Heat** (derived, principle 8): a foundry is heat work. Large flat plain
+  radiator panels stand out radially from the hub, edge-on to the sun, and
+  more sit on the shadow-end stub in the hull's own shadow. They are the most
+  visible thing on the habitat after the drums themselves.
+- **Surface** (principle 5; the 11 October *well kept* rule): dull matte
+  composite in greys, the honest seams of its panels, unmarked, unlit but for a
+  few steady points at the docking cradles. Clean and maintained; a kept thing.
+- **What a picture shows** (for `images.md`): two enormous plain drums, a
+  narrower hub between them with cradles and radiator fins, a stub at each
+  end, one with the collector field; the sun lighting it from one side and the
+  far side black; Earth a disc behind it, not filling the frame, because the
+  orbit is high. A ring, a torus, spokes or a single cylinder fails the sheet;
+  so does a window stripe down either drum.
+
 ---
 
 ## How a prompt uses this
@@ -268,6 +319,7 @@ which showed a Space Shuttle; the 10 October rule names ascent by javelin
 - The Tally's weight at the Mooring (A).
 - The Threshold-class shape (E).
 - Whether any ship in the record has windows at all beyond ports.
+- Antariksha's hub figures (G): its diameter and length, whether a spine runs the full axis, and where docking sits; the page fixes the drums and the hub's purpose and nothing else.
 - The High Captain's command ship (principle 12): its class name, its size, how a session is hosted (whose ship, by rotation or by the Triumvirate's), and whether it gets a sheet (G) before any page or picture needs it.
 - Whether these sheets become a lore page (*Hulls of the Record*, Technology)
   once he has ruled on the open items; until then they are planning.
