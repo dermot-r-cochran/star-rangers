@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Prismeri neck and tail now have their reason on the page** (`src/lore/prismeri.md`, 2026-10-14, Dermot's option A on the body sheet). The short neck and no tail stay. They follow from the hang, the glasswood and the facet band, not from any limit of Prismere's gravity, which would carry a longer neck. This is a clarification of the 12 October reading, and the Levril test stays a rule for pictures only.
+
 - `story-bible/species-design.md` gains a body sheet for the Prismeri (14 October 2026, at Dermot's *"a large flying creature must be consistent with physics and planetary conditions"*). It proposes Prismere's gravity, air density and oxygen, and a Prismeri's mass and span, then works out flight power, the shell, the neck and the tail. The proposed figures reproduce the record's line that a Prismeri can neither fly nor hang at standard gravity. Three choices are put to him, and nothing public changes.
 
 - **Inner worlds are the only place magic or time travel can seem to happen** (Dermot, 14 October 2026). `src/lore/what-the-record-refuses.md` gains a paragraph and a summary row saying so: the refusals stand for the world, and what happens in an inner world is filed as experience, never as an event, and in the transition to a noögenic seed universe the magic is downgraded and normalized, not destroyed. The Journal entry *What the Refusals Cost* gains the matching paragraph. Recorded in `story-bible/intake-2026-10-14.md`.
