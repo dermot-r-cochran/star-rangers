@@ -7,6 +7,8 @@ role: "Keeper of the Meridian translation channel, Halyx Relay Station liaison o
 status: "Active"
 description: "The Cerebraun who keeps the Halyx Relay Station's chemical-and-percussion translation channel to Meridian's reef-cities — the instrument the Administrator-Voice's office maintains out of obligation and rarely trusts past a paragraph — and who holds, at the bottom of the Hegemony's ladder, the opposite view of it."
 tags: ["cerebraun", "cerebraun-hegemony", "halyx-system", "meridian", "season-3"]
+image: "tavesh.jpg"
+image_alt: "Tavesh in a plain equipment bay: a soft, headless, grey-olive body resting on folded lower limbs beside a low pale instrument housing, the longer upper limbs laid across its bare working surface, small dark eyes set along the limbs, a dark doorway behind."
 ---
 
 Half an hour of the instrumentation arguing with itself over connotation is, to everyone else in the Halyx Relay Station's liaison office, the channel's defect. To Tavesh it is the channel working.
