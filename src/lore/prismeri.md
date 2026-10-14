@@ -32,8 +32,8 @@ Not the two forms; the record has corrected that. The posture. A Prismeri hangin
 
 ## First Wings
 
-![A natural-history plate in ink and watercolour: a slender, pale grey-violet First Wings Prismeri hanging head-down from a ledge by its hind feet, wings folded, its clawed wing-fingers holding a piece of shaped glass, with a spread-wing study and a study of the head showing two low forward eyes and the facet band on the skull ridge](/star-rangers/images/lore/prismeri-first-wings.jpg)
-*Plate I of the contact survey's [Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/), a naturalist's drawing from life.*
+![A finished natural-history painting in oil: a slender grey-violet First Wings Prismeri seen from above and behind, hanging head-down by its long-toed hind feet from the shaped ledges of a pale lumenspire lit faintly from within, both wings folded close, the ribbed back and the smooth domed head bent down toward a small triangular glass prism held in its thin clawed wing-fingers, one pale stripe of inlaid glass running along the crown of the head; warm amber haze behind, soft crystal spires far off and a forest of bare crystal spikes below](/star-rangers/images/lore/prismeri-first-wings-painting.jpg)
+*Halle Ostrander's finished painting on panel, worked up afterwards from Plate I of [Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/).*
 
 
 A Prismeri is born and spends the first several decades of life in what is called the **First Wings** form: slender, light-boned, with translucent gossamer wing membranes and a soft, still-hardening exoskeleton in grey-violet tones. First Wings Prismeri are fully sapient and legally adult by their own culture's reckoning well before metamorphosis — the form is not a childhood stage in the way it first appeared to outside observers, only an early adult one. First Wings individuals fill most of Prismeri society's exploratory, apprentice, and scouting roles: their lighter frame and lower stall speed make them better suited to close-quarters glasswood-grove navigation than the form they will eventually grow into.

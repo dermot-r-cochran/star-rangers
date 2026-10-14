@@ -17,7 +17,7 @@ Halle Ostrander drew. On the Federation's contact survey of [Prismere](/star-ran
 
 - On the contact survey of Prismere: drew the First Wings and Full Wings plates for the two preliminary reports, from below and with the people's consent.
 - After the kinship finding: redrew the third plate as the two forms of one people, with a study of the closed shell of the Second Emergence, and circulated the plates with the revised species report as *[Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/)*.
-- Later: worked the sheets up into finished paintings in oil on panel, at true scale and in Prismere's own light; the Archive's [Prismeri](/star-rangers/lore/prismeri/) entry carries those after the second and third sheets.
+- Later: worked the sheets up into finished paintings in oil on panel, at true scale and in Prismere's own light; the Archive's [Prismeri](/star-rangers/lore/prismeri/) entry carries those, one after each sheet.
 
 ## Character Notes
 
