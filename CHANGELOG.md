@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Tobble gets his own character page** (`src/characters/tobble.md`, 2026-10-14, Dermot's choice of option B). Under the new rule, a member of a plural system gets a page once they hold a POV in a published chapter. The page is written only from the record and the system's own account and is linked from the Tobble section of Shepherd's page. The `tobble` POV id now resolves. At Dermot's ruling the same session, a member with no body of their own gets a fantasy-style Codex-art impression as a portrait, never a photograph; Tobble's is queued. The rule is recorded in `story-bible/intake-2026-10-14.md`, and the stale list of page-less POV ids in `lib/editions.js` is corrected.
+
 - Tissadelle Shepherd's POV may include private inward conversations with the public-facing members of her system, Tobble and Asteria the Sage first, and likewise Sen's three and any non-human plural system (Dermot, 14 October 2026). It is recorded in `story-bible/intake-2026-10-14.md` with its canon checks, and as a paragraph under §5 of `story-bible/prose-style.md`, citing the form already published in S05E02C03.
 
 - **New Journal entry, *What the Refusals Cost*** (`src/journal/what-the-refusals-cost.md`, 2026-10-14, at Dermot's question what ruling out magic and time travel had cost). It sets the kinds of story each refusal closed off beside where some of them went (the past kept as the record, the will kept as a character's experience, the marvel kept as physics), names the two losses that do not come back, and ends on what the refusals bought. It is the cost side of *Special Pleading*, and links to it rather than repeating it.

@@ -307,7 +307,13 @@ from that rule, and the exemption has a shape:
   painted Codex artefact may take that register of dress and light freely, as
   its maker's imagination: it is the painter's answer, never a claim about
   29th-century dress, and `civilian-dress.md` is not changed by it. Whether
-  it reaches beyond Codex art is not ruled. **A second exception, the same day:** Tissadelle's
+  it reaches beyond Codex art is not ruled. **The same day it became the
+  portrait register for plural-system members who have no body of their own**
+  (verbatim: *"Non-physical headmates get fantasy-style codex art portraits
+  instead of the photorealistic portraits for the host body of the plural
+  system"*; `intake-2026-10-14.md`). Such a member's page takes a painted
+  impression made from the system's description, never a photograph; the host
+  body keeps its photograph. **A second exception, the same day:** Tissadelle's
   inner world is inside a mind, where no camera in the record can go, and it
   is allowed to look dreamy and dreamlike (Dermot, verbatim: *"Tissadelle's
   inner world is allowed to look more dreamy and dreamlike"*). Dreamlike is

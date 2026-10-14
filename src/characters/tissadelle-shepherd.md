@@ -94,7 +94,7 @@ Both relationships begin at Starwarden, in the same week of 2829 ([Not Asked (S0
 
 ## Tobble
 
-Shepherd is plural. Tobble is a headmate — a distinct person sharing one body with her, on the ordinary terms Concord personhood standards have recognised for well over a century. See [Plural Minds](/star-rangers/glossary/plural-minds/) for how little the cosmology has ever had to make of this.
+Shepherd is plural. [Tobble](/star-rangers/characters/tobble/) is a headmate — a distinct person sharing one body with her, on the ordinary terms Concord personhood standards have recognised for well over a century. See [Plural Minds](/star-rangers/glossary/plural-minds/) for how little the cosmology has ever had to make of this.
 
 Tobble is a ginger cat, and uses he/him. Not a costume, a coping image, or a figure Shepherd invented to make something easier — a nonhuman member, whose own identity is simply not the species of the body he shares. Asked during cadet intake why a cat, Tobble's answer went onto the record as *because that is what I am*, and the reviewing officer, to their credit, wrote it down and moved on to the next item.
 
