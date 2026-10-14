@@ -4,8 +4,8 @@ title: "Prismeri"
 category: "Species"
 tags: [prismeri, species, prismere, federation-of-sentient-beings, silicate-carbon, metamorphosis, astrogation]
 description: "A winged, silicate-carbon sapient people native to Prismere, whose single dramatic metamorphosis between First Wings and Full Wings life stages gave outside observers the lasting, mistaken impression of two separate species."
-image: "prismeri-full-wings.jpg"
-image_alt: "A natural-history plate in ink and watercolour: a Full Wings Prismeri drawn from below with broad wings spread in flight, washed in gold and blue, fine tendrils streaming from the skull ridge, and the same individual drawn small hanging at rest"
+image: "prismeri-full-wings-painting.jpg"
+image_alt: "A finished natural-history painting in oil: a Full Wings Prismeri in level flight through golden haze, seen from below and to one side, broad veined grey membranes spread wide on long finger bones with a clawed thumb free at each wrist, the body plated in worn gold and dull blue, the blunt head carried close on a short neck with a heavy-lidded dark eye and a band of flat crystal facets along the skull ridge, fine crystal tendrils streaming back over the shoulders, the hind legs trailing; a ringed planet faint in the haze above and a crystal forest soft far below"
 ---
 
 Federation contact teams filed two separate preliminary species reports on their first survey of Prismere, a full local year apart, before a frustrated field xenobiologist cross-referenced kinship records and proved both reports described the same person at two points in one life.
@@ -42,8 +42,8 @@ A Prismeri is born and spends the first several decades of life in what is calle
 
 At a point in adulthood that varies by individual — triggered, current Federation xenobiology holds, by a combination of accumulated silicate-mineral intake and prolonged exposure to concentrated Lattice geometry — a Prismeri enters **the Second Emergence**: a molt-like transformation, taking place over several local weeks inside a self-secreted mineral shell, from which the individual emerges in **Full Wings** form.
 
-![A natural-history plate in ink and watercolour: a Full Wings Prismeri drawn from below with broad wings spread in flight, washed in gold and blue, fine tendrils streaming from the skull ridge, and the same individual drawn small hanging at rest](/star-rangers/images/lore/prismeri-full-wings.jpg)
-*Plate II of [Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/).*
+![A finished natural-history painting in oil: a Full Wings Prismeri in level flight through golden haze, seen from below and to one side, broad veined grey membranes spread wide on long finger bones with a clawed thumb free at each wrist, the body plated in worn gold and dull blue, the blunt head carried close on a short neck with a heavy-lidded dark eye and a band of flat crystal facets along the skull ridge, fine crystal tendrils streaming back over the shoulders, the hind legs trailing; a ringed planet faint in the haze above and a crystal forest soft far below](/star-rangers/images/lore/prismeri-full-wings-painting.jpg)
+*Halle Ostrander's finished painting on panel, worked up afterwards from Plate II of [Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/).*
 
 
 Full Wings Prismeri are structurally distinct enough from First Wings that the mistaken two-species classification persisted through two Federation survey passes: hardened, gold-and-blue chitin plating replaces the soft grey-violet exoskeleton, the gossamer wing membranes are replaced with stronger, load-bearing wings capable of sustained high-altitude flight, and a set of long, motile sensory tendrils grow from the skull ridge, dense with the same crystalline-mineral structures that make the Lattice visible in Prismere's sky. Those tendrils give Full Wings Prismeri a biological sensitivity to ambient harmonic-corridor geometry that no First Wings individual — and no known instrument — can match, which is why Full Wings adults, not First Wings apprentices, crew Prismeri astrogation guilds.
@@ -54,8 +54,8 @@ The Second Emergence is irreversible and, by Prismeri account, not universal: a 
 
 Prismeri social structure follows the practical difference between the two forms rather than any formal caste system: First Wings individuals scout, apprentice, and tend lumenspire settlements, while Full Wings individuals — who account for a minority of the adult population — crew the astrogation guilds that read Prismere's sky for the Federation and, through the standing Federation-Ranger material compact, for Survey Corps fold-route confirmation work.
 
-![A natural-history plate in ink and watercolour: a First Wings and a Full Wings Prismeri hanging head-down side by side from one ledge, heads level and turned toward each other, with a study below of the closed mineral shell of the Second Emergence](/star-rangers/images/lore/prismeri-lattice-gathering.jpg)
-*Plate III of [Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/), redrawn after the kinship finding.*
+![A finished natural-history painting in oil: two Prismeri hanging head-down by their hind feet from one long pale stone ledge, wings folded close, their heads at the same height and turned toward each other in profile, eyes half-closed; on the left a slender First Wings form with soft grey-violet skin and nearly transparent membranes, on the right a Full Wings form plated in worn gold and blue with fine crystal tendrils hanging from the side of its head; further along the ledge a smooth closed pale mineral shell hangs on a short stalk, against warm amber haze and faint spires](/star-rangers/images/lore/prismeri-lattice-gathering-painting.jpg)
+*Halle Ostrander's finished painting on panel, worked up afterwards from Plate III of [Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/), the sheet redrawn after the kinship finding.*
 
 
 Guild status is not hereditary and cannot be, since no Prismeri chooses or predicts whether the Second Emergence will ever come for them; a First Wings individual who never transforms simply never qualifies for guild work, regardless of standing or ambition, and Prismeri institutions treat that outcome as a fact of biology rather than a verdict on the person. That structural humility — no one earns the transformation, no one is denied it by any authority — is, Prismeri cultural historians argue, the reason guild status never hardened into the kind of resented hereditary privilege it might have elsewhere.

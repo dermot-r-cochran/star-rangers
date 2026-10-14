@@ -39,3 +39,5 @@ I have drawn only what I saw at a working distance with the people's consent, wh
 ## Notes for the reader of the plates
 
 The plates are a naturalist's and say what a naturalist saw. They say nothing about what triggers the Emergence, which the guilds have not chosen to explain and I did not ask, and nothing about the Lattice, which I cannot see as the tendrils do. Where the survey's reports and these sheets differ, the reports are the record; the sheets are the drawings that taught me I was looking at one people.
+
+*Archive note: the naturalist later worked the sheets up into finished paintings in oil on panel, at true scale and in the light and haze of Prismere, as near to the living people as paint will go. The Archive's [Prismeri](/star-rangers/lore/prismeri/) entry carries the paintings after the second and third sheets, and the first sheet itself for the First Wings form. The sheets above are kept as they were drawn, with the naturalist's notes unchanged.*
