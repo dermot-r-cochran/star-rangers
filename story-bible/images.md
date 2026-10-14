@@ -4848,6 +4848,60 @@ filed.
   - **The ledger's marks stay unreadable** on the lettering rule, and on the page's own: the language is not carried and *no rendering can carry* it, so a frame in which the columns can be read, in any script, asserts a sample of it and is not filed.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only tare`. Triage each variation for its century first (a candle, a quill, a leather spine or a scriptorium fails whatever else it gets right), then for the hull (a derelict fails; a kept old room passes), then for the face against the readings above; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to the page from the filed frame.
 
+### 16. Missing portraits — Tobble, the first non-physical member (written 14 October 2026, Fable)
+
+Dermot's rulings of 14 October 2026 (`intake-2026-10-14.md`), verbatim:
+*"Non-physical headmates get fantasy-style codex art portraits instead of the
+photorealistic portraits for the host body of the plural system"*, and, on the
+register, *"I do like the whimsical fantasy dress styles and lighting as shown
+in the codex art portrait of Asteria the Sage"*. Tobble's page landed the same
+day (`src/characters/tobble.md`, PR #1223) with no `image:`. He has no body of
+his own for a camera to take, so his portrait is a **painting**, made as
+Asteria's was (§ 7 above): an impression from the system's own description,
+never from a sitting, with the edges dissolving where the description ran out.
+It is a companion piece to `codex/asteria-the-sage-impression-artwork.jpg` by
+the same kind of practice, and that painting is passed as a reference for its
+medium, palette and handling only. It is a character portrait, so it is
+**16:9 landscape** at 1200×675 for the slot, through `import-image.ps1
+-MaxEdge 1200` at **finish strength 0**: it is a painting, not a photograph,
+and the photographic finish is for photographs.
+
+What the record holds of him, and all the prompt draws on: a ginger cat, he/him,
+a person and not an animal (`tobble.md`, `plural-minds.md`); the deeper layer
+he keeps, *kept records, checked procedure, arithmetic done twice*; and the
+Dock Seven block of S05E02C03, where what went in was *a hillside, and a low
+stone wall with the third course shifted … and the particular gold of a home
+star*, and it *came up grey, and then gold*, and he *sat down in the middle of
+it, being a cat, and waited to see what it would do*. The painting takes that
+moment and nothing beyond it. Choices made, each Dermot's to overrule and none
+written to the page:
+
+- **He wears nothing.** The fantasy register lives in the light, the place and
+  the brushwork, not on him. A cloak, a hat, a belt or a sword would make him a
+  costumed animal and the Puss-in-Boots trope, which the trope default refuses;
+  a collar or a bell would make him a pet, which is the mistake the record
+  exists to correct. Whether a later painter dresses him is open; this one
+  does not.
+- **He sits as a person sits**, upright on the wall he chose, forepaws
+  together, head level, a steady gaze past the viewer, the bearing of a
+  colleague. Not standing, not on two legs, not with hands. The 28 July
+  guardrails are met the same way as Asteria's: still and watchful, not to
+  camera.
+- **The light is the chapter's**: the last grey before the home star, with the
+  first gold on his fur and the top of the wall. The palette is limited to
+  pre-dawn grey, the blue-black of the shadow side (which is where it sits
+  beside Asteria's night blue), ginger and one gold.
+- **The wall is the chapter's**, dry-stone, the third course shifted. Nothing
+  else from the inner world is placed, since the record has not itemised it.
+- **Century:** nothing made is in frame but the wall, and an unmortared field
+  wall dates no century; the frame is inside a mind in any case, where the
+  13 October triage asks only that nothing present-day intrudes.
+
+- **`tobble.jpg`** — Cat, member of Tissadelle Shepherd's plural system, the deeper layer's keeper; *because that is what I am.*
+  References: `src/images/codex/asteria-the-sage-impression-artwork.jpg`
+  > A painted portrait in the manner of an artist's impression made from a description rather than a sitting. The attached painting is a reference for its medium, brushwork and handling only: take nothing of its subject, figure, clothing, branches or night from it. The subject is a ginger cat, an adult of ordinary size and build, with short dense orange-ginger fur in darker tabby bands and pale amber eyes, sitting upright and composed on the flat top of a low dry-stone wall on an open hillside in the last grey before sunrise, the first gold of a rising home star touching his fur, the tips of his ears and the top course of the wall from low on one side, a little more gold than a sunrise should give, as a painter of fairy stories would paint it. He sits as a person sits who has chosen where to sit: tail laid along the stones, forepaws together, head held level and turned a little to one side, his eyes fixed on something far off beyond the edge of the picture and not on the viewer, so that the viewer sees him in three-quarter view and he does not meet the viewer's eye at all; still and watchful, the bearing of a colleague and not of anybody's pet. The wall is built without mortar, and its third course from the ground has slipped out of true along its length so the stones above sit a little proud. He wears nothing. Behind him the hillside falls away in long strokes of grey-green and shadow toward a sky going from grey to gold at one edge. Heavy visible oil brushwork and a limited palette of pre-dawn grey, the deep blue-black of the shadow side, ginger and a single warm gold; the hillside and the sky thin and dissolve into bare strokes and raw ground at the edges of the picture as if the painter stopped where the description ran out. Quiet, composed, a little hopeful rather than grim. No clothing, hat, boots, cloak, cape, sword, belt, collar, bell, tag, harness, jewellery or costume of any kind on the cat; not a cat-person, not standing on two legs, no human hands, no human posture, no cartoon, no caricature, no mascot, no big-eyed cuteness, no wizard's familiar, no cushion, no window, no fireside; no readable text, lettering, numerals, signature, monogram, watermark, logo, signage, labels, branding or written characters of any script anywhere in frame; no holograms, projected light, glowing displays, screens, monitors or consoles; no visible lamp, light fitting or bulb; no flat studio backdrop, gradient background, glamour lighting, posed to camera, eye contact with the viewer or looking into the camera; no weapons; no drawn frame or border around the picture. 16:9 landscape.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only tobble`, two variations, two rounds at most. Triage each variation first for the trope (any garment, collar, upright stance or cartoon fails), then for the bearing (he must read as a person who is a cat, not a pet: the gaze level and past the viewer, the body composed), then for the surface (visible brushwork, the edges dissolving, no readable mark); file through `import-image.ps1 -MaxEdge 1200 -Finish 0`, add `image:`, `image_alt` from the filed frame and an `image_caption` naming it an impression.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
