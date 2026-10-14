@@ -42,6 +42,11 @@ the entry should link it rather than repeat it.
 1,200 words, written for critics, peer authors and students of the writing.
 Fable drafts it: Journal entries are Fable's work (Dermot, 11 October 2026).
 
+**Fable's reading, 14 October 2026:** draft after the routing rules' first
+worked case, and drop it if none exists by 30 November 2026. The reasons are
+in `open-questions.md`. The tagline is mentioned once at most, since
+Sudowrite is already the foil in two published entries.
+
 ## Three Routes to One Stillness — the Krenyi beside the INFJ-A, 9 October 2026, agreed
 
 Dermot asked for the [Krenyi](../src/lore/krenyi.md) compared with the sigma

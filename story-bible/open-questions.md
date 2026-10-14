@@ -55,7 +55,7 @@ recommended** (*"Approved"*): the body points extended into
 `src/lore/cerebraun.md`, and Sohrel's portrait re-rolled and filed (§ 13 of
 `images.md`).
 
-## Engineering as the writing method, a Journal entry — raised 11 October 2026, OPEN, noted for later
+## Engineering as the writing method, a Journal entry — raised 11 October 2026, SETTLED BY FABLE 14 October 2026 (draft after a trigger; drop if none by 30 November 2026)
 
 Noted in `ideas.md` (*Engineering as the Writing Method*) at Dermot's choice,
 *Option 1, note it for later*. Nothing is drafted. Fable drafts it, since
@@ -66,6 +66,29 @@ of that Journal entry"*). The next session with Fable available reads this
 section and the `ideas.md` note and decides: draft now, set a time, or drop
 it. Under *Who approves whom* it may settle that itself, naming its choice
 and reason here, or put it to Dermot as choices.
+
+**Fable's reading, 14 October 2026** (settled under *Who approves whom*;
+Dermot may overrule it): **set a trigger, with a drop date behind it.**
+Draft the entry at the first release cut after the 11 October routing rules
+have produced one worked case, meaning a merged PR whose body records a
+decision Fable settled or one Fable put to Dermot as choices. If no such
+case exists by **30 November 2026**, drop the entry and close this section
+with that reason.
+
+*Why.* Most of what the `ideas.md` outline lists is already published:
+*Two Copies, Forty Seconds Apart* (one source of truth, the gates, Claude
+Code's role), *Who Thought of It* (the author/machine accounting), *The
+Third Debt Is Mine* (the gates fix structure and judgement comes to the
+author), *No One Is Minor* (the dropped Sudowrite import), and the About
+page's *How this site is written* and *The engineering behind the record*.
+Written today, the entry would mostly re-tell those and fail the Journal's
+test. The one new thing, model routing and who approves whom, is three days
+old with no worked example, so it would quote a rule rather than report a
+lesson.
+
+*For the eventual draft.* Sudowrite is already the foil in two entries, so a
+third pass at its tagline would read as a grudge: open on the method and
+mention the tagline once or not at all.
 
 ## The four polities' populations — raised 10 October 2026, RULED same day (*Option 1, Celtic Union has better diplomatic ties the the Federation and Hegemony*)
 
