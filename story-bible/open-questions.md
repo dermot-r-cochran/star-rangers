@@ -35,7 +35,7 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## Dress, ornament and surface colour of the non-human peoples — `civilian-dress.md`, *Peoples in their own media*, 14 October 2026 — OPEN, not blocking
+## Dress, ornament and surface colour of the non-human peoples — `civilian-dress.md`, *Peoples in their own media*, 14 October 2026 — RULED same day, all as recommended
 
 At his two questions of 14 October (*"Dress codes, styles and ornamentation for non-humanoid peoples"*; *"Skin or surface colour variations in non-humanoid peoples"*), each people was worked out from the record, line by line derived or proposed, with principle 15 proposed as the general rule. Five choices are put to him there as options with recommendations: (1) the Pandoid coat, grey or black-and-white markings, A recommended; (2) the four Chthonari portraits alike, vary at the next re-roll or keep one carapace for the people, A recommended; (3) whether a Cerebraun's resting tone is individual or regional, A (individual) recommended; (4) the Pelagene's own role medium, a carried object or a skin display, A (object) recommended; (5) a Verdani token, none with the reason stated or a worn or grown one, A (none) recommended. The proposals stand as recommended until he rules.
 
@@ -3179,10 +3179,10 @@ The note's prompt vocabulary (plain considered cuts, quiet natural colours, band
 
 The account is filed as the Hegemony's in `src/lore/cerebraun.md` (home settled by Fable, 13 October 2026). Whether it should also exist as a Codex entry in a Cerebraun author's own voice is his: (A) leave it as the lore section only, recommended until a chapter needs a Cerebraun to say it; (B) a Hegemony contact-doctrine paper by a new named Administrator-Voice, with a character page in the same PR; (C) a Prime Ganglion office memorandum with its author withheld, a marked absence rather than a page. Sohrel is not the author for (B): a doctrinal account of another people is not a document that record produces.
 
-## How a people holds standing — `mind-design.md`, 14 October 2026 — OPEN, not blocking
+## How a people holds standing — `mind-design.md`, 14 October 2026 — RULED same day, all as recommended
 
 Five choices from the people-by-people section on social and functional order, each with a recommendation there: (1) the Cerebraun body-to-polity reading as their own doctrine only (A, recommended) or a general law (B); (2) how the Prime Ganglion's capacity is shown, marked absent (A, recommended) or a stated practice (B); (3) keeping the margin as a doing with no word (A, recommended) or an office (B), already open on Stone-First's page; (4) the Ovruhn old keepers as the chorus's own measure (A, recommended) or a standing elder body (B); (5) who speaks for the Spiralites, left for the Corryn chapter to find (A, recommended) or fixed now (B).
 
-## Machine minds among the non-humanoid peoples — `species-design.md`, *Minds they make*, raised 14 October 2026 — OPEN, not blocking
+## Machine minds among the non-humanoid peoples — `species-design.md`, *Minds they make*, raised 14 October 2026 — RULED same day, all as recommended
 
 Dermot asked, 14 October 2026: *"Machine intelligence or virtual intelligence as used and developed, if any, by non-humanoid peoples."* Answered people by people in `species-design.md`, *Minds they make*, every line marked derived, proposed or not established. Five choices are put there with recommendations, and the recommendations stand unless he overrules them: (1) Cerebraun machine law, doctrine or biology (B, biology); (2) Chthonari monitors at home, a Belt regime or none (A, a regime); (3) Serephine lethal hours, agentic or not (B, not); (4) Ovruhn and a voice with no under-song (B, filed with offices); (5) Ollune and a machine's word (B, it never binds). Nothing is written to `src/`. Still open as before, and untouched: which faction fields the beneficial robots (`intake-2026-07-28.md`), what Tsikk made of the Warden's reading, the Corryn standing case, whether a made mind dreams.

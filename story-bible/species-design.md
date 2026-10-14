@@ -1094,7 +1094,10 @@ case. *Pet* is the human case, one relation among the relations. Like the
 human Ranger's culture, it is never the baseline the others are measured from
 (CLAUDE.md, the 28 September usage rule).
 
-### Open — his choices
+### His choices — ruled 14 October 2026
+
+**RULED 14 October 2026: all as recommended** (Dermot, verbatim: *"All approved as recommended. Sounds good."*). The recommendation in each item below is now the ruling.
+
 
 1. **Does *pet* travel?** (A) The record keeps *pet* for human-side kept
    animals (the Smart Pet register) and names every other people's relation
@@ -1498,7 +1501,10 @@ The Federation also counts synthetic peoples among its constituents (DERIVED,
 same page). Those are peoples, not minds anyone made, and this section does
 not develop them.
 
-### Open — his choices
+### His choices — ruled 14 October 2026
+
+**RULED 14 October 2026: all as recommended** (Dermot, verbatim: *"All approved as recommended. Sounds good."*). The recommendation in each item below is now the ruling.
+
 
 1. **Cerebraun machine law: doctrine or biology.** A: a Hegemony-built mind is
    built as its doctrine says limbs should be, executing the central voice

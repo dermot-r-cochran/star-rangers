@@ -432,7 +432,10 @@ Three refusals hold for every block, from the trope default and the standing ima
 - **Dress and ornament:** Not stated. Principle 14 is the Krenyi's and does not transfer. The Setting-Down and the Held Roles are a civic change, not a dress one, and no garment or mark is proposed for them. Principles 1 to 7 apply as for anyone. *Proposed.*
 - **Surface colour:** Not stated, and the image is a card.
 
-### Open — his choices
+### His choices — ruled 14 October 2026
+
+**RULED 14 October 2026: all as recommended** (Dermot, verbatim: *"All approved as recommended. Sounds good."*). The recommendation in each item below is now the ruling.
+
 
 Kept to the questions where two readings both fit the record and the choice is taste. Everything else above stands as recommended, under the dilemma-only rule, until he changes it.
 
