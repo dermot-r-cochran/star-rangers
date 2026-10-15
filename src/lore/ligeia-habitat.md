@@ -12,7 +12,7 @@ locationType: "Habitat"
 
 Most habitats were built for the people who live in them. Ligeia was built to watch them, and they moved in anyway.
 
-**Ligeia** is a self-governing habitat in high orbit around Titan, Saturn's largest moon, roughly nine and a half times Earth's distance from the Sun. It is the seat of the **Titan Settlement Authority**, which governs the habitat and the stations on Titan's surface under one charter, and it is the only settlement beyond the Belt that the Archive knows to stand above the habitat threshold. A signal between Ligeia and Earth takes between about seventy and ninety minutes each way, depending on where the two planets stand in their orbits.
+**Ligeia** is a self-governing habitat in high orbit around [Titan](/star-rangers/lore/planets/titan/), Saturn's largest moon, roughly nine and a half times Earth's distance from the Sun. It is the seat of the **Titan Settlement Authority**, which governs the habitat and the stations on Titan's surface under one charter, and it is the only settlement beyond the Belt that the Archive knows to stand above the habitat threshold. A signal between Ligeia and Earth takes between about seventy and ninety minutes each way, depending on where the two planets stand in their orbits.
 
 ## Titan Before the Ring
 

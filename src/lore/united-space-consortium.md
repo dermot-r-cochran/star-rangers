@@ -10,7 +10,7 @@ image_alt: "Designed cover for United Space Consortium: three concentric rings i
 
 Before the wars, there was an assembly chamber full of delegates who could still say they represented the Solar System. The tragedy is not that the chamber was false. It is that it was too slow when distance and power stopped waiting for it.
 
-The United Space Consortium (USC) was the Solar System's first formal interplanetary governing body, founded in approximately 2140 CE (2340 UCSD) following the completion of the first permanent settlement networks on [Mars](/star-rangers/lore/planets/mars/), Titan, and the Belt. It was conceived as a democratic federation — each settlement and station holding representation weighted by population and resource contribution — and it lasted, in recognisable form, for approximately a century and a half.
+The United Space Consortium (USC) was the Solar System's first formal interplanetary governing body, founded in approximately 2140 CE (2340 UCSD) following the completion of the first permanent settlement networks on [Mars](/star-rangers/lore/planets/mars/), [Titan](/star-rangers/lore/planets/titan/), and the Belt. It was conceived as a democratic federation — each settlement and station holding representation weighted by population and resource contribution — and it lasted, in recognisable form, for approximately a century and a half.
 
 ## Origins
 
