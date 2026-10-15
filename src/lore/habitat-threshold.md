@@ -38,13 +38,15 @@ What the line does not supply is anything to do next. Crossing it removes other 
 
 ## Where the Concentrations Are
 
-Three patterns are documented, and they are governed very differently.
+Four patterns are documented, and they are governed very differently.
 
-**Earth orbit** is the densest and the most administered: five self-governing habitats under the [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), sharing a Governor, a coordination office and a common civil chain. It is also incomplete, because [New London](/star-rangers/lore/new-london-space-habitat/) sits in the same orbital space, above the same threshold, and never entered the Compact at all — the largest inhabited body in Earth orbit that no Compact officer has jurisdiction over.
+**Near-Earth space** is the densest and the most administered: five self-governing habitats under the [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), sharing a Governor, a coordination office and a common civil chain. It is also incomplete, because [New London](/star-rangers/lore/new-london-space-habitat/) sits in the same orbital space, above the same threshold, and never entered the Compact at all — the largest inhabited body in Earth orbit that no Compact officer has jurisdiction over.
 
 **The Belt** is the opposite arrangement. Every habitat and station chartered to the [Knarr Line](/star-rangers/lore/knarr-line/) sends delegates to the Thing in proportion to crewed tonnage, and what the Thing binds is deliberately narrow — claim boundaries, convoy safety, and the ice-and-ore allocation that stops one habitat starving another. Everything else stays with the habitat. Comparable population, a fraction of the shared government.
 
 **The Undersong Belt** is neither, being a concentration by excavation rather than construction: dozens of independent burrow-clusters through an asteroid population, tuned to each other acoustically long before anyone thought to coordinate them administratively.
+
+**Titan** is a single polity: [Ligeia](/star-rangers/lore/ligeia-habitat/), the habitat in orbit around Saturn's largest moon, and the stations on the surface below, governed together by the Titan Settlement Authority under one charter. It crossed the line because its families live in orbit, where the ring turns at full Earth weight, and work on Titan's surface, at a seventh of it, in rotation: the station is home and the ground is the posting.
 
 Beyond Sol, the [Federation of Sentient Beings](/star-rangers/lore/federation-of-sentient-beings/) charters "member worlds, orbital habitats, and constituent peoples" in the same breath, which suggests the orbital polity is unremarkable out there. The Survey Archive has never enumerated them.
 

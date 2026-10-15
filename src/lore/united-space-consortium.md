@@ -32,7 +32,7 @@ What it could not do was adapt to the speed of its own expansion. Every new sett
 
 The USC did not fall because of one blow. It failed by accumulation.
 
-The precipitating crisis was the Titan Water Rights dispute of 2289 CE (2489 UCSD). A decade of failed assembly negotiations over subsurface ice extraction ended in unilateral action by the Titan Settlement Authority, which three other constituencies declared illegal under USC charter. Counter-declarations followed. Two major Earth delegations withdrew. The Free Outer Belt Coalition formed as a rival governance body claiming authority beyond Martian orbit.
+The precipitating crisis was the Titan Water Rights dispute of 2289 CE (2489 UCSD). A decade of failed assembly negotiations over subsurface ice extraction ended in unilateral action by the [Titan Settlement Authority](/star-rangers/lore/ligeia-habitat/), which three other constituencies declared illegal under USC charter. Counter-declarations followed. Two major Earth delegations withdrew. The Free Outer Belt Coalition formed as a rival governance body claiming authority beyond Martian orbit.
 
 The USC remained alive on paper for another fourteen years. In practice, by 2293 CE (2493 UCSD) it could no longer pass binding legislation, enforce navigation law in the outer system, or maintain control of the boundary-monitoring station network, which fragmented into local authorities that no longer shared protocols.
 
