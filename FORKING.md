@@ -64,6 +64,16 @@ If you keep this record and add to it (Path B), number your additions where the 
 
 Season numbers here are assigned in order as the record grows, so the next free number today is someone else's tomorrow. Renumbering later is possible, since a chapter's `comment_id` is its permanent identity and moves with it, but starting in the reserved range avoids it. (Reserved 15 October 2026, after the first fan fork took the next free season number.)
 
+## Versions and changelog in a fork
+
+This repository versions itself in four places: `version` in `package.json`, the README's *Current version* line (`npm test` fails if the two disagree), a released section per version in `CHANGELOG.md`, and an annotated tag such as `v1.40.0`. A fork that edits any of them collides with every later sync. So:
+
+- **Leave the version alone.** Keep `package.json` and the README line exactly as they come from this repository: they then always say which release of it your fork is built on.
+- **Tag your own releases with a suffix**, if you want them: `v1.40.0+fan.1`, `v1.40.0+fan.2`. In semantic versioning everything after `+` is a label, so the tag reads as this repository's 1.40.0 plus your first set of additions, and can never be mistaken for a release of this record. It is a tag only; no file changes.
+- **Record your changes in a changelog of your own**, `FAN-CHANGELOG.md` at the root, newest first, in the same Keep a Changelog shape. `CHANGELOG.md` is this record's, and lines added at its top meet this repository's own new entries there at every sync. One consequence to expect: `npm test`'s changelog-coverage step lists your fan pages as missing from `CHANGELOG.md`. It warns and never fails.
+
+(Added 15 October 2026, after the first fan fork added its entries to `CHANGELOG.md`.)
+
 ## Taking an edition to your own domain (`editions.local.json`)
 
 [`lib/editions.js`](./lib/editions.js) is the tracked registry of this project's own domains and their per-domain identity — "editions": palette, content filter, branding, homepage copy and flourishes. An untracked `editions.local.json` in the repo root adds your own domain to that registry without editing a tracked engine file, so pulling upstream never conflicts — the same arrangement as `giscus.local.json` (step 5) and `deploy.conf`. Copy [`sample-editions.local.json`](./sample-editions.local.json) into place (the copy is gitignored) and edit; the template documents every field inline.
