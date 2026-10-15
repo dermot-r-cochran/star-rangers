@@ -179,6 +179,8 @@ Extent is not population, and it is not weight. The Solar System, with one star,
 
 The table above is a census, and it is also close to a ceiling. The reason is the one already given: a message crosses settled space no faster than a hull carrying it. A [harmonic corridor](/star-rangers/lore/ftl-mechanics/) moves a vessel on the order of a light-year a day, averaged over its windows; a fold reaches farther but spends longer in preparation than in transit. So a question sent from the centre of a polity to its edge, and the answer sent back, take about twice the polity's radius in light-years, counted in days, and longer wherever the corridors run out.
 
+Folding does not get round this. A fold joins two particular regions, and only where an admissible connecting geometry exists between them; staging at a quiet site improves a fold that is possible and never creates one. Such geometries are few. There are enough of them to reach the farthest destinations in settled space, and nowhere near enough to join every world to every other or to build a network that could outrun the corridors. A centre with a fold to one distant world still waits on the corridors for all the rest, and the fold's own staging and certification make it a slow courier even where it exists. So the corridor's light-year a day is the pace that governs.
+
 The arithmetic is short. Near the Solar System there is roughly one star system in every two hundred and fifty cubic light-years. A polity holding every system within a sphere would reach these radii:
 
 | Systems held | Radius | Round trip at a light-year a day |
