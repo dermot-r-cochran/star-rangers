@@ -28,7 +28,7 @@ The ring itself is two centuries younger than the settlement. After the Tycho Ac
 
 When the Imperium gave way to the [Military Space Command](/star-rangers/lore/military-space-command/) in 2609 UCSD, the station's administration passed to Titan's civil government. The record of the negotiated restructuring lists it among the matters the outer-station representatives on the High Council raised, and does not say whether it was conceded or simply no longer wanted.
 
-The Authority named it Ligeia, after Ligeia Mare, the methane sea on whose shore many of its founding families had worked. The old designation was not struck. It stands on the Authority's register as the station's first entry, with the renaming enrolled beside it, which is how the [enrolled text](/star-rangers/lore/the-enrolled-text/) of settled space keeps every change and why the habitat's name answers to a date.
+The Authority named it Ligeia, after Ligeia Mare, the methane sea on whose shore many of its founding families had worked, at [Stillwater](/star-rangers/lore/stillwater-station/) and the stations that followed it. The old designation was not struck. It stands on the Authority's register as the station's first entry, with the renaming enrolled beside it, which is how the [enrolled text](/star-rangers/lore/the-enrolled-text/) of settled space keeps every change and why the habitat's name answers to a date.
 
 ## The Right Weight
 
