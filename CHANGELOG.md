@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Civilisation Comparison gains *Natural Limits of Reach*** (`src/lore/civilisation-comparison.md`, 2026-10-15). An extension of *Four Polities by Extent*. With no faster-than-light communication, a question's round trip across a polity takes about twice its radius in light-years, counted in days. A table gives the radius and round trip for a thousand to a million systems, from the local stellar density. The section's reading is that the limit is that round trip, not a number of worlds, so a polity must delegate, decline a centre, or come apart. A polity larger than the Hegemony is neither known nor ruled out, but could not be a single state.
+
 - **The homepage and the search description carry the pitch too** (`src/_data/site.js`, `src/index.md`, `lib/editions.js`, 2026-10-15). The site-wide meta description and the homepage's own now read the pitch's opening, its five layers and its closing line, in place of *a world that no one really understands*. The canonical edition's hero subtitle opens on the pitch's first two sentences and keeps the clock as the hook after them, the shape Dermot chose on 2026-10-09. Other editions' taglines are unchanged.
 
 - **README opens with Dermot's pitch for the work** (`README.md`, 2026-10-15). The opening paragraph under the motto is replaced by his three-paragraph description: hard science fiction with a hopeful heart, the one invented thing being the shape of reality above where people live, and officers who keep faith with the truth and with each other. One line after it keeps what the old paragraph said about the repository: the story and the Eleventy engine that publishes it. The Synopsis below is unchanged.
