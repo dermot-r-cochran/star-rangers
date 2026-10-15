@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **New lore: [Ligeia Habitat](src/lore/ligeia-habitat.md)** (`src/lore/ligeia-habitat.md`, 2026-10-15). The Solar System's first documented habitat beyond the Belt: a spin ring in high orbit around Titan, built by the Imperium as Outer Administration Station Four, handed to Titan's civil government in 2609 UCSD and renamed for Ligeia Mare. It is the seat of the Titan Settlement Authority, the body whose unilateral act of 2289 CE began the Consortium's collapse, which kept its name. Families live aboard at full Earth weight and work Titan's surface on rotation; the Authority's forty-day Standing Notice delays any act binding outsiders, and its trade is nitrogen for the Belt. `habitat-threshold.md` gains Titan as a fourth concentration (an extension), and the Consortium page links the Authority.
+
 - **Eden's location is stated: the Earth–Sun L2 region** (`src/lore/eden-space-habitat.md`, `src/lore/orbital-habitats-compact.md`, `src/characters/petra-voss.md`, `src/lore/the-tally.md`, 2026-10-15). The record placed Eden in three ways: the children's line said the outer Solar System, the Lagrange page put the Eden Passage near Earth–Sun L2, and the Compact named five habitats around Earth. Dermot chose Earth–Sun L2, about 1.5 million kilometres beyond Earth, which keeps the Compact and the Five-O crossings as written. The Eden page now says so in its body and its `plain:` line, and the Compact's reach is worded as near-Earth space, from high Earth orbit out to Eden, on the Compact, Governor Voss and Tally pages. A clarification; no chapter changes.
 
 ## [1.41.0] — 2026-10-15
