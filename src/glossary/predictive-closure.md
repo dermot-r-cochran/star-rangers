@@ -7,7 +7,6 @@ short: "A post-horizon regime in which macroscale outcomes converge into narrow 
 related:
   - "Entropy Horizon"
   - "Creative Entropy Index (CEI)"
-  - "Threnos-Ω"
 tags: [predictive-closure, entropy-horizon, cei]
 ---
 
@@ -15,4 +14,4 @@ tags: [predictive-closure, entropy-horizon, cei]
 
 In predictive closure, systems still evolve, but most changes are recombinational rather than genuinely novel.
 
-Threnos-Ω is the primary reference case for this condition.
+[Threnos-Ω](/star-rangers/lore/universes/threnos-omega/) is the primary reference case for this condition.

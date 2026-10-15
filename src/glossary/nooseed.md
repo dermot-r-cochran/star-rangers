@@ -8,10 +8,11 @@ related:
   - "Noögenic Seeding Law"
   - "Noögenic Seed Potential (NSP)"
   - "Inner World Depth (IWD)"
-  - "Seed Mind Lifecycle"
 tags: [nooseed, noogenic, seed-mind]
 ---
 
 A **Noöseed** is a compressed mind architecture with enough preserved interior complexity to catalyze a successor universe seed-state.
 
 It is not merely archival storage; it is a generative transfer structure.
+
+See also: [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/).

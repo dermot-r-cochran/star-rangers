@@ -8,10 +8,11 @@ related:
   - "Noöseed"
   - "Noögenic Seed Potential (NSP)"
   - "Inner World Depth (IWD)"
-  - "Seed Mind Lifecycle"
 tags: [noogenic-law, seeding, cosmology]
 ---
 
 The **Noögenic Seeding Law** states that universe reproduction occurs through transfer-capable information-rich minds, not direct mass replication.
 
 A valid seed must preserve coherent interior generativity through compression and transference.
+
+See also: [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/).

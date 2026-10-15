@@ -8,10 +8,11 @@ related:
   - "Noögenic Seed Potential (NSP)"
   - "Noöseed"
   - "Inner World Depth (IWD)"
-  - "Seed Mind Lifecycle"
 tags: [ufi, noogenic, fertility, seed-minds]
 ---
 
 The **Universe Fertility Index (UFI)** tracks the structural readiness of a universe to produce transferable noöseeds.
 
 UFI depends on the density of late-phase seed-capable minds, not raw population size.
+
+See also: [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/).

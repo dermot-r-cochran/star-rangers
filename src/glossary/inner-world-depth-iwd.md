@@ -8,10 +8,11 @@ related:
   - "Noögenic Seed Potential (NSP)"
   - "Noöseed"
   - "Universe Fertility Index (UFI)"
-  - "Seed Mind Lifecycle"
 tags: [iwd, noogenic, seed-minds]
 ---
 
 **Inner World Depth (IWD)** measures the depth and structure of a mind's internal architecture, including recursive modeling and paradox-bearing coherence.
 
 Higher IWD generally supports higher noögenic seed potential.
+
+See also: [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/).

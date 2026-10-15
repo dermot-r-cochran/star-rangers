@@ -7,7 +7,6 @@ short: "The threshold where a universe can no longer sustain self-renewing novel
 related:
   - "Creative Entropy Index (CEI)"
   - "Predictive Closure"
-  - "Threnos-Ω"
 tags: [entropy-horizon, closure, cei, universe-lifecycle]
 ---
 
