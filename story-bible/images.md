@@ -4210,7 +4210,8 @@ breaches under *Convention breaches* above.
 
 ### Intake 2026-08-24 — first candidate for the Codex-art pool: a headmate of Tissadelle
 
-Dermot supplied one generated image in session (Botify AI; no prompt kept),
+Dermot supplied one generated image in session (a third-party generator; no
+prompt kept),
 first captioned **"Asteria the Sage, codex art"** and reassigned by him in the
 same session, after the Asteria canon mismatch was raised, as **"a headmate of
 Tissadelle"**. Parked at
@@ -4228,11 +4229,13 @@ three-quarter turn, level gaze past the camera. Register is still and watchful
 rather than horror — inside the tone rule as it stands.
 
 **Technical state:** 768×1152 (below the 1200px portrait floor and the 1600px
-codex-card square), 232 KB, **"Botify AI" watermark bottom-left** — a
+codex-card square), 232 KB, **a generator watermark bottom-left** — a
 generation artefact, which the 18 August quality bar names as a disqualifying
 flaw until cropped out. **Cropped 15 October 2026:** the bottom 120 rows
 removed, leaving 768×1032 with the badge gone and only the dark skirt below the
-belt lost; nothing healed. The provenance above is unchanged.
+belt lost; nothing healed. The provenance above no longer names the tool, at
+Dermot's direction the same day (*remove or crop any mention*); that it was a
+fourth tool, outside the Gemini and Firefly routes, still stands.
 
 **Why it is parked rather than filed, in order:**
 
