@@ -1644,7 +1644,7 @@ be found without reading 1,300 lines.
   (3) ~~the Codex-art route's own two open decisions~~ (ruled 3 September
   2026 — card in the header, artwork in the body, prospective only), plus the
   codex entry (with in-universe author) the artwork would need to live on; (4) ~~mechanically, the
-  Botify AI watermark and 768px width~~ — re-made clean at 1600px from the
+  generator watermark and 768px width~~ — re-made clean at 1600px from the
   reference, 3 September 2026. **Drafted the same day** as
   `src/codex/asteria-the-sage-impression.md` with card and artwork, unattributed
   author by choice (a named in-world painter is Dermot's to add). **Still
@@ -1828,8 +1828,9 @@ not evaporate between sessions.
   22 August 2026 (#533)**, same day it was drafted. The About page's fan-works
   section now carries a "Noted" paragraph pointing at the fork
   `tissadelleshepherd/star-rangers` (single commit, 17 August 2026: an empty
-  `src/images/fan/Readme.md` plus an uncaptioned AI-generated image, Botify AI
-  watermark, evidently Tissadelle off duty), under the standing *referenced,
+  `src/images/fan/Readme.md` plus an uncaptioned AI-generated image, carrying a
+  generator watermark since cropped off, evidently Tissadelle off duty), under
+  the standing *referenced,
   not endorsed* formula (settled 2026-07-26; register word *Noted* per
   `CONTENT-LICENSE.md`). Dermot confirmed the Tissadelle reading in session
   and approved the reference with the reader-facing line naming her — the
