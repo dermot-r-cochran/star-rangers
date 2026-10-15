@@ -51,7 +51,7 @@ At L1, L2, and L3, a vessel must spend continuous station-keeping energy just to
 
 L4 and L5, by contrast, are stable. A vessel can hold position passively while the scaffold forms, and small disturbances damp rather than amplify. The geometry stays useful without constant correction.
 
-For natural fold routes—the sort found near Eden Space Habitat—the presence of Lagrange geometry is also one of the strongest indicators that a route may exist at all. In retrospect, the Eden Passage sits close enough to the Earth–Sun L2 region that the discovery should have triggered an immediate systematic survey of L4 and L5. That survey came late. The Survey Corps now treats it as standard procedure.
+For natural fold routes—the sort found near Eden Space Habitat—the presence of Lagrange geometry is also one of the strongest indicators that a route may exist at all. In retrospect, the Eden Passage sits close enough to the Earth–Sun L2 region that the discovery should have triggered an immediate systematic survey of L4 and L5. That survey came late. The Survey Corps now treats it as standard procedure, and runs its outer half, at Jupiter's L4 and L5, from [Callisto Station](/star-rangers/lore/callisto-station/).
 
 ## Operational Implications
 
