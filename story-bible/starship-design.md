@@ -306,7 +306,14 @@ it is here because step 1 below says to state new derived figures here first.
 Stillwater is a surface station on an ice shore, not a hull, and takes no
 sheet: principle 5 (dull, unmarked, lit almost nowhere) and the 11 October
 *well kept* rule reach it, and its page gives its construction (insulated,
-not pressurised; sealed modules; resealed and recorded).
+not pressurised; sealed modules; resealed and recorded). Callisto Station
+(`images.md` § 5i, written later the same day) takes none for the same
+reason: it is dug into the moon's ice, so what shows at the surface is
+shielding mounds, sealed hatches and a buoy cradle, and nothing on it spins
+or coasts. Its one derived figure, three flat radiator slabs on the ice for
+the fusion plant's heat (principle 8), is named in the prompt's entry as a
+guess and is his to strike; the buoy keeps the shape the Navigation Corps
+page already pictured, a small plain unmarked cylinder.
 
 - **Purpose** (canon, `src/lore/ligeia-habitat.md`): an Imperium
   administrative and patrol post set in high orbit around Titan after 2543

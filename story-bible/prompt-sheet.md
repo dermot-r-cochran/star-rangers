@@ -361,6 +361,22 @@ Saturn or sun in a Titan surface sky, nothing joining the ring to the moon,
 no helmet on anyone outside, and the sea without a ripple. Strike this when
 filed.
 
+### 2.11 `callisto-station.jpg` — the Callisto Station lore illustration (queued 15 October 2026)
+
+A fourth new Locations page with no image, written later the same day as the
+three above, and a place gets one. The prompt is of record in
+[`images.md`](images.md) § 5i and read by `image-prompts.js`; no sheet in
+[`starship-design.md`](starship-design.md), since a station dug into ice is
+not a hull (sheet H's note). Run on the desktop with
+`node scripts/image-prompts.js --generate --only callisto-station`
+(no reference is sent), file through `import-image.ps1 -MaxEdge 1600`, then
+give the page its `image:` and an `image_alt` written from the filed frame.
+Triage before the century: Jupiter present, gibbous, eight Moons wide and
+unringed, never on the horizon and never half the sky; a pure black sky with
+hard shadows and no haze; everyone outside in a deep olive pressure shell
+with a close helmet, no white suit, no bubble, no face; nothing military and
+no text. Strike this when filed.
+
 ### 2.8 The Told — theme (queued 30 September 2026)
 
 The children's second door has played Five-O's track since 7 September as a
