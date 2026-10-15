@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The homepage and the search description carry the pitch too** (`src/_data/site.js`, `src/index.md`, `lib/editions.js`, 2026-10-15). The site-wide meta description and the homepage's own now read the pitch's opening, its five layers and its closing line, in place of *a world that no one really understands*. The canonical edition's hero subtitle opens on the pitch's first two sentences and keeps the clock as the hook after them, the shape Dermot chose on 2026-10-09. Other editions' taglines are unchanged.
+
 - **README opens with Dermot's pitch for the work** (`README.md`, 2026-10-15). The opening paragraph under the motto is replaced by his three-paragraph description: hard science fiction with a hopeful heart, the one invented thing being the shape of reality above where people live, and officers who keep faith with the truth and with each other. One line after it keeps what the old paragraph said about the repository: the story and the Eleventy engine that publishes it. The Synopsis below is unchanged.
 
 - **The About page opens with the same pitch** (`src/about/index.md`, 2026-10-15). On every edition at the general tier and above, the three paragraphs replace the line *a world that no one really understands but everyone tries to explain in their own way*, ahead of the author's biography. The children's tier keeps its own plain-register About from `lib/editions.js`, unchanged.
