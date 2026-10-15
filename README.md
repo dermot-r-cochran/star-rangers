@@ -2,7 +2,13 @@
 
 The stars call us forward with hope: protect what is good, and learn what is true.
 
-*Fian Ilchruinne* is a world that no one really understands but everyone tries to explain in their own way: an Eleventy-powered multi-viewpoint hard-science-fiction novel with one licensed deviation. It begins with a station clock that has held a false reading for eleven years. From there, the project opens into a contested history of memory, duty, institutions, and the fragile civic lights that survive at the edge of the known world.
+*Fian Ilchruinne* is hard science fiction with a hopeful heart. Real physics holds where people live, and the one invented thing is the shape of reality above it: five layers, a multiverse of membranes, and boundary zones where instruments disagree lawfully. The Star Rangers work those edges, and they guard the public record as carefully as they guard people.
+
+It's a story where decency is real and costly. Its officers won't claim more than the evidence supports, won't sign a comforting lie, and won't accept a rescue that pretends a wound is healed. Evil exists, but it can't outlast the purpose it borrowed. Across many viewpoints and timelines, from a station clock that's been forty seconds wrong for years to a cat detective agency and a people who keep their history by speaking it, the series asks what it means to keep faith with the truth and with each other.
+
+Rigorous like hard SF, hopeful like the old epics.
+
+This repository is both the story and the Eleventy engine that publishes it as a multi-viewpoint site, where every chapter can be reread from another witness's point of view.
 
 ## Synopsis
 
