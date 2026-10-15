@@ -377,6 +377,27 @@ hard shadows and no haze; everyone outside in a deep olive pressure shell
 with a close helmet, no white suit, no bubble, no face; nothing military and
 no text. Strike this when filed.
 
+### 2.12 `stillwater-first-hall.jpg` — the First Hall, an inline interior for the Stillwater page (queued 15 October 2026)
+
+A second image for `src/lore/stillwater-station.md`, later the same day as
+its exterior in § 2.10: an inline illustration for the page body, under the
+first paragraph of *The First Hall*, on the Prismere and Tír na nÓg
+precedent; the page's `image:` stays the § 2.10 frame. The prompt is of
+record in [`images.md`](images.md) § 5j and read by `image-prompts.js`; no
+sheet in [`starship-design.md`](starship-design.md), as sheet H's note
+already says of Stillwater. Run on the desktop with
+`node scripts/image-prompts.js --generate --only stillwater-first-hall`
+(no reference is sent), file through `import-image.ps1 -MaxEdge 1600`, then
+add the inline line
+`![alt](/star-rangers/images/lore/stillwater-first-hall.jpg)` to the page
+under that paragraph with an alt written from the filed frame. Triage before
+the century: nothing that reads as a shrine (no candle, altar arrangement,
+shaft of light, glass case or framed anything); the archival case shut and
+nothing legible; one sealed gas-monitor housing with one indicator and
+studded, many-shaded seams as the hint, never a dial, a switch panel or a
+cable loom; the port black with nothing in it; the figure back to camera, no
+hood, no mask, no suit. Strike this when filed.
+
 ### 2.8 The Told — theme (queued 30 September 2026)
 
 The children's second door has played Five-O's track since 7 September as a
