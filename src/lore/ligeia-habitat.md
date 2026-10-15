@@ -24,7 +24,7 @@ The Authority has never changed its name. Its own register explains why in one l
 
 ## Built to Watch
 
-The ring itself is two centuries younger than the settlement. After the Tycho Accords of 2543 UCSD, [the Imperium](/star-rangers/lore/the-imperium/) rebuilt the outer station network as part of a settlement policy that was punitive for two generations and restrictive after that. The station it set in orbit around Titan was an administrative and patrol post, entered on Imperium registers as **Outer Administration Station Four**. It was built to full spin gravity because its crews rotated in from the inner system and the Imperium saw no reason to weaken them.
+The ring itself is two centuries younger than the settlement. After the Tycho Accords of 2543 UCSD, [the Imperium](/star-rangers/lore/the-imperium/) rebuilt the outer station network as part of a settlement policy that was punitive for two generations and restrictive after that. The station it set in orbit around Titan was an administrative and patrol post, entered on Imperium registers as **Outer Administration Station Four**; the first of the chain, Station One, is [Callisto Station](/star-rangers/lore/callisto-station/). It was built to full spin gravity because its crews rotated in from the inner system and the Imperium saw no reason to weaken them.
 
 When the Imperium gave way to the [Military Space Command](/star-rangers/lore/military-space-command/) in 2609 UCSD, the station's administration passed to Titan's civil government. The record of the negotiated restructuring lists it among the matters the outer-station representatives on the High Council raised, and does not say whether it was conceded or simply no longer wanted.
 
