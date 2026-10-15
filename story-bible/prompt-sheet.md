@@ -346,6 +346,21 @@ prompts are of record in [`images.md`](images.md) § 9 and read by
 file through `import-image.ps1 -MaxEdge 1200`, then add the two gallery items
 with their `season:` keys and captions as § 9 says. Strike this when filed.
 
+### 2.10 `planets/titan.jpg`, `ligeia-habitat.jpg`, `stillwater-station.jpg` — the three Titan lore illustrations (queued 15 October 2026)
+
+Three new Locations pages with no image, and a place gets one. The three
+prompts are of record in [`images.md`](images.md) § 5h and read by
+`image-prompts.js`; Ligeia's figures are on sheet H of
+[`starship-design.md`](starship-design.md). Run on the desktop with
+`node scripts/image-prompts.js --generate --only titan,ligeia-habitat,stillwater-station`
+(the Stillwater entry sends one of Dermot's own frames as a reference for the
+water, so the sibling checkout has to be beside this one), file through
+`import-image.ps1 -MaxEdge 1600`, then give each page its `image:` and an
+`image_alt` written from the filed frame. Triage before the century: no
+Saturn or sun in a Titan surface sky, nothing joining the ring to the moon,
+no helmet on anyone outside, and the sea without a ripple. Strike this when
+filed.
+
 ### 2.8 The Told — theme (queued 30 September 2026)
 
 The children's second door has played Five-O's track since 7 September as a
