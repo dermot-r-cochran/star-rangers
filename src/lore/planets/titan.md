@@ -30,7 +30,7 @@ Everything that makes Titan hard to live on comes down to cold and dark. Habitat
 
 What Titan gives back is everything else. Water ice is the ground, and splitting it yields oxygen and hydrogen. Methane and ethane are feedstock for every plastic and polymer a station uses. Nitrogen is the sky, and it is Titan's export: the Belt's rock and ice hold very little of it, and the air lost from any habitat over the years is mostly nitrogen that has to be replaced.
 
-The hazard the stations are built around runs the other way from most places. Outside there is fuel and no oxygen, so nothing burns. Inside there is oxygen, and the danger is methane seeping in from the ground. Station safety on Titan is chiefly a matter of seals and gas monitors, and children on Ligeia learn the sound of a methane alarm before they learn their way down.
+The hazard the stations are built around runs the other way from most places. Outside there is fuel and no oxygen, so nothing burns. Inside there is oxygen, and the danger is methane seeping in from the ground. The oldest of the stations, [Stillwater](/star-rangers/lore/stillwater-station/) on the shore of Ligeia Mare, has been worked this way since the 2130s CE. Station safety on Titan is chiefly a matter of seals and gas monitors, and children on Ligeia learn the sound of a methane alarm before they learn their way down.
 
 Getting to the surface and off it is easier than almost anywhere else that is settled. A landing craft loses most of its speed in the deep atmosphere before it needs its engines, and an [ascent javelin](/star-rangers/lore/ascent-javelins/) climbing out of a seventh of Earth's gravity has a short, cheap climb.
 
