@@ -60,6 +60,7 @@ If you keep this record and add to it (Path B), number your additions where the 
 
 - **Seasons 90–99 are reserved for forks.** This record will never use them. Put your first fan season at 90 (`src/seasons/s90/`, chapter ids `s90e01c01` and on) and register it in `lib/storyline-threads.js` under your own thread.
 - **Thread ids beginning `fan-` are reserved for forks.** This record will never coin one, so `fan-tales` or `fan-<your-name>` is safe.
+- **Inside an existing season, episodes 90–99 are reserved for forks, and inside an existing episode, chapters 90–99.** A fan episode beside Season 4 is `s04e90c01`; a fan chapter added to Season 4's second episode is `s04e02c90`. A season's index page lists its episodes from the chapters themselves, so nothing of this record's needs editing for yours to appear. Use this only for a side story that belongs beside a particular season: it sits on that season's page and under its thread, among this record's own episodes, and the season page cannot say it is unofficial, so **every fan chapter must say so itself**. A season of your own in 90–99 keeps your work visibly apart and is the better default.
 
 Season numbers here are assigned in order as the record grows, so the next free number today is someone else's tomorrow. Renumbering later is possible, since a chapter's `comment_id` is its permanent identity and moves with it, but starting in the reserved range avoids it. (Reserved 15 October 2026, after the first fan fork took the next free season number.)
 
