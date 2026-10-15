@@ -45,7 +45,7 @@ Topological distance compression via controlled higher-dimensional fold geometry
 - Fold is collapsed after transfer to prevent persistence drift.
 
 ### Range and Pace
-Long-range, and slow in the way an aeroplane journey is slow. A fold still folds distant regions into adjacency — the crossing is a genuine shortcut — but the drift through the fold is the least of it: staging at a low-gradient site, generating the scaffold, and certifying hull and route routinely take longer than the transit they enable. Folding reaches the farthest destinations in settled space, and it is chosen when the distance justifies the preparation, never when speed does.
+Long-range, and slow in the way an aeroplane journey is slow. A fold still folds distant regions into adjacency — the crossing is a genuine shortcut — but the drift through the fold is the least of it: staging at a low-gradient site, generating the scaffold, and certifying hull and route routinely take longer than the transit they enable. Folding reaches the farthest destinations in settled space, and it is chosen when the distance justifies the preparation, never when speed does. Those destinations are also few. A fold joins particular pairs of regions where an admissible connecting geometry exists, never any region to any other, and there are not enough such routes to build a network that would outrun the corridors; that is why no polity in the record governs at fold speed ([Natural Limits of Reach](/star-rangers/lore/civilisation-comparison/#natural-limits-of-reach)).
 
 ### Constraints
 - Fold duration and aperture are strictly bounded.
