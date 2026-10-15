@@ -2,7 +2,7 @@
 
 The stars call us forward with hope: protect what is good, and learn what is true.
 
-*Fian Ilchruinne* is hard science fiction with a noblebright heart. Real physics holds where people live, and the one invented thing is the shape of reality above it: five layers, a multiverse of membranes, and boundary zones where instruments disagree lawfully. The Star Rangers work those edges, and they guard the public record as carefully as they guard people.
+*Fian Ilchruinne* is hard science fiction with a hopeful heart. Real physics holds where people live, and the one invented thing is the shape of reality above it: five layers, a multiverse of membranes, and boundary zones where instruments disagree lawfully. The Star Rangers work those edges, and they guard the public record as carefully as they guard people.
 
 It's a story where decency is real and costly. Its officers won't claim more than the evidence supports, won't sign a comforting lie, and won't accept a rescue that pretends a wound is healed. Evil exists, but it can't outlast the purpose it borrowed. Across many viewpoints and timelines, from a station clock that's been forty seconds wrong for years to a cat detective agency and a people who keep their history by speaking it, the series asks what it means to keep faith with the truth and with each other.
 

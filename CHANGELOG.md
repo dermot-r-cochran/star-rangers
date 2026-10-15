@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **README opens with Dermot's pitch for the work** (`README.md`, 2026-10-15). The opening paragraph under the motto is replaced by his three-paragraph description: hard science fiction with a noblebright heart, the one invented thing being the shape of reality above where people live, and officers who keep faith with the truth and with each other. One line after it keeps what the old paragraph said about the repository: the story and the Eleventy engine that publishes it. The Synopsis below is unchanged.
+- **README opens with Dermot's pitch for the work** (`README.md`, 2026-10-15). The opening paragraph under the motto is replaced by his three-paragraph description: hard science fiction with a hopeful heart, the one invented thing being the shape of reality above where people live, and officers who keep faith with the truth and with each other. One line after it keeps what the old paragraph said about the repository: the story and the Eleventy engine that publishes it. The Synopsis below is unchanged.
 
 - **Image prompt for Stillwater's First Hall** (`story-bible/images.md` § 5j, `story-bible/image-prompts.md`, `story-bible/prompt-sheet.md` § 2.12, 2026-10-15). A second, inline illustration for the Stillwater page, written and queued but not generated: the station's first landed module from the 2130s CE, seen from its threshold. It is a small, plainly kept room with five centuries of renewed sealant on its seams, a closed archival case holding the charter, a gas monitor by the hatch and a black port, with one crew member in indoor work clothes seen from behind. The prompt refuses anything that would make it read as a shrine.
 
