@@ -443,7 +443,7 @@ portal; no vessel, person or text in frame. Strike this when filed.
 `marlow-calloway`, `perrin-ashgrove`, `vhen`, `ilvane`, `breanainn-o-se`,
 `aoibheann-ni-mheara`, `sile-ni-bhriain`, `mireille-achterberg`, in that
 order. Nothing to paste yet: the list, what each prompt stands on and the
-fourteen held back are in [`images.md`](images.md) § 17. Fable writes the
+fourteen kept bare (Option A, 16 October) are in [`images.md`](images.md) § 17. Fable writes the
 prompts there; once they are of record, run on the desktop with
 `node scripts/image-prompts.js --generate --only <name>` and file through
 `import-image.ps1 -MaxEdge 1200`. Strike each when filed.

@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **The 1.42.0 character-map gaps, worked through** (`scripts/extract-characters.js`, `src/characters/` ×9, `story-bible/images.md` § 17, `story-bible/prompt-sheet.md` § 2.15, `story-bible/open-questions.md`, `TECHNICAL-README.md`, 2026-10-16). The extractor reports the three viewpoint ids left pageless by the 9 October ruling (`hive-bee`, `orlagh-dunne`, `ferdia`) apart from real gaps. Nine pages the chapters place in a thread's season gain a `season-N` tag: Muffin, Zhulik, Bumble, Imogen Petrakis and the Eden Warden (2), Lumbarian, Xenon and Lucene-9000 (1), Galen Kane (5); no edition filters on these tags. The 25 portraitless pages are listed: eight queued for Fable's prompts, fourteen held on an open species question. The release steps name `character-thumbs.py`.
+- **The 1.42.0 character-map gaps, worked through** (`scripts/extract-characters.js`, `src/characters/` ×9, `story-bible/images.md` § 17, `story-bible/prompt-sheet.md` § 2.15, `story-bible/open-questions.md`, `TECHNICAL-README.md`, 2026-10-16). The extractor reports the three viewpoint ids left pageless by the 9 October ruling (`hive-bee`, `orlagh-dunne`, `ferdia`) apart from real gaps. Nine pages the chapters place in a thread's season gain a `season-N` tag: Muffin, Zhulik, Bumble, Imogen Petrakis and the Eden Warden (2), Lumbarian, Xenon and Lucene-9000 (1), Galen Kane (5); no edition filters on these tags. The 25 portraitless pages are listed: eight queued for Fable's prompts, fourteen bare until their pages state a species (Dermot's Option A). The release steps name `character-thumbs.py`.
 
 ## [1.42.0] — 2026-10-16
 

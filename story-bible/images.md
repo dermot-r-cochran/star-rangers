@@ -5293,7 +5293,7 @@ blockquote; heritage left out where the record leaves it out.
 8. **`mireille-achterberg.jpg`** — human, comparative gerontologist; her paper
    is undated, so the frame carries no period beyond the present default.
 
-**Held: the page states no species (14).** Ausma Reihl, Emrys Kade, Ione
+**Bare until a page states a species (14) — ruled 16 October 2026, Option A.** Ausma Reihl, Emrys Kade, Ione
 Marrec, Kwame Reyes-Osei, Maren Halloran, Maren Ilves, Mera Soln, Meret
 Kolhaas, Odal Ferren, Ottoline Farr, Pren Halvard, Senna Okoye, Toma Egede,
 Wren Ansell. Each is a person and so owed a portrait under the 7 October rule,
@@ -5301,16 +5301,18 @@ but each page marks species as absent (Senna Okoye's says so in as many words),
 and the 10 October intake reads that as the record marking an absence. A
 picture cannot leave a body's kind unstated, and a prompt that says only *a
 person* gets a human by default, which would assert what the pages decline to.
-Two standing rules meet here, so it is put as a choice rather than settled
-(*open*, below), and nothing in this group is prompted until it is ruled.
+Two standing rules met here, so it was put as a choice (below) and ruled the
+same day: none in this group is prompted, and a page that later states a
+species moves its author into the ready list above.
 
 **Bare by an earlier ruling (3).** Ariel Pinya: her page says the record holds
 no portrait of her (§ 8, 7 October). The Kept Line: known only from instrument
 logs (§ 8). Halle Ostrander: species not stated by Dermot's choice of 12 October
 (the Prismeri section of § 5a), and her plates stand on the Prismeri page in
-her place; she joins the held group if the choice below goes to a portrait.
+her place; the ruling below keeps her bare on the same ground as the fourteen.
 
-**Open — the species-absent fourteen (and Halle Ostrander).** A. Keep them bare
+**Ruled 16 October 2026 — the species-absent fourteen (and Halle Ostrander).**
+Dermot, verbatim: *"Option A accepted"*. The choices as put: A. Keep them bare
 until a page states a species, the absence marked as the record marks it
 (recommended: it changes no page and follows the Halle Ostrander precedent).
 B. State a species on each page first, one canon line per author, then prompt
