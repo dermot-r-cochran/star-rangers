@@ -438,7 +438,7 @@ dense sharp star field behind it, no nebula colour; the dock a lit recess cut
 into the metal and nothing standing up from the surface; no visible tunnel or
 portal; no vessel, person or text in frame. Strike this when filed.
 
-### 2.15 Thirteen Codex-author portraits — prompts written (Fable, 16 October 2026); **run 16 October 2026**, twelve filed; Vhen still open after three rounds
+### 2.15 Thirteen Codex-author portraits — prompts written (Fable, 16 October 2026); **run 16 October 2026**, all thirteen filed (Vhen in round 4)
 
 `marlow-calloway`, `perrin-ashgrove`, `vhen`, `ilvane`, `breanainn-o-se`,
 `aoibheann-ni-mheara`, `sile-ni-bhriain`, `mireille-achterberg`, `senna-okoye`,

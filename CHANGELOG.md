@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Vhen's portrait filed** (`src/characters/vhen.md`, `story-bible/images.md` § 17, 2026-10-16). Three whole-body rounds drew an elephant, so round 4 shows only part of the Ovruhn body: the flank as a wall of hide, and the handling tendrils resting on a stone kerb in Thavren's haze. The prompt changed how much of the body is shown, not its facts.
+
 - **Twelve Codex-author portraits filed** (`src/characters/`, `story-bible/images.md` § 17, 2026-10-16). Marlow Calloway, Perrin Ashgrove, Ilvane, Bréanainn Ó Sé, Aoibheann Ní Mheara, Síle Ní Bhriain, Mireille Achterberg, Senna Okoye, Kwame Reyes-Osei, Ione Marrec, Meret Kolhaas and Ottoline Farr now have portraits, generated from the 16 October prompts. Each alt is written from the filed frame. Ní Mheara's drone took three rounds before it read as the 29th century. Vhen is not filed: three rounds each drew an elephant.
 
 - **Thirteen Codex-author portrait prompts** (`story-bible/images.md` § 17, `story-bible/image-prompts.md`, `story-bible/prompt-sheet.md` § 2.15, 2026-10-16). Fable wrote one prompt for each entry of § 17's ready list: Marlow Calloway and Perrin Ashgrove as one band, Vhen from the Ovruhn page, Ilvane on Syra's filed portrait as the kind's reference, the three Celtic Union authors, Achterberg, the two Commission drafters as companion History frames, Sister Ione, Kolhaas and Farr. Each is a documentary photograph in 16:9 under the standing rules, with triage order, a proposed alt and its desktop step; the readings each frame takes are recorded for Dermot to overrule. Nothing is generated.

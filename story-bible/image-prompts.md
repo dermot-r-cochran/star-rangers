@@ -1633,7 +1633,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. The Rangers' shell in a dark muted plum-grey with the tab read as a mark and not a count, the instruments given by shape (a shallow-bodied fretted stringed instrument; hand drums as skins over rims) with the stage furniture of our century negated by name, the deck curving up as the hint.
 - **Notes:** triage the stage first (amplifier, microphone, cable, drum kit), then the second face, then the uniform, then the pair against each other. Readings: the date 2826 as the ready list gives it with the frame wide enough that the Officer's tab count cannot be read, so the picture asserts neither rank in that year nor a later one; the shell colour; the faces (Marlow tall and lean, dark brown skin, close-cropped black hair; Perrin broad, light olive skin, dark curly hair tied back, a short beard).
 
-### vhen.jpg — prompt written 16 October 2026, three rounds generated 16 October 2026, NOT FILED (each drew an elephant)
+### vhen.jpg — prompt written 16 October 2026; three whole-body rounds drew an elephant; round 4, a close frame, GENERATED AND FILED 16 October 2026 (variation 2)
 - **Type:** generation, a new portrait of the record's only named Ovruhn, a non-human body from `src/lore/ovruhn.md`
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only vhen`
 - **Date:** prompt 2026-10-16; generation pending
