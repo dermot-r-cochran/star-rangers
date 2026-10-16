@@ -398,6 +398,31 @@ studded, many-shaded seams as the hint, never a dial, a switch panel or a
 cable loom; the port black with nothing in it; the figure back to camera, no
 hood, no mask, no suit. Strike this when filed.
 
+### 2.13 `titan-from-orbit.jpg` — Titan's surface from orbit, an inline near-infrared frame for the planet page (queued 15 October 2026)
+
+A second image for `src/lore/planets/titan.md`, later the same day as its
+surface frame in § 2.10: an inline illustration for the page body, under the
+haze paragraph of *The World*, on the § 2.12 and Prismere precedent; the
+page's `image:` stays the § 2.10 frame. It is a **monochrome near-infrared
+window frame**, because in visible light Titan's surface cannot be seen from
+orbit at all (the § 2.10 Ligeia frame shows the orange ball that is); the
+prompt and the reasoning are of record in [`images.md`](images.md) § 5k and
+read by `image-prompts.js`; no sheet in
+[`starship-design.md`](starship-design.md), since the craft the camera rides
+is not in frame. Run on the desktop with
+`node scripts/image-prompts.js --generate --only titan-from-orbit`
+(no reference is sent), file through `import-image.ps1 -MaxEdge 1600`, then
+add the inline line
+`![alt](/star-rangers/images/lore/titan-from-orbit.jpg)` to the page under
+that paragraph with an alt written from the filed frame. Triage before the
+century: grey throughout, no orange, no tan, no false colour; soft, not
+sharp, a soft pale rim at the limb and no craters; dark belts round the
+equator with one bright region against them, no blue oceans, no Earth
+clouds, no coastlines; one dark sea just inside the terminator and black beyond, no glint,
+since 2826 UCSD (2626 CE) is late in Titan's northern winter; nothing made in frame, no Saturn, no
+habitat, no craft, no tether, no port edge, and no grid, bar, reticle,
+stamp or text. Strike this when filed.
+
 ### 2.8 The Told — theme (queued 30 September 2026)
 
 The children's second door has played Five-O's track since 7 September as a
