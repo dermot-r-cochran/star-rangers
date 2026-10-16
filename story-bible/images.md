@@ -197,6 +197,20 @@ when it is an abstract concept, a doctrine or a piece of law (a technical page
 may still carry an inline diagram by the rule below). A page without an image
 is complete, not pending.
 
+**When the body is not relevant** (Dermot, 16 October 2026, verbatim: *"There
+may be situations where the physical body of a character is not relevant?"*,
+then *"Yes, record the body-not-relevant clarification of the 7 October
+portrait rule"*). A clarification of the rule above, not a change to it: a
+character's body is relevant to a portrait when the record states something
+about it (a species, a people, a described form) or when the page's events
+turn on it. Where the record states nothing of the body and the character
+reaches the reader only through what they wrote, said or left on an
+instrument, the body is not relevant, and the page is complete without a
+portrait, not pending. It gains one only when a page states the body. The
+worked case is the fourteen Codex authors whose pages state no species (§ 17,
+Option A, the same day); Halle Ostrander, Ariel Pinya and The Kept Line already
+stood on the same ground.
+
 **Diagrams on technical lore pages** (Dermot, 29 September 2026, verbatim:
 *"Technical lore pages may have technical or scientific diagrams similar to
 the style of the Applied Stats tutorial"* — `intake-2026-09-29.md`). A
