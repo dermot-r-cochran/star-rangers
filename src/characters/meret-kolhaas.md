@@ -10,6 +10,8 @@ aliases:
 tags: [farline, dock-seven, threshold-station, commercial, official-documents, loss-adjustment, author, human]
 description: "The Farline Courier Guild's loss adjuster on the Threshold circuit, thirty-one years in the work by 2831 UCSD, who settled the bill for three hulls chartered off Dock Seven and wrote the word the pilots would not sign anything else for in the box marked Proximate Cause."
 known_codex: [dock-seven-loss-adjustment]
+image: "meret-kolhaas.jpg"
+image_alt: "Meret Kolhaas, a grey-haired woman in a brown jacket, seated at a plain desk filling in a printed form by hand beside a small cream-coloured device; rain streaks the window behind her, which looks onto a grey harbour."
 ---
 
 Meret Kolhaas settles bills. She is a claims officer of the Farline Courier Guild's claims and indemnity office, on the Threshold circuit, and she says in her own document that she has no standing to say anything about the Cosmic Cascade and no interest in acquiring any. By 2831 UCSD she had adjusted claims for thirty-one years.

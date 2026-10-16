@@ -10,6 +10,8 @@ aliases:
 tags: [ai-governance-commission, contingency-division, redline-protocol, exploration-budget, governance, risk, kernel-accords, earth, author, human]
 description: "The Contingency Division drafting officer who wrote the Redline Protocol of 2704 UCSD, the operating rule for when a generative system's contingent harm outruns its verified gain and command shifts from acceleration to containment."
 known_codex: [redline-protocol]
+image: "kwame-reyes-osei.jpg"
+image_alt: "Kwame Reyes-Osei, a grey-haired man with brown skin and a grey moustache, in a blue-grey high-collared jacket, standing and leaning with both hands on a broad wooden table over a single sheet in a pale stone room, a tall window beside him showing winter trees."
 ---
 
 Kwame Reyes-Osei drafted the Redline Protocol for the Contingency Division of the AI Governance Commission, issued in 2704 UCSD under the [Exploration Budget doctrine](/star-rangers/codex/exploration-budget-doctrine/) that [Senna Okoye](/star-rangers/characters/senna-okoye/) had written three years before, and under the Doctrine Office's authority as exercised within the [Kernel Accords](/star-rangers/lore/ai-safety-kernel/) invariant hierarchy.

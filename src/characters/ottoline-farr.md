@@ -9,6 +9,8 @@ aliases: []
 tags: [author, childrens-literature, smart-pet, bramble, little-orbit-press, culture, cultural-record, undercover-pets.com, human]
 description: "The author of the Bramble Storybooks, the most reprinted Smart Pet children's series in the Concord, who checks every book against welfare specialists so that a ferret's cleverness reads as a real trait and not a cartoon of one."
 known_codex: [bramble-and-the-backwards-key]
+image: "ottoline-farr.jpg"
+image_alt: "Ottoline Farr, a woman with black hair in a loose knot and a beige jumper, seated at a table in a small windowless wood-lined room, smiling as she writes by hand, one hand resting on a stack of thin coloured books."
 ---
 
 Ottoline Farr writes the Bramble Storybooks, published by Little Orbit Press. Bramble is a ferret and a [Smart Pet](/star-rangers/glossary/smart-pet/), and the series is, by circulation figures the Survey Archive's culture desk has stopped double-checking, the most reprinted Smart Pet children's series in the Concord: eleven books and two stage adaptations. The Archive's own Smart Pet entry credits the storybooks with doing more than any regulation to fix the public idea of what a Smart Pet is, and notes that the idea is accurate, if incomplete.

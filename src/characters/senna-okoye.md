@@ -10,6 +10,8 @@ aliases:
 tags: [ai-governance-commission, doctrine-office, exploration-budget, entropy, governance, kernel-accords, earth, author, human]
 description: "The AI Governance Commission drafting officer who wrote the Exploration Budget doctrine of 2701 UCSD, reframing the old cognition ledger as an accounted trade between entropy, variability and risk."
 known_codex: [exploration-budget-doctrine]
+image: "senna-okoye.jpg"
+image_alt: "Senna Okoye, a slight woman with dark brown skin and short black twists, in a rust-red high-collared tunic, seated at a broad wooden table in a plain stone room writing by hand on a single sheet; an open window beside her looks over green country and a river."
 ---
 
 Senna Okoye drafted the Exploration Budget doctrine for the Doctrine Office of the AI Governance Commission, the Concord body that holds the commissioning gate under the [Kernel Accords](/star-rangers/lore/ai-safety-kernel/). The doctrine was issued in 2701 UCSD, seven years after the Accords were ratified, and it superseded the narrow-scope [Allocation Units of Cognition](/star-rangers/glossary/ai-usage-credits-auc/) ledger, which had counted machine-assisted thought as if thought were fuel.

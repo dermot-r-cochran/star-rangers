@@ -1625,7 +1625,7 @@ entry; one face per character, the page's second person out of frame where a
 scene has one. Readings taken for each frame are Fable's under *Who approves
 whom*, Dermot's to overrule, and none is written to a page.
 
-### marlow-calloway.jpg and perrin-ashgrove.jpg — prompts written 16 October 2026, NOT YET GENERATED
+### marlow-calloway.jpg and perrin-ashgrove.jpg — prompts written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a pair of new portraits written in one pass so the two read as one band: the same dock-adjacent common room, evening and light, each frame holding the other's instrument at its edge and never the other's face
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations each, planned; the desktop step is `node scripts/image-prompts.js --generate --only marlow-calloway,perrin-ashgrove`
 - **Date:** prompts 2026-10-16; generation pending
@@ -1633,7 +1633,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. The Rangers' shell in a dark muted plum-grey with the tab read as a mark and not a count, the instruments given by shape (a shallow-bodied fretted stringed instrument; hand drums as skins over rims) with the stage furniture of our century negated by name, the deck curving up as the hint.
 - **Notes:** triage the stage first (amplifier, microphone, cable, drum kit), then the second face, then the uniform, then the pair against each other. Readings: the date 2826 as the ready list gives it with the frame wide enough that the Officer's tab count cannot be read, so the picture asserts neither rank in that year nor a later one; the shell colour; the faces (Marlow tall and lean, dark brown skin, close-cropped black hair; Perrin broad, light olive skin, dark curly hair tied back, a short beard).
 
-### vhen.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### vhen.jpg — prompt written 16 October 2026, three rounds generated 16 October 2026, NOT FILED (each drew an elephant)
 - **Type:** generation, a new portrait of the record's only named Ovruhn, a non-human body from `src/lore/ovruhn.md`
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only vhen`
 - **Date:** prompt 2026-10-16; generation pending
@@ -1641,7 +1641,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. The body from its page, nothing worn, on a ground of worked bedrock under the haze, the rest of the chorus as unresolved masses beyond focus; the elephant, rhinoceros, hippopotamus, bull, bear, octopus and hybrid refused by name under the 12 October likeness rule.
 - **Notes:** triage the Earth animal first (trunk, tusks, horns, a face, a neck, suckers, a stitched hybrid), then the light (any shadow, sun or blue sky fails the page), then a second body in focus, then tone. Readings: a warm grey-brown matte hide; a dozen or so tendrils in two ranks; a low stone kerb for scale; undated, the record's present.
 
-### ilvane.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### ilvane.jpg — prompt written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a new portrait of the record's third Krenyi, the kind carried by Syra's filed portrait
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only ilvane`
 - **Date:** prompt 2026-10-16; generation pending
@@ -1650,7 +1650,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. A dim instrument gallery of an unnamed boundary post, one viewport onto darkness, a certification sheet in both hands, eyes lifted to the glass so both show the carriers; the grey alien, the elf and the gynoid refused by name.
 - **Notes:** triage the kind first (an ordinary human woman, or a grey alien, fails), then identity against Syra's and Toval's filed frames, then the room (screens, dials, cables, stars in the window), then the uniform. Readings: medium-brown skin, black hair cropped very short, an oval face with a long jaw, slight build; the tab's count not given, since her page gives no rank.
 
-### breanainn-o-se.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### breanainn-o-se.jpg — prompt written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a new portrait
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only breanainn-o-se`
 - **Date:** prompt 2026-10-16; generation pending
@@ -1658,7 +1658,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. The sea wall at dusk, hands in pockets, looking out over the thin water off Dock Seven with nothing shown in it; clerical dress, the cross and the harbour's present-day furniture refused by name.
 - **Notes:** triage the clerical collar and cross first, then the harbour (crane, container, boat, car, lamp post), then anything shown in the water, then the face against Fintan's and Daire's. Readings: late fifties; pale weathered skin, a short grey beard from a dark red, heavy brows; his heritage read as the Union's Irish-descended founders', which the record does not state.
 
-### aoibheann-ni-mheara.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### aoibheann-ni-mheara.jpg — prompt written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a new portrait
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only aoibheann-ni-mheara`
 - **Date:** prompt 2026-10-16; generation pending
@@ -1666,7 +1666,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. A deep window of a plain limewashed registry room, a closed dark-bound volume under her arm, looking out at a dry-stone field boundary and a cut field, one plain grey drone high and still over the land as the hint; the Victorian clerk's furniture refused by name.
 - **Notes:** triage the registry first (gilt ledgers, quill, wax seal, spectacles), then the hint (a frame without the drone, or with a lit quadcopter or a helicopter, is not filed), then the view (tractor, wire fence, road, power line), then the face. Readings: 2826 as the ready list gives it, her tenure being undated; sixties; pale skin, white hair pinned low, a long narrow face, grey eyes; heritage as Ó Sé's, with the same caveat; a deep green wool dress and grey wrap.
 
-### sile-ni-bhriain.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### sile-ni-bhriain.jpg — prompt written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a new portrait
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only sile-ni-bhriain`
 - **Date:** prompt 2026-10-16; generation pending
@@ -1674,7 +1674,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. A granite schoolroom, the teller on a low bench with a closed book on the knee and one hand lifted mid-telling to children out of frame, a sealed heating conduit along the wall and a glass growing house under a bare ridge through the window; the Victorian schoolroom and the bardic costume refused by name.
 - **Notes:** triage the schoolroom first (blackboard, slates, desks in rows, a stove, a candle), then the sett and the costume, then a child's face, then the conduit (a radiator or flanged pipe, or none, is no hint), then the face. Readings: fifties; stocky, a weathered square face, cropped grey-streaked brown hair; **written without a pronoun**, since the page gives none, the generator left the choice and the alt to follow the filed frame; heritage as the other Union entries', with the same caveat.
 
-### mireille-achterberg.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### mireille-achterberg.jpg — prompt written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a new portrait
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only mireille-achterberg`
 - **Date:** prompt 2026-10-16; generation pending
@@ -1682,7 +1682,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. A plain windowless working room, a single sealed sample housing closed on a bare table, her hands still and her gaze down and aside, the moment after the result; the laboratory of our century refused by name.
 - **Notes:** triage the laboratory first (glassware, a white coat, a microscope, racks), then the housing (a hard case or a tablet is no hint), then any window (a view asserts a place the record does not hold), then the face. Readings: the record's present with no year named; late fifties; South Asian heritage, deep brown skin, grey-streaked black hair cut short, chosen against the filed cast since the page states none; charcoal band-collared jacket.
 
-### senna-okoye.jpg and kwame-reyes-osei.jpg — prompts written 16 October 2026, NOT YET GENERATED
+### senna-okoye.jpg and kwame-reyes-osei.jpg — prompts written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a pair of new portraits written in one pass as companion frames: the same Commission on Earth, the same plain high stone room and tall window, 2701 and 2704 UCSD, late summer and winter, seated and standing, so they read as companions without asserting that the two met (the record does not say)
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations each, planned; the desktop step is `node scripts/image-prompts.js --generate --only senna-okoye,kwame-reyes-osei`
 - **Date:** prompts 2026-10-16; generation pending
@@ -1690,7 +1690,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. Each opens as a documentary photograph and *a reconstruction of a scene from the past* under the 11 October restatement; a single sheet and a pen; the window onto temperate green country and a river with no landmark, since the Commission's seat is not on record; both our century's office and the record's present furniture refused by name, and for Reyes-Osei the military look that *containment* draws.
 - **Notes:** History, so exempt from the hint-of-the-century rule, and each entry says so; the period-tech negatives are for a 28th-century Earth that must read as neither ours nor the 29th century's. Triage the office first, then the window, then the dress (and for Reyes-Osei any epaulette or military cut), then the two faces against each other. Readings: Okoye forties, West African heritage, dark brown skin, short natural twists, a rust-red tunic; Reyes-Osei fifties, mixed West African and Latin American heritage, medium-brown skin, close-cropped grey hair and moustache, a slate-blue jacket; both heritages chosen against the filed cast since the pages state only *Earth*.
 
-### ione-marrec.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### ione-marrec.jpg — prompt written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a new portrait
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only ione-marrec`
 - **Date:** prompt 2026-10-16; generation pending
@@ -1698,7 +1698,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. The hall half-emptied after the commissioning, the Sister alone at the back in a plain long grey-blue robe with the hood down, looking down and aside to where the cadet stood, Eden's terraces curving up through the far window as the hint; the nun's habit, the cross and the hall's stage furniture refused by name.
 - **Notes:** triage the habit first (wimple, veil, cross, cowl up), then the hall (pews, altar, candles, podium, folding chairs), then any other face in frame (the cadet and the cohort are out of it), then the window (no terraces, or stars, is no hint), then the face. Readings: fifties; Mediterranean heritage, olive-brown skin, a long face with a high-bridged nose, grey-streaked dark hair cropped close, chosen against the filed cast since the page states none; the robe's colour and cut, since no page dresses a Sister.
 
-### meret-kolhaas.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### meret-kolhaas.jpg — prompt written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a new portrait
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only meret-kolhaas`
 - **Date:** prompt 2026-10-16; generation pending
@@ -1706,7 +1706,7 @@ whom*, Dermot's to overrule, and none is written to a page.
 - **Prompt / recipe:** of record in `images.md` § 17; not duplicated here. A small kept claims office, not a dock, since she was not there; a single ruled form, the pen just lifted from the box near its foot, the word beyond focus; rain on the window and two moored hulls dim on grey water; the insurance office of our century refused by name.
 - **Notes:** triage the office first (computer, binders, stamp, calculator, mug), then the box (a readable word asserts the form's wording and fails), then the window (container, crane, van, a glow on the water), then the face against Tare's and the filed Threshold portraits. Readings: late fifties; Northern European heritage, fair ruddy skin, a square face, pale blue eyes, iron-grey hair cropped short, chosen against the filed cast since the page states none; a dark brown band-collared jacket.
 
-### ottoline-farr.jpg — prompt written 16 October 2026, NOT YET GENERATED
+### ottoline-farr.jpg — prompt written 16 October 2026, GENERATED AND FILED 16 October 2026
 - **Type:** generation, a new portrait
 - **Tool:** Gemini `gemini-3.1-flash-image`, 2K, two variations, planned; the desktop step is `node scripts/image-prompts.js --generate --only ottoline-farr`
 - **Date:** prompt 2026-10-16; generation pending
