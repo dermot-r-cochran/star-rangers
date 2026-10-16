@@ -438,6 +438,16 @@ dense sharp star field behind it, no nebula colour; the dock a lit recess cut
 into the metal and nothing standing up from the surface; no visible tunnel or
 portal; no vessel, person or text in frame. Strike this when filed.
 
+### 2.15 Eight Codex-author portraits — waiting on Fable's prompts (queued 16 October 2026)
+
+`marlow-calloway`, `perrin-ashgrove`, `vhen`, `ilvane`, `breanainn-o-se`,
+`aoibheann-ni-mheara`, `sile-ni-bhriain`, `mireille-achterberg`, in that
+order. Nothing to paste yet: the list, what each prompt stands on and the
+fourteen kept bare (Option A, 16 October) are in [`images.md`](images.md) § 17. Fable writes the
+prompts there; once they are of record, run on the desktop with
+`node scripts/image-prompts.js --generate --only <name>` and file through
+`import-image.ps1 -MaxEdge 1200`. Strike each when filed.
+
 ### 2.8 The Told — theme (queued 30 September 2026)
 
 The children's second door has played Five-O's track since 7 September as a

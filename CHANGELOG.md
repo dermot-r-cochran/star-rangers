@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The 1.42.0 character-map gaps, worked through** (`scripts/extract-characters.js`, `src/characters/` ×9, `story-bible/images.md` § 17, `story-bible/prompt-sheet.md` § 2.15, `story-bible/open-questions.md`, `TECHNICAL-README.md`, 2026-10-16). The extractor reports the three viewpoint ids left pageless by the 9 October ruling (`hive-bee`, `orlagh-dunne`, `ferdia`) apart from real gaps. Nine pages the chapters place in a thread's season gain a `season-N` tag: Muffin, Zhulik, Bumble, Imogen Petrakis and the Eden Warden (2), Lumbarian, Xenon and Lucene-9000 (1), Galen Kane (5); no edition filters on these tags. The 25 portraitless pages are listed: eight queued for Fable's prompts, fourteen bare until their pages state a species (Dermot's Option A). The release steps name `character-thumbs.py`.
+
 ## [1.42.0] — 2026-10-16
 
 Titan becomes a place, and the Concord's reach gets its limits. Titan, the Ligeia Habitat, Stillwater Station and Callisto Station get lore pages, and all of them now carry pictures. Eden's location is stated as the Earth–Sun L2 region. Tsittak, a Chthonari town cut into a lone rock beside a fold, shows that other peoples keep settlements at fold routes too. Civilisation Comparison gains *Natural Limits of Reach*: folds are too few to outrun the corridors, a light-year a day is close to a ceiling, and many folds are intergalactic. The Journal adds *The Cable Never Comes*. The README, About page and homepage open with Dermot's pitch, and CLAUDE.md settles which model writes which image prompts and that Fable is optional in a fork.

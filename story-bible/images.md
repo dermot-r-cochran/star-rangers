@@ -5251,6 +5251,75 @@ written to the page:
   - **Desktop step:** `node scripts/image-prompts.js --generate --only tobble`, two variations, two rounds at most. Triage each variation first for the trope (any garment, collar, upright stance or cartoon fails), then for the bearing (he must read as a person who is a cat, not a pet: the gaze level and past the viewer, the body composed), then for the surface (visible brushwork, the edges dissolving, no readable mark); file through `import-image.ps1 -MaxEdge 1200 -Finish 0`, add `image:`, `image_alt` from the filed frame and an `image_caption` naming it an impression.
   - **Approved 14 October 2026** (Dermot, verbatim: *"Tobble looks great"*, on the filed frame with the mantle). Reviewed, approved and linked from his page, so it is locked: a later change supersedes it as a new file and does not overwrite it.
 
+### 17. Missing portraits — the Codex authors and the rest of the 1.42.0 count (audited 16 October 2026; list only, prompts for Fable)
+
+The 1.42.0 run of `scripts/extract-characters.js` counted **25 character pages
+with no `image:`**. Twenty-two are the Codex authors whose pages landed on
+10 October (`intake-2026-10-10.md`: *"No portraits yet: queued for a later run,
+in batches, as the seven were"*); the other three are Ariel Pinya, Halle
+Ostrander and The Kept Line. This is a **list, not a prompt set**, as the
+19 August audit was: a prompt where a person's presence carries the frame is
+Fable's in this repository (`CLAUDE.md`, *Which model does which work*), so
+the entries below say what the record gives each prompt to stand on and
+nothing more. None is written; none is generated. Re-derive the count with the
+command under *Outstanding portraits* in § 1 before trusting it.
+
+**Ready for a prompt, strongest first** (a body the record states, a setting
+and a date to dress it by). All **16:9 landscape**, filed through
+`import-image.ps1 -MaxEdge 1200` at finish strength 1, under the 28 July
+guardrails, the modesty bar and the standing negative inside every
+blockquote; heritage left out where the record leaves it out.
+
+1. **`marlow-calloway.jpg`** and 2. **`perrin-ashgrove.jpg`** — a pair, written
+   in one pass so they read as one band: Slipwave's strings and percussion,
+   Officers with the musician specialization, Star Rangers, 2826 UCSD; the
+   Ranger block. Named from `lore/star-rangers-music-corps.md`,
+   `glossary/slipwave.md` and the codex *Protectors of the Fold*, the most-read
+   pages of the 25.
+3. **`vhen.jpg`** — Ovruhn, keeper of the meeting-chorus of Thavren. The body
+   is the lore page's (`lore/ovruhn.md`: a broad, deep-chested quadruped mass,
+   among the largest bodies in Corps service, grasping tendrils for hands,
+   never mistakable for a person), so it is exactly what a generator is for
+   and needs no new canon. Thavren's haze, not a sky.
+4. **`ilvane.jpg`** — Krenyi (Quiet-Built), Boundary Analyst, Survey Corps,
+   2825 UCSD; Syra's filed portrait as the kind's reference, as Toval's was.
+5. **`breanainn-o-se.jpg`** — human, Ridgemoot chaplain of the Celtic Union's
+   devotional chaplaincy (Saint Aoife's devotion), serving Threshold Station,
+   2831 UCSD.
+6. **`aoibheann-ni-mheara.jpg`** — human, Keeper of the Rolls, Registry of
+   Rolls and Holdings, Tír na nÓg, 2826 UCSD.
+7. **`sile-ni-bhriain.jpg`** — human, teller for the reader-schools of the
+   Aethelrock valleys, 2823 UCSD.
+8. **`mireille-achterberg.jpg`** — human, comparative gerontologist; her paper
+   is undated, so the frame carries no period beyond the present default.
+
+**Bare until a page states a species (14) — ruled 16 October 2026, Option A.** Ausma Reihl, Emrys Kade, Ione
+Marrec, Kwame Reyes-Osei, Maren Halloran, Maren Ilves, Mera Soln, Meret
+Kolhaas, Odal Ferren, Ottoline Farr, Pren Halvard, Senna Okoye, Toma Egede,
+Wren Ansell. Each is a person and so owed a portrait under the 7 October rule,
+but each page marks species as absent (Senna Okoye's says so in as many words),
+and the 10 October intake reads that as the record marking an absence. A
+picture cannot leave a body's kind unstated, and a prompt that says only *a
+person* gets a human by default, which would assert what the pages decline to.
+Two standing rules met here, so it was put as a choice (below) and ruled the
+same day: none in this group is prompted, and a page that later states a
+species moves its author into the ready list above.
+
+**Bare by an earlier ruling (3).** Ariel Pinya: her page says the record holds
+no portrait of her (§ 8, 7 October). The Kept Line: known only from instrument
+logs (§ 8). Halle Ostrander: species not stated by Dermot's choice of 12 October
+(the Prismeri section of § 5a), and her plates stand on the Prismeri page in
+her place; the ruling below keeps her bare on the same ground as the fourteen.
+
+**Ruled 16 October 2026 — the species-absent fourteen (and Halle Ostrander).**
+Dermot, verbatim: *"Option A accepted"*. The choices as put: A. Keep them bare
+until a page states a species, the absence marked as the record marks it
+(recommended: it changes no page and follows the Halle Ostrander precedent).
+B. State a species on each page first, one canon line per author, then prompt
+them in batches. C. Frame each so the body's kind cannot be read: the author's
+document, desk or workplace with a figure seen from behind or out of focus,
+which is a portrait in name only.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
