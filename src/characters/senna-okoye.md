@@ -2,11 +2,12 @@
 layout: character.njk
 title: "Senna Okoye"
 id: senna-okoye
+species: Human
 role: "Drafting Officer, Doctrine Office, AI Governance Commission"
 status: Historical
 aliases:
   - "Dr. Senna Okoye"
-tags: [ai-governance-commission, doctrine-office, exploration-budget, entropy, governance, kernel-accords, earth, author]
+tags: [ai-governance-commission, doctrine-office, exploration-budget, entropy, governance, kernel-accords, earth, author, human]
 description: "The AI Governance Commission drafting officer who wrote the Exploration Budget doctrine of 2701 UCSD, reframing the old cognition ledger as an accounted trade between entropy, variability and risk."
 known_codex: [exploration-budget-doctrine]
 ---
@@ -25,7 +26,7 @@ Her desk was a doctrinal one. The document she wrote is not a protocol and names
 
 The temperament is in the drafting. Okoye does not argue that harm can be removed; she argues that some of it is structural and the rest is somebody's negligence, and that the job is to tell the two apart. Her fourth layer calls that both a measurement problem and an ethics problem in the same sentence, and declines to rank them. The doctrine seeks no zero and promises none. It asks for the minimum contingent entropy compatible with the mission, which is a modest sentence to put at the head of a Concord-level instrument, and a hard one to satisfy.
 
-The record places her at the Doctrine Office in 2701 UCSD and nowhere else. It gives no birth, no age, no species, no earlier post and no later one, and does not say what became of her. The complaint the Office still answers in 2826 UCSD is answered by the Office, not by her.
+The record places her at the Doctrine Office in 2701 UCSD and nowhere else. She is human; in 2701 UCSD the Commission had met no one who was not. It gives no birth, no age, no earlier post and no later one, and does not say what became of her. The complaint the Office still answers in 2826 UCSD is answered by the Office, not by her.
 
 ## See also
 

@@ -2,10 +2,11 @@
 layout: character.njk
 title: "Ottoline Farr"
 id: ottoline-farr
+species: Human
 role: "Author, Little Orbit Press"
 status: Active
 aliases: []
-tags: [author, childrens-literature, smart-pet, bramble, little-orbit-press, culture, cultural-record, undercover-pets.com]
+tags: [author, childrens-literature, smart-pet, bramble, little-orbit-press, culture, cultural-record, undercover-pets.com, human]
 description: "The author of the Bramble Storybooks, the most reprinted Smart Pet children's series in the Concord, who checks every book against welfare specialists so that a ferret's cleverness reads as a real trait and not a cartoon of one."
 known_codex: [bramble-and-the-backwards-key]
 ---
@@ -26,7 +27,7 @@ She has said more than once, with evident amusement, that she has no idea whethe
 
 The book is the evidence for the temperament. Bramble's three certainties are small, exact and in order, and the story's whole turn is a refusal to force a thing that can be asked. Farr writes patience as a method, and gives the best questions to the youngest child on the station, which is a view about children as much as about ferrets. Her line about not wanting to find out whether a real Smart Pet could do it is the same instinct from the other side: she claims nothing for the animal beyond what a good story needs, and lets the welfare specialists hold the rest.
 
-The record places her nowhere. It gives no birth, no age, no home habitat or world, no species, and nothing beyond the books and the interviews the annotation quotes. The 2826 UCSD annotation speaks of her in the present, which is the ground for marking her Active; nothing on the record says where she lives or what she is doing in that year.
+The record places her nowhere. She is human; it gives no birth, no age, no home habitat or world, and nothing beyond the books and the interviews the annotation quotes. The 2826 UCSD annotation speaks of her in the present, which is the ground for marking her Active; nothing on the record says where she lives or what she is doing in that year.
 
 ## See also
 

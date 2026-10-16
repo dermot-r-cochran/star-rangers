@@ -5306,6 +5306,22 @@ blockquote; heritage left out where the record leaves it out.
    Aethelrock valleys, 2823 UCSD.
 8. **`mireille-achterberg.jpg`** — human, comparative gerontologist; her paper
    is undated, so the frame carries no period beyond the present default.
+9. **`senna-okoye.jpg`** — human, Drafting Officer of the Doctrine Office, AI
+   Governance Commission, Earth, 2701 UCSD; a doctrinal desk, not a bench.
+10. **`kwame-reyes-osei.jpg`** — human, Drafting Officer of the Contingency
+    Division, AI Governance Commission, Earth, 2704 UCSD. Okoye's companion
+    frame if the two are written in one pass, though the record does not say
+    they met.
+11. **`ione-marrec.jpg`** — human, Sister of the Fellowship of Light's
+    contemplative chapter and comparative-archive correspondent, Eden chapter
+    house, 2831 UCSD; the back of the commissioning hall, where she told the
+    twinned story, is the one scene the record gives her.
+12. **`meret-kolhaas.jpg`** — human, Loss Adjuster of the Farline Courier
+    Guild, Threshold circuit, 2831 UCSD, in the thirty-first year of the work;
+    a claims office, not a dock, since she was not there.
+13. **`ottoline-farr.jpg`** — human, author of the Bramble Storybooks, Little
+    Orbit Press; the record places her nowhere, so the frame carries no
+    habitat or world, and the 2826 UCSD annotation is its only date.
 
 **Bare until a page states a species (14) — ruled 16 October 2026, Option A.** Ausma Reihl, Emrys Kade, Ione
 Marrec, Kwame Reyes-Osei, Maren Halloran, Maren Ilves, Mera Soln, Meret
@@ -5328,14 +5344,20 @@ none of the fourteen has a species *withheld*: in each case it was simply
 *never stated*. The sort uses the *When the body is not relevant* clarification
 in *Conventions* (#1280):
 
-- **Queued for a species line (5)**: Kwame Reyes-Osei, Senna Okoye, Ione
-  Marrec, Meret Kolhaas, Ottoline Farr. Each page gives a person beyond the
-  document: a pronoun, a voice described in its own right, and for some a
-  setting or a scene (Okoye and Reyes-Osei carry the `earth` tag; Sister Ione
-  told the twinned story by mouth to a cadet at the Eden commissioning;
-  Farr's interviews are quoted). A species line is canon, so it is Fable's or
-  Dermot's to write, one line per page. Each one that lands moves its author
-  to the ready list above.
+- **Queued for a species line (5), all resolved the same day**: Kwame
+  Reyes-Osei, Senna Okoye, Ione Marrec, Meret Kolhaas, Ottoline Farr. Each
+  page gives a person beyond the document: a pronoun, a voice described in
+  its own right, and for some a setting or a scene (Okoye and Reyes-Osei
+  carry the `earth` tag; Sister Ione told the twinned story by mouth to a
+  cadet at the Eden commissioning; Farr's interviews are quoted). A species
+  line is canon, so it was Fable's to write, one line per page. All five
+  landed as *human* on 16 October 2026 (Fable), each on the record's own
+  ground: the Commission of 2701 and 2704 UCSD had met no one who was not
+  human (`lore/ai-safety-kernel.md`, *humans is who the drafters had met*);
+  Sister Ione files from a human habitat and speaks of Solar System founding
+  memory as her own; Kolhaas and Farr on the Concord institutions they work
+  in and their Earth-stock names, the thinnest of the five grounds. They are
+  now entries 9–13 of the ready list above.
 - **The body is not relevant (8)**: Ausma Reihl, Emrys Kade, Maren Halloran,
   Maren Ilves, Mera Soln, Pren Halvard, Toma Egede, Wren Ansell. Known only by
   one paper, report or filing, with no pronoun or a neutral one. These pages

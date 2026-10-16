@@ -2,12 +2,13 @@
 layout: character.njk
 title: "Sister Ione Marrec"
 id: ione-marrec
+species: Human
 role: "Comparative-archive correspondent, Fellowship of Light contemplative chapter; Eden chapter house"
 status: Active
 aliases:
   - "Sister Ione"
   - "Sister Marrec"
-tags: [fellowship-of-light, eden, comparative-archive, arilon, contemplative, maren-solveig-krast, culture, author]
+tags: [fellowship-of-light, eden, comparative-archive, arilon, contemplative, maren-solveig-krast, culture, author, human]
 description: "The Fellowship of Light contemplative whose comparative-archive note set the captain Jehu beside General Krast, and who told the same twinned story by mouth to a cadet at the Eden commissioning, leaving her to find the general in it herself."
 known_codex: [jehu-among-the-comparanda, the-captain-who-drove-furiously]
 ---
@@ -26,7 +27,7 @@ The written one is a comparative-archive note. It draws a line from an Old-Earth
 
 She signs what she files and considers the telling nobody's possession, hers least of all. The note extends the Cascade's discipline past where the file requires it, declining to read the hand that answers the witness as a verdict any more than the witness; the telling hands a cadet the half of the story no song is written for — "you have to keep the second yourself, quietly". Both documents say what they do not claim, and stop there.
 
-The record does not give her species, her age, how long she has been at the Eden chapter house, or where she was before it. The two filings of 2831 UCSD and Sen's mention of 2833 UCSD are the whole of what it holds.
+She is human, and speaks of Solar System founding memory as her own. The record does not give her age, how long she has been at the Eden chapter house, or where she was before it. The two filings of 2831 UCSD and Sen's mention of 2833 UCSD are the whole of what it holds.
 
 ## See also
 
