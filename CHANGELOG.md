@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Many folds are intergalactic** (`src/lore/ftl-mechanics.md`, `src/lore/civilisation-comparison.md`, 2026-10-16). An extension at Dermot's direction, verbatim *"Many folds are intergalactic and connect regions of space across vast astronomical distances"*. The FTL page already allowed it in one case, New Cotswolds, reached by the Evenlode corridor. It now says a fold's ends lie wherever an admissible geometry puts them, so many charted routes join this galaxy to another. *Natural Limits of Reach* adds that the few folds that exist mostly lead out of any polity's reach rather than across it. Its marked absence now notes the record's settlement in another galaxy, alone at the end of one fold.
+
 - **Fable is optional in a fork** (`CLAUDE.md`, *Which model does which work*, 2026-10-16). At Dermot's word, the model split is his quota management for this repository only. A session working on a fork may write prose and prompts on any model its maintainer chooses.
 
 - **A light-year a day is close to a ceiling** (`src/lore/ftl-mechanics.md`, `src/glossary/quantum-space-harmonic-wave.md`, `src/lore/civilisation-comparison.md`, 2026-10-16). A clarification at Dermot's *"Option A"*. The corridor's average pace is now stated as near its upper bound: a crossing may run ahead for a stretch but never sustains much more, and window waits, drop-outs and shifting conditions make most crossings slower. The glossary's *Harmonic corridor* entry and the *Natural Limits of Reach* section say the same, so the reach table's lags stand as minimums.
