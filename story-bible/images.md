@@ -4062,6 +4062,50 @@ Nothing joins the surface to orbit.
   - **If the frame does not earn its place** (Dermot's caution, same day: *"It depends how it turns out"*): strike it and file nothing rather than a weak grey disc. The fallback, if one is wanted, is a visible-light frame of Titan's limb at the terminator: the orange globe falling into night, with thin detached haze layers standing above the limb as pale blue arcs against black, as the first orbiter photographed them. It needs no filter to explain and is what an eye at the port would see. Not yet written as a prompt.
   - **Written 15 October 2026** (Fable); generation waits on the desktop.
 
+### 5l. Outstanding lore illustrations — 16 October 2026 (Tsittak, from the lore page)
+
+A new Locations page with no image: `src/lore/tsittak.md`, a settlement, and a
+place gets an illustration. Written by Opus under the 16 October rule in
+`CLAUDE.md` (a prompt whose content is mostly physics, geometry or dates is
+Opus's), since what decides this frame is where the light comes from. The
+heading is one `scripts/image-prompts.js` reads, so
+`--generate --only tsittak` reaches it. No camera of ours has been to deep
+interstellar space and nothing in `own-photography.json` is a metal body under
+a full field of stars, so it is generated, with no reference sent. It takes no
+sheet in `starship-design.md`: the body is a settlement cut into rock, not a
+hull, as Stillwater and Callisto were not, and the camera's vessel is not in
+frame.
+
+What is true of Tsittak and binds the frame, from the page and the physics
+behind it: it is cut into *a lone body of nickel-iron, a few kilometres
+across*, drifting *with no star within several light-years*, so **no sun lights
+it**. The only light on the body is its own, and the page is exact about how
+little that is: *seen from outside, it is a dark body with a lit dock and
+almost nothing else.* With no sun and no air, the sky is not black the way
+Callisto's is: the camera's exposure is set for a dim lit dock, so the whole
+sky behind the body is a dense field of stars and the faint band of the galaxy,
+sharp points with no twinkle, no haze and no glow. The body reads mostly as a
+**silhouette against the stars**, its outline found where it hides them, with
+the dock's light picking out only the cut faces near it. Chthonari building is
+subtractive (*the members are left, not built*), so the dock is a recess cut
+into the metal, its edges smooth and deliberate, with nothing bolted on:
+no masts, no antennae, no gantries, no superstructure. The quiet-zone tunnel
+has **no visible form at all**; the page and the Lagrange page both say there
+is nothing to see or survey until a vessel is inside it, so the frame shows
+none. No person is in frame: the Chthonari are inside the rock.
+
+- **`tsittak.jpg`** — *A Ranger survey vessel came out of a fold it had not known it was in, and found someone already living at the exit.*
+  The body from a few kilometres out, seen as the surveyors in 2794 first saw it and as every Corps vessel bound for the tunnel sees it now, from a mount on a vessel holding station after calling ahead. The page's last line of *Living on the Rock* is the frame: a dark body, a lit dock, almost nothing else. Prompt's choices, the page being silent: the body's shape (irregular and elongated, about twice as long as wide, like most small bodies), its surface (dark grey metal, pitted and faintly lustrous where the light catches, with a few long smooth cut faces near the dock that read as worked rather than broken), the dock (a deep rectangular recess with rounded corners in one cut face, its interior lit warm and dim, and a few small steady lights set flush along its lip), and the camera's distance (the body fills the middle third of the frame).
+  > Documentary photograph taken inside the world by a 29th-century camera on a steadied hull mount aboard a vessel holding station a few kilometres off, a long exposure, 16:9 landscape, a normal lens, in the year 2826, deep in interstellar space with no star near: a lone body of dark metal, irregular and elongated, about twice as long as it is wide, filling the middle third of the frame, seen almost entirely as a silhouette against a sky dense with stars, its outline found where it hides them. There is no sun anywhere and no sunlight on it. Its only light is its own: in one long flat face, smooth and deliberately cut, a deep rectangular recess with softly rounded corners, a dock, its interior lit a warm dim amber, the light spilling a short way across the surrounding metal and showing it dark grey and pitted, faintly lustrous where the glow catches the edges of old pits, and a few small steady lights set flush along the lip of the recess, nothing else lit anywhere on the body. Near the dock a few more long smooth faces and clean straight channels are cut into the metal, plainly worked rather than broken, the shapes of a structure made by taking material away; nothing is bolted on, nothing stands up from the surface, no masts, no antennae, no gantries, no towers, no windows in rows. The rest of the body falls away into near-black, dark metal against dark sky, only its edge against the stars giving it a shape. Behind it, filling the whole frame, a deep sharp field of stars of every brightness, small hard points with no twinkle and no spikes, and across one corner the faint grainy band of the galaxy, pale and soft. Nothing else is in the sky: no planet, no moon, no sun, no nebula clouds, no colour beyond the stars' own faint whites, blues and golds and the amber of the dock. The fold route beside the body cannot be seen and is not shown. Quiet, cold, very dark, still, small and alone, one warm light in an immense dark, not menacing. Photographed, not rendered: a real long exposure in almost no light, high-ISO grain heavy in the black, the dock's light slightly bloomed, the stars pin-sharp, a real lens with slight softness toward the corners, a touch under-exposed, muted natural colour, the small imperfections a real photograph keeps. Negative: a sun, sunlight, a lit hemisphere, a crescent of daylight on the body, a planet, a moon, a ringed planet, a nebula, coloured gas clouds, a swirling portal, a wormhole, a vortex, a tunnel of light, a glowing ring, lens flare, light beams, searchlights, floodlights, a starship, a spacecraft in frame, a hull or window frame in frame, a station of modules, a space station, a city on an asteroid, glowing windows in rows, towers, masts, antennae, gantries, cranes, solar panels, a tether, a cable, an engine glow, exhaust, debris field, explosions, weapons, warships, readable text, lettering, numerals, signage, labels, stencilled markings, branding, logos or written characters of any script anywhere in frame, holograms, a HUD, a timestamp, an overlay, insects, creatures, people. Render negatives: 3D render, CGI, octane render, video-game render, animated film still, science-fiction film set, matte painting, concept art, digital painting, plastic sheen, airbrushed, over-smooth surfaces, glossy, a miniature model. Landscape orientation.
+  - **No sun is the clause.** The body is lit only by its dock, so any daylight on it, a lit hemisphere or a crescent, is a frame of somewhere else and fails before anything else is judged. A body that is almost all silhouette is right, not under-exposed: do not re-roll for brightness.
+  - **Stars, not black.** Unlike Callisto's sunlit sky, this exposure is set for a dim dock with no sun to wash the sky out, so a dense, sharp star field and a faint galactic band are what a real frame shows. A black empty sky is a soft fail; nebula colour, twinkle or spiked stars fail.
+  - **Cut, not built.** Chthonari building is subtractive. A recessed dock and smooth cut faces pass; anything standing up from the surface (masts, antennae, gantries, modules, rows of lit windows) is a human station in the wrong place and fails.
+  - **The tunnel is invisible.** A portal, ring, vortex or tunnel of light fails the page, which says there is nothing to see until a vessel is already inside.
+  - **Nothing in frame but the body and the sky.** No vessel, no port edge, no person, nothing military, and no text.
+  - **The century** passes as the 13 October triage's (A), a frame whose one made thing is not of any earlier century's making; say so in the record.
+  - Proposed alt, to be corrected to the filed frame: *Tsittak from a few kilometres out: a lone dark body of metal, mostly a silhouette against a dense field of stars and a faint band of the galaxy, lit only by a warm amber dock recessed into one smooth cut face, with a few small lights along the dock's lip.*
+  - **Written 16 October 2026** (Opus, under the 16 October rule); generation waits on the desktop.
+
 ### 6. Images that should not stay — audited 2026-08-10
 
 *(Heading restored 12 October 2026: it was lost when section 5d was inserted on 9 October (commit `030575d7`), which left this audit reading as part of 5e.)*
