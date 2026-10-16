@@ -190,7 +190,7 @@ The arithmetic is short. Near the Solar System there is roughly one star system 
 | A hundred thousand | about 180 light-years | about a year |
 | A million | about 390 light-years | more than two years |
 
-No polity holds every system around it, and a polity that holds one in ten reaches twice as far for the same count, so these are the shortest lags its size allows, not the usual ones.
+No polity holds every system around it, and a polity that holds one in ten reaches twice as far for the same count, and a crossing [seldom beats the corridor's average](/star-rangers/lore/ftl-mechanics/) and often falls short of it, so these are the shortest lags its size allows, not the usual ones.
 
 The limit is therefore not a number of worlds. It is the round trip of a question. Once that is longer than the life of the situation it asks about, the centre is deciding a matter that has already changed, and a polity has three ways to live with it. It can hand final local authority to an office on each world and keep the centre for what can wait, as the [Hegemony](/star-rangers/lore/cerebraun-hegemony/) does with its Administrator-Voices. It can decline a strong centre altogether, as the Federation and the Celtic Union do. Or it can keep insisting on a centre and come apart along its lags. The record's reading, and it is a reading rather than a law, is that this is why the largest polity on file holds thousands of systems and not millions.
 

@@ -28,7 +28,7 @@ Wave-locked transit along pre-admissible quantum harmonic corridors.
 - Transit cannot bypass [Concordant](/star-rangers/glossary/concordant/) boundary conditions.
 
 ### Range and Pace
-Medium-range. Averaged over a route's recurrence windows, a harmonic corridor advances a vessel on the order of one light-year per day — quick enough to make interstellar traffic routine, and too slow for the longest crossings.
+Medium-range. Averaged over a route's recurrence windows, a harmonic corridor advances a vessel on the order of one light-year per day — quick enough to make interstellar traffic routine, and too slow for the longest crossings. The figure is close to a ceiling, not a floor. A crossing may run ahead of it for a stretch when a route's windows line up, but none sustains much more; waiting for the next window, a drop-out and a re-lock, or shifting boundary conditions make most crossings slower, and some much slower.
 
 ### Observable Effects on Time-Bound Entities
 - Apparent non-linear arrival order across distant observers.
