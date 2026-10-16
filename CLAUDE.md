@@ -57,6 +57,8 @@ Dermot's direction, 2026-10-11: the delegation line above is also the model line
 
 A subagent runs on its parent session's model unless its definition or the call names another. So a session started on Fable passes Fable to every subagent it spawns. Name the model on every delegation, and don't start a session on Fable unless the work is prose or prompts.
 
+**In a fork, Fable is entirely optional** (Dermot, 2026-10-16). The split above manages his own quota in this repository and binds nobody else's: a session working on a fork may do the prose and the prompts on any model the fork's maintainer chooses, and the review lines above apply only as far as that maintainer wants them to.
+
 **Who approves whom** (Dermot, 2026-10-11, verbatim: *"Opus may give approval to Sonnet subagents and Fable may give approval to Opus or decide exactly what I should be asked to decide on"*):
 
 - **Opus approves Sonnet's and Haiku's work, and escalates as needed.** A Sonnet or Haiku subagent's work merges on an Opus review and green CI, with no wait for Dermot. Where it needs a judgement Opus should not make alone, Opus escalates: to Fable where one is available, otherwise to Dermot directly as choices (Dermot, 2026-10-11). Haiku may also work under a Sonnet subagent, its searches and summaries feeding Sonnet's job as input; approval still comes from Opus, never from Sonnet.
