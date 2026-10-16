@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Other peoples keep settlements at fold routes too** (`src/lore/habitat-threshold.md`, `src/lore/civilisation-comparison.md`, 2026-10-16). An extension at Dermot's direction, verbatim *"Non-humanoid peoples also have their own remote semi-isolated settlements and habitats near various fold routes"*. *Habitat Threshold* now says Eden is the human case of a settlement at a fold's mouth, and that other peoples keep their own, mostly built for bodies unlike a human's, some working routes before humans knew of fold travel. The Archive has not enumerated them. *Natural Limits of Reach* adds that such settlements at the far end of a fold are as far past any polity's answer as New Cotswolds.
+
 - **Many folds are intergalactic** (`src/lore/ftl-mechanics.md`, `src/lore/civilisation-comparison.md`, 2026-10-16). An extension at Dermot's direction, verbatim *"Many folds are intergalactic and connect regions of space across vast astronomical distances"*. The FTL page already allowed it in one case, New Cotswolds, reached by the Evenlode corridor. It now says a fold's ends lie wherever an admissible geometry puts them, so many charted routes join this galaxy to another. *Natural Limits of Reach* adds that the few folds that exist mostly lead out of any polity's reach rather than across it. Its marked absence now notes the record's settlement in another galaxy, alone at the end of one fold.
 
 - **Fable is optional in a fork** (`CLAUDE.md`, *Which model does which work*, 2026-10-16). At Dermot's word, the model split is his quota management for this repository only. A session working on a fork may write prose and prompts on any model its maintainer chooses.
