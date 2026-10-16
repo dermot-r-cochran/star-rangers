@@ -423,6 +423,21 @@ since 2826 UCSD (2626 CE) is late in Titan's northern winter; nothing made in fr
 habitat, no craft, no tether, no port edge, and no grid, bar, reticle,
 stamp or text. Strike this when filed.
 
+### 2.14 `tsittak.jpg` — the Tsittak lore illustration (queued 16 October 2026)
+
+A new Locations page with no image, and a place gets one. The prompt is of
+record in [`images.md`](images.md) § 5l and read by `image-prompts.js`,
+written by Opus under the 16 October rule; no sheet in
+[`starship-design.md`](starship-design.md), since a settlement cut into rock is
+not a hull. Run on the desktop with
+`node scripts/image-prompts.js --generate --only tsittak` (no reference is
+sent), file through `import-image.ps1 -MaxEdge 1600`, then give the page its
+`image:` and an `image_alt` written from the filed frame. Triage before the
+century: no sunlight anywhere on the body, which is mostly silhouette; a
+dense sharp star field behind it, no nebula colour; the dock a lit recess cut
+into the metal and nothing standing up from the surface; no visible tunnel or
+portal; no vessel, person or text in frame. Strike this when filed.
+
 ### 2.8 The Told — theme (queued 30 September 2026)
 
 The children's second door has played Five-O's track since 7 September as a
