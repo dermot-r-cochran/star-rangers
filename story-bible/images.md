@@ -5319,6 +5319,40 @@ Two standing rules met here, so it was put as a choice (below) and ruled the
 same day: none in this group is prompted, and a page that later states a
 species moves its author into the ready list above.
 
+**The fourteen sorted (16 October 2026, at Dermot's *"Yes, record the sort in
+images.md § 17 and queue the five for species lines"*).** Read from the pages
+themselves. Thirteen close on the same stock paragraph (*"The record gives … no
+birth, no age, no species …"*), written when the authors landed on 10 October.
+That paragraph lists what the record lacks; it is not a choice to withhold. So
+none of the fourteen has a species *withheld*: in each case it was simply
+*never stated*. The sort uses the *When the body is not relevant* clarification
+in *Conventions* (#1280):
+
+- **Queued for a species line (5)**: Kwame Reyes-Osei, Senna Okoye, Ione
+  Marrec, Meret Kolhaas, Ottoline Farr. Each page gives a person beyond the
+  document: a pronoun, a voice described in its own right, and for some a
+  setting or a scene (Okoye and Reyes-Osei carry the `earth` tag; Sister Ione
+  told the twinned story by mouth to a cadet at the Eden commissioning;
+  Farr's interviews are quoted). A species line is canon, so it is Fable's or
+  Dermot's to write, one line per page. Each one that lands moves its author
+  to the ready list above.
+- **The body is not relevant (8)**: Ausma Reihl, Emrys Kade, Maren Halloran,
+  Maren Ilves, Mera Soln, Pren Halvard, Toma Egede, Wren Ansell. Known only by
+  one paper, report or filing, with no pronoun or a neutral one. These pages
+  are complete without a portrait, not pending.
+- **Declined in the world (1)**: Odal Ferren. The settlement reviewed the
+  transcript and said most of it was none of the record's business, and the
+  page honours that. The record's courtesy keeps this one bare, not a gap.
+
+**Not a ground for bareness: self-consciousness about the body.** Dermot, the
+same day, verbatim: *"for medical reasons almost all 29th century humans are
+fit, healthy and no reason to feel self-conscious about their physical bodies
+when clothed and posed for a portrait"*. A person is never left without a
+portrait to spare them their appearance. Bareness rests only on what the record
+states (the clarification above) or on a choice made inside the world (Ferren,
+Ariel Pinya). The modesty bar governs how a portrait is dressed and posed, not
+whether one is made.
+
 **Bare by an earlier ruling (3).** Ariel Pinya: her page says the record holds
 no portrait of her (§ 8, 7 October). The Kept Line: known only from instrument
 logs (§ 8). Halle Ostrander: species not stated by Dermot's choice of 12 October
