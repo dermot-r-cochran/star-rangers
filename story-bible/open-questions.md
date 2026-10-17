@@ -35,6 +35,27 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
+## Arashobal, a Krenyi chief of staff — raised 17 October 2026, DRAFTED same day, five readings open
+
+`intake-2026-10-17.md`. Drafted from Dermot's note as
+`src/characters/arashobal.md`: a Krenyi Chief on the general operations track,
+styled Chief Ranger, chief of staff aboard High Captain Wender's command ship
+(his choice, *Wender's command (Recommended)*). Settled at Opus on precedent:
+*Kyrennei* as the Krenyi; *Nai* as the state-marker and so an alias, not the
+title; she/her; Chief as the rank and no new rank; no human fleet command; the
+glory line reframed on the mythification refusal; the fixing grounded in
+pattern drift, the long horizon and honesty, with no new species trait; the
+community left but never named or placed; no chapter cited; the out-of-world
+origin note kept out of `src/`. Open, his: why she left; first appearance; her
+age beyond *older than Syra*; a portrait (none queued); whether the page
+names her as part of the command ship's complement or leaves the ship unnamed
+(drafted unnamed).
+
+Also 17 October, same intake, *Krenyi speech: two speeds*: realized on the
+Krenyi lore page and Arashobal's page; one reading open, whose pace a mixed
+room gets (the listener furthest from the matter recommended, kept off the
+page until a chapter needs it).
+
 ## Portraits for the Codex authors whose pages state no species — raised 16 October 2026, RULED same day, A (*"Option A accepted"*): bare until a page states a species
 
 Fourteen Codex-author pages state no species (the list is in `images.md` § 17), and Halle Ostrander's is unstated by his choice of 12 October. The 7 October rule gives every person a portrait; the pages mark species as an absence, and a picture cannot leave a body's kind unstated. Choices: (A) keep them bare until a page states a species, recommended; (B) state a species on each page first, then prompt in batches; (C) frame each so the body's kind cannot be read. The eight with a stated species are queued for Fable's prompts meanwhile (`prompt-sheet.md` § 2.15).
