@@ -1,6 +1,16 @@
 # Changelog
 
-A- **The command ship Fel Trohen** (`src/characters/arashobal.md`, `src/characters/karla-wender.md`, `src/lore/star-rangers-command-hierarchy.md`, 2026-10-17). The first command ship named in the record is the *Fel Trohen*, High Captain Wender's, whose staff Arashobal runs. It is named on both characters' pages and on the command-hierarchy page. The name is not glossed.
+All notable changes to this project are documented in this file and, for releases [1.35.0] and older, in its archive in [`changelog/`](changelog/README.md).
+
+The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and version numbers follow [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`, where `MINOR` covers backward-compatible additions (a new lore entry, a new deploy.conf key, a new theme) and `PATCH` covers fixes with no new surface area. Nothing in this project's history so far has required a `MAJOR` bump: every `deploy.conf` key, theme, and build output added has been additive, and every default has stayed backward compatible.
+
+## [Unreleased]
+
+- **No social media in the 29th century** (`src/lore/what-the-record-refuses.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17, from Dermot's ruling). A new subsection, *The feed is refused, for the holodeck's reason and a plainer one*, and a row in the summary table: the twenty-first century's social media has no equivalent here. It was never banned; it was given up, because the feed delivered more than a mind can weigh at a cost to mental health, and it fails the record's source-and-date discipline as the holodeck does. Publishing, correspondence and public argument go on as before. Also restores this file's opening sentence, which seven of today's entries had split.
+
+- **Who a Ranger Answers To** (`src/lore/star-rangers-command-hierarchy.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17, from Dermot's *Chain of Command* note). A new section on the rank page: a Ranger reports to the nearest superior who exists in their chain; an intermediate superior is never skipped; where a post has none the line runs straight up; where one is absent or injured the line and their duties pass upward until they return. Reporting to a higher officer does not raise a Ranger's rank.
+
+- **The command ship Fel Trohen** (`src/characters/arashobal.md`, `src/characters/karla-wender.md`, `src/lore/star-rangers-command-hierarchy.md`, 2026-10-17). The first command ship named in the record is the *Fel Trohen*, High Captain Wender's, whose staff Arashobal runs. It is named on both characters' pages and on the command-hierarchy page. The name is not glossed.
 
 - **Public-domain fiction rule** (`CLAUDE.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17). Real-world fiction may be cited in the Codex and the Journal only when it is public domain in both the US and Ireland: published in or before 1930, with its author dead by 1955, as of 2026, and both dates move each year. Any translation used must pass the same test. A work is cited as fiction by title and author and never as foreknowledge or evidence. It is never cited in lore, the glossary or Archive narration.
 
@@ -13,14 +23,6 @@ A- **The command ship Fel Trohen** (`src/characters/arashobal.md`, `src/characte
 - **Krenyi wear no make-up** (`src/lore/krenyi.md`, `story-bible/civilian-dress.md` principle 14, 2026-10-17). Krenyi use a protective cream for hands and face sparingly when conditions call for it, and avoid make-up in general, extending the ruling that a Krenyi dresses plainly to the face.
 
 - **Arashobal: portrait, first role and age; Toval's fast track** (`src/characters/arashobal.md`, `src/images/characters/arashobal.jpg`, `src/lore/star-rangers-academy.md`, `src/characters/toval.md`, `story-bible/images.md` § 18, `story-bible/intake-2026-10-17.md`, 2026-10-17). Arashobal is now a Survey Corps Chief Ranger who served beside Chief Pilot Wender as the senior of two fellow Chiefs, before Wender asked her across as chief of staff. That post carries more responsibility at the same rank. She is about fifty by human measure and looks about twenty-eight. Her portrait is filed from the third generation round. The Academy's intake gains a faster road to Cadet for older candidates with relevant experience, with Toval as the example.
-
-ll notable changes to this project are documented in this file and, for releases [1.35.0] and older, in its archive in [`changelog/`](changelog/README.md).
-
-The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and version numbers follow [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`, where `MINOR` covers backward-compatible additions (a new lore entry, a new deploy.conf key, a new theme) and `PATCH` covers fixes with no new surface area. Nothing in this project's history so far has required a `MAJOR` bump: every `deploy.conf` key, theme, and build output added has been additive, and every default has stayed backward compatible.
-
-## [Unreleased]
-
-- **Who a Ranger Answers To** (`src/lore/star-rangers-command-hierarchy.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17, from Dermot's *Chain of Command* note). A new section on the rank page: a Ranger reports to the nearest superior who exists in their chain; an intermediate superior is never skipped; where a post has none the line runs straight up; where one is absent or injured the line and their duties pass upward until they return. Reporting to a higher officer does not raise a Ranger's rank.
 
 - **About page says Voting is a fresh engine** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph now says the Voting repository is a fresh engine built on the thesis's discipline, rather than leaving it to be read as the thesis code.
 
