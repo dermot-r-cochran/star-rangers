@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **CITATION.cff** (`CITATION.cff`, 2026-10-17, at Dermot's request). The repository now carries citation metadata, so GitHub shows a "Cite this repository" button. Its preferred citation names the work as *Fian Ilchruinne* by Dermot Cochran at fianilchruinne.com, a website, not the repository name `star-rangers`, which is the retired title. There is no version or release date in the file, because both would go stale at each release; it asks citers to use a chapter's permanent /c/ link and give the date they accessed it.
+
 - **Tables are readable** (`src/css/main.css` and the generated themes, 2026-10-17, from Dermot's screenshot of *Forking This Site*). The site had no table styling, so cells ran into each other with no padding and centred headers. Page tables now have padding, a rule under each row, left-aligned headers and sideways scrolling on narrow screens. This also covers the summary table on *What the Record Refuses*.
 
 - **IndexNow waits for its key** (`scripts/indexnow.js`, 2026-10-17). The first live submission was refused with HTTP 403 because GitHub Pages had not yet started serving the new key file. The submit step now waits up to three minutes for the key to be reachable and retries a 403 once. The 1,014 refused URLs were resent by hand.
