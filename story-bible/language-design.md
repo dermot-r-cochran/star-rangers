@@ -94,7 +94,13 @@ channel shapes the language more than anything else about it.
   failure it invites is *same language, lost at speed and shorthand*: a human who follows a
   Krenyi's formal briefing loses two Krenyi in conversation, his own analogy
   being formal spoken Danish against ordinary conversation in Copenhagen.
-  See `src/lore/krenyi.md`, *Social and Relational*.
+  See `src/lore/krenyi.md`, *Social and Relational*. In a mixed room they
+  keep to the room's pace out of politeness and pass what else they need by
+  a second channel of micro-expression, word choice and small hand signals;
+  in an emergency the courtesy lapses and they speak at their own speed out
+  loud (Dermot, same day). Unlike the involuntary channels under question 4,
+  this one is deliberate, and its manner is that it only ever adds to what is
+  said aloud.
 
 *The question a season should ask first:* what does it cost this people to
 say a thing, and what is free? Everything in question 2 follows from it.

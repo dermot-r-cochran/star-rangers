@@ -13,7 +13,7 @@ description: "A Krenyi Chief on the general operations track, chief of staff abo
 
 Arashobal is Krenyi, one of the Quiet-Built, and older than [Syra](/star-rangers/characters/syra/) by her people's reckoning, which she keeps in their own calendar and gives in the material form when asked. By how much, the record has not said. She holds the rank of [Chief](/star-rangers/lore/star-rangers-command-hierarchy/) on the general operations track, and carries the working title Chief Ranger, as a Chief on that track does; her post is chief of staff aboard the command ship of [High Captain Karla Wender](/star-rangers/characters/karla-wender/), under Wender's High Captaincy. The record has not yet shown her at work. What it holds is the posting.
 
-She came to the Corps from a Krenyi community, which the record neither names nor places, because the Krenyi decline to be placed and the record keeps the entry empty on purpose. Why she left it, the record does not say. Asked, she gives the material part, that she was there and is now here, and declines the rest.
+She came to the Corps from a Krenyi community, which the record neither names nor places, because the Krenyi decline to be placed and the record keeps the entry empty on purpose. She came as a volunteer, with the approval of her elders and mentors, and that is the shape any Krenyi joining takes: [their cooperation is only ever extended, never obtained](/star-rangers/lore/krenyi/), so the approval she carried was counsel she sought and was given, not a permission anyone could have withheld from her. Asked why she came, she gives the material part, that she offered and was accepted, and declines the rest.
 
 ## The staff office
 
