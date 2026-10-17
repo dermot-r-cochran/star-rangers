@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.43.0] — 2026-10-17
+
+Arashobal joins the record as a Krenyi Chief and High Captain Wender's chief of staff aboard the *Fel Trohen*, the first command ship named, with her portrait filed. The Krenyi gain speech at two speeds, their courtesy in a mixed room and an emergency, and no make-up; the embodied-cognition page adds *The Case in a Person*. The rank page adds *Who a Ranger Answers To*, and *What the Record Refuses* rules out social media. The rules now cover public-domain fiction and keep a singular exception singular. The About page names the author's PhD, degrees and career, and the Journal adds three entries, among them *Questions a Researcher Might Ask*. Thirteen Codex-author portraits are filed. The site gains a `CITATION.cff`, readable tables and IndexNow on every deploy.
+
 - **A singular exception stays singular** (`CLAUDE.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17, from Dermot's note on the exception that proves the rule). The repo's rules now name the principle behind four single exceptions: the Krenyi, Tír na nÓg, Underwriters Laboratories and General Krast's line. A second instance of any of them is never added without his ruling.
 
 - **Researcher questions: kinds of ambiguity** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, from Dermot's note that some ambiguities are intentional, some are loose ends and some are open for future work). A new answer separates the three and says where the story bible tracks each.
