@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **About page names the author's career** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph in *The engineering behind the record* adds that he works as a software engineer, latterly specialising in applied AI. No employer is named.
+
 - **About page lists the author's earlier degrees** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph in *The engineering behind the record* now names the degrees before it: Mathematical Science (Trinity College Dublin, 1992), Industrial Engineering (University College Dublin, 2003) and an MSc in Advanced Software Engineering (University College Dublin, 2007). No employer is named, at his direction.
 
 - **About page names the PhD behind the engineering** (`src/about/index.md`, 2026-10-17, at Dermot's request). *The engineering behind the record* gains a paragraph on his 2013 IT University of Copenhagen thesis, *Formal Specification and Analysis of Danish and Irish Ballot Counting Algorithms*, linked to its ITU copy. It describes the thesis as automated reasoning, the symbolic branch of AI, applied to software design (Alloy with a SAT solver, JML contracts checked statically and at runtime), names it as the root of the three repositories the section lists, and links *The External Codex*.
