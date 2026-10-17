@@ -136,6 +136,14 @@ and the record now holds no character who dresses old. See* Ashcombe, ruled
     *Dress by place* carries no Krenyi entry, and this principle stands in for
     one. On duty a Krenyi Ranger wears the uniform like anyone else (Toval); off
     duty, Syra's plain fitted high-necked garment is the worked example.
+    **The face follows the clothes** (Dermot, 17 October 2026, verbatim:
+    *"Krenyi will use protective hand and face cream sparingly as need, but
+    avoid make up in general"*): a protective cream for hands and face, used
+    sparingly where dry ship air, cold or weather calls for it, and no make-up
+    as a rule. Protection is something added that does something; make-up
+    presents, and a Krenyi face is not presented. *In general* leaves room for
+    a case the record has not met. In prompts a Krenyi face is bare and living,
+    which every Krenyi portrait prompt already asks for by negating make-up.
 
 15. **Every people dresses, marks and colours itself in its own medium, and
     colour is never a tell.** PROPOSED 14 October 2026, at Dermot's two
