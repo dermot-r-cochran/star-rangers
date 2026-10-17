@@ -35,7 +35,7 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## Arashobal, a Krenyi chief of staff — raised 17 October 2026, DRAFTED same day, five readings open
+## Arashobal, a Krenyi chief of staff — raised 17 October 2026, DRAFTED same day, four readings open
 
 `intake-2026-10-17.md`. Drafted from Dermot's note as
 `src/characters/arashobal.md`: a Krenyi Chief on the general operations track,
@@ -46,15 +46,18 @@ title; she/her; Chief as the rank and no new rank; no human fleet command; the
 glory line reframed on the mythification refusal; the fixing grounded in
 pattern drift, the long horizon and honesty, with no new species trait; the
 community left but never named or placed; no chapter cited; the out-of-world
-origin note kept out of `src/`. Open, his: why she left; first appearance; her
+origin note kept out of `src/`. Why she left: RULED the same day, *she
+volunteered with the approval of her elders and mentors* (approval read as
+counsel, not permission). Open, his: first appearance; her
 age beyond *older than Syra*; a portrait (none queued); whether the page
 names her as part of the command ship's complement or leaves the ship unnamed
 (drafted unnamed).
 
 Also 17 October, same intake, *Krenyi speech: two speeds*: realized on the
-Krenyi lore page and Arashobal's page; one reading open, whose pace a mixed
-room gets (the listener furthest from the matter recommended, kept off the
-page until a chapter needs it).
+Krenyi lore page and Arashobal's page. Whose pace a mixed room gets: RULED
+the same day, *the room's*, with micro-expressions, word choice and hand
+signals carrying the rest between Krenyi, and the courtesy suspended in an
+emergency. Nothing open.
 
 ## Portraits for the Codex authors whose pages state no species — raised 16 October 2026, RULED same day, A (*"Option A accepted"*): bare until a page states a species
 
