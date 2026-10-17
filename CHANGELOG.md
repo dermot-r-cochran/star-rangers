@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **About page links the author's Google Scholar profile** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph in *The engineering behind the record* ends with a link to his publications on Google Scholar, in place of a count that would go stale.
+
 - **About page names the author's career** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph in *The engineering behind the record* adds that he works as a software engineer, latterly specialising in applied AI. No employer is named.
 
 - **About page lists the author's earlier degrees** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph in *The engineering behind the record* now names the degrees before it: Mathematical Science (Trinity College Dublin, 1992), Industrial Engineering (University College Dublin, 2003) and an MSc in Advanced Software Engineering (University College Dublin, 2007). No employer is named, at his direction.
