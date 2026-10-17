@@ -120,7 +120,8 @@ eleventyComputed:
   before the code ran, and at runtime, as assertions while it ran. The lesson it taught
   is that software looks correct until a machine finds the case where it is not, and that is the
   problem generative AI has since made everyone's: a model can propose code, and specifications,
-  invariants and automated checks decide what ships. The journal entry
+  invariants and automated checks decide what ships. The author works as a software engineer,
+  latterly specialising in applied AI, which is where that problem now lives. The journal entry
   <a href="/star-rangers/journal/the-external-codex/">The External Codex</a> says what this
   record took from the thesis, and why the record itself never cites it.
 </p>
