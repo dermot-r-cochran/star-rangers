@@ -247,6 +247,34 @@ distinct histories, rather than five body plans with the same story attached.
   disagreement. The cast principles forbid it for humans and the same reasoning
   applies here. The Krenyi page is the standard to match — a whole practice, a
   named cost, a failure mode they would name themselves.
+- **The Krenyi read as Vulcans or as High Elves.** Dermot, 17 October 2026,
+  verbatim: *"Krenyi are very different from Vulcans or Tolkien's High
+  Elves"*. The two templates a reader brings to a calm, long-lived,
+  near-human people, and the record already refuses both point by point; the
+  public pages keep the Archive's voice and name neither, so the refusal is
+  written down here.
+  - *Not Vulcans.* A Vulcan's calm is discipline over strong feeling, logic as
+    a creed, and a quiet superiority about human emotion. A Krenyi's calm is
+    **structural, not suppression**: anxiety, annoyance and real grief are
+    all there, and what is missing is three extremes (deep fear, fury, grief
+    that will not close). *Clarity is not logic* (`krenyi.md`, *Emotional
+    Range*); they have never been recorded finding a human ridiculous for
+    being afraid, and their reading of human feeling is *a different
+    instrument, not a better grade*. Warm, polite, honest; never cold, never
+    lecturing.
+  - *Not High Elves.* An Elf is an elder race in its twilight: deathless,
+    luminous, melancholy, homesick for a lost West, bearing glamour and
+    lore, and fading as the younger peoples rise. A Krenyi is **long-lived,
+    not deathless**; a **present-tense people** for whom the past is not
+    sacred and who are poor keepers of what has not proved its use; they
+    **resist glamour and refuse mythification**; they **decline to be
+    placed** rather than mourn a homeland; they are neither elder nor fading
+    nor ranked above anyone; and their beauty is physical attractiveness by
+    humanoid standards, never radiance.
+  - *For prompts and prose:* no pointed ears, no luminous skin, no sorrowful
+    or ancient gaze, no flowing robes or circlets; no clipped emotionless
+    delivery and no raised-eyebrow condescension. The existing Krenyi
+    negatives (*elf ears, Vulcan, glowing skin*) are this trap's prompt form.
 - **The humanoid frame with features applied.** The Qiren Tal portrait failed on
   exactly this: insectoid head and carapace on a bipedal two-armed body. Adding
   features to a human silhouette is not designing a species.

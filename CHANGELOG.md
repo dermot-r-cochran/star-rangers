@@ -1,6 +1,8 @@
 # Changelog
 
-A- **The Case in a Person** (`src/lore/embodied-cognition.md`, `src/lore/krenyi.md`, 2026-10-17). A new section on the embodied-cognition page on why a Krenyi is often first to move correctly in an unexpected case, ahead of systems minds, embodied machines and humans, each for a different reason. It also says why that is not being more right: the reading is a sensation, not a finding, and the record ranks none of the three kinds of mind. A constraint files a Krenyi reading as testimony, and the Krenyi page points to the section.
+A- **The Krenyi are not Vulcans or High Elves** (`story-bible/species-design.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17). A named trap in the species-design notes records how the Krenyi differ from both familiar templates. Their calm is structural rather than suppressed, and clarity is not logic. They are long-lived rather than deathless, a present-tense people who refuse glamour and mythification, and they decline to be placed rather than mourn a homeland. No public page changes, because the Archive names no works from our century.
+
+- **The Case in a Person** (`src/lore/embodied-cognition.md`, `src/lore/krenyi.md`, 2026-10-17). A new section on the embodied-cognition page on why a Krenyi is often first to move correctly in an unexpected case, ahead of systems minds, embodied machines and humans, each for a different reason. It also says why that is not being more right: the reading is a sensation, not a finding, and the record ranks none of the three kinds of mind. A constraint files a Krenyi reading as testimony, and the Krenyi page points to the section.
 
 - **Krenyi wear no make-up** (`src/lore/krenyi.md`, `story-bible/civilian-dress.md` principle 14, 2026-10-17). Krenyi use a protective cream for hands and face sparingly when conditions call for it, and avoid make-up in general, extending the ruling that a Krenyi dresses plainly to the face.
 
