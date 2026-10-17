@@ -123,7 +123,8 @@ eleventyComputed:
   invariants and automated checks decide what ships. The author works as a software engineer,
   latterly specialising in applied AI, which is where that problem now lives. The journal entry
   <a href="/star-rangers/journal/the-external-codex/">The External Codex</a> says what this
-  record took from the thesis, and why the record itself never cites it.
+  record took from the thesis, and why the record itself never cites it. The author's publications
+  are listed on <a href="https://scholar.google.com/citations?user=LgLsr40AAAAJ">Google Scholar</a>.
 </p>
 
 <h2 id="fan-works">Fan fiction</h2>
