@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Researcher questions: kinds of ambiguity** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, from Dermot's note that some ambiguities are intentional, some are loose ends and some are open for future work). A new answer separates the three and says where the story bible tracks each.
+
 - **Research use, worded precisely** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, at Dermot's question *"An altered version?"*). The research-use answer no longer says that sharing any altered version is outside the licence, which seemed to contradict the fan-works exception. It now says commercial use needs permission; non-commercial fan works are welcome under the exception; processed or annotated research copies (tokenised, tagged, excerpted) may be shared on the same non-commercial, attributed terms; and a rewritten or edited version must not be published as the work.
 
 - **Journal: Questions a Researcher Might Ask** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, at Dermot's request). A companion to *The Notebook Behind the Novel* covering the questions a researcher is likely to bring: who writes what, which models were used, how decisions and mistakes are recorded, image provenance, reproducing a release, what research use is welcome (quotation, analysis, text-mining and a non-commercial research corpus, within CC BY-NC-ND 4.0), the new research@fianilchruinne.com contact, and how complete the story bible is.
