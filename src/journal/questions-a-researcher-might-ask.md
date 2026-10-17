@@ -40,4 +40,6 @@ tags: [process, authorship, method]
 
 **Is it finished?** No. The story bible is sufficient for studying how the record is made, but it is not static, and it grows as the story does. A study of it is a study of the record as it stood on a particular day, which is one more reason to cite by date or release.
 
+**Is every ambiguity deliberate?** No. Some are intentional: the record marks what it does not know rather than inventing it, and some mysteries are meant to stay shut. Some are loose ends, which I mean to tie. And some are left open for expansion and future work. The story bible keeps these apart: deliberate mysteries are named as such, loose ends are tracked as work to do, and undecided questions are indexed in one place. A reader of the site cannot always tell which kind a gap is, and that is partly by design, but a researcher reading the story bible can.
+
 If a question I have not anticipated turns out to matter, the address above is the place to ask it, and a good one may well earn a place on this page.
