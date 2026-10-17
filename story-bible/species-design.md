@@ -271,6 +271,25 @@ distinct histories, rather than five body plans with the same story attached.
     placed** rather than mourn a homeland; they are neither elder nor fading
     nor ranked above anyone; and their beauty is physical attractiveness by
     humanoid standards, never radiance.
+  - *The nearest template, and still not it: the Haruchai.* Dermot, same day,
+    verbatim: *"The nearest but still different are the Haruchai of Thomas
+    Covenant Chronicles"*. What rhymes: reflexes and composure past the human
+    range, a near-absence of fear, plain honesty, few words to outsiders, a
+    way of passing things between themselves that others cannot follow,
+    service to another people offered by choice, and little said about
+    themselves. What does not: the Haruchai's in-group channel is mind-speech,
+    which this record refuses outright (*What the Record Refuses*,
+    psionics), where the Krenyi side channel is micro-expression, word
+    choice and small hand signals, deliberate and only ever adding to what
+    is said aloud; the Haruchai are warriors, and the Krenyi are not, in a
+    Corps no branch of which is military; the Haruchai are proud and judge
+    failure, their own above all, without mercy, where a Krenyi declines
+    glory and softens the delivery, never the fact, and is not recorded
+    holding anyone in contempt; the Haruchai are human, the Krenyi of
+    independent origin on the human frame. The useful lesson is the near
+    miss itself: the nearest template is the one most likely to leak into a
+    draft, so a Krenyi scene that turns martial, prideful or mind-to-mind has
+    drifted toward it.
   - *For prompts and prose:* no pointed ears, no luminous skin, no sorrowful
     or ancient gaze, no flowing robes or circlets; no clipped emotionless
     delivery and no raised-eyebrow condescension. The existing Krenyi
