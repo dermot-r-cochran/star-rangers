@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Journal: Questions a Researcher Might Ask** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, at Dermot's request). A companion to *The Notebook Behind the Novel* covering the questions a researcher is likely to bring: who writes what, which models were used, how decisions and mistakes are recorded, image provenance, reproducing a release, what research use is welcome (quotation, analysis, text-mining and a non-commercial research corpus, within CC BY-NC-ND 4.0), the new research@fianilchruinne.com contact, and how complete the story bible is.
+
 - **Journal: The Notebook Behind the Novel** (`src/journal/the-notebook-behind-the-novel.md`, 2026-10-17, at Dermot's request). A map of the record's own process notes for readers who come from the citation: the intakes, changelog, git history, working rules and Journal, where each lives, how to cite one state of a work that is never finished, and what the notebook cannot show. It describes the story bible's kinds of record without quoting any of them.
 
 - **CITATION.cff** (`CITATION.cff`, 2026-10-17, at Dermot's request). The repository now carries citation metadata, so GitHub shows a "Cite this repository" button. Its preferred citation names the work as *Fian Ilchruinne* by Dermot Cochran at fianilchruinne.com, a website, not the repository name `star-rangers`, which is the retired title. There is no version or release date in the file, because both would go stale at each release; it asks citers to use a chapter's permanent /c/ link and give the date they accessed it.
