@@ -217,6 +217,8 @@ The consequence for anyone keeping the record is a single discipline, and it is 
 
 The Krenyi build no agentic machines and run none. The posture is neither prohibition nor incapacity — Krenyi instrumentation is as good as anyone's — and a Krenyi asked to justify it generally declines the premise: needing no AI and wanting none are, to them, one fact rather than two. It is the same shape as everything else Quiet-Built. A species that expects to spend centuries becoming precise sees no gap in itself that a manufactured mind would fill, and the [AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/)'s commissioning gate has accordingly never had anything to say to them.
 
+Declining to build them is not declining to work beside them: a Krenyi Ranger serves alongside lawful minds like anyone else, and why a Krenyi is often first to move correctly in an unexpected case, without being more right than the minds beside her, is set out in [Embodied Cognition](/star-rangers/lore/embodied-cognition/#the-case-in-a-person).
+
 ## The Terminology
 
 - **Krenyi**: the species name, used to avoid confusion with Naiads (flow-anchored entities, not persons).
