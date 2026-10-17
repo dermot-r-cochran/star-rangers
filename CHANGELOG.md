@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Research use, worded precisely** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, at Dermot's question *"An altered version?"*). The research-use answer no longer says that sharing any altered version is outside the licence, which seemed to contradict the fan-works exception. It now says commercial use needs permission; non-commercial fan works are welcome under the exception; processed or annotated research copies (tokenised, tagged, excerpted) may be shared on the same non-commercial, attributed terms; and a rewritten or edited version must not be published as the work.
+
 - **Journal: Questions a Researcher Might Ask** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, at Dermot's request). A companion to *The Notebook Behind the Novel* covering the questions a researcher is likely to bring: who writes what, which models were used, how decisions and mistakes are recorded, image provenance, reproducing a release, what research use is welcome (quotation, analysis, text-mining and a non-commercial research corpus, within CC BY-NC-ND 4.0), the new research@fianilchruinne.com contact, and how complete the story bible is.
 
 - **Journal: The Notebook Behind the Novel** (`src/journal/the-notebook-behind-the-novel.md`, 2026-10-17, at Dermot's request). A map of the record's own process notes for readers who come from the citation: the intakes, changelog, git history, working rules and Journal, where each lives, how to cite one state of a work that is never finished, and what the notebook cannot show. It describes the story bible's kinds of record without quoting any of them.

@@ -28,7 +28,7 @@ tags: [process, authorship, method]
 
 ## What may I do with it?
 
-**May I quote it, analyse it, or mine it as text?** Yes. Quote it with attribution. For non-commercial research you are welcome to read, analyse and text-mine the whole record, prose and process notes alike, and to keep a copy of it as a research corpus. The content licence is CC BY-NC-ND 4.0, so any copy you share must be unaltered, attributed and non-commercial. Commercial use, or sharing an altered version, is outside that licence, and I would want to be asked first.
+**May I quote it, analyse it, or mine it as text?** Yes. Quote it with attribution. For non-commercial research you are welcome to read, analyse and text-mine the whole record, prose and process notes alike, and to keep a copy of it as a research corpus. The content licence is CC BY-NC-ND 4.0, and commercial use needs my permission. Non-commercial fan works are already welcome under the licence's [fan-works exception](https://github.com/dermot-r-cochran/star-rangers/blob/main/CONTENT-LICENSE.md#fan-works-policy). For research, sharing processed or annotated copies of the text, whether tokenised, tagged or excerpted for analysis, is also welcome on the same non-commercial, attributed terms. Publishing a rewritten or edited version of the story as if it were the work is not.
 
 **How do I cite it?** The repository carries a citation file, and GitHub's *Cite this repository* button produces a reference from it. Cite a chapter by its permanent `/c/` link, and give the date you read it, or the release tag if you worked from the repository.
 
