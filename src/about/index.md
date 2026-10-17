@@ -117,9 +117,10 @@ eleventyComputed:
   intelligence, to software design. The Danish and Irish counting rules were specified in Alloy,
   whose analyser hands a design to a SAT solver and asks it for a counterexample, and the Java
   implementation was written against JML contracts, checked both statically, by automated provers
-  before the code ran, and at runtime, as assertions while it ran. The Alloy and JML sources are
+  before the code ran, and at runtime, as assertions while it ran. The JML-annotated sources are
   public as <a href="https://github.com/FreeAndFair/Votail">Votail</a>, from work within ITU's
-  <a href="https://demtech.dk">DemTech</a> research project. The lesson it taught
+  <a href="https://demtech.dk">DemTech</a> research project, and the Alloy models are printed in
+  the thesis's appendices. The lesson it taught
   is that software looks correct until a machine finds the case where it is not, and that is the
   problem generative AI has since made everyone's: a model can propose code, and specifications,
   invariants and automated checks decide what ships. The author works as a software engineer,
