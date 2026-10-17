@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A singular exception stays singular** (`CLAUDE.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17, from Dermot's note on the exception that proves the rule). The repo's rules now name the principle behind four single exceptions: the Krenyi, Tír na nÓg, Underwriters Laboratories and General Krast's line. A second instance of any of them is never added without his ruling.
+
 - **Researcher questions: kinds of ambiguity** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, from Dermot's note that some ambiguities are intentional, some are loose ends and some are open for future work). A new answer separates the three and says where the story bible tracks each.
 
 - **Research use, worded precisely** (`src/journal/questions-a-researcher-might-ask.md`, 2026-10-17, at Dermot's question *"An altered version?"*). The research-use answer no longer says that sharing any altered version is outside the licence, which seemed to contradict the fan-works exception. It now says commercial use needs permission; non-commercial fan works are welcome under the exception; processed or annotated research copies (tokenised, tagged, excerpted) may be shared on the same non-commercial, attributed terms; and a rewritten or edited version must not be published as the work.
