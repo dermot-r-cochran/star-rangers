@@ -120,7 +120,7 @@ eleventyComputed:
   before the code ran, and at runtime, as assertions while it ran. The JML-annotated sources are
   public as <a href="https://github.com/FreeAndFair/Votail">Votail</a>, from work within ITU's
   <a href="https://demtech.dk">DemTech</a> research project, and the Alloy models are printed in
-  the thesis's appendices. The lesson it taught
+  the thesis's appendices. Voting, above, is a fresh engine built on the same discipline. The lesson it taught
   is that software looks correct until a machine finds the case where it is not, and that is the
   problem generative AI has since made everyone's: a model can propose code, and specifications,
   invariants and automated checks decide what ships. The author works as a software engineer,

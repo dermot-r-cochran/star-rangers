@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **About page says Voting is a fresh engine** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph now says the Voting repository is a fresh engine built on the thesis's discipline, rather than leaving it to be read as the thesis code.
+
 - **Thesis sources corrected** (`src/about/index.md`, `src/journal/the-same-discipline-at-a-different-desk.md`, 2026-10-17, at Dermot's correction). The About page and the journal entry said the Alloy and JML sources were both in Votail. The repository has since moved and the Alloy code is no longer in it, so both pages now say the JML-annotated sources are in Votail and the Alloy models are printed in the thesis's appendices.
 
 - **About page links the thesis sources** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph now says the Alloy and JML sources are public as Votail on GitHub, from work within ITU's DemTech research project, and links both. The new journal entry carries the same links.
