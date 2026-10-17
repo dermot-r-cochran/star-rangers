@@ -9,6 +9,7 @@ abstract: >-
 authors:
   - family-names: Cochran
     given-names: Dermot
+    orcid: "https://orcid.org/0009-0002-9746-0187"
 repository-code: "https://github.com/dermot-r-cochran/star-rangers"
 url: "https://fianilchruinne.com/"
 license:
@@ -25,6 +26,7 @@ preferred-citation:
   authors:
     - family-names: Cochran
       given-names: Dermot
+      orcid: "https://orcid.org/0009-0002-9746-0187"
   url: "https://fianilchruinne.com/"
   notes: >-
     Published and revised continuously. Cite a chapter by its permanent
