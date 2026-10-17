@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Tables are readable** (`src/css/main.css` and the generated themes, 2026-10-17, from Dermot's screenshot of *Forking This Site*). The site had no table styling, so cells ran into each other with no padding and centred headers. Page tables now have padding, a rule under each row, left-aligned headers and sideways scrolling on narrow screens. This also covers the summary table on *What the Record Refuses*.
+
+- **IndexNow waits for its key** (`scripts/indexnow.js`, 2026-10-17). The first live submission was refused with HTTP 403 because GitHub Pages had not yet started serving the new key file. The submit step now waits up to three minutes for the key to be reachable and retries a 403 once. The 1,014 refused URLs were resent by hand.
+
 - **IndexNow on every deploy** (`scripts/indexnow.js`, `scripts/cpanel-deploy.sh`, `.github/workflows/deploy.yml`, `src/static/indexnow/`, 2026-10-17, at Dermot's request). Each deploy now tells Bing and the other IndexNow engines which pages changed, instead of waiting for a recrawl. It compares each sitemap page's main content with the manifest the previous deploy left behind, and after the upload it sends the new, changed and removed URLs. Editions with an empty sitemap send nothing. A failure never fails a deploy. The key file is served at each site's root. Google does not use IndexNow.
 
 - **No social media in the 29th century** (`src/lore/what-the-record-refuses.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17, from Dermot's ruling). A new subsection, *The feed is refused, for the holodeck's reason and a plainer one*, and a row in the summary table: the twenty-first century's social media has no equivalent here. It was never banned; it was given up, because the feed delivered more than a mind can weigh at a cost to mental health, and it fails the record's source-and-date discipline as the holodeck does. Publishing, correspondence and public argument go on as before. Also restores this file's opening sentence, which seven of today's entries had split.
