@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **New journal entry: [The Same Discipline at a Different Desk](src/journal/the-same-discipline-at-a-different-desk.md)** (2026-10-17, at Dermot's request). On why his engineering and applied-AI skills are not set aside in writing the novel. The thesis's JML contracts reappear as the `npm test` gates, its habits as the record's doctrine, and its AI work as the site's written rules for models. It also names the one thing the tools cannot do: judge whether the writing is worth reading.
+
 - **About page links the author's Google Scholar profile** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph in *The engineering behind the record* ends with a link to his publications on Google Scholar, in place of a count that would go stale.
 
 - **About page names the author's career** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph in *The engineering behind the record* adds that he works as a software engineer, latterly specialising in applied AI. No employer is named.
