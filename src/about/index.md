@@ -114,7 +114,8 @@ eleventyComputed:
   of Copenhagen, 2013). It applied automated reasoning, the symbolic branch of artificial
   intelligence, to software design. The Danish and Irish counting rules were specified in Alloy,
   whose analyser hands a design to a SAT solver and asks it for a counterexample, and the Java
-  implementation was written against JML contracts that a machine can check. The lesson it taught
+  implementation was written against JML contracts, checked both statically, by automated provers
+  before the code ran, and at runtime, as assertions while it ran. The lesson it taught
   is that software looks correct until a machine finds the case where it is not, and that is the
   problem generative AI has since made everyone's: a model can propose code, and specifications,
   invariants and automated checks decide what ships. The journal entry
