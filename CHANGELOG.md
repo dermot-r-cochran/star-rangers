@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **About page names the PhD behind the engineering** (`src/about/index.md`, 2026-10-17, at Dermot's request). *The engineering behind the record* gains a paragraph on his 2013 IT University of Copenhagen thesis, *Formal Specification and Analysis of Danish and Irish Ballot Counting Algorithms*, linked to its ITU copy. It describes the thesis as automated reasoning, the symbolic branch of AI, applied to software design (Alloy with a SAT solver, JML contracts checked statically and at runtime), names it as the root of the three repositories the section lists, and links *The External Codex*.
+
 - **Krenyi speech in a mixed room and in an emergency** (`src/lore/krenyi.md`, `story-bible/language-design.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17). In a room with others the Krenyi keep to the room's pace out of politeness. What else they need to pass to each other goes by micro-expression, word choice and small hand signals, which stay below human notice, only ever add to what is said aloud and are told when asked. In an emergency the courtesy lapses and they speak at their own speed out loud, which signals time pressure, not alarm.
 
 - **Arashobal volunteered** (`src/characters/arashobal.md`, 2026-10-17). Her page now says she came to the Corps as a volunteer, with the approval of her elders and mentors, read as counsel she sought rather than a permission anyone could withhold.
