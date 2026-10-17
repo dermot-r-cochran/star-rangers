@@ -19,10 +19,14 @@ keywords:
   - science fiction
   - web fiction
   - multi-viewpoint novel
+  - human-AI creative writing
 preferred-citation:
   type: website
   title: "Fian Ilchruinne"
-  abstract: "A multi-viewpoint science-fiction novel published on the web."
+  abstract: >-
+    A multi-viewpoint science-fiction novel published on the web, and an
+    ongoing human-AI creative writing project. The repository's intake
+    records, changelog, journal and git history document the process.
   authors:
     - family-names: Cochran
       given-names: Dermot
