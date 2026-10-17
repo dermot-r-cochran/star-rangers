@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Thesis sources corrected** (`src/about/index.md`, `src/journal/the-same-discipline-at-a-different-desk.md`, 2026-10-17, at Dermot's correction). The About page and the journal entry said the Alloy and JML sources were both in Votail. The repository has since moved and the Alloy code is no longer in it, so both pages now say the JML-annotated sources are in Votail and the Alloy models are printed in the thesis's appendices.
+
 - **About page links the thesis sources** (`src/about/index.md`, 2026-10-17, at Dermot's request). The thesis paragraph now says the Alloy and JML sources are public as Votail on GitHub, from work within ITU's DemTech research project, and links both. The new journal entry carries the same links.
 
 - **New journal entry: [The Same Discipline at a Different Desk](src/journal/the-same-discipline-at-a-different-desk.md)** (2026-10-17, at Dermot's request). On why his engineering and applied-AI skills are not set aside in writing the novel. The thesis's JML contracts reappear as the `npm test` gates, its habits as the record's doctrine, and its AI work as the site's written rules for models. It also names the one thing the tools cannot do: judge whether the writing is worth reading.
