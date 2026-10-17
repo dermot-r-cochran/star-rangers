@@ -1,6 +1,8 @@
 # Changelog
 
-A- **Krenyi wear no make-up** (`src/lore/krenyi.md`, `story-bible/civilian-dress.md` principle 14, 2026-10-17). Krenyi use a protective cream for hands and face sparingly when conditions call for it, and avoid make-up in general, extending the ruling that a Krenyi dresses plainly to the face.
+A- **The Case in a Person** (`src/lore/embodied-cognition.md`, `src/lore/krenyi.md`, 2026-10-17). A new section on the embodied-cognition page on why a Krenyi is often first to move correctly in an unexpected case, ahead of systems minds, embodied machines and humans, each for a different reason. It also says why that is not being more right: the reading is a sensation, not a finding, and the record ranks none of the three kinds of mind. A constraint files a Krenyi reading as testimony, and the Krenyi page points to the section.
+
+- **Krenyi wear no make-up** (`src/lore/krenyi.md`, `story-bible/civilian-dress.md` principle 14, 2026-10-17). Krenyi use a protective cream for hands and face sparingly when conditions call for it, and avoid make-up in general, extending the ruling that a Krenyi dresses plainly to the face.
 
 - **Arashobal: portrait, first role and age; Toval's fast track** (`src/characters/arashobal.md`, `src/images/characters/arashobal.jpg`, `src/lore/star-rangers-academy.md`, `src/characters/toval.md`, `story-bible/images.md` § 18, `story-bible/intake-2026-10-17.md`, 2026-10-17). Arashobal is now a Survey Corps Chief Ranger who served beside Chief Pilot Wender as the senior of two fellow Chiefs, before Wender asked her across as chief of staff. That post carries more responsibility at the same rank. She is about fifty by human measure and looks about twenty-eight. Her portrait is filed from the third generation round. The Academy's intake gains a faster road to Cadet for older candidates with relevant experience, with Toval as the example.
 
