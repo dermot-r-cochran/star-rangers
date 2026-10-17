@@ -111,7 +111,9 @@ eleventyComputed:
   All three go back to the author's PhD,
   <a href="https://researcher.itu.dk/ws/portalfiles/portal/109063637/130422_FINAL_for_PRINT_BOOK_FORMAT_dermotcochran_phd_dissertation_post_defense.pdf"><em>Formal
   Specification and Analysis of Danish and Irish Ballot Counting Algorithms</em></a> (IT University
-  of Copenhagen, 2013). It applied automated reasoning, the symbolic branch of artificial
+  of Copenhagen, 2013), which followed a bachelor's degree in Mathematical Science (Trinity College
+  Dublin, 1992), a master's in Industrial Engineering (University College Dublin, 2003) and an MSc
+  in Advanced Software Engineering (University College Dublin, 2007). The thesis applied automated reasoning, the symbolic branch of artificial
   intelligence, to software design. The Danish and Irish counting rules were specified in Alloy,
   whose analyser hands a design to a SAT solver and asks it for a counterexample, and the Java
   implementation was written against JML contracts, checked both statically, by automated provers
