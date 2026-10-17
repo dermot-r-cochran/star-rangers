@@ -51,6 +51,11 @@ age beyond *older than Syra*; a portrait (none queued); whether the page
 names her as part of the command ship's complement or leaves the ship unnamed
 (drafted unnamed).
 
+Also 17 October, same intake, *Krenyi speech: two speeds*: realized on the
+Krenyi lore page and Arashobal's page; one reading open, whose pace a mixed
+room gets (the listener furthest from the matter recommended, kept off the
+page until a chapter needs it).
+
 ## Portraits for the Codex authors whose pages state no species — raised 16 October 2026, RULED same day, A (*"Option A accepted"*): bare until a page states a species
 
 Fourteen Codex-author pages state no species (the list is in `images.md` § 17), and Halle Ostrander's is unstated by his choice of 12 October. The 7 October rule gives every person a portrait; the pages mark species as an absence, and a picture cannot leave a body's kind unstated. Choices: (A) keep them bare until a page states a species, recommended; (B) state a species on each page first, then prompt in batches; (C) frame each so the body's kind cannot be read. The eight with a stated species are queued for Fable's prompts meanwhile (`prompt-sheet.md` § 2.15).

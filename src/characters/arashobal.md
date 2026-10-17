@@ -37,6 +37,8 @@ A theatre's work is written up under the names of the officers who were at the e
 
 She is honest to the degree the Quiet-Built are, and diplomatic in the only way they are: she chooses which true thing to say, to whom, and when, and softens the delivery and never the fact. A High Captain who wanted her staff to tell her something kinder than the case would get the case, kindly.
 
+She speaks [at her listener's speed](/star-rangers/lore/krenyi/#social-and-relational), as her people do with anyone who is not Krenyi, and in a staff office that habit is most of the work: one objective briefed in a specialist's shorthand to a Chief and in full to a Deputy a week into the posting, the fact the same in both.
+
 ## On the name
 
 *Nai* before her name is the state-marker, *still relevant here*, and not a title. Aboard the command ship she is addressed as Nai Arashobal by those who have learned what it means, and as Chief by those who have not, and she answers to both without correcting either.

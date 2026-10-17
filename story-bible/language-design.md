@@ -86,6 +86,15 @@ channel shapes the language more than anything else about it.
 - **The Told** — a spoken record and no other; and, older than speech for the
   purpose of announcing oneself, *a stone moved*, so the ground says you are
   there before you are seen. Their first word to a stranger is not a word.
+- **Krenyi** — speech on the human frame, in the same air and often the same
+  language, at two speeds (Dermot, 17 October 2026): fast and clipped between
+  themselves, and slowed, filled in and pitched to the listener's expertise
+  and pace when addressing anyone else. The channel is cheap; what the clipped
+  register drops is the reasoning each Krenyi already reads in the other. The
+  failure it invites is *same language, lost at speed and shorthand*: a human who follows a
+  Krenyi's formal briefing loses two Krenyi in conversation, his own analogy
+  being formal spoken Danish against ordinary conversation in Copenhagen.
+  See `src/lore/krenyi.md`, *Social and Relational*.
 
 *The question a season should ask first:* what does it cost this people to
 say a thing, and what is free? Everything in question 2 follows from it.
