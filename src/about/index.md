@@ -107,6 +107,20 @@ eleventyComputed:
   explicit, human-owned, and auditable; the working agreement that governs how this site is
   written and reviewed is a live instance of it, and appears in that repository as a case study.
 </p>
+<p>
+  All three go back to the author's PhD,
+  <a href="https://researcher.itu.dk/ws/portalfiles/portal/109063637/130422_FINAL_for_PRINT_BOOK_FORMAT_dermotcochran_phd_dissertation_post_defense.pdf"><em>Formal
+  Specification and Analysis of Danish and Irish Ballot Counting Algorithms</em></a> (IT University
+  of Copenhagen, 2013). It applied automated reasoning, the symbolic branch of artificial
+  intelligence, to software design. The Danish and Irish counting rules were specified in Alloy,
+  whose analyser hands a design to a SAT solver and asks it for a counterexample, and the Java
+  implementation was written against JML contracts that a machine can check. The lesson it taught
+  is that software looks correct until a machine finds the case where it is not, and that is the
+  problem generative AI has since made everyone's: a model can propose code, and specifications,
+  invariants and automated checks decide what ships. The journal entry
+  <a href="/star-rangers/journal/the-external-codex/">The External Codex</a> says what this
+  record took from the thesis, and why the record itself never cites it.
+</p>
 
 <h2 id="fan-works">Fan fiction</h2>
 <p>
