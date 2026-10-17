@@ -1,6 +1,8 @@
 # Changelog
 
-A- **Public-domain fiction rule** (`CLAUDE.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17). Real-world fiction may be cited in the Codex and the Journal only when it is public domain in both the US and Ireland: published in or before 1930, with its author dead by 1955, as of 2026, and both dates move each year. Any translation used must pass the same test. A work is cited as fiction by title and author and never as foreknowledge or evidence. It is never cited in lore, the glossary or Archive narration.
+A- **The command ship Fel Trohen** (`src/characters/arashobal.md`, `src/characters/karla-wender.md`, `src/lore/star-rangers-command-hierarchy.md`, 2026-10-17). The first command ship named in the record is the *Fel Trohen*, High Captain Wender's, whose staff Arashobal runs. It is named on both characters' pages and on the command-hierarchy page. The name is not glossed.
+
+- **Public-domain fiction rule** (`CLAUDE.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17). Real-world fiction may be cited in the Codex and the Journal only when it is public domain in both the US and Ireland: published in or before 1930, with its author dead by 1955, as of 2026, and both dates move each year. Any translation used must pass the same test. A work is cited as fiction by title and author and never as foreknowledge or evidence. It is never cited in lore, the glossary or Archive narration.
 
 - **The Haruchai as the nearest template** (`story-bible/species-design.md`, `story-bible/intake-2026-10-17.md`, 2026-10-17). The Vulcan-and-Elf trap note gains a third case: the Haruchai of the Thomas Covenant Chronicles. The note records what rhymes with the Krenyi and what does not: mind-speech, martial pride and human descent all differ. Because the nearest template is the one likeliest to leak into a draft, the note names the signs of drift.
 
