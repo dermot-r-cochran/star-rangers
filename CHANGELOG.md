@@ -1,6 +1,10 @@
 # Changelog
 
-All notable changes to this project are documented in this file and, for releases [1.35.0] and older, in its archive in [`changelog/`](changelog/README.md).
+A- **Krenyi wear no make-up** (`src/lore/krenyi.md`, `story-bible/civilian-dress.md` principle 14, 2026-10-17). Krenyi use a protective cream for hands and face sparingly when conditions call for it, and avoid make-up in general, extending the ruling that a Krenyi dresses plainly to the face.
+
+- **Arashobal: portrait, first role and age; Toval's fast track** (`src/characters/arashobal.md`, `src/images/characters/arashobal.jpg`, `src/lore/star-rangers-academy.md`, `src/characters/toval.md`, `story-bible/images.md` § 18, `story-bible/intake-2026-10-17.md`, 2026-10-17). Arashobal is now a Survey Corps Chief Ranger who served beside Chief Pilot Wender as the senior of two fellow Chiefs, before Wender asked her across as chief of staff. That post carries more responsibility at the same rank. She is about fifty by human measure and looks about twenty-eight. Her portrait is filed from the third generation round. The Academy's intake gains a faster road to Cadet for older candidates with relevant experience, with Toval as the example.
+
+ll notable changes to this project are documented in this file and, for releases [1.35.0] and older, in its archive in [`changelog/`](changelog/README.md).
 
 The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and version numbers follow [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`, where `MINOR` covers backward-compatible additions (a new lore entry, a new deploy.conf key, a new theme) and `PATCH` covers fixes with no new surface area. Nothing in this project's history so far has required a `MAJOR` bump: every `deploy.conf` key, theme, and build output added has been additive, and every default has stayed backward compatible.
 

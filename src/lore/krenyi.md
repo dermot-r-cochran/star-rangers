@@ -92,6 +92,7 @@ The page opens on posture steady, gaze direct, no wasted gesture, and it is wort
 - Diplomatic and polite, and essentially honest: the manner is theirs and the honesty is the floor under it. See below.
 - No flirtation or small talk: they move directly to material terms. This is not rudeness; it is efficiency.
 - Two speeds of speech: between themselves, fast and clipped; addressing anyone else, matched to the listener's expertise and pace. See below.
+- Plain-faced: a protective cream for hands and face, used sparingly where the air or the weather calls for it, and no make-up as a rule. The face is not presented, for the same reason nothing on a Krenyi is ornament.
 - Initially trusting: they extend good faith first. They detect pattern drift (when a social situation stops matching its stated terms) and withdraw relevance quietly rather than confronting.
 
 The demisexuality explains something the list above records as three separate traits. No flirtation, no small talk, and straight to material terms is not brusqueness with a social cost the Krenyi have decided to absorb — it is simply what a people look like when nothing whatever is being opened by the preliminaries. A Krenyi is not declining to flirt. There is no stage of a Krenyi relationship at which flirting would be doing anything.

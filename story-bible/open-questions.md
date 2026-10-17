@@ -35,7 +35,7 @@ reason. Verify against the repo before acting on any line here.
 
 ---
 
-## Arashobal, a Krenyi chief of staff — raised 17 October 2026, DRAFTED same day, four readings open
+## Arashobal, a Krenyi chief of staff — raised 17 October 2026, DRAFTED same day, one reading open
 
 `intake-2026-10-17.md`. Drafted from Dermot's note as
 `src/characters/arashobal.md`: a Krenyi Chief on the general operations track,
@@ -48,9 +48,10 @@ pattern drift, the long horizon and honesty, with no new species trait; the
 community left but never named or placed; no chapter cited; the out-of-world
 origin note kept out of `src/`. Why she left: RULED the same day, *she
 volunteered with the approval of her elders and mentors* (approval read as
-counsel, not permission). Open, his: first appearance; her
-age beyond *older than Syra*; a portrait (none queued); whether the page
-names her as part of the command ship's complement or leaves the ship unnamed
+counsel, not permission). First appearance (beside Chief Pilot Wender, as a
+fellow Chief, Survey Corps), age (fifty by human measure, looking
+twenty-eight) and portrait: all RULED or FILED the same day. Open, his:
+whether the page names her as part of the command ship's complement or leaves the ship unnamed
 (drafted unnamed).
 
 Also 17 October, same intake, *Krenyi speech: two speeds*: realized on the
