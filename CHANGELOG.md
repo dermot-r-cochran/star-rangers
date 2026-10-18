@@ -6,9 +6,13 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.44.0] — 2026-10-18
+
+The tone rule now allows quiet jokes and refuses sarcasm, mockery and cynical horror, and the record rules out any power that could make a people into an evil kind. The Journal, the Story Engine page and the site's images, audio and video are now inside the story licence, with the authorship stated in Dermot's words.
+
 - **Quiet jokes, and the two registers refused** (`CLAUDE.md`, `story-bible/intake-2026-10-18.md`, 2026-10-18, from Dermot's note). The tone rule now covers humour: quiet jokes the record does not signal are allowed, while sarcasm and mockery, and cynical horror, are refused, with a test for each and the record's own worked examples. A second clause, at his note on *The Lord of the Rings*, records that no power in the record can make, breed or corrupt a people into an evil kind.
 
-- **The Journal, the Story Engine page and the site's media are story content** (`CONTENT-LICENSE.md`, `CLAUDE.md`, `README.md`, `FORKING.md`, 2026-10-18, at Dermot's request). The licence's scope list left out `src/journal/`, `src/story-engine/`, `src/images/`, `src/audio/` and `src/video/`, so by its own "everything else" sentence they read as MIT. All five are now in the CC BY-NC-ND 4.0 scope, with `CONTENT-LICENSE.md` saying why. Two things stay MIT: the favicons in `src/images/icons/` and the About page's prose. The one third-party picture, the Webb "Cosmic Cliffs" image behind the Noögenic Seeding System entry (NASA, ESA, CSA and STScI), is named as outside the licence. The licence and the About page's *How this site is written* now both state the authorship in Dermot's words: the characters and story ideas are his, and the prose is his own or written by Claude Fable under his direction.
+- **The Journal, the Story Engine page and the site's media are story content** (`CONTENT-LICENSE.md`, `CLAUDE.md`, `README.md`, `FORKING.md`, 2026-10-18, at Dermot's request). The licence's scope list left out `src/journal/`, `src/story-engine/`, `src/images/`, `src/audio/` and `src/video/`, so they read as MIT. All five are now under CC BY-NC-ND 4.0. The favicons in `src/images/icons/` and the About page's prose stay MIT, and the Webb "Cosmic Cliffs" image (NASA, ESA, CSA and STScI) is named as outside the licence. The licence and the About page now state the authorship in Dermot's words: the characters and story ideas are his, and the prose is his own or written by Claude Fable under his direction.
 
 ## [1.43.0] — 2026-10-17
 
