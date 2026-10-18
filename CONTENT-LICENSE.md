@@ -2,9 +2,9 @@
 
 This licence covers the **story, world-building, and narrative content** of *Fian Ilchruinne* only — not the Eleventy site engine, layouts, or deployment tooling in this repository, which are separately licensed under MIT (see `LICENSE`).
 
-In scope: `src/seasons/`, `src/threads/`, `src/characters/`, `src/timeline/`, `src/lore/`, `src/glossary/`, `src/codex/`, `src/journal/`, `src/story-engine/`, `story-bible/`, and `prompts/`. Everything else in this repository — the Eleventy config, layouts/CSS/JS, `lib/`, `scripts/`, and the About page's own prose — is MIT-licensed code/documentation, not narrative content.
+In scope: `src/seasons/`, `src/threads/`, `src/characters/`, `src/timeline/`, `src/lore/`, `src/glossary/`, `src/codex/`, `src/journal/`, `src/story-engine/`, `src/images/` (except `src/images/icons/`), `src/audio/`, `src/video/`, `story-bible/`, and `prompts/`. Everything else in this repository — the Eleventy config, layouts/CSS/JS, `lib/`, `scripts/`, and the About page's own prose — is MIT-licensed code/documentation, not narrative content.
 
-The Journal (`src/journal/`) and the Story Engine page (`src/story-engine/`) are in scope although they are not narrative: they are the author's own writing about the story, its reasoning and its craft, not documentation of the engine.
+The Journal (`src/journal/`) and the Story Engine page (`src/story-engine/`) are in scope although they are not narrative: they are the author's own writing about the story, its reasoning and its craft, not documentation of the engine. The pictures, music and clips in `src/images/`, `src/audio/` and `src/video/` are in scope as part of the work, to the extent the author holds rights in them; the favicons in `src/images/icons/` belong to the site's interface and stay MIT with it.
 
 ## Fan Works Policy
 

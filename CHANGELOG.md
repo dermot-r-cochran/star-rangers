@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **The Journal and the Story Engine page are story content** (`CONTENT-LICENSE.md`, `CLAUDE.md`, `README.md`, `FORKING.md`, 2026-10-18, at Dermot's request). The licence's scope list left out `src/journal/` and `src/story-engine/`, so by its own "everything else" sentence they read as MIT. Both are now in the CC BY-NC-ND 4.0 scope, with one sentence in `CONTENT-LICENSE.md` saying why: they are the author's writing about the story, not documentation of the engine. The About page's prose stays MIT.
+- **The Journal, the Story Engine page and the site's media are story content** (`CONTENT-LICENSE.md`, `CLAUDE.md`, `README.md`, `FORKING.md`, 2026-10-18, at Dermot's request). The licence's scope list left out `src/journal/`, `src/story-engine/`, `src/images/`, `src/audio/` and `src/video/`, so by its own "everything else" sentence they read as MIT. All five are now in the CC BY-NC-ND 4.0 scope, with `CONTENT-LICENSE.md` saying why. Two things stay MIT: the favicons in `src/images/icons/` and the About page's prose.
 
 ## [1.43.0] — 2026-10-17
 
