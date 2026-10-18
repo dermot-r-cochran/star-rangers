@@ -31,7 +31,9 @@ See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-an
 
 - **Before Season 1:** Novice → Cadet → Deputy → Officer → Senior → Principal → Section Lead → Chief — the whole climb on the piloting and navigation track, no rotations, one specialization
 - **Season 1:** Chief Pilot, pilot department
-- **2829 UCSD, Late Autumn:** Line Captain, when the Corps paired her with the newly promoted Starwarden Shepherd as mentor ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)); whether she passed through Starwarden and Archwarden to reach it, or was advanced out of turn, the record has not said
+- **Through the summer of 2828 UCSD:** still Chief Pilot at Threshold ([Aware of Weather (S03E02C01)](/star-rangers/seasons/s03/e02/s03e02c01/))
+- **By the early spring of 2829 UCSD:** Starwarden at least, out of the Chief Pilot's chair; her post and the date of the step are not recorded
+- **2829 UCSD, Late Autumn:** Line Captain, when the Corps paired her with the newly promoted Starwarden Shepherd as mentor ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)); whether she passed through Archwarden to reach it, or was advanced out of turn, the record has not said
 - **Season 5:** High Captain (the step from Line Captain to be established in story), holding the command ship *Fel Trohen*, with [Arashobal](/star-rangers/characters/arashobal/) as her chief of staff
 
 See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for the full ladder Chief Pilot and High Captain sit on.
