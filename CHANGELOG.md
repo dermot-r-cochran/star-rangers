@@ -6,6 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **New chapters go first to the established threads** (`story-bible/intake-2026-10-18.md`, `open-questions.md`, `narrative-gaps-checklist.md`, 2026-10-18, Dermot's choice of option (a)). New narrative is prioritised for the Tissadelle Shepherd arc, Orbital Five-O and Below the Roof over spreading across all eight threads. The intake records where each thread's next chapters are. Which thread comes first is put as three choices. The checklist's chapter counts for the Tissadelle arc and Five-O are corrected to 37 and 10.
 - **Mars names the Military Space Command among its governments** (`src/lore/planets/mars.md`, 2026-10-18, Dermot's choice of option (a)). A clarification. The opening counted four governments, leaving out the Military Space Command and calling the Solar System Defence Command a government. It now lists five governing arrangements: the Navigation and Trade Accords, the United Space Consortium, the Imperium, the Military Space Command, and today's government under the Concord's framework, whose military is the Defence Command. The present civil government stays unnamed, as a marked absence. The description is amended to match.
 
 ## [1.44.0] — 2026-10-18

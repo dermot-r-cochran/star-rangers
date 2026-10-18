@@ -30,9 +30,9 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | Thread | Seasons | Chapters | State |
 |---|---|---|---|
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
-| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 36 | The spine. Ends written; middle thin (S3 four chapters, its Episode 2 opened 4 October 2026); S5 gained its E00 the same day; S1 gained her first viewpoint 7 October 2026 (*Station Time*, S01E01C04) — until then no Season 1 chapter named her |
+| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 37 | The spine. Ends written; middle thin (S3 four chapters, its Episode 2 opened 4 October 2026); S5 gained its E00 the same day; S1 gained her first viewpoint 7 October 2026 (*Station Time*, S01E01C04) — until then no Season 1 chapter named her |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
-| **Orbital Five-O** | 4, 10 | 9 | Season 4 two chapters, its E00 the Shepherd guest (4 October 2026); Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
+| **Orbital Five-O** | 4, 10 | 10 | Season 4 three chapters (*Not a Thing You Send* added since), its E00 the Shepherd guest (4 October 2026); Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
 | **Young Star Rangers** | 9 | 5 | **Complete** — one episode, the corridor season; the fifth chapter (3 October 2026) pays the officer's silence, ruled complete the same day |
 | **Below the Roof** | 11, 12 | 17 | Two seasons, each two episodes, both complete (`below-the-roof-second-season-treatment.md`) |
