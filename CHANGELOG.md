@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **The Journal, the Story Engine page and the site's media are story content** (`CONTENT-LICENSE.md`, `CLAUDE.md`, `README.md`, `FORKING.md`, 2026-10-18, at Dermot's request). The licence's scope list left out `src/journal/`, `src/story-engine/`, `src/images/`, `src/audio/` and `src/video/`, so by its own "everything else" sentence they read as MIT. All five are now in the CC BY-NC-ND 4.0 scope, with `CONTENT-LICENSE.md` saying why. Two things stay MIT: the favicons in `src/images/icons/` and the About page's prose.
+- **The Journal, the Story Engine page and the site's media are story content** (`CONTENT-LICENSE.md`, `CLAUDE.md`, `README.md`, `FORKING.md`, 2026-10-18, at Dermot's request). The licence's scope list left out `src/journal/`, `src/story-engine/`, `src/images/`, `src/audio/` and `src/video/`, so by its own "everything else" sentence they read as MIT. All five are now in the CC BY-NC-ND 4.0 scope, with `CONTENT-LICENSE.md` saying why. Two things stay MIT: the favicons in `src/images/icons/` and the About page's prose. The one third-party picture, the Webb "Cosmic Cliffs" image behind the Noögenic Seeding System entry (NASA, ESA, CSA and STScI), is named as outside the licence.
 
 ## [1.43.0] — 2026-10-17
 
