@@ -31,8 +31,12 @@ See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-an
 
 - **Before Season 1:** Novice → Cadet → Deputy → Officer → Senior → Principal → Section Lead → Chief — the whole climb on the piloting and navigation track, no rotations, one specialization
 - **Season 1:** Chief Pilot, pilot department
-- **2829 UCSD, Late Autumn:** Line Captain, when the Corps paired her with the newly promoted Starwarden Shepherd as mentor ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)); whether she passed through Starwarden and Archwarden to reach it, or was advanced out of turn, the record has not said
+- **Through the summer of 2828 UCSD:** still Chief Pilot at Threshold ([Aware of Weather (S03E02C01)](/star-rangers/seasons/s03/e02/s03e02c01/))
+- **By the early autumn of 2828 UCSD:** Starwarden at least, out of the Chief Pilot's chair, with a new Chief Pilot in it ([Pending a Lead (S03E02C02)](/star-rangers/seasons/s03/e02/s03e02c02/)); her post, the date of the step and her successor are not recorded
+- **2829 UCSD, Late Autumn:** Line Captain, when the Corps paired her with the newly promoted Starwarden Shepherd as mentor ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)); whether she passed through Archwarden to reach it, or was advanced out of turn, the record has not said
 - **Season 5:** High Captain (the step from Line Captain to be established in story), holding the command ship *Fel Trohen*, with [Arashobal](/star-rangers/characters/arashobal/) as her chief of staff
+
+At every point in the record Wender holds at least one rank above [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/). Wender is Chief Pilot while Shepherd climbs to Section Lead; Starwarden at least by the time Shepherd reaches Chief Ranger; Line Captain from Shepherd's Starwarden promotion in 2829; and at least Star Captain by the time Shepherd takes Line Captain in the summer of 2831. When she held Star Captain, if she did, the record has not said. The same holds one step up the line: until [Asteria](/star-rangers/characters/asteria-the-sage/) retired, she held at least one rank above Wender, and she was a Star Captain for the whole of Wender's climb to Chief.
 
 See [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/) for the full ladder Chief Pilot and High Captain sit on.
 
