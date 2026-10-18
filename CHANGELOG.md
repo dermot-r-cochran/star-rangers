@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Journal and the Story Engine page are story content** (`CONTENT-LICENSE.md`, `CLAUDE.md`, `README.md`, `FORKING.md`, 2026-10-18, at Dermot's request). The licence's scope list left out `src/journal/` and `src/story-engine/`, so by its own "everything else" sentence they read as MIT. Both are now in the CC BY-NC-ND 4.0 scope, with one sentence in `CONTENT-LICENSE.md` saying why: they are the author's writing about the story, not documentation of the engine. The About page's prose stays MIT.
+
 ## [1.43.0] — 2026-10-17
 
 Arashobal joins the record as a Krenyi Chief and High Captain Wender's chief of staff aboard the *Fel Trohen*, the first command ship named, with her portrait filed. The Krenyi gain speech at two speeds, their courtesy in a mixed room and an emergency, and no make-up; the embodied-cognition page adds *The Case in a Person*. The rank page adds *Who a Ranger Answers To*, and *What the Record Refuses* rules out social media. The rules now cover public-domain fiction and keep a singular exception singular. The About page names the author's PhD, degrees and career, and the Journal adds three entries, among them *Questions a Researcher Might Ask*. Thirteen Codex-author portraits are filed. The site gains a `CITATION.cff`, readable tables and IndexNow on every deploy.
