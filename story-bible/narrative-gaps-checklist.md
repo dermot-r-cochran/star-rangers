@@ -50,7 +50,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 
 *Filed Under Noise*, *Independent Verification* and *What Meridian Asked* stand in for Principal → Section Lead → Chief Ranger; *Aware of Weather* (Section Lead, summer 2828) and *Honest Clocks* (Chief Ranger, spring 2829, the Counterpane revisit) have since paid the two later rungs once each.
 
-- [ ] The Sentinel–Meridian connection: Sohrel has declined to raise it without stating a reason on the record. Either a declination that finally costs her something, or the raising.
+- [x] The Sentinel–Meridian connection: Sohrel has declined to raise it without stating a reason on the record. Either a declination that finally costs her something, or the raising. Paid 18 October 2026 by S03E01C04 *For the Record*: the declining costs her; the reason is stated and the question passes to the Prime Ganglion's office.
 
 ### 3. Season 5 opens at E01
 
@@ -164,9 +164,10 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   Season 10's mount the same day, and Dermot ruled the same day
   (*Agreed*) that Season 9 is the corridor season, five chapters,
   complete in itself.
-- [ ] **Sohrel and the Sentinel–Meridian connection** — declined without a
+- [x] **Sohrel and the Sentinel–Meridian connection** — declined without a
   stated reason; either a declination that costs her something, or the
-  raising (also under *Season 3* above).
+  raising (also under *Season 3* above). Paid 18 October 2026 by S03E01C04
+  *For the Record*.
 
 ### Worlds from the July intake
 
