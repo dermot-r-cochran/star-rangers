@@ -34,8 +34,8 @@ See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-an
 - **Through the summer of 2828 UCSD:** still Chief Pilot at Threshold ([Aware of Weather (S03E02C01)](/star-rangers/seasons/s03/e02/s03e02c01/))
 - **By the early autumn of 2828 UCSD:** Starwarden, out of the Chief Pilot's chair, with a new Chief Pilot in it ([Pending a Lead (S03E02C02)](/star-rangers/seasons/s03/e02/s03e02c02/)); her post, the date of the step and her successor are not recorded
 - **2829 UCSD, Late Autumn:** Line Captain, when the Corps paired her with the newly promoted Starwarden Shepherd as mentor ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)); she reached it through Archwarden, since no rank is skipped, and the dates of both steps are not recorded
-- **Between late 2829 and the summer of 2831:** Star Captain, held by the time Shepherd took Line Captain; its dates are not recorded
-- **Season 5:** High Captain (the step from Star Captain to be established in story), holding the command ship *Fel Trohen*, with [Arashobal](/star-rangers/characters/arashobal/) as her chief of staff
+- **Between late 2829 and the spring of 2831:** Star Captain; its date is not recorded
+- **2831 UCSD, Late Spring:** High Captain, seated on the Council of High Captains, holding the command ship *Fel Trohen*, with [Arashobal](/star-rangers/characters/arashobal/) as her chief of staff, whom she asked across in person ([Asked Across (S05E00C02)](/star-rangers/seasons/s05/e00/s05e00c02/)); her theatre is not named
 
 At every point in the record Wender holds at least one rank above [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/). Wender is Chief Pilot while Shepherd climbs to Section Lead; Starwarden at least by the time Shepherd reaches Chief Ranger; Line Captain from Shepherd's Starwarden promotion in 2829; and at least Star Captain by the time Shepherd takes Line Captain in the summer of 2831. The same holds one step up the line: until [Asteria](/star-rangers/characters/asteria-the-sage/) retired, she held at least one rank above Wender, and she was a Star Captain for the whole of Wender's climb to Chief.
 

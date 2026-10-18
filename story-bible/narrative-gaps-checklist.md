@@ -62,7 +62,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 
 From `story-bible-summary.md`'s "Established future-canon waypoints" — hooks that exist in character entries and have never landed in prose:
 
-- [ ] **Karla Wender: Chief Pilot → High Captain.** Asserted on her page, dramatised nowhere.
+- [x] **Karla Wender: Chief Pilot → High Captain.** Asserted on her page, dramatised nowhere. Paid 18 October 2026 by S05E00C02 *Asked Across* (late spring 2831); the intermediate steps are dated on her page and held off the page.
 - [x] **The Tissadelle/Wender relationship**, developing "across early seasons" per her character entry; the early seasons are written and it isn't in them. *Part-paid 4 October 2026: the formal pairing and its first meeting (S05E00C01); the earlier, informal half, Wender in rooms the rooms did not require, is still told only by report.*
   **Paid 4 October 2026** by S03E02C01 *Aware of Weather*: the informal half
   on the page once, the summer of 2828 at Threshold, Wender in a room no
@@ -139,7 +139,7 @@ Finished prose in the story-bible waiting for a slot; each stays out of
 
 ### Character arcs with promised beats
 
-- [ ] **Karla Wender, Chief Pilot → High Captain** — on her page, dramatised
+- [x] **Karla Wender, Chief Pilot → High Captain** — paid by S05E00C02 *Asked Across*; on her page, dramatised
   nowhere (also under *Standing waypoints* above).
 - [x] **Wender's mentorship of Shepherd** — placed between Seasons 3 and 5
   since 2026-10-03; paid 4 October 2026 by S05E00C01 *Not Asked*, the
