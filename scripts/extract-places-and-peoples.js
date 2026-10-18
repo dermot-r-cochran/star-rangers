@@ -61,6 +61,18 @@ const POLITY_PAGES = [
 // One entry per place page (category "Locations", or a `system:`/`galaxy:`
 // field). `evidence` quotes are checked against the page text.
 const PLACE_RULES = {
+  'antariksha': {
+    polity: 'Solar System Concord / Orbital Habitats Compact',
+    polity_pages: ['orbital-habitats-compact'],
+    peoples: [],
+    evidence: ["is one of the five self-governing habitats of the Orbital Habitats Compact", "Antariksha joined it, with a Commissioner, a Mayor and a civil detective bureau of its own"]
+  },
+  'callisto-station': {
+    polity: 'unknown',
+    polity_pages: ['formation-of-star-rangers'],
+    peoples: [],
+    evidence: ["an installation, not a polity, and so the Corps' own ground"]
+  },
   'eden-space-habitat': {
     polity: 'Solar System Concord / Orbital Habitats Compact',
     polity_pages: ['solar-system-concord', 'orbital-habitats-compact'],
@@ -78,6 +90,12 @@ const PLACE_RULES = {
     polity_pages: ['knarr-line'],
     peoples: [],
     evidence: ["the largest hauler-mothership in the Knarr Line's founding fleet"]
+  },
+  'ligeia-habitat': {
+    polity: 'independent',
+    polity_pages: [],
+    peoples: [],
+    evidence: ["Ligeia is a polity above the threshold, so the Star Rangers enter only by invitation", "It is the seat of the Titan Settlement Authority"]
   },
   'new-cotswolds': {
     polity: 'unknown',
@@ -187,6 +205,12 @@ const PLACE_RULES = {
     peoples: ['Humans'],
     evidence: ['the flagship and most populous world of the Celtic Union of Planets', 'naturally human-compatible']
   },
+  'planets/titan': {
+    polity: 'independent',
+    polity_pages: [],
+    peoples: [],
+    evidence: ["by the Titan Settlement Authority"]
+  },
   'planets/trigrian': {
     polity: 'unknown',
     polity_pages: ['formation-of-star-rangers'],
@@ -223,11 +247,23 @@ const PLACE_RULES = {
     peoples: [],
     evidence: ['A Federation of Sentient Beings habitat in a high orbit above Drithane']
   },
+  'stillwater-station': {
+    polity: 'independent',
+    polity_pages: [],
+    peoples: [],
+    evidence: ["The Titan Settlement Authority's founding charter was signed in it"]
+  },
   'threshold-station': {
     polity: 'unknown',
     polity_pages: ['formation-of-star-rangers'],
     peoples: ['Krenyi'],
     evidence: ['a Survey Corps post with a Starwarden answering for it and a crew drawn from several peoples', 'the second Krenyi in the record to serve at Threshold']
+  },
+  'tsittak': {
+    polity: 'independent',
+    polity_pages: [],
+    peoples: ['Chthonari'],
+    evidence: ["settlement cut into a lone body of nickel-iron", "it answers in practice to no one but itself"]
   },
   'umbral-moon': {
     polity: 'unknown',
