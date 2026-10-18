@@ -3239,7 +3239,7 @@ Dermot asked whether the Prismeri may resemble dragons, then: *"However a large 
 
 **Ruled 14 October 2026**, Dermot, verbatim: *"Option A is fine"*, after saying of the 12 October confirmation *"I might have been wrong about the confirmation or I did not think it through fully"* and asking for a recommendation. The short neck and no tail stay. Their basis is now the body's use, recorded as a clarification on `src/lore/prismeri.md`: the hang keeps the eyes beside the hands, glasswood punishes anything that trails, and the facet band reads the sky without the head turning. The physics permits a longer neck, so the shape is a choice, not a limit. The Levril test stays as a rule for pictures only. **C** (the proposed figures as canon) was not taken up and stays open.
 
-## Which established thread gets the next chapter — `intake-2026-10-18.md`, *Deepen the established threads* — OPEN
+## Which established thread gets the next chapter — `intake-2026-10-18.md`, *Deepen the established threads* — RULED same day, A
 
 Dermot ruled option (a) on 18 October 2026: new chapters go first to the threads that already have a run. Which one comes first is still his. Three choices:
 
@@ -3248,3 +3248,5 @@ Dermot ruled option (a) on 18 October 2026: new chapters go first to the threads
 - **C, Below the Roof, Season 3**: needs a treatment and rulings before any chapter, so it is the slowest start.
 
 Drafting is Fable's either way.
+
+**Ruled 18 October 2026**, Dermot, verbatim: *"Option A"*. The next chapter goes to Tissadelle's middle, Season 3. Which beat it takes (the Sentinel–Meridian raising, or Sohrel's declining that finally costs her something) is the drafter's to propose and is named in that chapter's PR.
