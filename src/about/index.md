@@ -62,6 +62,9 @@ eleventyComputed:
 
 <h2 id="how-this-site-is-written">How this site is written</h2>
 <p>
+  All characters and story ideas are original to the author. The narrative prose is either his
+  own or written by Claude Fable under his direction and following his ideas, including some
+  prose carried over from Copilot or Sudowrite drafts that were also written from his prompts.
   The words on this site have been drafted and edited with the help of more than one tool over
   time, and the split is worth naming honestly. The early version of the site leaned on
   <a href="https://github.com/features/copilot">GitHub Copilot</a> and Microsoft 365 Copilot for
