@@ -1092,8 +1092,9 @@ tail fails on sight.
   was regenerated with the time device (`make-emblem-card.ps1 -Device
   sundial`). No other body point is written to a public page; they wait for a
   page that needs them, on the Cerebraun pattern.
-- **Ulessa's portrait** (`images.md` § 20): the prompt is Fable's, from this
-  section.
+- **Ulessa's portrait** (`images.md` § 20): the prompt was written on Fable
+  later the same night from this section's vocabulary and standard negative,
+  by structure and never by likeness; generation waits on the desktop.
 - **Ilenne's illustration** is owed (`images.md` § 5m), a world's prompt being
   Opus's under the 16 October rule; not written here.
 

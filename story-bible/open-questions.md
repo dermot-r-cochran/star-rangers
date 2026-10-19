@@ -123,10 +123,14 @@ night on Opus, in one PR:
   head-and-shoulders outline regenerated as a dial. `ulessa.md` and the
   Federation page now link Ilenne.
 - Every body point was settled by recommendation under the dilemma-only rule,
-  his to overrule; none met the bar for him. **Still owed:** Ulessa's prompt
-  (`images.md` § 20, Fable's); Ilenne's illustration (`images.md` § 5m, no
-  prompt yet, Opus's); a Mnemari's dress and witness's mark (`civilian-dress.md`,
-  not stated, picked only when a page needs it).
+  his to overrule; none met the bar for him. Ulessa's prompt was written
+  later the same night (`images.md` § 20, Fable, from the section and nothing
+  else; generation is a desktop step, `--only ulessa`), with its own readings
+  his to overrule: the room unnamed and plain, the chair out of frame past the
+  camera, the hide bare with three healed seams, no document before her.
+  **Still owed:** Ilenne's illustration (`images.md` § 5m, no prompt yet,
+  Opus's); a Mnemari's dress and witness's mark (`civilian-dress.md`, not
+  stated, picked only when a page needs it; the portrait carries none).
 
 ## A Chthonari Ranger, Kettsa — Dermot's direction of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; one line open
 
