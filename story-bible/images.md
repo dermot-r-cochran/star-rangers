@@ -5741,16 +5741,18 @@ deck's; the only figure in frame.
   - *(Filed 19 October 2026 at Dermot's pick, variation 4 of 4: the featureless dome, six legs, graphite plates over the top only and the copper tab nearest the forward edge of the shell. 2 failed as an Earth beetle; 1 and 3 placed the tab mid-back or low on the side. Imported at 1,200 px, finish strength 1.)*
   - **Desktop step:** `node scripts/image-prompts.js --generate --only kettsa` (the entry carries the two filed Chthonari frames as references, so the script sends them); two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/kettsa.md` from the filed frame.
 
-### 20. Missing portraits — Ulessa, the first Mnemari the record names (written 19 October 2026, Fable; body derived the same night, prompt still to write, Fable's)
+### 20. Missing portraits — Ulessa, the first Mnemari the record names (written 19 October 2026, Fable; body derived the same night, prompt written the same night, Fable; generation waits on the desktop)
 
-**Update, 19 October 2026: the body exists.** Dermot ruled *"1 A"* (derive the
-body from the world first). `src/lore/planets/ilenne.md` now gives the world,
-`species-design.md`, *Mnemari — a body from Ilenne*, derives the body with
-its prompt vocabulary, standard negative and triage, and `src/lore/mnemari.md`
-is clarified (*humanoid* explained as the facilities standard's word, frame
-Endoskelia, not the human frame). The prompt below is **still unwritten**: it
-is Fable's, written here from that section. Everything under *What is fixed
-for the prompt* stands; the first triage step now reads against the section.
+**Update, 19 October 2026: the body exists, and the prompt is written.**
+Dermot ruled *"1 A"* (derive the body from the world first).
+`src/lore/planets/ilenne.md` now gives the world, `species-design.md`,
+*Mnemari — a body from Ilenne*, derives the body with its prompt vocabulary,
+standard negative and triage, and `src/lore/mnemari.md` is clarified
+(*humanoid* explained as the facilities standard's word, frame Endoskelia,
+not the human frame). The prompt is at the foot of this section, written on
+Fable later the same night from that section and from nothing else.
+Everything under *What is fixed for the prompt* stands; the first triage step
+reads against the section.
 
 Dermot's *Yes please* of 19 October 2026 to the next line of the 14 October
 worklist in `open-questions.md`: a Mnemari character page and portrait
@@ -5827,14 +5829,72 @@ is the only thing owed:
   fails).
 - **Proposed alt:** none until a frame is filed; an alt describes what a
   file shows.
-- **Written 19 October 2026** (Fable); not generated. The body was derived
-  the same night in `species-design.md`, *Mnemari — a body from Ilenne*; the
-  prompt is the one thing owed, and it is Fable's to write from that section.
-- **Desktop step:** none yet. Once Fable has written the prompt here from
-  the section: `node scripts/image-prompts.js --generate --only ulessa`,
-  two variations, two rounds at most; file through
-  `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to
-  `src/characters/ulessa.md` from the filed frame.
+- **Written 19 October 2026** (Fable), the entry above, without a prompt. The
+  body was derived the same night in `species-design.md`, *Mnemari — a body
+  from Ilenne*, and the prompt below was written from it later the same night.
+
+**The prompt (Fable, 19 October 2026).** The body is the section's, in its own
+words and by structure, never by resemblance: the generator is told what the
+body is and what it is not, and no Earth animal and no fantasy being is offered
+as a likeness, since the section's *Traps closed* names the horse, the camel,
+the elephant, the Elf and the grey alien as exactly the drift a long-headed
+walker invites. Same form as §§ 15 to 19: a documentary photograph taken
+inside the world by a 29th-century camera, available light, **16:9 landscape**
+at 1200×675 through `import-image.ps1 -MaxEdge 1200` at finish strength 1; at
+work, never posed, the 28 July guardrails and the modesty bar met by the work;
+the section's standard negative, the period-tech negatives and the render
+negatives inside the blockquote. The place and the work are the fixed ones
+above: a Federation assembly session revisiting an old compact, Ulessa at the
+table and not at its head, attention on the chair who is asking, the delegates
+out of frame. What the body section settles for the frame: a Mnemari stands at
+a table built for bodies that sit, the working limbs resting on it (*What a
+station costs*); a Mnemari attending to a speaker turns one side of the head
+toward them, so a witness attending to the chair is seen side-on (*How it
+senses*); and dress and marks are open, his, and *not needed for a portrait*,
+so the frame carries no cloth, no harness and no witness's mark, the hide the
+whole covering, as the Chthonari frames carry a bare carapace.
+
+Readings taken for the frame (Fable's, under *Who approves whom*; each his to
+overrule, and none written to the page): **the year 2826 UCSD**, the one year
+her page places her in; **the room a hull's or a member facility's and not
+named**, as the fixed list requires, given in the record's idiom for a kept
+shared space: a long plain room of seamless matte pale composite, a long low
+table of the same, soft even light from a concealed slot above the table, no
+window, the far end in shadow; **the century's hint** one small sealed oblong
+housing of matte composite with a single unlit indicator on the table near
+the chair's end, the session's recorder in the record's idiom, and nothing
+else made in frame but the table and the sheets; **the camera low and across
+the table from her, at a seated delegate's eye level**, since that is where a
+camera in the room would be, which also keeps the delegates' side of the table
+out of frame; **the chair out of frame past the camera's left shoulder**, so
+that she has turned the near side of her head toward the chair and her near
+eye is seen looking past the lens and not into it; **no document before her**,
+since the page says she needs none, the pale sheets lying at the delegates'
+places along the near edge, soft; **the hide the section's one muted dun-grey**,
+with the healed seams the section gives an old Mnemari kept to a few, one long
+pale seam along the near foreleg and two short ones low on the near flank,
+accidents survived in two centuries and nothing that reads as age; **the
+scale given by the table**, whose top comes to about the middle of her long
+legs, well below her level back, so that the two shorter working limbs reach
+forward and down to rest on its edge; **the moment the one before the words**,
+the chair having asked, the whole body still; and **the only figure in frame**.
+No reference is passed: nothing in `own-photography.json` is a dim kept
+interior, every frame of his that carries a matte hide is an Earth animal the
+section negates by name, and a reference is sent as an image part, which is
+content whatever the sentence beside it says (the 10–11 October Pandoid
+lesson), so the light and grain are asked for in words instead.
+
+- **`ulessa.jpg`** — Mnemari, treaty-witness of Ilenne, requested to Federation assembly sessions that revisit old compacts; *what was said is hers, and what it meant is theirs.*
+  No References line, on purpose: no own frame suits (see above), and no card or render is ever a reference; the script sends the prompt alone.
+  > Candid documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, at work, attention off-frame, never posed to camera, modest, nothing that invites the viewer: Ulessa, a Mnemari of Ilenne, a treaty-witness, standing at a long plain table in a dim session room in the year 2826, in the still moment after the chair has asked her for the words of an old compact and before she gives them. She is a large, level-backed, six-limbed walker, about the mass of a pony, her back at the height of a standing person's chest, some two metres from the tip of her head to her hindquarters: four long legs on broad padded feet with short splayed blunt toes, standing square and still on the floor; two shorter working limbs set beneath the base of the neck, each ending in a ring of short blunt many-jointed digits, reaching forward and down to rest on the table's near edge, one limb laid flat and the other folded over it; a short thick neck carrying a long, low, wedge-shaped head forward at the line of the back, no higher; one large dark matte eye on each upper side of the head, so that she looks at a speaker by turning one side of the head toward them; two narrow breathing slits at the tip of the head; no mouth visible from the side, no ears of any kind, no horns, no teeth, no tail; broad oval hearing membranes flush with the hide on each flank behind the shoulders, a slightly smoother patch of hide and nothing else; nothing rises above her forequarters, there is no torso, no upright part, no face a human reads. Her hide is dry, matte and uniform, with a fine close nap like felt, one muted dun-grey tone across the whole body, no pattern, no marking, no sheen; on the near foreleg one long pale healed seam and low on the near flank two short ones, old injuries mended and nothing that reads as age, the body in full repair; she wears nothing, no cloth, no harness, no mark, the hide the whole covering. The table top comes to about the middle of her long legs, well below her level back, which gives her size. She stands along the table's far side, not at its head, three-quarters on to the camera, and has turned the near side of her head toward the chair who is out of frame past the camera's left shoulder, so that her near eye is seen looking past the lens and not into it, her attention wholly on the chair; the whole body still, no tension anywhere in her, the stillness of a witness waiting to be exact. There is no document in front of her. The room is kept, closed and plain: a long room of seamless matte pale-grey composite, walls meeting the floor in rounded coving, no window, nothing on the walls, the far end in shadow; a long low table of the same matte composite running away from the camera, several pale matte sheets laid flat at the delegates' places along its near edge and falling soft out of focus, and near the chair's end one small sealed oblong housing of matte pale composite with a single small unlit indicator and nothing else on it; the only light a soft even pool from a concealed slot above the table, falling on the sheets, the table's edge, the working limbs and the near flank, the hide taking the light flatly the way felt does. The camera is low, across the table from her at a seated delegate's eye level, and she is the only figure in frame; the delegates are out of frame on the camera's side of the table. Quiet, exact, a room waiting for words that will be given in the order they were said. Muted palette: dun-grey hide, pale-grey composite, the pale sheets, shadow. Photographed, not rendered: a real hide with a real nap that catches the light unevenly at the edges, real dust in the air of the light, real sheets with real edges, a fast lens near wide open with shallow depth of field so the near sheets and the far end of the room fall soft, slight softness toward the corners, high-ISO grain heavier in the shadows, a touch under-exposed, muted natural colour, the small untidy imperfections a real photograph keeps. Negative: humanoid, human face, human torso, upright posture, biped, two arms, hands, a figure standing on two legs, centaur, sphinx, elf, pointed ears, robes, circlet, glowing skin, grey alien, large black eyes, big bald head, horse, pony, camel, llama, alpaca, deer, giraffe, elephant, trunk, tusks, horns, mane, tail, hooves, external ears, teeth, an open mouth, insect, mantis, mandibles, antennae, dragon, lizard, scales, wet or glossy skin, fur, white hair, beard, wrinkles, aged, frail, wise elder, sorrowful gaze, a creature looking into the camera; a saddle, a harness, a blanket, a collar, a garment, a badge, a sash, jewellery; a second creature, a second figure, a person in frame, a face in frame, a crowd, a row of delegates; a courtroom, a parliament, a UN chamber, a horseshoe of desks, a dais, a lectern, a podium, a gavel, a flag, a seal, a crest, a nameplate, a microphone, a water glass, a stacking chair, an office chair; readable text, lettering, numerals, signage, labels, branding or written characters of any script anywhere in frame; screens, monitors, displays, consoles, dials, gauges, meters, keyboards, tablets, holograms, projected light, glowing displays, light strips, glowing trim, a lit indicator, exposed cables, wall sockets, switches; visible lamp, light fitting, ceiling light or bulb; a window, a viewport, stars, a planet, a nebula, lens flare; grime, rust, peeling paint, debris, clutter; a stable, a barn, straw, a field, grass, sky, a zoo enclosure; flat studio backdrop, gradient background, studio lighting, a specimen on a plinth, a creature design turnaround; weapons. Render negatives: 3D render, CGI, octane render, video-game render, game asset, animated film still, creature concept art, design sheet, clay or plasticine sculpture, plastic sheen, airbrushed, over-smooth surfaces, glossy concept art. Landscape orientation.
+  - **Attention is the chair**, out of frame past the camera's left shoulder: the near side of the head is turned to the chair and the near eye looks past the lens, which is the body section's own way of attending and the 28 July guardrail at once; a near eye that meets the lens fails the guardrail even where the body holds.
+  - **The body by structure, never by likeness.** The prompt names what the body is in the section's words and names every Earth animal and fantasy being it invites, so a variation that returns a horse, a camel, an elephant, a deer, a centaur, an Elf or a grey alien, or that grows a torso, a face, forward eyes, ears, hooves or a tail, fails on sight whatever else it gets right, since that is the refusal the page carries. The one expected drift is the centaur: a six-limbed walker with working limbs beneath the neck is one step from a figure rising above the forequarters, and the prompt says *nothing rises above her forequarters* and negates it by name.
+  - **The covering is the hide.** Dress and marks are open and his (`species-design.md`, *Dress and marks*; `civilian-dress.md`, *Mnemari, for contrast*: *Not stated*), so a variation that puts a cloth, a harness, a blanket, a sash or a badge on her asserts something the record has not, and fails; the bare hide clears the modesty bar as the Chthonari carapace does, a non-human body dressed for nothing because nothing is its dress.
+  - **The century is the table and the housing.** The seamless composite room with its one sealed unlit housing is the record's idiom for a kept shared space and its instrument; the courtroom, the parliament, the UN chamber, the horseshoe of desks, the lectern, the gavel, the flag and the nameplate are negated by name, since each is what the word *assembly* draws. A plain room with nothing to place it is not a hint on its own (the 13 October triage, question 3); the housing is the hint, and a variation without it, or with it lit, is not filed.
+  - **Triage:** first the body against the section (a torso, a face, forward eyes, ears, hooves or a tail, or any Earth animal, Elf or grey alien, fails on sight); then the room and the century (a courtroom, a parliament, a UN chamber, a lectern, a gavel, a flag, a screen, a nameplate, any lettering, a lit indicator or a window fails, and a plain room with no housing is not filed); then the guardrails and the covering (the near eye meeting the lens, a posed figure, a studio look, a second figure, or any cloth, harness or mark on her fails).
+  - **Proposed alt** (to be corrected to the filed frame): *Ulessa, a large level-backed six-limbed Mnemari with a dun-grey felted hide and a long low wedge-shaped head, standing at the far side of a long plain table in a dim grey session room, two shorter working limbs resting on the table's edge, one large dark eye on the near side of her head turned toward someone out of frame, pale sheets lying soft along the near edge of the table.*
+  - **Written 19 October 2026** (Fable); not generated.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only ulessa` (no reference is carried, so the script sends the prompt alone); two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/ulessa.md` from the filed frame, and strike *the record has not yet set down what a Mnemari looks like, so the page carries no portrait* from the page's last section in the same change.
 
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
