@@ -30,7 +30,7 @@ gallery:
     image_alt: "Tissadelle Shepherd in her early thirties, red hair tied back, crouched in a pale curving station corridor with her right hand laid flat on the wall at a seam, her face turned to the wall and listening, the rank tab with three concentric rings and a short ribbon row on her chest beside the plain diamond patch, a small closed case on the floor beside her."
 ---
 
-Cadet is the entry rank. It is where formal training meets first operational exposure, and where the qualities that will become most useful later are not yet rewarded in proportion.
+Cadet is the first operational rank. It is where formal training meets first operational exposure, and where the qualities that will become most useful later are not yet rewarded in proportion.
 
 Tissadelle Shepherd begins Season 1 there. She reaches the rank of Line Captain in Season 5, after four seasons of operational service that take her through most of the [full rank ladder](/star-rangers/lore/star-rangers-command-hierarchy/) — several promotions a season, a pace well above the ordinary intake's. The distance between those two points is the structural spine of her arc.
 
