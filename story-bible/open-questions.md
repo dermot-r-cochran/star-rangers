@@ -2140,9 +2140,16 @@ canon; the first is the only one that would add a reader-facing feature.
   `kilbride` is `beatrix-kilbride`, `okafor` is `wren-okafor`, `adaeze` is
   `adaeze-okafor`, `voss` is `rutger-voss` (not Petra or Dagny), `krast` is
   `maren-solveig-krast`, `solano` is `petra-solano`; `tobble` has its page.
-  A mechanical fix (stale ids, first tier), *follow-up* for a Sonnet pass:
-  the `povs` ids and any POV-block markers in the body move together, and
-  `check-internal-links.js` and the edition character lists are re-run.
+  ~~A mechanical fix (stale ids, first tier), *follow-up* for a Sonnet pass~~
+  **Closed the same day, no change:** the ids are not stale. Each of those
+  character pages declares the short form as its own front-matter `id:`
+  (`ysolde-pitch.md` has `id: pitch`, and so on), and the build resolves a POV
+  by that id. Renaming the chapters' ids would drop the scene-POV portraits and
+  orphan each scene-POV comment thread, whose giscus term includes the POV id.
+  `src/_data/scenePovPages.js` already records the rule: a page declares
+  `pov_ids:` aliases and *the chapters stay as written*. The only stale thing
+  left is a comment at `lib/editions.js` (around line 852) saying six of these
+  ids have no page.
 - **The structural alternative was not taken**, and is still available: tagging
   character pages with their thread ids would make thread narrowing carry its own
   people on every domain, present and future, instead of each edition
@@ -3498,4 +3505,6 @@ Treatment drafted at Dermot's ask. The proposed premise is *a telling heard*: th
 Second chapter drafted the same day: S14E02C01 *Sound, Rising*, the survey side's opener (Nakagawa finds Aravena's question filed for two years as the unit's class *sound, rising*; asks; *not today*). Four readings settled at Opus on the recommendations: Aravena no longer stops at the bottom of the long passage, the question having moved to the knock (an extension; no published chapter after Season 11 shows the end-of-shift stop); Aravena's one substantive line kept (*it wasn't said to the unit; the unit was there*); the length left at about 2,800 words; the year-end instrument summaries kept as the occasion. Whether the class stands or the name goes on stays Aravena's, unanswered, and does not decide whether any channel is on when a telling comes.
 
 Third chapter drafted the same day: S14E01C02 *Not a Place You Tell From*, the warm's argument (Stone-First says the kept thought standing up; the warm settles which telling and who tells it; the place is unsettled until the small ones' game shows the one on the line saying who knocked). Three readings settled at Fable on the treatment's recommendations: the telling of the up-people's own stone, the one they left, over the humming stone (Carried-It-Sleeping's objection kept as a quiet joke and answered by Went-Round); the line proved a place a thing is said from by the game rather than by a rule, so no rule is made; the smallest's phrase said once more in the whole warm's hearing and still not a name. **Left open for the next deep-side chapter:** how the up-people, who wait for as long as it takes a hand to be filled and then go, would stay for a telling longer than a hand. The chapter names the problem on the line and answers nothing; the smallest's habit of keeping a hand on the stone until everyone waits is the obvious answer and is not taken yet, so that the naming chapter can take it. The name candidates above stand.
+
+**RULED 19 October 2026** (*"Yes, all recommendations agreed"*): the smallest one's name is **Keeps-A-Hand-On-It**, the phrase the small ones already use. The next deep-side chapter, S14E01C03, is the naming chapter, and it takes shape (a): the smallest one's habit of keeping a hand on the stone until everyone waits is what answers how the up-people can be made to stay for a telling, and an old one says so; that saying settles the name. Option (b), the name settling on the game alone with the staying problem passed to the convergence, was not taken. Same day, also ruled: the *Sound, Rising* counts are corrected as arithmetic. Shift numbers place the lift at shift 48 (*Eleven Minutes* says only "some shifts later"), so sixteen quiet shifts came before the first knock at shift 64 and a hundred and forty-eight came after it, through shift 211, with the hundred and sixty-four unchanged. S11E02C03 and the S11E02 index now say sixteen where they said sixty-three; the 3 October intake's *sixty-three* is superseded.
 
