@@ -1755,10 +1755,12 @@ disagreement between a rendering and a tab, the tab is right"* (same page).
   (`the-ladder-in-other-tongues.md`). The Music Corps' xenomusicology branch
   studies them, since *"music and mathematics are nearly the same thing"*
   (`star-rangers-music-corps.md`).
-- **Named Rangers on record.** None. Tsikk, Tekka, Tikket and Kattik are a
+- **Named Rangers on record.** One, since 19 October 2026: Kettsa, Senior
+  Officer, fold-scaffold specialization, the Earth–Sun L5 staging zone in
+  2826 (`characters/kettsa.md`, drafted at Dermot's direction to fill the
+  worklist gap filed below). Tsikk, Tekka, Tikket and Kattik are a
   Federation contractor crew on Eden, not Rangers (`characters/tsikk.md` and
-  the other three). The record's strongest Corps concentration has no named
-  member: a worklist gap, filed below.
+  the other three).
 - **Uniform equivalent and rank.** DERIVED: the modular shell fitted per body
   plan. PROPOSED, from the derived sense (`civilian-dress.md`, Chthonari): the
   fit leaves the limbs and the lower carapace in contact with the structure,
@@ -2217,7 +2219,7 @@ instance of a rule whose other instances it has not written.
 
 | People | Rangers on record | Corps / tracks | Uniform equivalent | Standing |
 |---|---|---|---|---|
-| Chthonari | none named | Engineering, fold-scaffold specialization; Liaison recruiters | shell fitted with limbs and underside on the structure; tab read by limb-tip | service derived; no Ranger: gap |
+| Chthonari | Kettsa (19 Oct) | Engineering, fold-scaffold specialization; Liaison recruiters | shell fitted with limbs and underside on the structure; tab read by limb-tip | derived; gap filled 19 Oct |
 | Ilveth | Suvra Kel | night survey, dark-side, search and rescue (corps not established) | shell as a cooling shell | derived |
 | Ovruhn | none named | structural and fatigue survey, search, acoustic watch, disaster mass care | shell as an instrument mount, flanks open | service derived; no Ranger: gap |
 | Veyr Basaltborn | Qiren Tal | stress-and-heat postings; certification (corps not established) | corps colour and tab seated on the lattice | derived (ruled 12 Oct) |

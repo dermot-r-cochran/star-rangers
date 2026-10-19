@@ -47,6 +47,62 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A Chthonari Ranger, Kettsa — Dermot's direction of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; one line open
+
+Dermot, 19 October 2026: *"start a Chthonari Ranger in the Engineering Corps
+now on Fable (page plus portrait prompt)"*, filling the worklist line below.
+Drafted as `src/characters/kettsa.md`, grounded only in `chthonari.md`,
+`undersong-belt.md`, `federation-of-sentient-beings.md`,
+`lagrange-fold-points.md`, `star-rangers-command-hierarchy.md`,
+`rank-insignia-and-uniform.md`, `the-ladder-in-other-tongues.md`,
+`guild-distinctions.md`, `star-rangers-academy.md`, the four Chthonari crew
+pages and the ruled sections of `species-design.md` and `mind-design.md`,
+with the rest marked absent; portrait prompt in `images.md` § 19, not
+generated, so the page carries no `image:`; PR #1362. Settled by recommendation under
+the dilemma-only rule, each his to overrule: **the name** (*Kettsa*, a
+struck signature rendered as the four crew names are, a strike, the same
+strike held and a scrape left open, told from all four); **the pronoun**
+(*they*, the 4 September ruling, nothing new); **the rank** (Senior Officer,
+five bars on copper: the record's one Chthonari Ranger should be neither a
+cadet nor a Chief, and Senior is the rank the ladder calls *frequently
+second on a team or shift*, which is where a reading others check against
+sits); **the fast track** (a former Belt scaffold cutter under the Federation
+compact, recommended by a Chthonari recruiter, Novice for weeks and Cadet for
+months, Field Officer inside two years, every rung held, the fifth bar by
+ordinary review, exactly as the command page's rule reads, so the page
+asserts no new mechanism); **the posting and era** (the Earth–Sun L5
+fold-staging zone in 2826 UCSD, the record's present, chosen because
+`lagrange-fold-points.md` already puts hulls there sitting still while their
+scaffolds form and permanent monitoring infrastructure at Tier 1 sites, and
+because it keeps Kettsa clear of the Eden chapters; no station is named,
+since the record names none); **the shell fit** (over the upper carapace
+only, every limb and the underside in contact with the structure, the
+`species-design.md` proposed line taken into the page's own voice as a
+derivation from the organs' placement, as the rule for that list allows);
+**the single-Chthonari posting** (the species page's loneliness line given
+one instance, no second Chthonari on the roster asserted or denied beyond
+that posting); and **the readings for the portrait** (wear, tone, posture
+and compartment, in § 19). Not asserted: an age, a burrow of origin, a
+family, a distinction, a date of entry, any chapter. Not done: no chapter;
+no link from `chthonari.md` or the uniform page, since neither lists people
+in a place a fifth name would fit (the species page's four names are *what a
+crew sounds like*, and the uniform page's list is the shell's wearers by
+species, with no Chthonari in it; adding one there is a canon extension of
+its own and is left for a page that needs it); no image generated.
+
+**Open, his, as options** (not a dilemma; the page stands without it):
+whether the unnamed Chthonari of the Engineering Corps who came up from
+Eden's Passage oversight for the mount-three inspection in S10E01C07 (spring
+2828) is Kettsa. (A) Leave unidentified: the page claims no chapter, the
+chapter names nobody, and Kettsa's posting in 2826 is L5, two years before.
+**Recommended**, since nothing needs the identification and a Ranger can be
+posted anywhere in two years. (B) Identify: give Kettsa the Passage oversight
+posting by 2828 and S10E01C07 as a first appearance, revising the page and
+the chapter's cast. The two earlier unnamed Chthonari Engineering Corps
+members (the one who left Thrum on Eden, `thrum.md`; the one who brought
+Thrum to Drithane in 2827, S02E04C01) are rendered *she* under the earlier
+usage, are not Kettsa, and stay unidentified.
+
 ## Arashobal, a Krenyi chief of staff — raised 17 October 2026, DRAFTED same day, all readings ruled
 
 `intake-2026-10-17.md`. Drafted from Dermot's note as
@@ -106,7 +162,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 - [ ] **Verdance**: one Verdani character, but the planet holds four civilisations.
 
 **Peoples the record says serve in the Corps, or could, with no Ranger on record** (added 14 October 2026 from `species-design.md`, *In the Corps*):
-- [ ] **A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.
+- [x] ~~**A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.~~ **Filled 19 October 2026** on Fable at Dermot's direction: Kettsa, Senior Officer, Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone, 2826 UCSD (`src/characters/kettsa.md`; portrait prompt `images.md` § 19, not generated; the section *A Chthonari Ranger, Kettsa* above records the choices; PR #1362).
 - [ ] **An Ovruhn Ranger**: `ovruhn.md`, *In the Corps*, describes Ovruhn Rangers in structural survey, search, acoustic watch and disaster mass care; the one named Ovruhn, Vhen, is a chorus keeper on Thavren. This line is the Corps half of the Ovruhn entry's *"any Corps character"*.
 - [ ] **A Prismeri on a Corps posting**: guild astrogators do Survey Corps fold-route confirmation under the compact, and Prismeri contracts name *Ranger liaison postings*, but no Prismeri individual is on record (the *Federation peoples* Prismeri line above is the people as a whole; this one is the posting). Whether such a posting is a Ranger or a seconded guild member is choice 4 in that section.
 - [ ] **A Verdani in or beside the Corps**: Verdani need only full-spectrum light, which Ranger vessels already carry, and Isren Farrowkin sponsored the Survey Corps data-sharing proposal, but no Verdani Ranger is on record.
