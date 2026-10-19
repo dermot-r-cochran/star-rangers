@@ -15,7 +15,7 @@ permalink: /seasons/s14/e02/
 
 <h1 class="page-title">Season 14 · Episode 2</h1>
 <p class="page-intro">
-  The same season from above the line. The party knocks every shift and is answered every shift, and in its fourth year on the ground the survey goes back through its own log and finds what it has been calling the one voice on the roof that was not an instrument's.
+  The same season from above the line. The party knocks every shift and is answered every shift, and in its fourth year on the ground the survey goes back through its own log and finds what it has been calling the one voice on the roof that was not an instrument's. Then the other half of the same finding: under every one of those entries is the answer from the line, kept for two years by an instrument the one who gave it does not know is there. The party argues what keeping means and chooses, for the length of a knock, to know less than its instrument could tell it, and to write that down.
 </p>
 
 {% set seasonNumber = "14" %}
