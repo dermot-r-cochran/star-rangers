@@ -4134,6 +4134,20 @@ none. No person is in frame: the Chthonari are inside the rock.
   - Filed alt (from the filed frame, round two `tsittak-2`): *Tsittak from a few kilometres out: a lone, lumpy, potato-shaped body of dark nickel-iron pitted with craters, mostly in shadow against a dense star field and a faint band of the galaxy, with a small warm amber dock recessed into one cut face and a faint cross of cut channels running from it.*
   - **Written 16 October 2026** (Opus, under the 16 October rule); generated 16 October 2026; round one read as a toaster and was re-rolled, round two variant 2 filed (#1261).
 
+### 5m. Outstanding lore illustrations — 19 October 2026 (Ilenne, owed; no prompt yet)
+
+A new Locations page with no image: `src/lore/planets/ilenne.md`, the Mnemari
+home world, drafted at Dermot's *"1 A"* so the Mnemari body could be derived
+from a world (`species-design.md`, *Mnemari — a body from Ilenne*). A place
+gets an illustration, so one is owed; the page carries no `image:` until a
+frame is filed. **No prompt is written yet**, by the scope of that PR. When it
+is, it is Opus's under the 16 October rule (a world is mostly physics), and
+what binds it is on the page: an old orange dwarf, so warm, low-contrast light;
+high, old, dry uplands of plateau and broad valley far from small shallow seas;
+low, long-lived producers that can stand grey for decades in a dry spell; no
+Mnemari in frame unless the portrait's body section is followed, and no human
+settlement. Generation is a desktop step.
+
 ### 6. Images that should not stay — audited 2026-08-10
 
 *(Heading restored 12 October 2026: it was lost when section 5d was inserted on 9 October (commit `030575d7`), which left this audit reading as part of 5e.)*
@@ -5727,7 +5741,16 @@ deck's; the only figure in frame.
   - *(Filed 19 October 2026 at Dermot's pick, variation 4 of 4: the featureless dome, six legs, graphite plates over the top only and the copper tab nearest the forward edge of the shell. 2 failed as an Earth beetle; 1 and 3 placed the tab mid-back or low on the side. Imported at 1,200 px, finish strength 1.)*
   - **Desktop step:** `node scripts/image-prompts.js --generate --only kettsa` (the entry carries the two filed Chthonari frames as references, so the script sends them); two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/kettsa.md` from the filed frame.
 
-### 20. Missing portraits — Ulessa, the first Mnemari the record names (written 19 October 2026, Fable; no prompt yet: the body waits on a design)
+### 20. Missing portraits — Ulessa, the first Mnemari the record names (written 19 October 2026, Fable; body derived the same night, prompt still to write, Fable's)
+
+**Update, 19 October 2026: the body exists.** Dermot ruled *"1 A"* (derive the
+body from the world first). `src/lore/planets/ilenne.md` now gives the world,
+`species-design.md`, *Mnemari — a body from Ilenne*, derives the body with
+its prompt vocabulary, standard negative and triage, and `src/lore/mnemari.md`
+is clarified (*humanoid* explained as the facilities standard's word, frame
+Endoskelia, not the human frame). The prompt below is **still unwritten**: it
+is Fable's, written here from that section. Everything under *What is fixed
+for the prompt* stands; the first triage step now reads against the section.
 
 Dermot's *Yes please* of 19 October 2026 to the next line of the 14 October
 worklist in `open-questions.md`: a Mnemari character page and portrait
@@ -5804,11 +5827,11 @@ is the only thing owed:
   fails).
 - **Proposed alt:** none until a frame is filed; an alt describes what a
   file shows.
-- **Written 19 October 2026** (Fable); not generated, and not to be
-  generated until a Mnemari body is derived in `species-design.md` and the
-  prompt written from it.
-- **Desktop step:** none yet. When the body is derived: write the prompt
-  here from the sheet, then `node scripts/image-prompts.js --generate --only ulessa`,
+- **Written 19 October 2026** (Fable); not generated. The body was derived
+  the same night in `species-design.md`, *Mnemari — a body from Ilenne*; the
+  prompt is the one thing owed, and it is Fable's to write from that section.
+- **Desktop step:** none yet. Once Fable has written the prompt here from
+  the section: `node scripts/image-prompts.js --generate --only ulessa`,
   two variations, two rounds at most; file through
   `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to
   `src/characters/ulessa.md` from the filed frame.

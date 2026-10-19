@@ -5,12 +5,14 @@ category: "Species"
 tags: [mnemari, species, ilenne, federation-of-sentient-beings, memory, mediation, indefinite-lifespan]
 description: "A sapient people native to Ilenne with no natural upper bound on lifespan and no natural decay of memory — whose culture is built less around growing old than around what to do with a mind that never has to let anything go."
 image: "mnemari.jpg"
-image_alt: "Designed title card on a dark violet star field: the category SPECIES in spaced capitals at the top, the thin outline of a standing figure held in a soft glow, and below a short rule the title MNEMARI in pale serif capitals, subtitled 'Those Who Do Not Forget' and 'No upper bound on lifespan, no decay of memory'."
+image_alt: "Designed title card on a dark violet star field: the category SPECIES in spaced capitals at the top, the thin outline of a dial with twelve tick marks and a single hand, held in a soft glow, and below a short rule the title MNEMARI in pale serif capitals, subtitled 'Those Who Do Not Forget' and 'No upper bound on lifespan, no decay of memory'."
 ---
 
 Ask a Mnemari mediator how they can quote both sides of a two-century-old boundary dispute word for word, and the answer is never framed as a feat. It is framed as a liability they have learned, slowly, to carry without it crushing them.
 
-The **Mnemari** are a sapient, humanoid people native to **Ilenne**, distinguished from every other catalogued Federation species by two linked traits: Mnemari biology sets no natural upper bound on lifespan, and Mnemari cognition does not naturally lose episodic memory to time the way every other known sapient mind does. Neither trait makes a Mnemari hard to kill. Both make a Mnemari hard to finish knowing.
+The **Mnemari** are a sapient people native to **[Ilenne](/star-rangers/lore/planets/ilenne/)**, distinguished from every other catalogued Federation species by two linked traits: Mnemari biology sets no natural upper bound on lifespan, and Mnemari cognition does not naturally lose episodic memory to time the way every other known sapient mind does. Neither trait makes a Mnemari hard to kill. Both make a Mnemari hard to finish knowing.
+
+The first Federation filing called the Mnemari *humanoid*, and the word meant what it still means in the name of the facilities standard below: that a Mnemari shares a room, an atmosphere and a table with a human without special arrangement. It was never a description of the body. That body was built by Ilenne's dry uplands, is filed in the [frame](/star-rangers/lore/cross-biosphere-taxonomy/) Endoskelia, and is not on the human frame; the [standing refusal](/star-rangers/lore/what-the-record-refuses/) names the Mnemari among the peoples none should describe, draw or imagine as a human silhouette.
 
 ## Indefinite, Not Immortal
 

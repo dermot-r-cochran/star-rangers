@@ -885,6 +885,220 @@ Sohrel's portrait re-rolled against it the same night.
 
 ---
 
+## Mnemari — a body from Ilenne (19 October 2026, Dermot's *"1 A"*)
+
+**Why.** `src/lore/mnemari.md` (11 July 2026) called the Mnemari *humanoid*.
+The 13 August ruling (the Krenyi the only other sapient humanoids), sharpened
+on 16 August to *the human frame*, the refusal page's *Bodies and Species*
+(the Mnemari among the peoples *genuinely otherwise*) and the singular-exception
+rule of 17 October all came after it, and Ulessa's page (PR #1366) left her
+portrait waiting on a body. Option A in `open-questions.md`, ruled *"1 A"*
+the same night: derive the body from the world first, then clarify the word.
+Drafted on Opus. Every point is marked **derived** (it follows from a page
+cited, or from physics applied to one) or **proposed** (a choice that fits,
+his to overrule under the dilemma-only rule; none met the bar for him).
+
+### What the rulings and pages force (derived)
+
+- **Not on the human frame.** The Krenyi are the only other people on it
+  (`what-the-record-refuses.md`; CLAUDE.md, *A singular exception stays
+  singular*). Endoskelia is allowed, and a third people in that row is *a
+  taxonomic neighbour and nothing more* (`cross-biosphere-taxonomy.md`).
+- **Not a metazoan**, and nothing about cells or a genetic molecule is
+  asserted (`cross-biosphere-taxonomy.md`, *It Goes Deeper Than Ancestry*;
+  `what-a-life-is-built-from.md`). The species page's *cellular damage* is the
+  record's translation, left as it stands.
+- **Shares a room, an atmosphere and a table without special arrangement**
+  (`mnemari.md`, *Interspecies Notes*: *fully compatible with standard
+  humanoid life-support… shared facilities*). So it breathes oxygen, tolerates
+  station air and near-standard gravity, and is of a size rooms and doors
+  built for others admit. The phrase names a facilities standard, as the same
+  phrase does on the Chthonari, Prismeri and Verdani pages.
+- **No senescence, death only by event; a child matures at an unremarkable
+  pace** (`mnemari.md`). An eleven-centuries elder shows *no biological
+  indicator* of being nearer death than a Mnemari fifty years out of
+  childhood, so whatever marks the years on a body cannot be ageing.
+- **It speaks, and gives words back in the order they were said**
+  (`mnemari.md`; `ulessa.md`, *The Work*): a voice that carries speech to a
+  room. The language is rendered only in translation.
+- **It takes a place at a table** as a witness (`the-ladder-in-other-tongues.md`,
+  *sit at compact tables as memory*; `ulessa.md`). *Sit* is the figure of
+  speech, not a posture the record fixes.
+- **Pronoun *she*** for the two individuals on record; existing usage stands.
+
+### What Ilenne derives (derived from `src/lore/planets/ilenne.md`)
+
+The world page is new in the same PR and every fact on it is an extension,
+chosen for what a body needs and nothing more. Each, with what it is for:
+
+| World fact (page) | What it is for |
+| --- | --- |
+| Old, quiet orange dwarf | A long, steady run for a slow biosphere; no stellar flares cutting lives short |
+| Gravity a little under 0.9 standard | A large walker of a big animal's mass; standard 1 g in a shared facility within reach |
+| Nitrogen-oxygen air near Earth's pressure, oxygen a little lower, carbon dioxide about 70 times Earth's (about 3 kPa) | Warmth under a dim star; oxygen breathers, so station air is inside the Mnemari envelope; a human needs a scrubber mask, so Tír na nÓg stays the one naturally human-compatible world |
+| Small shallow seas, high dry uplands, cool climate | A continental, water-limited world where life walks between scattered refuges |
+| Rain in wet runs, failing for dry spells of no period, three years to most of a century | Exact long memory pays: the last long drought is the only guide to the next |
+| Slow, sparse producers; few large hunters | Low death from outside, the condition under which a lineage has least reason to senesce (the evolutionary theory of ageing: where extrinsic mortality is low, repair keeps paying; on Earth, the long-lived cold, slow animals) |
+
+The page makes the link in the Archive's voice and stops at a reading (*a cause
+deserves caution, since nobody observes one*): a mind that loses no episode and
+a body that does not wear out are, on Ilenne, one answer. It gives no mechanism
+for either, which keeps `mnemari.md`'s *no mechanism… that "old age"
+describes* and the Achterberg codex's *mechanism-free* intact. The cost stays
+the species page's: memory is a liability carried, not a feat, and nothing new
+is said about the Setting-Down.
+
+### The body (proposed unless marked)
+
+Answered by this file's seven questions, in order.
+
+1. **What the world did to it.** A large, slow, efficient **walker** that
+   covers long distances between scattered water and food at little cost and
+   never needs to run (derived from the uplands, the refuges and the few
+   hunters). **Frame: Endoskelia** (derived: a land walker of this mass at
+   0.9 g that must keep one body in repair for centuries wants a skeleton that
+   is repaired in place; a shell must be moulted to grow, and a hydrostat
+   carries a large walker badly). **Scale:** about the mass of a pony,
+   around 200 kg; the back level at about a standing human's chest
+   (1.3 m); some 2 m from the head's tip to the hindquarters (proposed, sized
+   for doors and rooms built for others).
+2. **How it senses.**
+   - *Far hearing, low and wide.* Thunder over a far ridge, wind changing
+     over open country and another walker's call are the news that matters on
+     Ilenne, and low frequencies carry farthest. Proposed: broad, oval
+     hearing membranes flush with the hide on each flank behind the
+     shoulders, set as far apart as the body allows, since wide spacing is
+     what resolves direction at long wavelengths. **No external ears.**
+   - *Smell into the wind.* Water and growth are found by scent first.
+     Proposed: two breathing-and-smelling slits at the tip of the head, the
+     head swung into the wind to read it.
+   - *Sight for the horizon.* Open country and weather on the skyline favour a
+     wide field. Proposed: **one large eye on each side of the head**, with
+     only a narrow overlap forward and down, where the working limbs work.
+     So a Mnemari who looks at someone turns one side of the head toward
+     them, and a witness attending to the chair is seen side-on.
+   - Close work is felt as much as seen: the working limbs' digits are the
+     fine sense (proposed).
+3. **Limbs.** **Six.** Four long walking legs on broad, padded feet with
+   short splayed blunt toes for stony ground (derived from the walk and the
+   ground; the feet proposed). Two shorter **working limbs** set beneath the
+   base of the neck, carried folded under the head while walking and reaching
+   forward and down to work: picking, digging at roots, scooping at a seep.
+   Each ends in a ring of short, blunt, many-jointed digits; one limb holds
+   while the other works, which is *manipulation finer than the manipulator*
+   (proposed, on this file's 13 August answer). The back stays level: **there
+   is no upper body**, and the working limbs do not rise from a torso.
+4. **Symmetry.** Bilateral, as a walker's (derived).
+   **Head and neck** (proposed): a short thick neck carrying the head forward
+   of the shoulders at about the line of the back; the head a long, low wedge,
+   the eyes on its upper sides, the breathing slits at the tip, the mouth on
+   the underside between the bases of the working limbs, so that nothing on
+   the head reads as a face. No horns, no teeth showing, **no tail**.
+5. **Life cycle.** Matures at an unremarkable pace (derived). **Growth is
+   determinate**: the body reaches adult size and stops (proposed, since a body
+   that kept growing would read its age at a glance, which the page's
+   eleven-centuries elder forbids). **No marks of age**: no greying, no
+   sagging, no wear (derived). What the years leave is **healed injury**: the
+   hide mends with a pale seam, so an old Mnemari carries every accident
+   survived (proposed, from death and harm by event only). Nothing is proposed
+   about sexes, birth or kin beyond the page's kin-councils.
+6. **What a station costs.** Little in the body, as the page says (derived).
+   Two small costs (proposed): furniture is built for bodies that sit, so a
+   Mnemari stands at a table with the working limbs resting on it; and a
+   station's machinery hums in the low register the flank hearing is built for,
+   so a posting is lived in a low noise nobody else notices. The daily cost
+   the record names is not physical: outliving colleagues in full clarity
+   (`mnemari.md`).
+7. **What the biology made them good at, and the job.** The memory, and the
+   witness's and mediator's work that follows from it (derived, canon). The
+   body adds nothing to the job and is not offered as a reason for it.
+
+**Covering** (proposed): a thick, dry, matte hide with a fine close nap like
+felt, insulating on cold nights, water-tight in a dry world, shedding dust;
+one muted dun-grey tone across the body, quiet and uniform, so the hide says
+nothing. **Alternative:** a bare folded hide. **Voice** (proposed): low, able
+to carry across open country, and quiet in a room.
+
+**Dress and marks: open, his, and not needed for a portrait.** Cloth on a
+level-backed body is possible and not proposed; `civilian-dress.md`,
+*Mnemari, for contrast*, keeps *Not stated*, and a witness's mark is the
+uniform-equivalent question above, picked only in the page that needs it.
+
+### Traps closed
+
+- **A human silhouette with features applied** (the Qiren Tal failure): no
+  upright torso, no face, no pair of forward eyes, no ears.
+- **An upright two-armed biped**: six limbs, a level back, the working limbs
+  beneath the neck. And **not a centaur**, which is the drift a six-limbed
+  walker invites: nothing rises above the forequarters.
+- **The Elf.** The Mnemari concept rhymes with Tolkien's Elves more than the
+  Krenyi do: an undying memory, a weariness of carrying it, a withdrawal from
+  public life. The record already refuses it point by point, and a prompt or
+  a scene must not let it back in: **indefinite, not immortal** (killed by
+  accident like anyone, `mnemari.md`); **not fading and not leaving** (the
+  Setting-Down is a step back into Held Roles on Ilenne, not a departure); the
+  memory a **liability**, never wisdom or lore; no elder race ranked above
+  anyone (`what-the-record-refuses.md`, minds are not ranked). For prompts: no
+  pointed ears, no luminous skin, no robes or circlets, no ancient or
+  sorrowful gaze.
+- **The grey alien**, the stock *witness* from elsewhere: no large bald head,
+  no large black eyes, no slight body.
+- **The Earth animal.** A long-headed, long-legged walker of the uplands
+  invites the horse, camel, llama, deer and giraffe; padded feet and a hide
+  invite the elephant. Each fails on inspection: no hooves, no ears, no mane,
+  no tail, no trunk, a mouth beneath the head, hearing on the flanks, six
+  limbs. A likeness, if anyone draws one, is the observer's
+  (`cross-biosphere-taxonomy.md`, *A Likeness Belongs to Whoever Sees It*).
+- **The infallible witness** (the trope `five-o-second-season-treatment.md`
+  §2 flagged): the body grants nothing; the memory is the species page's, and
+  so is its cost.
+
+### Prompt vocabulary and standard negative (for the prompt, which is Fable's)
+
+The portrait prompt is written in `images.md` § 20 by Fable; this is the
+vocabulary it should draw on, structure first and never a resemblance.
+
+**Vocabulary.** *A large, level-backed, six-limbed walker, its back at the
+height of a standing person's chest; four long legs on broad padded feet with
+short splayed blunt toes; two shorter working limbs set beneath the base of
+the neck, each ending in a ring of short blunt jointed digits, resting on or
+folded beneath the table's edge; a short thick neck carrying a long, low,
+wedge-shaped head forward at the line of the back; one large dark eye on each
+upper side of the head; two narrow breathing slits at the tip; no mouth
+visible from the side; no ears; broad oval hearing membranes flush with the
+hide on each flank behind the shoulders; a dry, matte hide with a fine close
+nap, one muted dun-grey tone; a few pale healed seams; no tail. Standing at a
+table, attending to the speaker by turning one side of the head toward them.*
+
+**Standard negative.** *humanoid, human face, human torso, upright posture,
+biped, two arms, centaur, sphinx, elf, pointed ears, robes, circlet, glowing
+skin, grey alien, large black eyes, big bald head, horse, pony, camel, llama,
+alpaca, deer, giraffe, elephant, trunk, tusks, horns, mane, tail, hooves,
+external ears, teeth, insect, mantis, mandibles, antennae, dragon, lizard,
+scales, wet or glossy skin, white hair, beard, wrinkles, aged, frail, wise
+elder, sorrowful gaze.*
+
+**Triage** keeps § 20's three steps; the first now reads against this
+section: a body with an upper torso, a face, forward eyes, ears, hooves or a
+tail fails on sight.
+
+### Where this goes
+
+- **Published with this section:** `src/lore/planets/ilenne.md` (new, all
+  extension) and a clarification in `src/lore/mnemari.md`: *humanoid* removed
+  from the people's description, the early filing's word explained as the
+  facilities standard's, the frame given as Endoskelia and the human frame
+  refused. The species card, which drew a human head-and-shoulders outline,
+  was regenerated with the time device (`make-emblem-card.ps1 -Device
+  sundial`). No other body point is written to a public page; they wait for a
+  page that needs them, on the Cerebraun pattern.
+- **Ulessa's portrait** (`images.md` § 20): the prompt is Fable's, from this
+  section.
+- **Ilenne's illustration** is owed (`images.md` § 5m), a world's prompt being
+  Opus's under the 16 October rule; not written here.
+
+---
+
 ## Living with other life — companions, working animals and commensals, people by people
 
 Written 14 October 2026 at Dermot's direction, verbatim: *"Pets and companion
@@ -2158,7 +2372,8 @@ disagreement between a rendering and a tab, the tab is right"* (same page).
   The contrast is the point. The one people nearest the human frame is the one
   the Academy trains cadets on, *"not for any hazard the Krenyi present but for
   the assumptions the frame invites"* (`krenyi.md`).
-- **Mnemari** (humanoid by their page). No Ranger on record. DERIVED: they serve
+- **Mnemari** (not on the human frame; the page's early *humanoid* clarified
+  19 October 2026, body under *Mnemari — a body from Ilenne* above). No Ranger on record. DERIVED: they serve
   the Federation as mediators and treaty-witnesses (`mnemari.md`). They matter
   here for one reason: a people with no natural upper bound on lifespan meets
   the Corps' service ages (choice 1).

@@ -16,7 +16,7 @@ Her name is given as the Federation record gives it, and nothing more is known o
 
 ## Known History
 
-- Born on Ilenne, in a year the record does not hold. Ilenne has no page, and nothing of her life there is on file.
+- Born on Ilenne, in a year the record does not hold. Nothing of her life on [Ilenne](/star-rangers/lore/planets/ilenne/) is on file.
 - Requested as a witness to assembly sessions revisiting old compacts for a little over two hundred years: the sessions are on the Federation record, and the record does not list them. Of all the tables she has sat at, she has been asked in the hearing of the Archive about none in particular.
 - One of the witnesses who raise the standing item of Federation self-criticism that the Ollune delegate is generally not in the room, the [Ollune](/star-rangers/lore/ollune/) position arriving by courier, lagged, and read into the record by someone who is not Ollune. The Ollune page says the item is raised most often by Mnemari witnesses, who cannot let the assembly forget how long it has been raised; it does not say which. Ulessa is one of them, and has said how long, to the session and the day, when asked.
 - In 2826 UCSD she is on the roll of witnesses the assembly requests, not Set Down, and the record places her nowhere else.
@@ -41,7 +41,7 @@ Ilenne's custom gives her one way out, and the page gives its shape: the Setting
 
 ## What the Record Does Not Carry
 
-Her age, beyond the two centuries of service. Her body, which no page describes: the species page calls the Mnemari compatible with standard humanoid life-support, and the [standing refusal](/star-rangers/lore/what-the-record-refuses/) names them among the peoples that are not a human silhouette, and between those two statements the record has not yet derived what a Mnemari looks like, so the page carries no portrait. Her kin, and what Ilenne's kin-councils decided in bringing her into being. The Mnemari language, which the record renders only in translation and has marked as an absence. Any table she sat at by name, any delegate she has disagreed with, and any chapter. Whether she has ever sat at the renewal of the Star Rangers' own material-support compact; compact tables are where the Mnemari sit as memory, and that one is renewed by assembly vote each generation, but the record has not placed her there.
+Her age, beyond the two centuries of service. Her body, which no page describes beyond its frame: the species page files the Mnemari in Endoskelia, built by Ilenne's uplands and not on the human frame, as the [standing refusal](/star-rangers/lore/what-the-record-refuses/) requires, and the record has not yet set down what a Mnemari looks like, so the page carries no portrait. Her kin, and what Ilenne's kin-councils decided in bringing her into being. The Mnemari language, which the record renders only in translation and has marked as an absence. Any table she sat at by name, any delegate she has disagreed with, and any chapter. Whether she has ever sat at the renewal of the Star Rangers' own material-support compact; compact tables are where the Mnemari sit as memory, and that one is renewed by assembly vote each generation, but the record has not placed her there.
 
 ## See also
 

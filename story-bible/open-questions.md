@@ -47,7 +47,7 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
-## A Mnemari treaty-witness, Ulessa — Dermot's *Yes please* of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; the portrait waits on a body
+## A Mnemari treaty-witness, Ulessa — Dermot's *Yes please* of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; the body RULED *"1 A"* the same night and derived; the portrait prompt is Fable's
 
 Dermot, 19 October 2026: *Yes please* to a Mnemari character page and
 portrait prompt, the first unticked line of the 14 October worklist below.
@@ -96,6 +96,37 @@ exception and is not recommended; (C) leave the page bare indefinitely, as
 a people whose body the record declines to draw, which the refusal page
 would allow but the 7 October rule (a character with a body gets a portrait)
 does not favour.
+
+**RULED 19 October 2026: A** (Dermot, verbatim *"1 A"*). Landed the same
+night on Opus, in one PR:
+- `src/lore/planets/ilenne.md`, new, every fact an extension chosen for the
+  body: an old, quiet orange dwarf; gravity a little under 0.9 standard;
+  nitrogen-oxygen air near Earth's pressure with about seventy times Earth's
+  carbon dioxide (a human needs a scrubber mask, so Tír na nÓg stays the one
+  naturally human-compatible world; station air sits inside the Mnemari
+  envelope); cool, dry uplands far from small shallow seas; rain in wet runs
+  and dry spells of no period, three years to most of a century; slow, sparse
+  producers and few large hunters. The page reads the two Mnemari traits as
+  one answer to that world and gives no mechanism for either.
+- `species-design.md`, *Mnemari — a body from Ilenne*: a level-backed,
+  six-limbed walker in Endoskelia, about 200 kg, back at a standing human's
+  chest; four walking legs, two working limbs beneath the neck; one eye on
+  each side of a long low head, flank hearing membranes, no ears, no face, no
+  tail; determinate growth, no marks of age, healed injuries as pale seams;
+  dry felted dun-grey hide. Each point marked derived or proposed, the traps
+  closed (human frame, biped, centaur, Elf, grey alien, Earth animal,
+  infallible witness), and the prompt vocabulary and standard negative left
+  for Fable.
+- `src/lore/mnemari.md`, a clarification: *humanoid* removed from the
+  people's description and explained as the facilities standard's word, the
+  frame given as Endoskelia, the human frame refused; the species card's
+  head-and-shoulders outline regenerated as a dial. `ulessa.md` and the
+  Federation page now link Ilenne.
+- Every body point was settled by recommendation under the dilemma-only rule,
+  his to overrule; none met the bar for him. **Still owed:** Ulessa's prompt
+  (`images.md` § 20, Fable's); Ilenne's illustration (`images.md` § 5m, no
+  prompt yet, Opus's); a Mnemari's dress and witness's mark (`civilian-dress.md`,
+  not stated, picked only when a page needs it).
 
 ## A Chthonari Ranger, Kettsa — Dermot's direction of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; one line open
 
@@ -194,7 +225,7 @@ At his two questions of 14 October (*"Dress codes, styles and ornamentation for 
 Dermot asked, 14 October 2026: *"Any other people groups that seem under represented either as characters or as settlements?"*, adding *"Keeping in mind that 6 centuries have past and that people groups may have blended in some ways."* A read-only survey counted characters, POV chapters and settlement pages for every people and group the record names, using the record's own 29th-century groupings and not today's ethnic or national categories. He chose A, then B, then C. **A** was a Knarr Line and a Tally character (Tove Strand and Tare, PR #1206). **B** was a second Cerebraun and a Meridian character (Tavesh and Sixth Course, PR #1205). Portraits for all four are in PR #1207. **C** is this list: the gaps that remain, kept here so each can be filled when a chapter needs one rather than all at once.
 
 **Federation peoples with full lore and nobody to speak for them** (no character, no POV):
-- [x] ~~**Mnemari**: `src/lore/mnemari.md`, with no home-world page (Ilenne).~~ — **filled 19 October 2026** (Fable, PR named in the section *A Mnemari treaty-witness, Ulessa* above): `src/characters/ulessa.md`; the portrait waits on a body design, `images.md` § 20. Ilenne still has no page.
+- [x] ~~**Mnemari**: `src/lore/mnemari.md`, with no home-world page (Ilenne).~~ — **filled 19 October 2026** (Fable, PR named in the section *A Mnemari treaty-witness, Ulessa* above): `src/characters/ulessa.md`; the portrait waits on a body design, `images.md` § 20. Ilenne still has no page. *Update, same night:* Ilenne's page and the Mnemari body landed at his *"1 A"* (section above); the portrait prompt is Fable's.
 - [ ] **Ollune**: `src/lore/ollune.md`, `src/lore/planets/cirrane.md`.
 - [ ] **Prismeri**: `src/lore/prismeri.md`, `src/lore/planets/prismere.md`. They are seen only through Halle Ostrander's drawings.
 
