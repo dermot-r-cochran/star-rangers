@@ -865,6 +865,26 @@ Sohrel's portrait re-rolled against it the same night.
 
 ---
 
+## The Told — a second warm's body (19 October 2026, Dermot's *"Alternative body design for Pandoids?"*, then *"or at least for any new Pandoids from different clans"*)
+
+**Why.** Every Told portrait prompt so far has reached the body by resemblance, a young bear, a panda, a teddy bear, and then negated the same words. The generator answers with the nearest primate or sloth face: Teddy's four rounds of 7 September came back great apes, and all four Keeps-A-Hand-On-It variations of 19 October leaned to a young sloth. Dermot's direction keeps the four filed Told frames as they are (Stone-First, Teddy, Went-Round, Keeps-A-Hand-On-It) and gives any Pandoid of another community a body designed from structure instead.
+
+**What stays fixed** (DERIVED, `planets/fliade.md`): large, powerfully built and upright; thick fur that reads as grey against the stone; a hand; Endoskelia; *strength, gait, mass and face are all their own*. A second warm is the same people, so a surveyor would still file it as Pandoid.
+
+**What may differ** (PROPOSED). Separated warms, kept apart by the deep networks for long enough, would differ as island populations do: size, coat, and the plan of the face. The difference is a population's, never a sign of rank, worth or temperament, and never a tell for anything (the cast principles; the dialect device's *a difference is never a tell*).
+
+**Three face plans, studied 19 October 2026** (design studies by Opus, two each, no references, not prompts of record; kept with the session's scratch, not in `src/`):
+
+- **A, the facial disc.** A broad flat disc of close fur like an owl's ruff, slit nostrils, eyes deep under a brow fold. Escapes the bear; reads stern, an owl-monkey in one study, so it sits closest to the tone line.
+- **B, the whiskered face.** A blunt face with very small eyes nearly hidden in the fur and a fan of long pale sensory whiskers, a body that feels its way in the dark. Least primate of the three, gentle, and the one built from the cavern outward, as the 22 September rule asks a people's body to be. **Recommended.**
+- **C, the domed head.** Short close fur on a smooth dome, large wet eyes set low, closable nostril slits, a wide lipless mouth: a seal's plan rather than any land animal's. Plainly alien; one study hid the face entirely.
+
+**Prompt rules for a second warm**, whichever plan is chosen: say the structure and never the resemblance (no *panda*, *teddy*, *bear-like* in the positive text); keep the negatives for bear, panda, ape, monkey, sloth and lemur; no reference frames from the first warm, since those carry its face back in.
+
+**Open, his:** which plan; and whether the variant enters canon. The canon half is a separate question, the extension to `planets/fliade.md` that the Told are not one warm (his *"Option B perhaps"*, same evening).
+
+---
+
 ## Living with other life — companions, working animals and commensals, people by people
 
 Written 14 October 2026 at Dermot's direction, verbatim: *"Pets and companion
