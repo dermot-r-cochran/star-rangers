@@ -5,6 +5,8 @@ id: keeps-a-hand-on-it
 species: Pandoid
 role: "The smallest of the Told, born after the two stones, the deep networks, Fliade"
 status: Active
+image: "keeps-a-hand-on-it.jpg"
+image_alt: "A small grey-furred being of the Told, round-headed and earless, squatting on its hind legs on the pale silt floor of a cavern lit amber and blue-green by fungi on the rock, one hand resting on a stone in a row of loose stones, its face turned down to the stone and away from the camera."
 aliases:
   - "the smallest (the Told, before the name)"
 tags: [alien, pandoid, fliade, below-the-roof, cavern-biosphere, star-rangers]
