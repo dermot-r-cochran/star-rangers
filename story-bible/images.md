@@ -5727,6 +5727,92 @@ deck's; the only figure in frame.
   - *(Filed 19 October 2026 at Dermot's pick, variation 4 of 4: the featureless dome, six legs, graphite plates over the top only and the copper tab nearest the forward edge of the shell. 2 failed as an Earth beetle; 1 and 3 placed the tab mid-back or low on the side. Imported at 1,200 px, finish strength 1.)*
   - **Desktop step:** `node scripts/image-prompts.js --generate --only kettsa` (the entry carries the two filed Chthonari frames as references, so the script sends them); two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/kettsa.md` from the filed frame.
 
+### 20. Missing portraits — Ulessa, the first Mnemari the record names (written 19 October 2026, Fable; no prompt yet: the body waits on a design)
+
+Dermot's *Yes please* of 19 October 2026 to the next line of the 14 October
+worklist in `open-questions.md`: a Mnemari character page and portrait
+prompt. The page landed in the same PR as this entry
+(`src/characters/ulessa.md`): a treaty-witness of Ilenne, requested for a
+little over two centuries to Federation assembly sessions that revisit old
+compacts, one of the Mnemari witnesses who raise the standing Ollune item,
+present in 2826 UCSD and not Set Down. The page carries no `image:`. **This
+entry writes no prompt, and says why**, under the 16 October clarification in
+*Conventions* (*When the body is not relevant*) read with the 13 August ruling.
+
+**What the record says of the body, and why it is not enough to draw.**
+`src/lore/mnemari.md` (written 11 July 2026) calls the Mnemari *a sapient,
+humanoid people* and *fully compatible with standard humanoid life-support*.
+On 13 August 2026 Dermot ruled that the Krenyi are the only other sapient
+humanoids, sharpened on 16 August to *the only other people built on the
+human frame* (`species-design.md`, head); the published refusal page now
+names the Mnemari among the peoples that are *genuinely otherwise* and says
+*none of these is a human silhouette with features applied to it, and none
+should be described, drawn or imagined as one*
+(`what-the-record-refuses.md`, *Bodies and Species*); and
+`cross-biosphere-taxonomy.md` files Endoskelia as humans, Krenyi and
+Prismeri, with no Mnemari in any frame. The species page's word predates the
+ruling, and the three story-bible lines that repeat it (`species-design.md`,
+*For contrast*; `civilian-dress.md`, *Mnemari, for contrast*;
+`five-o-second-season-treatment.md`, §2) each cite the page and nothing
+else. So what the record states of the body, read under its own rulings, is
+one negative and one compatibility: not the human frame, and able to live in
+a standard oxygen habitat, which the Verdani also can. No world page exists
+(Ilenne has none), no ecology, no sense the body is built around. A portrait
+prompt written tonight would have to invent the form, which is the drift
+`species-design.md` was started on 13 August to stop, and a form invented in
+a prompt becomes the people's body by the first filed frame. The 16 October
+rule's logic applies: the page is complete without a portrait, not pending,
+until a page states the body.
+
+**Settled by Fable under *Who approves whom*, his to overrule:** the ruling
+governs the word; the Mnemari are not on the human frame, and the species
+page's *humanoid* is owed a clarification (a word from before the ruling,
+not a canon commitment) in a later PR, once a body exists to say it better
+with. Recorded in `open-questions.md` with the options.
+
+**What is fixed for the prompt whenever it is written**, so the body design
+is the only thing owed:
+
+- **References:** none. The only Mnemari image on file is the designed
+  species card (`src/images/lore/mnemari.jpg`), and a card is never a
+  reference for a body; no render is ever a reference.
+- **The frame:** the same form as §§ 15 to 19, a documentary photograph
+  taken inside the world by a 29th-century camera, available light, **16:9
+  landscape** at 1200×675 through `import-image.ps1 -MaxEdge 1200` at finish
+  strength 1; at work, never posed, the 28 July guardrails met by the work.
+- **The place and the work, from the pages:** a Federation assembly session
+  revisiting an old compact (`federation-of-sentient-beings.md`, *Member
+  Worlds*), the witness at the table and not at its head, attention on the
+  chair who is asking, the delegates out of frame or soft. The Federation
+  has no capital world and no standing executive, so the room is a member
+  world's or a hull's and is not named; plain matte furniture, no screens,
+  no lettering, no seal, no flag, the century in the materials and in
+  nothing that announces itself. Nothing in frame reads as a courtroom, a
+  parliament or a UN chamber, each of which the word *assembly* draws and
+  each of which is negated by name.
+- **Dress:** principles 1 to 7 of `civilian-dress.md` apply as for anyone;
+  whether a Mnemari wears cloth at all, and what a witness's mark is, follow
+  the body and are not proposed before it (its *Mnemari, for contrast*
+  block says *Not stated*).
+- **Triage, three things, in order:** first the body against the design
+  sheet it will have (a human silhouette with features applied, a human
+  face with ridges or ears, or an upright two-armed figure fails on sight
+  whatever else it gets right, since that is the refusal the page carries);
+  then the room and the century (a courtroom, a parliament, a UN chamber, a
+  lectern, a gavel, a flag, a screen, a nameplate or any lettering fails);
+  then the guardrails (attention to camera, a posed figure or a studio look
+  fails).
+- **Proposed alt:** none until a frame is filed; an alt describes what a
+  file shows.
+- **Written 19 October 2026** (Fable); not generated, and not to be
+  generated until a Mnemari body is derived in `species-design.md` and the
+  prompt written from it.
+- **Desktop step:** none yet. When the body is derived: write the prompt
+  here from the sheet, then `node scripts/image-prompts.js --generate --only ulessa`,
+  two variations, two rounds at most; file through
+  `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to
+  `src/characters/ulessa.md` from the filed frame.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
