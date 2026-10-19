@@ -47,6 +47,56 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A Mnemari treaty-witness, Ulessa — Dermot's *Yes please* of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; the portrait waits on a body
+
+Dermot, 19 October 2026: *Yes please* to a Mnemari character page and
+portrait prompt, the first unticked line of the 14 October worklist below.
+Drafted as `src/characters/ulessa.md`, grounded only in `mnemari.md`,
+`federation-of-sentient-beings.md` (*Member Worlds*), `ollune.md`
+(*Federation Membership*), `the-ladder-in-other-tongues.md`,
+`the-shape-of-a-life.md` and `what-the-record-refuses.md`, with the rest
+marked absent in a *What the Record Does Not Carry* section; no `image:`;
+`images.md` § 20 records why no prompt is written. Settled by recommendation
+under the dilemma-only rule, each his to overrule: **the name** (*Ulessa*, a
+coined name rendered as the Krenyi names are, untranslated, with no meaning
+asserted, since the species page gives no naming practice; the alternatives
+are a name rendered by its meaning on the Tally convention, or a name fitted
+to a sound for Ilenne once he gives one); **the pronoun** (*she*, as the
+species page renders its oldest confirmed Mnemari); **the role and place**
+(a treaty-witness requested to assembly sessions revisiting old contested
+compacts, which is the Federation page's own line, and one of the Mnemari
+witnesses who raise the standing Ollune item, which is the Ollune page's);
+**the span** (a little over two centuries of being requested, between the
+page's *two-century-old dispute* and its eleventh-century elder, so that she
+is neither young in her people's terms nor remarkable); **the stage** (not
+Set Down, no notice given, her peers neither said to watch her nor said not
+to, so the page neither makes her the infallible witness the trope default
+watches nor the quietly worrying figure the species page names). Not
+asserted: an age, kin, a body, a table by name, a chapter, or a seat at the
+Ranger compact's renewal (named as a possibility the ladder page's *compact
+tables* allows, and left unplaced). Not done: no chapter; no link from
+`mnemari.md`; no image generated.
+
+**Settled by Fable, his to overrule: the Mnemari body is not stated.**
+`mnemari.md` (11 July 2026) says *humanoid*; the 13 August ruling (Krenyi
+the only other sapient humanoids, sharpened 16 August to the human frame)
+and the refusal page's *Bodies and Species* (the Mnemari among the peoples
+that are *genuinely otherwise*, never drawn as a human silhouette) came
+after it, and the taxonomy page files no Mnemari frame. Read under the
+rulings, the record holds one negative and one compatibility, so a portrait
+prompt would invent the form. Under the 16 October clarification the page is
+complete without a portrait until a page states the body. **Open, his, as
+options:** (A) derive a Mnemari body in `species-design.md` from a world
+first, which means an Ilenne page or at least its ecology, then the prompt,
+then a clarification of the species page's *humanoid* (recommended: it is
+the Cerebraun path of 13 October, and it keeps the exception singular);
+(B) rule the species page's word binding and draw the Mnemari as a third
+people on the human frame, which adds a second instance to a singular
+exception and is not recommended; (C) leave the page bare indefinitely, as
+a people whose body the record declines to draw, which the refusal page
+would allow but the 7 October rule (a character with a body gets a portrait)
+does not favour.
+
 ## A Chthonari Ranger, Kettsa — Dermot's direction of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; one line open
 
 Dermot, 19 October 2026: *"start a Chthonari Ranger in the Engineering Corps
@@ -144,7 +194,7 @@ At his two questions of 14 October (*"Dress codes, styles and ornamentation for 
 Dermot asked, 14 October 2026: *"Any other people groups that seem under represented either as characters or as settlements?"*, adding *"Keeping in mind that 6 centuries have past and that people groups may have blended in some ways."* A read-only survey counted characters, POV chapters and settlement pages for every people and group the record names, using the record's own 29th-century groupings and not today's ethnic or national categories. He chose A, then B, then C. **A** was a Knarr Line and a Tally character (Tove Strand and Tare, PR #1206). **B** was a second Cerebraun and a Meridian character (Tavesh and Sixth Course, PR #1205). Portraits for all four are in PR #1207. **C** is this list: the gaps that remain, kept here so each can be filled when a chapter needs one rather than all at once.
 
 **Federation peoples with full lore and nobody to speak for them** (no character, no POV):
-- [ ] **Mnemari**: `src/lore/mnemari.md`, with no home-world page (Ilenne).
+- [x] ~~**Mnemari**: `src/lore/mnemari.md`, with no home-world page (Ilenne).~~ — **filled 19 October 2026** (Fable, PR named in the section *A Mnemari treaty-witness, Ulessa* above): `src/characters/ulessa.md`; the portrait waits on a body design, `images.md` § 20. Ilenne still has no page.
 - [ ] **Ollune**: `src/lore/ollune.md`, `src/lore/planets/cirrane.md`.
 - [ ] **Prismeri**: `src/lore/prismeri.md`, `src/lore/planets/prismere.md`. They are seen only through Halle Ostrander's drawings.
 

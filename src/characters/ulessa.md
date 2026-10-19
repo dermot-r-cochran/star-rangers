@@ -1,0 +1,52 @@
+---
+layout: character.njk
+title: "Ulessa"
+id: ulessa
+species: Mnemari
+role: "Treaty-witness of Ilenne, requested to sessions of the Federation assembly that revisit old compacts"
+status: Active
+aliases: []
+tags: [mnemari, ilenne, federation-of-sentient-beings, treaty-witness, mediation, memory, indefinite-lifespan, civilian]
+description: "A Mnemari treaty-witness of Ilenne, requested for a little over two centuries to Federation assembly sessions that revisit old compacts, who holds every table she has sat at in full and has never once been able to say that was a long time ago — the first Mnemari the record names."
+---
+
+Ulessa is a [Mnemari](/star-rangers/lore/mnemari/) of Ilenne and a treaty-witness: one of the people the [Federation assembly](/star-rangers/lore/federation-of-sentient-beings/) requests when a session revisits an old, contested compact and wants at the table a memory of the original terms that cannot drift. She has been requested for a little over two centuries. The record names no Mnemari before her, and nothing on her people's page makes her unusual among them; she is one of a routine, and the Archive has no reason to call her the first of anything.
+
+Her name is given as the Federation record gives it, and nothing more is known of it. Whether Mnemari names are given at birth or taken, what hers would mean on Ilenne, and how her people render the name of a person who has outlived everyone who first used it, the record does not state. She is *she* on the Federation record, as the oldest confirmed Mnemari is on the species page.
+
+## Known History
+
+- Born on Ilenne, in a year the record does not hold. Ilenne has no page, and nothing of her life there is on file.
+- Requested as a witness to assembly sessions revisiting old compacts for a little over two hundred years: the sessions are on the Federation record, and the record does not list them. Of all the tables she has sat at, she has been asked in the hearing of the Archive about none in particular.
+- One of the witnesses who raise the standing item of Federation self-criticism that the Ollune delegate is generally not in the room, the [Ollune](/star-rangers/lore/ollune/) position arriving by courier, lagged, and read into the record by someone who is not Ollune. The Ollune page says the item is raised most often by Mnemari witnesses, who cannot let the assembly forget how long it has been raised; it does not say which. Ulessa is one of them, and has said how long, to the session and the day, when asked.
+- In 2826 UCSD she is on the roll of witnesses the assembly requests, not Set Down, and the record places her nowhere else.
+
+## The Work
+
+A witness of her kind is asked for one thing, and the Federation page says what it is: a memory of the original terms that cannot drift the way institutional record-keeping, translation and self-interested retelling all drift over enough centuries. She is not a delegate. She holds no vote, drafts no term and carries no world's position, and when a session asks her what was promised at a table two centuries ago she gives the words, in the order they were said, and then stops. Her people's page says a Mnemari mediator never frames this as a feat, and she does not. Asked once whether she was certain, she answered that certainty was not the question; the question was whether anyone present could contradict her, and nobody present had been there.
+
+What she has that an archive does not is also what it costs her, and the page is plain about the price. A Mnemari does not get to decide a wound is old. The ladder page's line that the Mnemari *sit at compact tables as memory* describes her exactly, and describes what a session sees; what it does not see is that a table is not a document to her but a room, with the people who sat in it, most of whom are dead, and that she is in it again each time she is asked. She goes anyway. The Federation requests her, and she has not yet judged that what she carries is crowding out her capacity to act well in the present, which is her people's own test and nobody else's to apply.
+
+## What Ulessa Cannot Do
+
+Forget. Round an old grief down to something bearable, or let a promise soften into what everyone later agreed it had meant. Say *that was a long time ago* and mean it, since for her it was not; her people's page gives a two-century-old dispute the same weight as one from four days back, and the standing Ollune item, raised and raised again, is exactly as fresh to her as it was the first session she raised it. Treat a mortal colleague's forgetting as anything but strange, however kindly she has learned to allow for it.
+
+## Character Notes
+
+The record holds her manner from the sessions, and it is a witness's: exact, unhurried, and unwilling to be more than she was asked to be. She does not offer the terms until the chair asks for them, and she does not interpret them when she has. Delegates who want a witness to agree that a compact *meant* something find her unhelpful, and the ones who have sat with her longest have stopped asking; what was said is hers, and what it meant is theirs.
+
+Her people's page names a grief specific to Mnemari on long postings among mortal-lifespan colleagues, which is outliving, in full clarity, everyone who mattered to them in a posting, over and over, for as long as they choose to keep serving. Two centuries of sessions is a long posting of that kind, and the record notes, without a reading, that she attends the offboarding rituals the Federation's institutions have learned to hold for a departing Mnemari colleague, and that she is the one for whom they are not held, since she has not gone. She has not been heard to say that it is hard. She has not been heard to say that it is not.
+
+Ilenne's custom gives her one way out, and the page gives its shape: the Setting-Down, taken not at an age but when a Mnemari judges the load is crowding out the present, witnessed, and not a failure. A witness who stays long past the point her peers can see the strain is a quietly worrying figure on Ilenne, not an admired one; nothing on the record says her peers have begun to watch her, and nothing says they have not. She has given no notice of it. If and when she does, a Held Role on Ilenne is open to a witness of last resort, and the record does not know whether she would take it, or whether she would rather, for once, be in a room nobody asked her to remember.
+
+## What the Record Does Not Carry
+
+Her age, beyond the two centuries of service. Her body, which no page describes: the species page calls the Mnemari compatible with standard humanoid life-support, and the [standing refusal](/star-rangers/lore/what-the-record-refuses/) names them among the peoples that are not a human silhouette, and between those two statements the record has not yet derived what a Mnemari looks like, so the page carries no portrait. Her kin, and what Ilenne's kin-councils decided in bringing her into being. The Mnemari language, which the record renders only in translation and has marked as an absence. Any table she sat at by name, any delegate she has disagreed with, and any chapter. Whether she has ever sat at the renewal of the Star Rangers' own material-support compact; compact tables are where the Mnemari sit as memory, and that one is renewed by assembly vote each generation, but the record has not placed her there.
+
+## See also
+
+- [Mnemari](/star-rangers/lore/mnemari/), the people, and [The Federation of Sentient Beings](/star-rangers/lore/federation-of-sentient-beings/), the assembly that requests her
+- [Ollune](/star-rangers/lore/ollune/), for the standing item she raises, and [Cirrane](/star-rangers/lore/planets/cirrane/)
+- [The Ladder in Other Tongues](/star-rangers/lore/the-ladder-in-other-tongues/), for *the Mnemari sit at compact tables as memory*
+- [The Shape of a Life](/star-rangers/lore/the-shape-of-a-life/), for a life with no decline in it, and [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/), for the body the record has not yet drawn
+- [Krenyi](/star-rangers/lore/krenyi/), the contrast her people's page draws: centuries without degradation against no upper bound at all
