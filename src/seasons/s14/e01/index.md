@@ -15,7 +15,7 @@ permalink: /seasons/s14/e01/
 
 <h1 class="page-title">Season 14 · Episode 1</h1>
 <p class="page-intro">
-  The deep side. The small ones have made a game of the stones on the line, and the warm has a telling it has never told to anyone who was not already told.
+  The deep side. The small ones have made a game of the stones on the line, and the warm has a telling it has never told to anyone who was not already told. Stone-First brings that thought down and the warm argues it: which telling, who tells it, and whether the line is a place you can tell from at all.
 </p>
 
 {% set seasonNumber = "14" %}
