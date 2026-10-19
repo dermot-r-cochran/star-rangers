@@ -25,7 +25,7 @@ It was not the first time. Twelve years earlier, a Section Lead on the Survey Co
 
 ## Fellow of the Survey Corps
 
-Syra is a Fellow of the Survey Corps, the guild's highest [distinction](/star-rangers/lore/guild-distinctions/). It is awarded by the guild's own Fellows on a body of work that has changed how a branch does something. On her certification plate the Survey figure stands up in relief. The record does not say in which branch she holds it, or when it was awarded. A distinction is not rank: she holds the desk at Threshold as a Section Lead or above, and on the question her plate names, Rangers who outrank her ask her first.
+Syra is a Fellow of the Survey Corps, the guild's highest [distinction](/star-rangers/lore/guild-distinctions/). It is awarded by the guild's own Fellows on a body of work that has changed how a branch does something. On her certification plate the Survey figure stands up in relief. The record does not say in which branch she holds it, or when it was awarded, only that it came after her standing under Survey Corps jurisdiction was settled; the 2826 protocol note that has her certification *pending review* predates it. A distinction is not rank: she holds the desk at Threshold as a Section Lead or above, and on the question her plate names, Rangers who outrank her ask her first.
 
 ## Character Notes
 
