@@ -436,7 +436,7 @@ Three refusals hold for every block, from the trope default and the standing ima
 - **Coverings, ornament and surface colour:** Not stated, and nothing is proposed; the Doreth wait for a page.
 
 ### Mnemari, for contrast
-- **Conditions and body:** A humanoid people (`src/lore/mnemari.md`), so cloth and a worn mark are available, as for the Krenyi. *Derived.*
+- **Conditions and body:** Not a humanoid people: the species page's early *humanoid* was clarified on 19 October 2026 as the facilities standard's word, and the body, a level-backed six-limbed walker of Ilenne's cool dry uplands, is derived in `species-design.md`, *Mnemari — a body from Ilenne*. Cloth over a level back is possible and not proposed. *Derived* (the frame), *proposed* (the body).
 - **Dress and ornament:** Not stated. Principle 14 is the Krenyi's and does not transfer. The Setting-Down and the Held Roles are a civic change, not a dress one, and no garment or mark is proposed for them. Principles 1 to 7 apply as for anyone. *Proposed.*
 - **Surface colour:** Not stated, and the image is a card.
 
