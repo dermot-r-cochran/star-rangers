@@ -5,7 +5,7 @@ category: "Locations"
 tags: [greenward, verdance, calyx-system, federation-of-sentient-beings, space-habitat, reciprocal-instrument, star-rangers, locations, human]
 description: "The human habitat in orbit around Verdance — one half of a reciprocal instrument with the Federation of Sentient Beings, and the half whose occupants could go down if the rule were only about air."
 image: "greenward-habitat.jpg"
-image_alt: "A single slender habitat ring, small and unlit, hanging above the cloud-banded limb of a blue-white world, the distance between the two the whole picture"
+image_alt: "Greenward, a plain grey habitat ring turning above the cloud-banded limb of a green and blue world, four thin spokes running in to a small central hub, with one flat radiator panel standing straight out from the hub along its axis; nothing docked, nothing lit, and nothing joining it to the ground"
 galaxy: "Milky Way"
 system: "Calyx System"
 locationType: "Habitat"

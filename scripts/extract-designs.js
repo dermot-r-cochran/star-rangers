@@ -117,7 +117,7 @@ const DESIGNS = [
     era: { text: "not dated on its page", quote: "is a single ring in a high circular orbit above Verdance" },
     sources: [["src/lore/greenward-habitat.md", "is a single ring in a high circular orbit above Verdance"]],
     page: true,
-    images: [{ path: "lore/greenward-habitat.jpg", check: "predates", evidence: [IMAGES_FILE, "No ships, no shuttles, no docking structure, no people", "the ring is small against the world, which is the physics"], note: "Generated 7 October 2026 from a prompt of 19 August that names none of sheet D's figures (a hub with docking, spokes, 300 to 400 m at 2 to 2.5 rpm) and negates a docking structure; not re-made since." }],
+    images: [{ path: "lore/greenward-habitat.jpg", check: "agrees", evidence: [IMAGES_FILE, "the only one whose radiator stands along the hub axis"], note: "Re-made 19 October 2026 through the starship-design loop against sheet D: four spokes, a non-rotating hub, a radiator along its axis, nothing docked; filed at Dermot's pick." }],
   },
   {
     id: "guest-ring", name: "The Guest Ring", kind: "ring", sheet: "D", principles: [6],
