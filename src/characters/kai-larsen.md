@@ -27,6 +27,6 @@ He does not raise his voice. He has never needed to. Officers who worked under h
 
 ## Jurisdiction
 
-Five-O's authority runs exactly as far as the Compact's five habitats and not one metre further — a limit Larsen enforces on himself as strictly as he'd have once enforced Ranger boundary protocol, on the theory that an investigator who ignores his own jurisdiction is not better than the system he left, only quieter about it.
+Five-O's authority runs exactly as far as the Compact's five habitats and not one metre further — a limit Larsen enforces on himself as strictly as he'd have once enforced Ranger boundary protocol, on the theory that an investigator who ignores his own jurisdiction is not better than the system he left, only quieter about it. The same reasoning gave the unit its standing courtesy. Since the late autumn of 2826 UCSD, Five-O writes to a habitat's Commissioner before it comes onto that habitat's deck on its own account, saying what it will do, when, and on what reference. A visit at a bureau's own call is a different matter ([Nobody at the Desk (S04E00C02)](/star-rangers/seasons/s04/e00/s04e00c02/)).
 
 See also: [Governor Petra Voss](/star-rangers/characters/petra-voss/), [Chief Commissioner Dorian Calloway](/star-rangers/characters/dorian-calloway/), [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/).
