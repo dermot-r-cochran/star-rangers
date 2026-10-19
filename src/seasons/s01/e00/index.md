@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Episode 0"
-description: "Prequels to Season 1 — how a household cat became the Marsh Causeway's first watcher, how three machines reached a wrecked ship a generation earlier, and how a boundary analyst on a newly reached membrane filed three words and declined a softer one."
+description: "Prequels to Season 1 — how a household cat became the Marsh Causeway's first watcher, how three machines reached a wrecked ship a generation earlier, how a boundary analyst on a newly reached membrane filed three words and declined a softer one, and how a singer on Eden's dock circuit came to wear one bar."
 permalink: /seasons/s01/e00/
 ---
 <nav class="chapter-breadcrumb" aria-label="Episode location">
@@ -15,7 +15,7 @@ permalink: /seasons/s01/e00/
 <img class="page-hero-image" src="/star-rangers/images/hero/s01e00-cat.jpg" alt="A black cat with amber eyes walking along a fallen branch towards the camera, rim-lit against a dark background" />
 <h1 class="page-title">Season 1 · Episode 0</h1>
 <p class="page-intro">
-  What came before Episode 1, at two different distances. Four years back: before Elvira ever took up the Marsh Causeway outpost, her household cat chose exile over a garden gate — and found, on a bare tidal rock, the first confirmation that her sensitivity to the boundary was real. Thirty-eight years back: a long-voyage ship stops answering, three machines are sent to it, and what they carry out are children. Twelve years back: the Survey Corps' first party on the membrane of what was later registered as Counterpane logs nothing wrong for ninety days, and then a routine calibration returns a residual that will not close, and a Krenyi Section Lead files what happened and nothing smaller.
+  What came before Episode 1, at two different distances. Four years back: before Elvira ever took up the Marsh Causeway outpost, her household cat chose exile over a garden gate — and found, on a bare tidal rock, the first confirmation that her sensitivity to the boundary was real. Thirty-eight years back: a long-voyage ship stops answering, three machines are sent to it, and what they carry out are children. Twelve years back: the Survey Corps' first party on the membrane of what was later registered as Counterpane logs nothing wrong for ninety days, and then a routine calibration returns a residual that will not close, and a Krenyi Section Lead files what happened and nothing smaller. One year back: a singer on Eden's dock circuit has been leaving the room its own line for a year when a Music Corps Principal at a back table writes it down, and the morning after, a form with a line for prior training, a tab with one bar, and an instruction about whose the room is.
 </p>
 
 {% set seasonNumber = "1" %}
