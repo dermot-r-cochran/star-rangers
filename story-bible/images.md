@@ -5632,6 +5632,84 @@ to the page.
   - **Written 17 October 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only arashobal` (the entry carries Syra's filed portrait as its reference, so the script sends it); file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/arashobal.md` from the filed frame.
 
+### 19. Missing portraits — Kettsa, the first Chthonari Ranger the record names (written 19 October 2026, Fable; generation waits on the desktop)
+
+Dermot's direction of 19 October 2026: *start a Chthonari Ranger in the
+Engineering Corps now on Fable (page plus portrait prompt)*, filling the
+14 October worklist line in `open-questions.md`. The page landed in the same
+PR as this prompt (`src/characters/kettsa.md`): a Senior Officer of the
+Engineering Corps in the fold-scaffold specialization, a former Belt scaffold
+cutter taken in on the fast track, posted to the Earth–Sun L5 fold-staging
+zone in 2826 UCSD, and the page carries no `image:` until a frame is filed.
+A Chthonari has a body, so the page is owed a portrait under the 7 October
+rule, and a prompt where a person's presence carries the frame is Fable's
+here. Same form as the Chthonari set in the Orbital Five-O block of § 1 and
+as §§ 15 to 18: a documentary photograph taken inside the world by a
+29th-century camera, real materials, a lens and grain, the render negatives;
+**16:9 landscape** at 1200×675 through `import-image.ps1 -MaxEdge 1200` at
+finish strength 1; at work, never posed, the 28 July guardrails met by the
+work. The body is the species page's and `species-design.md`'s, as the four
+filed Chthonari portraits carry it (one domed beetle body, real plating and
+dust, filed as a set on 11 October): small, forearm-to-torso length,
+six-limbed, exoskeletal, low and dense, sensory ridges along each limb and the
+lower carapace, a smooth head with no face a human reads; the tone rule's
+silhouette, Thrum's precedent, no mandibles, no dripping, no swarm. Two filed
+frames of that set are passed as **references for the body only**, and the
+prompt says so; the frame must not return any of the four, since under the
+identity rule and civilian-dress open item 2 (ruled A on 14 October) each
+new Chthonari portrait varies wear, scuffing and tone within the slate-and-
+bronze range so that it is a unique face.
+
+What is new in this frame, and each from a page: **the uniform.** The crew
+on Eden are contractors and wear nothing; Kettsa is a Ranger on duty and
+wears the modular field shell as the quartermaster record fits it to this
+body plan (`rank-insignia-and-uniform.md`): the Engineering Corps' graphite
+with steel seam-piping, in sections over the upper carapace only, because a
+Chthonari hears through the organs along each limb and the lower carapace
+and a shell over them would deafen the wearer (`chthonari.md`;
+`species-design.md`, *In the Corps*, Chthonari; `civilian-dress.md`,
+Chthonari), so every limb and the whole underside stay bare on the plating.
+**The tab**: exactly one small plain-finished tab, five bars on a muted copper
+insert, the engineering track's colour, seated at the forward edge of the
+shell behind the head, the point on this body that corresponds to a human
+collar (`star-rangers-command-hierarchy.md`, *Reading Rank at a Glance*: the
+tab *seated on a Krenyi or Serephine shell at the corresponding point*). The
+corps badge and the certification plate are left unspecified, as the
+Arashobal, Ilvane and Toval entries leave them, since a second device draws a
+chest badge. **The place**: inside a fold-capable hull waiting at a Tier 1
+staging site while its scaffold forms (`lagrange-fold-points.md`), in the
+forward plant compartment beside the scaffold generator's housing, which is
+*nothing that fires or glows* (`starship-design.md`, sheet B, *Fold plant*):
+a long sealed plain matte housing, unlit, and bare structural plating. No
+window, no stars, no planet; the fold itself is not a thing a camera sees.
+**The work**: reading the scaffold's gradient through the plating before the
+instruments confirm it, which is the species page's own first paragraph.
+
+Readings taken for the frame (Fable's, under *Who approves whom*; each his to
+overrule, and none written to the page): the carapace a darker slate than the
+Eden crew's, with the bronze cast strongest at the leg joints and the heaviest
+scuffing on the two forelegs, a working body some years in the Corps, which
+is how one Chthonari is told from another when colour is not their medium;
+the shell in four or five fitted plates following the carapace's segments,
+matte, with the seam-piping a thin steel-grey line and no other colour; the
+posture the listening one from Tikket's frame, all six limbs in contact and
+the body pressed low, with one foreleg laid flat against the foot of the
+housing; the compartment long and low, the housing running away into shadow,
+dim even working light from an unseen source, a little cooler than the Eden
+deck's; the only figure in frame.
+
+- **`kettsa.jpg`** — Chthonari, Senior Officer, Star Rangers Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone; *it sounded wrong, and then the instruments agreed.*
+  References: `src/images/characters/tikket.jpg`, `src/images/characters/tsikk.jpg`
+  > Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, at work, never posed to camera: Kettsa, a Chthonari Ranger of the Star Rangers Engineering Corps, a small six-limbed being with exactly this body: a low, beetle-like segmented carapace carried close to the ground on six jointed legs of equal kind, no torso, no shoulders, no upright posture, no humanoid arms, the head a smooth rounded dome that is entirely featureless, no face, no eyes, no mouth, no teeth, no mandibles, not a mark on it; forearm-to-torso length. The two attached photographs show this same people's body: take the body plan, the dome head, the six legs of equal kind and the matte worn chitin from them and nothing else, not their setting, their bare carapace or their exact colour; this is a different individual. Kettsa's carapace is a darker slate than theirs, matte, real chitin worn and scuffed at the edges with fine scratches and grit in the segment joints, the bronze cast strongest at the leg joints and the two forelegs the most scuffed, fine sensory ridges along each leg. Kettsa is in uniform, on duty: a few fitted plates of a modular field shell in matte dark graphite grey with a thin steel-grey line of piping along each seam, seated over the top of the carapace only and following its segments like a second set of plates, leaving all six legs and the whole underside of the body bare against the deck; and exactly one small plain-finished flat rectangular tab seated on the shell at its forward edge just behind the dome of the head, carrying five short solid parallel bars on a muted dull copper-coloured insert, a small shape read as a mark and not as writing, and nothing else anywhere on the shell. Kettsa is inside a long, low, dim plant compartment aboard a fold-capable hull waiting at a staging site in the year 2826, standing on bare structural plating with all six legs in contact with the deck and the body pressed low to it as if listening through it, one foreleg laid flat against the foot of a long sealed plain matte housing of pale grey composite that runs the length of the compartment and away into shadow, smooth, unlit, with no seam, port, dial or light on it; attention wholly on the structure, the dome of the head turned a little toward the housing and not toward the camera. Dim, even working light from an unseen source, the plating scuffed and dusty with worn bolt heads and a little grime, girders and the housing receding into shadow, nothing else in the compartment, no window. Quiet, still, attentive, faintly uncanny and entirely unthreatening. Muted palette: slate and bronze chitin, graphite shell, dull copper tab, pale grey composite, dark plating. Photographed, not rendered: a real camera low on the deck, real chitin with uneven matte sheen, real dust, high-ISO grain heavier in the shadows, a fast lens near wide open with shallow depth of field so the housing and the structure behind fall soft, slight softness toward the corners, a touch under-exposed, muted natural colour, the small untidy imperfections a real photograph keeps. Negative: humanoid body, upright posture, torso, shoulders, arms, hands, a crouching figure, an anthropomorphic face, eyes, a mouth of any kind, teeth, jaws, mandibles, antennae, wings, an Earth beetle, cockroach, ant or spider photographed close, a swarm, a second creature, gore, dripping, a threat posture; a full-body suit, armour, a helmet, a harness, straps, a shell covering the legs or the underside, a bare body with no shell, two tabs, a tab on each side, a chest badge, a second device, a patch, a badge with words, name tape, lettering on the shell; readable text, lettering, numerals, signage, labels, stencilled markings, branding, logos or written characters of any script anywhere in frame; screens, monitors, displays, consoles, dials, gauges, meters, keyboards, holograms, projected light, glowing displays, a glowing ring, a glowing portal, light strips, glowing trim, a lit indicator, exposed cables, pipework with flanges, valve wheels; visible lamp, light fitting or bulb; a window, a viewport, stars, a planet, a nebula, lens flare; a glass dome, a bright hall, a white room; grime so heavy it reads as neglect, rust, peeling paint, debris; weapons; flat studio backdrop, gradient background, studio lighting, a specimen on a plinth. Render negatives: 3D render, CGI, octane render, video-game render, game asset, animated film still, creature concept art, design sheet, clay or plasticine sculpture, plastic sheen, airbrushed, over-smooth surfaces, glossy concept art. Landscape orientation.
+  - **Attention is the structure**, the head turned to the housing and every limb on the plating; the 28 July guardrail is met by the work, and a Chthonari has no face to turn to a camera in any case.
+  - **The body, not the person.** The two references are for the people's body alone, and the sentence says so; a variation that returns Tikket's or Tsikk's frame, bare carapace, bracket or dock ring fails the identity rule, and one that drifts into the crouching humanoid or the toothed mouth the 4 September runs produced fails the body and the tone rule on sight.
+  - **The uniform is the new thing and the first trap.** The generator has never drawn this shell on this body: a suit over the legs, a helmet, a harness, or a bare body with no shell each fails, as does any second mark, a pair of tabs or lettering. One tab, five bars, copper, at the forward edge of the shell, legs and underside bare. Whether the generator can count to five is a triage question, not a prompt one; a tab that reads as a few bars on copper passes, and one that reads as text fails.
+  - **The century is the plant.** A sealed unlit housing on bare plating is the record's own idiom for a fold plant, and the window, the stars and the glowing ring the word *fold* draws are negated by name; anything that glows fails.
+  - **Triage:** first the body (any humanoid, upright, armed, faced, mouthed or Earth-insect close-up fails); then the uniform (a suit, armour, a helmet, a shell over the legs or underside, no shell, paired tabs, a chest badge or lettering fails); then the plant and the century (a glow, a window, stars, a console, a lit indicator or a render look fails); then identity against the four filed Chthonari frames (the same tone and wear, or their setting, fails).
+  - **Proposed alt** (to be corrected to the filed frame): *Kettsa, a small six-legged Chthonari with a dark slate carapace bronzed at the leg joints, wearing a few fitted plates of matte graphite shell over the top of the carapace with a single small copper tab behind the head, every leg and the underside bare on scuffed deck plating, pressed low beside the foot of a long pale sealed housing in a dim ship's plant compartment, listening through the deck.*
+  - **Written 19 October 2026** (Fable); not generated.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only kettsa` (the entry carries the two filed Chthonari frames as references, so the script sends them); two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/kettsa.md` from the filed frame.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
