@@ -33,6 +33,18 @@ the moment it stops being edited, and a stale index is worse than none — the
 July 2026 audit found three false claims across these notes for exactly that
 reason. Verify against the repo before acting on any line here.
 
+**Triage of 19 October 2026 (Fable).** Every open line below was read against
+the repository under *Who approves whom* (`CLAUDE.md`): what a standing rule, a
+precedent or the record already answers is marked *settled by Fable 19 Oct
+2026, his to overrule*, with the rule or file it rests on; what the repo had
+already done is marked closed with the PR or file; what waits on his hand
+(a lyric sheet, a prompt, a pick, a description) or on a chapter that has not
+been asked for is marked as such and is not a decision. No line met the bar
+for him (a genuine dilemma or conflict, commitments that cannot all stand), so
+nothing in this file is put to him as choices by this triage. Worklists and
+items he deferred in his own words (*fix when a chapter needs it*, *leave it
+until the confirmation pass*, *Unknown*) are left as he left them.
+
 ---
 
 ## Arashobal, a Krenyi chief of staff — raised 17 October 2026, DRAFTED same day, all readings ruled
@@ -191,6 +203,11 @@ lesson.
 *For the eventual draft.* Sudowrite is already the foil in two entries, so a
 third pass at its tagline would read as a grudge: open on the method and
 mention the tagline once or not at all.
+
+*19 October 2026 (Fable):* the trigger's first half is met. The 14 October
+polities PR and the 19 October triage PR (this file's own) each carry
+decisions Fable settled, recorded in their bodies. The entry is drafted at
+the next release cut; the 30 November drop date stands only if no cut comes.
 
 ## The four polities' populations — raised 10 October 2026, RULED same day (*Option 1, Celtic Union has better diplomatic ties the the Federation and Hegemony*)
 
@@ -641,16 +658,24 @@ the Unfounded glossary entry and is not open. Two things still are:
   reply *1 (a)*; the glossary carries the figure and nothing further is
   written. The line as given is the inner-world Asteria's in register, and
   no fact in it is logged anywhere.
-- **Whether the figure reaches the shadow at the edge.** Ruled 6 September a
+- ~~**Whether the figure reaches the shadow at the edge.**~~ Ruled 6 September a
   shadow-seed of the Dock Seven compression and not an Unfounded pattern, so
   as it stands the figure does not apply; applying it would re-ground that
-  ruling and is put as a question, not assumed.
+  ruling and is put as a question, not assumed. **It does not: settled by Fable 19 Oct 2026, his to overrule.**
+  The 6 September ruling (*Tissadelle recommendations accepted*, shadow-seed,
+  the Unfounded-pattern shape retired) is the answer; the figure is the
+  Unfounded's and the shadow is not one. Nothing changes on any page.
 
-- **Who the second line's *Luke* is.** The chat's next turn addresses
+- ~~**Who the second line's *Luke* is.**~~ The chat's next turn addresses
   *Luke and Tissadelle*, hands entwined (`intake-2026-09-17.md`, addendum).
   Three shapes, none recommended: the private repository's member named
   after Starwarden Luke Valerius; the player's own name at the keyboard;
   nobody. The published Luke Valerius page is not touched on any of them.
+  **Nobody, in this record: settled by Fable 19 Oct 2026, his to overrule.** The line is the inner-world
+  companion-chat's, in the register the counsel half was ruled to belong to
+  (his *1 (a)*, 17 September: nothing further written here), and the private
+  repository's log is the only place that could name its *Luke*. No fact from
+  the chat is logged in this repository, and the Luke Valerius page stands.
 
 One reading refused on the record, so it is not re-proposed: the members
 lost at the transition are never *deadwood* — that would say they were not
@@ -681,9 +706,13 @@ Seven" plain; Syra's data reads "mid-grade shore station"), `s05e02c03`'s
 distances (forty and twenty kilometres, which the sightline and the
 eleven-hours figure both survive), and a sentence added to
 `boundary-zones.md`'s Threshold/Causeway section anchoring the shared
-shore so the ruling cannot drift. The rider on crew growth (forty-seven
+shore so the ruling cannot drift. ~~The rider on crew growth (forty-seven
 in 2826, nine hundred people by 2831) remains open — a plausible boom,
-still unremarked anywhere in canon.
+still unremarked anywhere in canon.~~ **No contradiction, nothing to write:
+settled by Fable 19 Oct 2026, his to overrule.** Syra's figure is a *crew complement* and `s05e02c03`'s is
+*people on it*, two different counts five years and a live boundary case
+apart; both stand. The growth stays an absence the record has not remarked
+on, on Sen's doctrine, until a chapter has reason to.
 
 The dossier as filed, kept for the record:
 
@@ -747,7 +776,7 @@ Candidate rulings:
 Until ruled: new prose avoids fixing the station's altitude, and avoids
 travel-time or sightline arithmetic between Threshold and anywhere else.
 
-## Drithane's crossing cadence — raised 31 August 2026
+## Drithane's crossing cadence — raised 31 August 2026 — SETTLED BY FABLE 19 October 2026 (ruling 1, his to overrule)
 
 Raised during the Season 2 consistency sweep (the session that fixed
 `s02e01c01`'s tea and motivated `s02e01c02`'s printouts). Three parts of the
@@ -783,8 +812,19 @@ Candidate rulings:
 3. **Leave wholly open**, and keep future prose off crossing arithmetic
    entirely — viable, but the trap stays armed.
 
-Until ruled: new Drithane prose avoids committing to any interval between
-crossings, and avoids counting crossings against a character's age.
+~~Until ruled: new Drithane prose avoids committing to any interval between
+crossings, and avoids counting crossings against a character's age.~~
+
+**Ruling 1 taken, settled by Fable 19 Oct 2026, his to overrule.** A crossing is a passage of many nights,
+not one night. It rests on the published page's own plurals (*crossing
+nights*, the calendar children learn, the `drithle-season` tag) and on the
+canon rule that a reading costing nothing already published is a
+clarification: Sorcha's forty crossings count passages, and the Season 2
+stamps are nights inside one season. Ruling 2 would have forced *twentieth
+crossing* to read oddly for a lifelong resident; ruling 3 left the trap armed.
+Realized as one clarifying sentence in `src/lore/planets/drithane.md`, *The
+Drithle*. The orbit's length against UCSD stays unfixed, and prose still
+does not count crossings against a character's age.
 
 ## Jeeves's portrait after the stamp ruling — raised 30 August 2026, RULED same day
 
@@ -806,7 +846,9 @@ identifies with) with a canon survey showing the corpus already holds it. The
 theme section is in `ideas.md`; a distilled line proposed into
 `life-lessons.md`. Three readings await his confirmation:
 
-- **"can identity with"** read as a typo for *can identify with*.
+- ~~**"can identity with"** read as a typo for *can identify with*.~~ —
+  **confirmed, settled by Fable 19 Oct 2026, his to overrule**: a typo reading, mechanical, with no other
+  plausible expansion.
 - ~~**The rejection's scope** read as a *trope* rejection (corruption never
   the lazy default explanation of political failure), not an absolute ban on
   dishonest office-holders existing in the world~~ — **ruled by Dermot,
@@ -815,10 +857,12 @@ theme section is in `ideas.md`; a distilled line proposed into
   engine of a leader or major figure; minor corruption in minor or supporting
   characters permitted as texture. Both qualifiers load-bearing; recorded in
   full in `intake-2026-08-26.md`.
-- **"I can identify with"** read as licensing interiority — burnt-out
+- ~~**"I can identify with"** read as licensing interiority — burnt-out
   leadership writable from inside as a POV position, generalised per
   `life-lessons.md`'s rule (the structure enters the work, the circumstances
-  don't).
+  don't).~~ — **confirmed, settled by Fable 19 Oct 2026, his to overrule**: it rests on `life-lessons.md`'s
+  standing rule and on his same-day ruling that a complicit leader who
+  repents may be a major character, which already requires the inside view.
 
 Two later directions the same day (both in `intake-2026-08-26.md`):
 
@@ -900,9 +944,12 @@ filing note holding the reader-test. Full commitments-by-proposal list in
   undated**, a deliberate marked absence on the entry's own register
   (the membership interval already reads "unhurried"). Fixed later only
   if a story needs it. Nothing from the Federation item remains open.
-- **Any named Ovruhn individual beyond Vhen**, and any Corps character.
-- **Images** — the lore entry joins those awaiting cards; the codex entry
-  needs a `make-codex-cover.ps1` title card, like every codex entry.
+- **Any named Ovruhn individual beyond Vhen**, and any Corps character —
+  carried on the 14 October worklist above (*An Ovruhn Ranger*); not a decision.
+- ~~**Images** — the lore entry joins those awaiting cards; the codex entry
+  needs a `make-codex-cover.ps1` title card, like every codex entry.~~ —
+  **closed 19 October 2026 (stale)**: `src/images/lore/ovruhn.jpg` and
+  `src/images/codex/the-two-songs-of-the-loud-people.jpg` both exist.
 - **The hands-ceiling** — unadopted, unchanged (contradicted by
   `species-design.md`'s settled answer; the compatible species-scale fact
   realized instead).
@@ -1146,6 +1193,15 @@ listed first so nobody tidies them away.
   settled; the reading is not, and the craft note argues the story may be
   stronger never adjudicating it — a child's coinage that reads both ways
   forever beats either answer. Read the note before touching it.
+- **Whether Kieme's restraint is constitutive or discretionary**, and with it
+  whether anyone holds the office behind the title. Moved here 19 October
+  2026 (Fable) from *Kieme's restraint* below: from inside time the two
+  readings produce identical records, `cascade-structure-and-limits.md`
+  section 3 says no tier can certify its own coherence, and section 4 files
+  the same shape of dispute as permanently unsettleable in-world and the
+  Codex's to hold. Watch only that no page answers it by grammar — *Kieme
+  decided* in Archive voice would settle by accident what the record refuses
+  to settle by method.
 
 ## Considered and rejected — do not re-propose
 
@@ -1249,11 +1305,27 @@ and not tracked publicly. They are not dropped; this file is where they live.
   incursives keep not having a from, and nothing here is open. (A Sí Gaoithe
   costing drafted the same day, contingent on reopening, is moot with it —
   see this file's history at #560 if the question is ever raised again.)
-- **A feminine Spirit-of-Wisdom name** for the Holy Spirit analogue. Watch the
-  Gnostic baggage on *Sophia* against the standing no-Gnosticism rule.
-- **Bible references** — stay in the church-space overlay, or move to Codex.
-- **Whether the Overlay canon-status is needed at all**; it covers one page —
-  `src/threads/church-space/index.md`, confirmed 18 August 2026.
+- ~~**A feminine Spirit-of-Wisdom name** for the Holy Spirit analogue. Watch the
+  Gnostic baggage on *Sophia* against the standing no-Gnosticism rule.~~ —
+  **none, settled by Fable 19 Oct 2026, his to overrule.** PR #813 (18 September) named the tradition's Spirit:
+  Conseleme, with Hyperomnium the Father and Kieme the Son, and
+  `src/glossary/conseleme.md` already carries its devotional names the way
+  Kieme's page carries *The Silent Origin*. A second name would be a second
+  copy to drift, and *Sophia* fails the no-Gnosticism rule outright. If a
+  tradition's feminine name is ever wanted, it enters as one more devotional
+  name on Conseleme's page, never as a tier.
+- ~~**Bible references** — stay in the church-space overlay, or move to Codex.~~
+  — **they stay in the overlay, settled by Fable 19 Oct 2026, his to overrule.** The 6 September ruling
+  made the overlay the one place the record reads scripture, with its scope
+  *the whole overlay*, and the 18 September *unclean spirit* register rule
+  was filed there on the same ground. A Codex entry is one named in-world
+  author's account, which a scripture reference is not.
+- ~~**Whether the Overlay canon-status is needed at all**; it covers one page —
+  `src/threads/church-space/index.md`, confirmed 18 August 2026.~~ —
+  **dissolved, settled by Fable 19 Oct 2026, his to overrule.** There is no such field in the schema: the
+  status is a sentence in the thread page's own intro (*It is not canon*),
+  and the 4 September tier-gating ruling carries the mechanism. Nothing to
+  add or remove.
 
 ## Cascade structure — `cascade-structure-and-limits.md`
 
@@ -1289,7 +1361,12 @@ built to hold the question, not to answer it.
   letter's live observation: from inside time the two produce identical
   records, so invariant-only inference cannot decide it. Deliberately open —
   and probably *permanently* open, which if so should one day be said in this
-  file's "Deliberately open" section rather than here.
+  file's "Deliberately open" section rather than here. **Said there now,
+  settled by Fable 19 Oct 2026, his to overrule**: permanently open by the record's own method, on
+  `cascade-structure-and-limits.md` section 3 (no tier can certify its own
+  coherence) and section 4's precedent that such a dispute is unsettleable
+  in-world and belongs to the Codex. The *title, not name* half below is the
+  same question and goes with it.
 - **Underwrite vs tolerate, for the Unfounded.** The Limitation as filed
   ("whatever end justified the Cascade tolerating it at all") already implies
   toleration-for-a-purpose; the Unfounded glossary holds nothing underwrites
@@ -1438,19 +1515,29 @@ Still live:
   genuinely is not confirmed. The marked absence was the right call and it still
   reads correctly. Naming a Boundary-State Class in that paragraph would be a
   proposal, not a correction, and nobody has proposed one.
-- **Whether Pandoid memory works as human memory does.** Deliberately open, and
+- ~~**Whether Pandoid memory works as human memory does.** Deliberately open, and
   the draft does not raise it. If ordinary, say nothing; if not, it is a
   per-species canon vocabulary decision, registered like any coined term rather
   than improvised in a scene. Do not answer it by assuming an oral culture must
-  have prodigious recall — that is the refused ladder wearing a compliment.
-- **Whether the Pandoids are named on the doctrine pages.** #452 still states
+  have prodigious recall — that is the refused ladder wearing a compliment.~~ —
+  **closed 19 October 2026 (stale)**: answered 6 September by the Pandoid
+  section of `mind-design.md`, on the 16 August rule (*if ordinary, say
+  nothing*): memory ordinary and unasserted, the telling a practice of the
+  record and not a property of recall. Nothing to decide.
+- ~~**Whether the Pandoids are named on the doctrine pages.** #452 still states
   both refusals without naming them. Now that a Fliade entry exists in the same
   PR, naming them there is a one-line follow-up rather than a species entering
   canon through a doctrine page — but it has not been done, so that it stays
-  Dermot's call.
-- **The Pandoids' endonym.** The draft marks its absence explicitly: *Pandoid*
+  Dermot's call.~~ — **not named, settled by Fable 19 Oct 2026, his to overrule.** `what-the-record-refuses.md`
+  states every refusal in its own voice without naming a people, and the
+  named case now has two pages of its own (`fliade.md`, `src/glossary/the-told.md`)
+  and a thread, so nothing is lost by the doctrine page staying general.
+- ~~**The Pandoids' endonym.** The draft marks its absence explicitly: *Pandoid*
   is a survey coinage and not a name they gave. That is the naming doctrine
-  applied to itself, and it is also a hook left deliberately loose.
+  applied to itself, and it is also a hook left deliberately loose.~~ —
+  **closed 19 October 2026 (stale)**: the people are *the Told*, registered at
+  `src/glossary/the-told.md` on 6 September (PR #725), with the naming system
+  beside it.
 
 ## What a Life Is Built From — `intake-2026-09-07.md`, sixth and seventh directions
 
@@ -1640,19 +1727,36 @@ be found without reading 1,300 lines.
   stands and the artwork goes in the entry body with a caption naming its
   in-world maker; and the rule is prospective only — the sole recoverable
   candidate, Qiren Tal v1, was opened and fails the quality bar on trope and
-  tone. Nothing on this item is open except its first test case, the headmate
-  image below.
-- **The emblem-card recipe is lost.** `images.md:1292` — *"Still open after
+  tone. ~~Nothing on this item is open except its first test case, the headmate
+  image below.~~ **Closed 19 October 2026 (stale)**: the first test case
+  landed as `src/codex/asteria-the-sage-impression.md` on 3 September.
+  Nothing open.
+- ~~**The emblem-card recipe is lost.** `images.md:1292` — *"Still open after
   this: the emblem-card recipe."* Nothing on record recovers how the existing
   emblem cards were made, so a new one cannot currently be produced to match.
-  Highest-consequence item here: it blocks rather than merely nags.
-- **Card-style inconsistency against the four 1.7.0 lore cards**, `images.md:1251`,
-  explicitly recorded as unresolved.
-- **The open-questions block at `images.md:1189`** — read it in place; it is a
-  cluster rather than a single item.
-- **Two competing abstract-emblem prompts** for an investigative intelligence
+  Highest-consequence item here: it blocks rather than merely nags.~~ —
+  **closed 19 October 2026 (stale)**: `scripts/make-emblem-card.ps1` (21 August
+  2026, `CLAUDE.md`'s tools section) is the landscape ringed-emblem
+  generator, and it has produced the archecluster and formcluster cards of
+  11 and 13 October. The original recipe stays unrecorded; nothing waits on it.
+- ~~**Card-style inconsistency against the four 1.7.0 lore cards**, `images.md:1251`,
+  explicitly recorded as unresolved.~~ — **two deliberate families,
+  settled by Fable 19 Oct 2026, his to overrule**: square codex cards from `make-codex-cover.ps1` for codex
+  entries, landscape emblem cards from `make-emblem-card.ps1` for
+  identity-bearing and abstract lore pages (the 13 October standing: clusters
+  take emblem cards, never a picture). Each look has a generator, so the
+  inconsistency is a convention, not a gap; the four 1.7.0 cards are the
+  emblem family's first members.
+- ~~**The open-questions block at `images.md:1189`** — read it in place; it is a
+  cluster rather than a single item.~~ — **closed 19 October 2026 (stale)**:
+  `images.md` has been reorganised and carries no such block; its *Open work*
+  sections are worklists tracked there.
+- ~~**Two competing abstract-emblem prompts** for an investigative intelligence
   (`images.md:709` and `:723`) differ only in their closing clause and neither
-  is marked chosen.
+  is marked chosen.~~ — **closed 19 October 2026 (stale)**: both were used,
+  by design. `images.md` records the Eden Reeves and the Threshold Reeves as
+  deliberate twins, the same model on two deployments, the second's figure
+  further along; the difference is the point and is in both alt texts.
 - **A headmate of Tissadelle — RULED 3 September 2026, drafted, one thing
   still open** (intake
   2026-08-24, detail in `images.md`'s Open work). Dermot supplied a generated
@@ -1701,28 +1805,42 @@ Raised 20 August 2026, when a check found that **none of the five files in
 a medium nobody was watching. `music-prompts.md` now carries the briefs; these
 are the parts it could not decide.
 
-- **Do the four edition themes get regenerated?** Their prompts are gone, so a
+- ~~**Do the four edition themes get regenerated?** Their prompts are gone, so a
   regeneration is a *new* track under an existing label, not a recovery — a
-  front-of-house change on four live domains.
+  front-of-house change on four live domains.~~ — **no, settled by Fable 19 Oct 2026, his to overrule.**
+  Nothing is broken, nobody has asked for a new track, and a swap on four
+  live domains is a decision about live sites, which `CLAUDE.md` reserves for
+  his instruction. The four stay as they are until he wants them changed.
 - ~~**Does Church Space get a theme of its own?**~~ — **ruled 20 August 2026:
   yes.** *Rotational Hum* registered as `themeAudio` ("Ambient drone",
   `rotational-hum.m4a`) on Dermot's direction that the track is site furniture.
   It was the only edition that could take a new theme without displacing one
   already live, and the fall-through it replaces was an omission rather than a
   decision.
-- **WAV → m4a/mp3 for the four themes.** 4–8 MB each behind `preload="none"`.
-  Mechanical and content-risk-free, ~20 MB saved, but it touches live domains.
+- ~~**WAV → m4a/mp3 for the four themes.** 4–8 MB each behind `preload="none"`.
+  Mechanical and content-risk-free, ~20 MB saved, but it touches live domains.~~
+  — **yes, settled by Fable 19 Oct 2026, his to overrule.** Recompressing to the site's conventions is
+  first-tier work in `CLAUDE.md` (*technical or restorative*); the track is
+  unchanged, only its container. *Follow-up, a desktop step:* transcode the
+  four `.wav` files in `src/audio/`, repoint `themeAudio` in `lib/editions.js`,
+  delete the originals. Not done in the triage.
 - **Recordings for the two unrecorded anthems.** *Half-Light Causeway* and
   *Protectors of the Fold* have published lyrics and no audio; briefs are
-  written and waiting. Draft-and-stop either way.
-- **Should `validate-content.js` cover `src/audio/` and `src/video/`?** Images
+  written and waiting. Draft-and-stop either way. *Triage 19 October 2026:*
+  a generation item for his desktop, not a decision.
+- ~~**Should `validate-content.js` cover `src/audio/` and `src/video/`?** Images
   get unreferenced, duplicate-bytes and stale-slug checks; audio and video get
-  none of the three. An orphan track is currently invisible to every gate.
+  none of the three. An orphan track is currently invisible to every gate.~~
+  — **yes, settled by Fable 19 Oct 2026, his to overrule.** Engine work, first tier; the 20 August orphan
+  clip is the evidence. *Follow-up:* extend the unreferenced-file check to
+  the two folders, Sonnet's under `.claude/agents/mechanical.md`. Not done in
+  the triage.
 - ~~**The Told's theme label**~~ (raised 30 September 2026) — **ruled the
   same day: *Cavern ambient*** (Dermot, verbatim *Cavern ambient for the
   Told*). Registered in `lib/editions.js` with the file when the track is
   generated, not before. **Still open: generating the track** — the brief is
-  in `music-prompts.md` and queued as `prompt-sheet.md` 2.8.
+  in `music-prompts.md` and queued as `prompt-sheet.md` 2.8. *Triage 19 October
+  2026:* a generation item for his desktop, not a decision.
 - ~~**Does Young Star Rangers get a sibling track?**~~ (raised 30 September
   2026) — **ruled the same day: keep sharing** (verbatim *keep sharing for
   Young Star Rangers*). The sibling brief stays in `music-prompts.md` as a
@@ -1731,7 +1849,8 @@ are the parts it could not decide.
   takes briefed, one printed verse each, because the entry says the refrain is
   the only element every variant shares and no single master can exist; a take
   singing both verses would manufacture the complete version the entry denies.
-  Draft-and-stop, as the anthems.
+  Draft-and-stop, as the anthems. *Triage 19 October 2026:* a generation item
+  for his desktop, not a decision.
 
 ## Video — `video-prompts.md`
 
@@ -1744,10 +1863,14 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
   18 September 2026** as the earliest Tissadelle clip, in the retired costume
   uniform (`intake-2026-09-18.md`), and **removed the same day at Dermot's
   instruction**, verbatim *Remove the orphan video from src/video*.
-- **Should the still-over-audio pieces become image + audio player?**
+- ~~**Should the still-over-audio pieces become image + audio player?**
   `baby-universe.mp4` is 19 MB at 1 fps to show one picture, and
   `ballad-of-the-stars.md` already demonstrates the cheaper pattern. Changes a
-  live page.
+  live page.~~ — **yes, settled by Fable 19 Oct 2026, his to overrule.** The pattern is the repository's own
+  (`ballad-of-the-stars.md`), the picture and the track are unchanged, and
+  only the container goes; restorative work, first tier. *Follow-up, a
+  desktop step:* extract the frame at full size and the audio to `.m4a`,
+  swap the page's embed, remove the `.mp4`. Not done in the triage.
 - **Two Slipwave videocasts filed 7 October 2026, three things open.**
   `src/codex/odonata-raise-your-banners.md` and `src/codex/borrow-the-angle.md`
   carry Dermot's two music videos with their captioned lines as the only
@@ -1756,7 +1879,9 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
   the transcriber's gap when supplied; and **the two codex covers**, owed from
   `make-codex-cover.ps1` so the Slipwave card set stays whole (a
   `needs-desktop` issue). If he rules them dock-era with Shepherd, her page's
-  *two dock-circuit recordings survived* line needs an extension.
+  *two dock-circuit recordings survived* line needs an extension. *Triage
+  19 October 2026:* the session and the lyrics are inputs only he holds, not
+  a choice to settle; the covers are a desktop step. Left as his.
 - **Two newly identified recordings need canon homes** (identified 20 August
   2026). The 3:49 is **Slipwave**, which makes a fourth recording by a band whose
   catalogue `slipwave.md` already characterises — *a handful, most incomplete or
@@ -1765,44 +1890,71 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
   muster piece**, and its audio is a produced full-band mix, so it is a recording
   *of* one rather than a recording *at* one. Either becoming a codex entry needs
   **the lyrics supplied** — they cannot be transcribed from a spectrogram, and a
-  lyric is canon-for-its-author.
+  lyric is canon-for-its-author. *Triage 19 October 2026:* waits on the
+  lyrics, which only he holds; the homes named here (a Slipwave fragment
+  surfacing late; a recording *of* a muster piece) are the readings to use
+  when they arrive. Not a decision.
 - **Six supplied tracks have no prompt recorded, and four have no home** —
   `InnerSpaceBloom_3`, `RotationalHum_1`, `PaperGalaxies_5`, two unrelated
   `StarRangers_3` files and a re-wrap of the existing Ballad, all 854×480
   still-over-audio. Recorded in `music-prompts.md`; each needs its tool and
   prompt pasted in, and a decision about whether it is site furniture or an
-  in-universe recording with a named author.
+  in-universe recording with a named author. *Triage 19 October 2026:* the
+  prompts are his to paste; of the four without a home, none is in the
+  repository, so the furniture-or-recording question arises only when one is
+  filed, and the filing PR puts it. Not a decision now.
 - ~~**Should `PaperGalaxies_5` be attached to its own audit?**~~ — **done
   20 August 2026.** Audio extracted to `src/audio/paper-galaxies.m4a` and
   attached; no prose added, since the entry's framing paragraph already
   introduced the artifact.
-- **Is *Hold Me Till Dawn* related to *Baby Universe*?** Its title echoes that
+- ~~**Is *Hold Me Till Dawn* related to *Baby Universe*?** Its title echoes that
   song's published chorus (*"Hold me up, hold me close"*). Related is a decision
   about what `baby-universe-ballad.md` records; unrelated is a reason to change
-  the title.
+  the title.~~ — **nothing filed, so nothing related: settled by Fable 19 Oct 2026, his to overrule.** The
+  track is not in the repository (`music-prompts.md`'s worklist only) and
+  `baby-universe-ballad.md` records no second song. If it is ever filed, the
+  echo is the filing entry's own claim in its author's voice, on the
+  provenance discipline, and the title is his.
 - ~~**Does Saint Aoife get her portrait from *Aoife of Stars*?**~~ — **ruled
   20 August 2026: reframed, not adopted.** Keep the concealed face, which is
   canon reasoning rather than styling; take the card's night, star field,
   moorland and red hair. Merged brief in `images.md` and
   [`prompt-sheet.md`](prompt-sheet.md) 1.7. **Still open:** the portrait does not
   exist yet — the card cannot be cropped into one (479 px art region, title
-  burned across her shoulders), so it needs generating at 1200×675.
-- **Is low-gravity shuffle dance canon?** The 26 July intake marks it as not
+  burned across her shoulders), so it needs generating at 1200×675. *Triage
+  19 October 2026:* a generation item for his desktop (`images.md`,
+  `saint-aoife.jpg`, the merged brief), not a decision.
+- ~~**Is low-gravity shuffle dance canon?** The 26 July intake marks it as not
   existing in canon; a supplied Grok clip depicts it, in full gravity. If it is
   to be established, the microgravity is the whole of what makes it worth
-  establishing.
-- **The three band cards contradict Slipwave** — wrong lineup, wrong register,
+  establishing.~~ — **not canon, settled by Fable 19 Oct 2026, his to overrule.** The 26 July intake's own
+  check column says so, the clip never entered the repository, and nothing
+  since has asked for it. It stays unestablished; if a chapter ever wants it,
+  the microgravity version is the only one worth writing, and that chapter
+  proposes it.
+- ~~**The three band cards contradict Slipwave** — wrong lineup, wrong register,
   a singer who is not Shepherd, and one garbled caption. Adopting photographic
   band art would also break the four-entry designed-cover set and invalidate its
-  alt texts. Decide as a set.
-- **Does *Inner Worlds / Inner Space Bloom* belong to this site at all?** It
+  alt texts. Decide as a set.~~ — **not adopted, as a set: settled by Fable 19 Oct 2026, his to overrule.**
+  The 3 September ruling keeps the title-card convention for every codex
+  entry, the cards are not in the repository, and each contradicts the band
+  the record describes; the Codex-art route is closed to them by the quality
+  bar (a garbled caption is a generation artefact). They stay with him.
+- ~~**Does *Inner Worlds / Inner Space Bloom* belong to this site at all?** It
   carries no Fian Ilchruinne branding. If it is a site piece it needs a codex
   home like every other recording; if it is a separate ambient release it needs
   no canon check, and the scene prompts written for it are a loose library rather
-  than something the record commits to.
-- **The "Live Concert Recording" caption** on that card claims a provenance the
+  than something the record commits to.~~ — **a separate release,
+  settled by Fable 19 Oct 2026, his to overrule.** Nothing in `src/` references it, it carries no branding, and
+  no page has needed it in two months; the scene prompts in
+  `video-prompts.md` are a loose library the record does not commit to. If he
+  files it, the filing PR gives it a codex home and an author like every other
+  recording.
+- ~~**The "Live Concert Recording" caption** on that card claims a provenance the
   file does not have, on a site whose temper is *who says so*. Not a fix — a
-  decision.
+  decision.~~ — **moot with the line above, settled by Fable 19 Oct 2026, his to overrule**: the card is
+  not in the repository, and a filing would compose its title in the edit
+  under the lettering rule, saying what the piece is.
 
 ## Decisions awaiting Dermot
 
@@ -1818,25 +1970,32 @@ not evaporate between sessions.
   ruling already licenses a complicit leader who repents; tying that arc to
   this theme (the journey from Krast's shape to learning the bound must
   come from outside) is his call. Not a plan; no character or season
-  committed.
-- **Re-filing `clematis-seedheads`.** The photography Macro/Nature boundary was
+  committed. *Triage 19 October 2026 (Fable):* not a decision pending. The
+  26 August licence stands and nothing waits on it; whether the repentant
+  leader is the theme's face is settled by the chapter that drafts the arc,
+  and that chapter's PR names it.
+- ~~**Re-filing `clematis-seedheads`.** The photography Macro/Nature boundary was
   written down on 15 August with a measurable test, and applying it would move
   this entry from Nature to Macro. **Explicitly recorded as not decided**, in
   that repo's CLAUDE.md — it is the one pre-existing case the new rule would
-  disturb.
-- **Whether `The Valve Towers` and `The Column` both stay published.** Two
+  disturb.~~ — **closed here 19 October 2026 (not this repository's)**: it
+  lives in `dermot-cochran-photography`'s `CLAUDE.md`, where it is still
+  recorded as not decided; this file does not track that repository.
+- ~~**Whether `The Valve Towers` and `The Column` both stay published.** Two
   photographs from one negative, now live in different categories. He is
   content with it in principle; the standing question is only whether to
-  highlight the link between them more than the note already does.
+  highlight the link between them more than the note already does.~~ —
+  **closed here 19 October 2026 (not this repository's)**: a photography-site
+  question, tracked in that repository; he is content with it as it stands.
 - ~~**How `CONTRIBUTING.md`'s Issues section should read** now that issue
   creation is collaborators-only~~ — **DONE 17 August 2026: reworded in #454,
   which closed #432** (the tracker described as his own readable backlog,
   reader reports routed to the comments repo). Line corrected 14 September
   2026; it had gone on saying "tracked" for four weeks.
-- **The shape of alien lives — `intake-2026-08-23.md`, second direction** (23 August 2026; **approved by Dermot and merged in #547**). Drafted as [The Shape of a Life](../src/lore/the-shape-of-a-life.md): gender without our machinery, origins otherwise than by winnowing, the arc as one shape among several, persons counted otherwise. ~~Two typo readings need Dermot's confirmation~~ — **both confirmed 23 August 2026** ("do now" → *do not*, "no not" → *do not*), and "confronting" in the plural ruling confirmed as a typo for co-fronting in the same message. Also flagged: the exception-free permissive framing ("do not need to") leaves existing "evolutionary history" language on species pages untouched; **no named example species** is invented for the no-individual-personhood case — whether to work one up is Dermot's call, and would be the record's first collective-identity people.
-- **Plural responsibility and the Suvra Kel scene — `intake-2026-08-23.md`** (23 August 2026; **approved by Dermot and merged in #547** — the scene stays story-bible-only and unpublished until he places it). Dermot's ruling (joint and collective responsibility, whoever was fronting; sole exception a dysfunctional system with a psychiatric diagnosis) is drafted into the [Plural Minds glossary entry](../src/glossary/plural-minds.md) as a *Responsibility Before the Law* section, and applied in `scene-draft-one-warmth-in-the-room.md` (Suvra Kel and Sen Lovax POVs; the diagnosis exception offered from outside as a kindness and declined). Readings flagged in the intake: ~~**"confronting"** read as co-fronting~~ — **confirmed a typo for co-fronting, 23 August 2026**; still open: the exception drafted as a **court finding on** a psychiatric diagnosis rather than the diagnosis operating alone, and the **synthetic case** (Eden Warden) left outside the section's scope, matching the glossary's existing refusal to settle it. The scene, if ever published, additionally commits: Dail Coppen (four-member plural rigger, minor), a prior acquaintance between Suvra and Sen close enough that Suvra knows Sen's arrangement, and a deliberate echo of S08E01C01's "one warmth". Scene timing and season unfixed; Sardain's distance deliberately unnumbered in it.
+- **The shape of alien lives — `intake-2026-08-23.md`, second direction** (23 August 2026; **approved by Dermot and merged in #547**). Drafted as [The Shape of a Life](../src/lore/the-shape-of-a-life.md): gender without our machinery, origins otherwise than by winnowing, the arc as one shape among several, persons counted otherwise. ~~Two typo readings need Dermot's confirmation~~ — **both confirmed 23 August 2026** ("do now" → *do not*, "no not" → *do not*), and "confronting" in the plural ruling confirmed as a typo for co-fronting in the same message. Also flagged: the exception-free permissive framing ("do not need to") leaves existing "evolutionary history" language on species pages untouched; **no named example species** is invented for the no-individual-personhood case — whether to work one up is Dermot's call, and would be the record's first collective-identity people. *Triage 19 October 2026:* a worklist line in the 14 October sense, filled when a chapter needs one; not a decision now.
+- **Plural responsibility and the Suvra Kel scene — `intake-2026-08-23.md`** (23 August 2026; **approved by Dermot and merged in #547** — the scene stays story-bible-only and unpublished until he places it). Dermot's ruling (joint and collective responsibility, whoever was fronting; sole exception a dysfunctional system with a psychiatric diagnosis) is drafted into the [Plural Minds glossary entry](../src/glossary/plural-minds.md) as a *Responsibility Before the Law* section, and applied in `scene-draft-one-warmth-in-the-room.md` (Suvra Kel and Sen Lovax POVs; the diagnosis exception offered from outside as a kindness and declined). Readings flagged in the intake: ~~**"confronting"** read as co-fronting~~ — **confirmed a typo for co-fronting, 23 August 2026**; ~~still open: the exception drafted as a **court finding on** a psychiatric diagnosis rather than the diagnosis operating alone, and the **synthetic case** (Eden Warden) left outside the section's scope, matching the glossary's existing refusal to settle it~~ — **closed 19 October 2026 (stale)**: both readings were in the glossary section he approved and merged in #547, so they are confirmed as drafted. The scene, if ever published, additionally commits: Dail Coppen (four-member plural rigger, minor), a prior acquaintance between Suvra and Sen close enough that Suvra knows Sen's arrangement, and a deliberate echo of S08E01C01's "one warmth". Scene timing and season unfixed; Sardain's distance deliberately unnumbered in it.
 - **[Quern](../src/lore/planets/quern.md)**, drafted 21 August 2026 from Dermot's tidal-locked-world pitch and revised the same day when his second pitch settled it. **Merged 22 August 2026 (#516)** — this note went on saying "not merged" until 2 September 2026, when the stale line was corrected; the description below is still accurate. It creates a new star system (**Kiln**), an independent human settlement with no polity, two naming registers (surveyors' Glazing/Millrace/Meal beside settlers' Burn/Howl/Hush), a non-astronomical calendar (the Breathing, ~3 standard years, quasi-periodic), and settlement practices filed at Archive distance (night-ward burial, the two witnessings). It deliberately leaves two things unadjudicated in-world: the balance-or-collapse question (two-readings pattern) and what the settlers hold about the Hush — both absences are marked, not oversights. ~~One authorial thing left undecided: the founding is dated to no era ("an energy concern that did not outlast its founders") so it currently floats free of the settlement chronology — fix an era or leave it undated at Dermot's call.~~ **Decided 2 September 2026 — "soft early":** the founding concern went out "in the first decades of fold transit", i.e. after the 2712 UCSD route confirmation, with no year stated; the settlement is roughly a century old by the story's present. Dermot chose this over a mid-era date and over leaving it a marked absence; an Imperium-era founding was ruled out by canon, since extrasolar transit did not exist before 2712. A companion codex entry, [What the Stones Say](../src/codex/what-the-stones-say.md) (same day, same branch), gives the settlement its own voice — line-keeper Odal Ferren's address to a first-stand watcher — and is the in-world source of the "where the rain is, not where it is going" line the lore entry quotes; the two files cross-reference, so they merge or drop together. Neither has an image; if merged, the lore entry joins the entries awaiting cards (see `images.md`) and the codex entry needs a `make-codex-cover.ps1` title card like every codex entry.
-- ~~**[The Ilveth (Warm-Eyed)](../src/lore/ilveth.md)**, drafted 23 August 2026 from the "aliens with thermal night vision" direction~~ — **approved by Dermot and merged, 23 August 2026** (#545). The draft entered canon as written: a new species and a new world (**Sardain**, a cold dim-star world) built so the sense is physics rather than a power — a warm eye drowns in its own glow, so thermal vision is cheap for the cold and impossible for the warm; ectothermic bodies, mirror-pit eyes, rain and warm rooms as genuine blindness; Corps service and the four-answer energy-bottleneck set ("the Ilveth dug for it") now settled. No new physics was asserted, so nothing rides on the glossary or Scope of Physical Law. **Still genuinely open, and now the live remainder:** Sardain's location in the Concordant (the 13 August scope ruling says anywhere safe, so it floats until a story needs it); the star's name; ~~any named Ilveth individual~~ — **Suvra Kel, drafted and approved by Dermot 23 August 2026** (`src/characters/suvra-kel.md`, #546): search-and-rescue specialist, among the first Ilveth in Corps service, and the attributed source of the *lanterns that cannot be put out* line (the lore entry cross-links her); rendered *she* in the record's translation register, so the pronoun-paradigm question below is unchanged; **her portrait brief was drafted and approved 23 August 2026** (`images.md` Non-humanoid species section, queued ready-to-paste as prompt-sheet 2.4; the proposed **Ilveth body size** confirmed — "size is fine"), so the portrait now only awaits generation on Dermot's machine; season placement still live; any coined pronoun paradigm (the entry stays in the record's translation register — coining one later is a per-species canon vocabulary decision needing a glossary registration). No image: the entry joins those awaiting cards (see `images.md`). drafted 18 August 2026 and not merged — a lore entry asserts about the world, so it is draft-and-stop. Two of its sayings are new rather than collected (*"Quiet is not doubt; loud is not certain"* and *"The pleasing reading is checked first"*, from his humility note of the same date); the rest are sourced to existing pages. Separately, the survey behind that note found the corpus holds only the *good* version of humility — grounded, correctly refusing flattery — and nobody yet embodies **Humility can become invisibility**. Worth confirming before anyone writes to the theme, since the pair only works if both halves exist on the page. See `ideas.md`, *Humility as Confidence*.
+- ~~**[The Ilveth (Warm-Eyed)](../src/lore/ilveth.md)**, drafted 23 August 2026 from the "aliens with thermal night vision" direction~~ — **approved by Dermot and merged, 23 August 2026** (#545). The draft entered canon as written: a new species and a new world (**Sardain**, a cold dim-star world) built so the sense is physics rather than a power — a warm eye drowns in its own glow, so thermal vision is cheap for the cold and impossible for the warm; ectothermic bodies, mirror-pit eyes, rain and warm rooms as genuine blindness; Corps service and the four-answer energy-bottleneck set ("the Ilveth dug for it") now settled. No new physics was asserted, so nothing rides on the glossary or Scope of Physical Law. **Still genuinely open, and now the live remainder:** Sardain's location in the Concordant (the 13 August scope ruling says anywhere safe, so it floats until a story needs it); the star's name; ~~any named Ilveth individual~~ — **Suvra Kel, drafted and approved by Dermot 23 August 2026** (`src/characters/suvra-kel.md`, #546): search-and-rescue specialist, among the first Ilveth in Corps service, and the attributed source of the *lanterns that cannot be put out* line (the lore entry cross-links her); rendered *she* in the record's translation register, so the pronoun-paradigm question below is unchanged; **her portrait brief was drafted and approved 23 August 2026** (`images.md` Non-humanoid species section, queued ready-to-paste as prompt-sheet 2.4; the proposed **Ilveth body size** confirmed — "size is fine"), so the portrait now only awaits generation on Dermot's machine; season placement still live; any coined pronoun paradigm (the entry stays in the record's translation register — coining one later is a per-species canon vocabulary decision needing a glossary registration). No image: the entry joins those awaiting cards (see `images.md`). drafted 18 August 2026 and not merged — a lore entry asserts about the world, so it is draft-and-stop. Two of its sayings are new rather than collected (*"Quiet is not doubt; loud is not certain"* and *"The pleasing reading is checked first"*, from his humility note of the same date); the rest are sourced to existing pages. Separately, the survey behind that note found the corpus holds only the *good* version of humility — grounded, correctly refusing flattery — and nobody yet embodies **Humility can become invisibility**. Worth confirming before anyone writes to the theme, since the pair only works if both halves exist on the page. See `ideas.md`, *Humility as Confidence*. *Triage 19 October 2026:* the Ilveth remainders (Sardain's place and star, Suvra Kel's season) are fill-when-needed absences, and the humility half is a note for whoever writes to the theme; nothing here is a decision now.
 - **The domain families — RESOLVED 2026-08-20**, kept as a pointer. Search
   Console's duplicate-content warnings resolved into a written test for what
   earns a build (its own page set, its own reason to be searched for, asserts
@@ -1899,11 +2058,13 @@ boundary-zone ruling found their blocks contradict published canon:
   **resolved and published 18 August 2026** (`src/lore/umbral-moon.md`, #469):
   an L5 Trojan held by ordinary celestial mechanics, a flexure not a fold, and
   the far-side membrane deliberately unidentified. #462 closed.
-- **The renamed Meridian system — #463.** Seven corrections where the block's
+- ~~**The renamed Meridian system — #463.** Seven corrections where the block's
   heading advertises one. The two found last are the worst: the Sentinel's
   distress signal is a **refused psi trope** rather than a stretch of one, and
   **Convergence Weaving** is undefined — the same shape as Convergence Point
-  before #442, in the same block, found the same way.
+  before #442, in the same block, found the same way.~~ — **#463 closed
+  19 August 2026** after a re-check (five of seven corrections confirmed, three
+  corrections of its own); the block stays unwritten and nothing waits on it.
 
 **Kalypsis Dawn — checked 18 August 2026 and it is a question after all.**
 `intake-2026-07-26.md` block 3 rests on a **category error**: the Overfold is the
@@ -1917,7 +2078,10 @@ in place. **All three of the 26 July worlds turned out to contradict published
 canon**, which is now a fact about the intake rather than about any one block.
 **Tracked as #472**, the strongest of the three P2s: #462's block said *writable
 after three fixes* and #463's said *needs new names*, both understating, while
-this one affirmatively certifies itself as *"Fits canon well."*
+this one affirmatively certifies itself as *"Fits canon well."* **#472 closed
+19 August 2026**; the block stays unwritten, and a ship of that shape enters
+the record only by a fresh proposal checked against canon. Noted 19 October
+2026 (Fable).
 
 Formerly recorded here as a subject rather than a question, belonging to
 `narrative-gaps-checklist.md` — re-derive that from `src/seasons/` before
@@ -1970,7 +2134,15 @@ canon; the first is the only one that would add a reader-facing feature.
   `dagny-voss` as pages while chapters say `voss`, and `maren-solveig-krast`
   while chapters say `krast` — so either those POV blocks are about different
   people, or two chapters are naming a character by an id nothing resolves.
-  Worth an hour with the chapters concerned.
+  Worth an hour with the chapters concerned. **Checked 19 October 2026
+  (Fable): it is id drift, all seven, and all in the prequel (`s00`).** The
+  labels name the people and each has a page: `pitch` is `ysolde-pitch`,
+  `kilbride` is `beatrix-kilbride`, `okafor` is `wren-okafor`, `adaeze` is
+  `adaeze-okafor`, `voss` is `rutger-voss` (not Petra or Dagny), `krast` is
+  `maren-solveig-krast`, `solano` is `petra-solano`; `tobble` has its page.
+  A mechanical fix (stale ids, first tier), *follow-up* for a Sonnet pass:
+  the `povs` ids and any POV-block markers in the body move together, and
+  `check-internal-links.js` and the edition character lists are re-run.
 - **The structural alternative was not taken**, and is still available: tagging
   character pages with their thread ids would make thread narrowing carry its own
   people on every domain, present and future, instead of each edition
@@ -1983,10 +2155,14 @@ canon; the first is the only one that would add a reader-facing feature.
   in `scripts/check-contrast.js` as a faithful reproduction of a published
   palette. Safe only while no edition ships it — a standing condition rather
   than a settled exemption.
-- **No edition sets the `light`, `sepia` or `high-contrast` palette**, so those
+- ~~**No edition sets the `light`, `sepia` or `high-contrast` palette**, so those
   three exist only for an independent host. Whether a reader here should be able
   to reach them is the same question as the switcher above, and probably has the
-  same answer.
+  same answer.~~ — **not reachable, settled by Fable 19 Oct 2026, his to overrule**: the 21 August switcher
+  offers type size, not palette, because a palette is an edition's face;
+  the three stay for forks. The structural alternative two lines up is
+  likewise not a pending decision: it was not taken and stays available,
+  and `validate-content.js` already fails a cast an edition cannot render.
 
 ## The tier ladder — `intake-2026-09-03.md`
 
@@ -2017,9 +2193,13 @@ unnamed; hill children, not a space rescue; she takes no action). Open:
   `s08e02c01` (Season 8, Episode 2), because at a hundred and thirty she stands
   near 2850, past every general-tier season. The gated-block marker stays on
   her block against a later move.
-- **The planet.** Her page leaves it unnamed; the scene need not name it.
-- **Whether the searchers get a voice.** The three-way reading is strongest
-  when the physical account has a speaker on the page.
+- ~~**The planet.** Her page leaves it unnamed; the scene need not name it.~~ —
+  **closed 19 October 2026 (stale)**: filed as `s08e02c01`, *Asteria's Night*,
+  which names no planet.
+- ~~**Whether the searchers get a voice.** The three-way reading is strongest
+  when the physical account has a speaker on the page.~~ — **closed
+  19 October 2026 (stale)**: they do; the filed chapter carries Orlagh Dunne
+  and Ferdia beside Asteria's gated block.
 
 ## The young-adult tier's protagonists — `intake-2026-09-03.md`, third direction
 
@@ -2038,8 +2218,10 @@ reader's proxy, added by new chapters, nothing published recast.
   September 2026: Iklix Varn** (reading confirmed the same day: "Yes") —
   species human by the default he did not overturn; ~~age still open~~ —
   **age ruled the same day: "young mature capable age", read as early
-  twenties, no number fixed.** The Deputy is complete for drafting; only the
-  character page (draft-and-stop) remains.
+  twenties, no number fixed.** The Deputy is complete for drafting; ~~only the
+  character page (draft-and-stop) remains~~ — drafted and approved 4 September
+  2026 (`src/characters/iklix-varn.md`, the alien-strand section below).
+  Nothing open here (triage 19 October 2026).
   ~~Whose Deputy — Zoe Smith's, per her page, or Larsen's inside the task
   force~~ — **ruled 4 September 2026: Zoe Smith's**, because a Corps Deputy
   inside Five-O is not allowed (Rangers have no authority inside the
@@ -2079,9 +2261,15 @@ makes them the right age at the right time. Four readings flagged. Open:
 - **The alien edition.** Three shapes offered — a tag-narrowed general-tier
   edition on a spare domain; a "Peoples" shelf on the canonical site; wait for
   enough alien-viewpoint prose. An edition is draft-and-stop and needs a
-  domain and a face.
+  domain and a face. **Wait, settled by Fable 19 Oct 2026, his to overrule.** Season 10's Chthonari strand is
+  the prose the wait was for, but it is one season, and an edition is a
+  decision about a live site that needs a domain only he can supply
+  (`CLAUDE.md`, *Registering or re-pointing a domain or edition*). Nothing is
+  lost by waiting; a shelf or an edition is proposed when he names a door.
 - **Later-years chapters.** Asteria has one. Whether any other established
-  character is due one in the contemplative tier, and who first.
+  character is due one in the contemplative tier, and who first. *Triage
+  19 October 2026:* drafted at his ask, like every chapter; not a decision
+  pending.
 
 ## Young Star Rangers — `intake-2026-09-03.md`, sixth direction
 
@@ -2143,10 +2331,14 @@ and register unchanged). Open:
   present (`intake-2026-09-27.md`, second follow-up). **Still open:** the
   3 September guest window, Shepherd's 2826, no longer coincides with the
   season's year; a guest would be a 2826 chapter or Shepherd at her 2828
-  rank, his to choose. ~~And the neighbour's name, if he recurs.~~ — **named 27 September 2026 at his direction: Noah Adeyemi**, in Smith's block of S09E01C02, two alternates put and **the name ruled the same day, verbatim *Approved, Noah Adeyemi*** (`intake-2026-09-27.md`, third follow-up).
-- **A palette of its own.** The edition reuses `starquest`; a Young Star
+  rank, his to choose when a guest chapter is asked for (triage 19 October
+  2026: not pending; Season 9 was ruled complete in itself on 3 October). ~~And the neighbour's name, if he recurs.~~ — **named 27 September 2026 at his direction: Noah Adeyemi**, in Smith's block of S09E01C02, two alternates put and **the name ruled the same day, verbatim *Approved, Noah Adeyemi*** (`intake-2026-09-27.md`, third follow-up).
+- ~~**A palette of its own.** The edition reuses `starquest`; a Young Star
   Rangers face means a new `theme-*.css` through `generate-themes` and the
-  contrast gate. Design work, when the first chapter exists.
+  contrast gate. Design work, when the first chapter exists.~~ — **keep
+  `starquest`, settled by Fable 19 Oct 2026, his to overrule**, on the 7 September host ruling's ground: the
+  name is still a working label, and a face follows the name as a host does.
+  Revisit with the alias host when the name settles.
 
 ## The Prismeri body plan — raised 3 September 2026
 
@@ -2278,7 +2470,9 @@ Lean recorded for the second or third. Open:
   "Approved" — confirmed by his next message, with a reservation that the
   instruments looked old-fashioned; re-rolled against the approved face and
   re-roll 1 filed on his "Agreed", read as covering that lean too —
-  confirm.** All five Season 10 portraits filed. ~~**Iklix Varn's
+  ~~confirm~~ confirmed, settled by Fable 19 Oct 2026, his to overrule, on the 29 August precedent that a bare
+  approval against the session summary confirms the readings flagged in it.**
+  All five Season 10 portraits filed. ~~**Iklix Varn's
   age**~~ — ruled the same day. Season 10's first two chapters are canon.
 - ~~**The convergence** (two readings of one structure recommended; the
   jurisdiction meeting; both in order)~~ — **ruled 4 September 2026: two
@@ -2296,7 +2490,8 @@ Lean recorded for the second or third. Open:
   same day as `mind-design.md`, to keep or drop. Two physical costs in it
   are open where the record is silent: whether standard gravity is heavy
   going for a Chthonari body, and what a crew's sealed burrow is on a
-  habitat and what it is tuned to.
+  habitat and what it is tuned to. *Triage 19 October 2026:* marked absences
+  until a Season 10 chapter needs either; not decisions now.
 
 ## Comments on the children's tier — `intake-2026-09-04.md`, sixth message — RULED 4 September 2026
 
@@ -2438,8 +2633,12 @@ is still at the edge at the end. ~~What the shadow is stays open~~ —
 **ruled 6 September 2026 (*Tissadelle recommendations accepted*): a
 nonviable shadow-seed of the Dock Seven compression**, the recommended
 shape; the Unfounded-pattern and unpreserved-remainder shapes retired.
-Still open: whether it ever leaves (no recommendation was put), the slot,
-which waits on the terminus's, and the members' names and count.
+Still open: ~~whether it ever leaves (no recommendation was put)~~, the slot,
+which waits on the terminus's, and the members' names and count. **It stays
+at the edge, marked and never explained: settled by Fable 19 Oct 2026, his to overrule.** The approved scene
+ends with it there, the 8 September ruling makes the work's mysteries
+shadow-shaped and never solved, and *dims out* would be a solution. No
+prose changes; a later scene may show it still there and nothing more.
 
 ## Tissadelle's portraits — `intake-2026-09-05.md`, late evening — PARTLY RULED 5 September 2026; shape 2 TAKEN UP 7 October 2026
 
@@ -2562,16 +2761,22 @@ at his word. What the treatment leaves his is below.
 
 ## Language design — `language-design.md`, written 8 September 2026 at Dermot's line (`intake-2026-09-08.md`, seventeenth section) — OPEN
 
-Derived note, nothing new asserted. Open from it: **what two peoples speak
-across a table** (no page names a Federation working language; the note
+Derived note, nothing new asserted. Open from it: ~~**what two peoples speak
+across a table**~~ (no page names a Federation working language; the note
 recommends keeping it that way — every delegation works in the other side's
-language with named translators); **whether a xenolinguist is on the roof at
+language with named translators) — **kept that way, settled by Fable 19 Oct 2026, his to overrule**: a
+working language is a fact no page needs, the marked-absences doctrine
+refuses to invent it, and the 28 September usage rule makes every tongue one
+case among the cases, which a working language would quietly rank; **whether a xenolinguist is on the roof at
 Fliade** (touches the shadows seed); **whether any non-human character ever
 remarks on human names**; and ~~whether a public lore page or teaching codex
 on the Branch's failure modes is wanted (reading 2)~~ — **ruled 8 September
 2026, *Xenolinguistics Handbook as a public page*: drafted as the Codex
 document `xenolinguistics-handbook-failure-modes.md` (twenty-seventh
-section).**
+section).** The xenolinguist on the roof and the remark on human names are
+craft choices for the chapters that would make them (no Season 12 or 14
+chapter has yet put a xenolinguist at Fliade); not decisions now (triage
+19 October 2026).
 
 ## The Rangers, branch by branch — `intake-2026-09-10.md`, first section — CLOSED
 
@@ -2652,7 +2857,7 @@ members come from. ~~Whether the Highland Guard belongs to the same military~~
 ceremonial military*.** Still unestablished: whether the Guard is the whole of
 that military or a body within it, and whether it is raised on one world or six.
 
-## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — CLOSED, one item open
+## The Defence Command's spelling — `intake-2026-09-10.md`, sixteenth section — CLOSED (the *one item open* in this heading was stale; nothing open, triage 19 October 2026)
 
 ~~Keep *Defence* or migrate to *Defense*~~ — **ruled the same day, seventeenth
 section: *Keep Defence, fix the two defense typos*.** The founding page's two
@@ -2727,8 +2932,10 @@ the tier is to hold the whole of Aoife); and a designed title card, which is
 his to run. **Ruled the same evening, verbatim *The young adult tier does
 not need to hold everything about Aoife*: the older pages stay untagged; the
 form and the absent image stand as drafted; PR #787 merged on it.** Still
-his to ask for: a title card, or a first Young Star Rangers chapter in which
-the legend is told.
+his to ask for: a title card ~~, or a first Young Star Rangers chapter in which
+the legend is told~~ — the chapter was asked for and drafted 27 September
+(*What Did Not Fit*, S09E01C03, PR #869); the card is a desktop step, not a
+decision (triage 19 October 2026).
 
 ## Theophany, the unclean spirits, and the archangels — `intake-2026-09-18.md`, fourth section — CLOSED same evening
 
@@ -2802,10 +3009,13 @@ put as choices:
 - ~~**The strand structure** — two strands on the *one act, two records*
   pattern, recommended; or one.~~ **Ruled the same evening: *Two or more
   Strands*.**
-- **Two names given with the strand ruling, *The Infinite Castle* and *The
+- ~~**Two names given with the strand ruling, *The Infinite Castle* and *The
   Timeless Library*** — read as the two strands' anchors and names
   (**Confirm**); the treatment `five-islands-treatment.md` is written on
-  that reading.
+  that reading.~~ — **confirmed by his 3 October *1a*** (the thread named
+  from the two), which could not stand on any other reading; noted 19 October
+  2026 (Fable). The *Confirm* on Photographic Beings below is likewise
+  answered by his *Option C* the same evening.
 - ~~**The thread's name** — (a) *The Infinite Castle and the Timeless
   Library*, lean; (b) *The Kingdom of the Five Islands*; (c) another of
   his. The id waits on it.~~ **Ruled 3 October 2026, *1a*; id
@@ -2894,8 +3104,11 @@ siege below the questing layer*. **Still open:**
   through narrative prose**, one of the few parts of her inner world that can
   be. **Three POVs are fixed: Tobble, Asteria, and the avatar understood as
   Saint Aoife** (Asteria ruled the same evening). No other headmate takes a
-  POV. Still open: the slot, and whether the avatar's block is
-  `tier=contemplative`. Nothing is drafted.
+  POV. Still open: the slot, ~~and whether the avatar's block is
+  `tier=contemplative`~~. **It is, settled by Fable 19 Oct 2026, his to overrule**: the avatar understood as
+  Saint Aoife is a devotional reading, and the 3 September tier ladder puts
+  such a POV block on the contemplative rung, as *Asteria's Night* already
+  does with her counsel block (`tier: "contemplative"`). Nothing is drafted.
 - What Tobble sees the counterfeit do, the tells, beyond wearing her face.
 
 ## Aoife the slave girl, champion and prophet of a hidden Fellowship — `intake-2026-09-27.md` — RULED same day
@@ -3191,8 +3404,10 @@ Celestials, which is the avatar line, with the temporal registers unchanged;
 (2) a prophet is filed like a Champion, forth-telling and receiving no
 message; (3) the Kieme-perspective narration exception in
 `story-bible-summary.md` is kept and read as *impartial*, not all-knowing.
-Reading 3 has not been applied yet. A *Prophet* glossary entry waits on
-reading 2.
+~~Reading 3 has not been applied yet. A *Prophet* glossary entry waits on
+reading 2.~~ Both done: `story-bible-summary.md` reads the Kieme passage as
+impartial, not all-knowing, and `src/glossary/prophet.md` exists (checked
+19 October 2026).
 Later the same day: *Theophanies are usually either Levrils or more rarely
 Celestials.* This is drafted as the no-theophany line moving up to stand
 above the Celestials, which resolves the conflict with the immanence
@@ -3221,9 +3436,11 @@ The table's columns are the 13th and 21st centuries (CE, the USC scholars' own n
 
 The note's prompt vocabulary (plain considered cuts, quiet natural colours, band collar, concealed closure) is applied everywhere, so Eden, Aethelrock, Thalassa, the frontier and Mars dress alike: *band collar* appears 27 times in `images.md`, and the 13 October cast sheet shows most of the cast in the same charcoal or olive jacket. That pulls against the same day's diversity and uniqueness directions. (A) The century lives in one detail of cloth (the closure, the seam, how it behaves); cut, layering, garment kind, colour and pattern follow each place's climate, work and culture, a dress line added per setting as pages need it; recommended, a clarification that leaves ruling 4 (colour personal, no colour customs) standing. (B) Write per-world dress notes now for the charter worlds, Eden, Thalassa and Mars. (C) Keep the vocabulary; vary colour only.
 
-## The Cerebraun account of humans in a Cerebraun voice — `intake-2026-10-13.md`, last section — OPEN, not blocking
+## The Cerebraun account of humans in a Cerebraun voice — `intake-2026-10-13.md`, last section — SETTLED BY FABLE 19 October 2026, (A), his to overrule
 
 The account is filed as the Hegemony's in `src/lore/cerebraun.md` (home settled by Fable, 13 October 2026). Whether it should also exist as a Codex entry in a Cerebraun author's own voice is his: (A) leave it as the lore section only, recommended until a chapter needs a Cerebraun to say it; (B) a Hegemony contact-doctrine paper by a new named Administrator-Voice, with a character page in the same PR; (C) a Prime Ganglion office memorandum with its author withheld, a marked absence rather than a page. Sohrel is not the author for (B): a doctrinal account of another people is not a document that record produces.
+
+**(A), settled by Fable 19 Oct 2026, his to overrule.** The lore section already holds the account in the Archive's voice, no chapter has called for a Cerebraun to say it, and (B) would invent an Administrator-Voice and a page for a document nobody has needed. If a chapter needs the voice, (B) is the shape to propose then.
 
 ## How a people holds standing — `mind-design.md`, 14 October 2026 — RULED same day, all as recommended
 
@@ -3237,7 +3454,7 @@ Dermot asked, 14 October 2026: *"Machine intelligence or virtual intelligence as
 
 Dermot asked whether the Prismeri may resemble dragons, then: *"However a large flying creature must be consistent with physics and planetary conditions."* The sheet proposes Prismere's gravity, air density and oxygen and a Prismeri's mass and span, works flight, the shell, the neck and the tail, and finds that physics permits a dragon's outline but supplies no dilemma against the confirmed short neck and no tail. Three choices, each with a recommendation there: **A** keep the shape and record the physics as its basis (recommended); **B** lift the Levril test and lengthen the neck modestly, a canon change by his choice; **C** confirm the proposed figures as canon.
 
-**Ruled 14 October 2026**, Dermot, verbatim: *"Option A is fine"*, after saying of the 12 October confirmation *"I might have been wrong about the confirmation or I did not think it through fully"* and asking for a recommendation. The short neck and no tail stay. Their basis is now the body's use, recorded as a clarification on `src/lore/prismeri.md`: the hang keeps the eyes beside the hands, glasswood punishes anything that trails, and the facet band reads the sky without the head turning. The physics permits a longer neck, so the shape is a choice, not a limit. The Levril test stays as a rule for pictures only. **C** (the proposed figures as canon) was not taken up and stays open.
+**Ruled 14 October 2026**, Dermot, verbatim: *"Option A is fine"*, after saying of the 12 October confirmation *"I might have been wrong about the confirmation or I did not think it through fully"* and asking for a recommendation. The short neck and no tail stay. Their basis is now the body's use, recorded as a clarification on `src/lore/prismeri.md`: the hang keeps the eyes beside the hands, glasswood punishes anything that trails, and the facet band reads the sky without the head turning. The physics permits a longer neck, so the shape is a choice, not a limit. The Levril test stays as a rule for pictures only. ~~**C** (the proposed figures as canon) was not taken up and stays open.~~ **C not taken, settled by Fable 19 Oct 2026, his to overrule**: the figures stay the sheet's working basis in `species-design.md` and do not enter `src/`, on the rule *explain the epistemology, never invent the fact*; a page that needs one states it then, as a proposal. Nothing open.
 
 ## Which established thread gets the next chapter — `intake-2026-10-18.md`, *Deepen the established threads* — RULED same day, A
 
@@ -3251,9 +3468,11 @@ Drafting is Fable's either way.
 
 **Ruled 18 October 2026**, Dermot, verbatim: *"Option A"*. The next chapter goes to Tissadelle's middle, Season 3. Which beat it takes (the Sentinel–Meridian raising, or Sohrel's declining that finally costs her something) is the drafter's to propose and is named in that chapter's PR.
 
-## Secondment to a non-police outside body — `intake-2026-10-19.md`, *Distinctions outside the Corps* — OPEN
+## Secondment to a non-police outside body — `intake-2026-10-19.md`, *Distinctions outside the Corps* — SETTLED BY FABLE 19 October 2026 (a marked absence), his to overrule
 
 The 19 October ruling (shape A) forbids secondment into any body with police or military authority, and keeps internal secondment as it stands. Whether a serving Ranger may be seconded to an outside body that holds neither, such as an academic institution or a Concord commission, was shape C, and it was not taken. Until he rules, nothing in the record permits it or forbids it, and no chapter should depend on it.
+
+**A marked absence, settled by Fable 19 Oct 2026, his to overrule.** Nothing permits it and nothing forbids it, which is the record's ordinary state for a thing no page has needed; the doctrine is *explain the epistemology, never invent the fact*. The precedents cut both ways without conflict: the Institute's independence (27 August) argues against a serving Ranger inside it, while a Concord commission is the kind of body the Liaison Corps already stands beside. So the page stays as he ruled it, and the first chapter that needs a Ranger seconded to an academic or Concord body proposes shape C in its own PR, naming the body.
 
 ## Syra's Fellowship: which branch — `intake-2026-10-19.md` — RULED same day, (a)
 
