@@ -3274,5 +3274,5 @@ Treatment drafted at Dermot's ask. The proposed premise is *a telling heard*: th
 8. the year (2834 UCSD proposed);
 9. the season's number, assigned in drafting order (14 on the current registry).
 
-Drafting waits on his word.
+~~Drafting waits on his word.~~ **First chapter drafted 19 October 2026 at his ask**: S14E01C01 *Nobody Came*, the small ones' game, Season 14 registered. Its four readings were settled at Opus on the recommendations (no dilemma): Stone-First's childhood habit of moving stones for nobody kept as Stone-First's own thought; the old ones' glance back at the shadow season kept; the seed (*a telling is not yours until somebody has heard it*) kept at one paragraph; the length left at about 2,600 words. **Still open, for the naming chapter:** the smallest one's name. The chapter plants the small ones' phrase *the one who keeps a hand on it* and settles nothing. Candidates to put to him then: *Keeps-A-Hand-On-It* (recommended), *Hand-On-The-Stone*, *Made-Everyone-Wait*, or a telling from a later chapter.
 
