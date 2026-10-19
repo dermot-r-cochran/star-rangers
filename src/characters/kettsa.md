@@ -5,6 +5,8 @@ id: kettsa
 species: Chthonari
 role: "Senior Officer, Star Rangers Engineering Corps — fold-scaffold specialization, the Earth–Sun L5 fold-staging zone"
 status: Active
+image: "kettsa.jpg"
+image_alt: "Kettsa, a small six-legged Chthonari with a dark slate domed carapace and copper-bronzed leg joints, wearing fitted plates of matte graphite shell over the top of the carapace with a single small copper tab near its forward edge, legs and underside bare, on scuffed deck plating beside the foot of a long pale sealed housing in a dim ship's plant corridor under girders and pipework."
 aliases: []
 tags: [chthonari, undersong-belt, federation-of-sentient-beings, star-rangers, engineering-corps, fold-scaffold, lagrange, sol-system, senior-officer]
 description: "A Chthonari of the Star Rangers' Engineering Corps, a former Belt scaffold cutter who came in on the fast track and holds Senior Officer in the fold-scaffold specialization at the Earth–Sun L5 staging zone in 2826 UCSD — the first Chthonari Ranger the record names, reading a scaffold's gradient through the plating before the instruments agree."
