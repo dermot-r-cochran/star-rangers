@@ -199,14 +199,6 @@ const DESIGNS = [
     images: [],
   },
   {
-    id: "generic-large-ring", name: "A habitat above the threshold (generic large ring)", kind: "ring", generic: true, sheet: null, principles: [6, 8],
-    owner: { text: "none: the picture for The Habitat Threshold", quote: "The charter population line above which a self-governing orbital settlement passes out of Star Rangers jurisdiction entirely" },
-    era: { text: "the record's present", quote: "The charter population line above which" },
-    sources: [["src/lore/habitat-threshold.md", "The charter population line above which"]],
-    page: true,
-    images: [{ path: "lore/habitat-threshold.jpg", check: "no-sheet", evidence: [IMAGES_FILE, "Derived through starship-design.md: a habitat above the threshold is a self-governing place", "one plain ring over a cloudy world, spokes to a hub with radiators edge-on"], resolves: true, note: "Re-made 12 October 2026 (century batch 9) on New London's figures (principle 6): one 1.5 km ring, a still hub, radiators edge-on; six spokes guessed." }],
-  },
-  {
     id: "knarrheim", name: "Knarrheim", kind: "station", sheet: null, principles: [6, 8, 10],
     owner: { text: "the Knarr Line", quote: "the largest hauler-mothership in the Knarr Line's founding fleet" },
     era: { text: "grown over five centuries; unmoved for four", quote: "has not moved under its own power in over four centuries" },
@@ -558,9 +550,11 @@ function build(root = REPO_ROOT, designs = DESIGNS, sheetFacts = SHEET_FACTS) {
     return design;
   });
 
-  // Every image the audit sends through the loop is accounted for by a design.
+  // Every image the audits send through the loop, and still on disk, is
+  // accounted for by a design; a retired picture owes nothing.
+  const onDisk = name => ["lore", "hero", "lore/planets", "characters"].some(dir => fs.existsSync(path.join(root, "src", "images", dir, name + ".jpg")));
   for (const name of loop) {
-    if (!out.some(d => d.images.some(i => path.basename(i.path, ".jpg") === name))) warnings.push(`images.md sends ${name} through the starship-design loop, and no design in the rule table carries it`);
+    if (onDisk(name) && !out.some(d => d.images.some(i => path.basename(i.path, ".jpg") === name))) warnings.push(`images.md sends ${name} through the starship-design loop, and no design in the rule table carries it`);
   }
 
   const count = (key, values) => Object.fromEntries(values.map(v => [v, out.filter(d => d[key] === v).length]));
