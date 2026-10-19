@@ -20,6 +20,8 @@ The rank ladder says what an officer may command. Her guild says what her discip
 - **Associate**: a body of work that is distinctive as well as competent, so that the panel can tell whose work it is without being told.
 - **Fellow**: a body of work that has changed how the branch does something, with a written account by the applicant of what was changed and why. Fellows are few in every guild, and they sit on the panels that award all three grades.
 
+- **Honorary Fellow**: the one grade a guild awards outside the Corps. A person who is not a Ranger may advance a branch's practice: a metrologist in a habitat's own service, a polity's surveyor, a scholar, or a practitioner of another people. The guild's Fellows may recognise that work as Honorary Fellow. The grade is awarded, never applied for. It is kept on the guild's record and never worn, because the person it honours has no Corps uniform to wear it on.
+
 A distinction is not examined. The applicant submits what she has already done, which may be logs, findings, inspections, instruments built, a teaching record at an [Academy](/star-rangers/lore/star-rangers-academy/) college or charts that held. A panel of the branch's Fellows reads it. The panel does not ask whether she could do the work, because the certification has already answered that. It asks what the work shows. A distinction requires the branch's certification. Beyond that, each guild sets its own rules: most take the grades in order, and the record holds no rule for all of them. A distinction does not lapse. A guild can withdraw one for misconduct in the work it recognised, and it never does so for anything else.
 
 **3. Guild award.** Each guild also awards a small number of named medals, at most a handful a year, for a single contribution to its discipline: a standard rewritten, a failure explained, a method every later officer uses. An award marks one act, and a distinction marks a body of work. The guild keeps the names and the criteria. The Archive lists neither, because they change at each guild's own pace.
@@ -29,6 +31,21 @@ A distinction is not examined. The applicant submits what she has already done, 
 **Decorations** are a fifth thing and belong to none of the guilds. Valour citations and service ribbons are the Corps' own, and they record what a Ranger did (see [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-and-uniform/)).
 
 **No equivalence runs between guilds.** A Fellow of the Safety Corps in Boundary Safety and a Licentiate of the Survey Corps in xenolinguistics are not compared, and no table in the record ranks one against the other. That is the point of the system: each discipline is the only judge of its own work.
+
+## Leaving the Corps, and Secondment
+
+**A distinction follows the person, and a certification does not.**
+
+- **A distinction** is a guild's judgement of work already done. It stays on the guild's record when its holder leaves the Corps, and the guild can withdraw it only for misconduct in the work it recognised. A former Ranger remains a Fellow of her guild. She does not wear the plate on another body's uniform, and since no equivalence runs between guilds, the body she joins decides for itself what the title means to it.
+- **A certification** is a licence held under the Corps' jurisdiction, and the authority behind it is the Corps'. It lapses when its holder leaves. The record keeps that it was held, and a new employer may test her against its own standard. It is the patch rule in reverse: an outside certificate does not entitle anyone to a Corps plate, and a Corps plate carries no authority outside the Corps.
+
+**Secondment keeps everything, and it never reaches a body with police or military authority.** An officer seconded within the Corps, to guild office for instance, keeps her rank, her post to return to, and every plate she holds. A serving Ranger cannot be seconded into a body that polices or fights, because three standing rules forbid it together:
+
+- Rangers hold no authority inside a self-governing habitat.
+- [No branch is police except the Frontier Corps, and none is military](/star-rangers/lore/star-rangers-command-hierarchy/).
+- A serving Ranger's conduct anywhere is the Provost track's to answer for, under her [immunity](/star-rangers/lore/shore-leave-and-neutrality/).
+
+A Ranger in a habitat's police would hold authority the charter denies her, under a shield the habitat could not lift. [Kai Larsen](/star-rangers/characters/kai-larsen/) is the record's example. He resigned his Survey Corps commission before he took command of Orbital Five-O. His Corps certifications lapsed with the commission, and whatever his guild had found in his work stays on its record.
 
 ## How They Are Worn
 
