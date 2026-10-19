@@ -3261,7 +3261,7 @@ Syra is a Fellow of the Survey Corps (ruled 19 October 2026). Distinctions are a
 
 **Ruled 19 October 2026**, Dermot, verbatim: *"A"*. The branch and year of award stay unrecorded; the page stands as written.
 
-## Below the Roof, third season — `below-the-roof-third-season-treatment.md`, 19 October 2026 — OPEN
+## ~~Below the Roof, third season~~ — `below-the-roof-third-season-treatment.md`, 19 October 2026 — RULED same day (*Recommendations accepted*; drafting at his word)
 
 Treatment drafted at Dermot's ask. The proposed premise is *a telling heard*: the Told tell the up-people the telling of the first stone at the line; the survey hears it with the sound channel off and logs only who was there; the Archive gains the fact of the hearing and no words. Nine choices, recommendations marked in the treatment:
 1. the premise;

@@ -83,6 +83,19 @@ Under convergence 1, the Archive gains one fact and no words: *in 2834 UCSD a te
 
 ## What stays open — his
 
+**RULED 19 October 2026 — *Recommendations accepted*** (`intake-2026-10-19.md`). Every recommendation below stands:
+- premise (a), a telling heard;
+- the telling of the first stone;
+- convergence (1), heard and not recorded;
+- one revised sentence on the Fliade entry;
+- the smallest one's name settled this season, with the name put as choices in that chapter;
+- Ferrant kept as a head;
+- the small ones' game in;
+- 2834 UCSD;
+- the number assigned in drafting order.
+
+The list is kept as the record of the choice. Drafting still waits on his word.
+
 1. **The premise.** (a) A telling heard, as above (recommended). (b) A different third season, for example the survey's departure, its last shift, and the line's stones left behind. (c) More shadows, a Season 12 continuation (not recommended for the children's rung).
 2. **Which telling goes up.** (a) The telling of the first stone (recommended). (b) The telling of the shapes, Season 12's. (c) A telling the season invents.
 3. **The convergence.** (1) heard, not recorded (recommended); (2) recorded; (3) no telling.
