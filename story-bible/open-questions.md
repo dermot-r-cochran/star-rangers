@@ -58,7 +58,7 @@ Drafted as `src/characters/kettsa.md`, grounded only in `chthonari.md`,
 `guild-distinctions.md`, `star-rangers-academy.md`, the four Chthonari crew
 pages and the ruled sections of `species-design.md` and `mind-design.md`,
 with the rest marked absent; portrait prompt in `images.md` § 19, not
-generated, so the page carries no `image:`. Settled by recommendation under
+generated, so the page carries no `image:`; PR #1362. Settled by recommendation under
 the dilemma-only rule, each his to overrule: **the name** (*Kettsa*, a
 struck signature rendered as the four crew names are, a strike, the same
 strike held and a scrape left open, told from all four); **the pronoun**
@@ -162,7 +162,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 - [ ] **Verdance**: one Verdani character, but the planet holds four civilisations.
 
 **Peoples the record says serve in the Corps, or could, with no Ranger on record** (added 14 October 2026 from `species-design.md`, *In the Corps*):
-- [x] ~~**A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.~~ **Filled 19 October 2026** on Fable at Dermot's direction: Kettsa, Senior Officer, Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone, 2826 UCSD (`src/characters/kettsa.md`; portrait prompt `images.md` § 19, not generated; the section *A Chthonari Ranger, Kettsa* above records the choices).
+- [x] ~~**A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.~~ **Filled 19 October 2026** on Fable at Dermot's direction: Kettsa, Senior Officer, Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone, 2826 UCSD (`src/characters/kettsa.md`; portrait prompt `images.md` § 19, not generated; the section *A Chthonari Ranger, Kettsa* above records the choices; PR #1362).
 - [ ] **An Ovruhn Ranger**: `ovruhn.md`, *In the Corps*, describes Ovruhn Rangers in structural survey, search, acoustic watch and disaster mass care; the one named Ovruhn, Vhen, is a chorus keeper on Thavren. This line is the Corps half of the Ovruhn entry's *"any Corps character"*.
 - [ ] **A Prismeri on a Corps posting**: guild astrogators do Survey Corps fold-route confirmation under the compact, and Prismeri contracts name *Ranger liaison postings*, but no Prismeri individual is on record (the *Federation peoples* Prismeri line above is the people as a whole; this one is the posting). Whether such a posting is a Ranger or a seconded guild member is choice 4 in that section.
 - [ ] **A Verdani in or beside the Corps**: Verdani need only full-spectrum light, which Ranger vessels already carry, and Isren Farrowkin sponsored the Survey Corps data-sharing proposal, but no Verdani Ranger is on record.
