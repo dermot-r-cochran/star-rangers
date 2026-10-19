@@ -3260,3 +3260,19 @@ The 19 October ruling (shape A) forbids secondment into any body with police or 
 Syra is a Fellow of the Survey Corps (ruled 19 October 2026). Distinctions are awarded per branch, and her branch and year of award are left unrecorded. Choices: (a) leave both unrecorded (recommended, the current state); (b) name an existing branch, Archive being the nearest for a record-keeper of instrument findings; (c) register a boundary survey branch in the Survey Corps, which would be a larger institutional step.
 
 **Ruled 19 October 2026**, Dermot, verbatim: *"A"*. The branch and year of award stay unrecorded; the page stands as written.
+
+## Below the Roof, third season — `below-the-roof-third-season-treatment.md`, 19 October 2026 — OPEN
+
+Treatment drafted at Dermot's ask. The proposed premise is *a telling heard*: the Told tell the up-people the telling of the first stone at the line; the survey hears it with the sound channel off and logs only who was there; the Archive gains the fact of the hearing and no words. Nine choices, recommendations marked in the treatment:
+1. the premise;
+2. which telling;
+3. the convergence (heard, not recorded / recorded / none);
+4. what reaches the Archive;
+5. the smallest one's name;
+6. Ferrant as a head;
+7. the small ones' game;
+8. the year (2834 UCSD proposed);
+9. the season's number, assigned in drafting order (14 on the current registry).
+
+Drafting waits on his word.
+
