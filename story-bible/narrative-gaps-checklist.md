@@ -139,6 +139,17 @@ Finished prose in the story-bible waiting for a slot; each stays out of
 
 ### Character arcs with promised beats
 
+- [x] **Tissadelle as a Novice** — her page, the Music Corps page and the
+  Slipwave entry all said she was taken on provisionally and placed with the
+  band, and no chapter showed it. Paid 19 October 2026 by S01E00C06 *The Time
+  the Study Needs* (Dermot's direction, *"add at least one scene where
+  Tissadelle is still a novice or when she becomes a novice"*): late summer
+  2825 on Eden, the night the branch's Principal settles what she has been
+  hearing, the morning the form is filled and the one-bar tab seated, and the
+  band told before the set. Varga, Tissadelle and Ashgrove POVs. Whether any
+  other member of her system was present in 2825 is left unmarked, as her page
+  and Tobble's leave it.
+
 - [x] **Karla Wender, Chief Pilot → High Captain** — paid by S05E00C02 *Asked Across*; on her page, dramatised
   nowhere (also under *Standing waypoints* above).
 - [x] **Wender's mentorship of Shepherd** — placed between Seasons 3 and 5
