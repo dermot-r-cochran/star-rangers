@@ -3255,6 +3255,8 @@ Drafting is Fable's either way.
 
 The 19 October ruling (shape A) forbids secondment into any body with police or military authority, and keeps internal secondment as it stands. Whether a serving Ranger may be seconded to an outside body that holds neither, such as an academic institution or a Concord commission, was shape C, and it was not taken. Until he rules, nothing in the record permits it or forbids it, and no chapter should depend on it.
 
-## Syra's Fellowship: which branch — `intake-2026-10-19.md` — OPEN
+## Syra's Fellowship: which branch — `intake-2026-10-19.md` — RULED same day, (a)
 
 Syra is a Fellow of the Survey Corps (ruled 19 October 2026). Distinctions are awarded per branch, and her branch and year of award are left unrecorded. Choices: (a) leave both unrecorded (recommended, the current state); (b) name an existing branch, Archive being the nearest for a record-keeper of instrument findings; (c) register a boundary survey branch in the Survey Corps, which would be a larger institutional step.
+
+**Ruled 19 October 2026**, Dermot, verbatim: *"A"*. The branch and year of award stay unrecorded; the page stands as written.
