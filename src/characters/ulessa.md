@@ -50,6 +50,7 @@ Her age, beyond the two centuries of service. Her body, which no page describes 
 
 - [Mnemari](/star-rangers/lore/mnemari/), the people, and [The Federation of Sentient Beings](/star-rangers/lore/federation-of-sentient-beings/), the assembly that requests her
 - [Ollune](/star-rangers/lore/ollune/), for the standing item she raises, and [Cirrane](/star-rangers/lore/planets/cirrane/)
+- [Osune](/star-rangers/characters/osune/), the Set-Down witness who sends the reader of her people's history to Ulessa for the Rangers' first table, in [By the Chair of That Day](/star-rangers/codex/by-the-chair-of-that-day/)
 - [The Ladder in Other Tongues](/star-rangers/lore/the-ladder-in-other-tongues/), for *the Mnemari sit at compact tables as memory*
 - [The Shape of a Life](/star-rangers/lore/the-shape-of-a-life/), for a life with no decline in it, and [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/), for the human frame the body is not
 - [Krenyi](/star-rangers/lore/krenyi/), the contrast her people's page draws: centuries without degradation against no upper bound at all
