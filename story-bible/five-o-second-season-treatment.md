@@ -186,7 +186,7 @@ is the interest — a witness who cannot forget, in a case about records — and
 schedule biology does not impose. **Costs:** humanoid, so the body does less
 work (superseded 19 October 2026: the species page's *humanoid* was clarified
 and the body derived in `species-design.md`, *Mnemari — a body from Ilenne*,
-a level-backed six-limbed walker, so this cost no longer holds); the strand tends toward a hearing-room, which is Strand A's register
+re-made on 20 October as a tripod with a slung body and a long neck, so this cost no longer holds); the strand tends toward a hearing-room, which is Strand A's register
 already; and a memory that never decays is a shape the trope default watches
 closely (the infallible witness).
 

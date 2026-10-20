@@ -108,12 +108,15 @@ night on Opus, in one PR:
   and dry spells of no period, three years to most of a century; slow, sparse
   producers and few large hunters. The page reads the two Mnemari traits as
   one answer to that world and gives no mechanism for either.
-- `species-design.md`, *Mnemari — a body from Ilenne*: a level-backed,
-  six-limbed walker in Endoskelia, about 200 kg, back at a standing human's
-  chest; four walking legs, two working limbs beneath the neck; one eye on
-  each side of a long low head, flank hearing membranes, no ears, no face, no
-  tail; determinate growth, no marks of age, healed injuries as pale seams;
-  dry felted dun-grey hide. Each point marked derived or proposed, the traps
+- `species-design.md`, *Mnemari — a body from Ilenne*, re-made 20 October
+  2026 at Dermot's direction (*"reconsider the whole body design"*, then
+  *"A"*, *"H2"* and *"Merge the two kinds please"*): Endoskelia, about 200 kg;
+  three tall arched legs meeting at a hub above head height, the body slung
+  beneath on a column, a long neck carrying a small-eyed head forward to
+  table height; three working limbs curled beneath; hearing membranes on the
+  body's sides, no ears, no face, no tail; determinate growth, no marks of
+  age, healed injuries as pale seams; warm ochre, russet and umber hide. The
+  19 October six-limbed walker is superseded. Each point marked derived or proposed, the traps
   closed (human frame, biped, centaur, Elf, grey alien, Earth animal,
   infallible witness), and the prompt vocabulary and standard negative left
   for Fable.

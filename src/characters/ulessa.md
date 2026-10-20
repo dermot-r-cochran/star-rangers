@@ -5,6 +5,8 @@ id: ulessa
 species: Mnemari
 role: "Treaty-witness of Ilenne, requested to sessions of the Federation assembly that revisit old compacts"
 status: Active
+image: "ulessa.jpg"
+image_alt: "Ulessa, a large Mnemari with a warm ochre and russet hide banded in umber, standing on three tall arched legs that meet at a hub above her, her rounded body slung beneath on a thick column, a long curving neck reaching forward so her small-eyed head hangs at the height of a pale table with a few cream sheets on it, three short working limbs curled beneath her body, in a quiet room with pale neutral walls."
 aliases: []
 tags: [mnemari, ilenne, federation-of-sentient-beings, treaty-witness, mediation, memory, indefinite-lifespan, civilian]
 description: "A Mnemari treaty-witness of Ilenne, requested for a little over two centuries to Federation assembly sessions that revisit old compacts, who holds every table she has sat at in full and has never once been able to say that was a long time ago — the first Mnemari the record names."
@@ -41,12 +43,12 @@ Ilenne's custom gives her one way out, and the page gives its shape: the Setting
 
 ## What the Record Does Not Carry
 
-Her age, beyond the two centuries of service. Her body, which no page describes beyond its frame: the species page files the Mnemari in Endoskelia, built by Ilenne's uplands and not on the human frame, as the [standing refusal](/star-rangers/lore/what-the-record-refuses/) requires, and the record has not yet set down what a Mnemari looks like, so the page carries no portrait. Her kin, and what Ilenne's kin-councils decided in bringing her into being. The Mnemari language, which the record renders only in translation and has marked as an absence. Any table she sat at by name, any delegate she has disagreed with, and any chapter. Whether she has ever sat at the renewal of the Star Rangers' own material-support compact; compact tables are where the Mnemari sit as memory, and that one is renewed by assembly vote each generation, but the record has not placed her there.
+Her age, beyond the two centuries of service. Her body, which no page describes beyond its frame: the species page files the Mnemari in Endoskelia, built by Ilenne's uplands and not on the human frame, as the [standing refusal](/star-rangers/lore/what-the-record-refuses/) requires, and the portrait shows the body as the record now draws it: three tall legs arched to a hub, the body slung beneath, and a long neck that carries the head forward. Her kin, and what Ilenne's kin-councils decided in bringing her into being. The Mnemari language, which the record renders only in translation and has marked as an absence. Any table she sat at by name, any delegate she has disagreed with, and any chapter. Whether she has ever sat at the renewal of the Star Rangers' own material-support compact; compact tables are where the Mnemari sit as memory, and that one is renewed by assembly vote each generation, but the record has not placed her there.
 
 ## See also
 
 - [Mnemari](/star-rangers/lore/mnemari/), the people, and [The Federation of Sentient Beings](/star-rangers/lore/federation-of-sentient-beings/), the assembly that requests her
 - [Ollune](/star-rangers/lore/ollune/), for the standing item she raises, and [Cirrane](/star-rangers/lore/planets/cirrane/)
 - [The Ladder in Other Tongues](/star-rangers/lore/the-ladder-in-other-tongues/), for *the Mnemari sit at compact tables as memory*
-- [The Shape of a Life](/star-rangers/lore/the-shape-of-a-life/), for a life with no decline in it, and [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/), for the body the record has not yet drawn
+- [The Shape of a Life](/star-rangers/lore/the-shape-of-a-life/), for a life with no decline in it, and [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/), for the human frame the body is not
 - [Krenyi](/star-rangers/lore/krenyi/), the contrast her people's page draws: centuries without degradation against no upper bound at all
