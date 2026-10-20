@@ -6,6 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Power and weapons in Earth's history** (`story-bible/earth-2826.md`, 2026-10-20, Dermot's *"A"*). Three proposed readings. Fusion became generally viable in about the 2160s CE (2360s UCSD), and it powered the three centuries of repair. Large-scale nuclear weapons were never used because the arsenals lapsed during the Crisis Centuries, tritium decaying and every state spending on the sea, so nothing of that scale remained by the Coherence Wars. Bunkers proved ineffective against century-long catastrophes, and the habitats were the refuge that worked. Nothing in `src/` changes.
 ## [1.45.0] — 2026-10-20
 
 Four new chapters in the first season and four in *Below the Roof*, with codex histories of the Told, the Mnemari and the Chthonari in their own voices. Two derived artefacts join the set, peoples and bodies, and arcs and threads, and the story bible gains notes on ecology, contact, how a crew talks on deck and Earth in 2826. The Unfounded are named as the only true villains, the work is described as an open-ended story, and several portraits and designs are re-made against their sheets.

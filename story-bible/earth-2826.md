@@ -449,7 +449,53 @@ and checks the names against it.
 
 ---
 
-### Earth in the Coherence Wars (ruled 20 October 2026, Dermot's *"A"*)
+### Power and weapons (ruled 20 October 2026, Dermot's *"A"*)
+
+He asked three questions the record had not answered: *"Why large scale
+nuclear weapons were never used"*, *"Nuclear bunkers proved ineffective in
+hindsight"* and *"When was fusion made generally viable?"*. He took the
+readings below as one proposal. All three are **proposed**, nothing is written
+to `src/`, and each is one reading that fits what the record already holds.
+
+- **Fusion became generally viable in about the 2160s CE (2360s UCSD).**
+  - The record dates nothing about fusion. It says only that fusion is the top
+    of the lawful energy ladder, *"sufficient everywhere and immediate nowhere"*
+    (`the-fusion-ceiling.md`).
+  - First commercial plants came in the late 21st century CE. General viability,
+    cheap and widespread, came just after the Crisis Centuries' worst decade
+    (2130s–2140s CE).
+  - Cheap fusion is what made the repair possible. Drawing carbon out of the air
+    at a planetary scale, and holding ocean chemistry, take energy on a scale
+    nothing else supplied. So the three centuries of repair begin with it, and it
+    is part of what the Coherence Wars broke.
+- **Large-scale nuclear weapons were never used, because the arsenals lapsed
+  first** (derived from real physics, proposed as history).
+  - A stockpile is a maintenance programme. Warheads depend on tritium, which
+    decays with a half-life of about 12.3 years, and on specialist plants and
+    people.
+  - Through the Crisis Centuries every state spent what it had on the sea, the
+    heat and the harvest. The stockpiles were run down and dismantled, partly by
+    agreement and partly by neglect, because none could be justified against
+    what the water was doing.
+  - By the Coherence Wars, about 160 years after the worst decade, nothing of
+    that scale remained to use. Those wars were fought over stations, ice,
+    navigation and the shared life-support everyone depended on, and destroying
+    that would have killed one's own side. This fits the nuclear-winter ruling
+    below, and the record's refusal of the guns-and-spaceships register.
+  - No page names who disarmed or under what agreement. Any treaty stays
+    unnamed, under the rule that names no political ideology.
+- **The bunkers proved ineffective in hindsight.**
+  - A bunker shelters you from an hour. The record's catastrophes lasted a
+    century: rising water, heat, failing harvests and broken supply lines.
+  - Shelters built for a short catastrophe were the answer to the wrong question.
+    Many were coastal or low-lying, and the sea took them.
+  - The people who came through were the ones who moved, rebuilt the coasts and
+    kept the repair running, or went up: the crisis *"drove people off a damaged
+    surface, and the habitats above it were built to hold them"*
+    (`habitat-threshold.md`). The habitats were the refuge that worked.
+  - In prose a bunker appears, if at all, as a flooded or abandoned relic, never
+    as an adventure setting (the tone rule; no post-apocalyptic register).
+
 
 **What the record says (derived).**
 - **The wars:** forty years, 2303–2343 CE (2503–2543 UCSD), with *three billion dead*
