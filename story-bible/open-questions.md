@@ -4027,3 +4027,10 @@ S01E00C06 *The Time the Study Needs* keeps Shepherd's POV singular and says in i
 Dermot's ruling of 19 October (an older entrant with prior experience may spend days or weeks as a Novice) was read against her record: she came young, in her early twenties, and her prior training was a police college on Tír na nÓg, not the branch's work; the Slipwave entry puts her Novice year at about a year, the band's last, which is the ordinary length. So the chapter has the Principal take her on the ordinary road and say why, without naming the fast track as a rule. `canon_facts` assert neither track by name. If he reads the Garda boards as prior experience in the ruling's sense, the fix is one sentence in Varga's block and her Novice year shortens, which would then need the Slipwave entry's *last year* revisited.
 
 - **The Oversight Council confirming flag officers for a Corps drawn partly from beyond the Solar System** (raised by the 19 October critic read, Dermot's choice A: left as ruled). The Council's voting seats are one system's, yet it confirms every Star Captain and High Captain, while the Union supplies a large share of the Corps' outer officers. Left open: whether any polity has objected, and whether confirmation is tied to the charter's accountability clause on the Council page. No page changes until a chapter needs it.
+
+## Earth in 2826: the plateau and the AMOC — `earth-2826.md`, 20 October 2026 — OPEN, two choices
+
+Raised by the Earth geography note at his direction (option A, and *Gulf stream towards Ireland*). Both are put as options in the note's *Open items for Dermot*; nothing is written to `src/` either way.
+
+- **Has the drawdown lowered the plateau, or only held it?** (A) held at about 2 °C; **(B) drawn down slowly to about 1.5–2 °C, recommended**; (C) back to pre-industrial, refused as the pristine-Earth trap.
+- **The AMOC: weakened or collapsed?** **(A) weakened by a quarter to a half, never collapsed, recommended**; (B) collapsed in the crisis and partly recovered; (C) collapsed and not recovered.
