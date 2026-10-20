@@ -6,6 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Fossil fuels in Earth's history** (`story-bible/earth-2826.md`, 2026-10-20, Dermot's *"A"*). A proposed reading in the Earth note: fossil fuels ended as fuel through economics, not exhaustion. Once fusion was cheap, burning them cost more than it returned and worked against the carbon drawdown. Much of the coal and oil is still in the ground in 2626 CE. Minimal use remains as material, likely made from captured carbon, and Titan's methane is a possible feedstock for the outer system. Nothing in `src/` changes.
 - **Power and weapons in Earth's history** (`story-bible/earth-2826.md`, 2026-10-20, Dermot's *"A"*). Three proposed readings. Fusion became generally viable in about the 2160s CE (2360s UCSD), and it powered the three centuries of repair. Large-scale nuclear weapons were never used because the arsenals lapsed during the Crisis Centuries, tritium decaying and every state spending on the sea, so nothing of that scale remained by the Coherence Wars. Bunkers proved ineffective against century-long catastrophes, and the habitats were the refuge that worked. Nothing in `src/` changes.
 ## [1.45.0] — 2026-10-20
 
