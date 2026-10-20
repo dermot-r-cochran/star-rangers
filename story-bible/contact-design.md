@@ -244,7 +244,7 @@ at 20 October 2026, in `src/seasons/`:
 - **An answer to an Ollune is an import** (derived). *"An import has to be lifted
   by the body that accepts it, permanently"*, and *"the only imports worth
   having on Cirrane are weightless"* (`ollune.md`). A signed paper handed to an
-  Ollune is a charge on that body forever once it is home.
+  Ollune is a charge on that body forever once they are home.
 
 ### Proposed
 
@@ -272,8 +272,8 @@ Named by function. Four names are coined, and nothing else.
 - **The port** (proposed, the page's *viewport*). One flat, thick, plain port
   of a metre or two in the hull's side, set in a wall of the host room at a
   human's height. The light comes from each side's own room. The Ollune beyond
-  it is large and amber in its own dim light, and partly out of view; it is
-  never lit for the viewer, and the human side is never darkened for effect.
+  it is large and amber in their own dim light, and partly out of view; they
+  are never lit for the viewer, and the human side is never darkened for effect.
 - **The sounding pair** (proposed). A pickup and a sounder on each side of the
   wall, carrying the far word out and sound in. It passes signal and decides
   nothing. Where the far word lies below hearing it is shifted up, and the
@@ -313,7 +313,7 @@ written it cannot be assumed to serve an Ollune: an Ollune needs hydrogen at
 the temperate shell's conditions, and hydrogen inside a ship of air needs the
 doubled wall, the watched interspace and the purged lock above, none of which
 the page gives. Not a contradiction, since the page names no people. **Derived
-reading:** an Ollune aboard a Lee-class travels in its own hydrogen hull, docked
+reading:** an Ollune aboard a Lee-class travels in their own hydrogen hull, docked
 to the spine, unless a later page fits the chamber as one. Nothing in `src/` is
 changed by this file.
 
@@ -357,6 +357,9 @@ temperate shell's numbers stay unfixed unless a chapter needs one.
 - **On Drithane**, a Chthonari engineer speaks to Sorcha *"through the flat
   little voice of a translation pendant"*, and later *"with what the pendant
   rendered as care"* (`src/seasons/s02/e04/s02e04c01.md`, Sorcha's POV).
+- **With the Cerebraun**, *"every exchange between a Cerebraun and a human passes
+  through machine translation"*: the instruments render the stated position,
+  and *"The skin they leave as it was"* (`src/lore/cerebraun.md`).
 - **At Meridian**, a petition is *"rendered by the relay station's translation
   instrumentation"*, after *"the usual half-hour of the instrumentation arguing
   with itself over connotation"* (`src/seasons/s03/e01/s03e01c03.md`).
@@ -539,7 +542,7 @@ in the Archive's voice, as the reading above gives it.
   corridor is a different room (the Pelagene breathe air on a station).
 - **A cold room** for an Ilveth seat (proposed, from *"chilled quarters"*). In a
   warm room an Ilveth speaks click-speech only, and the record says so.
-- **A Cerebraun seat** (proposed) sits where its upper skin is in view of those
+- **A Cerebraun seat** (proposed) sits where the delegate's upper skin is in view of those
   who can read it, since the second channel is the meeting (handbook,
   failure 2).
 
@@ -722,7 +725,7 @@ human in them.
 | Ilveth | Station air in a cooling shell; chilled quarters | Click-speech only in a warm hull; the warm-write unusable there | `ilveth.md`, `suvra-kel.md` |
 | Ovruhn | Station air; vacuum is sensory dark | Speech and an under-song that leaks through deck plate; whether station air starves the far sense is not established | `ovruhn.md` |
 | Prismeri | Shared facilities in standard air; their light; a beam overhead | Speaks at the assembly (C08); channel not described | `prismeri.md`, `s01e00c08.md` |
-| Cerebraun | Human air, tolerated and disliked over time | Words and skin-display together; the skin read by sight | `cerebraun.md`, the handbook |
+| Cerebraun | Human air, tolerated and disliked over time | No voice a human hears unaided: the stated position reaches a human only through machine translation, and the skin-display is left as it is, read by sight | `cerebraun.md`, the handbook |
 | Meridian sapients | Their own seas only; humans on sealed platforms, by proxy | Claw-percussion and a chemical channel, through a relay station's instrumentation | `meridian.md`, `s03e01c03.md` |
 | Ollune | A hydrogen hull, in freefall where possible; most never travel | Far word carried through the wall by a sounding pair; near word as a mark through a lock, read by a reader (names proposed) | `ollune.md`, `s01e00c08.md` |
 | The Told | Their own caverns; the survey in one air, at the line | Speech, unrecorded and untranslated; a stone moved; a light held low | `fliade.md`, `the-told.md`, S11–S14 |
