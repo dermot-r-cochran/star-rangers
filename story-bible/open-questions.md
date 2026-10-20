@@ -183,13 +183,21 @@ same rule:
   own account not struck, since it is cut where it is cut. Akkit's portrait
   is owed from the Chthonari body; prompted 20 October 2026 (Fable,
   `images.md` § 24), filed the same day (variation 2).
-- [ ] **The Told** — `src/lore/planets/fliade.md`, `src/glossary/the-told.md`,
+- [x] ~~**The Told**~~ — **drafted 20 October 2026** (Fable, at Dermot's ask
+  to bring Fable jobs forward before the reset; PR #1403):
+  `src/codex/where-the-tellings-run-out.md`, by Went-Round, told standing up
+  in the warm to everyone, on the shape settled below: the old tellings gone
+  round in order from where they run out to the coming of the up-people, and
+  stopped there; held by nobody, taken down by nobody, nothing dated, no name
+  grown, the Fliade entry's open items untouched; one line on Went-Round's
+  page; reaches the Told edition by the thread tag with a `plain:` line.
+  ~~`src/lore/planets/fliade.md`, `src/glossary/the-told.md`,
   `src/characters/stone-first.md`, `teddy.md`, `went-round.md`,
   `keeps-a-hand-on-it.md`, the *Below the Roof* chapters. Voice: **tellings**,
   the first true thing said and then repeated, back to where the tellings run
   out; a telling rendered, not a transcription. The record holds the people's
   side only by way of the thread, so the author must be a teller the thread
-  could carry, and what was said at the line in 2834 UCSD stays unheld.
+  could carry, and what was said at the line in 2834 UCSD stays unheld.~~
   **How it is filed — settled by Opus, 20 October 2026, his to overrule:** as
   the thread already files the people's side, **a telling rendered by the
   record and held by nobody in it.** The glossary holds what the people say
