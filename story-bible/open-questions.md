@@ -212,6 +212,23 @@ the **Vessik** are an unaugmented burrow commensal.
 
 ---
 
+## Kernowek Reach's *native reptile* — `ecology-design.md`, *Open items*, raised 20 October 2026, OPEN, two options, A recommended
+
+Found while writing the ecology note (Opus). `src/lore/planets/kernowek-reach.md`
+calls the ridge-strider *"a native reptile"* in the Archive's own voice, and its
+image caption says *"a large native reptile"*. *Reptile* is an Earth clade
+word, and `src/lore/cross-biosphere-taxonomy.md` holds that the record *"never
+states the likeness as a lineage"*. The page's next sentence frames the
+resemblance as possibly the observers' pattern-matching, so it half-corrects
+itself.
+
+- **A (recommended): a clarification** in a later PR: *"a native animal the
+  settlers called a reptile"*, the caption likewise; the settlers' name and the
+  xenobiologists' argument both stand.
+- **B: leave it**, reading *reptile* as the settlers' word.
+
+---
+
 ## The reciprocal instrument's year against the Federation's first generation — raised 20 October 2026, RULED the same evening: A (Dermot's *"Yes, agreed"*); Greenward clarified, the instrument dated about 2806 UCSD on the timeline
 
 Found while building the non-human timeline (Opus, same PR). Two pages date
