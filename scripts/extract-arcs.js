@@ -155,7 +155,7 @@ const STRANDS = [
 // the page is derived from whether its chapters exist.
 const CONVERGENCES = [
   { seasons: [1], name: "At the causeway: the question asked", fixed: true, chapters: ["s01e03c01"],
-    evidence: [SUMMARY, "Convergence: the two strands meet at the causeway, where Galahad's precise vocabulary lets Elvira ask the question Aldera has been waiting to answer, breaking the feeding loop.", "src/seasons/s01/e03/s01e03c01.md", "someone finally asks Aldera the question she has been waiting for"] },
+    evidence: [SUMMARY, "where Galahad brings the whole survey archive rather than the filed version and Elvira asks Aldera directly for the first time, breaking the feeding loop.", "src/seasons/s01/e03/s01e03c01.md", "someone finally asks Aldera the question she has been waiting for"] },
   { seasons: [6, 7], name: "A detail only Tissadelle could know, against the physical evidence", fixed: true, chapters: ["s07e01c03"],
     evidence: [SUMMARY, "Convergence: a Season 6 endpoint correlating a detail only Tissadelle could know against the institutional team's physical evidence, resolved in Season 7", GAPS, "the strands meeting in s07e01c03 — later than the treatment outlined, noted rather than corrected"] },
   { seasons: [10], name: "Two readings of one structure: approach mount three", fixed: true, chapters: ["s10e01c03"],
