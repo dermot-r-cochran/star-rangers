@@ -6,7 +6,7 @@ species: Pandoid
 role: "Keeper of the margin, the deep networks, Fliade"
 status: Active
 aliases: []
-tags: [alien, pandoid, fliade, below-the-roof, cavern-biosphere, star-rangers]
+tags: [pandoid, fliade, below-the-roof, cavern-biosphere, star-rangers]
 description: "An adult of the people below Fliade's roof, called Stone-First for always moving a stone before entering a place, who keeps the margin where the deep begins — being there on all the times when nothing happens, so as to be there on the time when something does."
 image: "stone-first.jpg"
 image_alt: "A large grey-furred being built like a very large soft toy bear, seen from behind and to one side at the lip where a cavern floor shelves down into dark, lit only by amber and blue fungi on the rock, a fist-sized stone newly set down on the silt a stride ahead of it, its head turned toward the dark below"

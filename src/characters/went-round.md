@@ -6,7 +6,7 @@ species: Pandoid
 role: "An adult of the Told, the deep networks, Fliade"
 status: Active
 aliases: []
-tags: [alien, pandoid, fliade, below-the-roof, cavern-biosphere, star-rangers]
+tags: [pandoid, fliade, below-the-roof, cavern-biosphere, star-rangers]
 description: "An adult of the Told named for going round a thing rather than through it — a blocked passage, a hard thought — and the first of the people to say aloud, in the warm, that the manners for a stranger might not fit the up-people."
 image: "went-round.jpg"
 image_alt: "A large dark-grey furred being, round and heavy like a big panda but with no ears, lit from behind by amber and blue fungi in a rock passage, one forelimb resting on the rock edge of a side opening, a fall of boulders behind it."
