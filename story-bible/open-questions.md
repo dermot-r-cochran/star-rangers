@@ -138,13 +138,22 @@ same rule:
   in each member's reckoning and not reconciled; the Rangers' first table is
   sent to Ulessa. Osune's portrait is owed from the Mnemari body in
   `species-design.md`, not yet prompted.
-- [ ] **Chthonari** — `src/lore/chthonari.md`, `src/lore/undersong-belt.md`,
+- [x] ~~**Chthonari** — `src/lore/chthonari.md`, `src/lore/undersong-belt.md`,
   `src/lore/tsittak.md`, `src/characters/kettsa.md`, `kattik.md`, `tekka.md`,
   `tsikk.md`, `tikket.md`, `story-bible/mind-design.md` (Chthonari section).
   Voice: **the Undersong**, an account cut into structure and struck, not
   spoken, which the record holds as a description and not a reading; a crew's
   work log is the one written Chthonari record on file. Rendered in
-  translation, and the entry says so.
+  translation, and the entry says so.~~ — **drafted 20 October 2026** (Fable,
+  at Dermot's *"Yes please"* to starting it that night rather than in the
+  weekly pass; PR #1392): `src/codex/nothing-turned.md`, by Akkit, a
+  Chthonari of Tsittak formerly of the Engineering Corps
+  (`src/characters/akkit.md`). Struck on Tsittak's dock plating and rendered
+  by the settlement's translating set, whose four declined renderings are
+  kept; a history given as members, each by what it rests on, and no year;
+  the first cut and the first Chthonari in the Corps left unplaced; Tsittak's
+  own account not struck, since it is cut where it is cut. Akkit's portrait
+  is owed from the Chthonari body, not yet prompted.
 - [ ] **The Told** — `src/lore/planets/fliade.md`, `src/glossary/the-told.md`,
   `src/characters/stone-first.md`, `teddy.md`, `went-round.md`,
   `keeps-a-hand-on-it.md`, the *Below the Roof* chapters. Voice: **tellings**,
