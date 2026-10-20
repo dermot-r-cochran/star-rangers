@@ -5893,6 +5893,90 @@ lesson), so the light and grain are asked for in words instead.
   - *(Filed 20 October 2026 at Dermot's pick, *"Yes - 1"*, variation 1 of 4 of the second merged round: three legs plain on the floor, the neck leaned to the table, the hearing membrane on her side, calm small eyes, an empty room. Imported at 1,200 px, finish strength 1.)*
   - **Alt as filed:** *Ulessa, a large Mnemari with a warm ochre and russet hide banded in umber, standing on three tall arched legs that meet at a hub above her, her rounded body slung beneath on a thick column, a long curving neck reaching forward so her small-eyed head hangs at the height of a pale table with a few cream sheets on it, three short working limbs curled beneath her body, in a quiet room with pale neutral walls.*
 
+### 21. Missing portraits — Ilyare, the first Ollune the record names (written 20 October 2026, Fable; generation waits on the desktop)
+
+Dermot's direction of 20 October 2026: *the Ollune line*, the next unticked
+line of the 14 October worklist in `open-questions.md`. The page landed in
+the same PR as this prompt (`src/characters/ilyare.md`): an Ollune of
+Freyari, the marker of the crossing for a shoal of a band the record does not
+name, the one whose near word is the decision to cross a shear layer, present
+in 2826 UCSD, not one of the handful who travel, and the page carries no
+`image:` until a frame is filed. An Ollune has a body, and the people's page
+describes it, so the page is owed a portrait under the 7 October rule, and a
+prompt where a person's presence carries the frame is Fable's here. The 14
+October ruling that keeps the Ollune out of the Corps (choice 3, option A) is
+honoured by the page, which puts Ilyare in no uniform, on no hull and in no
+room; the frame is at home. Same form as §§ 15 to 20: a documentary
+photograph taken inside the world by a 29th-century camera, available light,
+**16:9 landscape** at 1200×675 through `import-image.ps1 -MaxEdge 1200` at
+finish strength 1; at work, never posed, the 28 July guardrails and the
+modesty bar met by the work (an Ollune wears nothing, since anything carried
+is lifted *hourly, forever*, and the people's page gives the body as envelope,
+tendrils and vanes and nothing a bar could apply to).
+
+**The body is the people's page's, by structure and never by resemblance**
+(the Ulessa lesson of 20 October): *a translucent gas bladder several metres
+across, trailing a fringe of manipulating tendrils and filter-vanes beneath
+it*, lit through, *veined like a leaf held up to the sun* in the filed species
+frame, with no face, no eyes, no limbs, nothing that walks, no glowing core
+(`ollune.md`; `civilian-dress.md`, Ollune: *no glowing core, nothing carried*).
+No Earth animal and no built thing is offered as a likeness, and each one the
+form invites is negated by name: the jellyfish, the balloon and the airship
+above all, since those are the three the generator reaches for, and the paper
+lantern, which the 12 October round 1 returned. **The place** is Freyari from
+inside, as the Cirrane frame re-made on 19 October gives it: the haze drifting
+down in sunlight, the decks above and below, and the shear between two bands
+showing as a row of curling billows, with nothing solid anywhere
+(`planets/cirrane.md`, *The Temperate Shell*, *Bands and Shear*). **The work**
+is the page's: holding station at the margin of the band above a shear layer,
+the fringe reaching down toward the air that is about to be crossed, in the
+hours before the mark. The near word is chemical and invisible to a camera,
+so the frame shows the body at the margin and nothing of the office, which is
+exactly what a camera in Freyari would see.
+
+**Two filed frames are passed as references, each for one thing only**, and
+the prompt says so: `src/images/lore/ollune.jpg` (filed 12 October 2026, the
+people's body far off and back-lit) for the body's structure, and
+`src/images/lore/planets/cirrane.jpg` (filed 19 October 2026, Freyari from
+inside with nobody in it) for the air. Under the identity rule the frame must
+not return the species frame: this is one individual, close, alone, where that
+frame is four or five far off. The 10–11 October Pandoid lesson stands, that a
+reference is content whatever the sentence beside it says, so the triage's
+last step reads the result against both files.
+
+Readings taken for the frame (Fable's, under *Who approves whom*; each his to
+overrule, and none written to the page): **the only being in frame**, since
+by day an Ollune is not in the hold and the Ulessa lesson is that a second
+figure creeps in unless the prompt says there is none; **the camera on a
+survey craft holding station in the same band a few tens of metres off**,
+level and looking along the layer, since that is where a camera in Freyari is
+and it keeps the craft out of frame; **the scale** the being filling about a
+third of the frame, a portrait's distance where the species frame's was a
+long lens's; **the light** the sun low behind the being and to one side, so
+the envelope is lit through and the veining shows, with the veining asked for
+as uneven and living, since the 12 October flaw passed was veining too regular
+for a membrane; **the fringe** hanging and a little spread, reaching down and
+forward, which is attention given to the shear and the one posture the body
+has; **the shear** in the middle distance below, a row of curling billows, so
+the frame says where the being is and what it is attending to without a
+caption; **the colour** full and natural, amber, gold and cream in the light
+and deep amber and brown in the depths, with *muted* struck from the
+prompt and negated, under the Ulessa lesson that grey and muted prompts make
+the whole frame drab (the earlier Chthonari and species prompts asked for a
+muted palette; this one does not, and the finish eases saturation on the way
+in regardless); **the moment** the hours before the mark, the body still.
+
+- **`ilyare.jpg`** — Ollune, marker of the crossing for a shoal of Freyari, Cirrane; *hears every alarm in the band and owes none of them an answer.*
+  References: `src/images/lore/ollune.jpg`, `src/images/lore/planets/cirrane.jpg`
+  > Documentary photograph taken inside the world by a 29th-century camera on a Federation survey craft holding station in the open air of a gas giant's temperate shell, available light, 16:9 landscape, the camera level and looking out sideways along the layer it floats in, never down at a planet: one large living being, Ilyare, an Ollune, drifting alone in the air a few tens of metres away and filling about a third of the frame, with exactly this body: a single broad, softly rounded translucent gas envelope several metres across, thin-skinned, the sun low behind it and to one side so that the light comes through the membrane amber and gold and brightest at the rim, the skin crossed by an uneven living network of fine veins, denser in some places than others and never a regular pattern, with faint pale shadows of inner structure showing through; beneath the envelope a short fringe of fine slender tendrils and small flat filter-vanes, dark against the haze, hanging and a little spread, reaching down and a little forward as if feeling the air below; no face, no eyes, no mouth, no limbs, no head, nothing that walks, nothing carried, no glowing core, no light of its own. The two attached photographs show this same people's body far off and this same air with nobody in it: take the body's structure from the first and the haze, the cloud decks and the shear from the second, and nothing else; this is one different individual, close and alone, not the group in the first photograph. It is the only being in frame: no second creature, no cluster, no distant shapes, nothing else alive. The air around it is a warm luminous haze of fine sunlit particles and thin falling veils, so that whatever is farther off dissolves into tawny glow; high above, a vast pale cloud deck closes off the sky like a ceiling, lit from one side; far below, a darker amber deck fades into depth; and in the middle distance below the being, at the boundary between two zonal bands, the shear shows as a long row of curling wave-like billows and torn streamers dragged out sideways. No ground, no horizon line, no surface, no edge of the world, no solid object, no craft, no built thing anywhere in frame. Quiet, still, attentive, at home. Natural, full, true-to-life colour: amber, gold and cream in the light, deep amber and brown in the depths, normal exposure. Photographed, not rendered: a real membrane with an uneven sheen, haze between the camera and the being, a moderate lens slightly soft toward the corners, fine grain, the small imperfections a real photograph keeps. Negative: faces, eyes, mouths, wings, legs, arms, hands, humanoid form, a figure inside the envelope, dragon, whale, manta ray, fish, bird, octopus, squid; jellyfish with long trailing tentacles, bell-shaped jellyfish, long tentacles, a glowing core, bioluminescence, glowing spots, neon glow, light from inside; hot-air balloon, airship, blimp, balloon, basket, ropes, gondola, parachute, kite, paper lantern, any built object, spacecraft, the survey craft itself, a viewport frame; a second being, several beings, a group, a swarm, a shoal, a city, distant shapes; the planet seen from space, a planet disc, Jupiter, the Great Red Spot, an oval storm, a top-down view, planet rings, a moon, star field, nebula; ground, horizon, sea, mountains; lens flare, god rays; grey, monochrome, desaturated, drab, muted, dull; readable text, lettering, numerals, logos or written characters of any script anywhere in frame. Render negatives: 3D render, CGI, octane render, video-game render, painterly, illustration, fantasy art, concept art, matte painting, plastic sheen, glass sculpture, glass ornament, airbrushed, over-smooth surfaces. Landscape orientation.
+  - **Attention is the shear**, the fringe reaching down toward it; the 28 July guardrail is met by the work, and an Ollune has no face to turn to a camera in any case.
+  - **The body, not the group.** The species frame is a reference for the body alone, and the sentence says so; a variation that returns four or five beings far off, or the species frame's composition, fails the identity rule, and one that drifts into the jellyfish, the balloon or a figure inside the envelope fails the body on sight.
+  - **The air is the century.** Nothing built is in frame, so the century rests on the frame being a photograph and not a painting; a planet seen from above, a horizon, a sea or any solid thing fails the place.
+  - **Triage:** first the body (one envelope, lit through, uneven veining, a short dark fringe beneath, nothing else; a face, eyes, limbs, a glowing core, long trailing tentacles, a balloon, an airship, a lantern, a figure inside or a glass ornament fails); then the place (inside the haze, decks above and below, the shear's billows in the middle distance; a planet disc, a top-down view, a horizon, ground or a craft fails); then the colour (full amber, gold and cream against the depths' brown; grey, muted or drab fails); then identity against the two filed frames (the species frame's group or composition returned, or the Cirrane frame returned with a being pasted into it, fails).
+  - **Proposed alt** (to be corrected to the filed frame): *Ilyare, an Ollune: a single broad translucent gas envelope several metres across, lit amber and gold from behind with an uneven network of fine veins, a short dark fringe of tendrils and filter-vanes hanging beneath and reaching down, drifting alone in warm sunlit haze inside Cirrane's temperate shell, a pale cloud deck above, a darker deck below and a row of curling shear billows in the middle distance, with no ground, horizon or solid thing anywhere.*
+  - **Written 20 October 2026** (Fable); not generated.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only ilyare` (the entry carries the two filed frames as references, so the script sends them); two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/ilyare.md` from the filed frame.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
