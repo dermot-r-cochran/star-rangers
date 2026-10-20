@@ -403,7 +403,9 @@ temperate shell's numbers stay unfixed unless a chapter needs one.
   through its own translators, and the disagreement among them is itself on the
   record. This is consistent with shape (a) of `language-design.md`'s open
   item, *every standing delegation works in the other side's language, with
-  named translators and error bars*, and decides nothing that item leaves open.
+  named translators and error bars*, and with the same file's *How a Ranger crew
+  talks on deck* (no Corps tongue; interpreters where a crew shares nothing),
+  and decides nothing that item leaves open.
 - **The speaker's own words are kept** (derived). C08's recorder takes
   Ulessa's voice; the Archive's rule files the original with the conversion
   beside it.

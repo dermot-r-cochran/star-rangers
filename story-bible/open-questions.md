@@ -3231,7 +3231,7 @@ at his word. What the treatment leaves his is below.
 Derived note, nothing new asserted. Open from it: ~~**what two peoples speak
 across a table**~~ (no page names a Federation working language; the note
 recommends keeping it that way — every delegation works in the other side's
-language with named translators) — **kept that way, settled by Fable 19 Oct 2026, his to overrule**: a
+language with named translators) — **kept that way, settled by Fable 19 Oct 2026, his to overrule; confirmed 20 October 2026 by his *"B"*, which records how a crew talks on deck without naming a language (`language-design.md`, *How a Ranger crew talks on deck*)**: a
 working language is a fact no page needs, the marked-absences doctrine
 refuses to invent it, and the 28 September usage rule makes every tongue one
 case among the cases, which a working language would quietly rank; **whether a xenolinguist is on the roof at

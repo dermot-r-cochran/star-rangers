@@ -349,6 +349,46 @@ loose word; the exact one is *regime-wide*.
 
 ---
 
+## How a Ranger crew talks on deck (20 October 2026, Dermot's *"B"*)
+
+His question: *"29th century working languages for humans and for the Star
+Rangers in general"*. Three options were put to him. He chose B, which records
+the practice without naming a language. This is story bible only and is not
+written to `src/`. Each point is marked **derived** (from a cited page) or
+**proposed** (a choice he can overrule).
+
+- **The Corps keeps no language of its own** (derived). No page names one.
+  Fable settled on 19 October 2026 that none is to be named, and this
+  paragraph keeps to that ruling: a working language would quietly rank one
+  tongue above the others, against the 28 September usage rule.
+- **Human working languages are local** (derived):
+  - Irish for administration on Tír na nÓg (`planets/tir-na-nog.md`) and
+    for Drithane under the Union's charter (`planets/drithane.md`);
+  - Norwegian, Swedish and Danish across the Knarr Line (`knarr-line.md`);
+  - at least eight languages and none official on Antariksha, whose council
+    sits with interpreters (`antariksha.md`).
+- **A crew works in whatever its members share** (proposed). Where the
+  posting has a working language of its own, the crew uses it on that
+  posting: a crew at a Union world works in Irish where it can. Where the
+  crew shares nothing, interpreters and the Xenolinguistics Branch carry the
+  meaning, with the error owned by the linguist, never the machine
+  (`codex/xenolinguistics-handbook-failure-modes.md`). Marks readable
+  without a language, on Plainmark's model, carry the rest (`plainmark.md`).
+- **The rank tabs already work without words** (derived). Ranks are shapes,
+  not words (`rank-insignia-and-uniform.md`), and every people keeps its
+  own rendering of the ladder (`the-ladder-in-other-tongues.md`). So rank
+  never waits on a shared language.
+- **The record renders all of it in translation** (derived). The site is
+  written in English as its canonical language, which is the reader's
+  language and not the world's. The same default turns pronouns and
+  calendars into the reader's terms. When a chapter shows a language
+  barrier, the prose shows the cost in time and error. It never shows a
+  universal fix.
+- **Traps:** a *Galactic Standard* or Corps tongue; English as the default
+  language of the future; a translator that never errs.
+
+---
+
 ## What the record does not say — open, and his
 
 - **What two peoples speak across a table.** No page names a Federation
