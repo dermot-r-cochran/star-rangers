@@ -449,7 +449,39 @@ and checks the names against it.
 
 ---
 
-### No nuclear winter (ruled 20 October 2026)
+### Earth in the Coherence Wars (ruled 20 October 2026, Dermot's *"A"*)
+
+**What the record says (derived).**
+- **The wars:** forty years, 2303–2343 CE (2503–2543 UCSD), with *three billion dead*
+  across the Solar System (`solar-system-concord.md`, `the-imperium.md`,
+  General Krast's line).
+- **The cause:** they grew from the United Space Consortium's political collapse, which
+  the Titan Water Rights dispute began. Two Earth delegations withdrew and
+  the Free Outer Belt Coalition claimed the outer system
+  (`united-space-consortium.md`).
+- **The damage named:** the outer station network and the boundary-monitoring service
+  (`the-imperium.md`), and the Belt (`knarr-line.md`). No page describes
+  fighting on Earth, and no page gives Earth's share of the dead.
+
+**The reading (proposed, his choice A).** Earth suffered mostly indirectly. The wars
+fell in the middle of the three centuries of repair, about 160 years after
+the Crisis Centuries' worst decade. The planet was still held together by
+working systems: the carbon drawdown, the ocean-chemistry work, the rebuilt
+coastal defences and the supply lines feeding a population on a damaged
+surface. The wars broke those systems, and most of Earth's dead came from
+famine, displacement and defences failing on a world not yet healed, not
+from weapons fired at it. This is why the repair took three centuries rather
+than one, and why some of the coastal losses in this note may date from the
+war decades as much as from the crisis. Which coasts those were is not
+established.
+
+**Limits.** Like the nuclear-winter ruling below, this gives no strikes from orbit on
+Earth's cities: a large strike from orbit would raise the impact-winter
+problem that ruling closes, and the record refuses the guns-and-spaceships
+register. In prose it is hinted at, never depicted (the tone rule). No figure
+is given for Earth's share of the three billion. This note is not the place
+to set one, and no chapter yet needs it.
+
 
 Dermot, verbatim: *"The nuclear winter did not happen"*. Earth's damage in this
 record is the Crisis Centuries: climate, sea level, the oceans' chemistry and
