@@ -449,7 +449,22 @@ and checks the names against it.
 
 ---
 
+### No nuclear winter (ruled 20 October 2026)
+
+Dermot, verbatim: *"The nuclear winter did not happen"*. Earth's damage in this
+record is the Crisis Centuries: climate, sea level, the oceans' chemistry and
+the collapse of ecosystems (`src/lore/crisis-centuries-terran-wildlife.md`).
+No nuclear winter is part of Earth's history, and no page, chapter or image
+prompt may supply one: no global cooling from soot, no ash-dark decades, no
+irradiated ruin as the reason a coast is lost. The record says nothing else
+about nuclear weapons, and this rule settles only what it says. Every loss of
+ground in this file is the sea's and the heat's.
+
 ## Traps
+
+- **The post-apocalyptic Earth.** A nuclear winter or exchange as the cause of
+  the damage, an irradiated wasteland, a world cooled by soot. Refused by the
+  ruling above. The record's catastrophe was slow, physical and survived.
 
 - **The drowned world.** Half-submerged skyscrapers, rowing boats among
   rooftops. Three metres does this to waterfronts, marshes and deltas, not to
