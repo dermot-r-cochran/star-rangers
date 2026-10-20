@@ -26,7 +26,7 @@ Her page counts her argument over the assembly's weighted-vote formula in Verdan
 
 **Canon facts:**
 - Verdance is a full Federation member, represented on the assembly's rotation through the Fourfold Accord, the standing council of one delegate from each of its four governments.
-- Farrowkin sponsored the Federation's first formal data-sharing proposal with Survey Corps fold-route mapping. The year of that proposal is not held.
+- Farrowkin sponsored the Federation's first formal data-sharing proposal with Survey Corps fold-route mapping.
 
 See: [Isren Farrowkin](/star-rangers/characters/isren-farrowkin/), [Verdance](/star-rangers/lore/planets/verdance/), [Verdani](/star-rangers/lore/verdani/).
 

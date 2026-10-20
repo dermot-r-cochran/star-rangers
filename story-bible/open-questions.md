@@ -102,7 +102,7 @@ people; no image generated.
 
 Dermot, 20 October 2026, verbatim: *"Yes (c) as recommended"*, on the finding
 that the record's timeline and history of the non-humanoid peoples were almost
-absent. Part (a), a dated frame, is Opus's and landed as fourteen timeline
+absent. Part (a), a dated frame, is Opus's and landed as fifteen timeline
 entries (`src/timeline/`, branch `timeline/non-human-frame`; the events the
 record gives no date for are listed in that PR, not invented). Part (b) is this
 series: Fable's, one people a week, in the order below, Mnemari first. Each
