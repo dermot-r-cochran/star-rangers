@@ -66,10 +66,16 @@ channel shapes the language more than anything else about it.
   across the body as glow. On a world where heat is the only wealth the
   channel is never free: *no thermal small talk exists, emphasis is
   expenditure*, and an Ilveth who warms a sentence for you has spent on you.
-- **Ollune** — a coherent low-frequency signal carried in air; crying out is
-  *free*, costs nothing, binds nothing. The two peoples are the record's
-  opposite poles on cost, and every other difference between their manners
-  follows from that one.
+- **Ollune** — two channels with opposite properties, in Cirrane's hydrogen
+  rather than in air (`src/lore/ollune.md`, *The Far Word and the Near Word*;
+  clarified 20 October 2026 to match that page, `contact-design.md`). The
+  **far word** is low-frequency sound in the dense hydrogen atmosphere,
+  heard by everyone in the band and recorded by no one: crying out in it is
+  *free*, costs nothing, binds nothing. The **near word** is chemical, read
+  at close range, slow to compose and attributable to the body that made it,
+  and it alone binds. On the far word, the Ollune and the Ilveth are the
+  record's opposite poles on cost, and every other difference between their
+  manners follows from that one.
 - **Cerebraun** — two simultaneous channels: speech or writing carrying the
   central brain's stated position, and skin-display carrying real-time
   affective and confirmatory signal from the limb-ganglia beneath it, plus a
