@@ -36,7 +36,7 @@ const path = require('path');
 
 const REPO_ROOT = process.cwd();
 const LORE_ROOT = path.join(REPO_ROOT, 'src', 'lore');
-const matter = require(path.join(REPO_ROOT, 'node_modules', 'gray-matter'));
+const matter = require('gray-matter');
 
 // ---------------------------------------------------------------------------
 // Rule tables
@@ -145,6 +145,12 @@ const PLACE_RULES = {
     peoples: ['Pandoids'],
     evidence: ['There is no settlement authorisation and none has been sought.', 'The deep networks belong to the Pandoids, and they are a people.']
   },
+  'planets/ilenne': {
+    polity: 'Federation of Sentient Beings',
+    polity_pages: ['federation-of-sentient-beings'],
+    peoples: ['Mnemari'],
+    evidence: ['Ilenne is the home world of the Mnemari and a member world of the Federation of Sentient Beings']
+  },
   'planets/kernowek-reach': {
     polity: 'Celtic Union of Planets',
     polity_pages: ['celtic-union-of-planets'],
@@ -161,7 +167,7 @@ const PLACE_RULES = {
     polity: 'Solar System Concord / Orbital Habitats Compact',
     polity_pages: ['solar-system-concord'],
     peoples: [],
-    evidence: ["the only one that has been the seat of interplanetary authority under all four of the Solar System's successive governments"]
+    evidence: ["the only one that has been the seat of interplanetary authority under all five of the Solar System's successive governing arrangements"]
   },
   'planets/meridian': {
     polity: 'Cerebraun Hegemony',
@@ -318,9 +324,9 @@ const PEOPLE_RULES = {
     evidence: ['Levrils are sapient meta-dimensional beings', 'A Levril has no form a time-bound observer could receive directly']
   },
   'mnemari': {
-    homeworld: 'Ilenne', homeworld_slug: null,
-    polity: 'Federation of Sentient Beings', frame: 'humanoid',
-    evidence: ['a sapient, humanoid people native to Ilenne', 'every other catalogued Federation species', 'tag: federation-of-sentient-beings']
+    homeworld: 'Ilenne', homeworld_slug: 'planets/ilenne',
+    polity: 'Federation of Sentient Beings', frame: 'Endoskelia, not the human frame',
+    evidence: ['a sapient people native to Ilenne', 'is filed in the frame Endoskelia, and is not on the human frame', 'every other catalogued Federation species', 'tag: federation-of-sentient-beings']
   },
   'ollune': {
     homeworld: 'Cirrane', homeworld_slug: 'planets/cirrane',
@@ -545,6 +551,9 @@ function build() {
   return out;
 }
 
+module.exports = { PEOPLE_RULES, EXTRA_PEOPLE_PAGES, PLACE_RULES, POLITY_PAGES, build };
+
+if (require.main === module) {
 const outfile = process.argv[2];
 if (!outfile) {
   console.error('usage: node extract-places-and-peoples.js <outfile>');
@@ -555,3 +564,4 @@ fs.writeFileSync(outfile, JSON.stringify(result, null, 2) + '\n');
 console.log(`wrote ${outfile}`);
 console.log('counts: ' + JSON.stringify(result.counts));
 console.log('categories: ' + result.categories.join(', '));
+}
