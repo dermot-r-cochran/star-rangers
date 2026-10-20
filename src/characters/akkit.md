@@ -7,6 +7,8 @@ role: "Resident of Tsittak; formerly a fold-scaffold engineer of the Star Ranger
 status: "Retired — out of Corps service, at Tsittak"
 aliases: []
 tags: [chthonari, undersong-belt, tsittak, star-rangers, engineering-corps, fold-scaffold, federation-of-sentient-beings, civilian, author]
+image: "akkit.jpg"
+image_alt: "Akkit, a Chthonari: a low, broad, segmented body with a bronze-slate domed carapace and jointed legs, scuffed and worn, standing on the floor of a narrow channel cut in dark metal with tool marks along its walls, beside a plain sealed pale housing, in dim warm amber light"
 description: "A Chthonari of Tsittak, formerly of the Engineering Corps, who at the Survey Archive's asking struck on the settlement's dock plating what a history is to a people with no year and no fire, and stopped at the one account that is cut where it is cut — the author of the Chthonari history the record holds in their own voice, in translation."
 known_codex: [nothing-turned]
 ---

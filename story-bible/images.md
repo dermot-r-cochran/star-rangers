@@ -5985,7 +5985,7 @@ the shear below, full colour, a camera on a survey craft) are kept in it.
   - **Alt as filed:** *Ilyare, an Ollune: a broad, low, lopsided gas envelope, its upper face a dark weathered russet hide, thinning at a fat rounded rim to translucent membrane that glows amber underneath, a ring of pale translucent filter-vanes beneath the rim and a cluster of fine straight tendrils hanging below, drifting alone in sunlit cream haze above a deck of curling billowed cloud, with no ground or solid thing anywhere.*
   - **Owed:** `ollune.jpg`, the species frame, in the re-made body.
 
-### 22. Missing portraits — Sunniva Holm, the operations watch of *Which One First* (written 20 October 2026, Fable; generation waits on the desktop)
+### 22. Missing portraits — Sunniva Holm, the operations watch of *Which One First* (written 20 October 2026, Fable; filed the same day)
 
 Dermot's *Yes please* of 20 October 2026 to the two Fable portrait jobs
 put to him that day, this and § 23. The page landed in PR #1391
@@ -6076,10 +6076,10 @@ face.
   - **The century is the housings and the shell.** A readout, a screen, a lit indicator or a desk lamp fails; so does a filing cabinet or an office chair, which is the twentieth-century drift the 11 October audit named.
   - **Triage:** first the second figure (a man at a window or a shape in the background fails the one-face rule on sight); then the readout (any screen, dial, trace, lit indicator or window fails); then the uniform (a corps colour, a chest badge, paired tabs, a readable count that is not four, lettering on the tab, a parka or fatigues fails); then the face against the readings above and against the filed Ranger portraits, so that she is nobody already filed; then the log (an open written page fails).
   - **Proposed alt** (to be corrected to the filed frame): *Sunniva Holm, a fair-haired woman of about thirty in a dark charcoal-grey uniform shell with a single small four-bar tab at her collar, seated at a plain desk in a small dim operations compartment at the end of a long watch, half turned to look at two matched unmarked metal cylinders standing close together on a bench behind her, one hand resting on a closed log with a small folded sheet of paper under her fingers.*
-  - **Written 20 October 2026** (Fable); not generated.
+  - **Written 20 October 2026** (Fable). **Filed the same day** (Opus, Dermot's pick: *"File Sunniva 3, Osune 3 and Akkit 2"*): round 1, four variations, variation 3: her attention down and aside, the two housings behind her. The `image_alt` on the page is written from the filed frame.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only sunniva-holm`; two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/sunniva-holm.md` from the filed frame.
 
-### 23. Missing portraits — Osune, the second Mnemari the record names (written 20 October 2026, Fable; generation waits on the desktop)
+### 23. Missing portraits — Osune, the second Mnemari the record names (written 20 October 2026, Fable; filed the same day)
 
 Dermot's *Yes please* of 20 October 2026 to the same two Fable jobs. The page
 landed in PR #1389 (`src/characters/osune.md`) with the codex entry she is the
@@ -6169,10 +6169,10 @@ that file so that it does not return Ulessa, her room or her table.
   - **The § 20 lessons stand**: three legs exactly, the limbs curled and touching nothing, the head on a long neck, small eyes, an empty bench said twice, full natural colour against a neutral room.
   - **Triage:** first the body against `species-design.md` (exactly three legs, one animal from hub to head, the working limbs curled beneath and touching nothing; four legs, a separate creature hanging in a frame, a hand on anything, a face a human reads, or big appealing eyes fails); then the age (any mark of age other than pale seams fails); then the room (pale and neutral, a bench and no table, nobody else in frame, no lit fitting, no lettering); then the colour (warm ochre, russet and umber against a neutral room; grey or drab fails); then, if a reference was sent in a second round, identity against `ulessa.jpg` (the same seams, her room or her table fails).
   - **Proposed alt** (to be corrected to the filed frame): *Osune, a large Mnemari with a warm ochre and russet hide banded in umber and several pale healed seams on her leg, flank and neck, standing on three tall arched legs that meet at a hub above her, her rounded body slung beneath, a long curving neck reaching forward so her small-eyed head hangs at the height of a table, three short working limbs curled beneath her body, in a plain empty room of pale dry stone with a low bench along the far wall.*
-  - **Written 20 October 2026** (Fable); not generated.
+  - **Written 20 October 2026** (Fable). **Filed the same day** (Opus, Dermot's pick: *"File Sunniva 3, Osune 3 and Akkit 2"*): round 1, four variations, variation 3: the tripod reads plainly, with the seams on the hide; the head is a little rounder than Ulessa's. The `image_alt` on the page is written from the filed frame.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only osune`; four variations in the first round as § 20's merged round ran, two rounds at most, the second with `ulessa.jpg` as a body-only reference if the first loses the tripod; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/osune.md` from the filed frame, and strike the *not yet prompted* line in `open-questions.md`.
 
-### 24. Missing portraits — Akkit, a Chthonari of Tsittak, formerly of the Engineering Corps (written 20 October 2026, Fable; generation waits on the desktop)
+### 24. Missing portraits — Akkit, a Chthonari of Tsittak, formerly of the Engineering Corps (written 20 October 2026, Fable; filed the same day)
 
 Added to the same job at the parent session's request, the day PR #1392
 merged. The page landed with the codex entry Akkit is the author of, *Nothing
@@ -6265,7 +6265,7 @@ and the frame is inside it; **the only figure in frame**.
   - **The dock is cut, not built.** Tsittak's walls are native metal with the marks of cutting and no seam of manufacture; girders, rivets, bolted brackets and conduit are the Eden understructure and the plant compartment, not this place, and are negated by name, as are rock, stone and a cave, which the word *cut* draws.
   - **Triage:** first the body (any humanoid, upright, faced, mouthed, woodlouse or Earth-insect close-up fails); then the bare carapace (a shell, plates, a tab, a harness or anything carried fails); then the place and the century (a lit indicator, a screen, a window, stars, a vessel, girders, rivets, rough rock or a render look fails); then identity against the five filed Chthonari frames (their tone and wear, their forelegs scuffed, or their setting fails).
   - **Proposed alt** (to be corrected to the filed frame): *Akkit, a small six-legged Chthonari with a pale warm slate carapace bronzed across its dome and worn smooth at the hind legs and rear segments, nothing worn on it, pressed low to the dusty plating of a dock cut into dark nickel-iron, one foreleg lifted mid-strike, the dome of the head turned toward a small pale sealed housing standing on the plate, in dim warm amber light with the cut channel running into darkness behind.*
-  - **Written 20 October 2026** (Fable); not generated.
+  - **Written 20 October 2026** (Fable). **Filed the same day** (Opus, Dermot's pick: *"File Sunniva 3, Osune 3 and Akkit 2"*): round 1, four variations, variation 2: the warmest of the four and the clearest carapace; the translating set renders as a plain sealed box. The `image_alt` on the page is written from the filed frame.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only akkit` (the entry carries the two filed Chthonari frames as references, so the script sends them); two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/akkit.md` from the filed frame, and strike the *not yet prompted* line in `open-questions.md`.
 
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
