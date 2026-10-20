@@ -4028,7 +4028,7 @@ Dermot's ruling of 19 October (an older entrant with prior experience may spend 
 
 - **The Oversight Council confirming flag officers for a Corps drawn partly from beyond the Solar System** (raised by the 19 October critic read, Dermot's choice A: left as ruled). The Council's voting seats are one system's, yet it confirms every Star Captain and High Captain, while the Union supplies a large share of the Corps' outer officers. Left open: whether any polity has objected, and whether confirmation is tied to the charter's accountability clause on the Council page. No page changes until a chapter needs it.
 
-## Earth in 2826: the plateau and the AMOC — `earth-2826.md`, 20 October 2026 — OPEN, two choices
+## Earth in 2826: the plateau and the AMOC — `earth-2826.md`, 20 October 2026 — RULED the same evening, both as recommended (Dermot's *"Yes, agreed"*): drawn down slowly to about 1.5–2 °C; the AMOC weakened, never collapsed
 
 Raised by the Earth geography note at his direction (option A, and *Gulf stream towards Ireland*). Both are put as options in the note's *Open items for Dermot*; nothing is written to `src/` either way.
 
