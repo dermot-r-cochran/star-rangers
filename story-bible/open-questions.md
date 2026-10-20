@@ -147,7 +147,7 @@ same rule:
   work log is the one written Chthonari record on file. Rendered in
   translation, and the entry says so.~~ — **drafted 20 October 2026** (Fable,
   at Dermot's *"Yes please"* to starting it that night rather than in the
-  weekly pass; PR #PRNUM): `src/codex/nothing-turned.md`, by Akkit, a
+  weekly pass; PR #1392): `src/codex/nothing-turned.md`, by Akkit, a
   Chthonari of Tsittak formerly of the Engineering Corps
   (`src/characters/akkit.md`). Struck on Tsittak's dock plating and rendered
   by the settlement's translating set, whose four declined renderings are
