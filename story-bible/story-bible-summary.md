@@ -7,6 +7,8 @@ Each section below maps to a Story Bible field — copy the section body into th
 
 ## Genre
 
+An open-ended, multi-viewpoint story, not a novel (Dermot, 2026-10-20): no first or last page, no sequels or trilogy, ever-growing, with arcs, plots and subplots as needed, mostly driven by the characters.
+
 Hard science fiction with one licensed deviation (Dermot's label, 2026-09-10; formerly filed as science fantasy). The deviation is the cosmology: real-world physics holds at the Material and Physical layers, and every difference the record specifies — the Cascade and its tiers, the Etheric layer, fold transit, higher-dimensional beings, membrane phenomena, the ten domains of `src/lore/physics-comparison.md` — is a consequence of that one architectural choice, filed at its own scope per `src/lore/the-scope-of-physical-law.md` and priced per `src/lore/what-the-record-refuses.md`. A "new deviation" in the 2026-08-09 hard-SF rule therefore means a new consequence of the cosmology needing its own licence, never a second root. Multi-POV serialized institutional drama with a hard-magic-adjacent (no-magic-permitted) cosmological system. Tone sits between hopepunk and procedural mystery: the emotional register is "protect what is good, learn what is true," but the plot mechanics are closer to an incident investigation — contested records, conflicting testimony, and slow-burn revelation of what a forty-second clock discrepancy actually means.
 
 ---
