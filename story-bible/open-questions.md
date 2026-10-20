@@ -137,7 +137,8 @@ same rule:
   is given by the chair of that day and none by a year; the founding is held
   in each member's reckoning and not reconciled; the Rangers' first table is
   sent to Ulessa. Osune's portrait is owed from the Mnemari body in
-  `species-design.md`, not yet prompted.
+  `species-design.md`; prompted 20 October 2026 (Fable, `images.md` § 23),
+  generation waits on the desktop.
 - [x] ~~**Chthonari** — `src/lore/chthonari.md`, `src/lore/undersong-belt.md`,
   `src/lore/tsittak.md`, `src/characters/kettsa.md`, `kattik.md`, `tekka.md`,
   `tsikk.md`, `tikket.md`, `story-bible/mind-design.md` (Chthonari section).
@@ -153,7 +154,8 @@ same rule:
   kept; a history given as members, each by what it rests on, and no year;
   the first cut and the first Chthonari in the Corps left unplaced; Tsittak's
   own account not struck, since it is cut where it is cut. Akkit's portrait
-  is owed from the Chthonari body, not yet prompted.
+  is owed from the Chthonari body; prompted 20 October 2026 (Fable,
+  `images.md` § 24), generation waits on the desktop.
 - [ ] **The Told** — `src/lore/planets/fliade.md`, `src/glossary/the-told.md`,
   `src/characters/stone-first.md`, `teddy.md`, `went-round.md`,
   `keeps-a-hand-on-it.md`, the *Below the Roof* chapters. Voice: **tellings**,
