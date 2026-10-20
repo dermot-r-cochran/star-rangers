@@ -6,7 +6,7 @@ species: "Vessik (Undersong burrow commensal, unaugmented)"
 role: Resident animal, Eden Space Habitat; no registered status of any kind
 status: Active
 aliases: []
-tags: [detective-agency, vessik, chthonari, eden, undercover-pets.com, alien-animal]
+tags: [detective-agency, vessik, chthonari, eden, undercover-pets.com, animal]
 description: "A small Undersong burrow animal left behind on Eden by a rotating Chthonari engineer — deaf to airborne sound, blind to a human face, and therefore the one resident on Deck 7 who cannot be charmed out of noticing something."
 image: "thrum.jpg"
 image_alt: "Thrum, a small animal with a dark, dusty, finely wrinkled hide and short stubby limbs, pressed flat against a metal plate in a narrow service void with no visible eyes or ears, occupied with the surface beneath it. Warm amber light leaks in from an open panel; cables and ducting recede into the dark."

@@ -9,7 +9,7 @@ image: "keeps-a-hand-on-it.jpg"
 image_alt: "A small grey-furred being of the Told, round-headed and earless, squatting on its hind legs on the pale silt floor of a cavern lit amber and blue-green by fungi on the rock, one hand resting on a stone in a row of loose stones, its face turned down to the stone and away from the camera."
 aliases:
   - "the smallest (the Told, before the name)"
-tags: [alien, pandoid, fliade, below-the-roof, cavern-biosphere, star-rangers]
+tags: [pandoid, fliade, below-the-roof, cavern-biosphere, star-rangers]
 description: "The smallest of the Told, born after the two stones were set on the line, for whom even the up-people are a told thing; the one who went to the first warm seep to find a telling of their own and found one with no middle, and who, playing the manners as a game, found that the waiting is the best part and that it can be made longer."
 ---
 
