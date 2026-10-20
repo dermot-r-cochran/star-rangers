@@ -189,8 +189,43 @@ same rule:
   the first true thing said and then repeated, back to where the tellings run
   out; a telling rendered, not a transcription. The record holds the people's
   side only by way of the thread, so the author must be a teller the thread
-  could carry, and what was said at the line in 2834 UCSD stays unheld. An
-  Opus check before drafting: how a Told telling comes to be filed at all.
+  could carry, and what was said at the line in 2834 UCSD stays unheld.
+  **How it is filed — settled by Opus, 20 October 2026, his to overrule:** as
+  the thread already files the people's side, **a telling rendered by the
+  record and held by nobody in it.** The glossary holds what the people say
+  *by way of the* Below the Roof *thread rather than by anything the survey
+  has been told*; this entry is one more telling carried the same way.
+  Rejected: (a) an up-person's account from memory, because Aravena *understood
+  none of it* (S14E02C03), so it would carry a sound and be the survey's
+  history, not the people's; (b) a telling given to the up-people to keep,
+  because *a telling that has been told is kept by the ones who heard it* and
+  is not told twice (S14E01C04), so a written copy would be the seizing the
+  third season refused. If he prefers, the fallback is (c): no entry, the
+  absence marked on this line, and the series moves to the Cerebraun.
+  - **Author: Went-Round** (existing page; one line added there in the same
+    PR, grounded only in the entry). Told standing up, in the warm, to
+    everyone, as tellings for everyone are; who heard it is its provenance.
+  - **Frame:** `library: "Circulating and scattered holdings"` (the Ovruhn
+    precedent), never the Survey Archive, whose Fliade holdings are
+    observational. `location`: no physical record exists or can; the
+    telling is kept by the ones who heard it; this is the record's
+    rendering, as the thread renders, and no hand in the record took it
+    down or translated it. A short note in the record's voice says so at
+    the top. No receiving desk, reader, translator or survey member, and no
+    up-person hears it.
+  - **May:** give the tellings in their order, back to where they run out
+    and up to the coming of the up-people, partial or proud in Went-Round's
+    voice; keep the people's tests (*who was there*; a telling is not yours
+    until somebody has heard it).
+  - **May not:** transcribe, spell or gloss any word of the people's speech
+    (names in translation with hyphens only); present anything as recorded,
+    copied or heard by the survey; set down the telling told at the line, or
+    anything said that day; say what the people say of the up-people since;
+    grow a name or make anyone Told; give any date, or UCSD inside the
+    telling (intervals in the tellings' own measure); settle anything the
+    Fliade entry marks open (other communities, the people's own word, the
+    boundary feature). No `canon_facts`; the Fliade entry and the glossary's
+    *not recorded in any medium the Archive keeps* stay true unchanged.
 - [ ] **Cerebraun** — `src/lore/cerebraun.md`, `src/lore/cerebraun-hegemony.md`,
   `src/lore/planets/meridian.md`, `src/lore/planets/sentinel.md`,
   `src/characters/sohrel.md`, `tavesh.md`. Voice: **the Hegemony's filing**,
