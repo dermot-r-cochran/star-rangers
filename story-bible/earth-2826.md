@@ -484,6 +484,24 @@ to `src/`, and each is one reading that fits what the record already holds.
     below, and the record's refusal of the guns-and-spaceships register.
   - No page names who disarmed or under what agreement. Any treaty stays
     unnamed, under the rule that names no political ideology.
+- **Fossil fuels ended as fuel by economics, not exhaustion** (Dermot's
+  question, *"When do fossil fuels run out if ever, or just minimal usage?"*,
+  and his *"A"*).
+  - Physically they never run out: in 2026 CE there was roughly a century of
+    oil and gas at the rates then current, and several centuries of coal.
+  - Once fusion was cheap, burning hydrocarbons cost more than it returned.
+    During the repair it was also self-defeating, because every tonne burned
+    was a tonne the drawdown had to take back out of the air. So extraction
+    wound down through the late 2100s and into the 2200s CE.
+  - Much of the coal and oil is still in the ground in 2626 CE, left where it
+    lay.
+  - Minimal use remains, as material and not as fuel: plastics, lubricants,
+    pharmaceuticals and fine chemicals. Its likely source is captured carbon
+    made into feedstock with fusion power, so even that use needs no mining.
+  - Off-world, Titan's methane seas are a large store of hydrocarbons that
+    cannot burn there, having no free oxygen, and could serve the outer system
+    as chemical feedstock. The record works Titan from sealed stations, and its
+    founding dispute was over ice (`planets/titan.md`).
 - **The bunkers proved ineffective in hindsight.**
   - A bunker shelters you from an hour. The record's catastrophes lasted a
     century: rising water, heat, failing harvests and broken supply lines.
