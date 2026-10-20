@@ -212,7 +212,7 @@ the **Vessik** are an unaugmented burrow commensal.
 
 ---
 
-## The reciprocal instrument's year against the Federation's first generation — raised 20 October 2026, OPEN, three options, A recommended
+## The reciprocal instrument's year against the Federation's first generation — raised 20 October 2026, RULED the same evening: A (Dermot's *"Yes, agreed"*); Greenward clarified, the instrument dated about 2806 UCSD on the timeline
 
 Found while building the non-human timeline (Opus, same PR). Two pages date
 the Greenward–Guest Ring instrument by its age at the record's present: the
