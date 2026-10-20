@@ -5985,6 +5985,289 @@ the shear below, full colour, a camera on a survey craft) are kept in it.
   - **Alt as filed:** *Ilyare, an Ollune: a broad, low, lopsided gas envelope, its upper face a dark weathered russet hide, thinning at a fat rounded rim to translucent membrane that glows amber underneath, a ring of pale translucent filter-vanes beneath the rim and a cluster of fine straight tendrils hanging below, drifting alone in sunlit cream haze above a deck of curling billowed cloud, with no ground or solid thing anywhere.*
   - **Owed:** `ollune.jpg`, the species frame, in the re-made body.
 
+### 22. Missing portraits — Sunniva Holm, the operations watch of *Which One First* (written 20 October 2026, Fable; generation waits on the desktop)
+
+Dermot's *Yes please* of 20 October 2026 to the two Fable portrait jobs
+put to him that day, this and § 23. The page landed in PR #1391
+(`src/characters/sunniva-holm.md`): a human Field Officer who stands the
+operations watch at the boundary-proximate post on the outward frontier that
+Starwarden Luke Valerius answers for, held by the record at one posting and
+one night, the thirty-one-hour window of the late autumn of 2825 UCSD and the
+hour after it (`src/seasons/s01/e00/s01e00c07.md`, *Which One First*). A
+human has a body, so the page is owed a portrait under the 7 October rule,
+and a prompt where a person's presence carries the frame is Fable's here. The
+page gives no appearance, so one is chosen below at this level, as the §§ 15
+to 17 portraits of humans with no stated appearance were, against the cast
+already filed, and marked as a reading. Same form as §§ 15 to 21: a
+documentary photograph taken inside the world by a 29th-century camera,
+available light, **16:9 landscape** at 1200×675 through
+`import-image.ps1 -MaxEdge 1200` at finish strength 1; at work, never posed,
+the 28 July guardrails and the modesty bar met by the work.
+
+**The uniform.** She is on duty, so she is in uniform, under the
+no-plain-clothes rule (`rank-insignia-and-uniform.md`, *Why a Uniform at
+All*): the modular field shell over a close-fitting liner, cut like practical
+workwear with a high soft collar, as Marlow Calloway's, Perrin Ashgrove's and
+Emma La Chapelle's filed frames carry it, smooth, pocketless and
+fastener-free as Strozzi's re-make learned to say. **The tab**: a Field
+Officer's, exactly one small plain-finished tab at one side of the collar,
+four short solid bars in a row on a pale insert
+(`star-rangers-command-hierarchy.md`, *Reading Rank at a Glance*: *a Field
+Officer four*), named as four so the generator has the count, with the frame
+wide enough that a miscount does not read (the Strozzi lesson of 11
+October). **The shell's colour is not a corps's**, on purpose: her page marks
+*which corps the operations watch she stands belongs to* as not held, and a
+shell in the Safety Corps' dark ochre-brown would write the Starwarden's
+corps onto her, so the shell is given only as dark and muted, as the Music
+Corps frames were given when the Archive recorded no colour, and the insert
+as pale with no track colour named. No corps badge, no certification plate,
+no second device, since a second mark draws a chest badge.
+
+**The place and the work, from the chapter.** The post's operations
+compartment: the operations desk, and behind it the bench with the two
+matched reference housings, *plain unmarked cylinders on a level mount, close
+together and identical*, which is how Luke Valerius's filed frame gives the
+post and is the one thing in the room that is the chapter (the two clocks,
+and which one is read first). The viewport is out of frame, so that no
+starfield and no planet come in, and so that the Starwarden, who stood at it
+through the hour, is out of frame with it: one face per character. No lit
+screen and no lettering anywhere, under the standing negative, which means
+the field instruments she reads are not shown and the trace is not drawn;
+the frame shows the watch and not the readout, which is also how the
+chapter's own Starwarden would have it. **The moment** is scene 2's last
+paragraph: the band has gone, the transient is logged, and she has written
+the register's name on her own pad, torn the sheet off and not yet put it in
+her pocket. The log is closed and the sheet is folded, since a page asked to
+be blank comes back written (Emma La Chapelle's lesson of 19 August).
+
+Readings taken for the frame (Fable's, under *Who approves whom*; each his to
+overrule, and none written to the page): **about thirty**, since she has stood
+the operations watch on three posts and holds the first rank that acts
+alone; **the face**, chosen against the filed Ranger portraits so that it is
+nobody else's: fair skin with the pallor of a posting with no daylight and
+faint freckling across the nose, ash-fair hair cropped short above the
+collar, pale grey eyes, straight brows, a square jaw and a broad plain face,
+with thirty-one hours awake on it, shadows under the eyes and nothing
+dramatic; **the shell** a dark muted charcoal-grey, which is none of the five
+recorded corps colours and sits beside the grey of the Starwarden's filed
+frame, so the two pictures read as one post; **the sleeves** pushed a little
+up the forearms, the one untidiness a long watch leaves; **the posture**
+seated on a plain fixed stool at the desk, half turned toward the bench
+behind her, the folded sheet under two fingers of one hand on the closed log,
+the other hand loose on her knee, her eyes on the two housings and on
+nothing else, her mouth closed; not toward the camera; **the camera** across
+the compartment at a standing person's eye level, as a colleague coming on
+watch would see her, the desk in the near third, the bench and the housings
+behind her in the far third; **the room** small and plain, matte composite
+panels with honest seams, a closed hatch with a flush handle at the back, dim
+even working light from an unseen source, cooler than the common-room
+frames, the Starwarden's palette of cool grey and deep black with one warm
+interior note, which is the desk's own worn surface; **the only figure in
+frame**. No reference is passed: nothing in `own-photography.json` is a dim
+kept compartment, and a filed frame of the post would carry the Starwarden's
+face.
+
+- **`sunniva-holm.jpg`** — Human, Field Officer, operations watch, Starwarden Luke Valerius's boundary-proximate post, the outward frontier, late autumn 2825 UCSD; *she logged it against both clocks.*
+  No References line, on purpose: no own frame suits, and the one filed frame of this post carries another character's face; the script sends the prompt alone.
+  > Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, at work, never posed to camera, nothing that invites the viewer: Sunniva Holm, a Star Rangers Field Officer on the operations watch of a small boundary-monitoring post, a woman of about thirty with fair skin pale from a posting with no daylight, faint freckling across the nose, ash-fair hair cropped short above the collar, pale grey eyes under straight brows, a square jaw and a broad plain face with thirty-one hours awake on it, shadows under the eyes, seated on a plain fixed stool at a plain operations desk in a small operations compartment in the year 2825, at the end of a very long watch. She is half turned on the stool toward a plain bench behind the desk, on which stand two matched sealed reference housings, plain unmarked matte metal cylinders on a level mount, close together and identical, with nothing to read on them; her eyes are on the two housings and on nothing else, her mouth closed, her face still and tired and attentive, as if deciding which of two things to think about first; not toward the camera. One hand rests on a closed plain-bound log on the desk with a small sheet of paper folded once under two fingers; the other hand lies loose on her knee. She wears the Star Rangers field uniform: a modular field shell in a dark muted charcoal-grey over a close-fitting dark liner, smooth and plain, cut like practical workwear with a high soft stand collar and a closure with no visible fastening, no pockets, no hood, the sleeves pushed a little up the forearms, sized to the wearer; its only mark one small plain-finished flat tab seated proud on the left side of the collar only, the right side bare, carrying four short solid parallel bars in a single row on a pale insert, a small shape read as a mark and not as writing, and nothing else anywhere on the shell. The compartment is small, clean and plain: walls of matte grey composite panels with honest seams, a closed hatch with a flush handle at the back, the desk a plain matte slab worn at its near edge to a warm dull sheen, nothing on it but the closed log and the folded sheet; no window in frame; dim, even, cool working light from an unseen source, the far wall falling into shadow. The only figure in frame: nobody at the hatch, nobody at the bench, no second face, no hand or shoulder at the edge of the frame. Quiet, still, level, very tired, faintly austere. Palette of cool grey and deep black with one warm interior note at the desk's worn edge. Photographed, not rendered: real skin with pores, fine lines and the slight unevenness of a living face, cloth with a real weave and creases at the elbows, real worn composite and dull metal; a fast lens near wide open with shallow depth of field so the housings behind her fall a little soft, slight softness toward the corners, high-ISO grain heavier in the shadows, a touch under-exposed, muted natural colour, the small untidy imperfections a real photograph keeps. Negative: a second person, a man at a window, a figure in the background, a shoulder or hand at the edge of the frame; a window, a viewport, stars, a planet, a nebula, lens flare; screens, monitors, displays, consoles, keyboards, dials, gauges, meters, readouts, holograms, projected light, glowing displays, light strips, glowing trim, a lit indicator, blinking lights, exposed cables, pipework, valve wheels; visible lamp, light fitting or bulb; an open book with writing, a written page, a notebook with lines, a clipboard, a tablet, a pen in hand; readable text, lettering, numerals, signage, labels, stencilled markings, branding, logos or written characters of any script anywhere in frame, on the tab, the clothing, the housings, the log or the walls; paired collar tabs, a tab on each side, two tabs, a chest badge, a second device, a patch, a badge with words, name tape, epaulettes, visible buttons, braid, medals, chevrons, stars on the collar, zips, snap fasteners, chest pockets, flap pockets; science-fiction costume, skin-tight bodysuit, armour, a helmet, a visor, a spacesuit, a cape, shoulder pads; twentieth-century business suit, necktie, lapelled jacket, military dress uniform, combat fatigues, camouflage; a steel filing cabinet, a swivel office chair, a desk lamp, a coffee cup, paper stacks, ring binders; grime so heavy it reads as neglect, rust, peeling paint, debris; weapons; flat studio backdrop, gradient background, studio lighting, glamour lighting, cosmetics, a corporate headshot, posed smiling to camera. Render negatives: 3D render, CGI, octane render, video-game render, animated film still, concept art, airbrushed, over-smooth skin, waxy skin, plastic sheen. Landscape orientation.
+  - **Attention is the two housings**; the 28 July guardrail is met by the work, and the chapter's question is in the frame without a caption.
+  - **The post is the Starwarden's frame from the other side.** His picture has the viewport and the bench behind him; hers has the bench and no viewport. The two should read as one compartment, which is why the housings are given in his frame's words and the palette is his.
+  - **The corps is not asserted.** Her page withholds it; a shell in any recorded corps colour, or a corps badge, writes a fact the record does not hold, and fails on that alone.
+  - **The century is the housings and the shell.** A readout, a screen, a lit indicator or a desk lamp fails; so does a filing cabinet or an office chair, which is the twentieth-century drift the 11 October audit named.
+  - **Triage:** first the second figure (a man at a window or a shape in the background fails the one-face rule on sight); then the readout (any screen, dial, trace, lit indicator or window fails); then the uniform (a corps colour, a chest badge, paired tabs, a readable count that is not four, lettering on the tab, a parka or fatigues fails); then the face against the readings above and against the filed Ranger portraits, so that she is nobody already filed; then the log (an open written page fails).
+  - **Proposed alt** (to be corrected to the filed frame): *Sunniva Holm, a fair-haired woman of about thirty in a dark charcoal-grey uniform shell with a single small four-bar tab at her collar, seated at a plain desk in a small dim operations compartment at the end of a long watch, half turned to look at two matched unmarked metal cylinders standing close together on a bench behind her, one hand resting on a closed log with a small folded sheet of paper under her fingers.*
+  - **Written 20 October 2026** (Fable); not generated.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only sunniva-holm`; two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/sunniva-holm.md` from the filed frame.
+
+### 23. Missing portraits — Osune, the second Mnemari the record names (written 20 October 2026, Fable; generation waits on the desktop)
+
+Dermot's *Yes please* of 20 October 2026 to the same two Fable jobs. The page
+landed in PR #1389 (`src/characters/osune.md`) with the codex entry she is the
+author of, *By the Chair of That Day* (`src/codex/by-the-chair-of-that-day.md`):
+a Mnemari of Ilenne past her eleventh century by the census's count, Set Down
+in a year the record does not hold, in a Held Role since, sitting as a witness
+of last resort when a dispute wants a memory nobody can contest; present in
+2826 UCSD on Ilenne and on no roll the assembly requests. A Mnemari has a
+body, and since 20 October the record has one, so the page is owed a portrait
+under the 7 October rule, and a prompt where a person's presence carries the
+frame is Fable's here. The page's own line on her body sends the prompt to
+exactly one place: *drawn on Ulessa's page as three tall legs arched to a hub,
+the body slung beneath, and a long neck that carries the head forward*.
+
+**The body is `species-design.md`'s, *Mnemari — a body from Ilenne*, as
+re-made on 20 October, and the prompt is Ulessa's prompt of record in § 20,
+in its structure and in most of its words**, since that text is the one input
+that produced the body after nine rounds and `species-design.md` says a new
+Mnemari prompt starts from it: three tall arched legs from broad padded feet
+meeting at a hub above a standing person's head, the body slung beneath on a
+thick column, a long curving neck carrying the head forward to table height,
+three short working limbs hanging curled and touching nothing, two small,
+dark, deep-set, wide-set eyes, a warm ochre and russet hide banded in umber,
+no Earth animal and no fantasy being offered as a likeness and each named in
+the negative. § 20's *what failed on the way* is kept whole: a limb laid on a
+table returns a human hand, so the limbs hang curled; a headless body reads
+as a frog and a short neck as a hippo, so the neck is long and the head is on
+it; big eyes make it cute; a person creeps in at the edge unless the chairs
+are said to be empty; grey and muted make the frame drab, so the colour is
+natural and full and the room is neutral so that the hide carries it. **What
+makes her a different individual**, under the identity rule and the one-face
+rule, is the one thing the species page allows: the Mnemari show no marks of
+age, healed injuries show as pale seams, and a witness past her eleventh
+century has survived more accidents than one past her second. Ulessa's filed
+frame carries two seams; Osune's carries several, named and placed, and
+nothing else on her body says old. The hide's banding is given a little
+darker and the russet a little deeper than Ulessa's, as one animal differs
+from another, and that is the whole of the difference in the body.
+
+**The place and the work, from her page and the entry.** Not an assembly
+room, which is Ulessa's frame and the identity rule's first trap. A room on
+Ilenne where she sits as a witness of last resort: a dispute has wanted a
+memory nobody can contest, the parties have asked, and she has given the
+words in the order they were said and stopped. The record gives no Mnemari
+architecture, so the room is given in the record's idiom for a kept shared
+space and in the materials the world page allows, dry pale stone of the
+uplands, with nothing that announces itself: a plain room, a low plain bench
+along one wall for bodies that sit, empty, no table before her since a
+Mnemari stands and she needs nothing to read from, no sheets, no recorder,
+no seal, no lettering. The parties are out of frame past the camera, the way
+Ulessa's chair is, and the bench is empty, so that the generator is told
+twice that nobody else is in the room.
+
+Readings taken for the frame (Fable's, under *Who approves whom*; each his to
+overrule, and none written to the page): **the year 2826 UCSD**, the one year
+her page places her in; **Ilenne**, since she is Set Down there and the
+entry was given at her Held Role; **the room** plain and neutral, walls of
+smooth dry pale grey-buff stone composite with honest seams, a floor of the
+same, a low plain bench along the far wall, empty, soft natural daylight from
+a tall narrow opening out of frame to one side, a little cool, the far corner
+in shadow; **the camera** low and across the room at a seated person's eye
+level, where a party to the dispute would be, which keeps the parties' side
+of the room out of frame; **the parties out of frame past the camera's right
+shoulder**, so that she has leaned the head toward them and the near eye is
+seen looking past the lens and not into it; **the seams**, which are the
+centuries: one long pale seam down the near foreleg from the hub, a second
+across the near flank of the slung body, two short ones on the neck below the
+head, and one at the hub where the three legs meet, all healed smooth and
+paler than the hide, and no other mark of age anywhere; **the hide** deep
+ochre and russet with the umber bands a shade darker than Ulessa's and the
+sand of the underside a shade paler; **the scale** given by the bench, whose
+seat comes to the knee of her legs, well below her slung body; **the moment**
+the one after the words: the head still leaned toward the parties, the whole
+body still, nothing left to say; **the only figure in frame**. No reference
+is passed in the first round, under the 10–11 October Pandoid lesson that a
+reference is content and brings its subject with it; if the first round loses
+the tripod or the slung body, the second round may add
+`src/images/characters/ulessa.jpg` **for the body's structure only**, with the
+sentence saying so, and the triage's last step then reads the result against
+that file so that it does not return Ulessa, her room or her table.
+
+- **`osune.jpg`** — Mnemari, witness of last resort on Ilenne, Set Down, past her eleventh century; *careful, and somewhat lucky, for a very long time.*
+  No References line in the first round, on purpose (see above); the script sends the prompt alone.
+  > A large sapient alien being, about the mass of a pony and stranger than any Earth animal: three tall, thick, jointed legs rise from broad soft padded feet set wide apart on the floor, arch up high above, and meet at a rounded hub well above a standing person's head; slung beneath the hub between the three arched legs, like a hammock, hangs a deep rounded body; from the front of the hanging body a long, graceful, curving neck sweeps out and forward beneath the arch of the legs, so that the head hangs out in front at about the height of a table, leaned toward the people out of shot the way a lamp is leaned toward a page; the legs, the hub and the slung body are plainly one animal, the body joined to the hub by a thick column of the same banded hide; the head is smooth, rounded and blunt, with two small, dark, deep-set eyes placed far apart on the sides of the head, calm and level, never big or round or appealing, and two breathing slits, no mouth visible, no ears, no snout; beneath the body hang three short slender working limbs, curled and still, touching nothing, each ending in a closed ring of short blunt digits over a soft pad; one broad oval hearing membrane flush with the hide on the body's side. Its hide is a warm, rich colour, as an animal of a world under an old orange sun would be: deep ochre and russet with dark burnt-umber bands and pale sand underneath, a fine close velvety nap that catches the light. It is very old and shows it in one way only: several pale, smooth, healed seams in the hide, one long seam running down the near foreleg from the hub, one across the near flank of the hanging body, two short ones on the neck below the head and one at the hub where the legs meet, each paler than the hide around it, with no grey, no thinning, no sagging and no other mark of age anywhere. It stands on the floor of a quiet, plain, empty room with pale neutral walls of smooth dry grey-buff stone composite, a floor of the same, and a low plain bench of the same stone along the far wall, empty; no table, no sheets, nothing on the bench, nothing on the floor; soft natural daylight from a tall narrow opening out of frame to one side, the far corner in shadow. Candid documentary photograph, 16:9, camera low across the room at a seated person's eye level, the being three-quarters on, attention off-frame toward people out of shot, having just finished speaking and fallen still, never posed to camera, the only figure in frame: no person, no seated figure, no hand, no shoulder, no silhouette at the edge of the frame; the bench is empty and the room holds nobody else. Photographed, not rendered: natural, full, true-to-life colour, normal exposure, real texture in the nap and the stone, shallow depth of field, a little grain, the small untidy imperfections a real photograph keeps. Negative: big round eyes, appealing eyes, cute face, a person, a seated figure, a shoulder or arm at the edge of the frame, grey, monochrome, desaturated, drab, muted, people, a second figure, humanoid, human face, human hands, fingers, spider, harvestman, insect, crab, octopus, jellyfish, tentacles, war machine, tripod robot, walking machine, metal, horse, giraffe, elephant, dinosaur, bird, frog, toad, hippo, llama, camel, hooves, a tail, horns, teeth, an open mouth, clothing, a harness, a collar, wrinkles, sagging skin, grey hair, white fur, a bald patch, bandages, open wounds, blood, a table, chairs, sheets of paper, readable text, screens, lit ceiling panels, visible lamps, windows, 3D render, CGI, cartoon, cute, toy, concept art.
+  - **The seams are the whole of the centuries.** Anything else that says old, a grey muzzle, a sag, a thinning nap, fails the species page (*no biological indicator*) on sight, and is negated by name.
+  - **The room is not an assembly.** No table, no sheets, no recorder: a frame with Ulessa's table in it fails the identity rule, and a courtroom, a parliament or a lectern fails the century.
+  - **The § 20 lessons stand**: three legs exactly, the limbs curled and touching nothing, the head on a long neck, small eyes, an empty bench said twice, full natural colour against a neutral room.
+  - **Triage:** first the body against `species-design.md` (exactly three legs, one animal from hub to head, the working limbs curled beneath and touching nothing; four legs, a separate creature hanging in a frame, a hand on anything, a face a human reads, or big appealing eyes fails); then the age (any mark of age other than pale seams fails); then the room (pale and neutral, a bench and no table, nobody else in frame, no lit fitting, no lettering); then the colour (warm ochre, russet and umber against a neutral room; grey or drab fails); then, if a reference was sent in a second round, identity against `ulessa.jpg` (the same seams, her room or her table fails).
+  - **Proposed alt** (to be corrected to the filed frame): *Osune, a large Mnemari with a warm ochre and russet hide banded in umber and several pale healed seams on her leg, flank and neck, standing on three tall arched legs that meet at a hub above her, her rounded body slung beneath, a long curving neck reaching forward so her small-eyed head hangs at the height of a table, three short working limbs curled beneath her body, in a plain empty room of pale dry stone with a low bench along the far wall.*
+  - **Written 20 October 2026** (Fable); not generated.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only osune`; four variations in the first round as § 20's merged round ran, two rounds at most, the second with `ulessa.jpg` as a body-only reference if the first loses the tripod; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/osune.md` from the filed frame, and strike the *not yet prompted* line in `open-questions.md`.
+
+### 24. Missing portraits — Akkit, a Chthonari of Tsittak, formerly of the Engineering Corps (written 20 October 2026, Fable; generation waits on the desktop)
+
+Added to the same job at the parent session's request, the day PR #1392
+merged. The page landed with the codex entry Akkit is the author of, *Nothing
+Turned* (`src/characters/akkit.md`, `src/codex/nothing-turned.md`): a
+Chthonari of the Undersong Belt, formerly a fold-scaffold engineer of the Star
+Rangers Engineering Corps, who left the Corps in a year the record does not
+hold and came to Tsittak to stay, and who struck the account on the
+settlement's dock plating when a Corps vessel carried the Survey Archive's
+request. Retired, out of Corps service, *they*. A Chthonari has a body, so the
+page is owed a portrait under the 7 October rule, and a prompt where a
+person's presence carries the frame is Fable's here. Same form as § 19 and
+the Orbital Five-O set in § 1: a documentary photograph taken inside the
+world by a 29th-century camera, real chitin and real plating, a lens and
+grain, the render negatives; **16:9 landscape** at 1200×675 through
+`import-image.ps1 -MaxEdge 1200` at finish strength 1; at work, never posed,
+the 28 July guardrails met by the work, which for a people with no face a
+human reads is met by the body's posture alone.
+
+**The body is the species page's and `species-design.md`'s, as the five filed
+Chthonari frames carry it** (Tikket, Kattik, Tekka and Tsikk filed as one set
+on 11 October, Kettsa on 19 October): small, forearm-to-torso length,
+six-limbed, exoskeletal, low and dense, a low domed segmented carapace on six
+jointed legs of equal kind, no torso, no shoulders, no upright posture, fine
+sensory ridges along each leg and the lower carapace, a smooth rounded head
+with no face, no eyes, no mouth; the tone rule's silhouette, Thrum's
+precedent, no mandibles, no dripping, no swarm. The lessons of those five are
+kept whole: the crouching humanoid and the toothed mouth of the 4 September
+runs, the woodlouse body and the lit tube that broke two of the 11 October
+set, the Earth beetle that took half of Kettsa's round, and the present-day
+tablet that Kattik's forelegs once rested on, each negated by name. **Two
+filed frames are passed as references for the body only**, as § 19 did,
+`tikket.jpg` and `tsikk.jpg`, and the prompt says so; Kettsa's frame is not
+sent, since it carries the Corps shell and would bring it. **What makes Akkit
+a different individual** is the one thing the Chthonari allow, under
+civilian-dress open item 2 (ruled A on 14 October): the carapace is not a
+display surface, so one Chthonari is told from another by wear, scuffing and
+a modest range of tone within slate and bronze, never by pattern. Akkit's are
+a cutter's and a scaffold engineer's, decades of both, and they sit where the
+Eden crew's and Kettsa's do not.
+
+**Nothing worn.** Akkit is out of Corps service, and a Chthonari civilian
+wears nothing (`civilian-dress.md`, Chthonari: *not stated, and none in the
+four portraits*; anything worn would deafen the limbs and the lower carapace
+that hear). So the frame carries a bare carapace, which is also how it is
+told from Kettsa's at a glance. No tab, no shell, no mark.
+
+**The place and the work, from the pages.** Tsittak's dock, from its page
+and from the codex entry's receiving note: a settlement cut into a lone body
+of nickel-iron in the dark between the stars, *the members left, not built,
+by cutting away everything the rock will not need to be doing*, a working
+dock *recessed into one cut face*, warm amber in the lore frame's alt, the
+one lit thing on a dark body. The account was struck on the dock plating
+because the translating set stands on the same plate, so the set is in frame
+as the record's own idiom for a made thing, a small plain sealed matte
+housing standing on the plating a little way off, unlit, and nothing else
+made. **The work** is the striking: one foreleg lifted a little off the
+plate, its tip just clear, mid-strike, the other five in contact and the
+body low, which is a name or an account being given to the structure and is
+the species page's own description of a Chthonari speaking. No vessel at the
+dock, no Ranger, nobody: the asking was carried by a vessel, but the frame is
+the account and not the asking.
+
+Readings taken for the frame (Fable's, under *Who approves whom*; each his to
+overrule, and none written to the page): **the carapace a paler, warmer
+slate than Kettsa's dark slate and the Eden crew's dull slate, with the
+bronze cast strongest across the dome of the carapace rather than at the leg
+joints**, which is how a body that has spent decades pressed to cut metal
+would wear; **the scuffing heaviest on the hind legs and the rear segments
+of the carapace, the underside's edges worn smooth**, a cutter's wear and
+not a listener's, where Kettsa's is on the forelegs; **a single old chip at
+the rim of one rear segment, healed smooth**, the one individual mark; **the
+posture** the striking one, body low, five legs down and the near foreleg
+raised a little, the dome of the head level and turned a little toward the
+housing and not toward the camera; **the dock** a cut channel of dark
+nickel-iron, its walls bearing the broad shallow marks of cutting and no
+seam of manufacture, the dock plating a worked floor of the same metal laid
+level, dusty, with the fine grit of cut metal in its joints; **the light**
+dim, even, warm amber from an unseen source, since the lore frame gives the
+dock that colour and nothing else in the settlement is lit, a little warmer
+than the Eden deck's and the plant compartment's, with the channel running
+away into darkness; **no stars and no vessel**, since the dock is recessed
+and the frame is inside it; **the only figure in frame**.
+
+- **`akkit.jpg`** — Chthonari, resident of Tsittak, formerly a fold-scaffold engineer of the Star Rangers Engineering Corps; *it begins where you are standing, and goes down.*
+  References: `src/images/characters/tikket.jpg`, `src/images/characters/tsikk.jpg`
+  > Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, at work, never posed to camera: Akkit, a Chthonari, a small six-limbed being with exactly this body: a low, beetle-like segmented carapace carried close to the ground on six jointed legs of equal kind, no torso, no shoulders, no upright posture, no humanoid arms, the head a smooth rounded dome that is entirely featureless, no face, no eyes, no mouth, no teeth, no mandibles, not a mark on it; forearm-to-torso length. The two attached photographs show this same people's body: take the body plan, the dome head, the six legs of equal kind and the matte worn chitin from them and nothing else, not their setting, their deck or their exact colour; this is a different individual, older and more worn. Akkit's carapace is a paler, warmer slate than theirs, matte, real chitin worn and scuffed, the bronze cast strongest across the dome of the carapace, the heaviest scuffing on the two hind legs and the rear segments of the carapace, the lower edges of the body worn smooth, fine scratches and the grit of cut metal in the segment joints, one small old chip at the rim of a rear segment healed smooth, fine sensory ridges along each leg; nothing worn, nothing carried, no shell, no tab, no mark, a bare carapace. Akkit is on the floor of a dock cut into solid dark nickel-iron, deep inside a lone metal body in interstellar space, in the year 2826: a cut channel whose walls bear the broad shallow marks of cutting and no seam, panel or rivet of manufacture, the floor a worked plating of the same dark metal laid level, dusty, with grit in its joints; the body pressed low to the plating with five legs in contact and the near foreleg lifted a little, its tip just clear of the plate, caught mid-strike, as if striking a slow signature into the floor; the dome of the head level and turned a little toward a small plain sealed matte housing of pale grey composite standing on the plating a short way off, smooth, unlit, with no seam, port, dial or light on it, and not toward the camera. Dim, even, warm amber working light from an unseen source, the plating scuffed and dusty, the cut channel receding into darkness behind, nothing else in the dock, no vessel, no window, no stars. Quiet, still, deliberate, faintly uncanny and entirely unthreatening. Palette: pale warm slate and bronze chitin, dark nickel-iron, pale grey composite, warm amber light. Photographed, not rendered: a real camera low on the plating, real chitin with uneven matte sheen, real cut metal with tool marks, real dust, high-ISO grain heavier in the shadows, a fast lens near wide open with shallow depth of field so the channel behind falls soft, slight softness toward the corners, a touch under-exposed, natural colour, the small untidy imperfections a real photograph keeps. Negative: humanoid body, upright posture, torso, shoulders, arms, hands, a crouching figure, an anthropomorphic face, eyes, a mouth of any kind, teeth, jaws, mandibles, antennae, wings, a woodlouse, an Earth beetle, cockroach, ant, spider or crab photographed close, a swarm, a second creature, gore, dripping, a threat posture; a suit, a shell, armour, a helmet, a harness, straps, plates on the carapace, a tab, a badge, a patch, lettering on the body; a tablet, a slab, a handheld device, a tool in a leg; readable text, lettering, numerals, signage, labels, stencilled markings, branding, logos or written characters of any script anywhere in frame; screens, monitors, displays, consoles, dials, gauges, meters, keyboards, holograms, projected light, glowing displays, a glowing ring, light strips, glowing trim, a lit indicator, a lit tube, exposed cables, pipework with flanges, valve wheels; visible lamp, light fitting or bulb; a window, a viewport, stars, a planet, a nebula, a spacecraft, lens flare; a glass dome, a bright hall, a white room, a cave with stalactites, rough rock, stone, concrete, brick; steel girders, riveted panels, welded seams, bolted brackets, conduit; grime so heavy it reads as neglect, rust, peeling paint, debris; weapons; flat studio backdrop, gradient background, studio lighting, a specimen on a plinth. Render negatives: 3D render, CGI, octane render, video-game render, game asset, animated film still, creature concept art, design sheet, clay or plasticine sculpture, plastic sheen, airbrushed, over-smooth surfaces, glossy concept art. Landscape orientation.
+  - **Attention is the plate and the housing**; a Chthonari has no face to turn to a camera, and the raised foreleg is the account being given.
+  - **The body, not the person.** The two references are for the people's body alone, and the sentence says so; a variation that returns Tikket's or Tsikk's frame, their bracket, their dock ring or their exact tone fails the identity rule, and one that drifts into the crouching humanoid, the toothed mouth, the woodlouse or the Earth beetle fails on sight.
+  - **Bare is the point.** Any shell, plate, tab or harness writes the Corps back onto a Chthonari who left it; it fails the page and is told from Kettsa's frame by exactly that.
+  - **The dock is cut, not built.** Tsittak's walls are native metal with the marks of cutting and no seam of manufacture; girders, rivets, bolted brackets and conduit are the Eden understructure and the plant compartment, not this place, and are negated by name, as are rock, stone and a cave, which the word *cut* draws.
+  - **Triage:** first the body (any humanoid, upright, faced, mouthed, woodlouse or Earth-insect close-up fails); then the bare carapace (a shell, plates, a tab, a harness or anything carried fails); then the place and the century (a lit indicator, a screen, a window, stars, a vessel, girders, rivets, rough rock or a render look fails); then identity against the five filed Chthonari frames (their tone and wear, their forelegs scuffed, or their setting fails).
+  - **Proposed alt** (to be corrected to the filed frame): *Akkit, a small six-legged Chthonari with a pale warm slate carapace bronzed across its dome and worn smooth at the hind legs and rear segments, nothing worn on it, pressed low to the dusty plating of a dock cut into dark nickel-iron, one foreleg lifted mid-strike, the dome of the head turned toward a small pale sealed housing standing on the plate, in dim warm amber light with the cut channel running into darkness behind.*
+  - **Written 20 October 2026** (Fable); not generated.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only akkit` (the entry carries the two filed Chthonari frames as references, so the script sends them); two variations, two rounds at most; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/akkit.md` from the filed frame, and strike the *not yet prompted* line in `open-questions.md`.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
