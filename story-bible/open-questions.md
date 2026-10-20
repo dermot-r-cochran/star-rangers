@@ -184,6 +184,44 @@ night on Opus, in one PR:
   Opus's); a Mnemari's dress and witness's mark (`civilian-dress.md`, not
   stated, picked only when a page needs it; the portrait carries none).
 
+**Her first scene — Dermot's ask of 20 October 2026 (*"Ulessa's first
+scene"*) — DRAFTED the same day on Fable as S01E00C08 *Nobody Present*.**
+Early summer 2826, a Federation assembly session revisiting the Rangers'
+material-support compact; POVs Isren Farrowkin (Verdance's seat, the
+outside view of the body as `species-design.md` draws it) and Ulessa's own.
+Settled by Fable under the dilemma-only rule, each his to overrule:
+- **The slot: Season 1, Episode 0** (the prequel episode, *at different
+  distances*), early summer 2826, before Season 1's early autumn. The
+  compact that is revisited is the Rangers' own, which is what ties the
+  chapter to the thread the episode serves; the alternative was a compact
+  between two member worlds the record does not name, which would have left
+  the chapter with no thread and the compact with no contents.
+- **Ulessa was at the compact's first table.** Her page had left this open
+  (*the record has not placed her there*) and the chapter places her at the
+  first table and at no renewal; the year of the first table is not fixed
+  (the Federation page's *decades after 2723* and the Oversight page's
+  *before 2791* bound it, and the chapter's arithmetic rests on neither).
+- **The data term as said matches the compact as the Federation page gives
+  it** (materials, fabrication capacity, survey data, *toward* the Corps);
+  the chapter invents no term. What it adds is the words after the term: a
+  mark from Cirrane read in after the item closed, asking where what the
+  Corps learns is carried and whether a member that cannot come for it may
+  have it, and the chair's *Noted*. Whether an answer was ever carried back
+  is marked absent, not explained; the session's decision is not recorded.
+- **The Ollune standing item lands twice and is raised once**: at the
+  opening, by Ulessa, with the first raising given by that day's chair's
+  name (no count and no year, so no arithmetic is added); and in the words
+  themselves, where the member not in the room then is the one not in the
+  room now. The item's age is still not fixed.
+- **The *asked once* line is placed**: the certainty exchange her page records
+  is this session's, with Prismere's seat as the asker. Prismere's delegate
+  is given by seat, not name, Full Wings; the chair and both readers by role.
+- **Isren's *first formal proposal*** (her page) is dated to this session,
+  and the chapter leaves the page's claim true: hers is the first *formal
+  proposal*; Cirrane's was a question, read and noted.
+Not done: no portrait generated (desktop); no intake file for the day, the
+record of the draft being this entry and the PR.
+
 ## A Chthonari Ranger, Kettsa — Dermot's direction of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; one line open
 
 Dermot, 19 October 2026: *"start a Chthonari Ranger in the Engineering Corps

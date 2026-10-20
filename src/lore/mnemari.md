@@ -3,6 +3,7 @@ layout: lore-entry.njk
 title: "Mnemari"
 category: "Species"
 tags: [mnemari, species, ilenne, federation-of-sentient-beings, memory, mediation, indefinite-lifespan]
+revealed_by: s01e00c08
 description: "A sapient people native to Ilenne with no natural upper bound on lifespan and no natural decay of memory — whose culture is built less around growing old than around what to do with a mind that never has to let anything go."
 image: "mnemari.jpg"
 image_alt: "Designed title card on a dark violet star field: the category SPECIES in spaced capitals at the top, the thin outline of a dial with twelve tick marks and a single hand, held in a soft glow, and below a short rule the title MNEMARI in pale serif capitals, subtitled 'Those Who Do Not Forget' and 'No upper bound on lifespan, no decay of memory'."
