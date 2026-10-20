@@ -123,14 +123,21 @@ same rule:
 - The drafting is Fable's (a telling, a witness's account, a filing); the
   author check, the reader test and the character page's grounding are Opus's.
 
-- [ ] **Mnemari** — `src/lore/mnemari.md`, `src/lore/planets/ilenne.md`,
+- [x] ~~**Mnemari** — `src/lore/mnemari.md`, `src/lore/planets/ilenne.md`,
   `src/characters/ulessa.md`, `src/lore/federation-of-sentient-beings.md`
   (*Member Worlds*). Voice: **remembered word for word, a witness's account**:
   the words in the order they were said, and then stopping, never framed as a
   feat. A witness past her eleventh century can speak to tables no other
   source holds, but the Federation's founding stays undated (its members date
   it differently and it has never reconciled them), and so does its first
-  contact with the Rangers.
+  contact with the Rangers.~~ — **drafted 20 October 2026** (Fable, at
+  Dermot's *"Yes please"* to starting it that night rather than in the weekly
+  pass): `src/codex/by-the-chair-of-that-day.md`, by Osune, the census's
+  oldest confirmed Mnemari, Set Down (`src/characters/osune.md`). Every room
+  is given by the chair of that day and none by a year; the founding is held
+  in each member's reckoning and not reconciled; the Rangers' first table is
+  sent to Ulessa. Osune's portrait is owed from the Mnemari body in
+  `species-design.md`, not yet prompted.
 - [ ] **Chthonari** — `src/lore/chthonari.md`, `src/lore/undersong-belt.md`,
   `src/lore/tsittak.md`, `src/characters/kettsa.md`, `kattik.md`, `tekka.md`,
   `tsikk.md`, `tikket.md`, `story-bible/mind-design.md` (Chthonari section).
