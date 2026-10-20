@@ -47,7 +47,7 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
-## The Cerebraun pronoun — `mind-design.md`, *Gender, kinship and the self*, raised 20 October 2026, OPEN, his
+## The Cerebraun pronoun — `mind-design.md`, *Gender, kinship and the self*, raised 20 October 2026, RULED the same evening: A (Dermot's *"Cerebraun pronoun A: they, and match the four its on cerebraun.md"*); declared on `cerebraun.md` with the four *it*s turned to match
 
 Found while writing the gender and identity section (Opus), at Dermot's
 *"non-humanoid non-terrestrial non-metazoan gender and individual or
@@ -70,7 +70,7 @@ consistently, so the page cannot keep both.
 - **C: no pronoun**, the page recast so that no sentence needs one. Honest,
   but it cannot hold in a generic sentence about the people.
 
-Nothing is changed on `cerebraun.md` until he rules.
+Applied 20 October 2026: the rendering sentence added to `cerebraun.md` and the four sentences turned to *they*; the chapters, `sohrel.md` and `tavesh.md` untouched.
 
 ---
 
