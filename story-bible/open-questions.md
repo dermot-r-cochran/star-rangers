@@ -212,7 +212,7 @@ the **Vessik** are an unaugmented burrow commensal.
 
 ---
 
-## Kernowek Reach's *native reptile* — `ecology-design.md`, *Open items*, raised 20 October 2026, OPEN, two options, A recommended
+## Kernowek Reach's *native reptile* — `ecology-design.md`, *Open items*, raised 20 October 2026, RULED the same day: A (Dermot's *"clarify to a native animal the settlers called a reptile"*); the page and its caption clarified
 
 Found while writing the ecology note (Opus). `src/lore/planets/kernowek-reach.md`
 calls the ridge-strider *"a native reptile"* in the Archive's own voice, and its
