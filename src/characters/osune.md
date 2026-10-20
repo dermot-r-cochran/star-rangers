@@ -7,6 +7,8 @@ role: "Witness of last resort on Ilenne, Set Down; formerly requested to Federat
 status: "Retired — Set Down, in a Held Role on Ilenne"
 aliases: []
 tags: [mnemari, ilenne, federation-of-sentient-beings, treaty-witness, setting-down, memory, indefinite-lifespan, civilian, author]
+image: "osune.jpg"
+image_alt: "Osune, a Mnemari: three tall arched legs meeting at a hub above a slung russet and ochre body with darker umber bands, a long neck carrying a smooth blunt head forward, small dark eyes, three short working limbs curled beneath, pale healed seams across the hide, standing alone in a plain room of pale grey-buff stone with an empty low bench and light from a tall narrow window"
 description: "A Mnemari of Ilenne past her eleventh century, Set Down and sitting as a witness of last resort, who gave a reader of the Federation record the history of her people as the rooms she had been asked for before, each by the chair of that day and never by a year — the author of the first history of a non-human people the record holds in that people's own voice."
 known_codex: [by-the-chair-of-that-day]
 ---

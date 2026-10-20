@@ -7,6 +7,8 @@ role: "Field Officer, operations watch, Starwarden Luke Valerius's boundary-prox
 status: Active
 aliases: []
 tags: [human, star-rangers, field-officer, operations-watch, boundary, type-ii, outward-frontier, luke-valerius]
+image: "sunniva-holm.jpg"
+image_alt: "Sunniva Holm, a Field Officer in her thirties with short ash-fair hair and a tired, pale face, in a dark charcoal-grey field uniform with a small barred rank tab at the collar, seated at a worn operations desk in a plain grey-panelled watch room, one hand resting on a folded sheet laid on a closed log, two sealed metal reference housings standing on the bench behind her, looking down and aside"
 description: "The Field Officer on the operations watch at Starwarden Luke Valerius's post through a thirty-one-hour dominance window in the late autumn of 2825, who gave a salvage hull two times for every one thing, logged the turn against both clocks, and found the band in the hour after already named in the register."
 ---
 
