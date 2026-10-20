@@ -96,6 +96,158 @@ whether Ilyare has met a Krenyi or a Ranger, any chapter. Not done: no
 chapter; no link from `ollune.md` or `cirrane.md`, since neither lists
 people; no image generated.
 
+---
+
+## Histories in their own voices — a weekly Codex series (Dermot's "(c)", 20 October 2026)
+
+Dermot, 20 October 2026, verbatim: *"Yes (c) as recommended"*, on the finding
+that the record's timeline and history of the non-humanoid peoples were almost
+absent. Part (a), a dated frame, is Opus's and landed as fifteen timeline
+entries (`src/timeline/`, branch `timeline/non-human-frame`; the events the
+record gives no date for are listed in that PR, not invented). Part (b) is this
+series: Fable's, one people a week, in the order below, Mnemari first. Each
+entry is a Codex entry in the people's own voice, and every line carries the
+same rule:
+
+- **A named in-world author per entry**, who gets a character page in the same
+  PR (*A Codex author is a character*, 10 October 2026), grounded only in the
+  entry and the record, the rest marked absent.
+- **Valid-for-its-author, never doubt about canon** (21 August 2026): the
+  entry may be partial, proud or mistaken in its author's voice, and after
+  reading it canon is no less settled than before.
+- **No Archive commitment**: no `canon_facts`; no date the timeline does not
+  hold, and none of the events that PR lists as owed given a year; a date
+  given in the author's own reckoning stays in that reckoning, with UCSD
+  beside it only where the record holds a conversion; and nothing the record
+  marks absent is supplied.
+- The drafting is Fable's (a telling, a witness's account, a filing); the
+  author check, the reader test and the character page's grounding are Opus's.
+
+- [ ] **Mnemari** — `src/lore/mnemari.md`, `src/lore/planets/ilenne.md`,
+  `src/characters/ulessa.md`, `src/lore/federation-of-sentient-beings.md`
+  (*Member Worlds*). Voice: **remembered word for word, a witness's account**:
+  the words in the order they were said, and then stopping, never framed as a
+  feat. A witness past her eleventh century can speak to tables no other
+  source holds, but the Federation's founding stays undated (its members date
+  it differently and it has never reconciled them), and so does its first
+  contact with the Rangers.
+- [ ] **Chthonari** — `src/lore/chthonari.md`, `src/lore/undersong-belt.md`,
+  `src/lore/tsittak.md`, `src/characters/kettsa.md`, `kattik.md`, `tekka.md`,
+  `tsikk.md`, `tikket.md`, `story-bible/mind-design.md` (Chthonari section).
+  Voice: **the Undersong**, an account cut into structure and struck, not
+  spoken, which the record holds as a description and not a reading; a crew's
+  work log is the one written Chthonari record on file. Rendered in
+  translation, and the entry says so.
+- [ ] **The Told** — `src/lore/planets/fliade.md`, `src/glossary/the-told.md`,
+  `src/characters/stone-first.md`, `teddy.md`, `went-round.md`,
+  `keeps-a-hand-on-it.md`, the *Below the Roof* chapters. Voice: **tellings**,
+  the first true thing said and then repeated, back to where the tellings run
+  out; a telling rendered, not a transcription. The record holds the people's
+  side only by way of the thread, so the author must be a teller the thread
+  could carry, and what was said at the line in 2834 UCSD stays unheld. An
+  Opus check before drafting: how a Told telling comes to be filed at all.
+- [ ] **Cerebraun** — `src/lore/cerebraun.md`, `src/lore/cerebraun-hegemony.md`,
+  `src/lore/planets/meridian.md`, `src/lore/planets/sentinel.md`,
+  `src/characters/sohrel.md`, `tavesh.md`. Voice: **the Hegemony's filing**,
+  the Prime Ganglion's office's register (*formally noted*, *reserved*), the
+  three-part answer, the second line beneath that reads as routine caution,
+  and the skin-display channel no transcript carries. The Union–Hegemony
+  arrangements stay unpublished, the Sentinel's authorship unsettled, and the
+  Hegemony's own dating of anything is not held.
+- [ ] **Krenyi** — `src/lore/krenyi.md`, `src/glossary/krenyi.md`,
+  `src/characters/syra.md`, `ilvane.md`, `arashobal.md`, `toval.md`,
+  `src/codex/the-cloth-as-taught.md`. Voice: **in their own calendar**, in the
+  material form. They withhold the *placing*, so the entry gives history and
+  never a homeworld or an origin that would explain them. The record holds no
+  conversion between their calendar and UCSD (Toval's page names *the Corps'
+  conversion* and gives no figures), so before this entry either the
+  conversion is defined (a definition, Opus's) or its dates stay in the Krenyi
+  reckoning, unconverted and marked.
+- [ ] **Ollune** — `src/lore/ollune.md`, `src/lore/planets/cirrane.md`,
+  `src/glossary/ollune.md`, `src/characters/ilyare.md`. Voice: **the far word and the near word**, terms
+  drafted to hold between parties who cannot confer, and a first contact filed
+  in the alarm vocabulary. When their procedure entered the Federation's
+  (*generations ago*) stays undated.
+- [ ] **Ovruhn** — `src/lore/ovruhn.md`, `src/characters/vhen.md`. Voice:
+  **chorus-keeping**, a record kept in living memory and retold together, loss
+  mourned in the register the music keeps. Thavren has no page.
+- [ ] **Verdani** — `src/lore/verdani.md`, `src/lore/planets/verdance.md`,
+  `src/lore/greenward-habitat.md`, `src/characters/isren-farrowkin.md`.
+  Voice: **the Fourfold Accord**, one Verdani position made from four
+  governments, argued from specifics, counted in local years. Mind the open
+  question below on the reciprocal instrument's year.
+- [ ] **Prismeri** — `src/lore/prismeri.md`, `src/lore/planets/prismere.md`,
+  `src/codex/plates-of-the-prismeri.md` (a human naturalist's plates). Voice:
+  **the astrogation guilds**, a life read across First Wings and Full Wings.
+  No Prismeri has a page yet, so the author is the first the record names.
+- [ ] **Ilveth** — `src/lore/ilveth.md`, `src/characters/suvra-kel.md`.
+  Voice: **written in warmth**, the signalling vanes, a word that costs a
+  calorie. Sardain has no page.
+- [ ] **Pelagene Littoral** — `src/lore/pelagene-littoral.md`,
+  `src/characters/mira-of-brine.md`. Voice: **the original is the document**:
+  every human word for their medium is a translation made early, and the
+  entry keeps that visible. Nerath has no page.
+- [ ] **Serephine Dunekin** — `src/lore/serephine-dunekin.md`,
+  `src/characters/sethka-ru.md`. Voice: **the exposure window**, acting when
+  conditions permit, as Sethka Ru's file method records. The *leave as
+  absences* ruling on their language channel stands, so the entry renders no
+  Serephine speech.
+- [ ] **Veyr Basaltborn** — `src/lore/veyr-basaltborn.md`,
+  `src/characters/qiren-tal.md`. Voice: **precision fought for**, fire handed
+  to them free. The same language-channel ruling stands.
+- [ ] **Meridian sapients** — `src/lore/planets/meridian.md`,
+  `src/lore/planets/sentinel.md`, `src/characters/sixth-course.md`. Voice:
+  **claw-percussion and the water column**, a council's petition carried in
+  its exact shape. The settlers' year stays unfixed, as the record declines to
+  fix it, and the Sentinel's authorship stays open.
+- [ ] **Spiralites** — `src/lore/planets/corryn.md`,
+  `src/lore/halvern-combine.md`. Voice: **electromagnetic pulse**, habitats
+  tuned to the Carillon's rings. No Spiralite has a page yet; the entry must
+  not settle the colony's standing.
+
+Not on the list, and why: the **Doreth** have one sentence on Aspenar's page
+and no page of their own (add a line when one exists); the **Levrils** are
+filed under Entities, not as a people, and their history is the cosmology's;
+the **Vessik** are an unaugmented burrow commensal.
+
+---
+
+## The reciprocal instrument's year against the Federation's first generation — raised 20 October 2026, OPEN, three options, A recommended
+
+Found while building the non-human timeline (Opus, same PR). Two pages date
+the Greenward–Guest Ring instrument by its age at the record's present: the
+Guest Ring is so called *"twenty years later"* (`src/lore/the-guest-ring.md`)
+and Greenward's parties *"have lived above each other for twenty years"*
+(`src/lore/greenward-habitat.md`), so about 2806 UCSD. Greenward also says the
+instrument was concluded *"within a generation of first contact"*. The
+Oversight Council and the Federation pages put the Federation's seat in 2791
+UCSD, *"within a generation of contact and after the first renewal of the
+compact"*, and the compact is *"renewed by assembly vote each generation"*.
+With one length of generation these cannot all stand: the first renewal comes
+a generation after the compact, so contact is at least a generation before
+2791; the instrument is within a generation of contact, so contact is at most
+a generation before about 2806; and 2806 is later than 2791. (The 1 October
+intake left contact *in the 2760s, unfixed*, which puts the instrument some
+forty years after it.) The timeline holds no entry for the instrument until
+this is settled.
+
+- **A (recommended): a clarification of Greenward's phrase.** *"Concluded
+  within a generation of first contact"* becomes *"concluded in the second
+  generation of contact, after the compact's first renewal"*. No date moves,
+  both *twenty years* and 2791 stand, and Greenward's own *What It Is Actually
+  For* already says the parties had *"a working relationship, a
+  material-support compact, and no dispute worth housing"* when they made it,
+  which is the later step this reading describes. The instrument then enters
+  the timeline at about 2806 UCSD.
+- **B: read *generation* loosely and change nothing.** The instrument enters
+  the timeline at about 2806 UCSD as it stands. Cheapest, and leaves the
+  arithmetic for the next audit to find again.
+- **C: make the instrument older.** The two *twenty years* become about forty,
+  which fits *within a generation* against 2791 only in a window of a few
+  years. Two published pages and Greenward's twenty-year watch would move.
+
+---
+
 ## A Mnemari treaty-witness, Ulessa — Dermot's *Yes please* of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; the body RULED *"1 A"* the same night and derived; the portrait prompt is Fable's
 
 Dermot, 19 October 2026: *Yes please* to a Mnemari character page and
