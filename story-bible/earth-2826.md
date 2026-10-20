@@ -506,6 +506,8 @@ wasteland, ice age, frozen sea, 3D render, CGI*.
 
 ## Open items for Dermot
 
+**Both ruled 20 October 2026, as recommended** (Dermot, verbatim: *"Yes, agreed"*): the plateau was drawn down slowly to about 1.5–2 °C (item 1, B), and the AMOC weakened by a quarter to a half and never collapsed (item 2, A). The options below are kept as the record of what was weighed.
+
 Only genuine dilemmas are put here. Each is also listed in
 `open-questions.md`.
 
