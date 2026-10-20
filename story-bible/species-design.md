@@ -1063,6 +1063,129 @@ render, CGI, cartoon, toy, concept art.*
 
 ---
 
+## Ollune — a body from Cirrane (20 October 2026, Dermot's *"Take A3-3 as the Ollune body"*)
+
+**Why.** Ilyare's portrait prompt (`images.md` § 21, PR #1375) asked for the
+people's page body as written: *a translucent gas bladder several metres
+across, trailing a fringe of manipulating tendrils and filter-vanes beneath
+it*. All four variations of the first round came back as a bell jellyfish
+with leaf-shaped veins. Dermot asked for the body-design study loop
+(`people-body-design`) the same day. Three plans were studied: a lens, a raft
+of fused cells and an upright envelope over a keel. He took the lens (*"Agreed"*),
+asked for a third round (*"the cap as living skin of the envelope, the vanes
+as living membrane"*), and then took frame A3-3. Drafted on Opus. Every point
+is marked **derived** (it follows from a page cited, or from physics applied
+to one) or **proposed** (a choice that fits, his to overrule).
+
+### What the rulings and pages force (derived)
+
+- **Mostly envelope, buoyant on warmth.** In a hydrogen-helium sky there is no
+  lighter gas, so an Ollune floats on gas *warmer* than the air around it,
+  held there *by continuous metabolic effort, every hour it is alive*. A body
+  that stops paying sinks (`ollune.md`, *Buoyancy as Metabolism*).
+- **No surface, no fire, no metal; mass is a tax** (`ollune.md`). Nothing
+  carried, nothing worn, no glowing core (`civilian-dress.md`, Ollune).
+- **Filter-feeders on the falling haze.** The shell's food web runs on
+  photochemical aerosol drifting down in sunlight. Its large fauna are
+  *overwhelmingly soft, buoyant, and translucent* (`planets/cirrane.md`, *The
+  Temperate Shell*).
+- **Holds.** Eight to thirty sleep *physically linked at the tendril*, the
+  waking carrying the sinking (`ollune.md`). So the tendrils must be able to
+  hold a neighbour.
+- **Not a metazoan, and not on the human frame** (`cross-biosphere-taxonomy.md`;
+  `what-the-record-refuses.md`). The two speech channels are the page's, and
+  the body adds nothing to them.
+
+### What Cirrane derives (physics applied to the page)
+
+- **What kills is heat lost.** An Ollune dies by going under, and it goes
+  under when it can no longer keep its envelope warm. So the body's first
+  economy is heat. A broad envelope gives the most lift for its skin.
+- **The sun is free heat.** A dark surface facing the sky takes the sun's
+  warmth without the body making it. So the upper face is dark and the bill is
+  smaller by day. That fits the page's *every hour*: the charge never stops,
+  and at night it is paid in full.
+- **The haze falls, so the vanes face out and down.** Feeding is from air the
+  body drifts through. The vanes stand at the rim, where the air meets the
+  body first.
+
+### The body (proposed unless marked)
+
+1. **Envelope.** One broad, low, lopsided gas envelope, about eight metres
+   across and two thick, much wider than tall, gently domed above and rounded
+   below. It is one continuous living skin, inflated and taut like a lung,
+   with no separate covering and no loose edge. **Translucent** (derived,
+   `ollune.md`) where it is thin.
+2. **The dark cap.** On the upper face the same skin thickens gradually into
+   a matte, finely furred russet-brown, patched and weathered, that drinks the
+   sunlight. Toward the rim it thins, with no line or edge, into translucent
+   membrane that glows amber against the sun, crossed by irregular branching
+   veins. The rim is a fat, soft, rounded edge of the same skin.
+3. **Filter-vanes.** A ring of soft vanes of living membrane, growing just
+   beneath the rim. Each vane is a translucent fan of fine radiating ribs on a
+   thick fleshy root, uneven in size and spacing, some spread and some
+   half-folded. They are the *filter-vanes* the page gives (derived), placed.
+4. **Tendrils.** About a dozen fine, straight, thread-thin tendrils of
+   different lengths, two or three metres long, hang from the centre of the
+   underside like plumb lines. They are the *manipulating tendrils* (derived)
+   and the hold's links: in a hold they reach sideways to a neighbour's.
+5. **No face, eyes, mouth, head or limbs.** The near word is chemical, at
+   close range. The far word is low-frequency pressure (derived, `ollune.md`),
+   and the envelope is the body's largest surface for both.
+6. **Variation.** Size, the shape of the lean and the cap's patching tell one
+   Ollune from another. Colour does not, beyond weathering. This replaces
+   `civilian-dress.md`'s proposed *size and veining*.
+
+**Colour.** Russet and ochre on the cap. Amber and gold where the sun comes
+through. A faint blush on the vanes. Never grey, and never glass.
+
+### Traps closed
+
+- **The jellyfish.** A bell or dome with tentacles beneath it returned a
+  medusa every time, with leaf-shaped veining. A broad low lens, a dark cap,
+  vanes at the rim and straight plumb-line tendrils keep it from one.
+- **The flying saucer and the pie.** A neat disc with a regular frill read as
+  a saucer or a pie crust. Lopsided and irregular, with the rim fat and soft.
+- **The pelt and the rags.** A cap described apart from the envelope came
+  back as a draped hide, with the vanes as torn cloth. One continuous skin,
+  and vanes that are whole living membrane.
+- **The octopus.** Tendrils described as a fringe curled like arms. They hang
+  straight and still.
+- **Fins on stalks.** Vanes described as rounded fans on a root, without the
+  ring, returned scallop shells or fish fins on stalks (the portrait round of
+  20 October). They are a ring under the rim, close-set.
+- **The balloon, the airship and the lantern** (as before), and the rendered
+  finish: ask for a long lens through real haze and visible grain.
+
+### Prompt vocabulary and standard negative
+
+The prompt of record is Ilyare's in `images.md` § 21, the generator's input
+for the filed frame. A new Ollune prompt starts from it. Send no reference
+image: the species frame `ollune.jpg` shows the old bell-shaped body and
+would bring it back.
+
+**Standard negative.** *jellyfish, medusa, bell shape, umbrella shape, long
+tentacles, trailing tentacles, curled or coiled tendrils, octopus arms,
+leaf-shaped vein pattern, flying saucer, UFO, pie crust, regular frill,
+scalloped edge, mushroom cap, an animal pelt or rug draped over it, fabric,
+rags, torn edges, fish fins, petals, hot-air balloon, airship, blimp,
+gondola, paper lantern, a glowing core, bioluminescence, faces, eyes, limbs,
+a second creature, a planet disc, grey, monochrome, desaturated, muted,
+drab, 3D render, CGI, clay, toy, glass sculpture.*
+
+### Where this goes
+
+- **Published with this section:** the body sentence in `src/lore/ollune.md`
+  (a clarification: the envelope's shape, the dark upper face and where the
+  vanes and tendrils sit, with one added sentence on the sun's share of the
+  bill), Ilyare's portrait and the line on their page that describes the body,
+  and `civilian-dress.md`'s Ollune entry.
+- **Owed:** the species frame `src/images/lore/ollune.jpg` still shows the
+  bell-shaped bladders and no dark cap. It is a re-make for the next image
+  pass, from this section, at a long lens with several beings far off.
+
+---
+
 ## Living with other life — companions, working animals and commensals, people by people
 
 Written 14 October 2026 at Dermot's direction, verbatim: *"Pets and companion

@@ -7,6 +7,8 @@ role: "Marker of the crossing for a shoal of Freyari, Cirrane — the one whose 
 status: Active
 aliases: []
 tags: [ollune, cirrane, freyari, vantine-system, federation-of-sentient-beings, near-word, shear, civilian]
+image: "ilyare.jpg"
+image_alt: "Ilyare, an Ollune: a broad, low, lopsided gas envelope, its upper face a dark weathered russet hide, thinning at a fat rounded rim to translucent membrane that glows amber underneath, a ring of pale translucent filter-vanes beneath the rim and a cluster of fine straight tendrils hanging below, drifting alone in sunlit cream haze above a deck of curling billowed cloud, with no ground or solid thing anywhere"
 description: "An Ollune of Freyari, the marker of the crossing for a shoal the Federation record lists only by depth, bearing and phase: the one person whose near word is the decision to cross a shear layer, who hears every alarm in the band and owes none of them an answer — the first Ollune the record names."
 ---
 
@@ -43,7 +45,7 @@ The record gives Ilyare no age, since nothing on file says how long an Ollune li
 
 ## What the Record Does Not Carry
 
-Ilyare's age, and the span of an Ollune life, neither stated anywhere. The shoal's name and its band, if a shoal has a name that is not an appointment. The hold's members. How a shoal's position on any assembly matter is arrived at before it is carried, which the record has not established; Ilyare is not said to have any part in it. The Ollune language beyond the handful of words the record renders, and the far-word call itself, which nothing recorded. Whether Ilyare has ever dealt with a [Krenyi](/star-rangers/lore/krenyi/), or with a Ranger: the people's page gives the Star Rangers' courier role as the load-bearing member of Cirrane's economy, and the record has not placed a Ranger at Ilyare's shoal. Any chapter. The body, beyond what the people's page gives every Ollune: a translucent gas bladder several metres across, veined, lit through, with a fringe of manipulating tendrils and filter-vanes beneath; nothing on the record tells one Ollune from another by sight, and the page does not try.
+Ilyare's age, and the span of an Ollune life, neither stated anywhere. The shoal's name and its band, if a shoal has a name that is not an appointment. The hold's members. How a shoal's position on any assembly matter is arrived at before it is carried, which the record has not established; Ilyare is not said to have any part in it. The Ollune language beyond the handful of words the record renders, and the far-word call itself, which nothing recorded. Whether Ilyare has ever dealt with a [Krenyi](/star-rangers/lore/krenyi/), or with a Ranger: the people's page gives the Star Rangers' courier role as the load-bearing member of Cirrane's economy, and the record has not placed a Ranger at Ilyare's shoal. Any chapter. The body, beyond what the people's page gives every Ollune: a broad, low, translucent gas bladder several metres across with a dark upper hide, a ring of filter-vanes beneath its rim and fine tendrils hanging from its centre; nothing on the record tells one Ollune from another by sight, and the page does not try.
 
 ## See also
 
