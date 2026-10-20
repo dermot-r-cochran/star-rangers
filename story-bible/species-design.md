@@ -948,139 +948,103 @@ describes* and the Achterberg codex's *mechanism-free* intact. The cost stays
 the species page's: memory is a liability carried, not a feat, and nothing new
 is said about the Setting-Down.
 
-### The body (proposed unless marked)
+### The body (re-made 20 October 2026; proposed unless marked)
 
-Answered by this file's seven questions, in order.
+**Revision.** The first version of this section (19 October) drew a large,
+level-backed, six-limbed walker. Dermot rejected it after three rounds of
+Ulessa's portrait (*"none of these - reconsider the whole body design
+please"*), chose a tripod over a strider and a dome (*"A"*), rejected the
+headless version (*"the head is wrong and the whole image is too grey and
+muted"*), chose a head on a long neck (*"H2"*), and asked for that and the
+slung tripod to be merged (*"Merge the two kinds please"*), which is the body
+below. Ilenne's page needed no change: everything it states still holds.
 
-1. **What the world did to it.** A large, slow, efficient **walker** that
-   covers long distances between scattered water and food at little cost and
-   never needs to run (derived from the uplands, the refuges and the few
-   hunters). **Frame: Endoskelia** (derived: a land walker of this mass at
-   0.9 g that must keep one body in repair for centuries wants a skeleton that
-   is repaired in place; a shell must be moulted to grow, and a hydrostat
-   carries a large walker badly). **Scale:** about the mass of a pony,
-   around 200 kg; the back level at about a standing human's chest
-   (1.3 m); some 2 m from the head's tip to the hindquarters (proposed, sized
-   for doors and rooms built for others).
-2. **How it senses.**
-   - *Far hearing, low and wide.* Thunder over a far ridge, wind changing
-     over open country and another walker's call are the news that matters on
-     Ilenne, and low frequencies carry farthest. Proposed: broad, oval
-     hearing membranes flush with the hide on each flank behind the
-     shoulders, set as far apart as the body allows, since wide spacing is
-     what resolves direction at long wavelengths. **No external ears.**
-   - *Smell into the wind.* Water and growth are found by scent first.
-     Proposed: two breathing-and-smelling slits at the tip of the head, the
-     head swung into the wind to read it.
-   - *Sight for the horizon.* Open country and weather on the skyline favour a
-     wide field. Proposed: **one large eye on each side of the head**, with
-     only a narrow overlap forward and down, where the working limbs work.
-     So a Mnemari who looks at someone turns one side of the head toward
-     them, and a witness attending to the chair is seen side-on.
-   - Close work is felt as much as seen: the working limbs' digits are the
-     fine sense (proposed).
-3. **Limbs.** **Six.** Four long walking legs on broad, padded feet with
-   short splayed blunt toes for stony ground (derived from the walk and the
-   ground; the feet proposed). Two shorter **working limbs** set beneath the
-   base of the neck, carried folded under the head while walking and reaching
-   forward and down to work: picking, digging at roots, scooping at a seep.
-   Each ends in a ring of short, blunt, many-jointed digits; one limb holds
-   while the other works, which is *manipulation finer than the manipulator*
-   (proposed, on this file's 13 August answer). The back stays level: **there
-   is no upper body**, and the working limbs do not rise from a torso.
-4. **Symmetry.** Bilateral, as a walker's (derived).
-   **Head and neck** (proposed): a short thick neck carrying the head forward
-   of the shoulders at about the line of the back; the head a long, low wedge,
-   the eyes on its upper sides, the breathing slits at the tip, the mouth on
-   the underside between the bases of the working limbs, so that nothing on
-   the head reads as a face. No horns, no teeth showing, **no tail**.
-5. **Life cycle.** Matures at an unremarkable pace (derived). **Growth is
-   determinate**: the body reaches adult size and stops (proposed, since a body
-   that kept growing would read its age at a glance, which the page's
-   eleven-centuries elder forbids). **No marks of age**: no greying, no
-   sagging, no wear (derived). What the years leave is **healed injury**: the
-   hide mends with a pale seam, so an old Mnemari carries every accident
-   survived (proposed, from death and harm by event only). Nothing is proposed
-   about sexes, birth or kin beyond the page's kin-councils.
-6. **What a station costs.** Little in the body, as the page says (derived).
-   Two small costs (proposed): furniture is built for bodies that sit, so a
-   Mnemari stands at a table with the working limbs resting on it; and a
-   station's machinery hums in the low register the flank hearing is built for,
-   so a posting is lived in a low noise nobody else notices. The daily cost
-   the record names is not physical: outliving colleagues in full clarity
-   (`mnemari.md`).
-7. **What the biology made them good at, and the job.** The memory, and the
-   witness's and mediator's work that follows from it (derived, canon). The
-   body adds nothing to the job and is not offered as a reason for it.
+1. **What the world did to it.** A large walker that covers long distances
+   between scattered water and food, over broken upland where a large animal
+   is killed by the land far more than by anything living on it, a fall among
+   the causes (derived, `planets/ilenne.md`). **Three legs**, so it stands on a
+   stable triangle whatever the ground: three tall, thick, jointed legs rise
+   from broad soft padded feet with short splayed blunt toes, set wide apart,
+   arch up and meet at a **hub** above a standing human's head (proposed). The
+   legs walk one at a time, two always down. **Frame: Endoskelia** (derived,
+   as before: one body kept in repair for centuries wants a skeleton repaired
+   in place). **Scale:** about the mass of a pony, some 200 kg; the hub at
+   about 2.2 m; the feet wide enough apart that it fits a room only by drawing
+   them in (proposed).
+2. **The body slung.** The deep, rounded body hangs beneath the hub on a
+   **thick column** of the same hide, so that the weight rides low between the
+   legs like a load in a sling and the animal cannot topple (proposed). It is
+   one animal from foot to hub to head.
+3. **Head and neck.** From the front of the slung body a **long, curving neck**
+   sweeps out and forward beneath the arch of the legs, so the head hangs in
+   front at the height of a table (proposed). The head is smooth, rounded and
+   blunt, with **two small, dark, deep-set eyes** placed far apart on its
+   sides, calm and level, and two breathing slits; no mouth visible from the
+   side (it opens on the underside), no ears, no snout, no beak, no crest. A
+   Mnemari attends to someone by leaning the head toward them, which is how a
+   witness is seen to listen.
+4. **Senses.** *Far hearing, low and wide:* one broad oval **hearing
+   membrane** flush with the hide on each of the body's three sides, spaced as
+   far apart as the body allows (proposed, as before). *Smell into the wind*
+   through the slits, the head swung to read it. *Sight for the horizon:*
+   wide-set eyes, a wide field, little overlap. Close work is felt by the
+   working limbs' digits.
+5. **Working limbs.** **Three**, short and slender, hanging beneath the slung
+   body between the legs, carried curled while walking and reaching down to
+   work: picking, digging at roots, scooping at a seep. Each ends in a round
+   soft pad ringed by five short blunt many-jointed digits that close over it
+   like a bud at rest; one holds while another works (proposed). So a
+   Mnemari has six limbs, three to walk on and three to work with.
+6. **Symmetry.** Threefold in the legs, the working limbs and the hearing;
+   the neck and head give the body one front (proposed).
+7. **Life cycle, costs and the job** stand as written on 19 October:
+   determinate growth, no marks of age, healed injury as pale seams; a station
+   costs little in the body, though furniture built for bodies that sit means a
+   Mnemari stands at a table, leaning the head to it; the memory and the
+   witness's work are the record's, and the body adds nothing to them.
 
-**Covering** (proposed): a thick, dry, matte hide with a fine close nap like
-felt, insulating on cold nights, water-tight in a dry world, shedding dust;
-one muted dun-grey tone across the body, quiet and uniform, so the hide says
-nothing. **Alternative:** a bare folded hide. **Voice** (proposed): low, able
-to carry across open country, and quiet in a room.
+**Covering** (proposed, re-made): a warm, rich hide, as an animal of a world
+under an old orange sun would wear: deep ochre and russet across the body,
+legs and neck, darker burnt-umber bands across the hub and back, paler sand
+on the underside, with a fine close velvety nap. Not grey. **Voice**
+(proposed): low, carrying across open country, quiet in a room.
 
-**Dress and marks: open, his, and not needed for a portrait.** Cloth on a
-level-backed body is possible and not proposed; `civilian-dress.md`,
-*Mnemari, for contrast*, keeps *Not stated*, and a witness's mark is the
-uniform-equivalent question above, picked only in the page that needs it.
+**Dress and marks: open, his, and not needed for a portrait** (unchanged).
 
 ### Traps closed
 
-- **A human silhouette with features applied** (the Qiren Tal failure): no
-  upright torso, no face, no pair of forward eyes, no ears.
-- **An upright two-armed biped**: six limbs, a level back, the working limbs
-  beneath the neck. And **not a centaur**, which is the drift a six-limbed
-  walker invites: nothing rises above the forequarters.
-- **The Elf.** The Mnemari concept rhymes with Tolkien's Elves more than the
-  Krenyi do: an undying memory, a weariness of carrying it, a withdrawal from
-  public life. The record already refuses it point by point, and a prompt or
-  a scene must not let it back in: **indefinite, not immortal** (killed by
-  accident like anyone, `mnemari.md`); **not fading and not leaving** (the
-  Setting-Down is a step back into Held Roles on Ilenne, not a departure); the
-  memory a **liability**, never wisdom or lore; no elder race ranked above
-  anyone (`what-the-record-refuses.md`, minds are not ranked). For prompts: no
-  pointed ears, no luminous skin, no robes or circlets, no ancient or
-  sorrowful gaze.
-- **The grey alien**, the stock *witness* from elsewhere: no large bald head,
-  no large black eyes, no slight body.
-- **The Earth animal.** A long-headed, long-legged walker of the uplands
-  invites the horse, camel, llama, deer and giraffe; padded feet and a hide
-  invite the elephant. Each fails on inspection: no hooves, no ears, no mane,
-  no tail, no trunk, a mouth beneath the head, hearing on the flanks, six
-  limbs. A likeness, if anyone draws one, is the observer's
-  (`cross-biosphere-taxonomy.md`, *A Likeness Belongs to Whoever Sees It*).
-- **The infallible witness** (the trope `five-o-second-season-treatment.md`
-  §2 flagged): the body grants nothing; the memory is the species page's, and
-  so is its cost.
+- **A human silhouette**: no torso, no upright part, no face a human reads.
+- **The Earth animal.** The four-legged level-backed walker returned a horse
+  or tapir in every round however the details were worded; a long neck alone
+  returns a llama or a sauropod. The arched tripod and the slung body are
+  what keep it from any Earth animal.
+- **The spider, the harvestman and the walking machine.** Three thick padded
+  legs, not eight thin ones; hide, not metal; no rivets, panels or seams of
+  manufacture.
+- **The frog.** A headless body with an eye collar reads as a frog's face;
+  hence the head on a neck.
+- **The cute alien.** Big round appealing eyes make it a film creature; the
+  eyes are small, dark, deep-set and calm.
+- **The Elf, the grey alien and the infallible witness** (as before): an
+  undying memory is a liability, never wisdom; no large bald head or black
+  eyes; the body grants nothing.
 
-### Prompt vocabulary and standard negative (for the prompt, which is Fable's)
+### Prompt vocabulary and standard negative
 
-The portrait prompt is written in `images.md` § 20 by Fable; this is the
-vocabulary it should draw on, structure first and never a resemblance.
+The prompt of record is Ulessa's in `images.md` § 20, the generator's input
+for the filed frame; a new Mnemari prompt starts from it. **Rules learned:**
+the working limbs hang curled beneath the body and touch nothing (a limb laid
+on a table returns a human hand); state *exactly three legs*; say the chairs
+are empty and nobody is in frame; ask for natural full colour and normal
+exposure, never *muted*.
 
-**Vocabulary.** *A large, level-backed, six-limbed walker, its back at the
-height of a standing person's chest; four long legs on broad padded feet with
-short splayed blunt toes; two shorter working limbs set beneath the base of
-the neck, each ending in a ring of short blunt jointed digits, resting on or
-folded beneath the table's edge; a short thick neck carrying a long, low,
-wedge-shaped head forward at the line of the back; one large dark eye on each
-upper side of the head; two narrow breathing slits at the tip; no mouth
-visible from the side; no ears; broad oval hearing membranes flush with the
-hide on each flank behind the shoulders; a dry, matte hide with a fine close
-nap, one muted dun-grey tone; a few pale healed seams; no tail. Standing at a
-table, attending to the speaker by turning one side of the head toward them.*
-
-**Standard negative.** *humanoid, human face, human torso, upright posture,
-biped, two arms, centaur, sphinx, elf, pointed ears, robes, circlet, glowing
-skin, grey alien, large black eyes, big bald head, horse, pony, camel, llama,
-alpaca, deer, giraffe, elephant, trunk, tusks, horns, mane, tail, hooves,
-external ears, teeth, insect, mantis, mandibles, antennae, dragon, lizard,
-scales, wet or glossy skin, white hair, beard, wrinkles, aged, frail, wise
-elder, sorrowful gaze.*
-
-**Triage** keeps § 20's three steps; the first now reads against this
-section: a body with an upper torso, a face, forward eyes, ears, hooves or a
-tail fails on sight.
+**Standard negative.** *grey, monochrome, desaturated, drab, people, a second
+figure, humanoid, human face, human hands, fingers, spider, harvestman,
+insect, crab, octopus, jellyfish, tentacles, war machine, tripod robot,
+walking machine, metal, horse, giraffe, elephant, dinosaur, bird, frog, toad,
+hooves, a tail, horns, teeth, an open mouth, clothing, big round eyes, cute
+face, readable text, screens, lit ceiling panels, visible lamps, windows, 3D
+render, CGI, cartoon, toy, concept art.*
 
 ### Where this goes
 
@@ -1092,9 +1056,8 @@ tail fails on sight.
   was regenerated with the time device (`make-emblem-card.ps1 -Device
   sundial`). No other body point is written to a public page; they wait for a
   page that needs them, on the Cerebraun pattern.
-- **Ulessa's portrait** (`images.md` § 20): the prompt was written on Fable
-  later the same night from this section's vocabulary and standard negative,
-  by structure and never by likeness; generation waits on the desktop.
+- **Ulessa's portrait** (`images.md` § 20): filed 20 October 2026 in the
+  re-made body, after nine rounds; the entry records what failed on the way.
 - **Ilenne's illustration** is owed (`images.md` § 5m), a world's prompt being
   Opus's under the 16 October rule; not written here.
 
