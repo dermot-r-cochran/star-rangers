@@ -30,6 +30,7 @@ Her command experience in boundary-edge conditions has given her a precise skill
 See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-and-uniform/) for what each rank actually authorises.
 
 - **Before Season 1:** Novice → Cadet → Deputy → Officer → Senior → Principal → Section Lead → Chief — the whole climb on the piloting and navigation track, no rotations, one specialization
+- **2809 UCSD, Late Winter:** Senior, nine years on the track, flying the Survey Corps relief hull *Steerage Way* into [Deadwater](/star-rangers/lore/universes/deadwater/) by the one certified route and home: the lock margin under floor with the lattice warm and nothing wrong, the sheet's harmonic launch at full power absorbed within light-minutes, and the margin back on the home side, where she wrote the figure and nothing else. Star Captain Asteria was aboard, with no duty requiring it, and did not ask her what she had seen ([Under Full Power (S01E00C09)](/star-rangers/seasons/s01/e00/s01e00c09/))
 - **Season 1:** Chief Pilot, pilot department
 - **Through the summer of 2828 UCSD:** still Chief Pilot at Threshold ([Aware of Weather (S03E02C01)](/star-rangers/seasons/s03/e02/s03e02c01/))
 - **By the early autumn of 2828 UCSD:** Starwarden, out of the Chief Pilot's chair, with a new Chief Pilot in it ([Pending a Lead (S03E02C02)](/star-rangers/seasons/s03/e02/s03e02c02/)); her post, the date of the step and her successor are not recorded
