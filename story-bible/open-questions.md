@@ -138,7 +138,6 @@ same rule:
   in each member's reckoning and not reconciled; the Rangers' first table is
   sent to Ulessa. Osune's portrait is owed from the Mnemari body in
   `species-design.md`, not yet prompted.
-  contact with the Rangers.
 - [x] ~~**Chthonari** — `src/lore/chthonari.md`, `src/lore/undersong-belt.md`,
   `src/lore/tsittak.md`, `src/characters/kettsa.md`, `kattik.md`, `tekka.md`,
   `tsikk.md`, `tikket.md`, `story-bible/mind-design.md` (Chthonari section).
