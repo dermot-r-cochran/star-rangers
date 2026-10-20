@@ -47,6 +47,55 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## An Ollune marker of the crossing, Ilyare — Dermot's *the Ollune line* of 20 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+Dermot, 20 October 2026: *the Ollune line*, the next unticked line of the
+14 October worklist below. Drafted as `src/characters/ilyare.md`, grounded
+only in `ollune.md`, `glossary/ollune.md`, `planets/cirrane.md`,
+`federation-of-sentient-beings.md` (*Member Worlds*),
+`the-ladder-in-other-tongues.md` (*Ollune*), `what-the-record-refuses.md`
+and the ruled Ollune sections of `species-design.md`, `mind-design.md`,
+`language-design.md` and `civilian-dress.md`, with the rest marked absent in
+a *What the Record Does Not Carry* section; portrait prompt in `images.md`
+§ 21, not generated, so the page carries no `image:`.
+
+**The two marked absences are honoured, not filled.** Choice 3 of the
+14 October *In the Corps* section (ruled A: an Ollune in the Corps is not
+established, with the reason marked) and the Federation's standing item (the
+Ollune delegate is generally not in the room) both stand: Ilyare is no
+Ranger, wears no uniform, serves from no hull, is not the delegate, is not
+one of the handful who travel, and has never been in any room. The worklist
+line asked for a person to speak for a people with full lore and nobody; it
+did not ask for a Ranger or a delegate, and the page gives neither.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Ilyare*, a coined name rendered as the Federation record's
+spelling of a far-word call, untranslated, with no meaning asserted, since
+the people's page gives no naming practice and its two attested words,
+*Ollune* and *Freyari*, give the sound; the alternatives are a name rendered
+by its meaning on the Tally convention, which the Ollune renderings of the
+ladder would invite, or a name fitted to a sound he gives); **the pronoun**
+(*they*, the people's page's own usage of an individual Ollune, *an Ollune
+who stops attending to their own buoyancy sinks*; no pronoun system is
+declared for the people and none is proposed); **the role** (marker of the
+crossing, the glossary's own example: *the decision to cross is a near word,
+marked by a named individual, and it will still be readable years
+afterwards*; the page asserts no mechanism for how the marker is chosen,
+only that the marks are Ilyare's); **the place** (a shoal of a band the
+record does not name, listed by depth, bearing and phase and the notation not
+reproduced, since a position without its time fails to denote one, which is
+the people's own rule); **the carriage** (party to at least one agreement
+constituted across bands by courier, which `ollune.md`, *Trade*, says is the
+load-bearing member of the economy; which carrier is not said, so no Ranger
+is placed at the shoal and the Corps' courier role is neither claimed nor
+denied); **the era** (2826 UCSD, the record's present, and nowhere else).
+Not asserted: an age, the span of an Ollune life, the hold's members, the
+shoal's name, how a shoal's position on an assembly matter is arrived at
+(`mind-design.md` marks it not established), the far-word call itself,
+whether Ilyare has met a Krenyi or a Ranger, any chapter. Not done: no
+chapter; no link from `ollune.md` or `cirrane.md`, since neither lists
+people; no image generated.
+
 ## A Mnemari treaty-witness, Ulessa — Dermot's *Yes please* of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; the body RULED *"1 A"* the same night and derived; the portrait prompt is Fable's
 
 Dermot, 19 October 2026: *Yes please* to a Mnemari character page and
@@ -233,7 +282,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 
 **Federation peoples with full lore and nobody to speak for them** (no character, no POV):
 - [x] ~~**Mnemari**: `src/lore/mnemari.md`, with no home-world page (Ilenne).~~ — **filled 19 October 2026** (Fable, PR named in the section *A Mnemari treaty-witness, Ulessa* above): `src/characters/ulessa.md`; the portrait waits on a body design, `images.md` § 20. Ilenne still has no page. *Update, same night:* Ilenne's page and the Mnemari body landed at his *"1 A"* (section above); the portrait prompt is Fable's.
-- [ ] **Ollune**: `src/lore/ollune.md`, `src/lore/planets/cirrane.md`.
+- [x] ~~**Ollune**: `src/lore/ollune.md`, `src/lore/planets/cirrane.md`.~~ — **filled 20 October 2026** (Fable, at Dermot's *the Ollune line*; the section *An Ollune marker of the crossing, Ilyare* above records the choices): `src/characters/ilyare.md`, at home in Freyari and in no uniform, so the choice-3 absence stands; portrait prompt `images.md` § 21, not generated.
 - [ ] **Prismeri**: `src/lore/prismeri.md`, `src/lore/planets/prismere.md`. They are seen only through Halle Ostrander's drawings.
 
 **Peoples under a power not their own:**
