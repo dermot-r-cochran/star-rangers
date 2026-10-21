@@ -242,7 +242,7 @@ same rule:
   and the skin-display channel no transcript carries. The Union–Hegemony
   arrangements stay unpublished, the Sentinel's authorship unsettled, and the
   Hegemony's own dating of anything is not held.
-- [ ] **Krenyi** — `src/lore/krenyi.md`, `src/glossary/krenyi.md`,
+- [x] ~~**Krenyi** — `src/lore/krenyi.md`, `src/glossary/krenyi.md`,
   `src/characters/syra.md`, `ilvane.md`, `arashobal.md`, `toval.md`,
   `src/codex/the-cloth-as-taught.md`. Voice: **in their own calendar**, in the
   material form. They withhold the *placing*, so the entry gives history and
@@ -250,7 +250,24 @@ same rule:
   conversion between their calendar and UCSD (Toval's page names *the Corps'
   conversion* and gives no figures), so before this entry either the
   conversion is defined (a definition, Opus's) or its dates stay in the Krenyi
-  reckoning, unconverted and marked.
+  reckoning, unconverted and marked.~~ — **drafted 21 October 2026** (Fable,
+  by the daily Fable fill; taken ahead of the Cerebraun line at the fill's
+  brief; PR #1414): `src/codex/what-still-does-work.md`, by Sevrane, a Krenyi formerly
+  of the Star Rangers, corps and rank withheld at her asking
+  (`src/characters/sevrane.md`). The second shape was taken, no conversion
+  defined: every figure is in the Krenyi count, unconverted and marked so by
+  the receiving desk; the count's beginning and its unit are withheld by the
+  author as a placing, and no count is set beside any event the record dates
+  in UCSD, including her own joining, so nothing in the entry fixes a
+  conversion. A history as the Krenyi keep one, what still does work: the
+  oldest kept thing a gap, two figures with nothing at either; a rounded
+  figure withdrawn; the blood given to a human; a Champion written up
+  afterwards; her going, her rank gone from speech, one colleague seen out,
+  and the placing declined in words. No homeworld, no origin, no first Krenyi
+  in the Corps. Sevrane's portrait is owed from the Krenyi kind; prompted
+  21 October 2026 (Fable, `images.md` § 25), not generated. The entry's title
+  card is owed too (the `make-codex-cover.ps1` line is in § 25); the entry
+  carries no `image:` until it is made.
 - [ ] **Ollune** — `src/lore/ollune.md`, `src/lore/planets/cirrane.md`,
   `src/glossary/ollune.md`, `src/characters/ilyare.md`. Voice: **the far word and the near word**, terms
   drafted to hold between parties who cannot confer, and a first contact filed
