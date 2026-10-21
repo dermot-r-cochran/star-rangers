@@ -225,4 +225,4 @@ Declining to build them is not declining to work beside them: a Krenyi Ranger se
 - **"Nai"** as a state-marker: means "still relevant here" — not a title, not a greeting, but an acknowledgement that this person is present and engaged.
 - **Quiet-Built**: a descriptive term for their mode of self-construction through patience and clarity rather than force or speed.
 
-See also: [Mnemari](/star-rangers/lore/mnemari/), a Federation species whose indefinite lifespan and undecaying memory make an instructive contrast with Krenyi longevity — centuries "without apparent degradation" for the Krenyi, versus no natural upper bound at all for the Mnemari.
+See also: [Mnemari](/star-rangers/lore/mnemari/), a Federation species whose indefinite lifespan and undecaying memory make an instructive contrast with Krenyi longevity — centuries "without apparent degradation" for the Krenyi, versus no natural upper bound at all for the Mnemari; in the Codex, [What Still Does Work](/star-rangers/codex/what-still-does-work/), a Krenyi's own account of her people's history in their own count, valid for its author.
