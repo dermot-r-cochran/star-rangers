@@ -105,6 +105,7 @@ const PEOPLES = [
     pageBody: ["src/lore/chthonari.md", "six-limbed, exoskeletal, and built low and dense"],
     portraits: {
       kattik: { check: "agrees", evidence: ["src/characters/kattik.md", "a small six-legged Chthonari"], note: "Filed 11 October 2026 with Tekka, Tsikk and Tikket as one set." },
+      akkit: { check: "agrees", evidence: ["src/characters/akkit.md", "a low, broad, segmented body"], note: "Filed 20 October 2026 at his pick, variation 2, with filed Chthonari frames as body references." },
       kettsa: { check: "agrees", evidence: ["src/characters/kettsa.md", "a small six-legged Chthonari"], note: "Filed 19 October 2026 from the two filed Chthonari frames as references." },
       tekka: { check: "agrees", evidence: ["src/characters/tekka.md", "a small six-legged Chthonari"], note: "" },
       tikket: { check: "agrees", evidence: ["src/characters/tikket.md", "a small six-legged Chthonari"], note: "" },
@@ -143,6 +144,7 @@ const PEOPLES = [
       note: ["The tripod with a slung body and a head on a long neck replaced the six-limbed walker of 19 October", "Dermot rejected it after three rounds"],
     },
     portraits: {
+      osune: { check: "agrees", evidence: ["src/characters/osune.md", "three tall arched legs meeting at a hub"], note: "Filed 20 October 2026 at his pick, variation 3; the tripod reads plainly." },
       ulessa: { check: "agrees", evidence: ["src/characters/ulessa.md", "standing on three tall arched legs that meet at a hub above her"], note: "Filed 20 October 2026 in the re-made body, after nine rounds." },
     },
   },
