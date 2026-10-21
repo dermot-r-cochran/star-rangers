@@ -45,6 +45,12 @@ const SRC = path.join(REPO, "src");
 // this walks all of src/ instead of just src/glossary and src/lore.
 const RESOLVABLE_LAYOUTS = ["glossary-entry.njk", "lore-entry.njk"];
 
+// A chapter's `related:` also feeds *From the Archive*, which resolves
+// glossary, then lore, then codex (lib/archive-companions.js), so a chapter
+// may name a codex entry; glossary and lore pages still resolve the two above.
+const CHAPTER_LAYOUT = "chapter.njk";
+const CODEX_LAYOUT = "codex.njk";
+
 function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
@@ -80,6 +86,10 @@ for (const { file, data } of parsed) {
 // which is nearly always an accident worth seeing.
 const duplicates = [...titles.entries()].filter(([, paths]) => paths.length > 1);
 
+const codexTitles = new Set(
+  parsed.filter(({ data }) => data.layout === CODEX_LAYOUT && data.title).map(({ data }) => data.title)
+);
+
 const problems = [];
 let checked = 0;
 
@@ -102,6 +112,7 @@ for (const { file, data } of parsed) {
     seen.add(term);
 
     if (titles.has(term)) continue;
+    if (data.layout === CHAPTER_LAYOUT && codexTitles.has(term)) continue;
 
     // Near-miss hints, since the cause is almost always a small drift:
     // an article, a case change, or a title that gained a parenthetical.
