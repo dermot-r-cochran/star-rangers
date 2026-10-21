@@ -13,7 +13,7 @@ image: agent-barsik.jpg
 image_alt: "Agent Barsik, a sleek black cat with amber eyes and a plain round tag on his collar, sitting upright in the middle of an empty desk in a warm, rounded Eden office, a plant on the sill and the habitat's terraces through the window behind him."
 ---
 
-Eden Space Habitat runs on paperwork. Compliance framework, monitoring officer sign-offs, twelve requirements and counting since the *Constant Margin* transit — every fold-adjacent anomaly gets a form, and every form gets filed somewhere a committee will eventually read it, months late. Agent Barsik has read most of them first.
+Eden Space Habitat runs on paperwork. Compliance framework, monitoring officer sign-offs, thirteen requirements and counting since the *Constant Margin* transit — every fold-adjacent anomaly gets a form, and every form gets filed somewhere a committee will eventually read it, months late. Agent Barsik has read most of them first.
 
 The Undercover Pets Detective Agency stations smart pets exactly where Aldera's own file already explains: cognitive architecture that doesn't layer rationalisation over raw signal, in postings where nobody looks twice at a cat on a desk. Eden's staff assume Barsik is the station mascot. This is the point. A mascot gets left alone with the paperwork.
 
