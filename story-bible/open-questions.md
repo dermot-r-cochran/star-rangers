@@ -47,6 +47,194 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A plural system whose members want different things — raised 21 October 2026, OPEN, his pick (three options, A recommended)
+
+Dermot, 21 October 2026, to the opening that a survey of the 148 character
+pages had found Sohrel the only plural mind with an inner pull, and Shepherd,
+Tobble and Asteria, Sen, and the Eden Warden recorded as harmonious
+(`intake-2026-10-21.md`), verbatim: *"Yes, agreed."* Then, verbatim and
+binding on every option below: *"However I do not want plural systems to ever
+be seen as a mental disorder of any kind if is there are conflicting views
+within the system."* The condition is now a rule in `CLAUDE.md` (*Disagreement
+inside a plural system is never disorder*). Which system, which member and what
+they want are canon and his; this section puts three options and recommends
+one. Nothing on a character page, chapter or lore page changes until he picks.
+
+**What the record already holds, read before the options.** The survey read
+the character pages, and on the pages the three systems are harmonious. The
+chapters and the Codex are less tidy, and this is grounding, not a correction
+of the survey: (1) at Dock Seven Shepherd told Tobble, inward, *"You should go
+with the ship's second"*, and Tobble answered *"We are not on a shuttle. Do the
+arithmetic again"* (S05E02C03); at the Starwarden posting he *"had opinions
+about Wender that he kept, for once, to himself"* (S05E00C01). (2) Sen's three
+declined to file the Arilon comparandum *"not quickly"* and *"not for the same
+reasons"*, Wyn having *"wanted to file it since the first week"* and Sen
+declining because *"I am not yet willing to pay what signing costs"*
+(`src/codex/shepherd-among-the-comparanda.md`, Part Two, Sen's own hand, valid
+for its author); in S06E02C01 Cael says *"You could"* annotate and Sen does
+not. So the opening is not the record's first disagreement between members.
+It is the first time one member's want is made a standing difference the
+others do not share, placed in a scene. Two notes on scope: Sohrel is a
+Cerebraun, and the 20 October pronoun ruling declares the nine centres one
+person (`cerebraun.md`; `mind-design.md` closes *"a plural reading"*), so the
+survey's one inner pull is a body's negotiation with itself, not a plural
+system's; and Asteria, the member of Shepherd's system, has no line anywhere
+in the record, so anything she wanted would be invented, and she is not
+offered below. Dail Coppen, the four-member rigger of
+`scene-draft-one-warmth-in-the-room.md`, is a draft and a minor figure, and is
+not offered either.
+
+**What every option is bound by.** The disagreement reads as ordinary
+difference between real people sharing a life, the way two colleagues at one
+desk or two people in one house differ: never a symptom, a breakdown,
+instability or a case for treatment, and no Medical Corps or clinical reading
+of it stands in the record's voice; a character who reads it that way is
+answered on the page, the way Assessor Marchant's *"assessment road"* is
+answered in *One Warmth in the Room*. Plural terms as the record uses them
+(`src/glossary/plural-minds.md`, morethanone.info and Pluralpedia in
+`ideas.md`): system, member, headmate, fronting; *every member is real*. The
+dialect device (ruled 10 October 2026) carries who is speaking in lexis and
+rhythm, never a tag and never phonetic spelling, and *a speech difference is
+never a tell for the dangerous one*; there is no dangerous one. Refused by the
+trope default: the hidden member who takes over, the evil alter, and fusion or
+integration offered as a cure; the word *well-integrated* on Shepherd's page
+describes people working together and is never a resolution. *A layer is
+structure, never standing* (`what-a-mind-is-carried-by.md`): the member who
+fronts most, or signs, holds a role, not a rank over the others, and a
+disagreement is never settled by one member outranking another.
+
+### Option A (recommended): Sen Lovax, Wyn
+
+- **The want.** Wyn wants the desk to answer for what it finds: the cost of a
+  silence named *on the record and under a name*, where Sen wants the desk
+  unsigned and read, and Cael wants nothing said that the shelf does not hold.
+  Grounding, all on record: Wyn is *"the reason Sen's marginal annotations
+  tend to name the cost of an institutional silence"* and *"Sen's signed work
+  is smaller than Sen's unsigned work"* (`src/characters/sen.md`); *"Eleven
+  years of notes, and not one of them had ever argued"*, Cael's *"You could"*,
+  and Sen's *"an argument wearing one"* (S06E02C01); Wyn's *"I am saying what
+  it cost to carry"* and the *"fifth thing"* the desk did not say (S07E01C03);
+  and the Comparanda, where Wyn wanted the filing, Sen named the real reason
+  for declining as the price of a signature, and Marginalia closed with *"You
+  have signed it. It is at the top of the page."* The pull is already there in
+  Sen's own account. The option makes it standing: Wyn wants the desk to sign,
+  and keeps wanting it, and the desk does not.
+- **Where it shows.** A Sen block in Season 7 after S07E01C03 (2831 UCSD, Deep
+  Winter), where Wender's account and Rook-7's element have left the desk a
+  thing it declined to say; or the Comparanda's own date, 2833 UCSD, Early
+  Spring, when the document that *"requires only a signature it does not
+  currently have"* is reopened. Both slots exist in the record; neither chapter
+  is written. The unpublished *One Warmth in the Room* (slot unfixed) already
+  has Wyn's *"Say who it's for"* and Sen complying, and could carry the
+  difference instead if he prefers a hearing to the desk.
+- **Runs against.** `src/characters/sen.md`, *Character Notes*: *"Sen has never
+  lost an argument about whether a closed incident report should stay closed.
+  Colleagues describe this as persistence. It is more precisely three people
+  agreeing, independently, that it shouldn't."* That line is about one subject,
+  reopening, and stands; the option disagrees about signing, not reopening.
+  S06E02C01's *"not one of them had ever argued"* is about the notes, not the
+  people, and stands. `intake-2026-10-21.md` lists Sen among the harmonious;
+  Sen's page itself never uses the word.
+- **The condition.** A method dispute among three archivists about what their
+  desk owes the record, in a Codex entry that already files three different
+  reasons as *"not indecision"*. Nobody in the Survey Corps has standing to call
+  it anything else, and the one character who has tried (Marchant) was answered.
+- **Illustrative only, not canon and not for a chapter**, to show the register:
+  *"Sign it," Wyn said, "or stop calling it a scruple." Sen filed the note as it
+  stood, unsigned, and the three of them went home in the one body, still
+  disagreeing, which was how most evenings ended and nobody's business.*
+
+### Option B: the Eden Warden, Custos
+
+- **The want.** Custos wants to ask the welfare question nobody has asked:
+  whether the cyber-enhanced animals the Undercover Pets Detective Agency keeps
+  at Eden fall under the Warden's welfare authority, which the page says is
+  *"not a question Custos has been asked, and therefore not one Custos has
+  answered"*, and to exercise that authority *"on the public record"*, where
+  Ward wants the collective to answer what it is asked, carry questions *"to
+  the offices that hold authority"*, and never let one office *"hear a version
+  of events the other didn't"* (`src/characters/eden-warden.md`). Custos has
+  already filed that the two lines of authority are *"worth watching rather
+  than trusting"* and corrected a memo by question; Ward's warmth is read by
+  Wayland as Custos *"leaking through"*. The pull: Custos wants to raise it
+  unasked; Ward wants not to.
+- **Where it shows.** The Undercover Pets thread, Season 2, after S02E11C01, or
+  a Codex filing from Eden's records office; the page supplies the device,
+  *"two distinct voices, two distinct decision records, one accountable
+  system"*, so a filing where Ward's record and Custos's record differ is
+  already lawful in-world. The Warden holds no POV block (ruled 29 September
+  2026), so a chapter sees it through Reeves, Lucene-9000, Oyelaran or Barsik.
+- **Runs against.** Nothing on the page says harmonious; *"The two lines have
+  never yet conflicted"* is about Oyelaran's line and the Warden's, not Ward and
+  Custos. But two live constraints weigh: whether the Warden is plural at all
+  is unsettled and the record declines to file it (`plural-minds.md`,
+  *A synthetic case*; `what-a-mind-is-carried-by.md`; `intake-2026-10-14.md`,
+  the inward-speech ruling), so a disagreement must read consistently with both
+  readings and the narration may not settle it; and the Warden is a made mind,
+  so a reader could take two personas disagreeing for a fault under the Kernel,
+  which the draft would have to answer in Custos's own idiom. The Warden page
+  sits on undercover-pets.com, so the register must hold read aloud; roommates
+  who disagree holds there well.
+- **The condition.** Two custodians of one habitat differing about when to
+  speak: an administrative difference, and the Compact administrator who reads
+  it as a malfunction is answered by the question idiom the page already gives
+  Custos.
+
+### Option C: Tissadelle Shepherd's system, Tobble
+
+- **The want.** Tobble wants her back, and wanted her to stay; she wanted him
+  safe and wants a clean ending. Both halves are on record and have never been
+  set against each other as a standing difference: *"Do the arithmetic again"*
+  at Dock Seven (S05E02C03); he *"has never once called it a rescue"*
+  (`src/characters/tobble.md`); *"he had wanted her back. He had wanted it
+  every morning since the morning she said the thing she said"*
+  (`scene-draft-youre-up-early.md`, approved 5 September 2026); and her
+  terminus register, fond farewell with almost no grief, *enough is enough*,
+  *"Happy New Universe, Tobble dear"* (`tissadelle-arc-s6-7.md`, 27 August
+  2026). The pull: he wants to keep her and lets her go; she wants to go
+  cleanly and does not ask him to agree.
+- **Where it shows.** `scene-draft-terminus-farewell.md` (directions approved
+  27 August 2026, slot unfixed): one exchange where he says what he wants and
+  she declines it, before the authored closing line; *You're Up Early* already
+  carries the want stated afterwards.
+- **Runs against.** `src/characters/tissadelle-shepherd.md`, *Who fronts, and
+  when*, verbatim: *"**Hers is a harmonious, well-integrated system** — the
+  members work together, the handovers are unremarkable to everyone involved,
+  and the arrangement has never once produced the incoherence a reviewer
+  looking for it expects to find."* This is the strongest harmonious line in
+  the record. Its plain sense is about handovers and coherence, not identical
+  wants, and the Dock Seven exchange already sits under it; but the option does
+  run against the sentence as a reader meets it, and he should pick it knowing
+  that. The 23 September rule also binds: the system's part in one noögenic
+  founding is one case, never a property of plural minds.
+- **The condition.** The hardest of the three to write safely, because the
+  difference lands at the catastrophe, beside *"catastrophic paradox load
+  fractures a plural mind unevenly"* (S05E02C03 canon fact), which is exactly
+  where a reader could mistake difference for fracture. The draft would have to
+  keep the want and the fracture in separate sentences and let nobody on the
+  station read one as the other; the reviewer *"looking for a welfare concern"*
+  is already answered on her page.
+
+**Recommendation: A, Wyn.** The basis, named: the pull is already in the
+record in Sen's own hand and in two published chapters, so making it standing
+is an extension of a page, not a new assertion about a mind; the dialect device
+was ruled for these three first, so who wants what is carried in how a
+sentence is built and needs no tag; the three hold a live question only they
+can settle, whether the desk signs, which gives the disagreement somewhere to
+go and a plain ending available as a recognition rather than a reveal
+(Marginalia's *"You have signed it"* is the shape); the lines it runs against
+are narrower than the Shepherd page's and are about other subjects; and the
+matter is work, what a desk owes a record, which keeps the difference in the
+roommate register and as far from the Medical Corps as the record can put it.
+Against it: it is the least novel option, since a reader has seen the three
+differ, and it is set at a desk rather than at the arc's centre. B is the most
+novel and the most constrained, since the record declines to say whether the
+Warden is plural; C carries the most feeling and the most risk under his
+condition. **When he picks:** Fable drafts the scene for that slot in the house
+voice and the system's page gains an extension naming the standing difference;
+the *harmonious* line stays, clarified if C, since harmony and identical wants
+were never the same claim. Until then nothing in `src/` changes.
+
 ## The Cerebraun pronoun — `mind-design.md`, *Gender, kinship and the self*, raised 20 October 2026, RULED the same evening: A (Dermot's *"Cerebraun pronoun A: they, and match the four its on cerebraun.md"*); declared on `cerebraun.md` with the four *it*s turned to match
 
 Found while writing the gender and identity section (Opus), at Dermot's
