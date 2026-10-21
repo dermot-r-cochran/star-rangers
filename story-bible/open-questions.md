@@ -252,7 +252,7 @@ same rule:
   conversion is defined (a definition, Opus's) or its dates stay in the Krenyi
   reckoning, unconverted and marked.~~ — **drafted 21 October 2026** (Fable,
   by the daily Fable fill; taken ahead of the Cerebraun line at the fill's
-  brief): `src/codex/what-still-does-work.md`, by Sevrane, a Krenyi formerly
+  brief; PR #1414): `src/codex/what-still-does-work.md`, by Sevrane, a Krenyi formerly
   of the Star Rangers, corps and rank withheld at her asking
   (`src/characters/sevrane.md`). The second shape was taken, no conversion
   defined: every figure is in the Krenyi count, unconverted and marked so by
