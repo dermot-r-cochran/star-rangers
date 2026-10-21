@@ -12,7 +12,7 @@ image: "rasa-oyelaran.jpg"
 image_alt: "Superintendent Rasa Oyelaran, a woman with short grey hair in a grey jacket over a maroon shirt, standing in a doorway in the foreground while two colleagues talk at a table in a bright, pale office behind her, terraces through the window."
 ---
 
-Rasa Oyelaran runs the closest thing Eden Space Habitat has to an ordinary police detective bureau, and has done so long enough to stop being surprised by how much of it isn't ordinary at all. Eden's compliance framework — twelve requirements and counting since the *Constant Margin* transit — routes most of its stranger paperwork through her office eventually, whether or not it was written with a civil detective bureau in mind.
+Rasa Oyelaran runs the closest thing Eden Space Habitat has to an ordinary police detective bureau, and has done so long enough to stop being surprised by how much of it isn't ordinary at all. Eden's compliance framework — thirteen requirements and counting since the *Constant Margin* transit — routes most of its stranger paperwork through her office eventually, whether or not it was written with a civil detective bureau in mind.
 
 She answers to [Space Commissioner Zara Wayland](/star-rangers/characters/zara-wayland/), one tier up in the [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/)'s civil administration — a structure that governs Eden's day-to-day habitat life and policing, running alongside, not through, the Star Rangers' Survey Corps and Solar System Defence Command joint oversight of the [Eden Passage](/star-rangers/lore/eden-space-habitat/) itself. The two chains rarely need to talk to each other, which both sides consider a feature.
 
