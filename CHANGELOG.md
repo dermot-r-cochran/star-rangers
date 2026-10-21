@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.46.0] — 2026-10-21
+
+A codex history of the Krenyi in their own voice, *What Still Does Work*, and a rule for when a codex entry earns its place. The Earth note gains proposed readings on power, weapons and the end of fossil fuels, three continuity faults are fixed in place, and three options are put to Dermot for a plural system whose members want different things.
+
 - **Options for a plural system whose members want different things** (`story-bible/open-questions.md`, 2026-10-21, at Dermot's *"Yes, agreed"*). Three options are put to him, each naming the system, the member, what that member wants that the others do not, the slot it would show in, and the line in the record it runs against: Wyn at Sen's desk, wanting the cost named under a name (recommended, with the basis stated); Custos in the Eden Warden, wanting a welfare question asked unasked; Tobble in Shepherd's system, wanting her back where she wants a clean ending. Every option is bound by his condition of the same day that disagreement inside a plural system is never a disorder. The pick is his; no page changes.
 
 - **Three continuity faults fixed in place** (`src/seasons/s01/e03/s01e03c02.md`, `src/seasons/s02/e07/s02e07c01.md`, `src/seasons/s04/e02/s04e02c02.md`, `src/characters/imogen-petrakis.md`, `src/characters/agent-barsik.md`, `src/characters/rasa-oyelaran.md`, 2026-10-21, Dermot's *"Yes, agreed"*). Rook's model withdrawal now gives the Dock Seven discrepancy as forty seconds, the figure every report he cites records, not forty-two. *Somebody's Cat*'s canon facts now match its prose: Zhulik was found in the berth before the crate reached the loading chain, not at the ramp. Mayor Petrakis's Deep Winter 2827 count of Eden's requirements is thirteen, the thirteenth having landed in late summer; three character pages that still said twelve-and-counting now say thirteen. Two further flags, Sorcha Shepherd's hero's citation and the family's land, were read and cleared as no fault.
