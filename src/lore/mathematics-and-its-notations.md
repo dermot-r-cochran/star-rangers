@@ -57,6 +57,8 @@ The record does not say which notation is best. Each was made for a body, a medi
 
 It does not say that mathematics is the same everywhere. It says that mathematics is the same everywhere *the record has been*, which is inside one regime, and that past the regime's edge the question cannot be put in a form an instrument could answer.
 
+It does not hold that anything is made of mathematics. A being exists under a regime, as something its mathematics describes; the regime is not a place in which anything lives. So a creature of pure number, a mind living in the axioms, or a pattern alive in a proof is not a rare thing still waiting to be found. It is a category error, the same kind as counting the Upper Structure. What looks like one is something physical that mathematics describes well, and the record files it as that.
+
 And it does not say what a Metawright is like. It says what a Metawright does, from inside the work, the way the [Archewright](/star-rangers/lore/archewright/) is read only in the handwriting.
 
 ## See also
