@@ -148,6 +148,8 @@ Neither exception weakens the one-way flow of causality. They describe how the l
 
 **Ranked within, and flat within.** Only two strata are graded inside themselves: the Celestials and the Levrils. Every other stratum differs within itself by domain or function, never by grade — Mediarchs by the force each embodies, the matrix's two branches by what each carries, the design strata by what each defines — so a question about which of two Mediarchs outranks the other has no answer, because it asks the wrong kind of question. Champions are not graded either: a Champion's standing is causal relevance, assessed by a Levril, not a rank held.
 
+**Graded, and of a lineage.** The two graded strata carry a second axis beside the grade, and it is the Mediarchs' axis carried down: each Celestial and each Levril holds its delegation from one Mediarch, and works in that Mediarch's force-domain. The record calls this its **lineage** (see *Celestials*, *Lineage*). Grade says how much is entrusted; lineage says through which force. Because the Mediarchs are flat within, so are the lineages, and no lineage outranks another.
+
 ## Upper Structure (Hyperomnium, Kieme, Conseleme)
 
 ### Definition
@@ -249,6 +251,18 @@ A Celestial's attention is never smaller than a galaxy and is usually wider. The
 ### Internal Order
 The Celestials are graded within their tier, as the Levrils are, and the grade is **delegation from the Mediarchs**: how broad a scope the Mediarchs entrust a Celestial to act within. The Telearchs allocate enforcement scope across Concordants; inside a universe it reaches the Celestials through the Mediarchs, who are the Telearch line's proxies there, so the grade is the Telearch line's trust as a Mediarch hands it down. It is a grade of authority, not of reach. What one enforcement action reaches is still set by the operation it addresses and nothing else (see *Scale*), so a Celestial of wide delegation acting on a narrow unlawful operation reaches exactly as far as that operation does. The grade says what a Celestial may be sent to; the operation says how far it goes when it arrives. The record holds no names for the grades and has not established how many there are. Two names it may be tempting to reach for are not available, because both are retired and both meant other tiers: *High Celestials* (the Telearchs) and *higher celestials* (the Mediarchs). See [High Celestials](/star-rangers/glossary/high-celestials/).
 
+### Lineage
+The delegation that sets a Celestial's grade comes from one Mediarch, not from the tier at large, and it carries that Mediarch's force-domain with it. A Celestial of the gravitational lineage keeps rule-integrity where gravity's operation crosses a boundary; one of the electromagnetic lineage keeps it where that force's operation does. The Levrils hold their delegation the same way (see *Levrils* below). The record calls this a being's **lineage**, and keeps it as a second axis beside the grade, never folded into it.
+
+Four things follow, and the record states each because each is easy to get wrong.
+
+- **A lineage is not a kind.** Celestials of two lineages are one kind of being doing one kind of work through different forces. The record keeps no separate catalogue of gravitational and electromagnetic beings, and a reader who builds one has built a bestiary the Cascade does not contain.
+- **Lineages are not ranked.** They inherit the Mediarchs' flatness. A wide delegation in one lineage and a narrow one in another compare by grade, never by force.
+- **Lineage is read from the signature.** What a being does runs through one force, so its lineage shows in the signature its work leaves at a boundary, the same invariant the record files it by. Where no signature was caught, the lineage is unplaced, and the record says so.
+- **Lineage is not leverage.** Knowing which force a being works through gives a Material-layer actor no way to summon, direct or answer it. The record files lineages as it files appearances, never as procedures.
+
+How many lineages there are is the same question as how many force-domains there are, and the record has not closed either. It names gravity, electromagnetics and Nature, and leaves the list open.
+
 ### Constraints
 - Cannot revise hierarchy order.
 - Cannot nullify Telearch directives.
@@ -264,6 +278,8 @@ Sapient meta-dimensional beings — the lowest Cascade tier with inherent higher
 
 ### Mechanism
 Levrils act through constrained, lawful influence channels opened by a higher-dimensional vantage. They can teach constraint literacy and select Champions from sentient material beings.
+
+Each Levril holds its delegation from one Mediarch, through whatever grade it holds, and works in that Mediarch's force-domain: its **lineage**, on the same terms as a Celestial's (see *Celestials*, *Lineage*).
 
 ### Constraints
 - No Concordant rewrites.
