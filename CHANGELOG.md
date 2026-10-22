@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.47.0] — 2026-10-22
+
+A new Cosmology entry, *Mathematics and Its Notations*, keeps the theorem a Metawright settled apart from the notations each people made for it, and states that no being is made of mathematics. Each Celestial and Levril gains a lineage beside its grade, Isserith joins the cast as the first Prismeri the record names, and six small continuity faults are fixed in place.
+
 - **Lineage for Celestials and Levrils** (`src/lore/cosmic-cascade.md`, `src/lore/levrils.md`, 2026-10-22, Opus, Dermot's *"Option A: each Celestial and Levril holds its delegation from one Mediarch and works in that force-domain, a domain beside its grade"*). An extension: each Celestial and Levril has a lineage, the one Mediarch it holds its delegation from, as a second axis beside grade or subclass. A lineage is not a kind, lineages are not ranked, it is read from the signature, and it confers no leverage. Lineage does not divide the chain of command. The Turquoise Dove's and the Kept Line's lineages are unplaced.
 
 - **No mathematical beings** (`src/lore/mathematics-and-its-notations.md`, 2026-10-22, Opus, Dermot's *"Option A for mathematical beings: none exist; a being made of mathematics is a category error"*). A clarification in *What the Record Does Not Claim*: nothing is made of mathematics, a creature of pure number is a category error of the same kind as counting the Upper Structure, and what looks like one is filed as the physical thing mathematics describes.
