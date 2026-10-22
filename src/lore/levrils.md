@@ -84,6 +84,16 @@ sense that would let it try.
 
 **Overbearers, Beautiful Monsters, and Threnes** are also meta-dimensional beings ranked below Celestials, but they are **not** Levrils and hold **no Cascade standing** — they are Class II Sapient Monsters, alongside Obligers and Gilded Saints. See [Meta-Dimensional Beings: Classification](/star-rangers/lore/meta-dimensional-beings/).
 
+## Lineage
+
+Beside its subclass, every Levril has a **lineage**: the one [Mediarch](/star-rangers/glossary/mediarch/) from whom it holds its delegation, and the force-domain it works in as a result. The [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) sets the rule out under *Celestials*, *Lineage*, and it holds for Levrils on the same terms. Subclass and lineage are separate axes. A Dragon may be of any lineage, and so may a Higher Levril; a Dragon's frontier work and a Higher Levril's cross-Concordant work each run through the force their lineage gives them.
+
+A lineage is not a kind of Levril. A Dragon of one lineage and a Dragon of another are the same subclass of the same tier, doing the same permitted work through different forces, and neither is the other's senior. The table above binds every lineage alike: no lineage widens what a Levril may do or narrows what is foreclosed.
+
+Lineage does not divide the chain of command. A Celestial's directive binds every Levril it reaches, whatever the lineage of either, because a directive is a matter of grade and lineages are not ranked.
+
+The record reads a lineage from the signature, as it reads everything else about a Levril, and it holds none for the two worked examples. The [Turquoise Dove](/star-rangers/characters/turquoise-dove/)'s signature is filed by its colour, and nothing in the field logs has been read for which force carried it. No signature was caught from [the Kept Line](/star-rangers/characters/the-kept-line/) at all. Both lineages are unplaced, and the Archive keeps them so rather than guess from the shape of the work.
+
 ## Two Occasions, One Constraint
 
 The operational limits above are easier to trust once they have been watched holding under two very different pressures, because the pair together rules out the reading that a Levril simply does what circumstances allow.
