@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Six small fixes from the critic read of PRs #1384–#1421** (2026-10-22, Opus, after a Fable read). Akkit's and Osune's pages no longer deny the portraits they carry; `earth-2826.md` gets back its two lost ruling headings, and its New London and Sceir Light dates now follow the record's own figures (three centuries before the present; a register of 217 years); Sunniva Holm's three earlier posts are counted as the chapter counts them; *Nothing Turned*'s crew's work log links to Kattik.
+
 - **Isserith, the first Prismeri the record names** (`src/characters/isserith.md`, `story-bible/images.md` § 26, `story-bible/open-questions.md`, 2026-10-22, Fable, by the daily Fable fill). The Prismeri line of the 14 October worklist is filled: a First Wings Prismeri of a lumenspire settlement on Prismere who fuses the settlement's glass by focused sun from the hang, for whom the Second Emergence has not come, in no guild and on no posting. Grounded only in the Prismeri pages, the rest marked absent. Whether a Prismeri on a Ranger liaison posting is a Ranger or a seconded guild member stays open, and the Prismeri history's guild author is still to be named. The portrait prompt is written, not generated.
 
 ## [1.46.0] — 2026-10-21

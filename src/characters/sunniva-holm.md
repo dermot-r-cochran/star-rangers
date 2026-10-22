@@ -12,7 +12,7 @@ image_alt: "Sunniva Holm, a Field Officer in her thirties with short ash-fair ha
 description: "The Field Officer on the operations watch at Starwarden Luke Valerius's post through a thirty-one-hour dominance window in the late autumn of 2825, who gave a salvage hull two times for every one thing, logged the turn against both clocks, and found the band in the hour after already named in the register."
 ---
 
-Sunniva Holm is a Field Officer who stands the operations watch, and the record holds her at one posting: the boundary-proximate post on the outward frontier that [Luke Valerius](/star-rangers/characters/luke-valerius/) answers for, in the late autumn of 2825 UCSD, about a month after she came to it. She had stood the operations watch on three posts by then and had been told at her briefing that this one was known for its unclassified transients.
+Sunniva Holm is a Field Officer who stands the operations watch, and the record holds her at one posting: the boundary-proximate post on the outward frontier that [Luke Valerius](/star-rangers/characters/luke-valerius/) answers for, in the late autumn of 2825 UCSD, about a month after she came to it. She had stood the operations watch on three posts before this one and had been told at her briefing that this one was known for its unclassified transients.
 
 ## What the Record Holds
 
@@ -26,7 +26,7 @@ She wrote the name on her own pad under the entry number, so that she would know
 
 ## What the Record Does Not Hold
 
-Her home world, her age and what she looks like. Her road into the Corps, her service track, and which corps the operations watch she stands belongs to. The two posts before this one, and how long she stayed at this one. What the post is called. Whether she still has the sheet, and whether she ever learned what the Starwarden saw in the hour after the turn, which the record carries only as his. The record holds her where it found her, at the desk with the log, and has not been asked for more.
+Her home world, her age and what she looks like. Her road into the Corps, her service track, and which corps the operations watch she stands belongs to. The three posts before this one, and how long she stayed at this one. What the post is called. Whether she still has the sheet, and whether she ever learned what the Starwarden saw in the hour after the turn, which the record carries only as his. The record holds her where it found her, at the desk with the log, and has not been asked for more.
 
 ## See also
 
