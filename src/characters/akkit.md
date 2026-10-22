@@ -37,7 +37,7 @@ On the posting Akkit says only that the humans were kind, the module was sealed,
 
 ## What the Record Does Not Carry
 
-Akkit's age, their burrow of origin and what it is tuned to, the Corps posting's place and years, the rank held at leaving, how long they have lived at Tsittak, and what they do there. Whether they knew [Kettsa](/star-rangers/characters/kettsa/), or the crew of four under Eden's dock ring, the record does not say; the Belt is dozens of burrow-clusters and the Corps' scaffold work is in several places. Their body, which no page describes beyond their people's: small, six-limbed, exoskeletal, low and dense, with the vibration organs along each limb and the lower carapace. No portrait is on file. The strikes themselves, which the Archive cannot feel, and the Undersong, which is not on file in any form.
+Akkit's age, their burrow of origin and what it is tuned to, the Corps posting's place and years, the rank held at leaving, how long they have lived at Tsittak, and what they do there. Whether they knew [Kettsa](/star-rangers/characters/kettsa/), or the crew of four under Eden's dock ring, the record does not say; the Belt is dozens of burrow-clusters and the Corps' scaffold work is in several places. Their body, which the portrait shows as the record now draws it: small, six-limbed, exoskeletal, low and dense, with the vibration organs along each limb and the lower carapace. The strikes themselves, which the Archive cannot feel, and the Undersong, which is not on file in any form.
 
 ## See also
 

@@ -351,9 +351,10 @@ overrule. The line beneath each gives its basis.
   the ice back, so it could not lower the sea, so it rebuilt the coasts to
   live with the water.
 - **New London's *"three centuries after they stopped"*.** The British Isles
-  stopped *drowning*, in the page's sense of losing ground to the sea, when
-  the fragmentation decades ended and the coasts were rebuilt to ride the
-  water. The sea's slow rise since has been ridden, not suffered: a harbour
+  stopped *drowning*, in the page's sense of losing ground to the sea, about
+  three centuries before the present (the 2320s CE, in the war decades, as the
+  Coherence Wars ruling allows), when the Crisis Centuries' last coastal
+  losses were over and the coasts had been rebuilt to ride the water. The sea's slow rise since has been ridden, not suffered: a harbour
   re-set, not a town lost. Read that way the sentence stands beside Venice's
   *"continuing rise"*. No page needs to change.
 - **No conflict found.** No page says the coastline was restored or the sea
@@ -425,8 +426,9 @@ and checks the names against it.
   on a schedule a child can learn"*, of *"knife-edge rock and drowned coves"*:
   a tidal island at a higher sea, the coves drowned by name.
 - **The light postdates the crisis** (derived from the dates). The Sceir
-  Light's register is about two centuries old, so the light was lit around
-  the 2620s UCSD (2420s CE), nearly three centuries after the fragmentation.
+  Light's register is two hundred and seventeen years old (`s01e01c03`), so
+  the light was lit around 2609 UCSD (2409 CE), more than two and a half
+  centuries after the fragmentation.
   *Proposed:* it was built for a coast that had finished rearranging itself
   enough to be charted again, at the end of a spit of shingle (`s01e01c03`)
   that is itself a product of the higher sea working the shore.
@@ -515,6 +517,8 @@ to `src/`, and each is one reading that fits what the record already holds.
     as an adventure setting (the tone rule; no post-apocalyptic register).
 
 
+### Earth in the Coherence Wars (ruled 20 October 2026, Dermot's *"A"*)
+
 **What the record says (derived).**
 - **The wars:** forty years, 2303–2343 CE (2503–2543 UCSD), with *three billion dead*
   across the Solar System (`solar-system-concord.md`, `the-imperium.md`,
@@ -546,6 +550,8 @@ register. In prose it is hinted at, never depicted (the tone rule). No figure
 is given for Earth's share of the three billion. This note is not the place
 to set one, and no chapter yet needs it.
 
+
+### No nuclear winter (ruled 20 October 2026)
 
 Dermot, verbatim: *"The nuclear winter did not happen"*. Earth's damage in this
 record is the Crisis Centuries: climate, sea level, the oceans' chemistry and
