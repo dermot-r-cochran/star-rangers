@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Isserith, the first Prismeri the record names** (`src/characters/isserith.md`, `story-bible/images.md` § 26, `story-bible/open-questions.md`, 2026-10-22, Fable, by the daily Fable fill). The Prismeri line of the 14 October worklist is filled: a First Wings Prismeri of a lumenspire settlement on Prismere who fuses the settlement's glass by focused sun from the hang, for whom the Second Emergence has not come, in no guild and on no posting. Grounded only in the Prismeri pages, the rest marked absent. Whether a Prismeri on a Ranger liaison posting is a Ranger or a seconded guild member stays open, and the Prismeri history's guild author is still to be named. The portrait prompt is written, not generated.
+
 ## [1.46.0] — 2026-10-21
 
 A codex history of the Krenyi in their own voice, *What Still Does Work*, and a rule for when a codex entry earns its place. The Earth note gains proposed readings on power, weapons and the end of fossil fuels, three continuity faults are fixed in place, and three options are put to Dermot for a plural system whose members want different things.
