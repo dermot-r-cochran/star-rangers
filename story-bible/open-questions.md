@@ -47,6 +47,69 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A Prismeri glass-fuser, Isserith — the daily Fable fill of 22 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Prismeri line of the 14 October worklist below, taken by the daily Fable
+fill. Drafted as `src/characters/isserith.md`, grounded only in
+`prismeri.md`, `planets/prismere.md`, `codex/plates-of-the-prismeri.md`,
+`characters/halle-ostrander.md`, `federation-of-sentient-beings.md`,
+`the-ladder-in-other-tongues.md` (*Prismeri*), `the-shape-of-a-life.md`,
+`what-the-record-refuses.md`, the one chapter that places a Prismeri
+(*Nobody Present*, S01E00C08, Prismere's delegate, unnamed) and the ruled
+Prismeri sections of `species-design.md`, `mind-design.md` and
+`civilian-dress.md`, with the rest marked absent in a *What the Record Does
+Not Carry* section; portrait prompt in `images.md` § 26, not generated, so the
+page carries no `image:`.
+
+**Two open things are left open, not settled.** Choice 4 of the 14 October
+*In the Corps* section (whether a Prismeri on a *Ranger liaison posting* is a
+sworn Ranger or a seconded guild member) is untouched: Isserith is at home, in
+no guild and on no posting, and the page says it does not touch the question;
+the *A Prismeri on a Corps posting* worklist line stays unticked. The
+*Histories in their own voices* Prismeri line (voice: the astrogation guilds,
+a life read across both forms) is not foreclosed: Isserith is First Wings and
+cannot be a guild member, so that entry's author is still to be named, a Full
+Wings reader, and the line now says so.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Isserith*, coined, rendered as the Federation record's
+spelling with no meaning asserted, since the record gives the people no naming
+practice and no attested personal name; it is built from the sibilants and
+open vowels of the two attested words, *Prismeri* and *Iridess*, and carries
+no lip-sound, since the page gives the mouth as a rasping plate behind a hard
+lip rather than lips, a reading the page itself does not state; the
+alternatives are a name rendered by its meaning on the Tally convention,
+which the kinship-record idiom would invite, or a name fitted to a sound he
+gives); **the pronoun** (*they*, the translation default and the people's
+page's own usage of an individual, *whether the Second Emergence will ever
+come for them*; `mind-design.md`'s gender table marks the two forms read as
+two sexes as a trap, and the page avoids it; no pronoun system is declared
+and none proposed); **the form** (First Wings, for whom the Emergence has not
+come, which the page allows, *a meaningful fraction of Prismeri live a full
+natural lifespan in First Wings form*, and which keeps Isserith out of the
+guilds and the Corps by biology rather than by choice, so neither open line
+is touched; the alternative, a Full Wings guild reader, would have been the
+history entry's author and foreclosed it); **the trade** (glass fused by
+focused sun from the hang, the one trade the people's page describes, *their
+glass is fused by focused sun rather than by flame*, and the thing in the
+First Wings plate's hands; the page itemises nothing made, and neither does
+Isserith's); **the age** (past *the first several decades* the page gives as
+the first form's usual span, and no further figure, since no page gives a
+Prismeri lifespan); **the place** (a lumenspire settlement the record does
+not name, since the planet page names no settlement); **the era** (2826
+UCSD, the record's present, and nowhere else); **the delegate** (Isserith is
+not Prismere's delegate of *Nobody Present*, so that unnamed Full Wings
+figure stays unnamed and the chapter's canon is untouched).
+Not asserted: the trigger of the Emergence beyond the page's own *current
+Federation xenobiology holds*; what the settlement's glass is for; the
+Prismeri language, which `language-design.md` does not cover; how a
+settlement decides anything (`mind-design.md` marks it not established);
+whether Isserith has met a Ranger; any chapter. Not done: no chapter; no link
+from `prismeri.md` or `prismere.md`, since neither lists people; no image
+generated.
+
+---
+
 ## A plural system whose members want different things — raised 21 October 2026, OPEN, his pick (three options, A recommended)
 
 Dermot, 21 October 2026, to the opening that a survey of the 148 character
@@ -470,9 +533,13 @@ same rule:
   governments, argued from specifics, counted in local years. Mind the open
   question below on the reciprocal instrument's year.
 - [ ] **Prismeri** — `src/lore/prismeri.md`, `src/lore/planets/prismere.md`,
-  `src/codex/plates-of-the-prismeri.md` (a human naturalist's plates). Voice:
+  `src/codex/plates-of-the-prismeri.md` (a human naturalist's plates),
+  `src/characters/isserith.md`. Voice:
   **the astrogation guilds**, a life read across First Wings and Full Wings.
-  No Prismeri has a page yet, so the author is the first the record names.
+  The first Prismeri the record names, Isserith (22 October 2026), is First
+  Wings and no guild member, so the author is still to be named: a Full Wings
+  reader of the guilds, the second Prismeri the record names, and not
+  Isserith, whose page is written so as not to foreclose this entry.
 - [ ] **Ilveth** — `src/lore/ilveth.md`, `src/characters/suvra-kel.md`.
   Voice: **written in warmth**, the signalling vanes, a word that costs a
   calorie. Sardain has no page.
@@ -783,7 +850,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 **Federation peoples with full lore and nobody to speak for them** (no character, no POV):
 - [x] ~~**Mnemari**: `src/lore/mnemari.md`, with no home-world page (Ilenne).~~ — **filled 19 October 2026** (Fable, PR named in the section *A Mnemari treaty-witness, Ulessa* above): `src/characters/ulessa.md`; the portrait waits on a body design, `images.md` § 20. Ilenne still has no page. *Update, same night:* Ilenne's page and the Mnemari body landed at his *"1 A"* (section above); the portrait prompt is Fable's.
 - [x] ~~**Ollune**: `src/lore/ollune.md`, `src/lore/planets/cirrane.md`.~~ — **filled 20 October 2026** (Fable, at Dermot's *the Ollune line*; the section *An Ollune marker of the crossing, Ilyare* above records the choices): `src/characters/ilyare.md`, at home in Freyari and in no uniform, so the choice-3 absence stands; portrait prompt `images.md` § 21, not generated.
-- [ ] **Prismeri**: `src/lore/prismeri.md`, `src/lore/planets/prismere.md`. They are seen only through Halle Ostrander's drawings.
+- [x] ~~**Prismeri**: `src/lore/prismeri.md`, `src/lore/planets/prismere.md`. They are seen only through Halle Ostrander's drawings.~~ — **filled 22 October 2026** (Fable, by the daily Fable fill; the section *A Prismeri glass-fuser, Isserith* above records the choices; PR #1421): `src/characters/isserith.md`, a First Wings Prismeri of a lumenspire settlement on Prismere, the settlement's glass-fuser, for whom the Second Emergence has not come; at home, in no guild and on no posting, so choice 4 of *Non-humanoid peoples in the Corps* below stays open and the *A Prismeri on a Corps posting* line stays unticked; portrait prompt `images.md` § 26, not generated. Before this page the record had placed one Prismeri in prose, unnamed: Prismere's delegate in *Nobody Present*, Full Wings, on the floor.
 
 **Peoples under a power not their own:**
 - [ ] **Corryn**: the Spiralites and the Imperium-remnant human colony (`src/lore/planets/corryn.md`) have no characters. The colony's charter story is ready settlement material.
