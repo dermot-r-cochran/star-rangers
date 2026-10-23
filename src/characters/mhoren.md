@@ -6,6 +6,8 @@ species: Ovruhn
 role: "Keeper of the oldest chorus of Thavren"
 aliases:
   - "Keeper Mhoren of Thavren"
+image: "mhoren.jpg"
+image_alt: "Part of Mhoren, an Ovruhn, seen low and close: the curved underside of a great chest in matte, finely creased cool grey-brown hide fills most of the frame, low ridges running across its lower part, and from its forward edge at the left a fan of a dozen smooth boneless tendrils hangs slack and curled at the tips above a pale floor of worked bedrock, with white haze beyond and nothing else in view."
 tags: [ovruhn, thavren, chorus-keeping, federation-of-sentient-beings, author, non-humanoid, histories-in-their-own-voices]
 description: "A keeper of the oldest chorus of Thavren, the Ovruhn chorus that still carries the history, who at the Survey Archive's asking gave the history of the Ovruhn as that chorus holds it, with its near edge first — the author of the fifth history of a non-human people the record holds in that people's own voice, rendered at one recital."
 known_codex: [the-quiet-has-no-far-side]
@@ -33,7 +35,7 @@ The one quiet joke in the account is kept in the register for things that are th
 
 ## What the Record Does Not Carry
 
-Mhoren's age, and how long they have kept. How a keeper comes to the oldest chorus, and whether *the old keepers* of Vhen's account are an office or simply the keepers who hold most; the record does not say and this account does not settle it. The size of the oldest chorus, and where on Thavren it meets. Whether Mhoren has ever left Thavren or been out of reach of the under-song. The year of the recital and of the asking, and which desk sat it. Thavren itself, beyond what the people's page gives: the record holds no page for the world and this account adds nothing to it, no place, no other life, no count of anything. The Ovruhn who went first into Federation service and first into the quiet with the Rangers, whom the chorus holds by their parts and the desk did not ask for. Mhoren's body, which no page describes beyond the people's: among the largest bodies in Corps service, a broad, deep-chested quadruped mass with a fan of handling tendrils, no face to address, the hide of the flanks the ear, small mild eyes, a chest of resonant chambers. No portrait is on file; the prompt is written.
+Mhoren's age, and how long they have kept. How a keeper comes to the oldest chorus, and whether *the old keepers* of Vhen's account are an office or simply the keepers who hold most; the record does not say and this account does not settle it. The size of the oldest chorus, and where on Thavren it meets. Whether Mhoren has ever left Thavren or been out of reach of the under-song. The year of the recital and of the asking, and which desk sat it. Thavren itself, beyond what the people's page gives: the record holds no page for the world and this account adds nothing to it, no place, no other life, no count of anything. The Ovruhn who went first into Federation service and first into the quiet with the Rangers, whom the chorus holds by their parts and the desk did not ask for. Mhoren's body, which no page describes beyond the people's: among the largest bodies in Corps service, a broad, deep-chested quadruped mass with a fan of handling tendrils, no face to address, the hide of the flanks the ear, small mild eyes, a chest of resonant chambers. The portrait on file shows only part of the chest and the tendrils, close and low, as the prompt asked.
 
 ## See also
 

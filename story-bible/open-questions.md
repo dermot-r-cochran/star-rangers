@@ -758,10 +758,8 @@ same rule:
   figure withdrawn; the blood given to a human; a Champion written up
   afterwards; her going, her rank gone from speech, one colleague seen out,
   and the placing declined in words. No homeworld, no origin, no first Krenyi
-  in the Corps. Sevrane's portrait is owed from the Krenyi kind; prompted
-  21 October 2026 (Fable, `images.md` § 25), not generated. The entry's title
-  card is owed too (the `make-codex-cover.ps1` line is in § 25); the entry
-  carries no `image:` until it is made.
+  in the Corps. Sevrane's portrait was filed 23 October 2026 from round 2 of
+  `images.md` § 25, and the entry's title card was made the same day.
 - [ ] **Ollune** — `src/lore/ollune.md`, `src/lore/planets/cirrane.md`,
   `src/glossary/ollune.md`, `src/characters/ilyare.md`. Voice: **the far word and the near word**, terms
   drafted to hold between parties who cannot confer, and a first contact filed
@@ -785,8 +783,8 @@ same rule:
   no first Ovruhn in Federation service or the Corps named, Thavren given
   nothing the people's page does not hold. The two places the under-song
   went into the register for loss are marked and not rendered. The title
-  card is made; Mhoren's portrait is owed from the Ovruhn body (prompted
-  23 October 2026, Fable, `images.md` § 28, not generated). The section
+  card is made; Mhoren's portrait was filed 23 October 2026 from round 2 of
+  `images.md` § 28, cropped to keep the legs out of frame. The section
   *The Ovruhn history, Mhoren* at the top of this file records the choices.
 - [ ] **Verdani** — `src/lore/verdani.md`, `src/lore/planets/verdance.md`,
   `src/lore/greenward-habitat.md`, `src/characters/isren-farrowkin.md`.
@@ -817,9 +815,10 @@ same rule:
   hang from), then one life across both forms and a correction set against
   the record at the close. Every interval by the form of the one who saw it
   and nothing by a year; no guild named; choice 4 of *Non-humanoid peoples
-  in the Corps* untouched. The title card is made; Orisseth's portrait is
-  owed from the Full Wings body (prompted 23 October 2026, Fable,
-  `images.md` § 29, not generated). The section *The Prismeri history,
+  in the Corps* untouched. The title card is made; Orisseth's portrait
+  failed both rounds of `images.md` § 29 on 23 October 2026 (the
+  photograph test, and whiskers on the face), so nothing is filed and the
+  page stays bare. The section *The Prismeri history,
   Orisseth* at the top of this file records the choices.
 - [ ] **Ilveth** — `src/lore/ilveth.md`, `src/characters/suvra-kel.md`.
   Voice: **written in warmth**, the signalling vanes, a word that costs a

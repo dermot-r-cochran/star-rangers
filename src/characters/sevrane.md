@@ -8,6 +8,8 @@ status: "Retired — out of Corps service"
 aliases:
   - "Nai Sevrane"
   - "Sevrane, Nai"
+image: "sevrane.jpg"
+image_alt: "Sevrane, a lean woman with deep brown skin and short tightly curled black hair, in a plain high-collared slate-grey tunic, seated on a low pale bench in a dim grey archive room with her hands resting open on her knees. Her face is square to the camera, its two sides matching closely, her dark eyes wide and set a little wider apart than is usual, looking just past the lens."
 tags: [krenyi, star-rangers, survey-archive, threshold-station, civilian, author]
 description: "A Krenyi of the Quiet-Built, formerly of the Star Rangers, who at the Survey Archive's asking set down the history of her people in the form her people keep it in: what still does work, each thing at its place in their own count, with the count's beginning and its unit withheld — the author of the Krenyi history the record holds in their own voice, unconverted."
 known_codex: [what-still-does-work]
