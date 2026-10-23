@@ -7,6 +7,8 @@ role: "Reader of an astrogation guild of Prismere, Full Wings; formerly a First 
 status: Active
 aliases:
   - "Orisseth of Prismere"
+image: "orisseth.jpg"
+image_alt: "Orisseth, a Full Wings Prismeri: a flier plated in worn gold and dull blue, hanging head-down by long-toed feet from the lip of a frosted mineral tower at night, wings part open and lit amber from below by a forest of glowing pale crystal far beneath. A few long fine glassy tendrils rise from the nape behind the smooth head, which carries one pale seam along the crown and is turned down in profile; the face is bare. Faint straight lines and one long arc cross the dark, starry sky."
 tags: [prismeri, prismere, iridess-system, federation-of-sentient-beings, full-wings, astrogation, survey-corps, author, non-humanoid, histories-in-their-own-voices]
 description: "A Full Wings Prismeri, a reader of an astrogation guild of Prismere who was a First Wings scout before the Emergence, and who at the Survey Archive's asking gave the history of the Prismeri the way a guild reads a life, across both forms with the shell between, by form and never by year — the author of the sixth history of a non-human people the record holds in that people's own voice, and the second Prismeri the record names."
 known_codex: [two-points-in-one-life]
