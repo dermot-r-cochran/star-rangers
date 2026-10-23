@@ -6464,7 +6464,7 @@ Dermot, 23 October 2026, verbatim: *"Write an image prompt for the powered load 
   - **Written 23 October 2026** (Opus). **Generated and filed 23 October 2026** (Opus, desktop): one round of four on `gemini-3.1-flash-image`, 2K; variation 1 filed at strength 1 (load path to the deck plates under both boots, pinned unlit joints, no plates over the chest, one plate down and nothing wrecked); 3 failed the modesty bar on its pose, 2 hid the frame, 4 passed and stands second.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only powered-load-frame`; four variations, two rounds at most; judge at full size on the load-path, not-armour and nothing-lit tests; file through `import-image.ps1 -MaxEdge 1600` at strength 1 as `src/images/lore/powered-load-frame.jpg`; add it as an inline figure after the *It does not move her* paragraph of `src/lore/rank-insignia-and-uniform.md`, with alt text from the filed frame; register the result in `image-prompts.md`. If both rounds fail, record them here and leave the section without a figure.
 
-### 28. Missing portraits — Mhoren, the second Ovruhn the record names (written 23 October 2026, Fable, by the daily Fable fill; generation waits on the desktop)
+### 28. Missing portraits — Mhoren, the second Ovruhn the record names (written 23 October 2026, Fable, by the daily Fable fill; generated and filed the same day)
 
 `src/characters/mhoren.md` landed in the same PR as this prompt, with the
 fifth entry of *Histories in their own voices*, `src/codex/the-quiet-has-no-far-side.md`:
