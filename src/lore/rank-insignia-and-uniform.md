@@ -47,6 +47,31 @@ Where the Rangers part from the hospital is that a hospital keeps some of its pe
 
 The need is not a human one, and the Corps did not invent it. The other peoples the Rangers serve alongside have their own equivalents of a uniform — the mark a stranger in any working place reads to know who does what — and the medium is each people's own: what a human carries as cloth and a tab, another people may carry as a colour, a sound, a posture or a mark on the body, and a surveyor reads it as the uniform it is. What is universal is the job the mark does, not its form. The record has described almost none of them, and does not guess; what it has built is the modular shell above, so that one service can carry that job across every body plan it enlists, from a Krenyi sleeve to Rook-7's hull.
 
+## What the Shell Does, and Where It Stops
+
+Rangers call the field shell smart, and the word is loose. **The shell is responsive material and instrumentation. It is not a mind, and it carries none.** No human in the Concord carries an AI subsystem on or in the body ([AI: Present, Never Intrusive](/star-rangers/lore/environmental-technology-design/#ai-present-never-intrusive)), and a uniform is no exception. Whatever thinking is done about a Ranger's shell is done by the systems around her: the vessel, the station, the habitat. They read what the shell reports and answer for what they do with it under their own [Kernel](/star-rangers/lore/ai-safety-kernel/) certification. The shell itself decides nothing.
+
+What it does is narrow, and each item is work a well-made material can do without being asked:
+
+- **It holds temperature.** The thermal half of the liner moves heat toward or away from the body across the working range of the places Rangers are sent.
+- **It seals.** The liner closes over a puncture and holds pressure without power, and a hood and visor stowed at the collar close over the head. In vacuum or a foul atmosphere the face is covered, always. The liner is an envelope for reaching a hatch, a shelter or a pressure suit, not for working outside: sustained work in vacuum or thin air is done in a pressure suit issued over it, in the same corps colour and carrying the same marks.
+- **It reports.** It measures the wearer's state and its own — temperature, pressure, a breach, a heart that has stopped — and tells the nearest system that can act. It also logs what its sensors met: a radiation dose, a field gradient near a boundary.
+- **It fails loudly, and it fails safe.** Every powered function has an unpowered state that does no harm, a seal that holds and a liner that still insulates, and the shell says when it is degraded rather than carrying on as if it were not. A Ranger can open and shed it by hand at any moment, without power and without leave from anything.
+
+Its limits are the other half of the design, and the Corps teaches them in the same week as its functions.
+
+**It is not armour.** The shell protects against places, not against people: heat, cold, vacuum, abrasion, a toxic atmosphere, a fall onto a deck. It is not built to stop a blade or a round, and it has no mount for a weapon, because the service that wears it is [not a military](/star-rangers/lore/star-rangers-command-hierarchy/#the-provost-track-and-what-the-rangers-are-not) and arrives by invitation. A Ranger dressed for a fight would be dressed for the wrong job, as a surgeon in a breastplate would be.
+
+**It does not change its colour, and it shows nothing.** A shell that could alter its colour could alter its corps, and a uniform read at a glance by colleagues is worth exactly as much as its constancy. Corps colour is in the material, matte and fixed; the marks are seated plates; nothing on the shell glows, displays text or lights an emblem. A readout the wearer needs faces her, inside the visor or at the wrist, and signals nothing to anyone across a corridor.
+
+**It does not move her.** The shell has no propulsion and does not fly. Manoeuvring in open space is a separate pack and a tether, issued for the job. Whether any corps issues a powered frame that adds to a wearer's strength, the record has not described, and does not guess.
+
+**It is not cut to the body.** The liner fits close because a thermal and pressure layer must, and it is never worn alone on duty. The shell over it is modular, cut for movement and for every body plan the service enlists, which is why it reads the same on a Krenyi sleeve as on a human one, and why the eye goes to the tab and not to the wearer.
+
+**And it confers nothing at a boundary.** The shell's sensors record what a [boundary zone](/star-rangers/lore/boundary-zones/) does to them, a dose or a drift, and the record is useful afterwards. They do not defend against what a boundary can do, and no setting, coating or field in a shell has ever turned [anything met there](/star-rangers/lore/meta-dimensional-beings/) aside twice. The rule is the one every instrument the Corps carries obeys: it registers, and it confers no leverage. A Ranger who trusted her shell to keep her safe past the edge of a survey would have mistaken the record of a hazard for a defence against it.
+
+The word *smart* survives because a cadet's first hour in a shell that warms itself feels like it. Instructors correct it gently. The shell is well made; the clever part of the arrangement is the people and the systems it reports to.
+
 ## Corps and Branch Badges
 
 Every corps carries a device, and a branch inside a corps carries its own beneath it. The system is two levels deep and stops there, on the same instinct that keeps the rank ladder legible: a mark nobody can hold in their head is a mark nobody reads.

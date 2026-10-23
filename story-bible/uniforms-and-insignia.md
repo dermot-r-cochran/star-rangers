@@ -93,6 +93,14 @@ in their own service with no invented insignia until a page has chosen one.
   all and mounts its marks directly on the hull.
 - **Dress uniform differs in finish, not insignia** — the same marks, better
   materials. A Ranger should never have to relearn the system across settings.
+- **The shell is not smart in the generator's sense** (canon since 23 October
+  2026, `rank-insignia-and-uniform.md`, *What the Shell Does, and Where It
+  Stops*; `intake-2026-10-23.md`). It is responsive material with no mind in
+  it: matte, fixed corps colour, nothing lit. **Negate by name**: glowing gems,
+  light strips, lit discs or panel lines, chrome or mirror finish, catsuit or
+  bodysuit, moulded breastplate, plate armour, pauldrons, heels, jet pack.
+  **In vacuum the hood and visor are closed**: never a bare face or loose hair
+  outside a pressure. The liner is never shown worn alone on duty.
 
 ## Reading rank at a glance
 

@@ -4306,3 +4306,10 @@ Raised by the Earth geography note at his direction (option A, and *Gulf stream 
 
 - **Has the drawdown lowered the plateau, or only held it?** (A) held at about 2 °C; **(B) drawn down slowly to about 1.5–2 °C, recommended**; (C) back to pre-industrial, refused as the pristine-Earth trap.
 - **The AMOC: weakened or collapsed?** **(A) weakened by a quarter to a half, never collapsed, recommended**; (B) collapsed in the crisis and partly recovered; (C) collapsed and not recovered.
+
+## Smart uniforms — 23 October 2026
+
+Raised by `intake-2026-10-23.md`; the section *What the Shell Does, and Where It Stops* marks both absent and nothing is drafted.
+
+- **A powered frame that adds to a wearer's strength**: whether any corps issues one, for heavy salvage or rescue. Waits until a chapter needs it.
+- **Custody of a shell's telemetry of the body**, beyond the system that acts on an emergency. Unruled.

@@ -4703,6 +4703,30 @@ video from src/video*), deleted rather than parked.
 
 ---
 
+### Intake 2026-10-23 — smart suits: four illustrations, none filed
+
+Dermot supplied four generated stills (no prompt kept) with the direction in
+`intake-2026-10-23.md` — *Smart suits. Smart uniforms and their limits*.
+Nothing is filed and nothing ships; the direction was realized in words on
+the uniform page. What each shows:
+
+- **Studio, full length**, 784×1168: long loose red curls, freckles, a
+  mirror-chrome bodysuit with glowing blue chest gems, gloves, heeled boots,
+  hand on hip, violet backdrop, to camera.
+- **Lunar surface**, 1168×784: the same colouring, bare face and hair
+  streaming in airless wind, laughing, in worn plate armour with a star
+  device on one pauldron; a moon breaking apart and a lit arch behind.
+- **Open space**, 1168×784: unhelmeted, flying free in a fitted silver suit
+  with lit joints beside a grey vessel with blue light strips.
+- **Vortex**, 784×1168: fitted silver armour with lit discs and a moulded
+  breastplate, running through ribbons of light, to camera.
+
+**How the intake reads them:** as the generator's furniture for *smart suit*,
+each surface against a standing rule (the shell's matte, unlit marks; the
+modesty bar; no branch military; hard SF in vacuum), and in the register the
+5 September intake assigned to the shadow at the edge: not her. The surfaces
+are now named for negation in `uniforms-and-insignia.md`.
+
 ### 7. Codex art — in-world artists' impressions
 
 The pool the 18 August rule created, first filled 3 September 2026. Entries
