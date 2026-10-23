@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.48.0] — 2026-10-23
+
+A new chapter, *Not Under a Name* (S07E01C04), leaves the desk's note on the High Captain's account unsigned, and two more *Histories in their own voices* arrive: the Ovruhn chorus's *The Quiet Has No Far Side* and the Prismeri guild's *Two Points in One Life*, now shelved together at the head of the Codex. Oriane Kessel becomes the first named person of the Corryn Prime colony, the Ranger field shell gains its limits, its powered load frame and its rules on who reads the body's record, and five portraits and a load-frame figure are filed.
+
 - **Sen's page names the standing difference about signing** (`src/characters/sen.md`, `CLAUDE.md`, `story-bible/intake-2026-10-23.md`, 2026-10-23, Opus). *Character Notes* gains one paragraph, an extension after S07E01C04: Wyn wants the desk to sign, Sen declines, and Cael holds that a name moves no standing. None of them has settled it, and it is not a fault in the arrangement. Dermot's four remarks on plural systems are recorded in the intake and in the plural-minds rule.
 - **New chapter: *Not Under a Name* (S07E01C04); the Sen block for Option A** (`src/seasons/s07/e01/s07e01c04.md`, `story-bible/open-questions.md`, `story-bible/intake-2026-10-23.md`, 2026-10-23, Fable, at Dermot's *"Option A as recommended"*). Deep Winter 2831 UCSD, the shift after *Enough Is Enough*: the desk writes its note on the binder copy of the High Captain's account and stops at the blank line for the archivist's name. Wyn wants it signed, so that what the desk found has to be answered, and will want it tomorrow; Sen declines; Cael holds that a name moves no standing. Nothing is settled and the three go home. Sen's page is unchanged.
 
