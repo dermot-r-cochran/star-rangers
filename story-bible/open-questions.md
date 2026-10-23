@@ -47,6 +47,100 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## The Prismeri history, Orisseth — the daily Fable fill of 23 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Prismeri line of the *Histories in their own voices* series below, taken
+by the daily Fable fill ahead of the Cerebraun, Ollune and Verdani lines.
+Drafted as `src/codex/two-points-in-one-life.md`, the sixth entry of the
+series, with its author's page `src/characters/orisseth.md`, grounded only in
+`prismeri.md`, `planets/prismere.md`, `codex/plates-of-the-prismeri.md`,
+`characters/halle-ostrander.md`, `characters/isserith.md`,
+`federation-of-sentient-beings.md`, `the-ladder-in-other-tongues.md`
+(*Prismeri*), `the-shape-of-a-life.md`, `quantum-space-harmonics.md` (guild
+charts), the one chapter that places a Prismeri (*Nobody Present*,
+S01E00C08, Prismere's delegate, unnamed, and the compact's words running one
+way) and the ruled Prismeri sections of `species-design.md`,
+`mind-design.md` and `civilian-dress.md`, with the rest marked absent in a
+*What the Record Does Not Carry* section; portrait prompt in `images.md`
+§ 29, not generated, so the page carries no `image:`; the entry's title card
+made with `make-codex-cover.ps1`; a Full Wings crop of the approved
+lattice-gathering painting cut into `reference-art/` as the prompt's body
+reference, as the First Wings crop was for Isserith.
+
+**Why the author is not Isserith, and is Full Wings.** The line's voice is
+the astrogation guilds and a life read across both forms, and the guilds are
+Full Wings by biology (`prismeri.md`); Isserith is First Wings and in no
+guild, and the Isserith section below was written so as not to foreclose
+this entry. So the author is a second named Prismeri, a guild reader who was
+a First Wings scout before the Emergence, which is what lets one life be read
+across both forms in the author's own voice.
+
+**Two open things are left open, not settled.** Choice 4 of the 14 October
+*In the Corps* section (whether a Prismeri on a *Ranger liaison posting* is
+a sworn Ranger or a seconded guild member) is untouched: Orisseth has been on
+no posting, says in the account that what a reader is on the Corps' rolls
+the guild has not told them and they have not asked, and the receiving note
+marks it as not established; the *A Prismeri on a Corps posting* worklist
+line stays unticked. Prismere's delegate of *Nobody Present* stays unnamed;
+the account does not mention the session.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Orisseth*, coined, rendered as the Federation record's
+spelling with no meaning asserted, on Isserith's reasoning: built from the
+sibilants and open vowels of the attested words *Prismeri* and *Iridess*,
+with no lip-sound, since the page gives the mouth as a rasping plate behind a
+hard lip; it is kept the same family as *Isserith* without echoing it, four
+syllables against three and a different opening; the alternatives are
+*Thesarin* and *Essirin*, in the same pattern, or a name he gives); **the
+pronoun** (*they*, the translation default and the people's page's own
+usage, as Isserith's page has it; no pronoun system declared or proposed);
+**the role** (a reader of a guild the record does not name, since the record
+names no guild; formerly a scout, the First Wings role the people's page
+lists first); **the frame** (an account given at a Survey Corps fold-route
+confirmation table on Prismere, the one standing channel the record gives
+between the Corps and the guilds, in the working rendering the guild's
+confirmations come in, taken down by the Corps' reader and received into the
+Survey Archive general collection, the Sevrane pattern of a receiving note at
+each end; the author hanging and the reader below, the courtesy the people's
+page gives); **the reckoning** (every interval by the form of the one who
+saw it, a First Wings or a Full Wings, and nothing by a year in any count,
+since the record gives the Prismeri no calendar and marks none absent, and a
+guild's measure, the standing of the corridors on a day, is offered by the
+author and declined by the desk as holding no conversion; this asserts no
+Prismeri timekeeping); **the conceit** (a history read as a life, First Wings
+the forest, the shell the first readers' going up into the haze, Full Wings
+the Federation and the compact; the lore page's *the same person at two points
+in one life* turned on the people, then turned again at the close on the
+record's own acquaintance with the people, which is the recognition the
+ending test asks for); **the lens as a leaf** and **the kinship records kept
+because the body changes** (two author's claims the record neither holds nor
+contradicts, filed as valid for the reader); **the reader's reason for the
+guilds' reticence** (that a thing nobody earns must stay a thing nobody can
+earn: the author's own, marked as not the guild's, with the record's account
+of the guilds' institutional interest left standing beside it in the desk's
+closing note); **the one-way compact kept one-way** (from the chapter's canon
+fact that the compact's words run toward the Corps, given a reader's reason
+and no reference to the session); **the shadow under the canopy** (seen once,
+not a ray, never identified, kept unexplained on the Marked Absences
+doctrine and the shadow-shaped rule); **the inside of the shell** (not
+described, at the author's choice, on the tone rule); **the title** (the
+lore page's phrase, turned twice); **the title card** (stamp AS READ, since
+the account's provenance is a reading at a table, neither a rendering of a
+recital nor an unconverted count); **the second Prismeri** (Orisseth is the
+second Prismeri individual the record names).
+Not asserted: any year, in any reckoning; the Federation's contact survey of
+Prismere or Prismere's charter membership dated (both on PR #1380's owed
+list); the trigger of the Emergence beyond the page's own *current Federation
+xenobiology holds*; the Prismeri language, which `language-design.md` does
+not cover, so no Prismeri word is rendered; how a settlement or a guild
+decides anything (`mind-design.md` marks it not established); a guild's
+name; what a Prismeri on a Ranger liaison posting is on the Corps' rolls;
+whether *Prismeri* is the people's own word; any chapter. Not done: no
+chapter; one See-also clause each on `prismeri.md` and `isserith.md`
+(extensions); no image generated.
+
+---
+
 ## The Ovruhn history, Mhoren — the daily Fable fill of 23 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Ovruhn line of the *Histories in their own voices* series below, taken by
@@ -627,14 +721,34 @@ same rule:
   Voice: **the Fourfold Accord**, one Verdani position made from four
   governments, argued from specifics, counted in local years. Mind the open
   question below on the reciprocal instrument's year.
-- [ ] **Prismeri** — `src/lore/prismeri.md`, `src/lore/planets/prismere.md`,
+- [x] ~~**Prismeri** — `src/lore/prismeri.md`, `src/lore/planets/prismere.md`,
   `src/codex/plates-of-the-prismeri.md` (a human naturalist's plates),
   `src/characters/isserith.md`. Voice:
   **the astrogation guilds**, a life read across First Wings and Full Wings.
   The first Prismeri the record names, Isserith (22 October 2026), is First
   Wings and no guild member, so the author is still to be named: a Full Wings
   reader of the guilds, the second Prismeri the record names, and not
-  Isserith, whose page is written so as not to foreclose this entry.
+  Isserith, whose page is written so as not to foreclose this entry.~~ —
+  **drafted 23 October 2026** (Fable, by the daily Fable fill; taken ahead of
+  the Cerebraun, Ollune and Verdani lines at the fill's brief):
+  `src/codex/two-points-in-one-life.md`, by Orisseth, a Full Wings reader of
+  an astrogation guild of Prismere, formerly a First Wings scout
+  (`src/characters/orisseth.md`), the second Prismeri the record names and
+  not Isserith. Given at a Survey Corps confirmation table on Prismere,
+  hanging, in the working rendering the guild's confirmations come in;
+  `library: "Survey Archive, Threshold Station"`, the Sevrane pattern. A
+  history read as a guild reads a life: First Wings the forest (the hang,
+  the curfew, the lens, the kinship records), the shell (the first readers
+  going up into the haze; the trigger withheld with a reader's reason),
+  Full Wings (the survey that counted the people twice, the undated charter
+  membership, the compact that runs one way, the postings with nothing to
+  hang from), then one life across both forms and a correction set against
+  the record at the close. Every interval by the form of the one who saw it
+  and nothing by a year; no guild named; choice 4 of *Non-humanoid peoples
+  in the Corps* untouched. The title card is made; Orisseth's portrait is
+  owed from the Full Wings body (prompted 23 October 2026, Fable,
+  `images.md` § 29, not generated). The section *The Prismeri history,
+  Orisseth* at the top of this file records the choices.
 - [ ] **Ilveth** — `src/lore/ilveth.md`, `src/characters/suvra-kel.md`.
   Voice: **written in warmth**, the signalling vanes, a word that costs a
   calorie. Sardain has no page.

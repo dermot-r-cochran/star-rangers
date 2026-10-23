@@ -51,6 +51,7 @@ Isserith's age in years, and the natural span of a Prismeri life in either form,
 
 - [Prismeri](/star-rangers/lore/prismeri/), the people, and [Prismere](/star-rangers/lore/planets/prismere/), for the lumenspires, the glasswood and the Lattice
 - [Plates of the Prismeri](/star-rangers/codex/plates-of-the-prismeri/), the naturalist's sheets, and [Halle Ostrander](/star-rangers/characters/halle-ostrander/), who drew a First Wings adult at a ledge with glass in its hands
+- [Two Points in One Life](/star-rangers/codex/two-points-in-one-life/), the Prismeri history in their own voice, by [Orisseth](/star-rangers/characters/orisseth/), a Full Wings reader of one of the guilds and the second Prismeri the record names
 - [The Federation of Sentient Beings](/star-rangers/lore/federation-of-sentient-beings/), for the compact Prismere serves with expertise, and [Nobody Present](/star-rangers/seasons/s01/e00/s01e00c08/), where Prismere's seat is on the floor
 - [The Shape of a Life](/star-rangers/lore/the-shape-of-a-life/), for two adult forms and no hierarchy between them, and [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/), for the human silhouette the body is not
 - [The Ladder in Other Tongues](/star-rangers/lore/the-ladder-in-other-tongues/), for the guilds' standing material compact and the ranks nobody from Prismere has rendered
