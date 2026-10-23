@@ -4311,5 +4311,5 @@ Raised by the Earth geography note at his direction (option A, and *Gulf stream 
 
 Raised by `intake-2026-10-23.md`; the section *What the Shell Does, and Where It Stops* marks both absent and nothing is drafted.
 
-- **A powered frame that adds to a wearer's strength**: whether any corps issues one, for heavy salvage or rescue. Waits until a chapter needs it.
+- ~~**A powered frame that adds to a wearer's strength**: whether any corps issues one, for heavy salvage or rescue.~~ **Ruled 23 October 2026**, Dermot's *"Option A for the powered strength frame"*: job kit, not uniform. The Engineering and Safety Corps issue a powered load frame for heavy salvage and rescue, worn over the shell and handed back after the job. It has no mind, is driven by the wearer, fails safe, is not armour, and confers nothing at a boundary. On `rank-insignia-and-uniform.md`.
 - **Custody of a shell's telemetry of the body**, beyond the system that acts on an emergency. Unruled.
