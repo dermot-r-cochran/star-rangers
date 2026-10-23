@@ -6,6 +6,8 @@ library: "Survey Archive, Threshold Station"
 author: "Sevrane, Nai — a Krenyi of the Quiet-Built, formerly of the Star Rangers; set down in her own hand at the Survey Archive's asking, in the Archive's working language, with the receiving desk's note"
 institution: "Survey Archive general collection (receiving)"
 location: "Survey Archive general collection, Threshold Station — the author's own sheets, written for the reader in the Archive's working language and not translated, with the receiving desk's note; every date in them is in the author's reckoning and none has been converted"
+image: "what-still-does-work.jpg"
+image_alt: "Designed title card for What Still Does Work: the title in pale serif capitals on a dark blue-black ground, with the category line Cultural Record, a stamp reading Unconverted, faint ruled lines above, and the subtitle, the Survey Archive at Threshold Station and the author's name Sevrane, Nai below."
 tags: [krenyi, star-rangers, survey-archive, threshold-station, calendar, histories-in-their-own-voices]
 description: "The fourth history of a non-human people the record holds in that people's own voice: a Krenyi formerly of the Star Rangers, asked by the Survey Archive for the history of her people, gives what her people keep, which is what still does work, each thing at its place in their own count, and names what was let go — with the count's beginning withheld, no count set beside a date the reader already has, and the receiving desk's note that the Archive has converted none of it."
 ---
