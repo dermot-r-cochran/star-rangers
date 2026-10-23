@@ -57,6 +57,8 @@ Sen does not explain the arrangement to people who haven't earned the explanatio
 
 Sen has never lost an argument about whether a closed incident report should stay closed. Colleagues describe this as persistence. It is more precisely three people agreeing, independently, that it shouldn't.
 
+On signing, they do not agree, and have not for years. Wyn wants the desk to put a name under what it files, so that what it finds has to be answered; Sen declines, and the line for the archivist's name has stayed blank on every note the desk has filed; Cael holds that a name moves no standing, signed or not. None of the three has settled it, and none expects to. It changes nothing about how the desk is run, and it is not a fault in the arrangement: people who share a life and a desk still differ about what that desk owes the record, and these three differ about this. [Not Under a Name (S07E01C04)](/star-rangers/seasons/s07/e01/s07e01c04/) is one evening of it.
+
 ## In the Record
 
 Sen's unsigned annotations appear across several Survey Corps and Concord Governance Archive documents, including the [Dock Seven incident report](/star-rangers/codex/incident-report-001/), its [Day 49 maintenance follow-up](/star-rangers/codex/maintenance-log-day-49-dock-seven/), and the [Exploration Budget doctrine](/star-rangers/codex/exploration-budget-doctrine/) and [Redline Protocol](/star-rangers/codex/redline-protocol/) records. The recovered exchange in [Hall of Quiet Instruments](/star-rangers/codex/hall-of-quiet-instruments-dialogue/) — credited to "Archivist Sen" from a provisional voiceprint match — is, on the balance of internal evidence, the same desk.

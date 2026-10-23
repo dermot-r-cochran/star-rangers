@@ -367,8 +367,10 @@ evening in Sen's own hand, and a chapter at its date would restate a Codex
 entry as canon; 2831 is where the Comparanda's *"since the first week"* and
 *"for two years"* begin, so the block grounds them rather than repeating
 them. The page extension naming the standing difference (the recommendation's
-*when he picks*) is not in that PR and waits on his reading of the block.
-`sen.md` is unchanged; no *harmonious* line anywhere is touched.
+*when he picks*) followed the same day, after his *"Merge PR #1441 as drafted"*:
+one paragraph in `sen.md`'s *Character Notes*. The reopening line stands, and
+no *harmonious* line anywhere is touched. His three remarks on plural systems
+are in `intake-2026-10-23.md`, last section.
 
 Dermot, 21 October 2026, to the opening that a survey of the 148 character
 pages had found Sohrel the only plural mind with an inner pull, and Shepherd,
