@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [human, corryn, corryn-prime, carillon, halvern-combine, imperium, civilian, shielding]
 description: "A colony-born woman of Corryn Prime who keeps a settlement's electromagnetic shielding sound, seal by seal and loop by loop, so that the planet's fields stay out of the colony's equipment; the first person of the Imperium-remnant colony the record names, at home in 2826 UCSD, on a world where nobody with standing has ever landed."
+image: "oriane-kessel.jpg"
+image_alt: "Oriane Kessel kneeling on one knee at the foot of a long, windowless wall of pale grey panels joined by flush darker bands, one bare hand flat on the panel and a small plain grey instrument held to the wall below it, her face turned to the work in profile: short dark hair with grey at the temple, a rust-brown work jacket with a high soft collar, dark trousers and boots, work gloves tucked at her hip. Above the roofline a huge pale ringed planet hangs in a hazy amber sky; beyond the wall dark coiled spiral fronds crowd the edge of the trodden ground, and long rows of cultivated land run off to low hills."
 ---
 
 Oriane Kessel keeps the shielding. On [Corryn Prime](/star-rangers/lore/planets/corryn/) every settlement is built for it, because the planet's natural fields interfere with human equipment, and a thing built for a purpose has to be kept to it: seals age, bonds loosen, a loop that was continuous when it was laid is found one morning to be two loops with a gap. Finding the gap is her trade. She is the first person of the colony the record names, and the Archive calls her the first of nothing else: a settlement's shielding is somebody's work, as its glass or its ledgers are elsewhere in the record.
