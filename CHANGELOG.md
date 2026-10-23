@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **What the Ranger field shell does, and where it stops** (`src/lore/rank-insignia-and-uniform.md`, `story-bible/intake-2026-10-23.md`, 2026-10-23, Opus, at Dermot's *"Smart suits. Smart uniforms and their limits"*). An extension: the shell is responsive material with no mind in it, since no human carries an AI on the body. It holds temperature, seals without power behind a hood and visor, reports the wearer's state to the systems around her, and fails safe. It is not armour, does not change colour or light anything, does not fly, is not cut to the body, and confers nothing at a boundary. The four supplied stills are recorded and not filed.
+
 ## [1.47.0] — 2026-10-22
 
 A new Cosmology entry, *Mathematics and Its Notations*, keeps the theorem a Metawright settled apart from the notations each people made for it, and states that no being is made of mathematics. Each Celestial and Levril gains a lineage beside its grade, Isserith joins the cast as the first Prismeri the record names, and six small continuity faults are fixed in place.
