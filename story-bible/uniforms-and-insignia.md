@@ -101,6 +101,11 @@ in their own service with no invented insignia until a page has chosen one.
   bodysuit, moulded breastplate, plate armour, pauldrons, heels, jet pack.
   **In vacuum the hood and visor are closed**: never a bare face or loose hair
   outside a pressure. The liner is never shown worn alone on duty.
+- **The powered load frame** (canon since 23 October 2026) is heavy job kit
+  over the shell, for salvage and rescue only: an industrial, matte exoskeletal
+  frame at limbs and back, in corps colour, with visible joint locks. It is
+  never shown on ordinary duty and never lit. Negate: powered armour, mech
+  suit, weapon mounts, glowing joints.
 
 ## Reading rank at a glance
 

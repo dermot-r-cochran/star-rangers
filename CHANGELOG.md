@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The powered load frame** (`src/lore/rank-insignia-and-uniform.md`, 2026-10-23, Opus, Dermot's *"Option A for the powered strength frame"*: job kit, not uniform). An extension: where a job needs more strength than a body has, the Engineering and Safety Corps issue a powered load frame for heavy salvage and rescue. It is worn over the shell and handed back after the job, and is never part of ordinary duty dress. It has no mind and is driven by the wearer. It fails safe and opens by hand, is built to lift and not to strike, and confers nothing at a boundary.
+
 - **What the Ranger field shell does, and where it stops** (`src/lore/rank-insignia-and-uniform.md`, `story-bible/intake-2026-10-23.md`, 2026-10-23, Opus, at Dermot's *"Smart suits. Smart uniforms and their limits"*). An extension: the shell is responsive material with no mind in it, since no human carries an AI on the body. It holds temperature, seals without power behind a hood and visor, reports the wearer's state to the systems around her, and fails safe. It is not armour, does not change colour or light anything, does not fly, is not cut to the body, and confers nothing at a boundary. The four supplied stills are recorded and not filed.
 
 ## [1.47.0] — 2026-10-22
