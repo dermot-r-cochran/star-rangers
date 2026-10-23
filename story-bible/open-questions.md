@@ -369,7 +369,7 @@ entry as canon; 2831 is where the Comparanda's *"since the first week"* and
 them. The page extension naming the standing difference (the recommendation's
 *when he picks*) followed the same day, after his *"Merge PR #1441 as drafted"*:
 one paragraph in `sen.md`'s *Character Notes*. The reopening line stands, and
-no *harmonious* line anywhere is touched. His three remarks on plural systems
+no *harmonious* line anywhere is touched. His four remarks on plural systems
 are in `intake-2026-10-23.md`, last section.
 
 Dermot, 21 October 2026, to the opening that a survey of the 148 character
