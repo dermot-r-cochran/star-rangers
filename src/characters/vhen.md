@@ -34,5 +34,6 @@ Vhen is *they* in the record's translation register, as every Ovruhn individual 
 
 - [The Two Songs of the Loud People](/star-rangers/codex/the-two-songs-of-the-loud-people/)
 - [The Ovruhn (Deep-Sung)](/star-rangers/lore/ovruhn/) — Thavren, the under-song, and chorus-keeping
+- [Mhoren](/star-rangers/characters/mhoren/), keeper of the oldest chorus, whose history of the Ovruhn, [The Quiet Has No Far Side](/star-rangers/codex/the-quiet-has-no-far-side/), defers to Vhen on the loud people
 - [The Federation of Sentient Beings](/star-rangers/lore/federation-of-sentient-beings/)
 - [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/)

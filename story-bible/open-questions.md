@@ -47,6 +47,83 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## The Ovruhn history, Mhoren — the daily Fable fill of 23 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Ovruhn line of the *Histories in their own voices* series below, taken by
+the daily Fable fill ahead of the Cerebraun and Ollune lines. Drafted as
+`src/codex/the-quiet-has-no-far-side.md`, the fifth entry of the series, with
+its author's page `src/characters/mhoren.md`, grounded only in `ovruhn.md`,
+`characters/vhen.md`, `codex/the-two-songs-of-the-loud-people.md`,
+`federation-of-sentient-beings.md`, `the-ladder-in-other-tongues.md`
+(*Ovruhn*), `glossary/xenomusicology.md` and the ruled Ovruhn sections of
+`species-design.md`, `mind-design.md` and `civilian-dress.md`, with the rest
+marked absent in a *What the Record Does Not Carry* section; portrait prompt
+in `images.md` § 28, not generated, so the page carries no `image:`; the
+entry's title card made with `make-codex-cover.ps1`.
+
+**Why the author is not Vhen.** Vhen keeps the meeting-chorus, which the
+record says keeps the loud people, and the lore page puts the history
+elsewhere: *history is the thing the oldest chorus still carries*, and
+*different choruses keep different things* (`mind-design.md`, Ovruhn). A
+history of the Ovruhn in Vhen's mouth would have made the meeting-chorus keep
+two things the record gives it one of, and the lore page explicitly invites
+further named Ovruhn. So the entry's desk note has the meeting-chorus send
+the asking on, and Vhen is deferred to on everything that walked out of the
+landed craft, the Osune-to-Ulessa pattern of the first entry.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Mhoren*, coined, rendered as the record's spelling of a name
+that arrives *already part-translated* from a grammar carried in the
+under-song, as the lore page says every Ovruhn person-form does; it follows
+the one attested Ovruhn name, *Vhen*, in shape, a breathed consonant and a
+long open vowel, and asserts no meaning; the alternatives are *Ohlen* and
+*Dhurel*, in the same pattern, or a name he gives); **the pronoun** (*they*,
+his ruling of 29 August 2026 for every Ovruhn individual in the translation
+register; nothing new); **the role** (a keeper of the oldest chorus, which
+the lore page names as the chorus that carries history, and no office beyond
+that: `mind-design.md`'s open choice 4 recommended A, no separate body of
+elder keepers, and the entry and page say nothing that would settle it the
+other way); **the frame** (the Vhen precedent entire: a rendering by the
+Archive's translation desk at one recital, by consent, no master,
+*Circulating and scattered holdings*, the chorus's responses marked in
+italics where unmistakable; the desk's asking routed through the Federation
+record and the meeting-chorus, since the Archive has no other door onto
+Thavren the record names); **the loss register** (the music's register for
+loss, which the lore page says it keeps *for nothing else*, is marked twice
+and rendered neither time, at the keeper's asking as well as the desk's, on
+the Marked Absences doctrine and the tone rule; the second mark is for the
+Ovruhn who serve away from Thavren, out of reach of the under-song, whom the
+entry says in the keeper's voice are not dead); **the near edge** (the
+entry's governing figure, that an Ovruhn history begins at the reach of the
+oldest living voice, is the lore page's *a fact dies with its last keeper*
+and *history is the thing the oldest chorus still carries* read together in
+the author's voice; it asserts nothing about what was lost); **the fire
+heard before it was lit** (an author's claim the record neither holds nor
+contradicts: Thavren's air burns willingly and sound is the far sense, so a
+fire heard from far off before the people had one is valid for its keeper
+and is filed as such); **the three days** (the lore page's own line, given
+from the hearing side); **the title** (the climbers' line, *there is a quiet
+above us, and it has no far side*, which the lore page holds as *a silence
+with no far side*; the ending turns it, since the Federation came out of
+the quiet, and the entry's last line turns it again on the rendering itself,
+which is the recognition the ending test asks for); **the title card**
+(stamp RENDERED, as Vhen's entry's card is stamped, since this is the same
+provenance); **the second Ovruhn** (Mhoren is the second Ovruhn individual
+the record names, and the *An Ovruhn Ranger* worklist line stays unticked,
+since a chorus keeper on Thavren is not a Ranger).
+Not asserted: any year, in any reckoning (the Ovruhn keep none a desk could
+convert, and the entry says so in the desk's voice); the Thavren–Federation
+contact or membership year, left undated as he ruled on 29 August 2026; who
+speaks for Thavren in the assembly (`mind-design.md` marks it not
+established); any other Thavren life, place or count (Thavren has no page
+and gets none here); the first Ovruhn in Federation service or in the Corps,
+which the keeper holds and declines; Ovruhn sex, birth or lifespan; whether
+*the old keepers* are an office; any chapter. Not done: no chapter; no
+Thavren page; one See-also clause each on `ovruhn.md` and `vhen.md` (an
+extension); no image generated.
+
+---
+
 ## A Prismeri glass-fuser, Isserith — the daily Fable fill of 22 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Prismeri line of the 14 October worklist below, taken by the daily Fable
@@ -524,9 +601,27 @@ same rule:
   drafted to hold between parties who cannot confer, and a first contact filed
   in the alarm vocabulary. When their procedure entered the Federation's
   (*generations ago*) stays undated.
-- [ ] **Ovruhn** — `src/lore/ovruhn.md`, `src/characters/vhen.md`. Voice:
+- [x] ~~**Ovruhn** — `src/lore/ovruhn.md`, `src/characters/vhen.md`. Voice:
   **chorus-keeping**, a record kept in living memory and retold together, loss
-  mourned in the register the music keeps. Thavren has no page.
+  mourned in the register the music keeps. Thavren has no page.~~ —
+  **drafted 23 October 2026** (Fable, by the daily Fable fill; taken ahead of
+  the Cerebraun and Ollune lines at the fill's brief):
+  `src/codex/the-quiet-has-no-far-side.md`, by Mhoren, a keeper of the oldest
+  chorus of Thavren (`src/characters/mhoren.md`), not Vhen, whose
+  meeting-chorus keeps the loud people and not the Ovruhn (the lore page's
+  *history is the thing the oldest chorus still carries*). Rendered by the
+  Archive's translation desk at one recital, by consent, on the Vhen
+  precedent; `library: "Circulating and scattered holdings"`, no archival
+  master. A history with a near edge, kept only while a living voice holds
+  it: the fire heard before it was lit, the first wrong ring, the climbers who
+  found the quiet, the three days, the chorus's long yes, the ones in the
+  quiet now; no year anywhere, the membership interval kept at *unhurried*,
+  no first Ovruhn in Federation service or the Corps named, Thavren given
+  nothing the people's page does not hold. The two places the under-song
+  went into the register for loss are marked and not rendered. The title
+  card is made; Mhoren's portrait is owed from the Ovruhn body (prompted
+  23 October 2026, Fable, `images.md` § 28, not generated). The section
+  *The Ovruhn history, Mhoren* at the top of this file records the choices.
 - [ ] **Verdani** — `src/lore/verdani.md`, `src/lore/planets/verdance.md`,
   `src/lore/greenward-habitat.md`, `src/characters/isren-farrowkin.md`.
   Voice: **the Fourfold Accord**, one Verdani position made from four
