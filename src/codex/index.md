@@ -27,6 +27,31 @@ eleventyComputed:
 {% set namedLibraries = [] %}
 {% for lib in libraries %}{% set namedLibraries = (namedLibraries.push(lib.name), namedLibraries) %}{% endfor %}
 
+{% set seriesEntries = [] %}
+{% for entry in codexEntries %}{% if entry.data.tags and ("histories-in-their-own-voices" in entry.data.tags) %}{% set seriesEntries = (seriesEntries.push(entry), seriesEntries) %}{% endif %}{% endfor %}
+{% if seriesEntries.length %}
+<section class="thread-section" aria-labelledby="series-histories-in-their-own-voices">
+  <h2 class="thread-section__title" id="series-histories-in-their-own-voices">Histories in their own voices</h2>
+  <p class="page-intro">The histories of peoples other than humanity, each set down by one of that people at the Archive's asking, in the form their people keep a history in. Each is valid for its author, and the Archive has dated none of them; every entry also stands on its own shelf below.</p>
+  <div class="codex-grid">
+  {%- for entry in seriesEntries %}
+  <a class="codex-card" href="/star-rangers{{ entry.url }}">
+  {%- if entry.data.image -%}
+  <img class="codex-card__thumb" src="/star-rangers/images/codex/{{ entry.data.image }}" alt="{{ entry.data.image_alt | default(entry.data.title) }}" />
+  {%- endif -%}
+  {%- if entry.data.category -%}
+  <p class="codex-card__category">{{ entry.data.category }}</p>
+  {%- endif -%}
+  <h2 class="codex-card__title">{{ entry.data.title }}</h2>
+  {%- if entry.data.institution -%}
+  <p class="codex-card__institution">{{ entry.data.institution }}</p>
+  {%- endif -%}
+  </a>
+  {%- endfor -%}
+  </div>
+</section>
+{% endif %}
+
 {% if codexEntries.length %}
 {% for lib in libraries %}
   {%- set hasEntries = false -%}

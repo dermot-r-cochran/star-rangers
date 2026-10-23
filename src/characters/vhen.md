@@ -22,7 +22,7 @@ The account is of humans, and is fair to them by its own repeated insistence. Hu
 - Keeper of the meeting-chorus of Thavren, undated. The record fixes neither the contact between Thavren and the [Federation](/star-rangers/lore/federation-of-sentient-beings/) nor the recital more closely than that. [The Two Songs of the Loud People](/star-rangers/codex/the-two-songs-of-the-loud-people/).
 - Holds the chorus's corrected error about human aggression — the once a human body stayed quiet all the way to the end of a thing — as a mark and a change of practice, not a scene, as the old keepers ruled. The chorus confirmed that passage in full unison, which the translation desk is advised is rare.
 - The receiving desk's filing note holds the account valid for its keeper and notes one asymmetry: it measures humans against Thavren's baseline throughout, as [every record does that has not yet noticed it is doing it](/star-rangers/lore/what-the-record-refuses/).
-- The only Ovruhn individual the record names.
+- The first Ovruhn individual the record names; [Mhoren](/star-rangers/characters/mhoren/), keeper of the oldest chorus, is the second.
 
 ## Character Notes
 
