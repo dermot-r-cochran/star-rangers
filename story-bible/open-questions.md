@@ -281,7 +281,15 @@ generated.
 
 ---
 
-## A plural system whose members want different things — raised 21 October 2026, OPEN, his pick (three options, A recommended)
+## A plural system whose members want different things — raised 21 October 2026, RULED 23 October 2026: A (Dermot's *"Option A as recommended"*); Sen Lovax's system, Wyn's want to sign
+
+**Ruled 23 October 2026.** Dermot, verbatim: *"Option A as recommended"*. Wyn
+wants the desk to sign and keeps wanting it, and the desk does not; Options B
+and C are not taken. The 21 October condition binds the drafting unchanged.
+Nothing is written into a chapter or onto `src/characters/sen.md` by this
+ruling alone. The next step is a Sen block in one of the two slots under
+*Where it shows* below, which is Fable work and goes to the Waiting for Fable
+list. The page's *Character Notes* line about reopening stands as it is.
 
 Dermot, 21 October 2026, to the opening that a survey of the 148 character
 pages had found Sohrel the only plural mind with an inner pull, and Shepherd,
