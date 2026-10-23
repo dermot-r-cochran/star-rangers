@@ -355,6 +355,21 @@ ruling alone. The next step is a Sen block in one of the two slots under
 *Where it shows* below, which is Fable work and goes to the Waiting for Fable
 list. The page's *Character Notes* line about reopening stands as it is.
 
+**The block exists, 23 October 2026 (Fable), in the first slot:** S07E01C04
+*Not Under a Name*, 2831 UCSD, Deep Winter, the shift after *Enough Is
+Enough*, one Sen block after a short Wender block (the schema wants two
+viewpoints). The desk writes its note on the binder copy of the
+High Captain's account, both halves, and stops at the blank line for the
+archivist's name; Wyn wants it signed and says it will be wanted tomorrow,
+Sen declines, Cael holds that a name moves no standing; the three go home.
+The 2833 slot was not taken because the Comparanda already holds that
+evening in Sen's own hand, and a chapter at its date would restate a Codex
+entry as canon; 2831 is where the Comparanda's *"since the first week"* and
+*"for two years"* begin, so the block grounds them rather than repeating
+them. The page extension naming the standing difference (the recommendation's
+*when he picks*) is not in that PR and waits on his reading of the block.
+`sen.md` is unchanged; no *harmonious* line anywhere is touched.
+
 Dermot, 21 October 2026, to the opening that a survey of the 148 character
 pages had found Sohrel the only plural mind with an inner pull, and Shepherd,
 Tobble and Asteria, Sen, and the Eden Warden recorded as harmonious

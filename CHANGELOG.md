@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **New chapter: *Not Under a Name* (S07E01C04); the Sen block for Option A** (`src/seasons/s07/e01/s07e01c04.md`, `story-bible/open-questions.md`, `story-bible/intake-2026-10-23.md`, 2026-10-23, Fable, at Dermot's *"Option A as recommended"*). Deep Winter 2831 UCSD, the shift after *Enough Is Enough*: the desk writes its note on the binder copy of the High Captain's account and stops at the blank line for the archivist's name. Wyn wants it signed, so that what the desk found has to be answered, and will want it tomorrow; Sen declines; Cael holds that a name moves no standing. Nothing is settled and the three go home. Sen's page is unchanged.
+
 - **A portrait for Oriane Kessel** (`src/images/characters/oriane-kessel.jpg`, `story-bible/images.md` § 30, 2026-10-23, Opus, desktop). One round of four was generated, and variation 2 is filed, the only one that read as a photograph. The entry records what the frame misses.
 - **Portraits for Isserith and Orisseth, filed as renders** (`src/images/characters/isserith.jpg`, `src/images/characters/orisseth.jpg`, `story-bible/images.md` § 26 and § 29, 2026-10-23, Opus, desktop). Both failed the photograph test in two rounds. At Dermot's ruling the same day, the best of each is filed as a render. The ruling covers the Prismeri pages only.
 
