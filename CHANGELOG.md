@@ -6,6 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Sen's page names the standing difference about signing** (`src/characters/sen.md`, `CLAUDE.md`, `story-bible/intake-2026-10-23.md`, 2026-10-23, Opus). *Character Notes* gains one paragraph, an extension after S07E01C04: Wyn wants the desk to sign, Sen declines, and Cael holds that a name moves no standing. None of them has settled it, and it is not a fault in the arrangement. Dermot's four remarks on plural systems are recorded in the intake and in the plural-minds rule.
 - **New chapter: *Not Under a Name* (S07E01C04); the Sen block for Option A** (`src/seasons/s07/e01/s07e01c04.md`, `story-bible/open-questions.md`, `story-bible/intake-2026-10-23.md`, 2026-10-23, Fable, at Dermot's *"Option A as recommended"*). Deep Winter 2831 UCSD, the shift after *Enough Is Enough*: the desk writes its note on the binder copy of the High Captain's account and stops at the blank line for the archivist's name. Wyn wants it signed, so that what the desk found has to be answered, and will want it tomorrow; Sen declines; Cael holds that a name moves no standing. Nothing is settled and the three go home. Sen's page is unchanged.
 
 - **A portrait for Oriane Kessel** (`src/images/characters/oriane-kessel.jpg`, `story-bible/images.md` § 30, 2026-10-23, Opus, desktop). One round of four was generated, and variation 2 is filed, the only one that read as a photograph. The entry records what the frame misses.
