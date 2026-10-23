@@ -1755,3 +1755,24 @@ author's page carries no portrait, since the record says nothing of the body.
 ```powershell
 .\scripts\make-codex-cover.ps1 -TitleLines "THE ELVES OF","WOOD, SKY AND WATER" -Category "CULTURAL RECORD" -Subtitle "A traveller's sorting, with the desk's note" -Institution "Westminster Ring Press, New London" -Author "ROSAMUND HALLAM" -Stamp "FILED WITH NOTE" -Motif rules -Out src\images\codex\the-elves-of-wood-sky-and-water.jpg
 ```
+
+## 2026-10-23 — *What Still Does Work*, codex title card
+
+No generator prompt: a deterministic card from `make-codex-cover.ps1`, in the
+house template, for Sevrane's Codex entry (PR #1414; issue #1415). The stamp
+*UNCONVERTED* is the receiving desk's word for the dates. Checked at full size
+after drawing.
+
+```powershell
+.\scripts\make-codex-cover.ps1 -TitleLines "WHAT STILL","DOES WORK" -Category "CULTURAL RECORD" -Subtitle "A Krenyi account, in their own count" -Institution "Set down at the Survey Archive, Threshold Station" -Author "Sevrane, Nai" -Stamp "UNCONVERTED" -Motif rules -Out src\images\codex\what-still-does-work.jpg
+```
+
+## 2026-10-23 — The powered load frame, inline lore figure
+
+### powered-load-frame.jpg — prompt written 23 October 2026, GENERATED AND FILED 23 October 2026
+- **Type:** generation, an artefact (job kit, not uniform) worn by an anonymous Ranger seen from behind; an inline figure in *What the Shell Does, and Where It Stops*
+- **Tool:** Gemini `gemini-3.1-flash-image`, 2K, one round of four; `node scripts/image-prompts.js --generate --only powered-load-frame`
+- **Source:** `src/lore/rank-insignia-and-uniform.md` (*It does not move her*: kit issued by the Engineering and Safety Corps, worn over the shell, joints lock safe without power, built to lift and brace, not to strike, nothing lit)
+- **References:** none
+- **Prompt / recipe:** of record in `images.md` § 27; not duplicated here.
+- **Run:** variation 1 filed at strength 1 through `import-image.ps1 -MaxEdge 1600` (issue #1431). Variation 3 failed the modesty bar on its pose; 2 hid the frame behind the body.
