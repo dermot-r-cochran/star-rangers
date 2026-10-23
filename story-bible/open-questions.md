@@ -47,6 +47,70 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A keeper of the shielding on Corryn Prime, Oriane Kessel — the daily Fable fill of 23 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Corryn line of the 14 October worklist below (*Peoples under a power not
+their own*), taken by the daily Fable fill, for the colony half only. Drafted
+as `src/characters/oriane-kessel.md`, grounded only in `planets/corryn.md`,
+`halvern-combine.md`, `the-imperium.md`, `frontier-transformation-protocols.md`,
+`what-nobody-certifies.md`, `dreams-across-the-interval.md`, the timeline
+entry `2796-corryn-expansion-reaches-the-spiralites.md` and the Corryn lines
+of `species-design.md`, `mind-design.md`, `contact-design.md`,
+`ecology-design.md` and `civilian-dress.md`, with the rest marked absent in a
+*What the Record Does Not Carry* section; portrait prompt in `images.md`
+§ 30, not generated, so the page carries no `image:`; a *Corryn Prime, the
+colony* block added to `civilian-dress.md`, *Dress by place*, every line
+marked derived or proposed, on the Tally precedent of 14 October.
+
+**What the page does not do, by design.** It meets no Spiralite and names
+none: how anyone meets the people is not established (`contact-design.md`),
+who speaks for them is choice 5 of the social-order section (A, recommended,
+left for the Corryn chapter to find), and the worklist line's Spiralite half
+stays open. It does not settle the standing case or any part of it: whether
+the colony's machines are Kernel-compliant stays unsettled on
+`species-design.md`'s own reasoning (settling it would settle part of the
+case), the Combine's position is quoted as the Combine page states it, and
+the page's one finding about the colony is the planet page's own sentence
+about shielding. It does not make the colony's people victims or a lesson:
+the worklist's own words are *a people with their own lives*, so the page is
+a working day, and the word *remnant* is marked as the record's and not
+theirs.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Oriane Kessel*, coined, with no meaning asserted and no origin
+given, since no page holds the colony's languages or naming customs; the
+alternatives are a name with a plainly Inner System surname, which would
+assert a continuity the record does not state, or a name fitted to a sound he
+gives); **the pronoun** (*she*, with no reading of the colony's own usage);
+**the trade** (keeper of a settlement's electromagnetic shielding, derived
+from the planet page's one sentence about the settlements, *built for
+electromagnetic shielding, because the planet's natural fields interfere with
+human equipment*, and chosen over a miner, a grower or one of the system's
+own scientists because it is the colony's own irony seen from inside and from
+the plain side, and because a listener to the Carillon would pull the page
+toward the dreams and the message the record refuses); **the age** (born
+about 2788 UCSD, a child when the expansion began about 2796, so she does
+not remember the older scale, which keeps the page from a witness-to-before
+reading; the alternative, someone born after 2796 for whom the expansion is
+the only colony, was a close second); **the place** (a settlement the record
+does not name, since the planet page names none); **the era** (2826 UCSD,
+never off-world); **the employer** (unstated: whether the colony's people are
+the Combine's employees or its tenants is marked absent, with only the Combine
+page's *still Halvern's* carried); **the dreams** (whether she reports them is
+marked absent, not denied). Not asserted: what the settlement mines or grows;
+her kin; whether she has seen a Spiralite; whether she knows the Protocols'
+plain reading or the Combine's filings; any chapter. Not done: no chapter; no
+link from `planets/corryn.md` or `halvern-combine.md`, since neither lists
+people; no image generated.
+
+**Found in the record, not a conflict but worth a line.** `intake-2026-07-26.md`
+and `intake-2026-08-18.md` still carry, as superseded drafts, the earlier
+reading that the colony was founded about 2796 with no state partner; both
+mark it superseded in place, and the published pages and the timeline entry
+agree on the Imperium charter and the 2796 expansion. Nothing was changed.
+
+---
+
 ## The Prismeri history, Orisseth — the daily Fable fill of 23 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Prismeri line of the *Histories in their own voices* series below, taken
@@ -1070,7 +1134,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 - [x] ~~**Prismeri**: `src/lore/prismeri.md`, `src/lore/planets/prismere.md`. They are seen only through Halle Ostrander's drawings.~~ — **filled 22 October 2026** (Fable, by the daily Fable fill; the section *A Prismeri glass-fuser, Isserith* above records the choices; PR #1421): `src/characters/isserith.md`, a First Wings Prismeri of a lumenspire settlement on Prismere, the settlement's glass-fuser, for whom the Second Emergence has not come; at home, in no guild and on no posting, so choice 4 of *Non-humanoid peoples in the Corps* below stays open and the *A Prismeri on a Corps posting* line stays unticked; portrait prompt `images.md` § 26, not generated. Before this page the record had placed one Prismeri in prose, unnamed: Prismere's delegate in *Nobody Present*, Full Wings, on the floor.
 
 **Peoples under a power not their own:**
-- [ ] **Corryn**: the Spiralites and the Imperium-remnant human colony (`src/lore/planets/corryn.md`) have no characters. The colony's charter story is ready settlement material.
+- [x] ~~**Corryn**: the Spiralites and the Imperium-remnant human colony (`src/lore/planets/corryn.md`) have no characters. The colony's charter story is ready settlement material.~~ — **the colony half filled 23 October 2026** (Fable, by the daily Fable fill; the section *A keeper of the shielding on Corryn Prime, Oriane Kessel* above records the choices): `src/characters/oriane-kessel.md`, a colony-born keeper of a settlement's electromagnetic shielding, at home in 2826 UCSD, never off-world, in a settlement the record does not name; grounded only in the Corryn, Combine, Imperium, Protocols and *What Nobody Certifies* pages and the 2796 timeline entry, the rest marked absent; portrait prompt `images.md` § 30, not generated. **The Spiralite half stays unfilled on purpose**: who speaks for the Spiralites is choice 5 of the social-order section (A, recommended: not established until a chapter takes the Corps to Corryn Prime), `contact-design.md` has no meeting on record, and the page meets no Spiralite. The standing case is untouched.
 
 **Human peoples and places with pages and no people:**
 - [ ] **The Commonwealth and New London**: two pages, no character.

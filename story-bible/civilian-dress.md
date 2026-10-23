@@ -319,6 +319,13 @@ Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each settin
 - **Everyday:** Cloth of the hull's own loop, worn long, mended honestly and cut to be re-cut, in the few undyed or once-dyed tones a closed system affords; nothing on the person that is not on the books. *Proposed, from the count.*
 - **Custom:** No heritage element at all, since *nothing behind them is theirs* (`the-tally.md`): the one human dress in the record with nothing older than the Mooring in it. The hint of the century is the hull. *Derived for the absence, proposed for the hint.*
 
+### Corryn Prime, the colony
+*Tags:* `corryn`
+- **Conditions:** A K-type orange star; settlements *built for electromagnetic shielding, because the planet's natural fields interfere with human equipment*; mining and agriculture, the last thirty years' expansion of both (`planets/corryn.md`). *Derived.*
+- **Everyday:** Not stated. Plain outdoor work clothes for a mining-and-farming settlement, close-fitting near machinery, a high soft collar against the weather the page does not describe; nothing worn carries a light or an emitter, in a colony built around keeping its own equipment quiet. *Proposed, the last clause from the derived shielding.*
+- **Custom:** Not stated. Two and a half centuries seven hundred light years from the Inner System are not described on any page, so no heritage element is drawn, and nothing of the Imperium is worn: the charter is the colony's inheritance, not a dress. *Derived for the absence.*
+- **The century's sign:** The Carillon in the sky, and a building's seamless shielded skin; the cloth carries its one detail as everywhere. *Proposed.*
+
 ### Quern
 *Tags:* `quern`
 - **Conditions:** Sideways rain and lightning; air electrolysed out of the rain (`planets/quern.md`). *Derived.*
