@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Portraits for Isserith and Orisseth, filed as renders** (`src/images/characters/isserith.jpg`, `src/images/characters/orisseth.jpg`, `story-bible/images.md` § 26 and § 29, 2026-10-23, Opus, desktop). Both failed the photograph test in two rounds. At Dermot's ruling the same day, the best of each is filed as a render. The ruling covers the Prismeri pages only.
+
 - **A series shelf for *Histories in their own voices*, and five fixes from the week's critic read** (`src/codex/index.md`, `src/characters/vhen.md`, `src/codex/two-points-in-one-life.md`, `src/characters/orisseth.md`, `src/lore/rank-insignia-and-uniform.md`, 2026-10-23, Fable read, Opus fixes). `/codex/` now opens with the six histories by their tag, ahead of the library shelves. Vhen is the first named Ovruhn, not the only one; a Prismeri scout and Halle Ostrander lose pronouns the record never gave them; the field shell's hood covers whatever a body plan has in place of a face; and the desk notes that a guild answering for Prismere is the author's account.
 - **Portraits for Sevrane and Mhoren; Isserith and Orisseth stay bare** (`src/images/characters/sevrane.jpg`, `src/images/characters/mhoren.jpg`, `story-bible/images.md` § 25, 26, 28, 29, 2026-10-23, Opus, desktop). Two rounds of four each. Sevrane's second round faced the lens and carries the Krenyi kind; Mhoren's is filed cropped to the chest and tendrils. Isserith and Orisseth came back as creature renders in both rounds, so their pages stay without a portrait, as their entries direct.
 

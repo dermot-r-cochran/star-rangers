@@ -6,6 +6,8 @@ species: Prismeri
 role: "Glass-fuser of a lumenspire settlement on Prismere, First Wings; the Second Emergence has not come"
 status: Active
 aliases: []
+image: "isserith.jpg"
+image_alt: "Isserith, a First Wings Prismeri: a slender grey-violet flier hanging head-down by long-toed feet from a pale mineral ledge, wings part open so the thin veined membranes glow against a hazy cream sky. One three-fingered hand holds up a clear round lens and the other holds a small lump of glass at its focus, where a single bright point of light sits and a thread of heat-shimmer rises. The smooth head, with one pale seam along the crown, is turned down toward the work in closed profile; pale glassy spires stand far below."
 tags: [prismeri, prismere, iridess-system, federation-of-sentient-beings, first-wings, lumenspire, glasswork, civilian]
 description: "A First Wings Prismeri of a lumenspire settlement on Prismere, who fuses the settlement's glass by focused sun, hanging by the feet with both hands free, and for whom the Second Emergence has not come after more decades than it usually waits — in no guild, on no posting, and the first Prismeri the record names."
 ---

@@ -182,7 +182,10 @@ const PEOPLES = [
       body: "wings as forelimbs, not as an addition to arms", colour: "soft grey-violet in First Wings",
     },
     pageBody: ["src/lore/prismeri.md", "The frame is a flier's"],
-    portraits: {},
+    portraits: {
+      isserith: { check: "agrees", evidence: ["src/characters/isserith.md", "a soft still-hardening exoskeleton in grey-violet tones"], note: "Filed 23 October 2026 as a render, by his ruling the same day, round 1 variation 4." },
+      orisseth: { check: "agrees", evidence: ["src/characters/orisseth.md", "came out Full Wings, too heavy for the groves"], note: "Filed 23 October 2026 as a render, by his ruling the same day, round 2 variation 1." },
+    },
   },
   {
     id: "serephine-dunekin", name: "Serephine Dunekin", page: "src/lore/serephine-dunekin.md", places: "serephine-dunekin", species: ["Serephine Dunekin"],
