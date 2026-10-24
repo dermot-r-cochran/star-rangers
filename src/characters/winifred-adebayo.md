@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [human, new-london, commonwealth, earth-moon-l5, sol-system, civilian, secretariat]
 description: "A New London-born clerk of the Commonwealth's secretariat who keeps the association's correspondence: the writing-to that is, in practice, its only membership test, the comparisons of one wrecked archive against another, and the standing invitation to the Celtic Union, renewed in her hand and unanswered; the first person of the Commonwealth the record names, at home at Earth–Moon L5 in 2826 UCSD."
+image: "winifred-adebayo.jpg"
+image_alt: "Winifred Adebayo standing at the near end of a long plain pale-wood table in a small bare meeting room, side-on and bent over two plain sheets under her hands, her face in profile: short grey-flecked black hair, a dark green high-collared jumper under a collarless charcoal jacket; a plain cup on the table, the chairs along it empty, and behind her a wide rounded window onto the inside of the habitat's ring, terraced houses and a winding channel below and the ring's far side curving up into a flat grey-white glare."
 ---
 
 Winifred Adebayo keeps the correspondence. The [Commonwealth](/star-rangers/lore/the-commonwealth/) has no common legislature, no shared jurisdiction, no budget worth the name and no power to bind a member to anything, and what it has instead, a table and a protocol, has to be kept by somebody: the communities written to, the replies filed, the comparisons arranged, the invitation renewed. That is her trade. She is the first person of the Commonwealth the record names, and the Archive calls her the first of nothing else; an association's letters are somebody's work, as its minutes are elsewhere in the record.

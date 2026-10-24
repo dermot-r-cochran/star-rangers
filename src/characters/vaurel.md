@@ -13,7 +13,7 @@ Vaurel teaches classifiers. In the Cerebraun Hegemony's survey service the peopl
 
 ## Known History
 
-- A [Cerebraun](/star-rangers/lore/cerebraun/) of the Hegemony's home cluster. The record does not name the world, and gives no age. Cerebraun lives are long, and the record's only measure of them is that Hegemony officials can hold a post for centuries.
+- A [Cerebraun](/star-rangers/lore/cerebraun/) of the Hegemony's home cluster. The record does not name the world, and gives no age. How long a Cerebraun lives, the record has not established.
 - Teaches in the Hegemony's survey service, which classifies what Hegemony survey passes find. The record holds Vaurel's teaching filings through the standing data-exchange arrangement between the Hegemony and the Survey Corps, in translation.
 - Active in 2826 UCSD.
 

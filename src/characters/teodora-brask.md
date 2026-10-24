@@ -7,6 +7,8 @@ role: "Logician, Free Outer Belt Coalition (b. 2281 CE / 2481 UCSD)"
 status: Historical
 tags: [coherence-wars, free-outer-belt-coalition, mathematics, records, provenance, belt, human]
 description: "The Free Outer Belt Coalition logician of the Coherence Wars whose provenance arithmetic, a way to prove that a log has only ever been added to, was taken up by both sides, and whose name survives on the method rather than on any account of her life."
+image: "teodora-brask.jpg"
+image_alt: "Teodora Brask, a lean pale woman of about thirty with a long bony face and dark hair knotted at the nape, in a plain dark grey stand-collared jacket, seated side-on at a bare grey metal bench in a small compartment of dark cut rock, a line of small identical dark discs laid along the bench and one more held between finger and thumb at its end, a small round port in the rock behind her showing nothing but dark."
 ---
 
 Teodora Brask is known by a method. During the [Coherence Wars](/star-rangers/lore/the-imperium/) she worked out a ledger arithmetic in which every entry carries a check computed from every entry before it, so that a log altered at any point fails its own checks from that point on. A log kept her way cannot prove that what it says is true. It can prove that nothing in it has been rewritten since it was written, and a war in which every side kept logs turned out to need exactly that.

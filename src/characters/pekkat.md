@@ -16,7 +16,7 @@ The name is a struck signature, as every [Chthonari](/star-rangers/lore/chthonar
 ## Known History
 
 - Born in the Undersong Belt, in a burrow settlement the record does not name. Which settlement, and what it is tuned to, is the Belt's own business.
-- Tutors Federation mathematicians who come to the Belt to study under Chthonari teachers, the practice the species page records. A student who wants to learn from Pekkat has to stand on the rock. Nothing Pekkat teaches reaches a student through air, and nothing reaches a student who is not in contact with structure.
+- Tutors Federation mathematicians who come to the Belt to study under Chthonari teachers, the practice the species page records. A student who wants to learn from Pekkat has to stand on the rock. Nothing Pekkat teaches reaches a student through air, and nothing reaches a student who is not in contact with structure. How a student who cannot feel the rock receives what Pekkat teaches, the record does not describe; the students' own reports say only that they do, and that what they take home is, by Pekkat's standard, a description.
 - Active in 2826 UCSD. The record does not fix how long Pekkat has taught, or how many students have come.
 
 ## Character Notes

@@ -7,6 +7,8 @@ role: "Governance theorist, the Democratic Underground (b. 2571 UCSD – d. 2640
 status: Historical
 tags: [imperium, democratic-underground, reform-movement, governance, outer-stations, human]
 description: "A theorist of the Imperium's Democratic Underground whose papers designed ways of deciding in which no seat gains by defeating another. The papers were ready when the Imperium fell, and the restructuring that followed did not use them."
+image: "pell-annerley.jpg"
+image_alt: "Pell Annerley, a lean person in their forties with close-cropped greying hair and light-brown skin, in a loose slate-grey high-necked overshirt, standing at the left of a small pale-panelled station room with one hand on the back of a plain chair at a bare round table ringed by identical chairs, a small square port in the far wall showing only dark structure."
 ---
 
 Pell Annerley designed procedures. Their papers, written inside the loose network that called itself the Consortium Remnant and later the Reform Movement, are not arguments about who should govern. They are working designs for how a body should decide: how a question is put, who answers first, what a seat can and cannot gain by its answer. The test Annerley set every design was the same. A procedure was good if no seat could do better by defeating another seat than by saying plainly what it wanted.
@@ -14,7 +16,7 @@ Pell Annerley designed procedures. Their papers, written inside the loose networ
 ## Known History
 
 - Born 2571 UCSD, under the [Imperium](/star-rangers/lore/the-imperium/). The record gives no birthplace. The papers place Annerley among the outer stations for most of their working life, and the network kept no membership rolls.
-- Wrote across four decades of the Imperium period, outside official channels, as the Imperium page says the Underground did. The record holds the papers and almost nothing of the person who wrote them.
+- Wrote outside official channels through the Imperium's last decades, as the Imperium page says the Underground did, and for three more after it fell. The record holds the papers and almost nothing of the person who wrote them.
 - In 2609 UCSD the Imperium gave way to the Military Space Command by negotiated restructuring. The designs that restructuring adopted were modelled on the High Council, by people raised inside Imperium assumptions. They were not Annerley's.
 - Died 2640 UCSD. The record does not say where.
 
