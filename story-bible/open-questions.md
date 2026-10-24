@@ -47,6 +47,42 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## Intelligence services and prisons in the 29th century — raised 24 October 2026, RULED the same day: A (Dermot's *"Option A: leave the polities' intelligence services marked absent until a chapter needs one."*)
+
+Dermot asked, 24 October 2026: *"Do intelligence agencies still exist in the
+29th century and and so then they would be less covert and dangerous than in
+the 20th century"*. **What the record held:** the Provost Corps' Chief Provost
+runs *"internal investigation, counter-intelligence, and protective
+security"*, answerable to due process (`src/lore/star-rangers-command-hierarchy.md`,
+*The Provost Track*); the Corps has no plain-clothes ranks or undercover
+officers (the uniform rule); Five-O *"does not do covert animals"*
+(`src/characters/alala.md`); the spy is a refused trope (`intake-2026-09-10.md`).
+No page says whether the Solar System Defence Command, the Federation, the
+Cerebraun Hegemony or the Celtic Union keeps an intelligence service. Three
+options were put: **A**, leave the polities' services marked absent until a
+chapter needs one (recommended); B, a lore line saying they are open and
+accountable, the Provost Corps as the model; C, B with the Hegemony left
+absent. **Ruled A.** Nothing is written to `src/`. When a chapter does need
+one, the record's direction already points the way: answerable to due
+process, Kernel-honest minds, no clandestine branch shown as the record's
+norm, no spy plot, and nobody written as a villain.
+
+**Prisons, the same conversation.** Dermot, verbatim: *"Prisons would either
+be unneeded or would be very different in design and function"*. A direction,
+not a page: nothing is written to `src/`, and no prison is described anywhere
+in the record. What the record already holds is consistent with it. A commissioned
+mind is *"presumed innocent and triable"* (`src/lore/commissioned-standing.md`);
+the Provost Corps has powers of investigation and restriction *"and none of
+conviction"* (`intake-2026-09-10.md`); a polity that cannot try a Ranger
+*"can only expel her"*; and *Contained* is a status of custody, not a sentence
+(Ilse Korvain, *"Survey Corps custody, jurisdiction formally disputed"*). **When
+a chapter needs custody or confinement**, it either finds none needed or
+meets a place very different in design and function from a 20th-century
+prison, never the cell block, the yard or the warder. Its form is settled
+then, on a page that needs it, as a proposal.
+
+---
+
 ## A clerk of the Commonwealth's correspondence on New London, Winifred Adebayo — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Commonwealth and New London line of the 14 October worklist below
