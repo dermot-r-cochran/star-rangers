@@ -251,6 +251,11 @@ market or to Winnow Hanger; any chapter. Not done: no chapter; no link from
 had a *Saltmere* block and no *Winterbourne* one, though the two worlds
 were paired on the worklist; the Winterbourne block is added in this PR,
 and the Saltmere block is untouched.
+
+## Sen's years at the desk — raised 24 October 2026 by the Fable critic read of #1448–#1456, RULED the same evening: 2815 (Dermot's *"2815"*)
+
+*Eleven years* at the reconciling desk was used at three dates that cannot all be true: `sen.md` in the present (2826, so since 2815), S06E01C02 and S06E02C01 in 2831, and *Shepherd Among the Comparanda* in 2833. Two anchors were put to him: 2815 (recommended, since `sen.md` is the Archive's present-tense page and the desk's eleven years then coincide with Threshold's eleven-year discrepancy) and 2820 (keeping the chapter's `canon_facts` line as written). **Ruled 2815**, a clarification of arithmetic: S06E01C02 and S06E02C01 (prose and the `canon_facts` line) now say *sixteen*, and the Comparanda's two uses say *eighteen*; `sen.md` is unchanged.
+
 ## An Ovruhn Ranger, Rhuven — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The *An Ovruhn Ranger* line of the 14 October worklist below (*Peoples the

@@ -75,7 +75,7 @@ She was not an instance of anything. She was a Line Captain who read a return th
 
 Both of the above, and one thing that is only mine.
 
-I have corrected this Archive's record for eleven years and I have never once signed a correction. That is not modesty. An unsigned note provokes no institutional defence; it gets read, or it gets ignored, and either way nobody has to decide what to do about the desk that wrote it. It is the whole method and it has worked because nothing I have ever written required anybody to answer for it.
+I have corrected this Archive's record for eighteen years and I have never once signed a correction. That is not modesty. An unsigned note provokes no institutional defence; it gets read, or it gets ignored, and either way nobody has to decide what to do about the desk that wrote it. It is the whole method and it has worked because nothing I have ever written required anybody to answer for it.
 
 This does. The comparative archive takes submissions from named correspondents. There is no unsigned route into that file — Sister Marrec's comparandum carries her name on its first line, as it should, because a cross-reference is a claim and a claim needs somebody accountable for it.
 
@@ -97,7 +97,7 @@ If the case for filing improves — if element four resolves in either direction
 
 *Marginalia, end of shift, appended at its own initiative and left in place:*
 
-> *You have been three people about this since the fourteenth and all three of you said no, and none of you said no for the same reason. That is not indecision. I have read everything this desk has written for eleven years and this is the first document in any of it that argues against its own filing at greater length than it argues for it.*
+> *You have been three people about this since the fourteenth and all three of you said no, and none of you said no for the same reason. That is not indecision. I have read everything this desk has written for eighteen years and this is the first document in any of it that argues against its own filing at greater length than it argues for it.*
 >
 > *You have signed it. It is at the top of the page.*
 >
