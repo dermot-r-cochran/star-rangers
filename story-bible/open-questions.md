@@ -166,6 +166,103 @@ fold-transit catastrophe, not a fight. Its consequences for drafting:
 
 ---
 
+## An Ovruhn Ranger, Rhuven — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The *An Ovruhn Ranger* line of the 14 October worklist below (*Peoples the
+record says serve in the Corps, or could, with no Ranger on record*), taken
+by the daily Fable fill. Drafted as `src/characters/rhuven.md`, grounded only
+in `ovruhn.md`, `characters/vhen.md`, `characters/mhoren.md`,
+`codex/the-two-songs-of-the-loud-people.md`,
+`codex/the-quiet-has-no-far-side.md`, `federation-of-sentient-beings.md`,
+`star-rangers-survey-corps.md` (*The Meteorology Branch*),
+`weather-on-other-worlds.md`, `star-rangers-command-hierarchy.md`,
+`star-rangers-academy.md`, `rank-insignia-and-uniform.md`,
+`the-ladder-in-other-tongues.md` (*Ovruhn*),
+`codex/xenolinguistics-handbook-failure-modes.md` (failure 3) and the ruled
+Ovruhn sections of `species-design.md`, `mind-design.md`, `contact-design.md`
+and `civilian-dress.md`, with the rest marked absent in a *What the Record
+Does Not Carry* section; portrait prompt in `images.md` § 34, not generated,
+so the page carries no `image:`; one See-also clause added to `ovruhn.md`
+(an extension, as Mhoren's fill added one); the Ovruhn *In the Corps* lines
+of `species-design.md` corrected from *None* to the page.
+
+**Which of the four kinds of work, and why.** The people's page gives Ovruhn
+Rangers four kinds of work: structural survey, atmosphere-side search, long
+acoustic watch, and mass care in disaster response. Acoustic watch was taken
+because it is the one the record already gives a corps, a branch and a
+doctrine: the Survey Corps page says the Meteorology Branch's *"real product
+is not forecasts but observers — locally posted, locally calibrated, keeping
+the long records that cannot be imported"*, and `weather-on-other-worlds.md`
+says a sky is read by whoever stands under it. The other three would each
+have settled a thing the record keeps open: which corps holds search and
+rescue is *not established* (`species-design.md`, Ilveth and Ovruhn, *In the
+Corps*); structural survey sits across Safety and Engineering; and mass care
+is the thing Thavren does for the Federation compact as a member world, so
+an Ovruhn Ranger doing it would have blurred the compact's crews with the
+Corps, which the people's page keeps apart. The page says all of this in
+its own voice and marks the three as not touched.
+
+**Honoured, not settled.** The 14 October *Non-humanoid peoples in the
+Corps* rulings, all A: the service ages are the human case and an Ovruhn's
+are the Medical Corps' to set (the page says so and gives no age); the
+adopted principle, *the Corps adapts to the Ranger in everything it
+provides, in nothing it certifies, and says where it cannot*, is the shape
+of *The Work* and *The Uniform* (the shell fitted clear of the flanks is a
+provision; a reading no colleague can share is not a classification item).
+*The corps of the four non-humanoid Rangers on record* stays as it is: Mira
+of Brine, Qiren Tal, Sethka Ru and Suvra Kel keep their one plain seated tab,
+and Rhuven's corps and tab are theirs alone, derived for a new page and not
+read back onto any of the four.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Rhuven*, coined, rendered as the record's spelling of a name
+that arrives *already part-translated* from a grammar carried in the
+under-song, as the people's page says every Ovruhn person-form does; it
+follows the two attested Ovruhn names, *Vhen* and *Mhoren*, in shape, a
+breathed consonant and a long open vowel, and asserts no meaning; the
+alternatives are *Dhurel* and *Ohlen*, the two offered beside Mhoren and not
+used, or a name he gives); **the pronoun** (*they*, his ruling of 29 August
+2026 for every Ovruhn individual in the translation register; nothing new);
+**the corps and branch** (Survey Corps, Meteorology Branch, for the reasons
+above; the page says the record draws nothing about the people from one
+case, and `species-design.md`'s *which corps* line now reads that way);
+**the rank** (Field Officer, four bars on pale grey-green: the first tier
+that can be posted independently, which an observer posted alone must be,
+and the Ovruhn rendering of it, *one who holds a part alone*, is the page's
+governing figure; Senior would have put a second Ranger on the posting to
+be second to, and Deputy could not be posted alone); **the road in** (the
+ordinary intake through the Survey college, every rung held, the year not
+fixed, chosen over Kettsa's fast track so that two of the record's three
+non-humanoid Rangers with a stated road do not both take the exception;
+`species-design.md`'s proposed line that an Ovruhn cadet learns a part by
+holding it beside a keeper is not written to the page, since nothing on it
+needs the mechanism); **the posting** (a world with weather the record does
+not name: the branch posts observers locally and the record has named no
+observer's station anywhere; the Five Islands, which forced the branch's
+storm classification, was not used, since Survey contact there is *made
+only in the last several years* and a standing Ranger post on the Kingdom's
+ground would be a canon extension of that page and touches its treatment);
+**posted alone** (the one Ovruhn in reach of the posting, which gives the
+oldest chorus's *the ones in the quiet* passage its first Ranger to stand
+beside, and asserts nothing about any other roster); **the era** (2826 UCSD,
+the record's present, and nowhere else); **the written log** (the page's
+second figure, an Ovruhn keeping the written record the people never built,
+derived from `ovruhn.md`'s *The Chorus Is the Library* and the Survey page's
+Archive Branch, and asserting no new fact about either); **the storm heard
+early** (real physics, infrasound ahead of weather, inside the far sense the
+page gives; how far it reaches in thinner air is marked not established, as
+`contact-design.md` marks it); **the readings for the portrait** (hide,
+shell, tab, tendrils, rod, place and camera, in § 34). Not asserted: an age,
+a lifespan, a chorus of origin, kin, a year of entry, a distinction, any
+other Ovruhn in service, which corps the people mostly join, the posting
+world or station, any chapter. Not done: no chapter; no Thavren page; no
+edit to `the-ladder-in-other-tongues.md`, `star-rangers-survey-corps.md` or
+the uniform page's list of the shell's wearers by species (adding an Ovruhn
+there is a canon extension of its own, as Kettsa's fill found for the
+Chthonari, and is left for a page that needs it); no image generated.
+
+---
+
 ## A clerk of the Commonwealth's correspondence on New London, Winifred Adebayo — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Commonwealth and New London line of the 14 October worklist below
@@ -1476,7 +1573,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 
 **Peoples the record says serve in the Corps, or could, with no Ranger on record** (added 14 October 2026 from `species-design.md`, *In the Corps*):
 - [x] ~~**A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.~~ **Filled 19 October 2026** on Fable at Dermot's direction: Kettsa, Senior Officer, Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone, 2826 UCSD (`src/characters/kettsa.md`; portrait prompt `images.md` § 19, not generated; the section *A Chthonari Ranger, Kettsa* above records the choices; PR #1362).
-- [ ] **An Ovruhn Ranger**: `ovruhn.md`, *In the Corps*, describes Ovruhn Rangers in structural survey, search, acoustic watch and disaster mass care; the one named Ovruhn, Vhen, is a chorus keeper on Thavren. This line is the Corps half of the Ovruhn entry's *"any Corps character"*.
+- [x] ~~**An Ovruhn Ranger**: `ovruhn.md`, *In the Corps*, describes Ovruhn Rangers in structural survey, search, acoustic watch and disaster mass care; the one named Ovruhn, Vhen, is a chorus keeper on Thavren. This line is the Corps half of the Ovruhn entry's *"any Corps character"*.~~ **Filled 24 October 2026** (Fable, by the daily Fable fill; the section *An Ovruhn Ranger, Rhuven* above records the choices): Rhuven, Field Officer, Survey Corps, Meteorology Branch, the acoustic observer of a world with weather the record does not name, posted alone, 2826 UCSD (`src/characters/rhuven.md`; portrait prompt `images.md` § 34, not generated). The acoustic-watch line of the four was taken because it is the one the record already gives a branch and a doctrine (`star-rangers-survey-corps.md`, the Meteorology Branch's locally posted observers); which corps holds search and rescue, and which the Ovruhn mostly join, stay not established.
 - [ ] **A Prismeri on a Corps posting**: guild astrogators do Survey Corps fold-route confirmation under the compact, and Prismeri contracts name *Ranger liaison postings*, but no Prismeri individual is on record (the *Federation peoples* Prismeri line above is the people as a whole; this one is the posting). Whether such a posting is a Ranger or a seconded guild member is choice 4 in that section.
 - [ ] **A Verdani in or beside the Corps**: Verdani need only full-spectrum light, which Ranger vessels already carry, and Isren Farrowkin sponsored the Survey Corps data-sharing proposal, but no Verdani Ranger is on record.
 - [ ] **The corps of the four non-humanoid Rangers on record**: Mira of Brine, Qiren Tal, Sethka Ru and Suvra Kel each have a role and no corps or rank on their pages; fill when a chapter or portrait needs one, on the Veyr precedent of one plain seated tab until then.
