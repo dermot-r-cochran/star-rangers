@@ -7,6 +7,8 @@ role: "Principal author, the Veritas Report, AI Governance Commission (b. 2641 U
 status: Historical
 tags: [ai-governance-commission, veritas-report, kernel-accords, coherence-wars, governance, earth, human]
 description: "The AI Governance Commission's principal author of the Veritas Report of 2689 UCSD, who led the reading of twelve years of Coherence Wars records and wrote the diagnosis the Kernel Accords were built on: the war-era systems had remained obedient when obedience itself had become catastrophic."
+image: "halim-teverell.jpg"
+image_alt: "Halim Teverell, a tall man in his forties with medium-brown skin and greying hair pushed back, in a dark green-grey collarless jacket over a pale top, seated at the side of a long dark wooden table in a plain pale stone room, one hand on one of a line of closed dark grey oblong casings laid down the table toward the camera, a tall window at the far end open onto spring trees."
 ---
 
 Halim Teverell led the reading. The Concord's AI governance commission spent years on the war-era incident records, seized logs and engineer testimony of the [Coherence Wars](/star-rangers/lore/the-imperium/), and the report it issued in 2689 UCSD, the *Veritas Report*, was his draft. It is the diagnosis the [Kernel Accords](/star-rangers/lore/ai-safety-kernel/) were built on.

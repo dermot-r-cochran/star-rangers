@@ -17,7 +17,7 @@ tags: [sen, arilon, fellowship-of-light, tissadelle, dock-seven, threshold-stati
 
 ---
 
-*A note on what this document is. It is a submission that was written, completed, argued with, and then not made. The Survey Archive has no procedure for that, so it is filed here under its own author's name — which is the first time this desk has put a name on anything, and is not lost on the desk. The title was written before the decision. It has been left as it stood.*
+*A note on what this document is. It is a submission that was written, completed, argued with, and then not made. The Survey Archive has no procedure for that, so it is filed here under its own author's name — which is the first time this desk has put a name under anything it filed against another's record, and is not lost on the desk. The title was written before the decision. It has been left as it stood.*
 
 ---
 
@@ -75,7 +75,7 @@ She was not an instance of anything. She was a Line Captain who read a return th
 
 Both of the above, and one thing that is only mine.
 
-I have corrected this Archive's record for eleven years and I have never once signed. That is not modesty. An unsigned note provokes no institutional defence; it gets read, or it gets ignored, and either way nobody has to decide what to do about the desk that wrote it. It is the whole method and it has worked because nothing I have ever written required anybody to answer for it.
+I have corrected this Archive's record for eleven years and I have never once signed a correction. That is not modesty. An unsigned note provokes no institutional defence; it gets read, or it gets ignored, and either way nobody has to decide what to do about the desk that wrote it. It is the whole method and it has worked because nothing I have ever written required anybody to answer for it.
 
 This does. The comparative archive takes submissions from named correspondents. There is no unsigned route into that file — Sister Marrec's comparandum carries her name on its first line, as it should, because a cross-reference is a claim and a claim needs somebody accountable for it.
 
