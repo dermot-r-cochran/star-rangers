@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Codex: *Shown to the Sky*; the Ilveth history in their own voice** (`src/codex/shown-to-the-sky.md`, `src/characters/idrun-hesk.md`, `src/images/codex/shown-to-the-sky.jpg`, `story-bible/images.md` § 31, `story-bible/open-questions.md`, 2026-10-24, Fable, by the daily Fable fill). The seventh entry of *Histories in their own voices*. Idrun Hesk, a sealer of a buried working floor on Sardain, gives the Ilveth history in warmth, outside, at night, at full price: the first wall, the going down after old warmth, the three nights a landing party burned on the ice, the faces answered by mistake, the Ilveth held to click-speech in warm hulls. Filed as her own click-speech gloss; the warm-write is on file and unread; three passages marked, not rendered; no year anywhere. Valid for its author. Title card made; portrait prompt written, not generated.
+
 ## [1.48.0] — 2026-10-23
 
 A new chapter, *Not Under a Name* (S07E01C04), leaves the desk's note on the High Captain's account unsigned, and two more *Histories in their own voices* arrive: the Ovruhn chorus's *The Quiet Has No Far Side* and the Prismeri guild's *Two Points in One Life*, now shelved together at the head of the Codex. Oriane Kessel becomes the first named person of the Corryn Prime colony, the Ranger field shell gains its limits, its powered load frame and its rules on who reads the body's record, and five portraits and a load-frame figure are filed.

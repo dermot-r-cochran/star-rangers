@@ -47,6 +47,92 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## The Ilveth history, Idrun Hesk — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Ilveth line of the *Histories in their own voices* series below, taken by
+the daily Fable fill ahead of the Cerebraun, Ollune and Verdani lines. Drafted
+as `src/codex/shown-to-the-sky.md`, the seventh entry of the series, with its
+author's page `src/characters/idrun-hesk.md`, grounded only in `ilveth.md`,
+`characters/suvra-kel.md`, `the-ladder-in-other-tongues.md` (*Ilveth*),
+`codex/xenolinguistics-handbook-failure-modes.md` (failures 3 and 4),
+`federation-of-sentient-beings.md` (which holds no Ilveth), the timeline
+(which holds no Ilveth event) and the Ilveth sections of `species-design.md`,
+`mind-design.md`, `contact-design.md`, `language-design.md` and
+`civilian-dress.md`, with the rest marked absent in a *What the Record Does
+Not Carry* section; portrait prompt in `images.md` § 31, not generated, so
+the page carries no `image:`; the entry's title card made with
+`make-codex-cover.ps1`, stamp AS GLOSSED.
+
+**Why the author is not Suvra Kel.** The series line names her page as a
+source and not as the author, and the record's two Ilveth facts about her
+point away: she is *among the first Ilveth to take Corps service*, held to
+click-speech aboard a warm hull, and her page already carries the one Ilveth
+phrase the record quotes. A history *written in warmth* needs a writer who
+is on Sardain, where the register is usable, and the series' habit (Osune
+and not Ulessa, Mhoren and not Vhen, Orisseth and not Isserith) is a second
+named person of the people, with the first deferred to on what is theirs.
+So the entry refers to Suvra Kel's phrase without repeating it, and the
+author stayed home.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Idrun Hesk*, coined as a click-speech handle on the one
+attested Ilveth name's shape, two short words, the record's own line that
+an Ilveth's full name is a warm-write pattern it cannot carry; it asserts no
+meaning; the alternatives are *Olmeth Kur* and *Hesra Vun*, in the same
+pattern, or a name he gives); **the pronoun** (*she*, in the record's
+translation register, as Suvra Kel is rendered; nothing new, and the
+pronoun-paradigm line in the 23 August section stays as it was); **the
+role** (a sealer, one who keeps a buried working floor from showing its
+heat: derived from the people's page's *seal it, bury it, bank it* and
+*insulation raised to the level other civilisations reserve for art*, and
+proposed as a trade, since the record names none; the entry gives it as
+her own account of herself and the desk's note says so); **the frame**
+(the warm-write given outside at night at the author's asking, recorded by
+a Survey Corps reader's imager on `contact-design.md`'s rule that an
+instrument passes signal and decides nothing; the Archive cannot read the
+register, since the record already holds that it cannot carry a warm-write
+name; the filed text is her own click-speech gloss, rendered by the reader,
+so the named person who owns the error stands between the two crossings;
+`Survey Archive, Threshold Station` with a receiving note, the Sevrane and
+Orisseth pattern); **the marks** (three passages warm-written and not
+glossed, marked and not rendered, on the Marked Absences doctrine, and two
+places where the imager showed the vanes brightest, marked because in that
+language emphasis is expenditure and is part of the text; the entry's own
+device, from the people's page's *emphasis is expenditure*); **the sky**
+(the entry's governing figure, that giving a history under the open sky is
+giving it at full price, is the people's page's *shelter is not showing the
+sky your heat* read in the author's voice, and the ending turns it, since
+the landing party showed the sky its heat for three nights and lived; the
+recognition the ending test asks for); **the shame** (what the Ilveth
+thought the landing party was doing, and that the shame went one way and
+then the other, is the author's claim; the record holds the error of
+answering blushes and that thrift was read as coldness, and no Ilveth
+account of early contact but this one, so the desk's note files it as
+hers); **the hulls** (the author's statement that the Ilveth aboard warm
+hulls *have agreed, for your sake, to go where they cannot* restates the
+people's page's cost from the side that pays it and asserts nothing new);
+**the title** (the proverb turned into the act; *Shown to the Sky* is also
+what the warm-write literally was that night); **the title card** (stamp
+AS GLOSSED, since the filed text is the author's own gloss and the original
+is unread, beside UNCONVERTED, RENDERED and AS READ); **the second Ilveth**
+(Idrun Hesk is the second Ilveth individual the record names, and the
+*one character each, no home-world page* worklist line stays as it is,
+since Sardain still has no page and gets none here).
+Not asserted: any year, in any reckoning (the author's measures are
+watches and nights, and she declines a count to convert); the survey's
+first landing on Sardain or the contact's date; any Ilveth polity, office,
+Federation standing or spokesperson (the author says she does not speak
+for Sardain and has not asked who does, which settles nothing); Sardain's
+place or star; the people's own name for themselves (not glossed, *no
+click for it*); Ilveth sex, birth, kin or lifespan; whether *sealer* is an
+office; the author's corps or rank, since she has none. Not done: no
+chapter; no Sardain page; no edit to `ilveth.md` or `suvra-kel.md` (the
+fill's brief kept the PR to the entry, its author, § 31, this file and the
+changelog, so the lore page's See-also clause is owed as a one-line
+extension); no image generated.
+
+---
+
 ## A keeper of the shielding on Corryn Prime, Oriane Kessel — the daily Fable fill of 23 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Corryn line of the 14 October worklist below (*Peoples under a power not
@@ -837,9 +923,30 @@ same rule:
   23 October 2026 and was filed as a render the same day at Dermot's
   *"Allow a render-style portrait on the Prismeri pages"*. The section *The Prismeri history,
   Orisseth* at the top of this file records the choices.
-- [ ] **Ilveth** — `src/lore/ilveth.md`, `src/characters/suvra-kel.md`.
+- [x] ~~**Ilveth** — `src/lore/ilveth.md`, `src/characters/suvra-kel.md`.
   Voice: **written in warmth**, the signalling vanes, a word that costs a
-  calorie. Sardain has no page.
+  calorie. Sardain has no page.~~ — **drafted 24 October 2026** (Fable, by
+  the daily Fable fill; taken ahead of the Cerebraun, Ollune and Verdani
+  lines at the fill's brief; PR #PRNUM): `src/codex/shown-to-the-sky.md`, by
+  Idrun Hesk, a sealer of a buried working floor on Sardain
+  (`src/characters/idrun-hesk.md`), the second Ilveth the record names and
+  not Suvra Kel. Given in the warm-write, outside, at night, at her asking,
+  to a Survey Corps reader with an imager that passes the thermal band and
+  decides nothing; the warm-write is on file and the Archive cannot read it,
+  and what is filed is her own click-speech gloss, with three passages
+  warm-written and not glossed, marked and not rendered;
+  `library: "Survey Archive, Threshold Station"`, the Sevrane pattern. A
+  history as a ledger of what was spent: the first wall, the going down
+  after old warmth, the stars counted and not wanted, the courtesy of not
+  answering a body, the three nights the landing party burned on the ice,
+  the faces answered by mistake, the Ilveth held to click-speech in warm
+  hulls, the ladder explained from the inside, and the sky as the reason.
+  No year in any reckoning; the landing and the contact undated; no
+  polity, Federation standing, trade, lifespan or name for themselves
+  asserted; Sardain given nothing the people's page does not hold. The
+  title card is made; the portrait prompt is `images.md` § 31, not
+  generated. The section *The Ilveth history, Idrun Hesk* at the top of
+  this file records the choices.
 - [ ] **Pelagene Littoral** — `src/lore/pelagene-littoral.md`,
   `src/characters/mira-of-brine.md`. Voice: **the original is the document**:
   every human word for their medium is a translation made early, and the
