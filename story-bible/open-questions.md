@@ -150,6 +150,19 @@ fold-transit catastrophe, not a fight. Its consequences for drafting:
   what it does, and General Krast's line stays the one voiced political idea.
   A character may still disagree hard, and dissent is ordinary and
   legitimate. It is the violence that is pointless, never the disagreement.
+- **Serious crime rare, and quietly prevented.** Dermot, verbatim:
+  *"felonies and serious crimes are rare and tend to be silently and gently
+  prevented by robots and AI safety systems"*. A direction, nothing written
+  to `src/`. Prevention is quiet redirection and refusal, never force: a
+  Kernel-compliant system declines to be an instrument
+  (`src/lore/ai-safety-kernel.md`; the heritable-modification refusal is the
+  worked case). It never reads as surveillance or dystopia, and never takes
+  away anyone's standing. *Tend to* is his word, so a crime that gets past
+  it is possible, and is the kind of case a local detective opens.
+- **All of the above became one standing rule in `CLAUDE.md`** the same day,
+  at his *"Add the 24 October directions as one standing rule in star-rangers
+  CLAUDE.md"*: *The present is peaceable by design, and suspense never comes
+  from overt violence*.
 
 ---
 
