@@ -464,7 +464,7 @@ author's page `src/characters/idrun-hesk.md`, grounded only in `ilveth.md`,
 (which holds no Ilveth event) and the Ilveth sections of `species-design.md`,
 `mind-design.md`, `contact-design.md`, `language-design.md` and
 `civilian-dress.md`, with the rest marked absent in a *What the Record Does
-Not Carry* section; portrait prompt in `images.md` § 31, not generated, so
+Not Carry* section; portrait prompt in `images.md` § 31, filed 24 October 2026 as a thermal-band frame (the Ilveth ruled not recordable in visible light), so
 the page carries no `image:`; the entry's title card made with
 `make-codex-cover.ps1`, stamp AS GLOSSED.
 
