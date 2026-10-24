@@ -15,7 +15,7 @@ eleventyComputed:
 {% endif %}
 <h1 class="page-title">Characters</h1>
 <p class="page-intro">
-  These are the named lives inside the record: officers, civilians, constructs, beings, and entities whose choices keep the frontier functioning or force it to change. Species labels reflect canonical classification—not how characters name themselves or one another.
+  These are the named lives inside the record: officers, civilians, constructs, beings, and entities whose choices keep the frontier functioning or force it to change. Labels of kind reflect canonical classification—not how characters name themselves or one another.
 </p>
 
 {% set chars = collections.characters %}
