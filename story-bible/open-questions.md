@@ -108,16 +108,16 @@ Dermot, verbatim: *"armed conflict is extremely rare; lethal armed conflict
 almost unheard off after the founding of the star rangers"*, then *"so the
 tension and suspense in the story does not come from overt violence"*. A
 direction. Nothing is written to `src/`, and a search of lore, timeline and
-seasons found no armed conflict dated after the founding (2718 UCSD,
+seasons found no armed conflict dated after the founding (the charter, 2723 UCSD,
 `src/lore/formation-of-star-rangers.md`). The Wrath of the Dragons (2831) is a
 fold-transit catastrophe, not a fight. Its consequences for drafting:
-- **After 2718 UCSD armed conflict is extremely rare, and lethal armed
+- **After 2723 UCSD armed conflict is extremely rare, and lethal armed
   conflict almost unheard of.** The polities still keep militaries (the
   Federation's *interposition not conquest*, the Celtic Union's mostly
   ceremonial force), and their work is deterrence, interposition and
   ceremony. *Almost* is his word and stands: the record does not claim it
   never happened, and any exception is a canon question for him, not a
-  drafting choice. Before 2718 the record keeps its history (the Imperium's
+  drafting choice. Before 2723 the record keeps its history (the Imperium's
   fall in 2609, the Military Space Command's failure) as history.
 - **Tension and suspense never come from overt violence.** They come from
   what the record already runs on: a gap that cannot be crossed (the

@@ -57,7 +57,7 @@ Sen does not explain the arrangement to people who haven't earned the explanatio
 
 Sen has never lost an argument about whether a closed incident report should stay closed. Colleagues describe this as persistence. It is more precisely three people agreeing, independently, that it shouldn't.
 
-On signing, they do not agree, and have not for years. Wyn wants the desk to put a name under what it files, so that what it finds has to be answered; Sen declines, and the line for the archivist's name has stayed blank on every note the desk has filed; Cael holds that a name moves no standing, signed or not. None of the three has settled it, and none expects to. It changes nothing about how the desk is run, and it is not a fault in the arrangement: people who share a life and a desk still differ about what that desk owes the record, and these three differ about this. [Not Under a Name (S07E01C04)](/star-rangers/seasons/s07/e01/s07e01c04/) is one evening of it.
+On signing, they do not agree, and have not for years. Wyn wants the desk to put a name under the notes it files, so that what it finds has to be answered; Sen declines, and the line for the archivist's name has stayed blank on every note the desk has filed; Cael holds that a name moves no standing, signed or not. None of the three has settled it, and none expects to. It changes nothing about how the desk is run, and it is not a fault in the arrangement: people who share a life and a desk still differ about what that desk owes the record, and these three differ about this. [Not Under a Name (S07E01C04)](/star-rangers/seasons/s07/e01/s07e01c04/) is one evening of it.
 
 ## In the Record
 
