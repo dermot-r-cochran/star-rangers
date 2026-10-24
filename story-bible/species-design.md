@@ -2156,10 +2156,16 @@ disagreement between a rendering and a tab, the tab is right"* (same page).
   rendering of the ladder *"changes verb at the hinge"*, heard by Ovruhn
   Rangers listening to how the ranks behaved (`the-ladder-in-other-tongues.md`).
   Thavren carries the Federation compact's joint disaster response
-  (`federation-of-sentient-beings.md`). Which corps is **not established**.
-- **Named Rangers on record.** None. The one named Ovruhn, Vhen, is a chorus
-  keeper on Thavren (`characters/vhen.md`), and *"any Corps character"* is
-  already an open line (`open-questions.md`, the Ovruhn entry).
+  (`federation-of-sentient-beings.md`). Which corps the people mostly serve in
+  is **not established**; the record's one Ovruhn Ranger is Survey Corps,
+  Meteorology Branch, and the record draws nothing from one case
+  (`characters/rhuven.md`, 24 October 2026).
+- **Named Rangers on record.** **Rhuven**, Field Officer, Survey Corps,
+  Meteorology Branch, acoustic observer posted alone on a world with weather
+  the record does not name, 2826 UCSD (`characters/rhuven.md`, drafted 24
+  October 2026 by the daily Fable fill; the choices are in
+  `open-questions.md`, *An Ovruhn Ranger, Rhuven*). The two chorus keepers,
+  Vhen and Mhoren, are on Thavren and not in service.
 - **Uniform equivalent and rank.** DERIVED: the shell is *"mostly a mounting
   for the instruments that stand in for a starved sense"* (`ovruhn.md`).
   PROPOSED there and kept here: nothing heavy over the flank hide, which is the
