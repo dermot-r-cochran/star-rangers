@@ -137,6 +137,19 @@ fold-transit catastrophe, not a fight. Its consequences for drafting:
   *"The forty years are sometimes known as the Second Dark Ages"*, with
   nothing said of who uses it. The **Second** implies a first; the record
   names none, and none is to be added without a page that needs it.
+- **Politics less adversarial by design; violent protest ineffective.**
+  Dermot, verbatim: *"politics and less adversarial by design and violent
+  protests are ineffective and pointless"*. A direction, nothing written to
+  `src/`. The polities' institutions are built so that disagreement is
+  worked through rather than fought out. The record already has the shapes:
+  the enrolled text's amendments *"laid open for objection"*, consultation,
+  findings and standing, and the Oversight Council's neutrality. A violent
+  protest gains nothing, because nothing in those processes yields to it, and
+  the record never shows one working. The standing line on politics still
+  binds: no real ideology is named, a polity's politics are shown through
+  what it does, and General Krast's line stays the one voiced political idea.
+  A character may still disagree hard, and dissent is ordinary and
+  legitimate. It is the violence that is pointless, never the disagreement.
 
 ---
 
