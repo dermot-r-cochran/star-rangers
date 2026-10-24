@@ -8,6 +8,8 @@ description: "Principal Yusuf Adair's Science Corps working paper of 2815 UCSD, 
 author: "Yusuf Adair, Principal, Science Corps"
 institution: "Star Rangers Science Corps — Survey Corps Standards Office calibration floor, Earth"
 location: "Science Corps working-paper series, calibration floor, Earth, 2815 UCSD — circulated for comment; no adoption on file"
+image: "what-the-law-does-not-decide.jpg"
+image_alt: "House-template Codex title card on a dark navy ground: WORKING PAPERS at the top, a tilted FOR COMMENT stamp at upper right above four faint ruled lines, and below a short rule the title WHAT THE LAW DOES NOT DECIDE, with On questions proved open, Star Rangers Science Corps and Yusuf Adair, Principal."
 ---
 
 *Circulated for comment. Not a finding, not a standard, and not a proposal to change any filing already made.*

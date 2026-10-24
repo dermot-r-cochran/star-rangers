@@ -6834,6 +6834,7 @@ Prismeri render ruling, which covers the Prismeri pages only.
   - **Proposed alt** (to be corrected to the filed frame): *Part of Idrun Hesk, an Ilveth, seen low and close at dusk: the smooth hooded crest of the body's forward third, dull grey-blue hide rimed with frost, with three wide dry bowl-shaped hollows holding faint reflections of a violet sky and a ring of small bead-like eyes below, turned to a low bank of fitted dark stone frosted evenly over every seam; the leading edge of a folded vane along the flank, two pairs of short limbs on grey ice, and the rest of the body out of frame.*
   - **Written 24 October 2026** (Fable, by the daily Fable fill); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only idrun-hesk`; four variations in the first round, two rounds at most; judge each at full size on the Earth-animal test first, then the glow, then identity against `suvra-kel.jpg`, the outline and the photograph test; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/idrun-hesk.md` from the filed frame, update the Ilveth line of the *Histories in their own voices* list in `open-questions.md` from *not generated* to *filed*, and add the Peoples and Bodies extractor's rule row for the portrait (`scripts/extract-peoples.js`), as PR #1420 did for Akkit and Osune. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare; the standing hold on `ilveth.jpg` (ruled 12 October 2026) is not reopened by this entry.
+  - **Not filed.** Two rounds of two, 24 October 2026 (Opus, desktop), all four failed: each drew the whole body side-on, with a face-like shield of three eye-pits, a mouth line and a render surface, so the outline and photograph tests fail before identity is read. The page stays bare; the next attempt needs a close-frame revision (crown and vane edge only, as Vhen's 16 October fix), Opus work under `people-body-design`.
 
 ### 32. Missing portraits — Winifred Adebayo, the first person of the Commonwealth the record names (written 24 October 2026, Fable, by the daily Fable fill; generation waits on the desktop)
 
@@ -6913,6 +6914,7 @@ hand before they go out, her head bent to them.
   - **Proposed alt** (to be corrected to the filed frame): *Winifred Adebayo at the far end of a long plain pale-wood table in a small, bare meeting room, side-on to the camera and bent over a few plain sheets under her hands, her face in profile: short grey-flecked black hair, a dark green high-collared jumper under a collarless charcoal jacket; the chairs along the table empty, and behind her a wide rounded window onto the inside of the habitat's ring, terraces and a winding channel far below curving up into a flat grey-white overcast glare.*
   - **Written 24 October 2026** (Fable, by the daily Fable fill); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only winifred-adebayo`; four variations in the first round, two rounds at most; judge each at full size on the century first, then the window, the room, the text, the dress, the keeping and the face; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/winifred-adebayo.md` from the filed frame, and update the Commonwealth and New London worklist line in `open-questions.md` from *not generated* to *filed*. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Filed 24 October 2026** (Opus, desktop; two variations a round, finished at strength 1, `image_alt` written from the filed frame): variation 2.
 
 ### 33. Missing portraits — the eight thinkers of 24 October 2026 (written 24 October 2026, Fable; generation waits on the desktop)
 
@@ -7006,6 +7008,7 @@ above the line's end, her head bent, her other hand flat beside the line.
   - **Proposed alt** (to be corrected to the filed frame): *Teodora Brask, a lean pale woman of about thirty with a long bony face and dark hair knotted at the nape, in a plain dark grey stand-collared work jacket, bent over a bare grey metal bench in a small compartment of dark cut rock, a line of a dozen small identical dark discs laid along the bench and one more held between finger and thumb above its end, a small round port behind her showing only cut rock.*
   - **Written 24 October 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only teodora-brask`; four variations in the first round, two rounds at most; judge each at full size on the war first, then the writing, the century, the dress and the face; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/teodora-brask.md` from the filed frame. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Filed 24 October 2026** (Opus, desktop; two variations a round, finished at strength 1, `image_alt` written from the filed frame): variation 1.
 
 #### Pell Annerley
 
@@ -7066,6 +7069,7 @@ head turned to the table, judging the ring.
   - **Proposed alt** (to be corrected to the filed frame): *Pell Annerley, a lean person in their forties with close-cropped greying hair and light-brown skin, in a loose slate-grey high-necked overshirt, standing three-quarters away from the camera with one hand on the back of a plain chair at a bare round table ringed by six identical chairs in a small pale-panelled station room, a small square port behind showing only dark structure.*
   - **Written 24 October 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only pell-annerley`; four variations in the first round, two rounds at most; judge each at full size on the Imperium first, then the table, the pronoun, the century and the face; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/pell-annerley.md` from the filed frame. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Filed 24 October 2026** (Opus, desktop; two variations a round, finished at strength 1, `image_alt` written from the filed frame): round 2, variation 1 (round 1 read plainly as a man in both variations and failed the pronoun test; round 2 holds it open; faint illegible pseudo-lettering on one chair back healed by a feathered clone from the same chair before import).
 
 #### Gráinne Ní Chathail
 
@@ -7131,6 +7135,7 @@ hear whether it is right.
   - **Proposed alt** (to be corrected to the filed frame): *Gráinne Ní Chathail, a slight pale young woman with dark hair cut to the collarbone, in an undyed wool tunic and plain knitted shawl, seated at a low table of closed plain-bound books in a small panelled room aboard a generation ship, her mouth open on a word and her eyes on the far wall, one hand keeping a place in a shut book; through the doorway behind her a long dim gallery whose floor curves upward out of sight.*
   - **Written 24 October 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only grainne-ni-chathail`; four variations in the first round, two rounds at most; judge each at full size on the stage set first, then the books, the doorway, the dress and the face; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/grainne-ni-chathail.md` from the filed frame. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Filed 24 October 2026** (Opus, desktop; two variations a round, finished at strength 1, `image_alt` written from the filed frame): variation 1 (the round-walled gallery through the door; the open mouth is the prompt's own *a word*).
 
 #### Halim Teverell
 
@@ -7187,6 +7192,7 @@ bent to it, the reading done and the sentence not yet written.
   - **Proposed alt** (to be corrected to the filed frame): *Halim Teverell, a tall man in his forties with medium-brown skin, heavy brows and greying hair pushed back, in a dark green-grey collarless jacket, seated at the far end of a long dark wooden table in a plain pale stone room with one hand on the nearest of a line of closed dark grey oblong casings laid along the table toward the camera, a tall window beside him open onto spring trees and a river.*
   - **Written 24 October 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only halim-teverell`, judged beside the filed Okoye and Reyes-Osei frames; four variations in the first round, two rounds at most; judge each at full size on the war first, then the casings, the office, the window and the face; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/halim-teverell.md` from the filed frame. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Filed 24 October 2026** (Opus, desktop; two variations a round, finished at strength 1, `image_alt` written from the filed frame): variation 1 (flaw passed: the casings show a faint seam line, with no latch, handle or lettering).
 
 #### Pekkat
 
@@ -7253,6 +7259,7 @@ at all; the only figure.
   - **Proposed alt** (to be corrected to the filed frame): *Pekkat, a small six-legged Chthonari with a cool slate carapace lined with bronze along each leg and polished smooth beneath, nothing worn on it, pressed low along the top of a standing rib of dark cut nickel-iron with one foreleg lifted mid-strike, the dome of the head turned along the rib, in a dim amber-lit hall where other ribs of different lengths fall away into darkness.*
   - **Written 24 October 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only pekkat` (the entry carries the two filed Chthonari frames as references, so the script sends them); four variations in the first round, two rounds at most; judge each at full size on the body first, then the bare carapace, the second figure, the mathematics, the place and identity; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/pekkat.md` from the filed frame. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Not filed.** Two rounds of two, 24 October 2026 (Opus, desktop), all four failed on the body: an Earth beetle or tick on jointed legs with a render look, and round 1 variation 1 added girders. The page stays bare; the next attempt needs a body revision under `people-body-design` against the six filed Chthonari frames, not another roll.
 
 #### Vaurel
 
@@ -7287,7 +7294,7 @@ sand-grey, one tone, a third resting tone beside Sohrel's slate-violet and
 Tavesh's grey-olive, since civilian-dress open item 3 (ruled A) makes the
 tone individual and ties it to nothing; the body a little larger than
 Sohrel's and more creased at the limb bends, an old person's skin, since
-Cerebraun lives are long and the page gives Vaurel a teacher's standing;
+the page gives Vaurel a teacher's standing;
 the posture raised on the four lower limbs rather than resting on them, the
 body held clear of a low broad platform, which is how this frame is told
 from Sohrel's seated desk and Tavesh's crouch at an instrument; the sample
@@ -7311,6 +7318,7 @@ figure.
   - **Proposed alt** (to be corrected to the filed frame): *Vaurel at a low broad bare pale surface in a plain windowless room: a soft, headless sand-grey body held up on four short lower limbs, two smooth upper limbs laid either side of a single small dark sealed capsule on the surface and a third raised and bent above it, small dark eyes set along the limbs, in even soft light.*
   - **Written 24 October 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only vaurel` (the entry carries the filed Sohrel frame as a reference, so the script sends it); four variations in the first round, two rounds at most; judge each at full size on the Earth animal first, then the second figure, identity, the window and the display; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/vaurel.md` from the filed frame. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Not filed.** Two rounds, 24 October 2026 (Opus, desktop): three frames, all failed (one round 2 request was refused by the provider's content filter). Each is a clay-render body with a head-like swelling at the tip of one upper limb, which fails the Earth-animal test first. The page stays bare; the next attempt needs the limb tips given explicitly blunt and the surface photographic, Opus work under `people-body-design`.
 
 #### Ines Abara
 
@@ -7369,6 +7377,7 @@ in her lap, still.
   - **Proposed alt** (to be corrected to the filed frame): *Ines Abara, a broad-built woman in her forties with deep brown skin and very short greying hair, in a plain high-necked dark blue dress, seated alone on a wooden chair in a bare pale room, her face turned toward a tall window of flat grey daylight and her hands resting still in her lap.*
   - **Written 24 October 2026** (Fable); not generated. **If Dermot reads *never as a scene* to cover a still likeness, strike this sub-entry whole and leave the page bare; the page is then complete without an image, not pending.**
   - **Desktop step** (only if the reading above stands): `node scripts/image-prompts.js --generate --only ines-abara`; four variations in the first round, two rounds at most; judge each at full size on the scene first, then the century, the dress and the face; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/ines-abara.md` from the filed frame. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Filed 24 October 2026** (Opus, desktop; two variations a round, finished at strength 1, `image_alt` written from the filed frame): variation 1.
 
 #### Corvin Ashdale
 
@@ -7430,6 +7439,7 @@ his weight on it, looking out and a little down.
   - **Proposed alt** (to be corrected to the filed frame): *Corvin Ashdale, a compact man of about forty with medium-tan skin and short parted black hair, in a plain charcoal jacket with a short upright collar, standing with his back three-quarters to the camera and one hand on the sill of a tall window in a dim plain room, looking out at a dark lattice of shipyard structure holding the bare ribbed frame of a hull, one side lit hard white by the sun against an empty black sky.*
   - **Written 24 October 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only corvin-ashdale`; four variations in the first round, two rounds at most; judge each at full size on the ship first, then the Imperium, the table, the dress and the face; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/corvin-ashdale.md` from the filed frame. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
+  - **Filed 24 October 2026** (Opus, desktop; two variations a round, finished at strength 1, `image_alt` written from the filed frame): variation 2 (the lattice and bare ribbed frame in hard sun against a black sky; variation 1 floated the frame as a reflection).
 
 ### 34. Missing portraits — Rhuven, the first Ovruhn Ranger the record names (written 24 October 2026, Fable, by the daily Fable fill; generation waits on the desktop)
 
