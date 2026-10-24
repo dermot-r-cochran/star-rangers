@@ -211,6 +211,23 @@ worked case is the fourteen Codex authors whose pages state no species (§ 17,
 Option A, the same day); Halle Ostrander, Ariel Pinya and The Kept Line already
 stood on the same ground.
 
+**When a being cannot be photographed** (Dermot, 24 October 2026, verbatim:
+*"Maybe some beings are just easy to visualize or photograph"*, then *"Others
+not visually coherent or not recordable. Their portrait might be an abstract
+image or logo."*). A second clarification of the portrait rule, beside the one
+above. Some beings photograph like anyone else. Others have a body that is not
+visually coherent, or that no camera in the record could record, and for them a
+photographic portrait is the wrong form, not a pending one: their portrait may
+be an abstract image, or an emblem card from `make-emblem-card.ps1`, filed as
+the page's `image:` like any portrait and described as what it is. Which beings
+qualify is named per people or per character, as a decision, never inferred
+from a generator's failures. A people the record has already photographed, such
+as the Ovruhn, the Chthonari or the Cerebraun, has shown its body is recordable,
+so a failed roll for one of them is a prompt to revise, not a reason to go
+abstract. The abstract image must still respect the record: no face given to a
+being the record says has none, no lettering, and no implication of a shape the
+page does not state.
+
 **Diagrams on technical lore pages** (Dermot, 29 September 2026, verbatim:
 *"Technical lore pages may have technical or scientific diagrams similar to
 the style of the Applied Stats tutorial"* — `intake-2026-09-29.md`). A
