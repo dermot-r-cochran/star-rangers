@@ -128,6 +128,15 @@ fold-transit catastrophe, not a fight. Its consequences for drafting:
   extends, and does not replace, the standing lines: no guns-and-spaceships,
   *a problem never ends when something is shot*, and courage and heroism
   with patience and discretion rather than violence, at every reading tier.
+- **The Coherence Wars, sometimes known as the Second Dark Ages.** Dermot,
+  verbatim: *"The Coherence Wars sometimes known as the Second Dark Ages"*.
+  The record already held the wars (forty years, 2503–2543 UCSD, three
+  billion dead, `src/lore/the-imperium.md`) as the great war before the
+  founding, the one Krast's line and the Kernel's origin both look back to.
+  The other name is added to that page as an **extension**: one sentence,
+  *"The forty years are sometimes known as the Second Dark Ages"*, with
+  nothing said of who uses it. The **Second** implies a first; the record
+  names none, and none is to be added without a page that needs it.
 
 ---
 
