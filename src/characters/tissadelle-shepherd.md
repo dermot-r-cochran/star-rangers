@@ -27,7 +27,7 @@ gallery:
   - image: season-5-halyx-corridor.jpg
     caption: "Season 5 — Line Captain, Halyx Relay"
     season: 5
-    image_alt: "Tissadelle Shepherd in her early thirties, red hair tied back, crouched in a pale curving station corridor with her right hand laid flat on the wall at a seam, her face turned to the wall and listening, the rank tab with three concentric rings and a short ribbon row on her chest beside the plain diamond patch, a small closed case on the floor beside her."
+    image_alt: "Tissadelle Shepherd at about thirty, older and more tired than in her cadet years, red hair pulled back loosely and falling to her shoulders, crouched in a pale curving station corridor with her left hand flat on the structural frame at a seam, looking along the corridor and listening, the square rank tab with three concentric rings on her chest beside the plain diamond patch and a short ribbon row, a small closed case on the floor beside her."
 ---
 
 Cadet is the first operational rank. It is where formal training meets first operational exposure, and where the qualities that will become most useful later are not yet rewarded in proportion.

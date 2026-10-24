@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Tissadelle's Season 5 Halyx frame re-made five years older** (`src/images/characters/tissadelle/season-5-halyx-corridor.jpg`, `src/characters/tissadelle-shepherd.md`, `story-bible/images.md` § 9, 2026-10-24, Opus, at Dermot's pick). The filed frame looked the same age as her cadet frames, and its Line Captain tab could not be read at gallery size. The prompt now ages her the five years between 2826 and 2831 and frames close enough to count the three rings; variation 4 of 4 replaces it, with its alt text rewritten from the file.
+
 ## [1.49.0] — 2026-10-24
 
 The Ilveth's *Shown to the Sky* joins the *Histories in their own voices*, with its teller Idrun Hesk and her portrait in the thermal band. Three Codex working papers and a pair of Institute objections open a run of in-world scholarship, with in-story authors now free to cite one another and Codex citations widened to any academic field. Fifteen new character pages fill lines of the 14 October worklist and name the record's thinkers, and nine portraits are filed. Four Journal entries set the record beside real science and fiction. Chapters now require a timestamp and location, and several pages are brought back to the evidence.
