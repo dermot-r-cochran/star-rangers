@@ -81,6 +81,19 @@ meets a place very different in design and function from a 20th-century
 prison, never the cell block, the yard or the warder. Its form is settled
 then, on a page that needs it, as a proposal.
 
+**Who keeps custody, later the same evening.** Dermot, verbatim: *"Prison
+Officers were replaced by AI monitors and custodians"*. So where the record
+holds anyone in custody, the keeping is done by AI monitors and custodians,
+not by human prison officers, and *the warder* above is not a role the
+present has. It follows the line on crime being *"silently and gently
+prevented by robots and AI safety systems"*: a custodian is Kernel-compliant,
+keeps without force, and never removes anyone's standing as a person, and the
+frame never reads as a surveillance state. Still a direction, not a page:
+nothing is written to `src/` until a chapter meets custody. It does not
+settle who holds an *uncommissioned* mind once found, which
+`src/glossary/uncommissioned.md` keeps deliberately unresolved, since that
+is a mind in custody, not a mind keeping it.
+
 **The death penalty and euthanasia, the same conversation.** Dermot,
 verbatim: *"death penalty considered barbaric and euthanasia generally not
 needed"*. A direction: nothing is written to `src/`, and the record mentions
