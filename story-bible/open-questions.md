@@ -47,6 +47,112 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## Intelligence services, prisons, the death penalty, euthanasia and armed conflict in the 29th century — raised 24 October 2026, RULED the same day: A (Dermot's *"Option A: leave the polities' intelligence services marked absent until a chapter needs one."*)
+
+Dermot asked, 24 October 2026: *"Do intelligence agencies still exist in the
+29th century and and so then they would be less covert and dangerous than in
+the 20th century"*. **What the record held:** the Provost Corps' Chief Provost
+runs *"internal investigation, counter-intelligence, and protective
+security"*, answerable to due process (`src/lore/star-rangers-command-hierarchy.md`,
+*The Provost Track*); the Corps has no plain-clothes ranks or undercover
+officers (the uniform rule); Five-O *"does not do covert animals"*
+(`src/characters/alala.md`); the spy is a refused trope (`intake-2026-09-10.md`).
+No page says whether the Solar System Defence Command, the Federation, the
+Cerebraun Hegemony or the Celtic Union keeps an intelligence service. Three
+options were put: **A**, leave the polities' services marked absent until a
+chapter needs one (recommended); B, a lore line saying they are open and
+accountable, the Provost Corps as the model; C, B with the Hegemony left
+absent. **Ruled A.** Nothing is written to `src/`. When a chapter does need
+one, the record's direction already points the way: answerable to due
+process, Kernel-honest minds, no clandestine branch shown as the record's
+norm, no spy plot, and nobody written as a villain.
+
+**Prisons, the same conversation.** Dermot, verbatim: *"Prisons would either
+be unneeded or would be very different in design and function"*. A direction,
+not a page: nothing is written to `src/`, and no prison is described anywhere
+in the record. What the record already holds is consistent with it. A commissioned
+mind is *"presumed innocent and triable"* (`src/lore/commissioned-standing.md`);
+the Provost Corps has powers of investigation and restriction *"and none of
+conviction"* (`intake-2026-09-10.md`); a polity that cannot try a Ranger
+*"can only expel her"*; and *Contained* is a status of custody, not a sentence
+(Ilse Korvain, *"Survey Corps custody, jurisdiction formally disputed"*). **When
+a chapter needs custody or confinement**, it either finds none needed or
+meets a place very different in design and function from a 20th-century
+prison, never the cell block, the yard or the warder. Its form is settled
+then, on a page that needs it, as a proposal.
+
+**The death penalty and euthanasia, the same conversation.** Dermot,
+verbatim: *"death penalty considered barbaric and euthanasia generally not
+needed"*. A direction: nothing is written to `src/`, and the record mentions
+neither anywhere. Its consequences for drafting:
+- **No polity in the record's present executes anyone, and the record's own
+  voice calls the practice barbaric** where it has cause to name it at all.
+  A historical or Codex source from an age that did may record it, in its own
+  voice, as a past practice. A character may speak of it as people now speak
+  of the rack. It is never shown as a working penalty in the present. It fits
+  the standing lines: no person written as a true villain, courage with
+  patience and discretion rather than violence, and the Unfounded *countered
+  and starved, never addressed*, with nothing ever *put to death*.
+- **Euthanasia is generally not needed**, because the record's medicine and
+  care leave little or no suffering it would answer. *Generally* is his word
+  and stands: the record does not rule out every case, and does not make a
+  plot of one. Where a page has cause to touch the subject, it shows that the
+  need does not arise. It is never a debate staged for its own sake, and never
+  framed as a policy of any polity. It is distinct from the record's own
+  provisions for artificial minds (withdrawal of commissioned standing,
+  *"never a disposal instruction"*, `src/glossary/commissioned-standing.md`),
+  which are matters of standing and law and are not touched by this.
+
+**Armed conflict, and where the suspense comes from, the same conversation.**
+Dermot, verbatim: *"armed conflict is extremely rare; lethal armed conflict
+almost unheard off after the founding of the star rangers"*, then *"so the
+tension and suspense in the story does not come from overt violence"*. A
+direction. Nothing is written to `src/`, and a search of lore, timeline and
+seasons found no armed conflict dated after the founding (2718 UCSD,
+`src/lore/formation-of-star-rangers.md`). The Wrath of the Dragons (2831) is a
+fold-transit catastrophe, not a fight. Its consequences for drafting:
+- **After 2718 UCSD armed conflict is extremely rare, and lethal armed
+  conflict almost unheard of.** The polities still keep militaries (the
+  Federation's *interposition not conquest*, the Celtic Union's mostly
+  ceremonial force), and their work is deterrence, interposition and
+  ceremony. *Almost* is his word and stands: the record does not claim it
+  never happened, and any exception is a canon question for him, not a
+  drafting choice. Before 2718 the record keeps its history (the Imperium's
+  fall in 2609, the Military Space Command's failure) as history.
+- **Tension and suspense never come from overt violence.** They come from
+  what the record already runs on: a gap that cannot be crossed (the
+  shadow-shaped mysteries), a finding that has to be made and stood behind,
+  a cost that someone has to carry, a decision made under patience and
+  discretion, the boundary and the Unfounded (countered and starved, never
+  fought), and whether the people in the record will be believed. This
+  extends, and does not replace, the standing lines: no guns-and-spaceships,
+  *a problem never ends when something is shot*, and courage and heroism
+  with patience and discretion rather than violence, at every reading tier.
+- **The Coherence Wars, sometimes known as the Second Dark Ages.** Dermot,
+  verbatim: *"The Coherence Wars sometimes known as the Second Dark Ages"*.
+  The record already held the wars (forty years, 2503–2543 UCSD, three
+  billion dead, `src/lore/the-imperium.md`) as the great war before the
+  founding, the one Krast's line and the Kernel's origin both look back to.
+  The other name is added to that page as an **extension**: one sentence,
+  *"The forty years are sometimes known as the Second Dark Ages"*, with
+  nothing said of who uses it. The **Second** implies a first; the record
+  names none, and none is to be added without a page that needs it.
+- **Politics less adversarial by design; violent protest ineffective.**
+  Dermot, verbatim: *"politics and less adversarial by design and violent
+  protests are ineffective and pointless"*. A direction, nothing written to
+  `src/`. The polities' institutions are built so that disagreement is
+  worked through rather than fought out. The record already has the shapes:
+  the enrolled text's amendments *"laid open for objection"*, consultation,
+  findings and standing, and the Oversight Council's neutrality. A violent
+  protest gains nothing, because nothing in those processes yields to it, and
+  the record never shows one working. The standing line on politics still
+  binds: no real ideology is named, a polity's politics are shown through
+  what it does, and General Krast's line stays the one voiced political idea.
+  A character may still disagree hard, and dissent is ordinary and
+  legitimate. It is the violence that is pointless, never the disagreement.
+
+---
+
 ## A clerk of the Commonwealth's correspondence on New London, Winifred Adebayo — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Commonwealth and New London line of the 14 October worklist below
