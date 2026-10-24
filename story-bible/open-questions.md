@@ -166,6 +166,94 @@ fold-transit catastrophe, not a fight. Its consequences for drafting:
 
 ---
 
+## A shepherd of the Marlbrook parish flock on Winterbourne, Hester Aldous — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Winterbourne and Saltmere line of the 14 October worklist below
+(*Human peoples and places with pages and no people*), taken by the daily
+Fable fill, for the Winterbourne half. Drafted as
+`src/characters/hester-aldous.md`, grounded only in
+`planets/winterbourne.md` and the pages it links or that cite it
+(`what-the-record-refuses.md`, `celtic-union-of-planets.md`,
+`planets/kingdom-of-the-five-islands.md`, `planets/tir-na-nog.md`,
+`planetary-liaisons-and-recruiters.md`, `the-forest-is-waiting.md`,
+`the-thin-inheritance.md`, `rivers-old-lakes-young.md`,
+`where-the-weather-stops.md`, `weather-on-other-worlds.md`,
+`new-cotswolds.md`), the Winterbourne row of `ecology-design.md` and the
+farming-sentence ruling of `intake-2026-10-03.md`, with the rest marked
+absent in a *What the Record Does Not Carry* section; the timeline holds no
+Winterbourne event and no chapter names the world. Portrait prompt in
+`images.md` § 34, written the same day, not generated. A *Winterbourne*
+block added to `civilian-dress.md`, *Dress by place*, every line marked
+derived or proposed, on the Corryn Prime precedent of 23 October. No lore
+page is touched.
+
+**Why Winterbourne and not Saltmere.** The line names two worlds and asks
+for one character, so the one the record grounds better was taken.
+Winterbourne's page names seven spring-line villages, a market town,
+Winnow Hanger, the parish strips, the flock and what it keeps, the thatch, the parish record with its
+two droughts and two lost flocks, and the parish councils; Saltmere's names
+no city, no segment and no trade beyond the hulls, towers and aquabots, and
+the record already stands a person beside its engineering (Sofia Santos on
+Thalassa, whose page draws on Saltmere's mooring practice). **Saltmere stays
+unfilled**, as its own line below, not on purpose but for want of a second
+fill today; nothing on its page is closed to a character, and a keeper of a
+mooring tower or the person an aquabot escalates to would ground as well
+tomorrow.
+
+**What the page does not do, by design.** It adjudicates none of the three
+accounts of the founding, since the planet page says the Archive has not
+been asked to try; it names no parish as either of the two that lost a
+flock, since the page names neither; it puts her at no parish council
+meeting and gives her no view of Union membership, since the page's quiet
+joke (*on each occasion they have*) is the councils' and not any person's;
+it meets no Ranger, liaison or recruiter, since the page links the office
+and names no visit. It does not make the world quaint: the page's own line
+is *none of this is quaint in the sense of being backward*, so the page is a
+working trade on a kept landscape, with the certified thatch and the day's
+fold route in it.
+
+Settled by recommendation under the dilemma-only rule, each his to
+overrule: **the trade** (shepherd of a parish flock, derived from the planet
+page's *somewhere to run sheep*, *the downland turf itself is a product of
+the sheep and not a natural state*, and the two parishes that lost a flock
+and got the down back by putting the flock back; chosen over a thatcher,
+whose certified roof is the world's other stated trade, because the flock is
+what the world's whole shape depends on and the thatch is not; over a parish
+councillor, because a seat would put the page's joke in one person's mouth;
+and over a keeper of Winnow Hanger's dew pond, a close second, because that
+settlement is the page's exception and the line asks for the world); **the
+parish** (Marlbrook, one of the seven named spring-line villages, chosen for
+its position in the middle of the line and for nothing the page says of it,
+since the page says nothing of any one village); **the name** (*Hester
+Aldous*, coined, with no meaning asserted and no origin given beyond the
+register the page's own place-names set, old English and downland, on his
+14 October note that *people groups may have blended in some ways*; the
+page holds no naming customs, so what the name owes to the register or to
+the generations since landfall is marked absent); **the pronoun** (*she*);
+**the age** (born about 2769 UCSD, late fifties in 2826, old enough that a
+flock has been hers for decades and the ground under it is read by habit,
+and not so old that the page reaches back before the record's present; a
+younger shepherd new to the flock was the alternative); **the place**
+(Marlbrook's strip, its top band, never off-world in any account the record
+holds); **the era** (2826 UCSD, late summer, the dry half of the year, so
+the stream is gravel); **the dog** (none on the page, marked absent, not
+denied: the planet page names the sheep as Terran stock and no other
+animal, and the portrait prompt leaves the frame without one); **the
+crook** (left out of the frame under the Tír na nÓg block's *a tool, not a
+costume*, so the stock pastoral has nothing to stand on). Not asserted: her
+kin; the flock's size, breed, water in the dry half or work on the arable;
+how a parish flock is held; whether Marlbrook ever lost its flock; which
+account of the founding she holds; whether she has been to Downminster's
+market or to Winnow Hanger; any chapter. Not done: no chapter; no link from
+`planets/winterbourne.md`, since it lists no people; no image generated.
+
+**Found in the record, not a conflict but worth a line.** `civilian-dress.md`
+had a *Saltmere* block and no *Winterbourne* one, though the two worlds
+were paired on the worklist; the Winterbourne block is added in this PR,
+and the Saltmere block is untouched.
+
+---
+
 ## A clerk of the Commonwealth's correspondence on New London, Winifred Adebayo — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Commonwealth and New London line of the 14 October worklist below
@@ -1467,7 +1555,8 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 **Human peoples and places with pages and no people:**
 - [x] ~~**The Commonwealth and New London**: two pages, no character.~~ — **filled 24 October 2026** (Fable, by the daily Fable fill; the section *A clerk of the Commonwealth's correspondence on New London, Winifred Adebayo* above records the choices; PR #1445): `src/characters/winifred-adebayo.md`, a New London-born clerk of the Commonwealth secretariat who keeps the association's correspondence, the writing-to that is its only membership test, the archive comparisons and the standing invitation to the Celtic Union, renewed in her hand and unanswered; at home at Earth–Moon L5 in 2826 UCSD, never off the habitat; grounded only in the two pages and what they link, the rest marked absent; portrait prompt `images.md` § 32, not generated. The line was read as a person of the Commonwealth at home on New London: the record's two other New Londoners, Luke Valerius (born there, a Ranger far from home) and Rosamund Hallam (a Codex author, her page after this line was written), are named on the new page and are not of the Commonwealth's work.
 - [ ] **Earth in the present**: three Codex authors, no chapter set there in 2826, and no Earth-resident POV.
-- [ ] **Winterbourne** and **Saltmere**: one page each, no character.
+- [x] ~~**Winterbourne** and **Saltmere**: one page each, no character.~~ — **the Winterbourne half filled 24 October 2026** (Fable, by the daily Fable fill; the section *A shepherd of the Marlbrook parish flock on Winterbourne, Hester Aldous* above records the choices): `src/characters/hester-aldous.md`, a Marlbrook-born shepherd who keeps the Marlbrook parish flock on the high down, where the turf is a product of the sheep and goes to scrub within a decade if the flock is lost; at home in the Albion system in 2826 UCSD, never off-world; grounded only in the planet page and the pages that link or cite it, the rest marked absent; portrait prompt `images.md` § 34, not generated. Winterbourne was taken over Saltmere because its page grounds a trade, a parish and a record and Saltmere's names no city; the Saltmere half is split out below so it is not lost.
+- [ ] **Saltmere**: one page, no character. A keeper of a mooring tower, or the person an aquabot escalates a finding to, would ground in the page as it stands; Sofia Santos on Thalassa stands beside its engineering but is not of Saltmere.
 
 **Peoples with one character and no home-world page** (a plain gap, not ruled anywhere):
 - [ ] **Krenyi**: three characters and nine POV chapters, but no homeworld page.
