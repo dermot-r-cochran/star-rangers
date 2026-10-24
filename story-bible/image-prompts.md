@@ -1094,6 +1094,23 @@ side-by-side pairs. His word on the three picks: *Approved*.
 - **Prompt / recipe:** the blockquote in `images.md` § 1 under the same date; 16:9, 2K, two variants, no reference. Heritage not in the record and not in the prompt.
 - **Notes:** both variants held the shut carrier with nothing visible inside, which was the brief's point. Variant 1 carried it sideways under a doorway of onlookers with ceiling light panels showing; variant 2 was the plainer corridor, the boy's eyes on the door of the box, the deck walking away behind him, and was picked (*Approved*). Lettering check: one blank wall panel, nothing readable. Filed with `import-image.ps1 -MaxEdge 1200`. Run kept as `image-out/characters-lev/`.
 
+## 2026-10-24 — Tissadelle's Season 5 Halyx frame, re-made five years older
+
+Run on the desktop from the revised `story-bible/images.md` § 9 entry, four
+variations, `gemini-3.1-flash-image`, 2K, the published header the only
+reference (the cadet frame was dropped because it pulled the face young).
+Dermot: the filed frame looked the same age as the cadet, and the Line
+Captain tab could not be read at gallery size. She is five years older than
+in Season 1 (2826 to 2831), and he agreed five years is right.
+
+- `tissadelle/season-5-halyx-corridor.jpg` — variation 4 of 4, picked by
+  Dermot (*looks perfect*): the face visibly older and tired, the three rings
+  countable on the tab. Her hair is down rather than tied back and a blank
+  sleeve patch appears; both were accepted with the pick. Variations 1 to 3
+  still read young with a tab too small to count. Filed through
+  `import-image.ps1 -MaxEdge 1200` at finish strength 1; run kept as
+  `image-out/characters-tissadelle-season-5-halyx-corridor/`.
+
 ## 2026-10-08 — Tissadelle's second Season 1 and Season 5 frames (issue #1013)
 
 Run on the desktop from `story-bible/images.md` § 9, two variations each,
