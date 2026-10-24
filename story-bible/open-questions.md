@@ -47,6 +47,92 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A clerk of the Commonwealth's correspondence on New London, Winifred Adebayo — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Commonwealth and New London line of the 14 October worklist below
+(*Human peoples and places with pages and no people*), taken by the daily
+Fable fill. Drafted as `src/characters/winifred-adebayo.md`, grounded only
+in `the-commonwealth.md`, `new-london-space-habitat.md` and the pages they
+link (`celtic-union-of-planets.md`, `orbital-habitats-compact.md`,
+`habitat-threshold.md`, `crisis-centuries-terran-wildlife.md`,
+`lagrange-fold-points.md`, `eden-space-habitat.md`,
+`universal-cosmic-stardate.md`), the timeline (which holds no New London
+event) and the New London block of `civilian-dress.md`, with the rest
+marked absent in a *What the Record Does Not Carry* section; portrait
+prompt in `images.md` § 32, written the same day, not generated. No lore
+page is touched, and `civilian-dress.md` is not touched either: its *New
+London* block has stood since 14 October with every line marked derived,
+and its rulings 2 and 3 (no neckties or lapels in present-day dress;
+formality the same clothes in a better finish) are what the prompt
+follows.
+
+**What the page does not do, by design.** It names no member community,
+since the Commonwealth's page names none and says its own secretariat
+cannot produce a roll; it names no ring as hers, since nothing on either
+page would ground the choice; it puts nobody on the Council of State or in
+Parliament, and gives the secretariat no head, no size and no funding,
+since the page says the budget is not worth the name and nothing more. It
+settles nothing about the Celtic Union's absence: the invitation is renewed
+in her hand exactly as the page describes it, *renewed and unanswered for
+generations*, and she holds no view of it on record. It does not make the
+Commonwealth a joke or a relic: the page's own line is that a continuous
+existence across the worst three centuries *turns out to be harder to
+arrange than any of the others*, so the page is the arranging, seen from
+the desk where it is done.
+
+Settled by recommendation under the dilemma-only rule, each his to
+overrule: **the trade** (clerk of the correspondence at the Commonwealth
+secretariat, derived from three sentences on the association's page: that
+attendance is the only membership test and a lapsed community is
+*gradually stopped being written to*, that the Commonwealth is a standing
+archive-sharing arrangement, and that its invitation to the Union is
+*renewed and unanswered*; chosen over a Council of State member, a member
+of Parliament or a canal-keeper because the line asks for a person of the
+Commonwealth, not only of New London, and because a seat at the table
+would assert who sits there, which neither page states; the alternative, an
+archivist doing the comparing rather than arranging it, was a close second
+and would have pulled the page toward Earth-side archives the record does
+not describe); **the name** (*Winifred Adebayo*, coined, with no meaning
+asserted and no origin given, an old-register given name for a custodial
+habitat and a surname the Isles of the 2180s CE could have sent up to L5,
+on his 14 October note that *people groups may have blended in some ways*;
+neither page holds New London's naming customs, so what the name owes to
+which part of the Isles is marked absent); **the pronoun** (*she*); **the
+age** (born about 2781 UCSD, mid-forties in 2826, old enough that the
+writing-to has been hers for a while and young enough that nothing on the
+page reaches back before the record's present; a younger clerk new to the
+desk was the alternative); **the place** (New London, a ring unnamed, never
+off the habitat in any account the record holds, since the writing does not
+require the writer to go); **the era** (2826 UCSD); **the medium** (whether
+the letters are paper is marked absent, since the habitat page says the
+rings keep some old forms working and some merely present, and does not
+say which its correspondence is; the portrait prompt puts plain sheets
+under her hand as the picture's reading, with every form of writing
+negated); **her view of the Union** (none on record, and the record has not
+asked; the alternative, a line of her own about the invitation, would have
+given a character the page's theme to say aloud). Not asserted: her kin;
+the secretariat's structure; how often the invitation is renewed or in what
+words; whether she has been to Earth, to a member community or to the
+Spire; whether she carries a title the constitution declines to notice; any
+chapter. Not done: no chapter; no link from `the-commonwealth.md` or
+`new-london-space-habitat.md`, since neither lists people; no image
+generated.
+
+**Found in the record, not a conflict but worth a line.** The worklist line
+says *two pages, no character*, and the record already held two New
+Londoners when it was read today: Starwarden Luke Valerius, born on New
+London in 2777 UCSD (`characters/luke-valerius.md`, 13 August 2026, before
+the line was written, and counted by the 14 October survey as a Ranger far
+from home, not a person at home there), and Rosamund Hallam, the New London
+travel writer of *The Elves of Wood, Sky and Water* (`characters/rosamund-hallam.md`,
+19 October 2026, after the line was written, a Codex author under the
+10 October rule). Neither is of the Commonwealth's own work, so the line
+was read as it stands, a person of the Commonwealth at home on New London,
+and both are named on the new page's *See also* so the three New Londoners
+point at one another. The worklist line is struck with that reading named.
+
+---
+
 ## The Ilveth history, Idrun Hesk — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Ilveth line of the *Histories in their own voices* series below, taken by
@@ -1260,7 +1346,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 - [x] ~~**Corryn**: the Spiralites and the Imperium-remnant human colony (`src/lore/planets/corryn.md`) have no characters. The colony's charter story is ready settlement material.~~ — **the colony half filled 23 October 2026** (Fable, by the daily Fable fill; the section *A keeper of the shielding on Corryn Prime, Oriane Kessel* above records the choices): `src/characters/oriane-kessel.md`, a colony-born keeper of a settlement's electromagnetic shielding, at home in 2826 UCSD, never off-world, in a settlement the record does not name; grounded only in the Corryn, Combine, Imperium, Protocols and *What Nobody Certifies* pages and the 2796 timeline entry, the rest marked absent; portrait prompt `images.md` § 30, filed 23 October 2026. **The Spiralite half stays unfilled on purpose**: who speaks for the Spiralites is choice 5 of the social-order section (A, recommended: not established until a chapter takes the Corps to Corryn Prime), `contact-design.md` has no meeting on record, and the page meets no Spiralite. The standing case is untouched.
 
 **Human peoples and places with pages and no people:**
-- [ ] **The Commonwealth and New London**: two pages, no character.
+- [x] ~~**The Commonwealth and New London**: two pages, no character.~~ — **filled 24 October 2026** (Fable, by the daily Fable fill; the section *A clerk of the Commonwealth's correspondence on New London, Winifred Adebayo* above records the choices; PR #1445): `src/characters/winifred-adebayo.md`, a New London-born clerk of the Commonwealth secretariat who keeps the association's correspondence, the writing-to that is its only membership test, the archive comparisons and the standing invitation to the Celtic Union, renewed in her hand and unanswered; at home at Earth–Moon L5 in 2826 UCSD, never off the habitat; grounded only in the two pages and what they link, the rest marked absent; portrait prompt `images.md` § 32, not generated. The line was read as a person of the Commonwealth at home on New London: the record's two other New Londoners, Luke Valerius (born there, a Ranger far from home) and Rosamund Hallam (a Codex author, her page after this line was written), are named on the new page and are not of the Commonwealth's work.
 - [ ] **Earth in the present**: three Codex authors, no chapter set there in 2826, and no Earth-resident POV.
 - [ ] **Winterbourne** and **Saltmere**: one page each, no character.
 
