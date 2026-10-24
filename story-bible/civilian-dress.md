@@ -296,6 +296,14 @@ Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each settin
 - **Everyday:** The Kingdom's own dress, wool tunics and plain high-necked dresses in the portraits, exempt from the hint of the century as an isolate's (ruling 5). *Derived, the garments from practice.*
 - **Custom:** The Tideward Sisterhood in habit; the court's ceremonial flowers in scarlet and violet-to-crimson. The Survey delegation brings nothing the court would read as a machine. *Derived.*
 
+### Winterbourne
+*Tags:* `winterbourne`
+- **Conditions:** A chalk-downland agricultural independent in the Albion system; villages on the spring line, parish strips from wet meadow to high grazing, streams that run from midwinter to early summer and are dry gravel by late summer; a native biosphere marine only, everything green Terran stock (`planets/winterbourne.md`). *Derived.*
+- **Everyday:** Not stated. Plain working outdoor cloth for a farming world with weather: a closely woven field jacket with a high soft collar, plain shirt and trousers, stout boots that chalk whitens; nothing worn carries a light or an emitter. *Proposed.*
+- **At work:** Shepherds, ploughmen and thatchers in the same cloth; the Tír na nÓg rule applies, *the crook is a tool, not a costume*, and a frame may leave it out. *Proposed, from practice.*
+- **Custom:** The founders were none of the Celtic Union's six charter traditions, and the place-names are of an older English downland register, so no heritage element is drawn beyond what the names already carry; the page describes no dress and no custom, and none is proposed. *Derived for the absence.*
+- **The century's sign:** The javelin trail in the sky and the certified thatch; the cloth carries its one detail as everywhere. *Proposed.*
+
 ### Saltmere
 *Tags:* none on record
 - **Conditions:** No land at all; platforms on tethers through storms that cannot be outrun (`planets/saltmere.md`). *Derived.*
