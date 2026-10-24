@@ -117,7 +117,9 @@ const PEOPLES = [
     frame: null, design: null,
     designNote: ["The species note records the people as designed by its method straight onto the lore page", "Designed by this file's method"],
     pageBody: ["src/lore/ilveth.md", "An Ilveth is long and low"],
-    portraits: {},
+    portraits: {
+      "idrun-hesk": { note: "Filed 24 October 2026 as a thermal-band frame, the Ilveth ruled not recordable in visible light; the body reads dim and the warm-write bright." },
+    },
   },
   {
     id: "krenyi", name: "Krenyi (Quiet-Built)", page: "src/lore/krenyi.md", places: "krenyi", species: ["Krenyi"],

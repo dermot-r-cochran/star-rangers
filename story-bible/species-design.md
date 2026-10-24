@@ -1365,6 +1365,8 @@ the animals.
 
 ### Ilveth — Sardain
 
+**Portraits, ruled 24 October 2026** (Dermot's *"Option 1"* and *"Infra red would be ok if it made sense"*): the Ilveth are not recordable in visible light in any way that says who they are, so an Ilveth portrait is a thermal-band frame, the record's own imager's view (`images.md`, *When a being cannot be photographed*, and § 31, Idrun Hesk). The filed visible-light frames (`suvra-kel.jpg`, the held `ilveth.jpg`) are not changed by this.
+
 - **Derived.** Sardain's life crowds into *"geothermal provinces where the
   biosphere itself has always crowded"*. Heat is the only wealth, and
   anything warm is visible *"from horizon distance"* to the mirror-pits
