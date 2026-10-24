@@ -6,6 +6,7 @@ species: Human
 role: Principal, Science Corps; Survey Corps Standards Office calibration floor, Earth
 aliases:
   - "Principal Adair"
+known_codex: [what-the-law-does-not-decide]
 tags: [science-corps, survey-corps, counterpane, archecluster, calibration, season-1, human]
 image: "yusuf-adair.jpg"
 image_alt: "Yusuf Adair, a man with iron-grey hair and a close-trimmed grey beard, in a plain grey-green service tunic with a small blue-inset collar tab, standing at a long wooden bench in a pale stone hall lit by high windows, one hand on an open folder, looking down at it; a small instrument under a grey cloth on the bench beside him."
@@ -22,6 +23,7 @@ His section explained things. That was the division of labour and he had never m
 - He went to the record instead of to the instruments, and found what the record had only ever claimed: *within any given Concordant*, *throughout the local cluster*. It had never once claimed its arithmetic for everywhere. The finding contradicted nothing the record held.
 - He wrote the rule the review is remembered for: that nothing read on the membrane be filed as a finding there, that every value come home as cargo, that the instruments be audited on a floor that had never left before any number became a reading, because the one thing a party could not calibrate against on the membrane was the membrane.
 - He filed three words, *Reading, at the width of one membrane*, recommended revisit, and countersigned under them, since that was where a countersignature went. Then he went to find out what else the record had only ever claimed for here. [Survives Correction (S01E00C05)](/star-rangers/seasons/s01/e00/s01e00c05/).
+- Late in 2815 UCSD he circulated a Science Corps working paper on what that search turned up that was not a matter of width: a result six centuries old showing that a fully stated law can leave a question about its own system undecidable. It proposes a filing for a question *proved open*, and no adoption of it is on file. [What the Law Does Not Decide](/star-rangers/codex/what-the-law-does-not-decide/).
 
 ## Character Notes
 
@@ -31,3 +33,4 @@ The finding was accepted at home only after the party's instruments had passed a
 
 - [Syra](/star-rangers/characters/syra/), whose filing he countersigned
 - [The Scope of Physical Law](/star-rangers/lore/the-scope-of-physical-law/)
+- [What the Law Does Not Decide](/star-rangers/codex/what-the-law-does-not-decide/), his working paper
