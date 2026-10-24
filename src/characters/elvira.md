@@ -23,7 +23,7 @@ What she does is craft. Etheric structures express through the physical substrat
 
 ## Character Notes
 
-Elvira does not experience deep fear. This is not a trained quality — it is structural, a feature of her nature. She once considered it a flaw. She no longer does. The Marsh Causeway is Type II oscillatory, and the work requires someone who can stand in it and continue taking measurements.
+Elvira does not experience deep fear. It is not a trained quality, and what it comes from is not established. She once considered it a flaw. She no longer does. The Marsh Causeway is Type II oscillatory, and the work requires someone who can stand in it and continue taking measurements.
 
 She pays attention to vocabulary. When Galahad uses precise language for the boundary events — not fumbling for metaphors, not reaching for folklore — she notices immediately, and revises her model of him upward.
 
@@ -35,6 +35,6 @@ Her identification of a "Court thing" at the causeway is partially correct. She 
 
 ## Open Thread
 
-What is Elvira? Her classification is contested within the story. She is clearly a person, clearly capable of fine-grained boundary work, and clearly not human in the standard sense. Her species and origin are live questions. They are not resolved by external insertion — only by story events.
+What is Elvira? Her classification is contested within the story. She is clearly a person and clearly capable of fine-grained boundary work. Whether she is human in the standard sense is not established. Her species and origin are live questions. They are not resolved by external insertion — only by story events.
 
 [S01E03C03](/star-rangers/seasons/s01/e03/s01e03c03/) adds the first data point and resolves nothing: Galahad Thorne met her at Dún Rí in 2806 UCSD, sixteen years before any other record places her there, and says she has not changed since. His memory is the only source — no image, instrument reading, or third-party record corroborates it, and he has entered none of it in the survey file. Whether she remembers him is not established.
