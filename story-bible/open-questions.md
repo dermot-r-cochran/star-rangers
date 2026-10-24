@@ -47,7 +47,7 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
-## Intelligence services, prisons, the death penalty and euthanasia in the 29th century — raised 24 October 2026, RULED the same day: A (Dermot's *"Option A: leave the polities' intelligence services marked absent until a chapter needs one."*)
+## Intelligence services, prisons, the death penalty, euthanasia and armed conflict in the 29th century — raised 24 October 2026, RULED the same day: A (Dermot's *"Option A: leave the polities' intelligence services marked absent until a chapter needs one."*)
 
 Dermot asked, 24 October 2026: *"Do intelligence agencies still exist in the
 29th century and and so then they would be less covert and dangerous than in
@@ -102,6 +102,32 @@ neither anywhere. Its consequences for drafting:
   provisions for artificial minds (withdrawal of commissioned standing,
   *"never a disposal instruction"*, `src/glossary/commissioned-standing.md`),
   which are matters of standing and law and are not touched by this.
+
+**Armed conflict, and where the suspense comes from, the same conversation.**
+Dermot, verbatim: *"armed conflict is extremely rare; lethal armed conflict
+almost unheard off after the founding of the star rangers"*, then *"so the
+tension and suspense in the story does not come from overt violence"*. A
+direction. Nothing is written to `src/`, and a search of lore, timeline and
+seasons found no armed conflict dated after the founding (2718 UCSD,
+`src/lore/formation-of-star-rangers.md`). The Wrath of the Dragons (2831) is a
+fold-transit catastrophe, not a fight. Its consequences for drafting:
+- **After 2718 UCSD armed conflict is extremely rare, and lethal armed
+  conflict almost unheard of.** The polities still keep militaries (the
+  Federation's *interposition not conquest*, the Celtic Union's mostly
+  ceremonial force), and their work is deterrence, interposition and
+  ceremony. *Almost* is his word and stands: the record does not claim it
+  never happened, and any exception is a canon question for him, not a
+  drafting choice. Before 2718 the record keeps its history (the Imperium's
+  fall in 2609, the Military Space Command's failure) as history.
+- **Tension and suspense never come from overt violence.** They come from
+  what the record already runs on: a gap that cannot be crossed (the
+  shadow-shaped mysteries), a finding that has to be made and stood behind,
+  a cost that someone has to carry, a decision made under patience and
+  discretion, the boundary and the Unfounded (countered and starved, never
+  fought), and whether the people in the record will be believed. This
+  extends, and does not replace, the standing lines: no guns-and-spaceships,
+  *a problem never ends when something is shot*, and courage and heroism
+  with patience and discretion rather than violence, at every reading tier.
 
 ---
 
