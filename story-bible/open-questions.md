@@ -927,7 +927,7 @@ same rule:
   Voice: **written in warmth**, the signalling vanes, a word that costs a
   calorie. Sardain has no page.~~ — **drafted 24 October 2026** (Fable, by
   the daily Fable fill; taken ahead of the Cerebraun, Ollune and Verdani
-  lines at the fill's brief; PR #PRNUM): `src/codex/shown-to-the-sky.md`, by
+  lines at the fill's brief; PR #1444): `src/codex/shown-to-the-sky.md`, by
   Idrun Hesk, a sealer of a buried working floor on Sardain
   (`src/characters/idrun-hesk.md`), the second Ilveth the record names and
   not Suvra Kel. Given in the warm-write, outside, at night, at her asking,
