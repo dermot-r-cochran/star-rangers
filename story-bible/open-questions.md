@@ -47,7 +47,7 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
-## Intelligence services and prisons in the 29th century — raised 24 October 2026, RULED the same day: A (Dermot's *"Option A: leave the polities' intelligence services marked absent until a chapter needs one."*)
+## Intelligence services, prisons, the death penalty and euthanasia in the 29th century — raised 24 October 2026, RULED the same day: A (Dermot's *"Option A: leave the polities' intelligence services marked absent until a chapter needs one."*)
 
 Dermot asked, 24 October 2026: *"Do intelligence agencies still exist in the
 29th century and and so then they would be less covert and dangerous than in
@@ -80,6 +80,28 @@ a chapter needs custody or confinement**, it either finds none needed or
 meets a place very different in design and function from a 20th-century
 prison, never the cell block, the yard or the warder. Its form is settled
 then, on a page that needs it, as a proposal.
+
+**The death penalty and euthanasia, the same conversation.** Dermot,
+verbatim: *"death penalty considered barbaric and euthanasia generally not
+needed"*. A direction: nothing is written to `src/`, and the record mentions
+neither anywhere. Its consequences for drafting:
+- **No polity in the record's present executes anyone, and the record's own
+  voice calls the practice barbaric** where it has cause to name it at all.
+  A historical or Codex source from an age that did may record it, in its own
+  voice, as a past practice. A character may speak of it as people now speak
+  of the rack. It is never shown as a working penalty in the present. It fits
+  the standing lines: no person written as a true villain, courage with
+  patience and discretion rather than violence, and the Unfounded *countered
+  and starved, never addressed*, with nothing ever *put to death*.
+- **Euthanasia is generally not needed**, because the record's medicine and
+  care leave little or no suffering it would answer. *Generally* is his word
+  and stands: the record does not rule out every case, and does not make a
+  plot of one. Where a page has cause to touch the subject, it shows that the
+  need does not arise. It is never a debate staged for its own sake, and never
+  framed as a policy of any polity. It is distinct from the record's own
+  provisions for artificial minds (withdrawal of commissioned standing,
+  *"never a disposal instruction"*, `src/glossary/commissioned-standing.md`),
+  which are matters of standing and law and are not touched by this.
 
 ---
 
