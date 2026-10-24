@@ -148,10 +148,10 @@ async function scaffoldChapter(rl) {
     ["comment_id", toYamlString(slugify(title))]
   ];
 
-  for (const field of ["timestamp", "location", "description"]) {
-    const raw = await promptOptional(rl, field);
-    if (raw) fields.push([field, toYamlString(raw)]);
-  }
+  fields.push(["timestamp", toYamlString(await promptRequired(rl, "timestamp (in-universe, e.g. 2826 UCSD, Late Summer, Day 47)"))]);
+  fields.push(["location", toYamlString(await promptRequired(rl, "location"))]);
+  const description = await promptOptional(rl, "description");
+  if (description) fields.push(["description", toYamlString(description)]);
   const tags = await promptOptional(rl, "tags (comma-separated)");
   if (tags) fields.push(["tags", toYamlList(tags)]);
 
