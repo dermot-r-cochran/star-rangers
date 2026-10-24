@@ -14,6 +14,7 @@ known_codex:
   - the-verification-doctrine
   - three-disciplines-of-the-record
   - the-seat-allocation-protocol
+  - the-width-before-the-reading
 ---
 
 The Institute employs a great many people who point instruments at boundary phenomena and decline to say what the readings mean. Ilsabet Corren points the same discipline at something nobody else at the Institute thought needed instrumentation: the records institutions keep about themselves.
@@ -39,3 +40,5 @@ Corren is precise company rather than cold company, and the distinction matters 
 ## In the Record
 
 Corren's signed work is the [Amendment Atlas proposal](/star-rangers/codex/the-amendment-atlas/), filed to the Survey Archive's visiting papers with [Sen's](/star-rangers/characters/sen/) shelf comment beside it — favourable, conditions standing. Her fellowship's working notes cite the Archive's [Verification Doctrine](/star-rangers/codex/the-verification-doctrine/) and Sen's [Three Disciplines of the Record](/star-rangers/codex/three-disciplines-of-the-record/) as the nearest prior statements of her own method — a debt she records plainly, in keeping with the discipline all three documents describe.
+
+In 2827 UCSD she turned the same discipline on the record's own scope practice. [The Width Before the Reading](/star-rangers/codex/the-width-before-the-reading/) tests the strongest objection to it, that a record free to narrow its claims after a contrary reading can never be refuted. Reading the record's wording from before the Counterpane finding, she found the width already there. She printed at the same length what the test cannot show: intention, the future, the untested upper rungs, and the cosmology the Institute declines.
