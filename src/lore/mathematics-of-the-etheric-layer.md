@@ -17,7 +17,7 @@ The difference matters because the two kinds of mathematics behave differently. 
 
 ## A Template Is a Test, Not a List
 
-The Five Layers put it in one line: a template says what may cohere, not which things did, the way a grammar holds no list of the sentences said in it. In that mathematics, a template is a **test**. Present it with a configuration and it answers one of two ways, admissible or not. It does not enumerate the admissible configurations, and it could not: the set it describes is open-ended, like the set of grammatical sentences, and an open-ended set is held by a finite rule rather than a list. A grammar is such a rule. A template is a rule of the other kind, one that checks rather than one that generates.
+The Five Layers put it in one line: a template says what may cohere, not which things did, the way a grammar holds no list of the sentences said in it. In that mathematics, a template is a **test**. Present it with a configuration and it answers one of two ways, admissible or not. It does not enumerate the admissible configurations, and it could not: the set it describes is open-ended, like the set of grammatical sentences, and an open-ended set is held by a finite rule rather than a list. A grammar is such a rule, and so is a template; the difference is that a grammar is usually written to produce sentences and a template only ever checks one.
 
 So a template holds no record, and the Archive's finding that [only the Conceptual layer keeps a register](/star-rangers/lore/five-layers/) is not a limitation of Layer 3 but its shape. Asking a template which instances there have been is asking a test what it has been applied to, and a test does not remember.
 
@@ -41,7 +41,7 @@ A test is not a term in an equation, and the Physical layer is written in equati
 
 Each ε is a number that depends on where the system is and what is near it. In deep quiet rock, in boundary-remote space, in unminded apparatus, every ε is zero, and a term multiplied by zero is not a small correction but no term at all. That is why the generalisation calls the quiet case an exact restriction rather than an approximation holding well, and why a sealed [cavern](/star-rangers/lore/quantum-computing-and-the-cavern-constraint/) is a laboratory old Earth would recognise. Near a boundary, or wherever a mind is present, some ε is not zero, and the kernel needs its larger frame.
 
-The couplings the record has named, filed page by page, are the known terms: the faint texture on quantum randomness, the meaning-field overlays, the second decoherence channel, and the harmonic admissibility structure that corridor transit runs on. Whether that list is complete, and whether some of its entries are one term seen from two sides, the record does not know.
+The couplings the record has named, filed page by page, are the known terms: the faint texture on quantum randomness, the meaning-field overlays (with the conceptual information channel the generalisation files beside them, a channel rather than a coupling and not counted here), the second decoherence channel, and the harmonic admissibility structure that corridor transit runs on. Whether that list is complete, and whether some of its entries are one term seen from two sides, the record does not know.
 
 ## Why the Terms Add Nothing
 
@@ -55,7 +55,7 @@ What a coupling can do is shift the weights. It can make one outcome somewhat li
 
 Nothing on this page is said wider than its ground, and [the scope ladder](/star-rangers/lore/the-scope-of-physical-law/) places each statement.
 
-The mathematics of constraint itself, what a test is, what it means for a set to shrink and never grow, what persistence under a dynamics is, belongs to the **mathematical regime** the Metawright settles. It is the same mathematics on every page of the record and would be the same in [Counterpane](/star-rangers/lore/counterpane-archecluster/), whose instruments brought back a different physics and no different arithmetic.
+The mathematics of constraint itself, what a test is, what it means for a set to shrink and never grow, what persistence under a dynamics is, belongs to the **mathematical regime** the Metawright settles. It is the same mathematics on every page of the record and would be the same in [Counterpane](/star-rangers/lore/counterpane-archecluster/), whose instruments brought back a different physics, a different arithmetic of combination as its own file puts it, and the same mathematics in which to write both down.
 
 Which templates exist, the vocabulary of tests a universe can carry, is the Archewright's and so is **archecluster**-scoped. Whether Counterpane's extension differs with its kernel is a question the one surveyed membrane cannot answer, and its file says so.
 

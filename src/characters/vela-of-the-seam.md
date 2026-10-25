@@ -21,7 +21,7 @@ Her name is as the Corps' rolls carry it, in the record's translation register, 
 - Grew up on Nerath, in the depth band her people hold between the lit, weathered surface and the cold below; the account gives growing up as learning to hold a depth until the rate of losing it has gone to nothing, and gives no year, place or kin ([Where It Was Put](/star-rangers/codex/where-it-was-put/)).
 - Came into the Corps as her people do, by her own account, because *a station is a column that has agreed to stay* and she had never read one; the year is not given, and the Corps' rolls hold it.
 - Has served long enough among humans to have read the record's own entry on her people in its earlier form, before it was rewritten to mark the early words as conversions, and to have been asked, since, why her people never said the words were set wrong. The account is her answer.
-- Posted to Threshold Station in 2826 UCSD, in its humid, high-pressure working sections, reading the station's coolant, sealing and what crosses a seam, as the people's page says Pelagene Rangers do. Answered the Survey Archive's asking from there, wrote the account in her own section with a reader of the desk present, and passed it on one condition, that the marked words stay where they were put.
+- Posted, in the record's present, 2826 UCSD, to Threshold Station's humid, high-pressure working sections, reading the station's coolant, sealing and what crosses a seam, as the people's page says Pelagene Rangers do. Answered the Survey Archive's asking from there, wrote the account in her own section with a reader of the desk present, and passed it on one condition, that the marked words stay where they were put.
 
 ## Character Notes
 
