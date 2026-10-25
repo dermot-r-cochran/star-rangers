@@ -47,6 +47,102 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A tidewright of the Fenmarch Republic on Verdance, Meril Duskkin — the third daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Verdance line of the 14 October worklist below (*Peoples with one
+character and no home-world page*: *one Verdani character, but the planet
+holds four civilisations*), taken by the daily Fable fill as the next line
+existing pages can ground. The lines before it were passed over for stated
+reasons: *Earth in the present* wants a chapter, not a page; *Krenyi* wants
+a home-world page, which is lore and Opus's; the *Ovruhn, Ilveth, Pelagene,
+Serephine, Veyr* line is the same home-world gap five times over, and its
+Ovruhn share was in another agent's hands the same day. The Verdance line
+alone asks for a person: the planet's page holds four civilisations and the
+record's one Verdani is of the Canopy Concord. Drafted as
+`src/characters/meril-duskkin.md`, grounded only in `planets/verdance.md`,
+`verdani.md`, `characters/isren-farrowkin.md`, `greenward-habitat.md`,
+`what-a-life-is-built-from.md`, `cross-biosphere-taxonomy.md`,
+`the-ledger-and-the-truce.md`, `the-forest-is-waiting.md`,
+`federation-of-sentient-beings.md`, S01E00C08 and the two Verdance
+timeline entries, with the Verdance section of `ecology-design.md` (no
+organism named but the thallenwort; the tide-raiser not established), the
+Verdani blocks of `species-design.md` and `civilian-dress.md` (nothing worn,
+his choice 5 of 14 October) and the Verdani section of `mind-design.md`
+read for what they rule out, and the rest marked absent in a *What the
+Record Does Not Carry* section. Portrait prompt in `images.md` § 38, written
+the same day, not generated. No lore page is touched: `planets/verdance.md`
+and `verdani.md` list no people and keep their See-also lines, on the
+Saltmere and Winterbourne precedent.
+
+**Why the fenlands, and why a tidewright.** Of the three countries without a
+person, the Fenmarch Republic is the one the record has already pictured:
+the planet page's filed illustration carries, at Dermot's 12 October ruling,
+*the long low pale line of a tidal flood-gate … the kind of works that keeps
+a stilted city's water where it should be*, from the page's own Tidewrights,
+and the people's page gives the fenland strain its colour and its light. So
+a tidewright keeping a gate asserts nothing the record has not shown. The
+Stonewake Dominion was the alternative, a farmer of a Terrace Assembly under
+the unfiltered highland sun, grounded in the page's *alpine farming
+communities*; it was passed over because the ecology file rules out naming a
+crop or an organism, which leaves a farmer with nothing on the page to farm,
+and because a hill farmer is the pastoral allegory `species-design.md` warns
+of. The Aurelin Herdlands were not a candidate: what they herd *stays
+unestablished until a chapter needs a herd* (his choice 3 of 14 October), and
+a herder without a herd would be a page about an absence.
+
+**What the page does not do, by design.** It does not say what a gate is
+made of or how one is grown, set or mended, since the record holds no account
+and the people's page gives only the industry (cultivation, grown materials,
+seasons, ambient temperature); the page says the works are of that industry
+and stops. It names no settlement and no city, since the planet's page names
+none in the fenlands. It gives him no view of the Drylanders' Union and
+adjudicates nothing between the Union and the Guild; the one observation it
+adds, that a drained fen is a fen whose light has changed and the people's
+page says what a changed light costs a lineage, is the people's page's own
+mechanism restated and is marked as the record's observation, not his. It
+names no organism in the fens and does not say what raises the tide. It gives
+him no age and no year of bonding, since the record holds no Verdani lifespan
+and no conversion of Verdance's local years, which is why Isren's eleven
+years stand unconverted on her timeline entry. It brings nobody from
+Greenward down, since nobody may come down, and sets the two watches, the
+ring's and the gate's, beside each other without a meeting. It does not
+perform what a fenland Verdani's vanes do when the mist thins, since the one
+such moment the record holds is Isren's at the end of *Nobody Present*.
+
+Settled by recommendation under the dilemma-only rule, each his to
+overrule: **the country** (the Fenmarch Republic, derived as above); **the
+trade** (a tidewright of the Tidewrights' Guild who keeps one flood-gate,
+derived from the planet page's Guild and its filed illustration; chosen over
+a member of the rotating engineering council, whose page would be the
+Republic's politics and not the fens, and over a Drylander, whose page would
+have to argue); **the kinstrain** (*Duskkin*, one of the three kinstrain
+names the people's page already lists, assigned to no one, and read as a
+fenland lineage by its sound and by the strain's *reduced light beneath marsh
+mist*; a coined fourth name was the alternative, and the page asserts no
+meaning for *Duskkin* and does not say the name means dusk); **the personal
+name** (*Meril*, coined, two syllables in the register *Isren* sets, with no
+meaning asserted; the alternatives are *Tavin Duskkin* and *Elsha Duskkin*,
+or a name he gives); **the pronoun** (*he*, on the translation default the
+page states; the people's page declares no system, Isren is *she* by the same
+default, and a *she* would be as well grounded); **the age** (none, by the
+record's silence, with the working-life reading kept to *in the Guild long
+enough that the cycle is read by habit* and never a year); **the place** (a
+gate across a fen channel, a stilted city beyond it, neither named); **the
+era** (2826 UCSD, a flood cycle's water standing high and still at the gate
+under thinning mist, so the frame is calm and bright and the body is eating
+what little light there is). Not asserted: his kin beyond the lineage; the
+gate's material and making; whether a gate has one keeper or a watch; the
+tide-raiser; what lives in the fens and whether it carries partners; his
+view of the Union; whether he has met a Ranger, a surveyor or a delegate;
+the Verdani language in any channel. Not done: no chapter; no change to
+`planets/verdance.md` or `verdani.md`; no image generated; no portrait row in
+`scripts/extract-peoples.js`, which is added on filing as PR #1420 did.
+
+**Left for him, not as a decision.** Whether the Verdani ever take a
+pronoun system of their own is a per-species canon decision under the
+8 August rule and is not raised by this page; both Verdani stand on the
+translation default.
+
 ## A keeper of a mooring tower on Saltmere, Hollis Orme — the second daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Saltmere line of the 14 October worklist below (*Human peoples and
@@ -1882,7 +1978,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 **Peoples with one character and no home-world page** (a plain gap, not ruled anywhere):
 - [ ] **Krenyi**: three characters and nine POV chapters, but no homeworld page.
 - [ ] **Ovruhn** (Thavren), **Ilveth** (Sardain), **Pelagene** (Nerath), **Serephine** (Kharis Belt IV), **Veyr Basaltborn** (Veyr-3): one character each, no home-world page. Further named Ovruhn are explicitly invited (see the Ovruhn entry below). The Veyr and Serephine *leave as absences* ruling covers their language channel only.
-- [ ] **Verdance**: one Verdani character, but the planet holds four civilisations.
+- [x] ~~**Verdance**: one Verdani character, but the planet holds four civilisations.~~ — **filled 25 October 2026** (Fable, by the daily Fable fill; the section *A tidewright of the Fenmarch Republic on Verdance, Meril Duskkin* above records the choices): `src/characters/meril-duskkin.md`, a fenland-strain Verdani of the Fenmarch Republic's Tidewrights' Guild, who keeps one flood-gate across a fen channel on the flood cycle a stilted city depends on, in the dim light under marsh mist his kinbeds were bred for and cannot leave; at home in the Calyx system in 2826 UCSD, in no delegation and in no room; grounded only in the Verdance and Verdani pages and the pages that link or cite them, the rest marked absent; portrait prompt `images.md` § 38, not generated. The Fenmarch Republic was taken because the planet page's filed illustration already shows its flood-gate, at Dermot's 12 October ruling; the Stonewake Dominion and the Aurelin Herdlands still have nobody, the Herdlands by the 14 October ruling that holds the herd back, so the planet's four civilisations now have people in two.
 
 **Peoples the record says serve in the Corps, or could, with no Ranger on record** (added 14 October 2026 from `species-design.md`, *In the Corps*):
 - [x] ~~**A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.~~ **Filled 19 October 2026** on Fable at Dermot's direction: Kettsa, Senior Officer, Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone, 2826 UCSD (`src/characters/kettsa.md`; portrait prompt `images.md` § 19, not generated; the section *A Chthonari Ranger, Kettsa* above records the choices; PR #1362).
