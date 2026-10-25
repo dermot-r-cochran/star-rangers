@@ -14,7 +14,8 @@ eleventyComputed:
   The record keeps its documents where the world keeps them. Entries below are shelved by holding collection — from the Survey Archive's binders to the recordings that survive only by being passed post to post — and each entry's own page records its precise shelf-mark.
 </p>
 
-{% set codexEntries = collections.codex %}
+{#- Shelved by library, A-Z within each shelf (lib/index-grouping.js). -#}
+{% set codexEntries = collections.codex | byTitle %}
 {% set libraries = [
   { name: "Survey Archive, Threshold Station", blurb: "The record's own working library, kept under Senior Archivist Sen — general holdings, the doctrinal working-paper series, the verification case files, and the reconciliation binders beside the Dock Seven incident file." },
   { name: "Threshold Station Offices", blurb: "The station's other filings: the Records Vault, the Maintenance Division, the Operations Annex, and the ceremonial record." },
@@ -29,6 +30,26 @@ eleventyComputed:
 
 {% set seriesEntries = [] %}
 {% for entry in codexEntries %}{% if entry.data.tags and ("histories-in-their-own-voices" in entry.data.tags) %}{% set seriesEntries = (seriesEntries.push(entry), seriesEntries) %}{% endif %}{% endfor %}
+{% set hasScattered = false %}
+{% for entry in codexEntries %}{% if (not entry.data.library) or (entry.data.library not in namedLibraries) %}{% set hasScattered = true %}{% endif %}{% endfor %}
+{% if codexEntries.length %}
+<nav class="section-jump" aria-label="Shelves on this page">
+  {%- if seriesEntries.length %}
+  <a href="#series-histories-in-their-own-voices">Histories in their own voices</a>
+  {%- endif %}
+  {%- for lib in libraries %}
+  {%- set hasEntries = false -%}
+  {%- for entry in codexEntries %}{% if entry.data.library == lib.name %}{% set hasEntries = true %}{% endif %}{% endfor -%}
+  {%- if hasEntries %}
+  <a href="#library-{{ lib.name | slugify }}">{{ lib.name }}</a>
+  {%- endif %}
+  {%- endfor %}
+  {%- if hasScattered %}
+  <a href="#library-scattered">Circulating &amp; Scattered Holdings</a>
+  {%- endif %}
+</nav>
+{% endif %}
+
 {% if seriesEntries.length %}
 <section class="thread-section" aria-labelledby="series-histories-in-their-own-voices">
   <h2 class="thread-section__title" id="series-histories-in-their-own-voices">Histories in their own voices</h2>
@@ -80,8 +101,6 @@ eleventyComputed:
   {%- endif -%}
 {% endfor %}
 
-{% set hasScattered = false %}
-{% for entry in codexEntries %}{% if (not entry.data.library) or (entry.data.library not in namedLibraries) %}{% set hasScattered = true %}{% endif %}{% endfor %}
 {% if hasScattered %}
 <section class="thread-section" aria-labelledby="library-scattered">
   <h2 class="thread-section__title" id="library-scattered">Circulating &amp; Scattered Holdings</h2>

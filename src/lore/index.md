@@ -14,20 +14,19 @@ commentsCategory: lore
 
 {% set loreEntries = collections.lore %}
 {% if loreEntries.length %}
-  {%- set categories = [] -%}
-  {%- for entry in loreEntries -%}
-    {%- set cat = entry.data.category | default("General") -%}
-    {%- if cat not in categories -%}
-      {%- set categories = categories.concat([cat]) -%}
-    {%- endif -%}
-  {% endfor %}
+  {#- Categories ground up, A-Z within each (lib/index-grouping.js). -#}
+  {%- set categories = loreEntries | groupLore -%}
+  <nav class="section-jump" aria-label="Categories on this page">
+    {%- for cat in categories %}
+    <a href="#{{ cat.id }}">{{ cat.name }}</a>
+    {%- endfor %}
+  </nav>
 
   {% for cat in categories %}
-  <section class="lore-category-section" aria-labelledby="lore-cat-{{ cat | lower | replace(' ', '-') }}">
-    <h2 class="season-block__title" id="lore-cat-{{ cat | lower | replace(' ', '-') }}">{{ cat }}</h2>
+  <section class="lore-category-section" aria-labelledby="{{ cat.id }}">
+    <h2 class="season-block__title" id="{{ cat.id }}">{{ cat.name }}</h2>
     <div class="codex-grid">
-      {%- for entry in loreEntries -%}
-        {%- if (entry.data.category | default("General")) == cat -%}
+      {%- for entry in cat.items -%}
         <a class="codex-card" href="/star-rangers{{ entry.url }}">
           {%- if entry.data.image -%}
           <img class="codex-card__thumb" src="/star-rangers/images/lore/{{ entry.data.image }}" alt="{{ entry.data.image_alt | default(entry.data.title) }}" />
@@ -35,7 +34,6 @@ commentsCategory: lore
           <p class="codex-card__category">{{ entry.data.category | default("General") }}</p>
           <h3 class="codex-card__title">{{ entry.data.title }}</h3>
         </a>
-        {%- endif -%}
       {%- endfor -%}
     </div>
   </section>
