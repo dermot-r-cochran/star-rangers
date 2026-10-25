@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **More of Tissadelle Shepherd's system named** (`src/characters/tissadelle-shepherd.md`, 2026-10-25, Opus, at Dermot's direction). An extension: Pandora is one of the members who fronts for Slipwave. Five more members are named on the system's own account: Valentina, Lucas, Elara, Skye and Celestine. The page records only their names and membership.
+
 - **Sen Lovax's system calls itself the Archivist** (`src/characters/sen.md`, `src/characters/cael.md`, `src/characters/wyn.md`, 2026-10-25, Opus, at Dermot's direction). An extension: *the Archivist* is the collective's own name for itself, and it uses Sen's full name, Sen Lovax, for legal and external purposes. The Characters index now heads the system *The Archivist*, and Cael's and Wyn's pages name it.
 
 - **Tissadelle Shepherd is the name of a plural system** (`src/characters/tissadelle-shepherd.md`, `src/characters/tobble.md`, `src/glossary/plural-minds.md`, 2026-10-25, Opus, at Dermot's direction). A clarification: *Tissadelle Shepherd* is the system's collective name, no single member is Tissadelle, and the officer the chapters follow is the system as the world meets it. Two more members are named on the system's own account: Pandora, a musician, and Angela, a protector and guardian, who fronted through the Garda training. Some members look like the body they share and are told apart by dress; others, Tobble and Asteria among them, are more distinctive. Every member keeps a style of dress, in the inner world and off duty, and on duty all wear the same uniform. The chapters stand as written, and the Characters index now heads the system with its own name.
