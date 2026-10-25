@@ -40,7 +40,7 @@ What *water* did was bring the rest of your world in with it. A shore. A sky you
 
 ### *Littoral*
 
-Your filers wrote *littoral*, and your record says that is its small joke and its exact taxonomy in one word. I will take the taxonomy and leave the joke where it was put.
+Your filers wrote *littoral*, and your record says now that the name is the first thing to correct, and corrects it to a depth band. I will take the depth band and leave the word where it was put.
 
 A *littoral* has a *shore* on one side of it. Ours has none. It has an up and a down, and they are not the same and were never the same: up is light, and weather that reaches down into the band on a bad day and takes what it finds; down is weight, and cold, and a dark that nobody I know has been far into and come back from with anything to say. The band between is where a body can hold. Your record says it is the hardest place on the world and that we are what lives in the hardest place, and that is right. I would add only that we do not think of it as hard. We think of it as the place where you can always tell which way you are going, because above and below are different, and a body that cannot tell which way it is going does not last.
 
