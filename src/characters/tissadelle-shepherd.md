@@ -14,7 +14,7 @@ description: "Star Ranger cadet at the start of Season 1; earns the rank of Line
 image: tissadelle-shepherd.jpg
 image_season: 5
 image_caption: "Season 5 — Line Captain"
-image_alt: "Tissadelle Shepherd at about thirty, five years older than in her cadet frames, red hair pulled back loosely with a few strands falling free and blue-green eyes, in the dark slate-grey Ranger field uniform with a stand collar, the square metal rank tab with three concentric rings on her chest, a plain diamond patch and a short row of service ribbons beside it, both hands at the open access panel of a sealed housing in the wall of a pale compartment, her eyes past the panel and not on the viewer"
+image_alt: "Tissadelle Shepherd at about thirty, a few years older than in her cadet frames, red hair pinned up loosely with strands falling free and blue-green eyes, in the dark slate-grey Ranger field uniform with a stand collar, the square metal rank tab with three concentric rings on her chest, a plain diamond patch and a short row of service ribbons beside it, both hands at the open access panel of a sealed housing in the wall of a pale compartment, her eyes on the work and not on the viewer"
 known_codex: [star-rangers-anthem, ballad-of-the-stars]
 gallery:
   - image: season-1-cadet.jpg
