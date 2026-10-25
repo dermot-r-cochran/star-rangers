@@ -1465,7 +1465,7 @@ same rule:
   every human word for their medium is a translation made early, and the
   entry keeps that visible. Nerath has no page.~~ — **drafted 25 October
   2026** (Fable, by the daily Fable fill; taken ahead of the Cerebraun, Ollune
-  and Verdani lines at the fill's brief; PR #PENDING):
+  and Verdani lines at the fill's brief; PR #1486):
   `src/codex/where-it-was-put.md`, by Vela of the Seam, a Pelagene Littoral of
   the Star Rangers posted to Threshold Station
   (`src/characters/vela-of-the-seam.md`), the second Pelagene the record names
