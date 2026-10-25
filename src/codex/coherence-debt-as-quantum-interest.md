@@ -18,7 +18,7 @@ location: "Engineering Corps working papers, Earth–Sun L5 staging zone, no. FS
 
 [FTL Mechanics](/star-rangers/lore/ftl-mechanics/) defines fold transit as two spacetime regions temporarily brought into fold adjacency, a vessel translated while the adjacency holds, and the fold collapsed afterwards. Fold geometry is a property of the [Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/), defined at the scope of the local formcluster. This paper does not model that geometry. It takes the adjacency as given.
 
-What it models is the **aperture**: the place where the fold meets the ordinary four dimensions a vessel actually flies through. The aperture sits in our spacetime and answers to our quantum kernel, which is identical throughout the local archecluster to the physics recorded six centuries ago on Earth. So the oldest literature applies to it directly, and that literature turns out to say a great deal.
+What it models is the **aperture**: the place where the fold meets the ordinary four dimensions a vessel actually flies through. The aperture sits in our spacetime and answers to our quantum kernel, which is identical throughout the local archecluster to the physics recorded more than six centuries ago on Earth. So the oldest literature applies to it directly, and that literature turns out to say a great deal.
 
 ## 2. Proposition 1: an aperture must defocus
 
