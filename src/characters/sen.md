@@ -4,6 +4,7 @@ title: "Sen Lovax"
 id: sen
 species: Human
 role: "Senior Archivist, Survey Archive"
+plural_system: true
 status: Active
 aliases:
   - "Sen"

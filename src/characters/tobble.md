@@ -4,6 +4,7 @@ title: "Tobble"
 id: tobble
 species: "Cat (a nonhuman member of a human plural system)"
 role: "Member of Tissadelle Shepherd's plural system"
+system: tissadelle
 status: Active
 tags: [tobble, plural-mind, tissadelle-shepherd, season-2, season-5, season-6]
 description: "A member of Tissadelle Shepherd's plural system: a ginger cat, he/him, sharing her body as a person on the Concord's ordinary terms. Fronts with cats. Keeps the deeper, more ordered layer of the system's inner world, and was what was left with structure to spend at Dock Seven."

@@ -18,11 +18,27 @@ eleventyComputed:
   These are the named lives inside the record: officers, civilians, constructs, beings, and entities whose choices keep the frontier functioning or force it to change. Labels of kind reflect canonical classification—not how characters name themselves or one another.
 </p>
 
+{%- macro characterCard(char, level) -%}
+    <a class="codex-card" href="/star-rangers{{ char.url }}">
+      {%- if char.data.image -%}
+      <img class="codex-card__thumb" src="/star-rangers/images/characters/{{ char.data.image }}" alt="{{ char.data.image_alt | default(char.data.title) }}" />
+      {%- endif -%}
+      <p class="codex-card__category">{{ char.data.species | default("Unknown") }}{% if char.data.role %} · {{ char.data.role }}{% endif %}</p>
+      <h{{ level }} class="codex-card__title">{{ char.data.title }}</h{{ level }}>
+      {%- if char.data.aliases and char.data.aliases.length -%}
+      <p style="font-size:0.8rem;color:var(--color-text-muted);margin-top:0.25rem;font-family:var(--font-ui)">
+        aka {{ char.data.aliases | join(", ") }}
+      </p>
+      {%- endif -%}
+    </a>
+{%- endmacro -%}
+
 {% set chars = collections.characters %}
 {% if chars.length %}
 {#- Grouped by kind, A-Z within each kind (lib/index-grouping.js). Kind is the
     record's classification from each page's `species` line; the groups rank
-    nobody. -#}
+    nobody. A plural system is shelved once, with its members' pages beside it,
+    never by the body's kind. -#}
 {% set kinds = chars | groupCharacters %}
 <nav class="section-jump" aria-label="Kinds on this page">
   {%- for kind in kinds %}
@@ -35,22 +51,19 @@ eleventyComputed:
   {%- if kind.blurb %}
   <p class="page-intro">{{ kind.blurb }}</p>
   {%- endif %}
+  {%- if kind.systems %}
+  {%- for system in kind.systems %}
+  <h3 class="codex-card__category" id="system-{{ system.id }}">{{ system.heading }}</h3>
   <div class="codex-grid">
-    {%- for char in kind.items -%}
-    <a class="codex-card" href="/star-rangers{{ char.url }}">
-      {%- if char.data.image -%}
-      <img class="codex-card__thumb" src="/star-rangers/images/characters/{{ char.data.image }}" alt="{{ char.data.image_alt | default(char.data.title) }}" />
-      {%- endif -%}
-      <p class="codex-card__category">{{ char.data.species | default("Unknown") }}{% if char.data.role %} · {{ char.data.role }}{% endif %}</p>
-      <h3 class="codex-card__title">{{ char.data.title }}</h3>
-      {%- if char.data.aliases and char.data.aliases.length -%}
-      <p style="font-size:0.8rem;color:var(--color-text-muted);margin-top:0.25rem;font-family:var(--font-ui)">
-        aka {{ char.data.aliases | join(", ") }}
-      </p>
-      {%- endif -%}
-    </a>
-    {%- endfor -%}
+    {%- if system.page %}{{ characterCard(system.page, 4) }}{% endif -%}
+    {%- for char in system.members %}{{ characterCard(char, 4) }}{% endfor -%}
   </div>
+  {%- endfor %}
+  {%- else %}
+  <div class="codex-grid">
+    {%- for char in kind.items %}{{ characterCard(char, 3) }}{% endfor -%}
+  </div>
+  {%- endif %}
 </section>
 {% endfor %}
 {% else %}

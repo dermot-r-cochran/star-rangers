@@ -7,6 +7,8 @@ const {
   byTitle,
   characterKind,
   groupCharacters,
+  groupPluralSystems,
+  pluralSystemProblems,
   groupLore,
   LORE_CATEGORY_ORDER
 } = require("../lib/index-grouping");
@@ -85,4 +87,41 @@ test("lore categories follow the ground-up order, unknown ones after A-Z", () =>
 
 test("every lore category in the order is distinct", () => {
   assert.equal(new Set(LORE_CATEGORY_ORDER).size, LORE_CATEGORY_ORDER.length);
+});
+
+test("a plural system is shelved once, members beside it, never by the body's kind", () => {
+  const groups = groupCharacters([
+    item({ id: "tissadelle", title: "Tissadelle Shepherd", species: "Human", plural_system: true }),
+    item({ id: "tobble", title: "Tobble", species: "Cat (a nonhuman member of a human plural system)", system: "tissadelle" }),
+    item({ id: "eden-warden", title: "The Eden Warden", species: "AI (Kernel-Compliant, Plural System)", plural_system: "The Eden Warden" }),
+    item({ id: "zhulik", title: "Zhulik", species: "Cat (unaugmented)" }),
+    item({ id: "adaeze", title: "Adaeze Okafor", species: "Human" })
+  ]);
+  assert.deepEqual(groups.map((g) => g.id), ["humans", "plural-systems", "smart-pets-and-animals"]);
+  assert.deepEqual(titles(groups[0].items), ["Adaeze Okafor"]);
+  assert.deepEqual(titles(groups[2].items), ["Zhulik"]);
+  const systems = groups[1].systems;
+  assert.deepEqual(systems.map((s) => s.heading), ["The Eden Warden", "Tissadelle Shepherd's system"]);
+  assert.deepEqual(titles(systems[1].members), ["Tobble"]);
+  assert.equal(systems[1].page.data.title, "Tissadelle Shepherd");
+});
+
+test("a member whose system page is not on the build still shows, under its own title", () => {
+  const [system] = groupPluralSystems([item({ id: "tobble", title: "Tobble", system: "tissadelle" })]);
+  assert.equal(system.page, null);
+  assert.equal(system.heading, "Tobble");
+  assert.deepEqual(titles(system.members), ["Tobble"]);
+});
+
+test("the validator's plural-system checks", () => {
+  const page = (data, relativePath) => ({ data, relativePath });
+  const problems = pluralSystemProblems([
+    page({ id: "a", plural_system: true }, "a.md"),
+    page({ id: "b", system: "a" }, "b.md"),
+    page({ id: "c", system: "nobody" }, "c.md"),
+    page({ id: "d", system: "b" }, "d.md"),
+    page({ id: "e", plural_system: "" }, "e.md"),
+    page({ id: "f", plural_system: true, system: "a" }, "f.md")
+  ]);
+  assert.deepEqual(problems.map((p) => p.relativePath), ["c.md", "d.md", "e.md", "f.md"]);
 });

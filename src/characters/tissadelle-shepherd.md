@@ -4,6 +4,7 @@ title: "Tissadelle Shepherd"
 id: tissadelle
 species: Human
 role: Cadet (Season 1) → Line Captain (Season 5)
+plural_system: true
 status: Active
 aliases:
   - "Shepherd"
