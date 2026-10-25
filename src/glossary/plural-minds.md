@@ -23,6 +23,10 @@ In most jurisdictions across the Concord, a plural system is **jointly and colle
 
 The sole exception is a system a court has found **dysfunctional, on a psychiatric diagnosis** — and it is an exception with teeth, carrying every issue and restriction such a diagnosis brings, which is precisely why it is rare and why it is nobody's convenience. The record notes the recurring abuse without needing to name a case: the diagnosis route offered *from outside*, framed as kindness — a way to lay an act on one member and spare the rest — is almost always someone else's liability looking for a smaller door. A functional system declines it for the same reason anyone declines to be declared incompetent in exchange for a favourable verdict.
 
+## Relationships
+
+Members of one system may want different things and like different people, as any people sharing a life might. Some systems form relationships outward like anyone else. In others the members cannot agree on a partner from outside, and form their relationships among themselves instead. Not every system meets this; some do. Either way it is a difference between persons, never a symptom, and no standard asks a system to resolve it in one direction.
+
 ## Cosmological Note
 
 Nothing about a plural mind requires anything beyond the [Five Layers](/star-rangers/lore/five-layers/) already in force. Layer 2, the Conceptual layer, is identity and meaning structure prior to embodiment; the ordinary case is one Conceptual-layer identity coupling to one Material-layer body, but the coupling rule has never required a one-to-one ratio, only lawful coupling. A plural mind is simply more than one Conceptual-layer identity stably coupled to one shared Material-layer body — no different in kind from the single-identity case, and no more mysterious.

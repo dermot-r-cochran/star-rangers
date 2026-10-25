@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Relationships inside a plural system** (`src/characters/tissadelle-shepherd.md`, `src/glossary/plural-minds.md`, 2026-10-25, Opus, at Dermot's direction). An extension: Tissadelle Shepherd cannot form a romantic relationship outside the system, because her members are of different minds about what they want and whom they like, and they prefer relationships among themselves. The Plural Minds entry gains a *Relationships* section: some systems meet this and not all do, and it is never a symptom.
+
 - **Who is fronting, and who can tell** (`src/characters/tissadelle-shepherd.md`, `src/characters/orla-shepherd.md`, 2026-10-25, Opus, at Dermot's direction). An extension: every member of Tissadelle Shepherd's system answers to *Tissadelle* in public, and none says directly who is fronting. Her mother, Órla Shepherd, can tell the difference through micro-expressions. Angela fronts in security and operational roles.
 
 - **More of Tissadelle Shepherd's system named** (`src/characters/tissadelle-shepherd.md`, 2026-10-25, Opus, at Dermot's direction). An extension: Pandora is one of the members who fronts for Slipwave. Five more members are named on the system's own account: Valentina, Lucas, Elara, Skye and Celestine. The page records only their names and membership.

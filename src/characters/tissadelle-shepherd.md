@@ -140,6 +140,10 @@ Two more members are named on the system's own account, and the record holds lit
 
 The system's own account names five more members: **Valentina**, **Lucas**, **Elara**, **Skye** and **Celestine**. The record holds their names and that they are members, and nothing else. There are others besides, and the record has not been told all their names.
 
+### Inside, not outside
+
+Tissadelle Shepherd has formed no romantic relationship outside the system, and cannot. Her members are of different minds about what they want and whom they like, and they prefer to form their relationships among themselves. That is not a fault in a harmonious system, and the record does not treat it as one: people who share a life sometimes differ, and these have settled the difference inward. Not every plural system meets this; some do ([Plural Minds](/star-rangers/glossary/plural-minds/#relationships)). What the relationships inside are is the system's own, and the record holds nothing of them.
+
 ### Asteria
 
 There is another member the record can name, on the same authority as everything above: the system's own account. She is called Asteria, and she has the face of [Asteria Wessex](/star-rangers/characters/asteria-the-sage/) as a younger woman — a woman Shepherd never met. Wessex had withdrawn to her chapter house years before Shepherd's cadet intake. What Shepherd had of her was [Karla Wender](/star-rangers/characters/karla-wender/)'s memory: Wender was Wessex's pupil while Wessex was still serving, and became Shepherd's mentor in turn, and a mentor's mentor arrives in the telling, described rather than seen. The image Shepherd formed from that telling is the form the member took. The name came with the image, and so did the chapter's word for the woman it was drawn from: when the system speaks of her as Asteria the Sage it is repeating Wender, not claiming anything of the [Fellowship](/star-rangers/lore/fellowship-of-light/), in which the system has no standing.
