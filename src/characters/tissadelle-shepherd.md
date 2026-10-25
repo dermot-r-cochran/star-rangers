@@ -132,7 +132,11 @@ The architecture is load-bearing, not decorative. That different members front i
 
 ### Pandora and Angela
 
-Two more members are named on the system's own account, and the record holds little of either beyond the name and the work. **Pandora** is a musician. **Angela** is a protector and guardian, and she was the member who fronted through the Garda training. What the training left the system, evidence chains and the rule that the empty line on a signed form is the one a court asks about, is on the record already ([The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/), [Testing, Inspection and Certification (S02E02C01)](/star-rangers/seasons/s02/e02/s02e02c01/)); whose habit it became, the chapters did not say. The record does not say when either came. There are others, and the record has not been told their names.
+Two more members are named on the system's own account, and the record holds little of either beyond the name and the work. **Pandora** is a musician, and one of the members who fronts for [Slipwave](/star-rangers/glossary/slipwave/). **Angela** is a protector and guardian, and she was the member who fronted through the Garda training. What the training left the system, evidence chains and the rule that the empty line on a signed form is the one a court asks about, is on the record already ([The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/), [Testing, Inspection and Certification (S02E02C01)](/star-rangers/seasons/s02/e02/s02e02c01/)); whose habit it became, the chapters did not say. The record does not say when either came.
+
+### Others named
+
+The system's own account names five more members: **Valentina**, **Lucas**, **Elara**, **Skye** and **Celestine**. The record holds their names and that they are members, and nothing else. There are others besides, and the record has not been told all their names.
 
 ### Asteria
 
