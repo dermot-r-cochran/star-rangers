@@ -47,6 +47,7 @@ Chiefly, the end of a false choice. *Identical at base* and *textured at the mar
 
 ## See Also
 
+- [The Mathematics of the Etheric Layer](/star-rangers/lore/mathematics-of-the-etheric-layer/) — the extension read as constraint: what kind of mathematics the terms are, and why they add nothing
 - [Physics Comparison: Real Cosmos vs. The Fictional Cosmos](/star-rangers/lore/physics-comparison/) — the layer-by-layer record this entry states the single frame for
 - [Quantum Computing and the Cavern Constraint](/star-rangers/lore/quantum-computing-and-the-cavern-constraint/) — engineering the extension to zero
 - [Quantum Space Harmonics](/star-rangers/lore/quantum-space-harmonics/) — the extension's transit-scale vocabulary, and its archecluster scope
