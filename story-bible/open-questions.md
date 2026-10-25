@@ -47,6 +47,114 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## The Pelagene history, Vela of the Seam — the daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Pelagene line of the *Histories in their own voices* series below, taken
+by the daily Fable fill ahead of the Cerebraun, Ollune and Verdani lines.
+Drafted as `src/codex/where-it-was-put.md`, the eighth entry of the series,
+with its author's page `src/characters/vela-of-the-seam.md`, grounded only in
+`pelagene-littoral.md`, `characters/mira-of-brine.md`,
+`timekeeping-and-the-common-record.md` (*the original is the document*),
+`codex/xenolinguistics-handbook-failure-modes.md` (failure 5, the courtesy
+mistaken for the fact), `what-the-record-refuses.md` (*the water world*),
+`coasts-and-other-edges.md`, `habitable-for-whom.md`,
+`cross-biosphere-taxonomy.md` (Hydrostata), `rank-insignia-and-uniform.md`
+(Pelagene surveyors wear the shell), the timeline (which holds no Pelagene
+event) and the Pelagene sections of `species-design.md`, `mind-design.md`,
+`contact-design.md` (the section in numbers), `language-design.md` and
+`civilian-dress.md`, with the rest marked absent in a *What the Record Does
+Not Carry* section; portrait prompt in `images.md` § 36, not generated; the
+entry's title card made with `make-codex-cover.ps1`, stamp REVISABLE.
+
+**Why the author is not Mira of Brine.** The series line names her page as a
+source and not as the author, and the series' habit (Osune and not Ulessa,
+Mhoren and not Vhen, Orisseth and not Isserith, Idrun Hesk and not Suvra
+Kel) is a second named person of the people, with the first deferred to on
+what is theirs. Mira's page already carries the word *brine* that the
+species page marks as a human word for a Pelagene thing, so the entry
+defers to *a name on your rolls that your record has already marked* and
+does not mark it twice.
+
+**How the voice was realised.** The series line gives the voice as *the
+original is the document: every human word for their medium is a translation
+made early, and the entry keeps that visible*. The record holds no Pelagene
+language in any medium (`mind-design.md`, *Nothing to derive yet*;
+`language-design.md` marks only that the record has converted Nerath's
+*water*), so the entry cannot set an original beside each conversion. It
+keeps the translation visible the other way: the author takes each early
+human word in turn as a section heading, leaves it standing, marks it in
+italics, and says what it was set beside and which way the thing has moved
+since. The original is the thing, not a text, and she says so; the
+conversions are the history. The people's own reckoning is kept absent on
+the people's page's own ground, that they are superb at rates and directions
+and poor at fixed states, so the author gives nothing by a date and every
+interval by direction and rate, and declines in words to supply a measure
+of her own for *season* or *century*.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Vela of the Seam*, in the record's translation register on the
+one attested Pelagene name's shape, a short rendered given name and *of* a
+medium-word; *seam* is the people's page's own word for a layer interface,
+and the author says both halves are the rolls'; it asserts nothing about
+Pelagene naming; the alternatives are *Ione of the Seam* and *Senna of the
+Seam*, or a name he gives); **the pronoun** (*she*, in the record's
+translation register, as Mira of Brine is rendered; nothing new, and the
+pronoun-paradigm line stays as it was); **the role** (a Pelagene Ranger
+posted to Threshold Station, reading the station's coolant, sealing and
+cross-medium contamination in its humid working sections, derived from the
+people's page's *finding those problems in a station's plumbing* and
+`rank-insignia-and-uniform.md`'s Pelagene surveyors in the shell; her corps
+and rank are left to the rolls, as Mira's page leaves hers, and which corps
+holds the work stays not established, per `species-design.md`; status
+*Active*); **the frame** (the asking through the Corps' rolls of serving
+officers, answered from the station itself; the desk's reader sent down to
+her section because the desk is dry, on `contact-design.md`'s numbers for a
+Pelagene section, which human crew can work in; the account written by the
+author herself in the working language, as Mira's field notes show Pelagene
+Rangers write; `Survey Archive, Threshold Station` with a receiving note, the
+Sevrane and Idrun Hesk pattern; that Threshold Station has a humid
+high-pressure working section is the one small derivation, from a Pelagene
+being posted there at all); **the marks** (every early conversion in
+italics, none replaced, no original supplied, on the Marked Absences
+doctrine; the desk's note says the Archive holds none to supply); **the
+asking in writing** (the entry's governing device: the author asks for the
+asking in writing, and the close says why, which is the recognition the
+ending test asks for, since her people's slowest lesson about humans was
+that a written word stays where it is put, and she ends by putting three
+words down on purpose); **why they did not say** (the author's claim that
+her people knew the early words were set wrong and expected them to be
+revised as every reading is, which the desk's note files as hers alone; the
+record holds only that the courtesy was mistaken for the fact for most of a
+century and that the entry was rewritten, and nothing of who prompted the
+rewrite, which the entry leaves untouched: the author says only that the
+file changed); **the title** (from the people's page's *nothing on Nerath ever stays where it was
+put*, turned: the human words did stay where they were put, and so will her
+three); **the title card** (stamp REVISABLE, the handbook's own rule that a
+conversion is versioned, attributed and revisable, beside UNCONVERTED, AS
+GLOSSED, AS GIVEN, RENDERED and AS READ); **the quiet jokes** (*fix* is two
+words and her people are poor at both; *nobody looks at the valve*; both
+structural, costing nobody); **the ladder page** (the author notes that the
+Pelagene are absent from `the-ladder-in-other-tongues.md` and settles
+nothing, which matches `species-design.md`'s note that the absence is real
+and unmarked; no rendering is supplied); **the second Pelagene** (Vela of
+the Seam is the second Pelagene individual the record names, and the *one
+character each, no home-world page* worklist line stays as it is, since
+Nerath still has no page and gets none here).
+Not asserted: any year, in any reckoning (the author gives none and says
+why); the survey's first contact with Nerath or its date; any Pelagene
+language, word, settlement, polity, social order or Federation standing;
+whose word *Nerath* is (the author leaves it unmarked and says she does not
+know; the desk marks it beside hers); the people's own role-mark (choice 4
+of `civilian-dress.md` untouched; she is in the Rangers' shell on duty); the
+drift-fellow or any Nerath life beyond the people; Pelagene lifespan, kin or
+the author's age; who prompted the rewrite of the Pelagene entry. Not done:
+no chapter; no Nerath page; no edit to `pelagene-littoral.md` or
+`mira-of-brine.md` (the fill's brief kept the PR to the entry, its author,
+§ 36, this file and the changelog, so the lore page's See-also clause is
+owed as a one-line extension, as the Ilveth page's is); no image generated.
+
+---
+
 ## Intelligence services, prisons, the death penalty, euthanasia and armed conflict in the 29th century — raised 24 October 2026, RULED the same day: A (Dermot's *"Option A: leave the polities' intelligence services marked absent until a chapter needs one."*)
 
 Dermot asked, 24 October 2026: *"Do intelligence agencies still exist in the
@@ -1352,10 +1460,31 @@ same rule:
   title card is made; the portrait prompt is `images.md` § 31, not
   generated. The section *The Ilveth history, Idrun Hesk* at the top of
   this file records the choices.
-- [ ] **Pelagene Littoral** — `src/lore/pelagene-littoral.md`,
+- [x] ~~**Pelagene Littoral** — `src/lore/pelagene-littoral.md`,
   `src/characters/mira-of-brine.md`. Voice: **the original is the document**:
   every human word for their medium is a translation made early, and the
-  entry keeps that visible. Nerath has no page.
+  entry keeps that visible. Nerath has no page.~~ — **drafted 25 October
+  2026** (Fable, by the daily Fable fill; taken ahead of the Cerebraun, Ollune
+  and Verdani lines at the fill's brief; PR #PENDING):
+  `src/codex/where-it-was-put.md`, by Vela of the Seam, a Pelagene Littoral of
+  the Star Rangers posted to Threshold Station
+  (`src/characters/vela-of-the-seam.md`), the second Pelagene the record names
+  and not Mira of Brine. Written by the author in the Archive's working
+  language in her own humid section, the desk's reader sent down to her;
+  `library: "Survey Archive, Threshold Station"`, the Sevrane pattern. A
+  history given under the record's own early words, *water*, *littoral*,
+  *brine*, *fire*, *fix*, *hydration*, *season*, *century*, each left standing
+  where the first filers put it and marked in italics, none replaced, no
+  original supplied; under each, what it was set beside and which way it has
+  moved since, by rate and direction and never by where it was; why her people
+  let the words stand (they expected them to be revised, as every reading is);
+  three words of hers for the Archive at the close, marked revisable. No year
+  in any reckoning; no Pelagene word, language, settlement, polity, Federation
+  standing or contact date asserted; *Nerath* left unmarked by the author as a
+  word of unknown ownership; Nerath given nothing the people's page does not
+  hold. The title card is made (stamp REVISABLE); the portrait prompt is
+  `images.md` § 36, not generated. The section *The Pelagene history, Vela of
+  the Seam* at the top of this file records the choices.
 - [ ] **Serephine Dunekin** — `src/lore/serephine-dunekin.md`,
   `src/characters/sethka-ru.md`. Voice: **the exposure window**, acting when
   conditions permit, as Sethka Ru's file method records. The *leave as
