@@ -22,9 +22,9 @@ Sen holds the Archive's least comfortable job: not writing the record, but recon
 
 Sen is plural: three people — Cael, Wyn, and Sen — sharing one body, one name on the employment record, and one desk. This is not a disorder, a possession, or a metaphor. It is simply how this particular mind is organised, and the Archive has never required it to be organised any other way.
 
-**Cael** is the verifier. Cael does not trust a record because it is tidy — tidiness is what a cover-up looks like from the outside, and Cael has seen enough closed incident files to know it. Cael cross-checks, re-derives, and asks the question underneath the question. When a report closes too cleanly, Cael is the one who reopens it.
+**[Cael](/star-rangers/characters/cael/)** is the verifier. Cael does not trust a record because it is tidy — tidiness is what a cover-up looks like from the outside, and Cael has seen enough closed incident files to know it. Cael cross-checks, re-derives, and asks the question underneath the question. When a report closes too cleanly, Cael is the one who reopens it.
 
-**Wyn** holds what the dry record leaves out. Wyn reads the same incident report Cael just verified and asks a different question: who was protected by this closure, and who paid for it. Wyn is the reason Sen's marginal annotations tend to name the cost of an institutional silence, not just the fact of it.
+**[Wyn](/star-rangers/characters/wyn/)** holds what the dry record leaves out. Wyn reads the same incident report Cael just verified and asks a different question: who was protected by this closure, and who paid for it. Wyn is the reason Sen's marginal annotations tend to name the cost of an institutional silence, not just the fact of it.
 
 **Sen** fronts most often, holds the desk, signs the timesheets, and is, in every practical sense the Survey Corps deals with, simply "the Archivist." Sen does not experience Cael and Wyn as intrusions or symptoms. They experience them the way anyone experiences a colleague whose judgment they trust enough to stop double-checking: as a second and third opinion that arrived without having to be asked for.
 
