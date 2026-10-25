@@ -18,7 +18,7 @@ She is Serephine Dunekin and **not humanoid**, as her species' page says of all 
 ## Known History
 
 - Born on Kharis Belt IV, inside, as she puts it, a delay: a shelter of mass heavy enough to be slow. The account gives no place, kin or year ([Read at the Next Margin](/star-rangers/codex/read-at-the-next-margin/)).
-- Went into the Star Rangers, by her own account, because humans are *the people who do things in the middle of the day*, and she had heard it said and thought it a figure of speech. A scout, by her own word; the record names the people as scouts and no Serephine's corps. Her corps, rank, postings and years of service are on the Corps' rolls and not in the account.
+- Went into the Star Rangers, by her own account, because the Rangers are *the people who do things in the middle of the day*, and she had heard it said and thought it a figure of speech. A scout, by her own word; the record names the people as scouts and no Serephine's corps. Her corps, rank, postings and years of service are on the Corps' rolls and not in the account.
 - Served on at least one station, which had no sky, and opened anyway; carried its air all day and wore the filter for the comfort of it. On one posting, in a day she gives no place, a thing needed doing in the middle while she was closed; it was done well by others, and she read it at her next margin.
 - Served out her time and came home. Sets the mirrors of a furnace at dawn and reads the melt at dusk, the work she describes the account from inside.
 - Answered the Survey Archive's asking from Kharis Belt IV, in parts, one to each margin, and sent them back by the route the asking had taken.
