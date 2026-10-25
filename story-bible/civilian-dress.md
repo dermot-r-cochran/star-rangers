@@ -305,9 +305,12 @@ Drafted 13 October 2026 at Dermot's *"Yes please"* to a wardrobe for each settin
 - **The century's sign:** The javelin trail in the sky and the certified thatch; the cloth carries its one detail as everywhere. *Proposed.*
 
 ### Saltmere
-*Tags:* none on record
+*Tags:* `saltmere`
 - **Conditions:** No land at all; platforms on tethers through storms that cannot be outrun (`planets/saltmere.md`). *Derived.*
 - **Everyday:** Weather gear and hull-work clothes; a lost colony four centuries out of contact, so its dress is its own, as an isolate's. *Proposed.*
+- **At work:** A tower keeper or a hull crew in the same cloth: a closely woven weather jacket with a high soft collar and a hood worn down, plain trousers, short soft-soled boots for a wet deck; nothing worn carries a light or an emitter, and nothing of a present-day harbour's kit is drawn (no high-visibility cloth, no buoyancy vest, no oilskins, no hard hat), since each is a stock form of our century and the page describes no dress. *Proposed.*
+- **Custom:** The founders are unknown and the founding record lost (`planets/saltmere.md`), so no heritage element is drawn, and none is proposed. *Derived for the absence.*
+- **The century's sign:** The aquabot at the dock and the tower itself; the cloth carries its one detail as everywhere. *Proposed.*
 
 ### Frontier settlements
 *Tags:* `frontier`, `cairn-trust`
