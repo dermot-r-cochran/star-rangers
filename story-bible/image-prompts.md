@@ -1094,6 +1094,24 @@ side-by-side pairs. His word on the three picks: *Approved*.
 - **Prompt / recipe:** the blockquote in `images.md` § 1 under the same date; 16:9, 2K, two variants, no reference. Heritage not in the record and not in the prompt.
 - **Notes:** both variants held the shut carrier with nothing visible inside, which was the brief's point. Variant 1 carried it sideways under a doorway of onlookers with ceiling light panels showing; variant 2 was the plainer corridor, the boy's eyes on the door of the box, the deck walking away behind him, and was picked (*Approved*). Lettering check: one blank wall panel, nothing readable. Filed with `import-image.ps1 -MaxEdge 1200`. Run kept as `image-out/characters-lev/`.
 
+## 2026-10-25 — Tissadelle's header re-made as the older Line Captain
+
+Run on the desktop from the new `story-bible/images.md` § 9 entry for
+`tissadelle-shepherd.jpg`, four variations, `gemini-3.1-flash-image`, 2K, the
+re-made Halyx frame the only reference. Dermot noticed that the header
+"looks more like her as a cadet": it was the cadet frame's photograph with
+the rank tab changed, a cadet's face under a Line Captain's tab.
+
+- `tissadelle-shepherd.jpg` — variation 1 of 4, picked by Dermot: the Halyx
+  face, about thirty, hair pulled back loosely, three rings countable on the
+  tab with the diamond patch and ribbon row, both hands at an open access
+  panel. Flaw accepted with the pick: her eyes go past the panel rather than
+  onto it. Variation 2 has her eyes on the work but reads nearer forty;
+  variation 3 is flatter; variation 4 carries four rings and fails. Filed
+  through `import-image.ps1 -MaxEdge 1200` at finish strength 1. The
+  5 September header is retired to
+  `story-bible/reference-art/tissadelle-shepherd-header-retired-2026-10-25.jpg`.
+
 ## 2026-10-24 — Tissadelle's Season 5 Halyx frame, re-made five years older
 
 Run on the desktop from the revised `story-bible/images.md` § 9 entry, four
