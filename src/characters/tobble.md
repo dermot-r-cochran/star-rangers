@@ -15,7 +15,7 @@ image_caption: "An impression painted from the system's description, not a liken
 
 Being taken for somebody's animal is tradecraft only when you chose it, and Tobble never did.
 
-**Tobble** is a member of [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)'s [plural](/star-rangers/glossary/plural-minds/) system: a distinct person sharing one body with her, on the terms Concord personhood standards have recognised for well over a century. He is a ginger cat and uses he/him. That is not a costume, a coping image, or a figure Shepherd invented to make something easier: he is a nonhuman member, a person whose own identity is simply not the species of the body he shares. Shepherd's page carries the system as a whole. This page carries what the record holds of him, all of it on the system's own account, which is the only authority there has ever been on the subject.
+**Tobble** is a member of [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)'s [plural](/star-rangers/glossary/plural-minds/) system: a distinct person sharing the system's one body, on the terms Concord personhood standards have recognised for well over a century. He is a ginger cat and uses he/him. That is not a costume, a coping image, or a figure Shepherd invented to make something easier: he is a nonhuman member, a person whose own identity is simply not the species of the body he shares. Shepherd's page carries the system as a whole. This page carries what the record holds of him, all of it on the system's own account, which is the only authority there has ever been on the subject.
 
 ## On the record
 

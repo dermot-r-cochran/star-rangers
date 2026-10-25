@@ -4,10 +4,11 @@ title: "Sen Lovax"
 id: sen
 species: Human
 role: "Senior Archivist, Survey Archive"
-plural_system: true
+plural_system: "The Archivist"
 status: Active
 aliases:
   - "Sen"
+  - "The Archivist"
 tags: [survey-archive, plural-mind, archivist, threshold-station, records, ai, ai-safety-kernel]
 description: "Senior Archivist of the Survey Archive, and the person quietly correcting the institutional record for eleven years. Sen is a plural mind — Cael, Wyn, and Sen, sharing one body, one desk, and the surname Lovax."
 image: "sen.jpg"
@@ -21,6 +22,8 @@ Sen holds the Archive's least comfortable job: not writing the record, but recon
 ## A Plural Mind
 
 Sen is plural: three people — Cael, Wyn, and Sen — sharing one body, one name on the employment record, and one desk. This is not a disorder, a possession, or a metaphor. It is simply how this particular mind is organised, and the Archive has never required it to be organised any other way.
+
+Among themselves the three are **the Archivist**, the collective's own name for itself. For legal and external purposes they use Sen's full name, Sen Lovax, which is the name on the employment record and the one the rest of this page uses for the system as the station meets it.
 
 **[Cael](/star-rangers/characters/cael/)** is the verifier. Cael does not trust a record because it is tidy — tidiness is what a cover-up looks like from the outside, and Cael has seen enough closed incident files to know it. Cael cross-checks, re-derives, and asks the question underneath the question. When a report closes too cleanly, Cael is the one who reopens it.
 

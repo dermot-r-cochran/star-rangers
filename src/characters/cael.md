@@ -3,7 +3,7 @@ layout: character.njk
 title: "Cael"
 id: cael
 species: "Member of a human plural system"
-role: "Member of Sen Lovax's plural system; the desk's verifier"
+role: "Member of the Archivist, Sen Lovax's plural system; the desk's verifier"
 system: sen
 status: Active
 tags: [plural-mind, survey-archive, archivist, threshold-station, records]
@@ -12,7 +12,7 @@ description: "A member of Sen Lovax's plural system and the Survey Archive desk'
 
 *It is tidy* is not praise when Cael says it.
 
-**Cael** is one of the three people of [Sen Lovax](/star-rangers/characters/sen/)'s [plural](/star-rangers/glossary/plural-minds/) system, with Wyn and Sen, sharing one body and one desk at the Survey Archive on Threshold Station. Cael is a person on the Concord's ordinary terms, not a mood of the archivist's and not a method with a name. Sen's page carries the system and the desk as a whole. This page carries what the record holds of Cael.
+**Cael** is one of the three people of the [plural](/star-rangers/glossary/plural-minds/) system that calls itself the Archivist and goes by [Sen Lovax](/star-rangers/characters/sen/) outside it, with Wyn and Sen, sharing one body and one desk at the Survey Archive on Threshold Station. Cael is a person on the Concord's ordinary terms, not a mood of the archivist's and not a method with a name. Sen's page carries the system and the desk as a whole. This page carries what the record holds of Cael.
 
 ## The verifier
 
