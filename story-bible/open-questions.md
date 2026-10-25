@@ -555,6 +555,8 @@ and the Saltmere block is untouched.
 
 ## An Ovruhn Ranger, Rhuven — the daily Fable fill of 24 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
+**Posting named, 25 October 2026.** Dermot, verbatim: *"Pelagos Minor becomes Rhuven’s posting"*. *The Order of Evacuation* (S01E03C04) now carries a `rhuven` block, the first chapter with an Ovruhn in it, and `src/characters/rhuven.md` is revised to cite it: the world is Pelagos Minor, the station sits on the escarpment above the basin, and Rhuven was there through the Basin Collapse. The station’s name and the rest of the posting stay unrecorded.
+
 The *An Ovruhn Ranger* line of the 14 October worklist below (*Peoples the
 record says serve in the Corps, or could, with no Ranger on record*), taken
 by the daily Fable fill. Drafted as `src/characters/rhuven.md`, grounded only
