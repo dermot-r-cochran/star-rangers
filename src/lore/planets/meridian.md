@@ -45,4 +45,4 @@ No permanent human presence exists on Meridian's surface, and none is expected t
 
 Sharing the Halyx System, close enough in-system that early survey logs once treated the two as a matched pair, is [the Sentinel](/star-rangers/lore/planets/sentinel/) — a small, lifeless world whose only notable feature turned out to matter considerably more than its survey classification suggested.
 
-See also: [The Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/), [Cerebraun](/star-rangers/lore/cerebraun/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [The Sentinel](/star-rangers/lore/planets/sentinel/).
+See also: [The Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/), [Cerebraun](/star-rangers/lore/cerebraun/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [The Sentinel](/star-rangers/lore/planets/sentinel/), [What Came in the Water](/star-rangers/codex/what-came-in-the-water/) (the Long Shelf council's own history, in the Codex).

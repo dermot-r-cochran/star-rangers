@@ -145,6 +145,119 @@ bible); the author's corps or rank; what the first rated thing was; the two
 members the author watched go. Not done: no chapter; no Veyr-3 page; no edit
 to `qiren-tal.md` or S05E01C01; the `veyr-basaltborn.md` See also gains the
 one link the series owes; no image generated.
+## The Meridian history, Second Outwork — 25 October 2026, at Dermot's *"Yes, start the Veyr Basaltborn and Meridian sapients histories on Fable"* — DRAFTED same day on Fable, choices named in the PR, his hearing first
+
+The Meridian sapients line of the *Histories in their own voices* series
+below, taken at Dermot's word (the Veyr Basaltborn line went to another agent
+the same evening). Drafted as `src/codex/what-came-in-the-water.md`, the
+eleventh entry of the series, with its author's page
+`src/characters/second-outwork.md`, grounded only in `planets/meridian.md`,
+`planets/sentinel.md`, `characters/sixth-course.md`, `sohrel.md`, `tavesh.md`,
+`cerebraun-hegemony.md`, `cerebraun.md`, S03E01C01 to C04, the three 2828
+timeline entries and the ~2528 filing, `habitable-for-whom.md`,
+`sapience-beyond-the-human-measure.md`,
+`star-rangers-decision-and-communication.md`, the Meridian case in
+`xenolinguistics-handbook-failure-modes.md`, and the Meridian sections of
+`species-design.md`, `mind-design.md`, `contact-design.md`,
+`language-design.md` and `civilian-dress.md`, with the rest marked absent in a
+*What the Record Does Not Carry* section; portrait prompt in `images.md`
+§ 41, not generated; the entry's title card made with
+`make-codex-cover.ps1`, stamp EXACT SHAPE.
+
+**Why the author is not Sixth Course, and not the council.** The series line
+names the voice as *a council's petition carried in its exact shape*, so the
+document is the council's; but a Codex author is a character and *bands,
+committees and traditions are not people and get no page* (10 October 2026),
+so the council cannot be the `author:`. The series' habit (Osune and not
+Ulessa, Mhoren and not Vhen, Orisseth and not Isserith, Idrun Hesk and not
+Suvra Kel, Vela and not Mira, Kesta Ul and not Sethka Ru) is a second named
+person of the people who defers to the first on what is theirs. Sixth Course
+is an analyst; the record says the analysts *do the listening and report
+findings to the council* (`mind-design.md`) and marks *who drafted* the
+council's thanks as not held (`sixth-course.md`), so making Sixth Course the
+author would fill that absence and turn the one analyst's file into the
+council's voice. A petition struck on the channel needs a hand, so the author
+is the hand: a second Meridian person who strikes for the council, by the
+author's own word, with the council's words the council's and one part, the
+address at the close, the author's own. The desk says why it files a council's
+petition under a person. The analysts appear only as *the ones who listen for
+us*, unnamed, so Sixth Course's page is not added to.
+
+**How the voice was realised.** *Claw-percussion and the water column* is
+made the form: every movement is a short struck part, three or four level
+lines in a pattern that go far and arrive at once, and a long water that
+comes after and says what the strike meant, because the record says the
+percussion carries at range and the chemical channel *drifts in slowly behind
+it to say what the strike meant* (`sixth-course.md`) and the channel spends
+*half an hour arguing with itself over connotation* (S03E01C03). *Carried in
+its exact shape* is the council's own clause from the chapter and becomes the
+petition's ask at the close: keep the strike and the water, in that order,
+not smoothed. The channel's second renderings, kept in brackets where it
+offered them, are the half-hour made visible, on the Akkit precedent of a
+translating set's declined renderings. The people's own reckoning is courses
+laid, from the planet page's *updated generation over generation* and Sixth
+Course's *course on course*: a course is *a weight borne*, not a length, so
+no interval converts and no year appears. The quotation of the council's 2828
+clause and its thanks is under the 24 October rule that in-story authors may
+cite one another, both words being on the record.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Second Outwork*, a percussion address rendered by the channel
+as a part of the city's lattice, the one form the record gives a Meridian
+name; *outwork* is the planet page's own word for a part of a city and avoids
+settling that every address is a *course*; the alternatives are *Ninth
+Course*, on Sixth Course's exact form, or a name he gives; nothing is
+asserted about what the address counts from or names, and the desk and the
+page say so); **the pronoun** (none, the name throughout, as `sixth-course.md`
+and the Cerebraun pages do; the people have no declared system and the
+per-species rule of 8 August is not raised; the author's own close is in the
+first person, which declares nothing); **the role** (strikes for the council,
+the author's own word; a petition *delivered through Meridian's customary
+chemical-and-percussion channel* needs someone to strike it, and the record
+holds the council and its analysts and nothing of how either is composed, so
+whether the role is an office, a craft or a turn is marked absent); **the
+frame** (the Survey Archive's asking carried under the standing data-exchange
+arrangement through the Halyx liaison office *with the Halyx administration's
+knowledge*, `mind-design.md`'s line that a subject council is addressed with
+the Administrator-Voice's knowledge; no new authorisation by Sohrel is
+asserted, since a history is not the reserved authorship question;
+`Survey Archive, Threshold Station` with a receiving note, the Sevrane
+pattern; undated, after the 2828 comparison, which the account recounts as
+done); **the title** (from the thanks that came in the water in S03E01C03,
+and the petition's close); **the title card** (stamp EXACT SHAPE, the
+council's own words from the chapter, beside UNCONVERTED, AS GLOSSED, AS
+GIVEN, RENDERED, AS READ, REVISABLE and IN PARTS); **the quiet jokes** (the
+two surveys filed as weather; the half-hour the Long Shelf *would count the
+other way*; the one time *the sea struck back*; each structural, costing
+nobody); **the council's register** (kept to the chapter's: *without
+complaint and without surprise*, a people who *never expected the sea to
+answer a question quickly*; the Hegemony misguided and never a villain, the
+terms *kept, and so, in the main, have they*, the beds a petition *in the
+lattice and borne*, no bitterness anywhere); **the thanks line** (the
+council says it asked the channel to carry the water of its thanks, which is
+the other side of Shepherd's *something a person had asked to have included*
+and fills nothing, since who drafted it stays unsaid); **the recognition**
+(the opening teaches the two-part form; the close turns it on the record,
+*you have had the strike of us for a long while; here is the water*, and
+ends on the one who struck waiting for the water).
+
+Not asserted: any year, in any reckoning, or any count of courses; the
+settlers' year (the account places the near-miss in no course, since nothing
+was laid); whether the Long Shelf knows whose hand made the Sentinel's pulse
+(the council says only that it has not been asked, which the record holds:
+the question is reserved to the Prime Ganglion's office, S03E01C04; the desk
+reads it as neither answer); the Hegemony's dating of anything; the
+Union–Hegemony arrangements; how the council knew its name was being said
+(*the Long Shelf's*); how the analysts rendered the telemetry into their own
+medium; whose secretion the composite is (`species-design.md`'s PROPOSED
+co-building untouched); what is under the lowest course; what the people
+call themselves, their world, their sea or the Hegemony (the survey's names
+let stand as *the stranger's*); whether other reef-cities were asked or have
+a council in common; any Meridian lifespan, kinship, polity or Federation
+standing; the author's own view of extraction, the Hegemony or the Sentinel.
+Not done: no chapter; no edit to `sixth-course.md`, `sohrel.md`, `tavesh.md`
+or `sentinel.md`; `planets/meridian.md`'s See also gains the one link the
+series owes; no image generated.
 
 ## The Serephine history, Kesta Ul — 25 October 2026, at Dermot's *"Yes, start the Serephine Dunekin history ... on Fable"* — DRAFTED same day on Fable, choices named in the PR, his hearing first
 
@@ -1904,11 +2017,31 @@ same rule:
   Veyr-3 supplied beyond the people's page. The title card is made (stamp
   RATED); the portrait prompt is `images.md` § 40, not generated. The section
   *The Veyr history, Oshek Var* at the top of this file records the choices.
-- [ ] **Meridian sapients** — `src/lore/planets/meridian.md`,
+- [x] ~~**Meridian sapients** — `src/lore/planets/meridian.md`,
   `src/lore/planets/sentinel.md`, `src/characters/sixth-course.md`. Voice:
   **claw-percussion and the water column**, a council's petition carried in
   its exact shape. The settlers' year stays unfixed, as the record declines to
-  fix it, and the Sentinel's authorship stays open.
+  fix it, and the Sentinel's authorship stays open.~~ — **drafted 25 October
+  2026** (Fable, at Dermot's *"Yes, start the Veyr Basaltborn and Meridian
+  sapients histories on Fable"*): `src/codex/what-came-in-the-water.md`, the
+  council of the Long Shelf's petition, struck by Second Outwork, who strikes
+  for the council (`src/characters/second-outwork.md`), the second Meridian
+  person the record names and not Sixth Course. Carried on the relay station's
+  channel in its exact shape at the council's asking, the strike and the water
+  rendered separately, the channel's second renderings kept in brackets;
+  `library: "Survey Archive, Threshold Station"`, the Sevrane pattern. A history
+  reckoned in courses laid and never in years: the low courses heard and not
+  addressed; the two surveys the city struck to and filed as weather; the
+  terms with the ones who count differently; the deep beds struck about four
+  times; the settlers' anchor survey as the one strike ever answered from above
+  the water, placed in no course; the 2828 petition and the comparison's
+  finding in the council's own words; the authorship question not put and not
+  answered; the petition at the close that the shape be kept. The settlers'
+  year unfixed, the Sentinel's authorship open, the Hegemony's dating not
+  held, no Meridian name, word or pronoun supplied. The title card is made
+  (stamp EXACT SHAPE); the portrait prompt is `images.md` § 41, not generated.
+  The section *The Meridian history, Second Outwork* at the top of this file
+  records the choices.
 - [ ] **Spiralites** — `src/lore/planets/corryn.md`,
   `src/lore/halvern-combine.md`. Voice: **electromagnetic pulse**, habitats
   tuned to the Carillon's rings. No Spiralite has a page yet; the entry must
