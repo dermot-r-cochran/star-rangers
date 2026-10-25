@@ -3,7 +3,7 @@ layout: character.njk
 title: "Wyn"
 id: wyn
 species: "Member of a human plural system"
-role: "Member of Sen Lovax's plural system; the desk's account of cost"
+role: "Member of the Archivist, Sen Lovax's plural system; the desk's account of cost"
 system: sen
 status: Active
 tags: [plural-mind, survey-archive, archivist, threshold-station, records]
@@ -12,7 +12,7 @@ description: "A member of Sen Lovax's plural system, who asks of every closed fi
 
 *Accurate, and who is it for?*
 
-**Wyn** is one of the three people of [Sen Lovax](/star-rangers/characters/sen/)'s [plural](/star-rangers/glossary/plural-minds/) system, with Cael and Sen, sharing one body and one desk at the Survey Archive on Threshold Station. Wyn is a person on the Concord's ordinary terms, not the archivist's conscience given a name. Sen's page carries the system and the desk as a whole. This page carries what the record holds of Wyn.
+**Wyn** is one of the three people of the [plural](/star-rangers/glossary/plural-minds/) system that calls itself the Archivist and goes by [Sen Lovax](/star-rangers/characters/sen/) outside it, with Cael and Sen, sharing one body and one desk at the Survey Archive on Threshold Station. Wyn is a person on the Concord's ordinary terms, not the archivist's conscience given a name. Sen's page carries the system and the desk as a whole. This page carries what the record holds of Wyn.
 
 ## What the record leaves out
 

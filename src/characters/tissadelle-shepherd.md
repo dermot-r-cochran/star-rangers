@@ -100,7 +100,7 @@ Both relationships begin at Starwarden, in the same week of 2829 ([Not Asked (S0
 
 *Tissadelle Shepherd* is the collective name of a [plural](/star-rangers/glossary/plural-minds/) system. No single member is Tissadelle. The name belongs to the whole system, and the officer this page and the chapters follow, *she* and *Shepherd*, is the system as the Corps and everyone else meet it, fronted by whichever member fits the work in front of it. Nothing in the published record changes by saying so: it has followed the system all along, and this page says plainly what kind of person it was following. See [Plural Minds](/star-rangers/glossary/plural-minds/) for how little the cosmology has ever had to make of this.
 
-The members look alike, and are told apart by how they dress. That holds in the inner world, where each keeps her own style, and off duty, where what the body wears changes with whoever is fronting. On duty it does not show. The Rangers have no plain-clothes roles, and every member who fronts on duty does so in the same uniform ([Rank, Insignia and Uniform](/star-rangers/lore/rank-insignia-and-uniform/)).
+Some members look like the body they share and are told apart by how they dress. Others are more distinctive in a form of their own, Tobble and Asteria among them. Each keeps a style of dress, in the inner world and off duty, where what the body wears changes with whoever is fronting. On duty it does not show. The Rangers have no plain-clothes roles, and every member who fronts on duty does so in the same uniform ([Rank, Insignia and Uniform](/star-rangers/lore/rank-insignia-and-uniform/)).
 
 ## Tobble
 
