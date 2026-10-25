@@ -123,6 +123,8 @@ The interbreeding refusal is a matter of consent, and it would also be moot with
 
 The consequence that costs lives is the one running the other way, because the asymmetry is not obvious and the intuition is wrong. **Krenyi blood is hazardous to a human.** A transfusion delivers those antibodies into a body composed entirely of foreign genetic material, where they do precisely what they exist to do. The human survives. They are seriously unwell for several days at minimum, and the clinical file exists because somebody once reasoned — not unreasonably, from a species that is honest, physiologically robust and rarely sick — that Krenyi blood would be a safe substitute in a shortage.
 
+The hazard does not need a vein. **Krenyi blood on human skin burns.** Not as a flame does: where the blood lies the skin stings and reddens, and may raise a weal, as a nettle would, and the mark fades over a day or two and leaves nothing behind. It is a contact reaction and not a wound, the same immunity meeting the same foreign material at the surface instead of inside it, and it is the blood alone; a Krenyi's touch does nothing to anyone. A medic who dresses a Krenyi's cut gloves for it, and the clinical file carries the reaction as the plainest field sign, where no instrument is to hand, that the blood on a human's hands is not human.
+
 Krenyi themselves treat this as ordinary information and volunteer it early, which is consistent with everything else about them: it is material, it is useful, and withholding it would cost someone something.
 
 ## Resistance to Mythification

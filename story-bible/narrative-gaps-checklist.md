@@ -156,6 +156,14 @@ Finished prose in the story-bible waiting for a slot; each stays out of
 - [x] **Wender's mentorship of Shepherd** — placed between Seasons 3 and 5
   since 2026-10-03; paid 4 October 2026 by S05E00C01 *Not Asked*, the
   pairing's first meeting, with Wender at Line Captain in 2829.
+- [ ] **Galahad learns what Elvira is** — by her blood on his skin, which
+  burns or irritates a human's (Dermot, 25 October 2026,
+  `intake-2026-10-25.md`, last section). The species fact is on
+  `src/lore/krenyi.md` already; the chapter is the event that makes it
+  hers. Slot after S01E03C05 and unfixed; tensions listed in the intake
+  (she cannot volunteer what she does not know, he already holds the fact,
+  Syra's reading stays unfiled). Her page and his are revised to cite it
+  when it lands; not before.
 - [ ] **Tissadelle at the terminus; Tobble's downgraded inner codex** — the
   register ruled 27 August (fond farewell, almost no grief), the mechanism
   deliberately unwritten until its chapters (`tissadelle-arc-s6-7.md`).
