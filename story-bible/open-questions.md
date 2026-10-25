@@ -47,6 +47,143 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A Verdani Ranger, Elsha Rootkin — the fourth daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The *A Verdani in or beside the Corps* line of the 14 October worklist
+below (*Peoples the record says serve in the Corps, or could, with no
+Ranger on record*), taken by the daily Fable fill. Drafted as
+`src/characters/elsha-rootkin.md`, grounded only in `verdani.md`,
+`planets/verdance.md`, `characters/isren-farrowkin.md`,
+`characters/meril-duskkin.md`, `star-rangers-survey-corps.md` (*A School
+per Branch*, the Ecology Branch), `the-forest-is-waiting.md`,
+`cross-biosphere-taxonomy.md` (the Verdani case),
+`star-rangers-command-hierarchy.md`, `star-rangers-academy.md`,
+`rank-insignia-and-uniform.md`, `the-ladder-in-other-tongues.md` (*Where
+There Is No Rendering*), S01E00C08 and the two Verdance timeline entries,
+with the ruled Verdani sections of `species-design.md` (*In the Corps*, *The
+uniform equivalent*), `civilian-dress.md` (his choice 5 of 14 October,
+nothing worn and nothing grown) and `mind-design.md` read for what they
+rule out, and the rest marked absent in a *What the Record Does Not Carry*
+section. Portrait prompt in `images.md` § 42, written the same day, not
+generated, so the page carries no `image:`. No lore page is touched:
+`verdani.md` lists no people and keeps its See-also line, on the Meril
+Duskkin precedent. The Verdani *In the Corps* lines of `species-design.md`
+and its census row are corrected from *None* to the page.
+
+**In the Corps, not beside it, and why the Survey Corps' Ecology Branch.**
+The line offered *in or beside*. *Beside* would have been a Verdani
+seconded under a compact, which is the shape choice 4 of *Non-humanoid
+peoples in the Corps* reserves for the Prismeri and which the record gives
+the Verdani no instrument for; *in* costs nothing the record has not
+already given, since the people's page says a Verdani off-world needs only
+full-spectrum light and that Ranger vessels already carry it, and
+`species-design.md`'s own proposed line for the people is *survey work that
+maps light*. The Ecology Branch was taken because it is the branch whose
+question is the Verdani's own: the Survey Corps page says its files say
+*habitable* least and *habitable for* most, the fit between a life and a
+place, and the people's page says a strain is adapted to one biome's light
+and cannot live outside it. The Archive Branch was the alternative, where
+the fold-route survey data Isren's proposal asks for is kept; it was passed
+over because a Verdani keeping exactly that record would have made the
+page an argument about the proposal, which the page instead sets beside
+her and leaves. Meteorology was Rhuven's, and a second observer would have
+been a habit. The page draws nothing about the people from one case and
+says so.
+
+**Not a third sense.** Kettsa reads a scaffold through the plating before
+the instruments agree, and Rhuven hears the storm before the recorders log
+it. This page does not give the Verdani a third version of that figure.
+Her kinbeds are not an instrument and are certified by nobody; what is hers
+is the question she asks first, the light at the floor, and the file carries
+the branch's reading of it, taken by the branch's instrument. That is the
+record's own doctrine applied, not a new sense.
+
+**What the page does not do, by design.** It does not name the vessel, the
+Field Officer or the world under survey, since the branch posts crews
+everywhere and the record has named no Survey vessel on planetary survey in
+2826; naming a world would extend that world's page, as the Rhuven fill
+found. It does not say who recruited her or from which country, since
+recruitment on Verdance is *not established* and the proposed
+country-by-country recruiter stays in `species-design.md`. It does not say
+what a canopy-belt strain takes of another world's sun, since the people's
+page gives the mechanism and no page the figure. It gives her no view of
+Isren Farrowkin's proposal and does not say whether she knows of it; it
+sets the two Verdani of 2826 beside each other, one asking the Corps for
+what it holds and one keeping a Deputy's share of it, and draws no line.
+It does not put her in a pressure suit or say what one costs a body that
+eats by its surface. It does not extend the uniform page's list of the
+shell's wearers by species, as the Kettsa and Rhuven fills did not. It gives
+her no age and no year of entry, since the record holds no Verdani lifespan
+and the service ages are the Medical Corps' per people (his choice 1 of 14
+October).
+
+Settled by recommendation under the dilemma-only rule, each his to
+overrule: **in the Corps** (a sworn Ranger, not a secondment, as above);
+**the corps and branch** (Survey, Ecology, as above); **the rank** (Deputy
+Officer, three bars on pale grey-green: the record's three non-humanoid
+Rangers with a stated rank now sit on three rungs, Kettsa Senior, Rhuven
+Field Officer and Elsha Deputy, and the rung whose page says *trusted to
+work, under supervision, and not yet to act alone* is the one where the
+adopted principle, *the Corps adapts to the Ranger in everything it
+provides, in nothing it certifies*, is seen working, in a Field Officer's
+schedule that carries two budgets and an examination that will credit no
+physiology; Field Officer would have been a second Rhuven, and Senior is
+Kettsa's); **the road in** (the ordinary intake through the Survey college,
+every rung held, the year unfixed, chosen over the fast track so that one
+of three keeps the exception); **the country** (the Canopy Concord's
+Understory Assembly: the Stonewake Dominion and the Aurelin Herdlands were
+not used, the Herdlands by his 14 October ruling that holds the herd back
+and the Dominion on the Meril Duskkin fill's reasoning, so her strain is
+the canopy belt's and her colour Isren's, and the portrait holds identity
+by everything but colour); **the kinstrain** (*Rootkin*, the third of the
+three names the people's page lists and the taxonomy file repeats, assigned
+to no one, read as an Understory lineage by its sound as *Duskkin* was read
+as fenland; the page asserts no meaning and does not say the name means
+roots); **the personal name** (*Elsha*, offered and not used for Meril
+Duskkin, two syllables in the register *Isren* and *Meril* set, with no
+meaning asserted; the alternatives are *Tavin Rootkin*, the other name
+offered that day, or a name he gives); **the pronoun** (*she*, on the
+translation default the people's page states, as Isren is *she* and Meril
+*he* by the same default; nothing new, and no sex asserted); **the age**
+(none, by the record's silence); **the posting** (a Survey vessel and a
+watered world the record does not name, on the Rhuven precedent, with the
+ground survey as the work so the frame has a sky); **the era** (2826 UCSD,
+the same summer as *Nobody Present*, so the two Verdani of the record's
+present stand in one year); **the uniform** (the Survey Corps' deep olive
+in small fitted sections on the hide between the vane roots, clear of every
+vane, the three-bar tab seated on the hide off the vanes, the open-based
+Survey triangle on another section, derived from the uniform page's
+per-body-plan fitting and `species-design.md`'s proposed *tab seated off
+the vanes*; the liner fitted below the vanes; the pressure suit left to the
+quartermaster record); **the first question** (the light at the floor, from
+the people's page's *which light a given patch of ground receives* and the
+Ecology Branch's *habitable for*, written as her habit and never as the
+branch's doctrine); **the readings for the portrait** (the part shown, the
+shell, the tab and badge, the hide, the light, the ground and the moment,
+in § 42). Not asserted: an age, a lifespan, a grove, kin beyond the
+lineage, a year of entry, a recruiter, the vessel, the Field Officer, the
+world, what her strain takes of its sun, any other Verdani in service,
+which corps the Verdani mostly join, whether she knows Isren or Meril or of
+the proposal, the Verdani language in any channel, any chapter. Not done:
+no chapter; no change to `verdani.md`, `planets/verdance.md`,
+`isren-farrowkin.md` or the uniform page; no image generated; no portrait
+row in `scripts/extract-peoples.js`, which is added on filing as PR #1420
+did.
+
+**Left for him as options, not a decision** (the page stands either way):
+whether the first Verdani Ranger should instead carry one of the two
+strain colours no character yet has. (A) **Keep the canopy belt**, as
+drafted: the brief held the Dominion and the Herdlands back, the portrait
+holds identity by part, place, light and shell, and the two canopy Verdani
+on record are already told apart by Isren's split High-Reach origin.
+**Recommended**, since nothing needs the change. (B) **A high-terrace
+lineage of the Stonewake Dominion**, pale and high-reflectance, bred for
+unfiltered highland sun, which would give the portrait its own colour and
+put a third country's person on the record without a farmer or a herd;
+the page's *Known History* and § 42's colour clauses would change, the
+rest would not. The Herdlands stay held back under his 14 October ruling
+in either case.
+
 ## The Veyr history, Oshek Var — 25 October 2026, at Dermot's *"Yes, start the Veyr Basaltborn and Meridian sapients histories on Fable"* — DRAFTED same day on Fable, choices named in the PR, his hearing first
 
 The Veyr Basaltborn line of the *Histories in their own voices* series
@@ -2352,7 +2489,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 - [x] ~~**A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.~~ **Filled 19 October 2026** on Fable at Dermot's direction: Kettsa, Senior Officer, Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone, 2826 UCSD (`src/characters/kettsa.md`; portrait prompt `images.md` § 19, not generated; the section *A Chthonari Ranger, Kettsa* above records the choices; PR #1362).
 - [x] ~~**An Ovruhn Ranger**: `ovruhn.md`, *In the Corps*, describes Ovruhn Rangers in structural survey, search, acoustic watch and disaster mass care; the one named Ovruhn, Vhen, is a chorus keeper on Thavren. This line is the Corps half of the Ovruhn entry's *"any Corps character"*.~~ **Filled 24 October 2026** (Fable, by the daily Fable fill; the section *An Ovruhn Ranger, Rhuven* above records the choices): Rhuven, Field Officer, Survey Corps, Meteorology Branch, the acoustic observer of a world with weather the record does not name, posted alone, 2826 UCSD (`src/characters/rhuven.md`; portrait prompt `images.md` § 34, not generated). The acoustic-watch line of the four was taken because it is the one the record already gives a branch and a doctrine (`star-rangers-survey-corps.md`, the Meteorology Branch's locally posted observers); which corps holds search and rescue, and which the Ovruhn mostly join, stay not established.
 - [ ] **A Prismeri on a Corps posting**: guild astrogators do Survey Corps fold-route confirmation under the compact, and Prismeri contracts name *Ranger liaison postings*, but no Prismeri individual is on record (the *Federation peoples* Prismeri line above is the people as a whole; this one is the posting). Whether such a posting is a Ranger or a seconded guild member is choice 4 in that section.
-- [ ] **A Verdani in or beside the Corps**: Verdani need only full-spectrum light, which Ranger vessels already carry, and Isren Farrowkin sponsored the Survey Corps data-sharing proposal, but no Verdani Ranger is on record.
+- [x] ~~**A Verdani in or beside the Corps**: Verdani need only full-spectrum light, which Ranger vessels already carry, and Isren Farrowkin sponsored the Survey Corps data-sharing proposal, but no Verdani Ranger is on record.~~ **Filled 25 October 2026** (Fable, by the daily Fable fill; the section *A Verdani Ranger, Elsha Rootkin* above records the choices): Elsha Rootkin, Deputy Officer, Survey Corps, Ecology Branch, on the planetary survey crew of a Survey vessel the record does not name, on a watered world it does not name, 2826 UCSD (`src/characters/elsha-rootkin.md`; portrait prompt `images.md` § 42, not generated). *In* the Corps rather than beside it, since a secondment is the shape choice 4 below reserves for the Prismeri and the record gives the Verdani no compact instrument for one; the Ecology Branch because its *habitable for* is the question the people's light budget already asks. One option is left for him in that section, the strain colour, with the canopy belt recommended.
 - [ ] **The corps of the four non-humanoid Rangers on record**: Mira of Brine, Qiren Tal, Sethka Ru and Suvra Kel each have a role and no corps or rank on their pages; fill when a chapter or portrait needs one, on the Veyr precedent of one plain seated tab until then.
 
 **The wider scales: lore with no prose** (added 19 October 2026 at Dermot's *"other concordants, membrane-universes, archclusters, formclusters and mathematical regimes"*, then his option (a)). A count on main that day: *Concordant* appears on 95 Archive pages and in 6 chapters, all of them the Solar System's own; the four universe pages under `src/lore/universes/` appear in no chapter; *archecluster* is on 36 pages and in 4 chapters, none set outside the local one. Each line below is prose (Fable's: a chapter, or a POV block in one) set at or reaching that scale, grounded only in its pages, with the rest marked absent.

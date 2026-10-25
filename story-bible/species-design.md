@@ -2351,8 +2351,11 @@ disagreement between a rendering and a tab, the tab is right"* (same page).
   Federation's first data-sharing proposal with Survey Corps fold-route mapping,
   on the ground that her people have *"an unusually direct stake in accurate
   boundary-zone data"* (`isren-farrowkin.md`; `federation-of-sentient-beings.md`).
-  She is a delegate, not a Ranger.
-- **Named Rangers on record.** None.
+  She is a delegate, not a Ranger. *Filled 25 October 2026:* Elsha Rootkin,
+  Deputy Officer, Survey Corps, Ecology Branch, on a planetary survey crew
+  (`characters/elsha-rootkin.md`); one case, and the page draws nothing
+  about the people from it.
+- **Named Rangers on record.** Elsha Rootkin (25 October 2026).
 - **Uniform equivalent and rank.** DERIVED, ruled 14 October: nothing worn
   and nothing grown; belonging is the kinstrain name, since anything on a vane
   shades a metabolism (`civilian-dress.md`, choice 5). PROPOSED: so a Verdani
@@ -2557,7 +2560,7 @@ instance of a rule whose other instances it has not written.
 | Pelagene Littoral | Mira of Brine | environmental survey (corps not established) | shell sections between the folds, one plain tab | derived (taken 13 Oct) |
 | Prismeri | none | guild astrogators on Survey Corps fold-route work by compact; liaison postings by contract | not established; nothing on wing or facet band (proposed) | compact derived; Ranger status open (choice 4) |
 | Ollune | none | method only: Safety Corps standards | tab on the hull, office in the near word (proposed) | not established (choice 3) |
-| Verdani | none | none on record; light-mapping survey (proposed) | tab off the vanes; kinstrain name, no token | not established: gap |
+| Verdani | Elsha Rootkin (25 Oct) | Survey Corps, Ecology Branch, planetary survey; light-mapping survey (proposed) | shell in small sections on the hide between the vane roots, tab off the vanes; kinstrain name, no token | derived; gap filled 25 Oct |
 | Cerebraun | none | none on record | nothing over the display skin (proposed) | marked absence (choice 2) |
 | Meridian sapients | none | none | not proposed | not established |
 | The Told | none | none, and none sought | a role is told | do not serve (derived) |
