@@ -1695,7 +1695,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 
 Not on this list, with reasons in that section: the Ollune and the Cerebraun (marked absences, choices 3 and 2), and the Told, Meridian sapients, Spiralites and Doreth (not gaps: not met, not members, or known by one line).
 
-**Kept thin on purpose, so not on this list:** Elvira's kind (a marked absence; *The Word She Did Not Like* (S01E03C05, 2026-10-25), at Dermot's direction, thickens it by evidence toward the Krenyi reading through Syra's unfiled reading, without closing it, and rules out time displacement in Galahad's POV), New Cotswolds (nothing has come back from it), and the Five Islands' marked absences (meanings and names, not missing people).
+**Kept thin on purpose, so not on this list:** Elvira's kind (a marked absence; if romantic affection ever forms between her and Galahad, it is the singular exception to the Krenyi rule on romance, Dermot 2026-10-25, `intake-2026-10-25.md`; *The Word She Did Not Like* (S01E03C05, 2026-10-25), at Dermot's direction, thickens it by evidence toward the Krenyi reading through Syra's unfiled reading, without closing it, and rules out time displacement in Galahad's POV), New Cotswolds (nothing has come back from it), and the Five Islands' marked absences (meanings and names, not missing people).
 
 **How to fill one:** a character page is Fable's work under CLAUDE.md, grounded only in its people's pages with the rest marked absent, and it gets a portrait prompt in the same PR. The Knarr, Tally, Cerebraun and Meridian pages of 14 October are the worked examples. A home-world page is lore, Opus's unless it is narrated history. Strike each line here with the PR that fills it.
 

@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A reserved singular exception: Elvira and Galahad** (`story-bible/intake-2026-10-25.md`, `story-bible/open-questions.md`, `CLAUDE.md`, 2026-10-25, Opus, at Dermot's direction). Krenyi do not form romantic attachments to humans. If romantic affection ever forms between Elvira and Galahad, it is the one exception. Nothing published changes: there is no romance, Elvira's kind stays unestablished, and the Krenyi lore page will be revised only when a chapter shows it.
+
 - **Journal: *Gentle on People, Hard on the Universe*** (`src/journal/gentle-on-people-hard-on-the-universe.md`, 2026-10-25, Opus, at Dermot's *"a journal entry to confirm my stance"*). Where the record is softer than most science fiction and fantasy allows, and where it is harder. The softer side: no true villains, no evil peoples, no plot settled by violence, a better but imperfect society, shadow-shaped mysteries, no horror or mockery, no erotic writing, minds treated gently, and tiers that are not ratings. The harder side: a physics that refuses time travel and every shortcut. Adds nothing to canon.
 
 - **Chapter: *The Word She Did Not Like* (S01E03C05)** (`src/seasons/s01/e03/s01e03c05.md`, `src/characters/elvira.md`, `story-bible/open-questions.md`, 2026-10-25, drafted by Fable and reviewed by Opus, at Dermot's direction). Back from Pelagos Minor, Galahad says a folk word at the causeway, and Elvira remembers the boy on the step at Dún Rí in 2806. *The layer underneath* was the household sage's phrase, and she corrects her record to say she rebuilt it. Syra takes a reading of her that she will not file. Galahad rules out time displacement. Her kind stays unestablished.
