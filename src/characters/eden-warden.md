@@ -4,6 +4,7 @@ title: "The Eden Warden"
 id: eden-warden
 species: "AI (Kernel-Compliant, Plural System)"
 role: Habitat AI Collective, Eden Space Habitat
+plural_system: "The Eden Warden"
 status: Active
 aliases:
   - "Ward"

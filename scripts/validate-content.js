@@ -802,6 +802,9 @@ function main() {
   fileProblems.push(...checkDuplicateImages(imageFiles));
   fileProblems.push(...checkStoryBibleImageRefs(imageIndex));
   fileProblems.push(...checkEditionHeroCasts(characterPages));
+  for (const { relativePath, problems } of require("../lib/index-grouping").pluralSystemProblems(characterPages)) {
+    fileProblems.push({ relativePath, label: "Character", problems });
+  }
 
   if (fileProblems.length === 0) {
     console.log(`Content validation passed (${files.length} files, ${imageIndex.byRelPath.size} images checked).`);
