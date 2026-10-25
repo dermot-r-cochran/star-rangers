@@ -62,4 +62,4 @@ Not the strength — that misunderstanding corrects itself the first time someon
 
 Veyr-3 is not a hostile world to a Veyr. It is simply the world, and a civilisation that grew up with unlimited heat and no clean surfaces developed the temperament that suits it: patient, tolerant of noise, unbothered by conditions that alarm everyone else, and entirely willing to wait for a reading to settle. What the environment produced was not hardness. It was **composure**, which looks like hardness only to people who have not asked.
 
-See also: [Qiren Tal](/star-rangers/characters/qiren-tal/), [Krenyi](/star-rangers/lore/krenyi/), [Cerebraun](/star-rangers/lore/cerebraun/), [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/).
+See also: [Qiren Tal](/star-rangers/characters/qiren-tal/), [What It Will Carry](/star-rangers/codex/what-it-will-carry/) (a Veyr history in their own voice, by [Oshek Var](/star-rangers/characters/oshek-var/)), [Krenyi](/star-rangers/lore/krenyi/), [Cerebraun](/star-rangers/lore/cerebraun/), [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/).
