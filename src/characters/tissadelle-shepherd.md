@@ -4,7 +4,7 @@ title: "Tissadelle Shepherd"
 id: tissadelle
 species: Human
 role: Cadet (Season 1) → Line Captain (Season 5)
-plural_system: true
+plural_system: "Tissadelle Shepherd"
 status: Active
 aliases:
   - "Shepherd"
@@ -96,9 +96,15 @@ The other standing figure in her career is [Chief Ranger Galen Kane](/star-range
 
 Both relationships begin at Starwarden, in the same week of 2829 ([Not Asked (S05E00C01)](/star-rangers/seasons/s05/e00/s05e00c01/)), and the coincidence is the point. The Corps assigned her one mentor and she kept another, and the two are not redundant: Wender is answerable for her and can order her, which is what makes the mentorship binding and what makes some questions unaskable inside it. Kane can order her nothing. Shepherd has never framed this as a preference between them, and would decline the framing. She has one adviser whose judgement she is required to take seriously and one whose judgement costs her nothing to hear, and she has never confused which is which.
 
+## The name of a system
+
+*Tissadelle Shepherd* is the collective name of a [plural](/star-rangers/glossary/plural-minds/) system. No single member is Tissadelle. The name belongs to the whole system, and the officer this page and the chapters follow, *she* and *Shepherd*, is the system as the Corps and everyone else meet it, fronted by whichever member fits the work in front of it. Nothing in the published record changes by saying so: it has followed the system all along, and this page says plainly what kind of person it was following. See [Plural Minds](/star-rangers/glossary/plural-minds/) for how little the cosmology has ever had to make of this.
+
+The members look alike, and are told apart by how they dress. That holds in the inner world, where each keeps her own style, and off duty, where what the body wears changes with whoever is fronting. On duty it does not show. The Rangers have no plain-clothes roles, and every member who fronts on duty does so in the same uniform ([Rank, Insignia and Uniform](/star-rangers/lore/rank-insignia-and-uniform/)).
+
 ## Tobble
 
-Shepherd is plural. [Tobble](/star-rangers/characters/tobble/) is a headmate — a distinct person sharing one body with her, on the ordinary terms Concord personhood standards have recognised for well over a century. See [Plural Minds](/star-rangers/glossary/plural-minds/) for how little the cosmology has ever had to make of this.
+[Tobble](/star-rangers/characters/tobble/) is a headmate: a distinct person sharing the system's one body, on the ordinary terms Concord personhood standards have recognised for well over a century.
 
 Tobble is a ginger cat, and uses he/him. Not a costume, a coping image, or a figure Shepherd invented to make something easier — a nonhuman member, whose own identity is simply not the species of the body he shares. Asked during cadet intake why a cat, Tobble's answer went onto the record as *because that is what I am*, and the reviewing officer, to their credit, wrote it down and moved on to the next item.
 
@@ -110,7 +116,7 @@ Her file carries a plural registration, filed by her after the Starwarden postin
 
 ### Who fronts, and when
 
-Shepherd lets Tobble front when she is working with cats and comparable animals. It is not an accommodation and not a quirk of hers to be indulged; it is the obvious allocation. He is better at it, and the system uses whoever is better at the thing in front of it — the same reasoning any competent crew applies to any watch.
+Shepherd lets Tobble front when she is working with cats and comparable animals. It is not an accommodation and not a quirk of hers to be indulged; it is the obvious allocation. He is better at it, and the system uses whoever is better at the thing in front of it — the same reasoning any competent crew applies to any watch. On the system's own account, Angela fronted through the Garda college on Tír na nÓg, the training the system left two weeks short of the oath ([The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/)).
 
 The same principle accounts for the shape of her service record. Her rotation across corps and branches is wider than most officers manage, and reads from the outside as restlessness or as a career being managed by somebody else. It is neither. **Different members front in different roles**, and a system carrying that much range has more postings it can do well than a singlet does. The record is the honest trace of it rather than an anomaly in it.
 
@@ -124,11 +130,15 @@ The architecture is load-bearing, not decorative. That different members front i
 
 **Tobble's own subsystem sits deeper than the questing layer, and runs on a different discipline entirely: far more ordered, far more scientific** — kept records, checked procedure, arithmetic done twice because once is an opinion. Deeper describes structure, not standing; there is no hierarchy in it, and neither architecture is the truer one. They are two idioms of one working interior, and the officer the Corps sees is the collaboration showing — the romance kept where only the system can see it, and beneath the romance a registry. Which is why the Ranger who will not claim past her evidence has never once run short of somewhere to put what she cannot yet claim.
 
+### Pandora and Angela
+
+Two more members are named on the system's own account, and the record holds little of either beyond the name and the work. **Pandora** is a musician. **Angela** is a protector and guardian, and she was the member who fronted through the Garda training. What the training left the system, evidence chains and the rule that the empty line on a signed form is the one a court asks about, is on the record already ([The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/), [Testing, Inspection and Certification (S02E02C01)](/star-rangers/seasons/s02/e02/s02e02c01/)); whose habit it became, the chapters did not say. The record does not say when either came. There are others, and the record has not been told their names.
+
 ### Asteria
 
-There is a second member the record can name, on the same authority as everything above: the system's own account. She is called Asteria, and she has the face of [Asteria Wessex](/star-rangers/characters/asteria-the-sage/) as a younger woman — a woman Shepherd never met. Wessex had withdrawn to her chapter house years before Shepherd's cadet intake. What Shepherd had of her was [Karla Wender](/star-rangers/characters/karla-wender/)'s memory: Wender was Wessex's pupil while Wessex was still serving, and became Shepherd's mentor in turn, and a mentor's mentor arrives in the telling, described rather than seen. The image Shepherd formed from that telling is the form the member took. The name came with the image, and so did the chapter's word for the woman it was drawn from: when the system speaks of her as Asteria the Sage it is repeating Wender, not claiming anything of the [Fellowship](/star-rangers/lore/fellowship-of-light/), in which the system has no standing.
+There is another member the record can name, on the same authority as everything above: the system's own account. She is called Asteria, and she has the face of [Asteria Wessex](/star-rangers/characters/asteria-the-sage/) as a younger woman — a woman Shepherd never met. Wessex had withdrawn to her chapter house years before Shepherd's cadet intake. What Shepherd had of her was [Karla Wender](/star-rangers/characters/karla-wender/)'s memory: Wender was Wessex's pupil while Wessex was still serving, and became Shepherd's mentor in turn, and a mentor's mentor arrives in the telling, described rather than seen. The image Shepherd formed from that telling is the form the member took. The name came with the image, and so did the chapter's word for the woman it was drawn from: when the system speaks of her as Asteria the Sage it is repeating Wender, not claiming anything of the [Fellowship](/star-rangers/lore/fellowship-of-light/), in which the system has no standing.
 
-The record does not say when she came, or why a mind would take a mentor's mentor for a member, and has not been asked to. It says what the registration says: more members than the form has boxes for, all of them stable, and now two of them with names. A painter who never saw her has since made a picture from the system's description, filed in the Codex as [an artist's impression](/star-rangers/codex/asteria-the-sage-impression/) and as nothing more.
+The record does not say when she came, or why a mind would take a mentor's mentor for a member, and has not been asked to. It says what the registration says: more members than the form has boxes for, all of them stable, and now several of them with names. A painter who never saw her has since made a picture from the system's description, filed in the Codex as [an artist's impression](/star-rangers/codex/asteria-the-sage-impression/) and as nothing more.
 
 ## The Sentinel Signal
 
