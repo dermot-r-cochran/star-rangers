@@ -47,6 +47,105 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## The Veyr history, Oshek Var — 25 October 2026, at Dermot's *"Yes, start the Veyr Basaltborn and Meridian sapients histories on Fable"* — DRAFTED same day on Fable, choices named in the PR, his hearing first
+
+The Veyr Basaltborn line of the *Histories in their own voices* series
+below, taken at Dermot's word ahead of the Cerebraun, Ollune and Verdani
+lines, in parallel with the Meridian line. Drafted as
+`src/codex/what-it-will-carry.md`, the tenth entry of the series, with its
+author's page `src/characters/oshek-var.md`, grounded only in
+`veyr-basaltborn.md`, `characters/qiren-tal.md`, S05E01C01 (*Refusal to
+Certify*, the one chapter with a Veyr in it), `the-ladder-in-other-tongues.md`
+(*Where There Is No Rendering*), `rank-insignia-and-uniform.md` (Veyr
+specialists and the modular shell; *a geometry has no first language*),
+`cross-biosphere-taxonomy.md` (Trabeculata), `habitable-for-whom.md`,
+`stone-fire-and-ice.md` (metallurgy for nothing), `what-the-record-refuses.md`,
+the timeline (which holds no Veyr event) and the Veyr sections of
+`species-design.md` (the 12 October *Marks seated on the body* ruling),
+`mind-design.md`, `contact-design.md`, `civilian-dress.md` and
+`intake-2026-09-24.md` (the *leave as absences* ruling), with the rest marked
+absent in a *What the Record Does Not Carry* section; portrait prompt in
+`images.md` § 40, not generated; the entry's title card made with
+`make-codex-cover.ps1`, stamp RATED.
+
+**Why the author is not Qiren Tal.** The series line names their page as a
+source and the voice as *precision fought for*: the people's whole history as
+the lore page gives it, and not the one Ranger. The series' habit (Osune and
+not Ulessa, Mhoren and not Vhen, Orisseth and not Isserith, Idrun Hesk and
+not Suvra Kel, Vela and not Mira, Kesta Ul and not Sethka Ru) is a second
+named person of the people, with the first deferred to on what is theirs;
+making Qiren the author would turn the record's one Veyr chapter into a
+history, and would have to date the account after 2831 UCSD or leave Qiren
+silent on their own refusal. The author defers in words (*it is their file;
+I will not add to it*) and names neither the station nor the six weeks.
+
+**How the voice was realised.** *Precision fought for* is made the form of
+the document: a Veyr rating, the author says, names what a thing will carry
+and where it was struck to find out, and a figure with no strike behind it
+is a wish; so every part ends in a rating line, *Rated … Struck at …
+Unstruck …*, and the reader is told where they may not stand. The history
+has the same shape, since the people keep no story of a first fire (fire
+was *for nothing*, which the author reads as *nobody's name is on it*) and
+keep instead the first rating that held; the lore page's two habits,
+calibration by material and the argued-for reserve, are each given from
+inside as a question of when a thing was last struck, and the page's named
+limit is given at full rating as the one thing the author is surest of. The
+*leave as absences* ruling holds: no Veyr speech, word or channel is rendered
+or described; the one proverb on file (S05E01C01, *the lattice knows before
+the surface agrees*) is named as a rendering marked *nearest*, which the
+author calls a rating too, and nothing is added to it; the account is written
+in the Archive's working language, as Qiren Tal's chapter and the other
+Corps-trained authors of the series show these peoples write, and both the
+author and the desk say so.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Oshek Var*, in the record's translation register on the one
+attested Veyr name's shape, a two-syllable given name and a one-syllable
+second word; neither word is on any page of the record; it asserts nothing
+about Veyr naming, and the desk says it is as the rolls carry it; the
+alternatives are *Haldrin Tev* and *Imrel Sa*, or a name he gives); **the
+pronoun** (*they*, in the record's translation register, as Qiren Tal is
+*they*; nothing new, and the pronoun-paradigm line in `mind-design.md` stays
+*not established*); **the role and status** (a serving Ranger, the Vela
+pattern, since the Corps is the only place the record puts a Veyr; *a
+thermal transit specialist* by their own word, derived from the lore page's
+*coolant transit nodes* among the postings where stress and heat overlap and
+asserting no corps, as Qiren's *Hull Systems Specialist* asserts none; corps,
+rank, postings and years left to the rolls; the posting withheld by the
+author for a reason in the author's own register, that anything said of
+hulls would be read as a rating of that station; status *Active*); **the
+frame** (the asking through the Corps' rolls of serving officers, the Vela
+pattern; answered in writing from the posting and not at the desk, in parts;
+`Survey Archive, Threshold Station` with a receiving note that keeps the
+rating lines as the author's and grades nothing); **the title** (from the
+rating formula, which is also what the author says of the account at the
+close); **the title card** (stamp RATED, the author's own closing word,
+beside UNCONVERTED, AS GLOSSED, AS GIVEN, RENDERED, AS READ, REVISABLE and
+IN PARTS); **the quiet jokes** (a geometry *has no handle either, which you
+found out by picking one of ours up*; the first rated thing unknown and
+*nobody minds*; both structural, costing nobody); **the one correction**
+(the author was corrected once at their apprenticeship for an overstated
+rating, given as their own experience and asserted of no Veyr custom, so
+`mind-design.md`'s *social order not established* is untouched); **the
+half-second** (the author was present at one situation where a Veyr body
+was too slow, not theirs to carry, the lore page's *mercifully rare*
+realised once as the author's own and given no place); **the recognition**
+(the opening tells the reader how to read a rating; the close rates the
+account itself and hands the reader the test for a figure with no strike
+behind it).
+Not asserted: any year, in any reckoning (the author gives none and says
+why, and does not say their people have none); how or when the Veyr met the
+Corps (*I was not there*); any Veyr language, word, channel, settlement,
+polity, social order, Federation standing or lifespan; who speaks for the
+Veyr at home (`mind-design.md`'s *not established*, raised by the author as
+unstruck); the Veyr's own mark beside the Corps' (`species-design.md`'s
+undescribed shape, declined by the author in words); anything living on
+Veyr-3 (`species-design.md`'s PROPOSED living plumb stays in the story
+bible); the author's corps or rank; what the first rated thing was; the two
+members the author watched go. Not done: no chapter; no Veyr-3 page; no edit
+to `qiren-tal.md` or S05E01C01; the `veyr-basaltborn.md` See also gains the
+one link the series owes; no image generated.
+
 ## The Serephine history, Kesta Ul — 25 October 2026, at Dermot's *"Yes, start the Serephine Dunekin history ... on Fable"* — DRAFTED same day on Fable, choices named in the PR, his hearing first
 
 The Serephine Dunekin line of the *Histories in their own voices* series
@@ -1783,9 +1882,28 @@ same rule:
   card is made (stamp IN PARTS); the portrait prompt is `images.md` § 39,
   not generated. The section *The Serephine history, Kesta Ul* at the top
   of this file records the choices.
-- [ ] **Veyr Basaltborn** — `src/lore/veyr-basaltborn.md`,
+- [x] ~~**Veyr Basaltborn** — `src/lore/veyr-basaltborn.md`,
   `src/characters/qiren-tal.md`. Voice: **precision fought for**, fire handed
-  to them free. The same language-channel ruling stands.
+  to them free. The same language-channel ruling stands.~~ — **drafted
+  25 October 2026** (Fable, at Dermot's *"Yes, start the Veyr Basaltborn and
+  Meridian sapients histories on Fable"*; taken ahead of the Cerebraun, Ollune
+  and Verdani lines at his word): `src/codex/what-it-will-carry.md`, by Oshek
+  Var, a Veyr Basaltborn of the Star Rangers, a thermal transit specialist by
+  their own word, posting withheld at their asking
+  (`src/characters/oshek-var.md`), the second Veyr the record names and not
+  Qiren Tal. Written by the author in the Archive's working language, in
+  parts, each closed by the author's own rating, what it will carry and where
+  it was struck; `library: "Survey Archive, Threshold Station"`, the Sevrane
+  pattern. A history as the Veyr rate a thing: the fire nobody's name is on,
+  the first rating that held, a ground never at rest, the margin and what an
+  overstated one costs, a body that is a truss, the fight with no opponent and
+  no moment, where the Veyr are poor, the Corps and the one who would not sign
+  (Qiren's file, deferred to and not added to), and what the account itself
+  will carry. No year in any reckoning; no Veyr word, language, polity, social
+  order, Federation standing, contact date or own mark asserted; nothing on
+  Veyr-3 supplied beyond the people's page. The title card is made (stamp
+  RATED); the portrait prompt is `images.md` § 40, not generated. The section
+  *The Veyr history, Oshek Var* at the top of this file records the choices.
 - [ ] **Meridian sapients** — `src/lore/planets/meridian.md`,
   `src/lore/planets/sentinel.md`, `src/characters/sixth-course.md`. Voice:
   **claw-percussion and the water column**, a council's petition carried in
