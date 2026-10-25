@@ -65,6 +65,7 @@ And it does not say what a Metawright is like. It says what a Metawright does, f
 
 - [The Cosmic Cascade](/star-rangers/lore/cosmic-cascade/)
 - [The Scope of Physical Law](/star-rangers/lore/the-scope-of-physical-law/)
+- [The Mathematics of the Etheric Layer](/star-rangers/lore/mathematics-of-the-etheric-layer/) — the theorem and the hand furthest apart
 - [The Archewright](/star-rangers/lore/archewright/)
 - [Conseleme](/star-rangers/glossary/conseleme/)
 - [The Chthonari](/star-rangers/lore/chthonari/)

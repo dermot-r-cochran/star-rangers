@@ -13,6 +13,7 @@ related:
   - "Concordant"
   - "Cosmic Cascade"
   - "Compact Dimensions"
+  - "The Mathematics of the Etheric Layer"
 tags: [etheric, five-layers, cosmology, templates]
 ---
 
@@ -49,4 +50,4 @@ Longstanding Survey Corps and boundary-practitioner usage speaks of structures r
 
 This is the same principle the setting already applies to "magic" — a real word for a real phenomenon, spoken by people who have not correctly modelled it, and never a narration-level claim. It is also why [the Overfold](/star-rangers/glossary/overfold/) is not treated as a lesser name than Etheric: "None of the three is more 'real' than the others."
 
-See the [Lore article on the Five Layers](/star-rangers/lore/five-layers/) for the full ontological framework.
+See the [Lore article on the Five Layers](/star-rangers/lore/five-layers/) for the full ontological framework, and [The Mathematics of the Etheric Layer](/star-rangers/lore/mathematics-of-the-etheric-layer/) for what kind of mathematics describes a template and what the record has not measured.
