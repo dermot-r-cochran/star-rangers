@@ -47,6 +47,100 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## The Serephine history, Kesta Ul — 25 October 2026, at Dermot's *"Yes, start the Serephine Dunekin history ... on Fable"* — DRAFTED same day on Fable, choices named in the PR, his hearing first
+
+The Serephine Dunekin line of the *Histories in their own voices* series
+below, taken at Dermot's word ahead of the Cerebraun, Ollune and Verdani
+lines. Drafted as `src/codex/read-at-the-next-margin.md`, the ninth entry of
+the series, with its author's page `src/characters/kesta-ul.md`, grounded
+only in `serephine-dunekin.md`, `characters/sethka-ru.md`,
+`the-ladder-in-other-tongues.md` (*Where There Is No Rendering*),
+`rank-insignia-and-uniform.md` (Serephine officers and the modular shell),
+`cross-biosphere-taxonomy.md` (Cataphracta; the respiratory burden on a duty
+roster), `habitable-for-whom.md`, `the-ledger-and-the-truce.md` (the desert's
+surplus is contrast), `what-the-record-refuses.md` (a Serephine's stillness),
+the timeline (which holds no Serephine event) and the Serephine sections of
+`species-design.md`, `mind-design.md`, `contact-design.md`,
+`civilian-dress.md` and `intake-2026-09-24.md` (the *leave as absences*
+ruling), with the rest marked absent in a *What the Record Does Not Carry*
+section; portrait prompt in `images.md` § 39, not generated; the entry's
+title card made with `make-codex-cover.ps1`, stamp IN PARTS.
+
+**Why the author is not Sethka Ru.** The series line names his page as a
+source and the voice as *the exposure window, acting when conditions permit,
+as Sethka Ru's file method records*: the method, which the people's page says
+every Serephine shares (*every Serephine who ever lived planned movement
+around exposure windows*), and not the man. The series' habit (Osune and not
+Ulessa, Mhoren and not Vhen, Orisseth and not Isserith, Idrun Hesk and not
+Suvra Kel, Vela and not Mira) is a second named person of the people, with
+the first deferred to on what is theirs; making Sethka the author would turn
+the record's one Serephine file into a history and settle, by implication,
+the corps and rank his page leaves open. The author defers to him in words
+(*it is his file and I will not add to it*).
+
+**How the voice was realised.** *Acting when conditions permit* is made the
+form of the document: the author writes only in the two hours a day her body
+is open, one part to each margin, each headed *Dawn* or *Dusk*, ending where
+the margin closed and never revised from a later one; the receiving desk
+joins none of them and sets no count beside them. The history itself has the
+same shape, since a people whose witnesses are shut for most of every day
+keep a history of what was done at the edges of days and found at the next
+margin (*our history has no middle*; *half of what we are was done while
+none of us was there*), and the furnace that runs unattended through the
+lethal hours is the worked case: set at dawn, read at dusk, nobody between.
+The *leave as absences* ruling holds: no Serephine speech, word or channel is
+rendered or described; the account is written in the Archive's working
+language, as Sethka Ru's file and Vela's account show Corps-trained members
+of these peoples write, and both the author and the desk say so.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Kesta Ul*, in the record's translation register on the one
+attested Serephine name's shape, a two-syllable given name and a short second
+word; neither word is on any page of the record; it asserts nothing about
+Serephine naming, and the desk says it is as the rolls carry it; the
+alternatives are *Ashun Te* and *Ormah Ir*, or a name he gives); **the
+pronoun** (*she*, in the record's translation register, as Sethka Ru is *he*;
+nothing new, and the pronoun-paradigm line in `mind-design.md` stays *not
+established*); **the role and status** (formerly of the Star Rangers, a scout
+by her own word, since scouts are the one role the record gives the people;
+corps, rank, postings and years left to the rolls, as Sethka's page leaves
+his; now at home on Kharis Belt IV setting the mirrors of a furnace at dawn
+and reading the melt at dusk, derived from the people's page's *runs
+unattended because it has to*, which needs someone to set it in a margin;
+status *Retired — out of Corps service*, Sevrane's wording); **the frame**
+(the asking through the Corps' rolls of former officers, the Sevrane
+pattern; answered from home and not at the desk, in parts, sent back by the
+route the asking took; `Survey Archive, Threshold Station` with a receiving
+note; that a retired Serephine can be reached on Kharis Belt IV by the Corps
+is the one small derivation, from Serephine serving in the Corps at all);
+**the title** (from the furnace's work and the people's history alike being
+read at the next margin, and the author's closing instruction to a reader
+with no margins); **the title card** (stamp IN PARTS, the desk's own filing
+word, beside UNCONVERTED, AS GLOSSED, AS GIVEN, RENDERED, AS READ and
+REVISABLE); **the quiet jokes** (*you may talk to the door*; the colleague who
+*thought I had changed the subject*; both structural, costing nobody); **the
+stations** (the author says *your stations have no sky; I opened anyway*,
+which realises `species-design.md`'s PROPOSED line that the open form keeps
+its margin hours on a posting as her own experience, filed by the desk as
+hers alone and asserted of no other Serephine); **the recognition** (the
+opening gives the reader the shape of a day; the close gives the reader back
+their own, *a length and no shape*, and ends on the margin closing).
+Not asserted: any year, in any reckoning (the author gives none and says
+why); how or when the Serephine met the Corps (*I was not there*); any
+Serephine language, word, channel, settlement, polity, social order or
+Federation standing; whose reading of a margin opens a window
+(`mind-design.md`'s PROPOSED question, raised by the author as unsaid and
+settled nowhere); whether anything decides in the unattended hours (open
+choice 3 of `species-design.md`, *Who keeps the lethal hours*; the desk
+marks it unheld); what a Serephine does at dusk that no other people in the
+Corps can (the people's page withholds it and so does she); the people's own
+role-mark (`species-design.md`'s open pair untouched; she is at home and
+wears nothing); the fellow waiters or any Kharis life beyond the people;
+Serephine lifespan, kin or the author's age; what was in the melt. Not done:
+no chapter; no Kharis Belt IV page; no edit to `sethka-ru.md`; the
+`serephine-dunekin.md` See also gains the one link the series owes; no image
+generated.
+
 ## A tidewright of the Fenmarch Republic on Verdance, Meril Duskkin — the third daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Verdance line of the 14 October worklist below (*Peoples with one
@@ -1663,11 +1757,32 @@ same rule:
   hold. The title card is made (stamp REVISABLE); the portrait prompt is
   `images.md` § 36, not generated. The section *The Pelagene history, Vela of
   the Seam* at the top of this file records the choices.
-- [ ] **Serephine Dunekin** — `src/lore/serephine-dunekin.md`,
+- [x] ~~**Serephine Dunekin** — `src/lore/serephine-dunekin.md`,
   `src/characters/sethka-ru.md`. Voice: **the exposure window**, acting when
   conditions permit, as Sethka Ru's file method records. The *leave as
   absences* ruling on their language channel stands, so the entry renders no
-  Serephine speech.
+  Serephine speech.~~ — **drafted 25 October 2026** (Fable, at Dermot's
+  *"Yes, start the Serephine Dunekin history ... on Fable"*; taken ahead of
+  the Cerebraun, Ollune and Verdani lines at his word; PR #1497):
+  `src/codex/read-at-the-next-margin.md`, by Kesta Ul, a Serephine Dunekin
+  formerly of the Star Rangers, at home on Kharis Belt IV
+  (`src/characters/kesta-ul.md`), the second Serephine the record names and
+  not Sethka Ru. Written by the author in the Archive's working language, in
+  parts, each in one of the two hours a day her people are open, headed dawn
+  or dusk, sent as written and joined by nobody; `library: "Survey Archive,
+  Threshold Station"`, the Sevrane pattern (the rolls of former officers). A
+  history given as the shape of a day and refused a length: the two lethal
+  hours and a history with no middle; the thing heavy enough to be slow; the
+  mirrors, the furnace nobody stands beside and the melt read at the next
+  margin; the swing run on; what a closed body cannot do; her service in the
+  Corps and the day she read finished; the patience misread; the stations
+  with no sky. No Serephine speech or word rendered; no year in any
+  reckoning; the contact, the polity, whose reading opens a window, the
+  role-mark and what is done at dusk all left unsaid; open choice 3 of
+  `species-design.md` (who keeps the lethal hours) untouched. The title
+  card is made (stamp IN PARTS); the portrait prompt is `images.md` § 39,
+  not generated. The section *The Serephine history, Kesta Ul* at the top
+  of this file records the choices.
 - [ ] **Veyr Basaltborn** — `src/lore/veyr-basaltborn.md`,
   `src/characters/qiren-tal.md`. Voice: **precision fought for**, fire handed
   to them free. The same language-channel ruling stands.
