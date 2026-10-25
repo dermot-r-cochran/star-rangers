@@ -29,6 +29,8 @@ She holds the Shepherd croft in the Boirinn Uplands the way her mother held it b
 
 She reads her daughter's sentences the way she reads weather — Tissadelle stopped saying *I think* and started saying *I haven't confirmed that yet* in her second year of training, and Órla has tracked the shape of every letter since for exactly that kind of small, exact change. She has told herself, with only partial success, that exactness is not the same as distance.
 
+Her daughter is a [plural system](/star-rangers/characters/tissadelle-shepherd/#the-name-of-a-system), and in public every member answers to *Tissadelle* and none says who is fronting. Órla can tell anyway. She reads the change in micro-expressions, as closely as she reads a sentence.
+
 She did not ask her daughter to break Ranger protocol for her. She asked a narrower question — *you're not going to write this down* — and left room for Tissadelle to answer it as family rather than as Line Captain. When the answer came anyway, unprompted and unfiled, Órla did not treat it as a small thing. Six generations kept the rule without the reason. She is the first to be offered a choice about which one she'd rather have, and chose the reason, walking, with the light going and no patience left to spend standing still past dusk to debate it. Listening to her daughter explain roots and layers, she thought: *there she is. Further off than I'd like. Still mine.*
 
 ## As Remembered
