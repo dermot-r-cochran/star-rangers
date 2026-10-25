@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Karla Wender's page now starts where the record meets her** (`src/characters/karla-wender.md`, 2026-10-25, Opus, at Dermot's note that Chief Pilot is not her first mention). An extension: the page began at Season 1 and never mentioned the 2788 wreck, her first appearance, in *A Person's Name* (S01E00C04). A new *Before the Corps* section gives the rescue, the name *Lucy Anne*, the Eden intake and her entry to the Corps about 2800, and the opening now points to it. Nothing that stood is changed.
+
 - **Tissadelle's Season 5 Halyx frame re-made five years older** (`src/images/characters/tissadelle/season-5-halyx-corridor.jpg`, `src/characters/tissadelle-shepherd.md`, `story-bible/images.md` § 9, 2026-10-24, Opus, at Dermot's pick). The filed frame looked the same age as her cadet frames, and its Line Captain tab could not be read at gallery size. The prompt now ages her the five years between 2826 and 2831 and frames close enough to count the three rings; variation 4 of 4 replaces it, with its alt text rewritten from the file.
 
 ## [1.49.0] — 2026-10-24
