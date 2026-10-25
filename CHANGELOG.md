@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Who is fronting, and who can tell** (`src/characters/tissadelle-shepherd.md`, `src/characters/orla-shepherd.md`, 2026-10-25, Opus, at Dermot's direction). An extension: every member of Tissadelle Shepherd's system answers to *Tissadelle* in public, and none says directly who is fronting. Her mother, Órla Shepherd, can tell the difference through micro-expressions. Angela fronts in security and operational roles.
+
 - **More of Tissadelle Shepherd's system named** (`src/characters/tissadelle-shepherd.md`, 2026-10-25, Opus, at Dermot's direction). An extension: Pandora is one of the members who fronts for Slipwave. Five more members are named on the system's own account: Valentina, Lucas, Elara, Skye and Celestine. The page records only their names and membership.
 
 - **Sen Lovax's system calls itself the Archivist** (`src/characters/sen.md`, `src/characters/cael.md`, `src/characters/wyn.md`, 2026-10-25, Opus, at Dermot's direction). An extension: *the Archivist* is the collective's own name for itself, and it uses Sen's full name, Sen Lovax, for legal and external purposes. The Characters index now heads the system *The Archivist*, and Cael's and Wyn's pages name it.

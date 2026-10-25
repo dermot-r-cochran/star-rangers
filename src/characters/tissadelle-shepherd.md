@@ -100,6 +100,8 @@ Both relationships begin at Starwarden, in the same week of 2829 ([Not Asked (S0
 
 *Tissadelle Shepherd* is the collective name of a [plural](/star-rangers/glossary/plural-minds/) system. No single member is Tissadelle. The name belongs to the whole system, and the officer this page and the chapters follow, *she* and *Shepherd*, is the system as the Corps and everyone else meet it, fronted by whichever member fits the work in front of it. Nothing in the published record changes by saying so: it has followed the system all along, and this page says plainly what kind of person it was following. See [Plural Minds](/star-rangers/glossary/plural-minds/) for how little the cosmology has ever had to make of this.
 
+In public every member answers to *Tissadelle*, and none of them says directly who is fronting. A change of front is not announced, and a colleague is not told. Her mother, [Órla Shepherd](/star-rangers/characters/orla-shepherd/), can tell the difference anyway: she reads it in micro-expressions, the way she reads weather.
+
 Some members look like the body they share and are told apart by how they dress. Others are more distinctive in a form of their own, Tobble and Asteria among them. Each keeps a style of dress, in the inner world and off duty, where what the body wears changes with whoever is fronting. On duty it does not show. The Rangers have no plain-clothes roles, and every member who fronts on duty does so in the same uniform ([Rank, Insignia and Uniform](/star-rangers/lore/rank-insignia-and-uniform/)).
 
 ## Tobble
@@ -116,7 +118,7 @@ Her file carries a plural registration, filed by her after the Starwarden postin
 
 ### Who fronts, and when
 
-Shepherd lets Tobble front when she is working with cats and comparable animals. It is not an accommodation and not a quirk of hers to be indulged; it is the obvious allocation. He is better at it, and the system uses whoever is better at the thing in front of it — the same reasoning any competent crew applies to any watch. On the system's own account, Angela fronted through the Garda college on Tír na nÓg, the training the system left two weeks short of the oath ([The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/)).
+Shepherd lets Tobble front when she is working with cats and comparable animals. It is not an accommodation and not a quirk of hers to be indulged; it is the obvious allocation. He is better at it, and the system uses whoever is better at the thing in front of it — the same reasoning any competent crew applies to any watch. On the system's own account, Angela fronts in security and operational roles, and she fronted through the Garda college on Tír na nÓg, the training the system left two weeks short of the oath ([The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/)).
 
 The same principle accounts for the shape of her service record. Her rotation across corps and branches is wider than most officers manage, and reads from the outside as restlessness or as a career being managed by somebody else. It is neither. **Different members front in different roles**, and a system carrying that much range has more postings it can do well than a singlet does. The record is the honest trace of it rather than an anomaly in it.
 
@@ -132,7 +134,7 @@ The architecture is load-bearing, not decorative. That different members front i
 
 ### Pandora and Angela
 
-Two more members are named on the system's own account, and the record holds little of either beyond the name and the work. **Pandora** is a musician, and one of the members who fronts for [Slipwave](/star-rangers/glossary/slipwave/). **Angela** is a protector and guardian, and she was the member who fronted through the Garda training. What the training left the system, evidence chains and the rule that the empty line on a signed form is the one a court asks about, is on the record already ([The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/), [Testing, Inspection and Certification (S02E02C01)](/star-rangers/seasons/s02/e02/s02e02c01/)); whose habit it became, the chapters did not say. The record does not say when either came.
+Two more members are named on the system's own account, and the record holds little of either beyond the name and the work. **Pandora** is a musician, and one of the members who fronts for [Slipwave](/star-rangers/glossary/slipwave/). **Angela** is a protector and guardian. She fronts in security and operational roles, and she was the member who fronted through the Garda training. What the training left the system, evidence chains and the rule that the empty line on a signed form is the one a court asks about, is on the record already ([The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/), [Testing, Inspection and Certification (S02E02C01)](/star-rangers/seasons/s02/e02/s02e02c01/)); whose habit it became, the chapters did not say. The record does not say when either came.
 
 ### Others named
 
