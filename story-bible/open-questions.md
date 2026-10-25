@@ -47,6 +47,86 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A keeper of a mooring tower on Saltmere, Hollis Orme — the second daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Saltmere line of the 14 October worklist below (*Human peoples and
+places with pages and no people*), split out from the Winterbourne line on
+24 October and taken by the daily Fable fill. Drafted as
+`src/characters/hollis-orme.md`, grounded only in `planets/saltmere.md` and
+the pages that link or cite it (`tides-without-shores.md`,
+`weather-on-other-worlds.md`, `coasts-and-other-edges.md`,
+`the-cost-of-the-crossing.md`, `glossary/kernel-compliant.md`,
+`subsea-cable-drones.md`, `planets/thalassa.md`, `characters/sofia-santos.md`,
+`venice.md`, `planets/kingdom-of-the-five-islands.md`), the Saltmere row of
+`ecology-design.md` (no native organism named) and the Saltmere block of
+`civilian-dress.md`, with the rest marked absent in a *What the Record Does
+Not Carry* section; the timeline holds no Saltmere event and no chapter names
+the world. Portrait prompt in `images.md` § 37, written the same day, not
+generated. The *Saltmere* block of `civilian-dress.md`, *Dress by place*,
+gains *At work*, *Custom* and *The century's sign* lines, each marked derived
+or proposed, on the Winterbourne precedent of 24 October. No lore page is
+touched.
+
+**Why a tower keeper, and why the two offers are one person.** The worklist
+line offered a keeper of a mooring tower or the person an aquabot escalates
+a finding to. On the planet's page these meet: the towers are *monitored
+constantly* and *continuously re-tensioned*, and the aquabots *surface only
+to dock, resupply, or escalate a finding no onboard repair routine can
+resolve on its own*, so the person at the tower is the person the finding
+comes up to. The page makes him the first and gives him the second as the
+shape of the work. The trade is also where the record's other Saltmere pages
+converge: `tides-without-shores.md` makes the tension logs the tide gauge and
+the longest-running current-meter record on any human world, and
+`weather-on-other-worlds.md` reads Saltmere's weather in mooring loads, so
+one page can carry all three without asserting anything new.
+
+**What the page does not do, by design.** It gives him no procedure for a
+finding he cannot reach: the one lever the planet's page puts on the surface
+is re-tensioning, so the page says the decision is the keeper's and the
+tension is what he can change, and marks the rest absent. It does not have
+him certify what the aquabot will not, on the aquabot's reading, which is
+the one line of character the trade supplies. It names no city, segment or
+tower, since the page names none. It gives him no view of the Rangers' open
+invitation and no meeting with a Ranger, and does not date the mapping pass,
+since the record does not. It names nothing living in the water, on the
+`ecology-design.md` row. It does not explain how a colony four centuries out
+of contact built machines to the Concord's standard, which the planet's page
+states in the Concord's word and files as convergence: the page marks the
+regime absent and leaves the lore page as it stands (reported in the PR as a
+possible See-also or clarification owed to `planets/saltmere.md`, not made).
+It does not make the world grim: the page's register is a working trade on a
+kept platform under a high overcast, with the quiet joke about learning the
+hard way exactly once left to the structure.
+
+Settled by recommendation under the dilemma-only rule, each his to
+overrule: **the trade** (keeper of one mooring tower, the person its aquabots
+surface to, derived as above; chosen over a hull crew, whose work the page
+names only as *built and inspected like a ship*, and over a market-segment
+resident, whose page would be the drift cycle's and not the tower's); **the
+name** (*Hollis Orme*, coined, with no meaning asserted and no origin given,
+in the plain English register the one name on the world's own page sets,
+since the founders, their languages and their naming customs are unknown and
+the page names no person, city or segment; whether *Orme* is a founder's
+family's, a tower's or a hull's is marked absent; the alternatives are
+*Edric Orme* and *Teague Orme*, or a name he gives); **the pronoun** (*he*;
+the three human civilian fills of this worklist so far, Oriane Kessel,
+Winifred Adebayo and Hester Aldous, are all rendered *she*, and a run of
+three is a habit and not a rule, on the same reasoning the style note gives
+for the number eleven; a *she* would be as well grounded, since the page
+says nothing);
+**the age** (born about 2782 UCSD, mid-forties in 2826, old enough that the
+log has been in his hand for years and the cycle is read by habit, young
+enough to be on the dock in weather; an older keeper near the end of a long
+watch was the alternative); **the place** (a tower, a dock and a hull the
+record does not name, never off the water); **the era** (2826 UCSD, the slack
+of a drift cycle under a high overcast, so the frame is calm and the sea
+grey). Not asserted: his kin; how a tower comes to a keeper, whether he keeps
+it alone, and for how long; what a keeper does about a coupling beyond the
+tension; the aquabots' certifying regime; whether he was alive for the
+mapping pass or has met a Ranger; his *once*; what his segment specialises
+in; what lives in the water. Not done: no chapter; no link from
+`planets/saltmere.md`, since it lists no people; no image generated.
+
 ## The Pelagene history, Vela of the Seam — the daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Pelagene line of the *Histories in their own voices* series below, taken
@@ -1797,7 +1877,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 - [x] ~~**The Commonwealth and New London**: two pages, no character.~~ — **filled 24 October 2026** (Fable, by the daily Fable fill; the section *A clerk of the Commonwealth's correspondence on New London, Winifred Adebayo* above records the choices; PR #1445): `src/characters/winifred-adebayo.md`, a New London-born clerk of the Commonwealth secretariat who keeps the association's correspondence, the writing-to that is its only membership test, the archive comparisons and the standing invitation to the Celtic Union, renewed in her hand and unanswered; at home at Earth–Moon L5 in 2826 UCSD, never off the habitat; grounded only in the two pages and what they link, the rest marked absent; portrait prompt `images.md` § 32, filed 24 October 2026. The line was read as a person of the Commonwealth at home on New London: the record's two other New Londoners, Luke Valerius (born there, a Ranger far from home) and Rosamund Hallam (a Codex author, her page after this line was written), are named on the new page and are not of the Commonwealth's work.
 - [ ] **Earth in the present**: three Codex authors, no chapter set there in 2826, and no Earth-resident POV.
 - [x] ~~**Winterbourne** and **Saltmere**: one page each, no character.~~ — **the Winterbourne half filled 24 October 2026** (Fable, by the daily Fable fill; the section *A shepherd of the Marlbrook parish flock on Winterbourne, Hester Aldous* above records the choices): `src/characters/hester-aldous.md`, a Marlbrook-born shepherd who keeps the Marlbrook parish flock on the high down, where the turf is a product of the sheep and goes to scrub within a decade if the flock is lost; at home in the Albion system in 2826 UCSD, never off-world; grounded only in the planet page and the pages that link or cite it, the rest marked absent; portrait prompt `images.md` § 35, filed 24 October 2026. Winterbourne was taken over Saltmere because its page grounds a trade, a parish and a record and Saltmere's names no city; the Saltmere half is split out below so it is not lost.
-- [ ] **Saltmere**: one page, no character. A keeper of a mooring tower, or the person an aquabot escalates a finding to, would ground in the page as it stands; Sofia Santos on Thalassa stands beside its engineering but is not of Saltmere.
+- [x] ~~**Saltmere**: one page, no character. A keeper of a mooring tower, or the person an aquabot escalates a finding to, would ground in the page as it stands; Sofia Santos on Thalassa stands beside its engineering but is not of Saltmere.~~ — **filled 25 October 2026** (Fable, by the daily Fable fill; the section *A keeper of a mooring tower on Saltmere, Hollis Orme* above records the choices; PR #1488): `src/characters/hollis-orme.md`, a Saltmere-born keeper of one mooring tower, the person its aquabots surface to with a finding they will not certify, who keeps the tension log that is the only tide gauge his world has; at home in the Annwyn system in 2826 UCSD, never off the water; grounded only in the planet page and the pages that link or cite it, the rest marked absent; portrait prompt `images.md` § 37, not generated. The two offers on this line turned out to be one person, since on the planet's page the finding surfaces at the tower.
 
 **Peoples with one character and no home-world page** (a plain gap, not ruled anywhere):
 - [ ] **Krenyi**: three characters and nine POV chapters, but no homeworld page.
