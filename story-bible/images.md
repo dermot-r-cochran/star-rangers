@@ -8144,7 +8144,7 @@ source, not a third roll, is the next step.
 ### 41. Missing portraits — Second Outwork, the second Meridian person the record names (written 25 October 2026, Fable, at Dermot's direction; generation waits on the desktop)
 
 `src/characters/second-outwork.md` landed in the same PR as this prompt, with
-the tenth entry of *Histories in their own voices*,
+the eleventh entry of *Histories in their own voices*,
 `src/codex/what-came-in-the-water.md`: a Meridian person of the Long Shelf
 reef-city who strikes the council's petitions on the city where the relay
 station's channel hears, and who struck the council's history of itself in
@@ -8153,7 +8153,7 @@ the record has photographed one (`sixth-course.jpg`, § 14), so the page is
 owed a portrait under the 7 October rule and the form is a photograph, never
 moved off it by a failed round; a prompt where a person's presence carries
 the frame is Fable's here (`CLAUDE.md`, *Which model does which work*). Same
-form as §§ 25 to 39: a documentary photograph recorded inside the world by a
+form as §§ 25 to 40: a documentary photograph recorded inside the world by a
 29th-century camera, here one the record allows under Meridian's sea, mounted
 on a sealed remote proxy, available light, **16:9 landscape** at 1200×675
 through `import-image.ps1 -MaxEdge 1200` at finish strength 1; at work, never

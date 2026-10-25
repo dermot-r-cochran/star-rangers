@@ -54,7 +54,7 @@ The cultural version is worth noticing too: a people whose engineering is founde
 
 Veyr Rangers are usually placed where mechanical stress and thermal risk overlap: outer-ring hull junctions, coolant transit nodes, emergency patch corridors. This is not tokenism and not coincidence — it is a service placing a specialism where it is genuinely useful, and the specialism is a whole planet's worth of practice at the exact failure class those postings produce.
 
-Uniform is the modular shell fitted per body plan, as it is for everyone; the Veyr are among the reasons that standard exists at all. See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-and-uniform/).
+The uniform standard is the modular shell fitted per body plan, and the Veyr are among the reasons that standard exists at all; on a Veyr it is no garment, as it is none on Rook-7's chassis: corps colour and rank tab are seated directly on the lattice, by the wearer's own quartermaster record like every other tab. See [Rank, Insignia, and the Ranger Uniform](/star-rangers/lore/rank-insignia-and-uniform/).
 
 ## The Thing Outsiders Get Wrong
 

@@ -326,7 +326,7 @@ lines in a pattern that go far and arrive at once, and a long water that
 comes after and says what the strike meant, because the record says the
 percussion carries at range and the chemical channel *drifts in slowly behind
 it to say what the strike meant* (`sixth-course.md`) and the channel spends
-*half an hour arguing with itself over connotation* (S03E01C03). *Carried in
+*half an hour arguing with itself over connotation* (`tavesh.md`). *Carried in
 its exact shape* is the council's own clause from the chapter and becomes the
 petition's ask at the close: keep the strike and the water, in that order,
 not smoothed. The channel's second renderings, kept in brackets where it
