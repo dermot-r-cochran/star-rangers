@@ -20,22 +20,39 @@ eleventyComputed:
 
 {% set chars = collections.characters %}
 {% if chars.length %}
-<div class="codex-grid">
-  {%- for char in chars -%}
-  <a class="codex-card" href="/star-rangers{{ char.url }}">
-    {%- if char.data.image -%}
-    <img class="codex-card__thumb" src="/star-rangers/images/characters/{{ char.data.image }}" alt="{{ char.data.image_alt | default(char.data.title) }}" />
-    {%- endif -%}
-    <p class="codex-card__category">{{ char.data.species | default("Unknown") }}{% if char.data.role %} · {{ char.data.role }}{% endif %}</p>
-    <h2 class="codex-card__title">{{ char.data.title }}</h2>
-    {%- if char.data.aliases and char.data.aliases.length -%}
-    <p style="font-size:0.8rem;color:var(--color-text-muted);margin-top:0.25rem;font-family:var(--font-ui)">
-      aka {{ char.data.aliases | join(", ") }}
-    </p>
-    {%- endif -%}
-  </a>
-  {%- endfor -%}
-</div>
+{#- Grouped by kind, A-Z within each kind (lib/index-grouping.js). Kind is the
+    record's classification from each page's `species` line; the groups rank
+    nobody. -#}
+{% set kinds = chars | groupCharacters %}
+<nav class="section-jump" aria-label="Kinds on this page">
+  {%- for kind in kinds %}
+  <a href="#kind-{{ kind.id }}">{{ kind.name }}</a>
+  {%- endfor %}
+</nav>
+{% for kind in kinds %}
+<section class="lore-category-section" aria-labelledby="kind-{{ kind.id }}">
+  <h2 class="season-block__title" id="kind-{{ kind.id }}">{{ kind.name }}</h2>
+  {%- if kind.blurb %}
+  <p class="page-intro">{{ kind.blurb }}</p>
+  {%- endif %}
+  <div class="codex-grid">
+    {%- for char in kind.items -%}
+    <a class="codex-card" href="/star-rangers{{ char.url }}">
+      {%- if char.data.image -%}
+      <img class="codex-card__thumb" src="/star-rangers/images/characters/{{ char.data.image }}" alt="{{ char.data.image_alt | default(char.data.title) }}" />
+      {%- endif -%}
+      <p class="codex-card__category">{{ char.data.species | default("Unknown") }}{% if char.data.role %} · {{ char.data.role }}{% endif %}</p>
+      <h3 class="codex-card__title">{{ char.data.title }}</h3>
+      {%- if char.data.aliases and char.data.aliases.length -%}
+      <p style="font-size:0.8rem;color:var(--color-text-muted);margin-top:0.25rem;font-family:var(--font-ui)">
+        aka {{ char.data.aliases | join(", ") }}
+      </p>
+      {%- endif -%}
+    </a>
+    {%- endfor -%}
+  </div>
+</section>
+{% endfor %}
 {% else %}
 <p class="page-intro">No character profiles published yet.</p>
 {% endif %}

@@ -1971,7 +1971,8 @@ a:focus {
 .character-known-codex__list a:hover { text-decoration: underline; }
 
 /* --- Glossary --- */
-.glossary-alpha {
+.glossary-alpha,
+.section-jump {
   display: flex;
   flex-wrap: wrap;
   gap: var(--spacing-sm);
@@ -1979,14 +1980,16 @@ a:focus {
   font-family: var(--font-ui);
   font-size: 0.9rem;
 }
-.glossary-alpha a {
+.glossary-alpha a,
+.section-jump a {
   color: var(--color-accent);
   text-decoration: none;
   padding: 2px 8px;
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
 }
-.glossary-alpha a:hover { background: var(--color-surface-2); }
+.glossary-alpha a:hover,
+.section-jump a:hover { background: var(--color-surface-2); }
 
 .glossary-list {
   max-width: var(--max-prose);
