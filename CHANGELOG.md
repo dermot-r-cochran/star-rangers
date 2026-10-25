@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Tissadelle's header re-made as the older Line Captain** (`src/images/characters/tissadelle-shepherd.jpg`, `src/characters/tissadelle-shepherd.md`, 2026-10-25, Opus, at Dermot's word). The header was the cadet frame's photograph with a Line Captain's tab, so it showed a cadet's face. The new frame takes her face from the Halyx frame re-made yesterday, five years older, with the three rings readable; the old header is retired to `story-bible/reference-art/`.
+
 - **Hollis Orme, the first person of Saltmere the record names** (`src/characters/hollis-orme.md`, `story-bible/images.md` § 37, `story-bible/civilian-dress.md`, `story-bible/open-questions.md`, 2026-10-25, Fable, by the daily Fable fill). The Saltmere line of the 14 October worklist is filled: a keeper of one mooring tower on a world with no land, who reads the tower's tension, keeps the log that is the tide gauge nobody on Saltmere has seen, and is the person its aquabots surface to with a finding they will not certify; at home in the Annwyn system in 2826 UCSD, never off the water. Grounded only in the planet page and the pages that cite it, the rest marked absent. No lore page is touched. The portrait prompt is written, not generated.
 
 - **Krenyi blood: "harm", not "kill"** (`src/lore/krenyi.md`, 2026-10-25, Opus, at Dermot's direction). A clarification. The opening list said Krenyi blood "would kill the one it was meant to save", while the page's own transfusion paragraph says the human survives, seriously unwell for days. The list now says "harm", which is what the record holds.
