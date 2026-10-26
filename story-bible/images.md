@@ -228,6 +228,23 @@ abstract. The abstract image must still respect the record: no face given to a
 being the record says has none, no lettering, and no implication of a shape the
 page does not state.
 
+**When no visualization is on record** (Dermot, 26 October 2026, verbatim:
+*"It is ok for the Archive to state that no visualization is on record or easy
+to record for some kinds of people or places."* — `intake-2026-10-26.md`). A
+third clarification of the portrait rule, beside the two above, and it reaches
+places as well as beings. A page about a people, a person of that people or a
+place may say, in the Archive's own voice, that the record holds no picture of
+it or that none is easily made, and that sentence is the page's complete answer:
+the page is finished without an image, not pending one. It is a statement about
+the record, so it holds only where the record has no picture: a people with a
+filed photograph, such as the Ovruhn, the Chthonari or the Cerebraun, has a
+visualization on record, and a failed roll for one of them is still a prompt to
+revise. Which peoples and places take it is named per page, as a decision, never
+inferred from a generator's failures. The sentence explains the epistemology and
+invents no fact: it gives the reason in the page's own terms (light the record's
+cameras cannot see by, a scale no frame holds, a people that declined) and
+implies no shape the page does not state.
+
 **Diagrams on technical lore pages** (Dermot, 29 September 2026, verbatim:
 *"Technical lore pages may have technical or scientific diagrams similar to
 the style of the Applied Stats tutorial"* — `intake-2026-09-29.md`). A
