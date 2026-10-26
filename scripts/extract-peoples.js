@@ -199,6 +199,7 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/serephine-dunekin.md", "The body is closed for most of the day"],
     portraits: {
+      "kesta-ul": { check: "agrees", evidence: ["src/characters/kesta-ul.md", "a low sealed mineral-hard carapace"], note: "Filed 26 October 2026 (round 3, sethka-ru.jpg as body reference; his pick): carapace, one vane opening, one limb at the mirror." },
       "sethka-ru": { check: "agrees", evidence: ["src/characters/sethka-ru.md", "a low pale sealed carapace held clear of the ground on six slender radial limbs"], note: "" },
     },
   },
@@ -258,6 +259,7 @@ const PEOPLES = [
     frame: null, design: null,
     pageBody: ["src/lore/planets/meridian.md", "The most advanced of Meridian's native crustacean lines are themselves sapient"],
     portraits: {
+      "second-outwork": { note: "Filed 26 October 2026 (round 3, sixth-course.jpg as body reference; his pick); briefed from the planet page, as Sixth Course was." },
       "sixth-course": { note: "Briefed from the planet page alone, since the record has no species page for Meridian's people." },
     },
   },

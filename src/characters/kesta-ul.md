@@ -8,6 +8,8 @@ status: "Retired — out of Corps service"
 aliases: []
 tags: [serephine, kharis-belt-iv, thin-atmosphere, star-rangers, author, non-humanoid, histories-in-their-own-voices]
 description: "A Serephine Dunekin of Kharis Belt IV, formerly of the Star Rangers, who at the Survey Archive's asking wrote the history of her people at home, in the only hours her body is open, one part to each dawn and each dusk, and sent it as written — the author of the ninth history of a non-human people the record holds in that people's own voice, and the second Serephine the record names."
+image: "kesta-ul.jpg"
+image_alt: "Part of Kesta Ul, a Serephine Dunekin, close and low at dawn: a low, broad, sealed carapace of weathered pale pewter-grey, pitted and dusted with grit, lies on the stony plain, a single tall translucent respiratory vane rising open from a seam in its upper surface, and one slender jointed limb reaches from beneath it to the lower edge of a broad dusty mirror panel of a solar furnace. Further panels stand soft on the plain beyond, under a clear pale sky."
 known_codex: [read-at-the-next-margin]
 ---
 

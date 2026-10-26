@@ -418,7 +418,7 @@ timeline entries and the ~2528 filing, `habitable-for-whom.md`,
 `species-design.md`, `mind-design.md`, `contact-design.md`,
 `language-design.md` and `civilian-dress.md`, with the rest marked absent in a
 *What the Record Does Not Carry* section; portrait prompt in `images.md`
-§ 41, not generated; the entry's title card made with
+§ 41, filed 26 October 2026; the entry's title card made with
 `make-codex-cover.ps1`, stamp EXACT SHAPE.
 
 **Why the author is not Sixth Course, and not the council.** The series line
@@ -532,7 +532,7 @@ the timeline (which holds no Serephine event) and the Serephine sections of
 `species-design.md`, `mind-design.md`, `contact-design.md`,
 `civilian-dress.md` and `intake-2026-09-24.md` (the *leave as absences*
 ruling), with the rest marked absent in a *What the Record Does Not Carry*
-section; portrait prompt in `images.md` § 39, not generated; the entry's
+section; portrait prompt in `images.md` § 39, filed 26 October 2026; the entry's
 title card made with `make-codex-cover.ps1`, stamp IN PARTS.
 
 **Why the author is not Sethka Ru.** The series line names his page as a
@@ -2250,7 +2250,7 @@ same rule:
   role-mark and what is done at dusk all left unsaid; open choice 3 of
   `species-design.md` (who keeps the lethal hours) untouched. The title
   card is made (stamp IN PARTS); the portrait prompt is `images.md` § 39,
-  not generated. The section *The Serephine history, Kesta Ul* at the top
+  filed 26 October 2026. The section *The Serephine history, Kesta Ul* at the top
   of this file records the choices.
 - [x] ~~**Veyr Basaltborn** — `src/lore/veyr-basaltborn.md`,
   `src/characters/qiren-tal.md`. Voice: **precision fought for**, fire handed
@@ -2296,7 +2296,7 @@ same rule:
   answered; the petition at the close that the shape be kept. The settlers'
   year unfixed, the Sentinel's authorship open, the Hegemony's dating not
   held, no Meridian name, word or pronoun supplied. The title card is made
-  (stamp EXACT SHAPE); the portrait prompt is `images.md` § 41, not generated.
+  (stamp EXACT SHAPE); the portrait prompt is `images.md` § 41, filed 26 October 2026.
   The section *The Meridian history, Second Outwork* at the top of this file
   records the choices.
 - [ ] **Spiralites** — `src/lore/planets/corryn.md`,
