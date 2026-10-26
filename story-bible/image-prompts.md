@@ -1814,11 +1814,11 @@ after drawing.
 
 ## 2026-10-26 — Pelagos Minor, lore header, prompt written (Opus), nothing generated
 
-### pelagos-minor.jpg — prompt written 26 October 2026, NOT GENERATED
+### pelagos-minor.jpg — prompt written 26 October 2026; filed the same day
 - **Type:** generation, a place (a world's evacuation basin after the Basin Collapse, nobody in frame); header image for `src/lore/planets/pelagos-minor.md`
-- **Tool:** pending; `node scripts/image-prompts.js --generate --only pelagos-minor`
+- **Tool:** `node scripts/image-prompts.js --generate --only pelagos-minor --variations 4`, gemini-3.1-flash-image at 2K (Opus, desktop)
 - **Source:** `src/lore/planets/pelagos-minor.md` and *The Order of Evacuation* (S01E03C04): the equatorial basin, the escarpment above the floodline, three lost launch corridors, the water settled in a false calm over the neighbourhoods; launch cradles per `src/lore/ascent-javelins.md`
 - **References:** none
 - **Prompt / recipe:** of record in `images.md` § 43; not duplicated here.
-- **Run:** none yet; the desktop step is in § 43.
+- **Run:** one round of four, 26 October 2026. **Variation 3 filed** through `import-image.ps1 -MaxEdge 1600` at strength 1 (1600×893). It passes the § 43 triage in order: no wreckage or bodies, no tower, nobody in frame, nothing of Earth, three straight corridors with the nearest above water and carrying small tilted cradles, the shelters kept and unlit, a pale dawn sky. Variations 1, 2 and 4 drew four corridors, or cradles on the far corridors as well, and were not taken. Dermot saw all four on the contact sheet and said they looked good.
 

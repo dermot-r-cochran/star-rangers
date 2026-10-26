@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pelagos Minor gets its header image** (`src/lore/planets/pelagos-minor.md`, `src/images/lore/pelagos-minor.jpg`, `story-bible/images.md` § 43, `story-bible/image-prompts.md`, 2026-10-26, Opus, desktop). Generated from the § 43 prompt, round 1, variation 3 of four: the flooded basin at dawn from the escarpment, three launch corridors with the nearest still above the water, and the shelters on the shore. Closes #1506.
+
 - **What Orbital Five-O keeps from its namesake** (`story-bible/intake-2026-10-26.md`, `story-bible/open-questions.md`, 2026-10-26, Opus, at Dermot's direction). His note that what appealed in Hawaii Five-O and most detective series was *the sense of inevitable justice and the confrontation of evil rather than fear of evil*, recorded with a reading: the wrong is reached and faced unafraid, the wrongdoer keeps their standing under the cast rules, and any larger shadow stays marked.
 
 - **No visualization on record, and Five-O's two failures** (`story-bible/intake-2026-10-26.md`, `story-bible/images.md`, `story-bible/open-questions.md`, `CLAUDE.md`, 2026-10-26, Opus, at Dermot's direction). A third clarification of the portrait rule: a page about a people, a person of it or a place may say that no picture is on record or easily made, and is then complete. It is named per page and never inferred from a failed roll; no page takes it yet. His note on Hawaii Five-O, *too violent or too formulaic*, is recorded against the open question on Orbital Five-O's second season.
