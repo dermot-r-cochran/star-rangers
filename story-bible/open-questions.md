@@ -47,6 +47,122 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## A Deep Clan right-holder of the Stonewake Dominion on Verdance, Tavin Ledgekin — the Fable fill of 26 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The Verdance line of the 14 October worklist below (*Peoples with one
+character and no home-world page*: *one Verdani character, but the planet
+holds four civilisations*) was struck on 25 October by Meril Duskkin's page,
+and its strike line recorded that the Stonewake Dominion and the Aurelin
+Herdlands still had nobody. This fill takes the Dominion's share. The
+Herdlands stay held back by his choice 3 of 14 October (what they herd stays
+unestablished until a chapter needs a herd), so of the two the Dominion is
+the only one the record allows a person. Drafted as
+`src/characters/tavin-ledgekin.md`, grounded only in `planets/verdance.md`,
+`verdani.md`, `characters/isren-farrowkin.md`, `characters/meril-duskkin.md`,
+`characters/elsha-rootkin.md`, `greenward-habitat.md`,
+`what-a-life-is-built-from.md`, `cross-biosphere-taxonomy.md`,
+`federation-of-sentient-beings.md`, S01E00C08 and the Verdance timeline
+entry, with the Verdance section of `ecology-design.md` (no organism named
+but the thallenwort), the Verdani blocks of `species-design.md` (the herd
+ruling; *use the four biomes for texture, not for temperament*),
+`civilian-dress.md` (nothing worn, his choice 5 of 14 October) and
+`mind-design.md` (standing by lineage in the Dominion) read for what they
+rule out, and the rest marked absent in a *What the Record Does Not Carry*
+section. Portrait prompt in `images.md` § 44, written the same day, not
+generated. No lore page is touched: `planets/verdance.md` and `verdani.md`
+list no people and keep their See-also lines, on the Saltmere, Meril Duskkin
+and Elsha Rootkin precedent.
+
+**Why the Deep Clans, and why a right-holder.** The 25 October fill passed
+the Dominion over for *a farmer of a Terrace Assembly*, for two reasons that
+still stand: the ecology file rules out naming a crop, which leaves a farmer
+nothing on the page to farm, and a hill farmer is the pastoral allegory
+`species-design.md` warns of. The Deep Clans are the Dominion's other body,
+and the planet page gives them more than it gives the Assemblies: they are
+*hereditary mining lineages who hold the mineral-extraction rights the
+Dominion's economy runs on*. A person of a Deep Clan who holds, with his
+lineage, one such right asserts nothing the planet page has not said. The
+page does not say what a working is or does, since the record does not; it
+says the working is of the industry the people's page describes (cultivation,
+no furnace) and stops. What the page does hold is the people's page's own
+arithmetic applied to the terraces: the pale, high-reflectance strain as a
+partner bred to give part of an unfiltered sun back; the word *hereditary*
+read against a people whose heredity passes a partner; and the one
+observation that a body which eats by its surface eats nothing under rock,
+kept conditional, since the record does not say a Deep Clan's working goes
+below the ground at all. The trope the page refuses by construction is the
+hereditary mining clan under a mountain: nothing on it is a hall, a forge, a
+pick or a hoard, and the portrait negates each by name.
+
+**What the page does not do, by design.** It does not say what is taken from
+the terraces, how, with what tool or in which season, who buys it or where it
+goes. It names no settlement, since the planet's page names none on the
+terraces; the planet's filed picture shows small settlements on the red
+upland and names none either. It does not say whether the Deep Clans are
+kinstrains; it gives that as the page's reading of the planet page's
+*hereditary* and marks it as a reading in two places. It gives him no view of
+the Terrace Assemblies' claim and adjudicates nothing between the Assemblies
+and the clans; the one observation it adds, that a Deep Clan eats twice, once
+from the sun and once from the Assemblies' terraces, and that the second meal
+is the dependency the Assemblies are counting, is the planet page's own
+sentence restated and is marked as the record's observation, not his. It does
+not perform what a terrace Verdani's vanes do at highland noon. It gives him
+no age and no year of bonding, since the record holds no Verdani lifespan and
+no conversion of Verdance's local years. It does not gloss *Stonewake* or
+*Deep*. It brings him into no room with anyone.
+
+Settled by recommendation under the dilemma-only rule, each his to
+overrule: **the country** (the Stonewake Dominion, the only one of the two
+remaining the record allows a person, as above); **the body within it** (the
+Deep Clans over the Terrace Assemblies: the Assemblies' person would be a
+farmer, passed over on 25 October for reasons that stand, or an elected
+member, whose page would be the Dominion's politics and not the terraces, on
+the same reasoning that passed over Fenmarch's engineering council); **the
+role** (a holder, with his lineage, of one extraction right, at a working
+the page does not describe; chosen over a clan's head or speaker, which the
+planet page does not give the clans, and over anyone who *goes below*, which
+the record does not say anyone does); **the kinstrain** (*Ledgekin*, coined,
+since the three names the people's page lists are now all assigned; one
+syllable and *kin*, in the register *Farrowkin*, *Duskkin* and *Rootkin*
+set, read as a terrace lineage by its sound; the page asserts no meaning for
+it and does not say the name means a ledge; the alternatives are *Scarpkin*
+and *Shalekin*, or a name he gives); **the personal name** (*Tavin*, offered
+for Meril Duskkin and for Elsha Rootkin and used for neither, two syllables
+in the register *Isren*, *Meril* and *Elsha* set, with no meaning asserted;
+the alternative is a name he gives); **the pronoun** (*he*, on the
+translation default the page states; Meril is *he* and Isren and Elsha *she*
+by the same default, so the four Verdani stand two and two and the default
+is not read as a pattern; nothing new, and no sex asserted); **the age**
+(none, by the record's silence); **the place** (one stretch of the high
+terraces, the red upland of the planet's filed picture, no settlement
+named); **the era** (2826 UCSD, the same present as the record's three other
+Verdani); **the frame** (a vane fully open and lit from the front under a
+high hard sun against a deep sky, the first Verdani frame not lit through the
+leaf, so identity is held by tone, light, place and the absence of anything
+worn; § 44). Not asserted: his kin beyond the lineage; what a working is,
+takes or makes; whether a Deep Clan's right can be divided or given up; how
+many hold it with him; whether the clans are kinstrains; the terrace strain's
+budget; what lives on the terraces and what the Assemblies grow; his view of
+the Assemblies' claim; whether he has met a Ranger, a surveyor or a
+delegate; the Verdani language in any channel. Not done: no chapter; no
+change to `planets/verdance.md`, `verdani.md` or any other character's page;
+no image generated; no portrait row in `scripts/extract-peoples.js`, which
+is added on filing as PR #1420 did.
+
+**A note on the Elsha Rootkin options above, not a decision.** That section
+leaves him (A) the canopy belt as drafted, recommended, or (B) a high-terrace
+lineage for Elsha, on two grounds: a portrait colour no character yet has,
+and *a third country's person on the record without a farmer or a herd*. This
+page pays the second ground on its own, so B now rests on the first alone;
+both options still stand, and nothing here changes Elsha's page.
+
+**Left for him, not as a decision.** Whether the Verdani ever take a pronoun
+system of their own is a per-species canon decision under the 8 August rule
+and is not raised by this page; all four Verdani stand on the translation
+default. Whether the Deep Clans are kinstrains is a reading the planet page
+could one day confirm or refuse as a clarification; the page is written so
+that either leaves it standing.
+
 ## Why Pelagos Minor's evacuation order puts women before children — raised 26 October 2026 by Dermot reading S01E03C04 (*"Why women boarded before children in an age of full equality?"*), RULED the same day: Option 1 (Dermot's *"Option 1, draft it as a PR"*)
 
 The chapter states the order three times and gave no reason for it. Three readings were put to him: (1) an inherited charter rule nobody revisited, (2) a carers-first logistics rule with *women* as the charter's stand-in for carers, (3) leave the gap shut. He chose 1. `src/lore/planets/pelagos-minor.md` now carries it: the clause is in the founding settlement charter, for *the continuity of the settlement*, and ranks by what a small colony counted as scarce (those who could bear the next generation, that generation, the founders' memory, all others). *Women* is the founders' proxy for the first place, and the charter does not say so. Never used before the Collapse, never re-read, kept perfectly, and it damaged the continuity it was written for. Still open, marked absent on the page: the founding date and founders, the system and polity, the population, who drafted the clause, and **whether the clause has been amended since 2826 UCSD**, which a later chapter may want.
@@ -2487,7 +2603,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 **Peoples with one character and no home-world page** (a plain gap, not ruled anywhere):
 - [ ] **Krenyi**: three characters and nine POV chapters, but no homeworld page.
 - [ ] **Ovruhn** (Thavren), **Ilveth** (Sardain), **Pelagene** (Nerath), **Serephine** (Kharis Belt IV), **Veyr Basaltborn** (Veyr-3): one character each, no home-world page. Further named Ovruhn are explicitly invited (see the Ovruhn entry below). The Veyr and Serephine *leave as absences* ruling covers their language channel only.
-- [x] ~~**Verdance**: one Verdani character, but the planet holds four civilisations.~~ — **filled 25 October 2026** (Fable, by the daily Fable fill; the section *A tidewright of the Fenmarch Republic on Verdance, Meril Duskkin* above records the choices): `src/characters/meril-duskkin.md`, a fenland-strain Verdani of the Fenmarch Republic's Tidewrights' Guild, who keeps one flood-gate across a fen channel on the flood cycle a stilted city depends on, in the dim light under marsh mist his kinbeds were bred for and cannot leave; at home in the Calyx system in 2826 UCSD, in no delegation and in no room; grounded only in the Verdance and Verdani pages and the pages that link or cite them, the rest marked absent; portrait prompt `images.md` § 38, not generated. The Fenmarch Republic was taken because the planet page's filed illustration already shows its flood-gate, at Dermot's 12 October ruling; the Stonewake Dominion and the Aurelin Herdlands still have nobody, the Herdlands by the 14 October ruling that holds the herd back, so the planet's four civilisations now have people in two.
+- [x] ~~**Verdance**: one Verdani character, but the planet holds four civilisations.~~ — **filled 25 October 2026** (Fable, by the daily Fable fill; the section *A tidewright of the Fenmarch Republic on Verdance, Meril Duskkin* above records the choices): `src/characters/meril-duskkin.md`, a fenland-strain Verdani of the Fenmarch Republic's Tidewrights' Guild, who keeps one flood-gate across a fen channel on the flood cycle a stilted city depends on, in the dim light under marsh mist his kinbeds were bred for and cannot leave; at home in the Calyx system in 2826 UCSD, in no delegation and in no room; grounded only in the Verdance and Verdani pages and the pages that link or cite them, the rest marked absent; portrait prompt `images.md` § 38, not generated. The Fenmarch Republic was taken because the planet page's filed illustration already shows its flood-gate, at Dermot's 12 October ruling; the Stonewake Dominion and the Aurelin Herdlands still have nobody, the Herdlands by the 14 October ruling that holds the herd back, so the planet's four civilisations now have people in two. *Update, 26 October 2026:* the Stonewake Dominion's share filled (Fable; the section *A Deep Clan right-holder of the Stonewake Dominion on Verdance, Tavin Ledgekin* above records the choices): `src/characters/tavin-ledgekin.md`, a high-terrace Verdani of one of the Dominion's Deep Clans, who holds with his lineage the right to take mineral from one stretch of the high terraces, under the unfiltered highland sun his pale kinbeds were bred to reflect; at home in the Calyx system in 2826 UCSD, in no assembly and in no room; grounded only in the Verdance and Verdani pages and the pages that link or cite them, the rest marked absent; portrait prompt `images.md` § 44, not generated. Three of the four civilisations now have a person; the Aurelin Herdlands alone have nobody, and stay held back by the 14 October ruling until a chapter needs a herd.
 
 **Peoples the record says serve in the Corps, or could, with no Ranger on record** (added 14 October 2026 from `species-design.md`, *In the Corps*):
 - [x] ~~**A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.~~ **Filled 19 October 2026** on Fable at Dermot's direction: Kettsa, Senior Officer, Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone, 2826 UCSD (`src/characters/kettsa.md`; portrait prompt `images.md` § 19, not generated; the section *A Chthonari Ranger, Kettsa* above records the choices; PR #1362).
