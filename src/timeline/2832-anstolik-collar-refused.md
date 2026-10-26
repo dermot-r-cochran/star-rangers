@@ -4,7 +4,6 @@ title: "A Proposal to Collar the Anstolik Refused"
 timestamp: "2832 UCSD"
 sort_order: 150
 era: "2826-onward"
-major: true
 summary: "In the Fliade survey's second year, the survey lead withholds the countersign from a proposal to fit Anstolik herds with detection collars, and files the prospectus with the refusal."
 plain: "In 2832 one member of the Fliade team suggested putting collars on some of the Anstolik, the big grazing animals, to watch for anyone taking them. The team's leader said no, because the animals wander down toward the deep caves where the Told live. The idea and the no were filed together."
 tags: [fliade, anstolik, pandoids, survey-corps, below-the-roof, nakagawa, toma-egede]
