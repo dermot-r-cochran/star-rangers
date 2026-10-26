@@ -172,6 +172,7 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/pelagene-littoral.md", "A Pelagene body is accordingly radially symmetrical about a vertical axis"],
     portraits: {
+      "vela-of-the-seam": { check: "agrees", evidence: ["src/characters/vela-of-the-seam.md", "radially symmetrical about a vertical axis"], note: "Filed 26 October 2026 (round 2, his pick): the near flank of the folded body and its cirri at a seam, no face." },
       "mira-of-brine": { check: "agrees", evidence: [IMAGES_FILE, "a rounded radial body with vertical folds"], note: "Filed 13 October 2026, replacing a humanoid emblem card." },
     },
   },
@@ -218,6 +219,8 @@ const PEOPLES = [
     pageBody: ["src/lore/verdani.md", "A Verdani is not humanoid, and the reason is arithmetic rather than aesthetics."],
     portraits: {
       "isren-farrowkin": { check: "agrees", evidence: ["src/characters/isren-farrowkin.md", "with no head and no face"], note: "Filed 12 October 2026 (century batch 6)." },
+      "meril-duskkin": { check: "agrees", evidence: ["src/characters/meril-duskkin.md", "the duller olive-brown of a fenland strain"], note: "Filed 26 October 2026 (round 1, his pick): one olive-bronze vane over a creased mound, no head or face." },
+      "tavin-ledgekin": { check: "agrees", evidence: ["src/characters/tavin-ledgekin.md", "the pale, high-reflectance colour of a high-terrace strain"], note: "Filed 26 October 2026 (round 1, his pick): one pale vane over a creased mound, no head or face." },
     },
   },
   {
@@ -229,6 +232,7 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/veyr-basaltborn.md", "The load-bearing structure is an external lattice of fine chitinous members"],
     portraits: {
+      "oshek-var": { check: "agrees", evidence: ["src/characters/oshek-var.md", "an open lattice of fine dark iridescent struts"], note: "Filed 26 October 2026 (round 2, his pick): struts of the lattice at a seam, no hub and no eyes in frame." },
       "qiren-tal": { check: "agrees", evidence: ["src/characters/qiren-tal.md", "The body is an open lattice of fine dark iridescent struts with no solid trunk", IMAGES_FILE, "Keep the filed portrait for now"], note: "The body matches; the filed frame is kept with a recorded gap, since every round since 10 October drew the lattice as a rendered spider." },
     },
   },

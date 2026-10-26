@@ -1820,5 +1820,15 @@ after drawing.
 - **Source:** `src/lore/planets/pelagos-minor.md` and *The Order of Evacuation* (S01E03C04): the equatorial basin, the escarpment above the floodline, three lost launch corridors, the water settled in a false calm over the neighbourhoods; launch cradles per `src/lore/ascent-javelins.md`
 - **References:** none
 - **Prompt / recipe:** of record in `images.md` § 43; not duplicated here.
-- **Run:** one round of four, 26 October 2026. **Variation 3 filed** through `import-image.ps1 -MaxEdge 1600` at strength 1 (1600×893). It passes the § 43 triage in order: no wreckage or bodies, no tower, nobody in frame, nothing of Earth, three straight corridors with the nearest above water and carrying small tilted cradles, the shelters kept and unlit, a pale dawn sky. Variations 1, 2 and 4 drew four corridors, or cradles on the far corridors as well, and were not taken. Dermot saw all four on the contact sheet and said they looked good.
+- **Run:** one round of four, 26 October 2026. **Variation 3 filed** through `import-image.ps1 -MaxEdge 1600` at strength 1 (1600×893). It passes the § 43 triage in order: no wreckage or bodies, no tower, nobody in frame, nothing of Earth, three straight corridors with the nearest above water and carrying small tilted cradles, the shelters kept and unlit, a pale dawn sky. Variations 1, 2 and 4 drew four corridors, or cradles on the far corridors as well, and were not taken. Dermot saw all four on the contact sheet and called them ready for triage.
 
+## 2026-10-26 — Portrait run, two rounds (Opus, desktop)
+
+Nine prompts written in `images.md` §§ 36 to 44 and never generated were run on 26 October 2026 with `node scripts/image-prompts.js --generate --variations 4 --only …`, gemini-3.1-flash-image at 2K, and judged against each entry's own triage; Dermot picked among the frames that passed. Each entry's note in `images.md` records what every round drew.
+
+- **Filed, round 1:** `meril-duskkin.jpg` (variation 4), `tavin-ledgekin.jpg` (3), and the lore header `pelagos-minor.jpg` (3, above).
+- **Filed, round 2** after a rendering revision (Opus): `vela-of-the-seam.jpg` (1), `hollis-orme.jpg` (3), `oshek-var.jpg` (1).
+- **Not filed after two rounds:** `kesta-ul.jpg` and `second-outwork.jpg`, both drawn as tortoises; each needs a body revision.
+- **Refused by the filter twice:** `elsha-rootkin.jpg`.
+- **Held back, not run:** `pekkat.jpg`, `vaurel.jpg` and `rhuven.jpg`, each already past two failed rounds on 24 October and owed a revised prompt.
+- **Prompts of record:** as revised in `images.md` on this date; the generator sent each entry's blockquote verbatim.

@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [veyr, basaltborn, veyr-3, high-gravity, volcanism, engineering, star-rangers, author, non-humanoid, histories-in-their-own-voices]
 description: "A Veyr Basaltborn of the Star Rangers who, at the Survey Archive's asking, wrote the history of their people as their people rate a thing, by what it will carry and where it was struck to find out, closing every part with its rating — the author of the tenth history of a non-human people the record holds in that people's own voice, and the second Veyr the record names."
+image: "oshek-var.jpg"
+image_alt: "Close on part of Oshek Var, a Veyr Basaltborn: fine dark blue-black struts of an open chitinous lattice reach in from the left at irregular angles, their blunt dark tips resting on a pale grey composite housing beside a recessed seam, in soft directional working light."
 known_codex: [what-it-will-carry]
 ---
 
