@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Codex: the Cerebraun history, *What the Limbs Already Were*, by Essaran** (`src/codex/what-the-limbs-already-were.md`, `src/characters/essaran.md`, `src/images/codex/what-the-limbs-already-were.jpg`, `src/lore/cerebraun.md`, `story-bible/open-questions.md`, 2026-10-26, Opus, the weekly pass, stage 3c). The Cerebraun line of the Histories series: the Prime Ganglion's office answers the Survey Archive with a filing, every item in three parts, routine-reading lines beneath some, the display marked as not carried, and the history read limbs first and the voice after. Its drafting officer gets a page. No year, no population, the Union arrangements unpublished, the Sentinel's authorship reserved and open.
+
 - **A night-sky palette for undercover-pets.com** (`scripts/generate-themes.js`, `src/css/theme-pets.css`, 2026-10-26, Opus, at Dermot's request for "a brighter colour scheme", then "science fiction for children"; his pick of three compared). The warm cream and terracotta give way to night-sky navy, star-yellow links and titles, mint for the canon colour and brighter viewpoint stripes. Every pair `check-contrast.js` measures clears WCAG AA with room to spare: body text 16:1, links 12:1, the tightest 7.3:1.
 
 - **The Kingdom of the Five Islands: one sentence repaired** (`src/lore/planets/kingdom-of-the-five-islands.md`, 2026-10-26, Opus, at Dermot's "Yes please make the repair"). The sentence on the founding departure read *a species deeper*, pointed the comparison the wrong way and left an aside unclosed; it now says the departure fell into the same archive gap as the Currach Fleet's arks, only further back. A clarification.

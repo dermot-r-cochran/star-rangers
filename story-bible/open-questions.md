@@ -59,6 +59,62 @@ the bar for him.
 
 ---
 
+## The Cerebraun history, Essaran — the weekly pass of 26 October 2026, stage 3c — DRAFTED same day on Opus (the line is a filing), choices named in the PR, nothing open for him
+
+The Cerebraun line of the *Histories in their own voices* series below, the
+first unticked line in order. Its voice is *the Hegemony's filing*, and a
+filing is Opus's under `CLAUDE.md` (*Which model does which work*: codex
+entries by default, working papers, reports), so this week's line came to
+Opus. Drafted as `src/codex/what-the-limbs-already-were.md`, the twelfth
+entry of the series, with its author's page `src/characters/essaran.md`,
+grounded only in `cerebraun.md`, `cerebraun-hegemony.md`, `planets/meridian.md`,
+`planets/sentinel.md`, `characters/sohrel.md`, `tavesh.md`, `vaurel.md`,
+S03E01C04, the ~2528 filing and the three 2828 Sentinel entries of the
+timeline, and `what-came-in-the-water.md` for the series' frame, with the rest
+marked absent in a *What the Record Does Not Carry* section.
+
+**Why the author is not Sohrel or Tavesh.** The series' habit is a second
+named person of the people, with the first deferred to. Sohrel's three
+centuries on the Sentinel file are a chapter strand, and the 19 October
+settlement on the Cerebraun account of humans already ruled that a doctrinal
+account is *not a document that record produces*; Tavesh holds no office with
+a signature. A filing of the Prime Ganglion's office needs a hand in that
+office, so the author is new: Essaran, who drafts the office's filings to
+outside parties, *they* per the 20 October ruling. The office's filings go
+out under nobody's name; this one carries the drafting officer's at the
+desk's request, and the filing says so.
+
+**How the voice was realised.** Every item is answered in three parts, which
+the acknowledgement tells the reader not to read as revisions. Three items
+and the close carry a line set beneath, written to read as routine caution
+(*objections … are recorded in full*; *a filing closed is a filing, and is
+not to be read as a finding*), Sohrel's second line made the document's
+form; the desk reads each as what it says. Three passages are marked as also
+given in display, and the desk writes *not carried* each time. The history
+is read as the Hegemony reads all history, limbs first and the voice after:
+the period before the Prime Ganglion gets one sentence, *because limbs do
+not file*.
+
+**What it leaves alone.** No year in any reckoning, and no Hegemony date
+converted; the desk's note gives only the record's ~2528 and 2828 UCSD. No
+population or count of worlds. The Union arrangements stay unpublished. The
+Sentinel's authorship is reserved by the office and open in the desk's note,
+and the reason recorded against the file is not supplied. The Hegemony's
+account of humans is not repeated, on the 19 October settlement (A). How the
+Prime Ganglion's capacity is shown stays marked absent (*Social and
+functional order*, choice 2, A), filed as reserved. No home-cluster world,
+lifespan, air or Cerebraun Ranger supplied.
+
+Left open, not decisions:
+
+- **Essaran's portrait.** No prompt is written. A portrait of a Cerebraun is
+  Fable's prompt, and the Vaurel route (a Blender blockout made photographic)
+  is the one that has held the body.
+- **The title card** is made (`make-codex-cover.ps1`, stamp FORMALLY NOTED);
+  nothing owed.
+
+---
+
 ## Galahad learns what Elvira is — the weekly Fable pass of 26 October 2026, stage 3 — DRAFTED as S01E03C06 *No Instrument to Hand*, choices named in the PR, his to overrule
 
 The beat Dermot directed on 25 October (`intake-2026-10-25.md`, *Krenyi blood on human skin*), written as the next chapter of the causeway strand; the reading and what it commits the story to are in `intake-2026-10-26.md`, last section. Nothing in it met the bar for him: the slot (S01E03C06, additive, renumbers nothing), the occasion (a flint while seating the station's chronometer), the second head (Galahad, with Aldera's log as the third), Syra kept off the page, and the sage's gloves as a memory the chapter does not test were each settled by recommendation. Left open, not decisions:
@@ -2123,14 +2179,26 @@ same rule:
     Fliade entry marks open (other communities, the people's own word, the
     boundary feature). No `canon_facts`; the Fliade entry and the glossary's
     *not recorded in any medium the Archive keeps* stay true unchanged.
-- [ ] **Cerebraun** — `src/lore/cerebraun.md`, `src/lore/cerebraun-hegemony.md`,
+- [x] ~~**Cerebraun** — `src/lore/cerebraun.md`, `src/lore/cerebraun-hegemony.md`,
   `src/lore/planets/meridian.md`, `src/lore/planets/sentinel.md`,
   `src/characters/sohrel.md`, `tavesh.md`. Voice: **the Hegemony's filing**,
   the Prime Ganglion's office's register (*formally noted*, *reserved*), the
   three-part answer, the second line beneath that reads as routine caution,
   and the skin-display channel no transcript carries. The Union–Hegemony
   arrangements stay unpublished, the Sentinel's authorship unsettled, and the
-  Hegemony's own dating of anything is not held.
+  Hegemony's own dating of anything is not held.~~ — **drafted 26 October 2026** (Opus, the weekly pass,
+  stage 3c, the line being a filing; PR #NNNN):
+  `src/codex/what-the-limbs-already-were.md`, by Essaran, an officer of the
+  Prime Ganglion's office who drafts its filings to outside parties
+  (`src/characters/essaran.md`, *they*), the fourth Cerebraun the record names
+  and not Sohrel or Tavesh. The office's filing, under its seal and, once,
+  the drafting officer's name; every item in three parts, lines beneath three
+  items and the close, three passages marked as given in display and *not
+  carried*; the history read limbs first and the voice after. No year in any
+  reckoning, no population, the Union arrangements unpublished, the
+  Sentinel's authorship reserved and open. Title card made (stamp FORMALLY
+  NOTED). The section *The Cerebraun history, Essaran* at the top of this
+  file records the choices.
 - [x] ~~**Krenyi** — `src/lore/krenyi.md`, `src/glossary/krenyi.md`,
   `src/characters/syra.md`, `ilvane.md`, `arashobal.md`, `toval.md`,
   `src/codex/the-cloth-as-taught.md`. Voice: **in their own calendar**, in the
