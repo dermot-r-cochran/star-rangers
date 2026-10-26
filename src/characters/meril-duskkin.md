@@ -16,7 +16,7 @@ Meril Duskkin keeps a flood-gate. On [Verdance](/star-rangers/lore/planets/verda
 
 He was bonded into the **Duskkin** lineage in the fenlands, in a settlement the record does not name, in a year it does not hold. The people's page names Duskkin among the kinstrain names an outside observer notices first, beside Farrowkin and Rootkin, and says what such a name is: not a birthplace but the thallenwort lineage a child was bonded into through direct kinbed-to-kinbed contact in infancy, which Verdani culture treats as the foundational kinship act and Verdani law as kinship in the fullest sense it recognises. Every Duskkin he has never met is his kin. His kinbeds run the duller olive-brown of a fenland strain adapted to reduced light beneath marsh mist, which the page gives as a reasonably reliable indicator of kinstrain and home biome and of nothing about him beyond that, and the Verdani caution outsiders against reading more. The record reads no more.
 
-The name is given as the Federation record gives it: a personal name and a kinstrain name, in the order the people's page describes. What *Meril* means, and whether the Verdani give a personal name at bonding or later, the record does not state. The record renders him as *he*, on the translation default; the people's page declares no pronoun system, and the one other Verdani the record names is rendered *she* by the same default.
+The name is given as the Federation record gives it: a personal name and a kinstrain name, in the order the people's page describes. What *Meril* means, and whether the Verdani give a personal name at bonding or later, the record does not state. The record renders him as *he*, on the translation default; the people's page declares no pronoun system, and the record's other Verdani are rendered by the same default.
 
 ## Known History
 
@@ -55,7 +55,7 @@ His age, and the span of a Verdani life, neither stated anywhere; the record hol
 
 - [Verdance](/star-rangers/lore/planets/verdance/), the world, its four biomes, its four countries and the Fourfold Accord, and the flood-gate across a fen channel on its own page
 - [Verdani](/star-rangers/lore/verdani/), the people, for the body the symbiosis requires, the light budget, the fenland strain and the kinstrain names
-- [Isren Farrowkin](/star-rangers/characters/isren-farrowkin/), the Canopy Concord's delegate and the one other Verdani the record names, and [Nobody Present](/star-rangers/seasons/s01/e00/s01e00c08/), where her vanes go out to a low sun
+- [Isren Farrowkin](/star-rangers/characters/isren-farrowkin/), the Canopy Concord's delegate, and [Nobody Present](/star-rangers/seasons/s01/e00/s01e00c08/), where her vanes go out to a low sun
 - [Greenward](/star-rangers/lore/greenward-habitat/), the human ring above Verdance and the watch it keeps and does not report
 - [What a Life Is Built From](/star-rangers/lore/what-a-life-is-built-from/) and [Cross-Biosphere Taxonomy](/star-rangers/lore/cross-biosphere-taxonomy/), for a heredity that passes a partner rather than a gene
 - [The Ledger and the Truce](/star-rangers/lore/the-ledger-and-the-truce/) and [The Forest Is Waiting](/star-rangers/lore/the-forest-is-waiting/), for the steppe and the canopy, the two of Verdance's four countries the record's doctrine pages have reached
