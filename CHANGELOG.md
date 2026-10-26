@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Image prompt: Pelagos Minor's basin after the Collapse** (`story-bible/images.md` § 43, `story-bible/image-prompts.md`, 2026-10-26, Opus, at Dermot's direction). A header prompt for the new planet page. The basin is seen at dawn from the escarpment, six days after the Collapse. Still water fills it, with the drowned streets showing faintly beneath. Three launch aprons with short tilted cradles cross it, the nearest still above the waterline. The end of a row of shelters stands in the foreground. Nobody is in frame, and there is no tower, wreckage or storm sky. Not generated; it waits on the desktop.
+
 - **Lore: *Pelagos Minor*, and why its evacuation order puts women before children** (`src/lore/planets/pelagos-minor.md`, `src/characters/rhuven.md`, `story-bible/open-questions.md`, 2026-10-26, Opus, Dermot's *Option 1*). An extension. The world of *The Order of Evacuation* (S01E03C04) gets its first lore page. The priority order comes from the founding settlement charter, written for a small colony's continuity: those who could bear the next generation, then that generation, then the founders' memory, then all others. It was never used or re-read until the Basin Collapse, so a rule written for continuity damaged it by being kept. Everything else about the world is marked absent. No chapter text changes; Rhuven's page links the new entry.
 
 ## [1.50.0] — 2026-10-25
