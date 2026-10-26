@@ -53,7 +53,7 @@ eleventyComputed:
   {%- endif %}
   {%- if kind.systems %}
   {%- for system in kind.systems %}
-  <h3 class="codex-card__category" id="system-{{ system.id }}">{{ system.heading }}</h3>
+  <h3 class="codex-card__category plural-system__heading" id="system-{{ system.id }}">{{ system.heading }}</h3>
   <div class="codex-grid">
     {%- if system.page %}{{ characterCard(system.page, 4) }}{% endif -%}
     {%- for char in system.members %}{{ characterCard(char, 4) }}{% endfor -%}

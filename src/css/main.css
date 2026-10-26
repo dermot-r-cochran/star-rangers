@@ -1463,6 +1463,18 @@ a:focus {
   letter-spacing: 0.08em;
   margin-bottom: var(--spacing-xs);
 }
+/* A plural system's heading on the characters index: space above it, so it
+   sits with its own cards rather than against the previous system's. */
+.plural-system__heading {
+  margin-top: var(--spacing-xl);
+  margin-bottom: 0;
+}
+.page-intro + .plural-system__heading {
+  margin-top: 0;
+}
+.plural-system__heading + .codex-grid {
+  margin-top: var(--spacing-sm);
+}
 .codex-card__title {
   font-family: var(--font-ui);
   font-size: 1rem;
