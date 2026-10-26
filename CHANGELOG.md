@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Open questions: the 26 October triage** (`story-bible/open-questions.md`, 2026-10-26, Fable, the weekly pass). Every line added or changed since the 19 October triage read against the repository. Settled by Fable, his to overrule: Elsha Rootkin's strain colour (A, the canopy belt), Kettsa and the unnamed Chthonari of S10E01C07 (A, unidentified), nothing owed to the Saltmere page by the Hollis Orme fill, and the Journal entry's spent trigger (draft by 30 November or close). Pelagos Minor's five absences marked as absences. Two stale body sentences corrected against the 14 October rulings. The worklist and the Histories series section untouched; no dilemma met the bar for him.
+
 - **Even spacing for plural systems on the characters index** (`src/characters/index.md`, `src/css/main.css` and the generated themes, 2026-10-26, Opus, at Dermot's note). Each system's heading borrowed a card caption's style, so it sat flush against the previous system's cards and 36px from its own; it now has its own class with the space above it.
 
 - **A setting cue on the next-chapter link** (`src/_includes/chapter.njk`, `src/css/main.css` and the generated themes, 2026-10-26, Opus, at Dermot's note that some chapters lack a bridge or a cue that the setting is about to change). When the next chapter starts a new season or episode, the link says so; when it starts a new episode or moves to a new place, it shows the place and time from the chapter's own front matter. Nothing is written into the prose.

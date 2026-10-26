@@ -45,6 +45,18 @@ nothing in this file is put to him as choices by this triage. Worklists and
 items he deferred in his own words (*fix when a chapter needs it*, *leave it
 until the confirmation pass*, *Unknown*) are left as he left them.
 
+**Triage of 26 October 2026 (Fable).** The same pass over every line added or
+changed since 19 October, under the same rule. Four lines settled by
+recommendation, marked *settled by Fable 26 Oct 2026, his to overrule*:
+Elsha Rootkin's strain colour (A), Kettsa and the unnamed Chthonari of
+S10E01C07 (A), nothing owed to `planets/saltmere.md` by the Hollis Orme fill,
+and the Journal entry's spent trigger. Pelagos Minor's absences marked as
+absences. Two stale body sentences corrected against the 14 October rulings.
+The *his hearing first* history entries, the owed See-also clauses on
+`pelagene-littoral.md` and `ilveth.md`, the 14 October worklist and the
+*Histories in their own voices* section are left as they stand. No line met
+the bar for him.
+
 ---
 
 ## A Deep Clan right-holder of the Stonewake Dominion on Verdance, Tavin Ledgekin — the Fable fill of 26 October 2026 — DRAFTED same day on Fable, choices named in the PR
@@ -154,7 +166,8 @@ leaves him (A) the canopy belt as drafted, recommended, or (B) a high-terrace
 lineage for Elsha, on two grounds: a portrait colour no character yet has,
 and *a third country's person on the record without a farmer or a herd*. This
 page pays the second ground on its own, so B now rests on the first alone;
-both options still stand, and nothing here changes Elsha's page.
+both options still stand, and nothing here changes Elsha's page. *(A settled
+by Fable 26 October 2026, in the Elsha Rootkin section above.)*
 
 **Left for him, not as a decision.** Whether the Verdani ever take a pronoun
 system of their own is a per-species canon decision under the 8 August rule
@@ -165,9 +178,9 @@ that either leaves it standing.
 
 ## Why Pelagos Minor's evacuation order puts women before children — raised 26 October 2026 by Dermot reading S01E03C04 (*"Why women boarded before children in an age of full equality?"*), RULED the same day: Option 1 (Dermot's *"Option 1, draft it as a PR"*)
 
-The chapter states the order three times and gave no reason for it. Three readings were put to him: (1) an inherited charter rule nobody revisited, (2) a carers-first logistics rule with *women* as the charter's stand-in for carers, (3) leave the gap shut. He chose 1. `src/lore/planets/pelagos-minor.md` now carries it: the clause is in the founding settlement charter, for *the continuity of the settlement*, and ranks by what a small colony counted as scarce (those who could bear the next generation, that generation, the founders' memory, all others). *Women* is the founders' proxy for the first place, and the charter does not say so. Never used before the Collapse, never re-read, kept perfectly, and it damaged the continuity it was written for. Still open, marked absent on the page: the founding date and founders, the system and polity, the population, who drafted the clause, and **whether the clause has been amended since 2826 UCSD**, which a later chapter may want.
+The chapter states the order three times and gave no reason for it. Three readings were put to him: (1) an inherited charter rule nobody revisited, (2) a carers-first logistics rule with *women* as the charter's stand-in for carers, (3) leave the gap shut. He chose 1. `src/lore/planets/pelagos-minor.md` now carries it: the clause is in the founding settlement charter, for *the continuity of the settlement*, and ranks by what a small colony counted as scarce (those who could bear the next generation, that generation, the founders' memory, all others). *Women* is the founders' proxy for the first place, and the charter does not say so. Never used before the Collapse, never re-read, kept perfectly, and it damaged the continuity it was written for. Still open, marked absent on the page: the founding date and founders, the system and polity, the population, who drafted the clause, and **whether the clause has been amended since 2826 UCSD**, which a later chapter may want. *Triage 26 October 2026 (Fable):* these five are marked absences on the page under *explain the epistemology, never invent the fact*, filled when a chapter needs one as a proposal in its own PR; none is a decision now.
 
-## A Verdani Ranger, Elsha Rootkin — the fourth daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
+## A Verdani Ranger, Elsha Rootkin — the fourth daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR; the strain colour SETTLED BY FABLE 26 October 2026 (A, his to overrule)
 
 The *A Verdani in or beside the Corps* line of the 14 October worklist
 below (*Peoples the record says serve in the Corps, or could, with no
@@ -303,6 +316,15 @@ put a third country's person on the record without a farmer or a herd;
 the page's *Known History* and § 42's colour clauses would change, the
 rest would not. The Herdlands stay held back under his 14 October ruling
 in either case.
+
+**(A), settled by Fable 26 Oct 2026, his to overrule.** The page is published
+(PR #1500) and nothing needs the change; B would revise a published page's
+*Known History* and § 42's colour clauses, which is neither an extension nor a
+clarification, and the one ground B had beyond colour (*a third country's
+person on the record without a farmer or a herd*) was paid the next day by
+Tavin Ledgekin's page (PR #1507). The Dominion's colour now has a frame of its
+own in § 44. If he wants the first Verdani Ranger pale and high-terrace, the
+change is his to make as a decision, not a drafting choice.
 
 ## The Veyr history, Oshek Var — 25 October 2026, at Dermot's *"Yes, start the Veyr Basaltborn and Meridian sapients histories on Fable"* — DRAFTED same day on Fable, choices named in the PR, his hearing first
 
@@ -752,7 +774,12 @@ since the record does not. It names nothing living in the water, on the
 of contact built machines to the Concord's standard, which the planet's page
 states in the Concord's word and files as convergence: the page marks the
 regime absent and leaves the lore page as it stands (reported in the PR as a
-possible See-also or clarification owed to `planets/saltmere.md`, not made).
+possible See-also or clarification owed to `planets/saltmere.md`, not made;
+**nothing owed, settled by Fable 26 Oct 2026, his to overrule**: planet pages
+list no people, on the Saltmere, Winterbourne and Verdance precedent this
+section already cites, and `planets/saltmere.md`'s own *Aquabots* section already
+files the resemblance as convergence in the Archive's voice, so the page's marked absence of the certifying regime adds nothing the
+lore page needs to answer).
 It does not make the world grim: the page's register is a working trade on a
 kept platform under a high overcast, with the quiet joke about learning the
 hard way exactly once left to the structure.
@@ -2490,7 +2517,7 @@ Settled by Fable under the dilemma-only rule, each his to overrule:
 Not done: no portrait generated (desktop); no intake file for the day, the
 record of the draft being this entry and the PR.
 
-## A Chthonari Ranger, Kettsa — Dermot's direction of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; one line open
+## A Chthonari Ranger, Kettsa — Dermot's direction of 19 October 2026 — DRAFTED same day on Fable, choices named in the PR; the one open line SETTLED BY FABLE 26 October 2026 (A, his to overrule)
 
 Dermot, 19 October 2026: *"start a Chthonari Ranger in the Engineering Corps
 now on Fable (page plus portrait prompt)"*, filling the worklist line below.
@@ -2546,6 +2573,14 @@ members (the one who left Thrum on Eden, `thrum.md`; the one who brought
 Thrum to Drithane in 2827, S02E04C01) are rendered *she* under the earlier
 usage, are not Kettsa, and stay unidentified.
 
+**(A), settled by Fable 26 Oct 2026, his to overrule.** The section itself
+says it is not a dilemma and the page stands without it, so under the
+dilemma-only rule the recommendation is the answer: the chapter names nobody,
+the page claims no chapter, and identifying the two would assert a posting and
+a first appearance no page needs, against *explain the epistemology, never
+invent the fact*. A chapter that needs Kettsa at Eden's Passage proposes B in
+its own PR, revising the page and S10E01C07's cast together.
+
 ## Arashobal, a Krenyi chief of staff — raised 17 October 2026, DRAFTED same day, all readings ruled
 
 `intake-2026-10-17.md`. Drafted from Dermot's note as
@@ -2580,7 +2615,7 @@ Chapter ids allow two digits (`s00`–`s99`), and seasons 90–99 are reserved f
 
 ## Dress, ornament and surface colour of the non-human peoples — `civilian-dress.md`, *Peoples in their own media*, 14 October 2026 — RULED same day, all as recommended
 
-At his two questions of 14 October (*"Dress codes, styles and ornamentation for non-humanoid peoples"*; *"Skin or surface colour variations in non-humanoid peoples"*), each people was worked out from the record, line by line derived or proposed, with principle 15 proposed as the general rule. Five choices are put to him there as options with recommendations: (1) the Pandoid coat, grey or black-and-white markings, A recommended; (2) the four Chthonari portraits alike, vary at the next re-roll or keep one carapace for the people, A recommended; (3) whether a Cerebraun's resting tone is individual or regional, A (individual) recommended; (4) the Pelagene's own role medium, a carried object or a skin display, A (object) recommended; (5) a Verdani token, none with the reason stated or a worn or grown one, A (none) recommended. The proposals stand as recommended until he rules.
+At his two questions of 14 October (*"Dress codes, styles and ornamentation for non-humanoid peoples"*; *"Skin or surface colour variations in non-humanoid peoples"*), each people was worked out from the record, line by line derived or proposed, with principle 15 proposed as the general rule. Five choices are put to him there as options with recommendations: (1) the Pandoid coat, grey or black-and-white markings, A recommended; (2) the four Chthonari portraits alike, vary at the next re-roll or keep one carapace for the people, A recommended; (3) whether a Cerebraun's resting tone is individual or regional, A (individual) recommended; (4) the Pelagene's own role medium, a carried object or a skin display, A (object) recommended; (5) a Verdani token, none with the reason stated or a worn or grown one, A (none) recommended. ~~The proposals stand as recommended until he rules.~~ Ruled the same day, all five as recommended (`civilian-dress.md`, *His choices — ruled 14 October 2026*, his *"All approved as recommended. Sounds good."*); the stale line corrected 26 October 2026.
 
 ## Peoples and settlements the record names but nobody yet lives in: a worklist, raised 14 October 2026, OPEN, fill when a chapter needs one
 
@@ -2631,7 +2666,7 @@ Not on this list, with reasons in that section: the Ollune and the Cerebraun (ma
 
 ## Non-humanoid peoples in the Corps — raised 14 October 2026, RULED same day, all five option A (*"Yes Options A approved for all"*); choice 1 realised on the command page
 
-Dermot, 14 October 2026: *"Non-humanoid people in the Star Rangers organisation"*. Answered people by people in `species-design.md`, *In the Corps — non-human peoples in the Star Rangers, people by people*, each line marked derived, proposed or not established, with a census. Five choices are put there with recommendations, and all are open: (1) the service ages as the human instance, set per physiology by the Medical Corps (recommended), or binding on all; (2) keep the marked absence of any Cerebraun Ranger (recommended), or state that individuals may serve; (3) the Ollune as not established with the reason marked (recommended), or an Ollune serving from a hull; (4) a Prismeri *Ranger liaison posting* as a seconded guild member (recommended), or Prismeri Rangers on the ordinary ladder; (5) adopt the draft principle *the Corps adapts to the Ranger in everything it provides, in nothing it certifies, and says where it cannot* (recommended), or leave it unstated. Choice 1 is a genuine dilemma (Syra at about 150 against the 110 limit); the others are canon or taste calls. The gaps went to the worklist above.
+Dermot, 14 October 2026: *"Non-humanoid people in the Star Rangers organisation"*. Answered people by people in `species-design.md`, *In the Corps — non-human peoples in the Star Rangers, people by people*, each line marked derived, proposed or not established, with a census. Five choices were put there with recommendations, ~~and all are open~~ and all five were ruled A the same day (`species-design.md`, *His choices — ruled 14 October 2026*; the stale *all are open* corrected 26 October 2026): (1) the service ages as the human instance, set per physiology by the Medical Corps (recommended), or binding on all; (2) keep the marked absence of any Cerebraun Ranger (recommended), or state that individuals may serve; (3) the Ollune as not established with the reason marked (recommended), or an Ollune serving from a hull; (4) a Prismeri *Ranger liaison posting* as a seconded guild member (recommended), or Prismeri Rangers on the ordinary ladder; (5) adopt the draft principle *the Corps adapts to the Ranger in everything it provides, in nothing it certifies, and says where it cannot* (recommended), or leave it unstated. Choice 1 is a genuine dilemma (Syra at about 150 against the 110 limit); the others are canon or taste calls. The gaps went to the worklist above.
 
 ## Characters for the Knarr Line and the Tally — Dermot's direction of 14 October 2026 — DRAFTED same day, choices named in the PR
 
@@ -2719,6 +2754,15 @@ mention the tagline once or not at all.
 polities PR and the 19 October triage PR (this file's own) each carry
 decisions Fable settled, recorded in their bodies. The entry is drafted at
 the next release cut; the 30 November drop date stands only if no cut comes.
+
+*26 October 2026 (Fable):* five release cuts have come since the trigger was
+met (1.46.0 to 1.50.0, 21 to 25 October) and no entry is drafted, so the
+trigger is spent and the *next release cut* clause has lapsed. **Settled by
+Fable 26 Oct 2026, his to overrule:** the entry is drafted at the next Fable
+session with the capacity for it (a Journal entry, not this triage's work),
+with the worked cases now plentiful (every daily fill since 19 October names
+the choices it settled in its PR body); the 30 November 2026 drop date stands,
+and if no draft exists by then this section closes with that reason.
 
 ## The four polities' populations — raised 10 October 2026, RULED same day (*Option 1, Celtic Union has better diplomatic ties the the Federation and Hegemony*)
 
