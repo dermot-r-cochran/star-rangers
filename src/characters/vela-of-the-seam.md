@@ -9,6 +9,8 @@ aliases:
   - "Vela"
 tags: [pelagene, nerath, ocean-world, pressure-adapted, star-rangers, threshold-station, author, non-humanoid, histories-in-their-own-voices]
 description: "A Pelagene Littoral of the Star Rangers posted to Threshold Station, who at the Survey Archive's asking gave the history of her people under the words the record's first filers set beside her world, each left standing and marked — the author of the eighth history of a non-human people the record holds in that people's own voice, and the second Pelagene the record names."
+image: "vela-of-the-seam.jpg"
+image_alt: "Close and low on part of Vela of the Seam, a Pelagene Littoral: the near flank of a soft boneless body of deep wet slate-blue folds with paler grey-green crests fills the left of the frame, one small dark fitted shell section seated between the folds. From a band around its middle a spray of fine grey cirri runs across the wet pale deck to lay their tips along the straight dark seam of a long flush housing cover, in the warm haze of a humid station coolant section."
 known_codex: [where-it-was-put]
 ---
 

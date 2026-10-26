@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [human, saltmere, annwyn-system, mooring-towers, aquabots, platform-hulls, civilian, independent, keeper]
 description: "A Saltmere-born keeper of one mooring tower on a world with no land at all, who reads the tower's tension, keeps the log that is the only tide gauge his world has, and is the person its aquabots surface to with a finding they will not certify; the first person of Saltmere the record names, at home in the Annwyn system in 2826 UCSD, on a city that has never stood on bedrock."
+image: "hollis-orme.jpg"
+image_alt: "Hollis Orme, a lean bearded man in a dark sea-grey weather jacket, stands on a pale wet dock at the foot of a tall mooring tower and looks down at a flat, rounded dark grey aquabot riding awash beside the dock. A truss causeway runs from the tower across grey open sea toward a low floating city hull on the horizon, under a flat overcast."
 ---
 
 Hollis Orme keeps a mooring tower. On [Saltmere](/star-rangers/lore/planets/saltmere/) the towers are not infrastructure in the sense a bridge or a seawall is elsewhere; they are the habitat, running continuously and monitored constantly, and the entire difference between a city segment staying where its residents left it that morning and a segment two kilometres off station by evening. Keeping one tower is his trade, and so, without anyone saying so, is keeping one segment of a city where it is. He is the first person of Saltmere the record names, and the Archive calls him the first of nothing else: a mooring tower is somebody's work, as a parish flock or a settlement's shielding is elsewhere in the record.
