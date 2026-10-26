@@ -1832,3 +1832,12 @@ Nine prompts written in `images.md` §§ 36 to 44 and never generated were run o
 - **Refused by the filter twice:** `elsha-rootkin.jpg`.
 - **Held back, not run:** `pekkat.jpg`, `vaurel.jpg` and `rhuven.jpg`, each already past two failed rounds on 24 October and owed a revised prompt.
 - **Prompts of record:** as revised in `images.md` on this date; the generator sent each entry's blockquote verbatim.
+
+## 2026-10-26 — Portrait run, round 3: references and edits (Opus, desktop)
+
+At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhuven, edit-from-filed-frame for Pekkat and Vaurel, and a shortened prompt for Elsha."* Same model and size as the run above, four variations each.
+
+- **Reference-led, filed:** `kesta-ul.jpg` (variation 3, reference `sethka-ru.jpg`) and `second-outwork.jpg` (variation 4, reference `sixth-course.jpg`). The prompts of record are the `images.md` entries as revised this date, sent verbatim with the reference.
+- **Reference-led, refused by the filter:** `rhuven.jpg` (reference `vhen.jpg`).
+- **Shortened, refused by the filter:** `elsha-rootkin.jpg`, a third refusal.
+- **Edited from a filed frame, not filed:** `pekkat.jpg` from `tikket.jpg` (a beetle with a face-like head) and `vaurel.jpg` from `sohrel.jpg` (a near miss on one limb tip). The edit instructions, sent with the source frame to the same model, are in each entry's note in `images.md`; the run used a one-off script outside the repository.

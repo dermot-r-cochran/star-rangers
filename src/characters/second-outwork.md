@@ -9,6 +9,8 @@ aliases:
   - "Second Outwork of the Long Shelf"
 tags: [meridian, long-shelf, crustacean, halyx-system, cerebraun-hegemony, sentinel, author, non-humanoid, histories-in-their-own-voices]
 description: "A Meridian person of the Long Shelf reef-city who strikes the council's petitions on the city where the relay station's channel hears, and who struck, at the Survey Archive's asking, the council's history of itself in its exact shape, the strike and the water after — the author of the eleventh history of a non-human people the record holds in that people's own voice, and the second Meridian person the record names."
+image: "second-outwork.jpg"
+image_alt: "Part of Second Outwork, a Meridian person, close in dim green water: a long body of overlapping dark mineral-grey plates, scratched and matte, with a smooth armoured hood set with a row of small sense-pits, short jointed limbs gripping a pale grey-green course of grown lattice, and one heavy forelimb ending in a single blunt rounded end laid on the course. Struts of the reef-city lattice fade into the green beyond."
 known_codex: [what-came-in-the-water]
 ---
 
