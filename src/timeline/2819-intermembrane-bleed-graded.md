@@ -3,6 +3,7 @@ layout: base.njk
 title: "Intermembrane Bleed Graded Against the Boundary Types"
 timestamp: "~2819 UCSD"
 sort_order: 17
+era: "2800-2825"
 summary: "The Survey Corps names the coupling behind Etheric interference and grades it against the Boundary Types already used for drift: Membrane Resonance at Type II, Intermembrane Bleed at Type III. Every boundary zone on the books is fixed as a narrowing between universes."
 tags: [survey-corps, intermembrane-bleed, membrane-resonance, etheric, boundary, post-11-manifold, interval, cosmology, history]
 ---

@@ -3,6 +3,7 @@ layout: base.njk
 title: "Aldera Reaches the Marsh Causeway"
 timestamp: "2822 UCSD, Deep Winter"
 sort_order: 40
+era: "2800-2825"
 summary: "Months after leaving Dún Rí, Aldera reaches the Marsh Causeway on Nessa's direction and begins logging the boundary zone alone, before Elvira ever arrives."
 tags: [causeway, aldera, boundary, arrival]
 ---

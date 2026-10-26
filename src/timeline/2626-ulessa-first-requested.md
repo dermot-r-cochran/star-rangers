@@ -3,6 +3,7 @@ layout: base.njk
 title: "A Mnemari Treaty-Witness First Requested"
 timestamp: "Shortly before 2626 UCSD"
 sort_order: -1995
+era: "2543-2799"
 summary: "The Federation assembly first requests Ulessa, a Mnemari of Ilenne, as a witness to a session revisiting an old compact. By 2826 UCSD she has been requested for a little over two centuries."
 tags: [mnemari, ilenne, federation-of-sentient-beings, ulessa, treaty-witness]
 ---

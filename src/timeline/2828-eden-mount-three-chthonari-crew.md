@@ -3,6 +3,7 @@ layout: base.njk
 title: "A Chthonari Crew's Log Line on Eden's Mount Three"
 timestamp: "2828 UCSD, Spring"
 sort_order: 138
+era: "2826-onward"
 summary: "A Federation contractor crew of four Chthonari, on its first posting off the Undersong Belt, hears one of Eden's fold-approach mounts carrying more than its certification names. The joint inspection that follows finds old damage under the plating."
 tags: [chthonari, undersong-belt, federation-of-sentient-beings, eden, kattik, tekka, tsikk, tikket, orbital-five-o]
 ---

@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Federation's Seat on the Oversight Council First Filled"
 timestamp: "2791 UCSD"
 sort_order: -350
+era: "2543-2799"
+major: true
 summary: "The Federation of Sentient Beings fills the first non-voting seat on the Star Rangers' Oversight Council, within a generation of contact and after the first renewal of the material-support compact."
 tags: [federation-of-sentient-beings, oversight-council, star-rangers, history]
 ---

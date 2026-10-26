@@ -3,6 +3,7 @@ layout: base.njk
 title: "A Telling Told at the Line"
 timestamp: "2834 UCSD"
 sort_order: 160
+era: "2826-onward"
 summary: "In the Fliade survey's fourth year, one of the Told speaks at the line to one of the up-people, and the survey party hears it and does not record it. The Told no longer hold the up-people to be people who have not been told."
 plain: "In 2834, the team's fourth year, one of the Told said something to the team at the line where the team knocks. The team heard it and did not record it, so the record does not have the words. After that, the Told no longer called the team people who have not been told."
 tags: [fliade, pandoids, survey-corps, first-contact, below-the-roof, the-told]

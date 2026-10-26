@@ -3,6 +3,7 @@ layout: base.njk
 title: "The First Revisit to Counterpane"
 timestamp: "~2817 UCSD"
 sort_order: 15
+era: "2800-2825"
 summary: "The Survey Corps returns to the surveyed membrane of Counterpane with the same three sealed sources, braids them on the same bench, and carries the value home as cargo. The reading is confirmed at this revisit and every one after it, on a cadence that reaches the seventh in the spring of 2829."
 tags: [counterpane, archecluster, survey-corps, calibration, fold-transit, ingrid-halvorsen, cosmology, history]
 ---

@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Single Route into Deadwater Certified"
 timestamp: "~2803 UCSD"
 sort_order: -230
+era: "2800-2825"
+major: true
 summary: "The one fold route into the membrane the survey crews name Deadwater is certified, and a Survey Corps platform is placed at the far staging. No corridor forms there, no relocation lock holds, and no second route has been found since."
 tags: [deadwater, survey-corps, fold-transit, quantum-space-harmonics, scope-of-physical-law, cosmology, history]
 ---

@@ -3,6 +3,7 @@ layout: base.njk
 title: "Subsea Cable Warden Programme Established"
 timestamp: "~2041 CE (2241 UCSD)"
 sort_order: -8000
+era: "before-2543"
 summary: "A classified multinational coalition establishes the Subsea Cable Warden Programme — autonomous deep-ocean vehicles tasked with protecting Earth's global fibre-optic cable network. Not publicly acknowledged for 187 years."
 tags: [earth, history, pre-expansion, pre-usc, cable-network, drones, subsea, classified]
 ---

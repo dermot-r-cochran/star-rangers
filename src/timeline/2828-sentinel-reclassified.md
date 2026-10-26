@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Sentinel Reclassified"
 timestamp: "2828 UCSD, Late Winter"
 sort_order: 136
+era: "2826-onward"
+major: true
 summary: "A Survey Corps principal hears structure in the Sentinel's pulse in Hegemony survey data, the Halyx System's Administrator-Voice authorises independent verification the same night, and the reclassification survives review six days later."
 tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel, tissadelle-shepherd, survey-corps]
 ---

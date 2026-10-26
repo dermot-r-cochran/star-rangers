@@ -3,6 +3,7 @@ layout: base.njk
 title: "Survey Team Arrives at Threshold Station"
 timestamp: "2826 UCSD, Early Autumn"
 sort_order: 100
+era: "2826-onward"
 summary: "Galahad Thorne, Syra, and Rook-7 arrive at Threshold Station and are briefed on eleven years of instrument drift. The survey team is formed."
 tags: [threshold-station, arrival, galahad, syra, rook-7, survey-team]
 ---

@@ -1595,8 +1595,8 @@ a:focus {
   left: 1rem;
   top: 0;
   bottom: 0;
-  width: 2px;
-  background: var(--color-border);
+  width: 0;
+  border-left: 2px solid var(--color-border);
 }
 .timeline-event {
   display: flex;
@@ -1620,10 +1620,11 @@ a:focus {
   font-family: var(--font-mono);
   font-size: 0.8rem;
   color: var(--color-text-muted);
-  white-space: nowrap;
-  flex-shrink: 0;
+  /* A fixed column that wraps: a long date such as "Pre-USC era, early
+     orbital expansion" once pushed its row past a narrow screen. */
+  flex: 0 0 10rem;
 }
-.timeline-event__content {}
+.timeline-event__content { min-width: 0; }
 .timeline-event__title {
   font-family: var(--font-ui);
   font-size: 0.95rem;
@@ -1636,10 +1637,49 @@ a:focus {
   color: var(--color-text-muted);
   font-family: var(--font-ui);
 }
+/* Date-span headings over the timeline, and its two weights: a major public
+   event in full, every other entry as one line with a smaller dot. */
+.timeline-era { margin-top: var(--spacing-xl); }
+.timeline-era__title {
+  font-family: var(--font-ui);
+  font-size: 1.15rem;
+  margin-bottom: var(--spacing-xs);
+}
+.timeline-era__blurb {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  max-width: var(--max-prose);
+  margin-bottom: var(--spacing-sm);
+}
+.timeline-event--major .timeline-event__title { font-size: 1.05rem; }
+.timeline-event--minor {
+  padding: var(--spacing-xs) 0 var(--spacing-xs) 3rem;
+  align-items: baseline;
+}
+.timeline-event--minor::before {
+  left: calc(1rem - 2px);
+  top: calc(var(--spacing-xs) + 7px);
+  width: 4px;
+  height: 4px;
+  /* Drawn by its border so it survives Windows high contrast, which paints
+     over backgrounds; the timeline's rule below does the same. */
+  border: 1px solid var(--color-text-muted);
+  background: var(--color-text-muted);
+}
+.timeline-event__line {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  color: var(--color-text);
+  text-decoration: none;
+}
+.timeline-event__line:hover { text-decoration: underline; }
 
 /* --- Responsive --- */
 @media (max-width: 640px) {
   html { font-size: var(--font-size-root-sm); }
+  .timeline-event { flex-direction: column; gap: 0; }
+  .timeline-event__time { flex: none; }
   .home-hero__title { font-size: 2rem; }
   .site-header { padding: var(--spacing-sm) var(--spacing-md); }
   .main-content { padding: var(--spacing-lg) var(--spacing-md); }

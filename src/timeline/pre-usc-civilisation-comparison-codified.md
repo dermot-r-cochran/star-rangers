@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Three-Era Framework Codified"
 timestamp: "USC era onward (historiography)"
 sort_order: -2000
+era: "2543-2799"
+major: true
 summary: "USC historical scholarship establishes the Three-Era Framework — comparing the 13th, 21st, and 29th centuries — as the canonical lens for understanding the transition from visible to invisible infrastructure, and the philosophical stakes of post-comprehension governance."
 tags: [history, usc, three-era-framework, guild, infrastructure, civilisation, technology, levrils, reclaimers, tafs]
 ---

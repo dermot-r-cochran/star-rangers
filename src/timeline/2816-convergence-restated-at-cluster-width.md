@@ -3,6 +3,7 @@ layout: base.njk
 title: "The Convergence Archetypes Restated at Cluster Width"
 timestamp: "2816 UCSD"
 sort_order: 13
+era: "2800-2825"
 summary: "After the Counterpane review, the Survey Archive restates the AI Safety Archetype and its ecological sibling at archecluster scope. The convergence they name is the one signature the record reads of the tier that authors clusters, and the tier stays inferred."
 tags: [archewright, archecluster, ai-safety-archetype, survey-archive, scope-of-physical-law, counterpane, cosmology, history]
 ---

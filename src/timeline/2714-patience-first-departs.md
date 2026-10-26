@@ -3,6 +3,7 @@ layout: base.njk
 title: "Patience First Departs"
 timestamp: "2714 UCSD"
 sort_order: -1120
+era: "2543-2799"
 summary: "A six-person crew takes the modified survey vessel Patience First past the confirmed transit point Constant Margin proved two years earlier, aiming to investigate the fold terminus itself. The ship does not return."
 tags: [eden, fold-route, patience-first, msc, history]
 ---

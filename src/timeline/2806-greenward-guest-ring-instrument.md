@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Reciprocal Instrument Concluded: Greenward and the Guest Ring"
 timestamp: "~2806 UCSD"
 sort_order: -200
+era: "2800-2825"
+major: true
 summary: "The Federation of Sentient Beings and the Star Rangers conclude the reciprocal instrument by which each keeps a resident ring above the other's people: Greenward above Verdance, and the Guest Ring."
 tags: [federation-of-sentient-beings, verdance, verdani, greenward-habitat, the-guest-ring]
 ---

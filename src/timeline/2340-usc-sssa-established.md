@@ -3,6 +3,8 @@ layout: base.njk
 title: "USC Founded; Solar System Safety Standards Authority Established"
 timestamp: "~2140 CE (2340 UCSD)"
 sort_order: -4900
+era: "before-2543"
+major: true
 summary: "The United Space Consortium is founded from the Navigation and Trade Accords, and consolidates off-world safety certification bodies into the Solar System Safety Standards Authority — with United Space Industry Standards as its largest component."
 tags: [usc, united-space-consortium, history, governance, sssa, safety-corps, standards, certification]
 ---
