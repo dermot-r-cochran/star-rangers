@@ -13,7 +13,7 @@ image: "bram-tollick.jpg"
 image_alt: "A boy of about fourteen in a plain grey wool tunic and leather belt, both hands on a heavy timber bar across a stone doorway in an old keep, looking away along a dark empty hall, grey daylight on his face"
 ---
 
-Bram Tollick keeps a door. The [Casimor watch-post](/star-rangers/lore/planets/kingdom-of-the-five-islands/) on Krilzat is the one hereditary command in the Kingdom that still means something on the ground, held on service rather than blood and filled the way the Sergeant tier has always been filled, and the service it holds is the Castle: the old keep inside the watch's own stone, with one door, which the watch has kept since before the Kingdom's count of monarchs begins. Bram is the keeper's son and has had the bar of that door in his hands since he could reach it.
+Bram Tollick keeps a door. The [Casimor watch-post](/star-rangers/lore/planets/kingdom-of-the-five-islands/) on Krilzat is the one hereditary command in the Kingdom, handed keeper to keeper, that still means something on the ground, held on service rather than blood and filled the way the Sergeant tier has always been filled, and the service it holds is the Castle: the old keep inside the watch's own stone, with one door, which the watch has kept since before the Kingdom's count of monarchs begins. Bram is the keeper's son and has had the bar of that door in his hands since he could reach it.
 
 ## What the Record Holds
 
