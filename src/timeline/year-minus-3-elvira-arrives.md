@@ -3,6 +3,7 @@ layout: base.njk
 title: "Elvira Arrives at the Marsh Causeway Outpost"
 timestamp: "2823 UCSD, Early Spring"
 sort_order: 50
+era: "2800-2825"
 summary: "Elvira arrives at the Marsh Causeway outpost and begins independent boundary monitoring after her predecessor departs under undisclosed circumstances."
 tags: [causeway, boundary, elvira]
 ---

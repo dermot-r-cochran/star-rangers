@@ -3,6 +3,7 @@ layout: base.njk
 title: "The Long Shelf Asks to Be Consulted"
 timestamp: "2828 UCSD, Early Spring"
 sort_order: 137
+era: "2826-onward"
 summary: "The council of Meridian's Long Shelf reef-city petitions to be consulted on the Sentinel, the first such request from outside the Hegemony. Its analysts' comparison finds resemblance and establishes nothing further."
 tags: [meridian, long-shelf, cerebraun-hegemony, sentinel, halyx-system, sohrel, sixth-course, tavesh]
 ---

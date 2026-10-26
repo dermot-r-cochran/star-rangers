@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Outer Stations Consolidation Hearing"
 timestamp: "2719 UCSD"
 sort_order: -1070
+era: "2543-2799"
+major: true
 summary: "A hearing convened to assess the Military Space Command's operational adequacy runs six months instead of three weeks, produces a formal finding of structural inadequacy — and one honestly volunteered sentence from General Krast that outruns every technical finding it also produces."
 tags: [msc, krast, consolidation-hearing, history]
 ---

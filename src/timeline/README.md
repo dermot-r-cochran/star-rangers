@@ -6,6 +6,10 @@ Timeline entries are the one content type without a dedicated layout or scaffold
 
 Filenames carry the date or relative position for people (`2723-star-rangers-charter.md`, `year-minus-3-elvira-arrives.md`, `pre-usc-…`); `sort_order` is what the site actually uses. The `year-minus-` filenames are permalinks and stay, but the relative *Year -N* labels they once carried in text were retired on 2026-09-06: every date in an entry is now absolute — `<year> UCSD`, and for events before the standard's adoption an AD or CE date, with the UCSD conversion beside it where the record gives one. Dates and elapsed-time figures are where contradictions hide; `story-bible/canon-consistency-audit-2026-07.md` records the last sweep, and a genuine chronology error is a fix, never diegetically excused.
 
+Every entry names its `era` (since 2026-10-26), one of `before-2543`, `2543-2799`, `2800-2825` or `2826-onward`; `index.md` groups entries under those date-span headings (`lib/index-grouping.js`). An entry may carry `major: true`, for an event at the scale of a people or a polity; the index shows it in full and every other entry as one line, its date and title. Which events are major is Dermot's call.
+
+Below the dated spans, **Undated in the record** lists major events in other peoples' histories that the record holds but sets no year to. They live in `index.md`'s own `undated:` front matter rather than as entries, since an entry needs a `sort_order` and these have no place in the sequence; each line restates the record and links the people's lore page. When the record gains a year for one, it becomes an ordinary entry and leaves the list.
+
 A timeline page acquires the tier gate by its tags, like any topic page.
 
 An entry may carry an optional `plain:` line (since 2026-10-05): a plain-language summary that `index.md` shows in place of `summary` on a children's-tier build, where the index also opens with a plain intro. An entry tagged into a children's edition (`undercover-pets.com`) should have one, written to the entry as published and never as a second account of it, the same rule the glossary's `plain:` lines follow.

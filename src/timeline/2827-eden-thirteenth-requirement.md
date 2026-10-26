@@ -3,6 +3,7 @@ layout: base.njk
 title: "Eden's Compliance Framework Gains a Thirteenth Requirement"
 timestamp: "2827 UCSD, Late Summer"
 sort_order: 130
+era: "2826-onward"
 summary: "Twelve requirements since the Military Space Command's response to the Constant Margin transit of 2712, Eden's compliance framework gains a thirteenth, extending loose-article control to every deck area outside a registered berth or sealed store and citing the fold-proximate monitoring baseline. The detective bureau's evidence shelf is registered as a sealed store before anything on it is lost."
 plain: "Eden has a list of rules for keeping the station safe. It had twelve rules for more than a hundred years. In the late summer of 2827 it got a thirteenth: anything small left lying about, on any deck, is tidied away by the cleaning machines at night and put in lost property. The detectives' shelf of evidence counted as lying about, until it was registered as a locked store, just in time."
 tags: [eden, compliance, orbital-habitats-compact, wendell-albercombe, history, undercover-pets.com]

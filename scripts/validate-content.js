@@ -94,6 +94,18 @@ function checkAgainstSchema(data, schema) {
     }
   }
 
+  for (const field of schema.booleans || []) {
+    if (data[field] !== undefined && typeof data[field] !== "boolean") {
+      problems.push(`field "${field}" must be true or false, got ${JSON.stringify(data[field])}`);
+    }
+  }
+
+  for (const [field, allowed] of Object.entries(schema.enums || {})) {
+    if (!isBlank(data[field]) && !allowed.includes(data[field])) {
+      problems.push(`field "${field}" must be one of ${allowed.join(", ")}, got ${JSON.stringify(data[field])}`);
+    }
+  }
+
   return problems;
 }
 

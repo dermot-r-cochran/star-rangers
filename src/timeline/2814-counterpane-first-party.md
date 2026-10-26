@@ -3,6 +3,7 @@ layout: base.njk
 title: "The First Party on Counterpane's Membrane"
 timestamp: "2814 UCSD, Late Autumn"
 sort_order: 5
+era: "2800-2825"
 summary: "The Survey Corps' first party on one membrane of a neighbouring archecluster logs nothing anomalous for ninety days, and then a routine correlation calibration returns a residual that survives every predicted correction. Syra files it as survives correction and declines a softer word."
 tags: [counterpane, archecluster, survey-corps, calibration, fold-transit, syra, krenyi, cosmology, history]
 ---

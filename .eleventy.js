@@ -22,7 +22,7 @@ const {
 } = require("./lib/classify-content");
 const { threadForSeason, DEFAULT_REFERENCE_DOMAIN } = require("./lib/storyline-threads");
 const { statusKey } = require("./lib/status-key");
-const { byTitle, groupCharacters, groupLore } = require("./lib/index-grouping");
+const { byTitle, groupCharacters, groupLore, groupTimeline } = require("./lib/index-grouping");
 const { findArchiveBacklinks } = require("./lib/archive-backlinks");
 const { findArchiveCompanions } = require("./lib/archive-companions");
 const { getEdition, validateEditions, PRESENTATION_MODES, editionForDomain } = require("./lib/editions");
@@ -378,6 +378,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("byTitle", (items) => byTitle(items));
   eleventyConfig.addFilter("groupCharacters", (items) => groupCharacters(items));
   eleventyConfig.addFilter("groupLore", (items) => groupLore(items));
+  eleventyConfig.addFilter("groupTimeline", (items) => groupTimeline(items));
 
   // Distinct season numbers (sorted) that have at least one published
   // chapter in the given thread id. Templates use its length to decide

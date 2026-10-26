@@ -3,6 +3,7 @@ layout: base.njk
 title: "Boundary Readings Classified as Etheric Interference"
 timestamp: "~2780 UCSD"
 sort_order: -460
+era: "2543-2799"
 summary: "Survey Corps analysts begin classifying the readings that will not recalibrate away at boundary posts as Etheric interference, filed beside instrument drift. A symptom is named; the coupling that produces it is not."
 tags: [survey-corps, etheric, boundary, instrument-drift, overfold, cosmology, history]
 ---

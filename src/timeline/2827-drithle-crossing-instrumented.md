@@ -3,6 +3,7 @@ layout: base.njk
 title: "The Drithle Crossing Instrumented"
 timestamp: "2827 UCSD, Spring (Eden reckoning)"
 sort_order: 120
+era: "2826-onward"
 summary: "The Survey Corps returns to Drithane to instrument a crossing itself. The survey record states a ground-coupled infrasound signature for the drithle, confirmed by instrument and by a vessik together, and enters as an open question whether the valley's animals quiet on crossing nights because they feel it."
 plain: "The Survey Corps went back to Drithane to measure a crossing night with instruments. They found that the sparks burning up high in the sky press on the air, and the air presses on the ground, very lightly, for as long as the crossing lasts. A small animal called Thrum, who hears through the ground instead of through the air, heard it too. Nobody knows yet whether the valley's animals go quiet because they can feel it. The record says that is still a question."
 tags: [drithane, celtic-union, survey-corps, drithle, thrum, chthonari, undercover-pets.com]

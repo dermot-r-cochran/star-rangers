@@ -3,6 +3,8 @@ layout: base.njk
 title: "Eden's Fold Route Confirmed"
 timestamp: "2712 UCSD"
 sort_order: -1140
+era: "2543-2799"
+major: true
 summary: "The first unauthorised expedition from Eden Space Habitat traverses the natural fold route, confirming extrasolar transit. The MSC classifies the data."
 tags: [eden, fold-route, constant-margin, msc, history]
 ---

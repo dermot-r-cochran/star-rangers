@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Hegemony's Reason Put on the Record"
 timestamp: "2828 UCSD, Late Spring"
 sort_order: 139
+era: "2826-onward"
+major: true
 summary: "Directed to put the Sentinel's authorship to Meridian's reef-cities or say why not, Administrator-Voice Sohrel states the reason for the first time, and the Prime Ganglion's office reserves the question to itself."
 tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel, tissadelle-shepherd]
 ---

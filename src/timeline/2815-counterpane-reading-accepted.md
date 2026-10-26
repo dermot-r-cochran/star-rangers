@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Counterpane Reading Accepted at Home"
 timestamp: "2815 UCSD, Summer"
 sort_order: 8
+era: "2800-2825"
+major: true
 summary: "On the Survey Corps Standards Office's calibration floor the first party's instruments pass audit and the same bench, braided at home, returns to budget. The Science Corps review finds that identical at base was only ever stated within the local archecluster, and the residual is filed as a reading at the width of one membrane."
 tags: [counterpane, archecluster, survey-corps, science-corps, calibration, scope-of-physical-law, yusuf-adair, cosmology, history]
 ---

@@ -3,6 +3,7 @@ layout: base.njk
 title: "Tsittak Found at the Exit"
 timestamp: "2794 UCSD"
 sort_order: -320
+era: "2543-2799"
 summary: "A Ranger survey vessel comes out of an uncharted quiet-zone tunnel beside Tsittak, a Chthonari settlement in deep interstellar space, and is hailed and asked whether the crew needs anything."
 tags: [tsittak, chthonari, quiet-zone-tunnel, survey-corps, federation-of-sentient-beings, deep-space]
 ---

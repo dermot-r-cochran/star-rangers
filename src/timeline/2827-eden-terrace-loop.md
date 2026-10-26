@@ -3,6 +3,7 @@ layout: base.njk
 title: "The Terrace Loop Fails, and the Eden Strawberry Is Lost"
 timestamp: "2827 UCSD, Early Autumn"
 sort_order: 135
+era: "2826-onward"
 summary: "The loop chiller on Eden's six fruit terraces fails for three days and a water mould spreads through the shared loop. The Warden files root disease at sixty-eight in a hundred and asks for the terraces to be isolated; the Terrace Committee votes four to one to wait for the culture; the Mayor's review closes the loop on the fourth day, and the culture confirms on the fifth. Every Eden strawberry on the terraces dies. One plant on the children's row survives."
 plain: "Eden grows fruit on six terraces that share one water loop. In the early autumn of 2827 the water ran too warm for three days and a mould got into it. The Warden, the station's own mind, said the plants were probably sick, sixty-eight chances in a hundred, and asked for the water to be shut off. The committee that holds the taps decided to wait until it was sure. By the time the water was shut off, every strawberry plant on the terraces had died, except one that a boy called Lev had already taken home."
 tags: [eden, terraces, eden-warden, lev, imogen-petrakis, tomas-brennock, undercover-pets.com]

@@ -3,6 +3,8 @@ layout: base.njk
 title: "Star Rangers Charter Signed"
 timestamp: "2723 UCSD"
 sort_order: -1030
+era: "2543-2799"
+major: true
 summary: "The Star Rangers charter is signed under the Consolidation Accords, creating an independent boundary-operations body with authority to act without approval-chain delay."
 tags: [star-rangers, charter, msc, consolidation-accords, founding, history, safety-corps, sssa]
 ---

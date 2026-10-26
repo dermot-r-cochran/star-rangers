@@ -3,6 +3,7 @@ layout: base.njk
 title: "A Krenyi Analyst's Account of the Cloth Received"
 timestamp: "2825 UCSD"
 sort_order: 80
+era: "2800-2825"
 summary: "The Survey Archive's Doctrinal Division receives Ilvane's account of what a Levril taught her over four sittings, the source behind the registry's entries on Wholecloth and Selvage."
 tags: [krenyi, ilvane, levril, champions, wholecloth, selvage, survey-corps, archive-doctrine]
 ---

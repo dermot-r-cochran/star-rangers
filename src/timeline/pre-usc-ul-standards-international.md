@@ -3,6 +3,8 @@ layout: base.njk
 title: "United Space Industry Standards Formed"
 timestamp: "Pre-USC era, early orbital expansion (~22nd century CE)"
 sort_order: -7500
+era: "before-2543"
+major: true
 summary: "A global safety certification body merges with European and Asian standards organisations to form United Space Industry Standards, extending its mandate to all human-occupied off-world environments."
 tags: [earth, history, pre-expansion, pre-usc, standards, safety-corps, certification]
 ---

@@ -10,8 +10,11 @@ const {
   groupPluralSystems,
   pluralSystemProblems,
   groupLore,
-  LORE_CATEGORY_ORDER
+  LORE_CATEGORY_ORDER,
+  groupTimeline,
+  TIMELINE_ERA_HEADINGS
 } = require("../lib/index-grouping");
+const { TIMELINE_ERAS } = require("../lib/content-schema");
 
 const item = (data) => ({ data });
 const titles = (items) => items.map((i) => i.data.title);
@@ -124,4 +127,19 @@ test("the validator's plural-system checks", () => {
     page({ id: "f", plural_system: true, system: "a" }, "f.md")
   ]);
   assert.deepEqual(problems.map((p) => p.relativePath), ["c.md", "d.md", "e.md", "f.md"]);
+});
+
+test("timeline entries group under their date spans, in order, keeping their own order and dropping empty spans", () => {
+  const groups = groupTimeline([
+    item({ title: "Charter", era: "2543-2799" }),
+    item({ title: "Life", era: "before-2543" }),
+    item({ title: "Hearing", era: "2543-2799" }),
+    item({ title: "Arrival", era: "2826-onward" })
+  ]);
+  assert.deepEqual(groups.map((g) => g.id), ["era-before-2543", "era-2543-2799", "era-2826-onward"]);
+  assert.deepEqual(titles(groups[1].items), ["Charter", "Hearing"]);
+});
+
+test("every era the schema allows has a heading, and no heading is unknown to the schema", () => {
+  assert.deepEqual(TIMELINE_ERA_HEADINGS.map((h) => h.key), TIMELINE_ERAS);
 });

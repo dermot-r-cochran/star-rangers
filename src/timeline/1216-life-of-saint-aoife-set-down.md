@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Life of Saint Aoife Set Down at Cill Aoife"
 timestamp: "1216 AD (1416 UCSD)"
 sort_order: -9000
+era: "before-2543"
+major: true
 summary: "At the request of his community, Brother Daire sets down the only surviving account of Aoife's vision at the thorn well — the earliest dated event on this timeline, and the document the Celtic Union would carry off Earth eleven centuries later."
 tags: [earth, history, pre-usc, pre-expansion, brother-daire, saint-aoife, celtic-union, hagiography, culture, levril]
 ---
