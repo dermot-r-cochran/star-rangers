@@ -5280,6 +5280,9 @@ at his word. What the treatment leaves his is below.
   (recommended); no convergence; or the officer's arrival read from below.
 - From the eighteenth section: whether Five-O's second season carries the
   handover beat, and who on the Rangers' side is the one called in.
+  *Bearing on it (26 October 2026, `intake-2026-10-26.md`):* he lost interest
+  in the Hawaii Five-O series *"either too violent or too formulaic"*, so the
+  season refuses both: no case-of-the-week loop that resolves the same way twice.
 
 ## Language design — `language-design.md`, written 8 September 2026 at Dermot's line (`intake-2026-09-08.md`, seventeenth section) — OPEN
 
