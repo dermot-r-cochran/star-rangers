@@ -62,30 +62,34 @@ const THEMES = {
   },
   pets: {
     label: 'Fian Ilchruinne — "Pets" Theme (undercover-pets.com)',
-    description: "Warm, friendly re-skin.",
+    // Science fiction for children since 2026-10-26 (Dermot: "Third palette
+    // looks great now", after a sunny and a playful one were compared):
+    // night-sky navy, star-yellow links and titles, mint for canon, every
+    // pair well above WCAG AA.
+    description: "Night-sky science-fiction re-skin for the children's edition.",
     root: {
-      "--color-bg": "#fdf6ec",
-      "--color-surface": "#fbead4",
-      "--color-surface-2": "#f6dfc0",
-      "--color-border": "#e8c9a0",
-      "--color-text": "#4a3728",
-      "--color-text-muted": "#715a45",
-      "--color-accent": "#a34726",
-      "--color-accent-hover": "#7f3419",
-      "--color-canon": "#8f540c",
-      "--color-pov-active": "#a34726",
-      "--color-pov-bg": "#fbead4",
-      "--color-skip-bg": "#a34726",
-      "--color-skip-text": "#fdf6ec"
+      "--color-bg": "#0e1838",
+      "--color-surface": "#172656",
+      "--color-surface-2": "#213574",
+      "--color-border": "#3f5bb5",
+      "--color-text": "#f3f6ff",
+      "--color-text-muted": "#c3cdf2",
+      "--color-accent": "#ffd23f",
+      "--color-accent-hover": "#ffe88a",
+      "--color-canon": "#5ee6c8",
+      "--color-pov-active": "#ffd23f",
+      "--color-pov-bg": "#172656",
+      "--color-skip-bg": "#ffd23f",
+      "--color-skip-text": "#0e1838"
     },
     povBlock: {
-      galahad: "#d97a4e",
-      elvira: "#c5638a",
-      aldera: "#7fa872",
-      krenyi: "#d9a94e",
-      thorn: "#c15c4f"
+      galahad: "#7cb4ff",
+      elvira: "#ff8fc8",
+      aldera: "#6ee7a8",
+      krenyi: "#ffd23f",
+      thorn: "#ff8a7a"
     },
-    statusActive: "#4f6b46"
+    statusActive: "#8ef0a0"
   },
   starquest: {
     label: "Fian Ilchruinne — \"Starquest\" Theme",
