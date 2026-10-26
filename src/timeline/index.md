@@ -3,6 +3,59 @@ layout: base.njk
 title: "Timeline"
 eleventyComputed:
   description: "The canonical sequence of events in {{ site.name }} — one fixed history."
+# Major events in other peoples' histories that the record holds but sets no
+# year to (Dermot, 2026-10-26). Each line restates the record (the people's
+# lore page, or the filing note of its Codex history) and adds nothing; a
+# year enters only when the record gains one.
+undated:
+  - people: "Federation of Sentient Beings"
+    event: "The founding compact"
+    note: "Its member worlds date it by their own calendars and their own peoples' records, and the Federation has never insisted on reconciling them."
+    url: "/lore/federation-of-sentient-beings/"
+  - people: "Federation of Sentient Beings"
+    event: "First contact with the Star Rangers"
+    note: "Through the Survey Corps' fold-route mapping, decades after the Rangers' 2723 UCSD charter; the year itself is not fixed."
+    url: "/lore/federation-of-sentient-beings/"
+  - people: "Cerebraun Hegemony"
+    event: "Meridian becomes a Hegemony subject world"
+    note: "Two Hegemony survey missions took the Meridian sapients' reef-cities for geological formations before their sapience was confirmed."
+    url: "/lore/planets/meridian/"
+  - people: "Cerebraun Hegemony"
+    event: "A seat on the Oversight Council declined"
+    note: "Offered a non-voting seat, the Hegemony declined, and has declined each renewed offer since."
+    url: "/lore/cerebraun-hegemony/"
+  - people: "Chthonari"
+    event: "The Undersong Belt becomes a Federation member territory"
+    note: "A documented member territory for generations."
+    url: "/lore/undersong-belt/"
+  - people: "Ilveth"
+    event: "The survey's first landing on Sardain"
+    note: "The landing and the contact that followed from it are undated in the record and stay so."
+    url: "/lore/ilveth/"
+  - people: "Ollune"
+    event: "Cirrane admitted to the Federation"
+    note: "A member world for generations; Ollune agreement-drafting practice was adopted into Federation compact procedure generations ago."
+    url: "/lore/ollune/"
+  - people: "Ovruhn"
+    event: "Thavren becomes a Federation member world"
+    note: "Taken by the chorus's own deliberation, in the chorus's own time; the record fixes the interval no closer than unhurried."
+    url: "/lore/ovruhn/"
+  - people: "Prismeri"
+    event: "The Federation's contact survey of Prismere"
+    note: "Two preliminary species reports, a local year apart, turned out to describe one person at two points in one life. Prismere's charter membership is undated too."
+    url: "/lore/prismeri/"
+  - people: "Serephine Dunekin"
+    event: "The Corps' first meeting with the Serephine Dunekin"
+    note: "Undated and unplaced in the record."
+    url: "/lore/serephine-dunekin/"
+  - people: "Verdani"
+    event: "Verdance joins the Federation"
+    note: "Full membership, represented through the Fourfold Accord on the Federation's rotating assembly."
+    url: "/lore/verdani/"
+  - people: "Veyr Basaltborn"
+    event: "The Corps' first meeting with the Veyr Basaltborn"
+    note: "Undated in the record."
+    url: "/lore/veyr-basaltborn/"
 ---
 <img class="page-hero-image" src="/star-rangers/images/hero/timeline-clock.jpg" alt="Close-up of an old clock face printed on cracked, weathered sepia plaster, its heavy black hands across the numerals nine to two" />
 <h1 class="page-title">Timeline</h1>
@@ -62,3 +115,19 @@ eleventyComputed:
 {% else %}
 <p class="page-intro">No timeline events recorded yet.</p>
 {% endif %}
+
+{%- if undated and undated.length %}
+<section class="timeline-era" aria-labelledby="era-undated">
+  <h2 class="timeline-era__title" id="era-undated">Undated in the record</h2>
+  <p class="timeline-era__blurb">Major events in other peoples' histories that the record holds but sets no year to. Many peoples keep their own reckoning, and the Archive converts no reckoning it does not hold, so these stay out of the sequence above rather than being given a guessed place in it.</p>
+  <ul class="timeline-undated">
+    {%- for item in undated %}
+    <li class="timeline-undated__item">
+      <span class="timeline-undated__people">{{ item.people }}</span>
+      <a class="timeline-event__line" href="/star-rangers{{ item.url }}">{{ item.event }}</a>
+      <p class="timeline-event__desc">{{ item.note }}</p>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}

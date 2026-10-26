@@ -1671,6 +1671,20 @@ a:focus {
   text-decoration: none;
 }
 .timeline-event__line:hover { text-decoration: underline; }
+/* The undated section: no rule and no dots, since nothing in it has a place
+   in the sequence; the people's name stands where a date would. */
+.timeline-undated {
+  list-style: none;
+  padding: 0;
+  max-width: var(--max-prose);
+}
+.timeline-undated__item { padding: var(--spacing-sm) 0; }
+.timeline-undated__people {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
 
 /* --- Responsive --- */
 @media (max-width: 640px) {
