@@ -1811,3 +1811,14 @@ after drawing.
 - **References:** none
 - **Prompt / recipe:** of record in `images.md` § 27; not duplicated here.
 - **Run:** variation 1 filed at strength 1 through `import-image.ps1 -MaxEdge 1600` (issue #1431). Variation 3 failed the modesty bar on its pose; 2 hid the frame behind the body.
+
+## 2026-10-26 — Pelagos Minor, lore header, prompt written (Opus), nothing generated
+
+### pelagos-minor.jpg — prompt written 26 October 2026, NOT GENERATED
+- **Type:** generation, a place (a world's evacuation basin after the Basin Collapse, nobody in frame); header image for `src/lore/planets/pelagos-minor.md`
+- **Tool:** pending; `node scripts/image-prompts.js --generate --only pelagos-minor`
+- **Source:** `src/lore/planets/pelagos-minor.md` and *The Order of Evacuation* (S01E03C04): the equatorial basin, the escarpment above the floodline, three lost launch corridors, the water settled in a false calm over the neighbourhoods; launch cradles per `src/lore/ascent-javelins.md`
+- **References:** none
+- **Prompt / recipe:** of record in `images.md` § 43; not duplicated here.
+- **Run:** none yet; the desktop step is in § 43.
+
