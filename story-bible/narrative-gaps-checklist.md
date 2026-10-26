@@ -2,7 +2,7 @@
 
 What's actually written versus what the story bible and site copy have committed to. **Re-derived from `src/seasons/` on 2026-10-03**, per this file's own standing instruction not to trust it once stale (the previous derivation, 2026-08-10, said 44 chapters; disk said 69). **Re-counted from disk on 2026-10-06**: the opening line below had still said 69, twelve and seven while the table under it said 86, fourteen and eight, and disk said 93. **Re-derived from `src/seasons/` and `lib/storyline-threads.js` on 20 October 2026**, after the Arcs and Threads extractor (`scripts/extract-arcs.js`) reported the counts below as stale: the file said 93 and 94 chapters, disk said 114 (chapter files only, episode `index.md` files excluded). Open questions this raises are indexed in `open-questions.md`.
 
-**114 chapter files exist across fifteen seasons (0 to 14) and eight storyline threads** (counted 2026-10-20: Season 0 six, 1 twenty-four, 2 fifteen, 3 eight, 4 six, 5 six, 6 four, 7 three, 8 two, 9 five, 10 seven, 11 eight, 12 nine, 13 four, 14 seven).
+**118 chapter files exist across fifteen seasons (0 to 14) and eight storyline threads** (counted 2026-10-26: Season 0 six, 1 twenty-seven, 2 fifteen, 3 eight, 4 six, 5 six, 6 four, 7 four, 8 two, 9 five, 10 seven, 11 eight, 12 nine, 13 four, 14 seven; the 20 October count was 114).
 
 ---
 
@@ -30,7 +30,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | Thread | Seasons | Chapters | State |
 |---|---|---|---|
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
-| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 45 | The spine. Ends written; middle thin (S3 eight chapters, five in Episode 1 and three in Episode 2, which opened 4 October 2026); S5 gained its E00 the same day; S1 gained her first viewpoint 7 October 2026 (*Station Time*, S01E01C04) — until then no Season 1 chapter named her |
+| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 49 | The spine. Ends written; middle thin (S3 eight chapters, five in Episode 1 and three in Episode 2, which opened 4 October 2026); S5 gained its E00 the same day; S1 gained her first viewpoint 7 October 2026 (*Station Time*, S01E01C04) — until then no Season 1 chapter named her |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
 | **Orbital Five-O** | 4, 10 | 13 | Season 4 six chapters, two in each of E00 (the Shepherd guest, 4 October 2026, and *Nobody at the Desk*), E01 and E02; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
@@ -156,14 +156,14 @@ Finished prose in the story-bible waiting for a slot; each stays out of
 - [x] **Wender's mentorship of Shepherd** — placed between Seasons 3 and 5
   since 2026-10-03; paid 4 October 2026 by S05E00C01 *Not Asked*, the
   pairing's first meeting, with Wender at Line Captain in 2829.
-- [ ] **Galahad learns what Elvira is** — by her blood on his skin, which
+- [x] **Galahad learns what Elvira is** — by her blood on his skin, which
   burns or irritates a human's (Dermot, 25 October 2026,
-  `intake-2026-10-25.md`, last section). The species fact is on
-  `src/lore/krenyi.md` already; the chapter is the event that makes it
-  hers. Slot after S01E03C05 and unfixed; tensions listed in the intake
-  (she cannot volunteer what she does not know, he already holds the fact,
-  Syra's reading stays unfiled). Her page and his are revised to cite it
-  when it lands; not before.
+  `intake-2026-10-25.md`, last section). Paid 26 October 2026 by S01E03C06
+  *No Instrument to Hand*: a flint, the station's chronometer, her blood on
+  the back of his hand; he says what the file calls it and not what she is;
+  she asks for a finding and writes the mark. Her page and his cite it. Not
+  paid, and not owed by it: what the Dún Rí household knew, and whether any
+  affection forms (the reserved singular exception, still in play, not shown).
 - [ ] **Tissadelle at the terminus; Tobble's downgraded inner codex** — the
   register ruled 27 August (fond farewell, almost no grief), the mechanism
   deliberately unwritten until its chapters (`tissadelle-arc-s6-7.md`).
