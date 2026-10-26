@@ -5,6 +5,8 @@ category: "Locations"
 revealed_by: s01e03c04
 tags: [pelagos-minor, evacuation, policy, locations]
 description: "An inhabited world with an equatorial evacuation basin, whose founding charter set an evacuation order (women, then children, then older adults, then all others) for a small colony's reasons, and which kept that order unread and unrevised until the Basin Collapse of 2826 UCSD put it to use."
+image: "pelagos-minor.jpg"
+image_alt: "Seen at dawn from a dark rock escarpment, a broad flooded basin of still grey water under a pale sky, the low sun on the far rim. The outlines of drowned streets and roofs show faintly beneath the surface. Three straight launch corridors cross the water; the nearest, with a row of small angled cradles, still runs above the waterline toward the near shore, and the two beyond lie awash. A row of plain pale arched shelters stands on the bare ground at the lower left. Nobody is in frame."
 locationType: "Planet"
 ---
 

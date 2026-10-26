@@ -8421,6 +8421,7 @@ Dermot, 26 October 2026, verbatim: *"Write the image prompt for Pelagos Minor"*.
   - **Proposed alt** (to be corrected to the filed frame): *A vast flat basin seen at dawn from the top of a dark rock escarpment, filled rim to rim with still grey water, the faint grid of streets and low rooftops visible beneath its surface; three long straight launch aprons lined with short tilted cradle frames run across it toward the far rim, the nearest just above the waterline and the other two drowned to their cradle tops, while the end of a row of pale temporary shelters stands on the escarpment in the foreground under a clearing winter sky.*
   - **Written 26 October 2026** (Opus); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only pelagos-minor`; four variations, two rounds at most, each round changing one or two named things; judge each at full size in the triage order above; file through `import-image.ps1 -MaxEdge 1600` at strength 1 as `src/images/lore/pelagos-minor.jpg`; add `image:` and `image_alt` to `src/lore/planets/pelagos-minor.md` from the filed frame; register the result in `image-prompts.md`. If both rounds fail, record them here and leave the page without an image.
+  - **Filed 26 October 2026** (Opus, desktop): round 1, variation 3 of four, at strength 1. It passes every triage line; the run is registered in `image-prompts.md`.
 
 ### 44. Missing portraits — Tavin Ledgekin, the first person of Verdance's high terraces the record names (written 26 October 2026, Fable; generation waits on the desktop)
 
