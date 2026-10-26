@@ -21,6 +21,7 @@ He was not the one Aoife confided in most closely. That distinction matters to h
 
 - Community scribe at the monastic settlement of Cill Aoife, Ireland, in the early thirteenth century.
 - Recorded the sole surviving account of [Saint Aoife](/star-rangers/lore/saint-aoife/)'s vision at the thorn well, dated by his own hand to 1216 AD.
+- Named in a leaf of the house's book at Cill Aoife, entered from his own telling, as the witness of an apparition in the village that Aoife refused with a wooden cross, and of something *like a glowing turquoise dove* above her for a moment afterwards. The leaf carries no year: [The Apparition at Cill Aoife](/star-rangers/codex/the-apparition-at-cill-aoife/).
 - No confirmed birth or death date survives; the record that preserves his writing does not trouble itself with preserving his biography.
 - His manuscript was copied and recopied through the medieval and early modern period before a nineteenth-century transcription was carried off Earth by the Currach Fleet's founding scriptorium, 2561–2589 UCSD.
 - The Celtic Union's Ceridwen Archive on [Aethelrock](/star-rangers/lore/planets/aethelrock/) now holds the currently cited copy.
@@ -37,4 +38,4 @@ Daire's own puzzlement is part of the record he left. He notes that Aoife drew a
 
 Nothing in the surviving record suggests Daire ever doubted what Aoife told him. Nothing suggests he was certain, either. He wrote what she permitted him to know, named the parts he didn't understand as not understood, and let the document do whatever work it was going to do without him. It has been doing that work for fourteen hundred years.
 
-See also: [Saint Aoife](/star-rangers/lore/saint-aoife/), [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [The Life of Saint Aoife Set Down at Cill Aoife (timeline)](/star-rangers/timeline/1216-life-of-saint-aoife-set-down/), [The Second Visit to the River Abbey (timeline)](/star-rangers/timeline/year-minus-4-river-abbey-second-visit/).
+See also: [Saint Aoife](/star-rangers/lore/saint-aoife/), [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [The Apparition at Cill Aoife](/star-rangers/codex/the-apparition-at-cill-aoife/), [The Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), [The Life of Saint Aoife Set Down at Cill Aoife (timeline)](/star-rangers/timeline/1216-life-of-saint-aoife-set-down/), [The Second Visit to the River Abbey (timeline)](/star-rangers/timeline/year-minus-4-river-abbey-second-visit/).
