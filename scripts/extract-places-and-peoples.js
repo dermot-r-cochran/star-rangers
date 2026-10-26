@@ -157,6 +157,12 @@ const PLACE_RULES = {
     peoples: ['Humans'],
     evidence: ["Kernowek Reach's charter membership was never in question", 'the visible edge of the world humans can stand on without support']
   },
+  'planets/kharis-belt-iv': {
+    polity: 'unknown',
+    polity_pages: [],
+    peoples: ['Serephine Dunekin'],
+    evidence: ['Kharis Belt IV is the home world of the Serephine Dunekin', 'The record holds no Serephine polity or Federation standing for it.']
+  },
   'planets/kingdom-of-the-five-islands': {
     polity: 'Kingdom of the Five Islands',
     polity_pages: ['planets/kingdom-of-the-five-islands'],
@@ -181,6 +187,12 @@ const PLACE_RULES = {
     peoples: ['Prismeri'],
     evidence: ['a charter member world of the Federation of Sentient Beings', 'Prismere is the homeworld of the Prismeri']
   },
+  'planets/nerath': {
+    polity: 'unknown',
+    polity_pages: [],
+    peoples: ['Pelagene Littoral'],
+    evidence: ['Nerath is the home world of the Pelagene Littoral', 'The record holds no Pelagene polity or Federation standing for Nerath']
+  },
   'planets/quern': {
     polity: 'independent',
     polity_pages: [],
@@ -193,6 +205,12 @@ const PLACE_RULES = {
     peoples: [],
     evidence: ['Saltmere holds no Solar System charter, no membership in the Celtic Union of Planets or the Federation of Sentient Beings']
   },
+  'planets/sardain': {
+    polity: 'unknown',
+    polity_pages: [],
+    peoples: ['Ilveth'],
+    evidence: ['Sardain is the home world of the Ilveth', 'The record holds no Ilveth polity and no Federation standing for Sardain']
+  },
   'planets/sentinel': {
     polity: 'Cerebraun Hegemony',
     polity_pages: ['cerebraun-hegemony'],
@@ -204,6 +222,12 @@ const PLACE_RULES = {
     polity_pages: ['solar-system-concord'],
     peoples: [],
     evidence: ['Thalassa remains a Solar System Defence Command charter world']
+  },
+  'planets/thavren': {
+    polity: 'Federation of Sentient Beings',
+    polity_pages: ['federation-of-sentient-beings'],
+    peoples: ['Ovruhn'],
+    evidence: ['Thavren is the home world of the Ovruhn and a member world of the Federation of Sentient Beings']
   },
   'planets/tir-na-nog': {
     polity: 'Celtic Union of Planets',
@@ -228,6 +252,12 @@ const PLACE_RULES = {
     polity_pages: ['federation-of-sentient-beings'],
     peoples: ['Verdani'],
     evidence: ['Verdance holds full membership in the Federation of Sentient Beings', 'the home world of the Verdani']
+  },
+  'planets/veyr-3': {
+    polity: 'unknown',
+    polity_pages: [],
+    peoples: ['Veyr Basaltborn'],
+    evidence: ['Veyr-3 is the home world of the Veyr Basaltborn', 'The record holds no Veyr polity or Federation standing for it']
   },
   'planets/winterbourne': {
     polity: 'independent',
@@ -309,7 +339,7 @@ const PEOPLE_RULES = {
     evidence: ['a sapient, insectoid people native to the Undersong Belt', 'six-limbed, exoskeletal', 'interact easily with other Federation species in shared facilities', 'tag: federation-of-sentient-beings']
   },
   'ilveth': {
-    homeworld: 'Sardain', homeworld_slug: null,
+    homeworld: 'Sardain', homeworld_slug: 'planets/sardain',
     polity: null, frame: 'not humanoid',
     evidence: ['The Ilveth come from Sardain', 'They are not humanoid']
   },
@@ -334,12 +364,12 @@ const PEOPLE_RULES = {
     evidence: ['a sapient people native to the upper atmosphere of Cirrane', "Cirrane's membership is the Federation's founding sentence tested at full strength."]
   },
   'ovruhn': {
-    homeworld: 'Thavren', homeworld_slug: null,
+    homeworld: 'Thavren', homeworld_slug: 'planets/thavren',
     polity: 'Federation of Sentient Beings', frame: 'not humanoid',
     evidence: ['The Ovruhn come from Thavren', 'They are not humanoid', 'Thavren is a Federation member world.']
   },
   'pelagene-littoral': {
-    homeworld: 'Nerath', homeworld_slug: null,
+    homeworld: 'Nerath', homeworld_slug: 'planets/nerath',
     polity: null, frame: 'non-humanoid',
     evidence: ['The Pelagene Littoral come from Nerath', 'tag: non-humanoid']
   },
@@ -349,7 +379,7 @@ const PEOPLE_RULES = {
     evidence: ['a sapient people native to Prismere', "The frame is a flier's", 'every other catalogued Federation species', 'tag: federation-of-sentient-beings']
   },
   'serephine-dunekin': {
-    homeworld: 'Kharis Belt IV', homeworld_slug: null,
+    homeworld: 'Kharis Belt IV', homeworld_slug: 'planets/kharis-belt-iv',
     polity: null, frame: 'non-humanoid',
     evidence: ['The Serephine Dunekin come from Kharis Belt IV', 'tag: non-humanoid']
   },
@@ -364,7 +394,7 @@ const PEOPLE_RULES = {
     evidence: ['a sapient people native to Verdance', 'A Verdani is not humanoid', 'a Federation seat']
   },
   'veyr-basaltborn': {
-    homeworld: 'Veyr-3', homeworld_slug: null,
+    homeworld: 'Veyr-3', homeworld_slug: 'planets/veyr-3',
     polity: null, frame: 'lattice',
     evidence: ['The Veyr Basaltborn come from Veyr-3', 'A Veyr is built as a truss, not a frame.', 'lattice-framed people']
   }
