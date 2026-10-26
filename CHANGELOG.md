@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Lore: *Pelagos Minor*, and why its evacuation order puts women before children** (`src/lore/planets/pelagos-minor.md`, `src/characters/rhuven.md`, `story-bible/open-questions.md`, 2026-10-26, Opus, Dermot's *Option 1*). An extension. The world of *The Order of Evacuation* (S01E03C04) gets its first lore page. The priority order comes from the founding settlement charter, written for a small colony's continuity: those who could bear the next generation, then that generation, then the founders' memory, then all others. It was never used or re-read until the Basin Collapse, so a rule written for continuity damaged it by being kept. Everything else about the world is marked absent. No chapter text changes; Rhuven's page links the new entry.
+
 ## [1.50.0] — 2026-10-25
 
 Four more peoples tell their own histories in the Codex, the Pelagene, Serephine, Veyr and Meridian, each with its teller's page. *The Word She Did Not Like* (S01E03C05) joins Season 1, and *The Order of Evacuation* gains an Ovruhn Ranger's viewpoint. Tissadelle Shepherd is recorded as the name of a plural system, with more of its members named, and plural systems are now shelved together on a Characters index grouped by kind. New character pages fill worklist lines for Saltmere and Verdance, a lore page sets out the mathematics of the Etheric Layer, and a Journal entry states where the record is gentle and where it is hard.

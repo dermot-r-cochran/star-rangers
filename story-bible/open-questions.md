@@ -47,6 +47,10 @@ until the confirmation pass*, *Unknown*) are left as he left them.
 
 ---
 
+## Why Pelagos Minor's evacuation order puts women before children — raised 26 October 2026 by Dermot reading S01E03C04 (*"Why women boarded before children in an age of full equality?"*), RULED the same day: Option 1 (Dermot's *"Option 1, draft it as a PR"*)
+
+The chapter states the order three times and gave no reason for it. Three readings were put to him: (1) an inherited charter rule nobody revisited, (2) a carers-first logistics rule with *women* as the charter's stand-in for carers, (3) leave the gap shut. He chose 1. `src/lore/planets/pelagos-minor.md` now carries it: the clause is in the founding settlement charter, for *the continuity of the settlement*, and ranks by what a small colony counted as scarce (those who could bear the next generation, that generation, the founders' memory, all others). *Women* is the founders' proxy for the first place, and the charter does not say so. Never used before the Collapse, never re-read, kept perfectly, and it damaged the continuity it was written for. Still open, marked absent on the page: the founding date and founders, the system and polity, the population, who drafted the clause, and **whether the clause has been amended since 2826 UCSD**, which a later chapter may want.
+
 ## A Verdani Ranger, Elsha Rootkin — the fourth daily Fable fill of 25 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The *A Verdani in or beside the Corps* line of the 14 October worklist
