@@ -29,6 +29,7 @@ What she would say clearly was the distinction between having been *shown* somet
 - Born c. 1186 AD, parentage and townland of birth not preserved in the surviving record.
 - Began tending the sick at the thorn well of Cill Aoife in her fourteenth year, prior to the vision that would later define her.
 - Experienced the vision recorded by [Brother Daire](/star-rangers/characters/brother-daire/) in her thirtieth year, c. 1216 AD.
+- Refused an apparition in the village with a wooden cross and five sentences, by a leaf of the house's book entered from Brother Daire's telling; the leaf carries no year, and the record does not place it before or after the vision: [The Apparition at Cill Aoife](/star-rangers/codex/the-apparition-at-cill-aoife/).
 - Refused three separate offers to enter a formal religious house, continuing lay devotional work at the well instead.
 - Died in the winter of 1241 AD, tending the well to the end; recognised as a saint only by sustained local usage, never by any formal process from a higher authority.
 
@@ -40,4 +41,4 @@ That same refusal is what makes her legible, fourteen centuries later, to reader
 
 She kept no formal writings of her own. Everything known of her interior life passes through someone else's hand — Brother Daire's, and now a chain of devotional and scholarly readers stretching from medieval Ireland to the charter worlds of the [Celtic Union](/star-rangers/lore/celtic-union-of-planets/). She would likely have found that unsurprising. She spent her life being asked to explain something she'd already told everyone, honestly, she couldn't fully explain.
 
-See also: [Saint Aoife](/star-rangers/lore/saint-aoife/), [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [What Was Carried](/star-rangers/codex/what-was-carried/), [Brother Daire](/star-rangers/characters/brother-daire/), [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/).
+See also: [Saint Aoife](/star-rangers/lore/saint-aoife/), [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/), [What Was Carried](/star-rangers/codex/what-was-carried/), [The Apparition at Cill Aoife](/star-rangers/codex/the-apparition-at-cill-aoife/), [Brother Daire](/star-rangers/characters/brother-daire/), [Levrils: Dragons and Constraint Literacy](/star-rangers/lore/levrils/).
