@@ -24,7 +24,7 @@ About 2780 UCSD, [Survey Corps](/star-rangers/lore/star-rangers-survey-corps/) a
 
 The classification is an instrument's finding, and it is late. The [Fellowship of Light](/star-rangers/lore/fellowship-of-light/) had been calling the same lawful thing the [Overfold](/star-rangers/glossary/overfold/) for centuries, by long attention and no chronometer; the record keeps the three names in the order they were coined and ranks none of them. What the Survey Corps adds is the filing: a reading that survives correction is written down as a reading, and from here the boundary posts carry a second column beside the first.
 
-The record dates the practice by its age rather than by a day. It was decades old when the [Boundary Monitoring Protocol](/star-rangers/codex/survey-corps-protocol/) of 2811 UCSD required a certified Etheric-layer analyst at every Threshold-class station, and it took longer still for the Etheric column to be read against the same geometry as the physical one.
+The record dates the practice by its age rather than by a day. It was decades old when the [Boundary Monitoring Protocol](/star-rangers/codex/survey-corps-protocol/) of 2811 UCSD forbade Etheric-layer assessment without a certified analyst on the team, and it took longer still for the Etheric column to be read against the same geometry as the physical one.
 
 **Canon facts:**
 - *Etheric interference* is a Survey Corps classification of a symptom at boundary zones: Etheric-layer readings that persist after recalibration, filed beside instrument drift. It names no coupling and no mechanism.
