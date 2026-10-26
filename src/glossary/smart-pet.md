@@ -45,6 +45,12 @@ Nowhere anyone would look. A Smart Pet's cognitive subsystem is carried in the c
 
 None of this is concealment in the Kernel's sense. The subsystem will say what it is, plainly, to any lawful authority that asks it, exactly as every other compliant system on a habitat will. What keeps a field unit under cover is not the harness design but the question that never comes. Nobody asks a cat.
 
+## Corvids: A Different Shape
+
+The certification is the same for every species, and so is the subsystem; what differs is the animal under it. A corvid comes to the harness with a mind already built for work other Smart Pets do only with help. It remembers where it put things across a whole season, recognises a face it has seen once and keeps the memory for years, prepares for a need it does not have yet, hides what it hides differently when it knows it is being watched, and makes and uses tools. The subsystem adds what it adds to a cat: the language layer, the records and the analytical scaffolding. The result is not a cleverer Smart Pet but a differently shaped one. A cat registers that something is wrong before it can say why; a corvid remembers who was standing where when it was.
+
+The record files this as it files every mind, as a shape of capability and never as a height ([What the Record Refuses](/star-rangers/lore/what-the-record-refuses/)), and no certification class or rating sets a corvid above any other Smart Pet. [Alala](/star-rangers/characters/alala/) of Orbital Five-O is the corvid on the public record, and her candidacy assessor's note, that her subsystem functions *in part, as a second opinion*, is the shape in one line.
+
 ## Public Reputation
 
 None of the certification apparatus above is what a Smart Pet is known for outside specialist circles. To most of the Concord, a Smart Pet is simply cute, cool, and clever — a reputation the [Bramble Storybooks](/star-rangers/codex/bramble-and-the-backwards-key/) did more than any single regulation to cement, and a reputation that happens to be accurate, if incomplete: it just leaves out which Smart Pets are quietly doing agency work at the time.
