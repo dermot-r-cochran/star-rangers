@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Journal: *The Nearest Animal*** (`src/journal/the-nearest-animal.md`, `story-bible/intake-2026-10-26.md`, 2026-10-26, Opus, at Dermot's direction). Why every picture of a non-human people starts out as an Earth animal, the methods tried in order, and the one that kept Vaurel's body: a grey 3D model built from the design, turned into a photograph. Records his line that this is an illustrated story, not a visual novel.
+
 - **Vaurel's portrait, by a new route** (`src/characters/vaurel.md`, `scripts/blockouts/vaurel.py`, `story-bible/images.md` § 33, `story-bible/image-prompts.md`, `scripts/extract-peoples.js`, `CLAUDE.md`, 2026-10-26, Opus, desktop). Text prompts and edits drew an octopus, then an elephant, so the body was built from its design as a scripted Blender blockout and made photographic by an image edit, which kept the shape. It is the first Cerebraun portrait standing on its four lower limbs as the design says; Dermot's pick.
 
 - **Kesta Ul and Second Outwork get portraits** (`src/characters/`, `story-bible/images.md`, `story-bible/image-prompts.md`, `story-bible/intake-2026-10-26.md`, `scripts/extract-peoples.js`, 2026-10-26, Opus, desktop). A third round sent each people's filed frame as a body reference, after two text-only rounds drew tortoises; Dermot's picks. Records his note that every generator leans toward Earth's animals, the Earth-animal test read accordingly, and his own photographs as bases for place, light and surface. Pekkat and Vaurel edits did not pass; Rhuven and Elsha were refused by the filter.
