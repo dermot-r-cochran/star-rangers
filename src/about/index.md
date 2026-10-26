@@ -82,7 +82,10 @@ eleventyComputed:
 <h2 id="how-this-site-is-illustrated">How this site is illustrated</h2>
 <p>
   The pictures are illustrations, not the work. Most are generated, some are made from the
-  author's own photographs, and a few are those photographs as they stand; every one of them is
+  author's own photographs, and a few are those photographs as they stand. A few portraits of peoples
+  who are not human begin as a plain 3D model built from the people's written design and are then
+  made photographic, so that the body is the record's and not the nearest Earth animal's
+  (<a href="/star-rangers/journal/the-nearest-animal/"><em>The Nearest Animal</em></a>). Every one of them is
   recorded with what made it. Where a picture and an entry disagree, the entry is right. The
   author's photography has a home of its own at
   <a href="https://dermotcochran.com/">dermotcochran.com</a>, and nothing made for this site
