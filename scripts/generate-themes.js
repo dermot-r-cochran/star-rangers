@@ -62,33 +62,34 @@ const THEMES = {
   },
   pets: {
     label: 'Fian Ilchruinne — "Pets" Theme (undercover-pets.com)',
-    // Brighter since 2026-10-26 (Dermot: "a brighter colour scheme"):
-    // warm white and butter yellow, deep navy text, a teal link and a
-    // brick-orange canon colour, every pair still at WCAG AA.
-    description: "Bright, sunny re-skin for the children's edition.",
+    // Science fiction for children since 2026-10-26 (Dermot: "Third palette
+    // looks great now", after a sunny and a playful one were compared):
+    // night-sky navy, star-yellow links and titles, mint for canon, every
+    // pair well above WCAG AA.
+    description: "Night-sky science-fiction re-skin for the children's edition.",
     root: {
-      "--color-bg": "#fffdf7",
-      "--color-surface": "#fff3c4",
-      "--color-surface-2": "#ffe79a",
-      "--color-border": "#f7c948",
-      "--color-text": "#1f2a44",
-      "--color-text-muted": "#475069",
-      "--color-accent": "#0b6e75",
-      "--color-accent-hover": "#08525a",
-      "--color-canon": "#9a3412",
-      "--color-pov-active": "#0b6e75",
-      "--color-pov-bg": "#fff3c4",
-      "--color-skip-bg": "#0b6e75",
-      "--color-skip-text": "#fffdf7"
+      "--color-bg": "#0e1838",
+      "--color-surface": "#172656",
+      "--color-surface-2": "#213574",
+      "--color-border": "#3f5bb5",
+      "--color-text": "#f3f6ff",
+      "--color-text-muted": "#c3cdf2",
+      "--color-accent": "#ffd23f",
+      "--color-accent-hover": "#ffe88a",
+      "--color-canon": "#5ee6c8",
+      "--color-pov-active": "#ffd23f",
+      "--color-pov-bg": "#172656",
+      "--color-skip-bg": "#ffd23f",
+      "--color-skip-text": "#0e1838"
     },
     povBlock: {
-      galahad: "#3b82f6",
-      elvira: "#ec4899",
-      aldera: "#22c55e",
-      krenyi: "#f59e0b",
-      thorn: "#ef4444"
+      galahad: "#7cb4ff",
+      elvira: "#ff8fc8",
+      aldera: "#6ee7a8",
+      krenyi: "#ffd23f",
+      thorn: "#ff8a7a"
     },
-    statusActive: "#1d6b34"
+    statusActive: "#8ef0a0"
   },
   starquest: {
     label: "Fian Ilchruinne — \"Starquest\" Theme",

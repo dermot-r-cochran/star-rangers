@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **A brighter palette for undercover-pets.com** (`scripts/generate-themes.js`, `src/css/theme-pets.css`, 2026-10-26, Opus, at Dermot's request for "a brighter colour scheme"). The warm cream and terracotta give way to warm white and butter yellow, deep navy text, a teal link colour and a brick-orange canon colour, with livelier viewpoint stripes. Every pair `check-contrast.js` measures stays at WCAG AA, the tightest at 4.9:1.
+- **A night-sky palette for undercover-pets.com** (`scripts/generate-themes.js`, `src/css/theme-pets.css`, 2026-10-26, Opus, at Dermot's request for "a brighter colour scheme", then "science fiction for children"; his pick of three compared). The warm cream and terracotta give way to night-sky navy, star-yellow links and titles, mint for the canon colour and brighter viewpoint stripes. Every pair `check-contrast.js` measures clears WCAG AA with room to spare: body text 16:1, links 12:1, the tightest 7.3:1.
 
 - **The Kingdom of the Five Islands: one sentence repaired** (`src/lore/planets/kingdom-of-the-five-islands.md`, 2026-10-26, Opus, at Dermot's "Yes please make the repair"). The sentence on the founding departure read *a species deeper*, pointed the comparison the wrong way and left an aside unclosed; it now says the departure fell into the same archive gap as the Currach Fleet's arks, only further back. A clarification.
 
