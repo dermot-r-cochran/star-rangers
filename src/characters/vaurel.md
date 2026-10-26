@@ -7,6 +7,8 @@ role: "Philosopher of evidence; teacher of classifiers, Cerebraun Hegemony surve
 status: Active
 tags: [cerebraun, cerebraun-hegemony, evidence, classification, survey, philosophy]
 description: "A Cerebraun philosopher of evidence who teaches the Hegemony's survey classifiers that a reading's standing is what it has survived, answers in three parts, each carrying its own grade, and grades claims without ever arguing that one is true."
+image: "vaurel.jpg"
+image_alt: "Vaurel, a Cerebraun, in a plain windowless stone room: a low, broad, headless sand-grey body with no front rests on four short broad lower limbs spread on the floor. Two longer upper limbs lie on the floor either side of a small dark sealed capsule, a third is raised and bent above it, and small dark eyes are set along every limb. Every limb ends blunt and rounded."
 ---
 
 Vaurel teaches classifiers. In the Cerebraun Hegemony's survey service the people who file a reading are trained in how to file it, and Vaurel's part of that training is a single question asked of every classification: what has this reading survived?

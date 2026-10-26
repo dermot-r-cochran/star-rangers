@@ -1841,3 +1841,14 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Reference-led, refused by the filter:** `rhuven.jpg` (reference `vhen.jpg`).
 - **Shortened, refused by the filter:** `elsha-rootkin.jpg`, a third refusal.
 - **Edited from a filed frame, not filed:** `pekkat.jpg` from `tikket.jpg` (a beetle with a face-like head) and `vaurel.jpg` from `sohrel.jpg` (a near miss on one limb tip). The edit instructions, sent with the source frame to the same model, are in each entry's note in `images.md`; the run used a one-off script outside the repository.
+
+## 2026-10-26 — Vaurel by the 3D pipeline (Opus, desktop)
+
+### vaurel.jpg — filed 26 October 2026
+- **Type:** a 3D blockout made photographic; portrait for `src/characters/vaurel.md`
+- **Tool:** Blender 5.2 (`scripts/blockouts/vaurel.py`, Cycles render, 1600×900), then gemini-3.1-flash-image at 2K as an image edit of the render, four variations
+- **Source:** `story-bible/species-design.md`, *Cerebraun* (the body plan); `images.md` § 33, Vaurel (the scene)
+- **References:** the blockout render only; no filed frame
+- **Prompt / recipe:** the edit instruction of record is in `images.md` § 33 under Vaurel; not duplicated here.
+- **Run:** all four variations kept the body; variation 3 chosen by Dermot, cropped to 62% of the width around the body, filed through `import-image.ps1 -MaxEdge 1200` at strength 1.
+- **Why this route:** two text rounds and three edits drew an octopus, then an elephant. The blockout fixes the shape; the edit supplies skin, light and grain.
