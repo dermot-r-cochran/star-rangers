@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.51.0] — 2026-10-26
+
+Two chapters join Season 1: *Correction Applied* (S01E00C10), the first set on Earth in 2826 from an Earth-resident's viewpoint, and *No Instrument to Hand* (S01E03C06), in which Galahad learns what Elvira is. Pelagos Minor gets a lore page and its header image, five peoples' home worlds get pages of their own, and seven timeline entries date when the cosmology was measured. The Codex files Dermot's own *The Apparition at Cill Aoife*, Tavin Ledgekin joins the Verdani, and eight more portraits are filed, Vaurel's by a new route that a Journal entry, *The Nearest Animal*, explains. Quantum Space Harmonics gains its wave physics, undercover-pets.com a night-sky palette, and the next-chapter link a setting cue.
+
 - **A night-sky palette for undercover-pets.com** (`scripts/generate-themes.js`, `src/css/theme-pets.css`, 2026-10-26, Opus, at Dermot's request for "a brighter colour scheme", then "science fiction for children"; his pick of three compared). The warm cream and terracotta give way to night-sky navy, star-yellow links and titles, mint for the canon colour and brighter viewpoint stripes. Every pair `check-contrast.js` measures clears WCAG AA with room to spare: body text 16:1, links 12:1, the tightest 7.3:1.
 
 - **The Kingdom of the Five Islands: one sentence repaired** (`src/lore/planets/kingdom-of-the-five-islands.md`, 2026-10-26, Opus, at Dermot's "Yes please make the repair"). The sentence on the founding departure read *a species deeper*, pointed the comparison the wrong way and left an aside unclosed; it now says the departure fell into the same archive gap as the Currach Fleet's arks, only further back. A clarification.
