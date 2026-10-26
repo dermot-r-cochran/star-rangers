@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A setting cue on the next-chapter link** (`src/_includes/chapter.njk`, `src/css/main.css` and the generated themes, 2026-10-26, Opus, at Dermot's note that some chapters lack a bridge or a cue that the setting is about to change). When the next chapter starts a new season or episode, the link says so; when it starts a new episode or moves to a new place, it shows the place and time from the chapter's own front matter. Nothing is written into the prose.
+
 - **About: how the site is illustrated** (`src/about/index.md`, 2026-10-26, Opus, at Dermot's word). One sentence on portraits of non-human peoples that begin as a 3D model built from the written design and are made photographic, linking the Journal entry *The Nearest Animal*.
 
 - **Journal: *The Nearest Animal*** (`src/journal/the-nearest-animal.md`, `story-bible/intake-2026-10-26.md`, 2026-10-26, Opus, at Dermot's direction). Why every picture of a non-human people starts out as an Earth animal, the methods tried in order, and the one that kept Vaurel's body: a grey 3D model built from the design, turned into a photograph. Records his line that this is an illustrated story, not a visual novel.

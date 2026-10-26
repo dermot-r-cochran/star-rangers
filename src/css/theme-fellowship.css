@@ -1031,6 +1031,16 @@ a:focus {
   margin-left: auto;
   text-align: right;
 }
+.chapter-pagination__cue,
+.chapter-pagination__setting {
+  display: block;
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+}
+.chapter-pagination__cue {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
 
 /* --- Home Page --- */
 .home-hero {
