@@ -3,6 +3,7 @@ layout: base.njk
 title: "A Survey Delegation Keeps a Crossing Night on Drithane"
 timestamp: "2826 UCSD, Deep Winter"
 sort_order: 115
+era: "2826-onward"
 summary: "A Survey Corps follow-up team is billeted with the households of Gleann na gCaorach for a crossing night, under the Celtic Union's survey-hospitality arrangements. The delegation's manifest carries one courtesy animal, and nothing else that travelled with it."
 plain: "The Star Rangers' Survey Corps sent a small team to the planet Drithane to watch a crossing night, when a whole valley turns its lights out to see the sparks in the sky. The team stayed in people's houses, not in a camp. The list of who went has one animal on it, a rabbit. It does not say what else came along."
 tags: [drithane, celtic-union, survey-corps, crossing-night, sorcha-nic-dhiarmada, bubochka, undercover-pets.com]

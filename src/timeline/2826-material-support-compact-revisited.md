@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Material-Support Compact Revisited"
 timestamp: "2826 UCSD, Early Summer"
 sort_order: 90
+era: "2826-onward"
+major: true
 summary: "A session of the Federation assembly revisits its material-support compact with the Star Rangers on a proposal from Verdance's seat, and requests Ulessa of Ilenne to give the compact's data term as it was spoken at its first table."
 tags: [federation-of-sentient-beings, mnemari, ulessa, verdance, isren-farrowkin, prismere, ollune, cirrane, treaty-witness]
 ---

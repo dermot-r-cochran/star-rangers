@@ -3,6 +3,7 @@ layout: base.njk
 title: "Corryn's Expansion Reaches the Spiralites' Bands"
 timestamp: "~2796 UCSD"
 sort_order: -300
+era: "2543-2799"
 summary: "The Imperium-licensed colony on Corryn Prime begins the mining and agricultural expansion whose emissions degrade the electromagnetic bands the Spiralites use for speech and for reproduction."
 tags: [corryn, corryn-prime, spiralites, halvern-combine, imperium, frontier-transformation-protocols]
 ---

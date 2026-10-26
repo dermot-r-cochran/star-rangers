@@ -3,6 +3,8 @@ layout: base.njk
 title: "A Verdani Delegate First Holds Verdance's Federation Seat"
 timestamp: "2822 UCSD"
 sort_order: 20
+era: "2800-2825"
+major: true
 summary: "Isren Farrowkin, senior Fourfold Accord delegate for Verdance's Canopy Concord since 2819 UCSD, first holds Verdance's rotating seat in the Federation assembly."
 tags: [verdani, verdance, federation-of-sentient-beings, fourfold-accord, isren-farrowkin]
 ---

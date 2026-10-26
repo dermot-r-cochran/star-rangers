@@ -3,6 +3,7 @@ layout: base.njk
 title: "The Sentinel Filed as a Hazard Beacon"
 timestamp: "~2528 UCSD"
 sort_order: -2980
+era: "before-2543"
 summary: "A Cerebraun Hegemony filing, signed by the Halyx System's Administrator-Voice, closes the Sentinel's case as an automated hazard beacon. It stays closed for three centuries."
 tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel]
 ---

@@ -3,6 +3,8 @@ layout: base.njk
 title: "The Last Stand off Dock Seven"
 timestamp: "2831 UCSD, Mid-Autumn"
 sort_order: 140
+era: "2826-onward"
+major: true
 summary: "Off Threshold Station's Dock Seven, a fold aperture held open past its transit for four months by a licensed commercial concern is found and closed. Every person aboard the Star Rangers vessel is evacuated and survives; the vessel is not recovered, and Line Captain Shepherd's position is logged at the failure point at the moment of closure. Every material witness records what answered the intrusion as dragons."
 tags: [threshold-station, dock-seven, boundary, last-stand, tissadelle]
 ---

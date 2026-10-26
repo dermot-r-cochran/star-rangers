@@ -3,6 +3,7 @@ layout: base.njk
 title: "The Aethelrock Rotation Dispute Begins"
 timestamp: "2824 UCSD"
 sort_order: 70
+era: "2800-2825"
 summary: "Rhiannon Ceridwen answers first contact from Star Rangers survey traffic two years ahead of her clan's turn at the Celtic Union seat, fracturing Aethelrock's Ridgemoot over whether the old rotation still holds."
 tags: [aethelrock, celtic-union, clan-ceridwen, ridgemoot, timeline, history]
 ---

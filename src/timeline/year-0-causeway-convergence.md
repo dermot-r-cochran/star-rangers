@@ -3,6 +3,7 @@ layout: base.njk
 title: "Causeway Convergence: Elvira, Galahad, and Aldera"
 timestamp: "2826 UCSD, Late Autumn"
 sort_order: 110
+era: "2826-onward"
 summary: "Galahad, Elvira, and Aldera converge at the Marsh Causeway after Elvira's third failed ritual. The Obliger feeding signature is first identified."
 tags: [causeway, elvira, galahad, aldera, obligers, boundary]
 ---

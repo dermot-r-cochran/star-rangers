@@ -3,6 +3,7 @@ layout: base.njk
 title: "The Second Visit to the River Abbey"
 timestamp: "2822 UCSD, Early Autumn"
 sort_order: 30
+era: "2800-2825"
 summary: "Elvira walks down to Brother Daire's abbey on the Boyne for the second time that year, and comes away with the Fellowship's own word for what she has been reading: the Overfold. Aldera registers it first."
 tags: [dun-ri, elvira, aldera, brother-daire, fellowship-of-light, overfold, abbey, origin, timeline, history]
 ---

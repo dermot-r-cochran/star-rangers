@@ -3,6 +3,7 @@ layout: base.njk
 title: "First Drift Report Filed at Threshold Station"
 timestamp: "2815 UCSD, Late Summer"
 sort_order: 10
+era: "2800-2825"
 summary: "The first instrument drift report is filed at Threshold Station — two chronometers in Dock Seven disagree by forty seconds. The report is closed without resolution."
 tags: [threshold-station, boundary, instrument-drift]
 ---
