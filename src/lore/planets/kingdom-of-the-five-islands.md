@@ -25,7 +25,7 @@ The four islands the Crown holds survive the weather by accident of geology rath
 
 ## A Colony Older Than the Record That Should Have Kept It
 
-The Kingdom's own oral chronicles date its founding to a sublight departure from Earth predating even the Currach Fleet's — a detail Solar System archivists have not been able to confirm or rule out, since no departure manifest from the relevant period survives complete. What both sides agree on: this was not a documented Expansion-era colonization effort. It was, like the Fleet's own arks a species deeper into the same anonymous archival gap, a departure that nobody with the authority to record it thought was worth following up on afterward.
+The Kingdom's own oral chronicles date its founding to a sublight departure from Earth predating even the Currach Fleet's — a detail Solar System archivists have not been able to confirm or rule out, since no departure manifest from the relevant period survives complete. What both sides agree on: this was not a documented Expansion-era colonization effort. Like the Fleet's own arks, it fell into the same anonymous gap in the archive, only further back: a departure that nobody with the authority to record it thought worth following up.
 
 Left alone for the length of that gap, the founding population built a civilisation with no outside reference points to correct against — its own language, its own calendar, its own line of monarchs numbered past any count the Archive can independently verify. Survey Corps contact, made only in the last several years, is the first outside confirmation the Kingdom has had in longer than its own court historians can agree on.
 
