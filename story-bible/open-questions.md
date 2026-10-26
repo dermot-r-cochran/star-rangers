@@ -2187,7 +2187,7 @@ same rule:
   and the skin-display channel no transcript carries. The Union–Hegemony
   arrangements stay unpublished, the Sentinel's authorship unsettled, and the
   Hegemony's own dating of anything is not held.~~ — **drafted 26 October 2026** (Opus, the weekly pass,
-  stage 3c, the line being a filing; PR #NNNN):
+  stage 3c, the line being a filing; PR #1536):
   `src/codex/what-the-limbs-already-were.md`, by Essaran, an officer of the
   Prime Ganglion's office who drafts its filings to outside parties
   (`src/characters/essaran.md`, *they*), the fourth Cerebraun the record names
