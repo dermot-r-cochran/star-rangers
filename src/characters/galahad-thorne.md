@@ -29,6 +29,7 @@ He is methodical without being rigid. He is cautious without being fearful. He h
 - Transferred to Threshold Station in 2826 UCSD as team lead for new survey group.
 - Has no documented contact with Obligers or Levrils prior to the Threshold posting.
 - Married, and left the marriage some years before the Threshold transfer. Nothing about it is on the survey record, and he has never given anyone at a boundary post a reason to ask.
+- Learned what Elvira is in the early winter of 2826 UCSD, by her blood on the back of his hand ([No Instrument to Hand (S01E03C06)](/star-rangers/seasons/s01/e03/s01e03c06/)). He had met the reaction once before, holding a dressing on a Krenyi Section Lead's cut at the fourth of his six stations. He said what was on his hand and what the clinical file calls it, and did not say what she is.
 
 ## The Marriage
 

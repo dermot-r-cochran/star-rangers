@@ -59,6 +59,17 @@ the bar for him.
 
 ---
 
+## Galahad learns what Elvira is — the weekly Fable pass of 26 October 2026, stage 3 — DRAFTED as S01E03C06 *No Instrument to Hand*, choices named in the PR, his to overrule
+
+The beat Dermot directed on 25 October (`intake-2026-10-25.md`, *Krenyi blood on human skin*), written as the next chapter of the causeway strand; the reading and what it commits the story to are in `intake-2026-10-26.md`, last section. Nothing in it met the bar for him: the slot (S01E03C06, additive, renumbers nothing), the occasion (a flint while seating the station's chronometer), the second head (Galahad, with Aldera's log as the third), Syra kept off the page, and the sage's gloves as a memory the chapter does not test were each settled by recommendation. Left open, not decisions:
+
+- **The station's clinical finding.** Elvira asked for a sample; no chapter shows it taken, and none needs to. The record files her kind on the field sign, which the clinical file itself calls the plainest sign where no instrument is to hand. If he would rather the finding were on a page, it is one short block at Threshold, Syra's or Dr. Vale's.
+- **What the Dún Rí household knew.** The chapter gives the sage's gloves and his stated reason and tests neither. A marked absence, kept; it resolves only if a Dún Rí chapter wants it.
+- **The line in her book, *What was under me is.*** The one place the draft lets a character come near the theme. Kept on the 28 September precedent (*if you see them as good then keep them*); his to strike.
+- **Affection.** Not shown, not denied; the reserved singular exception is in play and no nearer. A chapter that shows it is his to ask for.
+
+---
+
 ## A Deep Clan right-holder of the Stonewake Dominion on Verdance, Tavin Ledgekin — the Fable fill of 26 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The Verdance line of the 14 October worklist below (*Peoples with one
@@ -2660,7 +2671,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 
 Not on this list, with reasons in that section: the Ollune and the Cerebraun (marked absences, choices 3 and 2), and the Told, Meridian sapients, Spiralites and Doreth (not gaps: not met, not members, or known by one line).
 
-**Kept thin on purpose, so not on this list:** Elvira's kind (a marked absence; if romantic affection ever forms between her and Galahad, it is the singular exception to the Krenyi rule on romance, Dermot 2026-10-25, `intake-2026-10-25.md`; *The Word She Did Not Like* (S01E03C05, 2026-10-25), at Dermot's direction, thickens it by evidence toward the Krenyi reading through Syra's unfiled reading, without closing it, and rules out time displacement in Galahad's POV; **settled as authorial intent 25 October 2026**, same intake, last section: she is Krenyi, and Galahad learns it in a chapter still to be written, by her blood on his skin, the species fact now on `krenyi.md`; her page and his change only when that chapter lands, citing it), New Cotswolds (nothing has come back from it), and the Five Islands' marked absences (meanings and names, not missing people).
+**Kept thin on purpose, so not on this list:** Elvira's kind (a marked absence; if romantic affection ever forms between her and Galahad, it is the singular exception to the Krenyi rule on romance, Dermot 2026-10-25, `intake-2026-10-25.md`; *The Word She Did Not Like* (S01E03C05, 2026-10-25), at Dermot's direction, thickens it by evidence toward the Krenyi reading through Syra's unfiled reading, without closing it, and rules out time displacement in Galahad's POV; **settled as authorial intent 25 October 2026**, same intake, last section: she is Krenyi, and Galahad learns it in a chapter still to be written, by her blood on his skin, the species fact now on `krenyi.md`; her page and his change only when that chapter lands, citing it; **landed 26 October 2026** as S01E03C06 *No Instrument to Hand*, her page now says Krenyi, and the household's knowledge and her origin stay marked absences), New Cotswolds (nothing has come back from it), and the Five Islands' marked absences (meanings and names, not missing people).
 
 **How to fill one:** a character page is Fable's work under CLAUDE.md, grounded only in its people's pages with the rest marked absent, and it gets a portrait prompt in the same PR. The Knarr, Tally, Cerebraun and Meridian pages of 14 October are the worked examples. A home-world page is lore, Opus's unless it is narrated history. Strike each line here with the PR that fills it.
 
