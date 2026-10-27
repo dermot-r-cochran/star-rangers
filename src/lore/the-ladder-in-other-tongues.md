@@ -79,7 +79,7 @@ The rendering has **no form for a former rank.** A retired Ranger's rank leaves 
 
 ### Ilveth — who spends heat on whom
 
-On [Sardain](/star-rangers/lore/ilveth/) heat is the only wealth, and an Ilveth who warms a sentence for you has spent on you. Their rendering of the ladder follows the money. **The lower ranks are those whom others spend heat on; the higher ranks are those who spend it on others.** Ilveth Rangers use these forms in click-speech for the day's work. The warm-written form of a rank is reserved, as everything warm-written is, for the moment it is worth paying to say it. The record does not say which moments those are.
+On [Sardain](/star-rangers/lore/planets/sardain/) heat is the only wealth, and an Ilveth who warms a sentence for you has spent on you. Their rendering of the ladder follows the money. **The lower ranks are those whom others spend heat on; the higher ranks are those who spend it on others.** Ilveth Rangers use these forms in click-speech for the day's work. The warm-written form of a rank is reserved, as everything warm-written is, for the moment it is worth paying to say it. The record does not say which moments those are.
 
 | Filed style | Ilveth rendering |
 |---|---|
