@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Nuala Beirne, attendant of the Sceir Light** (`src/characters/nuala-beirne.md`, `story-bible/open-questions.md`, `story-bible/intake-2026-10-26.md`, 2026-10-27, Fable). The viewpoint holder of *Correction Applied* (S01E00C10), already at the door in *The Character of the Light* (S01E01C03), gets a character page on the Sunniva Holm precedent, as the 26 October intake recommended: the Lights Board's lamp, clock, gauge and register, the season totalled at nine twice, the movement that made no odds, the inspection on the falling tide and the survey party at the door. Grounded only in the two chapters and the pages they link, the rest marked absent. No chapter or lore page changes, and no portrait prompt is written yet.
+
 ## [1.51.0] — 2026-10-26
 
 Two chapters join Season 1: *Correction Applied* (S01E00C10), the first set on Earth in 2826 from an Earth-resident's viewpoint, and *No Instrument to Hand* (S01E03C06), in which Galahad learns what Elvira is. Pelagos Minor gets a lore page and its header image, five peoples' home worlds get pages of their own, seven timeline entries date when the cosmology was measured, and the timeline index now shows its major events in full under date spans. The Codex files Dermot's own *The Apparition at Cill Aoife* and the Cerebraun history, *What the Limbs Already Were*; Tavin Ledgekin joins the Verdani, and eight more portraits are filed, Vaurel's by a new route that a Journal entry, *The Nearest Animal*, explains. Quantum Space Harmonics gains its wave physics, undercover-pets.com a night-sky palette, and the next-chapter link a setting cue.
