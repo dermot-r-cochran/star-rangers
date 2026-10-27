@@ -9,8 +9,6 @@ aliases: []
 tags: [ilveth, sardain, cold-world, heat-thrift, author, non-humanoid, histories-in-their-own-voices]
 description: "An Ilveth of Sardain, a sealer of a buried working floor, who at the Survey Archive's asking gave the history of the Ilveth in warmth, outside, at night, at full price, and glossed it in her own click-speech for a Survey Corps reader — the author of the seventh history of a non-human people the record holds in that people's own voice, whose warm-write the Archive holds and cannot read."
 known_codex: [shown-to-the-sky]
-image: "idrun-hesk.jpg"
-image_alt: "Idrun Hesk in the thermal band, a frame from the Survey Corps imager's record of her telling: in white-hot greyscale, part of a long low body lies along a dark bank of fitted stone on pale ice, its hooded crest at the left; across the broad vanes on its flank run rows of bright bars and pulses of warmth, the only bright things in the frame, under a black night sky."
 ---
 
 Idrun Hesk is an [Ilveth](/star-rangers/lore/ilveth/) of Sardain and, by her own account, a sealer: one who keeps a buried working floor from showing its heat. The record holds one account of hers, and holds it twice: [Shown to the Sky](/star-rangers/codex/shown-to-the-sky/), the history of the Ilveth as she gave it, in the warm-write, outside, at night, on the ice within sight of her province's ground, recorded by a Survey Corps reader's imager and unread by anyone in the Archive; and her own click-speech gloss of it, given passage by passage after each had cooled, which is the text the Archive files. She answered the Archive's asking after an interval the desk did not measure, and named her terms before she gave anything: not in a room, and not in the day-register. The Archive has the gloss, the imager's record, and three passages she wrote in warmth and did not gloss, which the desk marks and does not supply.
@@ -35,6 +33,8 @@ The account closes on the reason for the sky, which is the landing party: a peop
 ## What the Record Does Not Carry
 
 Her age, and how long she has kept her floor. Which province, and where on Sardain. How a sealer comes to the work, and whether *sealer* is an office, a trade or her own word for what she does; the record holds no Ilveth polity, office or Federation standing, and the account settles none. Whether she has kin, or what kin is among the Ilveth; the record holds nothing of Ilveth sex, birth or lifespan. The interval between the asking and her answer, and the year of either; the Ilveth measures she names are watches and nights, and the record converts none of them. The three passages she wrote in warmth and did not gloss. Her body, which no page describes beyond the people's: long and low, several paired limbs under a segmented body at ground temperature, a hooded sensory crown of dry mirror-pits with a ring of small photic eyes below it, broad vascular vanes folded along the flank and crown. No portrait is on file; the prompt is written and waits on the desktop.
+
+The record holds no picture of her. The Survey Corps imager's record of her telling is on file beside the account and is not reproduced here: in visible light an Ilveth shows nothing of who she is, and in the thermal band the imager passes, a body at the temperature of the ice records as almost nothing beside the warm-write.
 
 ## See also
 
