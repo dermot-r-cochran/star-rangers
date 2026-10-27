@@ -1,6 +1,7 @@
 # Changelog
 
-All notable changes to this project are documented in this file and, for releases [1.35.0] and older, in its archive in [`changelog/`](changelog/README.md).
+A- **Elvira's page: three years, and one stale tag** (`src/characters/elvira.md`, 2026-10-27, Dermot's call on the Benevolent Critic read of PR #1530). Her Open Thread said her classification was contested "for three seasons"; she appears in Season 1 only, so it now says three years, her tenure. The `unclassified` tag beside `krenyi` is dropped.
+ll notable changes to this project are documented in this file and, for releases [1.35.0] and older, in its archive in [`changelog/`](changelog/README.md).
 
 The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and version numbers follow [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`, where `MINOR` covers backward-compatible additions (a new lore entry, a new deploy.conf key, a new theme) and `PATCH` covers fixes with no new surface area. Nothing in this project's history so far has required a `MAJOR` bump: every `deploy.conf` key, theme, and build output added has been additive, and every default has stayed backward compatible.
 

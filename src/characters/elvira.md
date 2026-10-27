@@ -7,7 +7,7 @@ role: Boundary Practitioner, Outpost Keeper
 status: Active
 aliases:
   - "the Enchantress (misclassification by locals)"
-tags: [boundary, unclassified, krenyi, causeway, etheric, season-1]
+tags: [boundary, krenyi, causeway, etheric, season-1]
 description: "A boundary practitioner working alone at the Marsh Causeway outpost. Krenyi, and did not know it until the early winter of 2826 UCSD; she is not magical."
 image: "elvira.jpg"
 image_alt: "Elvira, a woman in her forties in a grey-green work coat, crouched on a chalk floor in a stone room, setting a small weight on a thread of a square survey grid at its crossing. Glass jars and earthenware pots of water stand at intervals across the floor; on a grey composite table a straightedge, a coiled plumb line and shut record books; a small rounded housing with one green indicator sits flush in the stone beside an open composite door onto flat reed marsh under a pale sky."
@@ -35,7 +35,7 @@ Her identification of a "Court thing" at the causeway is partially correct. She 
 
 ## Open Thread
 
-What is Elvira? Her classification was contested within the story for three seasons. She is clearly a person and clearly capable of fine-grained boundary work. Her species was resolved the only way this page allowed, by a story event, in the early winter of 2826 UCSD; her origin is still a live question, and it will be resolved the same way or not at all.
+What is Elvira? Her classification was contested within the story for three years. She is clearly a person and clearly capable of fine-grained boundary work. Her species was resolved the only way this page allowed, by a story event, in the early winter of 2826 UCSD; her origin is still a live question, and it will be resolved the same way or not at all.
 
 [S01E03C03](/star-rangers/seasons/s01/e03/s01e03c03/) adds the first data point and resolves nothing: Galahad Thorne met her at Dún Rí in 2806 UCSD, sixteen years before any other record places her there, and says she has not changed since. His memory is the only source — no image, instrument reading, or third-party record corroborates it, and he has entered none of it in the survey file. Whether she remembers him is not established.
 
