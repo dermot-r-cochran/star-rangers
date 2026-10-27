@@ -71,3 +71,4 @@ That the impressions cluster in a system with a narrowing in it is expected. Tha
 - [Physics Comparison](/star-rangers/lore/physics-comparison/) — consciousness, and what remains open
 - [The Imperium](/star-rangers/lore/the-imperium/) — the authority that issued the charter, and stopped existing in 2609
 - [The Halvern Combine](/star-rangers/lore/halvern-combine/) — the concern that holds the charter, and why it outlived the Imperium
+- [Beside the Ringing](/star-rangers/codex/beside-the-ringing/) — a Spiralite history in that people's own voice, by [Inner Turn](/star-rangers/characters/inner-turn/), found rather than asked for
