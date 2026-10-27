@@ -1863,3 +1863,10 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Prompt / recipe:** the round-4 edit instruction of record is in `images.md` § 33 under `vaurel-2.jpg`; not duplicated here.
 - **Run:** four rounds of four (one round-4 request timed out at the provider). Round 1 drew fingers on a slab in a miniature diorama; round 2 a headless crouching torso; round 3 a disc body whose raised limb sat on the back unattached; round 4, with the limb rooted in the body, variation 3 chosen by Dermot from a labelled sheet, filed uncropped through `import-image.ps1 -MaxEdge 1200` at strength 1.
 - **Why a second pass:** Dermot read the first frame as *"a child's model of a Cerebraun"*: no scale, no shadow, uniform tubes. Scale, hard light and skin are now fixed in the geometry, not left to the edit.
+
+## 2026-10-27 — Idrun Hesk, blockout attempts (Opus, desktop), nothing filed
+
+- **Target:** `idrun-hesk.jpg`, to replace the 24 October thermal frame, which Dermot read as a slug
+- **Tool:** Blender 5.2 (`scripts/blockouts/idrun-hesk.py`), then gemini-3.1-flash-image at 2K as a thermal-band image edit of the render
+- **Run:** one edit round, three of four returned (one refused by the provider's content filter): rectangular vanes read as lit signboards on a train, a crest vane as a visor. A second blockout with upright fan-ribbed vanes read as a sail-back and was not sent. Not filed; the frame of 24 October stands.
+- **Next:** a body-design pass under `people-body-design` before another prompt or blockout. Recorded in `images.md` § 31.
