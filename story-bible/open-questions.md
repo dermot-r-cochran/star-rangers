@@ -59,6 +59,167 @@ the bar for him.
 
 ---
 
+## The Spiralite history, Inner Turn — 27 October 2026 — DRAFTED same day on Fable (the line is a telling), choices named in the PR, his to overrule
+
+The Spiralites line of the *Histories in their own voices* series below, the
+last line of the list and the last whose voice is a telling (the Ollune and
+Verdani lines are the far word and the Accord, filing modes and so Opus's).
+Drafted as `src/codex/beside-the-ringing.md`, the thirteenth entry of the
+series, with its author's page `src/characters/inner-turn.md`, grounded only
+in `planets/corryn.md`, `halvern-combine.md`, `characters/oriane-kessel.md`,
+`the-imperium.md`, `frontier-transformation-protocols.md`,
+`what-nobody-certifies.md`, `boundary-zones.md`,
+`dreams-across-the-interval.md`, `what-a-mind-is-carried-by.md`, the
+timeline entry `2796-corryn-expansion-reaches-the-spiralites.md`,
+`codex/xenolinguistics-handbook-failure-modes.md` (*What You Are For*,
+failures 1, 8 and 10) and the Spiralite sections of `species-design.md`,
+`mind-design.md`, `contact-design.md`, `civilian-dress.md` and
+`ecology-design.md`, with the rest marked absent in a *What the Record Does
+Not Carry* section; the title card made with `make-codex-cover.ps1`, stamp
+UNASKED; one See-also line on `planets/corryn.md` (an extension, links only).
+
+**The frame, and why it is the one thing the entry derives.** The series'
+habit is an asking by the Survey Archive, answered by one of the people. The
+Archive cannot ask here: *nobody with standing has visited*
+(`planets/corryn.md`, the timeline entry), there is no Federation route, no
+exchange arrangement, no channel and no Ranger of the people, and
+`contact-design.md` holds that how anyone meets them is not established. The
+record does hold two doors. The Carillon's hum is *detectable with ordinary
+equipment*, and the colony's own scientists have listened to it for most of
+the colony's history; and the Archive reads *the local literature*, which the
+Corryn entry says *has repeatedly asked* the recurrence to carry more. So the
+sequence is one the system's listeners recorded among their recordings of
+the Carillon, carried in the local literature with its bearing (the surface)
+and its bands (the people's) marked, and read by the Archive from there.
+That the literature carries such a recording is the entry's one derivation,
+recorded here as a reading. The desk holds nothing of what else the
+literature made of it or whether anyone in the system read it, which keeps
+the colony's relation to the people exactly where `corryn.md` and Kessel's
+page leave it. The entry is **not addressed** to anyone outside the bands,
+by its author's word and the desk's reading, so the colony is not shown
+being addressed and ignored, which would have made the standing case *a
+first-contact failure of understanding*, the thing the Corryn entry says it
+is not. The rendering is the translation desk's **working rendering**, made
+by the handbook's own order (arithmetic first, since the count the sequence
+keeps is the Carillon's recurrences and the record holds those; then the
+sequence's own teaching, each new shape first given beside one already
+given; the aligning intelligence's candidate parses and a reader who owns the
+error), marked working and revisable, with the Corryn entry's own warning
+about recurrences read as language quoted against it, and with the people's
+sapience stated as not in dispute and not what is working. Two shapes the
+desk could not place are marked and not rendered.
+
+**How the voice was realised.** The series line gives the voice as
+*electromagnetic pulse, habitats tuned to the Carillon's rings*. The telling
+is built on both: each part opens with one of the Carillon's own recurring
+figures given entire, which the desk marks and renders nothing of, since the
+record does not adjudicate whether the Carillon's figures say anything; the
+author's pulse follows each. The author's measure is the *return*, one
+recurrence of the ringing's long figure, and the people's method is the
+entry's governing figure: a telling is kept by being said beside the ringing
+and found there at the next return, *not by being put somewhere*, so a
+thing meant to be found is said beside what everyone already hears. The
+author's own terms, rendered by the desk: *the ringing* (the Carillon's hum
+and figures), *a turn* (a winding of a habitat; a tuned structure holds what
+it is tuned to and passes the rest, which is plain resonance), *the quiet*
+(the bands holding the ringing and the people and nothing else), *the
+unkept* (what in the bands keeps no count), *keeping a count* (the people's
+rule for who is somebody). The ending turns the opening: the author says the
+history beside the ringing for *whoever keeps the count that I do not know
+about*, holding by the people's rule that nothing in the unkept keeps a
+count and so nothing in it will find the telling; the desk's note records
+that the system's listeners, keeping the Carillon's count, found it. The
+record supplies the recognition and the author does not know it.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Inner Turn*, the desk's rendering of the author's own pulse by
+what the telling gives the same pulse for, the innermost winding of a
+habitat, on the Meridian convention of a name rendered by its place in the
+structure, since a people who speak in pulse have no sound to coin a name
+from and the handbook's failure 10 forbids a phonology; it asserts nothing
+of how the Spiralites name, and the note says so; the alternatives are
+*Fourth Turn* or *Close Turn* in the same pattern, or a name he gives);
+**the pronoun** (none supplied; the page and the desk's note use the name
+throughout, as the record does for the Meridian people and the Cerebraun,
+since no pronoun system is declared for the Spiralites and the record holds
+nothing of their sex or kin; the alternative is *she* or *they* in the
+translation register, which the 23 August doctrine would read as a rendering
+and not a sex); **the role** (a keeper of the innermost turn of a habitat,
+derived from the people's page's *spiral habitats that resonate with the
+Carillon's ring frequencies* and the physics of a tuned structure, and
+proposed as the author's own account of the author's work, the desk's note
+filing it as such; no office, craft or people's order is asserted, per
+`mind-design.md`'s Spiralite section, which holds all of it not
+established); **the frame** (above); **the author's rule for who is
+somebody** (that a thing which keeps a count is somebody, applied by the
+author to the unkept with *the rule may be wrong, and I am not the one to
+know*; the people's own rule, filed as theirs, not adopted by the Archive
+and not read against anyone; it is the mirror of the handbook's failure 1,
+*filed as noise*, seen from the other side, and the entry neither says so
+nor needs to); **the old tellings' saying beside the unkept** (an author's
+claim given as a telling the author was not present for, that some of the
+people once said things beside the unkept to see and nothing changed; the
+desk reads nothing of the colony's conduct from it, since the author does
+not know what the unkept is and the record does not hold that anything was
+addressed to anyone; his to strike if it leans); **the young** (that a new
+one is begun in the quiet and answered until it keeps a count, that fewer
+keep their own count now, and that the author declines to number them; the
+record holds only that reproduction depends on the medium and that the
+medium is degraded, measurably and continuously; the entry gives the cost
+quietly, keeps *the quiet is not gone*, and says how the new ones begin
+only as *said in the quiet or not at all*); **the Carillon** (the author's
+tradition that the ringing spoke first is given on and not vouched for, the
+author asks nothing of the ringing but its count, and the desk's note
+restates the Corryn entry's position whole, so the live question is no less
+live and no more); **the identification** (the author identifies the unkept
+with nothing, calls it a thing in the bands and declines to say what it is;
+the identification with the colony and the 2796 expansion is the record's,
+in the desk's note, and the Archive does not read the account as knowing of
+a colony, a charter or any people on the surface but the author's own);
+**the title** (the opening's rule, *a thing that is to be found is said
+beside the ringing*, which the close turns on the ones who found it); **the
+title card** (stamp UNASKED, the one history of the series the Archive did
+not ask for, beside RENDERED, AS READ, REVISABLE, EXACT SHAPE and FORMALLY
+NOTED); **the quiet joke** (the unkept *said the same things at every
+return, and none of them was beside the ringing*; structural, costing
+nobody); **the thirteenth** (Inner Turn is the first Spiralite the record
+names; the 14 October worklist's Corryn line stays struck as it was, since
+its Spiralite half was held for the chapter that finds who speaks for the
+people, and this author says in words that nobody does and that a telling
+is one voice).
+
+Not asserted: any year, in any reckoning (the author's measure is the
+return; no return is set beside any event the record dates, so no
+conversion is fixed and none is made); the Carillon's sentience, either way;
+any Spiralite polity, council, office, spokesperson or Federation standing
+(choice 5 of `mind-design.md`'s social-order section, A, untouched: nobody
+speaks for the people, the chapter that takes the Corps to Corryn Prime
+still finds out in the people's medium); how Spiralites reproduce beyond
+*in the quiet*; Spiralite sex, kin, lifespan or the author's age; a Spiralite
+word, phonology or naming practice; what the author knows of the colony,
+which the account gives as nothing; whether anyone of the colony has read
+the sequence, met a Spiralite or been addressed by one; the colony's
+standing, the Combine's position, the Protocols' reading, Kernel compliance,
+or any part of the standing case, all left as `corryn.md`,
+`halvern-combine.md` and Kessel's page leave them; any fauna, machine or
+companion (the 14 October rulings); any chapter.
+
+Left open, not decisions:
+
+- **Inner Turn's portrait.** No prompt is written. The Spiralites have no
+  body sheet in `species-design.md` beyond the people's page's one sentence
+  (*semi-translucent, with bioluminescent neural structure visible beneath
+  the skin*), and a non-humanoid portrait follows a body design
+  (`people-body-design`, Opus's), as Essaran's does. If he would rather, the
+  page can instead take the 26 October *no visualization is on record*
+  sentence as a decision named per page; the page does not take it now.
+- **The See-also line on `halvern-combine.md`.** Not added, since the
+  Combine's page lists the case and not the people; `corryn.md` carries the
+  link. Owed only if he wants both.
+- **The title card** is made (stamp UNASKED); nothing owed.
+
+---
+
 ## The Cerebraun history, Essaran — the weekly pass of 26 October 2026, stage 3c — DRAFTED same day on Opus (the line is a filing), choices named in the PR, nothing open for him
 
 The Cerebraun line of the *Histories in their own voices* series below, the
@@ -2405,10 +2566,38 @@ same rule:
   (stamp EXACT SHAPE); the portrait prompt is `images.md` § 41, filed 26 October 2026.
   The section *The Meridian history, Second Outwork* at the top of this file
   records the choices.
-- [ ] **Spiralites** — `src/lore/planets/corryn.md`,
+- [x] ~~**Spiralites** — `src/lore/planets/corryn.md`,
   `src/lore/halvern-combine.md`. Voice: **electromagnetic pulse**, habitats
   tuned to the Carillon's rings. No Spiralite has a page yet; the entry must
-  not settle the colony's standing.
+  not settle the colony's standing.~~ — **drafted 27 October 2026** (Fable,
+  the last unticked line in order after the Ollune and Verdani lines, which
+  are the far word and the Accord and so Opus's by their mode):
+  `src/codex/beside-the-ringing.md`, by Inner Turn, a Spiralite of Corryn
+  Prime who keeps the inner turn of a habitat tuned to the Carillon
+  (`src/characters/inner-turn.md`, no pronoun supplied), the first Spiralite
+  the record names. The one entry of the series the Archive did not ask for:
+  a telling in pulse, said beside the Carillon's ringing *so whoever keeps
+  the count will find it*, recorded by the Corryn system's own listeners
+  among their recordings of the Carillon, carried in the local literature
+  the record already reads, and rendered by the translation desk as a
+  working rendering (arithmetic first, the ringing's count; then the
+  sequence's own teaching), each part opened by a figure of the ringing
+  marked and not rendered, two shapes unplaced and marked;
+  `library: "Survey Archive, Threshold Station"`, the Sevrane pattern. A
+  history as the people keep one: said beside the ringing and found at the
+  return; the ringing before everything, asked for its count and nothing
+  else; the turns built to it and the inner turn kept clean; a new one
+  answered until it keeps a count, which is the people's rule for who is
+  somebody; the unkept thing that began in the bands, kept no count and
+  widened; the quiet smaller and not gone. No year in any reckoning, no
+  return set beside any dated event, so no conversion; the unkept identified
+  with nothing by the author and with the colony by the record alone; nobody
+  speaks for the people, by the author's word; the Carillon's question left
+  as the Corryn entry leaves it; the colony's standing case moved nowhere,
+  and whether anyone on Corryn Prime read the sequence not held. The title
+  card is made (stamp UNASKED); no portrait prompt, since the people have no
+  body sheet. The section *The Spiralite history, Inner Turn* at the top of
+  this file records the choices.
 
 Not on the list, and why: the **Doreth** have one sentence on Aspenar's page
 and no page of their own (add a line when one exists); the **Levrils** are
