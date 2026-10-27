@@ -45,7 +45,7 @@ SEG = 0.95                       # segment pitch along x
 N = 7
 for i in range(N):
     x = i * SEG
-    ball((x, 0, 0.7), 1.5, (0.66, 0.85, 0.5))           # each segment its own swell; the pinch between is the seam
+    ball((x, 0.12 * math.sin(i * 0.9), 0.7 - 0.03 * i), 1.5, (0.66, 0.85, 0.5))           # each segment its own swell; the pinch between is the seam
 
 # the forward third rises into a hooded crown, its hood overhanging the front
 ball((-0.7, 0, 0.95), 1.4, (0.7, 0.8, 0.55))
@@ -62,13 +62,27 @@ for i in range(N):
     for side in (-1, 1):
         limb((x, side * 0.7, 0.3), (x + 0.1, side * 0.95, 0.06), 0.28)
 
-# broad thin vanes folded flat along the near flank, one per segment, overlapping like furled sails
-for i in range(N):
-    x = i * SEG
-    bpy.ops.mesh.primitive_plane_add(size=1, location=(x + 0.15, -1.18, 0.95), rotation=(math.radians(68), 0, 0))
-    v = bpy.context.object; v.scale = (1.05, 0.38, 1); v.data.materials.append(vane)
-    sd = v.modifiers.new('sd', 'SOLIDIFY'); sd.thickness = 0.02
-    sb = v.modifiers.new('sub', 'SUBSURF'); sb.levels = 1
+# broad thin vanes along the near flank, furled like sails and overlapping like
+# shingles from the crown back. They are what no Earth crawler has, so they
+# carry the silhouette: they cover the line of segments, and their lower edges
+# hang as a skirt over the tops of the limbs, so only the feet show.
+def sail(x0, length, zc, height, yflank, lean, rib_phase):
+    """an organic vane: a fan-ribbed membrane, deep at its root, tapering to a
+    rounded trailing point, its free edge scalloped between the ribs"""
+    bpy.ops.mesh.primitive_grid_add(x_subdivisions=40, y_subdivisions=16, size=1)
+    g = bpy.context.object
+    for vtx in g.data.vertices:
+        u, v = vtx.co.x + 0.5, vtx.co.y + 0.5          # u along the vane 0..1, v root (0) to free edge (1)
+        depth = height * math.sin(math.pi * min(1.0, 0.15 + u)) ** 0.7 * (1 - 0.55 * u)   # deep at the root, tapering
+        scallop = 0.06 * height * abs(math.sin(u * 9 * math.pi)) * v
+        vtx.co.x = x0 + u * length + 0.12 * v * length * (u - 0.3)                         # ribs fan back toward the tail
+        vtx.co.z = zc - 0.25 * height + v * depth - scallop
+        vtx.co.y = yflank - lean * v ** 2 + 0.03 * math.sin(u * 9 * math.pi * 2 + rib_phase) * v
+    g.data.materials.append(vane)
+    sd = g.modifiers.new('sd', 'SOLIDIFY'); sd.thickness = 0.015
+    sb = g.modifiers.new('sub', 'SUBSURF'); sb.levels = 1
+for k, (x0, zc, h, yf) in enumerate(((0.35, 1.05, 0.85, -1.15), (1.7, 1.0, 0.8, -1.24), (3.05, 0.97, 0.75, -1.28), (4.4, 0.95, 0.7, -1.28))):
+    sail(x0, 1.9, zc, h, yf, 0.3, k * 1.7)
 
 # the ground: flat ice; the low bank of fitted stone along the far side and round to the left
 bpy.ops.mesh.primitive_plane_add(size=40, location=(2, 0, 0)); bpy.context.object.data.materials.append(ice)
