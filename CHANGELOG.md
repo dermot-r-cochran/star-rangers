@@ -1,12 +1,12 @@
 # Changelog
 
-A- **Elvira's page: three years, and one stale tag** (`src/characters/elvira.md`, 2026-10-27, Dermot's call on the Benevolent Critic read of PR #1530). Her Open Thread said her classification was contested "for three seasons"; she appears in Season 1 only, so it now says three years, her tenure. The `unclassified` tag beside `krenyi` is dropped.
-ll notable changes to this project are documented in this file and, for releases [1.35.0] and older, in its archive in [`changelog/`](changelog/README.md).
+All notable changes to this project are documented in this file and, for releases [1.35.0] and older, in its archive in [`changelog/`](changelog/README.md).
 
 The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and version numbers follow [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`, where `MINOR` covers backward-compatible additions (a new lore entry, a new deploy.conf key, a new theme) and `PATCH` covers fixes with no new surface area. Nothing in this project's history so far has required a `MAJOR` bump: every `deploy.conf` key, theme, and build output added has been additive, and every default has stayed backward compatible.
 
 ## [Unreleased]
 
+- **Elvira's page: three years, and one stale tag** (`src/characters/elvira.md`, 2026-10-27, Dermot's call on the Benevolent Critic read of PR #1530). Her Open Thread said her classification was contested "for three seasons"; she appears in Season 1 only, so it now says three years, her tenure. The `unclassified` tag beside `krenyi` is dropped.
 - **World-name links point at the world pages** (`src/lore/habitable-for-whom.md`, `src/lore/the-ladder-in-other-tongues.md`, `src/lore/what-a-life-is-built-from.md`, `src/lore/where-the-weather-stops.md`, 2026-10-27, Fable, the Benevolent Critic read of PRs #1530, #1533, #1536 and #1537). Six links whose text names Nerath, Kharis Belt IV, Veyr-3 or Sardain pointed at the people's page because the world had none; since the 26 October home-world pages it does, and they point there now. Links only; nothing asserted.
 
 - **Codex: the Spiralite history, *Beside the Ringing*, by Inner Turn** (`src/codex/beside-the-ringing.md`, `src/characters/inner-turn.md`, `src/images/codex/beside-the-ringing.jpg`, `src/lore/planets/corryn.md`, `story-bible/open-questions.md`, 2026-10-27, Fable). The Spiralites' line of the Histories series: a telling in pulse, said beside the Carillon's ringing so whoever keeps the count will find it, recorded by the Corryn system's own listeners and rendered by the translation desk as a working rendering. The Archive did not ask for it. Its author, the first Spiralite the record names, gets a page. No year, no conversion, nobody speaks for the people, and the colony's standing case is untouched. Title card made; no portrait prompt.
