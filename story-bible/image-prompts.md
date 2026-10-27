@@ -1852,3 +1852,14 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Prompt / recipe:** the edit instruction of record is in `images.md` § 33 under Vaurel; not duplicated here.
 - **Run:** all four variations kept the body; variation 3 chosen by Dermot, cropped to 62% of the width around the body, filed through `import-image.ps1 -MaxEdge 1200` at strength 1.
 - **Why this route:** two text rounds and three edits drew an octopus, then an elephant. The blockout fixes the shape; the edit supplies skin, light and grain.
+
+## 2026-10-27 — Vaurel, second pass by the 3D pipeline (Opus, desktop)
+
+### vaurel-2.jpg — filed 27 October 2026, superseding vaurel.jpg
+- **Type:** a 3D blockout made photographic; portrait for `src/characters/vaurel.md`, superseding the 26 October frame (removed from `src/images/`, kept in git and in `images.md` § 33)
+- **Tool:** Blender 5.2 (`scripts/blockouts/vaurel-2.py`, Cycles render, 1600×900), then gemini-3.1-flash-image at 2K as an image edit of the render
+- **Source:** `story-bible/species-design.md`, *Cerebraun* (the body plan); `images.md` § 33, Vaurel (the scene)
+- **References:** the blockout render only; no filed frame
+- **Prompt / recipe:** the round-4 edit instruction of record is in `images.md` § 33 under `vaurel-2.jpg`; not duplicated here.
+- **Run:** four rounds of four (one round-4 request timed out at the provider). Round 1 drew fingers on a slab in a miniature diorama; round 2 a headless crouching torso; round 3 a disc body whose raised limb sat on the back unattached; round 4, with the limb rooted in the body, variation 3 chosen by Dermot from a labelled sheet, filed uncropped through `import-image.ps1 -MaxEdge 1200` at strength 1.
+- **Why a second pass:** Dermot read the first frame as *"a child's model of a Cerebraun"*: no scale, no shadow, uniform tubes. Scale, hard light and skin are now fixed in the geometry, not left to the edit.
