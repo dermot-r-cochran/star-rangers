@@ -20,11 +20,11 @@ gallery:
   - image: season-1-cadet.jpg
     caption: "Season 1 — Cadet"
     season: 1
-    image_alt: "Tissadelle Shepherd in her early twenties, red hair tied back, in the dark slate-grey field uniform with a stand collar, a small metal rank tab with two slate-blue bars on her chest and a plain diamond patch beside it, nothing else on the uniform, working at a smooth sealed housing in the wall of a pale compartment, her attention on it."
+    image_alt: "Tissadelle Shepherd in her mid-twenties, red hair tied back, in the dark slate-grey field uniform with a stand collar, a small metal rank tab with two slate-blue bars on her chest and a plain diamond patch beside it, nothing else on the uniform, working at a smooth sealed housing in the wall of a pale compartment, her attention on it."
   - image: season-1-first-posting.jpg
     caption: "Season 1 — Cadet, first posting"
     season: 1
-    image_alt: "Tissadelle Shepherd in her early twenties, red hair tied back, in the dark slate-grey one-piece field uniform with a stand collar, a small metal rank tab with two slate-blue bars and a plain diamond patch on her chest and nothing else, standing in a wide pale sealed dock with her kit bag on her shoulder, looking along the dock and away from the camera."
+    image_alt: "Tissadelle Shepherd in her mid-twenties, red hair tied back, in the dark slate-grey one-piece field uniform with a stand collar, a small metal rank tab with two slate-blue bars and a plain diamond patch on her chest and nothing else, standing in a wide pale sealed dock with her kit bag on her shoulder, looking along the dock and away from the camera."
   - image: season-5-halyx-corridor.jpg
     caption: "Season 5 — Line Captain, Halyx Relay"
     season: 5
@@ -108,7 +108,7 @@ Some members look like the body they share and are told apart by how they dress.
 
 [Tobble](/star-rangers/characters/tobble/) is a headmate: a distinct person sharing the system's one body, on the ordinary terms Concord personhood standards have recognised for well over a century.
 
-Tobble is a ginger cat, and uses he/him. Not a costume, a coping image, or a figure Shepherd invented to make something easier — a nonhuman member, whose own identity is simply not the species of the body he shares. Asked during cadet intake why a cat, Tobble's answer went onto the record as *because that is what I am*, and the reviewing officer, to their credit, wrote it down and moved on to the next item.
+Tobble is a ginger cat, and uses he/him. Not a costume, a coping image, or a figure Shepherd invented to make something easier — a nonhuman member, whose own identity is simply not the species of the body he shares. Asked, when the registration was filed, why a cat, Tobble's answer went onto the record as *because that is what I am*, and the reviewing officer, to their credit, wrote it down and moved on to the next item.
 
 The obvious mistake gets made constantly. The [Smart Pet](/star-rangers/glossary/smart-pet/) programme is established enough that a Ranger who mentions a cat is assumed to be mentioning an animal, and the assumption holds right up to the moment it is applied to a person. [Agent Barsik](/star-rangers/characters/agent-barsik/)'s file is the study in how useful it is to be underestimated in that direction. Tobble's is the other half of it: being addressed as somebody's animal is only tradecraft when you chose it.
 
