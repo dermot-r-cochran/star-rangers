@@ -91,7 +91,7 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/cerebraun.md", "eight primary limbs carries its own semi-autonomous ganglion"],
     portraits: {
-      "vaurel": { check: "agrees", evidence: ["src/characters/vaurel.md", "Vaurel"], note: "Filed 26 October 2026: the first Cerebraun portrait standing as the design says (on the four ventral limbs), made from a scripted Blender blockout (scripts/blockouts/vaurel.py) turned into a photograph by an image edit." },
+      "vaurel": { check: "agrees", evidence: ["src/characters/vaurel.md", "Vaurel"], note: "Filed 26 October 2026 from a scripted Blender blockout (scripts/blockouts/vaurel.py) turned into a photograph, the first Cerebraun portrait standing on the four ventral limbs; superseded 27 October by vaurel-2.jpg from a second blockout (scripts/blockouts/vaurel-2.py) with a teaching surface and doorway for scale, one hard light and the raised limb rooted in the body, after Dermot read the first as a child's model." },
       sohrel: { check: "agrees", evidence: [IMAGES_FILE, "There is no cephalopod in it."], note: "Filed 13 October 2026, the night the body was ruled." },
       tavesh: { check: "agrees", evidence: ["src/characters/tavesh.md", "small dark eyes set along the limbs"], note: "Briefed from the species page and Sohrel's entry, point for point." },
     },
