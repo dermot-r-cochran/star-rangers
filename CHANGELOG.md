@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Three small fixes from the critic read of PRs #1547–#1556** (`src/characters/idrun-hesk.md`, `src/journal/the-nearest-animal.md`, `story-bible/intake-2026-10-27.md`, 2026-10-28, Opus). Idrun Hesk's page no longer says a portrait waits on the desktop, one line above saying the record holds no picture of her. *The Nearest Animal*'s listing description now mentions the postscript that qualifies the grey-model method. The 27 October intake now says it is the shore clock's corrections that grow, while the station's forty seconds hold, as the chapters have it.
+
 - ***Four Seconds* now says what Muffin is, under the prose** (`src/seasons/s02/e10/s02e10c01.md`, `src/lore/predatory-entities.md`, `src/glossary/unfounded.md`, 2026-10-28, Opus, Dermot's *"Option 1, with the pets tag too"*). The chapter never names Muffin's kind, by design, and had no route to the page that does. It now lists *Predatory Entities* and *On the Filing of the Galley Door Specimen* under `related:`, so "From the Archive" shows both. *Predatory Entities* joins the children's tier, and *Unfounded*, which it links, joins with a new `plain:` line, as the children's glossary rule requires.
 
 ## [1.52.0] — 2026-10-27
