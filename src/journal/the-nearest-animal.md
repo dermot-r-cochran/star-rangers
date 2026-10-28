@@ -2,7 +2,7 @@
 layout: journal-entry.njk
 title: "The Nearest Animal"
 date: "2026-10-26"
-description: "Why every picture of a non-human people here starts out as an Earth animal, and the method that finally kept one body as its design describes it: a plain grey model built from the design and turned into a photograph."
+description: "Why every picture of a non-human people here starts out as an Earth animal, and the method that finally kept one body as its design describes it: a plain grey model built from the design and turned into a photograph; and a postscript on what that method did not keep."
 tags: [images, method, worldbuilding, craft]
 ---
 
