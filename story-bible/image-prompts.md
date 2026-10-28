@@ -1870,3 +1870,10 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Tool:** Blender 5.2 (`scripts/blockouts/idrun-hesk.py`), then gemini-3.1-flash-image at 2K as a thermal-band image edit of the render
 - **Run:** one edit round, three of four returned (one refused by the provider's content filter): rectangular vanes read as lit signboards on a train, a crest vane as a visor. A second blockout with upright fan-ribbed vanes read as a sail-back and was not sent. Not filed; the frame of 24 October stands.
 - **Next:** a body-design pass under `people-body-design` before another prompt or blockout. Recorded in `images.md` § 31.
+
+## 2026-10-28 — Pekkat, blockout attempts (Opus, desktop), nothing filed
+
+- **Target:** `pekkat.jpg`, the last owed portrait of § 33 (issue #1457)
+- **Tool:** Blender 5.2 (`scripts/blockouts/pekkat.py`, Cycles, 1600×900), then gemini-3.1-flash-image at 2K as an image edit of the render, three rounds of four (twelve frames)
+- **Run:** no face in any frame, the failure that stopped the 24 and 26 October rounds; every frame failed on the nearest Earth thing and the model surface (a beetle figurine, then a rubber beetle toy, then a beetle or woodlouse model). Not filed.
+- **Next:** a body decision under `people-body-design`, not another roll. Recorded with the round-3 edit instruction in `images.md` § 33.
