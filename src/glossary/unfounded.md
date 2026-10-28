@@ -9,7 +9,8 @@ short: "The Survey Archive's collective term for the predatory pattern-entities 
 related:
   - "Cosmic Cascade"
   - "Levril"
-tags: [unfounded, predatory-entities, meta-dimensional, cosmology, layers, archive-doctrine]
+tags: [unfounded, predatory-entities, meta-dimensional, cosmology, layers, archive-doctrine, undercover-pets.com]
+plain: "The Unfounded is the Survey Archive's name for all the beings from outside our universe that feed on people's feelings, from the clever ones down to the small cute ones. 'Unfounded' means there is nothing underneath them: nothing made them and nothing meant them to be. They have no leaders and do not work together. Nobody can strike a bargain with one. The way to stop one is not to feed it."
 ---
 
 **The Unfounded** is the Survey Archive's collective term for the predatory pattern-entities — the [overbearers, threnes and beautiful monsters](/star-rangers/lore/meta-dimensional-beings/) of the sapient classes, and the [cute predators](/star-rangers/lore/predatory-entities/) below them. The word is a finding, not an insult: they are patterns the [Conceptual layer](/star-rangers/lore/five-layers/) conserves that **no origin condition underwrites**. Recorded at Layer 2, denied Layer 1 — real enough to catalogue, and grounded in nothing.

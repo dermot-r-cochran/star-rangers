@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Predatory Entities: Obligers, Gilded Saints, and Cute Predators"
 category: "Entities"
-tags: [obligers, gilded-saints, cute-predators, predatory-entities, ambiguity, consent, sapient-monsters, meta-dimensional]
+tags: [obligers, gilded-saints, cute-predators, predatory-entities, ambiguity, consent, sapient-monsters, meta-dimensional, undercover-pets.com]
 description: "The three principal classes of predatory meta-dimensional entity in the Grand Ensemble Multiverse, classified by sapience and feeding method."
 image: "predatory-entities.jpg"
 image_alt: "A small kept living compartment in warm grey, its door open onto an empty lit corridor, a bunk made under a rust-coloured blanket, a cup and a folded cloth on the desk, and a plain wooden chair standing with its seat facing a bare wall; nobody there and nothing disturbed"
