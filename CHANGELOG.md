@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- ***Four Seconds* now says what Muffin is, under the prose** (`src/seasons/s02/e10/s02e10c01.md`, `src/lore/predatory-entities.md`, `src/glossary/unfounded.md`, 2026-10-28, Opus, Dermot's *"Option 1, with the pets tag too"*). The chapter never names Muffin's kind, by design, and had no route to the page that does. It now lists *Predatory Entities* and *On the Filing of the Galley Door Specimen* under `related:`, so "From the Archive" shows both. *Predatory Entities* joins the children's tier, and *Unfounded*, which it links, joins with a new `plain:` line, as the children's glossary rule requires.
+
 ## [1.52.0] — 2026-10-27
 
 Caldra, an ice-shelled moon with a dark ocean, joins the worlds, and the membrane page now says what makes a flexure: a primordial crease. The Codex files the Spiralite history, *Beside the Ringing*, and its author Inner Turn and Nuala Beirne of the Sceir Light get character pages. Vaurel's portrait is superseded by a second pass, Idrun Hesk's page now says no visualization of her is on record, and the Journal adds a postscript to *The Nearest Animal*. The homepage opening now says both clocks are right. Tissadelle's arc is brought into line with the record's counts and in-world time, Galen's pronouns are completed, and world-name links point at the world pages.
