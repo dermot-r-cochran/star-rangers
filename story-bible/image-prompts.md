@@ -1902,3 +1902,9 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Prompt / recipe:** impression round 2 in `images.md` § 34, verbatim
 - **Run:** two impression rounds of four; round 1 an elephant, round 2 variation 2 chosen.
 
+### elsha-rootkin.jpg — filed 29 October 2026
+- **Type:** an artist's impression (gouache survey plate), portrait for `src/characters/elsha-rootkin.md`, under `images.md`, *When a photograph keeps failing*
+- **Tool:** Grok Imagine, Image mode, 16:9, second Chrome profile; downloaded by Dermot from the Library; `import-image.ps1 -MaxEdge 1200 -Finish 0`
+- **Prompt / recipe:** impression round 2 in `images.md` § 42, verbatim
+- **Run:** two impression rounds of four after four Grok photographic rounds; impression round 2 variation 2 chosen.
+

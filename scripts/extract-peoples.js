@@ -230,6 +230,7 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/verdani.md", "A Verdani is not humanoid, and the reason is arithmetic rather than aesthetics."],
     portraits: {
+      "elsha-rootkin": { check: "agrees", evidence: ["src/characters/elsha-rootkin.md", "each edged along its leading margin with a row of dark bead-like nodes"], note: "Filed 29 October 2026 as an artist's impression, after photographic rounds that drew Earth leaves, a potato sprouting ferns and studded midribs; the sensing organs on the leading margins, as the species page puts them." },
       "isren-farrowkin": { check: "agrees", evidence: ["src/characters/isren-farrowkin.md", "with no head and no face"], note: "Filed 12 October 2026 (century batch 6)." },
       "meril-duskkin": { check: "agrees", evidence: ["src/characters/meril-duskkin.md", "the duller olive-brown of a fenland strain"], note: "Filed 26 October 2026 (round 1, his pick): one olive-bronze vane over a creased mound, no head or face." },
       "tavin-ledgekin": { check: "agrees", evidence: ["src/characters/tavin-ledgekin.md", "the pale, high-reflectance colour of a high-terrace strain"], note: "Filed 26 October 2026 (round 1, his pick): one pale vane over a creased mound, no head or face." },
