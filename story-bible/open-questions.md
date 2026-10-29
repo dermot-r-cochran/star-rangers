@@ -59,6 +59,95 @@ the bar for him.
 
 ---
 
+## A Prismeri instructor at the Academy, Essarith — the daily Fable fill of 29 October 2026 — DRAFTED same day on Fable, choices named in the PR
+
+The *A Prismeri on a Corps posting* line of the 14 October worklist below
+(*Peoples the record says serve in the Corps, or could, with no Ranger on
+record*), taken by the daily Fable fill the day Dermot narrowed choice 4 of
+*Non-humanoid peoples in the Corps* (verbatim: *"Only the Academy would
+needed seconded or external faculty as instructors but would create a
+conflict of interests and neutrality if used for General Operations or
+Special Missions"*; `species-design.md`, choice 4). Drafted as
+`src/characters/essarith.md`, grounded only in `prismeri.md`,
+`planets/prismere.md`, `codex/plates-of-the-prismeri.md`,
+`codex/two-points-in-one-life.md`, `characters/isserith.md`,
+`characters/orisseth.md`, `characters/halle-ostrander.md`,
+`star-rangers-academy.md` (*Colleges and Schools*, *Instruction Is a
+Posting, Not a Ladder*, *What Is Taught, and How Uncomfortably*),
+`star-rangers-command-hierarchy.md` (teaching at the Academy not counted as
+general operations), `rank-insignia-and-uniform.md`,
+`the-ladder-in-other-tongues.md` (*Where There Is No Rendering*),
+`federation-of-sentient-beings.md`, S01E00C08 (the compact's words running
+one way) and the ruled Prismeri sections of `species-design.md`,
+`mind-design.md` and `civilian-dress.md`, with the rest marked absent in a
+*What the Record Does Not Carry* section. Portrait prompt in `images.md`
+§ 45, written the same day, not generated, so the page carries no `image:`.
+`prismeri.md` gains one sentence as an extension, the ruling's own shape
+(a liaison posting held by a guild member is a teaching posting at the
+Academy and nothing else; a Prismeri on a field posting would be a sworn
+Ranger and the record names none), and a See-also clause; the narrowing
+said a lore page changes when a character page first needs it, and this is
+that page. The Prismeri *In the Corps* lines of `species-design.md` and its
+census row are corrected from *none* to the page.
+
+**Why the Academy, and not a sworn Ranger.** The narrowed line allowed
+either. Every Prismeri off-world line on record is a guild reader under
+contract: the people's page writes *Ranger liaison postings* into the
+guild's posting contracts, Orisseth's account says *some of us go to your
+postings* and gives what the readers who come back say, and the ladder page
+lists the Prismeri among the peoples who *work with* the Corps; no page has
+a Prismeri enlist, and choice 4 was ruled A (seconded, not sworn) on 14
+October before it was narrowed. So the record supports the secondment and
+only names the Academy as its place; a sworn Prismeri Ranger would have
+been a new line with nothing on record behind it, and the page marks it
+absent instead. The fill also pays what three pages left open: Isserith's
+page, Orisseth's page and the receiving note of *Two Points in One Life*
+each mark what a Prismeri on a liaison posting is on the Corps' rolls as
+not established, and Essarith's page answers it for this posting and no
+other, in the terms the ruling gave.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Essarith*, coined, rendered as the Federation record's
+spelling with no meaning asserted, on the two attested Prismeri names'
+shape, a vowel, a doubled *s*, an *r* and the *-th* close, and told apart
+from both at a glance; the alternatives are *Ollisreth* and *Ursareth*, or a
+name he gives); **the pronoun** (*they*, the translation default and the
+people's page's own usage, as for Isserith and Orisseth; nothing new);
+**the school** (the Academy page's *piloting and navigation track* of the
+Survey Corps' college, since fold-route confirmation is what the guild does
+for the Survey Corps and astrogators are who the planet page says name the
+Lattice; the alternative was a school the record does not name, which the
+Academy page's *the list of branches is open* would allow but which would
+have coined one); **what is taught** (nothing a cadet cannot have: what a
+confirmation is and is not, from the Codex account; the Lattice as the one
+sky that shows its corridors, from the planet page; the one-way compact,
+from S01E00C08 and the Codex; never the sense itself); **no rank, no tab,
+no uniform** (a seconded reader is not a Ranger, the uniform page binds
+Rangers, a Prismeri wears nothing on record and no uniform equivalent is
+established, so the page says what is not worn and marks what the Academy
+asks of an outside instructor as absent); **teaching from the deck** (the
+people's page's *a Prismeri addressed on the ground is at a disadvantage
+and knows it* and the Codex's four knuckles, taken as the posting's cost and
+nothing more; the page does not place the college or set its gravity, and
+holds the posting to what the people's page says of a standard-gravity
+station); **certifies nothing** (the Academy page gives the college its
+examinations; whether a seconded instructor examines is marked absent);
+**the third Prismeri** (Essarith is the third the record names; Prismere's
+delegate of *Nobody Present* stays unnamed).
+Not asserted: the college's location or gravity; the year the secondment
+began or ends; the cadets, by name or number; whether any Prismeri has
+enlisted as a Ranger, or held a liaison posting before; what the guild makes
+of a teaching posting; whether the survey's two reports are on any college's
+syllabus; the Prismeri language; any chapter. Not done: no chapter; no
+image generated; no change to `the-ladder-in-other-tongues.md` (*work with
+the Corps* still holds) or to `star-rangers-academy.md` (the narrowing is
+realised on the people's page, where the contracts are, and the Academy
+page's *held by serving officers* stands as the rule the secondment is the
+named exception to; whether the Academy page should carry a sentence on
+external faculty is left for Opus as a lore question).
+
+---
+
 ## The Spiralite history, Inner Turn — 27 October 2026 — DRAFTED same day on Fable (the line is a telling), choices named in the PR, his to overrule
 
 The Spiralites line of the *Histories in their own voices* series below, the
@@ -2911,7 +3000,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 **Peoples the record says serve in the Corps, or could, with no Ranger on record** (added 14 October 2026 from `species-design.md`, *In the Corps*):
 - [x] ~~**A Chthonari Ranger**: `chthonari.md` and the Federation page say Chthonari are disproportionately represented in the Engineering Corps' fold-scaffold specialization, and name Chthonari recruiters, but no Chthonari Ranger is named. Tsikk, Tekka, Tikket and Kattik are a Federation contractor crew.~~ **Filled 19 October 2026** on Fable at Dermot's direction: Kettsa, Senior Officer, Engineering Corps, fold-scaffold specialization, the Earth–Sun L5 fold-staging zone, 2826 UCSD (`src/characters/kettsa.md`; portrait prompt `images.md` § 19, not generated; the section *A Chthonari Ranger, Kettsa* above records the choices; PR #1362).
 - [x] ~~**An Ovruhn Ranger**: `ovruhn.md`, *In the Corps*, describes Ovruhn Rangers in structural survey, search, acoustic watch and disaster mass care; the one named Ovruhn, Vhen, is a chorus keeper on Thavren. This line is the Corps half of the Ovruhn entry's *"any Corps character"*.~~ **Filled 24 October 2026** (Fable, by the daily Fable fill; the section *An Ovruhn Ranger, Rhuven* above records the choices): Rhuven, Field Officer, Survey Corps, Meteorology Branch, the acoustic observer of a world with weather the record does not name, posted alone, 2826 UCSD (`src/characters/rhuven.md`; portrait prompt `images.md` § 34, not generated). The acoustic-watch line of the four was taken because it is the one the record already gives a branch and a doctrine (`star-rangers-survey-corps.md`, the Meteorology Branch's locally posted observers); which corps holds search and rescue, and which the Ovruhn mostly join, stay not established.
-- [ ] **A Prismeri on a Corps posting**: guild astrogators do Survey Corps fold-route confirmation under the compact, and Prismeri contracts name *Ranger liaison postings*, but no Prismeri individual is on record (the *Federation peoples* Prismeri line above is the people as a whole; this one is the posting). Whether such a posting is a Ranger or a seconded guild member is choice 4 in that section. **Choice 4 was ruled A on 14 October and narrowed 29 October 2026** (Dermot, verbatim: *"Only the Academy would needed seconded or external faculty as instructors but would create a conflict of interests and neutrality if used for General Operations or Special Missions"*; `species-design.md`, choice 4): the line is fillable either as a sworn Prismeri Ranger on a field posting, or as a seconded guild member teaching at the Academy, never as a seconded member on a general operations or special purpose mission. Notes above that call choice 4 open are stale on this point.
+- [x] ~~**A Prismeri on a Corps posting**: guild astrogators do Survey Corps fold-route confirmation under the compact, and Prismeri contracts name *Ranger liaison postings*, but no Prismeri individual is on record (the *Federation peoples* Prismeri line above is the people as a whole; this one is the posting). Whether such a posting is a Ranger or a seconded guild member is choice 4 in that section. **Choice 4 was ruled A on 14 October and narrowed 29 October 2026** (Dermot, verbatim: *"Only the Academy would needed seconded or external faculty as instructors but would create a conflict of interests and neutrality if used for General Operations or Special Missions"*; `species-design.md`, choice 4): the line is fillable either as a sworn Prismeri Ranger on a field posting, or as a seconded guild member teaching at the Academy, never as a seconded member on a general operations or special purpose mission. Notes above that call choice 4 open are stale on this point.~~ **Filled 29 October 2026** (Fable, by the daily Fable fill; the section *A Prismeri instructor at the Academy, Essarith* above records the choices): Essarith, a Full Wings reader of an astrogation guild of Prismere, seconded under the compact as an instructor at the Survey Corps' college of the Academy, in the piloting and navigation school, 2826 UCSD; on the Corps' rolls as the guild's, not a Ranger, no rank and no tab (`src/characters/essarith.md`; portrait prompt `images.md` § 45, not generated). The Academy shape was taken over a sworn Ranger because every Prismeri off-world line on record is a guild reader under contract (the contracts' *Ranger liaison postings*, the readers who come back in *Two Points in One Life*) and no page has any Prismeri enlist; `prismeri.md` gains the ruling's sentence as an extension. A sworn Prismeri Ranger stays open, named absent on the page, and would be a field posting under the ordinary ladder.
 - [x] ~~**A Verdani in or beside the Corps**: Verdani need only full-spectrum light, which Ranger vessels already carry, and Isren Farrowkin sponsored the Survey Corps data-sharing proposal, but no Verdani Ranger is on record.~~ **Filled 25 October 2026** (Fable, by the daily Fable fill; the section *A Verdani Ranger, Elsha Rootkin* above records the choices): Elsha Rootkin, Deputy Officer, Survey Corps, Ecology Branch, on the planetary survey crew of a Survey vessel the record does not name, on a watered world it does not name, 2826 UCSD (`src/characters/elsha-rootkin.md`; portrait prompt `images.md` § 42, not generated). *In* the Corps rather than beside it, since a secondment is the shape choice 4 below reserves for the Prismeri and the record gives the Verdani no compact instrument for one; the Ecology Branch because its *habitable for* is the question the people's light budget already asks. One option is left for him in that section, the strain colour, with the canopy belt recommended.
 - [ ] **The corps of the four non-humanoid Rangers on record**: Mira of Brine, Qiren Tal, Sethka Ru and Suvra Kel each have a role and no corps or rank on their pages; fill when a chapter or portrait needs one, on the Veyr precedent of one plain seated tab until then.
 

@@ -2293,8 +2293,13 @@ disagreement between a rendering and a tab, the tab is right"* (same page).
   (`the-ladder-in-other-tongues.md`). Whether a Prismeri on a *Ranger liaison
   posting* is a sworn Ranger or a guild member seconded under contract is
   **not established**, and is choice 4 below.
-- **Named Rangers on record.** None. The people are seen only through Halle
-  Ostrander's plates (`open-questions.md`, worklist).
+- **Named Rangers on record.** None. On a *Ranger liaison posting*, one,
+  since 29 October 2026: **Essarith**, a Full Wings guild reader seconded
+  under the compact as an instructor at the Survey Corps' college of the
+  Academy (`src/characters/essarith.md`), not a Ranger and on no ladder,
+  the shape choice 4's narrowing of the same day allows. The people are
+  otherwise seen through Halle Ostrander's plates and the two civilian
+  pages, Isserith and Orisseth.
 - **Uniform equivalent and rank.** **Not established.** PROPOSED
   (`civilian-dress.md`, Prismeri): nothing on the wing membrane or over the
   facet band. A seated plate goes on the body. DERIVED: the gold-and-blue of
@@ -2558,7 +2563,7 @@ instance of a rule whose other instances it has not written.
 | Veyr Basaltborn | Qiren Tal | stress-and-heat postings; certification (corps not established) | corps colour and tab seated on the lattice | derived (ruled 12 Oct) |
 | Serephine Dunekin | Sethka Ru | long-range scouting (corps not established) | shell fitted; filtration gear for comfort | derived |
 | Pelagene Littoral | Mira of Brine | environmental survey (corps not established) | shell sections between the folds, one plain tab | derived (taken 13 Oct) |
-| Prismeri | none | guild astrogators on Survey Corps fold-route work by compact; liaison postings by contract | not established; nothing on wing or facet band (proposed) | compact derived; Ranger status open (choice 4) |
+| Prismeri | none sworn; Essarith (29 Oct), seconded instructor at the Academy | guild astrogators on Survey Corps fold-route work by compact; liaison postings by contract, Academy faculty only (choice 4, narrowed 29 Oct) | not established; nothing on wing or facet band (proposed); no tab, no rank | compact derived; secondment shape ruled 29 Oct; liaison gap filled 29 Oct |
 | Ollune | none | method only: Safety Corps standards | tab on the hull, office in the near word (proposed) | not established (choice 3) |
 | Verdani | Elsha Rootkin (25 Oct) | Survey Corps, Ecology Branch, planetary survey; light-mapping survey (proposed) | shell in small sections on the hide between the vane roots, tab off the vanes; kinstrain name, no token | derived; gap filled 25 Oct |
 | Cerebraun | none | none on record | nothing over the display skin (proposed) | marked absence (choice 2) |
