@@ -566,7 +566,7 @@ better than cutting to a picture.
 - **Tool:** Grok Imagine, Director (beta); the project is titled *The Long White Trail*
 - **Date:** filed 2026-10-29
 - **Used by:** `src/journal/the-long-white-trail.md`
-- **Prompt:** one line, as Dermot reported it on 29 October 2026: *"write a trailer for FianIlchuinne.com"*. The generator wrote the narration and every particular in it (Maeve, Ciarán Doyle, *Lúnasa*, *Brightwater*, the ring, the fifty years). Any per-shot prompts the Director derived are not recorded; do not reconstruct them from the frames
+- **Prompt:** one line, as Dermot reported it on 29 October 2026: *"write a trailer for FianIlchuinne.com"*. The generator wrote the narration and every particular in it (Maeve, Ciarán Doyle, *Lúnasa*, *Brightwater*, the ring, the fifty years). That line was the only prompt (Dermot, the same day): the Director planned and generated every shot from it, so there are no per-shot prompts to record. Do not reconstruct any from the frames
 - **Negative:** none
 - **Notes:** 2:33, 854×480, 24 fps, H.264 + AAC 48 kHz stereo, 26 MB. 480p, below this file's Delivery rule (720p for a Grok-sourced piece); not upscaled. Narration composited as captions, correctly spelled; the audio was not heard. Poster frame `the-long-white-trail-poster.jpg` taken at 2:29, no caption in frame. A 4:12 cut with a launch-and-docking prologue and no captions was also supplied and is not filed. Not canon and not Codex: it departs from the record on Threshold's dates (a fifty-year watch), its place (an orbital *Lúnasa*), its wording (*layers* for membranes), new particulars (Ciarán Doyle, *Brightwater*, a ring) and diegetic light (violet clocks). The Journal entry lists each.
 
