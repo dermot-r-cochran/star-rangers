@@ -10,7 +10,7 @@ locationType: "Moon"
 
 Most worlds are surveyed from above. Caldra was surveyed from below its own sky, because it has one, and the sky is ice.
 
-**Caldra** is a moon of a gas giant that carries a survey catalogue number and no name the record has been given to use. It is a little smaller than Earth's Moon, rock at the core, and its whole surface is a shell of water ice between twenty and thirty kilometres thick. Under the shell lies an ocean about a hundred kilometres deep that covers the moon entirely. Nothing under the ice has ever been lit by the star, and nothing that lives there has eyes. Surface gravity is about a seventh of standard.
+**Caldra** is a moon of a gas giant that carries a survey catalogue number, the working name the survey gave it, and no name of its own. It is a little smaller than Earth's Moon, rock at the core, and its whole surface is a shell of water ice between twenty and thirty kilometres thick. Under the shell lies an ocean about a hundred kilometres deep that covers the moon entirely. Nothing under the ice has ever been lit by the star, and nothing that lives there has eyes. Surface gravity is about a seventh of standard.
 
 ## Heat From Below
 
@@ -36,7 +36,7 @@ The survey's biologists name three things, in the order they kill. A vent going 
 
 ## Reaching It
 
-Caldra's ocean is reached through the ice by sterile probe and by crewed pressure craft, under protocols that exist because a biosphere sealed under ice has never met anything from outside it. The survey's lights are the first light the floor has had. In them, life on Caldra has no colour of its own to show: what a camera records is the colour of the minerals it has drawn out of the water, black and rust and white.
+Caldra's ocean is reached through the ice by sterile probe and by crewed pressure craft, under protocols that exist because a biosphere sealed under ice has never met anything from outside it. The survey's lamps are the first light that has ever come down to the floor. In them, life on Caldra has no colour of its own to show: what a camera records is the colour of the minerals it has drawn out of the water, black and rust and white.
 
 ## What the Record Does Not Hold
 

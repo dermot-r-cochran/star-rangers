@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Flexure frame and Caldra's name, two critic findings ruled** (`src/lore/concordant-membranes.md`, `src/lore/glossary/canonical-glossary-and-migration-guide.md`, `src/lore/planets/caldra.md`, 2026-10-29, Opus, at Dermot's *"All recommendations accepted"*). Clarifications. The flexure page and the glossary no longer say a crease is fixed against the stars, which the Sceir Light's two centuries on one shore contradicted. Caldra's first line now names the survey's working name the page uses. Its survey lamps are the first light that has *come down* to the floor, since vents can glow. The 28 October intake's three drafts are confirmed as settled.
+
+- **A frame that resembles an Earth creature may be kept with one fundamental difference** (`story-bible/images.md`, *Conventions*, 2026-10-29, at Dermot's direction). The difference comes from the people's body sheet; the image critic's Earth-animal check still applies. First case: Pekkat.
+
 ## [1.53.0] — 2026-10-28
 
 Three new chapters in S01E00 reach the wider scales: *Nothing Taken*, a fairy wind at a Sí Gaoithe boundary zone; *Left Blank*, the first zone other than the local one written into the record; and *Before the Close*, a Conjunction window at Tír na nÓg's tree line. Donncha Ó Laoire and Éilis Ní Mhurchú, the two viewpoints of *Nothing Taken*, get character pages. *Four Seconds* now links the page that says what Muffin is, and *Predatory Entities* and *Unfounded* join the children's tier. A Blender blockout for Pekkat was tried and nothing filed, and three small fixes follow the critic read of the 27 October PRs.
