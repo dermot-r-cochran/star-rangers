@@ -2,7 +2,7 @@
 layout: journal-entry.njk
 title: "The Long White Trail"
 date: "2026-10-29"
-description: "Given nothing but this site's address, a video generator's trailer tool wrote and made a film about the forty seconds, narrated by a woman the record has never met, fifty years into a future it has not reached. It is shown here as an impression of the record, not a page of it, with an exact account of where it departs."
+description: "Asked for a trailer and given nothing but this site's address, a video generator wrote and made a film about the forty seconds, narrated by a woman the record has never met, fifty years into a future it has not reached. It is shown here as an impression of the record, not a page of it, with an exact account of where it departs."
 tags: [editorial, craft, process, images, canon]
 ---
 
@@ -15,7 +15,7 @@ That needs saying first, because the film is persuasive. An old woman stands on 
   Your browser does not support the video element. <a href="/star-rangers/video/the-long-white-trail.mp4">Download the film</a>.
 </video>
 
-*The Long White Trail. 2 minutes 33 seconds, made in Grok Imagine's Director, a tool for trailers, from a prompt that was only this site's address. The generator wrote the narration and everything in it. An impression, not the record.*
+*The Long White Trail. 2 minutes 33 seconds, made as a trailer in Grok Imagine's Director, from a prompt that was only this site's address. The generator wrote the narration and everything in it. An impression, not the record.*
 
 ## Why it is not a chapter
 
