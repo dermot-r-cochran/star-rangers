@@ -1896,6 +1896,8 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Files:** nothing downloaded; the batches stay in that profile's Grok Library.
 - **Later the same day:** Elsha Rootkin rounds 3 and 4 (the two extra rounds a near miss earns): round 3 cropped every vane and made the hide a body, but read as *"a potato sprouting ferns"* (Dermot); round 4 removed the mound and rooted each vane in a collar of hide, but put the beads down the midribs. Rhuven, option A of the body review (Vhen's flank framing): a horse's flank with strap-like tendrils. Nothing filed; an artist's impression is open for both under the rule of the same day.
 
+## 2026-10-29 — Rhuven and Elsha Rootkin, artist's impressions (Opus, Dermot's Chrome)
+
 ### rhuven.jpg — filed 29 October 2026
 - **Type:** an artist's impression (gouache survey plate), portrait for `src/characters/rhuven.md`, under `images.md`, *When a photograph keeps failing*
 - **Tool:** Grok Imagine, Image mode, 16:9, second Chrome profile; saved from the page at Dermot's word; `import-image.ps1 -MaxEdge 1200 -Finish 0`
