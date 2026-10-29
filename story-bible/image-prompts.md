@@ -1887,3 +1887,11 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **References:** none; the 26 and 28 October rounds with references or a blockout came back as models
 - **Prompt / recipe:** the prompt of record in `images.md` § 33 under `pekkat.jpg`, round 2's text; not duplicated here.
 - **Run:** two rounds of four. Round 1 drew the ridges as a painted stripe on a rubber model; round 2, with a hard pitted surface and the ridges as rows of domed organs, gave variation 4, filed at Dermot's pick.
+
+## 2026-10-29 — Rhuven and Elsha Rootkin, Grok Imagine stills (Opus, Dermot's Chrome), nothing filed
+
+- **Tool:** Grok Imagine, Image mode, 16:9, in the second Chrome profile (Imagine stills there, Director in the main one, his word the same day), under the 24 October grant; prompts shortened subject-first, recorded in `images.md` §§ 34 and 42
+- **Rhuven:** one round; no refusal, but every frame a horse's back with the shell as a saddle and the limbs hanging like fingers. Next is a body question, not a roll.
+- **Elsha Rootkin:** two rounds, the first requests the filter passed. Round 1 drew Earth leaves with studs down each midrib; round 2, the nodes moved to the rim and the midrib dropped, drew bead-rimmed fan vanes with no Earth leaf, but every vane whole and the hide like a tarpaulin in two frames. Near miss, round 2 variation 2.
+- **Files:** nothing downloaded; the batches stay in that profile's Grok Library.
+
