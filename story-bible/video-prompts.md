@@ -1220,3 +1220,149 @@ chapter, kept to figures from behind here); `src/lore/threshold-station.md`
 is not on file); `story-bible/starship-design.md` sheet E (a Threshold-class
 station's shape is open, awaiting his choice, which is the second reason the
 station stays out of frame).
+
+### D6. The Up-People's First Stone (S11E01C05)
+
+**Status, 29 October 2026: run once, held for the weekly limit.** Version 1,
+published 13:28, came back at 7:15 and 37 scenes against the 3 to 4 minutes
+asked, and Director stopped on a question, *What does a Pandoid look like?*,
+offering A (panda-like, round flat face; its own pick), B (bear-like, grey,
+round ears) and C (panda-sloth, long claws). The account's Grok quota was
+spent the same day and resets on **5 November 2026**; nothing has been answered
+or filed. Chosen as the first of three subjects (Stone-First's knock, Donncha's
+door, Órla Shepherd's walk home) screened that day from all 183 character
+pages for one filmable image that carries a whole arc; Donncha's is already D2.
+
+**The answer owed on 5 November, in one round.** Pick **A** and add, on one
+line, with no line break (Enter sends in that box):
+
+> A, with these corrections: grey all over, never black and white; no external
+> ears; no claws; a big round head on a round body with almost no neck, a short
+> flat face with a very short muzzle, a small closed mouth, large dark round
+> eyes set wide; dense real grey fur, uneven and a little damp, paler at the
+> crown on this older adult; upright on two short hind legs, about the size of
+> a person in a cold suit; gentle-looking, like a very large teddy bear
+> photographed as a real wild animal, never a cartoon, costume, ape or sloth.
+> Also tighten the cut to about four minutes, keeping the long held shots and
+> the narration unchanged; it stays in the cave, never a forest.
+
+Grounding for the answer: Dermot's ruling of 7 October 2026 (*"Pandoids look
+more like cute giant teddy bears than like sloths"*) and the Stone-First prompt
+of record in `images.md`; the Ewok rule and Teddy's four rounds in
+`image-prompts.md` (a positive build moves the generator, a negated name does
+not); the cold-suit scale in `species-design.md`. **The instruction as sent was
+wrong on the body:** it said *not a teddy bear, not a toy*, the reverse of the
+ruling, which is the likeliest reason Director asked. The instruction below is
+recorded as sent; any re-run replaces clause (3) with the answer above.
+
+**Title and length.** *The Up-People's First Stone.* 3 to 4 minutes asked; 7:15
+returned.
+
+**Instruction as sent** (29 October 2026, pasted as one line with the script
+appended after *SCRIPT (narrate exactly as written; each [pause] is a silence
+and is not spoken):*).
+
+> Make a quiet narrated short film, three to four minutes, from the script exactly as written, with no words added, changed or spoken on screen; the narration is the only voice, calm, slow and unhurried, with real silences at each [pause], and the [pause] marks are not spoken. (1) Point of view: everything is seen from where the one person present could have stood, at their eye-line, mostly low and looking slightly down, as a reconstruction of what they saw; no other viewpoint exists, so the frame knows less than the scene and the thing being reacted to is often partly out of shot. (2) Setting: a deep natural cavern, pale silt floor, broken wet rock, a narrow crack in the rock wall that a person must squeeze through sideways; the only light is one low hand lamp held near the ground and the faint steady amber and blue-green glow of fungus coating the walls; very dark, with detail kept in the shadow; nothing else glows. (3) The being on the far side: large, powerfully built, upright, thick fur that reads grey against stone, with a face of its own, completely still; a real living being of its own kind, not a cartoon, not a teddy bear, not a toy, not a costume, not a person in a suit; show it first as feet standing on silt, then the lamp rises slowly up the body to the face and holds there, mostly in shadow, for a long time. (4) The human is never seen as a face or a whole body: only hands, forearms in a grey-green field coverall sleeve, the lamp, and a rough stone the size of two hands carried against the chest. (5) The action, in order and nothing more: the squeeze through the crack with the lamp low; the feet; the slow look upward; the long stillness; kneeling and setting the stone on the pale silt a hand's width from the being's feet; one step back; the human's voice heard only as an indistinct low murmur that rises at the end, with no intelligible words; the wait; the being bending, placing one hand on a large rock at the edge of the silt and moving it a little; the deep grinding sound through the floor; stillness; the slow return through the crack with the lamp low; then the two stones alone on the silt in the fungus light. (6) Camera: long unbroken takes, very few cuts, slow continuous drift that never locks off and never settles, a faint tremor as if held by a breathing person; no drone shots, no impossible camera, no passing through rock, no crash zoom, no whip pan, no time-lapse, no slow motion, not a trailer, not a montage. (7) Strictly no on-screen text, titles, captions, subtitles, readouts, holograms, interfaces, lens flares or light streaks; no horror, no jump scares, no sudden movement toward camera. (8) Sound: deep quiet, slow dripping water, the low hum of the place, footsteps and scraping on silt and rock, the stone set down, the rock moved; music almost absent, a few sparse low tones at most, never cut on a beat. Peaceable, patient, unsettling at most, never frightening.
+
+**Narration.** Drafted by Fable from S11E01C05, mostly the chapter's own
+sentences, in the chapters' third person of the teller; reviewed by Opus
+against S11E01C05, S11E02C03 and S14E01C04. Aravena is never named or quoted,
+and the telling Stone-First gives on the line in S14E01C04 is not retold, since
+that chapter declines to set it down.
+
+> This is told the way things are told below the roof, by the one who was there, because for the whole of it there was only one.
+>
+> Stone-First was on the line.
+>
+> The count had a number, and the number was not small any more. On the line, in the open, with the shapes of the up-people's feet in the silt, on all the times when nothing happens.
+>
+> [pause]
+>
+> The up-people came down, up above, the way they did. The loud came down the long passage the way water comes down a passage, all at once and then steadily, and settled at the junction, and became the working.
+>
+> Then it did not.
+>
+> The loud had come down the passage and had not settled. It had come on. Down the third passage, toward the crack, which it had never done at the start of a working time in all the tellings since the humming stone was lifted.
+>
+> The light came into the squeeze.
+>
+> One light. Low. Close to the ground, moving the way a person moves who is trying not to throw anything, and the sound in the crack was one person's, scraping.
+>
+> One of them was coming through.
+>
+> Stone-First did the thing Stone-First does, which is nothing, with the whole body still, so that nothing done while a thing is happening becomes part of the telling by mistake.
+>
+> And the light came out of the crack onto the silt, held low, and behind it the smallest of the up-people. And the light lifted a little, and found Stone-First's feet, and went up, slowly, the way a person looks.
+>
+> It stopped at Stone-First's face, and stayed there.
+>
+> Stone-First did not move. The up-person did not go back.
+>
+> [pause]
+>
+> Here is what the up-person did, in order, because it is worth getting right.
+>
+> They were carrying a stone. A stone of the upper levels, the runners' ground, the size of two hands, held in two. They stood on the silt with the light low and the stone held, and looked at Stone-First for as long as a short telling takes, and Stone-First could see them wanting to go back through the crack with every part of the body that was not the eyes.
+>
+> They did not go.
+>
+> Then they knelt.
+>
+> They set the stone down on the line. On the silt, a hand from Stone-First's feet. It made the sound a stone makes when it is put down on ground, small and plain and complete, and the ground took it, and told Stone-First what the ground tells you: that someone was here.
+>
+> Late. That was the first thing. The manners say you move it before you are seen. The up-person had stood in the open and been seen, and then moved the stone. A stone moved late is still a stone moved.
+>
+> Theirs. That was the second thing. It was not the people's stone, moved for them. It was a stone they had chosen and carried and set down themselves. The Told had waited a whole life for somebody else to move a stone, and had not known what it would look like, and this was what it looked like: late, and clumsy, and done kneeling, and theirs.
+>
+> [pause]
+>
+> The up-person stood, and took one step back, toward the crack. Away from the stone. Leaving the place.
+>
+> And then said a thing.
+>
+> It went up at the end. It was said to Stone-First, not to the dark. Stone-First heard it and did not know what it was, and this telling does not say, because the one who was there does not know, and a telling that says more than the one who was there knew is not a telling.
+>
+> The up-person waited. With the whole body still. The way you wait for a hand to be filled.
+>
+> There is only one thing the Told do when a stone has been moved for them, and it is not to speak, because a stone is not answered with a word.
+>
+> Stone-First bent, and put a hand on a rock at the edge of the silt, a good one, and moved it.
+>
+> The ground spoke. The up-person heard it. The whole body went still in a new way, the way a small one goes still when a sound they did not know turns out to mean something. They stood like that for as long as it takes to say a name.
+>
+> Then they went back through the crack, slowly, with the light held low, not scraping more than they had to, and up.
+>
+> [pause]
+>
+> Stone-First stood on the line with two stones on it, one on each side of the place where the feet had stopped, and did not go after them, and did not go down, and stayed, for a while, in the light that never changes, so that the telling would have an end.
+>
+> That is the whole of it. Nothing is left out, because there was nothing in it that was a reason.
+>
+> [pause]
+>
+> The two stones are where they were left. A stone that has been moved for you is not yours to move again. You do not tidy a beginning away.
+>
+> It is not a telling yet. A stone is not a telling. It is only the beginning of one.
+>
+> But every telling begins with one, and this one had two.
+
+**Negatives as objects.** The shared negative, plus: no legible lettering
+anywhere; no visible survey instrument (the imager was in its case that shift,
+S11E02C03), so the camera is a person's eye-line, not a worn device; no human
+face; no intelligible human words; no second being on the line; no forest; no
+glow but the fungi and the hand lamp.
+
+**Judging line.** The film fails if the being has ears, claws, a snout, black
+and white colouring, or reads as an ape, a sloth, an Ewok or a costume; if the
+human's face is shown or their words are intelligible; if anything glows but the
+fungi and the lamp; if there is a forest, a third stone before the end, or text
+in frame; or if a line of narration is added or changed.
+
+**Grounding.** `src/seasons/s11/e01/s11e01c05.md` (the whole sequence and most
+of the narration); `src/seasons/s11/e02/s11e02c03.md` (the survey's side: the
+stone held to the chest through the squeeze, the imager still in its case);
+`src/characters/stone-first.md`; `src/glossary/the-told.md` (translation
+register, no phonetic forms); `src/lore/planets/fliade.md` (*Below the Roof*,
+the amber and blue-green fungi, the Pandoid body). Three particulars are not on
+record and are low-risk: dripping water, the grey-green coverall (from the
+survey portraits), and the line itself being fungus-lit.
