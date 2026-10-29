@@ -245,6 +245,23 @@ invents no fact: it gives the reason in the page's own terms (light the record's
 cameras cannot see by, a scale no frame holds, a people that declined) and
 implies no shape the page does not state.
 
+**When a frame resembles a terrestrial creature** (Dermot, 29 October 2026,
+verbatim: *"Even if a generated image coincidently resembles a terrestrial
+creature there might be some fundamental difference that could be added in"*).
+A resemblance to an Earth animal is not by itself a failed frame. Where a
+generated body happens to read as a beetle, a woodlouse or any other Earth
+creature, the next round may keep that frame's overall shape and add one
+fundamental difference that no Earth animal has and that the people's body
+sheet already states or allows (a limb count, a joint that bends the wrong
+way, a sense organ with no Earth equivalent, a surface no Earth body grows),
+made prominent enough to read at the frame's size. The difference comes from
+the record, never invented for the frame: if the sheet supplies none, the
+design question goes back to `people-body-design` first. It sits beside the
+image critic's Earth-animal check rather than replacing it: a frame that
+reads as an Earth animal and carries no such difference still fails. First
+case: Pekkat (§ 33), whose blockout frames of 28 October all read as a
+beetle model.
+
 **Diagrams on technical lore pages** (Dermot, 29 September 2026, verbatim:
 *"Technical lore pages may have technical or scientific diagrams similar to
 the style of the Applied Stats tutorial"* — `intake-2026-09-29.md`). A
