@@ -70,7 +70,7 @@ A **frame** answers one question — *how is this body held up?* — and answers
 | **Cataphracta** | Solid external shell, dense and sealed | [Chthonari](/star-rangers/lore/chthonari/); vessik; [Serephine Dunekin](/star-rangers/lore/serephine-dunekin/) |
 | **Hydrostata** | Fluid pressure. No rigid skeleton at all | [Pelagene Littoral](/star-rangers/lore/pelagene-littoral/); [Cerebraun](/star-rangers/lore/cerebraun/) |
 | **Turgorida** | Turgor and fibre, in the manner of a plant | [Verdani](/star-rangers/lore/verdani/) |
-| **Endoskelia** | Internal skeleton | Humans; [Krenyi](/star-rangers/lore/krenyi/); [Prismeri](/star-rangers/lore/prismeri/) |
+| **Endoskelia** | Internal skeleton | [Humans](/star-rangers/lore/humans/); [Krenyi](/star-rangers/lore/krenyi/); [Prismeri](/star-rangers/lore/prismeri/) |
 
 Three things about that table are worth saying aloud, because trainees get all three wrong.
 

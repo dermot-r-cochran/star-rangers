@@ -114,6 +114,13 @@ const PEOPLES = [
     },
   },
   {
+    id: "humans", name: "Humans", page: "src/lore/humans.md", places: "humans", species: [],
+    frame: { name: "Endoskelia", evidence: [TAXONOMY_FILE, "Endoskelia contains humans and Krenyi"] },
+    design: null,
+    bodyNotRelevant: { reason: "The reader's own frame: there is no body to design. Human characters stay under NOT_A_PEOPLE, since the page files the people and not a designed body.", evidence: ["src/lore/humans.md", "filed in the frame Endoskelia"] },
+    portraits: {},
+  },
+  {
     id: "ilveth", name: "Ilveth", page: "src/lore/ilveth.md", places: "ilveth", species: ["Ilveth"],
     frame: null, design: null,
     designNote: ["The species note records the people as designed by its method straight onto the lore page", "Designed by this file's method"],
