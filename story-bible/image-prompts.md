@@ -1894,4 +1894,5 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Rhuven:** one round; no refusal, but every frame a horse's back with the shell as a saddle and the limbs hanging like fingers. Next is a body question, not a roll.
 - **Elsha Rootkin:** two rounds, the first requests the filter passed. Round 1 drew Earth leaves with studs down each midrib; round 2, the nodes moved to the rim and the midrib dropped, drew bead-rimmed fan vanes with no Earth leaf, but every vane whole and the hide like a tarpaulin in two frames. Near miss, round 2 variation 2.
 - **Files:** nothing downloaded; the batches stay in that profile's Grok Library.
+- **Later the same day:** Elsha Rootkin rounds 3 and 4 (the two extra rounds a near miss earns): round 3 cropped every vane and made the hide a body, but read as *"a potato sprouting ferns"* (Dermot); round 4 removed the mound and rooted each vane in a collar of hide, but put the beads down the midribs. Rhuven, option A of the body review (Vhen's flank framing): a horse's flank with strap-like tendrils. Nothing filed; an artist's impression is open for both under the rule of the same day.
 
