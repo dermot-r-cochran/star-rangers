@@ -338,6 +338,11 @@ const PEOPLE_RULES = {
     polity: 'Federation of Sentient Beings', frame: 'six-limbed, exoskeletal',
     evidence: ['a sapient, insectoid people native to the Undersong Belt', 'six-limbed, exoskeletal', 'interact easily with other Federation species in shared facilities', 'tag: federation-of-sentient-beings']
   },
+  'humans': {
+    homeworld: 'Earth', homeworld_slug: null,
+    polity: 'the Solar System, the Celtic Union of Planets, and settlements that answer to neither', frame: 'Endoskelia, the human frame',
+    evidence: ['a sapient people native to Earth, in the Solar System', 'filed in the frame Endoskelia', 'not a member of the Federation of Sentient Beings']
+  },
   'ilveth': {
     homeworld: 'Sardain', homeworld_slug: 'planets/sardain',
     polity: null, frame: 'not humanoid',
