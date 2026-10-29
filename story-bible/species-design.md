@@ -2606,6 +2606,22 @@ Doreth are not gaps at all.
    serving in the Survey Corps under the ordinary ladder. **Recommended: A.**
    Every Prismeri line on record runs through the guilds and the compact, and
    the ladder page lists them among the peoples who *work with* the Corps.
+   **Narrowed 29 October 2026** (Dermot, verbatim: *"Only the Academy would
+   needed seconded or external faculty as instructors but would create a
+   conflict of interests and neutrality if used for General Operations or
+   Special Missions"*). A seconded guild member, or anyone external, may serve
+   only as Academy faculty: an instructor at a college or school, beside the
+   serving officers who hold teaching postings (`star-rangers-academy.md`).
+   Never on a general operations or special purpose mission, where an
+   outside allegiance would be a conflict of interest and a breach of the
+   Corps' neutrality. So a Prismeri on a Corps field posting is a Ranger,
+   sworn, under the ordinary ladder (as Elsha Rootkin is for the Verdani);
+   a Prismeri *"Ranger liaison posting"* held by a guild member is a teaching
+   posting at the Academy; and the guild's fold-route confirmation for the
+   Survey Corps stays what `prismeri.md` says it is, work the guild does
+   under the compact as its own service, not guild members embedded in a
+   mission. Recorded only here and in `open-questions.md`; a lore page
+   changes when a chapter or a character page first needs it.
 5. **The draft principle.** (A) Adopt it in this note as the standing reading:
    *the Corps adapts to the Ranger in everything it provides, in nothing it
    certifies, and says where it cannot*. It goes to a page only when one needs
