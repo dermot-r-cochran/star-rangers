@@ -5,6 +5,8 @@ category: "Species"
 tags: [humans, species, earth, solar-system, celtic-union, endoskelia, star-rangers]
 description: "A sapient people native to Earth, filed in the frame Endoskelia, the only metazoans on the record, at home unassisted on two worlds in the catalogue: the people whose count every page is converted into, filed here the way the record files every other people, from the world outward, with the observer named."
 plain: "Humans are the people of Earth. This page files them the way the record files every other people: what their bodies are built for, where they can live without help (only two worlds), what they built, what they gave up, and what the other peoples make of them. It ranks nobody, humans included."
+image: "humans.jpg"
+image_alt: "Designed title card on a near-black star field in cool slate blue: the category SPECIES in spaced capitals at the top, the thin outline of an oval head over an arch held in a soft glow, and below a short rule the title HUMANS in pale serif capitals, subtitled 'The People of Earth' and 'At home unassisted on two worlds'."
 related:
   - "Cross-Biosphere Taxonomy: Frames and Lineages"
   - "Habitable, for Whom"
