@@ -2,7 +2,7 @@
 layout: journal-entry.njk
 title: "The Long White Trail"
 date: "2026-10-29"
-description: "Asked in one line for a trailer for this site, a video generator wrote and made a film about the forty seconds, narrated by a woman the record has never met, fifty years into a future it has not reached. It is shown here as an impression of the record, not a page of it, with an exact account of where it departs."
+description: "Given nothing but this site's address, a video generator's trailer tool wrote and made a film about the forty seconds, narrated by a woman the record has never met, fifty years into a future it has not reached. It is shown here as an impression of the record, not a page of it, with an exact account of where it departs."
 tags: [editorial, craft, process, images, canon]
 ---
 
@@ -15,7 +15,7 @@ That needs saying first, because the film is persuasive. An old woman stands on 
   Your browser does not support the video element. <a href="/star-rangers/video/the-long-white-trail.mp4">Download the film</a>.
 </video>
 
-*The Long White Trail. 2 minutes 33 seconds, made in Grok Imagine's Director from a single line asking for a trailer for this site. The generator wrote the narration and everything in it. An impression, not the record.*
+*The Long White Trail. 2 minutes 33 seconds, made in Grok Imagine's Director, a tool for trailers, from a prompt that was only this site's address. The generator wrote the narration and everything in it. An impression, not the record.*
 
 ## Why it is not a chapter
 
@@ -43,7 +43,7 @@ Then the doctrine. *Where the layers meet, honest instruments disagree, and they
 
 ## What it was asked for
 
-It was asked for a trailer, and a trailer is a promise: this is what you will find if you come in. The generator had only the site's public pages to go on, and it did what a generator does with a record. It kept the doctrine, because the doctrine is stated on almost every page, and it supplied the particulars itself: a deputy, a Starwarden, a station, a vessel, fifty years. The register is right and the facts are invented, which is how a fluent summary of a record usually goes wrong. A reader who came looking for Maeve would find nobody, so it cannot stand on the front page as a promise.
+It was made as a trailer, and a trailer is a promise: this is what you will find if you come in. The generator had only the site's public pages to go on, and it did what a generator does with a record. It kept the doctrine, because the doctrine is stated on almost every page, and it supplied the particulars itself: a deputy, a Starwarden, a station, a vessel, fifty years. The register is right and the facts are invented, which is how a fluent summary of a record usually goes wrong. A reader who came looking for Maeve would find nobody, so it cannot stand on the front page as a promise.
 
 ## What an impression is for
 
