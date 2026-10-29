@@ -105,6 +105,7 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/chthonari.md", "six-limbed, exoskeletal, and built low and dense"],
     portraits: {
+      pekkat: { check: "agrees", evidence: ["src/characters/pekkat.md", "sensing organs, like close-set beads"], note: "Filed 29 October 2026, a close frame on one foreleg and the carapace rim, after five failed rounds read as an Earth beetle; the vibration-sensing organs of the species page made prominent as the one fundamental difference (images.md, Conventions, 29 October)." },
       kattik: { check: "agrees", evidence: ["src/characters/kattik.md", "a small six-legged Chthonari"], note: "Filed 11 October 2026 with Tekka, Tsikk and Tikket as one set." },
       akkit: { check: "agrees", evidence: ["src/characters/akkit.md", "a low, broad, segmented body"], note: "Filed 20 October 2026 at his pick, variation 2, with filed Chthonari frames as body references." },
       kettsa: { check: "agrees", evidence: ["src/characters/kettsa.md", "a small six-legged Chthonari"], note: "Filed 19 October 2026 from the two filed Chthonari frames as references." },

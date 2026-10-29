@@ -1877,3 +1877,13 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Tool:** Blender 5.2 (`scripts/blockouts/pekkat.py`, Cycles, 1600×900), then gemini-3.1-flash-image at 2K as an image edit of the render, three rounds of four (twelve frames)
 - **Run:** no face in any frame, the failure that stopped the 24 and 26 October rounds; every frame failed on the nearest Earth thing and the model surface (a beetle figurine, then a rubber beetle toy, then a beetle or woodlouse model). Not filed.
 - **Next:** a body decision under `people-body-design`, not another roll. Recorded with the round-3 edit instruction in `images.md` § 33.
+
+## 2026-10-29 — Pekkat, the one fundamental difference (Opus, desktop)
+
+### pekkat.jpg — filed 29 October 2026
+- **Type:** generated portrait for `src/characters/pekkat.md`, a close frame on one foreleg and the carapace rim, the head out of frame
+- **Tool:** gemini-3.1-flash-image at 2K via `node scripts/image-prompts.js --generate --only pekkat --variations 4`, imported with `import-image.ps1 -MaxEdge 1200` at finish strength 1
+- **Source:** `src/lore/chthonari.md` (the vibration-sensing organs *distributed along each limb and the lower carapace*); `images.md` § 33, Pekkat; the Earth-creature convention in `images.md`, *Conventions* (29 October 2026)
+- **References:** none; the 26 and 28 October rounds with references or a blockout came back as models
+- **Prompt / recipe:** the prompt of record in `images.md` § 33 under `pekkat.jpg`, round 2's text; not duplicated here.
+- **Run:** two rounds of four. Round 1 drew the ridges as a painted stripe on a rubber model; round 2, with a hard pitted surface and the ridges as rows of domed organs, gave variation 4, filed at Dermot's pick.
