@@ -30,7 +30,7 @@ She reads an asking that is not in words and keeps to it, and the record offers 
 
 ## What the Record Does Not Hold
 
-Her age, which the record leaves at *a child*; that her mother worked out the shutter *at about the age Úna was now* gives Mairéad's age then and not Úna's. Her birth year and what she looks like. Her father, and whether she has brothers or sisters. Whether she had seen the ceiling come up before that night, and whether she will one day stand at the gate. Whether she knows the words her mother says at the door. The dog's name. Any chapter after the morning she looked at the ceiling anyway.
+Her age, which the record leaves at *a child*; that her mother worked out the shutter *at about the age Úna was now* sets Mairéad's age then beside Úna's now and gives neither in years. Her birth year and what she looks like. Her father, and whether she has brothers or sisters. Whether she had seen the ceiling come up before that night, and whether she will one day stand at the gate. Whether she knows the words her mother says at the door. The dog's name. Any chapter after the morning she looked at the ceiling anyway.
 
 ## See also
 

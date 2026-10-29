@@ -2518,7 +2518,8 @@ unsuited (`ollune.md`). Where the Corps cannot fit a Ranger it says so, and the
 cost stays on the record rather than being charged to the Ranger. Stated as one
 line for a page that needs it: **the Corps adapts to the Ranger in everything
 it provides, in nothing it certifies, and says where it cannot.** Choice 5 asks
-whether to take it.
+whether to take it. First on a page 29 October 2026: `src/lore/humans.md`,
+*In the Corps*.
 
 **What the Corps must provide comes in five kinds** (DERIVED from the blocks
 above). *Medium*: a sealed burrow, a cold room, humid high pressure, a warm

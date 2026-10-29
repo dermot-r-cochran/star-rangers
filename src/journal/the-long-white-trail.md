@@ -2,7 +2,7 @@
 layout: journal-entry.njk
 title: "The Long White Trail"
 date: "2026-10-29"
-description: "Asked for a trailer and given this site's address, a video generator wrote and made a film about the forty seconds, narrated by a woman the record has never met, fifty years into a future it has not reached. It is shown here as an impression of the record, not a page of it, with an exact account of where it departs."
+description: "Asked for a trailer and given this site's address, a video generator wrote and made a film about the forty seconds, narrated by a woman the record has never met, from a morning nearly seventy years past its present. It is shown here as an impression of the record, not a page of it, with an exact account of where it departs."
 tags: [editorial, craft, process, images, canon]
 ---
 
@@ -49,6 +49,6 @@ It was made as a trailer, and a trailer is a promise: this is what you will find
 
 In [Where the Record Lives](/star-rangers/journal/where-the-record-lives/) I wrote that an illustration cannot be testimony, whoever makes it: it is an impression of a record that lives elsewhere. A film is the same, with more time to convince. What this one can do that the record cannot is stand at a point the record has not reached, and ask what it would be like to have kept the forty seconds for a lifetime and stopped wanting the clocks to agree. The record's present is 2826, and it does not know whether anyone will keep that watch for fifty years. A feeling for a future the Archive may not describe is a proper job for an impression, provided it is labelled as one.
 
-So it is labelled. The film stays here, in the Journal, where the reader is someone interested in how the work is made. It is not linked from Threshold's page or from the chapter it echoes, and it carries no claim into either. If the story ever reaches the 2860s, the chapters will decide who kept that watch, and this film will not get a vote.
+So it is labelled. The film stays here, in the Journal, where the reader is someone interested in how the work is made. It is not linked from Threshold's page or from the chapter it echoes, and it carries no claim into either. If the story ever reaches the 2840s, the chapters will decide who kept that watch, and this film will not get a vote.
 
 *But the Archive will hold this morning*, the narrator says near the end, *and the drift will be written down, and both clocks will still be right.* The second half of that is true in this record now, and the first half belongs to a morning the record has not reached.
