@@ -170,7 +170,9 @@ const PEOPLES = [
     frame: null, design: null,
     designNote: ["The species note records the people as designed by its method straight onto the lore page", "Designed by this file's method, and a direct continuation"],
     pageBody: ["src/lore/ovruhn.md", "An Ovruhn is among the largest bodies in Corps service"],
-    portraits: {},
+    portraits: {
+      rhuven: { note: "Filed 29 October 2026 as an artist's impression, the first under images.md's When a photograph keeps failing, after photographic rounds in two providers drew a horse or an elephant with a saddle; a part-body survey plate of the flank and tendrils." },
+    },
   },
   {
     id: "pelagene-littoral", name: "Pelagene Littoral", page: "src/lore/pelagene-littoral.md", places: "pelagene-littoral", species: ["Pelagene Littoral"],
