@@ -561,6 +561,15 @@ better than cutting to a picture.
 - **Negative:** unrecorded
 - **Notes:** 3:52, 1280×720, 24 fps, H.264 + AAC 48 kHz stereo, 23 MB. Moving footage as above. Ten captioned lines, same treatment; the last twenty seconds carry no caption. Poster frame `borrow-the-angle-poster.jpg` taken at 0:01.
 
+### `the-long-white-trail.mp4`
+- **Type:** supplied assembly, 29 October 2026 (Dermot, of a Grok Imagine post: *"This trailer video is either codex, narrative prose or a new category"*; filed as a Journal impression by his *"Option A"* the same day)
+- **Tool:** Grok Imagine, Director (beta); the project is titled *The Long White Trail*
+- **Date:** filed 2026-10-29
+- **Used by:** `src/journal/the-long-white-trail.md`
+- **Prompt:** two, as Dermot gave them on 29 October 2026. First the site's address, *"Fianilchruinne.com"*, with the intent *"to write a trailer for"* the site. Then, after that first cut got the ranks wrong, a request to reread the site; this file is the second cut, whose ranks (Deputy, Chief, Starwarden) match `src/lore/star-rangers-command-hierarchy.md`. The first cut is not filed. The generator wrote the narration and every particular in it (Maeve, Ciarán Doyle, *Lúnasa*, *Brightwater*, the ring, the fifty years). No other prompt was given (Dermot, the same day): the Director planned and generated every shot, so there are no per-shot prompts to record. Do not reconstruct any from the frames
+- **Negative:** none
+- **Notes:** 2:33, 854×480, 24 fps, H.264 + AAC 48 kHz stereo, 26 MB. 480p, below this file's Delivery rule (720p for a Grok-sourced piece); not upscaled. Narration composited as captions, correctly spelled; the audio was not heard. Poster frame `the-long-white-trail-poster.jpg` taken at 2:29, no caption in frame. A 4:12 cut with a launch-and-docking prologue and no captions was also supplied and is not filed. Not canon and not Codex: it departs from the record on Threshold's dates (a fifty-year watch), its place (an orbital *Lúnasa*), its wording (*layers* for membranes), new particulars (Ciarán Doyle, *Brightwater*, a ring) and diegetic light (violet clocks). The Journal entry lists each.
+
 The first file in `src/video/`, `baby-universe.mp4`, predates this file and has no
 recorded prompt; do not reconstruct one and file it as though it were the
 original. The two above are recorded as absences for the same reason.

@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Journal: *The Long White Trail*** (`src/journal/the-long-white-trail.md`, `src/video/the-long-white-trail.mp4`, `story-bible/video-prompts.md`, 2026-10-29, Opus, Dermot's *"Option A"*). A trailer Grok made from the site's address, remade after a reread fixed its ranks: the forty seconds, narrated by a deputy who kept the watch for fifty years, shown as an impression rather than the record. The entry says why it is neither a chapter nor a Codex entry and lists each place it departs from canon. Nothing in it asserts a fact about the world.
+
 - **Flexure frame and Caldra's name, two critic findings ruled** (`src/lore/concordant-membranes.md`, `src/lore/glossary/canonical-glossary-and-migration-guide.md`, `src/lore/planets/caldra.md`, 2026-10-29, Opus, at Dermot's *"All recommendations accepted"*). Clarifications. The flexure page and the glossary no longer say a crease is fixed against the stars, which the Sceir Light's two centuries on one shore contradicted. Caldra's first line now names the survey's working name the page uses. Its survey lamps are the first light that has *come down* to the floor, since vents can glow. The 28 October intake's three drafts are confirmed as settled.
 
 - **A frame that resembles an Earth creature may be kept with one fundamental difference** (`story-bible/images.md`, *Conventions*, 2026-10-29, at Dermot's direction). The difference comes from the people's body sheet; the image critic's Earth-animal check still applies. First case: Pekkat.
