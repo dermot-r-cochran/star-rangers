@@ -7,6 +7,8 @@ role: "Mathematician of the Undersong; tutor to visiting Federation mathematicia
 status: Active
 tags: [chthonari, undersong-belt, federation-of-sentient-beings, mathematics, undersong, skarn-system]
 description: "A Chthonari mathematician of the Undersong Belt who carries proofs as tuned resonance in rock, tutors the Federation mathematicians who come to stand on it, and holds, against much of Chthonari philosophy, that the line between a theorem and a harmony is worth keeping."
+image: "pekkat.jpg"
+image_alt: "Close on Pekkat, a Chthonari: one slate-blue jointed foreleg reaching down to the edge of a dark cut nickel-iron rib, and above it the rim of a low, segmented, pitted slate carapace, with rows of small translucent bronze-brown sensing organs, like close-set beads, set in grooves along each leg segment and around the carapace rim; other ribs stand soft and dark in the background under dim amber light."
 ---
 
 Pekkat proves things in rock. A Chthonari burrow settlement is tuned as it is dug, so that the settlement itself rings, and in the part of the [Undersong Belt](/star-rangers/lore/undersong-belt/) where Pekkat works, some of that tuning is mathematics: a relationship between parts of the structure that holds, felt directly by anyone standing on it, or does not.
