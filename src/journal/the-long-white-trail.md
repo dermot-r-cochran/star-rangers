@@ -8,14 +8,14 @@ tags: [editorial, craft, process, images, canon]
 
 This is a film about the forty seconds, and nothing in it is true.
 
-That needs saying first. An old woman stands on a terrace above a bay at first light, watching the trail of an ascent javelin climb toward a station in orbit, and remembers. She was the new deputy on a watch whose two clocks disagreed by forty seconds. She recalibrated them until they agreed to the billionth of a second; they held for two days, and on the third morning the forty seconds were back. She kept that watch for fifty years. Now someone young is about to see the forty seconds for the first time, and she hopes they laugh.
+That needs saying first. An old woman stands on a terrace above a bay at first light, watching the trail of a spaceplane climb from the end of a rail toward a ring in orbit, and remembers. She was the new deputy on a watch whose two clocks disagreed by forty seconds. She recalibrated them until they agreed to the billionth of a second; they held for two days, and on the third morning the forty seconds were back. She kept that watch for fifty years. Now someone young is about to see the forty seconds for the first time.
 
 <video controls preload="none" poster="/star-rangers/video/the-long-white-trail-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
   <source src="/star-rangers/video/the-long-white-trail.mp4" type="video/mp4">
   Your browser does not support the video element. <a href="/star-rangers/video/the-long-white-trail.mp4">Download the film</a>.
 </video>
 
-*The Long White Trail. 2 minutes 33 seconds, made as a trailer in Grok Imagine's Director from this site's address, then remade after I asked it to reread the site. The generator wrote the narration and everything in it. An impression, not the record.*
+*The Long White Trail. 4 minutes 24 seconds, made as a trailer in Grok Imagine's Director from this site's address, then remade after I asked it to reread the site. This is the seventh version, which opens with the launch from the bay; it replaced a 2 minute 33 second cut the same day. The generator wrote the narration and everything in it. An impression, not the record.*
 
 ## Why it is not a chapter
 
@@ -27,15 +27,15 @@ So nothing the film shows is a fact about the world, however it is narrated.
 
 The Codex was the closer call. The film is a first-person account by a named woman, in her own voice, which is the Codex's form exactly: a source's account, valid for its author, never binding. But the Codex has a test, and the test is the reader: after reading, is canon less settled than before? Measured against what the record already holds, this film would leave it less settled in five places.
 
-- **The dates.** The forty seconds belong to the Dock Seven chronometers at [Threshold Station](/star-rangers/lore/threshold-station/), first recorded in [Incident Report 001](/star-rangers/codex/incident-report-001/) in 2815 UCSD. At the record's present, 2826 UCSD, the discrepancy is eleven years old. A fifty-year watch puts the narrator's terrace in the 2860s or later. No document in the Archive can come from a morning that has not happened.
+- **The dates.** The forty seconds belong to the Dock Seven chronometers at [Threshold Station](/star-rangers/lore/threshold-station/), first recorded in [Incident Report 001](/star-rangers/codex/incident-report-001/) in 2815 UCSD. At the record's present, 2826 UCSD, the discrepancy is eleven years old. The film dates itself: the narrator joined in the spring of 2841, *ten years after the Last Stand*, and watches from her terrace fifty-three years later, in 2894. No document in the Archive can come from a morning that has not happened.
 - **The place.** Her station is called *Lúnasa*, and it has a docking spine in orbit. Threshold is a coastal station whose docks face the thin water off a shore ([Boundary Zones](/star-rangers/lore/boundary-zones/)). A second station with exactly forty seconds would leave a reader unsure whether Threshold's discrepancy is one thing or a kind of thing.
 - **The physics, in words.** *Reality is layered like the sea*, the narrator is told, and the station sits *on a seam between two layers*. In this record *layer* is already taken: it names [the five layers of reality](/star-rangers/lore/five-layers/). A boundary zone is written in terms of membranes and the narrowing of the Interval between them.
-- **New particulars.** A Starwarden called Ciarán Doyle, a vessel called *Brightwater*, a ring visible from the ground, and a wristband showing a ground time and a ring time forty seconds apart. Each of these would have to be settled in lore before anyone could cite it.
+- **New particulars.** A town called Carrigbawn, a Starwarden called Ciarán Doyle, a spaceplane called *Brightwater* flung from a rail across the bay, a ring of habitats circling the whole world and visible from the ground, and a wristband showing a ground time and a ring time forty seconds apart. Each of these would have to be settled in lore before anyone could cite it.
 - **The light.** The two clocks are drawn as columns of atoms glowing violet. The record's own clips keep to one rule for light: nothing glows that would not glow.
 
 ## What it gets right
 
-Set the particulars aside, and the film understands the forty seconds better than its own facts do.
+Set the particulars aside, and the film understands the forty seconds better than its own facts do. Even its one borrowed date is right: the [Last Stand at Dock Seven](/star-rangers/seasons/s05/e02/s05e02c03/) is 2831 in the record, so *ten years after* is exactly 2841.
 
 Recalibration fails, and fails on a schedule: the clocks agree, hold, and drift home. That is the record's own finding. Threshold's discrepancy was *carried for most of that period as a calibration fault rather than a boundary reading*, and the lore says flatly that *recalibration alone cannot remove Type II drift*. The [night-watch addendum for Day 52](/star-rangers/codex/dock-seven-night-watch-addendum-day-52/) records the chronometers diverging by forty seconds again after a clean reset at the start of a shift.
 
