@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A private repository is no longer named in public** (`src/journal/creative-rather-than-imperative.md`, `story-bible/intake-2026-10-07.md`, 2026-10-30, Opus, at Dermot's word). The Journal entry said the coding agent was *public on GitHub as local-agent*; that repository is private, so it now says *kept in a private repository*. The 7 October intake refers to it as the private agent repository. Nothing else in either page changes.
+
 - **The repository map names three more** (`RELATED-REPOSITORIES.md`, 2026-10-30, Opus, Dermot's *"All three"*). It adds the GitHub profile README and `engineering-intelligence`, which describe the family in public, and `hybrid-agent`. Its *Siblings by convention* section becomes the one place the convention lists and counts live, with `shadow-architect`'s guard count corrected to four of five, and records the one test that cites across repositories (`careful-memory` citing `swarm`'s ADR-0005).
 
 - **Rhuven's portrait shows one four-bar rank tab** (`src/images/characters/rhuven.jpg`, `story-bible/images.md` § 34, 2026-10-30, Opus, Dermot's *"Accept all five"*). A retouch of the shell band at the top edge: the two small plates of two bars each become one pale grey-green plate of four bars at the forward edge, as the page describes the rank tab. The second plate is painted out with the band's own texture. Nothing else in the picture changes.
