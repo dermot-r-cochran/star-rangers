@@ -22,7 +22,7 @@ Her cognitive subsystem is certified to the same standard as any Smart Pet's, fi
 
 Because Five-O's authority runs across all five [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/) member habitats and not one metre further, Alala's welfare oversight rotates through five separate habitat-level authorities — she is the only Smart Pet on record whose file is maintained, in five house styles, by five offices each of which believes it knows her best. The certification body further up the chain has declined to rule on which of them is right.
 
-The name is for the ʻalalā, the island crow of old Earth — the same islands the unit's nickname walked in from. Larsen has never confirmed choosing it, which the task force has correctly filed as confirmation.
+The name is for the ʻalalā, the island crow of old Earth. Larsen has never confirmed choosing it, which the task force has correctly filed as confirmation.
 
 She perches, during briefings, on the observation-deck rail behind Larsen's chair. He does not raise his voice; she has never needed him to.
 
