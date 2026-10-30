@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The orbital ring of *The Long White Trail*, recorded** (`story-bible/intake-2026-10-30.md`, `story-bible/open-questions.md`, 2026-10-30, Opus, Dermot's description of the ring). The ring is a chain of thousands of separate habitat stations, seen from the terrace as a beaded arc low in the southern sky that never moves, with Station Lúnasa one bead among them. The reading checks the physics: *always in the same position* puts it at geostationary height, about 29° up from Irish latitudes, with the stations far enough apart to be seen as separate points. Whether it is canon, which world it circles and whether Lúnasa has the forty seconds stay open. Nothing under `src/` changes.
+
 ## [1.54.0] — 2026-10-29
 
 Humans get a lore entry and a title card, filed as one people among the others. Essarith, a Prismeri guild reader seconded to the Academy, gets a page, and so do the four viewpoints of *Left Blank* and *Before the Close*. Pekkat's portrait is filed, and Rhuven's and Elsha Rootkin's are the first artist's impressions, under a new rule for when photographs keep failing. *The Long White Trail* enters the Journal as an impression, six Director briefs are written, the record says what a hyper-intelligent mind is, and critic fixes land on the 28 and 29 October pages.
