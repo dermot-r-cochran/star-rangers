@@ -7,7 +7,7 @@ tags: [process, cosmology, craft]
 ---
 
 This week's work wasn't on this site at all. I've been building a small coding
-agent — a few hundred lines of Python, public on GitHub as *local-agent* — and
+agent — a few hundred lines of Python, kept in a private repository — and
 the striking thing about the week is that almost none of it was spent making
 the agent *do* anything. It was spent writing law. What services it may touch
 and which it must never. What it may read and how far to trust what it reads.
