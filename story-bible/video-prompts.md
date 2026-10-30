@@ -1376,3 +1376,128 @@ register, no phonetic forms); `src/lore/planets/fliade.md` (*Below the Roof*,
 the amber and blue-green fungi, the Pandoid body). Three particulars are not on
 record and are low-risk: dripping water, the grey-green coverall (from the
 survey portraits), and the line itself being fungus-lit.
+
+### D7. Lúnasa
+
+**Status, 30 October 2026: drafted, not run.** Dermot's request, verbatim:
+*"Draft a Director brief for the Lúnasa remake"*, the same morning he settled
+the ring's look for films (`intake-2026-10-30.md`: films only, circling
+Earth, Lúnasa without the forty seconds). Drafted on Opus, because what the film
+shows is mostly physics and geometry: a launch, a climb, an orbit, a view from
+the ring (the 16 October line in `CLAUDE.md`). It is not canon and asserts
+nothing in the record. It is filed in the Journal at most, beside *The Long
+White Trail*, which stays as it is.
+
+**What the remake keeps and what it drops.** It keeps the trailer's three
+images: the terrace above a bay at first light, the long white trail climbing
+off the water, and the ring with Lúnasa as one bead of it. It drops everything
+the Journal lists as a departure. There is no narrator and no voice, so nobody
+the record has never met speaks. There is no clock and no forty seconds, by the
+ruling. There are no layers, nothing glows violet, and no Carrigbawn, Ciarán
+Doyle or *Brightwater* is named. The date is 2826 UCSD, the record's present,
+not 2894. The rail and the spaceplane become what the record flies, an
+[ascent javelin](src/lore/ascent-javelins.md) thrown from a cradle. Without a
+voice the film is a duration, like D4: the time it takes to go from the
+terrace to the ring.
+
+**Title and length.** *Lúnasa.* 2½ to 3 minutes; accept 2 to 3½.
+
+**Instruction to paste** (as one line, since Enter sends in that box):
+
+> Make a quiet wordless film of about two and a half minutes, 16:9, with no narration, no voice, no dialogue, no captions and no title card. It is set in 2826 on Earth and in high orbit above it, and it shows only what is described here, in this order, with nothing added. (1) Before dawn, late summer: a stone terrace on a hill above a wide bay on the west coast of Ireland, the sea dark and calm, the sky deep blue going pale in the north-east, low green hills across the water. Low across the southern sky, about a third of the way up from the horizon, is a fine arc of separate points of white light, already lit by a sun that has not reached the ground. It has a regular rhythm: brighter points, like pearls, evenly spaced about two moon-widths apart, and between each pair of pearls about nine much fainter points, evenly spaced. It does not move at all, and toward the east and west horizons the points crowd together into a faint fine thread. As the sky slowly brightens, the faint points between the pearls fade out one by one until only the bright pearls are left, a clear string of evenly spaced lights low in the south. It is a ring of thousands of separate habitat stations very far away in orbit: never a solid band, never a structure joined to the ground, never close. (2) Across the bay, on the far shore, a launch site: a tall plain cradle holding a long pale winged craft pointing almost straight up, lit by a few work lamps. The craft is thrown upward on a hard bright boost with no flame showing from the terrace, only a rising point and the trail behind it. It climbs nearly vertically, then leans slowly east, toward the dawn. As it climbs above the earth's shadow the high part of its exhaust trail catches the sun before the ground does and shines white and gold against the blue sky, a long white trail standing over the bay while the water is still dark. The low roar arrives at the terrace about a minute after the launch, because the launch site is far away. The trail never reaches or touches the arc of lights, which is a thousand times farther away. (3) Seen through a small round window of the craft as it climbs: the curve of the earth's horizon, the sky going black, cloud over the sea, sunlight striking in. The flight is smooth; no shaking, no fire outside the window. (4) Hours later, in high orbit, seen through the window of the small craft that has carried passengers on from low orbit: the whole earth large in the frame, partly sunlit, blue ocean and white cloud, about a third of the width of the window. Running away from the camera in both directions is the ring, a long gently curved line of separate stations in a regular rhythm: a large rotating habitat, then about nine much smaller stations of different shapes (some with broad flat radiator wings turned edge-on to the sun), then another large habitat, and so on. The nearest are visible as distinct structures, the farther ones as points, crowding closer and closer together until they run into the curve of the earth's edge on both sides and pass behind it, like a necklace laid around the planet. Because the earth and the stations are bright, no stars are visible in the black sky. (5) One station ahead slowly grows from a point into a dark shape seen against the lit earth, its form never fully resolved, with a few small work lamps around one opening. The camera drifts toward that opening and the film ends before the craft arrives. (6) People: nobody's face is ever shown. On the terrace, at most one person's hands resting on the stone wall in the foreground, out of focus. In the craft, at most a sleeve and a hand near the window. (7) Camera: everything is seen from where a person or a mounted camera could actually be: from the terrace, from a fixed camera on the launch cradle's tower, from inside the craft looking out of its window. No drone shots, no shot from outside the craft in space, no impossible camera, no passing through solid objects, no crash zoom, no whip pan, no time-lapse, no slow motion. Long unbroken takes, very few cuts, slow drift that never settles. (8) Light: the dawn, the sun, the earth, the work lamps, and nothing else; nothing glows that would not glow. Strictly no text, lettering, numbers, signs, interfaces, holograms, readouts, lens flares or light streaks anywhere in frame. (9) Sound: wind on the terrace, the sea, birds starting, the late low roar of the launch, then inside the craft only its own quiet hum; no sound in space outside. Music almost absent: a few sparse low tones at most, never cut on a beat. Peaceable, patient, beautiful and quiet, never a trailer, never a montage.
+
+**Shot list.**
+
+1. The terrace, nautical twilight, about 25 seconds: the camera held by
+   someone standing at the terrace wall, drifting slowly across the bay toward
+   the south. The arc of the ring is low over the far hills and does not move:
+   bright pearls about two moon-widths apart with fainter beads between them.
+   Over the take the sky pales and the faint beads go out, leaving the pearls.
+   Hands on the wall, out of focus, may be in the near corner.
+2. A fixed camera on the cradle tower, about 10 seconds: the javelin
+   near-vertical in its cradle, three or four work lamps, the sky blue above.
+   The boost: the craft leaves the frame upward and the cradle is left
+   shaking slightly.
+3. The terrace again, about 30 seconds, one take: the point rising off the far
+   shore, the trail climbing, leaning east, its upper half catching the sun and
+   turning white and gold while the bay below is still dark. About a minute
+   after the launch the roar reaches the terrace. Hold on the standing trail.
+4. Through the javelin's window, about 15 seconds: the horizon curving, the
+   sky going black, sunlight crossing the frame. No faces.
+5. A cut to high orbit, about 35 seconds, one slow take through a port of the
+   craft that carried the passengers on: the earth large and partly lit, the
+   ring running away to both sides and into the earth's edge. No stars.
+6. About 25 seconds: one bead ahead grows into a dark unresolved shape against
+   the earth, with work lamps at one opening. The drift toward the opening
+   continues as the film ends.
+
+**Narration.** None. A remake with a narrator would need a person the record
+gives; the record gives nobody at Lúnasa. If Director adds a voice or captions,
+that take fails.
+
+**Negatives as objects.** The shared negative, plus: no clock, chronometer or
+timepiece anywhere, no wristband, no two times; no voice, no narrator, no
+caption, no title card; no name, place or year spoken or shown; no rail, no
+track, no sled, no ramp, no horizontal launch, no runway take-off; no space
+elevator, tower, tether or cable to the ground; no ring drawn as a continuous
+band, hoop, halo or wheel, and no rings like Saturn's; no ring moving across the
+sky; no glowing violet or coloured light; no starfield behind the sunlit earth;
+no shot of the craft from outside in space; no person's face; no uniform,
+insignia or tab; no *layers*.
+
+**Judging line.** The take fails if anyone speaks or a word is on screen; if a
+clock or two times appear; if the ring is a solid band, has no rhythm of bright and faint points, moves across the sky,
+reaches the ground, or sits close enough to touch the trail; if the launch runs
+along a rail or a runway instead of being thrown near-vertically from a cradle;
+if stars show behind the sunlit earth; if the camera is anywhere a person or a
+mounted camera could not be; if Lúnasa's form is shown sharply in full; or if
+anything glows that would not glow.
+
+**Grounding, and the physics.** `intake-2026-10-30.md` (the ring's look and the
+three rulings) and the paragraph *The ring, if a film shows it* above;
+`src/lore/ascent-javelins.md` (thrown from a cradle near-vertical, ballistic
+boost then aerodynamic climb then rocket insertion, a long pale flattened
+winged body, a job that ends at a parking orbit, so the high-orbit shots are
+from a second craft); `src/journal/the-long-white-trail.md` (the departures this
+brief removes); the no-towers ruling of 10 October 2026. The figures, worked
+for an Earth-sized world from 52–54° N:
+
+- **The ring from the terrace.** At geostationary height its arc peaks 28–30°
+  above the south horizon, about 38,600 km away, so *a third of the way up*.
+  Stations 50–130 km apart sit 5–12 arcminutes apart, above the eye's 1
+  arcminute, so they read as beads, and they crowd into a thread toward the
+  horizons. They are sunlit through the summer night (eclipses come only near
+  the equinoxes), so they show before dawn.
+- **The ring's rhythm** (Dermot's *"Yes, add it to D7"*, 30 October 2026, to the
+  layout recorded in `intake-2026-10-30.md`). There is one major habitat per
+  degree of the ring, 360 in all, each 1.5–2 km across and spinning for 1 g at
+  about 1 rpm. Nine smaller stations of 100–300 m fill the 0.1° slots between
+  each pair, about 3,240 in all and 3,600 slots in total, a few left empty. The
+  smaller stations are transfer hubs, compute complexes (radiator wings turned
+  edge-on to the sun), depots and yards, and station-keeping posts. A degree of
+  the ring is 736 km, about 1.1° of sky from the terrace, so roughly two
+  moon-widths between pearls. At dawn, with the sun side-on, a 2 km habitat is
+  about magnitude −1 and a 200 m station about +4. The faint beads drop below
+  the brightening sky first, and that is the take's one event.
+- **The trail at dawn.** Exhaust at 80–120 km stays in sunlight until the sun is
+  about 10° below the horizon, so the high trail shines while the ground is in
+  twilight. It is the real effect behind the trailer's title. A prograde launch
+  leans east.
+- **The roar.** Sound covers about 20 km in about a minute, so the brief says
+  *about a minute*. No other number is given, so Director cannot reach for
+  forty seconds.
+- **The ring from inside it.** From a craft a little out of the ring's plane,
+  the ring is a very thin ellipse seen almost edge-on: a line of beads running
+  away both ways, near ones distinct and far ones crowding, meeting Earth's limb
+  on each side. At 42,000 km Earth is about 17° across. Bright Earth and sunlit
+  stations put the stars below the exposure. A launch from Ireland reaches an
+  orbit inclined about 52°, and the plane change is made high up, so the
+  approach comes from out of the plane. That is why the ring reads as a curve,
+  not a straight line.
+- **Lúnasa stays unresolved.** No design for it is on file, and a vessel or
+  station gets a sheet in `starship-design.md` before it gets a picture. So the
+  film ends before its shape is clear.
+
+**Not on record, low-risk:** the west-coast bay, the green hills, birds, the
+cradle's work lamps, the craft that carries passengers on from low orbit (the
+record names no class, so the brief names none).
