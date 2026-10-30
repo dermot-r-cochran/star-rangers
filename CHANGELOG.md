@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.55.0] — 2026-10-30
+
+A rule for how episodes open: varied, with the enigma arriving partway through. The orbital ring of *The Long White Trail* is recorded and settled for films, not canon, and a seventh Director brief, *Lúnasa*, is written. Ascent javelins gain coastal rail sites. Five-O's page stops citing the old series, a private repository is no longer named in public, the repository map names three more, Rhuven's portrait shows one four-bar rank tab, and critic fixes land on the 30 October pages.
+
 - **A rule for how episodes open** (`CLAUDE.md`, `story-bible/intake-2026-10-30.md`, 2026-10-30, Opus, Dermot's *"Option 1"*). Episodes open in varied ways (an ordinary case, a custom, a watcher, sometimes the strange thing itself), and the enigma usually arrives partway through rather than as a fixed opening. Recorded beside the mystery family. No page changes.
 
 - **A private repository is no longer named in public** (`src/journal/creative-rather-than-imperative.md`, `story-bible/intake-2026-10-07.md`, 2026-10-30, Opus, at Dermot's word). The Journal entry said the coding agent was *public on GitHub as local-agent*; that repository is private, so it now says *kept in a private repository*. The 7 October intake refers to it as the private agent repository. Nothing else in either page changes.
