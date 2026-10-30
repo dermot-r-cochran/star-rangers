@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Critic fixes on the 30 October briefs** (`story-bible/video-prompts.md` D7, `story-bible/intake-2026-10-30.md`, 2026-10-30, Opus, from a Fable critic read of #1588–#1591). Mechanical: D7's camera list put a fixed camera on the launch cradle's tower, which the rail replaced, so it is now a mast at the end of the causeway; D7's one link into `src/` now resolves from `story-bible/`; and the small-station count reads *a few short of 3,240*, since some slots are left empty. Nothing in `src/` changes.
+
 - **Ascent javelins: rail sites** (`src/lore/ascent-javelins.md`, `story-bible/video-prompts.md` D7, 2026-10-30, Opus, Dermot's *"option 1 for the rail"*). An extension: a few small coastal sites throw a standard javelin along a level rail two or three kilometres long beside the landing runway, out over the water, to a little under the speed of sound. The rail replaces only the cradle boost. Rail sites are regional ports that villages use, never one per village, and the track never climbs or rises on a structure. A sentence says why rails stay rare (one heading, a lower payload ceiling, few suitable coasts), at Dermot's *"Yes, add the sentence"*. D7 keeps the trailer's rail across the bay.
 
 - **Five-O's page stops citing the old series** (`src/lore/orbital-habitats-compact.md`, 2026-10-30, Opus, Dermot's *"Option 1 for Five-O"*). A clarification: the clause naming the old Earth series that Orbital Five-O's name nods at is removed. It cited a non-public-domain fiction in the Archive's voice, against the 17 October rule. The in-world reason for the uniform stands. The name and the concept are unchanged.
