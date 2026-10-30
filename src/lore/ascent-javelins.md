@@ -24,6 +24,14 @@ A javelin does not take off; it is *thrown*. The craft rides a launch cradle to 
 
 The standard passenger experience is ninety seconds of being sat on by the planet, eleven minutes of steep climbing flight, and then the silence that every first-timer mistakes for engine failure and every crew member has learned to announce in advance. The crew is a pilot and a co-pilot on a flight deck forward, with the passengers behind them. The ascent itself is highly automated, so the two are there to certify the craft, watch the climb and take over if anything departs from it, not to fly it by hand; the announcement is theirs.
 
+## The Rail
+
+Not every javelin is thrown upward. At a few small coastal sites the javelin is thrown *along* the ground instead. The craft rides a sled down a straight rail two or three kilometres long, laid level beside the runway the landing craft come down on, and leaves it at a little under the speed of sound at the end of the track, on its wings and already climbing. The rail runs out to the shore or along a causeway, so that the climb, the noise and anything that falls from it are over open water.
+
+The rail saves less than it appears to. A few hundred metres a second is a few hundredths of what orbit asks, and every regime after the first is the javelin's own: the air-breathing climb, then closed-cycle insertion to a parking orbit. What the rail replaces is the ballistic boost off the cradle, the heaviest and loudest burn of the flight, and with it the cradle itself. The gain is the size of the site. A rail site is one strip of ground that both lands and launches, where a cradle port is a missile battery beside a runway. The javelin, its certification, its crew and its weather rules are unchanged, and so is its name: the record calls it an ascent javelin, because it is going up.
+
+A rail site is a regional port. A coast's villages use it, and no village keeps one of its own. It still needs everything a cradle port needs: propellant made and stored on site, certified crews, and launches held for weather. The launch rate that pays for those is a region's, not a village's. A rail is laid only for standard javelins on worlds of Earth gravity and below, and only on the ground. It never climbs a mountainside or rises on a structure, since nothing in the record joins a surface to the sky.
+
 ## The Gravity Envelope
 
 Standard javelins are rated for worlds of Earth gravity and below. The rating is not conservatism; it is arithmetic. Ascent cost climbs brutally with surface gravity — mass ratios collapse, thermal loads compound, and abort windows narrow toward zero — and a little above one gravity, a chemical-cycle javelin stops being a vehicle and becomes a fuel tank with a passenger problem.
@@ -35,6 +43,7 @@ On frontier worlds, the fusion fleet is also the late-arriving one: a fusion-the
 ## Constraints
 
 - Standard (chemical-cycle) javelins: rated to ~1g surface gravity. Above that, fusion-thermal variants only.
+- Rail launch: standard javelins only, at regional coastal sites, on a level track on the ground. It replaces the cradle boost and nothing after it.
 - No javelin ascends through weather its certification excludes. High-gravity worlds enforce this with launch windows; impatient operators are a solved problem, in the sense that they are no longer operators.
 - Fusion-thermal stages are certified, inspected, and crewed under separate Safety Corps rules descended from the SSSA's independence-era charters.
 - Orbital transit, fold travel, and [FTL](/star-rangers/lore/ftl-mechanics/) begin *after* orbit. A javelin's job ends at a stable parking orbit; it is the doorstep, not the journey.
