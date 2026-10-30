@@ -126,6 +126,29 @@ codex entry *Three Disciplines of the Record* mirrors them in-world
 A rename, a change of purpose or a retirement in any of the three breaks a
 public description on this site's About page and in that case study.
 
+## Where the family is described in public
+
+Two more repositories describe the others to readers, so a rename, a change
+of purpose or a retirement elsewhere can make them false (added 30 October
+2026). Neither shares code or data with anything it describes.
+
+- **`dermot-r-cochran/dermot-r-cochran`** — the GitHub profile README. It
+  names `Voting`, the ADM and `swarm` (as EPISTEME) as where the thesis's
+  line continues, and links this site's About page (*The engineering behind
+  the record*) and dermotcochran.com. It describes the same three
+  repositories the About page does, so a change that breaks one description
+  breaks both.
+- **`dermot-r-cochran/engineering-intelligence`** — the knowledge-system
+  hub, published on GitHub Pages from `docs/`. Its `docs/evidence.md`
+  (*Where this is practised*) maps each topic page to the repository that
+  practises it, and links nine of the repositories in this map:
+  `applied-statistics-for-AI-engineers`, `careful-memory`, `world-model`,
+  `shadow-architect`, the ADM, `virtual-anthropology`, `foundation-model`,
+  `swarm` and `visual-llm`. Its engineering-intelligence page carries the
+  first case note, on the README-proof convention those repositories share.
+  Its link checker resolves only relative links, so a renamed repository
+  breaks that page silently: a rename is a follow-up there.
+
 ## Siblings by convention
 
 The remaining public engineering repositories share no code or data with
@@ -146,7 +169,14 @@ reference for how a thing is done here:
   `reports/` are a golden output CI regenerates and diffs, the same idea as
   `Voting`'s `tests/golden/`; its `CLAUDE.md` names `world-model`, `swarm`
   and `careful-memory` as resemblances of discipline and says so.
-- Every one of them, and `star-rangers` and the portfolio, carries a
+- **`dermot-r-cochran/hybrid-agent`** — a deliberately small engineering
+  agent: a deterministic controller routes the workflow, computes the
+  numbers and verifies the result, an LLM is called only for semantic work,
+  and nothing is executed without a human (added 30 October 2026, two days
+  after it was created). It has no dependencies and no `CLAUDE.md` or
+  `TestingStrategy.md` yet, so it does not yet share the conventions below;
+  nothing crosses between it and anything above.
+- Every one of the others, and `star-rangers` and the portfolio, carries a
   **`TestingStrategy.md`**: what each layer of the suite protects, what
   fails against what warns, and how to extend it, kept apart from the
   repository's editorial rules.
@@ -157,8 +187,28 @@ reference for how a thing is done here:
 - Five keep **architecture decision records**: `swarm`, `careful-memory`,
   `world-model`, `shadow-architect`, the ADM. `swarm` guards all five of its own
   with a named test, so a breached decision fails CI rather than
-  drifting; `shadow-architect` guards one, and the others say in their own
-  `CLAUDE.md` how far tests reach their decisions.
+  drifting; `shadow-architect` guards four of its five (ADR 003 has no
+  guard yet); `world-model`'s tests exercise ADRs 001–004 without naming a
+  guard; the ADM's records are the specification's own and no test guards
+  them; and `careful-memory` names its guards in its README's safety table.
+
+This section is the one place these lists and counts live. Each
+repository's own *Siblings by convention* paragraph points here instead of
+restating them (since 30 October 2026, after `careful-memory`, `world-model`,
+`foundation-model`, `visual-llm` and the ADM each still said `swarm` guarded
+"three of its four" five days after its fifth guard landed). So a change to a
+convention, or to how far a repository's tests reach its decisions, is
+recorded here, in the same piece of work.
+
+One test cites across two of them (added 30 October 2026):
+`careful-memory`'s `tests/test_bayesian_properties.py` and `swarm`'s
+`tests/test_properties.py` pin the same two properties of a Beta-mean
+confidence (one record's swing is bounded and the result stays in [0, 1];
+an update never runs against its evidence). `careful-memory`'s file cites
+`swarm`'s ADR-0005 at a fixed commit, and that ADR names `careful-memory`'s
+ADR-0001 as the model it followed. No code is shared and neither imports
+the other; the licences differ (MIT and EPL-2.0), which is one more reason
+the citation stays a citation.
 
 One document crosses between two of them (added 6 October 2026):
 `Voting`'s `docs/lot-then-vote.md` and `virtual-anthropology`'s
