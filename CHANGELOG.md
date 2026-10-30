@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Rhuven's portrait shows one four-bar rank tab** (`src/images/characters/rhuven.jpg`, `story-bible/images.md` § 34, 2026-10-30, Opus, Dermot's *"Accept all five"*). A retouch of the shell band at the top edge: the two small plates of two bars each become one pale grey-green plate of four bars at the forward edge, as the page describes the rank tab. The second plate is painted out with the band's own texture. Nothing else in the picture changes.
+
 - **Alala's crow, and the portraits' credit** (`src/characters/alala.md`, `src/characters/rhuven.md`, `src/characters/elsha-rootkin.md`, 2026-10-30, Opus, Dermot's *"Accept all five"*). Fixes from the critic reads of #1578–#1585 and #1588–#1591. Alala's page drops the echo of the unit's nickname that #1591 took off the Five-O page, so the crow is *the island crow of old Earth*. Rhuven's and Elsha Rootkin's image alts no longer credit *a Survey Corps field artist*, whom no page gives; they stay artist's impressions. Rhuven's alt now names one plate of four bars, as the page does. The prompts of record in `story-bible/images.md` keep their wording, since they are what made the frames.
 
 - **Critic fixes on the 30 October briefs** (`story-bible/video-prompts.md` D7, `story-bible/intake-2026-10-30.md`, 2026-10-30, Opus, from a Fable critic read of #1588–#1591). Mechanical: D7's camera list put a fixed camera on the launch cradle's tower, which the rail replaced, so it is now a mast at the end of the causeway; D7's one link into `src/` now resolves from `story-bible/`; and the small-station count reads *a few short of 3,240*, since some slots are left empty. Nothing in `src/` changes.
