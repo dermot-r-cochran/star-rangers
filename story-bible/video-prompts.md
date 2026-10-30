@@ -737,6 +737,16 @@ whatever comes back is judged by its brief's line, filed in the Journal at most,
 never linked from a chapter or a lore page, and never adjusts the record. On
 this plan Director cuts at 854×480; it is filed as it comes, not upscaled.
 
+**The ring, if a film shows it** (Dermot, 30 October 2026, `intake-2026-10-30.md`).
+A brief that shows *The Long White Trail*'s orbital ring gives Director its
+settled look. It is a chain of thousands of separate habitat stations at
+geostationary height circling Earth. From an Irish bay at dawn it is a beaded arc
+of pinpoints about 29° up in the south, lit before the ground and never moving,
+and its beads run into a fine line toward the horizon. From the docking approach
+it is a necklace of distinct stations curving away round the planet. It has no
+continuous band and no tether. Lúnasa is one bead of the ring and never has the
+forty seconds. The ring's look is fixed for films only and is not canon.
+
 ### The five subjects, and why
 
 **The forty seconds, Dock Seven, 2815.** The premise of the whole work is two
