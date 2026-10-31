@@ -1897,6 +1897,342 @@ Inner Turn is, which waits on his choice above.
 - **`mind-design.md`'s Spiralite section** stays *not established*: three
   kinds say nothing about who speaks for the people, and choice 5 there (A,
   the chapter finds out) is untouched.
+## Meridian sapients — a body from the Long Shelf (31 October 2026, Dermot's *"Yes, all four"* to handing the owed gaps to Fable)
+
+**Why.** The record has two filed portraits of Meridian's people and no body
+for them. `sixth-course.jpg` (`images.md` § 14, 14 October 2026) was briefed
+*from the planet page alone, since the record has no species page for
+Meridian's people*, and `second-outwork.jpg` (§ 41, filed 26 October, round 3,
+with the first frame sent as a body reference, Dermot's *"Second Outwork 4"*)
+was briefed the same way; both entries say *the body is the planet page's and
+nothing more*. So the body exists only as two pictures and the readings
+taken to make them, and the next Meridian prompt would have to be briefed
+from pictures again. This section writes the body down, in the order this
+file uses: the world first, then what the rulings force, then what the two
+frames actually show, then what is proposed to join them up. Drafted on
+Fable under `CLAUDE.md`, *When Fable may extend canon lore on its own*. It
+passes the four tests as follows: **derived**, from `planets/meridian.md`,
+`characters/sixth-course.md`, `codex/what-came-in-the-water.md` and the two
+filed frames; **adds without moving**, since nothing here contradicts a page
+or a frame; **closes no shadow**, since what the Long Shelf has not been asked
+stays unasked; and reads as **already true**, since both portraits were
+filed on these readings. Two limits bind it harder than the rest of the
+file. *A people's designed body* is on the never-without-Dermot list, so this
+section proposes and ratifies, and designs nothing the frames do not already
+show: every point is marked **derived** (it follows from a page or from a
+filed frame he chose, or from physics applied to one), **proposed** (a choice
+that fits, his to overrule) or **not established** (the record is silent and
+this section leaves it so). And nothing here is written to `src/`.
+
+### What the rulings and pages force (derived)
+
+- **Not a metazoan, and *crustacean* is a likeness.** The planet page's
+  *crustacean*, *armored, segmented invertebrate life* and *armored native
+  intelligence* are a survey's words for how the people look to a human eye,
+  and the taxonomy page reads every such word the same way: *a likeness is a
+  hint, never a template*, and a picture that turns it into the Earth animal
+  *has turned the likeness into a claim the record does not make*
+  (`cross-biosphere-taxonomy.md`). No other people in the record is a
+  metazoan. The Earth crab is therefore the attractor to be refused, not the
+  kind to be drawn.
+- **Native to a dense ammonia-saline sea under a thick halogen-heavy air,
+  and never out of it.** The chemistry *that kills a human unprotected is,
+  for Meridian's native biosphere, simply the water everyone breathes*;
+  humans meet the people only through *translation instrumentation and
+  armored remote proxies*, from *sealed orbital or submersible platforms*
+  (`planets/meridian.md`). The people *can no more walk Tír na nÓg than a
+  human can swim their seas* (`habitable-for-whom.md`). So the body is a
+  water body throughout: it is never seen in air, carries nothing for air,
+  and nothing about it is built for weight.
+- **Two channels, both bodily.** Claw-percussion *against shell and
+  structure*, audible and readable underwater at range, and a slower
+  chemical signal *diffused directly into the surrounding water column*
+  (`planets/meridian.md`). The codex gives the grammar: *a strike goes far
+  and arrives at once and carries the shape of a thing; the water comes
+  after, and slowly, and carries what the shape meant* (`what-came-in-the-water.md`).
+  So the body has an organ that strikes, a surface that is struck (*shell*),
+  and an organ that puts a chemical into the water.
+- **It lives on and in a lattice it builds, and hears through it.** The
+  reef-cities are *secreted mineral composite*, *dense, load-bearing lattice*
+  laid *course on course*, and *a city built that way is also an instrument*:
+  a strike on an outwork is heard across the city, and the analysts' craft is
+  telling *what the city is saying from what the city is doing*, since *a
+  lattice under load has a sound of its own* (`characters/sixth-course.md`;
+  the codex's *the low courses are heard, not addressed*). So the body holds
+  the structure, and the holding is the hearing.
+- **It builds, sits in council and petitions; it has a craft.** An analyst
+  (Sixth Course) and one who strikes for the council (Second Outwork) are on
+  record; the council *makes a petition in the water, over sittings*, and
+  one person strikes it where the channel hears. So the body can hold still
+  for a long time, work a lattice with precision, and strike a pattern exactly.
+- **No pronoun, no self-name, no lifespan, no conversion between a course and
+  a year** (`second-outwork.md`, *What the Record Does Not Carry*). The
+  people reckon by courses laid, *a weight borne*, not by any count of years
+  (`what-came-in-the-water.md`). Each of these stays as the record holds it.
+- **Nothing worn** (`civilian-dress.md`, Meridian sapients: nothing worn is
+  proposed, and both frames show nothing worn).
+- **Whose secretion the composite is: not established, and the Long Shelf
+  itself declined to say** (`what-came-in-the-water.md`, *What was not
+  asked*). *Living with other life* below proposes co-building with the
+  fist-sized reef-builders if a page ever needs it. This section needs no
+  answer and gives none; the body holds either way.
+
+### What Meridian derives (physics applied to the page)
+
+- **What kills a large animal on Meridian is being on the open shelf
+  margin.** The page puts *apex hunters that mass several tonnes* there, *in
+  coordinated hunting groups*. A people of a human's span who are nobody's
+  hunters live where a several-tonne animal cannot follow: inside a lattice
+  whose gaps admit them and not it. That is the ecological reason a reef-city
+  is a dense load-bearing lattice and not a mound, and the reason the body is
+  low, long and close-held, built to pass through courses and to hold on
+  (derived; the ecology note's Meridian section carries the web).
+- **In a dense sea a body is carried by the water, so limbs hold position;
+  they do not bear weight.** Many short limbs that grip beat few long ones
+  that stride: a current moves through a lattice, and a body that is held
+  at many points along its length is one that stays where it was put and
+  feels every strike that reaches the course beneath it. Long limbs would be
+  levers for the current to work on (derived; it is why both frames show the
+  body carried close to the structure).
+- **A surface struck for speech is a surface built to be struck.** Percussion
+  *against shell* means the people's own armour is a sounding surface as well
+  as a guard. Overlapping plates of hard mineral carry a strike as a lattice
+  does; a soft body would swallow it (derived).
+- **A striker is solid.** An organ whose work is to hit a course cleanly,
+  pattern for pattern, at range, is a mass on a jointed limb with a single
+  blunt end. A pincer, two halves hinged at a gap, is the Earth animal's
+  grasping tool and would buzz on a strike. So the forelimbs end in one
+  closed piece and do not grip (derived from the page's *claw-percussion*
+  and from both frames; the word *claw* is the survey's and stays).
+- **Hearing is contact.** Underwater and through a mineral lattice, the
+  signal arrives as vibration in the structure. A body held to the course at
+  many points along its length is already the instrument, and no ear in a
+  head is needed or wanted (derived from the page's *audible and readable at
+  considerable range* and the analysts' craft; the organ is proposed below).
+- **The chemical channel needs a chemical sense, placed where the water
+  arrives first.** A slow signal diffusing through water reaches the fore end
+  of a body facing the current before anything else. So the chemical sense
+  sits along the fore end (derived); what it looks like is the frames'.
+- **Light is dim, green and from above.** Shallow seas under a thick
+  atmosphere, in turbid water full of suspended particles, with visibility of
+  a few metres (both frames; the planet cover's *sickly green*). A body here
+  is not built around sight, and a sense that registers light and shadow from
+  above is worth more than one that forms a picture. So no large eyes, and no
+  eyes that look (derived; whether the people see at all is below).
+
+### What the two filed frames show (derived from the frames)
+
+Both frames were filed at Dermot's pick and are the record's only pictures of
+the people. Where they agree, the body is theirs; where they differ, the
+difference is read as between two persons, as § 41 read it at filing.
+
+- **`sixth-course.jpg`** (whole body, side-on, inside the city): a long, low,
+  segmented body on a pale strut of the lattice, in dim green water. The
+  back is a run of twelve or so overlapping dark mineral-grey plates, each
+  lapping the one behind it, scratched and matte, largest behind the fore end
+  and dwindling toward a tapered rear. The fore end is a smooth armoured hood,
+  rounder and larger than any plate, with a single row of small dark pits set
+  along its lower rim, eight or nine on the visible side, evenly spaced, none
+  in pairs. Beneath the plates a row of short jointed limbs, about ten on the
+  visible side, dark, each ending in a hard point, grip the strut. At the fore
+  end two heavier jointed forelimbs reach forward and down and end in solid,
+  closed, blunt ends laid flat on the strut, the near one slightly tapered.
+  No neck, no face, no stalked eyes, no antennae, no tail fan. The body is
+  about the span of an adult human's reach, read against the struts.
+- **`second-outwork.jpg`** (part of the body, close, at an outwork on the
+  margin): the near rim of the hood and the first plates fill the upper left
+  of the frame and run out of it; the plates overlap thickly, scratched and
+  uneven, under a fine matte grey-green bloom. Three or four small dark pits
+  sit in a line on the hood's lower rim. One heavy forelimb, three plated
+  segments, reaches down and forward and ends in a single solid rounded end
+  like the head of a pestle, held still just above a pale new course of the
+  lattice laid on a darker older one. Beneath, short jointed limbs with hard
+  points grip the course. Open green water beyond the last struts.
+- **Where they agree** (and so, derived): overlapping mineral plates, matte
+  and scratched; a smooth hood at the fore end with one row of small pits
+  along its lower rim and no eyes above it; heavy jointed forelimbs ending in
+  one solid blunt piece, no hinge and no gap; many short jointed limbs with
+  pointed ends that grip the lattice; nothing worn; a surface that is never
+  glossy though it is never out of water.
+- **Where they differ** (and so, between persons): the colour, dark grey
+  against grey-green bloom; the forelimb's end, slightly tapered against
+  pestle-round; the set of the plates, flatter and more even on Sixth Course,
+  thicker and more lapped at Second Outwork's fore end. None of these is
+  the kind.
+
+### The body (derived where marked; otherwise proposed)
+
+1. **Plan.** One long, low, segmented body, bilaterally symmetrical along
+   its length, about the span of an adult human's reach from the hood's rim
+   to the tapered rear, and never higher off the course than a plate's depth
+   (derived, both frames; the span was § 14's reading and both frames hold
+   it). It has a fore end and a rear and no head on a neck.
+2. **The hood.** The fore end is one smooth armoured hood, larger than any
+   plate and rounded, covering whatever lies beneath it; no frame shows the
+   underside, and the record does not describe it (derived, both frames; the
+   underside **not established**). Proposed: the hood is the body's shield
+   and its bow, the first thing the current and a strike from ahead meet.
+3. **The sense-pits.** A single row of small dark pits along the hood's
+   lower rim, close-set, flush with the plate, none in pairs, none turned to
+   anything (derived, both frames). Proposed: they are the chemical sense,
+   the organ that reads the *water after*; they also register light and
+   shadow from above, and form no picture. So a Meridian person is never
+   *looking*, and a portrait has no gaze to turn off-frame; § 41's rule
+   *attention is the claw* is the body's own fact. Whether the people see in
+   any fuller sense is **not established**, and nothing in the record asks it.
+4. **The plates.** Overlapping plates of hard mineral along the back, each
+   lapping the next toward the rear, matte, scratched and uneven, dwindling
+   toward the tail (derived, both frames). They are the *shell* the page's
+   percussion is struck against: a person's own back is a sounding surface,
+   and a strike on a neighbour's plates is an address (derived from the page;
+   the use proposed). Proposed: the plates are not shed. They are laid down
+   and thickened through a life, as a course is, so the scratches stay and
+   an older person is a more scored one; that is why both frames show worn
+   armour and no new one. This keeps the Earth animal's moult out of the
+   people and reads with the codex's *a course is a weight borne*. **Not
+   established:** how a person grows, how long, and whether the hood is laid
+   like the plates.
+5. **The forelimbs.** Two, heavier than the rest, jointed in three plated
+   segments, reaching forward and down from under the hood; each ends in one
+   solid closed piece with no hinge, no gap, no serration and no fingers
+   (derived, both frames; the end is slightly tapered or pestle-round,
+   between persons). Their work is to strike, on the lattice and on shell,
+   and they do not grip (derived, `planets/meridian.md`, *claw-percussion*;
+   both frames show them laid on or raised over a course and holding
+   nothing). The record's word for them is *claw*, and it stands as the
+   survey's (derived). Proposed: a person strikes with one and keeps the
+   other on the course, and the one kept down is listening; the two frames
+   show both postures, both flat between strikes and one raised to strike.
+6. **The walking limbs.** Many short jointed limbs beneath the plates along
+   the body's length, in pairs, each ending in a hard point that hooks the
+   lattice (derived, both frames, for the visible side; the pairing is
+   proposed from the plan's symmetry). The record fixes no count; the Sixth
+   Course frame shows about ten on one side, and a prompt says *many* and no
+   number. Proposed: they are the hearing. Held to the course at ten or
+   twelve points, a person feels a strike anywhere in the city as the lattice
+   carries it, and the analysts' craft is a craft of the limbs, not of a
+   head: *which strikes are speech, which are the city settling, and which
+   are the sea* is told by what reaches the points, in what order, at what
+   strength. A Meridian person who lets go of the city is one who has
+   stopped listening.
+7. **The underside and what it takes from the water.** No frame shows it
+   and the record does not describe it. **Not established:** how the body
+   takes what it needs from the water, where, and what it eats (the ecology
+   note's Meridian section proposes the food, and leaves the organ). A
+   portrait never shows the underside, and a prompt describes none.
+8. **The chemical channel.** The slower signal is *diffused directly into
+   the surrounding water column* (derived, `planets/meridian.md`). Proposed:
+   it is put into the water from beneath the plates, along the body, so that
+   it leaves on the current and arrives after the strike, which is the
+   grammar the codex gives. No organ is named, and a portrait shows nothing
+   of it: the water carries no visible trace, and a prompt that lets it
+   draws dye or bioluminescence.
+9. **Colour and finish.** Mineral grey, matte, with a fine bloom; never
+   glossy though always wet, since a wet gloss is the generator's tell and
+   the body is never out of water (derived, both frames and § 14's reading).
+   Between persons the grey runs from dark to grey-green (derived, the two
+   frames). Proposed: the bloom is a film the water lays on a plate that is
+   not shed, and varies with where a person works; it tells persons apart,
+   not kinds. No pattern, no marking, no colour that signals (proposed; the
+   record gives none and the modesty and tone bars want none).
+10. **Variation.** Colour and bloom, the set and wear of the plates, the
+    shape of the forelimb's end, and length tell one person from another
+    (derived, the two frames differ in exactly these). Nothing in the record
+    tells an age, a sex or a role from the body, and this section proposes
+    none: *a people's designed body* is his, and the frames show two persons
+    and no more.
+
+### Traps closed
+
+- **The crab and the lobster.** Pincers, stalked eyes, antennae, a fan tail:
+  § 41's first round drew all four from a text prompt. The body has one
+  solid end on each forelimb, no eyes above the rim, nothing on stalks and a
+  tapered rear. Say *one closed piece, no hinge, no gap* and name the Earth
+  crustacean in the negative.
+- **The isopod and the trilobite.** The honest nearest Earth form of a long,
+  low, plated body on many short limbs. The hood larger than any plate, the
+  single row of pits on its rim, the two heavy forelimbs and the body's span
+  keep it from a woodlouse at any scale; the prompt negates both by name.
+- **The tortoise on stumps.** § 41's second round turned a hood described
+  alone into a tortoise shell on stumpy legs. The hood is never described
+  without the run of plates behind it, and the limbs are *short, jointed,
+  pointed*, never *stumpy*.
+- **The monster.** The 22 September rule's worse failure, and the one a
+  raised claw invites. The claw is blunt, closed and still, raised over a
+  course and never over a body; nothing is turned to the lens; the pits are
+  a row, never two eyes; and the negative names *menacing, pincers open,
+  claws grabbing, kaiju, sea monster*.
+- **The face.** Two pits in a pair, or a pair set apart from the row, read
+  as eyes and make a face. The row is single, even and close-set, and the
+  prompt says *none in pairs*.
+- **The coral reef.** Blue water, sunlight, fish and weed arrive with the
+  word *reef*. The city is grown grey-green mineral lattice in dim green
+  turbid water with nothing swimming in it; the prompt says *reef-city* only
+  with *lattice* beside it and negates the tropical reef.
+- **The ruin and the drowned city.** A lattice of grey struts under a sea
+  reads as a wreck or a sunken town. The courses are *grown and not cut*, the
+  newest plainly laid on the older, the joins clean, and the city is at
+  work.
+- **The human hand.** Not a risk this body runs: there are no fingers to
+  draw. But a forelimb *resting on* a course can come back as one; let it be
+  laid flat or raised, and say *holding nothing*.
+- **The render.** Ask for a real armoured surface with its bloom, scratches
+  and unevenness, turbid water with particles, a wide lens on a remote
+  housing, grain in the green shadows, a touch under-exposed.
+
+### Prompt vocabulary and standard negative
+
+The prompts of record are § 14 (Sixth Course, whole body side-on) and § 41
+(Second Outwork, part of the body, close). A new Meridian prompt starts from
+§ 41's prompt and this section, and the next person is told apart from both
+filed frames under the identity rule by part, moment, place and surface. The
+third round of § 41 passed only with `sixth-course.jpg` sent as a body
+reference; so a reference is the route when text draws a tortoise or a crab,
+and the prompt says, as § 41's does, that only the body plan, proportions and
+surface are kept. Either filed frame serves; `sixth-course.jpg` is the one
+that has worked.
+
+**Standard negative.** *crab, lobster, shrimp, prawn, crayfish, krill,
+mantis shrimp, isopod, woodlouse, horseshoe crab, trilobite, scorpion,
+centipede, insect, beetle, Earth crustacean, giant crab, tortoise, turtle,
+shell on legs, armadillo, pangolin, monster, kaiju, sea monster, creature,
+claws grabbing, pincers open, serrated claw, hinged claw, menacing,
+aggressive; stalked eyes, eyes on stalks, antennae, feelers, whiskers, fan
+tail, mandibles, mouthparts, teeth, face, head on a neck, paired eyes; a
+human figure, hands, fingers, diver, submersible in frame, proxy in frame,
+cable, lamp, torch beam, tool, weapon; glowing skin, bioluminescence, dye in
+the water, neon, iridescence, wet gloss, shine, slime; coral reef, tropical
+reef, blue water, clear water, sunlit water, fish, seaweed, kelp, bubbles,
+aquarium, tank, shipwreck, ruins, sunken city; 3D render, CGI, creature
+design, concept art, clay, toy, rubber suit, plastic sheen, waxy surface.*
+
+### Where this goes
+
+- **Nothing to `src/` from this section.** Both character pages already
+  describe the body as the frames show it (`sixth-course.md`'s `image_alt`;
+  `second-outwork.md`'s *What the Record Does Not Carry*), and the planet
+  page stands as it is.
+- **Owed, and a choice for Dermot:** the people have no lore page of their
+  own. The planet page carries them in one section, *The Meridian People*,
+  and `scripts/extract-peoples.js` reads that section as their page. A
+  species page (`src/lore/meridian-sapients.md`, or a clarification of the
+  planet page's section) would state the body in two sentences from the
+  derived points above, the two channels as the page already has them, the
+  address convention of the two names, and what the record does not hold.
+  It is a definition, so Opus's by default, and it is *a people's designed
+  body* reaching a page, so his to call: **(A) recommended**, a short
+  species page carrying only the derived points, the proposed ones staying
+  here; **(B)** a clarification on the planet page's section instead, two
+  sentences; **(C)** leave the people on the planet page as they are, since
+  no chapter has yet needed more.
+- **For the next prompt:** `images.md` § 14 and § 41 both say *the body is
+  the planet page's and nothing more*; from this section on, a Meridian
+  prompt is briefed from here, and the Peoples and Bodies artefact's Meridian
+  row should read the two frames against this section at the next release.
+- **Cross-references in this file:** *Living with other life* (co-building,
+  unchanged), *Minds they make* and *In the Corps* (both unchanged; the
+  body adds nothing to either). The ecology note's Meridian section carries
+  the web the body stands in.
 
 ---
 
