@@ -9687,173 +9687,216 @@ patch, no shift and no glow; where § 13 drew Sohrel's four centimetres
 because the chapter gives them, this frame draws none because the page says
 none was sent. A generator asked for a display draws neon in any case.
 
-**The composition is the 24 October rule, for the first time on a
-Cerebraun**: part of the body, close, the outline never seen. Every
-text-to-image round of a whole Cerebraun body since 13 October has failed on
-structure (Vaurel, 24 and 26 October: a head-like swelling at a limb's tip,
-then an elephant, then a headless torso; Sohrel's own filed frame carries a
-*bent-over figure* flaw), and the one frame that held the whole body needed
-two Blender blockouts and six rounds. The three filed frames are all whole
-bodies at a middle distance, so a close frame on the upper tier and the top
-of the central body is also what tells Essaran apart from all three at a
-glance, under the identity rule. The lower tier and the far side of the body
-are out of frame; the scale comes from the island's edge, the slab, and the
-wide low opening soft behind, whose top is not much above the top of the body. **The body is the people's page's and the body sheet's,
-by structure and never by resemblance**: soft and boneless on the Hydrostata
-frame; no head, no neck, no face, no mouth, no pair of large eyes; an upper
-side and an underside and no front; eight limbs in two tiers of four, the
-upper four longer and working, thick soft boneless tubes with no joints, no
-suckers, no hooks, the inner surface the same skin as the rest, each leaving
-the body through a broad deeply creased root in one continuous skin (the
-`vaurel-2` round-3 lesson: a root that begins above the surface reads as a
-tube laid on the back); small dark matte eyes flush with the skin at
-intervals along the limbs, none in pairs; a dry, matte, finely grained
-integument in one quiet tone at rest. **Limb tips explicitly blunt**: every
-tip closed, rounded, plain, the same skin as the limb, no node, no swelling,
-no narrowing to a point, no fingers, no pad (the Vaurel failure of 24
-October, a swelling read as a head, and the card's device, a node at each
-tip, refused by name). **The Earth animal is refused by name**, under the 12
-October convention and the body sheet's own list: octopus, squid, cuttlefish,
-cephalopod, suckers, beak, siphon, mantle, fins, ink, a wet gloss, arms
-tapering to a point; and the attractors the Cerebraun rounds have actually
-drawn: an elephant's trunk, a human hand and fingers, a human torso or back,
-a snout. **The room is Cerebraun-made, for Cerebraun bodies, and no world is
-invented** (Dermot, 31 October 2026, *"Native habitat backdrop for
-Cerebraun"*, then *"A"* between a Cerebraun-made interior in the office's own
-idiom and a homeworld designed first). The habitat the record allows is the
-room: the homeworld is unnamed (`species-design.md`, *Cerebraun — homeworld
-unnamed*, ruled 13 October, option (a)), no Cerebraun biosphere exists, the
-page says where the Prime Ganglion's office sits is not on record, and
-`src/lore/cerebraun.md` says the record has not established what air they
-would choose; so there is no window, no sky, no landscape and no opening onto
-a world, on Mireille Achterberg's precedent (§ 17) and Vaurel's, and nothing
-in frame asserts their air, their gravity or their light. What the room can
-say is derived from the body (`species-design.md`, *Cerebraun — the body
-behind the likeness*; the people's page), point by point. A body with no
-front has no desk that faces one way and no chair, so the drafting surface is
-a low broad island standing free in the room, approached from any side, floor
-all round it and nothing behind it but the room. A body that sees from many
-small eyes along limbs that work at a human's knee height lives in the lowest
-band of a room, so everything the room has sits low and the stone above that
-band is blank. A body that holds by wrapping and passes wide and low makes
-its openings wide and low, the shape of a body wider than tall. And a room
-used for long by such bodies carries its wear low: the floor worn smooth in a
-broad band where bodies pass, the wall's lowest band rubbed faintly darker
-and smoother where limbs have brushed it over years, the stone above
-untouched; that wear is what says, without a human in frame, that nothing
-here was made to a human's scale. Of a piece with Vaurel's room (§ 33,
-`vaurel-2.jpg`: *a plain stone room with a wide low dark doorway*), since the
-two are rooms of one people, and not the same room re-lit: Vaurel's is warm
-pale stone under one overhead slot with the doorway square behind a whole
-body; this is cooler pale-grey stone lit low from one side, the island
-free-standing, the worn bands the record of use, and only the lower corner of
-one wide low dark opening in frame at the far side, soft, its top not much
-above the top of the body, which is the scale. Not the Halyx Relay Station,
-which is Sohrel's and Tavesh's. **The century's sign** (*Conventions*, 7
-October: one thing in the frame that says the century, in the record's
-idiom): the sealed slab, a filing that goes by data exchange and not by paper
-carried in one sealed dark slab with no screen, on an island of composite
-with fine honest seams. A stone room with low openings would otherwise read
-as old, and the round-1 ground (*nothing made in frame but the surface and
-the slab*, the audit's (A)) no longer holds once the room is made. The
-Hegemony's seal is a teal hexagon on the emblem card and nowhere else, so
-*hexagon, seal, emblem* are negated by name as § 33 did, and no mark of
-office is shown (the body sheet: the pick waits for a page that needs it;
+**The composition is the Sohrel and Tavesh shape, after two rounds on the
+close crop failed** (the 31 October review, `species-design.md`, *Review, 31
+October 2026 (Essaran's two rounds)*, its recommended route followed here
+exactly): the whole body at a middle distance, resting on its lower tier
+beside the island with its weight showing, the limbs folded and curled against
+the body, the outline uneven everywhere and in view. All three filed frames of
+this people hold the whole body this way, and the review found that where they
+hold is exactly where Essaran's two rounds failed: the close crop of round 1
+took away the lower tier, the roots and the outline and left a mound with four
+tubes leaving it, which is a back with trunks; the blockout of round 2 exposed
+the central body as a clean disc on four even stubs, which is a footstool. On
+a body with no head, no face and no front, the close part is a mound and the
+feature is the whole arrangement, so the 24 October composition rule (part of
+the body, close, the outline never seen) stays for peoples whose part carries
+a feature only they have and does not apply to a Cerebraun. What tells Essaran
+apart from the three is no longer the crop but the room, the tone, the island,
+the slab, the light and what the limbs do (below). So the lower tier is in
+frame with the body resting on it; the camera is at about the height of the
+body's top and never above it, with deep focus; and the one wide low opening
+is in frame in full, the one thing at a known height, so the scale reads
+without a human (the critic's third and fourth rungs: a high camera and
+shallow focus make a diorama, and a frame with nothing to measure by reads as
+small). **The body is the people's page's and the body sheet's, by structure
+and never by resemblance**: soft and boneless on the Hydrostata frame; no
+head, no neck, no face, no mouth, no pair of large eyes; an upper side and an
+underside and no front; eight limbs in two tiers of four, the lower four
+short, broad and load-bearing, the upper four longer and working, thick soft
+boneless tubes with no joints, no suckers, no hooks, the inner surface the
+same skin as the rest, each leaving the body through a broad deeply creased
+root in one continuous skin (the `vaurel-2` round-3 lesson: a root that begins
+above the surface reads as a tube laid on the back); small dark matte eyes
+flush with the skin at intervals along the limbs, none in pairs; a dry, matte,
+finely grained integument in one quiet tone at rest. **The resting form is the
+body sheet's, as ruled 31 October** (point 5, Dermot's choice 1 to the
+review): a body held by fluid pressure and no skeleton settles under its own
+weight, so the central body sags onto the lower tier and spreads, its outline
+uneven and never a clean lens or dome, and wherever the body is not held taut
+the skin falls into loose folds and deep creases, at every root and bend and
+across the slumped mass; *wider than tall* is a proportion of the mass, not a
+disc. All three filed frames show it, and the review found it is the one
+surface the generator has never turned into furniture. **Limb tips explicitly
+blunt**: every tip closed, rounded, plain, the same skin as the limb, no node,
+no swelling, no narrowing to a point, no fingers, no pad (the Vaurel failure
+of 24 October, a swelling read as a head, and the card's device, a node at
+each tip, refused by name). **The Earth animal is refused by name**, under the
+12 October convention and the body sheet's own list: octopus, squid,
+cuttlefish, cephalopod, suckers, beak, siphon, mantle, fins, ink, a wet gloss,
+arms tapering to a point; and the attractors the Cerebraun rounds have
+actually drawn: an elephant's trunk, a human hand and fingers, a human torso
+or back, a snout, and now the review's two, a close crop of a headless body
+and a smooth surface, with the furniture round 2 returned. **The room is
+Cerebraun-made, for Cerebraun bodies, and no world is invented** (Dermot, 31
+October 2026, *"Native habitat backdrop for Cerebraun"*, then *"A"* between a
+Cerebraun-made interior in the office's own idiom and a homeworld designed
+first). The habitat the record allows is the room: the homeworld is unnamed
+(`species-design.md`, *Cerebraun — homeworld unnamed*, ruled 13 October,
+option (a)), no Cerebraun biosphere exists, the page says where the Prime
+Ganglion's office sits is not on record, and `src/lore/cerebraun.md` says the
+record has not established what air they would choose; so there is no window,
+no sky, no landscape and no opening onto a world, on Mireille Achterberg's
+precedent (§ 17) and Vaurel's, and nothing in frame asserts their air, their
+gravity or their light. What the room can say is derived from the body
+(`species-design.md`, *Cerebraun — the body behind the likeness*; the people's
+page), point by point. A body with no front has no desk that faces one way and
+no chair, so the drafting surface is a low broad island standing free in the
+room, approached from any side, floor all round it and nothing behind it but
+the room. A body that sees from many small eyes along limbs that work at a
+human's knee height lives in the lowest band of a room, so everything the room
+has sits low and the stone above that band is blank. A body that holds by
+wrapping and passes wide and low makes its openings wide and low, the shape of
+a body wider than tall. And a room used for long by such bodies carries its
+wear low: the floor worn smooth in a broad band where bodies pass, the wall's
+lowest band rubbed faintly darker and smoother where limbs have brushed it
+over years, the stone above untouched; that wear is what says, without a human
+in frame, that nothing here was made to a human's scale. Of a piece with
+Vaurel's room (§ 33, `vaurel-2.jpg`: *a plain stone room with a wide low dark
+doorway*), since the two are rooms of one people, and not the same room
+re-lit: Vaurel's is warm pale stone under one overhead slot with the doorway
+square behind a whole body; this is cooler pale-grey stone lit low from one
+side, the island free-standing, the worn bands the record of use, and the one
+wide low dark opening in full behind and to one side of the body, not square
+behind it, its top not much above the top of the body, which is the scale. Not
+the Halyx Relay Station, which is Sohrel's and Tavesh's. **The century's
+sign** (*Conventions*, 7 October: one thing in the frame that says the
+century, in the record's idiom): the sealed slab, a filing that goes by data
+exchange and not by paper carried in one sealed dark slab with no screen, on
+an island of composite with fine honest seams. A stone room with low openings
+would otherwise read as old, and the round-1 ground (*nothing made in frame
+but the surface and the slab*, the audit's (A)) no longer holds once the room
+is made. The Hegemony's seal is a teal hexagon on the emblem card and nowhere
+else, so *hexagon, seal, emblem* are negated by name as § 33 did, and no mark
+of office is shown (the body sheet: the pick waits for a page that needs it;
 this one does not).
 
 Readings taken for the frame (Fable's, under *Who approves whom*; each his to
 overrule, and none written to the page): **the resting tone a deep muted
 umber-brown**, one tone, a fourth beside Sohrel's slate-violet, Tavesh's
 grey-olive and Vaurel's sand-grey, since `civilian-dress.md` open item 3
-(ruled A) makes the tone individual and ties it to nothing, and a warm skin
-in a neutral room is the Ulessa lesson against a drab frame; the three filed
-tones negated by name; **the body about Sohrel's bulk and not old**, the
-creases those of a working adult and not Vaurel's deep folds, since the page
-gives no age and the record no lifespan beyond Sohrel's three centuries, and
-in a close frame the bulk shows only in the girth of the limbs; **the skin's
-grain fine and its creases few**, folded deep only where a limb leaves the
-body and creased shallowly where it bends, never ringed along a limb's
-length, since the ringed wrinkle of a thick tube is the trunk's own tell
-(round 1), and *skin* rather than *hide* throughout, a hide being an
-elephant's; **three upper limbs in frame and the fourth out**, each leaving
-the body from a different place (the near flank, the upper side, the far
-flank), each doing a different thing as above,
-the raised limb's blunt tip a span above the slab and still, the moment
-between the second part and the third; **the slab** a single flat sealed
-slab of matte dark-grey composite about a span long and a little thicker than
-a coin, flush-edged, no screen, no glass, no light, nothing on it, the only
-object on the surface; **the surface** a low broad bare island of matte pale
-composite with fine honest seams, shaped to the body and standing free in
-the room, no recess, approached from any side, its far edge going soft with
-floor beyond it; **the room** plain, kept and still, cool pale-grey stone,
-the wall meeting the floor in rounded coving, the floor the same stone worn
-smooth and faintly darker in a broad band where bodies pass, the wall's
-lowest band rubbed smoother and faintly darker up to about the height of the
-top of the body and the stone above it blank, the lower corner of one wide
-low dark opening at the far side of frame, soft, its top not much above the
-top of the body, no window, no door leaf, nothing on the walls, no fitting,
-no chair, nothing scaled to a human; **the light** one hard light from
-off-frame to one side and low, at about the height of the top of the body,
-since a room lived in by eyes along low limbs is lit where they see, so the
-grain of the skin is raked, the shadows of the limbs run long across the
+(ruled A) makes the tone individual and ties it to nothing, and a warm skin in
+a neutral room is the Ulessa lesson against a drab frame; the three filed
+tones negated by name; **the body about Sohrel's bulk, slumped on its lower
+tier with its weight showing**, the central body sagging and spread so that
+its outline is uneven everywhere and its mass reads as wider than tall without
+ever being a disc, a dome or a cushion, the body barely seen as a shape at all
+beneath the limbs folded over and against it, which is how all three filed
+frames read before any geometry is read; **the skin deeply creased and
+folded**, as in all three filed frames and as the body sheet's resting form
+gives it: loose folds across the slumped mass, deep creases at every root and
+every bend and wherever a limb curls or crosses another, the fine raised grain
+between them; along a limb the folds run where it bends and curls and never as
+even rings around a straight tube, since a straight tube ringed along its
+length is a trunk (round 1) and a smooth even tube is a render (round 2);
+*skin* rather than *hide* throughout, a hide being an elephant's; **the limbs
+folded and curled against the body**, the lower four tucked under and spread a
+little by the weight, the upper four close in and overlapping where they
+cross, three of them doing three different things close against the body and
+the island and never out in the open on their own (the review: Essaran's
+rounds spread them apart, each a separate tube, which is the stool and the
+spread-limbed lizard): one wrapped once over the island's near edge and
+holding by the wrap, one bent above the slab with its blunt tip held still a
+span above it, the moment between the second part and the third, one curled
+along the top of the body touching nothing, and the fourth draped down the far
+side out of the light; none laid flat along the surface and none side by side;
+**the slab** a single flat sealed slab of matte dark-grey composite about a
+span long and a little thicker than a coin, flush-edged, no screen, no glass,
+no light, nothing on it, the only object on the surface; **the surface** a low
+broad bare island of matte pale composite with fine honest seams, its top at
+about the height of the top of the body, shaped to the body and standing free
+in the room, no recess, approached from any side, floor all round it; **the
+room** plain, kept and still, cool pale-grey stone, the wall meeting the floor
+in rounded coving, the floor the same stone worn smooth and faintly darker in
+a broad band where bodies pass, the wall's lowest band rubbed smoother and
+faintly darker up to about the height of the top of the body and the stone
+above it blank, one wide low dark opening in full behind and to one side of
+the body, much wider than tall, its top not much above the top of the body, no
+window, no door leaf, nothing on the walls, no fitting, no chair, nothing
+scaled to a human; **the light** one hard light from off-frame to one side and
+low, at about the height of the top of the body, since a room lived in by eyes
+along low limbs is lit where they see, so the folds and the grain of the skin
+are raked, the shadows of the raised limb and of the body run long across the
 island and the floor, the far side of the body falls into deep shadow and
 nothing in frame shows where the light comes from (the `vaurel-2` finding:
 soft light from everywhere made a model), the room itself neutral and not
-warm; **the camera** a moderate lens a little above the top of the body and
-three-quarter on from the island's side, close enough that the body's flanks
-leave the frame at both edges and the lower tier is below it, the near limb
-and the slab sharp and the room going soft behind, with depth enough that
-the island, the worn floor and the opening read as a full-size room and
-never a miniature (the critic's repair for a *headless torso*: a body wider
-than tall, seen three-quarter from mid height, never low and side-on; round
-1's camera, *a little above the surface and to one side*, was the low view
-that made one); **natural full
-colour and normal exposure**, the umber of the skin the one colour against
-the pale composite, with *grey*, *muted*, *drab* and *under-exposed* negated;
-**the only being in frame**, no second Cerebraun, no human, no hand, no boot,
-no instrument bank. **The pronoun is kept out of the prompt**: the page
-renders Essaran as *they*, nine centres and one person, and a generator reads
-*they* as a plural and draws a second figure, so the prompt uses the name and
-*the body* throughout, as the people's page does when it speaks of the body.
+warm; **the camera** a moderate lens at a middle distance, held at about the
+height of the top of the body and never above it, three-quarter on from the
+island's side, the whole body in frame with the floor before it, the island
+beside it and the opening behind, in deep focus so that the body, the island,
+the worn floor and the opening are all sharp and read as a full-size room and
+never a miniature (the critic's repairs for a *headless torso* and a
+*miniature diorama* together: a body wider than tall seen three-quarter from
+mid height, never low and side-on, and deep focus with a made thing at a known
+height; round 1's camera was the low view that made a torso and round 2's the
+high view that made a pouf); **natural full colour and normal exposure**, the
+umber of the skin the one colour against the pale composite, with *grey*,
+*muted*, *drab* and *under-exposed* negated; **the only being in frame**, no
+second Cerebraun, no human, no hand, no boot, no instrument bank. **The
+pronoun is kept out of the prompt**: the page renders Essaran as *they*, nine
+centres and one person, and a generator reads *they* as a plural and draws a
+second figure, so the prompt uses the name and *the body* throughout, as the
+people's page does when it speaks of the body.
 
-**Told apart from §§ 13, 14 and 33** under the identity rule: close and in
-part against three whole bodies at a middle distance; umber against
-slate-violet, grey-olive and sand-grey; one flat slab against a bare desk at
-night, an instrument housing with four limbs on it and a fist-sized capsule
-with a limb raised over it; one hard low side light raking the skin against
-Sohrel's dim night slot, Tavesh's even shift light and Vaurel's overhead
-slot; a free-standing island in cool pale-grey stone worn low, with the
-corner of an opening soft at the frame's edge, against Vaurel's warm stone
-and its doorway square behind the body; no patch anywhere against Sohrel's
-warmer patch. A variation that shows
-the whole body, puts it at a desk at night in slate-violet, or re-lights any
-filed frame fails the identity rule before the body is read.
+**Told apart from §§ 13, 14 and 33** under the identity rule: umber against
+slate-violet, grey-olive and sand-grey; a free-standing island with one flat
+sealed slab against a bare desk at night, an instrument housing with four
+limbs on it and a fist-sized capsule with a limb raised over it; one hard low
+side light raking the folds against Sohrel's dim night slot, Tavesh's even
+shift light and Vaurel's overhead slot; cool pale-grey stone worn low with a
+wide low opening against the Halyx Relay Station's seamless composite and its
+narrow human-height doorways, and against Vaurel's warm stone with its doorway
+square behind the body; three limbs doing three different things close in
+against Sohrel's two along a desk, Tavesh's four at work on a housing and
+Vaurel's one raised over a capsule; no patch anywhere against Sohrel's warmer
+patch. The whole body at a middle distance is now shared with all three by
+design, since it is the only framing this people has passed on, and the
+identity rule is met by the room, the tone, the island, the slab and the
+light, not by the crop. A variation that puts the body at a desk at night in
+slate-violet, on an instrument housing in grey-olive, over a capsule in
+Vaurel's warm room, or re-lights any filed frame fails the identity rule
+before the body is read.
 
-**If two rounds fail** the Earth-animal test or the photograph test, nothing
-is filed, the page stays bare, and the rounds are recorded here and in
-`image-prompts.md`; a near miss on one or two lines earns the two further
-rounds of 29 October. The next route after text-to-image is the Vaurel one
-(below), not a third roll of the same words.
+**If this round fails** at the first or second rung, the body has then failed
+on the framing that passed three times, and the choice to put to Dermot is the
+artist's impression (painted or technical, `-Finish 0`, an alt that says so)
+beside a body study; not a third route through the blockout, which on this
+people answers structure, and this people's trouble is surface. A near miss on
+one or two lines earns the two further rounds of 29 October. Until then
+nothing is filed, the page stays bare, and every round is recorded here and in
+`image-prompts.md`.
 
 - **`essaran.jpg`** — Cerebraun, officer of the Prime Ganglion's office, Cerebraun Hegemony, drafting officer of *What the Limbs Already Were*; *this filing has been rendered on the first channel only, and its evenness is not to be taken for the whole of it.*
-  References: `story-bible/reference-art/essaran-blockout-2026-10-31.png` (the blockout render only, from scripts/blockouts/essaran.py, Blender 5.2, Cycles, 1600×900; round 2)
-  > Edit the reference image, a grey 3D blockout of Essaran in this room, into a documentary photograph: keep exactly the body's wide flat shape, where each limb leaves it and the path each limb takes, the free-standing island, the dark slab on it, the room and the camera, and take nothing else from it, none of its smooth render surface and none of its colour. The attached image shows another Cerebraun, Sohrel, and it is a reference for the species' body plan only: take from it the soft headless boneless body with no front, the limbs that are thick smooth tubes ending in blunt rounded tips with no fingers, the small dark eyes set along the limbs and the dry matte grained skin, and nothing else, not its colour, not its size, not its pose, not its desk, not its night lighting and not its room; this is a different person of the same people, seen close. Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, at work, never posed to camera, nothing that invites the viewer: Essaran, a Cerebraun officer of the Cerebraun Hegemony's Prime Ganglion's office, a being from another world and not an Earth animal of any kind, drafting at a low broad bare island surface that stands free in a plain windowless room of pale-grey stone built by and for Cerebraun bodies, photographed close with a moderate lens from a little above the top of the body and three-quarter on, so that the frame holds the top of the low rounded central body, much wider than it is tall, and three of its four upper limbs, with the body's flanks leaving the frame at both edges, the lower limbs below the frame and the body's whole outline never seen. The body is soft and boneless, about the bulk of a seated adult human, low and broad, with an upper side and an underside and no front: no head anywhere, no neck, no face, no mouth, no pair of large eyes, no trunk, no snout, only the top of a wide low rounded body from which the upper limbs grow, each from a different place on the body, through a broad, deeply creased root in one continuous skin, plainly part of the body and never resting on it. The upper limbs are long thick soft boneless tubes of slightly unequal girth, with no joints, no suckers, no hooks and no narrowing to a fine point, their inner surfaces the same skin as the rest, wide apart from one another and never lying side by side; every limb ends blunt, closed and plain in the same skin, rounded, with no node, no swelling, no pad, no fingers and no claw. The three limbs in frame each do a different thing: one leaves the near flank and is wrapped once over the near edge of the island and holds it by the wrap, not laid flat along it; one leaves the upper side of the body and is raised above a single flat sealed slab that lies on the island, bent, its blunt tip held still a span above the slab, the posture of a part of an answer not yet given; one leaves the far flank and is curled back along the top of the body and touches nothing. Along each limb, at intervals, sit small dark matte eyes flush with the skin, several to a limb, each no larger than a fingertip, none in pairs, easy to miss at first glance, so that the body sees from its limbs and has no eyes to turn toward the camera. The whole skin is dry, matte and finely grained like soft dry leather and nothing wet, smooth along each limb's length with no ringed creases, folded deep only where each limb leaves the body and creased shallowly where it bends, dust-dry under the light, one quiet uniform deep muted umber-brown across the entire body with no pattern, no patch, no second colour and no glow. The slab is the only object on the island: a flat sealed slab of matte dark-grey composite about a span long and a little thicker than a coin, flush-edged, with no screen, no glass, no light and nothing written or marked on it. The island is low, broad and bare, of matte pale composite with fine honest seams, shaped to the body, with no screen, no glass and no recess, standing free with floor all round it and nothing behind it but the room, its far edge going soft. The room is built for a body that lives low: everything it has sits in its lowest band and the stone above is blank. The floor is the same pale-grey stone, dry, worn smooth and faintly darker in a broad band where bodies pass; the wall meets the floor in rounded coving, and its lowest band, up to about the height of the top of the body, is rubbed smoother and faintly darker where limbs have brushed it over years, the stone above untouched; at the far side of the frame, soft and out of focus, the lower corner of one wide low opening, dark within, its top not much above the top of the body; no window, no door, nothing on the walls, no fitting, no chair, no desk facing one way, nothing scaled to a human. One hard light from off-frame to one side and low, at about the height of the top of the body: the grain of the skin raked by it, the raised limb casting a long crisp shadow across the island and the slab, the shadows of the limbs running long across the floor, the far side of the body falling into deep shadow, nothing in frame showing where the light comes from; the room neutral in colour and not warm. Quiet, exact, a filing between its second part and its third. Natural, full, true-to-life colour and normal exposure: the umber of the skin the one colour in the frame against the pale-grey stone, the pale composite and the dark slab. Photographed, not rendered: real dry skin with grain, small unevenness and folds at the roots, stone with its wear, composite with its seams and small honest marks of use; a moderate lens close, a forearm's length from the raised limb, the near limb and the slab sharp and the room going soft behind but with depth enough that the island, the worn floor and the opening read as a real full-size room and never a miniature, slight softness toward the corners, fine grain, the small untidy imperfections a real photograph keeps. Negative: octopus, squid, cuttlefish, cephalopod, tentacles, tentacles with suckers, suckers, beak, siphon, mantle, fins, ink, kraken, Cthulhu, sea creature, sea monster, alien octopus, wet skin, slime, gloss, glistening, water, tank, aquarium, underwater, a puddle, a wet floor; elephant, elephant hide, trunk, a wrinkled trunk, ringed creases along a limb, tusks, snout, ears, a worm, a slug, a snake, a sausage; humanoid, human figure, human silhouette, person, face, head, neck, paired eyes, two large eyes, mouth, arms, legs, hands, fingers, fingertips, knuckles, nails, a fist, a human torso, a human back or shoulders, hips, human skin, limbs lying side by side like fingers, a hand on a table; a second Cerebraun, a second figure, a group, a clerk, a human in frame, a hand, a boot; glowing skin, bioluminescence, light-up patterns, neon, stripes, spots, a patch of colour, a colour shift, iridescence, slate-violet skin, violet skin, olive skin, grey-olive skin, sand-grey skin, grey skin, node or bulb at the tip of a limb, a pink tip, a dark tip, a swollen tip; clothing, robe, harness, strap, badge, sash, jewellery, an emblem, a seal, a hexagon, a stamp, a mark of office; screens, monitors, displays, a tablet, a lit slab, a glowing slab, a console, keyboard, dials, gauges, holograms, a desk lamp, a lamp in frame, a lit fitting, an office chair, a chair, a stool, a bench, a human-height desk, a shelf, a ledge, a handrail, a step, stairs, cables, wires, pipework, paper, a page, a sheet, a document, a scroll, a book, a folder, a pen, a stylus, a slate, a quill, ink pot, a seal press, a capsule, a jar, glassware; a window, a viewport, a sky, stars, a planet, a landscape, daylight through the opening, a lit room or corridor seen through the opening, a tall doorway, a door leaf, a hinge, a handle, an arch; a tunnel, a cave, a sewer, a dungeon, a crypt, a temple, a ruin, carved stone, brick, mortar, rubble, moss, damp; readable text, lettering, numerals, labels, signage, glyphs or written characters of any script anywhere in frame; weapons; a whole body seen from the side, a full body in frame, a wide shot, a low side view, a figure at a desk at night; warm orange room, teal and orange grade, grey, monochrome, desaturated, muted, drab, sepia, under-exposed; flat studio backdrop, gradient background, glamour lighting, posed to camera. Render negatives: 3D render, CGI, octane render, video-game render, animated film still, creature design, concept art, clay or plasticine sculpture, a model, a figurine, a miniature, a diorama, tilt-shift, plush toy, rubber suit, plastic sheen, airbrushed, over-smooth surfaces, smooth uniform tubes, waxy skin, glossy stock photograph. Landscape orientation.
-  - **Attention is the slab.** A body with no front and no paired eyes has no gaze to turn off-frame; the 28 July guardrail is met by the work, one limb over the edge, one raised over the slab and one along the body, nothing turned to the lens.
-  - **Part of the body, close.** The frame's first rule, and the first time it is tried on a Cerebraun: the top of the central body and three upper limbs, the rest out of frame. A variation that shows the whole body, or shows it side-on at a middle distance, fails the composition rule and the identity rule before the body is read.
-  - **Three limbs, three things, three roots, none flat.** One from the near flank wrapped over the island's edge, one from the upper side raised, one from the far flank curled along the body, so the limbs leave the body from different places and curve apart (the critic's repair for *fingers on a slab*: roots on opposite flanks, never one ridge); a variation that lays two or more limbs along the surface fails as *fingers on a slab*, and a limb laid flat with a widened tip fails as a hand. The raised limb's root must leave the body through a creased flare in one skin; a root that sits on the body fails as a tube laid on the back (the `vaurel-2` round-3 lesson). Along its length a limb is smooth: ringed creases make a trunk (round 1).
+  References: `src/images/characters/sohrel.jpg`
+  > Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, at work, never posed to camera, nothing that invites the viewer: Essaran, a Cerebraun officer of the Cerebraun Hegemony's Prime Ganglion's office, a being from another world and not an Earth animal of any kind, drafting at a low broad bare island surface that stands free in a plain windowless room of pale-grey stone built by and for Cerebraun bodies, the whole body in frame at a middle distance, resting on the floor beside the island. The reference image shows another Cerebraun, Sohrel: take from it only the species' body plan, the soft headless boneless body with no front, slumped under its own weight with its limbs folded and curled against it, the limbs thick soft tubes ending in blunt rounded tips with no fingers, the small dark eyes set along the limbs and the dry matte deeply creased skin, and nothing else, not its colour, not its size, not its pose, not its desk, not its night lighting and not its room; this is a different person of the same people. The body is soft and boneless, about the bulk of a seated adult human, low and broad, with an upper side and an underside and no front, the same from any side: no head anywhere, no neck, no face, no mouth, no pair of large eyes, no trunk, no snout, only a low central body from which eight limbs emerge in two tiers of four. The central body sags onto its lower limbs and spreads under its own weight, its mass wider than it is tall, its outline uneven everywhere and never a clean dome, disc or cushion, the body barely seen as a shape at all beneath the limbs folded over and against it. The lower four limbs are short, broad and load-bearing, folded and tucked under the body and spread a little by its weight, the body resting on them on the stone floor close beside the island; the upper four are longer and freer, the working limbs, thick soft boneless tubes of slightly unequal girth with no joints, no suckers, no hooks and no narrowing to a fine point, their inner surfaces the same skin as the rest, each leaving the body through a broad, deeply creased root in one continuous skin, plainly part of the body and never resting on it; every limb ends blunt, closed and plain in the same skin, rounded, with no node, no swelling, no pad, no fingers and no claw. The upper limbs stay close in, folded and curled against the body and overlapping where they cross, none spread out alone into the room and none laid flat along the surface: one is wrapped once over the near edge of the island and holds it by the wrap; one is bent up above a single flat sealed slab that lies on the island, its blunt tip held still a span above the slab, the posture of a part of an answer not yet given; one is curled along the top of the body and touches nothing; the fourth is draped down the far side of the body out of the light. Along each limb, at intervals, sit small dark matte eyes flush with the skin, several to a limb, each no larger than a fingertip, none in pairs, easy to miss at first glance, so that the body sees from its limbs and has no eyes to turn toward the camera. The whole skin is dry, matte and finely grained like living tissue and nothing wet, creased and folded everywhere the body is not held taut: loose folds across the slumped mass, deep creases at every root and every bend and wherever a limb curls or crosses another, the fine raised grain between them, dust-dry under the light, never smooth, never even, and never ringed like a trunk along a straight limb; one quiet uniform deep muted umber-brown across the entire body with no pattern, no patch, no second colour and no glow. The slab is the only object on the island: a flat sealed slab of matte dark-grey composite about a span long and a little thicker than a coin, flush-edged, with no screen, no glass, no light and nothing written or marked on it. The island is low, broad and bare, its top at about the height of the top of the body, of matte pale composite with fine honest seams, shaped to the body, with no screen, no glass and no recess, standing free with floor all round it and nothing behind it but the room. The room is built for a body that lives low: everything it has sits in its lowest band and the stone above is blank. The floor is the same pale-grey stone, dry, worn smooth and faintly darker in a broad band where bodies pass; the wall meets the floor in rounded coving, and its lowest band, up to about the height of the top of the body, is rubbed smoother and faintly darker where limbs have brushed it over years, the stone above untouched; behind and to one side of the body, in full and sharp, one wide low opening, dark within, much wider than it is tall, its top not much above the top of the body, so that it gives the size of the body; no window, no door, nothing on the walls, no fitting, no chair, no desk facing one way, nothing scaled to a human. One hard light from off-frame to one side and low, at about the height of the top of the body: the folds and the grain of the skin raked by it, the raised limb casting a long crisp shadow across the island and the slab, the body casting its shadow long across the floor, the far side of the body falling into deep shadow, nothing in frame showing where the light comes from; the room neutral in colour and not warm. Quiet, exact, a filing between its second part and its third. Natural, full, true-to-life colour and normal exposure: the umber of the skin the one colour in the frame against the pale-grey stone, the pale composite and the dark slab. Photographed, not rendered: real dry skin with grain, folds, creases and small unevenness, stone with its wear, composite with its seams and small honest marks of use; a moderate lens at a middle distance, held at about the height of the top of the body and never above it, three-quarter on from the island's side, the whole body, the island, the worn floor and the opening all in deep focus and sharp, so that it reads as a real full-size room and never a miniature, slight softness toward the corners, fine grain, the small untidy imperfections a real photograph keeps. Negative: octopus, squid, cuttlefish, cephalopod, tentacles, tentacles with suckers, suckers, beak, siphon, mantle, fins, ink, kraken, Cthulhu, sea creature, sea monster, alien octopus, wet skin, slime, gloss, glistening, water, tank, aquarium, underwater, a puddle, a wet floor; elephant, elephant hide, trunk, a wrinkled trunk, ringed creases along a straight limb, tusks, snout, ears, a worm, a slug, a snake, a sausage, a lizard, a spider, a crab; humanoid, human figure, human silhouette, person, face, head, neck, paired eyes, two large eyes, mouth, arms, legs, hands, fingers, fingertips, knuckles, nails, a fist, a human torso, a human back or shoulders, hips, human skin, a reclining figure, a crouching figure, a kneeling figure, a crawling figure, limbs lying side by side like fingers, a hand on a table; a second Cerebraun, a second figure, a group, a clerk, a human in frame, a hand, a boot; glowing skin, bioluminescence, light-up patterns, neon, stripes, spots, a patch of colour, a colour shift, iridescence, slate-violet skin, violet skin, olive skin, grey-olive skin, sand-grey skin, grey skin, node or bulb at the tip of a limb, a pink tip, a dark tip, a swollen tip; clothing, robe, harness, strap, badge, sash, jewellery, an emblem, a seal, a hexagon, a stamp, a mark of office; screens, monitors, displays, a tablet, a lit slab, a glowing slab, a console, keyboard, dials, gauges, holograms, a desk lamp, a lamp in frame, a lit fitting, an office chair, a chair, a stool, a bench, a human-height desk, a shelf, a ledge, a handrail, a step, stairs, cables, wires, pipework, paper, a page, a sheet, a document, a scroll, a book, a folder, a pen, a stylus, a slate, a quill, ink pot, a seal press, a capsule, a jar, glassware; a window, a viewport, a sky, stars, a planet, a landscape, daylight through the opening, a lit room or corridor seen through the opening, a tall doorway, a narrow doorway, a door leaf, a hinge, a handle, an arch; a tunnel, a cave, a sewer, a dungeon, a crypt, a temple, a ruin, carved stone, brick, mortar, rubble, moss, damp; readable text, lettering, numerals, labels, signage, glyphs or written characters of any script anywhere in frame; weapons; a close crop, a crop of part of the body, the body's outline leaving the frame, a view from above, a high camera looking down, a top-down view, shallow depth of field, tilt-shift, a distant wide shot with the body small in frame, a whole body flat side-on, a figure at a desk at night; a smooth surface, smooth skin, smooth even tubes, a clean dome, a disc, a lens shape, a cushion, a pouf, a footstool, an ottoman, a beanbag, upholstery, leather furniture, stitched seams, stool legs; warm orange room, teal and orange grade, grey, monochrome, desaturated, muted, drab, sepia, under-exposed; flat studio backdrop, gradient background, glamour lighting, posed to camera. Render negatives: 3D render, CGI, octane render, video-game render, animated film still, creature design, concept art, clay or plasticine sculpture, a model, a figurine, a miniature, a diorama, plush toy, rubber suit, plastic sheen, airbrushed, over-smooth surfaces, a smooth render surface, waxy skin, glossy stock photograph. Landscape orientation.
+  - **Attention is the slab.** A body with no front and no paired eyes has no gaze to turn off-frame; the 28 July guardrail is met by the work, one limb over the edge, one bent over the slab and one along the body, nothing turned to the lens.
+  - **The whole body at a middle distance.** The frame's first rule since round 3, and the framing all three filed frames of this people passed on: the body resting on its lower tier beside the island, its outline and every root in view, the camera at about the height of the body's top and never above it, deep focus, the opening in full. The close crop failed twice (round 1 a back with trunks, round 2 a pouf) and is negated by name; a variation that crops to part of the body, loses the lower tier or the outline, or looks down on the body from above fails at the first rung before the body is read (the review's attractor: a close crop of a headless body returns a back with trunks, whatever the limbs say).
+  - **The weight and the folds.** The body sheet's resting form, ruled 31 October: the central body sags and spreads, its outline uneven, the skin in loose folds and deep creases at every root and bend and across the slumped mass, as in all three filed frames. A variation with a clean dome or disc on even stubs fails as furniture (round 2), and a smooth even tube fails as a render; the review's second attractor is why the blockout render is not sent this time and the Sohrel frame is: a smooth surface sent to be edited comes back a smooth surface in colour, and the filed frame carries the folds.
+  - **Three limbs, three things, close in.** One wrapped over the island's near edge, one bent above the slab, one curled along the top of the body, the fourth draped down the far side, all folded and curled against the body and overlapping where they cross, never spread apart in the open as separate tubes (the review: spread limbs are the stool and the spread-limbed lizard). A variation that lays two or more limbs along the surface fails as *fingers on a slab*, a limb laid flat with a widened tip fails as a hand, and a root that sits on the body fails as a tube laid on the back (the `vaurel-2` round-3 lesson). The folds run where a limb bends and curls; even rings around a straight limb make a trunk (round 1).
   - **The tips.** Every tip blunt, closed, plain and the skin's own colour. A swelling, a node, a pink or dark tip or a narrowing to a point fails the Earth-animal test first (the 24 and 26 October Vaurel rounds).
   - **The display stays withheld.** The page says the exchange did not carry it, so the frame does not either: one tone, no patch, no shift, no glow. A patch here would not be Sohrel's chapter moment; it would be a claim the page refuses to make.
-  - **A unique face.** Sohrel's frame is a slate-violet body at a desk at night with a warmer patch beneath it; Tavesh's a smaller grey-olive body at an instrument with four limbs working in even light; Vaurel's a larger creased sand-grey body held up on its lower limbs over a capsule in a stone room under one overhead slot. This is umber, close, in part, at a bare surface with one flat slab, raked from the side. The three filed tones and the capsule are negated by name.
-  - **The room is Cerebraun-made, windowless and on no world.** A low free-standing island, a floor and a wall band worn low by use, the corner of one wide low dark opening, and blank stone above; everything the room has sits in the band a low body lives in. A window, a sky, a landscape, daylight or a lit space seen through the opening asserts a world and its air and fails; a chair, a human-height desk, a tall doorway, a shelf, a handrail or a step asserts a human and fails; a room that reads as a cave, a crypt, a tunnel or a temple fails the century and the tone rule together. The century's sign is the sealed slab on its seamed composite island, in the *Conventions* idiom; with the room now made, the frame no longer rests on the audit's (A) as §§ 13, 14 and 33 did. The room is of a piece with Vaurel's (§ 33) and is not Vaurel's room re-lit: cooler stone, light from low and to one side, the island free-standing and the opening at the frame's edge rather than square behind the body.
+  - **A unique face.** Sohrel's frame is a slate-violet body at a desk at night with a warmer patch beneath it; Tavesh's a smaller grey-olive body at an instrument housing with four limbs working in even light; Vaurel's a larger sand-grey body held up on its lower limbs over a capsule in a warm stone room under one overhead slot. This is umber, slumped beside a free-standing island with one flat slab, raked from low and to the side in a cool stone room with a wide low opening in full. The whole body at a middle distance is shared with all three by design; the three filed tones and the capsule are negated by name.
+  - **The room is Cerebraun-made, windowless and on no world.** A low free-standing island, a floor and a wall band worn low by use, one wide low dark opening in full, and blank stone above; everything the room has sits in the band a low body lives in. A window, a sky, a landscape, daylight or a lit space seen through the opening asserts a world and its air and fails; a chair, a human-height desk, a tall or narrow doorway, a shelf, a handrail or a step asserts a human and fails; a room that reads as a cave, a crypt, a tunnel or a temple fails the century and the tone rule together. The century's sign is the sealed slab on its seamed composite island, in the *Conventions* idiom. The room is of a piece with Vaurel's (§ 33) and is not Vaurel's room re-lit: cooler stone, light from low and to one side, the island free-standing and the opening behind and to one side rather than square behind the body.
   - **The seal is not in frame.** The Hegemony's seal is the emblem card's teal hexagon and nothing on a page; a hexagon, a stamp, a seal press or any emblem fails the century and the lettering rule together.
-  - **The filter.** No word here reads as harm out of context: *wrapped once over*, *held still a span above*, *curled back*; *pressed*, *strike* and *hollow* are kept out of the positive text. If a request is refused, reword the slab's description first (*sealed slab* is the likeliest trip), then shorten, one change a round, and record which passed.
-  - **Triage:** first the Earth animal and the hybrid (a head, a pair of eyes, suckers, a wet gloss, a trunk or a limb ringed like one, a snout, a swelling at a tip, a human hand or torso, or limbs side by side like fingers fails on sight); then the worn thing and the emblem (any strap, badge, hexagon, seal or lit, lettered or marked object fails); then the second figure (a hand, a boot, a human, a second Cerebraun fails); then identity against `sohrel.jpg`, `tavesh.jpg` and `vaurel-2.jpg` (a whole body, their tone, a desk at night, an instrument housing, a capsule, or Vaurel's warm stone room with its doorway square behind the body fails); then the place and the century (a window, daylight or a lit space through the opening, a tall doorway, a chair, a shelf, a handrail, a screen, a lamp, paper, a stylus or any lettering fails, and a room that reads as a cave, a crypt or a tunnel fails); then the display (any patch, shift or glow fails); then the photograph test (clay, render, model, toy, smooth uniform tubes or a miniature's depth of field fails).
-  - **Proposed alt** (to be corrected to the filed frame): *Essaran, a Cerebraun, seen close at a low pale bare island surface in a plain low room of pale-grey stone, the lower corner of a wide low dark opening soft behind: the top of a soft, headless, deep umber-brown body, wider than tall, with three thick smooth upper limbs in frame, one wrapped over the island's near edge, one raised and bent with its blunt tip held still above a single flat dark sealed slab, one curled back along the body, small dark eyes set along the limbs, the skin's grain raked by one hard low light from the side and the rest of the body out of frame.*
+  - **The filter.** No word here reads as harm out of context: *wrapped once over*, *held still a span above*, *curled along*, *draped down*; *pressed*, *strike* and *hollow* are kept out of the positive text. If a request is refused, reword the slab's description first (*sealed slab* is the likeliest trip), then shorten, one change a round, and record which passed.
+  - **Triage:** first the Earth animal, the hybrid and the furniture (a head, a pair of eyes, suckers, a wet gloss, a trunk or a limb ringed like one, a snout, a swelling at a tip, a human hand or torso, limbs side by side like fingers, or a pouf, a footstool, a cushion or a clean disc on stubs fails on sight); then the worn thing and the emblem (any strap, badge, hexagon, seal or lit, lettered or marked object fails); then the second figure (a hand, a boot, a human, a second Cerebraun fails); then identity against `sohrel.jpg`, `tavesh.jpg` and `vaurel-2.jpg` (their tone, a desk at night, an instrument housing, a capsule, or Vaurel's warm stone room with its doorway square behind the body fails; the whole body at a middle distance is shared by design and does not); then the place and the century (a window, daylight or a lit space through the opening, a tall or narrow doorway, a chair, a shelf, a handrail, a screen, a lamp, paper, a stylus or any lettering fails, and a room that reads as a cave, a crypt or a tunnel fails); then the display (any patch, shift or glow fails); then the photograph test (clay, render, model, toy, smooth even tubes, a smooth surface, a high camera or a miniature's depth of field fails).
+  - **Proposed alt** (to be corrected to the filed frame): *Essaran, a Cerebraun, resting beside a low pale bare island surface in a plain low room of pale-grey stone, a wide low dark opening behind: a soft, headless, deep umber-brown body, wider than tall, slumped under its own weight on four short folded lower limbs, its skin deeply creased and folded, the four thick upper limbs curled close against it, one wrapped over the island's near edge, one bent with its blunt tip held still above a single flat dark sealed slab, one curled along the body, small dark eyes set along the limbs, the folds raked by one hard low light from the side.*
   - **Written 31 October 2026** (Fable); not generated.
-  - **Desktop step:** `node scripts/image-prompts.js --generate --only essaran` (the entry carries the filed Sohrel frame as a body reference, so the script sends it); four variations in the first round, two rounds at most, each round changing one or two named things, judged cropped at full size in the triage order above. **Round one is plain text-to-image on the close frame, not the Blender route**: the 24 October composition rule has not yet been tried on a Cerebraun, its whole purpose is the structural failures the Vaurel blockouts were built to cure (the tip, the root, the torso), and Dermot's word of 27 October was *"not convinced that the 3D render is helping with the images"*. If round one's near miss is structural (a tip, a root, a limb that reads as a hand) rather than a surface, the second round is the Vaurel route: adapt `scripts/blockouts/vaurel-2.py` to this pose, room and crop (the body the wide low disc `vaurel-2` built, on its lower tier beside the island; three upper limbs from three different places, one from the near flank wrapped once over the island's near edge, one from the upper side through a flared root raised and bent over the slab, one from the far flank curled back along the top, the fourth down the far side out of frame; a free-standing low island of seamed composite with the slab on it; a pale-grey stone floor and wall, each with a smoother, faintly darker band low down and the stone above plain; the lower corner of a wide low dark opening at the far side of frame; one hard light low from the side at about the height of the body's top; a moderate lens a little above the body's top, three-quarter on, the flanks leaving the frame at both edges and the lower tier below it; 1600×900), render, and send the render with an edit instruction built from the prompt above, no other reference; the blockout holds the geometry the words could not, and its own attractors (fingers on a slab, a torso seen low, a tube on the back, a model) are named above. If every variation of round one comes back as a render, run the second round without the reference before anything else is changed. File through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/essaran.md` from the filed frame and replace the page's *No portrait is on file, and no prompt is written for one* with the record of the filing; add the portrait's row under `cerebraun` in `scripts/extract-peoples.js` as PR #1420 did; update the *Essaran's portrait* line under *The Cerebraun history, Essaran* in `open-questions.md` from *No prompt is written* to the prompt's section and then to *filed*; land it all as one PR under `pr-landing`. If both rounds fail, record the rounds here and in `image-prompts.md`, leave the page bare, add Essaran to the *Waiting for Fable* portrait line in `F:\CLAUDE\TODO.md` as Opus work, and review the body design before anything else, under `people-body-design`, with the filed frames saying whether the body fails or only this frame does; an artist's impression is one of the options then put to him, never chosen here.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only essaran` (the entry carries the filed Sohrel frame as a body reference, so the script sends it; the round-2 blockout render is not sent, since its smooth surface is content); four variations in the round, judged cropped at full size and as thumbnails in the triage order above. This is round 3, one more photographic round under the review's route; a near miss on one or two lines earns the two further rounds of 29 October, each changing one or two named things, and nothing more. If every variation comes back as a render, run the next round without the reference before anything else is changed. File through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/essaran.md` from the filed frame and replace the page's *No portrait is on file, and no prompt is written for one* with the record of the filing; add the portrait's row under `cerebraun` in `scripts/extract-peoples.js` as PR #1420 did; update the *Essaran's portrait* line under *The Cerebraun history, Essaran* in `open-questions.md` from *No prompt is written* to the prompt's section and then to *filed*; land it all as one PR under `pr-landing`. If the round fails at the first or second rung, record it here and in `image-prompts.md`, leave the page bare, and put to Dermot the artist's impression (painted or technical, `-Finish 0`, an alt that says so) beside a body study, as choices; not the blockout, which on this people answers structure, and the trouble is surface.
   - **Round 1, 31 October 2026:** four variations, all held. Text-to-image on the close frame read as elephant trunks with finger-like tips, over a hunched torso that reads as a headless body (the ladder's first two rungs). Round two is the Vaurel blockout route this entry already names.
   - **Round 2 revision, 31 October 2026** (Fable, at Dermot's *"Native habitat backdrop for Cerebraun"* and his choice of *"A"*, a Cerebraun-made interior with no world invented): the setting changes and the body does not. Round 1's room was a bare pale wall and a surface, nothing made but the slab; the room is now the office's own, derived from the body and nothing else, since the homeworld is unnamed, no Cerebraun biosphere exists and the record has not established their air: a low island surface standing free with floor all round it, because a body with no front has no desk that faces one way and no chair; a floor and a wall band worn smooth and faintly darker low down where bodies pass and limbs brush, with blank stone above, because the room is lived in at limb height; the lower corner of one wide low dark opening soft at the frame's far side, the shape of a body wider than tall and the frame's scale; and the light low and from one side, at the height the eyes along the limbs see from, with nothing in frame to show its source. Of a piece with Vaurel's stone room and its wide low doorway (§ 33), and told from it by cooler stone, low side light, the free-standing island and the opening at the frame's edge. The century's sign is now stated, since a made stone room needs one: the sealed slab on its seamed composite island, in the *Conventions* idiom. The round-1 negatives *a doorway, a corridor* are withdrawn and replaced by what a doorway must not be (tall, leafed, hinged, lit beyond, an arch) and by the cave, crypt, tunnel and temple the generator reaches for in bare stone. Two changes aimed at round 1's failures, under the critic's repair table: the camera rises to a little above the body's top and goes three-quarter on, with the body said *much wider than it is tall* and its flanks leaving the frame at both edges (the repair for a *headless torso*: never low and side-on); and the three limbs now leave the body from three named places and the skin is smooth along a limb's length with its folds only at the roots, *skin* rather than *hide* throughout, with *elephant hide*, *a wrinkled trunk* and *ringed creases along a limb* negated (the trunk with finger-like tips). The room strengthens the blockout recommendation rather than changing it: round 1's failures were structural, the table's repair for both is the blockout, and the new room is exactly the kind of geometry a blockout holds and words do not (the island's height against the body, the opening's proportion, the worn bands, the low hard light), with `vaurel-2.py` already carrying the stone, the slab, the doorway and the hard slot. The pose, room and crop the script needs are in the Desktop step above; the script is not written here.
   - **Round 2, 31 October 2026: stopped.** The Vaurel route: `scripts/blockouts/essaran.py`, adapted from `vaurel-2.py` and rendered three times before the edit. Its first two renders read as a reclining figure (pale skin, low camera) and then as a crawling figure with a neck (a limb rising from the top of the disc). The third, with the disc wider and flatter and the raised limb moved to a flank, held. Gemini then made four variations from that render. All four kept the geometry and lost the people: a wide flat brown disc on short limbs reads at a glance as a leather pouf or footstool on legs, and as a smooth render, not a photograph (the ladder's first and third rungs). Two rounds have failed at the body's silhouette, so per the Desktop step the page stays bare and the next step is a review of the body design under `people-body-design`, with the filed frames saying whether the body fails or only this frame does. An artist's impression is one of the options to put to Dermot, never chosen here.
+  - **Round 3 re-brief, 31 October 2026** (Fable, at Dermot's *"Body design"* and his choice 1; the review's recommended route): the frame changes and the body, the room and the readings that settled under his *"A"* do not. The review under `people-body-design` (`species-design.md`, *Review, 31 October 2026 (Essaran's two rounds)*) found that the body holds and both rounds failed for one cause, the exposed central body: the close crop of round 1 removed the lower tier, the roots and the outline and left a mound with trunks, and the blockout of round 2 drew the body as a clean disc on even stubs with a smooth skin, which is a pouf. Where the three filed frames hold is a whole body at a middle distance, slumped on its lower tier with the limbs folded against it and the skin deeply creased, and his choice 1 wrote that resting form into the body sheet's point 5. So the 24 October close crop is withdrawn for this people and negated by name, and the frame goes to the Sohrel and Tavesh shape: the whole body at a middle distance resting beside the island with its weight showing; the limbs folded and curled against the body, three doing three things close in (over the island's edge, above the slab, along the body) and the fourth draped down the far side, never spread apart as separate tubes; the camera at about the height of the body's top and never above it, in deep focus; the wide low opening in full as the one thing at a known height; the skin creased and folded as in all three filed frames, the round-2 readings *creases few* and *smooth along a limb* withdrawn, since the review found those folds are the posture of a boneless body at rest on this people and the one surface the generator has never turned into furniture; and the body reference is the filed Sohrel frame, sent as Tavesh's prompt sent it, in place of the blockout render, whose smooth surface came back as a smooth surface. Kept: the office's own room, the free-standing island, the sealed slab, the umber tone, the first channel only, the cool stone with its worn bands, the low side light, the tips, the withheld display and the pronoun rule. The review's two attractor lines join the negatives (a close crop, a view from above; a smooth surface, the furniture). The next step if this round fails at the first or second rung is the artist's impression beside a body study, put to him as choices, as the Desktop step now says.
 
 ### 48. Missing portraits — Inner Turn, the first Spiralite the record names, keeper of the inner turn of a habitat on Corryn Prime (written 31 October 2026, Fable, at Dermot's direction; generation waits on the desktop)
 
