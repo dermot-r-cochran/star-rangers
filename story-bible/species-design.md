@@ -640,7 +640,7 @@ Dermot chose the recommended option on each of the section's three choices, the 
 2. **The light:** one blue-green hue in every kind; the kinds differ by body tint (*"One blue-green, three tints"*).
 3. **Inner Turn is of the walking kind** (*"Walking"*). It is the frame for the portrait; nothing is written to the page until a portrait is filed.
 
-Every other point below stays *proposed* until a page needs it. The two-image study sheet is still owed before any prompt of record.
+Every other point below stays *proposed* until a page needs it. **The two-image study sheet was run for the walking kind on 31 October 2026** (Fable, in the scratchpad, two text-to-image frames, no reference, the same dim turn and low orange side light; the other two kinds wait on a page that needs them). The plan's silhouette held: both frames drew a thick frosted olive-amber arch on exactly two broad feet set wide, four limbs hanging curled beneath the crown, a band of dark spots along the top and the helix as a blurred blue-green thread beneath the surface, and neither drew a jellyfish, a lamp, a column or a hoop. The nearest-Earth-thing reading at thumbnail is **a soft worm or slug bent into a loop**, weaker where the two feet and the spot band are read; the first failed rung in both frames is the render (a waxy, even tube under soft light from everywhere, one on a seamless white backdrop at tabletop depth, the other clay-smooth in a stone corner), and the limb tips read as small hooves or curled fingers. Those are prompt failures, not body failures, so the body stands as ruled and the repairs went into the first prompt of record (`images.md` § 48): one hard low light, grain and creases at the feet, unequal girths, the tips said closed and plain with hoof, claw and fingers negated, and deep focus at full scale with the wall and ground giving it.
 
 ### What the record already fixes (derived)
 
@@ -1888,14 +1888,14 @@ Inner Turn is, which waits on his choice above.
   Spiralite entry and the Spiralite lines of `mind-design.md` and
   `contact-design.md` take a pointer here; `verdani.md` takes its clarifying
   clause (Opus's).
-- **The design sheet** (the skill's step 3) is owed before any prompt of
-  record: two images of each kind, the same dim turn and light, in the
-  scratchpad; expect the first sheet to draw a jellyfish, a lamp and a
-  manhole, and to show which of the three plans' silhouettes holds.
-- **Inner Turn's portrait** follows the sheet and his choice of kind, by
-  `nonhumanoid-portrait-prompt`, as a prompt in `images.md` (Fable's, since
-  the author's presence carries it), filed through `import-image.ps1
-  -MaxEdge 1200`.
+- **The design sheet** (the skill's step 3): run for the walking kind on 31
+  October 2026 (*Ruled 31 October 2026* above has the result: the arch held,
+  the nearest Earth reading a bent worm, the failures render and tips); the
+  rooted and the ground kind's two images each are owed before a prompt of
+  record for either, when a page needs one.
+- **Inner Turn's portrait**: the prompt of record is `images.md` § 48 (31
+  October 2026, Fable, by `nonhumanoid-portrait-prompt`), filed through
+  `import-image.ps1 -MaxEdge 1200` when the desktop step runs.
 - **`mind-design.md`'s Spiralite section** stays *not established*: three
   kinds say nothing about who speaks for the people, and choice 5 there (A,
   the chapter finds out) is untouched.
