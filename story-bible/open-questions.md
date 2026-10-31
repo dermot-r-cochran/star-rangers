@@ -6293,8 +6293,8 @@ with machine intelligence.* Read as an extension of the morning's ruling that
 *engineering intelligence* stays a theme word, since it names a profession
 rather than a lens or a title. Four shapes put: record only (recommended);
 an in-world profession as a glossary or lore entry, name and seat his; a
-paragraph in `local-agent`'s decisions file, which partly reopens *undefined
-in public*; a Journal entry, which the morning declined for the lens.
+paragraph in a private repository's decisions file, which partly reopens
+*undefined in public*; a Journal entry, which the morning declined for the lens.
 
 ## Three questions from the character-growth audit — raised and ruled 10 October 2026
 
