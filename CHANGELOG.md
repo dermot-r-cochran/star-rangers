@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Elsha Rootkin quotes the Survey doctrine as the Survey page gives it** (`src/characters/elsha-rootkin.md`, 2026-10-31, Fable, from a critic read of #1593–#1599). The page said the Corps' doctrine is that *a place is rates in the costume of a place*; `src/lore/star-rangers-survey-corps.md` says *terrain is rates wearing the costume of places*, and the line now matches it. Counter-critic: 1 improvement landed; 0 changes withheld; 0 regressions dropped. Nothing else in #1593–#1599 needed a fix.
+
 ## [1.55.0] — 2026-10-30
 
 A rule for how episodes open: varied, with the enigma arriving partway through. The orbital ring of *The Long White Trail* is recorded and settled for films, not canon, and a seventh Director brief, *Lúnasa*, is written. Ascent javelins gain coastal rail sites. Five-O's page stops citing the old series, a private repository is no longer named in public, the repository map names three more, Rhuven's portrait shows one four-bar rank tab, and critic fixes land on the 30 October pages.
