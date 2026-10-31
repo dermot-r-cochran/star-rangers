@@ -142,11 +142,14 @@ beside.
 | Cirrane | 1 (S01E00C08) | 0 |
 | Ilenne | 1 (S01E00C08) | 0 |
 | Trígrian | 0 | 0 |
+| Thavren | 1 (S01E03C04, its people in Rhuven's block; added 31 October 2026) | 0 |
 
 The four worlds at one chapter are all named in the same assembly scene, so
 they are ordered as the direction listed them. Trígrian has no chapter, and it
 is kept because its page already holds the record's most complete grassland
-web and its most famous likeness.
+web and its most famous likeness. Thavren's row was added on 31 October 2026,
+when its section was written: its one chapter is set on Pelagos Minor and
+names the world by comparison, and the count is at that date.
 
 ---
 
@@ -869,6 +872,223 @@ Nothing; Trígrian's page already holds the record's most complete web.
 
 ---
 
+## Thavren
+
+Written 31 October 2026 on Fable, at Dermot's *"Yes, all four"* to handing the
+owed Thavren and Ovruhn sheets to Fable, under the 31 October rule in
+`CLAUDE.md`, *When Fable may extend canon lore on its own*. Thavren has a
+world page of its own since 24 October (`src/lore/planets/thavren.md`), which
+says it *"adds nothing"* to the people's entry and the two chorus accounts;
+this section is built from those four pages and the one chapter with an
+Ovruhn in it, and it writes nothing to any of them. The row Thavren held in
+*The rest, in one table* is retired by this section.
+
+**Where the chapter is.** `src/seasons/s01/e03/s01e03c04.md` (*The Order of
+Evacuation*) carries the record's first Ovruhn viewpoint, Rhuven's, but it is
+set on **Pelagos Minor**, not Thavren: the station on the escarpment above
+the equatorial basin. Thavren enters the chapter once, by comparison (*"On
+Thavren a crowd under a sky like that one would have been one sound, and the
+sound would have settled itself"*). So the chapter names the people and the
+world and is set on neither, and it needs nothing from Thavren's ecology: no
+meal, no creature, no season. This section exists because the world now has a
+page and a chapter that reaches for it, not because a scene is owed a web.
+
+### What the record says
+
+- *"Thavren is a heavy world under an atmosphere deep enough to be a landscape
+  in its own right. At altitude a permanent photochemical haze roofs it, and
+  no season thins the haze. It does not make the world dark. Thavren's days
+  are bright, but the light arrives scattered from everywhere, shadowless and
+  sourceless, and nothing can be seen sharply past a stone's throw."*
+  (`src/lore/planets/thavren.md`, *Air and Haze*)
+- *"The same air carries sound fast, far and precisely, and the ground carries
+  it too."* The under-song *"travels for tens of kilometres through Thavren's
+  dense air and patient bedrock."* (same)
+- *"The air also burns willingly. The Ovruhn had fire early and cheap, and
+  they heard it before they had it, since a burning thing on Thavren is heard
+  from a long way off."* (same; the chorus's account of the fire heard before
+  anyone had lit one is Mhoren's, `src/codex/the-quiet-has-no-far-side.md`,
+  *The fire, heard*, valid for its keeper)
+- *"The deep air will lift a body, and buoyant craft are almost free on
+  Thavren."* (same, *Above the Roof*)
+- *"Any other life on Thavren: no page names a Thavren creature or plant, and
+  the record's only line on the subject is that nothing alive is acoustically
+  quiet."* (same, *What the Record Does Not Hold*; the line itself is
+  `src/lore/ovruhn.md`, *Seeing With the Returned Sound*)
+- Not held, by the page's own list: the star, the system, *"its mass and
+  surface gravity beyond heavy, the length of its day and year, its moons, and
+  whether it has seas. The chemistry of the air and of the haze."*
+- The Ovruhn body the world made: *"a broad, deep-chested quadruped mass,
+  standing lower than its bulk suggests"*; *"the hide of the flanks is the
+  ear"*; eyes *"near-sighted and unhurried"*; the far sense *"fails altogether
+  where its medium does — thin air starves it"* (`src/lore/ovruhn.md`).
+- Ovruhn stand in a shelter deck's air beside humans for two nights, in a
+  shell with the hood and visor stowed (S01E03C04; `src/characters/rhuven.md`,
+  *The Uniform*). So an Ovruhn tolerates human-breathable air, at least for a
+  posting.
+
+What the record leaves unstated is the whole of the web: what Thavren's life
+lives on, what eats it, and what returns it. The table's old *owes* line was
+*the base under permanent overcast; a creature read by sound*, and both are
+answered below as far as the pages allow, and no further.
+
+### What it derives
+
+- **The air holds an oxidant at a working pressure** (derived, real
+  chemistry). Air that *burns willingly* is air with free oxidant enough to
+  sustain a flame, and a dense air with free oxidant is, on this file's own
+  first rule, the signature of light-driven producers running for a very long
+  time: no abiotic process keeps an atmosphere that oxidising. Whether the
+  oxidant is oxygen the page does not say; an Ovruhn's two nights on a human
+  shelter deck make oxygen the natural reading, and the record has not fixed
+  it (the chemistry of the air is on the page's not-held list, and stays
+  there).
+- **The energy base is starlight, taken diffuse** (derived from the oxidant
+  and the page's light). Thavren's producers live under a sky that is bright
+  and has no sun in it. Light arrives from every direction at once, so there
+  is no shadow to compete for and no direction to lean toward; a producer
+  that presents surface to the whole sky does as well as one angled to any
+  part of it. What the haze costs is intensity, not hours: the roof takes a
+  share of the light before it is scattered, so productivity per area is
+  below that of a clear-skied world at the same star, and nothing on the
+  surface ever sees the star. Real physics, applied to the page; the fraction
+  is **not established**.
+- **A second input falls from the roof** (derived, real chemistry; its size
+  not established). A photochemical haze is ultraviolet light building complex
+  molecules in an upper atmosphere, and what it builds falls. That is the base
+  Cirrane's whole web runs on. On Thavren it is a slow rain of made organic
+  matter onto a surface that already has producers of its own, so it is a
+  supplement to the base, never the base. The record says nothing of it, and
+  how much of Thavren's food comes down from the roof rather than up from the
+  ground is not established.
+- **Sound is the medium of the whole web, not only of the people** (derived
+  from *nothing alive is acoustically quiet* and from the air). On Earth most
+  of what life does to find, avoid and signal to other life it does by sight
+  and smell, with sound a third channel. On Thavren sight ends at a stone's
+  throw and sound carries for tens of kilometres through air and ground, so
+  the far channel of every Thavren animal is hearing, and every Thavren
+  animal is audible to every other within its range. Two consequences, each
+  derived: **concealment by silence is unavailable to anything alive**, since
+  the body's own working is heard, so what hides on Thavren hides by
+  stillness, by distance or by being too much trouble to take, and never by
+  being unseen; and **the sound spectrum is the world's scarce resource the
+  way daylight hours are Earth's**, so Thavren's life would partition it by
+  band and by hour as Earth's partitions the light. The Ovruhn under-song
+  sits *below most species' hearing* (`ovruhn.md`): the record's one Thavren
+  animal already keeps to a band of its own.
+- **Fire is a feature of the landscape, and the web is fire-adapted**
+  (derived from *the air burns willingly* and the fire heard before it was
+  lit). An atmosphere that burns willingly makes any accumulation of dry
+  producer a fuel load, and the chorus's oldest part is a fire nobody lit,
+  heard from far off. So natural fire exists on Thavren and recurs; and a
+  biosphere under recurrent fire is one whose producers return from the root
+  or the ground after burning, and whose dead do not lie long. Fire is one of
+  Thavren's recyclers. The ignition is **not established**: the page names
+  no weather and no lightning, and this file adds neither.
+- **Rot runs fast where fire does not reach** (derived, real ecology). A dense,
+  bright, oxidising air is a fast air for decomposition wherever it is wet
+  enough. Whether Thavren is wet, and whether it has seas, is not held; so
+  the balance between fire and rot as the world's recyclers is not
+  established, and only this is: nothing dead on Thavren stays whole for
+  long, since the two recyclers between them cover the dry ground and the
+  wet.
+- **The dense air carries bodies, and the people used it** (derived from
+  *buoyant craft are almost free*). Lift that is nearly free for a craft is
+  nearly free for a living thing of the right build, so life in the deep air
+  is cheaper on Thavren than on Earth, and the haze above is a bright,
+  shadowless, food-bearing layer with nothing to see in it and everything to
+  hear. The Ovruhn, who are heavy walkers, did not take that road themselves;
+  that something on Thavren did is a reading, not a fact, and is kept to
+  *Proposed*.
+- **What kills a large animal.** **Not established.** The page gives the
+  world as *heavy* and the people as standing *lower than its bulk suggests*,
+  which is what a heavy world does to a large walker; it gives fire heard
+  from far off; it gives no weather, no sea, no hunter and no cold. This file
+  does not supply one. On the Ilenne pattern the first ecological question is
+  the one the body answers most, and here the body has already been written
+  from the people's page: it answers the air, not a killer. The gap stays
+  marked, and a chapter that needs a death on Thavren fixes it.
+
+### Proposed
+
+Each is a reading that fits, his to overrule. Two roles and one rule; no
+creature is named, since nothing in the chapter or on any page calls for one,
+and a name proposed for its own sake is the fungus forest this file warns of.
+
+- **Sky-takers** (proposed, a role and not a species). The producers of
+  Thavren's ground: low, broad, dense stands that take light from the whole
+  sky and so have no leaf angled anywhere, no canopy and no shade beneath
+  them, standing even rather than tall because height buys nothing under a
+  light with no direction. They return from the root after a fire. If a frame
+  or a chapter ever needs Thavren's ground cover, this is what it is, and it
+  is drawn as a mat or a bank rather than as a wood.
+- **Roof-fall** (proposed, the record's second input). The slow rain of
+  organic matter the haze makes, taken where it lands by the sky-takers'
+  surfaces and by whatever grazes them. It is proposed only as a thing a
+  Thavren Ovruhn would know the smell of; nothing lives on it alone.
+- **A Thavren creature is described by its sound first** (proposed as the
+  file's rule for the world). The table's owed item was *a creature read by
+  sound*, and the reading is this: the record's account of any Thavren animal
+  gives what it sounds like, how far it is heard, which band it keeps and how
+  it goes quiet, before it gives a shape, because that is the order in which
+  the Ovruhn know it and the order in which they have told the record
+  anything. Shape comes last and small, from the near-sighted eyes. An image
+  prompt for such a creature starts from a heavy world and a low, broad mass,
+  as the people's does, and from the sound the record gives it, never from an
+  Earth plan; the species sheet's negatives (`species-design.md`, *Ovruhn*)
+  carry over whole.
+- **The air above the ground is a habitat the Ovruhn did not take**
+  (proposed, a reading of *buoyant craft are almost free*). Whether anything
+  alive floats or flies in Thavren's deep air is not held. If a chapter ever
+  looks up through the haze from Thavren's ground, the natural answer is that
+  there is something to hear up there, heard and never seen; that answer is
+  marked here as proposed and no organism is given for it.
+
+### Traps
+
+- **The fog forest.** Permanent haze, bright and wet, imports the Earth cloud
+  forest whole: mossed trunks, drip, epiphytes, a canopy lost in white. The
+  haze on Thavren is at altitude and the ground is a heavy world's; the
+  producers are low and even and have no canopy to lose.
+- **The hothouse.** A heavy world under a permanent photochemical roof with an
+  air that burns is also the recipe for Venus, and a reader who knows it will
+  reach for acid, crushing pressure and a ground nothing could stand on. The
+  Ovruhn stand on it, and stood on a human shelter deck for two nights.
+  Thavren's heaviness is a walker's problem, not a furnace.
+- **Echolocation as an Earth animal.** *Sonar* brings the bat, the dolphin
+  and the whale with it, and the first survey's three animal-words were
+  exactly this move (`ovruhn.md`, *The Thing Outsiders Get Wrong*). Any
+  Thavren animal that sounds its way is a Thavren animal, and the negative
+  for any picture of one names the bat, the dolphin and the whale beside the
+  elephant that the people's own frames keep drawing.
+- **The elephant on its savannah.** A heavy world, a low broad mass and a dry
+  burning plain assemble the African grassland without anyone asking for it.
+  Thavren has no sun in its sky, no horizon to see and no herd in sight; its
+  plain is heard, not seen, and a picture of it is mostly white.
+- **An ecology that explains the Ovruhn.** The people's page already derives
+  the body from the air and the haze and stops there. This file must not
+  supply a predator the under-song evolved to warn of, a prey the sounding
+  sense evolved to find, or a disaster the chorus evolved to remember. Each
+  would be a mechanism the page does not give and a remedy for a question the
+  page keeps open, and the 31 October rule's third test refuses both.
+- **A Thavren year.** The page keeps no reckoning the desk could convert and
+  gives no day or year; this file proposes no season, no cycle and no
+  calendar for the world's life. Thavren's life has a weather and a fire it
+  hears coming, and that is the whole of its time on record.
+
+### What a page would need
+
+Nothing yet. No chapter is set on Thavren, and the one that names it needs
+nothing from the ground. If a chapter ever stands on Thavren, the smallest
+extension is one sentence on `planets/thavren.md`'s *Air and Haze*, that the
+world's life is heard before it is seen as everything on Thavren is, and one
+on its *What the Record Does Not Hold*, moving *any other life* from wholly
+absent to *heard and not described*; both are extensions of what stands. The
+roles above enter the record, if ever, in an Ovruhn's own voice, as a smell
+or a sound a chorus keeps, and never as a survey's list.
+
+---
+
 ## The rest, in one table
 
 What each page gives an ecology, and what it owes if a chapter ever calls for
@@ -883,7 +1103,6 @@ this file's reading, and every item in it is not established.
 | Veyr-3 (`veyr-basaltborn.md`) | Heavy gravity, active basalt, mineral aerosol, micro-shock | The base; `species-design.md` proposes a living plumb that filters settling dust |
 | Kharis Belt IV (`serephine-dunekin.md`) | Two lethal extremes a day; thin air; buried thermal mass | The base; `species-design.md` proposes co-sheltering *fellow waiters* |
 | Sardain (`ilveth.md`) | A non-water solvent; life *"in geothermal provinces where the biosphere itself has always crowded"* | The base is very likely geothermal chemistry, as on Fliade but colder |
-| Thavren (`ovruhn.md`) | Dense air, a sky that never clears; *"nothing alive is acoustically quiet"* | The base under permanent overcast; a creature read by sound |
 | Aspenar (`planets/aspenar.md`) | *"No native biosphere"* | Nothing |
 | Winterbourne (`planets/winterbourne.md`) | Native biosphere *"marine"*; the downs bare rock before the founders; turf *"a product of the sheep"* | Nothing: a whole imported web on bare rock, already described |
 | Aethelrock (`planets/aethelrock.md`) | Native life *"in its seas and on its rock, a mosslike cover on the granite"*; *"the land fed nobody before landfall"* | Nothing pressing |

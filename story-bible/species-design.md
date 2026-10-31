@@ -1186,6 +1186,225 @@ drab, 3D render, CGI, clay, toy, glass sculpture.*
 
 ---
 
+## Ovruhn — the body the page already gives, consolidated (31 October 2026, Fable, at Dermot's *"Yes, all four"*)
+
+**Why.** The Ovruhn were the one people with three filed portraits and no body
+section here: their design has lived only on `src/lore/ovruhn.md` since 29
+August 2026 (the note above, *And a seventh is drafted*, is stale on one word,
+since the page is live canon and has been since that day). The Peoples and
+Bodies extractor (`scripts/extract-peoples.js`) records the people as
+*designed by its method straight onto the lore page* and points at no sheet.
+This sheet closes that gap by **consolidation only**: every point below is
+either the page's, a filed frame's, or a reading already recorded in
+`images.md` §§ 17, 28 and 34 or in `civilian-dress.md`. **It changes nothing.**
+A people's designed body is on the never-without-Dermot list (`CLAUDE.md`,
+*When Fable may extend canon lore on its own*), so the one design change on
+record, option B of 29 October, is carried here as an open choice of his and
+not taken. Every point is marked **derived** (the page, or physics applied to
+it), **practice** (what the filed frames show and the readings taken for
+them, each his to overrule and none written to a page), **proposed** (a
+reading that fits, his), or **not established**.
+
+### What the rulings and pages force (derived)
+
+- **Not humanoid, and could not be mistaken for a person at any distance in
+  any light** (`ovruhn.md`; `what-the-record-refuses.md`). Not on the human
+  frame; the Krenyi stay the only other people on it (CLAUDE.md, *A singular
+  exception stays singular*).
+- **Not a metazoan; no Earth animal behind it** (`cross-biosphere-taxonomy.md`;
+  `ovruhn.md`, *The Thing Outsiders Get Wrong*: *"nothing in an Ovruhn is
+  hybrid"*; the first survey's three animal-words were *"three facts about
+  what the observers had previously met"*).
+- **Frame: not assigned.** The taxonomy page's frame table lists no Ovruhn.
+  The page gives *boneless* tendrils on a *quadruped mass*; a large walker on
+  a heavy world has rigid internal support of some kind (physics), and the
+  handling limbs are muscular hydrostats (the page's word is *boneless*). What
+  frame word the taxonomy page would give the people is **his**, and this
+  sheet does not propose one.
+- **Shares a room and an atmosphere with humans.** Rhuven stands two nights on
+  a human shelter deck, hood and visor stowed (S01E03C04; `rhuven.md`); so
+  station air is inside the envelope, at least for a posting. Whether a
+  station's air starves the far sense is **not established**
+  (`contact-design.md`, the Ovruhn row; `rhuven.md`, last section).
+- **Speaks in two registers and does fine work with the tendrils** (`ovruhn.md`:
+  *close click-speech* and the under-song; the tendrils *"do all the work other
+  species assign to fingers"*). Takes no chair; the page gives no sitting.
+- **Pronoun *they*** for every Ovruhn individual, in the record's translation
+  register (Dermot's ruling of 29 August 2026; `ovruhn.md`, *A note on
+  rendering*).
+
+### What Thavren derives (derived from `planets/thavren.md` and `ovruhn.md`)
+
+The page already does this work and the ecology note (`ecology-design.md`,
+*Thavren*) carries the world; the body's reasons are restated here only so
+the sheet reads whole.
+
+| World fact (page) | What the body does with it |
+| --- | --- |
+| Heavy world, dense air | A broad mass *standing lower than its bulk suggests*: a walker that keeps its weight low |
+| Light scattered from everywhere, nothing sharp past a stone's throw | Sight is the short sense: *a pair of small, mild eyes*, near-sighted and unhurried, for fine identification close to |
+| Sound fast, far and precise in air and bedrock | Hearing is the far sense: *the hide of the flanks is the ear*, pressure-sensitive along the whole body, *so that an Ovruhn does not turn to listen*; a sounding sense that reads through surfaces |
+| The same air carries the under-song for tens of kilometres | *The chest is mostly instrument*: layered resonant chambers for click-speech and the infrasonic under-song |
+| Thin air starves the far sense; vacuum extinguishes it | In vacuum work the body runs *on instruments and small near-sighted eyes alone*; the shell is *mostly a mounting for the instruments that stand in for a starved sense* |
+
+What kills a large animal on Thavren is **not established** (`ecology-design.md`,
+*Thavren*), so the body is derived from the air and not from a killer, which is
+what the page did.
+
+### The body (derived unless marked)
+
+1. **Scale.** *Among the largest bodies in Corps service* (derived). No
+   height, length or mass is on any page; **not established**. In practice the
+   three filed frames show part of the body so close that its outline is never
+   seen, so no frame fixes a scale either.
+2. **Plan.** *A broad, deep-chested quadruped mass, standing lower than its
+   bulk suggests* (derived). Four legs by the page's word; no page describes
+   them, and no filed frame shows one (**practice**, §§ 17 and 28: *any floor
+   under the body returns legs*, and legs return an elephant).
+3. **The forebody and the tendrils.** The forebody carries *a fan of handling
+   tendrils: boneless muscular limbs, stronger than a hoist at the root and
+   finer than a human hand at the tip* (derived). **Count: about a dozen** is
+   the frames' reading, not the page's (**practice**, all three prompts of
+   record say *a fan of a dozen*; the page gives no number). Where the fan
+   roots is the forebody's lower front edge in `vhen.jpg`, `mhoren.jpg` and
+   `rhuven.jpg` alike (**practice**). Tendrils are smooth, dry and matte, the
+   same hide as the body, with *no suckers, no rings, no gloss* (**practice**,
+   § 34's prompt; gloss returned an octopus).
+4. **No face to address** (derived). The eyes are *a pair of small, mild
+   eyes* for the short range (derived); **where they sit is not established**
+   on the page. § 34's first impression prompt placed them *set low* on *a
+   broad blunt front*, and that round failed and filed nothing, so the
+   placement is a prompt's guess and **not practice**. No filed frame shows an
+   eye.
+5. **The flanks are the ear** (derived): the hide is pressure-sensitive along
+   the whole body. The filed frames show it as *matte, finely creased* hide,
+   deep folds where the body bends (**practice**). Mhoren's frame adds *broad
+   low ridges running across* the underside of the chest (**practice**, § 28;
+   a reading for one frame, written to no page).
+6. **The chest is mostly instrument** (derived): layered resonant chambers,
+   the under-song *semi-voluntary at best, honest by physiology*.
+7. **Colour.** **Not stated on any page.** `civilian-dress.md`'s proposed
+   default stands: *a quiet, uneven hide of muted mineral tones, varying by
+   individual and age as any hide does, with no markings that signal*
+   (**proposed**, there). The three filed frames give the range so far:
+   Vhen a warm grey-brown shading darker along the back; Mhoren a cooler
+   grey-brown; Rhuven a dark umber-brown, dry (**practice**, the identity
+   rule applied frame by frame). Never grey, never glossy, never wet.
+8. **Sex, reproduction, life stages, age and lifespan.** **Not established**
+   (`mind-design.md`'s table: *nothing on sex or birth*; `rhuven.md`: what the
+   service ages come to for an Ovruhn is the Medical Corps' and unstated).
+9. **Variation between individuals.** Hide tone and the body part a frame
+   shows are what tell the three filed Ovruhn apart (**practice**, the identity
+   rule in § 34). Nothing on a page gives any other mark.
+
+### The uniform equivalent and marks (derived from `rhuven.md` and `civilian-dress.md`)
+
+- **The shell** is the Corps' modular field shell fitted to the Ovruhn body
+  plan: *fitted sections seated along the top of the back and over the
+  forebody, and nothing heavy over the flanks, because the hide of the flanks
+  is the ear and a shell that covered it would deafen the Ranger it was issued
+  to* (`rhuven.md`, *The Uniform*; derived for the mounting, `ovruhn.md`;
+  proposed for the open flanks, `civilian-dress.md`, Ovruhn). The sections
+  carry the branch's instruments, facing the wearer, signalling nothing.
+- **The rank tab** sits *at the forward edge of the shell above the tendrils'
+  root, the point on this body that corresponds to a human collar*
+  (`rhuven.md`, derived). On the filed impression it is one pale grey-green
+  plate of four bars on the shell's lower band (retouched 30 October 2026,
+  § 34).
+- **The hood and visor** close over *whatever a body plan has in place of a
+  face*; what that comes to for an Ovruhn *the quartermaster record holds and
+  the Archive does not* (`rhuven.md`; **not established**, and kept so).
+- **Role among the people is heard, not worn** (`civilian-dress.md`, Ovruhn:
+  derived for the chorus, proposed that a role is heard). No visual mark of
+  belonging is on record; the two keepers wear nothing.
+
+### An open choice of Dermot's: where the instruments ride (proposed, his, not taken)
+
+On 29 October 2026 (`images.md` § 34, *Body design reviewed*), after every
+photographic round of Rhuven in two providers had drawn a saddle on a brown
+back, Opus found that **the body is not what fails**: `vhen.jpg` and
+`mhoren.jpg` hold the design on sight, and every failure came from the one
+element those frames lack, the field shell on a broad back. Three options were
+put to him. **A** (recommended, and taken, *"Yes Option as recommended"*):
+Vhen's framing for Rhuven, the flank and the working tendrils, the shell seen
+only as a band at the top edge. It failed photographically the same day (a
+horse's flank, tendrils as reins), and the portrait was then filed as an
+artist's impression in that framing under *When a photograph keeps failing*.
+**C**: *When no visualization is on record*; not needed. **B**: **a design
+change, the instruments carried slung below the forebody rather than on the
+back**, which would be a PROPOSED point in this sheet and a revision of
+`rhuven.md`'s *The Uniform* and of `civilian-dress.md`.
+
+**B stands here as proposed and his, and nothing in this sheet takes it.** As
+the record stands the instruments ride on the back (`rhuven.md`), the filed
+impression shows the shell's band along the top of the body, and the body is
+sound. B would move where a Ranger's shell sits on a designed body, which is
+his to rule; if he takes it, this section is revised in place with his words,
+`rhuven.md`'s *The Uniform* is clarified, the Rhuven alt is checked against
+the frame, and `civilian-dress.md`'s Ovruhn line follows. If he refuses it,
+this paragraph records that it was put and declined. Until then it is open,
+and no prompt is written from it.
+
+### Traps closed (from the rounds of record)
+
+Every one is recorded in `images.md` §§ 17, 28 and 34, where it cost a round.
+
+- **The whole body returns an elephant**, in a photograph and in a painting
+  alike, with the tendrils hanging from a face like a trunk, whatever the
+  negatives say. The framing that holds shows **part of the body only**, so
+  close that its outline is never seen: the flank as a wall of hide (Vhen),
+  the underside of the chest (Mhoren), the flank with the shell as a band at
+  the top edge (Rhuven).
+- **A floor under the body returns legs**, and legs return the elephant
+  (§ 28). The filed frames show no ground under the body; Vhen's kerb is
+  beside the tendril tips, not beneath the mass.
+- **A shell on a broad back returns a saddle, a pack or a rider**, in
+  photographs and paintings, from Gemini and from Grok (§ 34, every round).
+  The shell is shown as a band at the edge of frame or not at all.
+- **A large brown hide framed from the back or flank returns a horse** in
+  Grok, with the tendrils as straps or reins and a rod as a bar across them
+  (§ 34, Grok round 1 and option A).
+- **Gloss or wetness on the tendrils returns an octopus**; the hide and
+  tendrils are dry and matte.
+- **Tendrils described as a fringe return tassels on a cloth** (§ 34,
+  impression round 2, variations 1 and 4); the tendrils that held were a fan
+  hanging from the lower front of the flank, one curled once round the rod.
+- **A limb laid on a surface returns a human hand**; the tendrils hang
+  curled and touch nothing, or rest only their fine tips on a kerb (Vhen).
+- **The provider's filter** refused three of four requests on 24 October and
+  the whole request on 26 October; the route that passed was a Grok still,
+  shortened subject-first, and then the painted plate.
+
+### The prompts of record
+
+No new prompt is written here, and none is owed: all three Ovruhn pages carry
+a portrait. The prompts of record are § 17's for `vhen.jpg` (round 4,
+variation 2), § 28's for `mhoren.jpg`, and § 34's impression round 2 for
+`rhuven.jpg`, each the generator's input for the filed frame, verbatim. A
+fourth Ovruhn prompt starts from one of them, under
+`nonhumanoid-portrait-prompt`, and shows a fourth part of the body under the
+identity rule; the lesson recorded at Rhuven's filing governs it: *the flank
+and tendrils, with the shell as a band at the edge, is the framing that
+holds*.
+
+### Where this goes
+
+- **Nothing is written to `src/`.** The page already states the body, and
+  this sheet adds nothing to it.
+- **Owed, mechanical, for the landing PR or the next:** `scripts/extract-peoples.js`'s
+  Ovruhn entry has `design: null` and a `designNote` saying the people were
+  designed straight onto the page; it should point at this heading as the
+  Pelagene and Ollune entries point at theirs, so the Peoples and Bodies
+  artefact shows the sheet. `civilian-dress.md`'s Ovruhn *Surface colour*
+  line says *no Ovruhn has been drawn (the lore image is a card; Vhen has
+  none)*, which is stale since 16 October; its proposed default stands and
+  the parenthesis should name the three filed frames. The note above, *And a
+  seventh is drafted, not yet approved*, should read that the page landed.
+- **His:** option B above, and the frame word, if he wants the taxonomy table
+  to carry the people.
+
+---
+
 ## Living with other life — companions, working animals and commensals, people by people
 
 Written 14 October 2026 at Dermot's direction, verbatim: *"Pets and companion
