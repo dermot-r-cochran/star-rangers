@@ -357,7 +357,7 @@ lifespan, air or Cerebraun Ranger supplied.
 
 Left open, not decisions:
 
-- **Essaran's portrait.** Prompt written 31 October 2026 (Fable, `images.md`
+- **Essaran's portrait.** **Filed 31 October 2026**, round 3 variation 3 (§ 47). Prompt written 31 October 2026 (Fable, `images.md`
   § 47); not generated. Round one is text-to-image on a close frame of part of
   the body. Opus settled this on Dermot's later word of 27 October (*"not
   convinced that the 3D render is helping"*), and the Vaurel route (a Blender
