@@ -5707,6 +5707,15 @@ logs (§ 8). Halle Ostrander: species not stated by Dermot's choice of 12 Octobe
 (the Prismeri section of § 5a), and her plates stand on the Prismeri page in
 her place; the ruling below keeps her bare on the same ground as the fourteen.
 
+**Added 31 October 2026 on the same ground (the portrait sweep of that day).**
+Rosamund Hallam: the page says *"no species stated"* in as many words and holds
+nothing of the author beyond one chapter of one book, with no pronoun, so the
+body is not relevant under the 16 October clarification and the page is
+complete without a portrait. Cael and Wyn: each page says the record holds no
+picture, and *"a member of a system has no body of their own for a camera to
+take"*; the system's one body is carried by Sen's portrait (`sen.jpg`), so these
+two pages are complete without one.
+
 **Ruled 16 October 2026 — the species-absent fourteen (and Halle Ostrander).**
 Dermot, verbatim: *"Option A accepted"*. The choices as put: A. Keep them bare
 until a page states a species, the absence marked as the record marks it
