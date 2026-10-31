@@ -8,6 +8,8 @@ status: Active
 aliases:
   - "Dr. Oren Halsey"
 tags: [the-institute, biology, concordant, methodology, cosmology, human]
+image: "oren-halsey.jpg"
+image_alt: "Oren Halsey, an older man, bald with a ring of white hair, in a dark green band-collared jacket over an oatmeal shirt, standing at a long pale bench with his hands either side of a single sheet beside a row of identical grey sealed cylinders; through a tall window at the right, green terraces curve upward into a bright haze."
 description: "The Institute fellow whose paper Selection Without a Selector argues that the stability of every measured Concordant is what any sample would show, proposes the one measurement that could tell selection from design, and prints that it has not been made."
 known_codex: [selection-without-a-selector]
 ---

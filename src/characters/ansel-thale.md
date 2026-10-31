@@ -6,6 +6,8 @@ species: Human
 role: "Fold-scaffold theorist, Star Rangers Engineering Corps — Earth–Sun L5 staging zone"
 status: Active
 tags: [engineering-corps, fold-transit, scaffold, lagrange, physics, star-rangers, human]
+image: "ansel-thale.jpg"
+image_alt: "Ansel Thale, a broad-shouldered man with short black hair in a dark grey high-collared uniform with pale piping and a copper collar tab, seated at a plain white desk in a small pale-grey compartment, writing on a sheet that carries a small drawing of two curves meeting at a narrow waist; a sealed white housing sits at the desk end."
 description: "The Engineering Corps fold-scaffold theorist at the Earth–Sun L5 staging zone whose working paper reads coherence debt as quantum interest: every fold is held open on borrowed energy, and every rule the Corps keeps about folds is a schedule of repayment."
 known_codex: [coherence-debt-as-quantum-interest]
 ---

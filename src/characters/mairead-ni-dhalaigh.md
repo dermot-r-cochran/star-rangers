@@ -7,6 +7,8 @@ role: "Keeper of a holding below the tree line at one of Tír na nÓg's two Conj
 status: Active
 aliases: []
 tags: [human, celtic-union, tir-na-nog, tir-tairngire, caomhari, conjunction, boundary-zone, holding, keeper, folk-practice, civilian, season-1-prologue]
+image: "mairead-ni-dhalaigh.jpg"
+image_alt: "Mairéad Ní Dhálaigh, a tall woman with a long dark plait and a dark jacket, standing at night at a wooden field gate with her hand on the top bar, her face in profile lifted to a full moon above a bare wood; the dark gable of a stone house with an open shutter stands behind her, and a few small lights sit far down the valley."
 description: "The keeper of a holding below the tree line at one of Tír na nÓg's two Conjunction sites, in a district the record does not name, who keeps the gate on a Conjunction night as her mother kept it; in the autumn of 2826 UCSD she stood with her hand on the top bar while a light that was nobody's lamp came up among the bare trees and something tall stood at the tree line for part of the span, and in the morning left the almanac's margin blank, the third hand to leave it so."
 ---
 

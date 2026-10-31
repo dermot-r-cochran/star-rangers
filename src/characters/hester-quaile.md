@@ -6,6 +6,8 @@ species: Human
 role: "Ephemeris desk, Survey Corps Standards Office, Earth"
 status: Active
 tags: [survey-corps, timekeeping, ephemeris, fold-transit, causality, physics, earth, star-rangers, human]
+image: "hester-quaile.jpg"
+image_alt: "Hester Quaile, a woman with a long black plait in an olive field uniform with a pale collar tab, seated at a brushed metal table in a pale stone room, writing by hand on a long ruled sheet; an upright pale housing stands at the far end of the table, and a high window gives grey daylight."
 description: "The Survey Corps officer of the Standards Office's ephemeris desk whose working paper asks which now a fold joins to which, shows why one fold cannot carry a hull into its past and two might, and proposes a rule that needs no answer: no return fold within the route's mismatch of the outbound, logged against the pulsar ephemeris."
 known_codex: [on-the-simultaneity-of-folds]
 ---

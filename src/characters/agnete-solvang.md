@@ -7,6 +7,8 @@ role: "Section Lead, Star Rangers Survey Corps, Planetology Branch — Section L
 status: Active
 aliases: []
 tags: [human, star-rangers, survey-corps, planetology, section-lead, deadwater, concordant, membrane, staging-site, relief-list, medical-corps, season-1-prologue]
+image: "agnete-solvang.jpg"
+image_alt: "Agnete Solvang, a tall woman with straight dark hair cut at the jaw, in an olive field uniform, standing at the end of a table in a small pale coved room with one hand beside a long pale ruled sheet laid down its length, reading it; a plain white housing with a small green indicator is fixed to the wall behind."
 description: "The Section Lead of the Survey Corps platform in Deadwater's one staged system for its nineteenth to twenty-first years crewed, who filed its twenty-first return in the early spring of 2826 UCSD on a sheet with a Zone line under Membrane, wrote Deadwater where it had always gone, left the new line unfilled with the reason on the back, and went home on the relief hull at her term's own end."
 ---
 

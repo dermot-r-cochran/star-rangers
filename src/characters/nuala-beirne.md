@@ -7,6 +7,8 @@ role: "Attendant of the Sceir Light, the Lights Board's navigational light on th
 status: Active
 aliases: []
 tags: [human, earth, sol-system, threshold-station, sceir-light, lights-board, coast, timekeeping, instrument-drift, boundary-zone, civilian, attendant]
+image: "nuala-beirne.jpg"
+image_alt: "Nuala Beirne, a small grey-haired woman in a dark green hooded coat, standing with her arms folded on the stone steps at the foot of a whitewashed tower beside its dark door, looking out over still grey water at high tide; far off across the water lies a low dark line of docks."
 description: "The attendant of the Sceir Light on the shore below Threshold Station, who keeps the Lights Board's lamp, clock and tide gauge and writes down, in seconds, what keeping the clock correct has cost; in 2826 UCSD she totalled a season's corrections at nine for the second time, and a season later a survey party walked the spit and asked for the book nobody had asked for."
 ---
 
