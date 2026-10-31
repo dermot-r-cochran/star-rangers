@@ -1403,6 +1403,491 @@ holds*.
 - **His:** option B above, and the frame word, if he wants the taxonomy table
   to carry the people.
 
+## Spiralites — three kinds of one people, from Corryn Prime (31 October 2026, Dermot's *"design Spiralite bodies of various kinds and colours"*, then *"a symbiotic set of peoples, with commentary strengths, abilities and needs"*)
+
+**Status: proposed, not ruled.** Drafted 31 October 2026 on Fable at Dermot's
+direction, from the choice Inner Turn's page left open (*the people have no
+body sheet in the design notes, and a portrait is owed from one*; he chose a
+body over the 26 October *no visualization is on record* sentence). His
+second direction, given straight after the first, is read as *complementary*
+strengths, abilities and needs; *commentary* is taken for a slip of the
+keys, and if it was not, the section below has misread him and says so here.
+A body design is ordinarily Opus's work (`people-body-design`, *Who writes
+what*); this one was briefed to Fable deliberately, and the record of that
+sits in the PR. Every point is marked **derived** (follows from a page,
+cited, or from physics applied to one), **proposed** (a choice that fits,
+his to overrule) or **not established** (the record holds nothing, and
+nothing is supplied). Nothing here is written to any `src/` page; the
+sentence on Inner Turn's page changes when a portrait is filed, not now.
+
+### What the record already fixes (derived)
+
+- **One people, three facts of the body.** *Semi-translucent, with
+  bioluminescent neural structure visible beneath the skin*
+  (`planets/corryn.md`). The account adds what the light is: *The light in us
+  is not the speaking. It is only where the speaking is made, and it shows
+  because we are made so that it shows* (`codex/beside-the-ringing.md`). So
+  the light is a by-product of making a pulse, it sits in the tissue that
+  makes the pulse, and the body is built so that other Spiralites can see it.
+  That last clause is the single most useful fact on record: the people have
+  a sense that reads light, and the light carries something the pulse does
+  not, since it shows *who* is speaking and *where* in a body.
+- **Speech is electromagnetic pulse, and not an adjunct to speech**
+  (`planets/corryn.md`). The medium is the bands the Carillon's hum sits in,
+  which *ordinary equipment* detects, and the colony's emissions degrade
+  them. So the medium is low-frequency electromagnetic field, the kind that
+  carries round a planet and through ground, and a Spiralite body is an
+  emitter and a receiver in it. The Archive's own warning stands against
+  reading anything into the pulses beyond that they are speech.
+- **Reproduction depends on the same medium** (`planets/corryn.md`; the
+  timeline entry), and the account says how a new one is begun *is said in
+  the quiet or not at all*. This section says nothing of it, and the
+  Prismeri's two forms are not the pattern here: see *Kinds, not stages*.
+- **They build turns.** *Spiral habitats that resonate with the Carillon's
+  ring frequencies* (`planets/corryn.md`); in the account, a turn is a
+  winding built *to come round with* the ringing, holding what it is tuned
+  to and passing the rest, the outer turns wide and the inner tight; a turn
+  goes out of tune when *the ground moves under it, or it is built on and
+  the building shifts it*, and is tuned back over returns, three at the
+  least. So the people build, finely, over long spans; the ground on Corryn
+  Prime moves; and keeping a turn is work that somebody does.
+- **The quiet is a place, and it is smaller** (the account). The bands
+  holding the ringing and the people and nothing else are kept at the inner
+  turns; the unkept fills the outer turns first. A body plan that lives in
+  the outer turns lives in noise now.
+- **The rule for who is somebody is behavioural.** *It keeps a count. It
+  says a thing beside the ringing and the thing is there at the return*
+  (the account; filed as the people's rule, not the Archive's). It names no
+  shape, no size and no kind, and the author applies it to a thing in the
+  bands whose shape nobody knows. A rule written that way is one a people
+  of more than one kind would need; a people of one kind can tell its own
+  by sight.
+- **Corryn Prime is habitable in the ordinary sense** (`planets/corryn.md`),
+  under *a stable K-type orange dwarf*, and the colony farms and mines there;
+  Oriane Kessel works out of doors with *one bare hand flat on the panel*
+  and no breathing gear (`characters/oriane-kessel.md`, the filed
+  portrait's alt). So the air is breathable to a human, the gravity is near
+  standard, and the daylight is an orange star's.
+- **The flora are coils.** *Spiral-form flora growing in mathematical
+  progressions, an adaptation to the system's electromagnetic fields*
+  (`planets/corryn.md`); the filed illustrations show them dark and
+  fern-like, coiled (the Corryn and Kessel alts, which are the pictures'
+  readings, not the page's). A biosphere where the plants wind themselves to
+  the fields is one where a wound conductor pays.
+- **Nobody with standing has visited, no Spiralite has been met, and no
+  pronoun is declared** (`characters/inner-turn.md`; `contact-design.md`).
+  The record holds no size, no limb, no sense organ, no lifespan, no fauna,
+  no society and no name of the people's own. *Spiralites* is the record's
+  name for the whole, and stays so.
+- **Not on the human frame; not a metazoan** (`what-the-record-refuses.md`,
+  *Bodies and Species*; `cross-biosphere-taxonomy.md`). No frame row has
+  been filed for them, since Survey has filed nothing.
+
+### What Corryn Prime needs to supply (proposed, for the body; not yet on the page)
+
+The skill's first step is the world, and where the world is silent the world
+is written before the body (the Ilenne pattern). The Corryn page is a
+standing-case page and not a world page, and this section does not edit it;
+the facts below are what a body needs from it, each with what it is for, so
+that when a page needs them they land on `planets/corryn.md` as an
+extension and nothing is asserted twice.
+
+| World fact (proposed) | What it is for |
+| --- | --- |
+| The planet's own field is strong, steady and patterned, the Carillon's pulses laid over it; the colony's page already says the natural fields interfere with human equipment and that they *do not pass* (Kessel's page) | A medium a body can live in and speak in; a steady field is one a biology can tune to, where a stormy one would be noise |
+| The flora wind their conductive tissue to the field's wavelengths and draw part of their energy from it, which is what *adaptation to the electromagnetic fields* means physically; their darkness is the orange star's, absorbing what little light there is | A coil is the basic organ of the biosphere, in plants and people alike; the people's helix is of a piece with the fronds |
+| The ground moves: Corryn Prime is seismically live at the scale of a building going out of true over years, not of catastrophe | The account's *the ground moves under it*; the reason turns need keeping; the reason one kind lives low and listens to rock |
+| What kills a large animal: the ground, and the noise. A collapse when the ground moves; and a body that cannot find its kind in the bands does not find food, shelter or an answer | The skill's question. The world's killer here is not a hunter or a fall but losing the count, which is why the body is three bodies |
+| Air sound is of little use: the air is ordinary, but nothing a Spiralite needs to hear is in it | A people with little or no hearing in air, which is why the system's *listeners* caught a pulse and not a voice |
+
+Nothing above names a year, a biosphere base, a fauna or a temperature, and
+the 14 October ruling (*proposed: nothing* for companions and fauna) stands.
+
+### Kinds, not stages (proposed; his direction)
+
+Dermot's second direction makes the Spiralites **a symbiotic set of
+peoples**: more than one kind, living together, each with strengths,
+abilities and needs the others complete. The record's name for the whole,
+*the Spiralites*, stays the name for the whole. Three readings were weighed
+and one is taken.
+
+- **(A) Three kin lineages, one world, one people by the people's own
+  rule.** Three kinds of independent-enough descent to be filed as three
+  lineages (`cross-biosphere-taxonomy.md`: a lineage is local, phylogenetic,
+  one world), each a people, each keeping a count, living in and as the kept
+  turn. **Taken**, as his words say *peoples*.
+- **(B) Three stages of one body.** A walking one roots and becomes a rooted
+  one, on the Prismeri pattern (two adult forms, no hierarchy between them,
+  `prismeri.md`). Not taken: it is one people, not a set, it would be the
+  Prismeri's device a second time, and it would say something about how a
+  new one comes to be, which the account keeps in the quiet.
+- **(C) One kind, varied by role and age.** The brief as first read. Not
+  taken, by his second direction; kept as the baseline plan in *Three plans*
+  below, since it is what the next sheet will be judged against.
+
+**What this is the first of, and what it is not.** Nothing in the record is
+a symbiotic set of peoples. The Verdani are one people in obligate
+partnership with a microflora that is not a mind (`verdani.md`); the vessik
+is *an animal, a burrow commensal, a companion and never a colleague*
+(`glossary/simian.md`); the Prismeri are one body at two hardnesses; a
+Cerebraun is one person with nine centres. So the Spiralites would be the
+record's first case of peoples in symbiosis, and `glossary/simian.md`'s
+*nearly every people on record shares its world with kin lineages that are
+capable, complex, and not people* already leaves room with its *nearly*.
+Two lines to watch, neither a bar: **the singular-exception rule** names four
+standing cases and one reserved, and *a symbiotic set of peoples* is not one
+of them, so this adds no second instance to a named exception; and
+`verdani.md`'s *distinguished from every other catalogued species by an
+obligate symbiotic relationship* stands literally, since the Spiralites are
+not catalogued (nobody has visited), but it is the sentence a reader will
+set beside this one, and the Verdani page would want a clarifying clause
+(*with a symbiont that is not a person*) when a Spiralite page lands. That
+clause is Opus's and is not written here.
+
+**Not a ranking, not a service** (CLAUDE.md: minds not ranked; no people a
+servant or a beast of another). Each kind below is somebody by the people's
+own rule and by the record's, each has an ability the others lack and a
+need the others meet, and no kind's work is done *for* another: the turn is
+kept by all three and is what lets any of them be beside the ringing. The
+account's own refusal governs the whole: *a telling is one voice*, and a
+kind is not a role. A walking one may keep a turn's inner tuning; a rooted
+one may be a teller; the kinds disagree, and the record has met none of
+them.
+
+### Three plans, studied on paper (the skill's step 3; the image sheet is owed)
+
+The skill asks for three plans and two cheap images of each before a prompt
+of record. No prompt of record is written here and no image was made: the
+three were drafted and judged against the attractors list, and the sheet is
+the next step, in the scratchpad, when he wants it.
+
+1. **One body, varied (the baseline).** A single translucent form, its coil
+   larger in the tellers and the tuners, its tint deepening with age. Answers
+   *various kinds and colours* only as individual variation. Fails his second
+   direction, and the single form is the Ilveth's fate waiting: a lone
+   translucent lit body is a jellyfish, a lamp or a ghost to the generator
+   whatever its limbs.
+2. **Kinds by voice: those who speak far and those who hear.** Two kinds,
+   emitters and receivers. Refused: it splits the people's speech, which the
+   record gives the people whole, and a kind that only hears is one the
+   generator and the reader will rank beneath the one that speaks.
+3. **Kinds by what each gives the kept turn.** Three kinds, each the turn's
+   keeper in one respect: one stands in it and is tuned with it, one tunes
+   and builds it, one hears the ground move beneath it. Each has its own
+   pulse and keeps its own count. **Recommended**, because it is derived from
+   the one activity the account describes in detail, keeping a turn; because
+   the three silhouettes are nothing like one another, so a frame with two
+   kinds in it reads as two; and because the dependence runs in a ring and
+   not down a ladder.
+
+### The body, kind by kind (plan 3; proposed unless marked)
+
+Working names are this note's and not canon: *the rooted*, *the walking*,
+*the ground kind*. When a page needs a rendering, the desk renders by what
+the telling gives, as it did for *Inner Turn*, and these words will not be
+the ones.
+
+**Common to all three (derived where marked).**
+
+- **The helix.** The *bioluminescent neural structure beneath the skin*
+  (derived) is, in each kind, one long nerve wound as an open helix through
+  the body's length: the organ that makes the pulse and reads the field, and
+  the tissue that glows when a pulse is made (proposed, from the account's
+  *where the speaking is made*). It is a loose, open winding of a few turns,
+  never a tight logarithmic coil (a tight coil draws an ammonite, a snail or
+  a galaxy). Seen through the tissue it is a soft blur of light, not a drawn
+  line.
+- **Semi-translucent, frosted, dry** (translucency derived; the finish
+  proposed). The tissue is translucent to a depth of a few centimetres, like
+  unpolished amber or sea-glass, and its surface is matte, fine-grained and
+  dry. Not clear, not wet, not glossy. This is the finish rule that keeps the
+  body from a jellyfish, a glass sculpture and a lamp.
+- **The light.** Faint, blue-green, seen in dim light and inside a turn,
+  hardly at all under the orange day; it brightens where a pulse is made and
+  for as long as one is made, and a body at rest shows almost none
+  (proposed). Blue-green because it must be read against an orange star's
+  ambient and by a kind whose light sense evolved under it, and because one
+  lineage's chemistry gives one hue (option A under *Colour*). The light is
+  not the speech (derived) and the people do not signal with it on purpose;
+  it tells another Spiralite that one is speaking and which part of a body
+  the pulse comes from, and that is all.
+- **Light sense, no eyes a human reads.** A band of small dark
+  photoreceptive spots, flush with the surface, where each kind's crown is
+  (proposed, from *made so that it shows*). No orb, no lens, no pair, no
+  gaze. Nothing on any kind reads as a face.
+- **No mouth visible, no hearing in air** (proposed). Feeding is **not
+  established** beyond that no kind shows a mouth; the people's channel is
+  the field and the ground, and air sound is close to nothing to them.
+- **Frames**: *Turgorida* for the rooted and *Hydrostata* for the walking
+  and the ground kind (proposed). A frame says how a body is held up and
+  claims no kinship; sharing a row with the Verdani or the Pelagene makes a
+  taxonomic neighbour and no more (`cross-biosphere-taxonomy.md`). The real
+  relation here is the lineage rank: three kin lineages of one world.
+
+**The rooted kind.**
+
+- **What it is.** A standing column of translucent tissue, rooted into the
+  fabric of a turn and growing with it: two to four metres tall, thirty to
+  fifty centimetres through at the base, tapering to a soft rounded crown;
+  the helix runs the whole height, wider windings low and tighter high, so
+  that the column is itself one tuned element of the turn it stands in.
+  Several stand in a turn, spaced along the winding. It does not move.
+- **What it gives.** Reach and standing. A column of that height, wound to
+  the turn's frequency, is the one body that carries a pulse along the turn
+  and is beside the ringing at every return without having to go anywhere;
+  the account's tellings, said beside the ringing and found there at the
+  next return, are found by the rooted first. It keeps the long count.
+- **What it needs.** Tuning, and warning. When the ground moves, a rooted one
+  is out of tune with its turn and cannot do anything about it: it cannot
+  move, cannot build and cannot hear the ground. Without the other two kinds
+  it stands in a turn that drifts and says things into a place where nothing
+  is sure.
+- **Colour.** Deep amber through red-brown, the tint laid down at the
+  surface against the star and deepening with time, so an old rooted one is
+  nearly opaque at the base and still frosted-clear at the crown, where the
+  light shows (proposed). *With time*: the record holds no lifespan and no
+  conversion from a return, so nothing here says how long.
+- **Carriage.** Upright, still. A rooted one attends by brightening where
+  the pulse is made, and that is the only movement a human would see.
+
+**The walking kind.**
+
+- **What it is.** A low arch: a thick bow of translucent tissue about two
+  metres from foot to foot and a little over a metre high at the crown,
+  standing on **exactly two** broad, soft, elongated feet set far apart, the
+  helix running the bow's whole length from foot to foot. From the underside
+  of the crown hang **exactly four** short working limbs, in two pairs: soft
+  hydrostats with no digits, each ending in a flattened tip that folds shut
+  like a closed bud, carried curled and touching nothing when not at work.
+  One pair holds while the other works (the dexterity note above: steadiness
+  is the half that gets forgotten). The photoreceptor band runs along the
+  crown's top. There is no head, no neck and no front: a walking one faces a
+  thing by turning so that one foot is nearer it.
+- **How it moves.** Slowly, by lifting one foot and swinging it round the
+  other, the bow pivoting on the planted foot, a pace at a time; a tuner's
+  gait, and a people who count in returns are not hurried. The low crown and
+  the long feet keep it stable on a line.
+- **What it gives.** Building and tuning. Its two feet, two metres apart,
+  read the field and the ground at both ends of a baseline, so a walking one
+  walks a turn and feels where it has gone out of true, as a keeper of
+  shielding walks a seam; its limbs do the fine work of building a turn and
+  tuning it back over the three returns. It carries the near word from turn
+  to turn, since it is the one that moves.
+- **What it needs.** A tuned turn. Its own helix is short and bent and its
+  pulse carries only to the next body; it has no reach and cannot hold a tune
+  by itself, so it is beside the ringing only inside a turn the rooted
+  stand in. Where the turn is drowned, a walking one's feet find no tune to
+  walk, and its small saying is said and said again.
+- **Colour.** Pale olive through honey-amber, lighter than the rooted and
+  more even, since it moves between sun and the turn's shade; the helix shows
+  along the bow as a blurred lit thread in dim light (proposed).
+
+**The ground kind.**
+
+- **What it is.** A broad, flat lens of translucent tissue lying on and
+  partly in the ground at a turn's footing: about a metre across, fifteen to
+  twenty-five centimetres thick, its whole underside in contact with the
+  ground, the helix lying in it as a flat open spiral of a few windings seen
+  from above through the frosted upper face. No limbs. It moves rarely and
+  by a slow ripple of its edge.
+- **What it gives.** The slow warning. Its underside is the widest contact
+  with the ground any Spiralite has, and it hears the ground move before a
+  turn has gone out of tune; it keeps the ground's count, and a turn is kept
+  because a ground one said, through the rock, that the ground was going.
+- **What it needs.** To be answered. It emits least of the three, and only
+  by conduction through the ground, so only a rooted one's root and a
+  walking one's feet hear it; alone, a ground one says things that nothing
+  is beside. It cannot build, reach or stand.
+- **Colour.** Water-clear grey with a faint milkiness, almost untinted,
+  since it lives in shade and ground; the light shows plainest in this kind,
+  low and blue-green, when it speaks (proposed).
+
+**Scale, for the frame only (proposed).** As above. A rooted one is the
+tallest thing in a turn, a walking one stands lower than a human and wider,
+and a ground one is underfoot. The three in one frame are a column, an arch
+and a disc, and that is the test of the plan: a sheet in which the kinds
+could be confused with one another has failed.
+
+**How the kinds meet.** By contact and by the turn. A walking one lays a
+folded limb-tip against a rooted one's crown or sets a foot on the ground
+where a ground one lies, and the near pulse passes by touch; anything meant
+to be found is said through the turn beside the ringing, where all three
+hear it. There is no hierarchy in the ring: the rooted carry what the
+walking say and the ground kind warn of what the rooted cannot feel, and
+each is nobody without the other two by the people's own rule, since a
+count nobody is beside is not kept (proposed, from the account's method).
+
+**The harm, made visible once and quietly** (proposed; the tone rule). In
+the outer turns, where the unkept is wide, the rooted stand lit more often
+and longer, saying things again into a turn that does not hold them, and a
+walking one's feet find no tune to walk. Inside the inner turn, where the
+quiet is, bodies are dim and lit briefly. A portrait shows the second and
+never the first.
+
+### Colour: why the world gives these, and one choice
+
+Translucency is derived and tint is what is left, so the colours follow
+from where each kind lives under an orange star: pigment laid down against
+the sun where a body stands in it (the rooted, deep amber to red-brown),
+less where a body moves in and out of shade (the walking, olive to honey),
+almost none where a body lives in the ground (the ground kind, clear grey).
+Age deepens the tint in all three, most visibly in the rooted. Under the
+orange day a Spiralite is a warm tinted body with almost no light showing;
+inside a turn, or at dusk under the Carillon, the blue-green helix shows
+through. The room never carries the colour; the body does.
+
+- **(A) One hue of light, three tints of body.** The helix is blue-green in
+  every kind, since one lineage's chemistry gives one hue and the hue is the
+  one that reads against orange; the kinds differ by tint, depth and where
+  the light sits. **Recommended**: it is the physically honest version, and
+  it keeps the light faint and the body the thing seen.
+- **(B) Three hues of light, the Carillon's own.** Blue in one kind, green
+  in another, violet in the third, the colours the Carillon's rings pulse in
+  (`planets/corryn.md`). Renders more legibly and answers *colours* more
+  fully, at the cost of a resemblance the record does not claim, between the
+  people's light and the Carillon's, which a reader will take for kinship;
+  the Corryn page's whole discipline is declining tidier accounts of the
+  Carillon.
+
+### Inner Turn: which kind (a choice, his)
+
+The account's keeper tunes: *it is tuned back*, over three returns, and
+*that is the whole of why I keep it*. It also keeps the count by the
+ringing, which any kind does.
+
+- **(A) A walking one.** Tuning is the walking kind's ability, and the
+  keeper of the innermost winding would be the one who walks it.
+  **Recommended**: it fits the account's verbs, and it gives the portrait
+  one figure, low and wide, in the dim of the inner turn.
+- **(B) A rooted one.** The inner turn's own tuned element, keeping it by
+  standing in it; *the inner turn is what I keep* read literally. The
+  portrait is then a column, which the generator will light like a lamp.
+- **(C) Unstated.** The portrait shows the inner turn with two kinds in it
+  and names neither as the author; the page's sentence changes to say the
+  body is designed and the author's kind is not held. Honest to the account,
+  which never says, and the weakest picture.
+
+### Traps, and the Earth form refused by name (proposed as a prompt rule)
+
+- **The jellyfish, the deep-sea creature, the glass sculpture, the lamp.** A
+  translucent lit body is all four to the generator at once, and the Ilveth
+  exhausted this exact field in three rounds (27 October). What beats it
+  here: frosted not clear, dry not wet, matte not glossy, a *tint* that is
+  the body's main colour with the light faint beneath it, and never a body
+  alone in the dark against black. Show a Spiralite under the orange day or
+  in a dim turn with its surroundings in frame, never floating.
+- **Neon, lightning, the drawn vessel.** The helix is a blur beneath a
+  surface, never a line of light; say *a soft inner glow beneath frosted
+  tissue*, never *glowing veins* or *circuitry*.
+- **The cobra, the spring, the snail, the slug, the worm.** A standing coil
+  was refused as a plan for this reason; the helix is inside and the
+  silhouettes are a column, an arch and a disc.
+- **The arch as a thing: the croquet hoop, the horseshoe magnet, the bridge,
+  the walking machine.** The walking kind's bow is thick, soft, tinted and
+  unevenly rounded, with two soft feet of unequal set; no hard edges, no
+  symmetry of manufacture, no rivets or panels.
+- **The disc as a thing: the galaxy, the ammonite, the manhole, the
+  jellyfish from above.** The ground kind's spiral is open and few-turned;
+  it lies at a turn's footing, half in the ground, with the ground's grain
+  across it.
+- **The column as a thing: the lamp, the candle, the ghost, the stalagmite,
+  the tree trunk.** A rooted one is tinted deepest at the base, frosted at
+  the crown, and lit only where it speaks.
+- **A limb laid on a surface returns a human hand.** The walking kind's four
+  limbs hang curled beneath the crown and touch nothing in a portrait.
+- **People at the edge of the frame; the lit fitting; the lettering.** Say
+  nobody is in frame, no lamp, no glowing panel, no text; the only light that
+  is not the sky's is the body's own, faint.
+- **The Pandora glow and its kin.** No luminous forest, no lit flora, no
+  bioluminescent spots in rows, no glowing eyes; the flora are dark coils
+  under an orange sky.
+- **The hive, the caste, the drone.** No kind is many and small, none is a
+  swarm, none is interchangeable; three in a frame are three persons.
+
+**Standard negative, to start from.** *jellyfish, deep-sea creature,
+sea creature, glass sculpture, crystal, lamp, lantern, candle, neon, glowing
+veins, circuitry, hologram, ghost, spirit, cobra, snake, spring, slinky,
+snail, slug, worm, caterpillar, ammonite, galaxy, horseshoe magnet, croquet
+hoop, bridge, walking machine, robot, tripod, metal, rivets, panels, human,
+humanoid, face, eyes, mouth, teeth, hands, fingers, tentacles with suckers,
+octopus, squid, insect, spider, crab, hive, swarm, luminous forest, glowing
+plants, lit fittings, lamps, screens, readable text, people, a second
+figure, cartoon, toy, 3D render, CGI, concept art, grey, monochrome,
+desaturated, muted, dark background, black void.*
+
+### Portrait-ready summaries and render notes (for the prompt that follows a ruling)
+
+A portrait prompt is written in `images.md` only after he rules, by the
+`nonhumanoid-portrait-prompt` skill; these summaries are what it starts
+from, in the design's own words.
+
+- **The rooted kind.** *A standing column of frosted, semi-translucent
+  tissue two to four metres tall, deep amber at its thick base shading to
+  near-clear at its soft rounded crown, rooted into the curved inner wall of
+  a spiral habitat; a faint blue-green glow blurred beneath the surface along
+  one open winding inside it, brightest for a moment near the crown; a band
+  of small dark spots flush with the surface at the crown; no face, no limbs,
+  no mouth; matte and dry.* Light: the turn's dim; the body's own glow faint.
+  Angle: from a little below, the column leaning slightly with the wall.
+- **The walking kind.** *A low soft arch of frosted, semi-translucent tissue,
+  olive-amber, about two metres foot to foot and a little over a metre high,
+  standing on exactly two broad soft elongated feet set far apart; a faint
+  blue-green glow blurred beneath the surface along the bow; exactly four
+  short soft limbs hanging curled beneath the crown, each ending in a folded
+  flat tip, touching nothing; a band of small dark spots along the top of the
+  crown; no head, no face, no eyes, no mouth; matte and dry; standing on
+  trodden ground inside a curved habitat wall.* Angle: three-quarter from
+  low, so the arch reads as an arch and both feet show.
+- **The ground kind.** *A broad flat lens of frosted, nearly clear grey
+  semi-translucent tissue about a metre across, lying half in the ground at
+  the foot of a curved habitat wall, its upper face matte and dry; a faint
+  blue-green glow in a loose open spiral of a few windings blurred beneath
+  the surface; no limbs, no face, no eyes, no mouth; the ground's grain
+  across it.* Angle: from above and to one side, the wall's foot in frame.
+- **Common render notes.** Photographed by a 29th-century camera inside the
+  world, available light, natural full colour, normal exposure; the orange
+  day or the turn's dim, never a black void; the body carries the colour
+  and the surroundings stay neutral; nobody else in frame, no lit fitting,
+  no lettering; attention off-frame, at work, nothing that invites the
+  viewer. The surroundings of a turn are **not established** (what a turn is
+  built of is marked absent on Inner Turn's page), so a prompt says *a
+  curved wall, close, out of focus* and names no material. Two rounds, then
+  the record's stops: a near miss noted, an artist's impression put to him,
+  or *no visualization is on record*, named per page.
+
+### What this section does not say
+
+Any Spiralite word, name or pronoun; how a new one is begun, or of which
+kind, or whether kinds come from kinds; sex, kin, lifespan, or a conversion
+from a return; feeding, the biosphere's base, fauna or companions; a
+society, a council, a speaker, a role as an office; what a turn is built of
+or where any stands; whether any kind has been drawn, seen or met by anyone
+of the colony; the colony's standing or any part of the Corryn case; how
+anyone meets a people in a medium the colony is drowning out; and which kind
+Inner Turn is, which waits on his choice above.
+
+### Where this goes
+
+- **Nothing to `src/` now.** When he rules, the kinds land on
+  `planets/corryn.md` as an extension in the Archive's voice, with the world
+  facts the body needs, stated as the record's reading of the account and
+  the system's literature and marked where they are a reading; Inner Turn's
+  page changes its last sentence when a portrait is filed; `civilian-dress.md`'s
+  Spiralite entry and the Spiralite lines of `mind-design.md` and
+  `contact-design.md` take a pointer here; `verdani.md` takes its clarifying
+  clause (Opus's).
+- **The design sheet** (the skill's step 3) is owed before any prompt of
+  record: two images of each kind, the same dim turn and light, in the
+  scratchpad; expect the first sheet to draw a jellyfish, a lamp and a
+  manhole, and to show which of the three plans' silhouettes holds.
+- **Inner Turn's portrait** follows the sheet and his choice of kind, by
+  `nonhumanoid-portrait-prompt`, as a prompt in `images.md` (Fable's, since
+  the author's presence carries it), filed through `import-image.ps1
+  -MaxEdge 1200`.
+- **`mind-design.md`'s Spiralite section** stays *not established*: three
+  kinds say nothing about who speaks for the people, and choice 5 there (A,
+  the chapter finds out) is untouched.
+
 ---
 
 ## Living with other life — companions, working animals and commensals, people by people
@@ -1759,6 +2244,9 @@ the animals.
   added there would sentimentalise a protocol case, and the record is better
   without one until a chapter asks.
 - **Does "pet" fit?** Not established.
+- **Body sheet:** *Spiralites — three kinds of one people* above, 31 October
+  2026, proposed and not ruled; the ground kind there is a people, not a
+  companion, and this entry's *proposed: nothing* for fauna stands.
 
 ### Doreth — Aspenar
 
