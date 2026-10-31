@@ -143,6 +143,7 @@ beside.
 | Ilenne | 1 (S01E00C08) | 0 |
 | Trígrian | 0 | 0 |
 | Thavren | 1 (S01E03C04, its people in Rhuven's block; added 31 October 2026) | 0 |
+| Meridian | 4 (S03E01 C01–C04, the Halyx Relay Station; the Long Shelf by its channel) | 0 |
 
 The four worlds at one chapter are all named in the same assembly scene, so
 they are ordered as the direction listed them. Trígrian has no chapter, and it
@@ -150,6 +151,10 @@ is kept because its page already holds the record's most complete grassland
 web and its most famous likeness. Thavren's row was added on 31 October 2026,
 when its section was written: its one chapter is set on Pelagos Minor and
 names the world by comparison, and the count is at that date.
+Meridian was added on 31 October 2026, when
+its people got a body section in `species-design.md` and the sweep found this
+file carried the world only in the closing table; its four chapters are all
+set on the relay station, and the sea is reached only by its channel.
 
 ---
 
@@ -1086,6 +1091,223 @@ on its *What the Record Does Not Hold*, moving *any other life* from wholly
 absent to *heard and not described*; both are extensions of what stands. The
 roles above enter the record, if ever, in an Ovruhn's own voice, as a smell
 or a sound a chorus keeps, and never as a survey's list.
+## Meridian
+
+Added 31 October 2026 on Fable, at Dermot's *"Yes, all four"* to handing the
+owed gaps to Fable, beside the people's body section in `species-design.md`
+(*Meridian sapients — a body from the Long Shelf*). Under `CLAUDE.md`, *When
+Fable may extend canon lore on its own*: derived from the planet page, the
+Sentinel's, the Long Shelf's own account and the two filed frames; adding to
+them and moving nothing; closing no shadow, since the Sentinel and the beds
+stay where the record keeps them; and written to read as already true. The
+markings are this file's: **derived**, **proposed**, **not established**.
+
+### What the record says
+
+- *"A thick, halogen-heavy atmosphere and ammonia-saline ocean chemistry
+  that no unshielded human tissue survives more than a few unprotected
+  breaths of."* (`src/lore/planets/meridian.md`)
+- *"A genuine biosphere world — a stable, self-sustaining native ecology rich
+  enough to need no life-support engineering at all."* (same)
+- *"Its shallow seas host one of the densest concentrations of complex
+  native life so far surveyed: armored, segmented invertebrate life
+  dominates every visible niche, from filter-feeding reef-builders the size
+  of a closed fist to apex hunters that mass several tonnes and patrol the
+  continental shelf margins in coordinated hunting groups. The chemistry that
+  kills a human unprotected is, for Meridian's native biosphere, simply the
+  water everyone breathes."* (same)
+- The people *"build in secreted mineral composite"*, *"dense, load-bearing
+  lattice structures that read, to outside eyes, as natural growths"*; their
+  *"reef-cities"* stand on the shelf, with *"an inhabited outwork"* at the
+  *"shelf-margin"* where the settlers' enclave was to be sited. (same)
+- *"Hegemony extraction interests focus on Meridian's deep-shelf mineral
+  beds — the same chemistry that makes the ocean lethal to unprotected humans
+  also concentrates several rare compounds Hegemony fabrication industries
+  value highly."* (same)
+- The cover: *"a sickly green ammonia-saline ocean world disc"*; from the
+  Sentinel's plain, *"a small pale green world low above the horizon"*
+  (`planets/sentinel.md`, `image_alt`). Both filed portraits: dim green light
+  from above, thick water full of fine suspended particles, visibility a few
+  metres (`images.md` §§ 14, 41).
+- *"Meridian's dense, chemically hostile seas are a temperate homeland — for
+  Meridian's own armored people."* (`src/lore/habitable-for-whom.md`)
+- In the Long Shelf's own voice: *"the sea above the sea"* for everything
+  above the water; the two surveys *"filed … as weather. [The channel offers
+  also: as the sea.]"*; the beds *"have a sound"*, and *"the working has a
+  sound in the lattice, which comes up through the low courses"*; *"We have
+  put slower questions to the sea than this one, and had the answer in a
+  later course"*; and of time, *"We do not say how long a course takes,
+  because the sea does not say, and we have asked … We have not got [a
+  year]."* (`src/codex/what-came-in-the-water.md`, valid for its author)
+
+What the record leaves unstated is what this file's table named: **the base**,
+**the recyclers**, and **what the reef-builders eat**. Also unstated: what the
+people eat, and whether the world has a season.
+
+### What it derives
+
+- **The base is light, taken in the top of a shallow sea** (derived, real
+  physics on the page). The page puts the densest life in *shallow seas*
+  and gives a thick atmosphere and a turbid water column; both frames show
+  light from above, dim and green at the city's depth. Light reaches the top
+  metres of a shallow sea even under a thick sky, and a sea whose life is
+  densest where it is shallow is a sea whose food is made near the surface
+  and falls. The green is the signature: a producer pigment, or the suspended
+  matter it lives among, in the water everyone breathes. Nothing in the
+  record says what the producer is; this file names it below and leaves its
+  chemistry alone.
+- **The oxidant need not be oxygen, and the page suggests it is not** (a
+  reading, proposed). A *halogen-heavy* air over a chloride sea is what a
+  light-driven producer that releases halogen instead of oxygen would leave
+  behind, as Earth's producers left oxygen. Real chemistry allows it; the
+  page fixes nothing, and no page needs it. It is noted because it is the
+  one thing that would make *the water everyone breathes* a single fact
+  about the whole web and not only about the people.
+- **Nitrogen is not what limits; mineral is** (derived, with the limit
+  proposed). An ammonia-saline sea is a sea with its nitrogen already in
+  solution. What the page says the biosphere is built of is armour and
+  composite: fist-sized reef-builders, *armored* life in *every visible
+  niche*, cities of *secreted mineral composite*. So the scarce thing, the
+  one a producer and a builder compete for, is dissolved mineral, and the
+  shelf is where it is richest: the shallow water over the beds, stirred
+  against the margin. That is why the life is on the shelf, why the
+  reef-builders are there, and why the cities are. **Not established, and
+  this file does not supply it:** what the working of the deep beds does to
+  the shelf's mineral economy. The record gives the council's objection as
+  the sound of the working in the lattice and nothing else, and the dispute
+  stays exactly as the page and the codex hold it.
+- **What kills a large animal is the shelf margin** (derived). The hunters
+  mass several tonnes and hunt in groups along the margin; on the shelf
+  behind it anything their size has nothing to fear from them but the
+  current. A people of a human's span live inside a lattice whose gaps admit
+  them and refuse a several-tonne hunter. So the city is a refuge first and
+  an instrument second, and an outwork at the margin is the one place a
+  Meridian person is in the hunters' water, which is where the settlers'
+  anchor survey began and where Second Outwork strikes.
+- **The pyramid is tall, and the hunters say so** (derived, the pyramid
+  rule). Several-tonne hunters in coordinated groups are an apex that costs a
+  great deal to feed. A tenth at each level means a shelf thick with large
+  prey beneath them, and a base richer than most worlds in this file. That
+  fits the page's *one of the densest concentrations of complex native life
+  so far surveyed*, and it means the middle of the web, the large armoured
+  feeders the hunters hunt, is well populated and unnamed.
+- **The recyclers work in two registers, because the dead are two
+  things** (derived). A plated body leaves a soft part and a mineral part.
+  The soft part is eaten, as everywhere; the mineral part does not rot, and
+  in a sea whose limit is mineral it is the richest thing a dead animal
+  leaves. So whatever builds in mineral on Meridian, reef-builder or people,
+  is a recycler of armour by trade: the dead are taken back into the shelf
+  as structure. The codex's *the low courses … carry everything* is the
+  people's own reading of this, and the Archive holds it as theirs.
+- **The deep is dark and the shelf is not** (derived). Beyond the margin
+  the shelf falls away and light fails; the page gives nothing below the
+  margin but the beds, and the people's own account never goes there (*what
+  is under the lowest course* is on their list of things not asked). The
+  deep's life, if any, is **not established**, and this section stays on
+  the shelf.
+- **Whether the world has a season the record does not say, and the people
+  count no year** (derived, from the codex). The Long Shelf keeps no year
+  and says why: the sea does not give one. A people on a world with a strong
+  tilt season, or a light cycle their water felt, would have had one
+  offered. So this file proposes no season for Meridian and marks the
+  world's tilt, its orbit and its tides **not established**. The Sentinel is
+  a planet of the same system and raises no tide here.
+
+### Proposed
+
+A minimal web, with two new names. The record's own words (*reef-builders*,
+*apex hunters*) are kept as the survey's. Each point is proposed.
+
+- **Water-green** (proposed). The producer: a light-fixing film of fine
+  particles suspended in the top of the shallow sea, carried on the current,
+  thickest in the metres under the surface and thinning with depth, so that
+  the city's courses stand in its shade and the water at an outwork is a
+  little brighter than inside. It is what makes the sea green from orbit and
+  the light green below. It is not a plant and not a weed; nothing of it is
+  rooted, and nothing of it is drawn.
+- **The reef-builders** (the record's word, kept). Fist-sized filterers of
+  the water-green, fixed to the shelf and to each other in mineral they lay
+  down; the shelf's own reef is theirs. What they eat is the water-green and
+  what falls from it. Whether their mineral is the people's composite is
+  **not established**, and this file holds the question where the codex
+  left it; `species-design.md`'s *Living with other life* proposes
+  co-building if a page ever needs it, and this web is the same either way.
+- **The shelf feeders** (unnamed; a chapter's to name). The large armoured
+  grazers and filterers of the open shelf that the hunters hunt: the middle
+  of the pyramid, numerous and slow, built as the people are built, low and
+  plated, and nobody's kin. They are the reason a hunting group can be
+  several tonnes apiece.
+- **The apex hunters** (the record's phrase, kept). Several tonnes, in
+  coordinated groups, along the margin. Nothing more is given, and this file
+  gives nothing more: a hunter described is a monster drawn.
+- **Shelf-sifters** (proposed). The recyclers of the soft dead: small
+  crawling life of the shelf floor that strips what a plated body leaves and
+  carries it back into the water-green's reach. The mineral part they leave,
+  and the reef-builders take.
+- **The people's food** (proposed; a chapter's to fix). The city stands in
+  the water-green's shade and in the current, and a lattice is a filter as
+  well as an instrument: what the current brings is caught on the courses,
+  and the people take it there. So the people are best read as grazers of
+  the lattice's own growth, feeding from the courses they stand on, from an
+  underside no frame shows. It is why a city built where the current runs
+  through it is also a city fed, and why a person who lets go of the
+  lattice has let go of more than the listening. Nothing on any page says
+  so, and the organ stays **not established** (`species-design.md`, the
+  body, point 7).
+- **The people's own words** (proposed reading, never the record's).
+  *Weather* and *the sea* for what arrives and does not answer; *the sea
+  above the sea* for air and orbit; *a course* for time. These are the Long
+  Shelf's and valid for its author. This ecology happens to fit them, since a
+  people fed, sheltered and heard by one structure would reckon by what that
+  structure bears, and the record states the fit as a fit and no further.
+
+### Traps
+
+- **The coral reef.** The word *reef* imports blue water, sunlight, fish,
+  weed and colour. Meridian's reef is grey-green mineral in dim green turbid
+  water, and nothing in it swims past the lens. A prompt for any Meridian
+  life negates *coral reef, tropical reef, blue water, fish, seaweed, kelp*.
+- **The Earth crustacean, for every niche.** *Armored, segmented* draws a
+  crab, a lobster, an isopod or a trilobite at every size, from the
+  reef-builder to the hunter. Every creature is built from the medium (dense
+  water, a mineral limit, a current, dim light) and negates the nearest
+  Earth animal by name; the people's own standard negative in
+  `species-design.md` is the start of each.
+- **The sea monster.** The hunters are the 22 September rule's worse
+  failure waiting to happen. They are never described, never drawn and
+  never met; what a chapter has of them is the margin's reputation, which is
+  why the city is where it is.
+- **The poisoned sea.** The deep beds are worked and the council objects,
+  and the obvious ecology is a dying shelf and a polluting Hegemony. The
+  record gives neither: the objection is to a sound, the arrangement is
+  *durable rather than settled*, and no page makes the Hegemony a villain.
+  This file supplies no harm to the web from the beds and no reason for the
+  objection the record does not hold.
+- **An organism behind the Sentinel.** The parallel between the pulse and
+  claw-percussion is on the record and unresolved, and nothing in this web
+  may account for it: no creature of the shelf strikes in a pattern that
+  returns changed, and no reef-builder lays a lattice that pulses. The
+  question is reserved to the Prime Ganglion's office and has not been put
+  (CLAUDE.md, *mark the absence; do not explain it*).
+- **The drowned city.** A grown lattice under a dim sea reads as a ruin.
+  The city is at work, its newest course plainly laid on an older, and
+  nothing in the water is a wreck.
+- **The second Earth-like web.** A light-driven base, a filterer, a grazer,
+  a hunter and a scavenger is Earth's shape of a web, and the shape is all
+  that is shared: the solvent, the oxidant, the limit and every body are
+  Meridian's. Tír na nÓg stays the singular exception.
+
+### What a page would need
+
+If a chapter ever calls for it, one clarification on `planets/meridian.md`'s
+*A Biosphere, Not a Wasteland*: that the shallow seas' life runs on light
+taken near the surface, in a water column the producers themselves colour
+green; that the shelf margin is the hunters' water and the reef-cities stand
+on the shelf behind it; and that mineral, not nitrogen, is what the
+biosphere is short of. That is enough to make a current, a meal or a death
+legible. The people's food would go in a chapter in their voice, in the
+water, or on the species page the body section proposes, never in the
+Archive's own voice first. Nothing is changed in `src/` by this section.
 
 ---
 
@@ -1097,7 +1319,7 @@ this file's reading, and every item in it is not established.
 
 | World (page) | What the page gives | What it owes |
 | --- | --- | --- |
-| Meridian (`planets/meridian.md`) | Dense, chemically hostile shallow seas; armoured, segmented life from *"filter-feeding reef-builders the size of a closed fist"* to multi-tonne apex hunters *"in coordinated hunting groups"* | The base (light in shallow seas, presumably); the recyclers; what the reef-builders eat |
+| Meridian (`planets/meridian.md`) | Dense, chemically hostile shallow seas; armoured, segmented life from *"filter-feeding reef-builders the size of a closed fist"* to multi-tonne apex hunters *"in coordinated hunting groups"* | Its own section above since 31 October 2026: the base (light, near the surface), the recyclers (shelf-sifters and the mineral builders) and the reef-builders' food (the water-green) are proposed there |
 | Corryn Prime (`planets/corryn.md`) | *"Spiral-form flora growing in mathematical progressions, an adaptation to the system's electromagnetic fields"* | Any fauna; the base; nothing proposed while the colony case is open (`species-design.md`) |
 | Nerath (`pelagene-littoral.md`) | Stratified non-water fluids; *"nothing on Nerath ever stays where it was put"* | Everything; the base most likely sits at the layer interfaces |
 | Veyr-3 (`veyr-basaltborn.md`) | Heavy gravity, active basalt, mineral aerosol, micro-shock | The base; `species-design.md` proposes a living plumb that filters settling dust |
