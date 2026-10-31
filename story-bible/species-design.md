@@ -617,6 +617,8 @@ about posture, which is the Krenyi standard applied.
 
 ## Cerebraun — the body behind the likeness (drafted 13 October 2026, at Dermot's ruling of 12 October: *emblem card now, body later*)
 
+**One form, ruled 31 October 2026.** Dermot was asked whether the Cerebraun are metamorphic or polymorphic, and chose *"A"*: one form, the body plan this section and `src/lore/cerebraun.md` give. There is no young form unlike the adult, and there are no castes or distinct adult kinds. All three filed portraits (Sohrel, Tavesh, Vaurel) show this form, and Essaran's two failed rounds in `images.md` § 47 are a rendering problem, not a reason to change the body. Lifespan and how a Cerebraun grows stay not established.
+
 **Status: ruled 13 October 2026** (Dermot's *"Approved"* on PR #1178 among the night's PRs, under his rule that only a genuine dilemma comes to him): every recommendation below stands. The body points are extended into `src/lore/cerebraun.md`; the prompt-only points (the Earth animal refused by name, the scale for the frame) stay here.
 Drafted on Fable, since it is a body an image prompt will depict. The cause
 is on the record: every generated attempt at the Cerebraun page and at
