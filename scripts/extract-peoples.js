@@ -279,7 +279,9 @@ const PEOPLES = [
     id: "spiralites", name: "Spiralites", page: "src/lore/planets/corryn.md", places: null, species: ["Spiralite"],
     frame: null, design: null,
     pageBody: ["src/lore/planets/corryn.md", "The indigenous people are the Spiralites: semi-translucent, with bioluminescent"],
-    portraits: {},
+    portraits: {
+      "inner-turn": { note: "Filed 31 October 2026 as an artist's impression (survey plate 3, his pick), after two photographic rounds failed; the walking kind." },
+    },
   },
   {
     id: "doreth", name: "Doreth", page: "src/lore/planets/aspenar.md", places: null, species: ["Doreth"],
