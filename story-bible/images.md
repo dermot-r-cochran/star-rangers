@@ -9855,6 +9855,185 @@ rounds of 29 October. The next route after text-to-image is the Vaurel one
   - **Round 2 revision, 31 October 2026** (Fable, at Dermot's *"Native habitat backdrop for Cerebraun"* and his choice of *"A"*, a Cerebraun-made interior with no world invented): the setting changes and the body does not. Round 1's room was a bare pale wall and a surface, nothing made but the slab; the room is now the office's own, derived from the body and nothing else, since the homeworld is unnamed, no Cerebraun biosphere exists and the record has not established their air: a low island surface standing free with floor all round it, because a body with no front has no desk that faces one way and no chair; a floor and a wall band worn smooth and faintly darker low down where bodies pass and limbs brush, with blank stone above, because the room is lived in at limb height; the lower corner of one wide low dark opening soft at the frame's far side, the shape of a body wider than tall and the frame's scale; and the light low and from one side, at the height the eyes along the limbs see from, with nothing in frame to show its source. Of a piece with Vaurel's stone room and its wide low doorway (§ 33), and told from it by cooler stone, low side light, the free-standing island and the opening at the frame's edge. The century's sign is now stated, since a made stone room needs one: the sealed slab on its seamed composite island, in the *Conventions* idiom. The round-1 negatives *a doorway, a corridor* are withdrawn and replaced by what a doorway must not be (tall, leafed, hinged, lit beyond, an arch) and by the cave, crypt, tunnel and temple the generator reaches for in bare stone. Two changes aimed at round 1's failures, under the critic's repair table: the camera rises to a little above the body's top and goes three-quarter on, with the body said *much wider than it is tall* and its flanks leaving the frame at both edges (the repair for a *headless torso*: never low and side-on); and the three limbs now leave the body from three named places and the skin is smooth along a limb's length with its folds only at the roots, *skin* rather than *hide* throughout, with *elephant hide*, *a wrinkled trunk* and *ringed creases along a limb* negated (the trunk with finger-like tips). The room strengthens the blockout recommendation rather than changing it: round 1's failures were structural, the table's repair for both is the blockout, and the new room is exactly the kind of geometry a blockout holds and words do not (the island's height against the body, the opening's proportion, the worn bands, the low hard light), with `vaurel-2.py` already carrying the stone, the slab, the doorway and the hard slot. The pose, room and crop the script needs are in the Desktop step above; the script is not written here.
   - **Round 2, 31 October 2026: stopped.** The Vaurel route: `scripts/blockouts/essaran.py`, adapted from `vaurel-2.py` and rendered three times before the edit. Its first two renders read as a reclining figure (pale skin, low camera) and then as a crawling figure with a neck (a limb rising from the top of the disc). The third, with the disc wider and flatter and the raised limb moved to a flank, held. Gemini then made four variations from that render. All four kept the geometry and lost the people: a wide flat brown disc on short limbs reads at a glance as a leather pouf or footstool on legs, and as a smooth render, not a photograph (the ladder's first and third rungs). Two rounds have failed at the body's silhouette, so per the Desktop step the page stays bare and the next step is a review of the body design under `people-body-design`, with the filed frames saying whether the body fails or only this frame does. An artist's impression is one of the options to put to Dermot, never chosen here.
 
+### 48. Missing portraits — Inner Turn, the first Spiralite the record names, keeper of the inner turn of a habitat on Corryn Prime (written 31 October 2026, Fable, at Dermot's direction; generation waits on the desktop)
+
+`src/characters/inner-turn.md` landed on 27 October 2026 with the Spiralite
+line of *Histories in their own voices*, `src/codex/beside-the-ringing.md`:
+a Spiralite of Corryn Prime who keeps the innermost turn of a spiral habitat
+tuned to the Carillon, by the account's own word, and who told the history
+of the Spiralites in pulse beside the Carillon's ringing, addressed to
+nobody outside the bands, where the system's own listeners recorded it. The
+page said *the people have no body sheet in the design notes, and a
+portrait is owed from one*; the body sheet landed the same day as this entry
+(`species-design.md`, *Spiralites — three kinds of one people, from Corryn
+Prime*, PR #1607) and Dermot ruled its three choices that evening: the
+Spiralites are **three kin lineages** of one people, the light is **one
+blue-green hue** across three body tints, and **Inner Turn is of the walking
+kind**. So the page is owed a photograph under the 7 October rule, the first
+of this people, and a prompt where a person's presence carries the frame is
+Fable's (`CLAUDE.md`, *Which model does which work*). The two-image study
+sheet the body sheet owed was run first, for the walking kind only (the
+sheet's result is recorded under *Ruled 31 October 2026* in the body sheet):
+the arch held as an arch, the nearest Earth reading was a bent worm, and
+both frames failed on the render and the limb tips, which this prompt is
+written against. Same form as §§ 45 and 47: a documentary photograph taken
+inside the world by a 29th-century camera, available light, **16:9
+landscape** at 1200×675 through `import-image.ps1 -MaxEdge 1200` at finish
+strength 1; at work, never posed, the 28 July guardrails met by the work,
+the modesty bar met by the body (nothing is worn; `civilian-dress.md` holds
+nothing for the Spiralites and nothing is invented). No image is generated
+by this entry; the page carries no `image:` until the desktop step runs.
+**Nothing in this frame needs a body decision**: the body is the ruled
+walking kind point for point, and no new organ, limb, covering or mark is
+asked for. The body is Dermot's, and a failed roll of it is a prompt to
+revise, never a reason to change it or to go abstract.
+
+**The frame is the keeping, and the keeping is standing still.** The page's
+one fact about Inner Turn's work is that the inner turn is kept: *A turn goes
+out of tune ... Then it is tuned back, and the tuning takes returns, three at
+the least, because a tuning cannot be heard to have held until the ringing
+has come round and found it still so.* The body sheet gives the walking kind
+the keeping of a turn by its feet, two metres apart, which read the field
+and the ground at both ends of a baseline, so a walking one walks a turn and
+feels where it has gone out of true; and the sheet's trap rule says a limb
+laid on a surface returns a human hand, so the four limbs hang curled and
+touch nothing in a portrait. Those two lines fix the frame: Inner Turn alone
+on the trodden ground of the innermost turn, both feet planted and set wide,
+the bow still, the four limbs curled beneath the crown touching nothing, and
+the helix lit faintly for a moment near one foot, the body sheet's *brighter
+for a moment near one foot*: a pulse being made, which is the only movement
+a human would see in a Spiralite at work. It is the moment between the
+tuning and the return, the keeper listening to whether the tuning has held,
+and the prompt does not name it. Nothing is built, tuned or touched in frame,
+because **what a turn is built of is marked absent on the page** (*What the
+Record Does Not Carry*: *what a turn is built of*) and the body sheet's
+render notes say a prompt names no material: *a curved wall, close, out of
+focus*. **The ringing is not in the frame.** The Carillon is a planet in the
+sky and the turn is an interior, and the account's ringing is in the bands,
+which no camera shows; the frame carries the keeper beside it by the
+stillness and the one faint pulse, and the page's title does the rest. No
+sky, no ring, no planet, no opening onto the night, since whether a turn is
+open to the sky is unestablished and a Carillon in frame would read as the
+Spiralites' light answering it, the resemblance the body sheet's colour
+choice (A) declined.
+
+**The composition is the arch, close, with the far foot leaving the frame.**
+The 24 October rule (part of the body, close, the outline never seen) and
+the body sheet's own angle (*three-quarter from low, so the arch reads as an
+arch and both feet show*) pull in different directions on this body, because
+the arch *is* the body: the study sheet showed that the whole silhouette is
+what keeps the frame from a worm, and a close crop on one foot and a rising
+tube would be the worm. So this frame keeps the arch and gives up the
+outline: a moderate lens at about the height of the crown, three-quarter on
+and a little closer than the study, so that the near foot, the near rise of
+the bow, the crown with its band and all four curled limbs are in frame and
+sharp, and the far side of the bow comes down soft to a far foot cut by the
+frame's edge, the body's whole outline never closed. The curved wall of the
+inner turn passes close behind, out of focus, curving tightly (the account:
+*each turn in is tighter*), and names no material; the trodden ground and
+the wall's curve give the scale, since nothing made is in frame and nothing
+is scaled to a human. **The body is the body sheet's, by structure and
+never by resemblance**: a thick bow of frosted semi-translucent tissue on
+exactly two broad soft elongated feet; exactly four short soft limbs in two
+pairs from the underside of the crown, hydrostats with no digits, each
+ending in a flattened tip folded shut like a closed bud; a band of small dark
+spots flush along the top of the crown; no head, no neck, no face, no eyes,
+no mouth, no front. **The study sheet's failures are answered where they
+started**: the tips are said closed, plain and the limb's own tissue with
+hoof, claw, fingers, nail and a split tip negated by name (both study frames
+drew hooves or fingers); the surface is dry, matte and fine-grained with
+creases where each foot spreads on the ground and the two feet of unequal
+set and girth, under one hard low light from the side, since soft light from
+everywhere made a clay tube (the `vaurel-2` finding and both study frames);
+the space is said full-size with deep focus from the near foot to the wall,
+and a seamless backdrop, a white arch, a tabletop and a miniature are negated
+(study A). **The Earth form is refused by name**, under the body sheet's
+*Traps* and its standard negative: the jellyfish, the deep-sea creature, the
+glass sculpture and the lamp (a lit translucent body is all four at once;
+what beats them is frosted, dry, matte, tinted, with surroundings in frame);
+the worm, slug, caterpillar, snake and cobra (the study's nearest reading); the
+croquet hoop, horseshoe magnet, bridge, archway and walking machine (the arch
+as a thing); and neon, glowing veins and circuitry (the helix as a drawn
+line). **The light and the colour are the world's**: Corryn's star is a
+K-type orange dwarf, the filed `planets/corryn.jpg` and Kessel's frame show
+its day warm and its flora dark coils, and the body sheet puts the walking
+kind's tint between sun and shade; so the light is low warm orange day
+entering from one side through the turn's curve, the dim of the inner turn
+elsewhere, the body carrying all the colour and the ground and wall neutral,
+and the helix faint blue-green beneath the surface, as the colour ruling
+says, brighter only for the moment near one foot. No flora in frame, since
+the turn is an interior and the coils belong to the hillside outside it.
+**The harm is not in the frame**, by the body sheet's tone line: inside the
+inner turn, where the quiet is, bodies are dim and lit briefly, and a
+portrait shows that and never the outer turns' long lit saying. **The
+century's sign** (*Conventions*, 7 October): none is possible here without
+asserting what the page withholds, and none is needed, since the subject is
+a people no camera has photographed and the audit's (A) applies as it did
+for §§ 13 and 14: nothing made in frame but the turn itself, unnamed.
+
+Readings taken for the frame (Fable's, under *Who approves whom*; each his
+to overrule, and none written to the page): **the tint honey-amber at the
+crown shading to pale olive toward the feet**, within the sheet's range for
+the walking kind, since a body that moves between sun and the turn's shade
+is tinted most where the sun reaches it; **the body at the sheet's adult
+scale**, about two metres foot to foot and a little over a metre at the
+crown, which is all the record holds, with no age read from it, since the
+page holds no age in any reckoning; **the helix lit near the foot that is
+nearer the camera**, a soft blur of blue-green a hand's breadth long beneath
+the surface and the rest of the winding barely there, since a pulse is
+*where the speaking is made* and the sheet puts it near one foot; **the
+limbs** all four curled, the near pair a little lower than the far, of
+slightly unequal length, every tip folded shut; **the feet** broad, soft,
+elongated, spread a little where they take the weight, the near foot set
+slightly askew to the far, with fine creases in the frosted tissue where it
+meets the ground; **the ground** dry, trodden, fine-grained and dark, with
+the marks of feet that have passed and nothing else on it; **the wall** a
+curved surface close behind and tightly curved, out of focus, plain, its
+material unreadable, with nothing on it, no opening, no fitting; **the
+light** one hard low warm orange light from off-frame to one side at about
+the height of the crown, the far side of the body and the wall falling into
+warm shadow, nothing in frame showing where it enters; **the camera** a
+moderate lens at crown height, three-quarter on from the near foot's side,
+the near foot and crown sharp and the far side of the bow soft, with depth
+enough that the ground and the wall read as a full-size space and never a
+tabletop; **the only being in frame**, no second Spiralite of any kind, no
+human, no hand, no boot, no instrument. **The pronoun is kept out of the
+prompt**: the record declares none for the Spiralites and the page uses the
+name throughout, so the prompt uses the name and *the body*. **Nothing is
+asserted the page and sheet do not**: no sex, no kin, no age, no office, no
+material, no turn count, no sky, no second kind, no colony, no human
+building, and nothing of how a new one is begun.
+
+**Identity**: the first portrait of this people, so nothing to be told apart
+from; the frame is told apart from the world's two filed pictures
+(`planets/corryn.jpg`, the Carillon over coiled fronds; `oriane-kessel.jpg`,
+the colony's shielding) by being an interior with no sky and no flora. A
+later Spiralite portrait of any kind is told apart from this one by kind,
+tint, place or light, and this frame's honey-amber-to-olive and its lit near
+foot are what a later entry negates.
+
+**If two rounds fail** the Earth-animal test or the photograph test, nothing
+is filed, the page stays bare, and the rounds are recorded here and in
+`image-prompts.md`; a near miss on one or two lines earns the two further
+rounds of 29 October. A failure on the silhouette after the study sheet
+passed it is a geometry question for the critic's table before it is a body
+question, and the body is not changed here in any case.
+
+- **`inner-turn.jpg`** — Spiralite, of the walking kind, Corryn Prime, keeper of the inner turn of a spiral habitat, author of *Beside the Ringing*; *the light in us is not the speaking. It is only where the speaking is made.*
+  > Seen from a standing adult human's eye height, looking a little down from about three paces away, with deep focus so the ground, the body and the wall behind it are all sharp, never a shallow-focus close-up: the body is about two metres from foot to foot and a little over a metre high, and the curved wall rising behind it is many times its height and runs out of the top of the frame, so the frame's scale is a room-sized place and never a tabletop. The four working limbs are short and curled tight up against the underside of the crown, close to the body, not hanging down, so that they read as part of the arch and never as fingers. The surface is dry, matte and frosted like weathered horn or rough sea-glass, with fine grain, small scratches and creases, never smooth, waxy, rubbery or glossy. Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, at work, never posed to camera, nothing that invites the viewer: Inner Turn, a Spiralite of Corryn Prime of the walking kind, a being from another world and not an Earth animal of any kind, standing still on the trodden dry ground of the innermost turn of a spiral habitat, keeping it, with a plain curved wall passing close behind and curving tightly, out of focus. Inner Turn's body is a low soft arch of frosted, semi-translucent tissue, a thick unevenly rounded bow like unpolished amber or sea-glass, honey-amber at the crown shading to pale olive toward the feet, about two metres from foot to foot and a little over a metre high at the crown, its surface matte, fine-grained and dry, not clear, not wet, not glossy. The bow stands on exactly two broad, soft, elongated feet set far apart on the ground, of slightly unequal girth and set a little askew to one another, each spread a little where it takes the weight, with fine creases in the frosted tissue where the foot meets the ground; the bow rises from one foot and comes down to the other with no head, no neck, no face, no eyes, no mouth and no front anywhere on it. From the underside of the crown hang exactly four short soft boneless limbs in two pairs, of slightly unequal length, each a smooth tapering hydrostat with no joints and no digits, every limb ending in a flattened tip folded shut like a closed bud, the same frosted tissue as the limb, closed, plain and rounded, with no split, no hoof, no claw, no fingers, no nail and no narrowing to a point; all four hang curled beneath the crown and touch nothing. Along the top of the crown runs a band of small dark matte spots flush with the surface, easy to miss at first glance. Inside the bow, blurred beneath the frosted surface along its whole length from foot to foot, lies one loose open winding of a few turns, and it shows as a faint blue-green inner glow, soft and dim, barely there along most of its length and brighter for a moment near the foot nearer the camera, a soft blur a hand's breadth long beneath the surface and never a drawn line. The camera is a moderate lens at about the height of the crown, three-quarter on from the near foot's side and close, so that the near foot, the near rise of the bow, the crown with its band and all four curled limbs are in frame and sharp, and the far side of the bow comes down soft to a far foot cut off by the frame's edge, the body's whole outline never closed. The ground is dry, trodden, fine-grained and dark, with the marks of feet that have passed and nothing else on it; the wall behind is a plain curved surface, tightly curved, out of focus, with nothing on it, no opening, no fitting, its material unreadable, and the ground and the wall's curve read as a real full-size space with deep focus from the near foot to the wall and never a tabletop or a miniature. One hard low warm orange light from off-frame to one side at about the height of the crown, the dim of the inner turn elsewhere: the grain of the frosted tissue raked by it, the far side of the body and the wall falling into warm shadow, nothing in frame showing where the light enters, the body carrying all the colour in the frame and the ground and wall neutral and plain. Nobody else in frame, no lamp, no glowing panel, no text; the only light that is not the day's is the body's own, faint. Quiet, exact, still. Natural, full, true-to-life colour and normal exposure: the honey and olive of the body the one colour against the dark ground and the plain wall, the blue-green a faint second beneath it. Photographed, not rendered: real dry frosted tissue with grain, small unevenness and creases at the feet, trodden ground with its marks, a moderate lens close, slight softness toward the corners, fine grain, the small untidy imperfections a real photograph keeps. Negative: a banana, a worm, an inchworm, a caterpillar, a rubber toy, a squeaky toy, a vinyl figure, a seal, a dog, a horse's head, a snout, a face, udders, teats, fingers hanging, a hand, a miniature, a tabletop, tilt-shift, shallow depth of field across the scene, a small creature, jellyfish, deep-sea creature, sea creature, glass sculpture, crystal, ice, resin, lamp, lantern, candle, neon, glowing veins, circuitry, hologram, ghost, spirit; worm, slug, caterpillar, leech, snake, cobra, spring, slinky, snail, ammonite, galaxy; horseshoe magnet, croquet hoop, bridge, archway, arch of stone, handle, walking machine, robot, tripod, metal, rivets, panels; elephant, trunk, hoof, hooves, claw, claws, talons, fingers, fingertips, nails, a split tip, a forked tip, human, humanoid, person, face, head, neck, eyes, mouth, teeth, hands, arms, legs, tentacles with suckers, octopus, squid, insect, spider, crab, hive, swarm; a second Spiralite, a second figure, a column, a disc, a human in frame, a hand, a boot, an instrument; luminous forest, glowing plants, plants, fronds, coils of vegetation, bioluminescent spots in rows, glowing eyes, lit fittings, lamps, screens, cables, readable text, lettering, numerals, glyphs or written characters of any script anywhere in frame; a window, a sky, stars, a planet, rings, a ringed planet, an opening onto the night, a doorway, carved stone, brick, mortar, moss, damp, water, a puddle, a wet floor; a seamless backdrop, a white backdrop, a white arch, a studio, a tabletop, a diorama, tilt-shift, a black void, a dark background; grey, monochrome, desaturated, muted, drab, under-exposed, orange all over, teal and orange grade; glamour lighting, posed to camera. Render negatives: 3D render, CGI, octane render, video-game render, animated film still, creature design, concept art, digital painting, clay or plasticine sculpture, a model, a figurine, a miniature, toy, rubber, plastic sheen, airbrushed, over-smooth surfaces, smooth uniform tubes, waxy, glossy stock photograph. Landscape orientation.
+  - **Attention is the ground.** A body with no face has no gaze to turn off-frame; the 28 July guardrail is met by the work, two feet planted and still, four limbs curled, one faint pulse near a foot, nothing turned to the lens.
+  - **The arch, close, the outline never closed.** The near foot, the near rise, the crown and all four limbs in frame; the far foot cut by the frame's edge. A variation that closes the whole outline at a middle distance is the study sheet again and fails the composition rule; a variation that crops to one foot and a rising tube is the worm and fails the Earth-animal test.
+  - **Two feet, four limbs, every tip shut.** Exactly two feet on the ground and exactly four limbs beneath the crown, in pairs, curled, touching nothing. A tip that splits, hoofs, fingers or narrows to a point fails on sight (both study frames); a limb laid on the ground or against the wall fails as a hand; a fifth limb, a third foot or a limb that reaches the ground fails the count.
+  - **The helix is a blur, lit once.** A faint blue-green blur beneath frosted tissue, brighter for a moment near the near foot and barely there elsewhere. A drawn line, a vein, a circuit, a glow along the whole length or a light that reaches the ground fails as neon and as the outer turns' lit saying, which the tone line keeps out of a portrait.
+  - **The surface is frosted, dry and creased at the feet.** Matte, fine-grained, with grain raked by one hard low light and creases where the feet spread. A waxy or glassy surface, an even tube, soft light from everywhere, a wet gloss or a visible clear interior fails the photograph test (both study frames) or the jellyfish test.
+  - **The place is an interior with no material and no sky.** Trodden ground and a plain curved wall, close and tightly curved, out of focus; nothing on the wall, no opening, no fitting, no plant. A sky, a planet, rings, a doorway, carved or built stone, a material the eye can name, or the coiled flora of the hillside fails, because each asserts something the page marks absent or the body sheet declines. A seamless backdrop, a white arch, a tabletop or a miniature's depth of field fails (study A).
+  - **The filter.** No word here reads as harm out of context: *folded shut*, *spread a little where it takes the weight*, *curled*; *pressed*, *strike*, *hollow* and *cut* are kept out of the positive text except *cut off by the frame's edge*, which is the likeliest trip and is reworded first (*the far foot leaving the frame*) if a request is refused, then the length, one change a round, recording which passed.
+  - **Triage:** first the Earth animal and the hybrid (a worm, slug, snake or caterpillar bent into a loop, a jellyfish or glass body, a hoof, a claw, fingers, a face, a head, a human anywhere fails on sight); then the worn thing and the lit thing (nothing is worn; any lamp, lit fitting, lettering or a glow that is a drawn line fails); then the second figure (a second Spiralite of any kind, a human, a hand, a boot fails); then the counts and the tips (two feet, four limbs in pairs, every tip shut, none touching anything); then the place (a sky, a planet, rings, an opening, a doorway, a nameable material, a plant, a seamless backdrop or a tabletop fails); then the colour (grey, monochrome, orange all over, a black void, or the body not carrying the colour fails); then the photograph test (clay, render, waxy or glassy tube, soft light from everywhere, a miniature's depth of field fails).
+  - **Proposed alt** (to be corrected to the filed frame): *Inner Turn, a Spiralite of the walking kind, standing still on the dark trodden ground of a habitat's innermost turn, a plain curved wall close and soft behind: a thick low arch of frosted semi-translucent tissue, honey-amber at the crown and pale olive toward the feet, on two broad soft feet set wide, four short limbs hanging curled beneath the crown with their tips folded shut, a band of small dark spots along the top, and a faint blue-green glow blurred beneath the surface near the nearer foot, lit low from one side by warm orange light, the far foot leaving the frame.*
+  - **Written 31 October 2026** (Fable); not generated. Two study frames preceded it in the scratchpad (recorded in the body sheet) and neither is sent as a reference, since both are renders and a render reference comes back a render.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only inner-turn` (no reference image); four variations in the first round, two rounds at most, each round changing one or two named things, judged cropped at full size in the triage order above by `image-critic`. **Round one is plain text-to-image on the close arch, not the Blender route**: the study sheet showed the silhouette holds in text-to-image and its failures were surface and tips, which this prompt answers, and Dermot's word of 27 October was *"not convinced that the 3D render is helping with the images"*. If round one's near miss is the tips or the render, round two changes those lines only; if it is the silhouette (the worm), round two tries the body sheet's own angle, lower and a little further back with both feet in frame, before any blockout. If every variation comes back as a render, the second round repeats without change to the body and with the render negatives moved to the front of the negative list. File through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/inner-turn.md` from the filed frame and replace the page's *No portrait is on file and no prompt is written for one; the people have no body sheet in the design notes, and a portrait is owed from one* with the record of the filing (the kind is then stated on the page for the first time, as the body sheet's *Where this goes* says); add the portrait's row under `spiralites` in `scripts/extract-peoples.js` as PR #1420 did; the body sheet's *Where this goes* also owes `planets/corryn.md` its extension in the Archive's voice (the kinds and the world facts the body needs) and `verdani.md` its clarifying clause, both Opus's and not this entry's, landed together or after; land it all as one PR under `pr-landing`. If both rounds fail, record the rounds here and in `image-prompts.md`, leave the page bare, add Inner Turn to the *Waiting for Fable* portrait line in `F:\CLAUDE\TODO.md` as Opus work, and put the next step to Dermot as choices under `people-body-design` with the study frames and the rounds saying whether the body fails or only this frame does; the body is his and is not changed here, and an artist's impression is one of the options then put to him, never chosen here.
+  - **Rounds 1 and 2, 31 October 2026: stopped.** Round 1 (the prompt as written, four variations) read at thumbnail as a rubber toy or a worm bent into an arch, on a shallow-focus diorama floor (rungs 1 and 3). The four working limbs hung down like fingers or udders, and one variation grew a snout. Round 2 (Opus, a rendering revision) set the camera at a standing adult's eye height with deep focus, made the wall many times the body's height for scale, drew the limbs curled tight to the underside and gave the surface weathered horn and grain, with the readings negated by name. It moved little: the same sculpted arch, limbs still hanging as fingers or small hooves, the camera clause ignored. Two text-to-image rounds failed on the same rungs, so the cause is geometry, not wording. Options for Dermot: a Blender blockout of the walking kind; an artist's impression under the 29 October rule (apt in-world, since nobody with standing has visited Corryn and the record holds the people only in pulse recordings); or a review of how the working limbs sit at rest, under `people-body-design`.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
