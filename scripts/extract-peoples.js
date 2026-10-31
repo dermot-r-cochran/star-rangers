@@ -267,9 +267,9 @@ const PEOPLES = [
     },
   },
   {
-    id: "meridian-sapients", name: "Meridian sapients", page: "src/lore/planets/meridian.md", places: null, species: ["Meridian sapient"],
+    id: "meridian-sapients", name: "Meridian sapients", page: "src/lore/meridian-sapients.md", places: null, species: ["Meridian sapient"],
     frame: null, design: null,
-    pageBody: ["src/lore/planets/meridian.md", "The most advanced of Meridian's native crustacean lines are themselves sapient"],
+    pageBody: ["src/lore/meridian-sapients.md", "the most advanced of the world's native crustacean lines"],
     portraits: {
       "second-outwork": { note: "Filed 26 October 2026 (round 3, sixth-course.jpg as body reference; his pick); briefed from the planet page, as Sixth Course was." },
       "sixth-course": { note: "Briefed from the planet page alone, since the record has no species page for Meridian's people." },
