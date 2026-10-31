@@ -630,6 +630,16 @@ one thing that page asks of a description: it says what a human sees, and
 then what is actually there, and marks each point **derived** (with its page)
 or **proposed** (a choice, his).
 
+### Ruled 31 October 2026
+
+Dermot chose the recommended option on each of the section's three choices, the same evening:
+
+1. **Kinds, not stages:** three kin lineages of one people, bound by the people's rule for who is somebody (*"Three kin lineages"*).
+2. **The light:** one blue-green hue in every kind; the kinds differ by body tint (*"One blue-green, three tints"*).
+3. **Inner Turn is of the walking kind** (*"Walking"*). It is the frame for the portrait; nothing is written to the page until a portrait is filed.
+
+Every other point below stays *proposed* until a page needs it. The two-image study sheet is still owed before any prompt of record.
+
 ### What the record already fixes (derived)
 
 Gathered in one place, as the sections above do for the other peoples.
