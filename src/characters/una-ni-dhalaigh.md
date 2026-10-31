@@ -7,6 +7,8 @@ role: "A child of the holding below the tree line at one of Tír na nÓg's two C
 status: Active
 aliases: []
 tags: [human, celtic-union, tir-na-nog, tir-tairngire, conjunction, boundary-zone, holding, child, civilian, season-1-prologue]
+image: "una-ni-dhalaigh.jpg"
+image_alt: "Úna Ní Dhálaigh, a small girl of about eight with dark jaw-length hair, in a cream jumper and dark trousers, standing barefoot beside a made bed with a grey blanket in a plain whitewashed room, her head tipped right back to look at the bare ceiling; through a deep window with a dark timber frame and an open wooden shutter, a small smooth grey drone hangs high over a field and a line of bare trees."
 description: "Mairéad Ní Dhálaigh's daughter, a child of the holding below the tree line at one of Tír na nÓg's two Conjunction sites, whose age the record does not give; on a Conjunction night in the autumn of 2826 UCSD she was sent to bed with the shutter left a hand's width, watched the ceiling come up warmer than the moon and move like river light, heard the humming, and stayed where she had been asked to stay."
 ---
 
