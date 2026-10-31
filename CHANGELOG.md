@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Inner Turn's portrait, an artist's impression** (2026-10-31, `story-bible/images.md` § 48): a survey plate of the Spiralite walking kind, Dermot's pick, filed after two photographic rounds failed. The page now states its kind and says the portrait is a reconstruction.
+
 - **Thavren's ecology and the Ovruhn body sheet** (`story-bible/ecology-design.md`, `story-bible/species-design.md`, 2026-10-31, Fable, at Dermot's *"Yes, all four"*). The ecology note gains a Thavren section, derived from the world's page and the people's: a starlight base taken under a sunless bright sky, sound as the whole web's far channel, fire and rot as its recyclers, with two roles proposed and no creature named. The species note gains the Ovruhn body sheet, consolidating the page and the three filed frames point for point and changing nothing; option B of 29 October, the instruments slung below the forebody, is recorded as his open choice and not taken. Nothing is written to `src/`.
 
 - **The Meridian Sapients get a species page** (`src/lore/meridian-sapients.md`, 2026-10-31, Dermot's choice): the body as their two filed portraits show it, their two channels of speech and what the record does not hold, from the derived points of the new body section only.
