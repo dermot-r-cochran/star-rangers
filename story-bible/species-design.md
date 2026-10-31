@@ -788,6 +788,15 @@ above; nothing from the world, because the world is not on record.
    resting tone is not chosen here; the two cards use violet and teal, and
    either would do. **Alternative:** a wet skin kept moist on a station, on
    the Pelagene pattern. **Recommended: dry.**
+   **The resting form (ruled 31 October 2026, Dermot's *"1"* to the review
+   below).** A body held by fluid pressure and no skeleton settles under its
+   own weight at rest. The central body sags onto the lower tier and
+   spreads, and its outline is uneven, never a clean lens or dome. Wherever
+   the body is not held taut, the skin falls into loose folds and deep
+   creases, at every root and bend and across the slumped mass, whatever the
+   person's age. *Wider than tall* is a proportion of the mass, not a disc.
+   It is a clarification, with no new feature; it writes nothing to `src/`
+   and binds the next prompt and the next blockout.
 
 6. **Life cycle: not on record; nothing proposed.** Sohrel has held one post
    for about three centuries (`sohrel.md`), so a Cerebraun lives at least
