@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Seven new character portraits** (2026-10-31, from the 31 October sweep, `story-bible/images.md` § 46): Agnete Solvang, Benedek Rónai, Nuala Beirne, Mairéad Ní Dhálaigh, Ansel Thale, Hester Quaile and Oren Halsey, each Dermot’s pick from a side-by-side sheet, finished at strength 1. Donncha Ó Laoire, Éilis Ní Mhurchú and Ilse Varga stopped after two rounds failing on the same cause, and Essaran moves to round two; each failure is recorded under its entry. Úna Ní Dhálaigh waits on her mother’s filed frame.
+
 - **Elsha Rootkin quotes the Survey doctrine as the Survey page gives it** (`src/characters/elsha-rootkin.md`, 2026-10-31, Fable, from a critic read of #1593–#1599). The page said the Corps' doctrine is that *a place is rates in the costume of a place*; `src/lore/star-rangers-survey-corps.md` says *terrain is rates wearing the costume of places*, and the line now matches it. Counter-critic: 1 improvement landed; 0 changes withheld; 0 regressions dropped. Nothing else in #1593–#1599 needed a fix.
 
 ## [1.55.0] — 2026-10-30

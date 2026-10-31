@@ -7,6 +7,8 @@ role: "Field Officer, Star Rangers Survey Corps, Archive Branch — the scale de
 status: Active
 aliases: []
 tags: [human, star-rangers, survey-corps, archive-branch, survey-archive, field-officer, threshold-station, archive-pass, deadwater, concordant, membrane, season-1-prologue]
+image: "benedek-ronai.jpg"
+image_alt: "Benedek Rónai, a heavy-set man with cropped greying hair in an olive field uniform, seated at a pale wood desk in a small warm-panelled room with both hands on a thin stack of sheets he is reading; a small pale housing with one indicator sits at the far end of the desk, and a few plain volumes lie on a shelf behind."
 description: "A Field Officer of the Survey Corps' Archive Branch on the scale desk of the 2826 UCSD archive pass at the Survey Archive, Threshold Station, who read the Deadwater platform's twenty-one returns as a run, found the twenty-first with its Zone line left for the Archive, and filled it with the one word the platform had sent and a mark after it, the first zone other than the local one written onto a Survey Archive filing."
 ---
 
