@@ -10,7 +10,7 @@ image_alt: "Designed cover for Verdani: a green plant-humanoid silhouette on a d
 
 A xenobiologist's first Verdani skin sample usually produces the same two-part surprise: it is not skin pigment causing the color, and the organisms causing it are not passengers.
 
-The **Verdani** are a sapient people native to [Verdance](/star-rangers/lore/planets/verdance/), distinguished from every other catalogued species by an obligate symbiotic relationship with **thallenwort** — a photosynthetic microflora that colonizes specialized dermal structures called **kinbeds** from early infancy and remains for life.
+The **Verdani** are a sapient people native to [Verdance](/star-rangers/lore/planets/verdance/), distinguished from every other catalogued species by an obligate symbiotic relationship with a partner that is not a person: **thallenwort**, a photosynthetic microflora that colonizes specialized dermal structures called **kinbeds** from early infancy and remains for life.
 
 ## The Body the Symbiosis Requires
 
