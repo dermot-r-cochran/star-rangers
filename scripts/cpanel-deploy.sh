@@ -65,7 +65,7 @@ DEPLOY_SUBJECT_PREFIX="[star-rangers deploy]"
 # settings via ALT_<id>_* keys, fetched with alt_get() below rather than
 # fixed variable names, since the set of alt domains is dynamic.
 # ---------------------------------------------------------------------------
-CPANEL_USER="sciencef"
+CPANEL_USER="$(id -un)"
 # Empty, not "default", since 2026-07-30: these keys can now be filled in from
 # lib/editions.js by domain, and that requires being able to tell "this clone
 # did not set it" from "this clone set it to the default value". Normalised to

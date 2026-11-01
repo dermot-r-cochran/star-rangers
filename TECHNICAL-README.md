@@ -131,7 +131,7 @@ These production domains are hosted on [iFastNet](https://ifastnet.com/portal/af
 2. Edit `deploy.conf` with values for that clone. Every key but `DOMAIN` is optional; a commented-out or missing key falls back to its default, while a missing `DOMAIN` fails the deploy before anything is built. Example, showing every key at once:
 
 ```bash
-CPANEL_USER=sciencef
+CPANEL_USER=youraccount
 THEME=default
 DOMAIN=fianilchruinne.com
 SITE_NAME=Fian Ilchruinne
@@ -140,8 +140,8 @@ CHARACTERS=aldera,elvira
 TOPICS=boundary,detective-agency
 THREADS=tissadelle-arc
 ADMIN_EMAIL=admin@example.com
-CUSTOM_LORE_FILE=/home/sciencef/custom-lore/exclusive-entry.md
-CUSTOM_CSS_FILE=/home/sciencef/custom-lore/tweaks.css
+CUSTOM_LORE_FILE=/home/youraccount/custom-lore/exclusive-entry.md
+CUSTOM_CSS_FILE=/home/youraccount/custom-lore/tweaks.css
 COMMENTS_ENABLED=true
 ```
 
@@ -151,7 +151,7 @@ COMMENTS_ENABLED=true
 
 | Key | Default | Purpose |
 |---|---|---|
-| `CPANEL_USER` | `sciencef` | Deployment destination: `/home/<CPANEL_USER>/public_html/`. |
+| `CPANEL_USER` | the account the deploy runs as | Deployment destination: `/home/<CPANEL_USER>/public_html/`. |
 | `THEME` | `default` | CSS theme — see "Available themes" below. |
 | `DOMAIN` | `fianilchruinne.com` | Bare domain this clone serves (no scheme, no path, no trailing slash — e.g. `undercover-pets.com`). |
 | `SITE_NAME` | `Fian Ilchruinne` | Brand name shown in the header logo, footer, and homepage heading. |
@@ -174,7 +174,7 @@ COMMENTS_ENABLED=true
 | `GISCUS_CATEGORY_JOURNAL_ID` | *(unset — shared default's ID)* | That repo's "Journal" category ID. Required if `GISCUS_REPO` is set. |
 | `DEPLOY_PRIMARY` | `true` | Set `false` to skip deploying to `/home/<CPANEL_USER>/public_html/` entirely — for an account whose `public_html` is reserved for something else (or left parked) and should only serve one or more `ALT_DOMAINS` below. |
 
-`DOMAIN` has no default: a missing `deploy.conf`, or one without that line, fails the deploy before anything is built (since 2026-10-09, after two clones that fell back to the canonical domain served the canonical site under their own names). Every other key falls back to its default above — that's `CPANEL_USER=sciencef`, `THEME=default`, `SITE_NAME=Fian Ilchruinne`/`SITE_TITLE=Fian-ilchruinne`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@fianilchruinne.com`, no custom lore/CSS, comments on, and the shared default giscus repo.
+`DOMAIN` has no default: a missing `deploy.conf`, or one without that line, fails the deploy before anything is built (since 2026-10-09, after two clones that fell back to the canonical domain served the canonical site under their own names). Every other key falls back to its default above — that's `CPANEL_USER` as the account the deploy runs as, `THEME=default`, `SITE_NAME=Fian Ilchruinne`/`SITE_TITLE=Fian-ilchruinne`, the full unfiltered site (no `CHARACTERS`/`TOPICS`/`THREADS` narrowing), a deploy-log email to `admin@fianilchruinne.com`, no custom lore/CSS, comments on, and the shared default giscus repo.
 
 ### `ALT_DOMAINS` — deploying more than one domain from one clone
 
@@ -328,7 +328,7 @@ Every deploy stamps what it shipped — `git describe --tags --always --dirty`, 
 
 It lands in three places:
 
-- **The deploy email subject** — `[star-rangers deploy] SUCCESS - sciencef - v1.16.0-3-gb4b56f4 - 2026-08-10 18:21:05Z`, so the notification you already receive says what it shipped.
+- **The deploy email subject** — `[star-rangers deploy] SUCCESS - youraccount - v1.16.0-3-gb4b56f4 - 2026-08-10 18:21:05Z`, so the notification you already receive says what it shipped.
 - **`/version.txt`** on every domain, which is the one check that tests the whole chain rather than one link in it:
 
   ```bash

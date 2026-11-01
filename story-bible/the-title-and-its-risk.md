@@ -259,7 +259,7 @@ week's vetting kept converging on:
   sciencefiction.site stays a registered domain of the same edition
   at its original address, consolidating to the canonical once the
   clone redeploys. **Deployed 3 August 2026:** fianilchruinne.com
-  serves from its own new cPanel account (`fianilch`, its own clone,
+  serves from its own new cPanel account (its own clone,
   `DOMAIN=fianilchruinne.com`, explicit ADMIN_EMAIL on a working
   address) — live and self-canonical after a first-deploy saga worth
   its scars: a "system cannot deploy" git-state blocker cured by
@@ -268,7 +268,7 @@ week's vetting kept converging on:
   **Two open loose ends, recorded 3 August 2026, neither urgent:**
   (1) **sciencefiction.site's posture.** Both domains currently serve
   the full site and each self-canonicalises — duplicate content
-  competing in search. Fix is one of: (a) set the sciencef clone's
+  competing in search. Fix is one of: (a) set the sciencefiction.site clone's
   deploy.conf to `DOMAIN=fianilchruinne.com`, so pages served at the
   old address carry canonicals naming the new one (consolidation
   while still serving pages), or (b) a cPanel 301 redirect from

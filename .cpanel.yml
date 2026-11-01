@@ -6,9 +6,9 @@
 # target domain, each pulling this same branch). Since git content is
 # identical across clones, per-domain behavior is selected via a small
 # untracked "deploy.conf" file placed manually in each clone's
-# $REPOSITORY_ROOT, e.g. for undercover-pets.com (cPanel user "undercov"):
+# $REPOSITORY_ROOT, e.g. for undercover-pets.com (cPanel user "petsaccount"):
 #
-#   CPANEL_USER=undercov
+#   CPANEL_USER=petsaccount
 #   THEME=pets
 #   DOMAIN=undercover-pets.com
 #   SITE_NAME=Undercover Pets
@@ -17,27 +17,27 @@
 #   TOPICS=boundary,detective-agency
 #   THREADS=tissadelle-arc
 #   ADMIN_EMAIL=admin@example.com
-#   CUSTOM_LORE_FILE=/home/undercov/custom-lore/undercover-pets-origin.md
-#   CUSTOM_CSS_FILE=/home/undercov/custom-lore/undercover-pets-tweaks.css
+#   CUSTOM_LORE_FILE=/home/petsaccount/custom-lore/undercover-pets-origin.md
+#   CUSTOM_CSS_FILE=/home/petsaccount/custom-lore/undercover-pets-tweaks.css
 #
-# ...or for starquest.site / starquest.online (cPanel user "starques"):
+# ...or for starquest.site / starquest.online (cPanel user "questaccount"):
 #
-#   CPANEL_USER=starques
+#   CPANEL_USER=questaccount
 #   THEME=starquest
 #   DOMAIN=starquest.site
 #
 # ...or for fellowshipoflight.org / fellowshipoflight.site /
-# fellowshipoflight.space (cPanel user "fellowsh"):
+# fellowshipoflight.space (cPanel user "folaccount"):
 #
-#   CPANEL_USER=fellowsh
+#   CPANEL_USER=folaccount
 #   THEME=fellowship
 #   DOMAIN=fellowshipoflight.org
 #
 # DOMAIN is required: since 2026-10-09 the deploy refuses to run without it,
 # because a clone that fell back to the canonical domain built the canonical
 # site and served it under its own name. Every other key is optional; a
-# missing value falls back to CPANEL_USER=sciencef, THEME=default (the plain
-# build with no CSS swap, deployed to /home/sciencef/public_html/), no content
+# missing value falls back to the account the deploy runs as, THEME=default (the plain
+# build with no CSS swap, deployed to that account's public_html/), no content
 # filtering (the full site), and a deployment-log email to admin@<DOMAIN>.
 #
 # ALT_DOMAINS: the one-clone-per-domain model above is still the default,
@@ -50,7 +50,7 @@
 # deploy.conf (DIR and DOMAIN required; THEME/CHARACTERS/TOPICS/THREADS/
 # SITE_NAME/SITE_TITLE/ADMIN_EMAIL/CUSTOM_LORE_FILE/CUSTOM_CSS_FILE all optional,
 # defaulting exactly as their unprefixed counterparts above do), e.g. for
-# undercover-pets.com sharing the "sciencef" account alongside the primary
+# undercover-pets.com sharing the "youraccount" account alongside the primary
 # domain, added as sample-deploy.conf's ALT_DOMAINS example shows:
 #
 #   ALT_DOMAINS="undercoverpets"
