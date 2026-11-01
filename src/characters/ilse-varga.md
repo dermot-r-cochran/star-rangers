@@ -7,6 +7,8 @@ role: "Principal Officer, Star Rangers Music Corps (Xenomusicology branch)"
 status: Active
 aliases: []
 tags: [human, star-rangers, principal, music-corps, xenomusicology, eden, survey-corps, slipwave, tissadelle]
+image: "ilse-varga.jpg"
+image_alt: "Ilse Varga standing alone in a clean pale-grey corridor that curves away out of sight, a few steps from a shut flush door with a line of warm light at its sill, paused with her head turned back over her shoulder toward the door: a compact woman in her forties with short dark auburn hair, in a dark plum-grey high-collared field uniform, a single folded sheet held at her side; a plain sealed housing sits on the wall by the door."
 description: "The Music Corps Principal who heard Slipwave's late set from a back table on Eden's dock circuit in 2825 and recommended its singer to the Xenomusicology college as a Novice — and who wrote down, over fourteen nights, less than a page."
 ---
 

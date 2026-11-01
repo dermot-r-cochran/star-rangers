@@ -7,6 +7,8 @@ role: "Keeper of the holding below a Survey Corps boundary post, on a Celtic Uni
 status: Active
 aliases: []
 tags: [human, celtic-union, si-gaoithe, fairy-wind, boundary-zone, survey-corps, holding, keeper, folk-practice, civilian, season-1-prologue]
+image: "donncha-o-laoire.jpg"
+image_alt: "Donncha Ó Laoire on the threshold of the open back doorway of a long low farmhouse of pale grey sealed stone, a bowl in both hands and his head turned down toward the door: a lean man in his forties with short dark hair, in a dark brown-green field jacket; the dark door stands open outward against the wall, grey heating conduits run along the wall under the eave and down the corner, a folded field drone rests in a cradle on the gable, a brush stands against the wall, and past a smooth yard wall with straw along its foot two goats stand among slim sensor posts in the top field below a slim pale mast, under a faintly violet sky."
 description: "The keeper of the holding below a Survey Corps boundary post on a Celtic Union charter world the record does not name, who keeps three customs his mother kept and claims nothing for them; on a still afternoon in the late autumn of 2826 UCSD his goats went to the far wall for no dog, straw got up off the ground by the gable, and his back door opened outward for one day on hinges hung to open inward."
 ---
 
