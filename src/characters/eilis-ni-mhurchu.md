@@ -7,6 +7,8 @@ role: "Senior Officer, Star Rangers Survey Corps — Senior of a boundary post o
 status: Active
 aliases: []
 tags: [human, celtic-union, star-rangers, survey-corps, senior-officer, boundary-post, boundary-zone, si-gaoithe, fairy-wind, etheric-layer, instrument-drift, season-1-prologue]
+image: "eilis-ni-mhurchu.jpg"
+image_alt: "Éilis Ní Mhurchú standing on the grass above a pale track beside a farm holding, her hands empty at her sides and her head turned down toward a line of straw along the foot of a smooth pale yard wall: a compact brown-skinned woman in her forties with black braids bound at the nape, in the Survey Corps' deep olive field shell with a small barred tab; beyond the wall a low house of pale grey panels with a dark roof, grey conduits and a drone cradle on its gable, slim sensor posts running up the hillside, and a slim pale mast on the ridge under a faintly violet sky."
 description: "The Senior of a Survey Corps boundary post on a Celtic Union charter world the record does not name, Union-born, two years at the post and the one Ranger there certified for Etheric-layer assessment; in the late autumn of 2826 UCSD she watched the strain channel resolve to a place for the first time in her two years, after the event had closed, walked down with the Union's form, found nothing taken, and the next morning logged the one figure in the file without a tolerance."
 ---
 
