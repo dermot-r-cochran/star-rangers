@@ -446,9 +446,13 @@ page needs a temperature.
   the holdings could not have run for generations. That is the ecological
   meaning of the exception, and it belongs to no other world.
 - **It follows that what crosses can cross further** (derived). A compatible
-  web is open both ways to invasion, to grazing pressure from introduced
-  stock, and in principle to disease. Whether any of this has happened is
-  **not established**, and the record should not be made to say it has.
+  web is open both ways to invasion and to grazing pressure from introduced
+  stock. Whether either has happened is **not established**, and the record
+  should not be made to say it has. **Not to disease** (corrected 1 November
+  2026, Dermot: *"No alien predators or viruses are biologically
+  possible"*): infection needs a shared record, and Tír na nÓg's likeness is
+  convergence on a chemistry, not a shared record
+  (`src/lore/what-a-life-is-built-from.md`).
 - **Tides of two periods** (derived, real physics). With two moons the tidal
   range beats between their periods, and is greatest when they pull in line.
   So the flats' widest exposure, the shore feeders' richest hours, cluster

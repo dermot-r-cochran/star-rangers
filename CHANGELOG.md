@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Nothing preys on or infects across biospheres** (`src/lore/what-a-life-is-built-from.md`, `CLAUDE.md`, `story-bible/intake-2026-11-01.md`, `ecology-design.md`, 2026-11-01, Opus, Dermot's *"No alien predators or viruses are biologically possible"*). A clarification: the lore page gains a section saying why no life can prey on or infect a life from another biosphere (a pathogen needs a shared record, a predator a usable body), that it holds on Tír na nÓg, and that chemical injury and predation within a world remain. The story bible no longer derives disease crossing on Tír na nÓg.
+
 ## [1.57.0] — 2026-11-01
 
 The Spiralites are recorded as three kin lineages of one people, and the Verdani page says its symbiont is not a person. Ottoline Farr's page notes that she writes by hand, from her filed portrait. A critic pass over the species, ecology and dress records moves the Spiralite rulings to their own section and corrects several dates and statuses.
