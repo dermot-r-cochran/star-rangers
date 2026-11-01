@@ -1922,14 +1922,16 @@ Inner Turn is, which waits on his choice above.
 
 ### Where this goes
 
-- **Nothing to `src/` now.** When he rules, the kinds land on
-  `planets/corryn.md` as an extension in the Archive's voice, with the world
-  facts the body needs, stated as the record's reading of the account and
-  the system's literature and marked where they are a reading; Inner Turn's
-  page changes its last sentence when a portrait is filed; `civilian-dress.md`'s
+- **Landed 1 November 2026, at Dermot's (A) after the critic read of
+  #1601–#1623:** `planets/corryn.md`'s Spiralite section now carries the
+  ruled facts only, filed as the record's reading: three kin lineages, one
+  people by the people's rule, one blue-green light, the kinds differing by
+  tint, Inner Turn of the walking kind. The proposed world facts above
+  (*What Corryn Prime needs to supply*) and each kind's body stay here until
+  a page needs them. `verdani.md` took its clarifying clause the same day
+  (*a partner that is not a person*). Still owed: `civilian-dress.md`'s
   Spiralite entry and the Spiralite lines of `mind-design.md` and
-  `contact-design.md` take a pointer here; `verdani.md` takes its clarifying
-  clause (Opus's).
+  `contact-design.md` take a pointer here.
 - **The design sheet** (the skill's step 3): run for the walking kind on 31
   October 2026 (*Ruled 31 October 2026* above has the result: the arch held,
   the nearest Earth reading a bent worm, the failures render and tips); the
@@ -2128,8 +2130,9 @@ difference is read as between two persons, as § 41 read it at filing.
    lapping the next toward the rear, matte, scratched and uneven, dwindling
    toward the tail (derived, both frames). They are the *shell* the page's
    percussion is struck against: a person's own back is a sounding surface,
-   and a strike on a neighbour's plates is an address (derived from the page;
-   the use proposed). Proposed: the plates are not shed. They are laid down
+   and a strike on a neighbour's plates is an address (derived: the species
+   page states it, and Dermot kept it and re-marked it derived, his (A) of
+   1 November 2026, after the critic read of #1601–#1623). Proposed: the plates are not shed. They are laid down
    and thickened through a life, as a course is, so the scratches stay and
    an older person is a more scored one; that is why both frames show worn
    armour and no new one. This keeps the Earth animal's moult out of the

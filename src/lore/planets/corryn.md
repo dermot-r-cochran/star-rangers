@@ -35,6 +35,10 @@ Corryn Prime carries diverse biomes dominated by spiral-form flora growing in ma
 
 **They communicate through electromagnetic pulse.** Not as an adjunct to speech — as speech. Their reproduction depends on it too.
 
+**They are three kin lineages of one people.** The record's reading, from the system's own literature and from [Beside the Ringing](/star-rangers/codex/beside-the-ringing/), is that the Spiralites are not one kind of body but three, of descent independent enough to be filed as three [lineages](/star-rangers/lore/cross-biosphere-taxonomy/) of one world, and one people by the people's own rule for who is somebody: a thing which keeps a count is somebody. The rule names no shape, no size and no kind, which is the rule a people of more than one kind would need. Every kind carries the same faint blue-green light where a pulse is made, and the kinds differ in the tint of the body around it. None is a stage of another, none keeps a turn for another, and the record ranks none. [Inner Turn](/star-rangers/characters/inner-turn/) is of the walking kind.
+
+**It is a reading, and is filed as one.** Survey has filed nothing, nobody with standing has met a Spiralite of any kind, and the record holds no size, no lifespan and no account of how three lineages came to be one people. What each kind's body is, beyond the three facts above, is not established.
+
 ## What the Colony Is Doing
 
 **The settlement is a remnant of the Old Imperium**, and everything difficult about Corryn follows from that.
