@@ -31,6 +31,8 @@ The book is the evidence for the temperament. Bramble's three certainties are sm
 
 The record places her nowhere. She is human; it gives no birth, no age, no home habitat or world, and nothing beyond the books and the interviews the annotation quotes. The 2826 UCSD annotation speaks of her in the present, which is the ground for marking her Active; nothing on the record says where she lives or what she is doing in that year.
 
+The one photograph the record holds of her is of her at work, at a plain table with the books beside her, writing by hand. The record notes it without a reading; the annotation does not say whether the hand is habit or method.
+
 ## See also
 
 - [Bramble and the Backwards Key](/star-rangers/codex/bramble-and-the-backwards-key/)
