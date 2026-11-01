@@ -585,7 +585,7 @@ spells correctly and image models do not. Motifs: `rules`, `dissolution`, `none`
   (`story-bible/reference-art/…`) or absolute (a frame in one of the `F:\`
   camera folders):
 
-  > References: `story-bible/reference-art/tissadelle-headmate-2026-08-24.jpg`
+  > References: `story-bible/reference-art/example-reference.jpg`
 
   `--generate` sends them as image parts after the prompt; `--next` and
   `--only` print them so the clipboard loop can attach them by hand. A named
@@ -4591,8 +4591,8 @@ Dermot supplied one generated image in session (a third-party generator; no
 prompt kept),
 first captioned **"Asteria the Sage, codex art"** and reassigned by him in the
 same session, after the Asteria canon mismatch was raised, as **"a headmate of
-Tissadelle"**. Parked at
-`story-bible/reference-art/tissadelle-headmate-2026-08-24.jpg` — nothing ships.
+Tissadelle"**. Parked in `story-bible/reference-art/` until 1 November 2026
+and kept privately since — nothing ships.
 **Unparked 3 September 2026:** Dermot ruled *in-world artist's impression, no
 watermarks or overlaid text*; re-made clean at size from the reference and
 drafted as `src/codex/asteria-the-sage-impression.md` (see *7. Codex art* below
@@ -4702,9 +4702,8 @@ the character page. What each shows and where it lives:
 - **The still**, 1008×1792. A woman with long loose red hair, blue eyes and
   freckles, in a competition-conditioned physique — heavy musculature,
   visible vascularity — in a white halter top and white shorts, barefoot, on
-  a plain grey studio backdrop, smiling to camera. **Byte-identical to a
-  frame already in the private repository's reference material**, found by
-  checksum, so it is not copied here under that repository's hard limit.
+  a plain grey studio backdrop, smiling to camera. **Already kept privately**, so it is not
+  copied here.
 - **Clip dated 13 September 2026**, 15 s, 720×1280. The same figure, clothes
   and backdrop, holding a plank and doing push-ups with a leg raised, to
   camera. Not in either repository; Dermot holds it.
@@ -4735,11 +4734,10 @@ are read the same way: not her. The 7 July clip also carries readable
 signage naming a real city, the *formation-of-star-rangers.jpg* failure in
 motion.
 
-**Why nothing is parked:** the still is the private repository's already;
+**Why nothing is parked:** the still is kept privately already;
 the orphan is in `src/video/` already; and the three clips that are in
 neither repository were put to Dermot as a choice (nowhere here, a frame
-strip each in `reference-art/`, or the private repository in its own
-session) rather than parked by default — `intake-2026-09-18.md`, *Left
+strip each in `reference-art/`, or kept privately) rather than parked by default — `intake-2026-09-18.md`, *Left
 open*, B. The degree of strength the page states is choice A there; the
 recommended and drafted degree needs no image.
 
@@ -4748,7 +4746,7 @@ session, answered in the intake's addendum: decent as a file in a public
 repository, yes; modest enough for *this* site as a picture of *her*, no, on
 the 4 September any-age principle (the deep neckline), her page's *never
 dressed to be looked at*, and the portrait guardrails' *nothing invites the
-viewer*; and moot for filing, since it is the private repository's file. A
+viewer*; and moot for filing, since it is kept privately. A
 re-make through the pipeline — high-necked, at work, attention off-frame — is
 the shape that would clear every bar.
 
@@ -4805,7 +4803,7 @@ under `src/images/codex/`. Dermot's ruling of 3 September on the first case:
   were told about. Register still and watchful, hope in it, no grimness. The
   standing negative is inside the blockquote, with signatures, monograms and
   watermarks added to it, since the reference carries one.
-  References: `story-bible/reference-art/tissadelle-headmate-2026-08-24.jpg`
+  Reference: the supplied headmate image, kept privately since 1 November 2026.
   > A painted portrait in the manner of an artist's impression made from a description rather than a sitting: a woman who appears in her thirties, pale, with loose blue hair and pale blue eyes, in a black hooded cloak worked with fine silver botanical embroidery over dark layered clothing with a belt, standing among bare winter branches at night, three-quarter turn, level gaze past the viewer, still and watchful. Visible brushwork and a limited palette of night blue, black and silver; the branches thin and dissolve into the dark at the edges of the picture as if the painter stopped where the description ran out. Quiet, composed, a little hopeful rather than grim. No readable text, lettering, numerals, signature, monogram, watermark, logo, signage, labels, branding or written characters of any script anywhere in frame; no holograms, projected light, glowing displays, screens, monitors or consoles; no visible lamp, light fitting or bulb; no flat studio backdrop, gradient background, glamour lighting, corporate headshot or posed smiling to camera; no weapons; no drawn frame or border around the picture. 16:9 landscape.
 
 ### 8. Missing portraits — the 7 October 2026 audit (10)

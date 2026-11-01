@@ -18,7 +18,7 @@ const md = [
   "### 5. Missing lore illustrations",
   "",
   "- **`quern.jpg`** — a settlement on a cold world.",
-  "  References: `story-bible/reference-art/tissadelle-headmate-2026-08-24.jpg`, `" + path.resolve(os.tmpdir(), "plate.jpg") + "`",
+  "  References: `story-bible/reference-art/example-reference.jpg`, `" + path.resolve(os.tmpdir(), "plate.jpg") + "`",
   "  > A cold upland at dusk. Landscape orientation.",
   "",
   "- **`plain.jpg`** — nothing attached.",
@@ -32,7 +32,7 @@ test("a References: line is parsed and resolved against the repo root", () => {
   assert.equal(entries.length, 2);
   const [quern, plain] = entries;
   assert.deepEqual(quern.references, [
-    path.resolve(REPO_ROOT, "story-bible/reference-art/tissadelle-headmate-2026-08-24.jpg"),
+    path.resolve(REPO_ROOT, "story-bible/reference-art/example-reference.jpg"),
     path.resolve(os.tmpdir(), "plate.jpg"),
   ]);
   assert.deepEqual(plain.references, []);

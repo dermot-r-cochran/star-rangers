@@ -34,9 +34,9 @@ Two things this does not cover, and both are already recorded below or in
   Gemini/Firefly pipeline.
 - **Supplied reference stills and clips**, which came from whatever Dermot had
   to hand rather than through the pipeline: the two shadow stills and the
-  five-frame strip in `reference-art/` (Grok, 5 September 2026), and
-  `tissadelle-headmate-2026-08-24.jpg` (**a third-party generator** — a fourth tool, and the
-  only file from it). Each is recorded in `images.md` where it was supplied,
+  five-frame strip in `reference-art/` (Grok, 5 September 2026), and the
+  headmate image of 24 August 2026 (**a third-party generator** — a fourth tool, and the
+  only file from it; kept privately since 1 November 2026). Each is recorded in `images.md` where it was supplied,
   and none of them ships. The Grok video orphan they used to sit beside was
   removed from `src/video/` on 18 September 2026 at his instruction.
 
@@ -691,7 +691,7 @@ emblem generator's own rule.
   since Intake 2026-08-24. The Codex-art rulings of the same day apply: card in
   the header, artwork in the body, prospective only.
 
-**Reference:** `story-bible/reference-art/tissadelle-headmate-2026-08-24.jpg`,
+**Reference:** the headmate image (kept privately since 1 November 2026),
 the third-party-generator image Dermot supplied on 24 August (768×1152 as
 supplied, watermarked; the watermark strip was cropped off on 15 October 2026
 and the file is now 768×1032). Sent

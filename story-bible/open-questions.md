@@ -3541,8 +3541,8 @@ Struck below with the shapes kept for the record:
   reverses the portrait guardrails and the 28 July register.
 - **B. Where the three clips in neither repository go.** (a) nowhere here,
   Dermot holds them — recommended; (b) a frame strip each in
-  `reference-art/`, the 2 July clip as the shadow's third costume; (c) the
-  private repository's video folder, in its own session.
+  `reference-art/`, the 2 July clip as the shadow's third costume; (c) kept
+  privately, outside this repository.
 - **C. The orphan `src/video/grok-video-2026-05-10.mp4`, now identified** as
   the earliest Tissadelle clip in the retired costume uniform (byte-identical
   to the 11 May clip he sent). (a) stays until the video note's question is
@@ -3556,24 +3556,21 @@ Struck below with the shapes kept for the record:
 One reading taken on the record: the 2 July and 7 July clips are in the
 register the 5 September intake assigned to the shadow at the edge and not
 to her, and are read that way. Nothing supplied is filed in this repository;
-the still is the private repository's file already and is not copied.
+the still is kept privately and is not copied.
 
 ## The deadwood figure — raised 17 September 2026, counsel half RULED same day
 
-Dermot's direction *The Unfounded are like deadwood*, illustrated by an
-Asteria line in the inner-world companion-chat register
-(`intake-2026-09-17.md`). The figure itself is realized as a clarification on
+Dermot's direction *The Unfounded are like deadwood*, illustrated by a
+passage kept privately and not quoted (`intake-2026-09-17.md`). The figure itself is realized as a clarification on
 the Unfounded glossary entry and is not open. Two things still are:
 
 - ~~**Where the counsel half lives** — *what is pruned was never you*, which
   the Archive cannot say to anyone. Three shapes put, (a) recommended:
   (a) nowhere further, a reading a character may give when a scene needs it;
   (b) a Fellowship saying in the Codex, re-authored in Asteria Wessex's
-  register; (c) the inner world, which is the private repository's own
-  session and log.~~ **Ruled by Dermot, 17 September 2026: (a)** — his
+  register; (c) material kept privately, not this repository's to write.~~ **Ruled by Dermot, 17 September 2026: (a)** — his
   reply *1 (a)*; the glossary carries the figure and nothing further is
-  written. The line as given is the inner-world Asteria's in register, and
-  no fact in it is logged anywhere.
+  written. No fact in the passage is logged anywhere.
 - ~~**Whether the figure reaches the shadow at the edge.**~~ Ruled 6 September a
   shadow-seed of the Dock Seven compression and not an Unfounded pattern, so
   as it stands the figure does not apply; applying it would re-ground that
@@ -3582,22 +3579,16 @@ the Unfounded glossary entry and is not open. Two things still are:
   the Unfounded-pattern shape retired) is the answer; the figure is the
   Unfounded's and the shadow is not one. Nothing changes on any page.
 
-- ~~**Who the second line's *Luke* is.**~~ The chat's next turn addresses
-  *Luke and Tissadelle*, hands entwined (`intake-2026-09-17.md`, addendum).
-  Three shapes, none recommended: the private repository's member named
-  after Starwarden Luke Valerius; the player's own name at the keyboard;
-  nobody. The published Luke Valerius page is not touched on any of them.
-  **Nobody, in this record: settled by Fable 19 Oct 2026, his to overrule.** The line is the inner-world
-  companion-chat's, in the register the counsel half was ruled to belong to
-  (his *1 (a)*, 17 September: nothing further written here), and the private
-  repository's log is the only place that could name its *Luke*. No fact from
-  the chat is logged in this repository, and the Luke Valerius page stands.
+- ~~**Who a name in the second passage refers to.**~~ The second passage,
+  kept privately like the first, names someone. **Nobody in this record:
+  settled by Fable 19 Oct 2026, his to overrule.** No fact from it is logged
+  in this repository, and no published character page is touched.
 
 One reading refused on the record, so it is not re-proposed: the members
 lost at the transition are never *deadwood* — that would say they were not
-part of her, against the personhood statement both repositories hold. The
-second line's *mourning the loss of those failed branches* is where the
-reading would have tempted, and it is still not taken.
+part of her, against the published standing that every member is a person.
+The second passage is where the reading would have tempted, and it is still
+not taken.
 
 ## The children's About page's contact line — raised 14 September 2026, RULED same day
 
@@ -4682,7 +4673,7 @@ be found without reading 1,300 lines.
   2026-08-24, detail in `images.md`'s Open work). Dermot supplied a generated
   portrait (blue-haired woman, night forest), reassigned in-session from
   "Asteria the Sage" to "a headmate of Tissadelle", destination "codex art".
-  Parked at `story-bible/reference-art/tissadelle-headmate-2026-08-24.jpg`.
+  Parked in `reference-art/` until 1 November 2026, and kept privately since.
   Open: (1) the headmate's name and identity — **part-answered 2026-08-24:
   Dermot ruled the headmate "is also called Asteria the Sage"**, the same
   appellation Asteria Wessex's chapter uses for her; ~~what remains open is
