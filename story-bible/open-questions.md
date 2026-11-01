@@ -59,6 +59,58 @@ the bar for him.
 
 ---
 
+## Real astronomy in the record — `ideas.md`, raised by Dermot 1 November 2026, CONSIDERED on Fable the same day; the decisions are his, nothing drafted
+
+Dermot asked whether real exoplanets, astrophysics discoveries, galaxies and
+clusters could enter the story, and sent a candidate list. Each candidate is
+judged in `ideas.md` (*Real astronomy in the record*) against the four
+extension tests of 31 October 2026, with the astronomy verified and the
+list's slips corrected there. Nothing is written to `src/`.
+
+**The hinge** is the 9 October 2026 ruling that the Union's star stays
+unnamed and is *never bound to a catalogue star*, with Tau Ceti and Alpha
+Centauri *private planning only, never on a page*. It forbids a real object
+as the seat of a canon world and leaves open a sky in a scene, a 21st-century
+archive item, a Codex working paper and a reference the Corps reads. Fable's
+recommendation, his to overrule: real astronomy enters **only as skies and
+archive items**, never as Survey findings about real places, since a finding
+about a real world is a canon fact a real telescope can later contradict.
+
+**Open, and his:**
+
+- Whether the Archive says what the Survey found at the near real worlds
+  (Proxima b, TRAPPIST-1, Teegarden's Star b, LHS 1140 b, K2-18 b) or marks
+  them absent; likewise ʻOumuamua, Borisov and 3I/ATLAS, the fast radio
+  bursts, Tabby's Star and Przybylski's Star. Recommended: marked absent, or
+  told only as 21st-century history.
+- Whether any pulsar of the Survey's ephemeris is a real one (PSR B1257+12
+  is the candidate). Binds a canon instrument to a real object.
+- Betelgeuse and Meridian: (A) leave Meridian's direction unfixed; (B) place
+  Halyx where Betelgeuse is a near neighbour in its sky, which fixes a
+  direction for ever; **(C) Betelgeuse as a 21st-century archive item only,
+  recommended**. Never Betelgeuse as Halyx.
+- Whether any real transient (an FRB, a long-period radio transient) is ever
+  set beside a boundary zone, even in a Codex author's voice. Not
+  recommended; refused as fact in any case, since it would be a new
+  mechanism.
+- Whether the record's physics ever takes a side on evolving dark energy
+  (DESI 2025) or the Hubble tension. Recommended: Codex only, as *Weighing
+  the Neighbours* already handles dark matter.
+- Which real asterisms the Union Irish keeps names for (the Pleiades has
+  *An Tréidín* ready), when a scene first needs one.
+
+**Settled by the existing rulings, not reopened here:** Tau Ceti stays off
+every page; Wolds End stays an unidentified galaxy (and cannot be a
+Magellanic Cloud: from there the Milky Way would fill a third of the sky,
+not be *a smudge a farmer can point at*).
+
+**Top picks if he says yes to skies and archive items:** the Pleiades and
+Hyades in a Union sky; the pulsar-timing gravitational-wave background as the
+ephemeris desk's inherited nuisance; the Arecibo message of 1974 as the
+record's oldest courier packet still in flight; K2-18 b as a heritage case
+study of the middle rung; the Bullet Cluster as the objection *Weighing the
+Neighbours* owes. Reasons in `ideas.md`.
+
 ## A Prismeri instructor at the Academy, Essarith — the daily Fable fill of 29 October 2026 — DRAFTED same day on Fable, choices named in the PR
 
 The *A Prismeri on a Corps posting* line of the 14 October worklist below

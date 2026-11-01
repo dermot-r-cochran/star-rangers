@@ -2,6 +2,336 @@
 
 **Open items from this file are indexed in [`open-questions.md`](open-questions.md).**
 
+## Real astronomy in the record — Dermot's question of 1 November 2026, considered on Fable, nothing drafted, his decisions named
+
+Dermot asked whether real exoplanets, astrophysics discoveries, galaxies and
+clusters could be included in the story, and sent a candidate list for
+consideration. This section is the consideration. Nothing below is written to
+`src/`; every candidate is judged against the four extension tests of 31
+October 2026 (`CLAUDE.md`, *When Fable may extend canon lore on its own*),
+and what fails a test or touches a ruling is left to him.
+
+**The ground the question lands on.** Canon names no real star outside the
+Solar System. Every settled world's system is invented or carries its
+people's own name (Halyx, Mannán, Bríd, Trígrian), and the one time a real
+star was in reach the answer was no: the Celtic Union's first star *stays
+unnamed in the record, never bound to a catalogue star*, because *a real
+star's facts are checkable and change, and a recognised name stops a reader
+looking* (Dermot, 9 October 2026, `intake-2026-10-09.md`; Tau Ceti and Alpha
+Centauri are **private planning only, never on a page**). That ruling is the
+hinge of everything below. It forbids one use of real astronomy, the real
+object as the *seat of a canon world*, and leaves four others open:
+
+1. **A sky in a scene.** What a character sees overhead. The honest dark
+   (`src/lore/the-honest-dark.md`) already makes a night sky *a public record
+   that cannot be edited*, and from any Union world within fifty light-years
+   of Sol the constellations are still Earth's.
+2. **A historical archive item from the 21st century CE.** The record
+   already reaches back there (the Subsea Cable Warden Programme, 2041 CE;
+   Underwriters Laboratories), and the Codex may cite real papers by name
+   (24 October 2026).
+3. **A Survey record or a Codex working paper.** *Weighing the Neighbours*
+   (filed 2825) already speaks in the heritage curriculum's terms: rotation
+   curves, lensing in clusters, the afterglow's ripples, eleven centuries of
+   detectors. The register exists.
+4. **A reference the Corps reads rather than counts by.** The pulsar
+   ephemeris is *the phases of a set of named millisecond pulsars*
+   (`timekeeping-and-the-common-record.md`); the pulsars are not yet named.
+
+**Two things the record's own arithmetic forces, and both are his.** First:
+a harmonic corridor averages a light-year a day
+(`civilisation-comparison.md`), so by 2826 every real object within a few
+hundred light-years has been within reach for centuries, and the record
+cannot name Proxima b or TRAPPIST-1 e as *a candidate* the way we do; it
+would have to say what the Survey found there, which is a canon fact about a
+real place that a real telescope could later contradict. The 9 October reason
+applies in full. Second: Tír na nÓg is the one world naturally compatible
+with an unmodified human (a singular exception, 17 October 2026), so any
+real habitable-zone world the record visits was found *not* so. That is
+consistent and even supportive, but each such finding is a claim, and the
+Archive may instead mark the object absent. Which it does is a decision for
+him, per object or per class, and this note does not make it.
+
+### The candidates, judged
+
+Distances are as verified today (1 November 2026) unless marked *not
+re-verified*. Tests: (1) derived not invented, (2) adds without moving
+anything, (3) closes no shadow and gives no remedy, (4) a reader would
+recognise it as already true.
+
+**Exoplanets.**
+
+- *Proxima Centauri b* (4.24 ly; habitable-zone orbit of a flaring red dwarf,
+  found 2016). Within a week's corridor of Sol: the record cannot hold it as
+  unknown. Home: a Survey record of what the nearest star's world is, or a
+  marked absence. Fails (2) and (3) as a canon seat (it settles a real place
+  and gives the *underground settlement* answer a repeatable shape); passes
+  all four as a 21st-century archive item (*the first world found in a
+  habitable zone next door, and the first the Survey reached*). **His**:
+  whether the Archive says what the Survey found, or marks it absent.
+- *TRAPPIST-1* (about 40 ly; seven near-Earth-sized planets; from planet e
+  the star shows a disc about four times the Sun's apparent width). The
+  *neighbours larger than our Moon* line is not in the sources found; the
+  planets are Earth-sized at a few million kilometres, so a close pair would
+  show a disc comparable to or larger than the Moon's, but treat it as
+  unverified. Same standing as Proxima b. The strongest use is a sky: a
+  Pelagene or human survey party under seven moving worlds. Fails (2) if
+  anyone is said to live there.
+- *Barnard's Star b–e* (5.96 ly; four sub-Earth planets of 0.19–0.34 Earth
+  masses, periods 2.3–6.7 days, **confirmed March 2025**, MAROON-X and
+  ESPRESSO; none in the habitable zone). Corrected from the list: *hot*, not
+  habitable, and tiny. Archive item only; nothing to settle. Passes (1)–(4)
+  as history; nothing for a scene.
+- *Teegarden's Star b* (about 12.5 ly; top of the Earth Similarity Index at
+  discovery, 2019, since marginally downgraded). Same standing as Proxima b.
+- *Tau Ceti e/f* (11.9 ly; four **candidates** from 2017, unconfirmed; a
+  debris disc an order of magnitude denser than the Kuiper belt). **Already
+  ruled**: Tau Ceti is the private planning seat of the Union's first world
+  and *never on a page*. Any use of it anywhere else would reverse that by
+  the side door. Refused here; his to reopen.
+- *LHS 1140 b* (about 48 ly; JWST 2024 rules out a thick hydrogen envelope,
+  leaving an ice-covered ocean world, possibly with an open patch facing its
+  star; a tentative nitrogen hint, unconfirmed). The *snowball with a liquid
+  patch* reading is the papers' second scenario, not a finding. Standing as
+  Proxima b. The best texture of the set for *Habitable, for Whom*: a world
+  habitable for a Pelagene under the ice and for nobody on top.
+- *K2-18 b* (124 ly; hycean candidate; a 3-sigma dimethyl sulphide claim of
+  April 2025 that independent reanalyses have not confirmed). Within four
+  months' corridor: the record would know. Its one clean use is as a
+  heritage case study of the **middle rung**: a claim filed one rung above
+  what it had survived (`src/codex/standing-claims.md`), told in a Codex
+  author's voice without saying what the world turned out to be. Passes
+  (1)–(4) as that; fails (3) the moment the Archive says what K2-18 b is.
+- *Kepler-16b* (about 245 ly by parallax; older sources say 200; the first
+  unambiguous circumbinary planet, 2011). The honest dark already has a
+  three-sun world. Low value; a 21st-century archive item at most.
+- *55 Cancri e* (about 41 ly; a lava world with a 0.7-day year; JWST 2024
+  points to a CO/CO₂ atmosphere fed by a magma ocean, not settled). *Weather
+  on Other Worlds* could cite it as weather nobody stands under. Archive
+  item; passes all four as history.
+- *WASP-76b* (iron condensing on the night side, ESPRESSO 2020; distance
+  disputed, about 640 ly or less) and *HD 189733b* (silicate condensates in
+  winds of thousands of kilometres an hour, inferred, not observed; the 2007
+  date not confirmed). Same home as 55 Cancri e. Low value; vivid.
+- *PSR B1257+12* (the first confirmed exoplanets, Wolszczan and Frail, 1992;
+  a 6.2-millisecond pulsar; distance given as 980 or 2,300 ly by different
+  sources, *not re-verified*). This is the one exoplanet item that touches a
+  canon structure: the ephemeris is *named millisecond pulsars*, and this is
+  a real one with a history the heritage curriculum would teach. Naming it
+  among the ephemeris's set would pass (1), (2) and (4); it is (3) that
+  needs his eye, because it binds a canon instrument to a real object whose
+  measured facts change. **His**: whether any ephemeris pulsar is ever real.
+- *Rogue planets* (sunless worlds, found by microlensing from the 2010s). The
+  list offers them as *kin to Tsittak*; the record says otherwise. Tsittak
+  is a few kilometres of nickel-iron in a region flat *by sheer distance from
+  every mass*; a planet is a mass, and would spoil the very quietness the
+  tunnel needs. Kin to the Ilveth's cold dim Sardain and to *Habitable, for
+  Whom*, not to the quiet zone. A rogue world as a settlement with no star is
+  derivable and adds nothing new in physics; passes (1)–(4) as a class. A
+  named real rogue planet does not: nothing is known of any that a scene
+  could use.
+
+**Discoveries.**
+
+- *Fast radio bursts* (FRB 20180916B, a 16.35-day activity cycle, CHIME 2020;
+  host galaxy at redshift 0.034, about 490 Mly) and *long-period radio
+  transients* (GLEAM-X J162759.5-523504.3, 18.18 minutes, in 2018 archival
+  data; ASKAP J1832-0911, 44.2 minutes, radio and X-ray together, *Nature*,
+  May 2025, about 15,000 ly in Scutum; an old magnetar or a magnetised white
+  dwarf, neither comfortable). Real unsolved shadows, and the one thing the
+  list hints at, tying them to boundary zones or fold physics, is **refused
+  as fact**: it would be a new mechanism (3) and would hand a real
+  phenomenon a canon explanation a real telescope could falsify. Two homes
+  pass. A Codex working paper in a heritage astronomer's voice that lists
+  them as the 21st century's open files and says which the Survey has since
+  closed and which it has not, valid for its author; or a line in *Marked
+  Absences*' register. Either way the Archive says what the Survey knows,
+  which is his: eight centuries on, FRBs are either explained or they are a
+  shadow the record keeps. **His, as an option and not a reading**: whether
+  any real transient is ever set beside a boundary zone, even in a Codex
+  author's mouth.
+- *Interstellar objects* (1I/ʻOumuamua, 2017; 2I/Borisov, 2019; 3I/ATLAS,
+  found mid-2025, perihelion 29–30 October 2025 at about 1.36 AU). At a
+  light-year a day the Survey could overtake any of them in a morning. So the
+  record either holds what each one is, or marks it absent, and *the
+  Archive has not been asked* is the available answer for a 21st-century
+  curiosity nobody in 2826 cares about. Archive item; passes all four as
+  history. A quiet joke is available and unsignalled: the first three
+  visitors from outside were catalogued, chased and found to be rock and ice,
+  and the record's word *alien* was never used of them because it was never
+  in doubt that they were not. **His**: whether the record says what they
+  were.
+- *The pulsar-timing gravitational-wave background* (NANOGrav 15-year data
+  set, June 2023; Hellings-Downs correlations at about 3 sigma). Passes
+  (1)–(4) cleanly and is the best-derived item on the list: the Corps keeps
+  an ephemeris of millisecond pulsars, which is exactly the instrument the
+  heritage arrays were, so the Survey's ephemeris desk inherits the
+  background as a known nuisance in its own data. One sentence on the
+  timekeeping page or in a Hester Quaile paper. Moves nothing.
+- *Tabby's Star* (KIC 8462852, about 1,470 ly; irregular dimming, 2015, dust
+  the standing reading) and *Przybylski's Star* (HD 101065, about 356 ly;
+  an abundance pattern nobody has fully explained). Both within reach. Codex
+  heritage files, as for the FRBs; both are shadows a Codex author may list
+  and the Archive need not close. **His**: closed or kept.
+- *Odd radio circles* (ASKAP, 2019 data; rings of about a million light-years
+  around distant galaxies, origin unknown). Too far for any Survey to have
+  closed. Passes all four as a heritage open file in a Codex paper; nothing
+  for a scene.
+- *Betelgeuse* (distance genuinely uncertain: 548 ly, +88/−49, from 2020
+  modelling; 650–724 ly in older and NASA figures. The list's 550–720 is
+  right. The Great Dimming, late 2019 to early 2020, is attributed to a dust
+  clump from the star itself. A companion, named **Siwarha** by the IAU in
+  September 2025, was reported in July 2025 from Gemini North 'Alopeke data,
+  about 1.5 solar masses on a 2,100-day orbit, with a Hubble-seen wake). It
+  lies in Orion at declination +7°, which is visible from every inhabited
+  latitude on Earth. Meridian is *about 700 light-years* out and its
+  direction is on no page, so **nothing in canon puts Meridian anywhere near
+  Betelgeuse, and nothing forbids it**. Three options, all his: (A) leave
+  Meridian's direction unfixed, as now; (B) place the Halyx System where
+  Betelgeuse is a near bright neighbour in Meridian's sky, a derived sky
+  fact that fixes a direction for ever and so moves something (2); (C)
+  nothing to do with Meridian, Betelgeuse as a 21st-century archive item
+  only (the Dimming, the companion), which passes (1)–(4). Never Betelgeuse
+  *as* Halyx; the 9 October reason. And whether Betelgeuse has gone
+  supernova by 2826 is a canon fact about a real star, so the record should
+  not say, which is itself the honest answer: eight hundred years is nothing
+  on its clock.
+- *DESI DR2* (March 2025; a 2.8–4.2 sigma preference for evolving dark
+  energy depending on the supernova sample, 3.1 sigma from BAO and CMB
+  alone, under 5 sigma) and *the Hubble tension*. Heritage cosmology
+  questions. *Weighing the Neighbours* already lets a Gravimetry Desk author
+  say that eleven centuries of detectors caught no dark-matter particle,
+  which is a Codex author's claim about the heritage, not the Archive's. A
+  sibling line on dark energy is available in the same voice and nowhere
+  else: lore saying whether dark energy evolves is a hard-SF assertion about
+  our own universe that a real survey could refute. Codex only; passes
+  (1)–(4) there; **his** whether the record's physics ever takes a side.
+
+**Galaxies and clusters.**
+
+- *Andromeda* (2.5 Mly; the 2025 Helsinki-led *Nature Astronomy* work gives
+  about even odds of a merger within 10 Gyr once the Large Magellanic Cloud
+  is included; the list's figure is right). A merger billions of years off is
+  nothing to a story at 2826; the Archive's *No Galactic Calendar* already
+  says no civilisation has lived a hundredth of a galactic year. Its one
+  fit is a sky: a northern-hemisphere Earth shore, or any Union world, with
+  the smudge overhead. Passes all four as sky; adds little.
+- *The Magellanic Clouds* (about 160,000 and 200,000 ly, *not re-verified*)
+  and *the Sagittarius Dwarf* (being tidally disrupted; the stream traced
+  since the 1990s). Southern skies. From Earth's Irish shore they are below
+  the horizon, which is a derived fact a scene could use the other way: a
+  Ranger from a southern world missing them. **One clash to flag**: New
+  Cotswolds is in the *Wolds End* galaxy, named in-world and never
+  identified, from which the Milky Way is *a smudge a farmer can point at*.
+  That rules out the Clouds as Wolds End (from the LMC the Milky Way fills a
+  third of the sky) and leaves the identification open. Naming Wolds End as
+  a real galaxy is the 9 October question again, with the same answer
+  recommended: leave it unnamed.
+- *Omega Centauri* (a stripped dwarf-galaxy nucleus; seven fast stars in its
+  core imply an intermediate-mass black hole of at least about 8,200 solar
+  masses, Häberle et al., *Nature*, July 2024). About 17,000 ly, *not
+  re-verified*. A heritage finding the Survey could confirm or not; Codex
+  only.
+- *M13 and the Arecibo message* (16 November 1974, three minutes at 2,380
+  MHz, toward M13 at about 22,000–25,000 ly, *not re-verified*). The best
+  derived small thing on the whole list after the pulsar background. In 2826
+  the message is 852 years out of a 22,000-year crossing, and no hull was
+  ever sent after it. It is the record's oldest unanswered courier packet,
+  the one message that travels at the speed of light because nothing faster
+  exists, and it will arrive long after anyone who could answer it. Passes
+  (1)–(4) as a line on the timekeeping or FTL page or in *The Cost of the
+  Crossing*'s company; a quiet joke the record does not signal. One caution:
+  Arecibo is a real institution's instrument, and *Underwriters Laboratories
+  is the one real organisation named*. The message is a historical event
+  and not an organisation in the record, so this does not add a second
+  instance, but the line should name the message and the year, not the
+  observatory as an actor.
+- *The Pleiades* (444 ly) and *the Hyades* (about 150 ly; the list's 153 is
+  close). The strongest sky candidate and the top pick below. Every Union
+  world within fifty light-years of Sol sees them exactly as Ireland does,
+  which is a derived fact and a quietly moving one: the arks' descendants
+  under the same seven sisters. Irish already has *An Tréidín* (the little
+  flock) and *Na Seacht Réaltaí* for the Pleiades, so the Union Irish rule
+  has a word ready without coining one. Passes (1)–(4). Drithane *crossed
+  forty light-years* (S02E03C01), so its sky qualifies; Trígrian at twelve
+  hundred does not, and a scene there could make the point by its absence.
+  **His**: which real asterisms the Union Irish keeps names for.
+- *The Orion Nebula* (about 1,344 ly). A sky object; from Trígrian it would
+  be a different shape or a different place. Passes as sky. Low value alone,
+  good beside Betelgeuse option (C).
+- *Sagittarius A** (imaged by the EHT, released 12 May 2022, from 2017 data;
+  four million solar masses) and *M87** (released 10 April 2019). Heritage
+  landmarks. Sgr A* is also the natural origin of any galactic coordinate
+  frame the ephemeris desk uses, which is derived and already implied.
+  Archive items; pass (1)–(4); add little.
+- *The Bullet Cluster* (the lensing mass offset from the hot gas, 2006). The
+  one real object *Weighing the Neighbours* almost names already: a paper
+  arguing dark matter is the neighbours' weight must answer the Bullet
+  Cluster, and a heritage astronomer would cite it. Codex only, as a cited
+  objection in Halloran's own paper or a reply to it; passes all four there.
+  Recommended if that paper is ever revised.
+- *Laniakea and the Great Attractor* (2014) and *the Boötes Void* (about
+  330 Mly across, *not re-verified*). Cosmography at a scale the record
+  never travels. A single Archive sentence placing the galaxy in Laniakea
+  would pass (1)–(4) and add almost nothing; omit unless a Cerebraun or
+  Archive page wants the frame.
+
+### What was corrected from the list
+
+Barnard's Star's four planets are confirmed (March 2025) but are tiny and
+hot, none habitable. TRAPPIST-1's *neighbours larger than our Moon* was not
+found in any source and is marked unverified. LHS 1140 b's *snowball with a
+liquid patch* is one of two surviving scenarios, not a finding. Betelgeuse's
+distance is contested across 548–724 ly, so the list's range is fair, and
+the companion has a name, Siwarha. DESI's hint runs 2.8–4.2 sigma and the
+authors' own single figure is 3.1. 3I/ATLAS's discovery month was not
+directly confirmed (its orbit solution uses data from May to July 2025);
+perihelion was 29–30 October 2025. The FRB's 16-day cycle is 16.35 days.
+Everything else on the list checked out or is marked *not re-verified*.
+
+### Ranked
+
+1. **The Pleiades and Hyades in a Union sky.** Derived from distance alone,
+   moves nothing, Irish has the name already, and it is the only item that
+   does emotional work: emigrants' descendants under the sky their ancestors
+   left.
+2. **The pulsar-timing background as the ephemeris desk's inherited
+   nuisance.** The one item that follows from a canon instrument rather than
+   sitting beside it; one sentence, Codex or lore.
+3. **The Arecibo message as the record's oldest courier packet still in
+   flight.** Derived from *no signal outruns a hull*, a quiet joke, a
+   historical item needing no Survey finding.
+4. **K2-18 b as the middle rung's heritage case study.** The record already
+   has the doctrine and lacks a textbook example from before the Survey;
+   this is one, so long as the Archive never says what the world is.
+5. **The Bullet Cluster as the objection Halloran's paper owes.** Codex only,
+   and only if *Weighing the Neighbours* is revised or answered.
+
+### The decisions that are his
+
+- **The standing shape**: whether real objects enter at all, and if so
+  whether only as skies and 21st-century archive items (recommended, since
+  that is what the 9 October reason allows) or also as Survey findings about
+  real places.
+- Whether the Archive **says what the Survey found** at the near real worlds
+  (Proxima b, TRAPPIST-1, Teegarden's b, LHS 1140 b, K2-18 b) or **marks
+  them absent**; and the same for ʻOumuamua, Borisov and 3I/ATLAS, the FRBs,
+  Tabby's and Przybylski's stars.
+- Whether any **ephemeris pulsar is a real pulsar** (PSR B1257+12 or
+  another).
+- **Betelgeuse and Meridian**: options (A), (B) or (C) above; (C)
+  recommended.
+- Whether any real transient is ever **set beside a boundary zone**, even in
+  a Codex author's voice. Not recommended; recorded because the list asked.
+- Whether the record's physics ever **takes a side on dark energy**. Codex
+  only is recommended.
+- **Tau Ceti stays off every page** unless he reopens the 9 October ruling;
+  **Wolds End stays unnamed** on the same reasoning.
+- Which **real asterisms the Union Irish keeps names for**, when a scene
+  first needs one.
+
+Indexed in `open-questions.md`, *Real astronomy in the record*.
+
 ## Engineering as the Writing Method — a Journal entry for later, 11 October 2026
 
 Noted at Dermot's choice (*Option 1, note it for later*), not drafted. The
