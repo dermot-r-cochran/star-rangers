@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Grok Director on a second Chrome profile** (`story-bible/video-prompts.md`, 2026-11-01, Dermot's note): from 2 November Director can also be run from a second profile in his Chrome. The note records what is not yet known (its account, its quota, whether the Claude in Chrome extension is connected there) and adds a line to D6's status. Nothing under `src/` changes.
+
 - **Essaran's portrait** (2026-10-31, `story-bible/images.md` § 47): a Cerebraun in the office's own room, round 3, Dermot's pick. It was filed after a body review found the Cerebraun body held and only the framing had failed, and the resting form was clarified in `species-design.md`.
 
 - **Inner Turn's portrait, an artist's impression** (2026-10-31, `story-bible/images.md` § 48): a survey plate of the Spiralite walking kind, Dermot's pick, filed after two photographic rounds failed. The page now states its kind and says the portrait is a reconstruction.

@@ -261,6 +261,16 @@ generating submits from his account (`CLAUDE.md`, *Which model does which
 work*). Download each kept clip with its prompt, and record both here before it
 is filed.
 
+**A second Chrome profile, from 2 November 2026** (Dermot, 1 November 2026,
+verbatim: *"Grok Director should be available on second Chrome profile from
+tomorrow"*). Director can then be run from a second profile in his Chrome as
+well as the first. Not recorded: which Grok account that profile signs in to,
+whether its quota is separate from the first profile's (which resets on
+5 November, D6 below), and whether the Claude in Chrome extension is connected
+there, since the extension acts per profile. A desktop session confirms the
+three before driving Director from it, and says in this file which profile
+each run used.
+
 **Where it stops, measured against this file's own specs:**
 
 - **720p is the ceiling** (480p on the entry tier), against a site whose still
@@ -1239,7 +1249,9 @@ asked, and Director stopped on a question, *What does a Pandoid look like?*,
 offering A (panda-like, round flat face; its own pick), B (bear-like, grey,
 round ears) and C (panda-sloth, long claws). The account's Grok quota was
 spent the same day and resets on **5 November 2026**; nothing has been answered
-or filed. Chosen as the first of three subjects (Stone-First's knock, Donncha's
+or filed. From 2 November Director is also on a second Chrome profile
+(*How it is reached*, above); whether that lets the answer go before 5 November
+depends on that profile's quota, which is not recorded. Chosen as the first of three subjects (Stone-First's knock, Donncha's
 door, Órla Shepherd's walk home) screened that day from all 183 character
 pages for one filmable image that carries a whole arc; Donncha's is already D2.
 
