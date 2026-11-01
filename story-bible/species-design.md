@@ -436,10 +436,11 @@ being the only wealth. The remaining open ends (Sardain's location, the
 star's name, a named individual, a pronoun paradigm) are in
 `open-questions.md` under "Decisions awaiting Dermot".
 
-**And a seventh is drafted, not yet approved** — the Ovruhn of Thavren
+**And a seventh is on the page** — the Ovruhn of Thavren
 (`src/lore/ovruhn.md`, drafted 29 August 2026 from the hybrid-species
-direction after Dermot ruled the convergent-alien reading; draft-and-stop,
-on the branch). Designed by this file's method, and a direct continuation
+direction after Dermot ruled the convergent-alien reading, and live canon
+since; its sheet, consolidated from the page on 31 October 2026, is *Ovruhn —
+the body the page already gives* below). Designed by this file's method, and a direct continuation
 of the 13 August dexterity question above: the world is deep-aired and
 permanently hazed, so sight is short and sound is the far sense, so the
 body is a sounding instrument — hydrostat tendrils for the manipulation
@@ -631,16 +632,6 @@ Sees It* on `src/lore/cross-biosphere-taxonomy.md`. So this section does the
 one thing that page asks of a description: it says what a human sees, and
 then what is actually there, and marks each point **derived** (with its page)
 or **proposed** (a choice, his).
-
-### Ruled 31 October 2026
-
-Dermot chose the recommended option on each of the section's three choices, the same evening:
-
-1. **Kinds, not stages:** three kin lineages of one people, bound by the people's rule for who is somebody (*"Three kin lineages"*).
-2. **The light:** one blue-green hue in every kind; the kinds differ by body tint (*"One blue-green, three tints"*).
-3. **Inner Turn is of the walking kind** (*"Walking"*). It is the frame for the portrait; nothing is written to the page until a portrait is filed.
-
-Every other point below stays *proposed* until a page needs it. **The two-image study sheet was run for the walking kind on 31 October 2026** (Fable, in the scratchpad, two text-to-image frames, no reference, the same dim turn and low orange side light; the other two kinds wait on a page that needs them). The plan's silhouette held: both frames drew a thick frosted olive-amber arch on exactly two broad feet set wide, four limbs hanging curled beneath the crown, a band of dark spots along the top and the helix as a blurred blue-green thread beneath the surface, and neither drew a jellyfish, a lamp, a column or a hoop. The nearest-Earth-thing reading at thumbnail is **a soft worm or slug bent into a loop**, weaker where the two feet and the spot band are read; the first failed rung in both frames is the render (a waxy, even tube under soft light from everywhere, one on a seamless white backdrop at tabletop depth, the other clay-smooth in a stone corner), and the limb tips read as small hooves or curled fingers. Those are prompt failures, not body failures, so the body stands as ruled and the repairs went into the first prompt of record (`images.md` § 48): one hard low light, grain and creases at the feet, unequal girths, the tips said closed and plain with hoof, claw and fingers negated, and deep focus at full scale with the wall and ground giving it.
 
 ### What the record already fixes (derived)
 
@@ -1240,8 +1231,9 @@ drab, 3D render, CGI, clay, toy, glass sculpture.*
 
 **Why.** The Ovruhn were the one people with three filed portraits and no body
 section here: their design has lived only on `src/lore/ovruhn.md` since 29
-August 2026 (the note above, *And a seventh is drafted*, is stale on one word,
-since the page is live canon and has been since that day). The Peoples and
+August 2026 (the note above, *And a seventh is on the page*, said *drafted,
+not yet approved* until 1 November 2026, though the page has been live canon
+since that day). The Peoples and
 Bodies extractor (`scripts/extract-peoples.js`) records the people as
 *designed by its method straight onto the lore page* and points at no sheet.
 This sheet closes that gap by **consolidation only**: every point below is
@@ -1444,18 +1436,20 @@ holds*.
 - **Owed, mechanical, for the landing PR or the next:** `scripts/extract-peoples.js`'s
   Ovruhn entry has `design: null` and a `designNote` saying the people were
   designed straight onto the page; it should point at this heading as the
-  Pelagene and Ollune entries point at theirs, so the Peoples and Bodies
-  artefact shows the sheet. `civilian-dress.md`'s Ovruhn *Surface colour*
-  line says *no Ovruhn has been drawn (the lore image is a card; Vhen has
-  none)*, which is stale since 16 October; its proposed default stands and
-  the parenthesis should name the three filed frames. The note above, *And a
-  seventh is drafted, not yet approved*, should read that the page landed.
+  Pelagene entry points at its own (the Ollune entry, named here on 31
+  October as a second example, has `design: null` too), so the Peoples and
+  Bodies artefact shows the sheet. Still owed, with the portrait `check`
+  rows the pointer then requires for Vhen, Mhoren and Rhuven. `civilian-dress.md`'s Ovruhn *Surface colour*
+  line said *no Ovruhn has been drawn (the lore image is a card; Vhen has
+  none)*, stale since 16 October, and the note above said *drafted, not yet
+  approved*; both were corrected on 1 November 2026 (the critic pass).
 - **His:** option B above, and the frame word, if he wants the taxonomy table
   to carry the people.
 
 ## Spiralites — three kinds of one people, from Corryn Prime (31 October 2026, Dermot's *"design Spiralite bodies of various kinds and colours"*, then *"a symbiotic set of peoples, with commentary strengths, abilities and needs"*)
 
-**Status: proposed, not ruled.** Drafted 31 October 2026 on Fable at Dermot's
+**Status: proposed, with its three choices ruled 31 October 2026 (next
+section).** Drafted 31 October 2026 on Fable at Dermot's
 direction, from the choice Inner Turn's page left open (*the people have no
 body sheet in the design notes, and a portrait is owed from one*; he chose a
 body over the 26 October *no visualization is on record* sentence). His
@@ -1469,6 +1463,16 @@ cited, or from physics applied to one), **proposed** (a choice that fits,
 his to overrule) or **not established** (the record holds nothing, and
 nothing is supplied). Nothing here is written to any `src/` page; the
 sentence on Inner Turn's page changes when a portrait is filed, not now.
+
+### Ruled 31 October 2026
+
+Dermot chose the recommended option on each of the section's three choices, the same evening:
+
+1. **Kinds, not stages:** three kin lineages of one people, bound by the people's rule for who is somebody (*"Three kin lineages"*).
+2. **The light:** one blue-green hue in every kind; the kinds differ by body tint (*"One blue-green, three tints"*).
+3. **Inner Turn is of the walking kind** (*"Walking"*). It is the frame for the portrait; nothing is written to the page until a portrait is filed.
+
+Every other point below stays *proposed* until a page needs it. **The two-image study sheet was run for the walking kind on 31 October 2026** (Fable, in the scratchpad, two text-to-image frames, no reference, the same dim turn and low orange side light; the other two kinds wait on a page that needs them). The plan's silhouette held: both frames drew a thick frosted olive-amber arch on exactly two broad feet set wide, four limbs hanging curled beneath the crown, a band of dark spots along the top and the helix as a blurred blue-green thread beneath the surface, and neither drew a jellyfish, a lamp, a column or a hoop. The nearest-Earth-thing reading at thumbnail is **a soft worm or slug bent into a loop**, weaker where the two feet and the spot band are read; the first failed rung in both frames is the render (a waxy, even tube under soft light from everywhere, one on a seamless white backdrop at tabletop depth, the other clay-smooth in a stone corner), and the limb tips read as small hooves or curled fingers. Those are prompt failures, not body failures, so the body stands as ruled and the repairs went into the first prompt of record (`images.md` § 48): one hard low light, grain and creases at the feet, unequal girths, the tips said closed and plain with hoof, claw and fingers negated, and deep focus at full scale with the wall and ground giving it. *(This subsection sat under the Cerebraun heading from 31 October to 1 November 2026, where PR #1607 had placed it; moved here by the critic pass of 1 November.)*
 
 ### What the record already fixes (derived)
 
