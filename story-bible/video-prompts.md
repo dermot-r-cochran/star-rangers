@@ -261,15 +261,12 @@ generating submits from his account (`CLAUDE.md`, *Which model does which
 work*). Download each kept clip with its prompt, and record both here before it
 is filed.
 
-**A second Chrome profile, from 2 November 2026** (Dermot, 1 November 2026,
-verbatim: *"Grok Director should be available on second Chrome profile from
-tomorrow"*). Director can then be run from a second profile in his Chrome as
-well as the first. Not recorded: which Grok account that profile signs in to,
-whether its quota is separate from the first profile's (which resets on
-5 November, D6 below), and whether the Claude in Chrome extension is connected
-there, since the extension acts per profile. A desktop session confirms the
-three before driving Director from it, and says in this file which profile
-each run used.
+**Connection details are not kept here** (Dermot, 1 November 2026, verbatim:
+*"Some connection details should only be kept locally on the desktop or
+privately within Claude but never in the public GitHub repos"*). Which browser
+profile or account runs which tool, the plan, its limits and when they reset
+are kept on the desktop, not in this file (`CLAUDE.md`, *Connection details
+stay off GitHub*).
 
 **Where it stops, measured against this file's own specs:**
 
@@ -665,8 +662,8 @@ Mirrored into [`open-questions.md`](open-questions.md).
 ## Three clips offered 8 October 2026, written before anything is generated
 
 Dermot's offer, verbatim: *"let me know if short generated video clips would
-also be useful"*, then *"Would you trust Grok to create these videos? I have a
-fixed price subscription and I could open it in Chrome."* The answer given:
+also be useful"*, then *"Would you trust Grok to create these videos? […] I could open it in
+Chrome."* The answer given:
 yes for the two landscapes, with eyes open for the ark, since generators turn
 a spine with its drum. Each is one held shot in the house motion signature,
 derived from its page (and, for the ark, from `starship-design.md`'s sheet A),
@@ -687,7 +684,7 @@ lettered or physically wrong dropped rather than healed. Kept clips go into
 > Slow continuous camera drift, never locked off and never settling. Long unbroken take. Diegetic light only: starlight, moonlight, lightning; nothing glows that would not glow. Matte surfaces, real materials, dust and wear. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. A hull-mounted camera on the still spine of a Currach-era generation ark in deep space, looking aft along the spine: the wide patched drum amidships turns slowly and steadily about the ship's long axis, about one turn in twenty seconds, while the spine, the flat radiator panels and the stars behind stay still. Dull grey hull patched in many greys, no window band, no markings, nothing lit, one far sun lighting it from the side. The drum's turn is the only motion. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms, projected interfaces, glowing UI or floating icons. No lens flares, no light streaks, no volumetric god rays as decoration. No drone flythrough, no crash zoom, no whip pan, no camera passing through solid objects. No jump scares, no sudden movement toward camera, no gore, no horror imagery. No time-lapse clouds, no slow-motion explosion, no hyperspace star streaks. No people, no figures, no vehicles. Not a music-video montage, not a trailer. No engine glow, no glazed cabin, no fins, no lit flank, and the spine must not rotate.
 
 **Run and judged, 8 October 2026.** Grok Imagine from Dermot's Chrome, 720p
-(the plan's ceiling; 1080p refused), 10 s, 16:9, two takes each, frames pulled
+(the highest offered; 1080p refused), 10 s, 16:9, two takes each, frames pulled
 at 0, 3, 6 and 9 s with ffmpeg and read against the lines below. Kept and filed
 in `src/video/` with poster frames, embedded on their pages after the opening
 paragraph:
@@ -744,8 +741,8 @@ name, place, rank, date or vessel enters a film unless the brief names it;
 where the brief says the record is silent, Director invents nothing there and
 the film goes without. A film is an impression (`where-the-record-lives.md`):
 whatever comes back is judged by its brief's line, filed in the Journal at most,
-never linked from a chapter or a lore page, and never adjusts the record. On
-this plan Director cuts at 854×480; it is filed as it comes, not upscaled.
+never linked from a chapter or a lore page, and never adjusts the record.
+Director has cut at 854×480; it is filed as it comes, not upscaled.
 
 **The ring, if a film shows it** (Dermot, 30 October 2026, `intake-2026-10-30.md`).
 A brief that shows *The Long White Trail*'s orbital ring gives Director its
@@ -1243,19 +1240,15 @@ station stays out of frame).
 
 ### D6. The Up-People's First Stone (S11E01C05)
 
-**Status, 29 October 2026: run once, held for the weekly limit.** Version 1,
+**Status, 29 October 2026: run once, held until Director can be run again.** Version 1,
 published 13:28, came back at 7:15 and 37 scenes against the 3 to 4 minutes
 asked, and Director stopped on a question, *What does a Pandoid look like?*,
 offering A (panda-like, round flat face; its own pick), B (bear-like, grey,
-round ears) and C (panda-sloth, long claws). The account's Grok quota was
-spent the same day and resets on **5 November 2026**; nothing has been answered
-or filed. From 2 November Director is also on a second Chrome profile
-(*How it is reached*, above); whether that lets the answer go before 5 November
-depends on that profile's quota, which is not recorded. Chosen as the first of three subjects (Stone-First's knock, Donncha's
+round ears) and C (panda-sloth, long claws). Nothing has been answered or filed. Chosen as the first of three subjects (Stone-First's knock, Donncha's
 door, Órla Shepherd's walk home) screened that day from all 183 character
 pages for one filmable image that carries a whole arc; Donncha's is already D2.
 
-**The answer owed on 5 November, in one round.** Pick **A** and add, on one
+**The answer owed at the next run, in one round.** Pick **A** and add, on one
 line, with no line break (Enter sends in that box):
 
 > A, with these corrections: grey all over, never black and white; no external
