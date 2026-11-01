@@ -59,7 +59,7 @@
 //   REFERENCE IMAGES. An entry may carry a `References:` line among its prose,
 //   before the blockquote, naming image files in backticks:
 //
-//     References: `story-bible/reference-art/tissadelle-headmate-2026-08-24.jpg`
+//     References: `story-bible/reference-art/example-reference.jpg`
 //
 //   Paths are repo-relative or absolute (Dermot's own frames on F:\ qualify -
 //   standing permission of 11 August 2026, recorded in images.md). --generate

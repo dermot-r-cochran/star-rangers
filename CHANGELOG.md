@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Private material is named, never described** (`CLAUDE.md`, `story-bible/intake-2026-09-17.md`, `intake-2026-09-18.md`, `intake-2026-09-28.md`, `intake-2026-10-14.md`, `open-questions.md`, `images.md`, `image-prompts.md`, 2026-11-01, Dermot's option B of the privacy review). The story bible may say that privately held material exists, never quote or describe it. Two quoted chat passages, the private log's numbers, members and rules, and the headmate reference image (`reference-art/`) are removed; the rulings they informed stand as recorded. The Codex impression made from the image is unchanged, and git history keeps the earlier text.
+
 - **Donncha Ó Laoire's portrait, edited** (2026-11-01, `story-bible/images.md` § 46): at Dermot's word that robots may stand in for wooden brooms and farm tools, his brush and his father's tools take the century's form and a yard robot rests by the wall. The rule is recorded in the images.md conventions.
 
 - **Portraits for Donncha Ó Laoire, Éilis Ní Mhurchú and Ilse Varga** (2026-11-01, `story-bible/images.md` § 46, Dermot's picks): the three that stopped after two rounds each. Ilse in the corridor behind the common room, with a pictogram healed out of a wall housing. Donncha and Éilis re-staged twice more after Dermot found the cottage ground anachronistic, now on a holding in the Union's visible-tech idiom from Aethelrock (conduits, a gable drone, sensor-post fencing), with a faint violet haze graded into the shared sky.
