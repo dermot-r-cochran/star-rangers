@@ -4,7 +4,7 @@ title: "What a Life Is Built From"
 category: "Cosmology"
 tags: [biology, heredity, species, cross-biosphere, survey-corps, doctrine, non-humanoid, medical, chemistry]
 description: "Heredity and the body, generalised: the four things any life does — hold a boundary, run a metabolism, keep a record that copies with error, and organise parts into a whole — and the several unrelated ways the record has found each of them done, of which DNA and the cell are one."
-plain: "Every living thing has to keep itself separate from the world, use energy, pass on a record of how to build itself, and organise its parts into a body. Earth life does all four with cells and DNA. Other worlds do them other ways: different molecules carry the record, some bodies are not made of cells at all, and some kinds of inheritance pass on a partner instead of a code. The survey writes down what each life does, not what it is made of."
+plain: "Every living thing has to keep itself separate from the world, use energy, pass on a record of how to build itself, and organise its parts into a body. Earth life does all four with cells and DNA. Other worlds do them other ways: different molecules carry the record, some bodies are not made of cells at all, and some kinds of inheritance pass on a partner instead of a code. Because of this, nothing from one world can catch or hunt a living thing from another. The survey writes down what each life does, not what it is made of."
 image: "what-a-life-is-built-from.jpg"
 image_alt: "Four shallow dishes of dark stone in a row on a frosted grey bench, lit coldly from one side: a loose tangle of pale green glassy filament in the first, a flat disc rimmed with frost in the second, a single clear rounded drop in the third, and in the fourth a chip of grey rock crusted with grey-green growth and one small orange patch."
 ---
@@ -39,6 +39,19 @@ The third requirement is the one Earth biology finds hardest to imagine done oth
 ## A Record Carried Between Stars
 
 A record that copies with error could in principle be carried off its world, frozen in rock or dust, and start again somewhere else. The survey treats this as a matter of distance, and it treats every kind of record the same way, DNA included. The chance that a record survives the crossing and finds ground it can use falls steeply with the distance it has to travel. Between neighbouring star systems the chance is remote, but it is not impossible. Across deep space it becomes so small that the survey does not plan for it. The record holds no confirmed case at any distance. Every biosphere surveyed so far keeps a record of its own, and [Tír na nÓg's](/star-rangers/lore/planets/tir-na-nog/) close likeness to Earth is still filed as convergence, not as a crossing.
+
+## Nothing Hunts or Infects Across Biospheres
+
+The four requirements settle a question every first crew on a new world asks, and the survey states the answer as a finding about biology, not a record of luck: **no life can prey on, or infect, a life from another biosphere.** The record holds no case of either, and the reasons are the ones this page has already given.
+
+- **Infection needs a shared record.** A pathogen of the kind Earth calls a virus carries no copying machinery of its own. It multiplies by having the host's machinery read its record as though it were the host's own, which works only where both records are written in the same molecule and alphabet and read by the same machinery. An agent from one heredity meets, in a body from another, machinery that cannot read it at all. A cellular parasite fares no better: it has to enter a body, live on its chemistry and get past its defences, and each of those steps assumes a body built the way the parasite's own world builds them.
+- **Predation needs a usable body.** A predator hunts for its metabolism. The tissue of a life from another biosphere is built of other molecules, often of the opposite handedness, sometimes in another solvent, and gives a hunter nothing its metabolism can spend, and often something that poisons it. A world's hunters are shaped by that world's prey, and none has been shaped to take another world's people.
+
+This holds on [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/) as well. Its native life converges on Earth's chemistry closely enough to share food and soil with Earth's, and that is the extent of the exception: the likeness is filed as convergence, not a crossing, and a converging chemistry is not a shared record.
+
+Within one biosphere, predators and diseases are as ordinary as they are on Earth: Prismere's [umbral ray](/star-rangers/lore/planets/prismere/) hunts in the Prismeri's own sky. And what stays possible between biospheres is injury, never infection or predation. A compound from one world can still harm a body from another as chemistry does, as an irritant, a toxin or a trigger of an allergic response, as [Krenyi blood on human skin](/star-rangers/lore/krenyi/) does; and a large animal can still hurt someone who startles it or stands in its way.
+
+The predators the record does name across worlds are not biological. The [Unfounded](/star-rangers/glossary/unfounded/) feed on patterns, not bodies, and are filed as [meta-dimensional](/star-rangers/lore/meta-dimensional-beings/); nothing on this page reaches them.
 
 ## The Body Without the Cell
 

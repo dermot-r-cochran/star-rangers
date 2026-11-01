@@ -59,6 +59,10 @@ the bar for him.
 
 ---
 
+## Nothing preys on or infects across biospheres — ruled by Dermot 1 November 2026, LANDED the same day on Opus; one reading his to overrule
+
+*"No alien predators or viruses are biologically possible"* (`intake-2026-11-01.md`). Read as a rule about crossing biospheres, since published canon keeps predators within worlds, and applied on Tír na nÓg too. Both readings are recommendations he may overrule; nothing else is open.
+
 ## Real astronomy in the record — `ideas.md`, raised by Dermot 1 November 2026, CONSIDERED on Fable the same day; the decisions are his, nothing drafted
 
 Dermot asked whether real exoplanets, astrophysics discoveries, galaxies and
