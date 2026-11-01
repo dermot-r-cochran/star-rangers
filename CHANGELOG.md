@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.56.0] — 2026-11-01
+
+Thirteen new portraits land, among them Essaran, Inner Turn as an artist's impression, and Donncha Ó Laoire, Éilis Ní Mhurchú and Ilse Varga after their earlier stops. The Meridian Sapients get a body, an ecology and a species page, and Thavren gains an ecology section beside the Ovruhn body sheet. Private material is now named but never described, connection details and hosting account names leave the public files, and Elsha Rootkin quotes the Survey doctrine as its page gives it.
+
 - **Private material is named, never described** (`CLAUDE.md`, `story-bible/intake-2026-09-17.md`, `intake-2026-09-18.md`, `intake-2026-09-28.md`, `intake-2026-10-14.md`, `open-questions.md`, `images.md`, `image-prompts.md`, 2026-11-01, Dermot's option B of the privacy review). The story bible may say that privately held material exists, never quote or describe it. Two quoted chat passages, the private log's numbers, members and rules, and the headmate reference image (`reference-art/`) are removed; the rulings they informed stand as recorded. The Codex impression made from the image is unchanged, and git history keeps the earlier text.
 
 - **Donncha Ó Laoire's portrait, edited** (2026-11-01, `story-bible/images.md` § 46): at Dermot's word that robots may stand in for wooden brooms and farm tools, his brush and his father's tools take the century's form and a yard robot rests by the wall. The rule is recorded in the images.md conventions.
