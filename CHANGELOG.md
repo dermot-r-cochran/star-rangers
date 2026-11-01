@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Donncha Ó Laoire's portrait, edited** (2026-11-01, `story-bible/images.md` § 46): at Dermot's word that robots may stand in for wooden brooms and farm tools, his brush and his father's tools take the century's form and a yard robot rests by the wall. The rule is recorded in the images.md conventions.
+
 - **Portraits for Donncha Ó Laoire, Éilis Ní Mhurchú and Ilse Varga** (2026-11-01, `story-bible/images.md` § 46, Dermot's picks): the three that stopped after two rounds each. Ilse in the corridor behind the common room, with a pictogram healed out of a wall housing. Donncha and Éilis re-staged twice more after Dermot found the cottage ground anachronistic, now on a holding in the Union's visible-tech idiom from Aethelrock (conduits, a gable drone, sensor-post fencing), with a faint violet haze graded into the shared sky.
 
 - **Connection details stay off GitHub** (`CLAUDE.md`, *Work that needs the desktop*, `story-bible/video-prompts.md`, `image-prompts.md`, `images.md`, `src/video/README.md`, 2026-11-01, Dermot's direction): which browser profile or account runs a tool, the plan, its limits and reset dates are kept on the desktop or privately with Claude, never in a public repository. The current files no longer name browser profiles, the subscription, the quota or its reset date; released changelog sections and git history are left as they are.
