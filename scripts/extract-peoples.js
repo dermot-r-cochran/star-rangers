@@ -273,7 +273,7 @@ const PEOPLES = [
     pageBody: ["src/lore/meridian-sapients.md", "the most advanced of the world's native crustacean lines"],
     portraits: {
       "second-outwork": { note: "Filed 26 October 2026 (round 3, sixth-course.jpg as body reference; his pick); briefed from the planet page, as Sixth Course was." },
-      "sixth-course": { note: "Briefed from the planet page alone, since the record has no species page for Meridian's people." },
+      "sixth-course": { note: "Briefed from the planet page alone, since the record then had no species page for Meridian's people (it has one since 31 October 2026)." },
     },
   },
   {

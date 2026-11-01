@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Critic fixes on #1601–#1623** (`story-bible/species-design.md`, `ecology-design.md`, `civilian-dress.md`, `open-questions.md`, `scripts/extract-peoples.js`, 2026-11-01, Fable, from a Benevolent Critic read). The Spiralite rulings of 31 October, filed under the Cerebraun heading by #1607, move to the Spiralite section and its status line says they are ruled; the Ovruhn note no longer calls `ovruhn.md` an unapproved draft, and `civilian-dress.md` names the three filed Ovruhn frames; Thavren's page is dated 26 October, not 24; the Essaran portrait line no longer says both filed and not generated; the Sixth Course note is in the past tense. Counter-critic: 6 improvements landed; 0 changes withheld; 0 regressions dropped. Nothing in `src/` changes.
+
 ## [1.56.0] — 2026-11-01
 
 Thirteen new portraits land, among them Essaran, Inner Turn as an artist's impression, and Donncha Ó Laoire, Éilis Ní Mhurchú and Ilse Varga after their earlier stops. The Meridian Sapients get a body, an ecology and a species page, and Thavren gains an ecology section beside the Ovruhn body sheet. Private material is now named but never described, connection details and hosting account names leave the public files, and Elsha Rootkin quotes the Survey doctrine as its page gives it.

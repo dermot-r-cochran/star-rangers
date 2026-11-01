@@ -882,7 +882,7 @@ Nothing; Trígrian's page already holds the record's most complete web.
 Written 31 October 2026 on Fable, at Dermot's *"Yes, all four"* to handing the
 owed Thavren and Ovruhn sheets to Fable, under the 31 October rule in
 `CLAUDE.md`, *When Fable may extend canon lore on its own*. Thavren has a
-world page of its own since 24 October (`src/lore/planets/thavren.md`), which
+world page of its own since 26 October (`src/lore/planets/thavren.md`), which
 says it *"adds nothing"* to the people's entry and the two chorus accounts;
 this section is built from those four pages and the one chapter with an
 Ovruhn in it, and it writes nothing to any of them. The row Thavren held in
