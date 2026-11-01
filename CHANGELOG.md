@@ -10,6 +10,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 - **Connection details stay off GitHub** (`CLAUDE.md`, *Work that needs the desktop*, `story-bible/video-prompts.md`, `image-prompts.md`, `images.md`, `src/video/README.md`, 2026-11-01, Dermot's direction): which browser profile or account runs a tool, the plan, its limits and reset dates are kept on the desktop or privately with Claude, never in a public repository. The current files no longer name browser profiles, the subscription, the quota or its reset date; released changelog sections and git history are left as they are.
 
+- **Hosting account names leave the deploy files** (`scripts/cpanel-deploy.sh`, `.cpanel.yml`, `sample-deploy.conf`, `sample-deploy-minimal.conf`, `TECHNICAL-README.md`, `CLAUDE.md`, three story-bible notes, 2026-11-01, Dermot's direction on connection details): the deploy script's fallback for `CPANEL_USER` is now the account it runs as, the same answer on every server, and the samples and docs use placeholders. Each clone's own `deploy.conf` is unchanged.
+
 - **Essaran's portrait** (2026-10-31, `story-bible/images.md` § 47): a Cerebraun in the office's own room, round 3, Dermot's pick. It was filed after a body review found the Cerebraun body held and only the framing had failed, and the resting form was clarified in `species-design.md`.
 
 - **Inner Turn's portrait, an artist's impression** (2026-10-31, `story-bible/images.md` § 48): a survey plate of the Spiralite walking kind, Dermot's pick, filed after two photographic rounds failed. The page now states its kind and says the portrait is a reconstruction.

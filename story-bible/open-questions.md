@@ -3605,7 +3605,7 @@ reading would have tempted, and it is still not taken.
 board** (his *Yes please* to the recommendation, after asking whether the
 site's admin address would help). Not the admin address, which carries the
 deploy mail and is tied to the hosting account; a forwarder,
-`grownups@fianilchruinne.com`, created on the fianilch cPanel account the same
+`grownups@fianilchruinne.com`, created on the fianilchruinne.com cPanel account the same
 evening and pointed where the account's two existing forwarders already
 point. One address for every children's door, since the About is the tier's.
 The second grown-ups paragraph now names it as a mailto link before the
