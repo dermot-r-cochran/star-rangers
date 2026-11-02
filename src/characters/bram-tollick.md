@@ -19,11 +19,13 @@ Bram Tollick keeps a door. The [Casimor watch-post](/star-rangers/lore/planets/k
 
 He has seen the Castle's people all his life. They go by at their hours in the long hall, each the same way each time, seen as light, never answering, and the watch has never had names for them, because the watch keeps no chronicle; the names are the court's, learned on Vellamar by children who have never seen the Castle. When Knight Pellam's youngest came up to the post at the start of a storm season with the first names by heart, he gave her, for the first time in his life, which way each one walks, and she gave him their names. The record holds it in [*The Names Go By* (S13E01C01)](/star-rangers/seasons/s13/e01/s13e01c01/).
 
-The watch keeps a count rather than a record: a notch cut in the door-post for every room a keeper has stood in. The post has more notches than Bram can count, and the last keeper to cut one was his grandmother. Nobody has walked to the end of the Castle. Bram's account of why is the watch's: it has none.
+The watch keeps a count rather than a record: a notch cut in the door-post for every room a keeper has stood in. The post has more notches than Bram can count, and the last keeper to cut one before him was his grandmother. Nobody has walked to the end of the Castle. Bram's account of why is the watch's: it has none.
+
+At the season's first calm his father, handed a sealed instrument of the delegation that the court had let come as far as the keeper decided, gave it to him to place. He and Pellam's youngest went down the right side of the long hall past the furthest notch and found a door standing open where every door of the Castle is shut, with one of the Castle's people standing in the room beyond it. He set the instrument inside the door, against the wall, and cut his first notch that evening, the first since his grandmother's. The record holds it in [*A Door Was Given* (S13E01C02)](/star-rangers/seasons/s13/e01/s13e01c02/).
 
 ## What the Record Does Not Carry
 
-What he thinks the Castle's people are, beyond that they are the Castle's. Whether he has gone further in than the notches. Anything the delegation knows of him, since the delegation has not been to Krilzat.
+What he thinks the Castle's people are, beyond that they are the Castle's. Anything the delegation knows of him, since the delegation has not been to Krilzat.
 
 ## Character Notes
 
