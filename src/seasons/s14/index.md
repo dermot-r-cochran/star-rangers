@@ -17,7 +17,7 @@ permalink: /seasons/s14/
   Below the roof, another year on. Season 14 is the third season of the Below the Roof thread: the Told of <a href="/star-rangers/lore/planets/fliade/">Fliade</a> in the warm deep, in the survey's fourth year on the ground, deciding that the up-people have earned a telling. Written for the child reader.
 </p>
 <p class="page-intro">
-  A season that stands alone: no prior reading required, though a reader of <a href="/star-rangers/seasons/s11/">Season 11</a> and <a href="/star-rangers/seasons/s12/">Season 12</a> will know the line, the stones on it, and the rule that a telling is not yours until somebody has heard it.
+  A season that stands alone, though a reader of <a href="/star-rangers/seasons/s11/">Season 11</a> and <a href="/star-rangers/seasons/s12/">Season 12</a> will know the line, the stones on it, and the rule that a telling is not yours until somebody has heard it.
 </p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (14 | threadForSeason).id }}/">{{ (14 | threadForSeason).name }}</a></p>
 

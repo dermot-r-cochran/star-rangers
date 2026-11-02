@@ -4,7 +4,7 @@ title: "Naiad"
 irish: "Naiad"
 irish_gloss: "borrowed, and avoided in Irish for the same reason as in English"
 id: naiad
-category: "Species / Entities"
+category: "Entities"
 short: "Flow-anchored entities distinct from Krenyi (Quiet-Built). The term Naiad is avoided in species classification to prevent confusion with the Krenyi state-marker Nai."
 related:
   - "Krenyi"
