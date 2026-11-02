@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.58.0] — 2026-11-02
+
+The Ollune history joins the *Histories in their own voices* series, Sildron Drey's letter *Bound In Behind It* enters the Codex, and Season 3 gains *Received*. New pages for Edvin Thorsby and for the Convened of Aphel, a people without individual persons. Made minds gain recorded terms for credited co-writing, retirement, citizenship and rank, and Tír na nÓg's fields are mixed while nothing preys on or infects across biospheres. The monthly site review and several critic passes land their fixes.
+
 - **The Thing That Did Not Fall, the Ollune history in their own voice** (`src/codex/the-thing-that-did-not-fall.md`, `src/characters/vellire.md`, `src/lore/ollune.md`, `story-bible/open-questions.md`, 2026-11-02, Fable, the weekly pass's stage 3c). The fourteenth entry of the *Histories in their own voices* series: an Ollune who marks the passing for a shoal of Freyari cries the history of the held in the far word at a courier hull's flank, from the oldest bearing to the thing that came down and did not fall, and then marks one near word saying the far word was theirs and on what terms to read it. No year in any reckoning; nothing the record leaves open is settled. Vellire's page lands with it, and the Ollune line is struck.
 
 - **Open questions: the 14 October worklist's last line, held** (`story-bible/open-questions.md`, 2026-11-02, Fable, the weekly pass). The one unticked line, the corps and rank of Mira of Brine, Qiren Tal, Sethka Ru and Suvra Kel, is skipped and brought to Dermot as options with a recommendation: its own trigger, a chapter or portrait needing a corps, has not fired, and `species-design.md` marks all four *not established*. Three stale *left open* clauses on the Another Concordant, Sí Gaoithe and Tír Tairngire lines now record the six character pages and the possessive-zone convention that landed in #1560 and #1570. No canon change.
