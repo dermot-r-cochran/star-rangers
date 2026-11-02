@@ -96,7 +96,7 @@ point, the notice form and the Krast passage all check against the record,
 and the one mechanical slip (two quotations in `intake-2026-11-02.md` that
 did not match the page they quote) is corrected in the same PR as this note.
 
-## The predation bar on Tír na nÓg — raised 2 November 2026 by the Benevolent Critic read of #1626–#1631, OPEN for Dermot, nothing changed in `src/`
+## The predation bar on Tír na nÓg — raised 2 November 2026 by the Benevolent Critic read of #1626–#1631, RULED the same day: A (Dermot's *"A: absent, not barred"*); the sentence in `what-a-life-is-built-from.md` narrowed, `CLAUDE.md`'s rule line matched
 
 `src/lore/what-a-life-is-built-from.md` (#1630) bars predation across
 biospheres because a hunter's metabolism cannot use another biosphere's
