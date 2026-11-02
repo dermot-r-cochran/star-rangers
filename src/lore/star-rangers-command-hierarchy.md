@@ -47,7 +47,7 @@ From entry to apex, in order of seniority:
 
 ## Reading Rank at a Glance
 
-Rank is worn as a single mark: a small, hard-edged tab or plate, plain-finished, magnetically seated proud of the surface and visibly removable, never sewn on. The charter's neutrality clause bars anything more — no crest, no world-of-origin flag, no emblem that would let one side of a dispute read the Rangers as the other's. The same tab is worn on a human collar, or on the upper chest where a garment's cut gives the collar no seat, seated on a [Krenyi](/star-rangers/lore/krenyi/) or Serephine shell at the corresponding point, and bolted to a robotic chassis such as Rook-7's hull, so that a rank is read the same way on every body the Corps fields.
+Rank is worn as a single mark: a small, hard-edged tab or plate, plain-finished, magnetically seated proud of the surface and visibly removable, never sewn on. The charter's neutrality clause bars anything more — no crest, no world-of-origin flag, no emblem that would let one side of a dispute read the Rangers as the other's. The same tab is worn on a human collar, or on the upper chest where a garment's cut gives the collar no seat, seated on a [Krenyi](/star-rangers/lore/krenyi/) or Serephine shell at the corresponding point, and would be bolted to a robotic chassis — a hull like Rook-7's, were such a body to hold a Corps rank — so that a rank is read the same way on every body the Corps fields.
 
 What the tab carries is read in three tiers, and the three are not conflated:
 
