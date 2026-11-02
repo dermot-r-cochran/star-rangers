@@ -57,6 +57,22 @@ The *his hearing first* history entries, the owed See-also clauses on
 *Histories in their own voices* section are left as they stand. No line met
 the bar for him.
 
+**Triage of 2 November 2026 (Fable).** The same pass over every line added or
+changed since 26 October, under the same rule. Nothing settled by
+recommendation: the lines of the week were either ruled by him the day they
+were raised or drafted with their choices already named. Four stale lines
+closed against the repository: Inner Turn's portrait (filed 31 October,
+#1612 and #1613), the predation note's *untouched until he chooses* (landed
+2 November, #1646), and the *OPEN* labels on *The militaries* and *Abilities
+are non-linear*, whose bodies had been closed since September. Two more
+*OPEN* labels (*Vigil and the Gendarmerie*, *The uniform, and its
+equivalents*) rewritten as the marked absences their bodies describe. One
+line left for him as it was raised, since it is a reading of his approved
+prose: *The tables Drey asks for*. One left as his own open direction:
+*Real astronomy in the record*, with two of its six sub-items marked as
+answered by standing rules. The 14 October worklist and the *Histories in
+their own voices* section are left as they stand.
+
 ---
 
 ## The tables Drey asks for, 2711 to 2720 — raised 2 November 2026 by the Benevolent Critic read of #1635–#1639, OPEN for Dermot, nothing changed in `src/`
@@ -87,6 +103,17 @@ his to settle.
   entry or in `formation-of-star-rangers.md` saying the hearing closed in
   2720. Not recommended: it makes a canon page move to serve a Codex line.
 
+*Triage 2 November 2026 (Fable):* left his, on the *Sen's years at the desk*
+precedent of 24 October, where a chronology reading in approved prose went to
+him as anchors and he chose. Not a dilemma, so he may simply take (A), but
+the letter is his approved prose of the same day and the two figures carry
+the tenure line (*2711 to the spring of 2720*) as well as the hearing, so the
+reading is his. One narrowing offered under (A): the `location:` field names
+what the syllabus file holds, not what she supplied to the hearing, so it
+may keep *2711 to 2720* while the letter's sentence alone says *2719*; the
+Archive would then hold the fuller tables and she would have bound in the
+shorter ones.
+
 Also noted, no decision asked: the integrity rule in `CLAUDE.md` (#1637, #1638)
 says it binds *the Codex's settled ground*, the same phrase the 1 November
 cross-biosphere rule uses; both read as the facts a Codex author rests on
@@ -114,8 +141,8 @@ no law that none could, **recommended**; (B) keep *holds* and say in the
 sentence that on Tír na nÓg it is a survey finding, not a biological law;
 (C) leave it. The same read narrowed the `CLAUDE.md` rule's *hunts, feeds
 on, parasitises or infects* to *preys on, parasitises or infects*, since
-Earth stock feeding on native pasture is canon; the lore page is untouched
-until he chooses.
+Earth stock feeding on native pasture is canon. ~~The lore page is untouched
+until he chooses.~~ **Ruled A the same day and landed by #1646** (`src/lore/what-a-life-is-built-from.md`, *Nothing Hunts or Infects Across Biospheres*, and the rule line in `CLAUDE.md`); nothing open (triage 2 November 2026).
 
 ## Nothing preys on or infects across biospheres — ruled by Dermot 1 November 2026, LANDED the same day on Opus; two readings his to overrule
 
@@ -161,6 +188,15 @@ about a real world is a canon fact a real telescope can later contradict.
   the Neighbours* already handles dark matter.
 - Which real asterisms the Union Irish keeps names for (the Pleiades has
   *An Tréidín* ready), when a scene first needs one.
+
+*Triage 2 November 2026 (Fable):* the hinge is his, since the question is
+his own direction of 1 November on how far the record binds itself to the
+real sky, and the 9 October ruling answers only the seat of a canon world.
+Two of the six are not decisions now: a real transient beside a boundary
+zone is refused as fact by the rule that nothing gains a new mechanism
+(`CLAUDE.md`, *Hard science fiction by default*), and the asterisms are a
+fill-when-a-scene-needs-one line in the 14 October sense. The other four
+wait on the hinge and go with it.
 
 **Settled by the existing rulings, not reopened here:** Tau Ceti stays off
 every page; Wolds End stays an unidentified galaxy (and cannot be a
@@ -410,13 +446,18 @@ companion (the 14 October rulings); any chapter.
 
 Left open, not decisions:
 
-- **Inner Turn's portrait.** No prompt is written. The Spiralites have no
+- ~~**Inner Turn's portrait.** No prompt is written. The Spiralites have no
   body sheet in `species-design.md` beyond the people's page's one sentence
   (*semi-translucent, with bioluminescent neural structure visible beneath
   the skin*), and a non-humanoid portrait follows a body design
   (`people-body-design`, Opus's), as Essaran's does. If he would rather, the
   page can instead take the 26 October *no visualization is on record*
-  sentence as a decision named per page; the page does not take it now.
+  sentence as a decision named per page; the page does not take it now.~~
+  **Filed 31 October 2026** as an artist's impression (#1612, #1613;
+  `src/images/characters/inner-turn.jpg`, the page's `image_alt` saying so),
+  under the 29 October *When a photograph keeps failing* convention; the
+  Spiralite body sheet is in `species-design.md`, *Spiralites — Corryn
+  Prime*. Nothing owed (triage 2 November 2026).
 - **The See-also line on `halvern-combine.md`.** Not added, since the
   Combine's page lists the case and not the people; `corryn.md` carries the
   link. Owed only if he wants both.
@@ -5850,7 +5891,7 @@ meta-dimensional fauna*) and realized on the Combine and fold-transit pages.
 here means Dock Seven~~ — **both confirmed the same day, twelfth section:
 *Hypefold Combine and Dock 7 confirmed*.**
 
-## Vigil and the Gendarmerie, compared — `intake-2026-09-10.md`, second and third sections — OPEN
+## Vigil and the Gendarmerie, compared — `intake-2026-09-10.md`, second and third sections — nothing open; one marked absence (the *OPEN* label corrected 2 November 2026)
 
 Two comparisons at his ask, canon unmoved. Open from them:
 
@@ -5871,7 +5912,7 @@ Two comparisons at his ask, canon unmoved. Open from them:
 - **Who directs a Five-O inquiry and who issues a Compact warrant** — a marked
   absence until a chapter needs it.
 
-## The uniform, and its equivalents — `intake-2026-09-10.md`, fourth section — OPEN
+## The uniform, and its equivalents — `intake-2026-09-10.md`, fourth section — nothing open; the per-species media are fill-when-a-page-needs-one (the *OPEN* label corrected 2 November 2026)
 
 Ruled 10 September 2026 and realized on the uniform page. Open from it:
 
@@ -5887,7 +5928,7 @@ Ruled 10 September 2026 and realized on the uniform page. Open from it:
   the role and the case, which is the 19 August page's own pattern; the
   Compact sets no requirement beneath it.
 
-## The militaries — `intake-2026-09-10.md`, eleventh section — OPEN
+## The militaries — `intake-2026-09-10.md`, eleventh section — CLOSED (every item ruled 10 September 2026; the *OPEN* label corrected 2 November 2026)
 
 Ruled 10 September 2026 and realized on the rank page and three polity pages.
 ~~That *Solar System Compact* means the Solar System under the Concord's
@@ -6013,7 +6054,7 @@ remark the same evening, *the devil or adversary is not even an Archetype*,
 realized in `unfounded.md`'s no-chief paragraph in the record's tier sense
 of the word; nothing open.
 
-## Abilities are non-linear — `intake-2026-09-18.md`, sixth section — RULED same evening, two items open
+## Abilities are non-linear — `intake-2026-09-18.md`, sixth section — RULED same evening, CLOSED (both items realized; the *two items open* label corrected 2 November 2026)
 
 Dermot: *non-linear intelligence and abilities*, then *mind-design principle
 for non-human sapients*. Realized as a standing section of
