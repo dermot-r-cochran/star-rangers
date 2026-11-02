@@ -184,12 +184,14 @@ recognise it as already true.
   September 2025, was reported in July 2025 from Gemini North 'Alopeke data,
   about 1.5 solar masses on a 2,100-day orbit, with a Hubble-seen wake). It
   lies in Orion at declination +7°, which is visible from every inhabited
-  latitude on Earth. Meridian is *about 700 light-years* out and its
-  direction is on no page, so **nothing in canon puts Meridian anywhere near
-  Betelgeuse, and nothing forbids it**. Three options, all his: (A) leave
-  Meridian's direction unfixed, as now; (B) place the Halyx System where
-  Betelgeuse is a near bright neighbour in Meridian's sky, a derived sky
-  fact that fixes a direction for ever and so moves something (2); (C)
+  latitude on Earth. Neither Meridian's distance nor its direction is on
+  any page (`planets/meridian.md` gives no distance; the *about seven
+  hundred light-years* in the record is Corryn's), so **nothing in canon
+  puts Meridian anywhere near Betelgeuse, and nothing forbids it**. Three
+  options, all his: (A) leave Meridian's distance and direction unfixed, as
+  now; (B) place the Halyx System where Betelgeuse is a near bright
+  neighbour in Meridian's sky, a derived sky fact that fixes a distance and
+  a direction for ever and so moves something (2); (C)
   nothing to do with Meridian, Betelgeuse as a 21st-century archive item
   only (the Dimming, the companion), which passes (1)–(4). Never Betelgeuse
   *as* Halyx; the 9 October reason. And whether Betelgeuse has gone

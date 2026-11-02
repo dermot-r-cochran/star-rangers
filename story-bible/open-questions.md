@@ -59,7 +59,28 @@ the bar for him.
 
 ---
 
-## Nothing preys on or infects across biospheres — ruled by Dermot 1 November 2026, LANDED the same day on Opus; one reading his to overrule
+## The predation bar on Tír na nÓg — raised 2 November 2026 by the Benevolent Critic read of #1626–#1631, OPEN for Dermot, nothing changed in `src/`
+
+`src/lore/what-a-life-is-built-from.md` (#1630) bars predation across
+biospheres because a hunter's metabolism cannot use another biosphere's
+tissue, then says *this holds on Tír na nÓg as well*, giving as its reason
+that a converging chemistry is not a shared record. That reason bars
+infection and says nothing about predation, and on that world the metabolic
+bar is absent for stock and reduced for people by the record's own account:
+the lore page itself says native life *shares food and soil with Earth's*,
+Currach stock graze native pasture, and Union kitchens prepare native food,
+eaten only after careful cooking (`planets/tir-na-nog.md`, *Fields and
+Table*, #1631; `ecology-design.md`, *Compatibility runs both ways*). Options: **(A) narrow the Tír na nÓg sentence to infection and mark
+predation there as absent, not barred**, an additive clause saying the
+record holds no case of native life taking Earth stock or people and states
+no law that none could, **recommended**; (B) keep *holds* and say in the
+sentence that on Tír na nÓg it is a survey finding, not a biological law;
+(C) leave it. The same read narrowed the `CLAUDE.md` rule's *hunts, feeds
+on, parasitises or infects* to *preys on, parasitises or infects*, since
+Earth stock feeding on native pasture is canon; the lore page is untouched
+until he chooses.
+
+## Nothing preys on or infects across biospheres — ruled by Dermot 1 November 2026, LANDED the same day on Opus; two readings his to overrule
 
 *"No alien predators or viruses are biologically possible"* (`intake-2026-11-01.md`). Read as a rule about crossing biospheres, since published canon keeps predators within worlds, and applied on Tír na nÓg too. Both readings are recommendations he may overrule; nothing else is open.
 
@@ -89,10 +110,11 @@ about a real world is a canon fact a real telescope can later contradict.
   told only as 21st-century history.
 - Whether any pulsar of the Survey's ephemeris is a real one (PSR B1257+12
   is the candidate). Binds a canon instrument to a real object.
-- Betelgeuse and Meridian: (A) leave Meridian's direction unfixed; (B) place
-  Halyx where Betelgeuse is a near neighbour in its sky, which fixes a
-  direction for ever; **(C) Betelgeuse as a 21st-century archive item only,
-  recommended**. Never Betelgeuse as Halyx.
+- Betelgeuse and Meridian: (A) leave Meridian's distance and direction
+  unfixed, as no page gives either; (B) place Halyx where Betelgeuse is a
+  near neighbour in its sky, which fixes a distance and a direction for
+  ever; **(C) Betelgeuse as a 21st-century archive item only, recommended**.
+  Never Betelgeuse as Halyx.
 - Whether any real transient (an FRB, a long-period radio transient) is ever
   set beside a boundary zone, even in a Codex author's voice. Not
   recommended; refused as fact in any case, since it would be a new

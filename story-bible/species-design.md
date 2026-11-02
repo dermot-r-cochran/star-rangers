@@ -1461,8 +1461,10 @@ what*); this one was briefed to Fable deliberately, and the record of that
 sits in the PR. Every point is marked **derived** (follows from a page,
 cited, or from physics applied to one), **proposed** (a choice that fits,
 his to overrule) or **not established** (the record holds nothing, and
-nothing is supplied). Nothing here is written to any `src/` page; the
-sentence on Inner Turn's page changes when a portrait is filed, not now.
+nothing is supplied). The three ruled points below are on
+`planets/corryn.md` since 1 November 2026 (#1626), and Inner Turn's
+portrait was filed on 31 October (#1613), when the sentence on that page
+changed; everything else here stays off `src/` until a page needs it.
 
 ### Ruled 31 October 2026
 
@@ -1470,7 +1472,7 @@ Dermot chose the recommended option on each of the section's three choices, the 
 
 1. **Kinds, not stages:** three kin lineages of one people, bound by the people's rule for who is somebody (*"Three kin lineages"*).
 2. **The light:** one blue-green hue in every kind; the kinds differ by body tint (*"One blue-green, three tints"*).
-3. **Inner Turn is of the walking kind** (*"Walking"*). It is the frame for the portrait; nothing is written to the page until a portrait is filed.
+3. **Inner Turn is of the walking kind** (*"Walking"*). It is the frame for the portrait, filed 31 October 2026 (#1613); the point is on `planets/corryn.md` since 1 November (#1626).
 
 Every other point below stays *proposed* until a page needs it. **The two-image study sheet was run for the walking kind on 31 October 2026** (Fable, in the scratchpad, two text-to-image frames, no reference, the same dim turn and low orange side light; the other two kinds wait on a page that needs them). The plan's silhouette held: both frames drew a thick frosted olive-amber arch on exactly two broad feet set wide, four limbs hanging curled beneath the crown, a band of dark spots along the top and the helix as a blurred blue-green thread beneath the surface, and neither drew a jellyfish, a lamp, a column or a hoop. The nearest-Earth-thing reading at thumbnail is **a soft worm or slug bent into a loop**, weaker where the two feet and the spot band are read; the first failed rung in both frames is the render (a waxy, even tube under soft light from everywhere, one on a seamless white backdrop at tabletop depth, the other clay-smooth in a stone corner), and the limb tips read as small hooves or curled fingers. Those are prompt failures, not body failures, so the body stands as ruled and the repairs went into the first prompt of record (`images.md` § 48): one hard low light, grain and creases at the feet, unequal girths, the tips said closed and plain with hoof, claw and fingers negated, and deep focus at full scale with the wall and ground giving it. *(This subsection sat under the Cerebraun heading from 31 October to 1 November 2026, where PR #1607 had placed it; moved here by the critic pass of 1 November.)*
 
