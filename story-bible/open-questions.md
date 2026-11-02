@@ -59,6 +59,43 @@ the bar for him.
 
 ---
 
+## The tables Drey asks for, 2711 to 2720 — raised 2 November 2026 by the Benevolent Critic read of #1635–#1639, OPEN for Dermot, nothing changed in `src/`
+
+*Bound In Behind It* (`src/codex/bound-in-behind-it.md`, his read of 2 November
+2026) asks the instructor to bind in *the directorate's response-time tables for
+2711 to 2720, as I supplied them to the hearing; they are in the hearing
+record*, and its `location:` field names the tables the same way. The hearing
+is dated 2719 UCSD everywhere the record gives it (the timeline entry, S00E02C02's
+`canon_facts`, `formation-of-star-rangers.md`), and ran six months from a start
+the record does not fix; Drey held the directorate to the spring of 2720. So the
+tables she supplied in her nine days of testimony cannot by themselves run to
+2720, and a careful reader who knows the hearing's date will stop on the line.
+Not a single-answer error: a six-month hearing that convened in the second half
+of 2719 ran into 2720, and the record neither says it did nor says it did not.
+UNSUPPORTED, creative entropy, P3; the letter is his approved prose, so it is
+his to settle.
+
+- **(A) Recommended: change the two figures to *2711 to 2719*** (the letter's
+  sentence and the `location:` field), as a clarification of chronology. It is
+  also the more in-character reading: she declines the spring of 2720 in the
+  same letter, and the tables *as I supplied them to the hearing* are the
+  uncontested ones, which end where her testimony did.
+- **(B) Leave it.** The hearing may have run into 2720, and the letter is valid
+  for its author. Cost: the line stays open to the reader's arithmetic, and a
+  later critic may raise it again, which this note is here to answer.
+- **(C) Keep 2720 and fix the hearing's close.** A sentence on the timeline
+  entry or in `formation-of-star-rangers.md` saying the hearing closed in
+  2720. Not recommended: it makes a canon page move to serve a Codex line.
+
+Also noted, no decision asked: the integrity rule in `CLAUDE.md` (#1637, #1638)
+says it binds *the Codex's settled ground*, the same phrase the 1 November
+cross-biosphere rule uses; both read as the facts a Codex author rests on
+rather than the author's slant, and the phrase is left as it stands. Nothing
+else in #1635–#1639 needs his hand: the dates, ranks, bars, the Lagrange
+point, the notice form and the Krast passage all check against the record,
+and the one mechanical slip (two quotations in `intake-2026-11-02.md` that
+did not match the page they quote) is corrected in the same PR as this note.
+
 ## The predation bar on Tír na nÓg — raised 2 November 2026 by the Benevolent Critic read of #1626–#1631, OPEN for Dermot, nothing changed in `src/`
 
 `src/lore/what-a-life-is-built-from.md` (#1630) bars predation across
