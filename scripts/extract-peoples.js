@@ -285,6 +285,17 @@ const PEOPLES = [
     },
   },
   {
+    id: "the-convened", name: "The Convened", page: "src/lore/the-convened.md", places: null, species: ["Convened"],
+    frame: null,
+    design: {
+      heading: "The Convened — a body from Aphel", scope: "body sheet",
+      date: { text: "2 November 2026", quote: "The Convened — a body from Aphel (2 November 2026" },
+      body: "a broad, low dome, an upturned bowl", colour: "ochre and russet, the slits near black",
+    },
+    pageBody: ["src/lore/the-convened.md", "It is a heavy, low, domed animal about the size of a boulder"],
+    portraits: {},
+  },
+  {
     id: "doreth", name: "Doreth", page: "src/lore/planets/aspenar.md", places: null, species: ["Doreth"],
     frame: null, design: null,
     pageBody: ["src/lore/planets/aspenar.md", "the Doreth, a heavy-built, radiation-tolerant people"],
