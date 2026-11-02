@@ -17,7 +17,7 @@ permalink: /seasons/s12/
   Below the roof, a year on. Season 12 is the second season of the Below the Roof thread: the Told of <a href="/star-rangers/lore/planets/fliade/">Fliade</a> in the warm deep, in the survey's third year on the ground, meeting shapes that have no warmth and move no stone. Not murders, just shadows. Written for the child reader.
 </p>
 <p class="page-intro">
-  A season that stands alone: no prior reading required, though a reader of <a href="/star-rangers/seasons/s11/">Season 11</a> will know the line, the two stones on it, and the rule that a telling is settled by who was there.
+  A season that stands alone, though a reader of <a href="/star-rangers/seasons/s11/">Season 11</a> will know the line, the two stones on it, and the rule that a telling is settled by who was there.
 </p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (12 | threadForSeason).id }}/">{{ (12 | threadForSeason).name }}</a></p>
 
