@@ -2523,8 +2523,10 @@ grey, monochrome, desaturated; captions, overlays, date stamps, lettering;
 - **Ruled, his:** the Concord standing, *not yet chartered, because the
   invitation has not been issued in a form the charter can hold* (Dermot's
   *"Yes, agreed"*, 2 November 2026, `intake-2026-11-02.md`).
-- **Open, his** (`open-questions.md`): the pronoun usage on the page; the
-  invitation problem as the first story, which is his to write.
+- **Ruled, his** (2 November 2026): the pronoun. A working is **sel / selm /
+  sels** (`src/glossary/sel.md`), a body *it*, the people *they*.
+- **Open, his** (`open-questions.md`): the invitation problem as the first
+  story, which is his to write.
 - **For the next release:** the Peoples and Bodies artefact gains a row for
   the Convened, read against this section; `scripts/extract-peoples.js` may
   need a rule for a people with no individual persons.
