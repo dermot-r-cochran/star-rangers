@@ -4,7 +4,7 @@ title: "Aphel"
 category: "Locations"
 tags: [aphel, the-convened, survey-world, first-contact, biosphere-planet, locations]
 description: "The home world of the Convened: a planet on a long, stretched orbit round an orange star, which spends most of its year far out in the cold and dark and passes close for one short bright season, so that everything alive on it must finish its year's work before the season closes."
-plain: "Aphel is a planet whose path round its star is a long, stretched loop. For about two years of every two and a half it is far from its star, dark and frozen, and everything alive sleeps in shelter. Then for a few months it swings close, the light grows strong, and everything wakes, eats, digs and stores food before the cold comes back. The Convened live there."
+plain: "Aphel is a planet whose path round its star is a long, stretched loop. For most of every two and a half years it is far from its star, dark and frozen, and everything alive sleeps in shelter. Then for a few months it swings close, the light grows strong, and everything wakes, eats, digs and stores food before the cold comes back. The Convened live there."
 galaxy: "Milky Way"
 locationType: "Planet"
 ---
