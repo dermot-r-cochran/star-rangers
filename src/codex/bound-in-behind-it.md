@@ -13,7 +13,7 @@ description: "Sildron Drey's reply, from Mars in 2724 UCSD, to the Solar Command
 ---
 
 **A REPLY FROM MARS, 2724 UCSD**
-**To:** Commander Ilse Ravndal, instructor in staff method on the officer-track syllabus, Solar Command
+**To:** Commander Hedda Ravndal, instructor in staff method on the officer-track syllabus, Solar Command
 **From:** Sildron Drey, Mars. No commission; no post.
 **Standing:** A private letter, copied into the syllabus file by its recipient at the writer's request. Valid for its author and for nobody else.
 
