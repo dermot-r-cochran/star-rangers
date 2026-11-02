@@ -45,3 +45,10 @@ Promotion boards have noted him eligible for [Senior](/star-rangers/lore/star-ra
 What the record can say of him is what a record is for. In twenty years nothing he has entered has needed correcting, nothing he has signed has been signed over, and no Deputy has left his watch having been told a thing he could not support. The line of 2811 cost him a finding, and the record says so. It cost him nothing else that the record can see.
 
 He would not dispute that the line of 2811 was his. He has never been asked.
+
+## See also
+
+- [Zoe Smith](/star-rangers/characters/zoe-smith/), a Field Officer of the same rank on the same kind of watch
+- [Rank and the Chain of Command](/star-rangers/lore/star-rangers-command-hierarchy/)
+- [Decision-Making and Communication in the Star Rangers](/star-rangers/lore/star-rangers-decision-and-communication/)
+- [Lagrange Points and Fold-Space Transit](/star-rangers/lore/lagrange-fold-points/)
