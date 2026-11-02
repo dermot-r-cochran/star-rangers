@@ -4411,9 +4411,13 @@ built to hold the question, not to answer it.
   constitutive-vs-discretionary, restated. Watch that no page quietly answers
   it by grammar — "Kieme decided" in Archive voice would settle by accident
   what the record refuses to settle by method.
-- **The Arilon–Kieme relation** (queued 2 August, still open) now has one more
+- ~~**The Arilon–Kieme relation** (queued 2 August, still open) now has one more
   constraint to respect: whatever is said there must not resolve the
-  chooser question as a side effect.
+  chooser question as a side effect.~~ — **stale; closed 18 September 2026
+  by PR #813** (see *Cosmology and terminology* above). Corrected 2 November
+  2026, after this line led a survey to list the relation as open. The
+  constraint held: the answer is stated as the tradition's and leaves the
+  chooser question where *Deliberately open* keeps it.
 
 ## Character and backstory — `intake-2026-07-28.md`
 
