@@ -8,7 +8,7 @@ tags: [editorial, craft, process, images, canon]
 
 This is a film about the forty seconds, and nothing in it is true.
 
-That needs saying first. An old woman stands on a terrace above a bay at first light, watching the trail of a spaceplane climb from the end of a rail toward a ring in orbit, and remembers. She was the new deputy on a watch whose two clocks disagreed by forty seconds. She recalibrated them until they agreed to the billionth of a second; they held for two days, and on the third morning the forty seconds were back. She went on to fifty years of other work, Deputy to Chief, and whenever she came back through the station she went to the clocks first, and never once found them agreeing for longer than two days. Now someone young is about to see the forty seconds for the first time.
+That needs saying first. An old woman, Maeve, stands on a terrace above a bay at first light, watching the trail of a spaceplane climb from the end of a rail toward a ring in orbit, and remembers. She was the new deputy on a watch whose two clocks disagreed by forty seconds. She recalibrated them until they agreed to the billionth of a second; they held for two days, and on the third morning the forty seconds were back. She went on to fifty years of other work, Deputy to Chief, and whenever she came back through the station she went to the clocks first, and never once found them agreeing for longer than two days. Now someone young is about to see the forty seconds for the first time.
 
 <video controls preload="none" poster="/star-rangers/video/the-long-white-trail-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
   <source src="/star-rangers/video/the-long-white-trail.mp4" type="video/mp4">
