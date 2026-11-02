@@ -2285,6 +2285,252 @@ design, concept art, clay, toy, rubber suit, plastic sheen, waxy surface.*
 
 ---
 
+## The Convened — a body from Aphel (2 November 2026, Dermot's *"Plan A, the keepers"*, then *"Yes, write it up"*)
+
+**Why.** The open hook was the record's missing people without individual
+personhood (`open-questions.md`, *Decisions awaiting Dermot*, *The shape of
+alien lives*; `src/lore/the-shape-of-a-life.md`, *Persons, Counted
+Otherwise*; `mind-design.md`, *Gender, kinship and the self*, which bars the
+Ollune hold, the Told name, the Ovruhn chorus and the Chthonari deck from
+standing in for it). Dermot chose, from options put to him, each verbatim in
+`intake-2026-11-02.md`: identity held **"In a working"**; **"The invitation
+problem"** as the way the record first meets them; **"A people page
+first"**; the world, **"Brief seasons"**; **"Many bodies, one working"**;
+the body plan, **"Plan A, the keepers"**, studied in three rounds, then
+**"Yes, write it up"**; and the names **"The Convened"** and **"Aphel"**.
+The world was written first (`src/lore/planets/aphel.md`), the body from it.
+Drafted on Opus. Every point is marked **his** (a choice Dermot made on 2
+November), **derived** (follows from a page cited, or from physics applied
+to one) or **proposed** (a choice that fits, his to overrule). A people's
+designed body is on the never-without-Dermot list (`CLAUDE.md`, *When Fable
+may extend canon lore on its own*): the shape is his, and every proposed
+point below waits on his read.
+
+### What the rulings and pages force (derived)
+
+- **No individual persons; a person is a working.** Each body is its own
+  animal; a working is many bodies acting as one person while the task
+  lasts, then animals again and not persons (his, #1 and #5). So the body
+  must be a whole animal on its own, feeding, digging and sheltering alone,
+  and nothing in it may be a part that only makes sense in a group.
+- **Not a hive, not a horror, not a plural system.** `mind-design.md`'s
+  standing rules: plural or shared personhood is written *"never as a
+  disorder, a horror or a hive"*, and no people is filed as a plural mind
+  (rule 5). The CLAUDE.md alien dilemma ranks *space monsters* the worse
+  failure; the Unfounded are the only villains. So the body is never
+  menacing, never massed as a swarm in a picture, and has no organ that
+  links bodies.
+- **No telepathy and no new physics** (hard SF, CLAUDE.md). The working is
+  coordinated through the work itself (stigmergy, the mound-builder's
+  principle): each body reads the half-made den or channel and adds to it.
+  So the body needs senses that read a made thing at close range (touch, a
+  small eye) and nothing that signals at a distance. This also keeps the
+  working distinct from the Ovruhn chorus and from the Told's tellings.
+- **Not on the human frame, not a metazoan** (`what-the-record-refuses.md`;
+  `cross-biosphere-taxonomy.md`). Its frame on the taxonomy is **not
+  established**; nothing below needs it.
+- **It works the ground.** The season's work is dens, meltwater channels and
+  stores (the brief accepted with the world). So the body digs.
+
+### What Aphel derives (physics applied to `planets/aphel.md`)
+
+- **What kills is being caught awake in the open at the close.** So
+  everything stores fast, shelters and goes still. A large animal that
+  stores fast carries its store in its body; a heavy, low, rounded body has
+  the least skin for its bulk and loses heat slowest (the square-cube law).
+- **Shelter is a den in a bank.** So the body is a digger, and its digging
+  tools are at the front, where the bank is.
+- **The open-season light is near Earth's and brief.** A dark surface takes
+  light as warmth (the Ollune cap's principle). But a dark bare surface also
+  radiates heat into a dark sky. So the dark skin must be coverable: open in
+  the bright months, shut for the dark.
+- **The ground is frozen most of the year and soft for a few months.** A
+  body that moves little and close to the ground, and a working that is
+  local, fit a world where travel is costly and the season short.
+
+### Aphel's orbit, worked (proposed numbers; none is on the page as a number except where stated)
+
+Chosen so the page's sentences are defensible, and so the long dark is
+orbital mechanics and nothing else. The star is an orange dwarf of
+luminosity **L = 0.4 L☉** and mass **M = 0.8 M☉**; the year **P = 2.5
+standard years**; the eccentricity **e = 0.6**.
+
+- **Semi-major axis**, Kepler's third law in solar units: a³ = M·P² = 0.8 ×
+  6.25 = 5.0, so **a ≈ 1.71 AU**.
+- **Near and far points:** q = a(1 − e) ≈ **0.684 AU**; Q = a(1 + e) ≈
+  **2.736 AU**. Q/q = (1 + e)/(1 − e) = **4** (the page's *four times
+  further out*). The page's *a little over two-thirds as far as Earth is
+  from the Sun* is q ≈ 0.68 AU.
+- **Speed:** by Kepler's second law, angular momentum r·v is the same at
+  both apsides, so v_q/v_Q = Q/q = **4** (the page's *four times as fast*).
+- **Light:** flux S = L/r² in Earth units. At q, 0.4/0.468 ≈ **0.855 S⊕**
+  (*not far short of Earth's*). At Q, 0.4/7.49 ≈ **0.053 S⊕**. Ratio (Q/q)²
+  = **16** (*a sixteenth*). Annual mean L/(a²√(1 − e²)) = 0.4/(2.924 × 0.8)
+  ≈ **0.171 S⊕**.
+- **The star's disc:** for a radius of 0.75 R☉, about **0.58°** at q,
+  slightly wider than the Sun from Earth (0.53°), and **0.15°** at Q, a
+  quarter of that (*a small hard disc a quarter that width*).
+- **Season lengths**, from Kepler's equation (r = a(1 − e cos E), mean
+  anomaly M = E − e sin E, time = M/2π × P), each figure the whole span
+  centred on the near point:
+  - flux above 0.4 S⊕ (r < 1.00 AU): E = 0.806, M = 0.373, **109 days**
+    (*about three and a half months* of light strong enough to grow);
+  - flux above 0.2 S⊕ (r < 1.41 AU): **205 days**; so from the end of the
+    growing season the light halves again in (205 − 109)/2 ≈ **48 days**
+    (*a few weeks after the open season ends it is half what it was*);
+  - flux above 0.1 S⊕ (r < 2.00 AU): **373 days**; so the world spends
+    913 − 373 = **540 days, about eighteen months**, under a tenth of
+    Earth's light.
+- **Temperature, and what the page leans on.** Radiative equilibrium at
+  albedo 0.3 is about **245 K** at q, **123 K** at Q and **164 K** on the
+  annual mean. So the open season is above freezing only with a strong
+  greenhouse (the page's *far more carbon dioxide than Earth's*, the Ilenne
+  pattern), about 30 to 40 K of it, and the ground's thermal lag; and the
+  dark is very cold, which the page says as *the ground freezes deep*
+  without a number. Whether some carbon dioxide frosts out in the deepest
+  dark, as on Mars, is **not established** and kept off the page.
+- **Not fixed, and kept off the page:** the day, the axial tilt (a large
+  tilt would add a second seasonal rhythm), moons, seas, the star's name
+  and the world's place. Location is anywhere safe under the 13 August scope
+  rule (*Scope: where a homeworld may be*, above); the star is not bound to
+  any real catalogue star (the 9 October ruling and `open-questions.md`,
+  *Real astronomy in the record*).
+
+### The body (his where marked; proposed unless marked)
+
+1. **Size and shape (his).** A heavy animal about the size of a large
+   boulder: a broad, low dome, an upturned bowl, wider than it is long,
+   resting on the ground on its own thick flat rim all the way round, like
+   a lid set on a pot. No legs, feet or tail show along the sides or back.
+   *Proposed scale:* about 2.2 m across, 1.8 m front to back and 1 m high;
+   between one and two tonnes.
+2. **How it moves (proposed).** It hauls itself on its forelimbs, the
+   underside of the rim a broad tough sole that slides over frost and soft
+   soil. It is slow on open ground, which is one more reason a working is
+   local and one more reason to finish before the close.
+3. **Forelimbs (his).** Exactly two massive digging forelimbs with broad
+   spade-shaped claws, coming from under the rim at the front only, in
+   smooth hide, not scales. Nothing else comes out from under the rim.
+4. **No head (his).** No head, neck, snout, muzzle, nostrils or visible
+   mouth at the front: the front of the dome is a blank sloping brow of
+   hide, and the rim runs straight across it with no gap or lip. *The
+   mouth is underneath (proposed):* the body crops the low mats by passing
+   over them. *The brow (proposed):* a blank front is what pushes into the
+   bank and shoves loose soil back, so it carries nothing that could be
+   hurt there.
+5. **Eyes (his; the form proposed).** One small dark eye on each flank,
+   halfway back, just above the rim, so the two are never seen together.
+   *Proposed form:* a small, dark, **lidless pit**, with no lid, fold,
+   wrinkle or ring round it. *Why the flank (proposed):* a body at work
+   faces the bank, and what it must read is the work beside it and the
+   bodies working alongside.
+6. **Hide (his).** Thick, smooth and leathery, ochre and russet, closing
+   over the back in long overlapping folds like shutters. In the bright
+   season the folds part in long slits to bare dark, almost black,
+   light-drinking skin beneath; they close for the dark. The seasons are
+   written on the body. *Colour (derived, the house pattern under an
+   orange star):* ochre and russet, the slits near black; never grey.
+7. **Reading the work (proposed).** Touch through the claws and the brow,
+   and the flank eye at close range. No organ signals between bodies; the
+   working's only medium is the thing being made (derived, above).
+8. **Dormancy (his).** In sealed dens dug into banks. *Proposed:* the bodies
+   seal the den mouth from inside with the last of the digging, and lie rim
+   to rim, folds shut.
+9. **What tells one body from another (proposed).** Size, the wear of the
+   claws, the lie of the folds. Nothing on a body marks its place in a
+   working, because a working has no places in it.
+10. **Not established:** reproduction, young, sex, lifespan, how many
+    bodies a working takes. A silence about sex is not a finding of none
+    (`mind-design.md`).
+
+### What failed on the way (three study rounds, 2 November 2026)
+
+Scratch only, never filed: two images per plan, no reference images, on
+the house pipeline's image model at 2K, in `F:\CLAUDE\_tmp\keepers-study\`
+(`round1/`, `round2/`, and the round-3 `c*.jpg` files; `study.js` holds the
+final prompt text). Nothing from the studies goes into `src/images/`.
+
+- **Round 1** (two forelimbs and a dragging base, a short low head): every
+  frame drew **four legs and a mammal face** (a tardigrade, a capybara, a
+  naked mole-rat, a seal's face with ears); one grew a **tail**; one added
+  a **camera caption overlay**; one came back **orange all over**. Kept: the
+  **parted hide fold baring dark skin** read well.
+- **Round 2** (a dome on its own rim like a lid on a pot; no head; eyes low
+  on the front above the rim): **the limbs were fixed in all four frames**
+  (exactly two forelimbs, no hind legs, no tail). But the rim's front edge
+  read as a **lip**, and two front eyes **completed a face** (a blobfish, a
+  smiling cartoon); one had **turtle nostrils**; the whole leaned to a
+  **soft-shelled turtle**.
+- **Round 3** (eyes moved to the flanks, a blank front, a three-quarter side
+  view): **two of three frames had a blank front and no face.** The best is
+  `c2-season-closing-2.jpg` (a cool frosty dusk, the body half in a den
+  mouth, forelimbs braced at the edge); `c1-season-open-2.jpg` also passes,
+  though its forelimbs turned tortoise-scaly. One frame **grew a head back**,
+  with a snout and a mouth line: **a blank front is not stable**, and the
+  prompt of record must insist on it. The remaining near miss: **the eye is
+  a mammal eye with lids** and wrinkles round it.
+- Dermot judged the design settled enough to write up.
+
+### Traps closed
+
+- **Four legs and a face.** A low heavy body with a head returns a mammal
+  every time (round 1). No head at all, the dome on its rim, and exactly two
+  forelimbs at the front.
+- **The lip and the face.** A rim edge across the front plus two eyes on the
+  front makes a mouth and a face (round 2). The eyes go on the flanks, one
+  per side, never both in view; the rim runs straight across a blank brow.
+- **The head that comes back.** Even with flank eyes, one frame in three grew
+  a snout (round 3). Say *no head, no snout, no mouth line* in the positive
+  text as well as the negative, and frame three-quarter from the side.
+- **The mammal eye.** Ask for a small, dark, lidless pit, and negate lids,
+  eyelids, lashes, wrinkles and an eye ring.
+- **The turtle.** A dome on a rim invites a tortoise or soft-shelled turtle,
+  and scaly forelimbs complete it. Smooth leathery hide on the limbs, folds
+  like shutters not a shell, and every turtle and tortoise negated by name.
+- **Orange all over and the caption.** Keep the ground cold and neutral so the
+  body carries the colour; negate overlays, captions and date stamps.
+- **The swarm.** A frame of many bodies at once reads as a horde. The
+  people's illustration shows one body, or a few at a working's distance
+  apart, never massed.
+
+### Prompt vocabulary and standard negative
+
+The prompt of record will be the `images.md` entry for the people's
+illustration (§ 50), written from round 3's text with the blank front, the
+flank eye and the lidless pit made explicit. Send no reference image: a
+study frame would bring its mammal eye with it.
+
+**Standard negative.** *badger, mole, wombat, tortoise, turtle,
+soft-shelled turtle, armadillo, pangolin, hippo, tapir, seal, walrus,
+manatee, capybara, mole-rat, tardigrade, blobfish, frog, toad, chiton,
+woodlouse, beetle, crab, or any other Earth animal; a fantasy creature or
+film monster; a head, neck, snout, muzzle, nostrils, a mouth or mouth line,
+a lip, a face, two eyes seen together, eyes on the front, big round eyes,
+eyelids, lashes, wrinkles round the eye, an eye ring; hind legs, more than
+two limbs, a tail, horns, a shell, shell plates, scutes, scales on the
+limbs, segments, a human hand or face; a herd or swarm; orange all over,
+grey, monochrome, desaturated; captions, overlays, date stamps, lettering;
+3D render, CGI, creature design, concept art, clay, toy, plastic sheen.*
+
+### Where this goes
+
+- **Published with this section:** `src/lore/planets/aphel.md` (the world)
+  and `src/lore/the-convened.md` (the people, with one sentence of body
+  drawn from points 1, 3, 6 and 8, and nothing proposed here beyond it).
+- **Owed:** the people's illustration, written as `images.md` § 50 and not
+  generated; Aphel's own illustration, owed with no prompt yet (§ 50 notes
+  it). Generation is a desktop step.
+- **Ruled, his:** the Concord standing, *not yet chartered, because the
+  invitation has not been issued in a form the charter can hold* (Dermot's
+  *"Yes, agreed"*, 2 November 2026, `intake-2026-11-02.md`).
+- **Open, his** (`open-questions.md`): the pronoun usage on the page; the
+  invitation problem as the first story, which is his to write.
+- **For the next release:** the Peoples and Bodies artefact gains a row for
+  the Convened, read against this section; `scripts/extract-peoples.js` may
+  need a rule for a people with no individual persons.
+
+---
+
 ## Living with other life — companions, working animals and commensals, people by people
 
 Written 14 October 2026 at Dermot's direction, verbatim: *"Pets and companion
