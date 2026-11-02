@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Episode 2"
-description: "Chapters in Season 3, Episode 2 — Shepherd back on general operations at Threshold, a transit window stated as a band, the Chief Pilot in a room the room did not require, and a spring revisit to Counterpane where every clock is honest and the difference cannot be heard."
+description: "Chapters in Season 3, Episode 2 — Shepherd back on general operations at Threshold, a transit window stated as a band, the Chief Pilot in a room the room did not require, a spring revisit to Counterpane where every clock is honest and the difference cannot be heard, and the bench home to a door on Earth where the department ends and the finding is made without her."
 permalink: /seasons/s03/e02/
 ---
 <nav class="chapter-breadcrumb" aria-label="Episode location">
@@ -18,6 +18,9 @@ permalink: /seasons/s03/e02/
 </p>
 <p class="page-intro">
   The following spring, a Chief Ranger, she commands the general operations department of the Survey Corps' seventh revisit to Counterpane, the neighbouring archecluster where an atom is an atom and the second is the second and the dice are not ours. She signs the audit, states the fold window as a band, and listens to the bench out of a habit that has never been wrong about whether something is there. Nothing is there. The Survey Chief braids three sources and reads what no ear can reach, and writes it as cargo, which is what it is until it is home.
+</p>
+<p class="page-intro">
+  At the end of the spring the hull is home. General operations has certified the bench was the bench as far as a door on Earth, and at the door a Safety Corps officer signs under her last initial, and the department that existed for the revisit does not exist. Fourteen names go back to their lists. Shepherd does not wait for the floor, and the Survey Chief sits on the bench in the corridor, as she has five times before, and does not sit on the audit. Nine days later the line comes out on a sheet, the seventh time, and the sheet does not say who carried it.
 </p>
 
 {% set seasonNumber = "3" %}

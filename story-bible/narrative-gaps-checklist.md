@@ -2,7 +2,7 @@
 
 What's actually written versus what the story bible and site copy have committed to. **Re-derived from `src/seasons/` on 2026-10-03**, per this file's own standing instruction not to trust it once stale (the previous derivation, 2026-08-10, said 44 chapters; disk said 69). **Re-counted from disk on 2026-10-06**: the opening line below had still said 69, twelve and seven while the table under it said 86, fourteen and eight, and disk said 93. **Re-derived from `src/seasons/` and `lib/storyline-threads.js` on 20 October 2026**, after the Arcs and Threads extractor (`scripts/extract-arcs.js`) reported the counts below as stale: the file said 93 and 94 chapters, disk said 114 (chapter files only, episode `index.md` files excluded). Open questions this raises are indexed in `open-questions.md`.
 
-**118 chapter files exist across fifteen seasons (0 to 14) and eight storyline threads** (counted 2026-10-26: Season 0 six, 1 twenty-seven, 2 fifteen, 3 eight, 4 six, 5 six, 6 four, 7 four, 8 two, 9 five, 10 seven, 11 eight, 12 nine, 13 four, 14 seven; the 20 October count was 114).
+**119 chapter files exist across fifteen seasons (0 to 14) and eight storyline threads** (counted 2026-11-02: Season 0 six, 1 twenty-seven, 2 fifteen, 3 nine, 4 six, 5 six, 6 four, 7 four, 8 two, 9 five, 10 seven, 11 eight, 12 nine, 13 four, 14 seven; the 26 October count was 118, the 20 October count 114).
 
 ---
 
@@ -17,7 +17,7 @@ Against the 2026-08-10 list:
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
 | **Below the Roof** — three chapters | **Twenty-four**, across three seasons (11, 12 and 14) |
-| **Season 3** — two chapters | **Eight** (*What Meridian Asked* added; *Aware of Weather* opened Episode 2, 4 October 2026; *Honest Clocks* added 5 October 2026, the record's first chapter outside the local archecluster; *For the Record*, *Standing Practice* and *Pending a Lead* added 18 October 2026) |
+| **Season 3** — two chapters | **Nine** (*What Meridian Asked* added; *Aware of Weather* opened Episode 2, 4 October 2026; *Honest Clocks* added 5 October 2026, the record's first chapter outside the local archecluster; *For the Record*, *Standing Practice* and *Pending a Lead* added 18 October 2026; *Received* added 2 November 2026, the revisit home and the department ended) |
 
 **The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
 
@@ -30,7 +30,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 | Thread | Seasons | Chapters | State |
 |---|---|---|---|
 | **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
-| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 49 | The spine. Ends written; middle thin (S3 eight chapters, five in Episode 1 and three in Episode 2, which opened 4 October 2026); S5 gained its E00 the same day; S1 gained her first viewpoint 7 October 2026 (*Station Time*, S01E01C04) — until then no Season 1 chapter named her |
+| **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 50 | The spine. Ends written; middle thin (S3 nine chapters, five in Episode 1 and four in Episode 2, which opened 4 October 2026 and gained *Received* on 2 November); S5 gained its E00 the same day; S1 gained her first viewpoint 7 October 2026 (*Station Time*, S01E01C04) — until then no Season 1 chapter named her |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
 | **Orbital Five-O** | 4, 10 | 13 | Season 4 six chapters, two in each of E00 (the Shepherd guest, 4 October 2026, and *Nobody at the Desk*), E01 and E02; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
 | **Church Space** | 8 | 2 | The overlay's own thread; tier-gated to the contemplative editions |
