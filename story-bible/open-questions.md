@@ -75,6 +75,95 @@ their own voices* section are left as they stand.
 
 ---
 
+## The Ollune history, Vellire — the weekly Fable pass of 2 November 2026, stage 3c — DRAFTED same day on Fable (the line read as a telling), choices named in the PR, his to overrule
+
+The Ollune line of the *Histories in their own voices* series below, the first
+unticked line on 2 November. Drafted as `src/codex/the-thing-that-did-not-fall.md`,
+the fourteenth entry of the series, with its author's page
+`src/characters/vellire.md`, grounded only in `ollune.md`, `planets/cirrane.md`,
+`glossary/ollune.md`, `characters/ilyare.md`, `federation-of-sentient-beings.md`
+(*Member Worlds*), `the-ladder-in-other-tongues.md` (*Ollune*), the Cirrane
+case in `codex/xenolinguistics-handbook-failure-modes.md`, S01E00C08 *Nobody
+Present* and its timeline entry, and the ruled Ollune sections of
+`species-design.md`, `mind-design.md` and `civilian-dress.md`, with the rest
+marked absent in a *What the Record Does Not Carry* section. No portrait
+prompt written and no title card made; both owed.
+
+**Why Fable and not Opus.** The line names *the far word and the near word,
+terms drafted to hold between parties who cannot confer, and a first contact
+filed in the alarm vocabulary*. Read against the people's page, a filing is
+the one thing an Ollune history cannot be: the far word binds nothing and is
+not testimony, and the near word is a mark a body makes, not a document an
+office keeps. So the entry is a far-word telling (Fable's mode) carrying one
+near word at its end, five terms in the drafting discipline the line names.
+The terms are short and the telling is the body of it. His, or Opus's, to
+read the other way; nothing in the entry depends on the call.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the name** (*Vellire*, coined, the record's rendering of a far-word call as
+Ilyare's is, with no meaning asserted; the alternatives are *Ossaire* and
+*Tallire*, in the same shape, or a name he gives); **the pronoun** (*they*,
+the people's page's rendering note; nothing new); **the role** (one who marks
+the passing for a shoal, which the page's agreement-drafting practice and its
+*passing* section ground without naming; distinct from Ilyare's crossing, and
+proposed as an office in the near word like every Ollune office;
+`mind-design.md`'s *how a shoal arrives at the position that is carried is not
+established* is kept, the author declining it in the far word); **not
+Ilyare** (Ilyare's page says nothing makes them unusual among the people and
+places them at no Ranger's flank; a second named Ollune widens the record on
+the Mhoren-not-Vhen pattern); **the frame** (the Survey Archive's asking
+carried in through the Federation record by a Star Rangers courier, the only
+door onto Freyari the record names; the far word taken by the hull's pressure
+instruments and rendered by the translation desk, as the survey's instruments
+have rendered it since contact; the near word carried out and held in the
+general collection as the object it is, since a mark is durable, readable by
+anyone close, and a near word cannot be confidential; `library` the Survey
+Archive because the mark is a physical holding, unlike the Ovruhn chorus);
+**the two channels on the page** (far word as prose; the band's interjections
+marked in italics at three places and never rendered, since the far word
+carries no identity and no body marked those words; the near word as a
+blockquote of five terms after the telling, composed late because the near
+word is slow); **how the desk knows the author** (only from the mark, which
+the entry says in the desk's voice; the one way an Ollune can sign a far word
+is to mark afterwards that it was theirs, and the mark says the body answers
+for having cried it and not for any of it being so); **the first contact**
+(given in the alarm vocabulary as the page says it is filed, *falling, there,
+falling*, then the thing that stopped and was held by nobody; the weeks the
+survey logged it as weather given from the hearing side, the band saying
+everything about it and none of it testimony; nothing it first said given,
+since the far word has it a dozen ways); **the first carried mark and the
+first membership mark** (both left in the far word, *four shoals made it*,
+*the far word has it several ways*, and the author gives none, so nothing is
+fixed and the record's own silence on Cirrane's membership is kept); **the
+room** (the standing item answered from the people's side: no Ollune has ever
+been in any room, and the shoal along one's own band is as unreachable as the
+assembly; the clause *keep this until an answer can be carried back* given as
+the term every Ollune mark puts on a party who cannot answer, the one the
+S01E00C08 mark carries, and whether an answer was ever carried back left
+unsaid in both channels); **signing** (the page's *literal about what other
+species sign* in the author's mouth: a mark made by the hand, held as near
+word because the other party says so); **the title** (the thing that came
+down out of the direction nothing comes from and did not fall; the ending
+turns it onto the account itself, which goes up where the air ends, is lifted
+by nobody and does not fall, and finds the people's old word for the ones who
+come home from a hull already waiting); **the ordinal** (fourteenth, the
+thirteen numbered entries counted on 2 November).
+Not asserted: any year, in any reckoning (positions in depth, bearing and
+phase, which the Archive does not reproduce; the ordinary conversion of a
+passing's interval not applied, the band and cycle being off file); the
+Federation's arrival at Cirrane or Cirrane's membership year; when Ollune
+procedure entered Federation compact procedure (*generations ago* kept);
+which shoal made the first carried mark or marked membership first; how a
+shoal arrives at its carried position; whether an answer was ever carried
+back to any Cirrane mark; the first Ollune in a hull; Ollune sex, birth or
+lifespan; the Ollune language beyond the record's handful of words; the
+courier's name or corps; any chapter. Not done: no chapter; no portrait
+prompt (owed in `images.md` from the Ollune body of 20 October, on Ilyare's
+prompt of record); no title card (the card tools need `sharp` or the `.ps1`,
+neither to hand); one See-also clause on `ollune.md` (an extension).
+
+---
+
 ## The seventh revisit home, *Received* (S03E02C04) — the weekly Fable pass of 2 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
 
 The next chapter of Tissadelle's middle under the 18 October ruling (option A, below), Season 3 being still the checklist's second gap. Late spring 2829: the seventh Counterpane revisit home, the bench signed over at the Survey Corps Standards Office's receiving door on Earth, the general operations department ending on that signature by its order's own terms, Shepherd leaving before the finding, Halvorsen not sitting on the audit, and nine days later the seventh confirmation at the width of one membrane. Seven readings settled at Fable and recorded in `intake-2026-11-02.md`, last section: the beat (the audit at home over the roster winter); Shepherd leaving rather than waiting; two established POVs and nobody new; fourteen names; the department ending at the receiving signature; nine days; Halvorsen's last line. Nothing in it met the bar for him. **Left for him there, not blocking:** the Tír na nÓg *rarely align* clause from the stage 2 critic read, two options, (1) recommended. The 19 October worklist's Counterpane line is struck below as paid before it was written.
@@ -2645,11 +2734,27 @@ same rule:
   and the placing declined in words. No homeworld, no origin, no first Krenyi
   in the Corps. Sevrane's portrait was filed 23 October 2026 from round 2 of
   `images.md` § 25, and the entry's title card was made the same day.
-- [ ] **Ollune** — `src/lore/ollune.md`, `src/lore/planets/cirrane.md`,
+- [x] ~~**Ollune** — `src/lore/ollune.md`, `src/lore/planets/cirrane.md`,
   `src/glossary/ollune.md`, `src/characters/ilyare.md`. Voice: **the far word and the near word**, terms
   drafted to hold between parties who cannot confer, and a first contact filed
   in the alarm vocabulary. When their procedure entered the Federation's
-  (*generations ago*) stays undated.
+  (*generations ago*) stays undated.~~ — **drafted 2 November 2026** (Fable,
+  the weekly pass, stage 3c; the line read as a telling carrying terms, not a
+  filing, since by the people's own law a far-word history binds nobody and
+  the only filing an Ollune can make is a mark): `src/codex/the-thing-that-did-not-fall.md`,
+  by Vellire, who marks the passing for a shoal of Freyari
+  (`src/characters/vellire.md`), the second Ollune the record names and not
+  Ilyare. Cried in the far word at a Star Rangers courier hull's flank through
+  one passing and rendered from the hull's pressure instruments; the band's
+  interjections marked at three places and not rendered, since the far word
+  carries no identity; one near word composed at the same flank and carried
+  out, five terms, which says the far word was theirs and ends on *keep this
+  until an answer can be carried back*. No year in any reckoning; positions
+  given in depth, bearing and phase and not converted; the first carried mark,
+  the first membership mark and how a shoal reaches its position all left in
+  the far word and unsettled; the procedure's adoption undated. No portrait
+  prompt yet (owed in `images.md` from the Ollune body). The section *The
+  Ollune history, Vellire* at the top of this file records the choices.
 - [x] ~~**Ovruhn** — `src/lore/ovruhn.md`, `src/characters/vhen.md`. Voice:
   **chorus-keeping**, a record kept in living memory and retold together, loss
   mourned in the register the music keeps. Thavren has no page.~~ —
