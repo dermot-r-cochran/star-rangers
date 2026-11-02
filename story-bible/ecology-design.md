@@ -424,6 +424,11 @@ page needs a temperature.
   *"ground cover that turns rust-red"*, conifer stands on the ridgelines, and
   *"livestock descended from Currach Fleet stock"*, horses as often as flock
   animals (same).
+- **Mixed fields, mixed countryside, mixed table** (Dermot, 2 November
+  2026; `intake-2026-11-02.md`; *Fields and Table* on the same page): Earth
+  plants and animals, carried as seed and frozen embryos, grow and graze in
+  the open beside native life, and Union cooking pairs Earth-descended food
+  with native food that is eaten only after careful cooking and preparation.
 
 ### What it derives
 

@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Tír na nÓg's fields and table are mixed** (`src/lore/planets/tir-na-nog.md`, `cross-biosphere-taxonomy.md`, `story-bible/intake-2026-11-02.md`, `ecology-design.md`, 2026-11-02, Opus, at Dermot's direction). An extension: a *Fields and Table* section says Earth plants and animals, carried as seed and frozen embryos, grow and graze beside native life, and that Union cooking sets Earth-descended food beside native food eaten only after careful cooking and preparation. The taxonomy page's *nothing on Tír na nÓg was carried from Earth* now says *none of its native life*, a clarification.
+
 - **Nothing preys on or infects across biospheres** (`src/lore/what-a-life-is-built-from.md`, `CLAUDE.md`, `story-bible/intake-2026-11-01.md`, `ecology-design.md`, 2026-11-01, Opus, Dermot's *"No alien predators or viruses are biologically possible"*). A clarification: the lore page gains a section saying why no life can prey on or infect a life from another biosphere (a pathogen needs a shared record, a predator a usable body), that it holds on Tír na nÓg, and that chemical injury and predation within a world remain. The story bible no longer derives disease crossing on Tír na nÓg.
 
 ## [1.57.0] — 2026-11-01
