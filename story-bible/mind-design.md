@@ -1695,7 +1695,10 @@ told, checked or felt by others. So *The Shape of a Life*'s civilisation
 without individual personhood **is not yet any people in the record**, and
 none of these four should be conscripted to stand for it. The worklist line
 for such a people stays open as a worklist line (`open-questions.md`, *The
-shape of alien lives*, 19 October triage).
+shape of alien lives*, 19 October triage). Since 2 November 2026 the record
+has its first people without individual persons, the Convened of Aphel
+(`src/lore/the-convened.md`), whose person is held in a working: many bodies
+acting as one for a task, and ending when the work does.
 
 **Each people's self is held in its own medium.** Felt through structure,
 told and repeated, negotiated among centres, carried unfaded, held up by

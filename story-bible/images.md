@@ -10158,6 +10158,72 @@ forties; Yusuf Adair is North African, iron-grey and bearded.
   - **Written 2 November 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only edvin-thorsby`; four variations, two rounds at most, each round changing one or two named things; judge each at full size in the triage order above; file through `import-image.ps1 -MaxEdge 1200` at strength 1 as `src/images/characters/edvin-thorsby.jpg`; add `image:` and `image_alt` to the page from the filed frame; register the result in `image-prompts.md`. If both rounds fail, record them here and leave the page without an image.
 
+### 50. Missing lore illustrations — the Convened, a header for the people page (written 2 November 2026, Opus; generation waits on the desktop)
+
+`src/lore/the-convened.md` and `src/lore/planets/aphel.md` landed in the same
+PR as this prompt, at Dermot's rulings of 2 November 2026
+(`intake-2026-11-02.md`, *A people without individual persons*). A people
+gets an illustration, so the people page is owed one. This is its **header
+image**: landscape, 1600 px on the long edge, at finish strength 1, filed as
+`src/images/lore/the-convened.jpg`. The page carries no `image:` until a
+frame is filed. **Aphel is owed its own illustration too, and no prompt is
+written for it yet** (the § 5m convention): when it is, it is Opus's under
+the 16 October rule, and what binds it is on the page (an orange star, the
+open season's low dark mats on frost-cracked ground, banks with den mouths,
+meltwater, nobody in frame).
+
+**Why this prompt is Opus's.** The body is a structural design
+(`species-design.md`, *The Convened — a body from Aphel*), and the frame is a
+body and a world with nobody's presence or mood carrying it: a structural
+prompt, Opus's under the 16 October rule and the `people-body-design` loop.
+**Generator exemption** (3 September): no camera can photograph a body of
+another biosphere, so a generator may make it.
+
+**What the design fixes, and the prompt keeps** (Dermot's choices of 2
+November): a dome on its own rim like a lid on a pot, wider than long, no
+legs, feet or tail showing; exactly two digging forelimbs with spade claws
+from under the front rim, smooth-hided; no head, neck, snout or mouth, the
+front a blank sloping brow; one small dark eye per flank, halfway back above
+the rim, never both in view; ochre and russet hide in long overlapping folds
+like shutters, parted in the bright season to bare near-black skin and shut
+for the dark; dens in banks.
+
+**The studies behind it** (`species-design.md`, *What failed on the way*):
+three rounds of two frames per plan, scratch only, nothing filed. Round 1's
+head became four legs and a mammal face every time; round 2's front eyes and
+rim edge made a face and a lip; round 3, eyes on the flanks and a blank
+front, gave two good frames of three, and one grew a head back. The near
+miss left is the eye: every study drew a mammal eye with lids and wrinkles.
+So this prompt states the blank front and the lidless pit in the positive
+text as well as the negative.
+
+**Readings taken for the frame** (Opus's, each his to overrule; none is
+written to the page):
+- **The closing of the season, one body**, half into a den mouth in a bank,
+  forelimbs braced at the edge, folds shut: round 3's best frame
+  (`c2-season-closing-2.jpg`, scratch) was this moment, and it shows the
+  body, the den and the season's close at once. The open season's parted
+  folds are the alternative, and the better choice if Dermot wants the dark
+  skin seen; the prompt below can swap the one sentence.
+- **One body only.** Several bodies at work would show a working, which is
+  the people's whole point, and would also invite the herd and swarm reading
+  the design forbids. A working is better left to a chapter; this frame is
+  the animal each person is made of.
+- **Three-quarter side view**, so one flank eye is visible and the blank
+  front is seen at an angle.
+
+- **`the-convened.jpg`** — one Convened body at the close of the season, half into a den mouth in a bank on Aphel; header image for the people page.
+  > Documentary photograph taken on another world by a field survey camera, low evening light, 16:9 landscape, an inhabited planet that is not Earth. A single heavy animal of a non-Earth biosphere, about the size of a large boulder, shaped like a broad low dome or an upturned bowl, wider than it is long. The dome rests directly on the ground on its own thick flat rim all the way round, like a lid set on a pot: no legs, feet or tail show anywhere along the sides or back. Only at the front, from under the rim, come exactly two massive digging forelimbs in smooth leathery hide, each ending in broad spade-shaped claws, and nothing else. There is no head, no neck, no snout, no muzzle, no nostrils and no mouth: the front of the dome is a smooth, blank, sloping brow of hide with no eyes, no markings, no mouth line and no lip, and the rim runs straight across it with no gap. The only eye is on the flank: one small, dark, round pit set into the hide halfway back from the front and just above the rim, lidless, with no eyelid, no fold, no wrinkle and no ring around it; a matching eye on the far flank is out of sight. Seen from a three-quarter side view. The hide is thick, smooth and leathery, ochre and russet, closing over the back in long overlapping folds like shutters, closed tight. The bright season is ending: the animal is half sunk into the mouth of a deep den cut sideways into a bank of dark soil, its two forelimbs braced at the edge of the opening, the dome still catching the last low light of a small pale-gold sun near the horizon. Frost on the ground and on low dark mats of growth around the bank; cold, bare, frost-cracked earth; a pale clear evening sky. Calm, ordinary, unhurried; an animal going to ground for the winter. Natural full colour and normal exposure: the warm ochre and russet of the hide against cold neutral frost and dark soil. Photographed, not rendered: real hide with fine texture and weathering, real soil and frost, slight softness at the edges, fine grain, a long lens at a working distance. Negative: badger, mole, wombat, tortoise, turtle, soft-shelled turtle, armadillo, pangolin, hippo, tapir, seal, walrus, manatee, capybara, naked mole-rat, tardigrade, blobfish, frog, toad, chiton, woodlouse, beetle, crab, or any other Earth animal; a fantasy creature or film monster; a head, a neck, a snout, a muzzle, nostrils, a mouth, a mouth line, a lip, a face, two eyes seen together, eyes on the front, big round eyes, an eyelid, lashes, wrinkles round the eye, an eye ring, a mammal eye; hind legs, more than two limbs, a tail, horns, a shell, shell plates, scutes, scales on the limbs, segments; a human hand or face; a second animal, a herd, a swarm; people, figures, structures, buildings, a camp; orange all over, an orange sky, grey, monochrome, desaturated; captions, overlays, date stamps, lettering, readable text. Render negatives: 3D render, CGI, creature design, concept art, digital painting, illustration, clay, toy, plastic sheen, over-smooth surfaces. Landscape orientation.
+  - **The test is the front.** A head, a snout, a mouth line or a lip across the front fails before anything else is read; so does a second eye seen at the same time.
+  - **Then the eye.** A mammal eye with a lid, lashes or wrinkles round it is the near miss of every study round; a small dark lidless pit passes.
+  - **Then the counts.** Exactly two forelimbs at the front, nothing else out from under the rim, no tail.
+  - **Then the Earth animal.** A tortoise, a soft-shelled turtle, a mole or a capybara on sight fails, scaly limbs included.
+  - **Then the colour and the finish.** Ochre and russet on the body, cold neutral ground; not orange all over, not grey, not a render, no caption.
+  - **Triage:** first the front; then the eye; then the counts; then the Earth animal; then nobody else in frame and no structure; then the colour; then the photograph test.
+  - **Proposed alt** (to be corrected to the filed frame): *A heavy, low, dome-shaped animal with ochre and russet hide in long folds closed over its back, half into a den dug into a frosty bank at dusk, braced on two broad spade-clawed forelimbs, with a blank sloping brow at the front and one small dark eye low on its flank.*
+  - **Written 2 November 2026** (Opus); not generated.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only the-convened`; four variations, two rounds at most, each round changing one or two named things; judge each at full size in the triage order above; file through `import-image.ps1 -MaxEdge 1600` at strength 1 as `src/images/lore/the-convened.jpg`; add `image:` and `image_alt` to `src/lore/the-convened.md` from the filed frame; register the result in `image-prompts.md`. No study frame is filed or sent as a reference. If both rounds fail, record them here and leave the page without an image.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
