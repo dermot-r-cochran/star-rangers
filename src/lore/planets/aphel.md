@@ -37,7 +37,7 @@ So everything alive on Aphel stores fast, shelters and goes still. The producers
 
 A shelter that will hold a large body through the dark has to be deep. Near the surface the ground follows the year from thaw to hard freeze; further down the swing is smaller, and deep enough it is small enough to sleep through. Aphel's large animals den in banks, where a body can dig sideways into the slope and seal the mouth behind it.
 
-A den that will see one body through the whole dark, stores and all, is more digging than one body can do in one open season. A den that holds many bodies is more again, and so is cutting channels to carry the meltwater away from the dens before it freezes in them, and so is laying in the stores. The season holds more work than any single body can finish in it. What the Convened do about that is on their own page, and it is the reason this page exists.
+One body can dig itself a den in one open season, if it starts in time. A den that holds many bodies and their stores through the whole dark, deeper than the dark's cold can reach, is more digging than one body can do, and so is cutting channels to carry the meltwater away from the dens before it freezes in them, and so is laying in the stores. The season holds more work than any single body can finish in it. What the Convened do about that is on their own page, and it is the reason this page exists.
 
 ## What the Record Does Not Hold
 
