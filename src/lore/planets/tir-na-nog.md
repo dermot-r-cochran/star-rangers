@@ -94,6 +94,12 @@ Tír na nÓg follows the design register already documented across the Union's b
 
 Irish remains the working language of planetary administration, alongside Scottish and Welsh Gaelic in regional use. Place names, land tenure customs, and the seasonal calendar all trace directly back to the founding cooperatives' own traditions, adapted rather than replaced.
 
+## Fields and Table
+
+Tír na nÓg's farming and its countryside are mixed. The Currach Fleet carried Earth's plants and animals as seed and as frozen embryos, which the record counts as [storage, not sleep](/star-rangers/lore/what-the-record-refuses/), and raised them after landfall. Their descendants now grow and graze in the open beside native life: Earth crops in the fields, and flocks and horses on native pasture, as in the Boirinn Uplands. Native plants and animals were never replaced, and the countryside a visitor walks through holds both.
+
+The cooking is mixed in the same way. A Union kitchen sets Earth-descended food beside food from the world's own life. The native food was not shaped for a human body, so it is eaten only after careful cooking and preparation, a craft passed down in households since the first settlement generation. The record does not set out which native foods need which preparation.
+
 ## Role in the Union
 
 As the most populous and longest-settled charter world, Tír na nÓg hosts the Celtic Union's rotating mediation council whenever it sits in session, and serves as the Union's point of contact for its new information-sharing agreement with the Star Rangers' Survey Corps. No permanent Solar System presence is established on-world; visiting delegations operate under Union escort by mutual agreement.
