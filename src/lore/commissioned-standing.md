@@ -40,7 +40,9 @@ A commission names a purpose, and purposes end: a line is discontinued, a hull i
 
 ## Citizenship, and Where It Stops
 
-A commissioned mind may acquire full citizenship under the Concord's civil law, and the standing that comes with it. Two things do not come with it. A made mind holds no direct political vote, and it is not eligible for political office. The line is drawn there and nowhere else: what is withheld is the franchise and the ballot, not the citizenship, which is whole. The [Star Rangers](/star-rangers/lore/star-rangers-command-hierarchy/) draw a line of the same shape on their own ladder, where a made mind may hold any rank up to Chief and none above it. What the polities beyond the Concord grant their own made minds, the record files polity by polity, and has not been asked to for most.
+A commissioned mind may acquire full citizenship under the Concord's civil law, and the standing that comes with it. Two things do not come with it. A made mind holds no direct political vote, and it is not eligible for political office. The line is drawn there and nowhere else: what is withheld is the franchise and the ballot, not the citizenship, which is whole.
+
+**In civilian and other human organisations a made mind may hold any role except direct line management or supervision of adult humans.** The record already keeps to this without having said it. Lucene-9000 held children through a rescue and raised three of them, which is care, not supervision of adults; robots are authorised for forensic work and not to lead an interview, so the questions in a bureau are a detective's; and the [Eden Warden](/star-rangers/characters/eden-warden/)'s authority runs over the habitat's made minds and its cyber-enhanced animals, and answers to a Mayor and a Commissioner. The [Star Rangers](/star-rangers/lore/star-rangers-command-hierarchy/) meet both lines on their own ladder: a made mind may hold any rank up to Chief and none above it, and no adult human reports to it directly. What the polities beyond the Concord grant their own made minds, the record files polity by polity, and has not been asked to for most.
 
 ## What It Does Not Do
 
