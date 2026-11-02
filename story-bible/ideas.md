@@ -1001,5 +1001,5 @@ stocked with people who decline praise than with people who need it, or with
 someone whose humility genuinely is invisibility with nothing behind it. Worth
 checking properly before anyone writes to this theme, because the pair only
 works dramatically if both halves exist somewhere on the page. The other half
-now has a page: [Teodor Halden](../src/characters/teodor-halden.md), drafted
+now has a page: [Edvin Thorsby](../src/characters/edvin-thorsby.md), drafted
 2 November 2026 at Dermot's four rulings (`intake-2026-11-02.md`).
