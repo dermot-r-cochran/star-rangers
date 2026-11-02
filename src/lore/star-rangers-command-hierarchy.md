@@ -136,6 +136,10 @@ Nothing prevents a decorated technical Chief from later crossing into the comman
 
 The same sideways-not-up logic operates well below Chief, and outside the boundary-science specializations entirely. A Ranger who carries the Corps' musician specialization, for instance, isn't on a slower route to command — just a different route altogether. See [Slipwave](/star-rangers/glossary/slipwave/) for a working example. The specialization is the [Music Corps](/star-rangers/lore/star-rangers-music-corps/)' own.
 
+## A Made Mind's Ceiling
+
+A made mind may serve in the Corps, and may hold any rank on the certification ladder, Novice to Chief, by the same review as anyone else. It may hold none above Chief. The bound is on the command half alone, and it is not a cap, a freeze or a quota of the kind the ladder refuses: a made mind that meets a Chief's standard is promoted to Chief, and a Chief's duty title is open to it as to any other kind of person, so a Chief Science Officer or a Chief Pilot may be a made mind, holding the post on the terms anyone holds it. What a made mind does not hold is a Starwarden's post or anything above it, and this is the one exception to the crossing the section above allows. The line runs where the Concord's civil law runs its own: under [commissioned standing](/star-rangers/lore/commissioned-standing/) a made mind holds full citizenship without a direct political vote or eligibility for political office, and the command ranks, which answer for Rangers under the charter, sit on the same side of it. The record holds no made mind at any Corps rank; the rule is on the page before the case is.
+
 ## Above Chief: Formal Mentoring, Because Nothing Can Be Examined
 
 [The Academy](/star-rangers/lore/star-rangers-academy/) does not teach command. There is no college for Starwarden and above, no syllabus, and no examination between a Chief and a command posting — because command does not decompose into competencies a faculty could check. What the rank actually asks for is judgement exercised under instrument disagreement, on a clock, with nobody reachable to share it.

@@ -30,6 +30,8 @@ The arrangement was not legislated. It fell out of two things the Concord alread
 
 **And print fiction with a named author on the spine did not go anywhere either**, for the reason above: a story that cost its author something is a story the ledger can see.
 
+**How a novelist writes is the novelist's own affair, and the spine says how.** Some write by hand, some alone at a sheet, some with an artificial mind at the table, and the record ranks none of these ways above another. Where a mind contributes to a work it is credited on it, by name, the way a performer or [an adapter](/star-rangers/lore/narrative-works-and-their-adaptation/) is credited and for the same reason, and the ledger can tell whose novelty is whose: the author's, the mind's, and where each begins. A spine with one name on it says the work was one person's; a spine with two says so too.
+
 ## What the Rig Costs
 
 The record has already said that immersive entertainment peaked and declined before 2826, and [why the audience left](/star-rangers/glossary/virtual-reality/). There is a second reason, and it is the body's rather than the culture's.
