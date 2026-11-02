@@ -524,3 +524,16 @@ Three shapes, his:
   two strands each have two chapters and the convergence closes both;
   whether either strand grows, whether a third strand is added, and an
   edition of the thread's own remain his.
+- **2 November 2026 — *Yes, all four (a)*, on the Benevolent Critic read
+  of S13E01.** *Ceres, who turned back*, the chronicle's ninth right-side
+  name, came in with the convergence PR without a ruling. It stands, and
+  is recorded here as a deliberate echo of a Solar System name in the
+  chronicle's list: a resemblance that may fire and is never confirmed on
+  the page (22 September), so no chapter leans on it as a clue. Two
+  extensions landed with the same answer. In S13E02C02 la Chapelle files
+  that the Accounting's count of the right side does not begin where the
+  watch's door does, so the Accounting's *ninth door past* and the
+  children's count past the ninth stand side by side as two records'
+  counts of one room, marked and not reconciled. In S13E01C02 the
+  door-post keeps how many rooms and not which, so *the furthest* is the
+  watch's telling and not the post's.

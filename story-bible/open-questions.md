@@ -1538,6 +1538,14 @@ had a *Saltmere* block and no *Winterbourne* one, though the two worlds
 were paired on the worklist; the Winterbourne block is added in this PR,
 and the Saltmere block is untouched.
 
+**The surname, 2 November 2026** (Dermot's *Yes, all four (a)*, on the
+Benevolent Critic read of S13E01). *Aldous* is also the chronicle's first
+name in the Kingdom of the Five Islands (S13E01C01, 3 October) and the
+T. Aldous of the Codex entry *The Friend Who Was Never Sent*. The
+collision is unmeant: Earth-stock names recur across colonies that lost
+touch with one another, and none of the three carries an inference about
+the others (the 22 September rule). Nobody is renamed.
+
 ## Sen's years at the desk — raised 24 October 2026 by the Fable critic read of #1448–#1456, RULED the same evening: 2815 (Dermot's *"2815"*)
 
 *Eleven years* at the reconciling desk was used at three dates that cannot all be true: `sen.md` in the present (2826, so since 2815), S06E01C02 and S06E02C01 in 2831, and *Shepherd Among the Comparanda* in 2833. Two anchors were put to him: 2815 (recommended, since `sen.md` is the Archive's present-tense page and the desk's eleven years then coincide with Threshold's eleven-year discrepancy) and 2820 (keeping the chapter's `canon_facts` line as written). **Ruled 2815**, a clarification of arithmetic: S06E01C02 and S06E02C01 (prose and the `canon_facts` line) now say *sixteen*, and the Comparanda's two uses say *eighteen*; `sen.md` is unchanged.
