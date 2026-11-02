@@ -19,9 +19,11 @@ Wren is the youngest of a Knight's house, the floor of the [Kingdom's](/star-ran
 
 She crossed from Ostrel to Casimor at the start of a storm season and came up to the watch-post on Krilzat with the chronicle's first names already by heart, learned on Vellamar from a reciter who had never seen the Castle, which is the ordinary way. What she had not seen, and what the chronicle is for, is the Castle's people: the figures the court's record of descent begins with, seen as light, walking the long hall at their hours, never answering. She saw the first of them on her first evening and had its name, and the keeper's son, who had watched it all his life, had its way. The record holds the exchange in [*The Names Go By* (S13E01C01)](/star-rangers/seasons/s13/e01/s13e01c01/).
 
+At the storm season's first calm she and the keeper's son went down the right side of the long hall past the chronicle's last right-side name and past the furthest notch, and found a door standing open, with one of the Castle's people standing in the room beyond it, which the chronicle has no name for. She carried back the line the chronicle could make of it, *a door was given, on Krilzat, in Pellam's time*, for the reciters. The record holds it in [*A Door Was Given* (S13E01C02)](/star-rangers/seasons/s13/e01/s13e01c02/).
+
 ## What the Record Does Not Carry
 
-What she makes of the Castle's people beyond the chronicle's own reading, which she holds as the court holds it. How far into the Castle she has gone. Anything the delegation knows of her, since the delegation has not been to Krilzat.
+What she makes of the Castle's people beyond the chronicle's own reading, which she holds as the court holds it. Anything the delegation knows of her, since the delegation has not been to Krilzat.
 
 ## Character Notes
 
