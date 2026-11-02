@@ -4972,7 +4972,10 @@ not evaporate between sessions.
   committed. *Triage 19 October 2026 (Fable):* not a decision pending. The
   26 August licence stands and nothing waits on it; whether the repentant
   leader is the theme's face is settled by the chapter that drafts the arc,
-  and that chapter's PR names it.
+  and that chapter's PR names it. **Ruled by Dermot, 2 November 2026:**
+  Sildron Drey is the face. The piece is her letter to the Solar Command
+  instructor, `src/codex/bound-in-behind-it.md`; his four rulings on it are
+  in `intake-2026-11-02.md`.
 - ~~**Re-filing `clematis-seedheads`.** The photography Macro/Nature boundary was
   written down on 15 August with a measurable test, and applying it would move
   this entry from Nature to Macro. **Explicitly recorded as not decided**, in

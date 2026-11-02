@@ -781,7 +781,11 @@ character could be a complicit leader who repents) is the ready vehicle:
 that arc, read against this theme, is the journey from Krast's shape to
 learning where the bound has to come from. Whether to tie the two is
 Dermot's call — filed under *Decisions awaiting Dermot* in
-`open-questions.md`, not a plan.
+`open-questions.md`, not a plan. **Decided 2 November 2026:** Dermot chose
+Sildron Drey as the face. The letter is
+[Bound In Behind It](../src/codex/bound-in-behind-it.md), her reply to the
+Solar Command instructor who asked whether *On the Cost of Speed* should
+still be taught (`intake-2026-11-02.md`).
 
 ## Wisdom Versus Intelligence
 - Intelligence solves problems.
