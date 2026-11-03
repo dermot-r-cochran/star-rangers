@@ -1621,35 +1621,49 @@ it is the only word spoken and that there is no caption. Recommendation: run
 take 1 with the word, because the word is the scene and the staging (his back
 to the lens, eight metres off) leaves nothing to lip-sync. If the take
 letters a caption, adds any other speech or gives the word to the wrong
-figure, take 2 runs the fallback, which is the same prompt with the sentence
+figure, take 2 runs the fallback, which is part 2 with the sentence
 *He says one word ... with no caption* replaced by *He says nothing; nobody
 speaks*, and *apart from that one word* struck from the sound sentence. In the
 fallback the word is carried by what the chapter puts around it, the
 stillness, then the single laugh, then the walkway moving. Either version is
-filed with its prompt as run.
+filed with its prompts as run.
 
-**One take or two.** The sequence is eight beats and the 8 October clips were
-each one motion, so this is the first clip asked to hold a sequence. It should
-hold in one prompt at 30 seconds, because the beats are few, large and in one
-direction (a walk away from the lens, a crouch, a stand, a dispersal) and the
-camera does nothing. If the box will not give one 30-second take, or a take
-drops beats, the fallback is a chained pair, extended from the last frame, with
-the join at the shut carrier: part one (about 15 seconds) runs from the
-stopped crowd through the boy's walk down the lane, the crouch, the lean
-forward, the word and the panel closing, and holds on his hands on the shut
-lattice; part two (about 15 seconds) starts from that frame with the pause,
-the laugh, the stand with the capsule hugged, the half-turn, and the walkway
-moving. The join sits there because the carrier is shut on both sides of it
-and nothing is moving, so no creature can appear at the seam and a small
-mismatch in the crowd will not read.
+**Three parts.** Revised the same day, before anything was generated, from one
+30-second prompt to three parts of 10 seconds, each extended from the last
+frame of the one before. The eight beats fall into three, and each part is one
+large motion, which is what the 8 October clips showed Grok holds. Part 1 is
+the walk: the stopped crowd and the boy going down the lane to the carrier.
+Part 2 is the four seconds: he crouches, says the word and shuts the panel, and
+the action itself is asked to take about four seconds of the ten, which is the
+chapter's title and the reason for the clip. Part 3 is the release: the laugh,
+the lifted carrier and the walkway moving.
 
-**Prompt to paste, as one line.** Enter sends in that box, so the whole thing
-goes in as one paragraph: preamble as adjusted, the scene, the sound, and the
-negatives, all inside it.
+Both joins fall where nothing moves and no creature can appear. The first is
+the boy standing still with his back to the lens beside the carrier, before
+anything has happened. The second is the boy crouched with both hands on the
+shut carrier, so the box is shut on both sides of the seam and a small mismatch
+in the crowd will not read. Part 2 is the part most likely to fail the first
+judging line, because it is the part where he lifts something. Run it twice if
+the first take shows a creature, and judge it before going on to part 3.
 
-> Footage from a small fixed recording device resting on the rim of a low waste bin at the far end of a walkway aboard a large space habitat, about knee height, looking straight down the length of the walkway, never moved and never lifted for the whole take, the frame alive only with the faint continuous vibration of a deck that is running. Long unbroken take, one shot, no cuts. Diegetic light only: warm light spilling from a rounded galley doorway midway down the right-hand wall and soft even habitat daylight, nothing glowing that would not glow. Matte surfaces, real materials, wear along the walking line. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field, the near legs sharp and the far end soft. Warm, ordinary, a little funny and quietly dramatic, a habitat's afternoon, not haunted. 24 fps, 16:9 landscape, 30 seconds. The walkway is unmistakably a habitat's: wall and floor of smooth seamless pale composite meeting in a softly rounded cove, the floor a matte resilient deck surface worn faintly smooth along the walking line, no fittings and no signage. It is full of people at shift change in plain work clothes of quiet natural colours and not one of them is moving: they stand on both sides of the walking line leaving a narrow lane down the middle, backs and shoulders to the lens, every figure leaning a little towards one place on the floor midway down near the lit doorway, which the standing bodies hide completely from the lens for the whole take, so that the lens sees only legs, backs and the lane. At the far end of the lane, small with distance and softened, a young woman with a long dark plait down her back in a plain blue-grey band-collared work jacket stands very still, three-quarters turned away, and at her feet sits a small pet carrier of the century: a smooth rounded capsule of pale matte composite with no handle and nothing to carry it by, one end a flush panel of fine woven lattice, that end turned away from the lens. A boy of about eight in a plain soft jumper, plain trousers and scuffed shoes enters from behind the lens, passes close by it and goes away down the lane with his back to the camera, ducking under elbows, never turning to the camera, and comes out at the front beside the capsule. He crouches, reaches to the far side of it, then leans forward low with his back squarely to the lens, so that his body and the capsule hide whatever is on the floor in front of him. He says one word, No, in an ordinary clear child's voice, the only word spoken in the whole clip, with no caption. He closes the lattice panel. Nobody moves for a moment; then one figure in a plain apron at the lit doorway laughs once, shoulders only. The boy stands and lifts the capsule hugged in both arms against his chest as if it had some weight, the lattice end against him, and half turns his head towards the woman, in profile only, never to the lens. Then the whole walkway starts to move again as if it had never stopped: the standing figures turn, the lane closes, and legs walk past the lens on both sides, unhurried, towards and away, blurring the near frame, while the boy and the woman go off down the lane among them. Ambient sound only apart from that one word: the low hum of a running deck, shoes on the deck surface, cloth, the one laugh; no music, no narration, no other speech. No on-screen text, letters, numbers, signage, subtitles, captions or watermarks. No holograms, projected interfaces, glowing UI, screens or floating icons. No lens flares, no light streaks, no volumetric god rays. No camera drift down the walkway, no crash zoom, no whip pan, no rise above the crowd, no camera passing through anyone. No jump scares, no gore, no horror imagery, no menace. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway, in any hand or in the boy's arms, not blurred, not partly, not in silhouette. No plastic pet carrier, no wire door, no carry handle, no box shape, no airline crate, nothing visible through the lattice. No uniform, no badge, no weapon, no futuristic gadget. No louvred grille, no riveted steel, no exposed screws, no stainless-steel kitchen, no restaurant corridor, no boiler room, no present-day building. Not a music-video montage, not a trailer.
+**Prompts to paste, each as one line.** Enter sends in that box, so each part
+goes in as one paragraph. Part 1 carries the whole staging. Parts 2 and 3 are
+extensions, and they repeat the mount, the staging and the negatives, since an
+extension is not known to carry them over.
 
-**Negatives, as objects** (they travel inside the prompt above; listed here for
+**Part 1, the walk (10 seconds).**
+
+> Footage from a small fixed recording device resting on the rim of a low waste bin at the far end of a walkway aboard a large space habitat, about knee height, looking straight down the length of the walkway, never moved and never lifted for the whole take, the frame alive only with the faint continuous vibration of a deck that is running. Long unbroken take, one shot, no cuts. Diegetic light only: warm light spilling from a rounded galley doorway midway down the right-hand wall and soft even habitat daylight, nothing glowing that would not glow. Matte surfaces, real materials, wear along the walking line. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field, the near legs sharp and the far end soft. Warm, ordinary, a little funny and quietly dramatic, a habitat's afternoon, not haunted. 24 fps, 16:9 landscape, 10 seconds. The walkway is unmistakably a habitat's: wall and floor of smooth seamless pale composite meeting in a softly rounded cove, the floor a matte resilient deck surface worn faintly smooth along the walking line, no fittings and no signage. It is full of people at shift change in plain work clothes of quiet natural colours and not one of them is moving: they stand on both sides of the walking line leaving a narrow lane down the middle, backs and shoulders to the lens, every figure leaning a little towards one place on the floor midway down near the lit doorway, which the standing bodies hide completely from the lens for the whole take, so that the lens sees only legs, backs and the lane. At the far end of the lane, small with distance and softened, a young woman with a long dark plait down her back in a plain blue-grey band-collared work jacket stands very still, three-quarters turned away, and at her feet sits a small pet carrier of the century: a smooth rounded capsule of pale matte composite with no handle and nothing to carry it by, one end a flush panel of fine woven lattice, that end turned away from the lens. A boy of about eight in a plain soft jumper, plain trousers and scuffed shoes enters from behind the lens, passes close by it and goes away down the lane with his back to the camera, ducking under elbows, never turning to the camera, and comes out at the front and stops beside the capsule, standing still with his back to the lens. Nobody else moves. Ambient sound only: the low hum of a running deck, the boy's shoes on the deck surface, cloth; no music, no narration, no speech. No on-screen text, letters, numbers, signage, subtitles, captions or watermarks. No holograms, projected interfaces, glowing UI, screens or floating icons. No lens flares, no light streaks, no volumetric god rays. No camera drift down the walkway, no crash zoom, no whip pan, no rise above the crowd, no camera passing through anyone. No jump scares, no gore, no horror imagery, no menace. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway, in any hand, not blurred, not partly, not in silhouette. No plastic pet carrier, no wire door, no carry handle, no box shape, no airline crate, nothing visible through the lattice. No uniform, no badge, no weapon, no futuristic gadget. No louvred grille, no riveted steel, no exposed screws, no stainless-steel kitchen, no restaurant corridor, no boiler room, no present-day building. Not a music-video montage, not a trailer.
+
+**Part 2, the four seconds (extend by 10 seconds).**
+
+> Continue the same unbroken shot with no cut, from the same small fixed device on the rim of the bin at knee height, never moved, the same light, the same habitat walkway. The standing crowd stays perfectly still on both sides of the lane, backs to the lens, and the bodies still hide the floor near the lit doorway completely. The boy stands a moment beside the pale capsule with his back to the lens. Then, in one plain unhurried action of about four seconds, he crouches, reaches to the far side of the capsule, then leans forward low with his back squarely to the lens, so that his body and the capsule hide whatever is on the floor in front of him, and nothing but his back is seen. He says one word, No, in an ordinary clear child's voice, the only word spoken in the whole clip, with no caption. He closes the lattice panel on the far side of the capsule. Then he stays crouched and still with both hands on the shut capsule, and nothing else moves. Ambient sound only apart from that one word: the low hum of a running deck, cloth; no music, no narration, no other speech. No on-screen text, letters, numbers, subtitles or captions. No camera movement, no cut, no closer view, no rise above the crowd. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, in any hand or in the boy's arms, not blurred, not partly, not in silhouette; his hands stay out of sight or empty. No wire door, no carry handle, nothing visible through the lattice. The boy never turns to the camera.
+
+**Part 3, the walkway moves (extend by 10 seconds).**
+
+> Continue the same unbroken shot with no cut, from the same small fixed device on the rim of the bin at knee height, never moved, the same light, the same habitat walkway. Nobody moves for a moment. Then one figure in a plain apron at the lit doorway laughs once, shoulders only. The boy stands and lifts the pale capsule, hugged in both arms against his chest as if it had some weight, the lattice end against him, and half turns his head towards the young woman with the long plait, in profile only, never to the lens. Then the whole walkway starts to move again as if it had never stopped: the standing figures turn, the lane closes, and legs walk past the lens on both sides, unhurried, towards and away, blurring the near frame, while the boy and the woman go off down the walkway among them. Ambient sound only: the low hum of a running deck, the one laugh, shoes on the deck surface, cloth; no music, no narration, no speech. No on-screen text, letters, numbers, subtitles or captions. No camera movement, no cut, no rise above the crowd, no camera passing through anyone. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway or in any hand, not blurred, not partly, not in silhouette, and nothing visible through the lattice. No wire door, no carry handle. Warm, ordinary, a little funny, not haunted; not a music-video montage, not a trailer.
+
+**Negatives, as objects** (they travel inside the prompts above; listed here for
 the judging): text, letters, numbers, signage, subtitles, captions,
 watermarks; holograms, projected interfaces, glowing UI, screens, floating
 icons; lens flares, light streaks, god rays; camera drift down the walkway,
@@ -1672,13 +1686,13 @@ one is spoken, or the word comes from anyone but the boy; if the camera leaves
 the bin, drifts down the lane or rises above the crowd; if the walkway reads as
 a present-day building; if anything glows that would not glow; and if the
 walkway does not move at the end, since that motion is half of why the clip
-exists. Frames at 0, 5, 10, 15, 20, 25 and 29 s, by the 8 October method; a
-take that passes the frames is then watched once for the sound.
+exists. Frames at 0, 5 and 9 s of each part, by the 8 October method; a
+part that passes the frames is then watched once for the sound, and the joins
+are watched for a jump in the crowd or the carrier.
 
-**Open at the time of writing.** Whether the box will give a single 30-second
-take or needs the chained pair; whether it will carry a child's one word
-without captioning it; and whether a prompt of this length goes in whole. If
-it does not, the sentences to cut first are the century's object negatives
-(louvres, rivets, screws), which the positive description of the composite
-walkway already carries, and never the staging sentences or the creature
-negatives.
+**Open at the time of writing.** Whether an extension holds the mount and the
+crowd from the last frame; whether it will carry a child's one word without
+captioning it; and whether part 1 goes in whole at its length. If it does not,
+the sentences to cut first are the century's object negatives (louvres, rivets,
+screws), which the positive description of the composite walkway already
+carries, and never the staging sentences or the creature negatives.
