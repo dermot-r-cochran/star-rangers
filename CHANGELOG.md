@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **Official Editions lists the two subdomain editions; Reading Tiers counts Below the Roof's third season** (`src/official/index.md`, `src/tiers/index.md`, 2026-11-03, Fable, the November whole-site review's one improvement). The page that calls itself the authority on where the record is published, and says an address not on its list is not an official copy, never listed `young.fianilchruinne.com` (Young Star Rangers) or `told.fianilchruinne.com` (The Told), both registered in `lib/editions.js` and named as doors on the Reading Tiers page. Both now appear under *Branded editions*. The tiers page's children's rung said Below the Roof was Seasons 11 and 12; Season 14 has been in the thread since 19 October, and the count now says three.
+- **Official Editions lists the two subdomain editions; Reading Tiers counts Below the Roof's third season** (`src/official/index.md`, `src/tiers/index.md`, 2026-11-03, Fable, the November whole-site review's one improvement). The page that calls itself the authority on where the record is published, and says an address not on its list is not an official copy, never listed `young.fianilchruinne.com` (Young Star Rangers) or `told.fianilchruinne.com` (The Told), both registered in `lib/editions.js` and named as doors on the Reading Tiers page. Both now appear under *Branded editions*. The tiers page's children's rung said Below the Roof was Seasons 11 and 12; Season 14 has been in the thread since 19 October, and the line now names it; whether it is complete as it stands is still open, so it is not called complete.
 
 ## [1.58.0] — 2026-11-02
 
