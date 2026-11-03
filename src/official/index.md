@@ -30,6 +30,8 @@ description: "The complete list of official Fian Ilchruinne deployments. If the 
   <li><strong>fellowshipoflight.org</strong>, <strong>.site</strong>, <strong>.online</strong> and <strong>.space</strong> — Fellowship of Light.</li>
   <li><strong>church-space.site</strong> and <strong>church-space.online</strong> — Church Space.</li>
   <li><strong>undercover-pets.com</strong> — Undercover Pets.</li>
+  <li><strong>young.fianilchruinne.com</strong> — Young Star Rangers.</li>
+  <li><strong>told.fianilchruinne.com</strong> — The Told.</li>
 </ul>
 
 <h2>Alias addresses</h2>
