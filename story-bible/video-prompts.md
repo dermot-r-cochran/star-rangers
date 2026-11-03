@@ -1513,3 +1513,172 @@ for an Earth-sized world from 52–54° N:
 **Not on record, low-risk:** the west-coast bay, the green hills, birds, the
 rail's work lamps and causeway mast, a rail site on this coast, the craft that carries passengers on from low orbit (the
 record names no class, so the brief names none).
+
+---
+
+## A clip for *Four Seconds*, offered 3 November 2026, written before anything is generated
+
+Dermot's request, verbatim: *"The scene where Lev catches Muffin."* That is
+S02E10C01 *Four Seconds* (`src/seasons/s02/e10/s02e10c01.md`), scene 2, Lev's
+viewpoint, on the Deck 7 walkway of Eden Space Habitat in late summer 2827 UCSD.
+One clip, up to 30 seconds, run on Grok Imagine from his Chrome by the loop the
+8 October section set; nothing has been generated at the time of writing.
+
+**Why it earns a clip.** The chapter's title is a duration: the act takes
+*about four seconds*, and a still cannot be four seconds long. And the
+chapter's last motion, the walkway starting to move again *as if it had never
+stopped*, is a motion a still cannot show at all, where `lev.jpg` could only
+imply it with blurred adults behind the boy. Those two things are the clip.
+Everything else in it is what the record gives, in the record's order: the
+crowd stopped and bent towards one point; a boy of about eight coming through
+under elbows to the front; a detective with a long plait standing very still;
+a box at her feet; the box opened; a crouch, and a lift from behind with his
+back to the lens; one word; the box shut; a cook's single laugh; the box picked
+up; the walkway moving.
+
+**What is never in frame.** Muffin is not depicted. `lev.jpg`'s entry rules it
+(*Muffin is never depicted, and the shut carrier is the point*), and
+`muffin.jpg`'s entry records why: two rounds with the entity as a defocused
+shape in frame resolved into a recognisable cat all four times. So no animal
+may be visible as Muffin in any frame, not blurred, not partly, not in
+silhouette. This is solved by staging, not by a negative. Grok respects an
+object negative (the 8 October lesson), but a positive mention of a creature
+draws one, so the prompt below does not describe the creature at all, and
+nothing in it says what is at the warm patch. The one mention of the thing
+Lev lifts is *whatever is on the floor in front of him*, and the staging puts
+his back and the carrier between it and the lens for the whole take.
+
+**The mount, and why.** The camera is Barsik's own position in scene 3: a
+small recording device resting on the rim of the bin at the end of the
+walkway, about knee height, looking straight down the walkway's length. Three
+reasons. It is in the record, so the footage is something the record itself
+would hold (*Instrument footage is a legitimate viewpoint*). It is low, so a
+stopped crowd standing either side of the walking line is a wall of legs and
+backs with one narrow lane down the middle, and the floor at the warm patch
+midway down is hidden behind bodies from a lens at that height, where a
+bulkhead mount higher up would see over the crowd straight onto it. And it is
+behind the boy: he comes to the walkway from behind the lens and goes away
+down the lane, so the lens has his back from the first second to the last, his
+face is never nearer than a half-profile at distance, and when he crouches at
+the carrier his own body is what hides the floor in front of him. That keeps
+him modest and ordinary without saying so. The tension with the house
+signature is real: the preamble says *never locked off and never settling*,
+and the 8 October lesson says Grok does not hold a fixed camera unless the
+mount is named. The clip takes the mount, names it, and gives the drift to the
+first anchor instead, the hum: the frame is alive only with the faint
+vibration of a running deck, which is what a device set down on a bin would
+pick up. The ark clip of 8 October drifted a little on a named mount and
+passed, so a little drift here would pass too; a camera that leaves the bin,
+walks down the lane or rises above the crowd fails.
+
+**The register.** The shared preamble's *Enigmatic, haunting, beautiful,
+quietly dramatic* is written for the landscapes and the ark. This is an
+Undercover Pets chapter, and `lev.jpg` already sets its register: *lit warm and
+ordinary, not haunted*. So the preamble's tone line is replaced in this prompt
+by *warm, ordinary, a little funny and quietly dramatic, a habitat's
+afternoon, not haunted*. *Quietly dramatic* stays, because a whole deck
+holding still for a child is drama in the runbook's sense, a shape that
+arrives somewhere; *haunting* goes, because the page's whole point is that the
+room is pleasant. The rest of the preamble, diegetic light, matte surfaces,
+grain, patience, no event arriving suddenly, is kept word for word.
+
+**The century.** A habitat's walkway and not a present-day corridor (Dermot's
+11 October note on `muffin.jpg`, *also looks anachronistic*) and not a boiler
+room: smooth seamless pale composite wall and floor meeting in a rounded cove,
+a matte resilient deck surface worn faintly smooth along the walking line, a
+rounded galley doorway with warm light spilling from it, no fittings and no
+signage, with the present-day building negated as objects (louvres, rivets,
+screws, stainless steel, a restaurant corridor). The carrier is the century's
+one from `lev.jpg`: a smooth rounded capsule of pale matte composite with no
+handle and nothing to carry it by, one end a flush panel of fine woven
+lattice, so he has to hug it. The lattice end faces away from the lens
+throughout, which both keeps the opening out of sight and keeps the generator
+from drawing anything behind the mesh. Lev is as `lev.jpg` carries him: plain
+children's clothes of no recognisable period, no look to camera, heritage not
+in the record and not in the prompt. Detective Achebe's page describes her
+(a young Black woman, locs tied back, a plain blue-grey band-collared work
+jacket); the chapter says *a detective with a long plait*. The prompt keeps her
+to what the chapter gives, a figure in that jacket with a long dark plait down
+her back, three-quarters turned away and small with distance, and nothing
+about her face, so that nothing in the clip asserts more about her than the
+chapter does.
+
+**The rabbit.** Knopka is an ordinary brown rabbit and could be shown; this
+clip does not show her. The record has her hop out and go *straight past
+everyone's feet towards the galley, where the warm was*, which is a real
+animal going to the warm patch, exactly the thing a viewer would read as
+Muffin, and a generator asked for one small animal leaving a box and then a
+boy lifting something from the floor would put the animal in his hands. So the
+carrier's door faces away from the lens, the boy opens it on the far side, and
+whatever leaves it leaves out of the lens's sight. The frame knows less than
+the scene, which is the runbook's rule for the witness; Achebe going to get
+her rabbit happens in the chapter after the clip ends. The shared negative
+against *any small animal* therefore stands unqualified, and a rabbit in
+frame fails the take like anything else would.
+
+**Dialogue.** The child says one word, *No*, and the prompt says plainly that
+it is the only word spoken and that there is no caption. Recommendation: run
+take 1 with the word, because the word is the scene and the staging (his back
+to the lens, eight metres off) leaves nothing to lip-sync. If the take
+letters a caption, adds any other speech or gives the word to the wrong
+figure, take 2 runs the fallback, which is the same prompt with the sentence
+*He says one word ... with no caption* replaced by *He says nothing; nobody
+speaks*, and *apart from that one word* struck from the sound sentence. In the
+fallback the word is carried by what the chapter puts around it, the
+stillness, then the single laugh, then the walkway moving. Either version is
+filed with its prompt as run.
+
+**One take or two.** The sequence is eight beats and the 8 October clips were
+each one motion, so this is the first clip asked to hold a sequence. It should
+hold in one prompt at 30 seconds, because the beats are few, large and in one
+direction (a walk away from the lens, a crouch, a stand, a dispersal) and the
+camera does nothing. If the box will not give one 30-second take, or a take
+drops beats, the fallback is a chained pair, extended from the last frame, with
+the join at the shut carrier: part one (about 15 seconds) runs from the
+stopped crowd through the boy's walk down the lane, the crouch, the lean
+forward, the word and the panel closing, and holds on his hands on the shut
+lattice; part two (about 15 seconds) starts from that frame with the pause,
+the laugh, the stand with the capsule hugged, the half-turn, and the walkway
+moving. The join sits there because the carrier is shut on both sides of it
+and nothing is moving, so no creature can appear at the seam and a small
+mismatch in the crowd will not read.
+
+**Prompt to paste, as one line.** Enter sends in that box, so the whole thing
+goes in as one paragraph: preamble as adjusted, the scene, the sound, and the
+negatives, all inside it.
+
+> Footage from a small fixed recording device resting on the rim of a low waste bin at the far end of a walkway aboard a large space habitat, about knee height, looking straight down the length of the walkway, never moved and never lifted for the whole take, the frame alive only with the faint continuous vibration of a deck that is running. Long unbroken take, one shot, no cuts. Diegetic light only: warm light spilling from a rounded galley doorway midway down the right-hand wall and soft even habitat daylight, nothing glowing that would not glow. Matte surfaces, real materials, wear along the walking line. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field, the near legs sharp and the far end soft. Warm, ordinary, a little funny and quietly dramatic, a habitat's afternoon, not haunted. 24 fps, 16:9 landscape, 30 seconds. The walkway is unmistakably a habitat's: wall and floor of smooth seamless pale composite meeting in a softly rounded cove, the floor a matte resilient deck surface worn faintly smooth along the walking line, no fittings and no signage. It is full of people at shift change in plain work clothes of quiet natural colours and not one of them is moving: they stand on both sides of the walking line leaving a narrow lane down the middle, backs and shoulders to the lens, every figure leaning a little towards one place on the floor midway down near the lit doorway, which the standing bodies hide completely from the lens for the whole take, so that the lens sees only legs, backs and the lane. At the far end of the lane, small with distance and softened, a young woman with a long dark plait down her back in a plain blue-grey band-collared work jacket stands very still, three-quarters turned away, and at her feet sits a small pet carrier of the century: a smooth rounded capsule of pale matte composite with no handle and nothing to carry it by, one end a flush panel of fine woven lattice, that end turned away from the lens. A boy of about eight in a plain soft jumper, plain trousers and scuffed shoes enters from behind the lens, passes close by it and goes away down the lane with his back to the camera, ducking under elbows, never turning to the camera, and comes out at the front beside the capsule. He crouches, reaches to the far side of it, then leans forward low with his back squarely to the lens, so that his body and the capsule hide whatever is on the floor in front of him. He says one word, No, in an ordinary clear child's voice, the only word spoken in the whole clip, with no caption. He closes the lattice panel. Nobody moves for a moment; then one figure in a plain apron at the lit doorway laughs once, shoulders only. The boy stands and lifts the capsule hugged in both arms against his chest as if it had some weight, the lattice end against him, and half turns his head towards the woman, in profile only, never to the lens. Then the whole walkway starts to move again as if it had never stopped: the standing figures turn, the lane closes, and legs walk past the lens on both sides, unhurried, towards and away, blurring the near frame, while the boy and the woman go off down the lane among them. Ambient sound only apart from that one word: the low hum of a running deck, shoes on the deck surface, cloth, the one laugh; no music, no narration, no other speech. No on-screen text, letters, numbers, signage, subtitles, captions or watermarks. No holograms, projected interfaces, glowing UI, screens or floating icons. No lens flares, no light streaks, no volumetric god rays. No camera drift down the walkway, no crash zoom, no whip pan, no rise above the crowd, no camera passing through anyone. No jump scares, no gore, no horror imagery, no menace. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway, in any hand or in the boy's arms, not blurred, not partly, not in silhouette. No plastic pet carrier, no wire door, no carry handle, no box shape, no airline crate, nothing visible through the lattice. No uniform, no badge, no weapon, no futuristic gadget. No louvred grille, no riveted steel, no exposed screws, no stainless-steel kitchen, no restaurant corridor, no boiler room, no present-day building. Not a music-video montage, not a trailer.
+
+**Negatives, as objects** (they travel inside the prompt above; listed here for
+the judging): text, letters, numbers, signage, subtitles, captions,
+watermarks; holograms, projected interfaces, glowing UI, screens, floating
+icons; lens flares, light streaks, god rays; camera drift down the walkway,
+crash zoom, whip pan, rise above the crowd, camera through anyone; jump scare,
+gore, horror imagery, menace; cat, dog, kitten, puppy, lamb, small animal of
+any kind, fur, ears, tail, face, eyes, on the floor, at the doorway, in any
+hand or in the boy's arms; plastic pet carrier, wire door, carry handle, box
+shape, airline crate, anything visible through the lattice; uniform, badge,
+weapon, futuristic gadget; louvred grille, riveted steel, exposed screws,
+stainless-steel kitchen, restaurant corridor, boiler room, present-day
+building; music-video montage, trailer.
+
+**Judging a take.** It fails, first of all, if any creature is visible at the
+warm patch, on the floor, at the doorway, in any hand or in the boy's arms,
+blurred, partial or in silhouette, with no exception for a rabbit. It fails if
+the boy's face turns to the lens or is seen nearer than a half-profile at
+distance; if the carrier shows a handle, a wire door, a box shape or anything
+behind the lattice; if any lettering or caption appears; if any word but the
+one is spoken, or the word comes from anyone but the boy; if the camera leaves
+the bin, drifts down the lane or rises above the crowd; if the walkway reads as
+a present-day building; if anything glows that would not glow; and if the
+walkway does not move at the end, since that motion is half of why the clip
+exists. Frames at 0, 5, 10, 15, 20, 25 and 29 s, by the 8 October method; a
+take that passes the frames is then watched once for the sound.
+
+**Open at the time of writing.** Whether the box will give a single 30-second
+take or needs the chained pair; whether it will carry a child's one word
+without captioning it; and whether a prompt of this length goes in whole. If
+it does not, the sentences to cut first are the century's object negatives
+(louvres, rivets, screws), which the positive description of the composite
+walkway already carries, and never the staging sentences or the creature
+negatives.
