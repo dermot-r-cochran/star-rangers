@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Aphel: the season's opening and closing are about four months each, not short** (`src/lore/planets/aphel.md`, 2026-11-03, Fable, the Benevolent Critic read of #1640–#1645). The page's own figures (a year of about thirty months, three and a half of growing light, eighteen under a tenth of Earth's) leave about eight and a half months for the two transitions, and the orbit's working in `story-bible/species-design.md` gives 264 days, so *and they are short* contradicted the page's arithmetic; the clause now states the length. Nothing else in the five PRs needed a fix; the read is in the PR. Counter-critic: one improvement.
+
 - **Official Editions lists the two subdomain editions; Reading Tiers counts Below the Roof's third season** (`src/official/index.md`, `src/tiers/index.md`, 2026-11-03, Fable, the November whole-site review's one improvement). The page that calls itself the authority on where the record is published, and says an address not on its list is not an official copy, never listed `young.fianilchruinne.com` (Young Star Rangers) or `told.fianilchruinne.com` (The Told), both registered in `lib/editions.js` and named as doors on the Reading Tiers page. Both now appear under *Branded editions*. The tiers page's children's rung said Below the Roof was Seasons 11 and 12; Season 14 has been in the thread since 19 October, and the line now names it; whether it is complete as it stands is still open, so it is not called complete.
 
 ## [1.58.0] — 2026-11-02

@@ -17,7 +17,7 @@ Everything awake on Aphel is in a hurry, and the reason is in its orbit, not its
 
 Aphel's year is about two and a half standard years. At its nearest it is a little over two-thirds as far from its star as Earth is from the Sun; at its farthest it is four times further out than that. A world on such an orbit moves fastest when it is nearest, four times as fast at the near point as at the far one, so the close pass is quick and the far reach is slow. At the close pass the star shows a disc a little wider than the Sun's from Earth, and the light on the ground is not far short of Earth's. At the far point the star is a small hard disc a quarter that width, and its light a sixteenth of what the close pass brings.
 
-So the year has two parts, and they are not equal. Light strong enough for anything on Aphel to grow lasts about three and a half months. For about eighteen months of the rest, the light is under a tenth of Earth's. The months between are the opening and the closing of the season, and they are short.
+So the year has two parts, and they are not equal. Light strong enough for anything on Aphel to grow lasts about three and a half months. For about eighteen months of the rest, the light is under a tenth of Earth's. The months between are the opening and the closing of the season, about four months at each end.
 
 Nothing about the long dark is a mystery. It is the shape of the orbit, and it comes back to the day. Everything alive on Aphel knows when the season will close, and the danger is never that the close comes early. It is that the year's work is not finished when it comes. That is the fact the Convened are built on (below).
 
