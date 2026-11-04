@@ -20,7 +20,7 @@ Most survey verdicts that matter arrive too late to be of any use. Fliade's arri
   Your browser does not support the video element. <a href="/star-rangers/video/fliade.mp4">Download the clip</a>.
 </video>
 
-*Ten seconds from a survey camera in a deep cavern, where water drips into a pool under the fungi's steady light.*
+*Ten seconds from a survey camera in a cavern, where water drips into a pool under the fungi's steady light.*
 
 **Fliade** is a rocky terrestrial world orbiting far enough from its star to sit well below Earth-like temperatures across nearly all of its surface. Its equatorial band is the most hospitable ground on the planet and reaches cool temperate conditions at the peak of its season; even there, snowfall is ordinary and standing water freezes for long stretches of the year. The poles are permanently glaciated and support no surface-dwelling life worth the name. A visitor who judged the planet from orbit, or from a season on the equatorial plain, would file it as marginal.
 
