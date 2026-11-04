@@ -53,6 +53,13 @@ Prismere's low gravity and dense, particulate-rich atmosphere support a genuinel
 
 ![Translucent bell-shaped gas-bladder animals drifting in a thick golden haze, lit from behind, trailing long fine feeding tendrils, the faint arc of a planetary ring high in the sky](/star-rangers/images/lore/prismere-driftjellies.jpg)
 
+<video controls preload="none" poster="/star-rangers/video/prismere-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/prismere.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/prismere.mp4">Download the clip</a>.
+</video>
+
+*Ten seconds from a survey camera at the edge of a lumenspire grove at dusk, looking up as driftjellies ride a thermal.*
+
 Ground level belongs to **thornbacks**, armored, crystal-spined grazing fauna that browse glasswood undergrowth and shelter in lumenspire root-shadow during the brightest hours of the local day. Their shells are Prismere's most commonly exported novelty mineral good, shed naturally during growth molts and collected rather than harvested from a living animal.
 
 Prismere's apex aerial predator is the **umbral ray** — a large, silent glider with a biomechanical-looking wing structure adapted for hunting driftjelly colonies and, on rare confirmed occasions, unwary Prismeri who stray from lumenspire settlements after dark without a Lattice-reader's escort. Umbral rays hunt by riding the same thermals driftjellies do, closing in total silence; Prismeri settlements univerally observe a dusk curfew for exactly this reason.

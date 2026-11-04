@@ -13,6 +13,13 @@ locationType: "Gas Giant"
 
 The Ollune have no name for Cirrane. Not a disputed one, not several — none. A world is a thing you can stand off from and look at, and no one born inside a permanent overcast, with no ground beneath and no clear sky above, has ever been in a position to see one. *Cirrane* is a Federation survey catalogue entry. The people who live there were told what they live in, and have taken the news with reasonable grace.
 
+<video controls preload="none" poster="/star-rangers/video/cirrane-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/cirrane.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/cirrane.mp4">Download the clip</a>.
+</video>
+
+*Ten seconds from a Federation survey probe's camera, carried in the temperate shell and looking along the shear between two bands.*
+
 What they do have a name for is **Freyari**, and it is not a name for the planet. Freyari is the band of habitable air wrapped around it — the whole of the world as anyone born inside it encounters the world. Ollune translators are firm that the two words do not denote the same object, in a way Federation cartography has never quite accommodated: Cirrane is a body some tens of thousands of kilometres deep, of which all but a sliver is irrelevant to every living thing on it, and Freyari is the sliver. In ordinary Ollune usage the word also does duty for *everywhere*.
 
 **Cirrane** is the fourth planet of the **Vantine System**: a banded gas giant of unremarkable mass, no rings worth the mention, and a moon system Federation survey has catalogued and largely ignored. It is a member world of the [Federation of Sentient Beings](/star-rangers/lore/federation-of-sentient-beings/) on account of the one thing about it that is not unremarkable, which is that it is inhabited.

@@ -1696,3 +1696,144 @@ captioning it; and whether part 1 goes in whole at its length. If it does not,
 the sentences to cut first are the century's object negatives (louvres, rivets,
 screws), which the positive description of the composite walkway already
 carries, and never the staging sentences or the creature negatives.
+
+---
+
+## Three setting clips offered 4 November 2026, written before anything is generated
+
+Dermot's request, verbatim: *"short video clips for star-rangers site"*, then,
+offered choices, *"Add clips to the site"* and *"Setting / ambience"*. The
+answer follows the 8 October loop exactly: three worlds whose pages already
+carry a filed still, each extended into one held shot of ten seconds in the
+house motion signature, where a still can only imply the one motion the page
+is about. Grok Imagine from his Chrome, 720p 16:9 (the 8 October ceiling),
+two takes each, his pick, anything lettered or physically wrong dropped
+rather than healed. Kept clips go into `src/video/` with a poster frame and an
+entry here, embedded on their pages, by one pull request.
+
+All three are places with no person in them, so they sit inside the camera
+rule (a habitat, a world no camera has been to) and are Opus's to write under
+the 16 October line in `CLAUDE.md` (a world, a station or a view from orbit).
+Each prompt is derived from its page and from the filed still's own prompt in
+`images.md`, so the moving version and the still read as one place. The 8
+October lessons are applied in all three: the mount is named, the one thing
+that moves is stated as the one thing that moves, and the negatives are given
+as objects.
+
+### E. The shear on Cirrane (Cirrane; `planets/cirrane.jpg`)
+
+**Why it earns a clip.** The page's political geography is motion: bands each
+moving at their own speed, and the shear between them, which no still can show
+as moving. The still (re-made 19 October from inside the haze) is the frame;
+the clip makes the billows roll and the haze fall. The Long Eye is left out
+for the still's reason, since any oval storm draws the Jupiter reading. No
+Ollune: their body is settled in `species-design.md`, and a generator asked
+for none will draw none, where one asked for a creature draws a jellyfish.
+
+> Footage from the camera of a Federation survey probe floating in the temperate shell of a gas giant, carried along by its own layer of air, level and looking out sideways along that layer, never down at the planet, the frame alive only with the faint slow sway of a buoyant instrument. Long unbroken take, one shot, no cuts. Diegetic light only: diffuse sunlight through haze; nothing glows that would not glow. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, soft haze contrast. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. The air all round is a warm luminous haze of fine organic particles drifting slowly downward through the light in thin veils for the whole take. High above, a vast pale cloud deck closes off the sky like a ceiling; far below, a darker amber deck fades into depth. Across the middle distance two enormous horizontal bands of cloud slide past each other in opposite directions, and along the boundary between them a long row of wave-like billows curls over, rolls and tears into sideways streamers, continuously and slowly. That rolling shear and the falling haze are the only motion. Muted cream, ochre and tawny gold in the light, deep amber and brown in the depths. No ground, no horizon line, no surface, no planet disc, no oval storm, no red spot, no top-down or orbital view, no rings, no moon, no stars. No creatures, no jellyfish, no balloons, no figures, no vehicles, no probe in frame. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms, projected interfaces or glowing UI. No lens flares, no light streaks, no volumetric god rays. No drone flythrough, no crash zoom, no whip pan. No jump scares, no lightning strike toward camera, no horror imagery. No time-lapse clouds. Not a music-video montage, not a trailer.
+
+**Judging a take.** It fails if a planet disc, an oval storm or a horizon
+appears; if anything solid or alive is in frame; if the bands do not move
+relative to each other, or the clouds race as in a time-lapse; and if any
+lettering appears.
+
+### F. The tower that never stops working (Saltmere)
+
+**Why it earns a clip.** The page's description is a motion: a mooring tower
+*that never stops working*, a platform hull that rides the swell and drifts on
+its tether, and a design whose whole point is that it gives. The filed stills
+are Dermot's own frames of a present-day jetty, which the 2026 audit counts as
+built-thing photographs that pass; this clip does not replace them, and shows
+what they could not, a tower in open ocean with a city segment on its cable.
+A habitat, so inside the camera rule. Day, in a running swell, because the
+page's register is practical and the storm is the failure the design
+prevents.
+
+> Footage from a fixed weatherproof camera mounted high on the upper platform of a tall open-truss mooring tower standing in open ocean on a world with no land anywhere, looking down along the tower's long truss causeway to the edge of a large floating city platform beyond, the frame alive only with the faint vibration of a structure that is always working. Long unbroken take, one shot, no cuts. Diegetic light only: overcast daylight on the sea; nothing glows that would not glow. Matte surfaces, real materials, salt-stain, weathering and wear. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain. Enigmatic, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. Grey-green open water in a long heavy swell under a low grey sky, the sea running to the horizon on every side with no coast, island or rock anywhere. The tower's legs go straight down into the water and do not move. Thick mooring cables run from the tower's foot down into the sea at a slant and out to the platform. The platform is a broad low hull carrying plain weathered low buildings of pale composite, and it rides the swell slowly, rising and settling and easing a little sideways on its cables, while the cables slacken and draw taut again with it. The platform's slow riding and the cables' slow give are the only motion apart from the sea. No people, no figures, no boats, no ships, no aircraft, no birds. No land, no beach, no cliff, no skyscrapers, no glass towers, no domes, no futuristic city skyline, no oil rig flare, no wind turbines. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms, projected interfaces, glowing UI or warning lights. No lens flares, no light streaks, no volumetric god rays. No drone flythrough, no crash zoom, no whip pan, no camera passing through solid objects. No storm, no lightning, no breaking wave over the platform, no disaster. Not a music-video montage, not a trailer.
+
+**Judging a take.** It fails if the platform is rigid or the tower moves; if
+land of any kind appears; if the platform reads as a present-day oil rig, a
+cruise ship or a sci-fi skyline; if anything glows; if anyone is in frame; and
+if any lettering appears.
+
+### G. Driftjellies over the lumenspires (Prismere; `prismere-driftjellies.jpg`)
+
+**Why it earns a clip.** The page calls Prismere *a genuinely aerial
+ecosystem*, and driftjellies the animals that ride thermals off the lumenspire
+groves in loose drifting colonies. Drifting is the thing a still cannot do.
+Dusk, so the lumenspires' internal light (biological, so it may glow: the
+house *nothing glows that would not glow* allows it) sits under the
+driftjellies' backlit bladders, which joins the page's two most photographed
+sights in one frame. Driftjellies are harmless and the page says so; the
+umbral ray is not in this clip, since a predator closing in silence is the
+one event the preamble refuses.
+
+> Footage from a fixed survey camera on a low tripod at the edge of a grove on a low-gravity world whose living things are built of glass and crystal, looking up and across at a thick hazy dusk sky, the frame alive only with the faint stir of the haze. Long unbroken take, one shot, no cuts. Diegetic light only: the last golden light of a low sun through haze, and below it the soft amber inner glow of living crystal towers; nothing else glows. Matte surfaces, real glass and mineral textures, dust and fine fractures. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, a long lens, shallow depth of field. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. Along the bottom of the frame a loose colony of tapering frosted-glass towers rises among dark crystalline trunks, each tower faintly amber from within, brightest at its base. Above them in the thick golden haze several translucent bell-shaped gas-bladder animals drift slowly upward and across on a rising thermal, each lit from behind at its rim, its thin veined skin showing the light through it, each trailing a long fine curtain of feeding tendrils that sways a little as it goes, the farthest pale in the haze. High in the sky the faint pale arc of a planetary ring. The animals' slow drift on the thermal is the only motion. No people, no figures, no vehicles, no other animals, no large flying shape, no wings, no bird. No jellyfish in water, no hot-air balloon, no paper lantern, no glowing tendrils, no neon, no sparkles, no magic particles, no fairy lights, no rainbow sheen. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms, projected interfaces or glowing UI. No lens flares, no light streaks, no volumetric god rays. No drone flythrough, no crash zoom, no whip pan. No jump scares, no sudden movement toward camera, no horror imagery. Not a fantasy illustration, not a 3D render, not a music-video montage, not a trailer.
+
+**Judging a take.** It fails if a winged shape or any creature but the
+driftjellies appears; if the driftjellies read as sea jellyfish, balloons or
+lanterns; if the tendrils or anything else glows neon or sparkles; if the
+render goes painterly or CGI, the 12 October ruling's failure; and if any
+lettering appears.
+
+**Where each goes.** On its page after the opening paragraph, by the 8
+October markup (`<video controls preload="none" poster=…>`), except Prismere,
+where the clip sits in *Native Fauna* after the driftjelly paragraph and
+replaces nothing.
+
+**Run and judged, 4 November 2026.** Grok Imagine from Dermot's Chrome, 720p
+(1080p is now offered in the menu but refused at submission), 10 s, 16:9,
+frames read at 0, 5 and 9.6 s in the browser. Six generations, two per world.
+
+- **E, take 1:** the shear rolls along its line, no disc, no horizon; by the
+  last second the billows tear into fibres that read as combed wool rather
+  than cloud. **Take 2** keeps them as cloud, true Kelvin–Helmholtz billows
+  under a pale deck over an amber depth, but moves less, a slow roll rather
+  than a tear. Both pass the judging lines; **take 2 recommended**, take 1
+  the alternate.
+- **F, take 1: failed.** A rigid truss pier ran from the tower straight onto
+  the platform, so nothing rode the swell, the platform read as a derelict
+  sea fort, and the shot was from the air rather than from the tower. The
+  prompt was revised before take 2, and the revision is the one of record:
+  the camera bolted to the tower's upper-deck rail, open water all the way to
+  a platform two hundred metres off, *nothing solid joins the tower to the
+  platform* with no pier, bridge, walkway or causeway named in the negative,
+  the cables lifting out of the water and sagging back, and *maintained and
+  in use, nothing derelict*. **Take 2 passes:** the tower's truss and rail
+  in the right of frame, three cables across the water, and the platform
+  swinging on them through the take with a small bow wave. Its hull reads a
+  little like a barge, which the page allows (*built and inspected like
+  one*).
+- **G, take 1: failed.** Sea jellyfish, bells and frilled arms, over spires
+  in an illustrated register: both the judging lines it was written to
+  catch. Revised before take 2, and the revision is the one of record:
+  *bell-shaped* struck (it is what draws the jellyfish), the bladders
+  described as lopsided wrinkled sacs wider than tall with a sparse fringe of
+  hair-fine threads, the long lens looking up into the sky as the filed
+  still does, the lumenspires reduced to tips along the bottom edge, the
+  still's *Photographed, not rendered* lines carried over, and *not
+  jellyfish* spelled out as objects. **Take 2 passes:** the sacs drift up
+  and across under the ring's arc, the spire tips stay put, grain and haze
+  throughout.
+
+Lettering: none in any take. Lesson for the next clips: a shape word draws
+its commonest owner (*bell* draws a jellyfish, *causeway* draws a pier), so
+describe the shape the page means and name the owner in the negative.
+
+**Revised prompt F, as run for take 2:**
+
+> Footage from a fixed weatherproof camera bolted to the rail of the upper deck of a tall open-truss mooring tower standing alone in open ocean on a world with no land anywhere, looking out across open water at a large floating city platform about two hundred metres away, the frame alive only with the faint vibration of a structure that is always working. Long unbroken take, one shot, no cuts. Diegetic light only: overcast daylight on the sea; nothing glows that would not glow. Matte surfaces, real materials, salt-stain and weathering, everything maintained and in use, nothing derelict. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain. Enigmatic, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. Grey-green open water in a long heavy swell under a low grey sky, the sea running to the horizon on every side with no coast, island or rock anywhere. Nothing solid joins the tower to the platform: there is open water all the way between them, and the only link is three thick mooring cables running from the tower's foot across the water to the platform's edge. The platform is a broad low floating hull carrying plain clean low buildings of pale composite, a working city segment, and it rides the swell for the whole take, rising and settling slowly and swinging a little sideways on its cables, while the cables lift out of the water and draw taut, then sag back into the sea. The platform's riding and the cables' slow give are the only motion apart from the sea; the tower does not move. No pier, no bridge, no walkway or causeway joining the tower to the platform. No people, no figures, no boats, no ships, no aircraft, no birds. No land, no beach, no cliff, no skyscrapers, no glass towers, no domes, no futuristic city skyline, no oil rig, no flare stack, no wind turbines, no ruins, no rust-eaten wreck. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms, projected interfaces, glowing UI or warning lights. No lens flares, no light streaks, no volumetric god rays. No drone flythrough, no aerial view, no crash zoom, no whip pan. No storm, no lightning, no breaking wave over the platform, no disaster. Not a music-video montage, not a trailer.
+
+**Revised prompt G, as run for take 2:**
+
+> Documentary footage from a fixed survey camera with a long lens on a low tripod, looking up into a thick hazy golden dusk sky over a low-gravity world whose living things are built of glass and crystal, the frame alive only with the faint stir of the haze. Long unbroken take, one shot, no cuts. Diegetic light only: the low sun behind the haze; nothing glows except where stated. Photographed, not rendered: real glass and mineral textures, haze between the lens and everything far off, high-ISO grain heavy in the shadows, slight softness toward the corners, muted natural colour. Restrained, patient, unhurried, no event arriving suddenly. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. The air is visibly thick with suspended particles. Drifting slowly upward and sideways across the sky on a rising thermal are several lopsided gas bladders of thin wrinkled veined membrane, each wider than it is tall, irregular and soft like a half-filled sac, backlit so its rim and veins show the light through it, each with a sparse fringe of hair-fine threads hanging straight down beneath it to catch dust; the nearest large and soft-focus, the farthest pale specks in the haze. Along the very bottom edge of the frame, small and dark, the tips of a few frosted-glass spires faintly amber from within. High in the sky the faint pale arc of a planetary ring. The animals' slow drift on the thermal is the only motion. Not jellyfish: no umbrella-shaped bells, no domes, no long frilled arms, no swimming pulse, no underwater look. No hot-air balloon, no paper lantern, no glowing tendrils, no neon, no sparkles, no magic particles, no fairy lights, no rainbow sheen. No people, no figures, no vehicles, no wings, no birds. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms or glowing UI. No lens flares, no light streaks, no god rays. No drone flythrough, no crash zoom, no whip pan. No jump scares, no horror imagery. Not a fantasy illustration, not concept art, not a digital painting, not a 3D render, not a music-video montage, not a trailer.
+
+**Filing, 4 November 2026.** The container cannot reach the generator's file
+host, so the takes came in as chat attachments, and were identified by their
+frames, not their filenames, since the names given on download did not match
+the worlds. Filed: **E take 2** as `cirrane.mp4` and **G take 2** as
+`prismere.mp4`, each with a poster frame at 5 s, embedded on their pages
+(Cirrane after the opening paragraph, Prismere in *Native Fauna* after the
+driftjelly photograph). Also received and not filed: G take 1 and F take 1,
+both failed above. **F take 2 is still owed**; `saltmere.mp4` lands when it
+arrives.
