@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Critic read of #1660–#1664: Fliade's clip caption no longer places a survey camera in a deep cavern** (`src/lore/planets/fliade.md`, 2026-11-04, Fable). The caption under the 4 November clip read *a survey camera in a deep cavern*; the same page says no survey instrument has been below the margin, and *deep* is its word for the networks the survey does not enter. One word dropped: *in a cavern*. Counter-critic: 1 improvement landed; 0 changes withheld; 0 regressions dropped. The seven setting clips and the *Four Seconds* prompt are otherwise read as fine; the findings are in the pull request.
+
 - **Ambience clips for Fliade, Winterbourne, Sentinel and Verdance** (`src/lore/planets/fliade.md`, `src/lore/planets/winterbourne.md`, `src/lore/planets/sentinel.md`, `src/lore/planets/verdance.md`, `src/video/`, `story-bible/video-prompts.md`, 2026-11-04, Opus, Dermot's *"Yes"* to a second set). Four ten-second clips generated on Grok Imagine, each a moving version of its page's still: water dripping in Fliade's caverns under a steady glow, an ascent javelin climbing beyond Winterbourne's down, a slow walk toward the Sentinel's receiver, and Verdance's four lands with the fen's flood-gate. Each is embedded with a poster frame.
 
 - **An ambience clip for Saltmere** (`src/lore/planets/saltmere.md`, `src/video/`, `story-bible/video-prompts.md`, 2026-11-04, Opus). The third clip of the set that gave Cirrane and Prismere theirs: ten seconds from a mooring tower's upper rail, a platform hull riding the swell on its cables across open water. Embedded with a poster frame after the opening paragraph.
