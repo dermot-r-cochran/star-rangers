@@ -1920,3 +1920,51 @@ biomes are in view, which is why the still could see them.
 **Judging a take.** It fails if the gate reads as a dam or spillway with a
 waterfall; if the camera flies or descends; if the four lands collapse into
 one; if the clouds race; and if any lettering appears.
+
+**Run and judged, 4 November 2026.** Grok Imagine from Dermot's Chrome, 720p,
+10 s, 16:9, frames read at 0, 5 and 9.6 s in the browser. Eight generations,
+two per world.
+
+- **H, both takes pass.** Take 1: the fungi strong amber and blue-green down
+  a long passage, drops ringing the pool, the glow steady; the passage a
+  little too round, like a bore. Take 2: truer growth (brackets, threads, dead
+  edges) and a drop splashing in the pool, the glow fainter. Take 2
+  recommended for the growth, take 1 the alternate for the light.
+- **I, take 1: failed.** The trail was drawn but did not climb, and the
+  villages came out as one modern housing row. Revised before take 2, and the
+  revision is the one of record: the sky empty at the start, a bright point
+  rising from beyond the crest and drawing the trail as it climbs, three
+  separate old hamlets with fields between them, and *no modern houses,
+  housing estate, terraced rows or slate roofs*. **Take 2 passes:** the point
+  rises from behind the down and the trail grows and spreads behind it. It is
+  nearer and louder than the still's (a launch just over the crest, the
+  plume's foot billowing), which the javelin page's *thrown*, near-vertical
+  boost allows; the still keeps it far.
+- **J, take 1 passes with a flaw:** a slow walk toward the receiver that
+  never arrives, the green disc still. The receiver carries a short mast,
+  which the negative named, and the disc is pale enough to read grey. **Take
+  2 failed:** the walk reaches the receiver, which fills the frame by the end.
+  Take 1 recommended, its mast a flaw passed as the 12 October batch passed
+  Peran Slade's look.
+- **K, take 1: failed.** A real-looking subarctic valley, one land not four,
+  and the gate too small to show its water. Revised before take 2, and the
+  revision is the one of record: the four lands given the page's own names
+  and a colour each (dark-green canopy forest, reed-green tidal fen, golden
+  temperate grassland, red-brown stony terraces under the camera) with sharp
+  borders, and the gate *large enough to see clearly* in the middle distance.
+  **Take 2 passes:** the four lands distinct, the gate a long low pale line
+  across the fen with water passing it; the motion is small at that
+  distance.
+
+**Revised prompt I, as run for take 2:**
+
+> Documentary footage from a fixed camera on a low tripod at the foot of a long chalk escarpment in late summer, the frame alive only with the faint stir of dry grass in a light breeze. Long unbroken take, one shot, no cuts. Available light, hazy warm afternoon, a high thin sky. The steep scarp face rises on the left to a bare rounded down of pale dry turf; along its foot, small with distance, three separate small old hamlets of flint and chalk-block cottages with reed-thatched roofs, each a cluster of a few cottages with open fields between them, along one lane. In the foreground a dry stream bed of pale gravel with no water in it, grass growing in the bed, and a plank footbridge over nothing. At the start of the take the sky is empty. Then, from far beyond the crest of the down, a tiny bright point rises into view and climbs steeply and steadily upward through the hazy sky, drawing a thin pale vapour trail behind it, so that the trail grows upward from the crest during the take and its lower end slowly softens and spreads. By the end the point is high and small and still climbing. The rising point with its growing trail, and the stirring grass, are the only motion. Photographed, not rendered: real materials, high-ISO grain in the shadows, a real lens with slight softness toward the corners, a touch under-exposed, muted natural colour. Restrained, patient, documentary, nothing dramatic, slightly too empty. 24 fps, 16:9 landscape, 10 seconds. No modern houses, no housing estate, no terraced rows, no slate roofs, no town. No water in the stream bed, no flowing stream, no puddles. No aeroplane, no jet, no horizontal contrail, no trail crossing the sky sideways, no flame, no explosion, no launch pad, no smoke column from the ground. No people, no vehicles, no livestock near the camera, no wires, no poles, no road markings. No on-screen text, letters, numbers, signage, subtitles or watermarks. No lens flares, no light streaks, no god rays. No drone flythrough, no aerial view, no crash zoom, no whip pan. No time-lapse clouds. Not a postcard, not a music-video montage, not a trailer.
+
+**Revised prompt K, as run for take 2:**
+
+> Documentary footage from a fixed survey camera on a tripod at the edge of a high stony terrace of red-brown rock, looking down and out across a wide view where four sharply different lands meet within sight of one another, each a different colour: on the left a dense dark-green multi-layered canopy forest; in the middle distance a broad reed-green tidal fen of winding channels and pools; on the right a wide golden temperate grassland running to the horizon; and in the foreground the red-brown stony terraces falling away beneath the camera. The borders between them are sharp and clearly visible. Long unbroken take, one shot, no cuts. Clear midday light, a wide horizon, the frame alive only with the faint shimmer of heat over the stone. In the middle distance, large enough to see clearly, a broad fen channel is crossed by the long low pale line of a plain seamless tidal flood-gate; the tide is running in against it, water sliding slowly along the channel and spilling in a thin continuous glinting sheet through its low openings. Slow shadows of small high clouds drift across the forest. The moving water at the gate and the drifting cloud shadows are the only motion. Photographed, not rendered: real materials, high-ISO grain in the shadows, a real lens with slight softness toward the corners, a touch under-exposed, muted natural colour. Restrained, patient, unhurried, no event arriving suddenly. 24 fps, 16:9 landscape, 10 seconds. No dam, no hydroelectric spillway, no concrete wall with a waterfall, no flood, no rushing torrent. No people, no figures, no animals in the foreground, no camera equipment in frame. No roads with markings, no power lines, no cars, no aircraft, no drone, no glass towers, no domes, no neon. No on-screen text, letters, numbers, signage, subtitles or watermarks. No lens flares, no god rays. No drone flythrough, no aerial descent, no crash zoom, no whip pan. No time-lapse clouds. Not a 3D render, not a video-game landscape, not a matte painting, not a music-video montage, not a trailer.
+
+Lettering: none in any take. Lessons: Grok will not grow a trail it is shown
+already drawn, so a thing that must appear during the take has to be absent
+at its start; and a world made of several lands needs each named by colour,
+or it draws one.
