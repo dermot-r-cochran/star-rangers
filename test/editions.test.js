@@ -44,6 +44,14 @@ test("a null or absent readingPlan is fine", () => {
   validateReadingPlan(edition({}));
 });
 
+test("an edition that names its threads without the spine must carry a plan", () => {
+  validateReadingPlan(edition({ threads: ["tissadelle-arc"], readingPlan: null }));
+  assert.throws(
+    () => validateReadingPlan(edition({ threads: ["orbital-five-o"], readingPlan: null })),
+    /is required/
+  );
+});
+
 test("an unfiltered edition may start on any registered thread", () => {
   validateReadingPlan(edition({ readingPlan: goodPlan() }));
 });

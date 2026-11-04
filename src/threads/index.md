@@ -8,7 +8,7 @@ permalink: /threads/
 <img class="page-hero-image" src="/star-rangers/images/hero/timeline-clock.jpg" alt="Close-up of an old clock face printed on cracked, weathered sepia plaster, its heavy black hands across the numerals nine to two" />
 <h1 class="page-title">Storyline Threads</h1>
 <p class="page-intro">
-  A season number marks a position in the setting's timeline, not a shared protagonist. <em>{{ site.name }}</em> runs independent storylines in parallel — each thread below is a self-contained narrative with its own cast, gathering the seasons that carry it. See <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> to read chapter by chapter within a thread.
+  A season number marks a position in its own storyline's timeline, not a shared protagonist. <em>{{ site.name }}</em> runs independent storylines in parallel — each thread below is a self-contained narrative with its own cast, gathering the seasons that carry it. See <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> to read chapter by chapter within a thread.
 </p>
 
 {% set threads = storylineThreads %}
