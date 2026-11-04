@@ -15,6 +15,13 @@ locationType: "Planet"
 
 Most survey verdicts that matter arrive too late to be of any use. Fliade's arrived early, and the record has been quietly grateful about it ever since.
 
+<video controls preload="none" poster="/star-rangers/video/fliade-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/fliade.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/fliade.mp4">Download the clip</a>.
+</video>
+
+*Ten seconds from a survey camera in a deep cavern, where water drips into a pool under the fungi's steady light.*
+
 **Fliade** is a rocky terrestrial world orbiting far enough from its star to sit well below Earth-like temperatures across nearly all of its surface. Its equatorial band is the most hospitable ground on the planet and reaches cool temperate conditions at the peak of its season; even there, snowfall is ordinary and standing water freezes for long stretches of the year. The poles are permanently glaciated and support no surface-dwelling life worth the name. A visitor who judged the planet from orbit, or from a season on the equatorial plain, would file it as marginal.
 
 The judgement would be wrong by most of the biosphere. **Fliade's life is underground.** Cavern systems honeycomb the crust on a scale the surface gives no hint of, warmed by geothermal activity and fed by subterranean rivers, and they hold self-contained ecosystems that evolved largely independent of the conditions above them. The surface is not where the planet failed to be habitable. It is the roof.

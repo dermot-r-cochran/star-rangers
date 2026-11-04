@@ -13,6 +13,13 @@ locationType: "Planet"
 
 The Survey Corps' first orbital pass over Winterbourne logged a settlement pattern regular enough that the duty officer flagged it as deliberate planning. It is deliberate, in the sense that people chose it. It is also, to within a few hundred metres, exactly where the water comes out of the ground.
 
+<video controls preload="none" poster="/star-rangers/video/winterbourne-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/winterbourne.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/winterbourne.mp4">Download the clip</a>.
+</video>
+
+*Ten seconds from a camera at the scarp foot in late summer, as an ascent javelin climbs from beyond the down.*
+
 ## The Spring Line
 
 Most of the settled continent is a carbonate platform some four hundred metres thick — a chalk analogue, laid down under a shallow sea long before anything walked on it, then uplifted and tilted. The result is the shape the whole world is organised around: a long **escarpment** with a steep face, and behind it a gentle **dip slope** running away for sixty kilometres.

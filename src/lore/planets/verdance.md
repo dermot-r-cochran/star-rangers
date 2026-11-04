@@ -13,6 +13,13 @@ locationType: "Planet"
 
 Most survey reports describe a world's biosphere in one paragraph and its politics in another, because the two rarely have much to say to each other. Verdance's first full Federation survey needed a single paragraph for both, because on Verdance they are close to the same subject.
 
+<video controls preload="none" poster="/star-rangers/video/verdance-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/verdance.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/verdance.mp4">Download the clip</a>.
+</video>
+
+*Ten seconds from a survey camera at a terrace edge, looking down on forest, fen and grassland, and the flood-gate across the fen.*
+
 **Verdance** is the second planet of the **Calyx System** and the home world of the [Verdani](/star-rangers/lore/verdani/), a sapient people whose biology and civilization are both organized around the same fact: no two regions of their world support life the same way, and neither do the people who live in them.
 
 ## Four Biomes, One World

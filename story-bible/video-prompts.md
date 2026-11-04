@@ -1968,3 +1968,13 @@ Lettering: none in any take. Lessons: Grok will not grow a trail it is shown
 already drawn, so a thing that must appear during the take has to be absent
 at its start; and a world made of several lands needs each named by colour,
 or it draws one.
+
+**Filing, 4 November 2026.** Identified by frames. Filed with poster frames
+and embedded after each page's opening paragraph: **H take 2** as
+`fliade.mp4`, **I take 2** as `winterbourne.mp4`, **K take 2** as
+`verdance.mp4`, and **J take 2** as `sentinel.mp4`, where take 1 had been
+recommended. Take 2 is the file that arrived, and it is filed on a second
+look at its frames: the walk ends a couple of metres short of the receiver
+and does not reach it, so the line it was failed on was read too strictly,
+and it carries neither take 1's mast nor its grey disc. Its flaw is that the
+receiver grows much more than *a little*. Take 1 stays the alternate.
