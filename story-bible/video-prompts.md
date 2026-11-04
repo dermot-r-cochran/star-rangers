@@ -1835,5 +1835,6 @@ the worlds. Filed: **E take 2** as `cirrane.mp4` and **G take 2** as
 `prismere.mp4`, each with a poster frame at 5 s, embedded on their pages
 (Cirrane after the opening paragraph, Prismere in *Native Fauna* after the
 driftjelly photograph). Also received and not filed: G take 1 and F take 1,
-both failed above. **F take 2 is still owed**; `saltmere.mp4` lands when it
-arrives.
+both failed above. **F take 2** arrived the same day and is filed as
+`saltmere.mp4` with its poster frame at 5 s, after the page's opening
+paragraph.
