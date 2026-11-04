@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Ambience clips for Cirrane and Prismere** (`src/lore/planets/cirrane.md`, `src/lore/planets/prismere.md`, `src/video/`, `story-bible/video-prompts.md`, 2026-11-04, Opus, Dermot's *"Add clips to the site"* and *"Setting / ambience"*). Two ten-second clips generated on Grok Imagine, each a moving version of the page's filed still: the shear between two bands inside Cirrane's temperate shell, and driftjellies riding a dusk thermal over a lumenspire grove. Each is embedded with a poster frame. The prompts, the failed takes and their revisions are recorded before and after generation. A Saltmere clip from the same set is still owed.
+
 - **A clip prompt for *Four Seconds*, written before anything is generated** (`story-bible/video-prompts.md`, 2026-11-03, Fable, Dermot's *"The scene where Lev catches Muffin"*). Three parts of 10 seconds, each extended from the last frame, from Barsik's own position in scene 3, a recording device on the bin at the end of the Deck 7 walkway, looking down the lane through the stopped shift change: the boy comes through under elbows with his back to the lens, crouches at the century's carrier, says the one word, shuts it, and the walkway starts to move. Nothing is shown at the warm patch and no animal is in frame, by staging rather than by negative, as `lev.jpg` and `muffin.jpg` rule; the rabbit is not shown; the preamble's haunting register gives way to Undercover Pets' warm and ordinary one. Fallbacks: a chained pair joined at the shut carrier, and an ambient-only take if the word letters a caption. Nothing generated.
 
 ## [1.58.1] — 2026-11-03

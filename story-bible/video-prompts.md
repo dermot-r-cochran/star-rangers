@@ -1828,6 +1828,12 @@ describe the shape the page means and name the owner in the negative.
 
 > Documentary footage from a fixed survey camera with a long lens on a low tripod, looking up into a thick hazy golden dusk sky over a low-gravity world whose living things are built of glass and crystal, the frame alive only with the faint stir of the haze. Long unbroken take, one shot, no cuts. Diegetic light only: the low sun behind the haze; nothing glows except where stated. Photographed, not rendered: real glass and mineral textures, haze between the lens and everything far off, high-ISO grain heavy in the shadows, slight softness toward the corners, muted natural colour. Restrained, patient, unhurried, no event arriving suddenly. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. The air is visibly thick with suspended particles. Drifting slowly upward and sideways across the sky on a rising thermal are several lopsided gas bladders of thin wrinkled veined membrane, each wider than it is tall, irregular and soft like a half-filled sac, backlit so its rim and veins show the light through it, each with a sparse fringe of hair-fine threads hanging straight down beneath it to catch dust; the nearest large and soft-focus, the farthest pale specks in the haze. Along the very bottom edge of the frame, small and dark, the tips of a few frosted-glass spires faintly amber from within. High in the sky the faint pale arc of a planetary ring. The animals' slow drift on the thermal is the only motion. Not jellyfish: no umbrella-shaped bells, no domes, no long frilled arms, no swimming pulse, no underwater look. No hot-air balloon, no paper lantern, no glowing tendrils, no neon, no sparkles, no magic particles, no fairy lights, no rainbow sheen. No people, no figures, no vehicles, no wings, no birds. No on-screen text, letters, numbers, signage, subtitles or watermarks. No holograms or glowing UI. No lens flares, no light streaks, no god rays. No drone flythrough, no crash zoom, no whip pan. No jump scares, no horror imagery. Not a fantasy illustration, not concept art, not a digital painting, not a 3D render, not a music-video montage, not a trailer.
 
-**Filing.** The container cannot reach the generator's file host, so the kept
-takes come in as attachments (or by a desktop step) and are filed as
-`cirrane.mp4`, `saltmere.mp4` and `prismere.mp4` with a poster frame each.
+**Filing, 4 November 2026.** The container cannot reach the generator's file
+host, so the takes came in as chat attachments, and were identified by their
+frames, not their filenames, since the names given on download did not match
+the worlds. Filed: **E take 2** as `cirrane.mp4` and **G take 2** as
+`prismere.mp4`, each with a poster frame at 5 s, embedded on their pages
+(Cirrane after the opening paragraph, Prismere in *Native Fauna* after the
+driftjelly photograph). Also received and not filed: G take 1 and F take 1,
+both failed above. **F take 2 is still owed**; `saltmere.mp4` lands when it
+arrives.
