@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.59.0] — 2026-11-04
+
+Seven worlds gain ten-second ambience clips, each a moving version of its page's still: Cirrane, Prismere, Saltmere, Fliade, Winterbourne, Sentinel and Verdance. A clip prompt for *Four Seconds* is written before anything is generated, and a critic read corrects one word in Fliade's caption.
+
 - **Critic read of #1660–#1664: Fliade's clip caption no longer places a survey camera in a deep cavern** (`src/lore/planets/fliade.md`, 2026-11-04, Fable). The caption under the 4 November clip read *a survey camera in a deep cavern*; the same page says no survey instrument has been below the margin, and *deep* is its word for the networks the survey does not enter. One word dropped: *in a cavern*. Counter-critic: 1 improvement landed; 0 changes withheld; 0 regressions dropped. The seven setting clips and the *Four Seconds* prompt are otherwise read as fine; the findings are in the pull request.
 
 - **Ambience clips for Fliade, Winterbourne, Sentinel and Verdance** (`src/lore/planets/fliade.md`, `src/lore/planets/winterbourne.md`, `src/lore/planets/sentinel.md`, `src/lore/planets/verdance.md`, `src/video/`, `story-bible/video-prompts.md`, 2026-11-04, Opus, Dermot's *"Yes"* to a second set). Four ten-second clips generated on Grok Imagine, each a moving version of its page's still: water dripping in Fliade's caverns under a steady glow, an ascent javelin climbing beyond Winterbourne's down, a slow walk toward the Sentinel's receiver, and Verdance's four lands with the fen's flood-gate. Each is embedded with a poster frame.
@@ -14,7 +18,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 - **Ambience clips for Cirrane and Prismere** (`src/lore/planets/cirrane.md`, `src/lore/planets/prismere.md`, `src/video/`, `story-bible/video-prompts.md`, 2026-11-04, Opus, Dermot's *"Add clips to the site"* and *"Setting / ambience"*). Two ten-second clips generated on Grok Imagine, each a moving version of the page's filed still: the shear between two bands inside Cirrane's temperate shell, and driftjellies riding a dusk thermal over a lumenspire grove. Each is embedded with a poster frame. The prompts, the failed takes and their revisions are recorded before and after generation.
 
-- **A clip prompt for *Four Seconds*, written before anything is generated** (`story-bible/video-prompts.md`, 2026-11-03, Fable, Dermot's *"The scene where Lev catches Muffin"*). Three parts of 10 seconds, each extended from the last frame, from Barsik's own position in scene 3, a recording device on the bin at the end of the Deck 7 walkway, looking down the lane through the stopped shift change: the boy comes through under elbows with his back to the lens, crouches at the century's carrier, says the one word, shuts it, and the walkway starts to move. Nothing is shown at the warm patch and no animal is in frame, by staging rather than by negative, as `lev.jpg` and `muffin.jpg` rule; the rabbit is not shown; the preamble's haunting register gives way to Undercover Pets' warm and ordinary one. Fallbacks: a chained pair joined at the shut carrier, and an ambient-only take if the word letters a caption. Nothing generated.
+- **A clip prompt for *Four Seconds*, written before anything is generated** (`story-bible/video-prompts.md`, 2026-11-03, Fable, Dermot's *"The scene where Lev catches Muffin"*). Three parts of 10 seconds, each extended from the last frame, from Barsik's position in scene 3 on the bin at the end of the Deck 7 walkway: the boy comes through the stopped shift change, crouches at the century's carrier, says the one word and shuts it, and the walkway starts to move. No animal is in frame, by staging rather than by negative, as `lev.jpg` and `muffin.jpg` rule. Two fallbacks are recorded. Nothing generated.
 
 ## [1.58.1] — 2026-11-03
 
