@@ -1838,3 +1838,85 @@ driftjelly photograph). Also received and not filed: G take 1 and F take 1,
 both failed above. **F take 2** arrived the same day and is filed as
 `saltmere.mp4` with its poster frame at 5 s, after the page's opening
 paragraph.
+
+---
+
+## Four more setting clips offered 4 November 2026, written before anything is generated
+
+Dermot's *"Yes"* to a second set, then his pick of all four offered: Fliade,
+Winterbourne, Sentinel and Verdance. Same loop as the first set: each a
+moving version of the page's filed still, one held shot of ten seconds from
+a named mount, the one motion stated, negatives as objects, two takes each,
+his pick. The first set's lesson is applied throughout: a shape word draws its
+commonest owner, so each prompt describes the shape the page means and names
+the owner it must not become.
+
+**One correction before anything was written.** The offer named Winterbourne's
+stream running in its dry bed. That is withdrawn: the still's own entry in
+`images.md` keeps the bed dry on purpose (*a winterbourne photographed running
+is a stream; photographed dry it is the name*). What moves is the one thing no
+camera could film there, the ascent javelin's trail.
+
+**The camera rule, per world.** Fliade, Sentinel and Verdance are worlds no
+camera has been to. Winterbourne's landscape is one a camera could film on
+Earth, and the page argues that it looks so; its still was generated in the
+11 October century batch, and the clip is held to the same line, the javelin
+being the thing that makes it this world.
+
+### H. Below the roof (Fliade; `planets/fliade.jpg`)
+
+**Why it earns a clip.** The page's light *has no cycle to it*, and a still
+cannot show a light that does not change while other things do. So the fungi
+hold steady and the water moves. No Pandoids and no Anstolik: a people's body
+is never drawn by a clip that was not asked for it, and the passage is empty
+in the still too.
+
+> Documentary footage from a fixed survey camera on a low tripod in an enormous natural cavern deep beneath the frozen surface of a cold world, looking down the passage as it recedes into dark, the frame alive only with the faint drift of humid haze. Long unbroken take, one shot, no cuts. The only light is the world's own: bioluminescent fungi coating the rock walls and the floor in soft amber and blue-green, a dim steady glow that never pulses, flickers or changes for the whole take. The growth is real fungal growth, irregular and uneven: thin bracket shelves stacked on wet stone, pale threads and mats across mineral silt, clusters of small caps on slender stalks, some of it brown and dead at the edges. In the foreground a shallow still pool in the silt reflects the glow; from the dark above, single drops of mineral water fall into it slowly and irregularly, each one spreading a ring across the reflection, and a thin trickle runs out of the pool across the floor. A faint haze drifts slowly through the light. The falling drops, their rings, the trickle and the haze are the only motion. Photographed, not rendered: a real camera in a real cave, high-ISO grain heavy in the shadows, a fast wide lens with shallow depth of field and slight softness toward the corners, the darks holding detail without going to black. Restrained, patient, unhurried, no event arriving suddenly. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps, 16:9 landscape, 10 seconds. No people, no figures, no animals, no creatures, no bears, no eyes in the dark, no shapes moving. No opening to the sky, no equipment, no lamps, no torches, no crystals, no glowing mushrooms in neon colours, no fairy lights, no sparkles, no magic particles, no fantasy forest. No on-screen text, letters, numbers, signage, subtitles or watermarks. No lens flares, no light rays. No drone flythrough, no camera moving down the passage, no crash zoom, no whip pan. No jump scares, no horror imagery. Not a fantasy illustration, not a 3D render, not a video-game cave, not a music-video montage, not a trailer.
+
+**Judging a take.** It fails if anything alive and moving appears; if the
+glow pulses or flickers; if the fungi turn neon, crystalline or sculpted; if
+the camera travels down the passage; and if any lettering appears.
+
+### I. The javelin over the down (Winterbourne; `winterbourne.jpg`)
+
+**Why it earns a clip.** The javelin is the still's one sign of the century,
+and in a still it can be taken for a contrail, which `images.md` records as a
+flaw passed. Moving, it climbs, which no aircraft does, and that is the whole
+of the clip: everything on the ground holds still in late summer and the trail
+grows upward.
+
+> Documentary footage from a fixed camera on a low tripod at the foot of a long chalk escarpment in late summer, the frame alive only with the faint stir of dry grass in a light breeze. Long unbroken take, one shot, no cuts. Available light, hazy warm afternoon, a high thin sky. The steep scarp face rises on the left to a bare rounded down of pale dry turf; along its foot, small with distance, a line of small villages of flint and chalk-block houses with reed-thatched roofs spaced along one lane. In the foreground a dry stream bed of pale gravel with no water in it, grass growing in the bed, and a plank footbridge over nothing. High in the hazy sky above the down, a thin pale vapour trail is being drawn almost straight upward: its head climbs steeply and steadily away from the ground for the whole take, the trail lengthening behind it and beginning to soften and spread at its lower end. The climbing trail and the stirring grass are the only motion. Photographed, not rendered: real materials, high-ISO grain in the shadows, a real lens with slight softness toward the corners, a touch under-exposed, muted natural colour. Restrained, patient, documentary, nothing dramatic, slightly too empty. 24 fps, 16:9 landscape, 10 seconds. No water in the stream bed, no flowing stream, no puddles. No aeroplane, no jet, no horizontal contrail, no trail crossing the sky sideways, no spacecraft visible, no flame, no explosion, no rocket launch pad, no smoke column from the ground. No people, no vehicles, no livestock near the camera, no wires, no poles, no road markings. No on-screen text, letters, numbers, signage, subtitles or watermarks. No lens flares, no light streaks, no god rays. No drone flythrough, no aerial view, no crash zoom, no whip pan. No time-lapse clouds. Not a postcard, not a music-video montage, not a trailer.
+
+**Judging a take.** It fails if the stream bed holds water; if the trail runs
+sideways like an airliner's or the craft at its head is visible; if anything
+on the ground moves beyond grass; and if any lettering appears.
+
+### J. Walking up to the receiver (Sentinel; `sentinel.jpg`)
+
+**Why it earns a clip.** Nothing on an airless world moves on its own, so a
+fixed camera would film a still, and the pulse is not visible. The clip takes
+the house motion signature's other anchor instead: a camera carried by
+someone walking slowly toward the receiver in low gravity, a push that does
+not arrive. The walker is the Survey Corps team that left the boot prints
+already in the still. Nobody is in frame.
+
+> Documentary footage from a camera carried at chest height by someone walking slowly across the surface of a small airless world toward a small survey receiver, a gentle low-gravity bounce in each step, the receiver growing a little larger but never reached by the end of the take. Long unbroken take, one shot, no cuts. Hard low sunlight from one side, long black shadows with no fill, every edge sharp because there is no air, a black sky with no stars showing in the daylight exposure. A bare plain of grey regolith and low worn crater rims runs to a near, sharply curved horizon. Low in the sky above the horizon, a small pale sickly-green disc of a neighbouring world, holding still. Ahead, alone on the plain, the receiver: a small sealed matte housing with honest seams on three short splayed legs, a shallow dish under it turned down toward the ground, still. Around it the shallow prints of boots and the round marks of a lander's pads in the dust. The slow approach is the only motion; nothing on the plain moves, and no dust rises or hangs in the air. Photographed, not rendered: hard vacuum light, high-ISO grain in the black sky, a moderately wide lens with slight softness toward the corners, muted natural colour. Still, ordinary, faintly attentive. 24 fps, 16:9 landscape, 10 seconds. No hands, feet, boots, suit or helmet in frame, no visor reflection, no person, no figure, no shadow of a person in front of the camera. No lights on the receiver, no blinking, no antenna mast, no beam, no glow, nothing coming out of the ground, no structure, no ruin. No Earth, no blue planet, no Moon, no stars. No on-screen text, letters, numbers, signage, insignia, flags, subtitles or watermarks. No holograms, no helmet display, no HUD. No lens flares. No drone flythrough, no orbit around the receiver, no crash zoom, no whip pan. No jump scares, no horror imagery. Not a science-fiction film set, not a music-video montage, not a trailer.
+
+**Judging a take.** It fails if the camera reaches or circles the receiver;
+if any part of a walker, a HUD or a light shows; if dust floats; if the green
+disc becomes Earth or moves; and if any lettering appears.
+
+### K. Where the four lands meet (Verdance; `planets/verdance.jpg`)
+
+**Why it earns a clip.** The still's one sign of the century is the
+flood-gate, and the page's Tidewrights maintain it as the Fenmarch Republic's
+core civic duty: a gate is the thing that holds water, so the clip shows the
+tide moving against it. The still is aerial; a camera may not fly, so the
+clip is taken from the high terraces' edge, the one ground from which all four
+biomes are in view, which is why the still could see them.
+
+> Documentary footage from a fixed survey camera on a tripod at the very edge of a high dry upland terrace, looking down and out across a wide view where four utterly different landscapes meet within sight of one another: cold dark forest, open savanna, a broad wetland of fen channels, and the dry upland falling away beneath the camera, the transitions clearly visible, each with a small distinct settlement far off. Long unbroken take, one shot, no cuts. Clear midday light, full natural colour, a wide horizon, the frame alive only with the faint shimmer of heat over the upland. Down in the wetland, across the broad fen channel, the long low pale line of a plain seamless tidal flood-gate; the tide is running in against it, water sliding slowly along the channel and spilling in a thin continuous sheet through its low openings, the channel's surface glinting as it moves. Slow shadows of high small clouds drift across the forest. The moving water at the gate and the drifting cloud shadows are the only motion. Photographed, not rendered: real materials, high-ISO grain in the shadows, a real lens with slight softness toward the corners, a touch under-exposed, muted natural colour. Restrained, patient, unhurried, no event arriving suddenly. Extraordinary range held in one frame. 24 fps, 16:9 landscape, 10 seconds. No dam, no hydroelectric spillway, no concrete wall with a waterfall, no flood, no rushing torrent. No people, no figures, no animals in the foreground, no camera equipment in frame. No roads with markings, no power lines, no cars, no aircraft, no drone, no glass towers, no domes, no neon. No on-screen text, letters, numbers, signage, subtitles or watermarks. No lens flares, no god rays. No drone flythrough, no aerial descent, no crash zoom, no whip pan. No time-lapse clouds. Not a 3D render, not a video-game landscape, not a matte painting, not a music-video montage, not a trailer.
+
+**Judging a take.** It fails if the gate reads as a dam or spillway with a
+waterfall; if the camera flies or descends; if the four lands collapse into
+one; if the clouds race; and if any lettering appears.
