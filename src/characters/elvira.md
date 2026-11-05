@@ -27,7 +27,7 @@ Elvira does not experience deep fear. It is not a trained quality, and until the
 
 She pays attention to vocabulary. When Galahad uses precise language for the boundary events — not fumbling for metaphors, not reaching for folklore — she notices immediately, and revises her model of him upward.
 
-Her identification of a "Court thing" at the causeway is partially correct. She has identified the *method* accurately. She has not yet identified the *nature*. This gap is being exploited.
+Her identification of a "Court thing" at the causeway was partially correct. She had identified the *method* accurately. She had not yet identified the *nature*. That gap was exploited until she asked ([The Right Question (S01E03C01)](/star-rangers/seasons/s01/e03/s01e03c01/)); the anchor went in [The Root and the Rest of It (S01E03C02)](/star-rangers/seasons/s01/e03/s01e03c02/).
 
 ## Before the Causeway
 
