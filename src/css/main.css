@@ -829,6 +829,39 @@ a:focus {
   color: var(--color-text-muted);
 }
 
+/* --- "Other ways on" (the options beside Next at the end of an episode) ---
+   Navigation only: another thread at the same moment, and one Archive entry
+   (lib/reading-options.js). */
+.reading-options {
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-md);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  max-width: var(--max-prose);
+}
+.reading-options__heading {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  color: var(--color-text);
+}
+.reading-options__list {
+  list-style: none;
+  margin-top: var(--spacing-md);
+  padding: 0;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.reading-options__list li + li {
+  margin-top: var(--spacing-xs);
+}
+.reading-options__kind {
+  margin-left: var(--spacing-sm);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
 /* --- "From the Archive" (the entries that accompany a chapter) ---
    The Archive beside the narrative: the entries for what the chapter meets,
    each with its own one-line account (lib/archive-companions.js; Dermot's

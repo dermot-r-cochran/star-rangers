@@ -163,6 +163,35 @@ commentsCategory: episodes
 
   {% set previousChapter = collections.chapters | previousChapterIn(id) %}
   {% set nextChapter = collections.chapters | nextChapterIn(id) %}
+  {#- "Other ways on": up to two options beside the Next link at the end of an
+      episode, an episode of another thread opening at the same moment and
+      one Archive entry. Dermot, 2026-11-05: *"As reading navigation
+      options"*, *"Linear within each episode is fine"*. Derived, never
+      authored, and navigation only: the story does not branch
+      (lib/reading-options.js). -#}
+  {%- set endsEpisode = (not nextChapter) or nextChapter.data.season != season or nextChapter.data.episode != episode -%}
+  {%- set meanwhile = collections.chapters | meanwhileIn(id) -%}
+  {%- set archiveOption = (archiveCompanions | archiveOption) if endsEpisode else null -%}
+  {% if meanwhile or archiveOption %}
+  <aside class="reading-options" aria-labelledby="reading-options-heading" data-pagefind-ignore>
+    <h2 class="reading-options__heading" id="reading-options-heading">Other ways on</h2>
+    <ul class="reading-options__list" role="list">
+      {% if meanwhile %}
+      <li>
+        <a href="/star-rangers{{ meanwhile.chapter.url }}">{{ meanwhile.chapter.data.title }}</a>
+        <span class="reading-options__kind">Meanwhile, in {{ meanwhile.threadName }}</span>
+      </li>
+      {% endif %}
+      {% if archiveOption %}
+      <li>
+        <a href="{{ archiveOption.url }}">{{ archiveOption.title }}</a>
+        <span class="reading-options__kind">In the {{ archiveOption.label }}</span>
+      </li>
+      {% endif %}
+    </ul>
+  </aside>
+  {% endif %}
+
   <nav class="chapter-pagination" aria-label="Chapter navigation" data-pagefind-ignore>
     {% if previousChapter %}
     <a class="chapter-pagination__prev" href="/star-rangers{{ previousChapter.url }}">
