@@ -1240,9 +1240,10 @@ station stays out of frame).
 
 ### D6. The Up-People's First Stone (S11E01C05)
 
-**Status, 5 November 2026: version 2 published, read, and not passed; not filed.**
-The version table and the reading are under *Version 2, read* at the end of this
-entry. What follows is the state as it stood on 29 October.
+**Status, 5 November 2026: version 3 published and read, and it clears the judging
+line as far as frames can show; not filed.** The version table and the readings
+are under *Version 2, read* and *Version 3, read* at the end of this entry. What
+follows is the state as it stood on 29 October.
 
 **Status, 29 October 2026: run once, held until Director can be run again.** Version 1,
 published 13:28, came back at 7:15 and 37 scenes against the 3 to 4 minutes
@@ -1398,6 +1399,7 @@ small closed mouth, real fur.
 | --- | --- | --- | --- | --- |
 | 1 | 7:15 | 29 Oct 2026 | First run; the being read as an ape | No |
 | 2 | 6:31 | 5 Nov 2026 | The Pandoid remade to the answer above; repeated picture cut | No |
+| 3 | 6:31 | 5 Nov 2026 | One repair round on the faults read in version 2 | No |
 
 **The length.** Four minutes cannot be had. By Director's report the script
 alone runs just over six minutes spoken, so it kept every word and cut
@@ -1424,7 +1426,26 @@ claim. Against the judging line:
   of frame and the rock Stone-First moved behind them, so the two stones the
   ending turns on do not read as two.
 
-Which version stands, and whether to run a further round, is Dermot's.
+**Version 3, read, 5 November 2026.** One repair round at his *"Yes, one round"*,
+naming the faults above and nothing else. Read from frames at twenty-second
+intervals plus the doubtful points, with a one-second motion measure over the
+whole film. The audio is not heard and there are no captions, so the narration
+stays unverified.
+
+- **Fixed:** no human face in any frame read. Static picture falls from about 98
+  seconds to 6. The frozen portrait is gone: Stone-First now stands at a distance,
+  breathing, in a slow drift, the face lower and mostly unlit. The green lamp
+  holds throughout, and the blue-grey stone is gone, so the ending reads as two.
+- **The judging line:** cleared on every point frames can show.
+- **Weakest:** the rust-orange stone of the closing shot (6:07 on) has become a
+  smooth, over-saturated, loaf-like shape, unlike the rough stone set down at 2:50.
+  The replacement at 1:46 to 1:53, the six static seconds, shows a dark passage
+  with two small lights at its far end and blue on a wet floor, which nothing in
+  the brief asks for. The fungi at 0:30 and behind the held shots are brighter
+  than *faint*. At 2:50 a coverall knee is in frame, beyond the brief's hands and
+  forearms.
+
+Which version stands is Dermot's, after he has heard it.
 
 ### D7. Lúnasa
 
