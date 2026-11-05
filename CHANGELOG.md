@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Other ways on: Meanwhile prefers the opening at the same part of the season** (`lib/reading-options.js`, `test/reading-options.test.js`, `story-bible/intake-2026-11-05.md`, 2026-11-05, Fable, the Benevolent Critic read of #1671 and #1672). Where a moment holds more than one other-thread episode opening, the one naming the chapter's own part of the season (Late Autumn to Late Autumn) now comes first, with story order as the fallback. On the default edition two links move, S02E01C03 and S04E00C02, from S01E01C01 to S01E02C00; the other six stand. Counter-critic: 1 improvement landed; 3 changes withheld; 0 regressions dropped.
+
 - **An episode reads as a self-contained short story or set of chapters** (`CLAUDE.md`, `story-bible/intake-2026-11-05.md`, `story-bible/open-questions.md`, 2026-11-05, Opus, Dermot's *"New episodes, reviews"*). His direction is now a standing rule for new episodes. The weekly unit review reads published episodes against it and reports; nothing published is rewritten to meet it.
 
 - **Other ways on: reading options at the end of an episode** (`lib/reading-options.js`, `src/_includes/chapter.njk`, `src/css/main.css`, `.eleventy.js`, `test/reading-options.test.js`, `CLAUDE.md`, `story-bible/intake-2026-11-05.md`, 2026-11-05, Opus, Dermot's *"As reading navigation options"*). An episode's last chapter now offers, beside Next, an episode of another thread opening at the same moment and one Archive entry. Both are derived from existing fields, so nothing is authored and no ordering metadata is added. Chapters inside an episode stay linear, and the story does not branch. A chapter that does not date itself offers no thread link.
