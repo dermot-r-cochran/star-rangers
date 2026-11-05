@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.60.0] — 2026-11-05
+
+An episode's last chapter now offers other ways on beside Next: an episode of another thread opening at the same moment, and one Archive entry. New episodes are to read as self-contained short stories, as a standing rule. Episode 0's index is shorter and dated, and starquest.site gets its own Reading Plan. The rest of Season 1 takes four corrections from the weekly read, and Director brief D6 reaches a third version, with nothing filed.
+
 - **Director brief D6: a third version recorded** (`story-bible/video-prompts.md`, 2026-11-05, Opus, Dermot's *"Yes, one round"*). One repair round removes the human cheek, the frozen portrait and the third stone, and holds one lamp throughout. It clears the judging line as far as frames can show, and nothing is filed.
 
 - **Episode 0's index shortened, with each chapter's year and season on its line** (`src/seasons/s01/e00/index.md`, `src/css/main.css`, 2026-11-05, Opus, Dermot's choice from the Benevolent Critic read). The 739-word intro repeated the summaries in the list and was the only place on the page that gave the years. The same read corrected "before Episode 1" to include the chapters beside it, C12's distance to "the spring before", and one line each in C07 (the clock order) and C10 (the seasons since the new movement).
