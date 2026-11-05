@@ -185,7 +185,7 @@ permalink: /start/
   </p>
   {%- if spineFirst -%}
   <p class="thread-section__description">
-    Begin here. The <em>Next</em> link at the foot of each chapter walks the whole record in season order, which can hand you sideways into the parallel storylines where their seasons fall and back to the spine after each. That is not a filing error; it is how the shelf is ordered. If you want the spine unbroken, read down <a href="/star-rangers/threads/tissadelle-arc/">its thread page's chapter list</a> instead. Both paths arrive, and neither spoils the other.
+    Begin here. The <em>Next</em> link at the foot of each chapter walks the whole record in season order, which can hand you sideways into the parallel storylines where their seasons fall and back to the spine after each. That is not a filing error; it is how the shelf is ordered. If you want the spine unbroken, read down <a href="/star-rangers/threads/tissadelle-arc/">its thread page's chapter list</a> instead, from the chapter below. Both paths arrive, and neither spoils the other.
   </p>
   <ul class="chapter-list" role="list">
     <li class="chapter-list__item">
@@ -249,7 +249,7 @@ permalink: /start/
 <section class="thread-section" aria-labelledby="plan-step-4">
   <h2 class="thread-section__title" id="plan-step-4">4 · Branch out by storyline</h2>
   <p class="thread-section__description">
-    A season number marks a position in the setting's timeline, not a claim on your attention. The other <a href="/star-rangers/threads/">storyline threads</a> run parallel to the spine, each self-contained, each with its own cast. Take them in any order, between seasons of the spine or after it — the record does not mind.
+    A season number marks a position in its own storyline's timeline, not a claim on your attention. The other <a href="/star-rangers/threads/">storyline threads</a> run parallel to the spine, each self-contained, each with its own cast, though people do cross. Take them in any order, between seasons of the spine or after it — the record does not mind.
   </p>
   {%- for branch in branchThreads -%}
   <div class="season-block">

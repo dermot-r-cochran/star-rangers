@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Reading Plans, after a Benevolent Critic read** (`src/start/index.md`, `src/threads/index.md`, `lib/editions.js`, `test/editions.test.js`, 2026-11-04, Opus, with a Fable read). starquest.site gets its own plan, opening on Orbital Five-O; Sen's note was sending its readers to a spine it does not carry. `validateReadingPlan` now refuses that case. Sen's spine path says where to start on the thread list, a season number is placed in its own storyline's timeline, and the threads are no longer said never to share people. The Young plan no longer says *nine days later* of a Next path that passes day 30.
+
 ## [1.59.0] — 2026-11-04
 
 Seven worlds gain ten-second ambience clips, each a moving version of its page's still: Cirrane, Prismere, Saltmere, Fliade, Winterbourne, Sentinel and Verdance. A clip prompt for *Four Seconds* is written before anything is generated, and a critic read corrects one word in Fliade's caption.
