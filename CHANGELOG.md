@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Weekly read of `tissadelle-arc`, the rest of Season 1: four corrections** (`src/seasons/s01/e02/s01e02c00.md`, `src/seasons/s01/e03/s01e03c01.md`, `src/seasons/s01/e03/s01e03c02.md`, `src/characters/elvira.md`, `story-bible/story-bible-summary.md`, `story-bible/scene-draft-elviras-dream.md`, 2026-11-05, Opus, with a Fable read). The Marsh Causeway is *Type II*, never *Class II*, by the 23 September rename. Galahad told Elvira less than he knew *three days ago*, not three years. Rook-7's log header now falls after the eleven minutes it reports. Elvira's page no longer says a closed feeding loop is running. Counter-critic: 4 improvements landed; 0 changes withheld; 0 regressions dropped.
+
 - **The Reading Plans, after a Benevolent Critic read** (`src/start/index.md`, `src/threads/index.md`, `lib/editions.js`, `test/editions.test.js`, 2026-11-04, Opus, with a Fable read). starquest.site gets its own plan, opening on Orbital Five-O; Sen's note was sending its readers to a spine it does not carry. `validateReadingPlan` now refuses that case. Sen's spine path says where to start on the thread list, a season number is placed in its own storyline's timeline, and the threads are no longer said never to share people. The Young plan no longer says *nine days later* of a Next path that passes day 30.
 
 ## [1.59.0] — 2026-11-04

@@ -147,7 +147,7 @@ The ages above are the ordinary route, not the only one. Written up as a new sec
 
 ### Key locations
 - **Threshold Station** — orbital station sitting on a Concordant boundary; Dock Seven has shown a 40-second chronometer discrepancy for 11 years, formally unresolved.
-- **Marsh Causeway** — an isolated boundary outpost, Class II oscillatory, where Elvira works Etheric-responsive materials (chalk, thread, water, records) to map and redirect boundary pattern activity.
+- **Marsh Causeway** — an isolated boundary outpost, Type II oscillatory, where Elvira works Etheric-responsive materials (chalk, thread, water, records) to map and redirect boundary pattern activity.
 
 ### Threats/entities (non-magical, rule-based)
 - **Obligers / Gilded Saints** — entities that feed on ambiguity, consent erosion, and unresolved obligation loops; naming the threat precisely is a functional weapon against them, not a narrative flourish. Author-facing counter-mechanism detail (deliberately kept out of `src/lore/predatory-entities.md` so the public site doesn't hand readers the answer ahead of the story — see "Editorial note" below): Obligers feed on unresolved loops and cannot feed on one that has already been broken by making the ambiguity explicit and discharging the social debt — this is the exact mechanic Season 1 dramatizes at the Marsh Causeway (S01E03C01, "The Right Question") and that Season 7 ("Naming the Line") is planned to reuse. Gilded Saints feed on closure-prevention and are countered by recognizing that pattern and accepting that enough can be enough — not yet dramatized in any published chapter.
