@@ -66,6 +66,24 @@ test("an episode that only reaches the moment later is not offered", () => {
   assert.equal(findMeanwhile(spansYears, "s02e01c03", threadOf), null);
 });
 
+test("among openings at the moment, the one naming the same part of the season comes first", () => {
+  const autumn = [
+    chapter("s01e01c01", 1, 1, "2826 UCSD, Early Autumn, Dawn"),
+    chapter("s01e02c00", 1, 2, "2826 UCSD, Late Autumn, Before Dawn"),
+    chapter("s02e01c01", 2, 1, "2826 UCSD, Late Autumn"),
+    chapter("s02e01c03", 2, 1, "2826 UCSD, Late Autumn, the next morning"),
+  ];
+  assert.equal(findMeanwhile(autumn, "s02e01c03", threadOf).chapter.data.id, "s01e02c00");
+  // With no opening at the same part, the earliest in story order stands.
+  assert.equal(findMeanwhile(autumn.filter((c) => c.data.id !== "s01e02c00"), "s02e01c03", threadOf).chapter.data.id, "s01e01c01");
+  // A bare season matches a bare season, not an Early or a Late one.
+  assert.equal(findMeanwhile([
+    chapter("s01e01c01", 1, 1, "2827 UCSD, Early Autumn"),
+    chapter("s04e01c01", 4, 1, "2827 UCSD, Autumn"),
+    chapter("s02e11c01", 2, 11, "2827 UCSD, Early Autumn"),
+  ], "s02e11c01", threadOf).chapter.data.id, "s01e01c01");
+});
+
 test("the last chapter of the build counts as the end of its episode", () => {
   const found = findMeanwhile(chapters, "s04e01c01", threadOf);
   assert.equal(found.chapter.data.id, "s01e02c00");
