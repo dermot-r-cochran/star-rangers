@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Director brief D6: a third version recorded** (`story-bible/video-prompts.md`, 2026-11-05, Opus, Dermot's *"Yes, one round"*). One repair round removes the human cheek, the frozen portrait and the third stone, and holds one lamp throughout. It clears the judging line as far as frames can show, and nothing is filed.
+
 - **Director brief D6 run to a second version and recorded** (`story-bible/video-prompts.md`, 2026-11-05, Opus, Dermot's *"Grok Director should be able to run or continue the next video prompt"*). *The Up-People's First Stone* came back at 6:31 with Stone-First remade to the owed Pandoid answer. It is read from frames and does not yet pass its judging line, so nothing is filed.
 
 - **Other ways on: Meanwhile prefers the opening at the same part of the season** (`lib/reading-options.js`, `test/reading-options.test.js`, `story-bible/intake-2026-11-05.md`, 2026-11-05, Fable, the Benevolent Critic read of #1671 and #1672). Where a moment holds more than one other-thread episode opening, the one naming the chapter's own part of the season (Late Autumn to Late Autumn) now comes first, with story order as the fallback. On the default edition two links move, S02E01C03 and S04E00C02, from S01E01C01 to S01E02C00; the other six stand. Counter-critic: 1 improvement landed; 3 changes withheld; 0 regressions dropped.
