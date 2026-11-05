@@ -21,6 +21,7 @@ const {
   isContentIncluded
 } = require("./lib/classify-content");
 const { threadForSeason, DEFAULT_REFERENCE_DOMAIN } = require("./lib/storyline-threads");
+const { findMeanwhile, pickArchiveOption } = require("./lib/reading-options");
 const { statusKey } = require("./lib/status-key");
 const { byTitle, groupCharacters, groupLore, groupTimeline } = require("./lib/index-grouping");
 const { findArchiveBacklinks } = require("./lib/archive-backlinks");
@@ -499,6 +500,12 @@ module.exports = function(eleventyConfig) {
       url: `/star-rangers${entry.url}`,
     }));
   });
+
+  // "Other ways on": at the end of an episode, an episode of another thread
+  // opening at the same moment, and one Archive entry, beside the Next link.
+  // Derived, navigation only; see lib/reading-options.js.
+  eleventyConfig.addFilter("meanwhileIn", (chapters, id) => findMeanwhile(chapters, id, threadForSeason));
+  eleventyConfig.addFilter("archiveOption", (companions) => pickArchiveOption(companions));
 
   eleventyConfig.addFilter("previousChapterIn", (chapters, id) => {
     const index = (chapters || []).findIndex((c) => c.data.id === id);

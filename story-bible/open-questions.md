@@ -75,6 +75,14 @@ their own voices* section are left as they stand.
 
 ---
 
+## Episodes as self-contained stories — raised by Dermot 5 November 2026, how far it reaches is OPEN
+
+His direction, verbatim: *"Each episode should also read as a self-contained short story or set of chapters"* (`intake-2026-11-05.md`, first section). It stands as a direction for how an episode reads. No existing episode has been read against it, and some will strain it: Season 1's Episodes 1 to 3 are built to converge. What is undecided is how far it reaches.
+
+- **(a) Recommended:** it binds new episodes, and the weekly unit review reads each episode against it from now on, reporting rather than rewriting. Nothing published moves.
+- **(b)** The same, plus one survey pass over every published episode now, as a report for him.
+- **(c)** It stays a preference and is not added to any review.
+
 ## The Ollune history, Vellire — the weekly Fable pass of 2 November 2026, stage 3c — DRAFTED same day on Fable (the line read as a telling), choices named in the PR, his to overrule
 
 The Ollune line of the *Histories in their own voices* series below, the first
