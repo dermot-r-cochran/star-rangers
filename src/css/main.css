@@ -1448,6 +1448,13 @@ a:focus {
   font-style: italic;
   margin-left: auto;
 }
+/* A chapter's year and season, for an episode listed out of chronological order. */
+.chapter-list__when {
+  flex-basis: 100%;
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
 /* The chapter's own one-paragraph summary (front-matter `description`),
    shown where a reader chooses a chapter and nowhere on the chapter itself
    (2026-10-02): the summary belongs before the choice, not beside the prose. */
