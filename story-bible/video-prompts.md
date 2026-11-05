@@ -1240,6 +1240,10 @@ station stays out of frame).
 
 ### D6. The Up-People's First Stone (S11E01C05)
 
+**Status, 5 November 2026: version 2 published, read, and not passed; not filed.**
+The version table and the reading are under *Version 2, read* at the end of this
+entry. What follows is the state as it stood on 29 October.
+
 **Status, 29 October 2026: run once, held until Director can be run again.** Version 1,
 published 13:28, came back at 7:15 and 37 scenes against the 3 to 4 minutes
 asked, and Director stopped on a question, *What does a Pandoid look like?*,
@@ -1381,6 +1385,46 @@ register, no phonetic forms); `src/lore/planets/fliade.md` (*Below the Roof*,
 the amber and blue-green fungi, the Pandoid body). Three particulars are not on
 record and are low-risk: dripping water, the grey-green coverall (from the
 survey portraits), and the line itself being fungus-lit.
+
+**Version 2, read, 5 November 2026.** Run from Dermot's Chrome on Opus at his
+*"Grok Director should be able to run or continue the next video prompt"*. The
+answer owed above went in the same round, with two additions: *no dark eye
+patches* and *no high round ears*, because Director's notes had kept both. A
+first design was turned back for small close-set eyes and a bear's snout, and
+the second was approved: no ears, large wide-set eyes, a very short muzzle, a
+small closed mouth, real fur.
+
+| Version | Length | Date | Changed from the last | Filed |
+| --- | --- | --- | --- | --- |
+| 1 | 7:15 | 29 Oct 2026 | First run; the being read as an ape | No |
+| 2 | 6:31 | 5 Nov 2026 | The Pandoid remade to the answer above; repeated picture cut | No |
+
+**The length.** Four minutes cannot be had. By Director's report the script
+alone runs just over six minutes spoken, so it kept every word and cut
+repeated picture. The brief's three to four minutes was wrong for this script.
+
+**Read from frames and sheets.** The audio is not heard, and the film carries
+no captions, so the narration is unverified: *word for word* is Director's
+claim. Against the judging line:
+
+- **Passes:** no ears, no claws, grey all over, no cartoon or costume, no
+  forest, no text in frame. The bending shot at 5:05, the hand on the rock, is
+  the best thing in the film.
+- **Fails: a human face.** At 1:44 to 1:53 a cheek and chin sit at the top right
+  of the frame, with a pale shirt collar at the lower right.
+- **Fails: something glows.** The fungi read as flames at 0:12, 0:36 and 6:08,
+  and at 1:48 a whole wall is lit amber.
+- **Fails the camera rule:** about 98 seconds of the film are effectively a still
+  (2:12 to 2:45, 4:13 to 4:56, 5:51 to 6:03 among them), mostly one full-face
+  portrait looking into the lens with a pasted-on edge. The brief asks for a
+  drift that never settles, and for the face mostly in shadow.
+- **Continuity:** the green lamp becomes an old hurricane lamp at 2:50 to 3:02.
+  The stone set down is rust-orange. The closing shot shows a dark blue-grey
+  stone seen nowhere earlier in the frames read, with the orange one almost out
+  of frame and the rock Stone-First moved behind them, so the two stones the
+  ending turns on do not read as two.
+
+Which version stands, and whether to run a further round, is Dermot's.
 
 ### D7. Lúnasa
 
