@@ -75,9 +75,9 @@ their own voices* section are left as they stand.
 
 ---
 
-## Episodes as self-contained stories — raised by Dermot 5 November 2026, how far it reaches is OPEN
+## Episodes as self-contained stories — raised by Dermot 5 November 2026, RULED the same day: option (a), *"New episodes, reviews"*
 
-His direction, verbatim: *"Each episode should also read as a self-contained short story or set of chapters"* (`intake-2026-11-05.md`, first section). It stands as a direction for how an episode reads. No existing episode has been read against it, and some will strain it: Season 1's Episodes 1 to 3 are built to converge. What is undecided is how far it reaches.
+His direction, verbatim: *"Each episode should also read as a self-contained short story or set of chapters"* (`intake-2026-11-05.md`, first section). It stands as a direction for how an episode reads. No existing episode has been read against it, and some will strain it: Season 1's Episodes 1 to 3 are built to converge. How far it reaches was undecided until he chose (a) the same day; it is in `CLAUDE.md`, and the weekly unit review carries the check.
 
 - **(a) Recommended:** it binds new episodes, and the weekly unit review reads each episode against it from now on, reporting rather than rewriting. Nothing published moves.
 - **(b)** The same, plus one survey pass over every published episode now, as a report for him.
