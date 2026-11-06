@@ -225,12 +225,22 @@ about the setting rather than facts about a medium:
 Plus two of pace: **long takes, few cuts**, and **cut on the music's structure,
 never on its beat.** A cut on every fourth bar is a promo; this is not one.
 
+### The century's look, in film as in stills
+
+**Places are well kept, and the imperfection is the camera's.** The 11 October 2026
+ruling in `images.md` reached this file late: the shared preamble kept *dust and wear*
+until Dermot's *"I also like the cleaner 29th century look to the retro grunge"*
+(6 November 2026). Grain and a soft corner belong to the camera. A habitat, a ship, a
+station or a Ranger's kit is clean and maintained unless its page says otherwise, and
+*What the Record Refuses* sets its displays and its light. A frame set in the past is
+exempt.
+
 ### Shared preamble
 
 > Slow continuous camera drift, never locked off and never settling. Long
 > unbroken take. Diegetic light only — work lamps, window light, starlight,
-> fire; nothing glows that would not glow. Matte surfaces, real materials, dust
-> and wear. Deep shadow with detail retained in it. Restrained, patient,
+> fire; nothing glows that would not glow. Matte surfaces, real materials, clean
+> and well kept. Deep shadow with detail retained in it. Restrained, patient,
 > unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth
 > of field. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps.
 
@@ -242,7 +252,9 @@ never on its beat.** A cut on every fourth bar is a promo; this is not one.
 > No drone flythrough, no crash zoom, no whip pan, no camera passing through
 > solid objects. No jump scares, no sudden movement toward camera, no gore, no
 > horror imagery. No time-lapse clouds, no slow-motion explosion, no
-> hyperspace star streaks. Not a music-video montage, not a trailer.
+> hyperspace star streaks. No rust, grime, dirt, peeling paint or debris, and no
+> dials, bulbs or caged lamps in the record's present. Not a music-video montage,
+> not a trailer.
 
 ### Tools
 
@@ -332,10 +344,11 @@ publication-adjacent, and the scenes touching narrative ground are draft-and-sto
 
 ### 1. The forty seconds
 
-> Two mechanical instrument dials side by side on a worn bulkhead panel in a
-> dim station corridor, lit by one amber work lamp. Both sweep hands move
-> steadily; one is a fraction behind the other and never catches up. Slow push
-> in over eight seconds. Nobody present. Dust in the lamp light.
+> Two clean sealed atomic clocks side by side on a pale matte wall in a quiet
+> station corridor, soft light from no visible source. In each narrow sight port a
+> thin column of atoms holds a faint violet light, and a brighter band climbs it;
+> one band is behind the other and never catches up. Slow push in over eight
+> seconds. Nobody present.
 
 The premise of the entire work in one shot, and it needs no text to say so.
 
@@ -472,7 +485,7 @@ put a small unglamorous band on a big stage. The canon detail is in
 > stringed instrument. Working clothes, not stage clothes. Fluorescent overhead
 > light and one work lamp — no stage lighting, no coloured wash, no haze. A dozen
 > people sitting on crates and mismatched chairs, close enough to touch the
-> players. Scuffed deck plating, cable runs, a bulkhead door standing open.
+> players. Clean matte deck, flush panels, a sealed door standing open.
 > Warm, unpolished, small. Nobody in the room thinks this is going anywhere.
 
 Negative: no stage, no crowd barrier, no arena, no spotlights, no smoke, no
@@ -818,57 +831,74 @@ could see changes.
 
 **Title and length.** *Incident Report 001.* 90 seconds; accept 75 to 110.
 
+**Revised 6 November 2026, after version 1.** Dermot, on the worn dials: *"Why do the
+clocks look so dirty? I preferred the high tech atomic clocks from the Long White
+Trail"*, *"I also like the cleaner 29th century look to the retro grunge"* and *"Why
+would the even be using analogue clocks?"*, then *"Yes"* to atom columns with one
+set of digits. He was right on the record. C-7A and C-7B are networked instruments
+with readouts to the second (the Day 49 log gives *03:10:41* and *03:10:01*), and
+nothing in the chapters or the Codex gives them hands. The dials and the wear were
+this file's, against the 11 October rule below and against *What the Record Refuses*,
+which calls a wall of dials a period object and sets out the century's displays and
+light. The brief as first written is in the git history of this file. Version 1's
+reading is at the end of this entry.
+
 **Instruction to paste.**
 
 > Make a film of about 90 seconds, 16:9, set entirely in Dock Seven of
 > Threshold Station, a Survey Corps shore station on a coast of Earth, in 2815
-> UCSD, Late Summer, from Day 44 to Day 52. Dock Seven is an enclosed dock with
-> a pressure seal at one end and an inner hatch at the other, a wall chronometer
-> above each: two plain matte faces with a seconds hand, numerals never legible.
-> Both were calibrated to within half a second on Day 12. On Day 44 they were
-> found forty seconds apart. On Day 47 Sub-officer Pren Halvard of the Survey
-> Corps detachment recalibrated both and filed Incident Report 001, and the gap
-> cleared. On Day 49 at 03:10 station time, on the night rotation, Technician
-> N. Isern of the Maintenance Division found them forty seconds apart again,
-> re-ran the calibration, isolated both units, re-seated the bus coupling, and
-> watched the gap return after every pass. On Day 52 Station Manager Cors
-> Delveyne closed the report as a calibration issue. On Day 52's 00:00 to
-> 04:00 watch, Watch Officer Mera Soln of the Operations Desk reset both clocks
-> at shift start, at 01:22 logged them forty seconds apart again, filed an
-> addendum after the closure note, and kept the dual-clock verbal callouts for
-> every docking. That is the whole film.
+> UCSD, Late Summer, from Day 44 to Day 52. Dock Seven is a clean, well-kept
+> enclosed dock of the far future: pale matte composite walls and deck meeting in
+> rounded coves, no pipes, no rivets, a pressure seal at one end and an inner hatch
+> at the other, each a plain sealed door. Above each door is a chronometer, an
+> atomic clock: a clean sealed housing of pale matte composite with a narrow sight
+> port, in which a thin column of trapped atoms holds a faint violet light, and
+> beneath it a matte, unlit readout showing the time in digits, hours, minutes and
+> seconds. Once a minute a slightly brighter band climbs each column. Both clocks were calibrated to within half a second on Day 12. On
+> Day 44 they were found forty seconds apart. On Day 47 Sub-officer Pren Halvard of
+> the Survey Corps detachment recalibrated both and filed Incident Report 001, and
+> the gap cleared. On Day 49 at 03:10 station time, on the night rotation, Technician
+> N. Isern of the Maintenance Division found them forty seconds apart again, re-ran
+> the calibration, isolated both units, re-seated the bus coupling, and watched the
+> gap return after every pass. On Day 52 Station Manager Cors Delveyne closed the
+> report as a calibration issue. On Day 52's 00:00 to 04:00 watch, Watch Officer Mera
+> Soln of the Operations Desk reset both clocks at shift start, at 01:22 logged them
+> forty seconds apart again, filed an addendum after the closure note, and kept the
+> dual-clock verbal callouts for every docking. That is the whole film.
 > Nobody is named who is not named here, nobody is given any title beyond the
 > one written here, and no other place, year or vessel appears. The narration
 > is only the sentences supplied, read as the documents themselves in their own
 > present tense, with no narrator, no framing and no added sentence. No face is
-> ever shown: hands, gloved where the work allows, backs, and a figure in a
-> doorway, since the record describes none of these four people. Nothing in the
-> dock glows, projects or displays; the only light is caged work lamps, one of
-> them failing. The camera is a fixed dock camera or a hand-held recorder
-> someone on the station could have carried. Slow, quiet, patient, no music
-> under the documents.
+> ever shown, not a chin or a cheek: hands, gloved where the work allows, backs, and
+> a figure in a doorway seen from behind, head level, since the record describes
+> none of these four people. Light is recessed and diffuse, from no visible fitting,
+> soft across the dock, with no lamp, bulb or cage anywhere; the only other light is
+> the faint column in each sight port. The camera is a fixed dock camera or a
+> hand-held recorder someone on the station could have carried. Slow, quiet, patient,
+> no music under the documents.
 
 **Shot list.**
 
 1. Fixed dock camera, high in a corner, looking along the dock from the
    pressure seal to the inner hatch with both clocks in frame; the one motion
-   is the two seconds hands, one two-thirds of a turn behind the other and
-   staying there; two caged work lamps. Hold ten seconds.
-2. Hand-held recorder at waist height, Day 47: a hand opens the panel below
-   one clock and sets it; the two hands resume together; one work lamp.
-3. Desk-level camera, Day 47: a hand writes on a paper form, the page beyond
-   focus; a desk lamp.
-4. The fixed dock camera, Day 49, 03:10: the dock empty, one lamp out; the
-   two hands are apart again. Hold.
-5. Hand-held at the open panel, Day 49: a technician's hands cable a portable
-   module to the unit, re-seat a coupling, run the pass; each time the hands
-   come away the gap is back; the lamp light and the module's dull indicator
-   only.
+   is the bright band climbing each column, one two-thirds of a column behind the
+   other and staying there. Hold ten seconds.
+2. Hand-held recorder at waist height, Day 47: a gloved hand opens a flush panel
+   below one clock and sets it; the two bands climb level.
+3. Desk-level camera, Day 47: a hand writes on a thin matte sheet with a plain
+   stylus, the sheet beyond focus; soft light from no visible source.
+4. The fixed dock camera, Day 49, 03:10: the dock empty, the light at its low night
+   setting; the bands are apart again. The readout above the seal shows *03:10:41*
+   and the one above the hatch *03:10:01*, both counting on together. Hold.
+5. Hand-held at the open flush panel, Day 49: a technician's hands link a small
+   sealed module to the unit, re-seat a coupling, run the pass, the movement
+   continuous; each time the hands come away the gap is back. The module has no
+   label and no lit indicator.
 6. The fixed dock camera, Day 52, 01:22: the hatch open, a figure's back in
-   the doorway calling two times aloud to a vessel that is not in frame; the
-   two hands apart.
-7. Close on the two faces side by side, the hands moving, nobody present, dust
-   in the lamp light. Hold eight seconds and end.
+   the doorway, the head level, a low indistinct voice calling two times aloud to a
+   vessel that is not in frame; the bands apart.
+7. Close on the two sight ports side by side, the columns and the bands moving,
+   nobody present. Hold eight seconds and end.
 
 **Narration.** Only these, in this order, each read flat as the document it
 comes from. From Incident Report 001 (Day 47): *Two wall-mounted chronometers
@@ -885,18 +915,38 @@ operationally useful.* *Keep dual-clock verbal callouts active for all
 night-watch docking transactions.* Nothing from 2826, and nothing from anyone
 remembering.
 
-**Negatives as objects.** The shared negative, plus: no glowing clocks, no
-digital readouts, no legible numerals, no violet or coloured light, no screen,
-no orbital station, no ring, no spaceplane, no rail, no sea or window on the
-sea, no view of the station from outside, no face, no legible tab or insignia,
-no uniform colour named, no narrator saying *I*, no name not in the
-instruction, no *layers*, no year but 2815, no music under the documents.
+**Negatives as objects.** The shared negative, plus: no dial, no clock face, no
+clock hands, no analogue instrument, no rust, grime, dirt, scratches, stains, peeling
+paint or exposed pipes, no rivets, no caged lamp, no bulb, no desk lamp, no paper, no
+pen, no glowing screen, no hologram, no readout that lights a face or a wall, no
+lettering but the digits on the two readouts, no label on anything, no orbital station, no ring, no
+spaceplane, no rail, no sea or window on the sea, no view of the station from outside,
+no face, no legible tab or insignia, no uniform colour named, no narrator saying *I*,
+no name not in the instruction, no *layers*, no year but 2815, no music under the
+documents.
 
-**Judging line.** The film fails if a clock face shows numerals or glows; if
-any face is shown; if any name, title or year is spoken or captioned that is
-not in the instruction; if the film leaves the dock; if the two clocks agree on
-screen at any moment other than directly after a hand has set them; or if the
-gap is anything but forty seconds, widening or narrowing on its own.
+**Judging line.** The film fails if anything but the sight ports glows; if a dial,
+hand or period object appears; if any face is shown; if a digit on a readout is
+garbled, or the readouts differ by anything but forty seconds except directly after a
+hand has set them; if any other lettering appears; if any name,
+title or year is spoken or captioned that is not in the instruction; if the film
+leaves the dock; if the two bands are level at any moment other than directly after
+a hand has set them; or if the gap is anything but two-thirds of a column, widening or
+narrowing on its own.
+
+**Digits, and why they are in the scene.** Dermot, 6 November 2026: *"Grok Director got
+the digits right even of Gemini does not"* and *"Grok seems to do much better with
+lettering than Gemini does"*. The rule below, that lettering generated inside a scene
+fails, came from image generators. For Director it is now a thing to test and read, and
+every digit is read from frames before a film stands. Stills stay as they were.
+
+**A choice to know about.** A display in this record is matte, still and unlit
+(`what-the-record-refuses.md`), and the brief keeps that for the readouts. The sight
+port is a window on the instrument's working part, not a display, and atoms held in a
+clock do give off light, so it stands under *nothing glows that would not glow*. The
+climbing band is the film's device for showing forty seconds in sixty, and nothing in
+the record says the instruments do it. A film is an impression, so neither is a fact
+about Threshold.
 
 **Grounding.** `src/codex/incident-report-001.md`;
 `src/codex/maintenance-log-day-49-dock-seven.md`;
@@ -912,6 +962,23 @@ as written and gives nobody a ladder rank.
 **Ruled by Dermot, 29 October 2026:** *"Sub-officer, Technician, Station
 Manager, Watch Officer are roles or postings but not ranks or job titles".*
 So nothing is missing from the ladder; the brief already uses them that way.
+
+**Version 1, read, 6 November 2026.** Run from Dermot's Chrome on Opus at his *"D1 when
+ready"*, from the brief as first written, in project `35120d9b`. 1:31, 854×480, 7 scenes,
+kept at `F:\CLAUDE\Director films\`, not filed. Director now asks six setup questions, then
+shows a draft of stills and narration to approve, then asks to start production.
+
+The narration matched the brief in the draft, every sentence in order. Read from frames
+every three seconds; the audio is not heard here. The film held the seven shots, the
+forty-second gap as hands apart, no legible numerals and no glowing clocks. It fails on the
+look, as above: worn dials, caged lamps, a pen and paper. By Director's own report and the
+frames: the clocks each grow an extra hand at 1:22 to the end; a small red label shows on
+the module at 1:01 to 1:06, which sits still for three seconds; and the figure's chin shows
+for a moment in the doorway, which the frames every three seconds did not catch.
+
+| Version | Length | Date | Changed from the last | Filed |
+| --- | --- | --- | --- | --- |
+| 1 | 1:31 | 6 Nov 2026 | First run; worn dials and caged lamps | No |
 
 ### D2. Nothing Taken
 

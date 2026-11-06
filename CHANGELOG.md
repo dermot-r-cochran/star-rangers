@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Director brief D1 rewritten for the record's clocks, and the film preamble cleaned** (`story-bible/video-prompts.md`, 2026-11-06, Opus, Dermot's *"Yes"*). C-7A and C-7B are now clean atomic instruments, not worn dials, the shared preamble drops *dust and wear*, and version 1 is recorded. Nothing is generated from the revision yet.
+
 - **How far Tissadelle Shepherd's name travels** (`src/characters/tissadelle-shepherd.md`, `story-bible/intake-2026-11-06.md`, 2026-11-06, Opus, Dermot's *"Option 1, record it"*). A clarification on her character page: her name is known inside the Corps and she is not a public figure outside it; the song she sang with Slipwave travels further than she does.
 
 - **The Told has its own footer theme** (`src/audio/told-theme.m4a`, `lib/editions.js`, `story-bible/music-prompts.md`, 2026-11-06, Opus, Dermot's *"Take C"* and *"90-second loop"*). A 90 s Stable Audio loop replaces the borrowed Five-O track on told.fianilchruinne.com, under the label *Cavern ambient* ruled on 30 September. The prompt, seed and loop point are logged.
