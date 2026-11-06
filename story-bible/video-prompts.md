@@ -1468,6 +1468,8 @@ the narration stays unverified.
   the contact sheet the being reads as a bear cub. The line names an ape, a sloth, an Ewok and a
   costume, not a bear, so this is passed and named rather than failed.
 
+**The voice** (6 November 2026, after Dermot heard it and asked: *"Is that meant to the voice of a Pandoid or just a translation voiced by a human?"*). A translation. The brief names no voice, and Director's sounds human to him, which is right: the record holds no form of the Told's speech (`src/glossary/the-told.md`), so a voice made to sound like a Pandoid would invent what the record declines to, the line `music-prompts.md` draws under *Where a track may not be generated at all*. A later version keeps a plain human voice reading the translation, with no accent or effect to suggest a speaker of the Told.
+
 **Recommended: version 4**, since it is version 3 with its weakest shot repaired. No further
 round is recommended, because what remains is small or a matter of taste. Which version
 stands is Dermot's, after he has heard it.
