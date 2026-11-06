@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.61.0] — 2026-11-06
+
+The Journal gains *The Up-People's First Stone*, a Director film of *Theirs to Move* filed as an impression, after three more rounds on brief D6. The Told has its own footer theme, a 90-second cavern loop. A trailer theme and title are chosen but not yet generated, and Director brief D1 is rewritten for the record's clean clocks. Two small corrections go in, to a Journal count and to the dates of Drey's tables, and Tissadelle Shepherd's page now says how far her name travels.
+
 - **Director brief D1 rewritten for the record's clocks, and the film preamble cleaned** (`story-bible/video-prompts.md`, 2026-11-06, Opus, Dermot's *"Yes"*). C-7A and C-7B are now clean atomic instruments, not worn dials, the shared preamble drops *dust and wear*, and version 1 is recorded. Nothing is generated from the revision yet.
 
 - **How far Tissadelle Shepherd's name travels** (`src/characters/tissadelle-shepherd.md`, `story-bible/intake-2026-11-06.md`, 2026-11-06, Opus, Dermot's *"Option 1, record it"*). A clarification on her character page: her name is known inside the Corps and she is not a public figure outside it; the song she sang with Slipwave travels further than she does.
