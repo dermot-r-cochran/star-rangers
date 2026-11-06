@@ -226,6 +226,22 @@ Two habits worth keeping whatever the tool:
   them, and re-rolling a good take you cannot find again is the most avoidable
   waste there is.
 
+### Running a prompt from the phone
+
+Dermot's route, 6 November 2026: *"copy and paste for MyTunes from a cloud claude
+session on my phone"*. He keeps the annual plan in the phone app, and a Claude Code
+cloud session is the go-between, since it can read this file and nothing else of his.
+
+1. He asks the session for a prompt by name. It reads the entry here, from `main`.
+2. It prints the one-box line first, then each of the six fields, every one in its own
+   code block, so that each takes one tap to copy. It adds nothing to them.
+3. He pastes them into MyTunes and runs it there.
+4. He brings the audio back to the same session, which takes the audio out of its
+   wrapper, files it under `src/audio/`, and adds the take to the entry here with the
+   prompt as typed. A take he rejects is still logged, so it is not made twice.
+
+A new or changed prompt lands here first, as a pull request, before it is run.
+
 ### Delivery
 
 - **Loopable**, 90–150 s, no fade in or out, ending on a tone that can meet its
@@ -506,11 +522,21 @@ and negative where the app allows them:
 | Field | |
 |---|---|
 | **Style** | celtic ambient, spacer folk, title theme, dorian, slow, spacious |
-| **Mood** | enigmatic, haunting, hopeful, patient |
+| **Mood** | beautiful, enigmatic, haunting, dramatic, mysterious |
 | **Instruments** | low whistle, wire-strung harp, bowed drone, low strings entering late |
 | **Production** | low station hum under everything, few-cent detune, one five-note figure stated three times, its last note a fraction late each time, third statement fuller, no cadence that closes |
 | **Exclude** | trailer riser, braam, impact, big drums, jig, reel, vocals, choir |
 | **Form** | instrumental, ends on a held tone, the best 12 to 20 seconds cut from a longer take |
+
+**The mood, 6 November 2026.** Dermot's words for the theme: *"beautiful enigmatic
+haunting dramatic mysterious"*. They are the Mood line above, in his order, and they
+replace the first draft's. Dramatic here is stakes and shape, so the third statement
+may arrive in full, and the tone line and the shared negative still hold.
+
+**One box:** `Beautiful, enigmatic, haunting, dramatic, mysterious title theme. Celtic spacer folk, dorian, slow. Low whistle, wire-strung harp, low strings. Station hum, few-cent detune. Five-note figure three times, last note late, third fuller. Ends on a held tone.`
+
+For MyTunes' single description field, with the Instrumental switch on. Nothing has
+been generated from it yet.
 
 ### The variations, by thread
 
