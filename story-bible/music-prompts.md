@@ -227,6 +227,22 @@ Two habits worth keeping whatever the tool:
   them, and re-rolling a good take you cannot find again is the most avoidable
   waste there is.
 
+### MyTunes' settings, as Dermot reported them (6 November 2026)
+
+| Setting | Choices | For instrumental themes and textures |
+|---|---|---|
+| Description | one box, **cut at 200 characters** | the one-box line, under 200 |
+| Instrumental or vocal | instrumental, or vocal | instrumental |
+| Vocals | male, female, or none chosen; **sometimes ignored** | not used |
+| Genre | Classic, Country, Pop, Jazz, Rock, Rap, House, or none | none first; *Classic* if a take comes back with a beat |
+| Live / Concert | on, or off | off: it adds an audience and a hall, and a card once claimed a live recording the file did not have |
+
+None of the seven genres fits the house sound. *Classic* is the nearest, since it
+leaves out the drum kit, and *Country* comes after it. The rest each add a beat, or
+in jazz's case swing, which would bury a late note. Because the vocal setting is
+sometimes ignored, a sung brief that needs one voice has to say so in the
+description too, and a take is checked by ear for the voice it got.
+
 ### Running a prompt from the phone
 
 Dermot's route, 6 November 2026: *"copy and paste for MyTunes from a cloud claude
@@ -547,6 +563,10 @@ characters:
 
 It drops *spacer folk*, *wire-strung*, *few-cent* and *third fuller*. If takes come
 back flat, put *third fuller* back in place of *Held end*.
+
+**The settings for take 1** (6 November 2026): genre left empty, Live off,
+Instrumental on, the 194-character line above. If a take comes back with a beat or
+a pop sound, take 2 is the same with genre set to *Classic*.
 
 ### The variations, by thread
 
