@@ -1242,6 +1242,25 @@ absences.
   moss, drifting smoke) does not travel. Not in `src/audio/`: no page or film uses
   it yet, and the delivery-path question under *Tools* stands.
 
+### The late note, take 2 — *The Whistle's Last Note* (verdict not yet given)
+- **Type:** generation
+- **Tool:** MyTunes (MWM), phone app
+- **Date:** 6 November 2026
+- **Used by:** nothing yet; candidate for the trailers' core theme (*The late note*)
+- **Prompt:** as take 1, verbatim
+- **Settings:** Instrumental on, genre *Classic*, Live off. MyTunes gave it the title.
+- **Lyrics:** instrumental
+- **Negative:** none
+- **Notes:** 3:25. Same wrapper as take 1. −14.3 LUFS integrated, true peak
+  −0.8 dBFS, LRA 5.0 LU, so more even than take 1. Measured, not heard: a steady pulse of about
+  129 a minute; an opening with no low end for about 10 s, strongest notes G, F, D
+  and B♭; lighter high-frequency transients than take 1, peaking around 2:25–2:35;
+  and, unlike take 1, **a held ending**: the bass steps down through A♭ and B♭ to a
+  low C (65 Hz, with its octaves and fifth) held from about 3:15 and dying away by
+  3:25. The pitches read nearer C minor than the dorian asked for, unconfirmed.
+  The held C is the likeliest place for the closing title. *Classic* did not
+  remove the pulse. Card: a stone arch on blue misty moorland; does not travel.
+
 ---
 
 ## Practical notes
