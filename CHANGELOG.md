@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Drey's tables in *Bound In Behind It* end in 2719** (`src/codex/bound-in-behind-it.md`, 2026-11-06, Opus, Dermot's *"Yes, all five"* to option A). A clarification of chronology: the hearing is dated 2719, so the tables she supplied to it cannot run to 2720.
+
 - **One count corrected in the Journal entry *The Up-People's First Stone*** (`src/journal/the-up-peoples-first-stone.md`, 2026-11-06, Fable, the Benevolent Critic read of #1693). The entry said the brief was wrong in one place; the record under D6 in `story-bible/video-prompts.md` holds two, the length and the body clause, so the line now says the brief was wrong on the length. Nothing else in the entry moves. Counter-critic: 1 improvement landed; 2 changes withheld; 0 regressions dropped.
 
 - **New Journal entry, *The Up-People's First Stone*, with its film** (`src/journal/`, `src/video/`, 2026-11-06, Opus, Dermot's *"Version 6"*). A Director film of *Theirs to Move*, made from brief D6 and filed as an impression, not the record, with an account of where it departs.

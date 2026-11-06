@@ -5,7 +5,7 @@ category: "Correspondence"
 library: "Survey Archive, Threshold Station"
 author: "Sildron Drey, formerly Director of Operations, Military Space Command"
 institution: "None. Written as a private person from Mars; the copy is the Solar Command officer-track syllabus file's"
-location: "Solar System founding papers; copy from the Solar Command officer-track syllabus file, where it sits behind the staff paper On the Cost of Speed (2698 UCSD) and the Directorate of Operations response-time tables, 2711 to 2720"
+location: "Solar System founding papers; copy from the Solar Command officer-track syllabus file, where it sits behind the staff paper On the Cost of Speed (2698 UCSD) and the Directorate of Operations response-time tables, 2711 to 2719"
 tags: [msc, solar-command, mars, sildron-drey, maren-solveig-krast, consolidation-hearing, eden, patience-first, founding, pre-charter, history, correspondence]
 image: "bound-in-behind-it.jpg"
 image_alt: "Designed cover for Bound In Behind It: pale serif title over faint ruled lines on a dark blue-black background, headed CORRESPONDENCE, with a COPY stamp at the top right, the subtitle A reply from Mars, 2724 UCSD, the Solar Command officer-track syllabus file named beneath it, and the author Sildron Drey at the foot."
@@ -57,7 +57,7 @@ In 2722 the Accords negotiators wrote to me about the jurisdiction limits the De
 
 Do not withdraw it. A syllabus that drops a paper because its author's Command fell teaches students that arguments are retired by events. They are not, and this one was not. The argument was not refuted. It was tested, over nine years, by the only people in a position to test it, and they were its authors.
 
-Teach it as written. Then bind in behind it, as an appendix with no commentary, the directorate's response-time tables for 2711 to 2720, as I supplied them to the hearing; they are in the hearing record and you have access to it. Put no note between the paper and the tables. Your students are trained to ask what a document is for, and the tables answer that question for the paper, in the paper's own units.
+Teach it as written. Then bind in behind it, as an appendix with no commentary, the directorate's response-time tables for 2711 to 2719, as I supplied them to the hearing; they are in the hearing record and you have access to it. Put no note between the paper and the tables. Your students are trained to ask what a document is for, and the tables answer that question for the paper, in the paper's own units.
 
 Whether to do it is yours. I have no standing to decide it, and I find I do not want any. If you bind them in, tell me. If you do not, tell me that. I will not write again about it either way.
 

@@ -185,7 +185,7 @@ neither to hand); one See-also clause on `ollune.md` (an extension).
 
 The next chapter of Tissadelle's middle under the 18 October ruling (option A, below), Season 3 being still the checklist's second gap. Late spring 2829: the seventh Counterpane revisit home, the bench signed over at the Survey Corps Standards Office's receiving door on Earth, the general operations department ending on that signature by its order's own terms, Shepherd leaving before the finding, Halvorsen not sitting on the audit, and nine days later the seventh confirmation at the width of one membrane. Seven readings settled at Fable and recorded in `intake-2026-11-02.md`, last section: the beat (the audit at home over the roster winter); Shepherd leaving rather than waiting; two established POVs and nobody new; fourteen names; the department ending at the receiving signature; nine days; Halvorsen's last line. Nothing in it met the bar for him. **Left for him there, not blocking:** the Tír na nÓg *rarely align* clause from the stage 2 critic read, two options, (1) recommended. The 19 October worklist's Counterpane line is struck below as paid before it was written.
 
-## The tables Drey asks for, 2711 to 2720 — raised 2 November 2026 by the Benevolent Critic read of #1635–#1639, OPEN for Dermot, nothing changed in `src/`
+## The tables Drey asks for, 2711 to 2720 — raised 2 November 2026 by the Benevolent Critic read of #1635–#1639, RULED 6 November 2026: A (Dermot's *"Yes, all five"*); both figures in `bound-in-behind-it.md` now read 2719, and her tenure line stands
 
 *Bound In Behind It* (`src/codex/bound-in-behind-it.md`, his read of 2 November
 2026) asks the instructor to bind in *the directorate's response-time tables for
