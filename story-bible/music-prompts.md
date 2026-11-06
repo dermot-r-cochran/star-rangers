@@ -1259,7 +1259,9 @@ absences.
   low C (65 Hz, with its octaves and fifth) held from about 3:15 and dying away by
   3:25. The pitches read nearer C minor than the dorian asked for, unconfirmed.
   The held C is the likeliest place for the closing title. *Classic* did not
-  remove the pulse. Dermot's verdict: *"Keep it"*. Card: a stone arch on blue misty
+  remove the pulse. Dermot's verdict: *"Keep it"*; asked whether the held C is
+  the title ending, *"Yes it is"*. So the closing title cuts in on the held C,
+  about 3:15 to 3:25, when a trailer uses this take. Card: a stone arch on blue misty
   moorland; does not travel. Not in `src/audio/`, for the same reason as take 1.
 
 ---
