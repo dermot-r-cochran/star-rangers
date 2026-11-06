@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The trailer theme and title chosen** (`story-bible/music-prompts.md`, 2026-11-06, Opus, Dermot's *"A, A"*). The late note and the closing title. Nothing is generated yet.
+
 - **Ideas for a trailer theme and title** (`story-bible/music-prompts.md`, 2026-11-05, Opus, Dermot's *"Could be varied slightly for each season, edition or thread"*). One core theme and one title treatment, varied by thread and used on trailers only. Three ideas for each, a first prompt and a variation per thread are written down. Nothing is generated and the choice is open.
 
 ## [1.60.0] — 2026-11-05
