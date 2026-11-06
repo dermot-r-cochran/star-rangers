@@ -75,12 +75,12 @@ their own voices* section are left as they stand.
 
 ---
 
-## A theme and title for the trailers (5 November 2026)
+## A theme and title for the trailers — raised 5 November 2026, RULED 6 November 2026
 
-Which core theme and which title treatment: the options, with a recommendation
-for each, are in `music-prompts.md`, *A theme and title for the trailers: ideas*.
-One core varied by thread, on trailers only, is agreed; the pick is his, and
-nothing is generated before it.
+His *"A, A"*: the late note and the closing title, one core varied by thread, on
+trailers only (`music-prompts.md`, *A theme and title for the trailers: ideas*).
+Still open there: whether Director takes a supplied track or lettering, and how
+a theme is joined to a film outside it.
 
 ## Episodes as self-contained stories — raised by Dermot 5 November 2026, RULED the same day: option (a), *"New episodes, reviews"*
 

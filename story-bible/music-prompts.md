@@ -456,8 +456,11 @@ content at all.
 
 ## A theme and title for the trailers: ideas, 5 November 2026
 
-Nothing below has been generated, and no idea here has been chosen. Dermot's
-direction, the same evening: *"Theme Music and Title Sequence"*, then *"Could be
+**Chosen, 6 November 2026: the late note and the closing title** (Dermot, *"A,
+A"*). Ideas B and C of each stay below as the record of what was offered, and B
+of the theme stays as the *Below the Roof* variation. Nothing has been generated.
+
+Dermot's direction, the evening before: *"Theme Music and Title Sequence"*, then *"Could be
 varied slightly for each season, edition or thread"*. The shape he agreed to
 record is one core theme and one title treatment, varied by thread, on trailers
 only. A film told as a quiet scene, such as D6, keeps its own opening.
@@ -480,7 +483,7 @@ line and the shared negative still hold.
 All three come from the house signature, so a listener hears the same work
 beneath every variation.
 
-- **A. The late note (recommended).** A five-note figure over the hum, stated
+- **A. The late note (chosen).** A five-note figure over the hum, stated
   three times, and its last note arrives a fraction behind where the ear
   expects it, every time. It is the forty seconds made into a tune: short
   enough to recognise, and it can sit in any instrument. Its one risk is that
@@ -532,7 +535,7 @@ read for spelling before anything is filed. *Fian Ilchruinne*, with the thread's
 name small beneath it, and no tagline. Lettering in one typeface across all
 threads; the picture behind it is what varies.
 
-- **A. The title closes (recommended).** No opening titles: the trailer starts
+- **A. The title closes (chosen).** No opening titles: the trailer starts
   in the world, and the title cuts in on the last late note, over black or the
   final held shot, for about six seconds. It is the rule for episodes applied to
   film: the enigma arrives, it does not open. It is also the cheapest, and it
