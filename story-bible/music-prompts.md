@@ -254,8 +254,11 @@ cloud session is the go-between, since it can read this file and nothing else of
    code block, so that each takes one tap to copy. It adds nothing to them.
 3. He pastes them into MyTunes and runs it there.
 4. He brings the audio back to the same session, which takes the audio out of its
-   wrapper, files it under `src/audio/`, and adds the take to the entry here with the
-   prompt as typed. A take he rejects is still logged, so it is not made twice.
+   wrapper, measures it, and adds the take to the entry here with the prompt as
+   typed. A take he rejects is still logged, so it is not made twice. A take is
+   filed under `src/audio/` only when a page or a film uses it: everything there is
+   served on every domain, and MyTunes is the sketchpad, not the delivery path
+   (*Tools*, below). Until then he keeps the mp4.
 
 A new or changed prompt lands here first, as a pull request, before it is run.
 
@@ -1215,8 +1218,29 @@ Same shape as `image-prompts.md`, one per generated file:
     - **Negative:**
     - **Notes:** seed, length, take count, loop point, loudness, format
 
-No entries yet. The five files in `src/audio/` predate this file and are
-recorded above as absences.
+The five files in `src/audio/` predate this file and are recorded above as
+absences.
+
+### The late note, take 1 — *The Fifth Note Held* (kept, not filed)
+- **Type:** generation
+- **Tool:** MyTunes (MWM), phone app
+- **Date:** 6 November 2026
+- **Used by:** nothing yet; candidate for the trailers' core theme (*The late note*)
+- **Prompt:** `Beautiful, enigmatic, haunting, dramatic, mysterious Celtic title theme, dorian, slow. Low whistle, harp, low strings, station hum, detune. Five-note motif three times, last note late. Held end.`
+- **Settings:** Instrumental on, genre none, Live off. MyTunes gave it the title.
+- **Lyrics:** instrumental
+- **Negative:** none (MyTunes has no exclude box)
+- **Notes:** 3:33, ending in a 4 s fade. AAC 48 kHz stereo inside a 640×360 mp4
+  with the MyTunes badge. −13.3 LUFS integrated, true peak −0.3 dBFS, LRA 8.2 LU.
+  Measured, not heard: a steady pulse of about 113–117 a minute throughout; a
+  quiet opening to about 0:10; a full middle from about 0:35 to 2:58 with sharp
+  high-frequency transients, likely percussion; a strong partial near 75 Hz from
+  about 0:15; a dip of 10–14 dB at 3:00–3:18, the likeliest title passage; a low
+  close fading from about 3:27. Whether a five-note figure is present, and whether
+  its last note lands late, could not be measured under the pulse. Dermot's
+  verdict: *"Sounds fine"*. The card (a stone arch in mist, a harp-like shape in
+  moss, drifting smoke) does not travel. Not in `src/audio/`: no page or film uses
+  it yet, and the delivery-path question under *Tools* stands.
 
 ---
 
