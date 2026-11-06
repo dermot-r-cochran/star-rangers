@@ -436,6 +436,17 @@ dripping a fraction behind where the ear expects it.
 
 Somewhere warm under a great deal of cold rock, and nothing in it is afraid.
 
+**For MyTunes** (6 November 2026), 193 characters, under its 200-character cut:
+
+`Warm, curious, patient, a little funny cavern ambient, slow, gentle. Soft mallets on stone, low wooden flute, late water drips, small near hum. Short figure told twice, shorter the second time.`
+
+It drops *safe* from the mood, the reverb line and the loop. Run it with
+Instrumental on, genre none and Live off. Not *Classic*: the late note's take 2
+showed that it keeps the pulse and pulls the sound towards a stately orchestral
+piece, which is wrong for a cavern. A MyTunes take is a sketch. The theme still
+needs a seamless 90 s loop, which MyTunes cannot export, before anything is filed
+under `src/audio/` or the label goes into `lib/editions.js`.
+
 **The label is *Cavern ambient*** — Dermot's ruling, 30 September 2026,
 verbatim *Cavern ambient for the Told*, from three shapes put (*Cavern
 ambient*, *Warm stone*, keep sharing). `themeAudio.label` ships to the reader
@@ -1241,6 +1252,28 @@ absences.
   verdict: *"Sounds fine"*. The card (a stone arch in mist, a harp-like shape in
   moss, drifting smoke) does not travel. Not in `src/audio/`: no page or film uses
   it yet, and the delivery-path question under *Tools* stands.
+
+### The late note, take 2 — *The Whistle's Last Note* (kept, not filed)
+- **Type:** generation
+- **Tool:** MyTunes (MWM), phone app
+- **Date:** 6 November 2026
+- **Used by:** nothing yet; candidate for the trailers' core theme (*The late note*)
+- **Prompt:** as take 1, verbatim
+- **Settings:** Instrumental on, genre *Classic*, Live off. MyTunes gave it the title.
+- **Lyrics:** instrumental
+- **Negative:** none
+- **Notes:** 3:25. Same wrapper as take 1. −14.3 LUFS integrated, true peak
+  −0.8 dBFS, LRA 5.0 LU, so more even than take 1. Measured, not heard: a steady pulse of about
+  129 a minute; an opening with no low end for about 10 s, strongest notes G, F, D
+  and B♭; lighter high-frequency transients than take 1, peaking around 2:25–2:35;
+  and, unlike take 1, **a held ending**: the bass steps down through A♭ and B♭ to a
+  low C (65 Hz, with its octaves and fifth) held from about 3:15 and dying away by
+  3:25. The pitches read nearer C minor than the dorian asked for, unconfirmed.
+  The held C is the likeliest place for the closing title. *Classic* did not
+  remove the pulse. Dermot's verdict: *"Keep it"*; asked whether the held C is
+  the title ending, *"Yes it is"*. So the closing title cuts in on the held C,
+  about 3:15 to 3:25, when a trailer uses this take. Card: a stone arch on blue misty
+  moorland; does not travel. Not in `src/audio/`, for the same reason as take 1.
 
 ---
 
