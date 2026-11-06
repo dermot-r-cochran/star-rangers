@@ -1240,7 +1240,7 @@ station stays out of frame).
 
 ### D6. The Up-People's First Stone (S11E01C05)
 
-**Status, 6 November 2026: version 5 read; it repairs the left hand in the stone shot and changes nothing else. Which version stands is Dermot's; not filed.** See *Version 4, read* and *Version 5, read* at the end of this entry.
+**Status, 6 November 2026: version 6 read; the stone shot now shows two hands throughout. Which version stands is Dermot's; not filed.** See *Version 4, read*, *Version 5, read* and *Version 6, read* at the end of this entry.
 
 **Status, 5 November 2026: version 3 published and read, and it clears the judging
 line as far as frames can show; not filed.** The version table and the readings
@@ -1404,6 +1404,7 @@ small closed mouth, real fur.
 | 3 | 6:31 | 5 Nov 2026 | One repair round on the faults read in version 2 | No |
 | 4 | 6:31 | 5 Nov 2026 | Closing shot only: the second stone remade to match the one set down | No |
 | 5 | 6:31 | 6 Nov 2026 | The stone shot only (2:46 to 3:23): the left hand remade; three hands near 2:48 | No |
+| 6 | 6:31 | 6 Nov 2026 | The start of the stone shot (2:46 to 2:55) re-drawn: two hands throughout; more of the kneeling figure shown | No |
 
 **The length.** Four minutes cannot be had. By Director's report the script
 alone runs just over six minutes spoken, so it kept every word and cut
@@ -1491,10 +1492,26 @@ unverified.
 - **Gloves.** The record does not say whether Aravena wore them, and the hands stay bare at his
   choice: a repair for gloves would have touched every shot with a hand in it.
 
-**Recommended: version 5 over version 4**, since its fault lasts about three seconds in
-movement against nearly thirty held still, and one more note on 2:47 to 2:51 if the three hands
-show at speed. Which version
-stands is Dermot's, after he has heard it.
+**Version 6, read, 6 November 2026.** Dermot confirmed the three hands show at speed, and one
+note went to Director; it published at 16:34. Read from a sheet of the stone shot every half
+second, 2:45 to 2:57, and compared with version 5 from frames each second. The sound's level
+matches throughout (no half-second more than 1.5 dB apart), which is a measure, not a hearing,
+and the narration stays unverified.
+
+- **Fixed:** two arms and two hands in every frame read. The left hand lifts off the stone on its
+  own sleeve, opens as it goes and rests on the silt by 2:50, and the fist is gone.
+- **Changed to get there:** from 2:46 to about 2:50 more of the person shows, a bent knee, a thigh
+  and the coverall to about the waist, beyond the brief's hands and forearms. No face shows, so
+  the judging line holds. It reads as someone kneeling, and is passed and named.
+- **Changed and not reported:** Director said the rest was unchanged, but the picture also differs
+  from version 5 at 3:56 to 4:08, 4:41 to 4:53 and 5:10 to 5:29. The content is the same, with a
+  slightly cooler, darker tone, dimmer fungi and a small shift of framing; at 5:29 the lamp sits
+  lower and is partly at the frame's edge. A closer look at the fungi favours version 6, if
+  anything, since the brief asks for *faint*.
+
+**Recommended: version 6**, since it is the first with no fault in the hands at any point read.
+No further round is recommended, because what remains is small or a matter of taste. Which
+version stands is Dermot's, after he has heard it.
 
 ### D7. Lúnasa
 
