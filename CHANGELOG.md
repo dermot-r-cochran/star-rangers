@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **How far Tissadelle Shepherd's name travels** (`src/characters/tissadelle-shepherd.md`, `story-bible/intake-2026-11-06.md`, 2026-11-06, Opus, Dermot's *"Option 1, record it"*). A clarification on her character page: her name is known inside the Corps and she is not a public figure outside it; the song she sang with Slipwave travels further than she does.
+
 - **The Told has its own footer theme** (`src/audio/told-theme.m4a`, `lib/editions.js`, `story-bible/music-prompts.md`, 2026-11-06, Opus, Dermot's *"Take C"* and *"90-second loop"*). A 90 s Stable Audio loop replaces the borrowed Five-O track on told.fianilchruinne.com, under the label *Cavern ambient* ruled on 30 September. The prompt, seed and loop point are logged.
 
 - **Drey's tables in *Bound In Behind It* end in 2719** (`src/codex/bound-in-behind-it.md`, 2026-11-06, Opus, Dermot's *"Yes, all five"* to option A). A clarification of chronology: the hearing is dated 2719, so the tables she supplied to it cannot run to 2720.
