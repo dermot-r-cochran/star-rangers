@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Director brief D6, version 4 recorded** (`story-bible/video-prompts.md`, 2026-11-06, Opus, after Dermot's *"Fix the last stone"*). Version 4 changes only the closing shot of *The Up-People's First Stone*. Which version stands is his, and nothing is filed.
+
 - **The trailer theme's mood set, and a phone route for music prompts** (`story-bible/music-prompts.md`, 2026-11-06, Opus, Dermot's *"beautiful enigmatic haunting dramatic mysterious"* and *"copy and paste for MyTunes from a cloud claude session on my phone"*). The late note's Mood line now uses his words, with a one-box line for the app, and the file says how a cloud session hands a prompt over. Nothing is generated yet.
 
 - **Two supplied recordings noted as trailer theme candidates** (`story-bible/music-prompts.md`, 2026-11-06, Opus, Dermot's *"As candidates"*). A new *Ballad of the Stars* take and the *Star Rangers* muster piece, read from cards and measured levels, not heard. Neither is added to `src/audio/`, and the late note stays chosen.
