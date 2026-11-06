@@ -6762,3 +6762,7 @@ Raised by the Fable draft of the Director briefs: the 2815 Codex documents (`inc
 ## The orbital ring and Station Lúnasa — `intake-2026-10-30.md`, 30 October 2026 — RULED the same day, all three as recommended
 
 Dermot described the ring from *The Long White Trail* as a chain of thousands of habitat stations, a beaded arc low in the southern sky that never moves, with Station Lúnasa one bead among them; the reading puts it at geostationary height. Dermot, verbatim: *"1a, 2a, 3a as recommended".* **Commits the record to:** nothing. The description is the settled look of the ring on screen, for a remake of the film and for Director briefs and image prompts. On screen it circles Earth, seen from an Irish bay, and Lúnasa there has no forty seconds, which stay at Threshold's Dock Seven. **Leaves open:** whether the record ever gets an orbital ring, which waits for a chapter that needs one.
+
+## How famous Tissadelle Shepherd is in-world — `intake-2026-11-06.md` — RULED the same day, option 1
+
+Dermot asked whether she is a famous Star Ranger, a typical one the story follows as an example of a career, or a bit of each. Three options were put: (1) known inside the Corps, not famous outside it, recommended; (2) typical in reputation; (3) publicly famous. Dermot, verbatim: *"Option 1, record it"*. Recorded as a clarification on `src/characters/tissadelle-shepherd.md`, *Character Notes*.
