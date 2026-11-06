@@ -1240,6 +1240,8 @@ station stays out of frame).
 
 ### D6. The Up-People's First Stone (S11E01C05)
 
+**Status, 6 November 2026: version 4 read; it replaces the closing shot of version 3 and changes nothing else. Which version stands is Dermot's; not filed.** See *Version 4, read* at the end of this entry.
+
 **Status, 5 November 2026: version 3 published and read, and it clears the judging
 line as far as frames can show; not filed.** The version table and the readings
 are under *Version 2, read* and *Version 3, read* at the end of this entry. What
@@ -1400,6 +1402,7 @@ small closed mouth, real fur.
 | 1 | 7:15 | 29 Oct 2026 | First run; the being read as an ape | No |
 | 2 | 6:31 | 5 Nov 2026 | The Pandoid remade to the answer above; repeated picture cut | No |
 | 3 | 6:31 | 5 Nov 2026 | One repair round on the faults read in version 2 | No |
+| 4 | 6:31 | 5 Nov 2026 | Closing shot only: the second stone remade to match the one set down | No |
 
 **The length.** Four minutes cannot be had. By Director's report the script
 alone runs just over six minutes spoken, so it kept every word and cut
@@ -1445,7 +1448,29 @@ stays unverified.
   than *faint*. At 2:50 a coverall knee is in frame, beyond the brief's hands and
   forearms.
 
-Which version stands is Dermot's, after he has heard it.
+**Version 4, read, 6 November 2026.** Made on 5 November at his *"Fix the last stone"*;
+Director published it at 20:41, and it is kept at `F:\CLAUDE\Director films\`, outside the
+repository. Director's report: *nothing else in the film is changed*. Measured against
+version 3 from frames every two seconds, that holds: the picture differs only from about
+6:06 to the end, and the sound's level matches throughout (half-second level, no point more
+than 1.5 dB apart). That is a measure of level, not a hearing, and there are no captions, so
+the narration stays unverified.
+
+- **Fixed:** the stone in the closing shot is now the rough, broken, duller rust-orange block
+  set down at 3:03, not the smooth loaf, so the ending's two stones read as the two the film
+  has shown.
+- **Also changed, unasked:** the fungi behind that shot fall from bright to faint, which is
+  nearer the brief.
+- **Unchanged from version 3:** the dark passage with two small lights at 1:46 to 1:53, the
+  brighter fungi at 0:30 and behind the held shots, and the coverall knee at about 3:03 (read
+  at 2:50 in version 3).
+- **The judging line:** cleared on every point frames can show, as version 3. At a glance on
+  the contact sheet the being reads as a bear cub. The line names an ape, a sloth, an Ewok and a
+  costume, not a bear, so this is passed and named rather than failed.
+
+**Recommended: version 4**, since it is version 3 with its weakest shot repaired. No further
+round is recommended, because what remains is small or a matter of taste. Which version
+stands is Dermot's, after he has heard it.
 
 ### D7. Lúnasa
 
