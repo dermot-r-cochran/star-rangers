@@ -238,8 +238,9 @@ exempt.
 ### Shared preamble
 
 > Slow continuous camera drift, never locked off and never settling. Long
-> unbroken take. Diegetic light only — work lamps, window light, starlight,
-> fire; nothing glows that would not glow. Matte surfaces, real materials, clean
+> unbroken take. Diegetic light only: light from no visible fitting indoors,
+> daylight, window light, starlight, fire, and any lamp the brief itself names;
+> nothing glows that would not glow. Matte surfaces, real materials, clean
 > and well kept. Deep shadow with detail retained in it. Restrained, patient,
 > unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth
 > of field. Enigmatic, haunting, beautiful, quietly dramatic. 24 fps.
@@ -750,9 +751,12 @@ invents is only what the record leaves open. Dermot runs Director from his
 Chrome; nothing here has been generated.
 
 **Rules shared by every brief below.** Paste the instruction whole, then the
-shot list and the negatives if Director takes more; ask for 16:9 landscape.
+shot list, the narration or dialogue, and the negatives if Director takes more; ask for 16:9 landscape.
 The shared preamble and shared negative above apply to every shot, and the
-house motion signature (the hum, the drift, the forty seconds) holds. Director
+house motion signature (the hum, the drift, the forty seconds) holds. In a
+rural, outdoor or old place the shared negative's line on rust, grime, dirt,
+debris, dials and lamps binds the century's made rooms only; earth, weather,
+lichen, whitewash and the record's own old objects stay. Director
 composites its narration as captions in a real typeface, correctly spelled,
 and the two Slipwave videocasts and the trail were filed with theirs, so a
 caption stands; what fails is lettering generated inside the scene: a sign, a
@@ -763,7 +767,11 @@ name, place, rank, date or vessel enters a film unless the brief names it;
 where the brief says the record is silent, Director invents nothing there and
 the film goes without. A film is an impression (`where-the-record-lives.md`):
 whatever comes back is judged by its brief's line, filed in the Journal at most,
-never linked from a chapter or a lore page, and never adjusts the record.
+never linked from a chapter or a lore page, and never adjusts the record, save
+that an idea from one of Dermot's own films may enter canon at his word, per
+film and per idea, through a page under the usual checks, the film itself
+staying an impression and never a source (his ruling of 6 November 2026;
+`CLAUDE.md`, *Four canon statuses*).
 Director has cut at 854×480; it is filed as it comes, not upscaled.
 
 **The ring, if a film shows it** (Dermot, 30 October 2026, `intake-2026-10-30.md`).
@@ -779,8 +787,8 @@ forty seconds. The ring's look is fixed for films only and is not canon.
 ### The five subjects, and why
 
 **The forty seconds, Dock Seven, 2815.** The premise of the whole work is two
-second hands two-thirds of a turn apart that stay apart, and a still can show
-the gap but not that it holds, clears under a hand and comes back. It is the
+atomic clocks forty seconds apart that stay apart, and a still can show
+the gap but not that it holds, clears and comes back. It is the
 true version of what the trail got wrong, and the safest film on the list: the
 record fixes the dock, the two clocks, every date and every title from Day 44
 to Day 52 in three Codex documents, and leaves open only the faces, which the
@@ -797,7 +805,7 @@ seen, which is everything.
 **Left Blank (S01E00C12).** Two hands writing one word on a sheet, a season and
 a universe apart, the second with one mark more than the first; a line looked
 at and not filled; a receipt read for longer than a line needs. The subject is
-the pause before a pen, which only time can show. Safe because the record
+the pause before a stylus, which only time can show. Safe because the record
 gives the three places, the dates, the three ranks and every line of
 dialogue, and the one thing a generator would wreck, the writing itself, is
 kept out of focus by rule.
@@ -849,20 +857,20 @@ reading is at the end of this entry.
 > Threshold Station, a Survey Corps shore station on a coast of Earth, in 2815
 > UCSD, Late Summer, from Day 44 to Day 52. Dock Seven is a clean, well-kept
 > enclosed dock of the far future: pale matte composite walls and deck meeting in
-> rounded coves, no pipes, no rivets, a pressure seal at one end and an inner hatch
-> at the other, each a plain sealed door. Above each door is a chronometer, an
+> rounded coves, no pipes, no rivets, and along one long wall, well apart, a large
+> pressure seal on the left and a smaller inner hatch on the right, each a plain sealed door. Above each door is a chronometer, an
 > atomic clock: a clean sealed housing of pale matte composite with a narrow sight
 > port, in which a thin column of trapped atoms holds a faint violet light, and
 > beneath it a matte, unlit readout showing the time in digits, hours, minutes and
-> seconds. Once a minute a slightly brighter band climbs each column. Both clocks were calibrated to within half a second on Day 12. On
+> seconds. A slightly brighter band climbs each column steadily, taking a full minute from foot to head, then starts again at the foot. Both clocks were calibrated to within half a second on Day 12. On
 > Day 44 they were found forty seconds apart. On Day 47 Sub-officer Pren Halvard of
 > the Survey Corps detachment recalibrated both and filed Incident Report 001, and
 > the gap cleared. On Day 49 at 03:10 station time, on the night rotation, Technician
 > N. Isern of the Maintenance Division found them forty seconds apart again, re-ran
 > the calibration, isolated both units, re-seated the bus coupling, and watched the
 > gap return after every pass. On Day 52 Station Manager Cors Delveyne closed the
-> report as a calibration issue. On Day 52's 00:00 to 04:00 watch, Watch Officer Mera
-> Soln of the Operations Desk reset both clocks at shift start, at 01:22 logged them
+> report as a calibration issue. On Day 52's 00:00 to 04:00 watch, both clocks were
+> reset at shift start; at 01:22 Watch Officer Mera Soln of the Operations Desk logged them
 > forty seconds apart again, filed an addendum after the closure note, and kept the
 > dual-clock verbal callouts for every docking. That is the whole film.
 > Nobody is named who is not named here, nobody is given any title beyond the
@@ -870,7 +878,7 @@ reading is at the end of this entry.
 > is only the sentences supplied, read as the documents themselves in their own
 > present tense, with no narrator, no framing and no added sentence. No face is
 > ever shown, not a chin or a cheek: hands, gloved where the work allows, backs, and
-> a figure in a doorway seen from behind, head level, since the record describes
+> a figure seen from behind, head level, since the record describes
 > none of these four people. Light is recessed and diffuse, from no visible fitting,
 > soft across the dock, with no lamp, bulb or cage anywhere; the only other light is
 > the faint column in each sight port. The camera is a fixed dock camera or a
@@ -879,26 +887,27 @@ reading is at the end of this entry.
 
 **Shot list.**
 
-1. Fixed dock camera, high in a corner, looking along the dock from the
-   pressure seal to the inner hatch with both clocks in frame; the one motion
-   is the bright band climbing each column, one two-thirds of a column behind the
+1. Fixed dock camera, high on the opposite wall, looking straight across at the
+   long wall, seal left, hatch right, both clocks in frame; the one motion
+   is the bright band climbing each column, one a steady distance behind the
    other and staying there. Hold ten seconds.
 2. Hand-held recorder at waist height, Day 47: a gloved hand opens a flush panel
    below one clock and sets it; the two bands climb level.
 3. Desk-level camera, Day 47: a hand writes on a thin matte sheet with a plain
    stylus, the sheet beyond focus; soft light from no visible source.
 4. The fixed dock camera, Day 49, 03:10: the dock empty, the light at its low night
-   setting; the bands are apart again. The readout above the seal shows *03:10:41*
-   and the one above the hatch *03:10:01*, both counting on together. Hold.
+   setting; the bands are apart again. The readout above the seal shows *03:10:01*
+   and the one above the hatch *03:10:41*, both counting on together. Hold.
 5. Hand-held at the open flush panel, Day 49: a technician's hands link a small
    sealed module to the unit, re-seat a coupling, run the pass, the movement
    continuous; each time the hands come away the gap is back. The module has no
    label and no lit indicator.
-6. The fixed dock camera, Day 52, 01:22: the hatch open, a figure's back in
-   the doorway, the head level, a low indistinct voice calling two times aloud to a
-   vessel that is not in frame; the bands apart.
-7. Close on the two sight ports side by side, the columns and the bands moving,
-   nobody present. Hold eight seconds and end.
+6. The fixed dock camera, Day 52, 01:22: a figure stands between the two doors,
+   back to the lens, facing the wall, the head level, a low indistinct voice calling
+   two times aloud to a vessel not in frame; the readout above the seal shows
+   *01:22:05*, the one above the hatch *01:22:45*, both counting on; the bands apart.
+7. The fixed dock camera, the dock empty, both clocks in frame, the columns and
+   bands moving. Hold eight seconds and end.
 
 **Narration.** Only these, in this order, each read flat as the document it
 comes from. From Incident Report 001 (Day 47): *Two wall-mounted chronometers
@@ -915,7 +924,7 @@ operationally useful.* *Keep dual-clock verbal callouts active for all
 night-watch docking transactions.* Nothing from 2826, and nothing from anyone
 remembering.
 
-**Negatives as objects.** The shared negative, plus: no dial, no clock face, no
+**Negatives as objects.** The shared negative, except that the two readouts carry digits, plus: no dial, no clock face, no
 clock hands, no analogue instrument, no rust, grime, dirt, scratches, stains, peeling
 paint or exposed pipes, no rivets, no caged lamp, no bulb, no desk lamp, no paper, no
 pen, no glowing screen, no hologram, no readout that lights a face or a wall, no
@@ -931,12 +940,11 @@ garbled, or the readouts differ by anything but forty seconds except directly af
 hand has set them; if any other lettering appears; if any name,
 title or year is spoken or captioned that is not in the instruction; if the film
 leaves the dock; if the two bands are level at any moment other than directly after
-a hand has set them; or if the gap is anything but two-thirds of a column, widening or
-narrowing on its own.
+a hand has set them; or if the distance between the bands widens or narrows on its own.
 
 **Digits, and why they are in the scene.** Dermot, 6 November 2026: *"Grok Director got
 the digits right even of Gemini does not"* and *"Grok seems to do much better with
-lettering than Gemini does"*. The rule below, that lettering generated inside a scene
+lettering than Gemini does"*. The rule above, that lettering generated inside a scene
 fails, came from image generators. For Director it is now a thing to test and read, and
 every digit is read from frames before a film stands. Stills stay as they were.
 
@@ -988,10 +996,16 @@ for a moment in the doorway, which the frames every three seconds did not catch.
 
 > Make a film of about 90 seconds, 16:9, on a Celtic Union charter world the
 > record does not name, in the late autumn of 2826 UCSD, on one still afternoon
-> and the morning after. A smallholding below a hill: a stone house, a byre, a
-> yard wall, a gable with straw by it, a top field with three goats, a dog, a
-> lane. Up the hill, not shown close, is a Survey Corps boundary post of two
-> Rangers with a mast on the ridge. The keeper is Donncha Ó Laoire. Some time
+> and the morning after. A smallholding below a hill, kept, in 2826: a long low
+> house of sealed pale stone panels under a dark plain roof, grey heating
+> conduits under the eave, a folded field drone in a cradle on the gable, a byre
+> of the same stone, a smooth pale yard wall, straw by the gable, a
+> composite-handled brush standing against the wall, a small grey yard robot at
+> rest, unlit, no face, a top field with slim sensor posts and no wire, three
+> goats, a dog, a lane. Up the hill, not shown close, is a Survey Corps boundary
+> post of two Rangers with a slim pale composite mast on the ridge, in frame in
+> shot 1. The keeper is Donncha Ó Laoire, a lean man with short dark hair
+> greying at the temples, in a dark brown-green field jacket. Some time
 > after the middle of the afternoon the three goats go to the far wall all
 > together, as for a dog, and the dog is at his heel. A skirt of straw the
 > height of a man gets up off the ground by the gable in air that has not moved
@@ -1001,55 +1015,61 @@ for a moment in the doorway, which the frames every three seconds did not catch.
 > and holds there in the still air with no mark on the wood. He does not force
 > it and does not go through it; he goes round by the front and sets the bowl
 > on the stone by the back step. Before the light goes, Senior Éilis Ní Mhurchú
-> of the Survey Corps walks down the lane with a hand-instrument case, in a
-> dark olive field uniform with one small plain tab at the collar and nothing
-> else on it, tries the door herself, writes on a paper form, steps over the
-> bowl without looking down, and says words at the door quietly, not to him,
-> which are not heard. Night: the door open the wrong way, the bowl out, the
+> of the Survey Corps, a compact, square-shouldered woman, black braids bound at
+> the nape, bareheaded, walks down the lane with a small plain case of dull
+> composite, no latches or clasps, in the Survey Corps' matte deep olive
+> high-collared field shell, one small barred tab at the collar, nothing else
+> on it, tries the door herself, writes on a thin pale form, goes in by the
+> front, comes out by the back door, steps over the bowl without looking down,
+> and says words at the door quietly, going out, not to him, which are not heard. Night: the door open the wrong way, the bowl out, the
 > dog across the front step. Morning: a skin on the bowl, the dog drinks it, he
 > sweeps, and the door comes in to him on its hinges and he goes through it
 > without stopping. No narration. Spoken lines are only the ones supplied.
 > Nothing is seen in the straw or the lane, and nothing explains the door.
-> Faces are turned away or in shadow; the record describes neither person.
+> Faces are turned away or in shadow.
 
 **Shot list.**
 
-1. Fixed camera on the byre wall looking across the yard to the top field;
-   the goats cross to the far wall together; flat overcast afternoon light.
+1. Fixed camera on the byre wall looking across the yard to the top field, the
+   slim pale mast on the ridge beyond; the goats cross to the far wall together; flat overcast afternoon light.
 2. The same mount: the straw gets up by the gable, turns at the height of a
    man, goes along the wall and over it, and lies down; nothing else in frame
    moves, the dog included.
-3. Hand-held at the keeper's shoulder inside the back door: his hand to the
-   latch, the door swinging out and holding; yard light through the opening.
+3. Fixed camera low in the yard, some paces back and left of the back door: from
+   inside, his hand and the bowl; the door swings out and comes to rest laid flat
+   against the outside wall on its hinge side, and holds; he stands on the
+   threshold, head down, turned from the lens.
 4. Fixed camera at the gable corner, the lane beyond: a Ranger walking down
    with a case; dusk.
 5. Hand-held outside the back door: her hand tries it, it swings out; her
-   other hand writes on a form held beyond focus; last light.
-6. Fixed camera low at the back step: her boots step over the bowl; her
-   figure in the doorway with its back to the lens, saying something the
-   recorder does not pick up.
+   other hand writes on a thin pale form held beyond focus; last light.
+6. Fixed camera low inside the back door, looking out: her back in the doorway,
+   saying something the recorder does not pick up; her boots step over the bowl
+   on the stone.
 7. The byre-wall mount at morning: the door comes in; he goes through; low
    sun, long shadows.
 
-**Narration.** No narration. Dialogue, all of it, hers then his: *Is anything
-missing.* *No.* Her four questions may be heard as four short questions, the
-time, the wind, the animals, what was changed, in those words and no others;
-his answers are a few words each. *You'll want the door, a Mhaoir,* is his
-one other line, said as written.
+**Narration.** No narration. Dialogue, all of it, in this order. Hers, the four
+questions, the time, the wind, the animals, what was changed, in those words
+and no others; his answers are too low to catch and no word of them is heard.
+His: *You'll want the door, a Mhaoir.* After she has tried the door, hers: *Is
+anything missing.* His: *No.*
 
 **Negatives as objects.** The shared negative, plus: no wind in trees, grass
 or hair, only in the straw; no dust devil, funnel or whirlwind drawn beyond
 the straw itself; no figure, shape, face or light in or behind the straw; no
-glow at the door; no damage to the door or its frame; no hinges on the
-outside; no instrument with a glowing display; no mast lit; no vehicle; no
+glow at the door; no damage to the door or its frame; no instrument with a glowing display; no mast lit; no vehicle; no
 weapon; no second Ranger; no fairy, no small figures, no hat, cloak or
 costume; no legible form; no dates spoken; no name for the world or the
-valley; no narration.
+valley; no narration; no thatch, half door, small-paned window, lever handle,
+wooden broom, wire fence, lattice mast, cap or Aran jumper; no latched or
+hard-shell case, clipboard, pen, tablet, phone, belt, holster or radio, and no
+coat over the shell.
 
 **Judging line.** The film fails if anything but the straw moves in the still
-air; if anything is seen in, behind or after the straw; if the door shows
-damage or outward hinges; if a face resolves; if the Ranger carries anything
-but a case or wears anything but the olive shell and one plain tab; if a
+air; if anything is seen in, behind or after the straw; if the door swings
+into the room, stands at an angle to the wall or shows damage; if a face resolves; if the Ranger carries anything
+but a case, or a latched or hard-shell case, or wears anything but the olive shell and one barred tab; if a
 vehicle, a second Ranger or a stranger appears in the lane; or if a line is
 spoken that the brief does not give.
 
@@ -1060,7 +1080,14 @@ the valley unnamed on purpose); `src/lore/universes/si-gaoithe.md` (the straw
 is the only consistent tell, gone before anyone arrives);
 `src/lore/star-rangers-command-hierarchy.md` (Senior, five bars) and
 `src/lore/rank-insignia-and-uniform.md` (Survey Corps deep olive, one tab,
-nothing on the shell glows).
+nothing on the shell glows). The holding's look and both figures' build and hair
+come from the filed frames `donncha-o-laoire.jpg` and `eilis-ni-mhurchu.jpg`
+(`images.md`, 1 November 2026: *"Still looks like 20th century Ireland rather than
+29th century"* and *"The are allowed to have robots instead of wooden brooms and
+farm tools"*), not from canon; the pages still leave their appearance unrecorded.
+The door's staging in shot 3 is the one that held there, after eight variations
+drawn from inside swung the leaf into the room. If the draft stills return a stock
+case, drop the case at that stage, as the still did.
 
 ### D3. Left Blank
 
@@ -1071,17 +1098,20 @@ nothing on the shell glows).
 > Make a film of about 120 seconds, 16:9, in three places in 2826 UCSD, with
 > no narration. First, early spring: a Survey Corps platform in deep space in
 > Deadwater, a universe where nothing travels faster than light, a small
-> station of seven people at the quiet point of one system, lit inside by work
-> lamps, with a window on a starfield and nothing else in it. Section Lead
-> Agnete Solvang of the Planetology Branch, in a dark olive field uniform with
-> one small plain tab at the collar, writes one word at the head of a paper
-> return sheet, reads a two-page circular standing up because the hull's bag
+> station of seven people at the quiet point of one system, a small pale coved
+> room with light from no visible fitting, and a window on a starfield with
+> nothing else in it. Section Lead Agnete Solvang of the Planetology Branch, a
+> tall rangy woman with straight dark hair cut at the jaw, in a matte deep olive
+> high-collared field shell with one small plain tab at the collar, writes one
+> word at the head of a thin pale return sheet with a plain stylus, reads a two-page circular standing up because the hull's bag
 > closes at the sixth hour, looks at a new line under the first for a short
 > time, and does not fill it. She turns the sheet and writes a remark on the
-> back, initials it, and puts the sheet and a relief list into a bag. On the
+> back, initials it, and puts the sheet and a relief list into a plain flat sealed bag. On the
 > table is a chart she does not look at. Second, the Survey Archive on
-> Threshold Station, Earth, a room of desks and paper under lamps: Field
-> Officer Benedek Rónai of the Archive Branch, same uniform, reads twenty-one
+> Threshold Station, Earth, a small warm-panelled room, a plain pale desk,
+> concealed light, no window: Field Officer Benedek Rónai of the Archive Branch,
+> a heavy-set man with close-cropped dark hair greying at the sides, same
+> shell, reads twenty-one
 > sheets as a run, reads the remark on the back of the last twice, sits with
 > the line for most of an hour, writes one short word with one mark after it,
 > carries that sheet and a second stack to the Principal's desk, where a woman
@@ -1099,39 +1129,42 @@ nothing on the shell glows).
 **Shot list.**
 
 1. Fixed camera on a bulkhead of the platform's common room: the window with
-   stars only, the table, the chart, the sheet; a hand writes one word; two
-   work lamps.
-2. Hand-held at shoulder height: she stands reading two clipped pages; the
-   lamp light; the one motion a page turning.
-3. Desk-level camera: the pen held above an empty line and not lowered; then
+   stars only, the table, the chart, the sheet; a hand writes one word; soft
+   light from no visible source.
+2. Hand-held at shoulder height: she stands reading two clipped pages; soft
+   light; the one motion a page turning.
+3. Desk-level camera: the stylus held above an empty line and not lowered; then
    the sheet turned over and the hand writing on the back.
 4. The bulkhead mount: the bag closed and lifted off the table; the chart left
    where it was.
 5. Fixed camera above an Archive desk on Threshold: twenty-one sheets dealt
-   out in order; a hand turns the last one over; a desk lamp.
+   out in order; a hand turns the last one over.
 6. Desk-level: the hand writes one short word and one mark, and stops.
 7. Hand-held, walking: a sheet and a stack carried to a second desk; a woman's
-   hand initials under initials; neither face.
+   hand initials under initials; neither face; the camera stops at the desk and
+   holds there for all seven lines.
 8. Fixed camera on a different table with a chart, summer: a hand holds a
    half-sheet for longer than a line needs, and puts it in a file.
 
 **Narration.** No narration. Dialogue, at the Principal's desk only, in this
-order: *That isn't a name.* *No.* *The circular asks for the zone.* *That is
-the zone.* *A blank would say they were here.* *When they meet a second one,
-they can tell us what to call it.* *Yes, Principal.*
+order. Principal: *That isn't a name.* Rónai: *No.* Principal: *The circular
+asks for the zone.* Rónai: *That is the zone. A blank would say they were here.*
+Principal: *When they meet a second one, they can tell us what to call it.*
+Rónai: *Yes, Principal.*
 
 **Negatives as objects.** The shared negative, plus: no exterior shot of
 anything, no spacecraft, no hull, no fold, no star streaks, no nebula, no
 planet or moon in the window, no legible lettering on any sheet, bag, chart or
-wall, no screen or tablet (the record's sheets are paper), no glowing
-indicator, no face, no legible tab, no uniform but dark olive, no narration,
+wall, no screen or tablet, no paper, pen, clipboard or lamp (a sheet here is
+thin, pale, matte and unlit, written by hand), no glowing indicator, no face, no legible tab, no uniform but dark olive, no narration,
 no spoken date, no name for the platform, the hull, the staging site or the
-Principal, no mark drawn large enough to read.
+Principal, no mark drawn large enough to read, no belt, no pockets, no canvas
+sack.
 
 **Judging line.** The film fails if any letter or figure on any sheet is
 legible; if an exterior, a ship or a fold appears; if the window shows
 anything but stars; if a face is shown; if a spoken line is added or
-reordered; or if her pen touches the empty line at the platform.
+reordered; or if her stylus touches the empty line at the platform.
 
 **Grounding.** `src/seasons/s01/e00/s01e00c12.md` (every action and line);
 `src/characters/agnete-solvang.md` and `src/characters/benedek-ronai.md`
@@ -1142,7 +1175,10 @@ one staged system, a starfield with nothing in it);
 `src/lore/star-rangers-command-hierarchy.md` (Section Lead, Field Officer,
 Principal); `src/lore/rank-insignia-and-uniform.md` (deep olive, one tab).
 `story-bible/starship-design.md` has no sheet for the platform or the relief
-hull, which is why no exterior is allowed.
+hull, which is why no exterior is allowed. The window is the film's and not the record's.
+The rooms, the shell and both figures' build and hair come from the filed frames
+`agnete-solvang.jpg` and `benedek-ronai.jpg`, not from canon. The chapter says
+sheet, hand and clipped, never paper or pen, and both frames fail a pen, as D1 does.
 
 ### D4. Before the Close
 
@@ -1158,7 +1194,8 @@ hull, which is why no exterior is allowed.
 > below a top field that rises to a line of bare trees; a gate where the yard
 > becomes the field; ewes brought down in the afternoon; a lamp put out before
 > dark; a shutter on the child's room left open a hand's width. Mairéad Ní
-> Dhálaigh sends her daughter Úna to bed, goes out to the gate and keeps her
+> Dhálaigh, a tall rangy woman with one black plait down her back, sends her
+> daughter Úna to bed, goes out to the gate and keeps her
 > hand on its top bar. The large moon, Donn, is up over the trees, full and
 > ordinary. Its edge softens on one side, as if breathed on; no second moon is
 > drawn. Low between the bare trunks a light comes up, level, a lamp's worth and
@@ -1206,13 +1243,14 @@ frame, no eclipse disc, no red moon; no aurora, sparkles, fairy lights or
 drifting motes; no mist machine; no figure moving toward the house; no child
 at the window; no object on the ground at the tree line; no instrument, no
 Ranger, no vehicle; no wind; no score; no spoken or captioned date, minutes or
-place.
+place; no cloak, shawl, headscarf, long dress or tartan; no thatch, standing
+stone, hawthorn or lantern; no wire fence, steel gate, tractor or lamp post.
 
 **Judging line.** The film fails if the figure's face or any feature
 resolves; if it moves toward the house or more than one is shown; if the light
 is brighter than a lamp's worth or comes from above the trees; if a second
-moon or an eclipse is drawn; if the child goes to the window; if music plays
-under the window; or if a date, a count of minutes or a place name is spoken
+moon or an eclipse is drawn; if the child goes to the window; if any music
+plays; if a human face is shown; or if a date, a count of minutes or a place name is spoken
 or captioned.
 
 **Grounding.** `src/seasons/s01/e00/s01e00c13.md` (every event and line);
@@ -1244,19 +1282,23 @@ why the film gives it none.
 > between gusts: Sir Galahad Thorne of the Survey Corps, a bearded man in a
 > dark green-grey field coat with one small plain tab at the collar, and two
 > colleagues the film shows only as figures from behind and at a distance. The
-> attendant, Nuala Beirne, a woman somewhere past sixty dressed for the gallery
+> attendant, Nuala Beirne, a small grey-haired woman somewhere past sixty, a dark
+> green coat with the hood down, arms folded, dressed for the gallery
 > and not for visitors, has the door open before they reach it. Inside, in a
 > whitewashed room at the foot of the stair with the noise shut out, she brings
 > down three bound volumes of the Lights Board's register and they are laid
 > open on a table in the order they were written: old pages, hands that change,
 > one column that does not, and no entry ever legible. Her clock, the one that
-> times the light, is on the wall, plain, and never glows. On the gallery in
+> times the light, is a plain old mechanical wall clock with a dial and hands,
+> kept and going, and it never glows. On the gallery in
 > the gale the light shows its character: two flashes, then dark, then two
 > flashes, fifteen seconds from group to group, correct and no tighter than
 > that, again and again. On the stair in the dark the lantern glass carries the
-> gale as one low note. The tide falls on the shingle. The station is never in
-> frame: no building, no dock, only shore, spit, tower and sea. Light is the
-> day going, the lantern and one lamp in the room. No narration. Spoken lines
+> gale as one low note. The tide falls on the shingle. The only sign of the
+> station is far off on the water, a low dark line with three small working
+> lights, never nearer and never resolved; no building, only shore, spit, tower
+> and sea. Light is the day going, the lantern and one lamp in the room. Faces
+> stay turned, shadowed or beyond focus. No narration. Spoken lines
 > are only the ones supplied, his and hers.
 
 **Shot list.**
@@ -1271,13 +1313,14 @@ why the film gives it none.
    water; one lamp.
 4. Desk-level camera: three volumes laid open, a finger running down a column;
    the pages beyond focus; lamp light.
-5. Fixed camera on the gallery rail, seaward, in the gale: the lantern's
+5. Fixed camera at the seaward rail, looking back at the lantern glass, in the gale: the lantern's
    character, two flashes, dark, two flashes, held for thirty seconds and
    counted; dusk and the lantern only.
 6. Hand-held on the stair in the dark: the attendant's back going down, the
    one low note in the glass; no face.
 7. Fixed camera on the gallery looking down the spit to the shore: the tide
-   falling, the spit lengthening; nothing of the station at the shore end.
+   falling, the spit lengthening; far off on the water, a low dark line with three
+   small working lights, never nearer and never resolved.
 
 **Narration.** No narration. Dialogue, in this order. His, in the room: *Your
 clock. The one that times the character. I want to know how often it needs
@@ -1287,16 +1330,18 @@ job.* Then: *Nobody's ever asked for it.* Hers, on the stair, to someone out of
 frame: *Because it's lit. That's the whole of it. A light you only put on when
 you know someone's out there isn't a light. It's a favour.*
 
-**Negatives as objects.** The shared negative, plus: no view of Threshold
-Station, its docks or any building but the tower; no spacecraft; no robot in
-frame; no non-human face; no legible page, entry or initial; no digital clock,
+**Negatives as objects.** The shared negative, except for this one clock, plus:
+no view of Threshold Station closer than that low line, and no building but the
+tower; no spacecraft; no robot closer than a distant figure from behind, no
+detail of its body resolved; no non-human face; no legible page, entry or initial; no digital clock,
 no glowing clock; no continuous sweeping beam drawn as a cone, the character
 is the lantern lighting and going dark; no sun, no calm sea, no lightning, no
 waves over the spit; no weapon; no legible tab or insignia; no vehicle on the
-spit; no narration; no spoken year.
+spit; no narration; no spoken year; no banded tower, no cap or jumper, no gull,
+no boat.
 
-**Judging line.** The film fails if the station or any building but the tower
-appears; if the lantern's character is anything other than two flashes and a
+**Judging line.** The film fails if anything of the station appears but that low
+line, or any building but the tower; if the lantern's character is anything other than two flashes and a
 dark at a steady interval; if the sea is calm or the wind drops; if a page is
 legible; if either of the two colleagues is shown closer than a figure from
 behind, or given a face; if the clock glows; or if a line is added to the
@@ -1312,7 +1357,10 @@ chapter, kept to figures from behind here); `src/lore/threshold-station.md`
 (the Sceir Light below the station; what the station looks like from the water
 is not on file); `story-bible/starship-design.md` sheet E (a Threshold-class
 station's shape is open, awaiting his choice, which is the second reason the
-station stays out of frame).
+station stays a far silhouette, as `threshold-station.jpg` keeps it). The clock has
+hands because the chapter makes it mechanical (*"a mechanical clock in a damp stone
+tower"*, four replacements of the movement); it is the Board's, not the station's.
+Her build and coat come from the filed frame `nuala-beirne.jpg`, not from canon.
 
 ### D6. The Up-People's First Stone (S11E01C05)
 
@@ -1618,7 +1666,7 @@ terrace to the ring.
 
 **Instruction to paste** (as one line, since Enter sends in that box):
 
-> Make a quiet wordless film of about two and a half minutes, 16:9, with no narration, no voice, no dialogue, no captions and no title card. It is set in 2826 on Earth and in high orbit above it, and it shows only what is described here, in this order, with nothing added. (1) Before dawn, late summer: a stone terrace on a hill above a wide bay on the west coast of Ireland, the sea dark and calm, the sky deep blue going pale in the north-east, low green hills across the water. Low across the southern sky, about a third of the way up from the horizon, is a fine arc of separate points of white light, already lit by a sun that has not reached the ground. It has a regular rhythm: brighter points, like pearls, evenly spaced about two moon-widths apart, and between each pair of pearls about nine much fainter points, evenly spaced. It does not move at all, and toward the east and west horizons the points crowd together into a faint fine thread. As the sky slowly brightens, the faint points between the pearls fade out one by one until only the bright pearls are left, a clear string of evenly spaced lights low in the south. It is a ring of thousands of separate habitat stations very far away in orbit: never a solid band, never a structure joined to the ground, never close. (2) Across the bay, on the far shore, a launch site: a long straight level rail running beside a runway and out along a low causeway into the bay, a few work lamps along it, and a long pale winged craft sitting on a sled at its landward end. The sled carries the craft along the rail, faster and faster, and at the end of the causeway the craft lifts off it on its wings, already climbing over the open water, while the empty sled slows on the track. Then its own engines take it up in a steepening climb, leaning slowly east, toward the dawn; no flame shows from the terrace, only a moving point and the trail behind it. As it climbs above the earth's shadow the high part of its exhaust trail catches the sun before the ground does and shines white and gold against the blue sky, a long white trail standing over the bay while the water is still dark. The low roar arrives at the terrace about a minute after the launch, because the launch site is far away. The trail never reaches or touches the arc of lights, which is a thousand times farther away. (3) Seen through a small round window of the craft as it climbs: the curve of the earth's horizon, the sky going black, cloud over the sea, sunlight striking in. The flight is smooth; no shaking, no fire outside the window. (4) Hours later, in high orbit, seen through the window of the small craft that has carried passengers on from low orbit: the whole earth large in the frame, partly sunlit, blue ocean and white cloud, about a third of the width of the window. Running away from the camera in both directions is the ring, a long gently curved line of separate stations in a regular rhythm: a large rotating habitat, then about nine much smaller stations of different shapes (some with broad flat radiator wings turned edge-on to the sun), then another large habitat, and so on. The nearest are visible as distinct structures, the farther ones as points, crowding closer and closer together until they run into the curve of the earth's edge on both sides and pass behind it, like a necklace laid around the planet. Because the earth and the stations are bright, no stars are visible in the black sky. (5) One station ahead slowly grows from a point into a dark shape seen against the lit earth, its form never fully resolved, with a few small work lamps around one opening. The camera drifts toward that opening and the film ends before the craft arrives. (6) People: nobody's face is ever shown. On the terrace, at most one person's hands resting on the stone wall in the foreground, out of focus. In the craft, at most a sleeve and a hand near the window. (7) Camera: everything is seen from where a person or a mounted camera could actually be: from the terrace, from a fixed camera on a mast at the end of the causeway, from inside the craft looking out of its window. No drone shots, no shot from outside the craft in space, no impossible camera, no passing through solid objects, no crash zoom, no whip pan, no time-lapse, no slow motion. Long unbroken takes, very few cuts, slow drift that never settles. (8) Light: the dawn, the sun, the earth, the work lamps, and nothing else; nothing glows that would not glow. Strictly no text, lettering, numbers, signs, interfaces, holograms, readouts, lens flares or light streaks anywhere in frame. (9) Sound: wind on the terrace, the sea, birds starting, the late low roar of the launch, then inside the craft only its own quiet hum; no sound in space outside. Music almost absent: a few sparse low tones at most, never cut on a beat. Peaceable, patient, beautiful and quiet, never a trailer, never a montage.
+> Make a quiet wordless film of about two and a half minutes, 16:9, with no narration, no voice, no dialogue, no captions and no title card. It is set in 2826 on Earth and in high orbit above it, and it shows only what is described here, in this order, with nothing added. (1) Before dawn, late summer: a stone terrace on a hill above a wide bay on the west coast of Ireland, the sea dark and calm, the sky deep blue going pale in the north-east, low green hills across the water. Low across the southern sky, about a third of the way up from the horizon, is a fine arc of separate points of white light, already lit by a sun that has not reached the ground. It has a regular rhythm: brighter points, like pearls, evenly spaced about two moon-widths apart, and between each pair of pearls about nine much fainter points, evenly spaced. It does not move at all, and toward the east and west horizons the points crowd together into a faint fine thread. As the sky slowly brightens, the faint points between the pearls fade out one by one until only the bright pearls are left, a clear string of evenly spaced lights low in the south. It is a ring of thousands of separate habitat stations very far away in orbit: never a solid band, never a structure joined to the ground, never close. (2) Across the bay, on the far shore, a launch site: a long straight level rail running beside a runway and out along a low causeway into the bay, a few small low steady lights along it, and a single slender pale winged craft, short swept wings, a blunt nose, one body with nothing riding on it, plain unmarked skin with honest seams, a few small ports, sitting on a sled at its landward end. The sled carries the craft along the rail, faster and faster, and at the end of the causeway the craft lifts off it on its wings, already climbing over the open water, while the empty sled slows on the track. Then its own engines take it up in a steepening climb, leaning slowly east, toward the dawn; no flame shows from the terrace, only a moving point and the trail behind it. Minutes later, as it climbs above the earth's shadow the high part of its exhaust trail catches the sun before the ground does and shines white and gold against the blue sky, a long white trail standing over the bay while the water is still dark. The low roar arrives at the terrace about a minute after the launch, because the launch site is far away. The trail never reaches or touches the arc of lights, which is hundreds of times farther away. (3) Seen through a small round window of the craft as it climbs: the curve of the earth's horizon, the sky going black, cloud over the sea, sunlight striking in. The flight is smooth; no shaking, no fire outside the window. (4) Hours later, in high orbit, seen through the window of the small craft that has carried passengers on from low orbit: the whole earth large in the frame, partly sunlit, blue ocean and white cloud, about a third of the width of the window. Running away from the camera in both directions is the ring, a long gently curved line of separate stations in a regular rhythm: a large rotating habitat, then about nine much smaller stations of different shapes (some with broad flat radiator wings turned edge-on to the sun), then another large habitat, and so on. The nearest are small separate shapes, too far off for their form to resolve, the farther ones points, crowding closer and closer together until they run into the curve of the earth's edge on both sides and pass behind it, like a necklace laid around the planet. Because the earth and the stations are bright, no stars are visible in the black sky. (5) One station ahead slowly grows from a point into a dark shape seen against the lit earth, its form never fully resolved, with a few small low steady lights around one opening. The camera drifts toward that opening and the film ends before the craft arrives. (6) People: nobody's face is ever shown. On the terrace, at most one person's hands resting on the stone wall in the foreground, out of focus. In the craft, at most a sleeve and a hand near the window. (7) Camera: everything is seen from where a person or a mounted camera could actually be: from the terrace, from a fixed camera on a mast at the end of the causeway, from inside the craft looking out of its window. No drone shots, no shot from outside the craft in space, no impossible camera, no passing through solid objects, no crash zoom, no whip pan, no time-lapse, no slow motion. Long unbroken takes, very few cuts, slow drift that never settles. (8) Light: the dawn, the sun, the earth, those small steady lights, and nothing else; nothing glows that would not glow. Strictly no text, lettering, numbers, signs, interfaces, holograms, readouts, lens flares or light streaks anywhere in frame. (9) Sound: wind on the terrace, the sea, birds starting, the late low roar of the launch, then inside the craft only its own quiet hum; no sound in space outside. Music almost absent: a few sparse low tones at most, never cut on a beat. Peaceable, patient, beautiful and quiet, never a trailer, never a montage.
 
 **Shot list.**
 
@@ -1629,21 +1677,21 @@ terrace to the ring.
    Over the take the sky pales and the faint beads go out, leaving the pearls.
    Hands on the wall, out of focus, may be in the near corner.
 2. A fixed camera on a mast at the end of the causeway, about 10 seconds,
-   looking back along the rail: the javelin on its sled at the far end, work
-   lamps along the track, the bay grey on both sides. The run: the craft grows
+   looking back along the rail: the javelin on its sled at the far end, small
+   low steady lights along the track, the bay grey on both sides. The run: the craft grows
    down the rail toward the lens, lifts off its sled on its wings and passes
    up and out of frame; the empty sled slows on the track below.
-3. The terrace again, about 30 seconds, one take: the point rising off the far
-   shore, low over the water, then the trail climbing, leaning east, its upper half catching the sun and
-   turning white and gold while the bay below is still dark. About a minute
-   after the launch the roar reaches the terrace. Hold on the standing trail.
+3. The terrace, two takes and one cut. First, about 50 seconds: the point rising
+   off the far shore, low over the water, leaning east, and the roar arriving near
+   the end. Then, minutes later, about 20 seconds: the trail standing, its upper half
+   white and gold while the bay is still dark.
 4. Through the javelin's window, about 15 seconds: the horizon curving, the
    sky going black, sunlight crossing the frame. No faces.
 5. A cut to high orbit, about 35 seconds, one slow take through a port of the
    craft that carried the passengers on: the earth large and partly lit, the
    ring running away to both sides and into the earth's edge. No stars.
 6. About 25 seconds: one bead ahead grows into a dark unresolved shape against
-   the earth, with work lamps at one opening. The drift toward the opening
+   the earth, with small low steady lights at one opening. The drift toward the opening
    continues as the film ends.
 
 **Narration.** None. A remake with a narrator would need a person the record
@@ -1659,13 +1707,14 @@ elevator, tower, tether or cable to the ground; no ring drawn as a continuous
 band, hoop, halo or wheel, and no rings like Saturn's; no ring moving across the
 sky; no glowing violet or coloured light; no starfield behind the sunlit earth;
 no shot of the craft from outside in space; no person's face; no uniform,
-insignia or tab; no *layers*.
+insignia or tab; no *layers*; no space shuttle, external tank, boosters, gantry or
+painted name; no wheel-shaped station.
 
 **Judging line.** The take fails if anyone speaks or a word is on screen; if a
 clock or two times appear; if the ring is a solid band, has no rhythm of bright and faint points, moves across the sky,
 reaches the ground, or sits close enough to touch the trail; if the rail is
 not level and on the ground, if the craft leaves it nose-up like a rocket rather
-than lifting off on its wings, or if the craft is a vertical rocket on a pad;
+than lifting off on its wings, if the craft is a vertical rocket on a pad, or if it reads as a Space Shuttle or a present-day aircraft;
 if stars show behind the sunlit earth; if the camera is anywhere a person or a
 mounted camera could not be; if Lúnasa's form is shown sharply in full; or if
 anything glows that would not glow.
@@ -1718,7 +1767,7 @@ for an Earth-sized world from 52–54° N:
   film ends before its shape is clear.
 
 **Not on record, low-risk:** the west-coast bay, the green hills, birds, the
-rail's work lamps and causeway mast, a rail site on this coast, the craft that carries passengers on from low orbit (the
+rail's lights and causeway mast, a rail site on this coast, the craft that carries passengers on from low orbit (the
 record names no class, so the brief names none).
 
 ---

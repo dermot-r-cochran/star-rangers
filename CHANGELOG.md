@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Director briefs D1 to D5 and D7 corrected after the Benevolent Critic** (`story-bible/video-prompts.md`, 2026-11-06, Opus, the critic's read of the six briefs). D1's readouts now agree with the chapter, with the seal clock at 03:10:01 and the hatch clock at 03:10:41, and both clocks sit well apart on one long wall. D2's holding takes its filed look, and D3's rooms and sheets match D1 and the filed frames. D5 keeps its mechanical clock with the reason stated, and D7's craft follows sheet F. The shared rules name the rural exception, and carry the exception for ideas from Dermot's own films. D4's figure and its table shot wait for Fable.
+
 - **Director brief D1 rewritten for the record's clocks, and the film preamble cleaned** (`story-bible/video-prompts.md`, 2026-11-06, Opus, Dermot's *"Yes"*). C-7A and C-7B are now clean atomic instruments, not worn dials, the shared preamble drops *dust and wear*, and version 1 is recorded. Nothing is generated from the revision yet.
 
 - **How far Tissadelle Shepherd's name travels** (`src/characters/tissadelle-shepherd.md`, `story-bible/intake-2026-11-06.md`, 2026-11-06, Opus, Dermot's *"Option 1, record it"*). A clarification on her character page: her name is known inside the Corps and she is not a public figure outside it; the song she sang with Slipwave travels further than she does.
