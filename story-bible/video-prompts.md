@@ -198,7 +198,9 @@ read by ambient light, *"nothing glowing, nothing projected"* — closer to a
 scored and illustrated record than to a film. So: **no holographic displays, no
 glowing interfaces, no projected UI**, all three of which the 26 July intake
 listed among refused tropes, and which every generator reaches for the moment it
-hears "spaceship". Light comes from lamps, windows, work lights, stars and fires.
+hears "spaceship". Indoors, light is recessed, from no visible fitting;
+otherwise it is daylight, window light, stars and fire, and a lamp only where a brief
+names one.
 
 ### No text in frame
 
@@ -342,8 +344,8 @@ Each is a single generated clip, canon-grounded, framed from a viewpoint someone
 could have occupied. Paste the shared preamble ahead and the shared negative
 behind. **All are proposals** — a video attached to a codex entry is
 publication-adjacent, and the scenes touching narrative ground are draft-and-stop.
-Grok's own audio is discarded; a sung scene carries no generated words. The mounts
-and judging lines were added on 6 November 2026, after the Benevolent Critic.
+Mounts and judging lines were added on 6 November 2026, after the Benevolent Critic;
+scene 10 is left as it was, for Dermot.
 
 ### 1. The forty seconds
 
@@ -467,17 +469,13 @@ unless the negative forbids them.
 
 ### 10. Off the roster
 
-> Footage from a camera held at shoulder height, close on a hand in service
-> dress at a plain matte sheet set flush in a corridor wall, close pale lines on
-> it out of focus, read by the room's light. One finger rests on one line and it
-> clears; the finger closes the empty space. No face in frame. Held four seconds
-> after the hand leaves.
+> Close on a hand in service dress at a wall-mounted crew board in a corridor,
+> lifting one name plate out of a slot and closing the empty space with a
+> finger. No face in frame. One overhead light. Held four seconds after the hand
+> leaves.
 
-**Judging a take.** It fails if a face appears; if any text can be read; and if a physical plate or a slot appears.
-
-No lettering: the lines are out of focus. What they say is not the information.
-The act is the record's (*marking a name that isn't coming back off a roster*, the
-*Ballad of the Stars* entry), in the century's form: a matte sheet, not a name plate.
+No lettering: the plate is out of focus or turned away. What it says is not the
+information.
 
 ---
 
@@ -498,9 +496,10 @@ needs no fixing.
 
 ### 12. Listening to the structure
 
-> Footage from a camera on a low tripod: an engineer in coveralls presses a long
-> metal rod against a bulkhead and rests an ear on the other end, eyes closed,
-> entirely still. A clean service corridor, light from no visible fitting. Held
+> Footage from a camera held against the corridor wall, the frame alive only
+> with the rod's faint tremble: an engineer in coveralls presses a long metal rod
+> against a bulkhead and rests an ear on the other end, eyes closed, entirely
+> still. A clean service corridor, light from no visible fitting. Held
 > for eight seconds with no cut and no reaction. The far end of the rod trembles
 > faintly against the wall.
 
@@ -564,8 +563,6 @@ Nine clips, two of them the same scene at different stages, which is what gives
 a three-minute piece a shape instead of a sequence. Title card composited at the
 head over the first hold — set, not generated.
 
-One clip is 10 s. A longer row is several clips chained from the last frame.
-
 ---
 
 ## A timed plan for `RotationalHum_1`
@@ -579,7 +576,7 @@ disclosure: measured, not heard.
 | 0:00–0:16 | thin, low, almost nothing | **11. The rotor**, dark, barely turning |
 | 0:16–0:48 | bed builds, still beatless | **12. Listening to the structure** |
 | 0:48–1:18 | **pulse enters** | **1. The forty seconds** — the two clocks |
-| 1:18–1:36 | fuller | **6. The Undersong**, dust reorganising |
+| 1:18–1:36 | fuller | **6. The Undersong**, grains reorganising |
 | 1:36–2:08 | sustained, two internal edges | **3. The muster**, one long take |
 | 2:08–2:24 | thins out | **4. The empty berth**, static |
 | 2:24–2:32 | bright break | cut to black, hold |
@@ -590,9 +587,6 @@ The two hinges are the ones to protect: **the pulse at 0:48**, which should land
 on the clocks so the mechanism and the beat arrive together, and **the break at
 2:24**, which is the one place in either track where cutting to nothing is
 better than cutting to a picture.
-
-One clip is 10 s. A longer row is several clips chained from the last frame; scene
-5's 80 s is eight, or two stages across a dissolve on a held tone.
 
 ---
 
@@ -1086,9 +1080,9 @@ for a moment in the doorway, which the frames every three seconds did not catch.
    with a case; dusk.
 5. Hand-held outside the back door: her hand tries it, it swings out; her
    other hand writes on a thin pale form held beyond focus; last light.
-6. Fixed camera low inside the back door, looking out: her back in the doorway,
-   saying something the recorder does not pick up; her boots step over the bowl
-   on the stone.
+6. Fixed camera low inside the back door, looking out: her boots step over the bowl
+   on the stone; then her back in the doorway, saying something the recorder does
+   not pick up.
 7. The byre-wall mount at morning: the door comes in; he goes through; low
    sun, long shadows.
 
@@ -1709,7 +1703,7 @@ terrace to the ring.
 
 **Instruction to paste** (as one line, since Enter sends in that box):
 
-> Make a quiet wordless film of about two and a half minutes, 16:9, with no narration, no voice, no dialogue, no captions and no title card. It is set in 2826 on Earth and in high orbit above it, and it shows only what is described here, in this order, with nothing added. (1) Before dawn, late summer: a stone terrace on a hill above a wide bay on the west coast of Ireland, the sea dark and calm, the sky deep blue going pale in the north-east, low green hills across the water. Low across the southern sky, about a third of the way up from the horizon, is a fine arc of separate points of white light, already lit by a sun that has not reached the ground. It has a regular rhythm: brighter points, like pearls, evenly spaced about two moon-widths apart, and between each pair of pearls about nine much fainter points, evenly spaced. It does not move at all, and toward the east and west horizons the points crowd together into a faint fine thread. As the sky slowly brightens, the faint points between the pearls fade out one by one until only the bright pearls are left, a clear string of evenly spaced lights low in the south. It is a ring of thousands of separate habitat stations very far away in orbit: never a solid band, never a structure joined to the ground, never close. (2) Across the bay, on the far shore, a launch site: a long straight level rail running beside a runway and out along a low causeway into the bay, a few small low steady lights along it, and a single slender pale winged craft, short swept wings, a blunt nose, one body with nothing riding on it, plain unmarked skin with honest seams, a few small ports, sitting on a sled at its landward end. The sled carries the craft along the rail, faster and faster, and at the end of the causeway the craft lifts off it on its wings, already climbing over the open water, while the empty sled slows on the track. Then its own engines take it up in a steepening climb, leaning slowly east, toward the dawn; no flame shows from the terrace, only a moving point and the trail behind it. Minutes later, as it climbs above the earth's shadow the high part of its exhaust trail catches the sun before the ground does and shines white and gold against the blue sky, a long white trail standing over the bay while the water is still dark. The low roar arrives at the terrace about a minute after the launch, because the launch site is far away. The trail never reaches or touches the arc of lights, which is hundreds of times farther away. (3) Seen through a small round window of the craft as it climbs: the curve of the earth's horizon, the sky going black, cloud over the sea, sunlight striking in. The flight is smooth; no shaking, no fire outside the window. (4) Hours later, in high orbit, seen through the window of the small craft that has carried passengers on from low orbit: the whole earth large in the frame, partly sunlit, blue ocean and white cloud, about a third of the width of the window. Running away from the camera in both directions is the ring, a long gently curved line of separate stations in a regular rhythm: a large rotating habitat, then about nine much smaller stations of different shapes (some with broad flat radiator wings turned edge-on to the sun), then another large habitat, and so on. The nearest are small separate shapes, too far off for their form to resolve, the farther ones points, crowding closer and closer together until they run into the curve of the earth's edge on both sides and pass behind it, like a necklace laid around the planet. Because the earth and the stations are bright, no stars are visible in the black sky. (5) One station ahead slowly grows from a point into a dark shape seen against the lit earth, its form never fully resolved, with a few small low steady lights around one opening. The camera drifts toward that opening and the film ends before the craft arrives. (6) People: nobody's face is ever shown. On the terrace, at most one person's hands resting on the stone wall in the foreground, out of focus. In the craft, at most a sleeve and a hand near the window. (7) Camera: everything is seen from where a person or a mounted camera could actually be: from the terrace, from a fixed camera on a mast at the end of the causeway, from inside the craft looking out of its window. No drone shots, no shot from outside the craft in space, no impossible camera, no passing through solid objects, no crash zoom, no whip pan, no time-lapse, no slow motion. Long unbroken takes, very few cuts, slow drift that never settles. (8) Light: the dawn, the sun, the earth, those small steady lights, and nothing else; nothing glows that would not glow. Strictly no text, lettering, numbers, signs, interfaces, holograms, readouts, lens flares or light streaks anywhere in frame. (9) Sound: wind on the terrace, the sea, birds starting, the late low roar of the launch, then inside the craft only its own quiet hum; no sound in space outside. Music almost absent: a few sparse low tones at most, never cut on a beat. Peaceable, patient, beautiful and quiet, never a trailer, never a montage.
+> Make a quiet wordless film of about two and a half minutes, 16:9, with no narration, no voice, no dialogue, no captions and no title card. It is set in 2826 on Earth and in high orbit above it, and it shows only what is described here, in this order, with nothing added. (1) Before dawn, late summer: a stone terrace on a hill above a wide bay on the west coast of Ireland, the sea dark and calm, the sky deep blue going pale in the north-east, low green hills across the water. Low across the southern sky, about a third of the way up from the horizon, is a fine arc of separate points of white light, already lit by a sun that has not reached the ground. It has a regular rhythm: brighter points, like pearls, evenly spaced about two moon-widths apart, and between each pair of pearls about nine much fainter points, evenly spaced. It does not move at all, and toward the east and west horizons the points crowd together into a faint fine thread. As the sky slowly brightens, the faint points between the pearls fade out one by one until only the bright pearls are left, a clear string of evenly spaced lights low in the south. It is a ring of thousands of separate habitat stations very far away in orbit: never a solid band, never a structure joined to the ground, never close. (2) Across the bay, on the far shore, a launch site: a long straight level rail running beside a runway and out along a low causeway into the bay, a few small low steady lights along it, and a single slender pale winged craft, short swept wings, a blunt nose, one body with nothing riding on it, plain unmarked skin with honest seams, a few small ports, sitting on a sled at its landward end. The sled carries the craft along the rail, faster and faster, and at the end of the causeway the craft lifts off it on its wings, already climbing over the open water, while the empty sled slows on the track. Then its own engines take it up in a steepening climb, leaning slowly east, toward the dawn; no flame shows from the terrace, only a moving point and the trail behind it. Minutes later, as it climbs above the earth's shadow the high part of its exhaust trail catches the sun before the ground does and shines white and gold against the blue sky, a long white trail standing over the bay while the water is still dark. The low roar arrives at the terrace about a minute after the launch, because the launch site is far away. The trail never reaches or touches the arc of lights, which is hundreds of times farther away. (3) Seen through a small round window of the craft as it climbs: the curve of the earth's horizon, the sky going black, cloud over the sea, sunlight striking in. The flight is smooth; no shaking, no fire outside the window. (4) Hours later, in high orbit, seen through the window of the small craft that has carried passengers on from low orbit: the whole earth large in the frame, partly sunlit, blue ocean and white cloud, about a third of the width of the window. Running away from the camera in both directions is the ring, a long gently curved line of separate stations in a regular rhythm: a large rotating habitat, then about nine much smaller stations, then another large habitat, and so on. The nearest are small separate shapes, too far off for their form to resolve, the farther ones points, crowding closer and closer together until they run into the curve of the earth's edge on both sides and pass behind it, like a necklace laid around the planet. Because the earth and the stations are bright, no stars are visible in the black sky. (5) One station ahead slowly grows from a point into a dark shape seen against the lit earth, its form never fully resolved, with a few small low steady lights around one opening. The camera drifts toward that opening and the film ends before the craft arrives. (6) People: nobody's face is ever shown. On the terrace, at most one person's hands resting on the stone wall in the foreground, out of focus. In the craft, at most a sleeve and a hand near the window. (7) Camera: everything is seen from where a person or a mounted camera could actually be: from the terrace, from a fixed camera on a mast at the end of the causeway, from inside the craft looking out of its window. No drone shots, no shot from outside the craft in space, no impossible camera, no passing through solid objects, no crash zoom, no whip pan, no time-lapse, no slow motion. Long unbroken takes, very few cuts, slow drift that never settles. (8) Light: the dawn, the sun, the earth, those small steady lights, and nothing else; nothing glows that would not glow. Strictly no text, lettering, numbers, signs, interfaces, holograms, readouts, lens flares or light streaks anywhere in frame. (9) Sound: wind on the terrace, the sea, birds starting, the late low roar of the launch, then inside the craft only its own quiet hum; no sound in space outside. Music almost absent: a few sparse low tones at most, never cut on a beat. Peaceable, patient, beautiful and quiet, never a trailer, never a montage.
 
 **Shot list.**
 
@@ -1785,7 +1779,7 @@ for an Earth-sized world from 52–54° N:
   about 1 rpm. Nine smaller stations of 100–300 m fill the 0.1° slots between
   each pair, a few short of 3,240 in all, 3,600 slots in total, a few left empty. The
   smaller stations are transfer hubs, compute complexes (radiator wings turned
-  edge-on to the sun), depots and yards, and station-keeping posts. A degree of
+  edge-on to the sun, which no shot here resolves), depots and yards, and station-keeping posts. A degree of
   the ring is 736 km, about 1.1° of sky from the terrace, so roughly two
   moon-widths between pearls. At dawn, with the sun side-on, a 2 km habitat is
   about magnitude −1 and a 200 m station about +4. The faint beads drop below
@@ -1799,7 +1793,7 @@ for an Earth-sized world from 52–54° N:
   forty seconds.
 - **The ring from inside it.** From a craft a little out of the ring's plane,
   the ring is a very thin ellipse seen almost edge-on: a line of beads running
-  away both ways, near ones distinct and far ones crowding, meeting Earth's limb
+  away both ways, near ones separate and far ones crowding, meeting Earth's limb
   on each side. At 42,000 km Earth is about 17° across. Bright Earth and sunlit
   stations put the stars below the exposure. A launch from Ireland reaches an
   orbit inclined about 52°, and the plane change is made high up, so the
@@ -1952,7 +1946,7 @@ extension is not known to carry them over.
 
 **Part 1, the walk (10 seconds).**
 
-> Footage from a small fixed recording device resting on the rim of a low waste bin at the far end of a walkway aboard a large space habitat, about knee height, looking straight down the length of the walkway, never moved and never lifted for the whole take, the frame alive only with the faint continuous vibration of a deck that is running. Long unbroken take, one shot, no cuts. Diegetic light only: warm light spilling from a rounded galley doorway at the far end of the right-hand wall and soft even habitat daylight, nothing glowing that would not glow. Matte surfaces, real materials, clean and well kept. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Photographed, not rendered: filmic grain, shallow depth of field, the near legs sharp and the far end soft. Warm, ordinary, a little funny and quietly dramatic, a habitat's afternoon, not haunted. 24 fps, 16:9 landscape, 10 seconds. The walkway is unmistakably a habitat's: wall and floor of smooth seamless pale composite meeting in a softly rounded cove, the floor a matte resilient deck surface, clean and kept, no fittings and no signage. It is full of people at shift change in plain work clothes of quiet natural colours and not one of them is moving: they stand on both sides of the walking line leaving a narrow lane down the middle, backs and shoulders to the lens, every figure leaning a little towards one place on the floor at the far end of the lane, just beyond the capsule, near the lit doorway, which the capsule and the standing bodies hide completely from the lens for the whole take, so that the lens sees only legs, backs and the lane. At the far end of the lane, small with distance and softened, a young woman with a long dark plait down her back in a plain blue-grey band-collared work jacket stands very still, three-quarters turned away, and at her feet sits a small pet carrier of the century: a smooth rounded capsule of pale matte composite with no handle and nothing to carry it by, one end a flush panel of fine woven lattice, that end turned away from the lens. A boy of about eight in a plain soft jumper, plain trousers and plain shoes enters from behind the lens, passes close by it and goes away down the lane with his back to the camera, ducking under elbows, never turning to the camera, and comes out at the front and stops beside the capsule, standing still with his back to the lens. Nobody else moves. Ambient sound only: the low hum of a running deck, the boy's shoes on the deck surface, cloth; no music, no narration, no speech. No on-screen text, letters, numbers, signage, subtitles, captions or watermarks. No holograms, projected interfaces, glowing UI, screens or floating icons. No lens flares, no light streaks, no volumetric god rays. No camera drift down the walkway, no crash zoom, no whip pan, no rise above the crowd, no camera passing through anyone. No jump scares, no gore, no horror imagery, no menace. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway, in any hand, not blurred, not partly, not in silhouette. No plastic pet carrier, no wire door, no carry handle, no box shape, no airline crate, nothing visible through the lattice. No uniform, no badge, no weapon, no futuristic gadget. No louvred grille, no riveted steel, no exposed screws, no stainless-steel kitchen, no restaurant corridor, no boiler room, no present-day building. No grime, no dust, no peeling paint, no debris. Not a music-video montage, not a trailer.
+> Footage from a small fixed recording device resting on the rim of a low waste bin at one end of a walkway aboard a large space habitat, about knee height, looking straight down the length of the walkway, never moved and never lifted for the whole take, the frame alive only with the faint continuous vibration of a deck that is running. Long unbroken take, one shot, no cuts. Diegetic light only: warm light spilling from a rounded galley doorway at the far end of the right-hand wall and soft even habitat daylight, nothing glowing that would not glow. Matte surfaces, real materials, clean and well kept. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field, the near legs sharp and the far end soft. Warm, ordinary, a little funny and quietly dramatic, a habitat's afternoon, not haunted. 24 fps, 16:9 landscape, 10 seconds. The walkway is unmistakably a habitat's: wall and floor of smooth seamless pale composite meeting in a softly rounded cove, the floor a matte resilient deck surface, clean and kept, no fittings and no signage. It is full of people at shift change in plain work clothes of quiet natural colours and not one of them is moving: they stand on both sides of the walking line leaving a narrow lane down the middle, backs and shoulders to the lens, every figure leaning a little towards one place on the floor at the far end of the lane, just beyond the capsule, near the lit doorway, which the capsule and the standing bodies hide completely from the lens for the whole take, so that the lens sees only legs, backs and the lane. At the far end of the lane, small with distance and softened, a young woman with a long dark plait down her back in a plain blue-grey band-collared work jacket stands very still, three-quarters turned away, and at her feet sits a small pet carrier of the century: a smooth rounded capsule of pale matte composite with no handle and nothing to carry it by, one end a flush panel of fine woven lattice, that end turned away from the lens. A boy of about eight in a plain soft jumper, plain trousers and plain shoes enters from behind the lens, passes close by it and goes away down the lane with his back to the camera, ducking under elbows, never turning to the camera, and comes out at the front and stops beside the capsule, standing still with his back to the lens. Nobody else moves. Ambient sound only: the low hum of a running deck, the boy's shoes on the deck surface, cloth; no music, no narration, no speech. No on-screen text, letters, numbers, signage, subtitles, captions or watermarks. No holograms, projected interfaces, glowing UI, screens or floating icons. No lens flares, no light streaks, no volumetric god rays. No camera drift down the walkway, no crash zoom, no whip pan, no rise above the crowd, no camera passing through anyone. No jump scares, no gore, no horror imagery, no menace. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway, in any hand, not blurred, not partly, not in silhouette. No plastic pet carrier, no wire door, no carry handle, no box shape, no airline crate, nothing visible through the lattice. No uniform, no badge, no weapon, no futuristic gadget. No louvred grille, no riveted steel, no exposed screws, no stainless-steel kitchen, no restaurant corridor, no boiler room, no present-day building. No grime, no dust, no peeling paint, no debris. Not a music-video montage, not a trailer.
 
 **Part 2, the four seconds (extend by 10 seconds).**
 
@@ -1992,10 +1986,6 @@ are watched for a jump in the crowd or the carrier.
 **Revised 6 November 2026, before anything was generated.** The wear words are
 out, under *Places are well kept*, and the warm patch and the doorway move to the far
 end of the lane, so that the crowd leans towards the place where the boy acts.
-
-**Where it goes.** `src/video/four-seconds.mp4` with a poster frame, on the chapter
-after its last scene, not after the opening paragraph, since the clip is the chapter's
-ending. His pick at filing.
 
 **Open at the time of writing.** Whether an extension holds the mount and the
 crowd from the last frame; whether it will carry a child's one word without

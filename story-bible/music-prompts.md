@@ -821,7 +821,8 @@ the entry says does not exist.
 | **Form** | vocal, the Threshold verse and the refrain as published, nothing else |
 
 **Take B — a Cadet commissioning, Eden.** The Eden verse; a brighter room,
-younger voices, more of them, the refrain identical to the note.
+younger voices, more of them, the refrain identical to the note: run with Take A as
+the audio reference if the tool takes one.
 
 | Field | |
 |---|---|
@@ -829,8 +830,10 @@ younger voices, more of them, the refrain identical to the note.
 | **Mood** | steady, expectant, plain, collective |
 | **Instruments** | one plain voice on the verse, a larger room of younger mixed untrained voices on the refrain |
 | **Production** | the verse carried by one voice and the refrain taken up by everyone, quickly, louder and surer than the verse; a bright hall, faint hum in the gap before the refrain; slight drift on held notes; recorded from inside the room |
-| **Exclude** | organ, choir arrangement, harmony parts, plainchant, church acoustics, soloist vibrato, applause, reverb wash, fanfare, drums |
+| **Exclude** | organ, choir arrangement, harmony parts, plainchant, church acoustics, soloist vibrato, instruments, applause, reverb wash, fanfare, drums |
 | **Form** | vocal, the Eden verse and the refrain as published, nothing else |
+
+Take B also leaves out anything that makes it a ceremony's music rather than a room's.
 
 The refrain has to sit in a range a room of non-singers can hold, for the same
 in-world reason as the anthem's chorus, and here it is doubly the case: *"the
