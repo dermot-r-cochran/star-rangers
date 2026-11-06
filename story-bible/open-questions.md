@@ -80,7 +80,9 @@ their own voices* section are left as they stand.
 His *"A, A"*: the late note and the closing title, one core varied by thread, on
 trailers only (`music-prompts.md`, *A theme and title for the trailers: ideas*).
 Still open there: whether Director takes a supplied track or lettering, and how
-a theme is joined to a film outside it.
+a theme is joined to a film outside it. Two supplied recordings stand as candidates
+beside the chosen theme, 6 November 2026, and which passage of them, if any, is
+usable waits on his hearing them (same section).
 
 ## Episodes as self-contained stories — raised by Dermot 5 November 2026, RULED the same day: option (a), *"New episodes, reviews"*
 

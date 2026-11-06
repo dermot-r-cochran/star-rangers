@@ -551,6 +551,42 @@ threads; the picture behind it is what varies.
 Rejected: a title dressed as an Archive filing card. A film is an impression and
 never the record, so the title should not look like the record's own stamp.
 
+### Two supplied recordings as candidates, 6 November 2026
+
+Dermot supplied two MyTunes still-over-audio files the same night, and on being
+asked what they were for answered *"As candidates"*. The late note stays chosen
+unless he says otherwise. These are read from card frames and measured levels. The
+audio is not heard, and the files carry no lyric captions.
+
+| | `Ballad-of-the-Stars_7.mp4` | `Star-Rangers_5.mp4` |
+|---|---|---|
+| Length of the audio | 3:25 | 1:42 |
+| Card | *Ballad of the Stars*, *Celtic Techno* | *Star Rangers* |
+| Beat, estimated | about 103 a minute, strong | strong; 161 a minute by the measure, which may be double the felt beat |
+| Level | mostly even, softer from about 2:10 to 2:40, opening and tail softest | dense and even throughout, softer only in the last seconds |
+| What it is | a performance not in the repo: envelope correlation 0.17 against `ballad-of-the-stars.m4a` | by length, card and title the 1:44 muster piece of 20 August, not proved, since the earlier file is not to hand |
+
+**Against the brief.** The shared negative and the tone line hold for a film, and a
+dance beat or a dense full-band mix may break *no big cinematic percussion, no EDM
+build or drop*. A title that closes needs a quiet 12 to 20 seconds, and only the
+Ballad has passages that might give one. Only a listener can say what is in them.
+
+**What each would carry.**
+
+- **The Ballad.** Sung words in an excerpt fall under the lyric rule: the published
+  lyrics verbatim, confirmed lines only. Only someone who can hear it can check
+  that, so an instrumental passage is the safe cut. It stands beside
+  `ballad-of-the-stars.m4a`, never replaces it, because the entry's 1:27 claim
+  depends on that recording. Used in a trailer, it would be a theme and would not
+  be filed as a Slipwave recording.
+- **The muster piece.** It offers no quiet passage by level. Its title is the work's
+  former title and the Corps' name, so a theme drawn from it risks reading as the
+  *Star Rangers theme* that *Where a track may not be generated at all* refuses.
+  Its filing under the 20 August notes is still open.
+- **Both.** The cards do not travel. The audio alone would be taken, because the
+  badge, the doubled title on the Ballad's card, and the portrait and costume are
+  each a reason the picture stays out of the repo.
+
 ### What is still unknown
 
 - Whether Director will take a supplied track or lay in supplied lettering. It
