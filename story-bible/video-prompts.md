@@ -342,44 +342,59 @@ Each is a single generated clip, canon-grounded, framed from a viewpoint someone
 could have occupied. Paste the shared preamble ahead and the shared negative
 behind. **All are proposals** — a video attached to a codex entry is
 publication-adjacent, and the scenes touching narrative ground are draft-and-stop.
+Grok's own audio is discarded; a sung scene carries no generated words. The mounts
+and judging lines were added on 6 November 2026, after the Benevolent Critic.
 
 ### 1. The forty seconds
 
-> Two clean sealed atomic clocks side by side on a pale matte wall in a quiet
-> station corridor, soft light from no visible source. In each narrow sight port a
-> thin column of atoms holds a faint violet light, and a brighter band climbs it;
-> one band is behind the other and never catches up. Slow push in over eight
-> seconds. Nobody present.
+> Two clean sealed atomic clocks well apart on a pale matte wall of Dock Seven,
+> a quiet clean enclosed dock, soft light from no visible source, seen from a
+> fixed dock camera high on the opposite wall. In each narrow sight port a thin
+> column of atoms holds a faint violet light, and a brighter band climbs it; one
+> band is behind the other and never catches up. Both clocks stay in frame for
+> the whole take, the frame alive only with a faint structural vibration. Nobody
+> present.
+
+**Judging a take.** It fails if either clock leaves the frame; if hands or dials appear; if one band catches the other; and if any lettering appears.
 
 The premise of the entire work in one shot, and it needs no text to say so.
 
 ### 2. Half-light causeway
 
-> A long enclosed dock causeway at half-light, empty, viewed from one end. Wet
-> metal floor, handrails, a row of failing lamps down one side, one lamp near
-> the far end burning a different colour to all the others. Slow drift forward,
-> never reaching the end. Cold blue ambient, one warm source.
+> Footage from a camera carried at walking height down a long enclosed dock
+> causeway at half-light, empty, viewed from one end. Wet deck, a low rail, a
+> row of small recessed guide lights down one side dimmed for the night
+> rotation, one near the far end burning a different colour to all the others.
+> Slow drift forward, never reaching the end. Cold blue ambient, one warm
+> source.
+
+**Judging a take.** It fails if the camera reaches the end; if any light flickers or fails; if rust or grime appears; and if any lettering appears.
 
 Straight out of the anthem's own lines — *every dock has a light it can't
 explain*.
 
 ### 3. The muster
 
-> A crowd of young people in dark service dress standing close together in a
-> large hard-walled hall, singing. Camera at head height **inside** the group,
-> not in front of it, drifting slowly past shoulders and faces in profile. No
-> stage, no conductor, no audience. Overhead industrial light, faces half in
-> shadow.
+> Footage from a camera carried at head height inside a crowd of young people in
+> dark service dress standing close together in a large hard-walled hall,
+> singing. The camera stays **inside** the group, not in front of it, drifting
+> slowly past shoulders and faces in profile. No stage, no conductor, no
+> audience. Light from no visible fitting, faces half in shadow.
+
+**Judging a take.** It fails if a stage or a conductor appears; if a face turns to the lens; and if any lettering appears on the dress.
 
 Pairs with `music-prompts.md`'s Take B. The camera being inside the group rather
 than facing it is the shot.
 
 ### 4. The empty berth
 
-> A vacant docking berth seen through a scratched observation window at night.
-> Mooring clamps open, guide lights still cycling for a ship that is not there,
-> a barrier line across the walkway. Static frame with a faint structural
-> vibration. One figure out of focus in the foreground reflection, still.
+> Footage from a fixed camera on the walkway rail: a vacant docking berth seen
+> through a clean observation window at night. Mooring clamps open, guide lights
+> still cycling for a ship that is not there, a barrier line across the walkway.
+> The frame alive only with a faint structural vibration. One figure out of
+> focus in the foreground reflection, still.
+
+**Judging a take.** It fails if a ship arrives; if the figure moves; if a screen appears; and if any lettering appears.
 
 The Ballad's register — hint at the dark fact, never depict it.
 
@@ -391,6 +406,8 @@ The Ballad's register — hint at the dark fact, never depict it.
 > outward drift. No debris, no shockwave, no sound-implied impact. Vast scale
 > implied by how slowly it changes.
 
+**Judging a take.** It fails if a shockwave or debris appears; if the form finishes into a settled shape, which would settle the song; and if any lettering appears.
+
 The uploaded track's own title, and the one scene where the music can be
 dramatic without anything being violent. **Note the canon caution:** if this is
 ever attached to *Baby Universe*, that codex entry deliberately declines to
@@ -400,38 +417,49 @@ record's finding.
 
 ### 6. The Undersong
 
-> A dark stone chamber cut by hand, dry dust on a level floor. The dust shifts
-> and settles into clean geometric standing-wave patterns, then reorganises into
-> another. Nothing visible causes it. Slow overhead drift. Faint amber light
-> from a single opening.
+> Footage from a camera held at one wall of a dark chamber cut true into an
+> asteroid, negligible gravity, the air still. A haze of fine grains hangs in
+> it, gathers slowly into clean geometric sheets along standing waves, then
+> reorganises into another pattern. Nothing visible causes it. Slow drift along
+> the wall. Faint amber light from a single opening.
+
+**Judging a take.** It fails if a creature appears; if anything visible causes the pattern; if the grains settle on a floor; and if any lettering appears.
 
 Shows resonance without putting a Chthonari on screen and without inventing one.
 
 ### 7. The Garden Core
 
-> A cultivated terrace inside a rotating habitat, humid air, working lamps
-> among green growth, the curve of the floor rising away in the far distance. A
-> single leaf falls far too slowly and lands without sound. Handheld drift at
-> walking height.
+> Footage from a camera carried at walking height on a cultivated terrace inside
+> a rotating habitat, humid air, working lamps among green growth, the curve of
+> the floor rising away in the far distance. A single leaf falls far too slowly
+> and lands without sound. Slow handheld drift.
+
+**Judging a take.** It fails if the leaf falls at normal speed; if the floor reads flat; and if any lettering appears.
 
 Variable gravity carried by one falling leaf instead of by exposition.
 
 ### 8. Prismere
 
-> A silicate-carbon biosphere: living tissue built of glass and crystal,
-> bioluminescent throughout, the world producing its own light. Translucent
-> forms, soft shifting colour washes, dense particulate haze. Slow drift between
-> two crystal masses. No figures.
+> Footage from a fixed survey camera in a silicate-carbon biosphere: living
+> tissue built of glass and crystal, bioluminescent throughout, the world
+> producing its own light. Translucent forms, soft shifting colour washes, dense
+> particulate haze. The frame looks between two crystal masses, alive only with
+> the faint stir of the haze. No figures.
+
+**Judging a take.** It fails if the render goes painterly or CGI; if anything turns neon or takes a rainbow sheen; if a figure appears; and if any lettering appears.
 
 Deliberately reuses the shared preamble already recorded in `image-prompts.md`
 for the Prismere cluster, so the moving version and the stills read as one place.
 
 ### 9. Both ends of a fold
 
-> Two shots of the same short length, cut together with nothing between them: a
-> ship's running lights receding from a quiet transit marker, then the same
-> class of lights approaching a different marker under a different sky. Static
-> frames, long holds. Nothing dramatic happens in either.
+> Two shots of the same short length, cut together with nothing between them,
+> each from a fixed camera on its marker, the frame alive only with a faint
+> vibration: a ship's running lights receding from a quiet transit marker, then
+> the same class of lights approaching a different marker under a different sky.
+> Long holds. Nothing dramatic happens in either.
+
+**Judging a take.** It fails if star streaks appear; if any transit is shown; and if any lettering appears.
 
 *Nothing has ever been lost inside a fold, only at the two ends of one.* The
 absence of a transit shot is the point, and a generator will supply star streaks
@@ -439,23 +467,30 @@ unless the negative forbids them.
 
 ### 10. Off the roster
 
-> Close on a hand in service dress at a wall-mounted crew board in a corridor,
-> lifting one name plate out of a slot and closing the empty space with a
-> finger. No face in frame. One overhead light. Held four seconds after the hand
-> leaves.
+> Footage from a camera held at shoulder height, close on a hand in service
+> dress at a plain matte sheet set flush in a corridor wall, close pale lines on
+> it out of focus, read by the room's light. One finger rests on one line and it
+> clears; the finger closes the empty space. No face in frame. Held four seconds
+> after the hand leaves.
 
-No lettering: the plate is out of focus or turned away. What it says is not the
-information.
+**Judging a take.** It fails if a face appears; if any text can be read; and if a physical plate or a slot appears.
+
+No lettering: the lines are out of focus. What they say is not the information.
+The act is the record's (*marking a name that isn't coming back off a roster*, the
+*Ballad of the Stars* entry), in the century's form: a matte sheet, not a name plate.
 
 ---
 
 ### 11. The rotor
 
-> A large ribbed metal rotor assembly in a maintenance space, seen side-on from
-> a catwalk. Stacked discs narrowing to a waist at the centre, matte black,
-> worked and worn. It is turning slowly enough that only the surface texture
-> shows it. One caged work lamp, deep shadow behind. Camera drifts a few
-> degrees; nothing else happens.
+> Footage from a camera resting on a catwalk rail: a large ribbed rotor assembly
+> in a maintenance space, seen side-on. Stacked discs narrowing to a waist at
+> the centre, matte black, kept and in use, its faces burnished only where the
+> seals run. It is turning slowly enough that only the surface texture shows it.
+> Light in the space from no visible fitting, falling away into deep shadow
+> behind. Camera drifts a few degrees; nothing else happens.
+
+**Judging a take.** It fails if rust, a cage or a bulb appears; if the rotor changes shape; and if any lettering appears.
 
 The hum with a body. Shape borrowed from the card art supplied with
 *Rotational Hum*, which is the best of the supplied stills and the one that
@@ -463,10 +498,13 @@ needs no fixing.
 
 ### 12. Listening to the structure
 
-> An engineer in coveralls presses a long metal rod against a bulkhead and rests
-> an ear on the other end, eyes closed, entirely still. Corridor lit by one
-> failing overhead. Held for eight seconds with no cut and no reaction. Faint
-> vibration visible in dust on a nearby ledge.
+> Footage from a camera on a low tripod: an engineer in coveralls presses a long
+> metal rod against a bulkhead and rests an ear on the other end, eyes closed,
+> entirely still. A clean service corridor, light from no visible fitting. Held
+> for eight seconds with no cut and no reaction. The far end of the rod trembles
+> faintly against the wall.
+
+**Judging a take.** It fails if the engineer reacts; if there is a cut; if the tool glows; and if any lettering appears.
 
 Diagnosis by ear, which is how a structure is read by the people who live inside
 one — and the human counterpart to scene 6.
@@ -483,8 +521,8 @@ put a small unglamorous band on a big stage. The canon detail is in
 > A three-piece band playing in a dock-adjacent common room aboard a space
 > habitat. A red-haired woman in her twenties singing into a single shared
 > microphone, a man behind her on hand percussion, a second man seated with a
-> stringed instrument. Working clothes, not stage clothes. Fluorescent overhead
-> light and one work lamp — no stage lighting, no coloured wash, no haze. A dozen
+> stringed instrument. Working clothes, not stage clothes. Light in the room
+> from no visible fitting — no stage lighting, no coloured wash, no haze. A dozen
 > people sitting on crates and mismatched chairs, close enough to touch the
 > players. Clean matte deck, flush panels, a sealed door standing open.
 > Warm, unpolished, small. Nobody in the room thinks this is going anywhere.
@@ -526,6 +564,8 @@ Nine clips, two of them the same scene at different stages, which is what gives
 a three-minute piece a shape instead of a sequence. Title card composited at the
 head over the first hold — set, not generated.
 
+One clip is 10 s. A longer row is several clips chained from the last frame.
+
 ---
 
 ## A timed plan for `RotationalHum_1`
@@ -538,7 +578,7 @@ disclosure: measured, not heard.
 |---|---|---|
 | 0:00–0:16 | thin, low, almost nothing | **11. The rotor**, dark, barely turning |
 | 0:16–0:48 | bed builds, still beatless | **12. Listening to the structure** |
-| 0:48–1:18 | **pulse enters** | **1. The forty seconds** — the two dials |
+| 0:48–1:18 | **pulse enters** | **1. The forty seconds** — the two clocks |
 | 1:18–1:36 | fuller | **6. The Undersong**, dust reorganising |
 | 1:36–2:08 | sustained, two internal edges | **3. The muster**, one long take |
 | 2:08–2:24 | thins out | **4. The empty berth**, static |
@@ -547,9 +587,12 @@ disclosure: measured, not heard.
 | 3:52–4:02 | tail | **11** again, still turning, lights out |
 
 The two hinges are the ones to protect: **the pulse at 0:48**, which should land
-on the dials so the mechanism and the beat arrive together, and **the break at
+on the clocks so the mechanism and the beat arrive together, and **the break at
 2:24**, which is the one place in either track where cutting to nothing is
 better than cutting to a picture.
+
+One clip is 10 s. A longer row is several clips chained from the last frame; scene
+5's 80 s is eight, or two stages across a dissolve on a held tone.
 
 ---
 
@@ -1811,7 +1854,7 @@ reasons. It is in the record, so the footage is something the record itself
 would hold (*Instrument footage is a legitimate viewpoint*). It is low, so a
 stopped crowd standing either side of the walking line is a wall of legs and
 backs with one narrow lane down the middle, and the floor at the warm patch
-midway down is hidden behind bodies from a lens at that height, where a
+at the far end is hidden behind the capsule and the bodies from a lens at that height, where a
 bulkhead mount higher up would see over the crowd straight onto it. And it is
 behind the boy: he comes to the walkway from behind the lens and goes away
 down the lane, so the lens has his back from the first second to the last, his
@@ -1841,7 +1884,7 @@ grain, patience, no event arriving suddenly, is kept word for word.
 **The century.** A habitat's walkway and not a present-day corridor (Dermot's
 11 October note on `muffin.jpg`, *also looks anachronistic*) and not a boiler
 room: smooth seamless pale composite wall and floor meeting in a rounded cove,
-a matte resilient deck surface worn faintly smooth along the walking line, a
+a matte resilient deck surface, clean and kept, a
 rounded galley doorway with warm light spilling from it, no fittings and no
 signage, with the present-day building negated as objects (louvres, rivets,
 screws, stainless steel, a restaurant corridor). The carrier is the century's
@@ -1909,11 +1952,11 @@ extension is not known to carry them over.
 
 **Part 1, the walk (10 seconds).**
 
-> Footage from a small fixed recording device resting on the rim of a low waste bin at the far end of a walkway aboard a large space habitat, about knee height, looking straight down the length of the walkway, never moved and never lifted for the whole take, the frame alive only with the faint continuous vibration of a deck that is running. Long unbroken take, one shot, no cuts. Diegetic light only: warm light spilling from a rounded galley doorway midway down the right-hand wall and soft even habitat daylight, nothing glowing that would not glow. Matte surfaces, real materials, wear along the walking line. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Cinematic, filmic grain, shallow depth of field, the near legs sharp and the far end soft. Warm, ordinary, a little funny and quietly dramatic, a habitat's afternoon, not haunted. 24 fps, 16:9 landscape, 10 seconds. The walkway is unmistakably a habitat's: wall and floor of smooth seamless pale composite meeting in a softly rounded cove, the floor a matte resilient deck surface worn faintly smooth along the walking line, no fittings and no signage. It is full of people at shift change in plain work clothes of quiet natural colours and not one of them is moving: they stand on both sides of the walking line leaving a narrow lane down the middle, backs and shoulders to the lens, every figure leaning a little towards one place on the floor midway down near the lit doorway, which the standing bodies hide completely from the lens for the whole take, so that the lens sees only legs, backs and the lane. At the far end of the lane, small with distance and softened, a young woman with a long dark plait down her back in a plain blue-grey band-collared work jacket stands very still, three-quarters turned away, and at her feet sits a small pet carrier of the century: a smooth rounded capsule of pale matte composite with no handle and nothing to carry it by, one end a flush panel of fine woven lattice, that end turned away from the lens. A boy of about eight in a plain soft jumper, plain trousers and scuffed shoes enters from behind the lens, passes close by it and goes away down the lane with his back to the camera, ducking under elbows, never turning to the camera, and comes out at the front and stops beside the capsule, standing still with his back to the lens. Nobody else moves. Ambient sound only: the low hum of a running deck, the boy's shoes on the deck surface, cloth; no music, no narration, no speech. No on-screen text, letters, numbers, signage, subtitles, captions or watermarks. No holograms, projected interfaces, glowing UI, screens or floating icons. No lens flares, no light streaks, no volumetric god rays. No camera drift down the walkway, no crash zoom, no whip pan, no rise above the crowd, no camera passing through anyone. No jump scares, no gore, no horror imagery, no menace. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway, in any hand, not blurred, not partly, not in silhouette. No plastic pet carrier, no wire door, no carry handle, no box shape, no airline crate, nothing visible through the lattice. No uniform, no badge, no weapon, no futuristic gadget. No louvred grille, no riveted steel, no exposed screws, no stainless-steel kitchen, no restaurant corridor, no boiler room, no present-day building. Not a music-video montage, not a trailer.
+> Footage from a small fixed recording device resting on the rim of a low waste bin at the far end of a walkway aboard a large space habitat, about knee height, looking straight down the length of the walkway, never moved and never lifted for the whole take, the frame alive only with the faint continuous vibration of a deck that is running. Long unbroken take, one shot, no cuts. Diegetic light only: warm light spilling from a rounded galley doorway at the far end of the right-hand wall and soft even habitat daylight, nothing glowing that would not glow. Matte surfaces, real materials, clean and well kept. Deep shadow with detail retained in it. Restrained, patient, unhurried, no event arriving suddenly. Photographed, not rendered: filmic grain, shallow depth of field, the near legs sharp and the far end soft. Warm, ordinary, a little funny and quietly dramatic, a habitat's afternoon, not haunted. 24 fps, 16:9 landscape, 10 seconds. The walkway is unmistakably a habitat's: wall and floor of smooth seamless pale composite meeting in a softly rounded cove, the floor a matte resilient deck surface, clean and kept, no fittings and no signage. It is full of people at shift change in plain work clothes of quiet natural colours and not one of them is moving: they stand on both sides of the walking line leaving a narrow lane down the middle, backs and shoulders to the lens, every figure leaning a little towards one place on the floor at the far end of the lane, just beyond the capsule, near the lit doorway, which the capsule and the standing bodies hide completely from the lens for the whole take, so that the lens sees only legs, backs and the lane. At the far end of the lane, small with distance and softened, a young woman with a long dark plait down her back in a plain blue-grey band-collared work jacket stands very still, three-quarters turned away, and at her feet sits a small pet carrier of the century: a smooth rounded capsule of pale matte composite with no handle and nothing to carry it by, one end a flush panel of fine woven lattice, that end turned away from the lens. A boy of about eight in a plain soft jumper, plain trousers and plain shoes enters from behind the lens, passes close by it and goes away down the lane with his back to the camera, ducking under elbows, never turning to the camera, and comes out at the front and stops beside the capsule, standing still with his back to the lens. Nobody else moves. Ambient sound only: the low hum of a running deck, the boy's shoes on the deck surface, cloth; no music, no narration, no speech. No on-screen text, letters, numbers, signage, subtitles, captions or watermarks. No holograms, projected interfaces, glowing UI, screens or floating icons. No lens flares, no light streaks, no volumetric god rays. No camera drift down the walkway, no crash zoom, no whip pan, no rise above the crowd, no camera passing through anyone. No jump scares, no gore, no horror imagery, no menace. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway, in any hand, not blurred, not partly, not in silhouette. No plastic pet carrier, no wire door, no carry handle, no box shape, no airline crate, nothing visible through the lattice. No uniform, no badge, no weapon, no futuristic gadget. No louvred grille, no riveted steel, no exposed screws, no stainless-steel kitchen, no restaurant corridor, no boiler room, no present-day building. No grime, no dust, no peeling paint, no debris. Not a music-video montage, not a trailer.
 
 **Part 2, the four seconds (extend by 10 seconds).**
 
-> Continue the same unbroken shot with no cut, from the same small fixed device on the rim of the bin at knee height, never moved, the same light, the same habitat walkway. The standing crowd stays perfectly still on both sides of the lane, backs to the lens, and the bodies still hide the floor near the lit doorway completely. The boy stands a moment beside the pale capsule with his back to the lens. Then, in one plain unhurried action of about four seconds, he crouches, reaches to the far side of the capsule, then leans forward low with his back squarely to the lens, so that his body and the capsule hide whatever is on the floor in front of him, and nothing but his back is seen. He says one word, No, in an ordinary clear child's voice, the only word spoken in the whole clip, with no caption. He closes the lattice panel on the far side of the capsule. Then he stays crouched and still with both hands on the shut capsule, and nothing else moves. Ambient sound only apart from that one word: the low hum of a running deck, cloth; no music, no narration, no other speech. No on-screen text, letters, numbers, subtitles or captions. No camera movement, no cut, no closer view, no rise above the crowd. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, in any hand or in the boy's arms, not blurred, not partly, not in silhouette; his hands stay out of sight or empty. No wire door, no carry handle, nothing visible through the lattice. The boy never turns to the camera.
+> Continue the same unbroken shot with no cut, from the same small fixed device on the rim of the bin at knee height, never moved, the same light, the same habitat walkway. The standing crowd stays perfectly still on both sides of the lane, backs to the lens, and the capsule, the boy and the bodies still hide the floor near the lit doorway completely. The boy stands a moment beside the pale capsule with his back to the lens. Then, in one plain unhurried action of about four seconds, he crouches, reaches to the far side of the capsule, then leans forward low with his back squarely to the lens, so that his body and the capsule hide whatever is on the floor in front of him, and nothing but his back is seen. He says one word, No, in an ordinary clear child's voice, the only word spoken in the whole clip, with no caption. He closes the lattice panel on the far side of the capsule. Then he stays crouched and still with both hands on the shut capsule, and nothing else moves. Ambient sound only apart from that one word: the low hum of a running deck, cloth; no music, no narration, no other speech. No on-screen text, letters, numbers, subtitles or captions. No camera movement, no cut, no closer view, no rise above the crowd. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, in any hand or in the boy's arms, not blurred, not partly, not in silhouette; his hands stay out of sight or empty. No wire door, no carry handle, nothing visible through the lattice. The boy never turns to the camera.
 
 **Part 3, the walkway moves (extend by 10 seconds).**
 
@@ -1930,7 +1973,7 @@ hand or in the boy's arms; plastic pet carrier, wire door, carry handle, box
 shape, airline crate, anything visible through the lattice; uniform, badge,
 weapon, futuristic gadget; louvred grille, riveted steel, exposed screws,
 stainless-steel kitchen, restaurant corridor, boiler room, present-day
-building; music-video montage, trailer.
+building; grime, dust, peeling paint, debris; music-video montage, trailer.
 
 **Judging a take.** It fails, first of all, if any creature is visible at the
 warm patch, on the floor, at the doorway, in any hand or in the boy's arms,
@@ -1945,6 +1988,14 @@ walkway does not move at the end, since that motion is half of why the clip
 exists. Frames at 0, 5 and 9 s of each part, by the 8 October method; a
 part that passes the frames is then watched once for the sound, and the joins
 are watched for a jump in the crowd or the carrier.
+
+**Revised 6 November 2026, before anything was generated.** The wear words are
+out, under *Places are well kept*, and the warm patch and the doorway move to the far
+end of the lane, so that the crowd leans towards the place where the boy acts.
+
+**Where it goes.** `src/video/four-seconds.mp4` with a poster frame, on the chapter
+after its last scene, not after the opening paragraph, since the clip is the chapter's
+ending. His pick at filing.
 
 **Open at the time of writing.** Whether an extension holds the mount and the
 crowd from the last frame; whether it will carry a child's one word without

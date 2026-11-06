@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pending clip and music briefs corrected after the Benevolent Critic** (`story-bible/video-prompts.md`, `story-bible/music-prompts.md`, `story-bible/open-questions.md`, 2026-11-06, Opus, the critic's read of the pending briefs). *Four Seconds* loses its wear words and the crowd now leans where the boy acts. The scene library is kept to the 29th-century look, with mounts and judging lines, and scene 1's clocks stand well apart in Dock Seven. Scene 6 fits negligible gravity, and scene 10 keeps the roster custom in the century's form. Music briefs gain a route, runnable fields and three-player Slipwave lines. Nothing has been generated.
+
 - **Director briefs D1 to D5 and D7 corrected after the Benevolent Critic** (`story-bible/video-prompts.md`, 2026-11-06, Opus, the critic's read of the six briefs). D1's readouts now agree with the chapter, with the seal clock at 03:10:01 and the hatch clock at 03:10:41, and both clocks sit well apart on one long wall. D2's holding takes its filed look, and D3's rooms and sheets match D1 and the filed frames. D5 keeps its mechanical clock with the reason stated, and D7's craft follows sheet F. The shared rules name the rural exception, and carry the exception for ideas from Dermot's own films. D4's figure and its table shot wait for Fable.
 
 - **Director brief D1 rewritten for the record's clocks, and the film preamble cleaned** (`story-bible/video-prompts.md`, 2026-11-06, Opus, Dermot's *"Yes"*). C-7A and C-7B are now clean atomic instruments, not worn dials, the shared preamble drops *dust and wear*, and version 1 is recorded. Nothing is generated from the revision yet.

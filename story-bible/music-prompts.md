@@ -177,7 +177,7 @@ Three anchors, all of them already canon, none invented for the music:
 
 ### Shared preamble
 
-Paste ahead of any edition prompt below.
+Paste ahead of any edition prompt below except Undercover Pets and the Told.
 
 > Instrumental. A low sustained rotational hum under everything, like a
 > habitat's structure heard through a wall. Slow harmonic movement, long held
@@ -326,6 +326,10 @@ an argument for choosing deliberately and writing down what was chosen.
 
 **Whatever the tool:** m4a or mp3, around −18 LUFS, seamless loop for themes, and
 an entry in this file with the prompt as typed.
+
+**Route.** Themes and textures go to Stable Audio or ElevenLabs Music, songs to Udio.
+None is run on MyTunes as delivery. To sketch one there, write its one-box line here
+first, under 200, counted.
 
 ---
 
@@ -575,11 +579,10 @@ may arrive in full, and the tone line and the shared negative still hold.
 
 **One box:** `Beautiful, enigmatic, haunting, dramatic, mysterious title theme. Celtic spacer folk, dorian, slow. Low whistle, wire-strung harp, low strings. Station hum, few-cent detune. Five-note figure three times, last note late, third fuller. Ends on a held tone.`
 
-For MyTunes' single description field, with the Instrumental switch on. Nothing has
-been generated from it yet.
+Too long for MyTunes, which cuts at 200: use the 194-character line below.
 
 **MyTunes cuts the box at 200 characters** (found 6 November 2026, when the line
-above, 270 characters, was cut off at *"three tim"*). The line to paste there, 194
+above, 254 characters, was cut off at *"three tim"*). The line to paste there, 194
 characters:
 
 `Beautiful, enigmatic, haunting, dramatic, mysterious Celtic title theme, dorian, slow. Low whistle, harp, low strings, station hum, detune. Five-note motif three times, last note late. Held end.`
@@ -700,8 +703,8 @@ between them is the entry's whole point:
 |---|---|
 | **Style** | spacer folk, acoustic, live room recording, slow 3/4 |
 | **Mood** | reluctant, intimate, unpolished, quietly hopeful |
-| **Instruments** | female lead vocal, one acoustic guitar, sparse hand percussion, low whistle on the chorus only |
-| **Production** | single microphone in a small room, room tone and chair noise audible, low structural hum throughout, slight pitch drift on sustained notes, vocal a shade ahead of the beat |
+| **Instruments** | female lead vocal, one acoustic guitar, sparse hand percussion |
+| **Production** | single microphone in a small room, room tone and chair noise audible, low structural hum throughout, slight pitch drift on sustained notes, vocal a shade behind the beat |
 | **Exclude** | studio polish, reverb wash, string section, drum kit, backing vocals, autotune, double-tracked vocal |
 | **Form** | vocal, lyrics as published, full song |
 
@@ -712,10 +715,10 @@ not know who wrote it.
 |---|---|
 | **Style** | a cappella group singing, field recording, communal |
 | **Mood** | ragged, certain, unpolished, collective |
-| **Instruments** | twenty untrained voices in unison, one octave, no instruments |
+| **Instruments** | twenty untrained voices in unison, one octave |
 | **Production** | large hard-walled room, long natural reverb, recorded from inside the group rather than in front of it, chorus louder and surer than the verses |
 | **Exclude** | choir arrangement, harmony parts, soloist, instruments, studio reverb, applause |
-| **Form** | vocal, same lyrics and melody as Take A |
+| **Form** | vocal, unaccompanied, lyrics as published; run with Take A as the audio reference if the tool takes one |
 
 Lyrics verbatim from the entry. The chorus must sit inside a range a room full
 of non-singers can hold — that is the in-world reason it spread, and a take
@@ -741,12 +744,12 @@ changed only where the register changes:
 |---|---|
 | **Style** | spacer folk ballad, slow, elegy, live room |
 | **Mood** | grieving, tender, restrained, private |
-| **Instruments** | female lead vocal, acoustic guitar, one bowed string, no percussion |
-| **Production** | as Take A, closer to the microphone and quieter; sung to one person rather than to a room |
-| **Exclude** | swell, key change, drums, choir, orchestration |
+| **Instruments** | female lead vocal, acoustic guitar, one bowed string |
+| **Production** | single microphone in a small room, room tone and chair noise audible, low structural hum throughout, slight pitch drift on sustained notes, closer to the microphone and quieter, sung to one person |
+| **Exclude** | swell, key change, drums, percussion, choir, orchestration |
 | **Form** | vocal, lyrics as published — confirmed lines only, scaffolding verses **not** sung |
 
-The entry's own line for the register: *usually while a ship is overdue*.
+The glossary's line for the register: *usually while a ship is overdue*.
 
 ### *Baby Universe*
 
@@ -778,10 +781,10 @@ mixing booth instead of a dock common room."*
 
 | Field | |
 |---|---|
-| **Style** | anthem, close harmony, studio folk-rock, mid-tempo, march-adjacent |
+| **Style** | anthem, close harmony, studio folk-rock, mid-tempo, steady four |
 | **Mood** | declarative, confident, institutional, warm |
 | **Instruments** | two male voices in close harmony, acoustic guitar, kit percussion, low sustained pad |
-| **Production** | properly mic'd and separated, controlled plate reverb, steady tempo, unmistakable downbeat, **tuning true — no drift, no late pulse** |
+| **Production** | properly mic'd and separated, controlled plate reverb, steady tempo, unmistakable downbeat, **tuning true, every note on the beat** |
 | **Exclude** | room noise, single-mic capture, hum, detune, hesitancy |
 | **Form** | vocal, lyrics as published, full song |
 
@@ -812,9 +815,9 @@ the entry says does not exist.
 |---|---|
 | **Style** | unaccompanied congregational singing, memorial, slow, field recording |
 | **Mood** | grave, steady, shared, unshowy |
-| **Instruments** | one plain voice on the verse, a room of mixed untrained voices on the refrain, no instruments |
+| **Instruments** | one plain voice on the verse, a room of mixed untrained voices on the refrain |
 | **Production** | the verse carried by one voice and the refrain taken up by everyone, louder and surer than the verse; a large hard-walled station room, station hum audible in the gap before the refrain; slight drift on held notes; recorded from inside the room |
-| **Exclude** | organ, choir arrangement, harmony parts, plainchant, church acoustics, soloist vibrato, applause, reverb wash |
+| **Exclude** | instruments, organ, choir arrangement, harmony parts, plainchant, church acoustics, soloist vibrato, applause, reverb wash |
 | **Form** | vocal, the Threshold verse and the refrain as published, nothing else |
 
 **Take B — a Cadet commissioning, Eden.** The Eden verse; a brighter room,
@@ -822,11 +825,11 @@ younger voices, more of them, the refrain identical to the note.
 
 | Field | |
 |---|---|
-| **Style** | as Take A |
+| **Style** | unaccompanied congregational singing, slow, field recording |
 | **Mood** | steady, expectant, plain, collective |
-| **Instruments** | as Take A; a larger and younger room |
-| **Production** | as Take A; a hall rather than a station room, less hum, the refrain taken up faster because this room has sung it before |
-| **Exclude** | as Take A, plus fanfare, drums, anything that makes it a ceremony's music rather than a room's |
+| **Instruments** | one plain voice on the verse, a larger room of younger mixed untrained voices on the refrain |
+| **Production** | the verse carried by one voice and the refrain taken up by everyone, quickly, louder and surer than the verse; a bright hall, faint hum in the gap before the refrain; slight drift on held notes; recorded from inside the room |
+| **Exclude** | organ, choir arrangement, harmony parts, plainchant, church acoustics, soloist vibrato, applause, reverb wash, fanfare, drums |
 | **Form** | vocal, the Eden verse and the refrain as published, nothing else |
 
 The refrain has to sit in a range a room of non-singers can hold, for the same
@@ -849,7 +852,7 @@ chorus is fully voiced at all.
 | **Style** | half-hummed, half-sung, unaccompanied, outdoor field recording, fragment |
 | **Mood** | private, absent-minded, tender, cold |
 | **Instruments** | one voice half under the breath; river, wind on water, rope, a boat against a slip |
-| **Production** | recorded at a distance and not for recording; verses mostly hummed with a word surfacing here and there, the chorus the only part fully voiced and still quiet; no reverb, winter air |
+| **Production** | recorded at a distance and not for recording; verses mostly hummed with a word surfacing here and there, the chorus the only part fully voiced and still quiet; dry winter air |
 | **Exclude** | performance, band, reverb, harmony, studio vocal, a listener |
 | **Form** | vocal fragment, under a minute; every audible word verbatim from the published lyric |
 
@@ -874,10 +877,10 @@ act.
 |---|---|
 | **Style** | drone, sub-bass, stone resonance, unmetered, no melody |
 | **Mood** | immense, patient, unhurried, alien |
-| **Instruments** | bowed metal, struck stone resonance, sustained low partials — nothing plucked |
+| **Instruments** | bowed metal, struck stone resonance, sustained low partials |
 | **Production** | several harmonic centres coexisting without conflict, partials layered as if added in different centuries, felt more than heard |
-| **Exclude** | melody, beat, rhythm, synth pad, whale song, choir, percussion hits |
-| **Form** | instrumental, long, no development |
+| **Exclude** | melody, beat, rhythm, synth pad, whale song, choir, percussion hits, plucked strings |
+| **Form** | instrumental, 150 s, no development |
 
 Two limits. It is **architecture rather than performance** — a burrow-cluster is
 judged on how it sounds the way another people judge a façade, which is not the
@@ -899,10 +902,10 @@ unison*, which the translation desk notes is rare.
 |---|---|
 | **Style** | call and confirm, click rhythm, low chorus swell, infrasonic drone brought into hearing, unmetered, no melody |
 | **Mood** | patient, fair, immense, faintly amused |
-| **Instruments** | layered clicks (wood, tongue, stone), many low bowed voices moving as one, a felt sub tone; nothing plucked, no words |
+| **Instruments** | layered clicks (wood, tongue, stone), many low bowed voices moving as one, a felt sub tone |
 | **Production** | one line of clicks answered by a broad low swell, the swell sometimes withheld; one passage where every low voice moves together; dense humid air, long low reverb as if through rock |
-| **Exclude** | whale song, dolphin, throat singing, human voices with words, melody, horror drone, sub-drop |
-| **Form** | instrumental, long, no development |
+| **Exclude** | whale song, dolphin, throat singing, human voices with words, spoken words, plucked strings, melody, horror drone, sub-drop |
+| **Form** | instrumental, 150 s, no development |
 
 Three limits. **No words** — the keeper's speech exists only as the desk's
 rendering (see *Where a track may not be generated*). The under-song is *felt
@@ -926,7 +929,7 @@ proof of intelligence behind it*, origin, intent and mechanism undetermined.
 | **Style** | electromagnetic signal rendered as audio, pulse train, a phrase that returns changed, sparse, dry |
 | **Mood** | patient, unfiled, quietly wrong |
 | **Instruments** | one filtered pulse, a second slower pulse beneath it, nothing recognisable as an instrument or a voice |
-| **Production** | an eleven-second cycle, each return almost the same and not quite; a slow drift across the whole; no reverb, direct to a headset, telemetry noise floor audible |
+| **Production** | an eleven-second cycle, each return almost the same and not quite; a slow drift across the whole; dry, direct to a headset, telemetry noise floor audible |
 | **Exclude** | melody, synth lead, voice, morse code, sci-fi bleeps, alarm, theremin, whale song |
 | **Form** | instrumental, 60–90 s; may loop, since the return is the point |
 
@@ -949,10 +952,10 @@ and its apparent sentience *is a live question and stays one*.
 |---|---|
 | **Style** | planetary drone, low-frequency hum, slow recurring pattern, vast, unmetered |
 | **Mood** | immense, indifferent, patterned, unresolved |
-| **Instruments** | a low hum whose partials briefly align into a pattern and slide apart; no bells |
+| **Instruments** | a low hum whose partials briefly align into a pattern and slide apart |
 | **Production** | long stretches of plain hum, then a pattern resolving out of it and dissolving back; the pattern recurs but never in the same place; slow electrical crackle at the edges |
 | **Exclude** | bells, chimes, carillon, church bells, voice, melody, sub-drop as threat, anything that addresses the listener |
-| **Form** | instrumental, long |
+| **Form** | instrumental, 150 s |
 
 **Bells are the name, not the sound** — a track with a bell in it has taken the
 metaphor literally and made the claim the page refuses. And the page's last
@@ -1378,8 +1381,8 @@ Mirrored into [`open-questions.md`](open-questions.md).
    `validate-content.js` is a small script change and would close a gap that is
    currently covered by nothing at all.
 6. ~~**The Told's theme label**~~ Ruled 30 September 2026: *Cavern ambient*,
-   registered with the file when the track exists. What stays open is
-   generating the track.
+   registered with the file when the track exists. Filed 6 November 2026
+   as `told-theme.m4a`.
 7. ~~**Does Young Star Rangers get a sibling track?**~~ Ruled 30 September
    2026: keep sharing.
 8. **A recording of *Hymn of the Thin Places*** (30 September 2026). Two takes
