@@ -454,6 +454,111 @@ content at all.
 
 ---
 
+## A theme and title for the trailers: ideas, 5 November 2026
+
+Nothing below has been generated, and no idea here has been chosen. Dermot's
+direction, the same evening: *"Theme Music and Title Sequence"*, then *"Could be
+varied slightly for each season, edition or thread"*. The shape he agreed to
+record is one core theme and one title treatment, varied by thread, on trailers
+only. A film told as a quiet scene, such as D6, keeps its own opening.
+
+**Why the thread and not the edition or the season.** A film is one file that
+every edition carries, so a variation per edition would need a copy of the film
+per domain and engine work to choose between them. A season is too fine: a new
+variation each time, most barely different from the last. A trailer usually
+speaks for a thread, so its variation costs nothing extra. It is made when that
+thread gets its first trailer, and the core theme is the only work up front.
+
+**What this is not.** It is a theme for the site's films, under the title
+*Fian Ilchruinne*. It is never filed as the Corps' own or as a *Star Rangers
+theme* (*Where a track may not be generated at all*, above). A film score is
+the listened-to case under *The target*, so it may build and arrive; the tone
+line and the shared negative still hold.
+
+### The core theme: three ideas
+
+All three come from the house signature, so a listener hears the same work
+beneath every variation.
+
+- **A. The late note (recommended).** A five-note figure over the hum, stated
+  three times, and its last note arrives a fraction behind where the ear
+  expects it, every time. It is the forty seconds made into a tune: short
+  enough to recognise, and it can sit in any instrument. Its one risk is that
+  the lateness sounds like a mistake on a first hearing. Three statements are
+  what make it read as meant.
+- **B. Told twice, shorter.** A figure stated in full, then again with notes
+  gone, and the shorter one is the one that lands. It comes from *Below the
+  Roof*, where a telling gets shorter the second time when it is getting true.
+  It is the most original of the three, but it is that thread's own custom, so
+  stretching it over the whole work would spend it. It is used below as that
+  thread's variation.
+- **C. Two tones that almost agree.** No tune: one held tone, and a second that
+  drifts towards it and never quite arrives. It is the purest statement of the
+  drift, and the easiest to make. It is also the likeliest to fail *The target*
+  as competent ambience, and it would be hard to recognise across eight threads.
+
+**A first prompt for A**, in the six fields, to be run with the shared preamble
+and negative where the app allows them:
+
+| Field | |
+|---|---|
+| **Style** | celtic ambient, spacer folk, title theme, dorian, slow, spacious |
+| **Mood** | enigmatic, haunting, hopeful, patient |
+| **Instruments** | low whistle, wire-strung harp, bowed drone, low strings entering late |
+| **Production** | low station hum under everything, few-cent detune, one five-note figure stated three times, its last note a fraction late each time, third statement fuller, no cadence that closes |
+| **Exclude** | trailer riser, braam, impact, big drums, jig, reel, vocals, choir |
+| **Form** | instrumental, ends on a held tone, the best 12 to 20 seconds cut from a longer take |
+
+### The variations, by thread
+
+The figure and its late note stay; the instrument and what the last note does
+change. Each draws on the edition brief above where one exists.
+
+| Thread | The figure on | The last note |
+|---|---|---|
+| Tissadelle Shepherd's Arc | low whistle and harp, the core as it stands | late, and stays late |
+| Founding Era | one bowed string, nearly bare | only just late, since this is before Threshold's drift had a name |
+| Undercover Pets | ukulele, with the hum played straight-faced | lands exactly on the beat: the wobble comes right, which is the gag |
+| Orbital Five-O | tremolo guitar, once only, over the running arpeggio | late against the rim tick, leaning forward |
+| Young Star Rangers | Five-O's, since the two young-adult doors share a track by ruling | as Five-O |
+| Below the Roof | low wooden flute and soft mallets on stone, told twice and shorter the second time | a water drip, a fraction late |
+| The Infinite Castle and the Timeless Library | three voices taking the figure in turn, one for each record | late on the third voice. This file has no theme brief for the thread, so this line is the least grounded |
+| Church Space | divided strings, slowed until the figure is held tones passed from hand to hand | a held note that will not resolve |
+
+### The title: three ideas
+
+The lettering is always set by script or composited, never generated, and it is
+read for spelling before anything is filed. *Fian Ilchruinne*, with the thread's
+name small beneath it, and no tagline. Lettering in one typeface across all
+threads; the picture behind it is what varies.
+
+- **A. The title closes (recommended).** No opening titles: the trailer starts
+  in the world, and the title cuts in on the last late note, over black or the
+  final held shot, for about six seconds. It is the rule for episodes applied to
+  film: the enigma arrives, it does not open. It is also the cheapest, and it
+  makes the late note do the work of the title.
+- **B. Hum, then black.** A few seconds of black with the hum alone, and the
+  title on the first statement of the figure, before the trailer proper. It is
+  plain and needs no picture, and it costs the first seconds of a short film.
+- **C. One held image.** About eight seconds on a single still image from the
+  thread, with a very slow drift and the title on the third statement. It is the
+  richest, and the one that most needs a good picture, under the same rule as
+  any clip: a generated image shows only what no camera can.
+
+Rejected: a title dressed as an Archive filing card. A film is an impression and
+never the record, so the title should not look like the record's own stamp.
+
+### What is still unknown
+
+- Whether Director will take a supplied track or lay in supplied lettering. It
+  has composited a title card and spelled captions correctly, but it has not
+  been given a theme to use.
+- Whether a theme can be joined to a film outside Director. No tool for that
+  has been set up.
+- Whether a variation is better made as a fresh take or as an edit of the core.
+
+---
+
 ## Ready prompts — in-universe recordings
 
 These are artifacts, not themes. The brief is not "what would sound good" but

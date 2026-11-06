@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Ideas for a trailer theme and title** (`story-bible/music-prompts.md`, 2026-11-05, Opus, Dermot's *"Could be varied slightly for each season, edition or thread"*). One core theme and one title treatment, varied by thread and used on trailers only. Three ideas for each, a first prompt and a variation per thread are written down. Nothing is generated and the choice is open.
+
 ## [1.60.0] — 2026-11-05
 
 An episode's last chapter now offers other ways on beside Next: an episode of another thread opening at the same moment, and one Archive entry. New episodes are to read as self-contained short stories, as a standing rule. Episode 0's index is shorter and dated, and starquest.site gets its own Reading Plan. The rest of Season 1 takes four corrections from the weekly read, and Director brief D6 reaches a third version, with nothing filed.
