@@ -1509,6 +1509,8 @@ and the narration stays unverified.
   lower and is partly at the frame's edge. A closer look at the fungi favours version 6, if
   anything, since the brief asks for *faint*.
 
+**The pillar at 4:02, kept** (6 November 2026, Dermot: *"Slightly surreal effect when the camera pans around to show the same cave to the righthand side at 4:02"*, then *"Keep it"*). From about 3:57 to 4:07 a rock pillar crosses the frame and the same view of Stone-First returns on its far side, a transition hiding the join between two held shots, with a similar pass near 4:46. It dates from version 3. It sits awkwardly with one still eye-line, and it stands as his choice: a later round leaves it alone.
+
 **Recommended: version 6**, since it is the first with no fault in the hands at any point read.
 No further round is recommended, because what remains is small or a matter of taste. Which
 version stands is Dermot's, after he has heard it.
