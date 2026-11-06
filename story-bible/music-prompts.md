@@ -436,6 +436,17 @@ dripping a fraction behind where the ear expects it.
 
 Somewhere warm under a great deal of cold rock, and nothing in it is afraid.
 
+**For MyTunes** (6 November 2026), 193 characters, under its 200-character cut:
+
+`Warm, curious, patient, a little funny cavern ambient, slow, gentle. Soft mallets on stone, low wooden flute, late water drips, small near hum. Short figure told twice, shorter the second time.`
+
+It drops *safe* from the mood, the reverb line and the loop. Run it with
+Instrumental on, genre none and Live off. Not *Classic*: the late note's take 2
+showed that it keeps the pulse and pulls the sound towards a stately orchestral
+piece, which is wrong for a cavern. A MyTunes take is a sketch. The theme still
+needs a seamless 90 s loop, which MyTunes cannot export, before anything is filed
+under `src/audio/` or the label goes into `lib/editions.js`.
+
 **The label is *Cavern ambient*** — Dermot's ruling, 30 September 2026,
 verbatim *Cavern ambient for the Told*, from three shapes put (*Cavern
 ambient*, *Warm stone*, keep sharing). `themeAudio.label` ships to the reader
