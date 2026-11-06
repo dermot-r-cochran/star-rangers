@@ -5045,9 +5045,8 @@ are the parts it could not decide.
 - ~~**The Told's theme label**~~ (raised 30 September 2026) — **ruled the
   same day: *Cavern ambient*** (Dermot, verbatim *Cavern ambient for the
   Told*). Registered in `lib/editions.js` with the file when the track is
-  generated, not before. **Still open: generating the track** — the brief is
-  in `music-prompts.md` and queued as `prompt-sheet.md` 2.8. *Triage 19 October
-  2026:* a generation item for his desktop, not a decision.
+  generated, not before. **Filed 6 November 2026 as `told-theme.m4a`**, with
+  the label in `lib/editions.js`; the entry is in `music-prompts.md`.
 - ~~**Does Young Star Rangers get a sibling track?**~~ (raised 30 September
   2026) — **ruled the same day: keep sharing** (verbatim *keep sharing for
   Young Star Rangers*). The sibling brief stays in `music-prompts.md` as a
