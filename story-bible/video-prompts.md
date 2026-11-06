@@ -587,6 +587,15 @@ better than cutting to a picture.
   | v7 | 4:24 | 29 Oct 11:46 | captions; Carrigbawn prologue; dated *spring 2841, ten years after the Last Stand*; narrator seventy-seven; wristband's two times | 29 Oct, replaced the same day |
   | v10 | 4:32 | 29 Oct 13:01 | adds *fifty years of other work … on more stations than I can name* and the returns to the docking spine, so the fifty years are a career, not one watch; one caption gap near 3:46 | **29 Oct, current** |
 
+### `the-up-peoples-first-stone.mp4`
+- **Type:** assembly, from Director brief D6
+- **Tool:** Grok Imagine, Director (beta)
+- **Date:** filed 2026-11-06
+- **Used by:** `src/journal/the-up-peoples-first-stone.md`
+- **Prompt:** brief D6, above, with the notes given in its version readings
+- **Negative:** as the brief
+- **Notes:** v6, 6:31, 854×480, 24 fps, 35 MB; not upscaled. No captions, and the audio is not heard here, so the narration is Director's claim. Poster frame `the-up-peoples-first-stone-poster.jpg` at 6:20. Versions and readings under D6.
+
 The first file in `src/video/`, `baby-universe.mp4`, predates this file and has no
 recorded prompt; do not reconstruct one and file it as though it were the
 original. The two above are recorded as absences for the same reason.
@@ -1240,7 +1249,7 @@ station stays out of frame).
 
 ### D6. The Up-People's First Stone (S11E01C05)
 
-**Status, 6 November 2026: version 6 read; the stone shot now shows two hands throughout. Which version stands is Dermot's; not filed.** See *Version 4, read*, *Version 5, read* and *Version 6, read* at the end of this entry.
+**Status, 6 November 2026: filed. Version 6 stands, at Dermot's word, as `src/video/the-up-peoples-first-stone.mp4`, shown in the Journal as an impression.** See *Version 4, read*, *Version 5, read* and *Version 6, read* at the end of this entry.
 
 **Status, 5 November 2026: version 3 published and read, and it clears the judging
 line as far as frames can show; not filed.** The version table and the readings
@@ -1404,7 +1413,7 @@ small closed mouth, real fur.
 | 3 | 6:31 | 5 Nov 2026 | One repair round on the faults read in version 2 | No |
 | 4 | 6:31 | 5 Nov 2026 | Closing shot only: the second stone remade to match the one set down | No |
 | 5 | 6:31 | 6 Nov 2026 | The stone shot only (2:46 to 3:23): the left hand remade; three hands near 2:48 | No |
-| 6 | 6:31 | 6 Nov 2026 | The start of the stone shot (2:46 to 2:55) re-drawn: two hands throughout; more of the kneeling figure shown | No |
+| 6 | 6:31 | 6 Nov 2026 | The start of the stone shot (2:46 to 2:55) re-drawn: two hands throughout; more of the kneeling figure shown | **6 Nov, current** |
 
 **The length.** Four minutes cannot be had. By Director's report the script
 alone runs just over six minutes spoken, so it kept every word and cut
@@ -1511,9 +1520,7 @@ and the narration stays unverified.
 
 **The pillar at 4:02, kept** (6 November 2026, Dermot: *"Slightly surreal effect when the camera pans around to show the same cave to the righthand side at 4:02"*, then *"Keep it"*). From about 3:57 to 4:07 a rock pillar crosses the frame and the same view of Stone-First returns on its far side, a transition hiding the join between two held shots, with a similar pass near 4:46. It dates from version 3. It sits awkwardly with one still eye-line, and it stands as his choice: a later round leaves it alone.
 
-**Recommended: version 6**, since it is the first with no fault in the hands at any point read.
-No further round is recommended, because what remains is small or a matter of taste. Which
-version stands is Dermot's, after he has heard it.
+**Version 6 stands** (Dermot, 6 November 2026, *"Version 6"*). Filed in the Journal as `src/journal/the-up-peoples-first-stone.md`; poster taken at 6:20, no caption in frame. The entry names the chapter without linking it, because a Journal link to a chapter would put the film in that chapter's *In the Archive* list.
 
 ### D7. Lúnasa
 

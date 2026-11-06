@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **New Journal entry, *The Up-People's First Stone*, with its film** (`src/journal/`, `src/video/`, 2026-11-06, Opus, Dermot's *"Version 6"*). A Director film of *Theirs to Move*, made from brief D6 and filed as an impression, not the record, with an account of where it departs.
+
 - **The pillar transition in Director brief D6 kept** (`story-bible/video-prompts.md`, 2026-11-06, Opus, Dermot's *"Keep it"*). The move at 4:02 stands, and a later round leaves it alone.
 
 - **Director brief D6, version 6 recorded** (`story-bible/video-prompts.md`, 2026-11-06, Opus, after Dermot's *"Yes the three hands show"*). Version 6 removes the third hand near 2:48 in *The Up-People's First Stone*. Which version stands is his, and nothing is filed.
