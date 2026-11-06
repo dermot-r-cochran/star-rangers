@@ -447,6 +447,13 @@ piece, which is wrong for a cavern. A MyTunes take is a sketch. The theme still
 needs a seamless 90 s loop, which MyTunes cannot export, before anything is filed
 under `src/audio/` or the label goes into `lib/editions.js`.
 
+**The Told's theme is to be remade outside MyTunes** (Dermot, 6 November 2026,
+choosing *B* over filing the MyTunes loop on the live domain, which keeps the
+20 August ruling under *Tools*). Take 1, *Stone and Flute*, logged under *Entry
+format*, is the reference: its 60 s loop is what the remake is matched against,
+in Stable Audio or ElevenLabs Music. Until the remake is filed with the label,
+the edition keeps Five-O's track.
+
 **The label is *Cavern ambient*** — Dermot's ruling, 30 September 2026,
 verbatim *Cavern ambient for the Told*, from three shapes put (*Cavern
 ambient*, *Warm stone*, keep sharing). `themeAudio.label` ships to the reader
@@ -1274,6 +1281,27 @@ absences.
   the title ending, *"Yes it is"*. So the closing title cuts in on the held C,
   about 3:15 to 3:25, when a trailer uses this take. Card: a stone arch on blue misty
   moorland; does not travel. Not in `src/audio/`, for the same reason as take 1.
+
+### The Told's theme, take 1 — *Stone and Flute* (kept as the reference, not filed)
+- **Type:** generation, then a loop cut in a cloud session
+- **Tool:** MyTunes (MWM), phone app; the loop cut with ffmpeg and numpy
+- **Date:** 6 November 2026
+- **Used by:** nothing; the reference for the Told's *Cavern ambient* remake
+- **Prompt:** the 193-character line under *The Told*, verbatim
+- **Settings:** Instrumental on, genre none, Live off. MyTunes gave it the title.
+- **Lyrics:** instrumental
+- **Negative:** none
+- **Notes:** 2:54. Same wrapper as the late note's takes. −15.0 LUFS integrated,
+  true peak −0.5 dBFS, LRA 7.2 LU. Measured, not heard: no sharp high-frequency
+  transients (about a tenth of the late note's take 1), a low spectral centroid
+  throughout, a loose pulse near 63 a minute, a partial near 54 Hz from about
+  0:15, quieter passages at 0:05, 1:35–1:50 and 2:10–2:20, fading from about
+  2:45. **Loop chosen by Dermot: 60 s**, cut from 85.3 s to 146.9 s of the take,
+  the pair of points 60–95 s apart whose 2 s spectra matched best, with a 2 s
+  equal-power crossfade of the tail into the head; 59.6 s long, −15.7 LUFS before
+  any turning down. A second loop, 73.6–150.6 s (75 s), was offered and not
+  chosen. Dermot's verdict: *"Keep it, 60 s loop, B"*. Card: a wooden flute across
+  a stone bowl, a water drop hanging above; does not travel.
 
 ---
 
