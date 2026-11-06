@@ -451,17 +451,19 @@ under `src/audio/` or the label goes into `lib/editions.js`.
 choosing *B* over filing the MyTunes loop on the live domain, which keeps the
 20 August ruling under *Tools*). Take 1, *Stone and Flute*, logged under *Entry
 format*, is the reference: its 60 s loop is what the remake is matched against,
-in Stable Audio or ElevenLabs Music. Until the remake is filed with the label,
-the edition keeps Five-O's track.
+in Stable Audio or ElevenLabs Music.
+
+**Filed, 6 November 2026.** The remake is `told-theme.m4a`, made in Stable Audio
+3.0 from Dermot's *"Take C"* and *"90-second loop"*, and logged under *Entry
+format*. The edition now carries it under the label.
 
 **The label is *Cavern ambient*** — Dermot's ruling, 30 September 2026,
 verbatim *Cavern ambient for the Told*, from three shapes put (*Cavern
 ambient*, *Warm stone*, keep sharing). `themeAudio.label` ships to the reader
 on the player, so the label goes into `lib/editions.js` **with the file and not
 before**: a new label over the borrowed Five-O file is the half-overridden
-player the registry warns against, in reverse. Until the track is generated
-and filed the edition keeps *Sci-fi ambient* / `starquest-theme.wav`, and the
-entry's own comment says what it is waiting for.
+player the registry warns against, in reverse. The two went in together on
+6 November 2026.
 
 ### Young Star Rangers — keeps sharing Five-O's track (ruled 30 September 2026)
 
@@ -1302,6 +1304,25 @@ absences.
   any turning down. A second loop, 73.6–150.6 s (75 s), was offered and not
   chosen. Dermot's verdict: *"Keep it, 60 s loop, B"*. Card: a wooden flute across
   a stone bowl, a water drop hanging above; does not travel.
+
+### told-theme.m4a
+- **Type:** generation, then a loop edit
+- **Tool:** Stable Audio 3.0 (`stable-audio-3`) through the Stability API; the loop cut with NumPy, levelled and encoded with ffmpeg
+- **Date:** 6 November 2026
+- **Used by:** the-told edition, *Cavern ambient*
+- **Prompt:** `Cavern ambient, warm, low, wet-stone resonance, slow, gentle, curious. Warm, curious, safe, patient, a little funny. Soft mallets on stone, low wooden flute, a small even hum close by. The hum near and small, like a device asleep against a chest. Water drips near 60 a minute, each landing a fraction behind where the ear expects it. A short figure told twice, shorter the second time. A small uncorrected detune on the flute, a few cents, never fixed. Damp close reverb in a low stone room, air and noise floor audible. Instrumental, beatless, seamless loop.`
+- **Lyrics:** instrumental
+- **Negative:** none (the API has no exclude field)
+- **Notes:** take C of three, seed 3343281250, requested at 150 s. Takes A and B
+  (seeds 2040352193 and 1810373096) were not chosen. Loop cut from 34.2 s of the
+  take, 90.2 s long, the pair of points 85–100 s apart whose 2 s spectra matched
+  best (similarity 0.998), with a 3 s equal-power crossfade of the tail into the
+  head. A 105 s loop from 35.0 s was offered and not chosen. −18.0 LUFS integrated,
+  true peak −8.1 dB, AAC 128 kb/s, 1.5 MB. Loudness range about 13 LU, against
+  *Stone and Flute*'s 7.2 for the whole take. Measured, not heard.
+  Dermot's verdict: *"Take C"*, then *"90-second loop"*. Stability's terms say a
+  generated output is not to be presented as human-made, so this entry is the
+  record that it is generated.
 
 ---
 

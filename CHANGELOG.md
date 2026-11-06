@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Told has its own footer theme** (`src/audio/told-theme.m4a`, `lib/editions.js`, `story-bible/music-prompts.md`, 2026-11-06, Opus, Dermot's *"Take C"* and *"90-second loop"*). A 90 s Stable Audio loop replaces the borrowed Five-O track on told.fianilchruinne.com, under the label *Cavern ambient* ruled on 30 September. The prompt, seed and loop point are logged.
+
 - **Drey's tables in *Bound In Behind It* end in 2719** (`src/codex/bound-in-behind-it.md`, 2026-11-06, Opus, Dermot's *"Yes, all five"* to option A). A clarification of chronology: the hearing is dated 2719, so the tables she supplied to it cannot run to 2720.
 
 - **One count corrected in the Journal entry *The Up-People's First Stone*** (`src/journal/the-up-peoples-first-stone.md`, 2026-11-06, Fable, the Benevolent Critic read of #1693). The entry said the brief was wrong in one place; the record under D6 in `story-bible/video-prompts.md` holds two, the length and the body clause, so the line now says the brief was wrong on the length. Nothing else in the entry moves. Counter-critic: 1 improvement landed; 2 changes withheld; 0 regressions dropped.
