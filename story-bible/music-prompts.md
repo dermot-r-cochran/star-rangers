@@ -1242,7 +1242,7 @@ absences.
   moss, drifting smoke) does not travel. Not in `src/audio/`: no page or film uses
   it yet, and the delivery-path question under *Tools* stands.
 
-### The late note, take 2 — *The Whistle's Last Note* (verdict not yet given)
+### The late note, take 2 — *The Whistle's Last Note* (kept, not filed)
 - **Type:** generation
 - **Tool:** MyTunes (MWM), phone app
 - **Date:** 6 November 2026
@@ -1259,7 +1259,8 @@ absences.
   low C (65 Hz, with its octaves and fifth) held from about 3:15 and dying away by
   3:25. The pitches read nearer C minor than the dorian asked for, unconfirmed.
   The held C is the likeliest place for the closing title. *Classic* did not
-  remove the pulse. Card: a stone arch on blue misty moorland; does not travel.
+  remove the pulse. Dermot's verdict: *"Keep it"*. Card: a stone arch on blue misty
+  moorland; does not travel. Not in `src/audio/`, for the same reason as take 1.
 
 ---
 
