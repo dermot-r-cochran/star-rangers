@@ -199,7 +199,8 @@ Paste ahead of any edition prompt below.
 ### Using these in an app with short fields
 
 `MyTunes`, Suno, Udio and the rest all take **short fields, not paragraphs**, and
-they weight the front of a box heavily. So every brief below is split into six
+they weight the front of a box heavily. MyTunes' description box holds 200
+characters and silently cuts the rest, so a one-box line for it stays under that. So every brief below is split into six
 lines, each one short enough to paste into a field on a phone:
 
 | Field | What goes in it |
@@ -537,6 +538,15 @@ may arrive in full, and the tone line and the shared negative still hold.
 
 For MyTunes' single description field, with the Instrumental switch on. Nothing has
 been generated from it yet.
+
+**MyTunes cuts the box at 200 characters** (found 6 November 2026, when the line
+above, 270 characters, was cut off at *"three tim"*). The line to paste there, 194
+characters:
+
+`Beautiful, enigmatic, haunting, dramatic, mysterious Celtic title theme, dorian, slow. Low whistle, harp, low strings, station hum, detune. Five-note motif three times, last note late. Held end.`
+
+It drops *spacer folk*, *wire-strung*, *few-cent* and *third fuller*. If takes come
+back flat, put *third fuller* back in place of *Held end*.
 
 ### The variations, by thread
 
