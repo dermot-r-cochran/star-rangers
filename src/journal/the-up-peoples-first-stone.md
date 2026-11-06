@@ -23,7 +23,7 @@ A person comes through a crack in the rock carrying a stone, kneels, and sets it
 
 It held better than I expected. The narrator has no name and needs none. The human has no face. Nothing is said in the cave that anyone can understand, because in the chapter nothing is. The generator's fluency, which invented a whole career last time, had very little room to work in.
 
-The brief was wrong in one place. It asked for three to four minutes, and the script runs just over six when spoken at the pace it asked for. Director kept the words and cut repeated picture, by its own report, and that was the right choice.
+The brief was wrong on the length. It asked for three to four minutes, and the script runs just over six when spoken at the pace it asked for. Director kept the words and cut repeated picture, by its own report, and that was the right choice.
 
 ## What took six versions
 
