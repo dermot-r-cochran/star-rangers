@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Director brief D6, version 5 recorded** (`story-bible/video-prompts.md`, 2026-11-06, Opus, Dermot's *"Fix left hand only"*). Version 5 remakes the human's left hand in the one shot of *The Up-People's First Stone* where it read as a foot. Which version stands is his, and nothing is filed.
+
 - **The narrating voice in Director brief D6 recorded as a translation** (`story-bible/video-prompts.md`, 2026-11-06, Opus, Dermot's *"Yes, add it"*). No version gives the Told a voice of their own, since the record holds no form of their speech.
 
 - **Director brief D6, version 4 recorded** (`story-bible/video-prompts.md`, 2026-11-06, Opus, after Dermot's *"Fix the last stone"*). Version 4 changes only the closing shot of *The Up-People's First Stone*. Which version stands is his, and nothing is filed.

@@ -1240,7 +1240,7 @@ station stays out of frame).
 
 ### D6. The Up-People's First Stone (S11E01C05)
 
-**Status, 6 November 2026: version 4 read; it replaces the closing shot of version 3 and changes nothing else. Which version stands is Dermot's; not filed.** See *Version 4, read* at the end of this entry.
+**Status, 6 November 2026: version 5 read; it repairs the left hand in the stone shot and changes nothing else. Which version stands is Dermot's; not filed.** See *Version 4, read* and *Version 5, read* at the end of this entry.
 
 **Status, 5 November 2026: version 3 published and read, and it clears the judging
 line as far as frames can show; not filed.** The version table and the readings
@@ -1403,6 +1403,7 @@ small closed mouth, real fur.
 | 2 | 6:31 | 5 Nov 2026 | The Pandoid remade to the answer above; repeated picture cut | No |
 | 3 | 6:31 | 5 Nov 2026 | One repair round on the faults read in version 2 | No |
 | 4 | 6:31 | 5 Nov 2026 | Closing shot only: the second stone remade to match the one set down | No |
+| 5 | 6:31 | 6 Nov 2026 | The stone shot only (2:46 to 3:23): the left hand remade; three hands near 2:48 | No |
 
 **The length.** Four minutes cannot be had. By Director's report the script
 alone runs just over six minutes spoken, so it kept every word and cut
@@ -1470,8 +1471,29 @@ the narration stays unverified.
 
 **The voice** (6 November 2026, after Dermot heard it and asked: *"Is that meant to the voice of a Pandoid or just a translation voiced by a human?"*). A translation. The brief names no voice, and Director's sounds human to him, which is right: the record holds no form of the Told's speech (`src/glossary/the-told.md`), so a voice made to sound like a Pandoid would invent what the record declines to, the line `music-prompts.md` draws under *Where a track may not be generated at all*. A later version keeps a plain human voice reading the translation, with no accent or effect to suggest a speaker of the Told.
 
-**Recommended: version 4**, since it is version 3 with its weakest shot repaired. No further
-round is recommended, because what remains is small or a matter of taste. Which version
+**Version 5, read, 6 November 2026.** Dermot heard version 4 and caught a fault the reading
+above missed: from about 2:54 the left hand, the lower of the two in frame, had short thick
+bunched fingers and no clear thumb, and read as a foot. One note at his *"Fix left hand only"*,
+run from his Chrome on Opus; Director published it at 12:03, and it is kept at
+`F:\CLAUDE\Director films\`, outside the repository. Compared with version 4 from frames each
+second, the picture differs only from 2:46 to 3:23, the one shot. The sound's level matches
+apart from one half-second at 2:47; that is a measure, not a hearing, and the narration stays
+unverified.
+
+- **Fixed:** a bare left hand at rest on the silt, four slim fingers and the thumb where it
+  belongs, through to the end of the shot.
+- **New fault:** for about a second near 2:48 three hands show, because a fist comes out of the
+  lower sleeve while the left hand is still on the stone, and the hand on the stone then goes.
+  The fist that remains stays curled, and reads a little like the old foot, until it opens
+  at about 2:51. Director reported only that the fingers stay curled for a moment.
+- **The whole shot was re-rendered**, so the right hand, the lamp and the stone are new renders
+  of the same things, and they hold.
+- **Gloves.** The record does not say whether Aravena wore them, and the hands stay bare at his
+  choice: a repair for gloves would have touched every shot with a hand in it.
+
+**Recommended: version 5 over version 4**, since its fault lasts about three seconds in
+movement against nearly thirty held still, and one more note on 2:47 to 2:51 if the three hands
+show at speed. Which version
 stands is Dermot's, after he has heard it.
 
 ### D7. Lúnasa
