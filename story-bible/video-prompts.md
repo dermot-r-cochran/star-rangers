@@ -1219,15 +1219,17 @@ sheet, hand and clipped, never paper or pen, and both frames fail a pen, as D1 d
 
 ### D4. Before the Close
 
-**Title and length.** *Before the Close.* 100 seconds; accept 80 to 120.
+**Title and length.** *Before the Close.* 110 seconds; accept 90 to 130.
 
 **Instruction to paste.**
 
-> Make a film of about 100 seconds, 16:9, on Tír na nÓg in the Celtic Union,
+> Make a film of about 110 seconds, 16:9, on Tír na nÓg in the Celtic Union,
 > in the autumn of 2826 UCSD, on a night that is not dated and is never given a
-> date. This is a reconstruction of a night nobody recorded, so the camera
-> stands only where the two witnesses stood: at a farmyard gate at a woman's
-> eye height, and on the pillow of a child's bed looking up. A stone holding
+> date. This is a reconstruction of a night nobody recorded, so that night the
+> camera stands only where the two witnesses stood: at a farmyard gate at a
+> woman's eye height, and on the pillow of a child's bed looking up. In the
+> morning it stands at the top wall, and low at the table. No human face is
+> ever shown. A stone holding
 > below a top field that rises to a line of bare trees; a gate where the yard
 > becomes the field; ewes brought down in the afternoon; a lamp put out before
 > dark; a shutter on the child's room left open a hand's width. Mairéad Ní
@@ -1237,17 +1239,20 @@ sheet, hand and clipped, never paper or pen, and both frames fail a pen, as D1 d
 > ordinary. Its edge softens on one side, as if breathed on; no second moon is
 > drawn. Low between the bare trunks a light comes up, level, a lamp's worth and
 > no more, from nothing visible. A long held low note, like a person humming
-> with the mouth shut, rises, and the light rises with it. At the tree line one
-> tall figure stands, in its own light, still, never nearer, never in focus,
-> never faced. Nothing comes down the field; nothing is set down or lifted.
-> Then it is among the trees, then there is only the light, then less; the
-> moon's edge comes back; the trees are bare trees. Inside, the child sees the
-> moon's white bar across the ceiling, then the whole ceiling come up warmer
+> with the mouth shut, rises, and the light rises with it. Within the light, at
+> the tree line, one tall stillness, seen for a breath and not looked at long,
+> never resolved, never nearer, never in focus, never faced; then the woman's
+> eye is on her own hand on the gate, and the note goes on. Nothing comes down
+> the field; nothing is set down or lifted. Then there is only the light, then
+> less; the moon's edge comes back; the trees are bare trees. Inside, the
+> child sees the moon's white bar across the ceiling, then the whole ceiling
+> come up warmer
 > and move slowly, like river light under a bridge, breathing with the note,
-> and stays where she is. Morning: the ewes go back up, the woman walks the top
-> wall counting, and does not go into the trees; nothing is on the ground. No
-> narration, no score, only the note. Four spoken lines at the table, supplied.
-> No date, no minutes, no place name, no instrument, no Ranger.
+> and stays where she is. Morning: at the table, a bowl, a child's hand beside
+> it, a woman's forearm, nobody's face, and the four spoken lines, supplied;
+> then the ewes go back up, the woman walks the top wall counting, and does not
+> go into the trees; nothing is on the ground. No narration, no score, only the
+> note. No date, no minutes, no place name, no instrument, no Ranger.
 
 **Shot list.**
 
@@ -1256,24 +1261,34 @@ sheet, hand and clipped, never paper or pen, and both frames fail a pen, as D1 d
    moonlight.
 2. The same mount: the light coming up low between the trunks and lying
    level; moonlight and the light.
-3. The same mount, held long: one tall figure at the tree line, a small part
-   of the frame, within its own light, still; nothing else moves.
-4. Close at the same place: a hand on the top bar of the gate, the grain of
-   the wood; moonlight; nothing moves.
+3. The same mount, about four seconds: within the light, at the tree line,
+   one tall stillness, a small part of the frame, unresolved, never in focus,
+   never nearer; nothing else moves; the note.
+4. Close at the same place, held long: a hand on the top bar of the gate, the
+   grain of the wood; moonlight; the note stays over the hand, rising, and
+   nothing moves.
 5. Camera on the pillow looking up: the moon's white bar across the ceiling,
    then the ceiling coming up warm and moving slowly, breathing; the light
    from the window gap.
 6. The gate mount: the light going down between the trunks; the moon's edge
    returning; the trees bare.
-7. Morning, camera at the top wall, low sun: ewes going up the field, a woman
+7. Morning, low fixed camera on the table, about ten seconds: a bowl, a
+   child's hand beside it, a woman's forearm resting on the wood; beyond
+   focus on the plain wall, one sealed plain housing with a grain-sized
+   steady indicator, the only made light in the film; the four lines, spoken
+   off; no face.
+8. Morning, camera at the top wall, low sun: ewes going up the field, a woman
    walking the wall counting, the trees behind her not entered.
 
-**Narration.** No narration. Four lines at the table in the morning, the
-child's then the mother's: *Were they there?* *The moon was.* *I saw the
-ceiling.* *So did I, once.*
+**Narration.** No narration. Four lines at the table in the morning, over
+shot 7, the child's then the mother's, from off frame, no mouth shown:
+*Were they there?* *The moon was.* *I saw the ceiling.* *So did I, once.*
 
-**Negatives as objects.** The shared negative, plus: no face, features, eyes,
-ears or hands on the figure; no pointed ears, wings, robes, crown or staff;
+**Negatives as objects.** The shared negative, plus: no human face, no face
+at the table, no reflection of one; no face, features, eyes, ears or hands on
+the figure, and no figure held or dwelt on; no pointed ears, wings, robes,
+crown or staff; at the table no almanac, page or print in frame, no meter box,
+switch, socket, thermostat or lamp on the wall;
 no second figure, no procession; no doorway, arch, portal, tunnel or ring of
 light; no beam; no light from above or behind the trees; no second moon in
 frame, no eclipse disc, no red moon; no aurora, sparkles, fairy lights or
