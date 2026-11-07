@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Reading Plan reviewed for a first-time reader; nothing on the page changes** (`story-bible/intake-2026-11-07.md`, 2026-11-07, Fable, Dermot's *"A general review and simplification of the start page"*). Sen's note, the first chapter link, the Lore and Codex authority line and the six storyline cards all hold. Three cuts were proposed (the chapter link above the two-paths paragraph, one clause, the caption's units sentence) and the counter-critic withheld all three as changes rather than improvements, so the page stands at 1,303 words. The intake records them, with the article in *the Tissadelle Shepherd's Arc* and the diagram's young adult label, as options for Dermot with *leave it* the default.
+
 - **Storyline blurbs use the em dash** (`lib/storyline-threads.js`, 2026-11-07, Opus, Dermot's *"Yes, fix them"*). Seven reader-facing thread descriptions, shown on the Reading Plan and the thread pages, joined their clauses with a spaced hyphen where the rest of the site uses an em dash; they now use the em dash. Comments untouched.
 
 - **D1's second version recorded, and a Director brief now binds only canon** (`story-bible/video-prompts.md`, 2026-11-07, Opus, Dermot's *"Yes, agreed"* and *"Stop, keep v2"*). The new section *A brief binds canon; the rest is offered* sets what Director may invent: anything that keeps to canon, contradicts no written prose or canon film, and obeys physics and xenobiology except where canon licenses a deviation. Repair notes name faults only. Version 2 of *Incident Report 001* is read and kept, not filed: its clean clocks and digits hold, and two hand shots stay faulty after a repair round was stopped.
