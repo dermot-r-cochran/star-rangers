@@ -4,6 +4,7 @@ title: "Thavren"
 category: "Locations"
 tags: [thavren, ovruhn, federation-of-sentient-beings, haze-world, acoustic-sense, locations]
 description: "The home world of the Ovruhn and a member world of the Federation: a heavy world under air deep enough to be a landscape, roofed by a haze no season thins, where light comes from everywhere and sound carries for tens of kilometres."
+plain: "Thavren is the home world of the Ovruhn and a member world of the Federation of Sentient Beings. It is a heavy world under deep air, roofed by a haze no season thins: days are bright but shadowless, and nothing is seen sharply past a stone's throw. Sound carries for tens of kilometres through that air and the rock beneath, so the Ovruhn came to know their world by hearing it, and nothing arrives there unannounced. Its record is kept by chorus, not in writing, and it joined the Federation in its own unhurried time."
 galaxy: "Milky Way"
 locationType: "Planet"
 ---

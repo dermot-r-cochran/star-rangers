@@ -4,6 +4,7 @@ title: "The Star Rangers Academy"
 category: "Institutions"
 tags: [star-rangers, academy, training, certification, cadet-intake, guild, corps, branches, xenolinguistics, survey-corps, institutions, young-star-rangers]
 description: "One academy, organised as a college per corps and a school per branch — who runs the Corps' training, why the command ladder has no say over it, and why a certification the Council of High Captains cannot revise is the thing that makes the whole ladder appealable."
+plain: "The Star Rangers Academy is one institution in many places: a college for each corps and a school for each branch within it. The colleges answer to the corps' own leaders, not the command ladder, so even the most senior officers cannot change what a certification means, which is what makes promotion below Chief appealable. There is no college for command; above Chief the Corps mentors rather than examines. Instructors are serving officers on a posting, failures are taught by name, and the college, not the command chain, confirms a Novice as Cadet."
 image: "star-rangers-academy.jpg"
 image_alt: "Designed cover for the Star Rangers Academy: concentric brass rings in a tinted seal on a deep slate background, one institution enclosing its colleges and their branch schools."
 ---

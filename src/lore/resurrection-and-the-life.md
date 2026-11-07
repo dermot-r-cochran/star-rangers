@@ -4,6 +4,7 @@ title: "The Resurrection and the Life"
 category: "Cosmology"
 tags: [cosmology, kieme, death, resurrection, spiritual-life, church-space]
 description: "The church-space telling of what happens to a person at death — where the Archive keeps conservation, translation and the general resurrection in three files so nobody runs them together, devotional tradition answers that it drew those lines first: life beyond death rather than life after it, and a last day that is neither."
+plain: "The Archive keeps three separate files on death: the conservation of every mind at the Conceptual layer, Kieme's translation of an essence into the Spiritual layer, and the general resurrection at the end of time, which it files as out of scope. The church-space telling says the tradition drew those lines first. Its hope is not life after death, a resumed life on the same clock, but life beyond death, already begun and not stopped by dying. The resurrection is a second, separate promise, about bodies, still ahead. The telling refuses to collapse any of the three into another."
 image: "resurrection-and-the-life.jpg"
 image_alt: "A burial ground at first light, low walls of pale seamless composite with an open gap for a gateway, the first sun catching the far wall's top, and rows of plain smooth rounded markers with nothing on them in wet grass."
 ---

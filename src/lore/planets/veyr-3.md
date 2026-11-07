@@ -4,6 +4,7 @@ title: "Veyr-3"
 category: "Locations"
 tags: [veyr-3, veyr, basaltborn, high-gravity, volcanism, locations]
 description: "The home world of the Veyr Basaltborn: active basaltic volcanism, dense mineral aerosols, continuous micro-shocks and a gravity under which human joints degrade within a generation, where heat was free and nothing stays true."
+plain: "Veyr-3 is the home world of the Veyr Basaltborn. It is a world of active volcanoes, air thick with scouring mineral dust, ground that never stops shaking, and gravity heavy enough to wear out human joints within a generation. Heat and pressure came free there, so the Veyr had metalwork early; what the world made hard was precision, since anything built on Veyr-3 is shaken out of true from the moment it is finished. Veyr engineering grew from that: margin, tolerance, redundancy and the honest statement of a rating."
 galaxy: "Milky Way"
 locationType: "Planet"
 ---

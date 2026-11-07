@@ -4,6 +4,7 @@ title: "The Star Rangers Science Corps"
 category: "Institutions"
 tags: [star-rangers, science-corps, chief-science-officer, survey-corps, boundary, research, institutions]
 description: "The Star Rangers Science Corps: the guild-independent research body that interprets what the Survey Corps collects, and the Chief Science Officer duty title that leads it post by post."
+plain: "The Star Rangers Science Corps is the research guild that explains what the Survey Corps collects, interpreting and publishing on the physical, etheric and boundary phenomena the Rangers meet. It grew out of the Military Space Command's research division, where findings sat in committee for a year or more, and was refounded so that nobody on the command ladder decides when a finding is published. A Chief Science Officer runs the science department at a post, tells a Starwarden what the data supports, and does not command. Its reputation is for being slow because it checks, not because it buries."
 image: "star-rangers-science-corps.jpg"
 image_alt: "A plain pale room aboard an installation with a long window onto black space: on a long composite bench a small smooth grey sealed ovoid sits in a round recess beside a tall stack of shut cloth-bound volumes, and a moulded chair is pushed back from the bench."
 ---

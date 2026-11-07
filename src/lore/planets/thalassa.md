@@ -4,6 +4,7 @@ title: "Thalassa"
 category: "Locations"
 tags: [thalassa, ocean-world, floating-cities, new-venice, new-atlantis, locations, nerea-system, ssdc, sol-diaspora]
 description: "A virgin ocean world settled by Sol-diaspora engineers carrying Earth's Venice and Saltmere's platform expertise off-world for the first time — its two founding cities, New Venice and New Atlantis, answering the same question in opposite registers."
+plain: "Thalassa is an ocean world in the Nerea System, almost all open water, settled by Sol-diaspora engineers who had just rebuilt Venice's foundations and no longer needed land. Its two cities answer one question in opposite ways: New Venice copies the old city's look on platform hulls, while New Atlantis builds low, plain platforms on the assumption that they will flood briefly, engineered to shrug it off. Each runs its own council under a Solar System Defence Command charter. The one thing they share is a single elected office for the seabed, which everyone calls the President of Thalassa though its own founding instrument says it is not a government."
 galaxy: "Milky Way"
 system: "Nerea System"
 locationType: "Planet"

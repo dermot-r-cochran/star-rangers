@@ -4,6 +4,7 @@ title: "Quantum Space Harmonics"
 category: "Physics"
 tags: [ftl, quantum-space-harmonic-wave, harmonics, corridor-theory, concordant, navigation]
 description: "Detailed canon rules for how quantum space harmonic corridors form, remain stable, and fail."
+plain: "Quantum space harmonics are the physics behind one of the two ways ships travel faster than light. A harmonic corridor is not a road but a temporary tunnel that forms only when the local geometry, the ship's drive and the destination all match, and closes when the match is lost. Routes recur on predictable rhythms but are never guaranteed, lock quality falls off near boundary zones, and a corridor covers about a light-year a day. It is a separate mechanism from fold transit and never a substitute for it."
 image: "quantum-space-harmonics.jpg"
 image_alt: "Two transparent spheres side by side against a starfield, threaded with fine glowing filaments that knot together where the spheres touch, a smaller ring of light inside the right-hand one"
 ---

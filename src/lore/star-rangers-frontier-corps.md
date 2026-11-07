@@ -4,6 +4,7 @@ title: "The Star Rangers Frontier Corps"
 category: "Institutions"
 tags: [star-rangers, frontier-corps, frontier, law-enforcement, caretaker-clause, charter, institutions, colonies, sheriff]
 description: "The specialist corps that serves as caretaker law enforcement on frontier worlds with no local government or law of their own — not even a sheriff — and whose mandate on every world it serves is designed to end."
+plain: "The Frontier Corps is the Star Rangers' caretaker police for frontier worlds with no government or law of their own, not even a sheriff. It serves under a standing invitation the colonists sign before landing, enforcing the colony's own compact and Concord baseline law, and its mandate ends the moment the colony swears in any officer of its own. Frontier Rangers are non-combatant peacekeepers; their real power is the record they keep, which follows a wrongdoer across every jurisdiction the Concord recognises. Its unresolved dilemma is a world whose government has failed or abandoned it, since a dead government cannot issue the invitation the charter requires."
 image: "star-rangers-frontier-corps.jpg"
 image_alt: "A young settlement of low lit habitat modules and its fusion unit's grey box seen at dusk across wet ground, a single set of boot prints leading away from it past the camera, the first green field at its edge, a pale moon and an ascent javelin's trail in a clear band of sky"
 ---

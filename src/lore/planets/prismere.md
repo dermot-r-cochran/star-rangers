@@ -4,6 +4,7 @@ title: "Prismere"
 category: "Locations"
 tags: [prismere, iridess-system, biosphere-planet, prismeri, federation-of-sentient-beings, locations, lattice]
 description: "A ringed biosphere world lit by its own crystalline biosphere as much as by starlight — home to the Prismeri and to the naked-eye fold-corridor phenomenon Survey Corps astrogators call the Lattice."
+plain: "Prismere is a ringed planet in the Iridess System and a Federation member world whose life is built from glass and crystal and glows in the dark. Crystal dust in its upper air makes the unusually dense fold-space corridors overhead visible as faint lines and figures across the night sky, a pattern astrogators call the Lattice. Its people, the Prismeri, can sense that geometry in their bodies, and reading corridor conditions for the Federation and the Survey Corps is the world's main contribution to the Ranger support compact."
 image: "prismere-orbital-vista.jpg"
 image_alt: "A wide night view from a rocky ridge: a broad pale ring plane slanting across a crowded sky past two small ringed worlds and several small moons, a dim valley of crystal forest glowing faintly far below, and an armoured grazer with a crest of crystal spines standing at the ridge edge for scale"
 galaxy: "Milky Way"

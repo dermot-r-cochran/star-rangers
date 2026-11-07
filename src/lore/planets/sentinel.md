@@ -6,6 +6,7 @@ revised_by: [s03e01c04]
 category: "Locations"
 tags: [sentinel, halyx-system, meridian, cerebraun-hegemony, em-pulse, tissadelle-shepherd, anomaly, boundary-adjacent, locations]
 description: "An airless, uninhabited world in the Halyx System, catalogued for centuries as an automated hazard beacon — until a Star Ranger with a musician's ear caught the structure in its EM pulse that pattern-recognition software had been filtering out as noise."
+plain: "The Sentinel is a small airless world in the Halyx System, near Meridian, with no life, no air and nothing worth mining. Something under its surface sends out a steady electromagnetic pulse that Cerebraun surveys filed for centuries as an old hazard beacon. Tissadelle Shepherd played the signal as sound and heard structure in it — repetition with variation, like music. That got the world reclassified as an anomaly. What the pulse is, where it comes from, and whether it has anything to do with Meridian are still unknown."
 galaxy: "Milky Way"
 system: "Halyx System"
 locationType: "Planet"

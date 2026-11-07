@@ -4,6 +4,7 @@ title: "Saint Aoife"
 category: "Culture"
 tags: [saint-aoife, celtic-union, culture, devotional-traditions, levril, brother-daire]
 description: "A locally venerated Irish holy woman of the thirteenth century, carried into space as living devotion by the Currach Fleet, and the founding figure of the Celtic Union's most-cited reinterpretation debate between hagiography and Levril encounter."
+plain: "Saint Aoife was a holy woman of thirteenth-century Ireland, never recognised by any higher authority but kept as a saint by her own community and, centuries later, by the Celtic Union, whose founders carried her feast off Earth as living devotion. Her story rests on one vision at a thorn well, after which the well ran warm for three days and the sick she treated with its water recovered at a rate her community found remarkable. Union scholars now read that vision as matching a Levril encounter; the older devotional reading stands beside it, the Union has not chosen between them, and the record does not say what she met."
 image: "cill-aoife-devotion.jpg"
 image_alt: "A rounded niche set into the pale composite wall of a ship's corridor, a few sprigs of white blossom in a small glass of water and a smooth dark stone inside it, its rim worn smooth. The clean corridor curves away beside it, a handrail along the wall, and far down it one person walks away."
 ---

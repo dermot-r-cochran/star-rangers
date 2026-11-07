@@ -4,6 +4,7 @@ title: "The Solar System Concord"
 category: "Institutions"
 tags: [concord, solar-system-concord, governance, law, standards, tycho-accords, history, ai-safety-kernel, institutions]
 description: "The Solar System's continuing body of shared civil law and standards, founded with the Tycho Accords in 2543 UCSD as the Solar System Concordant and restyled the Concord in 2790 — the compact that every government since has enforced, and none has owned."
+plain: "The Solar System Concord is the Solar System's standing body of shared civil law and standards — what a person is, how AIs are governed, how cyborgs are certified, how ships identify themselves. It was founded in 2543 UCSD under the Tycho Accords as the Solar System Concordant, a name borrowed deliberately from cosmology and far too large for one star system, and restyled the Concord in 2790. It is not a government: it has no fleet, no executive and no territory, and works through slow public commissions. Every government since has enforced it, and none has owned or replaced it."
 image: "solar-system-concord.jpg"
 image_alt: "A single unbroken ring of identical pale desks and grey chairs, with no head of table and no emblem, in an empty coved chamber of seamless pale composite on Mars, a long low window along the far wall looking out on an ochre Martian plain under a butterscotch sky"
 ---

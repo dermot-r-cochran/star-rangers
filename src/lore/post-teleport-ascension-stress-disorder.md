@@ -4,6 +4,7 @@ title: "Post-Teleport Ascension Stress Disorder"
 category: "Medicine"
 tags: [teleportation, ptasd, medical-corps, safety-corps, boundary-zone, etheric, cosmic-cascade, psychology]
 description: "A Medical Corps-recognised clinical condition distinct from ordinary post-jump fatigue: personnel who teleport through boundary-proximate or fold-adjacent zones report a disorientation grief clinicians can't explain as fear, and can't fully explain at all."
+plain: "Post-Teleport Ascension Stress Disorder, or PTASD, is a Medical Corps diagnosis for what happens to some people after teleporting at or near a boundary zone. It lasts weeks or months rather than days, and patients report not fear but a sense of having been briefly beside something far larger, and of things mattering less afterwards. Both corps agree nothing supernatural reached the patient; the working idea, still contested between them, is that the jump brushed the nervous system against a structure it cannot hold. No treatment yet shortens it, and why some jumpers get it and others do not is unknown."
 image: "post-teleport-ascension-stress-disorder.jpg"
 image_alt: "Designed cover for Post-Teleport Ascension Stress Disorder: a fold device, two small points joined by a folded curve, in a pale blue-grey glow on a dark slate field, the category MEDICINE above and the title beneath, with the lines A Medical Corps-Recognised Condition and Distinct from ordinary post-jump fatigue."
 ---

@@ -4,6 +4,7 @@ title: "Shore Leave and the Neutrality Constraint"
 category: "Institutions"
 tags: [star-rangers, charter, neutrality, shore-leave, jurisdiction, officers, celtic-union, institutions]
 description: "Why an officer on personal leave is the hardest case the charter's neutrality clause has to cover, and why the Star Rangers have never written a rule that would fix it."
+plain: "A Star Ranger on personal leave at home is the hardest case the charter's neutrality clause has to cover, and the Rangers have written no rule for it. The hard case is an officer helping her family, because in a small polity a precise question about why a rule exists is already politics. Ranger status works like diplomatic accreditation: by default a polity cannot try a Ranger (the Celtic Union varies this by treaty), but it can expel her, and the Rangers never contest that. A rule strict enough to prevent the problem would stop officers going home, so the Corps issues guidance and the officer carries the judgement."
 image: "shore-leave-and-neutrality.jpg"
 image_alt: "A quiet bar on a habitat concourse in the afternoon, nearly empty, plain unlabelled bottles and glasses on plain shelves lit from behind, a jacket folded on a pulled-out stool with a half-finished drink on the counter, the concourse's matte panels beyond the opening"
 ---

@@ -4,6 +4,7 @@ title: "Trígrian"
 category: "Locations"
 tags: [trigrian, triur-system, survey-world, savanna-world, convergent-evolution, star-rangers, locations]
 description: "A harsh grassland world whipsawed by three suns, famous for an apex predator so close to a Terran lioness that the first survey team filed a seeding inquiry — and for the triple sunset that opens the burning season."
+plain: "Trígrian is a grassland world circling a close pair of suns, with a third on a wide outer orbit, so its climate swings between years of plenty and burning seasons that fire whole continents. Everything alive there is built for that swing. Its best-known animal is a predator so like a lioness that the first survey asked who had been seeding lions; it is convergence, not descent, and is now the standard teaching example. There is no settlement, only a survey station, and until the survey can say how the predators coordinate, what the protocols' sapience clause allows there stays open."
 galaxy: "Milky Way"
 system: "Triúr System"
 locationType: "Planet"
