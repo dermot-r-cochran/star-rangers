@@ -15,10 +15,12 @@ permalink: /seasons/s02/e10/
 
 <h1 class="page-title">Season 2 · Episode 10</h1>
 <p class="page-intro">
-  Muffin gets bored of the galley door and sits down on the walkway, and the whole deck stops to give it
-  things. The bureau is asked to do something and nobody can write the word. A boy comes to tell the
-  rabbit that his cat is fine, finds the wrong rabbit, and does the one thing the agency's file says
-  works. It takes him four seconds, and he does not notice it was hard.
+  Muffin, the small warm creature that came back from Drithane in <a href="/star-rangers/seasons/s02/e03/">Episode 3</a>,
+  gets bored of the Deck 7 galley door and sits down on the walkway, and the whole deck stops to give it
+  things. The bureau is asked to do something about it, and nobody can write the word. Then Lev, the boy
+  whose cat Bubochka found in <a href="/star-rangers/seasons/s02/e07/">Episode 7</a>, comes to tell the rabbit
+  his cat is fine, finds Knopka instead, and does the one thing the agency's file says works. It takes him
+  four seconds, and he does not notice it was hard.
 </p>
 
 {% set seasonNumber = "2" %}
