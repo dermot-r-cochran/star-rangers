@@ -4,6 +4,7 @@ title: "The Thin Inheritance"
 category: "Physics"
 tags: [soils, agriculture, physics, planets, erosion, terraces, fertility]
 description: "Soils on habitable worlds: the one substance that needs stone, water, life and time together — an inch a century, eaten daily — and the half-metre every civilisation on land actually lives from."
+plain: "Soil is the one substance that needs rock, water, life and time together, and the slowest-made infrastructure any world has: an inch a century, lost faster wherever anyone is careless. Read strictly it is the mountain on its way to the sea, paused, and farming is the art of holding it still. Trígrian, the most violent world on file, has the deepest soils, because its burning seasons and dust storms bring minerals up; but minerals alone are not soil, and Fliade's lifeless rock flour shows it. Soil is a natural archive like ice and tree rings, except that its keepers eat it."
 image: "the-thin-inheritance.jpg"
 image_alt: "A dense cluster of pale yellow fungi growing from a fallen branch among moss and brown leaf litter on a woodland floor; one of Dermot's own frames, the soil being made"
 ---

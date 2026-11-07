@@ -4,6 +4,7 @@ title: "The Cost of the Crossing"
 category: "Physics"
 tags: [islands, archipelagos, isolation, physics, planets, seamounts, endemism, habitats]
 description: "Islands and archipelagos on habitable worlds: what makes an island is not the water but the crossing, an archipelago is a mountain range that lost an argument, and the record's most important island is a planet."
+plain: "An island, in the survey's reading, is made by the crossing, not the water: the same strait can be a ferry ride on one world and a season's gamble on another. An archipelago is a drowned mountain range, and the surveyed water worlds show every stage of that drowning. Isolation preserves what a connected world overwrites, which is how the Five Islands kept a civilisation of their own, and it forces each island to specialise. The same reading applies to domes, habitats and even a planet: Tír na nÓg, the only naturally human-compatible world, is the record's most important island."
 image: "island-watchtower.jpg"
 image_alt: "A low green island across dark open water under a heavy shelf of cloud: bare rock at the tideline, grass above it, a round stone watchtower on the summit and the gabled ruin of a small stone house standing further along the ridge."
 ---

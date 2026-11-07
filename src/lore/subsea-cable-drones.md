@@ -4,6 +4,7 @@ title: "The Subsea Cable Warden Programme"
 category: "History"
 tags: [earth, history, pre-expansion, infrastructure, classified, drones, subsea, cable-network, early-expansion]
 description: "The classified autonomous underwater vehicle programme that protected Earth's subsea data cable network during the Early Expansion period — and why its existence was not officially acknowledged for over two centuries."
+plain: "The Subsea Cable Warden Programme was a secret fleet of autonomous underwater vehicles that guarded Earth's seabed data cables from about 2041 CE. The cables carried most of the world's data and were easy to break, so the vehicles watched them, drove off interference and mended breaks faster than any surface ship. It stayed classified for 187 years, at first because its rules of engagement would not have survived public view, later through inertia and habit. Its quiet repairs helped keep Earth's communications working through the climate crises of the 2130s and 2140s, when the first off-world outposts depended on them."
 image: "subsea-cable-drones.jpg"
 image_alt: "Designed cover for the Subsea Cable Warden Programme: a light-blue wave emblem in a ringed seal, on a dark background."
 ---

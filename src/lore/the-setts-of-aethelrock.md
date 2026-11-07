@@ -4,6 +4,7 @@ title: "The Setts of Aethelrock"
 category: "Culture"
 tags: [aethelrock, celtic-union, clan-world, culture, cloth, clan-avalon]
 description: "The five landholding clans of Aethelrock each weave their cold-weather cloth in a sett of their own, still worn every day as a matter of choice and custom: the one patterned cloth the record knows on any world."
+plain: "A sett is the repeating pattern of a tartan, the order and width of its coloured threads. On Aethelrock each of the five landholding clans weaves its cold-weather cloth in a sett of its own, worn every day by choice and custom, never as a uniform: nobody is obliged to wear one, and nobody is turned away for wearing another's. The record gives the five colour pairs and does not say what they mean. They are the only patterned clan cloth the record knows on any world; an Aethelrock Ranger leaves the sett off on duty and puts the scarf back on after."
 ---
 
 **A sett** is the pattern a tartan repeats: the order and width of the coloured threads, the same in the warp as in the weft, so that the stripes cross into squares. On [Aethelrock](/star-rangers/lore/planets/aethelrock/) the cold-weather cloth is tartan-woven, and each of the five landholding clans weaves its own sett. They are in daily use, not kept for ceremony: the scarf at a clan head's throat on a quayside at first light is the same cloth a herder wears walking the grazing marches.

@@ -6,6 +6,7 @@ tags: [fusion, energy, technology, no-antimatter, frontier, frontier-transformat
 image: "the-fusion-ceiling.jpg"
 image_alt: "The edge of a young frontier settlement: a plain grey fusion core box behind a railing on a concrete pad, two colonists digging with long-handled hand tools beside a rack of more, low rounded composite modules banked with earth behind, and an ascent javelin's trail climbing the late sky"
 description: "Why nuclear fusion is the top of the Concord's energy ladder — no antimatter reactors, no exotic power taps, and no need for them — and why the ceiling that is sufficient everywhere is still slow to raise on a frontier world."
+plain: "Nuclear fusion is the most powerful energy source the Concord has, and the most powerful it will ever have. There are no antimatter reactors or exotic power taps: antimatter costs more energy to make than it gives back, is a standing explosion to store, and breaks the Kernel Accords' rule against waste. The ceiling has never stopped a project; what it sets is a schedule. A fusion plant is heavy industry, so a new colony runs on rationed imported cores in its first years and takes a decade or more to build its own plant, and a high-gravity world is easier to land on than to leave for its first decades."
 ---
 
 Every era dreams about the power source after this one. The Concord's engineers stopped dreaming several centuries ago, not out of resignation, but because they did the arithmetic and went back to work.

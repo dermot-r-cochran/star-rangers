@@ -4,6 +4,7 @@ title: "Where the Weather Stops"
 category: "Physics"
 tags: [caves, caverns, underground, karst, physics, planets, fliade, geology]
 description: "Caves and the underground on habitable worlds: the one country every world has and almost no survey finishes — where the weather stops, the mean is remembered, and everyone who moves in came for the same reason."
+plain: "Every world has an underground, and almost no survey finishes it. A few metres down the day disappears, a few tens the seasons, and a deep cave settles at its surface's long-term average temperature and holds it, so a cave is a natural record of the mean climate. Only three things hollow rock at scale: water dissolving soluble stone, lava draining from under its own crust, and nothing at all in hard granite. The underground cannot be read from orbit; it has to be walked. Everyone who moves underground — fungus, herds, the Pandoids, hermits, quantum computers — comes for the same thing: constancy."
 image: "where-the-weather-stops.jpg"
 image_alt: "From inside a dry cave a few metres from its mouth, snow blowing hard past the opening in grey daylight, still air and dry stone inside, a single plain cylindrical instrument standing on the floor"
 ---

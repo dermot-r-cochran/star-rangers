@@ -4,6 +4,7 @@ title: "Who Governs a Universe"
 category: "Cosmology"
 tags: [cosmology, cascade, worldwright, concordant, concordant-zone, concordant-principal, universal-authority, telearch, governance]
 description: "The two distinctions every Cascade primer eventually needs: a primary universe versus the Concordant Zones inside it, and Telearchs versus Concordant Principals versus Universal Authorities."
+plain: "Two distinctions clear up most confusion about the Cosmic Cascade. First, a primary universe, made by a Worldwright, is not the same as the Concordant Zones inside it, each a region where one rule-set holds; a zone exists only inside a universe. Second, three offices are often mixed up. A Concordant Principal, or Harmonarch, keeps one zone's rules running. A Universal Authority is not a higher being but those Principals in council, with a founder or lead Harmonarch presiding, keeping the whole universe in balance. A Telearch belongs to the Cascade itself, outside any universe, and keeps neighbouring zones and universes reconciled."
 image: "who-governs-a-universe.jpg"
 image_alt: "An abstract diagram of nested translucent spheres and rings drawn in gold against a dark starfield"
 ---

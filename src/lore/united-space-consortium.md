@@ -4,6 +4,7 @@ title: "United Space Consortium"
 category: "History"
 tags: [usc, united-space-consortium, history, governance, solar-system, faction, predecessor]
 description: "The United Space Consortium: the Solar System's first attempt at interplanetary governance, and why it failed to survive contact with its own contradictions."
+plain: "The United Space Consortium was the Solar System's first interplanetary government, founded around 2140 CE and lasting about a century and a half. It grew from a docking treaty into an elected assembly, but that assembly needed near-consensus to act, so Earth and Mars interests could block the outer settlements indefinitely. After decades of accumulated failure the Titan Water Rights dispute tipped it over, and the Coherence Wars followed. Its failure was one democratic design failing, not democracy itself — a distinction the Imperium that came after ignored. Its navigation law and boundary monitoring survived, and the Survey Corps still traces part of its lineage to them."
 image: "united-space-consortium.jpg"
 image_alt: "Designed cover for United Space Consortium: three concentric rings in a warm sand-gold glow on a dark brown-black field, the category HISTORY above and the title beneath, with the lines The First Attempt at Interplanetary Governance and And why it did not survive its own contradictions."
 ---

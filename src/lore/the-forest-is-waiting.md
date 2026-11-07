@@ -4,6 +4,7 @@ title: "The Forest Is Waiting"
 category: "Physics"
 tags: [forests, woodlands, trees, biomes, physics, planets, canopy, succession]
 description: "Forests and woodlands on habitable worlds: the default cover of watered land, a century-long bet on the climate keeping its word, and the living half of the archive the glaciers keep frozen."
+plain: "On every watered world surveyed, forest is what the land turns into when grazing and fire stop, so it is the default cover, not one outcome among several. But a tree is also a bet that the next century will resemble this one, which is why Trígrian, whose climate keeps no promises, has no forests. A canopy makes its own weather and can comb water from mist, and old trees keep a living year-by-year archive. Prismere's glasswood is a true wood doing a second job; dryadic groves follow Etheric faults rather than water and are not forestry at all."
 image: "drowned-forest.jpg"
 image_alt: "Bleached dead tree trunks standing bare out of open lake water, rafts of green weed drifting at their feet and a hazy blue hill on the far shore behind them."
 ---

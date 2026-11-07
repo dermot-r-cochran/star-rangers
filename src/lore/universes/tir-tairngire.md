@@ -5,6 +5,7 @@ category: "Universes"
 revealed_by: s01e00c13
 tags: [tir-tairngire, tir-na-nog, filinesse, membrane-resonance, gravity-tunnel, meta-dimensional, celtic-union, conjunction]
 description: "A primary universe whose membrane sits close enough to Tír na nÓg's own Concordant to open a transient gravity tunnel on a predictable rhythm — whose native sapients cross during the window, which the Celtic Union has quietly called the Good People long before Survey Corps had a mechanism for any of it — and whose interior, glimpsed through that window, is the peaceful fields of light of Filinesse, where sound and light harmonize."
+plain: "Tír Tairngire is a primary universe whose membrane lies so close to Tír na nÓg's that the gap between them cycles on a regular rhythm, loosely matching Tír na nÓg's Conjunction, where other boundary zones drift. At its peak the gap opens a short-lived gravity tunnel, and the Caomhari, whom the Celtic Union calls the Good People, cross bodily and withdraw before it closes; no crossing has ever shown a feeding sign. Through the window witnesses see Filinesse, calm fields of light where sound and light are coupled. The Union keeps the crossings quiet by long custom, and why the rhythm matches the Conjunction is unconfirmed."
 image: "universes/tir-tairngire.jpg"
 image_alt: "Regular blue wave-fronts on the left meeting a broad gold field on the right, with a dark circular aperture open at the boundary between them"
 ---
