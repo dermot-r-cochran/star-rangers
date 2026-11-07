@@ -4,6 +4,7 @@ title: "Embodied Cognition: Why a Body Sometimes Beats a Bigger Mind"
 category: "Technology"
 tags: [ai, embodied-cognition, world-model, rook-7, eden-warden, ai-safety-kernel, smart-pet, boundary-zones, technology]
 description: "Why a small embodied intelligence with a grounded world model routinely resolves what a vastly larger ship or habitat AI cannot — and why the Concord's standing practice is to pair them rather than choose."
+plain: "The Concord runs two kinds of lawful mind: vast systems minds that manage ships and habitats from reported data, and small embodied minds — analytical chassis, mobile humanoids, cyber-enhanced animals — that learn by moving through one place and being corrected by it. A systems mind knows what the instruments report; an embodied mind can go and look. Where telemetry contradicts itself, as in boundary zones, or a station has drifted from its own drawings, the small mind often resolves what the large one cannot. Neither is ranked above the other: the Concord pairs them, and extends the pairing to a Krenyi, whose body is itself the instrument."
 image: "embodied-cognition.jpg"
 image_alt: "A small, compact, pale grey analytical robot chassis with a recessed lens and one slender jointed arm laid flat against the wall of a clean machine hall. Behind it, out of focus, rows of large smooth sealed grey housings recede into the distance, each with one small light."
 ---

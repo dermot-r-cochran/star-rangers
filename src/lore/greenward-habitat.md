@@ -4,6 +4,7 @@ title: "Greenward"
 category: "Locations"
 tags: [greenward, verdance, calyx-system, federation-of-sentient-beings, space-habitat, reciprocal-instrument, star-rangers, locations, human]
 description: "The human habitat in orbit around Verdance — one half of a reciprocal instrument with the Federation of Sentient Beings, and the half whose occupants could go down if the rule were only about air."
+plain: "Greenward is a human habitat ring in high orbit above Verdance, holding two hundred and forty people who mostly never land on the world below. It is one half of a reciprocal instrument — a short agreement between the Federation of Sentient Beings and the Star Rangers — whose other half is the Federation's Guest Ring above Drithane: each keeps one orbital presence at a world of the other's, and neither descends. Both call it symmetrical; the record shows three places where it is not. Its purpose is a standing presence in each other's ordinary life. Greenward also watches Verdance and keeps a record it has no standing to report."
 image: "greenward-habitat.jpg"
 image_alt: "Greenward, a plain grey habitat ring turning above the cloud-banded limb of a green and blue world, four thin spokes running in to a small central hub, with one flat radiator panel standing straight out from the hub along its axis; nothing docked, nothing lit, and nothing joining it to the ground"
 galaxy: "Milky Way"

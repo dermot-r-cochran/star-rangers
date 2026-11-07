@@ -4,6 +4,7 @@ title: "The Cosmic Cascade"
 category: "Cosmology"
 tags: [cosmology, cascade, hierarchy, hyperomnium, kieme, conseleme, worldwright, concordant, telearchs, mediarchs, celestials, levrils, champions]
 description: "The strict hierarchy of causal authority in the Grand Ensemble Multiverse, from Hyperomnium to Champions/Heroes."
+plain: "The Cosmic Cascade is the fixed ordering of causal authority in the Grand Ensemble Multiverse, from Hyperomnium at the top down through the design tiers, Worldwrights, Telearchs, Mediarchs and Celestials to Levrils and the Champions they choose. Causality runs downward and never reverses. The Cascade encodes no virtue or punishment, one contested exception aside, and allows no magic, no time travel and no direct appearance of anything above the Celestials; the higher strata reach the world through structure, design, avatars, Champions and prophets, never in person. The past is fixed and the future open. It is the framework the Archive files against, not a majority view."
 image: "cosmic-cascade.jpg"
 image_alt: "A night-sky photograph of the Milky Way, its band of violet star clouds and dark dust lanes running diagonally across the frame, thousands of individual stars resolved around it, a thin meteor streak at the upper left and a warm orange glow along the horizon at the bottom."
 ---

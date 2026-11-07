@@ -4,6 +4,7 @@ title: "Cerebraun"
 category: "Species"
 tags: [cerebraun, species, cerebraun-hegemony, multiple-brains, cephalopod-analog]
 description: "A multi-brained species, cephalopod-like to a human eye, whose distributed cognition and layered inner lives resist easy translation for singly-brained observers — and the founding people of the Cerebraun Hegemony."
+plain: "The Cerebraun are a sapient people who look cephalopod-like to a human eye, though they share no descent with any Earth animal. Their thinking is spread across nine centres: one central brain that speaks for the person and eight limb-ganglia with moods of their own, which the brain negotiates with rather than commands. They talk on two channels at once, words and skin-display, and humans reliably miss the second. Their Hegemony governs on the same one-voice model, and their account of humans as predators who moderated late is filed as one view among many, not adopted."
 image: "cerebraun.jpg"
 image_alt: "Designed cover for Cerebraun: a plain circle in a soft glow under the category Species, with the title below, on a dark violet-black background."
 ---

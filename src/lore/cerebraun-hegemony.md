@@ -4,6 +4,7 @@ title: "The Cerebraun Hegemony"
 category: "Factions"
 tags: [cerebraun-hegemony, faction, cerebraun, meridian, hegemony]
 description: "A centralized multi-world power built around a single dominant authority and subordinate administrations — the political mirror of the Cerebraun species' own multi-brained physiology."
+plain: "The Cerebraun Hegemony is the state that governs the Cerebraun, and the largest polity on record, reaching thousands of star systems. One central authority, the Prime Ganglion, sets policy, and an appointed Administrator-Voice holds the final say on each world under it, native peoples included. The Cerebraun see this as their own many-brained bodies translated into politics. The Hegemony keeps the Star Rangers at a correct distance: it funds nothing it does not command and has declined a non-voting seat on their Oversight Council. Its dealings with the Celtic Union are made world by world, with the Rangers as go-between when one is needed."
 image: "cerebraun-hegemony.jpg"
 image_alt: "Designed cover for The Cerebraun Hegemony: a teal hexagonal emblem in a ringed seal, on a dark background."
 ---

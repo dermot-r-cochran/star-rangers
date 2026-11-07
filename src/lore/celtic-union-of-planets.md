@@ -4,6 +4,7 @@ title: "The Celtic Union of Planets"
 category: "Factions"
 tags: [celtic-union, faction, diaspora, colonisation, tir-na-nog, currach-fleet, aethelrock]
 description: "A decentralised confederation of human worlds descended from a pre-fold generation fleet that left Earth to preserve Celtic language and culture — reconnected with the Solar System only within the last generation."
+plain: "The Celtic Union of Planets is a loose confederation of six human worlds descended from the Currach Fleet, six sublight generation arks that left Earth about a century and a half before fold travel to keep the Celtic languages alive. Its centre is deliberately weak: each world governs itself, a rotating council mediates but cannot overrule, and the Uachtarán and Seanad are ceremonial. Its Irish was rebuilt by linguists after the long transit thinned the spoken tongue. The Solar System found the Union again only within the last generation, and relations are cordial and cautious. Its flagship world is Tír na nÓg."
 image: "celtic-union-of-planets.jpg"
 image_alt: "Designed cover for the Celtic Union of Planets: a gold Celtic knotwork emblem in a ringed seal, on a dark background — not an Earth wildlife photo."
 ---

@@ -4,6 +4,7 @@ title: "Catastrophic Failure in Fold Transit"
 category: "Technology"
 tags: [fold-drive, fold-transit, safety-corps, certification, standards, the-institute, wrath-of-the-dragons, boundary, loss]
 description: "Why vessels are lost in and around fold transit, why the losses cluster on hulls certified to somebody else's standard, and the three accounts settled space gives of the same wreckage."
+plain: "Nothing has ever been lost inside a fold. Vessels are lost at the two ends, where the aperture forms and collapses, and the losses cluster on hulls certified to a weaker standard than the Star Rangers Safety Corps' or to none at all. The Corps' standard is slow and resented, and it cannot force anyone to use it. A separate Navigation Corps certificate covers the route, which drifts and expires. Settled space gives three accounts of the same wreckage — the devotional 'Wrath of the Dragons', the Institute's physical one, and a scholarly doubt about the record itself — and the Archive keeps all three without choosing."
 image: "fold-transit-catastrophic-failure.jpg"
 image_alt: "A single slab of dark metal on a scarred workbench in low light, one edge sheared clean and bright, the rest dull"
 ---

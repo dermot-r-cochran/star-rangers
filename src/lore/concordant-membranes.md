@@ -4,6 +4,7 @@ title: "Concordant Membranes and Intermembrane Bleed"
 category: "Cosmology"
 tags: [intermembrane-bleed, membrane-resonance, etheric, post-11-manifold, common-manifold, interval, compact-dimensions, concordant, boundary-zone, threshold-station]
 description: "The cosmic-membrane model underlying inter-universe Etheric effects: each coherent universe as a bounded membrane in the Common Manifold, the Interval that separates them, and what happens when two draw close enough to interfere."
+plain: "Every coherent universe occupies its own bounded region, a cosmic membrane, within the Common Manifold, and the gap between two membranes is the Interval. Where a standing crease in a membrane's shape — a flexure — brings one patch close to a neighbour, the Interval narrows and effects appear that cannot happen inside a single universe: Membrane Resonance, Intermembrane Bleed, Membrane Shadows and, very rarely, short-lived gravity tunnels. Only gravity, timing and Etheric templates can reach across; matter and ships cannot. Threshold Station's chronometer trouble is read as a sign that it sits on such an inter-universe boundary, not on an internal edge."
 image: "concordant-membranes.jpg"
 image_alt: "A deep-space scene in blue and violet: one small brilliant white point of light near the centre, ringed by a faint halo, with luminous filaments streaming past it and heavy purple cloud filling the lower half of the frame."
 ---

@@ -5,6 +5,7 @@ revealed_by: s01e01c01
 category: "Cosmology"
 tags: [boundary, concordant, concordance, threshold, instrument-drift, physical-law]
 description: "How boundary zones produce measurable physical effects and why they are operationally constrained environments — and why the kind Rangers actually work in is a narrowing between universes, not an edge between Concordant Zones."
+plain: "A boundary zone is a place where two sets of physical and Etheric conditions meet and neither fully rules, so instruments that are each correct disagree with one another. The kind Rangers actually work in is a narrowing between two universes, where a bend in one membrane brings it close to a neighbour; the edge between two Concordant Zones of one universe is real but out of anyone's reach. Such a zone has a position in the sky but no distance to what it borders. Threshold Station and the Marsh Causeway sit on one, and its drift cannot be calibrated away."
 image: "boundary-zones.jpg"
 image_alt: "A wide, highly saturated nebula: rust and orange cloud on the left, a white and pale-blue core around a single bright starburst in the centre, and teal, yellow and magenta banks on the right, with dark dust pillars standing against them and stars scattered throughout."
 ---

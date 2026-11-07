@@ -4,6 +4,7 @@ title: "Allocation Units of Cognition: Cognition as Scarce Infrastructure"
 category: "Economics"
 tags: [auc, ai-usage-credits, economics, cei, novelty, noogenic]
 description: "Economic protocol for allocating intelligent computation capacity according to measurable novelty contribution."
+plain: "Allocation Units of Cognition, or AUC, are the units in which access to high-grade intelligent computation is rationed. They are not money and not energy: they are the right to draw on scarce cognition-grade processing, open to biological and synthetic participants alike. New AUC are issued for validated novelty — work that widens what is possible or breaks a closure — so humans and AIs can both be paid in them. As a universe ages and novelty grows rare, issuance contracts and economies fall back on reserves and strict priorities."
 image: "ai-usage-credits.jpg"
 image_alt: "Designed cover for Allocation Units of Cognition: Cognition as Scarce Infrastructure: concentric rings in a soft glow under the category Economics, with the title below in two lines, on a dark brown-black background."
 ---

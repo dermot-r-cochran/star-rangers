@@ -4,6 +4,7 @@ title: "Civilisation Comparison: 13th, 21st, and 29th Centuries"
 category: "History"
 tags: [history, technology, society, levrils, reclaimers, tafs, ashwardens, coherence-index, guild, infrastructure, matter, entropy, velmora]
 description: "A comparative analysis of three civilisational eras — the 13th, 21st, and 29th centuries — examining how technology, visibility, control, and social organisation relate to one another across human history and into the Star Rangers present."
+plain: "USC historians set three eras side by side — the 13th century, the 21st and the 29th — because the newest looks more like the oldest than like the one between. In the 13th, technology was simple and in plain view; in the 21st, powerful and still in view; in the 29th, far more powerful and nearly hidden, so streets look medieval while unseen systems do the work. The question has shifted from how things work to how much anyone should interfere with what works. The comparison closes with the Solar System's three larger neighbours, and why, on the record's reading, no single state outgrows the slow round trip of a message."
 image: "civilisation-comparison.jpg"
 image_alt: "Designed title card on a near-black star field in warm sepia: the category HISTORY in spaced capitals at the top, three nested arcs held in a soft glow, and below a short rule the title CIVILISATION COMPARISON: 13TH, 21ST, AND 29TH CENTURIES in pale serif capitals, subtitled 'Three Eras, Measured Against Each Other' and 'The 13th, the 21st, and the 29th centuries'."
 ---

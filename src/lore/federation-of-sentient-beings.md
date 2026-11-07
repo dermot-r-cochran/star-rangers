@@ -4,6 +4,7 @@ title: "The Federation of Sentient Beings"
 category: "Factions"
 tags: [federation-of-sentient-beings, faction, multi-species, cooperative, star-rangers, aspenar]
 description: "A peaceful multi-species cooperative of independently governed worlds, organised around mutual aid rather than central authority, and the Star Rangers' longest-standing external partner."
+plain: "The Federation of Sentient Beings is a voluntary union of hundreds of star systems and their peoples — organic, synthetic and mixed — with no capital, no standing executive and one working rule: a sentient being's claim to survive and govern itself does not depend on resembling anyone else. Its assembly decides only shared matters such as defence, trade lanes and disaster response; all else stays with each member world. It is the Star Rangers' oldest outside partner, supplying materials and survey data under a compact renewed each generation, and holds a non-voting seat on their Oversight Council. Humanity trades with it warmly but has chosen never to join."
 image: "federation-of-sentient-beings.jpg"
 image_alt: "Designed cover for The Federation of Sentient Beings: three concentric rings in a pale sea-green glow on a dark green-black field, the category FACTIONS above and the title beneath, with the lines A Multi-Species Cooperative of Worlds and Mutual aid rather than central authority."
 ---
