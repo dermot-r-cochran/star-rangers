@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Three rulings of 7 November landed** (`src/characters/tissadelle-shepherd.md`, `story-bible/video-prompts.md`, `CLAUDE.md`, `story-bible/intake-2026-11-07.md`, 2026-11-07, Fable, Dermot's *"All as recommended"*). Shepherd's page bounds *nothing makes her a public figure* to the record of her service, says the only song carrying her own name is sung as an elegy since Dock Seven, and loses a clause the paragraph before it already carried. The *Four Seconds* part 3 prompt ends with the crowd closing round the boy and the detective; the walk back to the bureau is past the clip's end. The episode test reads *something that stands on its own*; *Meanwhile, in …* and S01E03C06's two doors into Undercover Pets stay.
+
 ## [1.61.0] — 2026-11-06
 
 The Journal gains *The Up-People's First Stone*, a Director film of *Theirs to Move* filed as an impression, after three more rounds on brief D6. The Told has its own footer theme, a 90-second cavern loop. A trailer theme and title are chosen but not yet generated, Director brief D1 is rewritten for the record's clean clocks, and the Benevolent Critic's corrections reach the pending film, clip and music briefs. Two small corrections go in, to a Journal count and to the dates of Drey's tables, and Tissadelle Shepherd's page now says how far her name travels.

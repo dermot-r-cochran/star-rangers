@@ -1969,7 +1969,7 @@ extension is not known to carry them over.
 
 **Part 3, the walkway moves (extend by 10 seconds).**
 
-> Continue the same unbroken shot with no cut, from the same small fixed device on the rim of the bin at knee height, never moved, the same light, the same habitat walkway. Nobody moves for a moment. Then one figure in a plain apron at the lit doorway laughs once, shoulders only. The boy stands and lifts the pale capsule, hugged in both arms against his chest as if it had some weight, the lattice end against him, and half turns his head towards the young woman with the long plait, in profile only, never to the lens. Then the whole walkway starts to move again as if it had never stopped: the standing figures turn, the lane closes, and legs walk past the lens on both sides, unhurried, towards and away, blurring the near frame, while the boy and the woman go off down the walkway among them. Ambient sound only: the low hum of a running deck, the one laugh, shoes on the deck surface, cloth; no music, no narration, no speech. No on-screen text, letters, numbers, subtitles or captions. No camera movement, no cut, no rise above the crowd, no camera passing through anyone. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway or in any hand, not blurred, not partly, not in silhouette, and nothing visible through the lattice. No wire door, no carry handle. Warm, ordinary, a little funny, not haunted; not a music-video montage, not a trailer.
+> Continue the same unbroken shot with no cut, from the same small fixed device on the rim of the bin at knee height, never moved, the same light, the same habitat walkway. Nobody moves for a moment. Then one figure in a plain apron at the lit doorway laughs once, shoulders only. The boy stands and lifts the pale capsule, hugged in both arms against his chest as if it had some weight, the lattice end against him, and half turns his head towards the young woman with the long plait, in profile only, never to the lens. Then the whole walkway starts to move again as if it had never stopped: the standing figures turn, the lane closes, and legs walk past the lens on both sides, unhurried, towards and away, blurring the near frame, while the crowd closes round the boy and the woman where they stand, until the two of them are lost among the walking figures. Ambient sound only: the low hum of a running deck, the one laugh, shoes on the deck surface, cloth; no music, no narration, no speech. No on-screen text, letters, numbers, subtitles or captions. No camera movement, no cut, no rise above the crowd, no camera passing through anyone. No cat, no dog, no kitten, no puppy, no lamb, no small animal of any kind, no fur, no ears, no tail, no face or eyes on the floor, at the doorway or in any hand, not blurred, not partly, not in silhouette, and nothing visible through the lattice. No wire door, no carry handle. Warm, ordinary, a little funny, not haunted; not a music-video montage, not a trailer.
 
 **Negatives, as objects** (they travel inside the prompts above; listed here for
 the judging): text, letters, numbers, signage, subtitles, captions,
@@ -2001,6 +2001,16 @@ are watched for a jump in the crowd or the carrier.
 **Revised 6 November 2026, before anything was generated.** The wear words are
 out, under *Places are well kept*, and the warm patch and the doorway move to the far
 end of the lane, so that the crowd leans towards the place where the boy acts.
+
+**Revised 7 November 2026, before anything was generated.** Part 3 no longer
+sends the boy and the woman off down the walkway. The chapter has him walk back
+to the bureau with the box and her behind him, which is back past the lens, the
+way he came; a prompt that sent them the other way asserted a direction the
+record contradicts, and one that walked them past a knee-height lens would put
+his face nearer than a half-profile. So the crowd closes round the two where
+they stand and the clip ends with them lost among the walking figures. The
+walk back to the bureau is past the clip's end (Dermot's *"All as
+recommended"*, option (a), `intake-2026-11-07.md`).
 
 **Open at the time of writing.** Whether an extension holds the mount and the
 crowd from the last frame; whether it will carry a child's one word without
