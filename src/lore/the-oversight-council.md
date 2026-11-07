@@ -5,6 +5,7 @@ revealed_by: s06e01c02
 category: "Institutions"
 tags: [star-rangers, oversight-council, inspectorate, charter, neutrality, institutions, solar-system, federation-of-sentient-beings, celtic-union, cerebraun-hegemony, history]
 description: "The civilian body the Star Rangers answer to, and the only one: what the 2723 charter made it, why a clause written against Solar System factions came to bind the Corps toward every people, and how a council seated by one system has been drifting, seat by seat, toward being seated by all who recognise the Corps."
+plain: "The Oversight Council is the civilian body the Star Rangers answer to, and the only one. It may ask and the Corps must answer, but it cannot command a Ranger, direct a Safety Corps finding or cut the Corps' money. Its voting seats are held by the Solar System's self-governing habitats and stations, and its inquiries are carried out by the Inspectorate, whose officers are not Rangers. Because the Corps takes no people's side, polities beyond the Solar System that recognise it have been offered seats that hear but do not vote: the Federation took one, the Cerebraun Hegemony declined, the Celtic Union has not answered."
 image: "the-oversight-council.jpg"
 image_alt: "An atrium seen from below: white cantilevered galleries with glass balustrades step up around a curved drum of balconies, warm strip lights set into the soffits, a glass-sided spiral stair rising at the lower right, and daylight coming through skylights above."
 ---

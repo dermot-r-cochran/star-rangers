@@ -4,6 +4,7 @@ title: "The Things That Are Made"
 category: "Cosmology"
 tags: [cosmology, physics, worldwrights, providence, design, church-space]
 description: "The church-space telling of the Physics Comparison — where the Archive insists the difference from the real cosmos is architecture and not magic, devotional tradition asks who the Archive thinks drew the plans."
+plain: "The Things That Are Made is the church-space reading of the Archive's Physics Comparison. The Archive says the difference between this cosmos and the real one is architecture, not magic. Devotional tradition accepts that sentence and asks who drew the plans, pointing out that the Archive's own words — constants selected, entropy stabilised, consciousness coupled — are the language of authorship. The telling changes no law or constant; it only reads the same evidence as a maker's fingerprints. It then asks a question the Civilisation Comparison also asks: whether anyone is owed an explanation from what sustains them, or only gratitude."
 image: "things-that-are-made.jpg"
 image_alt: "An immense pale structure of identical stepped terraces and ribs repeating across a wide valley into the haze, seen from a high bare ridge where one small person stands looking at it."
 ---

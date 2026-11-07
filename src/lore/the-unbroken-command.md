@@ -4,6 +4,7 @@ title: "The Unbroken Command"
 category: "Factions"
 tags: [unbroken-command, imperium, faction, cyber-revenant, remnant, solar-system, history]
 description: "Isolated cells of Imperium loyalists who hold that the Imperium was never lawfully dissolved — no Administrator-Supreme ever issued a stand-down order — and, in a handful of confirmed cases, have used radical cybernetic preservation to keep individual officers technically still on duty for two centuries past the Imperium's fall."
+plain: "The Unbroken Command is the Survey Corps' name for scattered Imperium loyalists who hold that the Imperium was never lawfully dissolved, because no Administrator-Supreme ever gave the stand-down order their oath required. It is not an organisation; its cells have no contact with one another. In at least four confirmed cases a holdout has used radical cybernetic preservation to stay 'on duty' for two centuries past the Imperium's fall; the Corps calls such a person a cyber-revenant, and no new one could begin under today's rules. The cells pose no coordinated threat, but a holdout guarding a forgotten outpost is a real hazard that nobody has clean jurisdiction over."
 image: "the-unbroken-command.jpg"
 image_alt: "Designed cover for The Unbroken Command: a fractured dashed-circle emblem in rust orange, on a dark background, evoking isolated remnant cells."
 ---

@@ -4,6 +4,7 @@ title: "Teleportation Constraints"
 category: "Physics"
 tags: [teleportation, quantum-space-harmonics, line-of-sight, medical-risk, energy-budget]
 description: "Canonical limits on teleportation, including sightline requirements, physiological costs, and harmonic-energy constraints."
+plain: "Teleportation is a short-range jump that runs on the same physics as faster-than-light transit, and it is tightly limited. A legal jump needs a direct line of sight to the endpoint, a stable local harmonic field and a large power reserve; if any one fails, the jump is unsafe. The jump itself feels like a brief electroconvulsive shock, and repeated jumps do measurable harm, so recovery is enforced. The deciding variable is gravity, not distance: a jump made standing on something massive is costly and dangerous, while the same physics in free fall is ordinary interstellar travel."
 image: "teleportation-limitations.jpg"
 image_alt: "A dense tangle of multicoloured light trails, as though a long exposure had been swept through a field of lights: cyan and blue threads dominating, shot through with green, yellow and orange, dark at the top and massing into a bright band across the lower half."
 ---

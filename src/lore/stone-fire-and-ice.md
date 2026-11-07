@@ -4,6 +4,7 @@ title: "Stone, Fire, and Ice"
 category: "Physics"
 tags: [mountains, volcanoes, glaciers, geology, physics, planets, terrain, erosion]
 description: "Mountains, volcanoes and glaciers on habitable worlds: a mountain is a rate, a volcano is the interior still speaking, and a glacier is the one archive no institution kept."
+plain: "Mountains, volcanoes and glaciers on a habitable world are all still in motion, and a survey reads them for what they are doing, not what they are. A mountain's shape shows whether uplift or erosion is winning. A volcano shows a planet's interior is still alive, and settlers have made shelter, warmth and metal out of that. A glacier carves lakes and lays down a layer of ice each year with that year's air sealed inside, so an ice sheet is a climate record nobody had to keep. Trígrian, with no polar caps and the most erratic weather on record, has no such memory at all."
 image: "volcanic-strata.jpg"
 image_alt: "Tilted volcanic strata filling the whole frame: bands of dark tephra, rust, ochre and pale pumice running diagonally, each layer a separate eruption laid down and buried by the next."
 ---

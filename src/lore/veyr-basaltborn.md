@@ -4,6 +4,7 @@ title: "The Veyr Basaltborn"
 category: "Species"
 tags: [veyr, basaltborn, species, veyr-3, high-gravity, volcanism, engineering, exoskeleton, non-humanoid]
 description: "The Veyr Basaltborn of Veyr-3: a lattice-framed people from a high-gravity volcanic world, who were handed metallurgy for nothing and have spent their whole history fighting for precision instead."
+plain: "The Veyr Basaltborn are a people from Veyr-3, a heavy, volcanic, shaking world thick with mineral dust. Their bodies are external lattices of fine chitinous struts rather than bones — slender-looking but strong, with several limbs that both hold them up and work, no fixed front and no hands. Heat and metallurgy came free on their world; what was hard was keeping anything in adjustment while the ground shook, so Veyr engineering is built on margin, tolerance and honest ratings. They are poor at one decisive whole-body effort, and their temperament is composure, not the hardness outsiders expect."
 image: "veyr-basaltborn.jpg"
 image_alt: "Designed title card on a near-black field in warm iron: the category SPECIES in spaced capitals at the top, a triad device held in a soft glow, and below a short rule the title THE VEYR BASALTBORN in pale serif capitals, subtitled 'The Lattice-Framed' and 'Given metallurgy for nothing, and fighting for precision ever since'."
 ---

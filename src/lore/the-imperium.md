@@ -4,6 +4,7 @@ title: "The Imperium"
 category: "History"
 tags: [imperium, history, governance, solar-system, coherence-wars, faction, predecessor, msc]
 description: "The Imperium: the authoritarian consolidation that ended the Coherence Wars and ruled the Solar System for sixty years — until its own rigidity produced the conditions for the Military Space Command."
+plain: "The Imperium ruled the Solar System for about sixty years, from roughly 2543 to 2609 UCSD, after the Inner System Defence Fleet won the Coherence Wars. It had no emperor: a serving officer, the Administrator-Supreme, sat atop a military chain of command, backed by the wealthy families who already owned the Inner System's industry. It kept the peace and rebuilt the stations, but allowed no opposition, punished the outer settlements, and re-filed or struck from the record whatever did not fit. Late on it added a High Council that could advise but never decide, and that flaw passed to the Military Space Command which replaced it."
 image: "the-imperium.jpg"
 image_alt: "A single monolithic tower rising sheer above a low city skyline, dwarfing every structure around it"
 ---

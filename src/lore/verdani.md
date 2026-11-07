@@ -4,6 +4,7 @@ title: "Verdani"
 category: "Species"
 tags: [verdani, species, verdance, symbiosis, federation-of-sentient-beings]
 description: "A sapient people whose dermal symbiosis with photosynthetic microflora produces sharp regional variation in coloration and metabolism — and whose inherited symbiont lineage, not birthplace alone, is the basis of Verdani kinship and naming."
+plain: "The Verdani are a sapient people from Verdance who live in partnership with thallenwort, a photosynthetic microflora that settles into skin structures called kinbeds in infancy and supplies part of each day's energy for life. Because photosynthesis pays by area, a Verdani is not humanoid: the body carries broad vanes that open to the light, is low-slung and multiply supported, and has no single face. Light is their budget, so their industry is slow and vast, and haste costs them metabolically. The strain is inherited by contact, and a Verdani's second name — Farrowkin, Duskkin — names that lineage, which is the real basis of kinship."
 image: "verdani.jpg"
 image_alt: "Designed cover for Verdani: a green plant-humanoid silhouette on a dark background, evoking photosynthetic symbiosis rather than a warrior figure."
 ---

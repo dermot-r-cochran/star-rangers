@@ -4,6 +4,7 @@ title: "The Honest Dark"
 category: "Physics"
 tags: [night-sky, moons, stars, physics, planets, astronomy, calendars, dark-sky]
 description: "Night skies on habitable worlds: dark by default on every settled world because the technology does not shine, lit by whatever each sky honestly holds — moons, rings, three suns, a debris band, or the galaxy everyone else lives in."
+plain: "Night skies on settled worlds stay dark because the technology does not shine: matte displays and plain power plants throw almost no light upward, so nobody needed a law to protect the stars. Each sky shows what it honestly holds — Drithane's timetabled sparks under a low bright moon, Prismere's rings, Trígrian's three suns, and from New Cotswolds the whole Milky Way as a smudge that contains everyone else. A moon works as lamp, calendar and tide-raiser at once. The result is that every settlement on file can still read where and when it is from the sky overhead."
 image: "the-honest-dark.jpg"
 image_alt: "A cluster of low dark unlit buildings in a snowbound valley at night under a single low bright moon, mountains around, and a sky of sharp stars crossed by a scatter of faint parallel streaks"
 ---

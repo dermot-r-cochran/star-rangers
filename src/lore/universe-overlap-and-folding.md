@@ -4,6 +4,7 @@ title: "Universe Overlap and Folding"
 category: "Physics"
 tags: [universe-overlap, folding, concordant, boundary, higher-dimensional, secondary-universe]
 description: "Formal mechanics for universe overlap and folding, including constraints and measurable outcomes. Secondary and subsequent universes are derived from primary ones."
+plain: "Universe overlap and higher-dimensional folding are lawful operations on geometry, not exceptions to physics. Worldwrights create only primary universes; secondary universes arise when primaries overlap or fold together, and they stay permanently subordinate to their sources' rules. Overlap is a temporary window in which two neighbouring universes share a measurable region, so nearby instruments can return two valid readings; it is local, never the size of a civilisation. Folding is engineered transit inside one Concordant, a brief rewrite of distance that keeps causality, safest where gravity is weakest, at Lagrange points. A fold is not a flexure, overlap is not propulsion, and folding may not edit the past."
 image: "universe-overlap-and-folding.jpg"
 image_alt: "A glowing sphere isolated on black: a turbulent red and magenta interior seen through a translucent shell, with bright cyan lines tracing irregular closed loops across its surface like a cage laid over it."
 ---

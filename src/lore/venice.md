@@ -4,6 +4,7 @@ title: "Venice"
 category: "Locations"
 tags: [venice, earth, italy, sol-system, locations, floating-cities, crisis-centuries, environmental-technology-design, preservation]
 description: "Earth's oldest fight against rising water, finished on its own terms: by 2826 UCSD, Venice is not a flood-prone city anymore but a fully engineered floating one, its historic face preserved above a foundation that owes it nothing."
+plain: "Venice on Earth no longer floods, because it floats. After the coastal collapses of the 2130s and 2140s CE beat every tide barrier at once, the city chose to stay rather than evacuate, and over a century and a half built platform hulls beneath its historic streets, moored to towers on the seafloor, so the whole city rides the water instead of resisting it. The old face was rebuilt exactly on top; the engineering sits a level down. By 2826 UCSD it is a civic matter under Earth's environmental authority, and its engineers carried the method off-world to Thalassa's New Venice."
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "City"

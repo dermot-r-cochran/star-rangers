@@ -4,6 +4,7 @@ title: "The Commonwealth"
 category: "Institutions"
 tags: [commonwealth, new-london, earth, governance, diplomacy, cultural-preservation, institutions]
 description: "A voluntary association of communities descended from the pre-collapse British Isles, anchored at New London Space Habitat — thin by design, and named for a word that has meant both a crown's family of realms and a republic without one."
+plain: "The Commonwealth is a voluntary association of communities descended from the British Isles, hosted by New London Space Habitat. It has no parliament, no budget worth the name and no power over its members — only a table and a protocol — and membership belongs to communities rather than territories, which is how it outlived the Crisis Centuries drowning its homeland. In practice it gives New London, which stands outside the Orbital Habitats Compact, a place to talk to its neighbours, and it lets members compare fragments of one wrecked archive. The Celtic Union of Planets has never joined, by choice rather than quarrel."
 image: "the-commonwealth.jpg"
 image_alt: "A small meeting room in an orbital habitat with a long plain table and chairs, three cups at one end, bare walls, and a wide window onto the habitat's interior curve of terraces, water and trees far below"
 ---

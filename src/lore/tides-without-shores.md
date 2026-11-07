@@ -4,6 +4,7 @@ title: "Tides Without Shores"
 category: "Physics"
 tags: [tides, ocean-currents, water-worlds, saltmere, thalassa, physics, oceanography, moorings]
 description: "Ocean currents and tides on water worlds like Saltmere and Thalassa: what circulation becomes when there is no land to stop it, and what a tide is on a world where nobody has ever watched one come in."
+plain: "A water world with no land still has tides and currents, but they behave differently. With no continents to pen them in, Saltmere's currents run in belts right around the planet, and nothing narrow and fast can form. Its tide is a smooth planetary heave nobody has ever seen, because a floating platform rises with it; only the mooring tension logs register it. Thalassa inherited Venice's long fight with the tide on a world where the tide can flood nothing. The Kingdom of the Five Islands, a water world with shores, shows what a coastline does: there the tide becomes an event, and a culture forms facing it."
 image: "shoreless-sea.jpg"
 image_alt: "Open ocean at dusk with no land anywhere in sight: violet water running out to a band of pink light on the horizon, and two distant vessels hull-down on the line between them."
 ---

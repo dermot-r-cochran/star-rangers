@@ -4,6 +4,7 @@ title: "The Ledger and the Truce"
 category: "Physics"
 tags: [deserts, grasslands, biomes, physics, planets, climate, steppe, aridity]
 description: "Deserts and grasslands on habitable worlds: a desert is a line in a water ledger — not a temperature — and a grassland is a truce between desert and forest that something has to enforce."
+plain: "A desert is defined by water, not heat: more water leaves the ground than arrives, and cold, distance or a mountain's rain shadow can run that deficit as well as a furnace can. Deserts are not empty but precise — everything living there is an exact answer to a hard problem. A grassland is a truce between desert and forest, and it holds only while something enforces it: fire, grazing animals, or the climate's own cycles. Take the enforcer away and the grass goes to desert or woodland, so a map of either is only true the day it is drawn."
 image: "grassland-storm-tree.jpg"
 image_alt: "A single flat-crowned tree standing alone in dry golden grassland under a storm sky so dark it is nearly black, low scrub scattered along the horizon."
 ---

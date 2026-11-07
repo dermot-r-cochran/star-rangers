@@ -4,6 +4,7 @@ title: "Worldwright Design Philosophies"
 category: "Cosmology"
 tags: [worldwrights, hierarchy, cei, ufi, concordants, levrils, kaelor-virex, soryth-valen]
 description: "Contrasting Worldwright systems and their effects on novelty, stability, seed production, and in-universe governance load."
+plain: "Worldwrights build the primary universes, below the Archewrights who set what is possible and above the Concordants who keep creative entropy in balance. Two designs are compared. Kaelor Virex's Resonant Triad couples three universes so they keep generating novelty, at the price of frequent anomalies and heavy monitoring. Soryth Valen's Monocline holds one universe, Axiom-Prime, under strict constraint, giving stability and few shocks but little new thought. The dispute is philosophical as much as technical: whether a universe should favour possibility, with its hazards, or continuity, with its slow stagnation. The record leaves the question open."
 image: "competing-designs.jpg"
 image_alt: "A symmetrical diagram in cyan on black: concentric rings around a single small central dot, filled with radiating dashes and dotted arcs, and a regular grid of small cyan ellipses spaced across the corners of the frame."
 ---

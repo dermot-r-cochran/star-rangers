@@ -4,6 +4,7 @@ title: "Weather on Other Worlds"
 category: "Physics"
 tags: [weather, meteorology, planets, survey-corps, physics, atmosphere, climate]
 description: "The record's doctrine on alien and remote-world weather: the same physics run on different numbers, forecast only by whoever is standing under the sky in question — and no storm anywhere is sent."
+plain: "Weather on any world is the same physics run on that world's own numbers: rotation, sunlight, tilt, air, ocean and terrain. Every strange sky in the record follows from its figures, from the Five Islands' permanent storms to Winterbourne's spring-line villages. Because nothing travels faster than light, no world can forecast another's weather; each keeps its own records, and the Corps' rule on arrival is that the local record outranks the file. In other Mediarch realms the constants differ but the physics does not. And no storm anywhere is sent: weather does not respond to anyone's conduct or merit, and managed weather is still weather."
 image: "weather-on-other-worlds.jpg"
 image_alt: "Three acacia trees standing on dry savannah grass under a dark storm sky, in flat grey light with the rain not yet arrived; one of Dermot's own frames, standing in for weather on any world"
 ---
