@@ -1053,7 +1053,7 @@ page matches the brief and ends with the two called times; the audio is not hear
 
 It fails in two shots. At 0:10 to 0:15 the dock darkens during the shot, and a violet line
 shows along the foot of both doors at about 0:14, where only the sight ports may glow. At
-0:51 to 1:06 the hands wash out and read half-transparent. In both, the columns blaze
+0:51 to 1:06 the technician's hands wash out and read half-transparent. In both, the columns blaze
 white and the readouts vanish. One repair round on those two shots ran for an hour on
 7 November without publishing and was stopped; the rule above came out of it.
 
