@@ -2029,7 +2029,9 @@ a:focus {
   display: block;
   width: 100%;
   aspect-ratio: 16 / 9;
-  object-fit: cover;
+  /* Whole, letterboxed: a tall portrait cropped to 16:9 loses its head. */
+  object-fit: contain;
+  background: var(--color-surface);
   border-radius: var(--radius-lg);
   border: 1px solid var(--color-border);
 }
