@@ -184,9 +184,7 @@ permalink: /start/
     Every archive has a spine — the sequence the rest of the shelf leans against. Ours is the <a href="/star-rangers/threads/tissadelle-arc/">Tissadelle Shepherd's Arc</a>: Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind. Everything else in the collection either runs parallel to it or exists to be consulted while reading it, which is the polite way of saying it is the right first read.
   </p>
   {%- if spineFirst -%}
-  <p class="thread-section__description">
-    Begin here. The <em>Next</em> link at the foot of each chapter walks the whole record in season order, which can hand you sideways into the parallel storylines where their seasons fall and back to the spine after each. That is not a filing error; it is how the shelf is ordered. If you want the spine unbroken, read down <a href="/star-rangers/threads/tissadelle-arc/">its thread page's chapter list</a> instead, from the chapter below. Both paths arrive, and neither spoils the other.
-  </p>
+  <p class="thread-section__description">Begin here.</p>
   <ul class="chapter-list" role="list">
     <li class="chapter-list__item">
       <a href="/star-rangers{{ spineFirst.url }}">
@@ -198,6 +196,9 @@ permalink: /start/
       </a>
     </li>
   </ul>
+  <p class="thread-section__description">
+    The <em>Next</em> link at the foot of each chapter walks the whole record in season order, which can hand you sideways into the parallel storylines where their seasons fall and back to the spine after each. That is not a filing error; it is how the shelf is ordered. If you want the spine unbroken, read down <a href="/star-rangers/threads/tissadelle-arc/">its thread page's chapter list</a> instead, from the chapter above. Both paths arrive, and neither spoils the other.
+  </p>
   {%- if preludeFirst -%}
   <p class="thread-section__description">
     The same season also keeps an <a href="/star-rangers{{ preludeFirst.url | replace(preludeFirst.fileSlug + "/", "") }}">Episode 0</a> of prequels — a household cat, three machines on a wrecked ship, a boundary analyst's three words — which the <em>Next</em> link will not hand you on this path. Read them after the station, when you know what they were before.
@@ -294,7 +295,7 @@ permalink: /start/
   <figure class="lore-diagram">
 <svg viewBox="0 0 640 394" role="img" aria-labelledby="arranged-title arranged-desc">
 <title id="arranged-title">How the record is arranged</title>
-<desc id="arranged-desc">Four nested boxes show the reading tiers. Children, which reads interesting and playful, is innermost; young adult, sensual and romantic, exploring, contains it; general, deeper, mysterious and strategic, contains that; and contemplative, free to question everything, contains them all. Each tier carries everything inside it and adds its own storylines.{% if edition.tier %} This edition sits at the {{ edition.tier | replace("-", " ") }} tier.{% endif %} Below, a row of six boxes shows the units inside a storyline, largest to smallest: thread, season, episode, chapter, scene, and viewpoint. A note under the season box says a season may run as two or more strands, parallel storylines that meet at a fixed point.</desc>
+<desc id="arranged-desc">Four nested boxes show the reading tiers. Children, which reads interesting and playful, is innermost; young adult, sensual and romantic, with exploration and adventure, contains it; general, deeper, mysterious and strategic, contains that; and contemplative, free to question everything, contains them all. Each tier carries everything inside it and adds its own storylines.{% if edition.tier %} This edition sits at the {{ edition.tier | replace("-", " ") }} tier.{% endif %} Below, a row of six boxes shows the units inside a storyline, largest to smallest: thread, season, episode, chapter, scene, and viewpoint. A note under the season box says a season may run as two or more strands, parallel storylines that meet at a fixed point.</desc>
 <text x="20" y="28" class="sm mute">One record at four reading tiers: each carries everything inside it, and adds its own storylines</text>
 <rect x="20" y="44" width="600" height="196" rx="6" class="{% if edition.tier == "contemplative" %}box-1{% else %}box-2{% endif %}"/>
 <text x="34" y="66">Contemplative{% if edition.tier == "contemplative" %}<tspan class="sm fill-1"> · this edition</tspan>{% endif %}</text>
@@ -304,7 +305,7 @@ permalink: /start/
 <text x="586" y="100" text-anchor="end" class="sm mute">deeper, mysterious and strategic</text>
 <rect x="60" y="112" width="520" height="100" rx="6" class="{% if edition.tier == "young-adult" %}box-1{% else %}box-2{% endif %}"/>
 <text x="74" y="134">Young adult{% if edition.tier == "young-adult" %}<tspan class="sm fill-1"> · this edition</tspan>{% endif %}</text>
-<text x="566" y="134" text-anchor="end" class="sm mute">sensual and romantic, exploring</text>
+<text x="566" y="134" text-anchor="end" class="sm mute">sensual and romantic, with exploration and adventure</text>
 <rect x="80" y="146" width="480" height="52" rx="6" class="{% if edition.tier == "children" %}box-1{% else %}box-2{% endif %}"/>
 <text x="94" y="168">Children{% if edition.tier == "children" %}<tspan class="sm fill-1"> · this edition</tspan>{% endif %}</text>
 <text x="546" y="168" text-anchor="end" class="sm mute">interesting and playful</text>
