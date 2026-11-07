@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **Three rulings of 7 November landed** (`src/characters/tissadelle-shepherd.md`, `story-bible/video-prompts.md`, `CLAUDE.md`, `story-bible/intake-2026-11-07.md`, 2026-11-07, Fable, Dermot's *"All as recommended"*). Shepherd's page bounds *nothing makes her a public figure* to the record of her service, says the only song carrying her own name is sung as an elegy since Dock Seven, and loses a clause the paragraph before it already carried. The *Four Seconds* part 3 prompt ends with the crowd closing round the boy and the detective; the walk back to the bureau is past the clip's end. The episode test reads *something that stands on its own*; *Meanwhile, in …* and S01E03C06's two doors into Undercover Pets stay.
+- **Three rulings of 7 November landed** (`src/characters/tissadelle-shepherd.md`, `story-bible/video-prompts.md`, `CLAUDE.md`, `story-bible/intake-2026-11-07.md`, 2026-11-07, Fable, Dermot's *"All as recommended"*). Shepherd's page bounds *nothing makes her a public figure* to the record of her service, says the songs that carry her name or are about her (*Baby Universe*, *Ballad of the Stars*) are sung as elegies since Dock Seven, plural at Dermot's word so later Codex songs fit, and loses a clause the paragraph before it already carried. The *Four Seconds* part 3 prompt ends with the crowd closing round the boy and the detective; the walk back to the bureau is past the clip's end. The episode test reads *something that stands on its own*; *Meanwhile, in …* and S01E03C06's two doors into Undercover Pets stay.
 
 ## [1.61.0] — 2026-11-06
 
