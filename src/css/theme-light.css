@@ -2009,6 +2009,45 @@ a:focus {
    the strip sits between the season's intro and its chapter list, and reads
    as a small cast line rather than a gallery - a name and a standing under
    each frame, nothing else. */
+/* The Plates page (src/plates/index.njk, lib/plates.js): a selection of
+   pictures per edition, each opening its own page. Same card as the season
+   portrait strip, wider. */
+.plates {
+  list-style: none;
+  margin: var(--spacing-lg) 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: var(--spacing-lg);
+}
+.plates__item {
+  margin: 0;
+}
+.plates__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+.plates__image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+}
+.plates__title {
+  display: block;
+  margin-top: var(--spacing-xs);
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  color: var(--color-accent);
+}
+.plates__link:hover .plates__title,
+.plates__link:focus-visible .plates__title {
+  text-decoration: underline;
+}
+
 .season-portraits {
   margin: var(--spacing-xl) 0;
   padding-top: var(--spacing-lg);

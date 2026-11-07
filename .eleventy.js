@@ -1,4 +1,5 @@
 const path = require("path");
+const { platesFor, resolvePlates } = require("./lib/plates");
 const { DateTime } = require("luxon");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const { createMarkdownRenderer, povTierVisible } = require("./lib/markdown-containers");
@@ -204,6 +205,14 @@ module.exports = function(eleventyConfig) {
     heroDir: path.join(__dirname, "src", "images", "hero")
   });
   eleventyConfig.addGlobalData("edition", getEdition());
+  // The Plates page's selection for this edition (lib/plates.js): whether the
+  // page and its nav link exist at all, and the resolved plates themselves.
+  eleventyConfig.addGlobalData("platesListed", platesFor(getEdition().id).length > 0);
+  eleventyConfig.addFilter("editionPlates", (editionId, lore, characters, codex) =>
+    resolvePlates(platesFor(editionId), { lore, characters, codex }, (rel) =>
+      isPlaceholderImage(path.join(__dirname, "src", "images", rel))
+    )
+  );
   // The <title> of a placeholder page follows the edition's own notice when
   // it carries one (src/_includes/excluded.njk renders the same string as
   // its heading), so the tab and the page agree on a plain-register domain.
