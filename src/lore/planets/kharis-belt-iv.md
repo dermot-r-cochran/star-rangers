@@ -4,6 +4,7 @@ title: "Kharis Belt IV"
 category: "Locations"
 tags: [kharis-belt-iv, serephine-dunekin, thin-atmosphere, ultraviolet, thermal-gradient, locations]
 description: "The home world of the Serephine Dunekin: thin air, hard ultraviolet, and a swing between day and night that would kill an unprotected person in under an hour on either side, with two survivable hours between, one at dawn and one at dusk."
+plain: "Kharis Belt IV, home world of the Serephine Dunekin, kills an unprotected person twice a day. The swing between day and night would kill in under an hour on either side, by heat and then by cold; the air is thin and the ultraviolet hard. Only the two margins, dawn and dusk, are survivable in the open; a Serephine stays sealed for the rest. Fire is feeble there, so Serephine technology runs on focused sunlight and on the daily thermal swing itself, with slow, buried shelters. The record gives little else, not even what kind of body it is or where its star lies."
 galaxy: "Milky Way"
 locationType: "World"
 ---

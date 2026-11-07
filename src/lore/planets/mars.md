@@ -4,6 +4,7 @@ title: "Mars"
 category: "Locations"
 tags: [mars, sol-system, solar-command, ssdc, msc, imperium, locations, capital]
 description: "The Solar System's oldest permanently settled world beyond Earth, and the enduring seat of its governments — from the Navigation and Trade Accords through the Imperium's Inner System Defence Fleet and the Military Space Command to the Solar System Defence Command's Solar Command headquarters today."
+plain: "Mars is the oldest permanently settled world beyond Earth and has held the Solar System's command floor under every one of its five governments, from the Navigation and Trade Accords to today's government under the Concord's framework, whose Solar System Defence Command sits there. It was never fully terraformed, by choice: domed old cities stand amid open thin-air country its councils vote to keep unfinished. Martians run Mars and Solar Command runs Solar Command, and the two overlap less than outsiders expect. The Star Rangers have no authority there and enter only by invitation."
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Planet"

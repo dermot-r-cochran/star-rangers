@@ -4,6 +4,7 @@ title: "Caldra"
 category: "Locations"
 tags: [caldra, ice-moon, biosphere-moon, locations]
 description: "An ice-shelled moon of a gas giant whose ocean has never been lit: its only warmth comes up through the floor, its life is rooted where the warmth comes out, and its water runs one way along each fault for longer than anyone has been there to measure."
+plain: "Caldra is an ice-covered moon of a gas giant with a deep, dark ocean under its shell. No starlight has ever reached the water; its only warmth rises through the floor along fault zones, driven by the tidal flexing of its core, and all its life crowds into the metre of water around each vent. The vents wander, quake and collapse, and that is what kills there — nothing found there hunts. The water runs one way along each fault. The moon has a catalogue number and no name of its own."
 galaxy: "Milky Way"
 locationType: "Moon"
 ---

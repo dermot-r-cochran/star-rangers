@@ -4,6 +4,7 @@ title: "Kernowek Reach"
 category: "Locations"
 tags: [kernowek-reach, celtic-union, terraforming, reclamation-world, locations, lyonesse-system]
 description: "The Celtic Union's newest documented charter world — a volcanic planet still mid-terraform, where colonists live in an engineered breathable band between an unbreathable summit and an unreclaimed, volcanically fouled lowland."
+plain: "Kernowek Reach is the Celtic Union's most recently documented charter world, a volcanic planet in the Lyonesse System still being terraformed four generations on. Its native air is thin and oxygen-poor, so its founders built not a dome but a band: processor stations along the mid-altitude ridges keep a layer of breathable air around the highlands, with the unbreathable summit above and the fouled lowland below, the band's lower edge marked by the permanent Cloud Line. The machinery is the habitat and never stops. Outside contact was only recently remade, by a Survey Corps team."
 image: "highland-scrub-road.jpg"
 image_alt: "The engineered scrub band of Kernowek Reach's settled highlands, with the world's volcanic spine rising beyond"
 galaxy: "Milky Way"

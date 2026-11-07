@@ -4,6 +4,7 @@ title: "The Kingdom of the Five Islands"
 category: "Locations"
 tags: [five-islands, independent, kingdom, archipelago, locations, first-contact, lost-colony, abbeylands, feudal, tideward-sisterhood, old-houses, peerage, common-council, difenland, krilzat, kalenjar]
 description: "A hereditary kingdom holding the one temperate archipelago on an otherwise storm-scoured world — a name that counts five islands and a Crown that holds four — settled by a human departure older than any Solar System record, and found again only recently."
+plain: "The Kingdom of the Five Islands is a hereditary monarchy on the one temperate archipelago of a world whose storms make the rest of it close to unsurvivable. Its people descend from a human departure older than any surviving Solar System record, found again by the Star Rangers only in the last several years. The monarch reigns, elected stewards on the Common Council rule, and the Old Houses keep their titles and administer nothing. The Tideward Sisterhood holds the Abbeylands and keeps the only continuous written archive, which counts five islands where the Crown holds four; what the fifth name names is not established."
 image: "archipelago-palm-avenue.jpg"
 image_alt: "A windswept avenue of tall palms under a bright sky on the royal seat island of Vellamar"
 galaxy: "Milky Way"

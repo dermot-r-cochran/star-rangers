@@ -4,6 +4,7 @@ title: "The Star Ranger Liaison Corps"
 category: "Institutions"
 tags: [star-rangers, liaison-corps, liaison, representative, recruiter, planetary-jurisdiction, invitation, reassignment, celtic-union, rhiannon-ceridwen, institutions]
 description: "The Liaison Corps and its Planetary Representatives — the specialist corps that resolves the charter's no-jurisdiction clause, and the berth a Ranger moves to when front-line work stops being possible without leaving the force."
+plain: "The Star Ranger Liaison Corps is the corps of Planetary Representatives: serving Rangers who have gone home to a world the Corps may not enter. The charter gives the Rangers no jurisdiction on planets, so a native going home is how the Corps keeps a liaison, a representative and a recruiter there without breaking its rule. Most take it up from about fifty-five and stay on the reserve list until about seventy-five; some transfer earlier when front-line work stops being possible, and that is not a demotion. The path advances by certifications and decorations rather than rank."
 image: "planetary-liaisons-and-recruiters.jpg"
 image_alt: "A small empty ground-floor office: a pale desk with softly rounded edges and two pale pedestal chairs, a coat on a hook, and a rounded doorway open onto a quiet street of low earth-coloured buildings, an ascent javelin's trail climbing the sky beyond"
 ---

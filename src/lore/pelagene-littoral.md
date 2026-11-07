@@ -4,6 +4,7 @@ title: "The Pelagene Littoral"
 category: "Species"
 tags: [pelagene, littoral, species, nerath, ocean-world, pressure, salinity, electrochemistry, non-humanoid]
 description: "The Pelagene Littoral of Nerath: a people of a boundary layer rather than a shore, oriented on the vertical, who never had fire and built a whole materials science out of pressure and salt instead."
+plain: "The Pelagene Littoral come from Nerath, which has no land at all; their 'littoral' is a depth band, not a shore. Nerath's medium is not water as the Solar System means it: dense, cold, layered fluids lying one on another. A Pelagene body is built on the vertical, round a buoyancy organ, with a permeable skin that senses pressure, flow and chemistry. With no dry place for fire, they grew metals from solution and used depth as a press. They read gradients superbly, cannot improvise fast, and on a station are slowly drying."
 image: "pelagene-littoral.jpg"
 image_alt: "Designed title card on a near-black field in deep blue-green: the category SPECIES in spaced capitals at the top, concentric rings held in a soft glow, and below a short rule the title THE PELAGENE LITTORAL in pale serif capitals, subtitled 'The People of the Boundary Layer' and 'A materials science built from pressure and salt, with nothing ever set alight'."
 ---

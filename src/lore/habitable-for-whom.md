@@ -4,6 +4,7 @@ title: "Habitable, for Whom"
 category: "Physics"
 tags: [habitability, envelopes, planets, physics, species, survey-corps, compatibility, biospheres]
 description: "The difference between humanly habitable worlds and the wider category of habitable worlds: habitability is a relation, not a property — every habitable world is habitable for someone, and nobody's envelope is the universe's default."
+plain: "Habitability is a relation, not a property. The survey never calls a world habitable without saying for whom, because every species has an envelope — the band of gravity, air, temperature and light it can live in unaided — and every habitable world is somebody's comfortable home and would kill a human. No alien people surveyed can live in Earthlike conditions, and only Earth and Tír na nÓg suit humans naturally. Almost everywhere else, human settlement means manufacturing an envelope."
 ---
 
 The survey has no checkbox marked *habitable*, because the word is an unfinished sentence. A world is habitable **for** someone, and the file always says whom. Unqualified, the record allows the word one meaning only — *bears its own biosphere* — and that category is generous. The category people usually mean — *the place itself asks nothing of them* — is so narrow it has two confirmed members, and one of them is home.

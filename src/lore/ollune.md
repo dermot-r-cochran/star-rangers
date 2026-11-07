@@ -4,6 +4,7 @@ title: "Ollune (the Held)"
 category: "Species"
 tags: [ollune, species, cirrane, vantine-system, federation-of-sentient-beings, safety-corps, buoyancy, low-gravity]
 description: "A sapient people native to the upper atmosphere of the gas giant Cirrane, who have never stood on a surface, never lit a fire, and never in their history confused a warning with a promise — because in Ollune physiology the two travel on different channels."
+plain: "The Ollune, whose name means 'the held', live in the upper air of the gas giant Cirrane, the one Federation member world with no surface at all. An Ollune floats only by keeping its body warmer than the air around it, so the sleeping are carried by the waking in tethered holds, and owning anything is a permanent cost. With no fire, their technology is bred rather than built. They speak on two channels: far sound, which binds nothing, and near chemical marks, which bind everything — and that split shapes their whole law."
 image: "ollune.jpg"
 image_alt: "Several translucent rounded gas bladders, veined and lit from behind, drifting at different distances in hazy amber light above layered cloud decks, each with a short fringe of fine tendrils hanging beneath"
 ---

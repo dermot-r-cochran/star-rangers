@@ -4,6 +4,7 @@ title: "Nerath"
 category: "Locations"
 tags: [nerath, pelagene-littoral, ocean-world, stratified-fluid, locations]
 description: "The home world of the Pelagene Littoral: a world with no stable landmass and no dry place anywhere, whose medium is not water but several dense, cold fluids lying on one another, and where nothing ever stays where it was put."
+plain: "Nerath is the home world of the Pelagene Littoral, a world with no land and no dry place anywhere. Its medium is not water but several dense, cold fluids lying in stable layers; the seams between them are its main structures. The Pelagene live in a lit, punishing depth band between storm above and pressure below. Nothing on Nerath stays where it was put, so it has no maps and no landmarks, and its people tell a thing's history by which way it is moving and how fast. Its star, its size, its chemistry and even whose word Nerath is are not on record."
 galaxy: "Milky Way"
 locationType: "Planet"
 ---

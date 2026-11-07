@@ -4,6 +4,7 @@ title: "Noögenic Seeding System"
 category: "Cosmology"
 tags: [noogenic-seeding, noogenic-law, iwd, nsp, ufi, nooseed, universe-reproduction, auc, cei, protouniverse, telearch]
 description: "Canon model in which universes reproduce through information-rich minds that compress into noögenic seeds."
+plain: "The Noögenic Seeding System is the model by which universes reproduce: not by moving matter, but through rare minds deep enough to compress into a noöseed, a transferable structure that can start a new universe. Three measures gauge how deep a mind is, how safely it could compress, and how readily a universe produces such minds. A new protouniverse stays under its parent's Telearchs until it governs itself. None of this saves anyone: every coherent mind is preserved anyway, and a completed transference carries no person."
 image: "noogenic-seeding-system.jpg"
 image_alt: "A deep star field above towering rust-and-gold nebula cliffs, thick with bright stars, and at the centre a small glowing circuit-like structure of concentric squares embedded in the gas — a seed mind set into the material of a young universe"
 ---

@@ -4,6 +4,7 @@ title: "Habitats and the Worlds Beneath Them"
 category: "Institutions"
 tags: [space-habitat, orbital-habitats, species, life-support, lagrange, federation-of-sentient-beings, institutions]
 description: "A habitat's environment is manufactured, so nothing about it is inherited from the planet below — and the species a ring supports is a fact about the ring, not about the world it orbits."
+plain: "A habitat makes its own air, so nothing about it is inherited from the planet below. The species a ring supports is a fact about the ring, not about the world it orbits, and orbiting a world gives no claim on it. People assume otherwise because the Solar System's habitats are all human rings above a human world — one system's history mistaken for a rule. The Archive's own atlas files habitats under the world they orbit, which is correct as geography and misleading as everything else."
 ---
 
 A habitat makes its own air. Everything follows from that, and most of what people assume about orbital settlement follows from forgetting it.

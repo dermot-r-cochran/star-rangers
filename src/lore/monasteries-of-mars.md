@@ -4,6 +4,7 @@ title: "The Monasteries of Mars"
 category: "Institutions"
 tags: [monasteries-of-mars, mars, contemplative, isolationist, institutions, hermitage]
 description: "An isolationist contemplative order scattered across Mars's open, thin-atmosphere terrain, deliberately unaffiliated with the Fellowship of Light and uninterested in becoming so."
+plain: "The Monasteries of Mars are independent contemplative hermitages built into the open, thin-air country beyond Mars's domes. Each is self-sufficient and governed by its own order; there is no central house and no ruling abbot. Their withdrawal from institutional life is the whole practice, not training for anything else, which is why they are not a chapter of the Fellowship of Light and have declined every offer to become one. In four centuries no hermitage has taken any role in governance or in the Star Rangers' work."
 image: "monasteries-of-mars.jpg"
 image_alt: "A single low rounded hermitage of rust-coloured regolith, half sunk into the open Martian plain with regolith banked over it, a small round sealed door and one small round window, alone under a pale butterscotch evening sky with the small sun low over a distant escarpment."
 ---
