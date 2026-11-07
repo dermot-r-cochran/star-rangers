@@ -208,6 +208,9 @@ module.exports = function(eleventyConfig) {
   // The Plates page's selection for this edition (lib/plates.js): whether the
   // page and its nav link exist at all, and the resolved plates themselves.
   eleventyConfig.addGlobalData("platesListed", platesFor(getEdition().id).length > 0);
+  // No selection, no page: an ignored template is never rendered, which a
+  // `permalink: false` page still is (and base.njk cannot read a false url).
+  if (!platesFor(getEdition().id).length) eleventyConfig.ignores.add("src/plates/**");
   eleventyConfig.addFilter("editionPlates", (editionId, lore, characters, codex) =>
     resolvePlates(platesFor(editionId), { lore, characters, codex }, (rel) =>
       isPlaceholderImage(path.join(__dirname, "src", "images", rel))

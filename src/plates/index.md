@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Plates"
+permalink: /plates/
 eleventyComputed:
   description: "Pictures from the record of {{ site.name }}, chosen for this edition, each linking to the page it belongs to."
 ---
