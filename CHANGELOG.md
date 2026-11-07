@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Critic fixes to the merges of 7 November** (`lib/storyline-threads.js`, `CLAUDE.md`, `story-bible/intake-2026-11-07.md`, `story-bible/video-prompts.md`, 2026-11-07, Fable read, Opus fixes). Four spaced hyphens left in three storyline blurbs now use the em dash, so no sentence opens with one dash and closes with the other; the episode rule points *above* to the endings rule, where it sits; the intake amendment reads *at Dermot's word* in the file's own register; the D1 version 2 read names the technician's hands, so it cannot be taken for the clock-hands fault returning.
+
 - **The Reading Plan reviewed for a first-time reader; nothing on the page changes** (`story-bible/intake-2026-11-07.md`, 2026-11-07, Fable, Dermot's *"A general review and simplification of the start page"*). Sen's note, the first chapter link, the Lore and Codex authority line and the six storyline cards all hold. Three cuts were proposed (the chapter link above the two-paths paragraph, one clause, the caption's units sentence) and the counter-critic withheld all three as changes rather than improvements, so the page stands at 1,303 words. The intake records them, with the article in *the Tissadelle Shepherd's Arc* and the diagram's young adult label, as options for Dermot with *leave it* the default.
 
 - **Storyline blurbs use the em dash** (`lib/storyline-threads.js`, 2026-11-07, Opus, Dermot's *"Yes, fix them"*). Seven reader-facing thread descriptions, shown on the Reading Plan and the thread pages, joined their clauses with a spaced hyphen where the rest of the site uses an em dash; they now use the em dash. Comments untouched.
