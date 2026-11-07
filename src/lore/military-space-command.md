@@ -5,6 +5,7 @@ revealed_by: s00e02c01
 category: "Factions"
 tags: [msc, military-space-command, faction, solar-system, technocracy, governance, history]
 description: "The Military Space Command: the benevolent technocratic authority that governed the Solar System before the founding of the Star Rangers — and why it could not last."
+plain: "The Military Space Command governed the Solar System for a little over a century before the Star Rangers were founded. It was a benevolent technocracy of appointed officers run from Mars, the Imperium's more moderate successor, which made elections advisory and met every problem with procedure. Its slowness over Eden Space Habitat's fold route — years of committees while unauthorised expeditions launched — created the conditions for the Rangers. It was not dissolved but narrowed into the Solar System Defence Command."
 image: "military-space-command.jpg"
 image_alt: "Designed title card on a dark blue-black star field: the category FACTIONS in spaced capitals at the top, three stacked chevrons pointing upward in a soft glow, and below a short rule the title MILITARY SPACE COMMAND in pale serif capitals, subtitled 'Before the Star Rangers' and 'A benevolent technocracy that could not last'."
 ---

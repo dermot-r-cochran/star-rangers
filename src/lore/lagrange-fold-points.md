@@ -4,6 +4,7 @@ title: "Lagrange Points and Fold-Space Transit"
 category: "Physics"
 tags: [ftl, higher-dimensional-folding, lagrange, navigation, gravitational-geometry, fold-site, concordant]
 description: "Why gravitationally neutral Lagrange points — especially L4 and L5 — are preferred staging sites for higher-dimensional fold operations, and what makes them measurably different from other departure positions."
+plain: "Lagrange points are the five places in a two-body system where gravity and orbital motion balance, so a small body there feels no net pull either way. A fold aperture needs flat gravity to stay open without shearing, so fold operations stage from them. The two stable points, L4 and L5, are the Survey Corps' preferred departure sites; L1 and L2 need clearance and L3 is generally not cleared. Deep space far from any mass is flat too, and a natural fold tunnel there gives almost no warning. A Lagrange point makes a fold safer; it does not make a route exist."
 image: "lagrange-fold-points.jpg"
 image_alt: "Designed title card on a dark blue-black star field: the category PHYSICS in spaced capitals at the top, a thin arc drawn above five small circles in a soft glow, and below a short rule the title LAGRANGE POINTS AND FOLD-SPACE TRANSIT in pale serif capitals, subtitled 'Where Gravity Cancels' and 'L4 and L5, and why fold operations prefer them'."
 ---

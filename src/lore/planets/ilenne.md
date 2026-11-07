@@ -4,6 +4,7 @@ title: "Ilenne"
 category: "Locations"
 tags: [ilenne, mnemari, federation-of-sentient-beings, biosphere-planet, locations]
 description: "The home world of the Mnemari: a cool, dry upland planet under an old orange star, whose rain fails for spells of no fixed length, from a few years to most of a century, and whose life is built to wait them out."
+plain: "Ilenne is the home world of the Mnemari and a member of the Federation of Sentient Beings: a cool, dry upland planet under an old orange star. Its air holds too much carbon dioxide for a human to breathe unaided; a mask is enough. Rain comes in wet runs and then fails for spells of no fixed length, from three years to most of a century, and nobody has found the rule. Life there is built to wait, and the survey reads the Mnemari's long lives and unfading memories, cautiously, as one answer to a land where surviving the next drought means remembering the last exactly."
 galaxy: "Milky Way"
 locationType: "Planet"
 ---

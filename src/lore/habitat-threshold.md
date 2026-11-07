@@ -4,6 +4,7 @@ title: "The Habitat Threshold"
 category: "Institutions"
 tags: [habitat-threshold, orbital-habitats-compact, jurisdiction, governance, charter, institutions, self-governing]
 description: "The charter population line above which a self-governing orbital settlement passes out of Star Rangers jurisdiction entirely — and the reasons a settlement might set out to cross it."
+plain: "The habitat threshold is the population figure in the Star Rangers charter above which a self-governing orbital settlement becomes a place the Rangers may enter only by invitation. The line is legal, not architectural. Outer-station delegates demanded it before they would ratify the Consolidation Accords. Settlements grow past the line for several reasons; one is that above it the Rangers cannot board them on their own initiative. But crossing it puts nothing in the Rangers' place, and what the settlements' own shared arrangements leave uncovered — five unboardable habitats, no power to follow a case across their lines — is where trouble arrives."
 ---
 
 The charter does not define an orbital habitat by its size, its shape, or how many rings it turns. It defines one by how many people have stopped intending to leave.

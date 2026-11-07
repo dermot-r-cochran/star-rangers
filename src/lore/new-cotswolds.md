@@ -4,6 +4,7 @@ title: "New Cotswolds"
 category: "Locations"
 tags: [new-cotswolds, new-london, wolds-end, evenlode-system, extragalactic, settlement, cultural-preservation, locations, human, transit-lag]
 description: "A limestone village country in another galaxy, founded from the New London Space Habitat — and the one entry in the record the Archive keeps in the past tense, because nothing has come back from it in ninety-one years."
+plain: "New Cotswolds is a human farming country of limestone villages in another galaxy, Wolds End, reached by the single Evenlode fold corridor and founded from the New London Space Habitat as a deliberate act of cultural preservation. Because nothing travels faster than a ship, news arrives only when a hull returns, and the last one returned ninety-one years ago. The Archive believes the settlement exists but writes its file in the past tense, describing only what that fourth hull brought back."
 image: "new-cotswolds.jpg"
 image_alt: "A village of honey-coloured limestone houses with steep stone-tile roofs beyond a rough winter pasture with a single pale cow in it, drystone walls and a lane between the fields, grey overcast light, and one slim pale mast on the skyline beyond the roofs."
 galaxy: "Wolds End"

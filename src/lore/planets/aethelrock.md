@@ -4,6 +4,7 @@ title: "Aethelrock"
 category: "Locations"
 tags: [aethelrock, celtic-union, clan-world, locations, boundary-territory, clan-avalon]
 description: "The third documented charter world of the Celtic Union of Planets — a granite highland world held not by one government but by rival clans, whose fractious unity is tested every time the Union needs a single voice."
+plain: "Aethelrock is a cold granite highland world and the third charter world of the Celtic Union of Planets. Its ark carried five cooperatives that never merged, each took its own glens, and the world is held by five clans with no planetary government. The Ridgemoot of clan heads binds only as far as the clans choose; the peace is kept by mutual deterrence. The Union wants one voice per world, and Aethelrock, which rotates its seat, has never fully solved that. It fields the Union's largest militia and is its least predictable voice in council."
 galaxy: "Milky Way"
 system: "Bruane System"
 locationType: "Planet"

@@ -4,6 +4,7 @@ title: "The Knarr Line"
 category: "Factions"
 tags: [knarr-line, faction, belt, sol-system, scandinavian, nordic, the-thing, institutions, history]
 description: "A Belt-based shipping and ice-mining cooperative old enough to have helped write the Solar System's first navigation treaty — and, five hundred years and four changes of Solar System government later, the closest thing its scattered Nordic-heritage habitats have ever had to a government of their own."
+plain: "The Knarr Line is a five-hundred-year-old Belt shipping and ice-mining cooperative that has, in practice, become the government of the Nordic-heritage habitats around its routes. It was hauling ice before there was a Solar System government to ask, helped write the first navigation treaty, and has outlasted four changes of government since. It has no president; its assembly, the Thing, binds only claim boundaries, convoy safety and the sharing of ice and ore. It holds its standing under one of the oldest charters the Solar System Defence Command administers."
 image: "knarr-line.jpg"
 image_alt: "Designed cover for The Knarr Line: three stacked chevrons in a pale steel-blue glow on a dark blue-grey field, the category FACTIONS above and the title beneath, with the lines Belt Shipping and Ice-Mining Cooperative and Old enough to have helped write the first navigation treaty."
 ---

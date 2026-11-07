@@ -4,6 +4,7 @@ title: "Aspenar"
 category: "Locations"
 tags: [aspenar, federation-of-sentient-beings, dome-world, mining-world, locations, orbital-habitat]
 description: "A rocky, resource-rich member world of the Federation of Sentient Beings — Earth-like gravity on a barren surface too bright and too metal-rich to walk unshielded, worked by humans and Federation species alike from bio-domes and orbital habitats."
+plain: "Aspenar is a barren, resource-rich planet in the Calder's Reach System and a charter member of the Federation of Sentient Beings. Its dense core gives it near-Earth gravity and puts iron, rare earths and heavy metals within reach of the crust, but its surface is too bright and radiation-laden to walk unshielded. People live under sealed domes and in an orbital ring, each species in its own air. Its refined ore and alloy, sold under long Federation contract, are the material backbone of the Federation's support for the Star Rangers."
 galaxy: "Milky Way"
 system: "Calder's Reach System"
 locationType: "Planet"

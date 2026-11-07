@@ -4,6 +4,7 @@ title: "New London Space Habitat"
 category: "Locations"
 tags: [new-london, space-habitat, lagrange, earth-moon-l5, crisis-centuries, cultural-preservation, governance, orbital-habitats]
 description: "Three Stanford torus rings at Earth–Moon L5, built as a refuge for British cultural heritage during the Crisis Centuries — and still running centuries after the emergency that justified it ended."
+plain: "New London Space Habitat is three spinning Stanford torus rings at Earth–Moon L5, begun in the 2180s CE as a refuge for British culture when the Crisis Centuries drowned much of the British Isles. Earth recovered; the habitat stayed, and some 180,000 people live there under a working constitutional monarchy with nobody on the throne, a single elected Parliament and a canal called the Thames. It is outside the Orbital Habitats Compact, so its dealings with the other habitats are diplomatic. Its site was later classed a Tier 1 fold-staging zone, governed only by agreements between governments."
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"

@@ -4,6 +4,7 @@ title: "The Orbital Habitats Compact"
 category: "Institutions"
 tags: [orbital-habitats-compact, governance, eden, orbital-five-o, institutions, self-governing]
 description: "The civil administration governing five self-governing orbital habitats in near-Earth space, including Eden Space Habitat — and how its ordinary policing chain runs alongside, not through, the Star Rangers' fold-route oversight."
+plain: "The Orbital Habitats Compact is the civil government of five self-governing habitats in near-Earth space, Eden among them, where the Star Rangers hold no authority. A Governor sits at the top, then a Chief Commissioner, then each habitat's own Commissioner, who answers also to its elected Mayor, with the habitat's detective bureau and AI Collective below them. Each bureau polices only its own habitat, so a case that crosses habitat lines falls between them; Orbital Five-O was commissioned by the Governor to close that gap, and it is the tier that decides when a matter is the Rangers' and invites them in. New London is not a member."
 image: "orbital-habitats-compact.jpg"
 image_alt: "Designed cover for the Orbital Habitats Compact: concentric blue rings forming a civil-governance emblem, on a dark background."
 ---

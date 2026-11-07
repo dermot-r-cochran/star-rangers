@@ -5,6 +5,7 @@ category: "Species"
 tags: [mnemari, species, ilenne, federation-of-sentient-beings, memory, mediation, indefinite-lifespan]
 revealed_by: s01e00c08
 description: "A sapient people native to Ilenne with no natural upper bound on lifespan and no natural decay of memory — whose culture is built less around growing old than around what to do with a mind that never has to let anything go."
+plain: "The Mnemari are a sapient people from Ilenne, not on the human frame, whose bodies do not age and whose memories never fade. Injury or disease can still kill them; old age cannot, and an event from four centuries ago stays as vivid as one from four days ago. That makes them sought after across the Federation as mediators and archivists, and it is what costs them most, since grief never softens. Their civic life is built around the Setting-Down, a voluntary, witnessed retirement taken when a Mnemari judges their memory is crowding out the present."
 image: "mnemari.jpg"
 image_alt: "Designed title card on a dark violet star field: the category SPECIES in spaced capitals at the top, the thin outline of a dial with twelve tick marks and a single hand, held in a soft glow, and below a short rule the title MNEMARI in pale serif capitals, subtitled 'Those Who Do Not Forget' and 'No upper bound on lifespan, no decay of memory'."
 ---

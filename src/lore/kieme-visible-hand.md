@@ -4,6 +4,7 @@ title: "Kieme's Visible Hand"
 category: "Cosmology"
 tags: [cosmology, kieme, evil, suffering, church-space]
 description: "The church-space telling of the Cosmic Limitation on Evil — where the Archive insists Kieme's ledger can only be inferred, devotional tradition shows the hand doing the keeping."
+plain: "Kieme's Visible Hand is the church-space telling of the Cosmic Limitation on Evil. The Limitation is not disputed: what exists to serve evil dissolves once it serves no higher purpose, and Kieme alone repays the suffering. The Archive holds that nobody ever sees Kieme do this; it infers the act from what evil leaves behind. The devotional tradition says the keeping is sometimes witnessed, as harm that stops just short, and points to Dock Seven in 2831, where an enforcement action fell on an unlawful process and touched no one outside it. This telling claims only that the harm stopped short."
 ---
 
 The [Cosmic Limitation on Evil](/star-rangers/codex/cosmic-limitation-on-evil/) is not in dispute: every entity that exists in service of evil dissolves once it no longer serves a higher purpose, and the suffering it caused is a debt [Kieme](/star-rangers/glossary/kieme/) alone repays. What's in dispute is whether anyone ever sees Kieme do it.

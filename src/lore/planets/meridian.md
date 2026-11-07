@@ -4,6 +4,7 @@ title: "Meridian"
 category: "Locations"
 tags: [meridian, biosphere-planet, cerebraun-hegemony, toxic-to-humans, crustacean, locations]
 description: "A biosphere world of dense, chemically hostile seas and armored native intelligence — home to an advanced crustacean people, administered as a subject world of the Cerebraun Hegemony."
+plain: "Meridian, third planet of the Halyx System, is a biosphere world held as a subject world of the Cerebraun Hegemony. It is dense with native life, but its halogen-heavy air and ammonia-saline seas kill an unprotected human in a few breaths. Its most advanced crustacean people are sapient and build reef-cities in secreted mineral that two Hegemony surveys took for rock. The reef-cities govern themselves day to day, but a Hegemony Administrator-Voice holds final say over trade and extraction, and extraction has not slowed for the people's objections to its pace. The first human settlers nearly quarried a living city on stale files, a near-miss the Survey Corps now teaches from."
 galaxy: "Milky Way"
 system: "Halyx System"
 locationType: "Planet"

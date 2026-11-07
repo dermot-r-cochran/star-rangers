@@ -4,6 +4,7 @@ title: "Knarrheim"
 category: "Locations"
 tags: [knarrheim, knarr-line, habitat, belt, sol-system, locations, the-thing]
 description: "The Knarr Line's oldest and largest habitat — a converted ice-hauler mothership grown into a permanent station over five centuries, and the usual seat of the Thing."
+plain: "Knarrheim began as a ship. The Knarr Line's oldest and largest habitat, and the usual seat of the Thing, was once the Nordstjerne, the biggest hauler-mothership in the Line's founding fleet, and has not moved under its own power for over four centuries. Refinery modules and habitat rings grew around the old hull, which is still load-bearing and the most reinforced part of the station. The Thing Hall, cut into it later, carries a hand-added tally of chartered habitats trusted above the official registry. Life aboard runs like a working port town."
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"

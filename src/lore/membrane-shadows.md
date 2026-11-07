@@ -4,6 +4,7 @@ title: "Membrane Shadows: Gravitational Imprints from Adjacent Membranes"
 category: "Cosmology"
 tags: [membrane-shadows, gravitational-bleed, concordant-membranes, intermembrane-bleed, boundary-zone, post-11-manifold, shadow-beings, photographic-beings]
 description: "Not every dark, person-shaped anomaly at a boundary zone has crossed over. A Membrane Shadow is gravitational bleed-through from a coherent mass on the far side of a narrowed Interval — the imprint of a being that never leaves its own universe to cast it."
+plain: "A Membrane Shadow is the gravitational imprint of a mass in a neighbouring universe, seen where the Interval between the two is narrow. Nothing crosses over: the being stays on its own side, and only the strain between the two membranes reaches this one, bending light into a dark figure or, where it converges, a bright one called a Photographic Being. The neighbour supplies the shape; the Interval supplies the strength. Not all are dark or person-shaped, and the Caomhari and the Dryads are the same phenomenon with a kinder neighbour. Whether any is cast on purpose stays open."
 image: "membrane-shadows.jpg"
 image_alt: "A plain, pale observation room seen from its doorway, a long low window onto a flat misty marsh at dawn. A few paces in front of the window stands a tall person-shaped silhouette, perfectly dark and featureless, its edge thinly lit, casting no shadow on the pale floor, while the low bench beside it casts one."
 ---

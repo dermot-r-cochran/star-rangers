@@ -4,6 +4,7 @@ title: "Cirrane"
 category: "Locations"
 tags: [cirrane, ollune, vantine-system, gas-giant, federation-of-sentient-beings, locations]
 description: "A gas giant in the Vantine System and the only Federation member world with no surface — home to the Ollune, and named by a survey catalogue rather than by anyone who lives there."
+plain: "Cirrane has no surface, and the Ollune who live on it have no name for it. It is a gas giant in the Vantine System; its people have a name only for Freyari, the band of habitable air that is the whole world to anyone born inside its overcast. Its bands of air move at different speeds, so a shoal far off in the same band is unreachable while one a few kilometres above is a regular trading partner. The Long Eye, a permanent storm, is the one fixed point to steer by. The Federation found the Ollune when a signal logged as weather proved to be a language."
 image: "planets/cirrane.jpg"
 image_alt: "Inside the atmosphere of a gas giant, looking along a layer of air: a pale overcast deck above, a brown cloud deck far below, a row of curling shear billows where two bands slide past each other, and veils of haze drifting down through the light, with no ground, horizon or solid thing anywhere"
 galaxy: "Milky Way"

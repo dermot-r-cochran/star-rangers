@@ -4,6 +4,7 @@ title: "Physics Comparison: Real Cosmos vs. The Fictional Cosmos"
 category: "Cosmology"
 tags: [cosmology, physics, meaning-field, probability, entropy, consciousness, dimensional-topology, causality, information-theory, five-layers]
 description: "A structured hard-SF comparison of real-world physics against the layered physics of the Star Rangers fictional cosmos, grounded in the Five Layers and the full Cosmic Cascade hierarchy."
+plain: "The Star Rangers cosmos keeps real physics at its lower layers and changes the architecture above them. Within any Concordant, matter, causality, entropy and quantum randomness behave much as they do in the real universe; the difference is that the constants were chosen by Worldwrights, the laws are kept by Mediarchs, Celestials and Levrils, and a third, conceptual channel of information runs beside the quantum and thermodynamic ones. Probability can be nudged within strict bounds, entropy is slowed but not stopped, and minds couple lawfully to meaning-fields. None of it is magic. It is architecture."
 image: "physics-comparison.jpg"
 image_alt: "A rough circle traced in orange and white light trails against pure black, the strands tangling and doubling back on themselves with small sparks thrown off along their length, the ring left open on one side."
 ---

@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Thirty-five more lore pages open with a plain summary** (`src/lore/*.md`, 35 pages from `guild-distinctions` to `planets/meridian`, `scripts/lore-plain-backlog.txt`, 2026-11-07, Fable, Dermot's *"Always start lore pages with a simplified explanation or quick summary before adding more details and context"*). The second batch of the backlog, on the same terms as the first: each line is written from its page at a plainer register and checked claim by claim against it. The backlog falls from 104 to 69.
+
 - **Thirty-five lore pages open with a plain summary** (`src/lore/*.md`, 35 pages from `ai-safety-kernel` to `ftl-mechanics`, `scripts/lore-plain-backlog.txt`, 2026-11-07, Fable, Dermot's *"Always start lore pages with a simplified explanation or quick summary before adding more details and context"*). The first batch of the backlog: each page gains a `plain:` line, rendered as its *In short* box, written from the page's own text at a plainer register and checked claim by claim against it. The backlog falls from 139 to 104.
 
 - **Every lore page opens with a plain summary** (`CLAUDE.md`, `scripts/check-lore-plain.js`, `scripts/lore-plain-backlog.txt`, `package.json`, `story-bible/intake-2026-11-07.md`, 2026-11-07, Opus, Dermot's *"Always start lore pages with a simplified explanation or quick summary before adding more details and context"*). The *In short* box, rendered from a page's `plain:` line, becomes required: a new check in `npm test` fails a lore page without one. The 139 older pages that lack it are listed in a backlog that may only shrink, and get their lines in batches.
