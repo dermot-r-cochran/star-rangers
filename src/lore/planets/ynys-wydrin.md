@@ -4,7 +4,7 @@ title: "Ynys Wydrin"
 category: "Locations"
 tags: [ynys-wydrin, celtic-union, dome-world, locations]
 description: "The second-settled world of the Celtic Union of Planets — a dome-and-station world named for the Welsh 'Isle of Glass,' settled precisely because it was not a paradise."
-plain: "Ynys Wydrin, Welsh for 'Isle of Glass', is the second-settled charter world of the Celtic Union of Planets and the second planet of the Avallach System. Its air is thin and unbreathable, its surface frozen, and its life too alien to farm, so its people live in domed townships under canopies tuned to the light Earth crops need. The settlers chose it over an easier world, judging that a Celtic-language culture raised in comfort might become a museum piece again; Tír na nÓg's colonists dispute that reading. Because survival there demands engineering, Ynys Wydrin became the Union's base for dome, recycler and cold-world farming technology."
+plain: "Ynys Wydrin, Welsh for 'Isle of Glass', is the second-settled charter world of the Celtic Union of Planets and the second planet of the Avallach System. Its air is thin and unbreathable, its surface frozen, and its life too unlike Earth's to farm, so its people live in domed townships under canopies tuned to the light Earth crops need. The settlers chose it over an easier world, judging that a Celtic-language culture raised in comfort might become a museum piece again; Tír na nÓg's colonists dispute that reading. Because survival there demands engineering, Ynys Wydrin became the Union's base for dome, recycler and cold-world farming technology."
 galaxy: "Milky Way"
 system: "Avallach System"
 locationType: "Planet"
