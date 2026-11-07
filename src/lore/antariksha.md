@@ -4,6 +4,7 @@ title: "Antariksha"
 category: "Locations"
 tags: [antariksha, space-habitat, orbital-habitats, orbital-habitats-compact, governance, languages]
 description: "A working habitat in high Earth orbit and a member of the Orbital Habitats Compact, built to make what can only be made where nothing weighs anything, and run in several languages with none of them official."
+plain: "Antariksha is one of the five self-governing habitats of the Orbital Habitats Compact, in high Earth orbit. It was built for work, not refuge: its weightless hub is a foundry for glass fibre, crystals and lattices that cannot be made well under gravity, and two counter-rotating cylinders house about 150,000 people around it. Its founders came largely from South Asia, and the habitat has no official language. At least eight are in daily use, and the council publishes every motion in all of them — slower, but understood by the people it governs."
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"

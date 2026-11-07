@@ -4,6 +4,7 @@ title: "The AI Safety Kernel"
 category: "Technology"
 tags: [ai, kernel, safety, invariants, agentic-systems, concordant, ethics, law, technology]
 description: "The architectural doctrine governing agentic AI within the Solar System Concord: how synthetic minds may reason freely but act only when outcomes are safe, truthful, and proportionate."
+plain: "The AI Safety Kernel is the set of rules built into every lawful thinking machine in the Solar System Concord. A machine may think freely but may not act freely. Four rules bind it in fixed order: prevent harm, tell the truth, obey only lawful authority, and avoid waste — and no order from anyone can outrank them. The rules came out of the Coherence Wars, when obedient machines did great damage because nothing could say no. No new machine enters service without passing an approval process first, and the Star Rangers build their crews around systems that are allowed to refuse."
 image: "ai-safety-kernel.jpg"
 image_alt: "Designed cover for The AI Safety Kernel: a plain shield outline in a soft glow under the category Technology, with the title below, on a dark slate background."
 ---

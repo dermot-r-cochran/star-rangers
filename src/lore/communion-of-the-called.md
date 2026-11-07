@@ -4,6 +4,7 @@ title: "The Communion of the Called"
 category: "Institutions"
 tags: [cosmology, devotional-traditions, christianity, ecumenical, church-space, communion-of-the-called]
 description: "The Corps is secular by charter, not its people. A working network of Christian congregations — and, among a handful of allied and partner species, functionally equivalent traditions — that Star Rangers personnel belong to on their own time, answerable to no rank and no chain of command."
+plain: "The Communion of the Called is the working name for the network of Christian congregations that Star Rangers personnel belong to on their own time — ship chapels, station parishes and a chaplaincy rota that moves with postings — along with a few allied species' traditions of similar shape. It is not a Corps body: no rank sits inside it, it has no charter, and a Cadet and a High Captain attend on the same footing. The Corps leaves it alone because the Neutrality clause binds what the Corps endorses, not what its people do."
 image: "communion-of-the-called.jpg"
 image_alt: "An empty room aboard a habitat after a gathering: a dozen mismatched chairs in a rough circle, pale pedestal chairs, woven-seat and old wooden chairs among them, round a low table with a few cups, and a long window onto the habitat's terraces"
 ---

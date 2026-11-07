@@ -4,6 +4,7 @@ title: "The Five Layers of Reality"
 category: "Cosmology"
 tags: [cosmology, layers, spiritual, conceptual, etheric, physical, material]
 description: "The five ontological layers and their measurable interaction rules: the upper two multiverse-wide, the lower three local to this universe."
+plain: "Reality is expressed through five layers — Spiritual, Conceptual, Etheric, Physical and Material — and they are causal modes, not metaphorical planes. The upper two reach across the whole multiverse; the lower three belong to this universe alone. Constraint runs downward and is total: nothing at a lower layer can override a higher one, and no effect crosses layers without lawful coupling. Only the Conceptual layer keeps a register, and it conserves every coherent mind — though conservation is not continuation, and whether that is a soul the Archive does not say."
 image: "five-layers.jpg"
 image_alt: "A luminous blue spiral galaxy seen face-on, with faint translucent planes of light layered across it suggesting depth strata"
 ---

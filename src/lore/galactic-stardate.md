@@ -4,6 +4,7 @@ title: "Galactic Stardate"
 category: "Timeline Notes"
 tags: [timeline, stardate, chronology, standards, galactic-rotation]
 description: "A long-range stardate system measured by galactic rotation cycles rather than planetary years."
+plain: "Galactic Stardate counts time by the galaxy's rotation rather than by any planet's year, because planetary years differ by world and by species and a galactic cycle is shared by all of them. It is the calendar for history that crosses Concordants: events spanning many worlds, long migrations and pre-contact archaeology. UCSD stays the standard for daily records and mission logs, and archives may cite both. Where chronology must hold across several planets or species, Galactic Stardate is the authoritative timestamp."
 image: "galactic-stardate.jpg"
 image_alt: "Designed cover for Galactic Stardate: a sundial device, a circle with tick marks and a single hand, in a warm amber glow on a near-black field, the category TIMELINE NOTES above and the title beneath, with the lines Measured by Galactic Rotation and Cycles, not planetary years."
 ---

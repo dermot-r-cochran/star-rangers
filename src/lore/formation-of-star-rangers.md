@@ -4,6 +4,7 @@ title: "The Founding of the Star Rangers"
 category: "History"
 tags: [star-rangers, founding, msc, eden, fold-route, charter, history, formation, young-star-rangers]
 description: "How the Star Rangers came to exist: the pressures, the arguments, and the moment the Military Space Command's institutional failure became irreversible."
+plain: "The Star Rangers were founded in 2723 UCSD because the Military Space Command could not answer boundary and fold-route events at the speed they demanded. The Eden fold route, the MSC's slow paperwork and the loss of Patience First led to the 2719 Consolidation Hearing, where General Krast's own words — she would rather be called a tyrant — undid her case. The charter lets the Rangers act without committee delay, under strict limits: neutrality, no governing, no planetary jurisdiction, self-funding. The vocation is older than the charter: the Rangers are the Fellowship of Light's operational chapter, and a ranger here is a warden, not a lawman."
 image: "formation-of-star-rangers.jpg"
 image_alt: "A long pale table seen from one end in a coved ochre-grey chamber, set with cups, saucers, glasses and a carafe left where they stood, moulded chairs pushed back and one lying on the floor, under ceiling light slots; at the far end a long low window looks out on rust-red Martian ground under a pale sky"
 ---

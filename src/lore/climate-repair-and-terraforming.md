@@ -4,6 +4,7 @@ title: "Climate Repair and the Origin of Terraforming"
 category: "History"
 tags: [earth, history, climate, terraforming, transformation-protocols, crisis-centuries, united-space-consortium, mars, technology]
 description: "Terraforming was never a frontier technology. It was developed on Earth, for Earth, as the engineering answer to the Crisis Centuries — and the slow, partial, never-finished shape of that repair is the shape every later transformation doctrine converged on."
+plain: "Terraforming began on Earth, not on Mars. Every technique in the modern toolkit — managing air and ocean chemistry, scaffolding reefs, moving species, rebuilding coasts — was worked out during the Crisis Centuries by people trying to keep a living world alive; the word came back to Earth only when the same methods crossed to Mars. The repair was slow and partial and is not finished, and every later transformation doctrine converged on that shape. The Rangers' charter forbids terraforming living worlds; restoring Earth toward a state it had already held is read as a different act, though no hard case has tested the line."
 related: ["The Crisis Centuries: Terran Wildlife from Collapse to Stewardship", "Frontier Transformation Protocols", "Mars", "Venice", "New London Space Habitat", "United Space Consortium"]
 ---
 

@@ -4,6 +4,7 @@ title: "Ascent Javelins"
 category: "Technology"
 tags: [ascent-javelin, orbital-ascent, spaceflight, technology, teleportation, fusion, safety-corps, high-gravity]
 description: "Why getting off a planet still means flying: the missile-launched orbital ascent craft that carry passengers and cargo from surface to orbit on Earth-gravity worlds and below — and the fusion-boosted variants that make even heavy worlds climbable."
+plain: "Ascent javelins carry people and cargo from a planet's surface to orbit: winged craft, launched near-vertically like a missile. They exist because teleporting out of a gravity well fails every lawful constraint, so after eight centuries people still fly up; coming down is the landing craft's job. Chemical javelins are rated for Earth gravity and below; heavier worlds need fusion-thermal javelins, flown by specialist crews under stricter rules. A few coastal sites launch along a level rail instead. The javelin's job ends at a parking orbit — the journey begins after."
 image: "ascent-javelins.jpg"
 image_alt: "An ascent javelin seen from alongside in its climb above a deck of cloud: a long, pale, flattened winged lifting body with a blunt nose and a short row of ports at the front, a faint exhaust trail behind, the sky darkening toward the top of the frame."
 ---

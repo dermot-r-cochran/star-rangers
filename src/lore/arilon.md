@@ -4,6 +4,7 @@ title: "Arilon"
 category: "Culture"
 tags: [arilon, fellowship-of-light, cosmic-cascade, levrils, champions, krenyi, culture, devotional-traditions, ecumenical]
 description: "Not a person. A name the Fellowship of Light's comparative archive gives to a recurring pattern — a teacher, witness, or wanderer who names a boundary truth no local authority will name first — found independently across cultures that never had contact with one another."
+plain: "Arilon is not a person. It is the Fellowship of Light's filing name for a pattern found among many unconnected peoples: an outsider who names a truth about a boundary place that local authority will not, is opposed for it, and is gone before the record proves them right. The Cosmic Cascade reads the pattern as the footprint of Levril-selected Champions, of any species. The Fellowship files that reading, and files without adopting it the guess that some figures were Krenyi, and holds that on Old Earth only humans could have been chosen."
 image: "arilon.jpg"
 image_alt: "Overlapping translucent silhouettes of robed figures at different scales on a pale parchment ground, none of them in focus and none dominant"
 ---

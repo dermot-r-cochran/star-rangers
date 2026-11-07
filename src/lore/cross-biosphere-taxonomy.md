@@ -4,6 +4,7 @@ title: "Cross-Biosphere Taxonomy: Frames and Lineages"
 category: "Institutions"
 tags: [taxonomy, survey-corps, species, classification, biology, frames, lineages, medical]
 description: "Why the Survey Corps cannot classify alien species the way it classifies Earth's — and the two-rank scheme it built instead: frames, which describe structure and claim no ancestry, and lineages, which claim ancestry and never leave one world."
+plain: "The Survey Corps cannot classify alien species the way Earth classifies its own, because Earth's taxonomy is a family tree and across worlds there is no shared ancestor and no shared chemistry: life began separately on each world. So the Corps uses two ranks. A frame says how a body is held up and claims no kinship: humans and Krenyi share one frame and are unrelated. A lineage claims real descent and never leaves one world. Every likeness to an Earth animal is the observer's. The scheme is for medicine, life support and fitting, not science."
 image: "cross-biosphere-taxonomy.jpg"
 image_alt: "Four preserved body-frames laid apart along a pale composite bench in a bare, white specimen room: a lattice of pale crystalline struts and nodes, a soft segmented body with no bones, slumped and wrinkled, a round leathery disc with a scalloped rim, and a legless frame of overlapping grey plates folded like a fan. Daylight from a window on the left."
 ---

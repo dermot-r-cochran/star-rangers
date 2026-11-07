@@ -4,6 +4,7 @@ title: "Ask, and It Will Be Reviewed"
 category: "Cosmology"
 tags: [cosmology, church-space, prayer, levrils, celestials, spiritual-life, cascade]
 description: "The church-space telling of prayer and magic as the work of a permissions office: Levrils as planning officers, Celestials as enforcement, the Mediarchs' forces as the building code, and appeals heard by the Telearchs in conceptual time. The elders concede the title is a joke, and keep it, because the joke is load-bearing."
+plain: "Ask, and It Will Be Reviewed is a church-space telling that pictures prayer as an application to a planning office. Levrils are the planning officers and the Telearchs the appeals tribunal. Every sincere wish is already on the register, and the office answers in four classes, most often 'Noted' or an amendment toward the plan. Magic is building without a permit: not punished, but uncertified, so it does not stand. The elders concede the title is a joke and keep it, because it carries their belief that the world is lawful all the way up, that grace mostly arrives unasked, and that the plan has your house on it."
 image: "ask-and-it-will-be-reviewed.jpg"
 image_alt: "A warm, empty waiting room in a planning office: a pale bench moulded into the wall with a coat left on it, a potted plant, a counter with its service opening closed by a sliding panel, and a tall window onto low rounded buildings with an ascent javelin's trail climbing the late sky"
 ---

@@ -4,6 +4,7 @@ title: "Environmental Technology Design: Biosphere, Station, and Ritual Space"
 category: "Technology"
 tags: [technology, environment, aesthetics, biosphere, station, elvira, ritual, design]
 description: "How technology reads differently across three recurring settings — biosphere planets, remote stations, and the orbital research station where old and new bridge each other."
+plain: "Technology reads differently in three kinds of place. On biosphere worlds it recedes into the organic setting, so subtly a visitor might miss it. On remote stations it declares itself — decking, recyclers, drones on patrol — because survival depends on systems being visible and maintained. The orbital research station where Elvira performs her ritual holds both, fabricated hulls beside a bronze jaguar and river stones from Earth. Across all three the AI is everywhere and announces almost none of it: lawful systems are the building itself, given a body only when the work needs one, and a drone only for good reason."
 image: "environmental-technology-design.jpg"
 image_alt: "Designed cover for Environmental Technology Design: Biosphere, Station, and Ritual Space: concentric rings in a soft glow under the category Technology, with the title below in two lines, on a dark green-black background."
 ---

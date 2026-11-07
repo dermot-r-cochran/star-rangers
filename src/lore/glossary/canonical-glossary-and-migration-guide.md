@@ -4,6 +4,7 @@ title: "Canonical Glossary and Terminology Migration Guide"
 category: "Reference"
 tags: [glossary, terminology, migration, canon, hierarchy, ranks, archwarden, concordants, worldwrights, telearchs, protouniverse, dimensions, compact-dimensions, interval, common-manifold]
 description: "Central canonical glossary for Star Rangers terminology, including migration mappings and plural Universal Authority/collective ascension additions."
+plain: "The Canonical Glossary and Terminology Migration Guide is the Archive's master list of the words Star Rangers cosmology uses, and of how they have changed. It lists the Cosmic Cascade from the Hyperomnium down to the Levrils, defines its lower tiers and the terms for universes, membranes and boundaries, and records rulings on in-world institutions, ranks and languages. A migration table maps retired or ambiguous terms to their current forms, usually with the date and reason. New writing uses the canonical terms; a period document keeps a name that was correct in its day and is quoted as written, while the Archive's own corrections are migrated on sight."
 image: "canonical-glossary-and-migration-guide.jpg"
 image_alt: "A heavy bound reference volume lying open on a pale worktable in an archive reading room, its pages ruled in empty columns, a short red pencil in the gutter of the spine; beside it a small sealed cream housing with one green indicator, and behind, out of focus, shelves of identical unmarked spines."
 ---

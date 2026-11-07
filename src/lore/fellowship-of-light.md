@@ -4,6 +4,7 @@ title: "The Fellowship of Light"
 category: "Institutions"
 tags: [fellowship-of-light, star-rangers, overfold, neutral-broker, institutions]
 description: "An ancient, universal order predating current Solar System political history, whose contemplative and operational chapters both tend the places where the world runs thin. The Star Rangers are its modern operational expression."
+plain: "The Fellowship of Light is an old universal order that tends the places where the world runs thin. It is older than any Solar System government and not a faith, though the nearest thing the record has to one. It has two faces: contemplative chapters, which watched boundary phenomena under older names like the Overfold before instruments could measure them, and operational chapters, which the Star Rangers now are. Its founding renunciation of political and commercial interest is why the Rangers are trusted as a neutral broker. It will not dismiss scientific data, and it will not stretch that data into a verdict on theology."
 image: "fellowship-of-light.jpg"
 image_alt: "Designed cover for the Fellowship of Light: a gold radiant compass-like emblem in a ringed seal, on a dark background — a contemplative order, not a political chamber."
 ---

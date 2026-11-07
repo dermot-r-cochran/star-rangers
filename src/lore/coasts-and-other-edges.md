@@ -4,6 +4,7 @@ title: "Coasts, and Other Edges"
 category: "Physics"
 tags: [coasts, coastlines, littoral, physics, planets, boundary, harbours, erosion]
 description: "Coasts and coastlines on habitable worlds: the fastest landform in the record, the address every settlement wants, and the everyday rehearsal for the edges the record actually exists to watch."
+plain: "Coasts are the fastest-changing landform in the record: a shoreline erodes, silts and rebuilds within a lifetime, so coastal peoples grow up knowing ground is provisional. Settlement gathers at coasts on every surveyed world that has them, because an edge lets people harvest two systems at once. Some worlds bend the idea — water worlds with no natural coastline, the Pelagene whose littoral runs through the water column, edges between atmospheres or between desert and cavern. The Survey Corps records no coastline's length, since the figure depends on the ruler. The record's own words for the universe's stranger edges were borrowed from the coast."
 image: "cloud-sea.jpg"
 image_alt: "A sea of cloud seen from a high slope, flat and white to the horizon under a clear sky, with two distant dark ridges standing out of it like islands and a forested ridgeline running down into the cloud."
 ---

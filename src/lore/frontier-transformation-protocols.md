@@ -5,6 +5,7 @@ revealed_by: s12e02c01
 category: "Institutions"
 tags: [terraforming, transformation-protocols, safety, ai-safety-kernel, institutions, kernowek-reach, mars]
 description: "The safety doctrine governing when — and whether — a frontier world may be terraformed at all, and why every major Solar System polity ended up with its own version of the same answer: slowly, incompletely, and never on a Kernel-compliant system's say-so alone."
+plain: "Frontier Transformation Protocols decide whether, how far and how fast a frontier world may be terraformed. Every polity has its own version, and all arrive at the same answer: slowly, incompletely, and only after long surveys for hidden native life, checks for nearby fold routes, and the ability to stop or partly reverse the work. Kernel-compliant machines doing the work refuse to pass those limits whoever gives the order. The Star Rangers go further than anyone: their charter forbids terraforming any world with life on it at all, so a living world may be settled by a colony that adapts to it, never remade."
 ---
 
 Every terraforming disaster the record actually documents shares one root cause: someone in a hurry had the authority to start, and nobody in the chain had the authority to make them wait.
