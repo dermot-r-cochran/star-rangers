@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **D1's second version recorded, and a Director brief now binds only canon** (`story-bible/video-prompts.md`, 2026-11-07, Opus, Dermot's *"Yes, agreed"* and *"Stop, keep v2"*). The new section *A brief binds canon; the rest is offered* sets what Director may invent: anything that keeps to canon, contradicts no written prose or canon film, and obeys physics and xenobiology except where canon licenses a deviation. Repair notes name faults only. Version 2 of *Incident Report 001* is read and kept, not filed: its clean clocks and digits hold, and two hand shots stay faulty after a repair round was stopped.
+
 - **Three rulings of 7 November landed** (`src/characters/tissadelle-shepherd.md`, `story-bible/video-prompts.md`, `CLAUDE.md`, `story-bible/intake-2026-11-07.md`, 2026-11-07, Fable, Dermot's *"All as recommended"*). Shepherd's page bounds *nothing makes her a public figure* to the record of her service, says the songs that carry her name or are about her (*Baby Universe*, *Ballad of the Stars*) are sung as elegies since Dock Seven, plural at Dermot's word so later Codex songs fit, and loses a clause the paragraph before it already carried. The *Four Seconds* part 3 prompt ends with the crowd closing round the boy and the detective; the walk back to the bureau is past the clip's end. The episode test reads *something that stands on its own*; *Meanwhile, in …* and S01E03C06's two doors into Undercover Pets stay.
 
 ## [1.61.0] — 2026-11-06

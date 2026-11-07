@@ -174,6 +174,23 @@ cameras existed (a Currach-era ark, a 1216 AD event) is still shot as if by a
 29th-century device, as a reconstruction or archive record made at the story's
 present (his choice the same day), never in a period film look.
 
+### A brief binds canon; the rest is offered
+
+**Ruled by Dermot, 7 November 2026** (*"Yes, agreed"*, then *"so long as it sticks to
+canon and does not contradict prose already written, or other videos with canon status
+then it is fine"*, and *"They should also obey physics and xenobiology except for the
+licensed deviations in canon"*). A Director brief binds only what the record or a ruling
+fixes: the facts, the look and the judging line. Framing, pacing, staging and invented
+detail, such as the time a clock shows, are offered, not required. What Director invents
+stands if it keeps to canon, contradicts neither written prose nor any of Dermot's films
+given canon status, and obeys physics and xenobiology except where canon licenses a
+deviation. Exact numbers on screen go only in the shots where the story turns on them,
+and a negative lists only the refusals that have actually got through. A repair note
+names the fault, the shot and the time, and ends *keep everything else as it is*; it adds
+no requirement and prescribes no method. D1's repair of 7 November asked for six things
+across two shots, one of them a framing change nobody had faulted, and Director spent an
+hour writing its own masks and filters without finishing.
+
 ### The camera is a witness
 
 The strongest rule here, and it comes straight out of how the prose works:
@@ -1021,9 +1038,29 @@ frames: the clocks each grow an extra hand at 1:22 to the end; a small red label
 the module at 1:01 to 1:06, which sits still for three seconds; and the figure's chin shows
 for a moment in the doorway, which the frames every three seconds did not catch.
 
+**Version 2, read, 6 and 7 November 2026.** Run from the rewritten brief after the
+critic's pass, in a new project, `b5e7775b`, which Director labels its own version 1.
+Director went straight to production, with no setup questions. 1:31, 854×480, 8 scenes,
+kept at `F:\CLAUDE\Director films\` as *Incident Report 001 — v2.mp4*, not filed. Kept as
+it stands at Dermot's *"Stop, keep v2"*.
+
+It holds: a clean, pale dock with no dials, lamps or grime; the two clocks well apart on
+one long wall, seal left and hatch right; every readout read sharp and correct, the hatch
+clock forty seconds ahead and both counting (03:10:03 and 03:10:43 at 0:31, 01:22:07 and
+01:22:47 at 1:08); the figure between the doors, from behind, with no face. Shot 1 shows
+11:16, Director's own choice, which no record contradicts. The narration on the project
+page matches the brief and ends with the two called times; the audio is not heard here.
+
+It fails in two shots. At 0:10 to 0:15 the dock darkens during the shot, and a violet line
+shows along the foot of both doors at about 0:14, where only the sight ports may glow. At
+0:51 to 1:06 the hands wash out and read half-transparent. In both, the columns blaze
+white and the readouts vanish. One repair round on those two shots ran for an hour on
+7 November without publishing and was stopped; the rule above came out of it.
+
 | Version | Length | Date | Changed from the last | Filed |
 | --- | --- | --- | --- | --- |
 | 1 | 1:31 | 6 Nov 2026 | First run; worn dials and caged lamps | No |
+| 2 | 1:31 | 6 Nov 2026 | Rewritten brief: clean atomic clocks, digits correct; two hand shots faulty | No; kept |
 
 ### D2. Nothing Taken
 
