@@ -4,6 +4,7 @@ title: "Seed Mind Lifecycle"
 category: "Cosmology"
 tags: [seed-mind, nooseed, lifecycle, iwd, nsp, cei, auc, ufi]
 description: "Seven-phase maturation model describing how information-rich minds become transferable noöseeds."
+plain: "The Seed Mind Lifecycle is the seven-phase model of how a mind becomes a noöseed, a compressed form that can be carried into a successor universe. A mind first learns to stay itself, then absorbs outside models, makes its own, models its own thinking, holds contradictions without breaking, reaches a dense saturated state, and finally crystallises and is transferred. Each phase has its own risks and is shaped by the CEI and AUC conditions around it. The page also describes a stall, which the phase list does not name, between the last two phases, where a seed keeps generating a self on whatever scaffold it has, which from outside looks like a death."
 image: "seed-mind-lifecycle.jpg"
 image_alt: "Designed cover for Seed Mind Lifecycle: a circle ringed with tick marks and a single hand, in a soft glow under the category Cosmology, with the title below, on a dark blue-black background."
 ---

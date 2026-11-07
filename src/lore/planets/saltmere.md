@@ -4,6 +4,7 @@ title: "Saltmere"
 category: "Locations"
 tags: [saltmere, ocean-world, floating-cities, locations, first-contact, independent, annwyn-system, aquabots, ai, kernel-compliant]
 description: "A planet with no landmass at all: an unbroken global ocean, settled entirely on engineered floating city-platforms tethered to the seafloor by mooring towers that never stop working."
+plain: "Saltmere is a planet with no land at all, a single ocean from pole to pole. Its people are human, cut off for so long that the story of their founding is lost, and for four centuries they have lived on floating city platforms held to the seabed by cables from mooring towers. Everything is built to give rather than hold rigid, because the storms cannot be outrun. Small underwater robots called aquabots keep the cables sound. The Star Rangers were the first to find Saltmere, and relations have gone no further than an open invitation."
 image: "saltmere-mooring-gantry-1.jpg"
 image_alt: "A mooring gantry tower rising from Saltmere's open water, its truss causeway running out toward a floating city segment beyond the frame"
 galaxy: "Milky Way"

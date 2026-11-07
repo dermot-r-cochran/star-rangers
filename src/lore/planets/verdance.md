@@ -4,6 +4,7 @@ title: "Verdance"
 category: "Locations"
 tags: [verdance, calyx-system, biosphere-planet, verdani, federation-of-sentient-beings, locations]
 description: "A biosphere world of extraordinary ecological range — four climate zones, each hosting a distinct native civilization under a loose external-affairs confederation, united by biology more than by government."
+plain: "Verdance is the second planet of the Calyx System and the home world of the Verdani. Its climate falls into four sharply different bands — rainforest canopy, tidal fenlands, high terraces and steppe — and each has its own ecology and its own Verdani nation, none able to rule the others. The four countries coordinate only on dealings with outsiders and disputes between the bands, through the Fourfold Accord, one delegate from each. That is how Verdance sits in the Federation of Sentient Beings. Verdani historians note that biology, ecology and politics there all tell the same story: unity beneath visible regional difference."
 image: "planets/verdance.jpg"
 image_alt: "An aerial view of Verdance where forest, dry savanna, red upland and wetland meet, small settlements in each, and across a broad fen channel in the foreground the long low pale line of a flood-gate."
 galaxy: "Milky Way"

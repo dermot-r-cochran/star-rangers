@@ -4,6 +4,7 @@ title: "Sardain"
 category: "Locations"
 tags: [sardain, ilveth, cold-world, thermal-vision, geothermal, locations]
 description: "The home world of the Ilveth: a slow, cold world far out around a small dim star, with air too thin to hold the day's warmth past sunset, ground ice old enough to count as geology, and its warmth underground."
+plain: "Sardain is the home world of the Ilveth: a slow, cold world far out around a small dim star, with air too thin to hold the day's warmth past sunset. Open fire barely works there, and the clear night sky draws heat from everything that faces it, so shelter means hiding warmth from the sky, not the wind. The world's warmth is underground, in geothermal provinces where life has always crowded and where the Ilveth built their industry. The record names no star for it and settles no polity or Federation standing."
 galaxy: "Milky Way"
 locationType: "Planet"
 ---

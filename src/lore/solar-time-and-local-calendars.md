@@ -4,6 +4,7 @@ title: "Solar Time and Local Calendars"
 category: "Timeline Notes"
 tags: [timeline, solar-time, calendar, chronology, standards]
 description: "Every inhabited world keeps its own solar calendar for daily life; UCSD and Galactic Stardate exist because no single one of those calendars could be allowed to govern the others."
+plain: "Solar time is the calendar each inhabited world keeps for itself, reckoned from its own star: its own day, year and hours. No two agree and none has to. That works for one world and fails as soon as two must agree on when something happened, which is why two shared systems sit above it: UCSD for administrative and Archive records, and Galactic Stardate for deep time too old for any planet's orbit to measure. Archive records keep UCSD and treat a world's solar calendar as local colour."
 image: "solar-time-and-local-calendars.jpg"
 image_alt: "Designed title card on a near-black star field in warm amber: the category TIMELINE NOTES in spaced capitals at the top, a thin clock face with hands held in a soft glow, and below a short rule the title SOLAR TIME AND LOCAL CALENDARS in pale serif capitals, subtitled 'Every World Keeps Its Own' and 'And no single calendar could be allowed to rule'."
 ---

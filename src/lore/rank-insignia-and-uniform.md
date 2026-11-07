@@ -5,6 +5,7 @@ revealed_by: s12e02c02
 category: "Institutions"
 tags: [star-rangers, rank, insignia, uniform, survey-corps, safety-corps, pilot-department, institutions, young-star-rangers]
 description: "How the Star Rangers mark rank and corps affiliation, and why their uniform was built to reject the Military Space Command's display culture from the first draft of the charter onward."
+plain: "The Star Rangers mark rank, qualification and corps separately, because the three fail independently and a uniform that merged them would hide exactly the case that mattered. Rank is a counted tab of bars or rings; a certification plate says what an officer is trusted to be right about; a corps badge, always one unfilled outline, says which part of the service has arrived. All are shapes, not words, seated magnetically to fit any body plan, and no name is written on the clothing. The field shell beneath is a pressure liner coloured by corps; it warms, seals and reports, and is neither armour nor a mind."
 image: "rank-insignia-and-uniform.jpg"
 image_alt: "Designed cover for Rank, Insignia, and the Ranger Uniform: a blue chevron insignia emblem in a ringed seal, on a dark background."
 ---

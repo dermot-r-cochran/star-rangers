@@ -4,6 +4,7 @@ title: "The Star Rangers Music Corps"
 category: "Institutions"
 tags: [star-rangers, music-corps, xenomusicology, music, corps, institutions, academy, musician-specialization, slipwave, tissadelle, chthonari, ovruhn, sentinel]
 description: "The specialist corps for music and whatever stands in its place: the college that trains the Corps' musicians, and the study of how the peoples the Rangers meet understand music, or its equivalent, in their cultures and in their bodies."
+plain: "The Star Rangers Music Corps is the specialist corps for music, and for whatever stands in music's place among the peoples the Rangers meet. A college of the Academy, it does two things: it holds the musician specialization, so a Ranger good at playing need not stop in order to advance, and it runs Xenomusicology, the study of what music is to other peoples. It is not a band, has no repertoire and has never commissioned a song, including the Star Rangers Anthem. Tissadelle Shepherd came into the Corps through it."
 image: "star-rangers-music-corps.jpg"
 image_alt: "Designed cover for the Star Rangers Music Corps: five brass points in an arc in a soft tinted glow on a dark plum background, like notes on a stave"
 ---

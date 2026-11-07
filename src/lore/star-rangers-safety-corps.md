@@ -4,6 +4,7 @@ title: "The Star Rangers Safety Corps"
 category: "History"
 tags: [star-rangers, safety-corps, history, standards, certification, early-expansion, survey-corps, boundary, fold-transit, ai-safety]
 description: "The Star Rangers Safety Corps and its institutional lineage from a twenty-first century product safety organisation to the Solar System's primary certification authority for boundary-proximate and fold-adjacent environments — its branches, its independence, and the limits of a voluntary standard."
+plain: "The Star Rangers Safety Corps is the Rangers' certification and standards body, and the oldest part of the organisation: it descends from a product safety testing standard published in Chicago in 1894 CE. It certifies equipment, sets the environmental limits within which Rangers may work, certifies personnel such as boundary analysts, and investigates incidents. Command may decide what the Corps tests but never what it concludes. Inside the Rangers its findings bind; outside them it can only publish and be believed, yet most of settled space works to its standard. That gap is the design, and Dock Seven in 2831 was its price."
 image: "star-rangers-safety-corps.jpg"
 image_alt: "Designed cover for the Star Rangers Safety Corps: a teal shield-and-checkmark certification emblem in a ringed seal, on a dark background."
 ---

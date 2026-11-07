@@ -4,6 +4,7 @@ title: "Rivers Old, Lakes Young"
 category: "Physics"
 tags: [rivers, lakes, freshwater, hydrology, tir-na-nog, wetlands, wells, physics, planets]
 description: "Rivers and lakes on Tír na nÓg and other habitable worlds: a river is the oldest unbuilt infrastructure a world has, a lake is recent news, and a well is a settlement's handshake with the water it cannot see."
+plain: "Rivers are the oldest unbuilt infrastructure a world has: a drainage network records every rainfall the high ground has taken since it rose. Lakes are recent news, since standing water soon fills with sediment or cuts its own outlet, so a landscape full of lakes had a violent recent past. Most fresh water is underground, and springs and wells are where people meet it. Tír na nÓg, Trígrian, Winterbourne and Fliade each read differently by these rules. A warm well has a heat source, geothermal or boundary physics, and naming it is as far as the record's job goes."
 image: "young-lake-margin.jpg"
 image_alt: "Still lowland water risen over its own bank: bare-branched trees standing in the shallows, a gorse bush in yellow flower half-drowned at the margin, and soft rose and green light lying across the whole surface."
 ---

@@ -5,6 +5,7 @@ revealed_by: s02e02c01
 category: "Locations"
 tags: [tir-na-nog, celtic-union, biosphere-planet, locations, human-compatible, anomaly, boirinn-uplands, donn, cliona, conjunction]
 description: "The flagship world of the Celtic Union of Planets — the only surveyed world in Solar System record naturally compatible with unmodified human atmosphere and gravity, and a standing scientific anomaly no institution has closed the file on."
+plain: "Tír na nÓg is the main world of the Celtic Union of Planets and the only known planet where humans can breathe the air and live without any help. Nobody knows why. Every other world surveyed needs domes, masks, engineering or at least a period of acclimatisation, and no explanation for this one exception has been proven; the file is still open. Its seasons, plants and animals all look close to Earth's, it has two moons and stony uplands, and Earth crops and animals now grow beside native life. The Survey Corps' interest in the world is said to be largely about that unexplained compatibility."
 image: "moorhen-wetland.jpg"
 image_alt: "A dark waterbird preening on a floating log in a still wetland"
 galaxy: "Milky Way"

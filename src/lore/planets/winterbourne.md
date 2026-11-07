@@ -4,6 +4,7 @@ title: "Winterbourne"
 category: "Locations"
 tags: [winterbourne, albion-system, downland, spring-line, agriculture, independent, locations, human]
 description: "A chalk-downland world whose villages sit in a line because that is where the water comes out — an agricultural independent in the Albion system, named for streams that run for half the year and are dry gravel for the rest."
+plain: "Winterbourne is a farming world in the Albion system built on chalk downland. Rain soaks through the chalk and comes out in a line of springs at the foot of the escarpment, and every spring has a village on it; the streams they feed flow from midwinter to early summer and are dry gravel the rest of the year, which is what the world is named for. Everything green there came off the founders' ship, since the native life is marine. Whether the neat pattern was planned or simply followed the land is a question the Archive holds open. It belongs to no union and holds no charter."
 image: "winterbourne.jpg"
 image_alt: "A chalk escarpment in late summer with small flint-and-chalk villages at its foot, a dry gravel stream bed in the foreground crossed by a plank footbridge over no water, and high in the hazy sky the thin pale trail of an ascent javelin climbing steeply."
 galaxy: "Milky Way"
