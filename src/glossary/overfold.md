@@ -7,6 +7,7 @@ revealed_by: s01e00c01
 id: overfold
 category: "Cosmology"
 short: "The Fellowship of Light's traditional term for boundary-zone Etheric phenomena — older than Etheric, Concordant, or Intermembrane Bleed, and naming the same lawful thing."
+plain: "The Overfold is the Fellowship of Light's old name for a boundary place, where the world runs thin and a trained observer can feel a wrongness in the air before any instrument confirms it. It is not folklore: it names the same lawful thing later called Etheric interference and now graded by the Survey Corps as Membrane Resonance or Intermembrane Bleed. The name came first, coined by people whose only instrument was long, patient attention."
 related:
   - "Etheric"
   - "Boundary Zone"

@@ -6,6 +6,7 @@ irish_gloss: "comparative musicology; the Union renders the sense of the prefix,
 id: xenomusicology
 category: "Institutions"
 short: "The Music Corps' branch for the comparative study of how the peoples the Rangers meet understand music, or whatever stands in its place, in their cultures and in their bodies. A school of the Academy; the branch that ran the Slipwave project, and Tissadelle Shepherd's way into the Corps."
+plain: "Xenomusicology is the Music Corps branch, and Academy school, that asks every people the Rangers meet what music is to them, and if nothing is, what stands in its place. It is comparative, patient work across cultures and bodies, in which humans hold no privileged place. The branch ran the Slipwave project, which placed Tissadelle Shepherd as a Novice with a dock band and became her way into the Corps."
 tags: [xenomusicology, music-corps, music, institutions, academy, branch, slipwave, tissadelle, chthonari, ovruhn, krenyi, sentinel]
 related:
   - "The Star Rangers Music Corps"

@@ -7,6 +7,7 @@ revealed_by: s01e01c03
 id: interval
 category: "Cosmology"
 short: "The separation between two adjacent cosmic membranes, measured across the Common Manifold rather than through any universe's own space. Boundary zones are where the Interval narrows."
+plain: "The Interval is the distance between two neighbouring universes, measured across the Common Manifold rather than through either universe's own space. It is not a place: nothing lives in it or travels through it under its own power, and no vessel has been in one. What matters is that it varies. Where it narrows, at a boundary zone, effects begin to pass across it, and what crosses is field structure, not matter."
 related:
   - "Intermembrane Bleed"
   - "Membrane Shadow"

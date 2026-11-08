@@ -6,6 +6,7 @@ irish_gloss: "those who win back, from athghnóthaigh, to regain, the word used 
 id: reclaimers
 category: "Technology"
 short: "One of the hidden systems of the 29th century UCSD named by the Civilisation Comparison, which takes degraded and discarded material out of the way before it can accumulate, in passes, flows and pass-throughs, and answers to directives a guild may issue. What a Reclaimer is, the record has not established."
+plain: "Reclaimers are one of the hidden systems of the 29th century UCSD that handle matter, taking degraded and discarded material out of the way before it can pile up. In Velmora an unseen Reclaimer pass comes every seventy-two hours, and a guild may hold the authority to issue the directives Reclaimers answer to. What a Reclaimer actually is, whether a machine, a mind or something else, and how a pass reclaims what it takes, the record has not established."
 related:
   - "TAFS"
   - "Ashwardens"

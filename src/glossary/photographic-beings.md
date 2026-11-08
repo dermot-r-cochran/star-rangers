@@ -6,6 +6,7 @@ irish_gloss: "sun-drawn beings; a grianghraf, a photograph, is literally a sun-p
 id: photographic-beings
 category: "Cosmology"
 short: "A bright, person- or creature-shaped optical anomaly at a boundary zone — the Membrane Shadow's converging case, where the strain between two membranes gathers this side's ambient light into the far side's outline instead of bending it away. Made of borrowed light, never of a body; nothing crosses."
+plain: "A Photographic Being is the bright counterpart of a Membrane Shadow: a figure of a person or creature, made of light, seen at a boundary zone. A mass on the far side of a narrowed Interval, the gap to a neighbouring universe, strains it so that this side's daylight is gathered into its outline rather than bent away. Nothing crosses, and the light is ours, so the figure fades with the day and cannot be seen in the dark. The name was given by the Kingdom of the Five Islands."
 related:
   - "Membrane Shadow"
   - "Intermembrane Bleed"

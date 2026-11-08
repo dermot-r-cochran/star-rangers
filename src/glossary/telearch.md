@@ -7,6 +7,7 @@ revealed_by: s07e01c03
 id: telearch
 category: "Cosmic Cascade"
 short: "The Cascade's continuity branch — a Worldwright peer under the Archewrights, native to no universe, responsible for cross-Concordant continuity and enforcement delegation. Reaches inside a universe through the Mediarchs, which are its proxies. Commonly meant by the retired legacy term High Celestials."
+plain: "A Telearch is a tier of the Cosmic Cascade that belongs to no single universe and keeps things continuous across many Concordant Zones. Telearchs share out enforcement and coordinate responses to unlawful manipulation across zone boundaries, and they reach inside a universe through the Mediarchs, which act as their proxies. They stand beside the Worldwrights as a parallel branch under the Archewrights, continuity to the Worldwrights' creation, and they do not bypass Concordant law."
 related:
   - "Celestials"
   - "Mediarch"

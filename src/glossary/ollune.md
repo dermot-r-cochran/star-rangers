@@ -6,6 +6,7 @@ irish_gloss: "the people's own name, kept; it renders roughly as the held"
 id: ollune
 category: "Species"
 short: "Buoyant, soft-bodied people native to the upper atmosphere of the gas giant Cirrane, who communicate on two channels — pressure and chemical — with opposite binding force."
+plain: "The Ollune are buoyant, soft-bodied people of Freyari, the band of habitable air around the gas giant Cirrane, which has no surface. They stay aloft by constant metabolic effort, so a sleeping Ollune is carried by the waking members of its tethered group, a hold. They speak on two channels: the far word, public pressure sound that binds nothing, and the near word, a slow chemical exchange at close range that binds everything. A false near word is the gravest offence they recognise."
 related:
   - "Chthonari"
   - "Krenyi"

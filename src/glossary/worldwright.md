@@ -6,6 +6,7 @@ irish_gloss: "a wright of worlds"
 id: worldwright
 category: "Cosmic Cascade"
 short: "The Cascade tier that creates primary universes, including the Concordant Zones within them. Worldwright authority exists only in primary universes."
+plain: "A Worldwright is the tier of the Cosmic Cascade that creates primary universes, each made whole at once, with its physics and its internal Concordant Zones. One Worldwright may design several universes, but its authority exists only in primary ones: universes derived from them get no Worldwright of their own. It cannot move its universe relative to any other. Worldwrights stand beside the Telearchs as parallel branches under the Archewrights, creation to the Telearchs' continuity."
 related:
   - "Concordant"
   - "Cosmic Cascade"

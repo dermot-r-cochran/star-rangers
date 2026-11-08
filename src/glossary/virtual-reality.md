@@ -6,6 +6,7 @@ irish_gloss: "virtual reality"
 id: virtual-reality
 category: "Practices"
 short: "A technology in retreat as mass entertainment, on the reasoning that a manufactured experience is exactly the kind of low-novelty artifact the Allocation Units of Cognition ledger audits harshly — and in narrow, valued use as the only practical way to perceive a real structure no baseline sense can reach, from a fold scaffold to a cross-frame signal."
+plain: "Virtual reality, as mass entertainment, peaked and declined well before 2826 UCSD: audiences came to find a manufactured experience rarely new enough to interest them, and a rig is tiring and stressful to wear, though it never injures. It survives as an instrument for seeing real structures no baseline sense can reach, such as a fold scaffold or a cross-frame signal. A rig shows a signal's structure; it never says what the signal means."
 related:
   - "Creative Entropy Index (CEI)"
   - "Lagrange Points and Fold-Space Transit"

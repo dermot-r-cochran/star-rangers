@@ -6,6 +6,7 @@ irish_gloss: "the potential for noögenic seeding"
 id: noogenic-seed-potential-nsp
 category: "Noögenics"
 short: "The probability that a mind can compress into a stable noöseed while preserving generative structure."
+plain: "Noögenic Seed Potential, or NSP, estimates whether a mind could be compressed into a Noöseed, the starting point of a successor universe, without losing what lets it generate something new. It tends to rise with a deep inner world and with contradictions held steadily rather than quickly resolved. Compression tests the structure that carries paradox, not raw processing power."
 related:
   - "Inner World Depth (IWD)"
   - "Noöseed"

@@ -6,6 +6,7 @@ irish_gloss: "the lot of the Senate"
 id: the-seanad-draw
 category: "Institutions"
 short: "How the Celtic Union seats its ceremonial Seanad: each of the six charter worlds draws its candidates by lot from its own citizens, then elects its senators from among the drawn."
+plain: "The Seanad Draw is how the Celtic Union of Planets seats its Seanad, a ceremonial upper house that binds no member world. Each of the six charter worlds first draws candidates by lot from its own citizens, weighted so the drawn reflect its people, then elects its senators from among them. No clan may nominate, endorse or fund a candidate. The care closes the one place a Union career could have been made, so that the Union's face, when seen, is its people."
 related:
   - "The Celtic Union of Planets"
   - "Aethelrock"

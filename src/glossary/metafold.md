@@ -6,6 +6,7 @@ irish_gloss: "a misnomer in Irish as in English"
 id: metafold
 category: "Misconception"
 short: "A popular misnomer that conflates the Overfold with Higher-Dimensional Folding; not a recognized name for either."
+plain: "Metafold is a popular misnomer, not a term used by any tradition that studies these things. It wrongly treats the Overfold, a standing condition of a boundary place, as the same thing as Higher-Dimensional Folding, the deliberate and bounded transit starships make. The shared word 'fold' invites the confusion; the physics is not the same. Hyperfold is the same error as a trade name: it describes no mechanism and commits to nothing."
 related:
   - "Overfold"
   - "Higher-Dimensional Folding"

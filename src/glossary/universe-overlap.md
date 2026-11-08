@@ -6,6 +6,7 @@ irish_gloss: "an overlap of universes"
 id: universe-overlap
 category: "Physics"
 short: "A temporary interaction window where two adjacent universes share a measurable domain without rule-set merger, bounded by the footprint of the flexure that brought them close."
+plain: "Universe Overlap is a temporary state in which two neighbouring universes come close enough to interact, where a flexure has narrowed the Interval, the gap between their membranes. While it lasts, instruments on one side can register activity on the other, yet each universe keeps its own physical rules and neither is changed. The overlap reaches only as far as the flexure does: a station can sit inside one, a civilisation does not. It is lawful geometry, not magical convergence."
 related:
   - "Boundary Zone"
   - "Concordant"

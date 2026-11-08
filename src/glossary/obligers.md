@@ -7,6 +7,7 @@ revealed_by: s01e02c01
 id: obligers
 category: "Entities"
 short: "Sapient meta-dimensional predators (Class II). Feed on ambiguity, desire loops, and social debt. No Cascade standing."
+plain: "Obligers are sapient meta-dimensional predators, existing where the Conceptual and Etheric layers meet and feeding on what happens in material and social life. They present as obliging and feed on the obligations that creates: unresolved situations, wanting that is never pursued or let go, and debts that are never discharged. They use no force, only indirect suggestion and situations kept from resolving. After contact they leave a residue: a lingering sense of obligation, a drift in values, a faint loop of obsession."
 related:
   - "Gilded Saints"
   - "Boundary Zone"

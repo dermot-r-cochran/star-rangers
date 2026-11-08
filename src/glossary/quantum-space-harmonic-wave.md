@@ -7,6 +7,7 @@ revealed_by: s01e02c03
 id: quantum-space-harmonic-wave
 category: "Physics"
 short: "One of two canonical FTL channels, based on phase-locked harmonic corridor transit; the medium-range one, roughly a light-year a day."
+plain: "The Quantum Space Harmonic Wave is one of the two recognised faster-than-light channels, and the medium-range one: on average it moves a vessel about a light-year a day, enough to make interstellar traffic ordinary. A vessel locks onto a lawful harmonic corridor and travels along it; if the corridor is not admissible, the lock fails and the transit is aborted, never left uncontrolled. It is physics, not magic, and is unrelated to higher-dimensional folding."
 related:
   - "FTL Mechanics"
   - "Higher-Dimensional Folding"
