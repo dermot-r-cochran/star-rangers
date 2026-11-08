@@ -3,7 +3,7 @@ permalink: sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {#-
   Two exclusions, and they are two because this site hides a page in two
   different ways. Most content is hidden by swapping its layout to
@@ -33,7 +33,8 @@ eleventyExcludeFromCollections: true
 {%- if not site.ranksAt and not site.noindex %}
 {%- for entry in collections.all %}
 {%- if entry.data.layout != "excluded.njk" and (not entry.data.item or entry.data.item.included) and entry.outputPath and entry.outputPath.endsWith(".html") %}
-  <url><loc>{{ entry.url | absoluteUrl(site.url) }}</loc></url>
+  <url><loc>{{ entry.url | absoluteUrl(site.url) }}</loc>
+  {%- for img in entry.data.pageImages %}<image:image><image:loc>{{ img.src | absoluteUrl(site.url) }}</image:loc></image:image>{%- endfor %}</url>
 {%- endif %}
 {%- endfor %}
 {%- endif %}
