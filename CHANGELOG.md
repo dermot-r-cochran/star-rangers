@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.63.0] — 2026-11-08
+
+Every glossary entry now opens with a plain summary, as every lore page does: a new check requires one, and two batches cleared the backlog of 67 older entries. Pictures and videos are now findable in image and video search, with credit and licence on each and a watch page for fourteen clips and films. Uses of *alien* that named a known people as a class are swept from reader-facing pages under the usage rule.
+
 - **In short summaries for the last 33 glossary entries** (`src/glossary/`, `scripts/glossary-plain-backlog.txt`, 2026-11-08). The second batch, from *Interval* to *Xenomusicology* in file order, gains its `plain:` line, each restating its own entry and adding nothing. The glossary backlog is now empty: all 84 entries open with an *In short* box, as all 196 lore pages do.
 
 - **In short summaries for 34 glossary entries, first batch** (`src/glossary/`, `scripts/glossary-plain-backlog.txt`, 2026-11-08). Thirty-four entries, from *AI Safety Archetype* to *Intermembrane Bleed* in file order, gain a `plain:` line, shown as the *In short* box above the entry. Each restates its own entry in plainer words and adds nothing to it. The glossary backlog falls from 67 to 33.
