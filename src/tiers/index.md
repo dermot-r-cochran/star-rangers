@@ -80,7 +80,7 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
   escalate in permission rather than in seriousness: a playful rung is not a shallow one,
   and a questioning rung is not a grim one. Every reader has a body their own
   size in the room: an animal for the child, a raw Deputy for the young adult, the
-  middle-aged and the aliens for the general reader, and the oldest — and the cast in
+  middle-aged and the other peoples for the general reader, and the oldest — and the cast in
   their later years — for the contemplative one.
 </p>
 
@@ -154,7 +154,7 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
     Era</a>, Season 0, and <a href="/star-rangers/threads/tissadelle-arc/">Tissadelle
     Shepherd's Arc</a>, Seasons 1, 3, 5, 6 and 7 — Cadet to Line Captain to the Last Stand
     — together with the Lore, the Codex, the Atlas and the Timeline that sit behind it.
-    The middle-aged carry this tier, and so do the aliens.
+    The middle-aged carry this tier, and so do the other peoples.
   </p>
   <p class="thread-section__description">
     <strong>Where:</strong> <strong>fianilchruinne.com</strong>, the canonical address,

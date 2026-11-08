@@ -6,7 +6,7 @@ irish_gloss: "the universal standard date of the Concord"
 id: ucsd
 category: "Timekeeping"
 short: "The Concord's civil dating standard — the common spine every record converts to, and one notation among several for the same single history."
-plain: "UCSD is the calendar most records in this story use, the way we use dates like 2026. It continues old Earth's year count with 200 added, so the numbers keep climbing past the space age. Alien civilisations have their own calendars for the same events — a date can be written many ways, but it is always the same day. Clocks far apart drift a tiny bit because of physics, but the difference is small and gets corrected."
+plain: "UCSD is the calendar most records in this story use, the way we use dates like 2026. It continues old Earth's year count with 200 added, so the numbers keep climbing past the space age. Other civilisations have their own calendars for the same events — a date can be written many ways, but it is always the same day. Clocks far apart drift a tiny bit because of physics, but the difference is small and gets corrected."
 related:
   - "Concordant"
 tags: [timekeeping, ucsd, concord, records, undercover-pets.com]

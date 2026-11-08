@@ -10,6 +10,6 @@ One Markdown file per character, being, construct or entity, rendered by `_inclu
 - `known_codex` lists codex slugs the character is aware of in-universe; the validator checks each names a real file.
 - `tags` drive `TOPICS` narrowing and the tier gate by membership: a character tagged into a tier-gated thread is a placeholder below that tier.
 
-**Conventions the pages follow** (derived from the corpus, not enforced): untitled opening prose, then H2 sections, with *Character Notes* on nearly every page and *Known History* on many. No generic honorifics (*Mr., Mrs., Ms.*): full name, rank or role, or nothing. Alien pronoun systems are declared per species in `src/lore/`, never improvised per page.
+**Conventions the pages follow** (derived from the corpus, not enforced): untitled opening prose, then H2 sections, with *Character Notes* on nearly every page and *Known History* on many. No generic honorifics (*Mr., Mrs., Ms.*): full name, rank or role, or nothing. Other peoples' pronoun systems are declared per species in `src/lore/`, never improvised per page.
 
 A scene-POV page follows its character, not its chapter: it is real content on a narrowed build only when the witness is named in `CHARACTERS` or their own page is included by tags.
