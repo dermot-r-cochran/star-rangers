@@ -5,7 +5,7 @@ irish: "Réaltacht Fhíorúil"
 irish_gloss: "virtual reality"
 id: virtual-reality
 category: "Practices"
-short: "A technology in retreat as mass entertainment, on the reasoning that a manufactured experience is exactly the kind of low-novelty artifact the Allocation Units of Cognition ledger audits harshly — and in narrow, valued use as the only practical way to perceive a real structure no baseline sense can reach, from a fold scaffold to an alien signal."
+short: "A technology in retreat as mass entertainment, on the reasoning that a manufactured experience is exactly the kind of low-novelty artifact the Allocation Units of Cognition ledger audits harshly — and in narrow, valued use as the only practical way to perceive a real structure no baseline sense can reach, from a fold scaffold to a cross-frame signal."
 related:
   - "Creative Entropy Index (CEI)"
   - "Lagrange Points and Fold-Space Transit"
@@ -31,7 +31,7 @@ A fold-visualization VR rig does not manufacture an experience standing in for s
 
 The fold scaffold is the standing example rather than the boundary. **The rig's real subject is any measured structure a baseline sense cannot reach** — a boundary zone's phase families, a ring system's low-frequency recurrence, a sensor return with more dimensions than a person has ways to hold at once. Rendering is what the instrument does, and the geometry is incidental to it.
 
-**Alien communication is the demanding case, and the one the practice is now most valued for.** A people's signal may carry its structure in a channel human hearing and vision have no purchase on at all — pressure, vibration through rock, electromagnetic pulse, a pattern whose unit is not a sound. A rig can put that structure where a human can see it: the recurrence, the nesting, the places a pattern breaks. It is the same courtesy in reverse for anyone reading a human record through instruments of their own, and the [Chthonari](/star-rangers/lore/chthonari/) and [Prismeri](/star-rangers/lore/prismeri/) cases above are the reminder that *baseline* names a sense, never a standard.
+**Cross-frame communication is the demanding case, and the one the practice is now most valued for.** A people's signal may carry its structure in a channel human hearing and vision have no purchase on at all — pressure, vibration through rock, electromagnetic pulse, a pattern whose unit is not a sound. A rig can put that structure where a human can see it: the recurrence, the nesting, the places a pattern breaks. It is the same courtesy in reverse for anyone reading a human record through instruments of their own, and the [Chthonari](/star-rangers/lore/chthonari/) and [Prismeri](/star-rangers/lore/prismeri/) cases above are the reminder that *baseline* names a sense, never a standard.
 
 **And here the instrument stops, exactly where [the record's refusal of the universal translator](/star-rangers/lore/what-the-record-refuses/) begins.** A rig renders **structure**; it does not deliver **meaning**. It will show a xenolinguist that a figure recurs at a certain interval and breaks in a certain place. It will not say what the figure means, and no version of it ever says so in a voice — that remains years of translation work by people with names, whose output is candidate readings with confidence stated, and who own the error. Seeing a pattern and understanding it are two jobs here, and the machine is only ever qualified for the first.
 

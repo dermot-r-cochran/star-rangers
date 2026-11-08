@@ -3,7 +3,7 @@ layout: lore-entry.njk
 title: "The Guest Ring"
 category: "Locations"
 tags: [guest-ring, drithane, brid-system, federation-of-sentient-beings, space-habitat, reciprocal-instrument, celtic-union, locations]
-description: "The Federation habitat in orbit around Drithane — the alien half of the reciprocal instrument, called by a name its own occupants did not choose and have never objected to."
+description: "The Federation habitat in orbit around Drithane — the non-human half of the reciprocal instrument, called by a name its own occupants did not choose and have never objected to."
 plain: "The Guest Ring is a Federation of Sentient Beings habitat in high orbit above Drithane, the Federation half of the paired instrument whose human half is Greenward. Its builders' own name for it will not go into the register as a name, so everyone, including its occupants, uses the yard crews' working name. Neither side can enter the other's world unprepared, so the non-descent clause has never been tested, yet the Ring's gallery was built to watch Drithane's drithle run. Either party may withdraw the invitation at will; in twenty years neither has, and what the Federation thinks of the arrangement is not on any file."
 image: "the-guest-ring.jpg"
 image_alt: "A long low curved observation gallery aboard a non-human habitat, its glazing running the full length at knee height, pale seamless matte surfaces with no fittings, and beyond the glazing a snowbound cold world under a single bright moon with fine white streaks crossing the dark sky"

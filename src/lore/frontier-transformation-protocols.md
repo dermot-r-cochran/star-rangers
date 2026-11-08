@@ -42,7 +42,7 @@ The reasoning is the survey-fallibility argument taken to its honest conclusion.
 
 In practice the clause makes the Rangers' survey verdict a fork in every charter colony's road. A dead world may be transformed — slowly, under whichever polity's protocols apply. A living world may be *settled*, where compatibility allows, by a colony that adapts itself to the world rather than the world to itself; the [Tír na nÓg compatibility survey](/star-rangers/codex/tir-na-nog-compatibility-survey-note/) is the standing example of that road taken well. The clause has been called the charter's most radical line, usually by parties who wanted a particular living world and were told, without appeal, that they could live *on* it or not at all.
 
-## The Alien Equivalent
+## The Cross-Frame Equivalent
 
 No single body administers this doctrine Concord-wide, and every major polity's own version reflects its own governing character rather than a shared statute:
 

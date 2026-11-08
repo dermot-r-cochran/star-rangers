@@ -14,7 +14,7 @@ image_alt: "Designed title card on a dark blue-teal star field: the category LOC
 
 Not every Currach Fleet ark found a world as forgiving as Tír na nÓg. Ynys Wydrin's colonists found thin, unbreathable air, permafrost, and a name already waiting for them in their own mythology.
 
-**Ynys Wydrin** — Welsh for "Isle of Glass," the old name for the otherworldly isle behind Glastonbury — is the second-settled charter world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/). Unlike [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), it is not naturally human-compatible: thin atmosphere, subfreezing surface temperatures, and a biosphere too chemically alien for direct human agriculture. It is the second planet of the **Avallach System**, named for the mythical king said to rule the isle of Avalon — Ynys Wydrin's own namesake in Welsh tradition.
+**Ynys Wydrin** — Welsh for "Isle of Glass," the old name for the otherworldly isle behind Glastonbury — is the second-settled charter world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/). Unlike [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), it is not naturally human-compatible: thin atmosphere, subfreezing surface temperatures, and a biosphere too chemically unlike ours for direct human agriculture. It is the second planet of the **Avallach System**, named for the mythical king said to rule the isle of Avalon — Ynys Wydrin's own namesake in Welsh tradition.
 
 ## Why They Stayed
 

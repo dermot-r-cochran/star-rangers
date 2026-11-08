@@ -6,4 +6,4 @@ Front matter: `title` required; `id`, `category`, `short`, `related`, `plain`, `
 
 This directory holds the entries. The canonical-terms list and the migration map that govern them are the reference document at `src/lore/glossary/canonical-glossary-and-migration-guide.md`. Craft vocabulary about how the story is built (thread, strand, arc, scene, POV block) is not in-universe and belongs in `story-bible/`, not here.
 
-A coined alien pronoun paradigm (subject, object, possessive) is registered here like any term, declared once in the species' lore entry and applied consistently.
+A coined pronoun paradigm for another people (subject, object, possessive) is registered here like any term, declared once in the species' lore entry and applied consistently.
