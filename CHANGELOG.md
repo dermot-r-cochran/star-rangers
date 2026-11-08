@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **In short summaries for 34 glossary entries, first batch** (`src/glossary/`, `scripts/glossary-plain-backlog.txt`, 2026-11-08). Thirty-four entries, from *AI Safety Archetype* to *Intermembrane Bleed* in file order, gain a `plain:` line, shown as the *In short* box above the entry. Each restates its own entry in plainer words and adds nothing to it. The glossary backlog falls from 67 to 33.
+
 - **Glossary entries now open with a plain summary too** (`scripts/check-lore-plain.js`, `scripts/glossary-plain-backlog.txt`, `CLAUDE.md`, 2026-11-08). The rule of 7 November for lore pages now covers the glossary: an entry's `plain:` line renders as the *In short* box above its body, and `npm test` fails a new entry without one. The 67 entries written before the rule are on a backlog that may only shrink; 17 of 84 already had the line, the ones the children's tier carries.
 
 ## [1.62.0] — 2026-11-07

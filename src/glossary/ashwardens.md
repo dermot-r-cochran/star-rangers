@@ -6,6 +6,7 @@ irish_gloss: "wardens of ash; maor is the warden of Maor Réalta"
 id: ashwardens
 category: "Technology"
 short: "One of the hidden systems of the 29th century UCSD named by the Civilisation Comparison, known by its interventions: with entropy grids and Reclaimer flows they replaced the visible industry of the 21st century CE, and control of matter passes through them. What an Ashwarden is, the record has not established."
+plain: "The Ashwardens are one of three hidden systems the Civilisation Comparison names in the 29th century UCSD, beside the Reclaimers and TAFS, and the one it says least about. The record knows them only by their interventions, which helped replace the visible factories and power plants of the 21st century CE, and which are one of the routes through which control of matter passes. What an Ashwarden actually is, the record has not established."
 related:
   - "Reclaimers"
   - "TAFS"

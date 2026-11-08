@@ -6,6 +6,7 @@ irish_gloss: "an incarnation, literally an in-fleshing"
 id: avatar
 category: "Cosmic Cascade"
 short: "An incarnation of a timeless stratum as a person operating at Celestial level or below — like its source, without being the same person as its source, and without its full authority, power, or knowledge."
+plain: "An avatar is an incarnation of a stratum of the Cosmic Cascade above the Celestials: a limited person, living in ordinary time at Celestial level or below, who can be met. It is like its source without being the same person, and has only limited knowledge and power; the source itself never enters ordinary time. From inside time, an avatar's record cannot be told apart from that of a Champion chosen by a Levril."
 related:
   - "Cosmic Cascade"
   - "Kieme"

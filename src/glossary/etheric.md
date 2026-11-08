@@ -7,6 +7,7 @@ revealed_by: s01e02c02
 id: etheric
 category: "Cosmology"
 short: "Layer 3 of the Five Layers of Reality. The rule-template layer governing what physical expressions can remain coherent. Archetypal templates constrain physical and material admissibility."
+plain: "The Etheric is the third of the Five Layers of Reality: the layer of templates that decides what kinds of physical things can hold together and last. It does not decide what happens, only what shapes can persist. It is a way events are caused, not a place or a dimension anything can be inside, and nothing it does is supernatural. Practitioners who speak of reaching 'into the Etheric layer' are using working jargon, not naming a location."
 related:
   - "Boundary Zone"
   - "Constraint Literacy"

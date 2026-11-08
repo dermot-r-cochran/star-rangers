@@ -6,6 +6,7 @@ irish_gloss: "seepage between membranes"
 id: intermembrane-bleed
 category: "Cosmology"
 short: "The Survey Corps term for measurable Etheric-layer intrusion between adjacent Concordant membranes at a boundary zone, ranging from faint Membrane Resonance to a full Type III bleed event."
+plain: "Intermembrane Bleed is the Survey Corps' name for one universe's Etheric templates intruding into a neighbouring universe where the gap between their membranes, the Interval, narrows. It happens only between universes, never between zones of the same one. At its faintest, called Membrane Resonance, the neighbour's templates are detectable but displace nothing; a full bleed is when they compete with local ones, producing interference with no local physical trigger."
 related:
   - "Etheric"
   - "Boundary Zone"

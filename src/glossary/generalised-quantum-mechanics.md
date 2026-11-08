@@ -6,6 +6,7 @@ irish_gloss: "generalised quantum mechanics"
 id: generalised-quantum-mechanics
 category: "Physics"
 short: "The single lawful theory behind the cosmos's probability, coherence and information physics: standard quantum mechanics preserved exactly as its kernel, plus Etheric extension terms that add couplings — never permissions."
+plain: "Generalised quantum mechanics is the one theory behind probability, coherence and information physics across the cosmos. At its core is standard quantum mechanics, kept exactly as the laboratory knows it. Laid over that are Etheric extension terms, which add couplings but never permissions: none signals faster than transit, edits an outcome or reaches back in time. Where nothing couples to it, the theory simply is standard quantum mechanics."
 related:
   - "Cosmic Cascade"
   - "Quantum Space Harmonic Wave"

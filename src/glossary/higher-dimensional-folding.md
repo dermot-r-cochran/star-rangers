@@ -6,6 +6,7 @@ irish_gloss: "the folding of the higher dimensions"
 id: higher-dimensional-folding
 category: "Physics"
 short: "One of two canonical FTL channels: the long-range one — a slow, preparation-heavy higher-dimensional drift that briefly folds distant regions into adjacency so a vessel can cross."
+plain: "Higher-Dimensional Folding is the long-range way to travel faster than light. It briefly folds two distant regions together so a vessel can cross, then releases them, leaving no shortcut behind. The crossing is short, but staging the fold and certifying hull and route take longer. It works only within its own formcluster, permits no rewriting of the timeline, and shares nothing with the other channel, the harmonic wave."
 related:
   - "FTL Mechanics"
   - "Quantum Space Harmonic Wave"

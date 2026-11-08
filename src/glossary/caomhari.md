@@ -6,6 +6,7 @@ irish_gloss: "the Good People, the Union's own name since its First Landing; the
 id: caomhari
 category: "Cosmology"
 short: "The official record's name for the sapient beings native to Tír Tairngire, who cross the Harmonic Membrane at a Conjunction window: Class II, and not predatory. The Celtic Union calls them the Good People; off-world speech calls them elves."
+plain: "The Caomhari are the sapient people native to Tír Tairngire, the neighbouring universe whose membrane opens onto Tír na nÓg. The Celtic Union calls them the Good People; off-world speech calls them elves, a word the record quotes but never adopts. They are not predatory. They are met only at certain thin places on Tír na nÓg where that membrane runs close: as an imprint, as an outline gathered from daylight, or in a body at a Conjunction window."
 related:
   - "Luminescent Ethereal Beings"
   - "Membrane Shadow"

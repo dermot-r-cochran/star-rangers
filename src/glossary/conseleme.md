@@ -6,6 +6,7 @@ irish_gloss: "borrowed, as the English borrows it; the devotional name is An Tal
 id: conseleme
 category: "Cosmic Cascade"
 short: "The third tier of the Cosmic Cascade; a non-anthropomorphic origin condition completing the Upper Structure. Devotional name: the Everlasting Ground. Church-space name: the Spirit of Wisdom."
+plain: "Conseleme is the third tier of the Cosmic Cascade, completing the Upper Structure with Hyperomnium and Kieme. It is not a character or a moral authority but an origin condition: it sets the constraints that every tier below it must satisfy. Its devotional name is the Everlasting Ground. It never speaks or intervenes, and is known only through the few constraints that hold the same in every Concordant Zone."
 related:
   - "Hyperomnium"
   - "Kieme"

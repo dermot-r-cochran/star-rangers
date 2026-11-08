@@ -6,6 +6,7 @@ irish_gloss: "general operations; oibríocht is an operation, ginearálta genera
 id: general-operations
 category: "Institutions"
 short: "A service track of the Star Rangers, not a corps: on a post, the general operations department under its Chief Ranger runs the watch across every corps aboard. The name also files a kind of mixed mission. Never a section."
+plain: "General operations is a service track in the Star Rangers, not a corps: a Ranger of any corps can be assigned to it, and can change track without changing corps. On a post, the general operations department, led by a Chief Ranger, runs the watch for every corps aboard, and it is the usual road from Chief to a first command. The name also covers a kind of mixed-specialist mission that a Chief may lead."
 related:
   - "Rank and the Chain of Command"
   - "Rank, Insignia, and the Ranger Uniform"

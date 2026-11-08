@@ -7,6 +7,7 @@ revealed_by: s01e01c01
 id: instrument-drift
 category: "Physics"
 short: "The disagreement between measuring instruments in a boundary zone, caused by genuine differences in local physical conditions across the boundary."
+plain: "Instrument drift is when two correctly calibrated instruments, placed at different points in a boundary zone, give different readings. Neither is broken. Local physical conditions, including the rate at which time passes, really do differ across the boundary, and each instrument reads its own position accurately. At Threshold Station, two chronometers in Dock Seven have differed by forty seconds for eleven years, and the gap returns after every recalibration."
 related:
   - "Boundary Zone"
   - "Concordant"

@@ -6,6 +6,7 @@ irish_gloss: "high heavenly ones, retired in Irish as in English"
 id: high-celestials
 category: "Cosmic Cascade"
 short: "Ambiguous legacy designation, retired: used loosely both for Telearchs ('High Celestials') and for the force-governing Mediarchs ('higher celestials')."
+plain: "High Celestials is an old name, now retired because it was used loosely for two different tiers of the Cosmic Cascade: the Telearchs, which supervise and coordinate, and the Mediarchs, which govern forces such as gravity and electromagnetics. In old records, a passage about jurisdiction or coordination means Telearchs; one about a physical law or force means Mediarchs. Where context cannot tell, the passage is flagged rather than guessed."
 related:
   - "Telearch"
   - "Mediarch"

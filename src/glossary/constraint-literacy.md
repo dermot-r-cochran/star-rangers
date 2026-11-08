@@ -6,6 +6,7 @@ irish_gloss: "literacy in constraints; srian is also a bridle"
 id: constraint-literacy
 category: "Practices"
 short: "The ability to read Etheric structures as they express through the physical world, and to work with rather than against them. Not magic."
+plain: "Constraint literacy is the developed ability to read the Etheric structures that show through the physical world, and to work with them rather than against them. It is not magic: it overrides no physical law, but tells a practitioner which actions will hold and which will be rejected, as a builder reads the grain of wood before cutting. Levrils sometimes teach it, indirectly; Elvira's version is self-taught, so she reacts where a trained practitioner could predict."
 related:
   - "Etheric"
   - "Levril"

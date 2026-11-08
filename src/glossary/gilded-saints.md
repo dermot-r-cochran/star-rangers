@@ -7,6 +7,7 @@ revealed_by: s07e01c01
 id: gilded-saints
 category: "Entities"
 short: "Sapient meta-dimensional predators (Class II). Feed on moral labour, sanctified suffering, and closure-prevention. Appear as worthy causes or sacred duties. No Cascade standing."
+plain: "Gilded Saints are sapient meta-dimensional predators, Class II in the record's classification, with no standing in the Cosmic Cascade. They feed on moral labour, on suffering given sacred meaning, and on keeping a situation from ever being resolved. They never look like a threat. They appear as worthy causes, inspiring figures or sacred duties: a cause too important to abandon, structured never quite to finish."
 related:
   - "Obligers"
   - "Boundary Zone"

@@ -6,6 +6,7 @@ irish_gloss: "the depth of the world within"
 id: inner-world-depth-iwd
 category: "Noögenics"
 short: "A measure of layered interior mind complexity relevant to noögenic seed viability."
+plain: "Inner World Depth measures how deep and layered a mind's inner structure is: how far it models itself, holds intentions within intentions, and stays coherent while carrying a paradox. It matters for noögenic seeding, because a mind with a richer interior is generally more likely to survive compression into seed form with its generative structure intact. Two minds of comparable intelligence can score very differently."
 related:
   - "Noögenic Seed Potential (NSP)"
   - "Noöseed"
