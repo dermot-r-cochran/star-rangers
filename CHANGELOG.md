@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Glossary entries now open with a plain summary too** (`scripts/check-lore-plain.js`, `scripts/glossary-plain-backlog.txt`, `CLAUDE.md`, 2026-11-08). The rule of 7 November for lore pages now covers the glossary: an entry's `plain:` line renders as the *In short* box above its body, and `npm test` fails a new entry without one. The 67 entries written before the rule are on a backlog that may only shrink; 17 of 84 already had the line, the ones the children's tier carries.
+
 ## [1.62.0] — 2026-11-07
 
 Every lore page now opens with a plain summary: a new check requires one, and four batches cleared the backlog of 139 older pages, with a critic pass repairing lines on 22 of them. Eight editions gain a Plates page, each with its own approved selection of pictures. The Reading Plan puts its first chapter link before the two reading paths, Season 2, Episode 10 says who Muffin and Lev are, and storyline blurbs use the em dash. A Director brief now binds only canon, D1's second version is kept but not filed, and three rulings on Tissadelle Shepherd's page and the *Four Seconds* clip land.
