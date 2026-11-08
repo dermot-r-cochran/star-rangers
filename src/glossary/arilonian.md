@@ -6,6 +6,7 @@ irish_gloss: "of Arilon, taken into Irish spelling as the Union takes any place-
 id: arilonian
 category: "Culture"
 short: "Of the traditions descended from the Arilon accounts — the broadest term for that stream of devotional belief, wider than any organisation and narrower than devotion in general."
+plain: "Arilonian names the whole family of devotional traditions descended from the accounts of Arilon. The word deliberately says nothing about what Arilon was, and every reading of the figure counts as Arilonian. It is wider than any single body, such as the Fellowship of Light, so what is true of one body is not thereby true of all Arilonians. The Archive uses it to attribute a position to the stream, without ruling on it."
 related:
   - "Kieme"
 tags: [arilonian, devotional-traditions, arilon, fellowship-of-light, culture]

@@ -6,6 +6,7 @@ irish_gloss: "units of allocation of cognition"
 id: ai-usage-credits-auc
 category: "Economics"
 short: "The canonical allocation unit of intelligent computation capacity, issued in relation to novelty contribution."
+plain: "Allocation Units of Cognition, or AUC, measure how much cognitive work can be authorised and carried out. Humans and AIs alike earn them for work shown to be genuinely new; work that repeats or reshuffles without adding anything new earns nothing. As the universe nears creative closure, fewer new units are issued, and the scarcity becomes structural rather than administrative."
 related:
   - "Creative Entropy Index (CEI)"
   - "Noöseed"

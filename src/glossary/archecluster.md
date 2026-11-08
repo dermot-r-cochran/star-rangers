@@ -6,6 +6,7 @@ irish_gloss: "a cluster of archetypes; an Archewright is an Ardsaor, a master wr
 id: archecluster
 category: "Cosmic Cascade"
 short: "Every universe tracing to one Archewright, sharing that Archewright's archetypes and possibility space. A fact of authorship, not a chain of command."
+plain: "An archecluster is every universe that traces back to a single Archewright, built within that Archewright's archetypes and range of possibilities. It records where a universe came from and nothing more: it gives no universe authority over another, and it says nothing about where universes sit, since two in one cluster may be nowhere near each other. Its only sign from inside is unrelated cultures arriving at the same shapes without contact."
 related:
   - "Cosmic Cascade"
   - "Formcluster"

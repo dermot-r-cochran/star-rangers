@@ -6,6 +6,7 @@ irish_gloss: "the horizon of entropy"
 id: entropy-horizon
 category: "Cosmology"
 short: "The threshold where a universe can no longer sustain self-renewing novelty and enters closure dynamics."
+plain: "The Entropy Horizon is the point past which a universe can no longer renew its own capacity for genuine novelty. It does not mean the universe stops. Stars still burn and societies still build, but what they produce recombines forms already seen rather than making anything truly new. Threnos-Ω is the record's reference case of a universe past the horizon: still moving, but out of genuine surprise."
 related:
   - "Creative Entropy Index (CEI)"
   - "Predictive Closure"

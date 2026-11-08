@@ -6,6 +6,7 @@ irish_gloss: "the common many-fold, a coinage"
 id: common-manifold
 category: "Cosmology"
 short: "The higher-order spacelike and timelike structure beyond any universe's own dimensional floor — the one piece of architecture every universe the record has ever reached demonstrably shares. Survey Corps calls it the post-11 manifold."
+plain: "The Common Manifold is the higher structure of space and time beyond any single universe's own dimensions, and every universe the record has reached sits within it. Each universe occupies its own bounded membrane there, separated from its neighbours by the Interval. Survey Corps calls it the post-11 manifold because the home universe has eleven dimensions, a local count; instruments tuned to eleven cannot read a boundary event whose far side has a different number."
 related:
   - "Compact Dimensions"
   - "The Interval"

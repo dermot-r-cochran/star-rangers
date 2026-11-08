@@ -6,6 +6,7 @@ irish_gloss: "the council of the heads of harmony"
 id: council-of-harmonarchs
 category: "Cosmology"
 short: "Every Concordant Principal in a universe, sitting together — the deliberative body of its Universal Authority, and the second seat each Harmonarch holds."
+plain: "The Council of Harmonarchs is every Concordant Principal in a universe sitting together. Each Principal, or Harmonarch, governs one Concordant Zone on its own; together, in council, they govern the whole universe. The Council is not a separate rank of being, only the same minds in a second seat. With a presiding seat added it forms the universe's Universal Authority, and a Harmonarch outvoted in council is still bound by the decision inside its own zone."
 related:
   - "Universal Authority"
   - "Concordant Principal"

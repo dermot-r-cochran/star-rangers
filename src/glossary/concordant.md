@@ -8,6 +8,7 @@ revised_by: [s01e00c12]
 id: concordant
 category: "Cosmology"
 short: "A bounded region of reality with internally consistent physical and Etheric rules; Concordance is the plural form."
+plain: "A Concordant, or Concordant Zone, is a vast region inside a universe where the physical and Etheric rules are consistent: a zone where the rules hold. One zone spans at least the whole visible universe, so its edges lie beyond the reach of any instrument. Its consistency, not its size, is the point, which is why the Archive does not use the popular word 'megaexpanse'. How many zones a universe holds, the Archive declines to say."
 related:
   - "Boundary Zone"
   - "Worldwright"

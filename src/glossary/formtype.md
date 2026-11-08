@@ -6,6 +6,7 @@ irish_gloss: "a form-mould"
 id: formtype
 category: "Cosmic Cascade"
 short: "A lawful template instantiated by a Formwright out of its Metawright's mathematics — the grammar archetypes are assembled in, and the largest one is the manifold itself."
+plain: "A formtype is one of the lawful templates a Formwright makes out of its Metawright's mathematics. If archetypes are a vocabulary, formtypes are the grammar that permits it: they settle what shape anything is allowed to have, not what happens. The largest is the Common Manifold, the arena universes are seated in. Biological life and abstract sapience are formtypes; DNA is not, being one solution found once on one world."
 related:
   - "Formcluster"
   - "Archecluster"

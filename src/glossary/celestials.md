@@ -6,6 +6,7 @@ irish_gloss: "the heavenly ones"
 id: celestials
 category: "Cosmic Cascade"
 short: "Operational enforcement tier below the Telearchs and Mediarchs; Frenar is a legacy synonym for this tier."
+plain: "The Celestials are the enforcement tier of the Cosmic Cascade, below the Telearchs and Mediarchs, and the highest tier that exists and acts in ordinary time. They keep the boundaries of Concordant Zones intact, acting only within authority delegated to them, at scales never smaller than a galaxy. An enforcement action reaches exactly as far as the unlawful process it addresses; whatever it leaves untouched was not judged worthy, only not part of it. Frenar is an older name for the same tier."
 related:
   - "Telearch"
   - "Mediarch"

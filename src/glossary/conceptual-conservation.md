@@ -6,6 +6,7 @@ irish_gloss: "conceptual conservation"
 id: conceptual-conservation
 category: "Cosmology"
 short: "The principle that no coherent mind is lost: identity structures that once cohered remain admissible concept states at the Conceptual layer, retained without being continued."
+plain: "Conceptual Conservation is the principle that no coherent mind is lost. Once a mind has held together as an identity, its structure is kept at the Conceptual layer, and nothing in the record deletes or wears it down. It is kept, not continued: a conserved mind does not act and cannot be addressed. Every mind is kept alike, whatever it achieved. The record says the structures persist; whether 'you' persist, it neither claims nor denies."
 related:
   - "Etheric"
   - "Concordant"

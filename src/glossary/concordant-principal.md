@@ -6,6 +6,7 @@ irish_gloss: "principal of an accord; in common speech Ceann Comhcheoil, head of
 id: concordant-principal
 category: "Cosmology"
 short: "The governing mind of a single Concordant Zone — commonly called a Harmonarch: steward of the zone's rule-set, subordinate to the universe's Universal Authority."
+plain: "A Concordant Principal, commonly called a Harmonarch, is the mind that governs a single Concordant Zone, keeping its physical and Etheric rules running coherently day to day. It keeps the rules but does not write them; they are the Worldwright's design. Each Harmonarch also sits with all the others of its universe on the Council of Harmonarchs, part of the universe's Universal Authority, and is bound in its own zone by the Council's decisions."
 related:
   - "Concordant"
   - "Universal Authority"

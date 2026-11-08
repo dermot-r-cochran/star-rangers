@@ -6,6 +6,7 @@ irish_gloss: "the cosmic waterfall"
 id: cosmic-cascade
 category: "Cosmology"
 short: "The fixed hierarchy of causal authority in the Grand Ensemble Multiverse, from Hyperomnium down to Champions/Heroes. Ontological, not political."
+plain: "The Cosmic Cascade is the fixed order of causal authority across the Grand Ensemble Multiverse, from Hyperomnium at the top down to Champions. It describes how causes flow, not which tier is more virtuous, and causes run only downward: no tier can override one above it. Higher tiers mostly create and define those beneath them rather than command them. Champions, at the bottom, are sentient material beings, organic or artificial, chosen by Levrils."
 related:
   - "Hyperomnium"
   - "Telearch"

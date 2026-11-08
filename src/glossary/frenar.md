@@ -6,6 +6,7 @@ irish_gloss: "borrowed, and retired in Irish as in English"
 id: frenar
 category: "Cosmic Cascade"
 short: "Legacy designation synonymous with Celestials in current canon."
+plain: "Frenar is an older name for the Celestials, one tier of the Cosmic Cascade. In current usage the two words mean exactly the same tier, and Celestial is the preferred term. Older records, especially reports of boundary enforcement, may still say Frenar: the same tier, in an earlier vocabulary."
 related:
   - "Celestials"
   - "High Celestials"

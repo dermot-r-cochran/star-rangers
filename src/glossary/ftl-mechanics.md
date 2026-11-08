@@ -6,6 +6,7 @@ irish_gloss: "the mechanics of níos tapúla ná solas, faster than light"
 id: ftl-mechanics
 category: "Physics"
 short: "Faster-than-light transit has exactly two lawful channels: Quantum Space Harmonic Wave and Higher-Dimensional Folding. No third method has ever been demonstrated."
+plain: "Faster-than-light travel has exactly two lawful methods: the Quantum Space Harmonic Wave, for medium distances at about a light-year a day, and Higher-Dimensional Folding, for long range. They are separate mechanisms that share neither physics nor routes. Neither lets a vessel escape causality or bypass Concordant law; a drive crosses distance, nothing more. No third method has ever been demonstrated, and every proposal so far has died in review."
 related:
   - "Quantum Space Harmonic Wave"
   - "Higher-Dimensional Folding"

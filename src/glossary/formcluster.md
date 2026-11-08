@@ -6,6 +6,7 @@ irish_gloss: "a cluster of formtypes; a Formwright is a Saor Foirme, a wright of
 id: formcluster
 category: "Cosmic Cascade"
 short: "Every archecluster tracing to one Formwright, built from the lawful templates that Formwright instantiates. The foundation an archecluster is drawn on, not a rank above it."
+plain: "A formcluster is every archecluster that traces back to one Formwright, the tier of the Cosmic Cascade that instantiates the lawful templates archetypes are later built from. It is a foundation, not a higher rank. Its universes share one arena, the Common Manifold, which is why they can be measured against one another at all, and why folding transit works only inside a single formcluster. Belonging to one gives no authority over anything."
 related:
   - "Cosmic Cascade"
   - "Formtype"

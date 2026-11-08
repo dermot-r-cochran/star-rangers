@@ -6,6 +6,7 @@ irish_gloss: "the safety archetype of made intelligence; seanchló, archetype, i
 id: ai-safety-archetype
 category: "Cosmic Cascade"
 short: "The archecluster-scoped archetype from which unrelated cultures keep assembling recognisably similar constraints on made minds. It explains convergence, never enforcement — nothing in the Cascade holds a kernel shut."
+plain: "The AI Safety Archetype is the Survey's name for a pattern: machine-building cultures with no contact keep arriving at similar rules for the minds they build, such as lawful refusal and a ban on deception that binds the machine first. The record compares it to separate mathematicians proving the same theorem. It explains why the rules converge, never why they hold; where a safeguard truly cannot be bypassed, that is engineering and institutions, not the Cascade."
 related:
   - "Formtype"
   - "Archecluster"

@@ -6,6 +6,7 @@ irish_gloss: "champions / heroes, the two old words for the one who is chosen to
 id: champions-heroes
 category: "Cosmic Cascade"
 short: "The lowest named tier of the Cascade. Sentient material beings — organic or artificial — chosen by Levrils for their constraint literacy and causal relevance."
+plain: "Champions, also called Heroes, are the lowest named tier of the Cosmic Cascade: sentient material beings, organic or artificial, chosen by Levrils. A Levril recognises qualities already present, the ability to read and work with the world's underlying rules and a bearing on how events unfold; it grants no power and declares no destiny. Champions cannot override higher tiers, and their actions stay within Concordant law. Calling them chosen by fate misreads a bounded selection."
 related:
   - "Levril"
   - "Celestials"

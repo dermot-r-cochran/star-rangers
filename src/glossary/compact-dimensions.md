@@ -6,6 +6,7 @@ irish_gloss: "close-packed dimensions"
 id: compact-dimensions
 category: "Cosmology"
 short: "The spatial dimensions of a universe that are too tightly wound to be traversed or observed at Material scale. Our home universe has seven, alongside three extended dimensions and one of time."
+plain: "Compact dimensions are directions of space that a universe has at every point, wound too tightly for any body to travel along or any instrument to look into. The home universe has seven, alongside three extended dimensions and one of time. They are ordinary space, not a realm, and nothing lives in one. They matter because the rule-templates of the Etheric layer reach through them, which is why Etheric effects can be located, mapped and read at all."
 related:
   - "Etheric"
   - "The Common Manifold"

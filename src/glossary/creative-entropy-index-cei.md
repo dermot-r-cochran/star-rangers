@@ -6,6 +6,7 @@ irish_gloss: "index of creative entropy"
 id: creative-entropy-index-cei
 category: "Cosmology"
 short: "A normalized measure of universe-level novelty throughput and branch-space vitality across time."
+plain: "The Creative Entropy Index measures how much genuine novelty a universe can still produce: real emergence, rather than old pieces recombined. A high reading means new things are still appearing and the future is still open; a low one means repetition and settling. A civilisation busily remaking the same few stories and tools in new packaging still counts as declining, because nothing it makes is structurally new."
 related:
   - "Entropy Horizon"
   - "Predictive Closure"
