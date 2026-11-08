@@ -6,6 +6,7 @@ irish_gloss: "the range of physical law"
 id: scope-of-physical-law
 category: "Physics"
 short: "Every physical fact is scoped to one of six levels — mediarch realm, Concordant, membrane, archecluster, formcluster, or mathematical regime — and is well-formed only at its level. Nothing physical is Ensemble-wide."
+plain: "The Scope of Physical Law is the rule that every physical fact in the record is a fact about some particular structure, and makes sense only at that level. There are six levels, from a single force-domain inside one universe up to the settled axioms of mathematics and what can be proved in them. Nothing physical holds across the whole Grand Ensemble Multiverse: beyond its scope a fact is not false, but cannot even be stated."
 related:
   - "Cosmic Cascade"
   - "Generalised Quantum Mechanics"

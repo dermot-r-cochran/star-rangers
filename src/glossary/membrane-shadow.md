@@ -7,6 +7,7 @@ irish_gloss: "a shadow of the membrane"
 id: membrane-shadow
 category: "Cosmology"
 short: "A dark, person- or creature-shaped optical anomaly at a boundary zone, produced by gravitational bleed from a coherent mass on the far side of a narrowed Interval — not a being that has crossed over, but the imprint of one that hasn't."
+plain: "A Membrane Shadow is a dark silhouette of a person or creature seen at a boundary zone, with nothing on this side casting it. A real mass in a neighbouring universe, usually a living being, strains the narrowed gap between the two universes into its own outline, bending and dimming the light. Nothing crosses over: the shadow is the imprint of something that stays where it is. It shows no heat or mass on standard instruments; only a cross-membrane gravimeter registers it."
 related:
   - "Intermembrane Bleed"
   - "Concordant"

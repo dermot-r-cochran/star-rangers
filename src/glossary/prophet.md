@@ -6,6 +6,7 @@ irish_gloss: "a prophet, a seer; the old word kept, as the traditions kept it"
 id: prophet
 category: "Cosmic Cascade"
 short: "One of the five channels through which the strata above the Celestials act: a material being whose words, on a tradition's reading, carry what a stratum designed. Filed like a Champion; the record detects no message and files no foretelling."
+plain: "A prophet is one of the five channels through which the strata above the Celestials reach the world: a material being, speaking in their own voice, whose words, on a tradition's reading, carry what a stratum designed. The record files a prophet the way it files a Champion. It detects no message and files no foretelling, and a tradition's claim that its prophets were inspired is one the record neither makes nor denies. Whether a given person was a prophet cannot be decided from the record."
 related:
   - "Cosmic Cascade"
   - "Avatar"

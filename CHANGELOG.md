@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **In short summaries for the last 33 glossary entries** (`src/glossary/`, `scripts/glossary-plain-backlog.txt`, 2026-11-08). The second batch, from *Interval* to *Xenomusicology* in file order, gains its `plain:` line, each restating its own entry and adding nothing. The glossary backlog is now empty: all 84 entries open with an *In short* box, as all 196 lore pages do.
+
 - **In short summaries for 34 glossary entries, first batch** (`src/glossary/`, `scripts/glossary-plain-backlog.txt`, 2026-11-08). Thirty-four entries, from *AI Safety Archetype* to *Intermembrane Bleed* in file order, gain a `plain:` line, shown as the *In short* box above the entry. Each restates its own entry in plainer words and adds nothing to it. The glossary backlog falls from 67 to 33.
 
 - **Image and video search** (`lib/media-structured-data.js`, `lib/videos.js`, `lib/mp4-info.js`, `src/watch/`, `src/sitemap.njk`, `src/_includes/base.njk`, `.eleventy.js`, `test/media-structured-data.test.js`, 2026-11-08, Opus, Dermot's *"Same issue for a video search"* and *"Yes please"*). An image or video search for *Fian Ilchruinne* found nothing. Each page's own pictures are now in the sitemap and carry ImageObject data with credit and licence, and the one third-party image keeps its own credit. Fourteen clips and films get a watch page of their own, with VideoObject data, linked from under the player on their page. *Baby Universe* waits for a poster frame.

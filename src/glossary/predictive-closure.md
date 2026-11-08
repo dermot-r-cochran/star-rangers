@@ -6,6 +6,7 @@ irish_gloss: "a foretold closing"
 id: predictive-closure
 category: "Cosmology"
 short: "The regime past the Entropy Horizon, in which macroscale outcomes converge into narrow forecast bands and durable surprise approaches zero."
+plain: "Predictive Closure is the condition a universe settles into after it crosses the Entropy Horizon. Things still change, but most change recombines what already exists rather than making anything genuinely new, so the range of possible futures narrows until lasting surprise all but disappears. The universe does not stop; its large-scale outcomes have become broadly knowable in advance. Threnos-Ω is the record's main example."
 related:
   - "Entropy Horizon"
   - "Creative Entropy Index (CEI)"

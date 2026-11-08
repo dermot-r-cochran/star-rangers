@@ -6,6 +6,7 @@ irish_gloss: "borrowed, as the English borrows it; plural róbait"
 id: robot
 category: "Technology"
 short: "The record's plain word for an embodied machine, the frame or chassis that moves and works in a place, kept apart from any mind it carries, which is named separately wherever the person matters."
+plain: "Robot is the record's plain word for an embodied machine: a body built to move and work in a place, called a frame or, in older catalogues, a chassis. The word names the frame only. Where the mind it carries matters as a person, the record names that mind separately, and the law keeps the two apart: a machine may be disposed of, and a mind may not. A mind with no frame of its own, such as a ship's navigational intelligence, is not a robot."
 related:
   - "Kernel-Compliant"
   - "Commissioned Standing"

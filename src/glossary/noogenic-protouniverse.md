@@ -6,6 +6,7 @@ irish_gloss: "a noögenic fore-universe"
 id: noogenic-protouniverse
 category: "Noögenics"
 short: "The nascent universe-state immediately following noöseed transference. Remains under the jurisdiction of the Telearchs — and the higher Cascade strata reachable through them — of its parent universe until it stabilizes into independent governance."
+plain: "A Noögenic Protouniverse is a new universe at its earliest stage, beginning the moment a Noöseed, the seed of a new universe carried from a mind, completes its transfer. Until its zones settle and a Council forms around the seed mind that began it, it stays under the jurisdiction of its parent universe's Telearchs. Then it becomes the parent's adult child: fully independent, kin forever, answerable in nothing. It inherits the vocabulary of its parent's law, not the sentences."
 related:
   - "Noöseed"
   - "Noögenic Seeding Law"

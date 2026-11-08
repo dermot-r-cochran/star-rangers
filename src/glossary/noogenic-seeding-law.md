@@ -6,6 +6,7 @@ irish_gloss: "the law of noögenic seeding"
 id: noogenic-seeding-law
 category: "Noögenics"
 short: "Law stating that successor universes can be initiated through sufficiently deep and stable information-rich minds."
+plain: "The Noögenic Seeding Law states that successor universes can be started through minds that are deep, stable and rich in information, not by copying mass or moving matter. A universe's ability to reproduce therefore depends on the quality and coherence of the minds it produces, not on how many there are. A valid seed must keep its power to generate new structure through compression and transfer."
 related:
   - "Noöseed"
   - "Noögenic Seed Potential (NSP)"

@@ -6,6 +6,7 @@ irish_gloss: "borrowed, and avoided in Irish for the same reason as in English"
 id: naiad
 category: "Entities"
 short: "Flow-anchored entities distinct from Krenyi (Quiet-Built). The term Naiad is avoided in species classification to prevent confusion with the Krenyi state-marker Nai."
+plain: "Naiads are entities whose existence is tied to one particular flow, such as a watercourse, a current or a boundary gradient. They are not persons in the sense the Krenyi are, and the name is unrelated to the Krenyi state-marker Nai, which is why the Krenyi have a formal species name. A Naiad can hold together for centuries while its flow is stable, and lose its coherence within hours if a boundary zone shift disrupts it."
 related:
   - "Krenyi"
   - "Boundary Zone"

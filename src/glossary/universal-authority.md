@@ -6,6 +6,7 @@ irish_gloss: "the universal authority"
 id: universal-authority
 category: "Cosmology"
 short: "The native governance body of a universe as a whole: the Council of Harmonarchs plus the universe's founding seed mind, or a lead Harmonarch where there is none. Formerly recorded as 'Concordant' in the governance sense."
+plain: "A Universal Authority is the governing body of a whole universe. It is not a single mind standing over the universe but a council: every Concordant Principal, each of whom governs one zone, sitting together, with the universe's founding seed mind in the presiding seat, or a lead Harmonarch from the council where there is no founder. It keeps the universe in balance, but its writ ends at that universe's edge, and it does not write or revise the universe's founding rules."
 related:
   - "Concordant"
   - "Concordant Principal"

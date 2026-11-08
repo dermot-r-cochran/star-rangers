@@ -6,6 +6,7 @@ irish_gloss: "the initials kept as the record writes them; their expansion is no
 id: tafs
 category: "Technology"
 short: "A filtering system of the 29th century UCSD, known in the record only by its initials, which removes degraded material before it can accumulate and stands behind the era's passive, system-level medicine; a guild may hold the permission to modify its thresholds."
+plain: "TAFS is a filtering system of the 29th century UCSD, known in the record only by its initials; what they stand for is not on record. It removes degraded material before it can build up, and it is credited with the era's medicine, which works by passive, system-level filtering rather than intervention. It works to thresholds, which a guild may hold the authority to change. What it filters for, how, and who set the first thresholds, the record has not established."
 related:
   - "Reclaimers"
   - "Ashwardens"

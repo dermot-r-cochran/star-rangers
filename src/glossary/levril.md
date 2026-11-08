@@ -7,6 +7,7 @@ revealed_by: s07e01c01
 id: levril
 category: "Cosmic Cascade"
 short: "Sapient meta-dimensional beings with formal Cascade standing, in two ranks: Higher Levrils and Dragons. Below Celestials, above Champions. Distinguished from sapient and non-sapient monsters by Cascade rank and constraint literacy."
+plain: "Levrils are sapient beings whose existence extends into more spatial dimensions than the four that Material-layer beings can reach, and they are the only such beings with formal standing in the Cosmic Cascade. They rank below the Celestials and above Champions, in two ranks, Higher Levrils and Dragons, though common speech calls them all dragons. Levrils select Champions by lawful assessment, not favour, and may mentor mortals in constraint literacy, which is not magic."
 related:
   - "Cosmic Cascade"
   - "Constraint Literacy"

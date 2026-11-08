@@ -6,6 +6,7 @@ irish_gloss: "index of a universe's fertility"
 id: universe-fertility-index-ufi
 category: "Noögenics"
 short: "A universe-level measure of how effectively its civilizations produce viable seed minds."
+plain: "The Universe Fertility Index measures how ready a universe is to produce transferable Noöseeds, and so, by extension, to start successor universes. It counts depth, not numbers: what matters is how many minds reach the late-phase depth needed to seed. A crowded universe of shallow minds can score lower than a sparse one where a meaningful share of minds go deep enough."
 related:
   - "Noögenic Seed Potential (NSP)"
   - "Noöseed"

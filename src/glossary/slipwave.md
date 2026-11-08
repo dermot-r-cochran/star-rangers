@@ -6,6 +6,7 @@ irish_gloss: "a band's own name, kept"
 id: slipwave
 category: "Culture"
 short: "A three-person spacer-folk band from Eden Space Habitat's civilian arts circuit, active while its vocalist, Tissadelle Shepherd, was a Music Corps Novice placed with it under the Xenomusicology branch's Slipwave project, before her Cadet standing was confirmed. Best known for the recordings later adopted informally as the Star Rangers Anthem and for 'Ballad of the Stars.'"
+plain: "Slipwave was a three-person spacer-folk band that played the civilian arts circuit of Eden Space Habitat for a little under two years. Its vocalist, Tissadelle Shepherd, was placed with it in its last year as a Music Corps Novice, before her Cadet standing was confirmed; to the circuit it was a band, to the Corps' Xenomusicology branch a file. Its handful of surviving recordings include the song later adopted informally as the Star Rangers Anthem, and 'Ballad of the Stars'."
 tags: [slipwave, music, band, culture, music-corps, xenomusicology, tissadelle, perrin-ashgrove, marlow-calloway, eden, pre-ranger, anthem, ballad, musician-specialization]
 ---
 

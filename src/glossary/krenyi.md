@@ -7,6 +7,7 @@ revealed_by: s01e01c01
 id: krenyi
 category: "Species"
 short: "Long-lived humanoids defined by clarity, coherence, and a freedom that is structural rather than won — no mechanism in the cosmology can own or compel one — with the same built-in resistance to fear, fury, mythification and grief-predation, and an origin unrecorded by their own design. Also called 'Quiet-Built'; the state-marker 'Nai' is a courtesy, not a name for the people."
+plain: "The Krenyi, also called the Quiet-Built, are a long-lived people, the most easily mistaken for human and, beneath that resemblance, the furthest from it. They cannot feel deep fear or fury, and nothing in the cosmology can own or compel one, so their cooperation is only ever extended, never obtained. Their manner is polite and their honesty is the floor under it. Their origin is independent of humanity and unknown to the record; the Krenyi know, and keep it to themselves."
 related:
   - "Naiad"
   - "Obligers"
