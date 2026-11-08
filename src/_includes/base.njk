@@ -130,6 +130,13 @@
   {%- if ogImageAlt %}
   <meta name="twitter:image:alt" content="{{ ogImageAlt }}" />
   {%- endif %}
+  {#- ImageObject JSON-LD for each picture the page shows as its own
+      (pageImages in .eleventy.js), so image search can credit and license
+      it; lib/media-structured-data.js holds the shape and the one
+      third-party exception. -#}
+  {%- for img in pageImages %}
+  <script type="application/ld+json">{{ img | imageJsonLd(page.url, site.url, site.name) | safe }}</script>
+  {%- endfor %}
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>

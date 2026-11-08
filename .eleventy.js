@@ -1,5 +1,8 @@
 const path = require("path");
 const { platesFor, resolvePlates } = require("./lib/plates");
+const { VIDEOS } = require("./lib/videos");
+const { mp4DurationSeconds, isoDuration } = require("./lib/mp4-info");
+const { imageObject, videoObject, jsonLd } = require("./lib/media-structured-data");
 const { DateTime } = require("luxon");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const { createMarkdownRenderer, povTierVisible } = require("./lib/markdown-containers");
@@ -100,6 +103,25 @@ function computeOgImageAlt(data, ogImage) {
   if (ogImage === DEFAULT_OG_IMAGE) return DEFAULT_OG_IMAGE_ALT;
   if (ogImage === JOURNAL_OG_IMAGE) return JOURNAL_OG_IMAGE_ALT;
   return data.image_alt || data.title || undefined;
+}
+
+// The header image computeOgImage picks (never the site or Journal fallback,
+// never a PENDING placeholder) and, on a character page, the gallery.
+function computePageImages(data, included) {
+  if (!included) return [];
+  const own = computeOgImage(data, included);
+  if (own === DEFAULT_OG_IMAGE || own === JOURNAL_OG_IMAGE) return [];
+  const real = (src) => !isPlaceholderImage(path.join(__dirname, "src", src));
+  const images = [];
+  if (real(own)) images.push({ src: own, alt: data.image_alt || data.title });
+  if (classifyContentPath(data.page && data.page.inputPath) === "character" && Array.isArray(data.gallery)) {
+    for (const item of data.gallery) {
+      if (!item || !item.image) continue;
+      const src = `/images/characters/${data.id}/${item.image}`;
+      if (real(src)) images.push({ src, alt: item.image_alt || data.title });
+    }
+  }
+  return images;
 }
 
 // og:image:width / og:image:height, read from the file itself (lib/image-size.js).
@@ -274,6 +296,52 @@ module.exports = function(eleventyConfig) {
     if (outputPath && /\.html$/.test(outputPath)) return unlinkExcluded(content, excludedUrls);
     return content;
   });
+
+  // Watch pages (lib/videos.js, src/watch/): one per clip whose host page
+  // this build carries, so a narrowed edition never gets a watch page for a
+  // clip it hides. The set of ids feeds the transform below, which puts a
+  // link to the watch page under the player on the host page, the one place
+  // a reader (and a crawler) finds it from.
+  const watchIds = new Set();
+  eleventyConfig.addCollection("watchVideos", (collectionApi) => {
+    watchIds.clear();
+    const all = collectionApi.getAll();
+    const out = [];
+    for (const video of VIDEOS) {
+      const host = all.find((item) => item.url === video.page);
+      if (!host || host.data.layout === "excluded.njk") continue;
+      if (!fs.existsSync(path.join(__dirname, "src", "video", `${video.id}-poster.jpg`))) continue;
+      watchIds.add(video.id);
+      out.push({
+        ...video,
+        hostTitle: host.data.title,
+        description: video.caption || host.data.description,
+        duration: isoDuration(mp4DurationSeconds(path.join(__dirname, "src", "video", `${video.id}.mp4`)))
+      });
+    }
+    return out;
+  });
+  eleventyConfig.addTransform("watchPageLinks", function (content, outputPath) {
+    if (!outputPath || !/\.html$/.test(outputPath) || !content.includes("</video>")) return content;
+    if (/[\\/]watch[\\/]/.test(outputPath)) return content;
+    return content.replace(
+      /<source src="\/star-rangers\/video\/([a-z0-9-]+)\.mp4"[^]*?<\/video>/g,
+      (block, id) =>
+        watchIds.has(id)
+          ? `${block}\n<p class="video-watch-link"><a href="/star-rangers/watch/${id}/">Open the clip on its own page</a></p>`
+          : block
+    );
+  });
+  eleventyConfig.addFilter("imageJsonLd", (img, pageUrl, siteUrl, workName) =>
+    jsonLd(imageObject({ src: img.src, alt: img.alt, pageUrl, siteUrl, workName }))
+  );
+  eleventyConfig.addFilter("videoJsonLd", (video, watchUrl, siteUrl, workName) =>
+    jsonLd(videoObject({
+      name: video.hostTitle, description: video.description, id: video.id,
+      uploadDate: video.uploadDate, duration: video.duration,
+      watchUrl, hostUrl: video.page, siteUrl, workName
+    }))
+  );
 
   // prefix with its own post-build sed step, independently of this.
   const sitePathPrefix = process.env.SITE_PATH_PREFIX;
@@ -759,6 +827,9 @@ module.exports = function(eleventyConfig) {
     ogImageSize: (data) =>
       computeOgImageSize(computeOgImage(data, isContentIncluded(data, contentFilter))),
     ogType: (data) => computeOgType(data),
+    // The pictures a page shows as its own, for image search: read by the
+    // image sitemap (src/sitemap.njk) and the ImageObject JSON-LD in base.njk.
+    pageImages: (data) => computePageImages(data, isContentIncluded(data, contentFilter)),
     // Only read by excluded.njk (see computeReferenceDomain) - the domain a
     // reader is sent to for a page this build hides. A tier-gated thread's
     // excluded page points at its own homeDomain instead of the default

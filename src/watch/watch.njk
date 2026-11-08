@@ -1,0 +1,27 @@
+---
+layout: base.njk
+pagination:
+  data: collections.watchVideos
+  size: 1
+  alias: video
+  addAllPagesToCollections: true
+permalink: "/watch/{{ video.id }}/"
+eleventyComputed:
+  title: "{{ video.hostTitle }} (video)"
+  description: "{{ video.description }}"
+  ogImage: "/video/{{ video.id }}-poster.jpg"
+  ogImageAlt: "A frame from the video on {{ video.hostTitle }}"
+  ogImageSize: ""
+---
+{#- A watch page: the clip as the page's main content, which is what video
+    search needs before it will index a video (lib/videos.js says why). The
+    caption is the host page's own; nothing here is new text about the world,
+    and the host page stays the clip's home. -#}
+<script type="application/ld+json">{{ video | videoJsonLd(page.url, site.url, site.name) | safe }}</script>
+<h1 class="page-title">{{ video.hostTitle }}</h1>
+<video controls preload="metadata" poster="/star-rangers/video/{{ video.id }}-poster.jpg" style="width:100%;max-width:56rem;display:block;margin:1.5rem 0;background:#000">
+  <source src="/star-rangers/video/{{ video.id }}.mp4" type="video/mp4">
+  Your browser does not support the video element. <a href="/star-rangers/video/{{ video.id }}.mp4">Download the clip</a>.
+</video>
+<p class="page-intro"><em>{{ video.description }}</em></p>
+<p>This video belongs to <a href="/star-rangers{{ video.page }}">{{ video.hostTitle }}</a>, which is where to read about it.</p>
