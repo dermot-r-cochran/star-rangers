@@ -73,16 +73,39 @@ prose: *The tables Drey asks for*. One left as his own open direction:
 answered by standing rules. The 14 October worklist and the *Histories in
 their own voices* section are left as they stand.
 
+**Triage of 9 November 2026 (Fable).** The same pass over every line added or
+changed since 2 November, under the same rule. Two lines settled by
+recommendation, marked *settled by Fable 9 Nov 2026, his to overrule*: the
+Tír na nÓg *rarely align* clause left from the *Received* critic read (option
+1, a clarification resting on S01E00C13, applied to `planets/tir-na-nog.md`
+in the same PR), and the 14 October worklist's last line, the corps of the
+four non-humanoid Rangers (option a, the line's own *fill when a chapter or
+portrait needs one*). Five stale clauses closed against the repository:
+Vellire's owed See-also on `ollune.md` (landed with the entry, #1653); the
+two Slipwave codex covers (made 8 October, #1016); Saint Aoife's portrait
+(filed 3 September, to the merged brief); the headmate item's *one thing
+still open* (its two readings merged in #647, on the #547 precedent); and
+the trailer section's *still open there*, which names desktop tests, not
+decisions. No line met the bar for him. *Real astronomy in the record*
+stays his own direction, unmoved since 2 November. The 14 October worklist
+beyond its last line and the *Histories in their own voices* section are
+left as they stand.
+
 ---
 
 ## A theme and title for the trailers — raised 5 November 2026, RULED 6 November 2026
 
 His *"A, A"*: the late note and the closing title, one core varied by thread, on
 trailers only (`music-prompts.md`, *A theme and title for the trailers: ideas*).
-Still open there: whether Director takes a supplied track or lettering, and how
-a theme is joined to a film outside it. Two supplied recordings stand as candidates
+~~Still open there: whether Director takes a supplied track or lettering, and how
+a theme is joined to a film outside it.~~ Two supplied recordings stand as candidates
 beside the chosen theme, 6 November 2026, and which passage of them, if any, is
-usable waits on his hearing them (same section).
+usable waits on his hearing them (same section). *Triage 9 November 2026
+(Fable):* the three unknowns in that section (whether Director takes a
+supplied track or lettering, whether anything joins a theme to a film outside
+it, fresh take or edit for a variation) are tests on his desktop with the
+tools, not decisions; nothing here waits on a ruling, only on his ear and a
+run. Nothing has been generated.
 
 ## Episodes as self-contained stories — raised by Dermot 5 November 2026, RULED the same day: option (a), *"New episodes, reviews"*
 
@@ -177,13 +200,17 @@ lifespan; the Ollune language beyond the record's handful of words; the
 courier's name or corps; any chapter. Not done: no chapter; no portrait
 prompt (owed in `images.md` from the Ollune body of 20 October, on Ilyare's
 prompt of record); no title card (the card tools need `sharp` or the `.ps1`,
-neither to hand); one See-also clause on `ollune.md` (an extension).
+neither to hand); ~~one See-also clause on `ollune.md` (an extension)~~ —
+**closed 9 November 2026 (stale)**: the clause landed with the entry in
+#1653 (`ollune.md`, *See also*, *For the history as the Ollune themselves
+cry and mark it*). The prompt and the card are still owed, desktop steps,
+not decisions (triage 9 November 2026).
 
 ---
 
 ## The seventh revisit home, *Received* (S03E02C04) — the weekly Fable pass of 2 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
 
-The next chapter of Tissadelle's middle under the 18 October ruling (option A, below), Season 3 being still the checklist's second gap. Late spring 2829: the seventh Counterpane revisit home, the bench signed over at the Survey Corps Standards Office's receiving door on Earth, the general operations department ending on that signature by its order's own terms, Shepherd leaving before the finding, Halvorsen not sitting on the audit, and nine days later the seventh confirmation at the width of one membrane. Seven readings settled at Fable and recorded in `intake-2026-11-02.md`, last section: the beat (the audit at home over the roster winter); Shepherd leaving rather than waiting; two established POVs and nobody new; fourteen names; the department ending at the receiving signature; nine days; Halvorsen's last line. Nothing in it met the bar for him. **Left for him there, not blocking:** the Tír na nÓg *rarely align* clause from the stage 2 critic read, two options, (1) recommended. The 19 October worklist's Counterpane line is struck below as paid before it was written.
+The next chapter of Tissadelle's middle under the 18 October ruling (option A, below), Season 3 being still the checklist's second gap. Late spring 2829: the seventh Counterpane revisit home, the bench signed over at the Survey Corps Standards Office's receiving door on Earth, the general operations department ending on that signature by its order's own terms, Shepherd leaving before the finding, Halvorsen not sitting on the audit, and nine days later the seventh confirmation at the width of one membrane. Seven readings settled at Fable and recorded in `intake-2026-11-02.md`, last section: the beat (the audit at home over the roster winter); Shepherd leaving rather than waiting; two established POVs and nobody new; fourteen names; the department ending at the receiving signature; nine days; Halvorsen's last line. Nothing in it met the bar for him. ~~**Left for him there, not blocking:** the Tír na nÓg *rarely align* clause from the stage 2 critic read, two options, (1) recommended.~~ — **(1), settled by Fable 9 Nov 2026, his to overrule**, and applied in the triage PR: `planets/tir-na-nog.md` now reads *The two rarely align, about once a year, on a day the local almanacs never quite agree on*, a clarification under the 25 August rule resting on the published chapter (S01E00C13, *it would do for a year, and then it would do again*; *the next one was in a year and some days, and did not agree with itself about the days*). Not a dilemma: *rarely* and *about once a year* can both stand for a shadow transit, the page's *the rare Conjunction* is untouched, and the Sen's-years precedent does not apply, since the chapter is a Fable draft merged under *his to overrule* and the page is the Archive's, not his approved prose. The 19 October worklist's Counterpane line is struck below as paid before it was written.
 
 ## The tables Drey asks for, 2711 to 2720 — raised 2 November 2026 by the Benevolent Critic read of #1635–#1639, RULED 6 November 2026: A (Dermot's *"Yes, all five"*); both figures in `bound-in-behind-it.md` now read 2719, and her tenure line stands
 
@@ -3296,7 +3323,7 @@ Dermot asked, 14 October 2026: *"Any other people groups that seem under represe
 - [x] ~~**An Ovruhn Ranger**: `ovruhn.md`, *In the Corps*, describes Ovruhn Rangers in structural survey, search, acoustic watch and disaster mass care; the one named Ovruhn, Vhen, is a chorus keeper on Thavren. This line is the Corps half of the Ovruhn entry's *"any Corps character"*.~~ **Filled 24 October 2026** (Fable, by the daily Fable fill; the section *An Ovruhn Ranger, Rhuven* above records the choices): Rhuven, Field Officer, Survey Corps, Meteorology Branch, the acoustic observer of a world with weather the record does not name, posted alone, 2826 UCSD (`src/characters/rhuven.md`; portrait prompt `images.md` § 34, not generated). The acoustic-watch line of the four was taken because it is the one the record already gives a branch and a doctrine (`star-rangers-survey-corps.md`, the Meteorology Branch's locally posted observers); which corps holds search and rescue, and which the Ovruhn mostly join, stay not established.
 - [x] ~~**A Prismeri on a Corps posting**: guild astrogators do Survey Corps fold-route confirmation under the compact, and Prismeri contracts name *Ranger liaison postings*, but no Prismeri individual is on record (the *Federation peoples* Prismeri line above is the people as a whole; this one is the posting). Whether such a posting is a Ranger or a seconded guild member is choice 4 in that section. **Choice 4 was ruled A on 14 October and narrowed 29 October 2026** (Dermot, verbatim: *"Only the Academy would needed seconded or external faculty as instructors but would create a conflict of interests and neutrality if used for General Operations or Special Missions"*; `species-design.md`, choice 4): the line is fillable either as a sworn Prismeri Ranger on a field posting, or as a seconded guild member teaching at the Academy, never as a seconded member on a general operations or special purpose mission. Notes above that call choice 4 open are stale on this point.~~ **Filled 29 October 2026** (Fable, by the daily Fable fill; the section *A Prismeri instructor at the Academy, Essarith* above records the choices): Essarith, a Full Wings reader of an astrogation guild of Prismere, seconded under the compact as an instructor at the Survey Corps' college of the Academy, in the piloting and navigation school, 2826 UCSD; on the Corps' rolls as the guild's, not a Ranger, no rank and no tab (`src/characters/essarith.md`; portrait prompt `images.md` § 45, not generated). The Academy shape was taken over a sworn Ranger because every Prismeri off-world line on record is a guild reader under contract (the contracts' *Ranger liaison postings*, the readers who come back in *Two Points in One Life*) and no page has any Prismeri enlist; `prismeri.md` gains the ruling's sentence as an extension. A sworn Prismeri Ranger stays open, named absent on the page, and would be a field posting under the ordinary ladder.
 - [x] ~~**A Verdani in or beside the Corps**: Verdani need only full-spectrum light, which Ranger vessels already carry, and Isren Farrowkin sponsored the Survey Corps data-sharing proposal, but no Verdani Ranger is on record.~~ **Filled 25 October 2026** (Fable, by the daily Fable fill; the section *A Verdani Ranger, Elsha Rootkin* above records the choices): Elsha Rootkin, Deputy Officer, Survey Corps, Ecology Branch, on the planetary survey crew of a Survey vessel the record does not name, on a watered world it does not name, 2826 UCSD (`src/characters/elsha-rootkin.md`; portrait prompt `images.md` § 42, not generated). *In* the Corps rather than beside it, since a secondment is the shape choice 4 below reserves for the Prismeri and the record gives the Verdani no compact instrument for one; the Ecology Branch because its *habitable for* is the question the people's light budget already asks. One option is left for him in that section, the strain colour, with the canopy belt recommended.
-- [ ] **The corps of the four non-humanoid Rangers on record**: Mira of Brine, Qiren Tal, Sethka Ru and Suvra Kel each have a role and no corps or rank on their pages; fill when a chapter or portrait needs one, on the Veyr precedent of one plain seated tab until then. — **Skipped 2 November 2026 and brought to him as options** (Fable, by the weekly pass; the last unticked line on this list). The line's own trigger has not fired: only one chapter names any of the four, S05E01C01 *Refusal to Certify*, tagged Safety Corps, and `species-design.md` (*In the Corps*, Veyr Basaltborn) reads that tag and still marks Qiren Tal's corps and rank *not established*, as it marks the other three; all four portraits are filed, Mira's and Qiren's with the plain tab by the 12 and 13 October rulings and none showing a corps colour; and the Rhuven fill of 24 October kept the four as they are, deriving nothing back onto them. Settling a corps now would settle what the record keeps open: which corps holds search and rescue (Suvra Kel) and which holds an environmental surveyor (Mira of Brine) are both *not established* in `species-design.md`. So an existing Ranger's corps and rank is a canon fact the record reserves, not a gap a page can fill. Options: **(a)** leave the line as written, the plain tab until a chapter or portrait asks, and read this list as worked through with this line held rather than open; **(b)** derive the one corps the record attaches to any of the four, Qiren Tal in the Safety Corps on the chapter's tag, rank still blank, and leave the other three not established; **(c)** rule all four, corps and rank, by his word. **Recommended: (a)**, because the line already says when it is to be filled and nothing has asked yet, and (b) would read a chapter tag as a posting.
+- [ ] **The corps of the four non-humanoid Rangers on record**: Mira of Brine, Qiren Tal, Sethka Ru and Suvra Kel each have a role and no corps or rank on their pages; fill when a chapter or portrait needs one, on the Veyr precedent of one plain seated tab until then. — **Skipped 2 November 2026 and brought to him as options** (Fable, by the weekly pass; the last unticked line on this list). The line's own trigger has not fired: only one chapter names any of the four, S05E01C01 *Refusal to Certify*, tagged Safety Corps, and `species-design.md` (*In the Corps*, Veyr Basaltborn) reads that tag and still marks Qiren Tal's corps and rank *not established*, as it marks the other three; all four portraits are filed, Mira's and Qiren's with the plain tab by the 12 and 13 October rulings and none showing a corps colour; and the Rhuven fill of 24 October kept the four as they are, deriving nothing back onto them. Settling a corps now would settle what the record keeps open: which corps holds search and rescue (Suvra Kel) and which holds an environmental surveyor (Mira of Brine) are both *not established* in `species-design.md`. So an existing Ranger's corps and rank is a canon fact the record reserves, not a gap a page can fill. Options: **(a)** leave the line as written, the plain tab until a chapter or portrait asks, and read this list as worked through with this line held rather than open; **(b)** derive the one corps the record attaches to any of the four, Qiren Tal in the Safety Corps on the chapter's tag, rank still blank, and leave the other three not established; **(c)** rule all four, corps and rank, by his word. **Recommended: (a)**, because the line already says when it is to be filled and nothing has asked yet, and (b) would read a chapter tag as a posting. — **(a), settled by Fable 9 Nov 2026, his to overrule**: a week on, nothing has asked; the line's own *fill when a chapter or portrait needs one* is the 14 October worklist rule, and the 19 October triage's standing (*worklists and items he deferred in his own words are left as he left them*) answers it. Nothing in `src/` changes; the list reads as worked through with this line held, and the four stay *not established* until a chapter or portrait asks.
 
 **The wider scales: lore with no prose** (added 19 October 2026 at Dermot's *"other concordants, membrane-universes, archclusters, formclusters and mathematical regimes"*, then his option (a)). A count on main that day: *Concordant* appears on 95 Archive pages and in 6 chapters, all of them the Solar System's own; the four universe pages under `src/lore/universes/` appear in no chapter; *archecluster* is on 36 pages and in 4 chapters, none set outside the local one. Each line below is prose (Fable's: a chapter, or a POV block in one) set at or reaching that scale, grounded only in its pages, with the rest marked absent.
 - [x] ~~**Another Concordant**: no page names one besides the Solar System's (`solar-system-concordant.njk`, `concordant-membranes.md`). A chapter that meets one needs a name first, and a name is a canon decision, so this line is skipped and brought to him as options until a page supplies one.~~ — **RULED 28 October 2026: a Concordant Zone is written by its universe's name, *Deadwater's Concordant*, and carries no proper name of its own** (Dermot, verbatim *"Option 1: Deadwater's Concordant, zones named by their membrane"*, of three options drafted on Fable; the other two were *Comhréir na nDaoine Maithe*, the Union's word for Tír Tairngire's zone, and *Filinesse*, the Caomhari's). **The line's premise was wrong, and is corrected here:** the Solar System Concordant is the civil compact of 2543 UCSD, restyled the Concord in 2790, not a Concordant Zone (`solar-system-concord.md`: the Solar System sits *inside* one and is *not a small Concordant*), so the record named no zone at all, the home one included. Every zone edge inside our own universe lies a horizon or more away (`boundary-zones.md`, `concordant-membranes.md`), so the only zones a chapter can meet are a neighbouring universe's, and Deadwater's is the one a person can reach, by its single certified fold route, QSH never having worked there (`universes/deadwater.md`). Grounding: the registry *names what it meets* (`archecluster.md`); the record already writes *Tír na nÓg's own Concordant* (`universes/tir-tairngire.md`); and *there is no unclaimed interior* (`concordant-membranes.md`), so Deadwater's staged system lies in one zone. Commits the record to: a zone takes its universe's name in the possessive, never a proper name, because no observer can bound one from inside; our own zone stays unnamed, as the local archecluster does. Leaves open: how many zones any universe holds, and every zone edge. Nothing in `src/` changes until a page or chapter needs the phrase; the prose half of the line is now ready for Fable, set in Deadwater. — **The prose half paid 28 October 2026 by S01E00C12 *Left Blank*** (Fable, the same evening): the Deadwater platform's twenty-first return, early spring 2826, with a *Zone* line new on the sheet, in the POVs of the platform's Section Lead Agnete Solvang and Field Officer Benedek Rónai of the Archive Branch only; the platform leaves the line for the Archive, and the Archive on Threshold writes *Deadwater's*, the first zone other than the local one written into the record, by its universe's name and with no proper name, while the home sheets' lines stay blank. Seven readings settled at Fable, his to overrule (`intake-2026-10-28.md`): the phrase entering by the registry and not by a survey; 2826 and the S01E00 slot; two new named people with no pages yet, Sen's desk not used; the line left blank by the platform and filled at the Archive; the Medical Corps' column as initials with no word; Solvang at term with no reason given; the home lines blank, never *the local*. Both options left open there were taken on the recommendation: character pages for the two, `src/characters/agnete-solvang.md` and `benedek-ronai.md` (PR #1570), and the possessive convention as a paragraph of `src/glossary/concordant.md`, *How the record writes one*, citing the chapter (PR #1570; the stale *left open* corrected 2 November 2026).
@@ -4964,8 +4991,10 @@ be found without reading 1,300 lines.
   by design. `images.md` records the Eden Reeves and the Threshold Reeves as
   deliberate twins, the same model on two deployments, the second's figure
   further along; the difference is the point and is in both alt texts.
-- **A headmate of Tissadelle — RULED 3 September 2026, drafted, one thing
-  still open** (intake
+- **A headmate of Tissadelle — RULED 3 September 2026, drafted, ~~one thing
+  still open~~ nothing open (closed 9 November 2026, stale: the two readings
+  flagged for the *Asteria* subsection were in #647, merged 3 September, so
+  they are confirmed as drafted, on the 19 October #547 precedent)** (intake
   2026-08-24, detail in `images.md`'s Open work). Dermot supplied a generated
   portrait (blue-haired woman, night forest), reassigned in-session from
   "Asteria the Sage" to "a headmate of Tissadelle", destination "codex art".
@@ -5077,17 +5106,20 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
   only the container goes; restorative work, first tier. *Follow-up, a
   desktop step:* extract the frame at full size and the audio to `.m4a`,
   swap the page's embed, remove the `.mp4`. Not done in the triage.
-- **Two Slipwave videocasts filed 7 October 2026, three things open.**
+- **Two Slipwave videocasts filed 7 October 2026, ~~three~~ two things open.**
   `src/codex/odonata-raise-your-banners.md` and `src/codex/borrow-the-angle.md`
   carry Dermot's two music videos with their captioned lines as the only
   confirmed text. Open and his: **which session** they belong to (the entries
   and `slipwave.md` leave it unstated); **the full lyric sheets**, which close
-  the transcriber's gap when supplied; and **the two codex covers**, owed from
+  the transcriber's gap when supplied; ~~and **the two codex covers**, owed from
   `make-codex-cover.ps1` so the Slipwave card set stays whole (a
-  `needs-desktop` issue). If he rules them dock-era with Shepherd, her page's
-  *two dock-circuit recordings survived* line needs an extension. *Triage
-  19 October 2026:* the session and the lyrics are inputs only he holds, not
-  a choice to settle; the covers are a desktop step. Left as his.
+  `needs-desktop` issue)~~ — **closed 9 November 2026 (stale)**: both cards
+  were made 8 October 2026 (`src/images/codex/odonata-raise-your-banners.jpg`,
+  `borrow-the-angle.jpg`, closing #1016) and matched to the set on 11 October,
+  before the 19 October triage called them a desktop step. If he rules them
+  dock-era with Shepherd, her page's *two dock-circuit recordings survived*
+  line needs an extension. *Triage 19 October 2026:* the session and the
+  lyrics are inputs only he holds, not a choice to settle. Left as his.
 - **Two newly identified recordings need canon homes** (identified 20 August
   2026). The 3:49 is **Slipwave**, which makes a fourth recording by a band whose
   catalogue `slipwave.md` already characterises — *a handful, most incomplete or
@@ -5125,11 +5157,15 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
   20 August 2026: reframed, not adopted.** Keep the concealed face, which is
   canon reasoning rather than styling; take the card's night, star field,
   moorland and red hair. Merged brief in `images.md` and
-  [`prompt-sheet.md`](prompt-sheet.md) 1.7. **Still open:** the portrait does not
+  [`prompt-sheet.md`](prompt-sheet.md) 1.7. ~~**Still open:** the portrait does not
   exist yet — the card cannot be cropped into one (479 px art region, title
   burned across her shoulders), so it needs generating at 1200×675. *Triage
   19 October 2026:* a generation item for his desktop (`images.md`,
-  `saint-aoife.jpg`, the merged brief), not a decision.
+  `saint-aoife.jpg`, the merged brief), not a decision.~~ — **closed
+  9 November 2026 (stale)**: `src/images/characters/saint-aoife.jpg` was
+  filed 3 September 2026 with the 28 August batch, to the merged brief (night,
+  the thorn well, red hair, the face turned down and in shadow), and the
+  character page's alt describes it. Nothing open.
 - ~~**Is low-gravity shuffle dance canon?** The 26 July intake marks it as not
   existing in canon; a supplied Grok clip depicts it, in full gravity. If it is
   to be established, the microgravity is the whole of what makes it worth
