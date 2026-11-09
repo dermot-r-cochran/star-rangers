@@ -97,6 +97,10 @@ this reader got here and what they already know. **Wants**: what they came for.
 one that decides most of the rest. **Posture, palette, voice**: what the build
 does about it. **Never**: the thing this edition specifically must not do.
 
+Each edition's one-line focus, approved 9 November 2026, lives in `focus.md` and
+is not repeated here. It is read from this file's profile, and a change to a
+profile that would move the edition's focus goes to Dermot as a change to its line.
+
 Page counts are *pages that render as themselves* rather than as an
 `excluded.njk` placeholder, out of 638 built — measured 2026-08-21 against a
 build of each edition with its registry filters applied. They include the
