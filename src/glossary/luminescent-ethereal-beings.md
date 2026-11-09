@@ -6,7 +6,7 @@ irish_gloss: "luminous airy beings"
 id: luminescent-ethereal-beings
 category: "Cosmology"
 short: "The Caomhari (the Good People) as they present at a Conjunction window — Class II crossers of the Harmonic Membrane, luminous by their own envelope's coupling of sound and light for as long as its templates hold on this side, and by nothing else. The Etheric-channel complement of the Photographic Being, which is an image and crosses nothing."
-plain: "Luminescent Ethereal Beings is the early contact record's phrase for the Caomhari, the Good People, who cross bodily from Tír Tairngire, the Harmonic Membrane, during a Conjunction window. They glow by their own voices, because their bodies carry their home's coupling of sound and light, which holds on this side only while the window lasts: a lamp's worth, never a sun's. They are sapient, and the clearest documented case that Class II beings are not predators."
+plain: "Luminescent Ethereal Beings is the early contact record's phrase for the Caomhari, the Good People, who cross bodily from Tír Tairngire, the Harmonic Membrane, during a Conjunction window. They glow by their own voices, because their bodies carry their home's coupling of sound and light, which holds on this side only while the window lasts: a lamp's worth, never a sun's. They are sapient, and the clearest documented case that a Class II being need not be a predator."
 related:
   - "Photographic Beings"
   - "Membrane Shadow"
