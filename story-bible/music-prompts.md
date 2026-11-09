@@ -610,6 +610,35 @@ change. Each draws on the edition brief above where one exists.
 | The Infinite Castle and the Timeless Library | three voices taking the figure in turn, one for each record | late on the third voice. This file has no theme brief for the thread, so this line is the least grounded |
 | Church Space | divided strings, slowed until the figure is held tones passed from hand to hand | a held note that will not resolve |
 
+#### Orbital Five-O's variation: the first prompt (9 November 2026)
+
+The first variation written as a prompt, because a Five-O take serves two
+threads (Young Star Rangers shares the track by ruling) and Five-O is the one
+edition allowed a pulse, which MyTunes added to both core takes unasked. It
+also answers *fresh take or edit* for one thread: this is the fresh take.
+The figure is stated once, as the table above says, so the risk named under
+idea A, that a single late note sounds like a mistake, is the thing to listen for.
+
+| Field | |
+|---|---|
+| **Style** | sci-fi ambient, procedural, title theme, two-chord vamp, minimal, mid-tempo |
+| **Mood** | taut, enigmatic, mysterious, forward-leaning |
+| **Instruments** | analogue arpeggio, tremolo reverb guitar, upright bass, dry rim tick |
+| **Production** | low station hum under everything, arpeggio runs the whole length without resolving, five-note figure on the guitar stated once, its last note a fraction late against the rim tick, ends on a held tone |
+| **Exclude** | brass fanfare, surf rock kit, full drum groove, sixties pastiche, orchestral hit, trailer riser, braam, vocals |
+| **Form** | instrumental, ends on a held tone, the best 12 to 20 seconds cut from a longer take |
+
+**For MyTunes**, 198 characters, under its 200-character cut:
+
+`Taut, enigmatic, mysterious sci-fi title theme, mid-tempo. Analogue arpeggio never resolving, upright bass, dry rim tick, station hum. Tremolo guitar: five-note motif once, last note late. Held end.`
+
+It drops *procedural*, *two-chord vamp*, *reverb* and the exclusions. Run it with
+Instrumental on, genre none and Live off. If a take comes back as surf rock or a
+full kit, take 2 is the same line with genre *Classic*. If the motif is lost
+under the arpeggio, put *motif twice* in place of *motif once* and say so in the
+take's entry. A take is a sketch, logged under *Entry format*, and not filed
+under `src/audio/` until a trailer uses it.
+
 ### The title: three ideas
 
 The lettering is always set by script or composited, never generated, and it is
@@ -1310,6 +1339,30 @@ absences.
   any turning down. A second loop, 73.6–150.6 s (75 s), was offered and not
   chosen. Dermot's verdict: *"Keep it, 60 s loop, B"*. Card: a wooden flute across
   a stone bowl, a water drop hanging above; does not travel.
+
+### Orbital Five-O's variation, take 1 — *Unresolved Arpeggio* (verdict to come)
+- **Type:** generation
+- **Tool:** MyTunes (MWM), phone app
+- **Date:** 9 November 2026
+- **Used by:** nothing yet; candidate for the Orbital Five-O and Young Star Rangers trailers (*Orbital Five-O's variation*)
+- **Prompt:** the 198-character line under *Orbital Five-O's variation*, verbatim
+- **Settings:** Instrumental on, genre none, Live off, as the entry says to run it. MyTunes gave it the title.
+- **Lyrics:** instrumental
+- **Negative:** none
+- **Notes:** 3:13. Same wrapper as the late note's takes, 640×360, AAC 48 kHz
+  stereo. −13.6 LUFS integrated, true peak −0.8 dBFS, LRA 5.9 LU. Measured, not
+  heard: a steady pulse of about 70 a minute from 0:30 to the end (or 140, double
+  time), with the opening 30 s reading near 144. The level climbs from a quiet
+  opening (about −22 dB at 0:00) to its fullest at 2:15–2:45. The spectral
+  centroid rises to its brightest at 1:30–2:30 and falls after. Pitches read
+  nearest C minor (C, E♭, G, F, D, B♭ strongest), unconfirmed. There is a dip of
+  about 4 dB at 2:45–2:55 on a sustained G, the likeliest title passage. Then the
+  bass steps G, F, C, and a low C (65 Hz) is held at about 2:58–3:02. Over it a
+  B, then an E♭ above a C sound as the take fades, and it is gone by about 3:11.
+  The B is a leading tone left unanswered over the C. Whether a five-note figure
+  is present, played once on guitar, and whether its last note lands late could
+  not be measured under the arpeggio. Card: a film reel throwing a beam, in
+  cyanotype blue; it does not travel. Not in `src/audio/`: no trailer uses it yet.
 
 ### told-theme.m4a
 - **Type:** generation, then a loop edit

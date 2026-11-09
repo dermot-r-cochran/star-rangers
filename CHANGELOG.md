@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Orbital Five-O's variation of the trailer theme, written as a MyTunes prompt** (`story-bible/music-prompts.md`, 2026-11-09, Opus, Dermot's *"Next prompt for MyTunes"*). The first thread variation of the late note, in the six fields and as a 198-character line for MyTunes. One take serves Orbital Five-O and Young Star Rangers. Take 1, *Unresolved Arpeggio*, is logged with its measurements, its verdict to come.
+
 ## [1.64.0] — 2026-11-09
 
 The Verdani history joins the *Histories in their own voices* series, and S03E03C01 *Spent* opens Episode 3 of Tissadelle's middle. Every edition, thread, season and strand now has a focus line, and Young Star Rangers gets a palette of its own and promises a month, not a year. The Atlas gains Corryn, Pelagos Minor and nine worlds round stars the record has not yet named. Rhuven's portrait is removed, and critic reads correct Shepherd's page, Tír na nÓg, Rhuven's page, the README and three glossary summaries.
