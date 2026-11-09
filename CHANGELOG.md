@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Rhuven's portrait removed** (`src/characters/rhuven.md`, `src/images/characters/rhuven.jpg`, `story-bible/images.md` § 34, `story-bible/image-prompts.md`, `story-bible/species-design.md`, `story-bible/civilian-dress.md`, `scripts/extract-peoples.js`, 2026-11-09, Opus, Dermot's *"Remove the existing portrait for Rhuven"*). The artist's impression of 29 October is deleted and the page is bare. The record of the rounds and their lessons stays in `images.md` § 34.
+
 - **The Atlas's unnamed stars are not yet named** (`src/atlas/index.md`, 2026-11-09, Opus, Dermot's *"The archive is not static. The current edition is 2826 UCSD but changes or updates may happen each year after that."*). The group heading is now *Stars not yet named in the record*. Its sentence dates the gap to this edition and says that a later edition may fill it.
 
 - **Critic read of #1718 to #1725: three glossary summaries corrected** (`src/glossary/kieme.md`, `luminescent-ethereal-beings.md`, `universe-fertility-index-ufi.md`, 2026-11-09, Fable, Benevolent Critic pass, counter-critic by Opus). Three *In short* lines of 8 November asserted what their entries do not: Kieme's now says *not human-like* for the entry's *non-anthropomorphic*, rather than settling the personhood question the entry leaves divided; the Caomhari's says a Class II being *need not be* a predator, the lore pages' wording, rather than that Class II beings are not; the Fertility Index's says *what share of minds*, not *how many*, as its entry measures density rather than count. One further change was withheld. Nothing else in the eight PRs needed a repair.
