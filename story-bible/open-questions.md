@@ -93,6 +93,109 @@ left as they stand.
 
 ---
 
+## The Verdani history, Ruvel Swardkin — the weekly Fable pass of 9 November 2026, stage 3c — DRAFTED same day on Fable (the line read as a position spoken), choices named in the PR, his to overrule
+
+The Verdani line of the *Histories in their own voices* series below, the
+first unticked line on 9 November. Drafted as
+`src/codex/counted-twice-answered-once.md`, the fifteenth entry of the
+series, with its author's page `src/characters/ruvel-swardkin.md`, grounded
+only in `verdani.md`, `planets/verdance.md`, `greenward-habitat.md`,
+`the-guest-ring.md`, `federation-of-sentient-beings.md`,
+`cross-biosphere-taxonomy.md` (*Verdani taxonomy classifies by symbiont*),
+the four Verdani character pages, S01E00C08 *Nobody Present*, the three
+Verdani timeline entries of the dated frame (~2806, 2822 and 2826 UCSD) and
+the ruled Verdani sections of `species-design.md`, `mind-design.md` and
+`civilian-dress.md`, with the rest marked absent in a *What the Record Does
+Not Carry* section. The portrait prompt is `images.md` § 51, not generated;
+the title card is made.
+
+**Why Fable and not Opus.** The line names *the Fourfold Accord, one Verdani
+position made from four governments, argued from specifics, counted in local
+years*. Read against the planet's page, the Accord is a council that
+*convenes* when an outside power requires a single Verdani position, has *no
+authority over internal law* and keeps no office that files anything; its
+product is a position, and a position argued from specifics by four seats and
+given by one is a telling with an argument in it, not a report. So the entry
+is the position as spoken, by one named delegate, with the other three seats
+visible in it by what each would not leave out and what each kept out. The
+Cerebraun line, by contrast, named *the Hegemony's filing* and went to Opus.
+His, or Opus's, to read the other way; if the line is read as a filing, the
+entry stands as the Accord's spoken position and a written one is not owed.
+
+Settled by recommendation under the dilemma-only rule, each his to overrule:
+**the author** (a delegate of the Aurelin Herdlands, the one of Verdance's
+four countries with nobody on record after the 25 and 26 October fills gave
+the fens Meril Duskkin and the terraces Tavin Ledgekin; a delegate because
+the line's voice is the Accord's, and the Accord's voice is a seat's; not
+Isren Farrowkin, on the Mhoren-not-Vhen pattern, and because her page places
+her at the assembly in 2826 UCSD and the Concord's seat at the sitting is left
+unnamed for that reason); **the name** (*Ruvel Swardkin*, coined, a personal
+name and a kinstrain name in the order the people's page gives, *Swardkin*
+a fourth kinstrain name on the *and others* clause as *Ledgekin* was, with no
+meaning asserted; the alternatives are *Ruvel Hoarkin* or *Ruvel Wendkin*, or
+a name he gives); **the pronoun** (*she*, the translation default the
+record's other Verdani take; nothing new); **the mode** (the position given
+aloud and taken in the working rendering, since the record describes no
+channel of Verdani speech and Isren speaks in C08; given at an orbital trade
+platform, which the people's page gives Verdance, with the reader asked up
+and not down, so that no Ranger is placed on Verdance's surface and the
+Greenward protocol is neither extended to the Corps nor tested); **the
+frame** (`library: "Survey Archive, Threshold Station"`, the Sevrane pattern,
+since a rendering is held; the asking carried through the Federation record,
+as for the Ollune, and treated on Verdance as an outside asking, which is the
+Accord's own mandate on the planet page); **the four seats on the page** (by
+seat and never by name, since the record names no delegate but Isren; each
+seat's insistence a specific of its ground, water, held rights, the roof's
+light cost, the routes, never a temperament, under `species-design.md`'s
+*use them for texture, not for temperament*); **the count** (the Accord
+counts from the Federation survey's coming, *because a count begins where
+counting becomes necessary*; the four countries' own counts and the Accord's
+age before contact left as *before*; the second year and the ninth year
+given, the present year declined on the Stonewake seat's asking, and no
+Accord year set beside any event the record dates, so the Krenyi and
+Prismeri precedent holds and nothing fixes a conversion of Verdance's years);
+**the double count** (the people's page's two catalogued species given from
+the steppe side, the author being *the kind it counted twice*; what the
+survey made of the fens and the terraces is the author's reading, marked so
+by the desk); **membership** (the ninth year's yes argued as four questions,
+light, law, what came back, whether a thing joined could be left; the fit
+*close to seamless* explained from the Verdani side and the record's date for
+membership left unfixed); **the ring** (the Accord *did not sign*, never
+objected, never asked, both kept side by side; the Republic's wish for the
+water, the Concord's silence on the roof and the Herdlands' watch on the
+routes given as the sitting's askings, valid for the author; *twenty years*
+quoted as the record's count and no local count set beside it); **the light
+read from outside** (Isren's stake given as the Concord's seat's asking, the
+assembly's decision left where C08 leaves it, since the Accord was not in
+that room); **the one in the Corps** (Elsha Rootkin named by corps and
+lineage only; which country the Corps was asked in by left with that country,
+the author adding nothing, so the *not established* in `species-design.md`
+stands); **the four gaps** (the Understory's bonding restriction, the
+Drylanders, the Dominion's revenue and the Waystation Compact's seats each
+named as left out and not filled, under the Accord's own no-internal-law
+mandate and the Marked Absences rule); **the title** (the survey that counted
+them twice and the Accord that answers once); **the ordinal** (fifteenth, the
+fourteen numbered entries counted on 9 November).
+Not asserted: any date in any reckoning the Archive can convert; Verdance's
+contact or membership year; the Accord's founding or its age at contact; a
+conversion of Verdance's years; which delegate held the Concord's seat; how
+the Accord picks the seat that speaks (*turn*, the author's word); what the
+Herdlands herd; what the assembly decided in C08; the ring's view of
+anything; a Verdani language channel; a Verdani age or lifespan; any chapter.
+Nothing in the entry moves the reciprocal instrument's ~2806 UCSD or the
+*twenty years* on `greenward-habitat.md` and `the-guest-ring.md`.
+**One option left for him, not blocking, (a) recommended:** the Accord's
+count from the coming is the author's and the Accord's; **(a)** it stays a
+Codex claim, valid for its author, and `planets/verdance.md` is not touched;
+**(b)** the planet page takes one clause under *The Fourfold Accord* saying
+the Accord dates its own sittings from the Federation survey's arrival, an
+extension derived from the entry. (a) is recommended because the planet
+page's Accord section is the Archive's and the count is a people's own
+reckoning, which the record files beside its own and never adopts
+(`timekeeping-and-the-common-record.md`, *No Galactic Calendar*).
+
+---
+
 ## The word asked for her first command, *Spent* (S03E03C01) — the weekly Fable pass of 9 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
 
 The next chapter of Tissadelle's middle under the 18 October ruling (option A, below), Season 3 being still the checklist's second gap, and the first chapter of a new Episode 3 under the 5 November rule. Autumn 2829: a fold-approach post falls open on Wender's line, the lists carry a Chief Ranger with no department since the spring, the desk that keeps the lists asks Arashobal for a word, and Arashobal gives the material part of the summer and the Dock Seven fact she kept a year, and renews her own mark against a post in the same reply; Wender reads the name on her line, is not asked, adds nothing, and does not go out. Shepherd holds no viewpoint, so *Received*'s canon fact that the record does not say where she was posted before the late autumn stands untouched. Six readings settled at Fable and recorded in `intake-2026-11-09.md`, last section: the beat; the heads; the post on Wender's line; the lists' mark; the slot as Episode 3; the title. Nothing in it met the bar for him. **Left as an option, not blocking:** whether a short Shepherd block on the hull out to the post is ever added to the chapter; recommended not, since the chapter's point is that she is in none of its rooms.
@@ -2824,11 +2927,34 @@ same rule:
   card is made; Mhoren's portrait was filed 23 October 2026 from round 2 of
   `images.md` § 28, cropped to keep the legs out of frame. The section
   *The Ovruhn history, Mhoren* at the top of this file records the choices.
-- [ ] **Verdani** — `src/lore/verdani.md`, `src/lore/planets/verdance.md`,
+- [x] ~~**Verdani** — `src/lore/verdani.md`, `src/lore/planets/verdance.md`,
   `src/lore/greenward-habitat.md`, `src/characters/isren-farrowkin.md`.
   Voice: **the Fourfold Accord**, one Verdani position made from four
   governments, argued from specifics, counted in local years. Mind the open
-  question below on the reciprocal instrument's year.
+  question below on the reciprocal instrument's year.~~ — **drafted
+  9 November 2026** (Fable, the weekly pass, stage 3c; the line read as a
+  position spoken, not a filing, since the Accord convenes and its position
+  is argued and given, and a council with no authority over law files
+  nothing): `src/codex/counted-twice-answered-once.md`, by Ruvel Swardkin,
+  the Aurelin Herdlands' delegate to the Fourfold Accord
+  (`src/characters/ruvel-swardkin.md`), the fifth Verdani the record names
+  and the first of the steppe, not Isren Farrowkin. The Accord's one
+  position, made in a sitting of its four seats at the Archive's asking and
+  given aloud by her to a Survey Corps reader at an orbital trade platform,
+  the reader asked up and not down; `library: "Survey Archive, Threshold
+  Station"`, the Sevrane pattern. A history argued from what each seat would
+  not leave out and marked where each seat kept something out: four lights,
+  the Accord before anyone asked, the survey that counted them twice and the
+  second year in which it stopped, the ninth year's yes, one seat and eleven
+  years of losing by less, the ring the Accord did not sign and has not
+  asked, the light read from outside, one of theirs in the Corps, four gaps
+  marked, and no year. Every interval in Verdance's years in the Accord's
+  count from the coming; the present year declined, and no count set beside
+  any date of the record's, so the reciprocal instrument keeps its ~2806 UCSD
+  on the timeline and the entry fixes no conversion. Title card made; the
+  portrait prompt is `images.md` § 51, not generated. The section *The
+  Verdani history, Ruvel Swardkin* at the top of this file records the
+  choices.
 - [x] ~~**Prismeri** — `src/lore/prismeri.md`, `src/lore/planets/prismere.md`,
   `src/codex/plates-of-the-prismeri.md` (a human naturalist's plates),
   `src/characters/isserith.md`. Voice:
