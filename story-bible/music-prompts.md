@@ -1340,6 +1340,30 @@ absences.
   chosen. Dermot's verdict: *"Keep it, 60 s loop, B"*. Card: a wooden flute across
   a stone bowl, a water drop hanging above; does not travel.
 
+### Orbital Five-O's variation, take 1 — *Unresolved Arpeggio* (verdict to come)
+- **Type:** generation
+- **Tool:** MyTunes (MWM), phone app
+- **Date:** 9 November 2026
+- **Used by:** nothing yet; candidate for the Orbital Five-O and Young Star Rangers trailers (*Orbital Five-O's variation*)
+- **Prompt:** the 198-character line under *Orbital Five-O's variation*, verbatim
+- **Settings:** Instrumental on, genre none, Live off, as the entry says to run it. MyTunes gave it the title.
+- **Lyrics:** instrumental
+- **Negative:** none
+- **Notes:** 3:13. Same wrapper as the late note's takes, 640×360, AAC 48 kHz
+  stereo. −13.6 LUFS integrated, true peak −0.8 dBFS, LRA 5.9 LU. Measured, not
+  heard: a steady pulse of about 70 a minute from 0:30 to the end (or 140, double
+  time), with the opening 30 s reading near 144. The level climbs from a quiet
+  opening (about −22 dB at 0:00) to its fullest at 2:15–2:45. The spectral
+  centroid rises to its brightest at 1:30–2:30 and falls after. Pitches read
+  nearest C minor (C, E♭, G, F, D, B♭ strongest), unconfirmed. There is a dip of
+  about 4 dB at 2:45–2:55 on a sustained G, the likeliest title passage. Then the
+  bass steps G, F, C, and a low C (65 Hz) is held at about 2:58–3:02. Over it a
+  B, then an E♭ above a C sound as the take fades, and it is gone by about 3:11.
+  The B is a leading tone left unanswered over the C. Whether a five-note figure
+  is present, played once on guitar, and whether its last note lands late could
+  not be measured under the arpeggio. Card: a film reel throwing a beam, in
+  cyanotype blue; it does not travel. Not in `src/audio/`: no trailer uses it yet.
+
 ### told-theme.m4a
 - **Type:** generation, then a loop edit
 - **Tool:** Stable Audio 3.0 (`stable-audio-3`) through the Stability API; the loop cut with NumPy, levelled and encoded with ffmpeg

@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **Orbital Five-O's variation of the trailer theme, written as a MyTunes prompt** (`story-bible/music-prompts.md`, 2026-11-09, Opus, Dermot's *"Next prompt for MyTunes"*). The first thread variation of the late note, in the six fields and as a 198-character line for MyTunes. One take serves Orbital Five-O and Young Star Rangers. Nothing is generated yet.
+- **Orbital Five-O's variation of the trailer theme, written as a MyTunes prompt** (`story-bible/music-prompts.md`, 2026-11-09, Opus, Dermot's *"Next prompt for MyTunes"*). The first thread variation of the late note, in the six fields and as a 198-character line for MyTunes. One take serves Orbital Five-O and Young Star Rangers. Take 1, *Unresolved Arpeggio*, is logged with its measurements, its verdict to come.
 
 ## [1.64.0] — 2026-11-09
 
