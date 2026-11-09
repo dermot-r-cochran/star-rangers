@@ -146,6 +146,39 @@ const THEMES = {
     },
     statusActive: "#35602f"
   },
+  watch: {
+    label: 'Fian Ilchruinne — "Watch" Theme (young.fianilchruinne.com)',
+    // The Young Star Rangers edition's own face since 2026-11-09 (Dermot:
+    // "Palette, no alias"), replacing the borrowed starquest neon. Muted and
+    // matte like the Corps' own marks: graphite page, slate-blue links (the
+    // general-operations tab, Zoe Smith's track), boundary-safety amber for
+    // canon facts (the fold-approach watch). Lowest pair 5.8:1, on
+    // --color-surface-2.
+    description: "Muted graphite, slate-blue and amber re-skin for the Young Star Rangers edition.",
+    root: {
+      "--color-bg": "#11151a",
+      "--color-surface": "#171c23",
+      "--color-surface-2": "#1f2630",
+      "--color-border": "#33404f",
+      "--color-text": "#e4e8ed",
+      "--color-text-muted": "#9ba6b3",
+      "--color-accent": "#8eaad4",
+      "--color-accent-hover": "#b3c7e6",
+      "--color-canon": "#e2ab52",
+      "--color-pov-active": "#8eaad4",
+      "--color-pov-bg": "#171c23",
+      "--color-skip-bg": "#8eaad4",
+      "--color-skip-text": "#11151a"
+    },
+    povBlock: {
+      galahad: "#8eaad4",
+      elvira: "#d8a0b8",
+      aldera: "#9cc79a",
+      krenyi: "#e2ab52",
+      thorn: "#e0897f"
+    },
+    statusActive: "#9cc79a"
+  },
 
   // --- Standard, non-domain-specific themes: general-purpose display
   // options any deploy.conf's THEME can pick, independent of narrative

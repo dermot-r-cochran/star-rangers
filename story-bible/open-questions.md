@@ -5499,8 +5499,8 @@ and register unchanged). Open:
 
 - ~~**Its face.**~~ — **ruled 3 September 2026: a second young-adult edition
   on a subdomain**, registered as `young-star-rangers` on
-  `young.fianilchruinne.com` (starquest palette for now; a palette of its own
-  is open). ~~The cPanel side — subdomain, clone, two-key `deploy.conf` — is
+  `young.fianilchruinne.com` (starquest palette until ~~a palette of its own
+  is open~~ **its own, `watch`, 9 November 2026**). ~~The cPanel side — subdomain, clone, two-key `deploy.conf` — is
   still to do.~~ **Live 7 September 2026**: the subdomain and `deploy.conf`
   block had existed since 3 September on the fianilchruinne.com clone, but
   that account's autopull cron had never run, so nothing deployed there

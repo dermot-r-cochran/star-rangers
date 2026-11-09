@@ -257,7 +257,7 @@ exactly as elsewhere.
 ## `young-star-rangers` — young.fianilchruinne.com
 
 **Registered 3 September 2026; first chapter *Nothing to Report* (S09E01C01)
-13 September 2026; live at young.fianilchruinne.com since 7 September 2026. Theme `starquest` for now. Posture `story`. Threads: the young-adult floor
+13 September 2026; live at young.fianilchruinne.com since 7 September 2026. Theme `watch` since 9 November 2026. Posture `story`. Threads: the young-adult floor
 (undercover-pets, orbital-five-o) plus young-star-rangers. Brand: Young Star
 Rangers.**
 
@@ -284,8 +284,11 @@ the record says so.
 
 **Posture** `story`, shared with starquest for the reason given there.
 
-**Palette** borrowed from starquest; the first chapter now exists, so a face of
-its own is design work behind the contrast gate, and open.
+**Palette** its own since 9 November 2026, `watch` (Dermot's *"Palette, no
+alias"*). It uses graphite, with slate blue for links and amber for canon
+facts. It is muted and matte like the Corps' own marks, because starquest's neon
+belongs to the procedural. The edition borrowed starquest's palette until then.
+The alias host stays held until the name settles (7 September).
 
 **Cast** Zoe Smith, alone, until the Deputy exists — and then the Deputy
 first, because this site is theirs. The Deputy exists in the thread since 13
