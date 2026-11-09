@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Critic read of #1718 to #1725: three glossary summaries corrected** (`src/glossary/kieme.md`, `luminescent-ethereal-beings.md`, `universe-fertility-index-ufi.md`, 2026-11-09, Fable, Benevolent Critic pass, counter-critic by Opus). Three *In short* lines of 8 November asserted what their entries do not: Kieme's now says *not human-like* for the entry's *non-anthropomorphic*, rather than settling the personhood question the entry leaves divided; the Caomhari's says a Class II being *need not be* a predator, the lore pages' wording, rather than that Class II beings are not; the Fertility Index's says *what share of minds*, not *how many*, as its entry measures density rather than count. One further change was withheld. Nothing else in the eight PRs needed a repair.
+
 - **Pelagos Minor on the Atlas** (`src/lore/planets/pelagos-minor.md`, 2026-11-09, Opus, Dermot's ruling *"Yes, Milky Way"*). The page now gives its galaxy as the Milky Way. That puts it on the Atlas under *Stars the record has not named*, because its star and system are still not on record. The page's text is unchanged.
 
 - **Worlds round unnamed stars on the Atlas** (`src/atlas/index.md`, 2026-11-09, Opus, Dermot's *"Yes please check for galaxies and systems and draft new details as needed"*). Nine worlds with a galaxy but no system were missing from the Atlas: Aphel, Caldra, Fliade, Ilenne, Kharis Belt IV, Nerath, Sardain, Thavren and Veyr-3. Most of their pages say the record has no name for their star, so none was invented. They now appear in the Milky Way under *Stars the record has not named*. No page's canon changes.

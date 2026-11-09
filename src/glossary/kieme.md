@@ -6,7 +6,7 @@ irish_gloss: "borrowed, as the English borrows it; the devotional name is An Bun
 id: kieme
 category: "Cosmic Cascade"
 short: "The second tier of the Cosmic Cascade; a non-anthropomorphic origin condition that sets nonlocal constraints all downstream tiers must satisfy. Devotional name: the Silent Origin. Church-space name: the First Word. Title: the Undivided. Legacy name: Holy Triumvirate."
-plain: "Kieme is the second tier of the Cosmic Cascade, part of its Upper Structure, and not person-like in any way. It sets the origin constraints that every tier below it must satisfy. It has never spoken, does not intervene selectively, and is known only through what holds true across every Concordant. Its many names, such as the Silent Origin and the Undivided, are titles given from below, because no tradition was ever told what to call it."
+plain: "Kieme is the second tier of the Cosmic Cascade, part of its Upper Structure, and not human-like in any way. It sets the origin constraints that every tier below it must satisfy. It has never spoken, does not intervene selectively, and is known only through what holds true across every Concordant. Its many names, such as the Silent Origin and the Undivided, are titles given from below, because no tradition was ever told what to call it."
 related:
   - "Hyperomnium"
   - "Conseleme"
