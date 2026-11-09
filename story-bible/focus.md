@@ -8,9 +8,11 @@ the lines below the same day (*"Approve and build"*), after a Fable read of the
 first draft against the chapters (`intake-2026-11-09.md`).
 
 **This file is the single place these lines live.** Other notes point here and do
-not restate them: the edition profiles (`edition-reader-profiles.md`), the
-treatments (each one's *thread in one line*), and strand rule 3 in
-`story-bible-summary.md`, whose shared throughline is the season's line below.
+not restate them: the edition profiles (`edition-reader-profiles.md`) and strand
+rule 3 in `story-bible-summary.md`, whose shared throughline is the season's line
+below. The treatments keep their own *in one line* sections, written before this
+file and used as sources by the Fable read; where a treatment's line and the line
+here differ, the approved line is the one here.
 The `showrunner` skill reads this file for the unit it is asked about.
 
 **Why "focus line" and not "theme".** In this repository *theme* already names the
@@ -90,8 +92,9 @@ Status for every line below: **approved 9 November 2026**.
 - **s06 and s07** have separate season lines and share one pair of strands, below.
   A new chapter in either season is judged against its season's line and its
   strand's line together.
-- **s14.** The line opens with the Told's third rule, word for word (S11E01C01
-  `canon_facts`). That is allowed here, because this file is unpublished. If a
+- **s14.** The line opens with the Told's third rule, word for word (S11E01C01's
+  prose, and S14E01C01's `canon_facts`; S11E01C01's `canon_facts` paraphrase it).
+  That is allowed here, because this file is unpublished. If a
   season line ever fronts a page, it is rewritten so the record does not quote
   itself as a theme.
 - **Seasons without strands.** s00, s02, s03, s04, s05, s08 and s09 have no
