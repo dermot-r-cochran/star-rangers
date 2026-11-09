@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Corryn on the Atlas** (`src/lore/planets/corryn.md`, 2026-11-09, Opus, Dermot's *"Should Corryn be included in the Atlas?"* and *"Yes, add Corryn"*). The Corryn page now carries the galaxy and system fields that the Atlas lists by, so the system appears there under its own heading. The page's text is unchanged.
+
 ## [1.63.0] — 2026-11-08
 
 Every glossary entry now opens with a plain summary, as every lore page does: a new check requires one, and two batches cleared the backlog of 67 older entries. Pictures and videos are now findable in image and video search, with credit and licence on each and a watch page for fourteen clips and films. Uses of *alien* that named a known people as a class are swept from reader-facing pages under the usage rule.

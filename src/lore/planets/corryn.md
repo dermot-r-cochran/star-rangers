@@ -2,6 +2,9 @@
 layout: lore-entry.njk
 title: "The Corryn System"
 category: "Locations"
+galaxy: "Milky Way"
+system: "Corryn System"
+locationType: "Star System"
 tags: [corryn, corryn-prime, carillon, spiralites, first-contact, frontier-transformation-protocols, boundary, halvern-combine, imperium, locations]
 description: "A system whose ringed gas giant hums in patterns, whose indigenous people speak in electromagnetic pulse — and whose human colony, a remnant of the Old Imperium, holds a valid charter from a government dead two centuries."
 image: "planets/corryn.jpg"
