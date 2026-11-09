@@ -64,8 +64,8 @@ eleventyComputed:
 {% endfor %}
 {% if unplaced.length %}
 <div class="atlas-system">
-<h3>Stars the record has not named</h3>
-<p class="page-intro">These worlds are known, but the record holds no name for the star each one circles: a survey catalogue number at most, and sometimes not even that. Each world's own page says what is known of its star.</p>
+<h3>Stars not yet named in the record</h3>
+<p class="page-intro">These worlds are known, but as of this edition, 2826 UCSD, the record holds no name for the star each one circles: a survey catalogue number at most, and sometimes not even that. A later edition may add one. Each world's own page says what is known of its star so far.</p>
 <div class="codex-grid">
 {% for entry in unplaced %}
 <a class="codex-card" href="/star-rangers{{ entry.url }}">
