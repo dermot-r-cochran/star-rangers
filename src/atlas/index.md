@@ -55,6 +55,30 @@ eleventyComputed:
 {% endif %}
 </div>
 {% endfor %}
+
+{% set unplaced = [] %}
+{% for entry in locationEntries %}
+{% if entry.data.category == "Locations" and entry.data.galaxy == galaxy and not entry.data.system %}
+{% set unplaced = unplaced.concat([entry]) %}
+{% endif %}
+{% endfor %}
+{% if unplaced.length %}
+<div class="atlas-system">
+<h3>Stars the record has not named</h3>
+<p class="page-intro">These worlds are known, but the record holds no name for the star each one circles: a survey catalogue number at most, and sometimes not even that. Each world's own page says what is known of its star.</p>
+<div class="codex-grid">
+{% for entry in unplaced %}
+<a class="codex-card" href="/star-rangers{{ entry.url }}">
+{% if entry.data.image %}
+<img class="codex-card__thumb" src="/star-rangers/images/lore/{{ entry.data.image }}" alt="{{ entry.data.image_alt | default(entry.data.title) }}" />
+{% endif %}
+<p class="codex-card__category">{{ entry.data.locationType | default("Location") }}</p>
+<h3 class="codex-card__title">{{ entry.data.title }}</h3>
+</a>
+{% endfor %}
+</div>
+</div>
+{% endif %}
 </section>
 {% endfor %}
 {% else %}

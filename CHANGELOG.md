@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Worlds round unnamed stars on the Atlas** (`src/atlas/index.md`, 2026-11-09, Opus, Dermot's *"Yes please check for galaxies and systems and draft new details as needed"*). Nine worlds with a galaxy but no system were missing from the Atlas: Aphel, Caldra, Fliade, Ilenne, Kharis Belt IV, Nerath, Sardain, Thavren and Veyr-3. Most of their pages say the record has no name for their star, so none was invented. They now appear in the Milky Way under *Stars the record has not named*. No page's canon changes.
+
 - **Corryn on the Atlas** (`src/lore/planets/corryn.md`, 2026-11-09, Opus, Dermot's *"Should Corryn be included in the Atlas?"* and *"Yes, add Corryn"*). The Corryn page now carries the galaxy and system fields that the Atlas lists by, so the system appears there under its own heading. The page's text is unchanged.
 
 ## [1.63.0] — 2026-11-08
