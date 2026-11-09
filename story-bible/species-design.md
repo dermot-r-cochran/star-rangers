@@ -1297,8 +1297,9 @@ what the page did.
 
 1. **Scale.** *Among the largest bodies in Corps service* (derived). No
    height, length or mass is on any page; **not established**. In practice the
-   three filed frames show part of the body so close that its outline is never
-   seen, so no frame fixes a scale either.
+   three frames filed (two since Rhuven's was removed on 9 November 2026, § 34)
+   show part of the body so close that its outline is never seen, so no frame
+   fixes a scale either.
 2. **Plan.** *A broad, deep-chested quadruped mass, standing lower than its
    bulk suggests* (derived). Four legs by the page's word; no page describes
    them, and no filed frame shows one (**practice**, §§ 17 and 28: *any floor
