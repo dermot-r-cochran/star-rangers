@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Young Star Rangers has a palette of its own** (`scripts/generate-themes.js`, `src/css/theme-watch.css`, `lib/editions.js`, `sample-deploy.conf`, `story-bible/edition-reader-profiles.md`, `story-bible/open-questions.md`, `story-bible/intake-2026-11-09.md`, 2026-11-09, Opus, Dermot's *"Palette, no alias"*). young.fianilchruinne.com moves from the borrowed starquest neon to `watch`: graphite, with slate-blue links and amber canon facts, muted like the Corps' own marks. Every pair clears WCAG AA. No alias domain is added; it waits until the edition's name settles.
+
 - **Young Star Rangers promises a month, not a year** (`lib/storyline-threads.js`, `lib/editions.js`, `README.md`, `story-bible/intake-2026-11-09.md`, 2026-11-09, Opus, Dermot's *"Fix the copy"*). The thread's description, the young.fianilchruinne.com hero line and the README row said *the year*, but Season 9 covers the first thirty days of Varn's posting. They now say *the first month*.
 
 - **A focus line for every edition, thread, season and strand** (`story-bible/focus.md`, `story-bible/intake-2026-11-09.md`, pointers in `story-bible/story-bible-summary.md` and `story-bible/edition-reader-profiles.md`, 2026-11-09, Opus with a Fable read, Dermot's *"A focus or core theme for each edition, thread, strand or season"* and *"Approve and build"*). Each unit now has one line saying what it is about, kept in one unpublished file so that new work can be judged against it. A Fable read against the chapters corrected the draft lines before he approved them. A `showrunner` skill, kept outside the repository, reads the file.
