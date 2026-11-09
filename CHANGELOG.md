@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A focus line for every edition, thread, season and strand** (`story-bible/focus.md`, `story-bible/intake-2026-11-09.md`, pointers in `story-bible/story-bible-summary.md` and `story-bible/edition-reader-profiles.md`, 2026-11-09, Opus with a Fable read, Dermot's *"A focus or core theme for each edition, thread, strand or season"* and *"Approve and build"*). Each unit now has one line saying what it is about, kept in one unpublished file so that new work can be judged against it. A Fable read against the chapters corrected the draft lines before he approved them. A `showrunner` skill, kept outside the repository, reads the file.
+
 - **Rhuven's portrait removed** (`src/characters/rhuven.md`, `src/images/characters/rhuven.jpg`, `story-bible/images.md` § 34, `story-bible/image-prompts.md`, `story-bible/species-design.md`, `story-bible/civilian-dress.md`, `scripts/extract-peoples.js`, 2026-11-09, Opus, Dermot's *"Remove the existing portrait for Rhuven"*). The artist's impression of 29 October is deleted and the page is bare; it *"failed on aesthetics"* (Dermot). The record of the rounds and their lessons stays in `images.md` § 34.
 
 - **The Atlas's unnamed stars are not yet named** (`src/atlas/index.md`, 2026-11-09, Opus, Dermot's *"The archive is not static. The current edition is 2826 UCSD but changes or updates may happen each year after that."*). The group heading is now *Stars not yet named in the record*. Its sentence dates the gap to this edition and says that a later edition may fill it.

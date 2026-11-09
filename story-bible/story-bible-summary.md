@@ -223,7 +223,7 @@ Plurality — a single body hosting more than one person (headmates, or tulpas w
 
 1. Separate POV casts with no scene overlap until the convergence point. Season 1 relaxes this as published: its casts share scenes from S01E02C01, and what its convergence withholds is the full disclosure and the direct question (see the Season 1 bullet above).
 2. Each strand must be legible and satisfying read in isolation — a reader who only followed Strand A should not feel they were reading half a story.
-3. Strands share a thematic throughline (most often: precise naming is what defeats ambiguity-feeding entities) without sharing plot mechanics or a common villain-of-the-week.
+3. Strands share a thematic throughline (most often: precise naming is what defeats ambiguity-feeding entities) without sharing plot mechanics or a common villain-of-the-week. Since 9 November 2026 that throughline is the season's focus line, and each strand has its own line as its angle on it; both live in `focus.md` and nowhere else.
 4. The convergence point is decided before either strand is drafted, even if the season isn't fully written yet — see the "Established future-canon waypoints" and Season 6-7 treatment for examples of convergence points fixed well ahead of the prose.
 5. Convergence merges information or action, not necessarily the cast going forward — characters can separate again after the strands meet.
 
