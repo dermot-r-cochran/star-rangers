@@ -93,6 +93,10 @@ left as they stand.
 
 ---
 
+## The word asked for her first command, *Spent* (S03E03C01) — the weekly Fable pass of 9 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
+
+The next chapter of Tissadelle's middle under the 18 October ruling (option A, below), Season 3 being still the checklist's second gap, and the first chapter of a new Episode 3 under the 5 November rule. Autumn 2829: a fold-approach post falls open on Wender's line, the lists carry a Chief Ranger with no department since the spring, the desk that keeps the lists asks Arashobal for a word, and Arashobal gives the material part of the summer and the Dock Seven fact she kept a year, and renews her own mark against a post in the same reply; Wender reads the name on her line, is not asked, adds nothing, and does not go out. Shepherd holds no viewpoint, so *Received*'s canon fact that the record does not say where she was posted before the late autumn stands untouched. Six readings settled at Fable and recorded in `intake-2026-11-09.md`, last section: the beat; the heads; the post on Wender's line; the lists' mark; the slot as Episode 3; the title. Nothing in it met the bar for him. **Left as an option, not blocking:** whether a short Shepherd block on the hull out to the post is ever added to the chapter; recommended not, since the chapter's point is that she is in none of its rooms.
+
 ## A theme and title for the trailers — raised 5 November 2026, RULED 6 November 2026
 
 His *"A, A"*: the late note and the closing title, one core varied by thread, on

@@ -23,6 +23,9 @@ permalink: /seasons/s03/
 <p class="page-intro">
   Episode 1 closes with the rotation's end and her return to Threshold as a Section Lead. Episode 2 finds her there on general operations, where a transit window is hers to state and the Chief Pilot is in the room more often than the rooms require, and then, a Chief Ranger, through the fold to Counterpane, where every instrument asked one question answers as it does at home and the one difference is a thing no ear can hear; and home again, to a door on Earth where the department ends on somebody else's signature and the finding is made by people who never left.
 </p>
+<p class="page-intro">
+  Episode 3 is one chapter, the autumn after the door: a post falls open at the far end of a line, a word is asked of the last Chief she answered to, and the officer the season has followed is in none of its rooms. What comes out of it is a posting list with her name on it and nothing under the name, which is what the record keeps of who vouched.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (3 | threadForSeason).id }}/">{{ (3 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "3" %}
