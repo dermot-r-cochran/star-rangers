@@ -1419,8 +1419,9 @@ Every one is recorded in `images.md` §§ 17, 28 and 34, where it cost a round.
 
 ### The prompts of record
 
-No new prompt is written here, and none is owed: all three Ovruhn pages carry
-a portrait. The prompts of record are § 17's for `vhen.jpg` (round 4,
+No new prompt is written here. Two of the three Ovruhn pages carry a
+portrait; Rhuven's was removed on 9 November 2026 at Dermot's word, and the
+page is bare (`images.md` § 34). The prompts of record are § 17's for `vhen.jpg` (round 4,
 variation 2), § 28's for `mhoren.jpg`, and § 34's impression round 2 for
 `rhuven.jpg`, each the generator's input for the filed frame, verbatim. A
 fourth Ovruhn prompt starts from one of them, under

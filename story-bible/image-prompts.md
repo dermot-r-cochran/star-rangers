@@ -1903,6 +1903,7 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Tool:** Grok Imagine, Image mode, 16:9; saved from the page at Dermot's word; `import-image.ps1 -MaxEdge 1200 -Finish 0`
 - **Prompt / recipe:** impression round 2 in `images.md` § 34, verbatim
 - **Run:** two impression rounds of four; round 1 an elephant, round 2 variation 2 chosen.
+- **Removed 9 November 2026** at Dermot's *"Remove the existing portrait for Rhuven"*; the page is bare (`images.md` § 34).
 
 ### elsha-rootkin.jpg — filed 29 October 2026
 - **Type:** an artist's impression (gouache survey plate), portrait for `src/characters/elsha-rootkin.md`, under `images.md`, *When a photograph keeps failing*
