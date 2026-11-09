@@ -172,7 +172,7 @@ const PEOPLES = [
     designNote: ["The species note records the people as designed by its method straight onto the lore page", "Designed by this file's method, and a direct continuation"],
     pageBody: ["src/lore/ovruhn.md", "An Ovruhn is among the largest bodies in Corps service"],
     portraits: {
-      rhuven: { note: "Removed 9 November 2026 at Dermot's word: the artist's impression of 29 October, a part-body survey plate of the flank and tendrils, filed after photographic rounds in two providers drew a horse with a saddle and the first painted round an elephant. The page is bare." },
+      rhuven: { note: "Removed 9 November 2026 at Dermot's word, failed on aesthetics: the artist's impression of 29 October, a part-body survey plate of the flank and tendrils, filed after photographic rounds in two providers drew a horse with a saddle and the first painted round an elephant. The page is bare." },
     },
   },
   {

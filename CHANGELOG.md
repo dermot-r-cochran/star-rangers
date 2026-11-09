@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **Rhuven's portrait removed** (`src/characters/rhuven.md`, `src/images/characters/rhuven.jpg`, `story-bible/images.md` § 34, `story-bible/image-prompts.md`, `story-bible/species-design.md`, `story-bible/civilian-dress.md`, `scripts/extract-peoples.js`, 2026-11-09, Opus, Dermot's *"Remove the existing portrait for Rhuven"*). The artist's impression of 29 October is deleted and the page is bare. The record of the rounds and their lessons stays in `images.md` § 34.
+- **Rhuven's portrait removed** (`src/characters/rhuven.md`, `src/images/characters/rhuven.jpg`, `story-bible/images.md` § 34, `story-bible/image-prompts.md`, `story-bible/species-design.md`, `story-bible/civilian-dress.md`, `scripts/extract-peoples.js`, 2026-11-09, Opus, Dermot's *"Remove the existing portrait for Rhuven"*). The artist's impression of 29 October is deleted and the page is bare; it *"failed on aesthetics"* (Dermot). The record of the rounds and their lessons stays in `images.md` § 34.
 
 - **The Atlas's unnamed stars are not yet named** (`src/atlas/index.md`, 2026-11-09, Opus, Dermot's *"The archive is not static. The current edition is 2826 UCSD but changes or updates may happen each year after that."*). The group heading is now *Stars not yet named in the record*. Its sentence dates the gap to this edition and says that a later edition may fill it.
 
