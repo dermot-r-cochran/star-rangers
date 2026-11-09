@@ -2,6 +2,7 @@
 layout: lore-entry.njk
 title: "Pelagos Minor"
 category: "Locations"
+galaxy: "Milky Way"
 revealed_by: s01e03c04
 tags: [pelagos-minor, evacuation, policy, locations]
 description: "An inhabited world with an equatorial evacuation basin, whose founding charter set an evacuation order (women, then children, then older adults, then all others) for a small colony's reasons, and which kept that order unread and unrevised until the Basin Collapse of 2826 UCSD put it to use."
