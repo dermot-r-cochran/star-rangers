@@ -1340,7 +1340,7 @@ absences.
   chosen. Dermot's verdict: *"Keep it, 60 s loop, B"*. Card: a wooden flute across
   a stone bowl, a water drop hanging above; does not travel.
 
-### Orbital Five-O's variation, take 1 — *Unresolved Arpeggio* (verdict to come)
+### Orbital Five-O's variation, take 1 — *Unresolved Arpeggio* (kept, not filed)
 - **Type:** generation
 - **Tool:** MyTunes (MWM), phone app
 - **Date:** 9 November 2026
@@ -1362,7 +1362,10 @@ absences.
   The B is a leading tone left unanswered over the C. Whether a five-note figure
   is present, played once on guitar, and whether its last note lands late could
   not be measured under the arpeggio. Card: a film reel throwing a beam, in
-  cyanotype blue; it does not travel. Not in `src/audio/`: no trailer uses it yet.
+  cyanotype blue; it does not travel. Dermot's verdict, 9 November 2026: *"A"*,
+  keep it with the closing title on the held low C, so the title cuts in at about
+  2:58–3:02 when a Five-O or Young Star Rangers trailer uses this take. Not in
+  `src/audio/`: no trailer uses it yet.
 
 ### told-theme.m4a
 - **Type:** generation, then a loop edit
