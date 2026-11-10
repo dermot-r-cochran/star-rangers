@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The last three Codex art entries, proposed** (`src/codex/it-weighs-nothing.md`, `a-standing-rate.md`, `two-blocks-and-four-strokes.md`, three title cards, `src/characters/nkem-fairlie.md`, two author pages, 2026-11-10, Fable, Dermot's *"Yes please"*). *It Weighs Nothing*: Ilse Varga follows one far-word figure in one band of Freyari for twelve days, by instrument. *A Standing Rate*: Vela of the Seam on a body of metal kept across one seam on Nerath, and the small one grown for her. *Two Blocks and Four Strokes*: a ring's sign-painter, Nkem Fairlie, on the household counts she paints on door leaves, outside the plainmark. Each is valid for its author and is one group's custom. Nkem Fairlie gets a character page; the other two authors' pages gain a link, as an extension.
+
 ## [1.65.0] — 2026-11-10
 
 The early drafts are put under critical review, and four batches are read: most stand, Year Zero's arrivals are no longer called arranged, the forty seconds keep their number with the mechanism corrected, and *technocracy* and democracy are described rather than named. Pages will lock once readers arrive. Many images are brought into the 29th century or taken down, and Tavin Ledgekin's portrait now shows a mind attending. New proposed pages: *The Seat*, the fantasy *The Hour Nobody Had* and five Codex art entries. Church Space's footer theme now loops cleanly, and a local tool makes one-off image edits.
