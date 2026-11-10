@@ -159,7 +159,7 @@ outcome in its row as it lands, with the PR that landed it.
 | `src/lore/universe-overlap-and-folding.md` | 2026-05-27 | Copilot | 3 | Opus | pending |
 | `src/lore/universes/threnos-omega.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
 | `src/lore/worldwrights/competing-designs.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
-| `src/lore/year-zero.md` | 2026-05-27 | Copilot | 5 | Opus | dilemma, for Dermot: *"The coincidence of these arrivals is not coincidental"* (the bootstrap's line) is a claim the Archive cannot hold |
+| `src/lore/year-zero.md` | 2026-05-27 | Copilot | 5 | Opus | settled by Dermot (10 Nov): the bootstrap's *not coincidental* becomes *the record has not established* whether the arrivals are more than coincidence |
 
 ### Glossary
 
