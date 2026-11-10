@@ -102,3 +102,11 @@ test("firstReaderActivity ignores Dermot and bots, returns the earliest reader",
   assert.equal(lib.firstReaderActivity(items).login, "reader1");
   assert.equal(lib.firstReaderActivity(items.slice(0, 2)), null);
 });
+
+test("removedLocks: a lock dropped from the registry is reported, an added one is not", () => {
+  const lib = require("../lib/locked-pages");
+  const e = (p) => ({ path: p, since: "2026-11-10", signal: "comment", ref: "x" });
+  assert.deepStrictEqual(lib.removedLocks({ pages: [e("src/a.md"), e("src/b.md")] }, { pages: [e("src/a.md")] }), ["src/b.md"]);
+  assert.deepStrictEqual(lib.removedLocks({ pages: [e("src/a.md")] }, { pages: [e("src/a.md"), e("src/c.md")] }), []);
+  assert.deepStrictEqual(lib.removedLocks({ pages: [] }, { pages: [] }), []);
+});

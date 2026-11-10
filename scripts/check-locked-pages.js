@@ -37,14 +37,29 @@ if (process.argv.includes("--validate")) {
   process.exit(0);
 }
 
+const base = `origin/${process.env.GITHUB_BASE_REF || "main"}`;
+function git(...args) {
+  return execFileSync("git", args, { cwd: REPO, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, stdio: ["ignore", "pipe", "pipe"] });
+}
+
+// Entries are only ever added: a lock cannot be lifted by editing the list.
+let baseRegistry = { pages: [] };
+try {
+  baseRegistry = JSON.parse(git("show", `${base}:lib/locked-pages.json`));
+} catch (err) {
+  // No registry on the base branch yet (the PR that adds it), so nothing to compare.
+}
+const lifted = lib.removedLocks(baseRegistry, registry);
+if (lifted.length) {
+  console.error("Locked pages: this change removes locked page(s) from lib/locked-pages.json:");
+  for (const p of lifted) console.error(`  ${p}`);
+  console.error("Entries are only ever added (Dermot, 2026-11-10). Lifting a lock is his decision, made outside this gate.");
+  process.exit(1);
+}
+
 if (registry.pages.length === 0) {
   console.log("Locked pages: none locked yet, nothing to check.");
   process.exit(0);
-}
-
-const base = `origin/${process.env.GITHUB_BASE_REF || "main"}`;
-function git(...args) {
-  return execFileSync("git", args, { cwd: REPO, encoding: "utf8", maxBuffer: 64 * 1024 * 1024 });
 }
 
 let changed;

@@ -15,7 +15,7 @@ Three named modes of predatory meta-dimensional failure exploit social, emotiona
 
 *Feeding* is the record's working word for what follows, and it is a misnomer the record keeps for its usefulness. Nothing here eats, and nothing here reads a mind: none of the three is psionic or telepathic. What each exploits is an **etheric disturbance**, the kind that confusion, a story left vague or a consent withheld produces in the Conceptual↔Etheric layer, and the sections below describe the disturbance each one seeks and the behaviour that closes it off. Read *feeds on* throughout as *exploits the disturbance produced by*.
 
-All three are meta-dimensional beings. Obligers and Gilded Saints are **sapient monsters** (Class II meta-dimensional beings): goal-directed, adaptive, and capable of sustained deception. Cute Predators are **non-sapient** (Class III): their behaviour is instinctive pattern-matching, not strategy.
+All three are meta-dimensional beings. Obligers and Gilded Saints are **sapient monsters** (Class II meta-dimensional beings): goal-directed, adaptive, and capable of sustained deception. *Sapient* records what the pattern is observed to do, not that somebody is in it: like every [Unfounded](/star-rangers/glossary/unfounded/) thing, neither can be addressed. Cute Predators are **non-sapient** (Class III): their behaviour is instinctive pattern-matching, not strategy.
 
 None of them hold Cascade standing. They cannot be negotiated with under Cascade-governed terms.
 

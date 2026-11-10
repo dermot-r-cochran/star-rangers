@@ -7,7 +7,7 @@ tags: [krenyi, species, boundary, clarity, polyamorous, long-lived, levril, cham
 description: "The Krenyi, also called the Quiet-Built, whose state-marker is Nai: long-lived beings defined by clarity, coherence, and resistance to mythification — which is also why they hold Levrils in the least awe and answer them the fastest."
 plain: "The Krenyi, also called the Quiet-Built, are a long-lived humanoid people on the human frame, and, because of that likeness, the strangest people in the record. They live for centuries, are few, and cannot interbreed with any other people. Their feeling is bounded at three points — deep fear, fury and grief that will not close — and their whole body is a sensing instrument, so they stay still, exact and quick where others panic. They refuse to be read as symbol or omen, so they hold Levrils in the least awe and answer them fastest. No homeworld is on file for them; asked, a Krenyi declines to be placed."
 image: "krenyi.jpg"
-image_alt: "Designed cover for Krenyi (Quiet-Built): an elegant pale humanoid silhouette on a dark starfield background, not a grey alien."
+image_alt: "Designed cover for Krenyi (Quiet-Built): an elegant pale humanoid silhouette on a dark starfield background."
 ---
 
 A Krenyi will often answer the room before they answer the question: posture steady, gaze direct, no wasted gesture, no ornamental mystery. That clarity is not affect. It is structure.
