@@ -56,7 +56,15 @@ Dermot flagged five more filed frames. Each one was replaced and nothing was rem
 | `sentinel-2026-11-10.jpg` | Sentinel (also the clip's poster) | The survey receiver was a 1960s lunar experiment package: a seamed metal box on three spindly legs over a hanging dish. Dermot: *"Is this anachronistic?"* | Replaced by an edit that changed only the receiver, and the clip was remade from the new still. |
 | `star-rangers-navigation-corps-2026-11-10.jpg` | The Navigation Corps | The beacon buoy was a 20th-century satellite: riveted panels, an antenna grid, thrusters and stained metal. The prompt's *quietly out of date* drew old hardware. | Replaced by a clean, sealed buoy whose drift shows only in its tilt. |
 
+## Tavin once more, 10 November 2026
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `tavin-ledgekin-realigned-2026-11-10.jpg` | Tavin Ledgekin | The realigned frame rooted the vane in the body, but one vane on a hide still read as a plant on an animal. Dermot: *"Tavin still looks disconnected"* and *"Not all peoples have a face but they should look sapient and sentient in some way."* | Replaced by an edit that adds two vanes and turns all three together toward the settlement: attention as the sign of a mind. |
+
 ## Lessons for the next prompt
+
+- **A non-human person needs a sign of a mind, not a face.** Attention works: several parts turned together toward one thing that is not food or light. Check every non-human portrait for it.
 
 - **A word about age goes to the object.** *Out of date* or *old* in a prompt makes the generator draw old hardware. Put the age where it belongs, in the route, the tilt or the record, and describe the object itself as kept.
 
