@@ -9,6 +9,7 @@ tags: [celtic-union, currach-fleet, union-irish, language, linguistics, human]
 description: "One of the Celtic Union linguists who rebuilt spoken Irish after the generation-ark crossing, born aboard in transit, whom the Union's register credits with the rule that a gap in the language is filled with the rule and not with the exception."
 image: "grainne-ni-chathail.jpg"
 image_alt: "Gráinne Ní Chathail, a slight pale young woman with dark hair cut to the collarbone, in an undyed wool top and a plain knitted shawl, seated at a low table of closed plain green-bound books in a narrow panelled compartment, her mouth open on a word and her eyes on the far wall, one hand resting on a shut book; through the doorway behind her a long dim round-walled gallery lit at intervals, running away out of sight."
+known_codex: [the-verb-that-was-left]
 ---
 
 Gráinne Ní Chathail was born in transit, aboard one of the six arks of the [Currach Fleet](/star-rangers/lore/celtic-union-of-planets/), into a language her people could read better than they could speak. She grew up to be one of the linguists who rebuilt it.
@@ -19,6 +20,7 @@ Gráinne Ní Chathail was born in transit, aboard one of the six arks of the [Cu
 - Came of age at or near landfall, among the households that had kept spoken Irish on purpose while the written language survived almost whole.
 - Worked with the Union's linguists on the rebuilding of the spoken language: from the attested texts and grammars, from the comparative method against the Fleet's other Celtic languages, and from internal reconstruction where nothing else reached.
 - The Union's register credits her with the principle that made Union Irish regular: **where the record has a gap, fill it with the rule, not with the exception the rule had worn into.** The Survey Archive holds that credit from the register's public summary, received after re-contact, and keeps no second copy of the register itself.
+- One note of her own has since reached the Archive in a printed collection of a hull's household songs: [The Verb That Was Left](/star-rangers/codex/the-verb-that-was-left/), on a going-to-sleep song she took down and declined to correct. It is filed in the Codex as her account.
 
 ## Character Notes
 

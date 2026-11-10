@@ -9,6 +9,7 @@ tags: [chthonari, undersong-belt, federation-of-sentient-beings, mathematics, un
 description: "A Chthonari mathematician of the Undersong Belt who carries proofs as tuned resonance in rock, tutors the Federation mathematicians who come to stand on it, and holds, against much of Chthonari philosophy, that the line between a theorem and a harmony is worth keeping."
 image: "pekkat.jpg"
 image_alt: "Close on Pekkat, a Chthonari: one slate-blue jointed foreleg reaching down to the edge of a dark cut nickel-iron rib, and above it the rim of a low, segmented, pitted slate carapace, with rows of small translucent bronze-brown sensing organs, like close-set beads, set in grooves along each leg segment and around the carapace rim; other ribs stand soft and dark in the background under dim amber light."
+known_codex: [twice-and-a-remainder]
 ---
 
 Pekkat proves things in rock. A Chthonari burrow settlement is tuned as it is dug, so that the settlement itself rings, and in the part of the [Undersong Belt](/star-rangers/lore/undersong-belt/) where Pekkat works, some of that tuning is mathematics: a relationship between parts of the structure that holds, felt directly by anyone standing on it, or does not.
@@ -19,6 +20,7 @@ The name is a struck signature, as every [Chthonari](/star-rangers/lore/chthonar
 
 - Born in the Undersong Belt, in a burrow settlement the record does not name. Which settlement, and what it is tuned to, is the Belt's own business.
 - Tutors Federation mathematicians who come to the Belt to study under Chthonari teachers, the practice the species page records. A student who wants to learn from Pekkat has to stand on the rock. Nothing Pekkat teaches reaches a student through air, and nothing reaches a student who is not in contact with structure. How a student who cannot feel the rock receives what Pekkat teaches, the record does not describe; the students' own reports say only that they do, and that what they take home is, by Pekkat's standard, a description.
+- One demonstration of Pekkat's is on file as a description: [Twice, and a Remainder](/star-rangers/codex/twice-and-a-remainder/), a student's deposit of Pekkat's remarks, rendered, and a pickup trace of a proof the Archive cannot read.
 - Active in 2826 UCSD. The record does not fix how long Pekkat has taught, or how many students have come.
 
 ## Character Notes
