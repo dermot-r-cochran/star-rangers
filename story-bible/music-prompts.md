@@ -171,8 +171,8 @@ Three anchors, all of them already canon, none invented for the music:
    uncorrected detune** — a few cents, wandering, never fixed. It is the setting's
    own name for itself, and it is the single most useful instruction in this file.
 3. **The forty seconds.** Threshold's two Dock Seven chronometers have disagreed by
-   forty seconds for eleven years: a fixed gap that never grows and returns after
-   every recalibration (`src/glossary/instrument-drift.md`).
+   forty seconds for eleven years: a gap that comes back after every recalibration
+   and holds near forty, never growing (`src/glossary/instrument-drift.md`).
    Wherever a track carries a pulse, **the pulse arrives a fraction late and never
    catches up.** Not a stumble — a steady, patient wrongness that a listener
    notices only on the second pass.
