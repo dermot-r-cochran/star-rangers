@@ -96,7 +96,9 @@ as far as that entry says. Add a line here when another such detail is found.
   him to *"forty seconds"* a moment later. Since then it has carried a chapter title, Brother Fintan's
   forty-second vigil (`src/codex/the-office-of-the-fortieth-second.md`), the
   boundary-zones lore, two journal entries and the trailer theme's late note.
-  It stands as canon.
+  It stands as canon: reviewed at his request on 2026-11-10, the number kept
+  and the bootstrap's mechanism (*the local rate of time*) corrected
+  (`intake-2026-11-10.md`, *The forty seconds, reviewed*).
 
 ### The 27 May bootstrap, sorted (2026-11-10)
 
