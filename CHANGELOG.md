@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- ***The Long White Trail*: fictional codex, at best** (`src/journal/the-long-white-trail.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's pick among choices). The Journal entry gains a dated section. The forty seconds the film is about were never his. Its standing is at most in-story fiction, a story someone in the world might have made up, so no idea from it enters canon under his own-videos rule. It stays in the Journal because it is very elegant as a video.
+
 - **Early drafts, second batch reviewed** (`story-bible/early-drafts-review.md`, `story-bible/prose-needs-your-voice.md`, 2026-11-10, Opus, #1746). Copilot's four other characters, six timeline entries and three Codex entries all stand. Quantum Space Harmonics and high-risk teleportation are both Dermot's, as he corrected the same day; Copilot first wrote them up on 27 and 28 May. The forty seconds, he confirmed, were not his. Both have since been priced and filed under the one licensed deviation, and neither clashes with the record.
 
 - **Year Zero no longer claims the 2826 arrivals were arranged** (`src/lore/year-zero.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's pick among choices). The bootstrap's *"not coincidental"* becomes the record's open question: whether the arrivals are more than coincidence, it has not established.

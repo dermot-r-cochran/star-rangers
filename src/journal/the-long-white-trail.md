@@ -52,3 +52,10 @@ In [Where the Record Lives](/star-rangers/journal/where-the-record-lives/) I wro
 So it is labelled. The film stays here, in the Journal, where the reader is someone interested in how the work is made. It is not linked from Threshold's page or from the chapter it echoes, and it carries no claim into either. If the story ever reaches the 2840s, the chapters will decide who kept that watch, and this film will not get a vote.
 
 *But the Archive will hold this morning*, the narrator says near the end, *and the drift will be written down, and both clocks will still be right.* The second half of that is true in this record now, and the first half belongs to a morning the record has not reached.
+
+## Added 10 November 2026: its ceiling
+
+Twelve days after this film was filed, a review of the site's earliest drafts found that the forty seconds were never my idea. The figure first appears on the first day of the repository, in the bootstrap a coding agent wrote from my opening brief. My brief asked for inconsistent constants and boundary anomalies and named no clock and no number. I did not choose it, and I have since confirmed it was not mine. The film is about a detail that a tool chose, retold by another tool.
+
+So its standing is settled lower than an impression of a choice of mine: **fictional codex, at best**, by which I mean in-story fiction. At most it is a story someone inside the world might have made up and told, like a ballad or a drama: never an account of what happened, and never something the record holds. Under the rule that lets an idea from one of my own films enter canon at my word, nothing enters from this one. It stays here because, as a video, it is very elegant.
+
