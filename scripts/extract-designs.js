@@ -257,8 +257,8 @@ const DESIGNS = [
     id: "navigation-buoy", name: "Survey instrument buoy", kind: "platform", sheet: null, principles: [5],
     owner: { text: "the Star Rangers Navigation and Survey Corps", quote: "The station builds, calibrates and services long-baseline instrument buoys" },
     era: { text: "in service at the record's present", quote: "The station builds, calibrates and services long-baseline instrument buoys" },
-    sources: [["src/lore/callisto-station.md", "The station builds, calibrates and services long-baseline instrument buoys"], ["src/lore/star-rangers-navigation-corps.md", "A small plain cylindrical buoy"]],
-    images: [{ path: "lore/star-rangers-navigation-corps.jpg", check: "no-sheet", evidence: ["src/lore/star-rangers-navigation-corps.md", "A small plain cylindrical buoy with an antenna mast"], note: "The Navigation Corps page's picture; sheet H's note keeps this shape for Callisto's buoys." }],
+    sources: [["src/lore/callisto-station.md", "The station builds, calibrates and services long-baseline instrument buoys"], ["src/lore/star-rangers-navigation-corps.md", "A small smooth cylindrical buoy"]],
+    images: [{ path: "lore/star-rangers-navigation-corps.jpg", check: "no-sheet", evidence: ["src/lore/star-rangers-navigation-corps.md", "A small smooth cylindrical buoy with a single slim mast"], note: "The Navigation Corps page's picture; sheet H's note keeps this shape for Callisto's buoys." }],
   },
   {
     id: "landing-craft", name: "Landing craft", kind: "ship", sheet: null, principles: [1],

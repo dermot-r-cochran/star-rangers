@@ -94,7 +94,6 @@ const PEOPLES = [
       "vaurel": { check: "agrees", evidence: ["src/characters/vaurel.md", "Vaurel"], note: "Filed 26 October 2026 from a scripted Blender blockout (scripts/blockouts/vaurel.py) turned into a photograph, the first Cerebraun portrait standing on the four ventral limbs; superseded 27 October by vaurel-2.jpg from a second blockout (scripts/blockouts/vaurel-2.py) with a teaching surface and doorway for scale, one hard light and the raised limb rooted in the body, after Dermot read the first as a child's model." },
       sohrel: { check: "agrees", evidence: [IMAGES_FILE, "There is no cephalopod in it."], note: "Filed 13 October 2026, the night the body was ruled." },
       tavesh: { check: "agrees", evidence: ["src/characters/tavesh.md", "small dark eyes set along the limbs"], note: "Briefed from the species page and Sohrel's entry, point for point." },
-      essaran: { check: "agrees", evidence: [IMAGES_FILE, "Essaran's round 3, filed"], note: "Filed 31 October 2026, round 3 variation 3 (his pick), after a body review found the body held and only the framing had failed; text-to-image with sohrel.jpg as the body reference, in the Cerebraun-made room of his A." },
     },
   },
   {
@@ -231,7 +230,6 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/verdani.md", "A Verdani is not humanoid, and the reason is arithmetic rather than aesthetics."],
     portraits: {
-      "elsha-rootkin": { check: "agrees", evidence: ["src/characters/elsha-rootkin.md", "each edged along its leading margin with a row of dark bead-like nodes"], note: "Filed 29 October 2026 as an artist's impression, after photographic rounds that drew Earth leaves, a potato sprouting ferns and studded midribs; the sensing organs on the leading margins, as the species page puts them." },
       "isren-farrowkin": { check: "agrees", evidence: ["src/characters/isren-farrowkin.md", "with no head and no face"], note: "Filed 12 October 2026 (century batch 6)." },
       "meril-duskkin": { check: "agrees", evidence: ["src/characters/meril-duskkin.md", "the duller olive-brown of a fenland strain"], note: "Filed 26 October 2026 (round 1, his pick): one olive-bronze vane over a creased mound, no head or face." },
       "tavin-ledgekin": { check: "agrees", evidence: ["src/characters/tavin-ledgekin.md", "the pale, high-reflectance colour of a high-terrace strain"], note: "Filed 26 October 2026 (round 1, his pick): one pale vane over a creased mound, no head or face." },
@@ -246,7 +244,6 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/veyr-basaltborn.md", "The load-bearing structure is an external lattice of fine chitinous members"],
     portraits: {
-      "oshek-var": { check: "agrees", evidence: ["src/characters/oshek-var.md", "an open lattice of fine dark iridescent struts"], note: "Filed 26 October 2026 (round 2, his pick): struts of the lattice at a seam, no hub and no eyes in frame." },
       "qiren-tal": { check: "agrees", evidence: ["src/characters/qiren-tal.md", "The body is an open lattice of fine dark iridescent struts with no solid trunk", IMAGES_FILE, "Keep the filed portrait for now"], note: "The body matches; the filed frame is kept with a recorded gap, since every round since 10 October drew the lattice as a rendered spider." },
     },
   },
