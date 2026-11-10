@@ -22,7 +22,7 @@ The MSC grounded its legitimacy in a historical argument that had been accumulat
 
 That argument was not false. The [USC](/star-rangers/lore/united-space-consortium/) had collapsed. The wars had happened. The [Imperium](/star-rangers/lore/the-imperium/) had delivered sixty years of real peace.
 
-What the argument omitted was memory. The USC had failed in a specific democratic architecture that granted legacy interests structural veto power. The Imperium's answer had been six decades of punitive rule over outer settlements. The MSC learned that consultative mechanisms improved authoritarianism. It did not learn that consultation is not the same thing as accountability.
+What the argument omitted was memory. The USC had failed in a specific architecture: elected assemblies in which legacy interests held a structural veto. The Imperium's answer had been six decades of punitive rule over outer settlements. The MSC learned that consultative mechanisms improved authoritarianism. It did not learn that consultation is not the same thing as accountability.
 
 One reform did outlast the rhetoric around it. Imperium-era military [cyborg](/star-rangers/glossary/cyborg/) augmentation programs were wound down under the MSC and replaced with a certification regime — the MSC's own contribution to a standard that every government since has tightened rather than loosened, until cyborg modification became one of the most heavily regulated categories of technology in the Concord.
 
@@ -36,7 +36,7 @@ The MSC was benevolent in intent and expert-led by design. Its senior officers s
 
 Inside MSC culture, this quote was taught as defensible institutional memory. See [The Volunteered Word (S00E02C02)](/star-rangers/seasons/s00/e02/s00e02c02/) for the address itself, and the decision that turned one honest sentence into the quote everyone now remembers.
 
-Its critics named the flaw at the time. The Coherence Wars were not caused by democracy in the abstract. They were caused by democratic systems captured, underfunded, and deliberately destabilized by interests that could not survive real accountability.
+Its critics named the flaw at the time. The Coherence Wars, they said, were not caused by elected government in the abstract, but by elected systems captured, underfunded, and deliberately destabilized by interests that could not survive real accountability.
 
 ## Structure
 
@@ -50,7 +50,7 @@ The MSC governed through a hierarchy of technically qualified officers, appointe
 
 The MSC admitted centralization and praised it. What it could not name was overcentralization, because naming it would have required structural self-critique.
 
-## The Democratic Question
+## The Question of Elections
 
 The MSC did not abolish elections. It made them advisory.
 
