@@ -179,6 +179,24 @@ show.
   run caught real drift: the 15 August gap-alert default had never reached the
   sibling.)
 - **ShellCheck** (`--severity=warning`) over all five deploy scripts.
+- **Locked pages** (`check-locked-pages.js`, added 2026-11-10): a page locks
+  once someone other than Dermot has commented, replied or reacted on its
+  comment thread, or by his hand; locked paths live in `lib/locked-pages.json`
+  (entries are only ever added). `scripts/lock-pages.js` finds them: it reads
+  both comment boards over the public API, maps each discussion title to a
+  source file (`termToSource` in `lib/locked-pages.js`, which follows giscus's
+  own term rules: `comment_id` for pages that have one, scene-POV terms to
+  their chapter, otherwise the pathname with its leading slash and extension
+  dropped), and prints what it would lock; `--write` appends, `--add <path>
+  --signal views --ref "<note>"` locks by hand. It is a local tool and stays out
+  of `npm test`, which is offline. The gate has two modes: `--validate` (the
+  registry's shape, and that every path exists) runs in `npm test`; the default
+  mode runs in CI after the tests, diffs `HEAD` against the PR's base and fails
+  any change to a locked page that no `Locked-Page: <path> (<reason>): <note>`
+  commit trailer names, where the reason is one of `typo`, `link`, `image`,
+  `arithmetic`, `chronology`, `terminology`. It checks the trailer's form, not
+  whether the edit really was that kind of edit; that stays a reviewer's
+  judgement. Unit tests: `test/locked-pages.test.js`.
 
 ## Deliberately not automated
 
