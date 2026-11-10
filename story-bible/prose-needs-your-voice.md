@@ -164,7 +164,8 @@ be checked, because the spec's text is cut.
 
 Not sorted here: Copilot's later runs from 28 May onwards, each with its own
 prompt, and PR #2's fifteen-rank hierarchy, whose prompt PR #2 does not
-preserve.
+preserve. Dermot ruled the hierarchy valid on 2026-11-10, and the bootstrap's
+characters valid, with the two changes recorded in `intake-2026-11-10.md`.
 
 ## Season chapters (actual narrative prose — highest priority)
 
