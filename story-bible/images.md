@@ -675,6 +675,7 @@ not page illustrations. The established practice is one hero per episode
 `s03e01-radiotelescope`, `s05e02-kerry-hills`). Nineteen episodes exist and six
 have heroes, so **thirteen are missing** — a tractable batch. Forty-four
 chapter images would mostly be four views of the same room.
+*(10 November 2026: `s01e02-machinery` and `s01e03-archive`, both stock, were removed at Dermot's "Yes, remove both" under the century bar; see `negative-examples/`. Four of the six remain.)*
 
 ### Prompt craft (learned the hard way)
 
