@@ -139,6 +139,14 @@ recommendation where one exists.
     Decide."* The page does not read that as the name said once. Whether it
     was is his.
 
+## Three wording points left by the 9 November critic read (#1737) — recorded 10 November 2026 by the critic read of #1736 to #1740; 2 OPEN, his, not blocking; 1 and 3 answered
+
+The weekly critic read of 9 November left three wording points for Dermot. They were named in the body of #1737 and nowhere else, and a pull request body is not a record (`CLAUDE.md`, *Work that needs the desktop*; this file takes a line whenever something is left undecided). The second is put here once, as options; the first and third are already answered. Nothing is changed in `src/` or in the two story-bible files concerned.
+
+1. **The Young Star Rangers focus line's *one of fourteen*** (`focus.md`, the `young-star-rangers` edition line; `edition-reader-profiles.md`, Young Star Rangers, *Loses them*). Season 9 counts fourteen Deputies before Varn and makes her the fifteenth (S09E01C01, *the fifteenth Deputy the Corps had handed her*; S09E01C05, *Fourteen Deputies before this one* and *In fifteen Deputies*). **(a)** *one of fifteen* in both places; **(b)** leave it, read as one more of the kind the fourteen were. **Answered 9 November 2026, before this was recorded: (b), leave it** (his *"As recommended"* to the critic read of #1726 and #1728–#1734, PR #1735): *one of fourteen* stays, because Smith's own line in S09E01C05 carries the fifteenth Deputy. Corrected 10 November 2026; the answer had been kept only outside the repository. Nothing is edited.
+2. **Tír na nÓg's *rarely align, about once a year*** (`src/lore/planets/tir-na-nog.md`). The 9 November triage settled the clause as it now stands (option 1, in the *Received* section below: both words can stand for a shadow transit), and the same day's critic read recommended dropping *rarely*. Two passes disagreeing over one clause is a taste call, so it comes to him once: **(a)** leave it as the triage settled it; **(b)** *The two align about once a year, on a day the local almanacs never quite agree on*. **Recommended: (a)**, because the triage's reading is on the record with its reason, and (b) would leave *the rare Conjunction* standing elsewhere on the same page and *rarely align* in the survey note.
+3. **The reader profile's *a year*** (`edition-reader-profiles.md`, Young Star Rangers, *Wants*). Answered, not open: `intake-2026-11-09.md`, *Young Star Rangers: a month, not a year*, keeps it on purpose, *because it describes what the reader comes for, not what the page promises*. Recorded here only so that it is not raised a third time.
+
 ## The Verdani history, Ruvel Swardkin — the weekly Fable pass of 9 November 2026, stage 3c — DRAFTED same day on Fable (the line read as a position spoken), choices named in the PR, his to overrule
 
 The Verdani line of the *Histories in their own voices* series below, the
