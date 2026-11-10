@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Where the forty seconds came from** (`story-bible/prose-needs-your-voice.md`, `story-bible/music-prompts.md`, 2026-11-10, Opus, Dermot's *"Option A"*). Threshold's forty-second discrepancy first appears in the Copilot bootstrap of 2026-05-27, not in a choice Dermot remembers making. The provenance note now lists it under a new section for details the tools chose, and records his remark about the risk of starting with Copilot or Sudowrite. The music file's house signature no longer says the clock "runs slow": the gap is fixed and never grows, as the glossary says. No canon changes.
+
 - **Orbital Five-O's variation of the trailer theme, written as a MyTunes prompt** (`story-bible/music-prompts.md`, 2026-11-09, Opus, Dermot's *"Next prompt for MyTunes"*). The first thread variation of the late note, in the six fields and as a 198-character line for MyTunes. One take serves Orbital Five-O and Young Star Rangers. Take 1, *Unresolved Arpeggio*, is kept, with the closing title on its held low C.
 
 ## [1.64.0] — 2026-11-09
