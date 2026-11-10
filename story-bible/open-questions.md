@@ -93,6 +93,52 @@ left as they stand.
 
 ---
 
+## The Seat and standing-beside — direction approved by Dermot 10 November 2026; carrier RULED the same day (*"The Five Islands"*); redrafted on the Casimor watch-post (`src/lore/the-seat.md`), OPEN: the PR waits for him
+
+`intake-2026-11-10.md`, *Inherited plurality*. The carrier is settled: the
+Kingdom of the Five Islands, centred on the Casimor watch-post. What follows
+is still open, each drafted at its least committal reading, with a
+recommendation where one exists.
+
+1. **Seats beyond the watch-post.** Drafted as not yet said: only the watch is
+   on the page (recommended until a chapter needs more). The other shapes:
+   reeves, the Sisterhood or the Old Houses keep seats too.
+2. **More seats at the post than the keeper's.** Drafted as not yet said.
+3. **The Kingdom's law on a keeper's system.** Drafted as not established as
+   of this edition: the Common Council holds the day-to-day law and no case is
+   on file. The page does say the Kingdom counts one keeper and the watch
+   settles between two which one a court letter has reached; that sentence is
+   new and his to strike.
+4. **The Concord's joint-responsibility rule.** Drafted as having no bearing:
+   one sentence says it is the Concord's and does not run on Krilzat. The other
+   shapes: say nothing of it, or let the delegation's Rangers carry it as their
+   own yardstick.
+5. **What the delegation holds.** Drafted as nothing: it has not been to
+   Krilzat and has filed no reading. The other shape: a note at the lowest band
+   of its register, unpublished, from what the court has said on Vellamar.
+6. **A never-fronted member holding the seat.** Drafted as not yet said.
+7. **Names.** *The Seat*, *standing-beside*, *the cup* and *the name said once*
+   are the Archive's renderings and working names. The seat's own name in the
+   watch's speech is not carried, because the watch *keeps no names* in the
+   chapters; the page calls it *the keeper's seat*. The placeholders *Midwatch*
+   and *the Door* are gone. No Union Irish (the Kingdom is not the Union) and no
+   glossary entry.
+8. **Plural *by upbringing*.** The page says the keepers' family is plural by
+   upbringing and reports nothing bodily. The other shape: say nothing of how.
+9. **The elder who dies before the name is said.** Drafted as not yet said.
+10. **Standing-beside by someone not born at the post.** Drafted as not yet
+    said. *On service rather than blood* would allow it.
+11. **The cup and the bread.** The page reads the keeper's wife giving Wren
+    bread without asking her name (S13E01C01) as the post meeting a guest the
+    way it meets its own children. His to confirm or strike.
+12. **Bram.** `bram-tollick.md` now says his father's system and his
+    grandmother's hold or held the seat, and that the record has not been told
+    whether anyone in him answers to it. The record elsewhere calls Bram *the
+    keeper* (the delegation's log in S13E02C02, the treatment). And in
+    S13E01C02 his father says *"I am the keeper"* and *"You keep the door.
+    Decide."* The page does not read that as the name said once. Whether it
+    was is his.
+
 ## Three wording points left by the 9 November critic read (#1737) — recorded 10 November 2026 by the critic read of #1736 to #1740; 2 OPEN, his, not blocking; 1 and 3 answered
 
 The weekly critic read of 9 November left three wording points for Dermot. They were named in the body of #1737 and nowhere else, and a pull request body is not a record (`CLAUDE.md`, *Work that needs the desktop*; this file takes a line whenever something is left undecided). The second is put here once, as options; the first and third are already answered. Nothing is changed in `src/` or in the two story-bible files concerned.

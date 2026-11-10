@@ -23,9 +23,11 @@ The watch keeps a count rather than a record: a notch cut in the door-post for e
 
 At the season's first calm his father, handed a sealed instrument of the delegation that the court had let come as far as the keeper decided, gave it to him to place. He and Pellam's youngest went down the right side of the long hall past the furthest notch and found a door standing open where every door of the Castle is shut, with one of the Castle's people standing in the room beyond it. He set the instrument inside the door, against the wall, and cut his first notch that evening, the first since his grandmother's. The record holds it in [*A Door Was Given* (S13E01C02)](/star-rangers/seasons/s13/e01/s13e01c02/).
 
+The watch hands its keeping on by [the Seat](/star-rangers/lore/the-seat/). The keepers' family is plural by upbringing, and the keeper's seat is held by one member of a keeper's system, as it is in his father's and was in his grandmother's in her time; each keeper is a new person, grown over years beside the keeper before. Bram has grown up beside his father at the work, which is what the watch calls standing-beside.
+
 ## What the Record Does Not Carry
 
-What he thinks the Castle's people are, beyond that they are the Castle's. Anything the delegation knows of him, since the delegation has not been to Krilzat.
+What he thinks the Castle's people are, beyond that they are the Castle's. Whether anyone in him answers to the keeper's seat, which the post does not ask and the record has not been told. Anything the delegation knows of him, since the delegation has not been to Krilzat.
 
 ## Character Notes
 
