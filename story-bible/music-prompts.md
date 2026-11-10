@@ -510,6 +510,19 @@ beside the entry:
   who did not ask to. If the loop restart ever grates, the fix is a trimmed 90 s
   cut of the same recording, not a different track.
 
+**Trimmed to a loop, 10 November 2026** (Dermot's pick, *"Loop B (1:54)"*, after a
+music-critic read). The file as filed on 20 August was 4:00.00, cut off while
+still at full level (the supplied piece ran 4:02), so on repeat it stopped dead and
+faded back in. It also played at −11.6 LUFS, about 6 LU over the −18 target. It
+is now **1:54, cut from 0:12 to 2:06 of the same recording**: the dark opening and
+the first bright section. The join sits on the piece's own dip at 2:06. Its first
+6 seconds blend, with an equal-power crossfade, what followed that dip (a dark,
+low passage) into the opening, so the seam copies a move the piece already makes.
+One gain change of −6.6 dB brings it to −18.1 LUFS, true peak −7.3 dBFS, with no
+limiting. The music is otherwise untouched. The working files and the longer
+3:36 alternative are kept on the desktop. The tool that made the recording is
+still unconfirmed (below).
+
 A brief, should this domain ever want a purpose-made theme instead: vigil rather
 than liturgy, as the Fellowship entry above, but slower and with no melodic
 content at all.
