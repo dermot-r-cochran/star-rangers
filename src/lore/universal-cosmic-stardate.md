@@ -5,7 +5,7 @@ category: "Timeline Notes"
 tags: [timeline, timekeeping, ucsd, standards, calibration]
 description: "What the civil date actually is: a continuous count renumbered from old Earth's, kept as a paper timescale by an ensemble of clocks no institution owns, reconciled by courier and proven in closed loops. Time is simple; measuring it is the hard part."
 image: "universal-cosmic-stardate.jpg"
-image_alt: "Six identical sealed metal cylinders standing on rough stone plinths in a row against a plain pale wall, evenly spaced"
+image_alt: "Six identical low sealed housings in a row across a clean, pale, seamless room, each on its own pedestal, with a faint violet glow in a small window on top of each"
 plain: "Time in this story is ordinary: one real timeline, running one way, no branches. The date system is just very careful measurement of it. The year count continues old Earth's with 200 added. There is no single master clock — many well-kept clocks are compared, corrected, and averaged after the fact, and couriers physically carry time between places because no signal travels faster than a ship."
 ---
 
