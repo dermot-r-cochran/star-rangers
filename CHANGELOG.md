@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **Early drafts, second batch reviewed** (`story-bible/early-drafts-review.md`, `story-bible/prose-needs-your-voice.md`, 2026-11-10, Opus, #1746). Copilot's four other characters, six timeline entries and three Codex entries all stand. The provenance note records that faster-than-light mechanics and teleportation both came from Copilot's runs of 27 and 28 May. Both have since been priced and filed under the one licensed deviation, and neither clashes with the record.
+- **Early drafts, second batch reviewed** (`story-bible/early-drafts-review.md`, `story-bible/prose-needs-your-voice.md`, 2026-11-10, Opus, #1746). Copilot's four other characters, six timeline entries and three Codex entries all stand. The provenance note records that teleportation most likely came from Copilot's run of 28 May. Quantum Space Harmonics is Dermot's, as he corrected the same day; Copilot first wrote it up on 27 May. Both have since been priced and filed under the one licensed deviation, and neither clashes with the record.
 
 - **Year Zero no longer claims the 2826 arrivals were arranged** (`src/lore/year-zero.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's pick among choices). The bootstrap's *"not coincidental"* becomes the record's open question: whether the arrivals are more than coincidence, it has not established.
 

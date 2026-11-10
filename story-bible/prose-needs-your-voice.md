@@ -135,6 +135,8 @@ be checked, because the spec's text is cut.
 
 **3. Not in the visible brief, so most likely the tool's.**
 
+This grade is a reading, not a finding, and it stays open to his correction. Quantum Space Harmonics, below, was his although the visible brief does not name it.
+
 - *People.* Rook-7 by name; Elvira; Aldera, a cyber-enhanced cat; Sub-officer
   Pren Halvard; Station Manager Cors Delveyne. The brief has a robot and smart
   pets but names none of them.
@@ -162,10 +164,10 @@ be checked, because the spec's text is cut.
   names only in order, and *Quiet-Built* read as *self-construction through
   patience and clarity*.
 
-**Two larger ideas from Copilot's runs of 27 and 28 May** (found 2026-11-10, in the review's second batch). Neither is in the visible brief:
+**Two larger ideas from the runs of 27 and 28 May** (found 2026-11-10, in the review's second batch, and corrected the same day). Neither is in the visible part of the brief:
 
-- **Faster-than-light travel's mechanics.** Commit `96a43c55` (27 May, *Add core lore expansions for hierarchy and FTL mechanics*) brought the harmonic transit that became the Quantum Space Harmonic Wave and fold transit.
-- **Teleportation.** Commit `11eca653` (28 May, *Add teleportation lore, chapters, and character*) brought teleportation, its constraints page and Dr. Iona Vale, whose page rests on it.
+- **Quantum Space Harmonics is Dermot's** (his correction, 2026-11-10, verbatim: *"Quantum Space Harmonics is mine although might be supported by scientific literature so not entirely original"*). Commit `96a43c55` (27 May, *Add core lore expansions for hierarchy and FTL mechanics*) is where Copilot first wrote it up. So the absence of an idea from the visible brief does not make it the tool's: he held ideas outside that text, and the cut part of the brief may carry more. Which parts of the faster-than-light pages beyond the idea itself are his, such as figures or fold transit's particulars, is not recorded. The literature he refers to is not named here.
+- **Teleportation is most likely Copilot's.** Commit `11eca653` (28 May, *Add teleportation lore, chapters, and character*) brought teleportation, its constraints page and Dr. Iona Vale, whose page rests on it. Nothing in the visible brief names it, and Dermot has not claimed it.
 
 Both have since been priced in *What the Record Refuses* (*kept, but priced*) and filed as consequences of the cosmology, under Dermot's 2026-09-10 label *hard science fiction with one licensed deviation*. Neither clashes with the rest of the record, so neither is a dilemma under the earlier-approval rule. They are recorded so that their origin is known.
 
