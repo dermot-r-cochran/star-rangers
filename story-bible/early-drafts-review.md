@@ -159,7 +159,7 @@ outcome in its row as it lands, with the PR that landed it.
 | `src/lore/lagrange-fold-points.md` | 2026-05-29 | Dermot: his idea and words | 1 | Opus | stands (10 Nov) |
 | `src/lore/levrils.md` | 2026-05-27 | Copilot | 4 | Opus | stands (10 Nov) |
 | `src/lore/meta-dimensional-beings.md` | 2026-05-27 | Dermot: his idea, M365 Copilot wording | 2 | Opus | stands, with a clarify (10 Nov): *sapience* marked as observed capability, as on *Predatory Entities* |
-| `src/lore/military-space-command.md` | 2026-05-28 | Copilot | 4 | Opus | stands, with a clarify (Dermot, 10 Nov): *technocracy* described, not named; its title card's lettering is a desktop step (#1763) |
+| `src/lore/military-space-command.md` | 2026-05-28 | Copilot | 4 | Opus | stands, with a clarify (Dermot, 10 Nov): *technocracy* described, not named; its title card was relettered the same day (#1763, #1766) |
 | `src/lore/noogenic-seeding-system.md` | 2026-06-30 | Dermot: his idea, M365 Copilot wording | 1 | Opus | stands (10 Nov) |
 | `src/lore/physics-comparison.md` | 2026-05-27 | Dermot: his idea, M365 Copilot wording | 3 | Opus | stands (10 Nov) |
 | `src/lore/post-eleven-dimensional-manifold.md` | 2026-05-28 | Copilot | 3 | Opus | stands (10 Nov) |
