@@ -47,7 +47,7 @@ Beings met as meta-dimensional that have a degree of sapience — goal-directed,
 
 #### The Unfounded (sapient monsters)
 
-Meta-dimensional in origin, founded by nothing, and predatory. Their sapience makes them more dangerous than incursives because they learn, adjust, and exploit. Sapient monsters cannot perform functions reserved for Cascade-ranked entities, and they have no legitimate authority at any tier. The names below are the modes the Archive has met, not a census (see above).
+Meta-dimensional in origin, founded by nothing, and predatory. Their sapience makes them more dangerous than incursives because they learn, adjust, and exploit. *Sapience* here records what the pattern is observed to do, not that somebody is in it: like every [Unfounded](/star-rangers/glossary/unfounded/) thing, none of them can be addressed. Sapient monsters cannot perform functions reserved for Cascade-ranked entities, and they have no legitimate authority at any tier. The names below are the modes the Archive has met, not a census (see above).
 
 **Examples:**
 

@@ -43,9 +43,9 @@ It was also:
 
 ## The Democratic Underground
 
-The Imperium did not erase democratic thought. It drove it inward.
+The Imperium did not end the argument for elected government. It drove it inward.
 
-Across the Imperium period, outer-station communities, academic institutions, and civil society groups kept working on democratic theory, governance design, and legal alternatives outside official channels. Early on this loose network called itself the Consortium Remnant. Later it became the Reform Movement.
+Across the Imperium period, outer-station communities, academic institutions, and civil society groups kept working on the theory of elected government, governance design, and legal alternatives outside official channels. Early on this loose network called itself the Consortium Remnant. Later it became the Reform Movement.
 
 The Reform Movement did not directly overthrow the Imperium. Its achievement was quieter and more important: when the Imperium's contradictions sharpened, there were already people outside the military hierarchy holding workable alternatives.
 
