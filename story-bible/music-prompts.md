@@ -973,7 +973,7 @@ alone pulls toward a music box and soft piano, which is why the style leads with
 the Irish sounds Irish, whether it is one voice with nothing under it but the hum,
 and whether the last *mise* is held.
 
-- **Tool:** MyTunes (phone app) · **Date:** · **Seed:** · **Takes:**
+- **Tool:** MyTunes (phone app) · **Date:** 10 November 2026 · **Seed:** not shown by the app · **Takes:** 1, kept, not filed (under *Entry format*)
 
 ---
 
@@ -1449,6 +1449,29 @@ absences.
   keep it with the closing title on the held low C, so the title cuts in at about
   2:58–3:02 when a Five-O or Young Star Rangers trailer uses this take. Not in
   `src/audio/`: no trailer uses it yet.
+
+### *The Verb That Was Left*, take 1 (kept, not filed)
+- **Type:** generation
+- **Tool:** MyTunes (MWM), phone app
+- **Date:** 10 November 2026
+- **Used by:** nothing yet; an impression of the song in `src/codex/the-verb-that-was-left.md`, which holds no recording
+- **Prompt:** the 181-character one-box line under *The Verb That Was Left*, verbatim
+- **Settings:** vocal, female voice, genre none, Live off, as the entry says. MyTunes kept the song's own title.
+- **Lyrics:** the entry's respelled lyrics box, standing for the four published lines twice
+- **Negative:** none (MyTunes has no exclude box)
+- **Notes:** 1:00, the length the Form asks for. AAC 48 kHz stereo inside a 640×360
+  mp4 with the MyTunes badge. −14.5 LUFS integrated, true peak −0.6 dBFS, LRA
+  12.4 LU. Measured, not heard: a quiet opening (about −20 to −25 dB) with almost
+  nothing below 80 Hz; a swell from about 0:15 to 0:40, the loudest passage (about
+  −10 to −12 dB), with 7–18% of the energy below 80 Hz, under the range of a
+  female voice, so either the asked-for hum sounding stronger than *faint* or
+  something under the voice the prompt did not ask for; then a fall back to the
+  opening's level and a fade to nothing by the end, which matches the held last
+  word. Card: a creased, stained paper note on a wooden floor in window light,
+  with the title lettered on it; it does not travel. Dermot's verdict, 10 November
+  2026: *"It sounds fine to me"*. Not in `src/audio/`: no page uses it, and the
+  entry's owed check stands, an Irish speaker's ear on the respelling, before a
+  take is filed anywhere.
 
 ### told-theme.m4a
 - **Type:** generation, then a loop edit
