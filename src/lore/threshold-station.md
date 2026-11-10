@@ -10,7 +10,7 @@ galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Station"
 image: "threshold-station.jpg"
-image_alt: "A long stone sea wall running straight out toward a low sun at dusk, the wet surface catching the light, boulders along its right edge and open water on the left; at the far end, in silhouette against the pale sky, a low dark line of docks and hull-like structures with three small working lights, and a headland faint on the horizon to the left."
+image_alt: "A long stone sea wall running straight out toward a low sun at dusk, the wet surface catching the light, boulders along its right edge and open water on the left; at the far end, lying low on the water in silhouette against the pale sky, one long smooth seamless hull-shaped form with three small warm lights along its waterline, and a headland faint on the horizon to the left."
 ---
 
 Sometimes little details turn out to be much more important than anyone would ever have expected. Threshold Station is perhaps the most famous example, so far, in the history of the Star Rangers organisation.
