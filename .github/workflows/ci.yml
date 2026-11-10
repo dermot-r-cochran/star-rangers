@@ -39,6 +39,12 @@ jobs:
       - name: Run tests
         run: npm test
 
+      # A locked page's assertions are frozen (Dermot, 2026-11-10): a change to
+      # one fails unless a commit trailer names it and an allowed reason. Needs
+      # the full history the checkout above fetched.
+      - name: Locked pages
+        run: node scripts/check-locked-pages.js
+
       # Contrast has to run AFTER generate-themes because it reads the
       # generated theme-*.css files - which is exactly why it stays out of
       # npm test (a check that fails because you have not run another script
