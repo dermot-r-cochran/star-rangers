@@ -9,6 +9,7 @@ aliases: []
 tags: [human, star-rangers, principal, music-corps, xenomusicology, eden, survey-corps, slipwave, tissadelle]
 image: "ilse-varga.jpg"
 image_alt: "Ilse Varga standing alone in a clean pale-grey corridor that curves away out of sight, a few steps from a shut flush door with a line of warm light at its sill, paused with her head turned back over her shoulder toward the door: a compact woman in her forties with short dark auburn hair, in a dark plum-grey high-collared field uniform, a single folded sheet held at her side; a plain sealed housing sits on the wall by the door."
+known_codex: [it-weighs-nothing]
 description: "The Music Corps Principal who heard Slipwave's late set from a back table on Eden's dock circuit in 2825 and recommended its singer to the Xenomusicology college as a Novice — and who wrote down, over fourteen nights, less than a page."
 ---
 
@@ -17,6 +18,8 @@ Ilse Varga is a Principal Officer of the [Music Corps](/star-rangers/lore/star-r
 What she did there is the branch's method in its plainest form. She sat where the sound was worst, wrote what she could show and nothing she could not, and struck a question mark on the ninth night when a thin room gave her the observation that settled it. She recommended the band's singer to the college as a serving officer of the branch, on the ordinary road, with the band she was already in as the placement, and her one instruction to the new Novice was about whose the room was: in it, the band's; the file, the Corps'. See [The Time the Study Needs (S01E00C06)](/star-rangers/seasons/s01/e00/s01e00c06/).
 
 The Novice was [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/). The project was [Slipwave](/star-rangers/glossary/slipwave/).
+
+One earlier file of hers is in the Codex: [It Weighs Nothing](/star-rangers/codex/it-weighs-nothing/), twelve days in 2822 UCSD aboard a carrier standing off a shoal of the [Ollune](/star-rangers/lore/ollune/), following one short figure in the far word by instrument. It is her account as a listener, valid for her, and the copy does not give her rank at the time.
 
 ## What the record does not hold
 
