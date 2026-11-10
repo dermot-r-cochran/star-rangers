@@ -7,8 +7,6 @@ role: "Officer of the Prime Ganglion's office, Cerebraun Hegemony, who drafts th
 status: Active
 aliases: []
 tags: [cerebraun, cerebraun-hegemony, prime-ganglion, halyx-system, sentinel, author, non-humanoid, histories-in-their-own-voices]
-image: "essaran.jpg"
-image_alt: "Essaran, a Cerebraun, in a bare pale-grey stone room with a wide low dark opening behind: a headless, deeply creased umber-brown body slumped on its folded lower limbs beside a low pale stone surface. One upper limb is wrapped over the surface's edge, another is raised and bent above a flat dark slab lying on it, a third trails beneath, and small dark eyes are set along the limbs."
 description: "A Cerebraun officer of the Prime Ganglion's office who drafted the Hegemony's answer to the Survey Archive's request for a history of the Cerebraun by one of them, a filing in three-part items with lines set beneath, sent on the first channel only — the author of the twelfth history of a non-human people the record holds in that people's own voice, and the fourth Cerebraun the record names."
 known_codex: [what-the-limbs-already-were]
 ---
