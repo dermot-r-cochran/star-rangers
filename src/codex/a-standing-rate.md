@@ -44,7 +44,7 @@ Now what your reader asked twice. Metal put on at the bottom is carried up throu
 
 I am told this is a known difficulty among you, and that there is a boat. Your reader asked whether it is the same one. I said it is doing the same thing. Your reader asked again. I have been here before. At the seam nobody would know what else you wanted to be the same.
 
-What it is for I cannot tell you. The holders take it in turns. To have held it well through a bad day, when weather has reached down and the seam is moving, is known about a person there afterwards. It keeps its shape by not keeping its metal. Nothing where I come from lasts in any other way, so I do not find it strange. I find it well done.
+What it is for I cannot tell you. The holders take it in turns. To have held it well through a bad day, when weather has reached down and the seam is moving, is known about a person there afterwards. It keeps its shape by not keeping its metal. Nothing at that seam lasts in any other way, so I do not find it strange. I find it well done.
 
 The one in the *case*. When I asked to go into air, the holders at that seam started a second one beside the first, small, a size one body can carry. They held it through one whole passage, until nothing it had started with was left in it. That is when such a thing is *finished*, if that is a word for it: when all of it is what came after. Then they lifted it out of the seam and gave it to me.
 
