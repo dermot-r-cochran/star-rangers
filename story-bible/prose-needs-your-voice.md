@@ -91,8 +91,9 @@ as far as that entry says. Add a line here when another such detail is found.
   "inconsistent constants" and "boundary anomalies" and names no clock and no
   figure. GitHub truncates the brief, so the rest of it cannot be checked.
   **The idea of a small, stable wrongness that survives correction is your
-  brief's; the number is most likely the tool's.** You did not remember
-  choosing it. Since then it has carried a chapter title, Brother Fintan's
+  brief's; the number is the tool's.** Dermot confirmed it on 2026-11-10,
+  verbatim: *"The four seconds was definitely not mine"*, corrected by
+  him to *"forty seconds"* a moment later. Since then it has carried a chapter title, Brother Fintan's
   forty-second vigil (`src/codex/the-office-of-the-fortieth-second.md`), the
   boundary-zones lore, two journal entries and the trailer theme's late note.
   It stands as canon.
