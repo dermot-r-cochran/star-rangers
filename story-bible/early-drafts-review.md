@@ -111,14 +111,14 @@ outcome in its row as it lands, with the PR that landed it.
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
 | `src/characters/aldera.md` | 2026-05-27 | Copilot | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
-| `src/characters/dr-iona-vale.md` | 2026-05-28 | Copilot | 2 | Opus | pending |
+| `src/characters/dr-iona-vale.md` | 2026-05-28 | Copilot | 2 | Opus | stands (10 Nov): teleportation, her whole premise, is Copilot's (see provenance) but filed and priced in lore |
 | `src/characters/elvira.md` | 2026-05-27 | Copilot | 2 | Opus | stands, with the record no longer naming her *the Enchantress* (`intake-2026-11-10.md`, #1750) |
 | `src/characters/galahad-thorne.md` | 2026-05-27 | Copilot | 6 | Opus | stands, with *Sir* made part of his name (`intake-2026-11-10.md`, #1750) |
 | `src/characters/karla-wender.md` | 2026-05-27 | committed by Dermot | 2 | Opus | pending |
-| `src/characters/mira-of-brine.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
-| `src/characters/qiren-tal.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
+| `src/characters/mira-of-brine.md` | 2026-05-27 | Copilot | 2 | Opus | stands (10 Nov) |
+| `src/characters/qiren-tal.md` | 2026-05-27 | Copilot | 2 | Opus | stands (10 Nov) |
 | `src/characters/rook-7.md` | 2026-05-27 | Copilot | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
-| `src/characters/sethka-ru.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
+| `src/characters/sethka-ru.md` | 2026-05-27 | Copilot | 2 | Opus | stands (10 Nov) |
 | `src/characters/syra.md` | 2026-05-27 | Copilot | 4 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
 | `src/characters/tissadelle-shepherd.md` | 2026-05-27 | committed by Dermot | 1 | Opus | pending |
 
@@ -203,22 +203,22 @@ outcome in its row as it lands, with the PR that landed it.
 
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
-| `src/codex/incident-report-001.md` | 2026-05-27 | Copilot | 6 | Opus | pending |
+| `src/codex/incident-report-001.md` | 2026-05-27 | Copilot | 6 | Opus | stands (10 Nov) |
 | `src/codex/maintenance-log-day-49-dock-seven.md` | 2026-07-01 | committed by Dermot | 3 | Opus | pending |
-| `src/codex/rook-7-first-week-log.md` | 2026-05-27 | Copilot | 6 | Opus | pending |
-| `src/codex/survey-corps-protocol.md` | 2026-05-27 | Copilot | 8 | Opus | pending |
+| `src/codex/rook-7-first-week-log.md` | 2026-05-27 | Copilot | 6 | Opus | stands (10 Nov): Rook-7's two-way suspicion is valid for its author |
+| `src/codex/survey-corps-protocol.md` | 2026-05-27 | Copilot | 8 | Opus | stands (10 Nov): its *Concordant boundary* is the protocol's own era usage, which `glossary/concordant.md` settles plainly (Threshold is not that case) |
 
 ### Timeline
 
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
 | `src/timeline/2340-usc-sssa-established.md` | 2026-05-29 | committed by Dermot | 4 | Opus | pending |
-| `src/timeline/2712-eden-fold-route.md` | 2026-05-28 | Copilot | 4 | Opus | pending |
-| `src/timeline/2723-star-rangers-charter.md` | 2026-05-28 | Copilot | 6 | Opus | pending |
+| `src/timeline/2712-eden-fold-route.md` | 2026-05-28 | Copilot | 4 | Opus | stands (10 Nov) |
+| `src/timeline/2723-star-rangers-charter.md` | 2026-05-28 | Copilot | 6 | Opus | stands (10 Nov): consistent with *What the Rangers Are Not* |
 | `src/timeline/pre-usc-cable-warden-programme.md` | 2026-05-29 | committed by Dermot | 3 | Opus | pending |
 | `src/timeline/pre-usc-civilisation-comparison-codified.md` | 2026-06-26 | committed by Dermot | 3 | Opus | pending |
 | `src/timeline/pre-usc-ul-standards-international.md` | 2026-05-29 | committed by Dermot | 3 | Opus | pending |
-| `src/timeline/year-0-causeway-convergence.md` | 2026-05-27 | Copilot | 6 | Opus | pending |
-| `src/timeline/year-0-survey-team-arrives.md` | 2026-05-27 | Copilot | 6 | Opus | pending |
-| `src/timeline/year-minus-11-first-drift-report.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
-| `src/timeline/year-minus-3-elvira-arrives.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
+| `src/timeline/year-0-causeway-convergence.md` | 2026-05-27 | Copilot | 6 | Opus | stands (10 Nov) |
+| `src/timeline/year-0-survey-team-arrives.md` | 2026-05-27 | Copilot | 6 | Opus | stands (10 Nov): the suppression line is Rook-7's attributed hypothesis, a shadow the record keeps |
+| `src/timeline/year-minus-11-first-drift-report.md` | 2026-05-27 | Copilot | 4 | Opus | stands (10 Nov) |
+| `src/timeline/year-minus-3-elvira-arrives.md` | 2026-05-27 | Copilot | 4 | Opus | stands (10 Nov) |

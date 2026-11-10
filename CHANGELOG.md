@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Early drafts, second batch reviewed** (`story-bible/early-drafts-review.md`, `story-bible/prose-needs-your-voice.md`, 2026-11-10, Opus, #1746). Copilot's four other characters, six timeline entries and three Codex entries all stand. The provenance note records that faster-than-light mechanics and teleportation both came from Copilot's runs of 27 and 28 May. Both have since been priced and filed under the one licensed deviation, and neither clashes with the record.
+
 - **Year Zero no longer claims the 2826 arrivals were arranged** (`src/lore/year-zero.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's pick among choices). The bootstrap's *"not coincidental"* becomes the record's open question: whether the arrivals are more than coincidence, it has not established.
 
 - **Pages lock once readers arrive** (`CLAUDE.md`, `lib/locked-pages.js`, `lib/locked-pages.json`, `scripts/lock-pages.js`, `scripts/check-locked-pages.js`, `.github/workflows/ci.yml`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus with a Sonnet subagent, Dermot's picks among choices). A page locks when a reader comments, replies or reacts on its thread, or by his hand from Search Console views. A locked page's assertions are frozen. CI fails a change to one without a `Locked-Page:` trailer naming an allowed fix, and fails one that lifts a lock. No page is locked yet.

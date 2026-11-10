@@ -162,6 +162,13 @@ be checked, because the spec's text is cut.
   names only in order, and *Quiet-Built* read as *self-construction through
   patience and clarity*.
 
+**Two larger ideas from Copilot's runs of 27 and 28 May** (found 2026-11-10, in the review's second batch). Neither is in the visible brief:
+
+- **Faster-than-light travel's mechanics.** Commit `96a43c55` (27 May, *Add core lore expansions for hierarchy and FTL mechanics*) brought the harmonic transit that became the Quantum Space Harmonic Wave and fold transit.
+- **Teleportation.** Commit `11eca653` (28 May, *Add teleportation lore, chapters, and character*) brought teleportation, its constraints page and Dr. Iona Vale, whose page rests on it.
+
+Both have since been priced in *What the Record Refuses* (*kept, but priced*) and filed as consequences of the cosmology, under Dermot's 2026-09-10 label *hard science fiction with one licensed deviation*. Neither clashes with the rest of the record, so neither is a dilemma under the earlier-approval rule. They are recorded so that their origin is known.
+
 Not sorted here: Copilot's later runs from 28 May onwards, each with its own
 prompt, and PR #2's fifteen-rank hierarchy, whose prompt PR #2 does not
 preserve. Dermot ruled the hierarchy valid on 2026-11-10, and the bootstrap's
