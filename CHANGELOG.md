@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Church Space's footer theme now loops cleanly** (`src/audio/rotational-hum.m4a`, `lib/editions.js`, `story-bible/music-prompts.md`, 2026-11-10, Opus, Dermot's pick among choices). *Rotational Hum* had been cut off at four minutes while still playing, so on repeat it stopped dead and faded back in, and it played well above the house level. It is now a 1:54 seamless loop of the same recording, from its opening through its first bright section, at the house level of −18 LUFS. The music is otherwise unchanged.
+
 - ***The Long White Trail*: fictional codex, at best** (`src/journal/the-long-white-trail.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's pick among choices). The Journal entry gains a dated section. The forty seconds the film is about were never his. Its standing is at most in-story fiction, a story someone in the world might have made up, so no idea from it enters canon under his own-videos rule. It stays in the Journal because it is very elegant as a video.
 
 - **Early drafts, second batch reviewed** (`story-bible/early-drafts-review.md`, `story-bible/prose-needs-your-voice.md`, 2026-11-10, Opus, #1746). Copilot's four other characters, six timeline entries and three Codex entries all stand. Quantum Space Harmonics and high-risk teleportation are both Dermot's, as he corrected the same day; Copilot first wrote them up on 27 and 28 May. The forty seconds, he confirmed, were not his. Both have since been priced and filed under the one licensed deviation, and neither clashes with the record.
