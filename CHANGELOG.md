@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A critical review of the early drafts, set up** (`story-bible/early-drafts-review.md`, `story-bible/open-questions.md`, 2026-11-10, Opus, Dermot's *"Every in those early drafts should be subjected to a critical review and reevaluation"*). A worklist of the 100 content pages first written before 3 July 2026 states what the review may change, what each page is read against, and who reads what. The review runs as issues: #1746 for Opus, #1747 for Fable's read of the eight Season 1 chapters, and #1748 for the desktop. No page is reviewed yet.
+
 - **The 27 May bootstrap, sorted by origin** (`story-bible/prose-needs-your-voice.md`, 2026-11-10, Opus, Dermot's *"Yes, sort the bootstrap details"*). Each particular the Copilot bootstrap introduced is graded against Dermot's brief: in the visible brief, probably in its truncated part, or most likely the tool's own. No canon changes.
 
 - **Where the forty seconds came from** (`story-bible/prose-needs-your-voice.md`, `story-bible/music-prompts.md`, 2026-11-10, Opus, Dermot's *"Option A"*). Threshold's forty-second discrepancy first appears in the Copilot bootstrap of 2026-05-27, not in a choice Dermot remembers making. The provenance note now lists it under a new section for details the tools chose, and records his remark about the risk of starting with Copilot or Sudowrite. The music file's house signature no longer says the clock "runs slow": the gap is fixed and never grows, as the glossary says. No canon changes.
