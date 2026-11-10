@@ -3,8 +3,8 @@ layout: lore-entry.njk
 title: "Solar Time and Local Calendars"
 category: "Timeline Notes"
 tags: [timeline, solar-time, calendar, chronology, standards]
-description: "Every inhabited world keeps its own solar calendar for daily life; UCSD and Galactic Stardate exist because no single one of those calendars could be allowed to govern the others."
-plain: "Solar time is the calendar each inhabited world keeps for itself, reckoned from its own star: its own day, year and hours. No two agree and none has to. That works for one world and fails as soon as two must agree on when something happened, which is why two shared systems sit above it: UCSD for administrative and Archive records, and Galactic Stardate for deep time too old for any planet's orbit to measure. Archive records keep UCSD and treat a world's solar calendar as local colour."
+description: "Every inhabited world keeps its own solar calendar for daily life; UCSD exists because no single one of those calendars could be allowed to govern the others."
+plain: "Solar time is the calendar each inhabited world keeps for itself, reckoned from its own star: its own day, year and hours. No two agree and none has to. That works for one world and fails as soon as two must agree on when something happened, which is why UCSD sits above it for administrative and Archive records. For deep time too old for any people's years, the Archive reads Galactic Stardate, a coordinate and not a calendar. Archive records keep UCSD and treat a world's solar calendar as local colour."
 image: "solar-time-and-local-calendars.jpg"
 image_alt: "Designed title card on a near-black star field in warm amber: the category TIMELINE NOTES in spaced capitals at the top, a thin clock face with hands held in a soft glow, and below a short rule the title SOLAR TIME AND LOCAL CALENDARS in pale serif capitals, subtitled 'Every World Keeps Its Own' and 'And no single calendar could be allowed to rule'."
 ---
@@ -15,12 +15,12 @@ Ask a dockhand what day it is and the honest answer depends entirely on which wo
 
 ## Why Two More Systems Exist
 
-Solar time works perfectly for a single world and fails immediately the moment two worlds need to agree on when something happened. That failure is why [Universal Concord Standard Date](/star-rangers/lore/universal-cosmic-stardate/) and [Galactic Stardate](/star-rangers/lore/galactic-stardate/) exist at all — not to replace solar time, which nobody could enforce even if they wanted to, but to sit above it for the records that have to survive contact with more than one sky.
+Solar time works perfectly for a single world and fails immediately the moment two worlds need to agree on when something happened. That failure is why [Universal Concord Standard Date](/star-rangers/lore/universal-cosmic-stardate/) exists at all — not to replace solar time, which nobody could enforce even if they wanted to, but to sit above it for the records that have to survive contact with more than one sky.
 
 - **Solar time** — local, civil, personal. What a season, a birthday, or a harvest means on a given world.
 - **UCSD** — administrative. What a Survey Corps log, a Codex entry, or a cross-Concordant archive uses to keep mixed-species records in the same sequence.
-- **Galactic Stardate** — deep-time. What survives when the worlds themselves don't: pre-contact archaeology, migrations, and history too old to trust any single planet's orbit to measure.
+- **[Galactic Stardate](/star-rangers/lore/galactic-stardate/)** — not a calendar but a deep-time coordinate, read from galactic rotation. It places what predates every count of years, as a geological age does, and is far too coarse to date a history.
 
 ## In Practice
 
-A Ranger posted to a new world learns its solar calendar within the first season, out of necessity, and rarely stops privately measuring the year in it, even after the posting ends. Archive records do not care. They keep UCSD, cite Galactic Stardate where the timescale demands it, and treat the world's own solar calendar as local colour: real to the people living it, invisible to the ledger.
+A Ranger posted to a new world learns its solar calendar within the first season, out of necessity, and rarely stops privately measuring the year in it, even after the posting ends. Archive records do not care. They keep UCSD, cite Galactic Stardate only where the age runs past every count of years, and treat the world's own solar calendar as local colour: real to the people living it, invisible to the ledger.

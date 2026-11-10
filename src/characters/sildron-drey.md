@@ -8,7 +8,7 @@ status: Historical
 aliases:
   - "Director Drey"
 tags: [msc, mars, sol-system, solar-command, consolidation-hearing, founding, pre-charter, history, human]
-description: "The Military Space Command's Director of Operations through the Eden years — the officer who had argued the technocratic case in writing before General Krast ever said it out loud, held for nine years the post that had to execute it, and did not come back from the leave she took the spring after the hearing."
+description: "The Military Space Command's Director of Operations through the Eden years — the officer who had argued the case for rule by qualified officers in writing before General Krast ever said it out loud, held for nine years the post that had to execute it, and did not come back from the leave she took the spring after the hearing."
 image: "sildron-drey.jpg"
 image_alt: "Sildron Drey, a woman in her fifties with short grey hair, in a dark brown-grey Military Space Command uniform with a short row of small collar stars and a line of dull braid at the cuffs, standing at a plain pale desk with her hands on it, looking down at a folio; through the window behind her, pale domes on the red plain of Mars."
 ---
@@ -20,7 +20,7 @@ Drey came up through the Military Space Command's operations track rather than i
 ## Known History
 
 - Born 2662 UCSD; commissioned into the MSC's operations staff track in 2684 and posted to Solar Command, Mars, where she spent effectively her entire career.
-- Overlapped at Solar Command with [Maren Solveig Krast](/star-rangers/characters/maren-solveig-krast/), three years her junior and commissioned five years after her, on the engineering track rather than the staff one. They were contemporaries and not intimates, and Drey's own account of the case for technocratic command is that she arrived at it herself, from the same teaching every officer of that intake received, and would have held it had Krast never existed.
+- Overlapped at Solar Command with [Maren Solveig Krast](/star-rangers/characters/maren-solveig-krast/), three years her junior and commissioned five years after her, on the engineering track rather than the staff one. They were contemporaries and not intimates, and Drey's own account of the case for command by qualified officers is that she arrived at it herself, from the same teaching every officer of that intake received, and would have held it had Krast never existed.
 - Wrote *On the Cost of Speed* (2698 UCSD), a staff paper defending deliberate slowness as a design property rather than a defect — the qualified, footnoted, historically-argued version of the position Krast would state in one sentence at the Outer Stations Consolidation Hearing. It entered the Solar Command officer-track syllabus and stayed there for thirty years.
 - Appointed Director of Operations in 2711 UCSD, holding the post through the entire [Eden](/star-rangers/lore/eden-space-habitat/) sequence: the eleven months to form an investigative committee, the fourteen months to a preliminary report classifying Eden's fold-adjacent position as monitoring-recommended, and the six years to follow-up findings.
 - Drafted the terms of reference for Eden's monitoring officer, and twice requested in writing that the post be given authority to act without further committee approval. Both requests were answered that the change required committee review. Both answers were correct.

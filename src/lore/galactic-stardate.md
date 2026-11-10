@@ -3,30 +3,31 @@ layout: lore-entry.njk
 title: "Galactic Stardate"
 category: "Timeline Notes"
 tags: [timeline, stardate, chronology, standards, galactic-rotation]
-description: "A long-range stardate system measured by galactic rotation cycles rather than planetary years."
-plain: "Galactic Stardate counts time by the galaxy's rotation rather than by any planet's year, because planetary years differ by world and by species and a galactic cycle is shared by all of them. It is the calendar for history that crosses Concordants: events spanning many worlds, long migrations and pre-contact archaeology. UCSD stays the standard for daily records and mission logs, and archives may cite both. Where chronology must hold across several planets or species, Galactic Stardate is the authoritative timestamp."
+description: "A deep-time dating coordinate read from galactic rotation, for events older than any people's own count. Not a calendar: the record keeps none."
+plain: "Galactic Stardate is a way of placing very old events, not a calendar. It reads a position in the galaxy's slow rotation, which takes some two hundred million years to come round, so it can place what happened long before any people kept years, the way a geological age can, but it is far too coarse to date a life or a century. The record keeps no galactic calendar. Within the span of civilisations it dates by UCSD and by each people's own years."
 image: "galactic-stardate.jpg"
 image_alt: "Designed cover for Galactic Stardate: a sundial device, a circle with tick marks and a single hand, in a warm amber glow on a near-black field, the category TIMELINE NOTES above and the title beneath, with the lines Measured by Galactic Rotation and Cycles, not planetary years."
 ---
 
-When archives must outlast planets, they stop trusting planets as their clock. That is the civic logic behind Galactic Stardate.
+When a date runs past every people's count of years, the Archive stops counting and reads a position instead. That is all Galactic Stardate is.
 
-Galactic Stardate is the deep-time calendar used for cross-[Concordant](/star-rangers/glossary/concordant/) history. Unlike local calendars, it is anchored to **galactic rotational phase**, not planetary orbital years.
+**Galactic Stardate** is a deep-time dating coordinate: a phase of the galaxy's rotation, read against the drift markers the Survey Corps' astrometric arrays keep, and used to place events older than any people's own years can reach. It is **not a calendar**, and the record keeps none (see [No Galactic Calendar](/star-rangers/lore/timekeeping-and-the-common-record/#no-galactic-calendar)).
 
-## Core Principle
+## What it reads
 
-- **Primary unit:** rotational fraction of the Milky Way analog's full core-orbit cycle.
-- **Reference frame:** fixed against galactic center drift markers maintained by Survey Corps astrometric arrays.
-- **Reasoning:** planetary-year systems vary by world and species; galactic rotation provides a shared, non-local baseline.
+- **Unit:** a fraction of one rotation of the local stars about the galaxy's centre, a cycle of some two hundred million years.
+- **Reference:** galactic-centre drift markers kept by Survey Corps astrometric arrays. The pulsar ephemeris serves the present, and this coordinate serves the deep past.
+- **Resolution:** coarse. It places an event as a geological age does, and it cannot order a century, let alone a day.
 
-## Practical Use
+## What it is for
 
-- Galactic Stardate is used for events spanning many worlds, long migrations, and pre-contact archaeology.
-- UCSD remains the standard for day-to-day records and mission logs.
-- Archives may cite both forms together, with UCSD for local sequencing and Galactic Stardate for deep chronology.
+The age of things that predate every count of years: pre-contact remains, the oldest migrations a world's record can infer, the ruin no people remembers building. An archive cites it beside the other evidence of age, never in place of a dated record.
 
-## Canonical Rule
+## What it is not
 
-When chronology must remain stable across multiple planets or species timescales, Galactic Stardate is the authoritative timestamp.
+- **Not a calendar.** A calendar would need a galactic present, and nothing in physics supplies one.
+- **Not authoritative over anyone's years.** Within the span of civilisations the record dates by [UCSD](/star-rangers/lore/universal-cosmic-stardate/) and by each people's own years, converted beside UCSD and never replaced.
+
+Older filings call Galactic Stardate a calendar and *the authoritative timestamp* for history that crosses many worlds. That usage is retired. The coordinate was never fine enough to carry it, and a year is always somebody's year.
 
 Local calendars remain the norm for the worlds themselves; see [Solar Time and Local Calendars](/star-rangers/lore/solar-time-and-local-calendars/).
