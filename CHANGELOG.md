@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Year Zero no longer claims the 2826 arrivals were arranged** (`src/lore/year-zero.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's pick among choices). The bootstrap's *"not coincidental"* becomes the record's open question: whether the arrivals are more than coincidence, it has not established.
+
 - **Pages lock once readers arrive** (`CLAUDE.md`, `lib/locked-pages.js`, `lib/locked-pages.json`, `scripts/lock-pages.js`, `scripts/check-locked-pages.js`, `.github/workflows/ci.yml`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus with a Sonnet subagent, Dermot's picks among choices). A page locks when a reader comments, replies or reacts on its thread, or by his hand from Search Console views. A locked page's assertions are frozen. CI fails a change to one without a `Locked-Page:` trailer naming an allowed fix, and fails one that lifts a lock. No page is locked yet.
 - **The bootstrap's lore and glossary reviewed** (`story-bible/early-drafts-review.md`, `src/lore/predatory-entities.md`, `src/lore/krenyi.md`, 2026-11-10, Opus, #1746). Of 13 pages, 11 stand and two take a clarification. *Year Zero*'s *"not coincidental"* goes to Dermot as a dilemma.
 
