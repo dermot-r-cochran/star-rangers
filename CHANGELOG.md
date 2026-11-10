@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **An earlier approval is no shield** (`CLAUDE.md`, `story-bible/early-drafts-review.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's *"Even if I did approve an idea earlier on, it is subject to review if it clashes with everything else"*). An idea that clashes with the rest of the record is a genuine dilemma, put to him as choices, even if he approved it earlier.
+
 - **Galahad's *Sir* is part of his name; the record no longer calls Elvira *the Enchantress*** (`src/characters/galahad-thorne.md`, S01E02C00, S01E02C01, `CLAUDE.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's picks among choices). The bootstrap's *territorial honour* is replaced. *Sir* was given with his name, and no knighthood stands behind it. *The Enchantress* stays as the locals' misclassification and leaves Elvira's two POV labels. A medieval game between the two is allowed but not asserted. The rank hierarchy and the bootstrap's five characters are ruled valid.
 
 - **A critical review of the early drafts, set up** (`story-bible/early-drafts-review.md`, `story-bible/open-questions.md`, 2026-11-10, Opus, Dermot's *"Every in those early drafts should be subjected to a critical review and reevaluation"*). A worklist of the 100 content pages first written before 3 July 2026 states what the review may change, what each page is read against, and who reads what. The review runs as issues: #1746 for Opus, #1747 for Fable's read of the eight Season 1 chapters, and #1748 for the desktop. No page is reviewed yet.
