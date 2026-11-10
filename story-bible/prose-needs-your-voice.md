@@ -140,9 +140,13 @@ be checked, because the spec's text is cut.
 
 This grade is a reading, not a finding, and it stays open to his correction. Quantum Space Harmonics and high-risk teleportation, below, were his although the visible brief names neither.
 
-- *People.* Rook-7 by name; Elvira; Aldera, a cyber-enhanced cat; Sub-officer
-  Pren Halvard; Station Manager Cors Delveyne. The brief has a robot and smart
-  pets but names none of them.
+- *People.* Rook-7 by name; Sub-officer Pren Halvard; Station Manager Cors
+  Delveyne. The brief has a robot and smart pets but names none of them.
+  **Corrected 10 November 2026:** Elvira and Aldera, a cyber-enhanced cat, were
+  listed here and are his own inventions (Dermot, verbatim: *"the Aldera and
+  Elvira characters were invented by me"*), and *The Broken Causeway*
+  (`s01e02c01`) was drafted in Sudowrite before the Copilot agent committed
+  it. Their particulars below stay in this grade until he says otherwise.
 - *Their particulars.* Galahad's twelve years, six prior postings and the
   territorial honour behind *Sir*. Syra's age, about 150. Rook-7's older
   civilian chassis and its unexplained sensor arrays. Elvira at the Marsh
