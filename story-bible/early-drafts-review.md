@@ -31,7 +31,10 @@ clarification or genuine dilemma** (`CLAUDE.md`). That ratification is no
 shield: Dermot, 10 November 2026, verbatim, *"Even if I did approve an idea
 earlier on, it is subject to review if it clashes with everything else"*. A page
 that clashes with the rest of the record is a dilemma for him, however it was
-approved. So each page ends with one of these outcomes, recorded in its row:
+approved. **This is development, and it stops page by page as readers arrive:**
+a page whose thread draws a reader is locked (`lib/locked-pages.json`, `CLAUDE.md`),
+and its row here can then only record *stands* or one of locking's named
+fixes. So each page ends with one of these outcomes, recorded in its row:
 
 - **Stands.** It holds against the current record and the house rules, and
   nothing needs doing.
