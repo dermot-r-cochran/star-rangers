@@ -111,7 +111,7 @@ outcome in its row as it lands, with the PR that landed it.
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
 | `src/characters/aldera.md` | 2026-05-27 | Copilot | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
-| `src/characters/dr-iona-vale.md` | 2026-05-28 | Copilot | 2 | Opus | stands (10 Nov): teleportation, her whole premise, is Copilot's (see provenance) but filed and priced in lore |
+| `src/characters/dr-iona-vale.md` | 2026-05-28 | Copilot | 2 | Opus | stands (10 Nov): her premise, high-risk teleportation, is Dermot's idea (his correction); Copilot first wrote it up |
 | `src/characters/elvira.md` | 2026-05-27 | Copilot | 2 | Opus | stands, with the record no longer naming her *the Enchantress* (`intake-2026-11-10.md`, #1750) |
 | `src/characters/galahad-thorne.md` | 2026-05-27 | Copilot | 6 | Opus | stands, with *Sir* made part of his name (`intake-2026-11-10.md`, #1750) |
 | `src/characters/karla-wender.md` | 2026-05-27 | committed by Dermot | 2 | Opus | pending |

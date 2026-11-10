@@ -91,8 +91,9 @@ as far as that entry says. Add a line here when another such detail is found.
   "inconsistent constants" and "boundary anomalies" and names no clock and no
   figure. GitHub truncates the brief, so the rest of it cannot be checked.
   **The idea of a small, stable wrongness that survives correction is your
-  brief's; the number is most likely the tool's.** You did not remember
-  choosing it. Since then it has carried a chapter title, Brother Fintan's
+  brief's; the number is the tool's.** Dermot confirmed it on 2026-11-10,
+  verbatim: *"The four seconds was definitely not mine"*, corrected by
+  him to *"forty seconds"* a moment later. Since then it has carried a chapter title, Brother Fintan's
   forty-second vigil (`src/codex/the-office-of-the-fortieth-second.md`), the
   boundary-zones lore, two journal entries and the trailer theme's late note.
   It stands as canon.
@@ -135,7 +136,7 @@ be checked, because the spec's text is cut.
 
 **3. Not in the visible brief, so most likely the tool's.**
 
-This grade is a reading, not a finding, and it stays open to his correction. Quantum Space Harmonics, below, was his although the visible brief does not name it.
+This grade is a reading, not a finding, and it stays open to his correction. Quantum Space Harmonics and high-risk teleportation, below, were his although the visible brief names neither.
 
 - *People.* Rook-7 by name; Elvira; Aldera, a cyber-enhanced cat; Sub-officer
   Pren Halvard; Station Manager Cors Delveyne. The brief has a robot and smart
@@ -164,10 +165,10 @@ This grade is a reading, not a finding, and it stays open to his correction. Qua
   names only in order, and *Quiet-Built* read as *self-construction through
   patience and clarity*.
 
-**Two larger ideas from the runs of 27 and 28 May** (found 2026-11-10, in the review's second batch, and corrected the same day). Neither is in the visible part of the brief:
+**Two larger ideas from the runs of 27 and 28 May, both Dermot's** (found 2026-11-10, in the review's second batch, and corrected by him the same day). Neither is in the visible part of the brief, and both were credited to the tool until he said otherwise:
 
 - **Quantum Space Harmonics is Dermot's** (his correction, 2026-11-10, verbatim: *"Quantum Space Harmonics is mine although might be supported by scientific literature so not entirely original"*). Commit `96a43c55` (27 May, *Add core lore expansions for hierarchy and FTL mechanics*) is where Copilot first wrote it up. So the absence of an idea from the visible brief does not make it the tool's: he held ideas outside that text, and the cut part of the brief may carry more. Which parts of the faster-than-light pages beyond the idea itself are his, such as figures or fold transit's particulars, is not recorded. The literature he refers to is not named here.
-- **Teleportation is most likely Copilot's.** Commit `11eca653` (28 May, *Add teleportation lore, chapters, and character*) brought teleportation, its constraints page and Dr. Iona Vale, whose page rests on it. Nothing in the visible brief names it, and Dermot has not claimed it.
+- **High-risk teleportation is Dermot's too** (his correction, 2026-11-10, verbatim: *"High risk teleportation was also my idea"*). Commit `11eca653` (28 May, *Add teleportation lore, chapters, and character*) is where Copilot first wrote up teleportation, its constraints page and Dr. Iona Vale, whose page rests on it. The idea and its premise are his: teleportation that is dangerous, so it is limited and costs the body. Which particulars of the constraints page are his, and whether Iona Vale as a person is, are not recorded.
 
 Both have since been priced in *What the Record Refuses* (*kept, but priced*) and filed as consequences of the cosmology, under Dermot's 2026-09-10 label *hard science fiction with one licensed deviation*. Neither clashes with the rest of the record, so neither is a dilemma under the earlier-approval rule. They are recorded so that their origin is known.
 
