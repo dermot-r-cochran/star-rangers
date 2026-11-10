@@ -9,6 +9,7 @@ image: "ulessa.jpg"
 image_alt: "Ulessa, a large Mnemari with a warm ochre and russet hide banded in umber, standing on three tall arched legs that meet at a hub above her, her rounded body slung beneath on a thick column, a long curving neck reaching forward so her small-eyed head hangs at the height of a pale table with a few cream sheets on it, three short working limbs curled beneath her body, in a quiet room with pale neutral walls."
 aliases: []
 tags: [mnemari, ilenne, federation-of-sentient-beings, treaty-witness, mediation, memory, indefinite-lifespan, civilian]
+known_codex: [the-part-not-played]
 description: "A Mnemari treaty-witness of Ilenne, requested for a little over two centuries to Federation assembly sessions that revisit old compacts, who holds every table she has sat at in full and has never once been able to say that was a long time ago — the first Mnemari the record names."
 ---
 
@@ -22,6 +23,7 @@ Her name is given as the Federation record gives it, and nothing more is known o
 - Requested as a witness to assembly sessions revisiting old compacts for a little over two hundred years: the sessions are on the Federation record, and the record does not list them. Of all the tables she has sat at, she has been asked in the hearing of the Archive about none in particular.
 - One of the witnesses who raise the standing item of Federation self-criticism that the Ollune delegate is generally not in the room, the [Ollune](/star-rangers/lore/ollune/) position arriving by courier, lagged, and read into the record by someone who is not Ollune. The Ollune page says the item is raised most often by Mnemari witnesses, who cannot let the assembly forget how long it has been raised; it does not say which. Ulessa is one of them, and has said how long, to the session and the day, when asked.
 - Early Summer 2826 UCSD: requested to an assembly session revisiting the Star Rangers' material-support compact, on a proposal from Verdance's seat that member worlds formally ask the Survey Corps for its survey data of their own approaches ([Nobody Present](/star-rangers/seasons/s01/e00/s01e00c08/)). Asked for the words of the compact's data term as they were said at its first table, where she had been present in a year the record does not fix, she gave the term and the words after it: a mark from Cirrane, read into the record after the term was taken, asking where what the Corps learns of a lane is carried and whether a member that cannot come for it may have it, and the chair of that day's *Noted*. Asked by Prismere's seat whether she was certain, she answered that nobody present had been there. The first table the record places her at by name; how the session decided is not on it.
+- One answer of hers to a colleague is on file, undated: [The Part Not Played](/star-rangers/codex/the-part-not-played/), taken down by a clerk of the assembly who had sat through a Mnemari piece beside her and asked what had been missed. It is her account as a listener, valid for her.
 - In 2826 UCSD she is on the roll of witnesses the assembly requests, not Set Down, and the record places her nowhere else.
 
 ## The Work
