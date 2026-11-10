@@ -93,6 +93,13 @@ left as they stand.
 
 ---
 
+## Two points left by the critic read of #1741 to #1768 — recorded 10 November 2026; both OPEN, his, neither blocking
+
+The second critic read of 10 November landed its mechanical fixes and left two points that are Dermot's. A pull request body is not a record, so they are put here once, as options. Nothing is changed in `src/` for either.
+
+1. **Two Journal entries now disagree about whose the ideas are.** *Who Thought of It* (`src/journal/who-thought-of-it.md`, 26 July) says *"Every idea in this universe is mine. Not "mine after editing" — mine at the point of invention"*, lists *"The premise. The characters. The plot. The theology. The names."*, and says of the machine's share *"A great deal, and none of it is ideas."* *Questions a Researcher Might Ask* says *"The ideas are mine."* The section added to *The Long White Trail* on 10 November says *"the forty seconds were never my idea"*, and `prose-needs-your-voice.md` grades Rook-7's name, Station Kelvar and the bootstrap's figures as most likely the tool's (a reading, open to his correction). The Journal's readers are critics, reviewers and peer authors, and the site's disclosure of how it is written is load-bearing for them (`CLAUDE.md`). **(a)** A dated section on *Who Thought of It*, as *The Long White Trail* got one: the ideas are his, and some particulars, the forty seconds first among them, were the first tool's choices, which he ratified. **(b)** Change *The Long White Trail*'s *"never my idea"* to *"never my choice"*, on the provenance note's own distinction (the idea of a small, stable wrongness is his brief's; the number is the tool's), and leave *Who Thought of It* as it is. **(c)** Leave both. **Recommended: (a)**, with (b) beside it if he wants the distinction kept. It is his first-person account, so no wording is drafted here.
+2. **What his merge of #1760 settles.** The Seat's pull request said *"Do not merge: new canon, waiting for Dermot"*, and he merged it on 10 November. The section below still says *the PR waits for him*, its twelve choices still read as open, and the changelog still says *proposed*. **(a)** The merge accepts the page with the twelve as drafted, his to overrule, and the header below is changed to say so. **(b)** The page is up and the twelve stay open, each to be answered. **Recommended: (a)**, the pattern the weekly drafts already follow (*choices named in the PR, his to overrule*). Nothing in the section below is edited until he says which.
+
 ## The Seat and standing-beside — direction approved by Dermot 10 November 2026; carrier RULED the same day (*"The Five Islands"*); redrafted on the Casimor watch-post (`src/lore/the-seat.md`), OPEN: the PR waits for him
 
 `intake-2026-11-10.md`, *Inherited plurality*. The carrier is settled: the
@@ -139,7 +146,7 @@ recommendation where one exists.
     Decide."* The page does not read that as the name said once. Whether it
     was is his.
 
-## Three wording points left by the 9 November critic read (#1737) — recorded 10 November 2026 by the critic read of #1736 to #1740; 2 OPEN, his, not blocking; 1 and 3 answered
+## Three wording points left by the 9 November critic read (#1737) — recorded 10 November 2026 by the critic read of #1736 to #1740; all three answered
 
 The weekly critic read of 9 November left three wording points for Dermot. They were named in the body of #1737 and nowhere else, and a pull request body is not a record (`CLAUDE.md`, *Work that needs the desktop*; this file takes a line whenever something is left undecided). The second is put here once, as options; the first and third are already answered. Nothing is changed in `src/` or in the two story-bible files concerned.
 

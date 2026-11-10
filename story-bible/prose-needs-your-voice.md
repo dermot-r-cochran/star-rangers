@@ -78,7 +78,8 @@ the risk from using either Copilot or Sudowrite initially"*. The Sudowrite half
 of that risk is in the journal entry *Two Copies, Forty Seconds Apart*. Those
 drafts drifted from the committed files until the repository was made the one
 copy that counts. What reached the repository from Sudowrite is recorded only
-as far as that entry says. Add a line here when another such detail is found.
+as far as that entry says, and in the 10 November correction below (*The Broken
+Causeway*). Add a line here when another such detail is found.
 
 - **The forty seconds** (found 2026-11-10). Threshold Station's Dock Seven
   chronometers disagree by *forty seconds*, stable for eleven years and
@@ -103,7 +104,7 @@ as far as that entry says. Add a line here when another such detail is found.
 ### The 27 May bootstrap, sorted (2026-11-10)
 
 At your *"Yes, sort the bootstrap details"*. The bootstrap is commit
-`a0ca09a4` (2026-05-27, Copilot coding agent, PR #1). It wrote 31 content
+`a0ca09a4` (2026-05-27, Copilot coding agent, PR #1). It wrote 30 content
 files: 5 characters, 3 chapters, 8 glossary entries, 7 lore pages, 3 codex
 entries and 4 timeline events, about 10,000 words. Each particular below was
 checked against your brief as PR #1 preserves it. GitHub truncates that copy
