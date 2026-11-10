@@ -1911,3 +1911,11 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 - **Prompt / recipe:** impression round 2 in `images.md` § 42, verbatim
 - **Run:** two impression rounds of four after four Grok photographic rounds; impression round 2 variation 2 chosen.
 
+
+## 2026-11-10 — Military Space Command card relettered
+
+- **`lore/military-space-command.jpg`** (#1763), redrawn by `scripts/make-emblem-card.ps1` so its qualifier no longer names *technocracy*, after Dermot's ruling of 10 November that it counts as a named ideology. Only that line changed: *A benevolent technocracy that could not last* became *A benevolent rule by experts that could not last*. The original 12 August run recorded neither its tint nor its accent; the accent is the script's default, and the tint was recovered by sampling the old card, where `#1B2232` matched it to JPEG noise. Finish 0.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\military-space-command.md -Device chevron -Tint '#1B2232' -Epithet 'Before the Star Rangers' -Qualifier 'A benevolent rule by experts that could not last'
+```
