@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Two artefact extractors brought up to the day's images** (`scripts/extract-designs.js`, `scripts/extract-peoples.js`, 2026-11-10, Opus, the 1.65.0 release run). The Navigation Corps buoy's quote now matches its new alt text, and the rule table records Essaran's, Elsha Rootkin's and Oshek Var's portraits as removed. Both scripts had stopped on the change, so *Hulls and Habitats* and *Peoples and Bodies* could not be regenerated.
+
 ## [1.65.0] — 2026-11-10
 
 The early drafts are put under critical review, and four batches are read: most stand, Year Zero's arrivals are no longer called arranged, the forty seconds keep their number with the mechanism corrected, and *technocracy* and democracy are described rather than named. Pages will lock once readers arrive. Many images are brought into the 29th century or taken down, and Tavin Ledgekin's portrait now shows a mind attending. New proposed pages: *The Seat*, the fantasy *The Hour Nobody Had* and five Codex art entries. Church Space's footer theme now loops cleanly, and a local tool makes one-off image edits.
