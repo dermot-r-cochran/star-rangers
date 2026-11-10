@@ -68,6 +68,35 @@ sixteen. Expect more of this — five seasons of drafts written while the
 back half was provisional will have absorbed other numbers that only
 matter once they bind.
 
+## Details that came from the tools, not from you
+
+Some particulars of the canon were chosen by the AI tool that first wrote them
+down. You ratified them with everything else on 2026-07-25, so they bind. They
+are listed here so that nobody, you included, credits you with choosing them.
+Your remark on finding the first one (2026-11-10), verbatim: *"The seems to be
+the risk from using either Copilot or Sudowrite initially"*. The Sudowrite half
+of that risk is in the journal entry *Two Copies, Forty Seconds Apart*. Those
+drafts drifted from the committed files until the repository was made the one
+copy that counts. What reached the repository from Sudowrite is recorded only
+as far as that entry says. Add a line here when another such detail is found.
+
+- **The forty seconds** (found 2026-11-10). Threshold Station's Dock Seven
+  chronometers disagree by *forty seconds*, stable for eleven years and
+  returning within *forty-eight hours* of recalibration. The figures first
+  appear in commit `a0ca09a4` of 2026-05-27, by the Copilot coding agent, in
+  the bootstrap that answered your opening brief (PR #1). They appear there at
+  once in `src/glossary/instrument-drift.md`, S01E01C01, S01E01C02 *The
+  Forty-Second Discrepancy* and the first drift report in `src/timeline/`. The
+  visible part of your brief asks for the cosmology to be revealed through
+  "inconsistent constants" and "boundary anomalies" and names no clock and no
+  figure. GitHub truncates the brief, so the rest of it cannot be checked.
+  **The idea of a small, stable wrongness that survives correction is your
+  brief's; the number is most likely the tool's.** You did not remember
+  choosing it. Since then it has carried a chapter title, Brother Fintan's
+  forty-second vigil (`src/codex/the-office-of-the-fortieth-second.md`), the
+  boundary-zones lore, two journal entries and the trailer theme's late note.
+  It stands as canon.
+
 ## Season chapters (actual narrative prose — highest priority)
 
 - Season 0 (Founding Era): all of `s00/e01`, `s00/e02`, `s00/e03` (indexes + 6 chapters)
