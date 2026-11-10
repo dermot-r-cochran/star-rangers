@@ -9,14 +9,14 @@ status: Historical
 aliases:
   - "General Krast"
 tags: [msc, mars, sol-system, solar-command, history, human]
-description: "The Military Space Command general whose defence of technocratic rule at the Outer Stations Consolidation Hearing became the institution's most-quoted line — taught inside the MSC as doctrine, and repeated outside it as a warning."
+description: "The Military Space Command general whose defence of rule by qualified officers at the Outer Stations Consolidation Hearing became the institution's most-quoted line — taught inside the MSC as doctrine, and repeated outside it as a warning."
 image: "maren-solveig-krast.jpg"
 image_alt: "An official portrait of a grey-haired general in her fifties, in an austere high-collared slate uniform with small silver rank marks at the collar and shoulders, seated upright at a plain dark table with hands folded, looking straight at the camera against an even dark blue-grey wall"
 ---
 
 General Krast gave the Military Space Command its most durable line in a single unscripted answer, and died the following year, which spared her the discovery every other officer who repeated it eventually made: that a line durable enough to survive an institution's collapse does not stay owned by the person who said it.
 
-Krast rose through Solar Command's officer track on Mars across three decades in which the institution's technocratic self-confidence was at its least examined. She held a series of engineering-command postings before she was called, in 2719 UCSD, to give evidence to the Outer Stations Consolidation Hearing — convened, nominally, to review escalating grievances from outer-station and deep-range habitat delegations about the MSC's advisory-only council structure. She sat on no part of it. She was a witness, and by the eleventh week she was one the chair had already questioned at length.
+Krast rose through Solar Command's officer track on Mars across three decades in which the institution's confidence in its own expertise was at its least examined. She held a series of engineering-command postings before she was called, in 2719 UCSD, to give evidence to the Outer Stations Consolidation Hearing — convened, nominally, to review escalating grievances from outer-station and deep-range habitat delegations about the MSC's advisory-only council structure. She sat on no part of it. She was a witness, and by the eleventh week she was one the chair had already questioned at length.
 
 ## Known History
 
