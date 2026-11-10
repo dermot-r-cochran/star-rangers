@@ -54,9 +54,9 @@ Until step 5 is done, the comment widgets render but won't load (giscus rejects 
 
 ### Turning comments off for a specific build
 
-`COMMENTS_ENABLED` (read via `process.env` in `.eleventy.js`, defaulting to `true`) suppresses the widget on every page for that build, regardless of the per-page `comments`/`commentsCategory` front matter above. Two builds set it explicitly:
+`COMMENTS_ENABLED` (read via `process.env` in `.eleventy.js`, defaulting to `true`) suppresses the widget on every page for that build, regardless of the per-page `comments`/`commentsCategory` front matter above.
 
-- **GitHub Pages** (`.github/workflows/deploy.yml`) sets it `false` — Pages serves under `/star-rangers/`, unlike the root-served cPanel domains giscus's pathname mapping actually targets, so leaving it on there would just create a second, disconnected set of discussions for the same pages.
+- **GitHub Pages** (`.github/workflows/deploy.yml`) leaves it on. Until 2026-10-06 the Pages build served under `/star-rangers/` and set it `false`, because those pathnames matched none of the discussions giscus maps by pathname. Since then the Pages build is fianilchruinne.com served at the root, with the same pathnames the cPanel build of that domain used, so the discussions are shared rather than duplicated.
 - Any cPanel clone can opt out the same way with the `COMMENTS_ENABLED` (or `ALT_<id>_COMMENTS_ENABLED`) `deploy.conf` key above — useful for a staging/preview domain that shouldn't collect public comments at all.
 
 ## Cutting a release
