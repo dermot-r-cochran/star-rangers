@@ -907,6 +907,74 @@ Words that surface are the entry's; a generator that supplies its own where the
 humming should be has written a verse, and that is the codex's job, not the
 track's.
 
+### *The Verb That Was Left* — *An Briathar a Fágadh*, added 10 November 2026
+
+`src/codex/the-verb-that-was-left.md` — Gráinne Ní Chathail's note to a
+going-to-sleep song of one hull's households, in Union Irish. Dermot asked for the
+MyTunes prompt the same evening. **No recording exists**: the collection prints the
+air in a Union notation the desk has not reproduced, so a take is an impression of
+the song as the note describes it, never the air itself. The note decides the
+whole brief, in its own words: *one voice sings it; there is no instrument, and
+nobody remembers there ever being one; it is sung low and unhurried, and each line
+falls at its end; the four lines go through twice, and the second time the last
+word, mise, is held until the breath is done.*
+
+**The words are the published four lines, verbatim, sung twice and nothing more.**
+A take that adds a verse, a refrain or a vocable chorus has written lyrics, which
+is the Codex's job.
+
+**Why the lyrics box is respelled.** Dermot, 10 November 2026: *"MyTunes does accept
+a Lyrics prompt but its pronunciations are usual too American and less Irish
+sounding"*. So the lyrics box takes the same words spelled the way an English reader
+would say them in Connacht Irish. The respelling is a tool input and lives here
+only: the Codex entry keeps the Irish, and the dialect rule bars phonetic spelling
+in prose. The respelling has not yet been checked by an Irish speaker; that check is
+owed before a take is filed anywhere.
+
+| Field | |
+|---|---|
+| **Style** | sean-nós suantraí, a cappella, Irish-language lullaby, field recording |
+| **Mood** | low, patient, tender, unresolved |
+| **Instruments** | one low female voice, unaccompanied |
+| **Production** | sung close to one microphone in a small quiet room in the evening; a faint low steady hum in the walls under the voice; slight drift on held notes, never corrected; each line falling at its end; breath audible |
+| **Exclude** | instruments, piano, harp, strings, pad, music box, choir, harmony, reverb wash, vibrato, vocal runs, new verses, English words, applause |
+| **Form** | vocal, unmetered, about one minute: the four lines sung twice, the last word held the second time until the breath runs out, then silence |
+
+**One-box line for MyTunes' description** (181 characters, under its cut at 200):
+
+> Sean-nós suantraí, a cappella, one low female voice in Irish, slow, unmetered, each line falling at its end, small quiet room, faint low hum in the walls, slight drift on held notes
+
+**Lyrics box** (the four lines twice, respelled):
+
+> KHOO-ee un GHREE-un uh LEE,
+> KHOO-ee un TAY-un uh LEE,
+> KHOO-ee un LAW HART, uh STORE,
+> iss nee YAKH-uh MISH-eh.
+>
+> KHOO-ee un GHREE-un uh LEE,
+> KHOO-ee un TAY-un uh LEE,
+> KHOO-ee un LAW HART, uh STORE,
+> iss nee YAKH-uh MISH-ehhh.
+
+The words they stand for, as published: *Chuaigh an ghrian a luí, / chuaigh an
+t-éan a luí, / chuaigh an lá thart, a stór, / is ní dheachaigh mise.* (*Chuaigh*
+"went", *ghrian* "sun", *éan* "bird", *a luí* "to its bed", *lá* "day", *thart*
+"by", *a stór* "my dear", *ní dheachaigh* "did not go", *mise* "I".)
+
+**Settings:** vocal; female voice (the setting is sometimes ignored, so the
+description says *one low female voice* too); genre none, and *Classic* only if a
+take comes back with a beat; Live off.
+
+**Critic's read, 10 November 2026** (`music-critic`): passes the prompt ladder. Two
+risks named for the takes: MyTunes' song-shaped default may stretch a one-minute
+song to three and invent lines to fill it, which fails on the words; and *lullaby*
+alone pulls toward a music box and soft piano, which is why the style leads with
+*sean-nós* and *a cappella* and the excludes name them. For his ear only: whether
+the Irish sounds Irish, whether it is one voice with nothing under it but the hum,
+and whether the last *mise* is held.
+
+- **Tool:** MyTunes (phone app) · **Date:** · **Seed:** · **Takes:**
+
 ---
 
 ## Textures, not themes
