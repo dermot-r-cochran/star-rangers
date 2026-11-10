@@ -112,6 +112,7 @@ python scripts/photo-finish.py --measure src/images/lore/x.jpg   # a generated i
 ```
 ```bash
 node scripts/image-prompts.js           # work through the prompts already written in story-bible/images.md — clipboard one at a time, or generate via Gemini (untracked gemini.local.json; sample in scripts/)
+node scripts/image-edit.js --prompt p.txt --out image-out/x frame.jpg [ref.jpg]   # a one-off edit of a filed frame (swap one object) or a reference-led generation; files nothing (10 Nov 2026)
 node scripts/build-photo-catalogue.js   # rebuild story-bible/own-photography.json from the sibling dermot-cochran-photography checkout, so the pipeline offers Dermot's own photos before generating
 node scripts/mark-placeholder.js        # stamp a JPEG's COM segment as PLACEHOLDER so the image queue stops counting it as finished work
 blender -b -P scripts/blockouts/vaurel.py -- out.png   # a body built from its design in Blender, then made photographic by an image edit; the route when text prompts keep drawing an Earth animal (Vaurel, 26 Oct 2026)
