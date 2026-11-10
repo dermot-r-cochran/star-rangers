@@ -93,6 +93,35 @@ left as they stand.
 
 ---
 
+## The Seat and standing-beside — approved as a direction by Dermot 10 November 2026, DRAFTED same day on Fable (`src/lore/the-seat.md`), OPEN: the PR waits for him
+
+`intake-2026-11-10.md`, *Inherited plurality*. Each is drafted at its least
+committal reading; a recommendation is marked where one exists.
+
+1. **The carrier.** (a) Unnamed, as drafted: *certain human households
+   descended from a generation ark and living now under Concord law*, the ark
+   not established. (b) Households of the Celtic Union, whose page already has
+   *the households that kept it on purpose*; it would mean saying whose law the
+   friction is with, since the Union is not the Concord. (c) The Tally; it would
+   move *no role that is not rotated*. (d) The Kingdom of the Five Islands,
+   which he raised the same day, and its Casimor watch-post, *handed keeper to
+   keeper*: it would add a seat that is already a watch and a kingdom that has
+   already taken office away from blood once; it would move the Five Islands
+   pages (the watch is held *on service rather than blood* and keeps the
+   Castle), put a people outside Concord law under the page's law section, and
+   make the Tollick keepers plural. Nothing on a Five Islands page was touched.
+2. **Seats as ark posts.** Drafted as the households' own account, filed as
+   theirs and uncontradicted. The other shape: the record states it.
+3. **A never-fronted member holding a seat.** Drafted as not yet said.
+4. **Local variance under *in most jurisdictions*.** Drafted as none: they live
+   under the standard rule and the friction stands (recommended).
+5. **Names.** *The Seat*, *standing-beside*, *the cup*, *the name said once*,
+   and the two seat names *Midwatch* and *the Door* are working names, given as
+   renderings. No Union Irish line and no glossary entry yet.
+6. **Plural *by upbringing*.** The page says the households are plural by
+   upbringing and reports no bodily finding. The other shape: say nothing of how.
+7. **The elder who dies before the name is said.** Drafted as not yet said.
+
 ## The Verdani history, Ruvel Swardkin — the weekly Fable pass of 9 November 2026, stage 3c — DRAFTED same day on Fable (the line read as a position spoken), choices named in the PR, his to overrule
 
 The Verdani line of the *Histories in their own voices* series below, the
