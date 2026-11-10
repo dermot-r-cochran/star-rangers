@@ -9,7 +9,7 @@ location: "Survey Archive general collection, Threshold Station — copy of a cl
 tags: [mnemari, ilenne, federation-of-sentient-beings, ulessa, treaty-witness, memory, music, xenomusicology, codex-art]
 image: "the-part-not-played.jpg"
 image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading As Taken Down, and the title The Part Not Played above the subtitle A Mnemari piece that sounds only where it differs, the line Federation record, copied to the Survey Archive, and the name Ulessa, treaty-witness."
-description: "A clerk of the Federation assembly sits through a Mnemari piece that is mostly rests and asks the witness beside her what was missed. Ulessa answers: among listeners who forget nothing a piece is never played again, so a new one is a reply to an old one each listener still holds, and sounds only where it departs. She declines to hum the old one, says what the clerk did and did not have, and says why she had the clerk let in."
+description: "A clerk of the Federation assembly sits through a Mnemari piece that is mostly rests and asks the witness beside her what was missed. Ulessa answers: in her gathering, among listeners who forget nothing, a piece is never played again, so a new one is a reply to an old one each listener still holds, and sounds only where it departs. She declines to hum the old one, says what the clerk did and did not have, and says why she had the clerk let in."
 ---
 
 **Status:** Held as a clerk's deposit in the Federation record, copied to the general collection; valid for its author, and read as one listener's account of her people's music and not a maker's (see the receiving desk's note)
@@ -40,7 +40,7 @@ What was played last night was a reply. The piece it replies to was played on Il
 
 *(I asked how long ago. She said I would want a count, and that she does not keep one, but that it was a little before she was first requested to the assembly.)*
 
-Among us a piece is not played again to people who have it. They have it. To play it to them again would be to tell them they might not, and there is no one of mine of whom that is true. So a maker who has something to say about an old piece cannot do what I understand your makers do, which is to play the old tune and then turn it. The old piece is in the room already. Everyone who was there has it, entire. The maker plays only where the new piece departs from the old. Where the new one agrees with the old, the players rest.
+In the gathering I listen with, a piece is not played again to people who have it. I cannot speak for other gatherings; I have not sat in them. They have it. To play it to them again would be to tell them they might not, and there is no one of mine of whom that is true. So a maker who has something to say about an old piece cannot do what I understand your makers do, which is to play the old tune and then turn it. The old piece is in the room already. Everyone who was there has it, entire. The maker plays only where the new piece departs from the old. Where the new one agrees with the old, the players rest.
 
 *(I said: then the rests are the old piece.)*
 
@@ -88,7 +88,7 @@ No. I shall have "short", though. It is in mine now, where the door is in the ot
 
 ### Receiving desk's note, continued
 
-*Filed Cultural Record, valid for its author. The record held nothing of Mnemari music before this deposit and holds nothing beside it. The author speaks as a listener and says she is not a maker; she says "among us", and the Archive files that as her account of the music she knows, not as a rule of Ilenne. Neither piece is on file. The clerk made no recording and noted no instrument, and the record holds none.*
+*Filed Cultural Record, valid for its author. The record held nothing of Mnemari music before this deposit and holds nothing beside it. The author speaks as a listener and says she is not a maker; she speaks for the one gathering she listens with and says she cannot speak for others, and the Archive files it as that gathering's custom in her account, not as a rule of the Mnemari or of Ilenne. Neither piece is on file. The clerk made no recording and noted no instrument, and the record holds none.*
 
 *What a listener who is not Mnemari has of such a piece, by both accounts: all of the sound and a fraction of the work. The author does not soften this and the desk does not. A recording of the evening would hold what the clerk heard and no more. A recording of the first piece, if one existed, would hold its sound; it would not hold what any of the twelve brought into the room, which by her account was each listener's own hearing and differed with where she had been.*
 
