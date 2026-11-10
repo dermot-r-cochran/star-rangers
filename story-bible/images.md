@@ -3713,6 +3713,7 @@ nested-sphere diagrams.
 
 - **`universal-cosmic-stardate.jpg`** — *a paper timescale kept by an ensemble of clocks no institution owns.*
   > A plain room holding six identical sealed instrument housings on separate isolated plinths, well spaced apart, each one unmarked and giving nothing away, in a space that is plainly kept very still. Cool even light, no cables in shot, no readouts. The agreement between them is the instrument and none of them is it. Matte white, grey stone, deep shadow.
+  - **Remade for the century 10 November 2026** (Opus, desktop), at Dermot's *"Anachronistic?"*. The filed frame drew the housings as steel canisters with latch handles, like milk churns, on rough granite in a stained concrete room under a blue grade, which is 20th century. A first round in the century form gave smooth tall capsules with a violet sight port on the front, and the ports read as single eyes, so the six looked like small robots watching. The second round, filed, makes each housing a low, squat sealed block on a pale isolation pedestal. A small flush window on the top face shows the trapped atoms' faint violet glow, seen from slightly above. That glow is the frame's one hint of the century, allowed because physics may glow. Every front feature is negated, along with eyes, faces, capsules and pill shapes. Round 2, variation 2 of three, his pick. The old frame is `negative-examples/universal-cosmic-stardate-2026-11-10.jpg`.
 
 ---
 

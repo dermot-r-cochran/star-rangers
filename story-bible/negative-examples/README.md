@@ -37,15 +37,16 @@ and a hint shared by several frames carries its fault into each of them.
 | `s01e02-machinery-2026-11-10.jpg` | Season 1, Episode 2 (hero) | A stock photograph from the 13 July hero batch: a run-down factory hall of worn lathes, rust, loose tools and a bottle on a cabinet. Grunge, and a 20th-century factory. Dermot: *"too untidy?"* | Removed. |
 | `s01e03-archive-2026-11-10.jpg` | Season 1, Episode 3 (hero), also the Start page | A stock photograph from the same batch: paper folders on wooden shelves with printed "ARCHI" labels. A records room of today, with readable lettering; nothing in it is out of place, so it does not read as symbolic. Dermot: *"maybe symbolic or maybe outdated?"* | Removed from both pages. |
 
-## Four replaced the same evening, 10 November 2026
+## Five replaced the same evening, 10 November 2026
 
-Dermot flagged four more filed frames. Each one was replaced and nothing was removed. The full record is in each frame's entry in `images.md`.
+Dermot flagged five more filed frames. Each one was replaced and nothing was removed. The full record is in each frame's entry in `images.md`.
 
 | Thumbnail | Page | What failed | Outcome |
 | --- | --- | --- | --- |
 | `tavin-ledgekin-2026-11-10.jpg` | Tavin Ledgekin | The body was pushed into the bottom-right corner, and the vane's base ran off the bottom-left edge. The vane passed in front of the body instead of growing out of it. Dermot: *"Needs realignment"*, and Meril Duskkin's portrait as the better example of the body. | Replaced by an edit with Meril's frame as a reference for the joint: the vane rises from the crest of a mound that fills the bottom of the frame. |
 | `stillwater-first-hall-2026-11-10.jpg` | Stillwater Station (*The First Hall*) | The whole room was a 3D render, and the figure looked like a game character. Dermot: *"Person in Stillwater hall does not look real"*. | Replaced by a fresh generation from the unchanged prompt. Two edits of the render had kept the render. |
 | `what-nobody-certifies-2026-11-10.jpg` | What Nobody Certifies | The room was today's gallery: chipped plaster, framed niches and medallions hanging from nails. Dermot: *"Anachronistic?"* | Replaced from a new prompt in the century form: a seamless, kept wall with moulded recesses and flush clips. |
+| `universal-cosmic-stardate-2026-11-10.jpg` | Universal Concord Standard Date: Count and Calibration | Steel canisters with latch handles, like milk churns, on rough granite in a stained concrete room under a blue grade: the 20th century. Dermot: *"Anachronistic?"* The first redo failed another way: tall capsules with a port on the front read as eyes. | Replaced by low sealed blocks on pedestals, with the atoms' glow seen through a window on top. |
 | `plainmark-2026-11-10.jpg` | The Plainmark | Eight rainbow bands, with figures the standard does not have, broke the page's own grammar. The ISS-style clutter and the wheel hatch were today's. | Replaced from a prompt that spells the panel out band by band, written with the Plainmark guide. |
 
 ## Lessons for the next prompt
