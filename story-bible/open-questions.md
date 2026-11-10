@@ -256,7 +256,7 @@ The next chapter of Tissadelle's middle under the 18 October ruling (option A, b
 
 ## The early drafts, reviewed — raised by Dermot 10 November 2026, OPEN (work, not a ruling)
 
-His direction, verbatim: *"Every in those early drafts should be subjected to a critical review and reevaluation"*. The worklist is `early-drafts-review.md`: 100 pages first written before 3 July 2026, each ending as stands, clarify, extend, a dilemma for him, or a prose pass for Fable. The issues are #1746 (Opus), #1747 (Fable's read of the eight chapters) and #1748 (desktop: the full 27 May brief and the tool behind each of his 39 pages). What reaches him is each dilemma, as choices.
+His direction, verbatim: *"Every in those early drafts should be subjected to a critical review and reevaluation"*. The worklist is `early-drafts-review.md`: 100 pages first written before 3 July 2026, each ending as stands, clarify, extend, a dilemma for him, or a prose pass for Fable. The issues are #1746 (Opus), #1747 (Fable's read of the eight chapters) and #1748 (desktop: the full 27 May brief, not found on GitHub, and the tool behind each of his 39 pages, answered 10 November; see the review's Scope). What reaches him is each dilemma, as choices.
 
 ## A theme and title for the trailers — raised 5 November 2026, RULED 6 November 2026
 
