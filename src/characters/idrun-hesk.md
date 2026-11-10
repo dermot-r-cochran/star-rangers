@@ -8,7 +8,7 @@ status: Active
 aliases: []
 tags: [ilveth, sardain, cold-world, heat-thrift, author, non-humanoid, histories-in-their-own-voices]
 description: "An Ilveth of Sardain, a sealer of a buried working floor, who at the Survey Archive's asking gave the history of the Ilveth in warmth, outside, at night, at full price, and glossed it in her own click-speech for a Survey Corps reader — the author of the seventh history of a non-human people the record holds in that people's own voice, whose warm-write the Archive holds and cannot read."
-known_codex: [shown-to-the-sky]
+known_codex: [shown-to-the-sky, the-wall-that-said-one-thing]
 ---
 
 Idrun Hesk is an [Ilveth](/star-rangers/lore/ilveth/) of Sardain and, by her own account, a sealer: one who keeps a buried working floor from showing its heat. The record holds one account of hers, and holds it twice: [Shown to the Sky](/star-rangers/codex/shown-to-the-sky/), the history of the Ilveth as she gave it, in the warm-write, outside, at night, on the ice within sight of her province's ground, recorded by a Survey Corps reader's imager and unread by anyone in the Archive; and her own click-speech gloss of it, given passage by passage after each had cooled, which is the text the Archive files. She answered the Archive's asking after an interval the desk did not measure, and named her terms before she gave anything: not in a room, and not in the day-register. The Archive has the gloss, the imager's record, and three passages she wrote in warmth and did not gloss, which the desk marks and does not supply.
@@ -19,6 +19,7 @@ She is Ilveth, cold-bodied, and **not humanoid**, as her species' page says of a
 
 - A sealer of a buried working floor on Sardain, by her own account, undated. The record holds buried floors, banked heat and insulation raised to the level others reserve for art ([The Ilveth](/star-rangers/lore/ilveth/), *They Dug for Fire*), and names no trade; the trade is hers.
 - Gave the history of the Ilveth at the Survey Archive's asking, in warmth, under the open sky at night, with a Survey Corps reader present in the field shell and an imager that passes the thermal band and decides nothing. The telling took most of a Sardain night. She rested the day after and asked that the rest not be counted against the telling, *since the telling had been paid for already* ([Shown to the Sky](/star-rangers/codex/shown-to-the-sky/)).
+- Gave a second sitting, in click-speech and under a roof, to answer whether a sealer keeps anything for the work's own sake: [The Wall That Said One Thing](/star-rangers/codex/the-wall-that-said-one-thing/), on one custom of her floor, which she gives as her floor's and no wider. In it she says she was taught by an older sealer, whom she does not name.
 - Was not on the watch that saw the survey's first landing party, and says so; gives that part of the history as *what everyone has*.
 - Has never, by anything in the account, left Sardain or served in any corps. The record's one other named Ilveth took Corps service; this one stayed, and the account is given from the side that stayed.
 
