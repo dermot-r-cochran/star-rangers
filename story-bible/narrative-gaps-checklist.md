@@ -164,6 +164,9 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   she asks for a finding and writes the mark. Her page and his cite it. Not
   paid, and not owed by it: what the Dún Rí household knew, and whether any
   affection forms (the reserved singular exception, still in play, not shown).
+  **Allowed, not asserted** (Dermot, 10 November 2026): a medieval game
+  between the two of them, *Sir Galahad* and *the Enchantress*, would be
+  fine. No page says it until a chapter shows it (`intake-2026-11-10.md`).
 - [ ] **Tissadelle at the terminus; Tobble's downgraded inner codex** — the
   register ruled 27 August (fond farewell, almost no grief), the mechanism
   deliberately unwritten until its chapters (`tissadelle-arc-s6-7.md`).

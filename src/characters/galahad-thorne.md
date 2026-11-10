@@ -47,4 +47,4 @@ Galahad does not mythologise things. When he encounters something he cannot expl
 
 He is not immune to patterns he does not yet understand. He is simply unwilling to name a pattern before the data supports it. He knows these are different qualities.
 
-His title — "Sir" — comes from a territorial honour that applies to a territory that still technically exists: an old Earth-descended grant, of the kind the Expansion left scattered behind it. He uses it because rank carries less weight than title at the boundary posts, and because he has never particularly cared what it means to other people.
+"Sir" is not a title. It is the first part of the name he was registered under, *Sir Galahad*, given by parents who liked the old stories, and no knighthood, grant or honour stands behind it. He gives the whole name when he introduces himself, because it is his, and he has never particularly cared what it suggests to other people.

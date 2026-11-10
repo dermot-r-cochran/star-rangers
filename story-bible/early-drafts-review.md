@@ -104,16 +104,16 @@ outcome in its row as it lands, with the PR that landed it.
 
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
-| `src/characters/aldera.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
+| `src/characters/aldera.md` | 2026-05-27 | Copilot | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
 | `src/characters/dr-iona-vale.md` | 2026-05-28 | Copilot | 2 | Opus | pending |
-| `src/characters/elvira.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
-| `src/characters/galahad-thorne.md` | 2026-05-27 | Copilot | 6 | Opus | pending |
+| `src/characters/elvira.md` | 2026-05-27 | Copilot | 2 | Opus | stands, with the record no longer naming her *the Enchantress* (`intake-2026-11-10.md`, #1750) |
+| `src/characters/galahad-thorne.md` | 2026-05-27 | Copilot | 6 | Opus | stands, with *Sir* made part of his name (`intake-2026-11-10.md`, #1750) |
 | `src/characters/karla-wender.md` | 2026-05-27 | committed by Dermot | 2 | Opus | pending |
 | `src/characters/mira-of-brine.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
 | `src/characters/qiren-tal.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
-| `src/characters/rook-7.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
+| `src/characters/rook-7.md` | 2026-05-27 | Copilot | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
 | `src/characters/sethka-ru.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
-| `src/characters/syra.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
+| `src/characters/syra.md` | 2026-05-27 | Copilot | 4 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
 | `src/characters/tissadelle-shepherd.md` | 2026-05-27 | committed by Dermot | 1 | Opus | pending |
 
 ### Lore
