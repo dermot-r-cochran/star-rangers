@@ -49,7 +49,16 @@ Dermot flagged five more filed frames. Each one was replaced and nothing was rem
 | `universal-cosmic-stardate-2026-11-10.jpg` | Universal Concord Standard Date: Count and Calibration | Steel canisters with latch handles, like milk churns, on rough granite in a stained concrete room under a blue grade: the 20th century. Dermot: *"Anachronistic?"* The first redo failed another way: tall capsules with a port on the front read as eyes. | Replaced by low sealed blocks on pedestals, with the atoms' glow seen through a window on top. |
 | `plainmark-2026-11-10.jpg` | The Plainmark | Eight rainbow bands, with figures the standard does not have, broke the page's own grammar. The ISS-style clutter and the wheel hatch were today's. | Replaced from a prompt that spells the panel out band by band, written with the Plainmark guide. |
 
+## Two more the same night, 10 November 2026
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `sentinel-2026-11-10.jpg` | Sentinel (also the clip's poster) | The survey receiver was a 1960s lunar experiment package: a seamed metal box on three spindly legs over a hanging dish. Dermot: *"Is this anachronistic?"* | Replaced by an edit that changed only the receiver, and the clip was remade from the new still. |
+| `star-rangers-navigation-corps-2026-11-10.jpg` | The Navigation Corps | The beacon buoy was a 20th-century satellite: riveted panels, an antenna grid, thrusters and stained metal. The prompt's *quietly out of date* drew old hardware. | Replaced by a clean, sealed buoy whose drift shows only in its tilt. |
+
 ## Lessons for the next prompt
+
+- **A word about age goes to the object.** *Out of date* or *old* in a prompt makes the generator draw old hardware. Put the age where it belongs, in the route, the tilt or the record, and describe the object itself as kept.
 
 - **Edits of a render stay a render.** To make a rendered frame look photographed, generate it again; an edit only swaps objects.
 - **Give a sign system its grammar, not its look.** A loose description of a sign system draws a rainbow of today's signage. Spell out each band, figure and count.
