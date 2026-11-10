@@ -97,6 +97,75 @@ as far as that entry says. Add a line here when another such detail is found.
   boundary-zones lore, two journal entries and the trailer theme's late note.
   It stands as canon.
 
+### The 27 May bootstrap, sorted (2026-11-10)
+
+At your *"Yes, sort the bootstrap details"*. The bootstrap is commit
+`a0ca09a4` (2026-05-27, Copilot coding agent, PR #1). It wrote 31 content
+files: 5 characters, 3 chapters, 8 glossary entries, 7 lore pages, 3 codex
+entries and 4 timeline events, about 10,000 words. Each particular below was
+checked against your brief as PR #1 preserves it. GitHub truncates that copy
+partway into its Part 4, the technical brief, so three grades are used. They
+record origin only. Everything listed was ratified on 2026-07-25 and stands as
+canon, and much of it has since been revised or built on.
+
+**1. In your brief, as far as it is visible.** The Five Layers and their
+order. The Cascade's order and its names, Hyperomnium to Levrils. The rule that
+foundational layers never speak or act. The no-magic rule, with its four
+lawful explanations, *Telerarch-level enforcement misinterpreted as divinity*
+among them. Slow revelation through failed rituals, broken tech, inconsistent
+constants, prophecy errors and boundary anomalies. Every Krenyi trait the
+bootstrap gives them: long life, beauty, the high female birthrate, no
+interbreeding, the fear and anger caps, polyamorous and loyal, honest, no small
+talk, briefly gullible, pattern drift and withdrawn relevance, resisting
+glamour and mythification, unenslavable, and the words *Krenyi*, *Nai* and
+*Quiet-Built*. Court-Fae and their food and residue, Gilded Saints, the cute
+predators (*tickle bugs*, *lamb-masks*), Egregores and Tulpas, the elven kinds,
+naiads, dryads and oreads. Levrils as bounded dragons, meta-dragons and their
+coherence costs, and dragons mentoring in *constraint literacy*. The robots and
+cyber-enhanced animals of a *"smart pets" detective agency* as anti-beautiful-
+monster sensors. One canonical timeline, with misclassification held only as
+belief.
+
+**2. Probably in your brief, in the truncated part.** PR #1's summary, written
+by the tool, gives a *"Chapter schema (per spec)"* whose example names **Sir
+Galahad Thorne (Human)**, **Syra (Krenyi)**, **Threshold Station, Orbital Dock
+Seven**, the title *Arrival at the Threshold Station* and *Year 0, Early
+Autumn, Dawn*. If *per spec* means what it says, those came from you. It cannot
+be checked, because the spec's text is cut.
+
+**3. Not in the visible brief, so most likely the tool's.**
+
+- *People.* Rook-7 by name; Elvira; Aldera, a cyber-enhanced cat; Sub-officer
+  Pren Halvard; Station Manager Cors Delveyne. The brief has a robot and smart
+  pets but names none of them.
+- *Their particulars.* Galahad's twelve years, six prior postings and the
+  territorial honour behind *Sir*. Syra's age, about 150. Rook-7's older
+  civilian chassis and its unexplained sensor arrays. Elvira at the Marsh
+  Causeway outpost for three years, her predecessor gone unexplained, the
+  locals' *Enchantress*, no deep fear, and her kind unclassified. Aldera's logs.
+- *Places.* The Marsh Causeway and its ruins; Section G of Threshold Station;
+  panel 7-C; Station Kelvar.
+- *Figures.* The forty seconds, the forty-eight hours and the eleven years
+  (above). The crew of forty-seven, ozone 0.3% above standard, chronometers
+  C-7A and C-7B, Reports 7, 14 and 22, the 3:7 frequency ratio, the eighteen
+  months before a second report, Kelvar's three-minute discrepancy, the
+  protocol's version 2.3, and the 500 survey-units.
+- *Plot.* Elvira's three failed rituals; a Court-Fae entity feeding on them;
+  Aldera holding the answer unasked; the administration's possible suppression
+  of data; and the line *"The coincidence of these arrivals is not
+  coincidental."*
+- *Readings of your cosmology.* A Concordant as a bounded region with its own
+  physics, a boundary zone as two Concordants meeting, and instrument drift as
+  time running differently on each side. Your brief names *boundary
+  interference between Concordants* but not these mechanics. Also the roles
+  given to Metawrights, Formwrights, Archewrights and Frenar, which the brief
+  names only in order, and *Quiet-Built* read as *self-construction through
+  patience and clarity*.
+
+Not sorted here: Copilot's later runs from 28 May onwards, each with its own
+prompt, and PR #2's fifteen-rank hierarchy, whose prompt PR #2 does not
+preserve.
+
 ## Season chapters (actual narrative prose — highest priority)
 
 - Season 0 (Founding Era): all of `s00/e01`, `s00/e02`, `s00/e03` (indexes + 6 chapters)
