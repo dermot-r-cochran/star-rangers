@@ -17,7 +17,7 @@ Against the 2026-08-10 list:
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
 | **Below the Roof** — three chapters | **Twenty-four**, across three seasons (11, 12 and 14) |
-| **Season 3** — two chapters | **Nine** (*What Meridian Asked* added; *Aware of Weather* opened Episode 2, 4 October 2026; *Honest Clocks* added 5 October 2026, the record's first chapter outside the local archecluster; *For the Record*, *Standing Practice* and *Pending a Lead* added 18 October 2026; *Received* added 2 November 2026, the revisit home and the department ended; *Spent* opened Episode 3, 9 November 2026, the word asked for her first command, with Shepherd in none of its rooms) |
+| **Season 3** — two chapters | **Ten** (*What Meridian Asked* added; *Aware of Weather* opened Episode 2, 4 October 2026; *Honest Clocks* added 5 October 2026, the record's first chapter outside the local archecluster; *For the Record*, *Standing Practice* and *Pending a Lead* added 18 October 2026; *Received* added 2 November 2026, the revisit home and the department ended; *Spent* opened Episode 3, 9 November 2026, the word asked for her first command, with Shepherd in none of its rooms) |
 
 **The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
 
