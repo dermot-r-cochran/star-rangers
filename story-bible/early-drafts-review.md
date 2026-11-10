@@ -31,7 +31,10 @@ clarification or genuine dilemma** (`CLAUDE.md`). That ratification is no
 shield: Dermot, 10 November 2026, verbatim, *"Even if I did approve an idea
 earlier on, it is subject to review if it clashes with everything else"*. A page
 that clashes with the rest of the record is a dilemma for him, however it was
-approved. So each page ends with one of these outcomes, recorded in its row:
+approved. **This is development, and it stops page by page as readers arrive:**
+a page whose thread draws a reader is locked (`lib/locked-pages.json`, `CLAUDE.md`),
+and its row here can then only record *stands* or one of locking's named
+fixes. So each page ends with one of these outcomes, recorded in its row:
 
 - **Stands.** It holds against the current record and the house rules, and
   nothing needs doing.
@@ -125,26 +128,26 @@ outcome in its row as it lands, with the PR that landed it.
 |---|---|---|---|---|---|
 | `src/lore/ai-safety-kernel.md` | 2026-05-28 | committed by Dermot | 1 | Opus | pending |
 | `src/lore/ai-usage-credits.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
-| `src/lore/boundary-zones.md` | 2026-05-27 | Copilot | 5 | Opus | pending |
+| `src/lore/boundary-zones.md` | 2026-05-27 | Copilot | 5 | Opus | stands (#1746 review, 10 Nov): the bootstrap's two Concordants meeting became an inter-membrane flexure, and Threshold a shore station, before this review |
 | `src/lore/civilisation-comparison.md` | 2026-06-26 | committed by Dermot | 1 | Opus | pending |
-| `src/lore/cosmic-cascade.md` | 2026-05-27 | Copilot | 5 | Opus | pending |
+| `src/lore/cosmic-cascade.md` | 2026-05-27 | Copilot | 5 | Opus | stands (10 Nov): the bootstrap's denials in the record's voice (contact with the Hyperomnium, *divine punishment* in religions) no longer stand on the page |
 | `src/lore/creative-entropy-framework.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
 | `src/lore/dryadic-trees.md` | 2026-05-28 | Copilot | 3 | Opus | pending |
 | `src/lore/eden-space-habitat.md` | 2026-05-28 | Copilot | 2 | Opus | pending |
-| `src/lore/five-layers.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
+| `src/lore/five-layers.md` | 2026-05-27 | Copilot | 4 | Opus | stands (10 Nov): *nothing to contact* and *not a god* no longer stand on the page |
 | `src/lore/formation-of-star-rangers.md` | 2026-05-28 | Copilot | 3 | Opus | pending |
 | `src/lore/ftl-mechanics.md` | 2026-05-27 | Copilot | 3 | Opus | pending |
 | `src/lore/galactic-stardate.md` | 2026-05-28 | Copilot | 3 | Opus | pending |
 | `src/lore/glossary/canonical-glossary-and-migration-guide.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
-| `src/lore/krenyi.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
+| `src/lore/krenyi.md` | 2026-05-27 | Copilot | 2 | Opus | stands, with a clarify: image alt no longer says *not a grey alien* (usage rule) |
 | `src/lore/lagrange-fold-points.md` | 2026-05-29 | committed by Dermot | 1 | Opus | pending |
-| `src/lore/levrils.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
+| `src/lore/levrils.md` | 2026-05-27 | Copilot | 4 | Opus | stands (10 Nov) |
 | `src/lore/meta-dimensional-beings.md` | 2026-05-27 | committed by Dermot | 2 | Opus | pending |
 | `src/lore/military-space-command.md` | 2026-05-28 | Copilot | 4 | Opus | pending |
 | `src/lore/noogenic-seeding-system.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
 | `src/lore/physics-comparison.md` | 2026-05-27 | committed by Dermot | 3 | Opus | pending |
 | `src/lore/post-eleven-dimensional-manifold.md` | 2026-05-28 | Copilot | 3 | Opus | pending |
-| `src/lore/predatory-entities.md` | 2026-05-27 | Copilot | 2 | Opus | pending |
+| `src/lore/predatory-entities.md` | 2026-05-27 | Copilot | 2 | Opus | stands, with a clarify: *sapient* marked as observed capability, not a someone (the Unfounded rule) |
 | `src/lore/quantum-space-harmonics.md` | 2026-05-28 | Copilot | 2 | Opus | pending |
 | `src/lore/seed-mind-lifecycle.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
 | `src/lore/star-rangers-safety-corps.md` | 2026-05-29 | committed by Dermot | 2 | Opus | pending |
@@ -156,19 +159,19 @@ outcome in its row as it lands, with the PR that landed it.
 | `src/lore/universe-overlap-and-folding.md` | 2026-05-27 | Copilot | 3 | Opus | pending |
 | `src/lore/universes/threnos-omega.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
 | `src/lore/worldwrights/competing-designs.md` | 2026-06-30 | committed by Dermot | 1 | Opus | pending |
-| `src/lore/year-zero.md` | 2026-05-27 | Copilot | 5 | Opus | pending |
+| `src/lore/year-zero.md` | 2026-05-27 | Copilot | 5 | Opus | dilemma, for Dermot: *"The coincidence of these arrivals is not coincidental"* (the bootstrap's line) is a claim the Archive cannot hold |
 
 ### Glossary
 
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
 | `src/glossary/ai-usage-credits-auc.md` | 2026-06-30 | committed by Dermot | 3 | Opus | pending |
-| `src/glossary/boundary-zone.md` | 2026-05-27 | Copilot | 6 | Opus | pending |
+| `src/glossary/boundary-zone.md` | 2026-05-27 | Copilot | 6 | Opus | stands (10 Nov) |
 | `src/glossary/celestials.md` | 2026-05-27 | Copilot | 5 | Opus | pending |
 | `src/glossary/champions-heroes.md` | 2026-05-27 | Copilot | 5 | Opus | pending |
-| `src/glossary/concordant.md` | 2026-05-27 | Copilot | 5 | Opus | pending |
+| `src/glossary/concordant.md` | 2026-05-27 | Copilot | 5 | Opus | stands (10 Nov): governance sense already migrated to Universal Authority |
 | `src/glossary/conseleme.md` | 2026-05-27 | committed by Dermot | 4 | Opus | pending |
-| `src/glossary/constraint-literacy.md` | 2026-05-27 | Copilot | 5 | Opus | pending |
+| `src/glossary/constraint-literacy.md` | 2026-05-27 | Copilot | 5 | Opus | stands (10 Nov) |
 | `src/glossary/cosmic-cascade.md` | 2026-05-27 | committed by Dermot | 4 | Opus | pending |
 | `src/glossary/court-fae.md` (removed since) | 2026-05-27 | Copilot | 4 | Opus | removed; no review |
 | `src/glossary/creative-entropy-index-cei.md` | 2026-06-30 | committed by Dermot | 3 | Opus | pending |
@@ -181,10 +184,10 @@ outcome in its row as it lands, with the PR that landed it.
 | `src/glossary/higher-dimensional-folding.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
 | `src/glossary/hyperomnium.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
 | `src/glossary/inner-world-depth-iwd.md` | 2026-06-30 | committed by Dermot | 3 | Opus | pending |
-| `src/glossary/instrument-drift.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
+| `src/glossary/instrument-drift.md` | 2026-05-27 | Copilot | 4 | Opus | stands (10 Nov) |
 | `src/glossary/kieme.md` | 2026-05-27 | committed by Dermot | 4 | Opus | pending |
-| `src/glossary/krenyi.md` | 2026-05-27 | Copilot | 4 | Opus | pending |
-| `src/glossary/levril.md` | 2026-05-27 | Copilot | 6 | Opus | pending |
+| `src/glossary/krenyi.md` | 2026-05-27 | Copilot | 4 | Opus | stands (10 Nov) |
+| `src/glossary/levril.md` | 2026-05-27 | Copilot | 6 | Opus | stands (10 Nov) |
 | `src/glossary/naiad.md` | 2026-05-27 | committed by Dermot | 3 | Opus | pending |
 | `src/glossary/noogenic-seed-potential-nsp.md` | 2026-06-30 | committed by Dermot | 3 | Opus | pending |
 | `src/glossary/noogenic-seeding-law.md` | 2026-06-30 | committed by Dermot | 3 | Opus | pending |

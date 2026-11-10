@@ -6,6 +6,9 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pages lock once readers arrive** (`CLAUDE.md`, `lib/locked-pages.js`, `lib/locked-pages.json`, `scripts/lock-pages.js`, `scripts/check-locked-pages.js`, `.github/workflows/ci.yml`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus with a Sonnet subagent, Dermot's picks among choices). A page locks when a reader comments, replies or reacts on its thread, or by his hand from Search Console views. A locked page's assertions are frozen. CI fails a change to one without a `Locked-Page:` trailer naming an allowed fix, and fails one that lifts a lock. No page is locked yet.
+- **The bootstrap's lore and glossary reviewed** (`story-bible/early-drafts-review.md`, `src/lore/predatory-entities.md`, `src/lore/krenyi.md`, 2026-11-10, Opus, #1746). Of 13 pages, 11 stand and two take a clarification. *Year Zero*'s *"not coincidental"* goes to Dermot as a dilemma.
+
 - **An earlier approval is no shield** (`CLAUDE.md`, `story-bible/early-drafts-review.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's *"Even if I did approve an idea earlier on, it is subject to review if it clashes with everything else"*). An idea that clashes with the rest of the record is a genuine dilemma, put to him as choices, even if he approved it earlier.
 
 - **Galahad's *Sir* is part of his name; the record no longer calls Elvira *the Enchantress*** (`src/characters/galahad-thorne.md`, S01E02C00, S01E02C01, `CLAUDE.md`, `story-bible/intake-2026-11-10.md`, 2026-11-10, Opus, Dermot's picks among choices). The bootstrap's *territorial honour* is replaced. *Sir* was given with his name, and no knighthood stands behind it. *The Enchantress* stays as the locals' misclassification and leaves Elvira's two POV labels. A medieval game between the two is allowed but not asserted. The rank hierarchy and the bootstrap's five characters are ruled valid.
