@@ -22,11 +22,18 @@ before Claude Code's first commit (3 July). That is 100 pages:
   **Answered 10 November 2026** (#1748, page by page in a desktop session).
   Dermot added that M365 Copilot or Sudowrite may have paraphrased his
   original ideas, so the *By* column separates the idea from the wording:
-  16 pages are his idea and his words, 21 are his idea in M365 Copilot's
-  wording, none is Sudowrite's, and he does not remember for two
-  (`s01e03c01`, the canonical glossary guide). No page was the tool's idea.
-  The Day 49 maintenance log is his idea in M365's wording; its forty-second
-  figure is the 27 May bootstrap's, which he confirmed was not his.
+  16 pages are his idea and his words, 20 are his idea in M365 Copilot's
+  wording, none is Sudowrite's, and he does not remember for three
+  (`s01e03c01`, the canonical glossary guide, the Day 49 maintenance log).
+  He named none as the tool's idea. The Day 49 log was first recorded as his
+  idea; he then said it may not have been, or not fully, and does not
+  remember. Its forty-second figure is the 27 May bootstrap's, which he
+  confirmed was not his.
+
+  **Two corrections to the Copilot rows, same day.** *The Broken Causeway*
+  (`s01e02c01`), committed by the Copilot agent on 27 May, was drafted in
+  Sudowrite. And Elvira and Aldera are characters he invented, whoever first
+  wrote their pages and chapters.
 
 Copilot also edited pages in this period that it did not write. The *Copilot
 commits* column counts every Copilot commit to a page, so a page committed by
@@ -108,7 +115,7 @@ outcome in its row as it lands, with the PR that landed it.
 |---|---|---|---|---|---|
 | `src/seasons/s01/e01/s01e01c01.md` | 2026-05-27 | Copilot | 6 | Fable | pending |
 | `src/seasons/s01/e01/s01e01c02.md` | 2026-05-27 | Copilot | 5 | Fable | pending |
-| `src/seasons/s01/e02/s01e02c01.md` | 2026-05-27 | Copilot | 4 | Fable | pending |
+| `src/seasons/s01/e02/s01e02c01.md` | 2026-05-27 | Copilot, from a Sudowrite draft (Dermot, 10 Nov) | 4 | Fable | pending |
 | `src/seasons/s01/e02/s01e02c02.md` | 2026-05-28 | Copilot | 2 | Fable | pending |
 | `src/seasons/s01/e02/s01e02c03.md` | 2026-05-28 | Copilot | 2 | Fable | pending |
 | `src/seasons/s01/e02/s01e02c04.md` | 2026-05-28 | Copilot | 3 | Fable | pending |
@@ -119,9 +126,9 @@ outcome in its row as it lands, with the PR that landed it.
 
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
-| `src/characters/aldera.md` | 2026-05-27 | Copilot | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
+| `src/characters/aldera.md` | 2026-05-27 | Copilot; the character is Dermot's invention | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
 | `src/characters/dr-iona-vale.md` | 2026-05-28 | Copilot | 2 | Opus | stands (10 Nov): her premise, high-risk teleportation, is Dermot's idea (his correction); Copilot first wrote it up |
-| `src/characters/elvira.md` | 2026-05-27 | Copilot | 2 | Opus | stands, with the record no longer naming her *the Enchantress* (`intake-2026-11-10.md`, #1750) |
+| `src/characters/elvira.md` | 2026-05-27 | Copilot; the character is Dermot's invention | 2 | Opus | stands, with the record no longer naming her *the Enchantress* (`intake-2026-11-10.md`, #1750) |
 | `src/characters/galahad-thorne.md` | 2026-05-27 | Copilot | 6 | Opus | stands, with *Sir* made part of his name (`intake-2026-11-10.md`, #1750) |
 | `src/characters/karla-wender.md` | 2026-05-27 | Dermot: his idea and words | 2 | Opus | stands (10 Nov) |
 | `src/characters/mira-of-brine.md` | 2026-05-27 | Copilot | 2 | Opus | stands (10 Nov) |
@@ -213,7 +220,7 @@ outcome in its row as it lands, with the PR that landed it.
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
 | `src/codex/incident-report-001.md` | 2026-05-27 | Copilot | 6 | Opus | stands (10 Nov) |
-| `src/codex/maintenance-log-day-49-dock-seven.md` | 2026-07-01 | Dermot: his idea, M365 Copilot wording | 3 | Opus | stands (10 Nov) |
+| `src/codex/maintenance-log-day-49-dock-seven.md` | 2026-07-01 | committed by Dermot; M365 Copilot wording; whose idea not remembered | 3 | Opus | stands (10 Nov) |
 | `src/codex/rook-7-first-week-log.md` | 2026-05-27 | Copilot | 6 | Opus | stands (10 Nov): Rook-7's two-way suspicion is valid for its author |
 | `src/codex/survey-corps-protocol.md` | 2026-05-27 | Copilot | 8 | Opus | stands (10 Nov): its *Concordant boundary* is the protocol's own era usage, which `glossary/concordant.md` settles plainly (Threshold is not that case) |
 
