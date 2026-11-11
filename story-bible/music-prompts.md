@@ -928,8 +928,13 @@ a Lyrics prompt but its pronunciations are usual too American and less Irish
 sounding"*. So the lyrics box takes the same words spelled the way an English reader
 would say them in Connacht Irish. The respelling is a tool input and lives here
 only: the Codex entry keeps the Irish, and the dialect rule bars phonetic spelling
-in prose. The respelling has not yet been checked by an Irish speaker; that check is
-owed before a take is filed anywhere.
+in prose. **Checked by ear, 11 November 2026:** Dermot heard take 1 and the Irish came
+through as Irish (*"it sounded right to me"*), and he chose to record that as the check
+(*"Yes, record it"*). That is enough for a take kept as an impression. If a take is
+ever placed on the Codex page as the song's sound, a fluent speaker's check comes
+first, because that is a stronger claim. The record gives the Union's Irish no accent,
+and this song came through by ear rather than by the rebuilding, so a living sean-nós
+sound is the right stand-in for it.
 
 | Field | |
 |---|---|
@@ -1469,9 +1474,9 @@ absences.
   opening's level and a fade to nothing by the end, which matches the held last
   word. Card: a creased, stained paper note on a wooden floor in window light,
   with the title lettered on it; it does not travel. Dermot's verdict, 10 November
-  2026: *"It sounds fine to me"*. Not in `src/audio/`: no page uses it, and the
-  entry's owed check stands, an Irish speaker's ear on the respelling, before a
-  take is filed anywhere.
+  2026: *"It sounds fine to me"*. Not in `src/audio/`: no page uses it. The
+  Irish was checked by his ear on 11 November 2026 (the prompt entry above); a
+  fluent speaker's check comes first if a take is ever put on the Codex page.
 
 ### told-theme.m4a
 - **Type:** generation, then a loop edit
