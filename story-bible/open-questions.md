@@ -93,6 +93,28 @@ left as they stand.
 
 ---
 
+## The Codex art slate and the in-story fantasy — 10 November 2026 — DRAFTED same day on Fable and merged the same day; read as ACCEPTED by his merges, on the precedent of his 11 November answer on *The Seat*; choices named in the PRs, his to overrule (recorded 11 November 2026 by the critic read of #1769 to #1788)
+
+Nine Codex entries were drafted on Fable on 10 November and merged that day. Until this section the only record of his directions and of the choices in them was four pull request bodies and the changelog. A pull request body is not a record, so they are put here once. Nothing in `src/` is changed by this section.
+
+**The fantasy.** Dermot's direction, verbatim: *"An in-story fantasy fiction that rejects all known 20th century or medieval tropes but includes unique or 29th century concepts"*. Drafted as *The Hour Nobody Had* (`src/codex/the-hour-nobody-had.md`, #1778), by a new in-world author, Merrin Aldwater, who has a character page. No intake section was written that day, and the changelog names the direction without quoting it, so this is its place in the record.
+
+**The art slate.** Eight numbered pitches for Codex entries, made in session on 10 November and not filed. All eight were drafted at his words: *"Yes, 1, 4 and 7"* (#1780: *Twice, and a Remainder*, *The Verb That Was Left*, *Nobody in Anybody's Light*), *"Yes, draft them"* (#1781, pitches 5 and 3: *The Wall That Said One Thing*, *The Part Not Played*) and *"Yes please"* (#1783, pitches 2, 6 and 8: *It Weighs Nothing*, *A Standing Rate*, *Two Blocks and Four Strokes*). Nothing of the slate is left undrafted. Each entry is Cultural Record, valid for its author, tagged `codex-art`, with no `canon_facts`.
+
+**What the merges settle.** Each of the four pull requests said it was not merged, or not for merge, until he had read it, and each was merged on 10 November. The same question was put to him about *The Seat* and answered on 11 November (the section below). These four are read as that answer reads #1760: each merge accepts the pages with their choices as drafted, and each choice is still his to overrule. That is settled here on his precedent and the pattern of the weekly drafts (*choices named in the PR, his to overrule*), not by a new answer of his; if he would rather the choices stayed open, each to be answered, he need only say so. The changelog entries that say *proposed* are left as written.
+
+**The choices that reach past their own entry.** The full lists are in the pull request bodies; these are the ones a later page could trip on.
+
+1. *The Verb That Was Left*: that Union Irish regularised the verb *téigh* at all, with the forms *théigh* and *níor théigh*; Gráinne Ní Chathail's account of why the old past left speech; and her reading of her own rule as silent on what is not a gap. All three are hers and filed as hers, and `src/lore/celtic-union-of-planets.md` is untouched. If he would rather the Union kept *chuaigh*, the entry does not stand as drafted.
+2. *It Weighs Nothing*: a second posting for Ilse Varga, aboard a Corps carrier at Cirrane in 2822 UCSD. Her page now says *two postings*.
+3. *A Standing Rate*: a body of metal kept across one seam on Nerath and held in turns, and a small one grown for Vela of the Seam when she asked to go into air. Her page now says *two documents*.
+4. *The Part Not Played*: that Mnemari music exists, and that in one gathering a piece is never played again; the first piece was played on Ilenne a little before Ulessa was first requested, which the record's conversion puts shortly before 2626 UCSD, with no year set.
+5. *The Wall That Said One Thing*: a second sitting with Idrun Hesk, and that she was taught by an older sealer she does not name. Her page still lists how a sealer comes to the work among the things the record does not carry, and that sentence is left as it stood.
+6. *Nobody in Anybody's Light*: that the Tidewrights' Guild keeps its keepers' season notes open and the Federation record carries them in a rendering. Meril Duskkin's page now reads *no account of his own in his own words but one*.
+7. *Twice, and a Remainder*: the square-cut room and the teaching floor's translating set, placed in no named settlement; Euclid named once in the desk's note, under the Codex citation rule.
+8. *Two Blocks and Four Strokes*: a new author, Nkem Fairlie, with a character page; the Compact's schedule office and its public inspection returns; and one ring's meaning of *household*, whoever sleeps behind one pressure door.
+9. *The Hour Nobody Had*: Merrin Aldwater and Second Watch Press; a general fiction shelf in Eden's library; and the fifth band, which the story never explains.
+
 ## Two points left by the critic read of #1741 to #1768 — recorded 10 November 2026; both answered 11 November 2026
 
 The second critic read of 10 November landed its mechanical fixes and left two points that are Dermot's. A pull request body is not a record, so they are put here once, as options. Nothing was changed in `src/` for either until he answered. **Both answered 11 November 2026**, in one reply, verbatim: *"Options and recommendations accepted"*.

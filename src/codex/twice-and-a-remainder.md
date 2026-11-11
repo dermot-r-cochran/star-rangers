@@ -34,7 +34,7 @@ So we do not wait. We take away.
 
 Take the side from the line across. It goes once, and something is left, less than the side. The room gives you that for nothing: it is the gap between the two returns. Keep it. Now take what was left from the side. It goes twice, and something is left again, less again.
 
-Here is the turn, and I give it in remarks because the set will not give you the rock. Cut a square whose side is the first remainder. Its line across is the first remainder and the second together, just as this room's line across is its side and the first remainder together. So we are where we began, in a smaller room, taking a side from a line across. It will go twice, and leave a remainder. And that remainder is the side of a smaller room again.
+Here is the turn, and I give it in remarks because the set will not give you the rock. Cut a square whose side is the first remainder. Its line across is the first remainder and the second together, just as this room's line across is its side and the first remainder together. So we are where we began, in a smaller room, taking a side from a line across. What is left will go twice, and leave a remainder. And that remainder is the side of a smaller room again.
 
 Twice, and a remainder. Twice, and a remainder. Each round arrives in the figure of the last one, and sooner.
 

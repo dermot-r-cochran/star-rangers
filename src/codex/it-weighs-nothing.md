@@ -28,7 +28,7 @@ I was aboard for the carriage and not for this. The shoal was composing marks fo
 
 What the line is. Four pressure heads on the hull. They give me the swell of the air against the hull, and from the difference between the heads the bearing a call came along. They do not give how far. Nothing in this file is a distance.
 
-What I did to it. The far word sits under my hearing. The figure below runs at six to nine swells a second, and a human ear begins at about twenty. I raised it five octaves by playing it thirty-two times too fast, which is the plain way and the one I can account for. That makes it thirty-two times shorter as well. What the band spent forty seconds on, I heard in a little over one. For timing I went back to the trace.
+What I did to it. The far word sits under my hearing. The figure below runs at six to nine cycles a second, and a human ear begins at about twenty. I raised it five octaves by playing it thirty-two times too fast, which is the plain way and the one I can account for. That makes it thirty-two times shorter as well. What the band spent forty seconds on, I heard in a little over one. For timing I went back to the trace.
 
 So I have not heard any of this. I have heard a thing made from it, at a pitch I chose, at a speed nobody there kept, through a hull. I do not know what an Ollune hears the far word with, or what it is to hear it, and I did not ask.
 
