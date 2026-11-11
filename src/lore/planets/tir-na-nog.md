@@ -93,7 +93,7 @@ What makes it worth recording in a planetary entry is the convergence rather tha
 
 Tír na nÓg follows the design register already documented across the Union's biosphere worlds: technology present but subordinate to the organic setting around it — smart-weave clothing that reads as ordinary cloth, invisible nanite upkeep, drones that hover at the edge of notice rather than announcing themselves. A visitor could mistake the world's larger towns for pre-industrial settlements without looking twice, which is, by design, close to the point. See [Environmental Technology Design](/star-rangers/lore/environmental-technology-design/) for the general pattern this world exemplifies.
 
-Irish remains the working language of planetary administration, alongside Scottish and Welsh Gaelic in regional use. Place names, land tenure customs, and the seasonal calendar all trace directly back to the founding cooperatives' own traditions, adapted rather than replaced.
+Irish remains the working language of planetary administration, alongside Scottish Gaelic and Welsh in regional use. Place names, land tenure customs, and the seasonal calendar all trace directly back to the founding cooperatives' own traditions, adapted rather than replaced.
 
 ## Fields and Table
 
