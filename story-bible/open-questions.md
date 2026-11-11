@@ -93,7 +93,7 @@ left as they stand.
 
 ---
 
-## The Codex art slate and the in-story fantasy — 10 November 2026 — DRAFTED same day on Fable and merged the same day; read as ACCEPTED by his merges, on the precedent of his 11 November answer on *The Seat*; choices named in the PRs, his to overrule (recorded 11 November 2026 by the critic read of #1769 to #1788)
+## The Codex art slate and the in-story fantasy — 10 November 2026 — DRAFTED same day on Fable and merged the same day; ACCEPTED by his merges, choices as drafted, his to overrule; confirmed by his answer of 11 November 2026, *"Yes, agreed"*
 
 Nine Codex entries were drafted on Fable on 10 November and merged that day. Until this section the only record of his directions and of the choices in them was four pull request bodies and the changelog. A pull request body is not a record, so they are put here once. Nothing in `src/` is changed by this section.
 
@@ -101,7 +101,7 @@ Nine Codex entries were drafted on Fable on 10 November and merged that day. Unt
 
 **The art slate.** Eight numbered pitches for Codex entries, made in session on 10 November and not filed. All eight were drafted at his words: *"Yes, 1, 4 and 7"* (#1780: *Twice, and a Remainder*, *The Verb That Was Left*, *Nobody in Anybody's Light*), *"Yes, draft them"* (#1781, pitches 5 and 3: *The Wall That Said One Thing*, *The Part Not Played*) and *"Yes please"* (#1783, pitches 2, 6 and 8: *It Weighs Nothing*, *A Standing Rate*, *Two Blocks and Four Strokes*). Nothing of the slate is left undrafted. Each entry is Cultural Record, valid for its author, tagged `codex-art`, with no `canon_facts`.
 
-**What the merges settle.** Each of the four pull requests said it was not merged, or not for merge, until he had read it, and each was merged on 10 November. The same question was put to him about *The Seat* and answered on 11 November (the section below). These four are read as that answer reads #1760: each merge accepts the pages with their choices as drafted, and each choice is still his to overrule. That is settled here on his precedent and the pattern of the weekly drafts (*choices named in the PR, his to overrule*), not by a new answer of his; if he would rather the choices stayed open, each to be answered, he need only say so. The changelog entries that say *proposed* are left as written.
+**What the merges settle.** Each of the four pull requests said it was not merged, or not for merge, until he had read it, and each was merged on 10 November. The same question was put to him about *The Seat* and answered on 11 November (the section below). These four are read as that answer reads #1760: each merge accepts the pages with their choices as drafted, and each choice is still his to overrule. The critic read first settled this on his precedent; **he confirmed it on 11 November 2026: *"Yes, agreed"***. Each choice below stands as drafted and stays his to overrule. The changelog entries that say *proposed* are left as written.
 
 **The choices that reach past their own entry.** The full lists are in the pull request bodies; these are the ones a later page could trip on.
 
