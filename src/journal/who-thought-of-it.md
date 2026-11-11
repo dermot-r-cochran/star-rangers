@@ -59,3 +59,13 @@ A project that fusses that carefully about attribution inside the fiction cannot
 There is one place I hold the line absolutely, and it is not this repository. My [photography](https://dermotcochran.com) is my own photographs — selected, cropped, and printed with whatever help I want, but never generated and never composited into something I did not stand in front of. Imperfect frames stay imperfect. Here, where the point is the ideas rather than the shutter, a composited sky is fine. There, it would be a lie.
 
 Different work, different rule. Both worth stating plainly.
+
+## Added 11 November 2026: ideas and particulars
+
+*Every idea in this universe is mine*, I wrote above. On 10 November a review of this site's earliest drafts found something that sentence does not cover. The forty seconds by which Threshold's two clocks disagree first appear on the first day of the repository, in the bootstrap a coding agent wrote from my opening brief. The brief asked for inconsistent constants and boundary anomalies, and named no clock and no number. The idea of a small, stable wrongness that survives correction was the brief's. The number was the tool's, and I have confirmed it was not mine. [The Long White Trail](/star-rangers/journal/the-long-white-trail/), which is about a film of those forty seconds, now says so in a dated section of its own.
+
+So the two entries are to be read together. The ideas are mine, and some particulars are not: a figure or a detail chosen by the tool that first wrote an idea of mine down. I ratified those with everything else on 25 July, the day before this entry, so they stand as canon. I did not choose them, and the entry above leaves that out.
+
+The same review asked, of each of the thirty-nine early pages I committed myself, whose it was. I named none as a tool's idea: sixteen are my idea in my words, twenty are my idea in M365 Copilot's wording, and for three I do not remember.
+
+The text above stays as I wrote it in July.
