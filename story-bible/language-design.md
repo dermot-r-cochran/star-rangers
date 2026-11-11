@@ -389,6 +389,47 @@ written to `src/`. Each point is marked **derived** (from a cited page) or
 
 ---
 
+## Four rulings on the Union's languages (11 November 2026, Dermot's *"As recommended"*)
+
+Four gaps were found while the record's language rulings were being gathered into one
+place on 11 November 2026, after his merge of *The Verb That Was Left* (#1780) was read as
+accepting a regularised Union Irish verb (#1789, #1790). Each was put to him as choices,
+with a recommendation. He answered all four the same day, verbatim *"As recommended"*. The
+recommended option is now his ruling in each case. Nothing in `src/` changes because of
+these rulings.
+
+1. **A fluent speaker's check before locking.** Before any page carrying more than a word
+   or two of Irish (a Codex song, the Irish rank table) is entered in
+   `lib/locked-pages.json`, a fluent speaker checks its Irish. This stands beside the
+   check already ruled in `music-prompts.md` (11 November): his own ear is enough for a
+   take kept as an impression, and a fluent speaker checks first if a take is ever placed
+   on a Codex page as the song's sound. The reason given with the recommendation: once a page is locked,
+   a wrong form can only be explained inside the story. Declined: a check only where audio
+   or text is offered as the Union's actual sound, and a one-off read of all the
+   glossary's *In Union Irish* lines.
+2. **The *téigh* forms stay Gráinne's.** *Théigh* and *níor théigh* stay in *The Verb That
+   Was Left*, valid for their author, until a chapter needs the Union's past of *go*. They
+   then enter the canonical guide's *Union Irish* entry as a revision. The lore page
+   already says the Union's Irish is regular where the old language was irregular. The
+   fallback in art slate choice 1 (`open-questions.md`) is unchanged: if the Union kept
+   *chuaigh*, the entry does not stand. Declined: adding the forms to the guide now.
+3. **Connacht is the default dialect for music respellings.** A lyrics box respelled for a
+   music generator, as in `music-prompts.md`, spells the words the way an English reader
+   would say them in Connacht Irish, unless a page places the singer somewhere that
+   suggests another dialect. The record gives the Union's Irish no accent, so any dialect
+   is a stand-in. The respelling stays a tool input in `music-prompts.md` and never
+   reaches prose. Declined: choosing a dialect for each song separately.
+4. **The first case in any of the Union's other five languages goes to him.** The Union
+   keeps Scottish Gaelic, Welsh, Breton, Cornish and Manx beside Irish, and their records
+   are unfiled (`the-ladder-in-other-tongues.md`). The lore records only the Irish as lost
+   and rebuilt. Its one datum on the others is that the comparative method was used
+   *"where the Irish had a gap and its sisters did not"*. So the first time a page needs a
+   form in one of them, it is brought to him before any form is written, since whether
+   that language thinned and was rebuilt as the Irish was is a canon fact, not a drafting
+   choice. Declined: applying the Union Irish rules to them by analogy.
+
+---
+
 ## What the record does not say — open, and his
 
 - **What two peoples speak across a table.** No page names a Federation
