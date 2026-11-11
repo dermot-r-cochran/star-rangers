@@ -396,7 +396,7 @@ place on 11 November 2026, after his merge of *The Verb That Was Left* (#1780) w
 accepting a regularised Union Irish verb (#1789, #1790). Each was put to him as choices,
 with a recommendation. He answered all four the same day, verbatim *"As recommended"*. The
 recommended option is now his ruling in each case. Nothing in `src/` changes because of
-these rulings.
+these four.
 
 1. **A fluent speaker's check before locking.** Before any page carrying more than a word
    or two of Irish (a Codex song, the Irish rank table) is entered in
