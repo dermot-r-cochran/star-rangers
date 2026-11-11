@@ -232,7 +232,7 @@ const PEOPLES = [
     portraits: {
       "isren-farrowkin": { check: "agrees", evidence: ["src/characters/isren-farrowkin.md", "with no head and no face"], note: "Filed 12 October 2026 (century batch 6)." },
       "meril-duskkin": { check: "agrees", evidence: ["src/characters/meril-duskkin.md", "the duller olive-brown of a fenland strain"], note: "Filed 26 October 2026 (round 1, his pick): one olive-bronze vane over a creased mound, no head or face." },
-      "tavin-ledgekin": { check: "agrees", evidence: ["src/characters/tavin-ledgekin.md", "the pale, high-reflectance colour of a high-terrace strain"], note: "Filed 26 October 2026 (round 1, his pick): one pale vane over a creased mound, no head or face." },
+      "tavin-ledgekin": { check: "agrees", evidence: ["src/characters/tavin-ledgekin.md", "the pale, high-reflectance colour of a high-terrace strain"], note: "Filed 26 October 2026 (round 1, his pick) and remade 10 November 2026 (his pick): three pale vanes from one creased mound, leaning together toward the settlement below, no head or face." },
     },
   },
   {

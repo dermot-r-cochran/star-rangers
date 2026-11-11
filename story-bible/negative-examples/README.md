@@ -20,6 +20,10 @@ single, small hint of the century reads as our own time whenever that hint draws
 something we already have. Generators turn a named object into today's stock version of it,
 and a hint shared by several frames carries its fault into each of them.
 
+The table's last four rows joined it the same day and are not among the ten: the station
+plate and Aoibheann Ní Mheara's portrait, the two frames the set itself pointed at, and
+two Season 1 episode heroes.
+
 | Thumbnail | Page | What failed | Outcome |
 | --- | --- | --- | --- |
 | `una-ni-dhalaigh-2026-11-10.jpg` | Úna Ní Dhálaigh | The only hint was the drone through the window. *A small smooth seed shape* came back as a finned grey blimp, an early-20th-century airship. The window is a sash window too, today's ordinary form. Two edit rounds either kept the blimp or added posts that read as a white fence. | Removed. The same blimp sits in `aoibheann-ni-mheara.jpg`, so the drone's wording is the trap, not this one frame. |

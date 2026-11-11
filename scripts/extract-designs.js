@@ -141,7 +141,7 @@ const DESIGNS = [
     sources: [["src/lore/threshold-station.md", "a mid-grade Survey Corps post built where the Interval between two universes narrows"], ["src/codex/survey-corps-protocol.md", "Threshold-class"]],
     page: true,
     images: [
-      { path: "lore/threshold-station.jpg", check: "agrees", evidence: [IMAGES_FILE, "the far end is one low dark line with three working lights, which is all the record allows"], note: "His own plate, composited 9 October 2026; sheet E leaves the shape open, and the frame keeps the station a silhouette." },
+      { path: "lore/threshold-station.jpg", check: "agrees", evidence: [IMAGES_FILE, "one long, smooth, seamless hull-shaped form low on the water"], note: "His own plate, composited 9 October 2026, its far end edited again 10 November 2026; sheet E leaves the shape open, and the frame keeps the station a silhouette." },
       { path: "hero/season-01.jpg", check: "interior", evidence: [IMAGES_FILE, "so the hero does not show the station from outside"], resolves: true, note: "The Season 1 hero: Dock Seven's chronometers from the watch desk." },
     ],
   },

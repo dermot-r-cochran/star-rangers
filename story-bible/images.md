@@ -88,6 +88,14 @@ plain housing with a single indicator, an honest seam, a material that is not
 quite the old one. A page in the History category, or a frame the page sets in
 the past, is exempt. Six held under it the same evening and re-prompted.
 
+**More the 29th century than the 20th or 21st** (Dermot, 10 November 2026,
+verbatim: *"They should look more like the 29th century than the 20th or
+21st"*, on ten filed portraits). This is the bar the hint rule above is now
+read under: one small hint does not carry a frame whose setting is otherwise
+ours, so the setting itself has to read as the century. The frames taken down
+or replaced under it, with what failed in each and the lessons for the next
+prompt, are in `negative-examples/README.md`.
+
 **Robots may stand in for hand tools** (Dermot, 1 November 2026, verbatim: *"The are allowed to have robots instead of wooden brooms and farm tools"*, on Donncha Ó Laoire's yard). A working holding or workshop in the record's present may show its machines: a yard robot at rest, field drones, the century's own hand tools in composite and dull metal, never the wooden broom or the timber-handled spade the generator reaches for. Where a page makes a hand tool part of a custom (Donncha's brush, left standing after dark), the tool stays and takes the century's form; the robot is added beside it, never in its place. A robot drawn so is a working machine: no face, no eyes, not humanoid, not a pet, unlit at rest.
 
 **Every variation is triaged for its century before it is filed** (Dermot, 13
@@ -267,6 +275,14 @@ image critic's Earth-animal check rather than replacing it: a frame that
 reads as an Earth animal and carries no such difference still fails. First
 case: Pekkat (§ 33), whose blockout frames of 28 October all read as a
 beetle model.
+
+**A non-human person shows a sign of a mind** (Dermot, 10 November 2026,
+verbatim: *"Not all peoples have a face but they should look sapient and
+sentient in some way"*, on Tavin Ledgekin's portrait). No face is needed. The
+worked case is attention: several parts turned together toward one thing that
+is not food or light (the 10 November note under Tavin Ledgekin's entry, and
+`negative-examples/README.md`, *Tavin once more*). Every non-human portrait is
+checked for it before it is filed.
 
 **Diagrams on technical lore pages** (Dermot, 29 September 2026, verbatim:
 *"Technical lore pages may have technical or scientific diagrams similar to
