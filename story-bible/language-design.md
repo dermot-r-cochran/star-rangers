@@ -389,7 +389,7 @@ written to `src/`. Each point is marked **derived** (from a cited page) or
 
 ---
 
-## Four rulings on the Union's languages (11 November 2026, Dermot's *"As recommended"*)
+## Rulings on the Union's languages (11 November 2026: Dermot's *"As recommended"* and *"Keep Union Irish"*)
 
 Four gaps were found while the record's language rulings were being gathered into one
 place on 11 November 2026, after his merge of *The Verb That Was Left* (#1780) was read as
@@ -427,6 +427,20 @@ these rulings.
    form in one of them, it is brought to him before any form is written, since whether
    that language thinned and was rebuilt as the Irish was is a canon fact, not a drafting
    choice. Declined: applying the Union Irish rules to them by analogy.
+
+5. **The name stays Union Irish, and the Union's other languages keep their own names**
+   (his *"Keep Union Irish"*, the same day). He had asked, verbatim, *"Celtic Union Gaelic
+   language or Celtic Union Irish and other langauges?"*, and three options were put to
+   him. He chose the first. *Union Irish* stays the name, in his own wording of
+   5 October (`intake-2026-10-05.md`). *Gaelic* describes the language and is not its
+   name. The Union keeps six languages (`celtic-union-of-planets.md`;
+   `the-ladder-in-other-tongues.md`), and each of the other five is named as itself: the
+   Union's Scottish Gaelic, Welsh, Breton, Cornish and Manx. There is no single *Union
+   Gaelic*. Only Irish, Scottish Gaelic and Manx are Gaelic languages, and Welsh, Breton
+   and Cornish are Brythonic. Declined: renaming the Irish *Union Gaelic*, and a single
+   *Union Gaelic* for all six. In the same change, `planets/tir-na-nog.md` had *"Scottish
+   and Welsh Gaelic in regional use"*, which names a Welsh Gaelic that does not exist. It
+   now reads *"Scottish Gaelic and Welsh"*, as a clarification of a terminology error.
 
 ---
 
