@@ -11,10 +11,10 @@ description: "The complete list of official Fian Ilchruinne deployments. If the 
   an official copy</strong> — see the note on forks at the end.
 </p>
 
-<h2>The full site</h2>
+<h2>The full site and the general tier</h2>
 <ul>
   <li><strong>fianilchruinne.com</strong> — the unbranded full edition, and the canonical address.</li>
-  <li><strong>sciencefiction.site</strong> — the same edition at its original address.</li>
+  <li><strong>sciencefiction.site</strong> — the general reading tier at its original address: the same storylines, with a narrower shelf of Lore, Glossary, Codex and Journal.</li>
 </ul>
 
 <h2>Branded editions</h2>

@@ -37,4 +37,7 @@ eleventyComputed:
   # anything keyed to the swapped layout misses them. Empty string rather than
   # a value when included, because base.njk only emits the tag when truthy.
   robots: "{% if not item.included %}noindex, follow{% endif %}"
+  # Same gate for the Discussion widget: a hidden POV's placeholder shows no
+  # comment box (empty string is falsy in base.njk's `if comments`).
+  comments: "{% if item.included %}true{% endif %}"
 ---

@@ -6,6 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Weekly unit review of sciencefiction.site: five mechanical fixes** (`src/official/index.md`, `src/tiers/index.md`, `lib/editions.js`, `.eleventy.js`, `src/scene-pov.njk`, 2026-11-12, Fable read, Opus fixes). */official/* no longer lists sciencefiction.site under *The full site*: it is the general tier at its original address, with a narrower shelf. */tiers/* names the header control *Text size*, its label since 10 October. The children's editions give the author's job title as About does. Placeholder pages, including hidden scene POVs, no longer carry a Discussion widget, so a Season 8 stub on a general-tier domain stops mounting the contemplative board. A stale code comment on journal narrowing is corrected.
 - **The repository map's profile entry brought in step** (`RELATED-REPOSITORIES.md`, 2026-11-11, Opus). The profile README now names five repositories, not three: `hybrid-agent` was added on 11 November and `engineering-intelligence` was already there. The entry says which three of the five the About page also describes. No page in `src/` is changed.
 
 ## [1.66.0] — 2026-11-11
