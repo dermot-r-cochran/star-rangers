@@ -45,7 +45,83 @@ People who know what they are doing survive things that kill people who do not. 
 
 **4.2** We cannot account for the eleven-minute standoff. The same arrays log four discrete sources holding position outside the figure, without entering it, for eleven minutes, before the event concluded. Discharge does not wait.
 
+<figure class="lore-diagram">
+<svg viewBox="0 0 640 330" role="img" aria-labelledby="d7-dur-title d7-dur-desc">
+<title id="d7-dur-title">Figure 1. Durations stated in this paper, on one logarithmic scale</title>
+<desc id="d7-dur-desc">Six durations on a logarithmic time axis running from a tenth of a second to beyond four months. Section 4.1: the perimeter's closed figure was established in under one second. Section 2: structured discharge persists on the order of minutes. Section 4.2: four sources held position outside the figure for eleven minutes. Section 3: the evacuation was executed in forty-one minutes. Section 2: the nine gallery statements were given within the hour. Section 1: the aperture was held open for approximately four months. The intervals are not all measured from the same moment, and the paper does not order them.</desc>
+<line x1="220.6" y1="266" x2="220.6" y2="272" class="line-t"/>
+<line x1="310.6" y1="266" x2="310.6" y2="272" class="line-t"/>
+<line x1="400.5" y1="266" x2="400.5" y2="272" class="line-t"/>
+<line x1="470.4" y1="266" x2="470.4" y2="272" class="line-t"/>
+<line x1="545.1" y1="266" x2="545.1" y2="272" class="line-t"/>
+<text x="20" y="74" class="sm">§4.1 Perimeter forms</text>
+<path d="M216 70 H178 M184 65 L178 70 L184 75" class="line-1"/>
+<circle cx="220.6" cy="70" r="5" class="fill-1"/>
+<text x="232" y="74" class="sm">under one second</text>
+<text x="20" y="108" class="sm">§2 Discharge persists</text>
+<rect x="310.6" y="97" width="50.6" height="14" rx="3" class="box-1"/>
+<text x="371" y="108" class="sm">on the order of minutes</text>
+<text x="20" y="142" class="sm">§4.2 Standoff</text>
+<circle cx="363.3" cy="138" r="5" class="fill-1"/>
+<text x="375" y="142" class="sm">eleven minutes</text>
+<text x="20" y="176" class="sm">§3 Evacuation</text>
+<circle cx="392.2" cy="172" r="5" class="fill-1"/>
+<text x="404" y="176" class="sm">forty-one minutes</text>
+<text x="20" y="210" class="sm">§2 Gallery statements</text>
+<path d="M396 206 H358 M364 201 L358 206 L364 211" class="line-1"/>
+<circle cx="400.5" cy="206" r="5" class="fill-1"/>
+<text x="412" y="210" class="sm">within the hour</text>
+<text x="20" y="244" class="sm">§1 Aperture held open</text>
+<circle cx="575.9" cy="240" r="5" class="fill-1"/>
+<text x="565" y="244" text-anchor="end" class="sm">approximately four months</text>
+<line x1="170" y1="266" x2="620" y2="266" class="line-t"/>
+<text x="220.6" y="284" text-anchor="middle" class="sm mute">1 s</text>
+<text x="310.6" y="284" text-anchor="middle" class="sm mute">1 min</text>
+<text x="400.5" y="284" text-anchor="middle" class="sm mute">1 h</text>
+<text x="470.4" y="284" text-anchor="middle" class="sm mute">1 day</text>
+<text x="545.1" y="284" text-anchor="middle" class="sm mute">30 days</text>
+<circle cx="26" cy="312" r="5" class="fill-1"/>
+<text x="38" y="316" class="sm">stated value</text>
+<path d="M150 312 H122 M128 307 L122 312 L128 317" class="line-1"/>
+<text x="158" y="316" class="sm">at most</text>
+<rect x="226" y="305" width="30" height="14" rx="3" class="box-1"/>
+<text x="264" y="316" class="sm">stated order of magnitude</text>
+</svg>
+<figcaption>Figure 1. Every duration this paper states, on one logarithmic scale. The intervals are not all measured from the same moment, and the paper does not order them; placing them together shows only their sizes.</figcaption>
+</figure>
+
 **4.3** We cannot account for the selectivity by any strain-gradient model. Every hull registered to the operator ceased returning a signature, to a radius of some nine hundred thousand kilometres, including vessels far outside any plausible strain volume; every hull not so registered was untouched, including two within the volume. Registry is not a physical property. **We have no model in which registry is a physical property, and we state plainly that our account of §3 does not survive this observation unassisted** — preparation explains why well-drilled crews evacuate successfully; it does not explain why a Combine tender at nine hundred thousand kilometres, crewed by people doing nothing at all, stopped returning a signature.
+
+<figure class="lore-diagram">
+<svg viewBox="0 0 640 312" role="img" aria-labelledby="d7-sel-title d7-sel-desc">
+<title id="d7-sel-title">Figure 2. Outcome by registry and by position</title>
+<desc id="d7-sel-desc">A two-by-two table. Rows: hulls registered to the operator, and hulls not registered. Columns: inside any plausible strain volume, and outside it, to a radius of some nine hundred thousand kilometres. Both cells in the registered row read: ceased returning a signature; the outer cell adds that this includes a Combine tender at some nine hundred thousand kilometres. Both cells in the unregistered row read: untouched; the inner cell adds that this includes two hulls within the volume. The outcome follows the row, registry, and not the column, position. We have no model in which registry is a physical property.</desc>
+<text x="290" y="34" text-anchor="middle">Inside any plausible</text>
+<text x="290" y="52" text-anchor="middle">strain volume</text>
+<text x="520" y="34" text-anchor="middle">Outside it, to a radius</text>
+<text x="520" y="52" text-anchor="middle">of some 900,000 km</text>
+<text x="20" y="108">Registered to</text>
+<text x="20" y="126">the operator</text>
+<text x="20" y="208">Not registered</text>
+<rect x="180" y="66" width="220" height="90" rx="5" class="box-1"/>
+<text x="290" y="106" text-anchor="middle">Ceased returning</text>
+<text x="290" y="124" text-anchor="middle">a signature</text>
+<rect x="410" y="66" width="220" height="90" rx="5" class="box-1"/>
+<text x="520" y="94" text-anchor="middle">Ceased returning</text>
+<text x="520" y="112" text-anchor="middle">a signature</text>
+<text x="520" y="134" text-anchor="middle" class="sm mute">including a Combine tender at</text>
+<text x="520" y="146" text-anchor="middle" class="sm mute">some 900,000 km, crew doing nothing</text>
+<rect x="180" y="166" width="220" height="90" rx="5" class="box-2"/>
+<text x="290" y="204" text-anchor="middle">Untouched</text>
+<text x="290" y="226" text-anchor="middle" class="sm mute">including two hulls</text>
+<text x="290" y="240" text-anchor="middle" class="sm mute">within the volume</text>
+<rect x="410" y="166" width="220" height="90" rx="5" class="box-2"/>
+<text x="520" y="215" text-anchor="middle">Untouched</text>
+<text x="20" y="284">The outcome follows the row (registry), not the column (position).</text>
+<text x="20" y="302" class="sm mute">We have no model in which registry is a physical property.</text>
+</svg>
+<figcaption>Figure 2. The selectivity of §4.3, by registry and by position relative to the failure point. Cells name outcomes, not counts; the paper does not state how many hulls fall in each.</figcaption>
+</figure>
 
 **4.4** We cannot account for the residual signature at the failure point, which is structured, warm, and has not decayed on any schedule our models produce. It is still there.
 
