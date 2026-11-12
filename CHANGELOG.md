@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The repository map's profile entry brought in step** (`RELATED-REPOSITORIES.md`, 2026-11-11, Opus). The profile README now names five repositories, not three: `hybrid-agent` was added on 11 November and `engineering-intelligence` was already there. The entry says which three of the five the About page also describes. No page in `src/` is changed.
+
 ## [1.66.0] — 2026-11-11
 
 The last three Codex art entries are proposed: *It Weighs Nothing*, *A Standing Rate* and *Two Blocks and Four Strokes*, with Nkem Fairlie's character page. The tone rule now names cruelty to the helpless. Language rulings are recorded: the name Union Irish stays, a fluent speaker checks the Irish before a page carrying it is locked, and Tír na nÓg's page now says *Scottish Gaelic and Welsh*. *The Verb That Was Left* has a MyTunes prompt and a first take, kept and not filed. The header of *What Nobody Certifies* is remade, and two critic reads correct stale lines across character pages, Codex entries and the record.

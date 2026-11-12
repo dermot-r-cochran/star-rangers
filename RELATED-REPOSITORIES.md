@@ -133,11 +133,13 @@ of purpose or a retirement elsewhere can make them false (added 30 October
 2026). Neither shares code or data with anything it describes.
 
 - **`dermot-r-cochran/dermot-r-cochran`** — the GitHub profile README. It
-  names `Voting`, the ADM and `swarm` (as EPISTEME) as where the thesis's
-  line continues, and links this site's About page (*The engineering behind
-  the record*) and dermotcochran.com. It describes the same three
-  repositories the About page does, so a change that breaks one description
-  breaks both.
+  names `Voting`, the ADM, `swarm` (as EPISTEME), `hybrid-agent` and
+  `engineering-intelligence` as where the thesis's line continues, and links
+  this site's About page (*The engineering behind the record*) and
+  dermotcochran.com. Three of those five, `Voting`, the ADM and `swarm`, are
+  the ones the About page describes, so a change that breaks one of their
+  descriptions breaks both. Its own `CLAUDE.md` (11 November 2026) keeps this
+  entry in step.
 - **`dermot-r-cochran/engineering-intelligence`** — the knowledge-system
   hub, published on GitHub Pages from `docs/`. Its `docs/evidence.md`
   (*Where this is practised*) maps each topic page to the repository that
