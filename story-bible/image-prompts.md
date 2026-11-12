@@ -1919,3 +1919,110 @@ At Dermot's *"Yes: reference-led generation for Kesta Ul, Second Outwork and Rhu
 ```powershell
 .\scripts\make-emblem-card.ps1 -Page src\lore\military-space-command.md -Device chevron -Tint '#1B2232' -Epithet 'Before the Star Rangers' -Qualifier 'A benevolent rule by experts that could not last'
 ```
+
+## 2026-11-12 — the century set of eleven (Opus, desktop)
+
+Dermot flagged seven filed frames and asked for a review of four more, then *"Yes remake or repair each one please"*. Each was run through the image critic; the full record of each round is under the frame's entry in `images.md`, and each old frame is a 480-pixel negative example in `story-bible/negative-examples/`. Tool: `gemini-3.1-flash-image` at 2K through `node scripts/image-edit.js` (two takes a round), imported with `import-image.ps1` at finish strength 1 (`-MaxEdge 1600` for lore, `1200` for portraits). No references were sent. The prompts are recorded here verbatim, since `image-edit.js` reads them from files outside the repository.
+
+### lore/generalised-quantum-mechanics.jpg — filed 12 November 2026
+- **Kind:** generation
+- **Run:** Round 1 of 2, variation 2 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, deep focus at standing eye height: an ordinary quantum optics bench in a quiet working laboratory aboard a habitat in the year 2826, unattended. A long low bench of pale matte composite, one seamless piece with rounded edges, stands on two solid plinths that grow out of the floor; along its top runs a single smooth sunken channel, and seated in the channel at uneven intervals are five small optical elements, each a plain round lens or aperture held in a smooth one-piece pale housing that rises from the channel without any screw, knob, clamp or bolt. At the far end of the channel sits a small sealed matte housing with rounded corners and one tiny pale indicator, the detector, with no cable anywhere: nothing connects to anything by wire. The room is pale matte composite, walls meeting the floor in a rounded cove, and through a tall window on the left the inner curve of the habitat rises in the distance, cultivated terraces climbing up and over, the one thing that could only be this century. Light is daylight from the window and soft diffuse light from no visible source.
+>
+> Name and refuse the stock objects: no aluminium extrusion rail, no optical breadboard with holes, no posts, no thumbscrews, no knobs, no C-clamps, no table clamps, no bolts, no cable, no wire, no stainless steel, no laser beam drawn in the air, no glowing beam. Clean and kept: no dust, no grime, no wear. No lamp, no light strip, no ceiling panel, no light fitting of any kind in frame. No screens, no monitors, no holograms. No text, letters, numerals, logos or signage anywhere. A real photograph: fine grain, a real lens, honest daylight; not a render, not CGI, not a film set, not a miniature.
+
+### lore/the-scope-of-physical-law.jpg — filed 12 November 2026
+- **Kind:** edit of the filed frame
+- **Run:** One edit round of 2, variation 2 filed.
+- **Prompt:**
+
+> Edit this photograph. Change only the surfaces of the four plain wooden boxes: remove every paint spatter, splash, scrape and stain from them, so each is clean, kept plain wood with its natural grain and honest edges. Keep everything else exactly as it is: the composition, the six boxes and their sizes and positions, the two pale composite boxes, the grey housing with its small light, the table, the window, the room, the light, the grain. Add nothing. No text anywhere.
+
+### lore/what-the-record-refuses.jpg — filed 12 November 2026
+- **Kind:** generation
+- **Run:** Round 1 of 2, variation 1 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, deep focus at standing eye height, looking straight in: a small, quiet store room aboard a habitat in the year 2826, everything squared away. Plain shelving of pale matte composite, seamless and rounded at every edge, set into the walls in three bays. On the shelves, few things, each well apart from the next and nothing labelled: low sealed housings of pale grey composite with rounded corners and honest seams; neat stacks of folded plain cloth in muted grey and undyed linen; a row of plain clear sealed canisters holding pale sand, small seeds and grey grit; coils of smooth pale line wound on plain reels. The middle bay of shelves stands completely empty and swept clean, every shelf bare, the clear centre of the picture. The room's walls and floor are pale matte composite meeting in a rounded cove, and the room simply has light in it, soft and even, from no visible source.
+>
+> Name and refuse the stock objects: no face masks, no respirators, no masks of any kind, nothing shaped like a face; no paper or plastic cups, no mason jars, no screw-top lids, no cardboard, no MDF, no chipboard, no plastic storage crates, no tape, no doorway, no other room visible, no wooden furniture. Clean and kept: no dust, no grime, no scuffs. No lamp, no light strip, no ceiling panel, no bulb, no light fitting of any kind. No screens. No text, letters, numerals, labels, logos or signage anywhere. A real photograph: fine grain, a real lens, honest light; not a render, not CGI, not a film set, not a miniature.
+
+### lore/made-minds-and-the-ai-safety-archetype.jpg — filed 12 November 2026
+- **Kind:** edit of the filed frame
+- **Run:** One edit round of 2, variation 2 filed.
+- **Prompt:**
+
+> Edit this photograph. Change only the surface of the middle door, the dark moulded composite one: remove every smudge, wipe mark and stain so it is an even, clean, kept matte dark grey, with its moulding and rounded corners unchanged. Also remove the small pale scuff marks from the old wooden door on the left, keeping its grain, planks and iron latch. Keep everything else exactly as it is: the three doors, their shapes and positions, the latches, the pale right-hand door, the wall, the floor, the light, the grain. Add nothing. No text anywhere.
+
+### lore/eden-bureau-uniform.jpg — filed 12 November 2026
+- **Kind:** generation
+- **Run:** Round 1 of 2, variation 1 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, seen from just inside an apartment doorway, the door edge soft in the near foreground: a civil detective of Eden Space Habitat in the year 2827, a man in his late thirties, standing on the curved residential deck outside, head turned along the deck toward someone out of frame, hands empty at his sides, never posed to camera. He wears the bureau's working jacket: plain, single-breasted, of matte muted blue-grey woven cloth, a low band collar, a closure with no visible buttons or fastening, cut easy for a long shift, over a plain soft high-necked top of the same family of greys and plain straight trousers of matte dark grey cloth with no pockets on the legs. At his collar sits one small plain painted shape, a pale rounded mark matching the small painted wayfinding shapes beside each door along the deck. The deck curves gently away; its floor is seamless pale composite, and the apartment doors along it are flush pale panels with rounded corners and a small recessed pull, set into the wall without frames. The deck is clean and kept, the light soft and even from no visible source, and at the far end the deck's curve opens onto the habitat's green terraces rising overhead.
+>
+> Name and refuse the stock objects: no chore coat, no workwear jacket with patch pockets, no buttons, no denim, no cargo trousers, no leg pockets, no lever door handles, no door frames, no hinges, no timber decking, no boardwalk, no railing, no rivets, no screws, no stainless steel. Clean and kept: no grime, no stains, no wear on the doors. No lamp, no light strip, no ceiling panel, no light fitting. No text, letters, numerals or signage anywhere; the shapes are wordless. A real photograph: fine grain, a real lens, honest light; not a render, not CGI, not a film set.
+
+### lore/new-cotswolds.jpg — filed 12 November 2026
+- **Kind:** generation
+- **Run:** Round 1 of 2, variation 1 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, standing eye height, deep focus: the main street of a working village of New Cotswolds, a human farming country in another galaxy, on an overcast late afternoon. Honey-coloured limestone houses with steep stone-tile roofs line both sides of a clean, gently curving street of pale dressed stone, laid seamless with no kerbs, paint or markings. The village is lived in and busy in a quiet way: two or three people in plain matte work clothes going about their day, unhurried, one carrying a covered basket; a small, low, well-made yard robot of pale composite and dull metal trundling along the street edge with a tray of seedlings; warm light already in a few deep-set windows. Between the houses, beyond the end of the street, the wolds rise in kept green fields and drystone walls. The houses are old in form and new in make: sharp clean stone, every wall straight, glazing set flush and nearly invisible, no gutters, pipes, wires, aerials or poles anywhere. The one thing that could only be this century: high over the far ridge, a slim pale beacon tower of smooth composite, with nothing on it, marking the fold corridor.
+>
+> Name and refuse the stock objects: no cars, no vans, no tractors, no asphalt, no road markings, no kerbs, no street lights, no lamp posts, no telegraph poles, no wires, no satellite dishes, no aerials, no signage, no shop signs, no telecoms mast, no wind turbine, no cattle in the foreground, no field gate. Clean and kept: no litter, no mud, no weeds, no neglect. No text, letters, numerals or signage anywhere. A real photograph: fine grain, a real lens, honest overcast light; not a render, not CGI, not a film set, not a miniature.
+
+### lore/quantum-computing-and-the-cavern-constraint.jpg — filed 12 November 2026
+- **Kind:** generation, then an edit
+- **Run:** Round 1 read as a render. Round 2 is the round 1 prompt followed by the paragraph below it; variation 1 was then edited by the third prompt to remove the blue glow, and that edit's variation 1 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, standing eye height, deep focus: a quantum computer in its sealed cavern deep under quiet rock, in the year 2826. The cavern is large, dry and engineered: its natural rock walls are sealed under a smooth pale matte lining that follows the rock's broad curves, and the floor is a level seamless pale composite. At the centre of the floor, on a broad low isolation plinth, stands the machine, and it must read at once as a quantum computer: a tall cylindrical cryostat vessel of brushed pale metal and matte composite, about twice a person's height, with rounded ends and honest seams, and set into its side a tall narrow viewing port through which the inside can be seen, a hanging chandelier of nested horizontal discs stepping down smaller and smaller, joined by many fine bright gold lines, the coldest stage at the bottom. A few thin pale conduits run from the vessel's top straight up into the lining, neat and parallel. A single technician in plain matte work clothes stands at a short distance with a slim matte record sheet in hand, giving the machine its scale. The cavern simply has light in it, soft and even from no visible source; nothing glows except a very faint cold blue at the lowest stage behind the port.
+>
+> Name and refuse the stock objects: no electrical cabinet, no switch box, no grey steel locker, no server racks, no blinking lights, no screens, no monitors, no cables on the floor, no ladders, no scaffolding, no raw wet rock, no mud, no puddles. Clean and kept: no dust, no grime. No lamp, no floodlight, no light fitting, no light strip. No text, letters, numerals, logos or signage anywhere. A real photograph: fine grain, a real lens, honest light; not a render, not CGI, not a film set, not a miniature.
+
+Round 2 added:
+
+> It must be an actual photograph, not an illustration: shot handheld on a real camera at standing eye height, visible film grain, slight lens vignetting, the rock lining showing honest real texture and small tonal variation, the technician's clothes creased, real dust-free but lived-in working space with a low composite rail around the plinth and a folded stool beside it, the light slightly uneven across the cavern as it really is. Not symmetrical, not centred: the machine stands a little left of centre, seen at a three-quarter angle. Not a render, not CGI, not a 3D visualisation, not concept art, not a film set.
+
+The edit:
+
+> Edit this photograph. Change only the inside of the tall narrow window in the machine: remove the blue glow entirely, so the stepped gold discs and fine gold lines inside are seen by the cavern's own soft light, nothing inside glowing at all, the bottom stage the same plain dull gold as the rest. Keep everything else exactly as it is: the machine, its shape and seams, the rail, the step, the technician, the cavern, the light, the grain. Add nothing. No text anywhere.
+
+### characters/lev.jpg — filed 12 November 2026
+- **Kind:** generation
+- **Run:** Round 1 drew the capsule as an ovoid that read as an egg; round 2 (this prompt), variation 1 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, the boy's face in the upper third of the frame, at his eye height: Lev, a boy of about eight on Eden Space Habitat in the late summer of 2827, walking along a pale curving residential deck, seen three-quarters from the side, his eyes on where he is going and never on the camera, carrying a holding capsule in both arms against his chest, serious and a little pleased with himself, never posed to camera. He wears a plain soft grey jumper and plain dark trousers. The capsule is a hyper-sealed electrostatic holding capsule: a low, squat, rounded-oblong case of pale matte composite about the size of a loaf of bread, flat-bottomed and wider than it is tall, its corners softly rounded like a river pebble but never egg-shaped or round, no handle, no grille, no mesh, no door, no latch, no openings, with a faint fine seam around its middle and one tiny pale indicator; it is carried in the crook of both arms the way a child carries something he has been trusted with. Behind him, soft and out of focus, three adults in plain clothes have stopped on the deck and are watching him go. The deck curves gently away; walls and floor are seamless pale composite meeting in a rounded cove, the doors flush panels with rounded corners, and at the deck's far end a wide window band opens onto the habitat's green terraces rising overhead. The light is soft and even from no visible source.
+>
+> Name and refuse the stock objects: no pet carrier, no cat carrier, no grille, no mesh, no crate, no cage, no handle, no box with a door, not an egg, not an ovoid, not a ball, no lever handles, no door frames. Clean and kept. No ceiling panels, no light strips, no lamps, no light fittings of any kind in frame. No screens. No text, letters, numerals or signage anywhere. A real photograph: fine grain, a real lens, honest light, natural skin; not a render, not CGI, not a film set.
+
+### characters/noah-adeyemi.jpg — filed 12 November 2026
+- **Kind:** generation
+- **Run:** Round 1 of 2, variation 1 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, the face in the upper third of the frame: Noah Adeyemi, a young Black man of nineteen or twenty, a resident of Eden Space Habitat in the year 2827, standing on the curving residential deck outside his own closed door, his hands empty at his sides, half-turned toward someone out of frame and about to speak, never posed to camera. He wears his own plain clothes: a loose soft overshirt of matte undyed linen with a low band collar and a closure that shows no buttons, sleeves pushed to the forearm, over a plain soft top, and easy trousers of matte grey cloth. Beside the door on the deck floor stands his plant: a young Eden strawberry runner growing in a low, plain, hand-thrown pot of pale fired clay, a few trefoil leaves and one small white flower, clearly tended. The door is a flush pale panel with rounded corners and a small recessed pull, set into the wall without a frame; the deck's walls and floor are seamless pale composite meeting in a rounded cove, and the deck curves away behind him to a window band onto the habitat's terraces. The light is soft and even from no visible source.
+>
+> Name and refuse the stock objects: no button-down shirt, no visible buttons, no collar points, no ficus, no houseplant, no plastic pot, no door frame, no hinges, no lever handle. Clean and kept. No lamp, no light strip, no ceiling panel, no light fitting. No screens. No text, letters, numerals or signage anywhere. A real photograph: fine grain, a real lens, honest light, natural skin; not a render, not CGI, not a film set.
+
+### characters/priya-nakamura.jpg — filed 12 November 2026
+- **Kind:** generation
+- **Run:** Round 1 of 2, variation 1 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, the face in the upper third of the frame: Detective Priya Nakamura of Eden Space Habitat's detective bureau, a young Japanese woman in her late twenties, standing at a low table in the bureau's records room in the year 2827, looking down at what is laid out in front of her and writing, never posed to camera. She wears the bureau's working jacket: plain, single-breasted, matte muted blue-grey woven cloth, a low band collar, a closure with no visible buttons, zip or fastening, with one small pale tab at the collar. In one hand she holds her record, a slim bound set of matte pale sheets with a plain cover, like a thin book; in the other a plain slim stylus. On the table in front of her, in a shallow tray of pale composite with rounded edges, lie six small clear sealed sleeves in a row, each holding one small object and one small blank pale card: a slim stylus, a small clip, a spoon, a small reel of tape, a pair of glasses, and a small hand seal with a turned wooden handle. The room is seamless pale matte composite, walls curving into the ceiling, low flush cabinets behind her; the room simply has light in it, soft and even, from no visible source.
+>
+> Name and refuse the stock objects: no spiral notebook, no spiral binding, no ballpoint pen, no ziplock bags, no zip seals, no sticky notes, no bulldog clip, no steel tray, no hinged metal case, no zipped jacket, no factory overalls. Clean and kept. No light strip, no glowing line, no ceiling light panel, no lamp, no light fitting of any kind; nothing in the room glows. No screens. No text, letters, numerals or signage anywhere. A real photograph: fine grain, a real lens, honest light, natural skin; not a render, not CGI, not a film set.
+
+### characters/zhulik.jpg — filed 12 November 2026
+- **Kind:** generation
+- **Run:** Round 1 of 2, variation 1 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, at a cat's-eye height from a little way off, deep focus, not centred: Zhulik, a young grey-and-white cat with no collar, in a family's small berth on Eden Space Habitat in the spring of 2827, crouched on the top of a low built-in storage unit of pale matte composite with rounded edges, one forepaw resting on his latest find and looking straight at the camera, caught and unrepentant. Spread loosely on the unit's top around him, as a cat leaves things rather than as anyone arranged them, lies his hoard: a slim stylus, a small wooden reel of thread, a spoon, a pair of glasses, a small clip, and under his paw a small hand seal with a turned wooden handle. Behind him the berth is lived in and plain: seamless pale walls meeting the floor in a rounded cove, a folded blanket of undyed wool on a low bench, a child's soft jumper dropped on the floor, a narrow window onto the habitat's terraces. The room simply has light in it, soft and even, from no visible source, with daylight from the window.
+>
+> Name and refuse the stock objects: no cabinet with doors, no steel furniture, no rubber stamp with a rubber pad, no cat tree, no litter tray. No light strip, no glowing line, no cove lighting, no lamp, no ceiling panel, no light fitting of any kind; nothing glows. No screens. No text, letters, numerals or signage anywhere. A real photograph of a real cat: fine grain, a real lens, natural fur, honest light; not a render, not CGI, not a catalogue shot, not symmetrical, not a studio.

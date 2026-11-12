@@ -74,6 +74,24 @@ The 10 November remake of *What Nobody Certifies* was itself replaced the next d
 | --- | --- | --- | --- |
 | `what-nobody-certifies-2026-11-11.jpg` | What Nobody Certifies | The 10 November remake read as a catalogue shot: a seamless wall, light from nowhere, dead-centre symmetry and nothing to measure by, with two seal devices that could pass for monograms. Dermot: *"Is that an older stock photo?"* Image critic: rung 3, render. | Replaced by a fresh generation in the century form: a kept corridor wall seen off-axis at eye height, light along the corridor, honest wear, a door hand-hold for scale, plain shapes on the seals; smudges healed by an edit and one lettering-like scuff cloned out. |
 
+## The century set of eleven, 12 November 2026
+
+Dermot flagged seven frames and asked for a review of four more, then *"Yes remake or repair each one please"*. Nine were remade from new prompts and two were repaired by an edit. The full record is in each frame's entry in `images.md`; the prompts are in `image-prompts.md` under the same date.
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `generalised-quantum-mechanics-2026-11-12.jpg` | A Generalisation of Quantum Mechanics | A present-day teaching optics bench: aluminium extrusion rail, C-clamps with T-handles, thumbscrew mounts and a grey cable, in a plain room with nothing to place it. | Replaced from a new prompt: a seamless composite bench, one-piece holders, a sealed detector, no cable, the terraces through the window. |
+| `the-scope-of-physical-law-2026-11-12.jpg` | The Scope of Physical Law | Passed the critic with one flaw: paint spatter on two of the wooden blocks. | Replaced by an edit that cleaned the blocks. |
+| `what-the-record-refuses-2026-11-12.jpg` | What the Record Refuses | Rung 2: a white moulded mask on a shelf read as a face. Also a present-day store: N95 masks, paper cups, mason jars, MDF shelving, a courtroom bench through the door. | Replaced from a new prompt that negates masks and anything shaped like a face. |
+| `made-minds-and-the-ai-safety-archetype-2026-11-12.jpg` | Made Minds and the AI Safety Archetype | Passed the critic with one flaw: smudging on the middle composite door. | Replaced by an edit that cleaned the door. |
+| `eden-bureau-uniform-2026-11-12.jpg` | The Eden Bureau Uniform | A present-day chore coat with buttons and patch pockets, cargo trousers, a timber boardwalk, grimy doors with lever handles. Dermot: *"looks anachronistic"*. | Replaced from a new prompt that takes the jacket's cut from the page and names flush doors and a composite deck. |
+| `new-cotswolds-2026-11-12.jpg` | New Cotswolds | Today's Cotswolds from a winter pasture: asphalt lane, field gate, thistles, a cow, and a hint that drew as a phone mast. Dermot: *"looks too rural"*. | Replaced by the village street at work, with a yard robot and a fold-corridor beacon. |
+| `quantum-computing-and-the-cavern-constraint-2026-11-12.jpg` | Quantum Computing and the Cavern Constraint | A grey electrical cabinet in a raw wet cave: a fuse box (rung 1). The brief had asked for a plain cabinet. Dermot: *"does not look like a Quantum Computer"*. | Replaced by a cryostat in a sealed cavern, after a render round and an edit that removed a glow. |
+| `lev-2026-11-12.jpg` | Lev Saunders | A present-day pet carrier with a grille, under ceiling light panels. Dermot: the capsule is *"a hyper-sealed electrostatic holding capsule not an ordinary catbox"*. The first redo drew an ovoid that read as an egg. | Replaced by a low, rounded, seamless case with one tiny light. |
+| `noah-adeyemi-2026-11-12.jpg` | Noah Adeyemi | A present-day button-down shirt and a stock ficus in a plastic pot. | Replaced from a new prompt: a band-collared linen overshirt, a clay pot, a flush door. |
+| `priya-nakamura-2026-11-12.jpg` | Detective Priya Nakamura | A spiral notebook, ziplock bags, a steel tray, a factory jacket and glowing light strips. Dermot: *"looks anachronistic"*. | Replaced from a new prompt: the bureau jacket, a bound record and stylus, sealed sleeves in a composite tray. |
+| `zhulik-2026-11-12.jpg` | Zhulik | A centred catalogue cat on a steel cabinet under a glowing cove strip (rung 3, render). Dermot: *"Same for Zhulik"*. | Replaced by a lived-in family berth, off-centre, with no light fitting. |
+
 ## Lessons for the next prompt
 
 - **A non-human person needs a sign of a mind, not a face.** Attention works: several parts turned together toward one thing that is not food or light. Check every non-human portrait for it.

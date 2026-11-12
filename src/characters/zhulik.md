@@ -10,7 +10,7 @@ aliases:
 tags: [cat, eden, pet, undercover-pets.com, season-2]
 description: "A young grey-and-white cat who, for three weeks in the spring of 2827, was the only cat on Eden's books without being on them — and did all the stealing while the station mascot took the blame."
 image: "zhulik.jpg"
-image_alt: "A young grey-and-white cat sits upright on top of a plain two-door cabinet in a bare, softly lit room of seamless pale panels, one forepaw resting on a wooden-handled rubber stamp, looking straight at the viewer. Laid out beside him on the cabinet top are a stylus, a wooden reel of thread, a spoon and a pair of glasses. No collar; nothing on the walls but a single recessed line of warm light near the ceiling."
+image_alt: "A young grey-and-white cat with no collar crouches on a low rounded pale storage unit in a small family berth, one forepaw on a small wooden-handled hand seal, looking at the camera; around him lie a stylus, a wooden reel of thread, a spoon, a pair of glasses and a clip, and behind him a folded blanket on a low bench, a child's jumper on the floor and a narrow window onto the habitat's terraces."
 ---
 
 Eden Space Habitat's small-livestock register carries two cats. For three weeks in the late spring of 2827 UCSD it carried one, and the second did all the work.

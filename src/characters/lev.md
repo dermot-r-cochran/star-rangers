@@ -6,12 +6,12 @@ species: Human
 role: "Resident, Eden Space Habitat — a boy of about eight, keeper of one cat and, on an application in the compliance queue, of Muffin"
 status: Active
 image: "lev.jpg"
-image_alt: "A boy of about eight walking down a pale curving habitat corridor carrying a small rounded pet carrier against his chest, serious and a little pleased with himself, adults blurred behind him and a window onto the habitat's terraces at the corridor's end"
+image_alt: "A boy of about eight walking along a pale curving habitat deck, carrying a low, rounded, seamless pale capsule with one tiny light in both arms against his chest, serious and intent, three adults stopped behind him watching, and the habitat's green terraces beyond the deck's rail."
 aliases:
   - "the boy with the cat"
   - "the boy with the wrong rabbit"
 tags: [human, eden, resident, terraces, undercover-pets.com, season-2]
-description: "A boy of about eight who came aboard Eden with his mother and a cat in the spring of 2827, asked a rabbit where the cat had gone and was taken seriously by one, and in late summer picked up the thing by the Deck 7 galley door that a whole deck could not stop feeding, told it no in front of everybody, and carried it home in a box."
+description: "A boy of about eight who came aboard Eden with his mother and a cat in the spring of 2827, asked a rabbit where the cat had gone and was taken seriously by one, and in late summer picked up the thing by the Deck 7 galley door that a whole deck could not stop feeding, told it no in front of everybody, and carried it home in the bureau's carrier, a hyper-sealed electrostatic holding capsule."
 ---
 
 Lev Saunders is the only person on Eden who has ever asked a rabbit for help and had it work twice.
