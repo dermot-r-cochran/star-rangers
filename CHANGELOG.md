@@ -6,6 +6,9 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Lore and glossary pages read fluently; chapter prose follows its viewpoint** (2026-11-12, Opus, at Dermot's direction — `story-bible/intake-2026-11-12.md`). Recorded in `CLAUDE.md` and `story-bible/prose-style.md`. A new local tool, `scripts/fluency-report.js`, ranks every lore and glossary page by reading strain as an informational worklist. A first pass rewrote eight pages for readability without changing what they say: *Membrane Shadow*, *Cyborg*, *Luminescent Ethereal Beings*, *Higher-Dimensional Folding*, *Orbital Compute Complexes*, *Saltvik*, *A Generalisation of Quantum Mechanics* and *The Knarr Line*. Long sentences are split and dash asides set out as sentences; every fact and link is kept.
+- **Fluency pass, second batch** (2026-11-12, Opus and Fable, at Dermot's *"May delegate to Fable as needed"*). Opus rewrote *Quantum Space Harmonic Wave*, *The Scope of Physical Law* and *Cosmic Cascade*. Fable rewrote *The Orbital Habitats Compact*, *Verdance*, *Knarrheim*, *The Survey Corps*, *The Undersong Belt* and *The Federation of Sentient Beings*, and Opus checked each against its original, restoring one restrictive clause on *Knarrheim* and recasting two sentences. Every fact and link is kept. `CLAUDE.md` now lets fluency passes go to Fable, with Opus's review.
+
 ## [1.67.0] — 2026-11-12
 
 Fold routes are quiet: only boundary zones carry the second decoherence channel, and Eden's page now studies the adjacent boundary zone. *Without the Can* is trimmed after a critic read. Eleven images are brought into the century, and the Dock Seven paper gains two figures. The weekly review of sciencefiction.site makes five mechanical fixes, and a critic read of the evening's merges corrects three small slips.
