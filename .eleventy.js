@@ -755,11 +755,11 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => b.date - a.date)
   );
 
-  // Out-of-character author's notes (src/journal/), not subject to
-  // CHARACTERS/TOPICS/THREADS narrowing - see classifyContentPath's
-  // "journal" case falling through to isContentIncluded's unconditional
-  // `return true`, the same way the About page always shows regardless of
-  // a narrowed deploy. Sorted oldest-first so journal-entry.njk's
+  // Out-of-character author's notes (src/journal/). Since #271 (2 August
+  // 2026) these ARE narrowed like the Codex on a filtered deploy - see
+  // classifyContentPath's "journal" case in lib/classify-content.js - so
+  // this collection lists every entry and the excluded ones render as
+  // placeholders. Sorted oldest-first so journal-entry.njk's
   // previousChapterIn/nextChapterIn-style neighbor lookup reads in
   // publication order; journal/index.md reverses it for newest-first display.
   eleventyConfig.addCollection("journalEntries", (collectionApi) =>
@@ -875,6 +875,11 @@ module.exports = function(eleventyConfig) {
     // rather than data.layout for the reason documented at the top of this
     // file - by the time this evaluator runs, data.layout may already read
     // "excluded.njk" for an INCLUDED page's sibling and cannot be trusted.
+    // A placeholder carries no Discussion widget: a comment box on a page the
+    // build does not carry mounts another edition's board (Season 8 stubs on
+    // a general-tier domain showed the contemplative board) and lets a
+    // reader comment on a page they never saw. Weekly unit review, 12 Nov 2026.
+    comments: (data) => (isContentIncluded(data, contentFilter) ? data.comments : false),
     robots: (data) => (isContentIncluded(data, contentFilter) ? data.robots : "noindex, follow")
   });
 

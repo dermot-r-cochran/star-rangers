@@ -209,7 +209,7 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
     the one complete view, and that is intended.
   </li>
   <li>
-    <strong>A tier is not a page style.</strong> The <em>Reading</em> control in the header
+    <strong>A tier is not a page style.</strong> The <em>Text size</em> control in the header
     changes type size, measure and density, and you can set it on any address. The tier
     decides what is on the shelf; the control decides how the shelf is lit.
   </li>
