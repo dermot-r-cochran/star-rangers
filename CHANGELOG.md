@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.67.0] — 2026-11-12
+
+Fold routes are quiet: only boundary zones carry the second decoherence channel, and Eden's page now studies the adjacent boundary zone. *Without the Can* is trimmed after a critic read. Eleven images are brought into the century, and the Dock Seven paper gains two figures. The weekly review of sciencefiction.site makes five mechanical fixes, and a critic read of the evening's merges corrects three small slips.
+
 - **Critic read of the evening's five merges: three small corrections** (`src/codex/dock-seven-material-account.md`, `src/characters/lev.md`, `src/characters/noah-adeyemi.md`, `story-bible/images.md`, 2026-11-12, Fable read, Opus counter-critic). Figure 1 of the Dock Seven paper is captioned *Six durations*, not *Every duration*, since §4.5 states a seventh. Lev's page says he carried Muffin home in the detective's carrier, as the chapter's canon fact has it, not the bureau's. Noah's page counts two questions over his two days at the plant, as chapter 2 tells it. The working note on Noah's portrait now says its prompt asked for an Eden strawberry, which the record does not support.
 - **Fold routes are quiet; only boundaries are loud** (`src/lore/quantum-computing-and-the-cavern-constraint.md`, `src/lore/eden-space-habitat.md`, 2026-11-12, Opus, at Dermot's *"A: folds are quiet"* — `story-bible/intake-2026-11-12.md`). The cavern page listed fold routes among the sources of the second decoherence channel, against *A Generalisation of Quantum Mechanics* and *The Scope of Physical Law*. It now names only boundary zones, overlap windows, thin places and fold routes that run close to one, and *fold lock* is *fold aperture*. Eden's page no longer speaks of a Solar System–scale Concordant: the habitat studies the adjacent boundary zone, and *Patience First* went beyond the reach of the Concord's law.
 
