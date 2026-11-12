@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Lore and glossary pages read fluently; chapter prose follows its viewpoint** (2026-11-12, Opus, at Dermot's direction — `story-bible/intake-2026-11-12.md`). Recorded in `CLAUDE.md` and `story-bible/prose-style.md`. A new local tool, `scripts/fluency-report.js`, ranks every lore and glossary page by reading strain as an informational worklist. A first pass rewrote eight pages for readability without changing what they say: *Membrane Shadow*, *Cyborg*, *Luminescent Ethereal Beings*, *Higher-Dimensional Folding*, *Orbital Compute Complexes*, *Saltvik*, *A Generalisation of Quantum Mechanics* and *The Knarr Line*. Long sentences are split and dash asides set out as sentences; every fact and link is kept.
+
 ## [1.67.0] — 2026-11-12
 
 Fold routes are quiet: only boundary zones carry the second decoherence channel, and Eden's page now studies the adjacent boundary zone. *Without the Can* is trimmed after a critic read. Eleven images are brought into the century, and the Dock Seven paper gains two figures. The weekly review of sciencefiction.site makes five mechanical fixes, and a critic read of the evening's merges corrects three small slips.

@@ -15,6 +15,12 @@ author writes in whatever mode a document of that kind takes — first person,
 an apparently omniscient narrator, a ballad, a transcript, a school reader —
 and is held only to being valid for its author.
 
+**Not the Archive's voice either.** Lore and glossary pages are held to a
+different measure (Dermot, 12 November 2026): they read fluently, in one
+voice, while the prose here varies with whose head a block is in. The
+clipped, tangled or formal sentence that is right inside one character's
+block is not a fault to fix in a chapter, and it is one in the Archive.
+
 ---
 
 ## The one-sentence version
