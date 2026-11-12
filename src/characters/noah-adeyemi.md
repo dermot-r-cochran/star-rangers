@@ -6,7 +6,7 @@ species: Human
 role: "Resident, Eden Space Habitat — the door with the plant outside it, fold-approach side of the ring"
 status: Active
 image: "noah-adeyemi.jpg"
-image_alt: "Noah Adeyemi, a young man of nineteen or twenty, standing in a pale curving habitat corridor outside a closed door, a small potted plant on the floor beside it, his hands empty at his sides, turned toward someone out of frame and about to speak."
+image_alt: "Noah Adeyemi, a young man of nineteen or twenty, standing on a pale curving habitat deck beside a closed flush door, in a loose undyed linen overshirt and grey trousers, a small leafy plant in a pale clay pot on the floor by the door, half-turned toward someone out of frame, with a window onto the habitat's planted terraces behind him."
 aliases: []
 tags: [human, eden, resident, young-star-rangers, season-9]
 description: "A resident of Eden's fold-approach side, nineteen or twenty, who noticed the hatch nobody looks at, looked up what three bars at a collar meant, and was crouched at the plant with a full watering can when it opened — the first person on the ring to read the Deputy, and the first the Deputy misread."
