@@ -15,7 +15,7 @@ image_alt: "Designed cover for Eden Space Habitat: a blue orbital ring/station e
 
 Eden was built to be forgettable: a civilian habitat set where supply lines were steady and traffic was thin. Then its instruments began to disagree with the sky.
 
-Eden Space Habitat was commissioned in 2671 UCSD as a civilian deep-range research and habitation platform, meant for long-duration study of the outer boundary between the Solar System's primary [Concordant](/star-rangers/glossary/concordant/) and the adjacent boundary zone. It holds station in the Earth–Sun L2 region, about 1.5 million kilometres beyond Earth, on the side facing away from the Sun. By every model available to the MSC survey office, its location was ordinary.
+Eden Space Habitat was commissioned in 2671 UCSD as a civilian deep-range research and habitation platform, meant for long-duration study of the adjacent [boundary zone](/star-rangers/lore/boundary-zones/). It holds station in the Earth–Sun L2 region, about 1.5 million kilometres beyond Earth, on the side facing away from the Sun. By every model available to the MSC survey office, its location was ordinary.
 
 It was not ordinary.
 
@@ -55,7 +55,7 @@ It responded to the disappearance of *Patience First* by opening an inquiry, ass
 
 What the MSC could not do quickly—because its structure was not built to do it—was recognize that an inhabited habitat beside a natural extrasolar fold route demanded a different order of institution.
 
-The route did not wait for committee calendars. The boundary zone at its far end did not pause for compliance review. Whatever had happened to *Patience First* was happening beyond the edge of the Solar System's [Concordant](/star-rangers/glossary/concordant/), where MSC authority stopped and procedural confidence became memory.
+The route did not wait for committee calendars. The boundary zone at its far end did not pause for compliance review. Whatever had happened to *Patience First* was happening beyond the reach of the [Solar System Concord's](/star-rangers/lore/solar-system-concord/) law, where MSC authority stopped and procedural confidence became memory.
 
 ## Eden's Role in the Founding of the Star Rangers
 
