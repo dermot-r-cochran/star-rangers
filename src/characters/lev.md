@@ -11,7 +11,7 @@ aliases:
   - "the boy with the cat"
   - "the boy with the wrong rabbit"
 tags: [human, eden, resident, terraces, undercover-pets.com, season-2]
-description: "A boy of about eight who came aboard Eden with his mother and a cat in the spring of 2827, asked a rabbit where the cat had gone and was taken seriously by one, and in late summer picked up the thing by the Deck 7 galley door that a whole deck could not stop feeding, told it no in front of everybody, and carried it home in the bureau's carrier, a hyper-sealed electrostatic holding capsule."
+description: "A boy of about eight who came aboard Eden with his mother and a cat in the spring of 2827, asked a rabbit where the cat had gone and was taken seriously by one, and in late summer picked up the thing by the Deck 7 galley door that a whole deck could not stop feeding, told it no in front of everybody, and carried it home in the detective's carrier, a hyper-sealed electrostatic holding capsule."
 ---
 
 Lev Saunders is the only person on Eden who has ever asked a rabbit for help and had it work twice.

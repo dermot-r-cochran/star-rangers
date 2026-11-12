@@ -87,7 +87,7 @@ People who know what they are doing survive things that kill people who do not. 
 <rect x="226" y="305" width="30" height="14" rx="3" class="box-1"/>
 <text x="264" y="316" class="sm">stated order of magnitude</text>
 </svg>
-<figcaption>Figure 1. Every duration this paper states, on one logarithmic scale. The intervals are not all measured from the same moment, and the paper does not order them; placing them together shows only their sizes.</figcaption>
+<figcaption>Figure 1. Six durations this paper states, on one logarithmic scale. The intervals are not all measured from the same moment, and the paper does not order them; placing them together shows only their sizes.</figcaption>
 </figure>
 
 **4.3** We cannot account for the selectivity by any strain-gradient model. Every hull registered to the operator ceased returning a signature, to a radius of some nine hundred thousand kilometres, including vessels far outside any plausible strain volume; every hull not so registered was untouched, including two within the volume. Registry is not a physical property. **We have no model in which registry is a physical property, and we state plainly that our account of §3 does not survive this observation unassisted** — preparation explains why well-drilled crews evacuate successfully; it does not explain why a Combine tender at nine hundred thousand kilometres, crewed by people doing nothing at all, stopped returning a signature.
