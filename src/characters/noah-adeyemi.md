@@ -30,7 +30,7 @@ On the eighth day he came back without the can. That was the whole of what he ha
 
 He does not pretend not to have looked. Most of the ring walks past the hatch without seeing it, and has for years; he saw it, looked up what it was, and came back with a can rather than pretend otherwise.
 
-He does not push. Two days at the plant, one question each, and when the answer to the second was a step back he took the step as the answer and went in. He did not argue with it and did not ask what it meant. When he came back it was to correct his own side of it, not to press the other.
+He does not push. Two days at the plant, two questions, and when the answer to the second was a step back he took the step as the answer and went in. He did not argue with it and did not ask what it meant. When he came back it was to correct his own side of it, not to press the other.
 
 He does not bring the can twice. Once he knew it had been a lie — a small one, the kind the ring tells every day — he left it inside, and came out with nothing in his hands rather than the wrong thing.
 
