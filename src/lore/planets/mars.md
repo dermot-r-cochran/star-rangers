@@ -12,7 +12,7 @@ image: "mars.jpg"
 image_alt: "Designed cover for Mars: a rust-red planet disc with a dark terminator shadow, on a starfield background."
 ---
 
-Every governing body the Solar System has produced has kept its command chair on the same red dust, whether elected, authoritarian or expert-led in turn. None of them asked Mars first.
+Every governing body the Solar System has produced, elected, authoritarian and expert-led in turn, has kept its command chair on the same red dust. None of them asked Mars first.
 
 **Mars** is the oldest permanently settled world beyond Earth. It is also the only one that has been the seat of interplanetary authority under all five of the Solar System's successive governing arrangements. Those are the Navigation and Trade Accords, the [United Space Consortium](/star-rangers/lore/united-space-consortium/), [the Imperium](/star-rangers/lore/the-imperium/), the [Military Space Command](/star-rangers/lore/military-space-command/), and today's government of the Solar System under the [Concord](/star-rangers/lore/solar-system-concord/)'s framework, whose military is the Solar System Defence Command. Whatever the Solar System calls its government in a given century, that government's command floor is on Mars. The Archive does not name that present civil government, and has not been asked to.
 
