@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Fellowship holds no worship ceremonies** (2026-11-13, Dermot's *"The Fellowship does not use incense or chanting or hold any formal worship ceremonies"*). *Below the Bells* (S01E00C00) and its description no longer have Elvira expect incense and chanting at Brother Daire's abbey; she braces for its quiet. *The Flight of Aldera* matches it, Sen's *Three Disciplines of the Record* gives the contemplative houses a rule rather than a liturgy, and *The Fellowship of Light* states the ruling.
+
 - **The image queue stops counting closed entries as pending** (2026-11-13, at Dermot's *"Yes fix the count please"*). `scripts/image-prompts.js` now marks an `images.md` entry `closed` when the record has removed it, superseded it or ruled it to have no visualization on record, and `--generate` skips it. The list had shown sixteen pending; three are. Pinned by `test/image-prompt-closed.test.js`.
 
 - **Edvin Thorsby has a portrait** (2026-11-13, Dermot's *"Yes, file take 4"*). The Field Officer of the L4 fold-approach watch, reading the shift log at his desk in the watch compartment. Two rounds: the first drew present-day electrical boxes on the wall, so the prompt now sets the instruments into the wall as seamless capsules. Flaws passed and named in `story-bible/images.md`: the collar tab shows three bars, not four.
