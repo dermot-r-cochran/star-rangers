@@ -13,13 +13,13 @@ A [Star Ranger's uniform](/star-rangers/lore/rank-insignia-and-uniform/) is buil
 
 ## Who Has to Wear It
 
-[Eden Space Habitat](/star-rangers/lore/eden-space-habitat/)'s civil detective bureau, under Detective Superintendent [Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), is a uniformed service, and the uniform carries rank marks in plain view. That is the bureau's own working rule and not a [Compact](/star-rangers/lore/orbital-habitats-compact/) requirement — the Compact sets none on any habitat's bureau — and, as the rest of this entry sets out, whether a given detective is wearing it on a given day depends on the role and on the case.
+[Eden Space Habitat](/star-rangers/lore/eden-space-habitat/)'s civil detective bureau, under Detective Superintendent [Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), is a uniformed service, and the uniform carries rank marks in plain view. That is the bureau's own working rule and not a [Compact](/star-rangers/lore/orbital-habitats-compact/) requirement, since the Compact sets none on any habitat's bureau. As the rest of this entry sets out, whether a given detective is wearing it on a given day depends on the role and on the case.
 
 It is a working garment rather than a dress one: a plain single-breasted jacket over ordinary clothing, cut for a long shift and issued in one colour, with the rank mark seated at the collar. Nobody in the bureau parades in it and nothing about it is ceremonial. What it does is answer a question before it is asked.
 
 The ladder it marks is [the bureau's own](/star-rangers/characters/rasa-oyelaran/), and it is short: **Detective**, **Detective Senior Sergeant**, **Detective Inspector**, **Detective Superintendent**.
 
-**The obligation is on the lower ranks, and it thins going up.** A detective working a deck wears the jacket; a superintendent is not required to. The rule follows from the reason rather than from seniority for its own sake — the uniform exists to answer the question of a resident who has an officer at their door unannounced, and that is not the situation a superintendent is usually in. Where the obligation stops exactly is not fixed in the record, and the bureau has not been asked to fix it.
+**The obligation is on the lower ranks, and it thins going up.** A detective working a deck wears the jacket. A superintendent is not required to. The rule follows from the reason rather than from seniority for its own sake. The uniform exists to answer the question of a resident who has an officer at their door unannounced, and that is not the situation a superintendent is usually in. Where the obligation stops exactly is not fixed in the record, and the bureau has not been asked to fix it.
 
 **Two exceptions, and both are the rule working rather than bending.**
 
@@ -29,17 +29,17 @@ The ladder it marks is [the bureau's own](/star-rangers/characters/rasa-oyelaran
 
 ## Why Not the Ranger Answer
 
-The Rangers' rules are not wrong here; they are answering a different question, and the two answers diverge on **who does the reading**.
+The Rangers' rules are not wrong here. They are answering a different question, and the two answers diverge on **who does the reading**.
 
-A Ranger's insignia exists for *a colleague across a corridor who needs rank at a glance and cannot look it up in time* — read by other officers, often of other services, sometimes across a language nobody shares. It withholds identity on purpose: **no Ranger's name is written on their clothing**, because identity is properly held in a record and answerable to a person, and anyone entitled to it has it before she reaches the door.
+A Ranger's insignia exists for *a colleague across a corridor who needs rank at a glance and cannot look it up in time*. It is read by other officers, often of other services, sometimes across a language nobody shares. It withholds identity on purpose: **no Ranger's name is written on their clothing**, because identity is properly held in a record and answerable to a person, and anyone entitled to it has it before she reaches the door.
 
-**A detective's uniform is read by the public**, and mostly by one member of it at a time: a resident on a deck, at their own door, being asked questions they did not invite. What that person needs is not what a colleague needs. They need to know, without asking and without taking anyone's word for it, **what the person in front of them is entitled to do** — and they need it at the beginning of the conversation rather than at the end of it.
+**A detective's uniform is read by the public**, and mostly by one member of it at a time: a resident on a deck, at their own door, being asked questions they did not invite. What that person needs is not what a colleague needs. They need to know, without asking and without taking anyone's word for it, **what the person in front of them is entitled to do**, and they need it at the beginning of the conversation rather than at the end of it.
 
-So the garment that withholds is correct for one service and wrong for the other. The Rangers are a body that arrives; the bureau is a body that lives there.
+So the garment that withholds is correct for one service and wrong for the other. The Rangers are a body that arrives. The bureau is a body that lives there.
 
 ## The Marks
 
-The bureau did not invent a visual language. It borrowed the discipline of the one already painted on every hatch frame in the habitat — [the plainmark](/star-rangers/lore/plainmark/) — and the borrowing is of method rather than grammar. A plainmark proper is infrastructure marking: it belongs on a fixed frame beside a hatch, it says hazard, way, count and refuge, and it does not say anything about a person. None of that moves onto a collar.
+The bureau did not invent a visual language. It borrowed the discipline of the one already painted on every hatch frame in the habitat — [the plainmark](/star-rangers/lore/plainmark/), and the borrowing is of method rather than grammar. A plainmark proper is infrastructure marking: it belongs on a fixed frame beside a hatch, it says hazard, way, count and refuge, and it does not say anything about a person. None of that moves onto a collar.
 
 What moves is the reasoning. **Rank is a count**, and the plainmark's count band already knows how to say a small number without writing it: black strokes and blocks on bone-white, a short stroke for one and a wide filled block for five.
 
@@ -62,7 +62,7 @@ That there are, elsewhere on the same habitat, arrangements the bureau does not 
 
 ## What the Record Does Not Hold
 
-**Whether the uniform carries any mark of individual identity has not been established.** The rank mark says what an officer is; it does not say who. Nothing in the record settles whether a bureau jacket also carries a number, a token, or nothing at all — and the question is a real one rather than a detail, because the accountability argument above runs in exactly that direction: a resident who can read the rank and not the officer can check the office and not the person.
+**Whether the uniform carries any mark of individual identity has not been established.** The rank mark says what an officer is. It does not say who. Nothing in the record settles whether a bureau jacket also carries a number, a token, or nothing at all. The question is a real one rather than a detail, because the accountability argument above runs in exactly that direction: a resident who can read the rank and not the officer can check the office and not the person.
 
 The Archive marks the absence and has not been asked to fill it.
 

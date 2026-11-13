@@ -19,4 +19,4 @@ tags: [nsp, noogenic, nooseed]
 
 NSP typically rises with high [Inner World Depth](/star-rangers/glossary/inner-world-depth-iwd/) and successful paradox stabilisation. A mind with shallow interior structure or unresolved contradictions is unlikely to survive the compression process with its generative capacity intact.
 
-**Example:** A mind that has spent a lifetime holding contradictory commitments without resolving them into a simpler story — and remained functional throughout — typically scores higher NSP than a mind of equal intelligence that resolves every contradiction quickly. Compression tests the paradox-bearing structure, not the raw processing power.
+**Example:** A mind that has spent a lifetime holding contradictory commitments without resolving them into a simpler story, and has remained functional throughout, typically scores higher NSP than a mind of equal intelligence that resolves every contradiction quickly. Compression tests the paradox-bearing structure, not the raw processing power.
