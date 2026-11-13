@@ -12,7 +12,7 @@ system: "Kiln System"
 locationType: "Planet"
 ---
 
-Quern's weather report has not been revised since it was first filed, and the Survey Corps does not expect to revise it. The world has weather the way a river has a shape: violent everywhere, and the same violence in the same places, on no calendar at all. That is a deficiency its settlers have made good in their own way, as this entry will come to.
+Quern's weather report has not been revised since it was first filed, and the Survey Corps does not expect to revise it. The world has weather the way a river has a shape: violent everywhere, and the same violence in the same places, on no calendar at all: a deficiency its settlers have made good in their own way, as this entry will come to.
 
 <video controls preload="none" poster="/star-rangers/video/quern-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
   <source src="/star-rangers/video/quern.mp4" type="video/mp4">
@@ -27,13 +27,13 @@ Quern's weather report has not been revised since it was first filed, and the Su
 
 The working term on the first survey was *the hurricane*, and the record keeps the word while noting everything wrong with it. Nothing in the storm is water. Nothing about it is tropical. And it will never move on or make landfall, having no coast, no season, and nowhere else to be.
 
-Directly beneath the star, rock does not stay rock. The substellar region is an open melt, a desert of molten silicate under a sky that never changes its angle of light. The survey crews called it **the Glazing**. The settlers call the whole sunward hemisphere **the Burn**. Heat rising off the melt drives a single permanent cyclonic storm, anchored where its fuel is and organised into rotation by the planet's own twenty-nine-hour spin. What the storm carries is not water vapour but rock vapour: sodium and silicon monoxide boiled off the melt, lofted, cooled at the storm's rim, and returned as a thin, perpetual rain of stone. The storm cannot exhaust its energy source and cannot leave it, so it does what no storm on a turning world is permitted to do: it simply continues.
+Directly beneath the star, rock does not stay rock. The substellar region is an open melt, a desert of molten silicate under a sky that never changes its angle of light. The survey crews called the substellar region **the Glazing**. The settlers call the whole sunward hemisphere **the Burn**. Heat rising off the melt drives a single permanent cyclonic storm, anchored where its fuel is and organised into rotation by the planet's own twenty-nine-hour spin. What the storm carries is not water vapour but rock vapour: sodium and silicon monoxide boiled off the melt, lofted, cooled at the storm's rim, and returned as a thin, perpetual rain of stone. The storm cannot exhaust its energy source and cannot leave it, so it does what no storm on a turning world is permitted to do: it simply continues.
 
 ## The Night Side
 
 The far hemisphere has never seen its sun. What warmth crosses to it arrives worn out, and the dark side pays the debt the bright side runs up: everything on Quern that can freeze ends there, laid down in order of its freezing points. Water ice nearest the light, in ranges pressed outward from the storm belt. Carbon dioxide frost beyond that, where water has long since finished falling. And at the antistellar deep, the coldest ground on the world, under a sky of unmoving stars, the air itself gives up. Nitrogen, the bulk of Quern's atmosphere, condenses and falls as snow.
 
-The survey crews' name for those last fields was **the Meal**, that being what a quern produces. The settlers' name for the whole hemisphere is **the Hush**, and theirs is the accurate one. It is the stillest place the Survey Corps has ever instrumented: no wind that a landed probe recorded above a whisper, no sound but the instrument's own, and snowfall too fine and too sparse to see except in a lamp beam. It is the atmosphere, arriving at its own funeral, a few grains at a time.
+The survey crews' name for those last fields was **the Meal**, that being what a quern produces. The settlers' name for the whole hemisphere is **the Hush**, and theirs is the accurate one. It is the stillest place the Survey Corps has ever instrumented: no wind that a landed probe recorded above a whisper, no sound but the instrument's own, and snowfall too fine and too sparse to see except in a lamp beam: the atmosphere, arriving at its own funeral, a few grains at a time.
 
 ## The Millrace
 

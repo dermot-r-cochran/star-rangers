@@ -36,7 +36,7 @@ A Telearch is native to no universe and supervises from outside, which leaves a 
 
 **The standing answer is the [Mediarch](/star-rangers/glossary/mediarch/) tier. A Mediarch is a proxy Telearch**: the Telearch line acting inside a universe, scoped to a single force-domain. This is the Mediarch tier's substance rather than a resemblance, and it turns three otherwise-bare assertions about that tier into consequences:
 
-- **Co-creation** is not two parents of equal kind. The Telearch line supplies what a Mediarch *is*; the [Concordant Principal](/star-rangers/glossary/concordant-principal/) line supplies the zone-scoping that gives it somewhere to act. That is substance and jurisdiction, not a merger.
+- **Co-creation** is not two parents of equal kind. The Telearch line supplies what a Mediarch *is*; the [Concordant Principal](/star-rangers/glossary/concordant-principal/) line supplies the zone-scoping that gives it somewhere to act. The two are substance and jurisdiction, not a merger.
 - **Continuity prevails on conflict** is not an arbitration rule imposed from above. Continuity is what a Mediarch substantially is, and a proxy cannot rule against the office it proxies for.
 - **The dual obligation** is not divided loyalty. Zone-local operation of a force runs with the zone's Principal; that force's continuity across boundaries and universes runs up the Telearch line. A proxy answering locally for local matters and to its own principal for everything else is an ordinary arrangement.
 

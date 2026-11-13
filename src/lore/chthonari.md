@@ -18,7 +18,7 @@ The **Chthonari** are a sapient, insectoid people native to the **Undersong Belt
 
 A Chthonari stands small by most humanoid measures: roughly forearm-to-torso length for an off-world visitor's frame of reference. It is six-limbed, exoskeletal, and built low and dense for a life spent gripping tunnel walls in negligible gravity rather than standing upright against a strong one. The exoskeleton tolerates brief unsuited vacuum exposure without injury. That trait made early Federation contact teams assume, incorrectly, that Chthonari were a fully vacuum-native species requiring no life support at all. Sustained work and reproduction both require a sealed, pressurized burrow, and a Chthonari denied one for too long sickens the same as anyone would.
 
-What the exoskeleton actually carries is an array of vibration-sensing organs distributed along each limb and the lower carapace. It is the organ set most outside biologists compare, inexactly, to a combined inner ear and lateral line. A Chthonari standing on solid rock reads the structure's own resonant behavior continuously and without conscious effort, the same way a human's peripheral vision registers motion without being asked to look for it.
+What the exoskeleton actually carries is an array of vibration-sensing organs distributed along each limb and the lower carapace. That array is the organ set most outside biologists compare, inexactly, to a combined inner ear and lateral line. A Chthonari standing on solid rock reads the structure's own resonant behavior continuously and without conscious effort, the same way a human's peripheral vision registers motion without being asked to look for it.
 
 ## The Undersong
 

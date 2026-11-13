@@ -35,7 +35,7 @@ The channel runs strongest where one [Telearch](/star-rangers/glossary/telearch/
 
 ## Scope
 
-Filed per [The Scope of Physical Law](/star-rangers/lore/the-scope-of-physical-law/). The carrier is manifold structure, formcluster-scoped. Legibility is archecluster-scoped, since shared templates are what make a neighbour's structure readable. And the strength of any given channel is a pairwise fact about two membranes and the continuity office that holds them, which is as narrow as a scope gets while still crossing an Interval.
+Filed per [The Scope of Physical Law](/star-rangers/lore/the-scope-of-physical-law/): the carrier is manifold structure, formcluster-scoped. Legibility is archecluster-scoped, since shared templates are what make a neighbour's structure readable. And the strength of any given channel is a pairwise fact about two membranes and the continuity office that holds them, which is as narrow as a scope gets while still crossing an Interval.
 
 ## See Also
 

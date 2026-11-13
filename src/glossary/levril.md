@@ -29,7 +29,7 @@ Levrils **select Champions** from sentient material beings, organic or artificia
 
 Levrils may also choose to mentor mortals in [constraint literacy](/star-rangers/glossary/constraint-literacy/). This is the closest thing to "teaching magic" that occurs in the Grand Ensemble Multiverse, and it is emphatically not magic.
 
-**Example:** A Levril does not need to test a candidate directly to select them as a Champion. Observing sustained, competent action under constraint is itself sufficient evidence of the causal relevance a Levril looks for. It is the kind of pattern a seasoned survey team lead displays across repeated boundary-station postings.
+**Example:** A Levril does not need to test a candidate directly to select them as a Champion. Observing sustained, competent action under constraint (the kind of pattern a seasoned survey team lead displays across repeated boundary-station postings) is itself sufficient evidence of the causal relevance a Levril looks for.
 
 Levril divides into two subclasses, **Higher Levrils** and **Dragons**, both holding full Cascade standing. Overbearers, Beautiful Monsters, and Threnes are separately named meta-dimensional beings ranked below Celestials, but they are **not** Levrils and hold no Cascade standing. They are Class II Sapient Monsters, alongside Obligers and Gilded Saints.
 
