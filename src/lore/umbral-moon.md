@@ -19,25 +19,25 @@ This wants saying plainly, because the site's other property invites a much wors
 
 ## What It Shares the Point With
 
-**L5 also carries a [flexure](/star-rangers/lore/boundary-zones/)** — a standing bend in this membrane's own geometry, drawing a patch of it toward a neighbour, so that the [Interval](/star-rangers/glossary/interval/) narrows over that patch and nowhere else. It is the ordinary inter-membrane case: the same kind of edge [Threshold Station](/star-rangers/lore/threshold-station/) and the Marsh Causeway sit on, and it behaves the same way.
+**L5 also carries a [flexure](/star-rangers/lore/boundary-zones/)**: a standing bend in this membrane's own geometry, drawing a patch of it toward a neighbour, so that the [Interval](/star-rangers/glossary/interval/) narrows over that patch and nowhere else. It is the ordinary inter-membrane case: the same kind of edge [Threshold Station](/star-rangers/lore/threshold-station/) and the Marsh Causeway sit on, and it behaves the same way.
 
 Two things follow, and the record is careful about both.
 
-**The flexure is not what put the moon there, and the moon is not what put the flexure there.** They share coordinates. A flexure is not made, not travelled, and not attracted to mass; an L5 point is a consequence of two bodies and their motion. That two unremarkable things coincide at one address is the kind of coincidence a boundary station is built on rather than an argument for design, and the file notes that the coincidence is doing no work in any account that needs it.
+**The flexure is not what put the moon there, and the moon is not what put the flexure there.** They share coordinates. A flexure is not made, not travelled, and not attracted to mass. An L5 point is a consequence of two bodies and their motion. That two unremarkable things coincide at one address is the kind of coincidence a boundary station is built on rather than an argument for design, and the file notes that the coincidence is doing no work in any account that needs it.
 
 **The membrane on the far side is not identified.** This is standard rather than a gap: neither Threshold's neighbour nor the Causeway's is named either, because the [Interval](/star-rangers/glossary/interval/) is manifold separation and carries no bearing, no distance, and nothing a survey could follow to see what is over there. The record has instruments for measuring that a neighbour is close. It has none for asking which one.
 
 ## Why It Was Found Late
 
-The moon is small, dark, and in a place nobody photographs — L5 holds dust, and dust is what a survey expects to find there. What eventually found it was not an image.
+The moon is small, dark, and in a place nobody photographs. L5 holds dust, and dust is what a survey expects to find there. What eventually found it was not an image.
 
-[Eden](/star-rangers/lore/eden-space-habitat/)'s research intelligences flagged **anomalous gravitational micro-pulses** in a data set collected for something else. The pulses are the flexure rather than the moon: as the Interval over the patch narrows and widens, a coherent mass on the far side registers intermittently on this side as [gravitational field structure with nothing behind it](/star-rangers/lore/membrane-shadows/) — a signature with no thermal or mass return, legible only to a cross-membrane gravimeter and to a pattern-finder patient enough to notice it recurring. The moon turned up in the follow-up survey, sitting in the middle of the anomaly and having nothing to do with it.
+[Eden](/star-rangers/lore/eden-space-habitat/)'s research intelligences flagged **anomalous gravitational micro-pulses** in a data set collected for something else. The pulses are the flexure rather than the moon: as the Interval over the patch narrows and widens, a coherent mass on the far side registers intermittently on this side as [gravitational field structure with nothing behind it](/star-rangers/lore/membrane-shadows/): a signature with no thermal or mass return, legible only to a cross-membrane gravimeter and to a pattern-finder patient enough to notice it recurring. The moon turned up in the follow-up survey, sitting in the middle of the anomaly and having nothing to do with it.
 
 [New London](/star-rangers/lore/new-london-space-habitat/), stationed at the same point, had been logging **Etheric disturbances** from the flexure's edges for considerably longer, and filing them under station maintenance. The Survey Archive's annotation on this is the one it makes about every such case and has stopped enjoying making: the readings were correct throughout, and nobody had asked the question they were answers to.
 
 ## Crossings
 
-**Class III incursives have been recorded at the site**, and the site's reputation rests almost entirely on it. They are [non-sapient, meta-dimensional, and sub-Levril in causal authority](/star-rangers/lore/meta-dimensional-beings/) — not intelligent and not inert, capable of displacing local physics by being present. A boundary event is the ordinary circumstance in which they are introduced, and a Class III excursion at a narrowing is a boundary event.
+**Class III incursives have been recorded at the site**, and the site's reputation rests almost entirely on it. They are [non-sapient, meta-dimensional, and sub-Levril in causal authority](/star-rangers/lore/meta-dimensional-beings/): not intelligent and not inert, capable of displacing local physics by being present. A boundary event is the ordinary circumstance in which they are introduced, and a Class III excursion at a narrowing is a boundary event.
 
 **They are not the natives of anywhere on the far side**, and the record declines the account that makes them so. A meta-dimensional being extends across higher spatial dimensions rather than living in a universe next door, so *"which realm do they come from"* is a question with the wrong shape, asked of entities that do not have a from. What the flexure supplies is not a door to their country. It is a place where the local physics is thin enough that their presence registers.
 
