@@ -14,7 +14,7 @@ image_alt: "A broad glacier-cut glen between steep bare granite ridges with low 
 
 Ask a Union diplomat which charter world is hardest to get a straight answer from, and the answer is not Ynys Wydrin, where the trouble is the air. It is Aethelrock, where the trouble is agreeing on who gets to speak.
 
-**Aethelrock** is the fourth planet of the **Bruane System** and the third documented charter world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), after [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/) and [Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/). Its ark cooperative found a cold, high-relief world of granite ridgelines and short growing seasons. Rather than settling it as a single polity, it split along the lines the ark's founding families had already half-drawn on the crossing. What arrived as one ship's manifest left the ground as several clans, and has stayed that way for eleven generations.
+**Aethelrock** is the fourth planet of the **Bruane System** and the third documented charter world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/), after [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/) and [Ynys Wydrin](/star-rangers/lore/planets/ynys-wydrin/). Its ark cooperative found a cold, high-relief world of granite ridgelines and short growing seasons. Rather than settling it as a single polity, the cooperative split along the lines the ark's founding families had already half-drawn on the crossing. What arrived as one ship's manifest left the ground as several clans, and has stayed that way for eleven generations.
 
 ## Landfall and the Split
 
@@ -26,7 +26,7 @@ The five founding claims hardened into the clans Aethelrock still keeps. **Clan 
 
 ## Government Without a Government
 
-Aethelrock has no planetary executive. Each clan holds full internal sovereignty over its own territory: law, land tenure, resource allocation. It is answerable to no authority above the clan council itself. The nearest thing to a shared institution is the **Ridgemoot**, a gathering of clan heads. It convenes twice a local year on neutral ground at the plateau border between Clan Ceridwen and Clan Aonghas territory, to settle boundary disputes, coordinate defence, and, increasingly, since reconnection with the Solar System, decide what Aethelrock tells the rest of the Union.
+Aethelrock has no planetary executive. Each clan holds full internal sovereignty over its own territory: law, land tenure, resource allocation. Each clan is answerable to no authority above the clan council itself. The nearest thing to a shared institution is the **Ridgemoot**, a gathering of clan heads. It convenes twice a local year on neutral ground at the plateau border between Clan Ceridwen and Clan Aonghas territory, to settle boundary disputes, coordinate defence, and, increasingly, since reconnection with the Solar System, decide what Aethelrock tells the rest of the Union.
 
 The Ridgemoot has no standing enforcement power. Its resolutions bind only as far as the clans that show up choose to honour them. In practice that means most resolutions hold, because no single clan can defend its territory against the other four combined, and everyone on Aethelrock has done the arithmetic. It is a peace kept by mutual deterrence dressed in the language of custom, and clan elders will tell a visitor, without much embarrassment, that they know it.
 
