@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Fluency pass, seventh batch** (2026-11-13, Opus and Fable). Opus rewrote *Universal Authority*, *Concordant*, *The Selvage Archecluster*, *The Forest Is Waiting*, *Boundary Zones*, *The Plainmark*, *Membrane Shadows* and *What a Mind Is Carried By*. Fable rewrote *Arilon*, *Meridian*, *The Shape of a Life*, *Resurrection and the Life*, *Plural Minds* and *Slipwave*, and Opus checked each against its original and recast one sentence on *Arilon*. Every fact, link and attribution is kept, and *Plural Minds* keeps every guard against reading plurality as disorder.
+
 - **Fluency pass, sixth batch** (2026-11-13, Opus and Fable). Opus rewrote *Spoke Car*, *AI Safety Archetype*, *Overfold*, *Conseleme*, *Commissioned Standing*, *Photographic Beings*, *Smart Pet*, *Mediarch*, *The Thin Inheritance*, *Where the Weather Stops*, *The Honest Dark* and *Coasts, and Other Edges*. Fable rewrote *Tír na nÓg*, *Fellowship of Light*, *The Generation Ark Era*, *Ilveth* and *Chthonari*, and Opus checked each against its original and recast one sentence on *Tír na nÓg*. Every fact, link and attribution is kept.
 
 - **A correction note on a changed locked page** (`CLAUDE.md`, `lib/locked-pages.js`, `scripts/check-locked-pages.js`, `scripts/validate-content.js`, `src/_includes/base.njk`, 2026-11-13, Opus, at Dermot's direction). A locked page may now be changed at his word, with the trailer reason `correction`. That change, and any arithmetic, chronology or terminology fix, must add a dated entry to the page's `corrections:` front matter, which shows under the text as *Corrections*. CI refuses such a change without a note. No page is locked yet.
