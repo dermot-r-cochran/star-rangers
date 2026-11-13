@@ -39,7 +39,7 @@ So the garment that withholds is correct for one service and wrong for the other
 
 ## The Marks
 
-The bureau did not invent a visual language. It borrowed the discipline of the one already painted on every hatch frame in the habitat — [the plainmark](/star-rangers/lore/plainmark/), and the borrowing is of method rather than grammar. A plainmark proper is infrastructure marking: it belongs on a fixed frame beside a hatch, it says hazard, way, count and refuge, and it does not say anything about a person. None of that moves onto a collar.
+The bureau did not invent a visual language. It borrowed the discipline of the one already painted on every hatch frame in the habitat — [the plainmark](/star-rangers/lore/plainmark/) — and the borrowing is of method rather than grammar. A plainmark proper is infrastructure marking: it belongs on a fixed frame beside a hatch, it says hazard, way, count and refuge, and it does not say anything about a person. None of that moves onto a collar.
 
 What moves is the reasoning. **Rank is a count**, and the plainmark's count band already knows how to say a small number without writing it: black strokes and blocks on bone-white, a short stroke for one and a wide filled block for five.
 
