@@ -110,6 +110,7 @@ node scripts/link-glossary-terms.js     # report every glossary and lore entry's
 .\scripts\make-placeholder-card.ps1          # PORTRAIT/ILLUSTRATION PENDING cards, stamped so the image queue counts them as unfinished
 .\scripts\image-file.ps1                     # files a generated/downloaded image into the right src/images/ subdir at the right size and stages it on a branch
 python scripts/photo-finish.py --measure src/images/lore/x.jpg   # a generated image's tones and grain beside Dermot's own photographs (scripts/photo-profile.json); import-image.ps1 runs the finish itself, -Finish 0 for cards and plates
+python scripts/set-readouts.py IN.png OUT.png --box X,Y,W,H --text 03:10:01   # sets exact digits on a generated frame's blank readout panels, a stroke font the script draws, so a still never asks a generator for numerals (13 Nov 2026)
 ```
 ```bash
 node scripts/image-prompts.js           # work through the prompts already written in story-bible/images.md — clipboard one at a time, or generate via Gemini (untracked gemini.local.json; sample in scripts/)
