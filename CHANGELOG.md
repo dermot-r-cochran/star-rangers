@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Edvin Thorsby has a portrait** (2026-11-13, Dermot's *"Yes, file take 4"*). The Field Officer of the L4 fold-approach watch, reading the shift log at his desk in the watch compartment. Two rounds: the first drew present-day electrical boxes on the wall, so the prompt now sets the instruments into the wall as seamless capsules. Flaws passed and named in `story-bible/images.md`: the collar tab shows three bars, not four.
+
 - **Season 1 banner remade** (2026-11-13, Dermot's pick of four takes). The Season 1 and Tissadelle Arc pages now show Dock Seven's two clocks as the record has them: atomic clocks of glass and cream above the pressure seal and the inner hatch, their matte readouts reading *03:10:01* and *03:10:41*, the log's own times. The digits are set by `scripts/set-readouts.py`, not generated. The old frame's blank round housings, which read as dials or wall lamps, are retired. Alt text rewritten on both pages.
 
 - **Two place pages: Dún Rí and Halyx Relay Station** (2026-11-13, Opus, at Dermot's *"Yes, draft them"*). Both are places readers meet in several chapters with no page to look up. *Dún Rí* gathers what the chapters say of Elvira's household, the abbey below it and the 2806 meeting, and marks its world as not established. *Halyx Relay Station* covers its two offices, the translation channel to Meridian, the Sentinel in 2828 and the refusal to certify in 2831, and joins the Atlas. Elvira's and Tavesh's pages link them. Dock Seven and the Marsh Causeway already have sections on *Threshold Station* and *Boundary Zones*.
