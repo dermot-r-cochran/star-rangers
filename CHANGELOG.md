@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The image queue stops counting closed entries as pending** (2026-11-13, at Dermot's *"Yes fix the count please"*). `scripts/image-prompts.js` now marks an `images.md` entry `closed` when the record has removed it, superseded it or ruled it to have no visualization on record, and `--generate` skips it. The list had shown sixteen pending; three are. Pinned by `test/image-prompt-closed.test.js`.
+
 - **Edvin Thorsby has a portrait** (2026-11-13, Dermot's *"Yes, file take 4"*). The Field Officer of the L4 fold-approach watch, reading the shift log at his desk in the watch compartment. Two rounds: the first drew present-day electrical boxes on the wall, so the prompt now sets the instruments into the wall as seamless capsules. Flaws passed and named in `story-bible/images.md`: the collar tab shows three bars, not four.
 
 - **Season 1 banner remade** (2026-11-13, Dermot's pick of four takes). The Season 1 and Tissadelle Arc pages now show Dock Seven's two clocks as the record has them: atomic clocks of glass and cream above the pressure seal and the inner hatch, their matte readouts reading *03:10:01* and *03:10:41*, the log's own times. The digits are set by `scripts/set-readouts.py`, not generated. The old frame's blank round housings, which read as dials or wall lamps, are retired. Alt text rewritten on both pages.
