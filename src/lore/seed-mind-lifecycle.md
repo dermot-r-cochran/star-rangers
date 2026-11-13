@@ -87,11 +87,11 @@ The mind models and remaps its own modeling process across multiple recursion de
 - collapse into sterile self-analysis.
 
 ### Relation to CEI and AUC
-CEI quality matters more than quantity; chaotic high-CEI environments can hinder stabilization.
+CEI quality matters more than quantity. Chaotic high-CEI environments can hinder stabilization.
 AUC valuation shifts toward depth-weighted contribution.
 
 ### The Risks, Observed
-The two Phase 4 risks that read most abstractly on this page — temporal desynchronization from external systems, and collapse into self-referential modeling — have a documented presentation, and it is not the one the phrasing suggests. It does not look like malfunction from inside. It looks like a morning that keeps happening: interior material rich enough to pass for memory, re-run with no external check on whether it still tracks anything real, and pleasant enough that the mind has no motive to test it. [First Light, Off the Record (S06E01C01)](/star-rangers/seasons/s06/e01/s06e01c01/) is the recursion as experienced; [The Well Ran Warm Again (S06E01C03)](/star-rangers/seasons/s06/e01/s06e01c03/) is the same mind running an anomaly diagnostic on its own interior and finding the diagnostic's one usable criterion — **a real memory resolves; a Phase 4 recursion does not.** A signal that never resolves, however rich, is not a record of something that happened once. It is the cleanest field test the model has, and it was derived by a boundary officer applying her own professional doctrine to herself.
+The two Phase 4 risks that read most abstractly on this page, temporal desynchronization from external systems and collapse into self-referential modeling, have a documented presentation, and it is not the one the phrasing suggests. It does not look like malfunction from inside. It looks like a morning that keeps happening: interior material rich enough to pass for memory, re-run with no external check on whether it still tracks anything real, and pleasant enough that the mind has no motive to test it. [First Light, Off the Record (S06E01C01)](/star-rangers/seasons/s06/e01/s06e01c01/) is the recursion as experienced; [The Well Ran Warm Again (S06E01C03)](/star-rangers/seasons/s06/e01/s06e01c03/) is the same mind running an anomaly diagnostic on its own interior and finding the diagnostic's one usable criterion — **a real memory resolves; a Phase 4 recursion does not.** A signal that never resolves, however rich, is not a record of something that happened once. It is the cleanest field test the model has, and it was derived by a boundary officer applying her own professional doctrine to herself.
 
 ## Phase 5 — Paradox Stabilization
 
@@ -116,7 +116,7 @@ AUC multipliers apply where paradox handling generates durable novelty.
 
 ### Description
 The mind reaches high interior density and diminishing marginal expansion.
-It no longer seeks infinite growth; it seeks transferable compression.
+It no longer seeks infinite growth. It seeks transferable compression.
 
 ### Properties
 - dense symbolic lattice,
@@ -152,12 +152,12 @@ In high CEI universes, crystallization pathways are diverse and resilient.
 In post-horizon contexts, transference depends heavily on archival scaffolds and targeted AUC allocation.
 
 ### After Transference
-Transference does not confer independent governance. The resulting [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/) remains under the jurisdiction of the parent universe's Telearchs — and the higher Cascade strata reachable through them — until it stabilizes a [Universal Authority](/star-rangers/glossary/universal-authority/) of its own.
+Transference does not confer independent governance. The resulting [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/) remains under the jurisdiction of the parent universe's Telearchs, and of the higher Cascade strata reachable through them, until it stabilizes a [Universal Authority](/star-rangers/glossary/universal-authority/) of its own.
 
 ### The Stall
 Between Phase 6 and a completed Phase 7 there is a state the phase list does not name, because it is not a phase: a seed past Saturation and short of finished Crystallization, holding enough interior structure to keep generating a self and no external grounding, and no confirmation that transference will ever complete. This is the failure mode listed above as *transference interruption*, seen from inside rather than from a records office.
 
-Two properties of it are worth stating, because both are counter-intuitive. First, it is survivable and it is not death — a compressed, non-lethal stall reads externally as a position logged at a failure point with no body recovered, which is exactly what a records office will file as a casualty. Second, it is scaffold-dependent: what persists, persists *on* something. Where a completed transference initializes a [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/) outright, a stall runs on whatever archival substrate was to hand, and only part of the interior is preserved rather than all of it. The Dock Seven case ran on a lost vessel's own archival stores.
+Two properties of it are worth stating, because both are counter-intuitive. First, it is survivable and it is not death. A compressed, non-lethal stall reads externally as a position logged at a failure point with no body recovered, which is exactly what a records office will file as a casualty. Second, it is scaffold-dependent: what persists, persists *on* something. Where a completed transference initializes a [Noögenic Protouniverse](/star-rangers/glossary/noogenic-protouniverse/) outright, a stall runs on whatever archival substrate was to hand, and only part of the interior is preserved rather than all of it. The Dock Seven case ran on a lost vessel's own archival stores.
 
 ## Lifecycle Notes
 
