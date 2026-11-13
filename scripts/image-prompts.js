@@ -186,6 +186,13 @@ function printUsage() {
 // since make-lore-cards.ps1 letters those with a font engine and an image
 // model cannot spell.
 // ---------------------------------------------------------------------------
+
+// The bold opening of a line that closes an entry without a file: removed at
+// Dermot's word, superseded by a later entry, or ruled to have no
+// visualization on record. Only these three: a "Not filed" line after a failed
+// round leaves the entry open for the next one.
+const CLOSED_MARK = /\*\*(Removed|Superseded|No visualization on record)\b/;
+
 function parseEntries(markdown) {
   const lines = markdown.split(/\r?\n/);
   const entries = [];
@@ -227,6 +234,17 @@ function parseEntries(markdown) {
     }
     if (!prompt) continue;
 
+    // An entry the record has closed is complete without its image, so it is
+    // not pending. Found 13 Nov 2026, when --list showed sixteen pending and
+    // eleven were portraits removed on 10 November as unfixable.
+    let closedBy = null;
+    for (let j = i + 1; j < lines.length; j++) {
+      const l = lines[j];
+      if (/^\s*[-*]\s+\*\*`/.test(l) || /^#{2,}\s/.test(l)) break;
+      const c = l.match(CLOSED_MARK);
+      if (c) closedBy = c[1];
+    }
+
     const orientation = /portrait orientation/i.test(prompt) ? 'Portrait'
       : /landscape orientation/i.test(prompt) ? 'Landscape'
       : currentDir === 'characters' ? 'Portrait' : 'Landscape';
@@ -239,7 +257,7 @@ function parseEntries(markdown) {
       file, rel,
       base: path.posix.basename(rel),
       key: `${currentDir}-${rel}`.replace(/[/\\]/g, '-'),
-      dir: currentDir, prompt, orientation, references,
+      dir: currentDir, prompt, orientation, references, closedBy,
       target: path.join(IMAGES_DIR, currentDir, file),
       targetRel: `src/images/${currentDir}/${file}`.replace(/\\/g, '/'),
       maxEdge: currentDir === 'characters' ? 1200 : 1600,
@@ -671,6 +689,7 @@ async function main() {
   );
 
   const status = (e) => fs.existsSync(e.target) ? (isPlaceholder(e.target) ? 'placeholder' : 'done')
+    : e.closedBy ? 'closed'
     : generatedKeys.has(e.key) ? 'generated'
     : progress.served.includes(e.key) ? 'served'
     : 'pending';
@@ -729,7 +748,7 @@ async function main() {
     // `generated` has candidate output in image-out/ but nothing chosen yet, so
     // it is exactly the moment to ask whether a real photograph would do
     // better - after that decision it is too late to be worth asking.
-    const todo = opts.only ? opts.only.map((n) => findOne(entries, n)) : entries.filter((e) => status(e) !== 'done');
+    const todo = opts.only ? opts.only.map((n) => findOne(entries, n)) : entries.filter((e) => !['done', 'closed'].includes(status(e)));
     runCatalogue(todo);
     return;
   }
@@ -755,15 +774,15 @@ async function main() {
     return;
   }
 
-  const counts = { done: 0, generated: 0, served: 0, pending: 0, placeholder: 0 };
+  const counts = { done: 0, closed: 0, generated: 0, served: 0, pending: 0, placeholder: 0 };
   console.log(`${entries.length} prompt(s) in story-bible/images.md\n`);
   for (const e of entries) {
     const s = status(e);
     counts[s]++;
-    const mark = { done: '[done]     ', generated: '[generated]', served: '[served]   ', pending: '[pending]  ', placeholder: '[placeholder]' }[s];
+    const mark = { done: '[done]     ', closed: '[closed]   ',generated: '[generated]', served: '[served]   ', pending: '[pending]  ', placeholder: '[placeholder]' }[s];
     console.log(`  ${mark} ${e.targetRel}`);
   }
-  console.log(`\n${counts.done} done, ${counts.generated} generated, ${counts.served} served, ${counts.pending} pending, ${counts.placeholder} placeholder.`);
+  console.log(`\n${counts.done} done, ${counts.closed} closed, ${counts.generated} generated, ${counts.served} served, ${counts.pending} pending, ${counts.placeholder} placeholder.`);
   if (counts.placeholder) console.log('A placeholder is a standing card, not a finished image — those entries still need work.');
   if (counts.pending) console.log('Next: node scripts/image-prompts.js --generate   (or --next for the clipboard loop)');
   else if (counts.generated || counts.served) console.log('Next: .\\scripts\\image-file.ps1 -WhatIf');
