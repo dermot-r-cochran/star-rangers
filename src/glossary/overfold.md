@@ -18,7 +18,7 @@ tags: [overfold, fellowship-of-light, etheric, boundary-zone, contemplative]
 
 The **Overfold** is what a [Fellowship of Light](/star-rangers/lore/fellowship-of-light/) contemplative chapter calls a boundary place: somewhere the world runs thin, patterns persist past their trigger, and a trained observer can feel a wrongness in the air long before an instrument confirms it.
 
-It is not folklore standing in for ignorance. It is an old, careful name for the same lawful phenomenon that modern instrumentation calls [Etheric](/star-rangers/glossary/etheric/) interference and Survey Corps now grades as [Membrane Resonance or Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/) — coined centuries before any of those frameworks existed, by people whose only instrument was long, patient attention.
+It is not folklore standing in for ignorance. It is an old, careful name for the same lawful phenomenon that modern instrumentation calls [Etheric](/star-rangers/glossary/etheric/) interference and Survey Corps now grades as [Membrane Resonance or Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/). It was coined centuries before any of those frameworks existed, by people whose only instrument was long, patient attention.
 
 Three names, one thing, in the order they were coined: **the Overfold** (contemplative, oldest), **Etheric** (the formal cosmological layer the Five Layers model names), **Intermembrane Bleed** (the current Survey Corps operational term). None of the three is more "real" than the others. Each names the part of the phenomenon its own tradition was positioned to notice first.
 
