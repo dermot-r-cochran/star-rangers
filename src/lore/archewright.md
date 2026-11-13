@@ -11,7 +11,7 @@ plain: "Between the tier that sets the deep grammar of reality and the tier that
 
 Nothing in this entry has ever been observed. That is not a weakness in the entry; it is the first fact about its subject, and the register every sentence below is written in.
 
-The **Archewright** is the third of the [Cosmic Cascade's](/star-rangers/lore/cosmic-cascade/) Design Structure tiers — below the Metawrights and [Formwrights](/star-rangers/glossary/formtype/), above the [Worldwrights](/star-rangers/glossary/worldwright/) — and, with them, eternal outright: no sequence, no before-and-after, no clock of any register. What follows is the record's account of what such a tier does, assembled entirely from what its work leaves behind.
+The **Archewright** is the third of the [Cosmic Cascade's](/star-rangers/lore/cosmic-cascade/) Design Structure tiers (below the Metawrights and [Formwrights](/star-rangers/glossary/formtype/), above the [Worldwrights](/star-rangers/glossary/worldwright/)) and, with them, eternal outright: no sequence, no before-and-after, no clock of any register. What follows is the record's account of what such a tier does, assembled entirely from what its work leaves behind.
 
 ## The Work
 
@@ -29,7 +29,7 @@ Everything drawn from one Archewright's vocabulary constitutes an [archecluster]
 
 ## Which Time There Is
 
-The tier's least visible work is the one every clock in its cluster stands on. [Conseleme](/star-rangers/glossary/conseleme/) fixes what any time must satisfy — an open future, a resolving present, a static past — and the Archewright settles *which time there is*: how many timelike dimensions, how sequence is carried, what a clock in that cluster is measuring when it measures. Different archeclusters realise time in different ways, and none of the variation reaches the asymmetry, which is a condition of being an implementation rather than a feature of any. A [Worldwright authoring elsewhere](/star-rangers/lore/ensemble-multiverse/) may select strange temporal structure outright; it selects inside what its Archewright's vocabulary admits.
+The tier's least visible work is the one every clock in its cluster stands on. [Conseleme](/star-rangers/glossary/conseleme/) fixes what any time must satisfy (an open future, a resolving present, a static past), and the Archewright settles *which time there is*: how many timelike dimensions, how sequence is carried, what a clock in that cluster is measuring when it measures. Different archeclusters realise time in different ways, and none of the variation reaches the asymmetry, which is a condition of being an implementation rather than a feature of any. A [Worldwright authoring elsewhere](/star-rangers/lore/ensemble-multiverse/) may select strange temporal structure outright; it selects inside what its Archewright's vocabulary admits.
 
 ## Read Only in the Handwriting
 
@@ -37,4 +37,4 @@ Nothing observes an Archewright. Not "nothing yet": an instrument is an assembly
 
 The nearest thing the record holds to a second data point is [Counterpane](/star-rangers/lore/counterpane-archecluster/) — a neighbouring cluster whose Archewright drew a different quantum kernel, confirmed by instruments that went there and came home. Even that is not an observation of an Archewright. It is the same inference made twice: different handwriting, read in the only place handwriting can be read, which is the page.
 
-Why an Archewright draws what it draws — why this vocabulary, why these shapes, why a kernel like ours or a kernel like Counterpane's — is a file exactly one line long: *insufficient basis for any finding.* The record keeps its account of the tier the only way it can: not a portrait, but a concordance of everything ever written in its hand.
+Why an Archewright draws what it draws (why this vocabulary, why these shapes, why a kernel like ours or a kernel like Counterpane's) is a file exactly one line long: *insufficient basis for any finding.* The record keeps its account of the tier the only way it can: not a portrait, but a concordance of everything ever written in its hand.

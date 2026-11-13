@@ -13,9 +13,9 @@ The Imperium ended in 2609. Its shipyards did not, its patents did not, and the 
 
 ## What It Is
 
-The **Halvern Combine** is a commercial industrial and prospecting concern of the Inner System, and it is old. It descends directly from one of the [legacy industrial holdings](/star-rangers/lore/the-imperium/) that stood behind the Imperium's fleet — the small number of families who, well before the Tycho Accords, had taken control of the shipyards, the fold-drive patents, and the orbital manufacturing that any command structure still depended on to fly.
+The **Halvern Combine** is a commercial industrial and prospecting concern of the Inner System, and it is old. It descends directly from one of the [legacy industrial holdings](/star-rangers/lore/the-imperium/) that stood behind the Imperium's fleet: the small number of families who, well before the Tycho Accords, had taken control of the shipyards, the fold-drive patents, and the orbital manufacturing that any command structure still depended on to fly.
 
-The Imperium's own record is unusually candid about the arrangement, because it never regarded it as embarrassing. The Inner System Defence Fleet did not conquer that industrial base during the Coherence Wars; **it was already answerable to it**, and the settlement moved cleanly from *the fleet controls the field* to *the fleet's patrons control the Solar System.* Halvern is what one of those patrons is called now.
+The Imperium's own record is unusually candid about the arrangement, because it never regarded it as embarrassing. The Inner System Defence Fleet did not conquer that industrial base during the Coherence Wars. **It was already answerable to it**, and the settlement moved cleanly from *the fleet controls the field* to *the fleet's patrons control the Solar System.* Halvern is what one of those patrons is called now.
 
 ## Why It Outlived the Government That Made It
 
@@ -23,7 +23,7 @@ The Imperium's own record is unusually candid about the arrangement, because it 
 
 When the Imperium fell, what ended was a chain of command: offices, ranks, an Administrator-Supreme, a claim to rule. What did not end was a patent portfolio, a set of yards, a shareholder register, and a drawer of licences issued under seal. **None of those requires the issuing authority to persist**, any more than a survey requires the surveyor to still be alive.
 
-**A permission outlives the power that granted it, and withdrawing one requires a body with standing.** That is the asymmetry the Combine has lived in for two centuries. The [Military Space Command](/star-rangers/lore/military-space-command/) inherited a defence problem, not a licensing archive. The Consolidation Accords were written to constrain a military, and the [Star Rangers charter](/star-rangers/lore/formation-of-star-rangers/) that followed was argued line by line over what the Rangers would be *forbidden* to become — neither was an audit of two hundred years of commercial paper, and nobody in either negotiation proposed one.
+**A permission outlives the power that granted it, and withdrawing one requires a body with standing.** That is the asymmetry the Combine has lived in for two centuries. The [Military Space Command](/star-rangers/lore/military-space-command/) inherited a defence problem, not a licensing archive. The Consolidation Accords were written to constrain a military, and the [Star Rangers charter](/star-rangers/lore/formation-of-star-rangers/) that followed was argued line by line over what the Rangers would be *forbidden* to become. Neither was an audit of two hundred years of commercial paper, and nobody in either negotiation proposed one.
 
 So the Combine's charters were not upheld, and were not overturned. They were simply never the question in front of anybody, and a document that nobody has jurisdiction to revoke is, for every practical purpose, valid.
 
@@ -49,7 +49,7 @@ Halvern is the same lesson at a different speed, and the Corps does not teach fr
 
 ## What the Record Does Not Hold
 
-**Nobody has established what became of the other patron holdings.** The Imperium's industrial base was a small number of families and Halvern is one line of descent from it; the archive does not say how many others survived, under what names, or holding what paper. The question has not been asked by anybody with a reason to ask it, and the Survey Archive marks the absence rather than filling it.
+**Nobody has established what became of the other patron holdings.** The Imperium's industrial base was a small number of families and Halvern is one line of descent from it. The archive does not say how many others survived, under what names, or holding what paper. The question has not been asked by anybody with a reason to ask it, and the Survey Archive marks the absence rather than filling it.
 
 **And [nobody certifies a charter](/star-rangers/lore/what-nobody-certifies/).** The Safety Corps certifies hulls and the Navigation Corps certifies routes, both to published standards, both with expiry and review. No body in settled space performs the equivalent office for a licence to be somewhere. That gap is not a Halvern invention and the Combine did not lobby for it — it is the shape of a decision taken at the Rangers' founding, in full knowledge of what it would cost. The Combine simply occupies it, which is cheaper than defending it.
 
