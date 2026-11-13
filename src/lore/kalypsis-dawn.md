@@ -17,23 +17,23 @@ The *Kalypsis Dawn* is an unarmed **Lee-Class** vessel of the [Star Rangers](/st
 
 **It carries no offensive weapons, and the reason is contractual rather than principled.** The Rangers hold neutral-passage agreements with a great many polities, alliances and independent systems, and every one of them rests on a claim to non-aggression that an armed hull would void at a stroke. The design brief was written from that fact backwards. What the engineers were permitted to spend on was **passive resilience**, and they spent all of it there.
 
-The class takes its name from the sheltered side. A lee is not a defence and does not stop anything; it is the side of a thing where the weather is not, and a ship whose entire job is to be that for whoever is aboard was never going to be named for a weapon.
+The class takes its name from the sheltered side. A lee is not a defence and does not stop anything. It is the side of a thing where the weather is not, and a ship whose entire job is to be that for whoever is aboard was never going to be named for a weapon.
 
 ## The Design Idea
 
-**A boundary zone cannot be shielded.** Its hazard is not force. Nothing buffets a hull at a [narrowing](/star-rangers/lore/boundary-zones/); what happens instead is that **agreement fails** — local instruments each measure correctly and cross-position comparisons diverge, chronometry drifts, and phase displacement drives anomalies that no plating deflects because there is nothing arriving to deflect.
+**A boundary zone cannot be shielded.** Its hazard is not force. Nothing buffets a hull at a [narrowing](/star-rangers/lore/boundary-zones/); what happens instead is that **agreement fails**. Local instruments each measure correctly and cross-position comparisons diverge, chronometry drifts, and phase displacement drives anomalies that no plating deflects because there is nothing arriving to deflect.
 
 So the *Kalypsis Dawn* is not built to keep the effect out. It is built to **know the effect by how much**, and that is the whole of its distinction.
 
-The ship carries **several independent reference sets** — clocks, inertial references and field baselines that do not share a design, a supply chain or a failure mode — cross-checked continuously against each other rather than against a single authority. In ordinary space they agree and the redundancy is dead weight. Inside a Type II interface they begin to disagree, and the disagreement is the measurement: a crew that can state the divergence has a boundary reading, where a crew with one very good clock has only a clock they no longer trust.
+The ship carries **several independent reference sets**: clocks, inertial references and field baselines that do not share a design, a supply chain or a failure mode. They are cross-checked continuously against each other rather than against a single authority. In ordinary space they agree and the redundancy is dead weight. Inside a Type II interface they begin to disagree, and the disagreement is the measurement: a crew that can state the divergence has a boundary reading, where a crew with one very good clock has only a clock they no longer trust.
 
 **The design is a lesson learned expensively.** [Threshold Station's forty-second discrepancy](/star-rangers/lore/boundary-zones/) sat in the record for eleven years as a calibration fault, because a station clock checked against one outside standard, with nothing else to disagree with, looks exactly like an instrument that needs adjusting. The *Kalypsis Dawn* is built so that the same fault would have announced itself in an afternoon.
 
 ## Certification
 
-A lawful transit requires two certificates from two bodies, and the *Kalypsis Dawn* holds both. **The [Safety Corps](/star-rangers/lore/star-rangers-safety-corps/) certifies the hull** — its Fold Transit branch for the aperture tolerances, and a separate boundary-proximate rating under the *Boundary-Proximate Operations Standards* covering the conditions the reference sets exist for. **The [Navigation Corps](/star-rangers/lore/star-rangers-navigation-corps/) certifies the route**, and that certificate carries an expiry where the hull's does not, because a corridor drifts away from the survey that cleared it.
+A lawful transit requires two certificates from two bodies, and the *Kalypsis Dawn* holds both. **The [Safety Corps](/star-rangers/lore/star-rangers-safety-corps/) certifies the hull**: its Fold Transit branch for the aperture tolerances, and a separate boundary-proximate rating under the *Boundary-Proximate Operations Standards* covering the conditions the reference sets exist for. **The [Navigation Corps](/star-rangers/lore/star-rangers-navigation-corps/) certifies the route**, and that certificate carries an expiry where the hull's does not, because a corridor drifts away from the survey that cleared it.
 
-**There is no emergency manoeuvre for a corridor going bad, and the ship is built around not needing one.** Fold transit is a slow shortcut: staging, scaffold generation and certification routinely take longer than the drift itself, and nothing about it can be improvised. What the *Kalypsis Dawn* has instead is **eighteen months of endurance without resupply**, which is the honest answer to a route closing behind you — you do not jump, you wait, and the ship is provisioned so that waiting is survivable rather than heroic.
+**There is no emergency manoeuvre for a corridor going bad, and the ship is built around not needing one.** Fold transit is a slow shortcut: staging, scaffold generation and certification routinely take longer than the drift itself, and nothing about it can be improvised. What the *Kalypsis Dawn* has instead is **eighteen months of endurance without resupply**, which is the honest answer to a route closing behind you. You do not jump, you wait, and the ship is provisioned so that waiting is survivable rather than heroic.
 
 ## The Interior
 
@@ -47,13 +47,13 @@ The distinctive thing about the class is that its habitat section was designed f
 
 The medical deck carries a multispecies trauma ward and a xenobiology laboratory. It carries no suspension apparatus of any kind: a body stopped here is not restarted, and the ship's medicine is built on keeping people going rather than on setting them aside.
 
-The bridge is unremarkable to look at — matte reading surfaces, ordinary light from concealed fixtures, nothing glowing and nothing standing in the air. The command positions are stabilised, and the most-watched instrument aboard is the disagreement between the reference sets.
+The bridge is unremarkable to look at: matte reading surfaces, ordinary light from concealed fixtures, nothing glowing and nothing standing in the air. The command positions are stabilised, and the most-watched instrument aboard is the disagreement between the reference sets.
 
 ## Helion-3
 
 **Helion-3 is the ship's intelligence, and it is Kernel-compliant by charter** like every [Star Rangers field system](/star-rangers/lore/ai-safety-kernel/). It models hazards, holds the reference comparison, and does the part of translation work that a machine can honestly do: corpus alignment at scale, candidate parses, a memory that loses no morpheme.
 
-**What it does not do is decide what anything means.** Interspecies communication aboard is the work of xenolinguists, and Helion-3's output reaches them as candidate readings with confidence stated — never as a voice, never as a rendering, and never as an answer. The division is the record's standing one, and Helion-3 would decline the other role if asked, which is the entire point of a kernel.
+**What it does not do is decide what anything means.** Interspecies communication aboard is the work of xenolinguists, and Helion-3's output reaches them as candidate readings with confidence stated, never as a voice, never as a rendering, and never as an answer. The division is the record's standing one, and Helion-3 would decline the other role if asked, which is the entire point of a kernel.
 
 ## Service
 
