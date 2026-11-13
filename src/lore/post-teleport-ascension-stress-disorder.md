@@ -13,7 +13,7 @@ Ordinary jump fatigue has a known shape: anxiety, a flattened mood, a day or two
 
 ## Definition
 
-**Post-Teleport Ascension Stress Disorder (PTASD)** is a recognised Medical Corps diagnosis for a distinct psychological aftermath reported by a minority of personnel following teleportation events executed at or near active [boundary zones](/star-rangers/lore/boundary-zones/). Type II or III interfaces are the most common, though confirmed Type I cases exist. It is diagnosed separately from the ordinary anxiety, depression, and central fatigue symptoms already documented under [Teleportation Constraints](/star-rangers/lore/teleportation-limitations/), which PTASD patients also experience and which resolve on the normal timeline. PTASD does not.
+**Post-Teleport Ascension Stress Disorder (PTASD)** is a recognised Medical Corps diagnosis for a distinct psychological aftermath reported by a minority of personnel following teleportation events executed at or near active [boundary zones](/star-rangers/lore/boundary-zones/). These are most often Type II or III interfaces, though confirmed Type I cases exist. It is diagnosed separately from the ordinary anxiety, depression, and central fatigue symptoms already documented under [Teleportation Constraints](/star-rangers/lore/teleportation-limitations/), which PTASD patients also experience and which resolve on the normal timeline. PTASD does not.
 
 ## Presentation
 

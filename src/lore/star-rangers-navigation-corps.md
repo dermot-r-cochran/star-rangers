@@ -33,7 +33,7 @@ The authority was the Survey Corps' own for most of the Star Rangers' history, a
 
 The first was practical. The Survey Corps' remit is enormous: boundary monitoring, the mapping of frontier worlds, and on occasion the first contact that follows from mapping them. Route clearance sat inside it as an administrative appendage of a body whose attention was, reasonably and permanently, somewhere else. A function that issues permissions cannot be the thing a corps does in the margins of its real work.
 
-The second was the same founding principle that had already produced two other corps, that **a body whose conclusions matter cannot answer to the command chain those conclusions might embarrass** — applied one turn further, to a body whose conclusions could embarrass *itself*.
+The second was the same founding principle that had already produced two other corps — that **a body whose conclusions matter cannot answer to the command chain those conclusions might embarrass** — applied one turn further, to a body whose conclusions could embarrass *itself*.
 
 The distinction is worth stating precisely, because it is the whole argument:
 
