@@ -13,7 +13,7 @@ system: "Bríd System"
 locationType: "Planet"
 ---
 
-Drithane keeps polar ice at both caps and a winter snowline that walks well down into the settled valleys, Its nights are lit by a single low, bright moon over the snow. But nothing on Drithane makes the light it is named for. The sky does that twice an orbit, on a schedule its settlers learned to predict to the hour before they had finished unloading the ark.
+Drithane keeps polar ice at both caps and a winter snowline that walks well down into the settled valleys. Its nights are lit by a single low, bright moon over the snow. But nothing on Drithane makes the light it is named for. The sky does that twice an orbit, on a schedule its settlers learned to predict to the hour before they had finished unloading the ark.
 
 **Drithane** is the fifth documented charter world of the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/). Its name is from the Irish *drithle*, a spark, a glimmer. It is the second planet of the **Bríd System**, named by its founders for Brigid of the hearth and the forge. The founders were naming the system before they had chosen a world, and the world, as it turned out, named itself.
 
