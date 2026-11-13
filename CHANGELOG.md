@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A correction note on a changed locked page** (`CLAUDE.md`, `lib/locked-pages.js`, `scripts/check-locked-pages.js`, `scripts/validate-content.js`, `src/_includes/base.njk`, 2026-11-13, Opus, at Dermot's direction). A locked page may now be changed at his word, with the trailer reason `correction`. That change, and any arithmetic, chronology or terminology fix, must add a dated entry to the page's `corrections:` front matter, which shows under the text as *Corrections*. CI refuses such a change without a note. No page is locked yet.
+
 - **The forty seconds are Threshold against Lúnasa** (2026-11-13, Opus, at Dermot's ruling — `story-bible/intake-2026-11-13.md`). New lore page *Lúnasa*: a Survey Corps station in Earth orbit that keeps the reference standard Threshold is checked against. Dock Seven's right-hand chronometer now repeats it, and the left-hand one stays the station's own. The forty seconds are what remains after the routine orbit-to-ground correction, so they are not dilation. The lighthouse register shows the shore disagreeing with the standard of its day. *Threshold Station*, *Boundary Zones*, *Concordant Membranes*, *Kalypsis Dawn*, *Timekeeping*, three glossary entries, one timeline entry and Wren Ansell's page are corrected to match. Chapters and Codex documents stand as written.
 - **A contradiction that makes no sense is fixed** (`CLAUDE.md`, 2026-11-13, Dermot's direction): a fourth ground for changing an unlocked canon page, beside extension, clarification and genuine dilemma.
 

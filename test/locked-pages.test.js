@@ -110,3 +110,26 @@ test("removedLocks: a lock dropped from the registry is reported, an added one i
   assert.deepStrictEqual(lib.removedLocks({ pages: [e("src/a.md")] }, { pages: [e("src/a.md"), e("src/c.md")] }), []);
   assert.deepStrictEqual(lib.removedLocks({ pages: [] }, { pages: [] }), []);
 });
+
+test("correction notes: shape of the corrections field", () => {
+  assert.deepEqual(lib.correctionProblems(undefined), []);
+  assert.deepEqual(lib.correctionProblems([{ date: "2026-11-13", note: "Corrected the date." }]), []);
+  assert.deepEqual(lib.correctionProblems([{ date: new Date("2026-11-13"), note: "YAML dates parse as Date." }]), []);
+  assert.match(lib.correctionProblems("a note")[0], /list/);
+  assert.match(lib.correctionProblems([{ date: "13/11/2026", note: "x" }])[0], /date/);
+  assert.match(lib.correctionProblems([{ date: "2026-11-13", note: " " }])[0], /note/);
+  assert.match(lib.correctionProblems([{ date: "2026-11-13", note: "b" }, { date: "2026-11-01", note: "a" }]).join("\n"), /oldest first/);
+});
+
+test("correction notes: required for reasons that change what a page says", () => {
+  const trailers = [
+    { path: "src/lore/a.md", reason: "correction", note: "x" },
+    { path: "src/lore/b.md", reason: "typo", note: "x" },
+    { path: "src/lore/c.md", reason: "chronology", note: "x" },
+  ];
+  const before = () => 0;
+  assert.deepEqual(lib.missingCorrectionNotes(trailers, before, () => 0), ["src/lore/a.md", "src/lore/c.md"]);
+  assert.deepEqual(lib.missingCorrectionNotes(trailers, before, (p) => (p === "src/lore/a.md" ? 1 : 0)), ["src/lore/c.md"]);
+  assert.deepEqual(lib.missingCorrectionNotes(trailers, before, () => 1), []);
+  assert.ok(lib.LOCK_REASONS.includes("correction"));
+});

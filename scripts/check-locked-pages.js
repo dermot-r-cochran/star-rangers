@@ -76,6 +76,33 @@ try {
 const { valid, malformed } = lib.parseLockTrailers(messages);
 const bad = lib.violations(changed, registry, valid);
 
+// A change that alters what a locked page says must leave a correction note
+// readers can see: one more `corrections:` entry than the base had.
+const matter = require("gray-matter");
+function correctionCount(source) {
+  try {
+    const list = matter(source).data.corrections;
+    return Array.isArray(list) ? list.length : 0;
+  } catch (err) {
+    return 0;
+  }
+}
+const lockedPaths = new Set(registry.pages.map((e) => e.path));
+const noted = valid.filter((t) => lockedPaths.has(t.path));
+const unnoted = lib.missingCorrectionNotes(
+  noted,
+  (p) => { try { return correctionCount(git("show", `${base}:${p}`)); } catch (err) { return 0; } },
+  (p) => (fs.existsSync(path.join(REPO, p)) ? correctionCount(fs.readFileSync(path.join(REPO, p), "utf8")) : 0),
+);
+if (unnoted.length) {
+  console.error("Locked pages: a change to what a locked page says needs a correction note on the page:");
+  for (const p of unnoted) console.error(`  ${p}`);
+  console.error(`Reasons that need one: ${lib.NOTE_REASONS.join(", ")}. Add a dated entry to the page's front matter:`);
+  console.error("  corrections:\n    - date: YYYY-MM-DD\n      note: What was corrected, and why.");
+  console.error("(Dermot, 2026-11-13: \"If I do modify a locked page it would need a correction note attached to it\".)");
+  process.exit(1);
+}
+
 if (bad.length === 0) {
   console.log(`Locked pages: ${registry.pages.length} locked, ${changed.length} file(s) changed against ${base}, no violations.`);
   process.exit(0);

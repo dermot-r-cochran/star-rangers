@@ -14,6 +14,7 @@ const { CONTENT_TYPES, TIMELINE_TYPE, CHAPTER_ID_PATTERN, isTimelineEntry, chapt
 const { checkGatedThreadSignatureTags } = require("../lib/content-filter");
 const { isPlaceholderImage } = require("../lib/placeholder-marker");
 const { TIER_ORDER } = require("../lib/editions");
+const { correctionProblems } = require("../lib/locked-pages");
 
 const SRC_DIR = path.join(__dirname, "..", "src");
 
@@ -726,6 +727,9 @@ function main() {
     if (!schema) continue; // Not a recognized content-leaf type - nothing to check.
 
     const problems = checkAgainstSchema(data, schema);
+    // A correction note on a locked page (Dermot, 2026-11-13) is any page's
+    // to carry, so it is checked here for every type, not in the schema.
+    problems.push(...correctionProblems(data.corrections));
     if (isChapter) problems.push(...checkChapterConsistency(filePath, data, relativePath));
     if (schema === CONTENT_TYPES.character) {
       problems.push(...checkKnownCodex(data, codexSlugs));
