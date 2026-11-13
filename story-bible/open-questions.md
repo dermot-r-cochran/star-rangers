@@ -93,6 +93,11 @@ left as they stand.
 
 ---
 
+
+## Dún Rí and the fifth island — 13 November 2026 — RULED as authorial intent only
+
+*"Dun Ri on or near the fifth island of The Kingdom, on Earth or another planet with a human colony"*, and *"As recommended"* to keeping it in the story bible. Dún Rí is on or near the Kingdom's fifth island; its world is open between Earth and another planet with a human colony, though the sailing-reachable prequel coastline and the Causeway's place in the Solar System point to Earth. No public page changes until a chapter shows it. Full note: `intake-2026-11-13.md`, last section. **Open:** which chapter reveals it, and which world; his to ask for.
+
 ## The Codex art slate and the in-story fantasy — 10 November 2026 — DRAFTED same day on Fable and merged the same day; ACCEPTED by his merges, choices as drafted, his to overrule; confirmed by his answer of 11 November 2026, *"Yes, agreed"*
 
 Nine Codex entries were drafted on Fable on 10 November and merged that day. Until this section the only record of his directions and of the choices in them was four pull request bodies and the changelog. A pull request body is not a record, so they are put here once. Nothing in `src/` is changed by this section.

@@ -167,6 +167,11 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   **Allowed, not asserted** (Dermot, 10 November 2026): a medieval game
   between the two of them, *Sir Galahad* and *the Enchantress*, would be
   fine. No page says it until a chapter shows it (`intake-2026-11-10.md`).
+- [ ] **Where Dún Rí is** — on or near the Kingdom of the Five Islands'
+  fifth island, on Earth or another planet with a human colony (Dermot,
+  13 November 2026, authorial intent only, `intake-2026-11-13.md`, last
+  section). Not paid: no chapter shows it, so `dun-ri.md` and the Kingdom
+  page stay as they are. The prequel's sailing geography points to Earth.
 - [ ] **Tissadelle at the terminus; Tobble's downgraded inner codex** — the
   register ruled 27 August (fond farewell, almost no grief), the mechanism
   deliberately unwritten until its chapters (`tissadelle-arc-s6-7.md`).
