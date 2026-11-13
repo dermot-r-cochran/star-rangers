@@ -31,7 +31,7 @@ This produces the entity's one genuinely elegant feature, which its own historia
 
 The practical answer is that it gives New London a foreign policy.
 
-New London sits outside the [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), as the largest inhabited body in Earth orbit no Compact officer has jurisdiction over, and conducts its relations with Eden and the other orbital settlements by treaty, standing mission and negotiated protocol. The Compact, for its part, is a coordination office and has never been a foreign ministry; its Chief Commissioner reconciles five habitats' paperwork and cannot direct any of them, let alone speak for them abroad.
+New London sits outside the [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/) (the largest inhabited body in Earth orbit no Compact officer has jurisdiction over) and conducts its relations with Eden and the other orbital settlements by treaty, standing mission and negotiated protocol. The Compact, for its part, is a coordination office and has never been a foreign ministry; its Chief Commissioner reconciles five habitats' paperwork and cannot direct any of them, let alone speak for them abroad.
 
 So the two structures are not rivals, because they do not do the same thing. The Compact administers. The Commonwealth convenes. Where they touch — traffic and clearance at L5, archive exchange, the movement of people between a Compact habitat and a sovereign neighbour — the instrument is always a negotiated one, because there is no framework above both to appeal to.
 

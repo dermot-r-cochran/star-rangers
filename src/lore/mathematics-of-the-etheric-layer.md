@@ -55,7 +55,7 @@ What a coupling can do is shift the weights. It can make one outcome somewhat li
 
 Nothing on this page is said wider than its ground, and [the scope ladder](/star-rangers/lore/the-scope-of-physical-law/) places each statement.
 
-The mathematics of constraint itself, what a test is, what it means for a set to shrink and never grow, what persistence under a dynamics is, belongs to the **mathematical regime** the Metawright settles. It is the same mathematics on every page of the record and would be the same in [Counterpane](/star-rangers/lore/counterpane-archecluster/). Its instruments brought back a different physics, a different arithmetic of combination as its own file puts it, and the same mathematics in which to write both down.
+The mathematics of constraint itself, what a test is, what it means for a set to shrink and never grow, what persistence under a dynamics is, belongs to the **mathematical regime** the Metawright settles. It is the same mathematics on every page of the record and would be the same in [Counterpane](/star-rangers/lore/counterpane-archecluster/), whose instruments brought back a different physics, a different arithmetic of combination as its own file puts it, and the same mathematics in which to write both down.
 
 Which templates exist, the vocabulary of tests a universe can carry, is the Archewright's and so is **archecluster**-scoped. Whether Counterpane's extension differs with its kernel is a question the one surveyed membrane cannot answer, and its file says so.
 

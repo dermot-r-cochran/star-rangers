@@ -63,7 +63,7 @@ Temporary coexistence window in which two adjacent universes share a measurable 
 
 An overlap window is bounded by the region in which the [Interval](/star-rangers/glossary/interval/) sits inside coupling range — which is to say, by the footprint of the flexure that brought the two membranes close in the first place. Nothing about the mechanism reaches further than the geometry does.
 
-That is why the effects are sampled the way they are. Dual-valid readings come from instruments a short distance apart, not from observatories on opposite sides of a sky, and constants remain *position-dependent* within the window because the flexure's own profile varies across it. It is deepest where the narrowing is tightest, tailing off to nothing at the edges, with no sharp line anywhere for a surveyor to mark.
+That is why the effects are sampled the way they are. Dual-valid readings come from instruments a short distance apart, not from observatories on opposite sides of a sky, and constants remain *position-dependent* within the window because the flexure's own profile varies across it: deepest where the narrowing is tightest, tailing off to nothing at the edges, with no sharp line anywhere for a surveyor to mark.
 
 The survey record quotes no figure and the Archive has declined to supply one, on the grounds that the footprint is a property of each individual flexure rather than a constant of the mechanism. What can be stated is the order of magnitude it is *not*: an overlap domain is a feature of a locality, not of a universe. A station can sit inside one. A civilisation does not.
 

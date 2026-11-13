@@ -39,7 +39,7 @@ It was also:
 - **Stratified by service record**: advancement in any institutional hierarchy required military or technical service credentials. Civilian expertise was recognized only where it could be reframed as technical support for Imperium operations.
 - **Intolerant of ambiguity**: the Imperium categorized, filed, and assigned everything within its authority. Phenomena, events, or populations that resisted categorization were re-categorized until they fit, or were removed from the record.
 - **Outer-settlement averse**: the Coherence Wars had been initiated by outer-settlement forces. The Imperium's settlement policy for the Belt and outer system was punitive for two generations and merely restrictive thereafter.
-- **Militarily augmented**: [cyborg](/star-rangers/glossary/cyborg/) technology, tightly restricted in every government since, saw its widest and least restrained deployment under Imperium military command. These were front-line augmentation programs built to issue, upgrade, and reclaim a soldier's body like any other piece of equipment, with no serious accounting for what the program owed the person wearing it once the war ended.
+- **Militarily augmented**: [cyborg](/star-rangers/glossary/cyborg/) technology, tightly restricted in every government since, saw its widest and least restrained deployment under Imperium military command: front-line augmentation programs built to issue, upgrade, and reclaim a soldier's body like any other piece of equipment, with no serious accounting for what the program owed the person wearing it once the war ended.
 
 ## The Democratic Underground
 

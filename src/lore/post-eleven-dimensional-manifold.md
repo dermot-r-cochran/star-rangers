@@ -51,7 +51,7 @@ A [**Metawright**](/star-rangers/lore/cosmic-cascade/) settles the mathematics a
 
 A [**Formwright**](/star-rangers/glossary/formcluster/) instantiates the manifold itself, as a **formtype**: a lawful template built from that realm's mathematics, satisfying Conseleme's condition, and standing as the arena everything downstream is seated in. This is the tier the object belongs to. [Archewrights](/star-rangers/lore/archewright/) draw archetypes and possibility space *within* it; Worldwrights seat universes *in* it.
 
-The ladder is the same one the Conceptual layer already follows, extended by one rung: Conseleme fixes what any mathematics must satisfy and a Metawright settles which there is. Conseleme fixes that seating must obtain and a **Formwright settles which manifold there is.**
+The ladder is the same one the Conceptual layer already follows, extended by one rung: Conseleme fixes what any mathematics must satisfy and a Metawright settles which there is; Conseleme fixes that seating must obtain and a **Formwright settles which manifold there is.**
 
 **So a different manifold is not merely conceivable — it is what other formclusters have.** Each is a different formtype, possibly in different mathematics, satisfying the same Conseleme condition and answering to nothing else. Which means a [formcluster](/star-rangers/glossary/formcluster/) is not only a common origin but a **common seating**: the universes that share templates share the arena those templates are laid out in. That is the deeper reason a shared formcluster explains why two universes are commensurable at all, and it is why [archecluster](/star-rangers/glossary/archecluster/) membership remains orthogonal to adjacency — descent is an Archewright fact, position is a Formwright one.
 
