@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Dún Rí is on Earth** (2026-11-13, Dermot's *"The mention of old kings and the Boyne already implies Earth"*). *Dún Rí* no longer says the record leaves its world open: the Boyne and the kings its abbey has outlasted place it on Earth. A clarification; nothing else on the page moves.
+
 - **A Fellowship house keeps a gentle quiet, not silence** (2026-11-13, Dermot's *"gentle quiet with soft music and vocals rather than pure silence"*). *Below the Bells* (S01E00C00) now has Elvira expect soft music and low voices at the abbey rather than plain silence, *The Flight of Aldera* matches, *The Fellowship of Light* says its houses are not silent, and the *Arilon* page's ecumenical hymns are a body of song rather than song and liturgy.
 
 - **The Fellowship holds no worship ceremonies** (2026-11-13, Dermot's *"The Fellowship does not use incense or chanting or hold any formal worship ceremonies"*). *Below the Bells* (S01E00C00) and its description no longer have Elvira expect incense and chanting at Brother Daire's abbey; she braces for its quiet. *The Flight of Aldera* matches it, Sen's *Three Disciplines of the Record* gives the contemplative houses a rule rather than a liturgy, and *The Fellowship of Light* states the ruling.
