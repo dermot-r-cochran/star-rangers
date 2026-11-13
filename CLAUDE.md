@@ -99,6 +99,7 @@ node scripts/check-contrast.js          # check every palette in src/css/ agains
 node scripts/revelation-ledger.js       # which Archive pages the prose has revealed (`revealed_by`) and which it has still to (the worklist); `--check` is the gate npm test runs, `--unrevealed` the worklist alone
 node scripts/check-children-glossary.js # the children's glossary rule: every glossary link from a page a children's-tier edition carries lands on an entry that edition carries, with a `plain:` line (in npm test since 2026-10-05)
 node scripts/fluency-report.js          # rank lore and glossary pages by reading strain (long sentences, dashes, semicolons) for a fluency pass — informational, never a gate
+node scripts/fluency-lint.js            # after a fluency edit: flag a capital after a comma, a lower-case sentence start and an odd dash count in changed paragraphs (`--base <ref>`); the mechanical half only, a critic read still checks meaning — informational, never a gate
 node scripts/list-canon-facts.js        # aggregate every chapter's canon_facts in story order; optional term filter (e.g. `-- rescue`) for the spoiler test — informational, never a gate
 node scripts/link-glossary-terms.js     # report every glossary and lore entry's unlinked first mention of another entry in its own section; `--write` links them, `--section lore` restricts (local tool since 2026-09-07; rules in lib/glossary-crosslinks.js, pinned by test/glossary-crosslinks.test.js)
 ```
