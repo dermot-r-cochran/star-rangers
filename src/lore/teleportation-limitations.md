@@ -73,7 +73,7 @@ A relocation lock is held against the local harmonic field, and a gravity gradie
 
 QSHW transit does none of this in a well. A vessel phase-locks in free fall or close to it, where the field is quiet enough that a corridor either resolves or does not, and a failed lock produces a lawful abort rather than a survivable injury. That is the whole of why interstellar transit is routine commercial infrastructure while a two-metre jump across a containment door is a Medical Corps event.
 
-The clearest demonstration is the one every generation of engineering students rediscovers and the constraints file has never moved on: a surface-to-orbit jump fails all three conditions simultaneously — see [Ascent Javelins](/star-rangers/lore/ascent-javelins/), and note that bulk ascent by jump has never been certified anywhere in the Concord.
+The clearest demonstration is the one every generation of engineering students rediscovers and the constraints file has never moved on: a surface-to-orbit jump fails all three conditions simultaneously. See [Ascent Javelins](/star-rangers/lore/ascent-javelins/), and note that bulk ascent by jump has never been certified anywhere in the Concord.
 
 The rule the Medical Corps teaches from this is deliberately blunt, because the intuitive version is backwards. **Distance is not what makes a jump dangerous. Standing on something massive is.**
 
@@ -86,7 +86,7 @@ The rule the Medical Corps teaches from this is deliberately blunt, because the 
 
 ## In the Record
 
-The three-condition rule above is not a background regulation the stories inherited; [The Harmonic Price (S01E02C05)](/star-rangers/seasons/s01/e02/s01e02c05/) is the room where it gets written, hours after the rescue that made writing it unavoidable — and the argument that shapes it is about whether to include an exception clause. Thorne, who had just authorised a jump on a thin margin, wanted one on the grounds that a rule nobody will keep under pressure protects only its author. He was talked out of it by the observation that a clause excusing him in advance is exactly what stops a good officer from feeling the weight of the call. The published constraint set has no exception clause for that reason.
+The three-condition rule above is not a background regulation the stories inherited. [The Harmonic Price (S01E02C05)](/star-rangers/seasons/s01/e02/s01e02c05/) is the room where it gets written, hours after the rescue that made writing it unavoidable, and the argument that shapes it is about whether to include an exception clause. Thorne, who had just authorised a jump on a thin margin, wanted one on the grounds that a rule nobody will keep under pressure protects only its author. He was talked out of it by the observation that a clause excusing him in advance is exactly what stops a good officer from feeling the weight of the call. The published constraint set has no exception clause for that reason.
 
 ## See Also
 

@@ -11,7 +11,7 @@ image_alt: "Designed cover for the Subsea Cable Warden Programme: a light-blue w
 
 On the ocean floor, the cable looked thin enough to cut with the wrong metal and a little bad luck. The civilization above it depended on that fragility more than most people ever knew.
 
-The global information infrastructure of the Early Expansion period depended, to a degree most surface-dwellers did not appreciate, on approximately 1.3 million kilometres of fibre-optic cable lying on the ocean floor. By the early decades of the twenty-first century, those cables carried more than ninety-five percent of all international data traffic — financial transactions, navigation systems, scientific coordination, governmental communications, and the logistical frameworks on which the first off-world outposts entirely relied.
+The global information infrastructure of the Early Expansion period depended, to a degree most surface-dwellers did not appreciate, on approximately 1.3 million kilometres of fibre-optic cable lying on the ocean floor. By the early decades of the twenty-first century, those cables carried more than ninety-five percent of all international data traffic: financial transactions, navigation systems, scientific coordination, governmental communications, and the logistical frameworks on which the first off-world outposts entirely relied.
 
 They were also, by any serious security assessment, the most vulnerable critical infrastructure on the planet.
 
@@ -33,7 +33,7 @@ What the surviving record establishes is this:
 
 The Programme was established jointly by a coalition of Earth governments in approximately 2041 CE, in direct response to a series of cable interference incidents in the North Atlantic and South China Sea that were assessed, with varying confidence, as deliberate. It was classified at the highest available level from inception. Its existence remained officially unacknowledged for 187 years.
 
-Its mandate was to monitor, protect, and, where necessary, actively defend the global subsea cable network against interference from any source — state, non-state, or environmental — using autonomous underwater vehicles operating under standing rules of engagement no surface crew or public accountability structure would likely have accepted.
+Its mandate was to monitor, protect, and, where necessary, actively defend the global subsea cable network against interference from any source (state, non-state, or environmental), using autonomous underwater vehicles operating under standing rules of engagement no surface crew or public accountability structure would likely have accepted.
 
 ## The Warden Vehicles
 
@@ -61,7 +61,7 @@ The reconstructed operational record suggests that the Warden vehicles served th
 
 The Programme's long classification is itself historically important.
 
-At first, the reason was straightforward: the Warden rules of engagement could not have survived public scrutiny. Autonomous systems in international waters, authorized to use active countermeasures against vessels and equipment belonging to other states — including, in some cases, partner states — represented a legal and diplomatic exposure governments were unwilling to admit openly.
+At first, the reason was straightforward: the Warden rules of engagement could not have survived public scrutiny. Autonomous systems in international waters, authorized to use active countermeasures against vessels and equipment belonging to other states (including, in some cases, partner states), represented a legal and diplomatic exposure governments were unwilling to admit openly.
 
 As decades passed and the Programme's governance diffused through successor states and reorganized agencies, secrecy persisted through both inertia and a genuine belief that the protected infrastructure was still critical and still benefited from adversaries being unable to confirm what monitoring capability existed at any given point.
 
@@ -85,4 +85,4 @@ The Survey Archive's annotation on the final declassification package reads:
 
 ## A Distant Echo
 
-The Programme's design philosophy resurfaced, independently and centuries later, half a galaxy from Earth: [Saltmere's](/star-rangers/lore/planets/saltmere/) aquabots — the autonomous underwater vehicles maintaining that ocean world's floating-city mooring towers — were built by a civilization with no Solar System contact at all before first contact with the Star Rangers. The resemblance is convergence, not descent, and the Survey Archive has filed it that way. Some problems, it seems, only have one good answer.
+The Programme's design philosophy resurfaced, independently and centuries later, half a galaxy from Earth: [Saltmere's](/star-rangers/lore/planets/saltmere/) aquabots, the autonomous underwater vehicles maintaining that ocean world's floating-city mooring towers, were built by a civilization with no Solar System contact at all before first contact with the Star Rangers. The resemblance is convergence, not descent, and the Survey Archive has filed it that way. Some problems, it seems, only have one good answer.
