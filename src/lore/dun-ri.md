@@ -5,7 +5,7 @@ category: "Locations"
 revealed_by: s01e00c00
 tags: [dun-ri, elvira, aldera, abbey, fellowship-of-light, locations]
 description: "A fortified household on high ground above a tidal stretch of the Boyne, where Elvira was warden-heir until the autumn of 2822 UCSD, and the house Aldera left by the garden gate."
-plain: "Dún Rí is a fortified household on high ground above the tidal Boyne. Elvira grew up there as its warden-heir and left before the spring of 2823 UCSD, after her cat Aldera had gone out by the garden gate. A river abbey of the Fellowship of Light stands nearby. Galahad Thorne met Elvira there once, in 2806 UCSD. The record does not say which world it is on, or how Elvira came to be its heir."
+plain: "Dún Rí is a fortified household on high ground above the tidal Boyne. Elvira grew up there as its warden-heir and left before the spring of 2823 UCSD, after her cat Aldera had gone out by the garden gate. A river abbey of the Fellowship of Light stands nearby. Galahad Thorne met Elvira there once, in 2806 UCSD. Its river and its old kings place it on Earth. The record does not say how Elvira came to be its heir."
 ---
 
 The record knows Dún Rí from the inside of its walls, and almost nothing of it from outside.
@@ -32,6 +32,6 @@ A recited chronicle of the Fellowship's chapters, [The Flight of Aldera](/star-r
 
 ## What Is Not Established
 
-The record names the river and does not name the world. It does not say who holds the house now, how Elvira came to be its warden-heir, or what the household knew about her. Whether the river abbey's Brother Daire is the scribe of the same name at Cill Aoife fourteen centuries earlier is left open on [his page](/star-rangers/characters/brother-daire/). All of these stay marked absences until a chapter needs them.
+The record names the river and no world outright, but the Boyne and the kings the abbey has outlasted place the house on Earth. It does not say who holds the house now, how Elvira came to be its warden-heir, or what the household knew about her. Whether the river abbey's Brother Daire is the scribe of the same name at Cill Aoife fourteen centuries earlier is left open on [his page](/star-rangers/characters/brother-daire/). All of these stay marked absences until a chapter needs them.
 
 See also: [Elvira](/star-rangers/characters/elvira/), [Aldera](/star-rangers/characters/aldera/), [Brother Daire](/star-rangers/characters/brother-daire/), [Boundary Zones](/star-rangers/lore/boundary-zones/).
