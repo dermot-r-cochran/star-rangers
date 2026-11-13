@@ -17,7 +17,7 @@ The **Fellowship of Light** is not a political faction, and does not appear on a
 
 **Contemplative chapters** are the older face: houses and abbeys that trained observers to notice boundary phenomena — thinning, drift, archetypal interference — long before there was a Concordant model, a Five Layers framework, or a Survey Corps to formalize what they were noticing. They kept their own vocabulary. Where modern instrumentation now says [Etheric](/star-rangers/glossary/etheric/) or [Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/), a contemplative chapter still says the [Overfold](/star-rangers/glossary/overfold/). It is an older name for the same lawful phenomenon, kept in use not out of superstition but because the people who coined it were right about something real, long before anyone could measure it.
 
-No chapter, contemplative or operational, holds a formal worship ceremony, and none uses incense or chanting.
+No chapter, contemplative or operational, holds a formal worship ceremony, and none uses incense or chanting. Its houses are not silent either: they keep a gentle quiet, with soft music and voices in it.
 
 One such house — an old abbey on a tidal river, kept by Brother Daire — trained [Elvira](/star-rangers/characters/elvira/) informally, years before her arrival at the [Marsh Causeway](/star-rangers/lore/boundary-zones/). See [The Garden Gate](/star-rangers/seasons/s01/e00/s01e00c01/).
 

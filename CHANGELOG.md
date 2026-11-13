@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A Fellowship house keeps a gentle quiet, not silence** (2026-11-13, Dermot's *"gentle quiet with soft music and vocals rather than pure silence"*). *Below the Bells* (S01E00C00) now has Elvira expect soft music and low voices at the abbey rather than plain silence, *The Flight of Aldera* matches, *The Fellowship of Light* says its houses are not silent, and the *Arilon* page's ecumenical hymns are a body of song rather than song and liturgy.
+
 - **The Fellowship holds no worship ceremonies** (2026-11-13, Dermot's *"The Fellowship does not use incense or chanting or hold any formal worship ceremonies"*). *Below the Bells* (S01E00C00) and its description no longer have Elvira expect incense and chanting at Brother Daire's abbey; she braces for its quiet. *The Flight of Aldera* matches it, Sen's *Three Disciplines of the Record* gives the contemplative houses a rule rather than a liturgy, and *The Fellowship of Light* states the ruling.
 
 - **The image queue stops counting closed entries as pending** (2026-11-13, at Dermot's *"Yes fix the count please"*). `scripts/image-prompts.js` now marks an `images.md` entry `closed` when the record has removed it, superseded it or ruled it to have no visualization on record, and `--generate` skips it. The list had shown sixteen pending; three are. Pinned by `test/image-prompt-closed.test.js`.
