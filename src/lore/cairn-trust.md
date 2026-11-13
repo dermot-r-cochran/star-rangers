@@ -25,7 +25,7 @@ Nothing in the arrangement is extractive in the ordinary sense, and this is the 
 
 Its capital is held for named beneficiaries: the settlers on its register who have signed, paid, or contracted for a passage they have not yet taken, and who are waiting on cores from a production run that is finite in any given decade. A shortfall on one world is not absorbed by a shareholder. It is a year added to somebody else's departure, somewhere the Trust is not standing.
 
-So the Trust's rigidity is a duty rather than a temperament, and its officers are usually the first to say so — at length, and with the register open. **A company may forgive a debt whenever it likes. A trustee is forbidden to**, and a trustee who does it anyway has not been generous; they have moved a cost onto people with no seat at that table and no way of knowing it happened.
+So the Trust's rigidity is a duty rather than a temperament, and its officers are usually the first to say so, at length, and with the register open. **A company may forgive a debt whenever it likes. A trustee is forbidden to**, and a trustee who does it anyway has not been generous. They have moved a cost onto people with no seat at that table and no way of knowing it happened.
 
 This is the whole of why the Trust is hard to argue with and harder to like. Every one of its refusals has a person behind it. They are simply never the person in the room.
 
@@ -41,19 +41,19 @@ For the length of the buildout the Trust deals with a compact it helped draft, a
 
 ## What It Is Not
 
-Worth stating plainly, because the Corps' own charge sheet names the neighbouring thing. Frontier Rangers stand between settlers and the predation that follows money to places without law — claim jumpers, indenture traffickers, **company enforcers whose contracts read better than they behave.** The Trust is not that, has never been filed as that, and is a poor fit for it: a concern recovering against a colony's output over forty years wants the colony solvent, populous and unfrightened, which is a discipline of self-interest that no amount of good character would supply on its own.
+Worth stating plainly, because the Corps' own charge sheet names the neighbouring thing. Frontier Rangers stand between settlers and the predation that follows money to places without law: claim jumpers, indenture traffickers, **company enforcers whose contracts read better than they behave.** The Trust is not that, has never been filed as that, and is a poor fit for it: a concern recovering against a colony's output over forty years wants the colony solvent, populous and unfrightened, which is a discipline of self-interest that no amount of good character would supply on its own.
 
 What it is instead is a body with a real claim, a real obligation to people who are absent, and no mechanism whatsoever for weighing those against the people in front of it. The record files that as the more common failure and the harder one to write law for.
 
 ## The Name
 
-*Cairn* is a plain word and the Trust has never been coy about it, which is worth noticing beside [the Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/) — a concern that put on its hull a word that names no mechanism and cannot be held to a meaning, and had generally selected it on advice.
+*Cairn* is a plain word and the Trust has never been coy about it, which is worth noticing beside [the Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/), a concern that put on its hull a word that names no mechanism and cannot be held to a meaning, and had generally selected it on advice.
 
-The Cairn Trust selected a word that **can** be held to a meaning, and it is held to it constantly. The founding instrument is quoted at the Trust more often than by it: *a marker is of no use to the one who set it.* Settlers arguing with a Trust factor have been reading that sentence back across the table for two centuries, and the Trust has never once asked for it to be amended — partly because a trustee cannot amend a founding instrument at will, and partly because, in the only sense that matters to its officers, the sentence is true and they would rather be measured against it than against something safer.
+The Cairn Trust selected a word that **can** be held to a meaning, and it is held to it constantly. The founding instrument is quoted at the Trust more often than by it: *a marker is of no use to the one who set it.* Settlers arguing with a Trust factor have been reading that sentence back across the table for two centuries, and the Trust has never once asked for it to be amended, partly because a trustee cannot amend a founding instrument at will, and partly because, in the only sense that matters to its officers, the sentence is true and they would rather be measured against it than against something safer.
 
 ## What the Record Does Not Hold
 
-**The Archive has not established what happens when the register runs out.** The Trust's beneficiaries are settlers awaiting passage, and the arrangement assumes there is always a further queue behind the current one. Whether the instrument contemplates a generation with nobody left waiting, and what the Trust would then be for, is not a question anybody has had occasion to put to it. The Trust's officers, asked, tend to answer that the queue has never been short — which is an observation and not an answer, and they know it.
+**The Archive has not established what happens when the register runs out.** The Trust's beneficiaries are settlers awaiting passage, and the arrangement assumes there is always a further queue behind the current one. Whether the instrument contemplates a generation with nobody left waiting, and what the Trust would then be for, is not a question anybody has had occasion to put to it. The Trust's officers, asked, tend to answer that the queue has never been short. That is an observation and not an answer, and they know it.
 
 ## See Also
 
