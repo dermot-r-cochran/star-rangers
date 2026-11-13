@@ -12,10 +12,10 @@ related:
 tags: [records, governance, law, concord, amendments, difference-form]
 ---
 
-**Difference form** is the drafting form the constitutional register requires of every amendment to an [enrolled text](/star-rangers/glossary/enrolled-text/): the amendment does not restate the law, it states only what it changes — *strike these words at this clause; insert these words after that one* — against a named, dated state of the text, carrying its date, its sponsors, the reasons argued for it, and the exact prior wording it presumes to find.
+**Difference form** is the drafting form the constitutional register requires of every amendment to an [enrolled text](/star-rangers/glossary/enrolled-text/): the amendment does not restate the law. It states only what it changes (*strike these words at this clause; insert these words after that one*), against a named, dated state of the text. It carries its date, its sponsors, the reasons argued for it, and the exact prior wording it presumes to find.
 
-The form is held to for a reason older than tact: a full restatement can smuggle, and a difference cannot. A reader confronted with a fresh copy of the whole compact must trust that only the announced thing moved; a reader confronted with a difference can see the entire change, because the difference *is* the entire change. Forward in time, this is what makes the laying-open reviewable by everyone the amendment will bind. Backward, it is what lets every clause in force be asked who put it there — and answer with a date.
+The form is held to for a reason older than tact. A full restatement can smuggle, and a difference cannot. A reader confronted with a fresh copy of the whole compact must trust that only the announced thing moved; a reader confronted with a difference can see the entire change, because the difference *is* the entire change. Forward in time, this is what makes the laying-open reviewable by everyone the amendment will bind. Backward, it is what lets every clause in force be asked who put it there — and answer with a date.
 
-Because the text moves, two proposals drafted against the same state of the law can collide, the second presuming wording the first has already struck. Certification returns such a difference to its sponsors to be redrafted against the text as amended: the proposer reconciles, and the register never does.
+Because the text moves, two proposals drafted against the same state of the law can collide, the second presuming wording the first has already struck. Certification returns such a difference to its sponsors to be redrafted against the text as amended. The proposer reconciles, and the register never does.
 
 Full doctrine: [The Enrolled Text](/star-rangers/lore/the-enrolled-text/) (lore).
