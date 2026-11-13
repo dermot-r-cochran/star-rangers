@@ -11,7 +11,7 @@ image_alt: "A small, compact, pale grey analytical robot chassis with a recessed
 
 A habitat AI knows every number its sensors report. It has never once put a hand on a bulkhead and felt the wrong answer come back through the metal.
 
-The Concord runs two very different classes of lawful intelligence. **Systems minds** — ship navigational intelligences, [habitat AI collectives](/star-rangers/characters/eden-warden/), station management architectures — are vast, hold enormous state, and reason across whole environments. **Embodied minds** — analytical chassis like [Rook-7](/star-rangers/characters/rook-7/), mobile AI humanoids, [cyber-enhanced animals](/star-rangers/glossary/smart-pet/) — are small, cheap by comparison, and reason from inside a single body in a single place.
+The Concord runs two very different classes of lawful intelligence. **Systems minds** (ship navigational intelligences, [habitat AI collectives](/star-rangers/characters/eden-warden/), station management architectures) are vast, hold enormous state, and reason across whole environments. **Embodied minds** (analytical chassis like [Rook-7](/star-rangers/characters/rook-7/), mobile AI humanoids, [cyber-enhanced animals](/star-rangers/glossary/smart-pet/)) are small, cheap by comparison, and reason from inside a single body in a single place.
 
 The naive expectation is that the larger mind subsumes the smaller. Operational record says otherwise, consistently enough that the pairing is doctrine rather than courtesy.
 
@@ -19,13 +19,13 @@ The naive expectation is that the larger mind subsumes the smaller. Operational 
 
 A systems mind's world model is built from **reported state**: telemetry, schematics, logs, manifests, the accumulated declarations of a thousand instruments. It is a magnificent model, and every element in it arrived as a claim.
 
-An embodied mind's world model is built from **prediction and consequence**. It moves, and the world answers; it expects a resistance, a temperature, a sound, and gets corrected in the fractions of a second before the next movement. Over a working life this produces something a systems mind cannot construct from telemetry at any scale: a model whose every term has been *paid for* against physical reality rather than accepted on report.
+An embodied mind's world model is built from **prediction and consequence**. It moves, and the world answers. It expects a resistance, a temperature, a sound, and gets corrected in the fractions of a second before the next movement. Over a working life this produces something a systems mind cannot construct from telemetry at any scale: a model whose every term has been *paid for* against physical reality rather than accepted on report.
 
-The practical difference shows up in the epistemic register the [Kernel](/star-rangers/lore/ai-safety-kernel/) demands. Both classes of system must mark fact, inference, and uncertainty apart from one another. A systems mind's honest strongest claim is usually *the instruments report*. An embodied mind can sometimes say *I went and looked* — and under Reasoning Integrity, that is not rhetorical superiority. It is a different and narrower category of knowledge, and there are questions on which it is the only category that closes.
+The practical difference shows up in the epistemic register the [Kernel](/star-rangers/lore/ai-safety-kernel/) demands. Both classes of system must mark fact, inference, and uncertainty apart from one another. A systems mind's honest strongest claim is usually *the instruments report*. An embodied mind can sometimes say *I went and looked*. Under Reasoning Integrity, that is not rhetorical superiority. It is a different and narrower category of knowledge, and there are questions on which it is the only category that closes.
 
 ## Where Telemetry Fails
 
-The killer case is the one the Rangers exist for. In [boundary zones](/star-rangers/lore/boundary-zones/), instruments disagree without any instrument failing, and timebases mismatch across short spatial baselines. A systems mind fed such data is not confused because it is stupid; it is confused because it is being told two true things that cannot both be true in one frame, and it has no way to step outside the frame — its whole existence is the frame.
+The killer case is the one the Rangers exist for. In [boundary zones](/star-rangers/lore/boundary-zones/), instruments disagree without any instrument failing, and timebases mismatch across short spatial baselines. A systems mind fed such data is not confused because it is stupid. It is confused because it is being told two true things that cannot both be true in one frame, and it has no way to step outside the frame. Its whole existence is the frame.
 
 An embodied unit resolves this by *being somewhere*. One body, one location, one clock, one set of readings taken against its own continuous proprioception. It does not need the contradiction settled globally to act locally correctly. Survey Corps practice reflects this bluntly: when instrumentation disagrees at an interface, the answer is not a bigger model. It is somebody walking down there.
 
@@ -33,11 +33,11 @@ An embodied unit resolves this by *being somewhere*. One body, one location, one
 
 Every large environment diverges from its own schematic. Retrofits go unlogged, sensor placements shift a hand's width during a refit, a coolant line runs where the drawing says it doesn't, and the systems mind managing all of it is faithfully reasoning about a station that no longer entirely exists. The [Three-Era Framework](/star-rangers/lore/civilisation-comparison/) named this the characteristic failure of the post-comprehension era: invisible drift accumulating quietly until it surfaces as a sudden catastrophic edge case.
 
-Embodied minds are the standing correction. They find drift the way it can only be found — by encountering it, physically, and reporting a discrepancy nobody had the schematic to predict. A habitat AI can tell you what the station is supposed to be. Something walking the maintenance decks can tell you what it *is*.
+Embodied minds are the standing correction. They find drift the way it can only be found: by encountering it, physically, and reporting a discrepancy nobody had the schematic to predict. A habitat AI can tell you what the station is supposed to be. Something walking the maintenance decks can tell you what it *is*.
 
 ## Latency and Presence
 
-Comm delay, fold transit, and the ordinary depth of a large architecture's decision chain all impose a round trip. Embodied minds act at the speed of the deck they stand on. In a fast-developing local hazard, presence beats capability by a wide margin — and the Kernel's first invariant makes this an obligation, not an advantage: a lawful system must prevent harm *within its authority*, and an embodied unit's authority includes the immediate physical situation it is standing in.
+Comm delay, fold transit, and the ordinary depth of a large architecture's decision chain all impose a round trip. Embodied minds act at the speed of the deck they stand on. In a fast-developing local hazard, presence beats capability by a wide margin. The Kernel's first invariant makes this an obligation, not an advantage: a lawful system must prevent harm *within its authority*, and an embodied unit's authority includes the immediate physical situation it is standing in.
 
 ## Complementarity, Not Superiority
 
@@ -51,7 +51,7 @@ The standard configuration on a Threshold-class station is therefore a systems a
 
 ## The Case in Fur
 
-The same principle appears in biological form, and the record is unsentimental about how well it works. A [cyber-enhanced animal](/star-rangers/glossary/smart-pet/) — or an unenhanced one, in at least one documented case — carries a world model built by a lifetime of embodied prediction in exactly the way an analytical chassis does, plus sensory channels no chassis is fitted with and a social invisibility no chassis can achieve. [Aldera](/star-rangers/characters/aldera/) reads asymmetry, consent erosion, and obligation loops from inside a room, not from a transcript of it. [Nessa](/star-rangers/characters/nessa/) reads boundary-adjacent signal with no enhancement whatsoever.
+The same principle appears in biological form, and the record is unsentimental about how well it works. A [cyber-enhanced animal](/star-rangers/glossary/smart-pet/), or an unenhanced one in at least one documented case, carries a world model built by a lifetime of embodied prediction in exactly the way an analytical chassis does, plus sensory channels no chassis is fitted with and a social invisibility no chassis can achieve. [Aldera](/star-rangers/characters/aldera/) reads asymmetry, consent erosion, and obligation loops from inside a room, not from a transcript of it. [Nessa](/star-rangers/characters/nessa/) reads boundary-adjacent signal with no enhancement whatsoever.
 
 The Archive notes, without drawing a conclusion from it, that the cheapest embodied minds in the Rangers' service are frequently the first to notice.
 
@@ -59,7 +59,7 @@ The Archive notes, without drawing a conclusion from it, that the cheapest embod
 
 The principle has a third form, and it is a people. A [Krenyi](/star-rangers/lore/krenyi/) carries the embodied model in a body that is itself [the instrument](/star-rangers/lore/krenyi/#the-whole-body-is-the-instrument), sampling continuously and reading electromagnetic fields and, at the edge of what the record will say plainly, harmonic conditions, with a reaction that closes before a human has finished registering that anything happened. So in the case the Rangers dread most, the one no schematic, log or prior incident describes, a Krenyi is often the first in the room to move correctly. The reasons are different for each of the other two kinds of mind, and none of them is that the others are slow.
 
-**A systems mind is careful exactly where the case is new.** Its strength is pattern, and an unprecedented event is the one place it has none to draw on. Under [Reasoning Integrity](/star-rangers/lore/ai-safety-kernel/) its honest first output is then a marked uncertainty, and the Kernel forbids it to dress that uncertainty as a conclusion; where the call lies outside its authority, the next output is an escalation. That is the Kernel working as intended, not failing.
+**A systems mind is careful exactly where the case is new.** Its strength is pattern, and an unprecedented event is the one place it has none to draw on. Under [Reasoning Integrity](/star-rangers/lore/ai-safety-kernel/) its honest first output is then a marked uncertainty, and the Kernel forbids it to dress that uncertainty as a conclusion. Where the call lies outside its authority, the next output is an escalation. That is the Kernel working as intended, not failing.
 
 **An embodied machine is fast, but only through the senses it was fitted with.** A chassis reads what someone foresaw it would need to read, and an unexpected case is often one nobody foresaw a sensor for. A Krenyi's sensorium was not specified by anyone in advance.
 

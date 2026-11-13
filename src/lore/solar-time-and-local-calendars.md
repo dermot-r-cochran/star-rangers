@@ -11,11 +11,11 @@ image_alt: "Designed title card on a near-black star field in warm amber: the ca
 
 Ask a dockhand what day it is and the honest answer depends entirely on which world's sky they last slept under.
 
-**Solar time** is the informal name for the calendar every inhabited world keeps for itself, reckoned from its own star: its own day length, its own year, its own months where a moon or a cultural cycle warrants them, its own hours subdividing the local day however the settling culture found convenient. No two worlds' solar time agrees with any other's, and none is required to. [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/) keeps CE dating in parallel with UCSD for exactly this reason — not stubbornness, just a culture that never stopped needing a calendar that matched its own sky.
+**Solar time** is the informal name for the calendar every inhabited world keeps for itself, reckoned from its own star: its own day length, its own year, its own months where a moon or a cultural cycle warrants them, its own hours subdividing the local day however the settling culture found convenient. No two worlds' solar time agrees with any other's, and none is required to. [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/) keeps CE dating in parallel with UCSD for exactly this reason. It is not stubbornness, just a culture that never stopped needing a calendar that matched its own sky.
 
 ## Why Two More Systems Exist
 
-Solar time works perfectly for a single world and fails immediately the moment two worlds need to agree on when something happened. That failure is why [Universal Concord Standard Date](/star-rangers/lore/universal-cosmic-stardate/) exists at all — not to replace solar time, which nobody could enforce even if they wanted to, but to sit above it for the records that have to survive contact with more than one sky.
+Solar time works perfectly for a single world and fails immediately the moment two worlds need to agree on when something happened. That failure is why [Universal Concord Standard Date](/star-rangers/lore/universal-cosmic-stardate/) exists at all. It is there not to replace solar time, which nobody could enforce even if they wanted to, but to sit above it for the records that have to survive contact with more than one sky.
 
 - **Solar time** — local, civil, personal. What a season, a birthday, or a harvest means on a given world.
 - **UCSD** — administrative. What a Survey Corps log, a Codex entry, or a cross-Concordant archive uses to keep mixed-species records in the same sequence.
