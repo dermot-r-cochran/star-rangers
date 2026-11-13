@@ -23,7 +23,7 @@ The archival practice follows: a document is filed in its author's own notation,
 
 ## Carrying Time
 
-There is [no faster-than-light communication](/star-rangers/lore/ftl-mechanics/) — no channel carries a time signal ahead of a hull. Exact time is therefore *distributed*, physically: reference standards compared in person, calibration certificates travelling with courier runs, a station's clock only as current as its last synchronisation. A distant institution is always working from a record that is transit-lagged, and its dates inherit the lag honestly rather than hiding it.
+There is [no faster-than-light communication](/star-rangers/lore/ftl-mechanics/) — no channel carries a time signal ahead of a hull. Exact time is therefore *distributed*, physically: reference standards compared in person, calibration certificates travelling with courier runs, a station's clock only as current as its last synchronisation. Within light-speed reach a standard can also be carried by link, as [Lúnasa's](/star-rangers/lore/lunasa/) is from Earth orbit to [Threshold Station](/star-rangers/lore/threshold-station/), its light-time corrected on arrival; across interstellar distance only the courier carries it. A distant institution is always working from a record that is transit-lagged, and its dates inherit the lag honestly rather than hiding it.
 
 This is why timekeeping is courier work, and why the same neutral carriers trusted with everyone's messages are trusted with everyone's seconds.
 

@@ -30,6 +30,6 @@ The **Interval** is the separation between one [cosmic membrane](/star-rangers/l
 
 **What crosses is field structure, not matter.** A Membrane Shadow is gravity leaking across a narrowed Interval while every gram responsible for it stays on the far side. Intermembrane Bleed is template admissibility competing across one. In neither case has anything travelled.
 
-**Example:** Threshold Station's Dock Seven chronometer discrepancy is an Interval measurement that nobody on the station was equipped to read as one. Recalibrating instruments on this side of a narrowing Interval does not widen it, which is precisely why the discrepancy returned after every correction.
+**Example:** Threshold Station's Dock Seven chronometer discrepancy is an Interval measurement that nobody on the station was equipped to read as one. Recalibrating the comparison between the station's clock and the standard kept at [Lúnasa](/star-rangers/lore/lunasa/) does not widen a narrowing Interval, which is precisely why the discrepancy returned after every correction.
 
 See also: [Concordant Membranes and Intermembrane Bleed](/star-rangers/lore/concordant-membranes/), [The Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/), [Membrane Shadow](/star-rangers/glossary/membrane-shadow/), [Boundary Zones and Concordant Edges](/star-rangers/lore/boundary-zones/).

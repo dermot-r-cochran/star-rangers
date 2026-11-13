@@ -59,3 +59,11 @@ Twelve days after this film was filed, a review of the site's earliest drafts fo
 
 So its standing is settled lower than an impression of a choice of mine: **fictional codex, at best**, by which I mean in-story fiction. At most it is a story someone inside the world might have made up and told, like a ballad or a drama: never an account of what happened, and never something the record holds. Under the rule that lets an idea from one of my own films enter canon at my word, nothing enters from this one. It stays here because, as a video, it is very elegant.
 
+
+## Added 13 November 2026: one idea enters
+
+Three days after settling the film that low, I took one idea from it. Looking at the Season 1 banner, I asked why the forty seconds had to be two clocks side by side, and not a disagreement between Lúnasa and Threshold Station. Under the rule that an idea from one of my films may enter canon at my word, one film and one idea at a time, the record now holds [Lúnasa](/star-rangers/lore/lunasa/) as a Survey Corps station in Earth orbit. It keeps the reference time Threshold is checked against.
+
+What entered is narrow. Dock Seven still has its two chronometers, the station's own above the pressure seal and the other above the inner hatch. The other one now has a name: it repeats Lúnasa's time. The forty seconds are what is left of the comparison after every correction physics predicts has been made, the few microseconds a day between orbit and ground among them. So the gap is not time dilation, which the film's own caption had hinted. The lighthouse records still show the offset is older than either station: it has always lain between this shore and whatever kept the standard time of its day. What produces it is still unknown.
+
+Nothing else from the film comes with the name: no Maeve, no ring of habitats, no rail across the bay, no *Brightwater*, and no fifty-year watch. Of the objections listed above, the one about place is answered by making Lúnasa the far end of Threshold's comparison, not a second station with forty seconds of its own. Threshold's discrepancy is still one thing. The rest of the film stays where it was, an impression filed here.
