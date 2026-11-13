@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Artefact extractors follow the fluency pass** (`scripts/extract-places-and-peoples.js`, `scripts/extract-peoples.js`, 2026-11-13). Four phrases the extractors check for on *Aspenar*, *Saltvik*, *Ollune* and *Prismeri* had been split or recapitalised by the fluency pass, so the 1.68.0 artefact run stopped. Each now quotes the page as it reads; no page changed.
+
 ## [1.68.0] — 2026-11-13
 
 A day of reading and repair. The fluency pass over the lore and glossary pages is finished and checked by two critic reads, and a new local lint flags its mechanical breakages. The Fellowship's houses keep a gentle quiet with no worship ceremonies, Dún Rí is placed on Earth, and the forty seconds are now Threshold against the Lúnasa standard. New place pages for Dún Rí and Halyx Relay Station, a remade Season 1 banner, a portrait of Edvin Thorsby, correction notes for locked pages, shorter "View from" buttons and an image queue that counts only open entries.

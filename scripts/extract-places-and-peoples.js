@@ -119,7 +119,7 @@ const PLACE_RULES = {
     polity: 'Federation of Sentient Beings',
     polity_pages: ['federation-of-sentient-beings'],
     peoples: ['Humans', 'Doreth'],
-    evidence: ['a charter member world of the Federation of Sentient Beings', 'Human domes run filtered, dimmed daylight', 'most numerously the Doreth, a heavy-built, radiation-tolerant people']
+    evidence: ['a charter member world of the Federation of Sentient Beings', 'Human domes run filtered, dimmed daylight', 'The most numerous are the Doreth, a heavy-built, radiation-tolerant people']
   },
   'planets/cirrane': {
     polity: 'Federation of Sentient Beings',
@@ -275,7 +275,7 @@ const PLACE_RULES = {
     polity: 'Knarr Line',
     polity_pages: ['knarr-line'],
     peoples: [],
-    evidence: ["it is the Line's largest single source of refined ore"]
+    evidence: ["It is the Line's largest single source of refined ore"]
   },
   'the-guest-ring': {
     polity: 'Federation of Sentient Beings',
