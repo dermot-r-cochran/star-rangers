@@ -63,7 +63,7 @@ The planet's oceans run warmer and calmer than Earth's on average, a consequence
 
 ![The sun low and bright over open sea, a line of breaking waves near the horizon and its light lying gold across the water](/star-rangers/images/lore/coastal-sunset.jpg)
 
-Two moons work the tides between them: **Donn**, the larger and closer, and **Cliona**, smaller and farther out. Cliona was named for the Otherworld queen whose name already anchors the old folklore of a great wave heard before it arrives, over the founding cooperative's own initial objection that it invited comparison. The two rarely align, about once a year, on a day the local almanacs never quite agree on. When they do, Cliona's shadow crosses Donn's face for a span of minutes local almanacs still call, without much ceremony, the **Conjunction**, and coastal communities schedule exactly nothing else for the hour around it.
+Two moons work the tides between them: **Donn**, the larger and closer, and **Cliona**, smaller and farther out. Cliona was named for the Otherworld queen whose name already anchors the old folklore of a great wave heard before it arrives. The founding cooperative chose the name over its own initial objection that the name invited comparison. The two rarely align, about once a year, on a day the local almanacs never quite agree on. When they do, Cliona's shadow crosses Donn's face for a span of minutes local almanacs still call, without much ceremony, the **Conjunction**, and coastal communities schedule exactly nothing else for the hour around it.
 
 ## The Boirinn Uplands
 
