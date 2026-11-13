@@ -144,7 +144,7 @@ test("a pov header carries the chapter's label from env.povs, and the aria-label
   const env = { povs: [{ id: "Aldera", label: "Aldera Vane (Human)" }] };
   const html = md.render(["::: pov aldera", "Text.", ":::", ""].join("\n"), env);
   assert.ok(html.includes('aria-label="POV: Aldera Vane (Human)"'));
-  assert.ok(html.includes('class="pov-header__name">Aldera Vane (Human)</h'));
+  assert.ok(html.includes('class="pov-header__name">Aldera Vane <span class="pov-header__frame">(Human)</span></h'));
   assert.ok(html.includes('data-pov="aldera"'), "the id stays the machine key");
 });
 

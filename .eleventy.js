@@ -386,6 +386,9 @@ module.exports = function(eleventyConfig) {
     (povs || []).filter((p) => povTierVisible(p && p.tier, getEdition().tier))
   );
 
+  // The buttons show the rank and name only; the header keeps the full label.
+  eleventyConfig.addFilter("povButtonName", require("./lib/pov-button-name").povButtonName);
+
   eleventyConfig.addPlugin(pluginNavigation);
 
   // Each asset directory carries a README.md for people (2026-09-06).

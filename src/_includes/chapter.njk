@@ -69,9 +69,11 @@ commentsCategory: episodes
       <button
         class="pov-btn"
         data-pov="{{ pov.id }}"
+        data-label="{{ pov.label }}"
+        title="{{ pov.label }}"
         aria-pressed="false"
         type="button"
-      >{{ pov.label }}</button>
+      >{{ pov.label | povButtonName }}</button>
       {% endfor %}
     </div>
   </div>

@@ -40,16 +40,17 @@
     const povLabels = {};
     buttons.forEach((btn) => {
       const id = btn.dataset.pov;
-      if (id && id !== "all") povLabels[id] = btn.textContent.trim();
+      // The button shows the name only; the full label rides in data-label.
+      if (id && id !== "all") povLabels[id] = (btn.dataset.label || btn.textContent).trim();
     });
 
     // Inject human-readable labels into POV block headers
     povBlocks.forEach((block) => {
       const id = block.dataset.pov;
       const nameEl = block.querySelector(".pov-header__name");
+      // The header is rendered server-side as name plus bracket line
+      // (lib/markdown-containers.js); only the section's aria-label is set here.
       if (nameEl && povLabels[id]) {
-        nameEl.textContent = povLabels[id];
-        // Also update the aria-label on the section
         block.setAttribute("aria-label", `POV: ${povLabels[id]}`);
       }
     });

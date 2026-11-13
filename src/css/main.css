@@ -662,6 +662,16 @@ a:focus {
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
+/* The label's bracket, on its own line under the name in ordinary case, so a
+   long frame or posting never wraps the capitals heading (2026-11-13). */
+.pov-header__frame {
+  display: block;
+  margin-top: 0.2em;
+  font-size: 0.9em;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: normal;
+}
 
 /* Text for assistive readers only: the scene label the chapter body never
    showed visually, kept out of sight without leaving the accessibility tree
