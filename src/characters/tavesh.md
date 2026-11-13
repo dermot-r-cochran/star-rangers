@@ -13,7 +13,7 @@ image_alt: "Tavesh in a plain equipment bay: a soft, headless, grey-olive body r
 
 Half an hour of the instrumentation arguing with itself over connotation is, to everyone else in the Halyx Relay Station's liaison office, the channel's defect. To Tavesh it is the channel working.
 
-Tavesh keeps the translation channel between the Halyx Relay Station and [Meridian](/star-rangers/lore/planets/meridian/)'s reef-cities: the instrumentation that renders the Meridian people's claw-percussion and slow chemical signalling into language a [Cerebraun](/star-rangers/lore/cerebraun/) can read, and sends Hegemony language back the other way. The office of [Administrator-Voice Sohrel](/star-rangers/characters/sohrel/) maintains it, in the record's own words, *mostly out of obligation*, and rarely trusts it past a paragraph. Somebody maintains it. Tavesh is that somebody, and has been for long enough to have an opinion about what the half-hour is for.
+Tavesh keeps the translation channel between [Halyx Relay Station](/star-rangers/lore/halyx-relay-station/) and [Meridian](/star-rangers/lore/planets/meridian/)'s reef-cities: the instrumentation that renders the Meridian people's claw-percussion and slow chemical signalling into language a [Cerebraun](/star-rangers/lore/cerebraun/) can read, and sends Hegemony language back the other way. The office of [Administrator-Voice Sohrel](/star-rangers/characters/sohrel/) maintains it, in the record's own words, *mostly out of obligation*, and rarely trusts it past a paragraph. Somebody maintains it. Tavesh is that somebody, and has been for long enough to have an opinion about what the half-hour is for.
 
 ## Known History
 
