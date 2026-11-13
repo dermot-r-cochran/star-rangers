@@ -8,6 +8,8 @@ status: Active
 aliases: []
 tags: [human, mars, sol-system, star-rangers, field-officer, general-operations, boundary-watch, fold-staging, lagrange-points]
 description: "A career Field Officer on the fold-approach watch at the Earth–Moon L4 staging zone, who reports what can be supported and requests the follow-on the evidence allows, has held the rank for twenty years, and in the late autumn of 2811 UCSD wrote one true line into a shift log that the Corps' instrument standard caught up with twelve years later without ever having read."
+image: edvin-thorsby.jpg
+image_alt: "Edvin Thorsby, a tall clean-shaven man in his late forties with close-cropped hair grey at the temples, in plain grey-brown Star Rangers service dress with a small slate-blue tab at the collar, standing at a dark desk in a long narrow compartment and reading a bound log lying open on it, rounded grey capsules set into both walls, a softly lit curved ceiling and a closed hatch at the far end."
 ---
 
 Edvin Thorsby holds [Field Officer](/star-rangers/lore/star-rangers-command-hierarchy/) on the fold-approach watch at the Earth–Moon L4 staging zone, and has held the rank since 2806 UCSD. The watch is one of the permanent monitoring posts the Survey Corps keeps at the inner system's [Tier 1 fold sites](/star-rangers/lore/lagrange-fold-points/): a platform small enough that everyone aboard stands a shift, six instruments reading the approach on six principles, a log, a desk, and the nearest qualified officer to the event if the event comes. Thorsby has been that officer, on one watch or another, for most of his service. The event has not come in his tenure. He says so to every Deputy on the first day, as a fact about the posting, and has never had reason to say anything else.
