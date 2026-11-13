@@ -11,7 +11,7 @@ image_alt: "A rough circle traced in orange and white light trails against pure 
 
 A sensor at Threshold Station can report ordinary physics and impossible drift in the same hour. The contradiction is only apparent. The fictional cosmos keeps the familiar lower down and changes the architecture above it.
 
-The fictional cosmos superficially mimics real-world physics at the Material and Physical layers within any given [Concordant](/star-rangers/glossary/concordant/). The differences emerge from the Etheric layer upward: conceptual fields, multiversal overlap, and ongoing cosmic maintenance produce a richer and sometimes perceivable physics. Every claim in the fictional column below carries a [scope](/star-rangers/lore/the-scope-of-physical-law/) — a realm, a zone, a membrane, a cluster, or a mathematical regime — and none is universal.
+The fictional cosmos superficially mimics real-world physics at the Material and Physical layers within any given [Concordant](/star-rangers/glossary/concordant/). The differences emerge from the Etheric layer upward: conceptual fields, multiversal overlap, and ongoing cosmic maintenance produce a richer and sometimes perceivable physics. Every claim in the fictional column below carries a [scope](/star-rangers/lore/the-scope-of-physical-law/): a realm, a zone, a membrane, a cluster, or a mathematical regime. None is universal.
 
 ---
 
@@ -24,7 +24,7 @@ The fictional cosmos superficially mimics real-world physics at the Material and
 
 ### Fictional Cosmos
 - Physical constants are selected by Worldwrights to produce stable, fertile [Concordants](/star-rangers/glossary/concordant/).
-- [Mediarchs](/star-rangers/glossary/mediarch/) administer the physical forces themselves; Celestials and [Levrils](/star-rangers/lore/levrils/) perform ongoing maintenance at the Etheric and Conceptual layers, inside mandates defined from the higher strata.
+- [Mediarchs](/star-rangers/glossary/mediarch/) administer the physical forces themselves. Celestials and [Levrils](/star-rangers/lore/levrils/) perform ongoing maintenance at the Etheric and Conceptual layers, inside mandates defined from the higher strata.
 - Three parallel information channels exist: quantum, thermodynamic, and conceptual.
 - Events near boundary zones or anomalies are subject to meaning-field resonance.
 
@@ -42,13 +42,13 @@ Physical constants are engineered, not merely unexplained. Some events carry a f
 ### Fictional Cosmos
 - Causality is stable by design.
 - Levrils can sculpt probability gradients without altering outcomes directly.
-- Secondary-universe overlap produces localised causal tension — measurable as future-probability stress by trained Champions such as Galahad Thorne or Rook-7.
+- Secondary-universe overlap produces localised causal tension, measurable as future-probability stress by trained Champions such as Galahad Thorne or Rook-7.
 - No time travel. Causality can flex marginally but never break.
 
 ### Key Difference
 Causal structure is maintained rather than merely emergent. Flexion exists; violation does not.
 
-*Maintained* implies a maintainer, and the record names one: the [Mediarchs](/star-rangers/glossary/mediarch/), who administer each force-domain's lawful operation. This adds nothing a physicist could measure. **A Mediarch's stability is a design property** — the Worldwright designs the rule-sets and the office that keeps them, invariance included — so the maintained case and the merely-emergent case produce identical laboratory results, which is why the distinction is cosmological rather than experimental. Constants measure as constant either way. That is the design working, not a gap in it.
+*Maintained* implies a maintainer, and the record names one: the [Mediarchs](/star-rangers/glossary/mediarch/), who administer each force-domain's lawful operation. This adds nothing a physicist could measure. **A Mediarch's stability is a design property**: the Worldwright designs the rule-sets and the office that keeps them, invariance included. So the maintained case and the merely-emergent case produce identical laboratory results, which is why the distinction is cosmological rather than experimental. Constants measure as constant either way. That is the design working, not a gap in it.
 
 ---
 
@@ -61,16 +61,16 @@ Causal structure is maintained rather than merely emergent. Flexion exists; viol
 ### Fictional Cosmos
 Probability operates across three layers:
 
-1. **Quantum randomness** — identical to the real universe at base, an [archecluster-scoped](/star-rangers/lore/the-scope-of-physical-law/) identity.
-2. **Macro-probability fields** — emergent statistical gradients.
-3. **Meaning-field overlays** — partially readable and minutely adjustable by Levrils.
+1. **Quantum randomness**: identical to the real universe at base, an [archecluster-scoped](/star-rangers/lore/the-scope-of-physical-law/) identity.
+2. **Macro-probability fields**: emergent statistical gradients.
+3. **Meaning-field overlays**: partially readable and minutely adjustable by Levrils.
 
-Tiny probability corrections — such as Rook-7 adjusting a sensor sweep angle by a fraction of a degree — are lawful Etheric-to-Physical transfers, not magic.
+Tiny probability corrections, such as Rook-7 adjusting a sensor sweep angle by a fraction of a degree, are lawful Etheric-to-Physical transfers, not magic.
 
 ### Key Difference
 Randomness is real, but it carries a faint Etheric texture that can be sculpted within strict bounds.
 
-*Identical at base* and *textured at the margin* are one theory, not a tension — the kernel and extension of [a generalisation of quantum mechanics](/star-rangers/lore/generalised-quantum-mechanics/).
+*Identical at base* and *textured at the margin* are one theory, not a tension: the kernel and extension of [a generalisation of quantum mechanics](/star-rangers/lore/generalised-quantum-mechanics/).
 
 ---
 
@@ -127,7 +127,7 @@ Entropy is real and inevitable, but actively stabilised. Catastrophic collapse r
 - Evolution follows physical law, but meaning-fields exert subtle Material-layer pressure on:
   - Intuition and dreaming states.
   - Archetypal fears and pattern recognition.
-  - Instinctive responses to conceptual turbulence — for example, Aldera's acute detection of the Obliger feeding signature at the Marsh Causeway.
+  - Instinctive responses to conceptual turbulence: for example, Aldera's acute detection of the Obliger feeding signature at the Marsh Causeway.
 
 ### Key Difference
 Life evolves normally but is not perfectly sealed from Etheric influence. Biological systems can register meaning-field disturbance without consciously understanding it.
@@ -150,7 +150,7 @@ Three information channels operate in parallel:
 | Quantum | Physical | Identical to real-universe quantum information, within the local archecluster |
 | Conceptual | Conceptual / Etheric | Meaning pressure; cross-[Concordant](/star-rangers/glossary/concordant/) resonance; Levril-readable |
 
-Emotional intensity produces conceptual information vibration — a diagnostic channel the Telearch stratum's continuity mandates are defined to read. Constraint-literate practitioners like Elvira approximate read access to this third channel through trained observational methods.
+Emotional intensity produces conceptual information vibration, a diagnostic channel the Telearch stratum's continuity mandates are defined to read. Constraint-literate practitioners like Elvira approximate read access to this third channel through trained observational methods.
 
 ### Key Difference
 Information has a third metaphysical channel. Standard instruments cannot detect it directly, but they can measure its correlates.
@@ -167,7 +167,7 @@ Information has a third metaphysical channel. Standard instruments cannot detect
 - Disasters unfold naturally and are not suppressed by default.
 - Levril intervention occurs only when an event risks:
   - [Concordant](/star-rangers/glossary/concordant/)-level structural collapse.
-  - A runaway entropy spiral at the Etheric layer — one that would carry a Concordant toward its [Entropy Horizon](/star-rangers/glossary/entropy-horizon/) ahead of its own lifecycle, the failure the maintenance in §5 exists to prevent. The Cascade itself has no ending to bring forward: its order is fixed, and its upper strata are eternal outright.
+  - A runaway entropy spiral at the Etheric layer, one that would carry a Concordant toward its [Entropy Horizon](/star-rangers/glossary/entropy-horizon/) ahead of its own lifecycle, the failure the maintenance in §5 exists to prevent. The Cascade itself has no ending to bring forward: its order is fixed, and its upper strata are eternal outright.
   - A violation of Celestial or Telearch enforcement law.
 - Tragedies below that threshold proceed without supernatural rescue.
 
@@ -192,7 +192,7 @@ Consciousness is emergent **plus**:
 Consciousness does not transcend the Five Layers. It is a Material-layer process with lawful Etheric coupling.
 
 ### Key Difference
-Sentient minds — organic or artificial — are not purely physical. They interact with conceptual layers through lawful cross-layer coupling, not magic.
+Sentient minds, organic or artificial, are not purely physical. They interact with conceptual layers through lawful cross-layer coupling, not magic.
 
 ---
 
