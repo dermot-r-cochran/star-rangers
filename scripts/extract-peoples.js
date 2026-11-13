@@ -162,7 +162,7 @@ const PEOPLES = [
   {
     id: "ollune", name: "Ollune (the Held)", page: "src/lore/ollune.md", places: "ollune", species: ["Ollune"],
     frame: null, design: null,
-    pageBody: ["src/lore/ollune.md", "Lift is not a property an Ollune has; it is a bill an Ollune pays."],
+    pageBody: ["src/lore/ollune.md", "Lift is not a property an Ollune has. It is a bill an Ollune pays."],
     portraits: {},
   },
   {
@@ -189,7 +189,7 @@ const PEOPLES = [
   },
   {
     id: "prismeri", name: "Prismeri", page: "src/lore/prismeri.md", places: "prismeri", species: ["Prismeri"],
-    frameNote: ["The page gives the Prismeri a shell: the taxonomy table files them in Endoskelia", "src/lore/prismeri.md", "hardened, gold-and-blue chitin plating replaces the soft grey-violet exoskeleton"],
+    frameNote: ["The page gives the Prismeri a shell: the taxonomy table files them in Endoskelia", "src/lore/prismeri.md", "Hardened, gold-and-blue chitin plating replaces the soft grey-violet exoskeleton"],
     design: {
       heading: "Prismeri — Prismere", scope: "body sheet",
       date: { text: "derived 3 September 2026; body sheet 14 October 2026", quote: "The body sheet: flight, shell, neck and tail against Prismere's physics (drafted 14 October 2026)" },
