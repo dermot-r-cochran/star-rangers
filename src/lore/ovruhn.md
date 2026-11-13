@@ -19,7 +19,7 @@ Everything below follows from one fact: **the Ovruhn hear the way other peoples 
 
 An Ovruhn sounds the world and reads what comes back. A train of pulses, pitched by need, returns a spatial picture in full dark, through smoke, around corners sound bends past and, unlike light, **through surfaces**: sound enters what light bounces off. An Ovruhn hears the void behind a wall, the water moving in a pipe, the crack propagating in a casting that still looks whole — and the heart beating in a chest. Nothing alive is acoustically quiet, and no warm-blooded visitor to Thavren has ever been as silent as they believed they were being.
 
-The sense has walls, stated exactly. Detail is bought with closeness: a sound-picture is a coarse picture at range, presence and motion rather than outline, and nothing in it reads a printed page, a screen, or a face. Fine identification belongs to the small eyes, near-sighted and unhurried. And the sense fails altogether where its medium does: thin air starves it, and vacuum is to an Ovruhn what a sealed lightless vault is to the sighted, which the last section returns to.
+The sense has walls, stated exactly. Detail is bought with closeness: a sound-picture is a coarse picture at range, presence and motion rather than outline, and nothing in it reads a printed page, a screen, or a face. Fine identification belongs to the small eyes, near-sighted and unhurried. And the sense fails altogether where its medium does: thin air starves it, and vacuum is to an Ovruhn what a sealed lightless vault is to the sighted, which *What They Are Structurally Bad At* returns to below.
 
 ## The Under-Song
 

@@ -67,7 +67,7 @@ description: "Fian Ilchruinne is hard science fiction with a hopeful heart. Real
     <a class="home-card" href="/star-rangers/characters/">
       <span class="home-card__icon" aria-hidden="true">🧑‍🚀</span>
       <h2 class="home-card__title">Characters</h2>
-      <p class="home-card__desc">Meet the officers, constructs, and beings—human and otherwise—whose loyalties keep the frontier intact—or break it.</p>
+      <p class="home-card__desc">Meet the officers, constructs, and beings, human and otherwise, whose loyalties keep the frontier intact or break it.</p>
     </a>
     {%- if collections.timelineEvents.length -%}
     <a class="home-card" href="/star-rangers/timeline/">
@@ -94,7 +94,7 @@ description: "Fian Ilchruinne is hard science fiction with a hopeful heart. Real
     <a class="home-card" href="/star-rangers/codex/">
       <span class="home-card__icon" aria-hidden="true">🗂</span>
       <h2 class="home-card__title">Codex</h2>
-      <p class="home-card__desc">Open the raw paperwork—logs, directives, and archive notes—where memory and authority collide line by line.</p>
+      <p class="home-card__desc">Open the raw paperwork of logs, directives, and archive notes, where memory and authority collide line by line.</p>
     </a>
     {%- endif -%}
   </div>
@@ -106,17 +106,17 @@ description: "Fian Ilchruinne is hard science fiction with a hopeful heart. Real
   <p>
     The text and world-building content of <em>Fian Ilchruinne</em> is licensed under the
     <strong>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</strong>
-    (<strong>CC BY-NC-ND 4.0</strong>) licence. You are free to share this material — copy and
-    redistribute it in any medium or format — for non-commercial purposes only, provided you give
-    appropriate credit to Dermot R. Cochran, indicate if any changes were made, and do not
-    distribute adapted or derivative versions of the work — with one standing exception:
+    (<strong>CC BY-NC-ND 4.0</strong>) licence. You are free to share this material, which means
+    to copy and redistribute it in any medium or format, for non-commercial purposes only. You must
+    give appropriate credit to Dermot R. Cochran, indicate if any changes were made, and not
+    distribute adapted or derivative versions of the work. There is one standing exception:
     non-commercial fan works (fan fiction, fan art, and fan fiction clones of this site) are
     explicitly welcome. See the <a href="/star-rangers/about/">About page</a> and the
     repository's <code>CONTENT-LICENSE.md</code> for the details and conditions.
   </p>
   <p>
     The Eleventy site engine and deployment tooling behind this site are licensed separately,
-    under the permissive <strong>MIT</strong> licence — see the
+    under the permissive <strong>MIT</strong> licence. See the
     <a href="https://github.com/dermot-r-cochran/star-rangers">GitHub repository</a> for details.
   </p>
   <p>

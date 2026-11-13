@@ -148,7 +148,7 @@ permalink: /start/
     ====================================================================== -#}
 <h1 class="page-title">The Reading Plan</h1>
 <p class="page-intro">
-  <em>An archivist's note — which is to say: unofficial, signed, and permitted an opinion. I keep the record you are about to read reconciled, and this note is what I tell people who ask my desk where to start, written down so I can stop repeating it. The record is one history attested by many witnesses, and the shelf around it is reference, not homework — you need none of it before you begin. If you would rather browse than be guided, <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> lists everything, and my feelings will survive.</em>
+  <em>An archivist's note, which is to say: unofficial, signed, and permitted an opinion. I keep the record you are about to read reconciled. This note is what I tell people who ask my desk where to start, written down so I can stop repeating it. The record is one history attested by many witnesses, and the shelf around it is reference, not homework. You need none of it before you begin. If you would rather browse than be guided, <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> lists everything, and my feelings will survive.</em>
 </p>
 
 {#- "Begin here" opens on the spine's first numbered episode, not on
@@ -180,7 +180,7 @@ permalink: /start/
 <section class="thread-section" aria-labelledby="plan-step-1">
   <h2 class="thread-section__title" id="plan-step-1">1 · Start with the spine</h2>
   <p class="thread-section__description">
-    Every archive has a spine — the sequence the rest of the shelf leans against. Ours is the <a href="/star-rangers/threads/tissadelle-arc/">Tissadelle Shepherd's Arc</a>: Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind. Everything else in the collection either runs parallel to it or exists to be consulted while reading it, which is the polite way of saying it is the right first read.
+    Every archive has a spine: the sequence the rest of the shelf leans against. Ours is the <a href="/star-rangers/threads/tissadelle-arc/">Tissadelle Shepherd's Arc</a>, from Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind. Everything else in the collection either runs parallel to it or exists to be consulted while reading it. That is the polite way of saying it is the right first read.
   </p>
   {%- if spineFirst -%}
   <p class="thread-section__description">Begin here.</p>
@@ -196,16 +196,16 @@ permalink: /start/
     </li>
   </ul>
   <p class="thread-section__description">
-    The <em>Next</em> link at the foot of each chapter walks the whole record in season order, which can hand you sideways into the parallel storylines where their seasons fall and back to the spine after each. That is not a filing error; it is how the shelf is ordered. If you want the spine unbroken, read down <a href="/star-rangers/threads/tissadelle-arc/">its thread page's chapter list</a> instead, from the chapter above. Both paths arrive, and neither spoils the other.
+    The <em>Next</em> link at the foot of each chapter walks the whole record in season order. That can hand you sideways into the parallel storylines where their seasons fall, and back to the spine after each. It is not a filing error; it is how the shelf is ordered. If you want the spine unbroken, read down <a href="/star-rangers/threads/tissadelle-arc/">its thread page's chapter list</a> instead, from the chapter above. Both paths arrive, and neither spoils the other.
   </p>
   {%- if preludeFirst -%}
   <p class="thread-section__description">
-    The same season also keeps an <a href="/star-rangers{{ preludeFirst.url | replace(preludeFirst.fileSlug + "/", "") }}">Episode 0</a> of prequels — a household cat, three machines on a wrecked ship, a boundary analyst's three words — which the <em>Next</em> link will not hand you on this path. Read them after the station, when you know what they were before.
+    The same season also keeps an <a href="/star-rangers{{ preludeFirst.url | replace(preludeFirst.fileSlug + "/", "") }}">Episode 0</a> of prequels: a household cat, three machines on a wrecked ship, a boundary analyst's three words. The <em>Next</em> link will not hand you these on this path. Read them after the station, when you know what they were before.
   </p>
   {%- endif -%}
   {%- else -%}
   <p class="thread-section__description">
-    This edition of the record carries no chapters from the spine. <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> will tell you what it does hold — pick up the path there, and rejoin this note at step 4.
+    This edition of the record carries no chapters from the spine. <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> will tell you what it does hold. Pick up the path there, and rejoin this note at step 4.
   </p>
   {%- endif -%}
 </section>
@@ -213,7 +213,7 @@ permalink: /start/
 <section class="thread-section" aria-labelledby="plan-step-2">
   <h2 class="thread-section__title" id="plan-step-2">2 · Read a chapter the way it was taken down</h2>
   <p class="thread-section__description">
-    A chapter is not a story with a narrator; it is testimony — several witnesses to one event, each account withholding what the next supplies. Read it straight through the first time: nothing is hidden from a straight read. Then, when a passage bothers you — and a good record should occasionally bother you — use the <em>View from</em> buttons at the top of the chapter to hold one witness to their own account, or the <em>Read scene-by-scene</em> list at the bottom to hold one scene still and walk every witness through it in turn. That second exercise is most of my job. I commend it.
+    A chapter is not a story with a narrator; it is testimony. Several witnesses speak to one event, each account withholding what the next supplies. Read it straight through the first time: nothing is hidden from a straight read. Then, when a passage bothers you (and a good record should occasionally bother you), you have two ways in. The <em>View from</em> buttons at the top of the chapter hold one witness to their own account. The <em>Read scene-by-scene</em> list at the bottom holds one scene still and walks every witness through it in turn. That second exercise is most of my job. I commend it.
   </p>
 </section>
 
@@ -223,11 +223,11 @@ permalink: /start/
     When a term, a place, or a name stops you, the shelf answers without telling you what happens next. But not every section carries the same authority, and I would be a poor archivist if I let you assume otherwise:
   </p>
   <ul class="thread-section__description">
-    {%- if shelfHas.glossary %}<li><a href="/star-rangers/glossary/">Glossary</a> — terms, fixed before the arguments begin. The fastest answer to "what is that?"</li>{% endif -%}
+    {%- if shelfHas.glossary %}<li><a href="/star-rangers/glossary/">Glossary</a> — terms, fixed before the arguments begin, and the fastest answer to "what is that?"</li>{% endif -%}
     {%- if shelfHas.lore %}<li><a href="/star-rangers/lore/">Lore</a> — the settled record: what the Archive will state flatly and stand behind. History, factions, species, technology, and the cosmology under all of it.</li>{% endif -%}
     <li><a href="/star-rangers/characters/">Characters</a> — who's who, and whose eyes you have been reading through.</li>
     {%- if shelfHas.atlas %}<li><a href="/star-rangers/atlas/">Atlas</a> — where everything is.</li>{% endif -%}
-    {%- if shelfHas.codex %}<li><a href="/star-rangers/codex/">Codex</a> — the paperwork itself: primary sources with named authors, some incomplete, some biased, one or two built to mislead. Unlike lore, a codex entry can be wrong. I keep those shelves too, and I say this with affection: read them the way I file them, with the author's name held firmly in view.</li>{% endif -%}
+    {%- if shelfHas.codex %}<li><a href="/star-rangers/codex/">Codex</a> — the paperwork itself: primary sources with named authors, some incomplete, some biased, one or two built to mislead. Unlike lore, a codex entry can be wrong. I keep those shelves too, and I say this with affection. Read them the way I file them, with the author's name held firmly in view.</li>{% endif -%}
   </ul>
 </section>
 
@@ -249,7 +249,7 @@ permalink: /start/
 <section class="thread-section" aria-labelledby="plan-step-4">
   <h2 class="thread-section__title" id="plan-step-4">4 · Branch out by storyline</h2>
   <p class="thread-section__description">
-    A season number marks a position in its own storyline's timeline, not a claim on your attention. The other <a href="/star-rangers/threads/">storyline threads</a> run parallel to the spine, each self-contained, each with its own cast, though people do cross. Take them in any order, between seasons of the spine or after it — the record does not mind.
+    A season number marks a position in its own storyline's timeline, not a claim on your attention. The other <a href="/star-rangers/threads/">storyline threads</a> run parallel to the spine, each self-contained, each with its own cast, though people do cross. Take them in any order, between seasons of the spine or after it. The record does not mind.
   </p>
   {%- for branch in branchThreads -%}
   <div class="season-block">
@@ -276,7 +276,7 @@ permalink: /start/
 <section class="thread-section" aria-labelledby="plan-step-5">
   <h2 class="thread-section__title" id="plan-step-5">5 · Let the record argue with itself</h2>
   <p class="thread-section__description">
-    Once the story has hold of you, go where the record disagrees. {% if shelfHas.timeline %}The <a href="/star-rangers/timeline/">Timeline</a> keeps the official sequence — confirmed fact first, while the chapters dispute motive, memory, and meaning. {% endif %}{% if shelfHas.codex %}The <a href="/star-rangers/codex/">Codex</a> is where those disputes leave paperwork. {% endif %}And you will find gaps: some are records not yet reconciled, some are files sealed by authorities whose reasons are on file even where their contents are not, and a few are absences the record has marked deliberately, because a marked absence is itself information.{% if markedAbsencesIncluded %} I keep a working list — <a href="/star-rangers/codex/marked-absences/">Marked Absences</a> — so that no reader mistakes a gap for an oversight.{% endif %}
+    Once the story has hold of you, go where the record disagrees. {% if shelfHas.timeline %}The <a href="/star-rangers/timeline/">Timeline</a> keeps the official sequence: confirmed fact first, while the chapters dispute motive, memory, and meaning. {% endif %}{% if shelfHas.codex %}The <a href="/star-rangers/codex/">Codex</a> is where those disputes leave paperwork. {% endif %}And you will find gaps. Some are records not yet reconciled. Some are files sealed by authorities whose reasons are on file even where their contents are not. A few are absences the record has marked deliberately, because a marked absence is itself information.{% if markedAbsencesIncluded %} I keep a working list, <a href="/star-rangers/codex/marked-absences/">Marked Absences</a>, so that no reader mistakes a gap for an oversight.{% endif %}
   </p>
   <p class="thread-section__description">
     <em>— Sen, Senior Archivist, Survey Archive, Threshold Station. Filed as a reading aid, not as doctrine; comments to the usual shelf.</em>
@@ -286,8 +286,8 @@ permalink: /start/
 <section class="thread-section" aria-labelledby="plan-arranged">
   <h2 class="thread-section__title" id="plan-arranged">How the record is arranged</h2>
   <p class="thread-section__description">
-    Outside Sen's note, and in plain terms: the record is published at four reading tiers that nest, each carrying
-    everything inside it and adding storylines of its own, and nothing read on an inner tier is withdrawn or
+    Outside Sen's note, and in plain terms: the record is published at four reading tiers that nest. Each carries
+    everything inside it and adds storylines of its own. Nothing read on an inner tier is withdrawn or
     contradicted on an outer one. Every address you can read it at is an <em>edition</em> on one of those tiers.
     Inside any storyline the units get smaller in the same order everywhere.
   </p>
@@ -330,7 +330,7 @@ permalink: /start/
 <text x="179" y="352" class="sm mute">a season may run as two or more strands that meet at a fixed point</text>
 <text x="20" y="380" class="sm mute">A chapter is made of scenes, and each scene is seen from more than one viewpoint</text>
 </svg>
-<figcaption>The reading tiers nest; the edition you are reading is marked. Inside a storyline, a thread holds whole seasons, a season holds episodes (and may run as two or more strands, parallel storylines that meet at a point fixed in advance), an episode holds chapters, a chapter holds scenes, and each scene is told from more than one viewpoint. <a href="/star-rangers/tiers/">Reading Tiers</a> says which storylines each tier carries and where to read it.</figcaption>
+<figcaption>The reading tiers nest, and the edition you are reading is marked. Inside a storyline, a thread holds whole seasons and a season holds episodes. A season may also run as two or more strands, parallel storylines that meet at a point fixed in advance. An episode holds chapters, a chapter holds scenes, and each scene is told from more than one viewpoint. <a href="/star-rangers/tiers/">Reading Tiers</a> says which storylines each tier carries and where to read it.</figcaption>
   </figure>
 </section>
 
