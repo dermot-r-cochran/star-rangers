@@ -19,7 +19,7 @@ image_alt: "Designed cover for The Flight of Aldera: a single candlelit glow han
 
 ## The Abbey
 
-The Abbey crouched on the hillside above the River Boyne, older than the castles, older than the kings who'd built them. Elvira had braced herself for the abbey's silence. Instead, before the gates were even open, the sound found her — not the clang of iron on iron but something below that, a frequency that lived in bone rather than air. Aldera of Dún Rí went rigid in her arms, ears pinned flat, and then, disturbingly, stopped moving altogether.
+The Abbey crouched on the hillside above the River Boyne, older than the castles, older than the kings who'd built them. Elvira had braced herself for the abbey's gentle quiet. Instead, before the gates were even open, the sound found her — not the clang of iron on iron but something below that, a frequency that lived in bone rather than air. Aldera of Dún Rí went rigid in her arms, ears pinned flat, and then, disturbingly, stopped moving altogether.
 
 "Princess Elvira." The monk materialized from the smithy's orange glow — tonsured, soot-dark, his hands the hands of someone who worked metal and knew what it cost. "I am Brother Daire, of Dún Rí Abbey. We've been expecting you."
 
