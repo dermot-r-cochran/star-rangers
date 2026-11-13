@@ -42,7 +42,7 @@ The proxy structure leaves no room for it to be otherwise. Continuity is what a 
 
 **The consequence is that physics inside a universe is indistinguishable from physics in a universe with no Mediarchs at all**, and that indistinguishability is the design working rather than an embarrassment to it. Constants measure as constant. Experiments repeat. Nothing in a laboratory result points upward, and nothing needs to.
 
-Boundary anomalies are not counterexamples. [Boundary zones produce lawful disagreement, not law failure](/star-rangers/lore/five-layers/) — instruments disagreeing across an edge are two rule-sets meeting, not a force behaving unfaithfully. Threshold Station's forty-second discrepancy has stood unexplained for eleven years without once implying that gravity, electromagnetics or Nature did anything other than what they do.
+Boundary anomalies are not counterexamples. [Boundary zones produce lawful disagreement, not law failure](/star-rangers/lore/five-layers/) — instruments disagreeing across an edge are two rule-sets meeting, not a force behaving unfaithfully. Threshold Station's forty-second discrepancy against the standard kept at Lúnasa has stood unexplained for eleven years without once implying that gravity, electromagnetics or Nature did anything other than what they do.
 
 ## Every Force Divides the Same Way
 

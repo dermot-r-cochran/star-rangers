@@ -23,7 +23,7 @@ The one document in Ansell's name is a protocol. It is written as protocols are,
 
 ## Character Notes
 
-What the record shows of Ansell is the shape of the document, and the document is careful about instruments and silent about what to do when the instruments disagree and stay disagreed. The protocol asks for two chronometers so that one can check the other; it does not say what a station should conclude when both read true and still differ. The margin note, by another hand, says exactly that, and the eleven years of Dock Seven are what the gap looked like from inside. None of this is a finding about the Chief Surveyor; it is what one protocol, read beside the file it governed, does and does not provide for.
+What the record shows of Ansell is the shape of the document, and the document is careful about instruments and silent about what to do when the instruments disagree and stay disagreed. The protocol asks for two chronometers so that one can check the other; it does not say what a station should conclude when both read true and still differ. The margin note, by another hand, says exactly that, and the eleven years of Dock Seven, the station's clock against Lúnasa's standard, are what the gap looked like from inside. None of this is a finding about the Chief Surveyor; it is what one protocol, read beside the file it governed, does and does not provide for.
 
 The record holds nothing of Ansell beyond the office and the document: no origin, no species stated, no other filing. The rank page names Ansell as holding the office in the record's own present; by date, the Codex places Ansell at the Standards Office in 2811 UCSD and nowhere else.
 

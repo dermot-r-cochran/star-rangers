@@ -27,7 +27,7 @@ So the *Kalypsis Dawn* is not built to keep the effect out. It is built to **kno
 
 The ship carries **several independent reference sets** — clocks, inertial references and field baselines that do not share a design, a supply chain or a failure mode — cross-checked continuously against each other rather than against a single authority. In ordinary space they agree and the redundancy is dead weight. Inside a Type II interface they begin to disagree, and the disagreement is the measurement: a crew that can state the divergence has a boundary reading, where a crew with one very good clock has only a clock they no longer trust.
 
-**The design is a lesson learned expensively.** [Threshold Station's forty-second discrepancy](/star-rangers/lore/boundary-zones/) sat in the record for eleven years as a calibration fault, because a single reference with nothing to disagree with looks exactly like an instrument that needs adjusting. The *Kalypsis Dawn* is built so that the same fault would have announced itself in an afternoon.
+**The design is a lesson learned expensively.** [Threshold Station's forty-second discrepancy](/star-rangers/lore/boundary-zones/) sat in the record for eleven years as a calibration fault, because a station clock checked against one outside standard, with nothing else to disagree with, looks exactly like an instrument that needs adjusting. The *Kalypsis Dawn* is built so that the same fault would have announced itself in an afternoon.
 
 ## Certification
 

@@ -28,7 +28,7 @@ What remains after that is forty seconds. It does not grow and does not shrink, 
 
 The forty seconds belong to the shore, not to the station in orbit. Lúnasa's standard reconciles with the rest of the ensemble as any good standard does. Threshold's own clock, checked on its own, is accurate too. It is only the comparison between this shore and the standard that comes out forty seconds apart.
 
-The disagreement is also older than either station. The lighthouse keeper's clock records from the same coast, read long after the fact, show the same offset against the standard time of their day, carried then by broadcast signal. The offset has always been between this shore and whatever kept the standard. Lúnasa is only the present holder of the far end.
+The disagreement is also older than either station. The lighthouse keeper's clock corrections in the [Sceir Light](/star-rangers/seasons/s01/e01/s01e01c03/)'s register, read long after the fact, show the same forty seconds growing in them, measured against the standard time of their day, carried then by the Lights Board's signal. The offset has always been between this shore and whatever kept the standard. Lúnasa is only the present holder of the far end.
 
 What produces the forty seconds is not established. The comparison is.
 
