@@ -2396,6 +2396,31 @@ main th {
 }
 
 /* --- Comments (giscus) --- */
+/* Correction notes on a page whose assertions changed after it locked
+   (base.njk). Quiet, under the text, never above it: a record of a change,
+   not a banner. Palette-only tokens, so generate-themes carries it verbatim. */
+.correction-notes {
+  margin-top: var(--spacing-xl);
+  padding: var(--spacing-md) var(--spacing-lg);
+  border-left: 3px solid var(--color-border);
+  background: var(--color-surface-2);
+}
+.correction-notes__heading {
+  font-size: 1rem;
+  margin: 0 0 var(--spacing-sm);
+}
+.correction-notes__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.correction-notes__item + .correction-notes__item {
+  margin-top: var(--spacing-sm);
+}
+.correction-notes__date {
+  font-weight: 600;
+  margin-right: 0.4em;
+}
 .site-comments {
   margin-top: var(--spacing-xl);
   padding-top: var(--spacing-lg);

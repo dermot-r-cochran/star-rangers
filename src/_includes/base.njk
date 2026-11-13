@@ -249,6 +249,23 @@
   <main id="main-content" class="main-content" data-pagefind-body>
     {{ content | safe }}
 
+    {#- CORRECTION NOTES (Dermot, 2026-11-13: "If I do modify a locked page it
+        would need a correction note attached to it"). A page whose assertions
+        changed after it locked carries a dated `corrections:` list in its front
+        matter; scripts/check-locked-pages.js refuses such a change without one
+        (lib/locked-pages.js, NOTE_REASONS). Shown on every page that has one,
+        under the text and above the discussion, oldest first. -#}
+    {%- if corrections and corrections.length %}
+    <aside class="correction-notes" aria-labelledby="correction-notes-heading">
+      <h2 class="correction-notes__heading" id="correction-notes-heading">Corrections</h2>
+      <ul class="correction-notes__list" role="list">
+        {%- for c in corrections %}
+        <li class="correction-notes__item"><span class="correction-notes__date">{{ c.date if c.date.length else (c.date | isoDate) }}</span> {{ c.note }}</li>
+        {%- endfor %}
+      </ul>
+    </aside>
+    {%- endif %}
+
     {% if comments and commentsEnabled %}
     {#- The board is the PAGE's, not the build's: .eleventy.js's giscusBoard
         picks a thread's own board (church-space -> the Communion's) on any
