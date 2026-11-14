@@ -15,7 +15,7 @@ Two institutions work aboard the station, and neither one is its guest in quite 
 
 ## What It Is
 
-**Halyx Relay Station** is a station in the Halyx System, with Cerebraun and human staff aboard, the system of [Meridian](/star-rangers/lore/planets/meridian/) and [the Sentinel](/star-rangers/lore/planets/sentinel/). The system is the [Cerebraun Hegemony's](/star-rangers/lore/cerebraun-hegemony/), and so is the station's chief office: the Halyx System liaison office, on the staff of the Administrator-Voice, [Sohrel](/star-rangers/characters/sohrel/), who has held the Halyx portfolio for about three centuries.
+**Halyx Relay Station** is a station in the Halyx System, the system of [Meridian](/star-rangers/lore/planets/meridian/) and [the Sentinel](/star-rangers/lore/planets/sentinel/), with Cerebraun and human staff aboard. The system is the [Cerebraun Hegemony's](/star-rangers/lore/cerebraun-hegemony/), and so is the station's chief office: the Halyx System liaison office, on the staff of the Administrator-Voice, [Sohrel](/star-rangers/characters/sohrel/), who has held the Halyx portfolio for about three centuries.
 
 The [Survey Corps](/star-rangers/lore/star-rangers-survey-corps/) keeps a liaison archive aboard, under an exchange agreement that releases Hegemony survey telemetry to the Corps a decade or two after the fact. The Rangers work there as guests: in Shepherd's words, a relay station at the edge of someone else's jurisdiction. The station also has a review chamber where the Corps hears its own officers' findings, and an outer ring of transit corridors.
 

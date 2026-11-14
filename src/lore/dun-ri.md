@@ -24,7 +24,7 @@ Down from the house, on a tidal stretch of the Boyne, stands an old river abbey,
 
 ## The Meeting of 2806
 
-In 2806 UCSD [Galahad Thorne](/star-rangers/characters/galahad-thorne/), then seventeen, came to Dún Rí with his father on an errand about a boundary of the ordinary sort: a field line that two families had been arguing over politely for a century. He met Elvira on the terrace step, and he used the kitchen's word for the wrong light by the garden gate. The record has only his memory of it, and her recognition of the word twenty years later in [The Word She Did Not Like](/star-rangers/seasons/s01/e03/s01e03c05/). The Archive files that meeting as one man's recollection and confirms nothing by it.
+In 2806 UCSD [Galahad Thorne](/star-rangers/characters/galahad-thorne/), then seventeen, came to Dún Rí with his father on an errand about a boundary of the ordinary sort: a field line that two families had been arguing over politely for a century. He met Elvira on the terrace step, and he used the kitchen's word for the wrong light by the garden gate. The record has his memory of it, and hers, which came back when he used the word again twenty years later in [The Word She Did Not Like](/star-rangers/seasons/s01/e03/s01e03c05/). The Archive files that meeting as their two recollections and confirms nothing by it.
 
 ## The Chronicle That Shares the Name
 
