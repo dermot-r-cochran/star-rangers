@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.69.0] — 2026-11-14
+
+The Common Manifold now lies above the bulk: a new glossary entry for the Local Bulk, a reader's note for those who know the physics, and the pages on membranes and gravity brought into step with the ruling. Life near a spinning habitat's weightless axis is designed and written up, with an image prompt for the hub fly. Two critic reads repair a few lines on the new place pages and the cosmology pages, and the artefact extractors follow the fluency pass.
+
 - **Critic read of #1843 and #1844: four lines brought into step with the bulk ruling** (2026-11-14, Fable read, Opus counter-critic). *The Common Manifold*'s plain summary still credited gravity to a band; it now names the bulk as gravity's carrier, as the page's body does. In *For a Reader Who Knows the Physics*, *only gravity registers* becomes *gravity is the only force to register*, since timing and templates register too, and F-theory's two directions are counted from string theory's ten. *Concordant Membranes* now says reach is what the bulk or a band carries. No ruling moves. Four points that are Dermot's are recorded as options in `story-bible/open-questions.md`.
 
 - **What lives near a habitat's axis** (`src/lore/habitats-and-the-worlds-beneath-them.md`, 2026-11-14, Opus, at Dermot's *"Write the What Lives Near the Axis paragraph"*). An extension of the page: weight falls away toward a spinning habitat's axis, and the weightless hub has life of its own. It is the rings' own life moved inward: microbial films in the wet plumbing, fungi, mites and one small fly, living on what the rings shed, with nothing larger and no vertebrate breeding there. Whether ark-spine life came down with the settlers is marked as unknown. The plain summary gains one sentence.
