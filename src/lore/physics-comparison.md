@@ -200,6 +200,7 @@ Sentient minds, organic or artificial, are not purely physical. They interact wi
 
 ### Real Cosmos
 - Extra dimensions are hypothetical (string theory).
+- In M-theory spacetime has eleven dimensions and nothing lies above them. Brane-world models, in which a universe is a membrane in a larger bulk and several may share one, are untested hypotheses.
 - No measurable influence on daily life.
 - No origin tiers, design tiers, or operational hierarchy above spacetime are known to exist.
 
@@ -212,6 +213,7 @@ Sentient minds, organic or artificial, are not purely physical. They interact wi
   - **Telearchs**: govern cross-Concordant continuity from a higher-dimensional supervisory tier.
   - **Celestials (Frenar)**: operational enforcement at boundary and overlap interfaces.
   - **Levrils**: sapient meta-dimensional beings at the lowest Cascade tier with higher-dimensional extension.
+- Above each [bulk](/star-rangers/glossary/local-bulk/), which may hold very many membrane-universes, lies the [Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/), a layer M-theory does not have.
 - Mortals cannot perceive higher dimensions directly except through anomaly signatures such as instrument drift and Etheric boundary effects at Threshold Station.
 
 ### Key Difference
@@ -233,6 +235,7 @@ Higher-dimensional space is not hypothetical. It is populated, hierarchical, and
 | Disasters | Unrestricted | Unrestricted below collapse threshold |
 | Consciousness | Emergent, per current science | Emergent plus lawful Etheric coupling |
 | Higher dimensions | Hypothetical | Populated and causally active |
+| Above the bulk | Nothing (M-theory has eleven dimensions in all) | The Common Manifold, seating many bulks of many membranes |
 
 No physics in this universe is supernatural. Every cross-layer effect requires lawful coupling through the Five Layers. The difference from the real cosmos is not magic. It is architecture.
 

@@ -19,6 +19,8 @@ tags: [compact-dimensions, dimensions, cosmology, common-manifold, etheric]
 
 They are ordinary space. A compact dimension is not a layer, not a plane of existence, and not a realm — nothing lives in one, nothing can be sent through one, and no instrument observes one directly. What they are is *directions this universe has* that a body is too large to use.
 
+One of the seven is the [local bulk](/star-rangers/glossary/local-bulk/)'s own: the direction the membranes of one bulk are spaced along. A membrane has extent in the other ten, and nothing confined to a membrane moves along the eleventh. The count of eleven is the bulk's, and every membrane in the bulk shares it.
+
 **Their significance is what runs through them.** [Etheric](/star-rangers/glossary/etheric/) rule-templates have geometric extent through a [Concordant](/star-rangers/glossary/concordant/)'s compact dimensions, which is why Layer 3 effects can be localised, mapped, and read at all by a constraint-literate practitioner. That is a statement about *where an Etheric effect becomes measurable*, never about what the Etheric layer is — the Etheric remains a causal mode, and a mode is not a place.
 
 **Seven is a local fact.** Nothing in [Worldwright](/star-rangers/glossary/worldwright/) design requires 3+7+1; another primary universe in the [Grand Ensemble](/star-rangers/lore/ensemble-multiverse/) can be built on a different split entirely, and how many compact dimensions it has helps determine which fundamental particles and forces can exist there coherently at all.

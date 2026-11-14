@@ -109,19 +109,20 @@ Two documented cases exist, at opposite ends of how predictable the underlying s
 
 Three phenomena above cross a gap that nothing physical crosses, and they are not three exceptions. They are one rule.
 
-**A thing reaches across the Interval exactly to the extent that a band of the [Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/) carries it.** The manifold has three, and each carries one thing:
+**A thing reaches across the Interval exactly to the extent that something carries it: the [bulk](/star-rangers/glossary/local-bulk/) the two membranes share, or a band of the [Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/).** The bulk carries one thing, and each of the manifold's three bands carries one:
 
-| Band | Carries | Observed as |
+| Carrier | Carries | Observed as |
 |---|---|---|
-| **12–15** — extended spacelike lattice | geometric strain | **gravity**: Membrane Shadows, transient gravity tunnels |
+| **The bulk** — the space membranes in one bulk share | gravity | **gravity**: Membrane Shadows, transient gravity tunnels |
+| **12–15** — extended spacelike lattice | geometric strain, spread beyond the bulk | the narrowing stays local: [flexures](#the-membrane-model), no metric tearing |
 | **16–19** — extended timelike channels | causal timing | timebase disagreement between overlapping frames |
 | **20+** — trans-concordant constraint field | Etheric archetypal templates | Membrane Resonance, Intermembrane Bleed |
 
-Everything else is membrane-confined. Matter, ships, beings, and the other force-domains — **electromagnetics, Nature** — have no band and therefore no reach across a standing Interval: nothing of them leaks, registers, or competes on the far side of a gap that remains a gap. This is why "nothing crosses the gap" and "the far side's mass is measurable here" are both true statements about the same event, and not a contradiction. It is also why a [certified fold route](/star-rangers/lore/ftl-mechanics/) into a neighbouring membrane breaks no part of the rule: a fold compresses the separation to adjacency, is crossed at contact, and is released, so the transit happens where there is briefly no gap to have reach across. Reach is what a band carries over a separation that stays; a fold is the formcluster's licence to make the separation briefly not stay. Matter has the second and will never have the first.
+Everything else is membrane-confined. Matter, ships, beings, and the other force-domains — **electromagnetics, Nature** — are confined to their own membrane and have no band, and therefore no reach across a standing Interval: nothing of them leaks, registers, or competes on the far side of a gap that remains a gap. This is why "nothing crosses the gap" and "the far side's mass is measurable here" are both true statements about the same event, and not a contradiction. It is also why a [certified fold route](/star-rangers/lore/ftl-mechanics/) into a neighbouring membrane breaks no part of the rule: a fold compresses the separation to adjacency, is crossed at contact, and is released, so the transit happens where there is briefly no gap to have reach across. Reach is what a band carries over a separation that stays; a fold is the formcluster's licence to make the separation briefly not stay. Matter has the second and will never have the first.
 
 Instruments are not the 20+ band's only detectors. A mind carries lawful Etheric coupling, and what a dreaming mind near a narrowed Interval can register of a neighbour's bled templates, and under what conditions it can *read* them, is filed at [Dreams Across the Interval](/star-rangers/lore/dreams-across-the-interval/).
 
-**Gravity is the case where the rule becomes visible.** Its band is the geometric one, and gravity *is* geometry. So where two membranes draw close, gravity is the force whose trans-membrane term stops being structural and starts being an instrument reading. Not a special property of gravity so much as the one force whose nature matches what the between is made of.
+**Gravity is the case where the rule becomes visible.** Gravity *is* geometry, the geometry of the whole bulk, and so it is the one force not confined to a membrane; brane-world physics draws the same division. So where two membranes draw close, gravity is the force whose trans-membrane term stops being structural and starts being an instrument reading. Not a special property of gravity so much as the one force whose nature matches what the between is made of.
 
 ### Why this is a Telearch matter
 
