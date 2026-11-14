@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Critic read of #1825 to #1841: two lines repaired on the new place pages** (2026-11-14, Fable read, Opus counter-critic). *Dún Rí* said the record held only Galahad Thorne's memory of the 2806 meeting and filed it as one man's recollection. *The Word She Did Not Like* (S01E03C05) has Elvira remember it too, so the page now says the record has both memories and files the meeting as their two recollections. *Halyx Relay Station*'s opening sentence had *the system of Meridian and the Sentinel* attached to the staff; the two phrases are reordered, no word changed. The 13 November intake's Dún Rí note is tidied where its revision left a spliced sentence. No ruling moves.
+
 - **Artefact extractors follow the fluency pass** (`scripts/extract-places-and-peoples.js`, `scripts/extract-peoples.js`, 2026-11-13). Four phrases the extractors check for on *Aspenar*, *Saltvik*, *Ollune* and *Prismeri* had been split or recapitalised by the fluency pass, so the 1.68.0 artefact run stopped. Each now quotes the page as it reads; no page changed.
 
 ## [1.68.0] — 2026-11-13
