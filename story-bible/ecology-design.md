@@ -1444,6 +1444,8 @@ from the habitat's own language and humour.
 - **The visible one**: a small fly, the only hub life a resident is likely to
   notice, flying close to surfaces and landing often, because open air near
   the axis carries it off with the turn. It is a nuisance, never a threat.
+  Its image prompt, at Dermot's direction of 14 November 2026, is
+  `images.md` § 52 (*the hub fly*, a working label; the name still waits).
 - **Recyclers**: the films and fungi themselves, and the habitat's own
   filters, which take everything else.
 - **Nothing larger.** No vertebrate breeds in a hub, and no habitat in the
@@ -1473,6 +1475,12 @@ from the habitat's own language and humour.
   boundary phenomenon, so cleaning it is housekeeping and may work every time.
 
 ### What a page would need
+
+**Landed 14 November 2026**, at Dermot's *"Write the What Lives Near the
+Axis paragraph"*, as three short paragraphs on
+`src/lore/habitats-and-the-worlds-beneath-them.md`. They keep to the outline
+below, give no name to the fly, and leave the Spire's cleaning, human
+pathogens and the ark question unstated. The outline as first written:
 
 If a chapter set in a hub, a spoke or an ark spine needs a smell, a damp duct
 or a fly, one paragraph on `habitats-and-the-worlds-beneath-them.md` under a
