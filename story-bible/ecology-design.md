@@ -1320,6 +1320,170 @@ Archive's own voice first. Nothing is changed in `src/` by this section.
 
 ---
 
+## Habitat axes — life near the weightless line
+
+Added 14 November 2026 at Dermot's direction, verbatim: *"Space dwelling low
+gravity life forms"*, then *"Option 1, habitat microgravity life"*, choosing it
+over true vacuum dwellers, which the Undersong Belt's traps already refuse
+(*Space creatures in the void*, above). Drafted on Opus. This is the one
+section of the file that is not a world: its subject is the weightless and
+light-gravity zones every spinning habitat in the record already has, and what
+can live in them. Marked derived or proposed as everywhere else; nothing here
+is canon or written to `src/`.
+
+### What the record says
+
+- New London's hub, **The Spire**, is *"non-rotating"* and carries
+  *"administration, docking, and zero-gravity manufacturing. The Spire is the
+  only part of the habitat where nothing weighs anything, and by long
+  convention it is also the only part where nothing is preserved"*. The Thames
+  Canal's water *"crosses the hub weightless and enclosed"* under pump
+  (`src/lore/new-london-space-habitat.md`). The habitat was there *"more than
+  three centuries"* before 2712 UCSD (same page).
+- Antariksha's hub is *"weightless and works around the clock"*, a foundry
+  for fibre, crystals and lattices *"that cannot be made well under
+  gravity"*. Its cylinders are 1,200 m across and turn about 1.2 times a
+  minute for Earth-standard weight at the floor (`src/lore/antariksha.md`).
+- A generation ark is *"a long dull spine with a wide patched drum amidships
+  built to turn about the ship's axis"*, on a transit *"measured in decades"*,
+  carrying a company that *"expected to be born, to live, and to die aboard"*
+  (`src/lore/the-generation-ark-era.md`).
+- A habitat's environment is *"engineered end to end … spin gravity, light
+  and its period"*, and *"the species a habitat supports is a fact about the
+  habitat"* (`src/lore/habitats-and-the-worlds-beneath-them.md`).
+- Precedent for lineages drifting apart without anyone intending it: Earth's
+  urban generalists are *"now old enough as distinct populations that field
+  taxonomists debate incipient subspecies status"*
+  (`src/lore/crisis-centuries-terran-wildlife.md`).
+- Off-world Ollune in freefall *"can sleep without being held"*
+  (`src/lore/ollune.md`). The Chthonari body is built for *"negligible
+  gravity"* (`src/lore/chthonari.md`). Both are peoples, not habitat life, and
+  are noted here only as the record's other low-gravity bodies.
+
+### What it derives
+
+- **Low gravity is a band, not a point** (derived, real physics). Spin weight
+  falls in proportion to the distance from the axis. In an Antariksha
+  cylinder (radius 600 m, about 0.126 radians a second), the floor has
+  about 0.97 g, a point 62 m from the axis has a tenth of a g, and 6 m from it
+  a hundredth. Every spoke, lift shaft and end-cap wall crosses that gradient.
+  So "microgravity life" means the hub and a skin of light-weight zones around
+  it, not the hub alone.
+- **Near the axis, sideways forces rival weight** (derived). The Coriolis
+  acceleration on anything moving at 1 m/s is about 0.25 m/s² at any radius.
+  At a tenth of a g that is a quarter of the weight. A dropped thing near the
+  axis does not fall straight, and a flier there is steered by the turn. Life
+  in the light-weight band would be shaped by that, not just by lightness.
+- **The air does not move unless something moves it** (derived, real
+  physics). With no weight, warm air does not rise and dense air does not
+  sink. Exhaled carbon dioxide and a leaf's own water vapour pool around
+  whatever made them. In the weightless zone every living thing depends on
+  forced air, and the habitat's fans and ducts are its weather. Where the air
+  stalls, nothing lives.
+- **Water clings instead of pooling** (derived). It forms films and drops held
+  by surface tension, on cold surfaces, in condensate lines and on filter
+  media. The wet places in a hub are its plumbing: New London's canal crossing
+  and the life-support condensate are where hub life would start.
+- **Its food is the rings' leakage** (derived, the same reasoning as the
+  Undersong Belt: what does it live on?). A hub has lighting but no soil and
+  no crop. What reaches it is what the habitat's own life sheds: skin, fibre,
+  dust, spores and organic traces carried in the air and water that pass
+  through on their way between rings. The base of a hub's food web is
+  microbial film on wet surfaces, fed by that traffic.
+- **Earth-origin life is what lives there** (derived). The rings carry Earth's
+  web (or a people's own, in a habitat of theirs), and nothing else is aboard
+  to adapt. So the rule *Nothing preys on or infects across biospheres*
+  (`src/lore/what-a-life-is-built-from.md`) is untouched: this is one
+  biosphere's life moving inward, not anything new arriving.
+- **What real weightlessness has already shown** (real science, for the
+  reasoning only, never quoted in the Archive's voice). Bacterial biofilms
+  grown in orbit took shapes they do not take on the ground; fungi grew in the
+  condensate and behind the panels of long-occupied stations; a flowering
+  plant went from seed to seed in orbit, its roots steering by touch, water
+  and light with no gravity to follow; fruit flies bred over several
+  generations; honeybees built comb; orb spiders spun irregular webs at first
+  and better ones within days; small fish mated and produced young. None of
+  it ran for more than months.
+- **Centuries are enough for the small and the fast** (derived, by the
+  crisis-centuries precedent). A hub that has been occupied for four to six
+  centuries has given microbes tens of thousands of generations, mites and
+  springtails thousands, a fly hundreds or more. Each of those can carry real
+  adaptation: films that hold on in moving air, fungi that fruit along the
+  airflow rather than against gravity, mites that cling rather than fall. A
+  vertebrate lineage cannot have changed much in that time, and nothing in
+  the record keeps one in a hub.
+- **Housekeeping is the selection** (derived for Antariksha, proposed for New
+  London). A foundry that grows crystals needs clean air and dry surfaces, so
+  Antariksha's hub would be the most heavily filtered space in Earth orbit,
+  and what lives there would be the cleanroom kind: few, hardy and
+  slow-growing, the organisms that survive cleaning. The Spire's convention,
+  that *nothing is preserved*, is written about heritage; reading it as also
+  meaning the hub is stripped and scrubbed is a proposal. If it stands, New
+  London's hub life is weedy: whatever recolonises fastest from the canal
+  crossing after each cleaning.
+- **Arks had the longest unbroken weightless spaces** (derived). A drum turns
+  and a spine does not. Over a transit of decades, the spine's storage, ducts
+  and condensate lines were the one continuous weightless habitat the record
+  holds, and nobody was cleaning it to a foundry's standard. A Currach-era
+  spine is where hub life would have had the longest unbroken run. Whether any
+  of it came down with the settlers is **not established**.
+
+### The web, proposed
+
+Proposed throughout and unnamed. No name is needed until a chapter wants one,
+and the hub crews' own word for any of this, when one is wanted, should come
+from the habitat's own language and humour.
+
+- **Producers**: none in the ordinary sense. A hub's light is for work, not
+  growth, and nothing is planted there. Where a duct runs under a lamp, a
+  thin algal film may green it, which crews would see as a fault.
+- **Base**: microbial films on wet surfaces (condensate lines, filter housings,
+  the canal crossing), living on the organic traces in the air and water.
+- **Grazers**: fungi along the airflow; mites and springtails in the filter
+  housings and duct bends, living on the films and on shed skin and fibre.
+- **The visible one**: a small fly, the only hub life a resident is likely to
+  notice, flying close to surfaces and landing often, because open air near
+  the axis carries it off with the turn. It is a nuisance, never a threat.
+- **Recyclers**: the films and fungi themselves, and the habitat's own
+  filters, which take everything else.
+- **Nothing larger.** No vertebrate breeds in a hub, and no habitat in the
+  record keeps one there.
+
+### Traps
+
+- **The floating creature.** The generator's default for "life in a space
+  station" is a drifting jellyfish, a glowing swarm or a translucent thing in
+  the corridor. Nothing here is larger than a fly, and nothing glows.
+- **The mutant.** Centuries of drift make a lineage that clings, not a
+  monster. No hub organism is larger, stranger or more dangerous than its
+  ring cousin, and nothing is written as a body horror.
+- **The infestation as a case.** Mould in a vent is maintenance, not a
+  mystery, and a hub's life never becomes the engine of a season. Mysteries
+  stay shadow-shaped.
+- **A hub plague.** Whether a human pathogen behaves differently in
+  weightlessness is **not established**, and should stay so unless a chapter
+  needs it. The Medical Corps handles hub hygiene as routine, and the tone rule
+  holds.
+- **Weightless humans.** A human lineage born and raised in a hub is not
+  proposed here and would be a people's designed body, which is never decided
+  without Dermot. The record says only that Antariksha turns slowly enough that
+  residents born there *"need no vestibular adaptation"*; nothing here moves
+  that.
+- **The repeatable answer.** None applies: hub life is ordinary biology, not a
+  boundary phenomenon, so cleaning it is housekeeping and may work every time.
+
+### What a page would need
+
+If a chapter set in a hub, a spoke or an ark spine needs a smell, a damp duct
+or a fly, one paragraph on `habitats-and-the-worlds-beneath-them.md` under a
+heading such as *What Lives Near the Axis*: the weightless zone has life, it
+is the rings' own life moved inward and changed by centuries of drift, it
+lives on what the rings shed, and nothing in it is larger than a fly.
+Antariksha's and New London's own pages would take a sentence each only if a
+chapter is set in their hubs. The ark question stays **not established**.
+
+---
+
 ## The rest, in one table
 
 What each page gives an ecology, and what it owes if a chapter ever calls for
