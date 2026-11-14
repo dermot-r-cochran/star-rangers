@@ -654,6 +654,38 @@ under the arpeggio, put *motif twice* in place of *motif once* and say so in the
 take's entry. A take is a sketch, logged under *Entry format*, and not filed
 under `src/audio/` until a trailer uses it.
 
+#### Below the Roof's variation: the first prompt (14 November 2026)
+
+The second variation written as a prompt, after Dermot asked for the next audio
+piece. It is next because the thread already has a filed clip
+(`src/video/fliade.mp4`), the Told's theme proved the instruments come through in
+MyTunes, and it is instrumental. This is idea B of the core theme, kept for this
+thread: the figure is stated in full, then again with notes gone, and the shorter
+statement is the one that lands. It is a title theme, not the Told's loop. It
+draws on that brief's instruments and its small, near hum (*the humming stone*),
+and it adds the five-note figure and a held end.
+
+| Field | |
+|---|---|
+| **Style** | cavern ambient, title theme, warm, low, wet-stone resonance, slow |
+| **Mood** | quiet, enigmatic, mysterious, curious, patient |
+| **Instruments** | low wooden flute, soft mallets on stone, water drips, a small even hum close by |
+| **Production** | the hum small and near, like a device asleep against a chest; five-note figure on the flute, stated once in full, then again shorter with notes gone; one water drip a fraction late after the second statement; damp close reverb, not a cathedral; ends on a held tone |
+| **Exclude** | ukulele, cartoon, toy piano, horror cave drone, bat squeaks, choir, synth pad, sub-drop, trailer riser, braam, big drums, vocals |
+| **Form** | instrumental, ends on a held tone, the best 12 to 20 seconds cut from a longer take |
+
+**For MyTunes**, 195 characters, under its 200-character cut:
+
+`Quiet, enigmatic, mysterious cavern title theme, slow. Low wooden flute, soft mallets on stone, faint hum. Five-note motif told twice, shorter the second time. Water drip a little late. Held end.`
+
+It drops *warm*, *wet-stone*, *close reverb* and the exclusions. Run it with
+Instrumental on, genre none and Live off. If a take comes back with a beat, take
+2 is the same line with genre *Classic*. If it comes back sounding like the
+Told's loop with no figure in it, put *flute motif* in place of *Five-note motif*
+and say so in the take's entry. For his ear only: whether the second statement is
+audibly shorter, and whether the drip lands late. A take is a sketch, logged
+under *Entry format*, and not filed under `src/audio/` until a trailer uses it.
+
 ### The title: three ideas
 
 The lettering is always set by script or composited, never generated, and it is
