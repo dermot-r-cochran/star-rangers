@@ -1487,7 +1487,7 @@ absences.
   2:58–3:02 when a Five-O or Young Star Rangers trailer uses this take. Not in
   `src/audio/`: no trailer uses it yet.
 
-### Below the Roof's variation, take 1 — *Deep Cavern Hum* (verdict pending)
+### Below the Roof's variation, take 1 — *Deep Cavern Hum* (kept, not filed)
 - **Type:** generation
 - **Tool:** MyTunes (MWM), phone app
 - **Date:** 14 November 2026
@@ -1514,7 +1514,10 @@ absences.
   statement shorter, and whether a drip lands late, could not be measured. The
   card shows a mossy boulder in a cave lit by a shaft of daylight from above,
   lettered with the title. It does not travel, and the daylight is wrong for a
-  people who never look up. Not in `src/audio/`: no trailer uses it.
+  people who never look up. Dermot's verdict, 14 November 2026: *"A"*, keep it
+  with the closing title on the held low C, so the title cuts in at about
+  4:50–4:58 when a Below the Roof trailer uses this take. Not in `src/audio/`:
+  no trailer uses it yet.
 
 ### *The Verb That Was Left*, take 1 (kept, not filed)
 - **Type:** generation
