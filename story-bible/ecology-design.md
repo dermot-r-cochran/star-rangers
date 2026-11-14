@@ -1476,6 +1476,12 @@ from the habitat's own language and humour.
 
 ### What a page would need
 
+**Landed 14 November 2026**, at Dermot's *"Write the What Lives Near the
+Axis paragraph"*, as three short paragraphs on
+`src/lore/habitats-and-the-worlds-beneath-them.md`. They keep to the outline
+below, give no name to the fly, and leave the Spire's cleaning, human
+pathogens and the ark question unstated. The outline as first written:
+
 If a chapter set in a hub, a spoke or an ark spine needs a smell, a damp duct
 or a fly, one paragraph on `habitats-and-the-worlds-beneath-them.md` under a
 heading such as *What Lives Near the Axis*: the weightless zone has life, it

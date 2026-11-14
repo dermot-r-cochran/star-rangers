@@ -10416,8 +10416,9 @@ label only: the name still waits for a chapter.
 **No page carries it yet.** If the frame were filed under `src/images/`,
 `validate-content.js` would fail on an unreferenced file. So it is generated
 to `image-out/` and kept as reference. It is filed only when a page needs it.
-The likely page is *Habitats and the Worlds Beneath Them*, if its *What Lives
-Near the Axis* paragraph is ever written. When filed, it is
+The likely page is *Habitats and the Worlds Beneath Them*, whose *What
+Lives Near the Axis* section landed the same day at Dermot's direction; the
+frame would sit there as an inline image under that heading. When filed, it is
 `src/images/lore/hub-fly.jpg` at 1600 px, finish strength 1.
 
 **Why this prompt is Opus's.** What decides the frame is physics: how water,
