@@ -1487,6 +1487,35 @@ absences.
   2:58–3:02 when a Five-O or Young Star Rangers trailer uses this take. Not in
   `src/audio/`: no trailer uses it yet.
 
+### Below the Roof's variation, take 1 — *Deep Cavern Hum* (verdict pending)
+- **Type:** generation
+- **Tool:** MyTunes (MWM), phone app
+- **Date:** 14 November 2026
+- **Used by:** nothing yet; candidate for the Below the Roof trailers (*Below the Roof's variation*)
+- **Prompt:** the 195-character line under *Below the Roof's variation*, verbatim
+- **Settings:** Instrumental on, genre none, Live off, as the entry says. MyTunes gave it the title.
+- **Lyrics:** instrumental
+- **Negative:** none (MyTunes has no exclude box)
+- **Notes:** 5:00, the longest take so far. AAC 48 kHz stereo inside a 640×360
+  mp4 with the MyTunes badge. −14.7 LUFS integrated, true peak −1.1 dBFS, LRA
+  5.5 LU. Measured, not heard: much of the energy sits under 80 Hz (often half or
+  more, peaking near 33 and 58 Hz), so the hum came through far larger than the
+  *small, near* hum the brief asks for, and the title matches. The pulse is weak
+  throughout (autocorrelation 0.1–0.2, against a clear beat in the late note's
+  takes), so the take is close to beatless. Pitches read nearest C minor (E♭, C,
+  B♭, A♭, G strongest), unconfirmed. **At about 3:38–3:55 the low end drops out
+  entirely** and single high notes sound alone, roughly C, A♭, C, E♭, F, G, D, F,
+  with gaps between them. This may be the figure stated bare. It is the
+  quietest passage (−23 to −39 dB) and the likeliest place for the late drip, so
+  it is the passage to listen to first. The low end returns at about 3:56. The
+  close: the bass settles on a low C (33, 65 and 131 Hz) at about 4:50, a G
+  sounds over it from 4:55, and it is gone by 4:58, so the take ends on a held C
+  like the other takes. Whether the figure is stated twice with the second
+  statement shorter, and whether a drip lands late, could not be measured. The
+  card shows a mossy boulder in a cave lit by a shaft of daylight from above,
+  lettered with the title. It does not travel, and the daylight is wrong for a
+  people who never look up. Not in `src/audio/`: no trailer uses it.
+
 ### *The Verb That Was Left*, take 1 (kept, not filed)
 - **Type:** generation
 - **Tool:** MyTunes (MWM), phone app
