@@ -1444,6 +1444,8 @@ from the habitat's own language and humour.
 - **The visible one**: a small fly, the only hub life a resident is likely to
   notice, flying close to surfaces and landing often, because open air near
   the axis carries it off with the turn. It is a nuisance, never a threat.
+  Its image prompt, at Dermot's direction of 14 November 2026, is
+  `images.md` § 52 (*the hub fly*, a working label; the name still waits).
 - **Recyclers**: the films and fungi themselves, and the habitat's own
   filters, which take everything else.
 - **Nothing larger.** No vertebrate breeds in a hub, and no habitat in the

@@ -10401,6 +10401,79 @@ not put to him here.
   - **Written 9 November 2026** (Fable); not generated.
   - **Desktop step:** `node scripts/image-prompts.js --generate --only ruvel-swardkin`; four variations in the first round, two rounds at most, each round changing one or two named things; judge each cropped at full size in the triage order above; file through `import-image.ps1 -MaxEdge 1200`, add `image:` and `image_alt` to `src/characters/ruvel-swardkin.md` from the filed frame, update the *Histories in their own voices* Verdani line in `open-questions.md` from *not generated* to *filed*, and add the Peoples and Bodies extractor's rule row for the portrait under `verdani` in `scripts/extract-peoples.js`, as PR #1420 did for Akkit and Osune. If both rounds fail, record the rounds here and in `image-prompts.md` and leave the page bare.
 
+### 52. Missing lore illustrations — the hub fly, a reference frame owed to no page yet (written 14 November 2026, Opus; generation waits on the desktop)
+
+Written at Dermot's direction, verbatim: *"Write the image prompt for the hub
+fly"*, the day `ecology-design.md` gained *Habitat axes — life near the
+weightless line* (#1845). That section's web names one organism a resident is
+likely to notice: *"a small fly … flying close to surfaces and landing often,
+because open air near the axis carries it off with the turn. It is a
+nuisance, never a threat."* The fly has no name and no page, and that file's
+own rule says a prompt for an organism it does not name waits. Dermot's
+direction overrides that wait for this one prompt. *Hub fly* is a working
+label only: the name still waits for a chapter.
+
+**No page carries it yet.** If the frame were filed under `src/images/`,
+`validate-content.js` would fail on an unreferenced file. So it is generated
+to `image-out/` and kept as reference. It is filed only when a page needs it.
+The likely page is *Habitats and the Worlds Beneath Them*, if its *What Lives
+Near the Axis* paragraph is ever written. When filed, it is
+`src/images/lore/hub-fly.jpg` at 1600 px, finish strength 1.
+
+**Why this prompt is Opus's.** What decides the frame is physics: how water,
+dust and an insect behave with no weight. No person is in it and no mood
+carries it, so it falls under the 16 October rule.
+
+**Generator exemption** (3 September). A fly can be photographed; a
+habitat's weightless hub cannot. The frame earns generation through its
+weightlessness: drops that stand as domes and never run, a free bead of water
+in the air, dust that has not settled. A frame that reads as a pipe under a
+kitchen sink on Earth has lost the reason it was generated, and fails.
+
+**What the design fixes, and the prompt keeps** (`ecology-design.md`, the
+section above):
+- **The place** is the wet plumbing of a hub. The prompt sets it at New
+  London's Spire, where the Thames Canal's water *"crosses the hub weightless
+  and enclosed"*. The fly is on the outside of that crossing pipe, where
+  condensation collects. Antariksha's foundry hub is the alternative, but it
+  is too clean to be the likely home.
+- **The fly** is Earth life, a small ordinary fly (a gnat or small house-fly
+  type), changed by centuries of drift only in ways no camera at this
+  distance would show. The one visible habit is the section's: it lands and
+  holds on, legs splayed and pressed to the surface.
+- **The film** is the base of the web: a thin dull film along the seam where
+  the condensation sits, cream to grey-green, with a few fine fungal threads.
+  It is maintenance dirt, not a growth.
+- **Nothing glows, nothing is large, and nothing is wrong with the fly.** The
+  section's traps (the floating creature, the mutant, the infestation) are
+  the standard negative.
+
+**Readings taken for the frame** (Opus's, each his to overrule; none is
+written to a page):
+- **A maintenance worker's photograph.** It is a close, handheld macro, the
+  kind a hub technician takes to log a film that needs cleaning, with the fly
+  incidental. That keeps the fly a nuisance in a working place, never a
+  specimen or a creature feature. Its register sits near Dermot's own
+  woodland-floor macro work.
+- **No up in the frame.** The pipe crosses at an angle, and the fly holds on
+  to its far side relative to the camera's level. Nothing in the frame
+  says which way is down, because nothing is.
+- **One free drop.** A single small bead of water floats free in the air near
+  the pipe as a near-perfect sphere. That is the one thing a viewer cannot
+  explain on Earth, so it carries the setting by itself.
+
+- **`hub-fly.jpg`** — a small fly holding on to a condensation-beaded water pipe in the weightless hub of New London, beside the thin film it feeds on; a reference frame for the ecology note, filed only when a page needs it.
+  > Close-up documentary photograph taken by a 29th-century maintenance technician with a handheld camera at close focus, 3:2 landscape, inside the non-rotating weightless hub of a large habitat in Earth orbit in the year 2826, where nothing has weight. A smooth pale grey composite water pipe, about the thickness of a forearm, crosses the frame diagonally and meets a plain pale duct wall at a seamless moulded joint, everything clean, kept and plainly made, with no visible fixings. The pipe is cold, and its surface is beaded with condensation: small clear drops sitting on it as round domes that never sag, run or drip, because nothing pulls them, scattered evenly over the top, sides and underside of the pipe alike. Along the seam where the pipe meets the wall, a thin dull film has built up in the wet, cream fading to pale grey-green, matte, slightly uneven, with a few very fine pale fungal threads at its edge, like the film in a long-used shower seal. On the pipe beside the film, sharp at the point of focus, one small ordinary dark grey-brown fly of the gnat or small house-fly kind, about five millimetres long, with clear wings folded flat over its back. It is holding on to the far side of the pipe at an angle to the frame, legs splayed wide and pressed flat to the surface, the way an insect grips where there is no floor. A little way off the pipe, one single small drop of water floats free in the air as an almost perfect sphere, catching a point of light; a few fine specks of dust hang unsettled in the air near it. No floor, no ceiling, nothing to say which way is down. Even, cool, shadowless maintenance light from out of frame, no lamp visible. Muted colours: pale greys, the film's cream and grey-green, the fly's dark brown, clear water. Photographed, not rendered: very shallow depth of field, the fly and the nearest drops pin sharp and the duct wall falling into soft blur, real macro detail in the fly's legs and wing veins, fine high-ISO grain, a touch under-exposed, muted natural colour, the small imperfections a real photograph keeps. Negative: glowing, bioluminescence, luminous film, neon, jellyfish, floating creature, swarm, cloud of flies, many insects, giant insect, alien insect, mutant, monster, extra legs, extra wings, deformed anatomy, horror, infestation, black mould, thick slime, ooze, dripping, running water, falling drops, water streaks, puddle, pooled water, drops hanging downward; rust, corrosion, grime, decay, peeling paint, neglect; hose clamps, screws, bolts, rivets, cable ties, valves, taps, copper pipe, PVC pipe, present-day plumbing, kitchen sink, bathroom, household; window, view of Earth, stars, space outside, spacesuit, person, hands, gloves; screens, holograms, consoles, dials, gauges, tablets, exposed cables, visible lamp, light fitting or bulb; readable text, lettering, numerals, signage, labels, stencilled markings, warning stripes, branding, logos or written characters of any script anywhere in frame. Render negatives: 3D render, CGI, octane render, video-game render, animated film still, science-fiction film set, concept art, matte painting, plastic sheen, airbrushed, over-smooth surfaces, glossy, studio product photograph, insect specimen on white, focus-stacked museum macro. Landscape orientation.
+  - **The test is the water.** Drops that sag, run, hang downward or pool, or a drip anywhere, put the frame on Earth. It fails before anything else is read.
+  - **Then the free drop.** Without the floating sphere the frame is only a fly on a pipe. Re-roll once for it. If a round gets it nowhere, the domed drops and unsettled dust may carry the frame, and the record should say so.
+  - **Then the fly.** One fly, ordinary, the right size, and unremarkable. A beetle, wasp, bee, mosquito, moth, or any glow, extra parts or wrong scale fails it. So does a fly posed like a specimen on a clean ground.
+  - **Then the film.** A thin dull film along a seam passes. Thick slime, black mould, an infestation, or anything that reads as a threat fails, by the tone rule and the section's traps.
+  - **Then the century.** Seamless moulded joints pass. Clamps, bolts, copper or plastic pipe and present-day fittings fail, as the Thorsby round's electrical boxes did.
+  - **Triage:** first the water; then the free drop; then the fly; then the film; then the century; then no person, no window and no text; then the photograph test.
+  - **Proposed alt** (to be corrected to the filed frame): *A small dark fly holding on to a cold pale pipe beaded with domed drops of condensation, beside a thin cream and grey-green film along the pipe's seam, with a single drop of water floating free nearby as a sphere, in the weightless hub of a habitat.*
+  - **Written 14 November 2026** (Opus, under the 16 October rule); not generated.
+  - **Desktop step:** `node scripts/image-prompts.js --generate --only hub-fly`, four variations, two rounds at most, each round changing one or two named things. Judge each at full size in the triage order above. Keep the chosen frame in `image-out/` and record it here. **Do not file it under `src/images/`** until a page carries it, since an unreferenced image fails `validate-content.js`. When a page does, file it through `import-image.ps1 -MaxEdge 1600` at strength 1 as `src/images/lore/hub-fly.jpg`, give that page its `image:` and `image_alt` from the filed frame, and register the result in `image-prompts.md`. If both rounds fail, record them here and leave it at that.
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.
