@@ -2136,7 +2136,7 @@ Dermot, 15 November 2026: *"An image for every chapter, either generated or usin
 
 ## 2026-11-15 — Season 0 chapter illustrations, three fixes by edit (Fable, desktop)
 
-Dermot's notes on the pilot, the same evening: the three officers nose to the hatch, Solano's paper book and pen and the gallery's present-day jackets, and Pitch and Kilbride reading as twins from behind. **Tool:** Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, one take per call, five takes in all; refiled by `import-image.ps1 -MaxEdge 1600` at strength 1. The record is in `images.md` § 53, *Three fixes*.
+Dermot's notes on the pilot, the same evening: the three officers nose to the hatch, Solano's paper book and pen and the gallery's present-day jackets, and Pitch and Kilbride reading as twins from behind. **Tool:** Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, one take per call, six takes in all; refiled by `import-image.ps1 -MaxEdge 1600` at strength 1. The record is in `images.md` § 53, *Three fixes*.
 
 ### chapters/s00e01c02.jpg — refiled 15 November 2026
 - **Kind:** edit of the filed frame
