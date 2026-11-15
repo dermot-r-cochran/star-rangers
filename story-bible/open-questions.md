@@ -166,7 +166,7 @@ Note with no decision in it, for a later read. `src/lore/ascent-javelins.md` say
 
 ## The Fable read of the eight early Season 1 chapters (#1747) — 15 November 2026 — one dilemma OPEN for him, four optional lines offered beside "leave it"; none blocking
 
-Six of the eight stand. S01E02C05 has a proposed clarification and a one-sentence cut (PR_NUM). Full read: the Fable report of 15 November, summarised here.
+Six of the eight stand. S01E02C05 has a proposed clarification and a one-sentence cut (#1872). Full read: the Fable report of 15 November, summarised here.
 
 - **Galahad's earlier visit to the grove (S01E02C02), a dilemma.** *"He had been to the grove once before, seven years ago, on his first posting to a boundary-proximate station."* The grove is 1.3 km from Threshold, so this puts his first boundary posting on this shore in 2819, against S01E01C03's *"Twelve years of boundary postings"* and his page (joined 2814, six stations *"a very long way out"*, transferred to Threshold in 2826). Choices: **A** keep the visit and the seven years and change only the occasion, e.g. *"on a short attachment to this shore between stations"* (recommended: it moves the fewest recorded facts); **B** his first boundary posting was here, and his page and S01E01C03 change; **C** the warning reached him second-hand and he was never at the grove; **D** leave it.
 - **S01E02C02's closing paragraph**, *"Whatever had used those three centuries to get comfortable was still here. The question was what they were going to do about it."* Fable proposed ending the block on *"Someone had known."*; the counter-critic withheld it as a change, since `canon_facts` carries the three centuries. Options: cut it, or leave it (recommended).
