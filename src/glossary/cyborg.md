@@ -6,7 +6,7 @@ irish_gloss: "a cyber-organic one"
 id: cyborg
 category: "Society"
 short: "A living being — human or animal — carrying physical cybernetic modification to the body itself, distinct from a Smart Pet's purely cognitive AI subsystem. Heavily regulated since the Imperium's military cyborg programs; today one of the most tightly controlled categories of augmentation in the Concord."
-plain: "A cyborg is a person or an animal whose own body has been changed with machine parts: a new arm, a built-in sense, a wire that goes into the brain. That is different from a Smart Pet, whose body is not changed at all. Aldera the cat is both at once. She is a Smart Pet, and she is a cyborg too, because of the tiny link she carries that lets her send her reports. Long ago an empire built cyborg soldiers and treated their bodies like equipment, and people have been very careful about it ever since. The rule now is that the answer to changing a body is usually no."
+plain: "A cyborg is a person or an animal whose own body has been changed with machine parts: a new arm, a built-in sense, a wire that goes into the brain. That is different from a Smart Pet, whose body is not changed at all. Long ago an empire built cyborg soldiers and treated their bodies like equipment, and people have been very careful about it ever since. The rule now is that the answer to changing a body is usually no."
 related:
   - "Smart Pet"
   - "The AI Safety Kernel"
@@ -15,8 +15,6 @@ tags: [cyborg, augmentation, regulation, technology, imperium, military-space-co
 ---
 
 **Cyborg** designates a living being, human or animal, carrying physical cybernetic modification to the body itself: replaced or augmented limbs, sensory hardware, or neural interfacing wired directly into biological tissue. It is a distinct category from [Smart Pet](/star-rangers/glossary/smart-pet/), which covers an AI cognitive subsystem running *alongside* an unmodified biological body. An individual can hold either status, both, or neither, and the two are certified and regulated separately.
-
-[Aldera](/star-rangers/characters/aldera/) is both. She is Smart Pet certified and cyber-enhanced, two separate designations layered on the same cat, neither implying the other. Her modification is a communications channel rather than a sense: the uplink and the record that let a cat file a log. It was cleared as the least invasive means to an end the agency could reach no other way, and her page carries the reasoning.
 
 ## History
 
@@ -30,4 +28,4 @@ At the far end of even this regime sits preservation at [cyber-revenant](/star-r
 
 Where a cyber-enhanced animal is posted to an [Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/) member habitat, a standing local welfare authority holds jurisdiction over it; at Eden, that is [the Eden Warden](/star-rangers/characters/eden-warden/)'s Custos persona. The jurisdiction follows specifically from the animal being cyber-enhanced. It does not automatically extend to a Smart Pet who carries no physical modification at all.
 
-See also: [Smart Pet](/star-rangers/glossary/smart-pet/), [The AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/), [The Imperium](/star-rangers/lore/the-imperium/), [Military Space Command](/star-rangers/lore/military-space-command/), [Aldera](/star-rangers/characters/aldera/).
+See also: [Smart Pet](/star-rangers/glossary/smart-pet/), [The AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/), [The Imperium](/star-rangers/lore/the-imperium/), [Military Space Command](/star-rangers/lore/military-space-command/).
