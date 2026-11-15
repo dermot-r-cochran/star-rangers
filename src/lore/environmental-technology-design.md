@@ -13,7 +13,7 @@ Three kinds of place recur across the record, and each carries technology differ
 
 ## Biosphere Planets
 
-On biosphere worlds, the built environment recedes. Technology is present but subordinate to the organic setting around it: smart-weave clothing that reads as ordinary fabric until it needs to be more, cosmetic nanites doing invisible upkeep, the ground systems doing the rest from where they already stand. Nothing announces itself as a machine, and nothing hovers. The overall impression is natural, and the technology is integrated so subtly that a visitor could mistake the world for pre-industrial if they didn't look twice.
+On biosphere worlds, the built environment recedes. Technology is present but subordinate to the organic setting around it: smart-weave clothing that reads as ordinary fabric until it needs to be more, small repair robots doing their upkeep out of sight, the ground systems doing the rest from where they already stand. Nothing announces itself as a machine, and nothing hovers. The overall impression is natural, and the technology is integrated so subtly that a visitor could mistake the world for pre-industrial if they didn't look twice.
 
 ## Remote Stations
 
