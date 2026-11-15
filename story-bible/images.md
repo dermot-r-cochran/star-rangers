@@ -714,7 +714,10 @@ references, text alone last), a picture shows nothing past its own chapter,
 and it is read against the page, since a picture asserts canon. Files are
 `src/images/chapters/<chapter id>.jpg` at 1600 px. A clip is optional and is
 written into `video-prompts.md` first, only where motion carries something
-the still cannot; an entry with no clip says so in a line. Season 0's six
+the still cannot; an entry with no clip says so in a line. A clip has its
+own audio (Dermot, the same day, verbatim: *"Videos where chosen, for
+narrative prose, or codex, will have their own audio."*), so its prompt says
+what is heard. Season 0's six
 chapters are the pilot (section 53); the rest wait on his view of them.
 Episode heroes that exist stay.
 
