@@ -4,6 +4,9 @@ title: "The Notebook Behind the Novel"
 date: "2026-10-17"
 description: "On the fact that this record has quietly kept a lab notebook of its own making: what the notebook consists of, where each part lives, how to cite one state of a work that is never finished, and what the notebook cannot show."
 tags: [process, authorship, method]
+image: "the-notebook-behind-the-novel.jpg"
+image_alt: "Beech leaves along a dark diagonal branch seen from below and lit from behind, turning from green through yellow to russet with their veins clearly drawn, against a bright white sky and a soft blur of more leaves beyond"
+image_caption: "Beech Leaves in Autumn, Dublin, Ireland, 2024"
 ---
 
 Today I added a citation file to this site's repository, so that anyone who cites the work is offered *Fian Ilchruinne* under its own title rather than under the name of the repository that holds it. Writing its one-paragraph abstract raised a question I had not asked before. If someone wanted to study how this record is made, rather than read it, what would they find? The answer turned out to be more than I expected: the project has been keeping a lab notebook all along. Nobody set out to keep one. It accumulated because every decision that mattered had to be written down with its reason, so that it could be overruled later by someone who could see what it was.

@@ -4,6 +4,9 @@ title: "The History That Happens"
 date: "2026-09-28"
 description: "Which interpretation of quantum mechanics the Grand Ensemble already commits to, read off the record's own rules: consistent histories in the single-history reading, the framework quantum cosmology works in, and the one whose known weakness the Cascade answers."
 tags: [craft, physics, cosmology, editorial]
+image: "the-history-that-happens.jpg"
+image_alt: "A row of turkeytail bracket fungi hanging from the underside of a dark fallen log that runs diagonally across the frame, each cap banded in concentric rings of grey, brown and violet and edged with a wavy cream-white margin, above a bed of bright green moss"
+image_caption: "Turkeytail, Dublin, Ireland, 2023"
 ---
 
 *The real-world notes behind* [A Generalisation of Quantum Mechanics](/star-rangers/lore/generalised-quantum-mechanics/). *The Archive names nobody from our century; the names are here, and nothing in lore changes. The first of two entries from one question on 28 September 2026; the second is* [The Third Sum Rule](/star-rangers/journal/the-third-sum-rule/).

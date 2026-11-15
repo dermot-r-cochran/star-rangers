@@ -4,6 +4,9 @@ title: "Creative Rather Than Imperative"
 date: "2026-08-23"
 description: "I spent a week specifying a small coding agent instead of commanding one, and the Cascade's own phrase for creation turned out to be an engineering observation."
 tags: [process, cosmology, craft]
+image: "creative-rather-than-imperative.jpg"
+image_alt: "Rows of concrete shelves on a glass building, each planted with grasses and sedum turning gold and rust, with the stone cornice of an older building entering at the top left"
+image_caption: "The Planted Wall, Dublin, Ireland, 2026"
 ---
 
 This week's work wasn't on this site at all. I've been building a small coding

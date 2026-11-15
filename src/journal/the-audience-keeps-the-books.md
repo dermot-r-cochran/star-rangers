@@ -4,6 +4,9 @@ title: "The Audience Keeps the Books"
 date: "2026-08-07"
 description: "Nobody stops watching a series because it is impossible. They stop when it stops being honest — the way you leave a relationship that has turned into a performance, or into something worse."
 tags: [editorial, craft, canon, method, audience]
+image: "the-audience-keeps-the-books.jpg"
+image_alt: "An empty wooden bench on mown grass beneath a spreading tree half stripped of its leaves, with fallen leaves scattered across the grass around it"
+image_caption: "Bench Under the Turning Tree, Dublin, Ireland, 2025"
 ---
 
 Everyone has one: a series they did not so much stop watching as leave. Never at the dragon, or the faster-than-light drive, or the dead man walking out of the sea — the impossible thing was the premise, accepted in the first episode without a murmur. The leaving comes seasons later, at a moment that is, on paper, far less impossible than anything that came before it. And it has a particular shape: no announcement, no scene. One week you watch it the night it airs; then you notice you haven't; then you find you don't intend to, and hearing the title mentioned produces a small flinch of embarrassment, like a name from an old relationship.

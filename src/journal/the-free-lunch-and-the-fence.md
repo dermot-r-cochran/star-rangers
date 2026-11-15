@@ -4,6 +4,9 @@ title: "The Free Lunch and the Fence"
 date: "2026-09-23"
 description: "The real cosmology under the Noögenic Protouniverse's energy account: Noether's theorem and why energy is conserved only locally, the zero-energy universe, Guth's free lunch, and the Farhi–Guth baby universe, with the one step physics finds hardest and the record takes as its licence."
 tags: [craft, physics, cosmology, editorial]
+image: "the-free-lunch-and-the-fence.jpg"
+image_alt: "A great cormorant standing on a mossy fallen branch in a lake with both wings held fully open, head raised, the brown primaries lit from behind and the water behind it broken into bright out-of-focus sparkle"
+image_caption: "Drying Wings, Wexford, Ireland, 2026"
 ---
 
 *The real-world notes behind the section* [Where the Energy Comes From](/star-rangers/glossary/noogenic-protouniverse/) *on the Noögenic Protouniverse entry. The Archive speaks in its own voice there and names nobody from our century; the names are here.*

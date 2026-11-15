@@ -4,6 +4,9 @@ title: "The Nearest Animal"
 date: "2026-10-26"
 description: "Why every picture of a non-human people here starts out as an Earth animal, and the method that finally kept one body as its design describes it: a plain grey model built from the design and turned into a photograph; and a postscript on what that method did not keep."
 tags: [images, method, worldbuilding, craft]
+image: "the-nearest-animal.jpg"
+image_alt: "Two hippos facing the camera from open water, only their eyes, ears and the tops of their heads above the surface, the nearer one large at the left with water beading on its wet pink-brown face, the further one to the right with its ears raised, and two more submerged backs breaking the water below them"
+image_caption: "Hippo Eyes, Nairobi National Park, Kenya, 2025"
 ---
 
 The peoples in this record who are not human each have a body worked out from their world and written down in plain words. A Cerebraun has no head and no front. It rests low on four short, broad lower limbs and works with four longer upper ones, which end blunt and carry small eyes along their length.

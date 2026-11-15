@@ -4,6 +4,9 @@ title: "Who Thought of It"
 date: "2026-07-26"
 description: "A more precise accounting than 'written with AI' — which parts of Drithane are my ideas, which are the machine's work, and why the honest line isn't drawn where people expect."
 tags: [process, editorial, authorship]
+image: "who-thought-of-it.jpg"
+image_alt: "A Masai giraffe looking directly at the camera over the top of a thicket, its blotched leaf-shaped markings and ossicones clear against a pale evening sky"
+image_caption: "Giraffe Above the Bush Line, Maasai Mara, Kenya, 2025"
 ---
 
 I've already written about [which tools built this site](/star-rangers/journal/two-copies-forty-seconds-apart/). This is the harder question, and the one people actually mean when they ask: how much of *Drithane* did I think of?

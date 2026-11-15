@@ -4,6 +4,9 @@ title: "Softening the Real Cosmos Side"
 date: "2026-07-16"
 description: "The Physics Comparison's real-world column read like it was settling an argument it didn't need to settle. A pass of edits walked that back — and pointed to where the other side of the argument already lives."
 tags: [worldbuilding, cosmology, physics, church-space]
+image: "softening-the-real-cosmos-side.jpg"
+image_alt: "A pale pink rose caught mid-bloom, its inner petals spiralling around a soft glowing centre"
+image_caption: "Blush Rose Unfurling, Dublin, Ireland, 2026"
 ---
 
 I went back through the [Physics Comparison](/star-rangers/lore/physics-comparison/) today and softened the "Real Cosmos" side of every section. Not the physics — the physics is untouched — but the voice it was written in. "Unguided chemistry." "Purely physical." "No metaphysical properties." "Accidental." Each of those is a flat philosophical claim wearing a physics claim's clothes, and the page never asked to be read that way. It's supposed to be the control column against which the fictional cosmos's engineered constants and lawful Etheric coupling stand out. Instead it was quietly doing double duty as an argument for materialism, stated as settled fact rather than as current science's best account.

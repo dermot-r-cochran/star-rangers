@@ -4,6 +4,9 @@ title: "What the Refusals Cost"
 date: "2026-10-14"
 description: "This setting refuses time travel and magic. The reasons are written down elsewhere; this is the other column of the ledger, the kinds of story the refusals took away, and where some of them went instead."
 tags: [worldbuilding, cosmology, editorial]
+image: "what-the-refusals-cost.jpg"
+image_alt: "A family of elephants walking away along a track into open plains at dusk, silhouetted against a pale sky"
+image_caption: "Elephant Family at Dusk, Maasai Mara, Kenya, 2025"
 ---
 
 A refusal is usually written up as a virtue. [What the Record Refuses](/star-rangers/lore/what-the-record-refuses/) lists every shortcut this setting declines and the physics it keeps instead, and [Special Pleading](/star-rangers/journal/special-pleading/) says why I hold the line on magic and petitionary prayer: an exception made on request is the one thing the whole system is built to refuse. Both pages are about what the rules are for. Neither asks what they cost. That is the other column of the ledger, and a writer who never fills it in has not really chosen anything, only preferred something.

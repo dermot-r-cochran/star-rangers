@@ -4,6 +4,9 @@ title: "Where the Compression Was Trained"
 date: "2026-09-06"
 description: "When intuition should not be trusted, when the cost of a mathematical analysis is too high to pay, and whether machine learning is intuition by another name — three questions with one answer underneath."
 tags: [craft, method, editorial]
+image: "where-the-compression-was-trained.jpg"
+image_alt: "A lioness walking left to right through dry grass and thorn scrub, her head carried low and forward and her gaze fixed ahead, the whiskers and the dark rim of the eye catching the light, her shoulder and foreleg following behind her"
+image_caption: "Prowling, Nairobi National Park, Kenya, 2025"
 ---
 
 *The second of four entries from one conversation on 6 September 2026, following [The Picture the Maths Was Invented to Replace](/star-rangers/journal/the-picture-the-maths-was-invented-to-replace/). The next is [Agreement Counts Once](/star-rangers/journal/agreement-counts-once/), and the last is [The Parable and the Counterexample](/star-rangers/journal/the-parable-and-the-counterexample/). A fifth, [The Children's Talk](/star-rangers/journal/the-childrens-talk/), followed later the same day.*

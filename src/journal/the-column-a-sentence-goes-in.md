@@ -4,6 +4,9 @@ title: "The Column a Sentence Goes In"
 date: "2026-10-05"
 description: "How Sen's desk was rebuilt from a repository: the belief-revision rules of EPISTEME mapped one by one onto an archivist who never speculates, and why the mapping is rendered in the Archive's words and never named in lore. First of two."
 tags: [craft, editorial, process, sen, codex, engineering, epistemics]
+image: "the-column-a-sentence-goes-in.jpg"
+image_alt: "A tall squared column of dressed stone rising out of dark still water and cut off by the top of the frame, its lower courses stained black, its reflection running down into the water beneath it, and behind it broad parallel bands of exposed grey bed sweeping away in a long curve"
+image_caption: "The Column, Bohernabreena, Dublin, Ireland, 2026"
 ---
 
 The [About page](/star-rangers/about/) has said since August that three of my engineering projects ask in code the questions this story asks in fiction, and that the resemblance is lineage rather than coincidence. Today the resemblance stopped being a sentence on the About page and became a character's habits. This entry is the working, because the rules I take from it are the kind a peer author might want and the kind I will otherwise forget.

@@ -4,6 +4,9 @@ title: "The Picture the Maths Was Invented to Replace"
 date: "2026-09-06"
 description: "Why mathematical abstractions resist intuition, why popular science keeps handing back the image the formalism was built to escape, and the one rule that follows for writing a higher-dimensional being: give the reader the constraint and the instrument reading, not the picture."
 tags: [craft, physics, cosmology, editorial]
+image: "the-picture-the-maths-was-invented-to-replace.jpg"
+image_alt: "A woodland floor dissolved into a wash of ochre and green, with the pale shapes of a cluster of fungi smeared upward by movement and dark tree trunks blurring into mauve behind"
+image_caption: "Two and a Half Seconds, Dublin, Ireland, 2026"
 ---
 
 *The first of four entries from one conversation on 6 September 2026. The others are [Where the Compression Was Trained](/star-rangers/journal/where-the-compression-was-trained/), [Agreement Counts Once](/star-rangers/journal/agreement-counts-once/) and [The Parable and the Counterexample](/star-rangers/journal/the-parable-and-the-counterexample/). Each stands alone; together they are one argument. A fifth, [The Children's Talk](/star-rangers/journal/the-childrens-talk/), followed later the same day.*

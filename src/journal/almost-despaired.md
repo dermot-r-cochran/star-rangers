@@ -4,6 +4,9 @@ title: "Almost Despaired"
 date: "2026-08-03"
 description: "Three days ago I wrote about losing this book's name. This is the entry about finding the other one — and about the word 'almost', which is doing more work in that title than it looks."
 tags: [editorial, naming, fian-ilchruinne, process, irish, research]
+image: "almost-despaired.jpg"
+image_alt: "The crown of a tree fern seen from below, sunlight glowing through the radiating green fronds against a dark woodland background"
+image_caption: "Backlit Tree Fern, Wicklow, Ireland, 2026"
 ---
 
 Three days ago I wrote about losing this book's name. This is the entry about finding the other one.

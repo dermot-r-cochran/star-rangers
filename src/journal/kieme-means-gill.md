@@ -4,6 +4,9 @@ title: "Kieme Means Gill"
 date: "2026-08-16"
 description: "The second tier of my cosmology is the ordinary German word for a fish organ. I knew that and kept it. What I had got wrong was which kind of problem it was."
 tags: [editorial, naming, cosmology, kieme, translation, process]
+image: "kieme-means-gill.jpg"
+image_alt: "An African fish eagle lifting away from the surface of the lake with a fish gripped in its talons, wings fully spread, water streaming from its feet and a burst of frozen droplets arcing back across the calm green water behind it"
+image_caption: "Fish Eagle with a Catch, Lake Naivasha, Kenya, 2025"
 ---
 
 *Kieme* is the ordinary German noun for a gill. The fish organ. It is not obscure, not archaic, and not the sort of thing you need a dictionary to reach — it is a word German children learn in a biology lesson.

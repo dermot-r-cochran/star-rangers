@@ -4,6 +4,9 @@ title: "Questions a Researcher Might Ask"
 date: "2026-10-17"
 description: "A companion to The Notebook Behind the Novel: the questions someone studying how this record is made is likely to bring, each answered briefly and pointed at the part of the record that holds the evidence."
 tags: [process, authorship, method]
+image: "questions-a-researcher-might-ask.jpg"
+image_alt: "Looking south from a gorse-covered hilltop over a long curved shingle beach and calm grey-blue sea, with the town of Bray and Bray Head at the far end of the bay and the pointed Sugar Loaf mountain on the skyline under broken cloud"
+image_caption: "Killiney Bay to the Sugar Loaf, Dublin, Ireland, 2026"
 ---
 
 [The Notebook Behind the Novel](/star-rangers/journal/the-notebook-behind-the-novel/) maps the record this project keeps of its own making. A map is not much use without the questions people bring to it. I do not intend to publish every working session, which would be impractical and mostly noise. What follows instead is my best guess at what someone studying the work would want to know, with short answers and a pointer to where each answer can be checked.

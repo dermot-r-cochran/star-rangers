@@ -10518,6 +10518,67 @@ written to a page):
   - **Round 2, 15 November 2026**, two things changed: the underside drops are now "the same low, flat-bottomed domes as those on the top, none of them bulging, swelling, hanging or pear-shaped", and the free drop is "beside it and level with the fly, above the line of the pipe as the frame is held and never below it"; the negatives gained *pendant drops, drops bulging from the underside, a drop below the pipe, a drip falling*. 1, 3 and 4 still put the free drop below the pipe (3 with pendant drops, 4 with the thick collar again). **Variation 2 passed and is filed**: the free drop floats above the pipe among unsettled dust, which carries the setting; the fly is one ordinary house-fly, legs splayed, sharp; the joint is moulded with no fittings; no person, window or text. It was cropped from 16:9 to the 3:2 the prompt asked for, taking 448 px off the left, which also removed the one pendant drop on the pipe's far edge. **Flaws passed, named:** the film along the wall seam is heavier and more fibrous than "thin" (it reads as old maintenance dirt, not a threat), and the fly holds on to the near face of the pipe, not the underside.
   - **Filed** 15 November 2026 through `import-image.ps1 -MaxEdge 1600` at strength 1 as `src/images/lore/hub-fly.jpg` (1600 × 1067), inline under *What Lives Near the Axis* on *Habitats and the Worlds Beneath Them*, alt from the filed frame: *A small dark fly holding on to a pale grey pipe beaded with domed drops of condensation, beside a cream and grey-green film along the seam where the pipe meets the wall, with one drop of water floating free above the pipe as a sphere among unsettled specks of dust, in the weightless hub of a habitat.* Registered in `image-prompts.md`. Closes #1847.
 
+### 54. Journal photographs — one of Dermot's own frames on every essay (chosen and filed 15 November 2026, Opus)
+
+**Why.** Dermot, 15 November 2026: *"My concern is the overall readability of the site; every page would benefit from an image or video"*, *"I am trying to support visual readers since I cannot make videos for the entire site"*, and *"You may begin searching for suitable photographs of mine"*. The Journal is his own out-of-character voice about how the work is made, so each entry takes one of his own photographs, as taken or cropped, and nothing generated. Under the Conventions above a photograph of his is never finished (`-Finish 0`) and needs no `image-prompts.md` entry, since no prompt touched it; this section is its record.
+
+**How they were chosen.** From the published frames in `own-photography.json` (rebuilt the same day from the portfolio, 237 frames), never a page the portfolio has unlisted, each picked for subject, light or mood that carries the essay's point rather than illustrating it literally (his withholding voice, and *distinctive beats conventional*). No recognisable person and no lettering in frame; no frame used twice; no run of one subject or one outing across neighbouring dates. Each file is the portfolio's 1600 px site image, re-saved through `import-image.ps1 -MaxEdge 1600 -Finish 0` to `src/images/journal/<entry>.jpg`. The alt is the portfolio's alt, which describes the frame; the caption names the photograph, the real place and the year, since the Journal speaks in our century. Two were cropped: *Table for One* loses its top 450 px, where a passer-by stood blurred behind the café table, and *Copenhagen Opera House* is cut to a 1600 × 560 band of roof and glass, which drops the people on the quay steps and the lettering over the doors.
+
+**Not given a photograph:** *The Long White Trail* and *The Up-People's First Stone*, which already carry their films; a still above a film would compete with it.
+
+| Entry | File | Photograph | Why this one |
+|---|---|---|---|
+| A Canon I Can't Verify in Another Language | `journal/a-canon-i-cannot-verify.jpg` | *Across the Sound*, Dublin, 2026 | a far shore in plain view that the essay declines to claim it can reach |
+| A Chapter Against Its Own Explanation | `journal/a-chapter-against-its-own-explanation.jpg` | *The Calf*, Nairobi National Park, 2025 | comfort beside the subject, never standing in for it |
+| A Name You Have to Argue With | `journal/a-name-you-have-to-argue-with.jpg` | *Cross Bills*, Nairobi National Park, 2025 | two at cross purposes, as the two renames were |
+| A Photo, a Homophone, and How Membrane Shadows Got Their Name | `journal/a-photo-a-homophone-and-membrane-shadows.jpg` | *The Pinnacle*, Wexford, 2026 | a dark sea stack against glare, the shape the reader's photograph began from |
+| A Story With No First Page | `journal/a-story-with-no-first-page.jpg` | *The Path*, Amboseli, 2025 | a trodden way with no visible start or end |
+| Agreement Counts Once | `journal/agreement-counts-once.jpg` | *Almost Symmetry*, Amboseli, 2025 | bird and reflection agreeing, and the agreement telling you least |
+| Almost Despaired | `journal/almost-despaired.jpg` | *Backlit Tree Fern*, Wicklow, 2026 | light found through the dark of a wood |
+| Borrowing Upward as Translation | `journal/borrowing-upward-as-translation.jpg` | *Giant Tree*, Dublin, 2026 | the view taken upward |
+| Creative Rather Than Imperative | `journal/creative-rather-than-imperative.jpg` | *The Planted Wall*, Dublin, 2026 | a structure that sets the terms and lets the growing happen |
+| Different Questions at Different Levels | `journal/different-questions-at-different-levels.jpg` | *Teide over the Pines*, Tenerife, 2026 | strata of one landscape, each true at its own height |
+| Every Law Known, One Question Open | `journal/every-law-known.jpg` | *The Troop*, Dublin, 2026 | a packed lattice, every cell alike |
+| Everyone Holds a Piece | `journal/everyone-holds-a-piece.jpg` | *Gulls on the Rocks*, Dublin, 2026 | four birds, each looking its own way |
+| Fiction Is a Column | `journal/fiction-is-a-column.jpg` | *High-Water Marks*, Bohernabreena, 2026 | the second column beside the first essay's |
+| Gentle on People, Hard on the Universe | `journal/gentle-on-people-hard-on-the-universe.jpg` | *Gannet and Chick*, Wexford, 2026 | care on a bare ledge above a hard sea |
+| Kieme Means Gill | `journal/kieme-means-gill.jpg` | *Fish Eagle with a Catch*, Lake Naivasha, 2025 | the fish the word means, carried off |
+| No One Is Minor | `journal/no-one-is-minor.jpg` | *Godwits Roosting*, Wexford, 2026 | a flock in which no bird is singled out |
+| Nothing Was Broken | `journal/nothing-was-broken.jpg` | *Brackets at the Root*, Wicklow, 2026 | decay at the root of a tree that looks well |
+| Questions a Researcher Might Ask | `journal/questions-a-researcher-might-ask.jpg` | *Killiney Bay to the Sugar Loaf*, Dublin, 2026 | the whole ground laid out, landmarks to point at |
+| Science With More Than One Example | `journal/science-with-more-than-one-example.jpg` | *Mixed Company*, Maasai Mara, 2025 | several kinds in one field |
+| Softening the Real Cosmos Side | `journal/softening-the-real-cosmos-side.jpg` | *Blush Rose Unfurling*, Dublin, 2026 | a softening that changes nothing structural |
+| Sorting Doctrine Out of Lore, and a Paragraph That Knew Too Much | `journal/sorting-doctrine-out-of-lore.jpg` | *Hooded Crow, Watching*, Dublin, 2026 | a watcher looking ahead of the rest |
+| Special Pleading | `journal/special-pleading.jpg` | *Blackbird Singing*, Dublin, 2026 | song asked of nothing |
+| The Audience Keeps the Books | `journal/the-audience-keeps-the-books.jpg` | *Bench Under the Turning Tree*, Dublin, 2025 | the seat someone stopped coming back to |
+| The Audit I Said Was Coming | `journal/the-audit-i-said-was-coming.jpg` | *Low Water in Glenasmole*, Bohernabreena, 2026 | what shows when the level is drawn down |
+| The Borrowed Ledger | `journal/the-borrowed-ledger.jpg` | *Tenants*, Amboseli, 2025 | living in a house someone else built |
+| The Cable Never Comes | `journal/the-cable-never-comes.jpg` | *One Sail*, Dublin, 2026 | one hull alone, no shore in sight |
+| The Children's Talk | `journal/the-childrens-talk.jpg` | *Great Black-backed Gull Chicks*, Dublin, 2026 | the young, without a person pictured |
+| The Column a Sentence Goes In | `journal/the-column-a-sentence-goes-in.jpg` | *The Column*, Bohernabreena, 2026 | the column itself, in a record of its levels |
+| The External Codex | `journal/the-external-codex.jpg` | *Copenhagen Opera House*, Copenhagen, 2026 | the city where the thesis was written, unnamed in the frame |
+| The First Word Was Silent | `journal/the-first-word-was-silent.jpg` | *Sunrise Behind an Acacia*, Amboseli, 2025 | first light, no sound |
+| The Free Lunch and the Fence | `journal/the-free-lunch-and-the-fence.jpg` | *Drying Wings*, Wexford, 2026 | energy taken from the light at no cost to anyone |
+| The History That Happens | `journal/the-history-that-happens.jpg` | *Turkeytail*, Dublin, 2023 | growth rings: one history, laid down |
+| The Third Sum Rule | `journal/the-third-sum-rule.jpg` | *Wild Angelica*, Bohernabreena, 2026 | a geometry radiating from one point |
+| The Name Was Never Mine | `journal/the-name-was-never-mine.jpg` | *Table for One*, Malmö, 2026 | sitting at someone else's table (cropped) |
+| The Nearest Animal | `journal/the-nearest-animal.jpg` | *Hippo Eyes*, Nairobi National Park, 2025 | an animal only partly shown, the eye filling in the rest |
+| The Notebook Behind the Novel | `journal/the-notebook-behind-the-novel.jpg` | *Beech Leaves in Autumn*, Dublin, 2024 | every vein drawn, every stage kept |
+| The Parable and the Counterexample | `journal/the-parable-and-the-counterexample.jpg` | *A Single Mushroom*, Dublin, 2024 | one specimen and one strand of silk across it |
+| The Picture the Maths Was Invented to Replace | `journal/the-picture-the-maths-was-invented-to-replace.jpg` | *Two and a Half Seconds*, Dublin, 2026 | the picture that smears what it shows |
+| The Same Discipline at a Different Desk | `journal/the-same-discipline-at-a-different-desk.jpg` | *Groynes at Skagen*, Skagen, 2026 | engineering holding a shape that nature keeps |
+| The Third Debt Is Mine | `journal/the-third-debt-is-mine.jpg` | *Shags in the Surf*, Wexford, 2026 | three settled, one still in the water |
+| The Word the Record Does Not Use | `journal/the-word-the-record-does-not-use.jpg` | *The Portico at Farmleigh*, Dublin, 2025 | a door shown and not entered |
+| The Working-Out of Justice | `journal/the-working-out-of-justice.jpg` | *Grey Heron on the Reef*, Dublin, 2026 | patience where the outcome will come |
+| The Wrong Century | `journal/the-wrong-century.jpg` | *Rock Hyrax in the Machinery Shed*, Nairobi, 2025 | an animal at home among machinery from another age |
+| The Zone and the Axiom | `journal/the-zone-and-the-axiom.jpg` | *The Turquoise Cove*, Wexford, 2026 | zones of colour, each with its own rule |
+| Two Copies, Forty Seconds Apart | `journal/two-copies-forty-seconds-apart.jpg` | *Grazing at a Tranquil Lake*, Amboseli, 2025 | two in matching poses, not quite the same |
+| What the Refusals Cost | `journal/what-the-refusals-cost.jpg` | *Elephant Family at Dusk*, Maasai Mara, 2025 | what walks away |
+| What Would Count Against It | `journal/what-would-count-against-it.jpg` | *Serval in the Long Grass*, Maasai Mara, 2025 | ears raised for the evidence |
+| Where the Compression Was Trained | `journal/where-the-compression-was-trained.jpg` | *Prowling*, Nairobi National Park, 2025 | trained instinct, the gaze fixed |
+| Where the Record Lives | `journal/where-the-record-lives.jpg` | *Silk Fall*, Wicklow, 2026 | a plain photograph, which is the essay's point |
+| Who Thought of It | `journal/who-thought-of-it.jpg` | *Giraffe Above the Bush Line*, Maasai Mara, 2025 | the head above the thicket, looking back |
+
 ### Intake 2026-10-10 — photorealism triage of the character portraits, and the cards that could become pictures
 
 Dermot, 10 October 2026, verbatim: *"please triage any generate images under star-rangers characters that don't look photorealistic enough"*, with six portraits pasted as examples (Teddy twice, Stone-First, Toval, Lucene-9000, Muffin, Jeeves); then *"review all placeholder cards that could be replaced with photorealistic images or concept art"*; then the standing preference, *"photorealistic images preferred unless the subject is too abstract or immaterial to visualize"*; and, on the Pandoids, *"Pandoids do actually look a bit like pandas to the human eye"*.

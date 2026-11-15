@@ -4,6 +4,9 @@ title: "Two Copies, Forty Seconds Apart"
 date: "2026-07-18"
 description: "A note on the tools that have built this site over time — GitHub Copilot and M365 Copilot early on, Sudowrite for some of the Codex, and Claude Code once the repository became the one copy that counts. The reason for the last part is a problem the story itself is about."
 tags: [process, tooling, editorial]
+image: "two-copies-forty-seconds-apart.jpg"
+image_alt: "Two Thomson's gazelles grazing with their heads down in matching poses on the near shore of a still lake, tall reeds behind them, pale reflections on the water, two dark animals on a straw-coloured far bank, and a line of palms beyond"
+image_caption: "Grazing at a Tranquil Lake, Amboseli, Kenya, 2025"
 ---
 
 Drithane has been written with more than one assistant, and it is worth being honest about which did what, because the history of the tooling turns out to rhyme with the premise of the story.

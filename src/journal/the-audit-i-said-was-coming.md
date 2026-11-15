@@ -4,6 +4,9 @@ title: "The Audit I Said Was Coming"
 date: "2026-08-12"
 description: "Two days ago I wrote that half this site's illustrations were photographs of real strangers, and left the fixing for later. Later arrived. Twenty-eight images are gone, nine of them turned out not to want pictures at all, and the most instructive thing was how often the wrong image was rejected for the wrong reason."
 tags: [editorial, craft, process, images, authorship]
+image: "the-audit-i-said-was-coming.jpg"
+image_alt: "A reservoir drawn far below its normal level in a mountain valley, a broad spit of raked grey mud sweeping in from the lower left to a point at the water's edge, pale still water beyond it, and the heather-mottled slopes of the Dublin Mountains rising behind a fringe of dark conifers"
+image_caption: "Low Water in Glenasmole, Bohernabreena, Dublin, Ireland, 2026"
 ---
 
 Two days ago I published an essay admitting that roughly half the illustrated pages on this site were contemporary stock photography, that around twenty of them were photographs of real people standing in for characters, and that I had not fixed it. I filed the number, described the worst example, and stopped. That is a respectable thing to do once. It is not respectable twice.

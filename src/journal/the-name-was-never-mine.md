@@ -4,6 +4,9 @@ title: "The Name Was Never Mine"
 date: "2026-08-01"
 description: "I found out this site had the wrong title because a stale cache disagreed with a live page and I bothered to open the older one — which is, more or less, the plot."
 tags: [editorial, naming, retitle, drithane, process, research]
+image: "the-name-was-never-mine.jpg"
+image_alt: "A feral pigeon standing on a black serving tray on a round wooden table outside a café, seen from above with its head raised in profile, tropical-print cushions on pallet benches to the left and cobblestones below"
+image_caption: "Table for One, Malmö, Sweden, 2026"
 ---
 
 I found out that this site had the wrong name because two copies of a page disagreed with each other and I opened the older one.

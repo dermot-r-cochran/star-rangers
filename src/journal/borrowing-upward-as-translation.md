@@ -4,6 +4,9 @@ title: "Borrowing Upward as Translation"
 date: "2026-09-12"
 description: "Why a screen adaptation can never become canon, why the author may still borrow from one, and how the cosmology's own vocabulary — conservation, translation, the Unfounded — turns that pair of rules into a single test for what may be carried up."
 tags: [craft, canon, cosmology, editorial]
+image: "borrowing-upward-as-translation.jpg"
+image_alt: "Looking straight up the deeply fissured trunk of a very large conifer to the whorl of branches at its crown, with blue sky and the lighter canopies of surrounding trees beyond"
+image_caption: "Giant Tree, Dublin, Ireland, 2026"
 ---
 
 *This entry follows a day's decisions about derivative work — what a good reader comment could become, and where a television or streaming adaptation would sit — and records the principle that Dermot drew from them: that borrowing from a derivative work into the story is, in principle, the same shape as a translation the cosmology already describes. It is written for the peer author and the student of the writing, and it makes no claim about the story's mechanism.*

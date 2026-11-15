@@ -4,6 +4,9 @@ title: "A Name You Have to Argue With"
 date: "2026-07-29"
 description: "Two renames in one sitting — Dynarch to Mediarch, and Starwarden First Officer to Archwarden — and the tell they had in common: both entries carried a paragraph explaining what the name didn't mean."
 tags: [worldbuilding, editorial, naming, terminology, cosmology, ranks]
+image: "a-name-you-have-to-argue-with.jpg"
+image_alt: "Two marabou storks standing close together on grass, one behind the other, their heavy pale bills crossing as the rear bird looks right and the front one faces the camera, bare grey heads and pink-flushed necks above black wings and white breasts"
+image_caption: "Cross Bills, Nairobi National Park, Kenya, 2025"
 ---
 
 I renamed two things this week that had nothing to do with each other. One is a tier of the Cosmic Cascade several strata above anything with a body. The other is a rung on the Star Rangers' rank ladder. They came from opposite ends of the setting, I made the calls a day apart, and they turned out to be the same mistake twice.

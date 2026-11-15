@@ -4,6 +4,9 @@ title: "Nothing Was Broken"
 date: "2026-08-01"
 description: "The site was working. Every check anyone had ever run on it returned 200. Then I claimed a Search Console property I did not think I needed, and found four years of somebody else's damage sitting under my own pages."
 tags: [editorial, process, infrastructure, search, hosting, method]
+image: "nothing-was-broken.jpg"
+image_alt: "A large cluster of pale cream bracket fungi with brown-marked tops growing from a mossy tree root at ground level, a gravel path and fallen leaves to the right"
+image_caption: "Brackets at the Root, Wicklow, Ireland, 2026"
 ---
 
 The day after retitling the site I registered it with Google Search Console, which I had been meaning to do for about two years and had never done, because the site was working.

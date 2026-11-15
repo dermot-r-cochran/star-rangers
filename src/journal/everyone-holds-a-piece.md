@@ -4,6 +4,9 @@ title: "Everyone Holds a Piece"
 date: "2026-10-07"
 description: "On keeping a question open by giving every character one piece of evidence and nobody a theory — the shape of Elvira's open question in Season 1, and the discipline about checkable claims that keeps it an enigma rather than a withheld answer."
 tags: [craft, epistemics, editorial]
+image: "everyone-holds-a-piece.jpg"
+image_alt: "Four gulls, one calling with its beak open, perched on lichen-covered rocks on Ireland's Eye with the sea behind them"
+image_caption: "Gulls on the Rocks, Dublin, Ireland, 2026"
 ---
 
 A reader asked me tonight, in effect, what Elvira is. I went back through Season 1 to answer, and found that I could not, and that the reason I could not is the most deliberate thing in those chapters. So this is a note on the shape of that, because it is a shape I want to be able to use again on purpose rather than arrive at by accident.

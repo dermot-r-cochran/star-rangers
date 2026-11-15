@@ -4,6 +4,9 @@ title: "Where the Record Lives"
 date: "2026-08-10"
 description: "This entry set out to explain a tidy line: my photography site bans generated images absolutely, and this site is full of them. Then the files were actually opened, and half the illustrations turned out to be photographs of real strangers. The line survived the audit. The audit is what proves it."
 tags: [editorial, craft, process, images, authorship]
+image: "where-the-record-lives.jpg"
+image_alt: "Water pours in smooth white strands over dark wet rock and a mossy boulder, with a young fir at the foot and an orange-leaved birch at the right edge"
+image_caption: "Silk Fall, Wicklow, Ireland, 2026"
 ---
 
 About half of the illustrations on this site turned out to be photographs of real strangers.

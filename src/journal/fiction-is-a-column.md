@@ -4,6 +4,9 @@ title: "Fiction Is a Column"
 date: "2026-10-05"
 description: "The second half of The Column a Sentence Goes In: the other repositories that keep Sen's discipline in their own uniforms, what a methodology that strict says about fiction, and why Ariel Pinya may speculate on the same shelf where Sen may not."
 tags: [craft, editorial, process, sen, ariel-pinya, codex, engineering, epistemics]
+image: "fiction-is-a-column.jpg"
+image_alt: "A long dam wall sweeping across the frame with a slender stone pier at the left and a taller stone tower at the right, and beneath them broad horizontal bands of exposed bed curving away into the distance above dark, still water"
+image_caption: "High-Water Marks, Bohernabreena, Dublin, Ireland, 2026"
 ---
 
 This continues [The Column a Sentence Goes In](/star-rangers/journal/the-column-a-sentence-goes-in/), which mapped the belief-revision rules of EPISTEME onto [Sen](/star-rangers/characters/sen/)'s desk one by one. That entry ended on why none of the repositories is named in lore. This one is about the repositories that are not EPISTEME, and about the one column of the four that is not Sen's.

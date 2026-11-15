@@ -4,6 +4,9 @@ title: "Different Questions at Different Levels"
 date: "2026-09-14"
 description: "Divine agency and human agency are not two answers competing for one event. They are answers to different questions, asked at different levels of the Cascade, and the record was built so that neither has to be false for the other to be true."
 tags: [craft, cosmology, editorial]
+image: "different-questions-at-different-levels.jpg"
+image_alt: "Snow-capped Mount Teide rising above volcanic ridges and pine forest under a clear blue sky"
+image_caption: "Teide over the Pines, Tenerife, Spain, 2026"
 ---
 
 *This entry follows the filing of a short devotional fragment, [Two Sayings, Kept Together](/star-rangers/codex/two-sayings-kept-together/), and records the principle Dermot stated while it was being filed: that divine agency and human agency are different questions at different levels, with no inherent contradiction between them. It is written for the peer author and the student of the writing. "Divine" is the codex's word here, not the Archive's; the lore says "the upper strata" and names the stratum. The entry borrows the devotional picture to describe a rule of the craft, and rules on nothing.*

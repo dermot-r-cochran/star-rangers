@@ -4,6 +4,9 @@ title: "The Third Sum Rule"
 date: "2026-09-28"
 description: "Counterpane's other quantum kernel placed in the real programme that generalises quantum theory, from Hartle's phrase through Sorkin's sum rules to the axiom reconstructions, and the M-theory geometry the Ensemble borrows as shape and never as claim."
 tags: [craft, physics, cosmology, editorial]
+image: "the-third-sum-rule.jpg"
+image_alt: "A domed umbel of tiny white flowers flushed with pink, carried on pale green spokes radiating from a single point, sharp against a deep green background thrown completely out of focus"
+image_caption: "Wild Angelica, Bohernabreena, Dublin, Ireland, 2026"
 ---
 
 *The real-world notes behind* [Counterpane](/star-rangers/lore/counterpane-archecluster/). *The Archive names nobody from our century; the names are here, and nothing in lore changes. The second of two entries from one question on 28 September 2026; the first,* [The History That Happens](/star-rangers/journal/the-history-that-happens/), *reads the record's rules and finds they select consistent histories.*

@@ -4,6 +4,9 @@ title: "The Word the Record Does Not Use"
 date: "2026-10-09"
 description: "On keeping the word religion out of the Archive's own voice, leaving the Fellowship of Light without a comparison page, and letting one general's line about democracy stand as the only named politics in the record — three refusals that are one discipline."
 tags: [craft, editorial, register]
+image: "the-word-the-record-does-not-use.jpg"
+image_alt: "The columned front porch of a grey Georgian mansion, its stone columns and balustrade half-covered in climbing ivy turning yellow, evergreen shrubs at their feet and a cobbled forecourt in the foreground under a clear November sky"
+image_caption: "The Portico at Farmleigh, Dublin, Ireland, 2025"
 ---
 
 A reader working through the Lore today would find two comparison pages and not a third. There is a page that sets the record's physics beside the physics of our own century, with the places they part named and bounded. There is a page that sets the record's civilisations beside the ones history has tried. There is no page setting the Fellowship of Light beside any faith a reader might belong to, and today I wrote down why, because the absence had been a decision for some time without being a recorded one.

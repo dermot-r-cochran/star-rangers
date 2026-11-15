@@ -4,6 +4,9 @@ title: "What Would Count Against It"
 date: "2026-10-24"
 description: "Which real discoveries could confirm or falsify any part of this record's cosmology, sorted by layer: what our experiments already test, what they could reach only in principle, and what the record files as beyond any instrument. Why no measurement could confirm a Worldwright, and the one place the setting is really exposed."
 tags: [craft, physics, cosmology, editorial]
+image: "what-would-count-against-it.jpg"
+image_alt: "A serval standing in long grass, its large ears raised and head turned toward the camera"
+image_caption: "Serval in the Long Grass, Maasai Mara, Kenya, 2025"
 ---
 
 *The real-world notes behind a question a hard science fiction setting should be able to answer about itself: if the cosmology were real, what would show it, and what would count against it? The names here are from our century, and the Archive's own pages name none of them.*

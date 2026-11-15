@@ -4,6 +4,9 @@ title: "The First Word Was Silent"
 date: "2026-09-18"
 description: "An evening that began with a question I had already decided not to answer, and ended with the top of my cosmology turned the right way up. What moved was not the Cascade. It was which of its tiers the tradition had been calling by which name."
 tags: [editorial, cosmology, kieme, conseleme, hyperomnium, arilon, church-space, theology, naming, process]
+image: "the-first-word-was-silent.jpg"
+image_alt: "A flat-topped acacia in full silhouette against a deep orange dawn sky, the sun a clean white-gold disc just clear of the horizon to its right, with a hazy line of distant trees below and the foreground falling away into darkness"
+image_caption: "Sunrise Behind an Acacia, Amboseli, Kenya, 2025"
 ---
 
 I started the evening with a question I had already decided not to answer, and I want to say plainly that the decision held. Whether the general resurrection ever happens in this world is not something the record will place. There is no instrument for it, no last day in a cosmology built for running down, and the Fellowship's contemplatives read the doctrine as a metaphor for something larger than the literal event, which is not a smaller claim. It stays a partial mystery. I wrote that down first so that nothing below could be mistaken for a change of mind.

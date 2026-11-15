@@ -4,6 +4,9 @@ title: "A Photo, a Homophone, and How Membrane Shadows Got Their Name"
 date: "2026-07-14"
 description: "A reader's sunset photo turned into new boundary-zone lore, and then had to be renamed almost immediately for a reason that had nothing to do with the physics."
 tags: [worldbuilding, cosmology, naming]
+image: "a-photo-a-homophone-and-membrane-shadows.jpg"
+image_alt: "A dark rock pinnacle streaked white rising from a glittering backlit sea, with a cormorant standing at its apex, another holding its wings half open on a ledge below, one more on a ledge at the left and another on a rock at the bottom right"
+image_caption: "The Pinnacle, Wexford, Ireland, 2026"
 ---
 
 A reader sent me a photo a while back: a sea stack in near-total silhouette, a low sun flaring around one edge of it, the shape reading — if you squinted, if you wanted it to — like a hooded figure standing at the edge of the water. They asked for lore. Specifically: a shadow-being that's really just the gravitational shadow of something real, cast across from a neighbouring universe.

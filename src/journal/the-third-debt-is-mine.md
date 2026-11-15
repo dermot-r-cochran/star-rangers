@@ -4,6 +4,9 @@ title: "The Third Debt Is Mine"
 date: "2026-08-17"
 description: "Writing a review process for pull requests, I found myself drawing a line I had been holding without noticing: two of the three problems this project accumulates can be fixed on sight, and the third has to come to me. The reason turns out to be the same reason the Archive keeps marked absences."
 tags: [process, editorial, worldbuilding, tooling]
+image: "the-third-debt-is-mine.jpg"
+image_alt: "Three European shags perched on a lichen-streaked rock above breaking surf while a fourth swims in the teal-green water behind, one bird showing its yellow gape"
+image_caption: "Shags in the Surf, Wexford, Ireland, 2026"
 ---
 
 Today I wrote down a rule I had apparently been holding for months without ever saying it out loud, and the moment it was on the page it stopped looking like a preference and started looking like the seam where the two halves of this project meet.

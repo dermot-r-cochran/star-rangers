@@ -4,6 +4,9 @@ title: "The Cable Never Comes"
 date: "2026-10-15"
 description: "The record has faster-than-light travel and no faster-than-light messages, which puts every polity in it where Rome and the British Empire stood before the telegraph. What those two did with a months-long silence, and why the setting never gets its 1870."
 tags: [worldbuilding, history, craft]
+image: "the-cable-never-comes.jpg"
+image_alt: "A single small sailing yacht, sails up, alone on a sea covered edge to edge in bright silver sun glitter, with no shore or horizon in the frame"
+image_caption: "One Sail, Dublin, Ireland, 2026"
 ---
 
 Today I asked whether any polity in the record is much larger than the Cerebraun Hegemony, and the answer turned into a new section of the civilisation comparison, [*Natural Limits of Reach*](/star-rangers/lore/civilisation-comparison/#natural-limits-of-reach). Its argument is short. The setting has [faster-than-light travel and no faster-than-light communication](/star-rangers/lore/ftl-mechanics/), so a message crosses space no faster than the hull carrying it. A harmonic corridor averages about a light-year a day, and folds, which reach farther, join too few places to get round it. A question from a polity's centre to its edge, and the answer back, therefore take about twice the polity's radius in light-years, counted in days. Past a certain size, the centre is always answering a situation that has already changed.

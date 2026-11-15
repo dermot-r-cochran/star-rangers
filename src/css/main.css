@@ -1770,6 +1770,22 @@ a:focus {
   border: 1px solid var(--color-border);
   margin-top: var(--spacing-lg);
 }
+/* Journal entries carry one of Dermot's own photographs (2026-11-15). A
+   portrait-format frame is held to most of a screen's height so the essay
+   still starts on the first screen; the caption names the place and year. */
+.journal-entry .entry-image {
+  max-height: 70vh;
+  width: auto;
+}
+.journal-entry__figure {
+  margin: 0;
+}
+.journal-entry__caption {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-top: var(--spacing-xs);
+}
 
 /* Inline images embedded directly in prose body content (markdown ![]())
    have no other size constraint - without this, a full-resolution source
