@@ -1328,8 +1328,9 @@ over true vacuum dwellers, which the Undersong Belt's traps already refuse
 (*Space creatures in the void*, above). Drafted on Opus. This is the one
 section of the file that is not a world: its subject is the weightless and
 light-gravity zones every spinning habitat in the record already has, and what
-can live in them. Marked derived or proposed as everywhere else; nothing here
-is canon or written to `src/`.
+can live in them. Marked derived or proposed as everywhere else, and nothing
+here is canon. Part of it reached a page the day it was written: *What a page
+would need*, below, says what the page now states, and that much binds.
 
 ### What the record says
 
@@ -1403,7 +1404,8 @@ is canon or written to `src/`.
   and light with no gravity to follow; fruit flies bred over several
   generations; honeybees built comb; orb spiders spun irregular webs at first
   and better ones within days; small fish mated and produced young. None of
-  it ran for more than months.
+  the experiments ran for more than months, and no station has been lived in
+  for more than about a quarter of a century.
 - **Centuries are enough for the small and the fast** (derived, by the
   crisis-centuries precedent). A hub that has been occupied for four to six
   centuries has given microbes tens of thousands of generations, mites and
@@ -1430,9 +1432,10 @@ is canon or written to `src/`.
 
 ### The web, proposed
 
-Proposed throughout and unnamed. No name is needed until a chapter wants one,
-and the hub crews' own word for any of this, when one is wanted, should come
-from the habitat's own language and humour.
+Proposed throughout when written, and unnamed; what has since reached the page
+is listed under *What a page would need*. No name is needed until a chapter
+wants one, and the hub crews' own word for any of this, when one is wanted,
+should come from the habitat's own language and humour.
 
 - **Producers**: none in the ordinary sense. A hub's light is for work, not
   growth, and nothing is planted there. Where a duct runs under a lamp, a
@@ -1464,8 +1467,9 @@ from the habitat's own language and humour.
   stay shadow-shaped.
 - **A hub plague.** Whether a human pathogen behaves differently in
   weightlessness is **not established**, and should stay so unless a chapter
-  needs it. The Medical Corps handles hub hygiene as routine, and the tone rule
-  holds.
+  needs it. Hub hygiene is the habitat's own routine maintenance (the Medical
+  Corps is a Ranger corps, with no jurisdiction on a habitat), and the tone
+  rule holds.
 - **Weightless humans.** A human lineage born and raised in a hub is not
   proposed here and would be a people's designed body, which is never decided
   without Dermot. The record says only that Antariksha turns slowly enough that
@@ -1479,8 +1483,18 @@ from the habitat's own language and humour.
 **Landed 14 November 2026**, at Dermot's *"Write the What Lives Near the
 Axis paragraph"*, as three short paragraphs on
 `src/lore/habitats-and-the-worlds-beneath-them.md`. They keep to the outline
-below, give no name to the fly, and leave the Spire's cleaning, human
-pathogens and the ark question unstated. The outline as first written:
+below, give no name to the fly, leave the Spire's cleaning and human pathogens
+unstated, and mark the ark question as something the record does not know.
+From *What it derives*, the page states that weight falls away toward the
+axis (a tenth of floor weight sixty metres out in Antariksha), that air moves
+only where fans move it, that water clings, that hub life lives on what the
+rings shed, that centuries have changed the small lineages, that cleaning
+decides what survives and the cleanest hubs hold the fewest kinds, and that an
+ark's spine was weightless for decades at a time. From the web, it states the
+films, the fungi, the mites and the fly with its habit of keeping to surfaces,
+that nothing there is larger than the fly, and that no vertebrate breeds in a
+hub. All of that now binds. Everything else in this section stays
+as it is marked. The outline as first written:
 
 If a chapter set in a hub, a spoke or an ark spine needs a smell, a damp duct
 or a fly, one paragraph on `habitats-and-the-worlds-beneath-them.md` under a
@@ -1526,7 +1540,11 @@ what stood) or clarification (saying better what was already true), never by
 rewriting. This is the Cerebraun and Mnemari pattern: the Cerebraun body
 waited in `species-design.md` until a page needed it, and Ilenne's page took
 from the Mnemari section only the world facts the body needed. Each section's
-*What a page would need* names the smallest extension that would serve.
+*What a page would need* names the smallest extension that would serve. The
+rule has one case so far, made at Dermot's direction and not at a chapter's
+need: *Habitat axes* reached a page on 14 November 2026, as an extension
+(*What Lives Near the Axis* on
+`src/lore/habitats-and-the-worlds-beneath-them.md`).
 
 **For image prompts.** A fauna or flora prompt for a world starts from that
 world's section here: its energy base, its medium, the name proposed, and
