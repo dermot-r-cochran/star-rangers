@@ -1863,7 +1863,7 @@ record names no class, so the brief names none).
 
 ## A clip for *Four Seconds*, offered 3 November 2026, written before anything is generated
 
-**15 November 2026: not to be run as written.** Lev, a child of about eight, is
+**15 November 2026: not to be run as written. Ruled the same day, his "As recommended":** re-stage it with the walkway as subject (the crowd stopped, then moving) and Lev a small figure at the far end, back to the lens, under *A child is pictured grown*. The revised prompt is owed here, written before anything is generated (`grok-clips`); until it is, nothing below runs. Lev, a child of about eight, is
 this clip's subject. Since today no generated picture on the site has a child
 as its subject, and a film prompt is revised to that rule before anything is
 generated (`CLAUDE.md`, *A child is pictured grown*; `intake-2026-11-15.md`,
