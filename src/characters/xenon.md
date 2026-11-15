@@ -30,6 +30,6 @@ He talks to his patients while he works. Not for their benefit — most of them 
 
 He does not perform bedside manner, and it would be a mistake to go looking for one; he is not that kind of machine, and the setting stopped needing its machine persons to be that kind a long time ago. His personhood lives where his hands do. Watch him reseat a worn coupling that a depot would have swapped out whole, and the word *doctor* stops being shipboard shorthand and starts being a diagnosis of its own.
 
-He could design new robots, much like the ones whose files he holds, and he is not asked to. A design is not a machine in service, so the line above stays where it is.
+He could design new robots, much like the ones whose files he holds, and he is not asked to. A new design begins with learning what everyone with a stake in it needs and keeping those needs in order, which is other work than his; once it is clear, he would work on it beside the human engineers. A design is not a machine in service, so the line above stays where it is.
 
 See also: [Lumbarian](/star-rangers/characters/lumbarian/), [Karla Wender](/star-rangers/characters/karla-wender/), [Lucene-9000](/star-rangers/characters/lucene-9000/), [The AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/), [Kernel-Compliant](/star-rangers/glossary/kernel-compliant/).
