@@ -113,7 +113,7 @@ Dermot's ruling of 15 November (#1870, `intake-2026-11-15.md`) made Aldera a
 collar-only Smart Pet in Barsik's agency, after every row here had been
 settled. Opus reread the bootstrap pages against it. Two lines still gave the
 detective agency *cyber-enhanced animals*, a staff the record no longer holds:
-`rook-7.md` and `predatory-entities.md`, both clarified in #PR. The eight
+`rook-7.md` and `predatory-entities.md`, both clarified in #1871. The eight
 Season 1 chapters carry no residue (no implant, lens or separate agency
 network); their POV labels were changed in #1870. Everything else stands as
 recorded below. `meta-dimensional-beings.md`'s *cyber-enhanced beings* is the
@@ -145,7 +145,7 @@ general category, not the agency's staff, and stands.
 | `src/characters/karla-wender.md` | 2026-05-27 | Dermot: his idea and words | 2 | Opus | stands (10 Nov) |
 | `src/characters/mira-of-brine.md` | 2026-05-27 | Copilot | 2 | Opus | stands (10 Nov) |
 | `src/characters/qiren-tal.md` | 2026-05-27 | Copilot | 2 | Opus | stands (10 Nov) |
-| `src/characters/rook-7.md` | 2026-05-27 | Copilot | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*); clarify (15 Nov, #PR): the agency's sensors are its Smart Pets, not *cyber-enhanced animals*, after the Aldera ruling |
+| `src/characters/rook-7.md` | 2026-05-27 | Copilot | 2 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*); clarify (15 Nov, #1871): the agency's sensors are its Smart Pets, not *cyber-enhanced animals*, after the Aldera ruling |
 | `src/characters/sethka-ru.md` | 2026-05-27 | Copilot | 2 | Opus | stands (10 Nov) |
 | `src/characters/syra.md` | 2026-05-27 | Copilot | 4 | Opus | stands (Dermot, 10 Nov: *"The characters are valid"*) |
 | `src/characters/tissadelle-shepherd.md` | 2026-05-27 | Dermot: his idea and words | 1 | Opus | stands (10 Nov) |
@@ -175,7 +175,7 @@ general category, not the agency's staff, and stands.
 | `src/lore/noogenic-seeding-system.md` | 2026-06-30 | Dermot: his idea, M365 Copilot wording | 1 | Opus | stands (10 Nov) |
 | `src/lore/physics-comparison.md` | 2026-05-27 | Dermot: his idea, M365 Copilot wording | 3 | Opus | stands (10 Nov) |
 | `src/lore/post-eleven-dimensional-manifold.md` | 2026-05-28 | Copilot | 3 | Opus | stands (10 Nov) |
-| `src/lore/predatory-entities.md` | 2026-05-27 | Copilot | 2 | Opus | stands, with a clarify: *sapient* marked as observed capability, not a someone (the Unfounded rule); clarify (15 Nov, #PR): *cyber-enhanced animals of the detective agency* becomes its *Smart Pets*, after the Aldera ruling (`muffin.md`'s paraphrase kept in step) |
+| `src/lore/predatory-entities.md` | 2026-05-27 | Copilot | 2 | Opus | stands, with a clarify: *sapient* marked as observed capability, not a someone (the Unfounded rule); clarify (15 Nov, #1871): *cyber-enhanced animals of the detective agency* becomes its *Smart Pets*, after the Aldera ruling (`muffin.md`'s paraphrase kept in step) |
 | `src/lore/quantum-space-harmonics.md` | 2026-05-28 | Copilot | 2 | Opus | stands (10 Nov): the idea is Dermot's (his correction); Copilot first wrote it up |
 | `src/lore/seed-mind-lifecycle.md` | 2026-06-30 | Dermot: his idea, M365 Copilot wording | 1 | Opus | stands (10 Nov) |
 | `src/lore/star-rangers-safety-corps.md` | 2026-05-29 | Dermot: his idea and words | 2 | Opus | stands (10 Nov): Underwriters Laboratories is the standing singular exception |
