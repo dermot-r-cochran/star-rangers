@@ -2059,3 +2059,77 @@ The edit:
 > 3. The collar: replace the dangling metal ring and tag with nothing. The collar becomes one slim, plain, matte dark grey band sitting flush in the fur at her neck, seamless, with no buckle, no tag, no ring, no bell, no lights, no screen, no lettering.
 >
 > No implant, no wire, no cybernetic part, no glowing eye, no lens, no metal on her head. Do not change her face, her expression or her colour. A documentary photograph, not a render.
+
+## 2026-11-15 — Season 0 chapter illustrations, the pilot six (Fable, desktop)
+
+Dermot, 15 November 2026: *"An image for every chapter, either generated or using one of my own photos."* The six prompts of record are in `story-bible/images.md` § 53 and are not repeated here; this section holds the run and the edit prompts. **Tool** for all six: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (one take each); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893. **Plates:** none of Dermot's photographs (the catalogue was checked; no frame of his is one of these rooms). The references are filed frames of the same people and places, named per entry.
+
+### chapters/s00e01c01.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 53; reference `src/images/characters/ysolde-pitch.jpg` (the office only).
+- **Run:** Round 1 of 1, variation 1 filed. The first call returned no image; repeated once.
+
+### chapters/s00e01c02.jpg — filed 15 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 53; reference `src/images/characters/beatrix-kilbride.jpg` (the passage and hatch only).
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same passage, walls, floor, hatch, light, the same walking woman seen from behind, the same three figures in olive-grey tunics, the framing, focus and grain. Change only three small things.
+>
+> 1. The ceiling: remove the two small round white fittings on the ceiling (they look like smoke detectors). The ceiling there is plain smooth pale composite with nothing on it.
+>
+> 2. The walking woman's bag: remove the canvas shoulder bag and its strap entirely. She carries nothing; her arm hangs free at her side and her plain grey coverall is unbroken across her back.
+>
+> 3. The three far figures: turn them so that all three face the closed hatch, their backs or shoulders toward the camera, standing and waiting with empty hands; nobody is talking and no face looks toward the camera.
+>
+> No text, no lettering, no numerals, no signage, no screens, no new objects. A documentary photograph, not a render.
+
+### chapters/s00e02c01.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 53; references `src/images/characters/rutger-voss.jpg` (his face, hair and build) and `src/images/characters/adaeze-okafor.jpg` (her hair, coat and build).
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same room, walls, desk, shut book, pedestal chair, window and Martian ground, the same woman in the grey coat seen from behind, the same young red-haired man with exactly the same face, hair, build and stance, the framing, focus and grain. Change only two things.
+>
+> 1. His jacket: replace the army field jacket with a plain dark olive-grey service tunic of matte woven cloth with a high closed stand collar, a front closure that shows no buttons and no fastening, and a completely plain front. No breast pockets, no pocket flaps, no shoulder straps, no epaulettes, no lapels, no open collar, no T-shirt showing at the neck, no belt, no badges, no insignia.
+>
+> 2. The dark strip at the far right edge of the picture (a door edge with a hinge): replace it with more of the same plain pale wall.
+>
+> No text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
+
+### chapters/s00e02c02.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit and a heal
+- **Source:** `images.md` § 53; references `src/images/hero/season-00-foundation.jpg` (the chamber) and `src/images/characters/maren-solveig-krast.jpg` (her hair, build and tunic).
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1; dark specks in the sky healed with `cv2.inpaint` (Telea, radius 5) on the window's sky band only.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same hearing chamber, the same rows of seated people seen from behind in the tiered seats, the same woman in the blue-grey tunic standing alone at the long table, the long window onto Mars, the framing, focus and grain. Change only three things.
+>
+> 1. The wall: remove the pale rectangular patch with small holes on the wall to the left of the window. That wall is plain, the same ochre-grey composite panels as the rest, with nothing on it.
+>
+> 2. The chairs at the long table: replace the metal slat-backed chairs with plain low moulded seats of pale composite with thin upholstered pads, the same kind as the gallery seats.
+>
+> 3. The table top: remove the sheet of paper in front of the standing woman. The table is bare but for the carafe and glasses.
+>
+> No text, no lettering, no numerals, no crest, no emblem, no screens, no microphones, no new objects. A documentary photograph, not a render.
+
+### chapters/s00e03c01.jpg — filed 15 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 53; reference `src/images/characters/petra-solano.jpg` (her face and the chamber).
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same woman with exactly the same face, hair, hands, jacket and pose, the same table, the gallery seats and the people in them, the window onto Mars, the framing, focus and grain. Change only two things.
+>
+> 1. The ceiling: remove the two long bright rectangular light panels. The ceiling is plain smooth ochre-grey composite, softly and evenly lit, with no light fitting, no panel, no lamp and no glowing shape anywhere on it.
+>
+> 2. The open bound document on the table: make both pages completely blank, plain stiff pale matte sheets with no lines of writing, no print, no marks and no ruled lines at all. The stylus tip still rests on the blank page.
+>
+> No text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
+
+### chapters/s00e03c02.jpg — filed 15 November 2026
+- **Kind:** generation (text alone)
+- **Source:** `images.md` § 53; no reference.
+- **Run:** Round 1 of 1, variation 1 filed.
