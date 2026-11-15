@@ -94,6 +94,45 @@ left as they stand.
 ---
 
 
+## Left by the critic read of #1857 to #1873 — recorded 15 November 2026 on Fable — three points OPEN for him as options, none blocking; nothing under `src/` waits on them
+
+The read of the afternoon's pull requests changed six phrases on four pages, each a correction (`CHANGELOG.md`). Three things it found need his word, so each is put once, as options. Nothing below is canon.
+
+**1. The cyborg sentence on *Made Minds*, beside the ban on a carried subsystem.** `src/lore/made-minds-and-the-ai-safety-archetype.md`, *Where Each Attaches* (#1859, from his sentence of 15 November): *"An enhanced animal or a cyborg is an evolved mind supported by a made mind."* Two older pages do not allow that of a human cyborg. `src/glossary/cyborg.md`: a cyborg is *"a living being, human or animal, carrying physical cybernetic modification to the body itself"*, *"a distinct category"* from Smart Pet, the category that covers an AI cognitive subsystem. `src/glossary/smart-pet.md`, *Why an Animal, and Not a Person*: *"No human in the Concord carries an AI cognitive subsystem on or in the body"*, and the gate *"has never passed one"* (`src/lore/what-the-record-refuses.md`, *The AI in the glasses*, says the same). So a person with a made arm has no made mind supporting them, and the sentence gives them one. For an animal it holds of a Smart Pet. The page's *enhanced animal* is defined nowhere: the glossary's two terms are *Smart Pet* and *cyber-enhanced*.
+
+- **(a) Leave it.** *Made mind* is read loosely in that one sentence, as the made part.
+- **(b) Narrow the sentence to what the gate allows.** *"A Smart Pet is an evolved mind supported by a made mind. A cyborg is an evolved mind in a body with made parts, and the parts are no mind."* His sentence stays verbatim in `CLAUDE.md` and the intake.
+- **(c) He means it as written:** a cyborg does carry a made mind. That lifts the ban for a human cyborg. It is a canon change on three pages, and his alone.
+
+**Recommended: (b).** The basis is the record: the ban is stated flatly on two pages and the cyborg entry agrees with them, and (b) moves none of the three. The intake's open point, whether the supporting mind is a commissioned person, then concerns the collar subsystem only.
+
+**2. Aldera's collar has no disc.** `src/glossary/smart-pet.md`, *Where the Subsystem Lives*: *"The one external mark is the plain disc that hangs from the collar, which is the certification mark and, for an agency animal, the badge as well"*. Barsik's portrait shows it (*"a plain round tag on his collar"*), and Bubochka's page has *"the badge under her collar"*. The portrait edit of #1870 asked for the opposite (`image-prompts.md`: *"replace the dangling metal ring and tag with nothing"*, *"no buckle, no tag, no ring"*). The filed frame shows a bare grey band from the front, where a hanging disc would be seen. The frame before the edit had a ring and tag, and they went with the implant.
+
+- **(a) Leave it.** The frame is his pick of the same day, and a disc can lie in the fur under her chin.
+- **(b) One more edit of the filed frame** adds a small plain matte disc hanging from the band, as on Barsik's, and the alt text names it. It is a desktop step.
+- **(c) The glossary sentence is loosened** so that the mark may sit inside the band.
+
+**Recommended: (b), at the next image round and not before.** The basis is the record: the glossary sentence is the older one, it allows no exception, and the disc is her badge. (c) would change a page to fit a picture.
+
+**3. The Journal's *eight centuries*.** `src/journal/science-with-more-than-one-example.md` (24 October) is built on the figure: *"what does a civilisation eight centuries from now know that we do not?"*, *"eight centuries of science"*, *"Nobody in 1226 could have predicted the calculus"*, *"Eight centuries is the distance from the first universities to quantum mechanics"*, *"would have had eight centuries to accumulate"* and *"A setting eight centuries ahead"*. By the dates rule the present is 2626 CE, six centuries from the day the entry was written. The read corrected the same slip on two lore pages and left this entry alone. One of its sentences is a comparison that six centuries does not fit: six centuries before quantum mechanics is 1325, long after the first universities. So the repair needs a new sentence, and the Journal is his voice.
+
+- **(a) Six throughout.** *Six centuries* in the four plain places, *1426* for *1226*, and the comparison rewritten: *"Six centuries is the distance from the first printing presses to the present day."*
+- **(b) As (a), with a comparison of his own** in place of that sentence.
+- **(c) The entry stands as dated, with one closing line:** *"A note on the count: the record's present, 2826 UCSD, is 2626 CE, which is six centuries from this entry and not eight. The argument does not depend on the figure."*
+
+**Recommended: (a).** The basis is the dates rule (*"say six centuries"*) and arithmetic: printing from movable type in Europe dates from about 1450 CE, 576 years before 2026. Nothing else in the essay leans on the number.
+
+Notes with no decision in them, for a later read.
+
+- `src/lore/commissioned-standing.md` keeps *"supervision of adult humans"* and *"no adult human reports to it directly"*. That is his wording of 2 November (`intake-2026-11-02.md`, section 7), and it is read as literal humans, as Xenon's *human specialists* is in point 5 of the entry on the intake's open points, below. No page says whether a made mind may manage an adult of another people.
+- Five lore pages write *twenty-first century* with no *CE*: `crisis-centuries-terran-wildlife.md`, `star-rangers-safety-corps.md`, `subsea-cable-drones.md`, `civilisation-comparison.md` and one row of `what-the-record-refuses.md`. The dates rule asks for the label where a sentence sets that century beside the record's present, as the first of these does (*"by 2826 UCSD … a twenty-first-century photograph"*). None misleads alone, and a sweep is a job of its own.
+- `src/lore/cosmic-cascade.md` has a Fellowship chapter that *"has said Overfold for eight centuries"*. That is a span inside the record, and it stands.
+- The prompts in `images.md` and `image-prompts.md` that say *eight centuries from now* are the record of what ran, and are left.
+- The last section of `intake-2026-11-15.md` (#1875, merged while this read was landing) lists *Embodied Cognition* as holding *cyber-enhanced animals* among the lawful embodied minds. That phrase linked to the Smart Pet entry and is now *Smart Pets*, as the rest of the page has said since #1870. The intake is not edited, and its finding stands: nothing on that page conflicts with cyborgs being rare and certified.
+- `test/index-grouping.test.js`, `lib/index-grouping.js` and `scripts/extract-peoples.js` still accept the species string *Cyber-Enhanced Cat*, which no page has held since #1870. It does no harm.
+- `video-prompts.md`: the re-staged *Four Seconds* prompt was read in full against *A child is pictured grown* and holds. The D2 and D7 chains were checked for a child in any frame (none), for the year, and for their own counts (nine segments and ten takes; seven stills and fifteen segments). Their prompts were not read shot by shot. #1873 read D7 against the record the same day.
+
+
 ## One Lúnasa or two, the neat ring, and the coastlines from orbit — raised by Dermot 15 November 2026, read the same day on Fable — three points OPEN for him as options, none blocking; no page under `src/` and no prompt changes until he chooses
 
 Dermot, verbatim: *"it was originally meant to be the same Lúnasa station but if they have diverged too much then one or both could be renamed"*; then *"Would all Earth satellites and stations fall neatly into one ring in the 29th century?"* and *"Would the earth's coastlines have changed as seen from orbit?"* Each is answered from the record and from plain physics, and put once, as options. Nothing below is canon, and no name is coined.

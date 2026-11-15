@@ -4,12 +4,12 @@ title: "Ascent Javelins"
 category: "Technology"
 tags: [ascent-javelin, orbital-ascent, spaceflight, technology, teleportation, fusion, safety-corps, high-gravity]
 description: "Why getting off a planet still means flying: the missile-launched orbital ascent craft that carry passengers and cargo from surface to orbit on Earth-gravity worlds and below — and the fusion-boosted variants that make even heavy worlds climbable."
-plain: "Ascent javelins carry people and cargo from a planet's surface to orbit: winged craft, launched near-vertically like a missile. They exist because teleporting out of a gravity well fails every lawful constraint, so after eight centuries people still fly up; coming down is the landing craft's job. Chemical javelins are rated for Earth gravity and below; heavier worlds need fusion-thermal javelins, flown by specialist crews under stricter rules. A few coastal sites launch along a level rail instead. The javelin's job ends at a parking orbit — the journey begins after."
+plain: "Ascent javelins carry people and cargo from a planet's surface to orbit: winged craft, launched near-vertically like a missile. They exist because teleporting out of a gravity well fails every lawful constraint, so after six centuries people still fly up; coming down is the landing craft's job. Chemical javelins are rated for Earth gravity and below; heavier worlds need fusion-thermal javelins, flown by specialist crews under stricter rules. A few coastal sites launch along a level rail instead. The javelin's job ends at a parking orbit — the journey begins after."
 image: "ascent-javelins.jpg"
 image_alt: "An ascent javelin seen from alongside in its climb above a deck of cloud: a long, pale, flattened winged lifting body with a blunt nose and a short row of ports at the front, a faint exhaust trail behind, the sky darkening toward the top of the frame."
 ---
 
-Every technology the Concord possesses for crossing space politely declines to help with the first hundred kilometres. Getting off a planet is still, after eight centuries, a matter of throwing yourself at the sky hard enough that it gives in.
+Every technology the Concord possesses for crossing space politely declines to help with the first hundred kilometres. Getting off a planet is still, after six centuries, a matter of throwing yourself at the sky hard enough that it gives in.
 
 **Ascent javelins** are the standard means of planetary ascent throughout settled space: winged craft launched near-vertically, almost like a missile, that climb from surface to orbit under their own power. Formally they are orbital ascent vehicles, a service designation nobody uses twice. They exist because nothing else lawful does the job. The journey down is the other craft's: people and cargo come down in **landing craft**, and the record names a world's traffic by the direction it is going.
 

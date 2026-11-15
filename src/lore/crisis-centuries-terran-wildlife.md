@@ -27,7 +27,7 @@ That patchwork consolidated the way most Earth-side infrastructure of the period
 
 ## Three Centuries of Stewardship
 
-What SSDC preserves practice today is closer to the register documented elsewhere for [biosphere-world environmental technology](/star-rangers/lore/environmental-technology-design/) than to hands-off conservation. It means upkeep by small repair robots, drones that hold station at the edge of notice, genetic-archive reintroduction keeping flagship lineages breeding true rather than drifting. A leopard photographed in a 2826 preserve is not the descendant of eight centuries of unmanaged selection. It is the deliberately maintained result of an institution that decided which parts of the old biosphere were worth holding still.
+What SSDC preserves practice today is closer to the register documented elsewhere for [biosphere-world environmental technology](/star-rangers/lore/environmental-technology-design/) than to hands-off conservation. It means upkeep by small repair robots, drones that hold station at the edge of notice, genetic-archive reintroduction keeping flagship lineages breeding true rather than drifting. A leopard photographed in a 2826 preserve is not the descendant of six centuries of unmanaged selection. It is the deliberately maintained result of an institution that decided which parts of the old biosphere were worth holding still.
 
 That decision was selective by necessity. Preserve coverage concentrates on charismatic, ecologically flagship, and scientifically documented lineages. It was never extended, and could not have been extended, to every wild population on the planet.
 
