@@ -43,7 +43,7 @@ Eden is, however, the first place the question could be *calibrated*, because Ed
 
 ## Why the Smart Pets
 
-The lore is blunt about the detection: robots and cyber-enhanced animals of the detective agency find cute predators early, because their asymmetry detection is not distorted by social pressure to be polite. That part has held exactly as written.
+The lore is blunt about the detection: robots and the Smart Pets of the detective agency find cute predators early, because their asymmetry detection is not distorted by social pressure to be polite. That part has held exactly as written.
 
 What was not anticipated is that it would hold in both directions. [Agent Barsik](/star-rangers/characters/agent-barsik/) has never given Muffin anything, and Muffin stopped trying somewhere in the second month — not by avoiding him, which would be strategy, but the way any cat stops trying a door that has never once opened. [Bubochka](/star-rangers/characters/bubochka/) it worked considerably longer, and gave up on later, and her log records the exact week. [Thrum](/star-rangers/characters/thrum/) it has never approached at all, which is the cleanest result in the file: a vessik has no apparatus for perceiving charm, so there is nothing to work with, nothing is attempted, and nothing is recorded.
 
