@@ -182,7 +182,9 @@ ailment as a person's ordinary state; a prosthetic reads as the body's own
 unless the page makes the visible seam the point. No nanobot swarms in frame (Dermot, the same
 day: *"We don't have nanobots in the sense of Andromeda Ascendant but advanced
 surgical microdrones do exist"*); a surgical microdrone is a built, countable
-device.
+device. Since 15 November 2026 nothing microscopic at all: *"No microscopic
+nanobots but small mini-robots for repair would be possible"*. A repair robot in
+frame is small, but large enough to see.
 
 **Diversity of people and places** (Dermot, 13 October 2026, verbatim:
 *"consider diversity of future characters, and diversity of human settlements
