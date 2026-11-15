@@ -837,6 +837,7 @@ and its beads run into a fine line toward the horizon. From the docking approach
 it is a necklace of distinct stations curving away round the planet. It has no
 continuous band and no tether. Lúnasa is one bead of the ring and never has the
 forty seconds. The ring's look is fixed for films only and is not canon.
+*(Note, 15 November 2026, on Dermot's ruling of one station: on screen Lúnasa is the record's Survey Corps station keeping its place in the ring's line, not one of the ring's habitats.)*
 
 ### The five subjects, and why
 
@@ -2006,6 +2007,7 @@ across the bay (Dermot's *"option 1 for the rail"*, 30 October 2026, which
 put rail sites into the javelin lore). Without a
 voice the film is a duration, like D4: the time it takes to go from the
 terrace to the ring.
+*(Note, 15 November 2026, on Dermot's ruling of one station: "Lúnasa as one bead of it" means, on screen, the record's Survey Corps station keeping its place in the ring's line, not one of the ring's habitats.)*
 
 **Title and length.** *Lúnasa.* 2½ to 3 minutes; accept 2 to 3½.
 
@@ -2342,6 +2344,12 @@ Each round is judged by the image critic against the still's line above before t
 8. **The roar.** Whether Imagine brings a sound in late on request. It cannot be checked here except by its level shape.
 9. **The stars on the terrace,** left out for the arc's sake, where a true sky at that hour would keep a few.
 
+**Ruled 15 November 2026 by Dermot**, each *as recommended* (`open-questions.md`, *One Lúnasa or two*):
+
+- **One station.** The film's Lúnasa is the record's, drawn inside a ring that stays the film's own. Points 1 and 2 above close: the film keeps its title, and the two lines take the dated notes beside them. No still and no segment changes. `lunasa.md` changes nothing.
+- **One slow point.** In the first terrace take, one small steady point of light crosses a few degrees of sky, clear of the arc, which also shows that the arc is still. It is tried only after the arc has held in a take, and dropped after two failed takes. When it is tried, still 1's *no satellite streak* and segment 1's one motion are rewritten for that take; a take where the point comes back as a streak, or drags the arc with it, fails.
+- **The orbit shots stand as written,** following `earth-2826.md`. One judging line is added to every orbit take: *it fails if it draws a broad white cap across the top of the globe*, since the film is set in late summer and Arctic sea ice is gone then.
+
 **Versions.**
 
 | Segment | Take | Date | Start frame | Verdict | Used |
@@ -2441,7 +2449,7 @@ canon.
   over the far end and the clip ends on the walkway walking, so no direction is
   asserted for either of them.
 
-**The one word: put to him as options; the prompt is written for (a).** The
+**The one word: RULED 15 November 2026, (a), his "As recommended": the word stays.** Was: put to him as options; the prompt is written for (a). The
 chapter has *"No," Lev said. Out loud. In front of everybody.* The ruling fixes
 the picture and says nothing of the sound.
 
@@ -2565,7 +2573,7 @@ frame; and what could date the frame is listed and refused (trainers, jeans,
 logos, bags, a door frame, a ceiling panel). The hint of the century is the
 seamless curving deck and the case with nothing to carry it by.
 
-**Where a kept take is filed is not decided**, and need not be until one is
+**Where a kept take is filed: RULED 15 November 2026, (a), his "As recommended": Lev's page, in its *Four Seconds* section.** Was: not decided, and need not be until one is
 kept. The 3 November notes name no page. **(a)** Lev's page, in its *Four
 Seconds* section, since the request named his scene. **(b)** Muffin's page,
 since the stopped walkway is what the specimen does and the page's own picture

@@ -43,7 +43,7 @@ The asymmetry between the two archetypes is the entry's sharpest observation, an
 
 Same tier, same kind of thing, two attachment points. A thing that is designed can carry a constraint at the point of design. A thing that evolves has no such point, and its archetype does its work in the running of the system instead.
 
-The record carries the same contrast into its word for persons: a mind that is not a made mind it calls an **evolved mind**, whatever its people. An enhanced animal or a cyborg is an evolved mind supported by a made mind.
+The record carries the same contrast into its word for persons: a mind that is not a made mind it calls an **evolved mind**, whatever its people. A Smart Pet is an evolved mind supported by a made mind. A cyborg is an evolved mind in a body with made parts, and the parts are no mind.
 
 ## Convergence, Not Enforcement
 
