@@ -40,8 +40,7 @@
       "commentsEnabled": false,
 
       "heroSubtitle": "Your own front-of-house line. Plain HTML is allowed here; inline links must be absolute paths under /star-rangers/ and must resolve, or scripts/check-internal-links.js will say so.",
-      "heroCharacterIds": ["aldera", "elvira", "rook"],
-      "themeAudio": { "label": "Celtic ambient", "file": "celtic-theme.wav" }
+      "heroCharacterIds": ["aldera", "elvira", "rook"]
     }
   ]
 }

@@ -1,5 +1,5 @@
-# `src/audio/` — footer themes and in-universe recordings
+# `src/audio/` — in-universe recordings
 
-The per-edition footer audio player (`base.njk`) plays the file named by that edition's `themeAudio` in `lib/editions.js`; `validateEditions` checks the file exists here, since `scripts/check-internal-links.js` cannot resolve a templated path. The remaining files are in-universe recordings referenced from codex entries (the ballads).
+Only recordings that belong to a Codex entry live here, each played from that entry's page (the ballads). There is no site-wide ambient audio: the per-edition footer theme player was removed on 15 November 2026, at Dermot's *"Remove it"*, after his *"less sure about the ambient audio, unless it belongs to codex"*. Don't add a footer or page-level ambient track.
 
-Music has the same provenance discipline as images: `story-bible/music-prompts.md` holds the house sonic signature, the per-edition briefs and the in-universe recording briefs, and records that the five files that predate it have no prompt kept. Engine-side asset; add a file here and its brief there in the same change.
+Music has the same provenance discipline as images: `story-bible/music-prompts.md` holds the house sonic signature and the in-universe recording briefs. Add a file here and its brief there in the same change.

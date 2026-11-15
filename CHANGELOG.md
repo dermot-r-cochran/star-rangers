@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **No more footer theme music on any edition** (`lib/editions.js`, `src/_includes/base.njk`, `src/css/`, `src/audio/`, 2026-11-15, Opus, Dermot's *"Remove it"*, after *"less sure about the ambient audio, unless it belongs to codex"*). The footer player and its six theme tracks are gone from all eight editions. The Codex recordings (the ballads) stay on their own pages, and no ambient audio is to be added outside the Codex.
+
 - **One Lúnasa or two, the neat ring, and the coastlines from orbit** (`story-bible/open-questions.md`, 2026-11-15, Fable, at Dermot's three questions). A new entry at the top puts each as lettered options with one recommendation. The film's Lúnasa and the record's can be one station, because what diverged is the film's ring and not the station. Earth's traffic would not all sit in one ring, and the record's own does not, so one slow point in the dawn sky is offered. The coastlines have changed, by `earth-2826.md`, and from the ring's height almost none of it shows. Nothing in `src/` and no video prompt changes until he chooses.
 
 - **Early drafts: the Aldera ruling carried to the bootstrap pages** (2026-11-15, Opus, #1746). Two bootstrap lines still gave the Undercover Pets Detective Agency *cyber-enhanced animals*, a staff the record no longer holds now that Aldera is a collar-only Smart Pet: *Rook-7* and *Predatory Entities* now name its Smart Pets, and *Muffin*'s paraphrase of the lore line follows. The story-bible summary's Season 1 line and its POV-label example follow too. The eight Season 1 chapters were checked and carry no residue. Recorded in `story-bible/early-drafts-review.md`.
