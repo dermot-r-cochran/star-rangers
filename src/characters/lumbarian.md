@@ -28,4 +28,6 @@ He speaks seldom, on working channels, almost entirely about loads, seals, and t
 
 He does exterior work at station scale, which means most of what he repairs is full of people he will never meet, kept alive by seams they will never see. He has never mentioned this. It is not clear it would occur to him to; it is not clear it needs to.
 
+He could design new ships. It is not expected of him.
+
 See also: [Xenon](/star-rangers/characters/xenon/), [Karla Wender](/star-rangers/characters/karla-wender/), [The AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/), [Kernel-Compliant](/star-rangers/glossary/kernel-compliant/).
