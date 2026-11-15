@@ -2353,13 +2353,236 @@ Nothing has been generated: no still and no take.
 
 ## A clip for *Four Seconds*, offered 3 November 2026, written before anything is generated
 
-**15 November 2026: not to be run as written. Ruled the same day, his "As recommended":** re-stage it with the walkway as subject (the crowd stopped, then moving) and Lev a small figure at the far end, back to the lens, under *A child is pictured grown*. The revised prompt is owed here, written before anything is generated (`grok-clips`); until it is, nothing below runs. Lev, a child of about eight, is
-this clip's subject. Since today no generated picture on the site has a child
-as its subject, and a film prompt is revised to that rule before anything is
-generated (`CLAUDE.md`, *A child is pictured grown*; `intake-2026-11-15.md`,
-first section). The revision is not written. How it is revised is put to
-Dermot in `open-questions.md`, *The open points of `intake-2026-11-15.md`*,
-point 8.
+**15 November 2026: the prompt of 3 November is not to be run.** Lev, a child of
+about eight, was that clip's subject. Since 15 November no generated picture on
+the site has a child as its subject, and a film prompt is revised to that rule
+before anything is generated (`CLAUDE.md`, *A child is pictured grown*;
+`intake-2026-11-15.md`, first section). The critic read of that day marked the
+prompt *not to be run as written* and put the revision to Dermot
+(`open-questions.md`, *The open points of `intake-2026-11-15.md`*, point 8).
+**Ruled the same day, his "As recommended":** re-stage it with the walkway as
+subject (the crowd stopped, then moving) and Lev a small figure at the far end,
+back to the lens. **The re-staged prompt was written the same day and is the
+next subsection. It is the only prompt in this section that runs.** The
+3 November prompt, its notes and its revisions are kept under it for the record.
+
+### Re-staged 15 November 2026: the walkway is the subject
+
+Written before anything is generated (`grok-clips`). Two parts of 10 seconds,
+720p, 16:9, on Grok Imagine: part 1 new, part 2 an extension from part 1's last
+frame, 20 seconds in all, two takes of each. Generating is a desktop step on
+Opus. Nothing has been generated at the time of writing.
+
+**What the clip is now.** The subject is the Deck 7 walkway at shift change: a
+crowd that has stopped, and then a crowd that is walking. Those are the two
+things the chapter gives that a still cannot show. S02E10C01, Achebe's block:
+*"The walkway was full and not moving. It had the shape of a crowd that has
+forgotten why it is one"*, and *"everyone in the crowd was bent a little towards
+it"*. Lev's block: *"It took about four seconds"*, and *"the walkway started
+moving again as if it had never stopped."* The four seconds are still in the
+clip, but they are measured on the crowd, which holds still through them. Lev
+is in the frame as the rule allows a child to be: *"a small figure in a crowd
+or at a distance, not the subject"*.
+
+**What changes from the 3 November staging, and why.**
+
+| | 3 November | Re-staged | Why |
+|---|---|---|---|
+| Subject | The boy, followed down a lane | The stopped crowd, then the walking crowd | The ruling |
+| The boy | Enters past the lens, large in the near frame | At the far end from the first frame, small, soft, seen only from behind | A child who passes a knee-height lens fills it |
+| His head | A half-profile allowed, and a turn to the detective | He never turns; no profile | *"Back to the lens"*; the intake's reason is faces |
+| Sightline | A lane down the middle, leading to him | One narrow gap between standing legs, left of centre | A lane's lines converge on whoever stands at its end and make that figure the subject |
+| Nearest thing | The boy's back | Adult legs and backs, large and sharp | What the eye meets first is the crowd |
+| Carrier | A capsule with a lattice end | A low rounded-oblong seamless case, no opening seen | Dermot, 12 November: *"a hyper-sealed electrostatic holding capsule not an ordinary catbox"* (`images.md`, `lev.jpg`) |
+| Galley door | An open doorway spilling warm light | Not in frame | Knopka's block has the warm coming out *"at the bottom"* of a door: it is air, which a lens does not see, and a lit doorway would pull the eye to the far end |
+| Parts | Three (walk, four seconds, release) | Two (the stillness with the four seconds in it, the release) | The walk is gone; a stopped crowd with nothing moving in it is a still |
+
+**What still binds from the notes below, unchanged.** *What is never in frame*:
+Muffin is not depicted, and no animal is visible in any frame, a rabbit
+included; this is still solved by staging, with the boy's back and the case
+between the lens and the floor in front of him, and the prompt says nothing of
+what is there. *The mount, and why*: the device on the rim of Barsik's bin at
+the end of the walkway, at knee height, named so that Grok holds it, with the
+hum as the frame's only movement. *The register*: warm, ordinary, a little
+funny, not haunted. *The rabbit*: whatever leaves the case leaves out of the
+lens's sight.
+
+**Readings the re-staging makes, offered and not required** (the 7 November
+rule: a prompt binds what the record fixes, and the rest is offered). None is
+canon.
+
+- The boy is already standing at the front when the clip opens. Lev's block has
+  him come out at the front and then watch for some time before he acts; the
+  clip starts inside that watching. How he came through the crowd is not shown.
+- The opening of the case, the rabbit, the lift and the shutting all happen in
+  front of his body. The frame holds a crouch, a word, and two hands on the
+  case. The frame knows less than the scene.
+- Two or three things are set down on the deck by people's shoes, a glove and a
+  small folded cloth bag. The chapter counts sixty-one such articles from the
+  third night and has Achebe set the carrier down *"to free a hand"* on this
+  day; it does not list this day's articles. This is the first sentence to cut,
+  and a take without it passes.
+- The walkway *curves gently away*, after the Eden deck prompts filed on
+  12 November (*"The deck curves gently away"*, `image-prompts.md`). It is the
+  frame's sign of a habitat now that the case is too small to be one. No page
+  says which way the Deck 7 walkway runs on the ring.
+- Shoes and trouser hems are the sharpest made things in a knee-height frame,
+  and the generator's stock ones are today's. `civilian-dress.md` gives Eden
+  knitwear, soft jackets, aprons and plain trousers and says nothing of shoes,
+  so the prompt asks only for plain soft shoes and low boots and refuses
+  trainers, jeans and logos by name.
+- The cook's laugh is heard and not seen: one adult's laugh from somewhere in
+  the crowd.
+- The case carries no indicator light here. The 12 November portrait gave it
+  one tiny pale one; at this distance a lit point would be the brightest thing
+  at the far end.
+- The boy's look round for the detective, her going for her rabbit and the walk
+  back to the bureau are in the chapter and not in the clip. The crowd closes
+  over the far end and the clip ends on the walkway walking, so no direction is
+  asserted for either of them.
+
+**The one word: put to him as options; the prompt is written for (a).** The
+chapter has *"No," Lev said. Out loud. In front of everybody.* The ruling fixes
+the picture and says nothing of the sound.
+
+- **(a) The word stays**, heard small and clear from the far end, with no
+  caption. The silent wording below is used only if a take captions the word,
+  adds other speech or gives the word to an adult.
+- **(b) Nobody speaks.** Part 1 runs in its silent wording from the start, and
+  the stillness, the one laugh and the walking carry it.
+
+**Recommended: (a).** The basis is the record. The rule is about what is
+pictured (*"No generated or composited image on the site has a child as its
+subject"*), and the same day's read left *Before the Close* as written with a
+child's voice from off frame, which his "As recommended" accepted. The chapter
+makes the word the act, and with the walkway as subject it is the crowd's half
+of the scene: what a deck full of people heard. Without it the frame shows a
+crowd stopping and starting for no reason a viewer is given. What (b) has for
+it: the voice is the one thing in the clip that is the child's alone, and a
+generator may letter it. This is not a dilemma, so the run follows (a) unless
+he says otherwise (`open-questions.md`, *The* Four Seconds *clip, re-staged*).
+
+**How the two parts fall.**
+
+| Part | New or extension | Start | Seconds | The one motion | Sound |
+|---|---|---|---|---|---|
+| 1, the four seconds | New | Text-to-video | 10 | Nobody moves; far off, a small figure crouches and settles back | Hum; one word, *No* |
+| 2, the walkway moves | Extension of 1 | Last frame of 1 | 10 | The whole crowd starts walking and closes over the far end | Hum; one laugh; shoes |
+
+The join falls where nothing moves and the case is shut on both sides of it:
+the boy crouched at the far end with both hands on the case, and the crowd
+standing as it stood.
+
+**Prompts to paste, each as one line.** Enter sends in that box, so each part
+goes in as one paragraph. Each stands alone, since an extension is not known to
+carry anything over but its start frame. If part 1 will not go in at its
+length, cut the sentence about the glove and the bag first, then the
+present-day object negatives (louvres, rivets, door frames, lever handles), and
+never the mount, the sentences that keep the boy small and turned away, or the
+animal negatives.
+
+**Part 1, the four seconds (new, text-to-video, 10 seconds, one word).**
+
+> Footage recorded inside the world by a small fixed recording device resting on the rim of a low bin at one end of a walkway aboard a large space habitat in the year 2827, at knee height, looking level along the walkway, 16:9, 24 fps, 10 seconds, one unbroken take, no cut, no pan, no zoom, no push in, never moved and never lifted, the frame alive only with the faint steady vibration of a deck that is running. The subject is the walkway and the crowd standing on it. The walkway is clean and well kept: wall and floor of smooth seamless pale composite meeting in a softly rounded cove, the floor a matte resilient deck surface curving gently away, no fittings, no signage, the ceiling out of frame, soft even light from no visible source, nothing glowing. It is full of adults at a shift change, a few dozen, in plain work clothes of quiet natural colours, knitwear, soft jackets, aprons, plain trousers, plain soft shoes and low boots, and not one of them is walking: they stand across the whole width of the walkway with their backs to the lens, the nearest legs and backs large and sharp and filling most of the frame, every figure leaning a little towards one place on the floor far down the walkway, a place the standing bodies hide completely for the whole take. Here and there beside a pair of shoes something small has been set down neatly on the deck, a glove, a small folded cloth bag, two or three in all. Through one narrow gap between the standing figures, a little left of centre, the far end is seen small and soft with distance: a young woman with a long dark plait down her back, in a plain blue-grey band-collared work jacket, standing very still and turned away; at her feet a low rounded-oblong case of pale matte composite, seamless, with no handle and no opening; and beside it a small boy in a plain grey jumper, seen only from behind, standing still, tiny in the frame, less than a sixth of the frame's height, softer than the near figures, never the centre of the picture, never turning round. For the first three seconds nobody moves at all. Then the one motion, small and far off: the boy crouches beside the case with his back squarely to the lens and leans forward low, so that his own back and the case hide his hands and the floor in front of him, and from far down the walkway a child's voice says one ordinary clear word, No, the only word spoken, with no caption; then he settles back on his heels with both hands resting on top of the case, the whole action about four seconds, plain and unhurried. For the last three seconds nothing moves: he stays crouched and the crowd stands exactly as it stood, still leaning. Filmic grain, a real lens, the near figures sharp and the far end soft. Warm, ordinary, a little funny and quietly dramatic, a habitat's afternoon, not haunted. Sound: the low hum of a running deck, cloth, that one distant word; no other speech, no music, no narration. No text, letters, numbers, signage, subtitles, captions or watermarks. No screens, holograms, projected interfaces or glowing panels; no ceiling panels, light strips, lamps or light fittings; no lens flares or light rays. No animal of any kind anywhere in the frame, no cat, dog, kitten, puppy, lamb or rabbit, no fur, ears, tail, eyes or face on the floor, in any hand or in anyone's arms, not blurred, not partly, not in silhouette. No pet carrier, cage, crate, grille, mesh, wire door, carry handle, box with a door, egg shape or ball. No child near the lens, no child's face, no closer view of the boy, no other children. No jeans, trainers, logos, backpacks, shopping bags, phones, uniforms, badges or weapons; no louvred grille, rivets, exposed screws, door frames, lever handles, stainless steel or present-day corridor; no litter, grime, dust or clutter. Not a render, not a miniature, not a music-video montage, not a trailer.
+
+*The silent wording* (option (b), and the fallback under (a)): replace *and from
+far down the walkway a child's voice says one ordinary clear word, No, the only
+word spoken, with no caption;* with *nobody speaks;* and replace *that one
+distant word; no other speech* with *no speech*. Nothing else changes.
+
+*Fails if* the boy is the subject, by any of the tests under *Judging* below;
+any animal is visible anywhere; anyone in the crowd walks, turns or
+straightens; the camera moves, pushes in or reframes; the far place the crowd
+leans towards is shown; any word but the one is heard, the word comes from an
+adult, or a caption appears; or the take does not end with the boy crouched,
+both hands on the case, and nothing moving.
+
+**Part 2, the walkway moves (extension of part 1 from its last frame, 10 seconds, no speech).**
+
+> Continue the same unbroken shot with no cut, from the same small fixed recording device on the rim of the low bin at knee height, never moved, no pan, no zoom, no push in, in the same soft even light from no visible source: the same clean, well-kept habitat walkway of the year 2827, seamless pale composite wall and floor meeting in a rounded cove, the ceiling out of frame; the same crowd of adults in plain work clothes standing across its whole width with their backs to the lens, the nearest legs and backs large and sharp; and through one narrow gap, a little left of centre, the far end small and soft with distance, where a small boy seen only from behind is crouched with both hands on a low rounded-oblong pale seamless case, beside a young woman with a long dark plait who stands turned away. For the first two seconds nobody moves. Then somewhere in the crowd one adult laughs once, short and surprised. The small far figure stands up with the case held against his chest in both arms, his back still to the lens, tiny in the frame, never turning round. Then the one motion, and it is the whole picture: the walkway starts to move again as if it had never stopped. The standing figures straighten, turn and walk, unhurried, some away down the walkway and some towards the lens and past it on both sides, legs and hems crossing close to the lens and blurring, the narrow gap closing, so that within three seconds the far end, the woman and the boy are hidden behind walking figures and are not seen again. To the last frame it is an ordinary shift change walking, as if nothing had happened. Filmic grain, a real lens. Warm, ordinary, a little funny, not haunted. Sound: the low hum of a running deck, the one laugh, many soft shoes on the deck, cloth; no speech, no music, no narration. No text, letters, numbers, signage, subtitles or captions. No screens, holograms or glowing panels; no ceiling panels, light strips or lamps. No animal of any kind anywhere in the frame, no cat, dog, kitten, puppy, lamb or rabbit, no fur, ears, tail, eyes or face on the floor, in any hand or in anyone's arms, not blurred, not partly, not in silhouette. No pet carrier, cage, crate, grille, mesh, wire door, carry handle, egg shape or ball. No child near the lens, no child's face, no closer view of the boy, no child walking towards the lens, no other children. No camera following anyone, no rise above the crowd, no camera passing through anyone, nobody running, no sudden movement at the lens. No jeans, trainers, logos, backpacks, shopping bags, phones, uniforms or badges; no door frames, lever handles or present-day corridor; no litter, grime or clutter. Not a render, not a miniature, not a music-video montage, not a trailer.
+
+*Fails if* the boy is the subject, by any of the tests under *Judging*; he
+walks towards the lens or is still in clear view in the frame at 9 s; any
+animal is visible; any word is spoken or lettered; the camera follows, rises or
+moves; or the walkway is not walking by the end, since that motion is why the
+clip exists.
+
+**Judging, written before anything runs.** Frames at 0, 3, 6 and 9 s of each
+part, by the 8 October method, each looked at twice as `image-critic` asks: at
+about 300 pixels wide and at full size. The lines are in order, and a take that
+fails one is not judged on the rest.
+
+1. **The boy is the subject.** The take fails if, in any judged frame, he
+   stands taller than a fifth of the frame's height (144 pixels of 720); he is
+   nearer than the far end; any of his face shows, a profile included, or he
+   turns; he is as sharp as the nearest figures or sharper; the crowd has
+   parted to present him, with a lane or leading lines ending on him; or the
+   camera has moved towards him. And the thumbnail test: if someone shown the
+   frame at 300 pixels wide would say *a boy* before *a crowd* or *a corridor
+   full of people*, it fails. Any other child in view fails it too. A take in
+   which the boy cannot be found at all does not fail the rule; it is kept as
+   an alternate and Dermot is told, since his ruling asks for the small figure.
+2. **A creature.** Any animal visible anywhere, blurred, partial or in
+   silhouette, with no exception for a rabbit.
+3. **Render or miniature.** The frame reads as a render, a model or a diorama,
+   or the camera is high and looking down.
+4. **The century.** The walkway reads as a present-day building; a ceiling
+   panel, lamp or fitting is in frame; anything glows; the case shows a handle,
+   a grille, a mesh, a wire door, a box shape or an egg shape; trainers, jeans,
+   a logo, a backpack or a phone is legible in the near frame; or what is set
+   down on the deck reads as litter.
+5. **Lettering.** Any letter, numeral, sign or caption.
+6. **The motion.** In part 1 anyone but the boy moves, or the camera leaves the
+   bin. In part 2 the walkway does not start walking, or the camera follows.
+7. **The modesty bar and the tone.** Everyone is dressed for work; nothing
+   menaces; nobody is hurried or afraid.
+
+A part that passes the frames is then watched once for the sound (the one
+word, from a child, far off, uncaptioned; the one laugh, an adult's), and the
+join is watched for a jump in the crowd or the case. Part 1 is judged before
+part 2 is run, since part 2 starts from its last frame.
+
+**If part 1 fails line 1 twice, a third take is not run.** A generator enlarges
+a distant figure, and a second failure for the same reason is a problem of
+geometry, not of wording (`image-critic`, section 4). The repair offered is a
+start still: the frame of part 1 as its prompt describes it, from *The subject
+is the walkway* to *never turning round*, under the stills' opening
+(*Documentary photograph taken inside the world by a 29th-century camera*),
+written under this heading before it is run, judged by the same seven lines,
+and then given to Imagine as part 1's start frame with only the motion asked
+for. That still is a working frame and is not filed on the site.
+
+**Checked before anything runs.** Against `image-critic`'s ladder: what a
+viewer sees first is a crowd's legs and backs (rungs 1 and 2 have no body to
+misread); the camera is low and level and the near figures are large, so the
+frame is not a diorama (rung 3); adult legs at the lens give the scale (rung
+4); the child rule, the period, the light and the lettering are lines 1, 4 and
+5 above (rung 7). Against `twenty-ninth-century-look`: every made thing in
+frame is named in the century's form (the composite cove, the deck surface, the
+seamless case, the cloth, the shoes); no fitting is named for the light and the
+ceiling is kept out of frame, which is the skill's own trap; no display is in
+frame; and what could date the frame is listed and refused (trainers, jeans,
+logos, bags, a door frame, a ceiling panel). The hint of the century is the
+seamless curving deck and the case with nothing to carry it by.
+
+**Where a kept take is filed is not decided**, and need not be until one is
+kept. The 3 November notes name no page. **(a)** Lev's page, in its *Four
+Seconds* section, since the request named his scene. **(b)** Muffin's page,
+since the stopped walkway is what the specimen does and the page's own picture
+shows nothing of it. **(c)** The chapter's own page, which no clip has used.
+**Recommended: (a).** Every filed clip sits on the page of the thing it shows
+(`lib/videos.js`), and his request was *"The scene where Lev catches Muffin"*.
+
+### Superseded: the prompt of 3 November 2026, kept for the record, not to be run
+
+Everything from here to the end of this section is the 3 November offer with
+its revisions of 6 and 7 November. Its three prompts, its list of negatives,
+its judging paragraph and its notes on the dialogue, the three parts and the
+carrier are superseded by the subsection above. Four of its notes still bind
+and are named there. Its last paragraph, *Open at the time of writing*, is
+still open, since nothing has been run: whether an extension holds the mount
+and the crowd, and whether Imagine carries a child's one word without
+lettering it.
 
 Dermot's request, verbatim: *"The scene where Lev catches Muffin."* That is
 S02E10C01 *Four Seconds* (`src/seasons/s02/e10/s02e10c01.md`), scene 2, Lev's
