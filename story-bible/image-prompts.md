@@ -2133,3 +2133,54 @@ Dermot, 15 November 2026: *"An image for every chapter, either generated or usin
 - **Kind:** generation (text alone)
 - **Source:** `images.md` § 53; no reference.
 - **Run:** Round 1 of 1, variation 1 filed.
+
+## 2026-11-15 — Season 0 chapter illustrations, three fixes by edit (Fable, desktop)
+
+Dermot's notes on the pilot, the same evening: the three officers nose to the hatch, Solano's paper book and pen and the gallery's present-day jackets, and Pitch and Kilbride reading as twins from behind. **Tool:** Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, one take per call, five takes in all; refiled by `import-image.ps1 -MaxEdge 1600` at strength 1. The record is in `images.md` § 53, *Three fixes*.
+
+### chapters/s00e01c02.jpg — refiled 15 November 2026
+- **Kind:** edit of the filed frame
+- **Run:** take 1 of 1, filed.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same pale curved passage, walls, floor, ceiling light, the same closed rounded hatch, the same woman in the grey coverall walking away from the camera, the framing, focus and grain. Change only the three far figures in dark olive-grey tunics.
+>
+> At present they stand shoulder to shoulder in a tight row with their noses almost touching the closed hatch, like people waiting at a lift. Instead: the three stand loosely apart, a clear step or two back from the hatch, at the side of the passage beside it, with space between them. Each is half turned toward the approaching woman, in three-quarter view, watching her come: one has hands clasped behind the back, one stands with arms at the sides, one stands a little behind the other two. They are waiting, with empty hands, doing nothing. They stay small and far away, the same size as now, in the same dark olive-grey high-collared tunics and trousers, their faces small, plain and serious. Nobody talks, nobody gestures, nobody salutes. The hatch stays closed and is now seen clear between or beside them.
+>
+> No text, no lettering, no numerals, no signage, no screens, no badges, no weapons, no new objects. A documentary photograph, not a render.
+
+### chapters/s00e03c01.jpg — refiled 15 November 2026
+- **Kind:** edit of the filed frame, then an edit of that take
+- **Run:** take 1 changed the document and the stylus and left one patterned jacket; take 2, from take 1, changed the gallery's dress and is filed.
+- **Edit prompt 1:**
+
+> Edit this photograph. Keep everything exactly as it is: the same woman with exactly the same face, features, grey hair, expression, hands, dark jacket and pose, the same long pale table, the same chamber, pale moulded gallery seats, walls, ceiling and the long rounded window onto Mars, the framing, focus and grain. Change only three things.
+>
+> 1. The thing she is signing: remove the thick open paper book with its fanned paper pages. In its place, lying flat on the table in the same spot, is one thin rigid matte leaf, a single plain sheet of pale warm-grey composite about the size of a large open book and only a few millimetres thick, with softly rounded corners, like a thin slab of pale slate. It is blank, unlit and still: no glow, no screen, no bezel, no frame, no writing, no lines, no marks. It is not paper and has no pages, no spine and no binding. Her left hand rests flat on it as now.
+>
+> 2. The thing in her right hand: replace the pen with a slim plain signing stylus, a short smooth tapered rod of dark matte composite, the same thickness from end to end apart from a soft rounded tip, with no clip, no cap, no nib, no metal band and no button. Its tip rests on the leaf.
+>
+> 3. The people seated in the gallery behind her, out of focus: dress every one of them in the plain civil dress of the same century as hers: plain dark matte jackets with a band collar or no collar and a closure that shows no buttons, in charcoal, dark slate and deep brown-grey, over plain high-necked tops. No patterned or checked jackets, no lapels, no blazers, no shirt collars, no neckties, no spectacles. They stay soft, seated and still, the same number of people in the same seats.
+>
+> No text, no lettering, no numerals, no glowing surfaces, no new objects. A documentary photograph, not a render.
+
+- **Edit prompt 2:**
+
+> Edit this photograph. Keep everything exactly as it is: the same woman in the foreground with exactly the same face, hair, hands, jacket and pose, the same pale matte leaf on the table and the slim dark stylus, the table, chamber, seats, walls, ceiling and window onto Mars, the framing, focus and grain. Change only the clothes of the out-of-focus people seated in the gallery at the left.
+>
+> Every one of them wears the same kind of plain civil dress as the woman in the foreground: a plain dark matte jacket with a low band collar and a front that shows no buttons, in charcoal, dark slate or deep brown-grey, over a plain dark high-necked top. In particular the man in the middle of the group, who now wears a pale grey patterned jacket over an open shirt, wears a plain charcoal band-collared jacket instead, and the man at the far left edge in a blue blazer wears plain dark slate. No pale jackets, no patterned or checked cloth, no lapels, no shirt collars, no neckties, no spectacles. They stay soft, seated, still, the same people in the same seats.
+>
+> No text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
+
+### chapters/s00e03c02.jpg — refiled 15 November 2026
+- **Kind:** edit of the filed frame
+- **Run:** three takes. The first (Kilbride's hair cut short) was dropped as unlike her portrait; an edit of it added spectacles and lost the grain; the third, from the filed frame with the prompt below, is filed.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same hall, walls, floor, tall window, Martian dusk with two low domes and the blue glow, the guests at the far left, the same two women seen from behind in the same places with the same clothes, the same stance and the same small glasses, the framing, focus and photographic grain. Change only the two women's hair, so that they no longer look like twins from behind.
+>
+> The woman on the left, in the pale grey jacket: her hair is darker, a soft brown well streaked with grey, gathered loosely into a low untidy knot at the nape, with several loose strands and wisps escaping at the neck and over one ear. No clip.
+>
+> The woman on the right, in the long dark slate tunic: her hair is plain iron grey, steel grey with a little white at the temples, drawn back tight, flat and smooth against her head and tied close at the nape into one short straight tail that hangs a hand's breadth down over the back of her stand collar. A neat, severe, practical pilot's tail: no bun, no knot, no loose strands, no clip.
+>
+> Neither face is shown; neither wears spectacles; both still look out of the window. No text, no lettering, no new objects. Keep the grain and softness of the original photograph; a documentary photograph, not a render, not a painting.
