@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Season 1's thirty chapters each carry a picture** (`src/images/chapters/`, 2026-11-15, Fable, at Dermot's *"Yes, roll it out"* on the Season 0 pilot). One frame per chapter by the pilot's method: two are edits of his own photographs (*Carraig Bán*, *The Grove at the Fault Line*), twenty-four are generated with filed portraits and places as references, four from text alone; none is bare, and no two in an episode are alike. Nine optional clip prompts, each with what is heard, are written in `video-prompts.md` as O to W, none generated. The prompts, the triage and every flaw passed are in `story-bible/images.md` §§ 55 to 60, with his widening of the photograph pool the same day. Seasons 2 to 14 wait on his view of these.
+
 - **Three Season 0 chapter pictures corrected by edit** (`src/images/chapters/`, 2026-11-15, Fable, at Dermot's notes on the pilot). In *Beyond MSC Liability* the three officers no longer stand nose to the hatch; in *What They Were Forbidden to Become* Solano signs a matte leaf with a stylus and the gallery wears the century's dress; in *No Longer Supplementary* Pitch and Kilbride no longer share one head of hair. Each is an image edit of the filed frame, recorded in `story-bible/images.md` § 53 with the alt text and clip L's wording brought into line.
 
 ## [1.70.0] — 2026-11-15
