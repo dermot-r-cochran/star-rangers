@@ -1992,6 +1992,7 @@ The edit:
 > Edit this photograph. Change only the inside of the tall narrow window in the machine: remove the blue glow entirely, so the stepped gold discs and fine gold lines inside are seen by the cavern's own soft light, nothing inside glowing at all, the bottom stage the same plain dull gold as the rest. Keep everything else exactly as it is: the machine, its shape and seams, the rail, the step, the technician, the cavern, the light, the grain. Add nothing. No text anywhere.
 
 ### characters/lev.jpg — filed 12 November 2026
+- **Superseded 15 November 2026:** the file at this path is now Lev grown, under *A child is pictured grown* (`CLAUDE.md`). Its prompt and filing notes are under `lev.jpg` in `images.md`. The frame this entry records is withdrawn, not failed, and stays in git history.
 - **Kind:** generation
 - **Run:** Round 1 drew the capsule as an ovoid that read as an egg; round 2 (this prompt), variation 1 filed.
 - **Prompt:**

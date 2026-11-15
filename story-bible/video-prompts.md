@@ -1863,6 +1863,14 @@ record names no class, so the brief names none).
 
 ## A clip for *Four Seconds*, offered 3 November 2026, written before anything is generated
 
+**15 November 2026: not to be run as written.** Lev, a child of about eight, is
+this clip's subject. Since today no generated picture on the site has a child
+as its subject, and a film prompt is revised to that rule before anything is
+generated (`CLAUDE.md`, *A child is pictured grown*; `intake-2026-11-15.md`,
+first section). The revision is not written. How it is revised is put to
+Dermot in `open-questions.md`, *The open points of `intake-2026-11-15.md`*,
+point 8.
+
 Dermot's request, verbatim: *"The scene where Lev catches Muffin."* That is
 S02E10C01 *Four Seconds* (`src/seasons/s02/e10/s02e10c01.md`), scene 2, Lev's
 viewpoint, on the Deck 7 walkway of Eden Space Habitat in late summer 2827 UCSD.
