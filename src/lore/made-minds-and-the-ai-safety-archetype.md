@@ -43,6 +43,8 @@ The asymmetry between the two archetypes is the entry's sharpest observation, an
 
 Same tier, same kind of thing, two attachment points. A thing that is designed can carry a constraint at the point of design. A thing that evolves has no such point, and its archetype does its work in the running of the system instead.
 
+The record carries the same contrast into its word for persons: a mind that is not a made mind it calls an **evolved mind**, whatever its people and however it comes to be.
+
 ## Convergence, Not Enforcement
 
 Here the filing goes wrong most often, so the record states it flatly: **an archetype explains why a pattern keeps being arrived at. It does not hold anything shut.** Nothing in the Cascade reaches down into a machine room, and nothing in it steers a storm. An archetype is a vocabulary, not a mandate: the theorem is available, not compulsory, and nothing above the Material layer marks the cultures that have not proved it yet. The ecological guard above is the same rule in the other domain: it damps; it does not save.
