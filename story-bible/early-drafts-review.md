@@ -125,14 +125,14 @@ general category, not the agency's staff, and stands.
 
 | Page | First written | By | Copilot commits | Lane | Status |
 |---|---|---|---|---|---|
-| `src/seasons/s01/e01/s01e01c01.md` | 2026-05-27 | Copilot | 6 | Fable | pending |
-| `src/seasons/s01/e01/s01e01c02.md` | 2026-05-27 | Copilot | 5 | Fable | pending |
-| `src/seasons/s01/e02/s01e02c01.md` | 2026-05-27 | Copilot, from a Sudowrite draft (Dermot, 10 Nov) | 4 | Fable | pending |
-| `src/seasons/s01/e02/s01e02c02.md` | 2026-05-28 | Copilot | 2 | Fable | pending |
-| `src/seasons/s01/e02/s01e02c03.md` | 2026-05-28 | Copilot | 2 | Fable | pending |
-| `src/seasons/s01/e02/s01e02c04.md` | 2026-05-28 | Copilot | 3 | Fable | pending |
-| `src/seasons/s01/e02/s01e02c05.md` | 2026-05-28 | Copilot | 3 | Fable | pending |
-| `src/seasons/s01/e03/s01e03c01.md` | 2026-07-01 | committed by Dermot; origin not remembered | 1 | Fable | pending |
+| `src/seasons/s01/e01/s01e01c01.md` | 2026-05-27 | Copilot | 6 | Fable | stands (Fable, 15 Nov, #1747); one optional clause naming the hatch clock as Lúnasa's repeater offered, not made (`open-questions.md`) |
+| `src/seasons/s01/e01/s01e01c02.md` | 2026-05-27 | Copilot | 5 | Fable | stands (Fable, 15 Nov, #1747) |
+| `src/seasons/s01/e02/s01e02c01.md` | 2026-05-27 | Copilot, from a Sudowrite draft (Dermot, 10 Nov) | 4 | Fable | stands (Fable, 15 Nov, #1747); label and prose already collar-only |
+| `src/seasons/s01/e02/s01e02c02.md` | 2026-05-28 | Copilot | 2 | Fable | dilemma, **ruled A** (Dermot, 15 Nov, *"A: short attachment"*; Fable read, #1747): Galahad's visit to the grove was "seven years ago, on his first posting to a boundary-proximate station", against his twelve years of postings far out; it now reads "on a short attachment to this shore between stations" (#1872). A proposed cut of the closing paragraph was withheld by the counter-critic as a change, offered beside "leave it" |
+| `src/seasons/s01/e02/s01e02c03.md` | 2026-05-28 | Copilot | 2 | Fable | stands (Fable, 15 Nov, #1747); an optional cut of Rook's "explanation is responsibility" note offered, not made |
+| `src/seasons/s01/e02/s01e02c04.md` | 2026-05-28 | Copilot | 3 | Fable | stands (Fable, 15 Nov, #1747) |
+| `src/seasons/s01/e02/s01e02c05.md` | 2026-05-28 | Copilot | 3 | Fable | clarify and prose pass, proposed in #1872 (Fable, 15 Nov, #1747; awaits Dermot): Iona no longer remembers Elvira "from the grove", where no chapter puts her; the last sentence stops at "ordinary clocks" |
+| `src/seasons/s01/e03/s01e03c01.md` | 2026-07-01 | committed by Dermot; origin not remembered | 1 | Fable | stands (Fable, 15 Nov, #1747); four optional words on Elvira having heard the model that morning offered, not made |
 
 ### Characters
 
