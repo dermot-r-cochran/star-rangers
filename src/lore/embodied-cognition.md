@@ -51,7 +51,7 @@ The standard configuration on a Threshold-class station is therefore a systems a
 
 ## The Case in Fur
 
-The same principle appears in biological form, and the record is unsentimental about how well it works. A [cyber-enhanced animal](/star-rangers/glossary/smart-pet/), or an unenhanced one in at least one documented case, carries a world model built by a lifetime of embodied prediction in exactly the way an analytical chassis does, plus sensory channels no chassis is fitted with and a social invisibility no chassis can achieve. [Aldera](/star-rangers/characters/aldera/) reads asymmetry, consent erosion, and obligation loops from inside a room, not from a transcript of it. [Nessa](/star-rangers/characters/nessa/) reads boundary-adjacent signal with no enhancement whatsoever.
+The same principle appears in biological form, and the record is unsentimental about how well it works. A [Smart Pet](/star-rangers/glossary/smart-pet/), or an unenhanced animal in at least one documented case, carries a world model built by a lifetime of embodied prediction in exactly the way an analytical chassis does, plus sensory channels no chassis is fitted with and a social invisibility no chassis can achieve. [Aldera](/star-rangers/characters/aldera/) reads asymmetry, consent erosion, and obligation loops from inside a room, not from a transcript of it. [Nessa](/star-rangers/characters/nessa/) reads boundary-adjacent signal with no enhancement whatsoever.
 
 The Archive notes, without drawing a conclusion from it, that the cheapest embodied minds in the Rangers' service are frequently the first to notice.
 

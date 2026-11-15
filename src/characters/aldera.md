@@ -2,14 +2,14 @@
 layout: character.njk
 title: "Aldera"
 id: aldera
-species: Cyber-Enhanced Cat (Smart Pet, Detective Agency)
-role: Field Observer, Detective Agency Unit
+species: Cat (Smart Pet, Detective Agency)
+role: Field Observer, Undercover Pets Detective Agency
 status: Active
 aliases: []
-tags: [detective-agency, cat, cyber-enhanced, boundary, causeway, season-1, pets, undercover-pets.com]
-description: "A cyber-enhanced cat and detective agency field unit. Highly attuned to asymmetry, consent erosion, and obligation loops."
+tags: [detective-agency, cat, boundary, causeway, season-1, pets, undercover-pets.com]
+description: "A Smart Pet cat and field observer for the Undercover Pets Detective Agency. Highly attuned to asymmetry, consent erosion, and obligation loops."
 image: aldera.jpg
-image_alt: "Aldera, an alert tabby cat with a fine silver implant tracing one ear and a faint lens glint in one eye, sitting upright on a weathered causeway rail above a misty marsh at dawn."
+image_alt: "Aldera, an alert tabby cat wearing a slim plain grey collar, sitting upright on a weathered causeway rail above a misty marsh at dawn."
 gallery:
   - image: field-photo-01.jpg
     image_alt: "A tabby kitten with a black collar sitting in the bow of a boat at sunset, water and a green shoreline behind it."
@@ -19,19 +19,19 @@ gallery:
 
 Aldera was at the Marsh Causeway before the outpost had a new occupant. She had been logging since deep winter, before Elvira arrived in early spring and began her own records. Elvira did not know this until she asked.
 
-She is a cyber-enhanced cat, a field unit in the distributed detective agency network. [Smart pets](/star-rangers/glossary/smart-pet/) and cyber-enhanced animals are the agency's preferred observers in boundary-proximate zones — ordinary robots serve that same function for the police department instead, a different institution entirely. The reason is specific: their cognitive architecture does not layer rationalisation over raw signal. They register asymmetry before they reach for explanation.
+She is a [Smart Pet](/star-rangers/glossary/smart-pet/), a field observer for the Undercover Pets Detective Agency, the agency that also posts [Agent Barsik](/star-rangers/characters/agent-barsik/) at Eden. Smart Pets are the agency's preferred observers in boundary-proximate zones — ordinary robots serve that same function for the police department instead, a different institution entirely. The reason is specific: their cognitive architecture does not layer rationalisation over raw signal. They register asymmetry before they reach for explanation.
 
-She holds two designations at once — [Smart Pet](/star-rangers/glossary/smart-pet/) certification for the cognitive subsystem, and separate [cyborg](/star-rangers/glossary/cyborg/) status for the physical enhancement: two clearances under two regulatory lineages on a single body, neither implying the other. The combination is almost never approved. Harness-design protocols are among the strictest engineering standards the Concord maintains, and clearing a harness for a body that also carries cybernetic modification has happened so seldom that Aldera is very nearly the only instance on record. One quiet consequence travels with her: welfare authorities whose remits cover *cyber-enhanced* animals hold jurisdiction over her that they do not hold over her unmodified colleagues — at any [Compact](/star-rangers/lore/orbital-habitats-compact/) posting, that is the difference between falling inside a local Warden's authority and outside it — which makes her the case the rule was almost never applied to before it had to be reasoned about for her.
+Her designation is the ordinary one. The certified subsystem rides in her collar, as every Smart Pet's does, and nothing is fitted to her body: a Smart Pet is not a [cyborg](/star-rangers/glossary/cyborg/), and Aldera is not one either. Her welfare sits under the same certification and re-certification as Barsik's and [Bubochka](/star-rangers/characters/bubochka/)'s, and under nothing more.
 
 Aldera experiences the [boundary zone](/star-rangers/glossary/boundary-zone/) as texture. A particular wrongness in the air pressure. A microvibration in the reeds with a rhythm nothing biological produces. She knows when something is feeding before she can name what it is feeding on.
 
 She knows this because she was trained to know it. And because she is a cat. Cats have always been better at detecting predators than their companions tend to believe.
 
-## What the Hardware Is For
+## What the Collar Is For
 
-Not for sensing. Her sensitivity to boundary phenomena is natural, predates any augmentation, and is the trait the agency selected her for; the wild cat Nessa reads the same signal with nothing fitted at all. The enhancement is the channel. A cat cannot file a log, and Aldera's entire method is filed logs: the fine implant tracing one ear is the uplink to the agency's distributed network, and the lens in one eye is the record, so that what she logs is what she saw and not a handler's account of it. Nothing about it makes her a better observer. It makes her observations reach the file.
+Not for sensing. Her sensitivity to boundary phenomena is natural, predates the collar, and is the trait the agency selected her for; the wild cat Nessa reads the same signal with nothing fitted at all. The collar is the channel. Aldera's entire method is filed logs, and the certified subsystem she wears is what carries them into the agency's file, so that what she logs is what she saw and not a handler's account of it. Nothing about it makes her a better observer. It makes her observations reach the file.
 
-That is also why it was approved. The cyborg regime's default answer is no, and the certification process exists to define the exceptions; the exception argued for Aldera was the least invasive means to an end the agency could not reach otherwise. A collar-borne recorder is exactly what a boundary-proximate posting strips from an animal, and exactly what a stranger would notice, and a boundary observer who cannot report is no observer. The welfare review that cleared it was long, and the record of it is the reason the same clearance has almost never been given since: it was a case, not a precedent, and every later applicant has had to make its own.
+A collar is also the one thing about her a stranger might notice, which is why the agency posts its observers where a cat in a collar is ordinary: a habitat's research deck, a station desk, a rail on a causeway outpost. A mascot gets left alone with the paperwork. A cat on a rail gets left alone with the marsh.
 
 ## Character Notes
 

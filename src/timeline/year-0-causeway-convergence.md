@@ -31,7 +31,7 @@ The correct response is clarity. Galahad holds survey data that would close the 
 - The failed rituals are not technique errors; the substrate is being deliberately shifted.
 - An Obliger is present and actively maintaining the feeding condition.
 - The correct response is clarity: Galahad must share everything the survey has, ending the ambiguity loop.
-- Aldera has this intelligence but neither Galahad nor Elvira has yet thought to ask a cyber-enhanced cat.
+- Aldera has this intelligence but neither Galahad nor Elvira has yet thought to ask a cat.
 
 See: [Chapter S01E02C01](/star-rangers/seasons/s01/e02/s01e02c01/).
 

@@ -189,7 +189,7 @@ Plurality — a single body hosting more than one person (headmates, or tulpas w
 
 **Elvira** — species filed as *Person, kind not established* (contested — locals call her "the Enchantress," which she finds inaccurate and annoying), Boundary Practitioner / Outpost Keeper at Marsh Causeway for 3 years. Works Etheric-responsive materials (chalk, thread, water, old records) through craft, not magic — mapped, tested, procedural. Structurally incapable of deep fear (a trait she once saw as a flaw, no longer does). Correctly identified the *method* of the Obligers feeding at the causeway but not yet its *nature* — a gap actively being exploited. Notices precise boundary-event vocabulary immediately (this is how she starts to trust Galahad).
 
-**Aldera** — Cyber-enhanced cat, Field Observer for the detective agency network, stationed at Marsh Causeway before Elvira arrived (Elvira doesn't know this yet). Communicates only through filed logs, never volunteers unrequested information (agency doctrine: unsolicited information gets dismissed; requested information gets used). Identified the Obliger feeding signature before Galahad arrived — has the answer that breaks the loop, is simply waiting for someone to ask the right question. Aware of Rook-7 via the network; no direct contact yet.
+**Aldera** — Cat, Smart Pet (collar subsystem only, no cybernetic modification; ruled 15 Nov 2026), Field Observer for the Undercover Pets Detective Agency (Barsik's agency), stationed at Marsh Causeway before Elvira arrived (Elvira doesn't know this yet). Communicates only through filed logs, never volunteers unrequested information (agency doctrine: unsolicited information gets dismissed; requested information gets used). Identified the Obliger feeding signature before Galahad arrived — has the answer that breaks the loop, is simply waiting for someone to ask the right question. Aware of Rook-7 via the network; no direct contact yet.
 
 **Sen** — Human, Senior Archivist at the Survey Archive. A plural mind: three people, Cael (the verifier), Wyn (who holds what the dry record leaves out), and Sen (who fronts most often), sharing one body and one desk. Reconciles institutional records against what actually happened for a living, and has been quietly correcting the record on the Threshold Station chronometer discrepancy — among other closed files — for over a decade, unsigned. Plurality is played as ordinary and lawful, not a disorder or a twist.
 
@@ -470,8 +470,8 @@ in the order they do work:
 1. **What kind of mind it is** — sapience level and substrate. But this is
    *not* the whole story, and the corpus proves it: **Aldera and Tobble both
    present as cats and share almost nothing** — and they are not even the
-   same kind of being. Aldera is an animal: a Smart Pet, cyber-enhanced,
-   carrying a certified subsystem. Tobble is a **person** — a nonhuman
+   same kind of being. Aldera is an animal: a Smart Pet carrying a
+   certified subsystem in her collar. Tobble is a **person** — a nonhuman
    headmate sharing Shepherd's body, whose identity is a ginger cat and who
    has no subsystem at all. (See the trap recorded in the canon-intent note
    below. Do not write "the two cats" in a craft note; that is the exact
