@@ -94,6 +94,77 @@ left as they stand.
 ---
 
 
+## One Lúnasa or two, the neat ring, and the coastlines from orbit — raised by Dermot 15 November 2026, read the same day on Fable — three points OPEN for him as options, none blocking; no page under `src/` and no prompt changes until he chooses
+
+Dermot, verbatim: *"it was originally meant to be the same Lúnasa station but if they have diverged too much then one or both could be renamed"*; then *"Would all Earth satellites and stations fall neatly into one ring in the 29th century?"* and *"Would the earth's coastlines have changed as seen from orbit?"* Each is answered from the record and from plain physics, and put once, as options. Nothing below is canon, and no name is coined.
+
+**1. One Lúnasa or two.**
+
+*The record's* (`src/lore/lunasa.md`, in canon since 13 November at his pick): a Survey Corps station in Earth orbit that keeps the reference time Threshold is checked against. Its time comes down to the shore by link. *"The forty seconds belong to the shore, not to the station in orbit."* Its shape, size, orbit and crew are *"not on file"*.
+
+*The film's* (`video-prompts.md`, *The ring, if a film shows it* and brief D7; `intake-2026-10-30.md`): *"one bead of the ring"*, *"one of the majors"* (a spinning habitat 1.5 to 2 km across), *"a habitat station of the ring and not a stand-alone station"*, at geostationary height, reached by a javelin from a coastal rail and then a second craft. It *"never has the forty seconds"*.
+
+*Where they agree,* which is further than the note under D7 allowed:
+
+- Neither has forty seconds of its own.
+- D7 shows the station as *"a plain silhouette with a soft edge"*, its form never resolved, which is what *not on file* asks for.
+- Geostationary height fits both figures on the lore page. A clock there runs about 47 microseconds a day fast against one on the ground (*"microseconds a day"*). The link's light-time is 0.12 to 0.14 second to any shore that can see it (*"a fraction of a second"*). At the Moon's distance it would be 1.3 seconds, which is not a fraction.
+- A geostationary station hangs over one shore, which a standing time link wants. A low station would be in view for a few minutes in each pass.
+
+The page does not state the orbit, and this entry does not either.
+
+*Where they differ* is the station's kind, and nothing else. The film papers make Lúnasa a civil habitat, one of 360. The record makes it a Corps station. The ring itself cannot be the record's as laid out: near-Earth space on the page holds the Compact's five habitats and New London (`src/lore/habitat-threshold.md`), not 360 large ones.
+
+- **(a) One station.** The film's Lúnasa is the record's, drawn inside a ring that stays the film's own. Two lines of `video-prompts.md` take a dated note (the preamble's *one bead of the ring*, and D7's *the ring with Lúnasa as one bead of it*): on screen Lúnasa is a Survey Corps station keeping its place in the ring's line, not one of the ring's habitats. The 30 October intake's *one of the majors* is answered by the record of his choice, since an intake is not edited. No still and no segment changes, because none names the station or resolves it. `lunasa.md` changes nothing: *"The film's other particulars did not come with it"* stays true of the ring. Points 1 and 2 under D7 close.
+- **(b) Two stations, and the record's keeps the name.** The name stands on nine published pages. The film's station is named nowhere on screen, so it needs no new name, and the brief can call it *the station ahead*. Only the film's title and the same two lines change. The title is his. One is proposed under the `language-design` skill's rule that a name means what it says: *Going Up*, the record's own words for the direction (`CLAUDE.md`: *"Going up is by ascent javelin"*). No station name and no Irish form is coined.
+- **(c) Two stations, and the film keeps the name.** The record's station is renamed: nine pages, a migration-map row, a sweep, his own Journal addendum of 13 November, and a new name that only he can give. No page is locked, so it can be done.
+
+**Recommended: (a).** The basis is his own sentence (*"originally meant to be the same"*) and the reading above: the ring diverged from the record, and the station did not. If he would rather the film made no claim on the record's station, then (b). (c) undoes his pick of 13 November for the sake of a film that has not been made.
+
+Not put as an option: whether `lunasa.md` should ever state the orbit. The figures allow geostationary height and do not require it. The page keeps the orbit off file, and it stays there until he says.
+
+**2. Would everything fall neatly into one ring?**
+
+No. A ring is one orbit: one height, in the plane of the equator. The job picks the orbit.
+
+- A close view, a short signal delay and an arriving javelin all want low orbit, a few hundred kilometres up.
+- Nothing above 81° of latitude can be seen from geostationary height, so watching the poles takes an orbit that passes over them.
+- Flat gravity is found at the Lagrange points, and at two of them a station keeps its place without fuel.
+
+Today most working satellites are in low orbit, and only some hundreds sit at geostationary height.
+
+The record agrees, and its own traffic is not in a ring:
+
+- the Compact's five habitats, *"from high Earth orbit out to Eden at the Earth–Sun L2 point"* (`src/lore/orbital-habitats-compact.md`);
+- New London and the Umbral Moon at Earth–Moon L5;
+- the Survey Corps' watch at Earth–Moon L4 (Edvin Thorsby's page) and the fold-staging zone at Earth–Sun L5;
+- low orbit, since *"A javelin's job ends at a stable parking orbit"*.
+
+The record has no ring at all. Its look was fixed on 30 October for films only.
+
+A true dawn sky would hold a little more than D7 shows. A craft in low orbit is in sunlight before the ground is, as the ring is, so twilight is when it shows. At 400 to 1,000 km up it crosses 3 to 8 degrees of sky in ten seconds, six to sixteen moon-widths: slow, and plainly moving. Traffic at middle heights and at the Lagrange points does not visibly move in ten seconds.
+
+- **(a) The sky stays as written,** the arc alone. D7's physics notes gain two sentences saying what else a true sky holds.
+- **(b) One slow point.** In the first terrace take, one small steady point of light crosses a few degrees of sky, clear of the arc. It also shows that the arc is still, which a take with nothing moving in it cannot show. The cost: still 1's *"no satellite streak"* and segment 1's one motion are rewritten, and the point may come back as a streak or drag the arc with it (D7 fails a ring that *"moves across the sky"*). It is tried only after the arc has held in a take, and dropped after two failed takes.
+- **(c) A few points,** in more than one take.
+
+**Recommended: (b).** The basis is the physics and the record's own parking orbits. It is one point and not a few, because the chain gives each take one motion.
+
+**3. Would the coastlines have changed, seen from orbit?**
+
+Some have changed. The record holds a climate history, unpublished: `story-bible/earth-2826.md` (20 October; his *"A"* for the note, and *"Yes, agreed"* on its two open items). Its figures are proposed, not canon. The present is 2626 CE, six centuries on, not eight. The sea stands about 3 m higher, in a band of 1.5 to 4.5 m, and is still rising slowly. Arctic sea ice is gone in late summer. Greenland's edge has drawn back tens of kilometres. The coasts were *"rebuilt to ride water rather than resist it"* (`src/lore/climate-repair-and-terraforming.md`) and never restored. So deltas and low coasts have moved by kilometres, and rocky coasts by very little.
+
+From the ring almost none of it shows. In still 6 the earth is about 200 pixels across at 720p, a third of a pane that fills most of the frame's height, so one pixel is about 60 km. A coast that moved a few kilometres is under a pixel. The largest drowned delta land is a few pixels, often under cloud. The Arctic lies on the globe's edge, squeezed to a sliver. The orbit prompts name no coast and no ice (*"blue ocean and white cloud"*), so they already agree with the note.
+
+- **(a) The orbit shots follow `earth-2826.md`, and stand as written.** One line is added to their judging: a take fails if it draws a broad white cap across the top of the globe, since the film is set in late summer.
+- **(b) As (a), and the ground shots carry the higher sea,** where it can show: older stonework drowned at the foot of the causeway, from the note's own picture vocabulary.
+- **(c) Earth's sea level and ice go on a page now:** one paragraph on `climate-repair-and-terraforming.md`, the note's own smallest step.
+
+**Recommended: (a).** The basis is the arithmetic, and the note's rule that nothing is published from it until a chapter set on Earth needs a figure. (b) is a fair second round. (c) waits for that chapter.
+
+Note with no decision in it, for a later read. `src/lore/ascent-javelins.md` says *"after eight centuries"*, and the Journal's *Science With More Than One Example* speaks of *"eight centuries from now"*. By the dates rule the present is six centuries from our own time. Both were seen in passing and are left as they are.
+
+
 ## The *Four Seconds* clip, re-staged — written 15 November 2026 on Fable — two points put as options with a recommendation, the run follows the recommendation unless he says otherwise; not blocking
 
 The prompt owed by point 8 of *The open points of `intake-2026-11-15.md`* (below) is written: `story-bible/video-prompts.md`, *A clip for* Four Seconds, *Re-staged 15 November 2026: the walkway is the subject*. Two parts of 10 seconds. The stopped crowd is the subject, seen from Barsik's bin at knee height; Lev is a small soft figure at the far end, seen only from behind, who never turns. The 3 November prompt is kept under it, marked superseded. Nothing is generated. Two things the ruling and the chapter do not settle:
