@@ -16,7 +16,7 @@ related:
 tags: [intermembrane-bleed, membrane-resonance, etheric, post-11-manifold, boundary-zone]
 ---
 
-**Intermembrane Bleed** is the Survey Corps' technical term for what boundary-zone workers used to just call "Etheric effects": the measurable intrusion of one universe's archetypal templates into an adjacent one, carried through the trans-concordant constraint field described in the [The Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/).
+**Intermembrane Bleed** is the Survey Corps' technical term for what boundary-zone workers used to just call "Etheric effects": the measurable intrusion of one universe's archetypal templates into an adjacent one, carried through the trans-concordant constraint field described in [The Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/).
 
 Each **primary universe** sits on its own bounded cosmic membrane within that manifold. A [Concordant Zone](/star-rangers/glossary/concordant/) is a region inside one, never a membrane itself. At most separations, adjacent membranes stay far enough apart that Etheric templates on one side have no measurable effect on the other. Where the [Interval](/star-rangers/glossary/interval/) between them narrows, the two membranes' template fields begin to interact.
 
