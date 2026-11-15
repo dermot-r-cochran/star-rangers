@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Critic read of #1845 and #1846: the hub-life notes brought into step with the page** (2026-11-15, Fable read, Opus counter-critic). Nothing in `src/` changes. `story-bible/ecology-design.md` still said nothing from its *Habitat axes* section was written to `src/`; it now lists what *What Lives Near the Axis* states, which binds. Its hub-hygiene line named the Medical Corps, a Ranger corps with no jurisdiction on a habitat; it now says the habitat's own maintenance. Its line on real weightlessness no longer says nothing ran past months. The hub fly prompt (`images.md` § 52) put the fly on *the far side of the pipe*; it now says the underside, in plain view. One wording point on the page goes to Dermot in `open-questions.md`.
+
 ## [1.69.0] — 2026-11-14
 
 The Common Manifold now lies above the bulk: a new glossary entry for the Local Bulk, a reader's note for those who know the physics, and the pages on membranes and gravity brought into step with the ruling. Life near a spinning habitat's weightless axis is designed and written up, with an image prompt for the hub fly. Two critic reads repair a few lines on the new place pages and the cosmology pages, and the artefact extractors follow the fluency pass.
