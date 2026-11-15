@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **What Muffin feeds on, recorded** (2026-11-15, Opus record, at Dermot's *"Muffin feeds more on electromagnetic energy and other forces, including brain energy"*). `story-bible/intake-2026-11-15.md` records it with three seams for a Fable read: the lore line *"nothing here reads a mind"*, the small yes as the source, and plain physics. Nothing in `src/` changes yet.
+- **What Muffin feeds on, recorded** (2026-11-15, Opus record, at Dermot's *"Muffin feeds more on electromagnetic energy and other forces, including brain energy"*). `story-bible/intake-2026-11-15.md` records it with three seams for a Fable read: the lore line *"nothing here reads a mind"*, the small yes as the source, and plain physics. The same intake records his jovian planet whose rings *"interact like neurons"*, unplaced. Nothing in `src/` changes yet.
 
 - **Nothing Taken cut into Imagine clips** (`story-bible/video-prompts.md`, 2026-11-15, Fable, at Dermot's *"You may still prompt each 10 second interval and use the last frame to extend into the next one"*). Director mode was removed from Grok today, so brief D2 gains nine paste-ready prompts of 10 seconds each, six new shots and three extensions from a last frame, with the spoken line for each, a judging line for each and an empty version table. Nothing is generated and nothing in `src/` changes. The brief itself is untouched.
 
