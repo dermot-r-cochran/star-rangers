@@ -135,6 +135,10 @@ const SECTION_TARGETS = [
   // entry's own header staying a designed card. Filed under src/images/codex/
   // beside the cards; landscape like every other body image.
   { match: /^###\s*\d+\.\s*Codex art/i, dir: 'codex' },
+  // Chapter illustrations (Dermot, 15 November 2026: "An image for every
+  // chapter"). Filed under src/images/chapters/ as <chapter id>.jpg, the
+  // directory chapter.njk has rendered `image:` from since 2026-07-30.
+  { match: /^###\s*\d+[a-z]?\.\s*Chapter illustrations/i, dir: 'chapters' },
 ];
 
 function parseArgs(argv) {
