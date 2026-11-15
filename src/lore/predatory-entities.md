@@ -56,7 +56,7 @@ Cute predators (Class III: non-sapient) operate at the micro-scale of consent. N
 
 They are non-sapient. Their behaviour is instinctive pattern-matching against vulnerability signals, not strategic planning. The damage accumulates through habit: the repeated training of a person not to refuse.
 
-**How to counter them:** Robots and cyber-enhanced animals of the detective agency are notably good at detecting cute predators early. Their asymmetry detection is not distorted by social pressure to be polite.
+**How to counter them:** Robots and the Smart Pets of the detective agency are notably good at detecting cute predators early. Their asymmetry detection is not distorted by social pressure to be polite.
 
 ## See Also
 
