@@ -6,7 +6,7 @@ species: Human
 role: "Resident, Eden Space Habitat — a boy of about eight, keeper of one cat and, on an application in the compliance queue, of Muffin"
 status: Active
 image: "lev.jpg"
-image_alt: "A boy of about eight walking along a pale curving habitat deck, carrying a low, rounded, seamless pale capsule with one tiny light in both arms against his chest, serious and intent, three adults stopped behind him watching, and the habitat's green terraces beyond the deck's rail."
+image_alt: "Lev Saunders grown, a man of about thirty with short brown hair in a grey jumper, crouched at a pale fitted water trough on an Eden ring terrace, his hand in the water beside a single strawberry plant with one red fruit, his eyes on it; behind him the green planted terraces climb and curve upward, a low pale tending robot works the beds, and a few people are far off."
 aliases:
   - "the boy with the cat"
   - "the boy with the wrong rabbit"
