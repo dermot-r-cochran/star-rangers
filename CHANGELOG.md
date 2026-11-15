@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Three Season 0 chapter pictures corrected by edit** (`src/images/chapters/`, 2026-11-15, Fable, at Dermot's notes on the pilot). In *Beyond MSC Liability* the three officers no longer stand nose to the hatch; in *What They Were Forbidden to Become* Solano signs a matte leaf with a stylus and the gallery wears the century's dress; in *No Longer Supplementary* Pitch and Kilbride no longer share one head of hair. Each is an image edit of the filed frame, recorded in `story-bible/images.md` § 53 with the alt text and clip L's wording brought into line.
+
 ## [1.70.0] — 2026-11-15
 
 Children are now pictured grown, with four portraits remade, and made minds are bounded: no cosmic superintelligence, no AI apocalypse, no microscopic nanobots, and design left to evolved minds by choice. Aldera becomes a collar-only Smart Pet whose collar carries sensors, and the change is carried through the early drafts and Season 1 labels. Every Journal essay opens with one of Dermot's photographs, Season 0's six chapters each carry a picture, and the footer theme music is gone from every edition. Several film briefs are cut into Imagine clips and start stills, and Fable's critic reads repair a handful of lines.
