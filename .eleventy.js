@@ -218,8 +218,8 @@ module.exports = function(eleventyConfig) {
   // per-domain tagline. Resolved from EDITION, falling back to THEME so the
   // untracked deploy.conf on every live clone keeps working unchanged - see
   // that file's MIGRATION SAFETY note before renaming any id.
-  // Throws on a duplicate id or a themeAudio file that isn't in src/audio/ -
-  // see validateEditions for why those two in particular need checking here
+  // Throws on a duplicate id or a missing theme file -
+  // see validateEditions for why these need checking here
   // rather than by check-internal-links.js.
   validateEditions({
     audioDir: path.join(__dirname, "src", "audio"),
