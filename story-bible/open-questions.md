@@ -164,6 +164,17 @@ From the ring almost none of it shows. In still 6 the earth is about 200 pixels 
 
 Note with no decision in it, for a later read. `src/lore/ascent-javelins.md` says *"after eight centuries"*, and the Journal's *Science With More Than One Example* speaks of *"eight centuries from now"*. By the dates rule the present is six centuries from our own time. Both were seen in passing and are left as they are.
 
+## The Fable read of the eight early Season 1 chapters (#1747) — 15 November 2026 — one dilemma OPEN for him, four optional lines offered beside "leave it"; none blocking
+
+Six of the eight stand. S01E02C05 has a proposed clarification and a one-sentence cut (PR_NUM). Full read: the Fable report of 15 November, summarised here.
+
+- **Galahad's earlier visit to the grove (S01E02C02), a dilemma.** *"He had been to the grove once before, seven years ago, on his first posting to a boundary-proximate station."* The grove is 1.3 km from Threshold, so this puts his first boundary posting on this shore in 2819, against S01E01C03's *"Twelve years of boundary postings"* and his page (joined 2814, six stations *"a very long way out"*, transferred to Threshold in 2826). Choices: **A** keep the visit and the seven years and change only the occasion, e.g. *"on a short attachment to this shore between stations"* (recommended: it moves the fewest recorded facts); **B** his first boundary posting was here, and his page and S01E01C03 change; **C** the warning reached him second-hand and he was never at the grove; **D** leave it.
+- **S01E02C02's closing paragraph**, *"Whatever had used those three centuries to get comfortable was still here. The question was what they were going to do about it."* Fable proposed ending the block on *"Someone had known."*; the counter-critic withheld it as a change, since `canon_facts` carries the three centuries. Options: cut it, or leave it (recommended).
+- **S01E01C01:** one clause naming the hatch clock as the repeater of Lúnasa's standard. Options: add it, or leave it (recommended; the 13 November audit left chapter prose as written).
+- **S01E02C03:** cut Rook's *"explanation is responsibility"* note, which restates Syra's block. Options: cut, or leave it (recommended).
+- **S01E03C01:** four words noting Elvira heard the model that morning. Options: add, or leave it (recommended).
+- **S01E02C05's "three nights ago"** may read as *last night* if the episode is one day. Left; either reading stands.
+- **For the Opus lane:** Aldera's page says the collar is *"Not for sensing"*, yet her logs file a 3:7 ratio (bound in S01E02C03's `canon_facts`) and a four-percent pressure figure. No implant is implied; one sentence on her page (she registers, the subsystem writes the figure) would close it.
 
 ## The *Four Seconds* clip, re-staged — written 15 November 2026 on Fable — two points put as options with a recommendation, the run follows the recommendation unless he says otherwise; not blocking
 
