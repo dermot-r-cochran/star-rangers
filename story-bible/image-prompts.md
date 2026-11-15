@@ -2184,3 +2184,353 @@ Dermot's notes on the pilot, the same evening: the three officers nose to the ha
 > The woman on the right, in the long dark slate tunic: her hair is plain iron grey, steel grey with a little white at the temples, drawn back tight, flat and smooth against her head and tied close at the nape into one short straight tail that hangs a hand's breadth down over the back of her stand collar. A neat, severe, practical pilot's tail: no bun, no knot, no loose strands, no clip.
 >
 > Neither face is shown; neither wears spectacles; both still look out of the window. No text, no lettering, no new objects. Keep the grain and softness of the original photograph; a documentary photograph, not a render, not a painting.
+
+## 2026-11-15 — Season 1 Episode 0 chapter illustrations, chapters 0 to 6 (Fable, desktop)
+
+Dermot, 15 November 2026, on the pilot: *"Yes, roll it out"*. The prompts of record are in `story-bible/images.md` § 55 and are not repeated here; this section holds the run and the edit prompts. **Tool** for all seven: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` for the generations (two variations each, references attached) and for the edits (one take each); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893. **Plate:** Dermot's *Grey heron on the reef* for `s01e00c03`, filed at finish 0. The other references are filed frames of the same people and places, named per entry.
+
+### chapters/s01e00c00.jpg — filed 15 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 55; reference `src/images/characters/elvira.jpg` (her hair and build, from behind).
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same woman seen from behind in the grey-green coat, her dark hair, the same tabby cat on her shoulder with exactly the same face, flattened ears and stare, the gravel road, the grass, hedges and frost, the river, the low sun and long shadows, the stone abbey with its dark roof and shut gate, the thin white ascent trail in the sky, the framing, focus and grain. Change only three things, all in the background.
+>
+> 1. The fences: remove every fence post, strand of wire and the metal field gate at the right-hand edge, and the posts and wire along the left of the road. The road is bordered only by rough grass, bare thorn hedge and the low dry-stone wall.
+>
+> 2. Beside the road on the right, about half way to the abbey gate, add one slender waist-high marker post of smooth pale matte composite, perfectly plain, with a softly rounded top that carries a single small steady pale indicator. It has no wire, no sign, no reflector and no lamp. A second identical post stands small and far off beside the abbey gate.
+>
+> 3. On the grass verge to the left of the abbey gate, small and soft in the distance, add one low field-tending machine at rest: a smooth rounded sealed body of pale matte composite about the size of a sheep, low to the ground on four short jointed legs, plain, with no head, no face, no wheels, no rotors and no lights. It is still.
+>
+> No text, no lettering, no numerals, no signage, no vehicles, no people added. A documentary photograph, not a render.
+
+
+### chapters/s01e00c01.jpg — filed 15 November 2026
+- **Kind:** generation (text alone)
+- **Source:** `images.md` § 55; no reference.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s01e00c02.jpg — filed 15 November 2026
+- **Kind:** generation (text alone), then an edit
+- **Source:** `images.md` § 55; no reference.
+- **Run:** Round 1: both variations drew the mirror as a frying pan; an edit of variation 2 (first prompt below) kept the pan and was dropped. Round 2, with the mirror re-described: variation 2, then edit take 1 of 1 (second prompt below), filed.
+- **Edit prompt 1:**
+
+> Edit this photograph. Keep everything exactly as it is: the same two hands and grey-green sleeves pressing on the same river stones, the ring of stones on the pale stone floor, the dark tray of low candles at the left, the bare feet, pale robe and short pale rod of the standing man, the dark stone wall with its one small green indicator, the candlelight, the framing, focus and grain. Change only two things.
+>
+> 1. The mirror in the middle of the ring: it now looks like a frying pan. Make it plainly a hand mirror lying flat on its back: a thin flat round disc of real mirror glass, completely flat with no raised sides and no depth, set in a very thin low rim of dull grey composite with a short slim flat handle. Its glass is a true mirror, dark because it reflects the dark ceiling, with a soft cold bloom of mist across it. In the mist there is one small faint paw print of a cat, a little irregular and slightly smeared, as if a wet paw had pressed the glass from beneath and the mark is already fading at its edges. It is a trace in condensation, not a printed symbol, not an icon and not an engraving.
+>
+> 2. The single lit candle standing on top of the far stone of the ring: remove it. That stone is bare like the others, and the far side of the ring is lit only by the candles on the tray.
+>
+> No text, no lettering, no numerals, no glow from the mirror, no light rays, no new objects. A documentary photograph, not a render.
+
+- **Edit prompt 2:**
+
+> Edit this photograph. Keep everything exactly as it is: the same two hands and grey-green sleeve reaching in from the left and pressing on the river stones, the ring of river stones on the old pale stone flags, the tray of candles at the left edge, the bare feet, pale robe and short pale rod of the standing man at the right, the candlelight, the framing, focus and grain. Change only three things.
+>
+> 1. The dark rectangular framed glass lying in the middle of the ring looks like a tablet computer. Replace it with an unmistakable hand mirror lying flat on its back in the same place: an upright oval of real silvered mirror glass about the size of a spread hand, held in a very thin plain rim of pale bone-coloured composite, with a long slender tapering handle of the same pale material lying flat on the floor and pointing toward the bottom of the picture. The oval glass is a true mirror: it reflects the dark ceiling and one small bright candle flame, and a soft cold bloom of mist lies across it. In the mist is one small faint print of a cat's paw, slightly smeared and uneven, a trace in condensation that is already fading at its edges. Nothing on the mirror glows.
+>
+> 2. The single dark candle standing alone on the floor beyond the ring: remove it. The floor there is bare flagstone.
+>
+> 3. The large framed metal panel in the wall at the back: make it much smaller and plainer, one small smooth sealed housing of pale composite the size of a hand, set flush in the stone, with the same single steady green indicator and nothing else on it. The rest of the wall is old dressed stone.
+>
+> No text, no lettering, no numerals, no screens, no light rays, no new objects. A documentary photograph, not a render.
+
+
+### chapters/s01e00c03.jpg — filed 15 November 2026
+- **Kind:** Dermot's own photograph as the plate, edited
+- **Source:** plate `dermot-cochran-photography/src/images/photos/grey-heron-on-the-reef.jpg` (*Grey heron on the reef*, Dublin, 2026); reference `src/images/characters/nessa.jpg` (her face and coat). The edit prompt is the prompt of record in `images.md` § 55.
+- **Run:** Round 1 of 1, variation 1 filed, finish 0.
+
+### chapters/s01e00c04.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 55; reference `src/images/characters/xenon.jpg` (the robot, the bay and the small machine).
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s01e00c05.jpg — filed 15 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 55; reference `src/images/characters/syra.jpg` (her face).
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same woman with exactly the same face, freckles, hair, hands, dark olive garment and pose, the same three pale grey sealed cylinders with their small indicators, the dark padded tray, the bench and the dark blank sheet on it, the quilted pale walls, the port and the frost plain beyond it, the framing, focus and grain. Change only three small things.
+>
+> 1. The tags: remove the three brown paper luggage tags and their strings. In place of each, the cylinder carries one small plain blank band of paler grey composite, a finger's width wide, set flush around its end like a collar. Nothing hangs from the cylinders.
+>
+> 2. The wall to the right of the port: remove the small switch plate with two round buttons. That patch of wall is the same plain quilted panel as the rest.
+>
+> 3. The frame of the port: remove the row of bolt heads around it. The port is set in one smooth seamless rounded surround of pale composite with no bolts, rivets or screws.
+>
+> No text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
+
+
+### chapters/s01e00c06.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 55; references `src/images/characters/perrin-ashgrove.jpg` (his face and the room), `src/images/characters/marlow-calloway.jpg` (his face and instrument) and `src/images/characters/tissadelle/season-1-cadet.jpg` (her face and hair).
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same long wood-panelled room, benches and floor, the same crowd of seated dock workers in dusty coveralls, singing, the same woman with short dark auburn hair seen from behind at the table in the foreground with the pale blank sheet and stylus under her hand, the same red-haired young woman in the dark green top standing and singing with exactly the same face, the same bearded drummer and the same strings player with exactly the same faces, hair and builds, the framing, focus and grain. Change only four things.
+>
+> 1. The two seated musicians' clothes: they are not in uniform. Replace both plum-grey uniforms. The drummer wears his own plain clothes: a loose collarless shirt of undyed oatmeal cloth with the sleeves pushed up, and plain dark brown trousers. The strings player wears his own plain clothes: a plain rust-brown knitted top with a high neck, and plain dark grey trousers. No rank tabs, no badges, no patches, no insignia on either.
+>
+> 2. The drum: replace the tall goblet drum standing on the floor with a shallow round frame drum, a wide flat hoop of pale wood with a skin head, held upright on his knee with one hand and played with the other.
+>
+> 3. The cups: replace every paper cup in the room with a small plain handleless beaker of matte pale stoneware.
+>
+> 4. The walls: remove the small red box high on the right-hand wall and the small blue sign on the far left wall. Those patches are plain pale wood panel.
+>
+> No text, no lettering, no numerals, no microphones, no screens, no new objects. A documentary photograph, not a render.
+
+## 2026-11-15 — Season 1 Episode 0 chapter illustrations, chapters 7 to 13 (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 56. **Tool** for all seven: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; one take per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1.
+
+### chapters/s01e00c07.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md`, the Season 1 Episode 0 chapter entries; reference `src/images/characters/sunniva-holm.jpg` (the housings and the room only).
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s01e00c08.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md`, as above; references `src/images/characters/ulessa.jpg` and `src/images/characters/isren-farrowkin.jpg` (each body, nothing of the rooms).
+- **Run:** round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same terrace, floor, parapet, wall, doorway, sky, low sun and long shadows, the same tall three-legged ochre and russet being with exactly the same body, legs, neck, head and pose, the same wide green fern-like vanes exactly where they are, the framing, focus and grain. Change only one thing: the low body at the foot of the green vanes.
+>
+> At present that low body looks like a tortoise: a domed shell with plates, four stubby clawed legs and a tail end. It must not look like a tortoise, a turtle or any animal. Instead, the vanes rise from one low, broad, smooth mound of thick dark grey-green hide, wider than it is tall, resting flat and close on the floor like a low cushion, with a soft matte leathery skin continuous with the bases of the vanes, no shell, no plates, no scutes, no pattern, no head, no neck, no tail, no eyes, no claws and no separate legs showing; at most three or four blunt rounded lobes of the same hide where it meets the floor. It keeps the same size and place and casts the same shadow.
+>
+> No text, no lettering, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e00c09.jpg — filed 15 November 2026
+- **Kind:** generation with a reference, then an edit and a crop
+- **Source:** `images.md`, as above; reference `src/images/characters/karla-wender.jpg` (her face, hair, build and shell).
+- **Run:** round 1 of 1, variation 1, then edit take 1 of 1; the right-hand 4.5 per cent of the frame cropped off (2752×1536 to 2628×1466, 16:9 kept) to lose a sliver of a port.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same small pale compartment, the same curved pale board with its dark matte sheets, the same two seats, the same second pilot beyond, the same woman in the same charcoal shell with the indigo collar tab, in exactly the same pose with both hands resting on the board's edge, the framing, focus and grain. Change only three things.
+>
+> 1. The left edge of the picture: remove the window with its rounded frame. That wall is plain smooth pale composite panel like the rest of the room, with no window, no port and no opening. The compartment has no windows at all.
+>
+> 2. The top of the picture: remove the bright rectangular ceiling light panel. The ceiling is plain smooth pale composite, softly and evenly lit, with no light fitting, panel, lamp or glowing shape on it.
+>
+> 3. The woman's age: she is exactly the same woman, the same bone structure, nose, mouth, jaw, brow and short brown hair pushed back, but seventeen years younger: thirty years old, not in her forties. Smoother, firmer skin, no deep lines at the mouth or between the brows, only the faintest lines at the eyes, no grey in her hair. Still serious, composed and intent, eyes down on the board. Not a different woman, not glamorous, no make-up.
+>
+> No text, no lettering, no numerals, no glowing screens, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e00c10.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md`, as above; reference `src/images/lore/threshold-station.jpg` (the station's hull-form and three lights only).
+- **Plates considered:** `great-south-wall-light-track`, `poolbeg-watchers-at-sunrise`, `the-muglins`, `irelands-eye-path-to-tower`; none is a whitewashed light on shingle, and the first is already the station's plate.
+- **Run:** round 1 of 1, variation 1 filed.
+
+### chapters/s01e00c11.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md`, as above; reference `src/images/characters/donncha-o-laoire.jpg` (the house, yard and hillside only).
+- **Run:** round 1 of 1, variation 2 filed.
+
+### chapters/s01e00c12.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md`, as above; reference `src/images/characters/benedek-ronai.jpg` (his face, build and uniform, and the room's walls).
+- **Run:** round 1 of 1, variation 1 filed.
+
+### chapters/s01e00c13.jpg — filed 15 November 2026
+- **Kind:** generation (text alone), then an edit
+- **Source:** `images.md`, as above; no reference.
+- **Run:** round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same dark room, the same pale limewashed ceiling and dark beam, the same hard white bar of moonlight across the ceiling and the same soft rippled amber-gold light over the rest of it, the dark blanket at the bottom edge, the thick wall, the deep window reveal, the framing, the darkness and the heavy grain. Change only two things, both on the right-hand wall.
+>
+> 1. The white box on the wall to the right of the window, and the thin cable running down from it: remove them entirely. That wall is plain rough pale limewashed stone with nothing on it.
+>
+> 2. The window inside its deep reveal: remove the white-painted window frame with its glazing bars and catch. Instead the opening holds one single sealed pane of clear glass set flush in the stone with no visible frame, and in front of it one plain flat shutter panel of pale matte composite with softly rounded corners, slid across so that it covers all of the opening except one vertical gap the width of a hand at its left side. Through that gap is night: cold white moonlight above and a faint warm glow lower down. No handle, no hinge, no catch, no bars.
+>
+> The slim grey heating conduit under the ceiling stays. No lamp, no person, no text, no lettering, no new objects. A documentary photograph taken in near darkness, not a render.
+
+## 2026-11-15 — Season 1, Episode 1 chapter illustrations (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 57. **Tool** for all four: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; one take per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1.
+
+### chapters/s01e01c01.jpg — filed 15 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` (Season 1, Episode 1 chapter illustrations); references `src/images/characters/syra.jpg` (her face, hair and garment), `src/images/characters/rook-7.jpg` (its shell and lens cluster) and `src/images/characters/tissadelle/season-1-first-posting.jpg` (the dock's walls and pressure door).
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2 filed.
+
+### chapters/s01e01c02.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md`; references `src/images/characters/rook-7.jpg`, `src/images/characters/syra.jpg` and `src/images/characters/galahad-thorne.jpg` (faces, shell and dress only).
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same small windowless office, walls, storage and table, the same seated woman with exactly the same face, hair and dark garment, the same standing bearded man with exactly the same face and grey-green coat, the same robot with the same pale grey shell seen from behind in the same place, the framing, focus and grain. Change only two things.
+>
+> 1. The robot's head: at present its head is turned back toward the table. Turn its head the other way, so that the robot faces the plain blank wall at the right of the picture, an arm's length in front of it, with its cluster of round dark sensor lenses pointed squarely at that bare wall and away from the table, the two people and the camera. We now see the back and side of its head. Nothing is on the wall: no crack, no mark, no glow, no beam, no light from the lenses.
+>
+> 2. The thin grey leaves laid in a row on the table: make every one of them completely blank, plain matte pale grey with no lines of writing, no print, no dots, no holes, no marks. The woman's hand still rests flat on one of them.
+>
+> No text, no lettering, no numerals, no screens, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e01c03.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md`; reference `src/images/characters/rook-7.jpg` (its shell and proportions, from behind). Plates considered and not used: `great-south-wall-light-track`, `the-muglins`, `killiney-bay-to-the-sugar-loaf`, `low-water-in-glenasmole`.
+- **Run:** `scripts/image-edit.js`, round 2 of 2, variation 2 filed. Round 1 (two variations) failed on a slender railed tower, upright foreground walkers and a slim glossy robot; the prompt of record in `images.md` is round 2's.
+
+### chapters/s01e01c04.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md`; references `src/images/characters/tissadelle/season-1-cadet.jpg` (her face and uniform) and `src/images/characters/tissadelle/season-1-first-posting.jpg` (the dock).
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then two single-take edits of that same take. The first bound the log with a spiral wire and was dropped; the second, the same prompt with the binding described (below), is filed.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same woman with exactly the same face, freckles, red hair, hands, pose and dark slate-grey uniform with its two-bar tab and diamond patch, the same pale dock behind her with its shut rounded pressure door, the same long dark window with the faint line of the sea at night, the framing, focus and grain. Change only four things.
+>
+> 1. The ceiling: remove the bright rectangular light panels and the dark grilles. The ceiling is plain smooth pale composite with no light fitting, no panel, no lamp, no grille and no glowing shape anywhere on it. The dock is on its night cycle, so the hall behind her is a little dimmer than now, softly and evenly lit from no visible source, while her face, hands and the log stay as bright as they are.
+>
+> 2. The log: remove the paper book with its ruled, written pages. In its place, lying open and flat in the same spot, is a slim bound set of about a dozen thin rigid matte leaves, pale warm grey, each leaf a couple of millimetres thick with softly rounded corners, like thin sheets of pale slate, joined along the middle by one plain flat continuous fold of the same grey material. There is no wire, no spiral binding, no rings, no coil, no stitching and no visible spine hardware of any kind. Both open leaves are completely blank: no ruled lines, no writing, no print, no marks, no glow. It is not paper and not a screen. Her left hand rests flat on it as now.
+>
+> 3. The thing in her right hand: a slim plain signing stylus, a short smooth tapered rod of dark matte composite with a soft rounded tip, no clip, no cap, no nib, no metal band and no button, its tip resting on the leaf.
+>
+> 4. The desk: remove the recessed dark panel at the right edge of the desk top and the small lit rectangles on the far walls. The desk is one plain seamless sill of pale matte composite with nothing on it but the log; the far walls are plain.
+>
+> No text, no lettering, no numerals, no screens, no new objects. A documentary photograph, not a render.
+
+## 2026-11-15 — Season 1, Episode 2 chapter illustrations (Fable, desktop)
+
+The six prompts of record are in `story-bible/images.md` (the S01E02 chapter section) and are not repeated here; this section holds the run and the edit prompts. **Tool** for all six: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two takes per prompt, one take per later edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893. **Plates:** one of Dermot's photographs, for C02. The other references are filed frames of the same people and places, named per entry.
+
+### chapters/s01e02c00.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md`, S01E02 chapter section; references `src/images/characters/elvira.jpg` (the room, her coat and hair) and `src/images/characters/aldera.jpg` (the cat).
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same stone room, the same woman seen from behind with the same hair, coat and hand, the same table and record books, the same open composite door, the same tabby cat sitting on the threshold looking in, the same reed marsh and mist beyond, the small rounded housing with its green indicator, the two glass vessels, the framing, focus and grain. Change only three small things.
+>
+> 1. The far right edge of the table: remove the small candle or flame and its holder and the orange glow it throws. Nothing stands there; the table top at that corner is bare grey composite, lit only by the cold blue light from the doorway. No flame, no candle, no lamp anywhere in the picture.
+>
+> 2. The open record book under her hand: make both pages completely blank, plain pale paper with no lines of writing, no ruled lines, no marks and no drawings. The closed book at the right keeps a completely plain cover with nothing on it.
+>
+> 3. Through the doorway, on the far horizon of the marsh above the mist, add one very small thing: a long, low, smooth, seamless hull-shaped form lying on the horizon in dark silhouette, with three tiny steady warm lights in a row along its waterline. It is far away and small, no taller than the distant tree line, and has no masts, no towers, no cranes and no windows.
+>
+> No text, no lettering, no numerals, no other new objects. A documentary photograph, not a render.
+
+### chapters/s01e02c01.jpg — filed 15 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md`, S01E02 chapter section; references `src/images/characters/galahad-thorne.jpg` (his face, dress and the marsh) and `src/images/characters/elvira.jpg` (her).
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s01e02c02.jpg — filed 15 November 2026
+- **Kind:** an edit of Dermot's own photograph
+- **Source:** plate `birch-avenue-in-winter.jpg` (*Birch Avenue in Winter*, Dublin, 2026), from the `dermot-cochran-photography` checkout; the edit prompt is the prompt of record in `images.md`.
+- **Run:** Round 1 of 1, two takes, take 2 filed as returned.
+
+### chapters/s01e02c03.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md`, S01E02 chapter section; references `src/images/characters/syra.jpg` (her face) and `src/images/characters/rook-7.jpg` (the chassis).
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same room, walls and coving, the same woman with exactly the same face, freckles, hair, garment and pose, the same man seen from behind at the left, the same pale grey robot standing at the end of the table, the dark slate table top and its pale drawn lines, the window, the grey water and sky, the framing, focus and grain. Change only three things.
+>
+> 1. The ship seen through the window: remove the present-day warship with its mast, bridge and superstructure. In its place, lying alongside the same quay, is one long, low, smooth, seamless hull of pale grey composite, rounded like a pebble or the back of a whale, with no mast, no bridge, no tower, no funnel, no railings, no windows, no guns and no antennae, and one small steady light at its waterline. Remove the bollard and any posts on the quay.
+>
+> 2. The drawing on the table: remove the single separate circle under the woman's fingertip, so that the drawing has exactly three plain circles, the three that sit together in a row, joined to one another by thin straight lines. Her fingertip rests on the bare slate where the lines from the three circles meet. Leave the long wavering traces as they are.
+>
+> 3. The table: remove the bright metal rim and metal edge. The table is one thick slab of matte dark grey composite with a plain rounded edge of the same dark material, standing on a solid plinth of the same material; no steel, no metal legs, no frame.
+>
+> No text, no lettering, no numerals, no screens, no glow, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e02c04.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md`, S01E02 chapter section; reference `src/images/characters/dr-iona-vale.jpg` (her face and the bay).
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s01e02c05.jpg — filed 15 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md`, S01E02 chapter section; reference `src/images/characters/elvira.jpg` (her face and coat).
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same room, walls, table and bench, the same woman standing at the right with exactly the same face, hair, expression, grey-green coat and pose, the same wide window with its rounded reveal, the grey water, the far breakwater and the grey sky, the dark slate and stylus on the table, the framing, focus and grain. Change only three things.
+>
+> 1. The small boat under way on the water: remove the present-day workboat with its wheelhouse, mast and railings. In its place, in the same spot and the same small size, is one low, smooth, seamless hull of pale grey composite, rounded like a pebble, with no cabin, no wheelhouse, no mast, no railings, no windows and no people on it, and one small steady light at its waterline, leaving a faint wake.
+>
+> 2. The bearded man seated at the table, out of focus: replace his padded outdoor jacket with plain field service dress, a shirt-jacket of matte grey-green woven cloth with a low band collar and a front that shows no fastening, completely plain. No sleeve patch, no logo, no zip, no fleece, no quilting, no pockets with flaps. His face, beard, hair and gesture stay the same.
+>
+> 3. The dark-haired woman seated opposite him, out of focus: replace her quilted jacket with a plain modular field shell of matte charcoal cloth over a high-necked liner, smooth and unquilted, with no zip and no logo; her dark hair is pinned back plainly. Her pose stays the same.
+>
+> No text, no lettering, no numerals, no screens, no glow, no new objects. A documentary photograph, not a render.
+
+## 2026-11-15 — Season 1, Episode 3 chapter illustrations (Fable, desktop)
+
+The six prompts of record are in `story-bible/images.md` (the Season 1, Episode 3 chapter section) and are not repeated here; this section holds the run and the edit prompts. **Tool** for all six: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each from a prompt file with the references attached, then one take per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893. **Plates:** none of Dermot's photographs (the catalogue was checked; the frames considered are named in `images.md`). The references are filed frames of the same people and places, named per entry.
+
+### chapters/s01e03c01.jpg — filed 15 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md`; reference `src/images/characters/aldera.jpg` (the cat and her collar).
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s01e03c02.jpg — filed 15 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md`; references `src/images/characters/elvira.jpg`, `galahad-thorne.jpg` and `rook-7.jpg` (hair, dress and build; the robot's shell).
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s01e03c03.jpg — filed 15 November 2026
+- **Kind:** generation with a reference, then an edit and a heal
+- **Source:** `images.md`; reference `src/images/characters/elvira.jpg` (her from behind, and the room).
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1; the drone healed out of the sky with `cv2.inpaint` (Telea, radius 5) on a sky rectangle only.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same stone room, the same woman seen from behind in the grey-green coat holding a jar of chalk, the open pale door, the man walking away along the stone causeway through the reeds, the small housing with its green indicator, the grey composite table, the framing, focus and grain. Change only three small things.
+>
+> 1. The jars on the table and the jar in her hand: remove the metal screw-top lids and the screw threads at the necks. Each jar is a plain straight-sided vessel of clear glass with a smooth rim, closed by a flat flush disc of the same clear glass. No metal anywhere on them. The chalk inside them stays as it is.
+>
+> 2. The window on the left: remove the handle and the catch from its frame, and make the frame one plain slim seamless band of matte grey composite set straight into the stone, a fixed sealed pane that does not open, with no hinges, no handle and no opening sash.
+>
+> 3. The flying object in the sky beyond the door: make it much smaller and further away, about a third of its present size, a small flat rounded pale grey survey drone seen at a distance, with no dome and no lights.
+>
+> No text, no lettering, no numerals, no labels, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e03c04.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md`; references `src/images/lore/pelagos-minor.jpg` (the basin), `src/images/characters/dr-iona-vale.jpg` and `syra.jpg` (hair, dress and build from behind).
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same flooded basin, the three straight launch corridors and their cradles, the drowned outlines under the water, the dark rock, the row of pale arched shelters and the queue of tiny figures, the sky, and the same three people seen from behind in the same places with the same hair and stance, the framing, focus and grain. Change only two things.
+>
+> 1. The woman on the left: remove the canvas shoulder bag and its strap entirely. She carries nothing; her plain dark jacket is unbroken across her back and her arms hang at her sides.
+>
+> 2. The man in the middle: his jacket becomes a plain grey-green field jacket of matte woven cloth with a smooth unbroken back and plain shoulders. Remove the shoulder straps and epaulettes, the belt at the waist and the patch on his sleeve, and make his trousers plain, with no cargo pockets.
+>
+> No text, no lettering, no numerals, no insignia, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e03c05.jpg — filed 15 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md`; references `src/images/characters/syra.jpg` (her face and garment) and `elvira.jpg` (her face, and the room).
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same two women with exactly the same faces, hair, hands, clothes and poses, the same grey composite table, the lamp, the stack of old books, the stone walls, the shelf of glass vessels, the man standing in the doorway with his back to the room, the small housing with its green indicator, the framing, focus and grain. Change only one thing.
+>
+> The two open books on the table: make every visible page completely blank, plain old cream paper, a little foxed and worn at the edges, with no lines of writing, no print, no ruled lines, no marks and no diagrams at all. The woman on the left still holds her slim dark stylus with its tip on the blank page; the woman on the right still rests her hands on the blank open pages.
+>
+> No text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e03c06.jpg — filed 15 November 2026
+- **Kind:** generation (text alone), then an edit
+- **Source:** `images.md`; no reference.
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same hands in the same positions, the man's weathered hand held out back uppermost, the two smaller hands holding it, the grey-green sleeves with chalk dust, the white chalk wall with dark flints, the niche, the framing, the shallow focus and the grain. Change only three small things.
+>
+> 1. The object in the niche: remove the small rounded pale case, which looks like an earphone case. In its place, seated flat in the niche and nearly filling its width, stands a field chronometer in its sealed case: one plain upright block of matte dark slate-grey composite with softly rounded edges and corners, about the size of a thick book standing on its long edge, with no lid, no hinge and no seam around its middle; on its front face one narrow recessed horizontal strip of darker matte material, blank and unlit, and beside it one very small steady pale indicator. No dial, no clock hands, no digits, no glass, no buttons. It stays out of focus like the rest of the wall.
+>
+> 2. The mark on the back of the man's hand: keep it in the same place and the same length, but make it a nettle sting and not a scar: a soft band of reddened skin a finger wide with one smooth, slightly raised, paler weal along its middle. Remove the row of small dots and stitch-like marks. The skin is unbroken and dry.
+>
+> 3. The small mark on the woman's hand at the lower left: make it one short thin pale pink line, a small cut already closed and healed shut, clean and dry, not red and not open.
+>
+> No blood, no text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
