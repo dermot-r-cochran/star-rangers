@@ -29,7 +29,7 @@ She knows this because she was trained to know it. And because she is a cat. Cat
 
 ## What the Collar Is For
 
-Not for sensing. Her sensitivity to boundary phenomena is natural, predates the collar, and is the trait the agency selected her for; the wild cat Nessa reads the same signal with nothing fitted at all. The collar is the channel. Aldera's entire method is filed logs, and the certified subsystem she wears is what carries them into the agency's file, so that what she logs is what she saw and not a handler's account of it. Nothing about it makes her a better observer. It makes her observations reach the file.
+Not for noticing. Her sensitivity to boundary phenomena is natural, predates the collar, and is the trait the agency selected her for; the wild cat Nessa reads the same signal with nothing fitted at all. The certified subsystem and its harness do carry sensors, which is how a figure reaches her log: a ratio between two frequencies, a fall of four percent in air pressure. And the collar is the channel. Aldera's entire method is filed logs, and the subsystem she wears is what carries them into the agency's file, so that what she logs is what she saw and not a handler's account of it. What she notices, she notices herself. The collar measures it, and makes it reach the file.
 
 A collar is also the one thing about her a stranger might notice, which is why the agency posts its observers where a cat in a collar is ordinary: a habitat's research deck, a station desk, a rail on a causeway outpost. A mascot gets left alone with the paperwork. A cat on a rail gets left alone with the marsh.
 

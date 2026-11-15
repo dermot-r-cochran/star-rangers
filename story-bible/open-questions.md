@@ -213,7 +213,7 @@ Six of the eight stand. S01E02C05 has a proposed clarification and a one-sentenc
 - **S01E02C03:** cut Rook's *"explanation is responsibility"* note, which restates Syra's block. Options: cut, or leave it (recommended).
 - **S01E03C01:** four words noting Elvira heard the model that morning. Options: add, or leave it (recommended).
 - **S01E02C05's "three nights ago"** may read as *last night* if the episode is one day. Left; either reading stands.
-- **For the Opus lane:** Aldera's page says the collar is *"Not for sensing"*, yet her logs file a 3:7 ratio (bound in S01E02C03's `canon_facts`) and a four-percent pressure figure. No implant is implied; one sentence on her page (she registers, the subsystem writes the figure) would close it.
+- **ANSWERED 15 November 2026 by Dermot**, verbatim: *"Aldera's AI collar subsystem and harness would have sensors and I am not sure why I would have implied otherwise"*. Her page now says the subsystem and its harness carry sensors, which is where her figures come from, and that her noticing stays her own. Raised as: **For the Opus lane:** Aldera's page says the collar is *"Not for sensing"*, yet her logs file a 3:7 ratio (bound in S01E02C03's `canon_facts`) and a four-percent pressure figure. No implant is implied; one sentence on her page (she registers, the subsystem writes the figure) would close it.
 
 ## The *Four Seconds* clip, re-staged — written 15 November 2026 on Fable — two points put as options with a recommendation, the run follows the recommendation unless he says otherwise; not blocking
 
