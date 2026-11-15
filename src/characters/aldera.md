@@ -9,7 +9,7 @@ aliases: []
 tags: [detective-agency, cat, boundary, causeway, season-1, pets, undercover-pets.com]
 description: "A Smart Pet cat and field observer for the Undercover Pets Detective Agency. Highly attuned to asymmetry, consent erosion, and obligation loops."
 image: aldera.jpg
-image_alt: "Aldera, an alert tabby cat with a fine silver implant tracing one ear and a faint lens glint in one eye, sitting upright on a weathered causeway rail above a misty marsh at dawn."
+image_alt: "Aldera, an alert tabby cat wearing a slim plain grey collar, sitting upright on a weathered causeway rail above a misty marsh at dawn."
 gallery:
   - image: field-photo-01.jpg
     image_alt: "A tabby kitten with a black collar sitting in the bow of a boat at sunset, water and a green shoreline behind it."
