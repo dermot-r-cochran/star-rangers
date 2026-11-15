@@ -4,6 +4,9 @@ title: "The Zone and the Axiom"
 date: "2026-10-24"
 description: "This record set beside the two science fiction writers whose structures are nearest its own: Vernor Vinge, who made physics depend on where you are and never explained why, and Greg Egan, who changes one axiom and derives everything that follows. What each shares with the record, where each differs, and the one thing the record attempts that neither does."
 tags: [craft, physics, cosmology, editorial]
+image: "the-zone-and-the-axiom.jpg"
+image_alt: "A rocky cove of turquoise shallows below lichen-gold cliffs with a dark sea cave, green bracken filling the foreground and a headland running out to open blue water"
+image_caption: "The Turquoise Cove, Wexford, Ireland, 2026"
 ---
 
 *Real-world notes on two writers, discussed by name and not quoted. Their books are in copyright, so this record's rule for fiction allows them here and nowhere in the Codex. The names here are from our century, and the Archive's own pages name none of them.*

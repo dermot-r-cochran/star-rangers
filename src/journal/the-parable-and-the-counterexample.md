@@ -4,6 +4,9 @@ title: "The Parable and the Counterexample"
 date: "2026-09-06"
 description: "Why pictures and intuition can hinder the teaching of mathematics, set against the use of parables in theology — the same device under two disciplines, and where the record's own two registers fall."
 tags: [craft, method, editorial, theology]
+image: "the-parable-and-the-counterexample.jpg"
+image_alt: "One small pale mushroom seen from above, its cap finely striated from the centre to the rim, isolated against a soft blur of green moss and amber leaf litter, with a single strand of spider silk crossing the frame beside it"
+image_caption: "A Single Mushroom, Dublin, Ireland, 2024"
 ---
 
 *The last of four entries from one conversation on 6 September 2026. The first, [The Picture the Maths Was Invented to Replace](/star-rangers/journal/the-picture-the-maths-was-invented-to-replace/), is the one this answers; the middle two are [Where the Compression Was Trained](/star-rangers/journal/where-the-compression-was-trained/) and [Agreement Counts Once](/star-rangers/journal/agreement-counts-once/). A fifth, [The Children's Talk](/star-rangers/journal/the-childrens-talk/), followed later the same day.*

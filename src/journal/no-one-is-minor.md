@@ -4,6 +4,9 @@ title: "No One Is Minor"
 date: "2026-10-10"
 description: "On dropping the idea of major, supporting and minor characters, which came in from a writing tool and never belonged here; why a Codex author is a character; and why the record follows one career without making its holder the centre."
 tags: [craft, editorial, characters]
+image: "no-one-is-minor.jpg"
+image_alt: "A flock of black-tailed godwits standing in shallow grey water, most preening or resting with bills tucked, their russet and buff plumage reflected around their legs"
+image_caption: "Godwits Roosting, Wexford, Ireland, 2026"
 ---
 
 For a while I meant to give the character files a field I never got round to adding, and today I worked out why I never added it. The idea had come in from a writing tool, which sorts a cast into major, supporting and minor the way a theatre programme does, and I had taken it on the assumption that a story this size would need it. It does not, and I dislike the idea. I dislike it in television too: the shows where you can tell within a scene who is allowed to matter and who is there to be reacted to, because the writing has already decided the one question a reader should be left to decide for themselves.

@@ -4,6 +4,9 @@ title: "A Story With No First Page"
 date: "2026-10-20"
 description: "On why this record is a story and not a novel, and on story architecture, the name I give the method that lets an open-ended, character-driven work keep its shape without a first page or a last: threads, strands and arcs; canon that grows only by extension; endings that are recognitions; and a chapter identity that outlives its position."
 tags: [craft, method, authorship]
+image: "a-story-with-no-first-page.jpg"
+image_alt: "A trodden path curving away through a wide expanse of pale green marsh grass toward a distant lake and a dark line of trees, under a hazy blue sky"
+image_caption: "The Path, Amboseli, Kenya, 2025"
 ---
 
 Today I changed a line at the foot of every page on this site. It used to call the work a novel, and now it calls it a story. The change is small and the reason is not. A novel has a first page and a last page, and it may have sequels or belong to a trilogy. This work has none of those. It grows, with no end planned, and it is open to a reader arriving from any direction. It does have arcs, plots and subplots, as many as it needs, but the plots are mostly driven by the characters themselves rather than laid down in advance for them to walk.

@@ -4,6 +4,9 @@ title: "Agreement Counts Once"
 date: "2026-09-06"
 description: "What to do at the moment intuition and logic meet: why their agreement is the least informative case, the four conditions for letting logic override, the omitted case where intuition should win, and which character in a story is the honest one."
 tags: [craft, method, editorial]
+image: "agreement-counts-once.jpg"
+image_alt: "Three greater flamingos feeding heads-down in still grey shallows, their pink legs and white bodies mirrored beneath them, a small dark swallow skimming low over the water in front of them and two more flamingos standing in the distance"
+image_caption: "Almost Symmetry, Amboseli, Kenya, 2025"
 ---
 
 *The third of four entries from one conversation on 6 September 2026. It follows [Where the Compression Was Trained](/star-rangers/journal/where-the-compression-was-trained/), which says when to distrust each side; this one says what to do when they meet. The first was [The Picture the Maths Was Invented to Replace](/star-rangers/journal/the-picture-the-maths-was-invented-to-replace/), and the last is [The Parable and the Counterexample](/star-rangers/journal/the-parable-and-the-counterexample/). A fifth, [The Children's Talk](/star-rangers/journal/the-childrens-talk/), followed later the same day.*

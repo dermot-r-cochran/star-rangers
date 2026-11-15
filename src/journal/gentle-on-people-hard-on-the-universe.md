@@ -4,6 +4,9 @@ title: "Gentle on People, Hard on the Universe"
 date: "2026-10-25"
 description: "Where this record is softer than most science fiction and fantasy allows, and where it is harder: no true villains, no evil peoples, no plot settled by violence, no horror and nothing erotic, set beside a physics that refuses time travel and every shortcut. Why the two belong together."
 tags: [craft, editorial, tone]
+image: "gentle-on-people-hard-on-the-universe.jpg"
+image_alt: "An adult gannet standing over its large dark-speckled chick on a white guano-stained ledge, a second adult preening above them, with deep blue sea softly out of focus behind"
+image_caption: "Gannet and Chick, Wexford, Ireland, 2026"
 ---
 
 *A statement of how the work is made, written for readers who study the writing. Two television series are named below as examples of what the record refuses. They are discussed by name and not quoted.*

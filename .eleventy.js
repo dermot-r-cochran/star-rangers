@@ -50,7 +50,8 @@ const OG_IMAGE_DIRS = {
   lore: "lore",
   codex: "codex",
   glossary: "glossary",
-  chapter: "chapters"
+  chapter: "chapters",
+  journal: "journal"
 };
 
 // Site-wide fallback for any page with no page-specific image (chapters,
@@ -81,6 +82,9 @@ const DEFAULT_OG_IMAGE_ALT =
 // twentieth-century vehicle, as the face of a 29th-century record (Dermot's
 // Replika screenshot, 8 October 2026). The Journal has its own hero, the
 // notebook the index shows, and that is what a journal card should carry.
+// Since 2026-11-15 an entry may carry its own `image` (one of Dermot's own
+// photographs, via OG_IMAGE_DIRS above), and the notebook is the fallback
+// only for an entry without one.
 const JOURNAL_OG_IMAGE = "/images/hero/journal-notebook.jpg";
 const JOURNAL_OG_IMAGE_ALT =
   "An open journal on a wooden desk, headed Author's Journal in cursive above a dated handwritten entry, with an ink bottle behind it";

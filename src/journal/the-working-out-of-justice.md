@@ -4,6 +4,9 @@ title: "The Working-Out of Justice"
 date: "2026-08-23"
 description: "Two traditions of detective story — the brilliant individual, and the inevitable working-out of justice — and why this setting's own doctrine was always going to choose the second."
 tags: [craft, cosmology, genre]
+image: "the-working-out-of-justice.jpg"
+image_alt: "A grey heron standing full length on wet, weed-edged granite at the edge of a rock pool, hunched with its neck drawn in and its yellow bill pointing right, grey and ochre rock behind it"
+image_caption: "Grey Heron on the Reef, Dublin, Ireland, 2026"
 ---
 
 Some detective stories are about the brilliance of one individual. Some are

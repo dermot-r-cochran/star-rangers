@@ -4,6 +4,9 @@ title: "The Children's Talk"
 date: "2026-09-06"
 description: "Why adults sometimes find the children's talk more helpful than the sermon, what that says about the reading tiers, Narnia and The Lord of the Rings as the exemplars of two of them, and Kate Ukrainka's author's note as the record's own worked case — with a note on who the Journal is for."
 tags: [craft, audience, editorial, theology]
+image: "the-childrens-talk.jpg"
+image_alt: "Three downy grey-speckled gull chicks standing on a pale lichened granite ledge, dark blue-green sea filling the background behind them"
+image_caption: "Great Black-backed Gull Chicks, Dublin, Ireland, 2026"
 ---
 
 *The fifth entry of 6 September 2026, written later the same day as the four that begin with [The Picture the Maths Was Invented to Replace](/star-rangers/journal/the-picture-the-maths-was-invented-to-replace/). It answers [The Parable and the Counterexample](/star-rangers/journal/the-parable-and-the-counterexample/) most directly.*

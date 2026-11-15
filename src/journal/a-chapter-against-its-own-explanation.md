@@ -4,6 +4,9 @@ title: "A Chapter Against Its Own Explanation"
 date: "2026-10-02"
 description: "On Shown, Not Healed (S07E01C02): how a chapter built on one refusal — not letting comfort stand in for an answer — also refuses to be explained beside itself, and what that decided about the page it sits on."
 tags: [craft, editorial, prose, season-7, tissadelle, saint-aoife, levril]
+image: "a-chapter-against-its-own-explanation.jpg"
+image_alt: "A red-brown white rhino calf grazing chest-deep in green scrub, its mother's flank filling the right edge of the frame"
+image_caption: "The Calf, Nairobi National Park, Kenya, 2025"
 ---
 
 I reread [Shown, Not Healed](/star-rangers/seasons/s07/e01/s07e01c02/) today because I wanted to know whether it needed help. It reads well, and that was the worry: a chapter that reads well on its own terms can still leave a first-time reader with no handholds, and I wondered whether a summary or a commentary beside the text would be a kindness. The chapter answered the question itself, which is what this entry is about.

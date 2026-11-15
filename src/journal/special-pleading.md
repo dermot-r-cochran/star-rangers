@@ -4,6 +4,9 @@ title: "Special Pleading"
 date: "2026-08-23"
 description: "An invented cosmology is a confession. Reading mine back, I find I don't believe in prayer or magic as special pleading — and that I have faith in ultimate goodness anyway."
 tags: [cosmology, belief, editorial]
+image: "special-pleading.jpg"
+image_alt: "A blackbird silhouetted against deep blue sky on the bare branch of a cherry tree, head raised and bill open in song, a few blossom buds along the twigs"
+image_caption: "Blackbird Singing, Dublin, Ireland, 2026"
 ---
 
 An invented cosmology is a confession. Nobody encodes rules they don't believe

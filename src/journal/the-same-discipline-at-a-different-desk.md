@@ -4,6 +4,9 @@ title: "The Same Discipline at a Different Desk"
 date: "2026-10-17"
 description: "On why a career in software engineering and applied AI is not set aside when the work is a novel: the gates that check this record are the thesis's contracts in another form, its doctrine carries the thesis's habits, and its working rules for models are AI governance in practice. And on the one line the tools cannot cross."
 tags: [process, engineering, formal-methods, authorship]
+image: "the-same-discipline-at-a-different-desk.jpg"
+image_alt: "A curving pale sand beach seen from above, meeting shallow green-blue water, with a line of dark rock groynes projecting into the sea and dune vegetation along the near edge"
+image_caption: "Groynes at Skagen, Skagen, Denmark, 2026"
 ---
 
 Today I rewrote the [About page](/star-rangers/about/#the-engineering-behind-the-record) to say plainly what I am: trained first in mathematics, a software engineer by trade, a formal-methods researcher by doctorate, and lately a specialist in applied AI. Rewriting it raised a question I had never put to myself in so many words. If writing comes to take most of my hours, are those skills set aside? The honest answer is no, and the reasons are specific enough to be worth writing down.

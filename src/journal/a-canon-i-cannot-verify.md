@@ -4,6 +4,9 @@ title: "A Canon I Can't Verify in Another Language"
 date: "2026-07-18"
 description: "On why Drithane won't ship official translations, and how English-as-canon, browser translation, and translations-as-fan-works together are the honest version of multilingual reach."
 tags: [process, editorial, i18n, licensing]
+image: "a-canon-i-cannot-verify.jpg"
+image_alt: "Rough grass and lichened granite on Dalkey Island sloping down to a chain of low rocky skerries in the sound, a single white sail on the water and the town shoreline stretching along the horizon"
+image_caption: "Across the Sound, Dublin, Ireland, 2026"
 ---
 
 I looked at translating the site today and decided not to — or rather, decided that the honest form of "yes" here is three smaller yeses that don't include an official, site-hosted translation of every page. Writing down why, because it's the kind of decision I'll otherwise second-guess in six months when someone asks for a version in their language.

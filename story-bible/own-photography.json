@@ -1,7 +1,7 @@
 {
   "note": "Dermot's own photography, catalogued so the image pipeline can offer it before generating. A SNAPSHOT - rebuild with scripts/build-photo-catalogue.js when the portfolio grows.",
   "sources": {
-    "published": "../dermot-cochran-photography",
+    "published": "F:/CLAUDE/dermot-cochran-photography",
     "ledger": "Folder Context.md"
   },
   "publishedPhotos": [
@@ -43,7 +43,7 @@
       "location": "Bohernabreena, Dublin, Ireland",
       "year": "2026",
       "album": "Bohernabreena Reservoir, August 2026",
-      "alt": "A single blue-black sloe hanging from a blackthorn twig, its waxy pale bloom intact and unmarked, with one green leaf below it and the rest of the hedge dissolved into soft green behind",
+      "alt": "A blue-black sloe hanging from a blackthorn twig, its waxy pale bloom intact and unmarked, with two green leaves below it, more sloes soft on the twigs at left and the rest of the hedge dissolved into soft green behind",
       "image": "a-single-sloe.jpg",
       "competitions": [
         "DCC",
@@ -103,12 +103,38 @@
       "location": "Maasai Mara, Kenya",
       "year": "2025",
       "album": "Enkewa, October 2025",
-      "alt": "Three widely spaced flat-topped acacias standing on open green grassland beneath a heavy dark blue-grey sky",
+      "alt": "Three flat-topped acacias standing on a rise of tall golden grass beneath a heavy dark blue-grey sky",
       "image": "acacias-under-a-storm-sky.jpg",
       "competitions": [
         "DCC",
         "WNPA",
         "IPF-Nature"
+      ]
+    },
+    {
+      "slug": "across-the-sound",
+      "title": "Across the Sound",
+      "category": "Landscape",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Dalkey Island, June 2026",
+      "alt": "Rough grass and lichened granite on Dalkey Island sloping down to a chain of low rocky skerries in the sound, a single white sail on the water and the town shoreline stretching along the horizon",
+      "image": "across-the-sound.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
+      "slug": "african-fish-eagle",
+      "title": "African Fish Eagle",
+      "category": "Wildlife",
+      "location": "Lake Naivasha, Kenya",
+      "year": "2025",
+      "album": "Lake Naivasha, October 2025",
+      "alt": "An African fish eagle in level flight seen head-on, wings fully outstretched, its white head and chest bright against a clear sky",
+      "image": "african-fish-eagle.jpg",
+      "competitions": [
+        "DCC"
       ]
     },
     {
@@ -122,6 +148,37 @@
       "image": "african-jacana.jpg",
       "competitions": [
         "DCC"
+      ]
+    },
+    {
+      "slug": "almost-symmetry",
+      "title": "Almost Symmetry",
+      "category": "Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "Three greater flamingos feeding heads-down in still grey shallows, their pink legs and white bodies mirrored beneath them, a small dark swallow skimming low over the water in front of them and two more flamingos standing in the distance",
+      "image": "almost-symmetry.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "alone-on-the-rise",
+      "title": "Alone on the Rise",
+      "category": "Nature",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Phoenix Park, October 2026",
+      "alt": "A slender tree with a crooked trunk and a small rounded crown of rust-brown autumn leaves stands alone on top of a low rise against a soft grey-blue sky",
+      "image": "alone-on-the-rise.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature"
       ]
     },
     {
@@ -144,11 +201,25 @@
       "category": "Documentary",
       "location": "Dublin, Ireland",
       "year": "2025",
-      "album": "Dublin Hills, November 2025",
+      "album": "Fernhill, November 2025",
       "alt": "A pale cream-white bullock standing in profile at the edge of rough winter pasture, low afternoon sun catching the length of its coat against a dark leafless hedge, a yellow tag in one ear",
       "image": "at-the-field-edge.jpg",
       "competitions": [
         "DCC"
+      ]
+    },
+    {
+      "slug": "baboon-village",
+      "title": "Baboon Village",
+      "category": "Urban Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A baboon walking right to left across bare pale ground and dry grass in low golden light, with heaps of cut brush and fallen trees behind it and the shingled roofs, gable and chimney of a derelict timber lodge beyond, under tall trees",
+      "image": "baboon-village.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
       ]
     },
     {
@@ -158,13 +229,39 @@
       "location": "Amboseli, Kenya",
       "year": "2025",
       "album": "Amboseli, October 2025",
-      "alt": "A large adult baboon sitting upright in profile in low golden light, its long muzzle and mantled shoulders lit from the side, while beside it an infant baboon rides on the back of another adult and looks straight at the camera, all among dry fallen branches and litter",
+      "alt": "A large adult baboon sitting upright with its face turned to the camera in low golden light, its long muzzle and mantled shoulders lit from the side, while beside it an infant baboon rides on the back of another adult and looks straight at the camera, all among dry fallen branches and litter",
       "image": "baboons-at-dawn.jpg",
       "competitions": [
         "DCC",
         "WNPA",
         "IPF-Nature",
         "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "backlit-fountain",
+      "title": "Backlit Fountain",
+      "category": "Creative",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "St Stephen's Green, February 2026",
+      "alt": "A park fountain throwing a fan of spray lit from behind into brilliant white against a near-black line of winter trees, with the stone basin and a strip of sunlit lawn below",
+      "image": "backlit-fountain.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
+      "slug": "backlit-tree-fern",
+      "title": "Backlit Tree Fern",
+      "category": "Nature",
+      "location": "Wicklow, Ireland",
+      "year": "2026",
+      "album": "Kilmacurragh, August 2026",
+      "alt": "The crown of a tree fern seen from below, sunlight glowing through the radiating green fronds against a dark woodland background",
+      "image": "backlit-tree-fern.jpg",
+      "competitions": [
+        "DCC"
       ]
     },
     {
@@ -179,6 +276,19 @@
       "competitions": [
         "DCC",
         "WNPA"
+      ]
+    },
+    {
+      "slug": "bay-horse-in-buttercups",
+      "title": "Bay Horse in Buttercups",
+      "category": "Documentary",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Farmleigh, Dublin",
+      "alt": "A dark bay horse grazing head-down in a paddock of long grass thick with buttercups, its whole body in frame, with fence posts soft along the top of the frame",
+      "image": "bay-horse-in-buttercups.jpg",
+      "competitions": [
+        "DCC"
       ]
     },
     {
@@ -321,7 +431,7 @@
       "location": "Bohernabreena, Dublin, Ireland",
       "year": "2026",
       "album": "Bohernabreena Reservoir, August 2026",
-      "alt": "A cluster of bramble fruit at three stages on one stem, two berries fully ripe and glossy black with the dried styles still standing up from them, others still red and hard above, set against green bramble leaves and a softly blurred bank",
+      "alt": "A cluster of bramble fruit at three stages on one stem, five berries fully ripe and glossy black with the dried styles still standing up from them, others still red and hard, set against green bramble leaves and a softly blurred bank",
       "image": "blackberries-ripening.jpg",
       "competitions": [
         "DCC",
@@ -365,6 +475,20 @@
       "album": "St Anne's Park, July 2026",
       "alt": "A pale pink rose caught mid-bloom, its inner petals spiralling around a soft glowing centre",
       "image": "blush-rose-unfurling.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
+      "slug": "brackets-at-the-root",
+      "title": "Brackets at the Root",
+      "category": "Nature",
+      "location": "Wicklow, Ireland",
+      "year": "2026",
+      "album": "Kilmacurragh, August 2026",
+      "alt": "A large cluster of pale cream bracket fungi with brown-marked tops growing from a mossy tree root at ground level, a gravel path and fallen leaves to the right",
+      "image": "brackets-at-the-root.jpg",
       "competitions": [
         "DCC",
         "WNPA"
@@ -421,7 +545,7 @@
       "location": "Dublin, Ireland",
       "year": "2026",
       "album": "Farmleigh, Dublin",
-      "alt": "A vivid magenta dahlia with narrow rolled petals radiating from a pale centre, against soft green foliage",
+      "alt": "A vivid magenta dahlia with narrow rolled petals radiating from a tight magenta centre, against soft green foliage",
       "image": "cactus-dahlia.jpg",
       "competitions": [
         "DCC",
@@ -445,14 +569,60 @@
       ]
     },
     {
+      "slug": "cape-buffalo-in-mono",
+      "title": "Cape Buffalo, in Mono",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Maasai Mara, October 2025",
+      "alt": "A Cape buffalo bull staring straight at the camera from long grass, in monochrome, the sweep of its horns and the black bulk of the herd behind",
+      "image": "cape-buffalo-in-mono.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "cattle-dust",
+      "title": "Cattle Dust",
+      "category": "Documentary",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A herd of thin Maasai cattle walking away across a dry plain and raising a cloud of pale dust behind them, dead straw-coloured grass in the foreground and a flat grey sky above",
+      "image": "cattle-dust.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
       "slug": "cheetah-on-the-mound",
       "title": "Cheetah on the Mound",
       "category": "Wildlife",
       "location": "Maasai Mara, Kenya",
       "year": "2025",
       "album": "Maasai Mara, October 2025",
-      "alt": "A cheetah standing on a termite mound scanning the plain, its profile clear against a pale sky",
+      "alt": "A cheetah standing on a termite mound scanning the plain, in monochrome, its spotted profile clear against a pale sky",
       "image": "cheetah-on-the-mound.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "cheetah-on-the-mound-in-colour",
+      "title": "Cheetah on the Mound, in Colour",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Maasai Mara, October 2025",
+      "alt": "A cheetah standing on a termite mound facing right and looking back over its shoulder to the left, tawny spotted coat against a flat grey-blue sky, dry grass below",
+      "image": "cheetah-on-the-mound-in-colour.jpg",
       "competitions": [
         "DCC",
         "WNPA",
@@ -486,6 +656,37 @@
       "competitions": [
         "DCC",
         "WNPA"
+      ]
+    },
+    {
+      "slug": "common-gull-over-the-bay",
+      "title": "Common Gull over the Bay",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2024",
+      "album": "Dublin Bay, February 2024",
+      "alt": "A common gull in flight low over dark rippled water, its wings raised in a V and rim-lit from behind, the white body bright against the dark sea",
+      "image": "common-gull-over-the-bay.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "commonage",
+      "title": "Commonage",
+      "category": "Landscape",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Maasai Mara, October 2025",
+      "alt": "Golden grassland below a green hillside in the Maasai Mara, with a mixed herd of zebra and wildebeest grazing small in the middle distance and a distant giraffe among them",
+      "image": "commonage.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature"
       ]
     },
     {
@@ -530,6 +731,19 @@
       ]
     },
     {
+      "slug": "cross-bills",
+      "title": "Cross Bills",
+      "category": "Wildlife",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "Two marabou storks standing close together on grass, one behind the other, their heavy pale bills crossing as the rear bird looks right and the front one faces the camera, bare grey heads and pink-flushed necks above black wings and white breasts",
+      "image": "cross-bills.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
       "slug": "cyclists-below-teide",
       "title": "Cyclists Below Teide",
       "category": "Documentary",
@@ -541,6 +755,22 @@
       "competitions": [
         "DCC",
         "WNPA"
+      ]
+    },
+    {
+      "slug": "cygnet",
+      "title": "Cygnet",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2023",
+      "album": "UCD, July 2023",
+      "alt": "A grey downy mute swan cygnet feeding with its bill dipped into dark still water, its reflection below it and blurred green leaves reflected behind",
+      "image": "cygnet.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
       ]
     },
     {
@@ -588,6 +818,20 @@
       ]
     },
     {
+      "slug": "dalkey-island-in-mono",
+      "title": "Dalkey Island, in Mono",
+      "category": "Landscape",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Dalkey Island, June 2026",
+      "alt": "Dalkey Island seen across the sound in monochrome, the Martello tower and church ruin on its summit under layered clouds, the sea below glittering white",
+      "image": "dalkey-island-in-mono.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
       "slug": "delphinium-spires",
       "title": "Delphinium Spires",
       "category": "Nature",
@@ -602,17 +846,60 @@
       ]
     },
     {
+      "slug": "doe-at-the-rut",
+      "title": "Doe at the Rut",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Phoenix Park, October 2026",
+      "alt": "A young fallow doe with a spotted chestnut coat stands side-on in bright green grass, head turned to look straight at the camera with the tip of her tongue out, the herd blurred behind her",
+      "image": "doe-at-the-rut.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "drying-wings",
+      "title": "Drying Wings",
+      "category": "Wildlife",
+      "location": "Wexford, Ireland",
+      "year": "2026",
+      "album": "Johnstown Castle, August 2026",
+      "alt": "A great cormorant standing on a mossy fallen branch in a lake with both wings held fully open, head raised, the brown primaries lit from behind and the water behind it broken into bright out-of-focus sparkle",
+      "image": "drying-wings.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "dublin-bay-from-the-hills",
       "title": "Dublin Bay from the Hills",
       "category": "Landscape",
       "location": "Dublin, Ireland",
       "year": "2025",
-      "album": "Dublin Hills, November 2025",
-      "alt": "Dublin seen from high ground to the south on a hazy November afternoon: suburban rooftops in the foreground, the city beyond, the red-and-white banded Poolbeg chimneys standing over the docks, and the bay running out to the headland of Howth on the far shore",
+      "album": "Fernhill, November 2025",
+      "alt": "Dublin seen from high ground to the south on a hazy November afternoon: the office blocks and a tower crane of Sandyford across the foot of the frame, the city beyond, the red-and-white banded Poolbeg chimneys standing over the docks, and the bay running out to the headland of Howth on the far shore",
       "image": "dublin-bay-from-the-hills.jpg",
       "competitions": [
         "DCC"
       ]
+    },
+    {
+      "slug": "egret-passing",
+      "title": "Egret, Passing",
+      "category": "Wildlife",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "A white cattle egret in flight, wings swept back, crossing a field of burnt brown grass that streaks sideways with motion, a band of green reeds blurred beneath it",
+      "image": "egret-passing.jpg",
+      "competitions": []
     },
     {
       "slug": "egyptian-goose",
@@ -706,6 +993,19 @@
       ]
     },
     {
+      "slug": "evening-class",
+      "title": "Evening Class",
+      "category": "Creative",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Enkewa, October 2025",
+      "alt": "A four-panel sequence of male lions at dusk on a grassy rise: one rolled on his back with all four paws in the air beside a resting male, then a lone male in a deep stretch with his forelegs out and his rump high, then rising with his head low, then walking out of the frame with his mane turned away",
+      "image": "evening-class.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
       "slug": "fern-croziers",
       "title": "Fern Croziers",
       "category": "Nature",
@@ -717,6 +1017,19 @@
       "competitions": [
         "DCC",
         "WNPA"
+      ]
+    },
+    {
+      "slug": "fish-eagle-over-the-drowned-forest",
+      "title": "Fish Eagle over the Drowned Forest",
+      "category": "Wildlife",
+      "location": "Lake Naivasha, Kenya",
+      "year": "2025",
+      "album": "Lake Naivasha, October 2025",
+      "alt": "An African fish eagle flying away to the right with its wings raised, its white tail and head bright against its dark body and a fish in its talons, above a stand of bare grey drowned trees standing in the lake, with green acacias behind them, the escarpment beyond and cloud in a blue sky",
+      "image": "fish-eagle-over-the-drowned-forest.jpg",
+      "competitions": [
+        "DCC"
       ]
     },
     {
@@ -739,7 +1052,7 @@
       "location": "Amboseli, Kenya",
       "year": "2025",
       "album": "Amboseli, October 2025",
-      "alt": "Five greater flamingos scattered across still pale grey water, several with their heads and necks lowered into the surface to feed, their coral-pink legs and blush-white plumage set against the flat water, each bird trailing a long soft vertical reflection beneath it",
+      "alt": "Six greater flamingos scattered across still pale grey water, several with their heads and necks lowered into the surface to feed, their coral-pink legs and blush-white plumage set against the flat water, each bird trailing a long soft vertical reflection beneath it",
       "image": "flamingos-feeding.jpg",
       "competitions": [
         "DCC",
@@ -780,6 +1093,22 @@
       ]
     },
     {
+      "slug": "gannet-and-chick",
+      "title": "Gannet and Chick",
+      "category": "Wildlife",
+      "location": "Wexford, Ireland",
+      "year": "2026",
+      "album": "Great Saltee, August 2026",
+      "alt": "An adult gannet standing over its large dark-speckled chick on a white guano-stained ledge, a second adult preening above them, with deep blue sea softly out of focus behind",
+      "image": "gannet-and-chick.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "garachico-rock",
       "title": "Garachico Rock",
       "category": "Landscape",
@@ -791,6 +1120,19 @@
       "competitions": [
         "DCC",
         "WNPA"
+      ]
+    },
+    {
+      "slug": "ghost-herd",
+      "title": "Ghost Herd",
+      "category": "Creative",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "Several translucent, overlapping Thomson's gazelles in long grass, each one only half there, below the grey piers and deck of a railway viaduct crossing the plain in haze",
+      "image": "ghost-herd.jpg",
+      "competitions": [
+        "DCC"
       ]
     },
     {
@@ -824,6 +1166,53 @@
       ]
     },
     {
+      "slug": "godwits-in-flight",
+      "title": "Godwits in Flight",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Bull Island, September 2026",
+      "alt": "A dense flock of godwits in flight against a pale grey sky, long bills and pointed wings in every direction, a faint band of blue across the middle of the frame",
+      "image": "godwits-in-flight.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "godwits-roosting",
+      "title": "Godwits Roosting",
+      "category": "Wildlife",
+      "location": "Wexford, Ireland",
+      "year": "2026",
+      "album": "Wexford Wildfowl Reserve, August 2026",
+      "alt": "A flock of black-tailed godwits standing in shallow grey water, most preening or resting with bills tucked, their russet and buff plumage reflected around their legs",
+      "image": "godwits-roosting.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "gold-water",
+      "title": "Gold Water",
+      "category": "Creative",
+      "location": "Bohernabreena, Dublin, Ireland",
+      "year": "2026",
+      "album": "Bohernabreena Reservoir, August 2026",
+      "alt": "An abstract of a shallow stream seen from above, the whole frame a mosaic of gold and amber stones under clear water, with a blurred white reflection of the sky near the bottom and a few pale grass stems at the edge",
+      "image": "gold-water.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature"
+      ]
+    },
+    {
       "slug": "golden-rose-in-full-bloom",
       "title": "Golden Rose in Full Bloom",
       "category": "Macro",
@@ -851,6 +1240,54 @@
       ]
     },
     {
+      "slug": "grazing-at-a-tranquil-lake",
+      "title": "Grazing at a Tranquil Lake",
+      "category": "Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "Two Thomson's gazelles grazing with their heads down in matching poses on the near shore of a still lake, tall reeds behind them, pale reflections on the water, two dark animals on a straw-coloured far bank, and a line of palms beyond",
+      "image": "grazing-at-a-tranquil-lake.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "great-black-backed-gull-with-chick",
+      "title": "Great Black-backed Gull with Chick",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Dalkey Island, June 2026",
+      "alt": "An adult great black-backed gull standing on a granite boulder with a single downy grey-speckled chick at its feet, green ground cover and a strip of dark blue sea behind",
+      "image": "great-black-backed-gull-with-chick.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "great-black-backed-gull-with-chick-in-mono",
+      "title": "Great Black-backed Gull with Chick, in Mono",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Dalkey Island, June 2026",
+      "alt": "An adult great black-backed gull standing on a granite boulder with a single downy grey-speckled chick at its feet, in monochrome, the ground cover behind turned to grey",
+      "image": "great-black-backed-gull-with-chick-in-mono.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "great-south-wall-light-track",
       "title": "The Great South Wall",
       "category": "Documentary",
@@ -859,6 +1296,19 @@
       "album": "Great South Wall, March 2026",
       "alt": "The granite Great South Wall running diagonally away toward the Poolbeg lighthouse, the low morning sun laying a bright track of light along the wet stone, with sea on either side under a hazy bright sky",
       "image": "great-south-wall-light-track.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
+      "slug": "great-white-pelican-on-naivasha",
+      "title": "Great White Pelican",
+      "category": "Wildlife",
+      "location": "Lake Naivasha, Kenya",
+      "year": "2025",
+      "album": "Lake Naivasha, October 2025",
+      "alt": "A great white pelican swimming straight towards the camera with its wings held slightly open at its sides, its long bill angled down to show the yellow pouch and red tip, pink facial skin around a dark eye, on rippled blue-grey water",
+      "image": "great-white-pelican-on-naivasha.jpg",
       "competitions": [
         "DCC"
       ]
@@ -910,13 +1360,29 @@
     },
     {
       "slug": "grey-heron",
-      "title": "Grey Heron",
+      "title": "Black-headed Heron",
       "category": "Wildlife",
       "location": "Nairobi National Park, Kenya",
       "year": "2025",
       "album": "Nairobi National Park, October 2025",
-      "alt": "A grey heron standing at the edge of still water, neck raised, against a plain pale background",
+      "alt": "A black-headed heron, dark grey neck and white throat, standing on red earth at the edge of still water, neck raised, against a plain pale background",
       "image": "grey-heron.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "grey-heron-on-the-reef",
+      "title": "Grey Heron on the Reef",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Dún Laoghaire, April 2026",
+      "alt": "A grey heron standing full length on wet, weed-edged granite at the edge of a rock pool, hunched with its neck drawn in and its yellow bill pointing right, grey and ochre rock behind it",
+      "image": "grey-heron-on-the-reef.jpg",
       "competitions": [
         "DCC",
         "WNPA",
@@ -931,8 +1397,24 @@
       "location": "Dublin, Ireland",
       "year": "2026",
       "album": "Ireland's Eye, July 2026",
-      "alt": "Two grey seals resting on a weed-covered rock above the tide, the paler one lying with its head raised and turned toward the larger, darker-mottled seal beside it, with calm sea behind and bright green weed on the rock at left",
+      "alt": "Two grey seals resting on a weed-covered rock above the tide, the paler one lying with its head raised and turned toward the camera, the larger, darker-mottled seal beside it, with calm sea behind and bright green weed on the rock at left",
       "image": "grey-seals-hauled-out.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "gull-under-the-canopy",
+      "title": "Gull under the Canopy",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2023",
+      "album": "St Stephen's Green, July 2023",
+      "alt": "An adult herring gull sitting on a dark rock beneath a canopy of plane-tree branches and green leaves, its pale head turned to the right",
+      "image": "gull-under-the-canopy.jpg",
       "competitions": [
         "DCC",
         "WNPA",
@@ -984,14 +1466,44 @@
       ]
     },
     {
+      "slug": "hippo-eyes",
+      "title": "Hippo Eyes",
+      "category": "Wildlife",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "Two hippos facing the camera from open water, only their eyes, ears and the tops of their heads above the surface, the nearer one large at the left with water beading on its wet pink-brown face, the further one to the right with its ears raised, and two more submerged backs breaking the water below them",
+      "image": "hippo-eyes.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "holly-berries",
       "title": "Holly Berries",
       "category": "Nature",
       "location": "Dublin, Ireland",
       "year": "2025",
       "album": "Farmleigh, Dublin",
-      "alt": "A cluster of four scarlet holly berries on a woody stem, surrounded by glossy dark green spined leaves",
+      "alt": "A cluster of five scarlet holly berries on a woody stem, among glossy dark green smooth-edged leaves",
       "image": "holly-berries.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
+      "slug": "hooded-crow-watching",
+      "title": "Hooded Crow, Watching",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Bull Island, September 2026",
+      "alt": "A hooded crow standing on a granite block streaked with orange lichen, looking out over grey water, a bleached branch of driftwood across the rocks behind it",
+      "image": "hooded-crow-watching.jpg",
       "competitions": [
         "DCC",
         "WNPA"
@@ -1018,7 +1530,7 @@
       "location": "Dublin, Ireland",
       "year": "2026",
       "album": "Thistles & Ladybirds",
-      "alt": "A hoverfly on a purple thistle flower",
+      "alt": "A hoverfly with a banded orange-and-black abdomen resting on a purple thistle flower head, its wings folded back, against a soft green background",
       "image": "dsc_1030.jpg",
       "competitions": [
         "DCC",
@@ -1177,13 +1689,40 @@
       ]
     },
     {
+      "slug": "keeping-pace",
+      "title": "Keeping Pace",
+      "category": "Creative",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A three-panel sequence of Thomson's gazelles running left to right through dry golden grass, three, two and four of them in the three panels, with zebra grazing on the rise behind in every panel",
+      "image": "keeping-pace.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
+      "slug": "killiney-bay-to-the-sugar-loaf",
+      "title": "Killiney Bay to the Sugar Loaf",
+      "category": "Landscape",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Killiney Hill, June 2026",
+      "alt": "Looking south from a gorse-covered hilltop over a long curved shingle beach and calm grey-blue sea, with the town of Bray and Bray Head at the far end of the bay and the pointed Sugar Loaf mountain on the skyline under broken cloud",
+      "image": "killiney-bay-to-the-sugar-loaf.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
       "slug": "ladybird-on-thistle",
       "title": "Ladybird on Thistle",
       "category": "Macro",
       "location": "Dublin, Ireland",
       "year": "2026",
       "album": "Thistles & Ladybirds",
-      "alt": "A ladybird resting on a spiky thistle seed head",
+      "alt": "A seven-spot ladybird walking over the top of a spiny, cobwebbed thistle bud",
       "image": "dsc_1000.jpg",
       "competitions": [
         "DCC",
@@ -1294,13 +1833,43 @@
       "location": "Maasai Mara, Kenya",
       "year": "2025",
       "album": "Maasai Mara, October 2025",
-      "alt": "Two lionesses on a sandy riverbed in warm morning light, one standing alert and one lying down, with three cubs moving between them",
+      "alt": "Two lionesses on a sandy riverbed in warm morning light, one standing alert and one lying down, with four cubs, three moving between them and one lying against the reclining lioness",
       "image": "lioness-with-cubs.jpg",
       "competitions": [
         "DCC",
         "WNPA",
         "IPF-Nature",
         "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "looking-around",
+      "title": "Looking Around",
+      "category": "Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A yellow baboon walking to the left across bare ground and dry grass in low morning light, turning its face to the camera mid-stride, with a helmeted guineafowl pecking among fallen branches behind it to the right",
+      "image": "looking-around.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "looking-up",
+      "title": "Looking Up",
+      "category": "Wildlife",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "A Masai giraffe standing upright above tall green grass and looking straight at the camera, a zebra grazing head-down in the foreground to the left, and the faint outline of city towers on the skyline through grey morning haze",
+      "image": "looking-up.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
       ]
     },
     {
@@ -1403,6 +1972,54 @@
       ]
     },
     {
+      "slug": "mixed-company",
+      "title": "Mixed Company",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Maasai Mara, October 2025",
+      "alt": "A mixed herd grazing on Mara grassland - zebra in the foreground, wildebeest beyond them, and a giraffe walking away toward the wooded hillside",
+      "image": "mixed-company.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "morning-at-the-kill",
+      "title": "Morning at the Kill",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Enkewa, October 2025",
+      "alt": "A lioness leans into the opened carcass of an eland lying in scrub, one forepaw over its leg and her tail curled behind her, a wide grassy plain beyond",
+      "image": "morning-at-the-kill.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "morning-on-the-marsh",
+      "title": "Morning on the Marsh",
+      "category": "Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "Ten greater flamingos feeding in the shallows of a marsh with their reflections beneath them, a bank of tall reeds behind, open water and a line of palms and trees dissolving into haze beyond",
+      "image": "morning-on-the-marsh.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "national-maritime-museum",
       "title": "The National Maritime Museum",
       "category": "Architecture",
@@ -1429,6 +2046,17 @@
       ]
     },
     {
+      "slug": "nine-times-the-sea",
+      "title": "Nine Times the Sea",
+      "category": "Creative",
+      "location": "Dublin, Ireland",
+      "year": "2025",
+      "album": "Great South Wall, January 2025",
+      "alt": "Sunrise over open sea from the Great South Wall, the sky gold above a low cloud bank and the water smoothed into soft blue-grey bands of swell",
+      "image": "nine-times-the-sea.jpg",
+      "competitions": []
+    },
+    {
       "slug": "old-royal-naval-college",
       "title": "The Old Royal Naval College",
       "category": "Architecture",
@@ -1442,14 +2070,56 @@
       ]
     },
     {
+      "slug": "one-awake",
+      "title": "One Awake",
+      "category": "Wildlife",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "Two wood sandpipers standing in shallow water at a muddy shore, the left bird upright and alert with its speckled brown back and pale underside clear, the right bird resting with its bill tucked into its wing feathers, each with a soft ochre reflection beneath it",
+      "image": "one-awake.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "one-giraffe-three-times",
+      "title": "One Giraffe, Three Times",
+      "category": "Creative",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "A single Masai giraffe shown three times from one body above tall green grass: head down grazing at the grass line, neck stretched out sideways, and upright looking at the camera, with a zebra grazing in the foreground and a hazy grey sky behind",
+      "image": "one-giraffe-three-times.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
       "slug": "one-mustang-eight-times",
       "title": "One Mustang, Eight Times",
       "category": "Creative",
       "location": "Bray, Ireland",
       "year": "2026",
       "album": "Bray Air Show, August 2026",
-      "alt": "The same P-51 Mustang at eight points of a single display pass, clustered small at the left of the frame and filling the right as it comes overhead, against flat grey cloud",
+      "alt": "The same P-51 Mustang at eight points of a single display pass, one large at the left edge, six small across the centre, and one filling the right as it comes overhead, against flat grey cloud",
       "image": "one-mustang-eight-times.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
+      "slug": "one-sail",
+      "title": "One Sail",
+      "category": "Documentary",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Killiney Hill, June 2026",
+      "alt": "A single small sailing yacht, sails up, alone on a sea covered edge to edge in bright silver sun glitter, with no shore or horizon in the frame",
+      "image": "one-sail.jpg",
       "competitions": [
         "DCC"
       ]
@@ -1468,6 +2138,22 @@
       ]
     },
     {
+      "slug": "ostrich-in-the-long-grass",
+      "title": "Ostrich in the Long Grass",
+      "category": "Wildlife",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "A male ostrich standing side-on in tall green grass, black body and pale pink neck curved up to a small head, with a dark line of trees and a pale hazy sky behind",
+      "image": "ostrich-in-the-long-grass.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "palm-sunset-puerto-de-la-cruz",
       "title": "Palm Sunset, Puerto de la Cruz",
       "category": "Landscape",
@@ -1479,6 +2165,64 @@
       "competitions": [
         "DCC",
         "WNPA"
+      ]
+    },
+    {
+      "slug": "parasol",
+      "title": "Parasol",
+      "category": "Nature",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Massy's Wood, September 2026",
+      "alt": "A black and white close view of a large mushroom cap seen from above, its surface broken into a pattern of dark scales radiating from a smooth central disc, on a mottled stem, with leaves and moss out of focus around it",
+      "image": "parasol.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature"
+      ]
+    },
+    {
+      "slug": "passengers",
+      "title": "Passengers",
+      "category": "Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A hippo lying almost submerged at the edge of a lake, small and distant, with Egyptian geese gathered at its head and a wide expanse of pale dried mud in the foreground",
+      "image": "passengers.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "passing-through",
+      "title": "Passing Through",
+      "category": "Documentary",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A single Thomson's gazelle walking to the right across sunlit yellow-green grass between fallen trunks and a pile of cut brush, under a dark slate sky, with a thin pink line of flamingos along the horizon",
+      "image": "passing-through.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
+      "slug": "pelican-taking-off",
+      "title": "Pelican Taking Off",
+      "category": "Documentary",
+      "location": "Lake Naivasha, Kenya",
+      "year": "2025",
+      "album": "Lake Naivasha, October 2025",
+      "alt": "A great white pelican running across the lake to take off, its wings raised high and its bill held level, throwing up spray from its feet, with bare grey drowned tree trunks standing in the water behind it and a small boat of people in orange life jackets in the distance",
+      "image": "pelican-taking-off.jpg",
+      "competitions": [
+        "DCC"
       ]
     },
     {
@@ -1523,6 +2267,22 @@
       ]
     },
     {
+      "slug": "prowling",
+      "title": "Prowling",
+      "category": "Wildlife",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "A lioness walking left to right through dry grass and thorn scrub, her head carried low and forward and her gaze fixed ahead, the whiskers and the dark rim of the eye catching the light, her shoulder and foreleg following behind her",
+      "image": "prowling.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "puffball-with-a-fly",
       "title": "Puffball with a Fly",
       "category": "Nature",
@@ -1549,6 +2309,22 @@
       "competitions": [
         "DCC",
         "WNPA"
+      ]
+    },
+    {
+      "slug": "reading-the-air",
+      "title": "Reading the Air",
+      "category": "Wildlife",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Phoenix Park, October 2026",
+      "alt": "A young fallow buck with narrow antlers raises his head and tongue towards a doe beside him in a close group of deer on green grass, a larger buck's palmate antlers rising behind them against dark autumn trees",
+      "image": "reading-the-air.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
       ]
     },
     {
@@ -1626,16 +2402,46 @@
       ]
     },
     {
+      "slug": "shags-in-the-surf",
+      "title": "Shags in the Surf",
+      "category": "Wildlife",
+      "location": "Wexford, Ireland",
+      "year": "2026",
+      "album": "Great Saltee, August 2026",
+      "alt": "Three European shags perched on a lichen-streaked rock above breaking surf while a fourth swims in the teal-green water behind, one bird showing its yellow gape",
+      "image": "shags-in-the-surf.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "sheep-and-alpaca",
       "title": "Odd Company",
       "category": "Documentary",
       "location": "Dublin, Ireland",
       "year": "2026",
       "album": "Farmleigh, Dublin",
-      "alt": "A black-faced sheep sitting in long grass full of buttercups, a smaller dark sheep lying beside it, and a white alpaca resting a little apart to the right, a wire fence running behind them",
+      "alt": "A black alpaca lying in long grass full of buttercups with its neck raised, a shorn white sheep standing behind it, and a white alpaca resting a little apart to the right, a wire fence running behind them",
       "image": "sheep-and-alpaca.jpg",
       "competitions": [
         "DCC"
+      ]
+    },
+    {
+      "slug": "silk-fall",
+      "title": "Silk Fall",
+      "category": "Landscape",
+      "location": "Wicklow, Ireland",
+      "year": "2026",
+      "album": "Powerscourt Waterfall, November 2026",
+      "alt": "Water pours in smooth white strands over dark wet rock and a mossy boulder, with a young fir at the foot and an orange-leaved birch at the right edge",
+      "image": "silk-fall.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
       ]
     },
     {
@@ -1723,6 +2529,22 @@
       ]
     },
     {
+      "slug": "spotted-hyena-at-the-den-in-mono",
+      "title": "Spotted Hyena at the Den, in Mono",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Maasai Mara, October 2025",
+      "alt": "A spotted hyena looking out from the mouth of its earthen den, ears forward, in monochrome, the den mouth dark and the dry grass around it pale",
+      "image": "spotted-hyena-at-the-den-in-mono.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "sunrise-behind-an-acacia",
       "title": "Sunrise Behind an Acacia",
       "category": "Landscape",
@@ -1782,6 +2604,82 @@
       ]
     },
     {
+      "slug": "tenants",
+      "title": "Tenants",
+      "category": "Urban Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A long, empty timber lodge with a sagging tin roof on a flat grass plain under a dark storm sky, lit by low golden morning sun, with a troop of baboons foraging among piles of cut brush in the foreground",
+      "image": "tenants.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
+      "slug": "tenants-in-mono",
+      "title": "Tenants, in Mono",
+      "category": "Urban Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A long, empty timber lodge on a flat plain under a heavy storm sky, in monochrome, with a troop of baboons foraging among piles of cut brush in the foreground",
+      "image": "tenants-in-mono.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
+      "slug": "the-approach",
+      "title": "The Approach",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Enkewa, October 2025",
+      "alt": "A big male lion with a wind-blown golden mane walks straight towards the camera through long grass, mouth open, amber eyes on the lens, flies on his face",
+      "image": "the-approach.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "the-break",
+      "title": "The Break",
+      "category": "Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "Nine Thomson's gazelles breaking into a run across dry grass, two of them crossing in mid-stride at the centre, two facing the camera, three more running along the top of the frame",
+      "image": "the-break.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "the-calf",
+      "title": "The Calf",
+      "category": "Wildlife",
+      "location": "Nairobi National Park, Kenya",
+      "year": "2025",
+      "album": "Nairobi National Park, October 2025",
+      "alt": "A red-brown white rhino calf grazing chest-deep in green scrub, its mother's flank filling the right edge of the frame",
+      "image": "the-calf.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "the-coalition",
       "title": "The Coalition",
       "category": "Wildlife",
@@ -1837,6 +2735,20 @@
       ]
     },
     {
+      "slug": "the-far-shore",
+      "title": "The Far Shore",
+      "category": "Landscape",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A wide letterbox view in three bands: a dark slate storm sky, a thin pale strip of lake with a hazy hill and a clump of trees along its far shore, and sunlit yellow-green marsh grass across the foreground",
+      "image": "the-far-shore.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
       "slug": "the-iron-footbridge",
       "title": "The Iron Footbridge",
       "category": "Documentary",
@@ -1851,6 +2763,51 @@
       ]
     },
     {
+      "slug": "the-itch",
+      "title": "The Itch",
+      "category": "Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "Three Thomson's gazelles close together in dry grass, one lowering its head and bringing a hind hoof forward to scratch, the other two standing alongside, a line of zebra grazing far behind on the plain",
+      "image": "the-itch.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "the-killiney-obelisk",
+      "title": "The Killiney Obelisk",
+      "category": "Architecture",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Killiney Hill, June 2026",
+      "alt": "A tall whitewashed stone obelisk on a square base with an arched doorway and a railed platform, standing on a grassy hilltop against a deep blue sky with scattered white clouds",
+      "image": "the-killiney-obelisk.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
+      "slug": "the-line",
+      "title": "The Line",
+      "category": "Wildlife",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "Six Thomson's gazelles walking in a line along a grassy ridge, evenly spaced and all facing the same way, a row of palms and trees fading into haze behind them",
+      "image": "the-line.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
       "slug": "the-mud-bath",
       "title": "The Mud Bath",
       "category": "Wildlife",
@@ -1859,6 +2816,36 @@
       "album": "Amboseli, October 2025",
       "alt": "Elephants at a wallow in the Amboseli marsh, one flinging mud over its back, a mud-covered calf between two adults and a cattle egret in the grass",
       "image": "the-mud-bath.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "the-muglins",
+      "title": "The Muglins",
+      "category": "Landscape",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Dalkey Island, June 2026",
+      "alt": "A small red-and-white banded beacon standing on a bare rocky islet, low in a wide expanse of blue sea under a pale sky",
+      "image": "the-muglins.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
+      "slug": "the-nursery-floor",
+      "title": "The Nursery Floor",
+      "category": "Wildlife",
+      "location": "Wexford, Ireland",
+      "year": "2026",
+      "album": "Great Saltee, August 2026",
+      "alt": "The floor of a gannet colony crowded with white adults with buff heads, two dark speckled juveniles among them, one in the centre and one at the right, feathers and guano scattered on the bare ground",
+      "image": "the-nursery-floor.jpg",
       "competitions": [
         "DCC",
         "WNPA",
@@ -1880,6 +2867,63 @@
         "WNPA",
         "IPF-Nature",
         "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "the-path",
+      "title": "The Path",
+      "category": "Landscape",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A trodden path curving away through a wide expanse of pale green marsh grass toward a distant lake and a dark line of trees, under a hazy blue sky",
+      "image": "the-path.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature"
+      ]
+    },
+    {
+      "slug": "the-pinnacle",
+      "title": "The Pinnacle",
+      "category": "Wildlife",
+      "location": "Wexford, Ireland",
+      "year": "2026",
+      "album": "Great Saltee, August 2026",
+      "alt": "A dark rock pinnacle streaked white rising from a glittering backlit sea, with a cormorant standing at its apex, another holding its wings half open on a ledge below, one more on a ledge at the left and another on a rock at the bottom right",
+      "image": "the-pinnacle.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "the-planted-wall",
+      "title": "The Planted Wall",
+      "category": "Architecture",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Trinity College, October 2026",
+      "alt": "Rows of concrete shelves on a glass building, each planted with grasses and sedum turning gold and rust, with the stone cornice of an older building entering at the top left",
+      "image": "the-planted-wall.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
+      "slug": "the-portico-at-farmleigh",
+      "title": "The Portico at Farmleigh",
+      "category": "Architecture",
+      "location": "Dublin, Ireland",
+      "year": "2025",
+      "album": "Farmleigh, Dublin",
+      "alt": "The columned front porch of a grey Georgian mansion, its stone columns and balustrade half-covered in climbing ivy turning yellow, evergreen shrubs at their feet and a cobbled forecourt in the foreground under a clear November sky",
+      "image": "the-portico-at-farmleigh.jpg",
+      "competitions": [
+        "DCC"
       ]
     },
     {
@@ -1909,6 +2953,35 @@
       ]
     },
     {
+      "slug": "the-troop",
+      "title": "The Troop",
+      "category": "Nature",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Massy's Wood, September 2026",
+      "alt": "A square frame packed edge to edge with rounded tawny fungus caps, each finely grooved and flecked with pale granules, pressed together in a dense mass with a wedge of dark wood and bright green moss at the top",
+      "image": "the-troop.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature"
+      ]
+    },
+    {
+      "slug": "the-turquoise-cove",
+      "title": "The Turquoise Cove",
+      "category": "Landscape",
+      "location": "Wexford, Ireland",
+      "year": "2026",
+      "album": "Great Saltee, August 2026",
+      "alt": "A rocky cove of turquoise shallows below lichen-gold cliffs with a dark sea cave, green bracken filling the foreground and a headland running out to open blue water",
+      "image": "the-turquoise-cove.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA"
+      ]
+    },
+    {
       "slug": "the-valve-towers",
       "title": "The Valve Towers",
       "category": "Documentary",
@@ -1920,6 +2993,38 @@
       "competitions": [
         "DCC",
         "WNPA"
+      ]
+    },
+    {
+      "slug": "the-watch",
+      "title": "The Watch",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Enkewa, October 2025",
+      "alt": "Three male lions lie together on a grassy rise at dusk, one in profile looking left, one asleep with his head against another's mane, and the nearest looking straight at the camera",
+      "image": "the-watch.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "the-yawn",
+      "title": "The Yawn",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Enkewa, October 2025",
+      "alt": "A big male lion lying on a grassy rise at dusk throws his head back in a huge yawn, teeth and curled tongue showing, with two other males slumped against him",
+      "image": "the-yawn.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
       ]
     },
     {
@@ -1955,6 +3060,19 @@
       ]
     },
     {
+      "slug": "three-strides",
+      "title": "Three Strides",
+      "category": "Creative",
+      "location": "Amboseli, Kenya",
+      "year": "2025",
+      "album": "Amboseli, October 2025",
+      "alt": "A three-panel sequence of one greater flamingo walking right to left across still grey water, a stride further on in each panel, with a soft pink-and-white reflection beneath the bird every time",
+      "image": "three-strides.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
       "slug": "three-suns-over-the-mara",
       "title": "Three Suns over the Mara",
       "category": "Creative",
@@ -1963,6 +3081,19 @@
       "album": "Maasai Mara, October 2025",
       "alt": "A creative multiple-exposure composite: three suns descending toward hills at sunset while a lioness watches from the grass",
       "image": "three-suns-over-the-mara.jpg",
+      "competitions": [
+        "DCC"
+      ]
+    },
+    {
+      "slug": "three-ways-to-dry",
+      "title": "Three Ways to Dry",
+      "category": "Creative",
+      "location": "Wexford, Ireland",
+      "year": "2026",
+      "album": "Johnstown Castle, August 2026",
+      "alt": "A three-panel sequence of one great cormorant on a mossy branch in a lake, wings held fully open in each panel, the head level, then raised, then turned the other way, with backlit sparkle on the water behind",
+      "image": "three-ways-to-dry.jpg",
       "competitions": [
         "DCC"
       ]
@@ -2037,8 +3168,24 @@
       "location": "Maasai Mara, Kenya",
       "year": "2025",
       "album": "Maasai Mara, October 2025",
-      "alt": "A bull elephant with long tusks grazing on open grassland, a line of wildebeest strung across the horizon behind",
+      "alt": "A bull elephant with long tusks grazing on open grassland, zebra grazing on the plain behind and more animals strung along the horizon",
       "image": "tusker-on-the-plain.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "tusker-on-the-plain-in-mono",
+      "title": "Tusker on the Plain, in Mono",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Maasai Mara, October 2025",
+      "alt": "A bull elephant with long tusks grazing on open grassland in monochrome, zebra grazing on the plain behind and more animals strung along the horizon",
+      "image": "tusker-on-the-plain-in-mono.jpg",
       "competitions": [
         "DCC",
         "WNPA",
@@ -2060,6 +3207,21 @@
         "WNPA",
         "IPF-Nature",
         "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "two-and-a-half-seconds",
+      "title": "Two and a Half Seconds",
+      "category": "Creative",
+      "location": "Dublin, Ireland",
+      "year": "2026",
+      "album": "Massy's Wood, September 2026",
+      "alt": "A woodland floor dissolved into a wash of ochre and green, with the pale shapes of a cluster of fungi smeared upward by movement and dark tree trunks blurring into mauve behind",
+      "image": "two-and-a-half-seconds.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature"
       ]
     },
     {
@@ -2101,6 +3263,22 @@
       "album": "Maasai Mara, October 2025",
       "alt": "A vulture with both wings still raised, settling onto the crown of a thorn bush against a pale sky",
       "image": "vulture-landing.jpg",
+      "competitions": [
+        "DCC",
+        "WNPA",
+        "IPF-Nature",
+        "IPF-Wildlife"
+      ]
+    },
+    {
+      "slug": "vulture-landing-in-mono",
+      "title": "Vulture Landing, in Mono",
+      "category": "Wildlife",
+      "location": "Maasai Mara, Kenya",
+      "year": "2025",
+      "album": "Maasai Mara, October 2025",
+      "alt": "A vulture with both wings still raised, settling onto the crown of a thorn bush, in monochrome, the bird black against a plain pale sky",
+      "image": "vulture-landing-in-mono.jpg",
       "competitions": [
         "DCC",
         "WNPA",
@@ -2195,7 +3373,7 @@
     {
       "slug": "wildebeest-at-sunset",
       "title": "Wildebeest at Sunset",
-      "category": "Nature",
+      "category": "Wildlife",
       "location": "Amboseli, Kenya",
       "year": "2025",
       "album": "Amboseli, October 2025",
@@ -2303,8 +3481,16 @@
       "description": "leopard in grass, leopard in a tree with a kill, balloon"
     },
     {
+      "folder": "100D3100-card-B-card-B",
+      "description": "Not new photographs. 652 of its 653 files match F:\\100D3100 by name and byte size; it is a stray copy the card watcher made on 10 Oct 2026 because the names collide with 100D3100-card-B. A deletion candidate on a hash check — his call, nothing deleted"
+    },
+    {
       "folder": "101KENYA",
       "description": "Rothschild's giraffes — captive, fenced"
+    },
+    {
+      "folder": "101KENYA-card-B",
+      "description": "Giraffe Centre frames whose names collide with 101KENYA; README inside. See Photo Review\\2026-09-26\\REVIEW.md"
     },
     {
       "folder": "102FARML",
@@ -2340,7 +3526,7 @@
     },
     {
       "folder": "106KILNY",
-      "description": "Tamron 18-400"
+      "description": "Killiney Hill (from the content — obelisk, Dalkey Island and the Sound, Killiney Bay to Bray Head and the Sugar Loaf, Dalkey Quarry from above), Tamron 18-400 body. Group of people on the summit at 0420–0434. Red valerian 0535–0540"
     },
     {
       "folder": "107FARML",
@@ -2363,6 +3549,14 @@
       "description": "Woodland fungi, the stronger of the two mornings. Common puffballs incl. one with a fly on the apex, honey-fungus clumps on emerald moss, inkcap troops, a lone bonnet in golden bokeh, a banded snail on lichened rock. Location inferred"
     },
     {
+      "folder": "110AIP26",
+      "description": "Bray Air Show, second half, after the aperture-actuator fault that jammed 109AIP26 at f/22–f/40. Shutter priority 1/200–1/250. Reviewed in Saturday Shutters\\README.md. 109AIP26 is the dust-test folder named in the August sensor section"
+    },
+    {
+      "folder": "110KILNY",
+      "description": "70 mm macro body; five near-black woodland frames and two blown to white. Nothing usable"
+    },
+    {
       "folder": "110STGRN",
       "description": "Grand Canal Dock — already surveyed, see Photo Review\\110STGRN\\REVIEW.md"
     },
@@ -2373,6 +3567,14 @@
     {
       "folder": "112MSYWD",
       "description": "London Zoo — not Massy's Wood. Confirmed by Dermot, 14 Aug 2026. Reptile house behind glass (giant tortoise, green snake, fire salamander, tree frog, chameleon, monitor), squirrel monkeys on enclosure roofs, a Komodo dragon information sign, and family frames with recognisable faces at _DSC7810–7820. Closes an unidentified tail"
+    },
+    {
+      "folder": "114BULIS",
+      "description": "Bull Island, Saturday Shutters. Z50 II + 150-500, 1/2500 at 500 mm f/6.7, ISO 320–2500, flat grey light. Godwit flocks, hooded crow on lichen rock. Reviewed in Photo Review\\2026-09-26\\REVIEW.md. Clock right (confirmed 19 Oct, see below)"
+    },
+    {
+      "folder": "115DEERP",
+      "description": "The rut outing, Papal Cross, Saturday Shutters, which Dermot led (12 registered). Z50 II + 150-500, mostly 1/500 at 500 mm f/6.7 on Auto. Dry, bright, still. Copied and SHA-256 verified on 31 Oct"
     },
     {
       "folder": "121KENYA",
@@ -2403,6 +3605,10 @@
       "description": "serval, secretary bird, hyena den, lilac-breasted roller, hyena below the migration"
     },
     {
+      "folder": "127STHBL",
+      "description": "Location not recorded — not inferred from the name. Rounded natural granite and rock pools, flat overcast. A grey heron (9038–9251), two cormorants on a boulder (9252–9327), shipping and a lighthouse on a headland (9328–9339), a herring gull pair (9340–9365). Tamron body, 240–400 mm"
+    },
+    {
       "folder": "128",
       "description": "cheetah on a termite mound, storm-sky acacias, lion coalition"
     },
@@ -2429,6 +3635,22 @@
     {
       "folder": "134LONDN",
       "description": "The Thames at Woolwich, continuing straight on from 133STAPK — 38 seconds after DSC_1275. The folder switch happened mid-shoot"
+    },
+    {
+      "folder": "137D7200",
+      "description": "Empty folder, created 10 Oct 2026"
+    },
+    {
+      "folder": "138D7200",
+      "description": "Trinity College, Saturday Shutters — the D7200's first outing, 18-400. Slot 2 was empty, so no camera JPEGs. Reviewed in Photo Review\\2026-10-10\\REVIEW.md. D7200 clock not yet checked against a wall clock"
+    },
+    {
+      "folder": "DSC_0052",
+      "description": "15:38:06"
+    },
+    {
+      "folder": "DSC_0058",
+      "description": "15:39:19"
     },
     {
       "folder": "F:",

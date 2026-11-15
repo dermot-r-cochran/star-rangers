@@ -4,6 +4,9 @@ title: "Sorting Doctrine Out of Lore, and a Paragraph That Knew Too Much"
 date: "2026-07-18"
 description: "The Cosmic Limitation on Evil was never settled lore, it was an argument. Moving it to the Codex turned up a second problem next door: a paragraph in Predatory Entities that had gotten ahead of the story."
 tags: [worldbuilding, editorial, lore, codex, spoilers]
+image: "sorting-doctrine-out-of-lore.jpg"
+image_alt: "A hooded crow standing on a granite block streaked with orange lichen, looking out over grey water, a bleached branch of driftwood across the rocks behind it"
+image_caption: "Hooded Crow, Watching, Dublin, Ireland, 2026"
 ---
 
 I went back through "The Cosmic Limitation on Evil" today and realized it had never actually belonged where it was filed. Lore and the glossary are supposed to be the site's most settled ground — hard-SF-leaning, internally consistent, minimal fantasy, the kind of page a reader can trust as flatly true even when the story hasn't caught up to it yet. This page was never that. It's an argument: an Archive theorist trying, across generations of revision, to reconcile "the Cascade encodes no moral cosmology" against the one law that reads exactly like moral cosmology anyway, and losing every time. Devotional tradition has its own answer, and the two have never agreed. That's not settled lore. That's a document with a position — which is what the Codex is for.

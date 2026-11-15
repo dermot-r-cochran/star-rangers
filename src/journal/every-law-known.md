@@ -4,6 +4,9 @@ title: "Every Law Known, One Question Open"
 date: "2026-10-24"
 description: "The undecidability of the spectral gap, proved by Cubitt, Pérez-García and Wolf in 2015: a lattice whose every law is written down can still pose a question about itself that no algorithm can settle. What it shows about the limits of theoretical physics, why effective theories hide the deeper layers, and what a hard-SF record may and may not borrow from it."
 tags: [craft, physics, editorial]
+image: "every-law-known.jpg"
+image_alt: "A square frame packed edge to edge with rounded tawny fungus caps, each finely grooved and flecked with pale granules, pressed together in a dense mass with a wedge of dark wood and bright green moss at the top"
+image_caption: "The Troop, Dublin, Ireland, 2026"
 ---
 
 *The real-world notes behind one phrase on* [The Scope of Physical Law](/star-rangers/lore/the-scope-of-physical-law/)*, where the widest ground a lawful statement can stand on is a mathematical regime's foundations "and what can be proved in it." The Archive speaks in its own voice there and names nobody from our century; the names are here. This page adds nothing to canon.*

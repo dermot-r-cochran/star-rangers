@@ -334,8 +334,9 @@ function checkFrontMatterImageExists(data, relativePath, index) {
 // per type: layout directory + front-matter value, exactly as the template
 // builds it.
 //
-// The map mirrors the five layouts that hardcode a category directory
-// (character.njk, codex.njk, lore-entry.njk, glossary-entry.njk, chapter.njk).
+// The map mirrors the six layouts that hardcode a category directory
+// (character.njk, codex.njk, lore-entry.njk, glossary-entry.njk, chapter.njk,
+// and journal-entry.njk since 2026-11-15).
 // Two of them - glossary and chapters - have no page carrying an `image:`
 // today, so those rows are dormant rather than dead: they cost nothing and the
 // first such page gets checked instead of quietly 404ing.
@@ -344,7 +345,8 @@ const IMAGE_DIR_BY_SECTION = {
   codex: "codex",
   lore: "lore",
   glossary: "glossary",
-  seasons: "chapters"
+  seasons: "chapters",
+  journal: "journal"
 };
 
 function checkFrontMatterImageUrlResolves(data, relativePath, index) {

@@ -22,6 +22,16 @@ commentsCategory: journal
       {% endfor %}
     </ul>
     {% endif %}
+    {# One of Dermot's own photographs, never generated (2026-11-15). Without
+       `image` the header renders exactly as it did before. #}
+    {% if image and image_caption %}
+    <figure class="journal-entry__figure">
+      <img class="entry-image" src="/star-rangers/images/journal/{{ image }}" alt="{{ image_alt | default(title) }}" />
+      <figcaption class="journal-entry__caption">{{ image_caption }}</figcaption>
+    </figure>
+    {% elif image %}
+    <img class="entry-image" src="/star-rangers/images/journal/{{ image }}" alt="{{ image_alt | default(title) }}" />
+    {% endif %}
   </header>
 
   <div class="lore-entry__body">

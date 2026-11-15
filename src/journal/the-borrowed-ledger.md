@@ -4,6 +4,9 @@ title: "The Borrowed Ledger"
 date: "2026-08-07"
 description: "An adaptation inherits a record it did not write, with an audience attached. What it owes that record is not transcription — a show can keep tidier books than its source and still lose the room, which is how you know coherence and custody are separate accounts."
 tags: [editorial, craft, canon, method, audience, adaptation]
+image: "the-borrowed-ledger.jpg"
+image_alt: "A long, empty timber lodge with a sagging tin roof on a flat grass plain under a dark storm sky, lit by low golden morning sun, with a troop of baboons foraging among piles of cut brush in the foreground"
+image_caption: "Tenants, Amboseli, Kenya, 2025"
 ---
 
 [The previous entry](/star-rangers/journal/the-audience-keeps-the-books/) was about a story keeping its own books. This is the companion case: a story keeping somebody else's.

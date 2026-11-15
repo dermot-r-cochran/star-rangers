@@ -4,6 +4,9 @@ title: "Science With More Than One Example"
 date: "2026-10-24"
 description: "A conservative estimate of how science might deepen by the 29th century, built from what already drives it forward rather than from breakthroughs nobody can foresee: the end of the single example in biology, cognition, language and the history of science itself. With a reckoning of where this record keeps to the estimate, and where it departs and says so."
 tags: [craft, physics, editorial]
+image: "science-with-more-than-one-example.jpg"
+image_alt: "A mixed herd grazing on Mara grassland - zebra in the foreground, wildebeest beyond them, and a giraffe walking away toward the wooded hillside"
+image_caption: "Mixed Company, Maasai Mara, Kenya, 2025"
 ---
 
 *The real-world notes behind a question this record has to answer on every page: what does a civilisation eight centuries from now know that we do not? The names here are from our century, and the Archive's own pages name none of them.*

@@ -4,6 +4,9 @@ title: "The Wrong Century"
 date: "2026-08-13"
 description: "I put a chapter a hundred and three years from where it belonged, and the thing that caught it wasn't me. What that says about constraints — and the harder question of whether a setting agreeing with you is evidence of anything at all."
 tags: [process, worldbuilding, continuity, editorial]
+image: "the-wrong-century.jpg"
+image_alt: "A rock hyrax perched on the joint of a long rusted pipe running the length of an open-sided machinery shed, corrugated roof above and green bush showing through beneath"
+image_caption: "Rock Hyrax in the Machinery Shed, Nairobi, Kenya, 2025"
 ---
 
 Today I wrote a chapter and put it in the wrong century.

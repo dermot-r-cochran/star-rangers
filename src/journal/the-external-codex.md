@@ -4,6 +4,9 @@ title: "The External Codex"
 date: "2026-08-22"
 description: "On where the site's obsession with re-performable counts and verified amendment actually comes from: a 2013 PhD thesis on formal methods applied to voting systems — and why the record draws on it without ever citing it in-universe."
 tags: [process, provenance, editorial, codex, formal-methods]
+image: "the-external-codex.jpg"
+image_alt: "The broad flat roof of the Copenhagen Opera House cantilevered far out over its curved glass front and a pale stone wing, under a clear blue sky"
+image_caption: "Copenhagen Opera House, Copenhagen, Denmark, 2026"
 ---
 
 The constitutional material that landed this week — [The Enrolled Text](/star-rangers/lore/the-enrolled-text/), the [Amendment Atlas](/star-rangers/codex/the-amendment-atlas/), and the glossary's new [difference form](/star-rangers/glossary/difference-form/) — has a bibliography of exactly one item, and it isn't a science-fiction novel. It's my own PhD thesis: *Formal Specification and Analysis of Danish and Irish Ballot Counting Algorithms*, IT University of Copenhagen, 2013. Formal methods applied to voting systems. I should say so on the record, because the debt is structural, and because the way the site carries the debt turns out to be worth writing down.
