@@ -12,7 +12,7 @@ permalink: /seasons/s03/
   </ol>
 </nav>
 
-<img class="page-hero-image" src="/star-rangers/images/hero/season-03-datacentre.jpg" alt="Rows of server racks behind perforated doors, lit blue and green from within, receding down a dark data hall" />
+<img class="page-hero-image" src="/star-rangers/images/hero/season-03-datacentre.jpg" alt="A long, quiet, vaulted reading hall in pale stone-grey, a row of oak tables down its middle with a few thin blank slates on them and one reader bent over a sheet at the far end. On the right a wall of closed flush pale panels; on the left a long window onto a calm grey sea, where a long curved pale hull lies low on the water and a thin trail climbs steeply into the sky." />
 <h1 class="page-title">Season 3</h1>
 <p class="page-intro">
   Two years into her service, Shepherd is a Principal working through an archive backlog nobody else wanted — routine review, unglamorous by design. Season 3 follows what she finds in it, and what it costs to be believed about it.
