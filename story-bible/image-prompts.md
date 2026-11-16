@@ -2715,3 +2715,125 @@ Dermot's *"B: retrofit chassis"*. The prompt of record for the portrait is in `i
 
 > Edit the first image, a photograph. Keep everything exactly as it is: the pale-barked trees and their roots, the kneeling woman with her palm on the ground inside the white chalk ring, the thread and the two glasses of water, the bearded man holding the lamp, the dark marsh and the pre-dawn sky; the framing, light, focus and grain. Change only the small robot standing at the left edge of the grove: replace the white plated robot, in the same place, at the same small size, standing at the perimeter, with the robot in the second image, the same machine exactly: a tall, boxy working robot with a broad straight-sided trunk of matte pale grey-khaki composite, heavy plain limbs whose rounded joint-casings are worn pale and smooth at their edges, a low plain rounded grey cap of a head set on a dark satin graphite adapter collar with one small pale indicator in it, a compact cluster of small dark lenses on a short jointed graphite mount at one side of the head, a narrow flat graphite bar on the crown, a small graphite sensor block on its own bracket on one shoulder, and one small plain dull grey metal plate bolted to the chest. It has no face: no eyes in a pair, no visor, no faceplate. It is clean and kept, its wear only at the joint-casings. Take nothing else from the second image: not its room, window, table, light or pose. Its lens cluster and shoulder block are turned toward the trees and the people at the chalk ring, watching. No text, no lettering, no numerals, no new objects, no white plastic armour. A documentary photograph, not a render.
 
+
+## 2026-11-16 — Season 2 chapter illustrations, all fifteen (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 63, with the references each was sent. **Tool** for all fifteen: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, the two plate edits at strength 0. Forty-three images in all.
+
+### chapters/s02e01c01.jpg — filed 16 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same black cat on the same cream store, the same desk, grey sheet, bronze flask and man seen from above, the same window, floor, light, framing, focus and grain. Change only one thing: the door at the right. It is now a plain flush door of the same cream composite with softly rounded corners, standing a hand's breadth open, with no hinge showing, no handle, no lever, no glass slot and no window in it; through the gap only the foot of a plain pale stair is visible, with no chair and no furniture. Nothing else changes. No text, lettering or numerals anywhere.
+
+### chapters/s02e01c02.jpg — filed 16 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s02e01c03.jpg — filed 16 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2 (take 1 was blocked by the generator), then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same low view down the office floor, the same cork matting and bars of evening light, the same desks and seats, the same man standing in exactly the same place and pose with the same clothes, the same black cat on the store, the same brown mug with two white rabbit ears, the same long window and dusk terraces, the framing, focus and grain. Change only two things.
+>
+> 1. The ceiling: it is now one plain seamless vault of cream composite with no panels, no recessed rectangles, no slots, no grilles and no light fittings of any kind, lit only by the evening light from the window.
+>
+> 2. The wall beside the narrow door at the far end: remove the small plate with the blue mark, so the wall is plain. The door stays shut and plain, with no handle.
+>
+> Nothing else changes. No text, lettering or numerals anywhere.
+
+### chapters/s02e02c01.jpg — filed 16 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same black cat on the same barrier, the same tunnel, hoops, grey water mains and decking, the same woman with exactly the same face, red hair, build, stride and blue-grey uniform, the same plain baton in her hand, the framing, focus and grain. Change only two things.
+>
+> 1. Her uniform's chest: remove the row of small coloured ribbons and the small square patch, so that the cloth there is plain. Keep the single pale diamond-shaped patch and the round shoulder patch exactly as they are.
+>
+> 2. The two long bright white strips of light at the foot of the walkway's sides: they are no longer bright glowing tubes. The light there is now a low, soft, dim cool wash on the decking from a source hidden under the lip of each side wall, with no bright line, no tube and no glare; the walkway is a little darker and the cat and the woman are lit as before.
+>
+> Nothing else changes. No text, lettering or numerals anywhere.
+
+### chapters/s02e03c01.jpg — filed 16 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s02e03c02.jpg — filed 16 November 2026
+- **Kind:** generation from text, then an edit
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same black-and-white sheepdog flat on the frozen track with exactly the same pose, coat, eye and gaze, the same track, frost, dry-stone walls, snow, hills, far sheep and grey sky, the framing, focus and grain. Change only these things, all of them in the soft background.
+>
+> 1. The wooden posts along the walls and beside the gate: each is now a slim plain marker post of smooth pale grey composite with a softly rounded top and one very small steady pale light near the top. There is no wire, rail or mesh between any of them.
+>
+> 2. The gate: a plain low gate of slim upright bars of dark matte composite with softly rounded corners and no cross-brace, no hinges showing, no latch and no bolt; on its post one small smooth sealed housing with a single pale indicator.
+>
+> 3. The long stone house: keep its stone walls and its dark seamless roof. Along the wall just under the eave runs one smooth sealed conduit, a plain pale grey pipe-like housing with rounded ends. On the gable end, high up, a small rounded cradle of pale composite is fixed to the stone, and in it rests one small plain field drone, a smooth pale grey pod the size of a loaf with no rotors showing, at rest.
+>
+> 4. In the grey sky above the far hills, one thin perfectly straight pale thread climbs steeply and fades: the trail of a distant ascent to orbit.
+>
+> Nothing else changes. No person, no vehicle, no wire, no poles with cables, no aerial, no satellite dish. No text, lettering or numerals anywhere.
+
+### chapters/s02e03c03.jpg — filed 16 November 2026
+- **Kind:** edit of Dermot's photograph `F:\112GLEND\_DSC0747.JPG` (cropped to 16:9)
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2 filed at finish 0.
+
+### chapters/s02e04c01.jpg — filed 16 November 2026
+- **Kind:** edit of Dermot's photograph `F:\115GLEND\_DSC0936.JPG` (cropped to 16:9), with `sorcha.jpg` as a reference
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed at finish 0.
+
+### chapters/s02e05c01.jpg — filed 16 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s02e06c01.jpg — filed 16 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same black cat sitting on the same dark desk with exactly the same pose, coat, eyes, collar and tag, the same woman with exactly the same face, hair, expression, grey jacket and maroon top, her hands and the pale sheets, the tray, the green woven wall, the window and its terraces, the light, framing, focus and grain. Change only one thing: the chair she is sitting on. The pale mesh-backed office chair is gone. Her seat is now a low rounded seat of moulded cream composite with a thin upholstered pad of moss-green woven cloth on its back, with no mesh, no armrests, no levers, no wheels and no headrest; only the top of its rounded back shows behind her shoulder. Nothing else changes. No text, lettering or numerals anywhere.
+
+### chapters/s02e07c01.jpg — filed 16 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same white lop-eared rabbit at the rim of the same pale crate, the same sleeping grey-and-white cat with exactly the same pose and markings, the same rust-red and ochre quilt, the same lifted oatmeal blanket, the same berth, bunk and window, the light, framing, focus and grain. Change only one thing: among the small objects lying on the quilt beside the cat, remove the black folding paper clip with its wire handles, and put in its place one small plain crimp of dull grey metal, a simple smooth U-shaped piece the size of a thumbnail with no wire handles. The stylus, the reel of pale tape, the spoon and the small dark block stay exactly as they are. Nothing else changes. No text, lettering or numerals anywhere.
+
+### chapters/s02e08c01.jpg — filed 16 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s02e09c01.jpg — filed 16 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s02e10c01.jpg — filed 16 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same walkway floor, the same standing legs with exactly the same clothes and shoes, the same gloves, spoon, small blue shoe, cloth bags, beaker, rolled apron and covered dish on the floor, the same lit doorway and window, the same brown rabbit with upright ears sitting in the same place, the light, framing, focus and grain. Change only one thing: the carrier the rabbit sits in. The plastic pet carrier with barred vents, clips and a grey handle is gone. In the same place and at the same size stands a low rounded carrying case made with care: one smooth seamless shell of pale sand-coloured composite shaped like a loaf with softly rounded corners, a soft flat grip of undyed woven cloth along its top, and its whole front closed by one panel of fine pale woven mesh through which the rabbit is plainly seen, turned three-quarters away and looking at the inside wall of the case. No bars, no slots, no vents, no clips, no latches, no screws, no hinges and no logo. Nothing else changes. No text, lettering or numerals anywhere.
+
+### chapters/s02e11c01.jpg — filed 16 November 2026
+- **Kind:** generation from text
+- **Source:** `images.md` § 63.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2 filed.
