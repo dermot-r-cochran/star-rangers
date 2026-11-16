@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Episode 3"
-description: "Chapters in Season 3, Episode 3 — the autumn after the door: a fold-approach post falls open at the far end of a line, a word is asked of the last Chief she answered to, a Line Captain reads the name on her line and the nothing under it, and the officer the season has followed is in none of the rooms."
+description: "Chapters in Season 3, Episode 3 — the autumn after the door: a fold-approach post falls open at the far end of a line, a word is asked of the last Chief she answered to, a Line Captain reads the name on her line and the nothing under it, and the officer the season has followed is in none of the rooms; then the post itself, the day she assumes it."
 permalink: /seasons/s03/e03/
 ---
 <nav class="chapter-breadcrumb" aria-label="Episode location">
@@ -17,7 +17,10 @@ permalink: /seasons/s03/e03/
   The autumn after the door. A fold-approach post on the outward frontier falls open, and the Corps' lists carry a Chief Ranger who has held the rank with no department since the spring. A word is asked where no board sits, of the last Chief she answered to, and Arashobal gives the material part and one fact she has kept a year against exactly this use, and renews a mark of her own in the same reply. Nine hours from the post, the Line Captain whose line it is reads the name and the nothing under it, is not asked, adds nothing, and does not go out.
 </p>
 <p class="page-intro">
-  One chapter, and Shepherd is in none of its rooms. What the record keeps of who vouched for her first command is the posting list, which says who, and never who said so.
+  In the first chapter Shepherd is in none of the rooms. What the record keeps of who vouched for her first command is the posting list, which says who, and never who said so.
+</p>
+<p class="page-intro">
+  In the second the list has reached the post, where a Chief Ranger has held the watch and the answering for thirty-three days. She comes through the lock, reads the log standing, and assumes the post in one line. The Chief's state sheet goes up the relay with his initial and nothing under it, and she asks which line of his bill is the Starwarden's.
 </p>
 
 {% set seasonNumber = "3" %}

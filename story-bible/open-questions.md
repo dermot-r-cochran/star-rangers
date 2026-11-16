@@ -112,6 +112,13 @@ left as they stand.
 ---
 
 
+## The day she assumes the post, *On Assumption* (S03E03C02) — the weekly Fable pass of 16 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
+
+The next chapter of Tissadelle's middle under the 18 October ruling (option A), and the second chapter of Episode 3. Late autumn 2829: the post's Chief Ranger, Emeka Lindahl (new), has held it thirty-three days; Shepherd reads the log standing, assumes the post in one line, does not sign *received as stated* under his initial on the state sheet, and takes the Starwarden's middle watch, which he had been standing with his own. Readings settled at Fable and recorded in `intake-2026-11-16.md`: the beat; a Shepherd viewpoint that says nothing of where she came from, so *Received*'s canon fact stands; the slot; the new Chief and his name; the watch's word *the dead Starwarden*. Nothing in it met the bar for him. **Two things left as options, neither blocking:**
+
+1. **The watch's word, *the dead Starwarden*.** *Not Asked* (S05E00C01) has Wender sit *"in a dead Starwarden's chair"*, while *Spent*'s canon fact says the post's Starwarden had *gone up*. The new chapter answers it in the story: the post's watch calls any Starwarden who has gone up *dead*, since she does not write back and is not to be asked. (a) **Recommended: keep it**; it makes the two chapters agree and costs one paragraph. (b) Cut the paragraph and change *dead* to *departed* in *Not Asked*, a clarification of published prose and so his. (c) Cut the paragraph and leave *dead* as a figure of speech.
+2. **A portrait for Emeka Lindahl.** His page has none and no body is stated. (a) **Recommended: leave it** until a second chapter uses him. (b) State a body and write a portrait prompt now.
+
 ## Left by the critic read of #1857 to #1873 — recorded 15 November 2026 on Fable — all three RULED the same evening, each as recommended
 
 The read of the afternoon's pull requests changed six phrases on four pages, each a correction (`CHANGELOG.md`). Three things it found need his word, so each is put once, as options. Nothing below is canon.
