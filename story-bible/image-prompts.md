@@ -3057,3 +3057,41 @@ At Dermot's *"Yes fix the Season 2 frames when ready"*. Why each was fixed and w
 > In the same place and at the same size, it becomes a very thin flat leaf of pale warm grey stone-like material, a little darker than the desk and close to its colour, thin as a sheet of slate veneer, with sharp square corners and a fine straight edge that shows its thinness, lying perfectly flat. Its matte face has the faint grain of stone and is entirely blank. It does not look like a tablet, a phone, a screen, a mouse mat, a folder, a book, a clipboard or a sheet of paper or card. Nothing on it glows.
 >
 > Nothing else changes and nothing is added. No text, lettering or numerals. A documentary photograph, not a render and not an illustration.
+
+## 2026-11-16 — Jeeves re-made like Rook-7: three rounds, none filed yet (Opus, desktop)
+
+Dermot, verbatim: *"Similar treatment for Jeeves"*. The record, the design inference and the verdicts are in `images.md` under `jeeves.jpg`. **Tool:** Gemini, `gemini-3.1-flash-image`, 16:9 at 2K; no refusals. Takes kept outside the repository; the filed frame stands until he picks. Images generated: six.
+
+- **Round 1**, `scripts/image-prompts.js --generate --only jeeves`, two takes:
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape. A household robot in the small galley kitchen of a flat aboard a space habitat, seen from the hips up in three-quarter view at standing eye height. It is setting one cup on its saucer down at a single place laid on a scrubbed wooden table, and its head is turned a little toward the doorway at the side of the frame, as if listening for someone coming home.
+>
+> The robot is tall, slender and human-shaped, and plainly a machine. Its shell is matte ivory-grey composite, the grey of pale stone, in long smooth moulded forms with softened edges and fine deliberate seams. Each joint is covered by a smooth sleeve of the same grey. Its hands are long, slim and finely jointed. Its head is a smooth rounded form with no face at all, and two small round dark lenses sit close together low on its front, like a camera's, plainly instruments. Over the shell it wears a plain dark fitted waistcoat of real cloth.
+>
+> The kitchen is tidy and kept: smooth pale composite walls curving into the ceiling, a galley counter of the same with plain handleless cupboards, a folded cloth, and one small round viewport showing the habitat's green interior curving upward in the distance.
+>
+> Photographed, not rendered: high-ISO grain, a real lens with slight softness toward the corners, a touch under-exposed, muted natural colour.
+>
+> Negative: no human face, no eyes, no mannequin, no crash-test dummy, no glossy white plastic, no exposed mechanism, no rivets, no oven, no cooker hood, no coffee machine, no kettle, no tray, no screens, no lamps, no lettering, no numbers, no 3D render.
+
+- **Round 2**, the same, two takes (take 1 is option A in the PR):
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape. One household robot, alone, in the small galley kitchen of a flat aboard a space habitat, seen from the hips up in three-quarter view at standing eye height. It is setting one cup on its saucer down at a single place laid on a scrubbed wooden table, its head turned a little toward the open doorway at the edge of the frame, as if listening for someone coming home.
+>
+> The robot is tall and human-shaped, and plainly a machine, not a person and not a mannequin. Its trunk is broad and softly rounded, moulded in one piece of matte ivory-grey composite, the grey of pale stone. Its arms are long, sheathed in smooth continuous sleeves of soft grey material, with no visible joints. Its hands are slim and finely jointed. Its head is not a skull: it is a low, smooth, rounded cowl, wider than it is tall, tilted slightly forward, and set in its front edge are two small round dark lenses, one above the other. Over the trunk it wears a plain dark fitted waistcoat of real cloth.
+>
+> The kitchen is tidy and kept: smooth pale composite walls curving into the ceiling, a galley counter of the same with plain handleless cupboards, a folded cloth, and one small round viewport showing the habitat's green interior curving upward in the distance.
+>
+> Photographed, not rendered: high-ISO grain, a real lens with slight softness toward the corners, a touch under-exposed, muted natural colour.
+>
+> Negative: only one robot, no face, no pair of eyes, no alien head, no egg-shaped head, no mannequin, no wooden lay figure, no crash-test dummy, no glossy white plastic, no exposed mechanism, no rivets, no oven, no cooker hood, no kettle, no tray, no screens, no lamps, no lettering, no numbers, no 3D render.
+
+- **Round 3**, `scripts/image-edit.js` on round 2 take 1, two takes (take 1 is option B in the PR):
+
+> Edit this photograph. Keep everything exactly as it is: the kitchen, the table, the cup and saucer, the folded cloth, the round viewport, the robot's body, waistcoat, arms, hands and pose, the framing, light and grain.
+>
+> Change only the robot's head and neck. Replace the large boxy head with a smaller head, about the size of a person's head: a smooth rounded form like a river pebble, a little longer front to back than it is tall, matte pale stone-grey, with no face. Two small round dark lenses sit recessed one above the other in the front of it, small and plain. The neck is short and thick, covered by the same soft grey sleeve as the arms, so the head grows smoothly out of the shoulders. The head is tipped slightly down and turned a little toward the doorway on the right.
+>
+> Change also the view through the doorway on the right: a short pale corridor of the same smooth composite, not green.
+>
+> No face, no pair of eyes side by side, no camera, no projector, no box, no egg, no alien, no text. A documentary photograph, not a render.
