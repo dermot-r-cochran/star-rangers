@@ -2880,3 +2880,121 @@ The prompts of record are in `story-bible/images.md` § 63, with the references 
 - **Kind:** generation from text
 - **Source:** `images.md` § 63.
 - **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2 filed.
+
+## 2026-11-16 — Season 2 frame fixes (Opus, desktop)
+
+At Dermot's *"Yes fix the Season 2 frames when ready"*. Why each was fixed and what was kept is in `images.md` § 63, *Fixes, 16 November 2026*. **Tool** for all: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js`, two takes per call, each an edit of the filed frame or of the previous edit's kept take; filed at 1600×893 with `import-image.ps1`. Nine calls, eighteen takes.
+
+### chapters/s02e03c02.jpg — fixed 16 November 2026
+- **Kind:** image edit of the filed frame
+- **Inputs:** filed frame + `src/images/characters/donncha-o-laoire.jpg` (building idiom only).
+- **Run:** edit 1 take 1 of 2 filed, finish 1.
+- **Edit prompt:**
+
+> Edit the attached photograph, a black-and-white sheepdog lying flat on a frozen farm track with a stone house, a gate and walls behind him. Keep the dog exactly as he is: the same pose, fur, frost, eye, size and place in the frame, sharp. Keep the frozen track, the low dry-stone field walls, the snow hills, the far dog and sheep, the flat grey sky, the thin straight trail climbing the sky, the long lens's soft background, the colour and the grain. Make only these changes, all of them in the soft background, to the made things, so that the holding reads as a hill farm eight centuries from now and not as a farm of today.
+>
+> First, the house. It stays a long low single-storey building in the same place and size, but it is now a weatherproofed stone longhouse of this later century: walls of large sealed pale grey stone panels with fine straight joints, no rubble masonry and no pointing; a plain dark seamless roof with no slates, no gutters, no downpipe and no chimney; and under the whole length of the eave three parallel smooth grey heating conduits running side by side, turning down at the gable end. On the gable, in a shallow recess built into the wall near the ridge, sits a folded field drone in its cradle: a smooth flat grey body with its arms folded close, plainly a small aircraft at rest, not a lamp. Deep small windows set flush with no frames showing. The glasshouse at its end stays, with a plain frame.
+>
+> Second, the gate. The present-day barred field gate is gone. In the gap in the wall stands the century's gate: one single solid leaf of matte dark grey composite, smooth and seamless, standing shut, flush with the wall's line, with no bars, no rails, no hinges showing, no latch and no handle, and one small sealed housing on the wall beside it with a single steady pale indicator.
+>
+> Third, the posts. The slim pale posts along the walls stay, sensor posts with no wire between them; leave them as they are.
+>
+> The reference image shows this century's idiom on another holding (sealed stone panels, conduits under the eave, a gable, sensor posts, a plain dark door leaf): take only that building idiom from it, and nothing else: not its man, not its goats, not its light, not its framing.
+>
+> Nothing else is added: no person, no vehicle, no wire, no poles, no power lines, no smoke, no lamp on the wall. No text, lettering or numerals. A documentary photograph, not a render and not an illustration.
+
+### chapters/s02e03c03.jpg — fixed 16 November 2026
+- **Kind:** image edit of the filed frame (two edits)
+- **Inputs:** filed frame (on his plate `F:JGLEND\_DSC0747.JPG`) + `donncha-o-laoire.jpg` for edit 1; edit 1 take 1 for edit 2.
+- **Run:** edit 2 take 2 of 2, then the house box and the wall band composited (feathered 12 px) onto the filed frame so the hillside keeps its filed pixels; finish 0.
+- **Edit prompt 1:**
+
+> Edit the attached photograph, a winter valley in low sun: a steep mountainside of pines and bare larches above a green field, a long low stone house at the foot of the slope, and a dry-stone wall with a small gate and a black-and-white sheepdog in the foreground. This is a real photograph: keep the land and the light exactly as they are. The same mountainside, every tree, the green field, the rough tawny grass, the low sideways winter sunlight, the sky, the colour, focus and grain; the same dry-stone wall in the same place; the same dog in the same place and pose. Change only the made things, so that the holding reads as a hill farm eight centuries from now and not as rural Ireland today.
+>
+> First, the house. It stays a long low single-storey building at the same spot and size, but it is now a weatherproofed stone longhouse of this later century: walls of large sealed pale grey stone panels with fine straight joints in place of rubble masonry; a plain dark seamless roof with no slates, no gutters and no chimney; three parallel smooth grey heating conduits running the whole length under the eave and turning down at the gable; deep small windows set flush with no frames showing; a plain flush dark door leaf with no handle. On the near gable, in a shallow recess close under the ridge, sits a folded field drone in its cradle: a small smooth grey aircraft at rest with its arms folded close. The glasshouse at its end stays.
+>
+> Second, the gate. The present-day barred gate is gone. In the same gap in the wall stands the century's gate: one single solid low leaf of matte dark grey composite, smooth and seamless, standing shut, with no bars, no rails, no hinges showing, no latch and no handle, and one small sealed housing on the wall beside it with a single pale indicator. The dog is where he is, nose down by the wall near the gate.
+>
+> Third, on the green field beyond the wall, between the wall and the house, a short line of four slim pale grazing-fence sensor posts stands in the grass with no wire between them, small at this distance. Close to the house's far end, small, a low smooth yard robot, a rounded grey body on wheels, stands at rest.
+>
+> Fourth, the thin straight white trail in the sky stays as it is: the trail of an ascent javelin gone up to orbit a little while ago.
+>
+> The reference image shows this century's idiom on another holding (sealed stone panels, conduits under the eave, a gable, sensor posts with no wire, a plain dark door leaf): take only that building idiom from it, and nothing else: not its man, not its goats, not its light, not its framing.
+>
+> Nothing else is added: no person, no sheep, no second dog, no vehicle, no road, no wire fence, no poles, no power lines, no smoke. No text, lettering or numerals. A documentary photograph, not a render and not an illustration.
+
+- **Edit prompt 2:**
+
+> Edit the attached photograph. Keep everything exactly as it is, every tree, the house, the glasshouse, the wall, the gate, the dog, the posts, the light, colour, focus and grain. Make only one change: the small low grey rounded machine standing on the grass near the far end of the house, to the right of the house, is gone, and the green grass continues there unbroken. Nothing else changes and nothing is added: no vehicle, no car, no person. No text. A documentary photograph.
+
+### chapters/s02e04c01.jpg — fixed 16 November 2026
+- **Kind:** image edit of the filed frame (two edits)
+- **Inputs:** filed frame (on his plate `F:MGLEND\_DSC0936.JPG`); edit 1 take 1 for edit 2.
+- **Run:** edit 2 take 1 of 2 filed, finish 0.
+- **Edit prompt 1:**
+
+> Edit the attached photograph, a close view of an old stone doorway with an old woman's hand laid flat on its stone. Keep the photograph's stones as they are, their colour, lichen and weathering, the inner round-headed doorway opening on darkness, the woman, her coat, her hair and her hand exactly where it lies, the cool evening light with its faint warm edge on her hand, the framing, focus and grain. Make only these changes, so that this is the doorway of an old cold-cellar dug into a hillside, dry-walled, and not the doorway of a church.
+>
+> First, the pointed outer arch is gone: no point, no gothic arch, no church arch. In its place, at the same width, the outer opening is spanned by a low plain round-headed arch of rough unshaped stones laid on edge, of the same grey and buff stone as the photograph, with no keystone and no carved or dressed arch stones.
+>
+> Second, every wall in the picture is dry-walled: the same rough grey stones, laid by hand with no mortar at all, so that between the stones there are dark open gaps and small stones packed into them, and no pale mortar lines, no pointing and no render anywhere.
+>
+> Third, above the arch the wall's top course is capped with turf, and the green grassy slope of the hill the cellar is dug into rises behind and above it at the top of the frame.
+>
+> Her hand stays where it is, flat on the stone at the right of the opening.
+>
+> Nothing else is added: no door, no gate, no grille, no lamp, no cross, no carving, no niche, no animal, no second person. No text, lettering or numerals. A documentary photograph, not a render and not an illustration.
+
+- **Edit prompt 2:**
+
+> Edit the attached photograph, an old woman's hand laid flat on the stone of a cellar doorway dug into a grassy hillside. Keep every stone exactly where and as it is, its shape, colour, lichen and weathering; keep the turf-capped arch, the grassy slope above, the inner doorway opening on darkness, the woman, her coat, hair and hand exactly where it lies, the cool evening light, the framing, focus and grain.
+>
+> Make only one change: the walls are dry-walled, with no mortar anywhere. Wherever pale grey mortar fills the joints between the stones, in the side walls, the jambs, the lower walls and around the inner doorway, the mortar is gone: the joints are dark open gaps of shadow between the stones, with small flat stones packed into the wider gaps here and there, as in a wall laid by hand without mortar. Where a large smooth patch of mortar or render covers the wall at the lower left, it is gone too and the stones behind it show, laid dry. Do not move, reshape or replace the stones themselves.
+>
+> Nothing else changes and nothing is added: no door, no gate, no lamp, no cross, no carving, no animal, no second person. No text, lettering or numerals. A documentary photograph, not a render and not an illustration.
+
+### chapters/s02e10c01.jpg — fixed 16 November 2026
+- **Kind:** image edit of the filed frame (two edits)
+- **Inputs:** filed frame; edit 1 take 2 for edit 2.
+- **Run:** edit 2 take 2 of 2 filed, finish 1.
+- **Edit prompt 1:**
+
+> Edit the attached photograph, a pale walkway seen from floor level through the standing legs of a still crowd, with small belongings set down on the floor and a rabbit in a rounded carrying case at the left. Keep the composition, the floor, the light, the window onto green terraces, the lit doorway, the carrying case and the rabbit exactly as they are, and keep every object on the floor (gloves, spoon, bags, beaker, scarf, rolled apron, covered dish) where it is. Make only these changes.
+>
+> First, the clothes on the legs. Nothing may look like clothing of today. No denim, no jeans, no chinos, no cargo trousers, no jogging bottoms, no socks showing. Dress every leg in the clothing of a habitat eight centuries from now: long, loose, softly draped garments of matte undyed and earth-dyed woven cloth (ochre, slate blue, moss green, oat grey), cut differently from anything worn today: long wrap skirts and divided wrap trousers that fold and tie at the hip and fall straight to the ankle with no seams down the leg, no pockets, no belt loops, no turn-ups, no zips; the hems of long work aprons and of knee-length tunics hanging over them. Fabric with a real weave, creases and softness.
+>
+> Second, the shoes. No trainers, no sneakers, no laces, no soles with treads, no chelsea boots with elastic panels, no loafers, no socks. On every foot is the century's deck shoe: a seamless soft one-piece slipper-boot of matte felted cloth or soft matte composite, rounded at the toe, close-fitting at the ankle, with a thin flexible sole that shows no tread, in grey, oat, slate or moss. The small child's shoe on the floor becomes a soft seamless blue cloth slipper of the same kind, with no strap and no sole edge.
+>
+> Third, loosen the crowd if you can without moving the camera: the legs need not stand in two neat rows like a queue; a few stand a little out of line, toward the middle of the walkway, so it reads as a crowd that has stopped where it was, all facing toward a point deep in the middle of the picture.
+>
+> Nothing else changes and nothing is added: no faces, no heads in the foreground, no animal outside the case, no bags with logos, no phones. No text, lettering or numerals. A documentary photograph, not a render and not an illustration.
+
+- **Edit prompt 2:**
+
+> Edit the attached photograph. Keep everything exactly as it is: the floor, the light, every object on the floor, the carrying case and the rabbit, the right-hand side of the picture, every shoe, the doorway and the window. Change only the clothing on the row of legs at the left of the picture (the ochre legs at the far left, the blue legs behind the carrying case, the grey-green and olive legs beyond them), because they read as present-day jeans and chinos.
+>
+> Re-dress those legs, keeping each person exactly where they stand and keeping the colours (ochre, slate blue, grey-green, olive): no denim, no jeans, no chinos, no patch pockets, no hip pockets, no side seams, no belt loops, no turn-ups, no topstitching. The ochre legs wear long loose divided wrap trousers of soft matte woven cloth that cross over and tie at the hip and fall in soft folds to the ankle. The slate-blue legs become a long straight wrap skirt of soft matte woven cloth to the ankle, its overlap and tie at the hip. The grey-green and olive legs wear knee-length plain tunics of woven cloth over loose gathered leggings of the same cloth, gathered at the ankle. Fabric with a real weave and creases.
+>
+> Nothing else changes and nothing is added. No faces, no text, lettering or numerals. A documentary photograph, not a render and not an illustration.
+
+### chapters/s02e01c01.jpg — fixed 16 November 2026
+- **Kind:** image edit of the filed frame (two edits)
+- **Inputs:** filed frame; edit 1 take 1 for edit 2.
+- **Run:** edit 2 take 2 of 2 filed, finish 1.
+- **Edit prompt 1:**
+
+> Edit the attached photograph, a black cat on top of a tall cream cabinet looking down at a pale desk, with a man's head and shoulder beside the desk. Keep everything exactly as it is: the cat, his pose, fur and collar; the man, his hair and hand; the room, the window and the terraces through it, the light, colour and grain. Change only the two objects on the desk, so that neither looks like a thing of today.
+>
+> First, the grey sheet. At the moment it reads as a present-day folder or a sheet of card. Replace it, in the same place, with the century's form: one very thin rigid leaf of matte dark slate-grey material, thinner than a fingernail, lying perfectly flat on the desk with sharp straight edges and softly rounded corners, no fold, no spine, no flap, no cover, no pocket, no binding and no raised edge, a little darker than the desk and catching the window light on its matte face like stone. Blank and unlit: nothing on it glows.
+>
+> Second, the bronze flask. At the moment it reads as a present-day drinking bottle with a shoulder, a neck and a cap. Replace it, in the same place and about the same height, with a smooth sealed capsule of matte dull-bronze ceramic: a long upright ovoid with both ends evenly rounded like an egg, no shoulder, no neck, no cap, no lid, no handle, only one hair-fine seam around it a little below the top.
+>
+> Nothing else changes and nothing is added. No text, lettering or numerals. A documentary photograph, not a render and not an illustration.
+
+- **Edit prompt 2:**
+
+> Edit the attached photograph. Keep everything exactly as it is: the cat, the man, the room, the window, the bronze capsule on the desk, the light, colour and grain. Change only the dark leaf lying on the desk, because at the moment it reads as a present-day tablet or a mouse mat.
+>
+> In the same place and at the same size, it becomes a very thin flat leaf of pale warm grey stone-like material, a little darker than the desk and close to its colour, thin as a sheet of slate veneer, with sharp square corners and a fine straight edge that shows its thinness, lying perfectly flat. Its matte face has the faint grain of stone and is entirely blank. It does not look like a tablet, a phone, a screen, a mouse mat, a folder, a book, a clipboard or a sheet of paper or card. Nothing on it glows.
+>
+> Nothing else changes and nothing is added. No text, lettering or numerals. A documentary photograph, not a render and not an illustration.
