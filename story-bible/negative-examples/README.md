@@ -92,6 +92,12 @@ Dermot flagged seven frames and asked for a review of four more, then *"Yes rema
 | `priya-nakamura-2026-11-12.jpg` | Detective Priya Nakamura | A spiral notebook, ziplock bags, a steel tray, a factory jacket and glowing light strips. Dermot: *"looks anachronistic"*. | Replaced from a new prompt: the bureau jacket, a bound record and stylus, sealed sleeves in a composite tray. |
 | `zhulik-2026-11-12.jpg` | Zhulik | A centred catalogue cat on a steel cabinet under a glowing cove strip (rung 3, render). Dermot: *"Same for Zhulik"*. | Replaced by a lived-in family berth, off-centre, with no light fitting. |
 
+## One more, 16 November 2026
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `s01e01-corridor-2026-11-16.jpg` | Season 1, Episode 1 (hero) | A Firefly generation from the July 2026 visual review (`images.md`, *History (2026-07-24)*): a dark riveted service corridor with exposed overhead pipes, louvred panels, yellow-and-black hazard stripes, rust, a wet grated floor and painted numerals. The 20th century and grunge on every count, and lettering besides. Named for the century bar's eye in `images.md` § 60. | Replaced by a fresh generation of a kept, pale passage at Threshold Station in Dock Seven's idiom (`images.md` § 61). |
+
 ## Lessons for the next prompt
 
 - **A non-human person needs a sign of a mind, not a face.** Attention works: several parts turned together toward one thing that is not food or light. Check every non-human portrait for it.
