@@ -2571,10 +2571,36 @@ At Dermot's *"Fix Season 1 first"*. The fix list, the picks and what was left ar
 >
 > Take only the clocks' design from the second image, not its wall, doors or colour. No text, no lettering, no numerals, no screens, no dials, no new objects. A documentary photograph, not a render.
 
+### chapters/s01e00c08.jpg — re-filed 16 November 2026 (Ulessa)
+- **Kind:** an image edit of the filed frame, with one reference
+- **Source:** the filed `s01e00c08.jpg` (the fresh generation below); reference `story-bible/reference-art/ulessa-body-2026-11-16.jpg`, a crop of `src/images/characters/ulessa.jpg` to its hub, column, slung body and working limbs, with no head.
+- **Run:** Round 1, two takes, take 1 filed at 1600 px, finish strength 1. Round 2 (an edit of that take for the limb tips and the membrane, prompt below the first) gave clenched fists in both takes and was not kept. Why: `images.md` § 61, *Re-made the same day for Ulessa*. This is now the prompt of record for the frame; the entry below is its plate.
+- **Prompt:**
+
+> Edit the first image. Keep exactly as they are: the green fern-like vanes on the left and middle with the low sun shining through them, their veins, dark nodes and frayed edges; the band of creased grey-green hide they grow from at the bottom edge; the pale terrace floor, the low parapet, the gold evening sky, the light, the lens flare, the framing, focus and grain. Change only the large ochre animal on the right of the frame, so that it is the body shown in the second image and could not be mistaken for any Earth animal or dinosaur.
+>
+> On the right of the frame, a little behind the vanes and slightly out of focus, she is drawn so that her body plan shows: two of her three tall legs rise from broad soft padded feet on the terrace, one near the right edge and one further back, and arch upward out of the top of the frame toward a hub above. Hanging between those two legs, beneath that hub, on one thick wrinkled column of hide that comes straight down from the top of the frame, is her deep rounded body, slung like a load in a sling, at about the height of a standing person's chest. On the side of that hanging body facing the camera is one broad flat oval patch of smoother, paler hide set flush with the skin, a hearing membrane. Beneath the hanging body, three short slender working limbs hang curled, each ending in a closed round bud of short blunt digits, touching nothing.
+>
+> From the front of that hanging body, low down, a long smooth neck sweeps forward and slightly down toward the vanes, so that it comes out of the hanging body, not down from above, and her small smooth blunt head is held level and still close beside the nearest vane's leading edge, attending to it. The head is seen from behind and a little to the side: smooth and rounded, no mouth line, no lips, no nostrils on top, no ears, no crest.
+>
+> Her hide everywhere is the colours of the second image: warm ochre and russet with a fine velvety nap, paler sand on the underside, with darker umber banding only across the column and the top of the body; the legs and neck are not striped. A long pale healed seam runs down the nearer leg.
+>
+> Take only her body from the second image, not its room, light or table. Exactly one Mnemari, exactly as many limbs as described. No dinosaur, no sauropod, no brachiosaurus, no giraffe, no llama, no camel, no horse, no elephant, no snake, no tiger stripes, no scales, no tail, no claws, no eyes facing the camera, no face, no teeth, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
+
+- **Round 2 prompt (not kept):**
+
+> Edit this photograph. Keep everything exactly as it is: the green vanes and the low sun through them, the grey-green hide at the bottom, the terrace, parapet, sky and light; and the large ochre being on the right, her arched legs, the thick column, her hanging rounded body, her long neck and her rounded head held beside the vane, her pose, size and colours, the framing, focus and grain. Change only two small things.
+>
+> 1. The two short working limbs hanging beneath her body: each ends not in a hook or claw but in a small closed round bud, a soft rounded pad with short blunt digits folded over it like a closed flower bud, the same ochre hide as the limb. No hooks, no claws, no talons, no nails.
+>
+> 2. The oval patch on the side of her hanging body: it is flush with the skin and slightly paler and smoother than the hide around it, a flat membrane, not a hollow, hole or recess.
+>
+> No other change. No new objects, no people, no face, no text, no lettering, no numerals. A documentary photograph, not a render.
+
 ### chapters/s01e00c08.jpg — filed 16 November 2026
 - **Kind:** a fresh generation with one reference
 - **Source:** round 2: a crop of `src/images/characters/isren-farrowkin.jpg` to its vanes (the body's mound cut away). Round 1 sent `isren-farrowkin.jpg` and `ulessa.jpg` whole with a fuller version of the prompt below (not repeated); both takes drew a tortoise shell and a cartoon dinosaur head (`images.md` § 61).
-- **Run:** Round 2 of 2, two takes, take 1 filed. This is the prompt of record for the frame.
+- **Run:** Round 2 of 2, two takes, take 1 filed. It was the prompt of record until the Ulessa edit above, which used this frame as its plate.
 - **Prompt:**
 
 > Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, a close frame taken from low, at about knee height, deep focus, on the open terrace of a Federation facility in the last low sun of an early-summer evening in the year 2826 UCSD: two delegates of two peoples that are not human, after two days indoors.
@@ -3110,3 +3136,122 @@ Dermot, verbatim: *"Keep, fix the kitchen"*.
 > Change only the kitchen behind the robot. Make it a plain, tidy galley: smooth pale curved walls and a counter of the same, with flat closed cupboard fronts that have no handles. Remove the oven, the hood above it, the coffee machine, the kettle, the jars, the shelf, the utensil pot and spoons, the paper towel, the bottles, the dish rack, the tap, the wall socket and the switch. The counter is bare except for one folded cloth.
 >
 > No appliances, no text, no numbers. A documentary photograph, not a render.
+
+## 2026-11-16 — Season 3 chapter illustrations, all eleven (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 64, with the references each was sent. **Tool** for all eleven: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1. Thirty-nine images in all: twenty-one first-pass takes of twenty-two asked (the second take of `s03e01c04` was refused as *prohibited content*) and eighteen edit takes.
+
+### chapters/s03e01c01.jpg — filed 16 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s03e01c02.jpg — filed 16 November 2026
+- **Kind:** generation from text alone
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s03e01c03.jpg — filed 16 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same grey-violet limb with its skin, creases, small dark eyes and the one small warmer patch, the same desk and the same dark ceramic instrument with its shallow well of clear liquid, its pale stone disc and its one small indicator. Change only one thing: the instrument now stands a little nearer the limb, and the blunt rounded tip of the limb is raised slightly and rests lightly on top of the pale stone disc, pressing it, the way a careful person rests one fingertip on a key they are about to press. The tip stays blunt and rounded, the same skin as the rest, with no nail, no sucker and no pad. Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e01c04.jpg — filed 16 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 (take 2 was refused by the generator), then edit take 1 of 2, with the first-pass variation 2 of `s03e01c03` as the second image.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same woman seen from behind, the same grey-violet being at the desk with exactly the same body, limbs, eyes and skin, the same desk, platform, walls and doorway. Change only one thing: the small dark cube standing on the desk. It is now the instrument shown in the second image: a low rounded block of dark matte ceramic the size of two fists, with one small steady pale indicator on its side and, set into its top, a shallow round well of clear liquid beside a small flat disc of pale stone. It stands in the same place on the desk. Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e01c05.jpg — filed 16 November 2026
+- **Kind:** generation from text alone, then an edit, a hand clone and a crop
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2 (the collar tab to seven bars). A second edit of two takes for the palm tab was not used: one take left five bars and the other mangled the tab. One of the palm tab's own bars was then cloned one pitch to the left (PIL, a feathered parallelogram mask, no generator), and the frame was cropped to its lower 93% at 16:9 to take her mouth out.
+- **Edit prompt (used):**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same hands, the same blue-grey cloth and collar, the same strand of red hair, the same small metal tab lying in the open palm, the same window. Change only one thing: the small brushed-metal tab on the collar. It keeps its size, its place, its angle, its brushed pale metal and its narrow slate-blue stripe along the bottom, but it now carries seven short raised bars side by side, evenly spaced, one more than before, so the row of bars fills the width of the tab. Count them: seven bars. Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+- **Edit prompt (second, not used):**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same hands, the same blue-grey cloth and collar, the same strand of red hair, the same window, and the tab on the collar exactly as it is with its seven bars and slate-blue stripe. Change only one thing: the small brushed-metal tab lying in the open palm. It keeps its place, its size, its angle, its brushed pale metal and its small grey-green stripe at one end, but it now carries six short raised bars side by side, evenly spaced, one more than before. Count them: six bars. Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e02c01.jpg — filed 16 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same room, the same long window, grey sea and pale curved dock arm, the same dark slate table and grey slates, and every person exactly as they are, with the same faces, hair, poses and places. Change only three things.
+>
+> 1. The chairs: every chair in the room is now a plain moulded seat of pale blue-grey composite in one piece, with a low rounded back and a thin dark pad, standing on a single smooth stem. No metal frames, no dark slatted backs, no chair legs.
+>
+> 2. The ceiling: it is now one plain smooth vault of the same pale blue-grey composite, with no panels, no recessed rectangles and no light fittings.
+>
+> 3. The olive-green jacket of the man sitting nearest the woman in the foreground: it is now a plain deep olive field shell of matte cloth with a stand collar and a sealed front, with no knitted cuffs or waistband, no zip, and no pocket on the sleeve.
+>
+> Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e02c02.jpg — filed 16 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same open grey log of two leaves on the sill, the same dark stylus lying beside it, the same hand and cuff at the right, the same dock with its cream walls, its rounded pressure door and its window of blue dusk. Change only two things.
+>
+> 1. The seat the cadet sits on: it is now a plain bench of the same cream composite growing out of the wall in one piece, with a rounded front edge and a thin grey pad. No separate chair, no chair shell, no chair legs.
+>
+> 2. The cadet: the frame shows the cadet only from the shoulders down. No chin, no mouth, no face. The small patch on the chest is one small plain pale metal tab with two short raised bars.
+>
+> Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e02c03.jpg — filed 16 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same red-haired woman sitting on the same pale bin, with exactly the same face, hair, pose, gloves and blue-grey uniform and the same small grey piece in her ear; the same rounded white shelter, frost, breath and opening of pale light; the same three pale ovoids. Change only two things.
+>
+> 1. The older woman standing at the far end with her back to us: below her olive jacket she now wears matching plain deep olive insulated trousers of the same matte cloth, with no cargo pockets, and soft seamless dark boots with no laces and no heavy tread. Her grey hair, jacket and pose are unchanged.
+>
+> 2. The bench she stands at: it is now one plain pale plinth that grows up out of the deck in a single piece with rounded edges, solid to the floor, with the three ovoids seated in shallow recesses on its top. No table legs, no trestle.
+>
+> Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e02c04.jpg — filed 16 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same tall corridor of pale stone, the same slot of daylight overhead, the same oak bench, the same grey-haired woman sitting in exactly the same place and pose with the same face and olive uniform, the same tall flush door with its fine dark seal and the small pale indicator beside it. Change only two things.
+>
+> 1. The round dark housing set in the wall above the door: it is now a sealed timekeeping instrument of this century. It keeps its place and size. It is a smooth ring of dark matte ceramic set flush in the stone, and in its middle a small round sight port of very thick glass, and deep inside the glass one tiny soft point of violet light, steady, like a few glowing atoms held in a trap. It has no clock face, no hands, no numerals and no marks.
+>
+> 2. Her shoes: she now wears soft seamless dark boots with no laces, no buckles and no heavy tread.
+>
+> Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e03c01.jpg — filed 16 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is except what is named below: the same framing, light, colour, focus and grain. Keep the same woman with exactly the same face, hair, expression and pose, the same slim stylus in her hand, the same dark blue-grey desk, the same neat stack of grey leaves, the same window with the grey sea, the same walls and light. Change only two things.
+>
+> 1. The single grey leaf she is writing on: its surface is now completely blank, plain and matte, with no lines, no marks and no writing of any kind anywhere on it. The stylus tip still rests on it.
+>
+> 2. Her olive jacket: it closes down the front with one plain sealed seam, with no buttons, no button holes and no chest pocket flaps. Its colour, cloth, collar and the small rank tab with one ring are unchanged.
+>
+> Nothing else changes. No text, lettering or numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e03c02.jpg — filed 16 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 64.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
