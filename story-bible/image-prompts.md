@@ -2571,10 +2571,36 @@ At Dermot's *"Fix Season 1 first"*. The fix list, the picks and what was left ar
 >
 > Take only the clocks' design from the second image, not its wall, doors or colour. No text, no lettering, no numerals, no screens, no dials, no new objects. A documentary photograph, not a render.
 
+### chapters/s01e00c08.jpg — re-filed 16 November 2026 (Ulessa)
+- **Kind:** an image edit of the filed frame, with one reference
+- **Source:** the filed `s01e00c08.jpg` (the fresh generation below); reference `story-bible/reference-art/ulessa-body-2026-11-16.jpg`, a crop of `src/images/characters/ulessa.jpg` to its hub, column, slung body and working limbs, with no head.
+- **Run:** Round 1, two takes, take 1 filed at 1600 px, finish strength 1. Round 2 (an edit of that take for the limb tips and the membrane, prompt below the first) gave clenched fists in both takes and was not kept. Why: `images.md` § 61, *Re-made the same day for Ulessa*. This is now the prompt of record for the frame; the entry below is its plate.
+- **Prompt:**
+
+> Edit the first image. Keep exactly as they are: the green fern-like vanes on the left and middle with the low sun shining through them, their veins, dark nodes and frayed edges; the band of creased grey-green hide they grow from at the bottom edge; the pale terrace floor, the low parapet, the gold evening sky, the light, the lens flare, the framing, focus and grain. Change only the large ochre animal on the right of the frame, so that it is the body shown in the second image and could not be mistaken for any Earth animal or dinosaur.
+>
+> On the right of the frame, a little behind the vanes and slightly out of focus, she is drawn so that her body plan shows: two of her three tall legs rise from broad soft padded feet on the terrace, one near the right edge and one further back, and arch upward out of the top of the frame toward a hub above. Hanging between those two legs, beneath that hub, on one thick wrinkled column of hide that comes straight down from the top of the frame, is her deep rounded body, slung like a load in a sling, at about the height of a standing person's chest. On the side of that hanging body facing the camera is one broad flat oval patch of smoother, paler hide set flush with the skin, a hearing membrane. Beneath the hanging body, three short slender working limbs hang curled, each ending in a closed round bud of short blunt digits, touching nothing.
+>
+> From the front of that hanging body, low down, a long smooth neck sweeps forward and slightly down toward the vanes, so that it comes out of the hanging body, not down from above, and her small smooth blunt head is held level and still close beside the nearest vane's leading edge, attending to it. The head is seen from behind and a little to the side: smooth and rounded, no mouth line, no lips, no nostrils on top, no ears, no crest.
+>
+> Her hide everywhere is the colours of the second image: warm ochre and russet with a fine velvety nap, paler sand on the underside, with darker umber banding only across the column and the top of the body; the legs and neck are not striped. A long pale healed seam runs down the nearer leg.
+>
+> Take only her body from the second image, not its room, light or table. Exactly one Mnemari, exactly as many limbs as described. No dinosaur, no sauropod, no brachiosaurus, no giraffe, no llama, no camel, no horse, no elephant, no snake, no tiger stripes, no scales, no tail, no claws, no eyes facing the camera, no face, no teeth, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
+
+- **Round 2 prompt (not kept):**
+
+> Edit this photograph. Keep everything exactly as it is: the green vanes and the low sun through them, the grey-green hide at the bottom, the terrace, parapet, sky and light; and the large ochre being on the right, her arched legs, the thick column, her hanging rounded body, her long neck and her rounded head held beside the vane, her pose, size and colours, the framing, focus and grain. Change only two small things.
+>
+> 1. The two short working limbs hanging beneath her body: each ends not in a hook or claw but in a small closed round bud, a soft rounded pad with short blunt digits folded over it like a closed flower bud, the same ochre hide as the limb. No hooks, no claws, no talons, no nails.
+>
+> 2. The oval patch on the side of her hanging body: it is flush with the skin and slightly paler and smoother than the hide around it, a flat membrane, not a hollow, hole or recess.
+>
+> No other change. No new objects, no people, no face, no text, no lettering, no numerals. A documentary photograph, not a render.
+
 ### chapters/s01e00c08.jpg — filed 16 November 2026
 - **Kind:** a fresh generation with one reference
 - **Source:** round 2: a crop of `src/images/characters/isren-farrowkin.jpg` to its vanes (the body's mound cut away). Round 1 sent `isren-farrowkin.jpg` and `ulessa.jpg` whole with a fuller version of the prompt below (not repeated); both takes drew a tortoise shell and a cartoon dinosaur head (`images.md` § 61).
-- **Run:** Round 2 of 2, two takes, take 1 filed. This is the prompt of record for the frame.
+- **Run:** Round 2 of 2, two takes, take 1 filed. It was the prompt of record until the Ulessa edit above, which used this frame as its plate.
 - **Prompt:**
 
 > Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, a close frame taken from low, at about knee height, deep focus, on the open terrace of a Federation facility in the last low sun of an early-summer evening in the year 2826 UCSD: two delegates of two peoples that are not human, after two days indoors.
