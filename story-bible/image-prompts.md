@@ -2716,6 +2716,49 @@ Dermot's *"B: retrofit chassis"*. The prompt of record for the portrait is in `i
 > Edit the first image, a photograph. Keep everything exactly as it is: the pale-barked trees and their roots, the kneeling woman with her palm on the ground inside the white chalk ring, the thread and the two glasses of water, the bearded man holding the lamp, the dark marsh and the pre-dawn sky; the framing, light, focus and grain. Change only the small robot standing at the left edge of the grove: replace the white plated robot, in the same place, at the same small size, standing at the perimeter, with the robot in the second image, the same machine exactly: a tall, boxy working robot with a broad straight-sided trunk of matte pale grey-khaki composite, heavy plain limbs whose rounded joint-casings are worn pale and smooth at their edges, a low plain rounded grey cap of a head set on a dark satin graphite adapter collar with one small pale indicator in it, a compact cluster of small dark lenses on a short jointed graphite mount at one side of the head, a narrow flat graphite bar on the crown, a small graphite sensor block on its own bracket on one shoulder, and one small plain dull grey metal plate bolted to the chest. It has no face: no eyes in a pair, no visor, no faceplate. It is clean and kept, its wear only at the joint-casings. Take nothing else from the second image: not its room, window, table, light or pose. Its lens cluster and shoulder block are turned toward the trees and the people at the chalk ring, watching. No text, no lettering, no numerals, no new objects, no white plastic armour. A documentary photograph, not a render.
 
 
+## 2026-11-16 — Rook-7 less retro: tried, nothing filed (Opus, desktop)
+
+Dermot, verbatim: *"Rook looks slightly too retro now"*. **Tool:** Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, each an edit of the filed `src/images/characters/rook-7.jpg` with no other image. Takes kept outside the repository; none filed. The verdicts are in `images.md` under `rook-7.jpg`.
+
+- **Round 1**, two takes:
+
+> Edit this photograph. Keep the room, window, light, camera angle and grain exactly. Keep the robot in the same place, same size and same pose, its hand flat on the wall, with the same three sensor arrays (the lens cluster on its jointed mount, the bar on top, the block on its shoulder bracket) and the same wear at the joints.
+>
+> Change only the robot's styling so it looks like a well-made machine from the far future rather than an old film robot:
+> - Replace the domed head cap with a low, flat, wide head adapter, only a little taller than the collar.
+> - Give the trunk and limb casings softer moulded composite edges and gently rounded corners instead of flat boxes, with fine honest seams.
+> - Make the finish a matte warm grey, not khaki or olive.
+> The trunk and limbs should still look older than the darker graphite parts fitted on later.
+>
+> No dome, no helmet, no rivets, no tin toy, no 1950s robot, no face. A documentary photograph, not a render.
+
+- **Round 2**, one take, one refused:
+
+> Edit this photograph. Keep the room, window, light, camera angle and grain exactly. Keep the robot in the same place, same size and same pose, its hand flat on the wall, with the same three sensor arrays (the lens cluster on its jointed mount, the bar on top, the block on its shoulder bracket) and the same wear at the joints.
+>
+> Restyle only the robot so it reads as a carefully made machine of the far future:
+> - Its colour is a light neutral grey, like pale stone, matte. Not khaki, not olive, not green, not brown.
+> - The head is a low, wide, softly rounded wedge sitting directly on the dark collar, with no tall neck and no dome.
+> - The trunk is moulded, tapering slightly to the waist, with smooth rounded shoulders and edges, not a box. Fine seams between panels.
+> - The limbs are smooth tapered composite shells over the joints.
+> The older grey shell still looks older than the darker graphite parts fitted later.
+>
+> No dome, no helmet, no rivets, no tin toy, no 1950s robot, no face. A documentary photograph, not a render.
+
+- **Round 3**: the round 2 shape with the trunk kept broad and the wear restated, refused twice; its first half alone refused once; passed only with the head clause removed, one take:
+
+> Edit this photograph. Keep the room, window, light, camera angle and grain exactly. Keep the robot in the same place, same size and same pose, its hand flat on the wall, with the same three sensor arrays (the lens cluster on its jointed mount, the bar on top, the block on its shoulder bracket).
+>
+> Restyle only the robot, a little, so it reads as an older working machine of the far future:
+> - Its colour is a light neutral grey, like pale stone, matte. Not khaki, not olive, not brown.
+> - Keep the trunk broad, deep and heavy, the same width at chest and waist, but with well-rounded moulded corners and edges instead of sharp box corners, and fine seams between panels.
+> - The limbs stay heavy and plain, with rounded casings.
+> - It is clearly an old, much-used chassis: the edges of the grey casings are worn pale and smooth, with faint scuffs, while the darker graphite collar and the three arrays look newer.
+>
+> No dome, no helmet, no face. A documentary photograph, not a render.
+
+Images generated: four. Requests refused: four.
+
 ## 2026-11-16 — Season 2 chapter illustrations, all fifteen (Fable, desktop)
 
 The prompts of record are in `story-bible/images.md` § 63, with the references each was sent. **Tool** for all fifteen: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, the two plate edits at strength 0. Forty-three images in all.
