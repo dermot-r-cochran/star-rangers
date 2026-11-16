@@ -2534,3 +2534,135 @@ The six prompts of record are in `story-bible/images.md` (the Season 1, Episode 
 > 3. The small mark on the woman's hand at the lower left: make it one short thin pale pink line, a small cut already closed and healed shut, clean and dry, not red and not open.
 >
 > No blood, no text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
+
+## 2026-11-16 — Season 1 chapter fixes (Opus, desktop)
+
+At Dermot's *"Fix Season 1 first"*. The fix list, the picks and what was left are in `images.md` § 61; this section holds the run and the prompts of the kept frames. **Tool** for all: Gemini, `gemini-3.1-flash-image`, 2K, `scripts/image-edit.js`, two takes per job (16:9 unless stated); finished by `import-image.ps1` at strength 1. Twenty-four images in all. Two jobs kept nothing, `s01e00c00` (the tending machine) and `s01e00c13` (the century hint); their reasons are in § 61.
+
+### chapters/s01e00c06.jpg — filed 16 November 2026
+- **Kind:** an edit of the filed frame
+- **Source:** the filed `s01e00c06.jpg` only.
+- **Run:** Round 1 of 1, two takes, take 2 filed.
+- **Prompt:**
+
+> Edit this photograph. Keep everything else exactly as it is: every person, every face, hair, pose and open singing mouth; the red-haired young woman in the dark green top singing at the far end; the two seated musicians either side of her and their instruments; the woman with short dark auburn hair at the near table seen from behind, with the blank pale sheet and stylus under her hand; the benches, the stoneware beakers, the warm wood of the walls, the framing, the focus and the grain. Change only these four things, so that the room reads as a common room on a space habitat eight centuries from now and not as a hall of today.
+>
+> 1. The ceiling: remove every light strip, tube, rectangular light fitting and ceiling panel. The ceiling is one smooth, seamless vault of pale warm matte composite that curves down into the tops of the walls in a long rounded cove. It has no fitting, no panel, no grille, no lamp and no glowing shape anywhere on it. The room keeps the same warm, even light, but it comes from no visible source.
+>
+> 2. The far end of the room, behind the band: where the room now runs on into a dim passage, it ends instead in a wall, and set in that wall, above and behind the musicians' heads, is one wide, low, sealed viewport of very thick glass in a deep, plain, rounded reveal. Through it is the black of space and, crossing the top of the view, the pale curved underside of a great slowly turning ring structure, with a few small steady white working lights along it, and a scatter of stars. It is the only cool light in the picture and lights nothing in the room.
+>
+> 3. The dock workers' clothes: every jacket and coverall becomes a one-piece work coverall of heavy matte woven cloth, in the same dull ochre, grey, plum and faded blue, with a plain stand collar and a closure that shows no fastening: no zips, no chest pockets, no flap pockets, no patches, no badges, no tabs, no reflective strips. A little honest dust on the sleeves and knees.
+>
+> 4. The drum: keep it as a hand drum the same size, held the same way, but its round frame is one smooth seamless ring of pale matte composite with no tacks, no tuning rods and no wood grain, and its head is a plain pale matte membrane.
+>
+> No microphones, no speakers, no screens, no signs, no lettering, no numerals, no new people, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e00c07.jpg — filed 16 November 2026
+- **Kind:** an edit of the filed frame, with a reference
+- **Source:** the filed `s01e00c07.jpg`; reference `src/images/hero/season-01.jpg` (the clocks' design only).
+- **Run:** Round 1 of 1, two takes, take 1 filed.
+- **Prompt:**
+
+> Edit the first image. Keep exactly as they are: the man standing with his back to the camera at the viewport, his grey hair, his jacket and pose; the wide round-cornered viewport onto the starfield; the bench in the foreground and the positions of everything on it; the framing, focus and grain. Change only these two things.
+>
+> 1. The two metal canisters on the bench: replace both with two identical reference clocks of the design shown in the second image, standing side by side a hand's width apart in the same place and at about the same height. Each is an upright clear glass cylinder closed by a rounded cream cap, holding at its centre a small, faint, still soft cloud of violet light, standing on a smooth rounded cream base. Their readout windows face away from the camera, so nothing can be read on them. No brushed metal, no steel, no lids, no tins. In the dark viewport glass, the faint reflection of the two objects changes with them.
+>
+> 2. The room: so that it does not read as the same pale grey room as a station on Earth, it becomes a boundary post's working room far out on the frontier. The walls, the coving round the viewport and the bench are a warm dark charcoal-brown matte composite with honest flush seams and a fine woven acoustic texture on the wall at the left, kept and clean. The light is lower and warmer, from no visible source, so the room is dim and the violet in the two glass cylinders reads clearly against it, though it lights nothing.
+>
+> Take only the clocks' design from the second image, not its wall, doors or colour. No text, no lettering, no numerals, no screens, no dials, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e00c08.jpg — filed 16 November 2026
+- **Kind:** a fresh generation with one reference
+- **Source:** round 2: a crop of `src/images/characters/isren-farrowkin.jpg` to its vanes (the body's mound cut away). Round 1 sent `isren-farrowkin.jpg` and `ulessa.jpg` whole with a fuller version of the prompt below (not repeated); both takes drew a tortoise shell and a cartoon dinosaur head (`images.md` § 61).
+- **Run:** Round 2 of 2, two takes, take 1 filed. This is the prompt of record for the frame.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, a close frame taken from low, at about knee height, deep focus, on the open terrace of a Federation facility in the last low sun of an early-summer evening in the year 2826 UCSD: two delegates of two peoples that are not human, after two days indoors.
+>
+> In the foreground, filling the left and middle of the frame: the vanes of a Verdani delegate, of exactly the kind in the reference image, opened to the low sun at the left. Several very wide fern-like vanes, deep chlorophyll green, the sunlight coming through them so every vein shows, rows of small dark nodes along their leading edges, the edges a little frayed and torn by years of use. At the very bottom edge of the frame they grow up out of a living body of which only a narrow band of hide is in view: soft, warm, creased, leathery skin of deep green-grey, with fine pores and a few fine hairs catching the light, folding up around the base of each vane like skin around a root. That hide has no plates, no scutes, no shell, no segments and no pattern of polygons; it is skin.
+>
+> Behind and to the right, a little out of focus: a second delegate, a Mnemari, very large. One of her three tall arched legs rises from the terrace floor at the right of the frame and climbs out of the top of the picture, as thick as a tree trunk, in a deep ochre and russet hide banded with darker umber, with one long pale healed seam running down it. From above, her long thick neck curves down in front of that leg, and her small blunt head hangs low at the height of the vanes, seen from behind and above, so that only the rounded back of the head and the curve of the neck show, close to the nearest vane's leading edge and turned toward it, held perfectly still. Her face is not visible at all.
+>
+> Beyond them, out of focus, the pale composite floor of the terrace, a low parapet and a gold evening sky. One low sun: warm rim light, long soft shadows, a little lens flare at the left edge.
+>
+> Photographed, not rendered: real skin, translucent vane tissue with fine hairs, high-ISO grain in the shadows, a real lens with slight softness toward the corners, natural full colour, normal exposure.
+>
+> Negative: no tortoise, no turtle, no shell, no carapace, no scales, no potted plant, no pot, no planter, no soil, no garden, no palm, no banana leaves, no eyes, no face, no mouth, no snout, no dinosaur, no giraffe, no horse, no snake, no elephant, no cartoon, no toy, no clay, no plastic, no CGI, no 3D render, no people, no text, no lettering, no numerals.
+
+### chapters/s01e00c09.jpg — filed 16 November 2026
+- **Kind:** an edit of the filed frame
+- **Source:** the filed `s01e00c09.jpg` only.
+- **Run:** Round 1 of 1, two takes, take 2 filed. The age change in point 3 barely took; see `images.md` § 61.
+- **Prompt:**
+
+> Edit this photograph. Keep exactly as they are: the woman pilot's face, short brown hair, charcoal field shell with its small indigo collar tab, her pose, her hands resting on the board and her steady downward look; the second pilot beyond her; the long curved board with its flat unlit dark matte sheets; the framing, focus and grain. Change only these things, so that this reads as the small pilot deck of a working ship in deep space and not as a pale office.
+>
+> 1. The room: the ceiling comes down low and close over the two seats, curving down into the walls in one continuous rounded shell, so the deck is small and enclosed. Walls and ceiling are a deep matte blue-grey composite with honest flush seams. There is no window, no port and no panel of light anywhere. The light is low and quiet, from no visible source, a little cooler at the far end, so the faces and hands are lit softly and the corners of the deck fall into shadow.
+>
+> 2. Her seat: the pale shell seat keeps its shape, but its pad is a dense dark woven pad, not a mesh.
+>
+> 3. Her age: she is exactly the same woman, the same face, features and hair, but about twenty-five years old rather than thirty-five: a little smoother around the eyes and mouth, and nothing else about her changes.
+>
+> No screens, no glowing displays, no lettering, no numerals, no new objects, no new people. A documentary photograph, not a render.
+
+### chapters/s01e01c01.jpg — filed 16 November 2026
+- **Kind:** an edit of the filed frame, with a reference, then readout digits set by script
+- **Source:** the filed `s01e01c01.jpg`; reference `src/images/hero/season-01.jpg` (the clock only).
+- **Run:** Round 1 of 1, two takes, take 1 filed. The readout window's faint pseudo-glyphs were flattened to the panel tone, then `python scripts/set-readouts.py IN OUT --box 1740,204,58,13 --text 06:42:17` on the 2752×1536 take.
+- **Prompt:**
+
+> Edit the first image. Keep everything exactly as it is: the tall pale woman walking in, the robot behind her, the open rounded pressure seal and its reveal, the pale dock, the long window onto the sea at dawn, the framing, focus and grain. Change only one thing: add one instrument to the wall.
+>
+> High on the far wall, centred directly above the open pressure seal, with clear wall above it, set on a short rounded cream bracket, add one atomic clock of exactly the design shown on the left of the second image: an upright clear glass cylinder closed by a rounded cream cap, holding at its centre a small, faint, still soft cloud of violet light, standing on a smooth rounded cream base with a dark recessed readout window across its front. The readout window is matte, unlit and completely blank, with nothing showing in it at all. It is small in the frame, in proportion with the seal below it, and the faint violet is too weak to light the wall.
+>
+> Take only the clock's design from the second image, not its wall, doors or colour. No digits, no numerals, no text, no lettering, no screens, no other new objects. A documentary photograph, not a render.
+
+### chapters/s01e01c04.jpg — filed 16 November 2026
+- **Kind:** an edit of the filed frame
+- **Source:** the filed `s01e01c04.jpg` only.
+- **Run:** Round 1 of 1, two takes, take 1 filed.
+- **Prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same woman with exactly the same face, freckles, red hair, hands and pose, the same dark slate-grey uniform with its two-bar tab and diamond patch, the slim dark stylus in her right hand, the same pale dock behind her with its shut pressure door and the long dark window, the framing, focus and grain. Change only one thing: the log under her hands.
+>
+> Remove the thick open book. In its place, lying perfectly flat on the sill, is the station's watch log as the century keeps it: two thin rigid matte leaves of pale warm grey, each about the size of a large page and no thicker than a coin, lying open side by side and joined along the middle by one narrow flat hinge of the same grey material, so the pair lies completely flat, like two thin sheets of pale slate. Under the left leaf, and only visible at its outer edge, the thin stacked edges of earlier leaves, the whole pile no thicker than a finger. There is no book block, no thick page edges, no cover boards, no curve of pages, no spine, no spiral, no rings, no stitching. Both visible leaves are completely blank: no lines, no writing, no print, no marks, no glow. The stylus tip rests on the right-hand leaf.
+>
+> No text, no lettering, no numerals, no screens, no new objects. A documentary photograph, not a render.
+
+### chapters/s01e02c02.jpg — filed 16 November 2026
+- **Kind:** an edit of the filed frame, with a reference
+- **Source:** the filed `s01e02c02.jpg` (itself an edit of Dermot's *Birch Avenue in Winter*); reference `src/images/chapters/s01e03c02.jpg` (its trees only). His trunks are no longer in the frame, so the plate credit of 15 November is withdrawn.
+- **Run:** Round 1 of 1, two takes, take 1 filed.
+- **Prompt:**
+
+> Edit the first image. It is a night photograph of a grove at the edge of a reed marsh. Keep everything in it except the trees exactly as it is: the black overcast sky, the cold low lamplight from the left, the dark tussock grass, the still black pools and their reflections, the reeds at both edges, the curving line of old lichened grey stone blocks low in the grass with its gap in front of the trees, the two small figures seen from behind at the left edge, the camera position, the framing, the high-ISO grain and the slight under-exposure.
+>
+> Change only the trees. Remove the five slender birches. In their place, on the same spot behind the gap in the stones, stands the grove of the second image: seven large old trees with thick, smooth pale bark, white and silver-grey like old bleached bone, standing close together on one low rise of wet ground, their heavy roots spreading out over the earth and running together into one shared plate of roots, their crowns broad and thin with the last few small pale yellow leaves. Each trunk is far wider than a person, so the two figures at the left are small beside them and stand a little way back from the roots. The lamplight from the left catches the near sides of the trunks and falls away into the dark on the far sides; the pools reflect the pale trunks.
+>
+> Take only the trees from the second image: not its sky, its people, its robot, its lamp, its chalk ring or its marsh.
+>
+> Nothing glows. No light comes from the trees, the bark, the roots or the ground. No mist machine look, no magic light, no fireflies, no spirits, no faces in the bark, no figures among the trees, no symbols, no ribbons. No fence, bench, signpost, lamp post, path, building or wire. No text, no lettering, no numerals. A documentary photograph taken at night with a real lens, not a render, not a painting.
+
+### chapters/s00e03c01.jpg — filed 16 November 2026
+- **Kind:** an edit of the filed frame
+- **Source:** the filed `s00e03c01.jpg` only.
+- **Run:** Round 1 of 1, two takes, take 1 filed.
+- **Prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the woman signing, her face, grey hair, dark band-collared jacket, hands, the slim stylus and its tip on the sheet; the long pale table; the people in the gallery behind; the window onto the Martian landscape; the framing, focus and grain. Change only the thing she is signing.
+>
+> Remove the large pale rounded slab under her hands. In its place, lying flat on the table under the stylus, is the last leaf of a slim bound document: a single stiff pale matte leaf the size of a large page, with crisp square corners, lying on top of a few more such leaves, their thin stacked edges visible along the near and right sides, the whole set no thicker than a finger, joined along its left edge by a narrow plain flat binding strip of darker grey. Her left hand rests flat on the leaf beside it to steady it. The leaf is blank where we can see it and seen at a low angle; nothing on it can be read. It must not look like a desk mat, a tray, a tablet, a mouse pad or a blotter: it is clearly a few thin leaves of a document.
+>
+> No text, no lettering, no numerals, no screens, no new objects. A documentary photograph, not a render.
+
+### hero/s01e01-corridor.jpg — filed 16 November 2026
+- **Kind:** a fresh generation with one reference, 3:2
+- **Source:** reference `src/images/chapters/s01e01c01.jpg` (the station's look).
+- **Run:** Round 1 of 1, two takes, take 1 filed at 1920×1288. This is the prompt of record; the 13 July stock frame it replaces is a negative example.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 3:2 landscape, a wide level view taken from standing height down a long, kept passage of Threshold Station, a Survey Corps shore station built on a sea coast on Earth, at first light on an early-autumn morning in the year 2826 UCSD. The passage is the station's own idiom, the same as the dock in the reference image: smooth pale warm-grey matte composite walls and ceiling meeting the floor and each other in long rounded coves, honest flush seams between the panels, a floor of plain pale composite, clean and kept, nothing fixed to the walls. Along the whole left side runs one long, low sealed window of very thick glass in a deep plain rounded reveal, and through it a calm grey sea under a pale pink-grey dawn sky; it is the passage's light, cool and level, laying long soft reflections along the floor. At the far end of the passage, some thirty metres away, stands a large rounded pressure seal, shut, with a raised compression gasket all round it. Halfway down the passage one man walks away from the camera toward the seal, alone, unhurried, seen wholly from behind: dark hair, a beard's edge, plain grey-green field dress, a slim pale folio under one arm. Nobody else. Quiet, exact, faintly unsettling, calm; a place where something is about to be noticed.
+>
+> Photographed, not rendered: high-ISO grain heavier in the shadows, a moderately wide lens with slight softness toward the corners, a touch under-exposed, muted natural colour, the small imperfections a real photograph keeps.
+>
+> Negative: no pipes, no conduits, no cables, no rivets, no grilles, no louvres, no vents, no gratings, no hazard stripes, no signs, no numbers, no lettering, no labels, no light strips, no ceiling panels, no lamps, no screens, no grime, no rust, no stains, no wet floor, no backpack, no weapon, no robot, no film-set look, no 3D render.
