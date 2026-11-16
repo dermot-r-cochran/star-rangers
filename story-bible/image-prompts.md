@@ -2759,6 +2759,65 @@ Dermot, verbatim: *"Rook looks slightly too retro now"*. **Tool:** Gemini, `gemi
 
 Images generated: four. Requests refused: four.
 
+## 2026-11-16 — Rook-7 composite: round 2's refit on the filed body (Opus, desktop)
+
+Dermot agreed the design basis (his *"Yes"*): an older body kept on purpose, a newer refit of the senses, *older* within its own century. The verdicts and the method are in `images.md` under `rook-7.jpg` and in § 62. **Tool:** Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K. Takes kept outside the repository.
+
+### characters/rook-7.jpg — re-filed 16 November 2026
+- **Kind:** a composite, then an edit. **Source:** the filed `rook-7.jpg` (the body, room and pose) and round 2's take of the less-retro attempt above (the upper unit, collar and arrays), pasted with a feathered seam in PIL; no other reference.
+- **Round 1**, one take, one refused:
+
+> Edit this photograph. Keep the room, the window, the light, the camera angle and the grain exactly. Keep the robot in the same place, at the same size and in the same pose, with its hand flat on the wall. Keep everything above its shoulders exactly as it is: the dark collar and every part mounted on it, unchanged in shape and colour.
+>
+> Change only the robot's body below the collar:
+> - Recolour the body from khaki to a warm pale grey, matte, a shade darker and more worn than the parts above the collar. Not khaki, not olive, not green, not brown.
+> - Soften the trunk's hard slab edges into one moulded composite housing with rounded edges and corners. Keep its broad, deep, heavy mass and straight posture: no waist, no hips, no slim figure.
+> - Keep the worn pale edges on the joint casings, the scuffs of long use, and the plain chest plate, set flush with no screws.
+> - Blend the join under the collar so it reads as one machine, and match the light on the body to the light on the collar.
+>
+> The body is an older civilian service machine, plain and practical and long used; the collar and the parts on it are a later, newer fit. A documentary photograph, not a render. No rivets, no screws, no 1950s robot.
+
+- **Round 2**, an edit of round 1's take, one take, one refused:
+
+> Edit this photograph. Keep the room, the window, the light, the camera angle and the grain exactly. Keep the robot exactly as it is in shape, size, place and pose, with its hand flat on the wall. Keep everything above its shoulders unchanged.
+>
+> Change only the colour and finish of the robot's body below the collar:
+> - The body becomes a light, cool-neutral pale grey, like pale concrete, matte, only a shade darker than the pale grey of the part above the collar. No brown, beige, olive, yellow or green cast anywhere on it.
+> - The body is clean and kept. Leave only light honest wear: the edges of the joint casings rubbed paler, a few faint scuffs. No dark stains, no grime, no dirt.
+> - The plain chest plate stays, flush, with no screws.
+>
+> A documentary photograph, not a render.
+
+- **Finish:** round 1's fine surface detail laid back onto the body (high-pass, 0.6, chest panel excluded); the upper unit, collar and arrays pasted back from the earlier round-2 take; cropped 21 px to 16:9; `import-image.ps1 -MaxEdge 1200 -Finish 1`. Copied to `story-bible/reference-art/rook-7-body-2026-11-16b.jpg`.
+
+### The five chapter frames
+- **Kind:** edits of each filed frame with `reference-art/rook-7-body-2026-11-16b.jpg` as the second image; only the robot's region of the kept take pasted back into the filed frame, each take finished at strength 1 first. Frames changed: `s01e01c01`, `s01e01c02`, `s01e02c03`, `s01e03c02`; `s01e01c03` left (§ 62).
+- **Round 1**, two takes per frame, none refused. The `s01e03c02` prompt; the others differ only in their first and last sentences, which keep each frame's own scene and pose as the 16 November retrofit prompts above did:
+
+> Edit the first image, a photograph. Keep everything exactly as it is: the pale-barked trees and their roots, the kneeling woman with her palm on the ground inside the white chalk ring, the thread and the two glasses of water, the bearded man holding the lamp, the dark marsh and the pre-dawn sky; the framing, light, focus and grain. Change only the small robot standing at the left edge of the grove: replace it, in the same place, at the same small size, standing at the perimeter, with the robot in the second image, the same machine exactly: a tall working robot with a broad, deep, moulded trunk of matte pale grey composite with softly rounded edges, heavy plain limbs whose casings are rubbed paler at their edges with a few faint scuffs, a dark satin graphite collar with one small pale indicator in it, and above the collar the pale grey unit exactly as in the second image, with a compact cluster of small dark lenses on a short jointed graphite mount at one side, a narrow flat bar on top, and a small graphite sensor block on its own bracket on one shoulder; a plain flush panel on its chest. It has no face: no eyes in a pair, no visor. Take nothing else from the second image: not its room, window, table, light or pose. Its lens cluster and shoulder block are turned toward the trees and the people at the chalk ring, watching. No text, no lettering, no numerals, no new objects, no rivets, no khaki. A documentary photograph, not a render.
+
+- **Round 2, `s01e01c02` and `s01e01c01`**, an edit of each frame's round-1 take 2: two takes for `s01e01c02`, both refused for `s01e01c01`:
+
+> Edit the first image, a photograph. Keep everything exactly as it is: every person with exactly the same face, hair, garment and pose; the room or place; the framing, light, focus and grain; the robot in the same place, at the same size and in the same pose, with everything above its shoulders unchanged.
+>
+> Change only the robot's body below its dark collar, to match the robot in the second image: its trunk and limbs become a light cool pale grey, matte, like pale concrete, with no khaki, olive, green or brown cast; the trunk is one moulded housing with softly rounded corners and edges, not a square box, keeping its broad mass; the limb casings are rubbed a little paler at their edges with a few faint scuffs; the chest has a plain flush panel. Take nothing else from the second image.
+>
+> No text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
+
+- **Round 2, `s01e01c03`**, from the filed frame, two takes (one drew the robot larger, one kept the dome):
+
+> Edit the first image, a photograph. Keep everything exactly as it is: the long shingle spit, the whitewashed lighthouse, the rough sea and blown spray, the torn grey sky, the man in the grey-green coat and the dark-haired woman walking away bent into the wind, the framing, light, focus and grain. Change only the robot walking on the right of the two people, seen from behind: replace it, in exactly the same place and at exactly the same small size, no larger and no nearer the camera, its feet on the same stones and its top at the same height, walking away along the stones in the same stride, with the robot in the second image, the same machine exactly: a tall working robot with a broad, deep trunk that is one moulded housing with softly rounded corners, not a square box, in matte light cool pale grey like pale concrete with no khaki or green cast, heavy plain limbs whose casings are rubbed paler at their edges, a dark satin graphite collar with one small pale indicator in it, and above the collar the pale grey unit exactly as in the second image, with a compact cluster of small dark lenses on a short jointed graphite mount at one side, a narrow flat bar on top, and a small graphite sensor block on its own bracket on one shoulder. It has no face: no eyes in a pair, no visor. Take nothing else from the second image: not its room, window, light, size or pose. No text, no lettering, no numerals, no new objects. A documentary photograph, not a render.
+
+- **Round 3, crops** (the robot's region alone, enlarged three times, 3:4). Both refused twice in a first wording; the second wording gave one take for `s01e01c01` (one refused) and was refused twice for `s01e01c03`. The `s01e01c01` prompt that passed:
+
+> Edit the first image, a photograph of a machine in a corridor. Keep the scene, framing, light and grain exactly, and keep the machine in the same place, at the same size and in the same stride.
+>
+> Restyle the machine's lower housings to match the machine in the second image: the main housing is one moulded shell with softly rounded corners rather than a square box, still broad and deep; all its housings are a light cool pale grey, matte, like pale concrete, never khaki or olive; the edges of the housings are rubbed slightly paler from long use. Leave the dark collar and everything on and above it exactly as it is.
+>
+> A documentary photograph, not a render.
+
+Images generated: seventeen (two for the portrait, fifteen for the frames); requests refused: eleven.
+
 ## 2026-11-16 — Season 2 chapter illustrations, all fifteen (Fable, desktop)
 
 The prompts of record are in `story-bible/images.md` § 63, with the references each was sent. **Tool** for all fifteen: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, the two plate edits at strength 0. Forty-three images in all.
