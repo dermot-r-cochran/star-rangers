@@ -3095,3 +3095,18 @@ Dermot, verbatim: *"Similar treatment for Jeeves"*. The record, the design infer
 > Change also the view through the doorway on the right: a short pale corridor of the same smooth composite, not green.
 >
 > No face, no pair of eyes side by side, no camera, no projector, no box, no egg, no alien, no text. A documentary photograph, not a render.
+
+### characters/jeeves.jpg — kitchen fixed, re-filed 16 November 2026
+
+Dermot, verbatim: *"Keep, fix the kitchen"*.
+
+- **Kind:** an edit of the filed frame, no reference
+- **Source:** the filed `src/images/characters/jeeves.jpg` (11 October).
+- **Run:** `scripts/image-edit.js`, round 1 of 1, two takes, take 2 filed after a 10-pixel crop each side to 16:9, 1200x675, strength 1. Images generated: two.
+- **Prompt:**
+
+> Edit this photograph. Keep the robot exactly as it is: its body, head, lenses, waistcoat, pose, hands, the tray, cup and cloth. Keep the wooden table, the round window and its view, the camera angle, light and grain.
+>
+> Change only the kitchen behind the robot. Make it a plain, tidy galley: smooth pale curved walls and a counter of the same, with flat closed cupboard fronts that have no handles. Remove the oven, the hood above it, the coffee machine, the kettle, the jars, the shelf, the utensil pot and spoons, the paper towel, the bottles, the dish rack, the tap, the wall socket and the switch. The counter is bare except for one folded cloth.
+>
+> No appliances, no text, no numbers. A documentary photograph, not a render.
