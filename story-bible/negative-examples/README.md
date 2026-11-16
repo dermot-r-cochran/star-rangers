@@ -92,11 +92,12 @@ Dermot flagged seven frames and asked for a review of four more, then *"Yes rema
 | `priya-nakamura-2026-11-12.jpg` | Detective Priya Nakamura | A spiral notebook, ziplock bags, a steel tray, a factory jacket and glowing light strips. Dermot: *"looks anachronistic"*. | Replaced from a new prompt: the bureau jacket, a bound record and stylus, sealed sleeves in a composite tray. |
 | `zhulik-2026-11-12.jpg` | Zhulik | A centred catalogue cat on a steel cabinet under a glowing cove strip (rung 3, render). Dermot: *"Same for Zhulik"*. | Replaced by a lived-in family berth, off-centre, with no light fitting. |
 
-## Two more, 16 November 2026
+## Three more, 16 November 2026
 
 | Thumbnail | Page | What failed | Outcome |
 | --- | --- | --- | --- |
 | `rook-7-2026-11-16.jpg` | Rook-7 | The stock white plated humanoid: sculpted chest and abdominal plates, a helmet head with a faceplate, a shell made new and seamless. The 13 October *"made with care"* prompt asked for a smooth pale shell and drew the generator's default robot, while the record has *an older civilian chassis*, *older by the joint-casings*, with sensor arrays *emphatically not standard*. Its five chapter frames copied it. | Replaced at Dermot's *"B: retrofit chassis"* by a boxy civilian frame with worn joint-casings and arrays of a different make on a newer collar, one hand on a wall it is reading (`images.md`, `rook-7.jpg` entry); the five chapter frames edited to match (§ 62). |
+| `rook-7-retro-2026-11-16.jpg` | Rook-7 | The first retrofit: a domed head cap, a boxy straight-sided trunk in grey-khaki, a bolted plate. Old for us, not old for 2826: an older machine of the 29th century is older within its own century's idiom, not a mid-20th-century film robot. | Replaced at Dermot's *"Rook looks slightly too retro now"* by a composite: a newer low upper unit, collar and arrays on a moulded pale grey body scuffed by use (`images.md`, `rook-7.jpg` entry); four of the five chapter frames edited to match (§ 62). |
 | `s01e01-corridor-2026-11-16.jpg` | Season 1, Episode 1 (hero) | A Firefly generation from the July 2026 visual review (`images.md`, *History (2026-07-24)*): a dark riveted service corridor with exposed overhead pipes, louvred panels, yellow-and-black hazard stripes, rust, a wet grated floor and painted numerals. The 20th century and grunge on every count, and lettering besides. Named for the century bar's eye in `images.md` § 60. | Replaced by a fresh generation of a kept, pale passage at Threshold Station in Dock Seven's idiom (`images.md` § 61). |
 
 ## Lessons for the next prompt
