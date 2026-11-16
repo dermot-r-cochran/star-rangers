@@ -3255,3 +3255,105 @@ The prompts of record are in `story-bible/images.md` § 64, with the references 
 - **Kind:** generation with a reference
 - **Source:** `images.md` § 64.
 - **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+
+## 2026-11-16 — Season 3 frame fixes and heroes (Opus, desktop)
+
+Dermot's *"Yes please fix"* to the points of `images.md` § 64. The record of the round is `images.md` § 64, *Fixes, 16 November 2026*. **Tool** throughout: Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K; chapter edits at 16:9, heroes at 3:2. Every kept take was finished at strength 1 by `scripts/photo-finish.py`.
+
+### chapters/s03e01c03.jpg — fixed 16 November 2026
+- **Kind:** an edit of the filed frame
+- **Source:** the filed `s03e01c03.jpg` only.
+- **Run:** two edits of two takes each. Filed: the first edit, take 2, at 1600 px. The second edit (a sliver of the body at the right edge) drew an elephant's flank in both takes and was not kept.
+- **Prompt (filed):**
+
+> Edit this photograph. Keep everything exactly as it is: the low rounded block of dark matte ceramic standing on the left of the pale desk, with its one honest seam, its one small steady pale indicator, the shallow round well of clear liquid and the small flat disc of pale stone set into its top; the pale matte desk top and its rounded edge; the smooth warm taupe walls behind, out of focus, in shadow; the soft low light, the framing, the focus and the grain.
+>
+> Change only one thing: remove the long slate-violet limb and the body it comes from, entirely. Nothing living is in the frame. Where the limb lay, the pale desk top runs on, bare and continuous, with only a faint soft shadow; on the right of the frame, the out-of-focus warm taupe wall continues as it does on the left.
+>
+> On the surface of the clear liquid in the instrument's well, a few very faint concentric ripples, as if the stone disc had just been touched; nothing else moves.
+>
+> No limb, no tentacle, no trunk, no arm, no hand, no finger, no skin, no eyes, no creature anywhere in the frame. No new objects. No screens, no glow, no lettering, no numerals. A documentary photograph, not a render.
+
+- **Prompt (not kept):**
+
+> Edit this photograph. Keep exactly as it is: the low rounded block of dark matte ceramic standing on the left of the pale desk, with its one honest seam, its one small steady pale indicator, the shallow round well of clear liquid and the small flat disc of pale stone set into its top; the pale matte desk top; the smooth warm taupe walls behind, out of focus; the soft low light, the focus and the grain.
+>
+> Change only the being on the right. Remove the long limb that lies across the desk and reaches the instrument: the desk between the instrument and the right edge is bare. At the very right edge of the frame, only just in the picture, soft and out of focus in shadow, is a narrow sliver of the being's slumped body: a wall of dry matte slate-violet skin falling into loose folds and deep creases, cut off by the frame edge, with no outline, no end, no tip and no limb leaving it, occupying no more than the last tenth of the frame's width. It reads only as a large soft creased mass beside the desk, nothing more.
+>
+> No limb across the desk, no tentacle, no trunk, no arm, no hand, no finger, no suckers, no eyes, no head, no face. No new objects. No screens, no glow, no lettering, no numerals. A documentary photograph, not a render.
+
+### chapters/s03e01c04.jpg — fixed 16 November 2026
+- **Kind:** an edit of the filed frame, composited back onto it
+- **Source:** the filed `s03e01c04.jpg` only.
+- **Run:** round 1 of 1, two takes; take 1 finished at 1600 px, and its right-hand side from x = 760 (feathered 25 px) composited onto the filed frame so the woman is unchanged; the two hanging limb ends darkened and desaturated by hand (ellipses at 1070,630–1135,715 and 995,585–1060,640, feathered).
+- **Prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the woman in the left foreground seen from behind, her red hair in a knot, her dark blue-grey collar and shoulder; the dim taupe office, the low platform, the low broad bare desk and the small dark ceramic instrument with its pale indicator on it; the light, the framing, the focus and the grain. Keep the being's body where it is, at the same size, its dry matte slate-violet creased skin and its small dark eyes flush in the skin.
+>
+> Change only how the being's upper limbs lie:
+> 1. The upper limb that rises into the air and curves over with a pale pink tip is lowered: it now lies folded back along the top of the body, close against it, its blunt end tucked into the folds, the same slate-violet as the rest. Nothing rises above the body; no limb stands up or curves in the air; no tip is pink or pale.
+> 2. The limb resting on the desk lies short and close, curled back toward the body along the desk's near edge, not reaching out across the desk; its end is blunt and the same colour as the rest.
+> 3. The limb that hangs beneath the desk stays in shadow; only one small patch on it, a few centimetres wide, is a shade warmer; its tip is the same slate-violet as the rest.
+The body reads as one soft heap of folded limbs resting on its lower ones, wider than tall, deeply creased, with no part raised like a neck, a trunk or a head.
+>
+> No elephant trunk, no octopus, no tentacles, no suckers, no head, no neck, no face, no pink tips. No new objects. No screens, no glow, no lettering, no numerals. A documentary photograph, not a render.
+
+### chapters/s03e01c01.jpg and chapters/s03e02c03.jpg — fixed 16 November 2026
+- **Kind:** an edit of each filed frame, one prompt for both
+- **Source:** the filed `s03e01c01.jpg`; the filed `s03e02c03.jpg`.
+- **Run:** round 1 of 1 each, two takes each; take 2 filed in both, at 1600 px.
+- **Prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same red-haired woman with exactly the same face, freckles, expression, pose, hands and clothing; the room, the light, the framing, the focus and the grain.
+>
+> Change only one small thing, at her ear: remove the small grey earbud from her ear completely. In its place, one loose strand of her red hair has slipped from the knot and falls down over her ear, so that the ear is covered by hair and nothing can be seen in it or on it.
+>
+> No earbud, no earpiece, no headphones, no wire, no device on her head. No new objects. No lettering, no numerals. A documentary photograph, not a render.
+
+### hero/season-03-datacentre.jpg — filed 16 November 2026
+- **Kind:** a fresh generation, text alone, 3:2, then an edit of the take
+- **Source:** none. His coast frames were looked at and left out (`images.md` § 64, *Fixes*).
+- **Run:** generation take 1 of 2, then edit take 1 of 2, filed at 1920×1288. This is the prompt of record; the stock data-hall photograph it replaces is a negative example.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 3:2 landscape, a wide level view taken from standing height, deep focus: the reading hall of the Survey Archive at Threshold Station, a Survey Corps shore station on a sea coast on Earth, on a grey autumn morning in the year 2829 UCSD, eight centuries from now. This is where the record keeps its working library, and it has no machines in it: the archive is the building. The hall is long, tall and quiet, kept with care: walls of pale warm-grey matte composite that rise into a plain shallow vault with no visible fitting, the walls and floor meeting in long rounded coves, honest flush seams between the panels. The whole right-hand wall, floor to vault, is one continuous face of closed flush stores, plain flat matte doors of pale grey composite, each exactly alike, with no handles, no labels, no numbers and no gaps, only fine dark seams in a regular grid, so the wall reads as a quiet surface and not as furniture. Down the middle of the hall runs a row of long plain reading tables of pale oiled oak with rounded ends, each bare except, here and there, one thin rigid matte slate lying flat, blank and unlit like a piece of stone, and a few stiff pale leaves squared beside it. Along the left wall, one long low sealed window of very thick glass in a deep rounded reveal looks out on a calm grey sea under a flat pale sky, and far out across the water the long, smooth, pale curved flank of the station's own dock arm lies low on the sea. The window is the hall's light, cool, level and soft, laying long pale reflections along the floor and the tables. Far down the hall, small in the frame, one archivist in a plain dark field shell sits alone at the last table, head bowed over a leaf, seen from the side, no face legible. Nobody else. Quiet, exact, patient: a place where claims are kept, not believed. Muted palette: pale grey, oak, cool sea light, one dark figure.
+>
+> Photographed, not rendered: high-ISO grain heavier in the shadows, a moderately wide lens with slight softness toward the corners, a touch under-exposed, muted natural colour, the small imperfections a real photograph keeps.
+>
+> Negative: no servers, no racks, no computers, no screens, no monitors, no glowing panels, no holograms, no projected light, no cables, no blinking lights, no indicator lights in rows; no bookshelves of printed books, no paper files, no folders, no ring binders, no filing cabinets with drawer handles, no card catalogue, no library ladders; no ceiling light panels, no strip lights, no lamps, no desk lamps, no chandeliers; no chairs with wheels, no stacking chairs; no signs, no labels, no numbers, no lettering anywhere; no grime, no rust, no dust; no museum, no church, no cathedral, no hospital; no 3D render, no film-set look.
+
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the long pale vaulted reading hall, the wall of closed flush pale grey stores on the right, the row of oak tables down the middle, the one archivist bowed at the far table, the pale floor, the cool level light from the sea, the long curved pale flank of the dock arm lying low on the water, the camera position, the framing, the focus and the grain. Change only three things:
+>
+> 1. The long window on the left becomes one single unbroken pane of very thick glass from end to end, with no mullions, no vertical bars, no frames and no joints in it.
+>
+> 2. Far out over the sea, in the pale grey sky above the horizon and to the left of the dock arm, the thin straight pale trail of an ascent craft climbing steeply into the sky from beyond the horizon: a single fine soft white line rising at a steep slant and fading as it climbs, with one small bright point at its upper tip. It is small and distant, a quiet detail in the sky, not a dramatic launch: no fireball, no cloud of smoke, no rocket shape.
+>
+> 3. Everything lying on the tables is blank: the thin dark matte slates stay as they are, and the pale sheet on the nearest table is a plain stiff blank pale sheet with no drawing, no marks, no lines and no writing on it, and no pen.
+>
+> No new people, no new objects inside the hall. No lettering, no numerals, no screens, no glow, no lamps. A documentary photograph, not a render.
+
+### hero/s03e01-radiotelescope.jpg — filed 16 November 2026
+- **Kind:** a fresh generation, text alone, 3:2, then an edit of the take
+- **Source:** none.
+- **Run:** round 1, take 1 of 2; round 2 (the geometry sentence below) failed the same way and was not kept; then an edit of round 1's take 1, take 1 filed at 1920×1288 (take 2 returned no image). This is the prompt of record; the stock radio-telescope photograph it replaces is a negative example.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 3:2 landscape, a wide level view taken from standing height, deep focus, looking along an empty viewing gallery on the outer ring of Halyx Relay Station, a station of the Cerebraun Hegemony, during the station's night, in the late winter of the year 2828 UCSD, eight centuries from now. The station is a spun ring, so the gallery's floor visibly curves upward as it runs away from the camera, rising gently and steadily until it climbs out of sight at the top of the frame, with the ceiling curving up with it: the unmistakable rising floor of a rotating ring. The gallery is built by another people, low and wide, with no corners: smooth walls and ceiling of a warm dark taupe composite flowing into one another in long soft curves, the floor of the same material, clean and kept. Along the whole outer wall runs one long continuous low port of very thick glass, set deep in a smooth rounded reveal, and through it black space with a fine scatter of faint stars. In the port, large and low near the camera, the thin pale green crescent of a far ocean world, Meridian, its night side dark; and some way to its right, much smaller, a second world, the Sentinel, a small bare grey airless disc with a hard sunlit edge and nothing else. Nothing lights the gallery but a low dim wash along the foot of the inner wall from a source that cannot be seen, and the faint green of the crescent on the floor. Nobody is in the gallery. Quiet, patient, listening: a place from which two worlds have been watched for centuries. Muted palette: dark taupe, black, one thin pale green crescent, one small grey disc.
+>
+> Photographed, not rendered: high-ISO grain heavier in the shadows, a moderately wide lens with slight softness toward the corners, a touch under-exposed, muted natural colour, the small imperfections a real photograph keeps.
+>
+> Negative: no people, no creatures; no radio telescope, no satellite dish, no antenna, no lattice mast, no power lines; no screens, no monitors, no glowing panels, no holograms, no projected light, no indicator lights, no ceiling light panels, no strip lights, no lamps, no rivets, no pipes, no cables, no grilles, no vents, no hazard stripes, no signs, no numbers, no lettering anywhere; no seats, no benches, no handrails; no nebula, no galaxy, no Milky Way band, no lens flare, no spacecraft outside, no Earth, no Moon; no grime, no rust; no 3D render, no film-set look, no science-fiction corridor of lit panels.
+
+- **Round 2 (not kept)** replaced the ring sentence with: *The station is a spun ring and the camera looks along its rim, so the gallery runs straight ahead away from the camera and never bends to the left or the right; instead its floor and ceiling curve upward together, the floor rising steadily ahead like the inside of a giant wheel's rim, so that the far end of the gallery is high above the camera and climbs out of sight at the top of the frame.* Both takes still bent the gallery sideways, and one read as a render.
+
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the dark taupe gallery with its smooth curved walls and ceiling, the long low port of thick glass on the left, the thin pale green crescent of the far world and the small grey disc of the second world in it, the stars, the faint green light on the floor, the camera position, the framing and the grain. Change only the light fittings:
+>
+> 1. Remove the glowing strip of light along the foot of the right-hand wall: the cove where the wall meets the floor is now plain dark taupe composite, unlit, in shadow.
+> 2. Remove the bright glowing rim of light around the edge of the port: its deep rounded reveal is plain matte taupe composite, lit only faintly by the green of the crescent.
+>
+> The gallery is darker than before: its only light is the faint green from the port and a very low, even, sourceless dimness. No strips, no glowing edges, no lamps, no new objects, no people. No lettering, no numerals. A documentary photograph taken with a real lens in low light, with grain, not a render.
