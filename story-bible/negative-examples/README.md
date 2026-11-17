@@ -140,6 +140,13 @@ frame was brought to it by an edit of its head and neck (`images.md`, the three 
 | --- | --- | --- | --- |
 | `brother-fintan-2026-11-17.jpg` | Brother Fintan | Weathered timber box hives, where the place's own frame (`lore/cnoc-na-mbeach.jpg`) has pale seamless composite ones: one place with two looks, and the timber hive is today's. Dermot, 17 November 2026: *"Yes, both"*, the hives to one look. Lesson: a portrait set in a place takes the place's made things from the place's frame, and its prompt must name them. | Re-filed by an edit of the hives only, pasted back onto this frame; his face, hand, jumper and the walls are unchanged (`images.md` § 70, *Fix pass*). |
 
+## Two Season 9 portraits, rooms remade, 17 November 2026
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `zoe-smith-2026-11-17.jpg` | Zoe Smith | A present-day service corridor: a strip light, hinged panel doors in frames, a rusted rail, stains and floor grating. Lesson: *a plain lived-in corridor* draws our century's back corridor; name the habitat's own corridor and the century's door, or the generator supplies its stock one. | Room edited to the Season 9 corridor; her figure laid back from this frame (`images.md` § 71, *Fix pass*). |
+| `iklix-varn-2026-11-17.jpg` | Iklix Varn | Ceiling light panels, floor grating and printed papers in a room the record keeps clean, and the rack as a shelved stack. Lesson: *the same worn, clean, evenly lit space* kept the reference's room, panels and all; a reference held for a face carries its setting unless the prompt names the setting it replaces. | Room, leaves and rack edited to the Season 9 compartment; her face and figure laid back from this frame (§ 71, *Fix pass*). |
+
 ## Lessons for the next prompt
 
 - **"Smooth, made with care" draws the stock robot.** A machine described only as well made comes back as the generator's default white humanoid. Give it its history in shapes instead: what it was built for, what was refitted and in what different material, and where the wear sits (Rook-7, 16 November 2026). A sand-coloured, narrow-waisted body with ball joints reads as a wooden lay figure; a straight-sided trunk with shrouded joints reads as a machine.
