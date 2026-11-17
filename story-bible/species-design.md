@@ -924,10 +924,75 @@ Two lines for the attractors list, from this review: **a close crop of a headles
 
 **Ruled, same evening** (*"Yes Agreed"*): plan B for a second warm, and the canon half, the extension to `planets/fliade.md` that the Pandoids are not one community, stands. The second warm itself, its place, its name and any character from it, waits for a chapter that needs one.
 
-### Body: options put to Dermot, 17 Nov 2026
+**Superseded for the first warm, 17 November 2026** (below): the whiskered face is now every Told's face, so the four filed frames this section kept as they were have been re-made, and plan B no longer marks a second warm.
 
-**Nothing in the design above, on any page or in any filed frame is changed
-by this block.** Dermot, 17 November 2026, verbatim *"As recommended"*, to
+### The body of the Told — ruled 17 November 2026
+
+**His ruling, verbatim:** *"B on A's coat (Recommended)"*, to the four options
+below. The ground-listener's face goes onto option A's coarse real coat and
+proportions, for every Pandoid, the Told and any other warm alike. Every
+point is **derived** from a page or chapter (listed under *What is written
+about the body* below) or was **proposed** in the options block and is now
+his choice.
+
+- **Frame** (derived): large, powerfully built and upright, on the Endoskelia
+  frame, not humanoid. Stands, sits, squats and lies down; goes through the
+  squeeze sideways; an adult does not fit it.
+- **Body** (ruled): heavy and pear-shaped, widest at the hips, with narrow
+  sloping shoulders, long arms and short thick legs.
+- **Head** (ruled): small for the body, blunt, carried low with no neck, and
+  no external ears. Very small dark eyes nearly hidden in the coat; sight is
+  the lesser sense (S12E01C06). A wide fan of long stiff pale whiskers round
+  the blunt muzzle and over the brow: a body that feels its way in the dark
+  and hears the ground.
+- **Coat** (ruled): thick, coarse and uneven, grey against the stone; long and
+  shaggy over the chest, shoulders and back (where a weight is carried,
+  S11E01C02), shorter on forearms and shins, damp and matted with silt at the
+  feet. Individuals differ in shade (Went-Round dark, Stone-First silvery at
+  the crown with age, Keeps-A-Hand-On-It a plain mid grey).
+- **Hands and feet** (ruled): broad, with thick blunt digits and bare pale
+  leathery pads on palms and soles. No count is fixed; the three digits of
+  the study were a device against a human hand and are not canon.
+
+**Two consequences, said plainly.** (1) **His flat face of 7 September 2026
+is replaced.** The earless flat face with large ringed eyes and a wide
+lipless mouth, from his *"more alien"* and his pick of that frame, is no
+longer the Told's face; *Teddy is curious and bright* (7 September) is kept
+as a ruling on one person's look, not on the anatomy. (2) **The second warm
+loses its difference.** Plan B was the mark of a second warm (19 October);
+with the whiskered face on every Pandoid, a second warm differs only as
+`planets/fliade.md` now says, in size and coat, and would need a mark of its
+own when a chapter needs one.
+
+**What the round showed and what is accepted.** The toy reading is gone in
+every re-made frame. Up close the face reads as a large marmot, mole, otter
+or capybara, the mildest of the attractors, and that reading is accepted by
+his pick; a frame fails if it reads as a sloth, an ape, a yeti, a bear or a
+human. The re-made frames and their rounds are in `images.md` (the four
+portrait entries and §§ 73 and 74, *17 November 2026*); the reference frame
+for the body is `story-bible/reference-art/told-body-2026-11-17.jpg` (body
+only; its room is Went-Round's passage).
+
+**Prompt vocabulary and standard negative** for any Told frame: *a heavy
+pear-shaped body widest at the hips, narrow sloping shoulders, long arms,
+short thick legs; a small blunt head set low with no neck and no external
+ears; very small dark eyes almost hidden in the coat; a wide fan of long
+stiff pale whiskers round the muzzle and over the brow; a coarse uneven grey
+coat, long on the chest and shoulders, matted with silt at the feet; broad
+hands and feet with bare pale pads*. Negative: *bear, panda, sloth, ape,
+gorilla, monkey, yeti, troll, human; toy, plush, puppet, costume, animated
+film character, render; cub, young one; external ears, large round eyes, eye
+rings*. Where a small ear-like nub comes back anyway, it is edited out:
+two of the four portraits needed a second edit for it.
+
+### Body: options put to Dermot, 17 Nov 2026 — RULED: B on A's coat
+
+**Ruled the same day.** Dermot, verbatim: *"B on A's coat (Recommended)"*.
+The body is written above, in *The body of the Told — ruled 17 November
+2026*. The block below is kept as the record of the choice.
+
+**Nothing in the design above, on any page or in any filed frame was changed
+by this block when it was written.** Dermot, 17 November 2026, verbatim *"As recommended"*, to
 running a body design pass like the Mnemari one: the Told read as plush
 bears, sloths or soft toys, closer to an animated film than a photograph, in
 all four filed portraits (`teddy.jpg`, `stone-first.jpg`, `went-round.jpg`,
@@ -1043,7 +1108,9 @@ its subject. `teddy.jpg` and `keeps-a-hand-on-it.jpg` were filed as young of
 the Told before the rule, and the audit that made it did not name either.
 Whether the rule reaches them is his, and is in `open-questions.md` with
 three options. It is independent of A to D, except that a re-made portrait
-would follow both answers at once.
+would follow both answers at once. **Ruled the same day**, verbatim *"Every
+people (Recommended)"*: the rule reaches every people, and both portraits
+were re-made grown (`images.md`, Conventions and the two entries).
 
 **What a pick starts:** the chosen body is written into this section in
 place, with a revision note quoting him; the four portraits and Season 11's
