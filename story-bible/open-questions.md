@@ -192,7 +192,14 @@ The next chapter of Tissadelle's middle under the 18 October ruling (option A), 
 1. **The watch's word, *the dead Starwarden*.** *Not Asked* (S05E00C01) has Wender sit *"in a dead Starwarden's chair"*, while *Spent*'s canon fact says the post's Starwarden had *gone up*. The new chapter answers it in the story: the post's watch calls any Starwarden who has gone up *dead*, since she does not write back and is not to be asked. (a) **Recommended: keep it**; it makes the two chapters agree and costs one paragraph. (b) Cut the paragraph and change *dead* to *departed* in *Not Asked*, a clarification of published prose and so his. (c) Cut the paragraph and leave *dead* as a figure of speech.
 2. **A portrait for Emeka Lindahl.** His page has none and no body is stated. (a) **Recommended: leave it** until a second chapter uses him. (b) State a body and write a portrait prompt now.
 
-## The Mnemari head and neck — four options put to Dermot, 17 November 2026 — OPEN, his
+## The Mnemari head and neck — four options put to Dermot, 17 November 2026 — RULED the same day: A
+
+**Ruled 17 November 2026.** Dermot, verbatim: *"Head pick A"*. The jointed neck
+carried folded, the head as written. `species-design.md` point 3 now reads
+*long, jointed neck, carried folded* in place of *long, curving*; the risks A
+named (a lamp arm, an elbow, a fourth leg) are under *Traps closed*; `ulessa.jpg`,
+`osune.jpg` and `s01e00c08.jpg` were brought to it the same day (`images.md`).
+Nothing below is open.
 
 His *"Design pass (C)"* of 17 November 2026: the re-filed head has the written
 details, and the outline of a long smooth neck with a blunt wedge head still

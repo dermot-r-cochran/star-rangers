@@ -1016,9 +1016,12 @@ below. Ilenne's page needed no change: everything it states still holds.
    **thick column** of the same hide, so that the weight rides low between the
    legs like a load in a sling and the animal cannot topple (proposed). It is
    one animal from foot to hub to head.
-3. **Head and neck.** From the front of the slung body a **long, curving neck**
-   sweeps out and forward beneath the arch of the legs, so the head hangs in
-   front at the height of a table (proposed). The head is smooth, rounded and
+3. **Head and neck.** From the front of the slung body a **long, jointed neck,
+   carried folded**, reaches out and forward beneath the arch of the legs, so
+   the head hangs in front at the height of a table: two straight lengths with
+   one heavy knuckle between them, built like the legs' joints, the first rising
+   from the body to the knuckle and the second folding down and forward to the
+   head (ruled 17 November 2026; it was *long, curving*). The head is smooth, rounded and
    blunt, with **two small, dark, deep-set eyes** placed far apart on its
    sides, calm and level, and two breathing slits; no mouth visible from the
    side (it opens on the underside), no ears, no snout, no beak, no crest. A
@@ -1050,6 +1053,12 @@ legs and neck, darker burnt-umber bands across the hub and back, paler sand
 on the underside, with a fine close velvety nap. Not grey. **Voice**
 (proposed): low, carrying across open country, quiet in a room.
 
+**Neck ruled, 17 November 2026.** Dermot, to the four options below, verbatim:
+*"Head pick A"*. Option A, the jointed neck carried folded, with the head as
+written. The one change to the design is point 3's *curving* neck, which
+becomes *jointed, carried folded*; reach, table height, the head and the lean
+are as they were.
+
 **Dress and marks: open, his, and not needed for a portrait** (unchanged).
 
 ### Traps closed
@@ -1066,6 +1075,18 @@ on the underside, with a fine close velvety nap. Not grey. **Voice**
   the whole body, so a frame that shows the head shows the written one, eyes
   far apart on the sides, two slits, no mouth from the side (Ulessa's
   portrait, re-filed the same day).
+- **The jointed neck's own risks** (option A, ruled 17 November 2026). A
+  folded neck can read as a **desk-lamp arm**, an **elbow** or a **fourth
+  leg**. A frame avoids them three ways. The neck is as thick as the legs,
+  in the same hide, with skin creases at the knuckle, never a thin smooth rod
+  or a hinge (which is the lamp). The head is always at the end of the second
+  length, a little wider than it, with its eye and slits in view where the
+  angle allows, so the folded length ends in a head and not a hand (which is
+  the elbow). The second length folds down and forward toward the table or the
+  person attended, ending well above the floor, never reaching it beside the
+  legs (which is the fourth leg). Drawn thin, it is a swan or a crane. Of the
+  first takes, the one whose second length hung straight down beside the far
+  leg read nearest a fourth leg and was not filed.
 - **The human fist.** Working-limb tips described as short blunt digits
   folded over a pad came back as clenched fists in both takes of two edit
   rounds, on 16 and 17 November 2026. What held: *a small closed bud like an unopened
@@ -1083,9 +1104,15 @@ on the underside, with a fine close velvety nap. Not grey. **Voice**
   undying memory is a liability, never wisdom; no large bald head or black
   eyes; the body grants nothing.
 
-### Head and neck: options put to Dermot, 17 Nov 2026
+### Head and neck: options put to Dermot, 17 Nov 2026 — RULED: A
 
-**Nothing in the design above is changed by this block.** Dermot, 17 November
+**Ruled the same day.** Dermot, verbatim: *"Head pick A"*. Point 3 above now
+reads *long, jointed neck, carried folded*; the risks A named are under *Traps
+closed*; `ulessa.jpg`, `osune.jpg` and the S01E00C08 terrace frame were
+brought to it (`images.md`, the three entries' 17 November notes). The block
+below is kept as the record of the choice.
+
+**Nothing in the design above was changed by this block when it was written.** Dermot, 17 November
 2026, to the three choices put after the re-filed portrait: *"Design pass
 (C)"*, a design pass on the head and neck only. The problem is the outline.
 The re-filed head has the written details (eyes far apart on the sides, two
@@ -1109,7 +1136,7 @@ exactly as written. Drafted on Fable; the body is his to decide.
 
 **Four options**, each studied as an edit of the filed `ulessa.jpg` that
 changed only head and neck (`scripts/image-edit.js`, two takes each, plus one
-second round for C and one merged study; 14 generations, no refusals). None
+second round for C and one merged study; 12 generations, no refusals; the count was given as 14 when first recorded, and the runs on disk hold 12). None
 is filed. Sheet: `mnemari-head-options-2026-11-17.jpg` in the working folder (not in this repository), the
 current portrait first.
 
@@ -1146,7 +1173,9 @@ attractors by name. None of that is done here.
 The prompt of record is Ulessa's in `images.md` § 20, the generator's input
 for the filed frame; a new Mnemari prompt starts from it. **Rules learned:**
 the working limbs hang curled beneath the body and touch nothing (a limb laid
-on a table returns a human hand); state *exactly three legs*; say the chairs
+on a table returns a human hand); state *exactly three legs*; the neck is a
+thick jointed arm of the same hide in two straight lengths with one heavy
+knuckle, folded down and forward, never one smooth arc (17 November 2026); say the chairs
 are empty and nobody is in frame; ask for natural full colour and normal
 exposure, never *muted*.
 
@@ -1155,7 +1184,7 @@ figure, humanoid, human face, human hands, fingers, spider, harvestman,
 insect, crab, octopus, jellyfish, tentacles, war machine, tripod robot,
 walking machine, metal, horse, giraffe, elephant, dinosaur, bird, frog, toad,
 hooves, a tail, horns, teeth, an open mouth, clothing, big round eyes, cute
-face, readable text, screens, lit ceiling panels, visible lamps, windows, 3D
+face, swan, crane, sauropod, a smooth curving neck, a desk lamp, a hinge, a fourth leg, readable text, screens, lit ceiling panels, visible lamps, windows, 3D
 render, CGI, cartoon, toy, concept art.*
 
 ### Where this goes

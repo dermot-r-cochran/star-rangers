@@ -6,7 +6,7 @@ species: Mnemari
 role: "Treaty-witness of Ilenne, requested to sessions of the Federation assembly that revisit old compacts"
 status: Active
 image: "ulessa.jpg"
-image_alt: "Ulessa, a large Mnemari with a warm ochre and russet hide banded in umber, standing on three tall arched legs that meet at a hub above her, her rounded body slung beneath on a thick column, a broad pale oval membrane flush on its side, a long curving neck reaching forward so her smooth blunt head hangs at the height of a pale table with a few cream sheets on it, one small dark eye on the side of the head and two thin slits on top, short working limbs hanging beneath her body, each ending in a closed bud, in a quiet room with pale neutral walls."
+image_alt: "Ulessa, a large Mnemari with a warm ochre and russet hide banded in umber, standing on three tall arched legs that meet at a hub above her, her rounded body slung beneath on a thick column, a broad pale oval membrane flush on its side, a long jointed neck that rises from the front of her body to a heavy knuckle and folds down and forward, so her smooth blunt head hangs just above a cream sheet on a pale table, one small dark eye on the side of the head and two thin slits on top, short working limbs hanging beneath her body, each ending in a closed bud, in a quiet room with pale neutral walls."
 aliases: []
 tags: [mnemari, ilenne, federation-of-sentient-beings, treaty-witness, mediation, memory, indefinite-lifespan, civilian]
 known_codex: [the-part-not-played]
