@@ -189,3 +189,19 @@ keeping its room and pose (`images.md`, the four entries' 17 November notes).
 - **One small hint is not enough when the rest of the frame is ours.** Dermot's bar is that
   a frame should look more like the 29th century than the 20th or 21st, so the setting
   itself has to carry the century, not one object in a corner of it.
+
+## The beetle body retired, 17 November 2026
+
+Dermot, verbatim: *"Artist's impression"*. The Chthonari A body (one flat disc, six spoke limbs, no head) failed every photographic round, so every frame of the people is now an artist's impression in one medium, and the old beetle-bodied frames come here.
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `tikket-beetle-2026-11-17.jpg` | Tikket | The beetle body: a domed, segmented carapace with a smooth head, standing on six legs beneath it. Lesson: the A body is one flat disc with no head, lying on its underside; a frame that stands it on its legs is a tick or a beetle. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+| `kattik-beetle-2026-11-17.jpg` | Kattik | The beetle body at the slab, the forelegs on the stone. Lesson: the working pair rises from a disc's rim, not from the front of a head-and-thorax. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+| `tsikk-beetle-2026-11-17.jpg` | Tsikk | The beetle body raised at the front. Lesson: *raised at the front* drew a body lifted on its legs; on the A body the pair lifts, the disc stays down. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+| `tekka-beetle-2026-11-17.jpg` | Tekka | The beetle body mid-stride on a platform. Lesson: a gait drawn on legs beneath the body is an insect's; the A body grips from the rim. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+| `kettsa-beetle-2026-11-17.jpg` | Kettsa | The beetle body in uniform, the tab *behind the head*. Lesson: a uniform cue placed by a body part the people lacks goes when the body changes; the tab is behind the working pair. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+| `akkit-beetle-2026-11-17.jpg` | Akkit | The beetle body in the channel. Lesson: as for the crew; one people, one body, every frame of it. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+| `pekkat-beetle-2026-11-17.jpg` | Pekkat | The beetle body close, a foreleg to the rib; its bead rows of sensing organs were the one living surface the photographs found, and they are kept on the impression. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+| `s10e01c02-beetle-2026-11-17.jpg` | S10E01C02 | Two beetle bodies at the mount, rendered smooth and figurine-like. Lesson: a chapter frame whose subject is a people that cannot be photographed is an impression too. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+| `s10e01c05-beetle-2026-11-17.jpg` | S10E01C05 | Four beetle bodies round the slab, plasticine-smooth. Lesson: as C02. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
