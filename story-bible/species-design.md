@@ -1110,7 +1110,7 @@ exactly as written. Drafted on Fable; the body is his to decide.
 **Four options**, each studied as an edit of the filed `ulessa.jpg` that
 changed only head and neck (`scripts/image-edit.js`, two takes each, plus one
 second round for C and one merged study; 14 generations, no refusals). None
-is filed. Sheet: `F:\CLAUDE\_tmp\mnemari-head-options-2026-11-17.jpg`, the
+is filed. Sheet: `mnemari-head-options-2026-11-17.jpg` in the working folder (not in this repository), the
 current portrait first.
 
 | | The option | Written fact it changes | Earth attractor it risks | What the studies showed (rung 1 of the image ladder) |

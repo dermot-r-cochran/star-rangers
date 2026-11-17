@@ -192,7 +192,7 @@ reads as a sauropod or a llama. A body is his decision (CLAUDE.md, *Never
 without Dermot*), so nothing is changed. The options, the facts each would
 change, the attractor each risks and what the studies showed are in
 `species-design.md`, *Mnemari — Head and neck: options put to Dermot, 17 Nov
-2026*; the sheet is `F:\CLAUDE\_tmp\mnemari-head-options-2026-11-17.jpg`.
+2026*; the sheet is `mnemari-head-options-2026-11-17.jpg` in the working folder (not in this repository).
 
 - **A (recommended):** a jointed neck carried folded, built like the legs;
   head as written. Changes one word, *curving*.
