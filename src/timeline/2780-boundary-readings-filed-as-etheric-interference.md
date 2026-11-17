@@ -6,6 +6,8 @@ sort_order: -460
 era: "2543-2799"
 summary: "Survey Corps analysts begin classifying the readings that will not recalibrate away at boundary posts as Etheric interference, filed beside instrument drift. A symptom is named; the coupling that produces it is not."
 tags: [survey-corps, etheric, boundary, instrument-drift, overfold, cosmology, history]
+image: "codex/survey-corps-protocol.jpg"
+image_alt: "Designed cover for the Survey Corps Boundary Monitoring Protocol: a formal document-style cover with ruled lines and an OFFICIAL stamp on a dark navy background."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [survey-corps, etheric, boundary, instrument-drift, overfold, cosmology, h
     </ol>
   </nav>
   <h1 class="lore-entry__title">Boundary Readings Classified as Etheric Interference</h1>
-  <p><span class="character-badge">~2780 UCSD</span></p>
+  <p><span class="character-badge">~2780 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

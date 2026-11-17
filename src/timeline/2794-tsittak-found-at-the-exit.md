@@ -6,6 +6,8 @@ sort_order: -320
 era: "2543-2799"
 summary: "A Ranger survey vessel comes out of an uncharted quiet-zone tunnel beside Tsittak, a Chthonari settlement in deep interstellar space, and is hailed and asked whether the crew needs anything."
 tags: [tsittak, chthonari, quiet-zone-tunnel, survey-corps, federation-of-sentient-beings, deep-space]
+image: "lore/tsittak.jpg"
+image_alt: "Tsittak from a few kilometres out: a lone, lumpy, potato-shaped body of dark nickel-iron pitted with craters, mostly in shadow against a dense star field and a faint band of the galaxy, with a small warm amber dock recessed into one cut face and a faint cross of cut channels running from it."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [tsittak, chthonari, quiet-zone-tunnel, survey-corps, federation-of-sentie
     </ol>
   </nav>
   <h1 class="lore-entry__title">Tsittak Found at the Exit</h1>
-  <p><span class="character-badge">2794 UCSD</span></p>
+  <p><span class="character-badge">2794 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

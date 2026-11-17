@@ -6,6 +6,8 @@ sort_order: -2980
 era: "before-2543"
 summary: "A Cerebraun Hegemony filing, signed by the Halyx System's Administrator-Voice, closes the Sentinel's case as an automated hazard beacon. It stays closed for three centuries."
 tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel]
+image: "lore/sentinel.jpg"
+image_alt: "A bare grey cratered plain on an airless world under a black sky, hard sunlight and black shadows, a small pale green world low above the horizon, and alone in the foreground a low, smooth, rounded survey receiver resting on three short feet, with one small dark window and a tiny indicator on its upper face, boot prints and a lander's pad mark in the dust around it"
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel]
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Sentinel Filed as a Hazard Beacon</h1>
-  <p><span class="character-badge">~2528 UCSD</span></p>
+  <p><span class="character-badge">~2528 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

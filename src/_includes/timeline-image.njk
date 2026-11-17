@@ -1,0 +1,8 @@
+{# A timeline entry's picture (since 2026-11-17). Entries have no layout of
+    their own (layout: base.njk, hand-written HTML), so each one includes this
+    at the end of its header's date line, where lore-entry.njk puts its own
+    entry-image. `image` is the path BELOW src/images/ ("chapters/s00e03c01.jpg",
+    "lore/tsittak.jpg"), since an entry borrows the picture of the place, people
+    or event it records from wherever that picture is filed. Without `image`
+    this renders nothing at all, so the entry is exactly as it was. #}
+{%- if image %}<img class="entry-image" src="/star-rangers/images/{{ image }}" alt="{{ image_alt | default(title) }}" />{% endif -%}

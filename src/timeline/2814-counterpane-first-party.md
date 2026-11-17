@@ -6,6 +6,8 @@ sort_order: 5
 era: "2800-2825"
 summary: "The Survey Corps' first party on one membrane of a neighbouring archecluster logs nothing anomalous for ninety days, and then a routine correlation calibration returns a residual that survives every predicted correction. Syra files it as survives correction and declines a softer word."
 tags: [counterpane, archecluster, survey-corps, calibration, fold-transit, syra, krenyi, cosmology, history]
+image: "chapters/s01e00c05.jpg"
+image_alt: "A pale, freckled woman with dark hair drawn back, in a plain dark olive high-necked garment, bends over a bench and lowers a sealed pale grey cylinder into a padded dark tray where two identical cylinders already lie, each with one small indicator. The room is a small shelter with quilted pale walls; a rounded port behind her looks out on a blue-white frost plain under a dark sky with a dim sun low on the horizon."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [counterpane, archecluster, survey-corps, calibration, fold-transit, syra,
     </ol>
   </nav>
   <h1 class="lore-entry__title">The First Party on Counterpane's Membrane</h1>
-  <p><span class="character-badge">2814 UCSD, Late Autumn</span> <span class="character-badge">The first party's shelter, on the membrane later registered as Counterpane</span></p>
+  <p><span class="character-badge">2814 UCSD, Late Autumn</span> <span class="character-badge">The first party's shelter, on the membrane later registered as Counterpane</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

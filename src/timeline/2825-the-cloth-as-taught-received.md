@@ -6,6 +6,8 @@ sort_order: 80
 era: "2800-2825"
 summary: "The Survey Archive's Doctrinal Division receives Ilvane's account of what a Levril taught her over four sittings, the source behind the registry's entries on Wholecloth and Selvage."
 tags: [krenyi, ilvane, levril, champions, wholecloth, selvage, survey-corps, archive-doctrine]
+image: "characters/ilvane.jpg"
+image_alt: "Ilvane, a slight woman with medium-brown skin and very short dark hair, in an olive-green Survey Corps jacket, standing in a dim instrument gallery beside a dark viewport, holding a single pale sheet and looking off to the side."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [krenyi, ilvane, levril, champions, wholecloth, selvage, survey-corps, arc
     </ol>
   </nav>
   <h1 class="lore-entry__title">A Krenyi Analyst's Account of the Cloth Received</h1>
-  <p><span class="character-badge">2825 UCSD</span></p>
+  <p><span class="character-badge">2825 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

@@ -6,6 +6,8 @@ sort_order: 110
 era: "2826-onward"
 summary: "Galahad, Elvira, and Aldera converge at the Marsh Causeway after Elvira's third failed ritual. The Obliger feeding signature is first identified."
 tags: [causeway, elvira, galahad, aldera, obligers, boundary]
+image: "chapters/s01e02c01.jpg"
+image_alt: "At dusk in a reed marsh, a dark-haired woman in a grey-green coat sits on muddy ground at the centre of a wide chalk ring marked with small stone weights, glasses of water and a stretched thread, looking down; a bearded man in grey-green field dress crouches at its rim, touching nothing. Behind them a broken line of old lichened stone blocks runs into standing water, and far off a long low hull-shaped form with three lights lies on the horizon, with a small drone hanging over the reeds."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [causeway, elvira, galahad, aldera, obligers, boundary]
     </ol>
   </nav>
   <h1 class="lore-entry__title">Causeway Convergence: Elvira, Galahad, and Aldera</h1>
-  <p><span class="character-badge">2826 UCSD, Late Autumn</span></p>
+  <p><span class="character-badge">2826 UCSD, Late Autumn</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

@@ -7,6 +7,8 @@ era: "2800-2825"
 major: true
 summary: "On the Survey Corps Standards Office's calibration floor the first party's instruments pass audit and the same bench, braided at home, returns to budget. The Science Corps review finds that identical at base was only ever stated within the local archecluster, and the residual is filed as a reading at the width of one membrane."
 tags: [counterpane, archecluster, survey-corps, science-corps, calibration, scope-of-physical-law, yusuf-adair, cosmology, history]
+image: "lore/the-scope-of-physical-law.jpg"
+image_alt: "Six boxes of graduated size standing apart in a row along a long pale table in a bare, pale room, four of plain wood and two of pale composite, none matching, and at the far end a small sealed grey housing with a single small light, daylight from a tall window on the left."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [counterpane, archecluster, survey-corps, science-corps, calibration, scop
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Counterpane Reading Accepted at Home</h1>
-  <p><span class="character-badge">2815 UCSD, Summer</span> <span class="character-badge">Survey Corps Standards Office, calibration floor, Earth</span></p>
+  <p><span class="character-badge">2815 UCSD, Summer</span> <span class="character-badge">Survey Corps Standards Office, calibration floor, Earth</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

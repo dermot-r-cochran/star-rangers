@@ -7,6 +7,8 @@ era: "2826-onward"
 summary: "In the Fliade survey's fourth year, one of the Told speaks at the line to one of the up-people, and the survey party hears it and does not record it. The Told no longer hold the up-people to be people who have not been told."
 plain: "In 2834, the team's fourth year, one of the Told said something to the team at the line where the team knocks. The team heard it and did not record it, so the record does not have the words. After that, the Told no longer called the team people who have not been told."
 tags: [fliade, pandoids, survey-corps, first-contact, below-the-roof, the-told]
+image: "chapters/s14e01c04.jpg"
+image_alt: "Seen from the side on pale silt before a cracked pale rock wall: at the right a large shaggy pale-grey Pandoid is bent low with one broad hand laid flat on a rounded rock, its face turned down in shadow; at the left a slight person in a grey-green coverall stands upright and still, facing it, a small lamp held low at the side. One plain stone lies on the silt between them, and amber and blue-green fungus glows beyond."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [fliade, pandoids, survey-corps, first-contact, below-the-roof, the-told]
     </ol>
   </nav>
   <h1 class="lore-entry__title">A Telling Told at the Line</h1>
-  <p><span class="character-badge">2834 UCSD</span></p>
+  <p><span class="character-badge">2834 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

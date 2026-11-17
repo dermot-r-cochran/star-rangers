@@ -7,6 +7,8 @@ era: "2826-onward"
 major: true
 summary: "Directed to put the Sentinel's authorship to Meridian's reef-cities or say why not, Administrator-Voice Sohrel states the reason for the first time, and the Prime Ganglion's office reserves the question to itself."
 tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel, tissadelle-shepherd]
+image: "chapters/s03e01c04.jpg"
+image_alt: "Over the shoulder of a woman with red hair in a knot, seen from behind and looking down, a Cerebraun sits at a low broad desk in a dim taupe office: a soft, deeply creased grey-violet body with no head or face, resting on its folded lower limbs on a low platform, its upper limbs folded close against it, one curled on the edge of the desk, with small dark eyes set in the skin, and one limb hanging beneath the desk in shadow. A small dark rounded instrument stands on the otherwise bare desk."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel, 
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Hegemony's Reason Put on the Record</h1>
-  <p><span class="character-badge">2828 UCSD, Late Spring</span></p>
+  <p><span class="character-badge">2828 UCSD, Late Spring</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

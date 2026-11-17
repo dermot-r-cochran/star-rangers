@@ -7,6 +7,8 @@ era: "2800-2825"
 major: true
 summary: "The Federation of Sentient Beings and the Star Rangers conclude the reciprocal instrument by which each keeps a resident ring above the other's people: Greenward above Verdance, and the Guest Ring."
 tags: [federation-of-sentient-beings, verdance, verdani, greenward-habitat, the-guest-ring]
+image: "lore/greenward-habitat.jpg"
+image_alt: "Greenward, a plain grey habitat ring turning above the cloud-banded limb of a green and blue world, four thin spokes running in to a small central hub, with one flat radiator panel standing straight out from the hub along its axis; nothing docked, nothing lit, and nothing joining it to the ground"
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [federation-of-sentient-beings, verdance, verdani, greenward-habitat, the-
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Reciprocal Instrument Concluded: Greenward and the Guest Ring</h1>
-  <p><span class="character-badge">~2806 UCSD</span></p>
+  <p><span class="character-badge">~2806 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

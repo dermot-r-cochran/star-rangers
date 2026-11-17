@@ -6,6 +6,8 @@ sort_order: 138
 era: "2826-onward"
 summary: "A Federation contractor crew of four Chthonari, on its first posting off the Undersong Belt, hears one of Eden's fold-approach mounts carrying more than its certification names. The joint inspection that follows finds old damage under the plating."
 tags: [chthonari, undersong-belt, federation-of-sentient-beings, eden, kattik, tekka, tsikk, tikket, orbital-five-o]
+image: "chapters/s10e01c02.jpg"
+image_alt: "An artist's impression, painted in gouache and watercolour as a reconstruction plate: the understructure beneath a habitat's dock ring, a long, low space of dark blue-grey plates with square columns on broad foot plates in a row. At the nearest column are two Chthonari, each one low, flat disc on six spoke limbs: one lies on the column's foot plate with two limbs laid up its face, and the other lies on the deck beside it, turned toward it. Far down the row, two more wait beside a line of plain grey capsules."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [chthonari, undersong-belt, federation-of-sentient-beings, eden, kattik, t
     </ol>
   </nav>
   <h1 class="lore-entry__title">A Chthonari Crew's Log Line on Eden's Mount Three</h1>
-  <p><span class="character-badge">2828 UCSD, Spring</span></p>
+  <p><span class="character-badge">2828 UCSD, Spring</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

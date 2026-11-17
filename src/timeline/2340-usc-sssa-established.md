@@ -7,6 +7,8 @@ era: "before-2543"
 major: true
 summary: "The United Space Consortium is founded from the Navigation and Trade Accords, and consolidates off-world safety certification bodies into the Solar System Safety Standards Authority — with United Space Industry Standards as its largest component."
 tags: [usc, united-space-consortium, history, governance, sssa, safety-corps, standards, certification]
+image: "lore/united-space-consortium.jpg"
+image_alt: "Designed cover for United Space Consortium: three concentric rings in a warm sand-gold glow on a dark brown-black field, the category HISTORY above and the title beneath, with the lines The First Attempt at Interplanetary Governance and And why it did not survive its own contradictions."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [usc, united-space-consortium, history, governance, sssa, safety-corps, st
     </ol>
   </nav>
   <h1 class="lore-entry__title">USC Founded; Solar System Safety Standards Authority Established</h1>
-  <p><span class="character-badge">~2140 CE (2340 UCSD)</span></p>
+  <p><span class="character-badge">~2140 CE (2340 UCSD)</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

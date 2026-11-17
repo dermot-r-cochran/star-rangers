@@ -346,16 +346,19 @@ const IMAGE_DIR_BY_SECTION = {
   lore: "lore",
   glossary: "glossary",
   seasons: "chapters",
-  journal: "journal"
+  journal: "journal",
+  // A timeline entry's value carries its own directory (since 2026-11-17,
+  // src/_includes/timeline-image.njk), so the include supplies none.
+  timeline: ""
 };
 
 function checkFrontMatterImageUrlResolves(data, relativePath, index) {
   if (isBlank(data.image)) return [];
   const section = relativePath.split(/[/\\]/)[1]; // "src/lore/planets/x.md" -> "lore"
   const dir = IMAGE_DIR_BY_SECTION[section];
-  if (!dir) return [];
+  if (dir === undefined) return [];
   const value = String(data.image).replace(/^\/+/, "");
-  const rel = `${dir}/${value}`;
+  const rel = dir ? `${dir}/${value}` : value;
   if (index.byRelPath.has(rel)) return [];
   const elsewhere = index.byBasename.get(path.basename(value).replace(/\.[^.]+$/, "")) || [];
   return [
@@ -747,6 +750,12 @@ function main() {
     }
     problems.push(...checkFrontMatterImageExists(data, relativePath, imageIndex));
     problems.push(...checkFrontMatterImageUrlResolves(data, relativePath, imageIndex));
+    // A timeline entry has no layout to draw its `image` (since 2026-11-17);
+    // the body's own include does, so an image without it never shows.
+    if (schema === TIMELINE_TYPE && !isBlank(data.image) &&
+        !matter(fs.readFileSync(filePath, "utf8")).content.includes('{% include "timeline-image.njk" %}')) {
+      problems.push('has an image: but its body never includes "timeline-image.njk", so the picture is not drawn - put the include at the end of the header\'s date line');
+    }
     for (const { threadId, signatureTag } of checkGatedThreadSignatureTags(data)) {
       problems.push(
         `tagged "${signatureTag}" (a "${threadId}" signature tag - see lib/storyline-threads.js) but missing ` +

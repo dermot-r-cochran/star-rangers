@@ -7,6 +7,8 @@ era: "2826-onward"
 summary: "A Survey Corps follow-up team is billeted with the households of Gleann na gCaorach for a crossing night, under the Celtic Union's survey-hospitality arrangements. The delegation's manifest carries one courtesy animal, and nothing else that travelled with it."
 plain: "The Star Rangers' Survey Corps sent a small team to the planet Drithane to watch a crossing night, when a whole valley turns its lights out to see the sparks in the sky. The team stayed in people's houses, not in a camp. The list of who went has one animal on it, a rabbit. It does not say what else came along."
 tags: [drithane, celtic-union, survey-corps, crossing-night, sorcha-nic-dhiarmada, bubochka, undercover-pets.com]
+image: "chapters/s02e03c01.jpg"
+image_alt: "A white lop-eared rabbit sits upright on a frosted lane at night, seen from behind, looking down into a dark snowbound valley; beside her stand a pair of heavy boots and the hem of a long grey coat. Below are unlit stone and timber steadings, a glasshouse, three sheep and one small cluster of red points of light. Above, dozens of short gold-white sparks fall slowly through a sky full of stars, and a slim unlit mast stands on the ridge."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [drithane, celtic-union, survey-corps, crossing-night, sorcha-nic-dhiarmad
     </ol>
   </nav>
   <h1 class="lore-entry__title">A Survey Delegation Keeps a Crossing Night on Drithane</h1>
-  <p><span class="character-badge">2826 UCSD, Deep Winter</span></p>
+  <p><span class="character-badge">2826 UCSD, Deep Winter</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

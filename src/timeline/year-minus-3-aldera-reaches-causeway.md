@@ -6,6 +6,8 @@ sort_order: 40
 era: "2800-2825"
 summary: "Months after leaving Dún Rí, Aldera reaches the Marsh Causeway on Nessa's direction and begins logging the boundary zone alone, before Elvira ever arrives."
 tags: [causeway, aldera, boundary, arrival]
+image: "characters/aldera.jpg"
+image_alt: "Aldera, an alert tabby cat wearing a slim plain grey collar, sitting upright on a weathered causeway rail above a misty marsh at dawn."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [causeway, aldera, boundary, arrival]
     </ol>
   </nav>
   <h1 class="lore-entry__title">Aldera Reaches the Marsh Causeway</h1>
-  <p><span class="character-badge">2822 UCSD, Deep Winter</span></p>
+  <p><span class="character-badge">2822 UCSD, Deep Winter</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

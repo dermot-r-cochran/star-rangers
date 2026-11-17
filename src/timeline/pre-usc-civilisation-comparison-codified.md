@@ -7,6 +7,8 @@ era: "2543-2799"
 major: true
 summary: "USC historical scholarship establishes the Three-Era Framework — comparing the 13th, 21st, and 29th centuries — as the canonical lens for understanding the transition from visible to invisible infrastructure, and the philosophical stakes of post-comprehension governance."
 tags: [history, usc, three-era-framework, guild, infrastructure, civilisation, technology, levrils, reclaimers, tafs]
+image: "lore/civilisation-comparison.jpg"
+image_alt: "Designed title card on a near-black star field in warm sepia: the category HISTORY in spaced capitals at the top, three nested arcs held in a soft glow, and below a short rule the title CIVILISATION COMPARISON: 13TH, 21ST, AND 29TH CENTURIES in pale serif capitals, subtitled 'Three Eras, Measured Against Each Other' and 'The 13th, the 21st, and the 29th centuries'."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [history, usc, three-era-framework, guild, infrastructure, civilisation, t
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Three-Era Framework Codified</h1>
-  <p><span class="character-badge">USC era onward (historiography)</span></p>
+  <p><span class="character-badge">USC era onward (historiography)</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

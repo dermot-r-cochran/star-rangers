@@ -6,6 +6,8 @@ sort_order: 15
 era: "2800-2825"
 summary: "The Survey Corps returns to the surveyed membrane of Counterpane with the same three sealed sources, braids them on the same bench, and carries the value home as cargo. The reading is confirmed at this revisit and every one after it, on a cadence that reaches the seventh in the spring of 2829."
 tags: [counterpane, archecluster, survey-corps, calibration, fold-transit, ingrid-halvorsen, cosmology, history]
+image: "chapters/s03e02c03.jpg"
+image_alt: "Inside a small round white shelter rimed with frost, a woman with red hair tied back sits on a low pale bin in profile, head bowed, loose strands of hair over her ear, gloved hands on her knees, her breath showing. At the far end an older grey-haired woman in olive stands with her back half turned at a pale bench, one gloved hand on the middle one of three small grey ovoids, in front of a rounded opening filled with flat white light."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [counterpane, archecluster, survey-corps, calibration, fold-transit, ingri
     </ol>
   </nav>
   <h1 class="lore-entry__title">The First Revisit to Counterpane</h1>
-  <p><span class="character-badge">~2817 UCSD</span> <span class="character-badge">The calibration shelter on the surveyed membrane of Counterpane</span></p>
+  <p><span class="character-badge">~2817 UCSD</span> <span class="character-badge">The calibration shelter on the surveyed membrane of Counterpane</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

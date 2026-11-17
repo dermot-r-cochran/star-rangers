@@ -7,6 +7,8 @@ era: "2826-onward"
 summary: "Twelve requirements since the Military Space Command's response to the Constant Margin transit of 2712, Eden's compliance framework gains a thirteenth, extending loose-article control to every deck area outside a registered berth or sealed store and citing the fold-proximate monitoring baseline. The detective bureau's evidence shelf is registered as a sealed store before anything on it is lost."
 plain: "Eden has a list of rules for keeping the station safe. It had twelve rules for more than a hundred years. In the late summer of 2827 it got a thirteenth: anything small left lying about, on any deck, is tidied away by the cleaning machines at night and put in lost property. The detectives' shelf of evidence counted as lying about, until it was registered as a locked store, just in time."
 tags: [eden, compliance, orbital-habitats-compact, wendell-albercombe, history, undercover-pets.com]
+image: "chapters/s02e09c01.jpg"
+image_alt: "At night, on a dark cork floor, a low rounded-square grey housekeeping machine with one small green light and a tray of small clear bags in its side carries a black cat on its flat top. The cat sits bolt upright in profile, a round tag on his collar, holding a small clear bag of bolts with a blank slip by one corner in his mouth. Behind are cleared desks, an empty open shelf, and a wide window onto the habitat's terraces in blue darkness with a few warm lights."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [eden, compliance, orbital-habitats-compact, wendell-albercombe, history, 
     </ol>
   </nav>
   <h1 class="lore-entry__title">Eden's Compliance Framework Gains a Thirteenth Requirement</h1>
-  <p><span class="character-badge">2827 UCSD, Late Summer</span></p>
+  <p><span class="character-badge">2827 UCSD, Late Summer</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 
