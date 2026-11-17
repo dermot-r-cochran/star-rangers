@@ -134,6 +134,12 @@ frame was brought to it by an edit of its head and neck (`images.md`, the three 
 | `lore-cosmic-2026-11-17.jpg` | Lore (hero) | Adobe Stock, licence unrecorded (the same batch). A saturated nebula: a stock image of a sky, which the Conventions give to his frame or a card. | Replaced the same day by his photograph of a cloud sea from Teide, `F:\126TNRFE\DSC_7865.JPG`: `hero/lore-above-the-cloud.jpg` (§ 68). |
 | `timeline-clock-2026-11-17.jpg` | Timeline and Threads (hero) | Adobe Stock, licence unrecorded (the same batch). A distressed clock face with numerals: grunge, lettering, and a concept pictured. | Replaced the same day by his photograph of layered ash on Teide, `F:\126TNRFE\DSC_7841.JPG`: `hero/timeline-strata.jpg` (§ 68). |
 
+## One hive at Cnoc na mBeach, 17 November 2026
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `brother-fintan-2026-11-17.jpg` | Brother Fintan | Weathered timber box hives, where the place's own frame (`lore/cnoc-na-mbeach.jpg`) has pale seamless composite ones: one place with two looks, and the timber hive is today's. Dermot, 17 November 2026: *"Yes, both"*, the hives to one look. Lesson: a portrait set in a place takes the place's made things from the place's frame, and its prompt must name them. | Re-filed by an edit of the hives only, pasted back onto this frame; his face, hand, jumper and the walls are unchanged (`images.md` § 70, *Fix pass*). |
+
 ## Lessons for the next prompt
 
 - **"Smooth, made with care" draws the stock robot.** A machine described only as well made comes back as the generator's default white humanoid. Give it its history in shapes instead: what it was built for, what was refitted and in what different material, and where the wear sits (Rook-7, 16 November 2026). A sand-coloured, narrow-waisted body with ball joints reads as a wooden lay figure; a straight-sided trunk with shrouded joints reads as a machine.
