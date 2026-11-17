@@ -4,7 +4,7 @@ title: "Codex"
 eleventyComputed:
   description: "In-universe documents, edicts, logs, and annotated records from {{ site.name }}."
 ---
-<img class="page-hero-image" src="/star-rangers/images/hero/codex-documents.jpg" alt="A stack of thick paper case files, each bound with a black clip, on a pale wooden table in soft window light" />
+<img class="page-hero-image" src="/star-rangers/images/hero/codex-archive-niches.jpg" alt="In a deep rounded niche of smooth cream composite, three closed records lie stacked askew: bound sets of thin rigid leaves in slate grey, clay brown and pale ochre, each hinged along one edge by a slim dark rod, with a small round bronze seal on the blank top leaf of the nearest." />
 <h1 class="page-title">Codex</h1>
 <p class="page-intro">
   A logbook, an edict, a clipped archive note—this is where the world speaks in its own paperwork. These are primary sources. Read them closely, because some are incomplete, biased, or built to mislead.

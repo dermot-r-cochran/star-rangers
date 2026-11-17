@@ -57,7 +57,7 @@ undated:
     note: "Undated in the record."
     url: "/lore/veyr-basaltborn/"
 ---
-<img class="page-hero-image" src="/star-rangers/images/hero/timeline-clock.jpg" alt="Close-up of an old clock face printed on cracked, weathered sepia plaster, its heavy black hands across the numerals nine to two" />
+<img class="page-hero-image" src="/star-rangers/images/hero/timeline-strata.jpg" alt="A cutting through layered volcanic ash: broad bands of cream, tan, brown and grey-black rock curve down across the frame, with a few green shrubs along the top edge." />
 <h1 class="page-title">Timeline</h1>
 {#- On a children's-tier build the index speaks in the tier's register: a
     plain intro, and each entry's `plain:` line in place of its `summary`
