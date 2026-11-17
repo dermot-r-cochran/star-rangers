@@ -22,7 +22,7 @@ Three figures walk out along a stone spit toward a white lighthouse, seen from b
 
 - **The rhythm.** The chapter gives fifteen seconds from one group of flashes to the next. In the film the groups come about five seconds apart.
 - **The window.** The window of the room shows an island. The brief asked for the far low form on the water, and the record puts no island there.
-- **The robot.** The third walker on the spit is slim and white. The brief, and the chapter's own picture, give a boxy grey-khaki figure.
+- **The robot.** The third walker on the spit is slim and white. The brief, and the chapter's own picture, give a boxy grey-khaki figure. Rook-7's own page has since moved to a third body, broad and pale grey, and the chapter's picture has yet to follow.
 - **The clock.** The chapter has a clock that times the light, and the brief put a plain wall clock in the room. What that clock looks like in 2826 is still an open question. In the stills it looked old-fashioned for 2826, and I had it taken out. So the man asks about a clock the film never shows.
 - **The stair in the room.** In the stills it appeared to turn back on itself, and I had that taken out too. The later shot on the stair is kept, because its steps run one way.
 - **A cheek.** The brief asked for no faces. The edge of her cheek shows twice in the room.

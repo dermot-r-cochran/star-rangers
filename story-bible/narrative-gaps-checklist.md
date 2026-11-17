@@ -17,7 +17,7 @@ Against the 2026-08-10 list:
 | **Church Space** — "a thread on one chapter" | **Two** (*The Night Office*; *Asteria's Night*, the corpus's first `tier=contemplative` block) |
 | *(Young Star Rangers not listed)* | **Exists** — Season 9, five chapters, its own edition on young.fianilchruinne.com |
 | **Below the Roof** — three chapters | **Twenty-four**, across three seasons (11, 12 and 14) |
-| **Season 3** — two chapters | **Ten** (*What Meridian Asked* added; *Aware of Weather* opened Episode 2, 4 October 2026; *Honest Clocks* added 5 October 2026, the record's first chapter outside the local archecluster; *For the Record*, *Standing Practice* and *Pending a Lead* added 18 October 2026; *Received* added 2 November 2026, the revisit home and the department ended; *Spent* opened Episode 3, 9 November 2026, the word asked for her first command, with Shepherd in none of its rooms; *On Assumption* added 16 November 2026, the day she assumes the post, and the count is eleven) |
+| **Season 3** — two chapters | **Eleven** (*What Meridian Asked* added; *Aware of Weather* opened Episode 2, 4 October 2026; *Honest Clocks* added 5 October 2026, the record's first chapter outside the local archecluster; *For the Record*, *Standing Practice* and *Pending a Lead* added 18 October 2026; *Received* added 2 November 2026, the revisit home and the department ended; *Spent* opened Episode 3, 9 November 2026, the word asked for her first command, with Shepherd in none of its rooms; *On Assumption* added 16 November 2026, the day she assumes the post, and the count is eleven) |
 
 **The lesson stands from last time: count threads, not seasons**, and re-derive before trusting any count here.
 
@@ -46,7 +46,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 
 **Church Space** carries a deployment (church-space.site and .online, their own comments board) on two chapters, and is advertised as a thread in its own right. **Orbital Five-O**, listed here until 20 October 2026 on nine chapters with Season 4 on two, now carries thirteen, Season 4 on six. Its second season (`five-o-second-season-treatment.md`) is written as Season 10, seven chapters with the Chthonari crew's strand among them, closed 3 October 2026; the Five-O case mechanism and the three-rung ladder (bureau, Five-O, Rangers) were ruled 8 September.
 
-### 2. Season 3 is ten chapters for a whole rank-era
+### 2. Season 3 is eleven chapters for a whole rank-era
 
 *Filed Under Noise*, *Independent Verification* and *What Meridian Asked* stand in for Principal → Section Lead → Chief Ranger; *Aware of Weather* (Section Lead, summer 2828) and *Honest Clocks* (Chief Ranger, spring 2829, the Counterpane revisit) have since paid the two later rungs once each, and *For the Record*, *Standing Practice* and *Pending a Lead* were added 18 October 2026 (this heading said three until 20 October).
 
