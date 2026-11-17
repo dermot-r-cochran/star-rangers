@@ -3357,3 +3357,74 @@ The body reads as one soft heap of folded limbs resting on its lower ones, wider
 > 2. Remove the bright glowing rim of light around the edge of the port: its deep rounded reveal is plain matte taupe composite, lit only faintly by the green of the crescent.
 >
 > The gallery is darker than before: its only light is the faint green from the port and a very low, even, sourceless dimness. No strips, no glowing edges, no lamps, no new objects, no people. No lettering, no numerals. A documentary photograph taken with a real lens in low light, with grain, not a render.
+
+
+## 2026-11-17 — Ulessa, Osune and Sohrel brought to their designs; S01E00C08 to match (Opus, desktop)
+
+Dermot's *"Yes, as recommended"* (17 November 2026) to the options put to him after `images.md` § 61 and § 64. The record of the rounds and the picks is in `images.md`: the `ulessa.jpg` entry (§ 20), the `osune.jpg` entry (§ 23), the `sohrel.jpg` entry (§ 13), and § 61's 17 November note for `s01e00c08`. **Tool** throughout: Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K, 16:9, two takes per job, each an edit of the filed frame with no reference; kept takes finished at strength 1 by `import-image.ps1`. Fourteen images in all, none refused.
+
+### characters/ulessa.jpg — re-filed 17 November 2026
+- **Kind:** two image edits, the second of the first's take 1
+- **Source:** the filed `ulessa.jpg` (20 October 2026).
+- **Run:** round 1, two takes (both fists; take 1 kept as the plate); round 2 of round 1's take 1, two takes; **round 2 take 1 filed** at 1200×670.
+- **Round 1 prompt (head, membrane, limb tips):**
+
+> Edit this photograph. Keep everything exactly as it is: the room, the walls, the floor, the pale table with its cream sheets and the empty chairs; the large ochre being's three tall arched legs, their padded feet, the hub where they meet, the thick wrinkled column, the deep rounded body slung beneath, the long curving neck and its position, her size, pose, colours and hide; the light, the framing, the focus and the grain. Change only three small things.
+>
+> 1. Her head. Keep its size, its place at the end of the neck and its smooth, rounded, blunt shape. Its front end is a plain smooth rounded end with no opening, no line across it and no marks on it. The underside of the head is smooth and unbroken from the neck to the tip, with no line or crease along it. She has one small dark deep-set eye on each side of the head, set well back and far apart, so that from this angle only the near eye shows, low on the side of the head, looking sideways, not forward; the far eye is hidden behind the curve of the head. On the top of the head, just behind its blunt front, lie two short thin closed slits side by side, running lengthwise along the head like two small seams in the hide.
+>
+> 2. The oval patch on the side of her hanging body. It is flush with the skin: a flat smooth oval of slightly paler, finer hide, level with the hide around it, not a hollow, hole, socket or recess.
+>
+> 3. The two short working limbs hanging beneath her body. Each ends in a small closed round bud: a soft rounded pad with clusters of short blunt digits folded closed over it like a bud, the same ochre hide as the limb, hanging still and touching nothing. No hooks, no curled tips, no claws, no nails.
+>
+> No other change. No new objects, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
+
+- **Round 2 prompt (limb tips only; filed):**
+
+> Edit this photograph. Keep everything exactly as it is: the room, the table, the sheets and the empty chairs; the large ochre being, her three arched legs and padded feet, the hub, the column, the slung body with its pale flat oval patch, the long neck, the head with its one small eye on the side and the two thin slits on top; her size, pose, colours and hide; the light, the framing, the focus and the grain. Change only one thing.
+>
+> The two short working limbs hanging beneath her body. Each hangs straight down, slender and soft, with no bend in it, and ends in a small closed bud like an unopened flower bud: a rounded, slightly pointed tip formed of several short blunt lobes of the same ochre hide pressed tightly together and meeting at the point, with fine seams between them. The buds are smooth, closed and still, and touch nothing. They are no wider than the limb.
+>
+> No other change. No knuckles, no clenched shape, no hooks, no claws, no nails, no new objects, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
+
+### characters/osune.jpg — re-filed 17 November 2026
+- **Kind:** an image edit of the filed frame, two rounds
+- **Source:** the filed `osune.jpg` (edited 13 November 2026).
+- **Run:** round 1, two takes, not kept (limbs drawn long, as extra legs); round 2, two takes, **take 2 filed** at 1200×670. Round 2's prompt is round 1's with the limbs' first sentence replaced by *Each is short, no longer than her head, held folded up close beneath the body, ending well above the floor and far above the feet, and ends …*.
+- **Round 1 prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the stone room, the window light at the left, the bench, the floor; the large ochre being's three tall arched legs, their padded feet, the hub where they meet, the column, the deep rounded body slung beneath, the long curving neck and its position, her size, pose and colours; the light, the framing, the focus and the grain. Change only three small things.
+>
+> 1. Her head. Keep its size, its place at the end of the neck and its smooth, rounded, blunt shape. Its front end is a plain smooth rounded end with no opening, no line across it and no marks on it. The underside of the head is smooth and unbroken from the neck to the tip, with no line or crease along it. She has one small dark deep-set eye on each side of the head, set well back and far apart, so that from this angle only the near eye shows, low on the side of the head, looking sideways, not forward. On the top of the head, just behind its blunt front, lie two short thin closed slits side by side, running lengthwise along the head like two small seams in the hide.
+>
+> 2. The banding. The darker umber bands stay only across the hub, the column and the top of the body. The legs and the neck are plain warm ochre and russet with no stripes.
+>
+> 3. The two short working limbs hanging beneath her body. Each hangs straight down, slender and soft, with no bend in it, and ends in a small closed bud like an unopened flower bud: a rounded, slightly pointed tip formed of several short blunt lobes of the same ochre hide pressed tightly together and meeting at the point, with fine seams between them. The buds are smooth, closed and still, and touch nothing. They are no wider than the limb.
+>
+> No other change. No knuckles, no clenched shape, no hooks, no claws, no nails, no new objects, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
+
+### chapters/s01e00c08.jpg — re-filed 17 November 2026
+- **Kind:** an image edit of the filed frame, two rounds
+- **Source:** the filed `s01e00c08.jpg` (16 November 2026, Ulessa re-made).
+- **Run:** round 1, two takes, not kept (limbs drawn long, as extra legs); round 2, two takes, **take 2 filed** at 1600×893. Round 2's prompt is round 1's with the same one-sentence change as Osune's.
+- **Round 1 prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the green vanes and the low sun through them, the grey-green hide at the bottom, the terrace, parapet, sky and light; and the large ochre being on the right, her arched legs, the thick column, her hanging rounded body, her long neck and her rounded head held beside the vane, her pose, size and colours, the framing, focus and grain. Change only two small things.
+>
+> 1. The two short working limbs hanging beneath her body. Each hangs straight down, slender and soft, with no bend in it, and ends in a small closed bud like an unopened flower bud: a rounded, slightly pointed tip formed of several short blunt lobes of the same ochre hide pressed tightly together and meeting at the point, with fine seams between them. The buds are smooth, closed and still, and touch nothing. They are no wider than the limb.
+>
+> 2. The oval patch on the side of her hanging body. It is flush with the skin: a flat smooth oval of slightly paler, finer hide, level with the hide around it, not a hollow, hole, socket or recess.
+>
+> No other change. No knuckles, no clenched shape, no hooks, no claws, no nails, no new objects, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
+
+### characters/sohrel.jpg — re-filed 17 November 2026
+- **Kind:** an image edit of the filed frame
+- **Source:** the filed `sohrel.jpg` (13 October 2026).
+- **Run:** one round, two takes, **take 2 filed** at 1200×670.
+- **Prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the dim taupe office, the walls, the doorway, the shelf and the two cases on it, the low platform, the bare desk; the soft, headless, slate-grey body resting on its folded lower limbs, its deep creases and folds, its small dark eyes set along the limbs, the two upper limbs lying across the desk top, and the one limb hanging beneath the desk with its warmer patch; the colours, the light, the framing, the focus and the grain. Change only one thing.
+>
+> The one upper limb that rises into the air above the desk, with a pale tip, is no longer raised. It is lowered and folded down against the body: it curves down from where it leaves the top of the body and lies relaxed along the body's upper side, creased where it bends, its blunt tip tucked in against the body's folds, the same slate-grey all the way to the tip. Nothing rises above the body any more. Where the raised limb was, the dim taupe wall and the shelf behind continue as they are elsewhere.
+>
+> No other change. No new limb, no pale or pink tip, no swelling at any tip, no head, no new eyes, no new objects, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
