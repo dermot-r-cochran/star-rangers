@@ -3722,6 +3722,12 @@ The prompts of record are in `story-bible/images.md` § 66, with the references 
 >
 > Do not add any people, animals, vehicles, signs, lettering, numbers, lamps, lights, plaques, solar panels, aerials, satellite dishes, fences with wire, timber cladding, downpipes in white, gutters or a chimney. The building is clean and kept, a photograph, not a render.
 
+### hero/s05e02-hill-holding.jpg — new plate from the Shepherd hillside, 17 November 2026 (Opus, desktop)
+- **Kind:** Dermot's own photograph with the filed `s06e01c01` house composited onto it; no generation. At his *"Yes, new plate"* (`images.md` § 68, *The banner on the holding's own land*). Supersedes both entries above; the Glendalough plate is no longer used.
+- **Source:** the plate is `F:\108SEP24\_DSC7317.JPG` (28 September 2024, 11:04, D3100, 4608×3072), taken from the same spot as `F:\108SEP24\_DSC7323.JPG`, the `s06e01c01` plate, two minutes earlier and wider. The house is the filed `src/images/chapters/s06e01c01.jpg`.
+- **Run, all by hand (OpenCV and PIL):** `s06e01c01` registered to 7317 by one homography (SIFT, 109 inliers of 208). Mask: `s06e01c01` against 7323 registered to it (SIFT, 4203 inliers of 4210), differences over 28 levels kept round the house and yard and closed, plus a window over 12 levels round each of the seven posts. The house, step, yard wall and posts warped into 7317, gain-matched per channel on a ring 7–30 px round the paste (B 0.85, G 1.02, R 1.02), Gaussian 1.6 px, grain σ 1.5 added, feathered 2 px, laid over the hut. The gable recess and drone darkened to matte (a soft ellipse, levels × 0.55 with highlights pulled down). Four utility poles on the upper pastures and one dust spot on the wood healed (`cv2.inpaint`, Telea), with grain over the poles. Cropped to x 768–4608, y 512–3072 and filed at 1920×1280, quality 88. No finish. Images generated: none.
+- **Page:** the banner's `img` on `src/seasons/s05/e02/index.md` carries `object-position: center 70%`, so the house shows in the page's wide strip.
+
 ## 2026-11-17 — Season 4 chapter illustrations, all six (Fable, desktop)
 
 The prompts of record are in `story-bible/images.md` § 65, with the references each was sent. **Tool** for all six: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1. Eighteen images in all: twelve first-pass takes of twelve asked and six edit takes. Nothing was refused.
