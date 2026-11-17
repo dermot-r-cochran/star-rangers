@@ -3497,6 +3497,38 @@ The options study recorded in `species-design.md` (*Mnemari, Head and neck: opti
 >
 > The change: the neck is no longer one smooth curve. It is a thick jointed arm of the same hide, in two straight lengths with one heavy rounded knuckle joint between them, like the joints in her legs. It leaves the front of the hanging body, rises up and out to the knuckle, then folds sharply back down to the head, so the neck makes a bent angle, not an arc. The neck is as thick as before, warm ochre and russet with no stripes, with skin creases at the joint. Not a swan, not a snake, not a dinosaur, not a crane, not a machine.
 
+## 2026-11-17 — S01E00C08, Ulessa's head brought to Isren (Opus, desktop)
+
+At Dermot's *"Yes, fix it"* and his pick of B (17 November 2026). The record is `images.md` § 61, the 17 November note *Head brought down to Isren*. **Tool:** Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, 2K, 16:9, four takes per round. Eight images; none refused.
+
+### chapters/s01e00c08.jpg — re-filed 17 November 2026 (head to Isren)
+- **Kind:** an image edit of the filed frame (neck A), with a head reference
+- **Source:** the filed `s01e00c08.jpg`, and a crop of `src/images/characters/ulessa.jpg` to her head (box 600,150 to 960,370).
+- **Run:** round 1, four takes; **take 3 filed** whole, finished at strength 1 at 1600×893. Round 2, an edit of round 1 take 3 with no reference, four takes: none kept (limbs still four, vanes unturned, framing broken).
+- **Round 1 prompt (used):**
+
+> Two images are attached. The first is the photograph to edit. The second is a close reference for one being's head only.
+>
+> Edit the first photograph and keep everything in it exactly as it is (the camera, the low evening sun at the left, the wide green vanes lit through from behind with their veins and rows of small dark nodes, the creased grey-green hide they rise from at the bottom of the frame, the pale terrace floor, the low parapet, the gold sky, and the tall ochre-and-russet being at the right: its three long arched legs, its high hub, the thick wrinkled column, its deep rounded slung body with the broad pale oval membrane flush on its side, and its colouring), changing only three things.
+>
+> First, her long neck comes further down and forward, so that her head hangs low, level with the middle of the vanes on the right of the frame, a hand's breadth in front of the nearest vane and touching none of them; it is not above any vane tip and nothing of it is hidden. Her head is seen from the side, turned toward the vanes, as the second image shows: long, smooth and blunt, with one small dark eye set deep and low on the near side of the head and two short narrow breathing slits just behind it. No mouth line, no lips, no teeth, no nostrils, and no second eye.
+>
+> Second, beneath her slung body hang three short working limbs, not two, close together and curled, each ending in a closed rounded bud.
+>
+> Third, the two nearest vanes on the right lean a little toward her head, their leading edges turned to face it, as if the being of the vanes is attending to her.
+>
+> Nothing else is added or changed. No person, no human figure, no hand, no text, letters or numerals anywhere. 16:9 landscape, documentary photograph, natural grain.
+
+- **Round 2 prompt (not kept):**
+
+> Edit the attached photograph and keep everything in it exactly as it is (the camera, the low sun at the left, the creased grey-green hide at the bottom, the pale terrace and parapet, the gold sky, and the tall ochre being at the right with her legs, hub, column, slung body, pale oval membrane, long lowered neck, and her head with its one small dark eye, held level with the vanes with a clear gap in front of them), changing only two things.
+>
+> First, beneath her slung body there are exactly three short working limbs, not four: three close together, curled, each ending in one closed rounded bud. Remove the fourth limb and its bud entirely.
+>
+> Second, the green vanes on the right half of the cluster, the ones nearest her head, have turned away from the sun and toward her: their broad flat faces now face her head across the gap, their tips leaning a little toward her, so the whole cluster of vanes is visibly attending to her, the way a listener turns toward someone speaking. The vanes on the left still face the sun and stay lit through from behind. Her head does not touch any vane.
+>
+> Nothing else is added or changed. No person, human figure or hand; no text, letters or numerals anywhere. 16:9 landscape, documentary photograph, natural grain.
+
 ## 2026-11-17 — Season 6 fixes and the last four stock banners (Opus, desktop)
 
 At Dermot's *"Yes, both"* of 17 November 2026. The record of each choice is in `story-bible/images.md` § 68. **Tool** throughout: Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, 2K. Where a take was laid back onto a filed frame or onto his plate, it was registered first (phase correlation or SIFT and a homography) and only the changed region was pasted, feathered, with grain added to match the frame's own.
