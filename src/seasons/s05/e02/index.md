@@ -13,7 +13,7 @@ permalink: /seasons/s05/e02/
   </ol>
 </nav>
 
-<img class="page-hero-image" src="/star-rangers/images/hero/s05e02-kerry-hills.jpg" alt="Green hillside fields divided by old dry-stone walls and scattered rocks, a farmhouse among trees below rising hills and distant mountains under a bright summer sky" />
+<img class="page-hero-image" src="/star-rangers/images/hero/s05e02-hill-holding.jpg" alt="A steep upland hillside of dark pines and rust-brown larches under a pale sky, a line of wind-shaped pines along the open ridge above, and below it a low grey stone house with a seamless dark roof standing at the edge of a green pasture, two pale conduits running under its eave and a dark capsule resting in a round recess in its gable, with slim pale posts along the field and rushes in the foreground" />
 <h1 class="page-title">Season 5 · Episode 2</h1>
 <p class="page-intro">
   Line Captain Tissadelle Shepherd carries a data exchange to Tír na nÓg under the Celtic Union's standing agreement with the Survey Corps, then stays on for personal leave. The uniform comes off at the council house door. What she notices on her mother's hillside afterward does not. The survey she files on her return sends a hull to the Threshold approaches ten days later, and the episode ends where every chapter of the two seasons after it begins: at Dock Seven, looking back.
