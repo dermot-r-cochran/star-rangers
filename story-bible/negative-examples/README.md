@@ -154,6 +154,21 @@ frame was brought to it by an edit of its head and neck (`images.md`, the three 
 | `kattik-2026-11-17.jpg` | Kattik | The understructure as a present-day plant room: riveted lattice steel, a pipe-fed machine under the second being, cables, raised bolt heads and a dusty, grimy deck, where the chapters' frames (`s10e01c02.jpg`, `s10e01c04.jpg`) keep it as clean blue-grey plate. Lesson: *girders and conduit* in a prompt draws our century's industrial underside; name the habitat's own structure (plates, plain columns, flush fastenings) or the generator supplies its stock one. | Room edited to blue-grey plate; both bodies and the slab laid back from this frame (`images.md` § 72, *Fix pass*). |
 | `tsikk-2026-11-17.jpg` | Tsikk | Lattice trusses, cable runs, a railed walkway of yellow lamps and a littered deck: the same industrial hall, with the prompt's *lights coming up along a distant walkway* drawn as lamps. Lesson: a mood carried by light must be the room's own light, not a row of fittings. | Room edited to blue-grey plate under the ring's curve; the body laid back from this frame (§ 72, *Fix pass*). |
 
+## The Told, the ruled body, 17 November 2026
+
+Dermot, verbatim: *"B on A's coat (Recommended)"*, the ground-listener's whiskered face on a
+coarse real coat and real proportions, for every Pandoid (`species-design.md`, *The body of
+the Told — ruled 17 November 2026*); and *"Every people (Recommended)"*, so the two young of
+the Told are pictured grown. All four portraits were re-made by an edit of the body, each
+keeping its room and pose (`images.md`, the four entries' 17 November notes).
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `teddy-2026-11-17.jpg` | Teddy | A plush toy with a sloth's face: large round ringed eyes, an even ridged coat, a head as large as the trunk, and a young one as the subject. Lesson: the toy is in the coat and the proportions, and a young one of any people is pictured grown. | Re-made grown on the ruled body, the same passage and cylinder. |
+| `stone-first-2026-11-17.jpg` | Stone-First | A render of a soft toy bear from behind, in a fantasy grotto of glowing mushrooms. Lesson: an edit of a render keeps the render's room; only the body was brought to the design. | Re-made on the ruled body, mid grey with a silvery crown. |
+| `went-round-2026-11-17.jpg` | Went-Round | A young sloth's face on a plush body, the best photograph of the four. Lesson: a flat bare face returns a sloth or an ape however real the fur. | Re-made on the ruled body, dark slate grey. |
+| `keeps-a-hand-on-it-2026-11-17.jpg` | Keeps-A-Hand-On-It | A small plush cub with a sloth's face, a young one as the subject. Lesson: *smaller and rounder* draws a toy; a young one of any people is pictured grown. | Re-made grown on the ruled body, a plain mid grey. |
+
 ## Lessons for the next prompt
 
 - **"Smooth, made with care" draws the stock robot.** A machine described only as well made comes back as the generator's default white humanoid. Give it its history in shapes instead: what it was built for, what was refitted and in what different material, and where the wear sits (Rook-7, 16 November 2026). A sand-coloured, narrow-waisted body with ball joints reads as a wooden lay figure; a straight-sided trunk with shrouded joints reads as a machine.
