@@ -3770,3 +3770,27 @@ The prompts of record are in `story-bible/images.md` § 65, with the references 
 - **Edit prompt:**
 
 > Edit this photograph. Keep everything exactly as it is, both women, their faces, hair and clothes, the room, the hanging, the shelf, the chair, the ferns, the light, the grain and the framing, and change only these things. 1. The pale grey leaf lying on the desk is completely blank: remove the line of small writing from it, so it is one plain matte pale grey sheet with nothing on it. 2. The window is one single unbroken pane: remove the thin vertical bar that divides it. Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
+
+## 2026-11-17 — Season 7 chapter illustrations, all four (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 69, with the references each was sent. **Tool** for the three generated frames: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1. Ten images in all: six first-pass takes of six asked and four edit takes of four asked. Nothing was refused.
+
+### chapters/s07e01c01.jpg — filed 17 November 2026
+- **Kind:** generation with references (`characters/syra.jpg`, `chapters/s05e02c02.jpg`). Variation 1 of 2, as generated. No edit.
+
+### chapters/s07e01c02.jpg — filed 17 November 2026
+- **Kind:** generation with a reference (`characters/orla-shepherd.jpg`), variation 1 of 2, then one edit round (take 2 of 2 used), pasted back in three places.
+- **Edit prompt:**
+  > Edit this photograph. It must stay exactly this photograph: keep the woman, her coat, her scarf and her hair, the window and the view through it, the stone on the sill, the two beakers, the kettle and its steam, the counter, the table, the walls, the light, the grain and the framing exactly as they are. Change only these three things. 1. Under the counter, near the woman, there is a short dark pipe and a plumbing trap: remove them completely, so that under the counter there is only the plain rough pale wall in shadow. 2. On the door at the right edge of the frame there is a black iron latch and handle: remove it completely, so the door's edge is one plain smooth pale slab with nothing on it. 3. On the wall at the left there is a dark boxy unit: make it a much smaller, plain, smooth rounded lozenge of dark matte ceramic, about the size of a hand, set flush against the wall, with one tiny steady pale dot of light and nothing else on it, no slot, no screen, no lettering. Change nothing else. A photograph, not a render or a painting. No cables, no sockets, no switches, no text, lettering or numerals anywhere.
+- **Run, by hand (OpenCV):** the take registered to variation 1 by one homography (SIFT, 537 inliers of 663); differences over 22 levels kept inside three boxes at 2752×1536 (the housing 110,540–350,870; the pipe 1600,1040–2000,1360; the latch 2490,1000–2660,1330), dilated 25 px and feathered 6 px, and only those laid back. A strip 34 px wide where the old housing's edge had left a line (314,565–348,770) was inpainted (Telea, radius 7) and grained.
+
+### chapters/s07e01c03.jpg — filed 17 November 2026
+- **Kind:** Dermot's own photograph, healed; no generated pixel is in it.
+- **Source:** `F:\108SEP24\_DSC7283.JPG` (28 September 2024, 10:59:33, 4608×3072). Crop 4608×2592 from row 184, reduced to 2752×1548 for the work and filed at 1600×900, no finish.
+- **An edit tried and not used (two takes):**
+  > Edit this photograph. It is a real photograph of wooded country below open upland pasture under a bright cloudy sky, and it must stay exactly that photograph: keep every tree, every field, the hedges and field walls, the hills, the clouds, the light, the haze, the softness, the grain and the framing exactly as they are. Change only this: among the trees in the middle distance there are several small present-day houses, roofs, sheds, a white vehicle, and a few thin utility poles standing in the fields at the left. Remove every one of them completely and put in their place the same trees, hedges and grass that surround them, so that no building, roof, wall of a house, vehicle, pole or wire is anywhere in the picture. Also remove the one small dark dust speck at the right. Add nothing. Change nothing else. A photograph, not a render or a painting. No people, no animals added, no text, lettering or numerals anywhere.
+  Take 1 kept the plate and drew new pale glossy structures where three of the houses had been; take 2 re-rendered the whole frame (a paste-back mask covered all of it). The lesson: a removal of many small far-off things is not one object swapped, and the edit invents.
+- **Run, by hand (OpenCV):** twenty boxes at 2752×1548 (thirteen over roofs, houses, sheds and a vehicle, six over utility poles, one over a dust spot). For each, a source patch of the same size was searched within 260 px across and 90 px up or down, clear of every other box, for the closest match on an 8 px border ring in Lab, and laid over the box with `cv2.seamlessClone`. Checked in three strips at 1.9 times size.
+
+### chapters/s07e01c04.jpg — filed 17 November 2026
+- **Kind:** generation with a reference (`characters/sen.jpg`). Variation 1 of 2, as generated. No edit.
