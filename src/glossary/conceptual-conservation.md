@@ -12,6 +12,8 @@ related:
   - "Concordant"
   - "Noögenic Protouniverse"
 tags: [conceptual, five-layers, conservation, mind, cascade, cosmology]
+image: "glossary/conceptual-conservation.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Conceptual Conservation in pale serif capitals, with the line “No coherent mind is lost”"
 ---
 
 **Conceptual Conservation** is the principle that no coherent mind is lost. An identity structure that once achieved coherence remains an admissible concept state at the [Conceptual layer](/star-rangers/lore/five-layers/), and no mechanism in the record deletes, degrades or overwrites one.

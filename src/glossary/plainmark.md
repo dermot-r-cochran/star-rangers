@@ -11,6 +11,8 @@ related:
   - "The Orbital Habitats Compact"
   - "The Generation-Ark Era"
 tags: [plainmark, records, orbital-habitats-compact, wayfinding]
+image: "lore/plainmark.jpg"
+image_alt: "A plainmark panel on the fixed frame beside a closed rounded hatch in a clean pale corridor: three stacked bands, two bone-white chevrons pointing left on slate blue among them"
 ---
 
 A **plainmark** is a stencilled panel of the [Orbital Habitats Compact's](/star-rangers/lore/orbital-habitats-compact/) **Compact Common Marking**, the standard for marking infrastructure without script. One to four horizontal colour bands, read top to bottom, each pairing a fixed ground with a fixed figure class: black with ochre **lozenges** for hazard, slate-blue with bone-white **chevrons** for the way and its junction count, bone-white with black **strokes and blocks** for number, ochre with black **rings** for sealed breathable refuge. A **diagonal bar** across any band voids it. No letters, no numerals, no characters of any script: nothing to spell, and nothing to mistranslate.

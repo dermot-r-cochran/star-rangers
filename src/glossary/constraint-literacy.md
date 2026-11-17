@@ -12,6 +12,8 @@ related:
   - "Levril"
   - "Boundary Zone"
 tags: [constraint-literacy, etheric, practice, levrils]
+image: "glossary/constraint-literacy.jpg"
+image_alt: "Designed emblem card on a warm brown-black ground: the category Practices in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Constraint Literacy in pale serif capitals, with the line “Not magic.”"
 ---
 
 **Constraint literacy** is the developed ability to read the [Etheric](/star-rangers/glossary/etheric/) structures that express through the physical world — to understand the rules of one's current layer and to work with those rules rather than against them.

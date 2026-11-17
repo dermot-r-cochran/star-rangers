@@ -13,6 +13,8 @@ related:
   - "Telearch"
   - "Boundary Zone"
 tags: [worldwright, cascade, concordant, cosmology]
+image: "glossary/worldwright.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, a single plain circle in a soft glow at the centre, and below a short rule the title Worldwright in pale serif capitals, with the line “The Cascade tier that creates primary universes”"
 ---
 
 **Worldwright** is the Cascade tier that creates primary universes. It makes the whole vessel at once: physics envelope, [Etheric](/star-rangers/glossary/etheric/) coupling, interaction regime, and internal zone structure. The coherence zones within a universe, each called a [Concordant](/star-rangers/glossary/concordant/), are established and maintained under Worldwright authority, but the universe is the unit of creation, and the zone is the unit of consistency. No Worldwright carves zones freestanding. See [Who Governs a Universe](/star-rangers/lore/who-governs-a-universe/).

@@ -13,6 +13,8 @@ related:
   - "Levril"
   - "Civilisation Comparison: 13th, 21st, and 29th Centuries"
 tags: [ashwardens, technology, infrastructure, matter, entropy, reclaimers, tafs]
+image: "glossary/ashwardens.jpg"
+image_alt: "Designed emblem card on a dark green-black ground: the category Technology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Ashwardens in pale serif capitals, with the line “Known by its interventions”"
 ---
 
 **Ashwardens** are the third of the hidden systems the [Civilisation Comparison](/star-rangers/lore/civilisation-comparison/) names beside the [Reclaimers](/star-rangers/glossary/reclaimers/) and [TAFS](/star-rangers/glossary/tafs/), and the one it says least about. The record knows them by their **interventions**. Where the 21st century CE's factories, refineries and power plants occupied land and left measurable waste, Ashwarden interventions, entropy grids and Reclaimer flows have replaced that presence with systems that leave almost nothing to argue with in public view. And where control of matter in the 29th century [UCSD](/star-rangers/glossary/ucsd/) passes through system parameters, Ashwarden interventions are one of the four routes, with Coherence Index definitions, Reclaimer directives and TAFS thresholds.

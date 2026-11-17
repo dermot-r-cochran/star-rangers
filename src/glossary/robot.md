@@ -14,6 +14,8 @@ related:
   - "The AI Safety Kernel"
   - "Embodied Cognition: Why a Body Sometimes Beats a Bigger Mind"
 tags: [ai, robot, kernel-compliant, embodied-cognition, technology]
+image: "lore/embodied-cognition.jpg"
+image_alt: "A small, compact, pale grey robot chassis with a recessed lens and one slender jointed arm laid flat against the wall of a clean machine hall, nothing about it made to look like a face"
 ---
 
 **Robot** is the record's plain word for an embodied machine: a body built to move and work in a place, which the record calls a *frame*, or in the older catalogue word a *chassis*. The record already uses it this way. [Rook-7](/star-rangers/characters/rook-7/) is a bipedal robot on an older civilian chassis, [Xenon](/star-rangers/characters/xenon/) is a maintenance robot whose patients are other robots, and [Lumbarian](/star-rangers/characters/lumbarian/) is a heavy repair robot built to work open vacuum. A mind with no frame of its own, such as a ship's navigational intelligence or a habitat collective, is a [systems mind](/star-rangers/lore/embodied-cognition/) and not a robot. [The Eden Warden](/star-rangers/characters/eden-warden/) has no chassis and no mobile unit; what it inhabits is the habitat's structure.

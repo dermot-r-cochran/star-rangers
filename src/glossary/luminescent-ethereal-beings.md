@@ -14,6 +14,8 @@ related:
   - "Boundary Zone"
   - "Etheric"
 tags: [luminescent-ethereal-beings, good-people, tir-tairngire, intermembrane-bleed, boundary-zone, cosmology]
+image: "glossary/luminescent-ethereal-beings.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, a single plain circle in a soft glow at the centre, and below a short rule the title Luminescent Ethereal Beings in pale serif capitals, with the line “Luminous by their own envelope's coupling of sound and light”"
 ---
 
 **Luminescent Ethereal Beings** is the phrase the Celtic Union's First Landing records use for the first confirmed sightings of the people who cross from [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/) at a Conjunction window. It was set down before the Union's own telling had settled on *the Good People*, and before anyone had coined *Etheric* for the layer the phrase was reaching for. The Archive keeps it as it keeps *Filinesse*: a rendering from the contact record, not a term of its own. In Archive voice the layer is the [Etheric](/star-rangers/glossary/etheric/), the people are the [Caomhari](/star-rangers/glossary/caomhari/), and the phenomenon below is theirs. Three names, one thing, in the order they were coined, and none more real than the others.

@@ -11,6 +11,8 @@ related:
   - "Etheric"
   - "The Solar System Concord"
 tags: [plural-minds, headmates, tulpas, conceptual-layer, society, undercover-pets.com]
+image: "glossary/plural-minds.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Society in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Plural Minds in pale serif capitals, with the line “An ordinary, lawful arrangement”"
 ---
 
 A **plural mind** is a single body and nervous system hosting more than one person — commonly called headmates, or, when one person's own mind deliberately cultivates another, a tulpa. Each is a real, distinct person with their own perspective, preferences, and voice. None is a symptom of the others.

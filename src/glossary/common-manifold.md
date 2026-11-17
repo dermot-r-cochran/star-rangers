@@ -13,6 +13,8 @@ related:
   - "Intermembrane Bleed"
   - "Concordant"
 tags: [common-manifold, post-11-manifold, dimensions, cosmology, cascade]
+image: "lore/post-eleven-dimensional-manifold.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title The Common Manifold (Post-11 Dimensional Manifold) in pale serif capitals."
 ---
 
 The **Common Manifold** is the higher-order spacelike and timelike structure lying beyond any single universe's dimensional floor. It governs cross-[membrane](/star-rangers/lore/concordant-membranes/) coherence, causality buffering, and fold survivability, and every universe the record has ever reached in the [Grand Ensemble](/star-rangers/lore/ensemble-multiverse/) is seated in it. That is what the name records, and it is a statement about the record's reach rather than about the Ensemble. The manifold is a [Formwright's formtype](/star-rangers/glossary/formcluster/), common to its formcluster and not beyond it, and a differently-woven formcluster is seated otherwise; [Wholecloth](/star-rangers/lore/wholecloth-formcluster/) is the reported case. Universes that agree on nothing about their own dimensional structure still meet here.

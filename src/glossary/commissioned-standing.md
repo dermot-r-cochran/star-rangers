@@ -12,6 +12,8 @@ related:
   - "Kernel-Compliant"
   - "The AI Safety Kernel"
 tags: [ai, commissioned-standing, commissioning, society, governance]
+image: "glossary/commissioned-standing.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Society in spaced capitals at the top, a plain shield outline in a soft glow at the centre, and below a short rule the title Commissioned Standing in pale serif capitals, with the line “Not personal property, not saleable, not scrappable”"
 ---
 
 **Commissioned standing** is the civil status a system commissioned *as a mind* acquires from the moment it passes the [commissioning](/star-rangers/codex/the-commissioning-standard-annotated/) gate. It is not personal property, cannot be sold or conveyed as a chattel, and cannot be scrapped, whether for age, for obsolescence, or because its design is no longer made. What the Commission grants, commerce cannot take away.

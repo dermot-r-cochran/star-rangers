@@ -256,6 +256,9 @@ if (-not $fm.ContainsKey('image')) { Write-Error "$Page has no image: field"; ex
 
 $dir = if ($Page -like '*\lore\*') { 'lore' } elseif ($Page -like '*\characters\*') { 'characters' } else { 'hero' }
 $out = Join-Path (Join-Path $ImagesDir $dir) ($fm['image'] -replace '/','\')
+# A glossary entry's image carries its own folder (lib/content-schema.js, 2026-11-17),
+# so its card is drawn at the path the value names, normally glossary\<slug>.jpg.
+if ($Page -like '*\glossary\*') { $out = Join-Path $ImagesDir ($fm['image'] -replace '/','\') }
 $title = if ($fm.ContainsKey('title')) { $fm['title'] } else { [IO.Path]::GetFileNameWithoutExtension($Page) }
 $cat = if ($fm.ContainsKey('category')) { $fm['category'] } else { '' }
 

@@ -16,6 +16,8 @@ related:
   - "Noögenic Protouniverse"
   - "Seed Mind Lifecycle"
 tags: [universal-authority, governance, cosmology, cascade, concordant]
+image: "lore/who-governs-a-universe.jpg"
+image_alt: "An abstract diagram of nested translucent spheres and rings drawn in gold against a dark starfield"
 ---
 
 A **Universal Authority** is the native governance **body** of a universe as a whole: its Concordant Principals in council, plus a presiding seat. It maintains universe-level balance: [CEI](/star-rangers/glossary/creative-entropy-index-cei/) regulation, entropy behavior, continuity constraints, systemic health.

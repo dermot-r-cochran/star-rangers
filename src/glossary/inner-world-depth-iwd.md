@@ -13,6 +13,8 @@ related:
   - "Universe Fertility Index (UFI)"
   - "Seed Mind Lifecycle"
 tags: [iwd, noogenic, seed-minds]
+image: "glossary/inner-world-depth-iwd.jpg"
+image_alt: "Designed emblem card on a dark blue-violet ground: the category Noögenics in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Inner World Depth (IWD) in pale serif capitals, with the line “Layered interior mind complexity”"
 ---
 
 **Inner World Depth (IWD)** measures the depth and structure of a mind's internal architecture, including recursive self-modelling, layered intention, and paradox-bearing coherence.

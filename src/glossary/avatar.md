@@ -13,6 +13,8 @@ related:
   - "Celestials"
   - "Champions / Heroes (Heros)"
 tags: [avatar, incarnation, cascade, timeless, immanent, kieme, arilon, cosmology]
+image: "glossary/avatar.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, the thin outline of an oval head over an arch in a soft glow at the centre, and below a short rule the title Avatar in pale serif capitals, with the line “An incarnation of a timeless stratum”"
 ---
 
 An **Avatar** is the one crossing between the Cascade's temporal registers: an incarnation of a stratum above the [Celestials](/star-rangers/glossary/celestials/) as a person operating at Celestial level or below: immanent, Material-time-bound, encounterable. The stratum may be one of the middle strata, in conceptual time, or one of the eternal strata above the [Worldwrights](/star-rangers/glossary/worldwright/).

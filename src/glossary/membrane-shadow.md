@@ -14,6 +14,8 @@ related:
   - "Boundary Zone"
   - "Etheric"
 tags: [membrane-shadow, gravitational-bleed, boundary-zone, cosmology]
+image: "lore/membrane-shadows.jpg"
+image_alt: "A plain, pale observation room seen from its doorway, a long low window onto a flat misty marsh at dawn, and a few paces in front of the window a tall person-shaped silhouette, dark and without detail, beside an empty bench"
 ---
 
 A **Membrane Shadow** is the Physical-layer counterpart to [Intermembrane Bleed](/star-rangers/glossary/intermembrane-bleed/), which is the [Etheric](/star-rangers/glossary/etheric/) one. It occurs at Type III inter-membrane proximity. A coherent mass in the neighbouring *universe*, usually a living being, sits on the far side of a narrowed [Interval](/star-rangers/glossary/interval/) and patterns the geometric strain between the two membranes with its own outline. That strain takes its shape from the neighbour and its strength from the boundary. It bends and dims ambient light, producing a full silhouette with no physical object on this side to cast it.

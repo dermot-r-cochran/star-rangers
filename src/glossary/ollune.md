@@ -12,6 +12,8 @@ related:
   - "Krenyi"
   - "Mnemari"
 tags: [ollune, species]
+image: "lore/ollune.jpg"
+image_alt: "Several translucent rounded gas bladders, veined and lit from behind, drifting at different distances in hazy amber light above layered cloud decks"
 ---
 
 **Ollune** is the species' own word for itself, rendering roughly as *the held*. They are native to **Freyari** — the temperate shell of habitable air wrapping [Cirrane](/star-rangers/lore/planets/cirrane/), a gas giant with no surface. The distinction matters to them: *Cirrane* is a Federation survey name for the whole body, while *Freyari* names only the inhabited band, and is also the Ollune word for *everywhere*. They float by holding a gas envelope above ambient temperature through continuous metabolic effort — so lift is not something an Ollune has but something an Ollune pays for, hourly, for life. Sleep is therefore communal: an unconscious Ollune sinks, and is carried by the waking members of a tethered **hold**.

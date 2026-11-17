@@ -17,6 +17,8 @@ related:
   - "Universal Authority"
   - "Concordant Principal"
 tags: [concordant, concordance, cosmology, boundary]
+image: "glossary/concordant.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, a single plain circle in a soft glow at the centre, and below a short rule the title Concordant in pale serif capitals, with the line “Internally consistent physical and Etheric rules”"
 ---
 
 A **Concordant** (pronounced: **KON-kor-dant**; in full, **Concordant Zone**) is a bounded region of reality *within a universe*, with internally consistent physical and [Etheric](/star-rangers/glossary/etheric/) conditions: a zone where the rules hold.

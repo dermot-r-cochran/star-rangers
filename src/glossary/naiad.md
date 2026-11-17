@@ -12,6 +12,8 @@ related:
   - "Boundary Zone"
   - "Etheric"
 tags: [naiad, flow-anchored, entities, species]
+image: "glossary/naiad.jpg"
+image_alt: "Designed emblem card on a dark violet-black ground: the category Entities in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Naiad in pale serif capitals, with the line “Flow-anchored entities”"
 ---
 
 **Naiad** refers to flow-anchored entities: beings whose existence is tied to the persistence of a specific physical or [Etheric](/star-rangers/glossary/etheric/) flow condition, such as a watercourse, a current, or a boundary gradient.

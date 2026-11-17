@@ -12,6 +12,8 @@ related:
   - "Higher-Dimensional Folding"
   - "Etheric"
 tags: [overfold, higher-dimensional-folding, misconception, popular-science]
+image: "glossary/metafold.jpg"
+image_alt: "Designed emblem card on a dark blue-black ground: the category Misconception in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title Metafold in pale serif capitals, with the line “A popular misnomer”"
 ---
 
 **Metafold** is not a term any of the traditions who actually study these phenomena use. It is a popularization: the word a journalist or curious layperson reaches for on hearing that the [Overfold](/star-rangers/glossary/overfold/) is somehow the same shape as [Higher-Dimensional Folding](/star-rangers/glossary/higher-dimensional-folding/), the FTL mechanism. The shared root ("fold") does the damage. It invites the assumption that a thin place is a fold that happened to stay open, or that a starship transit and a boundary-zone wrongness in the air are the same physics wearing two names.

@@ -13,6 +13,8 @@ related:
   - "Universe Fertility Index (UFI)"
   - "Noögenic Seeding Law"
 tags: [nsp, noogenic, nooseed]
+image: "glossary/noogenic-seed-potential-nsp.jpg"
+image_alt: "Designed emblem card on a dark blue-violet ground: the category Noögenics in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Noögenic Seed Potential (NSP) in pale serif capitals, with the line “The probability that a mind can compress into a stable noöseed”"
 ---
 
 **Noögenic Seed Potential (NSP)** estimates whether a mind can survive compression into seed form without losing the essential novelty-bearing organisation that makes it viable as a universe initiator.

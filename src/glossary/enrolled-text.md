@@ -11,6 +11,8 @@ related:
   - "Difference Form"
   - "Conceptual Conservation"
 tags: [records, governance, law, concord, amendments, enrolled-text]
+image: "glossary/enrolled-text.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Records in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Enrolled Text in pale serif capitals, with the line “Enrolled once and never edited in place”"
 ---
 
 An **enrolled text** is a constitutional instrument kept under the register conventions the [Solar System Concord's](/star-rangers/lore/solar-system-concord/) compact made standard: a **founding enrolment**, entered once and never edited in place, together with the complete, ordered record of every amendment enrolled against it. Each amendment is in [difference form](/star-rangers/glossary/difference-form/), and each sits beside its predecessors, never over them.

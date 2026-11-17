@@ -13,6 +13,8 @@ related:
   - "Fliade"
   - "Krenyi"
 tags: [pandoids, fliade, below-the-roof, species]
+image: "chapters/s11e01c03.jpg"
+image_alt: "Five of the Told, large heavy grey-coated Pandoids with small earless heads and fans of pale whiskers, in a wide cavern lit amber and blue-green by fungus, some standing upright and some sitting on the silt"
 ---
 
 **The Told** is the name the [Pandoids](/star-rangers/lore/planets/fliade/) of Fliade carry for themselves, rendered in the record's translation register. *Pandoid* is the survey's coinage and is kept in every filing. This is what the people say, as far as the record holds it. The record holds it by way of the *Below the Roof* thread rather than by anything the survey has been told.

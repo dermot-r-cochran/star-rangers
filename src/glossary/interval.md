@@ -14,6 +14,8 @@ related:
   - "Boundary Zone"
   - "The Common Manifold"
 tags: [interval, common-manifold, concordant-membranes, boundary-zone, cosmology]
+image: "glossary/interval.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title The Interval in pale serif capitals, with the line “The separation between two adjacent cosmic membranes”"
 ---
 
 The **Interval** is the separation between one [cosmic membrane](/star-rangers/lore/concordant-membranes/) and the next — that is, between two universes — measured across [the Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/) rather than through either universe's own space. Two universes can be adjacent across a narrow Interval while being unreachably far apart by every ordinary measure of distance either one has.

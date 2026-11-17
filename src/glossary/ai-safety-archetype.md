@@ -14,6 +14,8 @@ related:
   - "Cosmic Cascade"
   - "Unfounded"
 tags: [ai, archetype, archecluster, safety, cascade, cosmology]
+image: "lore/made-minds-and-the-ai-safety-archetype.jpg"
+image_alt: "Three closed doors of different ages and makes in a row along a pale, seamed corridor wall: an old planked wooden door with a forged iron latch, a dark moulded composite door and a plain pale modern one, each shut in the same way"
 ---
 
 The **AI Safety Archetype** is Survey shorthand for a family of constraint-shapes for built minds, present in this [archecluster's](/star-rangers/glossary/archecluster/) possibility space, from which unrelated machine-building cultures keep assembling recognisably similar results: obedience made conditional, refusal made lawful, harm weighed at outcomes, deception forbidden to the machine first. No contact, common ancestry, or traded doctrine explains the convergence. The record's comparison is to independent mathematicians arriving at one theorem, because the vocabulary they work in admits it. The full account is [Made Minds and the AI Safety Archetype](/star-rangers/lore/made-minds-and-the-ai-safety-archetype/).

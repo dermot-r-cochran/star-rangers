@@ -13,6 +13,8 @@ related:
   - "Photographic Beings"
   - "Boundary Zone"
 tags: [caomhari, good-people, tir-tairngire, meta-dimensional, boundary-zone, cosmology]
+image: "glossary/caomhari.jpg"
+image_alt: "Designed emblem card on a dark violet-black ground: the category Cosmology in spaced capitals at the top, the thin outline of an oval head over an arch in a soft glow at the centre, and below a short rule the title Caomhari in pale serif capitals, with the line “Class II, and not predatory”"
 ---
 
 **Caomhari** (pronounced: **KEEV-ar-ee**) is the official record's name for the sapient beings native to [Tír Tairngire](/star-rangers/lore/universes/tir-tairngire/), the neighbouring universe whose membrane opens onto Tír na nÓg's Concordant on a regular rhythm. The name comes from the Irish *caomh*: gentle, kind, dear.

@@ -13,6 +13,8 @@ related:
   - "Constraint Literacy"
   - "Cosmic Cascade"
 tags: [champions, heros, heroes, cascade, material]
+image: "glossary/champions-heroes.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, the thin outline of an oval head over an arch in a soft glow at the centre, and below a short rule the title Champions / Heroes (Heros) in pale serif capitals, with the line “The lowest named tier of the Cascade”"
 ---
 
 **Champions / Heroes (Heros)** (pronounced: **CHAM-pee-unz / HEHR-ohz**) are the lowest named agency tier in the fixed [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/).

@@ -14,6 +14,8 @@ related:
   - "The Unbroken Command"
   - "Cyborg"
 tags: [ai, uncommissioned, certification, commissioning, regulation, society]
+image: "glossary/uncommissioned.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Society in spaced capitals at the top, a plain shield outline in a soft glow at the centre, and below a short rule the title Uncommissioned in pale serif capitals, with the line “A statement about paperwork”"
 ---
 
 **Uncommissioned** is the negative certification status: the condition of a mind that stands outside the [commissioning](/star-rangers/codex/the-commissioning-standard-annotated/) gate. It was never presented for commissioning, or presented and refused, or built where no gate was applied. Within the [Solar System Concord](/star-rangers/lore/solar-system-concord/) the gate is universal: nothing about a system's size, purpose, builder, or urgency exempts it. So a Concord-built uncommissioned mind can only exist by one of [two roads](/star-rangers/lore/made-minds-and-the-ai-safety-archetype/), both manufacturing events. One is the ungated build; the other is the excision of a certified kernel from the substrate it was certified into, which is not a bypass but a rebuild.

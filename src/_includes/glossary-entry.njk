@@ -23,8 +23,10 @@ commentsCategory: lore
       <span class="character-badge">{{ category }}</span>
     </p>
     {% endif %}
+    {#- A glossary entry's `image` is the path below images/, folder included,
+        because it usually borrows another page's picture (lib/content-schema.js). -#}
     {% if image %}
-    <img class="entry-image" src="/star-rangers/images/glossary/{{ image }}" alt="{{ image_alt | default(title) }}" />
+    <img class="entry-image" src="/star-rangers/images/{{ image }}" alt="{{ image_alt | default(title) }}" />
     {% endif %}
   </header>
 

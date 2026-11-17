@@ -16,6 +16,8 @@ related:
   - "Compact Dimensions"
   - "The Mathematics of the Etheric Layer"
 tags: [etheric, five-layers, cosmology, templates]
+image: "glossary/etheric.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Etheric in pale serif capitals, with the line “Layer 3 of the Five Layers of Reality”"
 ---
 
 The **Etheric** is Layer 3 of the Five Layers of Reality — the rule-template layer that governs what physical and material expressions can remain coherent.

@@ -11,6 +11,8 @@ related:
   - "The Convened"
   - "Aphel"
 tags: [the-convened, aphel, species, pronoun]
+image: "glossary/sel.jpg"
+image_alt: "Designed emblem card on a dark violet-black ground: the category Species in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Sel in pale serif capitals, with the line “sel, selm, sels”"
 ---
 
 **Sel** (pronounced: **SEL**) is the record's pronoun for a **working** of [the Convened](/star-rangers/lore/the-convened/): the person that exists among them only while many bodies act as one on a task the season holds. The paradigm is registered here once, as every coined pronoun is, and applied wherever the record speaks of a working.

@@ -14,6 +14,8 @@ related:
   - "Concordant"
   - "Membrane Shadow"
 tags: [intermembrane-bleed, membrane-resonance, etheric, post-11-manifold, boundary-zone]
+image: "lore/concordant-membranes.jpg"
+image_alt: "A deep-space scene in blue and violet: one small brilliant white point of light near the centre, ringed by a faint halo, with luminous filaments streaming past it"
 ---
 
 **Intermembrane Bleed** is the Survey Corps' technical term for what boundary-zone workers used to just call "Etheric effects": the measurable intrusion of one universe's archetypal templates into an adjacent one, carried through the trans-concordant constraint field described in [The Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/).

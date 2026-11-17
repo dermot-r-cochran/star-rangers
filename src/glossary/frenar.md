@@ -13,6 +13,8 @@ related:
   - "Telearch"
   - "Concordant"
 tags: [frenar, celestials, cascade]
+image: "glossary/celestials.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, three stacked chevrons in a soft glow at the centre, and below a short rule the title Celestials in pale serif capitals, with the line “Operational enforcement tier”"
 ---
 
 **Frenar** (pronounced: **FREH-nar**) is a legacy designation for the [Celestial](/star-rangers/glossary/celestials/) tier of the [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/).

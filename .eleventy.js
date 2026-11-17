@@ -49,7 +49,9 @@ const OG_IMAGE_DIRS = {
   character: "characters",
   lore: "lore",
   codex: "codex",
-  glossary: "glossary",
+  // "" = the value carries its own folder ("lore/x.jpg"): a glossary entry
+  // usually borrows another page's picture (lib/content-schema.js).
+  glossary: "",
   chapter: "chapters",
   journal: "journal"
 };
@@ -98,6 +100,7 @@ function computeOgImage(data, included) {
   // records from wherever that picture is filed, so its `image` carries its
   // own directory below src/images/ (src/_includes/timeline-image.njk).
   if (kind === "timeline" && data.image) return `/images/${String(data.image).replace(/^\/+/, "")}`;
+  if (dir === "" && data.image) return `/images/${String(data.image).replace(/^\/+/, "")}`;
   return kind === "journal" ? JOURNAL_OG_IMAGE : DEFAULT_OG_IMAGE;
 }
 

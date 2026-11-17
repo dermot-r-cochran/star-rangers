@@ -14,6 +14,8 @@ related:
   - "Concordant"
   - "High Celestials"
 tags: [mediarch, dynarch, cascade, forces, physical-law, gravity, electromagnetics, nature, cosmology]
+image: "glossary/mediarch.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Mediarch in pale serif capitals, with the line “Gravity, Electromagnetics, Nature”"
 ---
 
 A **Mediarch** (pronounced: **MEE-dee-ark**; plural: **Mediarchs**; from *medius*, the middle, the one who stands between) is a Cascade-tier being that encapsulates and governs a physical law or force: **Gravity**, **Electromagnetics**, or **Nature** (biological life), among others. It is commonly also called an **Exarch**, the older form still preferred in devotional and provincial records, and both names are canonical. Each Mediarch embodies one force-domain: it is not a mind that operates the force from outside, but the tier at which that force is lawfully administered at all. "Exarch" carries the office's character precisely: a governor holding a province on delegated authority from a distant throne.

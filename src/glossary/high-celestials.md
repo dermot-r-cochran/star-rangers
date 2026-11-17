@@ -13,6 +13,8 @@ related:
   - "Celestials"
   - "Concordant"
 tags: [high-celestials, higher-celestials, telearch, mediarch, cascade, legacy]
+image: "glossary/high-celestials.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, three stacked chevrons in a soft glow at the centre, and below a short rule the title High Celestials in pale serif capitals, with the line “Ambiguous legacy designation, retired”"
 ---
 
 **High Celestials** (also **higher celestials** in older records) is an ambiguous legacy designation, retired precisely because it was used loosely for **two different tiers**:

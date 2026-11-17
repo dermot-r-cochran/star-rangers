@@ -13,6 +13,8 @@ related:
   - "Compact Dimensions"
   - "Membrane Shadow"
 tags: [local-bulk, common-manifold, interval, dimensions, cosmology]
+image: "glossary/local-bulk.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title The Local Bulk in pale serif capitals, with the line “One bulk may hold a very large number of membranes”"
 ---
 
 The **local bulk** is the higher-dimensional space a set of [cosmic membranes](/star-rangers/lore/concordant-membranes/) shares. Each membrane is one universe. The bulk is the space they sit in, and none of them owns it. The word is the physicists' own: in brane-world cosmology the *bulk* is the full space and a *brane* is a surface within it.

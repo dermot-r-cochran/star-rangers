@@ -12,6 +12,8 @@ related:
   - "Conseleme"
   - "Cosmic Cascade"
 tags: [kieme, cascade, upper-structure, cosmology]
+image: "glossary/kieme.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Kieme in pale serif capitals, with the line “The second tier of the Cosmic Cascade”"
 ---
 
 **Kieme** is the second tier of the [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/), forming part of the Upper Structure alongside Hyperomnium and Conseleme.

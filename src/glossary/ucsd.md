@@ -10,6 +10,8 @@ plain: "UCSD is the calendar most records in this story use, the way we use date
 related:
   - "Concordant"
 tags: [timekeeping, ucsd, concord, records, undercover-pets.com]
+image: "lore/universal-cosmic-stardate.jpg"
+image_alt: "Six identical low sealed housings in a row across a clean, pale, seamless room, each on its own pedestal, with a faint violet glow in a small window on top of each"
 ---
 
 **Universal Concord Standard Date (UCSD)** is the civil dating standard of [the Solar System Concord](/star-rangers/lore/solar-system-concord/): the shared spine that dates in the public record convert to, whatever notation they were first written in.

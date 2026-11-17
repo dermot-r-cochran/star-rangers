@@ -14,6 +14,8 @@ related:
   - "Levril"
   - "Concordant"
 tags: [celestials, frenar, cascade, enforcement]
+image: "glossary/celestials.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, three stacked chevrons in a soft glow at the centre, and below a short rule the title Celestials in pale serif capitals, with the line “Operational enforcement tier”"
 ---
 
 **Celestials** (pronounced: **suh-LES-tee-ulz**) are the operational enforcement tier of the [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/), sitting below the [Telearchs](/star-rangers/glossary/telearch/) and the force-governing [Mediarchs](/star-rangers/glossary/mediarch/) in the fixed hierarchy. They are also the Cascade's temporal threshold: the Celestials are the highest tier that exists — and acts — in ordinary Material-layer time. Above them, the middle strata (Mediarchs, Telearchs, [Worldwrights](/star-rangers/glossary/worldwright/)) exist in **conceptual time**, a real sequence that is not the Material clock, and above the Worldwrights the Cascade is eternal outright. The asymmetry cuts one way: a Celestial can command a [Levril](/star-rangers/glossary/levril/), since a command between Material-time tiers is an ordinary temporal event, but the Celestial itself is never commanded — it is *defined* by the strata above it.

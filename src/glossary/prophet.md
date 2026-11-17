@@ -13,6 +13,8 @@ related:
   - "Champions / Heroes (Heros)"
   - "Kieme"
 tags: [prophet, cascade, channels, champions, avatar, cosmology]
+image: "glossary/prophet.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, the thin outline of an oval head over an arch in a soft glow at the centre, and below a short rule the title Prophet in pale serif capitals, with the line “One of the five channels”"
 ---
 
 A **prophet** is one of the five channels through which the strata above the [Celestials](/star-rangers/glossary/celestials/) reach the world. The other four are structure, design, the [Avatar](/star-rangers/glossary/avatar/) and the [Champion](/star-rangers/glossary/champions-heroes/). None of those strata stands in the world as itself. They act *through* these five and never *as* themselves; see [Through, Not As](/star-rangers/lore/cosmic-cascade/#through-not-as).

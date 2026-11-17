@@ -15,6 +15,8 @@ related:
   - "Celestials"
   - "Champions / Heroes (Heros)"
 tags: [levril, dragon, cascade, boundary, meta-dimensional, higher-dimensional]
+image: "lore/levrils.jpg"
+image_alt: "Designed cover for Levrils: a gold dragon-wing silhouette on a dark background, evoking dragons and constraint literacy."
 ---
 
 **Levril** is the formal name for the whole tier. Common speech calls every Levril a dragon; in the record *Dragon* is the lower rank only, and the loose use comes from the fact that Dragons are the Levrils people see. Levrils are **sapient meta-dimensional beings**: their existence extends across extra higher spatial dimensions beyond the four accessible to Material-layer beings. They are the only meta-dimensional entities with formal standing in the [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/).

@@ -12,6 +12,8 @@ related:
   - "Lagrange Points and Fold-Space Transit"
   - "What the Record Refuses"
 tags: [virtual-reality, culture, cei, fold-visualization, practices]
+image: "glossary/virtual-reality.jpg"
+image_alt: "Designed emblem card on a warm brown-black ground: the category Practices in spaced capitals at the top, a single plain circle in a soft glow at the centre, and below a short rule the title Virtual Reality in pale serif capitals, with the line “A technology in retreat as mass entertainment”"
 ---
 
 Ask why immersive entertainment never became the dominant leisure technology anyone from an earlier century would have predicted, and the Concord's own culture desks give a consistent answer: it did, once, and the audience left.

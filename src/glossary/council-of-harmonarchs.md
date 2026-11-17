@@ -14,6 +14,8 @@ related:
   - "Worldwright"
   - "Noögenic Protouniverse"
 tags: [council-of-harmonarchs, harmonarch, concordant-principal, universal-authority, governance, cosmology, cascade]
+image: "glossary/council-of-harmonarchs.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Council of Harmonarchs in pale serif capitals, with the line “Every Concordant Principal in a universe, sitting together”"
 ---
 
 The **Council of Harmonarchs** is all of a universe's [Concordant Principals](/star-rangers/glossary/concordant-principal/) sitting together. Each governs one [Concordant Zone](/star-rangers/glossary/concordant/) alone. In council they govern the universe.

@@ -12,6 +12,8 @@ related:
   - "Conseleme"
   - "Cosmic Cascade"
 tags: [hyperomnium, cascade, cosmology]
+image: "glossary/hyperomnium.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, a single plain circle in a soft glow at the centre, and below a short rule the title Hyperomnium in pale serif capitals, with the line “The highest fixed tier in the Cosmic Cascade”"
 ---
 
 **Hyperomnium** (pronounced: **hy-per-OM-nee-um**) is the highest tier in the fixed [Cosmic Cascade](/star-rangers/glossary/cosmic-cascade/).
