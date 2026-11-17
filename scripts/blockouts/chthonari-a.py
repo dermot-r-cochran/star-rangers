@@ -8,7 +8,9 @@ touched by CI. Needs Blender (5.2 used, 17 November 2026).
 
 pose: `study` (default: one being at a slab, three-quarter from mid height,
 the round-2 study), `listen` (all six limbs down, no slab), `run` (mid-stride
-along a member) or `address` (the working pair raised clear of the deck).
+along a member) `address` (the working pair raised clear of the deck) or `write` (the
+working pair held low over a slab, pads just clear of it; added for the
+artist's impressions of 17 November 2026).
 
 THE BODY (Dermot, 17 November 2026, "A: the sole"): one flat disc with no
 head, no sections and no seam, lying on its lower carapace, which is how it
@@ -112,6 +114,10 @@ if pose == 'study':
     SL = Vector((0.20, -0.52, 0.012))
     bpy.ops.mesh.primitive_cube_add(location=SL); s = bpy.context.object; s.scale = (0.26, 0.17, 0.012); s.rotation_euler = (0, 0, 0.12); s.data.materials.append(stone)
     ST = 0.024
+if pose == 'write':
+    SL = Vector((0.0, -0.50, 0.012))
+    bpy.ops.mesh.primitive_cube_add(location=SL); s = bpy.context.object; s.scale = (0.30, 0.17, 0.012); s.rotation_euler = (0, 0, 0.06); s.data.materials.append(stone)
+    ST = 0.024
 if pose == 'run':
     bpy.ops.mesh.primitive_cube_add(location=(0, 0, -0.04)); s = bpy.context.object; s.scale = (2.0, 0.30, 0.04); s.data.materials.append(plate)
 
@@ -141,6 +147,10 @@ for i in range(6):
         j1 = u * (R + 0.05) + Vector((0, 0, 0.11))
         j2 = u * (R + 0.11) + Vector((0, 0, 0.17))
         tip = u * (R + 0.17) + Vector((0, 0, 0.19))
+    if pose == 'write' and i in (0, 5):  # the working pair, held low over the slab
+        j1 = u * (R + 0.06) + Vector((0, 0, 0.13))
+        j2 = u * (R + 0.14) + Vector((0, 0, 0.11))
+        tip = u * (R + 0.20) + Vector((0, 0, ST + 0.06))
     if pose == 'run' and i in (1, 3):
         j2 = j2 + Vector((0, 0, 0.05)); tip = tip + Vector((0, 0, 0.07))
     limb_chain([root, j1, j2, tip], 0.029)
@@ -152,7 +162,8 @@ L.rotation_euler = (aim - L.location).to_track_quat('-Z', 'Y').to_euler()
 w = bpy.data.worlds.new('w'); scn.world = w; w.use_nodes = True
 w.node_tree.nodes['Background'].inputs['Strength'].default_value = 0.22
 w.node_tree.nodes['Background'].inputs['Color'].default_value = (0.6, 0.7, 0.9, 1)
-bpy.ops.object.camera_add(location=(0.80, -1.30, 0.62)); cam = bpy.context.object; scn.camera = cam
+CAM = (1.30, -0.62, 0.66) if pose in ('write', 'address') else (0.80, -1.30, 0.62)  # side-on to the raised pair
+bpy.ops.object.camera_add(location=CAM); cam = bpy.context.object; scn.camera = cam
 cam.rotation_euler = (aim - cam.location).to_track_quat('-Z', 'Y').to_euler(); cam.data.lens = 40
 scn.render.engine = 'CYCLES'; scn.cycles.samples = 48; scn.cycles.use_denoising = True; scn.cycles.device = 'CPU'
 scn.render.resolution_x, scn.render.resolution_y = 1600, 900
