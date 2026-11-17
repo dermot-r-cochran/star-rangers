@@ -4153,3 +4153,61 @@ The record is in `story-bible/images.md` § 74. All five frames are generated; n
 - **Kind:** generated with four references (`chapters/s11e02c03.jpg` as the place, `characters/aravena.jpg`, `characters/went-round.jpg`, the lion), take 1 of 2, then one edit (two takes, take 2 used; take 1 left the stone large).
 - **Edit prompt** (sent with take 1):
   > Edit this photograph and change only two things. First: the stone under the kneeling person's hands is much smaller, a plain rough grey stone the size of two hands, held in both hands and just touching the silt. Second: beside the person on the silt there is only one lamp, a plain small smooth matte grey block with one softly lit face; remove the second box-like object next to it. Keep everything else exactly as it is: the kneeling person in the grey-green coverall with head bowed, the large grey-furred being seen from behind at the right, the pale rock wall with its narrow dark crack, the amber and blue-green fungus, the bootprints, the silt, the framing, the grain and the colour. One stone only. No text, no lettering, no new objects.
+
+## 2026-11-17 — Chthonari body: the four options studied (Fable, desktop)
+
+The options study recorded in `species-design.md` (*Vessik and the Chthonari — Body: options put to Dermot, 17 Nov 2026*). **Tool** throughout: Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K, 16:9, two takes per job. Eight jobs, sixteen takes, none refused, **none filed**. The first six jobs are edits of the filed `kattik.jpg` (the room-remade frame of 17 November), sent alone. The last two are a grey Blender blockout made photographic, sent with `kattik.jpg` second as a guide to the place and the surface only. The blockout script was a scratch file and is not in the repository: ellipsoids for the body and for each limb segment, a floor, a slab, two columns, one cool area light, and a 40 mm camera about a metre and a half away at half a metre's height. Every edit prompt opens with the same paragraph, given in full under A and not repeated.
+
+### The edits of `kattik.jpg` (none filed)
+
+- **A — the sole, round 1** (both takes: a pebble held up on six legs; take 2 with a seam round the rim):
+
+> Edit this photograph. Change only the body of the small creature in the foreground, and give the small one in the background the same kind of body. Keep everything else exactly as it is: the blue-grey plated room, the columns, the floor, the flat grey stone slab on the floor, the light, the camera and the grain. Still a real photograph, not a render. The creature stays the same small size and the same dull slate grey with a bronze cast, hard, matte and scuffed. It has no face, no eyes, no mouth and no feelers.
+>
+> The change: the body is one single piece, a low wide flat lens like a thick river pebble, round seen from above, with no head, no neck, no waist, no segments and no seam down its back. It lies with its whole underside pressed flat on the floor, as if listening to the floor through it. Six short thick limbs leave the rim of the lens, evenly spaced all the way round like the points of a six-pointed star, each lying low and splayed outward along the floor with one bend, ending in a blunt tip. The two limbs nearest the slab rest their blunt tips on the slab. Its upper face is plain, with fine ripples like worn stone. Not a tick, not a crab, not a spider, not a turtle, not a starfish, not a machine.
+
+- **A — round 2, the body asked down onto the floor** (both takes still stood it on legs beneath):
+
+> *(opening paragraph as above)*
+>
+> The change: the body is one single piece, a low wide flat disc like a thick river pebble, round seen from above, with no head, no neck, no waist, no segments and no seam. It lies directly on the floor: its whole flat underside rests on the floor plate with no gap beneath it and no legs beneath it, as if listening to the floor through it. Six short thick limbs leave the outer edge of the disc, evenly spaced all the way round like six spokes, and each lies flat along the floor, pointing straight outward, with one low bend and a blunt tip pressed to the floor. Nothing lifts the body. The two limbs nearest the slab lie with their blunt tips on the slab. Its upper face is plain, with fine ripples like worn stone. Not a tick, not a crab, not a spider, not a turtle, not a starfish, not a stool, not a machine.
+
+- **B — two whorls, round 1** (both takes: a banded wooden keg on spider legs):
+
+> *(opening paragraph as above)*
+>
+> The change: the body is a short thick barrel, like a small keg lying on its side, about twice as long as it is wide, one single piece with no head, no waist and no segments, both ends alike and bluntly rounded. Three thick limbs leave each end of the barrel, spaced evenly round it like the legs of a tripod, so six limbs in all: at each end two limbs reach down to the floor and one reaches up above the body. The four lower limbs grip the floor. The two upper limbs arch up and forward over the body and come down so that their blunt tips rest on the slab. The limbs are thick, with three joints and blunt tips, no claws and no pincers. Not a scorpion, not a crab, not a spider, not an ant, not a robot.
+
+- **B — round 2, the keg taken out** (both takes: a smooth spindle with two raised limbs and eight limbs in all):
+
+> *(opening paragraph as above)*
+>
+> The change: the body is one single thick spindle of the same hard living hide, lying lengthwise, about twice as long as it is wide, widest in the middle, with two rounded ends that are exactly alike, so it has no front and no back, no head, no waist, no segments, no bands, no hoops and no flat end caps; it is grown, not made. Three thick limbs leave each end, spaced evenly round it. At each end two of the three limbs stand on the floor, and the third leaves the very top of the body, rises well above it and bends over forward. So four limbs stand on the floor and two limbs are raised above the back. The two raised limbs reach forward and down so that their blunt tips rest on the slab. The limbs are thick, with three joints and blunt tips, no claws and no pincers. Not a scorpion, not a crab, not a spider, not an ant, not a barrel, not a robot.
+
+- **C — the striker** (both takes: a cast wedge with two hammers, a made thing):
+
+> *(opening paragraph as above)*
+>
+> The change: the body is one single wedge, like a thick axe head lying flat, with no head, no waist, no segments and no seam: its broad blunt end faces the slab and it tapers toward the back. It is carried low, its flat underside almost touching the floor. Four short thick limbs on the back half grip the floor, close in to the body. From the two front corners come two much longer, heavier arms, each as long as the body, with one elbow, ending in a blunt rounded knob like a small mallet, with no claws, no pincers and no fingers. Both knobs rest on the slab. Not a crab, not a lobster, not a mantis, not a mole, not a cricket, not a robot.
+
+- **D — paved hide** (both takes: a tiled beetle or tick):
+
+> *(opening paragraph as above)*
+>
+> The change: keep six legs under the body, but the body is no longer a smooth dome in sections. It is one low long loaf with no head, no neck and no waist, and it has no continuous hard cover: its surface is dark leathery hide set with many separate small flat grey plates, each like a hand-cut tile, with gaps of dark hide between them like paving stones, larger on top and smaller down the sides, none overlapping. The legs are the same: dark hide with separate grey rings round them. Not an armadillo, not a pangolin, not a turtle, not a woodlouse, not a crocodile.
+
+### The blockouts made photographic (none filed)
+
+- **A — the sole** (the plan held in both takes; pointed limb tips in both, a rim seam in take 2; reads as a crab or a turtle shell, no longer a beetle):
+
+> Make the first image, a grey blockout, into a real photograph. Keep every shape exactly: the body, the number of limbs (exactly six), where each limb leaves the body, where each tip rests, the flat slab, and the camera. Add nothing to the body: no head, no face, no eyes, no mouth, no feelers, no extra limbs, no claws. The second image is only a guide to the place and the materials: the same clean dark blue-grey plated floor with flush round fastenings, plain columns behind, cool even light, and the same hard, matte, scuffed dull slate-grey surface with a bronze cast for the body and limbs; the slab is plain dull grey stone. Do not copy the creature in the second image. The being is small, about the length of a forearm. Deep focus, a real lens, grain, fine scratches and wear on the body, a soft shadow on the floor. Not a render, not a toy, not clay, not a machine.
+>
+> The body is one low flat disc of hard hide lying directly on the floor on its underside, with six short hard jointed limbs leaving its rim like spokes and lying low along the floor; one limb tip rests on the slab. The limbs are jointed limbs with a hard surface, never flippers, never fins. Not a turtle, not a crab, not a starfish, not a tick.
+
+- **B — two whorls** (take 1 held six limbs; take 2 added two small ones; long thin working limbs, a sculpted finish):
+
+> *(first paragraph as in the blockout prompt for A)*
+>
+> The body is one smooth thick spindle of hard hide with both ends alike. Four limbs stand on the floor, two at each end. Two more limbs leave the top of the body, one at each end, rise above it, bend, and come down with their tips on the slab. All six limbs are thick hard jointed limbs of one kind with blunt tips. Not a spider, not a crab, not a scorpion, not an ant.
+
+**What the run teaches the next prompt of this people.** An edit of a filed Chthonari frame keeps that frame's legs beneath the body whatever the text says, so a new plan needs new geometry, not an edit. A simile for the body is drawn literally (*keg* gave hoops and end caps; *axe head* and *mallet* gave cast metal). A blockout holds the plan and the count better than text, and its ellipsoid limbs come back as smooth lobes or with pointed tips; the next blockout wants blunt tips modelled, not asked for.

@@ -192,6 +192,40 @@ The next chapter of Tissadelle's middle under the 18 October ruling (option A), 
 1. **The watch's word, *the dead Starwarden*.** *Not Asked* (S05E00C01) has Wender sit *"in a dead Starwarden's chair"*, while *Spent*'s canon fact says the post's Starwarden had *gone up*. The new chapter answers it in the story: the post's watch calls any Starwarden who has gone up *dead*, since she does not write back and is not to be asked. (a) **Recommended: keep it**; it makes the two chapters agree and costs one paragraph. (b) Cut the paragraph and change *dead* to *departed* in *Not Asked*, a clarification of published prose and so his. (c) Cut the paragraph and leave *dead* as a figure of speech.
 2. **A portrait for Emeka Lindahl.** His page has none and no body is stated. (a) **Recommended: leave it** until a second chapter uses him. (b) State a body and write a portrait prompt now.
 
+## The Chthonari body — four options put to Dermot, 17 November 2026 — OPEN, his to pick
+
+His *"As recommended"* of 17 November 2026, to a body design pass: every
+filed Chthonari frame reads as an Earth beetle at a thumbnail, and the Season
+10 fix pass found no framing that avoids it (`images.md` § 72). A body is his
+decision (CLAUDE.md, *Never without Dermot*), so nothing is changed and
+nothing is filed. What the page says of the body, what is only the
+generator's, the options, the fact each would change, the attractor each
+risks and what the studies showed are in `species-design.md`, *Vessik and the
+Chthonari — Body: options put to Dermot, 17 Nov 2026*; the sheet is
+`chthonari-body-options-2026-11-17.jpg` in the working folder (not in this
+repository); the prompts are in `image-prompts.md` under the same date.
+
+- **A (recommended): the sole.** One flat disc with no head or sections,
+  lying on its lower carapace, which is how it hears; six limbs from the rim
+  like spokes, the pair nearest the work lifting to strike or write. Changes
+  no written fact of the body. Lost the beetle in the blockout studies; a
+  crab or a turtle's shell is still too near, and a second round is owed.
+- **B: two whorls.** A spindle with no top or underside, three limbs round
+  each end; four stand and two rise to work. Strains *built low*. The least
+  like any Earth plan and the hardest to draw: three of six takes miscounted
+  the limbs.
+- **C: the striker.** One wedge, four short gripping limbs, two long arms
+  ending in blunt strikers. Read as a made tool in both takes.
+- **D: paved hide.** The present plan with plates set in hide. Still a
+  beetle; not offered.
+
+**A second question rides on any of A, B or C:** whether *insectoid*
+(`chthonari.md`, description and opening) and *insect-like* (its `plain:`
+line) stay as an outsider's loose word or go. Published prose, his.
+
+**A pick starts** a Chthonari body section, a second study round on the
+pick, and then the six filed frames and the S10E01C05 frame brought to it.
+
 ## The Mnemari head and neck — four options put to Dermot, 17 November 2026 — RULED the same day: A
 
 **Ruled 17 November 2026.** Dermot, verbatim: *"Head pick A"*. The jointed neck
