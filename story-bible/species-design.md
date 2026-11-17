@@ -1058,7 +1058,20 @@ on the underside, with a fine close velvety nap. Not grey. **Voice**
 - **The Earth animal.** The four-legged level-backed walker returned a horse
   or tapir in every round however the details were worded; a long neck alone
   returns a llama or a sauropod. The arched tripod and the slung body are
-  what keep it from any Earth animal.
+  what keep it from any Earth animal. **So every Mnemari frame shows the
+  hub and the slung body; never the neck alone** (Dermot, 17 November 2026,
+  *"Yes, as recommended"*, after the S01E00C08 terrace frame cut them away
+  and read as a dinosaur; `images.md`, Conventions). The head counts too:
+  drawn with a mouth line and forward eyes it read as a sauropod's even on
+  the whole body, so a frame that shows the head shows the written one, eyes
+  far apart on the sides, two slits, no mouth from the side (Ulessa's
+  portrait, re-filed the same day).
+- **The human fist.** Working-limb tips described as short blunt digits
+  folded over a pad came back as clenched fists in both takes of two edit
+  rounds, on 16 and 17 November 2026. What held: *a small closed bud like an unopened
+  flower bud, several short blunt lobes pressed together meeting at a point*,
+  the limbs short and folded close beneath the body (said long or straight,
+  they drew as extra legs).
 - **The spider, the harvestman and the walking machine.** Three thick padded
   legs, not eight thin ones; hide, not metal; no rivets, panels or seams of
   manufacture.
