@@ -112,6 +112,66 @@ left as they stand.
 ---
 
 
+## The body of the Told — four options put to Dermot, 17 November 2026 — OPEN, his to pick
+
+His *"As recommended"* of 17 November 2026, to running a body design pass
+like the Mnemari one: the Told read as plush bears, sloths or soft toys,
+nearer an animated film than a photograph, in all four filed portraits and in
+Season 11's frames. A people's designed body is his decision (CLAUDE.md,
+*Never without Dermot*), so nothing is changed. What is written about the
+body, the options, the fact each would change, the attractor each risks and
+what the studies showed are in `species-design.md`, *The Told — Body: options
+put to Dermot, 17 Nov 2026*; the sheet is `told-body-options-2026-11-17.jpg`
+in the working folder (not in this repository).
+
+- **A:** the same round, earless, flat-faced body with a real coat and real
+  proportions (small head, small eyes, coarse uneven hair, bare pads).
+  Changes no written fact. Lost the toy; read as a sloth and a yeti.
+- **B (recommended, on A's coat and proportions):** the ground-listener.
+  The whiskered face he agreed for a second warm on 19 October, very small
+  eyes, broad padded hands and feet. Changes no page; changes the filed face
+  and ends the difference between the two warms. Lost the toy and stayed
+  gentle; reads as a large marmot or mole.
+- **C:** the mantle. Thick hair on chest, shoulders and back, bare creased
+  skin elsewhere. Changes *thick fur*. Read as a troll or a cloaked man.
+- **D:** the standing boulder. No separate head, a coat hanging straight
+  down. Changes the outline. Read as a film creature.
+
+**Basis of the recommendation:** B on A's coat is the only combination whose
+second-round takes lost the toy without becoming a sloth, an ape or a human;
+its face comes from the dark and the senses the chapters give; he has agreed
+that face once. **No option passed the Earth-animal rung outright**, B fails
+it most mildly, and that is said in the design note. A alone is the least
+change if the flat face of 7 September matters more than the reading.
+
+## Does *a child is pictured grown* reach the young of the Told? — raised in `images.md` § 74, put to Dermot 17 November 2026 — OPEN, his to choose
+
+The rule (CLAUDE.md, 15 November 2026): *No generated or composited image on
+the site has a child as its subject*, from his *"All characters were children
+or young once so an adult portrait is fine even if the character appeared in
+a chapter as a child"*. The audit that made it remade four portraits of human
+children and did not name `teddy.jpg` (Individual Four, *the youngest* in
+Season 11) or `keeps-a-hand-on-it.jpg` (*the smallest of the Told*). Season
+11's frames were made so as not to depend on the answer. It is a choice about
+what the site depicts and never a content rating.
+
+- **(a) Recommended: it reaches every people.** Both portraits are re-made
+  grown, at the adult build, `image_alt` saying *grown*, or the page stands
+  without one; each page's text keeps what the record says. Basis: the rule's
+  words name no species and his sentence says *all characters*; Season 11's
+  frames already took this reading; the record has Carried-It-Sleeping no
+  longer among the small ones by S12E01C02, so a grown portrait of that one
+  is already true; and both portraits are due to be re-made under whichever
+  body he picks, so the answer costs no extra frame now.
+- **(b) It is a rule about human children.** A non-human people's young may
+  be pictured as the record has them; both portraits stay as subjects and are
+  re-made only for the body.
+- **(c) It reaches only a character the record states is a child.** The
+  survey's page says of Individual Four that *smaller is the fact* and *young
+  is a guess*, so `teddy.jpg` stands as a smaller person; Keeps-A-Hand-On-It,
+  whom the chapters call the smallest and born after the two stones, is
+  pictured grown or not at all.
+
 ## A smaller companion life form on Ilenne with the Mnemari study's disc head — Dermot's idea, 17 November 2026 — OPEN, waits on a page or chapter that needs it
 
 Kind, size, body, name and what *companion* means are all undecided; built by the people-body-design loop when needed. `story-bible/intake-2026-11-17.md`, last section.
