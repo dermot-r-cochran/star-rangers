@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Two artefact extractors quote the Chthonari pages as they now read** (`scripts/extract-places-and-peoples.js`, `scripts/extract-peoples.js`, 2026-11-17, Opus, found cutting 1.72.0). The species page now says the Chthonari were first called *insectoid* by off-worlders, and the six portraits are artist's impressions, so the old evidence phrases were gone and both scripts stopped. Each now quotes the current wording; no rule or reading changes.
+
 ## [1.72.0] — 2026-11-17
 
 Every chapter from Season 4 to Season 14 now carries a picture, so every season of the story is pictured, and every timeline and glossary entry carries one too. Fix passes bring Seasons 3 to 11 toward the century, and the last stock banners are replaced. The Told and the Chthonari have ruled bodies, the Chthonari pictured as artist's impressions, the Mnemari neck is jointed, and the young of every people are pictured grown. The Journal files three chained films as impressions, the trailer bar is recorded, boundary reports and flexures are explained, and two questions are put to Dermot.

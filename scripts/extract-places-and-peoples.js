@@ -336,7 +336,7 @@ const PEOPLE_RULES = {
   'chthonari': {
     homeworld: 'Undersong Belt', homeworld_slug: 'undersong-belt',
     polity: 'Federation of Sentient Beings', frame: 'six-limbed, exoskeletal',
-    evidence: ['a sapient, insectoid people native to the Undersong Belt', 'six-limbed, exoskeletal', 'interact easily with other Federation species in shared facilities', 'tag: federation-of-sentient-beings']
+    evidence: ['a sapient people, called insectoid by the first off-worlders who met them, native to the Undersong Belt', 'six-limbed, exoskeletal', 'interact easily with other Federation species in shared facilities', 'tag: federation-of-sentient-beings']
   },
   'humans': {
     homeworld: 'Earth', homeworld_slug: null,
