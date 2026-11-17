@@ -4495,6 +4495,24 @@ Each sent with the filed frame first and round 2's take 1 as the body reference.
 
 **What the run teaches the next prompt of this people.** The blockout fixes A's outline, which neither text nor an edit of a beetle frame will; and the finish is the whole remaining problem. A smooth short limb comes back soft (a toy) or hard (a machine), never alive, and a finish pass cannot move the finish once an edit has set it. The next attempt changes what the limb is made of in the geometry, not the words about it.
 
+## 2026-11-17 — Season 14 chapter illustrations, Episode 2, the survey's three (Fable, desktop)
+
+The three prompts of record are in `images.md` § 76. **Tool** throughout: Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K, 16:9, two takes per job. Six jobs, 12 takes, none refused. The edits below were each run on the picked first take, and only the patch named was laid back onto that take.
+
+**`s14e02c01`, edit (take 1 used; patch: the lower middle of the frame, the legs, boots and silt).**
+
+> Edit this photograph and change two things only. First: on the pale silt floor in the foreground there are several animal paw prints with toe marks. Remove every one of them and leave in their place a short line of plain human bootprints, shallow smooth oval dents of a plain sole with no pattern, leading from the crack toward the camera. There must be no animal prints anywhere. Second: the person's boots are brown ankle boots; make them plain smooth dark boots that end at the ankle, with no laces, no elastic panels, no buckles, no heel tab and no tread pattern showing, close-fitting, with the leg of the coverall coming down over the top of each boot so that only the smooth dark foot shows; not wellingtons and not tall boots. Change nothing else at all: keep every face, every pose, the rock, the light, the framing, the colour and the grain exactly as they are. No text anywhere.
+
+**`s14e02c02`, edit (take 1 used; patch: the rock at the upper left).**
+
+> Edit this photograph and change one thing only. On the rock wall at the upper left a thin dark cable or rope hangs down the rock and ends near the edge of the left passage mouth. Remove the cable completely, so that there is only the same bare pale frosted rock where it was. Change nothing else at all: keep the grey cylinder on its base, the small grey lamp, the bootprints, both passage mouths, the far point of light, the framing, the light, the colour and the grain exactly as they are. No text anywhere.
+
+**`s14e02c03`, edit (take 1 used; patch: the three pairs of legs and boots). Take 2 drew taller wellingtons with a rolled cuff.**
+
+> Edit this photograph and change one thing only. The three people are wearing tall wellington boots. Give all three plain smooth dark boots that end at the ankle, with no laces, no elastic panels, no buckles, no heel tab and no tread pattern showing, close-fitting, with the leg of the coverall coming down over the top of each boot so that only the smooth dark foot shows; not wellingtons and not tall boots. The legs of the grey-green coveralls now reach down to the ankle. Change nothing else at all: keep every face, every pose, the rock, the light, the framing, the colour and the grain exactly as they are. No text anywhere.
+
+**What the run teaches.** *Seamless moulded boots with no laces* draws wellingtons or elastic-sided boots; *the leg of the coverall coming down over the top of each boot so that only the smooth dark foot shows* is what worked. A silt floor near a reference frame of the Told draws paw prints even with no being in the prompt; negate *paw prints with toes* whenever silt is in frame. A reference frame's stray cable comes with it.
+
 ## 2026-11-17 — Chthonari: the A body as artist's impressions, nine frames filed (Opus, desktop)
 
 At Dermot's *"Artist's impression"* (the Chthonari photographic rounds failed; the A body goes to artist's impressions, painted or technical, never a cartoon) and, for Kettsa, *"Behind the working pair"*. The record and the critic's readings are in `images.md`, under the Orbital Five-O block, *Chthonari body A, applied*, *Impressions*. **Tool** throughout: Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K, 16:9, two takes per job, a grey blockout of `scripts/blockouts/chthonari-a.py` sent as the only reference (its pose named per frame; `write` was added to the script for these, and `write` and `address` are now seen side-on). Forty-two takes in all, none refused. Filed with `import-image.ps1 -Finish 0`, portraits at `-MaxEdge 1200`, chapters at `-MaxEdge 1600`.
@@ -4672,7 +4690,7 @@ Generation take 1 of 2, as generated, with three references. Filed through `scri
 
 ## 2026-11-17 — Season 12 chapter illustrations, Episode 1, the six tellings below the roof (Fable, desktop)
 
-The record is in `story-bible/images.md` § 76. All six frames are generated; none is on a plate of his. **Tool:** Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js`, two takes per prompt. Filed by `import-image.ps1 -MaxEdge 1600` at finish strength 1. Twenty-three images: twelve first-pass takes, one second-round take (C03; the other take of that round was a *service unavailable* error), two third-round takes (C03), eight edit takes. Nothing was refused by the filter. The generation prompts of record are in § 76; the edit prompts and the prompts not used are here.
+The record is in `story-bible/images.md` § 77. All six frames are generated; none is on a plate of his. **Tool:** Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js`, two takes per prompt. Filed by `import-image.ps1 -MaxEdge 1600` at finish strength 1. Twenty-three images: twelve first-pass takes, one second-round take (C03; the other take of that round was a *service unavailable* error), two third-round takes (C03), eight edit takes. Nothing was refused by the filter. The generation prompts of record are in § 77; the edit prompts and the prompts not used are here.
 
 ### chapters/s12e01c01.jpg — filed 17 November 2026
 - **Kind:** generated with one reference (`characters/keeps-a-hand-on-it.jpg`), take 2 of 2, one edit (two takes, take 2 used), then the shape's outline by hand.
