@@ -788,6 +788,24 @@ with the drum, the drum's ends morph, or anything on the hull glows.
 
 ---
 
+## Trailers: the bar, 17 November 2026
+
+**Recorded at Dermot's *"Yes, record it"*, 17 November 2026,** after he asked whether any of the Journal's films were good enough for trailers, *"and what is the bar, otherwise they are in the journal for reference and context only"*. Until now the record had no written bar. These five tests come from what it already says. A film filed in the Journal as an impression is there for reference and context only until it passes all five, and he decides which film becomes a trailer.
+
+1. **It keeps its promise.** A trailer is a promise: this is what you will find if you come in (`src/journal/the-long-white-trail.md`, *What it was asked for*). Everything it shows must be in the record, so a reader who comes looking finds it. *The Long White Trail* fails this test: a reader who came looking for Maeve would find nobody.
+2. **None of its listed faults is on screen.** His ruling of 17 November is that a rough cut is *"fine as journal impressions, but would need more polish if attached to a chapter or episode"*. A trailer faces the public more than a chapter link does, so the bar is at least that high. Every fault listed in its Journal entry or version table is fixed or cut out.
+3. **It speaks for one thread and carries the chosen title treatment.** The late note and the closing title were chosen on 6 November 2026 for trailers only (`story-bible/music-prompts.md`, *A theme and title for the trailers*). The *Fian Ilchruinne* title cuts in on the last late note, with the thread's name small beneath it, set by script and never generated.
+4. **He has heard and passed its sound.** Claude can measure the sound's levels but cannot hear it, so a spoken line or a score is settled by his ear.
+5. **It is cut as a trailer.** That means a shorter cut taken from the film, not the whole film.
+
+**The three chained films, as of 17 November 2026:**
+
+- ***Nothing Taken* (D2): the nearest.** It is faithful to S01E00C11. Its faults can be fixed in the edit and with a few new clips: the house changes from stone to panels after the first two clips, the dog turns its head, and the night-and-morning stretch is missing.
+- ***The Character of the Light* (D5): possible after polish.** The window's island and the wrong robot need new stills and clips. The flash rhythm can be fixed in the edit, and it matters more here than anywhere, because the light's timing is what the chapter is about.
+- ***Lúnasa* (D7): fails test 1, whatever the polish.** Its ring of stations exists only in his films, and whether its station is the record's Lúnasa is still open (parked for Fable). It stays reference only until both are settled.
+
+None has the title treatment or a score yet, and none has had its sound passed.
+
 ## Director briefs, written 29 October 2026, before anything is generated
 
 Dermot's request, verbatim: *"ask Fable to prepare some video prompts for
