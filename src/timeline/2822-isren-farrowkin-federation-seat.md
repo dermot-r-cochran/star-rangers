@@ -7,6 +7,8 @@ era: "2800-2825"
 major: true
 summary: "Isren Farrowkin, senior Fourfold Accord delegate for Verdance's Canopy Concord since 2819 UCSD, first holds Verdance's rotating seat in the Federation assembly."
 tags: [verdani, verdance, federation-of-sentient-beings, fourfold-accord, isren-farrowkin]
+image: "characters/isren-farrowkin.jpg"
+image_alt: "Isren Farrowkin, a Verdani delegate, seen across a bare, pale terrace room against a wall of tall glazing. A low, broad, rounded body rests on short limbs close to the floor, with no head and no face, and from it rise several very wide fern-like vanes fanned toward the light, green and veined, the daylight showing through them, rows of small dark nodes along their edges. A sunlit terrace of planting lies beyond the glass."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [verdani, verdance, federation-of-sentient-beings, fourfold-accord, isren-
     </ol>
   </nav>
   <h1 class="lore-entry__title">A Verdani Delegate First Holds Verdance's Federation Seat</h1>
-  <p><span class="character-badge">2822 UCSD</span></p>
+  <p><span class="character-badge">2822 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

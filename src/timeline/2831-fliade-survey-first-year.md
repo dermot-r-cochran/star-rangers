@@ -7,6 +7,8 @@ era: "2826-onward"
 summary: "The Survey Corps' surface party begins its work in the upper cavern levels of Fliade, home of the deep-cavern people the survey calls the Pandoids and who call themselves the Told."
 plain: "In 2831 a small Star Rangers survey team began its first year working in the caves of Fliade, a cold planet whose life lives underground. The deep caves belong to a people the team calls the Pandoids, who call themselves the Told. They had been found before anyone tried to change the planet, so the rules that protect them apply."
 tags: [fliade, pandoids, survey-corps, first-contact, below-the-roof, nakagawa, aravena, toma-egede]
+image: "lore/planets/fliade.jpg"
+image_alt: "A cavern passage receding into darkness, its wet rock walls and floor covered in bracket fungi, small-capped fungi and pale threads glowing faintly amber and blue-green, pale silt and loose stones underfoot"
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [fliade, pandoids, survey-corps, first-contact, below-the-roof, nakagawa, 
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Fliade Survey's First Year on the Ground</h1>
-  <p><span class="character-badge">2831 UCSD</span></p>
+  <p><span class="character-badge">2831 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

@@ -6,6 +6,8 @@ sort_order: -300
 era: "2543-2799"
 summary: "The Imperium-licensed colony on Corryn Prime begins the mining and agricultural expansion whose emissions degrade the electromagnetic bands the Spiralites use for speech and for reproduction."
 tags: [corryn, corryn-prime, spiralites, halvern-combine, imperium, frontier-transformation-protocols]
+image: "lore/planets/corryn.jpg"
+image_alt: "A dark ringed gas giant hanging huge and low in a night sky, a thin lit edge on its disc and faint bands of blue, violet and green along its rings, above a black hillside of coiled fern-like plants"
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [corryn, corryn-prime, spiralites, halvern-combine, imperium, frontier-tra
     </ol>
   </nav>
   <h1 class="lore-entry__title">Corryn's Expansion Reaches the Spiralites' Bands</h1>
-  <p><span class="character-badge">~2796 UCSD</span></p>
+  <p><span class="character-badge">~2796 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

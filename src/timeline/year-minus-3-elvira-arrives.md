@@ -6,6 +6,8 @@ sort_order: 50
 era: "2800-2825"
 summary: "Elvira arrives at the Marsh Causeway outpost and begins independent boundary monitoring after her predecessor departs under undisclosed circumstances."
 tags: [causeway, boundary, elvira]
+image: "characters/elvira.jpg"
+image_alt: "Elvira, a woman in her forties in a grey-green work coat, crouched on a chalk floor in a stone room, setting a small weight on a thread of a square survey grid at its crossing. Glass jars and earthenware pots of water stand at intervals across the floor; on a grey composite table a straightedge, a coiled plumb line and shut record books; a small rounded housing with one green indicator sits flush in the stone beside an open composite door onto flat reed marsh under a pale sky."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [causeway, boundary, elvira]
     </ol>
   </nav>
   <h1 class="lore-entry__title">Elvira Arrives at the Marsh Causeway Outpost</h1>
-  <p><span class="character-badge">2823 UCSD, Early Spring</span></p>
+  <p><span class="character-badge">2823 UCSD, Early Spring</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

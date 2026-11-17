@@ -7,6 +7,8 @@ era: "before-2543"
 major: true
 summary: "At the request of his community, Brother Daire sets down the only surviving account of Aoife's vision at the thorn well — the earliest dated event on this timeline, and the document the Celtic Union would carry off Earth eleven centuries later."
 tags: [earth, history, pre-usc, pre-expansion, brother-daire, saint-aoife, celtic-union, hagiography, culture, levril]
+image: "characters/brother-daire.jpg"
+image_alt: "Brother Daire at work in a stone cell, a monastic scribe in a coarse undyed habit and hood, bent over a sloped desk with a quill in hand. An ink pot and a knife sit beside a vellum leaf already half-covered in close script; light falls from a narrow window onto the page."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [earth, history, pre-usc, pre-expansion, brother-daire, saint-aoife, celti
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Life of Saint Aoife Set Down at Cill Aoife</h1>
-  <p><span class="character-badge">1216 AD (1416 UCSD)</span> <span class="character-badge">Cill Aoife, Ireland</span></p>
+  <p><span class="character-badge">1216 AD (1416 UCSD)</span> <span class="character-badge">Cill Aoife, Ireland</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

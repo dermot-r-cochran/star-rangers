@@ -6,6 +6,8 @@ sort_order: 70
 era: "2800-2825"
 summary: "Rhiannon Ceridwen answers first contact from Star Rangers survey traffic two years ahead of her clan's turn at the Celtic Union seat, fracturing Aethelrock's Ridgemoot over whether the old rotation still holds."
 tags: [aethelrock, celtic-union, clan-ceridwen, ridgemoot, timeline, history]
+image: "characters/rhiannon-ceridwen.jpg"
+image_alt: "Rhiannon Ceridwen on the decking of her relay station at dusk, a composed woman with grey curling hair in a long charcoal coat and a teal and ochre tartan scarf, standing level with her hands at her sides. Behind her a tall plain grey column rises into low cloud with one small warm light on it, above low stone buildings with conduits along their walls, and grain terraces fall away below the plateau."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [aethelrock, celtic-union, clan-ceridwen, ridgemoot, timeline, history]
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Aethelrock Rotation Dispute Begins</h1>
-  <p><span class="character-badge">2824 UCSD</span> <span class="character-badge">2624 CE, Ceridwen clan archives</span></p>
+  <p><span class="character-badge">2824 UCSD</span> <span class="character-badge">2624 CE, Ceridwen clan archives</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

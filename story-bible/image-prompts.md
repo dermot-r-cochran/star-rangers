@@ -4766,6 +4766,14 @@ The record is in `story-bible/images.md` § 79. All three frames are generated; 
 - **Second edit** (sent with the first edit's take 1):
   > Edit this photograph and change only two small things. First, the feet of the grey furred being: they are broad round bare pads with thick blunt digits and no claws at all; remove the dark pointed claws so that each foot ends in short blunt rounded toes the colour of the pads. Second, the kneeling person's boot: make it a plain seamless dark moulded boot with a smooth plain sole, no tread pattern, no laces, no seams and no heel block, its top hidden under the trouser leg. Keep everything else exactly as it is: the kneeling person, the coverall and strap, the hands on the stone, the lamp on the silt, the furred being with its head bent and its shadow, the dark shape with its thin bright edge and the evenly lit silt round it, the stones, the rock, the fungus, the framing, the grain and the colour. No text, no lettering, no new objects, no new light, no new shadows.
 
+## 2026-11-17 — Timeline entry card (Opus, desktop)
+
+The record is in `story-bible/images.md` § 80: every timeline entry borrows a filed picture, and one era-level entry with no filed picture of its own takes a card. Nothing was generated.
+
+- **`lore/united-space-industry-standards.jpg`** (17 November 2026), for the timeline entry *United Space Industry Standards Formed* (`src/timeline/pre-usc-ul-standards-international.md`), which references it as `lore/united-space-industry-standards.jpg`. Device **shield**, for certification; the entry's own title and the category *History*, no epithet or qualifier, at finish 0. The script reads a page's directory from its path, so it was drawn from a throwaway front-matter file at `_card\lore\` holding only that title, category and file name, removed afterwards. The same day the script's shield path was closed on its left edge, where it had drawn open; `lore/ai-safety-kernel.jpg` (above) was drawn before the fix and still shows the gap.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page _card\lore\united-space-industry-standards.md -Device shield -Tint '#142220' -Accent '#9CC9C0'
 ## 2026-11-17 — Glossary emblem cards (Opus, desktop)
 
 Designed cards, not generations: drawn by `scripts/make-emblem-card.ps1` from each glossary entry's front matter, with the epithet line a verbatim phrase of the entry. Fifty-eight cards in `src/images/glossary/`; `frenar` shares `celestials.jpg`. Run from the repository root (`story-bible/images.md` § 81):

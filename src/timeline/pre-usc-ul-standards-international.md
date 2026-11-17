@@ -7,6 +7,8 @@ era: "before-2543"
 major: true
 summary: "A global safety certification body merges with European and Asian standards organisations to form United Space Industry Standards, extending its mandate to all human-occupied off-world environments."
 tags: [earth, history, pre-expansion, pre-usc, standards, safety-corps, certification]
+image: "lore/united-space-industry-standards.jpg"
+image_alt: "Designed emblem card on a dark green-black ground: the category History in spaced capitals at the top, a plain shield outline in a soft teal glow at the centre, and below a short rule the title United Space Industry Standards in pale serif capitals."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [earth, history, pre-expansion, pre-usc, standards, safety-corps, certific
     </ol>
   </nav>
   <h1 class="lore-entry__title">United Space Industry Standards Formed</h1>
-  <p><span class="character-badge">Pre-USC era, early orbital expansion (~22nd century CE)</span></p>
+  <p><span class="character-badge">Pre-USC era, early orbital expansion (~22nd century CE)</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

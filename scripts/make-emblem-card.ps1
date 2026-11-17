@@ -156,8 +156,7 @@ function Draw-Device($g, [string]$Kind, $Pen, [single]$Cx, [single]$Cy, [single]
                               [System.Drawing.PointF]::new($Cx, $Cy+$R),
                               [System.Drawing.PointF]::new($Cx-$R*0.5, $Cy+$R*0.8),
                               [System.Drawing.PointF]::new($Cx-$R*0.72, $Cy+$R*0.15))
-                 # Closed (17 November 2026): left open, the shield lost its left side.
-                 $p.CloseFigure()
+                 $p.CloseFigure()  # the left edge; without it the shield drew open (found 2026-11-17)
                  $g.DrawPath($Pen, $p) }
   }
 }

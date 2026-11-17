@@ -6,6 +6,8 @@ sort_order: 10
 era: "2800-2825"
 summary: "The first instrument drift report is filed at Threshold Station — two chronometers in Dock Seven disagree by forty seconds. The report is closed without resolution."
 tags: [threshold-station, boundary, instrument-drift]
+image: "lore/threshold-station.jpg"
+image_alt: "A long stone sea wall running straight out toward a low sun at dusk, the wet surface catching the light, boulders along its right edge and open water on the left; at the far end, lying low on the water in silhouette against the pale sky, one long smooth seamless hull-shaped form with three small warm lights along its waterline, and a headland faint on the horizon to the left."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [threshold-station, boundary, instrument-drift]
     </ol>
   </nav>
   <h1 class="lore-entry__title">First Drift Report Filed at Threshold Station</h1>
-  <p><span class="character-badge">2815 UCSD, Late Summer</span></p>
+  <p><span class="character-badge">2815 UCSD, Late Summer</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

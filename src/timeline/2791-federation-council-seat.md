@@ -7,6 +7,8 @@ era: "2543-2799"
 major: true
 summary: "The Federation of Sentient Beings fills the first non-voting seat on the Star Rangers' Oversight Council, within a generation of contact and after the first renewal of the material-support compact."
 tags: [federation-of-sentient-beings, oversight-council, star-rangers, history]
+image: "lore/the-oversight-council.jpg"
+image_alt: "An atrium seen from below: white cantilevered galleries with glass balustrades step up around a curved drum of balconies, warm strip lights set into the soffits, a glass-sided spiral stair rising at the lower right, and daylight coming through skylights above."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [federation-of-sentient-beings, oversight-council, star-rangers, history]
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Federation's Seat on the Oversight Council First Filled</h1>
-  <p><span class="character-badge">2791 UCSD</span></p>
+  <p><span class="character-badge">2791 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

@@ -7,6 +7,8 @@ era: "2826-onward"
 summary: "Eden Space Habitat's small-livestock register, which had carried one cat, gains a second. Zhulik enters the record as a note on the first cat's quarterly welfare return and has a line of his own by the end of the week; the conduct review opened against the first cat is withdrawn on the Superintendent's own note."
 plain: "For a long time Eden's list of animals had one cat on it: Agent Barsik. Then small things started going missing from the detectives' desks, and the list said Barsik must have taken them. But there was a second cat nobody had written down, a young grey-and-white one called Zhulik. Once he was found, he got a line of his own on the list, and the complaint against Barsik was crossed out."
 tags: [eden, zhulik, agent-barsik, rasa-oyelaran, small-livestock-register, undercover-pets.com]
+image: "chapters/s02e06c01.jpg"
+image_alt: "Seen side-on across a dark grey desk, a black cat sits bolt upright at the left and a woman with close-cropped grey hair, in a grey jacket over a maroon top, sits at the right with her hand on a blank pale sheet. They look steadily at each other. Behind them is a wall of moss-green woven cloth, and at the far right a tall window shows the habitat's terraces."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [eden, zhulik, agent-barsik, rasa-oyelaran, small-livestock-register, unde
     </ol>
   </nav>
   <h1 class="lore-entry__title">Eden's Register Gains a Second Cat</h1>
-  <p><span class="character-badge">2827 UCSD, Late Spring</span></p>
+  <p><span class="character-badge">2827 UCSD, Late Spring</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

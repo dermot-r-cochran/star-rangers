@@ -7,6 +7,8 @@ era: "2826-onward"
 summary: "The Survey Corps returns to Drithane to instrument a crossing itself. The survey record states a ground-coupled infrasound signature for the drithle, confirmed by instrument and by a vessik together, and enters as an open question whether the valley's animals quiet on crossing nights because they feel it."
 plain: "The Survey Corps went back to Drithane to measure a crossing night with instruments. They found that the sparks burning up high in the sky press on the air, and the air presses on the ground, very lightly, for as long as the crossing lasts. A small animal called Thrum, who hears through the ground instead of through the air, heard it too. Nobody knows yet whether the valley's animals go quiet because they can feel it. The record says that is still a question."
 tags: [drithane, celtic-union, survey-corps, drithle, thrum, chthonari, undercover-pets.com]
+image: "chapters/s02e04c01.jpg"
+image_alt: "An old woman seen from behind, grey hair in a knot and a grey-brown woollen coat, lays her right hand flat on the weathered stone beside a low round-headed doorway dug into a grassy hillside. The arch and walls are rough grey and buff stone laid dry, with no mortar, and turf caps the arch; within, a smaller round-headed doorway opens on darkness, with a few courses of stone just visible inside. The light is cool and even, with a faint warm edge on her hand."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [drithane, celtic-union, survey-corps, drithle, thrum, chthonari, undercov
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Drithle Crossing Instrumented</h1>
-  <p><span class="character-badge">2827 UCSD, Spring (Eden reckoning)</span></p>
+  <p><span class="character-badge">2827 UCSD, Spring (Eden reckoning)</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

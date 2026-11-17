@@ -7,6 +7,8 @@ era: "2826-onward"
 summary: "The loop chiller on Eden's six fruit terraces fails for three days and a water mould spreads through the shared loop. The Warden files root disease at sixty-eight in a hundred and asks for the terraces to be isolated; the Terrace Committee votes four to one to wait for the culture; the Mayor's review closes the loop on the fourth day, and the culture confirms on the fifth. Every Eden strawberry on the terraces dies. One plant on the children's row survives."
 plain: "Eden grows fruit on six terraces that share one water loop. In the early autumn of 2827 the water ran too warm for three days and a mould got into it. The Warden, the station's own mind, said the plants were probably sick, sixty-eight chances in a hundred, and asked for the water to be shut off. The committee that holds the taps decided to wait until it was sure. By the time the water was shut off, every strawberry plant on the terraces had died, except one that a boy called Lev had already taken home."
 tags: [eden, terraces, eden-warden, lev, imogen-petrakis, tomas-brennock, undercover-pets.com]
+image: "chapters/s02e11c01.jpg"
+image_alt: "A strawberry plant with one white flower grows in a clear glass beaker of water on a deep cream windowsill, its white roots hanging in the water. Thin red runners arch out to seven baby plants along the sill, each in its own small glass or cup of water. A pair of grey metal scissors lies at the right. The window behind is a plain pane of even, bright, faintly green-white light with nothing to see through it, and the corner of a wooden table is in the foreground."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [eden, terraces, eden-warden, lev, imogen-petrakis, tomas-brennock, underc
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Terrace Loop Fails, and the Eden Strawberry Is Lost</h1>
-  <p><span class="character-badge">2827 UCSD, Early Autumn</span></p>
+  <p><span class="character-badge">2827 UCSD, Early Autumn</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

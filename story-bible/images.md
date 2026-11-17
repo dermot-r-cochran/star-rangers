@@ -13065,6 +13065,67 @@ The second half of Season 12, at Dermot's *"Yes, seasons 12, 13 and 14, please"*
 
 **Clips.** Two more prompts are written in `video-prompts.md` under *Season 12 chapter clips, written 17 November 2026*: forty seconds at the passage mouth (S12E02C01) and the light going round (S12E02C03). *Nominal* has none, and the reason is given there. Nothing has been generated.
 
+### 80. Timeline entries — a borrowed picture on every one (17 November 2026, Opus, desktop)
+
+**Why.** Dermot, 17 November 2026, on the glossary and timeline pages: *"Yes, start them"*. The plan he saw and agreed: timeline entries borrow the image of the place or event they record; nothing is generated where a filed image fits; abstract eras take an emblem card or a drawn diagram; a page goes bare only as the stated last resort. It applies his 15 November reason for the Journal photographs (§ 54): *"every page would benefit from an image or video"*, for visual readers.
+
+**Route.** Timeline entries have no layout of their own (`layout: base.njk`, hand-written HTML), so each carries an optional `image` / `image_alt` pair (`TIMELINE_TYPE` optional fields) and its body includes `src/_includes/timeline-image.njk` at the end of the header's date line, where `lore-entry.njk` puts a lore page's picture (`.entry-image`, the same style). `image` is the path **below** `src/images/`, since an entry takes its picture from whichever folder holds it: a reference, never a copy, so no file is duplicated and each picture below is one file with one more reference. The include draws nothing without `image`. `.eleventy.js` makes it the page's share card and puts it in `pageImages`; `validate-content.js` checks it resolves and that the body has the include. Each `image_alt` is the filed alt of the page that already carries the picture, which says what the file shows; none asserts more than that.
+
+**What was chosen, and by which rule.** All 45 entries on `origin/main` carry a picture. One file is new: a card. Nothing was generated.
+
+| Entry | Image | Route |
+|---|---|---|
+| The Life of Saint Aoife Set Down (1216) | `characters/brother-daire.jpg` | the person, at the act: the scribe writing |
+| United Space Industry Standards Formed (pre-USC) | `lore/united-space-industry-standards.jpg` | **new emblem card**, title and category only |
+| Subsea Cable Warden Programme Established (pre-USC) | `lore/subsea-cable-drones.jpg` | the programme's own card |
+| The Three-Era Framework Codified (pre-USC) | `lore/civilisation-comparison.jpg` | the framework's own card |
+| USC Founded; SSSA Established (2340) | `lore/united-space-consortium.jpg` | the USC's own card |
+| The Sentinel Filed as a Hazard Beacon (2528) | `lore/sentinel.jpg` | the place |
+| A Mnemari Treaty-Witness First Requested (2626) | `characters/ulessa.jpg` | the person |
+| Eden's Fold Route Confirmed (2712) | `chapters/s00e01c01.jpg` | chapter frame, *Supplementary Material* |
+| Patience First Departs (2714) | `chapters/s00e01c02.jpg` | chapter frame, *Beyond MSC Liability* |
+| The Outer Stations Consolidation Hearing (2719) | `chapters/s00e02c02.jpg` | chapter frame, the hearing |
+| Star Rangers Charter Signed (2723) | `chapters/s00e03c01.jpg` | chapter frame, the signing |
+| Boundary Readings Classified as Etheric Interference (2780) | `codex/survey-corps-protocol.jpg` | the Boundary Monitoring Protocol's card, the protocol the readings are filed under |
+| The Federation's Seat on the Oversight Council (2791) | `lore/the-oversight-council.jpg` | the place |
+| Tsittak Found at the Exit (2794) | `lore/tsittak.jpg` | the place |
+| Corryn's Expansion Reaches the Spiralites' Bands (2796) | `lore/planets/corryn.jpg` | the place |
+| The Single Route into Deadwater Certified (2803) | `lore/universes/deadwater.jpg` | the place |
+| Greenward and the Guest Ring (2806) | `lore/greenward-habitat.jpg` | the place: one of the two rings |
+| The First Party on Counterpane's Membrane (2814) | `chapters/s01e00c05.jpg` | chapter frame, *Survives Correction* |
+| The Counterpane Reading Accepted at Home (2815) | `lore/the-scope-of-physical-law.jpg` | the finding's own page picture: the scope of a law |
+| The Convergence Archetypes Restated at Cluster Width (2816) | `lore/made-minds-and-the-ai-safety-archetype.jpg` | the archetype's own page picture: one design reached three times |
+| The First Revisit to Counterpane (2817) | `chapters/s03e02c03.jpg` | chapter frame of the seventh revisit (2829), which the entry records as the cadence's latest |
+| Intermembrane Bleed Graded (2819) | `lore/boundary-zones.jpg` | the boundary zones the grading fixed |
+| A Verdani Delegate First Holds Verdance's Seat (2822) | `characters/isren-farrowkin.jpg` | the person |
+| A Krenyi Analyst's Account of the Cloth Received (2825) | `characters/ilvane.jpg` | the person, holding a single sheet |
+| A Survey Delegation Keeps a Crossing Night on Drithane (2826) | `chapters/s02e03c01.jpg` | chapter frame |
+| The Material-Support Compact Revisited (2826) | `chapters/s01e00c08.jpg` | chapter frame, *Nobody Present* (Ulessa) |
+| The Drithle Crossing Instrumented (2827) | `chapters/s02e04c01.jpg` | chapter frame |
+| Eden's Register Gains a Second Cat (2827) | `chapters/s02e06c01.jpg` | chapter frame, *The Unacceptable Cat* |
+| The Terrace Loop Fails (2827) | `chapters/s02e11c01.jpg` | chapter frame, the runners saved |
+| Eden's Thirteenth Requirement (2827) | `chapters/s02e09c01.jpg` | chapter frame, *The Thirteenth Requirement* |
+| A Chthonari Crew's Log Line on Eden's Mount Three (2828) | `chapters/s10e01c02.jpg` | chapter frame, *Sound, as Certified* |
+| The Long Shelf Asks to Be Consulted (2828) | `chapters/s03e01c03.jpg` | chapter frame, *What Meridian Asked* |
+| The Sentinel Reclassified (2828) | `chapters/s03e01c01.jpg` | chapter frame |
+| The Hegemony's Reason Put on the Record (2828) | `chapters/s03e01c04.jpg` | chapter frame, Sohrel |
+| The Last Stand off Dock Seven (2831) | `chapters/s05e02c03.jpg` | chapter frame, *What Came Off the Ship* |
+| The Fliade Survey's First Year (2831) | `lore/planets/fliade.jpg` | the place: the upper caverns |
+| A Proposal to Collar the Anstolik Refused (2832) | `characters/nakagawa.jpg` | the person who withheld the countersign; the Anstolik have no picture |
+| A Telling Told at the Line (2834) | `chapters/s14e01c04.jpg` | chapter frame |
+| Elvira Arrives at the Marsh Causeway Outpost (2823) | `characters/elvira.jpg` | the person, at the outpost's work |
+| Aldera Reaches the Marsh Causeway (2822) | `characters/aldera.jpg` | the person, on the causeway |
+| The Second Visit to the River Abbey (2822) | `chapters/s01e00c00.jpg` | chapter frame, *Below the Bells* |
+| The Aethelrock Rotation Dispute Begins (2824) | `characters/rhiannon-ceridwen.jpg` | the person who answered, at her relay |
+| First Drift Report Filed at Threshold Station (2815) | `lore/threshold-station.jpg` | the place |
+| Survey Team Arrives at Threshold Station (2826) | `chapters/s01e01c01.jpg` | chapter frame |
+| Causeway Convergence (2826) | `chapters/s01e02c01.jpg` | chapter frame |
+
+**Counts.** Chapter frames 21; character portraits 8; lore pictures of a place or thing 11; existing emblem and Codex cards 4; new emblem card 1; generated 0; bare 0.
+
+- **The new card.** `lore/united-space-industry-standards.jpg`, from `scripts/make-emblem-card.ps1` (device **shield**, for certification; tint `#142220`, accent `#9CC9C0`), the entry's own title and the category *History* only, no epithet. The only existing card near it is the Safety Corps', which names a body five centuries later. Registered in `image-prompts.md`. Drawing it found the script's shield open on its left edge; the path is now closed. **`lore/ai-safety-kernel.jpg`, the one card filed with that device, still shows the open shield**; redrawing it is a one-line command, left for his word since it changes a filed image.
+- **Second candidates weighed.** Several entries were weighed against a second candidate: the first drift report against *Which One First*'s two clocks (another post, so not this event); the Etheric readings against `boundary-zones.jpg` (kept for 2819, where the grading fixes the zones themselves); the first revisit (2817) takes the seventh revisit's frame, the only revisit a chapter draws.
+- **Nothing left bare.**
 ### 81. Glossary entries: every entry carries a picture or a diagram (17 November 2026, Opus, desktop)
 At Dermot's *"Yes, start them"* of 17 November 2026 (the glossary and timeline pages, after all 124 chapters had their pictures), on the plan he saw: glossary entries borrow the image of the page, place or people they are about; nothing is generated where a filed image fits; abstract terms take an emblem card, a drawn diagram or codex-medium art; a page goes bare only as the stated last resort. The reason is his of 15 November: *"every page would benefit from an image or video"* and *"I am trying to support visual readers"*, with the one exception *"where image generation fails two or three times and no diagram or other card is possible."* The timeline is a separate section.
 
