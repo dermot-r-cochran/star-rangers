@@ -3794,3 +3794,73 @@ The prompts of record are in `story-bible/images.md` § 69, with the references 
 
 ### chapters/s07e01c04.jpg — filed 17 November 2026
 - **Kind:** generation with a reference (`characters/sen.jpg`). Variation 1 of 2, as generated. No edit.
+
+## 2026-11-17 — Season 7 fix pass, three frames (Opus, desktop)
+
+At Dermot's *"Yes, both"* (17 November 2026); the record of the pass is `images.md` § 69. **Tool:** Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js`, two takes per call, the filed 1600×893 frame as the image to edit. Twelve images in all, six per round; nothing refused. **Paste, by hand (OpenCV):** each take reduced to 1600×893, registered to the filed frame by SIFT and a homography, and only the regions below laid back, feathered, with grain added to the frame's measured grain (C01 and C04 also take a Lab offset from a 10 px ring round each region; C02 is graded by hand, below). Saved at quality 85; no further finish.
+
+### chapters/s07e01c01.jpg — re-filed 17 November 2026
+- **Kind:** an edit of the filed frame, two rounds; only the desk, both records and the seated woman's hand pasted back (455–1250 × 630–835 px). Round 1 take 1, then round 2 (an edit of that take) take 2; registered with 194 inliers of 223.
+- **Round 1 prompt:**
+
+> Edit this photograph. It is a real photograph of two women at a desk in a cream room, and it must stay exactly that photograph: keep both women, their faces, hair, clothes and poses, the room, the niches, the desk, the light, the grain and the framing exactly as they are.
+>
+> Change only these things.
+> 1. The seated woman holds a pen as if to write. It becomes a plain stylus: one slim straight rod of dark grey matte ceramic, the same thickness from end to end, both ends simply rounded, with no clip, no cap, no nib, no point, no band and no button. She is not writing: she holds it loosely across her fingers, resting along the side of her forefinger with her thumb lightly on it and its far end resting on the desk, the way one holds a pointer, not a pen. Her hand keeps its place and size.
+> 2. The grey book on the desk becomes a bound set of thin leaves: about a dozen separate thin rigid sheets of matte slate-grey material, each as thin as a card, stacked flat and hinged together along the long edge nearest the seated woman by its own slim plain dark spine rod, so that the thin edges of the separate sheets show as fine parallel lines along the open sides; the whole set is no thicker than a finger. It has no cover boards, no fabric and no rounded book spine. Same place, closed, flat.
+> 3. The tan-brown book becomes the same kind of thing, older: about eight separate thin rigid sheets of matte ochre-brown material, darker at the edges with age, stacked flat and hinged along its own far edge by its own slim plain dark spine rod, the edges of the separate sheets showing as fine lines; thinner than the grey set. No cover boards, no metal clasp, no corner caps. Same place, closed, flat.
+> The two sets lie side by side, nearly touching, each with its own rod; they share no hinge.
+>
+> Change nothing else. A photograph, not a render. No paper pages, no hardback books, no ring binders, no writing, lines, text, lettering or numerals on anything.
+
+- **Round 2 prompt** (on round 1 take 1; take 1 added a second hand and was not used):
+
+> Edit this photograph. Keep everything exactly as it is: both women, their faces, hair, clothes and poses, the two bound sets on the desk, the room, the light, the grain and the framing. Change only the seated woman's right hand and the dark grey rod in it.
+>
+> She is not writing and does not hold the rod as a pen is held. Her hand rests on the desk edge, palm down and relaxed, and the slim dark grey rod lies across her loosely curled fingers and under her thumb, held level and parallel to the desk's edge, the way one picks up a short pointer or a chopstick to put it away; neither end touches the desk and neither end points down. The rod stays a plain straight rod of dark grey matte ceramic, the same thickness from end to end, both ends simply rounded, with no clip, no nib and no point. The hand keeps its size, its skin, its sleeve and its five fingers, natural and relaxed.
+>
+> Change nothing else. A photograph, not a render. No pen, no pencil, no writing, no text, lettering or numerals anywhere.
+
+### chapters/s07e01c02.jpg — re-filed 17 November 2026
+- **Kind:** an edit of the filed frame, two rounds, with a reference (a crop of the house in `chapters/s06e01c01.jpg`, 660–1120 × 370–610 px, for its stone only); round 1 take 1, then round 2 (an edit of that take) take 2; registered with 398 inliers of 440.
+- **Paste:** everything in 0–1492 × 0–835 px except Órla (a GrabCut mask from the rectangle 1075–1485 × 55–893, with her head and scarf added as a polygon and dilated 2 px), the table (0–548 × 655–893), the counter (100–1150 × 512–612, but for the vessel and disc, 950–1135 × 480–565); feather 3 px. **By hand on the walls** (not the pane, the vessel or the counter): Lab blur 0.6 px, local contrast ×0.72 round an 8 px mean, L −3, b +3, a −1, grain re-added; the steam laid back from the filed frame as its positive high-pass (14 px) inside a polygon round the plume, ×0.9.
+- **Round 1 prompt:**
+
+> Edit this photograph. It must stay exactly this photograph: keep the woman exactly as she is, her hair, the side of her face, her long grey wool coat, her grey scarf, her hand and her pose; keep the steam rising, the view through the window (the green pasture, the grey sky and the lichened dry-stone wall outside), the river stone on the sill, the two pale beakers, the long pale counter, the dark wooden table at the lower left, the slate floor, the light, the grain and the framing exactly as they are. The second image shows the outside of this same house: use it only for the look of its stone.
+>
+> Change only these things.
+> 1. The walls of the room, left and back and under the counter, and the deep reveal round the window: they are not whitewash or plaster. They become the inside of the house in the second image: the same weathered pale grey-buff fieldstone laid in rough even courses, the stones close-fitted and sealed smooth and matte with a clear finish so that each stone and its joints show, pale and clean, kept, with no render, no limewash, no paint and no crumbling. The deep window reveal is the same sealed stone, its sill one long flat stone.
+> 2. The window pane sits straight into the stone reveal with rounded corners and only a fine dark seam where glass meets stone: remove the pale rounded frame round the glass. Keep the view through the glass exactly as it is.
+> 3. The kettle on the dark disc becomes a plain sealed vessel: one smooth squat rounded body of dull dark grey metal with a short plain spout, a flush lid with no knob, and one plain low arched handle grown out of the body, under her hand; no hinge, no rivets, no enamel, no whistle, no knob. It stands on the same flush dark disc, which is let into the counter, and the steam still rises from the spout.
+> 4. The dark rounded housing on the left wall: remove it completely, so that there is only the stone wall there.
+>
+> Change nothing else. A photograph, not a render or a painting. No stove, no hob, no cables, no sockets, no switches, no thermostat, no pipes, no text, lettering or numerals anywhere.
+
+- **Round 2 prompt** (on round 1 take 1; both takes held, take 2's seam was clearer):
+
+> Edit this photograph. Keep everything exactly as it is: the woman, her hair, coat, scarf, hand and pose, the steam, the stone walls, the window and the view, the stone on the sill, the two beakers, the counter, the dark disc, the table, the light, the grain and the framing. Change only one thing: the kettle under her hand.
+>
+> It becomes a plain vessel that does not look like any kettle of today: one smooth, sealed, low rounded body like a large river pebble, of matte dark graphite ceramic, with no lid, no knob and no hinge, only one fine seam running round it a little below the top; a short plain spout grown smoothly out of the body near the top, with the thin thread of steam rising from its tip; and one plain low arched handle of the same dark ceramic, grown out of the body in one piece with it, under her hand. No metal, no shine, no enamel, no rivets, no whistle, no wire handle, no plastic. It stands on the same flush dark disc let into the counter, at the same size and in the same place, her fingers on its handle.
+>
+> Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
+
+### chapters/s07e01c04.jpg — re-filed 17 November 2026
+- **Kind:** an edit of the filed frame, two rounds; round 1 take 1, then round 2 (an edit of that take) take 2; registered with 80 inliers of 103. Pasted: the desk record (266–884 × 605–790 px) and the two right-hand niches (1180–1312 × 285–435, 1345–1595 × 282–470); feather 8 px. The record was then recoloured inside its outline to the filed record's mean (a and b in full, L by 0.6). The two records round 2 added to the desk behind the stylus were outside the regions and not pasted.
+- **Round 1 prompt:**
+
+> Edit this photograph. It is a real photograph of a long cream room at evening with one grey-haired person walking away toward a doorway, and it must stay exactly that photograph: keep the person, the coat, the rust scarf, the pose, the doorway and the passage beyond it, the desk, the stylus lying on the desk, the walls, the floor, the light, the grain and the framing exactly as they are.
+>
+> Change only these things.
+> 1. The dark book in the near foreground becomes a bound set of thin leaves: about a dozen separate thin rigid sheets of matte slate-grey material, each as thin as a card, stacked flat and hinged together along the left edge by one slim plain dark spine rod, so that the thin edges of the separate sheets show as fine parallel lines along the near open side; the whole set is no thicker than a finger. It has no cover boards, no black binding, no fabric, no rounded book spine and no paper pages. It lies in the same place, the same width, closed and flat.
+> 2. In the two niches in the right wall the records stand upright and lean like books on a shelf. Lay them down: in each niche, two or three thin bound sets of matte grey and clay-coloured leaves lie flat, stacked one on another on the niche floor, each thin, with a slim dark rod along one edge. Nothing stands upright or leans.
+> The niche on the left wall stays as it is.
+>
+> Change nothing else. A photograph, not a render. No hardback books, no spines with titles, no book ends, no paper, no writing, lines, text, lettering or numerals on anything.
+
+- **Round 2 prompt** (on round 1 take 1):
+
+> Edit this photograph. Keep everything exactly as it is: the person walking away, the coat, the scarf, the doorway, the desk and everything on it, the walls, the floor, the light, the grain and the framing. Change only what is inside the two deep niches in the wall at the right.
+>
+> In each of those two niches, the records that stand upright or lean against the back of the niche are taken away completely, so that the back and sides of the niche are plain smooth cream composite with nothing against them. On the floor of each niche lie only thin bound sets laid flat: two or three in each niche, stacked one on another, each a set of thin matte grey or clay-coloured leaves no thicker than a finger, with a slim dark rod along one edge. Nothing in either niche stands up, leans, or rises above a hand's height from the niche floor.
+>
+> Change nothing else. A photograph, not a render. No books standing on end, no book spines, no book ends, no titles, no text, lettering or numerals anywhere.
