@@ -3428,6 +3428,39 @@ Dermot's *"Yes, as recommended"* (17 November 2026) to the options put to him af
 >
 > No other change. No new limb, no pale or pink tip, no swelling at any tip, no head, no new eyes, no new objects, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
 
+## 2026-11-17 — Season 6 chapter illustrations, all four (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 67, with the references each was sent. **Tool** for the two generated frames and the plate edit: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, and at `-Finish 0` for the two frames on Dermot's own plates. Ten images in all: six first-pass takes of six asked, and four edit takes of six asked (two calls returned no image). Nothing was refused by the filter.
+
+### chapters/s06e01c01.jpg — filed 17 November 2026
+- **Kind:** an edit of Dermot's own photograph, then a second edit, then the changed region laid back onto the plate
+- **Source:** the plate is `F:\108SEP24\_DSC7323.JPG` (28 September 2024), cropped to 16:9 (4608×2592) and sent at 2400×1350; the first edit prompt is the prompt of record in `images.md` § 67.
+- **Run:** `scripts/image-edit.js`, plate edit take 2 of 2; then two further edits of that take. The first of them (two takes, neither used) asked for upright windows and a drone in a gable recess and drew a chapel. The second (one take returned of two) is filed. By hand: the filed take was registered to the plate at 3200×1800 (OpenCV SIFT, homography, 578 inliers of 657 matches), softened by a Gaussian of 1.6 px to the plate's own softness, and blended onto the plate through a feathered mask (14 px) covering the house and yard and each post; everything else in the filed frame is the plate. Filed at `-Finish 0`.
+- **Edit prompt, not used (the chapel):**
+
+> Edit this photograph. Keep everything exactly as it is, the wood, every tree, the tall conifer, the mown pasture and its shadows, the rough grass, the dry-stone wall of the yard, the line of pale posts, the light, the grain and the framing, and change only the house, so that it reads as a lived-in farmhouse of a far future century and not as a shed or a barn. 1. Keep its size, its place, its pale smooth sealed stone walls and its dark roof. 2. In the long side wall facing the yard, add three windows in a row: each a deep-set upright opening with rounded corners and no frame, no bars and no sill, dark and unlit, like the door. 3. In the gable end, beside the open door, add one more such window, smaller. 4. High in the gable, under the ridge, a small shallow rounded recess in the stone, and resting in it one small plain dark folded machine, a field drone at rest, no bigger than a crow, with no lights. 5. One thin dark conduit runs straight along the long wall just under the eave, from end to end. 6. The door stays open and dark, and a flat stone step lies in front of it. Change nothing else. Nobody is in the picture. A photograph, not a render or a painting. No chimney, no smoke, no lit windows, no glazing bars, no shutters, no gutters or downpipes, no aerials, no solar panels, no vehicles, no animals, no people, no text, lettering or numerals anywhere.
+
+- **Edit prompt, filed:**
+
+> Edit this photograph. Keep everything exactly as it is, the wood, every tree, the tall conifer, the mown pasture and its shadows, the rough grass, the dry-stone wall of the yard, the line of pale posts, the light, the grain and the framing, and change only the house, so that it reads as a lived-in farmhouse and not as a shed, a barn or a chapel. 1. Keep its size, its place, its pale smooth sealed stone walls, its dark roof and its open dark door. 2. In the long side wall facing the yard, add two windows: each one a wide, low, horizontal opening, twice as wide as it is tall, with softly rounded corners, set deep in the thick wall, with no frame, no bars, no sill and no arch, dark and unlit. 3. In the gable end, to the right of the door, add one more such window, the same shape, smaller. The gable above the door stays plain blank stone with nothing on it. 4. One thin dark conduit runs straight along the long wall just under the eave, from end to end. 5. A flat stone step lies in front of the door. Change nothing else. Nobody is in the picture. A photograph, not a render or a painting. No arched windows, no round-topped windows, no fanlight, no niche, no cross, no bell, no chimney, no smoke, no lit windows, no glazing bars, no shutters, no gutters or downpipes, no aerials, no solar panels, no vehicles, no animals, no people, no text, lettering or numerals anywhere.
+
+### chapters/s06e01c02.jpg — filed 17 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 67.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed as generated.
+
+### chapters/s06e01c03.jpg — filed 17 November 2026
+- **Kind:** Dermot's own photograph, as it is
+- **Source:** `F:\108SEP24\_DSC7280.JPG` (28 September 2024), cropped to 16:9 from the middle of the frame (4608×2592), resized to 1600×900 by `import-image.ps1 -Finish 0`. No generation and no edit.
+
+### chapters/s06e02c01.jpg — filed 17 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 67.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 2 of 2 (take 1 returned no image).
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is, the standing man seen from behind, his hair, his dark jacket and his hands, the seated woman's face, features, hair, age, jacket and collar tab, her hands on the desk, the dark wooden desk, the closed grey bound document, the tall window with rounded corners, the grey sea and the rain on the glass, the grain and the framing, and change only these things. 1. The ceiling: remove the bright rectangular light panel at the top edge of the frame, so the ceiling is one plain unbroken surface of the same warm white composite, and the room is lit only by the grey daylight from the window. 2. The woman's expression: the same face, but settled and level. Her brows are relaxed, her eyes steady on the man, her mouth closed and firm, her chin level. She is not anxious, not pleading and not surprised: she is a senior officer who has made a decision and is calmly waiting for him to accept it. Keep her identity exactly. 3. The dark box on the left wall becomes one small plain smooth rounded housing of dark matte ceramic, about the size of a hand, flush to the wall, with a single small steady pale indicator and no slot, button, seam or screen. 4. The pen on the desk becomes a plain slim dark tapered stylus with no clip, no cap and no button. 5. Her seat: what shows of it behind her is the plain rounded edge of a moulded seat upholstered in dark wool, with no arms, no headrest and no metal. Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
+
 ## 2026-11-17 — Season 5 chapter illustrations, all six (Fable, desktop)
 
 The prompts of record are in `story-bible/images.md` § 66, with the references each was sent. **Tool** for the four generated frames and the plate edit: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, and at `-Finish 0` for the two frames on Dermot's own plates. Sixteen images in all: ten first-pass takes of ten asked and six edit takes. Nothing was refused.
