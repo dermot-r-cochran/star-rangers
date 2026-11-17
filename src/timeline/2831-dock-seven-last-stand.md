@@ -7,6 +7,8 @@ era: "2826-onward"
 major: true
 summary: "Off Threshold Station's Dock Seven, a fold aperture held open past its transit for four months by a licensed commercial concern is found and closed. Every person aboard the Star Rangers vessel is evacuated and survives; the vessel is not recovered, and Line Captain Shepherd's position is logged at the failure point at the moment of closure. Every material witness records what answered the intrusion as dragons."
 tags: [threshold-station, dock-seven, boundary, last-stand, tissadelle]
+image: "chapters/s05e02c03.jpg"
+image_alt: "A grey sea with rows of small white breakers under heavy cloud. Far out, a loose drift of small pale warm lights hangs low over the water at the right and gathers into a single thin line that climbs to the left across the grey sky, thinning until it ends at nothing."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [threshold-station, dock-seven, boundary, last-stand, tissadelle]
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Last Stand off Dock Seven</h1>
-  <p><span class="character-badge">2831 UCSD, Mid-Autumn</span></p>
+  <p><span class="character-badge">2831 UCSD, Mid-Autumn</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

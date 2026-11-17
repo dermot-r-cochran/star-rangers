@@ -7,6 +7,8 @@ era: "2800-2825"
 major: true
 summary: "The one fold route into the membrane the survey crews name Deadwater is certified, and a Survey Corps platform is placed at the far staging. No corridor forms there, no relocation lock holds, and no second route has been found since."
 tags: [deadwater, survey-corps, fold-transit, quantum-space-harmonics, scope-of-physical-law, cosmology, history]
+image: "lore/universes/deadwater.jpg"
+image_alt: "A starfield with nothing in it but stars, and near the bottom of the frame one small dark shape that is not a star"
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [deadwater, survey-corps, fold-transit, quantum-space-harmonics, scope-of-
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Single Route into Deadwater Certified</h1>
-  <p><span class="character-badge">~2803 UCSD</span></p>
+  <p><span class="character-badge">~2803 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

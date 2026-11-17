@@ -6,6 +6,8 @@ sort_order: 30
 era: "2800-2825"
 summary: "Elvira walks down to Brother Daire's abbey on the Boyne for the second time that year, and comes away with the Fellowship's own word for what she has been reading: the Overfold. Aldera registers it first."
 tags: [dun-ri, elvira, aldera, brother-daire, fellowship-of-light, overfold, abbey, origin, timeline, history]
+image: "chapters/s01e00c00.jpg"
+image_alt: "A dark-haired woman in a grey-green coat, seen from behind on a gravel road, carries a tabby cat against her shoulder; the cat faces back along the road, ears flattened and eyes fixed on nothing. Ahead a long low stone abbey with a dark roof and a shut gate stands above a broad tidal river in low autumn sun. A pale marker post and a small rounded tending machine stand by the road, and a thin straight ascent trail climbs the sky."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [dun-ri, elvira, aldera, brother-daire, fellowship-of-light, overfold, abb
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Second Visit to the River Abbey</h1>
-  <p><span class="character-badge">2822 UCSD, Early Autumn</span> <span class="character-badge">Dún Rí — the old river abbey on the Boyne</span></p>
+  <p><span class="character-badge">2822 UCSD, Early Autumn</span> <span class="character-badge">Dún Rí — the old river abbey on the Boyne</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

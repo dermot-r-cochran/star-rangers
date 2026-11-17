@@ -6,6 +6,8 @@ sort_order: 13
 era: "2800-2825"
 summary: "After the Counterpane review, the Survey Archive restates the AI Safety Archetype and its ecological sibling at archecluster scope. The convergence they name is the one signature the record reads of the tier that authors clusters, and the tier stays inferred."
 tags: [archewright, archecluster, ai-safety-archetype, survey-archive, scope-of-physical-law, counterpane, cosmology, history]
+image: "lore/made-minds-and-the-ai-safety-archetype.jpg"
+image_alt: "Three closed doors of different ages and makes in a row along a pale, seamed corridor wall: an old planked wooden door with a forged iron latch, a dark moulded composite door with rounded corners, and a seamless pale panel with rounded corners and a small indicator, each latch a short horizontal bar, none of them locked."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [archewright, archecluster, ai-safety-archetype, survey-archive, scope-of-
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Convergence Archetypes Restated at Cluster Width</h1>
-  <p><span class="character-badge">2816 UCSD</span></p>
+  <p><span class="character-badge">2816 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

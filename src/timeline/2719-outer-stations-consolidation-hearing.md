@@ -7,6 +7,8 @@ era: "2543-2799"
 major: true
 summary: "A hearing convened to assess the Military Space Command's operational adequacy runs six months instead of three weeks, produces a formal finding of structural inadequacy — and one honestly volunteered sentence from General Krast that outruns every technical finding it also produces."
 tags: [msc, krast, consolidation-hearing, history]
+image: "chapters/s00e02c02.jpg"
+image_alt: "A full hearing chamber seen from the back of its tiered gallery: rows of people in dark jackets, all seen from behind and all still, face a long pale table where one grey-haired woman in a blue-grey high-collared tunic stands alone with her hands on its edge. A long rounded window behind her looks onto rust-red Martian ground under a pale sky."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [msc, krast, consolidation-hearing, history]
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Outer Stations Consolidation Hearing</h1>
-  <p><span class="character-badge">2719 UCSD</span></p>
+  <p><span class="character-badge">2719 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

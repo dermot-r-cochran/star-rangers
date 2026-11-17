@@ -6,6 +6,8 @@ sort_order: -1120
 era: "2543-2799"
 summary: "A six-person crew takes the modified survey vessel Patience First past the confirmed transit point Constant Margin proved two years earlier, aiming to investigate the fold terminus itself. The ship does not return."
 tags: [eden, fold-route, patience-first, msc, history]
+image: "chapters/s00e01c02.jpg"
+image_alt: "A woman in a plain grey coverall, seen from behind, walks alone down a pale curved passage with long strips of light overhead. At its far end three figures in dark olive-grey tunics stand apart beside a closed rounded hatch, half turned toward her, watching her come."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [eden, fold-route, patience-first, msc, history]
     </ol>
   </nav>
   <h1 class="lore-entry__title">Patience First Departs</h1>
-  <p><span class="character-badge">2714 UCSD</span></p>
+  <p><span class="character-badge">2714 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

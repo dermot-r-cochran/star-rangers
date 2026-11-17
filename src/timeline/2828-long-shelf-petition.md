@@ -6,6 +6,8 @@ sort_order: 137
 era: "2826-onward"
 summary: "The council of Meridian's Long Shelf reef-city petitions to be consulted on the Sentinel, the first such request from outside the Hegemony. Its analysts' comparison finds resemblance and establishes nothing further."
 tags: [meridian, long-shelf, cerebraun-hegemony, sentinel, halyx-system, sohrel, sixth-course, tavesh]
+image: "chapters/s03e01c03.jpg"
+image_alt: "A close view along a bare pale desk top in a dim room: on the left stands a low rounded block of dark matte ceramic with one seam and one small pale indicator, and set into its top a small pale stone disc beside a shallow well of clear liquid, faint rings spreading on its surface. Nothing else is on the desk, and the walls behind are out of focus."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [meridian, long-shelf, cerebraun-hegemony, sentinel, halyx-system, sohrel,
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Long Shelf Asks to Be Consulted</h1>
-  <p><span class="character-badge">2828 UCSD, Early Spring</span></p>
+  <p><span class="character-badge">2828 UCSD, Early Spring</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

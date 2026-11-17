@@ -7,6 +7,8 @@ era: "2826-onward"
 major: true
 summary: "A session of the Federation assembly revisits its material-support compact with the Star Rangers on a proposal from Verdance's seat, and requests Ulessa of Ilenne to give the compact's data term as it was spoken at its first table."
 tags: [federation-of-sentient-beings, mnemari, ulessa, verdance, isren-farrowkin, prismere, ollune, cirrane, treaty-witness]
+image: "chapters/s01e00c08.jpg"
+image_alt: "Close and low on a terrace in the last low sun: wide green fern-like vanes, lit through from behind so their veins and rows of small dark nodes show, rise from a creased grey-green hide at the bottom of the frame, the body of a Verdani with no head or face. At the right a large Mnemari stands on tall ochre legs that arch up out of the top of the picture to a hub; beneath it her deep rounded body hangs on a thick wrinkled column, a broad pale oval membrane flush on its side and short curled working limbs beneath it, each ending in a closed rounded bud. Her long neck comes down and forward so that her smooth blunt head hangs low, level with the nearest vanes and a clear gap in front of them, seen from the side, its one small dark eye turned to them. A pale terrace floor and a low parapet lie beyond under a gold sky."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [federation-of-sentient-beings, mnemari, ulessa, verdance, isren-farrowkin
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Material-Support Compact Revisited</h1>
-  <p><span class="character-badge">2826 UCSD, Early Summer</span></p>
+  <p><span class="character-badge">2826 UCSD, Early Summer</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

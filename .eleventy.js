@@ -94,6 +94,10 @@ function computeOgImage(data, included) {
   const kind = classifyContentPath(data.page && data.page.inputPath);
   const dir = OG_IMAGE_DIRS[kind];
   if (dir && data.image) return `/images/${dir}/${data.image}`;
+  // A timeline entry (since 2026-11-17) borrows the picture of what it
+  // records from wherever that picture is filed, so its `image` carries its
+  // own directory below src/images/ (src/_includes/timeline-image.njk).
+  if (kind === "timeline" && data.image) return `/images/${String(data.image).replace(/^\/+/, "")}`;
   return kind === "journal" ? JOURNAL_OG_IMAGE : DEFAULT_OG_IMAGE;
 }
 

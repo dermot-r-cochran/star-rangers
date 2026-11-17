@@ -7,6 +7,8 @@ era: "2543-2799"
 major: true
 summary: "The Star Rangers charter is signed under the Consolidation Accords, creating an independent boundary-operations body with authority to act without approval-chain delay."
 tags: [star-rangers, charter, msc, consolidation-accords, founding, history, safety-corps, sssa]
+image: "chapters/s00e03c01.jpg"
+image_alt: "A grey-haired woman in a dark collarless jacket bends over a long pale table, signing the top leaf of a slim bound set of stiff pale matte leaves with a slim dark stylus, her other hand flat on it and her eyes down; the thin stacked edges of the leaves show along its sides. Behind her, out of focus, a few people in plain dark jackets sit in pale gallery seats and a long rounded window shows rust-coloured Martian hills."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [star-rangers, charter, msc, consolidation-accords, founding, history, saf
     </ol>
   </nav>
   <h1 class="lore-entry__title">Star Rangers Charter Signed</h1>
-  <p><span class="character-badge">2723 UCSD</span></p>
+  <p><span class="character-badge">2723 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

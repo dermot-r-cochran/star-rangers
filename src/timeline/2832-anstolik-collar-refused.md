@@ -7,6 +7,8 @@ era: "2826-onward"
 summary: "In the Fliade survey's second year, the survey lead withholds the countersign from a proposal to fit Anstolik herds with detection collars, and files the prospectus with the refusal."
 plain: "In 2832 one member of the Fliade team suggested putting collars on some of the Anstolik, the big grazing animals, to watch for anyone taking them. The team's leader said no, because the animals wander down toward the deep caves where the Told live. The idea and the no were filed together."
 tags: [fliade, anstolik, pandoids, survey-corps, below-the-roof, nakagawa, toma-egede]
+image: "characters/nakagawa.jpg"
+image_alt: "Hesper Nakagawa, in middle age, standing still in a grey-green field coverall with a single pale tab at the collar on the floor of a frost-crusted cavern junction, hands empty at the sides, looking down at the stone; the relay unit stands upright on its base to the left, and two dark passage mouths open behind."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [fliade, anstolik, pandoids, survey-corps, below-the-roof, nakagawa, toma-
     </ol>
   </nav>
   <h1 class="lore-entry__title">A Proposal to Collar the Anstolik Refused</h1>
-  <p><span class="character-badge">2832 UCSD</span></p>
+  <p><span class="character-badge">2832 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

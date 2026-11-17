@@ -7,6 +7,8 @@ era: "2826-onward"
 major: true
 summary: "A Survey Corps principal hears structure in the Sentinel's pulse in Hegemony survey data, the Halyx System's Administrator-Voice authorises independent verification the same night, and the reclassification survives review six days later."
 tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel, tissadelle-shepherd, survey-corps]
+image: "chapters/s03e01c01.jpg"
+image_alt: "A young woman with red hair drawn back in a knot sits in profile at a desk that grows out of a dark taupe wall, her eyes lowered and both hands flat either side of a thin blank grey slate. Loose strands of her hair fall over her ear. Behind her a deep round port shows black space and the thin pale green crescent of a planet. The alcove is dim and she is lit softly from the side."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [cerebraun-hegemony, cerebraun, sentinel, meridian, halyx-system, sohrel, 
     </ol>
   </nav>
   <h1 class="lore-entry__title">The Sentinel Reclassified</h1>
-  <p><span class="character-badge">2828 UCSD, Late Winter</span></p>
+  <p><span class="character-badge">2828 UCSD, Late Winter</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

@@ -7,6 +7,8 @@ era: "2543-2799"
 major: true
 summary: "The first unauthorised expedition from Eden Space Habitat traverses the natural fold route, confirming extrasolar transit. The MSC classifies the data."
 tags: [eden, fold-route, constant-margin, msc, history]
+image: "chapters/s00e01c01.jpg"
+image_alt: "Two pairs of hands meet over a plain pale worktable: from the left, in a grey jacket sleeve, one lets go of a thin dark matte slate that the other, in a dark blue-grey coverall sleeve, has taken by its far edge. A closed pale folio lies on the table; behind, a viewport full of stars and a low glow under flush wall storage. No faces are in frame."
 ---
 
 <article class="lore-entry">
@@ -18,7 +20,7 @@ tags: [eden, fold-route, constant-margin, msc, history]
     </ol>
   </nav>
   <h1 class="lore-entry__title">Eden's Fold Route Confirmed: The <em>Constant Margin</em> Expedition</h1>
-  <p><span class="character-badge">2712 UCSD</span></p>
+  <p><span class="character-badge">2712 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 

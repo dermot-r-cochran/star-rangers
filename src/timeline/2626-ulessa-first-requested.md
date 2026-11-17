@@ -6,6 +6,8 @@ sort_order: -1995
 era: "2543-2799"
 summary: "The Federation assembly first requests Ulessa, a Mnemari of Ilenne, as a witness to a session revisiting an old compact. By 2826 UCSD she has been requested for a little over two centuries."
 tags: [mnemari, ilenne, federation-of-sentient-beings, ulessa, treaty-witness]
+image: "characters/ulessa.jpg"
+image_alt: "Ulessa, a large Mnemari with a warm ochre and russet hide banded in umber, standing on three tall arched legs that meet at a hub above her, her rounded body slung beneath on a thick column, a broad pale oval membrane flush on its side, a long jointed neck that rises from the front of her body to a heavy knuckle and folds down and forward, so her smooth blunt head hangs just above a cream sheet on a pale table, one small dark eye on the side of the head and two thin slits on top, short working limbs hanging beneath her body, each ending in a closed bud, in a quiet room with pale neutral walls."
 ---
 
 <article class="lore-entry">
@@ -17,7 +19,7 @@ tags: [mnemari, ilenne, federation-of-sentient-beings, ulessa, treaty-witness]
     </ol>
   </nav>
   <h1 class="lore-entry__title">A Mnemari Treaty-Witness First Requested</h1>
-  <p><span class="character-badge">Shortly before 2626 UCSD</span></p>
+  <p><span class="character-badge">Shortly before 2626 UCSD</span></p>{% include "timeline-image.njk" %}
 </header>
 <div class="lore-entry__body">
 
