@@ -112,6 +112,10 @@ left as they stand.
 ---
 
 
+## A smaller companion life form on Ilenne with the Mnemari study's disc head — Dermot's idea, 17 November 2026 — OPEN, waits on a page or chapter that needs it
+
+Kind, size, body, name and what *companion* means are all undecided; built by the people-body-design loop when needed. `story-bible/intake-2026-11-17.md`, last section.
+
 ## Whether boundary effects have really increased since the 21st century — raised and ruled by Dermot 17 November 2026 — the rate itself stays OPEN by design
 
 Ruled: detection and exposure explain the rise in reports; a flexure's address is fixed and its depth may vary slightly. Left open on purpose: whether the rate itself has changed (the Archive has no baseline). Never to be settled by a measurement in the record's present without him. `story-bible/intake-2026-11-17.md`.
