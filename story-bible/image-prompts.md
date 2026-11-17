@@ -3794,3 +3794,20 @@ The prompts of record are in `story-bible/images.md` § 69, with the references 
 
 ### chapters/s07e01c04.jpg — filed 17 November 2026
 - **Kind:** generation with a reference (`characters/sen.jpg`). Variation 1 of 2, as generated. No edit.
+
+## 2026-11-17 — Season 8 chapter illustrations, both (Fable, desktop)
+
+The record is in `story-bible/images.md` § 70. Both frames are Dermot's photographs. **Tool** for the one edit: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (one round, two takes). Filed by `import-image.ps1 -MaxEdge 1600 -Finish 0`. Two images in all, two asked. Nothing was refused.
+
+### chapters/s08e01c01.jpg — filed 17 November 2026
+- **Kind:** Dermot's own photograph as the plate, graded by hand, with one edit pasted back by registration and two heals by hand.
+- **Source:** `F:\129DALKY\DSC_9733.JPG` (13 June 2026, 12:40:39 camera time, 4608×3072). Crop 4608×2592 from row 250, reduced to 2752×1548 for the work and filed at 1600×900, no finish.
+- **Grade, by hand (NumPy), before the edit:** to linear light at gamma 2.2; exposure times 0.30; red times 0.84 and blue times 1.14; back to gamma; saturation times 0.72 about the pixel's mean; then times 0.97 plus 0.018 for a shadow floor. Nothing in the frame moves; the whole frame is darkened and cooled alike.
+- **Edit prompt** (sent with the graded crop and `src/images/lore/cnoc-na-mbeach.jpg`): the prompt of record in `images.md` § 70, as four numbered changes (the hives, the lamp, the walker, the posts and rope).
+  Take 1 did all four. Take 2 left the rope fence and drew more of it, with new posts beside the hives.
+- **Run, by hand (OpenCV):** take 1 registered to the graded crop by one homography (SIFT, 119 inliers of 155; the frame is dark and low in contrast, and the fit was checked on a difference map, which is flat everywhere but the changed places). Laid back, feathered 6 px: one box over the hives, stand, cloth and their shadow (1720,1000–2420,1410); one box over the doorway (812,985–900,1240); and, inside two bands (0,800–570,960 at the left skyline and 1300,800–2752,1000 across the right), only pixels whose blurred difference from the plate was over 7 and 10 levels, opened 3 px and dilated 17 px, which took the walker, the posts against the sky and most of the right-hand posts (45 small regions). The building, the boulders, the sky and the rest of the grass are his pixels. Then by hand on the result: the rope the edit had left across the middle ground and ten remaining post positions were inpainted along a drawn line (Telea, radius 5) and grained; three hand-hold recesses on the hive fronts were covered with a patch of each hive's own face from 31 to 33 px lower, matched to the surrounding mean and feathered. An inpaint of the hand-holds was tried first and smeared the lid's shadow down the face; it was not used.
+
+### chapters/s08e02c01.jpg — filed 17 November 2026
+- **Kind:** Dermot's own photograph, healed; no generated pixel is in it.
+- **Source:** `F:\111BOHER\DSC_2855.JPG` (15 August 2026, 12:28:36 camera time, 4608×3072). Healed at full size, then crop 4608×2592 from row 60, reduced to 2752×1548 and filed at 1600×900, no finish.
+- **Run, by hand (OpenCV):** a house showing white among the trees was covered with one elliptical patch of his own foliage, 290×160 px, taken from 320 px to its left and laid in with `cv2.seamlessClone` (destination corner 1880,740; source corner 1560,720). Two small white objects on the flat (near 2027,1258 and 2225,1245) were inpainted where brighter than 205, dilated 7 px (Telea, radius 4). A first pass at a lower threshold smeared a strip of pale mud beside them and was thrown away. Checked at twice size.
