@@ -252,7 +252,20 @@ The next chapter of Tissadelle's middle under the 18 October ruling (option A), 
 1. **The watch's word, *the dead Starwarden*.** *Not Asked* (S05E00C01) has Wender sit *"in a dead Starwarden's chair"*, while *Spent*'s canon fact says the post's Starwarden had *gone up*. The new chapter answers it in the story: the post's watch calls any Starwarden who has gone up *dead*, since she does not write back and is not to be asked. (a) **Recommended: keep it**; it makes the two chapters agree and costs one paragraph. (b) Cut the paragraph and change *dead* to *departed* in *Not Asked*, a clarification of published prose and so his. (c) Cut the paragraph and leave *dead* as a figure of speech.
 2. **A portrait for Emeka Lindahl.** His page has none and no body is stated. (a) **Recommended: leave it** until a second chapter uses him. (b) State a body and write a portrait prompt now.
 
-## The Chthonari body — four options put to Dermot, 17 November 2026 — OPEN, his to pick
+## The Chthonari body — four options put to Dermot, 17 November 2026 — RULED the same day: A
+
+**Ruled 17 November 2026.** Dermot, verbatim: *"A: the sole (Recommended)"*,
+and on the summary word, *"Outsider's loose term"*. The body is written in
+`species-design.md`, *Vessik and the Chthonari — Body: the sole (ruled 17 Nov
+2026)*; `chthonari.md` keeps *insectoid* and *insect-like* only as what
+off-worlders first called them, with the record's outline beside them. The
+owed second study round was run the same evening with blunt tips and no rim
+seam, and the four crew portraits and the two Season 10 frames were re-made
+on the A body; **none was filed**, because every take read as a toy, leather
+or cast metal (rung 3), and some limbs as fingers (rung 2), so the filed
+frames stay until a route to a living finish is found (`images.md`,
+*Chthonari body A, applied*). The entry below is kept as the record.
+
 
 His *"As recommended"* of 17 November 2026, to a body design pass: every
 filed Chthonari frame reads as an Earth beetle at a thumbnail, and the Season

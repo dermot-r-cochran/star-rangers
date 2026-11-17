@@ -2223,6 +2223,53 @@ stated plainly and never made a thing to flinch at; no mandibles, no dripping,
 no swarm. Colour is an illustration decision, not canon: dull slate carapace
 with a bronze cast, the Undersong's nickel-iron in it.
 
+**Chthonari body A, applied, 17 November 2026 (Opus, desktop): nothing filed.**
+Dermot, verbatim: *"A: the sole (Recommended)"* (the body, now in
+`species-design.md`, *Vessik and the Chthonari — Body: the sole*) and
+*"Outsider's loose term"* (on *insectoid*). The four portraits below and the
+two Season 10 frames that show the crew (`s10e01c02.jpg`, `s10e01c05.jpg`; no
+other Season 10 frame does) were to be re-made on the A body, rooms kept,
+body regions only. None passed the image critic, so **every filed frame stays
+as it is**, and their alts, which describe the frames, are unchanged. The
+sheet, each filed frame beside its best A take, is
+`chthonari-applied-2026-11-17.jpg` in the working folder (not in this
+repository); prompts and runs are in `image-prompts.md` under the same date.
+`scripts/image-edit.js`, `gemini-3.1-flash-image`, 2K, two takes each; 26
+generations, none refused.
+
+- **Second blockout round** (`scripts/blockouts/chthonari-a.py`; its grey
+  render is `reference-art/chthonari-body-2026-11-17.jpg`). Blunt round pads
+  in place of pointed tips, one flattened disc in place of two stacked (the
+  rim seam), a little unequal reach, one pad on the slab and one limb lifted.
+  Made photographic three ways, two takes each. **Even round limbs:** the
+  plan held, no crab, no turtle, no seam; the finish was a leather or sewn
+  toy (rung 3). **Thick-rooted limbs:** fingers (rung 2), and one take stood
+  the disc up on its limbs. **Hard tapered segments:** a cast-metal robot
+  (rung 3), and one take put a present-day camera on the deck.
+- **Text alone, no blockout:** the most photographic finish of the evening,
+  and the legs went back beneath a raised body, a crab (rung 1). An edit to
+  lower that body onto the deck changed nothing.
+- **The six frames, edited with the best blockout take as the body
+  reference:** each placed A bodies where the old ones stood, in its own
+  room; three of the twelve takes stood the body up on its limbs again. Every one read as a stuffed, rubber or clay figure
+  (rung 3); Tsikk's raised pair and C02's limb on the column read as fingers
+  (rung 2); C02 take 2 and Kattik's second being, drawn on a vertical face,
+  read as a tick. A finish pass on Kattik, once on its own and once with the
+  text-only take as a skin reference, did not change the finish.
+- **Stopped** under the two-round rule: three rounds at rung 3 from three
+  causes. **The cause:** the generator has no living surface for a short,
+  smooth, round limb on a flat body; it draws a toy if the limb is soft and a
+  machine if it is hard. **What next**, his to choose: an artist's
+  impression for the people (*When a photograph keeps failing*); or a
+  blockout whose limbs carry the record's own surface detail (the sensing
+  organs along each limb that `pekkat.jpg` draws as rows of small bronze
+  beads) so the finish has something living to hold; or option C's heavier
+  working pair drawn into A, which no study has tried.
+- **Not reached:** `kettsa.jpg`, `akkit.jpg` and `pekkat.jpg` also carry the
+  beetle body and fall under the same ruling; and Kettsa's page places the
+  uniform's tab *behind the head* (`kettsa.md`), which A's *no head* now
+  contradicts in prose. Both wait for the finish.
+
 - **`iklix-varn.jpg`** — *one step further from the desk than they need to be.*
   *(Held until 4 September 2026, when Dermot said what Varn looks like — "lean build, dark hair, quiet bearing" — and those three things went into the prompt verbatim in sense. Nothing else about the face is decided by the record; the picked image will decide it, which is why the choice is his.)*
   *(Revised the same evening on Dermot's reservation about the approved variant 1 — "does the technology look too old fashioned?" — yes: the six units came out as twentieth-century test gear, analogue meters, toggle switches and small tube screens in a rack, and the compartment as a mid-century submarine. Old instruments are canon; that idiom is not — Barsik's filing cabinets again. The person is now pinned to the approved image as a reference and the units described as sealed plain housings.)*
@@ -12453,6 +12500,8 @@ Dermot, 17 November 2026, verbatim: *"Yes, both"* (Season 10 now, beside an edit
 - **`kattik.jpg` and `tsikk.jpg`, done: the room only, to the kept understructure.** A first edit with `s10e01c02.jpg` sent as the place copied that frame's columns, viewpoint and composition into all four portraits and moved or resized the bodies (Tikket's shrank, Tsikk's was stood on a column's foot plate). None was used: four portraits with one background would have been one frame four times. A second edit, without a reference, kept each frame's camera and layout and changed only materials and fittings: large dark blue-grey plates with flush round fastenings, plain square columns and beams, curved walls, cool even light, and no lattice, pipes, cables, catwalk, lamps, rust or grime (take 1 of 2 used for each). The body was then laid back from the filed frame: the edit's non-blue silhouette, closed and dilated, intersected with a GrabCut of the filed frame, with dark leftovers of the old room dropped. **Passed and named:** the room is still more machine hall than C02's low plated space, and Kattik's has arched ribs with two diagonal braces at the left, Tsikk's diagonal struts at the right; Kattik's far being stands on a plain block where it stood on a machine, and its underside keeps a little of the old frame's grain; a small patch of the old floor's sand colour shows between Tsikk's left legs at full size; the bodies read as smooth as they always did (rung 3 at full size, which a room edit cannot change). Old frames: `negative-examples/kattik-2026-11-17.jpg`, `tsikk-2026-11-17.jpg`.
 - **`tikket.jpg` and `tekka.jpg`, left.** The same second edit gave each a clean plated room and kept the frame (both are on the sheet), but the body could not be laid back cleanly. Tikket's legs grip the bracket and Tekka's straddle the beam, so every mask that held the whole filed body also carried patches of the old rusty bracket or brown understructure between the legs, and every mask that dropped them left part of the body as the edit's redrawing, which is re-lit bluer. That is not *bodies untouched*, so neither was filed. Repair if he wants them: accept the edit's body, which keeps the shape, count and pose and changes only the light on it, or mask the two bodies by hand.
 - **`s10e01c05`, left.** The cause is rung 3 at its root: smooth, evenly lit, plasticine-like bodies, and a patch of hard light on the wall like sun through a window. Two tighter crops of the filed frame were tried first; both still read as figurines, and soft at 2× enlargement. One edit (two takes) took the scene again from a lower, closer camera, with the nearest being's carapace and two legs out of focus in the foreground, the hatch's foot behind for scale, and no sunlight. Both takes lost the toy reading and gained a worse one: a shallow-focus macro photograph of a beetle on a floor, the nearest Earth thing (rung 1) at a glance; in take 1 the writer's forelegs are off the slab. Neither is clearly better, so the filed frame stays. The close-frame lesson needs a part the Earth animal does not have, and every part of this body is a beetle's, which is a design question and Dermot's; no design pass was started.
+
+**Body A, 17 November 2026 (Opus, desktop).** Dermot ruled the Chthonari body that evening, *"A: the sole (Recommended)"*. C02 and C05 were edited to it with the rest of the crew's frames; neither take passed rung 3, so both frames stay as filed. The record is under the Orbital Five-O block, *Chthonari body A, applied*.
 
 **Clips.** Two prompts are written in `video-prompts.md` under *Season 10 chapter clips, written 17 November 2026*: the circuit (S10E01C06) and the telling through the deck (S10E01C05). The other five chapters have none, and the reasons are given there. Nothing has been generated.
 
