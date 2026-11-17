@@ -11,6 +11,8 @@ related:
   - "Rank and the Chain of Command"
   - "Universal Concord Standard Date (UCSD)"
 tags: [star-rangers, duty-season, service, ranks, society]
+image: "glossary/duty-season.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Society in spaced capitals at the top, a thin circle with twelve tick marks and a single hand in a soft glow at the centre, and below a short rule the title Duty Season in pale serif capitals, with the line “The Star Rangers' career clock”"
 ---
 
 **Duty season** is the Star Rangers' unit of career time: one [UCSD](/star-rangers/glossary/ucsd/) year, taken as the cycle that postings, certification renewals, rank boards and duty rosters all run on. In service speech it is simply *a season*. A Chief who has "held the department four seasons" has held it four years, an officer promoted "a season before the timeline usually allows" is a year ahead of the ordinary pace, and a superior who sees a specialist "twice a season" sees her twice a year.

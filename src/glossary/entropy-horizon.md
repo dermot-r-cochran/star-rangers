@@ -12,6 +12,8 @@ related:
   - "Predictive Closure"
   - "Threnos-Ω"
 tags: [entropy-horizon, closure, cei, universe-lifecycle]
+image: "glossary/entropy-horizon.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, a thin circle with twelve tick marks and a single hand in a soft glow at the centre, and below a short rule the title Entropy Horizon in pale serif capitals, with the line “Enters closure dynamics”"
 ---
 
 The **Entropy Horizon** is the threshold after which novelty production in a universe becomes structurally non-self-renewing. Beyond this point, the universe can still evolve and generate change — but that change is recombinational rather than genuinely emergent.

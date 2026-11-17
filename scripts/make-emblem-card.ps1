@@ -156,6 +156,8 @@ function Draw-Device($g, [string]$Kind, $Pen, [single]$Cx, [single]$Cy, [single]
                               [System.Drawing.PointF]::new($Cx, $Cy+$R),
                               [System.Drawing.PointF]::new($Cx-$R*0.5, $Cy+$R*0.8),
                               [System.Drawing.PointF]::new($Cx-$R*0.72, $Cy+$R*0.15))
+                 # Closed (17 November 2026): left open, the shield lost its left side.
+                 $p.CloseFigure()
                  $g.DrawPath($Pen, $p) }
   }
 }
@@ -255,6 +257,9 @@ if (-not $fm.ContainsKey('image')) { Write-Error "$Page has no image: field"; ex
 
 $dir = if ($Page -like '*\lore\*') { 'lore' } elseif ($Page -like '*\characters\*') { 'characters' } else { 'hero' }
 $out = Join-Path (Join-Path $ImagesDir $dir) ($fm['image'] -replace '/','\')
+# A glossary entry's image carries its own folder (lib/content-schema.js, 2026-11-17),
+# so its card is drawn at the path the value names, normally glossary\<slug>.jpg.
+if ($Page -like '*\glossary\*') { $out = Join-Path $ImagesDir ($fm['image'] -replace '/','\') }
 $title = if ($fm.ContainsKey('title')) { $fm['title'] } else { [IO.Path]::GetFileNameWithoutExtension($Page) }
 $cat = if ($fm.ContainsKey('category')) { $fm['category'] } else { '' }
 

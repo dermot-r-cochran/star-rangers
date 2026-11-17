@@ -13,6 +13,8 @@ related:
   - "Cosmic Cascade"
   - "Worldwright"
 tags: [formtype, formwright, formcluster, cascade, cosmology]
+image: "glossary/formtype.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Formtype in pale serif capitals, with the line “The grammar archetypes are assembled in”"
 ---
 
 A **formtype** is one of the lawful templates a Formwright instantiates: a structure built out of its [Metawright's](/star-rangers/lore/cosmic-cascade/) mathematics, settling what forms are available to be built out of at all. The universes descending from one Formwright's formtypes constitute its [formcluster](/star-rangers/glossary/formcluster/).

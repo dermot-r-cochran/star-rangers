@@ -16,6 +16,8 @@ related:
   - "Worldwright"
   - "Boundary Zone"
 tags: [concordant-principal, harmonarch, concordant, governance, cosmology, cascade]
+image: "glossary/concordant-principal.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Concordant Principal in pale serif capitals, with the line “Commonly called a Harmonarch”"
 ---
 
 A **Concordant Principal**, commonly called a **Harmonarch** (plural: **Harmonarchs**), is the governing mind of a single [Concordant Zone](/star-rangers/glossary/concordant/). It administers the zone's physical and [Etheric](/star-rangers/glossary/etheric/) rule-set, keeping the zone's conditions coherent day to day, and answers to the universe's [Universal Authority](/star-rangers/glossary/universal-authority/). "Concordant Principal" is the formal office title, "Harmonarch" is the common form, and both are canonical.

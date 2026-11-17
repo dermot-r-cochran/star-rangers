@@ -13,6 +13,8 @@ related:
   - "Inner World Depth (IWD)"
   - "Seed Mind Lifecycle"
 tags: [ufi, noogenic, fertility, seed-minds]
+image: "glossary/universe-fertility-index-ufi.jpg"
+image_alt: "Designed emblem card on a dark blue-violet ground: the category Noögenics in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Universe Fertility Index (UFI) in pale serif capitals, with the line “How effectively its civilizations produce viable seed minds”"
 ---
 
 The **Universe Fertility Index (UFI)** tracks the structural readiness of a universe to produce transferable [Noöseeds](/star-rangers/glossary/nooseed/) and, by extension, to initiate successor universes.

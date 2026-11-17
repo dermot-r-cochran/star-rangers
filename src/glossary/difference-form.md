@@ -10,6 +10,8 @@ plain: "An amendment to the law never rewrites the whole document. It says exact
 related:
   - "Enrolled Text"
 tags: [records, governance, law, concord, amendments, difference-form]
+image: "glossary/difference-form.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Records in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Difference Form in pale serif capitals, with the line “State only what changes”"
 ---
 
 **Difference form** is the drafting form the constitutional register requires of every amendment to an [enrolled text](/star-rangers/glossary/enrolled-text/): the amendment does not restate the law. It states only what it changes (*strike these words at this clause; insert these words after that one*), against a named, dated state of the text. It carries its date, its sponsors, the reasons argued for it, and the exact prior wording it presumes to find.

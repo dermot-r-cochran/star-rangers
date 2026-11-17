@@ -10,6 +10,8 @@ plain: "Arilonian names the whole family of devotional traditions descended from
 related:
   - "Kieme"
 tags: [arilonian, devotional-traditions, arilon, fellowship-of-light, culture]
+image: "lore/arilon.jpg"
+image_alt: "Overlapping translucent silhouettes of robed figures at different scales on a pale parchment ground, none of them in focus and none dominant"
 ---
 
 **Arilonian** names the family of devotional traditions descended from the [Arilon](/star-rangers/lore/arilon/) accounts. It is named for the figure, as such traditions usually are, and is deliberately silent on what the figure was. [Champion](/star-rangers/glossary/champions-heroes/), [avatar](/star-rangers/glossary/avatar/), or the incarnation of [Kieme](/star-rangers/glossary/kieme/) itself: every reading is an Arilonian reading, and the word endorses none of them.

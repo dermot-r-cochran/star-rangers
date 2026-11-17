@@ -13064,3 +13064,103 @@ The second half of Season 12, at Dermot's *"Yes, seasons 12, 13 and 14, please"*
 - **The season has no hero.** None was made.
 
 **Clips.** Two more prompts are written in `video-prompts.md` under *Season 12 chapter clips, written 17 November 2026*: forty seconds at the passage mouth (S12E02C01) and the light going round (S12E02C03). *Nominal* has none, and the reason is given there. Nothing has been generated.
+
+### 81. Glossary entries: every entry carries a picture or a diagram (17 November 2026, Opus, desktop)
+At Dermot's *"Yes, start them"* of 17 November 2026 (the glossary and timeline pages, after all 124 chapters had their pictures), on the plan he saw: glossary entries borrow the image of the page, place or people they are about; nothing is generated where a filed image fits; abstract terms take an emblem card, a drawn diagram or codex-medium art; a page goes bare only as the stated last resort. The reason is his of 15 November: *"every page would benefit from an image or video"* and *"I am trying to support visual readers"*, with the one exception *"where image generation fails two or three times and no diagram or other card is possible."* The timeline is a separate section.
+
+**The engine.** A glossary entry's `image:` is the path below `src/images/` with its folder (`lore/plainmark.jpg`, `characters/agent-barsik.jpg`, `glossary/kieme.jpg`), unlike every other type, because most entries borrow another page's picture and one picture shared by two pages is one file and two references, never a copy (`lib/content-schema.js`; `glossary-entry.njk`, `.eleventy.js` `OG_IMAGE_DIRS`, `validate-content.js` `IMAGE_DIR_BY_SECTION` follow it). Cards made for the glossary itself are in `src/images/glossary/`. The glossary index shows only the shorts and stays image-free. `make-emblem-card.ps1` draws a glossary card at the path the entry names; its shield is the closed outline fixed in the timeline PR the same day.
+
+**Counts** (85 entries on `origin/main`; the five redirect stubs are not entries): 19 borrowed, 6 take the existing card of the lore page that defines the same thing, 58 new emblem cards (one of them also serves Frenar, the legacy synonym for Celestials), 1 new inline diagram, nothing generated, none bare.
+
+**Borrowed** (entry → filed image; each chosen because it shows what the entry defines):
+- `ai-safety-archetype` → `lore/made-minds-and-the-ai-safety-archetype.jpg`
+- `arilonian` → `lore/arilon.jpg`
+- `boundary-zone` → `lore/boundary-zones.jpg`
+- `cosmic-cascade` → `lore/cosmic-cascade.jpg`
+- `generalised-quantum-mechanics` → `lore/generalised-quantum-mechanics.jpg`
+- `intermembrane-bleed` → `lore/concordant-membranes.jpg`
+- `krenyi` → `characters/toval.jpg`
+- `membrane-shadow` → `lore/membrane-shadows.jpg`
+- `noogenic-seeding-law` → `lore/noogenic-seeding-system.jpg`
+- `ollune` → `lore/ollune.jpg`
+- `plainmark` → `lore/plainmark.jpg`
+- `quantum-space-harmonic-wave` → `lore/quantum-space-harmonics.jpg`
+- `robot` → `lore/embodied-cognition.jpg`
+- `scope-of-physical-law` → `lore/the-scope-of-physical-law.jpg`
+- `smart-pet` → `characters/agent-barsik.jpg`
+- `the-told` → `chapters/s11e01c03.jpg`
+- `ucsd` → `lore/universal-cosmic-stardate.jpg`
+- `universal-authority` → `lore/who-governs-a-universe.jpg`
+- `universe-overlap` → `lore/universe-overlap-and-folding.jpg`
+
+Notes on the borrowed set: *The Told* takes `s11e01c03.jpg`, five of the people together, rather than one portrait, since the entry defines the people. *Krenyi* takes Toval's portrait, a Krenyi adult, rather than the lore page's silhouette card. *Smart Pet* takes Agent Barsik, the Undercover Pets agent whose agency the entry names. *Robot* takes `embodied-cognition.jpg`, a chassis with no face and no mind shown, which is the entry's own distinction. *Cosmic Cascade* takes its lore page's Milky Way photograph, which shows the sky rather than the hierarchy; it is the same-subject page's choice, kept rather than overridden.
+
+**Existing cards of the defining lore page:** `ai-usage-credits-auc` → `lore/ai-usage-credits.jpg`, `archecluster` → `lore/archecluster.jpg`, `common-manifold` → `lore/post-eleven-dimensional-manifold.jpg`, `ftl-mechanics` → `lore/ftl-mechanics.jpg`, `kernel-compliant` → `lore/ai-safety-kernel.jpg`, `levril` → `lore/levrils.jpg`.
+
+**New emblem cards** (`scripts/make-emblem-card.ps1`, `-Finish` not applicable: drawn, not imported). The device is from the geometric vocabulary; the epithet line on each is a phrase taken verbatim from the entry (checked by script against the entry's text), so no card states a fact the entry does not. Palettes by category: Cosmology and Cosmic Cascade the violet-navy of the cosmology cards (`#1A1830`/`#B4AEDA`); Physics and Misconception blue-black; Society, Records and Institutions slate; Noögenics blue-violet; Technology green-black; Entities and Species violet-black; Culture and Practices warm brown-black. The commands are in `image-prompts.md` under 17 November 2026.
+
+- `ashwardens` → `glossary/ashwardens.jpg`, rings, *Known by its interventions*
+- `avatar` → `glossary/avatar.jpg`, figure, *An incarnation of a timeless stratum*
+- `caomhari` → `glossary/caomhari.jpg`, figure, *Class II, and not predatory*
+- `celestials` → `glossary/celestials.jpg`, chevron, *Operational enforcement tier*
+- `champions-heroes` → `glossary/champions-heroes.jpg`, figure, *The lowest named tier of the Cascade*
+- `commissioned-standing` → `glossary/commissioned-standing.jpg`, shield, *Not personal property, not saleable, not scrappable*
+- `conceptual-conservation` → `glossary/conceptual-conservation.jpg`, rings, *No coherent mind is lost*
+- `concordant` → `glossary/concordant.jpg`, sphere, *Internally consistent physical and Etheric rules*
+- `concordant-principal` → `glossary/concordant-principal.jpg`, rings, *Commonly called a Harmonarch*
+- `conseleme` → `glossary/conseleme.jpg`, triad, *The third tier of the Cosmic Cascade*
+- `constraint-literacy` → `glossary/constraint-literacy.jpg`, triad, *Not magic.*
+- `council-of-harmonarchs` → `glossary/council-of-harmonarchs.jpg`, rings, *Every Concordant Principal in a universe, sitting together*
+- `creative-entropy-index-cei` → `glossary/creative-entropy-index-cei.jpg`, sundial, *Novelty throughput and branch-space vitality across time*
+- `cyborg` → `glossary/cyborg.jpg`, figure, *Physical cybernetic modification to the body itself*
+- `difference-form` → `glossary/difference-form.jpg`, triad, *State only what changes*
+- `duty-season` → `glossary/duty-season.jpg`, sundial, *The Star Rangers' career clock*
+- `enrolled-text` → `glossary/enrolled-text.jpg`, rings, *Enrolled once and never edited in place*
+- `entropy-horizon` → `glossary/entropy-horizon.jpg`, sundial, *Enters closure dynamics*
+- `etheric` → `glossary/etheric.jpg`, triad, *Layer 3 of the Five Layers of Reality*
+- `formcluster` → `glossary/formcluster.jpg`, rings, *The foundation an archecluster is drawn on*
+- `formtype` → `glossary/formtype.jpg`, triad, *The grammar archetypes are assembled in*
+- `general-operations` → `glossary/general-operations.jpg`, chevron, *A service track of the Star Rangers, not a corps*
+- `gilded-saints` → `glossary/gilded-saints.jpg`, triad, *Appear as worthy causes or sacred duties*
+- `high-celestials` → `glossary/high-celestials.jpg`, chevron, *Ambiguous legacy designation, retired*
+- `higher-dimensional-folding` → `glossary/higher-dimensional-folding.jpg`, fold, *The long-range one*
+- `hyperomnium` → `glossary/hyperomnium.jpg`, sphere, *The highest fixed tier in the Cosmic Cascade*
+- `inner-world-depth-iwd` → `glossary/inner-world-depth-iwd.jpg`, rings, *Layered interior mind complexity*
+- `instrument-drift` → `glossary/instrument-drift.jpg`, fold, *The disagreement between measuring instruments*
+- `interval` → `glossary/interval.jpg`, fold, *The separation between two adjacent cosmic membranes*
+- `kieme` → `glossary/kieme.jpg`, rings, *The second tier of the Cosmic Cascade*
+- `local-bulk` → `glossary/local-bulk.jpg`, rings, *One bulk may hold a very large number of membranes*
+- `luminescent-ethereal-beings` → `glossary/luminescent-ethereal-beings.jpg`, sphere, *Luminous by their own envelope's coupling of sound and light*
+- `mediarch` → `glossary/mediarch.jpg`, triad, *Gravity, Electromagnetics, Nature*
+- `metafold` → `glossary/metafold.jpg`, fold, *A popular misnomer*
+- `naiad` → `glossary/naiad.jpg`, rings, *Flow-anchored entities*
+- `noogenic-protouniverse` → `glossary/noogenic-protouniverse.jpg`, sphere, *The nascent universe-state*
+- `noogenic-seed-potential-nsp` → `glossary/noogenic-seed-potential-nsp.jpg`, rings, *The probability that a mind can compress into a stable noöseed*
+- `nooseed` → `glossary/nooseed.jpg`, sphere, *A compressed, transferable mind-state*
+- `obligers` → `glossary/obligers.jpg`, triad, *Feed on ambiguity, desire loops, and social debt*
+- `overfold` → `glossary/overfold.jpg`, fold, *The Fellowship of Light's traditional term*
+- `photographic-beings` → `glossary/photographic-beings.jpg`, figure, *The Membrane Shadow's converging case*
+- `plural-minds` → `glossary/plural-minds.jpg`, triad, *An ordinary, lawful arrangement*
+- `predictive-closure` → `glossary/predictive-closure.jpg`, sundial, *Durable surprise approaches zero*
+- `prophet` → `glossary/prophet.jpg`, figure, *One of the five channels*
+- `reclaimers` → `glossary/reclaimers.jpg`, rings, *In passes, flows and pass-throughs*
+- `sel` → `glossary/sel.jpg`, triad, *sel, selm, sels*
+- `simian` → `glossary/simian.jpg`, figure, *Earth's non-human primates*
+- `slipwave` → `glossary/slipwave.jpg`, lagrange, *A three-person spacer-folk band*
+- `spoke-car` → `glossary/spoke-car.jpg`, fold, *A connector, not a commute*
+- `tafs` → `glossary/tafs.jpg`, rings, *Known in the record only by its initials*
+- `telearch` → `glossary/telearch.jpg`, chevron, *The Cascade's continuity branch*
+- `the-seanad-draw` → `glossary/the-seanad-draw.jpg`, triad, *Draws its candidates by lot from its own citizens*
+- `uncommissioned` → `glossary/uncommissioned.jpg`, shield, *A statement about paperwork*
+- `unfounded` → `glossary/unfounded.jpg`, triad, *Underwritten by no origin condition*
+- `universe-fertility-index-ufi` → `glossary/universe-fertility-index-ufi.jpg`, rings, *How effectively its civilizations produce viable seed minds*
+- `virtual-reality` → `glossary/virtual-reality.jpg`, sphere, *A technology in retreat as mass entertainment*
+- `worldwright` → `glossary/worldwright.jpg`, sphere, *The Cascade tier that creates primary universes*
+- `xenomusicology` → `glossary/xenomusicology.jpg`, lagrange, *How the peoples the Rangers meet understand music*
+- `frenar` → `glossary/celestials.jpg` (one file, two references: the entry says Frenar is the legacy synonym for Celestials)
+
+**New diagram.** *Compact Dimensions* states its numbers (three extended, seven compact, one of time; one of the seven the local bulk's own direction), so it carries an inline-SVG figure of the eleven under the 29 September convention, drawn from those numbers only, in the site's diagram classes, and read back in the browser on the default dark palette, the light palette and Windows high contrast. It has no hero `image:`; the diagram is the picture.
+
+**Children's tier.** The six entries the pets edition carries (Boundary Zone, Cyborg, Plural Minds, Smart Pet, UCSD, Unfounded) and the seventh the Told edition adds (The Told): Agent Barsik and `s11e01c03.jpg` are already carried there; Cyborg, Plural Minds and Unfounded take new cards; Boundary Zone (`lore/boundary-zones.jpg`, a nebula) and UCSD (`lore/universal-cosmic-stardate.jpg`, six sealed housings in a pale room) borrow lore images the children's tier did not carry before. Neither has a figure or anything unsettling in it, so both are judged to clear the bar; named here for his eye. `check-children-glossary.js` passes.
+
+**For his eye, not done.** Several cards stand where a picture could one day: *Spoke Car* (a vessel part with no filed image and no sheet in `starship-design.md`), *Slipwave* (the band has no picture; its recordings have covers), *Simian* (a camera can photograph Earth's primates, so one of his own frames would be the route, never a generation), and the two Caomhari entries (a people with no body on record). None was generated, since a card fits each and the plan put generation last.

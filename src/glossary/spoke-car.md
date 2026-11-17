@@ -12,6 +12,8 @@ related:
   - "The Ring-Rail"
   - "Eden Space Habitat"
 tags: [spoke-car, eden, transit, infrastructure, orbital-habitats-compact, technology]
+image: "glossary/spoke-car.jpg"
+image_alt: "Designed emblem card on a dark green-black ground: the category Technology in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title Spoke Car in pale serif capitals, with the line “A connector, not a commute”"
 ---
 
 A **spoke car** is the radial car of a spin habitat: it runs the length of one of the spokes that join the low-gravity hub to the inhabited ring, and it is how a body gets from one to the other. On [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/) the hub carries docking, cargo transfer and the offices clustered nearest the Eden Passage monitoring stations. The ring carries nearly everything else, under full spin. [The Ring-Rail](/star-rangers/lore/eden-ring-rail/) circles the ring and is where the habitat's daily life happens. The spoke cars are the much shorter set that cross between the two. The record's own distinction is the useful one: *the spokes are a connector, not a commute*.

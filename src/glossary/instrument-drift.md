@@ -12,6 +12,8 @@ related:
   - "Boundary Zone"
   - "Concordant"
 tags: [instrument-drift, boundary, physical-effects]
+image: "glossary/instrument-drift.jpg"
+image_alt: "Designed emblem card on a dark blue-black ground: the category Physics in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title Instrument Drift in pale serif capitals, with the line “The disagreement between measuring instruments”"
 ---
 
 **Instrument drift** is the phenomenon by which two correctly calibrated instruments produce different readings when placed at different positions within a boundary zone.

@@ -12,6 +12,8 @@ related:
   - "The Star Rangers Music Corps"
   - "Slipwave"
   - "The Star Rangers Academy"
+image: "glossary/xenomusicology.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Institutions in spaced capitals at the top, a thin arc drawn above five small circles in a soft glow at the centre, and below a short rule the title Xenomusicology in pale serif capitals, with the line “How the peoples the Rangers meet understand music”"
 ---
 
 **Xenomusicology** is the branch of the [Music Corps](/star-rangers/lore/star-rangers-music-corps/) that asks one question of every people the Rangers meet: what is music to you, and if nothing is, what stands where it would stand? It is a school of the [Academy](/star-rangers/lore/star-rangers-academy/) in the ordinary way, constituted when the body of work grew large enough to need its own standard, and it holds the Corps' study of music across cultures and across bodies, in that order, which is the order the cases arrive in.

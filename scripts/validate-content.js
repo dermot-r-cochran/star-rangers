@@ -337,14 +337,15 @@ function checkFrontMatterImageExists(data, relativePath, index) {
 // The map mirrors the six layouts that hardcode a category directory
 // (character.njk, codex.njk, lore-entry.njk, glossary-entry.njk, chapter.njk,
 // and journal-entry.njk since 2026-11-15).
-// Two of them - glossary and chapters - have no page carrying an `image:`
-// today, so those rows are dormant rather than dead: they cost nothing and the
-// first such page gets checked instead of quietly 404ing.
+// Glossary is the exception (2026-11-17): its value is the path below
+// src/images/ with the folder included ("lore/plainmark.jpg"), because an
+// entry usually borrows another page's picture and one picture is one file
+// (lib/content-schema.js); "" below means exactly that.
 const IMAGE_DIR_BY_SECTION = {
   characters: "characters",
   codex: "codex",
   lore: "lore",
-  glossary: "glossary",
+  glossary: "",
   seasons: "chapters",
   journal: "journal"
 };
@@ -353,9 +354,9 @@ function checkFrontMatterImageUrlResolves(data, relativePath, index) {
   if (isBlank(data.image)) return [];
   const section = relativePath.split(/[/\\]/)[1]; // "src/lore/planets/x.md" -> "lore"
   const dir = IMAGE_DIR_BY_SECTION[section];
-  if (!dir) return [];
+  if (dir === undefined) return [];
   const value = String(data.image).replace(/^\/+/, "");
-  const rel = `${dir}/${value}`;
+  const rel = dir ? `${dir}/${value}` : value;
   if (index.byRelPath.has(rel)) return [];
   const elsewhere = index.byBasename.get(path.basename(value).replace(/\.[^.]+$/, "")) || [];
   return [

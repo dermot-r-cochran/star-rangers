@@ -13,6 +13,8 @@ related:
   - "Concordant"
   - "Universe Overlap"
 tags: [ftl, physics, transit, concordant]
+image: "lore/ftl-mechanics.jpg"
+image_alt: "Designed title card on a dark blue-black star field: the category PHYSICS in spaced capitals at the top, a faint glow behind a thin line drawing of a single wave running between two small circles, and below a rule the title FTL MECHANICS in pale serif capitals, subtitled 'Channels and Their Constraints' and 'How transit is bought, and what it costs'."
 ---
 
 Faster-than-light transit in the documented universe runs through exactly two lawful channels, and every certified drive ever flown has used one of them:

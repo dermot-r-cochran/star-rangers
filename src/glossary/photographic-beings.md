@@ -14,6 +14,8 @@ related:
   - "Concordant"
   - "The Kingdom of the Five Islands"
 tags: [photographic-beings, membrane-shadow, gravitational-bleed, boundary-zone, cosmology, five-islands]
+image: "glossary/photographic-beings.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, the thin outline of an oval head over an arch in a soft glow at the centre, and below a short rule the title Photographic Beings in pale serif capitals, with the line “The Membrane Shadow's converging case”"
 ---
 
 A **Photographic Being** is the bright case of the [Membrane Shadow](/star-rangers/glossary/membrane-shadow/): the same geometric strain between two membranes at Type III proximity, patterned by a coherent mass on the far side of a narrowed [Interval](/star-rangers/glossary/interval/), seen where the strain's geometry *converges* rather than diverges. A Shadow is where the bent light goes away from the observer and leaves a silhouette; a Photographic Being is where the bent light is brought together, and the far side's outline stands in the air as a figure made of gathered daylight. The Survey Corps files the class as a *membrane caustic*, the optical term for exactly this: light concentrated by a lens rather than blocked by it. The name that carries is the one the [Kingdom of the Five Islands](/star-rangers/lore/planets/kingdom-of-the-five-islands/) gave them first.

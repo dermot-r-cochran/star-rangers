@@ -49,7 +49,9 @@ const OG_IMAGE_DIRS = {
   character: "characters",
   lore: "lore",
   codex: "codex",
-  glossary: "glossary",
+  // "" = the value carries its own folder ("lore/x.jpg"): a glossary entry
+  // usually borrows another page's picture (lib/content-schema.js).
+  glossary: "",
   chapter: "chapters",
   journal: "journal"
 };
@@ -94,6 +96,7 @@ function computeOgImage(data, included) {
   const kind = classifyContentPath(data.page && data.page.inputPath);
   const dir = OG_IMAGE_DIRS[kind];
   if (dir && data.image) return `/images/${dir}/${data.image}`;
+  if (dir === "" && data.image) return `/images/${String(data.image).replace(/^\/+/, "")}`;
   return kind === "journal" ? JOURNAL_OG_IMAGE : DEFAULT_OG_IMAGE;
 }
 

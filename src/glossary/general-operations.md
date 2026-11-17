@@ -12,6 +12,8 @@ related:
   - "Rank, Insignia, and the Ranger Uniform"
   - "Threshold Station"
 tags: [general-operations, service-track, chief-ranger, starwarden, rank]
+image: "glossary/general-operations.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Institutions in spaced capitals at the top, three stacked chevrons in a soft glow at the centre, and below a short rule the title General Operations in pale serif capitals, with the line “A service track of the Star Rangers, not a corps”"
 ---
 
 **General operations** is a service track of the Star Rangers, shown in slate blue on the rank tab. A track is not a corps. It is assigned independently, so a Ranger of any corps may hold the general operations track, and a track can change while the corps stays the same. [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/) came in through the Music Corps' college, opened her service on general operations, rotated to the Survey track and back, and never changed corps to do it.

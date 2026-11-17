@@ -14,6 +14,8 @@ related:
   - "Concordant"
   - "Noögenic Protouniverse"
 tags: [archecluster, archewright, cascade, cosmology]
+image: "lore/archecluster.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Inside an Archecluster in pale serif capitals."
 ---
 
 An **archecluster** is the set of universes that trace to a single Archewright: every primary universe built inside that Archewright's archetypes and possibility space, together with the derived universes descended from them and the universes raised from any of these by [noögenic seeding](/star-rangers/glossary/noogenic-protouniverse/), which belong to their parent's cluster by descent and inherit its archetype vocabulary but not its rule-sets. One tier up, the [formcluster](/star-rangers/glossary/formcluster/) is the set of archeclusters whose archetypes were drawn from a single Formwright's lawful templates. [Archewrights define archetypes and possibility space](/star-rangers/lore/worldwrights/competing-designs/); [Worldwrights](/star-rangers/glossary/worldwright/) instantiate primary universes within it. The cluster is therefore a fact about *authorship*, one tier above the vessels themselves.

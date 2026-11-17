@@ -13,6 +13,8 @@ related:
   - "Boundary Zone"
   - "Etheric"
 tags: [gilded-saints, predatory-entities, virtue, closure, meta-dimensional, sapient-monster]
+image: "glossary/gilded-saints.jpg"
+image_alt: "Designed emblem card on a dark violet-black ground: the category Entities in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Gilded Saints in pale serif capitals, with the line “Appear as worthy causes or sacred duties”"
 ---
 
 **Gilded Saints** are sapient meta-dimensional predators, **Class II** in the [meta-dimensional beings classification](/star-rangers/lore/meta-dimensional-beings/). They have no Cascade standing and are not bound by or protected by Cascade constraints.

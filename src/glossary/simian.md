@@ -14,6 +14,8 @@ related:
   - "Smart Pet"
   - "The Crisis Centuries: Terran Wildlife from Collapse to Stewardship"
 tags: [simian, species, taxonomy, terran-wildlife, primates, records]
+image: "glossary/simian.jpg"
+image_alt: "Designed emblem card on a dark violet-black ground: the category Species in spaced capitals at the top, the thin outline of an oval head over an arch in a soft glow at the centre, and below a short rule the title Simian in pale serif capitals, with the line “Earth's non-human primates”"
 ---
 
 **Simian**, in record usage, means **any Earth-lineage primate that is not a human being**: the apes, the monkeys, and, by the record's deliberately generous drawing of the line, the lemurs, lorises and tarsiers a strict Earth taxonomist would have kept outside the word. The usage is a stipulation, and the record states it as one rather than inheriting it, because there was nothing coherent to inherit.

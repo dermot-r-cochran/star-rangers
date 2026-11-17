@@ -14,6 +14,8 @@ related:
   - "Cyborg"
   - "AI Safety Archetype"
 tags: [ai, kernel-compliant, certification, commissioning, regulation, society]
+image: "lore/ai-safety-kernel.jpg"
+image_alt: "Designed cover for The AI Safety Kernel: a plain shield outline in a soft glow under the category Technology, with the title below, on a dark slate background."
 ---
 
 **Kernel-compliant** is a certification status: the condition of an agentic system that carries the [AI Safety Kernel's](/star-rangers/lore/ai-safety-kernel/) invariant hierarchy as binding structural architecture, certified into it at [commissioning](/star-rangers/codex/the-commissioning-standard-annotated/) and nowhere else. It is the baseline every lawful agentic system in the [Solar System Concord](/star-rangers/lore/solar-system-concord/) must meet, and it is a statement about certification, not about being a machine of any particular kind. The status attaches wherever agentic cognition passes the gate: a ship's navigational intelligence, a habitat collective, a police robot, a [Smart Pet's](/star-rangers/glossary/smart-pet/) cognitive subsystem, a single persona of a plural system (as [the Eden Warden's](/star-rangers/characters/eden-warden/) Ward and Custos each hold it), or the AI subsystem a [cyborg](/star-rangers/glossary/cyborg/) may separately carry alongside their own certification.

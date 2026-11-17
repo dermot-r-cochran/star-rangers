@@ -16,6 +16,8 @@ related:
   - "Champions / Heroes (Heros)"
   - "Concordant"
 tags: [cosmic-cascade, hierarchy, cosmology, causality]
+image: "lore/cosmic-cascade.jpg"
+image_alt: "A night-sky photograph of the Milky Way, its band of violet star clouds and dark dust lanes running diagonally across the frame, thousands of individual stars resolved around it"
 ---
 
 The **Cosmic Cascade** is the fixed ordering of causal authority in the Grand Ensemble Multiverse. It is ontological, not political: a structural description of how causality resolves, not a claim about which tier is most virtuous.

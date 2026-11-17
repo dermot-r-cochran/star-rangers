@@ -14,6 +14,8 @@ related:
   - "Universe Fertility Index (UFI)"
   - "Virtual Reality"
 tags: [cei, creative-entropy, cosmology, lifecycle]
+image: "glossary/creative-entropy-index-cei.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, a thin circle with twelve tick marks and a single hand in a soft glow at the centre, and below a short rule the title Creative Entropy Index (CEI) in pale serif capitals, with the line “Novelty throughput and branch-space vitality across time”"
 ---
 
 The **Creative Entropy Index (CEI)** measures how much meaningful novelty a universe can still generate per epoch: its remaining capacity for genuine emergence rather than recombination.

@@ -12,6 +12,8 @@ related:
   - "Creative Entropy Index (CEI)"
   - "Threnos-Ω"
 tags: [predictive-closure, entropy-horizon, cei]
+image: "glossary/predictive-closure.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, a thin circle with twelve tick marks and a single hand in a soft glow at the centre, and below a short rule the title Predictive Closure in pale serif capitals, with the line “Durable surprise approaches zero”"
 ---
 
 **Predictive Closure** is the stabilised condition that follows entropy horizon crossing. In predictive closure, systems still evolve, but most change is recombinational rather than genuinely novel. The range of possible futures narrows until durable surprise approaches zero.

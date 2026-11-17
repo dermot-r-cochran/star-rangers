@@ -13,6 +13,8 @@ related:
   - "Instrument Drift"
   - "Etheric"
 tags: [boundary, concordant, cosmology, undercover-pets.com]
+image: "lore/boundary-zones.jpg"
+image_alt: "A wide, highly saturated nebula: rust and orange cloud on the left, a white and pale-blue core around a single bright starburst in the centre, and teal, yellow and magenta cloud on the right"
 ---
 
 A **boundary zone** is a region where two sets of physical and [Etheric](/star-rangers/glossary/etheric/) conditions meet and neither wholly governs. Where that happens, the difference between them becomes measurable.

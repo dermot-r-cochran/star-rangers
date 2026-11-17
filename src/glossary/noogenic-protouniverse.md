@@ -15,6 +15,8 @@ related:
   - "Worldwright"
   - "Concordant"
 tags: [noogenic, protouniverse, nooseed, telearch, cascade, jurisdiction, hierarchy]
+image: "glossary/noogenic-protouniverse.jpg"
+image_alt: "Designed emblem card on a dark blue-violet ground: the category Noögenics in spaced capitals at the top, a single plain circle in a soft glow at the centre, and below a short rule the title Noögenic Protouniverse in pale serif capitals, with the line “The nascent universe-state”"
 ---
 
 A **Noögenic Protouniverse** is the nascent universe-state that begins the moment a Noöseed completes transference (Phase 7 of the [Seed Mind Lifecycle](/star-rangers/lore/seed-mind-lifecycle/)) and initializes successor-universe emergence.

@@ -15,6 +15,8 @@ related:
   - "Krenyi"
   - "Heritable Modification Protocols"
 tags: [smart-pet, animal-welfare, ai, kernel-compliant, detective-agency, species, undercover-pets.com]
+image: "characters/agent-barsik.jpg"
+image_alt: "Agent Barsik, a sleek black cat with amber eyes and a plain round tag on his collar, sitting upright in the middle of an empty desk in a warm, rounded Eden office"
 ---
 
 **Smart Pet** is the formal classification for an animal carrying a certified AI cognitive subsystem, rather than a description of temperament or training. [Agent Barsik](/star-rangers/characters/agent-barsik/), trainee [Bubochka](/star-rangers/characters/bubochka/) and [Aldera](/star-rangers/characters/aldera/) all hold the status without carrying any physical cybernetic modification at all. A Smart Pet is not, by definition, a [cyborg](/star-rangers/glossary/cyborg/). It is an animal whose own cognition runs alongside a subsystem lawful enough to be held to the [AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/). It is that subsystem, not the animal wearing it, that the regulation is written to govern.

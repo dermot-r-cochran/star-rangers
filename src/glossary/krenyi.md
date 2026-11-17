@@ -12,6 +12,8 @@ related:
   - "Naiad"
   - "Obligers"
 tags: [krenyi, species]
+image: "characters/toval.jpg"
+image_alt: "Toval, a young Krenyi who reads at first as an ordinary young man, short dark hair and dark eyes set a little wide, in an olive field jacket, writing at a plain table in a pale room"
 ---
 
 **Krenyi** is the preferred species name for the beings also called the Quiet-Built or identified by the state-marker *Nai*. The formal term is used in cross-species contexts to prevent confusion with [Naiads](/star-rangers/glossary/naiad/), which are flow-anchored entities rather than persons.

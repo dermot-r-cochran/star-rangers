@@ -13,6 +13,8 @@ related:
   - "Boundary Zone"
   - "Etheric"
 tags: [obligers, predatory-entities, ambiguity, conceptual, meta-dimensional, sapient-monster]
+image: "glossary/obligers.jpg"
+image_alt: "Designed emblem card on a dark violet-black ground: the category Entities in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Obligers in pale serif capitals, with the line “Feed on ambiguity, desire loops, and social debt”"
 ---
 
 **Obligers** are sapient meta-dimensional predators — **Class II** in the [meta-dimensional beings classification](/star-rangers/lore/meta-dimensional-beings/). They exist at the intersection of the Conceptual and [Etheric](/star-rangers/glossary/etheric/) layers and feed on dynamics that occur in the Material and Social layers.

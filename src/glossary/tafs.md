@@ -12,6 +12,8 @@ related:
   - "Ashwardens"
   - "Civilisation Comparison: 13th, 21st, and 29th Centuries"
 tags: [tafs, technology, infrastructure, matter, medicine, guild, reclaimers, ashwardens]
+image: "glossary/tafs.jpg"
+image_alt: "Designed emblem card on a dark green-black ground: the category Technology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title TAFS in pale serif capitals, with the line “Known in the record only by its initials”"
 ---
 
 **TAFS** is one of the hidden systems the [Civilisation Comparison](/star-rangers/lore/civilisation-comparison/) names for the 29th century [UCSD](/star-rangers/glossary/ucsd/), and the record uses only the initials. No page in it spells them out, and the Archive does not guess at what they stand for.

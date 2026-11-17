@@ -13,6 +13,8 @@ related:
   - "Archecluster"
   - "Formcluster"
 tags: [quantum, physics, etheric, cascade, coherence]
+image: "lore/generalised-quantum-mechanics.jpg"
+image_alt: "A long low bench of pale composite on two plinths in a seamless pale laboratory, five small round optical holders standing in a sunken channel along its top"
 ---
 
 **Generalised quantum mechanics** is the record's name for the one theory the cosmos's probability, coherence and information physics belongs to. It has two parts with different scopes.

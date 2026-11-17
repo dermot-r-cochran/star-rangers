@@ -14,6 +14,8 @@ related:
   - "Worldwright"
   - "Concordant"
 tags: [formcluster, formwright, archecluster, cascade, cosmology]
+image: "glossary/formcluster.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Formcluster in pale serif capitals, with the line “The foundation an archecluster is drawn on”"
 ---
 
 A **formcluster** is the set of [archeclusters](/star-rangers/glossary/archecluster/) that trace to a single Formwright — every archetype vocabulary an Archewright assembled out of the lawful templates that Formwright instantiates, together with every universe eventually descended from them. [Formwrights instantiate lawful templates](/star-rangers/lore/cosmic-cascade/); Archewrights draw archetypes and possibility space from whatever those templates admit. It is the same kind of fact as an archecluster taken one tier higher: a statement about authorship, never about command.

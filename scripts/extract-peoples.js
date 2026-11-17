@@ -527,7 +527,7 @@ function build(root = REPO_ROOT, peoples = PEOPLES, opts = {}) {
     let picture = null;
     if (page && page.data.image && page.data.category === "Species") {
       const img = String(page.data.image);
-      const found = ["lore", "lore/planets", "glossary"].map(d => "src/images/" + d + "/" + img).find(p => fs.existsSync(path.join(root, p)));
+      const found = ["lore", "lore/planets"].map(d => "src/images/" + d + "/" + img).concat(["src/images/" + img]).find(p => fs.existsSync(path.join(root, p)));
       if (found) picture = { path: found, alt: page.data.image_alt ? String(page.data.image_alt) : null };
       else warnings.push(`${where}: ${r.page}'s image ${img} is not on disk`);
     }

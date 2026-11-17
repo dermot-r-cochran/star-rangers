@@ -12,6 +12,8 @@ related:
   - "The AI Safety Kernel"
   - "Kernel-Compliant"
 tags: [cyborg, augmentation, regulation, technology, imperium, military-space-command, society, undercover-pets.com]
+image: "glossary/cyborg.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Society in spaced capitals at the top, the thin outline of an oval head over an arch in a soft glow at the centre, and below a short rule the title Cyborg in pale serif capitals, with the line “Physical cybernetic modification to the body itself”"
 ---
 
 **Cyborg** designates a living being, human or animal, carrying physical cybernetic modification to the body itself: replaced or augmented limbs, sensory hardware, or neural interfacing wired directly into biological tissue. It is a distinct category from [Smart Pet](/star-rangers/glossary/smart-pet/), which covers an AI cognitive subsystem running *alongside* an unmodified biological body. An individual can hold either status, both, or neither, and the two are certified and regulated separately.

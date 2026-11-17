@@ -14,6 +14,8 @@ related:
   - "Formcluster"
   - "Mediarch"
 tags: [physics, scope, cascade, cosmology]
+image: "lore/the-scope-of-physical-law.jpg"
+image_alt: "Six boxes of graduated size standing apart in a row along a long pale table in a bare, pale room, four of plain wood and two of pale composite, none matching"
 ---
 
 Every physical fact in the record has a **scope**: the widest structure it is a fact *about*. Six levels cover the whole of physics, narrowest subject first:

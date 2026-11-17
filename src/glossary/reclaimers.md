@@ -12,6 +12,8 @@ related:
   - "Ashwardens"
   - "Civilisation Comparison: 13th, 21st, and 29th Centuries"
 tags: [reclaimers, technology, infrastructure, matter, guild, velmora, tafs, ashwardens]
+image: "glossary/reclaimers.jpg"
+image_alt: "Designed emblem card on a dark green-black ground: the category Technology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Reclaimers in pale serif capitals, with the line “In passes, flows and pass-throughs”"
 ---
 
 **Reclaimers** are named in the [Civilisation Comparison](/star-rangers/lore/civilisation-comparison/) as one of the hidden systems through which the 29th century [UCSD](/star-rangers/glossary/ucsd/) handles matter. The comparison credits them, with [TAFS](/star-rangers/glossary/tafs/), for the era's waste being *instantly reclaimed*, where the 13th century CE let it accumulate and the 21st managed it through landfill and recycling. It gives them three forms of working. A **pass**: in Velmora an unseen Reclaimer pass comes every seventy-two hours, part of the hidden second layer beneath the stone and timber. **Flows**: with [Ashwarden](/star-rangers/glossary/ashwardens/) interventions and entropy grids, Reclaimer flows have replaced the visible industry of the 21st century with systems that leave almost nothing to argue with in public view. And **pass-throughs**: with TAFS filtering, they remove degraded material before it can become civic memory.

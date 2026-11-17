@@ -11,6 +11,8 @@ related:
   - "The Celtic Union of Planets"
   - "Aethelrock"
 tags: [celtic-union, seanad, governance, institutions, clans]
+image: "glossary/the-seanad-draw.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Institutions in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title The Seanad Draw in pale serif capitals, with the line “Draws its candidates by lot from its own citizens”"
 ---
 
 **The Seanad Draw** is the method by which the [Celtic Union of Planets](/star-rangers/lore/celtic-union-of-planets/) seats its upper house. The **Seanad** is ceremonial: it sits for the occasions on which the Union is seen to be one thing, and for nothing that binds a member world. The draw is how the Union decided who should be seen.

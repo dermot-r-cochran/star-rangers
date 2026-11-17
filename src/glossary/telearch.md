@@ -16,6 +16,8 @@ related:
   - "Cosmic Cascade"
   - "Noögenic Protouniverse"
 tags: [telearch, telearch, cascade, enforcement, cosmology, continuity]
+image: "glossary/telearch.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmic Cascade in spaced capitals at the top, three stacked chevrons in a soft glow at the centre, and below a short rule the title Telearch in pale serif capitals, with the line “The Cascade's continuity branch”"
 ---
 
 **Telearch** (pronounced: **TEL-ee-ark**; plural: **Telearchs**) is the Cascade tier above the [Mediarchs](/star-rangers/glossary/mediarch/) and [Celestials](/star-rangers/glossary/celestials/). Though the Cascade spine lists Telearchs after the [Worldwrights](/star-rangers/glossary/worldwright/), the two are **parallel branches under the Archewrights**: continuity and creation respectively, created and defined as peer functions. A Telearch does not derive from a Worldwright.

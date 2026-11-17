@@ -13,6 +13,8 @@ related:
   - "Inner World Depth (IWD)"
   - "Seed Mind Lifecycle"
 tags: [noogenic-law, seeding, cosmology]
+image: "lore/noogenic-seeding-system.jpg"
+image_alt: "A deep star field above towering rust-and-gold nebula cliffs, thick with bright stars, and at the centre a small glowing circuit-like structure of concentric squares"
 ---
 
 The **Noögenic Seeding Law** states that successor universes can be initiated through sufficiently deep and stable information-rich minds — not through direct mass replication or physical transfer.

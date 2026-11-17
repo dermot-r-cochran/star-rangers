@@ -13,6 +13,8 @@ related:
   - "Universe Fertility Index (UFI)"
   - "Entropy Horizon"
 tags: [auc, economics, computation, novelty]
+image: "lore/ai-usage-credits.jpg"
+image_alt: "Designed cover for Allocation Units of Cognition: Cognition as Scarce Infrastructure: concentric rings in a soft glow under the category Economics, with the title below in two lines, on a dark brown-black background."
 ---
 
 **Allocation Units of Cognition (AUC)** are the allocation unit for intelligent computation capacity — the canonical measure of how much cognitive work can be authorised and performed.

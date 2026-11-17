@@ -14,6 +14,8 @@ related:
   - "Intermembrane Bleed"
   - "Metafold"
 tags: [overfold, fellowship-of-light, etheric, boundary-zone, contemplative]
+image: "glossary/overfold.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title Overfold in pale serif capitals, with the line “The Fellowship of Light's traditional term”"
 ---
 
 The **Overfold** is what a [Fellowship of Light](/star-rangers/lore/fellowship-of-light/) contemplative chapter calls a boundary place: somewhere the world runs thin, patterns persist past their trigger, and a trained observer can feel a wrongness in the air long before an instrument confirms it.

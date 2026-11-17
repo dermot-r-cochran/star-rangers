@@ -15,6 +15,8 @@ related:
   - "Concordant"
   - "Metafold"
 tags: [ftl, folding, higher-dimensional, topology, formcluster]
+image: "glossary/higher-dimensional-folding.jpg"
+image_alt: "Designed emblem card on a dark blue-black ground: the category Physics in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title Higher-Dimensional Folding in pale serif capitals, with the line “The long-range one”"
 ---
 
 **Higher-Dimensional Folding** (pronounced: **HYE-er di-MEN-shun-ul FOHL-ding**) is one of the two canonical faster-than-light channels in the Grand Ensemble Multiverse.

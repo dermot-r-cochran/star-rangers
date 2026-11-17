@@ -13,6 +13,8 @@ related:
   - "Inner World Depth (IWD)"
   - "Seed Mind Lifecycle"
 tags: [nooseed, noogenic, seed-mind]
+image: "glossary/nooseed.jpg"
+image_alt: "Designed emblem card on a dark blue-violet ground: the category Noögenics in spaced capitals at the top, a single plain circle in a soft glow at the centre, and below a short rule the title Noöseed in pale serif capitals, with the line “A compressed, transferable mind-state”"
 ---
 
 A **Noöseed** is a compressed mind architecture that preserves enough interior complexity to catalyse a successor universe seed-state.
