@@ -128,6 +128,104 @@ the people whose tunnels it lives in*, which means **the Chthonari are already
 committed** to being low, six-limbed and substrate-hearing. That commitment was
 made by describing an animal.
 
+#### Body: options put to Dermot, 17 Nov 2026
+
+**Nothing above is changed by this block, and no frame is filed from it.**
+Dermot, 17 November 2026, to running a body design pass after the Season 10
+fix pass (`images.md` § 72): *"As recommended"*. The problem is the outline.
+Every filed Chthonari frame reads as an Earth beetle at a thumbnail (Tikket a
+dung beetle or weevil, Kattik a ground beetle, Tsikk a tick or spider crab,
+Tekka a scarab's wing cases), and the fix pass found that no framing avoids
+it, because every part of the drawn body is a beetle's part. Drafted on
+Fable; a people's body is his to decide.
+
+**What the record says of the body** (derived; `src/lore/chthonari.md`,
+*Physical Characteristics*, unless marked):
+
+- Small: *"roughly forearm-to-torso length"*.
+- *"Six-limbed, exoskeletal, and built low and dense for a life spent
+  gripping tunnel walls in negligible gravity rather than standing upright
+  against a strong one."*
+- The exoskeleton *"tolerates brief unsuited vacuum exposure"*; a sealed,
+  pressurised burrow is needed for sustained work.
+- It hears through *"vibration-sensing organs distributed along each limb
+  and the lower carapace"*, from whatever solid structure it stands on.
+- A name is *struck* on the structure underfoot; the vessik, *"built on the
+  same physical principle"*, drums with its forelimbs (above).
+- It cannot read a face (`what-the-record-refuses.md`), and the page gives
+  it none.
+- The page's summary words are *insectoid* (description and opening) and
+  *insect-like* (the `plain:` line).
+
+**What is only the generator's, or a prompt's** (`images.md`, the four crew
+entries and the paragraph above them): the domed back in two or three
+sections with a seam down it; a separate head, a *smooth rounded dome*; six
+legs *of equal kind*, all slung beneath the body and all reaching down;
+*beetle-like* (the word is in the Kattik and Tekka prompts); the slate
+surface with a bronze cast, which that paragraph already calls *an
+illustration decision, not canon*. The filed image alts repeat these
+(*segmented carapace*, *smooth featureless head*) because they describe the
+frames.
+
+**What the body is for** (derived from the same pages; nothing new):
+
+- **No weight, in a tunnel.** In negligible gravity nothing presses a body
+  to a floor. It holds itself by gripping or bracing against rock on any
+  side, so there is no reason for six legs to hang beneath a back. An Earth
+  beetle's legs are under it because of weight.
+- **Hearing is contact.** The organs are on the limbs and the lower
+  carapace, so the more of both that touch the structure, the more is
+  heard. A body held up off the structure on leg tips is listening badly.
+- **Work is cutting and striking**, on native metal, with no smelter
+  (*They Never Needed a Smelter*). The page does not say what cuts.
+- **A record is made by touch**: Kattik's two forelegs on a slab
+  (`kattik.md`, its frame).
+- **A person reads another by contact through the structure**, never by a
+  face.
+
+**Four options**, each studied as an edit of the filed `kattik.jpg` that
+asked for the body alone to change (`scripts/image-edit.js`, two takes
+each), then a second edit round for A and B, then a grey Blender blockout
+made photographic for A and B, because the edits kept the filed frame's
+legs beneath the body whatever was asked: 8 jobs, 16 generations, no
+refusals. None is filed. Sheet: `chthonari-body-options-2026-11-17.jpg` in
+the working folder (not in this repository), the filed portrait first.
+Prompts: `image-prompts.md` under the same date.
+
+| | The option | Written fact it changes | Earth attractor it risks | What the studies showed (rung 1 of the image ladder) |
+| --- | --- | --- | --- | --- |
+| **A** | **The sole.** One piece, a low flat disc with no head, sections or seam, lying with its whole lower carapace on the structure, which is how it hears. Six limbs leave the rim like spokes and lie low along the structure, gripping; the pair nearest the work lifts to strike or write. | None of *Physical Characteristics*. It is at odds only with the summary word *insectoid*. | Crab, turtle, tick, starfish, horseshoe crab; a lidded dish. | The edits (two rounds, four takes) would not put the body down: a pebble on six legs, a tick or a footstool. The blockout held the plan in both takes and lost the beetle. What is left reads as a crab or a turtle's shell, less strongly: the generator drew pointed tips where the design wants blunt, and take 2 drew a seam round the rim like a lid. |
+| **B** | **Two whorls.** A thick spindle with both ends alike and no top or underside, three limbs round each end. In a tunnel all six brace outward. On a deck four stand and the two that happen to be uppermost rise over the body and come down on the work. | *Built low* is strained: the working pair stands above the body. *The lower carapace* becomes whichever side is to the structure. | Spider, harvestman, scorpion, crab with raised claws; a barrel if the body is called one. | Edit round 1 drew a wooden keg on spider legs (the prompt's simile, taken literally). Round 2 drew a smooth spindle with two raised arching limbs and eight limbs in all. The blockout held six in take 1; take 2 added two small ones. No beetle in any take. The long thin working limbs read as a harvestman's, and the blockout's finish as a sculpture (rung 3). |
+| **C** | **The striker.** One wedge with no head, carried low; four short limbs at the back grip, and two long heavy arms from the front corners end in blunt strikers, for striking a name, sounding a member and writing. | *Legs of equal kind*, which is a prompt's line and not the page's. No page fact. | Lobster, mantis, mole cricket; a mallet, a doorstop, a toy. | Both takes lost the beetle and gained a made thing: a wedge of cast metal with two hammers. Nothing in either reads as grown. The arms on the slab do read as working, the one thing here the others lack. |
+| **D** | **Paved hide.** The present plan kept, six legs beneath; the continuous dome replaced by separate small plates set in dark hide, on body and legs. | *Exoskeletal* becomes plates in a hide, and the vacuum tolerance the page rests on the exoskeleton would need another reason. | Tick, weevil, pangolin, armadillo, woodlouse. | Both takes are still a beetle or a tick at a glance, now tiled. A change of surface does not change the outline. Recorded so it is not tried again. |
+
+**Recommendation: A**, his to overrule. Basis: it is the only option that
+changes no written fact of the body; its outline follows from the two
+things the page gives the body for (no weight, and hearing by contact), so
+a frame of one listening shows the people's sense where the present frames
+show an animal standing; and it is the only plan whose geometry held in
+both blockout takes without a miscount. It does not yet pass rung 1
+cleanly. The crab and the turtle are nearer than they should be, and the
+next round would be the blockout again with blunt tips, limbs of unequal
+reach and no rim line. B is the most unlike any Earth animal's plan on
+paper and the hardest to draw: three of its six takes miscounted the limbs,
+and its working pair breaks *low*. C's striker arms are worth keeping as a
+question for A (whether the working pair is heavier than the other four);
+that merge has not been drawn. D fails and is not offered.
+
+**A second thing for him, whichever he picks:** A, B and C are none of them
+*insectoid*. The word stands in `chthonari.md`'s description and opening
+and in its `plain:` line as *insect-like*, and other pages may lean on it. It
+may stay as an outsider's loose word for a small six-limbed people in an
+exoskeleton, or go; it is published prose and his.
+
+**What a pick starts:** a Chthonari body section here, written from the
+pick with a revision note quoting him; a second study round on the pick;
+then the six filed frames (`tikket`, `kattik`, `tsikk`, `tekka`, `kettsa`,
+`pekkat`) and the S10E01C05 frame brought to it under the *one people, one
+look* practice of 17 November, with the vessik's *same physical principle*
+checked against it. None of that is done here.
+
 ### Verdani — Verdance
 
 > Distinct thallenwort strains, adapted over generations to the **light quality,
