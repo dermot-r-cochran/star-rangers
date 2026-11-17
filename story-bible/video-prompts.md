@@ -1065,6 +1065,12 @@ white and the readouts vanish. One repair round on those two shots ran for an ho
 
 ### D2. Nothing Taken
 
+**Status, 17 November 2026: filed as an impression.** Rough cut 1 (1:26), made as a chain of 10-second Imagine clips with the door shots started from Gemini stills, stands as `src/video/nothing-taken.mp4`, with an English subtitle track (`nothing-taken.en.vtt`, off by default), and is shown in `src/journal/nothing-taken.md`. Dermot's ruling, verbatim: *"fine as journal impressions, but would need more polish if attached to a chapter or episode"*. So it is not linked from the chapter until a polish round. Working files and the run log: `F:\CLAUDE\Director films\D2\`.
+
+| Version | Length | Date | Changed from the last | Filed |
+| --- | --- | --- | --- | --- |
+| Rough cut 1 | 1:26 | 15 Nov 2026 | First cut of the chained segments | **17 Nov, current** |
+
 **Status, 15 November 2026: five of nine segments run, none kept yet. Director mode has been removed from Grok, so the film is being made as a chain of nine 10-second Imagine clips.** The segments, their prompts and the version table are under *Made as a chain of Imagine clips* below. Both shots with a door in them failed twice, so at Dermot's *"Start from a still"* every door shot now starts from a still; those stills and the six prompts they replace are under *The door from stills* at the end of this entry. The brief below stands as written.
 
 **Title and length.** *Nothing Taken.* 90 seconds; accept 75 to 110.
@@ -1611,6 +1617,12 @@ record's voice). The record gives the figure no face and no features, which is
 why the film gives it none.
 
 ### D5. The Character of the Light
+
+**Status, 17 November 2026: filed as an impression.** Rough cut 1 (1:58), made from stills as a chain of 10-second Imagine clips, with the wall clock and the stair taken out of the room stills at Dermot's word, stands as `src/video/the-character-of-the-light.mp4` (re-encoded from 55 MB to fit the repository), with an English subtitle track (`the-character-of-the-light.en.vtt`, off by default), and is shown in `src/journal/the-character-of-the-light.md`. Dermot's ruling, verbatim: *"fine as journal impressions, but would need more polish if attached to a chapter or episode"*. Open for a polish round: the lantern's groups come about 5 seconds apart, not 15; the room's window shows an island, not the far hull; the robot on the spit is the filed slim one, not the brief's boxy one. Working files and the run log: `F:\CLAUDE\Director films\D5\`.
+
+| Version | Length | Date | Changed from the last | Filed |
+| --- | --- | --- | --- | --- |
+| Rough cut 1 | 1:58 | 16 Nov 2026 | First cut; clock and stair removed from the room stills | **17 Nov, current** |
 
 **Title and length.** *The Character of the Light.* 120 seconds; accept 100 to
 150.
@@ -2258,6 +2270,14 @@ and the narration stays unverified.
 **Version 6 stands** (Dermot, 6 November 2026, *"Version 6"*). Filed in the Journal as `src/journal/the-up-peoples-first-stone.md`; poster taken at 6:20, no caption in frame. The entry names the chapter without linking it, because a Journal link to a chapter would put the film in that chapter's *In the Archive* list.
 
 ### D7. Lúnasa
+
+**Status, 17 November 2026: filed as an impression.** Rough cut 3 (1:49) stands as `src/video/lunasa.mp4` and is shown in `src/journal/lunasa-a-film.md`. It is wordless, so it has no subtitle track. Dermot's ruling, verbatim: *"fine as journal impressions, but would need more polish if attached to a chapter or episode"*. Still open, and parked for Fable: whether the station the film climbs to is the record's Lúnasa or has diverged enough to be renamed. Working files and the run log: `F:\CLAUDE\Director films\D7\`.
+
+| Version | Length | Date | Changed from the last | Filed |
+| --- | --- | --- | --- | --- |
+| Rough cut 1 | 1:33 | 15 Nov 2026 | First cut; the far-shore climb and four segments missing | No |
+| Rough cut 2 | 1:53 | 15 Nov 2026 | Adds the sunlit trail; climbs beyond the ring and back (Dermot's catch) | No |
+| Rough cut 3 | 1:49 | 15 Nov 2026 | The ring edge-on from its own height; the approach stays on the ring | **17 Nov, current** |
 
 **Status, 30 October 2026: drafted, not run.** Dermot's request, verbatim:
 *"Draft a Director brief for the Lúnasa remake"*, the same morning he settled
