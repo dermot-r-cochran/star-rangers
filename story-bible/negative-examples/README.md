@@ -147,6 +147,13 @@ frame was brought to it by an edit of its head and neck (`images.md`, the three 
 | `zoe-smith-2026-11-17.jpg` | Zoe Smith | A present-day service corridor: a strip light, hinged panel doors in frames, a rusted rail, stains and floor grating. Lesson: *a plain lived-in corridor* draws our century's back corridor; name the habitat's own corridor and the century's door, or the generator supplies its stock one. | Room edited to the Season 9 corridor; her figure laid back from this frame (`images.md` § 71, *Fix pass*). |
 | `iklix-varn-2026-11-17.jpg` | Iklix Varn | Ceiling light panels, floor grating and printed papers in a room the record keeps clean, and the rack as a shelved stack. Lesson: *the same worn, clean, evenly lit space* kept the reference's room, panels and all; a reference held for a face carries its setting unless the prompt names the setting it replaces. | Room, leaves and rack edited to the Season 9 compartment; her face and figure laid back from this frame (§ 71, *Fix pass*). |
 
+## Two Chthonari portraits, rooms remade, 17 November 2026
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `kattik-2026-11-17.jpg` | Kattik | The understructure as a present-day plant room: riveted lattice steel, a pipe-fed machine under the second being, cables, raised bolt heads and a dusty, grimy deck, where the chapters' frames (`s10e01c02.jpg`, `s10e01c04.jpg`) keep it as clean blue-grey plate. Lesson: *girders and conduit* in a prompt draws our century's industrial underside; name the habitat's own structure (plates, plain columns, flush fastenings) or the generator supplies its stock one. | Room edited to blue-grey plate; both bodies and the slab laid back from this frame (`images.md` § 72, *Fix pass*). |
+| `tsikk-2026-11-17.jpg` | Tsikk | Lattice trusses, cable runs, a railed walkway of yellow lamps and a littered deck: the same industrial hall, with the prompt's *lights coming up along a distant walkway* drawn as lamps. Lesson: a mood carried by light must be the room's own light, not a row of fittings. | Room edited to blue-grey plate under the ring's curve; the body laid back from this frame (§ 72, *Fix pass*). |
+
 ## Lessons for the next prompt
 
 - **"Smooth, made with care" draws the stock robot.** A machine described only as well made comes back as the generator's default white humanoid. Give it its history in shapes instead: what it was built for, what was refitted and in what different material, and where the wear sits (Rook-7, 16 November 2026). A sand-coloured, narrow-waisted body with ball joints reads as a wooden lay figure; a straight-sided trunk with shrouded joints reads as a machine.
