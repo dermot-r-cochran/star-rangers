@@ -4608,6 +4608,24 @@ At Dermot's *"Artist's impression"* (the Chthonari photographic rounds failed; t
 
 **What the run teaches the next prompt of this people.** The blockout's pose wins over the words: a pose the prompt asks for and the blockout does not show is not drawn, so the pose goes into the blockout first. Without the blockout the painting domes the disc and puts the legs beneath it, as the photographs did. A shell drawn whole over the disc reads as a lid, and in sections as a beetle's wing cases; one piece stopping short of the rim holds. Painted, the limbs that came back as toys and robots in the photographs read as a creature's, though they stay a little tubular.
 
+## 2026-11-17 — Season 11 small fixes, and the two Told portraits' rooms (Opus, desktop)
+
+At Dermot's *"and the small fixes for season 11, please"*. The three chapter fixes (`s11e01c03`, `s11e01c04`, `s11e01c05`) were made by hand and have no prompt; what was done is in `images.md` § 74, *The small fixes*. The room edits below are `scripts/image-edit.js`, `gemini-3.1-flash-image`, 2K, 16:9, two takes each, the filed portrait sent first. Eight takes, none refused, **none filed** (`images.md`, the `teddy.jpg` and `stone-first.jpg` entries). Prompts verbatim.
+
+### characters/teddy.jpg — room, round 1 (with `chapters/s11e02c03.jpg`)
+
+> Edit the first image. Keep its composition, its camera position and framing exactly, and keep the grey-furred being exactly as it is: same body, same fur, same pose, same position and size in the frame, untouched. Keep the plain grey cylinder standing on the floor where it is, the rock arch and passage behind the being where they are, and the line of tracks in the floor where they are. Change only the room's surfaces and light, so that the room looks like a real photograph of a real limestone cave taken with available light, matching the look of the second image: pale frosted mineral rock with real crumbly, pitted, chalky texture and natural cracks, a floor of pale fine silt, and the light coming only from shelves of fungus glowing soft amber and blue-green on the rock, with the far parts of the cave falling into real darkness. Fine natural film grain, a real lens, ordinary depth of field with the rock near and far both sharp. Not a 3D render, not a game scene, not a film set, not clay, not painted, no smooth plastic rock, no glossy wet sheen, no orange-brown sculpted rock, no added people, no lamps, no text.
+
+### characters/stone-first.jpg — room, round 1 (with `chapters/s11e02c03.jpg`)
+
+> Edit the first image. Keep its composition, its camera position and framing exactly, and keep the grey-furred being exactly as it is: same body, same fur, same pose, same position and size in the frame, untouched. Keep the single loose stone on the floor where it is, the lip of the shelving floor where it drops away into the dark pit at the bottom of the frame, and the openings of the cave behind where they are. Change only the room's surfaces and light, so that the room looks like a real photograph of a real limestone cave taken with available light, matching the look of the second image: pale frosted mineral rock with real crumbly, pitted, chalky texture and natural cracks, a ledge of pale fine silt, and the light coming only from small shelves of fungus glowing soft amber and blue-green on the rock, with the deep parts of the cave falling into real darkness. Fine natural film grain, a real lens, ordinary depth of field with the rock near and far both sharp. Not a 3D render, not a game scene, not a film set, not clay, not painted, no smooth sculpted rock, no green slime, no glossy sheen, no added people, no lamps, no text.
+
+### Round 2, both (with `chapters/s11e01c05.jpg` in place of `s11e02c03.jpg`)
+
+Each round 1 prompt with three changes: *matching the look of the second image* became *matching the rock of the second image exactly, a real cave wall photographed on a field trip*; the depth-of-field clause became *deep focus at f/8 with everything sharp from the nearest floor to the far wall, no blur in the foreground, the camera at standing eye height*; and the negatives open with *Not a miniature, not tilt-shift, not a theme-park or show-cave sculpture, no rounded sculpted rock forms*.
+
+**What the run teaches.** Both rounds re-coloured the render's rock and kept its forms; the forms are what read as a render. A room is made photographic by replacing it, not by editing it.
+
 ## 2026-11-17 — Season 13 chapter illustrations, all four (Fable, desktop)
 
 `scripts/image-edit.js`, `gemini-3.1-flash-image`, 16:9 at 2K, two takes a round. The prompts of record are in `images.md` § 75; what follows is the edits and the handwork. Ten images; nothing refused.
