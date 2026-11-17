@@ -6,7 +6,7 @@ species: Pandoid
 role: "An individual of the deep networks, Fliade — no role the record can assign"
 status: Active
 image: teddy.jpg
-image_alt: "A stocky grey being with a panda-like build and thick real-looking fur, half-crouched in a cavern passage lit by teal and amber fungus, its large dark eyes ringed in darker grey and turned toward the camera with open curiosity, a small plain cylindrical instrument standing on the pale silt beside it where a line of bootprints ends."
+image_alt: "Teddy grown: a large grey being of the Told, heavy and pear-shaped with a coarse, uneven coat matted with silt, a small blunt earless head with tiny dark eyes and a fan of long pale whiskers, half-crouched in a cavern passage lit by amber and blue-green fungus and turned toward the camera with open curiosity, a small plain grey cylinder standing on the pale silt beside it where a line of bootprints ends."
 aliases:
   - "the Teddy Bear"
   - "Individual Four (Fliade survey log)"

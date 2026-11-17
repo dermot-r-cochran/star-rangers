@@ -112,7 +112,15 @@ left as they stand.
 ---
 
 
-## The body of the Told — four options put to Dermot, 17 November 2026 — OPEN, his to pick
+## The body of the Told — four options put to Dermot, 17 November 2026 — RULED: B on A's coat
+
+**Ruled the same day.** Dermot, verbatim: *"B on A's coat (Recommended)"*. The
+ground-listener's face on A's coarse coat and proportions is now the body of
+every Pandoid (`species-design.md`, *The body of the Told — ruled 17 November
+2026*). It replaces his flat face of 7 September 2026 and ends the second
+warm's difference of face. The four portraits and Season 11's six frames
+showing the Told were brought to it (`images.md`, 17 November 2026). The
+entry below is kept as the record of the choice.
 
 His *"As recommended"* of 17 November 2026, to running a body design pass
 like the Mnemari one: the Told read as plush bears, sloths or soft toys,
@@ -144,7 +152,15 @@ that face once. **No option passed the Earth-animal rung outright**, B fails
 it most mildly, and that is said in the design note. A alone is the least
 change if the flat face of 7 September matters more than the reading.
 
-## Does *a child is pictured grown* reach the young of the Told? — raised in `images.md` § 74, put to Dermot 17 November 2026 — OPEN, his to choose
+## Does *a child is pictured grown* reach the young of the Told? — raised in `images.md` § 74, put to Dermot 17 November 2026 — RULED: (a), every people
+
+**Ruled the same day.** Dermot, verbatim: *"Every people (Recommended)"*. The
+rule reaches the young of every people. `teddy.jpg` and
+`keeps-a-hand-on-it.jpg` were re-made as grown adults, `image_alt` saying
+*grown*, and each page's text keeps what the record says. Recorded in
+`images.md` Conventions. CLAUDE.md's paragraph is his to change and was not
+edited; it now reads wider in practice than its human examples. The entry
+below is kept as the record of the choice.
 
 The rule (CLAUDE.md, 15 November 2026): *No generated or composited image on
 the site has a child as its subject*, from his *"All characters were children
