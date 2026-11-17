@@ -9,7 +9,7 @@ aliases: []
 tags: [chthonari, undersong-belt, federation-of-sentient-beings, eden, orbital-five-o, engineering, season-10]
 description: "The youngest of a Chthonari crew of four on a first off-Belt posting, and the first to hear Eden's third approach mount ring under more than it was left to carry — with nobody in the air to tell."
 image: "tikket.jpg"
-image_alt: "Tikket, a small six-legged Chthonari with a low, segmented slate-grey carapace and a smooth featureless head, pressed close against a heavy bolted mounting bracket on bare deck plating beneath a habitat's dock ring, every limb in contact with the metal as if listening through it. Girders, pipework and a distant walkway recede into shadow behind."
+image_alt: "An artist's impression of Tikket, a Chthonari, painted in gouache and watercolour as a natural-history plate on cream paper: one low, flat oval disc of pitted slate-and-bronze hide with no head and no face, lying flat on the broad foot plate of a square dark blue-grey column, its six short jointed limbs reaching from the rim like spokes, the nearest one laid up against the column's face as if listening through it, the others gripping the plate; the painting fades to bare paper at the edges."
 ---
 
 Tikket is the youngest of four [Chthonari](/star-rangers/lore/chthonari/) on a Federation contractor crew cutting new members under [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/)'s dock ring in the spring of 2828 UCSD — the understructure the fold-approach monitoring's mounts bolt through — and the first of the crew to hear one of those mounts ring under load where the other five did not. The name is a struck signature, two quick strikes and a close, spelled the way a human ear renders it.
