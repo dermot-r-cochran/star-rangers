@@ -3357,3 +3357,46 @@ The body reads as one soft heap of folded limbs resting on its lower ones, wider
 > 2. Remove the bright glowing rim of light around the edge of the port: its deep rounded reveal is plain matte taupe composite, lit only faintly by the green of the crescent.
 >
 > The gallery is darker than before: its only light is the faint green from the port and a very low, even, sourceless dimness. No strips, no glowing edges, no lamps, no new objects, no people. No lettering, no numerals. A documentary photograph taken with a real lens in low light, with grain, not a render.
+
+## 2026-11-17 — Season 4 chapter illustrations, all six (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 65, with the references each was sent. **Tool** for all six: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1. Eighteen images in all: twelve first-pass takes of twelve asked and six edit takes. Nothing was refused.
+
+### chapters/s04e00c01.jpg — filed 17 November 2026
+- **Kind:** generation with references, then two fixes by hand
+- **Source:** `images.md` § 65.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2 filed. By hand, at full size before the finish: an ear stud healed out (`cv2.inpaint`, a circle of 8 px), and the chest tab's two bars redrawn as three (PIL, three parallelograms in the tab's own blue on its own grey, blurred and grained to match).
+
+### chapters/s04e00c02.jpg — filed 17 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 65.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is, the man, the deck, the ribs, the light, the grain and the framing, and change only these things. 1. The two tugs in their clamps: remove every window, windscreen and glazed band from them, so that each tug is a plain closed rounded hull of dull pale grey composite with a few fine honest seams and a thin even film of dust, with no glass, no cab, no door, no handles, no rivets and no markings. Keep the clamps and the one small steady indicator on each clamp. 2. Inside the lit office: remove the ceiling light panel so the ceiling is plain and the warm light has no visible source, and replace the swivel chair with one plain rounded moulded seat of pale composite with no wheels and no stem. Keep the desk and the single cup. 3. The three small workers far down the deck: give them ordinary bare heads with short dark hair, no helmets, no caps and no hoods, and make their cart a plain low flat carrier with one plain sealed crate on it. Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
+
+### chapters/s04e01c01.jpg — filed 17 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 65.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is, the raven, the ribs, the berth, the machine in its clamp, the dust on it, the light, the grain and the framing, and change only these things. 1. Every dock worker is bare-headed, with ordinary hair: remove every hard hat, helmet and cap. 2. Every worker's hands are empty or on a cart: remove the camera and any hand-held device or paper. 3. The freight carts become plain low flat carriers of pale composite that sit close to the deck, with no rubber tyres, no spoked wheels, no metal tube handles and no chains; the crates on them are plain smooth sealed boxes of pale grey with no straps, labels or markings. 4. The dust on top of the machine is perfectly even and undisturbed: remove the small scratch mark in it. Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
+
+### chapters/s04e01c02.jpg — filed 17 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 65.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s04e02c01.jpg — filed 17 November 2026
+- **Kind:** generation from text alone
+- **Source:** `images.md` § 65.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed.
+
+### chapters/s04e02c02.jpg — filed 17 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 65.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is, both women, their faces, hair and clothes, the room, the hanging, the shelf, the chair, the ferns, the light, the grain and the framing, and change only these things. 1. The pale grey leaf lying on the desk is completely blank: remove the line of small writing from it, so it is one plain matte pale grey sheet with nothing on it. 2. The window is one single unbroken pane: remove the thin vertical bar that divides it. Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
