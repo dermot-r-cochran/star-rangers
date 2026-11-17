@@ -112,6 +112,71 @@ left as they stand.
 ---
 
 
+## The hand-kept ledger near the boundary, and the Sceir Light's clock in 2826 form — raised by Dermot 16 November 2026, read 17 November 2026 on Fable — OPEN: two points, each put once as options, his to choose
+
+Dermot, verbatim, on the register shown in the film *The Character of the Light* (`src/journal/the-character-of-the-light.md`): *"Strangely the hand written paper ledger in the video might actually be more robust to boundary effects than digital recording devices, although I am still not convinced about the need for analogue clocks or other old-fashioned time keeping devices."* The sentence holds two questions. Each is read against the record and put once, as options. Nothing below is canon, and no page in `src/` changes until he chooses.
+
+**1. Is a hand-kept ledger more robust near a boundary than a recording device?**
+
+*What the record says of instruments.* Nothing near a boundary is broken.
+
+- `src/glossary/instrument-drift.md`: *"This is not a malfunction. The instruments are each accurate for their specific positions."*
+- `src/lore/boundary-zones.md`: *"Local instruments measure correctly relative to their position."* Of Threshold: *"the drift is not an error in the instrument and there is nothing in the instrument to correct"*.
+- `src/lore/lunasa.md`: *"Neither clock is wrong: the gap is the reading."*
+
+No page has a boundary corrupting a store, stopping a recorder or altering a log. The station's incident reports, Rook-7's logs and the boundary post's minute log (S01E00C11: *"The column the post logged on the minute"*) are all trusted as written.
+
+*What the record says of its two hand-kept records.* Two records showed the forty seconds to be old and steady, and both were kept by hand.
+
+- The Sceir Light's register (S01E01C03). Its columns: *"Date. Signal received. Clock reads. Correction applied, in seconds. Initials."* Rook-7 on why it is worth reading: *"Completeness is not a property the Board required, specified, or inspected for. It is a by-product of a maintenance obligation that happens to have been discharged in writing for two hundred and seventeen years by people who were not being asked anything."* And: *"the survey's search of the archive was a search of records created to answer questions. This record was not."*
+- Shepherd's watch log (S01E01C04, `canon_facts`): *"the series is the only continuous record of both instruments on the station before the 2826 boundary survey's own logging."* The station's own maintenance log, beside it, *"records the corrections and not the readings they corrected"*.
+- What routine did to the reading (`src/lore/threshold-station.md`): *"A recalibration re-derived the repeater's link corrections until it matched station time, which treated the gap as the repeater's fault; within two days it was back."*
+
+So the record already gives the hand-kept line an advantage, and gives the reason. The line holds two readings side by side, written down before either was corrected. It is initialled, and nothing re-synchronises it afterwards. One further point is reasoning and not the record: lines entered down a page keep their order without any clock. A device that keeps one time, or is set to a reference, records the corrected time and loses the difference. The advantage belongs to the practice. It says nothing against the instruments' accuracy.
+
+*What the record does not say.* It never makes the material the reason.
+
+- One of the two records is not paper. Shepherd's log is *"two thin rigid grey leaves lying open and flat, joined by a narrow hinge"*, written with *"a slim dark stylus"* (S01E01C04, `image_alt`). That is the display of `src/lore/what-the-record-refuses.md`: *"a thin rigid sheet or a bound set of them"*, and *"The object is not paper"*.
+- The Board's register is never called paper either. Its *"very poor pencil"*, *"ballpoint"* and *"printed slip pasted in"* make it so. It is old: 217 years in 2826, so opened in 2609 UCSD (2409 CE). It has been kept in one form since: *"a column that had asked the same five things for better than two centuries was not improved by a sixth"* (S01E00C10).
+- The form in S01E00C11 is filled in by hand because of whose it is: *"The form was the Union's, by the agreement, with the Corps' columns on the back."* The chapter does not say paper, and gives the boundary no part in the choice.
+
+**In one sentence:** the robustness of a hand-kept comparison is already implied by the record, twice, as a matter of practice; the robustness of paper as a material, against a boundary effect that harms digital devices, is not in the record and would be new canon.
+
+- **(a) It stands as a reading, and no page changes.** The advantage is the hand-kept line's: two readings set down side by side before correction, initialled, in order. The material follows the keeper. It is paper where the book is old and the Lights Board's, and leaves and a stylus where the record is the Corps'. A prompt or a film may show either near a boundary and needs no further reason. Recording devices near a boundary stay accurate and trusted.
+- **(b) As (a), and one clarification goes on a page.** `src/glossary/instrument-drift.md` gains three sentences after *What is observed, and what is not established*, for example: *"Both records that showed the discrepancy to be old and steady were kept by hand: the Sceir Light's register and a cadet's watch log. Neither was more accurate than the station's instruments. Each set two readings down side by side before either was corrected, and a written line is not recalibrated."* It is a clarification under the canon rule, since both chapters already show it. It does not relate the corrections to the offset, which stays not established (his pick of 10 November).
+- **(c) Paper itself resists the boundary, and digital stores do not.** This is a new boundary effect, on stored records. It contradicts the three sentences quoted above, so `instrument-drift.md`, `boundary-zones.md` and `lunasa.md` would change. It puts Rook-7's logs, the station's eleven years of incident reports and the post's minute log in doubt. It needs a mechanism for why ink survives what a memory does not, and the record supplies none. And it gives the Corps a protective measure that works every time, against *"nothing acquires a repeatable answer"* (`CLAUDE.md`). It is a canon change and his alone.
+
+**Recommended: (a).** The basis is the record. Two chapters already show the advantage and name its reason, the reason is not the material, and the station's own hand log is already in the century's form. (b) is a fair next step if he wants the Archive to say so; it passes the four tests for a derived extension. (c) is the only reading in which his sentence is about paper as a material. It costs three pages and opens a question the record keeps shut: what a boundary does, beyond what the instruments read.
+
+**2. What is the Sceir Light's clock, in 2826 form?**
+
+*His doubt has a precedent.* On Dock Seven's chronometers, 6 November 2026 (`story-bible/video-prompts.md`, *Incident Report 001*): *"Why would the even be using analogue clocks?"*, then *"Yes"* to atom columns with one set of digits. They are now sealed housings with a sight port and a matte, unlit readout (`story-bible/images.md`, `hero/season-01.jpg`). `src/lore/what-the-record-refuses.md` names *"a wall of dials"* as a period object. The film's brief (D5) still drew the light's clock as *"a plain old mechanical wall clock with a dial and hands"*, and the reading of 16 November kept it as *"the record's own old object"*. He had it taken out of the stills. The Journal entry says: *"What that clock looks like in 2826 is still an open question."*
+
+*What the two chapters say of it* (S01E00C10 and S01E01C03).
+
+- It is *"a clock that timed the character"*, and it is the Lights Board's.
+- It has a movement, replaced four times in the register's 217 years. The last was fitted *"in the cold with the lamp out for a day and the glass stopped down"*. So the movement is part of the lamp's works, up in the lantern, and not a clock on the wall of the room below.
+- The lamp turns: *"the lamp went round over all of it regardless, two and dark, two and dark"*.
+- It is read and set: the column *"Clock reads"*; *"she had set the clock that morning"*; *"a clock that was keeping the Board's time to the second"*.
+- It is mechanical: *"exactly what a mechanical clock in a damp stone tower on a coast does"*.
+- Its early corrections are *"two and three seconds a year"*.
+
+*What they do not say.* Neither chapter, nor Nuala Beirne's page, gives it a dial, hands, a face, numerals, a pendulum, weights, winding or a tick. The dial was the brief's.
+
+*The arithmetic.* A year is 365.25 × 86,400 = 31,557,600 seconds, and three seconds in a year is about one part in ten million. A wheel-and-pendulum clock in a damp tower gains or loses seconds in a week. So the chapters' own figure already describes a far better movement than the dial clock the brief drew.
+
+- **(a) The character movement, with a readout.** The clock is the light's own timing movement: a plain closed housing in the lantern, under the lamp. It turns the lamp through its character and keeps the Board's time as it does. That it does both is read from the lines above, and is not stated. It is mechanical, as the chapter says: moving parts that wear and are replaced. Its time shows on one small matte, unlit readout to the second, as on Dock Seven's chronometers, and the attendant sets it by hand. It has no dial, hands or pendulum, and nothing on it glows. It is not an atom column, for two reasons in the record. The Board never needed one: the light is *"accurate to the standard it was inspected against"*. And the corrections went unread for two centuries because a small drift is what such a clock is expected to have; an atomic standard needing seconds would have been an alarm. The reason for a movement of its own, where a signal could drive the lamp, is a reading too: the Board's register records the light's fixes *"as a formality against instrument failure"*, and a light that held its character only while a signal reached it would be what Beirne calls *"a favour"*. No page changes. D5's brief and the 16 November reading take a dated note, and the room stills stay as he has them, with no clock.
+- **(b) The dial stays, as the Board's kept old object.** This is the 16 November reading: one plain dial clock, kept and going, with strokes for numerals. It is the form he took out of the stills and still doubts, and the arithmetic is against it.
+- **(c) It stays a word.** No form is recorded, and every film and picture keeps the clock out of frame, as rough cut 1 does. The cost: a made object that a prompt leaves unnamed arrives in its stock form, which is the dial, and the man in the film goes on asking about a clock no shot can show.
+
+**Recommended: (a).** The basis is the two chapters, which give a movement, a lamp that turns and a reading to the second, and no dial; his ruling of 6 November for readouts over dials; and the arithmetic. It is proposed, not canon. It binds prompts and films only, until a chapter or a page needs the clock described.
+
+Notes with no decision in them, for a later read.
+
+- The inspector times the character against *"a watch set at the Board that morning"* (S01E00C10). The watch has no stated form either, and it is left.
+- S01E01C03, seen in passing. Rook-7 *"counted four hundred and six groups"* at *"Fifteen seconds, group to group"*: 406 × 15 = 6,090 seconds, which is 1 hour 41.5 minutes. The chapter gives the party about an hour at the light, from *"an hour and fifty of the falling"* at the door to *"another fifty minutes"* at the end, and an hour holds 240 groups. If it is a slip, it is one of arithmetic, which the canon rule lets be fixed. It is left for a later read and for him.
+- Which way the corrections run stays unnamed (Nuala Beirne's page, *What the Record Does Not Hold*). Nothing in this entry relates the corrections to the forty seconds.
+
 ## The day she assumes the post, *On Assumption* (S03E03C02) — the weekly Fable pass of 16 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
 
 The next chapter of Tissadelle's middle under the 18 October ruling (option A), and the second chapter of Episode 3. Late autumn 2829: the post's Chief Ranger, Emeka Lindahl (new), has held it thirty-three days; Shepherd reads the log standing, assumes the post in one line, does not sign *received as stated* under his initial on the state sheet, and takes the Starwarden's middle watch, which he had been standing with his own. Readings settled at Fable and recorded in `intake-2026-11-16.md`: the beat; a Shepherd viewpoint that says nothing of where she came from, so *Received*'s canon fact stands; the slot; the new Chief and his name; the watch's word *the dead Starwarden*. Nothing in it met the bar for him. **Two things left as options, neither blocking:**
