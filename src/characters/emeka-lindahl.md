@@ -12,7 +12,7 @@ description: "The Chief Ranger who runs the watch at the fold-approach post that
 
 Emeka Lindahl is a [Chief](/star-rangers/lore/star-rangers-command-hierarchy/) on the general operations track and carries the working title Chief Ranger, as a Chief who runs a general operations department does. His department is the watch at a fold-approach post on the outward frontier, which the record does not name: six instruments, a crew of twenty, and a line office nine hours away by relay. He had been its Chief for nine years by the late autumn of 2829 UCSD.
 
-When a post's Starwarden goes up, the post passes to its Chief Ranger pending the next one. Lindahl had held his post that way twice before 2829, and held it a third time for thirty-three days that autumn. On each of those days he stood the Starwarden's middle watch as well as his own forenoon watch, and the state sheet he wrote at the end had no line for that.
+When a post's Starwarden goes up, the post passes to its Chief Ranger pending the next one. Lindahl had held his post that way three times before 2829, and held it a fourth time for thirty-three days that autumn. On each of those days he stood the Starwarden's middle watch as well as his own forenoon watch, and the state sheet he wrote at the end had no line for that.
 
 ## Known History
 
