@@ -3631,6 +3631,29 @@ The prompts of record are in `story-bible/images.md` § 66, with the references 
 >
 > Change nothing else. A photograph, not a render. No drainpipes, gutters, chimney, satellite dish, solar panels, lamps, signs, people or vehicles. No text, lettering or numerals anywhere.
 
+### hero/s05e02-hill-holding.jpg — house remade to match s06e01c01, 17 November 2026 (Opus, desktop)
+- **Kind:** an edit of the filed banner's house strip, with the filed `chapters/s06e01c01.jpg` house as reference, composited back onto the filed banner; two fixes by hand. At Dermot's decision of 17 November 2026 that the Shepherd holding is the house in `s06e01c01` (`images.md` § 68, *Which house is the Shepherds', settled*).
+- **Source:** the filed banner (his plate `F:\112GLEND\_DSC0746.JPG` everywhere outside the house), cropped to the strip x 580–1880, y 545–1276 (1300×731, the house and the posts on the field) and sent at 2400×1350; reference, the `s06e01c01` house cropped at x 640–1290, y 360–640 and sent at 1300×560.
+- **Geometry:** the banner is read as the house's other long side. `s06e01c01` shows the door gable at the left, the long wall with two windows, and the yard wall at the far end; seen from the other side, the door gable stands at the right and the yard wall runs back from the left end, which is what the prompt asks for.
+- **Run:** `scripts/image-edit.js --aspect 16:9 --size 2K --n 2`, one round. Take 1 used; take 2 refused (a second door in the long wall, the yard wall against it, and the drone drawn as a winged shape that reads as a bat at full size). Take 1 registered to the strip (SIFT and a homography, 782 inliers of 794 matches); only the house, its step, the yard wall and the posts were laid back (a difference mask closed and hole-filled, unioned with the house's outline, feathered at 2 px, the take softened by 0.6 px to the plate's softness). Everything else in the strip is the filed banner's pixels, and the strip was pasted back at its own position. By hand: the gable recess and the drone, which came back pale and glossy like a small saucer, were darkened and made matte (as was done on `s06e01c01`); the new post shafts, drawn near-black, were lifted to the mid slate grey of `s06e01c01`'s posts. No finish. Filed at 1920×1280.
+- **Prompt (sent with the strip, then the reference):**
+
+> Edit the first image, a photograph of a valley pasture under a forested hillside. Change only the house and the slim posts in the field. Keep everything else exactly as it is: the trees, the hillside, the grass, the rushes, the light, the camera position, the grain and the softness of the photograph.
+>
+> The second image shows the house this must become. It is the same house seen from its other side. Rebuild the house in the first image so that a reader would take it for that very building:
+>
+> - Walls of weathered pale grey fieldstone, irregular stones of mixed size laid in courses, with patches of pale lichen, the same pale warm grey as the second image. Not dark stone, not dressed or sawn blocks.
+> - One seamless dark grey composite roof, the same pitch and colour as the second image, with no chimney, no gutters, no ridge tiles, no fascia board.
+> - The gable end on the right holds the door: a plain dark open doorway near the middle of the gable, with deep stone reveals and a large flat stone step before it. High in the same gable, above the door, a wide recess with a rounded top, set deep in the stone, and resting inside it a small, matte, dark field drone, folded, a smooth low capsule. No round window.
+> - The long wall facing the camera has two deep, wide windows with rounded corners, set deep in thick stone, dark glass with no frames, no mullions and no sills. No door on this long wall.
+> - A dark conduit runs along under the eave of the long wall and turns down at the right-hand corner to the ground. Dark, not pale or white.
+> - At the left end of the house a low dry-stone yard wall of the same pale stone runs back from the corner.
+> - Keep the house's size, footprint, height and position in the frame as they are now. It stays a low single-storey longhouse.
+>
+> The slim posts along the field on the right become slim dark posts with small pale caps, the same as the posts in the second image, with no wire between them.
+>
+> Do not add any people, animals, vehicles, signs, lettering, numbers, lamps, lights, plaques, solar panels, aerials, satellite dishes, fences with wire, timber cladding, downpipes in white, gutters or a chimney. The building is clean and kept, a photograph, not a render.
+
 ## 2026-11-17 — Season 4 chapter illustrations, all six (Fable, desktop)
 
 The prompts of record are in `story-bible/images.md` § 65, with the references each was sent. **Tool** for all six: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1. Eighteen images in all: twelve first-pass takes of twelve asked and six edit takes. Nothing was refused.
