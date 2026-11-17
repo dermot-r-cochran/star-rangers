@@ -9,7 +9,7 @@ aliases: []
 tags: [chthonari, undersong-belt, federation-of-sentient-beings, eden, orbital-five-o, engineering, season-10]
 description: "The one of four who keeps the crew's log, rarely wrong about what is true, and the one who wrote the line about Eden's third mount without believing it — because a record that says less than the structure is doing has been cut too far."
 image: "kattik.jpg"
-image_alt: "Kattik, a small six-legged Chthonari with a low, segmented slate-grey carapace and a smooth featureless head, standing on bare deck plating beneath a habitat's dock ring with the two forelegs resting on a plain flat slab of dull grey stone laid on the deck. A second Chthonari stands on a mounting bracket behind, out of focus, and a curve of walkway lights comes on around the ring in the distance."
+image_alt: "Kattik, a small six-legged Chthonari with a low, segmented slate-grey carapace and a smooth featureless head, standing on clean dark blue-grey deck plating beneath a habitat's dock ring with the two forelegs resting on a plain flat slab of dull grey stone laid on the deck. A second Chthonari stands on a plain blue-grey block behind, and the understructure's plated columns and curved ribs rise around them in cool even light."
 ---
 
 Kattik keeps the log. On a [Chthonari](/star-rangers/lore/chthonari/) contractor crew that is not a clerical duty; the log is the one record on a job that is the crew's own to leave, separate from whatever the client certifies, and the one who keeps it decides what a record is for. On [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/) in the spring of 2828 UCSD, Kattik decided. The name is a struck signature — a heavy strike, a light one, a heavy — spelled the way a human ear renders it.
