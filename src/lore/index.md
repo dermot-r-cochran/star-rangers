@@ -6,7 +6,7 @@ eleventyComputed:
 comments: true
 commentsCategory: lore
 ---
-<img class="page-hero-image" src="/star-rangers/images/hero/lore-cosmic.jpg" alt="A brightly coloured nebula: white and pale-blue cloud at the centre, rust and orange on the left, gold, teal and magenta banks on the right, scattered with stars" />
+<img class="page-hero-image" src="/star-rangers/images/hero/lore-above-the-cloud.jpg" alt="From high on a mountain, a sea of white cloud stretches to the horizon under a deep blue sky, with two distant islands standing above it and a dark wooded ridge running down into the cloud at the lower left." />
 <h1 class="page-title">Lore</h1>
 <p class="page-intro">
   Start with the ground under the story: the laws, factions, civic systems, and cosmological pressures that make each choice matter. These articles step outside the narrative. Because of that, they may confirm truths the characters have not yet proved.
