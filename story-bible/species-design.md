@@ -1083,6 +1083,64 @@ on the underside, with a fine close velvety nap. Not grey. **Voice**
   undying memory is a liability, never wisdom; no large bald head or black
   eyes; the body grants nothing.
 
+### Head and neck: options put to Dermot, 17 Nov 2026
+
+**Nothing in the design above is changed by this block.** Dermot, 17 November
+2026, to the three choices put after the re-filed portrait: *"Design pass
+(C)"*, a design pass on the head and neck only. The problem is the outline.
+The re-filed head has the written details (eyes far apart on the sides, two
+slits, no mouth line), and at a thumbnail a long smooth neck ending in a
+smooth blunt wedge still reads as a sauropod or a llama. The tripod, hub,
+column, slung body, working limbs and membranes are not in question and stay
+exactly as written. Drafted on Fable; the body is his to decide.
+
+**What the head and neck are for** (derived from points 3, 4 and 7 above and
+`planets/ilenne.md`; nothing new):
+
+- The body hangs high between the legs, and the food, the seep and the table
+  are low or out in front. The neck is the reach from a slung body to those
+  places; at a table the same reach brings the head to table height.
+- The head carries the eyes (sight for the horizon, wide field, little
+  overlap), the two slits (breath, and smell read by swinging the head into
+  the wind) and the feeding opening on its underside. Hearing is on the
+  body, not the head. Close work is felt by the working limbs.
+- Attending is leaning the head toward someone. Any option must keep a part
+  that can be seen to lean.
+
+**Four options**, each studied as an edit of the filed `ulessa.jpg` that
+changed only head and neck (`scripts/image-edit.js`, two takes each, plus one
+second round for C and one merged study; 14 generations, no refusals). None
+is filed. Sheet: `F:\CLAUDE\_tmp\mnemari-head-options-2026-11-17.jpg`, the
+current portrait first.
+
+| | The option | Written fact it changes | Earth attractor it risks | What the studies showed (rung 1 of the image ladder) |
+| --- | --- | --- | --- | --- |
+| **A** | **A jointed neck, carried folded.** Two straight lengths with one heavy knuckle between them, built like the legs' joints; it rises from the front of the body to the knuckle and folds down and forward to the table. Head as written. | One word of point 3: *long, curving neck* becomes *long, jointed neck, carried folded*. Reach, table height and the lean are kept. | A swan or crane if drawn thin; a desk-lamp arm; an elbow; a fourth leg. Kept thick, in hide, with skin creases at the joint. | Both takes broke the sauropod arc. Neither reads as an Earth animal in one word. Named risks seen: the knuckle can read as an elbow, and the neck as a fourth limb; the head at its end is still the wedge. |
+| **B** | **A short neck and a deep head, carried close under the arch.** She brings the head down by letting her feet out and lowering the whole sling (S01E00C08 already has her *with her feet let out and her head down*). | Point 3: the neck is short, not long; the head is *taller than long*, not rounded. Reaching the ground and a table is done by the legs. The lean becomes a lean of the whole body. | Hippo, manatee, seal (the section's own trap: a short neck on a heavy body). | No dinosaur. Take 2 reads as a blank deep head on a slung body; take 1 drew a pale front with an eye, close to a face (rung 2). The head so near the body also makes the sling read more as an animal hanging in a frame. |
+| **C** | **The written neck, with a broad flat head.** A level disc much wider than the neck, an eye at each far edge (the widest baseline a horizon-watcher can have), two slits on top, the feeding opening beneath, pressed flat to low growth or a seep. | Point 3: *smooth, rounded and blunt* becomes *broad and flat, wider than long*. Everything else kept. | A ray or flatfish; hammerhead; duck bill; cobra hood. | The outline is no land animal's and is the most distinctive of the four. The wide disc reads as a ray. A second round at about twice the neck's width fell straight back to a snake or duck-billed head, so only the wide form holds. Both rounds added a small dot at the rim that reads as a nostril. |
+| **D** | **No separate head.** The neck keeps its thickness and ends blunt; the eyes and slits sit on its last length. | Point 3: there is no widened head. The study asked for four slits to mark the end, where two are written; two would be kept. | Elephant trunk, worm, eel, lamprey (a row of slits is gills). | Take 2 held the blunt end and reads as a trunk or hose. Take 1 grew a head back with an eye, an eel's. The generator restores a head whenever an eye is asked for. |
+
+**Also tried, not an option:** A and D merged (a jointed neck with no
+separate head). Both takes put a head back, and one added a second joint.
+It is recorded so the next round does not repeat it.
+
+**Recommendation: A**, his to overrule. Basis: it is the only option whose
+two takes both lost the sauropod reading without gaining another animal; it
+changes one word of the written design; it gives the neck the same build as
+the legs, so the reach reads as part of this body; and it keeps what the
+frame turns on, a head leaned to the table the way a lamp is leaned to a
+page. Its remaining weakness is the wedge head at the end, which A does not
+address; if he wants the head changed as well, C's wide disc on A's neck is
+the merge to study next, and it has not been drawn. B is the most economical
+reading of the prose and the nearest to the hippo trap. D is the weakest:
+the generator would not hold it.
+
+**What a pick starts:** the chosen option replaces point 3 in place with a
+revision note quoting him; `ulessa.jpg`, `osune.jpg` and the S01E00C08
+terrace frame are brought to it under the *one people, one look* practice
+of 17 November; the prompt vocabulary and the standing negative gain its
+attractors by name. None of that is done here.
+
 ### Prompt vocabulary and standard negative
 
 The prompt of record is Ulessa's in `images.md` § 20, the generator's input

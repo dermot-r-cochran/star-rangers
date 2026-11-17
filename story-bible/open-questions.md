@@ -184,6 +184,31 @@ The next chapter of Tissadelle's middle under the 18 October ruling (option A), 
 1. **The watch's word, *the dead Starwarden*.** *Not Asked* (S05E00C01) has Wender sit *"in a dead Starwarden's chair"*, while *Spent*'s canon fact says the post's Starwarden had *gone up*. The new chapter answers it in the story: the post's watch calls any Starwarden who has gone up *dead*, since she does not write back and is not to be asked. (a) **Recommended: keep it**; it makes the two chapters agree and costs one paragraph. (b) Cut the paragraph and change *dead* to *departed* in *Not Asked*, a clarification of published prose and so his. (c) Cut the paragraph and leave *dead* as a figure of speech.
 2. **A portrait for Emeka Lindahl.** His page has none and no body is stated. (a) **Recommended: leave it** until a second chapter uses him. (b) State a body and write a portrait prompt now.
 
+## The Mnemari head and neck — four options put to Dermot, 17 November 2026 — OPEN, his
+
+His *"Design pass (C)"* of 17 November 2026: the re-filed head has the written
+details, and the outline of a long smooth neck with a blunt wedge head still
+reads as a sauropod or a llama. A body is his decision (CLAUDE.md, *Never
+without Dermot*), so nothing is changed. The options, the facts each would
+change, the attractor each risks and what the studies showed are in
+`species-design.md`, *Mnemari — Head and neck: options put to Dermot, 17 Nov
+2026*; the sheet is `F:\CLAUDE\_tmp\mnemari-head-options-2026-11-17.jpg`.
+
+- **A (recommended):** a jointed neck carried folded, built like the legs;
+  head as written. Changes one word, *curving*.
+- **B:** a short neck and a deep head under the arch; she lowers herself by
+  letting her feet out. Nearest the hippo trap.
+- **C:** the written neck with a broad flat disc of a head, an eye at each
+  edge. Most distinctive; reads as a ray.
+- **D:** no separate head, the neck ending blunt. The generator would not
+  hold it.
+- **Or:** keep the filed head, or ask for a merge (C's head on A's neck is
+  undrawn).
+
+A pick re-makes point 3 of the body and brings `ulessa.jpg`, `osune.jpg` and
+the S01E00C08 terrace frame to it. No image was filed in this pass.
+
+
 ## Left by the critic read of #1857 to #1873 — recorded 15 November 2026 on Fable — all three RULED the same evening, each as recommended
 
 The read of the afternoon's pull requests changed six phrases on four pages, each a correction (`CHANGELOG.md`). Three things it found need his word, so each is put once, as options. Nothing below is canon.
