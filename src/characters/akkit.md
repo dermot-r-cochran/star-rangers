@@ -8,7 +8,7 @@ status: "Retired — out of Corps service, at Tsittak"
 aliases: []
 tags: [chthonari, undersong-belt, tsittak, star-rangers, engineering-corps, fold-scaffold, federation-of-sentient-beings, civilian, author]
 image: "akkit.jpg"
-image_alt: "Akkit, a Chthonari: a low, broad, segmented body with a bronze-slate domed carapace and jointed legs, scuffed and worn, standing on the floor of a narrow channel cut in dark metal with tool marks along its walls, beside a plain sealed pale housing, in dim warm amber light"
+image_alt: "An artist's impression of Akkit, a Chthonari, painted in gouache and watercolour as a natural-history plate on cream paper: one low, flat oval disc of pitted slate-and-bronze hide with no head and no face, in a narrow channel cut through dark rock with tool marks along its walls, under warm amber light; of its six short jointed limbs, the two on the wall side are lifted and laid flat against the cut wall, and the other four grip the floor. A small plain sealed pale housing stands on the channel floor beside it."
 description: "A Chthonari of Tsittak, formerly of the Engineering Corps, who at the Survey Archive's asking struck on the settlement's dock plating what a history is to a people with no year and no fire, and stopped at the one account that is cut where it is cut — the author of the Chthonari history the record holds in their own voice, in translation."
 known_codex: [nothing-turned]
 ---

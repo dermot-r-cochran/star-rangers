@@ -4495,6 +4495,119 @@ Each sent with the filed frame first and round 2's take 1 as the body reference.
 
 **What the run teaches the next prompt of this people.** The blockout fixes A's outline, which neither text nor an edit of a beetle frame will; and the finish is the whole remaining problem. A smooth short limb comes back soft (a toy) or hard (a machine), never alive, and a finish pass cannot move the finish once an edit has set it. The next attempt changes what the limb is made of in the geometry, not the words about it.
 
+## 2026-11-17 — Chthonari: the A body as artist's impressions, nine frames filed (Opus, desktop)
+
+At Dermot's *"Artist's impression"* (the Chthonari photographic rounds failed; the A body goes to artist's impressions, painted or technical, never a cartoon) and, for Kettsa, *"Behind the working pair"*. The record and the critic's readings are in `images.md`, under the Orbital Five-O block, *Chthonari body A, applied*, *Impressions*. **Tool** throughout: Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K, 16:9, two takes per job, a grey blockout of `scripts/blockouts/chthonari-a.py` sent as the only reference (its pose named per frame; `write` was added to the script for these, and `write` and `address` are now seen side-on). Forty-two takes in all, none refused. Filed with `import-image.ps1 -Finish 0`, portraits at `-MaxEdge 1200`, chapters at `-MaxEdge 1600`.
+
+**One medium for the people**: a natural-history reconstruction plate in gouache and watercolour on cream paper, the precedent of `inner-turn.jpg` (31 October 2026). Every prompt is built from the same three blocks, the style, the body and the negatives, with the frame's own scene and pose between them; Kattik's is given in full and the others show their scene and pose only, since the blocks are word for word the same.
+
+### characters/kattik.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** `write`.
+- **Takes:** Six rounds of two takes. Round 1 (the round-2 blockout as it stood) copied the blockout's pose and its tube limbs, one pad on the slab; round 2 sent the limb sentence above with and without the blockout: with it the limbs became living and the pose stayed the blockout's, without it the body domed and the legs went beneath (a tick, rung 1), so the blockout stays. An edit of round 2's take 1 to raise the working pair drew them arched together over the slab, fingers (rung 2). Round 3 added the sentence on the lifted pair and still copied the blockout's pose. Round 4, the new `write` pose: take 1 filed; take 2 domed with legs beneath, a tick.
+
+> A natural-history reconstruction plate, painted in gouache and watercolour on warm cream paper by a Survey Archive scientific illustrator, realistic and anatomically careful, with the restraint of a museum plate: fine confident brushwork, visible paper grain, muted natural colour, one soft light from the upper left and a soft cast shadow, the painted surroundings fading out into bare cream paper toward the edges. 16:9 landscape. The attached grey image is a shape study only: copy from it the body's plan only, the flat disc lying on the ground and six limbs leaving its rim like spokes; take nothing else from it, not its pose, its tube-like limbs, its grey finish, its floor, its slab or its lighting, and pose the limbs as this plate describes.
+>
+> The plate shows Kattik, a cutter and the log-keeper of a contractor crew, at work on the bare plating of the understructure beneath a space habitat's dock ring: seen from a little above and to one side, the whole body in view, on a patch of clean dark blue-grey deck plate with flush round fastenings, a plain blue-grey column painted loosely behind. On the plate lies a thin flat slab of dull dark slate stone, plain and unmarked, no longer than the body.
+>
+> The being is a Chthonari, a small person about the length of a human forearm. The whole body is one low, broad, flat oval disc, nearly flat on top, lying flat on its underside on the surface with no gap and no legs beneath it. There is no head, no face, no neck, no eyes and no mouth, and the disc is one single piece: no segments, no plates, no seam or groove running round its rim. Its hard skin is dull slate with a bronze cast, matte, finely pitted and worn paler at the rim, like weathered hide over bone. From the rim, spaced like the spokes of a wheel, six short jointed limbs reach outward and lie low along the surface, gripping it, each limb a living limb of three slightly unequal, gently curved segments under one continuous skin, thicker at the root where it grows out of the disc's edge and tapering a little to a plain blunt pad no wider than the limb, the joints smooth and slightly creased like an insect's, never tubes, pipe sections, knobs or balls; a fine row of tiny bronze sensing nodules runs along the upper side of each limb. The two neighbouring limbs on the side facing the slab are lifted just clear of the deck and reach forward over the slab's near edge, pads a finger's breadth above the stone, about to write on it by touch; the other four are pressed flat to the deck plate. The whole rim is turned toward the slab: plainly attending to the work. The lifted pair is held low and nearly straight, reaching forward from the rim with the pads tipped down; never arched, no high knee, the two not side by side like fingers but a little apart, each following its own spoke.
+>
+> No crab, spider, tick, turtle, beetle, woodlouse, starfish or octopus; no domed shell, no carapace plates or scutes, no legs underneath the body, no pointed tips, no claws, no pincers, no fingers, no hands. Not a cartoon, comic, anime, clip art, children's book, mascot, cute style, outline-and-flat-fill drawing, toy, plush, clay, rubber, robot, cast metal, machine or 3D render; no exaggerated proportion. No text, labels, numerals, scale bar, lettering or signature anywhere.
+
+  The edit tried and not kept (input: round 2's take 1 with the blockout):
+
+> Edit this gouache natural-history plate. Change only two limbs: the two neighbouring limbs on the front edge of the disc, the ones nearest the slate slab (the front-centre limb and the front-left one beside it). Lift both of them up off the deck, each bending upward at its middle joint, and bring them together over the slab so that both blunt pads are poised just above the slab's surface, close together, as one about to write on it by touch. They stay attached at the disc's rim where they are now, the same living limbs with the same skin and the same row of small bronze nodules. Keep the other four limbs pressed flat to the deck exactly as they are, and keep the disc, the slab, the column, the deck, the paper, the brushwork, the light and the colour exactly as they are. The painting stays a careful scientific illustration in gouache: no cartoon, no outline drawing, no claws, no fingers, no hands, no text.
+
+### characters/tikket.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** the 17 November blockout as it stood (`study`).
+- **Takes:** One round of two takes (round 3 of the people's run). Take 1 filed: a limb laid up the column's face. Take 2 put a limb behind the column.
+
+> The plate shows Tikket, an apprentice cutter, a little smaller and paler than its crewmates, at the foot of a heavy structural mount in the understructure beneath a space habitat's dock ring: seen from a little above and to one side, the whole body in view. The mount is a plain square column of dark blue-grey metal standing on a broad flat foot plate fixed down by four large flush round fastenings; the body lies on the foot plate, close against the column.
+>
+> (the body block, with:) Four limbs are spread flat and pressed to the foot plate; the two limbs nearest the column are lifted and laid flat against its upright face, pads to the metal. Nothing moves: the whole body is attending to the column, listening through it.
+
+### characters/tsikk.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** `address`.
+- **Takes:** Two rounds. Round 3 (the old blockout) copied its pose, no pair raised. Round 4, `address`: take 1 filed, the front pair lifted, one high; take 2 splayed, no pair raised, a crab at a glance.
+
+> The plate shows Tsikk, a cutter, alone in the middle of a wide expanse of clean dark blue-grey deck plating in the understructure beneath a space habitat's dock ring, seen from a little above, the body small in the middle of the plate; plain columns and beams are painted loosely around it, and overhead the ring's curve rises into brighter light from no visible fitting.
+>
+> (the body block, with:) Four limbs grip the plating; the two limbs at the front are lifted just clear of the deck and held poised over it, pads down, about to strike, as one who speaks to the whole structure through the plating and expects to be heard. The lifted pair is held low and nearly straight, reaching forward from the rim with the pads tipped down; never arched, no high knee, the two not side by side like fingers but a little apart, each following its own spoke.
+
+### characters/tekka.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** `address`.
+- **Takes:** Three rounds. Rounds 1 and 2 (`run`) drew an even star of spokes across a member narrower than the disc, limbs reaching into air (rung 1, a wheel), and round 1 take 2 a tick walking on legs beneath; round 3 (`address`, the member three times the body's width): take 1 filed.
+
+> The plate shows Tekka, a cutter and a practised tunnel runner, moving along the flat top of a broad horizontal structural member of plain dark blue-grey metal, as wide as a walkway, three times the width of the body, so that every limb rests on it, in the understructure beneath a space habitat's dock ring, seen from a little above and to one side; the member runs across the plate and away into the soft distance, plain columns painted loosely behind.
+>
+> (the body block, with:) The disc lies flat on the member's top face, never raised on its limbs; four limbs lie low on the same face, gripping it, none hanging over its edge. The two front limbs are lifted and reach forward along the member toward the next hold, pads tipped down, as one about to set them down: a sure, course-reading gait, the rim turned along the way ahead.
+
+### characters/kettsa.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** `address`.
+- **Takes:** Two rounds and an edit. Round 1 drew the field shell as one lid with a ring of piping: a robot vacuum or a pan (rung 1), and no pair raised. Round 2 (the shell as sections stopping short of the rim; the tab placed between the lifted pair's roots): both takes raised the pair and seated the tab right, but the sections met in one line down the middle, a beetle's wing-case seam. One edit of round 2's take 1 made the shell one piece: take 1 filed (the two takes are near identical).
+
+> The plate shows Kettsa, a Senior Officer of the Star Rangers Engineering Corps, on duty on the plain pale deck plating of a ship's plant corridor, at the foot of a long smooth pale sealed housing, seen from a little above and to one side, the whole body in view. On duty Kettsa wears the Corps' field shell as it is fitted to this body: three or four thin matte graphite-grey sections laid close over the top of the disc and following its gentle curve, like fitted leather, each section edged with a fine steel-grey line of piping where it meets the next; the shell stops well short of the rim, so a broad band of the slate-bronze hide shows all round it, and the limbs and the underside stay bare. One small copper rank tab, five short plain raised bars and no lettering, is seated at the shell's front edge, directly behind the root of the two lifted working limbs.
+>
+> (the body block, with:) The two limbs on the side facing the housing are lifted just clear of the deck and reach toward the seam where the housing meets the deck, pads poised a finger's breadth above the metal; the other four are pressed flat to the plating, listening. The whole rim is turned toward the seam: reading the structure, plainly attending. The lifted pair is held low and nearly straight, reaching forward from the rim with the pads tipped down; never arched, no high knee, the two not side by side like fingers but a little apart, each following its own spoke.
+>
+> The copper tab sits at the front, between the two lifted limbs' roots, not at the back or the side; the shell is plain fitted clothing, never a lid, a pan or a machine casing.
+
+  The edit (input: round 2's take 1):
+
+> Edit this gouache natural-history plate. Change only the graphite shell on top of the disc: make it one single smooth piece with no line, seam or groove across it or down its middle, its edge still trimmed with the one fine steel-grey line of piping, and the band of slate-bronze hide still showing all round it. Keep the copper tab exactly where it is, at the front edge of the shell between the roots of the two raised limbs. Keep everything else exactly as it is: the disc, all six limbs and their pose, the housing, the deck, the paper, the brushwork, the light and the colour. No text, no cartoon.
+
+### characters/akkit.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** `address`.
+- **Takes:** One round. Take 2 filed, the working pair laid flat against the cut wall. Take 1 domed with legs beneath, a tick.
+
+> The plate shows Akkit, a resident of a Chthonari burrow settlement and once a fold-scaffold engineer, in a narrow channel cut through dark metal-bearing rock, its walls carrying the parallel marks of the cutting tools, in dim warm amber light, seen from a little above, the whole body in view; beside it on the channel floor stands a small plain sealed pale housing.
+>
+> (the body block, with:) Four limbs grip the channel floor; the two limbs on the side facing the channel wall are lifted and reach to the wall, pads laid flat against the tool-marked rock at the height of the disc, as if reading the cut. The whole rim is turned toward the wall: plainly attending. The lifted pair is held low and nearly straight, reaching forward from the rim with the pads tipped down; never arched, no high knee, the two not side by side like fingers but a little apart, each following its own spoke.
+
+### characters/pekkat.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** `address`.
+- **Takes:** One round. Take 2 filed, both pads on the rib, the bead rows along each limb. Take 1 reached toward the rib without touching it.
+
+> The plate shows Pekkat, a mathematician of the Undersong, in a burrow chamber among cut ribs of dark nickel-iron rising from the rock floor, under dim amber light, seen from a little above and to one side, the whole body in view beside the cut edge of one rib.
+>
+> (the body block, with:) The two limbs nearest the rib are lifted and reach to it, one pad resting lightly on the rib's cut edge and the other a finger's breadth from it; the other four are pressed flat to the rock floor. The whole rim is turned toward the rib: attending, as one who listens to a ratio. The lifted pair is held low and nearly straight, reaching forward from the rim with the pads tipped down; never arched, no high knee, the two not side by side like fingers but a little apart, each following its own spoke.
+>
+> On this plate the sensing organs are shown prominently: rows of small translucent bronze-brown sensing organs, like close-set beads, set in fine grooves along each limb segment.
+
+### chapters/s10e01c02.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** `address`.
+- **Takes:** Two rounds. Round 1: both takes drew the near pair domed with legs beneath, ticks. Round 2 added the extra sentence below: take 1 filed; take 2 put a row of lit strip lights in the ceiling.
+
+> A painted reconstruction of a scene, as a full plate: the understructure beneath the dock ring of Eden, a rotating space habitat, at the end of a working shift, seen from low down near the deck. A long, low working space of large plain dark blue-grey metal deck plates with flush round fastenings and a low plated ceiling, curving gently upward into the distance. In the middle of the plate stands a heavy structural mount, a plain square column of the same blue-grey metal as tall as a person, on a broad flat foot plate fixed down by four large flush round fastenings; three more identical mounts stand in a row behind it, growing smaller with distance. Two small beings are at the near mount: the first, a little smaller and paler, lies on the mount's foot plate close against the column; the second lies on the deck plating a little to the right, its rim turned toward the first. Far off down the row, small and soft, two more of them wait beside a neat row of low plain sealed grey capsules.
+>
+> (the body block, with:) The first being has four limbs pressed to the foot plate and its two nearest limbs laid flat against the column's face, listening through it. The second has its two front limbs lifted and set down flat on the deck plating toward the first, pads to the metal, as one saying something through the deck; the other four grip the plating. The two are plainly attending to each other through the metal.
+>
+> Exactly four beings in the plate, two near and two far; every one is the same low flat disc lying flat on the metal with no gap beneath it, its six limbs spread out from its rim along the surface like spokes, never folded beneath it and never raising it up; no dome, no beetle, no tick. Nothing drawn passes between them through the air.
+
+### chapters/s10e01c05.jpg — re-filed 17 November 2026 (artist's impression)
+
+- **Blockout pose:** `address`.
+- **Takes:** One round and an edit. Take 1 filed; take 2 drew no one writing. An edit of take 1 to lay the writer's pads on the slab changed almost nothing, and the unedited take is the one filed.
+
+> A painted reconstruction of a scene, as a full plate: inside a small sealed contractors' module set down beneath the dock ring of Eden, a rotating space habitat, on a crew's last shift, seen from low down near the floor. Plain sand-coloured walls; dark blue-grey deck plates with flush round fastenings; against the far wall a neat row of six low sealed tool capsules of dull grey metal with rounded ends, packed; a closed plain flush hatch many times their height behind; one hard working light from the left. In the middle of the floor lies a thin flat slab of dull dark slate stone, plain and unmarked. Four small beings of the same size, a little different in tone within slate and bronze, lie on the floor around the slab, well apart, none overlapping: one at the slab, one at the left, one at the right and one beyond.
+>
+> (the body block, with:) The one at the slab has its two front limbs lifted and laid on the slab's edge, writing a line in the record by touch; the other three each have their rim turned toward the slab and their two front limbs lifted a little toward it, the other limbs pressed flat to the floor. All four attend to the one line going into the record. The lifted pair is held low and nearly straight, reaching forward from the rim with the pads tipped down; never arched, no high knee, the two not side by side like fingers but a little apart, each following its own spoke.
+>
+> Exactly four beings, every one the same flat disc with six spoke limbs.
+
+  The edit tried and not kept (input: take 1):
+
+> Edit this gouache reconstruction plate. Change only the being nearest the camera at the left, the one beside the slate slab: lift its two limbs on the side facing the slab just clear of the floor and lay their blunt pads on the slab's near edge, a little apart, as one writing a line on the slab by touch; its other four limbs stay pressed flat to the floor and its flat disc stays lying flat. Turn the other three beings' nearest limbs a little toward the slab, so all four attend to it, without moving their discs. Keep everything else exactly as it is: the walls, the hatch, the capsules, the floor, the slab, the paper, the brushwork, the light and the colour. Every being stays one low flat disc on the floor with six spoke limbs, never raised on its legs. No text, no cartoon.
+
+**What the run teaches the next prompt of this people.** The blockout's pose wins over the words: a pose the prompt asks for and the blockout does not show is not drawn, so the pose goes into the blockout first. Without the blockout the painting domes the disc and puts the legs beneath it, as the photographs did. A shell drawn whole over the disc reads as a lid, and in sections as a beetle's wing cases; one piece stopping short of the rim holds. Painted, the limbs that came back as toys and robots in the photographs read as a creature's, though they stay a little tubular.
+
 ## 2026-11-17 — Season 13 chapter illustrations, all four (Fable, desktop)
 
 `scripts/image-edit.js`, `gemini-3.1-flash-image`, 16:9 at 2K, two takes a round. The prompts of record are in `images.md` § 75; what follows is the edits and the handwork. Ten images; nothing refused.
