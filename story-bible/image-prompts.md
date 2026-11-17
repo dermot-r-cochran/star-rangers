@@ -4626,3 +4626,46 @@ Each round 1 prompt with three changes: *matching the look of the second image* 
 
 **What the run teaches.** Both rounds re-coloured the render's rock and kept its forms; the forms are what read as a render. A room is made photographic by replacing it, not by editing it.
 
+## 2026-11-17 — Season 13 chapter illustrations, all four (Fable, desktop)
+
+`scripts/image-edit.js`, `gemini-3.1-flash-image`, 16:9 at 2K, two takes a round. The prompts of record are in `images.md` § 75; what follows is the edits and the handwork. Ten images; nothing refused.
+
+### chapters/s13e01c01.jpg — filed 17 November 2026
+
+Plate: `F:\108IRLEY\DSC_0941.JPG`, cropped to 4608×2592 from row 240 and sent at 2048×1152. The edit prompt is the prompt of record. Take 1 of 2 used. Handwork (OpenCV, NumPy), at 3200×1800: the take registered to the plate (SIFT, ratio 0.7, RANSAC homography, 121 inliers of 143); a mask from the blurred difference of the two (threshold 22, opened, dilated 41 px, closed, islands under 6,000 px dropped), feathered at 14 px, so that only the building, the fence's strip and the path beside it come from the take; on his pixels, a bench on the beach and a white object on the rocks inpainted, a sail and two small boats covered with the sea 100 px to the right and 22 px below; light grain laid back on the healed patches. Grade, whole frame alike: to linear light, exposure times 0.50 at the top of the sky rising to 0.72 by 45 per cent of the height and below, blue times 1.06, red times 0.94, back to gamma, saturation times 0.72, contrast times 1.12 about the middle. Then cropped to 2496×1404 from (704, 64) and reduced to 1600×900. A first attempt to pull the far shore's pale building marks down to the land's tone left a visible block and was dropped; the marks stay.
+
+### chapters/s13e01c02.jpg — filed 17 November 2026
+
+Generation take 1 of 2, then two edits.
+
+First edit (take 1 of 2 used):
+
+> Edit this photograph of a long plain grey hall and keep it exactly as it is in every respect except the four changes below. Keep the walls, the floor, the ceiling, their rough matte grey surface, the shut doors along both walls, the darkness at the far end, the framing, the warm light from the left, the colour and the grain, all untouched.
+>
+> 1. Remove the oil lamp at the bottom left corner completely, with its glass chimney, its flame and its base, and put plain grey floor and wall there. The warm light still comes from the left, from a lamp that is out of the picture.
+>
+> 2. The open door on the right: remove the hinges and the raised moulded frame round the doorway. The doorway is now only a plain tall opening cut cleanly through the grey wall, with no frame, no moulding and no trim, its edges the same grey material as the wall. The open door itself is a plain flat grey slab with no hinges, no handle and no fittings, standing swung inward into the dark room so that only its near edge shows inside the opening. The room beyond stays completely dark.
+>
+> 3. Replace the large grey pill-shaped capsule on the floor with a smaller and plainer object lying in the same place, on the floor at the foot of the open doorway, just inside it, against the wall: a plain sealed case about the length of a forearm, a flat-sided oblong of smooth matte mid-grey with softly rounded edges and corners, like a long smooth river stone that has been squared, with one fine straight seam along its side and nothing else on it: no handle, no latches, no hinges, no lid, no buttons, no lights, no markings. It lies flat and still and casts a soft shadow away from the lamp.
+>
+> 4. Darken the picture a little overall so the light falls away sooner: the near walls and the open doorway hold the warm light, and the hall beyond the second pair of doors goes to black.
+>
+> Add no people, no figures, no shadows of people, no lamps, no lights, no lettering and nothing else.
+
+Second edit, of that result (take 2 of 2 used):
+
+> Edit this photograph of a long plain grey hall with one open door and keep it exactly as it is in every respect except the one change below. Keep the walls, the floor, the ceiling, the shut doors, the open door, the darkness, the warm light from the left, the framing, the colour and the grain, all untouched.
+>
+> Move the small grey case. It must no longer lie out on the hall floor in front of the doorway: put plain bare grey floor there, with the same light on it. Instead the same small plain grey case now lies inside the open doorway, on the floor of the dark room just past the threshold, pushed up against the foot of the wall on the right-hand side of the opening, so that it is seen through the doorway, small, with only its near end and top catching the last of the warm light and the rest of it going into shadow. It is the same object: a plain sealed flat-sided oblong of smooth matte grey about the length of a forearm with softly rounded edges, no handle, no latches, no lights, no markings. The room beyond it stays completely dark.
+>
+> Add no people, no figures, no lamps, no lights, no lettering and nothing else.
+
+Filed through `scripts/photo-finish.py` at strength 1, 1600 px.
+
+### chapters/s13e02c01.jpg — filed 17 November 2026
+
+`F:\130DUNLG\DSC_6941.JPG`, cropped to 4608×2592 from row 150. By hand: the top-left 270×90 px (a headland with a lighthouse on the horizon) covered with the mirrored 270 px of sea, horizon and sky to its right, feathered over 14 px at the join and 12 px at the foot. Reduced to 1600×900. No generation, no grade, no finish.
+
+### chapters/s13e02c02.jpg — filed 17 November 2026
+
+Generation take 1 of 2, as generated, with three references. Filed through `scripts/photo-finish.py` at strength 1, 1600 px. No edit.
