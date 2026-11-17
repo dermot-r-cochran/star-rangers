@@ -3428,6 +3428,48 @@ Dermot's *"Yes, as recommended"* (17 November 2026) to the options put to him af
 >
 > No other change. No new limb, no pale or pink tip, no swelling at any tip, no head, no new eyes, no new objects, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
 
+## 2026-11-17 — Season 5 chapter illustrations, all six (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 66, with the references each was sent. **Tool** for the four generated frames and the plate edit: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, and at `-Finish 0` for the two frames on Dermot's own plates. Sixteen images in all: ten first-pass takes of ten asked and six edit takes. Nothing was refused.
+
+### chapters/s05e00c01.jpg — filed 17 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 66.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 2, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is, both women, their faces, hair, hands and stance, the round hatch, its open door, the lock tube beyond, the small dark housing with its one indicator, the grain and the framing, and change only these things. 1. The ceiling: remove the bright rectangular light panels at the top corners of the frame and the lit panel inside the lock tube, so that each ceiling is one plain unbroken surface of the same pale grey-green composite, and the soft even light in the room has no visible source. 2. The older woman at the left: her jacket becomes plain graphite grey, a dark neutral grey with no green in it; keep its cut, its stand collar and the small pale tab on the collar exactly. 3. The lower wall and floor: remove the few small scuff marks, so the surfaces are clean and kept. Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
+
+### chapters/s05e00c02.jpg — filed 17 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 66.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is, the seated officer in the right foreground, her face, hair, jacket and hands, the four blank grey leaves on her desk, every clerk and crew member, their faces and clothes, the desks, the blue-grey floor, the sand-coloured walls and ribs, the grain and the framing, and change only these things. 1. Lighting: remove every strip light, every bright rectangular ceiling panel and every lit slot under the galleries and in the walls, and remove the windows; every ceiling and soffit becomes one plain unbroken surface of the same pale sand-coloured composite, and the bright even light in the deck has no visible source. 2. The record crates: each becomes a plain smooth closed case of pale grey composite with rounded corners and one fine seam round its middle, with one small round bronze seal on the seam; no lids, no latches, no handles, no ribs, no rims. 3. The carriers under the crates become plain low flat sleds of pale composite that rest close to the deck, with no wheels, no castors and no tyres. 4. The gallery rails become one low solid smooth rail of the same pale composite, with no bars, posts or balusters. Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
+
+### chapters/s05e01c01.jpg — filed 17 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 66.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is, the woman, her face, hair, clothes and stance, her hand on the rib, the dark slate in her other hand, the great arched ribs, the small dark discs seated on the nearest rib, the far door, the side arch, the deck, the grain and the framing, and change only this. Lighting: remove every bright rectangular light panel in the ceiling between the ribs, and every lit strip and slot low on the walls, at the foot of the ribs and inside the side arch; where each one was, the surface is plain unbroken pale grey composite like the rest. The corridor keeps the same soft even working light, and that light has no visible source. Change nothing else. A photograph, not a render. No text, lettering or numerals anywhere.
+
+### chapters/s05e02c01.jpg — filed 17 November 2026
+- **Kind:** Dermot's own photograph, as it is
+- **Source:** `F:\117DODDR\_DSC1935.JPG` (7 June 2025), cropped to 16:9 from the foot of the frame (4608×2592), resized to 1600×900 by `import-image.ps1 -Finish 0`. No generation and no edit.
+
+### chapters/s05e02c02.jpg — filed 17 November 2026
+- **Kind:** generation with references, then one fix by hand
+- **Source:** `images.md` § 66.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, variation 1 filed. By hand, at full size before the finish: a faint line of pseudo-lettering on a brown volume in the left niche healed out (`cv2.inpaint`, a rectangle of 82 by 36 px).
+
+### chapters/s05e02c03.jpg — filed 17 November 2026
+- **Kind:** an edit of Dermot's own photograph, then one fix by hand
+- **Source:** the plate is `F:\122STHWL\DSC_3946.JPG` (6 September 2025), cropped to 16:9 and sent at 2400×1350; the edit prompt is the prompt of record in `images.md` § 66.
+- **Run:** `scripts/image-edit.js`, edit take 2 of 2 filed. By hand, at full size: the one bright point with a halo at the end of the line healed out (`cv2.inpaint`, a circle of 20 px) and one faint small light put back in its place. Filed at `-Finish 0`.
+
 ## 2026-11-17 — Season 4 chapter illustrations, all six (Fable, desktop)
 
 The prompts of record are in `story-bible/images.md` § 65, with the references each was sent. **Tool** for all six: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1. Eighteen images in all: twelve first-pass takes of twelve asked and six edit takes. Nothing was refused.
