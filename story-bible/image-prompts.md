@@ -4387,3 +4387,110 @@ The options study recorded in `species-design.md` (*Vessik and the Chthonari —
 > The body is one smooth thick spindle of hard hide with both ends alike. Four limbs stand on the floor, two at each end. Two more limbs leave the top of the body, one at each end, rise above it, bend, and come down with their tips on the slab. All six limbs are thick hard jointed limbs of one kind with blunt tips. Not a spider, not a crab, not a scorpion, not an ant.
 
 **What the run teaches the next prompt of this people.** An edit of a filed Chthonari frame keeps that frame's legs beneath the body whatever the text says, so a new plan needs new geometry, not an edit. A simile for the body is drawn literally (*keg* gave hoops and end caps; *axe head* and *mallet* gave cast metal). A blockout holds the plan and the count better than text, and its ellipsoid limbs come back as smooth lobes or with pointed tips; the next blockout wants blunt tips modelled, not asked for.
+
+## 2026-11-17 — Chthonari body A: second study round and the six frames re-made, none filed (Opus, desktop)
+
+At Dermot's *"A: the sole (Recommended)"* (`species-design.md`, *Vessik and the Chthonari — Body: the sole*). **Tool** throughout: Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K, two takes per job. Thirteen jobs, twenty-six takes, none refused, **none filed** (`images.md`, the Orbital Five-O block, *Chthonari body A, applied*). Blockout: `scripts/blockouts/chthonari-a.py`, pose `study`, Blender 5.2, Cycles, 1600×900; place guide `src/images/characters/kattik.jpg`.
+
+### The blockout made photographic (none filed)
+
+- **Round 2: even round limbs, blunt pads, one disc** (the plan held; no crab, turtle or seam; a leather or sewn toy, rung 3). Inputs: the blockout, `kattik.jpg`.
+
+> Make the first image, a grey blockout, into a real photograph of a living being. Keep every shape exactly: the one flat oval disc of the body, the number of limbs (exactly six), where each limb leaves the rim of the disc, the joints of each limb, where each rounded pad rests, the one limb lifted clear of the floor, the one pad set on the flat slab, and the camera. Add nothing to the body: no head, no face, no eyes, no mouth, no feelers, no extra limbs, no claws, no pincers, no points.
+>
+> The second image is only a guide to the place: the same clean dark blue-grey plated floor with flush round fastenings, plain columns behind, and the plain grey stone slab. Do not copy the creature in the second image.
+>
+> The being is small, about the length of a forearm, and alive. Its body is one low flat disc of living hide lying directly on the floor on its underside, with no gap beneath it, no rim line, no seam and no lid; the upper surface is gently curved and nearly flat, never a dome, never a shell of plates. The hide is hard but organic: a fine irregular grain like weathered horn, slate grey shading to a warm dull bronze in patches, with small pale scratches, a dull worn patch near the rim, fine dust in the creases at the limb roots, and a faint waxy sheen where the light catches it. Each limb is jointed, of a plain even thickness, the same hide, and ends in a round blunt pad pressed flat to the floor; no claws, no pointed tips. The limbs are uneven in reach, as a living body is.
+>
+> One hard working light from the left throws crisp shadows; deep focus at mid height; a real lens, fine grain, normal exposure, natural colour. Not a render, not a toy, not a figurine, not cast metal, not bronze, not clay. Not a turtle, not a tortoise, not a crab, not a tick, not a spider, not a starfish, not a beetle.
+
+- **Round 3: thick-rooted limbs** (fingers, rung 2; take 2 stood the disc on its limbs). As round 2, with the hide sentence *"the dry, matte, hard skin of a living animal, never leather and never metal: a fine irregular pored grain"*, the limbs *"thickest where it leaves the rim and a little finer outward, the joints narrow waists in one continuous skin with no rings, no stitching and no seams"*, and *"not leather, not a stuffed or sewn toy"* added to the negatives.
+- **Round 4: hard tapered ten-faced segments** (a cast-metal robot, rung 3; take 2 put a present-day camera on the deck). As round 2, with the hide *"a hard, dry, living exoskeleton, matte, never shiny, never leather or rubber: a fine uneven grain with tiny pits, hairline cracks and growth marks"*, the limbs *"three hard segments, slightly flattened, each a little narrower toward its joint, the joints narrow and tight"*, and *"not rubber, not leather, not a stuffed toy, not a product photograph"* added.
+
+### Text alone, and an edit of it (none filed)
+
+- **No blockout, no reference** (the most photographic finish; legs beneath a raised body, a crab, rung 1; take 1 a lit work lamp in frame):
+
+> A real documentary photograph, 16:9, taken at mid height in deep focus in the clean understructure beneath a space habitat's dock ring: dark blue-grey deck plates with flush round fastenings, plain blue-grey columns behind, one hard working light from the left, normal exposure, natural colour, fine sensor grain.
+>
+> On the deck, a small living being about the length of a forearm, alone, at work beside a plain flat slab of dull grey stone. Its body is one low, broad, flat oval disc lying directly on the deck on its underside, with no gap beneath it: no head, no face, no eyes, no mouth, no feelers, no neck, no sections, no seam and no rim line; nearly flat on top, never a dome and never a shell of plates. Exactly six jointed limbs, no more and no fewer, leave the rim of the disc spaced round it like the spokes of a wheel, and lie low along the deck, gripping; each limb is three short segments, and each ends in a round blunt pad pressed to the metal, with no claw and no point. The limb nearest the slab rests its pad on the slab's surface; the limb beside it is lifted clear of the deck, poised to strike the slab. The whole body is turned toward the slab.
+>
+> The skin of the body and limbs is that of a real animal photographed where it lives: dry and matte, a fine uneven grain, faint creases at each joint, small pale scratches and one old chip at the rim, dust in the folds where the limbs leave the body, the tone varying from cool slate grey to a dull warm bronze. Contact shadow where it touches the deck.
+>
+> No other being, no person, no camera, no tool, no device in frame. No lettering, numerals or lit fittings. Not a turtle, not a tortoise, not a crab, not a tick, not a spider, not a starfish, not a beetle, not an insect, not a hand. Not a toy, not a figurine, not a model, not cast metal, not a robot, not leather, not rubber, not clay, not a render.
+
+- **Lowering that body** (inputs: its take 2, the round 4 blockout as a shape guide; the posture did not change):
+
+> Edit the first photograph. Keep the being's skin, colour, wear and finish exactly as they are, and keep the room, the light, the slab and the camera, but change its posture to the one in the second image, a grey shape guide: the flat disc of the body lowered until its whole underside lies on the deck with no gap beneath it, and the six limbs splayed straight outward from the rim like the spokes of a wheel, lying low along the deck, each with its blunt pad pressed to the metal, none of them beneath the body. The limb nearest the slab rests its pad on the slab; the limb beside it is lifted a little clear of the deck. Take nothing else from the second image: not its grey colour, its smooth surface or its light.
+>
+> Remove the work lamp at the left; the light still comes from the left, from no visible fitting. No head, no face, no eyes, no claws, no extra limbs. Not a crab, not a spider, not a tick, not a turtle. A real photograph.
+
+### The six frames (none filed)
+
+Each sent with the filed frame first and round 2's take 1 as the body reference.
+
+- **`kattik.jpg`** (take 1 placed both bodies; take 2 stood the foreground one up; then two finish passes on take 1, neither changing the finish):
+
+> Edit the first photograph. Replace both small creatures in it, the one in the foreground at the slab and the one on the block behind, with beings of the body shown in the second image, and change nothing else: keep the blue-grey plated room, the columns, the curved ribs, the block, the floor, the flat grey stone slab, the light, the camera and the grain exactly as they are. Each being stays where its creature was and about the same size, about the length of a forearm.
+>
+> The body, as in the second image: one low flat oval disc lying directly on the floor on its underside, with no gap beneath it, no legs beneath it, no head, no face, no eyes, no mouth, no feelers, no rim line and no seam; nearly flat on top, never a dome, never a shell of plates. Exactly six jointed limbs leave the rim of the disc like spokes and lie low along the floor, each ending in a round blunt pad pressed to the floor; no claws, no pointed tips. In the foreground, one limb nearest the slab rests its pad on the slab and the limb beside it is lifted clear of the floor, as if about to strike. The one behind lies flat on top of its block with its limbs gripping the block's edges.
+>
+> The hide is the dry, matte skin of a living animal: a fine irregular grain, slate grey shading to a dull warm bronze in patches, small pale scratches, dust in the creases at the limb roots; the joints are narrow waists in one continuous skin. Not leather, no stitching, no rings at the joints, not cast metal, not a toy, not a figurine, not clay. Not a turtle, not a crab, not a tick, not a spider, not a starfish, not a beetle, not a hand. A real photograph, not a render.
+
+  Finish pass 1 (input: the edit's take 1):
+
+> Edit this photograph. Change only the surface and finish of the small beings in it, never their shape: keep every outline, every limb, the count and placement of the limbs, each pose and each size exactly, and keep the room, the light and the camera exactly as they are.
+>
+> At present the beings look like smooth moulded toys. Make them look like real living animals photographed where they are: the skin dry and matte, with a fine uneven grain, faint creases where each limb bends, small irregular pale scratches and chips, a dull worn patch near the rim, fine dust caught in the creases, tone varying across the body from cool slate grey to a dull warm bronze, the limbs a little uneven in thickness as living limbs are, the joints soft folds of the same skin, never rings, never stitching. Their shadows sit firmly on the metal, with contact shadow where the body and pads touch. Fine sensor grain over the whole frame, a real lens.
+>
+> No head, no face, no eyes, no mouth, no feelers, no claws, no extra limbs. Not leather, not rubber, not plastic, not cast metal, not clay, not a render.
+
+  Finish pass 2 (inputs: the edit's take 1, the text-only take 2 as a skin reference):
+
+> Edit the first photograph. Change only the surface of the two small beings in it, never their shape: keep every outline, every limb, the count and placement of the limbs, each pose, each size and each position exactly, and keep the room, the slab, the light and the camera exactly as they are.
+>
+> Give their body and limbs the skin of the being in the second image: dry, matte, weathered, a fine uneven grain, dull slate grey shading to a dull warm bronze, darker in the folds, small pale scratches, dust where the limbs leave the body, soft creased joints. Do not copy anything else from the second image: not its shape, its legs, its pose, its room or its lamp. The beings stay flat on the metal with no gap beneath them, with a dark contact shadow where body and pads touch.
+>
+> No head, no face, no eyes, no mouth, no feelers, no claws, no extra limbs. Not shiny, not leather, not rubber, not plastic, not cast metal, not a toy, not a render.
+
+- **`tikket.jpg`** (both takes placed the disc against the bracket; a plush toy, rung 3):
+
+> Edit the first photograph. Replace the small creature in it with a being of the body shown in the second image, and change nothing else: keep the room, the heavy bolted mounting bracket, the pipes and girders behind, the deck, the bolts, the light, the camera and the grain exactly as they are. The being stays where the creature was and about the same size, about the length of a forearm.
+>
+> The being lies with its whole underside pressed flat against the foot of the bracket and the deck beside it, with no gap beneath it and no legs beneath it, as if listening to the metal through its body; all six limbs lie low and grip the bracket and the deck, every pad touching metal.
+>
+> The body, as in the second image: one low flat oval disc with no head, no face, no eyes, no mouth, no feelers, no neck, no sections, no rim line and no seam; nearly flat on top, never a dome, never a shell of plates. Exactly six jointed limbs leave the rim of the disc like spokes, each ending in a round blunt pad; no claws, no pointed tips. The skin is the dry, matte skin of a living animal: a fine uneven grain, slate grey shading to a dull warm bronze in patches, small pale scratches, dust in the creases where the limbs leave the body, the joints narrow folds of one continuous skin. Not leather, no stitching, no rings at the joints, not cast metal, not a toy, not a figurine, not clay. Not a turtle, not a crab, not a tick, not a spider, not a starfish, not a beetle, not a hand. A real photograph, not a render.
+
+- **`tsikk.jpg`** (take 1 stood the body up; take 2 lay flat, its raised pair read as fingers):
+
+> Edit the first photograph. Replace the small creature in it with a being of the body shown in the second image, and change nothing else: keep the wide clean blue-grey plated deck, the columns, beams and curved wall, the ring curving overhead, the light, the camera and the grain exactly as they are. The being stays where the creature was, alone in the middle of the deck, and about the same size, about the length of a forearm.
+>
+> Its whole underside lies flat on the deck with no gap beneath it and no legs beneath it. Four limbs lie low along the deck, gripping, pads pressed to the metal; the two limbs at the front are lifted clear of the deck and held up and forward, still, as if addressing the whole structure around it.
+>
+> The body, as in the second image: one low flat oval disc with no head, no face, no eyes, no mouth, no feelers, no neck, no sections, no rim line and no seam; nearly flat on top, never a dome, never a shell of plates. Exactly six jointed limbs leave the rim of the disc like spokes, each ending in a round blunt pad; no claws, no pointed tips. The skin is the dry, matte skin of a living animal: a fine uneven grain, slate grey shading to a dull warm bronze in patches, small pale scratches, dust in the creases where the limbs leave the body, the joints narrow folds of one continuous skin. Not leather, no stitching, no rings at the joints, not cast metal, not a toy, not a figurine, not clay. Not a turtle, not a crab, not a tick, not a spider, not a starfish, not a beetle, not a hand. A real photograph, not a render.
+
+- **`tekka.jpg`** (both takes held the body up off the member; a plush tick):
+
+> Edit the first photograph. Replace the small creature in it with a being of the body shown in the second image, and change nothing else: keep the low bolted platform, the two bolted brackets at either side, the understructure behind, the deck, the bolts, the light, the camera and the grain exactly as they are. The being stays where the creature was, between the two brackets, and about the same size, about the length of a forearm.
+>
+> It is moving along the platform, low and quick: its whole underside skims the metal with no gap beneath it and no legs beneath it, four limbs splayed outward gripping the platform's surface and edges, and two limbs on one side lifted mid-stride, their pads just clear of the metal.
+>
+> The body, as in the second image: one low flat oval disc with no head, no face, no eyes, no mouth, no feelers, no neck, no sections, no rim line and no seam; nearly flat on top, never a dome, never a shell of plates. Exactly six jointed limbs leave the rim of the disc like spokes, each ending in a round blunt pad; no claws, no pointed tips. The skin is the dry, matte skin of a living animal: a fine uneven grain, slate grey shading to a dull warm bronze in patches, small pale scratches, dust in the creases where the limbs leave the body, the joints narrow folds of one continuous skin. Not leather, no stitching, no rings at the joints, not cast metal, not a toy, not a figurine, not clay. Not a turtle, not a crab, not a tick, not a spider, not a starfish, not a beetle, not a hand. A real photograph, not a render.
+
+- **`s10e01c02.jpg`** (take 1 placed all four, the limb on the column read as a finger; take 2 drew one on the column face, a tick):
+
+> Edit the first photograph. Replace each small creature in it, the two in the foreground at the column and the two far off by the capsules, with a being of the body shown in the second image, and change nothing else: keep the column, its foot plate, the row of columns behind, the curving plated space, the capsules, the deck, the light, the camera and the grain exactly as they are. Each being stays where its creature was and about the same size.
+>
+> In the foreground: one being lies flat on the column's foot plate, its underside pressed to the plate with no gap beneath it, its two front limbs raised and laid against the column's metal face, the other four gripping the plate; the other lies flat on the deck beside it, all six limbs low along the deck. The two far off lie flat on the deck beside the capsules.
+>
+> The body, as in the second image: one low flat oval disc with no head, no face, no eyes, no mouth, no feelers, no neck, no sections, no rim line and no seam; nearly flat on top, never a dome, never a shell of plates. Exactly six jointed limbs leave the rim of the disc like spokes, each ending in a round blunt pad; no claws, no pointed tips. The skin is the dry, matte skin of a living animal: a fine uneven grain, slate grey shading to a dull warm bronze in patches, small pale scratches, dust in the creases where the limbs leave the body, the joints narrow folds of one continuous skin. Not leather, no stitching, no rings at the joints, not cast metal, not a toy, not a figurine, not clay. Not a turtle, not a crab, not a tick, not a spider, not a starfish, not a beetle, not a hand. A real photograph, not a render.
+
+- **`s10e01c05.jpg`** (both takes four flat bodies round the slab; clay figurines):
+
+> Edit the first photograph. Replace each of the four small creatures in it with a being of the body shown in the second image, and change nothing else: keep the sand-coloured module, the hatch, the grey panel, the row of capsules, the deck plates, the thin slab of slate, the light, the camera and the grain exactly as they are. Each being stays where its creature was and about the same size; all four are adults of one size.
+>
+> Each lies flat on the deck, underside pressed to the plates with no gap beneath it and no legs beneath it, limbs low along the deck. The four are gathered round the slab, each with its rim turned toward it; one rests the pads of its two front limbs on the slab's edge, and the others keep their nearest limbs still on the deck, attending to it.
+>
+> The body, as in the second image: one low flat oval disc with no head, no face, no eyes, no mouth, no feelers, no neck, no sections, no rim line and no seam; nearly flat on top, never a dome, never a shell of plates. Exactly six jointed limbs leave the rim of the disc like spokes, each ending in a round blunt pad; no claws, no pointed tips. The skin is the dry, matte skin of a living animal: a fine uneven grain, slate grey shading to a dull warm bronze in patches, small pale scratches, dust in the creases where the limbs leave the body, the joints narrow folds of one continuous skin. Not leather, no stitching, no rings at the joints, not cast metal, not a toy, not a figurine, not clay. Not a turtle, not a crab, not a tick, not a spider, not a starfish, not a beetle, not a hand. A real photograph, not a render.
+
+**What the run teaches the next prompt of this people.** The blockout fixes A's outline, which neither text nor an edit of a beetle frame will; and the finish is the whole remaining problem. A smooth short limb comes back soft (a toy) or hard (a machine), never alive, and a finish pass cannot move the finish once an edit has set it. The next attempt changes what the limb is made of in the geometry, not the words about it.

@@ -128,9 +128,77 @@ the people whose tunnels it lives in*, which means **the Chthonari are already
 committed** to being low, six-limbed and substrate-hearing. That commitment was
 made by describing an animal.
 
-#### Body: options put to Dermot, 17 Nov 2026
+#### Body: the sole (ruled 17 Nov 2026)
 
-**Nothing above is changed by this block, and no frame is filed from it.**
+Dermot, 17 November 2026, verbatim, to the four options below: *"A: the sole
+(Recommended)"*. And to the second question, on the species page's summary
+word: *"Outsider's loose term"*. This is the Chthonari body from that day.
+Every point is from *Physical Characteristics* in `src/lore/chthonari.md`
+(**derived**) or from the option as put to him (**ruled**); nothing else is
+added, and no written fact of the body changes.
+
+1. **Small** (derived): roughly forearm-to-torso length.
+2. **One flat disc** (ruled): low and broad, round or a little oval seen
+   from above, nearly flat on top. No head, no neck, no waist, no sections,
+   no seam down the back and no line round the rim. Exoskeletal (derived):
+   the disc is the hard body, and it is what tolerates brief vacuum.
+3. **It lies on its lower carapace** (ruled, from the derived organs): the
+   whole underside rests on the structure, with no gap beneath it and no
+   legs beneath it, because the lower carapace is where much of the hearing
+   is. In negligible gravity it holds itself by gripping, not by standing.
+4. **Six limbs from the rim like spokes** (ruled; *six-limbed* derived):
+   jointed, short, lying low along the structure and gripping, every tip a
+   blunt pad.
+5. **The pair nearest the work lifts** (ruled): to strike a name or a
+   member, or to write on a slab. Any adjacent pair can be the working pair;
+   it is whichever faces the work. Whether that pair is heavier than the
+   other four (option C's striker arms) was not drawn and is not decided.
+6. **No face** (derived; `what-the-record-refuses.md`). What shows a mind in
+   a frame is attention: the rim turned to one thing, the working pair
+   raised over it, the other four pressed to the structure, listening.
+7. **Colour** stays an illustration decision, not canon (`images.md`, the
+   Orbital Five-O block): dull slate with a bronze cast.
+
+**The word *insectoid*.** At his *"Outsider's loose term"*, the species page
+keeps *insectoid* and *insect-like* only as what off-worlders first called
+them, with the record's own outline beside it (`chthonari.md`, description,
+`plain:`, opening and *Physical Characteristics*). The word describes the
+six limbs and the exoskeleton, never the outline.
+
+**The vessik.** *"Built on the same physical principle"* is read as the
+substrate hearing and the forelimb drumming, which A keeps. The vessik's own
+outline is not described anywhere and is not decided by this.
+
+**Traps, from the studies of 17 November** (`images.md`, *Chthonari body A,
+applied*):
+
+- **Crab, turtle, tick.** The nearest animals to a disc on six limbs. Blunt
+  limb tips, never pointed; no lid-like seam round the rim; never a domed
+  shell and never plates or scutes; the disc low and broad on the
+  structure; the working pair raised, so the spokes are not an even star.
+- **Legs beneath.** An edit of a filed beetle frame, or a prompt with no
+  geometry, puts the six limbs under the body and lifts it: a tick or a
+  crab. The disc down needs the geometry fixed first (the blockout,
+  `scripts/blockouts/chthonari-a.py`).
+- **Toy, leather, cast metal.** Short limbs drawn as even round tubes come
+  back as a stuffed or rubber toy; drawn as hard tapered segments they come
+  back as a cast-metal robot. Neither finish has yet read as a living body
+  (rung 3). This is the open problem.
+- **Fingers.** A raised limb of even girth with creased joints reads as a
+  finger, and a thick-rooted limb as a hand (rung 2).
+- **Similes are drawn literally** (from the options round): no *pebble*,
+  *lens*, *lid*, *star* or *keg* in a prompt.
+
+The grey blockout of the body is `story-bible/reference-art/chthonari-body-2026-11-17.jpg`:
+it fixes the shape and the pose, never the finish.
+
+#### Body: options put to Dermot, 17 Nov 2026 — RULED: A
+
+**Ruled the same day.** Dermot, verbatim: *"A: the sole (Recommended)"* and,
+on *insectoid*, *"Outsider's loose term"*. The body is written above; the
+block below is kept as the record of the choice.
+
+**Nothing above was changed by this block when it was written, and no frame is filed from it.**
 Dermot, 17 November 2026, to running a body design pass after the Season 10
 fix pass (`images.md` § 72): *"As recommended"*. The problem is the outline.
 Every filed Chthonari frame reads as an Earth beetle at a thumbnail (Tikket a
