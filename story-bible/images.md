@@ -12580,7 +12580,7 @@ The second half of Season 11, at Dermot's *"Yes, both"* of 17 November 2026. § 
 
 **Left for Dermot's eye, Episode 1 and the season.** No human face is newly decided, and no people's body. None of these holds the merge:
 
-- **Whether *A child is pictured grown* reaches the young of the Told.** The frames here do not depend on the answer (above), but `teddy.jpg` and `keeps-a-hand-on-it.jpg` do, and the 15 November audit did not name either.
+- **Whether *A child is pictured grown* reaches the young of the Told.** The frames here do not depend on the answer (above), but `teddy.jpg` and `keeps-a-hand-on-it.jpg` do, and the 15 November audit did not name either. Put to him with three options on 17 November 2026 (`open-questions.md`), beside the body options (`species-design.md`, *The Told — Body: options put to Dermot, 17 Nov 2026*).
 - **A row for the palette table**, proposed and not added: *Below the Roof | children | Fliade's own amber and blue-green on pale rock and silt; calm and legible; the Told far off or from behind, back-lit*.
 - **Stone-First's size** differs between *Theirs to Move* and *Something Happened*. The record says *large, powerfully built and upright* and gives no figure.
 - **The Told at a distance are a round furred outline**, which at a glance is a bear's or a soft toy's, as the four filed portraits are. That is the filed body doing what it does; the second warm's whiskered plan (`species-design.md`, 19 October) is the only design on record that would not, and it is for another community.

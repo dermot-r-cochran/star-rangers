@@ -924,6 +924,134 @@ Two lines for the attractors list, from this review: **a close crop of a headles
 
 **Ruled, same evening** (*"Yes Agreed"*): plan B for a second warm, and the canon half, the extension to `planets/fliade.md` that the Pandoids are not one community, stands. The second warm itself, its place, its name and any character from it, waits for a chapter that needs one.
 
+### Body: options put to Dermot, 17 Nov 2026
+
+**Nothing in the design above, on any page or in any filed frame is changed
+by this block.** Dermot, 17 November 2026, verbatim *"As recommended"*, to
+running a body design pass like the Mnemari one: the Told read as plush
+bears, sloths or soft toys, closer to an animated film than a photograph, in
+all four filed portraits (`teddy.jpg`, `stone-first.jpg`, `went-round.jpg`,
+`keeps-a-hand-on-it.jpg`) and in Season 11's eight frames (`images.md`,
+§§ 73 and 74). The thread is the children's tier's, whose register is
+*interesting and playful*, so an option may stay gentle and approachable. It
+must read as a real, photographed people: not a toy, a plush or a film
+creature, and not a bear, a sloth, an ape or a yeti. Drafted on Fable; the
+body is his to decide (CLAUDE.md, *Never without Dermot*).
+
+**What is written about the body** (derived; a page or chapter says it):
+
+- *Large, powerfully built and upright*, with *thick fur that reads as grey
+  against the stone*; on the Endoskelia frame; not humanoid; *strength, gait,
+  mass and face are all their own* (`planets/fliade.md`). The face is
+  described on no page.
+- The survey reached for *bear*, then *panda*, then a child's toy, and the
+  record reads each name as a fact about the observers (`planets/fliade.md`;
+  `teddy.md`). So a soft, heavy, furred outline is what a human eye sees.
+  His own words of 7 September 2026 are *more like a panda and less like a
+  gorilla*, and `images.md` records the 7 October ruling as *cute giant teddy
+  bears*.
+- Quiet on broken vertical ground; an adult is announced by the shift of a
+  boulder (`planets/fliade.md`). The survey's instrument classed the youngest
+  as *an upright bipedal profile*; Individual Four is smaller and rounder than
+  an adult, with a denser coat (`teddy.md`).
+- Arms that carry a weight against the chest, *where the fur is thickest*;
+  hands; feet that leave shapes in silt; teeth; eyes; a heart; breath
+  (S11E01C02; S12E01C05, *breathe out*). They stand, sit and lie down, and
+  go through the squeeze sideways. An adult does not fit the squeeze and a
+  small one does (S11E01C03; S12E01C05).
+- **Senses.** They hear the ground: a stone moved is heard by everyone in
+  the warm (S11E01C01 on). They feel *the warm*, which tells them who is
+  where, and it runs out at the line, where *there is only the eye*
+  (S12E01C06). So sight is the lesser sense, used last.
+- **Ears.** The chapters use the idiom (*the smallest ears in the deep*,
+  *anything with ears*, S11E01C01 and C03). The filed frames have no external
+  ears. The two do not conflict (an ear need not show), and no option below
+  turns on it.
+
+**What is only the generator's or a prompt's** (on no page): the head as
+large as the trunk; the short, even limbs; large round dark eyes with grey
+rings; fur in tidy overlapping ridges of one length; the wide lipless mouth;
+no neck; the clean coat. These are the toy. The earless flat face came from
+his *"more alien"* of 7 September and his pick of that frame, so it is his
+choice, though no page states it. *Teddy is curious and bright* (7 September)
+is a ruling on one character's expression and is kept by every option.
+
+**Already decided, and relevant.** A second warm takes the whiskered face
+(plan B above, *"Yes Agreed"*, 19 October 2026); the first warm's four frames
+were kept as they were that day. Option B below would bring that face to the
+first warm as well.
+
+**Four options**, derived from Fliade (dark, warm deep networks, broken
+vertical rock, the squeeze), from the senses above and from what the Told do
+(carry, move a stone, stand on the line). Each was studied as an edit of the
+filed `went-round.jpg` that changed the body only (`scripts/image-edit.js`,
+two takes each; `stone-first.jpg` and `teddy.jpg` were not used because the
+record calls both renders, and an edit of a render stays a render). B and D
+had a second round. One merged study and two fresh photographic checks at
+the line followed. 18 generations, no refusals, none filed. Sheet:
+`told-body-options-2026-11-17.jpg` in the working folder (not in this
+repository), the current portrait first. The prompts are in
+`image-prompts.md`, 17 November 2026.
+
+| | The option | Written fact it changes | Earth attractor it risks, and how a frame avoids it | What the studies showed (rungs 1 to 3 of the image ladder) |
+| --- | --- | --- | --- | --- |
+| **A** | **The same body, with a real coat and real proportions.** The round, earless, flat-faced kind as filed. The head is a quarter of the body's width and set low; the eyes are small, deep-set and far apart; the coat is coarse and uneven, long on the chest and shoulders (as S11E01C02 has it), short on forearms and shins, matted with silt at the feet; shoulders, elbows and knees show under it; palms and soles are bare dark skin. | None. It changes only what the generator supplied. | Bear, sloth, ape, yeti: the 7 September lesson, that *upright, furred, heavy-shouldered, no snout* is a gorilla. A frame avoids it by distance, back light and a turned head, as the filed frames already do. | The toy reading went in both takes (rung 3 passed). Take 1 is a sloth, face and forearm hair; take 2 is a yeti or ape with human feet. Fails rung 1 in both. |
+| **B** | **The ground-listener.** A body that feels its way in the dark: the whiskered face of 19 October (a blunt head, very small eyes nearly hidden, a fan of long stiff pale whiskers), broad hands and feet with bare pale pads that read the rock, a pear-shaped body widest at the hips with narrow sloping shoulders. Studied in round 2 with A's coarse coat, three blunt digits and feet as round pads. | No page. It changes the filed face (large eyes, flat and bare of whiskers), which is his pick of 7 September, and it ends the difference between the first warm and a second. Three digits would be new and is not needed; it was a device against a human hand. | Mole, marmot, otter, seal, walrus. A frame avoids it by scale (a crack, a boulder, a person far off), by the hand doing something careful, and by never showing the head in clean profile. | Round 1 (a short dense coat) stayed a plush toy, a mole from behind. Round 2 lost the toy in both takes and stayed gentle; both read as a large marmot or mole standing up. Fails rung 1, at its mildest. A fresh photographic check at the line (no plush source) drew a whiskered seal-like head on a shaggy yeti body, plainer and more photographic in light and rock; its second take leaned back toward plush. |
+| **C** | **The mantle.** Thick long hair only as a mantle over chest, shoulders and back, hanging to the hips; forearms, hands, lower legs, feet and face are bare, thick, creased grey skin. The head is small and carried low in front of the shoulders. A body that sheds heat in the warm deep and keeps a coat where a weight is carried. | *Thick fur* becomes a mantle of it; bare skin is new. | Ape, baboon, musk ox; and a human in a cloak, since bare limbs are read as human limbs. | Both takes read as a troll or a stooped man under a hair cloak, with human hands, feet and face (rung 2). The most photographic skin of the four and the furthest from the children's tier: it tips toward the grim. |
+| **D** | **The standing boulder.** No separate head: head and trunk are one tall dome, widest at the base, under a coat that hangs straight down; the face sits low on its front; arms leave the coat at mid-height. From *Stone-First is one of those boulders* (`stone-first.md`): at rest a Told is one more stone at the margin. | The outline. *Upright* and *thick fur* are kept; *powerfully built* is hidden by the coat. | A haystack or mop creature from a film; an owl; a yeti. A frame avoids it only by showing the arms at work. | Round 1 put a bearded human face under a fringe (rung 2). Round 2, with no nose or mouth asked for, gave a sloth's face in a haystack in one take and a faceless mop with a lip in the other (rungs 1 and 6a). Reads as a film creature throughout. |
+
+**Also tried, not an option:** B's body with a flat face, a bare pale drum of
+skin each side of the head in place of an ear, and bristles along the
+forearms and flanks for feeling the squeeze. The drums came back as a
+monkey's ears in all four takes, edited and fresh, and the body as an ape.
+Recorded so the next round does not repeat it.
+
+**What the round taught, whichever is picked.** (1) The toy is in the coat
+and the proportions, and it goes when the coat is coarse, uneven and dirty
+and the head is small; that part of A costs no written fact and belongs
+under any option. (2) What replaces the toy is set by the face: flat and
+bare returns a sloth or an ape, whiskered returns a marmot or a seal, bare
+skin returns a human. (3) An edit of a filed Told frame keeps that frame's
+film lighting; the fresh frames at the line were plainer photographs.
+(4) **No option passed the first rung outright.** An upright furred biped
+with two arms is close to several Earth animals at once, and the round moved
+the reading from *toy* to *animal* without reaching *nobody's animal*.
+(5) No study frame has a person or a made thing in it, so none shows scale
+(rung 4); a filed frame would need one.
+
+**Recommendation: B on A's coat and proportions**, his to overrule. Basis:
+it is the only combination whose second-round takes both lost the toy
+reading without becoming a sloth, an ape or a human, which are the readings
+he named and the 7 September ruling refused; its face is derived from the
+dark and the senses the chapters give, and he has agreed that face once
+already, for a second warm; it stays gentle, which the thread needs; and it
+changes no page. What it costs: a marmot or mole reading remains at close
+range; the second warm loses its mark and would need another when a chapter
+needs one; and it moves the first warm away from the flat face he picked on
+7 September. **If the flat face matters more to him than the reading, A
+alone is the least change**, and rests on the record's own line that a human
+eye sees something bear-like here; it will go on returning a sloth or an ape
+whenever the anatomy shows, so it would be held to far, back-lit frames. C
+and D are not recommended: C fails on a human reading and on tone, D on a
+film creature. If he wants the first rung passed outright, none of these
+does it, and the next step is a larger change to the plan than any drawn
+here, studied from a blockout, not a fifth round of text.
+
+**The young of the Told, put separately.** CLAUDE.md's *A child is pictured
+grown* (15 November 2026) says no generated image on the site has a child as
+its subject. `teddy.jpg` and `keeps-a-hand-on-it.jpg` were filed as young of
+the Told before the rule, and the audit that made it did not name either.
+Whether the rule reaches them is his, and is in `open-questions.md` with
+three options. It is independent of A to D, except that a re-made portrait
+would follow both answers at once.
+
+**What a pick starts:** the chosen body is written into this section in
+place, with a revision note quoting him; the four portraits and Season 11's
+frames are brought to it under the *one people, one look* practice of
+17 November; `planets/fliade.md` needs no change under A or B; the prompt
+vocabulary and the standing negative gain the option's attractors by name.
+None of that is done here.
+
 ---
 
 ## Mnemari — a body from Ilenne (19 October 2026, Dermot's *"1 A"*)
