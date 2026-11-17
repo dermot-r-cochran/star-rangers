@@ -111,6 +111,12 @@ Dermot flagged seven frames and asked for a review of four more, then *"Yes rema
 | `osune-2026-11-17.jpg` | Osune | The same head as Ulessa's (mouth line, eye set forward), tiger-striped neck and legs where the design bands the hub and back only, and hooked working limbs. Lesson: one people, one head; a fix to one portrait is owed to its sister. | Re-filed the same day by the same edit (`images.md` § 61, *17 November 2026*). |
 | `sohrel-2026-11-17.jpg` | Sohrel | One upper limb raised into the air with a pale pink tip, which reads as a trunk or a head on a neck (rungs 1 and 2) on a people with no head. Lesson: a Cerebraun reads as one animal only when its limbs are folded against the body. | Re-filed at Dermot's *"Yes, as recommended"*: the same frame with that limb folded down against the body (`images.md`, `sohrel.jpg` entry). |
 
+## Not his photograph, 17 November 2026
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `s05e02-kerry-hills-2026-11-17.jpg` | Season 5, Episode 2 (hero) | Not his photograph, and present-day Kerry. It came in with the 13 July 2026 hero batch, whose commit says the set was *"Sourced and licensed via Adobe Stock"*; no asset number, licence or credit was ever recorded, and the file carries no EXIF. Dermot, 17 November 2026: *"No, not mine"*. Read as a Union holding it is our century: a white farmhouse with a slate roof, a conifer shelter belt, a fenced yard and a road, where the record's holdings carry conduits, a drone cradle and sensor posts. | Replaced by an edit of his own Glendalough frame, `F:\112GLEND\_DSC0746.JPG`, with the church ruins taken out and a stone holding in the Union idiom put in, filed as `hero/s05e02-hill-holding.jpg` (`images.md` § 66, *The Episode 2 hero, 17 November 2026*). |
+
 ## Lessons for the next prompt
 
 - **"Smooth, made with care" draws the stock robot.** A machine described only as well made comes back as the generator's default white humanoid. Give it its history in shapes instead: what it was built for, what was refitted and in what different material, and where the wear sits (Rook-7, 16 November 2026). A sand-coloured, narrow-waisted body with ball joints reads as a wooden lay figure; a straight-sided trunk with shrouded joints reads as a machine.

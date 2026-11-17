@@ -3503,6 +3503,42 @@ The prompts of record are in `story-bible/images.md` § 66, with the references 
 - **Source:** the plate is `F:\122STHWL\DSC_3946.JPG` (6 September 2025), cropped to 16:9 and sent at 2400×1350; the edit prompt is the prompt of record in `images.md` § 66.
 - **Run:** `scripts/image-edit.js`, edit take 2 of 2 filed. By hand, at full size: the one bright point with a halo at the end of the line healed out (`cv2.inpaint`, a circle of 20 px) and one faint small light put back in its place. Filed at `-Finish 0`.
 
+### hero/s05e02-hill-holding.jpg — filed 17 November 2026
+- **Kind:** an edit of Dermot's own photograph, composited back onto it, then two small fixes by hand
+- **Source:** the plate is `F:\112GLEND\_DSC0746.JPG` (22 February 2025, D3100), resized whole to 2400×1600 and sent as the frame to edit. Replaces `hero/s05e02-kerry-hills.jpg`, third-party stock (`images.md` § 66, *The Episode 2 hero, 17 November 2026*).
+- **Run:** `scripts/image-edit.js --aspect 3:2 --n 2`, three rounds. Round 1, both takes refused (an agricultural shed). Round 2, take 1 kept as the base, take 2 refused (the hillside repainted). Round 3, an edit of round 2 take 1: take 2 used, take 1 refused (a plaque by a window). Only the changed band of round 3 take 2 was composited onto the untouched plate (a difference mask, opened, closed and feathered at 12 px); by hand, a roof smudge and one small wall mark healed (`cv2.inpaint`). No finish. Filed at 1920×1280.
+- **Round 1 prompt:**
+
+> Edit this photograph. It is a real photograph of an upland valley on a clear afternoon: a steep hillside of dark green pines and rust-brown bare larches, a high open slope of tawny grass with a line of wind-shaped pines along its ridge, a green pasture rising gently to the right, rushes in the foreground, and it must stay exactly that photograph: keep the hill, every tree, the ridge, the pasture, the rushes, the sky, the light, the colour, the slight softness and the grain exactly as they are. Change only the made things in it.
+>
+> 1. The old stone church with its small round tower, the low steep stone roof beside it, the roofless stone ruin at the right edge of the pasture, the small white cottages half hidden in the trees behind them, and every fence post and wire: remove all of them.
+> 2. In their place, standing on the near edge of the pasture where the church stood, put one farmstead, a family's hill holding eight centuries from now: one long low longhouse of weatherproofed stone, built of sealed pale grey stone panels with clean straight seams, under a long unbroken roof of dark matte slate-grey composite with no chimney, no windows in the roof and no gutters or downpipes. Under the eave along its whole length run two or three smooth pale heating conduits, honest and exposed. In the near gable, one small recessed cradle holds a folded field drone, a smooth dark capsule with its arms tucked in. At one end a short low stone outbuilding of the same panels. The building is long and low, set into the slope, the same size in the frame as the church was, and kept, clean and quiet.
+> 3. Along the pasture's upper edge, where the fences were, a line of slim plain pale marker posts at even spacing, with no wire between them.
+>
+> Change nothing else. The hillside and the sky must not be touched. A photograph, not a render or a painting. Not a church, not a tower, not a ruin, not a present-day farmhouse, not a white cottage, not a bungalow, not a barn, not a farm shed, not a corrugated roof, not a glass house, not solar panels, not a satellite dish, no chimney, no smoke, no vehicles, no tractor, no people, no animals added, no text, lettering or numerals anywhere.
+
+- **Round 2 prompt (the base):**
+
+> Edit this photograph. It is a real photograph of an upland valley on a clear afternoon: a steep hillside of dark green pines and rust-brown bare larches, a high open slope of tawny grass with a line of wind-shaped pines along its ridge, a green pasture rising gently to the right, rushes in the foreground, and it must stay exactly that photograph: keep the hill, every tree, the ridge, the pasture, the rushes, the sky, the light, the colour, the slight softness and the grain exactly as they are. Change only the made things in it.
+>
+> 1. The old stone church with its small round tower, the low steep stone roof beside it, the roofless stone ruin at the right edge of the pasture, the small white cottages half hidden in the trees behind them, and every fence post and wire: remove all of them, leaving trees, grass and hillside where they were.
+> 2. Where the church stood, and no bigger than the church was in this frame, put one small family dwelling, a hill holding eight centuries from now: a low stone longhouse, a home and not a farm building, about as long as two cottages, with a low eave at the height of a door. Its walls are of dressed grey stone, weatherproofed and sealed smooth, with fine straight joints; one deep-set door of a dark composite leaf in the long wall facing us, and two small deep-set windows. A steep roof of dark matte slate-grey composite with no chimney and no gutters. Under the eave along its length runs one smooth pale heating conduit, honest and exposed. In the near gable, high up, one small rounded recess holds a folded field drone the size of a sheep: a smooth dark seed-shaped capsule with no propellers or arms in view.
+> 3. Along the pasture's upper edge, where the fences were, a few slim plain pale marker posts at wide even spacing, with no wire between them.
+>
+> Change nothing else. The hillside and the sky must not be touched. A photograph, not a render or a painting. Not a barn, not a cattle shed, not an agricultural building, not a warehouse, not a long shed of panels, not a church, not a tower, not a ruin, not a present-day farmhouse, not a white cottage, not a bungalow, not a corrugated roof, not solar panels, not a quadcopter, no propellers, no chimney, no smoke, no vehicles, no people, no animals added, no text, lettering or numerals anywhere.
+
+- **Round 3 prompt (sent with round 2 take 1):**
+
+> Edit this photograph. Keep it exactly as it is: the hillside, every tree, the pasture, the rushes, the sky, the light, the softness and the grain, and the stone house's size, position, walls, door and two windows. Change only these things on and behind the house.
+>
+> 1. Behind the house, at its left, two small white cottages show through the bare trees: remove them, leaving bare trees and dark hillside there.
+> 2. The white drainpipe on the house's front corner, and the pale timber board under the front eave: remove both.
+> 3. Under the front eave, along the whole length of the wall, put two smooth pale grey heating conduits running side by side just below the roof edge, honest and exposed, and at the gable corner let them turn down together and run straight down the corner into the ground. They are plain round pipes with no brackets showing, the colour of pale stone.
+> 4. The roof: make it one seamless smooth sheet of dark matte slate-grey composite, with no tiles, no courses, no ridge tiles and no lines across it, and a crisp thin edge.
+> 5. The round opening high in the gable: make it a shallow rounded recess in the stone, and in it, resting upright, one small folded field drone: a smooth dark grey seed-shaped capsule, a little larger than a sheep, with a fine seam around it and nothing else, no propellers, arms, lights or lens.
+>
+> Change nothing else. A photograph, not a render. No drainpipes, gutters, chimney, satellite dish, solar panels, lamps, signs, people or vehicles. No text, lettering or numerals anywhere.
+
 ## 2026-11-17 — Season 4 chapter illustrations, all six (Fable, desktop)
 
 The prompts of record are in `story-bible/images.md` § 65, with the references each was sent. **Tool** for all six: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js` (two variations each, references attached; two takes per edit); finished by `import-image.ps1 -MaxEdge 1600` at strength 1. Eighteen images in all: twelve first-pass takes of twelve asked and six edit takes. Nothing was refused.
