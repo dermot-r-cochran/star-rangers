@@ -111,6 +111,19 @@ Dermot flagged seven frames and asked for a review of four more, then *"Yes rema
 | `osune-2026-11-17.jpg` | Osune | The same head as Ulessa's (mouth line, eye set forward), tiger-striped neck and legs where the design bands the hub and back only, and hooked working limbs. Lesson: one people, one head; a fix to one portrait is owed to its sister. | Re-filed the same day by the same edit (`images.md` § 61, *17 November 2026*). |
 | `sohrel-2026-11-17.jpg` | Sohrel | One upper limb raised into the air with a pale pink tip, which reads as a trunk or a head on a neck (rungs 1 and 2) on a people with no head. Lesson: a Cerebraun reads as one animal only when its limbs are folded against the body. | Re-filed at Dermot's *"Yes, as recommended"*: the same frame with that limb folded down against the body (`images.md`, `sohrel.jpg` entry). |
 
+## The Mnemari neck, option A, 17 November 2026
+
+Dermot, verbatim: *"Head pick A"*. The written neck changed from *long, curving* to *long,
+jointed, carried folded* (`species-design.md`, *Mnemari*, point 3), and every filed Mnemari
+frame was brought to it by an edit of its head and neck (`images.md`, the three entries'
+17 November notes).
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `ulessa-curving-neck-2026-11-17.jpg` | Ulessa | The written head on one long smooth arc of neck: at a thumbnail the neck and wedge head still read as a sauropod's or a llama's (rung 1), though the tripod and sling were in view. Lesson: details on the head do not beat an outline; the neck's shape is the outline. | Re-filed with the jointed neck, option A's take 2. |
+| `osune-curving-neck-2026-11-17.jpg` | Osune | The same arc of neck as Ulessa's. Lesson: one people, one look; a change to the design is owed to every frame of the people. | Re-filed by an edit of the head and neck, pasted back onto this frame. |
+| `s01e00c08-curving-neck-2026-11-17.jpg` | S01E00C08 | Ulessa's neck as a short smooth arc from the body down to the vane, the outline the 16 November close frame had read as a dinosaur. | Re-filed by an edit of the neck only, pasted back onto this frame. |
+
 ## Not his photograph, 17 November 2026
 
 | Thumbnail | Page | What failed | Outcome |

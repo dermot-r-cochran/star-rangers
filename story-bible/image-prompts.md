@@ -3429,6 +3429,74 @@ Dermot's *"Yes, as recommended"* (17 November 2026) to the options put to him af
 >
 > No other change. No new limb, no pale or pink tip, no swelling at any tip, no head, no new eyes, no new objects, no people, no text, no lettering, no numerals. A documentary photograph, not a render.
 
+## 2026-11-17 — Mnemari head and neck: the four options studied, and option A applied (Opus, desktop)
+
+The options study recorded in `species-design.md` (*Mnemari, Head and neck: options put to Dermot, 17 Nov 2026*, PR #1912) did not file its prompts; they are here, verbatim, with the three edits that applied Dermot's pick (*"Head pick A"*, the same day). **Tool** throughout: Gemini, `gemini-3.1-flash-image`, through `scripts/image-edit.js`, 2K, 16:9, two takes per job, no reference. The study's six jobs were each an edit of the filed `ulessa.jpg` of that morning (blob `ae7f854f`), twelve takes, none refused, none filed except A's take 2. The application's two jobs were four takes, none refused.
+
+### The options study (none filed but A take 2)
+
+- **A — a jointed neck, carried folded** (take 2 later filed as `ulessa.jpg`, below):
+
+> Edit this photograph. Change only the neck and the head of the animal. Keep everything else exactly as it is: the three tall arched legs, the hub where they meet, the column, the hanging body, the pale oval patch on its side, the two short limbs hanging beneath with closed buds, the hide and its colours, the room, the table, the sheets, the chairs, the light and the camera. Still a real photograph with grain, not a render. No people.
+>
+> The change: the neck is no longer one smooth curve. It is a thick jointed arm of the same hide, in two straight lengths with one heavy rounded knuckle joint between them, like the joints in the legs. It leaves the front of the hanging body, rises to the knuckle, then folds back down and forward, so the neck makes a sharp bent angle, not an arc. The head at its end stays small, smooth and blunt, with one small dark eye low on its side and two thin slits on top, and hangs just above the table. The neck is as thick as before, covered in the same ochre hide with skin creases at the joint. Not a swan, not a snake, not a dinosaur, not a crane, not a machine.
+
+- **B — a short neck and a deep head under the arch** (not filed):
+
+> Edit this photograph. Change only the neck and the head of the animal. Keep everything else exactly as it is: the three tall arched legs, the hub where they meet, the column, the hanging body, the pale oval patch on its side, the two short limbs hanging beneath with closed buds, the hide and its colours, the room, the table, the sheets, the chairs, the light and the camera. Still a real photograph with grain, not a render. No people.
+>
+> The change: the neck is short and thick, only about as long as the head itself, a heavy stub of the same hide leaving the front of the hanging body. The head sits close in front of the body, well under the arch of the legs, far back from the table. The head is smooth, blunt and deep, taller than it is long, like a rounded river stone hung on its end, with one small dark eye low on its side, two thin slits on top, and no line or opening on its front. Where the long neck used to be there is only the empty room. Not a hippo, not a tortoise, not a seal, not a dinosaur, no ears.
+
+- **C — the written neck with a broad flat head, round 1** (not filed):
+
+> Edit this photograph. Change only the neck and the head of the animal. Keep everything else exactly as it is: the three tall arched legs, the hub where they meet, the column, the hanging body, the pale oval patch on its side, the two short limbs hanging beneath with closed buds, the hide and its colours, the room, the table, the sheets, the chairs, the light and the camera. Still a real photograph with grain, not a render. No people.
+>
+> The change: keep the long curving neck, but replace the head. The neck now ends in a broad flat disc of the same hide, much wider than the neck and wider than it is long, thin like a thick plate, held level above the table, with a smooth rounded rim all the way round and no point, no taper and no snout. One small dark eye sits at each far side edge of the disc, so the two eyes are as far apart as the disc is wide. Two thin slits on its upper face. Its upper face is banded ochre and umber like the hide; nothing else on it. Not a hammerhead shark, not a duck bill, not a cobra hood, not a spoon, not a dinosaur, not a lamp.
+
+- **C — round 2, the head about twice the neck's width** (not filed):
+
+> Edit this photograph. Change only the neck and the head of the animal. Keep everything else exactly as it is: the three tall arched legs, the hub where they meet, the column, the hanging body, the pale oval patch on its side, the two short limbs hanging beneath with closed buds, the hide and its colours, the room, the table, the sheets, the chairs, the light and the camera. Still a real photograph with grain, not a render. No people.
+>
+> The change: keep the long curving neck, but replace the head. The neck now ends in a flat rounded pad of the same hide, about twice as wide as the neck and wider than it is long, thick as the neck is thick, held level above the table, with a smooth rounded rim and no point, no taper, no snout and no bill. One small dark eye sits at each far side edge of the pad. Two thin slits on its upper face, nothing else on it, no dots, no holes. Its upper face is banded ochre and umber like the hide. Not a hammerhead shark, not a stingray, not a duck bill, not a cobra hood, not a spoon, not a dinosaur.
+
+- **D — no separate head** (not filed):
+
+> Edit this photograph. Change only the neck and the head of the animal. Keep everything else exactly as it is: the three tall arched legs, the hub where they meet, the column, the hanging body, the pale oval patch on its side, the two short limbs hanging beneath with closed buds, the hide and its colours, the room, the table, the sheets, the chairs, the light and the camera. Still a real photograph with grain, not a render. No people.
+>
+> The change: there is no separate head. The long curving neck keeps the same thickness all the way along and simply ends in a smooth, blunt, rounded end, like the end of a thick rope of hide, no wider than the neck, with no jaw, no snout, no bulge and no opening on its end. On the last short length of the neck, near the end, are one small dark eye on its side and a row of four thin slits along its top. The end hangs just above the table. The neck is thick and heavy, as thick as one of the legs, never thin. Not an elephant trunk, not a worm, not a snake, not an eel, not a dinosaur, not a tentacle.
+
+- **A and D merged (a study, not an option)** (not filed):
+
+> Edit this photograph. Change only the neck and the head of the animal. Keep everything else exactly as it is: the three tall arched legs, the hub where they meet, the column, the hanging body, the pale oval patch on its side, the two short limbs hanging beneath with closed buds, the hide and its colours, the room, the table, the sheets, the chairs, the light and the camera. Still a real photograph with grain, not a render. No people.
+>
+> The change: the neck is no longer one smooth curve. It is a thick jointed arm of the same hide, in two straight lengths with one heavy rounded knuckle joint between them, like the joints in the legs. It leaves the front of the hanging body, rises to the knuckle, then folds back down and forward, so the neck makes a sharp bent angle, not an arc. There is no separate head: the second length keeps the same thickness and simply ends in a smooth blunt rounded end, no wider than the neck, with no jaw, no snout, no bulge and no opening on its end. Near the end are one small dark eye on its side and two thin slits on its top, nothing else. The end hangs just above the table. Not a swan, not a snake, not a dinosaur, not an elephant trunk, not a crane, not a machine.
+
+### characters/ulessa.jpg — re-filed 17 November 2026 (neck A)
+- **Kind:** an image edit of the filed frame (the study's option A job)
+- **Source:** the filed `ulessa.jpg` of the morning of 17 November 2026.
+- **Run:** the study's A job, two takes; **take 2 filed** at 1200×670 by `import-image.ps1 -MaxEdge 1200`, finish strength 1. Prompt: option A above.
+
+### characters/osune.jpg — re-filed 17 November 2026 (neck A)
+- **Kind:** an image edit of the filed frame, head and neck region pasted back
+- **Source:** the filed `osune.jpg` (re-filed earlier on 17 November 2026).
+- **Run:** one round, two takes; **take 2 filed**. The take was finished at strength 1 at 1200×670 by `import-image.ps1`, registered to the filed frame by phase correlation (offset 0.06, 0.94 px), and the region where it differed, inside a box round the head and neck (560–1150 × 40–620 px), was pasted back with a 6 px feather; everything else is the filed frame.
+- **Prompt:**
+
+> Edit this photograph. Change only the neck and the head of the animal. Keep everything else exactly as it is: the three tall arched legs and their padded feet, the hub where they meet, the column, the hanging body, the pale healed seams on the leg and flank, the two short limbs hanging beneath with closed buds, the hide and its colours, the stone room, the window light at the left, the bench, the floor, the light and the camera. Still a real photograph with grain, not a render. No people.
+>
+> The change: the neck is no longer one smooth curve. It is a thick jointed arm of the same hide, in two straight lengths with one heavy rounded knuckle joint between them, like the joints in the legs. It leaves the front of the hanging body, rises to the knuckle, then folds back down and forward, so the neck makes a sharp bent angle, not an arc. The head at its end stays small, smooth and blunt, with one small dark eye low on its side and two thin slits on top, and hangs low and forward, at about the height of a table. The neck is as thick as before, plain warm ochre and russet with no stripes, with skin creases at the joint and two short pale healed seams on the second length just below the head. Not a swan, not a snake, not a dinosaur, not a crane, not a machine.
+
+
+### chapters/s01e00c08.jpg — re-filed 17 November 2026 (neck A)
+- **Kind:** an image edit of the filed frame, neck region pasted back
+- **Source:** the filed `s01e00c08.jpg` (re-filed earlier on 17 November 2026).
+- **Run:** one round, two takes; **take 2 filed**. The take was finished at strength 1 at 1600×893, registered to the filed frame (offset 0.64, −0.02 px), and the changed region inside a box round the neck (680–1130 × 0–340 px) was pasted back with a 6 px feather.
+- **Prompt:**
+
+> Edit this photograph. Change only the neck of the large ochre animal on the right. Keep everything else exactly as it is: the green vanes and the low sun through them, the grey-green hide at the bottom, the terrace, the parapet, the sky and the light; the ochre animal's arched legs and padded feet, the hub, the thick wrinkled column, the hanging rounded body with its pale oval patch, the two short limbs beneath with closed buds; her rounded head, seen from behind, held low just above and beside the nearest vane, in the same place and the same size; the colours, the framing, the focus and the grain. Still a real photograph with grain, not a render. No people.
+>
+> The change: the neck is no longer one smooth curve. It is a thick jointed arm of the same hide, in two straight lengths with one heavy rounded knuckle joint between them, like the joints in her legs. It leaves the front of the hanging body, rises up and out to the knuckle, then folds sharply back down to the head, so the neck makes a bent angle, not an arc. The neck is as thick as before, warm ochre and russet with no stripes, with skin creases at the joint. Not a swan, not a snake, not a dinosaur, not a crane, not a machine.
+
 ## 2026-11-17 — Season 6 fixes and the last four stock banners (Opus, desktop)
 
 At Dermot's *"Yes, both"* of 17 November 2026. The record of each choice is in `story-bible/images.md` § 68. **Tool** throughout: Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, 2K. Where a take was laid back onto a filed frame or onto his plate, it was registered first (phase correlation or SIFT and a homography) and only the changed region was pasted, feathered, with grain added to match the frame's own.
