@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Aoibheann Ní Mheara and Ines Abara tried again, not filed; Emeka Lindahl's readings proposed** (`story-bible/images.md` §§ 17, 33 and 87, `story-bible/image-prompts.md`, 2026-11-18, Fable). Two rounds each produced a frame that passes the 10 November bar, and both wait for Dermot's pick, since he removed the earlier ones. Lindahl's age, heritage, build and dress are proposed with their basis and a draft prompt, not approved and not run. No page and no image changes.
+
 - **Vellire's portrait filed** (`src/characters/vellire.md`, `src/images/characters/vellire.jpg`, 2026-11-18, Opus, Dermot's pick). Gemini with Ilyare's portrait as a body reference, after two Firefly rounds and a text-only Gemini round came back as a jellyfish, a saucer or a clam shell. The page no longer borrows the people's picture.
 
 - **Vellire's portrait tried on Adobe Firefly, not filed** (`story-bible/images.md` § 86, `story-bible/image-prompts.md`, 2026-11-18, Opus). Two text-only rounds on Firefly Image 5 came back as a jellyfish or saucer and then a clam shell; the next step is the full prompt on Gemini.
