@@ -8,9 +8,8 @@ aliases:
   - "The Keeper of the Rolls"
 tags: [celtic-union, tir-na-nog, registry, governance, titles, official-documents, author, human]
 description: "The Keeper of the Rolls on Tír na nÓg who declined the petition for courtesy recognition of ancestral titles, as every Keeper before her had, and minuted the reason in full so that the next Keeper need only sign."
-image: "lore/celtic-union-of-planets.jpg"
-image_alt: "Designed cover for the Celtic Union of Planets: a gold Celtic knotwork emblem in a ringed seal, on a dark background — not an Earth wildlife photo."
-image_caption: "The Archive's card for the Celtic Union of Planets"
+image: "aoibheann-ni-mheara.jpg"
+image_alt: "Aoibheann Ní Mheara, a white-haired woman in a deep green high-necked wool dress and grey wrap, standing at a pale timber table in a room of smooth pale composite set against an old limestone wall, a thin grey sheet in her hands, looking out through one wide sheet of glass at dry-stone walls, a cut field and a misty upland, where a small grey-green machine on jointed legs works at the wall and two pale moons hang in the daytime sky"
 known_codex: [the-courtesy-that-was-withdrawn]
 ---
 

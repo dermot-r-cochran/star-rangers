@@ -7,9 +7,8 @@ role: "Philosopher of measurement, United Space Industry Standards and the Solar
 status: Historical
 tags: [united-space-consortium, sssa, standards, certification, measurement, earth, human]
 description: "A philosopher of measurement at United Space Industry Standards in the crisis decades, whose essay On the Width of a Standard argued that a certificate is a claim with a width, and survives only in quotation in the Solar System Safety Standards Authority's founding papers."
-image: "lore/united-space-industry-standards.jpg"
-image_alt: "Designed emblem card on a dark green-black ground: the category History in spaced capitals at the top, a plain shield outline in a soft teal glow at the centre, and below a short rule the title United Space Industry Standards in pale serif capitals."
-image_caption: "The Archive's card for United Space Industry Standards"
+image: "ines-abara.jpg"
+image_alt: "Ines Abara, a broad-built woman in her forties with deep brown skin and very short greying hair, in a plain high-necked dark blue dress, seated on a timber ledge beside a large deep-set window with rounded corners in a bare pale room, her face turned toward the flat grey daylight and her hands resting still in her lap"
 ---
 
 Ines Abara held that a standard is a claim, and that every claim has a width. A certificate that a hull will hold, a coupling will seal or an instrument will read true says so under conditions, and the conditions are part of what it says. Her essay *On the Width of a Standard* does not survive. A sentence of it does, quoted in the founding papers of the [Solar System Safety Standards Authority](/star-rangers/timeline/2340-usc-sssa-established/): *"A certificate that does not say where it holds says that it holds everywhere, and nothing does."*
