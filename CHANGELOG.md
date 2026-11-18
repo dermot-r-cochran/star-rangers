@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Instrument Drift says why the difference is kept by hand** (`src/glossary/instrument-drift.md`, 2026-11-18, Opus). Dermot ruled that a digital device near a boundary is pulled toward agreement and loses the difference, and that the Sceir Light's timekeeper is the keeper herself, reading a mechanical clock. The entry gains one paragraph saying so. It is a clarification: S01E01C03 and S01E01C04 already show it, and every instrument still reads its own position correctly. Ruling in `story-bible/intake-2026-11-18.md`.
+
 - **`RELATED-REPOSITORIES.md` lists which repositories take outside contributions** (2026-11-18, Opus). At Dermot's direction, every public repository of his under a fully open licence now accepts third-party pull requests, each with its own `CONTRIBUTING.md`; he merges them himself. This repository and the photography portfolio are excluded by name, and the repositories carrying CC BY-NC-ND pictures are excluded as not fully open. Nothing here changes: `CONTRIBUTING.md` still asks for forks, not pull requests.
 
 - **Each Journal film's watch page names the page it is an impression of** (`lib/videos.js`, `src/watch/watch.njk`, 2026-11-18, Opus). *Nothing Taken*, *The Character of the Light* and *The Up-People's First Stone* name their chapters; *Lúnasa* and *The Long White Trail* name the Lúnasa lore page. The video's structured data carries the same page as `about`. The link runs one way, at Dermot's choice: no chapter or lore page links a film, so each Journal entry's *not linked from the chapter* stays true.

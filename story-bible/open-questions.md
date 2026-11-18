@@ -196,7 +196,9 @@ Kind, size, body, name and what *companion* means are all undecided; built by th
 
 Ruled: detection and exposure explain the rise in reports; a flexure's address is fixed and its depth may vary slightly. Left open on purpose: whether the rate itself has changed (the Archive has no baseline). Never to be settled by a measurement in the record's present without him. `story-bible/intake-2026-11-17.md`.
 
-## The hand-kept ledger near the boundary, and the Sceir Light's clock in 2826 form — raised by Dermot 16 November 2026, read 17 November 2026 on Fable — OPEN: two points, each put once as options, his to choose
+## The hand-kept ledger near the boundary, and the Sceir Light's clock in 2826 form — raised by Dermot 16 November 2026, read 17 November 2026 on Fable — point 1 RULED 18 November: (a) with (b) applied; point 2 PART-RULED: the timekeeper is the keeper, the movement mechanical and not electronic; its readout form stays OPEN
+
+*Ruled 18 November 2026 (`story-bible/intake-2026-11-18.md`), his* "Pulled to agree" *and* "The keeper herself"*: a digital device near a boundary is pulled toward agreement and loses the difference; the keeper reads, sets and writes the time by hand from a mechanical movement; `src/glossary/instrument-drift.md` carries the clarification. Open: how the movement shows its time to the second.*
 
 Dermot, verbatim, on the register shown in the film *The Character of the Light* (`src/journal/the-character-of-the-light.md`): *"Strangely the hand written paper ledger in the video might actually be more robust to boundary effects than digital recording devices, although I am still not convinced about the need for analogue clocks or other old-fashioned time keeping devices."* The sentence holds two questions. Each is read against the record and put once, as options. Nothing below is canon, and no page in `src/` changes until he chooses.
 
