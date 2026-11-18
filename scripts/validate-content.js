@@ -13,6 +13,7 @@ const matter = require("gray-matter");
 const { CONTENT_TYPES, TIMELINE_TYPE, CHAPTER_ID_PATTERN, isTimelineEntry, chapterIdFor, characterStatusProblem } = require("../lib/content-schema");
 const { checkGatedThreadSignatureTags } = require("../lib/content-filter");
 const { isPlaceholderImage } = require("../lib/placeholder-marker");
+const { loreImageRel } = require("../lib/lore-image");
 const { TIER_ORDER } = require("../lib/editions");
 const { correctionProblems } = require("../lib/locked-pages");
 
@@ -359,7 +360,9 @@ function checkFrontMatterImageUrlResolves(data, relativePath, index) {
   const dir = IMAGE_DIR_BY_SECTION[section];
   if (dir === undefined) return [];
   const value = String(data.image).replace(/^\/+/, "");
-  const rel = dir ? `${dir}/${value}` : value;
+  // A lore page may borrow another folder's picture by naming the folder
+  // first (lib/lore-image.js); every other value is below images/lore/.
+  const rel = section === "lore" ? loreImageRel(value) : dir ? `${dir}/${value}` : value;
   if (index.byRelPath.has(rel)) return [];
   const elsewhere = index.byBasename.get(path.basename(value).replace(/\.[^.]+$/, "")) || [];
   return [

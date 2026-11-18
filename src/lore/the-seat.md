@@ -4,6 +4,8 @@ title: "The Seat"
 category: "Culture"
 tags: [the-seat, standing-beside, plural-minds, five-islands, kingdom-of-the-five-islands, casimor, krilzat, watch-post, culture, custom]
 description: "The custom by which the Casimor watch-post of the Kingdom of the Five Islands is handed keeper to keeper: a named place is handed down and a person never is, each keeper a new member of a plural system, grown over years beside the living keeper before them."
+image: "chapters/s13e01c01.jpg"
+image_alt: "Krilzat under a heavy grey sky: a worn earth path runs through wind-leaning grass and bracken to a ring of rough grey stone wall with one small timber door, and out of the middle of the wall rises a tall plain keep of smooth pale grey with no window, door or seam, standing dead upright. Lichened rock and grey sea lie beyond. Nobody is in the frame."
 plain: "The watch-post on Casimor, in the Kingdom of the Five Islands, is handed from keeper to keeper. What is handed on is a seat: a named place, as a post is a place and not the person standing at it. In the keepers' family one body often holds more than one person, and the seat is held by one of those people. A child of the post grows up beside the keeper, and in those years a new person may grow in the child and come to answer to the seat. That person is new. Nothing passes from the old keeper to the young one: no memory, and no self. Only the seat is old. For a while both keepers are alive together, so nobody can take the one for the other. This is how the post can run in a family and still be held on service, not on blood. The Kingdom counts one keeper. The watch, for some years at a time, has two."
 related:
   - "The Kingdom of the Five Islands"
