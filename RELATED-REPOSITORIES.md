@@ -237,6 +237,28 @@ and continuity claims never cross into this record's digital persons or
 plural minds, nor the record into its scenarios — different licences, and
 a canon here that changes only by extension.
 
+## Outside contributions
+
+Since 18 November 2026 every public repository here under a fully open
+licence takes third-party contributions (Dermot's direction that day), each
+with its own `CONTRIBUTING.md`: `swarm`, `Voting`, `careful-memory`,
+`world-model`, `visual-llm`, `foundation-model`, `shadow-architect`,
+`hybrid-agent`, `virtual-anthropology`, `applied-statistics-for-AI-engineers`,
+`engineering-intelligence` and the ADM. The rules are the same in all of
+them, and each one's `CLAUDE.md` (the ADM's included, `engineering-intelligence`'s
+`AGENTS.md`) carries them: an outside pull request is reviewed and reported to
+Dermot with a recommendation, he merges it, and no session merges or approves
+one; no sign-off is required, and a contribution comes in under the
+repository's own licence.
+
+Not eligible: this repository and the photography portfolio (excluded by
+name), and the repositories that carry CC BY-NC-ND material and so are not
+fully open: `photo-safari-tutorial-game` and `photo-safari-range` (copies of
+the portfolio's photographs) and `four-islands-quest` (its pictures and clips).
+`four-islands-quest`'s own `CLAUDE.md` already welcomed code contributions
+before this date, and that line stands as it was. The profile repository has
+no licence, and the two comment boards hold no code.
+
 ## Keeping this true
 
 A repository's own section is edited in the same pull request as the change
