@@ -24,4 +24,7 @@ eleventyComputed:
   Your browser does not support the video element. <a href="/star-rangers/video/{{ video.id }}.mp4">Download the clip</a>.
 </video>
 <p class="page-intro"><em>{{ video.description }}</em></p>
+{%- if video.impressionOf %}
+<p>The film is an impression of <a href="/star-rangers{{ video.impressionOf }}">{{ video.impressionTitle }}</a>, not the record.</p>
+{%- endif %}
 <p>This video belongs to <a href="/star-rangers{{ video.page }}">{{ video.hostTitle }}</a>, which is where to read about it.</p>

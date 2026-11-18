@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Each Journal film's watch page names the page it is an impression of** (`lib/videos.js`, `src/watch/watch.njk`, 2026-11-18, Opus). *Nothing Taken*, *The Character of the Light* and *The Up-People's First Stone* name their chapters; *Lúnasa* and *The Long White Trail* name the Lúnasa lore page. The video's structured data carries the same page as `about`. The link runs one way, at Dermot's choice: no chapter or lore page links a film, so each Journal entry's *not linked from the chapter* stays true.
+
 - **Two artefact extractors quote the Chthonari pages as they now read** (`scripts/extract-places-and-peoples.js`, `scripts/extract-peoples.js`, 2026-11-17, Opus, found cutting 1.72.0). The species page now says the Chthonari were first called *insectoid* by off-worlders, and the six portraits are artist's impressions, so the old evidence phrases were gone and both scripts stopped. Each now quotes the current wording; no rule or reading changes.
 
 ## [1.72.0] — 2026-11-17
