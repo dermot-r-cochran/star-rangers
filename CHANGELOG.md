@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Image rule brought up to date, and the AI Safety Kernel card redrawn** (`CLAUDE.md`, `src/images/lore/ai-safety-kernel.jpg`, 2026-11-18, Opus). `CLAUDE.md` no longer says an abstract concept takes no image: it records Dermot's 15 November rulings (every page carries an image; bare only where generation fails two or three times and no diagram or card is possible; no site theme music; chosen videos carry their own audio). The shield card is redrawn with the `make-emblem-card.ps1` fix of #1940, which closes the shield's left edge.
+
 - **Instrument Drift says why the difference is kept by hand** (`src/glossary/instrument-drift.md`, 2026-11-18, Opus). Dermot ruled that a digital device near a boundary is pulled toward agreement and loses the difference, and that the Sceir Light's timekeeper is the keeper herself, reading a mechanical clock. The entry gains one paragraph saying so. It is a clarification: S01E01C03 and S01E01C04 already show it, and every instrument still reads its own position correctly. Ruling in `story-bible/intake-2026-11-18.md`.
 
 - **`RELATED-REPOSITORIES.md` lists which repositories take outside contributions** (2026-11-18, Opus). At Dermot's direction, every public repository of his under a fully open licence now accepts third-party pull requests, each with its own `CONTRIBUTING.md`; he merges them himself. This repository and the photography portfolio are excluded by name, and the repositories carrying CC BY-NC-ND pictures are excluded as not fully open. Nothing here changes: `CONTRIBUTING.md` still asks for forks, not pull requests.
