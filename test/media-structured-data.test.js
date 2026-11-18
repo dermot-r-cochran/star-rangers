@@ -36,6 +36,20 @@ test("videoObject carries what video results require", () => {
   assert.equal(obj.contentUrl, "https://fianilchruinne.com/video/quern.mp4");
 });
 
+test("videoObject names the page a film is an impression of, and only then", () => {
+  const base = { name: "Nothing Taken", description: "x", id: "nothing-taken", uploadDate: "2026-11-17", watchUrl: "/watch/nothing-taken/", hostUrl: "/journal/nothing-taken/", siteUrl: SITE, workName: "Fian Ilchruinne" };
+  assert.equal(videoObject({ ...base, aboutUrl: "/seasons/s01/e00/s01e00c11/" }).about.url, "https://fianilchruinne.com/seasons/s01/e00/s01e00c11/");
+  assert.equal(videoObject(base).about, undefined);
+});
+
+test("every impressionOf names a chapter or lore page that exists", () => {
+  const src = path.join(__dirname, "..", "src");
+  for (const v of VIDEOS.filter((x) => x.impressionOf)) {
+    assert.match(v.impressionOf, /^\/(seasons|lore|codex)\/.+\/$/, v.id);
+    assert.ok(fs.existsSync(path.join(src, `${v.impressionOf.slice(1, -1)}.md`)), `${v.id} -> ${v.impressionOf}`);
+  }
+});
+
 test("jsonLd cannot close its script element", () => {
   assert.ok(!jsonLd({ a: "</script>" }).includes("</"));
 });

@@ -323,8 +323,14 @@ module.exports = function(eleventyConfig) {
       if (!host || host.data.layout === "excluded.njk") continue;
       if (!fs.existsSync(path.join(__dirname, "src", "video", `${video.id}-poster.jpg`))) continue;
       watchIds.add(video.id);
+      // The page the film is an impression of, named only where this
+      // edition carries it, so a narrowed build never points at a placeholder.
+      const source = video.impressionOf && all.find((item) => item.url === video.impressionOf);
+      const sourceCarried = source && source.data.layout !== "excluded.njk";
       out.push({
         ...video,
+        impressionOf: sourceCarried ? video.impressionOf : undefined,
+        impressionTitle: sourceCarried ? source.data.title : undefined,
         hostTitle: host.data.title,
         description: video.caption || host.data.description,
         duration: isoDuration(mp4DurationSeconds(path.join(__dirname, "src", "video", `${video.id}.mp4`)))
@@ -350,7 +356,7 @@ module.exports = function(eleventyConfig) {
     jsonLd(videoObject({
       name: video.hostTitle, description: video.description, id: video.id,
       uploadDate: video.uploadDate, duration: video.duration,
-      watchUrl, hostUrl: video.page, siteUrl, workName
+      watchUrl, hostUrl: video.page, aboutUrl: video.impressionOf, siteUrl, workName
     }))
   );
 
