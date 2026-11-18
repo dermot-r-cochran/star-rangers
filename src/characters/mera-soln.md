@@ -7,6 +7,9 @@ aliases:
   - "Watch Officer Mera Soln"
 tags: [threshold-station, dock-seven, operations-desk, night-watch, instrument-drift, author]
 description: "The Threshold Station night-watch officer who, on the day Incident Report 001 was closed in 2815 UCSD, filed an addendum saying the Dock Seven chronometers had split again by exactly forty seconds, that the classification was no longer operationally useful, and that the dual-clock callouts should stay."
+image: "lore/threshold-station.jpg"
+image_alt: "A long stone sea wall running straight out toward a low sun at dusk, the wet surface catching the light, boulders along its right edge and open water on the left; at the far end, lying low on the water in silhouette against the pale sky, one long smooth seamless hull-shaped form with three small warm lights along its waterline, and a headland faint on the horizon to the left."
+image_caption: "Threshold Station at dusk"
 known_codex: [dock-seven-night-watch-addendum-day-52]
 ---
 

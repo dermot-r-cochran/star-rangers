@@ -9,6 +9,9 @@ aliases:
   - "Specialist Egede"
 tags: [survey-corps, fliade, below-the-roof, first-contact, cavern-biosphere, instrumentation, star-rangers, author]
 description: "The instrument specialist of the three-person Fliade surface party, who proposed collaring the Anstolik herds and filed the proposal with the refusal that stopped it, read the moved relay as a courtesy, and for seven weeks in 2833 UCSD wrote imager artefact for a shape that had no fault to find."
+image: "chapters/s12e02c01.jpg"
+image_alt: "An empty cavern junction of pale frosted rock in dim light. In the foreground a small sealed grey instrument stands on a slim post, facing the open floor; a plain grey cylinder stands on the silt among old bootprints. In the mouth of the right-hand passage stands a flat dark upright shape with a thin pale line of light round its edge."
+image_caption: "The imager at the junction on Fliade; from Imager Fault (S12E02C01)"
 known_codex: [proposal-to-collar-the-anstolik]
 ---
 

@@ -16,6 +16,7 @@ const { isPlaceholderImage } = require("../lib/placeholder-marker");
 const { loreImageRel } = require("../lib/lore-image");
 const { TIER_ORDER } = require("../lib/editions");
 const { correctionProblems } = require("../lib/locked-pages");
+const { isBorrowedCharacterImage, ownPortrait } = require("../lib/character-image");
 
 const SRC_DIR = path.join(__dirname, "..", "src");
 
@@ -361,8 +362,11 @@ function checkFrontMatterImageUrlResolves(data, relativePath, index) {
   if (dir === undefined) return [];
   const value = String(data.image).replace(/^\/+/, "");
   // A lore page may borrow another folder's picture by naming the folder
-  // first (lib/lore-image.js); every other value is below images/lore/.
-  const rel = section === "lore" ? loreImageRel(value) : dir ? `${dir}/${value}` : value;
+  // first (lib/lore-image.js). A character page may too, and then the
+  // value names the folder itself (lib/character-image.js, 2026-11-18).
+  // Every other value is below its section's own folder.
+  const borrowed = section === "characters" && isBorrowedCharacterImage(value);
+  const rel = section === "lore" ? loreImageRel(value) : dir && !borrowed ? `${dir}/${value}` : value;
   if (index.byRelPath.has(rel)) return [];
   const elsewhere = index.byBasename.get(path.basename(value).replace(/\.[^.]+$/, "")) || [];
   return [
@@ -524,13 +528,13 @@ function checkEditionHeroCasts(characterPages) {
         problems.push(`edition "${edition.id}" casts "${rawId}", which is not a character id`);
         continue;
       }
-      if (isBlank(page.data.image)) {
+      if (!ownPortrait(page.data.image)) {
         problems.push(
           `edition "${edition.id}" casts "${rawId}", whose page has no image: - the slideshow drops it`
         );
         continue;
       }
-      if (isPlaceholderImage(path.join(SRC_DIR, "images", "characters", String(page.data.image)))) {
+      if (isPlaceholderImage(path.join(SRC_DIR, "images", "characters", ownPortrait(page.data.image)))) {
         problems.push(
           `edition "${edition.id}" casts "${rawId}", whose portrait is a PLACEHOLDER-stamped pending card - ` +
           "the slideshow only shows finished portraits, so the slide never renders; " +
@@ -551,8 +555,8 @@ function checkEditionHeroCasts(characterPages) {
     // once and do not fail: the static hero is a legitimate front page.
     if (!renderable.length && ids.length) {
       const pool = [...byId.values()].filter(
-        (p) => !isBlank(p.data.image) &&
-          !isPlaceholderImage(path.join(SRC_DIR, "images", "characters", String(p.data.image))) &&
+        (p) => ownPortrait(p.data.image) &&
+          !isPlaceholderImage(path.join(SRC_DIR, "images", "characters", ownPortrait(p.data.image))) &&
           isCharacterIncluded(p.data, filter)
       ).length;
       console.warn(

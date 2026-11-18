@@ -8,6 +8,9 @@ aliases:
   - "Dr. Ausma Reihl"
 tags: [the-institute, secular, fold-dynamics, working-paper, dock-seven, threshold-station, boundary, author]
 description: "The Institute fold-dynamics researcher whose material account of Dock Seven is the version most of settled space believes, and whose own null-results section prints, at the finding's length, the five observations the account cannot explain."
+image: "chapters/s05e02c03.jpg"
+image_alt: "A grey sea with rows of small white breakers under heavy cloud. Far out, a loose drift of small pale warm lights hangs low over the water at the right and gathers into a single thin line that climbs to the left across the grey sky, thinning until it ends at nothing."
+image_caption: "Off Dock Seven; from What Came Off the Ship (S05E02C03)"
 known_codex: [dock-seven-material-account]
 ---
 

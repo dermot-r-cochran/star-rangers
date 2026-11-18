@@ -10,6 +10,8 @@ aliases:
   - "the flat trace"
 tags: [levril, dragon, meta-dimensional, cascade, boundary, containment, perimeter]
 description: "A Dragon known only from instrument logs, named for the anomaly it produces: a containment boundary that does not drift when every model says it should. The low-ranking half of the Levril subclass split, and the one nobody has ever spoken to."
+image: "the-kept-line.jpg"
+image_alt: "Designed emblem card for The Kept Line: three concentric rings in a soft glow on a dark ground, above the title and the line A containment boundary that does not drift."
 ---
 
 Every other Levril signature in the record announces itself as disturbance. This one announces itself as an absence of it.

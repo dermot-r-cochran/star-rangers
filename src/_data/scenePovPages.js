@@ -17,6 +17,7 @@ const matter = require("gray-matter");
 const { createMarkdownRenderer, parsePovInfo } = require("../../lib/markdown-containers");
 const { getContentFilter, isCharacterPovIncluded } = require("../../lib/content-filter");
 const { getEdition } = require("../../lib/editions");
+const { ownPortrait } = require("../../lib/character-image");
 
 const SEASONS_DIR = path.join(__dirname, "..", "seasons");
 const CHARACTERS_DIR = path.join(__dirname, "..", "characters");
@@ -34,7 +35,8 @@ function loadCharacterPortraits() {
     const { data } = matter(fs.readFileSync(path.join(CHARACTERS_DIR, entry), "utf8"));
     if (!data.id) continue;
     const record = {
-      image: data.image || null,
+      // A borrowed picture is not a portrait (lib/character-image.js).
+      image: ownPortrait(data.image),
       imageAlt: data.image_alt || null,
       url: `/characters/${entry.replace(/\.md$/, "")}/`
     };

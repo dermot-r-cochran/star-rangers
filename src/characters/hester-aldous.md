@@ -8,6 +8,9 @@ status: Active
 aliases: []
 tags: [human, winterbourne, albion-system, marlbrook, downland, spring-line, civilian, shepherd]
 description: "A Winterbourne-born shepherd who keeps the Marlbrook parish flock on the high down, where the turf is a product of the sheep and goes to scrub within a decade if the flock is lost; the first person of Winterbourne the record names, at home in the Albion system in 2826 UCSD, on a world where the villages sit where the water comes out and nobody had to be told."
+image: "lore/winterbourne.jpg"
+image_alt: "A chalk escarpment in late summer with small flint-and-chalk villages at its foot, a dry gravel stream bed in the foreground crossed by a plank footbridge over no water, and high in the hazy sky the thin pale trail of an ascent javelin climbing steeply."
+image_caption: "The chalk country of Winterbourne"
 ---
 
 Hester Aldous keeps the flock. On [Winterbourne](/star-rangers/lore/planets/winterbourne/) the downland turf is not a natural state but a product of the sheep: left ungrazed it goes to scrub within a decade and to woodland inside a century, which has happened twice on record where a parish lost its flock, and been reversed both times by putting the flock back. Keeping the flock on the ground is her trade, and so, without anyone saying so, is keeping the ground. She is the first person of Winterbourne the record names, and the Archive calls her the first of nothing else: a parish's flock is somebody's work, as its ledgers or its shielding are elsewhere in the record.

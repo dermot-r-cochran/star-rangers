@@ -6,6 +6,9 @@ role: "Sign-painter and ticketed frame-marker on one residential ring of an Orbi
 aliases: []
 tags: [author, plainmark, orbital-habitats-compact, habitats, culture]
 description: "The sign-painter of one residential ring in a Compact habitat, who stencils the ring's plainmark frames in the morning and, by brush and outside the schedule, paints each household's count on its door leaf, and who keeps a posted sheet of what she will and will not paint."
+image: "lore/plainmark.jpg"
+image_alt: "A plainmark panel on the fixed frame beside a closed rounded hatch in a clean pale corridor: three stacked bands, two bone-white chevrons pointing left on slate blue, one black block and three black strokes on bone white, and one black ring on ochre"
+image_caption: "A plainmark frame beside a hatch"
 known_codex: [two-blocks-and-four-strokes]
 ---
 

@@ -37,6 +37,7 @@
 const fs = require("fs");
 const path = require("path");
 const { checkText, urlFor } = require("./extract-designs");
+const { ownPortrait } = require("../lib/character-image");
 const { PEOPLE_RULES, EXTRA_PEOPLE_PAGES } = require("./extract-places-and-peoples");
 
 const REPO_ROOT = path.resolve(__dirname, "..");
@@ -506,7 +507,8 @@ function build(root = REPO_ROOT, peoples = PEOPLES, opts = {}) {
     for (const id of Object.keys(r.portraits)) if (!mine.some(c => c.id === id)) failures.push(`${where}: portrait rule names ${id}, which is not a character of this people`);
     const characters = mine.map(c => {
       const rule = r.portraits[c.id] || {};
-      const image = c.data.image ? String(c.data.image) : null;
+      // A borrowed picture (lib/character-image.js) is not a portrait of this body.
+      const image = ownPortrait(c.data.image);
       let check;
       if (!image) check = "none";
       else if (bnr) check = "not-relevant";

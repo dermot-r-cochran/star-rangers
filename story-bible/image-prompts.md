@@ -4909,3 +4909,12 @@ Nine cards for the last lore pages without a picture (`images.md` § 83). Each `
 .\scripts\make-emblem-card.ps1 -Page src\lore\the-ladder-in-other-tongues.md -Device chevron -Tint '#16202A' -Accent '#A9C4C9' -Epithet 'A rendering is a courtesy'
 .\scripts\make-emblem-card.ps1 -Page src\lore\the-convened.md -Device rings -Tint '#1E1A2A' -Accent '#C2A9C8' -Epithet 'A person exists among them only in a working'
 ```
+
+## 2026-11-18 — Character page emblem cards (Fable, desktop)
+
+Two cards for `story-bible/images.md` § 82, drawn by `scripts/make-emblem-card.ps1`, not generated. Each epithet is a phrase taken verbatim from the page. The other thirty pages of that section borrow a filed picture and add no file.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\characters\the-kept-line.md -Device rings -Tint '#1E1A2A' -Accent '#C2A9C8' -Epithet 'A containment boundary that does not drift'
+.\scripts\make-emblem-card.ps1 -Page src\characters\ariel-pinya.md -Device figure -Tint '#221C14' -Accent '#D2BC8E' -Epithet 'The Called In stories'
+```

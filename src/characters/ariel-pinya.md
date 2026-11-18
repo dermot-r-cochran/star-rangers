@@ -9,6 +9,8 @@ aliases:
   - "Ariel Pipyka"
 tags: [human, author, fiction, culture, star-rangers, called-in]
 description: "The author of the Called In stories, the kiosk fiction about Star Rangers that the Rangers themselves read — stories that get the posture of the work exactly right and the institution cheerfully, consistently wrong."
+image: "ariel-pinya.jpg"
+image_alt: "Designed emblem card for Ariel Pinya: an oval over an arch in a soft glow on a dark ground, above the name and the line The Called In stories."
 known_codex: [the-short-stair]
 ---
 

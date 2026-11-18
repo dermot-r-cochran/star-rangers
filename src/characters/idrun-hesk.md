@@ -8,6 +8,9 @@ status: Active
 aliases: []
 tags: [ilveth, sardain, cold-world, heat-thrift, author, non-humanoid, histories-in-their-own-voices]
 description: "An Ilveth of Sardain, a sealer of a buried working floor, who at the Survey Archive's asking gave the history of the Ilveth in warmth, outside, at night, at full price, and glossed it in her own click-speech for a Survey Corps reader — the author of the seventh history of a non-human people the record holds in that people's own voice, whose warm-write the Archive holds and cannot read."
+image: "lore/ilveth.jpg"
+image_alt: "A long low non-human being on a plain of grey ancient ice under a dim sun, segmented and carried close to the ground on many short limbs, its forward third rising into a smooth hooded crown with no face, broad vanes lying folded along its flank, half turned toward the camera"
+image_caption: "An Ilveth on the ice; the people's picture, not a likeness of Idrun Hesk"
 known_codex: [shown-to-the-sky, the-wall-that-said-one-thing]
 ---
 

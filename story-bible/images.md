@@ -13226,6 +13226,63 @@ Notes on the borrowed set: *The Told* takes `s11e01c03.jpg`, five of the people 
 
 **For his eye, not done.** Several cards stand where a picture could one day: *Spoke Car* (a vessel part with no filed image and no sheet in `starship-design.md`), *Slipwave* (the band has no picture; its recordings have covers), *Simian* (a camera can photograph Earth's primates, so one of his own frames would be the route, never a generation), and the two Caomhari entries (a people with no body on record). None was generated, since a card fits each and the plan put generation last.
 
+### 82. Character pages: the 32 without an image take a borrowed picture or a card (18 November 2026, Fable, desktop)
+
+**Why.** Dermot's ruling of 15 November 2026 that every page carries an image (*"every page would benefit from an image or video"*, for visual readers). Thirty-two character pages on `origin/main` had no `image:`. Each was bare for a reason already on record: a body the record does not state (the Codex authors of § 17, Halle Ostrander, Rosamund Hallam), a member of a plural system (Cael, Wyn), a being known only from instrument logs (The Kept Line), a portrait declined in the world (Ariel Pinya, Odal Ferren), *no visualization on record* (Idrun Hesk), a child (Úna Ní Dhálaigh), a portrait removed on 9 or 10 November under the century bar or on aesthetics (Aoibheann Ní Mheara, Síle Ní Bhriain, Ines Abara, Hester Aldous, Nuala Beirne, Oshek Var, Elsha Rootkin, Rhuven), or a portrait whose rounds failed or were never run (Essaran, Essarith, Ruvel Swardkin, Vellire, Emeka Lindahl). None of those rulings is reopened here. `CLAUDE.md` says what such a page takes instead: *an image borrowed from a page on the same subject, an emblem card or a diagram*. So nothing was generated, no body, face or dress was designed, and the order was: a filed picture of the same subject first, a filed card second, a new card last.
+
+**The engine.** A character's `image` was a bare file name in `src/images/characters/`, which no page can borrow through. Since this section it may instead be the path **below** `src/images/` with its folder (`chapters/s01e00c10.jpg`, `lore/quern.jpg`, `characters/sen.jpg`), as a glossary or timeline entry's is (§§ 80 and 81): one file with one more reference, never a copy. `lib/character-image.js` holds the rule and its three questions. **A borrowed picture is not a portrait**: the page's own header, its share card and the image sitemap show it; the POV strip on chapters, the season portraits, the home slideshow, the peoples board and the wardrobe board ask for the character's own portrait and get none. `validate-content.js` resolves the borrowed path; `test/character-image.test.js` pins the rule. Each borrowed `image_alt` is the filed alt of the page that already carries the picture, so it says what the file shows and nothing about the character; each page also carries an `image_caption` naming what the picture is and, for a chapter frame, the chapter it is from. **Codex covers were not borrowed**: they are square, and the header's 16:9 crop cuts the title off, so an author's page takes a 16:9 picture or card of the subject instead.
+
+**What was chosen** (page → image; why it is the same subject).
+
+*Chapter frames (6):*
+- `nuala-beirne` → `chapters/s01e00c10.jpg`, the Sceir Light at dusk with its lamp lit, the light she keeps; nobody in frame.
+- `una-ni-dhalaigh` → `chapters/s01e00c13.jpg`, the ceiling of her room on the Conjunction night, the thing her page turns on. **No child is pictured**, under *A child is pictured grown*: the record has her only as a child, so the page shows the room and not her.
+- `emeka-lindahl` → `chapters/s03e03c02.jpg`, the agreement log at the fold-approach post he held for thirty-three days. The three officers seen from behind are Shepherd, the Senior and the Deputy; he is not in the frame and neither alt nor caption says he is.
+- `toma-egede` → `chapters/s12e02c01.jpg`, the imager on its post at the junction on Fliade and the shape Egede logged as imager artefact.
+- `ausma-reihl` → `chapters/s05e02c03.jpg`, the lights off Dock Seven in 2831, the event her paper accounts for.
+- `wyn` → `chapters/s07e01c04.jpg`, the desk's note left unsigned at evening, which is Wyn's standing difference with Sen; the figure leaving is the system's one body, seen from behind.
+
+*A filed portrait (1):*
+- `cael` → `characters/sen.jpg`. The page says the record *"has no picture of Cael, and a member of a system has no body of their own for a camera to take"*; § 17 recorded that the system's one body is carried by Sen's portrait. The caption says whose portrait it is.
+
+*Lore pictures of the place, the people or the thing (15):*
+- `rhuven` → `lore/pelagos-minor.jpg`, the basin seen from the escarpment where the station stands. The Ovruhn's own page carries a card, and Rhuven's portrait was removed on 9 November.
+- `vellire` → `lore/ollune.jpg`, Ollune adrift, the people's own picture; captioned as not a likeness.
+- `essarith` → `lore/prismeri-full-wings-painting.jpg`, Halle Ostrander's painting of a Full Wings Prismeri, the form Essarith has; captioned as not a likeness. § 45's prompt stands unrun.
+- `halle-ostrander` → `lore/prismeri-full-wings.jpg`, one of her own plates.
+- `idrun-hesk` → `lore/ilveth.jpg`, the people's picture; captioned as not a likeness. Her page still says the record holds no picture of her, which stays true: *"Hesk has no visualization on record"* (27 October) is untouched.
+- `hester-aldous` → `lore/winterbourne.jpg`, the chalk country of her world.
+- `sile-ni-bhriain` → `lore/aethelrock.jpg`, a valley of Aethelrock, whose reader-schools she tells for.
+- `odal-ferren` → `lore/quern.jpg`, the settlement under rain with the line running out from the houses. The settlement's refusal was of a transcript's business, and the place is already pictured on its own page.
+- `nkem-fairlie` → `lore/plainmark.jpg`, a plainmark frame of the kind she stencils.
+- `rosamund-hallam` → `lore/new-london-space-habitat.jpg`, a street in New London, where the page places her.
+- `maren-ilves` → `lore/the-institute.jpg`, an office at the Institute.
+- `maren-halloran` → `lore/membrane-shadows.jpg`, a membrane shadow, the subject of her casebook. The dark figure is the shadow, not her; the caption says so.
+- `mera-soln` → `lore/threshold-station.jpg`, the station whose night watch she stood.
+- `merrin-aldwater` → `lore/narrative-works-and-their-adaptation.jpg`, the reader's table the Archive files with narrative works.
+- `ruvel-swardkin` → `lore/planets/verdance.jpg`, Verdance from the air, its dry savanna among the four countries. § 51's prompt stands unrun.
+
+*Filed cards (8):*
+- `elsha-rootkin` → `lore/verdani.jpg` and `oshek-var` → `lore/veyr-basaltborn.jpg`, each people's card; both portraits were removed on 10 November.
+- `essaran` → `lore/cerebraun-hegemony.jpg`, the state whose office Essaran drafts for. § 47's third round stands unrun.
+- `aoibheann-ni-mheara` → `lore/celtic-union-of-planets.jpg`; `ines-abara` → `lore/united-space-industry-standards.jpg`; `emrys-kade` → `lore/the-archive.jpg`; `wren-ansell` → `lore/star-rangers-survey-corps.jpg`: the institution each wrote for.
+- `pren-halvard` → `glossary/instrument-drift.jpg`, the thing his report was the first official record of.
+
+*New emblem cards (2)*, from `scripts/make-emblem-card.ps1`, the epithet a phrase taken verbatim from the page, commands in `image-prompts.md`:
+- `the-kept-line` → `characters/the-kept-line.jpg`, rings (a held perimeter), *A containment boundary that does not drift*. The Levrils' card was the other candidate; this page's subject is one Dragon, so it has its own.
+- `ariel-pinya` → `characters/ariel-pinya.jpg`, figure, *The Called In stories*. Her page says the record holds no portrait, and it still holds none: a card is not one.
+
+**Counts.** Borrowed 30 (chapter frames 6, a portrait 1, lore pictures 15, filed cards 8); new emblem cards 2; from his own photographs 0; generated 0; bare 0.
+
+**Checked and passed.** No borrowed frame shows a child. No caption states a fact its page does not. Three borrowed frames show a figure who is not the page's character (`cael`, `maren-halloran`, `wyn`) and three show another individual of the character's people (`essarith`, `idrun-hesk`, `vellire`); each caption says what the figure is.
+
+**For his eye, not done.** These pages now carry a picture, and each could still take a portrait of its own if he wants one; none was attempted, because each reopens a decision of his or needs one:
+- **Five human portraits removed on 10 November** (*"simply remove the ones that could not be fixed"*): Aoibheann Ní Mheara, Síle Ní Bhriain, Ines Abara, Hester Aldous, Nuala Beirne. Their prompts of record stand (§§ 17, 33, 35, 46); a new attempt would be a fresh frame under the 10 November bar and `negative-examples/`, not an edit of the removed one.
+- **Emeka Lindahl** has never had a prompt. He is human and uses a pronoun, so a portrait is owed under the 7 October rule; the readings (age, heritage, build) would be Fable's to propose and his to overrule.
+- **Three non-human prompts written and not run**: Essarith (§ 45), Ruvel Swardkin (§ 51), Essaran's round 3 (§ 47).
+- **Four non-human portraits removed or stopped**: Rhuven (9 November, on aesthetics, with his pointer toward a purple or inverted plate), Elsha Rootkin and Oshek Var (10 November), Vellire (no entry yet; Ilyare's § 21 is the people's filed look).
+- **The author pages whose record states no species** (Option A, 16 October) stay without a portrait until a page states one.
+
 ### 84. Codex entries: the 49 without an image take a title card (18 November 2026, Opus, desktop)
 
 **Why.** Dermot's ruling of 15 November 2026 that every page carries an image (*"every page would benefit from an image or video"*, for visual readers). Forty-nine Codex entries on `origin/main` had no `image:`. The Codex already has a house form for its headers, the designed title card from `scripts/make-codex-cover.ps1`, so each of the 49 takes one. Nothing was generated and nothing was borrowed.

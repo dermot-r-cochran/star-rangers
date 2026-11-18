@@ -8,6 +8,9 @@ aliases:
   - "Theorist Kade"
 tags: [survey-archive, doctrinal-division, threshold-station, cosmology, kieme, unfounded, archive-doctrine, devotional-traditions, author]
 description: "The Survey Archive theorist whose doctrinal working papers of 2822 to 2824 UCSD state the Cosmic Limitation on Evil, the three registers of moral standing and the ontology of the Unfounded, and end, each of them, by admitting the file cannot be closed."
+image: "lore/the-archive.jpg"
+image_alt: "Designed cover for The Archive: concentric pale parchment rings in a soft tinted glow on a dark warm background, a shelf that appends and never overwrites"
+image_caption: "The Archive's own card"
 known_codex: [cosmic-limitation-on-evil, neither-author-nor-warden, the-borrowed-silhouette, called-permitted-forbidden, the-house-on-the-sand]
 ---
 

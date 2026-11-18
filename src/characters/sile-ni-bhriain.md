@@ -8,6 +8,9 @@ aliases:
   - "Síle Ní Bhriain, told for the reader-schools of the Aethelrock valleys"
 tags: [celtic-union, aethelrock, saint-aoife, hagiography, reader-schools, young-star-rangers, culture, author, human]
 description: "The Union teller whose Legend of Saint Aoife, printed for the reader-schools of the Aethelrock valleys, gives children the ships' telling with both halves kept: what Aoife said she met, and what she said it looked nothing like."
+image: "lore/aethelrock.jpg"
+image_alt: "A broad glacier-cut glen between steep bare granite ridges with low cloud on the tops, and in the foreground two long stone longhouses with plain conduits run along their walls beside a line of capped composite fence posts, sheep grazing along it and lichened granite in front"
+image_caption: "A valley of Aethelrock"
 known_codex: [the-legend-of-saint-aoife]
 ---
 

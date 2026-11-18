@@ -6,6 +6,9 @@ role: "Author of fantasy stories; formerly kept a closure ledger"
 aliases: []
 tags: [author, fiction, fantasy, culture, timekeeping]
 description: "The author of The Round and Other Impossibilities, a book of fantasy stories whose first, The Hour Nobody Had, makes time a thing a courier can carry in a flask, and whose closing note lists what was made up."
+image: "lore/narrative-works-and-their-adaptation.jpg"
+image_alt: "A reader's table of a pale stone-like material by a wide window, holding one plain cloth-bound volume lying shut with a ribbon marker and a row of slimmer plain volumes standing shut on their edges beside it, every spine and cover unlettered; a few more plain volumes in a niche behind, and through the glass, softly out of focus, green terraces and pale buildings stepping up a slope in mist"
+image_caption: "A reader's table; the picture the Archive files with narrative works"
 known_codex: [the-hour-nobody-had]
 ---
 

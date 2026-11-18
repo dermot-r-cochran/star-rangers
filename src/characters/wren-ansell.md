@@ -7,6 +7,9 @@ aliases:
   - "Chief Surveyor Wren Ansell"
 tags: [survey-corps, standards-office, protocol, threshold-station, official-documents, author]
 description: "The Chief Surveyor at the Survey Corps Standards Office who issued the Boundary Monitoring Protocol for Threshold-class stations in 2811 UCSD, the document under which Dock Seven's forty seconds were filed, closed, and carried as a calibration issue for eleven years."
+image: "lore/star-rangers-survey-corps.jpg"
+image_alt: "Designed cover for the Star Rangers Survey Corps: three nested pale green arcs in a soft tinted glow on a dark slate-green background, the corps' branches under one standard"
+image_caption: "The Archive's card for the Survey Corps"
 known_codex: [survey-corps-protocol]
 ---
 
