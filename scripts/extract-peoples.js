@@ -95,6 +95,7 @@ const PEOPLES = [
       "vaurel": { check: "agrees", evidence: ["src/characters/vaurel.md", "Vaurel"], note: "Filed 26 October 2026 from a scripted Blender blockout (scripts/blockouts/vaurel.py) turned into a photograph, the first Cerebraun portrait standing on the four ventral limbs; superseded 27 October by vaurel-2.jpg from a second blockout (scripts/blockouts/vaurel-2.py) with a teaching surface and doorway for scale, one hard light and the raised limb rooted in the body, after Dermot read the first as a child's model." },
       sohrel: { check: "agrees", evidence: [IMAGES_FILE, "There is no cephalopod in it."], note: "Filed 13 October 2026, the night the body was ruled." },
       tavesh: { check: "agrees", evidence: ["src/characters/tavesh.md", "small dark eyes set along the limbs"], note: "Briefed from the species page and Sohrel's entry, point for point." },
+      essaran: { check: "agrees", evidence: ["src/characters/essaran.md", "Their body, which no page describes beyond the people's"], note: "First filed 31 October 2026 and removed 10 November as a clay sculpture in a room of our century. Filed again 18 November 2026 (images.md § 85): an umber body slumped beside a low island in a seamless composite room, the Sohrel frame as body reference; the pose is close to Sohrel's. For his eye." },
     },
   },
   {
@@ -234,6 +235,7 @@ const PEOPLES = [
       "isren-farrowkin": { check: "agrees", evidence: ["src/characters/isren-farrowkin.md", "with no head and no face"], note: "Filed 12 October 2026 (century batch 6)." },
       "meril-duskkin": { check: "agrees", evidence: ["src/characters/meril-duskkin.md", "the duller olive-brown of a fenland strain"], note: "Filed 26 October 2026 (round 1, his pick): one olive-bronze vane over a creased mound, no head or face." },
       "tavin-ledgekin": { check: "agrees", evidence: ["src/characters/tavin-ledgekin.md", "the pale, high-reflectance colour of a high-terrace strain"], note: "Filed 26 October 2026 (round 1, his pick) and remade 10 November 2026 (his pick): three pale vanes from one creased mound, leaning together toward the settlement below, no head or face." },
+      "ruvel-swardkin": { check: "agrees", evidence: ["src/characters/ruvel-swardkin.md", "reddish colour of a steppe strain"], note: "Filed 18 November 2026 (images.md § 85, round 2, an edit of round 1's frame): three russet-red vanes from one creased mound, leaning together away from the low sun, no head or face." },
     },
   },
   {

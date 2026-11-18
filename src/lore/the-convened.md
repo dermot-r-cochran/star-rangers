@@ -4,8 +4,8 @@ title: "The Convened"
 category: "Species"
 tags: [the-convened, aphel, species, personhood, first-contact, survey-world, non-humanoid]
 description: "A people of Aphel without individual persons: each body is an animal of its own, and a person exists among them only in a working, many bodies converging on a task the short bright season holds and acting as one for as long as the work lasts."
-image: "the-convened-card.jpg"
-image_alt: "Designed emblem card on a violet-black ground: the category Species in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title The Convened in pale serif capitals, with the line “A person exists among them only in a working”. A card standing in until the people's picture is made"
+image: "the-convened.jpg"
+image_alt: "A heavy, low, dome-shaped animal with ochre and russet hide in long folds closed over its back, at the mouth of a den dug into dark frosted ground at dusk, resting on two broad clawed forelimbs, with a blank sloping brow at the front and one small dark eye on its flank; behind it a small pale sun sits on the horizon of a frosted plain"
 plain: "The Convened live on Aphel, a world with a long dark winter and a short bright summer. Each Convened body is an animal on its own. When there is work too big for one body to finish before the cold comes back, many bodies come together and act as one person until the work is done. Then the bodies go their own ways, and that person is gone. Because of this, ordinary questions, such as who agreed to something, are hard to answer for them, and the record does not pretend they are easy."
 ---
 
