@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Essaran back on the Hegemony card** (`src/characters/essaran.md`, 2026-11-18, Opus, Dermot's ruling). The portrait filed earlier the same day in #1957 still read as moulded clay, the fault of his 10 November removal; the page returns to `lore/cerebraun-hegemony.jpg` and `characters/essaran.jpg` is deleted.
+
 - **Three of the four owed pictures are filed: the Convened, Ruvel Swardkin and Essaran** (`src/images/lore/the-convened.jpg`, `src/images/characters/ruvel-swardkin.jpg`, `essaran.jpg`, `story-bible/images.md` §§ 85 and 86, `story-bible/image-prompts.md`, 2026-11-18, Fable). The Convened page takes its generated header and the stand-in card is removed. Ruvel Swardkin and Essaran take portraits of their own in place of a borrowed picture; Essaran's is a new frame after the removal of 10 November and waits on Dermot's eye. Essarith's three rounds failed on the head and nothing is filed. Vellire's portrait prompt is written and not run.
 
 - **Every character page carries a picture: the 32 without one borrow a filed image or take a card** (`src/characters/`, `lib/character-image.js`, `src/_includes/character.njk`, `.eleventy.js`, `scripts/validate-content.js`, `src/images/characters/the-kept-line.jpg`, `ariel-pinya.jpg`, `story-bible/images.md` § 82, 2026-11-18, Fable). A character's `image` may now name a folder and borrow a picture of the same subject: a chapter frame, a place, a people's picture or a card. Thirty pages borrow, two take new emblem cards; nothing was generated and no body was designed. A borrowed picture is captioned and is never used as a portrait elsewhere on the site.
