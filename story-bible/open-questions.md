@@ -263,6 +263,33 @@ Notes with no decision in them, for a later read.
 - S01E01C03, seen in passing. Rook-7 *"counted four hundred and six groups"* at *"Fifteen seconds, group to group"*: 406 × 15 = 6,090 seconds, which is 1 hour 41.5 minutes. The chapter gives the party about an hour at the light, from *"an hour and fifty of the falling"* at the door to *"another fifty minutes"* at the end, and an hour holds 240 groups. If it is a slip, it is one of arithmetic, which the canon rule lets be fixed. It is left for a later read and for him.
 - Which way the corrections run stays unnamed (Nuala Beirne's page, *What the Record Does Not Hold*). Nothing in this entry relates the corrections to the forty seconds.
 
+## How peoples observe, understand and keep track of time — raised by Dermot 18 November 2026 — a NOTE, nothing decided, used when a chapter or Codex entry needs it
+
+Dermot, verbatim, after the Sceir Light ruling: *"which other peoples are the best natural timekeepers? Humans tend to invent technology to work around their own natural limitations"*, then, reframing it: *"in what way to other people observe, understand and keep track of time?"* No ranking: the record ranks no people as better at anything. What the published pages already hold, quoted; lines in brackets are readings, not the record.
+
+**What each watches.**
+- Serephine Dunekin (`src/lore/serephine-dunekin.md`): exposure windows; *"They experience it as what time is."*
+- Verdani (`src/lore/verdani.md`): light is their budget, so *"haste costs them metabolically"*.
+- Convened (`src/lore/the-convened.md`): Aphel's long dark and short bright season; *"the close of the season comes back to the day"*; a person exists only in a working the bright season holds. (Time is when a person is.)
+- Ollune (`src/lore/ollune.md`): shoals in adjacent bands pass *"on a fixed cycle, briefly, predictably, and years apart"*.
+- Prismeri (`src/lore/prismeri.md`): the facet band *"reads the sky overhead"*; Full Wings sense fold-corridor geometry directly. (Nearest to the Survey Corps' pulsar ephemeris, `src/lore/timekeeping-and-the-common-record.md`.)
+- Pelagene (`src/lore/pelagene-littoral.md`): ashore, slowly drying; *"a clock nobody else on a station is running"*.
+
+**Pace.**
+- Veyr (`src/lore/veyr-basaltborn.md`): *"entirely willing to wait for a reading to settle"*.
+- Ilveth (`src/lore/ilveth.md`): a slow, cold, dark world; the first survey party was watched *"from horizon distance for three days"*.
+- Krenyi (`src/lore/krenyi.md`): centuries-long lives; their age registers *"within a year"*.
+- Mnemari (`src/lore/mnemari.md`): no natural upper bound on lifespan, and episodic memory not lost to time.
+
+**Record and memory.**
+- Ollune: chemical markers *"persistent enough to be examined days later by someone who was not present"*. (The only other people with a written record that holds still, as the Sceir register does.)
+- Mnemari: memory that does not fade. (A living ledger.)
+- Ovruhn (`src/lore/ovruhn.md`): each knows roughly how every other within reach is, and *"a fact dies with its last keeper"*. (An oral record whose risk is loss, not correction.)
+- The Told (`src/glossary/the-told.md`): their intervals are converted into UCSD and not described.
+- Humans (`src/lore/humans.md`): every date is converted into the human count, *"so old a courtesy"*. (Fits his point: humans build the instrument for the sense they lack.)
+
+**Not in the record.** Any people's own calendar beyond the rule that a reckoning is converted, not replaced; how the Told, Chthonari, Cerebraun or Meridian Sapients experience time; whether any people would read Dock Seven's forty seconds differently from a human. Each is new canon, raised when a chapter needs it. Any of the above that reaches a page goes through the usual checks; none changes the 18 November ruling, since a body's sense of time reads its own position like any instrument (`story-bible/intake-2026-11-18.md`).
+
 ## The day she assumes the post, *On Assumption* (S03E03C02) — the weekly Fable pass of 16 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
 
 The next chapter of Tissadelle's middle under the 18 October ruling (option A), and the second chapter of Episode 3. Late autumn 2829: the post's Chief Ranger, Emeka Lindahl (new), has held it thirty-three days; Shepherd reads the log standing, assumes the post in one line, does not sign *received as stated* under his initial on the state sheet, and takes the Starwarden's middle watch, which he had been standing with his own. Readings settled at Fable and recorded in `intake-2026-11-16.md`: the beat; a Shepherd viewpoint that says nothing of where she came from, so *Received*'s canon fact stands; the slot; the new Chief and his name; the watch's word *the dead Starwarden*. Nothing in it met the bar for him. **Two things left as options, neither blocking:**
