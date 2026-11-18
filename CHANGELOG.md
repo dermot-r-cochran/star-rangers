@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Portraits of Essarith and Emeka Lindahl filed** (`src/characters/essarith.md`, `src/characters/emeka-lindahl.md`, 2026-11-18, Opus, Dermot's picks). Essarith's round 4, both forward eyes, a render under the 23 October Prismeri ruling, replacing the borrowed Ostrander painting; Emeka's portrait from his approved readings with no heritage named, replacing the borrowed chapter frame. Records in `images.md` § 45 and § 87.
+
 - **Portraits of Aoibheann Ní Mheara and Ines Abara filed** (`src/characters/aoibheann-ni-mheara.md`, `src/characters/ines-abara.md`, 2026-11-18, Opus, Dermot's pick). Fresh frames under his 10 November bar, replacing the institution cards both pages had borrowed since his removal of the earlier portraits; rounds in `images.md` § 17 and § 33.
 
 - **Essarith drawn from the front and Emeka Lindahl's portrait run; both wait on Dermot, nothing filed** (`story-bible/images.md` §§ 45 and 87, `story-bible/image-prompts.md`, 2026-11-18, Fable). Essarith's round 4 moved the camera to the front: with the earlier pick attached both forward eyes show and the hands close on the knuckles, on a head that now tapers; from text alone the turtle and an armadillo came back. Emeka Lindahl's readings were approved by Dermot (*Run, no heritage*), the prompt names an appearance and no ancestry, and two takes and one edit gave a pick checked against the filed Ranger portraits. No page and no image changes.
