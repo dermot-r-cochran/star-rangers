@@ -4,6 +4,8 @@ title: "The Setts of Aethelrock"
 category: "Culture"
 tags: [aethelrock, celtic-union, clan-world, culture, cloth, clan-avalon]
 description: "The five landholding clans of Aethelrock each weave their cold-weather cloth in a sett of their own, still worn every day as a matter of choice and custom: the one patterned cloth the record knows on any world."
+image: "characters/niamh-o-ceallaigh.jpg"
+image_alt: "Niamh Ó Ceallaigh on a granite quayside at first light, a woman in her fifties with grey-streaked hair pulled back, in a dark blue deck coat with a high collar and a sea-green tartan scarf, looking out across the water rather than at the viewer. Low grey fishing craft with blended wheelhouses lie moored along the quay, and the flat water of the fjord holds the cliffs upside down."
 plain: "A sett is the repeating pattern of a tartan, the order and width of its coloured threads. On Aethelrock each of the five landholding clans weaves its cold-weather cloth in a sett of its own, worn every day by choice and custom, never as a uniform: nobody is obliged to wear one, and nobody is turned away for wearing another's. The record gives the five colour pairs and does not say what, if anything, they mean. They are the only patterned clan cloth the record knows on any world; an Aethelrock Ranger leaves the sett off on duty and puts the scarf back on after."
 ---
 

@@ -27,7 +27,7 @@ commentsCategory: lore
     </ul>
     {% endif %}
     {% if image %}
-    <img class="entry-image" src="/star-rangers/images/lore/{{ image }}" alt="{{ image_alt | default(title) }}" />
+    <img class="entry-image" src="/star-rangers/images/{{ image | loreImageRel }}" alt="{{ image_alt | default(title) }}" />
     {% endif %}
   </header>
 

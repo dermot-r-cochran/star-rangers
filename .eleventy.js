@@ -1,5 +1,6 @@
 const path = require("path");
 const { platesFor, resolvePlates } = require("./lib/plates");
+const { loreImageRel } = require("./lib/lore-image");
 const { VIDEOS } = require("./lib/videos");
 const { mp4DurationSeconds, isoDuration } = require("./lib/mp4-info");
 const { imageObject, videoObject, jsonLd } = require("./lib/media-structured-data");
@@ -95,6 +96,9 @@ function computeOgImage(data, included) {
   if (!included) return DEFAULT_OG_IMAGE;
   const kind = classifyContentPath(data.page && data.page.inputPath);
   const dir = OG_IMAGE_DIRS[kind];
+  // A lore page may borrow a chapter's, character's or glossary entry's
+  // picture by naming that folder first (lib/lore-image.js).
+  if (kind === "lore" && data.image) return `/images/${loreImageRel(data.image)}`;
   if (dir && data.image) return `/images/${dir}/${data.image}`;
   // A timeline entry (since 2026-11-17) borrows the picture of what it
   // records from wherever that picture is filed, so its `image` carries its
@@ -244,6 +248,7 @@ module.exports = function(eleventyConfig) {
   // No selection, no page: an ignored template is never rendered, which a
   // `permalink: false` page still is (and base.njk cannot read a false url).
   if (!platesFor(getEdition().id).length) eleventyConfig.ignores.add("src/plates/**");
+  eleventyConfig.addFilter("loreImageRel", loreImageRel);
   eleventyConfig.addFilter("editionPlates", (editionId, lore, characters, codex) =>
     resolvePlates(platesFor(editionId), { lore, characters, codex }, (rel) =>
       isPlaceholderImage(path.join(__dirname, "src", "images", rel))

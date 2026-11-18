@@ -4,6 +4,8 @@ title: "The Enrolled Text"
 category: "Institutions"
 tags: [concord, governance, law, records, amendments, enrolled-text, institutions, orbital-habitats-compact]
 description: "How settled space keeps its constitutional law: a founding compact enrolled once and never edited, amendments in difference form laid open for objection and enrolled beside their predecessors, and a current text that is a derivation any reader may re-perform. Authority as re-derivability, not custody."
+image: "glossary/enrolled-text.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Records in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Enrolled Text in pale serif capitals, with the line “Enrolled once and never edited in place”"
 plain: "Settled space keeps its constitution as a text plus its whole history. The Solar System Concord's founding compact was enrolled once, at Tycho in 2543 UCSD, and has never been edited in place. Every change since is an amendment that states only what it strikes and inserts, is laid open for objection, and is then enrolled beside the earlier ones, never over them. Anyone can apply the amendments in order to the founding text and reach the current law, so nobody has to trust whoever holds a master copy. The Imperium enforced the compact for sixty-six years and never rewrote it, because a rewrite would have failed that check everywhere at once."
 ---
 

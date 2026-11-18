@@ -4,6 +4,8 @@ title: "The Meridian Sapients"
 category: "Species"
 tags: [meridian, meridian-sapients, species, reef-cities, cerebraun-hegemony, non-humanoid]
 description: "The sapient people of Meridian's shelf seas: long, low, plated bodies that build reef-cities of secreted mineral, speak by striking claw on shell and by signals let into the water, and were twice mistaken for geology before anyone saw them for who they were."
+image: "characters/sixth-course.jpg"
+image_alt: "Sixth Course on a load-bearing strut of the Long Shelf lattice in dim green water: a long, low, segmented body in dark mineral-grey plates on many short jointed limbs, a smooth armoured hood with a row of small sense-pits, and two blunt forelimb claws laid on the strut."
 plain: "The Meridian sapients are the people of Meridian's shallow shelf seas: long, low, plated bodies with no head and no face, two blunt striking forelimbs the survey called claws, and many short walking limbs beneath. They build reef-cities of secreted mineral, which two Cerebraun Hegemony surveys logged as geology before anyone saw them for who they were. They speak by striking claw on shell and by chemical signals let into the water. The record holds no name for them in their own speech."
 ---
 

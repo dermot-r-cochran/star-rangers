@@ -13257,3 +13257,26 @@ Each `image_alt` describes the card as drawn: category, motif, stamp, title, sub
 - *The Thing That Did Not Fall* — an Ollune's account; `lore/ollune.jpg` is filed.
 - *Wender Funeral Address* and *Shepherd Among the Comparanda* — the entries' subjects have portraits filed (`characters/tissadelle-shepherd.jpg`, `characters/karla-wender.jpg`).
 - *The Cat Who Would Not Say* — a children's story about a cat.
+
+### 83. Lore pages: the last 21 without a picture (18 November 2026, Fable, desktop)
+
+**Why.** Dermot, 15 November 2026: every page now carries an image, *"every page would benefit from an image or video"*, for visual readers. On `origin/main` on 18 November, 21 pages directly in `src/lore/` had no `image:`. The order of preference was the standing one: borrow a filed picture of the same subject; then one of his own photographs; then generate what no camera can take; then an emblem card or a diagram; bare only as the stated last resort.
+
+**The engine.** A lore page's `image:` was always the path below `src/images/lore/`, so a lore page could borrow only another lore page's picture. Since this section a lore `image:` that begins with another image folder's name (`chapters/`, `characters/`, `glossary/`, `journal/`, `codex/`, `hero/`) is taken from that folder: one file, one more reference, never a copy (`lib/lore-image.js`, used by `lore-entry.njk`, `.eleventy.js`, `validate-content.js` and `lib/plates.js`; `test/lore-image.test.js` holds that no folder inside `images/lore/` shares one of those names). Every other value reads as before.
+
+**Borrowed, ten pages** (each `image_alt` is the filed alt of the page that already carries the picture):
+
+| Page | Image | Why this one |
+|---|---|---|
+| Dún Rí | `chapters/s01e00c01.jpg` | the garden gate at the bottom of the house's own garden, gravel and a late rose: the page's *known from the inside of its walls* |
+| Halyx Relay Station | `chapters/s03e01c01.jpg` | the liaison archive aboard, where file four hundred and twelve was reheard, Meridian's crescent in the port. An interior only: the station has no sheet in `starship-design.md`, so its outside is not drawn |
+| The Meridian Sapients | `characters/sixth-course.jpg` | one of the two of the people the record names, on the Long Shelf lattice |
+| The Seat | `chapters/s13e01c01.jpg` | Krilzat, the watch-post the seat belongs to; nobody in frame |
+| The Setts of Aethelrock | `characters/niamh-o-ceallaigh.jpg` | the page's own sentence, *the scarf at a clan head's throat on a quayside at first light*: the Ó Ceallaigh sett, sea green and grey |
+| Commissioned Standing | `characters/xenon.jpg` | the old unit the page names as still in service, at its bench |
+| Habitats and the Worlds Beneath Them | `greenward-habitat.jpg` | a ring above a world, *nothing joining it to the ground* |
+| The Habitat Threshold | `new-london-space-habitat.jpg` | a settlement the page names as above the line, its ground curving upward |
+| The Enrolled Text | `glossary/enrolled-text.jpg` | the glossary entry's card for the same thing, its line verbatim from both pages |
+| Climate Repair and the Origin of Terraforming | `journal/the-same-discipline-at-a-different-desk.jpg` | his own *Groynes at Skagen* (2026), filed for the Journal under § 54: a coast held in shape by engineering, which is the page's *rebuilding coasts*. The alt says it is his photograph, standing in |
+
+Second candidates weighed: Dún Rí against *Below the Bells* (`s01e00c00.jpg`), which shows the abbey below and not the house; Lúnasa against the Dock Seven frame (`s01e01c01.jpg`), whose clock is the one above the pressure seal, Threshold's own, and not the repeater of Lúnasa's standard; Meridian's people against the planet's disc card, which shows no person.
