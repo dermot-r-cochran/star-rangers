@@ -4919,6 +4919,18 @@ Two cards for `story-bible/images.md` § 82, drawn by `scripts/make-emblem-card.
 .\scripts\make-emblem-card.ps1 -Page src\characters\ariel-pinya.md -Device figure -Tint '#221C14' -Accent '#D2BC8E' -Epithet 'The Called In stories'
 ```
 
+## 2026-11-18 — Vellire on Adobe Firefly, two rounds, not filed (Opus, desktop)
+
+Tool: Adobe Firefly in Dermot's Chrome, model **Firefly Image 5**, Widescreen 16:9, 1K, no reference image, one frame per round. Both failed under `image-critic` at the first rung; verdicts in `images.md` § 86. Nothing was downloaded or filed.
+
+**Round 1, as run** (the § 86 short form cut to the 1,024-character cap):
+
+> Documentary photograph from a craft in a gas giant's cloud layer, natural colour, real haze and grain. Close alongside, cut off by the right edge of the frame, drifts one living being with no face, eyes, head or limbs: a broad, low, lopsided gas envelope six metres across, one inflated living skin, its top matte finely furred russet-brown with a few paler ochre patches, thinning at a fat rounded rim into translucent amber membrane with branching veins. Under the rim a ring of soft translucent ribbed vanes; from the underside a dozen fine straight tendrils. The body leans toward the left edge, the vanes on that side spread toward it and all tendrils slant left together, attending to something out of frame. Camera level with the rim. Low sun behind the camera lights the top. Curling cloud billows close beneath, pale cloud deck above, nothing solid. Not a jellyfish, bell, mushroom, saucer or balloon; no curled tentacles, no inner glow, no render, no text.
+
+**Round 2, as run:**
+
+> Wildlife photograph taken in open air high in a gas giant's warm hazy cloud layer, no window, no frame edge, natural colour, grain. A living creature fills the right half of the frame, cut off by the right edge: a huge soft lopsided air-filled body like a giant deflating cushion or lung, thick, swollen and creased, wider than tall, with no face, head or limbs. Its whole top is matte furred russet-brown hide with paler ochre patches; at the fat rounded rounded edge the hide thins to translucent amber skin with veins. Small soft pale fans of membrane sit flat along the edge. A few fine straight threads hang beneath and all slant sideways to the left together, as if the creature is leaning toward and attending to something just off the left edge. Seen side-on from level with its edge, lit from the front by a low sun. Big curling cloud billows below. Not a jellyfish, not a dome, not a mushroom, not a saucer, not a balloon, no window, no render, no text.
+
 ## 2026-11-18 — The owed pictures: the Convened, Essarith, Ruvel Swardkin, Essaran (Fable, desktop)
 
 The record is in `story-bible/images.md` § 85. **Tool** throughout: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K. First rounds through `scripts/image-prompts.js --generate --only <key> --variations 2`, which sends the prompt of record in `images.md` and the entry's reference; every later round through `scripts/image-edit.js`, two takes. Filed by `import-image.ps1` at finish strength 1 (`-MaxEdge 1600` for the lore header, `-MaxEdge 1200` for the portraits). Nineteen images were made; one request (Essarith's round 2, take 1) was refused by the provider's filter with no reason given. None is on a plate of his.

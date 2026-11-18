@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Vellire's portrait tried on Adobe Firefly, not filed** (`story-bible/images.md` § 86, `story-bible/image-prompts.md`, 2026-11-18, Opus). Two text-only rounds on Firefly Image 5 came back as a jellyfish or saucer and then a clam shell; the next step is the full prompt on Gemini.
+
 - **Essaran back on the Hegemony card** (`src/characters/essaran.md`, 2026-11-18, Opus, Dermot's ruling). The portrait filed earlier the same day in #1957 still read as moulded clay, the fault of his 10 November removal; the page returns to `lore/cerebraun-hegemony.jpg` and `characters/essaran.jpg` is deleted.
 
 - **Three of the four owed pictures are filed: the Convened, Ruvel Swardkin and Essaran** (`src/images/lore/the-convened.jpg`, `src/images/characters/ruvel-swardkin.jpg`, `essaran.jpg`, `story-bible/images.md` §§ 85 and 86, `story-bible/image-prompts.md`, 2026-11-18, Fable). The Convened page takes its generated header and the stand-in card is removed. Ruvel Swardkin and Essaran take portraits of their own in place of a borrowed picture; Essaran's is a new frame after the removal of 10 November and waits on Dermot's eye. Essarith's three rounds failed on the head and nothing is filed. Vellire's portrait prompt is written and not run.
