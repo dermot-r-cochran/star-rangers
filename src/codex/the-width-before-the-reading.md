@@ -7,6 +7,8 @@ description: "An Institute paper by Ilsabet Corren testing the strongest objecti
 author: "Ilsabet Corren, Fellow in Comparative Records, the Institute"
 institution: "The Institute"
 location: "Institute Papers, comparative records fellowship, no. 9417; circulated open, as all Institute papers are, 2827 UCSD"
+image: "the-width-before-the-reading.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title The Width Before the Reading above the line The Institute and the name Ilsabet Corren."
 ---
 
 *A note on what this document is. It is an Institute paper, and like every Institute paper it declines to use the [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/). It tests one practice of the record, not the record's cosmology. Its finding is narrower than its title, and its null results are printed at the same length as the finding.*

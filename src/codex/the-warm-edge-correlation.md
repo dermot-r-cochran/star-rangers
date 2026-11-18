@@ -8,6 +8,8 @@ institution: "Celtic Union devotional chaplaincy (Aoife's devotion), serving Thr
 description: "A joint working paper by a Ridgemoot chaplain and the Survey Archive's reconciliation desk: the Dock Seven warm-edge signature matches the instrument anomaly in Brother Daire's fourteen-century-old account of Saint Aoife's thorn well. The correlation is real, the identification is not, and both authors refuse to close the file."
 location: "Circulated as an unnumbered working paper; a copy is held in the Survey Archive reconciliation binders alongside the Dock Seven incident file"
 tags: [saint-aoife, levril, dock-seven, threshold-station, noogenic, protouniverse, boundary, celtic-union, culture, working-paper]
+image: "the-warm-edge-correlation.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title The Warm-Edge Correlation above the line Threshold Station Survey Archive and the line Chaplain Bréanainn Ó Sé and the Reconciliation Desk."
 ---
 
 *A note on what this document is. It is not lore. It is not the Archive's settled voice, and it is not any devotional authority's doctrine. It is a working paper by two people who noticed the same warmth in two records fourteen centuries apart and refused to pretend they hadn't. Everything settled and hard here is cited to lore that stands on its own; everything contested is marked as contested, and stays that way. Read it as an account, filed under the name of the people accountable for it — which is the only honest place to file an argument that its own authors cannot close.*

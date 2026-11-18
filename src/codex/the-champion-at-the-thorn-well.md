@@ -8,6 +8,8 @@ institution: "Fellowship of Light — the contemplative chapter at the river abb
 location: "The abbey's own book, read aloud on the eve of Aoife's feast. A copy is shelved in the Ceridwen Archive on Aethelrock beside The Life of Saint Aoife and the reader-school Legend, and another sits in the Fellowship's comparative archive among the Arilon comparanda."
 tags: [saint-aoife, brother-daire, fellowship-of-light, arilon, celtic-union, hagiography, levril, champions, culture, devotional-traditions]
 description: "The river abbey's own legend of Saint Aoife, read on the eve of her feast: how a girl sold for the price of three cows came to the thorn well, was chosen by what she met there, said what the townland's authorities would not, and was taken into a Fellowship that kept itself hidden — with the keeper's margin marking, in the Fellowship's own discipline, where the telling outruns the Life."
+image: "the-champion-at-the-thorn-well.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Hagiography, ruled lines, and the title The Champion at the Thorn Well above the line The river abbey on the Boyne, near Dún Rí and the line Traditional."
 ---
 
 **READ ON THE EVE OF THE FEAST**

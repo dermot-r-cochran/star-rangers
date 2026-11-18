@@ -7,6 +7,8 @@ tags: [quern, settlement, rain-watch, turning-stones, oral-record, cultural-reco
 description: "The address a Quernish line-keeper gives a watcher standing a first rain-watch, taken down at the speaker's own dictation under the transcription arrangement — how to read the stones, what may be spoken of and where, and the settlement's standing answer to the question every survey pass asks."
 author: "Odal Ferren, line-keeper, Quern"
 location: "Survey Archive, Threshold Station — Quern transcription series; taken down at the speaker's dictation and checked against the settlement's own copy"
+image: "what-the-stones-say.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, and the title What the Stones Say above the line Survey Archive, Threshold Station and the name Odal Ferren, line-keeper, Quern."
 ---
 
 *Taken down under the standing transcription arrangement with the [Quern](/star-rangers/lore/planets/quern/) settlement, at the speaker's dictation. These are the words a line-keeper gives a watcher standing a first rain-watch; the settlement's copy is the authoritative one, and this transcript was checked against it. The Archive's account of the world is in the record. This is not that. This is what the watch is told.*

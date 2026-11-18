@@ -8,6 +8,8 @@ institution: "Star Rangers Survey Archive, Threshold Station; intended for the F
 description: "A comparative-archive submission cross-referencing Line Captain T. Shepherd against the Arilon file. The match is established on all five elements of the pattern, at length. It was never sent, and the second half of the document is the archivist explaining, in three voices, why not."
 location: "Retained at the preparing desk, Survey Archive reconciliation binders, Threshold Station. Not entered in any index. Not destroyed."
 tags: [sen, arilon, fellowship-of-light, tissadelle, dock-seven, threshold-station, comparative-archive, survey-archive, marginalia, comparative-study]
+image: "shepherd-among-the-comparanda.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Comparative Study, ruled lines, a stamp reading Withdrawn, and the title Shepherd Among the Comparanda above the line Star Rangers Survey Archive, Threshold Station and the name Sen, Senior Archivist."
 ---
 
 **COMPARATIVE-ARCHIVE NOTE — CROSS-CHAPTER SERIES**

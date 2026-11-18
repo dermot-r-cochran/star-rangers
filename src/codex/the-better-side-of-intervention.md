@@ -8,6 +8,8 @@ institution: "Survey Archive — Doctrinal Division (correspondence, filed unend
 location: "Survey Archive, Threshold Station — correspondence annex to the doctrinal working-paper series; received 2823 UCSD"
 tags: [cosmology, kieme, evil, unfounded, cosmic-debt, archive-doctrine, devotional-traditions]
 description: "An unattributed devotional response to Kade's working paper on the Cosmic Limitation on Evil, arguing that Kieme's restraint is eternal discretion rather than structural constant — and that from inside time, no method could tell the difference."
+image: "the-better-side-of-intervention.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Doctrinal Record, a faint ring fading round its circumference, a stamp reading Filed Unendorsed, and the title The Better Side of Intervention above the line Survey Archive · Doctrinal Division and the line Unattributed."
 ---
 
 **CORRESPONDENCE — FILED UNENDORSED**

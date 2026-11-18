@@ -8,6 +8,8 @@ description: "A Survey Archive working paper in which Senior Archivist Sen keeps
 author: "Sen, Senior Archivist"
 institution: "Survey Archive"
 location: "Survey Archive, Threshold Station — archivist's working-paper series; a living list, appended, never overwritten"
+image: "marked-absences.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Marked Absences above the line Survey Archive and the name Sen, Senior Archivist."
 ---
 
 *Circulated for comment, not for citation. A living list: entries are appended as gaps surface and annotated as they close. Nothing here is ever deleted, including the closed ones — a record of what we once did not know is still a record.*

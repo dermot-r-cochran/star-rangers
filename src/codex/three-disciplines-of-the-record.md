@@ -8,6 +8,8 @@ description: "A Survey Archive working paper in which Senior Archivist Sen argue
 author: "Sen, Senior Archivist"
 institution: "Survey Archive"
 location: "Survey Archive, Threshold Station — archivist's working-paper series; circulated for comment, not for citation"
+image: "three-disciplines-of-the-record.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Three Disciplines of the Record above the line Survey Archive and the name Sen, Senior Archivist."
 ---
 
 *Circulated for comment, not for citation. The Archive's working-paper series exists so an argument can be wrong in front of colleagues before it is wrong in front of history.*
