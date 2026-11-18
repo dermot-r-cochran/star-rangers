@@ -4919,6 +4919,21 @@ Two cards for `story-bible/images.md` § 82, drawn by `scripts/make-emblem-card.
 .\scripts\make-emblem-card.ps1 -Page src\characters\ariel-pinya.md -Device figure -Tint '#221C14' -Accent '#D2BC8E' -Epithet 'The Called In stories'
 ```
 
+## 2026-11-18 — Vellire on Gemini, filed (Opus, desktop)
+
+### characters/vellire.jpg — filed 18 November 2026
+
+- **Type:** reference-led generation (body reference only).
+- **Tool:** Gemini `gemini-3.1-flash-image`, 2K, 16:9, via `node scripts/image-edit.js --prompt <file> --out image-out/vellire-r2 --n 2 src/images/characters/ilyare.jpg`; take 2 of two. An earlier text-only round through `image-prompts.js --only vellire` (the `images.md` § 86 prompt) failed on both takes.
+- **Finish:** `import-image.ps1 -MaxEdge 1200`, strength 1.
+- **Prompt of record:**
+
+> The attached photograph shows Ilyare, an Ollune: a sapient people who live their whole lives afloat in the cloud layer of a gas giant. Use it ONLY for the body: the same irregular, lopsided, soft gas envelope with no straight lines, the weathered furred russet upper skin, the translucent amber membrane with branching veins toward a fat rolled rim, the long soft translucent ribbed filter-vanes hanging from just under the rim, uneven in size, and the fine straight thread-thin tendrils from the centre of the underside. Do NOT copy its distance, its back-lighting, its whole outline or its plumb tendrils.
+>
+> Make a new documentary photograph of a different Ollune, Vellire, taken by a 29th-century camera mounted on the flank of a craft holding station beside it, 16:9 landscape, available light, real lens, haze and high-ISO grain, muted natural colour. Vellire is close, about fifteen metres away, and larger than the frame: the near two-thirds of the body fills the picture from the centre to the right edge and its far side runs out of frame on the right, so the whole outline is never seen. The camera is level with the rim, never below it. Vellire's body is a little smaller and more lopsided than Ilyare's, its furred russet top broken by a few large, irregular, paler ochre patches. The low sun is behind the camera and to one side, lighting the furred top directly so its colour and texture show; only the thin rim glows. The body leans down a little toward the left edge of the frame; the vanes on that left side are spread and turned toward the left, the far ones half-folded; and all the tendrils slant together toward the left at slightly different angles, as if the being is attending to something just out of frame on the left. Nothing is turned toward the camera. Large curling cloud billows close beneath, a pale hazy cloud deck above, no ground, no craft, no window frame, no other creature.
+>
+> Not a jellyfish, not a symmetrical dome, not a saucer, not a mushroom, not a pie, no scallop shells, no shell-shaped fans, no curled tentacles, no glow from inside, not a 3D render, not CGI, not smooth plastic. No text, letters or numbers.
+
 ## 2026-11-18 — Vellire on Adobe Firefly, two rounds, not filed (Opus, desktop)
 
 Tool: Adobe Firefly in Dermot's Chrome, model **Firefly Image 5**, Widescreen 16:9, 1K, no reference image, one frame per round. Both failed under `image-critic` at the first rung; verdicts in `images.md` § 86. Nothing was downloaded or filed.

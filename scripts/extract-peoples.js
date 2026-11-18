@@ -165,7 +165,9 @@ const PEOPLES = [
     id: "ollune", name: "Ollune (the Held)", page: "src/lore/ollune.md", places: "ollune", species: ["Ollune"],
     frame: null, design: null,
     pageBody: ["src/lore/ollune.md", "Lift is not a property an Ollune has. It is a bill an Ollune pays."],
-    portraits: {},
+    portraits: {
+      vellire: { note: "Filed 18 November 2026 at Dermot's word: Gemini with Ilyare's portrait as a body reference, round 2 take 2, after two Firefly rounds and one text-only Gemini round failed." },
+    },
   },
   {
     id: "ovruhn", name: "Ovruhn (Deep-Sung)", page: "src/lore/ovruhn.md", places: "ovruhn", species: ["Ovruhn"],

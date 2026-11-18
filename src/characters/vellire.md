@@ -7,9 +7,8 @@ role: "Marker of the passing for a shoal of Freyari, Cirrane — the one whose n
 aliases: []
 tags: [ollune, cirrane, freyari, vantine-system, federation-of-sentient-beings, star-rangers, near-word, far-word, author, non-humanoid, civilian, histories-in-their-own-voices]
 description: "An Ollune of Freyari who marks the passing for a shoal the record lists by depth, bearing and phase, and who, asked by the Survey Archive for the history of the held, cried it in the far word at a courier hull's flank and then marked that it was theirs — the author of the fourteenth history of a non-human people the record holds in that people's own voice, and the second Ollune the record names."
-image: "lore/ollune.jpg"
-image_alt: "Several translucent rounded gas bladders, veined and lit from behind, drifting at different distances in hazy amber light above layered cloud decks, each with a short fringe of fine tendrils hanging beneath"
-image_caption: "Ollune adrift above the cloud decks; the people's picture, not a likeness of Vellire"
+image: "vellire.jpg"
+image_alt: "Vellire, an Ollune, seen close and in part above the cloud: the near side of a broad, low, lopsided gas envelope, its upper face a weathered furred russet hide with paler ochre patches, curving at a fat rolled rim to translucent amber membrane with branching veins; long pale ribbed filter-vanes hang from under the rim, those on the left spread toward the left of the frame, and fine straight tendrils slant the same way, above large curling cloud billows in pale haze"
 known_codex: [the-thing-that-did-not-fall]
 ---
 
