@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Three points from the critic read of #1890–#1905 settled** (`src/seasons/s03/e03/s03e03c02.md`, `story-bible/images.md`, 2026-11-18, Opus, Dermot's *"As recommended"*). *On Assumption* italicises *the dead Starwarden* where the watch's name for an officer who has gone up is introduced, so it reads as the watch's term and not a death. `images.md` records Wender's jacket as graphite, and Arashobal's ring-shaped tab and Osune's missing membrane and grooves as passed and named.
+
 - **Portraits of Essarith and Emeka Lindahl filed** (`src/characters/essarith.md`, `src/characters/emeka-lindahl.md`, 2026-11-18, Opus, Dermot's picks). Essarith's round 4, both forward eyes, a render under the 23 October Prismeri ruling, replacing the borrowed Ostrander painting; Emeka's portrait from his approved readings with no heritage named, replacing the borrowed chapter frame. Records in `images.md` § 45 and § 87.
 
 - **Portraits of Aoibheann Ní Mheara and Ines Abara filed** (`src/characters/aoibheann-ni-mheara.md`, `src/characters/ines-abara.md`, 2026-11-18, Opus, Dermot's pick). Fresh frames under his 10 November bar, replacing the institution cards both pages had borrowed since his removal of the earlier portraits; rounds in `images.md` § 17 and § 33.
