@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Vellire's portrait filed** (`src/characters/vellire.md`, `src/images/characters/vellire.jpg`, 2026-11-18, Opus, Dermot's pick). Gemini with Ilyare's portrait as a body reference, after two Firefly rounds and a text-only Gemini round came back as a jellyfish, a saucer or a clam shell. The page no longer borrows the people's picture.
+
 - **Vellire's portrait tried on Adobe Firefly, not filed** (`story-bible/images.md` § 86, `story-bible/image-prompts.md`, 2026-11-18, Opus). Two text-only rounds on Firefly Image 5 came back as a jellyfish or saucer and then a clam shell; the next step is the full prompt on Gemini.
 
 - **Essaran back on the Hegemony card** (`src/characters/essaran.md`, 2026-11-18, Opus, Dermot's ruling). The portrait filed earlier the same day in #1957 still read as moulded clay, the fault of his 10 November removal; the page returns to `lore/cerebraun-hegemony.jpg` and `characters/essaran.jpg` is deleted.
