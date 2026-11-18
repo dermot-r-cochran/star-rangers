@@ -4,6 +4,8 @@ title: "Kieme's Visible Hand"
 category: "Cosmology"
 tags: [cosmology, kieme, evil, suffering, church-space]
 description: "The church-space telling of the Cosmic Limitation on Evil — where the Archive insists Kieme's ledger can only be inferred, devotional tradition shows the hand doing the keeping."
+image: "kieme-visible-hand.jpg"
+image_alt: "Designed emblem card on a violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Kieme's Visible Hand in pale serif capitals, with the line “The church-space telling of the Cosmic Limitation on Evil”"
 plain: "Kieme's Visible Hand is the church-space telling of the Cosmic Limitation on Evil. The Limitation is not disputed: what exists to serve evil dissolves once it serves no higher purpose, and Kieme alone repays the suffering. The Archive holds that nobody ever sees Kieme do this; it infers the act from what evil leaves behind. The devotional tradition says the keeping is sometimes witnessed, as harm that stops just short, and points to Dock Seven in 2831, where an enforcement action fell on an unlawful process and touched no one outside it. This telling claims only that the harm stopped short."
 ---
 

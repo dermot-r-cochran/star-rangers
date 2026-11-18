@@ -13280,3 +13280,33 @@ Each `image_alt` describes the card as drawn: category, motif, stamp, title, sub
 | Climate Repair and the Origin of Terraforming | `journal/the-same-discipline-at-a-different-desk.jpg` | his own *Groynes at Skagen* (2026), filed for the Journal under § 54: a coast held in shape by engineering, which is the page's *rebuilding coasts*. The alt says it is his photograph, standing in |
 
 Second candidates weighed: Dún Rí against *Below the Bells* (`s01e00c00.jpg`), which shows the abbey below and not the house; Lúnasa against the Dock Seven frame (`s01e01c01.jpg`), whose clock is the one above the pressure seal, Threshold's own, and not the repeater of Lúnasa's standard; Meridian's people against the planet's disc card, which shows no person.
+
+**One of his own photographs, new to the repository, one page.** *The Shape of a Life* takes `lore/the-shape-of-a-life.jpg`: his *Blackberries Ripening* (Bohernabreena, 2026, published on the portfolio), the portfolio's 1600 px file through `import-image.ps1 -MaxEdge 1600 -Finish 0`, uncropped. Bramble fruit at three stages on one stem is the one arc of a life Earth knows, which is the page's point: one shape of a life, not the shape of life. The alt is the portfolio's alt and says the frame is his and stands in. Under the Conventions a photograph of his needs no `image-prompts.md` entry; this paragraph is its record.
+
+**New emblem cards, nine pages** (`scripts/make-emblem-card.ps1`; palettes by category as in § 81, Locations taking the slate of Institutions; each line checked by script to be in the page word for word, emphasis marks and capital aside; the commands are in `image-prompts.md` under 18 November 2026):
+
+| Page | File | Device | Line |
+|---|---|---|---|
+| Frontier Transformation Protocols | `lore/frontier-transformation-protocols.jpg` | shield | *Whether, how much, and how fast* |
+| Qualifications, Distinctions and Guild Awards | `lore/guild-distinctions.jpg` | shield | *Distinctions are not rank* |
+| Habitable, for Whom | `lore/habitable-for-whom.jpg` | sphere | *Habitability is a relation, not a property* |
+| Kieme's Visible Hand | `lore/kieme-visible-hand.jpg` | rings | *The church-space telling of the Cosmic Limitation on Evil* |
+| Lúnasa | `lore/lunasa.jpg` | sundial | *The standard Threshold is set against* |
+| Mathematics and Its Notations | `lore/mathematics-and-its-notations.jpg` | triad | *The theorem and the hand* |
+| Performers and Generated Work | `lore/performers-and-generated-work.jpg` | figure | *The original is the performance* |
+| The Ladder in Other Tongues | `lore/the-ladder-in-other-tongues.jpg` | chevron | *A rendering is a courtesy* |
+| The Convened | `lore/the-convened-card.jpg` | rings | *A person exists among them only in a working* |
+
+Why a card and not a picture, where it is not obvious: **Lúnasa**'s page says its shape, size, orbit and crew are not on file, and no sheet in `starship-design.md` covers it, so a picture of the station would be a design nobody has ruled; the card is what the page can carry until one is. **Performers and Generated Work** describes people at work, which a camera can photograph, so a generator may not make it, and none of his frames shows a performed scene without a recognisable person or our century's machinery. **The Ladder in Other Tongues** and the guild page are about words and marks, and the uniform's own cards already serve the pages that define the ladder and the tab.
+
+**The Convened: the generated header is still owed.** § 50's prompt was run on 18 November (`node scripts/image-prompts.js --generate --only the-convened --variations 4`) and the provider refused the request before making anything: *"Your prepayment credits are depleted"* (402). That is one attempt that produced no frame, not a failed roll, so the page is **pending, not bare**. The card is filed as `the-convened-card.jpg` on purpose: `image-prompts.js` counts an entry as done when its target file exists, and `the-convened.jpg` must stay absent so § 50 stays in the queue. When the frame is filed, the page's `image:` moves to it and the card is removed.
+
+**New diagram, one page.** *The Mathematics of the Etheric Layer* carries an inline-SVG figure under the 29 September convention, in *What Persistence Means*: a pattern level while its trigger drives it, then two lines parting at *trigger removed*, the kernel alone gone on the kernel's schedule and the template-admitted pattern carried away far more slowly. It is drawn from the page's own sentences and carries no scale, since the page says no constant has been measured; the figure says so on its face. It has no hero `image:`; the diagram is the picture, as on *Compact Dimensions*. Read back in the browser in forced colours only, since this desktop runs Windows high contrast and the pane cannot leave it; the figure uses only the classes the *Compact Dimensions* figure uses, which was read on the dark and light palettes on 17 November.
+
+**Counts** (21 pages): borrowed 10 (one of them his own photograph, already filed for the Journal); his own photograph newly imported 1; generated 0; new emblem cards 9 (one of them standing in for a generated header that is owed); new diagram 1; bare 0.
+
+**For his eye, not done.**
+- *Halyx Relay Station* and *Lúnasa*: an exterior of either waits on a sheet in `starship-design.md`, and the record gives neither station a shape.
+- *The Convened*: § 50's header, once the provider's credit is restored.
+- *The Setts of Aethelrock*: the five colour pairs could be drawn as five swatches, but a drawn tartan would state thread order and widths the record does not give. The page takes the one sett a filed portrait shows.
+- *Dún Rí*: the house from outside is not on record (*almost nothing of it from outside*), so only the garden gate is shown.

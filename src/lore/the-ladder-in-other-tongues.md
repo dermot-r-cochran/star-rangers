@@ -4,6 +4,8 @@ title: "The Ladder in Other Tongues"
 category: "Institutions"
 tags: [star-rangers, rank, command-hierarchy, translation, language, celtic-union, irish, krenyi, ilveth, ovruhn, chthonari, cerebraun, ollune, institutions]
 description: "How the Star Rangers' rank ladder is rendered in Irish by the Celtic Union's own translators, and in translation by six peoples whose languages the record describes — why no two renderings agree, what each one notices about the ladder that the filed styles do not say, and why the rank tab exists so that they never have to agree."
+image: "the-ladder-in-other-tongues.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Institutions in spaced capitals at the top, three stacked chevrons in a soft glow at the centre, and below a short rule the title The Ladder in Other Tongues in pale serif capitals, with the line “A rendering is a courtesy”"
 plain: "The Star Rangers' rank ladder has one filed style, and the peoples the Corps serves among render it into their own languages, where a rendering is on file. In any disagreement, the rank tab is right. The Celtic Union's Irish rendering calls the corps na Maoir Réalta, wardens of the stars. Six other peoples — Krenyi, Ilveth, Ovruhn, Chthonari, Cerebraun and Ollune — each name the ranks by what they think a rank is: what the officer does, who spends heat on whom, where a load comes down. No two agree, and each shows something true about the ladder. The tab exists so that they never have to."
 ---
 

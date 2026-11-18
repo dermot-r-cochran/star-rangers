@@ -4,6 +4,8 @@ title: "Qualifications, Distinctions and Guild Awards"
 category: "Institutions"
 tags: [star-rangers, guild, distinctions, certification, licentiate, associate, fellow, uniform, insignia, academy, institutions]
 description: "What a Star Ranger's guild can say about her that rank cannot: the certification that lets her do the work, the three graded distinctions her guild's peers award for a body of work, the guild's own medals, and how each is worn so that none of it can be mistaken for rank."
+image: "guild-distinctions.jpg"
+image_alt: "Designed emblem card on a dark slate ground: the category Institutions in spaced capitals at the top, a plain shield outline in a soft glow at the centre, and below a short rule the title Qualifications, Distinctions and Guild Awards in pale serif capitals, with the line “Distinctions are not rank”"
 plain: "A Star Ranger's guild can say things about her that rank cannot. Rank says what she may command; her guild judges her work, in four kinds: a certification that licenses the work, three graded distinctions (Licentiate, Associate, Fellow) awarded by her peers for a body of work, a few named medals for single contributions, and Academy grades, recorded but never worn. None is rank and none confers it. On the uniform the grade shows only in how deeply the branch's figure is worked into a small plate, so there is nothing to count."
 ---
 

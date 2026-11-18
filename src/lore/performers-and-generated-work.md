@@ -4,6 +4,8 @@ title: "Performers and Generated Work"
 category: "Culture"
 tags: [culture, performance, ai, generated-work, videocast, role-playing, simulation, virtual-reality, cei, practices]
 description: "Why actors, models and musicians were not replaced by the machines that can imitate them: the performed scene is where the novelty is and where the provenance stops, generated fiction, videocasts and interactive role-playing works are extensions of it, simulation training is acted before it is run, and the assistant that lives in every wall is trained to say nothing until it is needed."
+image: "performers-and-generated-work.jpg"
+image_alt: "Designed emblem card on a warm brown-black ground: the category Culture in spaced capitals at the top, the outline of a figure, an oval over an arch, in a soft glow at the centre, and below a short rule the title Performers and Generated Work in pale serif capitals, with the line “The original is the performance”"
 plain: "In the twenty-ninth century, machines can make stories, shows and games. But they do not make them out of nothing. Actors, models and musicians act out scenes first, and the machines build on those. The people who acted are always named. There are no holograms, because light cannot float in empty air. Virtual-reality headsets exist, but wearing one is tiring and makes people feel unwell, so they are used only for short jobs where nothing else works. And the helpful voices in the walls are trained to stay quiet unless they are needed."
 ---
 ---
