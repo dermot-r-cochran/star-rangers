@@ -4,6 +4,8 @@ title: "Mathematics and Its Notations"
 category: "Cosmology"
 tags: [mathematics, notation, metawright, cascade, convergence, language, cosmology]
 description: "Mathematics is settled once, by a Metawright, and found many times, by peoples who each write it down in their own hand. The record keeps the two apart: the theorem is regime-wide and discovered, the notation is a people's own and made, and a proof survives a change of notation where no notation survives a change of people."
+image: "mathematics-and-its-notations.jpg"
+image_alt: "Designed emblem card on a violet-navy ground: the category Cosmology in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Mathematics and Its Notations in pale serif capitals, with the line “The theorem and the hand”"
 plain: "Nobody in this world invented arithmetic. A designer far above the universes settled what is true in mathematics, and every people who counts finds the same truths. What each people did invent is the way of writing them down: marks, sounds, vibrations in rock. Two peoples can write the same theorem in ways neither could read, and it is still the same theorem."
 ---
 

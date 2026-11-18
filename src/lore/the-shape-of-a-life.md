@@ -4,6 +4,8 @@ title: "The Shape of a Life"
 category: "Cosmology"
 tags: [species, life-cycle, gender, personhood, reproduction, cross-biosphere, survey-corps, doctrine, non-humanoid]
 description: "Birth, growth, adulthood, decline and death is one shape of a life, not the shape of life — and sexual reproduction, natural selection, and the individual person are likewise local facts the record declines to promote into laws."
+image: "the-shape-of-a-life.jpg"
+image_alt: "A cluster of bramble fruit at three stages on one stem, five berries fully ripe and glossy black with the dried styles still standing up from them, others still red and hard, set against green bramble leaves and a softly blurred bank; one of Dermot's own photographs, standing in for the one arc of a life that Earth knows"
 plain: "Humans are born, grow up, grow old and die, and human life developed through evolution and sexual reproduction. Not all other peoples work this way. Some never grow old. Some have more than one adulthood. Some came to be by other routes entirely. Some do not divide themselves into individual people the way humans do. Other peoples may have gender, but nothing says they must, and it does not have to work like ours. The record describes each people in that people's own shape."
 ---
 

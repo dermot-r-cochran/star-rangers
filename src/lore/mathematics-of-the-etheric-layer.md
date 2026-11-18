@@ -27,6 +27,30 @@ The record uses the word *admissibility window* for the same thing seen from the
 
 The one observable the Five Layers give Layer 3 is **persistence after the local trigger is removed**, and the mathematics of that is older than any physics. Take a pattern a system is showing. Remove whatever was driving it. Under the kernel's own dynamics the pattern should then decay at a rate the kernel predicts, and in a quiet region it does. Where a template admits the pattern, it does not decay on that schedule. The configuration is one the dynamics do not carry away from itself, or carry away far more slowly than they should.
 
+<figure class="lore-diagram">
+<svg viewBox="0 0 640 300" role="img" aria-labelledby="etheric-persistence-title etheric-persistence-desc">
+<title id="etheric-persistence-title">Persistence after the local trigger is removed</title>
+<desc id="etheric-persistence-desc">A schematic graph with time running left to right and how much of a pattern remains running upward. Both lines are level while the trigger drives the pattern. At the moment the trigger is removed they part: under the kernel alone the pattern decays on the kernel's schedule and is soon gone, and where a template admits the pattern it is carried away far more slowly and outlasts the kernel's schedule. No scale is drawn on either axis.</desc>
+<text x="320" y="22" text-anchor="middle">Persistence after the local trigger is removed</text>
+<line x1="70" y1="50" x2="70" y2="240" class="line-0"/>
+<line x1="70" y1="240" x2="600" y2="240" class="line-0"/>
+<text x="600" y="260" text-anchor="end" class="sm mute">time</text>
+<text x="62" y="56" text-anchor="end" class="sm mute">how</text>
+<text x="62" y="70" text-anchor="end" class="sm mute">much</text>
+<text x="62" y="84" text-anchor="end" class="sm mute">remains</text>
+<line x1="220" y1="44" x2="220" y2="240" class="line-0 dash"/>
+<text x="220" y="260" text-anchor="middle" class="sm">trigger removed</text>
+<text x="145" y="82" text-anchor="middle" class="sm mute">driven</text>
+<path d="M70 96 L220 96 C250 96 262 236 330 238 L600 239" class="line-t dash"/>
+<path d="M70 96 L220 96 C330 98 480 112 600 132" class="line-1"/>
+<text x="596" y="156" text-anchor="end" class="sm">where a template admits the pattern:</text>
+<text x="596" y="172" text-anchor="end" class="sm">carried away far more slowly</text>
+<text x="350" y="208" text-anchor="start" class="sm">the kernel alone: gone on the kernel's schedule</text>
+<text x="320" y="288" text-anchor="middle" class="sm mute">Drawn for shape only. No scale: the record holds the form and no measured constant.</text>
+</svg>
+<figcaption>The one observable the Five Layers give Layer 3: how long a pattern outlasts the removal of its cause, set against how long the kernel alone would give it. The curves show the comparison and no measurement.</figcaption>
+</figure>
+
 The template does not do that by itself. A test changes no rate. It only answers. What reaches the rate is the extension's coupling terms, described below, which are the only place the Etheric enters the equations at all. Persistence is the footprint those terms leave on a decay, and the template is read from the footprint.
 
 That is a statement about time, and it is measured as one: how long a pattern outlasts the removal of its cause, set against how long the kernel alone would give it. The [dryadic trees](/star-rangers/lore/dryadic-trees/) give the record its plainest case. Their leaves answer the wind a fraction of a second late, between a tenth and four tenths of a second, consistently enough to serve as a field indicator. The lag is read as the foliage answering a coupled constraint after it has answered the air. That number is a response of one organism in one grove. It is not a coefficient of the theory, and the record is careful not to promote it to one.

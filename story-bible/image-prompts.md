@@ -4893,4 +4893,19 @@ No generator prompts: deterministic cards from `make-codex-cover.ps1`, in the ho
 .\scripts\make-codex-cover.ps1 -TitleLines "WHAT THE","STONES SAY" -Category "CULTURAL RECORD" -Institution "Survey Archive, Threshold Station" -Author "ODAL FERREN, LINE-KEEPER, QUERN" -Motif rules -Out src\images\codex\what-the-stones-say.jpg
 .\scripts\make-codex-cover.ps1 -TitleLines "WHAT WAS","CARRIED" -Category "HAGIOGRAPHY" -Institution "Monastic scriptorium, Cill Aoife, Ireland" -Author "A LATER HAND OF CILL AOIFE" -Motif rules -Out src\images\codex\what-was-carried.jpg
 .\scripts\make-codex-cover.ps1 -TitleLines "WHY TWO","HUNDRED" -Category "WORKING PAPERS" -Institution "Survey Archive" -Author "SEN, SENIOR ARCHIVIST" -Motif rules -Out src\images\codex\why-two-hundred.jpg
+
+## 2026-11-18 — Lore emblem cards (Fable, desktop)
+
+Nine cards for the last lore pages without a picture (`images.md` § 83). Each `-Epithet` is in the page word for word. The Convened's card is filed as `the-convened-card.jpg` so that § 50's generated header stays pending in the queue; that prompt was run the same day and the provider returned 402, *"Your prepayment credits are depleted"*, before making a frame.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\frontier-transformation-protocols.md -Device shield -Tint '#16202A' -Accent '#A9C4C9' -Epithet 'Whether, how much, and how fast'
+.\scripts\make-emblem-card.ps1 -Page src\lore\guild-distinctions.md -Device shield -Tint '#16202A' -Accent '#A9C4C9' -Epithet 'Distinctions are not rank'
+.\scripts\make-emblem-card.ps1 -Page src\lore\habitable-for-whom.md -Device sphere -Tint '#141A26' -Accent '#9FB6CE' -Epithet 'Habitability is a relation, not a property'
+.\scripts\make-emblem-card.ps1 -Page src\lore\kieme-visible-hand.md -Device rings -Tint '#1A1830' -Accent '#B4AEDA' -Epithet 'The church-space telling of the Cosmic Limitation on Evil'
+.\scripts\make-emblem-card.ps1 -Page src\lore\lunasa.md -Device sundial -Tint '#16202A' -Accent '#A9C4C9' -Epithet 'The standard Threshold is set against'
+.\scripts\make-emblem-card.ps1 -Page src\lore\mathematics-and-its-notations.md -Device triad -Tint '#1A1830' -Accent '#B4AEDA' -Epithet 'The theorem and the hand'
+.\scripts\make-emblem-card.ps1 -Page src\lore\performers-and-generated-work.md -Device figure -Tint '#221C14' -Accent '#D2BC8E' -Epithet 'The original is the performance'
+.\scripts\make-emblem-card.ps1 -Page src\lore\the-ladder-in-other-tongues.md -Device chevron -Tint '#16202A' -Accent '#A9C4C9' -Epithet 'A rendering is a courtesy'
+.\scripts\make-emblem-card.ps1 -Page src\lore\the-convened.md -Device rings -Tint '#1E1A2A' -Accent '#C2A9C8' -Epithet 'A person exists among them only in a working'
 ```
