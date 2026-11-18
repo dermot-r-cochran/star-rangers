@@ -8,9 +8,8 @@ status: Active
 aliases: []
 tags: [human, star-rangers, general-operations, chief, chief-ranger, fold-approach, outward-frontier, season-3]
 description: "The Chief Ranger who runs the watch at the fold-approach post that became Tissadelle Shepherd's first command, and who held the post for thirty-three days before she assumed it."
-image: "chapters/s03e03c02.jpg"
-image_alt: "Seen through a dark rounded hatchway, three officers stand side by side with their backs to the camera in a small dim indigo compartment: a woman with red hair in a knot in the middle, her hands clasped behind her, a tall man on her left and a woman with a long dark plait on her right, each glancing toward her. On the wall in front of them a long dark housing carries six small pale lights in a row, and above it a wide port shows black space with a thin scatter of stars."
-image_caption: "The agreement log at the fold-approach post; from On Assumption (S03E03C02)"
+image: "emeka-lindahl.jpg"
+image_alt: "Emeka Lindahl, a grey-haired man in his fifties in a dark blue-grey field shell with a small bar-and-ring tab at the collar, standing at a plain desk in a small indigo compartment, head bowed, one hand flat on the desk and the other squaring two thin grey sheets, a long housing with a row of small pale lights and a port of black sky behind him"
 ---
 
 Emeka Lindahl is a [Chief](/star-rangers/lore/star-rangers-command-hierarchy/) on the general operations track and carries the working title Chief Ranger, as a Chief who runs a general operations department does. His department is the watch at a fold-approach post on the outward frontier, which the record does not name: six instruments, a crew of twenty, and a line office nine hours away by relay. He had been its Chief for nine years by the late autumn of 2829 UCSD.

@@ -202,6 +202,7 @@ const PEOPLES = [
     pageBody: ["src/lore/prismeri.md", "The frame is a flier's"],
     portraits: {
       isserith: { check: "agrees", evidence: ["src/characters/isserith.md", "a soft still-hardening exoskeleton in grey-violet tones"], note: "Filed 23 October 2026 as a render, by his ruling the same day, round 1 variation 4." },
+      essarith: { check: "agrees", evidence: ["src/characters/essarith.md", "Reader of an astrogation guild of Prismere, Full Wings"], note: "Filed 18 November 2026 as a render under the 23 October ruling, round 4 reference take 2, after a head study (slate blue, both forward eyes)." },
       orisseth: { check: "agrees", evidence: ["src/characters/orisseth.md", "came out Full Wings, too heavy for the groves"], note: "Filed 23 October 2026 as a render, by his ruling the same day, round 2 variation 1." },
     },
   },
