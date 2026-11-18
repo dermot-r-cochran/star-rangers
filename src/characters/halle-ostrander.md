@@ -8,6 +8,9 @@ aliases:
   - "Halle Ostrander, field naturalist, Federation contact survey of Prismere"
 tags: [prismere, prismeri, federation-of-sentient-beings, natural-history, survey-records, author]
 description: "The field naturalist of the Federation's contact survey of Prismere who drew the Prismeri from life in ink and watercolour, first as two peoples and then, after the kinship finding, as one."
+image: "lore/prismeri-full-wings.jpg"
+image_alt: "Natural-history plate in ink and watercolour on cream paper: a Full Wings Prismeri drawn from below with its broad wings spread wide in flight, washed in muted gold and blue, the hind legs trailing, long fine tendrils streaming back from the skull ridge; beside it, the same individual drawn small at rest, hanging head-down with its wings folded; a plain black-and-white scale bar along the bottom."
+image_caption: "The Full Wings, one of Ostrander's plates of the Prismeri"
 known_codex: [plates-of-the-prismeri]
 ---
 

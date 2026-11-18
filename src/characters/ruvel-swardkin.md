@@ -8,6 +8,9 @@ status: Active
 aliases: []
 tags: [verdani, verdance, calyx-system, aurelin-herdlands, migratory-councils, steppe, fourfold-accord, federation-of-sentient-beings, author, non-humanoid, histories-in-their-own-voices]
 description: "A steppe-strain Verdani of the Aurelin Herdlands, the Herdlands' delegate to Verdance's Fourfold Accord, who gave aloud the Accord's one position on the history of her people — the author of the fifteenth history of a non-human people the record holds in that people's own voice, the fifth Verdani the record names, and the first person of Verdance's steppe."
+image: "lore/planets/verdance.jpg"
+image_alt: "An aerial view of Verdance where forest, dry savanna, red upland and wetland meet, small settlements in each, and across a broad fen channel in the foreground the long low pale line of a flood-gate."
+image_caption: "Verdance from the air"
 known_codex: [counted-twice-answered-once]
 ---
 

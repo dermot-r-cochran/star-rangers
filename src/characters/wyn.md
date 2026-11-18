@@ -8,6 +8,9 @@ system: sen
 status: Active
 tags: [plural-mind, survey-archive, archivist, threshold-station, records]
 description: "A member of Sen Lovax's plural system, who asks of every closed file who was protected by the closing and who paid for it, and who wants the desk's notes signed so that what it finds has to be answered."
+image: "chapters/s07e01c04.jpg"
+image_alt: "A long cream moulded room in low evening light. In the foreground a closed bound set of thin separate slate-grey leaves, hinged along one edge by a dark rod, lies on a bare desk with a slim dark stylus beside it. At the far end a grey-haired person in a long olive coat and a rust-coloured scarf, seen from behind, walks toward a tall rounded doorway onto a dim blue-grey passage, one hand reaching for its edge. Thin closed records lie flat in two niches in the wall at the right."
+image_caption: "The desk at evening; from Not Under a Name (S07E01C04)"
 ---
 
 *Accurate, and who is it for?*

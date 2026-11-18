@@ -7,6 +7,9 @@ aliases:
   - "Rosamund Hallam, of New London"
 tags: [new-london, celtic-union, tir-na-nog, travel-writing, popular-accounts, author]
 description: "The New London travel writer of Lanterns Past the Edge of the Map, whose fourth chapter sorts the Celtic Union's Good People, and two other things besides, into the elves of wood, sky and water."
+image: "lore/new-london-space-habitat.jpg"
+image_alt: "A narrow wet cobbled street in New London after rain, old brick and stone frontage on one side and plain modern pale buildings on the other, opening onto a low stone bridge over a dark canal, a few people walking and crossing, roses in stone planters by the bank. Beyond the rooftops the ground curves visibly upward into a flat grey-white overcast, the far part of the ring rising like a wall with the city built up it."
+image_caption: "A street in New London"
 known_codex: [the-elves-of-wood-sky-and-water]
 ---
 

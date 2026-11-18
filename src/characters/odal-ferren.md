@@ -7,6 +7,9 @@ aliases:
   - "Odal Ferren, line-keeper, Quern"
 tags: [quern, line-keeper, rain-watch, turning-stones, settlement, oral-record, cultural-record, author]
 description: "The Quernish line-keeper whose address to a watcher standing a first rain-watch, taken down at the speaker's own dictation, is the first Quernish cultural document the record holds: how to read the stones, what may be spoken of and where, and the settlement's standing answer to the question every survey pass asks."
+image: "lore/quern.jpg"
+image_alt: "A cluster of low rounded windowless stone houses on a plain of wet black grit under sideways rain, a wall of storm cloud lit red from within by lightning on the right and black sky on the left, and a straight line of small flush pale caps running from the houses toward the storm."
+image_caption: "Quern under rain, the line running out from the houses"
 known_codex: [what-the-stones-say]
 ---
 

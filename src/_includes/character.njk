@@ -53,11 +53,11 @@ commentsCategory: characters
          frame read alike here and on the season pages (2026-10-07). Without
          it the header renders exactly as it always did. #}
       <figure class="character-portrait-figure">
-        <img class="character-portrait" src="/star-rangers/images/characters/{{ image }}" alt="{{ image_alt | default(title) }}" />
+        <img class="character-portrait" src="/star-rangers/images/{{ image | characterImage }}" alt="{{ image_alt | default(title) }}" />
         <figcaption class="character-portrait__caption">{{ image_caption }}</figcaption>
       </figure>
       {% elif image %}
-      <img class="character-portrait" src="/star-rangers/images/characters/{{ image }}" alt="{{ image_alt | default(title) }}" />
+      <img class="character-portrait" src="/star-rangers/images/{{ image | characterImage }}" alt="{{ image_alt | default(title) }}" />
       {% endif %}
     </div>
   </header>

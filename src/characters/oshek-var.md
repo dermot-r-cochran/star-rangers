@@ -8,6 +8,9 @@ status: Active
 aliases: []
 tags: [veyr, basaltborn, veyr-3, high-gravity, volcanism, engineering, star-rangers, author, non-humanoid, histories-in-their-own-voices]
 description: "A Veyr Basaltborn of the Star Rangers who, at the Survey Archive's asking, wrote the history of their people as their people rate a thing, by what it will carry and where it was struck to find out, closing every part with its rating — the author of the tenth history of a non-human people the record holds in that people's own voice, and the second Veyr the record names."
+image: "lore/veyr-basaltborn.jpg"
+image_alt: "Designed title card on a near-black field in warm iron: the category SPECIES in spaced capitals at the top, a triad device held in a soft glow, and below a short rule the title THE VEYR BASALTBORN in pale serif capitals, subtitled 'The Lattice-Framed' and 'Given metallurgy for nothing, and fighting for precision ever since'."
+image_caption: "The Archive's card for the Veyr Basaltborn"
 known_codex: [what-it-will-carry]
 ---
 

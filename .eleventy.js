@@ -10,6 +10,7 @@ const { createMarkdownRenderer, povTierVisible } = require("./lib/markdown-conta
 const { imageSize } = require("./lib/image-size");
 const { isPlaceholderImage } = require("./lib/placeholder-marker");
 const { seasonPortraits } = require("./lib/season-portraits");
+const { characterImageRel, ownPortrait } = require("./lib/character-image");
 const {
   getContentFilter,
   isCharacterIncluded,
@@ -99,6 +100,9 @@ function computeOgImage(data, included) {
   // A lore page may borrow a chapter's, character's or glossary entry's
   // picture by naming that folder first (lib/lore-image.js).
   if (kind === "lore" && data.image) return `/images/${loreImageRel(data.image)}`;
+  // A character page may show a borrowed picture, whose value carries its
+  // own folder (lib/character-image.js, 2026-11-18).
+  if (kind === "character" && data.image) return `/images/${characterImageRel(data.image)}`;
   if (dir && data.image) return `/images/${dir}/${data.image}`;
   // A timeline entry (since 2026-11-17) borrows the picture of what it
   // records from wherever that picture is filed, so its `image` carries its
@@ -669,10 +673,15 @@ module.exports = function(eleventyConfig) {
   // the front page shows finished portraits or nothing, on every domain. The
   // characters/ path here is the same one the slideshow template hardcodes
   // in src/index.md, which is the only caller of this filter.
+  // The path below images/ of a character page's header picture: its own
+  // portrait in characters/, or a borrowed picture that names its folder
+  // (lib/character-image.js). character.njk is the only caller.
+  eleventyConfig.addFilter("characterImage", (image) => characterImageRel(image) || "");
+
   eleventyConfig.addFilter("withImages", (pages) =>
     (pages || []).filter((p) =>
-      p && p.data && !isBlankValue(p.data.image) &&
-      !isPlaceholderImage(path.join(__dirname, "src", "images", "characters", String(p.data.image)))
+      p && p.data && ownPortrait(p.data.image) &&
+      !isPlaceholderImage(path.join(__dirname, "src", "images", "characters", ownPortrait(p.data.image)))
     )
   );
 

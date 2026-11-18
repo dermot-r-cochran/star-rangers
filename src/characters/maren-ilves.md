@@ -8,6 +8,9 @@ aliases:
   - "Dr. Maren Ilves"
 tags: [the-institute, secular, comparative-testimony, working-paper, doctrine, post-mortem, author]
 description: "The Institute researcher whose paper on the dead took judgment, punishment and reward apart as three separate claims, kept one of them, and printed at length that the Institute's own standard explanation could not account for what the comparative archive showed."
+image: "lore/the-institute.jpg"
+image_alt: "A bare research office: a plain wooden desk with one shut notebook on it, a pale pedestal chair, coved pale walls, and a tall window onto the interior of a rotating habitat curving up into haze"
+image_caption: "An office at the Institute"
 known_codex: [three-claims-concerning-the-dead]
 ---
 

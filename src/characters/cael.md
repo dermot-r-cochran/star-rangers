@@ -8,6 +8,9 @@ system: sen
 status: Active
 tags: [plural-mind, survey-archive, archivist, threshold-station, records]
 description: "A member of Sen Lovax's plural system and the Survey Archive desk's verifier: re-derives every citation, checks an absence twice, and trusts least what closes most cleanly."
+image: "characters/sen.jpg"
+image_alt: "Sen Lovax, Senior Archivist, grey-haired, in the deep olive field shell of the Survey Corps with a small tab at the collar, seated still at a clear desk in a warm, quiet room of the Survey Archive, one hand flat on a closed volume, a mug beside it and a rust-coloured scarf over the chair."
+image_caption: "Sen Lovax at the Archivist's desk; the one body the system shares"
 ---
 
 *It is tidy* is not praise when Cael says it.

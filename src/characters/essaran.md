@@ -8,6 +8,9 @@ status: Active
 aliases: []
 tags: [cerebraun, cerebraun-hegemony, prime-ganglion, halyx-system, sentinel, author, non-humanoid, histories-in-their-own-voices]
 description: "A Cerebraun officer of the Prime Ganglion's office who drafted the Hegemony's answer to the Survey Archive's request for a history of the Cerebraun by one of them, a filing in three-part items with lines set beneath, sent on the first channel only — the author of the twelfth history of a non-human people the record holds in that people's own voice, and the fourth Cerebraun the record names."
+image: "lore/cerebraun-hegemony.jpg"
+image_alt: "Designed cover for The Cerebraun Hegemony: a teal hexagonal emblem in a ringed seal, on a dark background."
+image_caption: "The Archive's card for the Cerebraun Hegemony"
 known_codex: [what-the-limbs-already-were]
 ---
 

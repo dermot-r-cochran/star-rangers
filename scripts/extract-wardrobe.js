@@ -68,7 +68,8 @@ function readCharacters() {
     if (!file.endsWith(".md")) continue;
     const { data } = matter(fs.readFileSync(path.join(CHAR_DIR, file), "utf8"));
     const species = String(data.species || "");
-    if (!/^(Human|Krenyi)/.test(species) || !data.image) continue;
+    // A borrowed picture (lib/character-image.js) shows no dress of theirs.
+    if (!/^(Human|Krenyi)/.test(species) || !data.image || String(data.image).includes("/")) continue;
     if (EXCLUDE_STATUS.test(String(data.status || ""))) continue;
     if ((data.tags || []).some(t => EXCLUDE_TAGS.includes(t))) continue;
     if (EXCLUDE_ROLE.test(String(data.role || ""))) continue;

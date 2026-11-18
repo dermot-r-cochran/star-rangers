@@ -7,6 +7,9 @@ aliases:
   - "Sub-officer Pren Halvard"
 tags: [survey-corps, threshold-station, dock-seven, incident-report, instrument-drift, author]
 description: "The Survey Corps sub-officer at Threshold Station who filed Incident Report 001 in 2815 UCSD, the first official record of the forty seconds between the Dock Seven chronometers, recommended monitoring for recurrence, and saw the report closed as a calibration issue five days later."
+image: "glossary/instrument-drift.jpg"
+image_alt: "Designed emblem card on a dark blue-black ground: the category Physics in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title Instrument Drift in pale serif capitals, with the line “The disagreement between measuring instruments”"
+image_caption: "The Archive's card for instrument drift"
 known_codex: [incident-report-001]
 ---
 

@@ -26,6 +26,7 @@ const { isContentIncluded } = require("../lib/classify-content");
 const { getRelatedContentUrls } = require("../lib/content-filter");
 const { isPlaceholderImage } = require("../lib/placeholder-marker");
 const { MAX_PLATES, PLATES } = require("../lib/plates");
+const { characterImageRel } = require("../lib/character-image");
 
 const REPO = path.join(__dirname, "..");
 const SRC = path.join(REPO, "src");
@@ -108,7 +109,9 @@ function main() {
         failures.push(`${where}: no lore, character or codex page has this URL.`);
         continue;
       }
-      const image = plate.image || (page.data.image ? `${page.kind}/${page.data.image}` : null);
+      const image = plate.image || (page.data.image
+        ? (page.kind === "characters" ? characterImageRel(page.data.image) : `${page.kind}/${page.data.image}`)
+        : null);
       if (!image) failures.push(`${where}: the page has no image and the plate names none.`);
       else {
         const abs = path.join(SRC, "images", image);

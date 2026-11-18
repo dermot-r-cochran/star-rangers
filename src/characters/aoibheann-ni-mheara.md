@@ -8,6 +8,9 @@ aliases:
   - "The Keeper of the Rolls"
 tags: [celtic-union, tir-na-nog, registry, governance, titles, official-documents, author, human]
 description: "The Keeper of the Rolls on Tír na nÓg who declined the petition for courtesy recognition of ancestral titles, as every Keeper before her had, and minuted the reason in full so that the next Keeper need only sign."
+image: "lore/celtic-union-of-planets.jpg"
+image_alt: "Designed cover for the Celtic Union of Planets: a gold Celtic knotwork emblem in a ringed seal, on a dark background — not an Earth wildlife photo."
+image_caption: "The Archive's card for the Celtic Union of Planets"
 known_codex: [the-courtesy-that-was-withdrawn]
 ---
 

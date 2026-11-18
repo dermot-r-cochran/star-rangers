@@ -8,6 +8,9 @@ aliases:
   - "Surveyor Maren Halloran, Gravimetry Desk"
 tags: [survey-corps, threshold-station, gravimetry, membrane-shadows, working-paper, survey-archive, author]
 description: "The surveyor at Threshold Station's Gravimetry Desk who reads cross-membrane gravimeters for a living, proposed in 2825 UCSD that part of the sky's dark weight is the neighbours at their ordinary distance, and in 2832 UCSD wrote the desk's casebook of the five shadows it cannot close."
+image: "lore/membrane-shadows.jpg"
+image_alt: "A plain, pale observation room seen from its doorway, a long low window onto a flat misty marsh at dawn. A few paces in front of the window stands a tall person-shaped silhouette, perfectly dark and featureless, its edge thinly lit, casting no shadow on the pale floor, while the low bench beside it casts one."
+image_caption: "A membrane shadow; the picture the Archive files with the phenomenon"
 known_codex: [weighing-the-neighbours, nothing-crossed]
 ---
 
