@@ -8,9 +8,8 @@ status: Active
 aliases: []
 tags: [cerebraun, cerebraun-hegemony, prime-ganglion, halyx-system, sentinel, author, non-humanoid, histories-in-their-own-voices]
 description: "A Cerebraun officer of the Prime Ganglion's office who drafted the Hegemony's answer to the Survey Archive's request for a history of the Cerebraun by one of them, a filing in three-part items with lines set beneath, sent on the first channel only — the author of the twelfth history of a non-human people the record holds in that people's own voice, and the fourth Cerebraun the record names."
-image: "lore/cerebraun-hegemony.jpg"
-image_alt: "Designed cover for The Cerebraun Hegemony: a teal hexagonal emblem in a ringed seal, on a dark background."
-image_caption: "The Archive's card for the Cerebraun Hegemony"
+image: "essaran.jpg"
+image_alt: "Essaran, a Cerebraun, resting on the floor beside a low pale island surface in a plain seamless pale-grey room, a wide low dark opening behind: a soft, headless, umber-brown body slumped on its folded lower limbs, its skin deeply creased, the thick upper limbs curled close against it, one over the island's near edge, one raised with its blunt tip held still above the surface near a single small flat dark slab, small dark eyes set along the limbs, lit from one side"
 known_codex: [what-the-limbs-already-were]
 ---
 

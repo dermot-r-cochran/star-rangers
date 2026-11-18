@@ -718,7 +718,7 @@ the four Verdani character pages, S01E00C08 *Nobody Present*, the three
 Verdani timeline entries of the dated frame (~2806, 2822 and 2826 UCSD) and
 the ruled Verdani sections of `species-design.md`, `mind-design.md` and
 `civilian-dress.md`, with the rest marked absent in a *What the Record Does
-Not Carry* section. The portrait prompt is `images.md` § 51, not generated;
+Not Carry* section. The portrait prompt is `images.md` § 51, filed 18 November 2026 (§ 85);
 the title card is made.
 
 **Why Fable and not Opus.** The line names *the Fourfold Accord, one Verdani
@@ -3574,7 +3574,7 @@ same rule:
   count from the coming; the present year declined, and no count set beside
   any date of the record's, so the reciprocal instrument keeps its ~2806 UCSD
   on the timeline and the entry fixes no conversion. Title card made; the
-  portrait prompt is `images.md` § 51, not generated. The section *The
+  portrait prompt is `images.md` § 51, filed 18 November 2026 (§ 85). The section *The
   Verdani history, Ruvel Swardkin* at the top of this file records the
   choices.
 - [x] ~~**Prismeri** — `src/lore/prismeri.md`, `src/lore/planets/prismere.md`,
