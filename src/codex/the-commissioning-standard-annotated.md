@@ -8,6 +8,8 @@ description: "A retiring examiner's annotated copy of the Commissioning Standard
 author: "An examiner of the Commissioning Directorate, AI Governance Commission (name withheld by Commission practice)"
 institution: "AI Governance Commission"
 location: "AI Governance Commission Archive, Earth — examiner's annotated copy, deposited on retirement per Commission practice"
+image: "the-commissioning-standard-annotated.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Institutional Doctrine, ruled lines, and the title The Commissioning Standard, Annotated above the line AI Governance Commission and the line An Examiner of the Commissioning Directorate."
 ---
 
 *Examiners sign refusals personally and deposit their annotated Standards anonymously — the first because a refusal must have a person behind it, the second because a margin note must not. Both practices are older than I am, and I have come to think both are right. What follows is the Standard as issued, with what thirty years at the gate wrote in its margins.*

@@ -8,6 +8,8 @@ description: "Agent Barsik's working paper disputing Eden's Class III filing of 
 author: "Agent Barsik, Undercover Pets Detective Agency (Eden posting)"
 institution: "Undercover Pets Detective Agency"
 location: "Agency case file, Eden posting — copy lodged with the Survey Archive, Threshold Station, at the author's request, 2830 UCSD"
+image: "filing-of-the-galley-door-specimen.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title On the Filing of the Galley Door Specimen above the line Undercover Pets Detective Agency and the name Agent Barsik."
 ---
 
 **UNDERCOVER PETS DETECTIVE AGENCY — WORKING PAPER**

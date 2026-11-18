@@ -8,6 +8,8 @@ institution: "Fellowship of Light — the contemplative chapter at the river abb
 location: "Set down in the abbey's own book; copies carried outward along Aoife's devotion. The Ceridwen Archive on Aethelrock shelves one beside The Life of Saint Aoife, and the Survey Archive's reconciliation desk holds another in the binders, beside the ballad it answers."
 description: "Brother Daire's meditation on the circulating Baby Universe ballad, set down at the river abbey: the song sings one woman through the seam, and the abbey keeps vigil for two — the woman and the cat, a crew in one currach — declining, in Aoife's own discipline, to sing a single note past what is given."
 tags: [brother-daire, fellowship-of-light, saint-aoife, tissadelle-shepherd, tobble, dock-seven, threshold-station, noogenic, protouniverse, plural-mind, celtic-union, tir-na-nog, devotional, culture]
+image: "two-in-the-one-currach.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Devotional Record, ruled lines, and the title Two in the One Currach above the line The river abbey on the Boyne, near Dún Rí and the name Brother Daire."
 ---
 
 *A note on what this leaf is. It is a page from the abbey's own book, shared outward as it was written — one keeper's meditation, valid as his and binding on no one. Whether the hand that set down [The Life of Saint Aoife](/star-rangers/codex/life-of-saint-aoife/) fourteen centuries ago and the hand that set down this page are one hand, the record does not say, and this filing does not improve on its silence.*

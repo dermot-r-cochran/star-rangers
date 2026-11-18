@@ -8,6 +8,8 @@ description: "The Survey Archive's standing doctrine on how a claim becomes a ho
 author: "Sen, Senior Archivist"
 institution: "Survey Archive"
 location: "Survey Archive, Threshold Station — standing doctrine, posted at every desk; current revision filed 2829 UCSD"
+image: "the-verification-doctrine.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Institutional Doctrine, ruled lines, and the title The Verification Doctrine above the subtitle Admission, Standing, Revision, the line Survey Archive, and the name Sen, Senior Archivist."
 ---
 
 *Standing doctrine of the Survey Archive, maintained under the Senior Archivist's hand and posted at every desk. The articles are the doctrine; the commentary is mine, and successors may strike it. — [Sen](/star-rangers/characters/sen/)*

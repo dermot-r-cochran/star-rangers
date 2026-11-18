@@ -8,6 +8,8 @@ description: "A children's story from Kate Ukrainka's Small Quiet Friends — ab
 author: "Kate Ukrainka"
 institution: "Hearth & Horizon Press"
 location: "Children's reading collection, Eden Space Habitat — habitat library copy, 2829 UCSD printing"
+image: "the-cat-who-would-not-say.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, and the title The Cat Who Would Not Say above the line Hearth & Horizon Press and the name Kate Ukrainka."
 ---
 
 **THE CAT WHO WOULD NOT SAY**

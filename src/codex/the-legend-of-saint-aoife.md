@@ -8,6 +8,8 @@ description: "A telling of Saint Aoife for young readers of the Celtic Union —
 author: "Síle Ní Bhriain, told for the reader-schools of the Aethelrock valleys"
 institution: "Ridgemoot Readers, Aethelrock"
 location: "Young readers' shelf, Ceridwen Archive, Aethelrock — 2823 UCSD printing, from the third reader-school edition"
+image: "the-legend-of-saint-aoife.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Hagiography, ruled lines, and the title The Legend of Saint Aoife above the line Ridgemoot Readers, Aethelrock and the name Síle Ní Bhriain."
 ---
 
 **FOR THE READER-SCHOOLS**

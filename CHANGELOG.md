@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Every Codex entry carries an image: title cards for the 49 that had none** (`src/codex/`, `src/images/codex/`, `story-bible/images.md` § 84, `story-bible/image-prompts.md`, 2026-11-18, Opus). Each of the 49 takes the house title card from `scripts/make-codex-cover.ps1`, worded only from the entry itself: its category, title, institution or library and author, a subtitle only where the title carries its own second part, and a stamp on five where the entry states one. Nothing was generated or borrowed; entries that could one day take a picture are listed in § 84.
+
 - **Image rule brought up to date, and the AI Safety Kernel card redrawn** (`CLAUDE.md`, `src/images/lore/ai-safety-kernel.jpg`, 2026-11-18, Opus). `CLAUDE.md` no longer says an abstract concept takes no image: it records Dermot's 15 November rulings (every page carries an image; bare only where generation fails two or three times and no diagram or card is possible; no site theme music; chosen videos carry their own audio). The shield card is redrawn with the `make-emblem-card.ps1` fix of #1940, which closes the shield's left edge.
 
 - **Instrument Drift says why the difference is kept by hand** (`src/glossary/instrument-drift.md`, 2026-11-18, Opus). Dermot ruled that a digital device near a boundary is pulled toward agreement and loses the difference, and that the Sceir Light's timekeeper is the keeper herself, reading a mechanical clock. The entry gains one paragraph saying so. It is a clarification: S01E01C03 and S01E01C04 already show it, and every instrument still reads its own position correctly. Ruling in `story-bible/intake-2026-11-18.md`.

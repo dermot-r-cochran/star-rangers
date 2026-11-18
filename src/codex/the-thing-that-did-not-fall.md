@@ -8,6 +8,8 @@ institution: "Survey Archive general collection (receiving); the asking carried 
 location: "Survey Archive general collection, Threshold Station — the translation desk's rendering of a far word taken by a courier hull's pressure instruments through one passing, of which no master exists or can, since the far word is gone as it is said; and the mark itself, carried out of Freyari by the courier and held as the object it is, readable by anyone close to it, with the desk's rendering of its terms"
 tags: [ollune, cirrane, freyari, federation-of-sentient-beings, star-rangers, far-word, near-word, translation, histories-in-their-own-voices]
 description: "The fourteenth history of a non-human people the record holds in that people's own voice: an Ollune who marks the passing for a shoal of Freyari, asked by the Survey Archive for the history of the held, cries it in the far word, which binds nothing, from the oldest bearing to the thing that came down out of the direction nothing comes from and did not fall — and then marks one near word, slowly, at the hull's flank, saying that the far word was theirs and on what terms a party they will not meet again is to read it."
+image: "the-thing-that-did-not-fall.jpg"
+image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, and the title The Thing That Did Not Fall above the line Survey Archive general collection and the name Vellire, an Ollune of Freyari."
 ---
 
 **Status:** Held as the author's own account, in the general collection; the far word valid for its author and binding on nobody, by the author's own law; the near word binding on its author alone, and read as the terms it is (see the translation desk's notes)
