@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Portraits of Aoibheann Ní Mheara and Ines Abara filed** (`src/characters/aoibheann-ni-mheara.md`, `src/characters/ines-abara.md`, 2026-11-18, Opus, Dermot's pick). Fresh frames under his 10 November bar, replacing the institution cards both pages had borrowed since his removal of the earlier portraits; rounds in `images.md` § 17 and § 33.
+
 - **Aoibheann Ní Mheara and Ines Abara tried again, not filed; Emeka Lindahl's readings proposed** (`story-bible/images.md` §§ 17, 33 and 87, `story-bible/image-prompts.md`, 2026-11-18, Fable). Two rounds each produced a frame that passes the 10 November bar, and both wait for Dermot's pick, since he removed the earlier ones. Lindahl's age, heritage, build and dress are proposed with their basis and a draft prompt, not approved and not run. No page and no image changes.
 
 - **Essarith's head studied; a frame without the turtle is on a sheet for Dermot, nothing filed** (`story-bible/images.md` § 45, `story-bible/species-design.md`, `story-bible/image-prompts.md`, 2026-11-18, Fable). A head study under `people-body-design` found four causes of the turtle's head (the reference crop is itself a turtle, ochre-gold plate, the helmet-and-seam wording, a head drawn out of a collar) and removed it without changing anything the people's page states: forward eyes on a flat front plate, the mouth underneath, no neck showing, slate blue as the larger colour, and no reference sent. Seven images in a study and three short rounds; the pick is a render and waits on his eye, and the page keeps the borrowed painting. The head reading is recorded as proposed, not ruled.
