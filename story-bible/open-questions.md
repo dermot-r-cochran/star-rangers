@@ -112,6 +112,16 @@ left as they stand.
 ---
 
 
+## Three ideas from a chat on robotic exploration and contact — raised 19 November 2026, parked by Dermot the same day (*"Park them"*) — all three OPEN, each waits on a page or chapter that needs it
+
+A chat on Opus about the real-world future of autonomous probes, fusion vessels and conflict with distant civilisations was read against the record. Most of it the record already holds: fusion as the ceiling (`src/lore/the-fusion-ceiling.md`), no faster-than-light signal (`src/lore/ftl-mechanics.md`), decisions made nearest the boundary (`src/lore/star-rangers-decision-and-communication.md`), the Kernel's freedom to think and bounds on acting, arithmetic before words (`src/codex/xenolinguistics-handbook-failure-modes.md`), the Federation already there when the Rangers came to make first contact, and opposition from misreading rather than malice. Three ideas were not in the record. Nothing on a page is changed; any drafting goes to Fable.
+
+1. **Stars no corridor reaches.** Corridor availability is finite (`ftl-mechanics.md`), so a star with no admissible corridor and no fold route could be reached only below light speed, on fusion. A made mind sent there would be out of reach for decades, and keeping to the Kernel with no one able to check it is the restraint that makes it a person (the hyper-intelligence ruling of 29 October 2026). Undecided: whether such stars exist in the record at all, and whether anything has been sent.
+2. **Braking early as a courtesy.** At a tenth of light speed every kilogram carries about 4.5 × 10¹⁴ J, roughly 108 kilotons of TNT, so a fast arrival reads as a threat whatever its intent. Slowing down early and in plain view would be the clearest signal of peaceful intent physics allows, and could be a kept custom. It holds only if some arrivals are at real speed; the record does not say how fast a vessel leaves a corridor or a fold.
+3. **Foreign code is studied, never run.** A made mind analyses what another people sends but does not execute it, and keeps its own deciding parts out of reach of anything received. It would extend the Kernel to contact, and could sit beside the Ten Failures in the Xenolinguistics Handbook. Undecided: whether it is already implied by the Kernel's first invariant, or needs saying.
+
+**Kept out, by the trope default of 20 August 2026:** the dark-forest argument, berserker probes, relativistic kill vehicles, self-replicating probes, and a non-interference directive by its familiar name. If the energy of a fast arrival ever appears, it is implied, never shown (the tone guardrail). Real project names (Daedalus, Starshot) do not enter the record.
+
 ## The body of the Verdani — three options put to Dermot, 19 November 2026 — RULED: A, the apron
 
 **Ruled 19 November 2026.** Dermot, verbatim *"A, the apron"*. Recorded in `species-design.md`. Still open: whether `verdani.md` says anything of the supports, the edge or the tendrils (below). Point 4 of the critic read above (Elsha Rootkin's card) can now take its device from the apron.
