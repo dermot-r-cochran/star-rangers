@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Meta-Dimensional Beings: Classification"
 category: "Entities"
-tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, obligers, gilded-saints, overbearers, beautiful-monsters, threnes, ghost-witches, cute-predators, higher-dimensional, boundary]
+tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, obligers, gilded-saints, overbearers, beautiful-monsters, threnes, ghost-witches, disavowers, cute-predators, higher-dimensional, boundary]
 description: "A classification of the meta-dimensional beings the record has met, all within its own formcluster: sapient Cascade-ranked Levrils, sapient monsters, and non-sapient incursives."
 plain: "Some beings exist in more dimensions than the four we can reach, and they sometimes cross into our space at boundary zones. The record sorts them into three classes. Class I, the Levrils, are intelligent and follow the laws of the Cosmic Cascade, so they can be lawfully dealt with. Most Class II beings are intelligent but follow no such law, which makes them dangerous; a few are only visitors from next door. Class III beings are not intelligent at all — they act on instinct, like animals. Knowing the class tells you whether talking is even possible."
 image: "meta-dimensional-beings.jpg"
@@ -26,7 +26,7 @@ Levrils mark the upper limit of what Material-layer beings can negotiate with. B
 See: [Levrils](/star-rangers/lore/levrils/)
 
 > **On the names below.** *Obligers*, *Gilded Saints*, *Overbearers*, *Beautiful
-> Monsters*, *Threnes*, *Cute Predators* — these are [Unfounded](/star-rangers/glossary/unfounded/),
+> Monsters*, *Threnes*, *Disavowers*, *Cute Predators* — these are [Unfounded](/star-rangers/glossary/unfounded/),
 > and the names are **modes of failure rather than kinds**. Nothing filed under
 > these names exists by design, so there is no decision for a category to record;
 > what a name records is how the counterfeit runs. The list is the Archive's
@@ -57,6 +57,7 @@ Meta-dimensional in origin, founded by nothing, and predatory. Their sapience ma
 - **Gilded Saints** — Virtue-extractors. Feed on moral labour, sanctified suffering, and closure-prevention. Sapient enough to identify and sustain the specific emotional conditions they require. Present as worthy causes or sacred duties.
 - **Threnes** — Grief-extractors. Feed on unresolved mourning, prolonging loss rather than allowing it to resolve — a closure-prevention pattern keyed to grief rather than virtue.
 - **Ghost-Witches** — Guilt-extractors. Feed on unpaid guilt and the will to pay it: present as the returned dead with a grievance and a remedy, the figure every tradition keeps of the one who comes back knowing and can be settled for a price — and the price is amends that are never quite the right amends, so the debt renews. A closure-prevention pattern keyed to guilt, beside the Gilded Saint's virtue and the Threne's grief. The tell is the record's own: a [Membrane Shadow](/star-rangers/lore/membrane-shadows/), the real thing behind every ghost story, never speaks, and a ghost-witch does nothing but — fluently, and to a debtor it is not listening to. The founded dead do not come back to be paid; nobody is in there to be paid. The shape is worn, never a person: no body, no gender, no biography.
+- **Disavowers** — Doubt-extractors. Feed on a hurt its bearer has been brought to disown: the flinch taken back, the apology made by the one who was hurt, the return. Present as courteous, charming and plainly harmless, and open with a reassurance nobody has yet asked for: there is no call to be wary and none to be shy, and no harm will come of it. Harm comes of it. What follows is surprise, the open, wounded surprise of the blameless at how the thing has been taken, and from there the reaction is the matter in question and the injury is not. Sapient enough to hold the pattern with one person across many encounters, and to learn which reassurance brings that person back. The surprise is not feigned, since feigning implies an alternative: it is the shape of innocent surprise with nobody in it to be surprised, as the reassurance was the shape of a promise with nobody in it to keep one. The tell is the class's own, and it is the tracking. A founded person who has hurt someone by accident looks at the hurt; a Disavower's surprise plays on, word-perfect, to a reaction it is not reading, and the same reassurance comes round again unchanged.
 
 #### Founded neighbours
 
