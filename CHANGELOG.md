@@ -6,6 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+
 - **S01E00C08's picture: a composition for Isren's side, tried once, nothing filed** (`story-bible/images.md` § 61, `story-bible/image-prompts.md`, `story-bible/negative-examples/`, 2026-11-19, Fable). The terrace frame shows Ulessa attending and Isren as a plant. A new composition divides Isren's vanes, half to the sun and half bent to Ulessa. One round of four takes drew that once, but every take made her low body an Earth animal, so the 17 November frame stands. The record names the cause and the next round's revision. No body design, prose or other frame changed.
 
 - **Two rulings recorded: the *Lúnasa* film and the Sceir Light's clock** (`story-bible/open-questions.md`, `story-bible/video-prompts.md`, 2026-11-19, Dermot's *"As recommended"*). *Lúnasa* (D7) is rebriefed from inside the clock room, behind one proof shot: the wall shot with its digits is made first, and if the forty seconds cannot be shown exactly the film stops and *The Long White Trail* stands as the Lúnasa film. The Sceir Light's clock is the light's own mechanical timing movement in a closed housing, with one small matte readout and no dial; this binds prompts and films only. Nothing generated; no page in `src/` changed.
