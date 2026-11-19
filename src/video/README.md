@@ -20,3 +20,5 @@ The first chapter clip, referenced from a chapter since 19 November 2026: `the-l
 A second chapter clip since the same day: `the-nine-seconds.mp4`, with its `-poster.jpg`, on S00E02C02 (clip M), the hearing chamber after the general's sentence, on the same terms; its first run failed and the prompt was tightened before the second, both recorded under it.
 
 A third chapter clip since the same day: `a-name-the-charter-didnt-print.mp4`, with its `-poster.jpg`, on S00E03C02 (clip N), text to video with no start frame, on the same terms; its first run failed and the gesture was re-described before the second, both recorded under it.
+
+A fourth chapter clip since the same day: `the-sound-under-the-gate.mp4`, with its `-poster.jpg`, on S01E00C00 (clip O), on the same terms; its first run failed and the cat's gaze was re-aimed before the second, both recorded under it, and the filed take is a near miss.
