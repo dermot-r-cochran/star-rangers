@@ -16,3 +16,5 @@ Three films referenced from the Journal since 17 November 2026, each made as a c
 
 
 The first chapter clip, referenced from a chapter since 19 November 2026: `the-last-corridor.mp4`, with its `-poster.jpg`, on S00E01C02 (clip L in `story-bible/video-prompts.md`, *Season 0 chapter clips*), generated on Grok Imagine from the chapter's still and judged from its frames. 1280×704, 24 fps, ten seconds, with Grok's own sound.
+
+A second chapter clip since the same day: `the-nine-seconds.mp4`, with its `-poster.jpg`, on S00E02C02 (clip M), the hearing chamber after the general's sentence, on the same terms; its first run failed and the prompt was tightened before the second, both recorded under it.
