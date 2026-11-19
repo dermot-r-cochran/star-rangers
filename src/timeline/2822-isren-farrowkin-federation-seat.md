@@ -8,7 +8,7 @@ major: true
 summary: "Isren Farrowkin, senior Fourfold Accord delegate for Verdance's Canopy Concord since 2819 UCSD, first holds Verdance's rotating seat in the Federation assembly."
 tags: [verdani, verdance, federation-of-sentient-beings, fourfold-accord, isren-farrowkin]
 image: "characters/isren-farrowkin.jpg"
-image_alt: "Isren Farrowkin, a Verdani delegate, seen across a bare, pale terrace room against a wall of tall glazing. A low, broad, rounded body rests on short limbs close to the floor, with no head and no face, and from it rise several very wide fern-like vanes fanned toward the light, green and veined, the daylight showing through them, rows of small dark nodes along their edges. A sunlit terrace of planting lies beyond the glass."
+image_alt: "Isren Farrowkin, a Verdani delegate, seen close and low in a pale terrace room. The top of her broad body runs along the bottom of the frame, a creased grey-green hide with pale scars and a fine nap, with no head and no face; the rest of her is out of frame. From it, each out of its own collar of skin, rise six leaf-like vanes with rows of small dark nodes along their edges: four broad and green, opened to the daylight from tall glazing at the left, and two drawn narrow and dark and bent toward a plain pale sheet, which two slender tendrils of her own skin hold up beside them, their blunt tips against it. A plain doorway with rounded corners stands open in the far wall."
 ---
 
 <article class="lore-entry">
