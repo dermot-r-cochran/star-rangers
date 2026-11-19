@@ -40,8 +40,12 @@ Running readouts on a clip (19 November 2026, for the Lúnasa film):
 
 Each panel reads its --start at the first frame plus the whole seconds of
 running time, counted from the frame index, so two panels set forty seconds
-apart stay so on every frame. --track follows each panel by template match
-and fails the take (exit 1) if one drifts more than --max-drift pixels.
+apart stay so on every frame. --track measures the camera against the first
+frame (a whole-frame affine fit) and fails the take (exit 1) if a panel
+drifts more than --max-drift pixels. Grok's "fixed camera" pushes in about
+3% over ten seconds even with the mount named (four takes, 19 November
+2026), so --stabilise warps every frame back onto the first, and
+--crop X,Y trims the black edges that leaves (about 20,11 at 720p).
 Needs OpenCV (cv2) and numpy. The output is silent; the take's own sound is
 laid back in the cut.
 """
@@ -231,9 +235,16 @@ def video_main(argv):
     ap.add_argument("--fps", type=int, default=24, help="frame rate when holding a still (default 24)")
     ap.add_argument("--width", type=int, help="scale a held still to this width first (boxes are in the scaled frame)")
     ap.add_argument("--contrast", type=float, default=0.22)
-    ap.add_argument("--track", action="store_true", help="follow each panel by template match; report drift")
+    ap.add_argument("--track", action="store_true", help="measure the camera's movement against the first frame; report each panel's drift")
     ap.add_argument("--max-drift", type=int, default=4, help="pixels of drift that fail the take (default 4)")
+    ap.add_argument("--stabilise", action="store_true",
+                    help="warp every frame back onto the first, so a camera that crept holds still; implies --track")
+    ap.add_argument("--crop", help="X,Y: trim this many pixels from each side and top/bottom after setting, "
+                                   "and scale back to the frame size (for the black edges --stabilise leaves)")
     a = ap.parse_args(argv)
+    if a.stabilise:
+        a.track = True
+    crop = tuple(int(v) for v in a.crop.split(",")) if a.crop else None
     if len(a.box) != len(a.start) or not a.box:
         ap.error("give one --start per --box")
     starts = [parse_clock(s) for s in a.start]
@@ -273,25 +284,47 @@ def video_main(argv):
             out = cv2.VideoWriter(a.output, cv2.VideoWriter_fourcc(*"mp4v"), float(rate), (im.width, im.height))
             if not out.isOpened():
                 ap.error(f"cannot write {a.output}")
-        gray = np.asarray(im.convert("L"))
+        if a.track:
+            # Whole-frame affine against the first frame (ECC, at half size,
+            # with a 30px border ignored), not a template match on the panel:
+            # a blank panel matches itself almost anywhere, which read a
+            # still wall as 8px of drift (19 Nov 2026).
+            g = cv2.GaussianBlur(np.asarray(im.convert("L").resize((im.width // 2, im.height // 2)), np.float32) / 255, (5, 5), 0)
+            if "ref" not in tmpl:
+                tmpl["ref"], tmpl["warp"] = g, np.eye(2, 3, dtype=np.float32)
+                tmpl["mask"] = np.zeros(g.shape, np.uint8)
+                tmpl["mask"][30:-30, 30:-30] = 255
+            else:
+                try:
+                    _, tmpl["warp"] = cv2.findTransformECC(
+                        tmpl["ref"], g, tmpl["warp"], cv2.MOTION_AFFINE,
+                        (cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 100, 1e-6), tmpl["mask"], 5)
+                except cv2.error:
+                    pass
+            wm = tmpl["warp"].astype(np.float32).copy()
+            wm[:, 2] *= 2  # back to full-size pixels
+            if a.stabilise:
+                im = Image.fromarray(cv2.warpAffine(np.asarray(im), wm, (im.width, im.height),
+                                                    flags=cv2.INTER_LANCZOS4 + cv2.WARP_INVERSE_MAP))
         for k, (box, s0) in enumerate(zip(a.box, starts)):
             x, y, w, h = box
             if a.track:
-                if k not in tmpl:
-                    tmpl[k] = gray[y:y + h, x:x + w].copy()
-                else:
-                    m = 12
-                    x0, y0 = max(0, x - m), max(0, y - m)
-                    win = gray[y0:y + h + m, x0:x + w + m]
-                    _, _, _, loc = cv2.minMaxLoc(cv2.matchTemplate(win, tmpl[k], cv2.TM_CCOEFF_NORMED))
-                    dx, dy = x0 + loc[0] - x, y0 + loc[1] - y
-                    drift[k] = max(drift[k], abs(dx), abs(dy))
-                    box = (x + dx, y + dy, w, h)
+                pts = np.array([[x, y, 1], [x + w, y, 1], [x, y + h, 1], [x + w, y + h, 1]], float).T
+                moved = wm.astype(float) @ pts
+                drift[k] = max(drift[k], int(np.ceil(np.abs(moved - pts[:2]).max())))
+                if not a.stabilise:
+                    cx, cy = moved.mean(axis=1) - pts[:2].mean(axis=1)
+                    box = (x + int(round(cx)), y + int(round(cy)), w, h)
             text = fmt_clock(s0 + int(t + 1e-6))
             if not shown[k] or shown[k][-1][1] != text:
                 shown[k].append((round(t, 3), text))
             inks[k], _, sigmas[k] = set_panel(im, box, text, a.contrast, ink=inks.get(k), sigma=sigmas.get(k), rng=rng)
-        out.write(cv2.cvtColor(np.asarray(im), cv2.COLOR_RGB2BGR))
+        frame = np.asarray(im)
+        if crop:
+            cx, cy = crop
+            frame = cv2.resize(frame[cy:im.height - cy, cx:im.width - cx], (im.width, im.height),
+                               interpolation=cv2.INTER_LANCZOS4)
+        out.write(cv2.cvtColor(frame, cv2.COLOR_RGB2BGR))
     out.release()
 
     for k, seq in enumerate(shown):
@@ -299,9 +332,12 @@ def video_main(argv):
         print(f"panel {k + 1}: {seq[0][1]} to {seq[-1][1]}, {len(seq)} readings; on the minute: {', '.join(turns) or 'none'}")
     if a.track:
         for k, d in enumerate(drift):
-            print(f"panel {k + 1}: largest drift {d}px ({'FAIL' if d > a.max_drift else 'holds'})")
+            if a.stabilise:
+                print(f"panel {k + 1}: the camera moved it up to {d}px; stabilised, so it holds")
+            else:
+                print(f"panel {k + 1}: largest drift {d}px ({'FAIL' if d > a.max_drift else 'holds'})")
     print(f"Wrote {a.output}")
-    return 1 if a.track and max(drift) > a.max_drift else 0
+    return 1 if a.track and not a.stabilise and max(drift) > a.max_drift else 0
 
 
 if __name__ == "__main__":
