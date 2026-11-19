@@ -29,7 +29,7 @@ Per `lib/storyline-threads.js`. Each is a self-contained narrative with its own 
 
 | Thread | Seasons | Chapters | State |
 |---|---|---|---|
-| **Founding Era** | 0 | 6 | **Complete** — 2712 departure through the 2723 signing |
+| **Founding Era** | 0 | 7 | **Complete** — 2712 departure through the 2723 signing; gained *Correctly Formed* (S00E02C03), the first chapter in Sildron Drey's viewpoint, drafted 19 November 2026 |
 | **Tissadelle Shepherd's Arc** | 1, 3, 5, 6, 7 | 55 | The spine. Ends written; middle thin (S3 eleven chapters, five in Episode 1, four in Episode 2, which opened 4 October 2026 and gained *Received* on 2 November, and two in Episode 3, *Spent*, 9 November, and *On Assumption*, 16 November); S5 gained its E00 the same day; S1 gained her first viewpoint 7 October 2026 (*Station Time*, S01E01C04) — until then no Season 1 chapter named her |
 | **Undercover Pets** | 2 | 15 | Substantial; eleven episodes |
 | **Orbital Five-O** | 4, 10 | 13 | Season 4 six chapters, two in each of E00 (the Shepherd guest, 4 October 2026, and *Nobody at the Desk*), E01 and E02; Season 10 complete at seven (the Deputy's strand five, the crew's two), closed 3 October 2026 |
