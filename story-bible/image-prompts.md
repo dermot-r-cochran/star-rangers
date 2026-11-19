@@ -5359,3 +5359,21 @@ The record is `species-design.md`, *The study round on A, and what it started*; 
 > Second, remove the thin horizontal rails and their posts that run above the low parapet. The parapet is only the low plain rounded wall; above it there is only open sky. No railing, no rail, no post, no wire.
 >
 > Do not add or move anything else. No text. Photographed, not rendered.
+
+## 2026-11-19 — S00E02C03's chapter picture (Fable, desktop)
+
+### chapters/s00e02c03.jpg — filed 19 November 2026
+- **Kind:** generation with three references, then one edit
+- **Source:** `images.md` § 88, where the prompt of record is; references `src/images/characters/sildron-drey.jpg` (her face and tunic), `src/images/chapters/s00e02c02.jpg` (the chamber) and `src/images/characters/petra-solano.jpg` (the far figure's hair and jacket), in that order.
+- **Run:** `scripts/image-edit.js`, `gemini-3.1-flash-image`, 16:9 at 2K. Round 1 of 1, two variations; variation 2 kept. Edit take 1 of 1 from variation 2, filed. `import-image.ps1 -MaxEdge 1600`, finish strength 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same hearing chamber, the same woman in the dark olive-grey tunic with exactly the same face, hair, collar stars, cuff braid, pose and hand, the same seated officers beside her, the same seated people behind, the same woman reading at the far table, the curved ledge, the seats, the floor, the window onto Mars, the framing, focus and grain. Change only three things.
+>
+> 1. The ceiling: remove the bright rectangular light panels. The ceiling is plain, the same smooth pale ochre-grey composite as the walls, with nothing set in it and no fitting of any kind; the room keeps the same soft even light.
+>
+> 2. The open book under her hand: replace it with one slim bound set of a few stiff pale matte leaves lying open and flat on the ledge, each leaf a thin rigid sheet a millimetre or two thick, like thin card or slate, not paper, with square clean edges and no curl. The leaves are completely blank: a plain even pale surface with no lines, no marks, no writing, no ruling and no printing anywhere on them. Her hand rests flat on the open leaf exactly as it does now.
+>
+> 3. The walls: remove the faint brown streaks and stains. The walls are clean and kept.
+>
+> No text, no lettering, no numerals, no screens, no glow, no new objects. A documentary photograph, not a render.
