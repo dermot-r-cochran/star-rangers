@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Earth's ring, and more of *The Long White Trail* in the record** (`src/lore/lunasa.md`, `src/lore/ascent-javelins.md`, `src/journal/the-long-white-trail.md`, `src/journal/lunasa-a-film.md`, `story-bible/`, 2026-11-19, Opus, Dermot's *"Take the ring"*, *"No polity"* and *"A future thread"*). Earth has a ring of stations at geostationary height with Lúnasa one of them: installations, not a polity or the Compact's, which is why so many Rangers work there. Lúnasa gains a docking spine, an ytterbium clock that glows faintly violet, and a repeater of Threshold's time. Carrigbawn is a named rail site and *Brightwater* a javelin. Maeve is reserved for a future thread.
+
 - **Galahad's clock line reads in full** (`src/seasons/s01/e01/s01e01c03.md`, `src/video/the-character-of-the-light.en.vtt`, 2026-11-19, Opus, Dermot's instruction). *The Character of the Light*: "The one that times the character" becomes "The one that times the character of the light", in the chapter and in the film's subtitle, so the two agree. The film's prompts in `story-bible/video-prompts.md` keep the line as it was sent.
 
 - **The Peoples and Bodies extractor follows Essaran back to the Hegemony card** (`scripts/extract-peoples.js`, 2026-11-19, Opus, found cutting 1.73.0). Essaran's page borrows `lore/cerebraun-hegemony.jpg` since Dermot's ruling of 18 November, so its rule no longer claims a portrait that agrees, and the script stopped. The rule keeps its note, which now records the removal; no reading changes.
