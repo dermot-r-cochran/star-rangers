@@ -29,7 +29,7 @@ Krast rose through Solar Command's officer track on Mars across three decades in
 
 ## Character Notes
 
-Krast's line reads, out of context, as the kind of thing said for effect. The hearing record suggests otherwise: she gave the answer unscripted, in response to a delegate's direct question about why the MSC would not convert its consultative councils into binding ones, and meant every word of it exactly as delivered. She was not being provocative. She was being, by her own lights, honest about a trade she believed the Solar System had already made once and could not survive making badly a second time.
+Krast's line reads, out of context, as the kind of thing said for effect. The hearing record suggests otherwise: she gave the answer unscripted, when the hearing chair asked her to answer the pattern of delay a delegate had just described, and meant every word of it exactly as delivered. She was not being provocative. She was being, by her own lights, honest about a trade she believed the Solar System had already made once and could not survive making badly a second time.
 
 What her line left out — deliberately or not, the hearing record does not resolve which — was the argument her outer-station critics had already made and would keep making for another quarter-century: that the Coherence Wars were not caused by democracy in the abstract, but by democratic systems captured and destabilised by interests that could not survive real accountability. Krast had the historical facts of the wars correct. She did not, on the surviving record, ever directly answer that narrower counter-argument, and it is not clear she considered it a different claim from the one she'd already refuted to her own satisfaction.
 
