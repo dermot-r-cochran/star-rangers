@@ -123,7 +123,7 @@ test("the rule table is well formed", () => {
     }
   }
   const told = PEOPLES.find(p => p.id === "the-told");
-  assert.ok(Object.values(told.portraits).every(r => r.check === "kept"), "the first warm's four frames are kept, not judged against the second warm's design");
+  assert.ok(Object.values(told.portraits).every(r => r.check === "agrees"), "the four frames were re-made on the body ruled 17 November 2026 and agree with it");
 });
 
 function fixture() {

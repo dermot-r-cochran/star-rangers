@@ -8,7 +8,7 @@ status: Active
 tags: [chthonari, undersong-belt, federation-of-sentient-beings, mathematics, undersong, skarn-system]
 description: "A Chthonari mathematician of the Undersong Belt who carries proofs as tuned resonance in rock, tutors the Federation mathematicians who come to stand on it, and holds, against much of Chthonari philosophy, that the line between a theorem and a harmony is worth keeping."
 image: "pekkat.jpg"
-image_alt: "An artist's impression of Pekkat, a Chthonari, painted in gouache and watercolour as a natural-history plate on cream paper: one low, flat oval disc of pitted slate-and-bronze hide with no head and no face, on a rough rock floor beside a tall cut rib of dark nickel-iron under dim amber light; of its six short jointed limbs, the two nearest the rib are lifted with their pads resting against it, and the other four grip the rock. Rows of small bronze sensing organs, like close-set beads, run along each limb."
+image_alt: "An artist's impression of Pekkat, a Chthonari, painted in gouache and watercolour as a natural-history plate on cream paper: one low, flat oval disc of pitted slate-and-bronze carapace with no head and no face, on a rough rock floor beside a tall cut rib of dark nickel-iron under dim amber light; of its six short jointed limbs, the two nearest the rib are lifted with their pads resting against it, and the other four grip the rock. Rows of small bronze sensing organs, like close-set beads, run along each limb."
 known_codex: [twice-and-a-remainder]
 ---
 
