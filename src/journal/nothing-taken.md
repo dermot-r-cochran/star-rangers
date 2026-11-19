@@ -12,7 +12,7 @@ On a still afternoon three goats move together in a field for no dog. Straw gets
 
 <video controls preload="none" poster="/star-rangers/video/nothing-taken-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
   <source src="/star-rangers/video/nothing-taken.mp4" type="video/mp4">
-  <track kind="subtitles" srclang="en" label="English" src="/star-rangers/video/nothing-taken.en.vtt">
+  <track kind="subtitles" srclang="en" label="English" src="/star-rangers/video/nothing-taken.en.vtt" default>
   Your browser does not support the video element. <a href="/star-rangers/video/nothing-taken.mp4">Download the film</a>.
 </video>
 

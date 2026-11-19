@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Film subtitles on by default, and on the watch pages too** (`.eleventy.js`, `src/watch/watch.njk`, `src/journal/nothing-taken.md`, `src/journal/the-character-of-the-light.md`, `src/video/`, 2026-11-19, Opus, Dermot's *"Yes, on by default"*). The watch pages had no subtitle track, so *Nothing Taken* and *The Character of the Light* showed no lines there in any player; a watch page now adds the English track wherever an `<id>.en.vtt` sits beside the film. On the Journal pages the track was off by default, which some players never offer to switch on; it is now on by default in both places.
+
 - **Three points from the critic read of #1890–#1905 settled** (`src/seasons/s03/e03/s03e03c02.md`, `story-bible/images.md`, 2026-11-18, Opus, Dermot's *"As recommended"*). *On Assumption* italicises *the dead Starwarden* where the watch's name for an officer who has gone up is introduced, so it reads as the watch's term and not a death. `images.md` records Wender's jacket as graphite, and Arashobal's ring-shaped tab and Osune's missing membrane and grooves as passed and named.
 
 - **Portraits of Essarith and Emeka Lindahl filed** (`src/characters/essarith.md`, `src/characters/emeka-lindahl.md`, 2026-11-18, Opus, Dermot's picks). Essarith's round 4, both forward eyes, a render under the 23 October Prismeri ruling, replacing the borrowed Ostrander painting; Emeka's portrait from his approved readings with no heritage named, replacing the borrowed chapter frame. Records in `images.md` § 45 and § 87.
