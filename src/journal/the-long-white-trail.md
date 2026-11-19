@@ -67,3 +67,20 @@ Three days after settling the film that low, I took one idea from it. Looking at
 What entered is narrow. Dock Seven still has its two chronometers, the station's own above the pressure seal and the other above the inner hatch. The other one now has a name: it repeats Lúnasa's time. The forty seconds are what is left of the comparison after every correction physics predicts has been made, the few microseconds a day between orbit and ground among them. So the gap is not time dilation, which the film's own caption had hinted. The lighthouse records still show the offset is older than either station: it has always lain between this shore and whatever kept the standard time of its day. What produces it is still unknown.
 
 Nothing else from the film comes with the name: no Maeve, no ring of habitats, no rail across the bay, no *Brightwater*, and no fifty-year watch. Of the objections listed above, the one about place is answered by making Lúnasa the far end of Threshold's comparison, not a second station with forty seconds of its own. Threshold's discrepancy is still one thing. The rest of the film stays where it was, an impression filed here.
+
+## Added 19 November 2026: the record moves toward the film
+
+Six days later I turned the question round. If the film stands on its own merits, and I think it does, then the record could be extended to meet it wherever that is easy, rather than the film being kept at arm's length for ever.
+
+More of it was already true than this entry said. Lúnasa had entered. A level rail along a causeway was on the [ascent javelins](/star-rangers/lore/ascent-javelins/) page. The ranks were right, the two days a reset holds are the record's own finding, and *ten years after the Last Stand* is 2841.
+
+Four things followed, each an extension and none a change to anything published:
+
+- **The ring.** Earth now has its ring at geostationary height: thousands of stations, a beaded arc low in the southern sky from Ireland that never moves, with [Lúnasa](/star-rangers/lore/lunasa/) one station in it. It is a ring of working stations below the habitat threshold, not a polity, and not the Compact's. That is also why so many Rangers are posted there.
+- **The far end of the comparison.** Lúnasa keeps a repeater of Threshold's time beside its own standard, so the same forty seconds can be read on its wall. Lúnasa has the docking spine the film shows.
+- **The bay.** Carrigbawn is a rail site on an Irish bay, and *Brightwater* is one of its javelins.
+- **The violet clocks.** Lúnasa's standard is a clock of ytterbium atoms, cooled by violet light, so they glow faintly violet behind the chamber's port. The film draws them in the open air of the room, which is still its own.
+
+Maeve is the larger question, because she is not yet anyone. She joins the watch in 2841 and speaks from 2894, and the record's present is 2826. I have reserved her for a later thread. Nothing is written about her until a chapter is, but the film is now a promise the story intends to keep, not an invention it has set aside. Her *layers* and *seam* are her own way of speaking.
+
+What still departs is short: the film's own dates, which sit after the record's present, and the clocks glowing in the room's open air.

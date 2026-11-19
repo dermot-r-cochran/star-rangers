@@ -33,6 +33,8 @@ The rail saves less than it appears to. A few hundred metres a second is a few h
 
 A rail site is a regional port. A coast's villages use it, and no village keeps one of its own. It still needs everything a cradle port needs: propellant made and stored on site, certified crews, and launches held for weather. The launch rate that pays for those is a region's, not a village's. A rail is laid only for standard javelins on worlds of Earth gravity and below, and only on the ground. It never climbs a mountainside or rises on a structure, since nothing in the record joins a surface to the sky.
 
+The record names one rail site: **Carrigbawn**, on a bay of the Irish coast, whose rail runs out along a causeway across the water. Its javelins climb toward the parking orbits from which the ring at geostationary height is reached ([Lúnasa](/star-rangers/lore/lunasa/) is one of its stations), and the record names one of them, *Brightwater*. From the far shore of the bay the trail of a dawn launch catches the sun while the water is still dark.
+
 ## The Gravity Envelope
 
 Standard javelins are rated for worlds of Earth gravity and below. The rating is not conservatism; it is arithmetic. Ascent cost climbs brutally with surface gravity: mass ratios collapse, thermal loads compound, and abort windows narrow toward zero. A little above one gravity, a chemical-cycle javelin stops being a vehicle and becomes a fuel tank with a passenger problem.

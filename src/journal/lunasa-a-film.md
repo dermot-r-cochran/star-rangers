@@ -27,7 +27,7 @@ In the first two versions the view from orbit showed the whole ring as a closed 
 
 ## Where it departs
 
-- **The ring.** The record holds no ring of habitats round Earth. The ring is in my films only.
+- **The ring.** Since 19 November 2026 the record holds Earth's ring of stations at geostationary height, with [Lúnasa](/star-rangers/lore/lunasa/) one station in it, so the ring is no longer a departure. The film's straight line through the earth is how the ring looks from its own height.
 - **The length.** The brief asked for two to three and a half minutes. This is under two.
 - **The terrace.** The sky darkens where it should pale.
 - **The climb.** It is steeper than the gentle climb the brief asked for, and the long rise seen from the terrace is cut to six seconds.

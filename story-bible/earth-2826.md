@@ -562,6 +562,22 @@ irradiated ruin as the reason a coast is lost. The record says nothing else
 about nuclear weapons, and this rule settles only what it says. Every loss of
 ground in this file is the sea's and the heat's.
 
+### The ring above (ruled 19 November 2026, Dermot's *"Take the ring"* and *"No polity"*)
+
+Earth has a ring: thousands of stations in one circle at geostationary
+height, about 35,800 km above the equator. From Ireland (about 52–55°N) the
+geostationary arc stands at most about 30° above the southern horizon, so the
+ring is a beaded arc low in the south that never moves, its points lit by the
+sun before dawn and after dusk. [Lúnasa](../src/lore/lunasa.md) is one station
+in it. Its stations are installations below the habitat threshold, run by
+their operators under a shared slot-and-traffic office, not a polity and not
+the Compact's; the Compact's habitats are in "high Earth orbit" and New London
+at Earth–Moon L5, and the record does not say whether any member sits in the
+ring. It touches no ground, so the ruling against orbital towers is not
+engaged. Traffic to it is two journeys: a javelin to a parking orbit (a rail
+site such as Carrigbawn, on an Irish bay, or a cradle port), then a transfer
+out to the ring. `intake-2026-11-19.md` has the ruling.
+
 ## Traps
 
 - **The post-apocalyptic Earth.** A nuclear winter or exchange as the cause of
