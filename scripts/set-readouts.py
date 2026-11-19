@@ -46,6 +46,10 @@ drifts more than --max-drift pixels. Grok's "fixed camera" pushes in about
 3% over ten seconds even with the mount named (four takes, 19 November
 2026), so --stabilise warps every frame back onto the first, and
 --crop X,Y trims the black edges that leaves (about 20,11 at 720p).
+--occlude lays no ink where something stands in front of a panel (a head
+turning across it), and --grain fixes the grain where a panel box takes
+in a figure. With --stabilise and no --box, a clip is only held still
+(the Lúnasa port shot).
 Needs OpenCV (cv2) and numpy. The output is silent; the take's own sound is
 laid back in the cut.
 """
@@ -174,11 +178,14 @@ def main(argv=None):
     return 0
 
 
-def set_panel(im, box, text, contrast=0.22, grain=None, ink=None, sigma=None, rng=None):
+def set_panel(im, box, text, contrast=0.22, grain=None, ink=None, sigma=None, rng=None, occlude=None):
     """Set `text` on the panel `box` of the RGB image `im`, in place.
 
     The ink colour and grain are measured from the panel unless given, so a
-    video can measure them once on its first frame and hold them steady."""
+    video can measure them once on its first frame and hold them steady.
+    `occlude` is the panel's own tone (a luminance, 0..255): where a pixel
+    is far from it, something stands in front of the panel (a head that
+    turns across it), and no ink or grain is laid there."""
     import numpy as np
 
     x, y, w, h = box
@@ -186,6 +193,14 @@ def set_panel(im, box, text, contrast=0.22, grain=None, ink=None, sigma=None, rn
     stat = ImageStat.Stat(panel)
     mean = list(stat.mean)
     lum = sum(mean) / 3
+    front = orig = None
+    if occlude is not None:
+        L = np.asarray(panel.convert("L"), np.float32)
+        clear = Image.fromarray((np.abs(L - occlude) < 28).astype(np.uint8) * 255)
+        # Grow the occluder a little and soften its edge, so no ink touches it.
+        clear = clear.filter(ImageFilter.MinFilter(5)).filter(ImageFilter.GaussianBlur(1.0))
+        front = np.asarray(clear, np.float32)[..., None] / 255
+        orig = np.asarray(panel, np.float32)
     if ink is None:
         # Matte, unlit: a step lighter on a dark panel, a step darker on a pale one.
         direction = 1 if lum < 128 else -1
@@ -199,8 +214,10 @@ def set_panel(im, box, text, contrast=0.22, grain=None, ink=None, sigma=None, rn
     rng = rng or np.random.default_rng()
     arr = np.asarray(panel, dtype=np.int16)
     noise = np.floor(rng.normal(0, sigma, (h, w)) / 3).astype(np.int16)[..., None]
-    panel = Image.fromarray(np.clip(arr + noise, 0, 255).astype(np.uint8))
-    im.paste(panel, (x, y))
+    out = np.clip(arr + noise, 0, 255).astype(np.float32)
+    if front is not None:
+        out = out * front + orig * (1 - front)
+    im.paste(Image.fromarray(out.astype(np.uint8)), (x, y))
     return ink, lum, sigma
 
 
@@ -241,11 +258,14 @@ def video_main(argv):
                     help="warp every frame back onto the first, so a camera that crept holds still; implies --track")
     ap.add_argument("--crop", help="X,Y: trim this many pixels from each side and top/bottom after setting, "
                                    "and scale back to the frame size (for the black edges --stabilise leaves)")
+    ap.add_argument("--grain", type=float, default=None, help="grain sigma in levels; default measured from each panel on the first frame")
+    ap.add_argument("--occlude", action="store_true",
+                    help="lay no ink where something stands in front of a panel (its tone departs from the first frame's)")
     a = ap.parse_args(argv)
     if a.stabilise:
         a.track = True
     crop = tuple(int(v) for v in a.crop.split(",")) if a.crop else None
-    if len(a.box) != len(a.start) or not a.box:
+    if len(a.box) != len(a.start) or not (a.box or a.stabilise):
         ap.error("give one --start per --box")
     starts = [parse_clock(s) for s in a.start]
 
@@ -272,7 +292,7 @@ def video_main(argv):
                 i += 1
 
     out = None
-    inks, sigmas, tmpl, drift = {}, {}, {}, [0] * len(a.box)
+    inks, sigmas, tmpl, tones, drift = {}, {}, {}, {}, [0] * len(a.box)
     rng = np.random.default_rng(7)
     t_first = None
     shown = [[] for _ in a.box]
@@ -318,7 +338,9 @@ def video_main(argv):
             text = fmt_clock(s0 + int(t + 1e-6))
             if not shown[k] or shown[k][-1][1] != text:
                 shown[k].append((round(t, 3), text))
-            inks[k], _, sigmas[k] = set_panel(im, box, text, a.contrast, ink=inks.get(k), sigma=sigmas.get(k), rng=rng)
+            inks[k], lum, sigmas[k] = set_panel(im, box, text, a.contrast, a.grain, ink=inks.get(k), sigma=sigmas.get(k), rng=rng,
+                                                occlude=tones.get(k) if a.occlude else None)
+            tones.setdefault(k, lum)
         frame = np.asarray(im)
         if crop:
             cx, cy = crop
@@ -337,7 +359,7 @@ def video_main(argv):
             else:
                 print(f"panel {k + 1}: largest drift {d}px ({'FAIL' if d > a.max_drift else 'holds'})")
     print(f"Wrote {a.output}")
-    return 1 if a.track and not a.stabilise and max(drift) > a.max_drift else 0
+    return 1 if a.track and not a.stabilise and max(drift, default=0) > a.max_drift else 0
 
 
 if __name__ == "__main__":
