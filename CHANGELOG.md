@@ -6,6 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The first chapter clip: *The last corridor* on S00E01C02** (`src/video/the-last-corridor.mp4`, `src/seasons/s00/e01/s00e01c02.md`, `lib/videos.js`, `story-bible/video-prompts.md`, 2026-11-19, Opus, Dermot's *"Yes, file take A"*). Clip L, run on Grok Imagine from the chapter's still: ten seconds from a fixed camera as Okafor walks the last corridor and the three at the hatch do not move. Embedded after her walk to the airlock, with a poster and a watch page; the run and the rejected take are recorded under the prompt.
 
 - **S01E00C08's picture: a composition for Isren's side, tried once, nothing filed** (`story-bible/images.md` § 61, `story-bible/image-prompts.md`, `story-bible/negative-examples/`, 2026-11-19, Fable). The terrace frame shows Ulessa attending and Isren as a plant. A new composition divides Isren's vanes, half to the sun and half bent to Ulessa. One round of four takes drew that once, but every take made her low body an Earth animal, so the 17 November frame stands. The record names the cause and the next round's revision. No body design, prose or other frame changed.
 
