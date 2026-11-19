@@ -7559,3 +7559,7 @@ The narrator of *The Long White Trail* joins Lúnasa's watch as the new Deputy i
 ## How famous Tissadelle Shepherd is in-world — `intake-2026-11-06.md` — RULED the same day, option 1
 
 Dermot asked whether she is a famous Star Ranger, a typical one the story follows as an example of a career, or a bit of each. Three options were put: (1) known inside the Corps, not famous outside it, recommended; (2) typical in reputation; (3) publicly famous. Dermot, verbatim: *"Option 1, record it"*. Recorded as a clarification on `src/characters/tissadelle-shepherd.md`, *Character Notes*.
+
+## Why the survey went to Pelagos Minor, and the seams audit — `intake-2026-11-19.md`, 19 November 2026 — settled by Fable 19 Nov 2026, his to overrule
+
+Raised by the continuity scene added to S01E03C03 (*New POV scenes for continuity between chapters*). Three readings are settled by recommendation and named in the intake: the purpose of the journey is left unstated (the alternative is that he names the tasking); the bridge is a fourth scene of C03 and not an opening to C04; and the movement order carries three names, Vale's among them. Two points from the audit are noted for him and are not decisions yet: *Stand Where You Like* (S09E01C05) reports a case the reader meets only in Season 10, which follows it; and Shepherd's plural registration, stated on her page and Tobble's, is shown in no chapter. Never without him: any reason for the journey that ties Pelagos Minor's atmospheric fault to a boundary.
