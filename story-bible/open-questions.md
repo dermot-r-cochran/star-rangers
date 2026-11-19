@@ -112,6 +112,41 @@ left as they stand.
 ---
 
 
+## Two films rethought, *Lúnasa* (D7) and *Nothing Taken* (D2) — Dermot's direction of 19 November 2026, briefs written the same day on Fable — point 1 OPEN, his to choose; points 2 and 3 briefed as recommended, his to overrule
+
+Dermot, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* And of the model: *"The Up People's First Stone fit the text as well as being watchable."* Both rethinks are in `video-prompts.md`, each under its film's entry as *Rethink, 19 November 2026*, with judging lines written first, the place fixed and the film cut into 10-second segments. Nothing has been generated, and no filed cut or Journal entry is touched until he picks.
+
+**1. *Lúnasa*: retire it, or rebrief it on the record's own station.** OPEN.
+
+Read from frames, the filed cut explains a launch in six places, draws the ring as an arch of lamps from the ground and as a row of dots ruled across the globe from orbit, and has nobody and no voice in it. It also remakes the three images of *The Long White Trail*, which he likes as it stands and which the record moved toward on 19 November.
+
+- **(a) Retire D7.** No new film. *The Long White Trail* stands as the film of Lúnasa and the ring. D7's entry is marked retired. Rough cut 3 and its Journal entry stay as the record of an experiment, with one sentence added pointing to the Trail, unless he would rather they came down. It costs nothing and risks nothing.
+- **(b) Rebrief it from inside.** One room on Lúnasa in 2826, the clock room as `src/lore/lunasa.md` now has it: the standard with its violet behind a sight port, the repeater of Threshold's time beside it, one officer seen from behind, and the Earth small in a port. The standard turns the hour, and forty seconds later by the film's own running time the repeater turns it. Three sentences of the page are heard once each. The digits are set in the cut by script, never generated, so the forty seconds are exact. It costs three stills, nine clips and a small extension of `scripts/set-readouts.py`. The brief is written in full.
+
+**Recommended: (b), behind one proof shot.** The basis: it takes nothing from the Trail, so the two no longer compete; the clock room entered the record the day this was written and no film shows it; and the forty seconds have no film set in the record's present. Its one real risk is the digits. So the wall shot with its digits is made first, alone. If the forty seconds cannot be put on screen exactly, the film stops at one clip and (a) stands.
+
+If he picks (b), two things close with it: the Journal entry's open question (the film's station is the record's Lúnasa, since it is made from that page alone), and whether a chained remake of D1 is wanted, which waits until this film has been seen, because the two share their central image.
+
+**2. *Nothing Taken*: does the film carry a voice?** Briefed as (a).
+
+The 29 October brief has no narration. In the filed cut the hinge is not legible: the door reads as an ordinary door, open.
+
+- **(a) The title exchange and two of her sentences,** each once: *Is anything missing.* / *No.* at the door; her form's line over the hinges, *One door. Opens outward; hung inward. No damage. Duration pending.*; and the chapter's last line over the empty doorway, *The instrument had a tolerance. The door did not.* Her lines are taken from one clip so that they are one voice.
+- **(b) Dialogue only,** as before. The hinge then has to be read from the picture alone.
+- **(c) Her two sentences only,** with no exchange at the door.
+
+**Recommended: (a).** The basis: the three films he likes each carry a plain voice, every word here is the chapter's, and one sentence said aloud is what makes a viewer look at the hinges.
+
+**3. *Nothing Taken*: the leaf standing out from the wall, or lying flat on it.** Briefed as (a).
+
+- **(a) Standing straight out into the yard,** at a right angle to the wall, touching nothing. It is the only position in which the hinges on the room side and the leaf outside can be in one frame, and it is nearer the chapter's *"holding there in the still air"*.
+- **(b) Flat against the outside wall,** as the 29 October brief has it. A still can hold it, as 15 November showed, but it cannot be seen from the room and reads from the yard as a door folded back.
+
+**Recommended: (a).** The chapter gives no angle, so this is staging and not canon. The fallback if a still cannot draw it is a block model of the doorway, named in the brief.
+
+Settled in the brief without a question, and named here so that he can overrule them: the house is the one in the chapter's filed picture (`chapters/s01e00c11.jpg`), and the pale block house of the 15 November stills is retired; the lane and the front step are not shown; his line at the gate is not heard; she carries no case.
+
+
 ## The body of the Told — four options put to Dermot, 17 November 2026 — RULED: B on A's coat
 
 **Ruled the same day.** Dermot, verbatim: *"B on A's coat (Recommended)"*. The

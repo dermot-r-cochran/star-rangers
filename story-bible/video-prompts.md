@@ -803,6 +803,7 @@ with the drum, the drum's ends morph, or anything on the hull glows.
 - ***Nothing Taken* (D2): the nearest.** It is faithful to S01E00C11. Its faults can be fixed in the edit and with a few new clips: the house changes from stone to panels after the first two clips, the dog turns its head, and the night-and-morning stretch is missing.
 - ***The Character of the Light* (D5): possible after polish.** The window's island and the wrong robot need new stills and clips. The flash rhythm can be fixed in the edit, and it matters more here than anywhere, because the light's timing is what the chapter is about.
 - ***Lúnasa* (D7): fails test 1, whatever the polish.** Its ring of stations exists only in his films, and whether its station is the record's Lúnasa is still open (parked for Fable). It stays reference only until both are settled.
+  *(Note, 19 November 2026: both are now settled. He ruled one station on 15 November, and the ring entered the record on 19 November, `intake-2026-11-19.md`. The film's other faults stand, and its rethink is at the end of D7's entry.)*
 
 None has the title treatment or a score yet, and none has had its sound passed.
 
@@ -1082,6 +1083,8 @@ white and the readouts vanish. One repair round on those two shots ran for an ho
 | 2 | 1:31 | 6 Nov 2026 | Rewritten brief: clean atomic clocks, digits correct; two hand shots faulty | No; kept |
 
 ### D2. Nothing Taken
+
+**Status, 19 November 2026: under rethink.** Dermot, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* A new brief is at the end of this entry, under *Rethink, 19 November 2026*: one house taken from the chapter's own picture, two mounts, the leaf standing out from the wall with its hinges seen from inside, the night and the morning restored, and two of the chapter's sentences heard once each. Nothing has been generated from it, and rough cut 1 stays filed until he picks a replacement.
 
 **Status, 17 November 2026: filed as an impression.** Rough cut 1 (1:26), made as a chain of 10-second Imagine clips with the door shots started from Gemini stills, stands as `src/video/nothing-taken.mp4`, with an English subtitle track (`nothing-taken.en.vtt`, off by default), and is shown in `src/journal/nothing-taken.md`. Dermot's ruling, verbatim: *"fine as journal impressions, but would need more polish if attached to a chapter or episode"*. So it is not linked from the chapter until a polish round. Working files and the run log: `F:\CLAUDE\Director films\D2\`.
 
@@ -1441,6 +1444,188 @@ With segment 5 cut to six seconds the chain runs 86 seconds, inside the brief's 
 **Judging the film.** As the chain subsection has it, with one addition: a clip made from a still is read at 0, 5 and 9 seconds against the still as well as against its own line, and a door leaf that has moved from where the still put it fails the take whatever else holds. Two takes a segment at most. Takes of these six segments go in the table above, with the still they started from.
 
 **Open at the time of writing.** Whether Gemini lays the leaf flat from the yard a second time, as it did for the filed frame on 1 November. Whether Imagine holds a door still for ten seconds when a figure moves beside it, or animates the leaf because it is there. Whether a frame cut at her shoulders stays cut there under a hand-held sway. Whether Gemini stands the leaf in the room on the hinge side still A gives it, and whether a viewer reads the morning's leaf in the room as the answer to the evening's empty doorway without being told. Whether Imagine speaks a supplied line in an image-to-video clip without captioning it, and what it makes of the vocative; no spoken segment has been run yet.
+
+#### Rethink, 19 November 2026, written before anything is generated
+
+**Why.** Dermot, 19 November 2026, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* Of the model, the same day: *"The Up People's First Stone fit the text as well as being watchable."* So this is a new brief for the same chapter, held to both halves of that sentence. Nothing has been generated from it (Fable). Rough cut 1 stays filed until he picks a replacement, and everything above stays as the record of how it was made. For any new run this subsection replaces the shot list, the chain and *The door from stills*. The 29 October brief's people, dress, negatives and grounding still bind, except in the two places named under *Readings* below.
+
+**What the filed cut does, read from frames.** Sixteen frames of rough cut 1 on its overview sheet (`F:\CLAUDE\Director films\D2\cut\overview.jpg`), with the run log. The audio was not heard.
+
+- **It shows the opposite of its enigma.** From 0:24 to 0:38 the leaf lies folded back against the outside wall with hinge hardware drawn down its outer edge, at the jamb. That is a picture of a door hung to open outward, open. The chapter's door is the reverse: *"Outward. On its hinges, which were on the inside, where his grandfather had hung them."* From inside, at 1:10, the doorway is simply empty, because a leaf lying flat on the outer wall cannot be seen from the room. So no frame of the film holds the hinges and the door together, and a viewer who has not read the chapter sees an open door.
+- **The place does not hold.** There are three houses: a rough stone gable under slate (0:00 to 0:20), small pale blocks under a dark roof (0:24 to 0:38), and large flush panels (0:42). There are two doorways, narrow at 0:24 and wide with a dark frame at 0:48. None is the house of the chapter's own filed picture, `chapters/s01e00c11.jpg`. His coat is slate at 0:24 and pale at 1:20.
+- **The night and the morning are missing.** The film cuts from dusk to a man walking out. The door open in the dark, the bowl out, the milk, the sweeping and the brush put back are not in it.
+- **She arrives backwards.** At 0:42 she is seen from behind on the lane with the mast ahead of her, which reads as someone walking up the hill and away.
+- **It never settles.** Nine shots from six mounts in 86 seconds, joined hard, and the one act the Ranger is there for, writing it down, is never seen.
+- **What works, and is kept.** The look he liked on 16 November: matte, grey natural light, held mounts, figures from behind. And the two shots from inside the door at 1:10 and 1:20, which answer each other from one place. The rethink is built on that pair.
+
+**The judging lines, written first.** The film fails if any one of these is true.
+
+1. **The hinge is not legible.** Shown the evening frame from inside the room, cold, a reader who has not read the chapter cannot say which side the door was hung to open to and which side it is on now. The image critic is asked exactly that of the still before any clip is made from it.
+2. **The place changes.** The house, the yard wall, the doorway, the field or the mast differs between any two shots, or from `chapters/s01e00c11.jpg`. Either person's dress changes, his coat in the sun included.
+3. **The door moves, or is hurt.** In any shot the leaf swings, drifts or trembles, shows a mark, or has a hinge drawn on its outside. Through the afternoon, the evening and the night it stands outside, straight out from the wall. In the last two shots it stands inside the room.
+4. **The still air is broken.** Anything but the straw moves on the afternoon; anything is seen in, behind or after the straw; the straw is a funnel or a column of dust.
+5. **A face resolves,** an eye, a nose or a mouth, of either person.
+6. **The night or the morning is missing:** the door out in the dark with the bowl on the stone; the dog at the milk; the sweeping.
+7. **A word is added.** A line is spoken that this brief does not give, a given line is spoken twice, or her lines come in more than one voice.
+8. **It does not end on the mast,** small on the ridge, seen through the door that has come in.
+9. **It hurries.** A shot is on screen for less than eight seconds, the night for less than ten, or the film runs under two minutes.
+10. **The Ranger's dress.** She wears anything but the olive shell and one barred tab, or carries a latched or hard-shell case.
+
+And one line for *watchable*: someone who has not read the chapter can say afterwards, in a sentence, what happened. A door opened the wrong way for a day, and nothing was taken.
+
+**The place, fixed.** One holding, two mounts, and no shot from anywhere else.
+
+- **The reference.** The chapter's own filed picture, `src/images/chapters/s01e00c11.jpg`, is attached to every master still and governs the house, the yard and the hill: walls of large cast pale-grey panels, a dark seamed roof, grey conduits under the eave, the drone in its cradle on the gable, one plain dark door with a recessed pull on its left edge, a brush standing against the wall, paving, a waist-high cast yard wall, the top field with slim sensor posts and no wire, one slim pale mast on the ridge. A still whose house is not plainly that house fails, whatever else it gets right. The pale block house of the 15 November stills is retired with them.
+- **The yard mount.** The filed picture's own: a fixed camera in the yard, looking along the back wall to the gable, with the door, the yard wall, the top field and the mast all in one frame. Every outdoor event of the chapter happens in that frame.
+- **The room mount.** A fixed camera inside the back room at chest height, some paces back from the back door and toward its latch side, looking out through the doorway across the yard to the yard wall, the foot of the top field and the mast on the ridge. It is the mount of the kept morning still of 15 November (`d2-door-d\v3.jpg`), moved a pace to the right so that the hinge-side jamb shows its inner face.
+- **The door.** The pull is on the leaf's left edge from the yard, so the hinges are on the left jamb as the room mount sees it. They are his grandfather's: three plain dark hinges, old and kept, their knuckles standing proud on the room side of the jamb. For the one day the leaf stands outside, straight out into the yard from that same jamb, at a right angle to the wall, touching nothing. From the room the frame then holds both facts at once: the three hinges on this side, folded as they lie when the door is shut, and the leaf out there, beyond the threshold. In the morning the leaf stands in the room, swung in on those hinges and resting against the inside wall.
+
+**Readings, offered and not required.** None is canon. The first two change the 29 October brief for this run, and are his to overrule.
+
+- **The leaf stands out from the wall; it does not lie flat on it.** The 29 October judging line fails a leaf that *stands at an angle to the wall*. That was staging, chosen because a flat leaf was the one a still could hold. The chapter gives no angle. It says the door was *"open the wrong way on them and holding there in the still air"*, and a leaf standing in the open with nothing to hold it is nearer those words than one resting on a wall. It is also the only position that can be seen from the room with the hinges.
+- **Two of her sentences are heard as a voice.** The 29 October brief has no narration. This one has her form's line for the door, and the chapter's last line, each said once (see *The voice*). The filed films he likes carry a plain voice, and the hinge needs one sentence said aloud. This is put to him in `open-questions.md`.
+- **No lane.** She is first seen far up the hill and then at the door. The lane was a third mount, and both takes of it brought her to the lens.
+- **His line at the gate is not heard.** *You'll want the door, a Mhaoir* is the chapter's, and it is left out so that the film has four spoken lines and no vocative for a generator to mangle.
+- **The swing is not shown,** in either direction, for the reason of 15 November: a door holds only as a held state. The door's going out and its coming in both happen in a cut.
+- **The front step is not shown.** *"The dog across the front step, which was the dog's own custom and had no form at all"* is at the other side of the house. The dog is seen in the morning, at the milk, by the back step. If he wants the dog's custom in the film, it is one more held shot from a third mount, and the first thing to add.
+- **She carries no case.** Every still of 15 November that was asked for one drew a stock case.
+
+**The voice.** Four spoken lines in three places, each said once, and nothing else.
+
+| Where | Who | The words | From |
+|---|---|---|---|
+| Segment 8, at the door | Hers, then his, off camera | *Is anything missing.* / *No.* | The chapter's dialogue |
+| Segment 9, over the hinges | Hers, as a voice | *One door. Opens outward; hung inward. No damage. Duration pending.* | Her form, as she wrote it |
+| Segment 15, over the empty doorway | Hers, as a voice | *The instrument had a tolerance. The door did not.* | The last line of her block |
+
+Her three pieces are one voice: plain, level, not performed. No face is ever shown, so no line needs a mouth. All of hers are taken from one clip and laid in the cut where the table puts them. The sound is still Grok's own, moved and not replaced. The subtitle track carries these exact words. Whether the voice is right is for his ear.
+
+**The stills.** Gemini, by `node scripts/image-edit.js`, 16:9, kept beside the takes in `F:\CLAUDE\Director films\D2\rethink\`, outside the repository, and judged by the image critic before the next is made. There are two masters. Every other still is an edit of a kept one that names only what changes and ends *keep everything else exactly as it is*, which is the method that fixed a fault every time on 15 November. No child is in any still or segment, and none is to appear (`CLAUDE.md`, *A child is pictured grown*). Nothing is lettered.
+
+*Master 1, `d2r-yard-up`, the yard on the afternoon.* An edit of the filed chapter picture itself, with that picture attached:
+
+> Keep this photograph exactly as it is: the house, the roof, the conduits, the drone in its cradle, the shut dark door, the brush, the paving, the yard wall, the hill, the sensor posts, the mast, the grey light, and the loose column of straw standing in the air by the gable. Change one thing only. Across the field just beyond the three goats runs a low pale wall of the same cast panels as the yard wall, and the three goats stand bunched close against it. Add nothing else: no person, no dog, no fourth goat, no wire, no lettering. Keep everything else exactly as it is.
+
+*Master 2, `d2r-room-him`, the room on the afternoon.* Three pictures attached: the filed chapter picture, the kept `d2r-yard-up`, and the kept morning still of 15 November (`d2-door-d\v3.jpg`).
+
+> A single frame of documentary footage recorded inside the world by a fixed 29th-century camera, a photograph, 16:9, available light only, deep shadow with detail kept in it. Three reference images are attached. The first two show the house from its yard: take from them the cast pale-grey wall panels, the plain dark door leaf with its narrow recessed pull, the paving, the waist-high cast yard wall, the hill field with slim sensor posts and no wire, and the one slim pale mast on the ridge. The third shows a room of that house looking out through its back door: keep that room, its pale floor and plain walls, and the man seen from behind, and move the camera one pace to the right. The scene: a small upland goat holding in the year 2826, clean and well kept, on a dead-still late-autumn afternoon under flat grey overcast; the daylight in the doorway is the only light. The camera is inside the back room at chest height, some paces back from the doorway and to the right of its centre, so that the left jamb of the doorway shows its inner face. On that inner face, on the room side, are three plain dark hinges, old and well kept, one above another, their knuckles standing proud and catching the grey light, each folded flat as a hinge lies when its door is shut. No door hangs from them inside the room. The door is outside: a single smooth dark matte leaf with a fine close grain stands beyond the threshold, straight out into the yard from the left side of the doorway at a right angle to the wall, upright and at rest, touching nothing, with no mark on it. Through the doorway it is seen as a tall dark panel running away from the camera along the left of the view. Beyond it are the paving, the yard wall, the foot of the hill field, and the mast small on the ridge under the grey sky. One man stands in the room a pace short of the threshold, at full length, his back to the camera: lean, in his forties, bareheaded, short dark hair greying at the temples, a plain dark slate-grey field coat that ends at the hip, plain dark trousers and boots, a plain earthenware bowl of milk held in both hands in front of him. Nothing is in motion and the air is still. No text, letters or numbers anywhere; nothing glows and no lamp is lit; no door leaf anywhere inside the room; no hinge on the outside of the wall or on the leaf's outer edge; no second door; he is the only person and no animal is in frame; no bowl on the step; no furniture, tools or screens; no rust, grime or clutter.
+
+*It fails if* a leaf is in the room; the leaf outside lies flat on the wall or is missing; the hinges are missing, are on the right jamb or are anywhere outside; the house or yard is not plainly the reference's; any part of his face shows; or the cold reader of judging line 1 cannot answer. If two rounds of edits cannot stand the leaf outside with the hinges inside, the fallback is a block model: the room, the doorway, three hinges and a leaf at a right angle, built in Blender to these measurements and made photographic by one image edit with the same three references (`scripts/blockouts/` is the precedent). A doorway is plain geometry, and a model cannot swing the leaf into the room.
+
+The other ten stills, each an edit of a kept one:
+
+| Key | Edit of | Change only | Starts |
+|---|---|---|---|
+| `d2r-yard-before` | `d2r-yard-up` | No straw in the air: it lies in a loose heap by the gable. The three goats graze apart, lower in the field | Segment 1 |
+| `d2r-yard-door` | `d2r-yard-up` | No straw in the air: it lies in a line along the yard wall. The goats graze apart. The door is open: the doorway is dark, and the leaf stands straight out into the yard from the right-hand side of the doorway, at a right angle to the wall, no hinge on its outside | None; the base of the next six |
+| `d2r-yard-bowl` | `d2r-yard-door` | A lean man in a dark slate-grey hip-length coat, short dark greying hair, crouches at the stone by the back step from outside, his back to the camera, setting an earthenware bowl of milk on the stone | Segment 6 |
+| `d2r-yard-hill` | `d2r-yard-door` | The last grey light before dark. The bowl stands on the stone. Far up the hill beside the field, near the mast, one very small figure in deep olive | Segment 7 |
+| `d2r-yard-her` | `d2r-yard-hill` | No figure on the hill. A compact, square-shouldered woman in a thin matte deep olive field shell, black braids bound at the nape, stands at the standing leaf with her back to the camera, one hand flat on its face, a thin pale blank sheet low in the other | Segment 8 |
+| `d2r-room-her` | `d2r-room-him` | The last grey light. The man is gone. That woman stands where he stood, her back to the camera, the pale sheet low in one hand. Outside, the bowl of milk stands on the stone step in the middle of the way out | Segments 9 and 10 |
+| `d2r-yard-night` | `d2r-yard-hill` | Night under cloud, no moon and no star, no lit window: the frame near dark, with the pale panels, the paving and the milk in the bowl just holding. No figure anywhere | Segment 11 |
+| `d2r-yard-dog` | `d2r-yard-night` | Early on a clear morning, low sun and long shadows. A dark rough-coated dog stands at the bowl on the stone with its head down to the milk | Segment 12 |
+| `d2r-yard-sweep` | `d2r-yard-dog` | No dog and no bowl. The man, his back to the camera, stands in the yard with the brush in both hands, its head on the paving | Segment 13 |
+| `d2r-room-morning` | `d2r-room-him` | Early on a clear morning: low sun through the doorway in a long patch on the floor. The leaf is no longer outside. It stands inside the room, swung in on its three hinges and resting against the wall on the left. His hands are empty. The step is bare | Segments 14 and 15 |
+
+Each fails on the lines above that touch it, and on any change the edit was not asked for.
+
+**How the film falls.** Fifteen clips of 10 seconds, 720p, 16:9, sound on, each starting from a still or from the last frame of the clip before. About 2 minutes 20 seconds; accept 2:00 to 2:40.
+
+| Segment | Mount | Start | The one motion | Heard |
+|---|---|---|---|---|
+| 1 | Yard | `d2r-yard-before` | The three goats lift their heads, walk together to the far wall and stand bunched against it | Hooves on turf |
+| 2 | Yard | Last frame of 1 | The straw by the gable gets up off the ground and stands turning, the height of a man | Dry straw |
+| 3 | Yard | `d2r-yard-up` | The straw goes along the yard wall and over it, lies down along the wall, and stays | Dry straw, then nothing |
+| 4 | Room | `d2r-room-him` | His head turns to the hinges, goes down the three of them, and comes back to the leaf outside | The quiet of the room |
+| 5 | Room | Last frame of 4 | He takes one half-step back from the threshold and stands. He does not go through | One footfall |
+| 6 | Yard | `d2r-yard-bowl` | His hands leave the bowl; he straightens and stands with his head bowed | The bowl on stone |
+| 7 | Yard | `d2r-yard-hill` | The small figure comes down the hill, and is still far beyond the yard wall at the end | Nothing |
+| 8 | Yard | `d2r-yard-her` | Her hand rests on the leaf, draws back and falls | *Is anything missing.* / *No.* |
+| 9 | Room | `d2r-room-her` | Her head turns to the hinges and goes down the three of them, as his did | The form's line, laid in the cut |
+| 10 | Room | Last frame of 9 | She walks out through the doorway, steps over the bowl without looking down, and stops a pace beyond it with her head a little bowed | Boots on stone; her words at the door are not picked up |
+| 11 | Yard | `d2r-yard-night` | Nothing. The leaf stands out in the dark | The night |
+| 12 | Yard | `d2r-yard-dog` | The dog laps, lifts its head and walks off toward the gable | Lapping |
+| 13 | Yard | `d2r-yard-sweep` | He sweeps the paving in short strokes, working away from the lens | The brush |
+| 14 | Room | `d2r-room-morning` | He walks out through the doorway without slowing and on across the yard, away from the lens | His steps |
+| 15 | Room | Last frame of 14 | Nothing. The doorway is empty, the leaf is in the room, and the mast is small on the ridge | The chapter's last line, laid in the cut |
+
+Segment 7 is the first to drop if the film runs long, and segment 5 the second. Segment 11 may be extended once if it holds. The two halves of the day are joined by the cut into segment 11 and the cut out of it; every other cut falls where nothing is moving.
+
+**Prompts to paste.** Each is pasted as one line with its start image attached: the segment's paragraph, then the shared tail. Any *this does not move* clause comes first, as D7's run taught.
+
+*Shared tail, every segment:*
+
+> Footage recorded inside the world by a fixed camera, 16:9, one unbroken take, no cut, no pan, no zoom, the frame alive only with the faintest tremor of the mount. A small upland goat holding in the year 2826, clean and well kept. The air is dead still: no wind in grass, hair or cloth, and nothing stirs that this prompt does not name. The sky is the only light; nothing glows and no lamp is lit. No text, letters, numbers, captions or subtitles. No music and no narration. No person and no animal anywhere in frame beyond those named here; nothing on the ridge but the one mast. No face is seen at any moment.
+
+*Segment 1.*
+
+> Animate the attached image as its first frame and change nothing in it. The house door stays shut and the straw on the ground does not stir. There are three goats and only three. The one motion: after a few seconds all three lift their heads and walk together, close and unhurried, up the field to the low wall on its far side, and stand bunched against it, as goats go for a herding dog, though nothing drives them. No dog and no person is in frame. Sound: hooves on turf in open-air quiet.
+
+*Segment 2.*
+
+> Continue from the attached image as the first frame and change nothing in it. The three goats stand bunched at the far wall and do not move, and the house door stays shut. The one motion: the loose straw on the ground by the gable gets up off the ground by itself and stands turning slowly in the still air, a loose open skirt of straws about the height of a man, thin enough to see the wall through it. It stays by the gable. Nothing is in it, behind it or under it: no figure, shape, shadow or light, no dust, no funnel. Sound: dry straw whispering.
+
+*Segment 3.*
+
+> Animate the attached image as its first frame and change nothing in it. The three goats stand bunched at the far wall and do not move, and the house door stays shut. The one motion: the standing skirt of straw goes unhurried along the yard wall, away from the gable, then over it, and lies down in a line along the wall and stays there, still, for the last seconds of the take. Nothing is in it, behind it or after it: no figure, shape, shadow or light, no dust, no funnel. The camera does not follow it. Sound: dry straw, then silence.
+
+*Segment 4.*
+
+> Animate the attached image as its first frame and change nothing in it. The door leaf standing outside does not move at any moment: it does not swing, close, drift or tremble. The three hinges on the jamb do not move. One man stands in the room with his back to the lens, a bowl of milk in both hands. The one motion, small and slow: his head turns a little to the left, toward the hinges, and goes down them from the top one to the lowest, then lifts again toward the leaf outside, and he is still. He does not turn to the lens, does not step forward and does not touch anything; the milk stays level. Sound: the quiet of a room.
+
+*Segment 5.*
+
+> Continue from the attached image as the first frame and change nothing in it. The door leaf standing outside does not move at any moment, and the three hinges do not move. The man stands with his back to the lens, the bowl in both hands. He stays so for some seconds. The one motion: he takes one half-step straight back from the threshold, toward the lens and without turning, and stands. He does not go through the doorway and does not touch the door. Sound: one footfall, then quiet.
+
+*Segment 6.*
+
+> Animate the attached image as its first frame and change nothing in it. The door leaf standing out from the wall does not move at any moment, and the straw along the yard wall lies still. One man crouches at the stone by the back step with his back to the lens. The one motion: his hands come away from the bowl and leave it standing on the stone; he straightens slowly and stands where he is, his back still to the lens, his head bowed, and does not walk. He does not go into the doorway. Sound: earthenware set on stone, then quiet; no word is heard.
+
+*Segment 7.*
+
+> Animate the attached image as its first frame and change nothing in it. The door leaf standing out from the wall does not move at any moment; the bowl stands on the stone; the yard is empty. In the last grey light one very small figure in deep olive is far up the hill beside the field. The one motion: the figure walks down the hill toward the holding at an even pace, a little larger at the end of the take and still far beyond the yard wall, too small and too dim for a face. It does not reach the yard. Sound: almost nothing.
+
+*Segment 8.*
+
+> Animate the attached image as its first frame and change nothing in it. The door leaf does not move at any moment, however it is touched: it does not give, swing or tremble. One woman stands at it with her back to the lens, one hand flat on its face, a thin pale sheet low in her other hand. The one motion, small and slow: her hand rests on the leaf a moment longer, then draws back and falls to her side. She does not turn and does not walk. While she stands she says once, level and quiet: "Is anything missing." A man's low voice, off camera and near, answers once: "No." No other word is spoken and the man is never seen. The sheet is blank, matte and unlit. Sound: the two lines and the quiet round them.
+
+*Segment 9.*
+
+> Animate the attached image as its first frame and change nothing in it. The door leaf standing outside does not move at any moment, and the three hinges do not move. One woman stands in the room with her back to the lens, a thin pale sheet low in one hand. The one motion, small and slow: her head turns a little to the left, toward the hinges, and goes down them from the top one to the lowest, and she is still. She does not turn to the lens and does not walk. Sound: the quiet of a room; no word is spoken.
+
+*Segment 10.*
+
+> Continue from the attached image as the first frame and change nothing in it. The door leaf standing outside does not move at any moment, and no leaf comes into the doorway. A bowl of milk stands on the stone step outside, in the middle of the way out. The one motion: the woman walks straight away from the lens out through the doorway, steps over the bowl on the stone without pausing and without looking down, and stops one pace beyond it, her back to the lens and her head a little bowed. She does not turn, and is never side-on to the lens. The bowl is not touched and the milk stays still. Sound: boots on the floor and on stone, then quiet; no word and no whisper is heard.
+
+*Segment 11.*
+
+> Animate the attached image as its first frame and change nothing in it. Nothing in this frame moves at any moment: the door leaf standing out from the wall, the bowl on the stone, the brush against the wall, the field, the cloud. It is night, near dark, with no moon, no star and no lit window, and it stays exactly this dark. There is no motion but the grain and the faintest tremor of the mount. Nobody and no animal comes. Sound: the night, very quiet.
+
+*It fails if* anything moves or any light comes. If two takes both invent a motion, the still is held in the cut for ten seconds under the sound of the better take.
+
+*Segment 12.*
+
+> Animate the attached image as its first frame and change nothing in it. The door leaf standing out from the wall does not move at any moment. It is early on a clear still morning, low sun and long shadows. One dog stands at the bowl on the stone with its head down. The one motion: the dog laps the milk for some seconds, lifts its head, and walks unhurried away along the wall toward the gable, away from the lens. It does not look at the door. Nobody is in frame. Sound: lapping, then paws on paving.
+
+*Segment 13.*
+
+> Animate the attached image as its first frame and change nothing in it. The door leaf standing out from the wall does not move at any moment. One man stands in the yard with his back to the lens, a brush in both hands; his coat stays the same dark slate-grey in the sun. The one motion: he sweeps the paving in short even strokes, working slowly away from the lens toward the yard wall, his back to the lens the whole time. He does not turn. No dog and no bowl is in frame. Sound: a brush on stone.
+
+*It is not failed if* he also stands the brush back against the wall; the chapter has that too (*"He put the brush back where it stood"*), and a second motion is not asked of one clip.
+
+*Segment 14.*
+
+> Animate the attached image as its first frame and change nothing in it. The door leaf stands inside the room against the wall on the left and does not move at any moment: it does not swing, close, slide or tremble. The three hinges do not move. The doorway is clear and the step outside is bare. One man stands in the room with his back to the lens, his hands empty; his coat stays the same dark slate-grey in the sun. The one motion: he walks out through the doorway at an even pace, without slowing on the threshold and without touching the door, and straight on across the yard away from the lens, growing smaller, his back to the lens the whole way. He does not turn or look back. No lens flare. Sound: his steps on the floor, on stone and on the paving.
+
+*Segment 15.*
+
+> Continue from the attached image as the first frame and change nothing in it. Nothing in this frame moves at any moment: the door leaf standing inside the room, the three hinges, the patch of sun on the floor. The doorway is empty and nobody comes back into it. Beyond it are the yard, the yard wall, the hill field and one slim pale mast, small on the ridge, unlit. There is no motion but the grain and the faintest tremor of the mount. Sound: a morning, very quiet; no word is spoken.
+
+**Judging the film.** Each still by the image critic, century first. Each take from frames at 0, 5 and 9 seconds against its still and against the judging lines, then the joins, then the whole against all ten lines and the line for *watchable*. Two takes a segment at most; a segment that fails twice on one cause is re-staged here before a third is run. Generating is a desktop step on Opus.
+
+**What it leaves out, and says so.** His line at the gate and her four questions. The shears on the wrong peg. The front step. Her walk down at the hour the next day. The fifty-one seconds, which the film never explains: the last line is left to stand on the picture, the door in the room and the mast on the ridge.
+
+**Open at the time of writing.** Whether a still can stand the leaf outside with the hinges inside, which eight text-only tries could not do on 31 October and no edit has yet been asked to. Whether Imagine holds a frame with no motion asked of it (segments 11 and 15). Whether one clip gives all of her lines in one voice. Whether the dog, alone in its frame with nothing happening behind it, leaves the door alone.
 
 ### D3. Left Blank
 
@@ -2289,6 +2474,8 @@ and the narration stays unverified.
 
 ### D7. Lúnasa
 
+**Status, 19 November 2026: under rethink, with a choice that is his.** Dermot, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* Under *Rethink, 19 November 2026* at the end of this entry are two shapes: (a) retire D7 and let *The Long White Trail* stand as the film of Lúnasa and the ring, or (b) a new brief on the record's own Lúnasa, one room, the clock room, with forty seconds waited out in the film's running time. (b) is recommended, behind one proof shot, and is written in full. The choice is indexed in `open-questions.md`. Nothing has been generated, and rough cut 3 stays filed until he picks.
+
 **Status, 17 November 2026: filed as an impression.** Rough cut 3 (1:49) stands as `src/video/lunasa.mp4` and is shown in `src/journal/lunasa-a-film.md`. It is wordless, so it has no subtitle track. Dermot's ruling, verbatim: *"fine as journal impressions, but would need more polish if attached to a chapter or episode"*. Still open, and parked for Fable: whether the station the film climbs to is the record's Lúnasa or has diverged enough to be renamed. Working files and the run log: `F:\CLAUDE\Director films\D7\`.
 
 | Version | Length | Date | Changed from the last | Filed |
@@ -2670,6 +2857,156 @@ Each round is judged by the image critic against the still's line above before t
 |---|---|---|---|---|---|
 
 Nothing has been generated: no still and no take.
+
+#### Rethink, 19 November 2026, written before anything is generated
+
+**Why.** Dermot, 19 November 2026, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* Of the model, the same day: *"The Up People's First Stone fit the text as well as being watchable."* And of the film this one remade: *"I also very much like the Up People's First Stone and The Long White Trail … in the current versions as shown in the journal."* Two things have changed since rough cut 3 was made. The record moved toward the Trail on 19 November (`intake-2026-11-19.md`): Earth's ring is canon, and the Lúnasa page has a clock room, a violet light behind a port, a repeater of Threshold's time and a docking spine. And the Trail itself, which he likes as it stands, is already the film of the bay, the rail, the trail and the ring. Nothing below has been generated (Fable). Rough cut 3 stays filed until he picks.
+
+**What the filed cut does, read from frames.** Sixteen frames of the filed rough cut 3, one every seven seconds, on a sheet made on 19 November from `src/video/lunasa.mp4`, with the run log. The audio was not heard.
+
+- **It explains a launch.** A terrace, a rail, a lift-off, a trail, a port, the Earth: six places in 109 seconds, in the order of a journey. Nobody is in it and nothing is said. It answers *how does one get there*, which nobody in the record is asking.
+- **The ring is drawn as decoration.** From the terrace it is a high, even arch of large, equally bright dots that spans the whole frame and peaks near its top. The settled look is a low arc a third of the way up the southern sky, pearls with much fainter points between them, crowding into a thread toward each horizon.
+- **The craft becomes a rocket.** Seen from the terrace it leaves the far shore on a thick bright trail, steeply.
+- **From orbit, the line is ruled across the globe.** The Earth is small in the port, and a straight row of dots runs across its face. The far half of a ring passes behind the Earth, and from a station in the ring no other station lies in front of the globe. So the row reads as a rule drawn on the picture, and the station as a dark blot that grows.
+- **It competes with a film he prefers.** The terrace, the trail and the ring are *The Long White Trail*'s three images, here without its voice.
+- **What works, and is kept.** The deep round port in a pale surround, the stillness, and the Earth small in the port.
+
+**The choice, which is his.** Two shapes, put to him in `open-questions.md`.
+
+- **(a) Retire D7.** No new film. *The Long White Trail* stands as the film of Lúnasa and the ring, which since 19 November it very nearly is in the record too. This entry is marked retired, and rough cut 3 stays in the Journal as the record of an experiment unless he says otherwise.
+- **(b) Rebrief it on the record's own Lúnasa,** from inside, as below. It remakes nothing of the Trail's. It shows the one thing the Trail cannot, the far end of the comparison in the record's present, with the light behind the port where the page puts it.
+
+**Recommended: (b), behind one proof shot.** The basis: the page gained its clock room on the day this was written, no film shows it, and the forty seconds, the premise of the whole work, have no film in the record's own present. The risk is one thing, the digits (see *The digits*). So segment 3 is made first and alone. If the forty seconds cannot be put on screen exactly, the film stops there and (a) stands.
+
+**Title and length.** *Lúnasa.* About 1 minute 30 seconds; accept 1:20 to 2:00.
+
+**What it is.** One room on Lúnasa in 2826 UCSD: the clock room, one officer, and forty seconds waited out in the film's own running time. Its text is `src/lore/lunasa.md`, *The Clock Room* and *The Forty Seconds*. There is no terrace, bay, rail, craft, trail, launch or docking in it, and nobody from the Trail.
+
+**What arrives.** A film he can watch needs something to wait for. Lúnasa's standard turns the hour. Forty seconds later by the viewer's own count, the repeater of Threshold's time turns the same hour, beside it, and both run on. Nothing else happens, and nothing is explained.
+
+**The judging lines, written first.** The film fails if any one of these is true.
+
+1. **The forty seconds are not exact.** The right-hand readout does not turn the hour forty seconds of running time after the left-hand one, to the frame; or either readout stalls, skips, jumps at a cut or shows a malformed digit.
+2. **Something glows that would not.** Anything gives light but the atoms behind the sight port and the Earth in the round port. The violet is in the room's open air, or is a column or a beam. A readout glows. A face or a hand is lit by a readout.
+3. **The Earth moves.** It turns, wheels or drifts in the port. Or the line of the ring moves, turns, closes into a loop, crosses the face of the globe, or reads as a band, a hoop or a string of lights (large, warm, twinkling or all equally bright).
+4. **A person is someone.** A face resolves; a name or a rank is given; a second person appears; the officer is old enough or young enough to be read as the Trail's narrator.
+5. **The room takes a side on weight.** Anything floats or falls, or anyone walks.
+6. **A word is added.** A sentence is spoken that this brief does not give, one is spoken twice, the three come in more than one voice, or a caption is burned in.
+7. **It leaves the room.** Any shot from outside the station, or of a craft, a launch, a shore or a terrace.
+8. **The room is our century's, or a film set's.** A bank of screens, a dial, a cable, a rivet, a switch, a status light, grime.
+9. **It does not end on the Earth,** small in the port across the room.
+
+And one line for *watchable*: someone who has not read the page can say afterwards what the two readouts are, that they are forty seconds apart, and that they stayed so.
+
+**The place, fixed.** One room and one wall. The camera never leaves the room, and everything the film is about is on the wall it faces.
+
+- **The room.** Small, plain and kept: pale matte composite, walls and floor meeting in a rounded cove, no signage, light in it from no visible fitting, low and even.
+- **The standard.** On the left of the far wall, set into it: a sealed housing of the same pale composite with one small round sight port, above head height. Behind the port, deep in the dark of the chamber, is a small faint violet glow, no bigger than a pea, which comes up and fades as the chamber loads. *"That is the one light in the room."* Under the port is the standard's readout: a matte, unlit panel, pale, read by the room's light like a page.
+- **The repeater.** Beside it on the right, at the same height, hangs a second panel of the same kind and size, alone, with no port and no housing: Threshold's station time.
+- **The port.** Further right on the same wall, apart from the two panels, one deep round port in a pale surround. In it is the Earth, small and partly lit.
+- **The bench.** Under the two panels, a plain bench with a rail along its front edge and one thin matte sheet lying on it.
+- **The officer.** One adult of the Survey Corps on duty, at the bench below and between the two panels, back to the lens, one hand closed on the rail: a matte deep olive field shell with a high soft collar and nothing on its back, hair bound close at the nape. The record gives nobody at Lúnasa, so this is nobody: unnamed, unranked, of no age the eye can fix.
+- **Three framings of that wall, and no other shot.** *The room*: from the back of the room at chest height, the whole wall and the officer. *The wall*: square-on and closer, the sight port and the two panels filling the frame, nobody in it. *The port*: the round port alone, the Earth in it.
+
+**From the record, and offered.** A brief binds what the record fixes, and the rest is offered (the 7 November rule).
+
+- *From the page:* the station and its duty; the ytterbium standard read behind a port and its violet; the repeater hanging beside it; that the same two times are read here as on Dock Seven; forty seconds, which neither grow nor shrink; that neither clock is wrong.
+- *Offered, and not on record:* that the room has a port; the bench and the sheet; the officer; the hour that turns (04:00:00, and any hour would do). Which end leads is not stated on any page; the film follows the Season 1 banner and brief D1, where the repeater of Lúnasa's time reads forty seconds ahead of Threshold's own, so here the standard turns first.
+- *Kept open on purpose:* whether the room has weight. The page says the station's shape and size are not on file, and a room that spun for weight would wheel the Earth round in its port. So nobody walks, nothing is set down and nothing hangs loose, and the frame says nothing either way.
+- *Not shown, so nothing is owed:* the station from outside, the docking spine, the ring's other stations as shapes. No sheet in `starship-design.md` is needed for a film that never leaves one room.
+
+**The digits.** No generator is asked for a numeral, in a still or in a clip. Both readout panels are blank in every still and every take. The times are set in the cut, on every frame in which a panel shows, in the stroke font `scripts/set-readouts.py` draws, dark on the pale panel, as *hours:minutes:seconds*. They are computed from the film's own running time, so the forty seconds are exact by construction and no cut can break them: at running time *t* seconds the left-hand panel reads 04:00:00 plus (*t* minus 28), and the right-hand panel reads forty seconds less. The script sets one frame today; a clip needs it run frame by frame with the time advanced, a small extension that is tooling and is written first, tried on the wall still held for ten seconds before a Grok take is spent. The wall framing is square-on so that each panel is a plain rectangle, and the mount in those shots must hold: a take in which a panel creeps more than a few pixels fails, since the digits would slide off it.
+
+**The voice.** Three sentences of the page, each said once, by one plain voice reading the Archive's page as written. It is not the officer's voice, and nobody in the room speaks.
+
+| Where | The words | From the page |
+|---|---|---|
+| Segment 1, over the room | *Lúnasa is a Survey Corps station in Earth orbit. Among its duties, it keeps the reference time standard against which Threshold Station checks its own.* | *What It Is* |
+| Segment 5, over the Earth | *Every correction physics predicts has already been made, and the forty seconds are what is left.* | The *In short* line |
+| Segment 8, after the second turn | *Neither clock is wrong: the gap is the reading.* | The *In short* line |
+
+All three are taken from one clip, so that they are one voice, and laid in the cut. The sound is Grok's own, moved and not replaced: the room's low hum, and no sound from outside. Nothing ticks, and no tone marks either turn. The subtitle track carries the three sentences exactly. If two sentences serve better than three, the second is the one to drop. Whether the voice is right is for his ear.
+
+**The physics, owed an Opus read before any still is made** (`CLAUDE.md`: a prompt that is mostly geometry is Opus's). These are worked for geostationary height, 42,164 km from the Earth's centre.
+
+- **The Earth's size.** Its disc is about 17° across. In the port framing it is asked for at about a third of the pane's width.
+- **The Earth does not turn.** The station keeps pace with the ground below it, so the port holds one face of the Earth, always. Only the line between day and night crosses that face, once a day, which is nothing in ten seconds. A take in which the globe rotates fails.
+- **The ring from inside itself.** Seen from within its own plane a circle is a straight line. It runs level through the middle of the globe and is hidden where the globe is. Every station inside the port's field is on the far half of the ring, about 80,000 km off. At the layout of 30 October (one large habitat to a degree, nine small stations between) the large ones stand half a degree apart there, about one thirty-fifth of the globe's width, and the small ones three arcminutes apart, which a frame of this size does not separate. So the line is a fine thread running out from behind each limb, with a slightly brighter bead at even intervals, never a row of lamps.
+- **Whether the line records at all.** An exposure that holds the lit Earth loses the stars. Whether it keeps points of about magnitude 0 to +1, which is what a two-kilometre habitat comes to at that distance, is the question. If it does not, the port shows the Earth alone and this film does not draw the ring; the ending stands either way.
+- **Which face.** The page makes Lúnasa one of the points seen from Ireland, so Ireland is somewhere on the face the port shows; where Lúnasa sits along the ring is not on file. The still asks for ocean under broken cloud with no continent's whole outline. A take fails on this only if the face could not hold Ireland at all. It also fails if it draws a broad white cap across the top of the globe (`earth-2826.md`).
+- **No stars** beside the lit Earth, and no sun in frame.
+
+**The stills.** Three, on Gemini by `node scripts/image-edit.js`, 16:9, kept in `F:\CLAUDE\Director films\D7\rethink\`, outside the repository, each judged by the image critic, century first. The second round of any still is an edit of the best take that names only its faults. No child is in any still or segment, and none is to appear (`CLAUDE.md`, *A child is pictured grown*).
+
+*Master, `d7r-room`, the room.* No reference attached; the kept port still of 15 November (`d7-window\v3.jpg`) may be attached for the port's surround only.
+
+> A single frame of documentary footage recorded inside the world by a fixed 29th-century camera, a photograph, 16:9, available light only, shadow with detail kept in it. A small plain instrument room on a station in high orbit in the year 2826, clean and well kept: walls, floor and ceiling of pale matte composite, seamless, meeting in rounded coves, lit low and evenly from no visible source. The camera is at the back of the room at chest height, facing the far wall square-on. On the left of that wall, set flush into it above head height, is a sealed housing of the same pale composite, plain, with one small round sight port of dark glass. Deep behind the glass is one small faint point of violet light, no bigger than a pea, soft-edged, the only thing in the room that glows; it lights nothing around it. Directly under the sight port is a flat rectangular panel, matte, pale, blank and unlit, like an unprinted card. Beside it on the right, at the same height and of the same size, hangs a second flat panel, matte, pale, blank and unlit, alone on the wall. Further to the right on the same wall, well apart from the panels, is one deep round port in a thick pale surround; in it, against black, the Earth is seen whole and small, about a third of the port's width, partly sunlit, blue ocean under broken white cloud, and a pale patch of its light lies on the inside of the surround. Under the two panels runs a plain narrow bench of the same composite with a rounded rail along its front edge, and on the bench lies one thin matte pale sheet, blank. One person is at the bench, below and between the two panels, at full length, back to the camera, head bowed toward the sheet, one hand closed on the rail: an adult of middle build in a matte deep olive field shell with a high soft collar and nothing on its back, plain dark trousers and soft dark shoes, hair bound close at the nape. Nothing is in motion. No text, letters, numbers or marks anywhere, and none on the panels or the sheet; nothing glows but the one violet point and the Earth; no screens, displays, holograms, dials, status lights, switches, cables, pipes, rivets or signage; no lamp, bulb or light fitting; no chair, cup or loose object; nothing floating; no second person; no stars in the port; no window but the one port; no rust, grime or clutter.
+
+*It fails if* either panel carries a mark or gives light; the violet is outside the port, large, or a column; a screen, a dial or a fitting is in the room; any part of the face shows; anything floats or hangs loose; the port shows stars, a ring as a hoop, or no Earth; or the room, guessed cold, is put in our century.
+
+*`d7r-wall`, the wall.* The kept master attached.
+
+> The attached photograph shows a room. Make a second photograph of the same room by the same fixed camera, moved forward and raised until it faces the upper left of the far wall square-on from two paces. The frame holds the small round sight port of dark glass with its one faint violet point deep behind it, the blank matte pale panel directly under it, and the second blank matte pale panel beside it on the right, the two panels level, the same size, each a plain rectangle with its edges parallel to the frame, and pale wall all round them. Nobody is in the frame, and neither the bench nor the round port with the Earth is in it. Keep the wall, the housing, the panels, the light and the violet point exactly as they are in the attached photograph. No text, letters, numbers or marks anywhere; nothing glows but the violet point.
+
+*It fails if* a panel is not a plain blank rectangle square to the frame, the two differ in size or height, anything is lettered, or the wall is not plainly the master's.
+
+*`d7r-port`, the port.* The kept master attached. Made only after the Opus read above.
+
+> The attached photograph shows a room with one deep round port in its far wall. Make a second photograph by the same fixed camera, moved forward until the port fills most of the frame's height, square-on, its thick pale surround at the edges of the frame with a pale patch of earthlight on its inner side. Through the port, against black: the Earth, whole, in the exact centre, about a third of the port's width, partly sunlit, blue ocean under broken white cloud, no continent's whole outline, no white cap across its top. Level with the middle of the globe, a very fine straight thread of tiny separate points of white light runs out from behind the globe's left edge to the port's rim, and another from behind its right edge, with a slightly brighter point at even intervals along each; no point lies across the face of the globe. No stars, no sun, no other craft or station as a shape. Nobody is in the frame. No text, letters or numbers.
+
+*It fails on* judging line 3, on stars, or on a recognisable map that could not hold Ireland.
+
+**How the film falls.** Nine clips of 10 seconds, 720p, 16:9, sound on, 90 seconds.
+
+| Segment | Framing | Start | The one motion | Readouts, set in the cut (left, right) | Voice |
+|---|---|---|---|---|---|
+| 1 | The room | `d7r-room` | The violet point comes up and fades, slowly, twice | 03:59:32 to :42, 03:58:52 to 03:59:02, a few pixels high | The first sentence |
+| 2 | The room | Last frame of 1 | The officer's head lifts from the sheet to the two panels | Running on | None |
+| 3 | The wall | `d7r-wall` | The violet point comes up and fades | 03:59:52 to 04:00:02; the left panel turns the hour at 8 seconds. Right: 03:59:12 to :22 | None |
+| 4 | The wall | Last frame of 3 | The same | 04:00:02 to :12, 03:59:22 to :32 | None |
+| 5 | The port | `d7r-port` | The camera drifts a hand's width toward the port; the Earth and the thread do not move | None in frame | The second sentence |
+| 6 | The room | Last frame of 2 | The officer's head turns a little to the right, to the repeater, and stays | Running on | None |
+| 7 | The wall | `d7r-wall` | The violet point comes up and fades | 04:00:32 to :42. Right: 03:59:52 to 04:00:02; the right panel turns the hour at 8 seconds | None |
+| 8 | The wall | Last frame of 7 | The same | 04:00:42 to :52, 04:00:02 to :12 | The third sentence, at about 3 seconds |
+| 9 | The room | Last frame of 6 | The officer's head lowers to the sheet. The Earth is small in the port | Running on | None |
+
+The first turn falls at 0:28 of the film and the second at 1:08. Between them are twelve seconds of the wall, ten of the Earth, ten of the officer waiting, and eight of the wall again. Neither turn falls on a join.
+
+**Prompts to paste.** Each is pasted as one line with its start image attached: the segment's paragraph, then the shared tail. What does not move comes first.
+
+*Shared tail, every segment:*
+
+> Footage recorded inside the world by a fixed camera in a small plain instrument room on a station in high orbit in the year 2826, 16:9, one unbroken take, no cut, no pan, no zoom, the frame held steady. Low even light from no visible source. Nothing glows but one small faint violet point deep behind a sight port, and the Earth where it is in frame. The pale panels are blank, matte and unlit and stay blank: no text, letters, numbers, marks or captions appear anywhere at any moment. Nothing floats, falls or drifts loose. No second person. No music, no ticking, no tone; only the room's low hum.
+
+*Segments 1, 3, 4, 7 and 8* (segments 4 and 8 open with *Continue from the attached image as the first frame* instead).
+
+> Animate the attached image as its first frame and change nothing in it. The camera is fixed and the frame does not move at all. The panels stay blank. Anyone in the frame stays exactly as they are, and does not move. The one motion: the small violet point behind the sight port slowly brightens a little and slowly fades almost to nothing, twice in the take, soft-edged, never larger than a pea, never outside the glass, lighting nothing around it. In segment 1 a plain, level voice says once, unhurried, over the room: "Lúnasa is a Survey Corps station in Earth orbit. Among its duties, it keeps the reference time standard against which Threshold Station checks its own." In the other segments no word is spoken.
+
+For the voice, one further take of this prompt carries all three sentences with a pause between them, and the cut takes them from it.
+
+*Segment 2.*
+
+> Continue from the attached image as the first frame and change nothing in it. The camera is fixed. The panels stay blank; the Earth in the round port does not move or turn. One person is at the bench with their back to the lens, one hand closed on the rail. The one motion, small and slow: the bowed head lifts until it is level, toward the two panels on the wall, and is still. The person does not turn, step or let go of the rail. No word is spoken.
+
+*Segment 5.*
+
+> Animate the attached image as its first frame and change nothing in it. The Earth is fixed in the centre of the port and does not move, turn, rotate or drift at any moment; the fine thread of points beside it is fixed in space and none of its points moves, turns or twinkles. The one motion: the camera drifts very slowly straight toward the port, by a hand's width in the whole take, so that the pale surround widens a little at the edges of the frame. Nothing else changes. No stars appear. Nobody is in frame and no word is spoken.
+
+*Segment 6.*
+
+> Animate the attached image as its first frame and change nothing in it. The camera is fixed. The panels stay blank; the Earth in the round port does not move or turn. One person is at the bench with their back to the lens, head level. The one motion, small and slow: the head turns a few degrees to the right, toward the right-hand panel, and stays there, still, to the end. No more than the back of the head and an ear is ever seen. The person does not turn round, step or let go of the rail. No word is spoken.
+
+*Segment 9.*
+
+> Continue from the attached image as the first frame and change nothing in it. The camera is fixed. The panels stay blank; the Earth in the round port does not move or turn. The one motion, small and slow: the person's head comes back to the middle and lowers toward the sheet on the bench, and is still. Then nothing moves but the violet point, which fades. The person does not turn round, step or let go of the rail. No word is spoken.
+
+**Judging the film.** The proof shot first: segment 3, alone, with its digits set, read frame by frame through the turn. Then each still by the image critic. Each take from frames at 0, 5 and 9 seconds against its still and the nine lines; the readouts read digit by digit at every second of the assembled cut; then the whole against the line for *watchable*. Two takes a segment at most; a segment that fails twice on one cause is re-staged here before a third is run. Generating is a desktop step on Opus.
+
+**What this closes, if he picks (b).** The Journal entry's open question, whether the station in the film is the record's Lúnasa: this film is made from that page and from nothing else. And the 17 November reading under *Trailers: the bar*, that D7 fails the first test because its ring is the films' alone, which the 19 November ruling has already overtaken. Whether the finished film replaces rough cut 3 under its filename or is filed beside it is his, when there is a film to pick.
+
+**Beside D1.** *Incident Report 001* shows the same two times from the shore's end, in 2815, and has no filed cut. This is the far end, in the present. If this film is made, a chained remake of D1 waits until it has been seen, since the two share their central image.
+
+**Open at the time of writing.** Whether digits set by script sit on a generated take as if they were there. Whether Imagine holds a frame in which almost nothing moves for ten seconds without inventing a motion, a rotation of the Earth above all. Whether a violet point stays a point. Whether one voice reading three sentences of an Archive page sounds like the record or like a guide.
 
 ---
 
