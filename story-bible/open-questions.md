@@ -112,7 +112,9 @@ left as they stand.
 ---
 
 
-## The body of the Verdani — three options put to Dermot, 19 November 2026 — OPEN, his pick
+## The body of the Verdani — three options put to Dermot, 19 November 2026 — RULED: A, the apron
+
+**Ruled 19 November 2026.** Dermot, verbatim *"A, the apron"*. Recorded in `species-design.md`. Still open: whether `verdani.md` says anything of the supports, the edge or the tendrils (below). Point 4 of the critic read above (Elsha Rootkin's card) can now take its device from the apron.
 
 Dermot, verbatim: *"Yes, sheet first"*, to designing a Verdani body sheet before another attempt at the S01E00C08 picture. The Verdani had no body section; the body lived in `verdani.md` and in Isren's portrait prompt, and a low body on legs kept coming back as a tortoise or a snouted quadruped (`images.md` § 61). The options, what each rests on, and ten study frames are in `species-design.md`, *Verdani — the body, as options*; the sheet is `negative-examples/verdani-body-options-2026-11-19.jpg`. Nothing on a page or in a filed frame is changed. All three keep the filed look (the hide, the vanes, the beads) and one way of facing: the vanes nearest a person fold half closed and bend to them while the rest stay on the light.
 
