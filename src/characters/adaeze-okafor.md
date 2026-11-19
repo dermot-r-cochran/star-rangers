@@ -13,7 +13,7 @@ description: "The civilian sister of Patience First's boundary analyst, who wrot
 
 Adaeze Okafor is the civilian voice of the founding era: one sister, one form letter, ten replies, and a desk on Mars.
 
-The form letter arrived eleven months after *Patience First* vanished. *The Military Space Command regrets to confirm that the vessel Patience First, having departed Eden Space Habitat without operational authorisation, falls outside the scope of Command liability, inquiry findings, or survivor support. This correspondence closes the matter absent new information.* She wrote back nine times, and the tenth letter went unanswered entirely, so she took the transit to Mars herself, on savings that would not survive a second trip.
+The form letter had arrived eleven months before she came to Mars. *The Military Space Command regrets to confirm that the vessel Patience First, having departed Eden Space Habitat without operational authorisation, falls outside the scope of Command liability, inquiry findings, or survivor support. This correspondence closes the matter absent new information.* She wrote back nine times, and the tenth letter went unanswered entirely, so she took the transit to Mars herself, on savings that would not survive a second trip.
 
 ## Known History
 
