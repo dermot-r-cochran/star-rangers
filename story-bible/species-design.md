@@ -1537,7 +1537,9 @@ attractors by name. None of that is done here.
 ### Prompt vocabulary and standard negative
 
 The prompt of record is Ulessa's in `images.md` § 20, the generator's input
-for the filed frame; a new Mnemari prompt starts from it. **Rules learned:**
+for the filed frame; a new Mnemari prompt starts from it, with point 3's neck
+as ruled on 17 November 2026 in place of that prompt's *long, graceful,
+curving neck*. **Rules learned:**
 the working limbs hang curled beneath the body and touch nothing (a limb laid
 on a table returns a human hand); state *exactly three legs*; the neck is a
 thick jointed arm of the same hide in two straight lengths with one heavy
