@@ -205,3 +205,11 @@ Dermot, verbatim: *"Artist's impression"*. The Chthonari A body (one flat disc, 
 | `pekkat-beetle-2026-11-17.jpg` | Pekkat | The beetle body close, a foreleg to the rib; its bead rows of sensing organs were the one living surface the photographs found, and they are kept on the impression. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
 | `s10e01c02-beetle-2026-11-17.jpg` | S10E01C02 | Two beetle bodies at the mount, rendered smooth and figurine-like. Lesson: a chapter frame whose subject is a people that cannot be photographed is an impression too. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
 | `s10e01c05-beetle-2026-11-17.jpg` | S10E01C05 | Four beetle bodies round the slab, plasticine-smooth. Lesson: as C02. | Retired at Dermot's *"Artist's impression"*: re-made as a gouache plate on the A body (`images.md`, *Chthonari body A, applied*, *Impressions*). |
+
+## S01E00C08, Isren's turn: one round, 19 November 2026
+
+A new composition for the terrace frame, meant to show Isren attending to Ulessa (`images.md` § 61, the 19 November note). Nothing was filed; the 17 November frame stands.
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `s01e00c08-isren-turn-round-2026-11-19.jpg` | S01E00C08 | All four takes on one sheet. Shown side-on on legs and asked to lean toward Ulessa, Isren's low body came back as a quadruped with a snout (takes 1 and 4), a tortoise or hippo (2) and a rhinoceros (3): rung 1 each. Ulessa's working limbs were four, two, four and four. Take 2's vanes did divide, three to the sun and three bent to Ulessa. Lesson: a Verdani body has no front, so a frame that gives it a direction gets a head; let the vanes carry the turn and show no end, rim or support. | Not filed. The next round keeps take 2's divided fan and cuts the body to a band of hide. |
