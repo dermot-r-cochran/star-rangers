@@ -21,6 +21,9 @@ eleventyComputed:
 <h1 class="page-title">{{ video.hostTitle }}</h1>
 <video controls preload="metadata" poster="/star-rangers/video/{{ video.id }}-poster.jpg" style="width:100%;max-width:56rem;display:block;margin:1.5rem 0;background:#000">
   <source src="/star-rangers/video/{{ video.id }}.mp4" type="video/mp4">
+  {%- if video.subtitlesEn %}
+  <track kind="subtitles" srclang="en" label="English" src="/star-rangers/video/{{ video.id }}.en.vtt" default>
+  {%- endif %}
   Your browser does not support the video element. <a href="/star-rangers/video/{{ video.id }}.mp4">Download the clip</a>.
 </video>
 <p class="page-intro"><em>{{ video.description }}</em></p>
