@@ -3,6 +3,8 @@ layout: journal-entry.njk
 title: "Lúnasa, a Film"
 date: "2026-11-17"
 description: "A wordless rough cut of a launch from a bay at dawn and the climb to a station in a ring, made as a chain of 10-second generated clips. It is filed here as an impression, with an exact list of where it departs from its brief and from the record, and with one question about its name left open."
+eleventyExcludeFromCollections: true
+robots: "noindex, follow"
 tags: [editorial, craft, process, images, canon]
 ---
 
@@ -10,12 +12,7 @@ This is a rough cut with no words in it, and it is filed as an impression, not a
 
 Before dawn, from a terrace above a bay, a low arc of separate points of light hangs in the southern sky. Across the water a winged craft rides a sled along a level rail and out along a causeway, lifts off and climbs, and its trail catches the sun while the bay is still dark. Through a round port the horizon sinks and the sky goes black. Then the whole earth is seen from far out, with a straight line of stations across it, and one dark station grows slowly larger.
 
-<video controls preload="none" poster="/star-rangers/video/lunasa-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
-  <source src="/star-rangers/video/lunasa.mp4" type="video/mp4">
-  Your browser does not support the video element. <a href="/star-rangers/video/lunasa.mp4">Download the film</a>.
-</video>
-
-*Lúnasa. 1 minute 49 seconds, the third rough cut. It was made as a chain of 10-second clips in Grok Imagine, each new shot starting from a still made first on Gemini, and cut together locally. The sound is Grok's own. There is no speech. An impression, not the record.*
+*This film was withdrawn on 20 November 2026 and is no longer shown on the site. At Dermot's word, rough cut 3 of D7 is kept in the story bible as a negative example, with its frames and its faults, and this page is unlisted.*
 
 ## What it was briefed from
 

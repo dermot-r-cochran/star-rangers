@@ -149,7 +149,7 @@ A Benevolent Critic read of every pull request merged from #1906 to #1977. What 
 
 **Noted, not decisions.** Vellire's filed portrait turns toward a craft that is not in the frame (`images.md` § 86); four older card alts leave out the words on the card (The Archive, the Boundary Monitoring Protocol, Verdani, Levrils); Season 0 Episode 2's intro now reads *2715-2719 UCSD. A hearing…*, which can be taken as a hearing four years long; and the watch page of *The Long White Trail* calls it an impression of Lúnasa, which the ruling of 19 November has made nearer the truth than it was.
 
-## Two films rethought, *Lúnasa* (D7) and *Nothing Taken* (D2) — Dermot's direction of 19 November 2026, briefs written the same day on Fable — point 1 RULED the same day: (b), behind one proof shot; points 2 and 3 briefed as recommended, his to overrule
+## Two films rethought, *Lúnasa* (D7) and *Nothing Taken* (D2) — Dermot's direction of 19 November 2026, briefs written the same day on Fable — point 1 RULED the same day: (b), behind one proof shot; both films WITHDRAWN 20 November 2026; points 2 and 3 briefed as recommended, his to overrule
 
 Dermot, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* And of the model: *"The Up People's First Stone fit the text as well as being watchable."* Both rethinks are in `video-prompts.md`, each under its film's entry as *Rethink, 19 November 2026*, with judging lines written first, the place fixed and the film cut into 10-second segments. Nothing has been generated, and no filed cut or Journal entry is touched until he picks.
 
@@ -163,6 +163,8 @@ Read from frames, the filed cut explains a launch in six places, draws the ring 
 **Recommended: (b), behind one proof shot.** The basis: it takes nothing from the Trail, so the two no longer compete; the clock room entered the record the day this was written and no film shows it; and the forty seconds have no film set in the record's present. Its one real risk is the digits. So the wall shot with its digits is made first, alone. If the forty seconds cannot be put on screen exactly, the film stops at one clip and (a) stands.
 
 If he picks (b), two things close with it: the Journal entry's open question (the film's station is the record's Lúnasa, since it is made from that page alone), and whether a chained remake of D1 is wanted, which waits until this film has been seen, because the two share their central image.
+
+*Withdrawn 20 November 2026, his* "Remove both" *and* "Likewise for Nothing Taken unless the replacement is much better"*. The D7 rethink was cut and its narration dropped, and then neither it nor rough cut 3 was kept. The D2 rough cut is withdrawn too, with no replacement made. Both Journal entries are unlisted, and all three cuts are negative examples. A D2 replacement is filed only if it is much better. See D2 and D7 in `video-prompts.md`.*
 
 **2. *Nothing Taken*: does the film carry a voice?** Briefed as (a).
 
