@@ -5166,3 +5166,59 @@ The record is `images.md` § 61, the 19 November note *Isren's side of the conve
 > Photographed, not rendered: real living skin and real leaf tissue with their small honest marks, natural full colour, normal exposure, fine grain heavier in the shadows, a real lens with slight softness toward the corners and a little flare from the low sun.
 >
 > Negative: tortoise, turtle, shell, carapace, scutes, plates, armadillo, crab, beetle, insect, centipede, slug, seal, elephant, clawed feet, toes, toenails; dinosaur, sauropod, giraffe, horse, camel, llama, a fourth leg, four or more working limbs, hooves, fists, hands, fingers; potted plant, fern, palm, banana plant, houseplant, a plant growing from soil, a rock, a boulder, a cushion, a tarpaulin, cloth; head, face, eyes or mouth on the low being; mouth line, smile, teeth or forward-facing eyes on the tall being; any human, any person, any hand; clothing, straps, harness; screens, glowing displays, lamps, light fittings; grime, rust, stains, debris; readable text, lettering, numerals, signage, labels or logos anywhere. Render negatives: 3D render, CGI, video-game render, animated film still, clay or plasticine, plastic sheen, toy, figurine, miniature, tilt-shift, airbrushed, over-smooth surfaces, concept art.
+
+## 2026-11-19 — Verdani body options: design studies, nothing filed (Fable, desktop)
+
+The record is `species-design.md`, *Verdani — the body, as options*. **Tool:** Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js` with no reference image, 2K, 16:9. Ten images; none refused; none filed. Sheet: `negative-examples/verdani-body-options-2026-11-19.jpg`. Every prompt is four paragraphs in one order: the opening, the body, the vanes, the close. The opening, the vanes and the close are the same in every study except where marked.
+
+### Studies, round 1: options A, B and C, two takes each
+- **Kind:** fresh generations, a design study; not a prompt of record
+- **Opening (all three):**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, deep focus from near to far, the camera held at standing eye height a few paces away, a three-quarter view looking a little down. One person of a non-human people, a Verdani, is alone on an open kept terrace in the low sun of an evening in the year 2826, reading a sheet. She is not an animal, not a plant and not shaped like a human. She is at ease and at work, never posed to camera. The sun is low, off to the left and out of frame.
+
+- **Body, option A (the apron):**
+
+> THE BODY. Her body is one low, broad, soft mass, about as wide as a dining table and no higher than a person's knee, uneven in outline like a heavy hide settled on the floor, not round and not domed: its top is nearly flat and sags a little between the roots of the vanes. The hide runs down on every side all the way to the floor and lies out on the floor in a loose, uneven, pleated hem, spread a hand's width onto the composite all the way round, with no gap beneath it, no underside in view, no legs, no feet and nothing lifting it anywhere. She rests on the whole of her own edge.
+>
+> From the middle of her top, between the vane roots, rise two slender pale grey-green tendrils, each no thicker than a thumb and as long as a forearm, smooth and tapering to a plain blunt tip. Together they hold one thin rigid matte pale-grey sheet, the size of a large book, blank and unlit, upright in the air above her body at the right, each tendril's tip curled once round an edge of the sheet.
+
+- **Body, option B (the stays):**
+
+> THE BODY. Her body is one low, broad, soft cushion of hide, about as wide as a dining table and no higher than a person's knee, uneven in outline, its top nearly flat and sagging a little between the roots of the vanes, resting on the floor. From all round its edge, in every direction like the guy lines of a tent, exactly ten long thick stays of the same pleated hide run outward flat along the floor, lying on the composite for their whole length, each about as long as the body is wide and tapering, of unequal lengths, each ending in one flat round pad pressed to the floor, with no toes and no claws. The stays are spread evenly all the way round her, toward the camera, away from it and to both sides alike. She is anchored by all of them.
+>
+> Two of the stays at the right are lifted a little off the floor and together hold one thin rigid matte pale-grey sheet, the size of a large book, blank and unlit, tilted up toward the vanes, the blunt tip of each stay curled once round an edge of the sheet.
+
+- **Body, option C (the pillars, the filed body):**
+
+> THE BODY. Her body is one low, broad, flat rounded mound of hide, about as wide as a dining table and no higher than a person's knee, with no head end and no distinguishable front, its rim plain and unbroken all the way round. It rests close to the floor on exactly eight short thick straight pillars of the same hide, spaced evenly around its rim and mostly hidden beneath it, each a plain column ending in one flat round pad on the floor, with no toes, no claws and no joints.
+>
+> On the floor beside her at the right lies one thin rigid matte pale-grey sheet, the size of a large book, flat, blank and unlit.
+
+- **Vanes (all three):**
+
+> From the top of her hide, each out of its own collar of pleated skin, rise six broad thin vanes of living leaf tissue, deep chlorophyll green, finely veined, with a few dry brown margins and small tears, and a single row of small dark rounded nodes like beads along the outer leading edge of each vane; the tallest reach about the height of the top of the doorway behind. The vanes are in two plainly different groups. The four on the left are opened wide and laid back toward the low sun at the left, glowing translucent where the light comes through them. The two on the right are drawn half closed, narrower and darker, and bent over to the right and downward, each at its own angle, so that their beaded leading edges point at the sheet from a hand's width away, the way a reader bends to a page.
+
+- **Close (all three):**
+
+> Her hide is thick, matte and dry, grey-green, in long loose pleats with a fine fibrous grain like the sheath of a great leaf, with small scars and honest marks. It is soft living skin all over, with no shell, no plates, no hard rim, no head, no neck, no tail, no snout, no face, no eyes and no mouth anywhere, and no end of her body differs from any other.
+>
+> The place is a kept terrace of a Federation facility: a wide clean matte floor of pale seamless composite, and behind her a plain pale wall of the same material with one plain open doorway of ordinary human height, a simple rectangular opening with no door, no handle and no sign, dim beyond, which shows her size. A calm gold and pale rose sky above the wall, long soft shadows running to the right. Nothing else is on the terrace: no furniture, no planting, no pot, no railing, no lamp, no light fitting, and nobody else in frame.
+>
+> Photographed, not rendered: real living skin and real leaf tissue with their small honest marks, natural full colour, normal exposure, fine grain heavier in the shadows, a real lens with slight softness toward the corners.
+>
+> Negative: tortoise, turtle, shell, carapace, scutes, hippopotamus, rhinoceros, elephant, elephant skin, anteater, tapir, armadillo, seal, walrus, manatee, slug, snail, sea slug, octopus, squid, starfish, spider, crab, insect, centipede, caterpillar; head, neck, tail, snout, trunk, face, eyes, mouth, toes, toenails, claws, hooves, paws, fingers, hands; potato, tuber, gourd, rock, boulder, mound of earth, tree stump, tree roots, potted plant, pot, planter, soil, fern, palm, banana plant, houseplant, cabbage; cushion, beanbag, tarpaulin, tent, cloth, rug; any human, any person; clothing, straps, harness; screens, glowing displays, lettering, text, numerals; render, CGI, 3D model, clay, sculpture, toy, plastic, wet shine, mirror floor, shallow depth of field, miniature.
+
+### Studies, round 2: option A lower and lobed, four takes
+- **Kind:** fresh generations. Two takes with the round 1 opening; two with the opening below, the camera at knee height from the side. Vanes and close as round 1.
+- **Body:**
+
+> THE BODY. Her body is very low and very broad: a thick, soft, living mat of hide lying on the floor, about two metres across and nowhere higher than a person's shin, far wider than it is tall, like a heavy hide laid out flat. Its outline on the floor is uneven and lobed, with five or six broad shallow lobes of unequal size, never a circle and never an oval. Its top is nearly level, with shallow hollows and low swells, and no dome, hump or mound anywhere. At its edge the hide thins and lies out flat on the composite in broad loose folds, with no gap beneath it, no frill, no underside in view, no legs, no feet and nothing lifting it anywhere. She rests on the whole of herself.
+>
+> The six vanes are rooted far apart, spread across the whole width of her top, each on its own low swell, an arm's length or more between one root and the next, never bunched at the middle.
+>
+> From near the right-hand vanes rise two slender pale grey-green tendrils, each no thicker than a thumb and as long as a forearm, smooth and tapering to a plain blunt tip. Together they hold one thin rigid matte pale-grey sheet, the size of a large book, blank and unlit, upright in the air above her body at the right, each tendril's tip curled once round an edge of the sheet.
+
+- **Opening, knee-height pair:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, deep focus from near to far, the camera held at knee height a few paces away, looking level across the terrace at her from the side. One person of a non-human people, a Verdani, is alone on an open kept terrace in the low sun of an evening in the year 2826, reading a sheet. She is not an animal, not a plant and not shaped like a human. She is at ease and at work, never posed to camera. The sun is low, off to the left and out of frame.

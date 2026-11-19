@@ -312,6 +312,9 @@ variety — the [cast principle](/story-bible) against monoculture, built into t
 biology — but four regional variants is also exactly how a species becomes four
 stereotypes. Use them for texture, not for temperament.
 
+**The body itself** is put as three options, none yet chosen, in *Verdani —
+the body, as options* below (19 November 2026).
+
 ---
 
 ## The questions that actually decide a body
@@ -2995,6 +2998,242 @@ grey, monochrome, desaturated; captions, overlays, date stamps, lettering;
 - **For the next release:** the Peoples and Bodies artefact gains a row for
   the Convened, read against this section; `scripts/extract-peoples.js` may
   need a rule for a people with no individual persons.
+
+---
+
+## Verdani — the body, as options (19 November 2026, Fable, at Dermot's *"Yes, sheet first"*) — OPEN, awaiting his pick
+
+**Status: three options, one recommended, none chosen.** Dermot, 19 November
+2026, verbatim *"Yes, sheet first"*, to designing a Verdani body sheet before
+another attempt at the S01E00C08 picture of Isren attending to Ulessa. A
+people's designed body is his to decide (CLAUDE.md, *Never without Dermot*),
+so this section settles nothing. **No page, prompt of record, alt text or
+filed frame was changed when it was written.** The question is in
+`open-questions.md`.
+
+**Why now.** The Verdani had no body section here. The body lived in
+`src/lore/verdani.md` and in Isren Farrowkin's portrait prompt (`images.md`,
+*Missing portraits*), and the filed `isren-farrowkin.jpg` shows a dome on
+stub feet that reads close to a tortoise. On 19 November a round for
+S01E00C08 failed four takes of four at the image critic's first rung
+(anteater, tortoise, rhinoceros; `images.md` § 61): a low body on legs, told
+to lean toward someone, is drawn as a quadruped with a snout, because a
+Verdani has no front and the generator supplies one. Only the vanes carried
+facing.
+
+### What is written about the body (derived)
+
+- **Spread, on vanes.** *"A compact body with a small ratio of surface to
+  volume (a torso, four limbs, a head) presents almost nothing to the sky"*;
+  the body is *"organised the way a plant is organised: to be spread out"*;
+  the kinbeds ride on *"broad extensible vanes, held folded when the light is
+  poor or the work is close, and opened when there is sky worth taking"*
+  (`verdani.md`).
+- **Low, and held at many points.** *"Low-slung and multiply supported
+  rather than balanced on two points, because a broad opened frame in a gust
+  is a sail and needs anchoring"* (`verdani.md`). *"Isren was a low thing
+  when she was open"*, and Ulessa's head *"came down to her, and stopped at
+  her own height"* (S01E00C08).
+- **No front.** *"There is no single face. Sensory structures are
+  distributed along the leading margins where the vanes meet, which is why
+  Verdani read as attentive from every direction and why outsiders never
+  quite learn where to look when speaking to one"* (`verdani.md`). A
+  colleague *"addresses a vane's edge, or the air above the body, or the
+  tab"* (`elsha-rootkin.md`).
+- **It turns to the light without deciding to.** *"A Verdani orients
+  continuously … an unconscious, unbroken adjustment toward the light"*
+  (`verdani.md`). *"The vanes went out. It was not a decision"* (S01E00C08).
+- **Held up by turgor and fibre.** The taxonomy files the Verdani in the
+  frame **Turgorida**: *"Turgor and fibre, in the manner of a plant"*
+  (`cross-biosphere-taxonomy.md`). So there is no bone, and nothing on the
+  body is a jointed leg.
+- **It moves, slowly.** *"The same Verdani crossing a corridor"*; *"haste has
+  a real price"* (`verdani.md`). *"Isren took the terrace the moment the
+  session rose"* (S01E00C08).
+- **It speaks, sits at a table, and keeps a sheet in its own writing.**
+  *"She had brought her sheet out with her … and on it … was the head of her
+  own item in her own hand"*; *"Isren looked at the sheet once more"*; the
+  folded vanes *"made a small dry sound when the delegate held still"*
+  (S01E00C08). No page says how a Verdani holds a sheet, writes or speaks.
+- **A hide between the vane roots.** Elsha Rootkin's shell sits *"on the
+  hide of the low body between the roots of the vanes, and nothing on any
+  vane"* (`elsha-rootkin.md`; `civilian-dress.md`, Verdani).
+- **Colour is the strain's**, green, olive-brown, pale or reddish, and is
+  never a mark (`verdani.md`; *The uniform equivalent* above).
+
+### What is only a prompt's or the generator's (on no page)
+
+The round mound; its *"six or more short sturdy limbs spaced evenly around
+its rim"* (Isren's prompt of record); the plain unbroken rim; the creased
+grey hide *"like the skin of a very large animal"* (Elsha's round 4), which
+is the cue for an elephant or a rhinoceros; the fern or banana-leaf shape of
+the vanes; the beads along a vane's edge as the form of the senses. The
+vanes, the beads and the hide are the people's **filed look** across
+`isren-farrowkin.jpg`, `meril-duskkin.jpg`, `tavin-ledgekin.jpg`,
+`ruvel-swardkin.jpg` and `s01e00c08.jpg`, and every option below keeps them.
+What the options decide is what those frames hide or get wrong: the
+supports, the edge, and the working parts.
+
+### What the body is for (derived from the same lines; nothing new)
+
+- **A gust is what the page names as the danger**, to an opened body. A
+  thing that must not be lifted wants its edge on the ground or its hold
+  spread wide, and wants no daylight under it.
+- **Turgor holds a low thing up and a tall thing badly.** A body without
+  bone stands on pressure, so its supports are short, thick and many, or it
+  lies on itself.
+- **Close work happens at the vanes.** The vanes fold *"when … the work is
+  close"*, and the senses are on their margins. So a Verdani brings the work
+  to the vanes, or bends a vane to the work; it does not bend a head to it.
+
+### How a Verdani faces someone (proposed; common to all three options)
+
+The light gets every vane without a decision. **Attention is the decision
+that takes some of them away from it.** The vanes nearest the person or the
+work are drawn half closed and bent toward it, each at its own angle, their
+leading margins and the senses along them turned to it; the rest stay open
+to the light. It is the gesture of close work, aimed at a person. The body
+does not turn, lean, rise or point, because no part of the body is nearer
+the person than any other part. This is what take 2 of the 19 November
+round drew (`images.md` § 61), and it is what the critic's rung 6a asks for:
+several parts turned together toward one thing that is not food or light.
+It costs her light for as long as she attends, which a reader of the page
+will understand as a courtesy with a price.
+
+### Three options
+
+Each was run as a design study on Gemini (`gemini-3.1-flash-image`,
+`scripts/image-edit.js`, no reference image, 2K, 16:9): one Verdani alone on
+a kept terrace in low sun, the whole body in view, a doorway for scale, four
+vanes to the sun and two bent to a sheet. Two takes each, then a second
+round of four on A. Ten generations, none refused, none filed. Sheet:
+`negative-examples/verdani-body-options-2026-11-19.jpg`, the filed portrait
+first. Prompts: `image-prompts.md`, 19 November 2026.
+
+**A. The apron (recommended).**
+
+- **Support.** She rests on the whole of her own edge. The hide runs down
+  on every side to the ground and lies out on it in a loose pleated hem. The
+  page's many supports are short turgor pads under the body, which bear the
+  weight and creep it along, and are never seen. In a gust the hem spreads
+  and presses, and nothing gets under her. She stands a little higher folded
+  and moving, and settles lower and wider when she opens, which is the
+  chapter's *"a low thing when she was open"*.
+- **Edge.** The hem itself: soft, uneven, lying on the floor. No rim line,
+  no underside, no gap, no shadow beneath.
+- **Facing.** The divided vanes, as above, and nothing else.
+- **Sheet and writing.** Two or three slender pale tendrils rise from the
+  hide among the vane roots, each no thicker than a thumb, ending in a plain
+  blunt tip. They hold a sheet up at the height of the folded vanes, where
+  the senses are, and one holds what she writes with. At rest they lie
+  coiled between the roots.
+- **Rests on:** *low-slung and multiply supported*; *a sail and needs
+  anchoring*; *Turgorida*; *folded when … the work is close*; *in her own
+  hand*.
+- **Changes on a page:** nothing. The supports stay many; they stop being
+  seen. The tendrils are new and are on no page.
+- **Never drawn as:** a tortoise or a footstool (a dome over a gap with
+  feet); a potato, a boulder or a sack with a plant in it (a round mound,
+  vanes bunched at the top); a slug, a sea slug or a seal (a long body, a
+  taper, a wet shine); a slab of clay or a puddle (too flat); a heap of
+  cloth or a tent (a hem with no body in it); an octopus or a vine (tendrils
+  longer than a forearm, or more than three).
+- **Filed frames.** `isren-farrowkin.jpg` would be re-made: it shows a rim
+  and stub feet. Meril's, Tavin's, Ruvel's and the chapter frame hold, since
+  each shows hide and vanes and no edge.
+
+**B. The stays.**
+
+- **Support.** The low body lies at the middle of eight to ten long stays
+  of its own hide, which run outward along the ground in every direction and
+  end in flat pads, like the guy lines of a tent. She walks by moving them
+  in turn, most always down.
+- **Edge.** None of its own: the body runs out into the stays.
+- **Facing.** The divided vanes; and the stays on that side may lie nearer.
+- **Sheet and writing.** The two stays nearest the work lift and hold it.
+- **Rests on:** *multiply supported*; *a sail and needs anchoring*, read as
+  literally as it can be.
+- **Changes on a page:** nothing in words. It adds long limbs that no page
+  mentions and every filed frame lacks.
+- **Never drawn as:** an octopus, a squid, a starfish, a spider or a crab; a
+  tree stump with roots.
+- **Filed frames.** `isren-farrowkin.jpg` would be re-made. The other four
+  hold only while the frame stays close.
+
+**C. The pillars (the filed body, written down).**
+
+- **Support.** The mound of Isren's prompt of record: eight short thick
+  columns of hide round the rim, each ending in a flat pad, no joint, toe or
+  claw.
+- **Edge.** A plain rim with a gap under it.
+- **Facing.** The divided vanes alone. Any lean of the body is forbidden.
+- **Sheet and writing.** The sheet lies on the floor. A writing part would
+  still be owed; a pillar that lifts is a foreleg.
+- **Rests on:** *multiply supported*, and the filed portrait.
+- **Changes on a page:** nothing.
+- **Never drawn as:** a tortoise, a hippopotamus, a rhinoceros, an anteater
+  or a tapir; a footstool or a low table.
+- **Filed frames.** None is re-made. `isren-farrowkin.jpg` keeps its
+  tortoise reading.
+
+### What the studies showed (the image critic's ladder, stopped at the first failure)
+
+| Take | Verdict |
+| --- | --- |
+| A, take 1 | No Earth animal. A soft knee-high mass with a crimped hem; at a thumbnail a tied sack or a bulb. Two tendrils hold the sheet up and two dark folded vanes bend to it: it reads as someone reading (rung 6a met). Fails rung 3, a render's smoothness. The tendril tips came back as hooks through the sheet. |
+| A, take 2 | No Earth animal. The mound is rounder and the vanes bunch at its top, so it leans toward a boulder with a plant on it (rung 1, as a thing). The sheet rests against the body. |
+| B, take 1 | Rung 1: an octopus or a starfish at a thumbnail. More than ten thin tapering arms. |
+| B, take 2 | Rung 1: the same. The lifted stays holding the sheet do read as work. |
+| C, take 1 | Rung 1: an upholstered footstool on turned legs, a made thing. |
+| C, take 2 | Rung 1: a tortoise's dome on stub feet, the filed portrait's reading. |
+| A round 2, flat mat, takes 1 and 2 | No Earth animal. The body, made shin-high and lobed, stopped being a body: a slab of poured clay with a plant and two stalks on it (rungs 1 and 3, as a thing). The reading gesture is clear in both. |
+| A round 2, knee-height camera from the side, takes 1 and 2 | No Earth animal, no snout, no leg and no front, in the camera position that drew a quadruped four times that morning. The body is again a slab. Take 2 has the plainest gesture on the sheet: two vanes arched over to the sheet in two tendrils. |
+
+**What the two rounds taught, whichever is picked.** (1) The animal is in
+the legs and the gap. With no support in view and the edge on the floor,
+six takes of six drew no Earth animal, two of them from the side at knee
+height. (2) Height is the remaining dial for A: knee-high and pleated reads
+as a living mass and risks the sack; shin-high reads as the floor. The body
+wants the first round's height, an uneven outline, and the vanes rooted
+apart across it. (3) A sheet held up with vanes bent to it reads as a mind
+at work in every A take, with no face anywhere. (4) Every frame is smooth
+and lit like a render. That is rendering, not design, and a filed frame
+would be made as the people's passed frames were. (5) Thin tendrils held a
+sheet without growing fingers; the tips want *lying against the edge*, not
+*curled round it*.
+
+### Recommendation: A, his to overrule
+
+The basis. It is the only option whose studies drew no Earth animal, and it
+held from the side at knee height, which is the view the Isren picture
+needs. Its support follows from the two things the page gives the body to
+contend with, a gust and a frame of turgor, where B and C follow from one.
+It changes no written line. And it leaves four of the five filed Verdani
+frames standing.
+
+What it costs. It does not yet pass the first rung cleanly: the residue is
+a sack or a slab, a thing and not an animal, and the next study would hold
+the height at the knee and break the outline. It adds tendrils no page
+mentions, though the chapter's sheet needs some writing part on any option.
+And Isren's portrait is re-made.
+
+B gives the most literal anchoring and an honest working limb, and is an
+octopus in both takes. C is the least change and is the body that failed
+six takes of six on 19 November; it is offered because it is what is filed.
+
+**If he would rather keep the page silent on a writing part**, A stands
+without the tendrils: the sheet then lies on the floor or the table, and
+the vanes bend to it there.
+
+### What a pick starts
+
+The chosen body is written into this section in place, with a revision note
+quoting him. One more study round runs on it. Then `isren-farrowkin.jpg` is
+re-made under A or B, with its alt text, and the Verdani prompts in
+`images.md` gain the option's attractors by name. The S01E00C08 round
+waits on the pick. Whether `verdani.md` gains a sentence on the supports,
+the edge or the tendrils is a separate question of published canon and is
+his. None of that is done here.
 
 ---
 
