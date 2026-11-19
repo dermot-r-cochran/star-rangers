@@ -112,6 +112,10 @@ left as they stand.
 ---
 
 
+## Elvira and Syra look alike — raised by Dermot 19 November 2026, RULED the same day: (1), a reader-only echo (*"As recommended"*)
+
+The likeness in the S01E03C05 frame and the two portraits stays a visual echo that S01E03C06's reveal makes legible. No page or character remarks on it, and there is no recognisable Krenyi face (it would hand Syra the instrument C05 says she lacks). Kinship between the two was not taken up: it stays an unruled possibility, his to raise, tied to Elvira's marked-absent origin. Full record: `intake-2026-11-19.md`, last section.
+
 ## Three ideas from a chat on robotic exploration and contact — raised 19 November 2026, parked by Dermot the same day (*"Park them"*) — all three OPEN, each waits on a page or chapter that needs it
 
 A chat on Opus about the real-world future of autonomous probes, fusion vessels and conflict with distant civilisations was read against the record. Most of it the record already holds: fusion as the ceiling (`src/lore/the-fusion-ceiling.md`), no faster-than-light signal (`src/lore/ftl-mechanics.md`), decisions made nearest the boundary (`src/lore/star-rangers-decision-and-communication.md`), the Kernel's freedom to think and bounds on acting, arithmetic before words (`src/codex/xenolinguistics-handbook-failure-modes.md`), the Federation already there when the Rangers came to make first contact, and opposition from misreading rather than malice. Three ideas were not in the record. Nothing on a page is changed; any drafting goes to Fable.
