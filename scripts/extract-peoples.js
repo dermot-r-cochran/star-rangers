@@ -235,7 +235,7 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/verdani.md", "A Verdani is not humanoid, and the reason is arithmetic rather than aesthetics."],
     portraits: {
-      "isren-farrowkin": { check: "agrees", evidence: ["src/characters/isren-farrowkin.md", "with no head and no face"], note: "Filed 12 October 2026 (century batch 6)." },
+      "isren-farrowkin": { check: "agrees", evidence: ["src/characters/isren-farrowkin.md", "with no head and no face"], note: "Filed 12 October 2026 (century batch 6); re-made 19 November 2026 on the ruled body, option A, the apron: a band of creased hide, six vanes, four to the light and two bent to a sheet held in two tendrils, no head or face, no rim and no feet." },
       "meril-duskkin": { check: "agrees", evidence: ["src/characters/meril-duskkin.md", "the duller olive-brown of a fenland strain"], note: "Filed 26 October 2026 (round 1, his pick): one olive-bronze vane over a creased mound, no head or face." },
       "tavin-ledgekin": { check: "agrees", evidence: ["src/characters/tavin-ledgekin.md", "the pale, high-reflectance colour of a high-terrace strain"], note: "Filed 26 October 2026 (round 1, his pick) and remade 10 November 2026 (his pick): three pale vanes from one creased mound, leaning together toward the settlement below, no head or face." },
       "ruvel-swardkin": { check: "agrees", evidence: ["src/characters/ruvel-swardkin.md", "reddish colour of a steppe strain"], note: "Filed 18 November 2026 (images.md § 85, round 2, an edit of round 1's frame): three russet-red vanes from one creased mound, leaning together away from the low sun, no head or face." },

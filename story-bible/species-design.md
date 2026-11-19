@@ -3246,6 +3246,25 @@ waits on the pick. Whether `verdani.md` gains a sentence on the supports,
 the edge or the tendrils is a separate question of published canon and is
 his. None of that is done here.
 
+### The study round on A, and what it started (19 November 2026, Fable, desktop)
+
+**Done the same day as the ruling:** one study round on A, the re-made `isren-farrowkin.jpg`, the apron's attractors named in `images.md` (Conventions, *Every Verdani frame is the apron's, and names its attractors*), and the S01E00C08 frame re-made and filed (`images.md` § 61, *The apron round*). `verdani.md` is unchanged and its question is still his.
+
+**The study** (four takes, Gemini, no reference, 2K, 16:9; prompts in `image-prompts.md`, *2026-11-19 — The apron*; sheet `negative-examples/verdani-apron-study-2026-11-19.jpg`). Against the first studies it changed three things: the outline (knee-high at its highest, *three or four broad shallow swells of different heights with slack hollows between*, three times as wide as tall), the vane roots (*set far apart, each on a different swell, never in a bunch*), and the tendril tips (*the last hand's length lies straight and flat along an edge of the sheet*). The hide was asked for as a photographed one: crossing creases, pores, scars, flaking, a nap that catches the sun.
+
+| Take | Verdict |
+| --- | --- |
+| 1, eye height, whole body | No Earth animal, and no sack: an uneven lumped mass with a crimped hem of its own skin and the vanes rooted apart. It reads as something large under a hide. The tendrils are long pale rods laid along the top of the sheet, with no hook. Rung 3, still lit like a render. |
+| 2, eye height, whole body | Rung 1: an animal asleep under a blanket. The hem is drawn as cloth, the vanes stand in one row along a ridge, and the tendrils leave one end like a snail's stalks. |
+| 3, knee height, cut by the left edge | Rung 1: a walrus or a hippopotamus lying down. The body fills the frame's height, its one visible end rounds into a wrinkled muzzle, and a tendril leaves it like a tusk. The hide is the most photographic of the four. |
+| 4, knee height, cut by the left edge | No Earth animal. A low lobed mass with its hem on the floor, the vanes in two groups rooted apart, two tendrils holding the sheet with their tips lying against it. Scars, flaking and nap. The nearest of the four to the design, and still a hide thrown over something (rung 1, as a thing). |
+
+**What it settled.** (1) *Lying flat along the edge* ended the hooks in the study, none in four takes; in the portrait rounds a hook came back only in two takes of the frame from above. (2) The swells end the sack and the bulb, and the roots set apart end the boulder with a plant on it. (3) **The whole body does not pass at any height yet.** Flat, it is poured clay; knee-high and smooth, a sack; knee-high and lumped, something under a blanket; knee-high with a mammal's hide and one end in view, a walrus. The portrait rounds confirmed it: of the takes that showed an edge of her body, none passed (a seal, two hippopotamuses, a cushion, a rug, a blanket, a sea slug). The hem is the trigger for cloth, and a visible end is the trigger for a muzzle. (4) So a filed Verdani frame is **the close band**, as the people's passed frames already were: the top of the body along the bottom of the frame, running out of three edges, and the apron shown by what is absent (no rim, no gap, no foot) and by the tendrils. (5) The tendrils must be named as her own creased skin, each from its own collar, or they are rods, wires or hoses.
+
+**Added to A's *Never drawn as*, from these rounds:** a walrus, a hippopotamus, a seal or a manatee lying down (knee-high, one end in view); an animal under a blanket, or a cushion, a beanbag or a rug (the hem as cloth); a sea slug (a tapering end with a frilled skirt and the tendrils as stalks); rods, wires, hoses or eye stalks for tendrils; fingertips for their tips.
+
+**Left open by the pictures, his if he wants it:** a frame that shows the hem. It would want a route other than a text prompt, most likely a Blender blockout of the apron made photographic by an edit, as Vaurel's body was (`image-critic`, a prompt that fails twice for one cause is geometry). Nothing filed needs it.
+
 ---
 
 ## Living with other life — companions, working animals and commensals, people by people
