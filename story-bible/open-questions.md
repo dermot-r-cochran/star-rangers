@@ -112,6 +112,18 @@ left as they stand.
 ---
 
 
+## The body of the Verdani — three options put to Dermot, 19 November 2026 — OPEN, his pick
+
+Dermot, verbatim: *"Yes, sheet first"*, to designing a Verdani body sheet before another attempt at the S01E00C08 picture. The Verdani had no body section; the body lived in `verdani.md` and in Isren's portrait prompt, and a low body on legs kept coming back as a tortoise or a snouted quadruped (`images.md` § 61). The options, what each rests on, and ten study frames are in `species-design.md`, *Verdani — the body, as options*; the sheet is `negative-examples/verdani-body-options-2026-11-19.jpg`. Nothing on a page or in a filed frame is changed. All three keep the filed look (the hide, the vanes, the beads) and one way of facing: the vanes nearest a person fold half closed and bend to them while the rest stay on the light.
+
+- **(A) The apron.** The hide runs down to the ground all round and lies on it in a loose hem; the many supports are short pads underneath, never seen. Two or three thin tendrils among the vane roots hold a sheet up to the vanes and write. Isren's portrait is re-made; the other four Verdani frames hold.
+- **(B) The stays.** Eight to ten long stays of hide run out along the ground like guy lines, and the two nearest the work lift to hold it. Isren's portrait is re-made.
+- **(C) The pillars.** The filed body written down: a mound on eight short columns, the sheet on the floor. No frame is re-made.
+
+**Recommended: (A).** The basis: it is the only one whose studies drew no Earth animal (six takes of six, two from the side at knee height, the view the Isren picture needs), where B drew an octopus twice and C a footstool and a tortoise; its support answers both things the page gives the body to contend with, a gust and a frame of turgor; and it changes no written line. What it costs: it is not yet clean (knee-high it leans toward a sack, flatter it becomes a slab), the tendrils are on no page, and Isren's portrait is re-made. A stands without the tendrils if he would rather leave the writing part unsaid.
+
+**A second thing, whichever he picks:** whether `verdani.md` should say anything of the supports, the edge or a writing part. It is published canon and is not touched here.
+
 ## Two films rethought, *Lúnasa* (D7) and *Nothing Taken* (D2) — Dermot's direction of 19 November 2026, briefs written the same day on Fable — point 1 RULED the same day: (b), behind one proof shot; points 2 and 3 briefed as recommended, his to overrule
 
 Dermot, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* And of the model: *"The Up People's First Stone fit the text as well as being watchable."* Both rethinks are in `video-prompts.md`, each under its film's entry as *Rethink, 19 November 2026*, with judging lines written first, the place fixed and the film cut into 10-second segments. Nothing has been generated, and no filed cut or Journal entry is touched until he picks.

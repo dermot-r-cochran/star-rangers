@@ -213,3 +213,11 @@ A new composition for the terrace frame, meant to show Isren attending to Ulessa
 | Thumbnail | Page | What failed | Outcome |
 | --- | --- | --- | --- |
 | `s01e00c08-isren-turn-round-2026-11-19.jpg` | S01E00C08 | All four takes on one sheet. Shown side-on on legs and asked to lean toward Ulessa, Isren's low body came back as a quadruped with a snout (takes 1 and 4), a tortoise or hippo (2) and a rhinoceros (3): rung 1 each. Ulessa's working limbs were four, two, four and four. Take 2's vanes did divide, three to the sun and three bent to Ulessa. Lesson: a Verdani body has no front, so a frame that gives it a direction gets a head; let the vanes carry the turn and show no end, rim or support. | Not filed. The next round keeps take 2's divided fan and cuts the body to a band of hide. |
+
+## Verdani body options: design studies, 19 November 2026
+
+Ten study frames for three body options put to Dermot (`species-design.md`, *Verdani — the body, as options*). None was ever filed; the sheet is kept because each failure has a name.
+
+| Thumbnail | Page | What failed | Outcome |
+| --- | --- | --- | --- |
+| `verdani-body-options-2026-11-19.jpg` | Verdani (the people) | The filed `isren-farrowkin.jpg` first, then the takes. C, the filed body on eight pillars, drew a footstool and a tortoise. B, long stays along the floor, drew an octopus twice. A, the hide lying on the floor with no support in view, drew no Earth animal in six takes; knee-high it leans toward a sack or a boulder, and shin-high it becomes a slab of clay with a plant on it. Lesson: the animal is in the legs and the gap under the body; a sheet held up with two vanes bent to it reads as a mind at work with no face. All ten are smooth as renders. | Studies only. The pick is Dermot's. |
