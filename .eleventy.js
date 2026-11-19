@@ -342,6 +342,10 @@ module.exports = function(eleventyConfig) {
         impressionTitle: sourceCarried ? source.data.title : undefined,
         hostTitle: host.data.title,
         description: video.caption || host.data.description,
+        // An English subtitle track where one sits beside the film
+        // (<id>.en.vtt), found the same way as the poster so nothing is
+        // registered twice. The watch page shows it on by default.
+        subtitlesEn: fs.existsSync(path.join(__dirname, "src", "video", `${video.id}.en.vtt`)),
         duration: isoDuration(mp4DurationSeconds(path.join(__dirname, "src", "video", `${video.id}.mp4`)))
       });
     }

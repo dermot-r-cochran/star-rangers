@@ -12,7 +12,7 @@ Three figures walk out along a stone spit toward a white lighthouse, seen from b
 
 <video controls preload="none" poster="/star-rangers/video/the-character-of-the-light-poster.jpg" style="width:100%;max-width:40rem;display:block;margin:1.5rem 0;background:#000">
   <source src="/star-rangers/video/the-character-of-the-light.mp4" type="video/mp4">
-  <track kind="subtitles" srclang="en" label="English" src="/star-rangers/video/the-character-of-the-light.en.vtt">
+  <track kind="subtitles" srclang="en" label="English" src="/star-rangers/video/the-character-of-the-light.en.vtt" default>
   Your browser does not support the video element. <a href="/star-rangers/video/the-character-of-the-light.mp4">Download the film</a>.
 </video>
 
