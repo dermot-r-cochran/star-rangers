@@ -112,11 +112,11 @@ left as they stand.
 ---
 
 
-## Two films rethought, *Lúnasa* (D7) and *Nothing Taken* (D2) — Dermot's direction of 19 November 2026, briefs written the same day on Fable — point 1 OPEN, his to choose; points 2 and 3 briefed as recommended, his to overrule
+## Two films rethought, *Lúnasa* (D7) and *Nothing Taken* (D2) — Dermot's direction of 19 November 2026, briefs written the same day on Fable — point 1 RULED the same day: (b), behind one proof shot; points 2 and 3 briefed as recommended, his to overrule
 
 Dermot, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* And of the model: *"The Up People's First Stone fit the text as well as being watchable."* Both rethinks are in `video-prompts.md`, each under its film's entry as *Rethink, 19 November 2026*, with judging lines written first, the place fixed and the film cut into 10-second segments. Nothing has been generated, and no filed cut or Journal entry is touched until he picks.
 
-**1. *Lúnasa*: retire it, or rebrief it on the record's own station.** OPEN.
+**1. *Lúnasa*: retire it, or rebrief it on the record's own station.** *Ruled 19 November 2026, his* "As recommended"*: (b), behind one proof shot. The wall shot with its digits is made first, alone; if the forty seconds cannot be put on screen exactly, the film stops at one clip and (a) stands. With it, the Journal entry's open question closes (the film's station is the record's Lúnasa), and a chained remake of D1 waits until this film has been seen. Rough cut 3 stays filed until the new cut is chosen.*
 
 Read from frames, the filed cut explains a launch in six places, draws the ring as an arch of lamps from the ground and as a row of dots ruled across the globe from orbit, and has nobody and no voice in it. It also remakes the three images of *The Long White Trail*, which he likes as it stands and which the record moved toward on 19 November.
 
@@ -231,9 +231,11 @@ Kind, size, body, name and what *companion* means are all undecided; built by th
 
 Ruled: detection and exposure explain the rise in reports; a flexure's address is fixed and its depth may vary slightly. Left open on purpose: whether the rate itself has changed (the Archive has no baseline). Never to be settled by a measurement in the record's present without him. `story-bible/intake-2026-11-17.md`.
 
-## The hand-kept ledger near the boundary, and the Sceir Light's clock in 2826 form — raised by Dermot 16 November 2026, read 17 November 2026 on Fable — point 1 RULED 18 November: (a) with (b) applied; point 2 PART-RULED: the timekeeper is the keeper, the movement mechanical and not electronic; its readout form stays OPEN
+## The hand-kept ledger near the boundary, and the Sceir Light's clock in 2826 form — raised by Dermot 16 November 2026, read 17 November 2026 on Fable — point 1 RULED 18 November: (a) with (b) applied; point 2 PART-RULED: the timekeeper is the keeper, the movement mechanical and not electronic; its readout form RULED 19 November: (a), the character movement with a readout
 
 *Ruled 18 November 2026 (`story-bible/intake-2026-11-18.md`), his* "Pulled to agree" *and* "The keeper herself"*: a digital device near a boundary is pulled toward agreement and loses the difference; the keeper reads, sets and writes the time by hand from a mechanical movement; `src/glossary/instrument-drift.md` carries the clarification. Open: how the movement shows its time to the second.*
+
+*Ruled 19 November 2026, his* "As recommended"*: (a). The clock is the light's own timing movement, a plain closed housing in the lantern under the lamp, mechanical, with one small matte, unlit readout and no dial. It is proposed, not canon: it binds prompts and films only, until a chapter or a page needs the clock described.*
 
 Dermot, verbatim, on the register shown in the film *The Character of the Light* (`src/journal/the-character-of-the-light.md`): *"Strangely the hand written paper ledger in the video might actually be more robust to boundary effects than digital recording devices, although I am still not convinced about the need for analogue clocks or other old-fashioned time keeping devices."* The sentence holds two questions. Each is read against the record and put once, as options. Nothing below is canon, and no page in `src/` changes until he chooses.
 
