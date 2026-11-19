@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Peoples and Bodies extractor follows Essaran back to the Hegemony card** (`scripts/extract-peoples.js`, 2026-11-19, Opus, found cutting 1.73.0). Essaran's page borrows `lore/cerebraun-hegemony.jpg` since Dermot's ruling of 18 November, so its rule no longer claims a portrait that agrees, and the script stopped. The rule keeps its note, which now records the removal; no reading changes.
+
 ## [1.73.0] — 2026-11-19
 
 Every character page, lore page and Codex entry now carries a picture: new portraits for Vellire, Essarith, Emeka Lindahl, Aoibheann Ní Mheara, Ines Abara and Ruvel Swardkin, a header for the Convened, and borrowed pictures or title cards for the rest, with lore and character pages able to borrow a filed image across folders. Essaran returns to the Hegemony card. Instrument Drift explains why the difference is kept by hand, each Journal film names the page it is an impression of, the image rule in `CLAUDE.md` is brought up to date, and film subtitles are on by default on the Journal and watch pages.
