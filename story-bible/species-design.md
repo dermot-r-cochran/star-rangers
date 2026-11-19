@@ -312,8 +312,8 @@ variety — the [cast principle](/story-bible) against monoculture, built into t
 biology — but four regional variants is also exactly how a species becomes four
 stereotypes. Use them for texture, not for temperament.
 
-**The body itself** is put as three options, none yet chosen, in *Verdani —
-the body, as options* below (19 November 2026).
+**The body itself** is option A, the apron, ruled by Dermot on 19 November
+2026 (*"A, the apron"*): see *Verdani — the body, as options* below.
 
 ---
 
@@ -3003,9 +3003,15 @@ grey, monochrome, desaturated; captions, overlays, date stamps, lettering;
 
 ---
 
-## Verdani — the body, as options (19 November 2026, Fable, at Dermot's *"Yes, sheet first"*) — OPEN, awaiting his pick
+## Verdani — the body, as options (19 November 2026, Fable, at Dermot's *"Yes, sheet first"*) — RULED: A, the apron
 
-**Status: three options, one recommended, none chosen.** Dermot, 19 November
+**Ruled 19 November 2026: A, the apron.** Dermot, verbatim *"A, the apron"*,
+to the three options below. The apron is now the Verdani body for prompts,
+portraits and study frames; B and C stay below as the record of what was
+weighed. Whether `src/lore/verdani.md` says anything of the supports, the
+edge or the tendrils is still his, and that page is unchanged.
+
+**Status when written: three options, one recommended, none chosen.** Dermot, 19 November
 2026, verbatim *"Yes, sheet first"*, to designing a Verdani body sheet before
 another attempt at the S01E00C08 picture of Isren attending to Ulessa. A
 people's designed body is his to decide (CLAUDE.md, *Never without Dermot*),
@@ -3228,6 +3234,9 @@ without the tendrils: the sheet then lies on the floor or the table, and
 the vanes bend to it there.
 
 ### What a pick starts
+
+*Started 19 November 2026 on the ruling of A: the study round, the re-made
+`isren-farrowkin.jpg` and the S01E00C08 round, in that order (§ 61).*
 
 The chosen body is written into this section in place, with a revision note
 quoting him. One more study round runs on it. Then `isren-farrowkin.jpg` is
