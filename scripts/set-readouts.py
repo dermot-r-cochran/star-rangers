@@ -32,6 +32,18 @@ height), measured by eye from the generated frame; each --text is the reading
 for the --box before it. Characters allowed: digits and the colon.
 --preview draws the boxes in red instead of setting anything, for checking
 the measurements first.
+
+Running readouts on a clip (19 November 2026, for the Lúnasa film):
+  python scripts/set-readouts.py video TAKE.mp4 OUT.mp4 \\
+      --box X,Y,W,H --start 03:59:52 --box X,Y,W,H --start 03:59:12 --track
+  python scripts/set-readouts.py video STILL.png OUT.mp4 --hold 10 --box ... --start ...
+
+Each panel reads its --start at the first frame plus the whole seconds of
+running time, counted from the frame index, so two panels set forty seconds
+apart stay so on every frame. --track follows each panel by template match
+and fails the take (exit 1) if one drifts more than --max-drift pixels.
+Needs OpenCV (cv2) and numpy. The output is silent; the take's own sound is
+laid back in the cut.
 """
 
 import argparse
@@ -149,35 +161,150 @@ def main(argv=None):
         print(f"Preview with {len(a.box)} box(es) written to {a.output}")
         return 0
 
-    for (x, y, w, h), text in zip(a.box, a.text):
-        panel = im.crop((x, y, x + w, y + h))
-        stat = ImageStat.Stat(panel)
-        mean = [m for m in stat.mean]
-        lum = sum(mean) / 3
-        # Matte, unlit: a step lighter on a dark panel, a step darker on a pale one.
-        direction = 1 if lum < 128 else -1
-        ink = tuple(int(max(0, min(255, c + direction * a.contrast * (255 if direction > 0 else c)))) for c in mean)
-        sigma = a.grain if a.grain is not None else max(1.5, min(12.0, sum(stat.stddev) / 3 * 0.6))
-
-        mask = draw_text((w, h), text).filter(ImageFilter.GaussianBlur(0.6))
-        ink_layer = Image.new("RGB", (w, h), ink)
-        panel.paste(ink_layer, (0, 0), mask)
-        # Grain over the whole panel, so digits and panel share one texture.
-        noise = Image.effect_noise((w, h), sigma).convert("L")
-        px = panel.load()
-        npx = noise.load()
-        for j in range(h):
-            for i in range(w):
-                n = npx[i, j] - 128
-                r, g, b = px[i, j]
-                px[i, j] = (max(0, min(255, r + n // 3)), max(0, min(255, g + n // 3)), max(0, min(255, b + n // 3)))
-        im.paste(panel, (x, y))
-        print(f"Set {text} in {x},{y},{w},{h} (panel tone {lum:.0f}, ink {ink}, grain {sigma:.1f})")
+    for box, text in zip(a.box, a.text):
+        ink, lum, sigma = set_panel(im, box, text, a.contrast, a.grain)
+        print(f"Set {text} in {','.join(map(str, box))} (panel tone {lum:.0f}, ink {ink}, grain {sigma:.1f})")
 
     im.save(a.output, quality=95) if a.output.lower().endswith((".jpg", ".jpeg")) else im.save(a.output)
     print(f"Wrote {a.output}")
     return 0
 
 
+def set_panel(im, box, text, contrast=0.22, grain=None, ink=None, sigma=None, rng=None):
+    """Set `text` on the panel `box` of the RGB image `im`, in place.
+
+    The ink colour and grain are measured from the panel unless given, so a
+    video can measure them once on its first frame and hold them steady."""
+    import numpy as np
+
+    x, y, w, h = box
+    panel = im.crop((x, y, x + w, y + h))
+    stat = ImageStat.Stat(panel)
+    mean = list(stat.mean)
+    lum = sum(mean) / 3
+    if ink is None:
+        # Matte, unlit: a step lighter on a dark panel, a step darker on a pale one.
+        direction = 1 if lum < 128 else -1
+        ink = tuple(int(max(0, min(255, c + direction * contrast * (255 if direction > 0 else c)))) for c in mean)
+    if sigma is None:
+        sigma = grain if grain is not None else max(1.5, min(12.0, sum(stat.stddev) / 3 * 0.6))
+
+    mask = draw_text((w, h), text).filter(ImageFilter.GaussianBlur(0.6))
+    panel.paste(Image.new("RGB", (w, h), ink), (0, 0), mask)
+    # Grain over the whole panel, so digits and panel share one texture.
+    rng = rng or np.random.default_rng()
+    arr = np.asarray(panel, dtype=np.int16)
+    noise = np.floor(rng.normal(0, sigma, (h, w)) / 3).astype(np.int16)[..., None]
+    panel = Image.fromarray(np.clip(arr + noise, 0, 255).astype(np.uint8))
+    im.paste(panel, (x, y))
+    return ink, lum, sigma
+
+
+def parse_clock(s):
+    h, m, sec = (int(v) for v in s.split(":"))
+    return h * 3600 + m * 60 + sec
+
+
+def fmt_clock(n):
+    n %= 86400
+    return f"{n // 3600:02d}:{n // 60 % 60:02d}:{n % 60:02d}"
+
+
+def video_main(argv):
+    """Set running readouts on every frame of a clip (or of a still held).
+
+    Each --box gets a --start reading: the time the panel shows at the clip's
+    first frame. At running time t seconds a panel reads start + floor(t), so
+    two panels set 40 seconds apart stay exactly 40 seconds apart on every
+    frame. --track follows each panel from frame to frame by template match
+    and reports the largest drift, the judging line for a take whose mount
+    must hold."""
+    import cv2
+    import numpy as np
+
+    ap = argparse.ArgumentParser(prog="set-readouts.py video", description=video_main.__doc__)
+    ap.add_argument("input", help="a clip, or a still with --hold")
+    ap.add_argument("output", help="an .mp4")
+    ap.add_argument("--box", action="append", type=parse_box, default=[])
+    ap.add_argument("--start", action="append", default=[], help="HH:MM:SS shown by the --box before it at t=0")
+    ap.add_argument("--hold", type=float, help="seconds to hold a still input for")
+    ap.add_argument("--fps", type=int, default=24, help="frame rate when holding a still (default 24)")
+    ap.add_argument("--width", type=int, help="scale a held still to this width first (boxes are in the scaled frame)")
+    ap.add_argument("--contrast", type=float, default=0.22)
+    ap.add_argument("--track", action="store_true", help="follow each panel by template match; report drift")
+    ap.add_argument("--max-drift", type=int, default=4, help="pixels of drift that fail the take (default 4)")
+    a = ap.parse_args(argv)
+    if len(a.box) != len(a.start) or not a.box:
+        ap.error("give one --start per --box")
+    starts = [parse_clock(s) for s in a.start]
+
+    def frames():
+        if a.hold:
+            im = Image.open(a.input).convert("RGB")
+            if a.width:
+                im = im.resize((a.width, round(im.height * a.width / im.width / 2) * 2), Image.LANCZOS)
+            for i in range(round(a.hold * a.fps)):
+                yield i / a.fps, im.copy(), a.fps
+        else:
+            c = cv2.VideoCapture(a.input)
+            rate = c.get(cv2.CAP_PROP_FPS)
+            if not c.isOpened() or not rate:
+                ap.error(f"cannot read {a.input}")
+            i = 0
+            while True:
+                ok, f = c.read()
+                if not ok:
+                    break
+                # Time from the frame index, so the count is exact even if
+                # the container's timestamps are not.
+                yield i / rate, Image.fromarray(cv2.cvtColor(f, cv2.COLOR_BGR2RGB)), rate
+                i += 1
+
+    out = None
+    inks, sigmas, tmpl, drift = {}, {}, {}, [0] * len(a.box)
+    rng = np.random.default_rng(7)
+    t_first = None
+    shown = [[] for _ in a.box]
+    for t, im, rate in frames():
+        if t_first is None:
+            t_first = t
+        t -= t_first
+        if out is None:
+            out = cv2.VideoWriter(a.output, cv2.VideoWriter_fourcc(*"mp4v"), float(rate), (im.width, im.height))
+            if not out.isOpened():
+                ap.error(f"cannot write {a.output}")
+        gray = np.asarray(im.convert("L"))
+        for k, (box, s0) in enumerate(zip(a.box, starts)):
+            x, y, w, h = box
+            if a.track:
+                if k not in tmpl:
+                    tmpl[k] = gray[y:y + h, x:x + w].copy()
+                else:
+                    m = 12
+                    x0, y0 = max(0, x - m), max(0, y - m)
+                    win = gray[y0:y + h + m, x0:x + w + m]
+                    _, _, _, loc = cv2.minMaxLoc(cv2.matchTemplate(win, tmpl[k], cv2.TM_CCOEFF_NORMED))
+                    dx, dy = x0 + loc[0] - x, y0 + loc[1] - y
+                    drift[k] = max(drift[k], abs(dx), abs(dy))
+                    box = (x + dx, y + dy, w, h)
+            text = fmt_clock(s0 + int(t + 1e-6))
+            if not shown[k] or shown[k][-1][1] != text:
+                shown[k].append((round(t, 3), text))
+            inks[k], _, sigmas[k] = set_panel(im, box, text, a.contrast, ink=inks.get(k), sigma=sigmas.get(k), rng=rng)
+        out.write(cv2.cvtColor(np.asarray(im), cv2.COLOR_RGB2BGR))
+    out.release()
+
+    for k, seq in enumerate(shown):
+        turns = [f"{t:.3f}s {txt}" for t, txt in seq if txt.endswith(":00")]
+        print(f"panel {k + 1}: {seq[0][1]} to {seq[-1][1]}, {len(seq)} readings; on the minute: {', '.join(turns) or 'none'}")
+    if a.track:
+        for k, d in enumerate(drift):
+            print(f"panel {k + 1}: largest drift {d}px ({'FAIL' if d > a.max_drift else 'holds'})")
+    print(f"Wrote {a.output}")
+    return 1 if a.track and max(drift) > a.max_drift else 0
+
+
 if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1] == "video":
+        sys.exit(video_main(sys.argv[2:]))
     sys.exit(main())
