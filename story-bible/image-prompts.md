@@ -5462,3 +5462,45 @@ Dermot, 20 November 2026, verbatim *"Yes, as recommended"*. The record is `image
 > The tips rest on the hard surface without denting it, each casting a small sharp shadow.
 > 
 > No legs or bodies entering from the frame edge, no hand, no fingers, no spider, no insect, no eyes. No text, letters, numbers, screens or lights. Photographed, not rendered: natural colour, normal exposure, the same grain as the original. Output the whole frame at the same composition.
+
+## 2026-11-20 — Elsha Rootkin re-opened on the apron body: one round, nothing filed (Fable, desktop)
+
+The record is `images.md` § 42, *Re-opened 20 November 2026, on the apron body*, which holds the prompt verbatim, the judging line written before the round, and each take's verdict. **Tool:** Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, no reference image, 2K, 16:9. Four images; none refused.
+
+- **Kind:** fresh generations, no reference image
+- **Run:** one round, four takes. None filed. Every take drew the shell sections as rounded pads carrying present-day interface signs (a play triangle, a menu sign), the century rung; take 2 is the near miss on body and attention, takes 3 and 4 fail rung 1 as a mound and as a spread hide.
+- **Next:** an edit of take 2 that changes the marks and the housing only; waits on Dermot.
+
+## 2026-11-20 — Elsha Rootkin: three edits, filed (Opus, desktop)
+
+### characters/elsha-rootkin.jpg — edited and filed
+- **Kind:** three image edits through `scripts/image-edit.js`, two takes each: edit 1 of round take 2, edit 2 of edit 1 v1, edit 3 of edit 2 v1; edit 3 take 1 filed. Record in `images.md` § 42.
+- **Edit 1:**
+
+> Edit the attached photograph. Keep everything exactly as it is: the camera, framing, light, sky, ground, the creased grey hide with its scars, puckered collars and fine hairs, all five vanes and their positions, and the two dark vanes bent toward the object on the ground. Change only these three things:
+> 
+> 1. Remove the three raised green pads with the bar icon and the triangle icon from the hide completely. In their place the hide continues, creased and scarred like the rest of it, and two or three thin irregular sections of a slightly darker grey-green shell lie flush in the skin along the creases, no thicker than a fingernail, their edges uneven and following the folds, with no symbols, no icons, no shapes and no markings on them. Next to the nearest vane collar, one narrow plain pale grey-green strip lies flush in the hide, crossed by three short plain parallel bars of darker olive, with no frame, no border, no raised edge and no button look.
+> 
+> 2. Replace the white object on the ground at the right with one plain smooth closed capsule of pale matte composite, rounded like a river pebble, one piece, with no foot, no flap, no hinge, no seam and no markings, resting on the ground in the same place.
+> 
+> 3. Replace the dark layered growth at the far left with low pale-grey stones and bare ground, so nothing like an Earth fungus or plant shows there.
+> 
+> No buttons, no icons, no play symbol, no menu symbol, no screens, no glowing, no text, letters or numbers anywhere. Photographed, not rendered: the same high-ISO grain and natural colour as the original. Output the whole frame at the same composition.
+
+- **Edit 2:**
+
+> Edit the attached photograph. Keep everything exactly as it is: the camera, framing, light, sky, rocks, ground, the pale capsule at the right, the creased grey hide with its scars, pits, flaking and fine hairs, all five vanes and their collars. Change only the two grey-green patches and the bar strip on the hide:
+> 
+> 1. The two flat grey-green patches must look grown, not stuck on. Make them thinner and smaller, set down into the hide so the skin folds slightly over their edges all round, their surface following the creases of the hide underneath, the same slightly darker grey-green with a faint natural sheen like a fingernail or a beetle's shell, their edges uneven and partly hidden under the skin. No flat plaster look, no paper look, no crisp outline sitting on top of the skin.
+> 
+> 2. The three short olive bars stay, small, on the nearer patch, set into it, flush. Remove the long pale strip and its tail completely: there is no strap, no tag, no band, no belt and nothing running across the hide. The skin is continuous where the strip was.
+> 
+> No buttons, icons, symbols, straps, belts, tags, labels, text, letters or numbers anywhere. Photographed, not rendered: the same grain and natural colour as the original. Output the whole frame at the same composition.
+
+- **Edit 3 (filed, take 1):**
+
+> Edit the attached photograph. Keep everything exactly as it is: the camera, framing, light, sky, rocks, ground, the pale capsule at the right, all five vanes and their puckered collars, and the creased grey hide with its scars, pits, flaking and fine hairs.
+> 
+> Remove the two flat grey-green patches and the three olive bars on them completely. Where they were, the hide simply continues: the same creased, pitted, faintly scarred grey skin with the same fine hairs, the folds running on unbroken from the skin around them, as if nothing had ever been there.
+> 
+> No patches, plates, shells, bars, buttons, icons, straps, tags, labels, text, letters or numbers anywhere on the hide or in the frame. Photographed, not rendered: the same grain and natural colour as the original. Output the whole frame at the same composition.
