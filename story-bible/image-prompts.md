@@ -5462,3 +5462,11 @@ Dermot, 20 November 2026, verbatim *"Yes, as recommended"*. The record is `image
 > The tips rest on the hard surface without denting it, each casting a small sharp shadow.
 > 
 > No legs or bodies entering from the frame edge, no hand, no fingers, no spider, no insect, no eyes. No text, letters, numbers, screens or lights. Photographed, not rendered: natural colour, normal exposure, the same grain as the original. Output the whole frame at the same composition.
+
+## 2026-11-20 — Elsha Rootkin re-opened on the apron body: one round, nothing filed (Fable, desktop)
+
+The record is `images.md` § 42, *Re-opened 20 November 2026, on the apron body*, which holds the prompt verbatim, the judging line written before the round, and each take's verdict. **Tool:** Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, no reference image, 2K, 16:9. Four images; none refused.
+
+- **Kind:** fresh generations, no reference image
+- **Run:** one round, four takes. None filed. Every take drew the shell sections as rounded pads carrying present-day interface signs (a play triangle, a menu sign), the century rung; take 2 is the near miss on body and attention, takes 3 and 4 fail rung 1 as a mound and as a spread hide.
+- **Next:** an edit of take 2 that changes the marks and the housing only; waits on Dermot.
