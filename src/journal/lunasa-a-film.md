@@ -2,7 +2,7 @@
 layout: journal-entry.njk
 title: "Lúnasa, a Film"
 date: "2026-11-17"
-description: "A wordless rough cut of a launch from a bay at dawn and the climb to a station in a ring, made as a chain of 10-second generated clips. It is filed here as an impression, with an exact list of where it departs from its brief and from the record, and with one question about its name left open."
+description: "A wordless rough cut of a launch from a bay at dawn and the climb to a station in a ring, made as a chain of 10-second generated clips. The film was withdrawn on 19 November 2026, and this page keeps the exact list of where it departs from its brief and from the record."
 eleventyExcludeFromCollections: true
 robots: "noindex, follow"
 tags: [editorial, craft, process, images, canon]
@@ -30,11 +30,3 @@ In the first two versions the view from orbit showed the whole ring as a closed 
 - **The climb.** It is steeper than the gentle climb the brief asked for, and the long rise seen from the terrace is cut to six seconds.
 - **The earth from orbit.** The brief wanted the earth large and the ring curving away on both sides into its edge. The film has a small earth and a straight line.
 - **The ending.** The brief ends on a drift toward one lit opening. The film stops earlier, with the station still a plain dark shape.
-
-## One question left open
-
-The record's [Lúnasa](/star-rangers/lore/lunasa/) is a Survey Corps station in Earth orbit that keeps a reference time. Whether the station in this film is that Lúnasa, or the film should carry another name, is open. I have not decided it.
-
-## Where it stands
-
-It is fine as a Journal impression. It would need more polish before it could be attached to a chapter or an episode, and it is not linked from the lore page.
