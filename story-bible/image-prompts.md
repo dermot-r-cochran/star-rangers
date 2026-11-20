@@ -5433,3 +5433,10 @@ Dermot, 20 November 2026, verbatim *"Yes, as recommended"*. The record is `image
 ```powershell
 .\scripts\make-emblem-card.ps1 -Page src\lore\verdani.md -Device vanes -Tint '#1C3424' -Accent '#8CD48A' -Epithet 'Photosynthetic Symbiosis' -Qualifier 'Thallenwort · Kinbeds'
 ```
+
+## 2026-11-20 — Oshek Var re-opened: one round, nothing filed (Fable, desktop)
+
+### characters/oshek-var.jpg — not filed
+- **Kind:** fresh generation, one round of four, at Dermot's *"Yes reopen those two"*. Gemini `gemini-3.1-flash-image` through `scripts/image-prompts.js --generate --only oshek-var --variations 4`, 2K, 16:9, no reference image, none refused.
+- **Prompt:** the blockquote under the entry in `images.md` § 40, verbatim; the judging line and the changes from the 26 October prompt are recorded there.
+- **Result:** 1 a beetle or spider, 2 a human hand, 4 a spider or crab; 3 a near miss (no animal, the work reads, but the members read a little as cane and the housing as padded leather). The pick, and whether variation 3 is edited, wait on him.
