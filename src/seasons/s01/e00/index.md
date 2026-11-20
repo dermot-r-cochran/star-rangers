@@ -15,7 +15,7 @@ permalink: /seasons/s01/e00/
 <img class="page-hero-image" src="/star-rangers/images/hero/s01e00-aldera-wall.jpg" alt="A young brown tabby cat in a slim black collar with a small round grey tag steps along the top of an old moss-covered dry-stone wall in a wood, looking back over her shoulder, with leaf litter on the slope and tall trunks behind." />
 <h1 class="page-title">Season 1 · Episode 0</h1>
 <p class="page-intro">
-  What came before Episode 1, and beside it, at different distances. These chapters run from a long-voyage ship in 2788 UCSD to the autumn of the station itself, some of them years back and some in the same year. They are listed in their numbered order, not the order they happened, so each line carries its date. They read best after the station, when you know what they were before.
+  Season 0 is the Founding Era. This episode comes after it, and is not one story but several short ones, each introducing some of the people of Season 1's world. What came before Episode 1, and beside it, at different distances. These chapters run from a long-voyage ship in 2788 UCSD to the autumn of the station itself, some of them years back and some in the same year. They are listed in their numbered order, not the order they happened, so each line carries its date. They read best after the station, when you know what they were before.
 </p>
 
 {% set seasonNumber = "1" %}

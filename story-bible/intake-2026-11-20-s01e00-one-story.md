@@ -1,5 +1,11 @@
 # Season 1 Episode 0 as one story — 20 November 2026 (Opus)
 
+**Ruled the same day (Decision 1).** Dermot reframed the question, verbatim: *"several unrelated stories to introduce various characters"*. Put as (a) introductions by design, needing only a line that tells the reader so, or (b) one story needing a join, he chose (a): *"Option (a) is fine"*. For the line: *"So Season 0 is the Founding Era and Season 1 introduces some of the characters"*. The read below stands as diagnosis; the repair is a framing sentence, not a join. Added at the head of the episode index intro (`src/seasons/s01/e00/index.md`), the existing intro kept whole after it:
+
+> Season 0 is the Founding Era. This episode comes after it, and is not one story but several short ones, each introducing some of the people of Season 1's world.
+
+Read and approved by him the same day, verbatim: *"Approved"*; merged in #2033. Options 2 and 3 are not taken, and no chapter changes. Decision 2 stays open.
+
 **The direction.** Dermot, 20 November 2026, verbatim: *"Season 1 Episode 0 reads as three apparently unrelated short stories"*. Held against CLAUDE.md's *An episode reads as a self-contained short story or set of chapters* (2026-11-05), *Vary the way in* (2026-10-30) and the canon-extension rule. The `next-improvement` question was asked of this one episode, with the `benevolent-critic` verdict shape. No prose was drafted and nothing under `src/` was changed. The choices below are put to him, not taken. Index line in `open-questions.md`.
 
 **What was read.** All fourteen chapters, `s01e00c00` to `s01e00c13`, in full on `origin/main` at `9ac27a77`, with the episode index (`src/seasons/s01/e00/index.md`), the Season 1 index and its thread (Tissadelle Shepherd's Arc), the first chapters of Episodes 1 to 3 for the forward links, and the placement notes of each chapter in its intake (`intake-2026-10-05`, `-10-19`, `-10-20`, `-10-26`, `-10-28`). The continuity audit (`intake-2026-11-20-continuity-seams.md`) looked at joins between chapters and found none broken inside the episode. This read asks a different question: whether the episode reads as one thing.
