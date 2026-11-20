@@ -93,6 +93,16 @@ Items 1 and 2 of this read are under *Needs his choice* above.
 | 11 | flaw | `s13e01c01.md:19` vs `:99,129` | Canon_fact *"gone at the hall's turn"*; the hall is straight and it goes at the fourth door | fm: *"at the fourth door on the left"* |
 | 12 | unsupported | `s11e01c03.md:62,100` vs `s11e01c01.md:70`, `s11e01c02.md:82` | Carried-It-Sleeping *"watched the up-people twice"*; the page shows once | prose: *"once"*; *"had heard it go, from the squeeze"* |
 
+## Applied, 20 November 2026
+
+His *"Yes, apply them"*. Four Fable editors applied the single repairs in one pass, each re-reading every item against the text as it stood after #2021 and #2024; Opus reviewed the whole diff and tidied three wordings. 44 rows applied, 7 already fixed by #2021, 2 skipped on an in-story reading the continuity-seams audit had already ruled (*Left*): the six Halvorsen revisits (S02–S04 row 5) and Carried-It-Sleeping's two watches (S11–S14 row 12). Departures from the table, each smaller or truer to the text:
+
+- S00–S01 row 1: the spans went to *four days*, *the first night* and *two days*; the *third week* phrases at `s01e03c03.md:167` and `s01e03c06.md:89` stand as the survey's third week. Row 14's *two more* was dropped: #2021 had already made the officers three.
+- S05–S10 row 1: the S10 wrong zero is now *a ground for refusal*, prose and canon_fact; row 9 uses *with the job down to its snagging list* and *dated that shift*, because the cutting was already certified when the line was written; row 13 judged from the picture (grey hair, reads late forties).
+- S11–S14 row 9: twelve swaps, Told speech and deep-side narration only; two read *now* where *this telling* would have repeated *telling*. The record-voice canon_facts and other deep-side *day* idioms were left.
+
+The five choices above are still his.
+
 ## Found clean
 
 The Founding Era dates and ages; Galahad's 2806/2814/2826 arithmetic; the dock clocks and the grove timings; the S04E02 mass arithmetic; S03E03C02's 160 agreements and relay round trip; S02E11's loop counts; Season 6's 19/34/53-day chain; the S10 day chain; *fourteen centuries* (1216 AD = 1416 UCSD); the S14 shift arithmetic (211 / 164 / 16 + 148; 219 / 156); the S11 count of sixteen; the three Below the Roof convergences detail for detail; the Told's body and senses against the 17 November design; rank bars, names and pronouns throughout.

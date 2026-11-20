@@ -126,7 +126,7 @@ A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022
 ---
 
 
-## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — five choices OPEN, his; 53 single repairs waiting on his go-ahead
+## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — five choices OPEN, his; the 53 single repairs APPLIED the same evening (his *"Yes, apply them"*)
 
 `critic-read-2026-11-20-whole-story.md` holds the read: 58 findings across all 125 chapters, each with its cheapest repair, one already in the continuity-seams list. Five need his choice and are set out at the head of that file: the stones on the line in Below the Roof (and, following from it, whether the knock goes through the squeeze), the false zero's age in S10E01, the sixth morning in S02E08, and how long a Board season is. The rest are single repairs (a number, a word, a clause, a timestamp) and none changes canon.
 
