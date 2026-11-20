@@ -111,7 +111,7 @@ left as they stand.
 
 ---
 
-## Season 1 Episode 0 reads as three stories — put to Dermot 20 November 2026 (Opus), from his *"Season 1 Episode 0 reads as three apparently unrelated short stories"* — Decision 1 RULED 20 November 2026: the stories are introductions by design (*"several unrelated stories to introduce various characters"*, then *"Option (a) is fine"*), so only the episode index says so, after the Founding Era of Season 0 (*"So Season 0 is the Founding Era and Season 1 introduces some of the characters"*); framing sentence in PR `s01e00-framing-2026-11-20`, awaiting his read. No joining scene, no chapter prose changed; options 2 and 3 not taken. Decision 2 still OPEN
+## Season 1 Episode 0 reads as three stories — put to Dermot 20 November 2026 (Opus), from his *"Season 1 Episode 0 reads as three apparently unrelated short stories"* — Decision 1 RULED 20 November 2026: the stories are introductions by design (*"several unrelated stories to introduce various characters"*, then *"Option (a) is fine"*), so only the episode index says so, after the Founding Era of Season 0 (*"So Season 0 is the Founding Era and Season 1 introduces some of the characters"*); framing sentence approved (*"Approved"*) and merged in #2033. No joining scene, no chapter prose changed; options 2 and 3 not taken. Decision 2 still OPEN
 
 Full read in `intake-2026-11-20-s01e00-one-story.md`. The three: Dún Rí (C00–C03), the wreck (C04), readings at the edge (C05–C13). The join is the theme of all fourteen endings, what a record keeps and leaves out, plus the forward links to Season 1. The index names only time.
 

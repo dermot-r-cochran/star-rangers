@@ -4,7 +4,7 @@
 
 > Season 0 is the Founding Era. This episode comes after it, and is not one story but several short ones, each introducing some of the people of Season 1's world.
 
-Awaiting his read before merge. Options 2 and 3 are not taken, and no chapter changes. Decision 2 stays open.
+Read and approved by him the same day, verbatim: *"Approved"*; merged in #2033. Options 2 and 3 are not taken, and no chapter changes. Decision 2 stays open.
 
 **The direction.** Dermot, 20 November 2026, verbatim: *"Season 1 Episode 0 reads as three apparently unrelated short stories"*. Held against CLAUDE.md's *An episode reads as a self-contained short story or set of chapters* (2026-11-05), *Vary the way in* (2026-10-30) and the canon-extension rule. The `next-improvement` question was asked of this one episode, with the `benevolent-critic` verdict shape. No prose was drafted and nothing under `src/` was changed. The choices below are put to him, not taken. Index line in `open-questions.md`.
 
