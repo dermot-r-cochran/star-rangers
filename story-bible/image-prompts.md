@@ -5504,3 +5504,22 @@ The record is `images.md` § 42, *Re-opened 20 November 2026, on the apron body*
 > Remove the two flat grey-green patches and the three olive bars on them completely. Where they were, the hide simply continues: the same creased, pitted, faintly scarred grey skin with the same fine hairs, the folds running on unbroken from the skin around them, as if nothing had ever been there.
 > 
 > No patches, plates, shells, bars, buttons, icons, straps, tags, labels, text, letters or numbers anywhere on the hide or in the frame. Photographed, not rendered: the same grain and natural colour as the original. Output the whole frame at the same composition.
+
+## 2026-11-20 — The Tissadelle Arc thread banner (Opus, desktop)
+
+### hero/tissadelle-arc.jpg — generated and filed
+- **Kind:** reference-led generation through `scripts/image-edit.js`, Gemini `gemini-3.1-flash-image`, 2K, 21:9, four takes; take 2 filed, cropped and healed by hand. Record in `images.md` § 90.
+- **References, in order:** `src/images/hero/season-01.jpg`, `src/images/chapters/s01e01c04.jpg`, `src/images/characters/tissadelle/season-1-first-posting.jpg`.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, wide 21:9 landscape, taken at standing height from a few paces behind a watch desk, deep focus, at work, never posed, nobody looking at the camera.
+> 
+> The place is Dock Seven of Threshold Station, a quiet docking hall eight centuries from now, on an evening in early summer of the year 2828 UCSD: the same pale cream dock wall as the first reference image, clean and kept, seamless matte composite with soft rounded seams. In the wall, across the middle of the frame: on the left a heavy rounded pressure seal with its thick grey gasket frame, and on the right, well apart from it, a smaller sealed inner hatch with rounded corners, both shut. High above each door, on a rounded cream bracket, one of two identical atomic clocks exactly as in the first reference image: a clear glass cylinder under a rounded cream cap holding a faint soft violet cloud of trapped atoms, and below it a small dark matte readout window, blank and unlit. The two clocks and the tops of both doors sit in the upper middle of the frame.
+> 
+> In the foreground, across the lower part of the frame, the long low watch desk of pale composite, its top a plain smooth surface, with one bound log lying open on it, a set of plain blank matte leaves hinged on a rod, as in the second reference image; nothing on the leaves can be read.
+> 
+> Two people at the desk, both seen from behind and a little from the side, their faces turned away toward the wall, neither face shown. At the left, a young cadet sits at the desk writing in the log with a plain stylus, head bowed to the work, short dark hair, in a dark slate-grey field uniform with a plain stand collar. Standing just behind and to the right of the cadet, a little apart, is a woman of about twenty-eight with long red hair pinned up loosely, a few strands falling free, in the same dark slate-grey field uniform with a plain stand collar, seen from behind and from her left shoulder, the line of her cheek just visible, upright and still, her hands at her sides, looking up at the two clocks above the doors. She is the same woman as the third reference image. Nothing is on the back of either uniform.
+> 
+> Evening light: the dock is quieter and dimmer than by day, the light simply in the room, soft and even from no visible source; the violet in the two clocks is faint, not glowing brightly. Shot on a real camera: a little grain, a soft corner, slightly muted colour, a real shadow floor, not glossy.
+> 
+> No visible light fittings, no ceiling panels, no light strips, no lamps. No screens, monitors, tablets, holograms or glowing panels; no dials, gauges, knobs, toggles, meters or exposed cables; no signage, no lettering, no numbers anywhere in the frame. No grime, rust, scuffs or debris. No weapons, no belts, no backpacks, no helmets. Only the two people; nobody else.
