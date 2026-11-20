@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Communion of the Called: judgment as light, forgiveness as release** (`src/lore/communion-of-the-called.md`, `story-bible/intake-2026-11-20.md`, 2026-11-20, Opus, Dermot's *"Go with the light shape on the Communion page"*). An extension to the overlay page: the Communion keeps the creeds' judge but not the courtroom, reading judgment as the light showing what each person has become. Forgiveness releases and restores without erasing what was done; the cosmic debt is read from the harmed's side; on Arilon, the Communion names whom it believes the shape points to, filed as its own reading.
+
 - **The Fellowship of Light: spiritual reward and consequence are intrinsic** (`src/lore/fellowship-of-light.md`, `story-bible/intake-2026-11-20.md`, 2026-11-20, Opus, Dermot's direction). An extension: one paragraph records that the chapters read reward and consequence as what an act makes of the one who acts, with no heavenly court or judge, and press the reading on no tradition. It is placed inside the Cascade's refusal of a moral cosmology, as nothing the world sorts by merit, and set beside the Institute's *Three Claims Concerning the Dead*.
 
 - **Two films withdrawn as negative examples: *Lúnasa* (D7) and *Nothing Taken* (D2)** (`src/journal/`, `src/video/`, `lib/videos.js`, `story-bible/`, 2026-11-20, Dermot's *"Remove both"* and *"Likewise for Nothing Taken"*). The rough cuts, posters, subtitles and watch pages are off the site. Both Journal entries keep their addresses but are unlisted and noindex. The two rough cuts and the D7 rethink are filed in `story-bible/negative-examples/` with their faults.
