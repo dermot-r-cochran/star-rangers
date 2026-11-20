@@ -9,7 +9,7 @@ aliases: []
 tags: [human, earth, sol-system, threshold-station, sceir-light, lights-board, coast, timekeeping, instrument-drift, boundary-zone, civilian, attendant]
 description: "The attendant of the Sceir Light on the shore below Threshold Station, who keeps the Lights Board's lamp, clock and tide gauge and writes down, in seconds, what keeping the clock correct has cost; in 2826 UCSD she totalled a season's corrections at nine for the second time, and a season later a survey party walked the spit and asked for the book nobody had asked for."
 image: "chapters/s01e00c10.jpg"
-image_alt: "A small whitewashed stone lighthouse at dusk on a shore of grey rounded shingle, worn steps at its foot, its lamp lit behind the lantern glass and a short soft beam leaving it. Across flat grey water to the left, far off, a long low smooth dark hull-shaped form lies on the sea with three small warm lights along its waterline, each reflected in the still water."
+image_alt: "A whitewashed stone lighthouse at dusk on a shore of grey rounded shingle: a tall round tower, tapering a little, with two small deep-set windows up its height, a plain arched wooden door at its foot reached by a few worn stone steps, an iron gallery rail near the top and a glazed lantern with a dark cap, its lamp lit behind the glass. Across flat grey water to the left, far off, a long low smooth dark hull-shaped form lies on the sea with three small warm lights along its waterline, each reflected in the still water."
 image_caption: "The Sceir Light at dusk; from Correction Applied (S01E00C10)"
 ---
 
