@@ -234,7 +234,7 @@ Made on the ruled Verdani body, option A (`species-design.md`, *The study round 
 | `isren-farrowkin-apron-rounds-2026-11-19.jpg` | Isren Farrowkin | The replaced frame, then fourteen takes: two fresh rounds and three edits. Every take that showed an edge of her body failed rung 1 (a seal, two hippopotamuses, a cushion, a rug, a green blanket, a sea slug, a hide over the edge of a slab). The close band, with no edge in view, failed only on its tendrils, drawn as rods. Lesson: name the tendrils as her own creased skin, each from its own collar. | Edit B, take 1 filed. |
 | `s01e00c08-apron-round-2026-11-19.jpg` | S01E00C08 | The replaced frame, four takes, two edit takes and the filed composite. Take 1 repeated the portrait and grew a second sheet; take 3 curved the hide into a plated back; take 4 drew insect wings and a bound book. Take 2 failed only on two working limbs and a steel rail. Both edit takes added two limbs, not one. Lesson: a reference portrait sent whole is repeated whole; and a limb count is set by pasting one region back, not by asking again. | Take 2 with the edit's rail removal and one added limb filed. |
 
-## Three films withdrawn, 20 November 2026
+## Three films withdrawn, 19 November 2026
 
 Dermot withdrew two filed films and the remake made to replace one of them: *"Remove both"*, then *"Both are
 negative examples for future reference, unpublished from the site, unlisted if they have pages that cannot or should

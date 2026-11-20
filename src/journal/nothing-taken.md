@@ -12,7 +12,7 @@ This is a rough cut of one chapter, [Nothing Taken](/star-rangers/seasons/s01/e0
 
 On a still afternoon three goats move together in a field for no dog. Straw gets up off the ground by the gable of a house, goes along the yard wall and lies down. A man stands on his back threshold with his head down, beside a door that is open outward and lying flat against the wall, on hinges hung to open inward. A Ranger walks down the lane with a case and puts her hand to the same door. In the morning the door opens inward again, and he walks out through it.
 
-*This film was withdrawn on 20 November 2026 and is no longer shown on the site. At Dermot's word, the rough cut of D2 is kept in the story bible as a negative example, with its frames and its faults, and this page is unlisted.*
+*This film was withdrawn on 19 November 2026 and is no longer shown on the site. At Dermot's word, the rough cut of D2 is kept in the story bible as a negative example, with its frames and its faults, and this page is unlisted.*
 
 ## Where it departs
 
