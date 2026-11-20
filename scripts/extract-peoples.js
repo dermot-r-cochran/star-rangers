@@ -238,6 +238,7 @@ const PEOPLES = [
       "isren-farrowkin": { check: "agrees", evidence: ["src/characters/isren-farrowkin.md", "with no head and no face"], note: "Filed 12 October 2026 (century batch 6); re-made 19 November 2026 on the ruled body, option A, the apron: a band of creased hide, six vanes, four to the light and two bent to a sheet held in two tendrils, no head or face, no rim and no feet." },
       "meril-duskkin": { check: "agrees", evidence: ["src/characters/meril-duskkin.md", "the duller olive-brown of a fenland strain"], note: "Filed 26 October 2026 (round 1, his pick): one olive-bronze vane over a creased mound, no head or face." },
       "tavin-ledgekin": { check: "agrees", evidence: ["src/characters/tavin-ledgekin.md", "the pale, high-reflectance colour of a high-terrace strain"], note: "Filed 26 October 2026 (round 1, his pick) and remade 10 November 2026 (his pick): three pale vanes from one creased mound, leaning together toward the settlement below, no head or face." },
+      "elsha-rootkin": { check: "agrees", evidence: ["src/characters/elsha-rootkin.md", "No face, no legs and no markings are in view."], note: "Removed 10 November 2026 under the century bar; re-made 20 November 2026 on the apron body (images.md § 42, his 'File Elsha'): a close band of creased hide, five vanes, three open to the light and two bent toward a capsule she has set down; her shell marks out of frame." },
       "ruvel-swardkin": { check: "agrees", evidence: ["src/characters/ruvel-swardkin.md", "reddish colour of a steppe strain"], note: "Filed 18 November 2026 (images.md § 85, round 2, an edit of round 1's frame): three russet-red vanes from one creased mound, leaning together away from the low sun, no head or face." },
     },
   },
@@ -250,6 +251,7 @@ const PEOPLES = [
     },
     pageBody: ["src/lore/veyr-basaltborn.md", "The load-bearing structure is an external lattice of fine chitinous members"],
     portraits: {
+      "oshek-var": { check: "agrees", evidence: ["src/characters/oshek-var.md", "No eyes, no hub and no other part of the body is in view"], note: "Removed 10 November 2026 under the century bar; re-made 20 November 2026 (images.md § 40, his 'File Oshek'): part of the body, close, slender dark members of living shell resting on a composite housing, two fine tips meeting on its seam while the others brace." },
       "qiren-tal": { check: "agrees", evidence: ["src/characters/qiren-tal.md", "The body is an open lattice of fine dark iridescent struts with no solid trunk", IMAGES_FILE, "Keep the filed portrait for now"], note: "The body matches; the filed frame is kept with a recorded gap, since every round since 10 October drew the lattice as a rendered spider." },
     },
   },

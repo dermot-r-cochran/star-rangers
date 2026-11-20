@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Fixed
+
+- **The Peoples and Bodies extractor checks the two re-made portraits** (`scripts/extract-peoples.js`, 2026-11-20, Opus). The 1.75.0 artefact run stopped because Elsha Rootkin's and Oshek Var's portraits, re-made the same day, had no check in the rule table. Each now has an *agrees* line with a quote from its page's alt, as Isren Farrowkin's did on 19 November. No data was edited.
+
 ## [1.75.0] — 2026-11-20
 
 Three bridging scenes from the continuity-seams audit open S00E03C01, S02E03C01 and S06E01C01, and a whole-story read for technical flaws applies its single repairs across every season. S01E00C02 is rewritten as a drone search, *Out of Range*, with a re-made picture, and Aldera keeps the house's collar. Three more chapter clips are embedded with watch pages, Oshek Var's and Elsha Rootkin's portraits are re-made, the Sceir Light is drawn at its true scale, and the Tissadelle Arc thread gets its own banner. Several critic points are ruled and applied.
