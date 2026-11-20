@@ -12,7 +12,7 @@ This note is the audit. It drafts no prose and changes nothing under `src/`. Ste
 
 ## Method
 
-- **What was read.** All 124 published chapters, `s00e01c01` to `s14e02c03`, each in full, in story order (season, episode, chapter), together with every season and episode index page. Eight Opus read-only passes each took one thread or part of one: Founding Era, Church Space, Young Star Rangers and the Infinite Castle; Season 1 Episode 0; Season 1 Episodes 1 to 3; Season 3; Seasons 5 to 7; Undercover Pets and Orbital Five-O; Below the Roof Seasons 11 and 12; Season 14. Each pass gave a verdict on every adjacent pair. Opus then checked every candidate against the chapters, the character pages and the story bible before it was listed here.
+- **What was read.** All 125 published chapters, `s00e01c01` to `s14e02c03`, each in full, in story order (season, episode, chapter), together with every season and episode index page. Eight Opus read-only passes each took one thread or part of one: Founding Era, Church Space, Young Star Rangers and the Infinite Castle; Season 1 Episode 0; Season 1 Episodes 1 to 3; Season 3; Seasons 5 to 7; Undercover Pets and Orbital Five-O; Below the Roof Seasons 11 and 12; Season 14. Each pass gave a verdict on every adjacent pair. Opus then checked every candidate against the chapters, the character pages and the story bible before it was listed here.
 - **Which seams were judged.** Every chapter-to-chapter seam inside an episode. Every episode end against the next episode's start. The season-to-season seam inside each thread: S01 to S03, S03 to S05, S05 to S06, S06 to S07, S04 to S10, S11 to S12 and S12 to S14.
 - **The bar.** A seam is listed only where a reader loses the thread:
   - a jump in place, time or who is present that nothing on the page bridges, and that the later chapter leans on;
@@ -94,7 +94,7 @@ None. Each season's above-the-line episode retells the same season, and its inde
 
 | | |
 |---|---|
-| Seams judged | 116: the 109 adjacent pairs inside seasons, and the seven season seams inside threads |
+| Seams judged | 117: the 110 adjacent pairs inside seasons, and the seven season seams inside threads |
 | Episode boundaries among them | 27, besides the seven season seams |
 | Seams that need a scene | **3**: S00-1, S02-1, S06-1 |
 | Settled by recommendation, his to overrule | 2: S00-1, S02-1 |
