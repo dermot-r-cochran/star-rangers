@@ -284,7 +284,26 @@ Nothing. Every chapter and index page was read.
 ### Below the Roof
 
 - **The stones on the line (S12 and S14).** Put to him: `open-questions.md`, *The knock stones on the line*, held in its own pull request. No counting reading closes it, and the reasons are given there.
-- **S12E01C02, the knock *to the squeeze, not through it … on their side*.** Put to him, as part of the same question. It is the plain fix if the stones are settled one way and the answer itself if they are settled another.
+  **Ruled 20 November 2026, option (a).** Dermot, verbatim: *"(a) Stones stay in a row"*.
+
+  **Applied.** Each count passage gains one clause, in its own block's voice, that the four are the four the Told name and the up-people's older knock stones lie in a row along the line, each where it was set. S12E01C02's routine knock moves through the squeeze onto the line. No event and no character's act changes.
+
+  - `src/seasons/s12/e01/s12e01c02.md`:
+    - description: *the line has three stones on it now* → *… now besides the up-people's row of knock stones*;
+    - canon_facts: *The line now carries three stones: the up-people's, …* → *… three stones besides the row of the up-people's knock stones, each where it was set: the up-people's first, …*;
+    - prose, the routine knock (twice): *comes to the squeeze, not through it, and sets a stone down on their side* → *comes through the squeeze and sets a stone down on the line*, and *came to the squeeze and set a stone down on their side* → *came through the squeeze and set a stone down on the line*;
+    - prose: *with the two stones, one each side of the place where the feet had stopped* gains *and the up-people's knock stones in a row along the line, each where it was set down*, and *its three shapes of feet* gains *and the knocker's*;
+    - prose: *The silt held the three shapes it had held since the small one stood there* gains *and the knocker's*, since the knock now stands on the silt;
+    - prose: *So there were three stones on the line now* gains *besides the knock stones in their row*.
+  - `src/seasons/s12/e01/s12e01c06.md`: canon_facts, *a fourth now, the up-people's newest, beside Stone-First's answer* gains *and the up-people's older ones in a row along it, each where it was set*; prose, after *a stone moved for you is not yours to move*: *Their older ones, in a row along the line, each where it was set down, for the same reason.*
+  - `src/seasons/s14/e01/s14e01c01.md`: canon_facts, *keeps its four stones* gains *and the up-people's older ones in a row along it, each where it was set*; prose, *the four stones at Stone-First's feet* gains *and the up-people's older ones in their row along the line*, and *the four stones on it* gains *and the up-people's older ones in their row*.
+  - `src/seasons/s14/e01/s14e01c02.md`: canon_facts, *The line keeps its four stones* gains *and the up-people's older ones in a row along it, each where it was set*; prose, after *The up-people's newest, a hand from Stone-First's feet*: *Their older ones, in a row along the line, each where it was set down.*
+  - `src/seasons/s14/e01/s14e01c03.md`: canon_facts, as in C02; prose, the same sentence after the same inventory.
+  - `src/seasons/s12/e01/index.md`: the episode summary, *The line has three stones on it now* gains *besides the up-people's row of knock stones*.
+  - `src/seasons/s14/e01/s14e01c04.md`: canon_facts, as in C02; prose, the same sentence after *stood for a telling*.
+
+  Left as they stand: S12E01C03's *between the three stones*, *three stones up there now* and *three stones on it, the up-people's and the answer and the one that was nobody's*, which read as the three named stones once C02 says the row lies besides them; the other *the four stones* mentions in S14E01C02 and C03, each in a chapter whose inventory now names the row; the up-side chapters (S12E02C01, S14E02C01 to C03), which already set the stone on the line and leave it; and the story-bible treatments and image prompts, which are working papers.
+- **S12E01C02, the knock *to the squeeze, not through it … on their side*.** Put to him, as part of the same question. It is the plain fix if the stones are settled one way and the answer itself if they are settled another. Ruled with it, option (a): the knock now goes *through the squeeze* and the stone is set *on the line*, in both places (listed above).
 - **S12E01C06, *Lately … for a year*.** Left. To the Told a year is recent.
 - **S12E01C06, *six tellings* and *the five things*.** Fixed in `s12e01c06.md`: *the five things* → *the six things*. The paragraph before it lists six.
 - **S12E01C04.** Fixed in `s12e01c04.md`: *for a whole year* → *for two whole years*. The survey arrived in 2831 and the two stones came at the end of 2832 (S11E02C03, *Two years to learn to knock*).
