@@ -6,8 +6,8 @@ sort_order: 15
 era: "2800-2825"
 summary: "The Survey Corps returns to the surveyed membrane of Counterpane with the same three sealed sources, braids them on the same bench, and carries the value home as cargo. The reading is confirmed at this revisit and every one after it, on a cadence that reaches the seventh in the spring of 2829."
 tags: [counterpane, archecluster, survey-corps, calibration, fold-transit, ingrid-halvorsen, cosmology, history]
-image: "chapters/s03e02c03.jpg"
-image_alt: "Inside a small round white shelter rimed with frost, a woman with red hair tied back sits on a low pale bin in profile, head bowed, loose strands of hair over her ear, gloved hands on her knees, her breath showing. At the far end an older grey-haired woman in olive stands with her back half turned at a pale bench, one gloved hand on the middle one of three small grey ovoids, in front of a rounded opening filled with flat white light."
+image: "lore/counterpane-archecluster.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Counterpane: The Discrepant Archecluster in pale serif capitals."
 ---
 
 <article class="lore-entry">

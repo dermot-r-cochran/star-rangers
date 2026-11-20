@@ -5406,3 +5406,29 @@ The record is `species-design.md`, *The study round on A, and what it started*; 
 > The chair the far woman sits on at the table, on the right: replace the one-piece curved cantilever chair with a plain upholstered seat of the same kind as the seats along the row in the foreground: a pale moulded shell seat with a low back and short arms, the same matte pale grey-beige as those seats, standing on a single low pedestal base. Same size and place as the old chair, her body and pose unchanged as she sits in it.
 >
 > No text, no lettering, no numerals, no screens, no glow, no new objects. A documentary photograph, not a render.
+
+## 2026-11-20 — Critic read of #1906 to #1977: one hive, the shadow hand, the Verdani card (Opus, desktop)
+
+Dermot, 20 November 2026, verbatim *"Yes, as recommended"*. The record is `images.md` § 89. Each edit sent the filed frame first; the hive edits sent `src/images/chapters/s08e01c01.jpg` second, for the hive's make. Takes were written to `C:/work/sr-imgs/<frame>-r1/`.
+
+### lore/cnoc-na-mbeach.jpg — edited 20 November 2026
+- **Kind:** edit of the filed frame with one reference, two takes; take 2 pasted back (hives and stand only).
+
+> Edit the first image, a photograph looking out through a window opening in a rough granite wall, and keep it exactly as it is in every respect except the beehives seen through the window. Keep the rough granite wall, the lintel, the sill, the lichen, the stone texture, the framing, the dry-stone wall beyond, the green slope, the sky, the light, the colour and the grain of the photograph, all untouched. Change only the row of four beehives standing in the grass beyond the window: make them the hives of the second image. Each hive is one seamless squared piece with softly rounded edges and corners, pale grey-white and matte, with one narrow dark horizontal slot low on its front and nothing else: no lid, no roof, no overhang, no seam or join line, no stacked boxes, no floor board, no handholds, no labels, markings, letters or numbers. They stand in the same places, the same size and in the same light as the hives they replace, in a row on one low plain grey stand of a single rail on short legs, as in the second image. Not wooden hives, not today's box hives, not plastic cool boxes, not containers, not shiny. Documentary photograph, nothing else changed.
+
+### characters/brother-fintan.jpg — edited 20 November 2026
+- **Kind:** edit of the filed frame with one reference, two takes; take 2 pasted back (hives only, held off his hand and sleeve).
+
+> Edit the first image, a photograph of an old man at his beehives at first light, and keep it exactly as it is in every respect except the hives. Keep the man exactly as he is: his face, hair, beard, eyes, expression, his hand resting flat on the top of the near hive, his sleeve, his jumper and collar, all untouched. Keep the whitewashed stone walls and cells, the hill, the mist, the sky, the point of light, the bees in the air, the light, the colour and the grain of the photograph, all untouched. Change only the hives: make every hive the hive of the second image. Each hive is one seamless squared piece with softly rounded edges and corners, pale grey-white and matte, with one narrow dark horizontal slot low on its front and a narrow landing lip under the slot where a few bees walk: no lid, no roof, no overhanging top, no seam or join line anywhere, no stacked boxes, no floor board, no handholds, no labels, markings, letters or numbers. The top of each hive is the same piece as its sides, rounding over at the edge with no rim and no line. Each stands in the same place and at the same size as the hive it replaces, and the near hive is still under his hand. Not wooden hives, not today's box hives, not plastic cool boxes, not shiny, not containers. Documentary photograph, nothing else changed.
+
+### chapters/s12e01c06.jpg — healed 20 November 2026
+- **Kind:** edit of the filed frame, no reference, two takes; take 1 pasted back (the shadow's arm and hand only).
+
+> Edit this photograph and keep it exactly as it is in every respect except one part of one shadow. Keep the cavern, the rock walls, the amber and blue-green fungus, the pale silt floor and its marks, the stones, the dark shape at the left, the grey-coated being at the right, the small person far off at the crack with the stone and the lamp, the light, the colour and the grain, all untouched. At the lower right, the grey-coated being's long black shadow lies on the silt toward the camera. On the left side of that shadow an arm is held out from the body with a splayed hand and fingers at its end. Remove that arm and hand from the shadow entirely, so the silt where they were is plain lit pale silt like the silt around it, with its fine marks. Keep the rest of the shadow, the shadow of the body, dark and long and starting at the being's feet, its left edge now running smoothly from the left foot down toward the bottom of the frame with no arm, no hand, no fingers and no lobe. The being's own arms hang at its sides, so its shadow shows no arm held out. Nothing else changed.
+
+### lore/verdani.jpg — redrawn 20 November 2026
+- **Kind:** designed emblem card, `scripts/make-emblem-card.ps1`, new device **vanes** (the ruled apron), drawn, not imported.
+
+```powershell
+.\scripts\make-emblem-card.ps1 -Page src\lore\verdani.md -Device vanes -Tint '#1C3424' -Accent '#8CD48A' -Epithet 'Photosynthetic Symbiosis' -Qualifier 'Thallenwort · Kinbeds'
+```

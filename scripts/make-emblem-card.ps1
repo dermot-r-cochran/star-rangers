@@ -40,12 +40,12 @@
 #   .\scripts\make-emblem-card.ps1 -List          # the device vocabulary
 #
 # Devices: sphere, dome, figure, chevron, rings, lagrange, fold, sundial,
-#          triad, shield
+#          triad, shield, vanes
 
 [CmdletBinding()]
 param(
   [string]$Page,
-  [ValidateSet('sphere','dome','figure','chevron','rings','lagrange','fold','sundial','triad','shield')]
+  [ValidateSet('sphere','dome','figure','chevron','rings','lagrange','fold','sundial','triad','shield','vanes')]
   [string]$Device = 'rings',
   [string]$Tint = '#141A26',
   [string]$Accent = '#9FB6CE',
@@ -70,6 +70,7 @@ Device vocabulary (all line-drawn, all deterministic):
   sundial   circle with tick marks  -> time, calendars, reckoning
   triad     three nested arcs       -> classifications, comparisons, eras
   shield    a plain shield outline  -> corps, safety, certification
+  vanes     vanes over a band       -> the Verdani apron; a people with no figure to draw
 '@
   exit 0
 }
@@ -144,6 +145,34 @@ function Draw-Device($g, [string]$Kind, $Pen, [single]$Cx, [single]$Cy, [single]
                  $g.DrawLine($Pen, $Cx, $Cy, $Cx+$R*0.55, $Cy-$R*0.45) }
     'triad'    { foreach ($f in 1.0, 0.72, 0.44) { $r = $R*$f
                    $g.DrawArc($Pen, $Cx-$r, $Cy-$r, $r*2, $r*2, 200, 140) } }
+    'vanes'    { # The Verdani apron (species-design.md, RULED A, 19 Nov 2026): a low
+                 # band of hide running out at both sides, no edge, front or head,
+                 # and a sweep of vanes above it, all turned one way to the light,
+                 # the nearer few half folded. Uneven on purpose, so it reads as
+                 # neither a hand, a crown nor a lotus (image-critic rung 1).
+                 $g.DrawBezier($Pen, [System.Drawing.PointF]::new($Cx-$R*2.1, $Cy+$R*0.70),
+                                     [System.Drawing.PointF]::new($Cx-$R*0.8, $Cy+$R*0.60),
+                                     [System.Drawing.PointF]::new($Cx+$R*0.8, $Cy+$R*0.64),
+                                     [System.Drawing.PointF]::new($Cx+$R*2.1, $Cy+$R*0.68))
+                 # base x along the band, angle from upright (deg, + leans right),
+                 # length and half-width as fractions of R
+                 $vs = @(@(-1.45, 40, 0.80, 0.08), @(-0.98, 46, 1.20, 0.20), @(-0.42, 38, 0.72, 0.17),
+                         @( 0.02, 50, 1.30, 0.21), @( 0.55, 44, 0.95, 0.19), @( 0.98, 60, 0.62, 0.07),
+                         @( 1.38, 56, 0.88, 0.08))
+                 foreach ($v in $vs) {
+                   $bx = $Cx + $v[0]*$R; $t = ($bx-$Cx)/($R*2.0)
+                   $by = $Cy + $R*(0.625 + 0.02*$t)
+                   $a = [Math]::PI*$v[1]/180; $L = $v[2]*$R; $hw = $v[3]*$R
+                   $ux = [Math]::Sin($a); $uy = -[Math]::Cos($a); $nx = -$uy; $ny = $ux
+                   $tx = $bx + $ux*$L; $ty = $by + $uy*$L
+                   $p0 = [System.Drawing.PointF]::new($bx, $by)
+                   $p1 = [System.Drawing.PointF]::new($tx, $ty)
+                   foreach ($s in 1, -1) {
+                     $g.DrawBezier($Pen, $p0,
+                       [System.Drawing.PointF]::new($bx+$ux*$L*0.30+$nx*$hw*1.5*$s, $by+$uy*$L*0.30+$ny*$hw*1.5*$s),
+                       [System.Drawing.PointF]::new($bx+$ux*$L*0.80+$nx*$hw*1.1*$s, $by+$uy*$L*0.80+$ny*$hw*1.1*$s),
+                       $p1) }
+                   $g.DrawLine($Pen, $bx+$ux*$L*0.12, $by+$uy*$L*0.12, $bx+$ux*$L*0.82, $by+$uy*$L*0.82) } }
     'shield'   { $p = New-Object System.Drawing.Drawing2D.GraphicsPath
                  $p.AddLines(@([System.Drawing.PointF]::new($Cx-$R*0.72, $Cy-$R*0.8),
                                [System.Drawing.PointF]::new($Cx+$R*0.72, $Cy-$R*0.8),
