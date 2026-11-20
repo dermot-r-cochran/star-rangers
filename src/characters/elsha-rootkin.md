@@ -9,7 +9,7 @@ aliases: []
 tags: [verdani, verdance, calyx-system, canopy-concord, understory-assembly, federation-of-sentient-beings, star-rangers, survey-corps, ecology-branch, deputy-officer, non-humanoid]
 description: "A Verdani of the Star Rangers' Survey Corps, a Deputy Officer of the Ecology Branch on the planetary survey crew of a vessel the record does not name in 2826 UCSD — the first Verdani Ranger the record names, who sets the branch's instruments where she is told to and asks of every shaded plot, before anything else, how much light reaches the floor."
 image: "lore/verdani.jpg"
-image_alt: "Designed cover for Verdani: a green plant-humanoid silhouette on a dark background, evoking photosynthetic symbiosis rather than a warrior figure."
+image_alt: "Designed card for the Verdani on a dark green ground: the category Species in spaced capitals at the top; in a soft green glow, a line drawing of seven leaf-shaped vanes of uneven length, all leaning one way, rising from a long low band that runs out at both sides, with no head and no figure; below a short rule, the title Verdani in pale serif capitals and the lines Photosynthetic Symbiosis and Thallenwort · Kinbeds."
 image_caption: "The Archive's card for the Verdani"
 ---
 

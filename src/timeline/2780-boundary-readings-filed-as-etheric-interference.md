@@ -6,8 +6,8 @@ sort_order: -460
 era: "2543-2799"
 summary: "Survey Corps analysts begin classifying the readings that will not recalibrate away at boundary posts as Etheric interference, filed beside instrument drift. A symptom is named; the coupling that produces it is not."
 tags: [survey-corps, etheric, boundary, instrument-drift, overfold, cosmology, history]
-image: "codex/survey-corps-protocol.jpg"
-image_alt: "Designed cover for the Survey Corps Boundary Monitoring Protocol: a formal document-style cover with ruled lines and an OFFICIAL stamp on a dark navy background."
+image: "glossary/etheric.jpg"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Etheric in pale serif capitals, with the line “Layer 3 of the Five Layers of Reality”"
 ---
 
 <article class="lore-entry">
