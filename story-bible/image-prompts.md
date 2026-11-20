@@ -5440,3 +5440,25 @@ Dermot, 20 November 2026, verbatim *"Yes, as recommended"*. The record is `image
 - **Kind:** fresh generation, one round of four, at Dermot's *"Yes reopen those two"*. Gemini `gemini-3.1-flash-image` through `scripts/image-prompts.js --generate --only oshek-var --variations 4`, 2K, 16:9, no reference image, none refused.
 - **Prompt:** the blockquote under the entry in `images.md` § 40, verbatim; the judging line and the changes from the 26 October prompt are recorded there.
 - **Result:** 1 a beetle or spider, 2 a human hand, 4 a spider or crab; 3 a near miss (no animal, the work reads, but the members read a little as cane and the housing as padded leather). The pick, and whether variation 3 is edited, wait on him.
+
+### characters/oshek-var.jpg — edited and filed
+- **Kind:** two image edits of round 1 variation 3 through `scripts/image-edit.js`, two takes each; edit 2 take 1 filed (Opus, desktop). Record in `images.md` § 40.
+- **Edit 1:**
+
+> Edit the attached photograph. Keep the dark iridescent jointed members exactly as they are: their number, positions, joints, tips, sheen and shadows, the two fine tips meeting at one point on the seam and the others bracing. Keep the camera, framing and light. Change only the pale surface they rest on and the room behind it:
+> 
+> The pale surface becomes one hard rigid smooth surface of pale warm-grey matte composite, like a fine ceramic or a moulded stone, gently convex, completely firm, with no padding, no cushion softness, no wrinkles, no grain of leather, no stitching and no fabric look. The seam across it stays where it is but becomes one fine hairline flush joint between two hard panels, with no stitches, no welt, no groove and no raised edge. The pale shapes in the background become plain hard matte walls of the same composite, simple and clean, with no upholstery and no furniture.
+> 
+> Also make the members read a little more as living shell than as cane or wood: smooth hard chitin with a faint glaze, no wood grain and no fibrous stripes, keeping their shape exactly.
+> 
+> No legs or bodies entering from the frame edge, no hand, no fingers, no eyes, no spider, no insect. No text, letters, numbers, screens or glowing lights. Photographed, not rendered: natural colour, normal exposure, the same grain as the original. Output the whole frame at the same composition.
+
+- **Edit 2 (filed, take 1):**
+
+> Edit the attached photograph. Keep the dark iridescent jointed members exactly as they are: their number, positions, joints, tips, sheen and shadows, and where each tip touches the surface. Keep the camera and light.
+> 
+> Replace the pale surface completely. It is not a cushion and not upholstery. It is the top of a hard machine housing made of pale warm-grey matte composite, like polished limestone or fine unglazed porcelain: one rigid, evenly curved surface with a single smooth convex curve, perfectly firm, with no bulge, no dent, no sag, no hollow, no pillow shape and no soft fold anywhere. Remove the soft rounded hollow at the lower left and the bulging shape behind it; the surface there continues as the same even hard curve. The seam across it is one fine straight hairline flush joint between two hard panels, crisp and engineered, with no stitching. The background is a plain hard pale wall, out of focus, with no cushions, sofas or furniture.
+> 
+> The tips rest on the hard surface without denting it, each casting a small sharp shadow.
+> 
+> No legs or bodies entering from the frame edge, no hand, no fingers, no spider, no insect, no eyes. No text, letters, numbers, screens or lights. Photographed, not rendered: natural colour, normal exposure, the same grain as the original. Output the whole frame at the same composition.
