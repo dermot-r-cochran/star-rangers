@@ -7677,6 +7677,8 @@ Raised by the continuity scene added to S01E03C03 (*New POV scenes for continuit
 
 Dermot's idea of chronic pain management through optogenetic treatment and AI regulators, drafted as a planning note. Settled by recommendation: held in the story bible until a chapter needs it; the patient holds the dial and the regulator proposes, limits and refuses only on a warning pain; ordinary in Concord medicine; the term *optogenetic*, his correction. **Never without him:** which character, if any, uses it first.
 
-## Tobble across the Season 5 to 6 seam (S06-1) — `intake-2026-11-20-continuity-seams.md`, 20 November 2026 — OPEN, his
+## Tobble across the Season 5 to 6 seam (S06-1) — `intake-2026-11-20-continuity-seams.md`, 20 November 2026 — RULED 20 November 2026, option 1
 
 The continuity-seams audit found three seams that need a bridging scene; two are settled by recommendation, his to overrule. This one is his: Season 5 ends with Tobble in the made world, and no interior chapter of Seasons 6 or 7 names him. Choices: (1) a new first scene of S06E01C01 in which she reaches for him and cannot tell him from her memory of him (recommended); (2) he answers, once, which then needs bridges in later interior chapters; (3) no scene now, the absence recorded as deliberate.
+
+**Ruled by Dermot, 20 November 2026, verbatim:** *"She can't tell him apart"*. Option 1. The scene is drafted as a new scene 1 of S06E01C01 and waits for his read; what it commits to and the three readings chosen in it are in the intake, *Ruled, 20 November 2026: S06-1, option 1*.

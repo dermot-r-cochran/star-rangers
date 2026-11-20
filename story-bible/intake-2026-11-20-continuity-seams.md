@@ -112,11 +112,47 @@ By season: S00 one, S02 one, S06 one, every other season none.
 
 ### Open, his: S06-1, Tobble across the Season 5 to 6 seam
 
+**Ruled the same day, option 1; see *Ruled, 20 November 2026* below.** The choices are kept as they were put.
+
 This reaches canon about a member of her system, and the arc treatment has said since July that it needs his decision. So it is put as choices.
 
 1. **She reaches for him and cannot tell** (recommended). A new first scene of S06E01C01: she reaches inward for Tobble, and what answers, if anything does, she cannot tell from her own memory of him. The published interior chapters keep their isolation unchanged. This matches the treatment's own read (*she genuinely cannot tell whether Tobble is present or reconstructed*). It leaves the redacted book and his grief for later chapters, where the 27 August rulings put them. The S07E01C03 list that leaves him out then reads as the same uncertainty, not a slip.
 2. **He answers, once.** The same scene, with Tobble plainly present. This is warmer and nearer the treatment's option 1. But the five later interior chapters never mention him, so each of them would then need a bridge of its own: S06E01C03, S07E01C02 and S07E01C03 at least.
 3. **No scene now.** The absence stays until a chapter on the redacted book takes him up, and the story bible records the absence as deliberate. The cost: a reader who has just watched him wait in the made world loses him for two seasons with nothing said.
+
+### Ruled, 20 November 2026: S06-1, option 1
+
+**His words, verbatim:** *"She can't tell him apart"*. That is option 1 above, the recommended one.
+
+**Measured in the record before drafting.**
+
+- S05E02C03 ends with Tobble in the made world. The light comes up grey, then gold, there is *a woman at the low wall who had not decided to come here*, and he says *Good morning* *to nobody who could hear it yet*.
+- S06E01C01 opens on that woman at that wall. It had no scene wrappers, so it was one implicit scene of two blocks, hers and Órla's.
+- Inward speech between them has a settled form: his line in italics with an ordinary attribution (S05E02C03, and `prose-style.md` §5). He counts things, twice, and gives the number before she asks (S03E01C05, S03E02C02, S03E03C02).
+- His page has him *professionally quiet for a whole day*. Her page has her correcting, once, the people who take him for an animal.
+
+**Drafted.** A new scene 1 of S06E01C01, one block, hers, about 400 words. The two published blocks are wrapped unchanged as scene 2. It is an **extension**: no published line moves, and the chapter's `povs:` already carry her.
+
+- The gold is up and has not reached the wall. She is partway through his name and finishes it, inward.
+- *Good morning* comes, with no attribution. It is the first inward line of his in the record that the prose does not attribute, and that is the device: she could not put *Tobble said* after it and stand behind the sentence.
+- She waits for the count he would usually give. None comes. His silence is as much in character as his answer was, so it settles nothing.
+- She finds she never took a baseline of what his presence is like when he says nothing.
+- She declines to ask *are you there*, because yes is the one answer she could supply without him. She declines to answer for him.
+- She says *Good morning* back, owed if he is there and two words if he is not, and keeps still.
+
+**What it commits the story to.**
+
+- On the first morning of the interior she reached for Tobble, and what she got she could not tell from her own memory of him. She did not decide which it was.
+- She greeted him back, and did not supply his lines.
+- Nothing else. The scene does not say whether he heard her, whether the *Good morning* was his, or why no count came. It adds no `canon_facts` line. The redacted book and his grief stay where the 27 August rulings put them.
+
+**Guards kept.** The mystery stays shut in both directions: his *to nobody who could hear it yet* in S05E02C03 is neither confirmed nor contradicted, since she does not know what she heard. Her uncertainty is about a reading she never took, never about whether he is a person; nothing in it reads plurality as a fault. She is not frightened and not emptied: she does the one thing that is right on either reading.
+
+**Readings chosen in the draft, his to overrule.**
+
+1. **Where the scene sits in the light.** In S05E02C03 his *Good morning* comes after the gold is up and she is at the wall. So the scene is set with the gold up in the east and not yet on the wall, which lets her two words and his be the same two words, or not. Set earlier, in full grey, her *Good morning* would come before his and would lean toward memory. Recommended: as drafted.
+2. **Scene numbers.** A new scene 1 makes the published blocks scene 2, as the brief asked. The scene-and-viewpoint pages carry the scene number in their address and their comment thread, so her published block and Órla's move from scene 1 to scene 2, and the old scene 1 address for her now shows the new block. No page in `src/` or `lib/` links to those addresses. The alternative is to label the new scene `0`, which moves nothing and shows *Scene 0* on the page. Recommended: as drafted, 1 and 2.
+3. **No cat on the wall.** She hears, or remembers, and sees nothing. A cat seen on the wall would have to be accounted for in every later interior chapter. Recommended: as drafted.
 
 ## Slips found in passing — for the weekly unit review, not scenes
 

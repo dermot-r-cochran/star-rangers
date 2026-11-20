@@ -326,6 +326,8 @@ memory. But this is a narrative choice, not a research finding.
 Either way the S6 chapters cannot simply not mention Tobble, so this needs
 settling before they are drafted.
 
+**Ruled, 20 November 2026** (Dermot, verbatim: *"She can't tell him apart"*): she reaches for him and cannot tell him from her memory of him, in a new first scene of S06E01C01. Recorded in `intake-2026-11-20-continuity-seams.md`, *Ruled, 20 November 2026: S06-1, option 1*.
+
 **Tobble's pronouns are settled (Dermot, 29 July 2026): he/him.** Swept across `src/` the same day; the they/them used before that date is superseded.
 
 ---
