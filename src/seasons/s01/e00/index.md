@@ -12,7 +12,7 @@ permalink: /seasons/s01/e00/
   </ol>
 </nav>
 
-<img class="page-hero-image" src="/star-rangers/images/hero/s01e00-aldera-wall.jpg" alt="A young brown tabby cat with no collar steps along the top of an old moss-covered dry-stone wall in a wood, looking back over her shoulder, with leaf litter on the slope and tall trunks behind." />
+<img class="page-hero-image" src="/star-rangers/images/hero/s01e00-aldera-wall.jpg" alt="A young brown tabby cat in a slim black collar with a small round grey tag steps along the top of an old moss-covered dry-stone wall in a wood, looking back over her shoulder, with leaf litter on the slope and tall trunks behind." />
 <h1 class="page-title">Season 1 · Episode 0</h1>
 <p class="page-intro">
   What came before Episode 1, and beside it, at different distances. These chapters run from a long-voyage ship in 2788 UCSD to the autumn of the station itself, some of them years back and some in the same year. They are listed in their numbered order, not the order they happened, so each line carries its date. They read best after the station, when you know what they were before.
