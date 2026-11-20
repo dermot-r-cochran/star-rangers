@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+
+- **A fifth chapter clip: *The vanes going out* on S01E00C08** (`src/video/the-vanes-going-out.mp4`, `src/seasons/s01/e00/s01e00c08.md`, `lib/videos.js`, `story-bible/video-prompts.md`, 2026-11-20, Opus, Dermot's *"File take A"*). Clip Q, run on Grok Imagine from the chapter's re-made still: Isren's open vanes turning toward the low sun while Ulessa holds still. The prompt was first aligned to the 19 November apron-body frame, describing only what the filed frame shows; both takes passed. Embedded after *The vanes went out*, with a poster and a watch page.
+
 ### Fixed
 
 - **Critic read of #1978 to #2002: links, a date and a tracking check** (`src/characters/petra-solano.md`, `src/timeline/2719-outer-stations-consolidation-hearing.md`, `src/codex/bound-in-behind-it.md`, `src/journal/`, `src/video/README.md`, `scripts/set-readouts.py`, `story-bible/`, 2026-11-20, Fable read, Opus fixes). *Correctly Formed* (S00E02C03) is now linked from Solano's page, the 2719 hearing and *Bound In Behind It*. The two films' withdrawal is dated 19 November, the day it merged. `set-readouts.py --track` now fails a take with a frame it could not track, instead of reporting it as holding. Four points are put to Dermot in `open-questions.md`.
