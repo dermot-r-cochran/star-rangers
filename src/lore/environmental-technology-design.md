@@ -3,8 +3,8 @@ layout: lore-entry.njk
 title: "Environmental Technology Design: Biosphere, Station, and Ritual Space"
 category: "Technology"
 tags: [technology, environment, aesthetics, biosphere, station, elvira, ritual, design]
-description: "How technology reads differently across three recurring settings — biosphere planets, remote stations, and the orbital research station where old and new bridge each other."
-plain: "Technology reads differently in three kinds of place. On biosphere worlds it recedes into the organic setting, so subtly a visitor might miss it. On remote stations it declares itself — decking, recyclers, drones on patrol — because survival depends on systems being visible and maintained. The orbital research station where Elvira performs her ritual holds both, fabricated hulls beside a bronze jaguar and river stones from Earth. Across all three the AI is everywhere and announces almost none of it: lawful systems are the building itself, given a body only when the work needs one, and a drone only for good reason."
+description: "How technology reads differently across three recurring settings — biosphere planets, remote stations, and the ritual chamber a Codex chronicle describes, where old and new bridge each other."
+plain: "Technology reads differently in three kinds of place. On biosphere worlds it recedes into the organic setting, so subtly a visitor might miss it. On remote stations it declares itself — decking, recyclers, drones on patrol — because survival depends on systems being visible and maintained. A Codex chronicle of Dún Rí sets a third between them: the chamber where Elvira performs her ritual, with incense rising from a bronze jaguar. Across all three the AI is everywhere and announces almost none of it: lawful systems are the building itself, given a body only when the work needs one, and a drone only for good reason."
 image: "environmental-technology-design.jpg"
 image_alt: "Designed cover for Environmental Technology Design: Biosphere, Station, and Ritual Space: concentric rings in a soft glow under the category Technology, with the title below in two lines, on a dark green-black background."
 ---
@@ -19,11 +19,11 @@ On biosphere worlds, the built environment recedes. Technology is present but su
 
 Remote stations invert that relationship entirely. Composite decking underfoot, recyclers cycling audibly in the walls, maintenance drones on visible patrol routes, power cells racked in plain sight. The environment declares itself artificial at every turn. Nothing here is trying to look natural, because nothing here needs to. The station's survival depends on its systems being legible, inspectable, and constantly maintained, not on blending in.
 
-## The Orbital Research Station: Where Old and New Meet
+## The Chamber in the Chronicle: Where Old and New Meet
 
-The orbital research station where Elvira performs her ritual sits between those two poles rather than beside them. It is unmistakably technological, with the same composite hulls and instrumentation as any other station, but it incorporates deliberately ancient elements: a bronze jaguar, actual river stones carried from Earth. Neither object serves a technical function. Both are there because the ritual requires something the station's systems cannot manufacture, material with a history older than the platform itself.
+The third register is a Codex account, not the Archive's own. [The Flight of Aldera: A Chronicle of Dún Rí](/star-rangers/codex/flight-of-aldera-chronicle-of-dun-ri/), transmitted through Fellowship of Light chapter recitation, sets Elvira's ritual in a chamber that sits between those two poles rather than beside them, with incense rising from the mouth of a bronze jaguar. In that telling the old object serves no technical function. It is there because the ritual asks for something no fabricator can make, material with a history older than the room around it. The Archive files the chamber as the chronicle's, and places it on no station or world.
 
-The effect is a third register, distinct from both the biosphere worlds and the remote stations. It does not hide its technology, and it does not surround itself with the organic. Instead it stages a deliberate meeting point: a place built to hold both the fabricated and the ancient in the same room, because the work done there depends on neither one alone.
+In the chronicle's telling the effect is a third register, distinct from both the biosphere worlds and the remote stations. It does not hide what was made, and it does not surround itself with the organic. Instead it stages a deliberate meeting point: a place built to hold both the fabricated and the ancient in the same room, because the work done there depends on neither one alone.
 
 ## AI: Present, Never Intrusive
 
