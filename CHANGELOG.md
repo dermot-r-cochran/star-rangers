@@ -12,6 +12,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Changed
 
+- **S01E00C01, *The Garden Gate*: five period fixes** (`src/seasons/s01/e00/s01e00c01.md`, 2026-11-20, Opus, from the Fable review of the chapter and Dermot's *"Yes, apply them"*). The town smells of tide mud and frying fish, not tanneries; the guards lose their scarlet coats; Aldera hides behind a stowed crate, not a slop bucket, and the ship comes off its moorings rather than groaning; the garden gate locks itself behind the footman; Elvira wears a coat, as in the C00 picture. No canon changes.
+
 - **S01E00C02 rewritten as a drone search: *Out of Range* (was *What the Stones Confirmed*)** (`src/seasons/s01/e00/s01e00c02.md`, `src/seasons/s01/e00/s01e00c01.md`, `src/characters/elvira.md`, `src/lore/dun-ri.md`, 2026-11-20, Fable, Dermot's *"remove any hint of medieval magic and instead rely on AI sensors and drones sent out to discover Aldera. Her collar tracker is out of range but they can infer which direction she went"*). The stones, candles, mirror, bell and incantation are gone. Aldera's ordinary household locator tag answers the house for three hundred metres past the wall; the house's two drones follow her trace down the lane to the quay edge, where three coasters had left on the ebb, so the search gives a heading and does not find her. The household sage now keeps the house's systems. C01's last sentence gains one clause to agree. The Codex chronicle *The Flight of Aldera* is unchanged and keeps the ritual as its legend. The chapter's picture still shows the old scene and is owed.
 
 ### Fixed
