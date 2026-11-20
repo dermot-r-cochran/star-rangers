@@ -22,3 +22,5 @@ A second chapter clip since the same day: `the-nine-seconds.mp4`, with its `-pos
 A third chapter clip since the same day: `a-name-the-charter-didnt-print.mp4`, with its `-poster.jpg`, on S00E03C02 (clip N), text to video with no start frame, on the same terms; its first run failed and the gesture was re-described before the second, both recorded under it.
 
 A fourth chapter clip since the same day: `the-sound-under-the-gate.mp4`, with its `-poster.jpg`, on S01E00C00 (clip O), on the same terms; its first run failed and the cat's gaze was re-aimed before the second, both recorded under it, and the filed take is a near miss.
+
+A fifth chapter clip since 20 November 2026: `the-vanes-going-out.mp4`, with its `-poster.jpg`, on S01E00C08 (clip Q), on the same terms; its prompt was aligned to the re-made start frame before the run.
