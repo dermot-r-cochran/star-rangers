@@ -2212,7 +2212,25 @@ Dermot, 15 November 2026, on the pilot: *"Yes, roll it out"*. The prompts of rec
 - **Source:** `images.md` § 55; no reference.
 - **Run:** Round 1 of 1, variation 2 filed.
 
-### chapters/s01e00c02.jpg — filed 15 November 2026
+### chapters/s01e00c02.jpg — re-made 20 November 2026
+- **Kind:** Dermot's own photograph as the plate, edited, then healed by hand
+- **Source:** plate `F:\130DUNLG\DSC_7203.JPG` (Nikon D3100, 135 mm, f/20, 1/1000 s, Dún Laoghaire harbour, 6 December 2025; not on his site), cropped to 16:9 at 4608×2592 and sent alone. The first edit prompt is the prompt of record in `images.md` § 55.
+- **Run:** Round 1, two takes from the plate; round 2, two takes from round 1's take 1 (prompt below); round 2's take 1 then healed by hand (four claw dots, two drops, the line's two ends), filed at finish 0, 1600×893. Why each round failed is in the run record under `images.md` § 55.
+- **Edit prompt 2:**
+
+> Edit this photograph. Keep everything exactly as it is: the long pale granite coping stone across the lower half lit softly from above, its speckled grain and the wet sheen at its left end, its dark shadowed face below; the dark moving water with its white foam lines beyond it; the dark wall at the top; the framing, focus, grain and colour. Change only these four things.
+>
+> 1. The paw print right of centre: make it unmistakably the print of a small house cat, not a dog. Four small oval toe pads set close together in a neat arc, and below them one wider main pad with three soft lobes along its lower edge. There are no claw marks at all: no dots or points in front of the toes. Keep it the same dark damp colour and keep it small. A thin pale line crosses the main pad only, splitting it into two halves where the pad is split; the line stops at the edges of the pad and does not continue onto the stone.
+>
+> 2. The group of four round dark spots above and to the left of the print: replace them with just two small irregular dark drops, unevenly spaced, a little behind the print, so they cannot be read as a second paw print.
+>
+> 3. The round grey cup-like recess at the left of the stone: replace it with a perfectly flat flush disc of matte dark grey composite the size of a palm, level with the stone surface, with no rim, no lip, no hollow and no depth, like an inlaid plate in the granite.
+>
+> 4. The metal stair rail and steps at the top left corner: remove them; that corner is dark stone wall like the rest of the top of the frame.
+>
+> No other changes. No text, no lettering, no numerals, no animal, no person, no light rays, no red. A documentary photograph, not a render.
+
+### chapters/s01e00c02.jpg — filed 15 November 2026, superseded 20 November 2026 (the chapter's ritual was removed in PR 2001)
 - **Kind:** generation (text alone), then an edit
 - **Source:** `images.md` § 55; no reference.
 - **Run:** Round 1: both variations drew the mirror as a frying pan; an edit of variation 2 (first prompt below) kept the pan and was dropped. Round 2, with the mirror re-described: variation 2, then edit take 1 of 1 (second prompt below), filed.
