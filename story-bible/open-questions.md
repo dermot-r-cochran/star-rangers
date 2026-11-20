@@ -128,9 +128,11 @@ A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022
 ---
 
 
-## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — five choices OPEN, his; the 53 single repairs APPLIED the same evening (his *"Yes, apply them"*)
+## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — all five choices RULED 20 November 2026 (1 and 2 under *The knock stones on the line* below; 3 to 5 his *"Yes, as recommended"*, applied); the 53 single repairs APPLIED the same evening (his *"Yes, apply them"*)
 
 `critic-read-2026-11-20-whole-story.md` holds the read: 58 findings across all 125 chapters, each with its cheapest repair, one already in the continuity-seams list. Five need his choice and are set out at the head of that file: the stones on the line in Below the Roof (and, following from it, whether the knock goes through the squeeze), the false zero's age in S10E01, the sixth morning in S02E08, and how long a Board season is. The rest are single repairs (a number, a word, a clause, a timestamp) and none changes canon.
+
+**Ruled 20 November 2026**, his words *"Yes, as recommended"*, for items 3 to 5: the false zero loses its duration (S10E01C04), the test closes on the seventh morning with her sixth object (S02E08C01, and Priya's page), and Nuala's page counts the seasons since the movement as *"seven and eight"*. Items 1 and 2 were ruled the same day as option (a) of the knock stones entry. No line defining a Board season's length was added.
 
 ---
 
