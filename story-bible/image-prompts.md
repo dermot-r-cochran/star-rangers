@@ -5549,3 +5549,20 @@ The record is `images.md` § 42, *Re-opened 20 November 2026, on the apron body*
 > The grey daylight from the sea lights her face and the gallery from the side; the room has no light of its own that can be seen. Her head and shoulders and the horizon sit together across the middle of the frame. Shot on a real camera: a little grain, slightly muted colour, a real shadow floor, not glossy, not beauty-lit.
 >
 > The room is plain and kept, like the second reference image: no instruments, no screens, no clocks, no doors, no hatches, no consoles, no railings, no benches, no plants, no light fittings, no ceiling panels, no light strips, no signage, no lettering and no numbers anywhere. Nothing glows. No ships, platforms, lights or creatures on the sea. Only the one woman; nobody else.
+
+## 2026-11-20 — S01E00C10 re-made for scale (Opus, desktop)
+
+### chapters/s01e00c10.jpg — edited and re-filed
+- **Kind:** one image edit of the filed frame through `scripts/image-edit.js`, four takes; take 1 filed. Record in `images.md`, the S01E00C10 line.
+
+> Edit the attached photograph. Keep the same place, light and moment: late dusk, flat grey still water, the dusk sky, the grey rounded shingle in the foreground, and far off on the water at the left the long low smooth dark hull-shaped form with its three small steady warm lights reflected below it, exactly as they are.
+> 
+> Change only the lighthouse, so that it is a real working coastal light tower at its true size, about twenty metres tall, seen from the shingle some way off:
+> - A tall, slightly tapering round tower of rough whitewashed stone, standing on the shore at the right of the frame, its lantern near the top of the frame. Make it clearly taller and more massive than now, so it dominates the right side of the picture, with the shingle shore running up to its base.
+> - At its foot, a plain arched wooden door of ordinary human size, about two metres tall, so the door is small against the height of the tower, and a short flight of a few worn stone steps of ordinary height leading up to it, each step no higher than a normal stair step.
+> - One or two small plain windows up the tower's height, deep-set in the stone, for the stair inside.
+> - At the top, a plain iron gallery with a simple rail of ordinary waist height, and above it a modest glazed lantern with a dark cap; the lamp inside lit, a warm steady glow, with no beam, no rays and no flare.
+> 
+> The tower is plain and kept: clean limewash, sound pointing, no damage. Photographed, not rendered: rough stone, wet shingle, high-ISO grain in the dark sky, slight softness toward the corners, a touch under-exposed, muted natural colour, the same late-dusk light as the original.
+> 
+> No people, no boats, no birds, no searchlight beam, no lens flare, no text, letters, numbers, signage or plaques, no modern fittings, no cables, no antennas. Output the whole frame, 16:9.
