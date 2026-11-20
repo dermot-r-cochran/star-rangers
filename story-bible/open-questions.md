@@ -135,7 +135,7 @@ A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022
 ---
 
 
-## The knock stones on the line — put to Dermot 20 November 2026 (Opus), from the continuity slips — OPEN, recommendation (a)
+## The knock stones on the line — put to Dermot 20 November 2026 (Opus), from the continuity slips — RULED 20 November 2026: option (a), applied
 
 Raised in `intake-2026-11-20-continuity-seams.md`, under *Slips found in passing* and *The slips, checked and fixed*. Two commitments in Below the Roof cannot both stand as written, and no record decides between them.
 
@@ -163,6 +163,25 @@ Raised in `intake-2026-11-20-continuity-seams.md`, under *Slips found in passing
   - The S14E02C03 log's *set down and left* changes.
 
 **Recommendation (a).** It is the only choice that follows from both rules as published, and its edits are clauses, not events. The open pull request for this question changes no chapter.
+
+**Ruled 20 November 2026, option (a).** Dermot, verbatim: *"(a) Stones stay in a row"*.
+
+**Applied.** Each count passage gains one clause, in its own block's voice, that the four are the four the Told name and the up-people's older knock stones lie in a row along the line, each where it was set. S12E01C02's routine knock moves through the squeeze onto the line. No event and no character's act changes.
+
+- `src/seasons/s12/e01/s12e01c02.md`:
+  - description: *the line has three stones on it now* → *… now besides the up-people's row of knock stones*;
+  - canon_facts: *The line now carries three stones: the up-people's, …* → *… three stones besides the row of the up-people's knock stones, each where it was set: the up-people's first, …*;
+  - prose, the routine knock (twice): *comes to the squeeze, not through it, and sets a stone down on their side* → *comes through the squeeze and sets a stone down on the line*, and *came to the squeeze and set a stone down on their side* → *came through the squeeze and set a stone down on the line*;
+  - prose: *with the two stones, one each side of the place where the feet had stopped* gains *and the up-people's knock stones in a row along the line, each where it was set down*, and *its three shapes of feet* gains *and the knocker's*;
+  - prose: *The silt held the three shapes it had held since the small one stood there* gains *and the knocker's*, since the knock now stands on the silt;
+  - prose: *So there were three stones on the line now* gains *besides the knock stones in their row*.
+- `src/seasons/s12/e01/s12e01c06.md`: canon_facts, *a fourth now, the up-people's newest, beside Stone-First's answer* gains *and the up-people's older ones in a row along it, each where it was set*; prose, after *a stone moved for you is not yours to move*: *Their older ones, in a row along the line, each where it was set down, for the same reason.*
+- `src/seasons/s14/e01/s14e01c01.md`: canon_facts, *keeps its four stones* gains *and the up-people's older ones in a row along it, each where it was set*; prose, *the four stones at Stone-First's feet* gains *and the up-people's older ones in their row along the line*, and *the four stones on it* gains *and the up-people's older ones in their row*.
+- `src/seasons/s14/e01/s14e01c02.md`: canon_facts, *The line keeps its four stones* gains *and the up-people's older ones in a row along it, each where it was set*; prose, after *The up-people's newest, a hand from Stone-First's feet*: *Their older ones, in a row along the line, each where it was set down.*
+- `src/seasons/s14/e01/s14e01c03.md`: prose, the same sentence after the same inventory.
+- `src/seasons/s14/e01/s14e01c04.md`: canon_facts, as in C02; prose, the same sentence after *stood for a telling*.
+
+Left as they stand: S12E01C03's *between the three stones* and *three stones up there now*, which read as the three named stones once C02 says the row lies besides them; the other *the four stones* mentions in S14E01C02 and C03, each in a chapter whose inventory now names the row; the up-side chapters (S12E02C01, S14E02C01 to C03), which already set the stone on the line and leave it; and the story-bible treatments and image prompts, which are working papers.
 
 ## Aldera's collar in 2822 — raised 20 November 2026 with S01E00C02's new picture — RULED the same day: option 2 (*"Option 2"*), then changed the same evening to option 1 (*"Option 1"*, *"Yes, switch to 1"*), applied
 
