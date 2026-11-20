@@ -5523,3 +5523,13 @@ The record is `images.md` § 42, *Re-opened 20 November 2026, on the apron body*
 > Evening light: the dock is quieter and dimmer than by day, the light simply in the room, soft and even from no visible source; the violet in the two clocks is faint, not glowing brightly. Shot on a real camera: a little grain, a soft corner, slightly muted colour, a real shadow floor, not glossy.
 > 
 > No visible light fittings, no ceiling panels, no light strips, no lamps. No screens, monitors, tablets, holograms or glowing panels; no dials, gauges, knobs, toggles, meters or exposed cables; no signage, no lettering, no numbers anywhere in the frame. No grime, rust, scuffs or debris. No weapons, no belts, no backpacks, no helmets. Only the two people; nobody else.
+
+### hero/tissadelle-arc.jpg — doors removed by edit
+- **Kind:** one image edit through `scripts/image-edit.js`, Gemini `gemini-3.1-flash-image`, 2K, 21:9, two takes, of the filed frame's full-size source; take 1 registered and pasted back inside the two door areas only. Record in `images.md` § 90, at Dermot's *"Remove those doors from the image please"*.
+- **Prompt:**
+
+> Edit the attached photograph. Keep everything exactly as it is: the camera, framing, light, colour and grain, the two people at the desk, the desk and the open log, the two atomic clocks on their cream brackets high on the wall, and the vertical seams of the wall panels.
+>
+> Change only one thing: remove both doors completely. Take away the heavy rounded pressure door with its thick grey frame on the left, and the smaller rounded hatch with its raised cream frame on the right. Where they were, the wall simply continues: the same plain pale cream seamless matte composite as the rest of the wall, flat and unbroken, with the same soft even light and the same faint texture, so that the two clocks now hang above plain wall.
+>
+> No doors, no hatches, no openings, no frames, no outlines, no panels, no recesses, no handles, no hinges where the doors were. No new objects anywhere. No text, letters or numbers. Photographed, not rendered: the same grain and natural colour as the original. Output the whole frame at the same composition.
