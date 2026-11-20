@@ -55,6 +55,12 @@ No seam needs a scene. Two related points are listed under *Considered, not seam
   - **Scene:** Bubochka's POV (already in the chapter's `povs:`), on Eden's Deck 7 before she ships out to Drithane. She passes the galley door, where a small warm thing is being given things. She notes that it no longer works on her, and notes the one resident it has never worked on, Thrum, flat to a wall plate.
   - **Sits:** a new first scene of `s02e03c01`.
   - **Guard:** Muffin is shadow-shaped. The scene shows the thing at the door and what it does, and never classifies Muffin, says what it is or says how it came to Eden.
+  - **Drafted 20 November 2026 (Fable), awaiting his read.** A new `scene 1` in `s02e03c01`, Bubochka's block alone; the chapter's two existing scenes are renumbered 2 and 3 and not otherwise touched. What it commits the story to:
+    - On her last evening before the shuttle, Bubochka passes the Deck 7 galley door. Muffin is there and is given things. Its pull has stopped working on her, and Muffin still tries. Thrum lies flat to a wall plate nearby, and Muffin has never tried Thrum. All of this was already on the character pages for Muffin and Thrum; the scene dates it to before the Drithane trip.
+    - Two passers-by call Muffin *kitten* and *bunny* and neither hears the other. The scene itself calls it only *Muffin*, *small* and *it looked warm*.
+    - No `canon_facts` line was added. The chapter's `location:` gains *Eden Space Habitat, Deck 7* and its `povs:` now lists Bubochka first, in order of appearance.
+    - **How the Thrum line lands.** Bubochka has seen that Thrum hears no voice and reads no face, and that Muffin never tries it, and she cannot yet say what the finding is about. S02E03C02's *Like Thrum, she wrote, then crossed it out* is then her own next step, not a new name.
+    - **Left out on purpose:** her training exercise of logging what Thrum drums about (`src/characters/thrum.md`), which no chapter has dated.
 
 ### Season 4 and Season 10 (Orbital Five-O)
 
