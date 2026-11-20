@@ -11,7 +11,7 @@ permalink: /threads/tissadelle-arc/
   </ol>
 </nav>
 
-<img class="page-hero-image" src="/star-rangers/images/hero/tissadelle-arc.jpg" style="object-position: center 15%" alt="The plain pale cream wall of a station dock, divided into tall panels by fine seams, and high on it, well apart, two identical atomic clocks on rounded cream brackets, each a clear glass cylinder holding a faint violet cloud above a dark blank readout window. At a long pale desk in the foreground a young cadet in a dark slate-grey uniform sits writing in a log, seen from behind, and just beside him stands a woman with red hair pinned up loosely, in the same uniform, seen from behind, looking up at the clocks" />
+<img class="page-hero-image" src="/star-rangers/images/hero/tissadelle-arc.jpg" style="object-position: center 35%" alt="Tissadelle Shepherd at about thirty, red hair pinned up loosely with strands falling free, in the dark slate-grey Ranger field uniform with a stand collar, the square metal rank tab with three concentric rings on her chest, seen from the waist up in three-quarter profile at the left of the frame, looking out through a great window with rounded corners, set deep in a pale wall, at a grey sea with whitecaps under heavy grey cloud" />
 <h1 class="page-title">Tissadelle Shepherd's Arc</h1>
 <p class="page-intro">
   The chronological spine of the published series — Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind — carried across Seasons 1, 3, 5, 6, and 7. Seasons 2 and 4 are carried by other threads, the Undercover Pets and Orbital Five-O, whose storylines are not hers, though she holds a viewpoint in each.
