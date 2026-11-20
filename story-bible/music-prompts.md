@@ -20,6 +20,15 @@ audio enters the repo without an entry here.
 [`open-questions.md`](open-questions.md)**, so they can be found without reading
 this one.
 
+**No footer theme music since 15 November 2026** (Dermot, verbatim *"Remove it"*,
+after *"less sure about the ambient audio, unless it belongs to codex"*;
+`CHANGELOG.md`, the same day). The footer player and its six theme tracks are
+gone from all eight editions, and no ambient audio is added outside the Codex.
+What music this file still serves is the Codex recordings on their own pages
+and the audio a chosen video carries (`CLAUDE.md`, *Images*: *a video chosen for
+narrative prose or the Codex carries its own audio*). The theme sections below
+stay as a record of what was briefed and filed, and none of them is queued.
+
 ---
 
 ## The five existing files: mark the absence, do not invent one
@@ -39,6 +48,11 @@ reason, and an invented provenance line is worse than a blank one because it
 stops anyone looking further. The prompts below are **new briefs written from
 canon**, not recoveries; a regeneration under one of them produces a *different*
 track, and that is a decision for Dermot, not a maintenance job.
+
+**Since 15 November 2026 only `ballad-of-the-stars.m4a` of the five is still in
+`src/audio/`.** The four `.wav` themes went with the footer player, as did the
+two filed later (`rotational-hum.m4a`, `told-theme.m4a`). The audio folder now
+holds the Ballad and `paper-galaxies.m4a`, both on their own Codex pages.
 
 ---
 
@@ -266,6 +280,13 @@ A new or changed prompt lands here first, as a pull request, before it is run.
 
 ### Delivery
 
+**Retired with the footer player, 15 November 2026.** The three lines below were
+the spec for a looping footer theme, and no edition has one now. They are kept as
+the record of what the filed themes were held to. For audio that still ships:
+a Codex recording plays once on its own page, so it needs no loop and may end;
+the audio under a chosen video is cut to the clip's length; and both keep the
+quiet target (around −18 LUFS) and the small-file habit.
+
 - **Loopable**, 90–150 s, no fade in or out, ending on a tone that can meet its
   own beginning. `base.njk` sets `loop`, so a track with a produced ending will
   audibly restart forever.
@@ -300,7 +321,7 @@ evening. Keep it for sketching.
 
 | Job | Tool | Why |
 |---|---|---|
-| The four edition themes | **Stable Audio** | Built for instrumental beds and loops rather than songs, exports MIDI as of 2.5, and ships clean commercial terms. The loop requirement is the whole spec here, and song-shaped generators give you an intro and an outro that will not meet. |
+| Instrumental audio under a chosen video, or an instrumental Codex recording (until 15 November 2026: the edition themes) | **Stable Audio** | Built for instrumental beds and loops rather than songs, exports MIDI as of 2.5, and ships clean commercial terms. The loop requirement is the whole spec here, and song-shaped generators give you an intro and an outro that will not meet. |
 | *Half-Light Causeway*, *Protectors of the Fold* | **Udio** | **Inpainting** — regenerate one section without touching the rest, so a mangled canonical line is fixed in place instead of costing the take. Stems too. Also the cleanest licensing of the song generators: Universal, Warner, Merlin and Kobalt have signed with it. |
 | Anything where terms matter more than polish | **ElevenLabs Music** | Clean commercial terms, quality a step behind the leaders. |
 | Best raw quality | **Suno** | Strongest vocals and coherence, cheapest, and the least settled rights position — Sony and Universal litigation was still live in mid-2026. |
@@ -329,13 +350,26 @@ an argument for choosing deliberately and writing down what was chosen.
 **Whatever the tool:** m4a or mp3, around −18 LUFS, seamless loop for themes, and
 an entry in this file with the prompt as typed.
 
-**Route.** Themes and textures go to Stable Audio or ElevenLabs Music, songs to Udio.
-None is run on MyTunes as delivery. To sketch one there, write its one-box line here
+**After 15 November 2026.** The footer themes, the job Stable Audio was first
+chosen for, are gone (top of this file). The split between the tools still holds
+for what remains, and the reasons carry over: audio under a chosen video has to
+be cut to a length and carry no other product's badge, and a Codex recording is
+served on its page on every domain that carries it, so its terms matter as much
+as a theme's did. MyTunes stays the sketchpad. The `told-theme.m4a` remake, the
+one Stable Audio file filed, left `src/audio/` with the player; its entry under
+*Entry format* stays as the worked example of the route.
+
+**Route.** Instrumental audio for a chosen video, and textures, go to Stable Audio
+or ElevenLabs Music; songs go to Udio. None is run on MyTunes as delivery. To sketch one there, write its one-box line here
 first, under 200, counted.
 
 ---
 
 ## Ready prompts — site theme audio
+
+**Retired 15 November 2026, with the footer player** (top of this file). Nothing
+in this section is queued, and no edition carries a `themeAudio` label. The briefs
+stay as the record of what each edition was given and why.
 
 One per edition, keyed to the `themeAudio.label` already registered in
 `lib/editions.js`, because the label ships to the reader and a track that
@@ -685,6 +719,63 @@ Told's loop with no figure in it, put *flute motif* in place of *Five-note motif
 and say so in the take's entry. For his ear only: whether the second statement is
 audibly shorter, and whether the drip lands late. A take is a sketch, logged
 under *Entry format*, and not filed under `src/audio/` until a trailer uses it.
+
+#### Tissadelle Shepherd's Arc's variation: a Stable Audio prompt for D5 (20 November 2026)
+
+Written for *The Character of the Light* (D5, S01E01C03), at Dermot's *"Write a
+Stable Audio prompt for the next film"* and his choice of D5 the same day. It is
+the only film left in the running to become a trailer (`video-prompts.md`,
+*Trailers: the bar*: D2 and D7 were withdrawn on 20 November), and the bar's
+third test needs the late note under it. Season 1 belongs to Tissadelle
+Shepherd's Arc, so this is that thread's variation: the core as it stands, low
+whistle and harp, the last note late and staying late. It is the first trailer
+score written for Stable Audio rather than sketched in MyTunes, because a
+trailer is delivery, not a sketch (*Tools*). It is the film's own audio under
+the 15 November ruling, not footer music.
+
+**What the film asks of it.** The chapter's subject is the light's timing: two
+flashes, then dark, fifteen seconds from group to group. So the score never
+marks a flash. It runs at 64 a minute in four-bar phrases, and four bars of 4/4
+at 64 is exactly fifteen seconds, so in the cut each statement of the figure can
+be laid in the dark between two groups and never on one. The film's own sound
+(the gale, the sea, the door, the two voices) stays in front, and the score
+carries no wind, sea or room sound of its own to fight it.
+
+| Field | |
+|---|---|
+| **Style** | celtic ambient, title score, dorian, slow, 64 bpm, 4/4, spacious |
+| **Mood** | beautiful, enigmatic, haunting, dramatic, mysterious |
+| **Instruments** | low whistle, wire-strung harp, bowed low drone, low strings entering late |
+| **Production** | low station hum under everything; few-cent detune on the whistle, never fixed; five-note figure stated three times, four bars each with long rests between, its last note late every time; third statement fuller; beatless; ends on a held low tone |
+| **Exclude** | (the API has no exclude field, so these stay out by wording) percussion, riser, braam, impact, choir, wind or sea sound |
+| **Form** | instrumental, request 120 s, the trailer cut taken from it, held end for the title |
+
+**The prompt to paste** (Stable Audio 3.0, `stable-audio-3`, through the
+Stability API or the web app):
+
+`Celtic ambient title score, dorian, slow, 64 BPM, 4/4, spacious. Beautiful, enigmatic, haunting, dramatic, mysterious. Low whistle and wire-strung harp over a bowed low drone, low strings entering late. A low sustained hum under everything, like a great structure heard through a wall. A small uncorrected detune on the whistle, a few cents, never fixed. One five-note figure on the low whistle, stated three times, each statement four bars long with long rests between; its last note arrives a fraction late every time and never catches up. The third statement fuller, low strings joining. Beatless. Instruments only, close natural room, air and noise floor audible, unpolished. Ends on a long held low tone that does not resolve. Instrumental.`
+
+**Settings.** Duration 120 s. Three takes, each seed kept, as the Told's theme
+was made. Nothing else changed from the defaults, so a take can be remade.
+
+**Judging a take, by his ear** (the bar's fourth test: Claude measures, he
+hears). It fails if a beat, a drum or a riser comes in; if the figure cannot be
+heard, or its last note lands on time; if the whistle's tuning is corrected
+rather than left to drift; if it ends in a fade or a cadence rather than a held
+tone; or if it sounds like wind or sea, which the film already has. If a take
+comes back with a pulse, the next adds *unmetered* after *Beatless*. If the
+figure is lost, the next names it *a clear five-note melody* and says so in the
+take's entry.
+
+**In the cut.** The trailer's last statement of the figure lands its late note
+as the *Fian Ilchruinne* title cuts in, with *Tissadelle Shepherd's Arc* small
+beneath it, set by script; the title holds on the held low tone. The score sits
+under the film's own sound, which leads; the file itself is levelled to about
+−18 LUFS like any other, and its level in the mix is for his ear. A take is
+logged under *Entry format* with prompt, seed and measurements, and is filed
+under `src/audio/` or muxed into the film only when he passes it and a trailer
+uses it. Stability's terms say a generated output is not to be presented as
+human-made, so the entry is that record.
 
 ### The title: three ideas
 
@@ -1361,7 +1452,7 @@ wrong would be the expensive mistake.
 
 | File | Audio | Card | What to change |
 |---|---|---|---|
-| `RotationalHum_1` | **adopted** | **keep** | Done — `src/audio/rotational-hum.m4a`, registered as the Church Space theme ("Ambient drone"). Card needs nothing: matte object, real light, no lettering. |
+| `RotationalHum_1` | **adopted, then retired** | **keep** | Was `src/audio/rotational-hum.m4a`, the Church Space theme ("Ambient drone"), until the footer player was removed on 15 November 2026. Card needs nothing: matte object, real light, no lettering. |
 | `PaperGalaxies_5` | **adopted** | **keep** | Done — audio extracted to `src/audio/paper-galaxies.m4a` and attached to its own audit entry. The card stays as the entry's designed cover. |
 | `AoifeofStars_3` | keep | hold | Not a fix — a decision. First depiction of a character with no portrait, so it waits for you. |
 | `InnerSpaceBloom_3` | keep | **regenerate** | Garbled lettering; and *"Live Concert Recording"* claims a provenance the file does not have. |
