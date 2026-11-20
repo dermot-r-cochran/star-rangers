@@ -18,6 +18,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Changed
 
+- **The Tissadelle Arc banner redesigned** (`src/images/hero/tissadelle-arc.jpg`, `src/threads/tissadelle-arc/index.md`, `story-bible/images.md` § 90, `story-bible/image-prompts.md`, 2026-11-20, Opus, Dermot's *"redesign that image and remove the clocks"* and *"File B"*). The Dock Seven desk frame is replaced: Line Captain Shepherd, in three-quarter profile, at the outer gallery's great window over the grey sea. Generated with Gemini, with her filed header as the only face reference. Alt rewritten.
+
 - **The Tissadelle Arc banner without its doors** (`src/images/hero/tissadelle-arc.jpg`, `src/threads/tissadelle-arc/index.md`, `story-bible/images.md` § 90, `story-bible/image-prompts.md`, 2026-11-20, Opus, Dermot's *"Remove those doors from the image please"*). The pressure door and the hatch are gone from the banner merged earlier today; the two clocks now hang on plain wall. A Gemini edit, pasted back only inside the door areas, so the people, desk and clocks are unchanged. Alt rewritten.
 
 - **The Tissadelle Arc thread page has its own banner** (`src/images/hero/tissadelle-arc.jpg`, `src/threads/tissadelle-arc/index.md`, `story-bible/images.md` § 90, `story-bible/image-prompts.md`, 2026-11-20, Opus, Dermot's *"new image needed for this page"*). The page borrowed the Season 1 banner, which shows nothing of her. The new frame is Dock Seven on the evening of her first day back as Section Lead (*Standing Practice*): a cadet writing the log at the watch desk and Shepherd beside him, both from behind, looking up at the two clocks. Generated with Gemini from three filed frames; one sleeve patch healed by hand.
