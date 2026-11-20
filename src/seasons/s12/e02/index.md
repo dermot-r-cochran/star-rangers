@@ -19,7 +19,7 @@ permalink: /seasons/s12/e02/
   after. Then the imager's playback shows a shape at the mouth of the third passage with an edge the light goes
   round and nothing on any other channel: no warmth, no sound, no mass. Egede files an imager fault and
   recalibrates, and it comes back, and the spare sees it too, and for seven weeks the log says the instrument is
-  broken. Aravena, asked at last, says where it stands: where the small one stood for eleven minutes, the first
+  broken. Aravena, asked at last, says where it stands: where the small one stood for eleven minutes, the second
   year. Nakagawa strikes the word fault, writes down what the imager saw and not what it was, and asks the Corps
   for the one colleague whose page this is. In a rack at the station, something the survey does not own goes on
   logging what the survey does not read. Then the colleague comes, on the supply run, and reads the file in the wind,

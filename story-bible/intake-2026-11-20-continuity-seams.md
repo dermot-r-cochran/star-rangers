@@ -226,3 +226,89 @@ These are new; the slips listed on 19 November are not repeated. Each is an arit
 ## Could not read
 
 Nothing. Every chapter and index page was read.
+
+## The slips, checked and fixed — 20 November 2026
+
+**His words, verbatim.** *"Fix them when ready please"*: the slips under *Slips found in passing*, and the S01E02C05 to S01E03C01 point under *Considered, not seams*.
+
+**How.** Opus checked each slip against the chapters either side of it and against the character, lore, glossary and timeline pages before changing anything. A plain error was fixed as a **clarification** on the page the rest of the record contradicts, using the smallest edit that would do. Where an in-story reading already makes sense of a slip, it was left alone. `lib/locked-pages.json` lists no page. One genuine dilemma is put to him. **Tally:** 46 points; 25 fixed, 19 left, 2 put to him as one question.
+
+### Seasons 0 and 1
+
+- **S00E01C02.** Fixed in `s00e01c02.md`: *now had two colleagues* → *three colleagues*. Kept Okafor's *three more monitoring officers*, which `src/lore/eden-space-habitat.md` also says.
+- **S00E02C01.** Fixed in `s00e02c01.md`: *the fourth family member to sit across this desk from him* → *to reach this desk*. The other three wrote through the correspondence channel, so *only one in person* stands.
+- **S00E03C01.** Left. Voss cites Kessler and *the report*. He never says he was there, and *rooms where that delay cost lives* can be his casualty desk.
+- **S00E03C02, *watched you say that difference*.** Left. Kilbride trained with Okafor for four months before launch, so she had other chances to hear it. The line does not claim the S00E01C02 meeting.
+- **S00E03C02, *two pilots*.** Fixed in `s00e03c02.md`: *two pilots comparing notes* → *two crew*. Okafor is the boundary analyst.
+- **S01E00C00.** Fixed in `s01e00c00.md`: timestamp *Early Autumn* → *Mid-Autumn*. The frost, the roses and *this late in the year* are kept, and the canon_facts line *before Late Autumn* still holds.
+- **S01E00C07.** Fixed in `s01e00c07.md`: *had read about a turn* → *a late turn*. After a month on the post she has seen ordinary turns; the thirty-one-hour one is what she had never watched.
+- **S01E03C03.** Fixed in `s01e03c03.md`: Aldera's log *Two nights ago Subject A asked me the question* → *Last night*. The question comes on the evening of S01E03C01 and the anchor breaks before dawn. Rook's *three days ago* is about his model filing, so it stands.
+- **S01E03C04.** Left. The quoted *the last four days* is not in the chapter. *On the sixth day … four days ago* reads fine.
+- **S01E03C06.** Left. C05 and C06 are not said to be consecutive, so *a week ago at this table* fits the gap.
+- **S01E02C05 → S01E03C01, Elvira and the model.** Fixed in `s01e03c01.md`, two phrases:
+  - *A model, current as of this morning,* → *The file behind the model she had heard stated that morning,*;
+  - *by a ratio that meant* → *by a ratio worked through in the station's own figures, which meant*.
+
+  Galahad's *found out today* stands, because he learned it at the same meeting.
+
+### Season 2
+
+- **S02E01C03.** Left. Barsik's *The next day* makes the chapter day 9 and the side door was day 6, so *three days before* is right.
+- **S02E05C01 and S02E10C01, `achebe` and `marisol-achebe`.** Left. This was settled on 10 October 2026: the character page lists both ids under `pov_ids:`. Renaming one would move a scene-viewpoint page and its comment thread.
+- **S02E06C01.** Left. The application went in the week the family arrived, so a family *four weeks aboard* is in the fifth week of its application.
+- **S02E10C01, Lev's memory.** Left. S02E07C01 shows only Bubochka's and Barsik's sides. Lev's mother is at the bureau that day, and nothing rules out the meeting he remembers.
+
+### Seasons 3 and 5
+
+- **S03E01C03.** Fixed in `s03e01c03.md`: *File four hundred and thirteen was* → *File four hundred and thirteen of the shift was*. S03E01C01 already counts files per shift.
+- **S03E02C01.** Fixed in `s03e02c01.md`: *a review chamber in the spring* → *at the end of winter*. S03E01C02 is timestamped Late Winter.
+- **S03E02C03 and C04, Halvorsen's six and five.** Left. She was on every revisit from the second onward, so there are six revisits on file and five homecomings of her own.
+- **S03E03C01, *from the top of … a pilot department*.** Fixed in `s03e03c01.md`: *She had come to it* → *She had come to command*. The line meant her step from Chief Pilot into command, as S05E00C01 and her page say; *it* had read as the Line Captaincy.
+- **S03E03C01, *Archwarden* in 2829.** Left. The word is not in that chapter. Where it does appear, the glossary's rule of 29 September 2026 lets the Archive's narration use *Archwarden* in every period.
+- **S05E00C01, *Two years* and *Three years*.** Fixed in `s05e00c01.md`: *Three years.* → *Two years.* This matches the paragraph's opening, the description and S03E03C01.
+- **S05E00C01, *six weeks* under *Late Autumn*.** Left. Late Autumn is half a season, long enough to hold six weeks after an assumption early in it.
+- **S05E00 index.** Fixed in `s05/e00/index.md`: *the Chief Ranger who left the Hegemony's review chamber* → *the Principal who left the Survey Corps' review chamber*.
+
+### Seasons 5 to 7
+
+- **S05E02C03, *her own station's clock*.** Left. Nothing puts Wender aboard *Fel Trohen* that night; she was eleven hours away, and *her own station* is her duty station.
+- **S06E01C02, *the one member of her survey team*.** Left. The full phrase says Rook is the one member with a habit, not the one member of the team.
+- **S06E01C03.** Fixed in `s06e01c03.md`: *a lifetime and a rank ago* → *a lifetime ago*. She was a Line Captain then and is one still. *A lifetime* is felt time in the interior.
+- **S07E01C01.** Fixed in `s07e01c01.md`: *set down ten weeks ago* → *seven weeks ago*. Kept the chapter's *ten weeks* since Dock Seven and S06E01C02's day 19, which together make about seven weeks.
+
+### Orbital Five-O
+
+- **S04E02C01.** Left. *Two years since* reads as the last two of the eleven, holding the task force's standing, which agrees with S04E00C02's *in two years*.
+- **S10E01C01, C02 and C05, the two last days.** Fixed in `s10e01c05.md`: *dated the last day* → *dated the last shift*, in the prose and in the same canon_facts line. C01 and C02 agree on *the last day of the work*; the crew stayed on into snagging, and C05's timestamp is *the crew's last shift*.
+
+### Below the Roof
+
+- **The stones on the line (S12 and S14).** Put to him: `open-questions.md`, *The knock stones on the line*, held in its own pull request. No counting reading closes it, and the reasons are given there.
+- **S12E01C02, the knock *to the squeeze, not through it … on their side*.** Put to him, as part of the same question. It is the plain fix if the stones are settled one way and the answer itself if they are settled another.
+- **S12E01C06, *Lately … for a year*.** Left. To the Told a year is recent.
+- **S12E01C06, *six tellings* and *the five things*.** Fixed in `s12e01c06.md`: *the five things* → *the six things*. The paragraph before it lists six.
+- **S12E01C04.** Fixed in `s12e01c04.md`: *for a whole year* → *for two whole years*. The survey arrived in 2831 and the two stones came at the end of 2832 (S11E02C03, *Two years to learn to knock*).
+- **S12E02C01, *a hundred and some shifts*.** Left. Knocking began at shift 64, and the third year runs to about shift 211 (see the summaries below), so *a hundred and some* fits a chapter late in that year.
+- **The eleven minutes in *the first year*.** Fixed in `s12/e02/index.md` and `s14e02c01.md`: *the first year* → *the second year*. S11E02C01 and the canon_facts of S12E02C01 have it in the second year. S12E02C01's *the first year, before we had the stand* is left, because it places the spot by where the light stopped, which held for two years.
+- **S14E02C01 to C03, Nakagawa's summaries.** Fixed in `s14e02c01.md` and `s14e02c02.md` as a chronology clarification. C01's summary is now the third year's, signed at the turn into the fourth:
+  - *had signed three … stood on the two* → *two … the one*;
+  - *The fourth summary* → *The third summary*;
+  - *the fourth year's summary* → *the third year's summary* (twice);
+  - *signed it twice* → *signed it once*;
+  - *sign it a third time* → *a second time*;
+  - *in four years* → *in three years*;
+  - in C02, the timestamp and one canon_facts line, *fourth* → *third*.
+
+  Kept: the fourth-year timestamps of C02 and C03, the timeline page, the character pages, and one survey year per season. The shift figures also decide it. From shift 64 to shift 211 is 148 knocks, which is one year of *a hundred and some*, not two. C01's own timestamp, *at the turn of the year's file* in the fourth year, already fits the turn into it.
+- **S12E02C03 and S14E02C02, Ferrant's *nine years*.** Left. With the fix above, the two chapters are months apart, late in the third year and the turn into the fourth.
+- **S14E01C02, the answer before the wait.** Fixed in `s14e01c02.md`: the standalone *Stone-First answered it. A good one. Once.* is moved to the end of the wait, *Then Stone-First answered it, a good one, once, and the stone spoke*. No word was added beyond the move.
+- **S14E01C03, *three up-people*.** Fixed in `s14e01c03.md`: *to keep three up-people* → *to keep an up-person*. Only the one who knocks comes through to the line.
+- **S11E01C03, *twice*.** Left. The earlier watches are told by report, and nothing says there was only one.
+
+### Seasons 9 and 13
+
+- **S09E01C05.** Fixed in `s09e01c05.md`: *on nine of them a line* → *on the ninth of them a line*. Season 10 has the line on day 9 and the inspection on day 26, nine days and seventeen more.
+- **S13E01C02, *the first door on the right*.** Left. Hallin's walk goes down the right side to where the lamp stops, and nothing says where it starts.
+- **S13E02C02, *a location the court chose*.** Fixed: → *the keeper chose*. S13E01C02 says twice that the keeper decides.
+- **S13E02C02, the name the Abbess *had said once*.** Fixed: → *the name on the page the Abbess had read once in the long room*, and *said in her hearing and had not been said to her* → *held out in her sight and had not been held out to her*. On the page the Abbess reads the page Oriel holds out and never speaks the name. This is the fix nearest to new material, because it says how Emma came by the name. His to overrule: the alternative is to leave the line as it was published.
+- **S13E02C02, *by the first calm*.** Fixed: → *by the next calm*. Wren left on the first calm's boat, and the line still had to reach the court and a reciter cross from Ostrel.
