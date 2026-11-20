@@ -31,7 +31,7 @@ Her identification of a "Court thing" at the causeway was partially correct. She
 
 ## Before the Causeway
 
-[Season 1, Episode 0](/star-rangers/seasons/s01/e00/) covers her last months as warden-heir of [Dún Rí](/star-rangers/lore/dun-ri/), in the autumn of 2822 UCSD — one winter before her arrival at the outpost in the early spring of 2823 UCSD: her first uncertain attempt at a working of her own, guided by the household sage, and the night her cat chose the garden gate over the terrace and did not come back. It establishes where her self-taught vocabulary began, without resolving what she is.
+[Season 1, Episode 0](/star-rangers/seasons/s01/e00/) covers her last months as warden-heir of [Dún Rí](/star-rangers/lore/dun-ri/), in the autumn of 2822 UCSD — one winter before her arrival at the outpost in the early spring of 2823 UCSD: the night her cat chose the garden gate over the terrace and did not come back, the search she had the household sage send the house's drones on, which gave her a heading and no more, and the first dated note she kept of her own. It establishes where her self-taught vocabulary began, without resolving what she is.
 
 ## Open Thread
 
