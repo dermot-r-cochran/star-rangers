@@ -720,6 +720,63 @@ and say so in the take's entry. For his ear only: whether the second statement i
 audibly shorter, and whether the drip lands late. A take is a sketch, logged
 under *Entry format*, and not filed under `src/audio/` until a trailer uses it.
 
+#### Tissadelle Shepherd's Arc's variation: a Stable Audio prompt for D5 (20 November 2026)
+
+Written for *The Character of the Light* (D5, S01E01C03), at Dermot's *"Write a
+Stable Audio prompt for the next film"* and his choice of D5 the same day. It is
+the only film left in the running to become a trailer (`video-prompts.md`,
+*Trailers: the bar*: D2 and D7 were withdrawn on 20 November), and the bar's
+third test needs the late note under it. Season 1 belongs to Tissadelle
+Shepherd's Arc, so this is that thread's variation: the core as it stands, low
+whistle and harp, the last note late and staying late. It is the first trailer
+score written for Stable Audio rather than sketched in MyTunes, because a
+trailer is delivery, not a sketch (*Tools*). It is the film's own audio under
+the 15 November ruling, not footer music.
+
+**What the film asks of it.** The chapter's subject is the light's timing: two
+flashes, then dark, fifteen seconds from group to group. So the score never
+marks a flash. It runs at 64 a minute in four-bar phrases, and four bars of 4/4
+at 64 is exactly fifteen seconds, so in the cut each statement of the figure can
+be laid in the dark between two groups and never on one. The film's own sound
+(the gale, the sea, the door, the two voices) stays in front, and the score
+carries no wind, sea or room sound of its own to fight it.
+
+| Field | |
+|---|---|
+| **Style** | celtic ambient, title score, dorian, slow, 64 bpm, 4/4, spacious |
+| **Mood** | beautiful, enigmatic, haunting, dramatic, mysterious |
+| **Instruments** | low whistle, wire-strung harp, bowed low drone, low strings entering late |
+| **Production** | low station hum under everything; few-cent detune on the whistle, never fixed; five-note figure stated three times, four bars each with long rests between, its last note late every time; third statement fuller; beatless; ends on a held low tone |
+| **Exclude** | (the API has no exclude field, so these stay out by wording) percussion, riser, braam, impact, choir, wind or sea sound |
+| **Form** | instrumental, request 120 s, the trailer cut taken from it, held end for the title |
+
+**The prompt to paste** (Stable Audio 3.0, `stable-audio-3`, through the
+Stability API or the web app):
+
+`Celtic ambient title score, dorian, slow, 64 BPM, 4/4, spacious. Beautiful, enigmatic, haunting, dramatic, mysterious. Low whistle and wire-strung harp over a bowed low drone, low strings entering late. A low sustained hum under everything, like a great structure heard through a wall. A small uncorrected detune on the whistle, a few cents, never fixed. One five-note figure on the low whistle, stated three times, each statement four bars long with long rests between; its last note arrives a fraction late every time and never catches up. The third statement fuller, low strings joining. Beatless. Instruments only, close natural room, air and noise floor audible, unpolished. Ends on a long held low tone that does not resolve. Instrumental.`
+
+**Settings.** Duration 120 s. Three takes, each seed kept, as the Told's theme
+was made. Nothing else changed from the defaults, so a take can be remade.
+
+**Judging a take, by his ear** (the bar's fourth test: Claude measures, he
+hears). It fails if a beat, a drum or a riser comes in; if the figure cannot be
+heard, or its last note lands on time; if the whistle's tuning is corrected
+rather than left to drift; if it ends in a fade or a cadence rather than a held
+tone; or if it sounds like wind or sea, which the film already has. If a take
+comes back with a pulse, the next adds *unmetered* after *Beatless*. If the
+figure is lost, the next names it *a clear five-note melody* and says so in the
+take's entry.
+
+**In the cut.** The trailer's last statement of the figure lands its late note
+as the *Fian Ilchruinne* title cuts in, with *Tissadelle Shepherd's Arc* small
+beneath it, set by script; the title holds on the held low tone. The score sits
+under the film's own sound, which leads; the file itself is levelled to about
+−18 LUFS like any other, and its level in the mix is for his ear. A take is
+logged under *Entry format* with prompt, seed and measurements, and is filed
+under `src/audio/` or muxed into the film only when he passes it and a trailer
+uses it. Stability's terms say a generated output is not to be presented as
+human-made, so the entry is that record.
+
 ### The title: three ideas
 
 The lettering is always set by script or composited, never generated, and it is
