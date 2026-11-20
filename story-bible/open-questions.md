@@ -111,6 +111,13 @@ left as they stand.
 
 ---
 
+## Season 1 Episode 0 reads as three stories — put to Dermot 20 November 2026 (Opus), from his *"Season 1 Episode 0 reads as three apparently unrelated short stories"* — OPEN
+
+Full read in `intake-2026-11-20-s01e00-one-story.md`. The three: Dún Rí (C00–C03), the wreck (C04), readings at the edge (C05–C13). The join is the theme of all fourteen endings, what a record keeps and leaves out, plus the forward links to Season 1. The index names only time.
+
+1. **The repair.** (1) one paragraph on the episode index naming the join, including that Aldera's road resumes in Episode 2 and C04's Karla is C09's Senior (recommended, Opus, no chapter touched); (2) an appended closing chapter S01E00C14 in Benedek Rónai's POV at the 2826 archive pass (Fable; the runner-up); (3) an Archive companion page in every chapter's `related:`.
+2. **What Episode 0 takes from now on.** (a) still the side-light slot, each new chapter reaching the named join (recommended); (b) closed at its present count or C14; (c) as now.
+
 ## Critic read of #2004 to #2023 — 20 November 2026, on Fable — all five points RULED the same day, each as recommended (*"Yes, as recommended"*), and applied
 
 *Applied in `critic/rulings-2026-11-20-evening`:* (1) CLAUDE.md now says *The Dark-Down*'s Drithane scenes open on a custom; (2) one sentence in S06E01C01, drafted on Fable, *"Why she needed one this morning she could not have said."*, and S00E03C01's *"to reach that desk"*; (3) the lore page's ritual section re-attributed to *The Flight of Aldera: A Chronicle of Dún Rí*, the river stones and the orbital station dropped since no source holds them; (4) both notes say *read and kept*; (5) a note under clip O. The two tag re-scales stay a desktop step, and the clip re-run waits for Grok.
