@@ -237,9 +237,9 @@ def video_main(argv):
     Each --box gets a --start reading: the time the panel shows at the clip's
     first frame. At running time t seconds a panel reads start + floor(t), so
     two panels set 40 seconds apart stay exactly 40 seconds apart on every
-    frame. --track follows each panel from frame to frame by template match
-    and reports the largest drift, the judging line for a take whose mount
-    must hold."""
+    frame. --track fits the whole frame against the first (an affine fit)
+    and reports each panel's largest drift, the judging line for a take
+    whose mount must hold; a frame the fit cannot track fails the take."""
     import cv2
     import numpy as np
 
@@ -295,6 +295,7 @@ def video_main(argv):
     inks, sigmas, tmpl, tones, drift = {}, {}, {}, {}, [0] * len(a.box)
     rng = np.random.default_rng(7)
     t_first = None
+    lost = 0  # frames the affine fit did not converge on
     shown = [[] for _ in a.box]
     for t, im, rate in frames():
         if t_first is None:
@@ -320,7 +321,10 @@ def video_main(argv):
                         tmpl["ref"], g, tmpl["warp"], cv2.MOTION_AFFINE,
                         (cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 100, 1e-6), tmpl["mask"], 5)
                 except cv2.error:
-                    pass
+                    # Not tracked: the last warp is kept for this frame, but
+                    # the take can no longer be said to hold, so it is
+                    # counted and fails below (critic read, 20 Nov 2026).
+                    lost += 1
             wm = tmpl["warp"].astype(np.float32).copy()
             wm[:, 2] *= 2  # back to full-size pixels
             if a.stabilise:
@@ -352,6 +356,8 @@ def video_main(argv):
     for k, seq in enumerate(shown):
         turns = [f"{t:.3f}s {txt}" for t, txt in seq if txt.endswith(":00")]
         print(f"panel {k + 1}: {seq[0][1]} to {seq[-1][1]}, {len(seq)} readings; on the minute: {', '.join(turns) or 'none'}")
+    if a.track and lost:
+        print(f"{lost} frame(s) could not be tracked; the take FAILS")
     if a.track:
         for k, d in enumerate(drift):
             if a.stabilise:
@@ -359,6 +365,8 @@ def video_main(argv):
             else:
                 print(f"panel {k + 1}: largest drift {d}px ({'FAIL' if d > a.max_drift else 'holds'})")
     print(f"Wrote {a.output}")
+    if a.track and lost:
+        return 1
     return 1 if a.track and not a.stabilise and max(drift, default=0) > a.max_drift else 0
 
 

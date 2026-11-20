@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Fixed
+
+- **Critic read of #1978 to #2002: links, a date and a tracking check** (`src/characters/petra-solano.md`, `src/timeline/2719-outer-stations-consolidation-hearing.md`, `src/codex/bound-in-behind-it.md`, `src/journal/`, `src/video/README.md`, `scripts/set-readouts.py`, `story-bible/`, 2026-11-20, Fable read, Opus fixes). *Correctly Formed* (S00E02C03) is now linked from Solano's page, the 2719 hearing and *Bound In Behind It*. The two films' withdrawal is dated 19 November, the day it merged. `set-readouts.py --track` now fails a take with a frame it could not track, instead of reporting it as holding. Four points are put to Dermot in `open-questions.md`.
+
 ## [1.74.0] — 2026-11-20
 
 A new chapter, *Correctly Formed*, the first in Sildron Drey's viewpoint, with its picture, and a scene in *The One He Did Not Name* that carries the survey to Pelagos Minor. Four chapter clips are embedded with watch pages, and the *Lúnasa* and *Nothing Taken* films are withdrawn as negative examples. The Verdani body is ruled as the apron, and Isren Farrowkin's portrait and the S01E00C08 picture are re-made on it. Lore gains Earth's ring of stations, the Disavowers among the Unfounded, and readings of judgment and reward on the Communion and Fellowship pages. Several Founding Era and arithmetic slips are mended, and the music notes catch up with the removal of theme music.

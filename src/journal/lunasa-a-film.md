@@ -12,7 +12,7 @@ This is a rough cut with no words in it, and it is filed as an impression, not a
 
 Before dawn, from a terrace above a bay, a low arc of separate points of light hangs in the southern sky. Across the water a winged craft rides a sled along a level rail and out along a causeway, lifts off and climbs, and its trail catches the sun while the bay is still dark. Through a round port the horizon sinks and the sky goes black. Then the whole earth is seen from far out, with a straight line of stations across it, and one dark station grows slowly larger.
 
-*This film was withdrawn on 20 November 2026 and is no longer shown on the site. At Dermot's word, rough cut 3 of D7 is kept in the story bible as a negative example, with its frames and its faults, and this page is unlisted.*
+*This film was withdrawn on 19 November 2026 and is no longer shown on the site. At Dermot's word, rough cut 3 of D7 is kept in the story bible as a negative example, with its frames and its faults, and this page is unlisted.*
 
 ## What it was briefed from
 

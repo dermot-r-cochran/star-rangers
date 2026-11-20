@@ -32,5 +32,6 @@ Halyard Station appears in no lore page. Governor [Petra Voss](/star-rangers/cha
 ## See also
 
 - [The Outer Stations Consolidation Hearing (2719 UCSD)](/star-rangers/timeline/2719-outer-stations-consolidation-hearing/)
+- [Correctly Formed (S00E02C03)](/star-rangers/seasons/s00/e02/s00e02c03/), her formal testimony two days after the nine seconds
 - [The Founding of the Star Rangers](/star-rangers/lore/formation-of-star-rangers/), the constitutional constraints
 - [The Oversight Council](/star-rangers/lore/the-oversight-council/), seated by the outer stations the limits were written for

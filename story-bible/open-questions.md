@@ -112,6 +112,17 @@ left as they stand.
 ---
 
 
+## Critic read of #1978 to #2002 — 20 November 2026, on Fable — four points OPEN, each put once with a recommendation, his to choose
+
+A Benevolent Critic read of every pull request merged from #1978 to #2002 (#2001 was still open and is not in it). What was mechanical is mended in `critic/fixes-2026-11-20`: *Correctly Formed* (S00E02C03) is linked from Solano's page, the 2719 hearing's timeline entry and *Bound In Behind It*; the two films' withdrawal is dated 19 November, the day #1994 merged, in place of the 20th (the released 1.74.0 changelog line keeps its date, since released sections are not edited); and `set-readouts.py --track` now fails a take with a frame its fit could not track, where before it kept the last warp and could report *holds*. These four are his.
+
+1. **The Fellowship's reading of *intrinsic* (`intake-2026-11-20.md`, first section).** Opus read his *"intrinsic rather than enforced"* as what an act makes of the person who does it, and the paragraph on `src/lore/fellowship-of-light.md` is published that way. (a) Keep the reading (recommended: it is the only one that sits inside the Cascade's no-moral-cosmology invariant; the other reading is karma as mechanism). (b) Overrule it, and the paragraph is rewritten to his reading.
+2. **The two withdrawn films' Journal pages.** `src/journal/lunasa-a-film.md` and `nothing-taken.md` open with the withdrawal note but still say, under *Where it stands*, *"It is fine as a Journal impression"*, and the Lúnasa page keeps *"One question left open… I have not decided it"*, which this file closed on 19 November; both `description` lines still say *filed here as an impression*. They are unlisted and noindex, but the addresses are public and the voice is his. (a) Cut *Where it stands* on both and *One question left open* on Lúnasa, reword both descriptions as withdrawn, keep *Where it departs* (recommended, about six lines). (b) Put the same lines in the past tense. (c) Leave them.
+3. **Clip M's recording unit.** The new caption on S00E02C02 and in `lib/videos.js` says *"a recording unit held in the back row of the gallery"*, while the chapter has Solano holding the floor, Solano's portrait alt has other delegates behind her, and C03 has her at the witness table. (a) One line in `video-prompts.md` that the unit is one of the other two observers', no page changed (recommended). (b) Drop *in the back row* from both captions. (c) Leave it.
+4. **General Krast's dress.** `images.md` § 88 fails a take for *"navy tunics, not the Command's olive-grey"*, but Krast is *blue-grey* in S00E02C02's alt and clip M's prompt and *slate* on her page, in the same room two days apart. (a) Record a general officer's dress as slate, binding prompts only (recommended, one line in `images.md`). (b) Re-tint the C02 frame. (c) Leave it.
+
+**Noted, not decisions.** `src/video/README.md` still says *"Dermot filed them"* after it was rewritten to one film; Drey's tunic is *brown-grey* on her page and *olive-grey* in C03's alt; and, older than this read, S00E01C02 has *"three more monitoring officers"* beside *"two colleagues"*, and clip letters X, Y and Z are reused in `video-prompts.md`.
+
 ## Elvira and Syra look alike — raised by Dermot 19 November 2026, RULED the same day: (1), a reader-only echo (*"As recommended"*)
 
 The likeness in the S01E03C05 frame and the two portraits stays a visual echo that S01E03C06's reveal makes legible. No page or character remarks on it, and there is no recognisable Krenyi face (it would hand Syra the instrument C05 says she lacks). Kinship between the two was not taken up: it stays an unruled possibility, his to raise, tied to Elvira's marked-absent origin. Full record: `intake-2026-11-19.md`, last section.
@@ -153,7 +164,7 @@ A Benevolent Critic read of every pull request merged from #1906 to #1977. What 
 
 **Noted, not decisions.** Vellire's filed portrait turns toward a craft that is not in the frame (`images.md` § 86); four older card alts leave out the words on the card (The Archive, the Boundary Monitoring Protocol, Verdani, Levrils); Season 0 Episode 2's intro now reads *2715-2719 UCSD. A hearing…*, which can be taken as a hearing four years long; and the watch page of *The Long White Trail* calls it an impression of Lúnasa, which the ruling of 19 November has made nearer the truth than it was.
 
-## Two films rethought, *Lúnasa* (D7) and *Nothing Taken* (D2) — Dermot's direction of 19 November 2026, briefs written the same day on Fable — point 1 RULED the same day: (b), behind one proof shot; both films WITHDRAWN 20 November 2026; points 2 and 3 briefed as recommended, his to overrule
+## Two films rethought, *Lúnasa* (D7) and *Nothing Taken* (D2) — Dermot's direction of 19 November 2026, briefs written the same day on Fable — point 1 RULED the same day: (b), behind one proof shot; both films WITHDRAWN 19 November 2026; points 2 and 3 briefed as recommended, his to overrule
 
 Dermot, verbatim: *"Whereas 'Nothing Taken' and 'Lunasa - a film' need a rethink, please."* And of the model: *"The Up People's First Stone fit the text as well as being watchable."* Both rethinks are in `video-prompts.md`, each under its film's entry as *Rethink, 19 November 2026*, with judging lines written first, the place fixed and the film cut into 10-second segments. Nothing has been generated, and no filed cut or Journal entry is touched until he picks.
 
@@ -168,7 +179,7 @@ Read from frames, the filed cut explains a launch in six places, draws the ring 
 
 If he picks (b), two things close with it: the Journal entry's open question (the film's station is the record's Lúnasa, since it is made from that page alone), and whether a chained remake of D1 is wanted, which waits until this film has been seen, because the two share their central image.
 
-*Withdrawn 20 November 2026, his* "Remove both" *and* "Likewise for Nothing Taken unless the replacement is much better"*. The D7 rethink was cut and its narration dropped, and then neither it nor rough cut 3 was kept. The D2 rough cut is withdrawn too, with no replacement made. Both Journal entries are unlisted, and all three cuts are negative examples. A D2 replacement is filed only if it is much better. See D2 and D7 in `video-prompts.md`.*
+*Withdrawn 19 November 2026, his* "Remove both" *and* "Likewise for Nothing Taken unless the replacement is much better"*. The D7 rethink was cut and its narration dropped, and then neither it nor rough cut 3 was kept. The D2 rough cut is withdrawn too, with no replacement made. Both Journal entries are unlisted, and all three cuts are negative examples. A D2 replacement is filed only if it is much better. See D2 and D7 in `video-prompts.md`.*
 
 **2. *Nothing Taken*: does the film carry a voice?** Briefed as (a).
 
