@@ -133,6 +133,35 @@ A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022
 ---
 
 
+## The knock stones on the line — put to Dermot 20 November 2026 (Opus), from the continuity slips — OPEN, recommendation (a)
+
+Raised in `intake-2026-11-20-continuity-seams.md`, under *Slips found in passing* and *The slips, checked and fixed*. Two commitments in Below the Roof cannot both stand as written, and no record decides between them.
+
+**The up side.** The party has knocked before every shift since shift 64, the first stone (S11E02C03). Each time Aravena carries a stone of the upper levels through the squeeze and sets it on the line, a hand from the feet of the one who answers. The stone is *set down and left* (S12E02C01, S14E02C01 to C03; the log of S14E02C03). By shift 234 that is 171 stones.
+
+**The deep side.** The line keeps four stones (S12E01C06; S14E01C01 to C04, in the prose and the canon_facts): the up-people's first, worn smooth; Stone-First's answer; nobody's, at the edge; and the up-people's newest, a hand from Stone-First's feet. A stone moved for you is not yours to move, so Stone-First moves none of them.
+
+**Why no counting reading closes it.**
+- *Newest* does name one of a series. In S14E01C04 it is that working time's stone.
+- So the earlier stones must be somewhere. No page says where, and the deep side's own rule means none of the Told may move them.
+- S12E01C02 alone puts the routine knock at the squeeze, *not through it*, with the stone set *on their side*. That would keep the line at four, but in the same year S12E02C01 has the stone set on the line every shift.
+
+**The choices.**
+
+- **(a) The stones stay and lie along the line (recommended).** Both published rules already lead here: the up side sets the stone down and leaves it, and the deep side never moves a stone moved for it.
+  - The four stay as the four the Told name: the first, the answer, nobody's and the newest. The knock stones between the first and the newest lie in a row along the line.
+  - About six count passages gain one clause each: S12E01C06, and S14E01C01 to C04 in the prose and canon_facts where they say *keeps its four stones*. S12E01C02's two *to the squeeze … on their side* become *through the squeeze … on the line*.
+  - No event changes. The cost is that the picture of exactly four stones at Stone-First's feet becomes four named stones beside a row.
+- **(b) The routine knock stops at the squeeze.** S12E01C02 stands, and the stones pile up on the up-people's side, where the Told do not count them.
+  - The up-side chapters change instead: S12E02C01, and S14E02C01 to C03 in their prose, canon_facts and the S14E02C03 log, where the stone is set on the line a hand from the feet. So does the deep side's S14E01, where the smallest comes out of the crack and kneels on the line.
+  - This touches the most published lines. It also undoes the closeness that S14E02C03's telling depends on.
+- **(c) Each knock takes the last stone back.** Aravena lifts the previous shift's stone and carries it up to the junction, where the stones are picked. This keeps Nakagawa's principle that nothing of the party's stays, and gives the deep side exactly four, with *newest* changing every working time.
+  - It needs a reason the first stone was never taken back, which no page gives. That reason would be new material.
+  - It also needs a deep-side answer to the up-people moving a stone that was moved for Stone-First.
+  - The S14E02C03 log's *set down and left* changes.
+
+**Recommendation (a).** It is the only choice that follows from both rules as published, and its edits are clauses, not events. The open pull request for this question changes no chapter.
+
 ## Aldera's collar in 2822 — raised 20 November 2026 with S01E00C02's new picture — RULED the same day: option 2 (*"Option 2"*), then changed the same evening to option 1 (*"Option 1"*, *"Yes, switch to 1"*), applied
 
 *Out of Range* (PR 2001) gives Aldera, in 2822, *an ordinary household locator tag on a pet collar*, giving fixes *since the spring*. The pictures of her in 2822 say otherwise: `images.md` § 55 rules **"No collar"** for S01E00C00 (*Below the Bells*, early autumn 2822, before she leaves), the Episode 0 hero's alt in `src/seasons/s01/e00/index.md` says *"with no collar"*, and S01E00C03 (*Carraig Bán*, the dawn after the quay) draws her with none. Against that, `characters/aldera/field-photo-02.jpg` already shows the kitten in a boat's bow *with a black collar*. The § 55 rule was written to keep the agency's collar out of 2822, before the chapter gave her a household one. The new C02 picture shows no cat, so it does not decide this.
