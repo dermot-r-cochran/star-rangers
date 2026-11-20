@@ -112,6 +112,13 @@ left as they stand.
 ---
 
 
+## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — five choices OPEN, his; 53 single repairs waiting on his go-ahead
+
+`critic-read-2026-11-20-whole-story.md` holds the read: 58 findings across all 125 chapters, each with its cheapest repair, one already in the continuity-seams list. Five need his choice and are set out at the head of that file: the stones on the line in Below the Roof (and, following from it, whether the knock goes through the squeeze), the false zero's age in S10E01, the sixth morning in S02E08, and how long a Board season is. The rest are single repairs (a number, a word, a clause, a timestamp) and none changes canon.
+
+---
+
+
 ## Aldera's collar in 2822 — raised 20 November 2026 with S01E00C02's new picture — RULED the same day: option 2 (*"Option 2"*), then changed the same evening to option 1 (*"Option 1"*, *"Yes, switch to 1"*), applied
 
 *Out of Range* (PR 2001) gives Aldera, in 2822, *an ordinary household locator tag on a pet collar*, giving fixes *since the spring*. The pictures of her in 2822 say otherwise: `images.md` § 55 rules **"No collar"** for S01E00C00 (*Below the Bells*, early autumn 2822, before she leaves), the Episode 0 hero's alt in `src/seasons/s01/e00/index.md` says *"with no collar"*, and S01E00C03 (*Carraig Bán*, the dawn after the quay) draws her with none. Against that, `characters/aldera/field-photo-02.jpg` already shows the kitten in a boat's bow *with a black collar*. The § 55 rule was written to keep the agency's collar out of 2822, before the chapter gave her a household one. The new C02 picture shows no cat, so it does not decide this.
