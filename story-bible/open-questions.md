@@ -111,7 +111,9 @@ left as they stand.
 
 ---
 
-## Critic read of #2004 to #2023 — 20 November 2026, on Fable — five points OPEN, his, each with a recommendation
+## Critic read of #2004 to #2023 — 20 November 2026, on Fable — all five RULED the same evening, each as recommended (*"As recommended"*), and applied
+
+**Ruled 20 November 2026, evening** (Dermot, verbatim *"As recommended"*). Applied in the pull request *Apply the evening's rulings*: (1) CLAUDE.md now reads *whose Drithane scenes open on a custom*; (2) one sentence of Shepherd's in S06E01C01's first scene, and S00E03C01 reads *to reach that desk*; (3) the ritual section of `environmental-technology-design.md` is attributed to *The Flight of Aldera*, in the body and the `plain:` line; (4) both notes now say the three seam scenes were read and kept; (5) a note under clip O in `video-prompts.md` says it predates the collar ruling and is re-run at the next Grok session.
 
 A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022 was open and is not in it). The three new seam scenes, *Out of Range*, #2021's fixes and the new pictures hold; the passages that land best include S06E01C01's *"It was owed if he was there. If he was not, it had cost her two words."* Mended in `critic/fixes-2026-11-20-evening`: *fourth family member to sit across* on Voss's and Okafor's pages (now *to reach* the desk, as #2021 made the chapter); S01E00C00's timeline entry moved to Mid-Autumn with the collared alt; the seams audit's tally (125 chapters, 117 seams); and a note at the head of `critic-read-2026-11-20-whole-story.md` marking the rows #2021 already did or superseded.
 
@@ -126,14 +128,18 @@ A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022
 ---
 
 
-## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — five choices OPEN, his; 53 single repairs waiting on his go-ahead
+## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — five choices RULED the same evening (*"As recommended"*); the single repairs applied
+
+**Ruled 20 November 2026, evening** (Dermot, verbatim *"As recommended"*). Choices 1 and 2: (a), as set out in *The knock stones on the line* below. Choice 3: (b), *re-zeroed at each certification since*. Choice 4: (a), *seventh morning* and *sixth object*. Choice 5: the cheapest repair, the character page to *seven and eight*. The read named no recommendation for 3 and 4, so Opus chose, on these grounds: 3 (b) keeps the three years the episode turns on, and 4 (a) is the two-word repair. Both are his to overrule. The single repairs were applied the same evening in the same pull request, minus the rows #2021 had already done or superseded. Each row skipped or changed from its stated repair is listed in that pull request.
 
 `critic-read-2026-11-20-whole-story.md` holds the read: 58 findings across all 125 chapters, each with its cheapest repair, one already in the continuity-seams list. Five need his choice and are set out at the head of that file: the stones on the line in Below the Roof (and, following from it, whether the knock goes through the squeeze), the false zero's age in S10E01, the sixth morning in S02E08, and how long a Board season is. The rest are single repairs (a number, a word, a clause, a timestamp) and none changes canon.
 
 ---
 
 
-## The knock stones on the line — put to Dermot 20 November 2026 (Opus), from the continuity slips — OPEN, recommendation (a)
+## The knock stones on the line — put to Dermot 20 November 2026 (Opus), from the continuity slips — RULED the same evening: (a) (*"As recommended"*), applied
+
+**Ruled 20 November 2026, evening** (Dermot, verbatim *"As recommended"*). The stones stay and lie along the line. The question was recorded in #2022, and the chapter edits are in *Apply the evening's rulings*.
 
 Raised in `intake-2026-11-20-continuity-seams.md`, under *Slips found in passing* and *The slips, checked and fixed*. Two commitments in Below the Roof cannot both stand as written, and no record decides between them.
 

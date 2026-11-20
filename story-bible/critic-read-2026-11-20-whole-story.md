@@ -10,6 +10,8 @@ Four Fable readers, one per block of seasons (S00–S01, S02–S04, S05–S10, S
 
 ## Needs his choice
 
+**Ruled 20 November 2026, evening** (Dermot, *"As recommended"*): 1 and 2 (a), as set out in `open-questions.md`, *The knock stones on the line*; 3 (b); 4 (a); 5 the cheapest repair. The tables below were applied the same evening. See `open-questions.md`, *Whole-story read*.
+
 1. **The stones on the line (S11–S14).** Survey side: a stone is set on the line every shift from shift 64 (`s11e02c03.md:146`, `s12e02c01.md:43-47`, `s12e02c03.md:182`), about 170 by S14. Deep side: the line holds three, then four (`s12e01c02.md:78`, `s12e01c06.md:99`, `s14e01c04.md:180`; S14E01 canon_facts *"The line keeps its four stones"*). (a) One clause each side on where each shift's stone goes, so only the first and the convergence stones stay on the line; or (b) the daily knock is made on the party's side of the squeeze, as `s12e01c02.md:40` already says, and Aravena comes through only on the convergence days. Item 2 below follows from the choice.
 2. **Through the squeeze or not (S12).** `s12e01c02.md:40` *"comes to the squeeze, not through it"* against the canon_fact at `s12e02c01.md:16` (*"carries a stone … through the squeeze"*). Settled by 1: (b) keeps `:40`; (a) strikes *"not through it"* and *"on their side"*, and *"lately"* at `s12e01c06.md:41`.
 3. **The false zero's age (S10E01).** `s10e01c04.md:54` (*"zeroed on the certification date"*, three weeks ago) against `:70`, `:74` (*"for three years"*). (a) drop the duration at `:70`, `:74`; or (b) *"re-zeroed at each certification since"* at `:54`, with the C03 canon_fact to agree.
