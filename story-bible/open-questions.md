@@ -5873,6 +5873,11 @@ Raised 20 August 2026, when a check found that **none of the five files in
 a medium nobody was watching. `music-prompts.md` now carries the briefs; these
 are the parts it could not decide.
 
+**Footer theme music removed 15 November 2026** (Dermot, *"Remove it"*;
+`music-prompts.md`, top). The four `.wav` themes, *Rotational Hum* and the
+Told's theme left `src/audio/` with the player, so the theme items below are
+history: the WAV-to-m4a transcode follow-up is moot and owes no desktop step.
+
 - ~~**Do the four edition themes get regenerated?** Their prompts are gone, so a
   regeneration is a *new* track under an existing label, not a recovery — a
   front-of-house change on four live domains.~~ — **no, settled by Fable 19 Oct 2026, his to overrule.**
