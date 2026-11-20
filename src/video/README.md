@@ -26,3 +26,5 @@ A fourth chapter clip since the same day: `the-sound-under-the-gate.mp4`, with i
 A fifth chapter clip since 20 November 2026: `the-vanes-going-out.mp4`, with its `-poster.jpg`, on S01E00C08 (clip Q), on the same terms; its prompt was aligned to the re-made start frame before the run.
 
 A sixth chapter clip since the same day: `two-and-dark.mp4`, with its `-poster.jpg` (cut at the second flash), on S01E00C10 (clip R), from the chapter's re-made still. No take gave the light's character, so the flashes were set in post from one take's own frames: its dark stretch looped forward and back, and its own lit lantern faded in twice through a soft round mask, giving two flashes and then dark. Grok's own sound, unchanged. Both runs and the compositing are recorded under the prompt.
+
+A seventh chapter clip since the same day: `the-spit-in-the-gale.mp4`, with its `-poster.jpg`, on S01E01C03 (clip S), the walk out along the spit in the gale, from the chapter's still on the same terms; the second of two takes, the first having a head turn, both recorded under the prompt.
