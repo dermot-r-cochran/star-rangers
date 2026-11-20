@@ -111,7 +111,9 @@ left as they stand.
 
 ---
 
-## Critic read of #2004 to #2023 — 20 November 2026, on Fable — five points OPEN, his, each with a recommendation
+## Critic read of #2004 to #2023 — 20 November 2026, on Fable — all five points RULED the same day, each as recommended (*"Yes, as recommended"*), and applied
+
+*Applied in `critic/rulings-2026-11-20-evening`:* (1) CLAUDE.md now says *The Dark-Down*'s Drithane scenes open on a custom; (2) one sentence in S06E01C01, drafted on Fable, *"Why she needed one this morning she could not have said."*, and S00E03C01's *"to reach that desk"*; (3) the lore page's ritual section re-attributed to *The Flight of Aldera: A Chronicle of Dún Rí*, the river stones and the orbital station dropped since no source holds them; (4) both notes say *read and kept*; (5) a note under clip O. The two tag re-scales stay a desktop step, and the clip re-run waits for Grok.
 
 A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022 was open and is not in it). The three new seam scenes, *Out of Range*, #2021's fixes and the new pictures hold; the passages that land best include S06E01C01's *"It was owed if he was there. If he was not, it had cost her two words."* Mended in `critic/fixes-2026-11-20-evening`: *fourth family member to sit across* on Voss's and Okafor's pages (now *to reach* the desk, as #2021 made the chapter); S01E00C00's timeline entry moved to Mid-Autumn with the collared alt; the seams audit's tally (125 chapters, 117 seams); and a note at the head of `critic-read-2026-11-20-whole-story.md` marking the rows #2021 already did or superseded.
 
