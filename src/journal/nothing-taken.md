@@ -2,7 +2,7 @@
 layout: journal-entry.njk
 title: "Nothing Taken"
 date: "2026-11-17"
-description: "A rough cut of one chapter, made as a chain of 10-second generated clips from a brief written first. It is filed here as an impression of the record, with an exact list of where it departs, and it would need more polish before it could stand beside a chapter."
+description: "A rough cut of one chapter, made as a chain of 10-second generated clips from a brief written first. The film was withdrawn on 19 November 2026, and this page keeps the exact list of where it departs from the chapter."
 eleventyExcludeFromCollections: true
 robots: "noindex, follow"
 tags: [editorial, craft, process, images, canon]
@@ -24,7 +24,3 @@ On a still afternoon three goats move together in a field for no dog. Straw gets
 - **The bowl.** It moves from the left of the step to the middle between clips, and she walks out past it. In the chapter she steps over it.
 - **The night and the morning.** The film has no night, no dog across the front step, and no sweeping. It cuts from dusk to the man walking out.
 - **Faces.** The brief asked for none. The edge of his cheek shows for a few seconds on the threshold.
-
-## Where it stands
-
-It is fine as a Journal impression. It would need more polish before it could be attached to a chapter or an episode, and until then it is not linked from the chapter it comes from.
