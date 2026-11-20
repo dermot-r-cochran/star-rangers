@@ -112,6 +112,19 @@ left as they stand.
 ---
 
 
+## Aldera's collar in 2822 — raised 20 November 2026 with S01E00C02's new picture — OPEN, his to choose
+
+*Out of Range* (PR 2001) gives Aldera, in 2822, *an ordinary household locator tag on a pet collar*, giving fixes *since the spring*. The pictures of her in 2822 say otherwise: `images.md` § 55 rules **"No collar"** for S01E00C00 (*Below the Bells*, early autumn 2822, before she leaves), the Episode 0 hero's alt in `src/seasons/s01/e00/index.md` says *"with no collar"*, and S01E00C03 (*Carraig Bán*, the dawn after the quay) draws her with none. Against that, `characters/aldera/field-photo-02.jpg` already shows the kitten in a boat's bow *with a black collar*. The § 55 rule was written to keep the agency's collar out of 2822, before the chapter gave her a household one. The new C02 picture shows no cat, so it does not decide this.
+
+1. **Edit the frames to the chapter.** C00 and the Episode 0 hero gain a slim plain collar with a small tag (not the agency's grey collar of `aldera.jpg`), and the § 55 rule becomes *a household collar, never the agency's*. C03 is edited the same way, so she keeps it until the agency's replaces it.
+2. **As 1 for C00 and the hero, and she loses it before Carraig Bán.** C03 stays bare, with one line in the record (and, if wanted, in C03) that the collar came off between the quay and the rock; the field photo in the boat is then her last frame wearing it.
+3. **A line only, the frames left as they are**: she lost the collar after Carraig Bán. Every frame after that is consistent, but C00, the hero and C03 are all set before the loss and still show her bare, so this stands only with a reading that she was not wearing it in them, or with 1's edits as well.
+
+No option is recommended here: it decides what she wore, which is his.
+
+---
+
+
 ## Critic read of #1978 to #2002 — 20 November 2026, on Fable — all four points RULED the same day, each as recommended (*"Yes, as recommended"*), and applied
 
 A Benevolent Critic read of every pull request merged from #1978 to #2002 (#2001 was still open and is not in it). What was mechanical is mended in `critic/fixes-2026-11-20`: *Correctly Formed* (S00E02C03) is linked from Solano's page, the 2719 hearing's timeline entry and *Bound In Behind It*; the two films' withdrawal is dated 19 November, the day #1994 merged, in place of the 20th (the released 1.74.0 changelog line keeps its date, since released sections are not edited); and `set-readouts.py --track` now fails a take with a frame its fit could not track, where before it kept the last warp and could report *holds*. These four are his.
