@@ -5377,3 +5377,14 @@ The record is `species-design.md`, *The study round on A, and what it started*; 
 > 3. The walls: remove the faint brown streaks and stains. The walls are clean and kept.
 >
 > No text, no lettering, no numerals, no screens, no glow, no new objects. A documentary photograph, not a render.
+
+## 2026-11-20 — S00E02C03: Solano's chair (Opus, desktop)
+
+### chapters/s00e02c03.jpg — re-filed 20 November 2026
+- **Kind:** edit of the filed edit take (`C:/work/s00e02c03-takes/e1/v1.jpg`), two takes; take 2 filed. Record in `images.md` § 88.
+
+> Edit this photograph. Keep everything exactly as it is: the same hearing chamber, the same woman in the dark olive-grey tunic in the foreground with exactly the same face, hair, collar stars, cuff braid, pose and hand, the same blank leaves under her hand, the same seated officers beside her, the same seated people behind, the same woman in the dark jacket reading at the far table with the same pose, hair and leaf, the curved ledge, the table, the floor, the walls, the plain ceiling, the window onto Mars, the framing, focus, light and grain. Change only one thing.
+>
+> The chair the far woman sits on at the table, on the right: replace the one-piece curved cantilever chair with a plain upholstered seat of the same kind as the seats along the row in the foreground: a pale moulded shell seat with a low back and short arms, the same matte pale grey-beige as those seats, standing on a single low pedestal base. Same size and place as the old chair, her body and pose unchanged as she sits in it.
+>
+> No text, no lettering, no numerals, no screens, no glow, no new objects. A documentary photograph, not a render.
