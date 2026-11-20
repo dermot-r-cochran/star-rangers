@@ -4,6 +4,8 @@
 
 Four Fable readers, one per block of seasons (S00–S01, S02–S04, S05–S10, S11–S14), read all 125 chapters on `origin/main` at `a0668c67`, with the lore and character pages each chapter leans on. They only read. Each finding quotes both sides of the clash; Opus spot-checked about half against the text and every one checked held. Kept mysteries were left alone on purpose. Nothing under `src/` is changed by this note.
 
+**Overlap with #2021 (noted 20 November 2026, evening critic read).** This read was taken at `a0668c67`, before #2021 fixed the seams audit's slips, so check each row against the page before applying it. Already done by #2021: S0–1 #9; S5–10 #5 and #9; S11–14 #4 and #5; half of S0–1 #13 and of S11–14 #3. Superseded, since applying them would undo #2021: S0–1 #1's *"Three nights"* (the page now says *"Last night"*, right by C03's *"The morning after the grove"*) and S0–1 #14's *"two more"* (#2021 made the other side *"three colleagues"*). Left by #2021 with a reason: Kessler, Halvorsen's six and five, and S11E01C03's *"twice"*. S11–14 #2 still stands: the chapter logs shift 117 and the knocking began at 64.
+
 **Kinds:** *flaw* (wrong), *unsupported* (asserted without ground), *gap* (missing). **Repair** is the cheapest edit; "prose" means chapter text only, "fm" means front matter (timestamp, description, canon_fact, image_alt). Paths are under `src/seasons/` unless shown.
 
 ## Needs his choice

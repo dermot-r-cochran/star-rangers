@@ -111,6 +111,20 @@ left as they stand.
 
 ---
 
+## Critic read of #2004 to #2023 — 20 November 2026, on Fable — five points OPEN, his, each with a recommendation
+
+A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022 was open and is not in it). The three new seam scenes, *Out of Range*, #2021's fixes and the new pictures hold; the passages that land best include S06E01C01's *"It was owed if he was there. If he was not, it had cost her two words."* Mended in `critic/fixes-2026-11-20-evening`: *fourth family member to sit across* on Voss's and Okafor's pages (now *to reach* the desk, as #2021 made the chapter); S01E00C00's timeline entry moved to Mid-Autumn with the collared alt; the seams audit's tally (125 chapters, 117 seams); and a note at the head of `critic-read-2026-11-20-whole-story.md` marking the rows #2021 already did or superseded.
+
+1. ***The Dark-Down* no longer opens on a custom.** Muffin's door is now the first scene of S02E03C01, the chapter CLAUDE.md names as the model of an episode opening on a custom. (a) Keep the scene and reword the CLAUDE.md sentence to *whose Drithane scenes open on a custom* (recommended, one clause); (b) move the block to the end of S02E02C01; (c) drop the scene for the audit's one-clause gloss in C02.
+2. **Tobble scene: her checking comes before its reason.** S05E02C03 has her not yet wondering; S06E01C01's scene 1 already runs a full test (*"She had no baseline"*). (a) One sentence of hers saying she cannot say why she checks today (recommended); (b) leave it as instinct ahead of reasons. Also in the Voss scene, `s00e03c01.md:36` still says *"The fourth family member to sit across from him"*; recommended: *"to reach that desk"*, as the chapter and pages now say.
+3. **Elvira's ritual in the Archive's voice.** `src/lore/environmental-technology-design.md` places her ritual, a bronze jaguar and river stones on an orbital research station, which no chapter supports. (a) Re-attribute the section to the chronicle in one clause (recommended, the lore/codex boundary); (b) cut it and its `plain:` sentence; (c) leave it.
+4. **The three seam scenes are live while two notes say they wait for your read.** `intake-2026-11-20.md` and the seams note say *awaiting his read*; all three merged at 17:23–17:27. (a) You confirm, and both notes say *read and kept* (recommended); (b) they stay marked unread though live.
+5. **Aldera's collar.** The tags in `s01e00c00.jpg` and the S01E00 hero are about twice the size of C03's; scaling them by hand is settled as a desktop step. The S01E00C00 clip poster shows no collar. (a) Note under clip O that it predates the ruling and re-run it when next at Grok (recommended); (b) leave it.
+
+**Noted, not decisions.** Scene-POV addresses key on the scene ordinal, so a new first scene in a locked chapter would re-point its threads; give an inserted scene a stable id when a locked chapter first needs one. Elsha Rootkin's alt says *grey-brown* for a hide that reads pink-grey.
+
+---
+
 
 ## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — five choices OPEN, his; 53 single repairs waiting on his go-ahead
 
