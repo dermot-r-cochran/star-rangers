@@ -88,7 +88,11 @@ November 2026, most of them the 22 September audit's open worklist), and
 those are his to answer. The list is kept current by the tools: every
 `tag-provenance.js` run on a file under `src/` upserts its entry, and
 `import-image.ps1 -Provenance photograph` (or `none`) lists his own frame
-without tagging it. `scripts/check-provenance-list.js`, in `npm test`, fails
+without tagging it. Left to its default at `-Finish 0`, it leaves a file the
+list already holds under another source as it is, so a generated or edited
+picture re-filed unfinished is never listed as a photograph unless
+`-Provenance photograph` says so (21 November 2026, the critic read of #2047
+to #2053). `scripts/check-provenance-list.js`, in `npm test`, fails
 on a file without an entry, an entry without a file, a code that does not
 match its source and a new `unrecorded`, and warns on the eighteen. No
 image or clip was changed to build it; the one picture filed
