@@ -13,8 +13,8 @@ description: "The complete list of official Fian Ilchruinne deployments. If the 
 
 <h2>The full site and the general tier</h2>
 <ul>
-  <li><strong>fianilchruinne.com</strong> — the unbranded full edition, and the canonical address.</li>
-  <li><strong>sciencefiction.site</strong> — the general reading tier at its original address: the same storylines, with a narrower shelf of Lore, Glossary, Codex and Journal.</li>
+  <li><a href="https://fianilchruinne.com/"><strong>fianilchruinne.com</strong></a> — the unbranded full edition, and the canonical address.</li>
+  <li><a href="https://sciencefiction.site/"><strong>sciencefiction.site</strong></a> — the general reading tier at its original address: the same storylines, with a narrower shelf of Lore, Glossary, Codex and Journal.</li>
 </ul>
 
 <h2>Branded editions</h2>
@@ -26,12 +26,12 @@ description: "The complete list of official Fian Ilchruinne deployments. If the 
   <a href="/star-rangers/tiers/">Reading Tiers</a> page.
 </p>
 <ul>
-  <li><strong>starquest.site</strong> and <strong>starquest.online</strong> — StarQuest.</li>
-  <li><strong>fellowshipoflight.org</strong>, <strong>.site</strong>, <strong>.online</strong> and <strong>.space</strong> — Fellowship of Light.</li>
-  <li><strong>church-space.site</strong> and <strong>church-space.online</strong> — Church Space.</li>
-  <li><strong>undercover-pets.com</strong> — Undercover Pets.</li>
-  <li><strong>young.fianilchruinne.com</strong> — Young Star Rangers.</li>
-  <li><strong>told.fianilchruinne.com</strong> — The Told.</li>
+  <li><a href="https://starquest.site/"><strong>starquest.site</strong></a> and <strong>starquest.online</strong> — StarQuest.</li>
+  <li><a href="https://fellowshipoflight.org/"><strong>fellowshipoflight.org</strong></a>, <strong>.site</strong>, <strong>.online</strong> and <strong>.space</strong> — Fellowship of Light.</li>
+  <li><a href="https://church-space.site/"><strong>church-space.site</strong></a> and <strong>church-space.online</strong> — Church Space.</li>
+  <li><a href="https://undercover-pets.com/"><strong>undercover-pets.com</strong></a> — Undercover Pets.</li>
+  <li><a href="https://young.fianilchruinne.com/"><strong>young.fianilchruinne.com</strong></a> — Young Star Rangers.</li>
+  <li><a href="https://told.fianilchruinne.com/"><strong>told.fianilchruinne.com</strong></a> — The Told.</li>
 </ul>
 
 <h2>Alias addresses</h2>
