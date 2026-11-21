@@ -13745,7 +13745,7 @@ Dermot, 19 November 2026, verbatim: *"Yes, make it"*, for the chapter merged the
 
 **The six are filed and wired.** Each one is on its thread page and its thread's first season page (2, 4, 8, 9, 11, 13). No filed image changed. His pick stays open: the alternatives that passed are Undercover Pets take 1, Young Star Rangers take 3 and Orbital Five-O round-2 take 2. All the takes are kept in the session scratchpad, not in the repository.
 
-**Provenance, 21 November 2026** (*Provenance in the file*, Conventions). The two banners re-filed after the ruling: `hero/orbital-five-o.jpg` is tagged `generated` (`trainedAlgorithmicMedia`, Gemini via `image-edit.js`; the hand heals add nothing generated). `hero/church-space.jpg` is not tagged: it is his photograph, healed only by cloning from the same frame, which is not AI. The other four banners were filed before the ruling and are left as they are.
+**Provenance, 21 November 2026** (*Provenance in the file*, Conventions). The two banners re-filed after the ruling: `hero/orbital-five-o.jpg` is tagged `generated` (`trainedAlgorithmicMedia`, Gemini via `image-edit.js`), as re-filed by #2050, with the note *generated banner; worker's hand and ledge AI-edited 21 Nov 2026*: a generated frame stays `generated` when a generator edits it again. `hero/church-space.jpg` is not tagged: it is his photograph, healed only by cloning from the same frame, which is not AI. The other four banners were filed before the ruling and are left as they are.
 
 ### 92. Three Below the Roof frames that predate the long row (21 November 2026, Opus)
 
