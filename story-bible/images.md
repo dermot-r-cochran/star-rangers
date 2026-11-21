@@ -30,6 +30,18 @@ line there when something here becomes a decision rather than a task.
 | `image_alt` | must describe what the file *actually shows* |
 | Technical lore diagrams | **inline SVG in the page body**, drawn to the entry's own numbers (see below) |
 
+**His photographs may be altered without limit here** (Dermot, 21 November 2026,
+verbatim: *"There is no limit as to how much you may edit, manipulate or alter one
+of my original photographs when using it for star-rangers site of any repo except
+my main photography site."*). This widens the photo-first order below: a frame of
+his used in this repository may be edited, extended, composited into or
+regenerated in part, by hand or with `scripts/image-edit.js`, as far as the
+picture needs, and the cleanest method wins. The earlier practice of healing his
+plates only by cloning from the same frame is lifted. His photography site
+(dermotcochran.com) keeps its own rules, own work only and nothing generated, and
+an altered frame never returns to it or to a competition. Every edit is still
+recorded under the image's entry and judged by the image critic.
+
 **Finish: a generated photograph is finished toward Dermot's own** (Dermot,
 7 October 2026, verbatim: *"the base image generator has inherent limitations
 regardless of the prompt itself so post-processing is needed or some way to
@@ -13683,6 +13695,7 @@ Dermot, 19 November 2026, verbatim: *"Yes, make it"*, for the chapter merged the
 - **`hero/church-space.jpg`**: the Church Space thread page and the Season 8 page. His `F:\129DALKY\DSC_9797.JPG`, the same June morning: the church ruin on Dalkey Island seen from its seaward side, with both gables, the sea, the rock islets offshore and the far shore, and most of the frame grey sky. Route 1, 3:1 crop (rows 460 to 1996), 1600×533, no finish, `object-position: center 60%`. It is the building whose window is `lore/cnoc-na-mbeach.jpg` and whose wall is the S08E01C01 plate (`DSC_9733`), so the thread keeps one place and one look. The banner is that church, not the hive stand the plan named: the hive frame is the chapter's own, and the church carries the plan's *light rather than event* better at banner shape.
   - **Healed by hand:** three sailing boats, one buoy, a red mark on the far shore, and one sensor-dust spot.
   - **Passed and named:** the far shore is a present-day coastline, a grey line a few pixels high with nothing legible in it; the ruin's base is cut by the crop.
+  - **Healed, 21 November 2026** (Opus, at Dermot's *"Yes, as recommended"* to point 3 of the critic read of #2040 to #2045): the dark out-of-focus bird over the sea at the lower right (about x 1390–1410, y 470–492 of 1600×533). Method: a feathered patch cloned from the sea 36 px to its left in the same frame, row for row, so the swell lines run on; nothing generated. Re-saved at the original's quality (85), same size and crop; outside the patch only re-encoding noise differs. Image critic: passes at banner size and at 100%, with no seam or repeat visible.
 - **`hero/below-the-roof.jpg`**: the Below the Roof thread page and the Season 11 page. A crop of the filed `chapters/s14e01c01.jpg`, *Nobody Came* (rows 190 to 723 of 893). It shows the plan's subject exactly: the row of stones across the silt, the shelving rising behind, and one of the Told standing at the row with its head bent. The plan's route 1 or 2 failed, since none of his frames is a cavern and the thread's place has one filed look (*One place, one look*, Season 14 above). No new generation; `object-position: center 60%`. **Passed and named:** the banner repeats the chapter's picture.
 
 **The three generated banners** (Fable wrote the prompts and judged the takes; Opus reviewed them and filed). **Tool:** Gemini, `gemini-3.1-flash-image`, `scripts/image-edit.js`, 2K, 21:9, four takes a round, none refused. Each was finished at strength 1 and is shown at 1600 px wide. The prompts are in `image-prompts.md`.
@@ -13697,6 +13710,7 @@ Dermot, 19 November 2026, verbatim: *"Yes, make it"*, for the chapter merged the
   - **Round 1:** all four takes failed on period objects: a ceiling light panel, latched metal cases, a wheeled trolley with a handle, and grimy hulls. Two takes also had a figure who read as a teenager.
   - **Round 2:** an edit of round-1 take 4 that replaced the case and the trolley, made the walker plainly an adult, shrank the raven by a third and took out the panel. Take 1 filed, rows 180 to 1236, 1600×533, `object-position: center 35%`. Takes 3 and 4 failed: the raven was not shrunk, and in 4 the youth was unchanged.
   - **Passed and named:** the raven is still large for the hall, as the chapter frame's own record names; the leg band reads as a pale mark at both feet; the capsule under the man's arm can read as a helmet, and the carrier as a pouffe; only three of the nearer workers are visibly watching her; the hall is render-clean; each clamp carries a small lit indicator, as in the reference.
+  - **Healed, 21 November 2026** (Opus, at Dermot's *"Yes, as recommended"* to point 2 of the critic read of #2040 to #2045): (1) the very small grey figure standing in the tug channel behind the kneeling worker, which read as a child or a toy (about x 664–696, y 326–385); (2) the present-day metal fitting at the channel's edge under her hand, with its red rag (about x 616–650, y 435–507). Method, by hand from the same frame, no generation: the figure filled by interpolating along the channel's rails (direction 100:−44), so the rails and the wall line run through unbroken; the fitting replaced by a feathered clone of the ledge and channel wall 30 px to its left along the ledge's slope, and the rag's place blended between the healed ledge and the ledge's pale end. Re-saved at the original's quality (85), same size and crop; nothing outside the two areas changed beyond re-encoding noise. Image critic: passes at thumbnail and at 100%. **Passed and named:** her right hand now rests empty at the ledge's rounded end; the healed channel is a little smoother than the rendered texture round it, seen only at four times size.
 
 **The six are filed and wired.** Each one is on its thread page and its thread's first season page (2, 4, 8, 9, 11, 13). No filed image changed. His pick stays open: the alternatives that passed are Undercover Pets take 1, Young Star Rangers take 3 and Orbital Five-O round-2 take 2. All the takes are kept in the session scratchpad, not in the repository.
 
