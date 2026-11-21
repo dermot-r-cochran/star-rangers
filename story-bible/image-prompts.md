@@ -5635,3 +5635,15 @@ Round 2, sent with round 1's take 4 as the frame to edit:
 > 5. The ceiling at the top right corner: remove the bright light panel, so the pale ribs simply continue across the top of the frame. The hall stays as brightly and evenly lit as it is.
 >
 > Nothing else changes. No lettering and no numbers anywhere. Nothing glows. Still a photograph taken on a real camera, with the same grain and the same real soft shadows under every person and object.
+
+## 2026-11-21 — S00E02C01: Voss's face and expression (Opus, desktop)
+
+Record in `images.md`, S00E02C01. Sent with the filed `src/images/chapters/s00e02c01.jpg` as the frame to edit and `src/images/characters/rutger-voss.jpg` as the face reference; take 3 filed, head only.
+
+> Edit this photograph. Keep everything exactly as it is: the same room, walls, window and Martian view, the same desk and shut book, the same empty chair, the same woman in the long grey coat seen from behind in the same place and pose, the same camera position, framing, light, colour and grain, and the same young officer in the same place, the same standing pose, the same olive-grey high-collared tunic and the same build. Change only his face and his expression.
+>
+> His face: make it the same man as the second reference image, keeping that face exactly: close-cropped red hair, a light dusting of freckles across his nose and cheeks, a broad, solid face with a firm jaw, a man of about twenty-five, plainly grown, not a teenager.
+>
+> His expression: level, open and attentive. He is looking at the woman across the desk and listening to her. His brows are relaxed and even, not lowered; his mouth is relaxed and closed, neither smiling nor turned down; his eyes are steady and a little sorry. He looks like someone who has just stood up out of courtesy and is about to tell her an honest, unwelcome truth plainly, not like someone defending himself.
+>
+> Nothing else changes. No lettering and no numbers anywhere. Still a photograph taken on a real camera, with the same grain and the same real soft shadows.
