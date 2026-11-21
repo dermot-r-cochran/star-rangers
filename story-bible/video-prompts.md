@@ -291,7 +291,11 @@ desktop step (`CLAUDE.md`, *Work that needs the desktop*); writing the prompt
 into this file is not. The session that drives it runs on Opus, because
 generating submits from his account (`CLAUDE.md`, *Which model does which
 work*). Download each kept clip with its prompt, and record both here before it
-is filed.
+is filed. When filing, tag the clip and its poster as the last step,
+`node scripts/tag-provenance.js src/video/<id>.mp4 src/video/<id>-poster.jpg
+--source generated --tool "Grok Imagine"` (from 21 November 2026; a clip
+composited in post from generated takes is still `generated`; `images.md`,
+*Provenance in the file*).
 
 **Connection details are not kept here** (Dermot, 1 November 2026, verbatim:
 *"Some connection details should only be kept locally on the desktop or

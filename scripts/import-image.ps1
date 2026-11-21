@@ -27,13 +27,24 @@
 # Dermot's own plates, which are photographs already and are never finished.
 # If python/numpy/pillow are missing the GDI+ path runs with a warning, so the
 # tool never blocks on them. Why: story-bible/images.md, "Finish".
+#
+# PROVENANCE (since 2026-11-21). The written file is tagged last with an XMP
+# DigitalSourceType by scripts/tag-provenance.js, because both write paths
+# (Pillow in photo-finish.py, GDI+ below) re-encode and drop any metadata the
+# source carried. -Provenance generated|composite-ai|edited-ai|composite|card|
+# none; the default is generated when -Finish > 0 and none at -Finish 0 (his
+# own plates, cards), with a reminder to pass the right value for a card or an
+# edited plate. A take from image-edit.js that altered his frame is edited-ai,
+# not the default. Why: story-bible/images.md, "Provenance in the file".
 
 param(
   [Parameter(Mandatory = $true)][string]$In,
   [Parameter(Mandatory = $true)][string]$Out,
   [int]$MaxEdge = 0,          # 0 = leave dimensions alone
   [int]$Quality = 85,
-  [int]$Finish = 1            # 0 = none (cards, plates), 1 = measured match (default), 2 = imperfect camera
+  [int]$Finish = 1,           # 0 = none (cards, plates), 1 = measured match (default), 2 = imperfect camera
+  [ValidateSet('', 'generated', 'composite-ai', 'edited-ai', 'composite', 'card', 'none')]
+  [string]$Provenance = ''    # '' = generated when -Finish > 0, none at -Finish 0
 )
 
 Add-Type -AssemblyName System.Drawing
@@ -43,6 +54,27 @@ if (-not (Test-Path $In)) { throw "Source not found: $In" }
 if ($Finish -gt 0 -and $Out -match '[\\/]codex[\\/]') {
   Write-Output "codex/ target: a designed card, not a photograph - finish skipped."
   $Finish = 0
+}
+
+if (-not $Provenance) {
+  if ($Finish -gt 0) { $Provenance = 'generated' }
+  else {
+    $Provenance = 'none'
+    Write-Output "Provenance: none (his own plate). For a card pass -Provenance card; for a plate altered by a generative tool, -Provenance edited-ai; by hand from other frames, -Provenance composite."
+  }
+}
+
+# Tags the written file last; a failure warns and never fails the import.
+function Set-Provenance([string]$File) {
+  if ($Provenance -eq 'none') { return }
+  $node = Get-Command node -ErrorAction SilentlyContinue
+  $tagScript = Join-Path $PSScriptRoot "tag-provenance.js"
+  if (-not $node -or -not (Test-Path $tagScript)) {
+    Write-Warning "node or scripts/tag-provenance.js not found; not tagged. Run: node scripts/tag-provenance.js $File --source $Provenance"
+    return
+  }
+  & $node.Source $tagScript $File --source $Provenance
+  if ($LASTEXITCODE -ne 0) { Write-Warning "tag-provenance.js failed (exit $LASTEXITCODE); the file is written but not tagged." }
 }
 
 if ($Finish -gt 0) {
@@ -58,6 +90,7 @@ if ($Finish -gt 0) {
     if (-not (Test-Path $outDir)) { throw "Output directory does not exist: $outDir" }
     & $py.Source $finishScript (Resolve-Path $In).Path $outFull --max-edge $MaxEdge --strength $Finish --quality $Quality
     if ($LASTEXITCODE -eq 0) {
+      Set-Provenance $outFull
       Write-Output "Remember: update the entry's image / image_alt front matter, then run npm test."
       exit 0
     }
@@ -105,6 +138,7 @@ else {
   $g.Dispose(); $bmp.Dispose()
 }
 $src.Dispose()
+Set-Provenance $outFull
 
 Write-Output ("{0}: {1}x{2} -> {3}x{4}, {5} KB" -f (Split-Path $outFull -Leaf), $srcW, $srcH, $w, $h, [int]((Get-Item $outFull).Length / 1KB))
 Write-Output "Remember: update the entry's image / image_alt front matter, then run npm test."

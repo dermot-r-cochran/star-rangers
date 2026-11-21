@@ -20,6 +20,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Added
 
+- **Provenance in the file: generated and altered images and clips are tagged** (`scripts/tag-provenance.js`, `scripts/import-image.ps1`, `scripts/image-edit.js`, `test/tag-provenance.test.js`, `story-bible/images.md`, `story-bible/video-prompts.md`, CLAUDE.md, 2026-11-21, Opus, at Dermot's *"If metadata allows then all altered or generated images may be tagged as such, from now on."* and *"Likewise for videos"*). A new tool writes an XMP packet with IPTC's `DigitalSourceType` into a JPEG, PNG or MP4 without re-encoding (an MP4's box goes after `mdat`, so no offset moves); `import-image.ps1 -Provenance` tags what it writes (`generated` by default when finished, none at `-Finish 0`) and `image-edit.js` tags its takes `edited-ai`. The Orbital Five-O banner is tagged `generated`; the Church Space banner, his photograph with same-frame heals, is not. From that day only, no retro pass.
+
 - **A banner for every thread** (2026-11-21, Opus with Fable prompts, `story-bible/images.md` § 91). The six thread pages without one now carry a banner, shared with each thread's first season page (Seasons 2, 4, 8, 9, 11 and 13): Five Islands and Church Space from his own Dalkey Island frames, Below the Roof a crop of S14E01C01's picture, and Undercover Pets, Young Star Rangers and Orbital Five-O generated.
 
 ### Fixed

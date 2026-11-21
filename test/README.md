@@ -12,6 +12,7 @@
 | `editions.test.js` | The `readingPlan` contract against each edition's own filter |
 | `markdown-containers.test.js` | The scene/POV fence-length rule a dependency bump could silently break |
 | `image-size.test.js`, `placeholder-marker.test.js` | The two header parsers' null-rather-than-guess contracts |
+| `tag-provenance.test.js` | The provenance tag: the DigitalSourceType written is read back, and the picture or media bytes are unchanged (JPEG, PNG, MP4) |
 | `status-key.test.js` | The status badge's class key |
 | `archive-backlinks.test.js` | The three reasons a page is listed under a chapter's "In the Archive", prefix-agnostic matching, and the section-then-title order |
 | `character-status.test.js` | The five-value character `status` vocabulary and its head-clause match |
