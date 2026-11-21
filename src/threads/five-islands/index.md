@@ -16,7 +16,7 @@ permalink: /threads/five-islands/
   The <a href="/star-rangers/lore/planets/kingdom-of-the-five-islands/">Kingdom of the Five Islands</a> keeps three records of itself. The court's chronicle of descent and deed is recited under a tree and cross-checked at every coronation. The Abbey's Long Accounting is written in a hand that has never changed, since a date nobody outside the order can confirm. And the Castle's people are written in light. This thread follows a young keeper of each of the first two learning to hold one, while the <a href="/star-rangers/characters/emma-la-chapelle/">survey's own young officer</a> works the same shelf, writes down each answer as given, and never says which record is right.
 </p>
 <p class="page-intro">
-  The record's first epic-fantasy thread, written for the young-adult reader: a reading, never a mechanism. A castle no generation has finished and a library that does not age are what the Kingdom's records say; what the instruments say is filed where instruments are quoted and nowhere else. It stands alone; readers of the Kingdom's page will know the Abbess, and may know the terraces.
+  The record's first epic-fantasy thread, written for the young-adult reader: a reading, never a mechanism. Nothing in the Kingdom is magic: its people live their history as epic fantasy, and the world underneath runs on the same physics as the rest of the story. A castle no generation has finished and a library that does not age are what the Kingdom's records say; what the instruments say is filed where instruments are quoted and nowhere else. It stands alone; readers of the Kingdom's page will know the Abbess, and may know the terraces.
 </p>
 
 {% set threadId = "five-islands" %}
