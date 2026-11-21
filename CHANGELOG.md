@@ -8,6 +8,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Fixed
 
+- **Critic read of #2025 to #2038: four small fixes** (2026-11-21, read on Fable, applied on Opus). S12E01C01 now shows the up-people's row of knock stones beside the two stones, as ruled on 20 November; Kattik's page dates the crew's line *that shift*, as the chapters do; Pelagos Minor says *policy-tragedy*, as S01E03C04 does; *lately* is struck from S12E01C06. Three points are put to Dermot in `story-bible/open-questions.md`.
+
 - **The Peoples and Bodies extractor checks the two re-made portraits** (`scripts/extract-peoples.js`, 2026-11-20, Opus). The 1.75.0 artefact run stopped because Elsha Rootkin's and Oshek Var's portraits, re-made the same day, had no check in the rule table. Each now has an *agrees* line with a quote from its page's alt, as Isren Farrowkin's did on 19 November. No data was edited.
 
 ## [1.75.0] — 2026-11-20

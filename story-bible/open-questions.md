@@ -111,6 +111,18 @@ left as they stand.
 
 ---
 
+## Critic read of #2025 to #2038 — 21 November 2026, on Fable — three points OPEN, each with a recommendation
+
+A Benevolent Critic read of every pull request merged from #2025 to #2038. The 44 single repairs of #2026 hold, and the arithmetic re-derived (Below the Roof's shifts, S02E08–E09's nights, S04E02's quarters, S01E01C03's groups, the S01E03 days, Voss's and Wender's dates) agrees. The ruled points are applied as ruled. Passages that land best include S12E01C06's *"a stone moved for you is not yours to move"*. Mended in `critic/read-2025-2038`: S12E01C01 now has the row of knock stones beside the two stones (canon_fact and scene 5, #2027's own wording); Kattik's page dates the line *that shift*; Pelagos Minor's *policy-triage* is *policy-tragedy*; *lately* struck from S12E01C06.
+
+1. **The lore page credits the chronicle with more than it shows.** `src/lore/environmental-technology-design.md` says the room holds *"both the fabricated and the ancient"*, but the chronicle's Scene Three shows only tatami, lanterns, lacquer, candles, a hand mirror and a circle of river stones. (a) Leave it as ruled; (b) keep the credit and bring the two sentences down to what the telling shows, restoring the river stones (recommended, about three sentences on Opus); (c) cut the section and its `plain:` sentence. Also: #2025's note that no Codex entry holds the river stones is wrong; the chronicle does.
+2. **Three filed frames show the line without the row.** S12E01C02, S14E01C03 and S14E01C04 show two to four stones where the text now has fifty to a hundred and fifty. (a) Leave the frames, with one line in `images.md` that they predate the 20 November ruling (recommended); (b) edit the row into S12E01C02 and S14E01C03, alts to follow.
+3. **Sorcha Shepherd's page keeps *eleven hours from anywhere*.** #2026 took the phrase out of S05E02C03; the eleven hours are Wender's distance, not anything the clan was told. (a) Strike the clause: *Lost in between, with no wreck* (recommended); (b) leave it as the clan's own bad arithmetic.
+
+**Noted, not decisions.** The whole-story read's heading says 53 repairs applied; the count is 44 applied, 7 already fixed, 2 left (S03E01C04's classifier, S02E01C02's screen glow). S10E01C06's *"Re-baseline finding noted"* reads as the Starwarden's word and stays.
+
+---
+
 ## Season 1 Episode 0 reads as three stories — put to Dermot 20 November 2026 (Opus), from his *"Season 1 Episode 0 reads as three apparently unrelated short stories"* — Decision 1 RULED 20 November 2026: the stories are introductions by design (*"several unrelated stories to introduce various characters"*, then *"Option (a) is fine"*), so only the episode index says so, after the Founding Era of Season 0 (*"So Season 0 is the Founding Era and Season 1 introduces some of the characters"*); framing sentence approved (*"Approved"*) and merged in #2033. No joining scene, no chapter prose changed; options 2 and 3 not taken. Decision 2 still OPEN
 
 Full read in `intake-2026-11-20-s01e00-one-story.md`. The three: Dún Rí (C00–C03), the wreck (C04), readings at the edge (C05–C13). The join is the theme of all fourteen endings, what a record keeps and leaves out, plus the forward links to Season 1. The index names only time.
