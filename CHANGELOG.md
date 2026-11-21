@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **The Codex recordings' tool recorded: MyTunes** (`src/_data/provenance.json`, `story-bible/music-prompts.md`, `story-bible/video-prompts.md`, `story-bible/open-questions.md`, 2026-11-21, Opus, Dermot's *"They were made using MyTunes app for Android phones"*). The Codex's MyTunes-made audio and videos had their tool recorded as unknown. *Ballad of the Stars* and *Paper Galaxies* now name the MyTunes Android app, as do *Baby Universe* and the two Slipwave videocasts in the provenance list. *Baby Universe* moves from unrecorded to generated. Prompts, dates and seeds stay unrecorded and are not reconstructed.
+- **The Codex recordings' tool recorded: MyTunes** (`src/_data/provenance.json`, `story-bible/music-prompts.md`, `story-bible/video-prompts.md`, `story-bible/open-questions.md`, 2026-11-21, Opus, Dermot's *"They were made using MyTunes app for Android phones"*). The Codex's MyTunes-made audio and videos had their tool recorded as unknown. *Ballad of the Stars*, *Paper Galaxies* and *Baby Universe* now name the MyTunes Android app, and *Baby Universe* moves from unrecorded to generated. The two Slipwave videocasts, moving footage rather than MyTunes' single cover image, name Grok as the probable maker of their pictures, at his correction the same evening. Prompts, dates and seeds stay unrecorded and are not reconstructed.
 
 ### Added
 

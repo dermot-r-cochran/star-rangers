@@ -58,8 +58,12 @@ holds the Ballad and `paper-galaxies.m4a`, both on their own Codex pages.
 **The Codex recordings were made in MyTunes** (Dermot, 21 November 2026,
 verbatim: *"They were made using MyTunes app for Android phones"*, of the
 MyTunes-generated audio in the Codex). That settles the tool for
-`ballad-of-the-stars.m4a` and `paper-galaxies.m4a`, and for the three Codex
-videos (`baby-universe.mp4` and the two Slipwave videocasts; `video-prompts.md`).
+`ballad-of-the-stars.m4a` and `paper-galaxies.m4a`, and for `baby-universe.mp4`,
+which is MyTunes' usual output: an mp4 holding a single cover image over the
+audio. The two Slipwave videocasts are moving footage, and their pictures were
+probably made in Grok (his correction the same evening: *"The video casts were
+probably from Grok. MyTunes tends to produce an MP4 with a single cover image."*;
+`video-prompts.md`).
 The prompts, dates and seeds are still unrecorded, and are not reconstructed. If
 the app's history still holds a prompt, pasting it in closes that entry.
 
