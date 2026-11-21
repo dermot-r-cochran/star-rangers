@@ -12,7 +12,7 @@ permalink: /seasons/s11/
   </ol>
 </nav>
 
-<img class="page-hero-image" src="/star-rangers/images/hero/below-the-roof.jpg" style="object-position: center 60%" alt="In a pale cavern passage one of the Told, heavy and shaggy grey, stands seen from behind with its head bent, beside a row of small stones laid across the silt floor; behind it a slope of broken pale rock rises into blue-green light, and an amber glow shows at the far left." />
+<img class="page-hero-image" src="/star-rangers/images/hero/below-the-roof.jpg" style="object-position: center 60%" alt="In a pale cavern passage one of the Told, a Pandoid, heavy and shaggy grey, stands seen from behind with its head bent, beside a row of small stones laid across the silt floor; behind it a slope of broken pale rock rises into blue-green light, and an amber glow shows at the far left." />
 <h1 class="page-title">Season 11</h1>
 <p class="page-intro">
   Below the roof. Season 11 is the first season of the Below the Roof thread: the Pandoids of <a href="/star-rangers/lore/planets/fliade/">Fliade</a> on their own ground, in the warm deep beneath a frozen surface, met from inside for the first time and written for the child reader.

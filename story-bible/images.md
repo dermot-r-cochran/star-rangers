@@ -13642,7 +13642,7 @@ Dermot, 19 November 2026, verbatim: *"Yes, make it"*, for the chapter merged the
 - **Takes 1 and 3:** whole figure small at the left of a long window; she reads, but too small for the band. **Take 4:** a full-height mullion splits the sea.
 - **Critic's ladder on take 2.** Thumbnail: a woman at a window over the sea; nothing reads as an animal or a stray face. The face holds against the header (shape, nose, jaw, freckles, eyes), and the tab shows three concentric rings beside the diamond. Century: the deep, frameless, round-cornered sealed pane and the bare composite room. **Passed and named:** the room is the frame's only hint of the century, and it could pass for a present-day ferry lounge; her face is a little smoother and younger than the header's; a glass edge stands behind her head; the finish could not bring the grain down (11.0 against the profile's 7.5) or the mids (175 against 109), since the frame is a bright overcast seascape.
 
-### 91. Thread banners — the six threads without one (planned 21 November 2026, Opus; nothing generated)
+### 91. Thread banners — the six threads without one (planned and made 21 November 2026, Opus; three generated)
 
 **Why.** Dermot, 21 November 2026, asked *"Does each thread need an image?"* of the Five Islands page. The recommendation put to him was one banner per thread, shared with that thread's first season page, as Founding Era (`season-00-foundation.jpg`) and Tissadelle Arc (`tissadelle-arc.jpg`, § 90) already have. He answered, verbatim, *"Yes, plan six"*. Six of the eight thread pages have no banner, and neither do their seasons (2, 4, 8, 9, 10, 11, 12, 13, 14), so six frames cover six thread pages and six first-season pages.
 
