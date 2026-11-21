@@ -50,6 +50,10 @@
 // uses it for -Provenance photograph and none. --record "..." sets the
 // entry's pointer to its record; --no-list skips the list. Checked by
 // scripts/check-provenance-list.js in npm test.
+// --keep-listed (with --source photograph) leaves a file the list already
+// holds under another source as it is. import-image.ps1 passes it when
+// -Provenance was not given at -Finish 0, so re-filing a generated or edited
+// picture unfinished never turns its entry into a photograph by default.
 
 'use strict';
 
@@ -404,6 +408,13 @@ function recordInList(file, fields, listPath = LIST_PATH) {
   return e;
 }
 
+// The entry the list holds for a file, or null.
+function listedEntry(file, listPath = LIST_PATH) {
+  const rel = listPathFor(file, path.resolve(path.dirname(listPath), '..', '..'));
+  if (!rel || !fs.existsSync(listPath)) return null;
+  return readList(listPath).entries.find((x) => x.path === rel) || null;
+}
+
 function parseArgs(argv) {
   const o = { files: [], rights: true, list: true };
   for (let i = 0; i < argv.length; i++) {
@@ -416,6 +427,7 @@ function parseArgs(argv) {
     else if (a === '--read') o.read = true;
     else if (a === '--no-rights') o.rights = false;
     else if (a === '--no-list') o.list = false;
+    else if (a === '--keep-listed') o.keepListed = true;
     else if (a === '--help' || a === '-h') o.help = true;
     else o.files.push(a);
   }
@@ -425,7 +437,7 @@ function parseArgs(argv) {
 function main(argv) {
   const o = parseArgs(argv);
   const usage = 'usage: node scripts/tag-provenance.js <file...> --source generated|composite-ai|edited-ai|composite|card [--note "..."] [--tool "..."] [--record "..."] [--no-rights] [--no-list]\n'
-    + '       node scripts/tag-provenance.js <file...> --source photograph [--note "..."] [--record "..."]   (list only, no XMP)\n'
+    + '       node scripts/tag-provenance.js <file...> --source photograph [--note "..."] [--record "..."] [--keep-listed]   (list only, no XMP)\n'
     + '       node scripts/tag-provenance.js <file...> --read';
   const listOnly = o.source === 'photograph';
   const listPath = o.listPath || LIST_PATH;
@@ -446,6 +458,12 @@ function main(argv) {
         continue;
       }
       if (listOnly) {
+        const held = o.list && o.keepListed ? listedEntry(file, listPath) : null;
+        if (held && held.source !== 'photograph') {
+          console.log(`${file}: already listed as ${held.source}; entry kept, not changed to photograph. `
+            + 'If this file is now his own frame, run again with --source photograph; if it was altered or generated, tag it with its own --source.');
+          continue;
+        }
         const e = o.list && recordInList(file, { source: 'photograph', tool: o.tool, note: o.note, record: o.record, tagged: false }, listPath);
         console.log(`${file}: photograph, no tag written${e ? '; listed in the provenance list' : ''}`);
         continue;
@@ -467,7 +485,7 @@ function main(argv) {
 
 module.exports = {
   CODES, CODE_BASE, buildXmp, tagBuffer, readXmp, summarise, kindOf, jpegSegments, mp4Boxes, rightsApply,
-  LIST_PATH, LIST_SOURCES, LISTED_EXT, listPathFor, readList, serialiseList, writeList, upsertEntry, recordInList,
+  LIST_PATH, LIST_SOURCES, LISTED_EXT, listPathFor, readList, serialiseList, writeList, upsertEntry, recordInList, listedEntry,
 };
 
 if (require.main === module) process.exitCode = main(process.argv.slice(2));

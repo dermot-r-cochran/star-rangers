@@ -40,6 +40,10 @@
 # (src/_data/provenance.json): a tag upserts its entry, and -Provenance
 # photograph (or none, the same thing) lists his own frame as a photograph
 # without writing any XMP. Why: images.md, "The provenance list".
+# When -Provenance is not given at -Finish 0, a file the list already holds
+# under another source keeps its entry (tag-provenance.js --keep-listed), so
+# re-filing a generated or edited picture unfinished never turns it into a
+# photograph by default; say -Provenance photograph to change it.
 
 param(
   [Parameter(Mandatory = $true)][string]$In,
@@ -60,11 +64,13 @@ if ($Finish -gt 0 -and $Out -match '[\\/]codex[\\/]') {
   $Finish = 0
 }
 
+$ProvenanceDefaulted = $false
 if (-not $Provenance) {
   if ($Finish -gt 0) { $Provenance = 'generated' }
   else {
     $Provenance = 'none'
-    Write-Output "Provenance: none (his own plate; listed as a photograph, no tag). For a card pass -Provenance card; for a plate altered by a generative tool, -Provenance edited-ai; by hand from other frames, -Provenance composite."
+    $ProvenanceDefaulted = $true
+    Write-Output "Provenance: none (his own plate; listed as a photograph, no tag, unless the list already holds this file under another source). For a card pass -Provenance card; for a plate altered by a generative tool, -Provenance edited-ai; by hand from other frames, -Provenance composite; for a generated picture filed unfinished, -Provenance generated."
   }
 }
 if ($Provenance -eq 'none') { $Provenance = 'photograph' }
@@ -78,7 +84,9 @@ function Set-Provenance([string]$File) {
     Write-Warning "node or scripts/tag-provenance.js not found; not tagged. Run: node scripts/tag-provenance.js $File --source $Provenance"
     return
   }
-  & $node.Source $tagScript $File --source $Provenance
+  $tagArgs = @($tagScript, $File, '--source', $Provenance)
+  if ($ProvenanceDefaulted) { $tagArgs += '--keep-listed' }
+  & $node.Source @tagArgs
   if ($LASTEXITCODE -ne 0) { Write-Warning "tag-provenance.js failed (exit $LASTEXITCODE); the file is written but not tagged." }
 }
 

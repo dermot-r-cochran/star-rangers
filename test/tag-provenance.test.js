@@ -211,6 +211,29 @@ test("list: --source photograph records the entry and writes no XMP", () => {
   fs.rmSync(repo, { recursive: true, force: true });
 });
 
+test("list: --keep-listed never turns a listed generated file into a photograph", () => {
+  const listed = { path: "src/images/lore/x.jpg", source: "generated", iptc: "trainedAlgorithmicMedia", tool: "Gemini", record: "images.md § 1", tagged: false };
+  const { repo, listPath, file } = tempRepo([listed]);
+  // The default at -Finish 0 (import-image.ps1 with no -Provenance): the entry is kept.
+  execFileSync(process.execPath, [SCRIPT, file, "--source", "photograph", "--keep-listed", "--list", listPath]);
+  assert.deepEqual(tp.readList(listPath).entries, [listed]);
+  // Asked for by name, the same file is re-listed as his photograph.
+  execFileSync(process.execPath, [SCRIPT, file, "--source", "photograph", "--list", listPath]);
+  const [e] = tp.readList(listPath).entries;
+  assert.equal(e.source, "photograph");
+  assert.equal(e.iptc, "digitalCapture");
+  fs.rmSync(repo, { recursive: true, force: true });
+});
+
+test("list: --keep-listed still lists a file the list does not hold", () => {
+  const { repo, listPath, file } = tempRepo();
+  execFileSync(process.execPath, [SCRIPT, file, "--source", "photograph", "--keep-listed", "--list", listPath]);
+  const [e] = tp.readList(listPath).entries;
+  assert.equal(e.source, "photograph");
+  assert.equal(e.tagged, false);
+  fs.rmSync(repo, { recursive: true, force: true });
+});
+
 test("list: a file outside src/images and src/video is never listed", () => {
   const { repo, listPath } = tempRepo();
   const out = path.join(repo, "take.jpg");
