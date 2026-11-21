@@ -11,6 +11,7 @@ permalink: /threads/young-star-rangers/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/young-star-rangers.jpg" style="object-position: center 30%" alt="In a pale, curving corridor a young man in a linen shirt crouches beside a potted plant and a watering can, looking up at a Deputy in grey-brown service dress who stands at a closed hatch with one hand at its handle, looking down at him." />
 <h1 class="page-title">Young Star Rangers</h1>
 <p class="page-intro">
   Every Star Ranger in the record was a <a href="/star-rangers/lore/star-rangers-command-hierarchy/">Deputy</a> once: the first rank that carries a field posting, served under a Field Officer's supervision, where the qualities that will matter most later are not yet rewarded in proportion. This thread follows that year — the first watch, the first corridor, the first time the rank has to mean what civilians think it means — beside <a href="/star-rangers/characters/zoe-smith/">the officer</a> the Corps quietly hands its rawest Deputies to first.

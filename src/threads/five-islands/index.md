@@ -11,6 +11,7 @@ permalink: /threads/five-islands/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/five-islands.jpg" style="object-position: center 45%" alt="Two low rocky islands with a skin of green on their backs lie across a wide grey sea under a pale, broken sky, the light silvering the water to the right, with nothing built in sight." />
 <h1 class="page-title">The Infinite Castle and the Timeless Library</h1>
 <p class="page-intro">
   The <a href="/star-rangers/lore/planets/kingdom-of-the-five-islands/">Kingdom of the Five Islands</a> keeps three records of itself. The court's chronicle of descent and deed is recited under a tree and cross-checked at every coronation. The Abbey's Long Accounting is written in a hand that has never changed, since a date nobody outside the order can confirm. And the Castle's people are written in light. This thread follows a young keeper of each of the first two learning to hold one, while the <a href="/star-rangers/characters/emma-la-chapelle/">survey's own young officer</a> works the same shelf, writes down each answer as given, and never says which record is right.

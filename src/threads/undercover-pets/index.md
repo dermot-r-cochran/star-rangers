@@ -11,6 +11,7 @@ permalink: /threads/undercover-pets/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/undercover-pets.jpg" style="object-position: center 40%" alt="A sleek black cat with amber eyes and a plain round tag on a dark collar lies along the top of a tall cream cabinet in a small rounded office, looking down at a desk where one thin grey leaf lies; through the wide window, farm terraces and small pale houses curve up into haze." />
 <h1 class="page-title">Undercover Pets</h1>
 <p class="page-intro">
   The Undercover Pets Detective Agency puts <a href="/star-rangers/glossary/smart-pet/">Smart Pets</a> where nobody looks twice: a cat asleep on a desk, a rabbit in a corner. People leave a mascot alone with the paperwork. At Eden Space Habitat, the paperwork is where the secrets are. Agent <a href="/star-rangers/characters/agent-barsik/">Barsik</a> has usually read it first. <a href="/star-rangers/characters/bubochka/">Bubochka</a>, the trainee, is learning that a missing form can say as much as a filled-in one.

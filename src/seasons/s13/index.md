@@ -12,6 +12,7 @@ permalink: /seasons/s13/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/five-islands.jpg" style="object-position: center 45%" alt="Two low rocky islands with a skin of green on their backs lie across a wide grey sea under a pale, broken sky, the light silvering the water to the right, with nothing built in sight." />
 <h1 class="page-title">Season 13</h1>
 <p class="page-intro">
   The Kingdom of the Five Islands, from inside its own records. Season 13 is the first season of the Infinite Castle and the Timeless Library thread: a castle no generation has finished, kept by the court's spoken chronicle, and a library that does not age, kept by the <a href="/star-rangers/lore/planets/kingdom-of-the-five-islands/">Tideward Sisterhood</a> in a hand that has never changed. Written for the young-adult reader, as a reading and never a mechanism.

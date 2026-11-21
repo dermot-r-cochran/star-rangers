@@ -5566,3 +5566,72 @@ The record is `images.md` § 42, *Re-opened 20 November 2026, on the apron body*
 > The tower is plain and kept: clean limewash, sound pointing, no damage. Photographed, not rendered: rough stone, wet shingle, high-ISO grain in the dark sky, slight softness toward the corners, a touch under-exposed, muted natural colour, the same late-dusk light as the original.
 > 
 > No people, no boats, no birds, no searchlight beam, no lens flare, no text, letters, numbers, signage or plaques, no modern fittings, no cables, no antennas. Output the whole frame, 16:9.
+
+
+## 2026-11-21 — Thread banners: Undercover Pets, Young Star Rangers, Orbital Five-O (Fable prompts, Opus filed, desktop)
+
+Record in `images.md` § 91. Gemini `gemini-3.1-flash-image`, `scripts/image-edit.js`, 2K, 21:9, four takes a round.
+
+### `hero/undercover-pets.jpg` — take 3 of one round
+
+References: `src/images/characters/agent-barsik.jpg` `src/images/chapters/s02e01c01.jpg`
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, wide 21:9 landscape, taken from the height of the top of a tall record store, level with a cat's eyes, deep focus, candid, never posed; the cat does not look at the camera.
+>
+> The place is a small office of the Detective Bureau on Eden Space Habitat, a great rotating habitat, on a bright late-autumn morning in the year 2826 UCSD, eight centuries from now. It is the same room as the second reference image: warm cream matte composite walls that meet floor and ceiling in rounded coves, a pale wooden desk with rounded edges, a wide sealed window with softly rounded corners, and through it the habitat's farm terraces and small pale houses curving gently upward into haze, as in both reference images.
+>
+> In the left third of the frame, close to the camera and at its own eye level, a black cat lies settled along the flat top of a tall cream record store, a plain seamless cabinet with rounded edges and no handles. He is exactly the same cat as the first reference image: a sleek black short-haired cat with amber eyes, a dark collar and one plain blank round tag. He is seen from the side and a little in front, so one amber eye, the line of his nose, his whiskers and one forward-tipped ear show clearly. His forepaws are tucked at the cabinet's front edge, his chin is lowered past them, and he looks steadily down and across at the desk below: still, patient, entirely attentive, a cat reading slowly. His tail lies along the cabinet top behind him.
+>
+> In the right two-thirds of the frame, below him and further off, the desk stands in the window's daylight. On it lies one single thing: a thin rigid leaf of pale grey slate-like material, matte and unlit, quite blank, lying flat and square, turned so that from the cat's side it would be upside down. The cat's gaze runs straight to it. The chair is pushed in. Nobody else is in the room.
+>
+> Warm, bright, high-key morning light comes in through the window and fills the room softly; the cat's black coat keeps its detail and the sheen of real fur, with a true shadow under him on the cabinet top. The cat's head and the leaf on the desk sit together in the middle band of the frame, with plain wall above. Shot on a real camera: a little grain, natural colour a shade warm, real shadows, not glossy, not an illustration.
+>
+> The room is plain and kept: no screens, no glowing displays, no tablets, no keyboards, no books, no paper, no folders, no binders, no pens, no cups, no flask, no bottle, no lamp, no light fittings, no ceiling panels, no cables, no drawer handles, no filing-cabinet drawers with labels, no signage, no lettering and no numbers anywhere, and nothing written on the leaf or on the tag. Nothing glows. One cat only, an ordinary real cat with an ordinary cat's body and face, no clothing, no badge, no gadgets. No people.
+
+### `hero/young-star-rangers.jpg` — take 1 of one round
+
+References: `src/images/characters/iklix-varn.jpg` `src/images/chapters/s09e01c02.jpg`
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, wide 21:9 landscape, taken from low down, at the head height of someone crouching, a few paces along a corridor, deep focus, candid, never posed; nobody looks at the camera.
+>
+> The place is a residential corridor on the ring of Eden Space Habitat, a great rotating habitat, in early spring of the year 2828 UCSD, eight centuries from now, at the hour the shift changes. It is the same corridor as the second reference image: pale cream matte composite, seamless, the walls meeting the floor in a rounded cove, the floor rising very slightly with the curve of the ring as it runs away, plain flush doors with rounded corners. In the wall on the right, between two such doors, is one plain closed hatch, a little heavier than the doors, with rounded corners and a single recessed handle and nothing else on it.
+>
+> In the left foreground, outside the door nearest the camera, a small round-leaved plant grows in a plain clay pot on the floor, as in the second reference image. Crouched at it is a young man of about twenty, plainly a grown adult, the same man as in the second reference image: dark-skinned, with short black hair, in a pale linen overshirt and grey trousers and soft grey shoes. He is seen from behind and to one side, in profile from over his shoulder, so only the line of his cheek, jaw and one ear show. He holds the same rounded pale watering can with a long slim spout, full, in both hands, the spout near the pot, and he has stopped and turned his head to look up along the corridor at the person who has just arrived. He has just spoken.
+>
+> In the right half of the frame, three or four paces further along the corridor and seen whole from head to boots, stands a Deputy Officer of the Star Rangers who has just come along the ring to the hatch and stopped beside it. This is exactly the same person as in the first reference image, keeping exactly that face, lean build, short dark hair cut to the jaw and tucked behind the ear, and the same plain grey-brown service dress: a jacket with a stand collar and one very small plain tab at the collar, matching trousers, and plain one-piece grey-brown boots. The Deputy stands straight and quiet with arms at the sides, one hand a little raised toward the hatch's handle and stopped there, head turned to look down at the young man with a level, careful, uncertain attention. The Deputy's face is seen in three-quarter view and is clear. Nothing is in the Deputy's hands.
+>
+> The two look at each other across the width of the frame; the plant, the can, the young man's head, the hatch and the Deputy's head and shoulders all sit in the middle band of the frame, with plain wall above and plain floor below. Soft, even, slightly warm light fills the corridor from no source that can be seen, with real soft shadows under both people and the pot. Shot on a real camera: a little grain, slightly muted natural colour, not glossy, not beauty-lit, not an illustration.
+>
+> The corridor is plain and kept: no screens, no panels of controls, no keypads, no light fittings, no ceiling light panels, no light strips, no railings, no vents, no pipes, no cables, no signs, no nameplates, no lettering and no numbers anywhere, including on the hatch, the doors and the collar tab. Nothing glows. No weapons, no belt, no holster, no bag, no badge on the chest. The watering can is rounded, matte and plain, not a present-day plastic garden can. Only these two people, both adults; nobody else, and no children.
+
+### `hero/orbital-five-o.jpg` — round 2, take 1 (an edit of round 1, take 4)
+
+Round 1. Reference: `src/images/chapters/s10e01c06.jpg`
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, wide 21:9 landscape, taken at standing height from the working deck of a dock, deep focus, candid, in the middle of a shift, never posed; nobody looks at the camera.
+>
+> The place is the dock ring of Eden Space Habitat, a great rotating habitat, on a spring afternoon in the year 2828 UCSD, eight centuries from now. It is the same place as the reference image: a vast bright hall of pale cream matte composite under high curving ribs, its wide deck climbing gently away with the curve of the ring, rounded pale-grey tug hulls sitting in their smooth clamps along the deck, and a residents' gallery with a solid cream rail running along one side above. The hall is brightly and evenly lit from high above, between the ribs, by light whose source cannot be seen.
+>
+> Across the upper middle of the frame, a raven is flying the ring: a real common raven, large and black with a heavy bill, a wedge-shaped tail and long fingered wings held wide, in a slow level glide along the line of the hall, not hurrying, seen from the side and a little below, the high light glossing her back and wing feathers. On one leg she carries a single plain narrow pale band. She is well clear of everything, with the pale ribs behind her so her whole shape reads at once. She is the same raven as in the reference image, and no larger against the hall than she is there.
+>
+> Below her the dock shift is at work, and busy: seven or eight grown men and women of different builds and ages in plain grey-blue work tunics with band collars and matching trousers, spread unevenly over the deck near and far. Two in the near foreground, seen from the waist up at one side of the frame, are fitting a smooth curved cover panel back onto the flank of the nearest tug; others further off carry a sealed pale case between them, kneel at a clamp, or walk beside a low rounded pale cargo carrier that rolls along the deck by itself. Every one of them is watching the raven and pretending not to: hands still on the work, bodies still turned to it, but one has his eyes lifted under his brow, one glances up sideways over her shoulder, one has paused in mid-step with his head half turned, one looks up openly for a moment and is about to look away. Nobody points, nobody shades their eyes, nobody stands in a row. On the gallery above, small and far off, three or four residents in plain tunics have stopped at the rail and are looking up at her openly.
+>
+> The raven, the heads of the dock shift and the line of tug hulls sit in the middle band of the frame, with ribs above and deck below. Bright, clear, slightly cool daylight-white light, real soft shadows under every person and hull on the deck. Shot on a real camera: a little grain, natural colour, not glossy, not an illustration, not a film still.
+>
+> The dock is clean, kept and plainly of its century: no hard hats, no helmets, no high-visibility vests, no reflective stripes, no gloves with logos, no forklifts, no pallets, no wheeled trolleys with handles, no hoses, no toolboxes with latches, no hand-held screens, no tablets, no glowing displays, no control panels, no visible lamps, no light fittings, no light strips, no glass balustrades, no rivets, no grime, no rust, no signs, no hazard stripes, no lettering and no numbers anywhere. Nothing glows. No weapons and no uniforms of rank. One raven only, an ordinary real bird, with no harness, no camera and no gadget on her, only the leg band. Everyone in frame is an adult; no children.
+
+Round 2, sent with round 1's take 4 as the frame to edit:
+
+> Edit this photograph. Keep everything exactly as it is: the same hall, the same ribs, the same tug hulls and clamps, the same camera position, framing, light, colour and grain, the same people in the same places, clothes and poses, and the same raven in the same place and pose. Change only these five things.
+>
+> 1. The silver metal case with latches and a handle, carried by the grey-haired man walking in the middle of the deck: replace it with a small smooth sealed capsule of pale matte composite, rounded at every edge like a river pebble, carried under his arm, with no latches, no hinges, no handle, no metal corners and no seams except one fine line round its middle.
+>
+> 2. The wheeled metal trolley with a push handle and metal boxes, beside the woman walking at the right: replace it with one low smooth rounded pale cargo carrier, a single closed matte cream form like a large pebble, rolling along the deck by itself beside her on wheels that cannot be seen, with no handle, no frame, no boxes, no metal. Her hand that was on the handle now hangs free at her side. She still glances up at the raven as she walks.
+>
+> 3. The short-haired person walking beside the grey-haired man: make this person plainly a grown adult of about thirty, the same height as the man, with an adult face and build, in the same grey-blue tunic, carrying nothing, hands at the sides, eyes lifted for a moment toward the raven without the head tipping back.
+>
+> 4. The raven: make her about one third smaller, in the same place and the same level glide, so she reads as a real common raven high in a very large hall. Give her one plain narrow pale band on one leg, just visible.
+>
+> 5. The ceiling at the top right corner: remove the bright light panel, so the pale ribs simply continue across the top of the frame. The hall stays as brightly and evenly lit as it is.
+>
+> Nothing else changes. No lettering and no numbers anywhere. Nothing glows. Still a photograph taken on a real camera, with the same grain and the same real soft shadows under every person and object.

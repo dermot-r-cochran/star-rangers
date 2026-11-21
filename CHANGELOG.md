@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+
+- **A banner for every thread** (2026-11-21, Opus with Fable prompts, `story-bible/images.md` § 91). The six thread pages without one now carry a banner, shared with each thread's first season page (Seasons 2, 4, 8, 9, 11 and 13): Five Islands and Church Space from his own Dalkey Island frames, Below the Roof a crop of S14E01C01's picture, and Undercover Pets, Young Star Rangers and Orbital Five-O generated.
+
 ### Fixed
 
 - **Critic read of #2025 to #2038: four small fixes** (2026-11-21, read on Fable, applied on Opus). S12E01C01 now shows the up-people's row of knock stones beside the two stones, as ruled on 20 November; Kattik's page dates the crew's line *that shift*, as the chapters do; Pelagos Minor says *policy-tragedy*, as S01E03C04 does; *lately* is struck from S12E01C06. Three points are put to Dermot in `story-bible/open-questions.md`.
