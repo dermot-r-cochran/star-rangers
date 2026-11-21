@@ -16,7 +16,13 @@
 // Usage:
 //   node scripts/image-edit.js --prompt <file> --out <dir> [--n 2]
 //        [--aspect 16:9] [--size 2K] [--model gemini-3.1-flash-image]
-//        [image ...]
+//        [--provenance edited-ai] [image ...]
+//
+// Each take is tagged in the file (scripts/tag-provenance.js, since 21
+// November 2026): edited-ai by default, since the usual input is his frame;
+// generated when no image is given; --provenance overrides (any of that
+// script's sources, or none). import-image.ps1 re-encodes and tags again, so
+// file a take that altered his frame with -Provenance edited-ai.
 //
 // The prompt file is plain text. Images, if any, are sent after the prompt
 // in the order given: the first is usually the frame to edit, the rest are
@@ -31,6 +37,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const provenanceTool = require('./tag-provenance');
 
 const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/interactions';
 const MIME = { '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp' };
@@ -45,6 +52,7 @@ function parseArgs(argv) {
     else if (a === '--aspect') o.aspect = argv[++i];
     else if (a === '--size') o.size = argv[++i];
     else if (a === '--model') o.model = argv[++i];
+    else if (a === '--provenance') o.provenance = argv[++i];
     else if (a === '--help' || a === '-h') o.help = true;
     else o.images.push(a);
   }
@@ -86,8 +94,12 @@ function extractImage(json) {
 async function main() {
   const o = parseArgs(process.argv.slice(2));
   if (o.help || !o.prompt || !o.out) {
-    console.log('usage: node scripts/image-edit.js --prompt <file> --out <dir> [--n 2] [--aspect 16:9] [--size 2K] [image ...]');
+    console.log('usage: node scripts/image-edit.js --prompt <file> --out <dir> [--n 2] [--aspect 16:9] [--size 2K] [--provenance edited-ai] [image ...]');
     process.exit(o.help ? 0 : 1);
+  }
+  const provenance = o.provenance || (o.images.length ? 'edited-ai' : 'generated');
+  if (provenance !== 'none' && !provenanceTool.CODES[provenance]) {
+    throw new Error(`--provenance ${provenance}: use ${Object.keys(provenanceTool.CODES).join(', ')} or none`);
   }
   const key = loadApiKey();
   const prompt = fs.readFileSync(o.prompt, 'utf8');
@@ -109,9 +121,14 @@ async function main() {
     const b64 = extractImage(JSON.parse(text));
     if (!b64) { console.error(`take ${i}: response carried no image`); continue; }
     const file = path.join(o.out, `v${i}.jpg`);
-    fs.writeFileSync(file, Buffer.from(b64, 'base64'));
+    const raw = Buffer.from(b64, 'base64');
+    let tagged = null;
+    try {
+      if (provenance !== 'none') tagged = provenanceTool.tagBuffer(raw, { source: provenance, tool: `Gemini ${o.model} via scripts/image-edit.js` });
+    } catch (err) { console.error(`take ${i}: not tagged (${err.message})`); }
+    fs.writeFileSync(file, tagged || raw);
     written.push(file);
-    console.log('wrote', file);
+    console.log('wrote', file, tagged ? `(tagged ${provenance})` : '');
   }
   fs.writeFileSync(path.join(o.out, 'run.json'), JSON.stringify({
     date: new Date().toISOString(), model: o.model, size: o.size, aspect: o.aspect,

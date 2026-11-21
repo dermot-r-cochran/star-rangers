@@ -42,6 +42,35 @@ plates only by cloning from the same frame is lifted. His photography site
 an altered frame never returns to it or to a competition. Every edit is still
 recorded under the image's entry and judged by the image critic.
 
+**Provenance in the file** (Dermot, 21 November 2026, verbatim: *"If metadata
+allows then all altered or generated images may be tagged as such, from now
+on."*, and of clips the same evening, *"Likewise for videos"*). An image or clip
+that a generator made or altered says so in the file itself, as an XMP packet
+written by `scripts/tag-provenance.js` (JPEG, PNG and MP4; the picture and the
+media are byte-copied, never re-encoded). The field is IPTC's
+`DigitalSourceType`, beside a short `dc:description`, the `xmp:CreatorTool` and,
+for files in `src/images/` and `src/video/`, the credit and licence line
+`CONTENT-LICENSE.md` already gives them (never for a third-party file):
+
+| `--source` | IPTC code | For |
+|---|---|---|
+| `generated` | `trainedAlgorithmicMedia` | a generated still; a Grok clip, also one composited in post from generated takes; a clip's `-poster.jpg` |
+| `composite-ai` | `compositeWithTrainedAlgorithmicMedia` | generated and other elements put together |
+| `edited-ai` | `compositeWithTrainedAlgorithmicMedia` | his photograph altered by a generative tool |
+| `composite` | `compositeSynthetic` | elements put together by hand, nothing generated |
+| `card` | `digitalCreation` | a designed card, emblem or diagram |
+
+His own plate, or one healed by hand from the same frame, is still his
+photograph and takes no tag. Tagging is the last step, because the GDI+ and
+Pillow writes in `import-image.ps1` drop all metadata: `import-image.ps1
+-Provenance` tags what it writes (`generated` by default when `-Finish` is above
+0; `none` at `-Finish 0`, with a reminder to pass `card`, `edited-ai` or
+`composite` where one fits), and `image-edit.js` tags its takes `edited-ai`
+(`generated` when given no image). A clip and its poster are tagged by hand
+when filed. `node scripts/tag-provenance.js <file> --read` shows what a file
+carries. This applies to images and clips filed or re-filed from 21 November
+2026; files already filed are not tagged in a retro pass unless he asks.
+
 **Finish: a generated photograph is finished toward Dermot's own** (Dermot,
 7 October 2026, verbatim: *"the base image generator has inherent limitations
 regardless of the prompt itself so post-processing is needed or some way to
@@ -13715,6 +13744,8 @@ Dermot, 19 November 2026, verbatim: *"Yes, make it"*, for the chapter merged the
   - **Tidied, 21 November 2026** (Opus, at Dermot's *"Yes, tidy it"*, after his ruling the same evening that his frames and these may be altered without limit outside the portfolio): one Gemini edit (`scripts/image-edit.js`, three takes) of a 480×270 crop round the kneeling worker (x 440–920, y 263–533), asking only that her empty hand rest on the ledge and that the faint dark post left under the ledge go. Take 2 kept (takes 1 and 3 moved her); feathered back into the banner with an elliptical mask, so nothing outside the worker and the ledge below her changed (mean difference outside the mask 1.8 of 255). The post is gone. **Passed and named:** her nearer hand now lies palm down over the ledge rim, a finger's breadth above the stone at 100%; at banner size it reads as steadying herself.
 
 **The six are filed and wired.** Each one is on its thread page and its thread's first season page (2, 4, 8, 9, 11, 13). No filed image changed. His pick stays open: the alternatives that passed are Undercover Pets take 1, Young Star Rangers take 3 and Orbital Five-O round-2 take 2. All the takes are kept in the session scratchpad, not in the repository.
+
+**Provenance, 21 November 2026** (*Provenance in the file*, Conventions). The two banners re-filed after the ruling: `hero/orbital-five-o.jpg` is tagged `generated` (`trainedAlgorithmicMedia`, Gemini via `image-edit.js`), as re-filed by #2050, with the note *generated banner; worker's hand and ledge AI-edited 21 Nov 2026*: a generated frame stays `generated` when a generator edits it again. `hero/church-space.jpg` is not tagged: it is his photograph, healed only by cloning from the same frame, which is not AI. The other four banners were filed before the ruling and are left as they are.
 
 ### 92. Three Below the Roof frames that predate the long row (21 November 2026, Opus)
 
