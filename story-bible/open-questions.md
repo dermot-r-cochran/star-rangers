@@ -6107,7 +6107,10 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
   `StarRangers_3` files and a re-wrap of the existing Ballad, all 854×480
   still-over-audio. Recorded in `music-prompts.md`; each needs its tool and
   prompt pasted in, and a decision about whether it is site furniture or an
-  in-universe recording with a named author. *Triage 19 October 2026:* the
+  in-universe recording with a named author. *21 November 2026:* the tool is
+  settled for the Codex files, *Paper Galaxies* and the Ballad among them
+  (Dermot: *"They were made using MyTunes app for Android phones"*); their
+  prompts are still owed, and the four with no home are untouched. *Triage 19 October 2026:* the
   prompts are his to paste; of the four without a home, none is in the
   repository, so the furniture-or-recording question arises only when one is
   filed, and the filing PR puts it. Not a decision now.

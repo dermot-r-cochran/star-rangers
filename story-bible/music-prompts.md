@@ -41,7 +41,8 @@ stay as a record of what was briefed and filed, and none of them is queued.
 | `pets-theme.wav` | Undercover Pets, "Playful ukulele" | **unrecorded** |
 | `ballad-of-the-stars.m4a` | `src/codex/ballad-of-the-stars.md` | **unrecorded** |
 
-Tool, date, model and seed are unknown for all five. **Do not reconstruct a
+Tool, date, model and seed were unknown for all five; the Ballad's tool is now
+known (below), and the rest stands. **Do not reconstruct a
 prompt for them and file it as though it were the original** — the Prismere
 cluster's reconstructions are labelled as reconstructions for exactly this
 reason, and an invented provenance line is worse than a blank one because it
@@ -53,6 +54,14 @@ track, and that is a decision for Dermot, not a maintenance job.
 `src/audio/`.** The four `.wav` themes went with the footer player, as did the
 two filed later (`rotational-hum.m4a`, `told-theme.m4a`). The audio folder now
 holds the Ballad and `paper-galaxies.m4a`, both on their own Codex pages.
+
+**The Codex recordings were made in MyTunes** (Dermot, 21 November 2026,
+verbatim: *"They were made using MyTunes app for Android phones"*, of the
+MyTunes-generated audio in the Codex). That settles the tool for
+`ballad-of-the-stars.m4a` and `paper-galaxies.m4a`, and for the three Codex
+videos (`baby-universe.mp4` and the two Slipwave videocasts; `video-prompts.md`).
+The prompts, dates and seeds are still unrecorded, and are not reconstructed. If
+the app's history still holds a prompt, pasting it in closes that entry.
 
 ---
 
@@ -1399,7 +1408,8 @@ not go straight into the record as it stands.
 
 ### `PaperGalaxies_5.mp4` — the one that already has a home
 
-2:35, same wrapper. Its card is a singer before a large swirling painted galaxy
+2:35, same wrapper. **Tool: MyTunes (MWM), Android phone app** (Dermot, 21 November
+2026); prompt unrecorded. Its card is a singer before a large swirling painted galaxy
 with a band behind her — **and the corpus has already written about this exact
 artifact.** `src/codex/paper-galaxies-audit-dialogue.md` describes the recovered
 fragment as *"a single held frame, a singer before a painted, swirling field of

@@ -624,7 +624,7 @@ better than cutting to a picture.
 
 ### `odonata-raise-your-banners.mp4`
 - **Type:** supplied, 7 October 2026 (Dermot: *Two codex music videos from Slipwave band*)
-- **Tool:** unrecorded — do not reconstruct
+- **Tool:** MyTunes (MWM), Android phone app (Dermot, 21 November 2026: *"They were made using MyTunes app for Android phones"*); version unrecorded
 - **Date:** filed 2026-10-07
 - **Used by:** `src/codex/odonata-raise-your-banners.md`
 - **Prompt:** unrecorded
@@ -633,7 +633,7 @@ better than cutting to a picture.
 
 ### `borrow-the-angle.mp4`
 - **Type:** supplied, same day
-- **Tool:** unrecorded — do not reconstruct
+- **Tool:** MyTunes (MWM), Android phone app (Dermot, 21 November 2026); version unrecorded
 - **Date:** filed 2026-10-07
 - **Used by:** `src/codex/borrow-the-angle.md`
 - **Prompt:** unrecorded
@@ -669,7 +669,7 @@ better than cutting to a picture.
 - **Notes:** v6, 6:31, 854×480, 24 fps, 35 MB; not upscaled. No captions, and the audio is not heard here, so the narration is Director's claim. Poster frame `the-up-peoples-first-stone-poster.jpg` at 6:20. Versions and readings under D6.
 
 The first file in `src/video/`, `baby-universe.mp4`, predates this file and has no
-recorded prompt; do not reconstruct one and file it as though it were the
+recorded prompt (its tool is MyTunes, Android phone app: Dermot, 21 November 2026); do not reconstruct one and file it as though it were the
 original. The two above are recorded as absences for the same reason.
 
 ## The two Slipwave videocasts, read 7 October 2026
