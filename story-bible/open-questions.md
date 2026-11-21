@@ -111,7 +111,9 @@ left as they stand.
 
 ---
 
-## Critic read of #2025 to #2038 — 21 November 2026, on Fable — three points OPEN, each with a recommendation
+## Critic read of #2025 to #2038 — 21 November 2026, on Fable — all three points RULED the same day, each as recommended (*"As recommended"*), and applied
+
+*Applied in `critic/rulings-2025-2038`:* (1) `environmental-technology-design.md`'s chamber paragraphs, heading and description now say only what the chronicle's Scene Three shows, river stones restored (a clarification; the chronicle holds them, so #2025's note that no source does was wrong); (2) `images.md` § 92 records that the three frames predate the long row; (3) Sorcha Shepherd's page reads *Lost in between, with no wreck*.
 
 A Benevolent Critic read of every pull request merged from #2025 to #2038. The 44 single repairs of #2026 hold, and the arithmetic re-derived (Below the Roof's shifts, S02E08–E09's nights, S04E02's quarters, S01E01C03's groups, the S01E03 days, Voss's and Wender's dates) agrees. The ruled points are applied as ruled. Passages that land best include S12E01C06's *"a stone moved for you is not yours to move"*. Mended in `critic/read-2025-2038`: S12E01C01 now has the row of knock stones beside the two stones (canon_fact and scene 5, #2027's own wording); Kattik's page dates the line *that shift*; Pelagos Minor's *policy-triage* is *policy-tragedy*; *lately* struck from S12E01C06.
 
