@@ -92,4 +92,6 @@ The CLAUDE.md rule allows *"a self-contained short story or set of chapters"*. E
 - (b) Episode 0 closes at its present count, or at C14 if option 2 is taken, and the next side-light needs a thread.
 - (c) Leave the slot as it is.
 
+**Ruled 21 November 2026: (a)**, Dermot verbatim *"Yes"*, and then *"That would be the general rule for episode 0 of any season if needed."* Since Decision 1 made the episode's principle *introductions*, the join a new chapter must reach is that one: it introduces some of the season's people. As a general rule, recorded in CLAUDE.md beside the self-contained-episode rule: a season's Episode 0, where one is needed, is a set of short stories each introducing some of that season's people, and it is where that season's side-lights go; each new Episode 0 chapter says in its intake whom it introduces, and the episode index says what the set is.
+
 **Model line.** Index copy, planning, a codex working paper and this read are Opus's. A C14 draft is Fable's.
