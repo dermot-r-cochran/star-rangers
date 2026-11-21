@@ -6109,8 +6109,9 @@ but larger, because nothing in the toolchain looks at `src/video/` at all.
   prompt pasted in, and a decision about whether it is site furniture or an
   in-universe recording with a named author. *21 November 2026:* the tool is
   settled for the Codex files, *Paper Galaxies* and the Ballad among them
-  (Dermot: *"They were made using MyTunes app for Android phones"*); their
-  prompts are still owed, and the four with no home are untouched. *Triage 19 October 2026:* the
+  (Dermot: *"They were made using MyTunes app for Android phones"*), and their
+  prompts are not owed, since *"The original prompts were not saved"*: the
+  entries stay unrecorded for good. The four with no home are untouched. *Triage 19 October 2026:* the
   prompts are his to paste; of the four without a home, none is in the
   repository, so the furniture-or-recording question arises only when one is
   filed, and the filing PR puts it. Not a decision now.

@@ -627,7 +627,7 @@ better than cutting to a picture.
 - **Tool:** probably Grok (Imagine) for the pictures (Dermot, 21 November 2026: *"The video casts were probably from Grok. MyTunes tends to produce an MP4 with a single cover image."*); version, prompt and the audio's maker unrecorded
 - **Date:** filed 2026-10-07
 - **Used by:** `src/codex/odonata-raise-your-banners.md`
-- **Prompt:** unrecorded
+- **Prompt:** unrecorded, and not recoverable (Dermot, 21 November 2026: *"The original prompts were not saved."*)
 - **Negative:** unrecorded
 - **Notes:** 3:32, 1280×720, 24 fps, H.264 + AAC 48 kHz stereo, 27 MB. Genuinely moving footage (slow camera moves and animated water, wings, lanterns), not a held still. Nine lyric lines composited as captions at the foot of the frame, one per section, in a clean serif, correctly spelled; title card composited at the head. Poster frame `odonata-raise-your-banners-poster.jpg` taken at 0:01.
 
@@ -636,7 +636,7 @@ better than cutting to a picture.
 - **Tool:** probably Grok (Imagine) for the pictures (Dermot, 21 November 2026, as above); version, prompt and the audio's maker unrecorded
 - **Date:** filed 2026-10-07
 - **Used by:** `src/codex/borrow-the-angle.md`
-- **Prompt:** unrecorded
+- **Prompt:** unrecorded, and not recoverable (Dermot, 21 November 2026: *"The original prompts were not saved."*)
 - **Negative:** unrecorded
 - **Notes:** 3:52, 1280×720, 24 fps, H.264 + AAC 48 kHz stereo, 23 MB. Moving footage as above. Ten captioned lines, same treatment; the last twenty seconds carry no caption. Poster frame `borrow-the-angle-poster.jpg` taken at 0:01.
 

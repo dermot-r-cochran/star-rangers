@@ -64,8 +64,11 @@ audio. The two Slipwave videocasts are moving footage, and their pictures were
 probably made in Grok (his correction the same evening: *"The video casts were
 probably from Grok. MyTunes tends to produce an MP4 with a single cover image."*;
 `video-prompts.md`).
-The prompts, dates and seeds are still unrecorded, and are not reconstructed. If
-the app's history still holds a prompt, pasting it in closes that entry.
+**The original prompts were not saved** (Dermot, the same evening, verbatim:
+*"The original prompts were not saved."*). So the prompts, dates and seeds of
+these Codex files are not recoverable: the entries stay *unrecorded* for good,
+and no prompt is reconstructed and filed as the original. A remake would be a
+new take from a new brief, which is his decision.
 
 ---
 
