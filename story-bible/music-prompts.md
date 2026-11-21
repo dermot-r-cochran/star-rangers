@@ -60,10 +60,10 @@ verbatim: *"They were made using MyTunes app for Android phones"*, of the
 MyTunes-generated audio in the Codex). That settles the tool for
 `ballad-of-the-stars.m4a` and `paper-galaxies.m4a`, and for `baby-universe.mp4`,
 which is MyTunes' usual output: an mp4 holding a single cover image over the
-audio. The two Slipwave videocasts are moving footage, and their pictures were
-probably made in Grok (his correction the same evening: *"The video casts were
-probably from Grok. MyTunes tends to produce an MP4 with a single cover image."*;
-`video-prompts.md`).
+audio. The two Slipwave videocasts carry MyTunes audio under moving pictures
+remade in Grok (his words the same evening: *"The video casts were probably from
+Grok. MyTunes tends to produce an MP4 with a single cover image."*, then
+*"The video casts were remade inside Grok to match the MyTunes audio."*; `video-prompts.md`).
 **The original prompts were not saved** (Dermot, the same evening, verbatim:
 *"The original prompts were not saved."*). So the prompts, dates and seeds of
 these Codex files are not recoverable: the entries stay *unrecorded* for good,

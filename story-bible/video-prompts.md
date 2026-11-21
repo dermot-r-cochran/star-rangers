@@ -624,7 +624,7 @@ better than cutting to a picture.
 
 ### `odonata-raise-your-banners.mp4`
 - **Type:** supplied, 7 October 2026 (Dermot: *Two codex music videos from Slipwave band*)
-- **Tool:** probably Grok (Imagine) for the pictures (Dermot, 21 November 2026: *"The video casts were probably from Grok. MyTunes tends to produce an MP4 with a single cover image."*); version, prompt and the audio's maker unrecorded
+- **Tool:** audio from MyTunes (MWM), Android phone app; pictures remade in Grok to match it (Dermot, 21 November 2026: *"The video casts were probably from Grok. MyTunes tends to produce an MP4 with a single cover image."*, then *"The video casts were remade inside Grok to match the MyTunes audio."*); versions unrecorded
 - **Date:** filed 2026-10-07
 - **Used by:** `src/codex/odonata-raise-your-banners.md`
 - **Prompt:** unrecorded, and not recoverable (Dermot, 21 November 2026: *"The original prompts were not saved."*)
@@ -633,7 +633,7 @@ better than cutting to a picture.
 
 ### `borrow-the-angle.mp4`
 - **Type:** supplied, same day
-- **Tool:** probably Grok (Imagine) for the pictures (Dermot, 21 November 2026, as above); version, prompt and the audio's maker unrecorded
+- **Tool:** audio from MyTunes (MWM), Android phone app; pictures remade in Grok to match it (Dermot, 21 November 2026, as above); versions unrecorded
 - **Date:** filed 2026-10-07
 - **Used by:** `src/codex/borrow-the-angle.md`
 - **Prompt:** unrecorded, and not recoverable (Dermot, 21 November 2026: *"The original prompts were not saved."*)
