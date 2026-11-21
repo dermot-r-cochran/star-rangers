@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The Codex recordings' tool recorded: MyTunes** (`src/_data/provenance.json`, `story-bible/music-prompts.md`, `story-bible/video-prompts.md`, `story-bible/open-questions.md`, 2026-11-21, Opus, Dermot's *"They were made using MyTunes app for Android phones"*). The Codex's MyTunes-made audio and videos had their tool recorded as unknown. *Ballad of the Stars*, *Paper Galaxies* and *Baby Universe* now name the MyTunes Android app, and *Baby Universe* moves from unrecorded to generated. The two Slipwave videocasts carry MyTunes audio under pictures remade in Grok to match it, by his words the same evening. The original prompts were not saved (his word the same evening), so the entries stay unrecorded for good and nothing is reconstructed.
+
 ### Added
 
 - **A provenance list for every image and clip** (`src/_data/provenance.json`, `scripts/tag-provenance.js`, `scripts/import-image.ps1`, `scripts/check-provenance-list.js`, `story-bible/images.md`, CLAUDE.md, 2026-11-21, Opus, at Dermot's *"Add the list too"*). All 816 files under `src/images/` and `src/video/` are listed as photograph, AI-edited, generated, composite, card, third-party or unrecorded, from the record rather than by eye; the files are untouched. Tagging now updates the list, `npm test` fails on an unlisted file, and S00E02C01's picture is tagged `generated`.

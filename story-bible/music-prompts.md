@@ -41,7 +41,8 @@ stay as a record of what was briefed and filed, and none of them is queued.
 | `pets-theme.wav` | Undercover Pets, "Playful ukulele" | **unrecorded** |
 | `ballad-of-the-stars.m4a` | `src/codex/ballad-of-the-stars.md` | **unrecorded** |
 
-Tool, date, model and seed are unknown for all five. **Do not reconstruct a
+Tool, date, model and seed were unknown for all five; the Ballad's tool is now
+known (below), and the rest stands. **Do not reconstruct a
 prompt for them and file it as though it were the original** — the Prismere
 cluster's reconstructions are labelled as reconstructions for exactly this
 reason, and an invented provenance line is worse than a blank one because it
@@ -53,6 +54,21 @@ track, and that is a decision for Dermot, not a maintenance job.
 `src/audio/`.** The four `.wav` themes went with the footer player, as did the
 two filed later (`rotational-hum.m4a`, `told-theme.m4a`). The audio folder now
 holds the Ballad and `paper-galaxies.m4a`, both on their own Codex pages.
+
+**The Codex recordings were made in MyTunes** (Dermot, 21 November 2026,
+verbatim: *"They were made using MyTunes app for Android phones"*, of the
+MyTunes-generated audio in the Codex). That settles the tool for
+`ballad-of-the-stars.m4a` and `paper-galaxies.m4a`, and for `baby-universe.mp4`,
+which is MyTunes' usual output: an mp4 holding a single cover image over the
+audio. The two Slipwave videocasts carry MyTunes audio under moving pictures
+remade in Grok (his words the same evening: *"The video casts were probably from
+Grok. MyTunes tends to produce an MP4 with a single cover image."*, then
+*"The video casts were remade inside Grok to match the MyTunes audio."*; `video-prompts.md`).
+**The original prompts were not saved** (Dermot, the same evening, verbatim:
+*"The original prompts were not saved."*). So the prompts, dates and seeds of
+these Codex files are not recoverable: the entries stay *unrecorded* for good,
+and no prompt is reconstructed and filed as the original. A remake would be a
+new take from a new brief, which is his decision.
 
 ---
 
@@ -1399,7 +1415,8 @@ not go straight into the record as it stands.
 
 ### `PaperGalaxies_5.mp4` — the one that already has a home
 
-2:35, same wrapper. Its card is a singer before a large swirling painted galaxy
+2:35, same wrapper. **Tool: MyTunes (MWM), Android phone app** (Dermot, 21 November
+2026); prompt unrecorded. Its card is a singer before a large swirling painted galaxy
 with a band behind her — **and the corpus has already written about this exact
 artifact.** `src/codex/paper-galaxies-audit-dialogue.md` describes the recovered
 fragment as *"a single held frame, a singer before a painted, swirling field of
