@@ -3,7 +3,7 @@ layout: lore-entry.njk
 title: "Environmental Technology Design: Biosphere, Station, and Ritual Space"
 category: "Technology"
 tags: [technology, environment, aesthetics, biosphere, station, elvira, ritual, design]
-description: "How technology reads differently across three recurring settings — biosphere planets, remote stations, and the ritual chamber a Codex chronicle describes, where old and new bridge each other."
+description: "How technology reads differently across three recurring settings — biosphere planets, remote stations, and the ritual chamber a Codex chronicle describes, where every object is placed by hand."
 plain: "Technology reads differently in three kinds of place. On biosphere worlds it recedes into the organic setting, so subtly a visitor might miss it. On remote stations it declares itself — decking, recyclers, drones on patrol — because survival depends on systems being visible and maintained. A Codex chronicle of Dún Rí sets a third between them: the chamber where Elvira performs her ritual, with incense rising from a bronze jaguar. Across all three the AI is everywhere and announces almost none of it: lawful systems are the building itself, given a body only when the work needs one, and a drone only for good reason."
 image: "environmental-technology-design.jpg"
 image_alt: "Designed cover for Environmental Technology Design: Biosphere, Station, and Ritual Space: concentric rings in a soft glow under the category Technology, with the title below in two lines, on a dark green-black background."
@@ -19,11 +19,11 @@ On biosphere worlds, the built environment recedes. Technology is present but su
 
 Remote stations invert that relationship entirely. Composite decking underfoot, recyclers cycling audibly in the walls, maintenance drones on visible patrol routes, power cells racked in plain sight. The environment declares itself artificial at every turn. Nothing here is trying to look natural, because nothing here needs to. The station's survival depends on its systems being legible, inspectable, and constantly maintained, not on blending in.
 
-## The Chamber in the Chronicle: Where Old and New Meet
+## The Chamber in the Chronicle
 
-The third register is a Codex account, not the Archive's own. [The Flight of Aldera: A Chronicle of Dún Rí](/star-rangers/codex/flight-of-aldera-chronicle-of-dun-ri/), transmitted through Fellowship of Light chapter recitation, sets Elvira's ritual in a chamber that sits between those two poles rather than beside them, with incense rising from the mouth of a bronze jaguar. In that telling the old object serves no technical function. It is there because the ritual asks for something no fabricator can make, material with a history older than the room around it. The Archive files the chamber as the chronicle's, and places it on no station or world.
+The third register is a Codex account, not the Archive's own. [The Flight of Aldera: A Chronicle of Dún Rí](/star-rangers/codex/flight-of-aldera-chronicle-of-dun-ri/), transmitted through Fellowship of Light chapter recitation, sets Elvira's ritual in a meditation chamber at Dún Rí: tatami, lanterns and lacquered walls, incense rising from the mouth of a bronze jaguar, and on the floor a circle of river stones, a tray of candles and a small hand mirror at the circle's north. The telling names the objects and not their making; it says nothing of which are old and which were fabricated. The Archive files the chamber as the chronicle's, and places it on no station or world.
 
-In the chronicle's telling the effect is a third register, distinct from both the biosphere worlds and the remote stations. It does not hide what was made, and it does not surround itself with the organic. Instead it stages a deliberate meeting point: a place built to hold both the fabricated and the ancient in the same room, because the work done there depends on neither one alone.
+In the chronicle's telling the room is a third register, distinct from both the biosphere worlds and the remote stations. Nothing in it is a system and nothing in it is grown: each thing is placed by hand for the work the ritual does, and when the work begins the stones are struck, and sing.
 
 ## AI: Present, Never Intrusive
 

@@ -13699,3 +13699,7 @@ Dermot, 19 November 2026, verbatim: *"Yes, make it"*, for the chapter merged the
   - **Passed and named:** the raven is still large for the hall, as the chapter frame's own record names; the leg band reads as a pale mark at both feet; the capsule under the man's arm can read as a helmet, and the carrier as a pouffe; only three of the nearer workers are visibly watching her; the hall is render-clean; each clamp carries a small lit indicator, as in the reference.
 
 **The six are filed and wired.** Each one is on its thread page and its thread's first season page (2, 4, 8, 9, 11, 13). No filed image changed. His pick stays open: the alternatives that passed are Undercover Pets take 1, Young Star Rangers take 3 and Orbital Five-O round-2 take 2. All the takes are kept in the session scratchpad, not in the repository.
+
+### 92. Three Below the Roof frames that predate the long row (21 November 2026, Opus)
+
+`chapters/s12e01c02.jpg`, `chapters/s14e01c03.jpg` and `chapters/s14e01c04.jpg` show two to four stones at the line, where the text since the ruling of 20 November (*The knock stones on the line*, `open-questions.md`) has a row of fifty to a hundred and fifty. They were made before that ruling and are kept as they are, at Dermot's *"As recommended"* of 21 November 2026 to the critic read of #2025 to #2038 (point 2, option a). Nothing is re-made; a later frame of the line shows the row.
