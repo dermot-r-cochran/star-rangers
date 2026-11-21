@@ -2349,6 +2349,37 @@ main th {
 }
 .lore-entry__body li { margin-bottom: var(--spacing-xs); }
 .lore-entry__body strong { color: var(--color-text); }
+/* Standalone pages written as plain HTML straight into <main> (About,
+   Official Editions, Forking, the Church Space FAQ). The reset at the top
+   strips their headings, paragraphs and lists of all spacing, and they have
+   no body class of their own, so they get the lore body's rhythm and the
+   intro's measure here, and a tighter line-height so a long question set as
+   a heading does not fill half a phone screen. Classed elements keep their
+   own rules. (2026-11-21) */
+.main-content > h2:not([class]) {
+  font-size: 1.3rem;
+  line-height: 1.35;
+  max-width: var(--measure-ui);
+  margin: var(--spacing-xl) 0 var(--spacing-md);
+}
+.main-content > h3:not([class]) {
+  font-size: 1.05rem;
+  line-height: 1.35;
+  max-width: var(--measure-ui);
+  margin: var(--spacing-lg) 0 var(--spacing-sm);
+}
+.main-content > p:not([class]) {
+  max-width: var(--measure-ui);
+  margin-bottom: var(--spacing-md);
+}
+.main-content > ul:not([class]),
+.main-content > ol:not([class]) {
+  max-width: var(--measure-ui);
+  padding-left: var(--spacing-lg);
+  margin-bottom: var(--spacing-md);
+}
+.main-content > ul:not([class]) > li,
+.main-content > ol:not([class]) > li { margin-bottom: var(--spacing-xs); }
 
 /* Technical diagrams on lore pages: hand-written inline SVG in the body
    (story-bible/images.md, "Diagrams on technical lore pages", 29 Sept 2026).
