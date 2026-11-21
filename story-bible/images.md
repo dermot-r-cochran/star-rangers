@@ -30,6 +30,18 @@ line there when something here becomes a decision rather than a task.
 | `image_alt` | must describe what the file *actually shows* |
 | Technical lore diagrams | **inline SVG in the page body**, drawn to the entry's own numbers (see below) |
 
+**His photographs may be altered without limit here** (Dermot, 21 November 2026,
+verbatim: *"There is no limit as to how much you may edit, manipulate or alter one
+of my original photographs when using it for star-rangers site of any repo except
+my main photography site."*). This widens the photo-first order below: a frame of
+his used in this repository may be edited, extended, composited into or
+regenerated in part, by hand or with `scripts/image-edit.js`, as far as the
+picture needs, and the cleanest method wins. The earlier practice of healing his
+plates only by cloning from the same frame is lifted. His photography site
+(dermotcochran.com) keeps its own rules, own work only and nothing generated, and
+an altered frame never returns to it or to a competition. Every edit is still
+recorded under the image's entry and judged by the image critic.
+
 **Finish: a generated photograph is finished toward Dermot's own** (Dermot,
 7 October 2026, verbatim: *"the base image generator has inherent limitations
 regardless of the prompt itself so post-processing is needed or some way to
