@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Changed
+
+- **Rutger Voss's face in S00E02C01's picture** (2026-11-21, Opus, `story-bible/images.md`). He read stern and younger than his portrait against a chapter where he is courteous and plain; his head alone was re-made toward the portrait, level and attentive, and pasted back into the filed frame.
+
 ### Fixed
 
 - **Spacing on the plain-HTML pages** (`src/css/main.css`, themes regenerated, 2026-11-21, Opus). About, Licence, Official Editions, Forking, Tiers, Story Engine and the Church Space FAQ wrote their headings, paragraphs and lists straight into the page, where the stylesheet's reset left them no spacing: on the FAQ each question ran straight on from the previous answer, and answers ran the full 1024 px. They now get the lore body's spacing, the intro's measure and a tighter heading line-height.
