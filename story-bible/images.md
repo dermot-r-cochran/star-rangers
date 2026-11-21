@@ -71,6 +71,30 @@ when filed. `node scripts/tag-provenance.js <file> --read` shows what a file
 carries. This applies to images and clips filed or re-filed from 21 November
 2026; files already filed are not tagged in a retro pass unless he asks.
 
+**The provenance list** (Dermot, 21 November 2026, verbatim: *"Add the list
+too"*, choosing a list over re-tagging 815 existing files, which would have
+doubled the repository's history). `src/_data/provenance.json` has one entry
+per image and clip under `src/images/` and `src/video/`: its `source`
+(`photograph`, `edited-ai`, `composite-ai`, `generated`, `composite`, `card`,
+`third-party` or `unrecorded`), the IPTC code where one applies
+(`digitalCapture` for his frames), the `tool` where recorded, a `record`
+pointer and whether the file is `tagged`. It was built from the record, never
+by eye: this file, `image-prompts.md`, `video-prompts.md`,
+`src/video/README.md`, the changelog and the commits that wrote each file. A
+frame of his healed by hand from the same frame stays a `photograph`, as
+above; files from the July 2026 Adobe Stock commits are `third-party`. Where
+the record does not settle a file it says `unrecorded` (eighteen on 21
+November 2026, most of them the 22 September audit's open worklist), and
+those are his to answer. The list is kept current by the tools: every
+`tag-provenance.js` run on a file under `src/` upserts its entry, and
+`import-image.ps1 -Provenance photograph` (or `none`) lists his own frame
+without tagging it. `scripts/check-provenance-list.js`, in `npm test`, fails
+on a file without an entry, an entry without a file, a code that does not
+match its source and a new `unrecorded`, and warns on the eighteen. No
+image or clip was changed to build it; the one picture filed
+that day before the tool existed, `chapters/s00e02c01.jpg` (§ 53, Voss's face),
+was tagged `generated`.
+
 **Finish: a generated photograph is finished toward Dermot's own** (Dermot,
 7 October 2026, verbatim: *"the base image generator has inherent limitations
 regardless of the prompt itself so post-processing is needed or some way to

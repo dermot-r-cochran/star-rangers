@@ -159,3 +159,84 @@ test("MP4: the smallest real clip, copied to a temp dir, keeps its media byte ra
 test("other formats are skipped, not written", () => {
   assert.equal(tp.tagBuffer(Buffer.from("GIF89a...."), { source: "generated" }), null);
 });
+
+// ---- the provenance list (src/_data/provenance.json) --------------------------
+
+const { execFileSync } = require("child_process");
+const checkList = require("../scripts/check-provenance-list");
+
+// A throwaway repo: src/_data/provenance.json and one JPEG under src/images/.
+function tempRepo(entries = []) {
+  const repo = fs.mkdtempSync(path.join(os.tmpdir(), "prov-list-"));
+  fs.mkdirSync(path.join(repo, "src", "_data"), { recursive: true });
+  fs.mkdirSync(path.join(repo, "src", "images", "lore"), { recursive: true });
+  fs.writeFileSync(path.join(repo, "src", "images", "lore", "x.jpg"), TINY_JPEG);
+  const listPath = path.join(repo, "src", "_data", "provenance.json");
+  tp.writeList({ about: "test", entries }, listPath);
+  return { repo, listPath, file: path.join(repo, "src", "images", "lore", "x.jpg") };
+}
+
+const SCRIPT = path.join(__dirname, "..", "scripts", "tag-provenance.js");
+
+test("list: tagging a file under src/images upserts its entry, tagged true", () => {
+  const { repo, listPath, file } = tempRepo();
+  execFileSync(process.execPath, [SCRIPT, file, "--source", "generated", "--tool", "Gemini", "--record", "images.md § 1", "--list", listPath]);
+  let e = tp.readList(listPath).entries;
+  assert.equal(e.length, 1);
+  assert.equal(e[0].path, "src/images/lore/x.jpg");
+  assert.equal(e[0].source, "generated");
+  assert.equal(e[0].iptc, "trainedAlgorithmicMedia");
+  assert.equal(e[0].tool, "Gemini");
+  assert.equal(e[0].record, "images.md § 1");
+  assert.equal(e[0].tagged, true);
+  // A second tag updates the same entry; the record pointer is kept.
+  execFileSync(process.execPath, [SCRIPT, file, "--source", "edited-ai", "--list", listPath]);
+  e = tp.readList(listPath).entries;
+  assert.equal(e.length, 1);
+  assert.equal(e[0].source, "edited-ai");
+  assert.equal(e[0].iptc, "compositeWithTrainedAlgorithmicMedia");
+  assert.equal(e[0].record, "images.md § 1");
+  assert.deepEqual(checkList.check(repo, listPath).errors, []);
+  fs.rmSync(repo, { recursive: true, force: true });
+});
+
+test("list: --source photograph records the entry and writes no XMP", () => {
+  const { repo, listPath, file } = tempRepo();
+  execFileSync(process.execPath, [SCRIPT, file, "--source", "photograph", "--list", listPath]);
+  assert.ok(fs.readFileSync(file).equals(TINY_JPEG), "a photograph was written to");
+  const [e] = tp.readList(listPath).entries;
+  assert.equal(e.source, "photograph");
+  assert.equal(e.iptc, "digitalCapture");
+  assert.equal(e.tagged, false);
+  fs.rmSync(repo, { recursive: true, force: true });
+});
+
+test("list: a file outside src/images and src/video is never listed", () => {
+  const { repo, listPath } = tempRepo();
+  const out = path.join(repo, "take.jpg");
+  fs.writeFileSync(out, TINY_JPEG);
+  execFileSync(process.execPath, [SCRIPT, out, "--source", "generated", "--list", listPath]);
+  assert.equal(tp.readList(listPath).entries.length, 0);
+  fs.rmSync(repo, { recursive: true, force: true });
+});
+
+test("check: a missing entry, a stale entry, a wrong code and a new unrecorded all fail", () => {
+  let t = tempRepo();
+  assert.match(checkList.check(t.repo, t.listPath).errors.join("\n"), /lore\/x\.jpg: no entry/);
+  fs.rmSync(t.repo, { recursive: true, force: true });
+
+  t = tempRepo([{ path: "src/images/lore/gone.jpg", source: "card", iptc: "digitalCreation" },
+    { path: "src/images/lore/x.jpg", source: "card", iptc: "trainedAlgorithmicMedia" }]);
+  const errs = checkList.check(t.repo, t.listPath).errors.join("\n");
+  assert.match(errs, /gone\.jpg: listed, but no such file/);
+  assert.match(errs, /x\.jpg: iptc "trainedAlgorithmicMedia" does not match/);
+  fs.rmSync(t.repo, { recursive: true, force: true });
+
+  t = tempRepo([{ path: "src/images/lore/x.jpg", source: "unrecorded", iptc: null }]);
+  assert.match(checkList.check(t.repo, t.listPath).errors.join("\n"), /only for files the record could not settle/);
+  fs.rmSync(t.repo, { recursive: true, force: true });
+
+  t = tempRepo([{ path: "src/images/lore/x.jpg", source: "generated", iptc: "trainedAlgorithmicMedia", tagged: true }]);
+  assert.match(checkList.check(t.repo, t.listPath).errors.join("\n"), /tagged: true, but the file carries no XMP/);
+  fs.rmSync(t.repo, { recursive: true, force: true });
+});

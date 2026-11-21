@@ -36,6 +36,10 @@
 # own plates, cards), with a reminder to pass the right value for a card or an
 # edited plate. A take from image-edit.js that altered his frame is edited-ai,
 # not the default. Why: story-bible/images.md, "Provenance in the file".
+# Every value also records the file in the provenance list
+# (src/_data/provenance.json): a tag upserts its entry, and -Provenance
+# photograph (or none, the same thing) lists his own frame as a photograph
+# without writing any XMP. Why: images.md, "The provenance list".
 
 param(
   [Parameter(Mandatory = $true)][string]$In,
@@ -43,8 +47,8 @@ param(
   [int]$MaxEdge = 0,          # 0 = leave dimensions alone
   [int]$Quality = 85,
   [int]$Finish = 1,           # 0 = none (cards, plates), 1 = measured match (default), 2 = imperfect camera
-  [ValidateSet('', 'generated', 'composite-ai', 'edited-ai', 'composite', 'card', 'none')]
-  [string]$Provenance = ''    # '' = generated when -Finish > 0, none at -Finish 0
+  [ValidateSet('', 'generated', 'composite-ai', 'edited-ai', 'composite', 'card', 'photograph', 'none')]
+  [string]$Provenance = ''    # '' = generated when -Finish > 0, none at -Finish 0; none = photograph (listed, not tagged)
 )
 
 Add-Type -AssemblyName System.Drawing
@@ -60,13 +64,14 @@ if (-not $Provenance) {
   if ($Finish -gt 0) { $Provenance = 'generated' }
   else {
     $Provenance = 'none'
-    Write-Output "Provenance: none (his own plate). For a card pass -Provenance card; for a plate altered by a generative tool, -Provenance edited-ai; by hand from other frames, -Provenance composite."
+    Write-Output "Provenance: none (his own plate; listed as a photograph, no tag). For a card pass -Provenance card; for a plate altered by a generative tool, -Provenance edited-ai; by hand from other frames, -Provenance composite."
   }
 }
+if ($Provenance -eq 'none') { $Provenance = 'photograph' }
 
-# Tags the written file last; a failure warns and never fails the import.
+# Tags the written file last and records it in src/_data/provenance.json
+# (photograph: listed only, no XMP); a failure warns and never fails the import.
 function Set-Provenance([string]$File) {
-  if ($Provenance -eq 'none') { return }
   $node = Get-Command node -ErrorAction SilentlyContinue
   $tagScript = Join-Path $PSScriptRoot "tag-provenance.js"
   if (-not $node -or -not (Test-Path $tagScript)) {

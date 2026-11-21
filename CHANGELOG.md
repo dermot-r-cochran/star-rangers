@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+
+- **A provenance list for every image and clip** (`src/_data/provenance.json`, `scripts/tag-provenance.js`, `scripts/import-image.ps1`, `scripts/check-provenance-list.js`, `story-bible/images.md`, CLAUDE.md, 2026-11-21, Opus, at Dermot's *"Add the list too"*). All 816 files under `src/images/` and `src/video/` are listed as photograph, AI-edited, generated, composite, card, third-party or unrecorded, from the record rather than by eye; the files are untouched. Tagging now updates the list, `npm test` fails on an unlisted file, and S00E02C01's picture is tagged `generated`.
+
 ### Changed
 
 - **Rutger Voss's face in S00E02C01's picture** (2026-11-21, Opus, `story-bible/images.md`). He read stern and younger than his portrait against a chapter where he is courteous and plain; his head alone was re-made toward the portrait, level and attentive, and pasted back into the filed frame.

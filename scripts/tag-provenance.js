@@ -40,6 +40,16 @@
 //
 // Re-encoding drops all of this: GDI+ and Pillow write fresh files, so tag
 // after the last write (import-image.ps1 does).
+//
+// THE PROVENANCE LIST (src/_data/provenance.json, since 21 November 2026).
+// Tagging a file under src/images/ or src/video/ also upserts its entry in the
+// list (source, IPTC code, tool, note, tagged: true), so the list and the file
+// say the same thing. Files filed before the ruling are in the list and not
+// re-tagged (Dermot: "Add the list too"). --source photograph writes no XMP
+// (his own frame takes no tag) and only records the entry; import-image.ps1
+// uses it for -Provenance photograph and none. --record "..." sets the
+// entry's pointer to its record; --no-list skips the list. Checked by
+// scripts/check-provenance-list.js in npm test.
 
 'use strict';
 
@@ -331,15 +341,81 @@ function rightsApply(file) {
   return /\/src\/(images|video)\//.test(rel);
 }
 
+// ---- the provenance list ----------------------------------------------------
+
+const REPO = path.join(__dirname, '..');
+const LIST_PATH = path.join(REPO, 'src', '_data', 'provenance.json');
+const LISTED_EXT = /\.(jpe?g|png|webp|svg|mp4)$/i;
+// Every source the list knows, and its IPTC code where one applies.
+const LIST_SOURCES = {
+  photograph: 'digitalCapture',
+  'edited-ai': CODES['edited-ai'],
+  'composite-ai': CODES['composite-ai'],
+  generated: CODES.generated,
+  composite: CODES.composite,
+  card: CODES.card,
+  'third-party': null,
+  unrecorded: null,
+};
+
+// The list's key for a file: its path from the repository root, if it lives
+// under src/images/ or src/video/ with a listed extension; else null.
+function listPathFor(file, repo = REPO) {
+  const rel = path.relative(repo, path.resolve(file)).split(path.sep).join('/');
+  return /^src\/(images|video)\//.test(rel) && LISTED_EXT.test(rel) ? rel : null;
+}
+
+function readList(listPath = LIST_PATH) {
+  return JSON.parse(fs.readFileSync(listPath, 'utf8'));
+}
+
+// One entry per line, sorted by path, so a change is a one-line diff.
+function serialiseList(list) {
+  const entries = [...list.entries].sort((a, b) => (a.path < b.path ? -1 : a.path > b.path ? 1 : 0));
+  const head = { ...list };
+  delete head.entries;
+  const headJson = JSON.stringify(head, null, 2);
+  const body = entries.map((e) => `    ${JSON.stringify(e)}`).join(',\n');
+  return `${headJson.slice(0, -2)},\n  "entries": [\n${body}\n  ]\n}\n`;
+}
+
+function writeList(list, listPath = LIST_PATH) {
+  fs.writeFileSync(listPath, serialiseList(list));
+}
+
+// Inserts or updates one entry. Fields left undefined keep what the entry had.
+function upsertEntry(list, rel, fields, today = new Date().toISOString().slice(0, 10)) {
+  if (!(fields.source in LIST_SOURCES)) throw new Error(`unknown source ${fields.source}`);
+  let e = list.entries.find((x) => x.path === rel);
+  if (!e) { e = { path: rel }; list.entries.push(e); }
+  for (const [k, v] of Object.entries(fields)) if (v !== undefined) e[k] = v;
+  e.iptc = LIST_SOURCES[e.source];
+  e.updated = today;
+  return e;
+}
+
+// The repository a list belongs to is two folders above it (src/_data/).
+function recordInList(file, fields, listPath = LIST_PATH) {
+  const rel = listPathFor(file, path.resolve(path.dirname(listPath), '..', '..'));
+  if (!rel || !fs.existsSync(listPath)) return null;
+  const list = readList(listPath);
+  const e = upsertEntry(list, rel, fields);
+  writeList(list, listPath);
+  return e;
+}
+
 function parseArgs(argv) {
-  const o = { files: [], rights: true };
+  const o = { files: [], rights: true, list: true };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === '--source') o.source = argv[++i];
     else if (a === '--note') o.note = argv[++i];
     else if (a === '--tool') o.tool = argv[++i];
+    else if (a === '--record') o.record = argv[++i];
+    else if (a === '--list') o.listPath = argv[++i];
     else if (a === '--read') o.read = true;
     else if (a === '--no-rights') o.rights = false;
+    else if (a === '--no-list') o.list = false;
     else if (a === '--help' || a === '-h') o.help = true;
     else o.files.push(a);
   }
@@ -348,9 +424,12 @@ function parseArgs(argv) {
 
 function main(argv) {
   const o = parseArgs(argv);
-  const usage = 'usage: node scripts/tag-provenance.js <file...> --source generated|composite-ai|edited-ai|composite|card [--note "..."] [--tool "..."] [--no-rights]\n'
+  const usage = 'usage: node scripts/tag-provenance.js <file...> --source generated|composite-ai|edited-ai|composite|card [--note "..."] [--tool "..."] [--record "..."] [--no-rights] [--no-list]\n'
+    + '       node scripts/tag-provenance.js <file...> --source photograph [--note "..."] [--record "..."]   (list only, no XMP)\n'
     + '       node scripts/tag-provenance.js <file...> --read';
-  if (o.help || !o.files.length || (!o.read && !CODES[o.source])) {
+  const listOnly = o.source === 'photograph';
+  const listPath = o.listPath || LIST_PATH;
+  if (o.help || !o.files.length || (!o.read && !listOnly && !CODES[o.source])) {
     console.log(usage);
     return o.help ? 0 : 1;
   }
@@ -366,10 +445,18 @@ function main(argv) {
         else for (const [k, v] of Object.entries(summarise(x))) if (v) console.log(`  ${k}: ${v}`);
         continue;
       }
+      if (listOnly) {
+        const e = o.list && recordInList(file, { source: 'photograph', tool: o.tool, note: o.note, record: o.record, tagged: false }, listPath);
+        console.log(`${file}: photograph, no tag written${e ? '; listed in the provenance list' : ''}`);
+        continue;
+      }
       const out = tagBuffer(buf, { ...o, rights: o.rights && rightsApply(file) });
       if (!out) { console.log(`${file}: skipped (not a JPEG, PNG or MP4; no tag written)`); continue; }
       fs.writeFileSync(file, out);
-      console.log(`${file}: tagged ${o.source} (${CODES[o.source]})`);
+      const e = o.list && recordInList(file, {
+        source: o.source, tool: o.tool || DEFAULT_TOOL, note: o.note || DEFAULT_NOTES[o.source], record: o.record, tagged: true,
+      }, listPath);
+      console.log(`${file}: tagged ${o.source} (${CODES[o.source]})${e ? '; listed in the provenance list' : ''}`);
     } catch (err) {
       console.error(`${file}: ${err.message}`);
       failed++;
@@ -378,6 +465,9 @@ function main(argv) {
   return failed ? 1 : 0;
 }
 
-module.exports = { CODES, CODE_BASE, buildXmp, tagBuffer, readXmp, summarise, kindOf, jpegSegments, mp4Boxes, rightsApply };
+module.exports = {
+  CODES, CODE_BASE, buildXmp, tagBuffer, readXmp, summarise, kindOf, jpegSegments, mp4Boxes, rightsApply,
+  LIST_PATH, LIST_SOURCES, LISTED_EXT, listPathFor, readList, serialiseList, writeList, upsertEntry, recordInList,
+};
 
 if (require.main === module) process.exitCode = main(process.argv.slice(2));
