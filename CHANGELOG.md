@@ -14,6 +14,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 - **Spacing on the plain-HTML pages** (`src/css/main.css`, themes regenerated, 2026-11-21, Opus). About, Licence, Official Editions, Forking, Tiers, Story Engine and the Church Space FAQ wrote their headings, paragraphs and lists straight into the page, where the stylesheet's reset left them no spacing: on the FAQ each question ran straight on from the previous answer, and answers ran the full 1024 px. They now get the lore body's spacing, the intro's measure and a tighter heading line-height.
 
+### Changed
+
+- **The Orbital Five-O banner's worker tidied** (2026-11-21, `src/images/hero/orbital-five-o.jpg`, `story-bible/images.md` § 91). After the fitting was healed out, her hand was left holding nothing and a faint post stayed under the ledge. One local AI edit, feathered in, rests her hand on the ledge and removes the post; nothing else in the frame changed.
+
 ### Added
 
 - **A banner for every thread** (2026-11-21, Opus with Fable prompts, `story-bible/images.md` § 91). The six thread pages without one now carry a banner, shared with each thread's first season page (Seasons 2, 4, 8, 9, 11 and 13): Five Islands and Church Space from his own Dalkey Island frames, Below the Roof a crop of S14E01C01's picture, and Undercover Pets, Young Star Rangers and Orbital Five-O generated.
