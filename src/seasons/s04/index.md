@@ -12,6 +12,7 @@ permalink: /seasons/s04/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/orbital-five-o.jpg" style="object-position: center 35%" alt="A raven glides along a vast pale dock hall under curving ribs, above rounded grey tug hulls in their clamps; below, dock workers in grey-blue tunics carry on with their work, some glancing up at her, and residents at the gallery rail look up openly." />
 <h1 class="page-title">Season 4</h1>
 <p class="page-intro">
   The Compact's five habitats each police themselves competently — and any offence organised to cross a habitat line is an offence none of them can finish. Season 4 follows Commander Kai Larsen's Orbital Five-O: the Governor's task force that works the seams between five perfect ledgers, in the open, raven included.

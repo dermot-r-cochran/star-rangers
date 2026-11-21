@@ -11,6 +11,7 @@ permalink: /threads/orbital-five-o/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/orbital-five-o.jpg" style="object-position: center 35%" alt="A raven glides along a vast pale dock hall under curving ribs, above rounded grey tug hulls in their clamps; below, dock workers in grey-blue tunics carry on with their work, some glancing up at her, and residents at the gallery rail look up openly." />
 <h1 class="page-title">Orbital Five-O</h1>
 <p class="page-intro">
   Commander <a href="/star-rangers/characters/kai-larsen/">Kai Larsen</a> resigned his Survey Corps commission over a jurisdictional wall the Rangers had no standing to cross. Governor <a href="/star-rangers/characters/petra-voss/">Petra Voss</a> hired him to take the wall down instead — commander of a standing task force answering to her directly, bypassing the <a href="/star-rangers/lore/orbital-habitats-compact/">Orbital Habitats Compact</a>'s slower consultative councils, covering all five member habitats. Everyone, including the Compact's own administration, calls it Orbital Five-O — the name does double duty, since it's also nobody's-subtle nod to a certain twentieth-century detective show set on a rather more terrestrial set of islands.

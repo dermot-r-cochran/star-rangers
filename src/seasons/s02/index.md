@@ -12,6 +12,7 @@ permalink: /seasons/s02/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/undercover-pets.jpg" style="object-position: center 40%" alt="A sleek black cat with amber eyes and a plain round tag on a dark collar lies along the top of a tall cream cabinet in a small rounded office, looking down at a desk where one thin grey leaf lies; through the wide window, farm terraces and small pale houses curve up into haze." />
 <h1 class="page-title">Season 2</h1>
 <p class="page-intro">
   Eden Space Habitat runs on paperwork, and the Undercover Pets Detective Agency reads it first. Season 2 opens on the office that reads that paperwork, then follows Agent Barsik, a cat, and Bubochka, a trainee rabbit, from the service tunnels of Eden to a crossing night on Drithane. There, a whole valley turns its lights down to watch the sky. Along the way they meet small warm creatures that nobody has a name for yet.

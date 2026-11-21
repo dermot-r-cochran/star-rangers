@@ -13,6 +13,7 @@ permalink: /seasons/s08/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/church-space.jpg" style="object-position: center 60%" alt="A small roofless church of grey stone with two tall gable ends, lichened orange at the tops, stands on a green headland over a grey sea; low rock islets lie offshore and a faint far shore runs along the horizon under a heavy grey sky." />
 <h1 class="page-title">Season 8</h1>
 <p class="page-intro">
   The same record, kept at a different hour. Season 8 is the Church Space storyline — the watchers the wider record files under other headings: keepers, vigils, and the discipline of attending to a small steady wrongness without requiring it to explain itself. The events are the events every other season shares; this is the reading kept beside them.

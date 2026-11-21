@@ -11,6 +11,7 @@ permalink: /threads/below-the-roof/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/below-the-roof.jpg" style="object-position: center 60%" alt="In a pale cavern passage one of the Told, heavy and shaggy grey, stands seen from behind with its head bent, beside a row of small stones laid across the silt floor; behind it a slope of broken pale rock rises into blue-green light, and an amber glow shows at the far left." />
 <h1 class="page-title">Below the Roof</h1>
 <p class="page-intro">
   <a href="/star-rangers/lore/planets/fliade/">Fliade</a> is a cold world whose life lives underground, and the deep networks belong to the Pandoids: a people who do not travel in space and keep their record by speaking it. Everything the survey holds about them was learned by watching. This thread is the other side of that: the deep from inside, in the warm fungus-light, from the people it belongs to.

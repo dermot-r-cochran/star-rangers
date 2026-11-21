@@ -12,6 +12,7 @@ permalink: /seasons/s09/
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/young-star-rangers.jpg" style="object-position: center 30%" alt="In a pale, curving corridor a young man in a linen shirt crouches beside a potted plant and a watering can, looking up at a Deputy in grey-brown service dress who stands at a closed hatch with one hand at its handle, looking down at him." />
 <h1 class="page-title">Season 9</h1>
 <p class="page-intro">
   The Corps from the bottom rung. Season 9 is the Young Star Rangers thread: a raw Deputy's first field posting under a Field Officer who has supervised fourteen of them, on the boundary watch that most civilians mean when they say a Star Ranger came.

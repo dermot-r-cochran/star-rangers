@@ -12,6 +12,7 @@ threadId: church-space
   </ol>
 </nav>
 
+<img class="page-hero-image" src="/star-rangers/images/hero/church-space.jpg" style="object-position: center 60%" alt="A small roofless church of grey stone with two tall gable ends, lichened orange at the tops, stands on a green headland over a grey sea; low rock islets lie offshore and a faint far shore runs along the horizon under a heavy grey sky." />
 <h1 class="page-title">Church Space</h1>
 <p class="page-intro">
   An optional overlay, not a separate story. Church Space reads the same reality every other edition of this site
