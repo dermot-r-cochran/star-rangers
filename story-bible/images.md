@@ -13641,3 +13641,34 @@ Dermot, 19 November 2026, verbatim: *"Yes, make it"*, for the chapter merged the
   References: `src/images/characters/tissadelle-shepherd.jpg` `src/images/chapters/s06e01c02.jpg` `src/images/chapters/s05e02c03.jpg`
 - **Takes 1 and 3:** whole figure small at the left of a long window; she reads, but too small for the band. **Take 4:** a full-height mullion splits the sea.
 - **Critic's ladder on take 2.** Thumbnail: a woman at a window over the sea; nothing reads as an animal or a stray face. The face holds against the header (shape, nose, jaw, freckles, eyes), and the tab shows three concentric rings beside the diamond. Century: the deep, frameless, round-cornered sealed pane and the bare composite room. **Passed and named:** the room is the frame's only hint of the century, and it could pass for a present-day ferry lounge; her face is a little smoother and younger than the header's; a glass edge stands behind her head; the finish could not bring the grain down (11.0 against the profile's 7.5) or the mids (175 against 109), since the frame is a bright overcast seascape.
+
+### 91. Thread banners — the six threads without one (planned 21 November 2026, Opus; nothing generated)
+
+**Why.** Dermot, 21 November 2026, asked *"Does each thread need an image?"* of the Five Islands page. The recommendation put to him was one banner per thread, shared with that thread's first season page, as Founding Era (`season-00-foundation.jpg`) and Tissadelle Arc (`tissadelle-arc.jpg`, § 90) already have. He answered, verbatim, *"Yes, plan six"*. Six of the eight thread pages have no banner, and neither do their seasons (2, 4, 8, 9, 10, 11, 12, 13, 14), so six frames cover six thread pages and six first-season pages.
+
+**The method for all six.**
+- The thread sets the palette and the subject sets the frame ("Episode heroes" above).
+- Each banner shows where the thread's weight sits, drawn from a landed chapter. It asserts nothing past that chapter.
+- Order of routes, photo-first: (1) one of his frames used as it is; (2) his frame as the plate with an element composited in; (3) generation with filed frames as references.
+- Size and finish: about 3:1, 1600 px wide, `object-position` set per frame, the finish profile as in § 90.
+- Checks: the image critic's ladder on every take; the child rule (no child as the subject); the twenty-ninth-century look for any made object; non-human bodies only from their filed portraits, and none invented.
+- On a season page, the season banner shows the thread's frame until that season has one of its own. A later season of a thread does not borrow it unless its index says so.
+- Model: prompts for places and objects are Opus's. A prompt where a person's or animal's presence carries the frame is Fable's (CLAUDE.md, *Which model does which work*).
+
+| Thread | Season page that shares it | Subject (chapter) | Route and source | Model |
+|---|---|---|---|---|
+| **Undercover Pets** (S2; warmer, higher key, animal eye-level) | `s02/` | Barsik on top of the records cabinet, reading the form upside down on its first day (S02E01C01): the agency's premise in one frame | (3), with `characters/agent-barsik.jpg` and `chapters/s02e01c01.jpg` as references. Route (1) first if his archive holds a cat on a high cabinet or shelf at eye level | Fable |
+| **Orbital Five-O** (S4, S10; brighter, procedural, busier) | `s04/` | The raven flying the ring under the gallery lights, the dock shift watching her and pretending not to (S10E01C06) | (2) if he has a corvid in flight frame of his own (search the index for raven, rook, jackdaw), set into the ring gallery of `chapters/s10e01c06.jpg`; otherwise (3) from that frame | Fable |
+| **Young Star Rangers** (S9) | `s09/` | The Deputy at the Field Officer's post on the fourth day, the plant and the watering can: *"You're the hatch."* (S09E01C02). Varn as `characters/iklix-varn.jpg` shows; the other is a young adult, seen in profile or from behind | (3), with `chapters/s09e01c02.jpg` and `characters/iklix-varn.jpg` as references | Fable |
+| **Below the Roof** (S11, S12, S14; children's tier) | `s11/` | The row of stones laid across the passage at the foot of the shelving, in amber light, with nobody in frame (S14E01C01; the line recurs in every season) | (1) or (2): his frame of a line of stones across sand or silt, a strandline or a causeway, graded amber. No Pandoid is drawn | Opus |
+| **The Infinite Castle and the Timeless Library** (S13; young adult) | `s13/` | The Kingdom from the sea: islands offshore and nothing made in sight, the reading's ground before any record of it | (1): his own island frames, searched first in `F:\129DALKY`, `F:\130DALKY`, `F:\109BULLI` and `F:\108IRLEY`; the S13 chapter plates (`F:\108I…`, `F:\130DUNLG\DSC_6941.JPG`) are the house look to match | Opus |
+| **Church Space** (S8; contemplative: quieter, negative space, light rather than event; tier-gated) | `s08/` | The hive stand at dusk with one lamp low in the lodge door (S08E01C01), wider and emptier than the chapter frame | (1): a sibling frame from the same `F:\129DALKY` outing as the chapter plate, or the plate itself recropped to the band | Opus |
+
+**Order of making.** The four photo-first frames (Five Islands, Church Space, Below the Roof, and Orbital Five-O if a corvid frame exists) come first: they cost no Fable quota and only a search of the archive index (`F:\CLAUDE\Photo Review\_index\f-thumbs-2026-09-25.csv`). The three Fable frames (Undercover Pets, Young Star Rangers, Orbital Five-O if generated) follow in one batch at the next Fable window, and are parked on the Waiting for Fable list until then.
+
+**Wiring.**
+- Each thread page gets its `page-hero-image` line, as `founding-era/index.md` and `tissadelle-arc/index.md` carry.
+- Each first-season index gets the same file until it has its own.
+- Church Space shows only on the contemplative editions. Its banner follows the page and needs no edition logic.
+
+**Open for him at filing.** His pick where more than one take or frame passes, as in § 90. Nothing in this plan changes a filed image.
