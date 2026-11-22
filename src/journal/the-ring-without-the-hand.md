@@ -50,5 +50,3 @@ Three differences matter, and each is deliberate.
 Take Sauron out of the Rings and remove the fire. Leave the pull, the borrowed purpose, the gift that is not a gift. What is left is close to the Unfounded: temptation with nobody behind it.
 
 I think that is a harder thing to write against than a dark lord. A dark lord can be defeated, and when he falls the story can end. Nothing like that ends here. Nobody can be overthrown, so there is no last battle to win. What the story has instead are the people in it, who notice when warmth fails to update, who decline without needing a reason, and who go on declining. This is why the Unfounded can be the only true villains in the story without anyone in it being a villain. The one villain is nobody. Everyone who stands against the story's people is somebody, misguided or misaligned and *for* something, and can still be answered.
-
-I owe Tolkien a great deal, as almost everyone who writes in this genre does. This entry is a measure of where the debt ends, not a complaint about it.
