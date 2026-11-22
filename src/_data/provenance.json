@@ -342,6 +342,7 @@
     {"path":"src/images/codex/flight-of-aldera-chronicle-of-dun-ri.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/hall-of-quiet-instruments-dialogue.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/hymn-of-the-thin-places.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
+    {"path":"src/images/codex/hyperfold-offering-memorandum.jpg","source":"card","tool":"scripts/make-codex-cover.ps1","note":"Designed codex title card, lettering set by script; no generator","tagged":true,"iptc":"digitalCreation","updated":"2026-11-22"},
     {"path":"src/images/codex/incident-report-001.jpg","source":"card","iptc":"digitalCreation","tool":"scripts/make-cards.js","record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/it-weighs-nothing.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/jehu-among-the-comparanda.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},

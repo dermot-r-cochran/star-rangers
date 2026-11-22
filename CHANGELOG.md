@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+
+- **Codex: *Offering Memorandum: The Threshold Programme*** (`src/codex/hyperfold-offering-memorandum.md`, 2026-11-22, at Dermot's *"Draft the prospectus"*). The Hyperfold Yield Combine's own offering to subscribers in late summer 2831, weeks before Dock Seven: its founding in 2822, its stated purpose, how it read Threshold Station's public drift reports as a boundary, its forty-year cost table, its counsel's opinion and its risk factors. It never says what the feedstock is and names no owner, under his ruling of the same day that the Combine's ownership stays unclaimed. With a title card, and a See also link from the Combine's lore page.
+
 ### Changed
 
 - **A clip queued for the Dryadic Trees page: the leaves answering late** (`story-bible/video-prompts.md`, `story-bible/images.md` § 93, 2026-11-22, Fable, at Dermot's *"Yes please"*). The trees' leaf phase-lag of 0.1 to 0.4 seconds is a motion the planned still of the grove cannot show. Clip AB is written into the video runbook before anything is generated: a fixed camera on the Marsh Causeway grove by day, nobody there, one breath of wind crossing the reeds and the leaves answering a moment behind it, with its judging line. It may run on Grok Imagine or Gemini Veo once the still it starts from is filed. No page or file under `src/` changes.
