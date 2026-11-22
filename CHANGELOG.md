@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Changed
+
+- **The twelve stock lore pictures: what replaces each, planned and written** (`story-bible/images.md` § 93, `story-bible/open-questions.md`, 2026-11-22, Fable, at Dermot's *"Yes, as recommended"*). The twelve Adobe Stock pictures still heading eighteen lore, glossary and timeline pages are to be replaced in one pass, as the last four stock banners were on 17 November. This is the first of two stages and changes no page and no image: three pictures have prompts in the image queue (Dock Seven's two chronometers for *Boundary Zones*, the inspection port and its lane for *Teleportation Constraints*, the Marsh Causeway grove by day for *Dryadic Trees*), nine pages have an emblem card planned with a line taken word for word from the page, and four of those also have a diagram planned from their own text. Generating, drawing and filing follow on the desktop.
+
 ## [1.76.0] — 2026-11-21
 
 Generated and altered images and clips now say so in the file, through an XMP source-type tag, and every image and clip has an entry in a new provenance list that `npm test` checks. Each thread without a banner gets one, the Orbital Five-O and Church Space banners are healed by hand, Rutger Voss's face in S00E02C01's picture is re-made, and the plain-HTML pages are re-spaced. The Codex recordings' tool is recorded, and several critic reads are ruled and applied.
