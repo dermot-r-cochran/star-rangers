@@ -14,7 +14,7 @@ related:
   - "Instrument Drift"
 tags: [universe-overlap, concordant, boundary, physics]
 image: "lore/universe-overlap-and-folding.jpg"
-image_alt: "A glowing sphere isolated on black: a turbulent red and magenta interior seen through a translucent shell, with bright cyan lines tracing irregular closed loops across it"
+image_alt: "Designed emblem card on a dark blue-black ground: the category Physics in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title Universe Overlap and Folding in pale serif capitals, with the line “Lawful geometry operations, not metaphysical exceptions”"
 ---
 
 **Universe Overlap** (pronounced: **YOO-nih-vurs OH-ver-lap**) is a temporary coupling state between two adjacent universes, arising where a flexure has narrowed the [Interval](/star-rangers/glossary/interval/) between their [membranes](/star-rangers/lore/concordant-membranes/) into coupling range. Two [Concordant Zones](/star-rangers/glossary/concordant/) of the same universe cannot overlap, because there is no Interval between them to narrow.

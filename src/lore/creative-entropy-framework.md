@@ -6,7 +6,7 @@ tags: [creative-entropy, cei, entropy-horizon, predictive-closure, auc, universe
 description: "Canon framework defining how novelty capacity rises, peaks, and closes in a universe, and how that behavior shapes AUC generation."
 plain: "The Creative Entropy Framework describes how a universe produces, circulates and finally runs out of novelty — new ideas, new forms, new unresolved futures. This is not the same as thermodynamic decay: a universe can stay physically active long after nothing truly new happens in it. Its measure is the Creative Entropy Index, CEI, which runs from high in a young universe to near zero past the Entropy Horizon, after which most outcomes are forecastable, a state called Predictive Closure. The AUC economy follows CEI: the more novelty contributed, the more cognition allocated."
 image: "creative-entropy-framework.jpg"
-image_alt: "A painted deep-space field: a soft white-pink glow at the top of the frame, dusty rose-red cloud banked at the lower left and deep blue-violet cloud at the lower right, with scattered stars and small cyan points between them."
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, a thin circle with twelve tick marks and a single hand in a soft glow at the centre, and below a short rule the title Creative Entropy Framework in pale serif capitals, with the line “How a universe produces, circulates, and finally exhausts novelty”"
 ---
 
 In a young universe, new songs, new theories, and new civic failures all arrive faster than anyone can catalogue them. In an old one, the shelves still fill, but almost nothing on them is truly new.
@@ -73,6 +73,37 @@ Typical lifecycle pattern:
 3. **Compression phase:** institutions and laws overfit past successful patterns.
 4. **Horizon approach:** novelty debt rises; closure events increase.
 5. **Post-horizon phase:** static administration, anomaly monitoring, archival continuity.
+
+<figure class="lore-diagram">
+<svg viewBox="0 0 640 294" role="img" aria-labelledby="cei-diagram-title cei-diagram-desc">
+<title id="cei-diagram-title">CEI across the five phases of a universe’s life</title>
+<desc id="cei-diagram-desc">One curve on two axes. The vertical axis is CEI, bounded between 0 and 1; the horizontal axis is epoch time, with no units. The curve rises steeply in the Ignition phase, stays high through Differentiation, falls through Compression, comes down to a dashed line, the stability floor, during the Horizon approach, and settles under it at the Entropy Horizon. Beyond, in the Post-horizon phase of Predictive Closure, it runs flat and low but above zero. The figure is schematic: the framework gives no value for the peak or the floor.</desc>
+<path class="line-t" d="M80 30 L80 230 L610 230"/>
+<text x="66" y="24" text-anchor="end">CEI</text>
+<text x="72" y="44" text-anchor="end" class="sm">1</text>
+<text x="72" y="234" text-anchor="end" class="sm">0</text>
+<path class="line-t" d="M76 40 L80 40"/>
+<text x="610" y="284" text-anchor="end" class="sm mute">epoch time</text>
+<path class="line-0 dash" d="M80 180 L610 180"/>
+<text x="610" y="174" text-anchor="end" class="sm mute">stability floor</text>
+<path class="line-1" d="M80 222 C83.3 218.3 92.5 217.0 100 200 C107.5 183.0 116.7 141.3 125 120 C133.3 98.7 141.7 81.7 150 72 C158.3 62.3 161.7 64.3 175 62 C188.3 59.7 211.7 57.3 230 58 C248.3 58.7 270.0 60.3 285 66 C300.0 71.7 307.5 80.5 320 92 C332.5 103.5 345.8 123.7 360 135 C374.2 146.3 391.7 154.2 405 160 C418.3 165.8 429.2 167.2 440 170 C450.8 172.8 461.7 174.7 470 177 C478.3 179.3 481.7 181.5 490 184 C498.3 186.5 508.3 190.0 520 192 C531.7 194.0 545.0 195.0 560 196 C575.0 197.0 601.7 197.7 610 198"/>
+<circle class="ring" cx="474" cy="179" r="4"/>
+<path class="line-0" d="M474 174 L474 128"/>
+<text x="474" y="122" text-anchor="middle" class="sm">Entropy Horizon</text>
+<path class="line-0" d="M170 230 L170 235"/>
+<path class="line-0" d="M290 230 L290 235"/>
+<path class="line-0" d="M410 230 L410 235"/>
+<path class="line-0" d="M490 230 L490 235"/>
+<text x="125" y="248" text-anchor="middle" class="sm">Ignition</text>
+<text x="230" y="248" text-anchor="middle" class="sm">Differentiation</text>
+<text x="350" y="248" text-anchor="middle" class="sm">Compression</text>
+<text x="450" y="248" text-anchor="middle" class="sm">Horizon approach</text>
+<text x="550" y="248" text-anchor="middle" class="sm">Post-horizon:</text>
+<text x="550" y="262" text-anchor="middle" class="sm">Predictive Closure</text>
+<text x="610" y="20" text-anchor="end" class="sm mute">schematic; the framework gives no value for the peak or the floor</text>
+</svg>
+<figcaption>The typical lifecycle pattern as a curve: novelty throughput rises, holds, falls, and settles below the stability floor at the Entropy Horizon. It thins toward zero and does not reach it; matter-energy processes go on after the horizon.</figcaption>
+</figure>
 
 ## CEI and Allocation Units of Cognition (AUC)
 

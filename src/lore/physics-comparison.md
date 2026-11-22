@@ -6,7 +6,7 @@ tags: [cosmology, physics, meaning-field, probability, entropy, consciousness, d
 description: "A structured hard-SF comparison of real-world physics against the layered physics of the Star Rangers fictional cosmos, grounded in the Five Layers and the full Cosmic Cascade hierarchy."
 plain: "The Star Rangers cosmos keeps real physics at its lower layers and changes the architecture above them. Within any Concordant, matter, causality, entropy and quantum randomness behave much as they do in the real universe; the difference is that the constants were chosen by Worldwrights, the laws are kept by Mediarchs, Celestials and Levrils, and a third, conceptual channel of information runs beside the quantum and thermodynamic ones. Probability can be nudged within strict bounds, entropy is slowed but not stopped, and minds couple lawfully to meaning-fields. None of it is magic. It is architecture."
 image: "physics-comparison.jpg"
-image_alt: "A rough circle traced in orange and white light trails against pure black, the strands tangling and doubling back on themselves with small sparks thrown off along their length, the ring left open on one side."
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three nested arcs, one above another in a soft glow at the centre, and below a short rule the title Physics Comparison: Real Cosmos vs. The Fictional Cosmos in pale serif capitals, with the line “No physics in this universe is supernatural”"
 ---
 
 A sensor at Threshold Station can report ordinary physics and impossible drift in the same hour. The contradiction is only apparent. The fictional cosmos keeps the familiar lower down and changes the architecture above it.

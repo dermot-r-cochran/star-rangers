@@ -6,7 +6,7 @@ tags: [worldwrights, hierarchy, cei, ufi, concordants, levrils, kaelor-virex, so
 description: "Contrasting Worldwright systems and their effects on novelty, stability, seed production, and in-universe governance load."
 plain: "Worldwrights build the primary universes, below the Archewrights who set what is possible and above the Concordants who keep creative entropy in balance. Two designs are compared. Kaelor Virex's Resonant Triad couples three universes so they keep generating novelty, at the price of frequent anomalies and heavy monitoring. Soryth Valen's Monocline holds one universe, Axiom-Prime, under strict constraint, giving stability and few shocks but little new thought. The dispute is philosophical as much as technical: whether a universe should favour possibility, with its hazards, or continuity, with its slow stagnation. The record leaves the question open."
 image: "competing-designs.jpg"
-image_alt: "A symmetrical diagram in cyan on black: concentric rings around a single small central dot, filled with radiating dashes and dotted arcs, and a regular grid of small cyan ellipses spaced across the corners of the frame."
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three nested arcs, one above another in a soft glow at the centre, and below a short rule the title Worldwright Design Philosophies in pale serif capitals, with the line “Should universes prioritize stability or possibility?”"
 ---
 
 # Worldwright Design Philosophies
@@ -158,23 +158,41 @@ Their dispute anchors an enduring question in Star Rangers cosmology:
 
 ## Optional Diagram
 
-```mermaid
-graph TD
-  A[Archewrights
-Define archetypes + possibility space] --> B[Worldwrights
-Instantiate primary universe sets]
-  B --> C1[Kaelor Virex
-RTS-9: Triad Coupling]
-  B --> C2[Soryth Valen
-MCS-1: Monocline]
-  C1 --> D1[High CEI
-Overlap Zones
-High UFI]
-  C2 --> D2[Low CEI Drift
-No Overlap
-Low UFI]
-  D1 --> E[Concordants
-High active balancing load]
-  D2 --> E2[Concordants
-Maintenance-heavy, lower volatility]
-```
+<figure class="lore-diagram">
+<svg viewBox="0 0 640 406" role="img" aria-labelledby="designs-diagram-title designs-diagram-desc">
+<title id="designs-diagram-title">Two Worldwright designs side by side</title>
+<desc id="designs-diagram-desc">At the top, Archewrights define archetypes and possibility space, with an arrow to the Worldwrights, who instantiate primary universe architectures, and from them an arrow to each of two designs. Left, Kaelor Virex’s Resonant Triad System (RTS-9): three circles of equal size, set apart, each joined to the other two by a short pair of lines, the controlled overlap zones. Its core profile: three interacting universes, high baseline CEI, controlled overlap zones, strong seed mind generation capacity. Right, Soryth Valen’s Monocline System (MCS-1): one circle, Axiom-Prime, joined to nothing. Its core profile: single primary universe, deterministic structure, entropy dampening, no overlap zones. Beneath each, the Concordants’ load: high active balancing for the triad; maintenance-heavy, lower volatility for the monocline.</desc>
+<rect class="box-2" x="150" y="14" width="340" height="28" rx="3"/>
+<text x="320" y="32" text-anchor="middle" class="sm">Archewrights: define archetypes and possibility space</text>
+<path class="line-t" d="M320.0 43.0 L320.0 56.0"/><path class="fill-t" d="M320.0 63.0 L323.5 56.0 L316.5 56.0 Z"/>
+<rect class="box-2" x="130" y="64" width="380" height="28" rx="3"/>
+<text x="320" y="82" text-anchor="middle" class="sm">Worldwrights: instantiate primary universe architectures</text>
+<path class="line-t" d="M290.0 93.0 L176.7 124.1"/><path class="fill-t" d="M170.0 126.0 L177.7 127.5 L175.8 120.8 Z"/>
+<path class="line-t" d="M350.0 93.0 L463.3 124.1"/><path class="fill-t" d="M470.0 126.0 L464.2 120.8 L462.3 127.5 Z"/>
+<text x="170" y="145" text-anchor="middle" class="sm">Kaelor Virex: Resonant Triad System (RTS-9)</text>
+<text x="470" y="145" text-anchor="middle" class="sm">Soryth Valen: Monocline System (MCS-1)</text>
+<circle class="line-1" cx="170" cy="173" r="24"/>
+<circle class="line-1" cx="118" cy="247" r="24"/>
+<circle class="line-1" cx="222" cy="247" r="24"/>
+<path class="line-0" d="M158.7 194.4 L134.3 229.1"/>
+<path class="line-0" d="M153.7 190.9 L129.3 225.6"/>
+<path class="line-0" d="M186.3 190.9 L210.7 225.6"/>
+<path class="line-0" d="M181.3 194.4 L205.7 229.1"/>
+<path class="line-0" d="M142.0 244.0 L198.0 244.0"/>
+<path class="line-0" d="M142.0 250.0 L198.0 250.0"/>
+<text x="170" y="289" text-anchor="middle" class="sm mute">controlled overlap zones</text>
+<circle class="line-1" cx="470" cy="215" r="24"/>
+<text x="470" y="259" text-anchor="middle" class="sm">Axiom-Prime</text>
+<text x="170" y="318" text-anchor="middle" class="sm">three interacting universes</text>
+<text x="470" y="318" text-anchor="middle" class="sm">single primary universe</text>
+<text x="170" y="334" text-anchor="middle" class="sm">high baseline CEI</text>
+<text x="470" y="334" text-anchor="middle" class="sm">deterministic structure</text>
+<text x="170" y="350" text-anchor="middle" class="sm">controlled overlap zones</text>
+<text x="470" y="350" text-anchor="middle" class="sm">entropy dampening</text>
+<text x="170" y="366" text-anchor="middle" class="sm">strong seed mind generation capacity</text>
+<text x="470" y="366" text-anchor="middle" class="sm">no overlap zones</text>
+<text x="170" y="390" text-anchor="middle" class="sm mute">Concordants: high active balancing load</text>
+<text x="470" y="390" text-anchor="middle" class="sm mute">Concordants: maintenance-heavy, lower volatility</text>
+</svg>
+<figcaption>The two designs this page compares, each with its Core Profile. In the triad each universe remains distinct; the lines between them are the overlap zones, not a merging. Neither design is drawn as the better one.</figcaption>
+</figure>

@@ -6,8 +6,8 @@ category: "Flora"
 tags: [dryadic-trees, flora, class-ii, meta-dimensional, etheric, boundary, anchor-points, sapient-monsters]
 description: "Dryadic trees are organisms whose root systems extend into the Etheric layer, making them natural anchor points exploited by Class II meta-dimensional beings as stable footholds in Material space."
 plain: "Dryadic trees grow where Etheric fault lines meet the ground near boundary sites, and their roots reach into the Etheric layer as well as the soil. They are long-lived, with pale bark and leaves that move a fraction of a second behind the wind. Because they are permanent anchors, Class II meta-dimensional predators can hold on to them, and such an entity cannot be removed by stabilising the boundary alone: the root coupling itself must be broken. The 'Dryad' figures sometimes seen at these groves are neither the trees nor beings with bodies but projections, found only where the Harmonic Membrane runs close."
-image: "dryadic-trees.jpg"
-image_alt: "A macro photograph of pale grey-green cup lichen growing along the split edge of a weathered piece of dead wood, its tiny stalks opening into shallow cups like miniature trumpets, against a soft green blur of woodland."
+image: "dryadic-grove-by-day.jpg"
+image_alt: "Seven old trees with bone-white bark standing close together on a low mound at the edge of a reed marsh under a grey sky, a few yellow leaves left on their twigs, their roots spread over the ground, a still pool in front reflecting the trunks and a low ring of old mossy stonework curving round them."
 ---
 
 At Marsh Causeway, the wind moves first and the leaves answer a heartbeat later. That slight delay is often the first sign that a dryadic grove is nearby.
