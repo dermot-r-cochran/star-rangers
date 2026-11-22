@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+
+- **Codex: *Offering Memorandum: The Threshold Programme*** (`src/codex/hyperfold-offering-memorandum.md`, 2026-11-22, at Dermot's *"Draft the prospectus"*). The Hyperfold Yield Combine's own offering to subscribers in late summer 2831, weeks before Dock Seven: its founding in 2822, its stated purpose, how it read Threshold Station's public drift reports as a boundary, its forty-year cost table, its counsel's opinion and its risk factors. It never says what the feedstock is and names no owner, under his ruling of the same day that the Combine's ownership stays unclaimed. With a title card, and a See also link from the Combine's lore page.
+
 ### Changed
 
 - **The twelve stock lore pictures: what replaces each, planned and written** (`story-bible/images.md` § 93, `story-bible/open-questions.md`, 2026-11-22, Fable, at Dermot's *"Yes, as recommended"*). The twelve Adobe Stock pictures still heading eighteen lore, glossary and timeline pages are to be replaced in one pass, as the last four stock banners were on 17 November. This is the first of two stages and changes no page and no image: three pictures have prompts in the image queue (Dock Seven's two chronometers for *Boundary Zones*, the inspection port and its lane for *Teleportation Constraints*, the Marsh Causeway grove by day for *Dryadic Trees*), nine pages have an emblem card planned with a line taken word for word from the page, and four of those also have a diagram planned from their own text. Generating, drawing and filing follow on the desktop.
