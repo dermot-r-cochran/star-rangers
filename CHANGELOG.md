@@ -9,6 +9,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 ### Added
 
 - **Codex: *Offering Memorandum: The Threshold Programme*** (`src/codex/hyperfold-offering-memorandum.md`, 2026-11-22, at Dermot's *"Draft the prospectus"*). The Hyperfold Yield Combine's own offering to subscribers in late summer 2831, weeks before Dock Seven: its founding in 2822, its stated purpose, how it read Threshold Station's public drift reports as a boundary, its forty-year cost table, its counsel's opinion and its risk factors. It never says what the feedstock is and names no owner, under his ruling of the same day that the Combine's ownership stays unclaimed. With a title card, and a See also link from the Combine's lore page.
+- **Made minds think where they are used; the orbital complexes narrowed by addition** (`src/lore/orbital-compute-complexes.md`, `src/lore/what-the-record-refuses.md`, 2026-11-22, Fable, at Dermot's *"Yes, keep them narrowed"*). A canon extension. The orbital compute complexes page gains a section, *What They Do Not Hold*, a Continuity Notes line and a closing clause on its summary: the complexes keep the shared archive, simulation, traffic and the queue for vault time, their resident intelligences are their own keepers, and the record's minds reason in the ship, habitat, instrument or robot they serve. *What the Record Refuses* gains the central oracle mind, refused outright, with its table row. The summary line is extended by that one clause; no other published sentence is altered.
 
 ### Changed
 
