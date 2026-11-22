@@ -15,7 +15,7 @@ related:
   - "Membrane Shadow"
 tags: [intermembrane-bleed, membrane-resonance, etheric, post-11-manifold, boundary-zone]
 image: "lore/concordant-membranes.jpg"
-image_alt: "A deep-space scene in blue and violet: one small brilliant white point of light near the centre, ringed by a faint halo, with luminous filaments streaming past it"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, two small rings joined by one curved line in a soft glow at the centre, and below a short rule the title Concordant Membranes and Intermembrane Bleed in pale serif capitals, with the line “Membranes are separated by the Interval”"
 ---
 
 **Intermembrane Bleed** is the Survey Corps' technical term for what boundary-zone workers used to just call "Etheric effects": the measurable intrusion of one universe's archetypal templates into an adjacent one, carried through the trans-concordant constraint field described in [The Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/).

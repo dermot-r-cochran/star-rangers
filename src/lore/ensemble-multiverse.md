@@ -6,7 +6,7 @@ tags: [grand-ensemble-multiverse, cosmology, dimensions, etheric, compact-dimens
 description: "The infinite collection of universes authored under the Cascade, and why our home universe's 3+7+1 dimensional structure is a local fact rather than a cosmic constant."
 plain: "The Grand Ensemble Multiverse is the whole collection of universes made under the Cosmic Cascade — every one a Worldwright authors and every one derived from those by overlap or folding. It is not one design repeated. Our home universe has three visible dimensions of space, seven compact ones and one of time, eleven in all, but that split is a local choice, not a law: other Worldwrights choose differently, and a different split means different particles and forces. The Five Layers hold everywhere regardless. The home universe has no name on the record: nothing outside is known to have named it, and the Archive has not needed one."
 image: "ensemble-multiverse.jpg"
-image_alt: "A close night-sky photograph of the Milky Way's core: dense blue and violet star fields crossed by pale luminous dust and darker lanes, filling the whole frame with no horizon in view."
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title The Grand Ensemble Multiverse in pale serif capitals, with the line “Not one design repeated infinitely”"
 ---
 
 Ask a Survey Corps physicist how many dimensions space has and they will ask which universe you mean. The question has an answer at home. It does not have the same answer everywhere.

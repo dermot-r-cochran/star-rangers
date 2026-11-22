@@ -16,7 +16,7 @@ related:
   - "Universe Overlap"
 tags: [ftl, quantum, harmonic, transit, archecluster]
 image: "lore/quantum-space-harmonics.jpg"
-image_alt: "Two transparent spheres side by side against a starfield, threaded with fine glowing filaments that knot together where the spheres touch"
+image_alt: "Designed emblem card on a dark blue-black ground: the category Physics in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Quantum Space Harmonics in pale serif capitals, with the line “A brief agreement between geometry, vessel, and destination”"
 ---
 
 **Quantum Space Harmonic Wave** (pronounced: **KWON-tum SPAYS har-MON-ik wayv**) is one of the two canonical faster-than-light channels in the Grand Ensemble Multiverse.

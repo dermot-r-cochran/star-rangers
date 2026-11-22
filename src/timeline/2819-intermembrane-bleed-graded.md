@@ -6,8 +6,8 @@ sort_order: 17
 era: "2800-2825"
 summary: "The Survey Corps names the coupling behind Etheric interference and grades it against the Boundary Types already used for drift: Membrane Resonance at Type II, Intermembrane Bleed at Type III. Every boundary zone on the books is fixed as a narrowing between universes."
 tags: [survey-corps, intermembrane-bleed, membrane-resonance, etheric, boundary, post-11-manifold, interval, cosmology, history]
-image: "lore/boundary-zones.jpg"
-image_alt: "A wide, highly saturated nebula: rust and orange cloud on the left, a white and pale-blue core around a single bright starburst in the centre, and teal, yellow and magenta banks on the right, with dark dust pillars standing against them and stars scattered throughout."
+image: "lore/boundary-zones-dock-seven.jpg"
+image_alt: "A plain cream dock wall with two shut doors, a large pressure seal on the left and a smaller hatch on the right, and the edge of a desk with one closed book along the bottom of the frame. Above each door, on a small bracket, an identical atomic clock: a glass cylinder holding a faint violet glow over a dark readout. The left one reads 03:10:01 and the right one 03:10:41."
 ---
 
 <article class="lore-entry">

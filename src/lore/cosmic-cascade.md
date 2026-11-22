@@ -6,7 +6,7 @@ tags: [cosmology, cascade, hierarchy, hyperomnium, kieme, conseleme, worldwright
 description: "The strict hierarchy of causal authority in the Grand Ensemble Multiverse, from Hyperomnium to Champions/Heroes."
 plain: "The Cosmic Cascade is the fixed ordering of causal authority in the Grand Ensemble Multiverse, from Hyperomnium at the top down through the design tiers, Worldwrights, Telearchs, Mediarchs and Celestials to Levrils and the Champions they choose. Causality runs downward and never reverses. The Cascade encodes no virtue or punishment, one contested exception aside, and allows no magic, no time travel and no direct appearance of anything above the Celestials; the higher strata reach the world through structure, design, avatars, Champions and prophets, never in person. The past is fixed and the future open. It is the framework the Archive files against, not a majority view."
 image: "cosmic-cascade.jpg"
-image_alt: "A night-sky photograph of the Milky Way, its band of violet star clouds and dark dust lanes running diagonally across the frame, thousands of individual stars resolved around it, a thin meteor streak at the upper left and a warm orange glow along the horizon at the bottom."
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three stacked chevrons pointing upward in a soft glow at the centre, and below a short rule the title The Cosmic Cascade in pale serif capitals, with the line “Ontological, not political”"
 ---
 
 When witnesses say a dragon changed fate, the archives ask a colder question first: *which tier acted, and under what constraint?* That question leads into the Cascade.
@@ -150,6 +150,75 @@ Neither exception weakens the one-way flow of causality. They describe how the l
 **Ranked within, and flat within.** Only two strata are graded inside themselves: the Celestials and the Levrils. Every other stratum differs within itself by domain or function, never by grade: Mediarchs by the force each embodies, the matrix's two branches by what each carries, the design strata by what each defines. So a question about which of two Mediarchs outranks the other has no answer, because it asks the wrong kind of question. Champions are not graded either: a Champion's standing is causal relevance, assessed by a Levril, not a rank held.
 
 **Graded, and of a lineage.** The two graded strata carry a second axis beside the grade, and it is the Mediarchs' axis carried down: each Celestial and each Levril holds its delegation from one Mediarch, and works in that Mediarch's force-domain. The record calls this its **lineage** (see *Celestials*, *Lineage*). Grade says how much is entrusted. Lineage says through which force. Because the Mediarchs are flat within, so are the lineages, and no lineage outranks another.
+
+<figure class="lore-diagram">
+<svg viewBox="0 0 640 540" role="img" aria-labelledby="cascade-diagram-title cascade-diagram-desc">
+<title id="cascade-diagram-title">The Cosmic Cascade: the spine and its two matrix exceptions</title>
+<desc id="cascade-diagram-desc">Boxes in rows from top to bottom, with arrows pointing down only. Hyperomnium, Kieme and Conseleme form the Upper Structure; a dashed line under Conseleme marks where number begins. Metawrights, Formwrights and Archewrights form the Design Structure. Under the Archewrights the chain splits into two peer boxes with no arrow between them: Worldwrights, the creation branch, and Telearchs, the continuity branch. Under the Worldwrights are the Universes with Concordants, with the Concordant Principals inside. The Mediarchs take one arrow from the Telearchs and one from the Universes with Concordants: co-created, they stand under both. Below them, in a single line, the Celestials (Frenar), the Levrils and the Champions / Heroes; only the Celestials and Levrils are graded within. A bracket on the right gives the three registers of time: eternal outright from the Upper Structure to the Archewrights, conceptual time from the Worldwrights and Telearchs to the Mediarchs, and Material time from the Celestials down.</desc>
+<rect class="box-2" x="215" y="30" width="170" height="26" rx="3"/>
+<text x="300" y="47.5" text-anchor="middle">Hyperomnium</text>
+<rect class="box-2" x="215" y="68" width="170" height="26" rx="3"/>
+<text x="300" y="85.5" text-anchor="middle">Kieme</text>
+<rect class="box-2" x="215" y="106" width="170" height="26" rx="3"/>
+<text x="300" y="123.5" text-anchor="middle">Conseleme</text>
+<rect class="box-2" x="215" y="144" width="170" height="26" rx="3"/>
+<text x="300" y="161.5" text-anchor="middle">Metawrights</text>
+<rect class="box-2" x="215" y="182" width="170" height="26" rx="3"/>
+<text x="300" y="199.5" text-anchor="middle">Formwrights</text>
+<rect class="box-2" x="215" y="220" width="170" height="26" rx="3"/>
+<text x="300" y="237.5" text-anchor="middle">Archewrights</text>
+<path class="line-0 dash" d="M40 138 L385 138"/>
+<text x="40" y="134" class="sm mute">number begins here</text>
+<path class="line-t" d="M300.0 57.0 L300.0 60.0"/><path class="fill-t" d="M300.0 67.0 L303.5 60.0 L296.5 60.0 Z"/>
+<path class="line-t" d="M300.0 95.0 L300.0 98.0"/><path class="fill-t" d="M300.0 105.0 L303.5 98.0 L296.5 98.0 Z"/>
+<path class="line-t" d="M300.0 171.0 L300.0 174.0"/><path class="fill-t" d="M300.0 181.0 L303.5 174.0 L296.5 174.0 Z"/>
+<path class="line-t" d="M300.0 209.0 L300.0 212.0"/><path class="fill-t" d="M300.0 219.0 L303.5 212.0 L296.5 212.0 Z"/>
+<path class="line-t" d="M300.0 133.0 L300.0 136.0"/><path class="fill-t" d="M300.0 143.0 L303.5 136.0 L296.5 136.0 Z"/>
+<rect class="box-1" x="150" y="266" width="140" height="36" rx="3"/>
+<text x="220" y="281" text-anchor="middle">Worldwrights</text>
+<text x="220" y="295" text-anchor="middle" class="sm mute">the creation branch</text>
+<rect class="box-1" x="330" y="266" width="130" height="36" rx="3"/>
+<text x="395" y="281" text-anchor="middle">Telearchs</text>
+<text x="395" y="295" text-anchor="middle" class="sm mute">the continuity branch</text>
+<path class="line-t" d="M280.0 247.0 L226.7 263.0"/><path class="fill-t" d="M220.0 265.0 L227.7 266.3 L225.7 259.6 Z"/>
+<path class="line-t" d="M320.0 247.0 L388.2 263.4"/><path class="fill-t" d="M395.0 265.0 L389.0 260.0 L387.4 266.8 Z"/>
+<rect class="box-1" x="130" y="318" width="180" height="36" rx="3"/>
+<text x="220" y="333" text-anchor="middle">Universes with Concordants</text>
+<text x="220" y="347" text-anchor="middle" class="sm mute">Concordant Principals inside</text>
+<path class="line-t" d="M220.0 303.0 L220.0 310.0"/><path class="fill-t" d="M220.0 317.0 L223.5 310.0 L216.5 310.0 Z"/>
+<rect class="box-1" x="215" y="380" width="170" height="26" rx="3"/>
+<text x="300" y="397.5" text-anchor="middle">Mediarchs</text>
+<path class="line-t" d="M220.0 355.0 L263.7 376.0"/><path class="fill-t" d="M270.0 379.0 L265.2 372.8 L262.2 379.1 Z"/>
+<path class="line-t" d="M395.0 303.0 L334.5 373.7"/><path class="fill-t" d="M330.0 379.0 L337.2 376.0 L331.9 371.4 Z"/>
+<text x="212" y="391" text-anchor="end" class="sm mute">co-created;</text>
+<text x="212" y="404" text-anchor="end" class="sm mute">stands under both</text>
+<rect class="box-1" x="215" y="418" width="170" height="26" rx="3"/>
+<text x="300" y="435.5" text-anchor="middle">Celestials (Frenar)</text>
+<path class="line-t" d="M300.0 407.0 L300.0 410.0"/><path class="fill-t" d="M300.0 417.0 L303.5 410.0 L296.5 410.0 Z"/>
+<circle class="ring" cx="203" cy="431" r="4"/>
+<text x="193" y="435" text-anchor="end" class="sm mute">graded within</text>
+<rect class="box-1" x="215" y="456" width="170" height="26" rx="3"/>
+<text x="300" y="473.5" text-anchor="middle">Levrils</text>
+<path class="line-t" d="M300.0 445.0 L300.0 448.0"/><path class="fill-t" d="M300.0 455.0 L303.5 448.0 L296.5 448.0 Z"/>
+<circle class="ring" cx="203" cy="469" r="4"/>
+<text x="193" y="473" text-anchor="end" class="sm mute">graded within</text>
+<rect class="box-1" x="215" y="494" width="170" height="26" rx="3"/>
+<text x="300" y="511.5" text-anchor="middle">Champions / Heroes</text>
+<path class="line-t" d="M300.0 483.0 L300.0 486.0"/><path class="fill-t" d="M300.0 493.0 L303.5 486.0 L296.5 486.0 Z"/>
+<path class="line-0" d="M206 30 L200 30 L200 132 L206 132"/>
+<text x="192" y="85" text-anchor="end" class="sm">Upper Structure</text>
+<path class="line-0" d="M206 144 L200 144 L200 246 L206 246"/>
+<text x="192" y="199" text-anchor="end" class="sm">Design Structure</text>
+<text x="486" y="18" class="sm mute">three registers of time</text>
+<path class="line-0" d="M472 30 L478 30 L478 246 L472 246"/>
+<text x="486" y="142" class="sm">eternal outright</text>
+<path class="line-0" d="M472 266 L478 266 L478 406 L472 406"/>
+<text x="486" y="340" class="sm">conceptual time</text>
+<path class="line-0" d="M472 418 L478 418 L478 520 L472 520"/>
+<text x="486" y="473" class="sm">Material time</text>
+</svg>
+<figcaption>The Cascade as the section above describes it: one direction of causality, two parallel branches under the Archewrights, and the Mediarchs co-created under both. The rows show order of derivation, not size or distance; nothing above the Celestials appears as itself, so no stratum is pictured.</figcaption>
+</figure>
 
 ## Upper Structure (Hyperomnium, Kieme, Conseleme)
 

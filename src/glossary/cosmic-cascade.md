@@ -17,7 +17,7 @@ related:
   - "Concordant"
 tags: [cosmic-cascade, hierarchy, cosmology, causality]
 image: "lore/cosmic-cascade.jpg"
-image_alt: "A night-sky photograph of the Milky Way, its band of violet star clouds and dark dust lanes running diagonally across the frame, thousands of individual stars resolved around it"
+image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three stacked chevrons pointing upward in a soft glow at the centre, and below a short rule the title The Cosmic Cascade in pale serif capitals, with the line “Ontological, not political”"
 ---
 
 The **Cosmic Cascade** is the fixed ordering of causal authority in the Grand Ensemble Multiverse. It is ontological, not political: a structural description of how causality resolves, not a claim about which tier is most virtuous.
