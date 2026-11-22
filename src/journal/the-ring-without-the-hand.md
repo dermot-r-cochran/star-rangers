@@ -6,7 +6,7 @@ description: "The Unfounded set beside J. R. R. Tolkien's Rings of Power and the
 tags: [craft, editorial, unfounded]
 image: "the-ring-without-the-hand.jpg"
 image_alt: "Tightly packed clusters of pale yellow fungi, wet and glossy, growing along and around a dark fallen branch on the woodland floor, with a cushion of bright green moss above them and rust-brown beech leaves scattered to the right"
-image_caption: "Yellow Clusters on a Fallen Branch, Massy's Wood, Dublin, 2024"
+image_caption: "Yellow Clusters on a Fallen Branch, Massy's Wood, Dublin, Ireland, 2024"
 ---
 
 *A statement of how the work is made, written for readers who study the writing. J. R. R. Tolkien's books and the television series* The Rings of Power*, which draws on them, are discussed below by name and not quoted. Where the series and the books differ in detail, this entry relies only on what they share.*

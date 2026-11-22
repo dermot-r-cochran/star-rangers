@@ -10858,6 +10858,7 @@ written to a page):
 | The Notebook Behind the Novel | `journal/the-notebook-behind-the-novel.jpg` | *Beech Leaves in Autumn*, Dublin, 2024 | every vein drawn, every stage kept |
 | The Parable and the Counterexample | `journal/the-parable-and-the-counterexample.jpg` | *A Single Mushroom*, Dublin, 2024 | one specimen and one strand of silk across it |
 | The Picture the Maths Was Invented to Replace | `journal/the-picture-the-maths-was-invented-to-replace.jpg` | *Two and a Half Seconds*, Dublin, 2026 | the picture that smears what it shows |
+| The Ring Without the Hand | `journal/the-ring-without-the-hand.jpg` | *Yellow Clusters on a Fallen Branch*, Dublin, 2024 | a fallen branch, for the glossary's deadwood figure (added with the entry, 22 November 2026, #2063) |
 | The Same Discipline at a Different Desk | `journal/the-same-discipline-at-a-different-desk.jpg` | *Groynes at Skagen*, Skagen, 2026 | engineering holding a shape that nature keeps |
 | The Third Debt Is Mine | `journal/the-third-debt-is-mine.jpg` | *Shags in the Surf*, Wexford, 2026 | three settled, one still in the water |
 | The Word the Record Does Not Use | `journal/the-word-the-record-does-not-use.jpg` | *The Portico at Farmleigh*, Dublin, 2025 | a door shown and not entered |
