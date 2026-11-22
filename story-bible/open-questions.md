@@ -7037,6 +7037,13 @@ meta-dimensional fauna*) and realized on the Combine and fold-transit pages.
 here means Dock Seven~~ — **both confirmed the same day, twelfth section:
 *Hypefold Combine and Dock 7 confirmed*.**
 
+## The Hyperfold Yield Combine's origins — `intake-2026-11-22.md` — one line open
+
+~~Whether an origin names who stood behind the Combine~~ — **ruled 22 November
+2026, verbatim *"Keep it unclaimed"*: no origin names its owners, and the page's
+two open points stay shut.** Open: whether to draft the investor prospectus (Codex,
+deferred since 29 July 2026) as the origin's vehicle.
+
 ## Vigil and the Gendarmerie, compared — `intake-2026-09-10.md`, second and third sections — nothing open; one marked absence (the *OPEN* label corrected 2 November 2026)
 
 Two comparisons at his ask, canon unmoved. Open from them:
