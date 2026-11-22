@@ -121,9 +121,9 @@ A Benevolent Critic read of the three pull requests merged after #2062: #2057, #
 
 ---
 
-## Edge reasoning as a general principle — `intake-2026-11-22.md`, 22 November 2026 — point 1 RULED the same day (*"Yes, keep them narrowed"*); points 2 and 3 OPEN, his
+## Edge reasoning as a general principle — `intake-2026-11-22.md`, 22 November 2026 — all three points RULED the same day: 1 *"Yes, keep them narrowed"*; 2 and 3 *"Yes, both"* (Sultans not named as the reason; a narrow boundary-zone reason for robust hardware)
 
-Dermot, verbatim: *"Edge AI as a general principle in my story, reducing reliance on data centers, LLMs, frontier models or advanced chips"*. Read as: made minds think where they are used, never in a central machine everyone consults, on hardware a settlement can make and mend. Open: (1) confirm the reading, keeping the orbital compute complexes with a narrowed role (archive, simulation, traffic, the quantum queue; not where minds live), recommended over retiring them; (2) whether the Twelve Sultans are named as the historical reason; (3) whether a boundary-zone reason for robust hardware is wanted. Page wording is Fable's once he rules; nothing in `src/` changes until then.
+Dermot, verbatim: *"Edge AI as a general principle in my story, reducing reliance on data centers, LLMs, frontier models or advanced chips"*. Read as: made minds think where they are used, never in a central machine everyone consults, on hardware a settlement can make and mend. Open: (1) confirm the reading, keeping the orbital compute complexes with a narrowed role (archive, simulation, traffic, the quantum queue; not where minds live), recommended over retiring them; (2) whether the Twelve Sultans are named as the historical reason; (3) whether a boundary-zone reason for robust hardware is wanted. Page wording is Fable's: *What They Do Not Hold* on `orbital-compute-complexes.md` (#2057, with the boundary-zone paragraph in #2064) and the central oracle entry on `what-the-record-refuses.md`.
 
 ---
 
