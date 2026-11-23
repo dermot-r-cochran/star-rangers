@@ -15,7 +15,7 @@ permalink: /seasons/s09/e04/
 
 <h1 class="page-title">Season 9 · Episode 4</h1>
 <p class="page-intro">
-  Summer, and for one shift the officer is away. A relieving Field Officer shakes hands, shuts the hatch to the seal, sits down and tells the Deputy kindly what everything means. It is the same watch and a different room, and a chair turns out to be a step too far from the desk. In the corridor, somebody who has never looked at the hatch finds that he knows how it sits at the hour, and that today it does not.
+  Summer, and for one shift the officer is away. A relieving Field Officer shakes hands, shuts the hatch to the seal, sits down and tells the Deputy kindly what everything means. It is the same watch and a different room, and a chair turns out to be a step too far from the desk. In the corridor, somebody who has looked at the hatch once in his life finds that he knows how it sits at the hour, and that today it does not.
 </p>
 
 {% set seasonNumber = "9" %}
