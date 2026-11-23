@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Changed
+
+- **Four open critic points ruled as recommended** (`CLAUDE.md`, `lib/plates.js`, `src/_data/provenance.json`, `src/images/lore/dryadic-grove-by-day.jpg`, `story-bible/`, 2026-11-23, Opus, at Dermot's *"As recommended"*). CLAUDE.md's Journal rule gains one line: a first-person sentence on what he owes, admires, has read or intended is checked against his recorded words. The fellowship Plates entry for *Dryadic Trees* keeps the grove by day. The grove's chapter frame and the day frame are listed `generated` by content, and the day frame's file tag is rewritten. The seventeen unrecorded files get a desktop matching pass first, not yet run.
+
 ## [1.77.0] — 2026-11-22
 
 The orbital compute complexes are narrowed by addition: made minds reason where they are used, the central oracle mind is refused, and hardware near a boundary zone runs coarser. Eleven of the twelve stock lore pictures are replaced with emblem cards, diagrams and two new frames. The Journal gains *The Ring Without the Hand*, the Codex the Hyperfold Yield Combine's offering memorandum, and a clip for the Dryadic Trees page is queued. Three critic reads are applied as small record fixes.
