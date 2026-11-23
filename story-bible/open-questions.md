@@ -145,7 +145,7 @@ Left open by the drafts, for later chapters to respect, none needing a ruling no
 3. **Season 9: when the Corps posts Varn on** is open; the finale says Varn will tell Noah the day it happens.
 4. **Season 13: the name** Wren climbs for stays unheard; the door stays open, and the instrument stays off both records.
 5. **Seasons 1, 2, 4, 5 and 8 stay open**, with no finale; the next episode of each is unwritten.
-6. **The 79 chapters have no picture**, so each is pending under the 15 November rule. The prompts are Fable's (Opus's where a frame is mostly physics), and generating them is a desktop step.
+6. **The 79 chapters have no picture yet.** Their prompts were written the same day (`images.md` §§ 94 to 108, Fable, reviewed by Opus; none needed a physics prompt); generating them is a desktop step. Each section's *Left for Dermot's eye* names the picture choices he has not seen, chiefly the first picture of the Serephine closed form (§ 99), Fliade's surface (§ 105) and the survey station's inside (§ 106).
 
 ---
 
