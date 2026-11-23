@@ -8,6 +8,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Changed
 
+- **The core theme recorded: truth is absolute; trust is built, and never finished** (`CLAUDE.md`, `story-bible/intake-2026-11-23.md`, 2026-11-23, Opus, at Dermot's *"Yes, land it"*). A clause at the head of the mystery family states his theme in his words and how it binds: truth never made relative, trust graded and revised between people as well as toward facts, the Archive itself an observer whose settled pages hold at their stated grade, and the theme shown, never stated. No page in `src/` changes.
 - **Four open critic points ruled as recommended** (`CLAUDE.md`, `lib/plates.js`, `src/_data/provenance.json`, `src/images/lore/dryadic-grove-by-day.jpg`, `story-bible/`, 2026-11-23, Opus, at Dermot's *"As recommended"*). CLAUDE.md's Journal rule gains one line: a first-person sentence on what he owes, admires, has read or intended is checked against his recorded words. The fellowship Plates entry for *Dryadic Trees* keeps the grove by day. The grove's chapter frame and the day frame are listed `generated` by content, and the day frame's file tag is rewritten. The seventeen unrecorded files get a desktop matching pass first, not yet run.
 
 ## [1.77.0] — 2026-11-22
