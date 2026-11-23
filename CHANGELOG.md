@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+## [1.78.0] — 2026-11-23
+
+The core theme is recorded: truth is absolute, and trust is built from partial evidence and never finished. Two clauses follow it: the villains are falsehood, never a person, and natural suffering in the present is minimal. Season 5 gains *At Its Ends*, Galen Kane's first viewpoint. The archecluster and Made Minds pages now agree with the Counterpane survey, the open questions are triaged, and four critic points are ruled as recommended.
+
 ### Added
 
 - **New chapter: *At Its Ends* (S05E00C03)** (`src/seasons/s05/e00/`, 2026-11-23, Fable, the weekly pass). Galen Kane's first viewpoint, and his answer to the letter Shepherd wrote him in *Not Asked*. Late winter 2830: a colony seats its first council, his mandate ends mid-ceremony, and he answers from the back of the hall without telling her when. At the post she reads her withdrawal bill and sends for the file of his four-month passage. The episode index, Kane's page, the gaps checklist (126 chapters), the intake and `open-questions.md` are updated. The chapter has no picture yet.
