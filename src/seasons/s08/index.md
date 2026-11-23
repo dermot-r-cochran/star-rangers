@@ -18,6 +18,9 @@ permalink: /seasons/s08/
 <p class="page-intro">
   The same record, kept at a different hour. Season 8 is the Church Space storyline — the watchers the wider record files under other headings: keepers, vigils, and the discipline of attending to a small steady wrongness without requiring it to explain itself. The events are the events every other season shares; this is the reading kept beside them.
 </p>
+<p class="page-intro">
+  Episodes 3 to 7 follow the Keeper of Cnoc na mBeach through a year: the uniting of a failed hive, a swarm on the day a cadet walks up the hill, the other house answering for a kind sentence that went down the hill without its weight, rendering week and the one thing the bees were never told, and a carrier who asks whether there is anything to go, when this time there is.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (8 | threadForSeason).id }}/">{{ (8 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "8" %}

@@ -26,6 +26,9 @@ permalink: /seasons/s04/
 <p class="page-intro">
   Episode 2 takes the unit's own limit from the other side. A bureau sends up the one crossing it cannot finish, five remainders resolve into the quarter's four words, and the sixth is a reading nobody can account for — which the structure above Five-O would happily take off its hands, if only the sentence that handed it over were true.
 </p>
+<p class="page-intro">
+  Episode 3 is what the blank cost: in the late winter of 2828 the reading nobody could account for turns up at the head of a sheet on two crew boards, with a different cause written over it on each. Episodes 4 to 6 run through 2828: at Antariksha the task force's letter is posted under a word the Commander did not write, and somebody takes it at its word; the Field Observer finds a seam in the task force's own year and files on it herself; and a year on, the reading turns up again in two small ledgers that had been carrying it all along.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (4 | threadForSeason).id }}/">{{ (4 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "4" %}

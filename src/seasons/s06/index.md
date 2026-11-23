@@ -19,6 +19,9 @@ permalink: /seasons/s06/
 <p class="page-intro">
   This is the aftermath season, and it spoils Season 5 by existing — read that first. Beyond the premise above, this page keeps the file shut: expect the series' questions about evidence and testimony turned up to their full weight, and the station's instruments registering exactly one thing more than the official report has room for.
 </p>
+<p class="page-intro">
+  Episode 0 is a side-light on the six days after Dock Seven, at the post she first commanded and at a Frontier Corps desk, where two officers are left with a notice that gives a place and a moment and stops. Episodes 3 to 6 alternate between the file and the hillside in the ninth week: an order audited from inside; a work order for a fault that is not one; a test that cannot tell a voice from the memory of it; and the High Captain flying the approach herself. Episode 7 is one day, when the inquiry closes.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (6 | threadForSeason).id }}/">{{ (6 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "6" %}

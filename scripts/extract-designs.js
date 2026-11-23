@@ -285,7 +285,7 @@ const DESIGNS = [
     id: "sufficient-cause", name: "Sufficient Cause", kind: "ship", sheet: null, principles: [],
     owner: { text: "the Star Rangers", quote: "off the Star Rangers vessel Sufficient Cause" },
     era: { text: "lost off Dock Seven, 2831 UCSD", quote: "2831 UCSD, Mid-Autumn" },
-    sources: [["src/codex/dock-seven-loss-adjustment.md", "off the Star Rangers vessel Sufficient Cause"], ["src/seasons/s05/e02/s05e02c03.md", "2831 UCSD, Mid-Autumn"]],
+    sources: [["src/codex/dock-seven-loss-adjustment.md", "off the Star Rangers vessel Sufficient Cause"], ["src/seasons/s05/e06/s05e06c03.md", "2831 UCSD, Mid-Autumn"]],
     images: [],
   },
   {

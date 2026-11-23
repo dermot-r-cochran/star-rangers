@@ -19,6 +19,9 @@ permalink: /seasons/s07/
 <p class="page-intro">
   The final published season, and the one this site works hardest not to spoil: read Seasons 5 and 6 first, and ideally Season 1 before those. Expect every register the series has used — procedural, testimonial, and something older — asked to hold together at once, and an ending that keeps the record's first promise: one history, many witnesses, and nobody's meaning assigned for them.
 </p>
+<p class="page-intro">
+  Episodes 2 to 7 stay on the station through the year after the account was sent: the Council answers with a receipt and one question; Rook-7 asks to be reconciled; a Cadet takes the Dock Seven reading alone; counsel comes back for the note she never got; the funeral is held and the afternoon watch begins on time; and a year on, one working day, a shift sheet and a form that wants a date close the season.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (7 | threadForSeason).id }}/">{{ (7 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "7" %}

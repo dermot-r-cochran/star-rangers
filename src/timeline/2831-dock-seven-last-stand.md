@@ -34,7 +34,7 @@ The Archive holds three irreconcilable accounts of what did it and adjudicates n
 - Evacuation from the boundary off Dock Seven was completed by shuttle and by contracted courier before the failure point; every person aboard survived, and the vessel itself was not recovered. Threshold Station logged Line Captain Shepherd's position at the failure point at the moment of closure.
 - Every material witness at Dock Seven recorded what answered the intrusion as dragons. Nothing in the Cascade has ever corrected the impression, and no Ranger present was told anything at all.
 
-See: [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/), and for the accounts filed beside the incident file, [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/) and [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/).
+See: [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/), and for the accounts filed beside the incident file, [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/) and [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/).
 
 </div>
 <footer class="lore-entry__footer">

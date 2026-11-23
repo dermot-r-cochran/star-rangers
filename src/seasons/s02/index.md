@@ -20,6 +20,9 @@ permalink: /seasons/s02/
 <p class="page-intro">
   This season stands on its own. You do not need to read anything else first. It is funny on the surface and careful underneath, and there is nothing in it a young reader should not meet. The shortest parts of each chapter are written for exactly that reader: the same events, told simply. Grown-ups reading along should know that the cat has already read their file.
 </p>
+<p class="page-intro">
+  Episode 12 is set in the winter: a row of nine doors on Deck 7 starts going dark for a sky it cannot see, and the rabbit finds out what the boy's calendar was for.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (2 | threadForSeason).id }}/">{{ (2 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "2" %}

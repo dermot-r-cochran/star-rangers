@@ -13,10 +13,9 @@ permalink: /seasons/s05/e02/
   </ol>
 </nav>
 
-<img class="page-hero-image" src="/star-rangers/images/hero/s05e02-hill-holding.jpg" style="object-position: center 70%" alt="Open upland pasture in September sun, divided by dry-stone walls and banks, with a gorse knoll and a flock of sheep scattered across the high fields; below it a band of broadleaf wood just turning gold, and at its foot a mown hill pasture where a low longhouse of weathered pale grey fieldstone stands on the rough grass: a seamless dark roof, an open door in the left-hand gable above a flat stone step, a small dark capsule in a recess high in the same gable, two deep windows in the long wall, a dark conduit under the eave, a low dry-stone yard wall at the far end, and a line of slim grey pale-capped posts along the edge of the pasture, with a conifer at the right" />
 <h1 class="page-title">Season 5 · Episode 2</h1>
 <p class="page-intro">
-  Line Captain Tissadelle Shepherd carries a data exchange to Tír na nÓg under the Celtic Union's standing agreement with the Survey Corps, then stays on for personal leave. The uniform comes off at the council house door. What she notices on her mother's hillside afterward does not. The survey she files on her return sends a hull to the Threshold approaches ten days later, and the episode ends where every chapter of the two seasons after it begins: at Dock Seven, looking back.
+  A side-light from the early summer of 2831, aboard the command ship <em>Fel Trohen</em>, before Shepherd has a line of her own. High Captain Wender reads a figure in a column, three laden hulls late into a corridor she has never seen, and writes the order a Chief Pilot would write. Her chief of staff brings it back across the deck unsent. What goes out instead says what the order is for and admits what its giver cannot see, and the reply, nine days later, is one nobody aboard could have written.
 </p>
 
 {% set seasonNumber = "5" %}

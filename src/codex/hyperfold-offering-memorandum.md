@@ -91,4 +91,4 @@ The Issuer's shares are held through registered holding instruments, as recorded
 
 ---
 
-*See also: [The Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/), [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/), [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/), and the chapter [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/).*
+*See also: [The Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/), [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/), [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/), and the chapter [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/).*

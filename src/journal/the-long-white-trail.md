@@ -35,7 +35,7 @@ The Codex was the closer call. The film is a first-person account by a named wom
 
 ## What it gets right
 
-Set the particulars aside, and the film understands the forty seconds better than its own facts do. Even its one borrowed date is right: the [Last Stand at Dock Seven](/star-rangers/seasons/s05/e02/s05e02c03/) is 2831 in the record, so *ten years after* is exactly 2841.
+Set the particulars aside, and the film understands the forty seconds better than its own facts do. Even its one borrowed date is right: the [Last Stand at Dock Seven](/star-rangers/seasons/s05/e06/s05e06c03/) is 2831 in the record, so *ten years after* is exactly 2841.
 
 Recalibration fails, and fails on a schedule: the clocks agree, hold, and drift home. That is the record's own finding. Threshold's discrepancy was *carried for most of that period as a calibration fault rather than a boundary reading*, and the lore says flatly that *recalibration alone cannot remove Type II drift*. The [night-watch addendum for Day 52](/star-rangers/codex/dock-seven-night-watch-addendum-day-52/) records the chronometers diverging by forty seconds again after a clean reset at the start of a shift.
 

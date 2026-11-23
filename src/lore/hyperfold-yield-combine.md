@@ -1,7 +1,7 @@
 ---
 layout: lore-entry.njk
 title: "The Hyperfold Yield Combine"
-revealed_by: s05e02c03
+revealed_by: s05e06c03
 category: "Factions"
 tags: [hyperfold, combine, dock-seven, commercial, fold-drive, boundary, class-iii, threshold-station, factions, defunct]
 description: "A licensed commercial concern that harvested boundary fauna for fold-transit stabiliser, and held an aperture open for four months to do it. Everything about it was lawful. It ended at Dock Seven in 2831, and the parts of it that are still unresolved are not the parts anybody expected."
@@ -62,7 +62,7 @@ The word appears nine times in the Combine's own licence application. Folding en
 
 ## Dock Seven
 
-The Combine's platform was destroyed on the day of the [loss at Dock Seven](/star-rangers/seasons/s05/e02/s05e02c03/), 2831 UCSD, along with every hull on its registry within some nine hundred thousand kilometres. There were no survivors from the platform, which stopped answering a channel in the first ten minutes and was never heard from again.
+The Combine's platform was destroyed on the day of the [loss at Dock Seven](/star-rangers/seasons/s05/e06/s05e06c03/), 2831 UCSD, along with every hull on its registry within some nine hundred thousand kilometres. There were no survivors from the platform, which stopped answering a channel in the first ten minutes and was never heard from again.
 
 The Archive holds three irreconcilable accounts of what did it, and does not adjudicate between them: [the Institute's](/star-rangers/lore/the-institute/), which reads the event as strain discharge from equipment that maintenance telemetry confirms was overused and out of calibration on at least three axes; the surviving witness record, which says dragons; and the Survey Archive's own, which holds that a perimeter was drawn around an unlawful process rather than around a party, and that everything outside it was not spared but simply not included.
 
@@ -80,4 +80,4 @@ Two things, and neither is the one people expect.
 
 The licence framework was not amended. The finding that would have required its amendment was never made, because the officer who was preparing to make one did not come back, and the file that would have carried it was closed as something else.
 
-See also: [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/), [Offering Memorandum: The Threshold Programme](/star-rangers/codex/hyperfold-offering-memorandum/), [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/), [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/), [The Institute](/star-rangers/lore/the-institute/), [Meta-Dimensional Beings](/star-rangers/lore/meta-dimensional-beings/), [Metafold](/star-rangers/glossary/metafold/).
+See also: [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/), [Offering Memorandum: The Threshold Programme](/star-rangers/codex/hyperfold-offering-memorandum/), [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/), [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/), [The Institute](/star-rangers/lore/the-institute/), [Meta-Dimensional Beings](/star-rangers/lore/meta-dimensional-beings/), [Metafold](/star-rangers/glossary/metafold/).

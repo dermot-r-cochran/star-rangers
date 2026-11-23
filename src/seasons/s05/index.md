@@ -20,6 +20,9 @@ permalink: /seasons/s05/
 <p class="page-intro">
   Command is the season's subject: the distance between signing an order and standing where it lands. Expect the fullest cast of the series so far, and an ending the rest of the record will spend a long time trying to file straight — which is all this page will say about it.
 </p>
+<p class="page-intro">
+  Episodes 2 to 5 sit in the summer and early autumn of 2831, before Dock Seven: a High Captain's best-written order comes back across her own deck unsent; Shepherd signs her first order for work she will not stand beside; the rule she left at Halyx is used for the first time, without her; and before she lands on Tír na nÓg, a sergeant reads an order on her mother's ground. Episode 6 is the season's last, and ends at Dock Seven.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (5 | threadForSeason).id }}/">{{ (5 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "5" %}

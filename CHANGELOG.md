@@ -12,9 +12,39 @@ The core theme is recorded: truth is absolute, and trust is built from partial e
 
 ### Added
 
+- **Every season brought to at least seven episodes, with a finale for each resolved season** (`src/seasons/`, 2026-11-23, Fable drafting, Opus review, at Dermot's *"A finale episode for each fully resolved and completed season, or a new episode for each season without a finale yet"* and *"At least 7 episodes per season"*). Seventy-nine new chapters across fifteen seasons, Episode 0 counted as an episode. Ten seasons gain a finale at Episode 7 (0, 3, 6, 7, 9, 10, 11, 12, 13, 14); Seasons 1, 2, 4, 5 and 8 gain new episodes and stay open. Opus's review of every draft, the calls it settled and the two it cut are recorded in the pull request. No chapter image yet; owed.
+
+- **Season 0, Episodes 4 to 7** (`src/seasons/s00/e04/` to `e07/`): *Counted*, *Not Examined*, *As Flown*, and the finale *One Word of Three* and *Whichever Tense Turned Out to Be True*, all in the last months of 2723. New viewpoint pages: [Jorun Madaki](/star-rangers/characters/jorun-madaki/), [Kirsi Lund](/star-rangers/characters/kirsi-lund/), [Mette Sarpong](/star-rangers/characters/mette-sarpong/).
+
+- **Season 1, Episodes 4 to 6** (`src/seasons/s01/e04/` to `e06/`): *The Third Response*, *A Receipt for It*, *What the File Wants* and *Rate as Previously Noted*, winter 2826 to spring 2827. The season stays open.
+
+- **Season 2, Episode 12** (`src/seasons/s02/e12/`): *In Case Eden Wanted One*, early winter 2827, a children's-tier case at a crossing.
+
+- **Season 3, Episodes 4 to 7** (`src/seasons/s03/e04/` to `e07/`): *The Carry*, *Statement of Use*, *On the Sill*, and the finale *No Further Action* (midwinter 2830). New viewpoint pages: [Lukas Akande](/star-rangers/characters/lukas-akande/), [Signe Tamura](/star-rangers/characters/signe-tamura/).
+
+- **Season 4, Episodes 3 to 6** (`src/seasons/s04/e03/` to `e06/`): *Unswept*, *The Other Column*, *In Every One of Them*, *Landing Short* and *Carried*, late winter to autumn 2828. The HC-2290 reading stays unaccounted for; the season stays open.
+
+- **Season 5, Episodes 2 to 5** (`src/seasons/s05/e02/` to `e05/`): *Returned to Its Terms*, *Assume Stable*, *Requiring Disposition* and *Before She Is Met*, summer to early autumn 2831, before Dock Seven.
+
+- **Season 6, Episodes 0 and 3 to 7** (`src/seasons/s06/`): *As It Stands* (the six days after Dock Seven), *Once More, to See Whether It Had Changed*, *No Mechanical Cause*, *Got It Twice*, *Approach Familiarisation*, and the finale *Matters Outstanding* (day 63). New viewpoint page: [Dorrit Hale](/star-rangers/characters/dorrit-hale/).
+
+- **Season 7, Episodes 2 to 7** (`src/seasons/s07/e02/` to `e07/`): *Placed on File*, *And Did You Look*, *Turn About*, *The Next Page*, *At the Change of Shift*, and the finale *What the Sheet Carries* and *Not One Tuesday Less* (deep winter 2832). All on the station's side; nothing at the terminus.
+
+- **Season 8, Episodes 3 to 7** (`src/seasons/s08/e03/` to `e07/`): *The Uniting*, *The Going Out*, *No Brighter*, *You're to Know It* and *Anything to Go*. Overlay only: no `canon_facts`. The season stays open.
+
+- **Season 9, Episodes 2 to 7** (`src/seasons/s09/e02/` to `e07/`): *What People Wear*, *The Sixth Day*, *A Hatch Shut*, *The One Who Never Asked*, *One Interval*, and the finale *The Door After the Hatch* and *The Light Way Round* (late autumn 2828).
+
+- **Season 10, Episodes 2 to 7** (`src/seasons/s10/e02/` to `e07/`): *Read Something*, *Not Felt*, *What the Date Is About*, *Left Sounding*, *Unless Otherwise Advised*, and the finale *Both Documents* and *Taken as Read*. [Tsikk](/star-rangers/characters/tsikk/)'s page gains what Tsikk made of Eden's mind.
+
+- **Seasons 11, 12 and 14, Episodes 3 to 7** (`src/seasons/s11/`, `s12/`, `s14/`): four middle episodes and a two-chapter finale for each Below the Roof season, alternating the deep side and the survey's. Nothing explained, nothing named.
+
+- **Season 13, Episodes 3 to 7** (`src/seasons/s13/e03/` to `e07/`): *Said Back*, *Who Counted*, *No Hour*, *The Second Thing*, and the finale *The Court Did Not Ask* and *More Than the Names*. New viewpoint page: [Osbern Kell](/star-rangers/characters/osbern-kell/).
+
 - **New chapter: *At Its Ends* (S05E00C03)** (`src/seasons/s05/e00/`, 2026-11-23, Fable, the weekly pass). Galen Kane's first viewpoint, and his answer to the letter Shepherd wrote him in *Not Asked*. Late winter 2830: a colony seats its first council, his mandate ends mid-ceremony, and he answers from the back of the hall without telling her when. At the post she reads her withdrawal bill and sends for the file of his four-month passage. The episode index, Kane's page, the gaps checklist (126 chapters), the intake and `open-questions.md` are updated. The chapter has no picture yet.
 
 ### Changed
+
+- **Season 5's Dock Seven episode renumbered from Episode 2 to Episode 6** (`src/seasons/s05/e06/`, 2026-11-23, Opus, at Dermot's choice that the Last Stand stays Season 5's ending). *What the Hill Keeps*, *A Fraction of a Second* and *What Came Off the Ship* are now S05E06C01 to C03; their `comment_id`s, `/c/` citations and comment threads are unchanged, and every live link and `revealed_by` follows. *As It Stands*, drafted as S05E03, is S06E00C01.
 
 - **Made Minds: the instrument floor agrees with the Counterpane survey** (`src/lore/made-minds-and-the-ai-safety-archetype.md`, 2026-11-23, Opus, from the weekly Fable critic read). The page still said no instrument has ever operated outside the local archecluster, in the same sentence that names the surveyed membrane of Counterpane: the contradiction fixed on `archecluster.md` earlier today at Dermot's *"Yes, fix it"*. The clause now excepts the Counterpane survey, as *The Scope of Physical Law* does. The conclusion, that the survey supports no finding about machine-building cultures, is unchanged. A correction of a contradiction (CLAUDE.md, 13 November rule); the page is not locked.
 

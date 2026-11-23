@@ -26,6 +26,9 @@ permalink: /seasons/s03/
 <p class="page-intro">
   Episode 3 is the autumn after the door: a post falls open at the far end of a line, a word is asked of the last Chief she answered to, and the officer the season has followed is in none of its rooms. What comes out of it is a posting list with her name on it and nothing under the name, which is what the record keeps of who vouched. Its second chapter is the day the list is made good, at the post, where she assumes her first command in one line of a log and leaves a Chief's statement standing as his own.
 </p>
+<p class="page-intro">
+  Episodes 4 to 6 are side-lights on the same years: fourteen names rehearse a ten-day carry before the fold, and a Principal writes down four minutes nothing else would have shown; in the summer of 2829, with Shepherd in neither room, her successor at Halyx has two thousand silences and the Survey's library asks what they are worth; and in the autumn the Starwarden who held the post before her has his last days. Episode 7 closes the season in the midwinter of 2830, at the post, where a Deputy writes on the remarks line of a clean close and the line the Starwarden writes instead is one she has read before, from the other end of a channel.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (3 | threadForSeason).id }}/">{{ (3 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "3" %}
