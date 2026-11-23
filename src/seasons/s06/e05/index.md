@@ -15,7 +15,7 @@ permalink: /seasons/s06/e05/
 
 <h1 class="page-title">Season 6 · Episode 5</h1>
 <p class="page-intro">
-  Got It Twice. An interior episode, and a quiet one. Shepherd sets out to take a reading she never took, of what it is like when somebody is there and saying nothing, and finds that every test she can build returns what she put in. Somewhere in the same morning a wall is counted from the gatepost to the corner and back, and the count does not come out.
+  Got It Twice. An interior episode, and a quiet one. Shepherd sets out to take a reading she never took, of what it is like when somebody is there and saying nothing, and finds that every test she can build returns what she put in. Her mother, as the hill keeps her, can say only what a listening face looks like from outside. Then a count of the wall arrives, and it is not the one she expected.
 </p>
 
 {% set seasonNumber = "6" %}
