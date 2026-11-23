@@ -14,7 +14,7 @@ Signe Tamura is a [Principal](/star-rangers/lore/star-rangers-command-hierarchy/
 
 ## Known History
 
-- **2828 UCSD, Late Spring:** took the Halyx queue. In her first week she ran the [Sentinel](/star-rangers/lore/the-sentinel/)'s stream by the method and heard it as documented.
+- **2828 UCSD, Late Spring:** took the Halyx queue. In her first week she ran the [Sentinel](/star-rangers/lore/planets/sentinel/)'s stream by the method and heard it as documented.
 - **2828 to 2829 UCSD:** by a rule of her own, gave every stream whose classifier note read *no protocol match* one minute as sound before confirming the note. In fourteen months she heard nothing in 2,214 streams. One, in the spring of 2829, she heard once as a figure and not again on four replays, and counted as nothing.
 - **2829 UCSD, Summer:** asked by the Survey library for a statement of use, she gave the count, the one stream, the control, and the sentence that she could not say whether there had been nothing to hear. The library filed the method as a technique sheet and recorded her streams as unverified ([Statement of Use (S03E05C01)](/star-rangers/seasons/s03/e05/s03e05c01/)).
 
