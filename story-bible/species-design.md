@@ -3248,7 +3248,7 @@ his. None of that is done here.
 
 ### The study round on A, and what it started (19 November 2026, Fable, desktop)
 
-**Done the same day as the ruling:** one study round on A, the re-made `isren-farrowkin.jpg`, the apron's attractors named in `images.md` (Conventions, *Every Verdani frame is the apron's, and names its attractors*), and the S01E00C08 frame re-made and filed (`images.md` § 61, *The apron round*). `verdani.md` is unchanged and its question is still his.
+**Done the same day as the ruling:** one study round on A, the re-made `isren-farrowkin.jpg`, the apron's attractors named in `images.md` (Conventions, *Every Verdani frame is the apron's, and names its attractors*), and the S01E00C08 frame re-made and filed (`images.md` § 61, *The apron round*). `verdani.md` is unchanged. Its question was settled by Fable 2026-11-23 as *unchanged*, his to overrule (`open-questions.md`, *The body of the Verdani*).
 
 **The study** (four takes, Gemini, no reference, 2K, 16:9; prompts in `image-prompts.md`, *2026-11-19 — The apron*; sheet `negative-examples/verdani-apron-study-2026-11-19.jpg`). Against the first studies it changed three things: the outline (knee-high at its highest, *three or four broad shallow swells of different heights with slack hollows between*, three times as wide as tall), the vane roots (*set far apart, each on a different swell, never in a bunch*), and the tendril tips (*the last hand's length lies straight and flat along an edge of the sheet*). The hide was asked for as a photographed one: crossing creases, pores, scars, flaking, a nap that catches the sun.
 

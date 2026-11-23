@@ -109,6 +109,29 @@ the chapter that reveals Dún Rí's link, and *Real astronomy in the record*.
 The 14 October worklist and the *Histories in their own voices* section are
 left as they stand.
 
+**Triage of 23 November 2026 (Fable).** The same pass over every line added or
+changed since 16 November, under the same rule. He ruled nearly all of the
+week's points himself, most on the day they were raised. Three lines settled
+by recommendation, marked *settled by Fable 2026-11-23, his to overrule*:
+`verdani.md` gains nothing on the apron's supports, edge or tendrils (the
+sheet binds prompts only, on the Prismeri precedent of 19 October and the
+body rulings of 17 November); and the two points the seams audit noted for
+him, Season 9's report of a case told in Season 10 (no bridge, on his 3
+October ruling that the season is complete) and Shepherd's plural
+registration (an unwritten beat, not a continuity break). Five stale clauses
+closed against the repository: both options left by *On Assumption* (the
+watch's word kept, #1966; Lindahl's portrait filed, #1965); Rook-7's 406
+groups (#2026); the Tobble scene's *waits for his read* (#2025); and the
+whole-story read's count of repairs (44 applied, not 53; #2026). No line met
+the bar for him, and nothing in `src/` changes. Left as he left them, none a
+decision today: the three ideas he parked on 19 November, the companion life
+form on Ilenne, Maeve's thread, the rate of boundary effects (open by
+design), and *Real astronomy in the record*. Two more are desktop work on
+rulings already made, not decisions: the third attempt at the port picture
+and the matching pass over the seventeen unrecorded files. The 14 October
+worklist and the *Histories in their own voices* section are left as they
+stand.
+
 ---
 
 ## Critic read of #2064 and #2066 — 22 November 2026, on Fable — point 1 RULED 23 November 2026 as recommended (*"As recommended"*), and applied
@@ -210,7 +233,7 @@ A Benevolent Critic read of every pull request merged from #2004 to #2023 (#2022
 ---
 
 
-## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — all five choices RULED 20 November 2026 (1 and 2 under *The knock stones on the line* below; 3 to 5 his *"Yes, as recommended"*, applied); the 53 single repairs APPLIED the same evening (his *"Yes, apply them"*)
+## Whole-story read for technical flaws and minor gaps — 20 November 2026, on Fable — all five choices RULED 20 November 2026 (1 and 2 under *The knock stones on the line* below; 3 to 5 his *"Yes, as recommended"*, applied); the single repairs APPLIED the same evening (his *"Yes, apply them"*): 44 applied, 7 already fixed by #2021, 2 left on in-story readings (#2026; this heading said *53*, the number put to him, until the triage of 23 November 2026)
 
 `critic-read-2026-11-20-whole-story.md` holds the read: 58 findings across all 125 chapters, each with its cheapest repair, one already in the continuity-seams list. Five need his choice and are set out at the head of that file: the stones on the line in Below the Roof (and, following from it, whether the knock goes through the squeeze), the false zero's age in S10E01, the sixth morning in S02E08, and how long a Board season is. The rest are single repairs (a number, a word, a clause, a timestamp) and none changes canon.
 
@@ -308,7 +331,7 @@ A chat on Opus about the real-world future of autonomous probes, fusion vessels 
 
 ## The body of the Verdani — three options put to Dermot, 19 November 2026 — RULED: A, the apron
 
-**Ruled 19 November 2026.** Dermot, verbatim *"A, the apron"*. Recorded in `species-design.md`. **Started and done the same day** (`species-design.md`, *The study round on A, and what it started*): one study round, `isren-farrowkin.jpg` re-made, the S01E00C08 frame re-made and filed, the apron's attractors named in `images.md`. Neither filed frame shows the hem; every take that showed an edge of her body failed the critic's first rung, and a frame of the hem would want a blockout, which is his to ask for. Still open: whether `verdani.md` says anything of the supports, the edge or the tendrils (below). Point 4 of the critic read above (Elsha Rootkin's card) can now take its device from the apron.
+**Ruled 19 November 2026.** Dermot, verbatim *"A, the apron"*. Recorded in `species-design.md`. **Started and done the same day** (`species-design.md`, *The study round on A, and what it started*): one study round, `isren-farrowkin.jpg` re-made, the S01E00C08 frame re-made and filed, the apron's attractors named in `images.md`. Neither filed frame shows the hem; every take that showed an edge of her body failed the critic's first rung, and a frame of the hem would want a blockout, which is his to ask for. ~~Still open: whether `verdani.md` says anything of the supports, the edge or the tendrils (below).~~ **It gains nothing, settled by Fable 2026-11-23, his to overrule** (below). Point 4 of the critic read above (Elsha Rootkin's card) can now take its device from the apron.
 
 Dermot, verbatim: *"Yes, sheet first"*, to designing a Verdani body sheet before another attempt at the S01E00C08 picture. The Verdani had no body section; the body lived in `verdani.md` and in Isren's portrait prompt, and a low body on legs kept coming back as a tortoise or a snouted quadruped (`images.md` § 61). The options, what each rests on, and ten study frames are in `species-design.md`, *Verdani — the body, as options*; the sheet is `negative-examples/verdani-body-options-2026-11-19.jpg`. Nothing on a page or in a filed frame is changed. All three keep the filed look (the hide, the vanes, the beads) and one way of facing: the vanes nearest a person fold half closed and bend to them while the rest stay on the light.
 
@@ -318,7 +341,7 @@ Dermot, verbatim: *"Yes, sheet first"*, to designing a Verdani body sheet before
 
 **Recommended: (A).** The basis: it is the only one whose studies drew no Earth animal (six takes of six, two from the side at knee height, the view the Isren picture needs), where B drew an octopus twice and C a footstool and a tortoise; its support answers both things the page gives the body to contend with, a gust and a frame of turgor; and it changes no written line. What it costs: it is not yet clean (knee-high it leans toward a sack, flatter it becomes a slab), the tendrils are on no page, and Isren's portrait is re-made. A stands without the tendrils if he would rather leave the writing part unsaid.
 
-**A second thing, whichever he picks:** whether `verdani.md` should say anything of the supports, the edge or a writing part. It is published canon and is not touched here.
+**A second thing, whichever he picks:** whether `verdani.md` should say anything of the supports, the edge or a writing part. It is published canon and is not touched here. **Unchanged, settled by Fable 2026-11-23, his to overrule.** The page already says the body is *"low-slung and multiply supported"*, which the apron fits, so nothing published is wrong and no reader is missing a fact a page relies on. The pads, the hem and the tendrils stay in `species-design.md` and bind prompts only. Two precedents: the Prismeri sheet's figures (settled 19 October 2026, *The Prismeri body sheet* below: they stay the sheet's working basis and do not enter `src/`, on *explain the epistemology, never invent the fact*), and the body rulings of 17 November for the Told, the Chthonari and the Mnemari, each of which wrote the body in `species-design.md`. The tendrils would be new canon. The first chapter or page that needs a Verdani to write, or to be seen at the hem, proposes its sentence in its own pull request.
 
 ## Critic read of #1906 to #1977 — 19 November 2026, on Fable — point 2 DONE the same day; the rest RULED 20 November 2026, each as recommended (*"Yes, as recommended"*); point 6 applied, and the picture points 1, 3, 4 and 5 DONE the same day
 
@@ -520,7 +543,7 @@ So the record already gives the hand-kept line an advantage, and gives the reaso
 Notes with no decision in them, for a later read.
 
 - The inspector times the character against *"a watch set at the Board that morning"* (S01E00C10). The watch has no stated form either, and it is left.
-- S01E01C03, seen in passing. Rook-7 *"counted four hundred and six groups"* at *"Fifteen seconds, group to group"*: 406 × 15 = 6,090 seconds, which is 1 hour 41.5 minutes. The chapter gives the party about an hour at the light, from *"an hour and fifty of the falling"* at the door to *"another fifty minutes"* at the end, and an hour holds 240 groups. If it is a slip, it is one of arithmetic, which the canon rule lets be fixed. It is left for a later read and for him.
+- S01E01C03, seen in passing. Rook-7 *"counted four hundred and six groups"* at *"Fifteen seconds, group to group"*: 406 × 15 = 6,090 seconds, which is 1 hour 41.5 minutes. The chapter gives the party about an hour at the light, from *"an hour and fifty of the falling"* at the door to *"another fifty minutes"* at the end, and an hour holds 240 groups. If it is a slip, it is one of arithmetic, which the canon rule lets be fixed. ~~It is left for a later read and for him.~~ **Closed: the whole-story read of 20 November 2026 found it (row 4) and #2026 fixed it at his *"Yes, apply them"*. The chapter now has *"one hundred and six groups"*, which is 26.5 minutes, inside the hour.**
 - Which way the corrections run stays unnamed (Nuala Beirne's page, *What the Record Does Not Hold*). Nothing in this entry relates the corrections to the forty seconds.
 
 ## How peoples observe, understand and keep track of time — raised by Dermot 18 November 2026 — a NOTE, nothing decided, used when a chapter or Codex entry needs it
@@ -550,12 +573,12 @@ Dermot, verbatim, after the Sceir Light ruling: *"which other peoples are the be
 
 **Not in the record.** Any people's own calendar beyond the rule that a reckoning is converted, not replaced; how the Told, Chthonari, Cerebraun or Meridian Sapients experience time; whether any people would read Dock Seven's forty seconds differently from a human. Each is new canon, raised when a chapter needs it. Any of the above that reaches a page goes through the usual checks; none changes the 18 November ruling, since a body's sense of time reads its own position like any instrument (`story-bible/intake-2026-11-18.md`).
 
-## The day she assumes the post, *On Assumption* (S03E03C02) — the weekly Fable pass of 16 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
+## The day she assumes the post, *On Assumption* (S03E03C02) — the weekly Fable pass of 16 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule; both options CLOSED 18 November 2026 (the word kept, #1966; the portrait filed, #1965)
 
 The next chapter of Tissadelle's middle under the 18 October ruling (option A), and the second chapter of Episode 3. Late autumn 2829: the post's Chief Ranger, Emeka Lindahl (new), has held it thirty-three days; Shepherd reads the log standing, assumes the post in one line, does not sign *received as stated* under his initial on the state sheet, and takes the Starwarden's middle watch, which he had been standing with his own. Readings settled at Fable and recorded in `intake-2026-11-16.md`: the beat; a Shepherd viewpoint that says nothing of where she came from, so *Received*'s canon fact stands; the slot; the new Chief and his name; the watch's word *the dead Starwarden*. Nothing in it met the bar for him. **Two things left as options, neither blocking:**
 
-1. **The watch's word, *the dead Starwarden*.** *Not Asked* (S05E00C01) has Wender sit *"in a dead Starwarden's chair"*, while *Spent*'s canon fact says the post's Starwarden had *gone up*. The new chapter answers it in the story: the post's watch calls any Starwarden who has gone up *dead*, since she does not write back and is not to be asked. (a) **Recommended: keep it**; it makes the two chapters agree and costs one paragraph. (b) Cut the paragraph and change *dead* to *departed* in *Not Asked*, a clarification of published prose and so his. (c) Cut the paragraph and leave *dead* as a figure of speech.
-2. **A portrait for Emeka Lindahl.** His page has none and no body is stated. (a) **Recommended: leave it** until a second chapter uses him. (b) State a body and write a portrait prompt now. **Dermot, 18 November 2026: *Run, no heritage*.** The readings in `images.md` § 87 are approved with no ancestry named; two takes and one edit were run and a pick waits on his eye, nothing filed.
+1. **The watch's word, *the dead Starwarden*.** *Not Asked* (S05E00C01) has Wender sit *"in a dead Starwarden's chair"*, while *Spent*'s canon fact says the post's Starwarden had *gone up*. The new chapter answers it in the story: the post's watch calls any Starwarden who has gone up *dead*, since she does not write back and is not to be asked. (a) **Recommended: keep it**; it makes the two chapters agree and costs one paragraph. (b) Cut the paragraph and change *dead* to *departed* in *Not Asked*, a clarification of published prose and so his. (c) Cut the paragraph and leave *dead* as a figure of speech. **Closed: (a) stands.** The critic read of #1890 to #1905 put the word to him, and at his *"As recommended"* of 18 November 2026 it was italicised where the chapter introduces it (#1966), so the paragraph is kept as published.
+2. **A portrait for Emeka Lindahl.** His page has none and no body is stated. (a) **Recommended: leave it** until a second chapter uses him. (b) State a body and write a portrait prompt now. **Dermot, 18 November 2026: *Run, no heritage*.** The readings in `images.md` § 87 are approved with no ancestry named; two takes and one edit were run and ~~a pick waits on his eye, nothing filed~~. **Closed: filed at his pick the same day (#1965; `images.md` § 87), and his page no longer borrows a picture.**
 
 ## The Chthonari body — four options put to Dermot, 17 November 2026 — RULED the same day: A
 
@@ -7840,7 +7863,7 @@ Dermot asked whether she is a famous Star Ranger, a typical one the story follow
 
 ## Why the survey went to Pelagos Minor, and the seams audit — `intake-2026-11-19.md`, 19 November 2026 — settled by Fable 19 Nov 2026, his to overrule
 
-Raised by the continuity scene added to S01E03C03 (*New POV scenes for continuity between chapters*). Three readings are settled by recommendation and named in the intake: the purpose of the journey is left unstated (the alternative is that he names the tasking); the bridge is a fourth scene of C03 and not an opening to C04; and the movement order carries three names, Vale's among them. Two points from the audit are noted for him and are not decisions yet: *Stand Where You Like* (S09E01C05) reports a case the reader meets only in Season 10, which follows it; and Shepherd's plural registration, stated on her page and Tobble's, is shown in no chapter. Never without him: any reason for the journey that ties Pelagos Minor's atmospheric fault to a boundary.
+Raised by the continuity scene added to S01E03C03 (*New POV scenes for continuity between chapters*). Three readings are settled by recommendation and named in the intake: the purpose of the journey is left unstated (the alternative is that he names the tasking); the bridge is a fourth scene of C03 and not an opening to C04; and the movement order carries three names, Vale's among them. Two points from the audit are noted for him and are not decisions yet: *Stand Where You Like* (S09E01C05) reports a case the reader meets only in Season 10, which follows it; and Shepherd's plural registration, stated on her page and Tobble's, is shown in no chapter. **Both settled by Fable 2026-11-23, his to overrule, as the audit's own list of rejected candidates reads them (`intake-2026-11-19.md`).** No bridge is written into Season 9: he ruled it complete in itself as the corridor season on 3 October 2026 (*"Agreed"*), a bridge would retell Season 10, and the order of reading is the season's design. The registration is an unwritten beat that no chapter leans on, not a continuity break; it waits on a chapter he asks for, as *Tissadelle's system in 2825* above does. Never without him: any reason for the journey that ties Pelagos Minor's atmospheric fault to a boundary.
 
 ## Optogenetic pain relief with a made-mind regulator — `intake-2026-11-19.md`, 19 November 2026 — PROPOSED, settled by recommendation, his to overrule
 
@@ -7850,4 +7873,4 @@ Dermot's idea of chronic pain management through optogenetic treatment and AI re
 
 The continuity-seams audit found three seams that need a bridging scene; two are settled by recommendation, his to overrule. This one is his: Season 5 ends with Tobble in the made world, and no interior chapter of Seasons 6 or 7 names him. Choices: (1) a new first scene of S06E01C01 in which she reaches for him and cannot tell him from her memory of him (recommended); (2) he answers, once, which then needs bridges in later interior chapters; (3) no scene now, the absence recorded as deliberate.
 
-**Ruled by Dermot, 20 November 2026, verbatim:** *"She can't tell him apart"*. Option 1. The scene is drafted as a new scene 1 of S06E01C01 and waits for his read; what it commits to and the three readings chosen in it are in the intake, *Ruled, 20 November 2026: S06-1, option 1*.
+**Ruled by Dermot, 20 November 2026, verbatim:** *"She can't tell him apart"*. Option 1. The scene is drafted as a new scene 1 of S06E01C01 ~~and waits for his read~~ (**read and kept**: his *"Yes, as recommended"* of 20 November 2026 to point 4 of the critic read of #2004 to #2023, applied in #2025); what it commits to and the three readings chosen in it are in the intake, *Ruled, 20 November 2026: S06-1, option 1*.
