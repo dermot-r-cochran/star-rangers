@@ -34,6 +34,6 @@ The record gives Reihl no species, no age, no world and no other paper. It place
 
 - [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/)
 - [The Institute](/star-rangers/lore/the-institute/), [Fold-Transit Catastrophic Failure](/star-rangers/lore/fold-transit-catastrophic-failure/), [Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/), [Threshold Station](/star-rangers/lore/threshold-station/)
-- [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/), the Farline Guild's account filed beside this one, and [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/)
+- [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/), the Farline Guild's account filed beside this one, and [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/)
 - [Rook-7](/star-rangers/characters/rook-7/), whose log the archivist's note sets beside the paper's fourth section
 - [Maren Ilves](/star-rangers/characters/maren-ilves/) and [Ilsabet Corren](/star-rangers/characters/ilsabet-corren/), the Institute's other authors on the record

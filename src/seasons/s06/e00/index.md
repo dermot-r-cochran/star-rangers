@@ -1,21 +1,21 @@
 ---
 layout: base.njk
-title: "Episode 3"
+title: "Episode 0"
 eleventyComputed:
-  description: "Chapters in Season 5, Episode 3 of {{ site.name }}."
-permalink: /seasons/s05/e03/
+  description: "Chapters in Season 6, Episode 0 of {{ site.name }}."
+permalink: /seasons/s06/e00/
 ---
 <nav class="chapter-breadcrumb" aria-label="Episode location">
   <ol class="breadcrumb" role="list">
     <li><a href="/star-rangers/seasons/">Seasons</a></li>
-    <li><a href="/star-rangers/seasons/s05/">Season 5</a></li>
-    <li aria-current="page">Episode 3</li>
+    <li><a href="/star-rangers/seasons/s06/">Season 6</a></li>
+    <li aria-current="page">Episode 0</li>
   </ol>
 </nav>
 
-<h1 class="page-title">Season 5 · Episode 3</h1>
+<h1 class="page-title">Season 6 · Episode 0</h1>
 <p class="page-intro">
-  The six days after Dock Seven, seen from two desks a long way from it. The line's notice reaches the
+  A side-light before the season, and the six days after Dock Seven, seen from two desks a long way from it. The line's notice reaches the
   fold-approach post that was Shepherd's first command, and its Chief Ranger sends it on, as it stands,
   to the one officer no line would think to tell: the Frontier Corps Chief she kept as an adviser, whom
   she once asked when leaving is the correct order.
@@ -25,8 +25,8 @@ permalink: /seasons/s05/e03/
   carry. It follows what two officers do with a record that gives a place and a moment and stops.
 </p>
 
-{% set seasonNumber = "5" %}
-{% set episodeNumber = "3" %}
+{% set seasonNumber = "6" %}
+{% set episodeNumber = "0" %}
 {% set hasEpisodeChapters = false %}
 <ul class="chapter-list" role="list">
 {% for chapter in collections.chapters %}

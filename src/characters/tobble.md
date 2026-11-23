@@ -35,7 +35,7 @@ He and Shepherd speak inward, privately, and no one else in the room hears it. I
 
 ## Dock Seven
 
-At Dock Seven, in Mid-Autumn 2831 UCSD, Shepherd was fronting and carrying everything, and Tobble was carrying nothing. When the load came apart he was what was left with structure to spend, and he spent it, with the lost ship's own records for a scaffold ([What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/)). What went in was some of her and not her, on his account, and he has never once called it a rescue. What followed is told from Season 6 on ([First Light, Off the Record (S06E01C01)](/star-rangers/seasons/s06/e01/s06e01c01/)).
+At Dock Seven, in Mid-Autumn 2831 UCSD, Shepherd was fronting and carrying everything, and Tobble was carrying nothing. When the load came apart he was what was left with structure to spend, and he spent it, with the lost ship's own records for a scaffold ([What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/)). What went in was some of her and not her, on his account, and he has never once called it a rescue. What followed is told from Season 6 on ([First Light, Off the Record (S06E01C01)](/star-rangers/seasons/s06/e01/s06e01c01/)).
 
 The Fellowship of Light's house on the Boyne reads it as a crew of two in one vessel ([Two in the One Currach](/star-rangers/codex/two-in-the-one-currach/)). That reading belongs to the house, and the record files it as theirs.
 

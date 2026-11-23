@@ -21,4 +21,4 @@ It is not a posting with much glory attached to it, and Galen has never pretende
 
 Galen does not ask what leave was like. Rangers who want to say something say it unprompted, in the gap between the Union escort leaving and the shuttle boarding call, and Galen has learned to leave that gap open rather than fill it.
 
-See [Line Captain Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/) and [What the Hill Keeps (S05E02C01)](/star-rangers/seasons/s05/e02/s05e02c01/) for the one on-the-record handoff Galen has had a POV chapter for.
+See [Line Captain Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/) and [What the Hill Keeps (S05E02C01)](/star-rangers/seasons/s05/e06/s05e06c01/) for the one on-the-record handoff Galen has had a POV chapter for.

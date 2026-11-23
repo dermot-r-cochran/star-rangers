@@ -39,7 +39,7 @@ What the pair demonstrates is the claim the lore entry makes and cannot otherwis
 
 The obvious question, and the record does not answer it.
 
-Levrils stood an enforcement perimeter at [Dock Seven](/star-rangers/lore/hyperfold-yield-combine/) in 2831 UCSD, performing detection, containment and perimeter isolation — the Kept Line's exact function. Nine of nine material witnesses recorded what answered the intrusion as dragons. See [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e02/s05e02c03/).
+Levrils stood an enforcement perimeter at [Dock Seven](/star-rangers/lore/hyperfold-yield-combine/) in 2831 UCSD, performing detection, containment and perimeter isolation — the Kept Line's exact function. Nine of nine material witnesses recorded what answered the intrusion as dragons. See [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/).
 
 What no one has is a signature. The instruments that would have caught a flat trace were doing other work that day, and the accounts that survive are witness accounts, which by the nature of a Levril encounter describe the witnesses. The Archive therefore records that the function matches, that the occasion matches, and that this establishes nothing — and declines to place it there.
 

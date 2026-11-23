@@ -41,7 +41,7 @@ It is also, its detractors note, a body that has published a great many things i
 
 ## Dock Seven, and the reading most of settled space believes
 
-The Institute's account of the [loss at Dock Seven](/star-rangers/seasons/s05/e02/s05e02c03/) is the one that reached the newsnets, the one taught in fold-transit safety courses, and the one a majority of people in settled space would give if asked. It has two parts.
+The Institute's account of the [loss at Dock Seven](/star-rangers/seasons/s05/e06/s05e06c03/) is the one that reached the newsnets, the one taught in fold-transit safety courses, and the one a majority of people in settled space would give if asked. It has two parts.
 
 **On what the witnesses saw:** the Institute reads it as dimensional instability. In its account, a boundary already under strain was subjected to sustained unauthorised folding by equipment that was overused, poorly maintained, and out of calibration, and this produced exactly the fold drift and the violent self-correction such a configuration predicts. The shapes the gallery crews reported are, on this reading, structured discharge along the strain gradient, seen by exhausted people through a viewport with no instrumentation at all, and named with the first word available.
 

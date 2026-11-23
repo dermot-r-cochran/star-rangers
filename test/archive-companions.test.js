@@ -21,7 +21,7 @@ const pages = [
   { title: "Krenyi", url: "/glossary/krenyi/", section: "glossary", category: "Species", short: "The people who keep their own calendar." },
   { title: "Krenyi", url: "/lore/krenyi/", section: "lore", category: "Species", description: "The lore page on the Krenyi." },
   { title: "What Was Carried", url: "/codex/what-was-carried/", section: "codex", category: "Cultural Record", description: "A continuation of the Life.", revealedBy: ["s03e02c02", "s07e01c02"] },
-  { title: "Standing Claims", url: "/codex/standing-claims/", section: "codex", description: "Sen's gradings.", revealedBy: "s05e02c02" },
+  { title: "Standing Claims", url: "/codex/standing-claims/", section: "codex", description: "Sen's gradings.", revealedBy: "s05e06c02" },
 ];
 
 test("a page accompanies a chapter when its revealed_by names it, as a string or in a list", () => {

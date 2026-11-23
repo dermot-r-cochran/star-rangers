@@ -7,7 +7,7 @@ description: "The record itself, and the institution that keeps it: older and la
 image: "the-archive.jpg"
 image_alt: "Designed cover for The Archive: concentric pale parchment rings in a soft tinted glow on a dark warm background, a shelf that appends and never overwrites"
 plain: "The Archive is the record of everything the Star Rangers' world knows about itself, and the people who keep it. It is older and bigger than the Star Rangers, and nobody owns it. It writes down what it is told, says how sure it is, and marks the places where it does not know instead of guessing."
-revealed_by: s05e02c02
+revealed_by: s05e06c02
 ---
 
 The Archive is the record, and the institution that keeps it. Every page of lore and of the glossary is written in its voice. Every document in the [Codex](/star-rangers/codex/) sits on one of its shelves or is filed by it from a shelf it does not own. It is older and larger than the [Star Rangers](/star-rangers/lore/star-rangers-command-hierarchy/), and no corps owns it. The [Survey Corps](/star-rangers/lore/star-rangers-survey-corps/) keeps an Archive Branch, and the branch is named for the institution it serves rather than the other way around. What the branch undertakes on the Corps' behalf is that whatever a surveyor logs will still be legible, attributable and versioned when the surveyor is not.

@@ -100,7 +100,7 @@ image_alt: "Designed album cover for 'Ballad of the Stars': gold serif title ove
 
 **The song did not change. What it is about did.**
 
-After the [loss at Dock Seven](/star-rangers/seasons/s05/e02/s05e02c03/), the surviving members of Slipwave — the ones named in Verse 2, who had not been in a room together in years — reissued the recording with a written reading of their own attached, and it is the only time any of them has ever explained a lyric in public. Their statement is short enough to reproduce whole:
+After the [loss at Dock Seven](/star-rangers/seasons/s05/e06/s05e06c03/), the surviving members of Slipwave — the ones named in Verse 2, who had not been in a room together in years — reissued the recording with a written reading of their own attached, and it is the only time any of them has ever explained a lyric in public. Their statement is short enough to reproduce whole:
 
 > We wrote it when she left. *She went to the stars* meant she had gone off to the Rangers and we were the ones staying, and we were not being noble about it. It was a leaving song and we were sore.
 >
