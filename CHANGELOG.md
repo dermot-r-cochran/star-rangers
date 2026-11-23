@@ -8,6 +8,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Changed
 
+- **Open questions triaged: the 23 November pass** (`story-bible/open-questions.md`, `story-bible/species-design.md`, 2026-11-23, Fable). Three lines settled by recommendation, his to overrule: the Verdani page gains nothing on the apron's supports, edge or tendrils, which stay in the body sheet and bind prompts only; Season 9 gets no bridge to the Season 10 case; and Shepherd's plural registration is an unwritten beat, not a continuity break. Five stale clauses closed against merged work (#1965, #1966, #2025, #2026). Nothing was left for Dermot, and nothing in `src/` changes.
+
 - **Natural suffering in the present is minimal** (`src/lore/civilisation-comparison.md`, `CLAUDE.md`, `story-bible/intake-2026-11-23.md`, 2026-11-23, Opus, at Dermot's *"Yes, land it"*). *Enough, and Nothing Wasted* gains a paragraph in his words: chronic pain is solved, acute pain still warns and heals, grief, loss and the cost of a choice remain, and frontier worlds have fewer comforts but their basic needs and healthcare are met. The core-theme clause gains a matching bullet. It extends the 19 October post-scarcity ruling and moves nothing.
 
 - **The villains are falsehood, never a person** (`CLAUDE.md`, `story-bible/intake-2026-11-23.md`, 2026-11-23, Opus, at Dermot's *"Yes, add it"*). The core-theme clause gains a bullet in his words: the real villains are lies, evil, misinformation, falsehood and false suffering (counterfeit suffering and real suffering a lie has caused), never a character, group or faction. It clarifies the 20 October ruling that the Unfounded are the only true villains. No page in `src/` changes.
