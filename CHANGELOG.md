@@ -6,6 +6,10 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+### Added
+
+- **New chapter: *At Its Ends* (S05E00C03)** (`src/seasons/s05/e00/`, 2026-11-23, Fable, the weekly pass). Galen Kane's first viewpoint, and his answer to the letter Shepherd wrote him in *Not Asked*. Late winter 2830: a colony seats its first council, his mandate ends mid-ceremony, and he answers from the back of the hall without telling her when. At the post she reads her withdrawal bill and sends for the file of his four-month passage. The episode index, Kane's page, the gaps checklist (126 chapters), the intake and `open-questions.md` are updated. The chapter has no picture yet.
+
 ### Changed
 
 - **Open questions triaged: the 23 November pass** (`story-bible/open-questions.md`, `story-bible/species-design.md`, 2026-11-23, Fable). Three lines settled by recommendation, his to overrule: the Verdani page gains nothing on the apron's supports, edge or tendrils, which stay in the body sheet and bind prompts only; Season 9 gets no bridge to the Season 10 case; and Shepherd's plural registration is an unwritten beat, not a continuity break. Five stale clauses closed against merged work (#1965, #1966, #2025, #2026). Nothing was left for Dermot, and nothing in `src/` changes.
