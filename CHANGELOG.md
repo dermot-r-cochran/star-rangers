@@ -8,6 +8,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Changed
 
+- **Natural suffering in the present is minimal** (`src/lore/civilisation-comparison.md`, `CLAUDE.md`, `story-bible/intake-2026-11-23.md`, 2026-11-23, Opus, at Dermot's *"Yes, land it"*). *Enough, and Nothing Wasted* gains a paragraph in his words: chronic pain is solved, acute pain still warns and heals, grief, loss and the cost of a choice remain, and frontier worlds have fewer comforts but their basic needs and healthcare are met. The core-theme clause gains a matching bullet. It extends the 19 October post-scarcity ruling and moves nothing.
+
 - **The villains are falsehood, never a person** (`CLAUDE.md`, `story-bible/intake-2026-11-23.md`, 2026-11-23, Opus, at Dermot's *"Yes, add it"*). The core-theme clause gains a bullet in his words: the real villains are lies, evil, misinformation, falsehood and false suffering (counterfeit suffering and real suffering a lie has caused), never a character, group or faction. It clarifies the 20 October ruling that the Unfounded are the only true villains. No page in `src/` changes.
 
 - **Archecluster: the instrument floor put in the past tense** (`src/lore/archecluster.md`, 2026-11-23, Opus, at Dermot's *"Yes, fix it"*). The page said no instrument has ever operated outside the local cluster, while the same paragraph and the Archewright and Counterpane pages say instruments surveyed Counterpane and came home. The sentence now says what *The Scope of Physical Law* already says: the archecluster floor held until the Counterpane survey, whose readings confirmed the scoping rather than breaching it. A correction of a contradiction (CLAUDE.md, 13 November rule); the page is not locked.
