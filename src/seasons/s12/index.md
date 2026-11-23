@@ -19,6 +19,9 @@ permalink: /seasons/s12/
 <p class="page-intro">
   A season that stands alone, though a reader of <a href="/star-rangers/seasons/s11/">Season 11</a> will know the line, the two stones on it, and the rule that a telling is settled by who was there.
 </p>
+<p class="page-intro">
+  Episodes 3 to 6 alternate the sides after the light went round: the bright one is told down a piece at a time; the supply run goes up without the boundary officer; Stone-First answers standing up for a stone never answered; and the first imager is put back where it stood. The season ends late in the year with nothing coming, on both sides of the line.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (12 | threadForSeason).id }}/">{{ (12 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "12" %}

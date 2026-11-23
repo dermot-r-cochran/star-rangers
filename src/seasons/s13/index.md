@@ -20,6 +20,9 @@ permalink: /seasons/s13/
 <p class="page-intro">
   A season that stands alone: no prior reading required. Episode 1 is the court's strand and Episode 2 the Abbey's, each whole on its own, so a reader who reads one episode has one whole record.
 </p>
+<p class="page-intro">
+  Episodes 3 to 6 move between the court, the Abbey and the survey: the line is taken by a reciter and comes home from the Abbey unchanged; a novice looks for who made the count; the keeper's son stands at the open door without a lamp; and a good request is not forwarded. Episode 7 brings both strands into one episode at the last boat of the storm season, when the girl who carried the court's line climbs the Abbey's steps for a name and goes home with the line as she was given it.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (13 | threadForSeason).id }}/">{{ (13 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "13" %}

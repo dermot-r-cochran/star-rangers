@@ -20,6 +20,9 @@ permalink: /seasons/s11/
 <p class="page-intro">
   A season that stands alone: no prior reading required. Readers of the survey record will recognise the world and may recognise one of its people.
 </p>
+<p class="page-intro">
+  Episodes 3 to 6 alternate the sides through the rest of the year: the stone comes again and the warm asks how many times make every time; a stone from the roof is offered and put back; a stone is dropped and answered slowly; and the stones on the line become a row. The season ends where it began, with the first telling told again by someone who was not there, and the first year's file read again by someone who was.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (11 | threadForSeason).id }}/">{{ (11 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "11" %}

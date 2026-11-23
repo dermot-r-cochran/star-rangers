@@ -19,6 +19,9 @@ permalink: /seasons/s14/
 <p class="page-intro">
   A season that stands alone, though a reader of <a href="/star-rangers/seasons/s11/">Season 11</a> and <a href="/star-rangers/seasons/s12/">Season 12</a> will know the line, the stones on it, and the rule that a telling is not yours until somebody has heard it.
 </p>
+<p class="page-intro">
+  Episodes 3 to 6 alternate the sides through the fourth year: the old one who found the far side; four mornings with a seventeen-word order; a newest one told a thing whole; and a new part for a channel that is not broken. Episode 7 closes the season late in the year, when each side goes back to the oldest thing it holds about the other and the first telling of the thread is told again without a word of it moving.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (14 | threadForSeason).id }}/">{{ (14 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "14" %}

@@ -20,6 +20,9 @@ permalink: /seasons/s00/
 <p class="page-intro">
   These chapters are the record's own prehistory: the arguments, failures and stubborn people out of which the Charter was written. Read them first for how the Rangers became necessary — or after Season 1, for why Threshold Station's habits run as deep as they do. Each chapter offers several characters' viewpoints on the same scenes; no prior reading is assumed.
 </p>
+<p class="page-intro">
+  Episodes 4 to 7 follow the Charter into its first working weeks, in the last months of 2723: Halyard Station fills its seat on the Oversight Council by a count in the room; on Mars a cadet reads the section of a paper nobody examines, beside its author, without knowing it; at Eden the Safety Corps' first board certifies the corridor and declines to pass the founding flight as flown; and the season closes on a file handed over the day it is asked for, and a letter to six families that answers nothing and is the first reply they have had.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (0 | threadForSeason).id }}/">{{ (0 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "0" %}

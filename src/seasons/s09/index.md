@@ -20,6 +20,9 @@ permalink: /seasons/s09/
 <p class="page-intro">
   A season that stands alone, set in 2828 UCSD, two years after the main line's present: no prior reading required, and readers of Season 1 will know the habitat, if not the hatch.
 </p>
+<p class="page-intro">
+  Episodes 2 to 7 follow the Deputy through the rest of 2828: a first evening off the corridor in a borrowed shirt; a full can at a wet plant; one shift under a relieving officer with the hatch shut; one of the fourteen back with a child's question about the well; a light that changes colour for ninety seconds and is logged as what happened; and, on the season's last evening, a stranger who asks the way.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (9 | threadForSeason).id }}/">{{ (9 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "9" %}

@@ -134,6 +134,21 @@ stand.
 
 ---
 
+## Seven episodes per season, and a finale for each resolved season — Dermot's direction of 23 November 2026 (*"A finale episode for each fully resolved and completed season, or a new episode for each season without a finale yet"*, then *"At least 7 episodes per season"*) — DRAFTED the same day on Fable, reviewed by Opus; one structural choice RULED the same day (Season 5: *"Last Stand stays last"*), every other choice settled by recommendation, his to overrule
+
+Seventy-nine chapters; every season now has at least seven episodes, Episode 0 counted. The pull request lists each draft, what it commits the story to, and each call Opus settled. Opus cut two things against the drafters' recommendations, both on the *marked absence* rule: a change in the Dock Seven signal after the account was sent (S07E07), and Krenyi perceiving what holds the edge (S07E07); and changed three: la Chapelle's contact with Wren (S13E07, cut), *owed* to nobody's stone (S12E05, cut), and Tobble's viewpoint block inside the interior (S06E05, replaced by a made-Órla block).
+
+Left open by the drafts, for later chapters to respect, none needing a ruling now:
+
+1. **Season 8: the letter Fintan sends in *Anything to Go*.** Its addressee, contents and any reply are unrecorded. Recommended (applied): unnamed until a chapter needs it.
+2. **Season 14: Ferrant's continued attendance** after *Returned Unopened* is pending her side's answer.
+3. **Season 9: when the Corps posts Varn on** is open; the finale says Varn will tell Noah the day it happens.
+4. **Season 13: the name** Wren climbs for stays unheard; the door stays open, and the instrument stays off both records.
+5. **Seasons 1, 2, 4, 5 and 8 stay open**, with no finale; the next episode of each is unwritten.
+6. **The 79 chapters have no picture**, so each is pending under the 15 November rule. The prompts are Fable's (Opus's where a frame is mostly physics), and generating them is a desktop step.
+
+---
+
 ## Kane's answer, *At Its Ends* (S05E00C03) — the weekly Fable pass of 23 November 2026, stage 3 — DRAFTED same day on Fable, choices named in the PR, his to overrule
 
 The next chapter of Tissadelle's middle under the 18 October ruling (option A), and the third chapter of Season 5's Episode 0, where it introduces Galen Kane. Late winter 2830: Kane ends a passage at a colony seating its first council, the mandate ends mid-ceremony, and he answers the letter of *Not Asked* from the back of the hall without saying when. Early spring: the answer reaches the post, Shepherd reads the withdrawal bill and sends an open request for the file of his four-month passage. Eight readings settled at Fable and recorded in `intake-2026-11-23.md`, last section. Nothing in it met the bar for him. **Three things left as options, none blocking:**
