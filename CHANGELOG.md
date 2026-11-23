@@ -8,6 +8,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ### Changed
 
+- **The villains are falsehood, never a person** (`CLAUDE.md`, `story-bible/intake-2026-11-23.md`, 2026-11-23, Opus, at Dermot's *"Yes, add it"*). The core-theme clause gains a bullet in his words: the real villains are lies, evil, misinformation, falsehood and false suffering (counterfeit suffering and real suffering a lie has caused), never a character, group or faction. It clarifies the 20 October ruling that the Unfounded are the only true villains. No page in `src/` changes.
+
 - **Archecluster: the instrument floor put in the past tense** (`src/lore/archecluster.md`, 2026-11-23, Opus, at Dermot's *"Yes, fix it"*). The page said no instrument has ever operated outside the local cluster, while the same paragraph and the Archewright and Counterpane pages say instruments surveyed Counterpane and came home. The sentence now says what *The Scope of Physical Law* already says: the archecluster floor held until the Counterpane survey, whose readings confirmed the scoping rather than breaching it. A correction of a contradiction (CLAUDE.md, 13 November rule); the page is not locked.
 
 - **The core theme recorded: truth is absolute; trust is built, and never finished** (`CLAUDE.md`, `story-bible/intake-2026-11-23.md`, 2026-11-23, Opus, at Dermot's *"Yes, land it"*). A clause at the head of the mystery family states his theme in his words and how it binds: truth never made relative, trust graded and revised between people as well as toward facts, the Archive itself an observer whose settled pages hold at their stated grade, and the theme shown, never stated. No page in `src/` changes.
