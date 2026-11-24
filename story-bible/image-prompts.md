@@ -5964,3 +5964,51 @@ The prompts of record are in `story-bible/images.md` § 102 and are not repeated
 - **Kind:** generation with references
 - **Source:** `images.md` § 102; references `src/images/chapters/s08e01c01.jpg`, `src/images/characters/peran-slade.jpg` (the lamp only).
 - **Run:** Round 1 of 1, variation 2 filed.
+
+## 2026-11-24 — Season 9, Episodes 2 to 7: the seven new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 103 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 103 records the catalogue check).
+
+### chapters/s09e02c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 103; references `src/images/characters/noah-adeyemi.jpg`, `src/images/characters/iklix-varn.jpg`, `src/images/lore/eden-ring-rail.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s09e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 103; references `src/images/characters/noah-adeyemi.jpg`, `src/images/chapters/s09e01c02.jpg`.
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: remove the small bright ceiling light fitting at the top right. The ceiling there is plain smooth pale composite with nothing on it; the corridor simply has soft even light in it. Keep everything else exactly as it is: the woman standing in the corridor, her face, hair, tunic, hands and shoes, the plant and the can on the floor, the near shoulder at the left edge, the walls, the doors, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+### chapters/s09e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 103; references `src/images/chapters/s09e01c05.jpg`, `src/images/characters/iklix-varn.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s09e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 103; reference `src/images/chapters/s09e01c04.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed. An edit of two takes to cut the hand to two fingertips curled the fingers round the edge, as if pulling the hatch; neither was used.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the hand at the hatch's edge. Show only two fingertips of it, the first two, resting on the very edge of the slab from outside, coming through the hand's-width gap from the bright corridor; the rest of the hand and the sleeve stay outside, out of sight beyond the edge. The fingertips are weathered, with short plain nails. The recessed handle stays untouched, a hand's length away. Keep everything else exactly as it is: the slab, the gap, the bright strip of corridor, the framing, the light and the grain. No text anywhere. A documentary photograph, not a render.
+
+### chapters/s09e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 103; references `src/images/chapters/s09e01c05.jpg`, `src/images/characters/iklix-varn.jpg`, `src/images/characters/zoe-smith.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s09e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 103; references `src/images/characters/iklix-varn.jpg`, `src/images/chapters/s09e01c01.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s09e07c02.jpg — filed 24 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 103; reference `src/images/lore/eden-ring-rail.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep the inside of the car exactly as it is: the open door's frame, the two people's dark soft shoulders and heads at the near edge seen from behind, the night sky, the curve of the ring above with its far lights, the light, the framing and the grain. Change only the long pale lit shape outside, which now looks like another train carriage. Replace it with a low run of small pale dwellings set a little above the line on a grassy slope, joined wall to wall, with plain flat fronts, low roofs and one row of small square windows, each window lit warm from inside, and between two of them one dark width of plain unlit wall with no window in it. In the lit window just to the left of the dark width stands a small lamp; on the sill of the window just to the right is a shelf of small plant pots. No wheels, no rails along it, no carriage, no doors like a train's. No text anywhere. A documentary photograph, not a render.
