@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pictures for Season 0's five new chapters** (`src/images/chapters/s00e04c01.jpg` to `s00e07c02.jpg`, `story-bible/images.md` § 94, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080 and Dermot's *"An image for every chapter, either generated or using one of my own photos"*). Generated with Gemini from § 94's prompts, filed faces held by reference; eleven images in all, one edit take.
+
 - **Working ranges for chapters, episodes and seasons, as guidance** (`story-bible/story-bible-summary.md`, `story-bible/intake-2026-11-24.md`, 2026-11-24, Opus, Dermot's *"Yes, as guidance"*). Two to four POV blocks a chapter and three to six chapters an episode (kept at his *"Keep 3–6"* once the counts were corrected, with *"Draft extra chapters as needed"* for episodes below it); episodes per season stay at his ruling of 23 November, at least seven (first written as three to six from a stale clone, corrected the same day with the counts retaken from `main`); a thread has no planned length, and an arc is not measured in seasons. Ranges, not quotas, under the rules that an episode needs no fixed shape and no structure becomes predictable. Published chapters are never altered to fit; chapters may be added.
 
 ## [1.78.0] — 2026-11-23

@@ -5671,3 +5671,43 @@ The 16:9 take behind the Season 1 banner (`image-out/season-01-r1/v3.jpg`, 13 No
 Round 2 changed two things, the camera's place (just beyond the far edge of the transit floor, the port a fifth of the frame wide) and one port only, the reference's own, unbolted and not enlarged:
 
 > Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, taken at standing height from just beyond the far edge of a round transit floor, a few paces from the far wall, looking level and straight at it, deep focus, so that the port sits in the middle of the frame at about a fifth of the frame's width and the view through it can be read: the transit bay in the transit ring of Threshold Station, a Survey Corps shore station on the coast of Earth, in late autumn of the year 2826, empty and quiet. It is the same bay as the reference image, with nobody in it: a clean, kept chamber of seamless pale grey composite whose walls meet floor and ceiling in rounded coving; in the lower foreground the plain dark matte disc of the circular transit floor, set flush into the bay's floor, bare and clean; at the right edge one low smooth rounded sealed housing; in the right-hand wall a heavy plain hold lever on a flush mount, at rest. In the far wall, at eye height and in the middle of the frame, the one small round inspection port: a disc of very thick clear glass about two hand-spans across in a plain flush ring, exactly as in the reference image and in the same place. There is exactly one port in the whole bay: the reference's own port, seen nearer, not a second one added beside or above it, and not enlarged into a window. Its ring is smooth and flush, with no bolts or screws. The port is the subject of the picture. Through it, and only through it, the eye looks down one straight narrow lane: a long dim service space beyond the wall, plain and unfurnished, running directly away from the glass, its far end a small patch of plain pale light a long way off and too small to make out anything in. In that space beyond the glass the air is not clear: fine pale dust hangs in it, and a thin loose plume of the same dust is drifting slowly in from the left toward the line of sight and has not yet crossed it. The dust is ordinary dust in still air, lit softly from the side; inside the bay the air is clean. Every fitting is flush and nothing is lit: soft daylight-coloured light comes evenly from the surfaces themselves, and nothing glows. The round floor, the port and the far patch of light line up, one behind the other. Still, exact, narrow: a rule seen as a place. Cool muted palette: pale grey, dark matte floor, a trace of warm dust. Photographed, not rendered: real composite with small honest marks, thick glass with a faint green edge and one soft reflection of the bay, high-ISO grain heavier in the shadows, a moderately wide lens with slight softness toward the corners, a touch under-exposed, muted natural colour. Negative: people, figures, a body, a face, a silhouette or a reflection of a person anywhere, including beyond the glass; beams, rays, laser lines, targeting marks, crosshairs, glowing rings, energy, sparks, lightning, a portal, a vortex, a tunnel of light, motion streaks, lens flare; screens, monitors, consoles, keypads, holograms, projected light, indicator lights, warning beacons; readable text, lettering, numerals, signage, labels, hazard stripes or written characters of any script anywhere in frame; a second port, a window band, a porthole with bolts, rivets, a ship's wheel hatch, pipes, cables, conduit, grating, railings, louvres, stainless steel, visible lamp, light fitting, ceiling light panel or bulb; smoke, fire, fog filling the bay; grime, rust, stains, debris, neglect. Render negatives: 3D render, CGI, octane render, video-game render, animated film still, science-fiction film set, product shot, plastic sheen, over-smooth surfaces, glossy concept art. Landscape orientation.
+
+## 2026-11-24 — Season 0, Episodes 4 to 7: the five new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 94 and are not repeated here. **Tool** for all five: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (one take); finished by `import-image.ps1 -MaxEdge 1600 -Provenance generated` at strength 1, filed 1600×893. **Plates:** none of Dermot's photographs (§ 94 records the catalogue check). References as each entry names.
+
+### chapters/s00e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 94; reference `src/images/characters/petra-solano.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s00e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 94; reference `src/images/characters/sildron-drey.jpg`.
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same seated woman, her face, hair, coat, posture and the two seed trays on her knee, the second passenger's knee, sleeve, hands and grey-covered paper at the right edge, the seats, the walls, the framing, focus, light and grain. Change only three things.
+>
+> 1. The ceiling: remove the bright rectangular ceiling light fitting at the top left. The ceiling there is plain smooth pale composite with nothing on it; the car simply has soft even light in it.
+>
+> 2. The door at the left: remove the metal latch and handle on the door frame. The door edge is one plain smooth seamless strip of pale composite with nothing on it.
+>
+> 3. The window in the door at the left: remove the people seen through it. Through that thick glass there is only the plain pale wall of a transit passage, close and still, with nothing on it.
+>
+> No text, no lettering, no numerals, no signage, no screens, no new objects. A documentary photograph, not a render.
+
+### chapters/s00e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 94; references `src/images/characters/beatrix-kilbride.jpg`, `src/images/chapters/s00e03c02.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s00e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 94; reference `src/images/characters/rutger-voss.jpg` (the hand only).
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s00e07c02.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 94; references `src/images/characters/ysolde-pitch.jpg`, `src/images/chapters/s00e01c02.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
