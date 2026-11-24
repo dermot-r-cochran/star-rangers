@@ -16,7 +16,7 @@ permalink: /seasons/s08/e01/
 
 <h1 class="page-title">Season 8 · Episode 1</h1>
 <p class="page-intro">
-  A hive goes a half-tone wrong at dusk on Cnoc na mBeach, and the Keeper does what keepers do: attends. The first episode of the Church Space storyline keeps one night's watch, in full.
+  A hive goes a half-tone wrong at dusk on Cnoc na mBeach, and the Keeper does what keepers do: attends. The first episode of the Church Space storyline keeps one night's watch, in full. Its second chapter is the morning he marked the hive for, which comes up white.
 </p>
 
 {% set seasonNumber = "8" %}
