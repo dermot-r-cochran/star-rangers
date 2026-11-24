@@ -5932,3 +5932,35 @@ The prompts of record are in `story-bible/images.md` § 101 and are not repeated
 - **Edit prompt:**
 
 > Edit this photograph and change one thing only: remove the three bright rectangular reflections of ceiling light fittings at the top of the window glass. The window shows only the dusk outside: deep blue sky, dark thin water, the long pale harbour wall and its short row of small lights far off. Keep everything else exactly as it is: the woman at the desk in profile, her face, hair and jacket, her hands, the open set under her hand and the closed set at her left, the desk, the chair, the walls, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+## 2026-11-24 — Season 8, Episodes 3 to 7: the five new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 102 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** one, `s08e05c01`, is an edit of Dermot's photograph already filed as `s08e02c01.jpg` (the valley floor, `111BOHER`), as the entry names; the other four are generated. `F:\129DALKY\` and `F:\130DALKY\` were read whole on contact sheets for a thorn or wind-bent bush for `s08e04c01` and hold none (sea views, rocks, goats, gulls and their chicks).
+
+### chapters/s08e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 102; references `src/images/chapters/s08e01c01.jpg`, `src/images/lore/cnoc-na-mbeach.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s08e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 102; reference `src/images/chapters/s08e01c01.jpg` (the card folders named beside it had no plate).
+- **Run:** Round 1 of 1 (`image-edit.js`), take 2 filed.
+
+### chapters/s08e05c01.jpg — filed 24 November 2026
+- **Kind:** edit of Dermot's plate (`edited-ai`), then a second edit
+- **Source:** `images.md` § 102; plate `src/images/chapters/s08e02c01.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the two hurdles leaning against the wall to the right of the gap. Replace them with two plain light field hurdles of matte pale grey composite, each a simple rectangular frame with four or five horizontal rails, no metal, no galvanised steel, no bolts, no hinges, no latch and no mesh, leaned side by side against the stones, tidily, one in front of the other. Keep everything else exactly as it is: the dry-stone wall and its gap, the drowned ground beyond, the wood and the hill, the evening light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+### chapters/s08e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 102; reference `src/images/chapters/s08e01c01.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s08e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 102; references `src/images/chapters/s08e01c01.jpg`, `src/images/characters/peran-slade.jpg` (the lamp only).
+- **Run:** Round 1 of 1, variation 2 filed.
