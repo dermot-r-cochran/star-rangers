@@ -1,1 +1,0 @@
-- **Pictures for Season 11's six new chapters** (`src/images/chapters/s11e03c01.jpg` to `s11e07c02.jpg`, `story-bible/images.md` § 105, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 105's prompts, the Told held to their filed body; sixteen images in all, two edits, one of them the entry's own fallback (sitting for lying).

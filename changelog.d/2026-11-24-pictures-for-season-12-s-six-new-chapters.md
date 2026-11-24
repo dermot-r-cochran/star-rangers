@@ -1,1 +1,0 @@
-- **Pictures for Season 12's six new chapters** (`src/images/chapters/s12e03c01.jpg` to `s12e07c02.jpg`, `story-bible/images.md` § 106, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 106's prompts, the Told held to their filed body; twelve images, no edits. The first look inside the survey station is among them, and is his to overrule.

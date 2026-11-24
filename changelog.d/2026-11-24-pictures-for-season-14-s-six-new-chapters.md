@@ -1,1 +1,0 @@
-- **Pictures for Season 14's six new chapters** (`src/images/chapters/s14e03c01.jpg` to `s14e07c02.jpg`, `story-bible/images.md` § 108, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 108's prompts, the Told held to their filed body; eighteen images in all, three edits.

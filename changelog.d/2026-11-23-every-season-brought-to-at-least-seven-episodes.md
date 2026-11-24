@@ -1,3 +1,0 @@
-### Added
-
-- **Every season brought to at least seven episodes, with a finale for each resolved season** (`src/seasons/`, 2026-11-23, Fable drafting, Opus review, at Dermot's *"A finale episode for each fully resolved and completed season, or a new episode for each season without a finale yet"* and *"At least 7 episodes per season"*). Seventy-nine new chapters across fifteen seasons, Episode 0 counted as an episode. Ten seasons gain a finale at Episode 7 (0, 3, 6, 7, 9, 10, 11, 12, 13, 14); Seasons 1, 2, 4, 5 and 8 gain new episodes and stay open. Opus's review of every draft, the calls it settled and the two it cut are recorded in the pull request. No chapter image yet; owed.
