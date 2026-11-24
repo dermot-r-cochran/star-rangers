@@ -12,7 +12,7 @@ permalink: /seasons/s01/
   </ol>
 </nav>
 
-<img class="page-hero-image" src="/star-rangers/images/hero/season-01.jpg" alt="A clean, pale cream dock wall: the top of a heavy rounded pressure door on the left and of a smaller sealed hatch on the right, and high above each, on a rounded cream bracket, one of two identical atomic clocks, a clear glass cylinder holding a faint violet cloud, its dark readout window reading 03:10:01 above the door and 03:10:41 above the hatch" />
+<img class="page-hero-image" src="/star-rangers/images/hero/season-01.jpg" alt="A clean, pale cream dock wall: the top of a heavy rounded pressure door on the left and of a smaller sealed hatch on the right, and high above each, on a rounded cream bracket, one of two identical atomic clocks, a clear glass cylinder with nothing glowing in it, its wide dark readout reading 03:10:01 above the door and 03:10:41 above the hatch" />
 <h1 class="page-title">Season 1</h1>
 <p class="page-intro">
   Threshold Station is already living with a false reading when Season 1 begins. Browse the published episodes, then follow how each chapter tests civic duty against damaged memory and disputed evidence.

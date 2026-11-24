@@ -6321,3 +6321,20 @@ Dermot asked of the frame *"Does this image look like a clock above a door or so
 > Second, the robot walking a few steps behind her through the seal. Keep exactly the same robot, as in the second image: the same tall broad matte pale grey trunk, the same scuffed limb casings, the same low wide rounded head unit on its dark collar with the lens cluster turned aside, at the same size and in the same place. Change only its posture: give it the easy walking stride of a machine that has walked these docks for decades, mid-step, one foot planted and the other leg swinging through with the knee clearly bent, the hips and shoulders turned slightly with the step, the arms swinging a little, loosely, opposite to the legs, the trunk leaning very slightly forward. Unhurried and sure-footed, not stiff, not marching.
 >
 > No other new objects, no screens, no lettering. A documentary photograph, not a render.
+
+## 2026-11-24 — The Season 1 hero's clocks match S01E01C01 (Opus, desktop)
+
+Dermot's *"Yes replace the Season 1 hero image please"*, after S01E01C01's clock lost its glow and gained a wide readout the same day. An image fix, so Opus.
+
+### hero/season-01.jpg and lore/boundary-zones-dock-seven.jpg — re-filed 24 November 2026
+- **Kind:** an edit of the 16:9 take both pictures come from, then readout digits set by script.
+- **Source:** `image-out/season-01-r1/v3-set.png` (the 13 November take with its readouts set), sent alone.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, three takes, take 2 filed: both cylinders clear with nothing glowing, both readouts broad and blank; takes 1 and 3 kept smaller or pale panels. Then `set-readouts.py --box 528,374,95,26 --text 03:10:01 --box 2215,374,95,26 --text 03:10:41` at 2752 px. The banner is the same band as before (rows 30 to 840 of 1536), filed at 1600 px; the lore picture is the whole frame at 1600 px. Both strength 1, provenance generated. The alts of the four pages that show them (Season 1, Boundary Zones, the boundary-zone glossary entry, the 2819 timeline entry) now say the glass holds nothing glowing.
+- **Note:** the clocks in `chapters/s01e00c07.jpg` were made from this design on 16 November and still show the violet cloud.
+- **Prompt:**
+
+> Edit the first image, a photograph. Do not reframe, crop, zoom or redraw the room. Keep everything exactly as it is: the pale cream curved wall and its seams, the heavy rounded pressure seal at the left, the smaller inner hatch at the right, the long dark wooden counter across the foot of the frame with the closed brown book on it, the framing, light, focus and grain.
+>
+> Change only the two clocks on the wall, one above each door, keeping each in exactly the same place, at the same size, on the same short rounded cream bracket, as the same kind of instrument: an upright clear glass cylinder under a rounded cream cap, standing on a smooth rounded cream base. Remove the violet glowing cloud from inside both cylinders: the glass is clear and quiet, with nothing glowing inside, so that nothing in the frame glows. Make the dark recessed readout window on the front of each base much larger, a broad matte panel filling most of the front of the base, so that each reads at a glance as the face of a clock. Both readout windows are matte, unlit and completely blank: no digits, no numerals, no text, no light.
+>
+> No other new objects, no screens, no lettering. A documentary photograph, not a render.

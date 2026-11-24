@@ -10,7 +10,7 @@ known: specialist
 known_note: "Held by the Survey Corps, which monitors them; most people meet the words only when a boundary event is in the news."
 era: recent
 image: "boundary-zones-dock-seven.jpg"
-image_alt: "A plain cream dock wall with two shut doors, a large pressure seal on the left and a smaller hatch on the right, and the edge of a desk with one closed book along the bottom of the frame. Above each door, on a small bracket, an identical atomic clock: a glass cylinder holding a faint violet glow over a dark readout. The left one reads 03:10:01 and the right one 03:10:41."
+image_alt: "A plain cream dock wall with two shut doors, a large pressure seal on the left and a smaller hatch on the right, and the edge of a desk with one closed book along the bottom of the frame. Above each door, on a small bracket, an identical atomic clock: a clear glass cylinder, nothing glowing in it, over a wide dark readout. The left one reads 03:10:01 and the right one 03:10:41."
 ---
 
 At a boundary station, two clocks can disagree by seconds and both still be telling the truth. That is the first lesson of a boundary zone.
