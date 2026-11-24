@@ -1,0 +1,1 @@
+- **Pictures for Season 1's four new chapters** (`src/images/chapters/s01e04c01.jpg` to `s01e06c01.jpg`, `story-bible/images.md` § 95, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 95's prompts, Thorne and Rook-7 held by reference; eleven images in all, three edit takes.

@@ -1,0 +1,1 @@
+- **Pictures for Season 4's five new chapters** (`src/images/chapters/s04e03c01.jpg` to `s04e06c01.jpg`, `story-bible/images.md` § 98, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 98's prompts, filed faces and Alala held by reference; twelve images in all, one edit.

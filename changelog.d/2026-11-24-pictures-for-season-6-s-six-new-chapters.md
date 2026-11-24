@@ -1,0 +1,1 @@
+- **Pictures for Season 6's six new chapters** (`src/images/chapters/s06e00c01.jpg`, `s06e03c01.jpg` to `s06e07c01.jpg`, `story-bible/images.md` § 100, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). The lane and the wall are edits of two of Dermot's `108SEP24` photographs; the other four are generated with Gemini.

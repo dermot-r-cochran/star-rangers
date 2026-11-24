@@ -114,7 +114,7 @@ for (const p of bad) {
   console.error(`  ${p}  (locked ${entry.since}, ${entry.signal}: ${entry.ref})`);
 }
 console.error(`\nA locked page's assertions are frozen. Allowed edits: ${lib.LOCK_REASONS.join(", ")}.`);
-console.error("Name each in a commit message trailer, and state it in the changelog:");
+console.error("Name each in a commit message trailer, and state it in a changelog.d/ fragment:");
 console.error("  Locked-Page: <path> (<reason>): <what was wrong>");
 for (const m of malformed) console.error(`\nMalformed trailer ignored: ${m.line}\n  ${m.why}`);
 process.exit(1);

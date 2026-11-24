@@ -1,0 +1,1 @@
+- **Pictures for Season 8's five new chapters** (`src/images/chapters/s08e03c01.jpg` to `s08e07c01.jpg`, `story-bible/images.md` § 102, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Four generated with Gemini; the gap in the wall is an edit of Dermot's valley-floor plate. Twelve images in all.
