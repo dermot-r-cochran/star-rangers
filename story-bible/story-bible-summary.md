@@ -499,6 +499,34 @@ and not having the kind of mind that would have noticed it. A spoiler-free
 statement of this is public in `/story-engine/`'s "Scenes and points of
 view"; the named examples above stay here.
 
+### Craft: working ranges for the units above the POV block (guidance, 2026-11-24)
+
+Dermot asked for the ideal number of scenes per chapter, chapters per
+episode, episodes per season and seasons per thread or arc, and took the
+ranges below *as guidance* (his words, 24 November 2026; record in
+`intake-2026-11-24.md`). They are ranges, not quotas. They sit under three
+rules that outrank them: an episode reads as a self-contained short story
+and needs no fixed shape (`CLAUDE.md`, 5 November); no structure becomes a
+repeatable answer a reader learns to expect (*Vary the way in*, 30
+October); and the POV block, whose lengths are set in the next section, is
+the only unit with a fixed target.
+
+| Unit | Working range | Why |
+|---|---|---|
+| **POV blocks per chapter** | 2–4, about 1,500–3,500 words at the general tier | A chapter is one sitting. Two blocks give the scene a second viewpoint; past four, the scene-POV pages carry the material better than one long chapter. |
+| **Chapters per episode** | 3–6 | Enough for a short story with a turn and a recognition; one chapter rarely manages both. Past seven, an episode starts to read as a season. |
+| **Episodes per season** | 3–6 | Room for strands to part and converge, and for the endings test, which applies at the season. |
+| **Seasons per thread** | Open | A thread has no planned end, as the story has none (*It is a story, not a novel*). |
+| **Seasons per arc** | Not a measure | An arc is a character's trajectory, not a reading unit (*Terminology: thread vs. strand*); it crosses seasons and threads freely. |
+
+Published units against the ranges, counted 24 November 2026: Season 1 runs
+30 chapters in 4 episodes (about 7.5 an episode, over the range); Season 2
+runs 15 chapters in 11 episodes, and Season 8 2 in 2, so most episodes
+outside Season 1 sit at 1–3 chapters, under it. The gap is short episodes
+more than long ones. **Nothing published is rewritten to meet these ranges.**
+They guide new episodes, and the weekly unit review may note a unit outside
+them as a report, never as a defect.
+
 ### Craft: POV block length targets by audience tier (settled 2026-08-04)
 
 Four of the story's registers are aimed at four different readerships, and
