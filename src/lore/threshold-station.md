@@ -54,4 +54,4 @@ The record gives no year of founding beyond the station being thirteen years old
 - [The Archive](/star-rangers/lore/the-archive/) — the Survey Archive as the record's working library
 - [Arrival at the Threshold Station (S01E01C01)](/star-rangers/seasons/s01/e01/s01e01c01/) — the station as a place people live and work
 - [The Forty-Second Discrepancy (S01E01C02)](/star-rangers/seasons/s01/e01/s01e01c02/) — the clock, read three ways
-- [Dock Seven, the Last Stand (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/) — the thin water off the dock, 2831
+- [Dock Seven, the Last Stand (S05E06C03)](/star-rangers/seasons/s05/e06/s05e06c03/) — the thin water off the dock, 2831

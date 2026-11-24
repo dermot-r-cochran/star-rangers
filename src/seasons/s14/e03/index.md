@@ -15,7 +15,7 @@ permalink: /seasons/s14/e03/
 
 <h1 class="page-title">Season 14 · Episode 3</h1>
 <p class="page-intro">
-  The deep side, a few tellings after the up-people stayed. Went-Round is still bothered by the one time the going round did not work, and goes to ask the old one at the edge of the amber how the far side was found. The old one is not at the edge. The old one is sitting at the foot of the shelving, beside the small ones' first line of stones, where nobody goes quiet when they breathe in and the knock can be heard as two sounds with a gap between them. What the old one found is short. What the old one has been carrying since is longer: a thing said in an ordinary voice, that nobody knew, and that a whole people put a hand on a rock for.
+  The deep side, a few tellings after the up-people stayed. Went-Round is still bothered by the one time the going round did not work, and goes to ask the old one at the edge of the amber how the far side was found. The old one is not at the edge. The old one is sitting at the foot of the shelving, beside the small ones' first line of stones, where nobody goes quiet when they breathe in and the knock can be heard as two sounds with a gap between them. What the old one says about finding it is short. What the old one has been carrying since is longer: a thing said in an ordinary voice, that nobody knew, and that a whole people put a hand on a rock for.
 </p>
 <p class="page-intro">
   One chapter, and a whole short story: two old ones on the margin on a working time when nothing happens, a name the telling keeps back because it was asked to, and a game that is not much good with two.

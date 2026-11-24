@@ -30,10 +30,6 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 - **schema.org data for the story's structure** (`lib/work-structured-data.js`, `src/_includes/base.njk`, `.eleventy.js`, `test/work-structured-data.test.js`, 2026-11-24, Opus, Dermot's *"Schema.org structured data"*). Each chapter page now carries JSON-LD naming it as a `Chapter` inside its `Episode`, `CreativeWorkSeason` (Season 0 as the Founding Era) and the `CreativeWorkSeries`, with title, description, date, author and licence; the home page carries the series. Only front-matter facts are emitted: no characters or canon facts, whose status `/llms.txt` explains. Hidden chapters stay placeholders with no data. Joins the image and video objects already in the head.
 - **Working ranges for chapters, episodes and seasons, as guidance** (`story-bible/story-bible-summary.md`, `story-bible/intake-2026-11-24.md`, 2026-11-24, Opus, Dermot's *"Yes, as guidance"*). Two to four POV blocks a chapter and three to six chapters an episode (kept at his *"Keep 3–6"* once the counts were corrected, with *"Draft extra chapters as needed"* for episodes below it); episodes per season stay at his ruling of 23 November, at least seven (first written as three to six from a stale clone, corrected the same day with the counts retaken from `main`); a thread has no planned length, and an arc is not measured in seasons. Ranges, not quotas, under the rules that an episode needs no fixed shape and no structure becomes predictable. Published chapters are never altered to fit; chapters may be added.
 
-## [1.78.0] — 2026-11-23
-
-The core theme is recorded: truth is absolute, and trust is built from partial evidence and never finished. Two clauses follow it: the villains are falsehood, never a person, and natural suffering in the present is minimal. Season 5 gains *At Its Ends*, Galen Kane's first viewpoint. The archecluster and Made Minds pages now agree with the Counterpane survey, the open questions are triaged, and four critic points are ruled as recommended.
-
 ### Added
 
 - **Picture prompts for the 79 new chapters** (`story-bible/images.md` §§ 94 to 108, 2026-11-23, Fable drafting, Opus review, at Dermot's *"Write the image prompts for the new chapters"*). One entry per chapter in § 53's shape, season by season: the moment, what sets it apart from its neighbours, references, the prompt and its negations. None is his own frame as it stands; a few name `F:` card folders to check first for a plate. Opus switched one frame to a narrated scene (S04E06) and struck two guesses (a skin tone taken from a surname, S09E05; an empty place in a line, S14E05). Nothing generated; generating is a desktop step.
@@ -66,11 +62,23 @@ The core theme is recorded: truth is absolute, and trust is built from partial e
 
 - **Season 13, Episodes 3 to 7** (`src/seasons/s13/e03/` to `e07/`): *Said Back*, *Who Counted*, *No Hour*, *The Second Thing*, and the finale *The Court Did Not Ask* and *More Than the Names*. New viewpoint page: [Osbern Kell](/star-rangers/characters/osbern-kell/).
 
-- **New chapter: *At Its Ends* (S05E00C03)** (`src/seasons/s05/e00/`, 2026-11-23, Fable, the weekly pass). Galen Kane's first viewpoint, and his answer to the letter Shepherd wrote him in *Not Asked*. Late winter 2830: a colony seats its first council, his mandate ends mid-ceremony, and he answers from the back of the hall without telling her when. At the post she reads her withdrawal bill and sends for the file of his four-month passage. The episode index, Kane's page, the gaps checklist (126 chapters), the intake and `open-questions.md` are updated. The chapter has no picture yet.
-
 ### Changed
 
 - **Season 5's Dock Seven episode renumbered from Episode 2 to Episode 6** (`src/seasons/s05/e06/`, 2026-11-23, Opus, at Dermot's choice that the Last Stand stays Season 5's ending). *What the Hill Keeps*, *A Fraction of a Second* and *What Came Off the Ship* are now S05E06C01 to C03; their `comment_id`s, `/c/` citations and comment threads are unchanged, and every live link and `revealed_by` follows. *As It Stands*, drafted as S05E03, is S06E00C01.
+
+### Fixed
+
+- **Critic read of #2068 to #2083: the release record restored, and five small fixes** (2026-11-24, Fable). The eighty new chapters hold against the record and the rulings of 23 November. Mended: the sixteen entries #2078 and #2079 wrote under the released `[1.78.0]` heading are moved here, unaltered, and that section is again what the tag holds; thirty-one link labels and a caption that read *S05E02* over links to Season 5's Episode 6 now read *S05E06*; *As It Stands* is tagged `season-6`; in *Said Back* Bram loses his voice at *Mereth*, as in S13E01C01; *One on the Line* drops *word for word*; two index lines agree with their chapters. Six points are put to Dermot in `story-bible/open-questions.md`.
+
+## [1.78.0] — 2026-11-23
+
+The core theme is recorded: truth is absolute, and trust is built from partial evidence and never finished. Two clauses follow it: the villains are falsehood, never a person, and natural suffering in the present is minimal. Season 5 gains *At Its Ends*, Galen Kane's first viewpoint. The archecluster and Made Minds pages now agree with the Counterpane survey, the open questions are triaged, and four critic points are ruled as recommended.
+
+### Added
+
+- **New chapter: *At Its Ends* (S05E00C03)** (`src/seasons/s05/e00/`, 2026-11-23, Fable, the weekly pass). Galen Kane's first viewpoint, and his answer to the letter Shepherd wrote him in *Not Asked*. Late winter 2830: a colony seats its first council, his mandate ends mid-ceremony, and he answers from the back of the hall without telling her when. At the post she reads her withdrawal bill and sends for the file of his four-month passage. The episode index, Kane's page, the gaps checklist (126 chapters), the intake and `open-questions.md` are updated. The chapter has no picture yet.
+
+### Changed
 
 - **Made Minds: the instrument floor agrees with the Counterpane survey** (`src/lore/made-minds-and-the-ai-safety-archetype.md`, 2026-11-23, Opus, from the weekly Fable critic read). The page still said no instrument has ever operated outside the local archecluster, in the same sentence that names the surveyed membrane of Counterpane: the contradiction fixed on `archecluster.md` earlier today at Dermot's *"Yes, fix it"*. The clause now excepts the Counterpane survey, as *The Scope of Physical Law* does. The conclusion, that the survey supports no finding about machine-building cultures, is unchanged. A correction of a contradiction (CLAUDE.md, 13 November rule); the page is not locked.
 

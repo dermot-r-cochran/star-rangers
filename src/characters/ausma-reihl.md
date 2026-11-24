@@ -10,7 +10,7 @@ tags: [the-institute, secular, fold-dynamics, working-paper, dock-seven, thresho
 description: "The Institute fold-dynamics researcher whose material account of Dock Seven is the version most of settled space believes, and whose own null-results section prints, at the finding's length, the five observations the account cannot explain."
 image: "chapters/s05e02c03.jpg"
 image_alt: "A grey sea with rows of small white breakers under heavy cloud. Far out, a loose drift of small pale warm lights hangs low over the water at the right and gathers into a single thin line that climbs to the left across the grey sky, thinning until it ends at nothing."
-image_caption: "Off Dock Seven; from What Came Off the Ship (S05E02C03)"
+image_caption: "Off Dock Seven; from What Came Off the Ship (S05E06C03)"
 known_codex: [dock-seven-material-account]
 ---
 
@@ -34,6 +34,6 @@ The record gives Reihl no species, no age, no world and no other paper. It place
 
 - [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/)
 - [The Institute](/star-rangers/lore/the-institute/), [Fold-Transit Catastrophic Failure](/star-rangers/lore/fold-transit-catastrophic-failure/), [Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/), [Threshold Station](/star-rangers/lore/threshold-station/)
-- [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/), the Farline Guild's account filed beside this one, and [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/)
+- [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/), the Farline Guild's account filed beside this one, and [What Came Off the Ship (S05E06C03)](/star-rangers/seasons/s05/e06/s05e06c03/)
 - [Rook-7](/star-rangers/characters/rook-7/), whose log the archivist's note sets beside the paper's fourth section
 - [Maren Ilves](/star-rangers/characters/maren-ilves/) and [Ilsabet Corren](/star-rangers/characters/ilsabet-corren/), the Institute's other authors on the record
