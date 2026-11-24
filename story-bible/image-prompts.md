@@ -6012,3 +6012,42 @@ The prompts of record are in `story-bible/images.md` § 103 and are not repeated
 - **Edit prompt:**
 
 > Edit this photograph. Keep the inside of the car exactly as it is: the open door's frame, the two people's dark soft shoulders and heads at the near edge seen from behind, the night sky, the curve of the ring above with its far lights, the light, the framing and the grain. Change only the long pale lit shape outside, which now looks like another train carriage. Replace it with a low run of small pale dwellings set a little above the line on a grassy slope, joined wall to wall, with plain flat fronts, low roofs and one row of small square windows, each window lit warm from inside, and between two of them one dark width of plain unlit wall with no window in it. In the lit window just to the left of the dark width stands a small lamp; on the sill of the window just to the right is a shelf of small plant pots. No wheels, no rails along it, no carriage, no doors like a train's. No text anywhere. A documentary photograph, not a render.
+
+## 2026-11-24 — Season 10, Episodes 2 to 7: the seven new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 104 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 104 records the catalogue check). **The two Chthonari plates** (`s10e05c01`, `s10e07c02`) follow 17 November's practice: `scripts/blockouts/chthonari-a.py` was rendered in Blender 5.2 in the pose each entry names (`address`, `write`), and the grey render was sent as the only image to `image-edit.js` with the entry's prompt. They were filed with `import-image.ps1 -Finish 0 -Provenance generated`, as painted plates are. `s10e03c01`'s *Text alone* line was read by the batch as a file name, so it was generated with `image-edit.js` and no image.
+
+### chapters/s10e02c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 104; references `src/images/characters/iklix-varn.jpg`, `src/images/characters/zoe-smith.jpg`, `src/images/chapters/s10e01c07.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s10e03c01.jpg — filed 24 November 2026
+- **Kind:** generation, text alone
+- **Source:** `images.md` § 104; no reference.
+- **Run:** Round 1 of 1 (`image-edit.js`, no image), take 2 filed.
+
+### chapters/s10e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 104; reference `src/images/characters/zara-wayland.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s10e05c01.jpg — filed 24 November 2026
+- **Kind:** artist's impression (gouache plate) from a blockout
+- **Source:** `images.md` § 104; the grey render of `chthonari-a.py`, pose `address`, as the only image.
+- **Run:** Round 1 of 1, take 2 filed, at finish 0.
+
+### chapters/s10e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 104; references `src/images/characters/zoe-smith.jpg`, `src/images/chapters/s10e01c07.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s10e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 104; reference `src/images/chapters/s10e01c01.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s10e07c02.jpg — filed 24 November 2026
+- **Kind:** artist's impression (gouache plate) from a blockout
+- **Source:** `images.md` § 104; the grey render of `chthonari-a.py`, pose `write`, as the only image.
+- **Run:** Round 1 of 1, take 1 filed, at finish 0.
