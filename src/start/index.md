@@ -177,6 +177,35 @@ permalink: /start/
 {% endif %}
 {% if not spineFirst and allChapters.length %}{% set spineFirst = allChapters[0] %}{% endif %}
 
+{#- An edition's own thread, named above the spine (edition.startHere,
+    lib/editions.js). Resolved against this build's chapters, like the spine,
+    so it can never link a chapter the domain excludes; Sen's note is unchanged. -#}
+{% if edition.startHere %}
+{% set hereFirst = null %}
+{% for chapter in allChapters %}
+  {%- if not hereFirst and (chapter.data.season | threadForSeason).id == edition.startHere.threadId -%}
+    {%- set hereFirst = chapter -%}
+  {%- endif -%}
+{% endfor %}
+{% if hereFirst %}
+<section class="thread-section" aria-labelledby="plan-step-here">
+  <h2 class="thread-section__title" id="plan-step-here">On this edition</h2>
+  <p class="thread-section__description">{{ edition.startHere.note | safe }}</p>
+  <ul class="chapter-list" role="list">
+    <li class="chapter-list__item">
+      <a href="/star-rangers{{ hereFirst.url }}">
+        <span class="chapter-list__code">{{ hereFirst.data.id | upper }}</span>
+        <span class="chapter-list__title">{{ hereFirst.data.title }}</span>
+        {%- if hereFirst.data.location -%}
+        <span class="chapter-list__loc">{{ hereFirst.data.location }}</span>
+        {%- endif -%}
+      </a>
+    </li>
+  </ul>
+</section>
+{% endif %}
+{% endif %}
+
 <section class="thread-section" aria-labelledby="plan-step-1">
   <h2 class="thread-section__title" id="plan-step-1">1 · Start with the spine</h2>
   <p class="thread-section__description">
