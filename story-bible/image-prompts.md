@@ -6159,3 +6159,46 @@ The prompts of record are in `story-bible/images.md` § 107 and are not repeated
 - **Kind:** generation with a reference
 - **Source:** `images.md` § 107; reference `src/images/characters/bram-tollick.jpg`.
 - **Run:** Round 1 of 1, variation 1 filed.
+
+## 2026-11-24 — Season 14, Episodes 3 to 7: the six new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 108 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs. *Cattle Dust*, offered under the roof entry, was not chosen; the generated plain held to `odile-ferrant.jpg` was used, and the plate stays his to ask for.
+
+### chapters/s14e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 108; references `src/images/chapters/s14e01c01.jpg`, `story-bible/reference-art/told-body-2026-11-17.jpg`, `src/images/characters/went-round.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the large dark standing being in the middle of the row of stones. Make it the same kind of being as the grey one squatting to its right: thick soft grey fur, a long low rounded body, a short broad blunt head with whiskers and no ape face, standing upright and perfectly still on the line of stones, but turned away from the camera so that we see its broad grey back and the back of its head, as it looks down the passage toward the amber glow. No visible face, no dark black fur, not an ape, not a gorilla, not a sloth. Keep everything else exactly as it is: the grey one squatting with a hand flat on a stone, the row of stones, the broken rock in the foreground, the passage, the amber glow at its end, the blue-green fungus, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+### chapters/s14e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 108; references `src/images/characters/nakagawa.jpg`, `src/images/characters/aravena.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s14e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 108; references `src/images/chapters/s14e01c02.jpg`, `story-bible/reference-art/told-body-2026-11-17.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the four furred grey beings lying along the foot of the far wall. Each one stays lying low on the silt, but each lifts its head clear of the ground on its short neck and turns it the same way, toward the camera and a little past it, alert and listening, so that all four are plainly awake and attending to something behind the camera. They are not asleep and not seals: thick grey fur, short broad blunt heads with whiskers, small dark eyes. Keep everything else exactly as it is: the amber fungus on the wall, the blue-green at the edges, the dark rock, the silt floor in the foreground, the light, the framing and the grain. Nobody stands. No text anywhere. A documentary photograph, not a render.
+
+### chapters/s14e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 108; reference `src/images/characters/odile-ferrant.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s14e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 108; references `src/images/characters/nakagawa.jpg`, `src/images/characters/aravena.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s14e07c02.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 108; references `src/images/chapters/s11e02c03.jpg`, `story-bible/reference-art/told-body-2026-11-17.jpg`, `src/images/characters/stone-first.jpg`.
+- **Run:** Round 1 of 1, variation 2, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the stones on the silt. Make them one single line, not two: well over a hundred small plain stones in one uneven row, one stone wide, a hand apart, wandering a little as it runs away from the camera along the silt a few steps out from the wall, toward the standing being far along it. Remove the second parallel line entirely, leaving bare silt where it was. Keep everything else exactly as it is: the furred grey being standing still far along the row, facing the dark crack in the wall, the amber fungus on one wall and the blue-green on the other, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
