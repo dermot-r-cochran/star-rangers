@@ -4,6 +4,7 @@ const { loreImageRel } = require("./lib/lore-image");
 const { VIDEOS } = require("./lib/videos");
 const { mp4DurationSeconds, isoDuration } = require("./lib/mp4-info");
 const { imageObject, videoObject, jsonLd } = require("./lib/media-structured-data");
+const { chapterObject, seriesObject } = require("./lib/work-structured-data");
 const { DateTime } = require("luxon");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const { createMarkdownRenderer, povTierVisible } = require("./lib/markdown-containers");
@@ -362,6 +363,12 @@ module.exports = function(eleventyConfig) {
           : block
     );
   });
+  eleventyConfig.addFilter("chapterJsonLd", (data, pageUrl, siteUrl, workName) =>
+    jsonLd(chapterObject({ ...data, pageUrl, siteUrl, workName }))
+  );
+  eleventyConfig.addFilter("seriesJsonLd", (siteUrl, workName, description) =>
+    jsonLd(seriesObject({ siteUrl, workName, description }))
+  );
   eleventyConfig.addFilter("imageJsonLd", (img, pageUrl, siteUrl, workName) =>
     jsonLd(imageObject({ src: img.src, alt: img.alt, pageUrl, siteUrl, workName }))
   );
