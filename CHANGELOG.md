@@ -6,7 +6,7 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
-- **Working ranges for chapters, episodes and seasons, as guidance** (`story-bible/story-bible-summary.md`, `story-bible/intake-2026-11-24.md`, 2026-11-24, Opus, Dermot's *"Yes, as guidance"*). Two to four POV blocks a chapter, three to six chapters an episode, three to six episodes a season; a thread has no planned length, and an arc is not measured in seasons. Ranges, not quotas, under the rules that an episode needs no fixed shape and no structure becomes predictable. Nothing published changes to meet them.
+- **Working ranges for chapters, episodes and seasons, as guidance** (`story-bible/story-bible-summary.md`, `story-bible/intake-2026-11-24.md`, 2026-11-24, Opus, Dermot's *"Yes, as guidance"*). Two to four POV blocks a chapter and three to six chapters an episode; episodes per season stay at his ruling of 23 November, at least seven (first written as three to six from a stale clone, corrected the same day with the counts retaken from `main`); a thread has no planned length, and an arc is not measured in seasons. Ranges, not quotas, under the rules that an episode needs no fixed shape and no structure becomes predictable. Nothing published changes to meet them.
 
 ## [1.78.0] — 2026-11-23
 

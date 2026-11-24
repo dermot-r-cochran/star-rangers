@@ -515,15 +515,16 @@ the only unit with a fixed target.
 |---|---|---|
 | **POV blocks per chapter** | 2–4, about 1,500–3,500 words at the general tier | A chapter is one sitting. Two blocks give the scene a second viewpoint; past four, the scene-POV pages carry the material better than one long chapter. |
 | **Chapters per episode** | 3–6 | Enough for a short story with a turn and a recognition; one chapter rarely manages both. Past seven, an episode starts to read as a season. |
-| **Episodes per season** | 3–6 | Room for strands to part and converge, and for the endings test, which applies at the season. |
+| **Episodes per season** | At least 7, counting Episode 0 | **Not guidance but his ruling** of 23 November 2026, verbatim *"At least 7 episodes per season"*, with a finale at Episode 7 for each resolved season (#2078, `open-questions.md`). This row first said 3–6, drafted from a clone that did not yet have #2078; corrected the same day. |
 | **Seasons per thread** | Open | A thread has no planned end, as the story has none (*It is a story, not a novel*). |
 | **Seasons per arc** | Not a measure | An arc is a character's trajectory, not a reading unit (*Terminology: thread vs. strand*); it crosses seasons and threads freely. |
 
-Published units against the ranges, counted 24 November 2026: Season 1 runs
-30 chapters in 4 episodes (about 7.5 an episode, over the range); Season 2
-runs 15 chapters in 11 episodes, and Season 8 2 in 2, so most episodes
-outside Season 1 sit at 1–3 chapters, under it. The gap is short episodes
-more than long ones. **Nothing published is rewritten to meet these ranges.**
+Published units against the ranges, counted from `main` on 24 November 2026
+(205 chapters, 111 episodes): every season has seven or more episodes (Season
+2 twelve, Season 6 eight); 90 episodes have one or two chapters, 19 have three
+to six, and 2 have seven or more (both in Season 1, which runs 34 chapters).
+So most episodes sit under the chapters-per-episode range, which is guidance
+for new episodes only. **Nothing published is rewritten to meet these ranges.**
 They guide new episodes, and the weekly unit review may note a unit outside
 them as a report, never as a defect.
 
