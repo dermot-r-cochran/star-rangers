@@ -35,6 +35,7 @@ const { findArchiveBacklinks } = require("./lib/archive-backlinks");
 const { findArchiveCompanions } = require("./lib/archive-companions");
 const { getEdition, validateEditions, PRESENTATION_MODES, editionForDomain } = require("./lib/editions");
 const { unlinkExcluded } = require("./lib/unlink-excluded");
+const { planEpisodes } = require("./lib/plan-episodes");
 const matter = require("gray-matter");
 const fs = require("fs");
 
@@ -624,6 +625,8 @@ module.exports = function(eleventyConfig) {
   // "Other ways on": at the end of an episode, an episode of another thread
   // opening at the same moment, and one Archive entry, beside the Next link.
   // Derived, navigation only; see lib/reading-options.js.
+  // The Reading Plan's first episodes (src/_includes/start-episodes.njk).
+  eleventyConfig.addFilter("planEpisodes", (chapters, threadId) => planEpisodes(chapters, threadId, threadForSeason));
   eleventyConfig.addFilter("meanwhileIn", (chapters, id) => findMeanwhile(chapters, id, threadForSeason));
   eleventyConfig.addFilter("archiveOption", (companions) => pickArchiveOption(companions));
 
