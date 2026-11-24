@@ -6338,3 +6338,19 @@ Dermot's *"Yes replace the Season 1 hero image please"*, after S01E01C01's clock
 > Change only the two clocks on the wall, one above each door, keeping each in exactly the same place, at the same size, on the same short rounded cream bracket, as the same kind of instrument: an upright clear glass cylinder under a rounded cream cap, standing on a smooth rounded cream base. Remove the violet glowing cloud from inside both cylinders: the glass is clear and quiet, with nothing glowing inside, so that nothing in the frame glows. Make the dark recessed readout window on the front of each base much larger, a broad matte panel filling most of the front of the base, so that each reads at a glance as the face of a clock. Both readout windows are matte, unlit and completely blank: no digits, no numerals, no text, no light.
 >
 > No other new objects, no screens, no lettering. A documentary photograph, not a render.
+
+## 2026-11-24 — S01E00C07's clocks match the hero (Opus, desktop)
+
+Dermot's *"Yes, match it"*, after the Season 1 hero's clocks lost their glow the same day (#2115). The readouts stay turned away, because the chapter has *nothing to read on them from where he stood*; only the violet glow goes.
+
+### chapters/s01e00c07.jpg — re-filed 24 November 2026
+- **Kind:** an edit of the filed frame.
+- **Source:** the filed `s01e00c07.jpg` only.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, two takes, both clean; take 2 filed at 1600 px, strength 1, provenance generated.
+- **Prompt:**
+
+> Edit the first image, a photograph. Do not reframe, crop, zoom or redraw the room. Keep everything exactly as it is: the man standing with his back to the camera at the viewport, his grey hair, his grey jacket and pose; the wide round-cornered viewport onto the starfield; the dim warm dark charcoal-brown room, its woven wall at the left and its coving; the bench and the two clocks on it, each an upright clear glass cylinder under a rounded cream cap on a rounded cream base, in exactly the same place and size, their readouts still facing away so nothing can be read on them; the framing, light, focus and grain.
+>
+> Change only one thing: remove the violet glowing cloud from inside both glass cylinders, so the glass is clear and quiet with nothing glowing inside it, and remove the two small violet glows from their faint reflection in the dark glass of the viewport. Nothing in the frame glows.
+>
+> No other new objects, no screens, no lettering. A documentary photograph, not a render.
