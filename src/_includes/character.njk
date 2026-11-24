@@ -66,6 +66,27 @@ commentsCategory: characters
     {{ content | safe }}
   </div>
 
+  {#- The chapters told partly from this character's view, from each
+      chapter's povs (lib/viewpoint-chapters.js); only chapters this edition
+      carries. Folded by season once the list is long. -#}
+  {% set viewpointSeasons = collections.chapters | viewpointChapters(id, page.fileSlug) %}
+  {% if viewpointSeasons.length %}
+  {% set viewpointTotal = 0 %}{% for s in viewpointSeasons %}{% set viewpointTotal = viewpointTotal + s.chapters.length %}{% endfor %}
+  <section class="character-viewpoints" aria-labelledby="viewpoint-chapters" data-pagefind-ignore>
+    <h2 class="character-viewpoints__title" id="viewpoint-chapters">Viewpoint chapters</h2>
+    <p class="character-viewpoints__intro">{{ viewpointTotal }} chapter{% if viewpointTotal != 1 %}s{% endif %} told partly from {{ title }}'s point of view, in reading order.</p>
+    {% for s in viewpointSeasons %}
+    {% if viewpointTotal > 12 %}<details class="character-viewpoints__season"{% if loop.first %} open{% endif %}><summary>Season {{ s.season }} · {{ s.chapters.length }} chapter{% if s.chapters.length != 1 %}s{% endif %}</summary>{% else %}<h3 class="character-viewpoints__season-title">Season {{ s.season }}</h3>{% endif %}
+    <ul class="chapter-list" role="list">
+      {% for c in s.chapters %}
+      <li class="chapter-list__item"><a href="/star-rangers{{ c.url }}"><span class="chapter-list__code">{{ c.code }}</span><span class="chapter-list__title">{{ c.title }}</span></a></li>
+      {% endfor %}
+    </ul>
+    {% if viewpointTotal > 12 %}</details>{% endif %}
+    {% endfor %}
+  </section>
+  {% endif %}
+
   {% if gallery and gallery.length %}
   <section class="character-gallery" aria-label="Gallery">
     <h2 class="character-gallery__title">Gallery</h2>
