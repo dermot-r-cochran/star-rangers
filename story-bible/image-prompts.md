@@ -5785,4 +5785,41 @@ The prompts of record are in `story-bible/images.md` § 97 and are not repeated 
 ### chapters/s03e07c01.jpg — filed 24 November 2026
 - **Kind:** generation with references
 - **Source:** `images.md` § 97; references `src/images/characters/emeka-lindahl.jpg`, `src/images/characters/tissadelle-shepherd.jpg`, `src/images/chapters/s03e03c02.jpg`.
+
+## 2026-11-24 — Season 4, Episodes 3 to 6: the five new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 98 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 98 records the catalogue check).
+
+### chapters/s04e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 98; references `src/images/characters/wendell-albercombe.jpg`, `src/images/chapters/s04e02c01.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep the two people in the foreground exactly as they are (the man in the brown jacket holding the slate, the woman in the ochre work shell beside him), and keep the hall's curved pale walls, the floor, the light and the grain. Change only two things.
+>
+> 1. The row of sealed pale cradles along the wall: there are exactly nine of them, the nine nearest the camera, lying on their low rests. Beyond the ninth, the floor along the wall is bare and empty all the way down the hall. Far down the hall, small and soft, one low empty measuring bed with a single small steady light, and the two distant workers.
+>
+> 2. The ceiling: remove the bright rectangular light strips. The ceiling ribs are plain smooth pale composite with nothing on them; the hall simply has soft even light in it.
+>
+> No text, no lettering, no numerals, no signage, no screens. A documentary photograph, not a render.
+
+### chapters/s04e03c02.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 98; references `src/images/characters/kai-larsen.jpg`, `src/images/chapters/s04e02c01.jpg`, `src/images/characters/alala.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s04e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 98; reference `src/images/characters/alala.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s04e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 98; references `src/images/characters/alala.jpg`, `src/images/chapters/s04e01c01.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s04e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 98; reference `src/images/characters/petra-voss.jpg`.
 - **Run:** Round 1 of 1, variation 1 filed.
