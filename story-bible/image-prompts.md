@@ -5711,3 +5711,42 @@ The prompts of record are in `story-bible/images.md` § 94 and are not repeated 
 - **Kind:** generation with references
 - **Source:** `images.md` § 94; references `src/images/characters/ysolde-pitch.jpg`, `src/images/chapters/s00e01c02.jpg`.
 - **Run:** Round 1 of 1, variation 1 filed.
+
+## 2026-11-24 — Season 1, Episodes 4 to 6: the four new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 95 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 95 records the catalogue check).
+
+### chapters/s01e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 95; references `src/images/characters/galahad-thorne.jpg`, `src/images/chapters/s01e01c02.jpg`.
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the seated man's jacket. Make it a plain-fronted olive-grey jacket with a plain band collar: no chest pockets, no pocket flaps, no buttons showing, no shoulder straps, and nothing on the collar, no tabs, badges or insignia of any kind. Keep his face, hair, beard, posture and hands exactly as they are. Keep everything else exactly as it is: the man seen from behind in the foreground, the desk, the sheet, the room, the window and the view through it, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+### chapters/s01e04c02.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 95; references `src/images/characters/rook-7.jpg`, `story-bible/reference-art/rook-7-body-2026-11-16b.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph. Keep everything exactly as it is: the same hands and knitted sleeves, the old leather-bound volumes, the grey tray, the table, the robot standing by the door on the mat, the whitewashed walls, the window, the light, the framing and the grain. Change only two things.
+>
+> 1. The single loose sheet held up in the right hand: it is turned so that only its plain back faces the camera. That face of it is completely blank, smooth pale paper with nothing on it: no writing, no lines, no marks, no printing.
+>
+> 2. The open book at the right edge of the table: close it, so it lies shut with only its plain worn leather cover showing, and no page visible.
+>
+> No text, no lettering, no numerals anywhere in the picture. A documentary photograph, not a render.
+
+### chapters/s01e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 95; references `src/images/chapters/s01e03c06.jpg`, `src/images/characters/elvira.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s01e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 95; references `src/images/chapters/s01e00c10.jpg`, `src/images/characters/galahad-thorne.jpg`, `src/images/characters/rook-7.jpg`, `story-bible/reference-art/rook-7-body-2026-11-16b.jpg`.
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the straps around the pale wooden crate on the cart. Replace the webbing straps and their metal ratchet buckles with three lashings of plain rough grey rope, each passed around the crate and tied off in a plain knot, with no buckles, no hooks and no metal anywhere on them. The man bent over the crate has his hands on the last knot. Keep everything else exactly as it is: every figure, the robot, the cart, the crate, the doorway, the shingle, the sea and sky, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
