@@ -1,1 +1,0 @@
-- **Pictures for Season 13's six new chapters** (`src/images/chapters/s13e03c01.jpg` to `s13e07c02.jpg`, `story-bible/images.md` § 107, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 107's prompts after the `130DUNLG` and `129DALKY` cards were read for plates and had none; twelve images, no edits.

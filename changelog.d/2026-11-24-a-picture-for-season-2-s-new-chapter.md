@@ -1,1 +1,0 @@
-- **A picture for Season 2's new chapter** (`src/images/chapters/s02e12c01.jpg`, `story-bible/images.md` § 96, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 96's prompt, Bubochka held by reference.
