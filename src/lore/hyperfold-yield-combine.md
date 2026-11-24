@@ -7,7 +7,7 @@ tags: [hyperfold, combine, dock-seven, commercial, fold-drive, boundary, class-i
 description: "A licensed commercial concern that harvested boundary fauna for fold-transit stabiliser, and held an aperture open for four months to do it. Everything about it was lawful. It ended at Dock Seven in 2831, and the parts of it that are still unresolved are not the parts anybody expected."
 plain: "The Hyperfold Yield Combine was a licensed company that harvested boundary animals to make fold-transit stabiliser, holding an aperture open for four months off Threshold Station to do it. Everything it did was lawful: the animals had no legal standing, the permit never required the aperture to close, and the Star Rangers could judge it but not stop it. Its platform was destroyed at Dock Seven in 2831. What destroyed it is disputed; who stood behind it, and where its product went, were never established."
 known: learned
-known_note: "The Dock Seven event has a public account; the permits, the product and the three readings of what destroyed the platform are held by the Corps and the Institute."
+known_note: "The Dock Seven event has a public account; the permits and the product are held by the Corps and the Institute."
 era: recent
 image: "hyperfold-yield-combine.jpg"
 image_alt: "An industrial rendering platform in open space: an open truss carrying tank clusters, booms and cradles under a field of flat radiator panels far larger than the plant itself, a small unlit drum at one end, a distant station's few warm lights, hard sunlight from one side"

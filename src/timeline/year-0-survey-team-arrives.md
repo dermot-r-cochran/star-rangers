@@ -7,7 +7,7 @@ era: "2826-onward"
 summary: "Galahad Thorne, Syra, and Rook-7 arrive at Threshold Station and are briefed on eleven years of instrument drift. The survey team is formed."
 tags: [threshold-station, arrival, galahad, syra, rook-7, survey-team]
 image: "chapters/s01e01c01.jpg"
-image_alt: "A tall pale woman in a dark high-necked garment walks into a wide pale dock through an open rounded pressure seal, her eyes turned aside to read the room; a broad pale grey robot of an older make, a low wide rounded unit on a dark collar above its shoulders with a lens cluster turned aside, follows a few steps behind her. High above the seal hangs a clock, a glass cylinder with a faint violet glow on a cream base whose small dark readout shows 06:42:17. A long rounded window at the left shows a calm sea under a pink-grey dawn."
+image_alt: "A tall pale woman in a dark high-necked garment walks into a wide pale dock through an open rounded pressure seal, her eyes turned aside to read the room; a broad pale grey robot of an older make, a low wide rounded unit on a dark collar above its shoulders with a lens cluster turned aside, follows a few steps behind her in an easy mid-stride, one knee bent and its arms swinging loosely. High above the seal hangs a clock, a clear glass cylinder on a cream base whose wide dark readout shows 06:42:17. A long rounded window at the left shows a calm sea under a pink-grey dawn."
 ---
 
 <article class="lore-entry">
