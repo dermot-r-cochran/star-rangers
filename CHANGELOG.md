@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Season 8, Episode 1 gains a second chapter, *The Morning Watch*** (`src/seasons/s08/e01/s08e01c02.md`, picture prompt in `story-bible/images.md` § 109, 2026-11-24, Fable drafting, Opus review, at Dermot's *"Draft extra chapters as needed"*). The morning the Keeper marked the hive for comes up white, and the watch he chose at dusk becomes the only one the frost allows. Overlay only, no `canon_facts`. It is the one short episode of 90 that a triage found not standing as a short story (no turn); the other 89 are left as published. The triage is in `story-bible/intake-2026-11-24.md`.
+
 - **A picture for Season 2's new chapter** (`src/images/chapters/s02e12c01.jpg`, `story-bible/images.md` § 96, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 96's prompt, Bubochka held by reference.
 
 - **Pictures for Season 1's four new chapters** (`src/images/chapters/s01e04c01.jpg` to `s01e06c01.jpg`, `story-bible/images.md` § 95, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 95's prompts, Thorne and Rook-7 held by reference; eleven images in all, three edit takes.
