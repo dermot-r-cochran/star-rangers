@@ -9,6 +9,7 @@ Plain Node modules required by `.eleventy.js`, by `src/_data/*.js` and by `scrip
 | `classify-content.js` | `classifyContentPath` and the whole-page include-or-placeholder decision, by input path and never by `layout` |
 | `storyline-threads.js` | `STORYLINE_THREADS`, the registry of threads and their seasons; `threadForSeason` |
 | `editions.js` | The registry of per-domain editions keyed by domain, the tier ladder, `tierVisible`, `PRESENTATION_MODES`, `validateEditions`; an untracked `editions.local.json` overlays it for a fork |
+| `newest-lore.js` | `pickNewest`: which lore entry the homepage fronts as Newest, confined to an edition's `newestTopics` when it names any |
 | `markdown-containers.js` | The `::::: scene` and `::: pov` containers, shared by the chapter render and `scenePovPages.js` |
 | `image-size.js` | JPEG/PNG dimensions from the header, null rather than guess, for Open Graph tags |
 | `placeholder-marker.js` | Detects the PLACEHOLDER stamp in a JPEG COM segment |
