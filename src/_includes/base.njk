@@ -137,6 +137,15 @@
   {%- for img in pageImages %}
   <script type="application/ld+json">{{ img | imageJsonLd(page.url, site.url, site.name) | safe }}</script>
   {%- endfor %}
+  {#- The story's own structure (lib/work-structured-data.js): the series on
+      the home page, and on a chapter its place in episode, season and series.
+      A chapter this build hides has had its layout swapped to excluded.njk
+      by now, so the layout test keeps placeholders out. -#}
+  {%- if page.url == "/" %}
+  <script type="application/ld+json">{{ site.url | seriesJsonLd(site.name, site.description) | safe }}</script>
+  {%- elif layout == "chapter.njk" and not site.noindex %}
+  <script type="application/ld+json">{{ { title: title, description: description, season: season, episode: episode, chapter: chapter, date: date } | chapterJsonLd(page.url, site.url, site.name) | safe }}</script>
+  {%- endif %}
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
