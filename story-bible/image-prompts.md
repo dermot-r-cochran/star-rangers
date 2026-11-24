@@ -6051,3 +6051,43 @@ The prompts of record are in `story-bible/images.md` § 104 and are not repeated
 - **Kind:** artist's impression (gouache plate) from a blockout
 - **Source:** `images.md` § 104; the grey render of `chthonari-a.py`, pose `write`, as the only image.
 - **Run:** Round 1 of 1, take 1 filed, at finish 0.
+
+## 2026-11-24 — Season 11, Episodes 3 to 7: the six new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 105 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 105 records the catalogue check). Four entries name references the batch could not read as written (the photography repo's `lion-portrait-at-dusk.jpg` relative to a worktree on C:, and two *Text alone* or page lines), so they were generated with `image-edit.js` and the same references from `F:\CLAUDE\dermot-cochran-photography`.
+
+### chapters/s11e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 105; references `src/images/chapters/s11e02c02.jpg`, `src/images/characters/stone-first.jpg`, `story-bible/reference-art/told-body-2026-11-17.jpg`, `lion-portrait-at-dusk.jpg` (photography repo).
+- **Run:** Round 1 of 1 (`image-edit.js`), take 1 filed.
+
+### chapters/s11e04c01.jpg — filed 24 November 2026
+- **Kind:** generation, text alone
+- **Source:** `images.md` § 105; no reference.
+- **Run:** Round 1 of 1 (`image-edit.js`, no image), take 2 filed.
+
+### chapters/s11e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 105; references `src/images/chapters/s11e02c03.jpg`, `src/images/chapters/s14e02c01.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s11e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 105; references `src/images/chapters/s11e01c05.jpg`, `src/images/characters/aravena.jpg`, `src/images/characters/stone-first.jpg`, `lion-portrait-at-dusk.jpg` (photography repo).
+- **Run:** Round 1 of 1 (`image-edit.js`), take 1, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the row of stones on the pale silt. Make it exactly thirteen separate stones in a single straight line running away from the camera, each one lying flat on the silt a hand apart from the next with bare silt showing between every pair, none stacked or touching. The nearest is the largest and roughest; the thirteenth is the one in the kneeling person's hands at the far end, being set down beside the twelfth. Keep everything else exactly as it is: the kneeling person, the lamp on the silt, the furred being standing beyond, the cave walls, the glowing fungus, the light, the framing and the grain. No text, no numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s11e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit (the entry's fallback)
+- **Source:** `images.md` § 105; references `src/images/chapters/s11e01c03.jpg`, `src/images/characters/keeps-a-hand-on-it.jpg`, `src/images/characters/teddy.jpg`, `lion-portrait-at-dusk.jpg` (photography repo).
+- **Run:** Round 1 of 1 (`image-edit.js`), take 2, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the furred being lying stretched out on the silt in the foreground. Instead it sits low and very still on the silt, seen from behind, its broad furred back to the camera, its body settled down onto the ground, and its head up and turned toward something past the right edge of the frame, as the three sitting beyond it are. It keeps the same thick grey fur. It is not a seal and not asleep. Keep everything else exactly as it is: the three sitting beyond, the cave, the amber light, the glowing fungus, the stones on the silt, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+### chapters/s11e07c02.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 105; references `src/images/characters/nakagawa.jpg`, `src/images/characters/aravena.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
