@@ -5759,3 +5759,30 @@ The prompts of record are in `story-bible/images.md` § 96 and are not repeated 
 - **Kind:** generation with references
 - **Source:** `images.md` § 96; references `src/images/characters/bubochka-alert.jpg`, `src/images/chapters/s02e10c01.jpg`.
 - **Run:** Round 1 of 1, variation 1 filed.
+
+## 2026-11-24 — Season 3, Episodes 4 to 7: the four new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 97 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 97 records the catalogue check).
+
+### chapters/s03e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 97; references `src/images/characters/ingrid-halvorsen.jpg`, `src/images/characters/tissadelle-shepherd.jpg`, `src/images/chapters/s03e02c04.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s03e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 97; reference `src/images/chapters/s03e01c01.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the slate on the desk in front of her. Make it a dark charcoal matte sheet, unlit, with no screen, no glow and no frame or border. Its whole surface is covered with more than two thousand small pale hand-made tally strokes, short slanting lines scratched by hand, crowded and uneven, packed close in loose irregular drifts, some heavier and some fainter, with no grid, no rows, no columns, no boxes, no groups of five, no numerals and no letters. The newest stroke, near the pen's tip, is the freshest and palest. Keep everything else exactly as it is: her hair, her shoulder and sleeve, her hand and the pen, the small blank card beside the slate, the dark object at the right, the desk, the light, the framing and the grain. No text, no numerals anywhere. A documentary photograph, not a render.
+
+### chapters/s03e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 97; references `src/images/characters/emeka-lindahl.jpg`, `src/images/chapters/s03e03c02.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s03e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 97; references `src/images/characters/emeka-lindahl.jpg`, `src/images/characters/tissadelle-shepherd.jpg`, `src/images/chapters/s03e03c02.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
