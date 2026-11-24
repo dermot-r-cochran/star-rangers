@@ -6125,3 +6125,37 @@ The prompts of record are in `story-bible/images.md` § 106 and are not repeated
 - **Kind:** generation with references
 - **Source:** `images.md` § 106; references `src/images/chapters/s12e02c03.jpg`, `src/images/characters/stone-first.jpg`.
 - **Run:** Round 1 of 1, variation 1 filed.
+
+## 2026-11-24 — Season 13, Episodes 3 to 7: the six new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 107 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs. `F:\130DUNLG\` and `F:\129DALKY\` were read whole on contact sheets for a sea front over broken stone (`s13e05c01`) and steps down to a swell (`s13e07c01`). The swell frames are close telephoto views of rock, a concrete block and the stone slip of `DSC_6941`, with no wide view over a broken wall and no flight of steps, so neither could be a plate without the generator rebuilding the frame.
+
+### chapters/s13e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 107; reference `src/images/chapters/s13e02c02.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s13e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 107; references `src/images/chapters/s13e02c02.jpg`, `src/images/characters/ilsabet-marrowtide.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s13e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 107; reference `src/images/chapters/s13e01c01.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s13e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 107; references `src/images/characters/anne-de-courtney.jpg`, `src/images/characters/ernesto-strozzi.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s13e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 107; references `src/images/chapters/s13e02c01.jpg`, `src/images/characters/ilsabet-marrowtide.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s13e07c02.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 107; reference `src/images/characters/bram-tollick.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
