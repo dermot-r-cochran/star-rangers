@@ -1,0 +1,1 @@
+- **Pictures for Season 7's seven new chapters** (`src/images/chapters/s07e02c01.jpg` to `s07e07c02.jpg`, `story-bible/images.md` § 101, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 101's prompts, Wender, Sen, Syra, Toval and Rook-7 held by reference; thirteen images in all, one edit.

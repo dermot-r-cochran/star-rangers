@@ -9,9 +9,9 @@ Three kinds of file share this directory. Which kind a script is decides who run
 | `validate-content.js` | Malformed front matter against `lib/content-schema.js`, id/filename mismatches, duplicate `comment_id`s, and the image bookkeeping (missing targets, unreferenced files, byte-identical duplicates, the URL each layout actually emits, each edition's hero cast) |
 | `check-internal-links.js` | Any `/star-rangers/` link in `src/` or `lib/` that resolves to nothing |
 | `check-related-terms.js` | A `related:` term that matches no page title (the fallback link is valid, so nothing else notices) |
-| `check-changelog.js` | A released changelog section that has gone missing, from `CHANGELOG.md` or its archive in `changelog/` |
-| `check-changelog-coverage.js` | Content pages never mentioned in `CHANGELOG.md` or `changelog/`; warns only |
-| `check-changelog-length.js` | `[Unreleased]` entries past about 120 words, with their opening words and count; warns only |
+| `check-changelog.js` | A released changelog section that has gone missing, from `CHANGELOG.md` or its archive in `changelog/`; an entry written under `[Unreleased]` instead of a `changelog.d/` fragment; a malformed fragment |
+| `check-changelog-coverage.js` | Content pages never mentioned in `CHANGELOG.md`, `changelog/` or `changelog.d/`; warns only |
+| `check-changelog-length.js` | Unreleased entries (`changelog.d/` fragments) past about 120 words, with their opening words and count; warns only |
 | `sync-version.js --check` | README's version line disagreeing with `package.json` |
 | `check-contrast.js` | A palette below WCAG AA on the pairs `main.css` composes; CI only, run after `generate-themes` |
 | `generate-themes.js` | Not a gate itself, but CI regenerates and fails on drift |
@@ -24,6 +24,6 @@ Three kinds of file share this directory. Which kind a script is decides who run
 
 ## Local authoring tools, never part of the build
 
-Each is marked LOCAL AUTHORING TOOL in its header. `new-content.js` (`npm run new`) scaffolds content. `list-canon-facts.js` aggregates `canon_facts` in story order. The image pipeline: `image-prompts.js` works through `story-bible/images.md` (Gemini config in an untracked `gemini.local.json`, sample beside it), `build-photo-catalogue.js` rebuilds `story-bible/own-photography.json` from the sibling photography checkout, `mark-placeholder.js` stamps a card as unfinished. The card generators: `make-codex-cover.ps1`, `make-emblem-card.ps1`, `make-lore-cards.ps1`, `make-placeholder-card.ps1`, `import-image.ps1` and `image-file.ps1` are Windows-only (GDI+); `make-cards.js` is the cross-platform port of the two designed-card modes and needs `sharp` installed with `--no-save`. `giscus-welcome-posts.md` is authored copy for the comment boards.
+Each is marked LOCAL AUTHORING TOOL in its header. `new-content.js` (`npm run new`) scaffolds content. `gather-changelog.js X.Y.Z` moves the `changelog.d/` fragments into a release section of `CHANGELOG.md` when a release is cut. `list-canon-facts.js` aggregates `canon_facts` in story order. The image pipeline: `image-prompts.js` works through `story-bible/images.md` (Gemini config in an untracked `gemini.local.json`, sample beside it), `build-photo-catalogue.js` rebuilds `story-bible/own-photography.json` from the sibling photography checkout, `mark-placeholder.js` stamps a card as unfinished. The card generators: `make-codex-cover.ps1`, `make-emblem-card.ps1`, `make-lore-cards.ps1`, `make-placeholder-card.ps1`, `import-image.ps1` and `image-file.ps1` are Windows-only (GDI+); `make-cards.js` is the cross-platform port of the two designed-card modes and needs `sharp` installed with `--no-save`. `giscus-welcome-posts.md` is authored copy for the comment boards.
 
 A generator cannot spell, so anything with words on it is made by these tools, never by an image model.

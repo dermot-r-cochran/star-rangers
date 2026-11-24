@@ -1,0 +1,1 @@
+- **About: the author as the story's architect** (`src/about/index.md`, 2026-11-24, Dermot's *"Yes, all as recommended"*). *How this site is written* now says the author works as the story's architect, holding the story bible, its structure and every ruling on canon. "Author" stays the byline.

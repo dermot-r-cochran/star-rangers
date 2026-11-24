@@ -76,17 +76,30 @@ function longEntries(text, limit = LIMIT) {
     .filter((e) => e.count > limit);
 }
 
-module.exports = { longEntries, LIMIT };
+// Since 2026-11-24 unreleased entries are fragments in changelog.d/ until a
+// release gathers them, so they are read the same way: each fragment's text
+// as a one-entry [Unreleased] section. The file name leads the opening words.
+function longFragmentEntries(limit = LIMIT) {
+  const { readFragments } = require("../lib/changelog-fragments");
+  const out = [];
+  for (const f of readFragments()) {
+    for (const e of longEntries(`## [Unreleased]\n${f.body}\n`, limit) || []) {
+      out.push({ count: e.count, opening: `changelog.d/${f.name}: ${e.opening}` });
+    }
+  }
+  return out;
+}
+
+module.exports = { longEntries, longFragmentEntries, LIMIT };
 
 if (require.main === module) {
-  const long = longEntries(fs.readFileSync(MAIN, "utf8"));
-  if (long === null) {
-    console.log("Changelog length: no [Unreleased] section found, nothing checked.");
-  } else if (long.length === 0) {
-    console.log(`Changelog length: every [Unreleased] entry is within about ${LIMIT} words.`);
+  const inMain = longEntries(fs.readFileSync(MAIN, "utf8"));
+  const long = [...(inMain || []), ...longFragmentEntries()];
+  if (long.length === 0) {
+    console.log(`Changelog length: every unreleased entry is within about ${LIMIT} words.`);
   } else {
     console.log(
-      `Changelog length: ${long.length} [Unreleased] ${long.length === 1 ? "entry runs" : "entries run"} ` +
+      `Changelog length: ${long.length} unreleased ${long.length === 1 ? "entry runs" : "entries run"} ` +
         `past about ${LIMIT} words.`,
     );
     for (const e of long) console.log(`  ${String(e.count).padStart(4)}  ${e.opening} ...`);

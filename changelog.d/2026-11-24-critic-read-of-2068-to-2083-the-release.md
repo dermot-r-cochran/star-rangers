@@ -1,0 +1,3 @@
+### Fixed
+
+- **Critic read of #2068 to #2083: the release record restored, and five small fixes** (2026-11-24, Fable). The eighty new chapters hold against the record and the rulings of 23 November. Mended: the sixteen entries #2078 and #2079 wrote under the released `[1.78.0]` heading are moved here, unaltered, and that section is again what the tag holds; thirty-one link labels and a caption that read *S05E02* over links to Season 5's Episode 6 now read *S05E06*; *As It Stands* is tagged `season-6`; in *Said Back* Bram loses his voice at *Mereth*, as in S13E01C01; *One on the Line* drops *word for word*; two index lines agree with their chapters. Six points are put to Dermot in `story-bible/open-questions.md`.
