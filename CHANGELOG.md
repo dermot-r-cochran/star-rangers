@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pictures for Season 8's five new chapters** (`src/images/chapters/s08e03c01.jpg` to `s08e07c01.jpg`, `story-bible/images.md` § 102, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Four generated with Gemini; the gap in the wall is an edit of Dermot's valley-floor plate. Twelve images in all.
+
 - **Pictures for Season 7's seven new chapters** (`src/images/chapters/s07e02c01.jpg` to `s07e07c02.jpg`, `story-bible/images.md` § 101, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 101's prompts, Wender, Sen, Syra, Toval and Rook-7 held by reference; thirteen images in all, one edit.
 
 - **Pictures for Season 6's six new chapters** (`src/images/chapters/s06e00c01.jpg`, `s06e03c01.jpg` to `s06e07c01.jpg`, `story-bible/images.md` § 100, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). The lane and the wall are edits of two of Dermot's `108SEP24` photographs; the other four are generated with Gemini.
