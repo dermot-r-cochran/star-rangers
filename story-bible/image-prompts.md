@@ -5890,3 +5890,45 @@ The prompts of record are in `story-bible/images.md` § 100 and are not repeated
 - **Kind:** generation with a reference
 - **Source:** `images.md` § 100; reference `src/images/chapters/s06e02c01.jpg`.
 - **Run:** Round 1 of 1, variation 2 filed.
+
+## 2026-11-24 — Season 7, Episodes 2 to 7: the seven new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 101 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 101 records the catalogue check). Two first calls (`s07e02c01`, `s07e03c01`) were refused once by the provider's content filter with no reason given; each returned one take, and both takes passed, so neither was re-run. `s07e06c01`'s *Text alone* line was read by the batch as a file name, so it was generated with `image-edit.js` and no image.
+
+### chapters/s07e02c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 101; references `story-bible/reference-art/rook-7-body-2026-11-16b.jpg`, `src/images/chapters/s06e02c01.jpg`.
+- **Run:** Round 1 of 1, one take (the second call refused), filed.
+
+### chapters/s07e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 101; references `src/images/characters/sen.jpg`, `story-bible/reference-art/rook-7-body-2026-11-16b.jpg`.
+- **Run:** Round 1 of 1, one take (the second call refused), filed.
+
+### chapters/s07e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 101; references `src/images/characters/syra.jpg`, `src/images/chapters/s01e02c03.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s07e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 101; reference `src/images/characters/sen.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s07e06c01.jpg — filed 24 November 2026
+- **Kind:** generation, text alone
+- **Source:** `images.md` § 101; no reference.
+- **Run:** Round 1 of 1 (`image-edit.js`, no image), take 2 filed.
+
+### chapters/s07e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 101; references `src/images/characters/toval.jpg`, `story-bible/reference-art/rook-7-body-2026-11-16b.jpg`, `src/images/chapters/s01e02c03.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s07e07c02.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 101; references `src/images/chapters/s06e02c01.jpg`, `src/images/characters/karla-wender.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: remove the three bright rectangular reflections of ceiling light fittings at the top of the window glass. The window shows only the dusk outside: deep blue sky, dark thin water, the long pale harbour wall and its short row of small lights far off. Keep everything else exactly as it is: the woman at the desk in profile, her face, hair and jacket, her hands, the open set under her hand and the closed set at her left, the desk, the chair, the walls, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.

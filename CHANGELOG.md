@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pictures for Season 7's seven new chapters** (`src/images/chapters/s07e02c01.jpg` to `s07e07c02.jpg`, `story-bible/images.md` § 101, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 101's prompts, Wender, Sen, Syra, Toval and Rook-7 held by reference; thirteen images in all, one edit.
+
 - **Pictures for Season 6's six new chapters** (`src/images/chapters/s06e00c01.jpg`, `s06e03c01.jpg` to `s06e07c01.jpg`, `story-bible/images.md` § 100, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). The lane and the wall are edits of two of Dermot's `108SEP24` photographs; the other four are generated with Gemini.
 
 - **Pictures for three of Season 5's four new chapters** (`src/images/chapters/s05e02c01-returned.jpg`, `s05e04c01.jpg`, `s05e05c01.jpg`, `story-bible/images.md` § 99, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 99's prompts; ten images in all, two edits. `s05e03c01`, the first picture of the Serephine closed form, drew a spider twice and is parked for a Fable revision of its prompt.
