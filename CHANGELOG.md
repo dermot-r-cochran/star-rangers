@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **The first reader walk, and a developer note removed from reader copy** (`story-bible/reader-walks/2026-11-24-church-space-contemplative.md`, `lib/storyline-threads.js`, 2026-11-24, Opus, Dermot's *"Yes, build it"*). A contemplative reader walked church-space.site from the home page through six pages. The Church Space thread's description, shown on every edition's Reading Plan, no longer ends with *"see this file's own `tier` field comment above"*. The walk's other findings (the Reading Plan sends this edition's reader to the main spine before their own thread; *Newest* is off-register here) are in the log for Dermot's decision.
+
 - **Pictures for Season 14's six new chapters** (`src/images/chapters/s14e03c01.jpg` to `s14e07c02.jpg`, `story-bible/images.md` § 108, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 108's prompts, the Told held to their filed body; eighteen images in all, three edits.
 
 - **Pictures for Season 13's six new chapters** (`src/images/chapters/s13e03c01.jpg` to `s13e07c02.jpg`, `story-bible/images.md` § 107, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 107's prompts after the `130DUNLG` and `129DALKY` cards were read for plates and had none; twelve images, no edits.
