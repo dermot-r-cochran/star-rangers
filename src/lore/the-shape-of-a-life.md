@@ -7,6 +7,7 @@ description: "Birth, growth, adulthood, decline and death is one shape of a life
 image: "the-shape-of-a-life.jpg"
 image_alt: "A cluster of bramble fruit at three stages on one stem, five berries fully ripe and glossy black with the dried styles still standing up from them, others still red and hard, set against green bramble leaves and a softly blurred bank; one of Dermot's own photographs, standing in for the one arc of a life that Earth knows"
 plain: "Humans are born, grow up, grow old and die, and human life developed through evolution and sexual reproduction. Not all other peoples work this way. Some never grow old. Some have more than one adulthood. Some came to be by other routes entirely. Some do not divide themselves into individual people the way humans do. Other peoples may have gender, but nothing says they must, and it does not have to work like ours. The record describes each people in that people's own shape."
+known: specialist
 ---
 
 Every survey filing has a shape it wants to write, and the shape is ours. An individual is born, grows, reaches an adulthood where the record can deal with them, declines, and dies. They have descended from parents by the mixing of an inheritance, at the end of a long chain the environment pruned. It is a good shape. It is the shape of the people who invented the filing. **Nothing in it is a law**, and this entry exists so that no reader, and no clerk, mistakes it for one.

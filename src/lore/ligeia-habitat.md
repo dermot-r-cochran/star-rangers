@@ -5,6 +5,8 @@ category: "Locations"
 tags: [ligeia, titan, titan-settlement-authority, habitat, sol-system, locations, outer-system]
 description: "The Solar System's outer habitat: a spin ring in orbit around Saturn's moon Titan, built by the Imperium to watch the outer settlements and handed to the people it watched, now the seat of the Titan Settlement Authority — the body that acted alone in 2289 CE and has kept the name."
 plain: "Ligeia is a large space habitat circling Titan, a moon of Saturn, about nine and a half times as far from the Sun as Earth is. People have lived on Titan since about 2140 CE, but Titan's gravity is very weak, so families raise their children up on Ligeia, whose spinning ring gives full Earth weight. The Imperium built it to keep watch over the outer settlements; when the Imperium ended, it was handed to the people of Titan. They govern it themselves, and they have a rule that anything they decide which affects their neighbours must be shown to those neighbours forty days before it takes effect."
+known: learned
+era: historical
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"

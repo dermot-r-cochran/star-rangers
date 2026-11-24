@@ -5,6 +5,8 @@ category: "Locations"
 tags: [callisto, jupiter, survey-corps, star-rangers, sol-system, locations, outer-system, lagrange]
 description: "The Star Rangers' Survey Corps post on Jupiter's moon Callisto: an Imperium patrol station dug into the ice, now the depot for the long survey of Jupiter's Lagrange points, crewed in rotation and home to nobody."
 plain: "Callisto Station is a Star Rangers base on Callisto, one of Jupiter's big moons. It is dug into the ice, which shields it from Jupiter's radiation. The Imperium built it as a patrol post. Now the Survey Corps uses it to look after instruments far out at two of Jupiter's balance points, where they watch for natural shortcuts through higher dimensions like the one found near Eden. People come for a posting of a few months and then go home. Nobody lives there for good, and Jupiter hangs in its sky and never sets."
+known: specialist
+era: historical
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Station"

@@ -7,6 +7,7 @@ description: "The Cascade's third design tier: eternal, unobserved, and known on
 image: "archewright.jpg"
 image_alt: "A quarried rock face in flat light, cut into regular rows of identical square cells from top to bottom, broken stone at its foot"
 plain: "Between the tier that sets the deep grammar of reality and the tier that builds actual universes sits the Archewright: the designer that chooses the vocabulary of patterns — archetypes — a whole family of universes is drawn from. Nothing has ever observed one, and nothing ever will. The record infers them from their signature: unrelated cultures, with no contact, independently arriving at the same shapes. An archetype makes a pattern available. It never forces anyone to use it."
+known: specialist
 ---
 
 Nothing in this entry has ever been observed. That is not a weakness in the entry; it is the first fact about its subject, and the register every sentence below is written in.

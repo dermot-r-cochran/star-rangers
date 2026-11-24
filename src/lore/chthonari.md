@@ -6,6 +6,9 @@ category: "Species"
 tags: [chthonari, species, undersong-belt, federation-of-sentient-beings, engineering-corps, star-rangers, low-gravity, harmonics]
 description: "A low-gravity, asteroid-burrowing people, first called insectoid by off-worlders, whose vibration-based senses gave them an intuitive grasp of harmonic mathematics long before they had a word for it — and who are now disproportionately represented in the Star Rangers' Engineering Corps fold-scaffold specialization."
 plain: "The Chthonari are small people who live inside the asteroids of the Undersong Belt. Off-worlders first called them insect-like, but each is one low, flat body with no head, lying on the rock, with six limbs spread from its edge. They do not hear the world through air. They feel vibrations through rock and metal with their whole body, and to them music and mathematics are nearly the same thing. That sense makes them superb engineers, and many of them choose to join the Star Rangers' Engineering Corps — by their own choice, not by any rule."
+known: learned
+known_note: "Their own ways are common knowledge among the Chthonari; outsiders know the Undersong only as something they have been told exists."
+era: recent
 image: "chthonari.jpg"
 image_alt: "Designed title card on a near-black star field in warm amber: the category SPECIES in spaced capitals at the top, a thin circle outline held in a soft glow, and below a short rule the title CHTHONARI in pale serif capitals, subtitled 'The Burrowers in Stone' and 'Harmonic mathematicians, by ear, long before instruments'."
 ---

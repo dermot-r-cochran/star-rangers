@@ -7,6 +7,8 @@ description: "The sapient people of Meridian's shelf seas: long, low, plated bod
 image: "characters/sixth-course.jpg"
 image_alt: "Sixth Course on a load-bearing strut of the Long Shelf lattice in dim green water: a long, low, segmented body in dark mineral-grey plates on many short jointed limbs, a smooth armoured hood with a row of small sense-pits, and two blunt forelimb claws laid on the strut."
 plain: "The Meridian sapients are the people of Meridian's shallow shelf seas: long, low, plated bodies with no head and no face, two blunt striking forelimbs the survey called claws, and many short walking limbs beneath. They build reef-cities of secreted mineral, which two Cerebraun Hegemony surveys logged as geology before anyone saw them for who they were. They speak by striking claw on shell and by chemical signals let into the water. The record holds no name for them in their own speech."
+known: specialist
+known_note: "The people of the reef-cities know themselves; outside Meridian they are known to the Cerebraun Hegemony's survey and the Survey Corps."
 ---
 
 The **Meridian sapients** are the people of [Meridian](/star-rangers/lore/planets/meridian/)'s shallow shelf seas, the most advanced of the world's native crustacean lines. They are the builders of the reef-cities that two [Cerebraun Hegemony](/star-rangers/lore/cerebraun-hegemony/) survey missions logged as geological formations before either understood what it was charting. *Crustacean* is the survey's word, a likeness and not a lineage: no people in this record shares descent with another ([Cross-Biosphere Taxonomy](/star-rangers/lore/cross-biosphere-taxonomy/)). The record holds no name for the people in their own speech, so it uses the planet's.

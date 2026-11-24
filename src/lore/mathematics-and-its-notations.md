@@ -7,6 +7,7 @@ description: "Mathematics is settled once, by a Metawright, and found many times
 image: "mathematics-and-its-notations.jpg"
 image_alt: "Designed emblem card on a violet-navy ground: the category Cosmology in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Mathematics and Its Notations in pale serif capitals, with the line “The theorem and the hand”"
 plain: "Nobody in this world invented arithmetic. A designer far above the universes settled what is true in mathematics, and every people who counts finds the same truths. What each people did invent is the way of writing them down: marks, sounds, vibrations in rock. Two peoples can write the same theorem in ways neither could read, and it is still the same theorem."
+known: specialist
 ---
 
 Every people that counts believes for a while that it invented counting. The record has met many peoples, and it has never once met a different arithmetic.

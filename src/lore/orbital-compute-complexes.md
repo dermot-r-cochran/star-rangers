@@ -7,6 +7,7 @@ description: "The vast orbital supercomputer and data-centre complexes above Ear
 image: "orbital-compute-complexes.jpg"
 image_alt: "Rank upon rank of white radiator panels on a dark truss stretching away above the curve of a planet at night, city lights faint on the surface below"
 plain: "The big computer centres of settled space float in orbit, where sunlight for power is constant and there is room to grow. None of them contains a quantum computer — those only work deep underground in sealed caves, so every planet keeps its quantum machines below ground and connects them to the orbital centres with carefully shielded communication links. The orbital centres do nearly all the everyday computing; the underground vaults handle only the few special problems quantum machines are good at, and neither is where the record's minds do their thinking: a made mind thinks where it works."
+known: learned
 ---
 
 The largest machines the Concord runs cast shadows on the worlds they serve. From a dome floor on Aspenar the local complex crosses the sky twice a shift: a slow bright bar, most of it radiator.

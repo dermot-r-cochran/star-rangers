@@ -8,6 +8,8 @@ description: "The one documented membrane whose quantum-space harmonic regime is
 image: "universes/deadwater.jpg"
 image_alt: "A starfield with nothing in it but stars, and near the bottom of the frame one small dark shape that is not a star"
 plain: "Deadwater is a universe where the two convenient kinds of faster-than-light travel simply don't work. The 'wave' that FTL ships ride elsewhere dies out almost instantly there, and teleportation — which relies on the same physics — fails with it. Ships can still enter through one known fold route, but once inside, crossing between stars takes generations, like it would in our own universe. It is the surveyed universe that most resembles the real one."
+known: specialist
+era: recent
 ---
 
 Every physics claim in the record carries [a scope](/star-rangers/lore/the-scope-of-physical-law/), and none is universal. Deadwater is the membrane that keeps that sentence honest.

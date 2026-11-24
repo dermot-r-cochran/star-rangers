@@ -7,6 +7,7 @@ description: "The difference between humanly habitable worlds and the wider cate
 image: "habitable-for-whom.jpg"
 image_alt: "Designed emblem card on a blue-black ground: the category Physics in spaced capitals at the top, a single thin circle in a soft glow at the centre, and below a short rule the title Habitable, for Whom in pale serif capitals, with the line “Habitability is a relation, not a property”"
 plain: "Habitability is a relation, not a property. The survey never calls a world habitable without saying for whom, because every species has an envelope — the band of gravity, air, temperature and light it can live in unaided — and nearly every habitable world is somebody's comfortable home that would kill a human. No other people surveyed can live in Earthlike conditions, and only Earth and Tír na nÓg suit humans naturally. Almost everywhere else, human settlement means manufacturing an envelope."
+known: learned
 ---
 
 The survey has no checkbox marked *habitable*, because the word is an unfinished sentence. A world is habitable **for** someone, and the file always says whom. Unqualified, the record allows the word one meaning only, *bears its own biosphere*, and that category is generous. The category people usually mean is *the place itself asks nothing of them*. It is so narrow it has two confirmed members, and one of them is home.

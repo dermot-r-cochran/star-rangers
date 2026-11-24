@@ -8,6 +8,8 @@ description: "The one surveyed archecluster whose quantum kernel is not ours: si
 image: "counterpane-archecluster.jpg"
 image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three nested arcs in a soft glow at the centre, and below a short rule the title Counterpane: The Discrepant Archecluster in pale serif capitals."
 plain: "Our universe-family runs on quantum mechanics exactly as real physics describes it — and the record has always been careful to say that's a local fact, not a universal one. Counterpane is the proof: a neighbouring universe-family, reachable by fold transit, where individual atoms and clocks behave just like ours but the statistics of *combined* independent quantum systems come out measurably different. Visitors are safe; their instruments' deepest assumptions are not. Quantum computers certified here don't work there, and FTL corridor charts don't translate."
+known: specialist
+era: recent
 ---
 
 The record has never claimed its quantum mechanics for the whole of everything. [Identical at base](/star-rangers/lore/physics-comparison/) was always an [archecluster-scoped identity](/star-rangers/lore/the-scope-of-physical-law/); the [generalised theory](/star-rangers/lore/generalised-quantum-mechanics/) says the kernel this cluster carries *happens to be* the real universe's quantum mechanics, and files the question of whether it had to be as closed by structure. Counterpane is the far side of that hedge: the surveyed proof that *happens to be* was always load-bearing.

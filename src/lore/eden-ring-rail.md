@@ -8,6 +8,8 @@ description: "Eden Space Habitat's circumferential commuter line — the ordinar
 image: "eden-ring-rail.jpg"
 image_alt: "A clean rail platform on the inner rim of a ring habitat in morning light, a plain rounded grey train with its doors open and a few residents in plain coats boarding seen from behind, terraced gardens and low planted-roof houses beside the line, the land and the track rising away into haze under a long band of windows"
 plain: "The Ring-Rail is the train line that runs all the way around Eden Space Habitat's spinning ring, the way a subway runs through a city. Most residents ride it every day. It is scheduled by the Eden Warden, an AI, who often notices something is wrong on Eden just from the trains running oddly. One short stretch of track, near the fold-route monitoring stations, needs a special clearance that an ordinary ticket does not give."
+known: specialist
+known_note: "Common knowledge on Eden, where most residents ride it every day."
 ---
 
 Most visitors to Eden never think about the Ring-Rail until they miss it. It is not the fold route, not the Compact, not any of the things that get a habitat's name into a Star Rangers briefing. It is the commuter line that gets a dockworker from the outer residential arc to a shift change on time, and it runs so reliably that residents mostly notice it by complaining when it doesn't.

@@ -6,6 +6,9 @@ category: "Locations"
 tags: [undersong-belt, chthonari, skarn-system, asteroid-belt, federation-of-sentient-beings, locations]
 description: "A dense asteroid cluster in the Skarn System, home to the Chthonari — hollowed, resonance-tuned from the first strike of excavation rather than as an afterthought."
 plain: "The Undersong Belt is a group of thousands of asteroids in the Skarn System, and the home of the Chthonari. They dig their settlements inside the asteroids, and as they dig they tune the rock itself, so a finished settlement rings with vibrations its people can feel through their bodies. That shared song through the stone is the undersong the Belt is named for. The Belt has been a member of the Federation of Sentient Beings for generations."
+known: specialist
+known_note: "Home ground and common knowledge to the Chthonari; in the human record it is held by the survey."
+era: recent
 galaxy: "Milky Way"
 system: "Skarn System"
 locationType: "Asteroid Cluster"

@@ -7,6 +7,7 @@ description: "The cosmos's probability, coherence and information physics is one
 image: "generalised-quantum-mechanics.jpg"
 image_alt: "A long low bench of pale composite on two plinths in a seamless pale laboratory, five small round optical holders standing in a sunken channel along its top and a small sealed detector housing at the far end, with no cable anywhere, beside a tall rounded window onto the habitat's cultivated terraces curving up and over."
 plain: "The strange physics in this universe does not break ordinary quantum physics — it is extra structure added on top of it. In quiet places the extra parts do nothing at all, so ordinary physics is exactly right there, down to the last decimal. Near 'thin places', and wherever minds and meaning are involved, the extra parts show up as small, lawful effects. The extra structure never grants new permissions: no message can beat a ship, no one can edit the past, and no machine can read the future."
+known: specialist
 ---
 
 Every quantum laboratory in the Concord confirms the same textbook, to the last decimal place, that a laboratory on old Earth would have confirmed. Every field office within reach of a thin place files exceptions the textbook does not contain. Both records are correct, and the reconciliation is not a compromise. It is a generalisation.

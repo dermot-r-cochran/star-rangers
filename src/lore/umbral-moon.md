@@ -7,6 +7,7 @@ description: "A small dark body at Earth–Moon L5, held there by ordinary celes
 image: "umbral-moon.jpg"
 image_alt: "A dark cratered body in sunlight against the stars, a small blue world and its moon far off to one side"
 plain: "A small dark moon sits at a stable point in the Earth–Moon system, kept there by ordinary gravity like any other object at such a point. What makes it interesting is not what holds it but where it is: the same place carries a bend in our universe's edge that brings a neighbouring universe unusually close. That produces measurable oddities — clocks that disagree, gravity readings with nothing behind them, and occasional crossings. The moon itself was found late, because nothing about it is bright."
+known: specialist
 ---
 
 The Umbral Moon is the least remarkable object in the Solar System's most interesting parking space.

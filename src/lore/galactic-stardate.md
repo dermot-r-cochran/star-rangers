@@ -5,6 +5,7 @@ category: "Timeline Notes"
 tags: [timeline, stardate, chronology, standards, galactic-rotation]
 description: "A deep-time dating coordinate read from galactic rotation, for events older than any people's own count. Not a calendar: the record keeps none."
 plain: "Galactic Stardate is a way of placing very old events, not a calendar. It reads a position in the galaxy's slow rotation, which takes some two hundred million years to come round, so it can place what happened long before any people kept years, the way a geological age can, but it is far too coarse to date a life or a century. The record keeps no galactic calendar. Within the span of civilisations it dates by UCSD and by each people's own years."
+known: specialist
 image: "galactic-stardate.jpg"
 image_alt: "Designed cover for Galactic Stardate: a sundial device, a circle with tick marks and a single hand, in a warm amber glow on a near-black field, the category TIMELINE NOTES above and the title beneath, with the lines Measured by Galactic Rotation and Cycles, not planetary years."
 ---

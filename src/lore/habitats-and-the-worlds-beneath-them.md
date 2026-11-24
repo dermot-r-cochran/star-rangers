@@ -7,6 +7,8 @@ description: "A habitat's environment is manufactured, so nothing about it is in
 image: "greenward-habitat.jpg"
 image_alt: "Greenward, a plain grey habitat ring turning above the cloud-banded limb of a green and blue world, four thin spokes running in to a small central hub, with one flat radiator panel standing straight out from the hub along its axis; nothing docked, nothing lit, and nothing joining it to the ground"
 plain: "A habitat makes its own air, so nothing about it is inherited from the planet below. The species a ring supports is a fact about the ring, not about the world it orbits, and orbiting a world gives no claim on it. People assume otherwise because the Solar System's habitats are all human rings above a human world — one system's history mistaken for a rule. The Archive's own atlas files habitats under the world they orbit, which is correct as geography and misleading as everything else. Even the weightless centre of a spinning habitat has life of its own: the rings' own, moved inward and changed a little over centuries."
+known: specialist
+known_note: "Most people assume the opposite, from the Solar System's own case of human rings above a human world."
 ---
 
 A habitat makes its own air. Everything follows from that, and most of what people assume about orbital settlement follows from forgetting it.

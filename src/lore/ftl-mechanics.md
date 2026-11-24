@@ -5,6 +5,8 @@ category: "Physics"
 tags: [ftl, quantum-space-harmonic-wave, higher-dimensional-folding, concordant, navigation]
 description: "Canonical faster-than-light transit channels and their constraints in the Grand Ensemble Multiverse."
 plain: "Faster-than-light travel has exactly two lawful channels, and no other. Quantum space harmonic waves carry a ship along pre-existing corridors at about a light-year a day at best, most crossings slower: the medium-range workhorse. Higher-dimensional folding brings two distant regions into adjacency: long-range, often intergalactic, and slow, because staging and certification outlast the crossing; it works best from gravitationally flat sites such as Lagrange points. The two share neither physics nor route map. Neither carries a message on its own: there is no faster-than-light signal, so news travels only as fast as a ship or courier and distant records are always lagged."
+known: learned
+known_note: "That there are two ways to travel and no faster-than-light signal is common knowledge; the physics is specialist."
 image: "ftl-mechanics.jpg"
 image_alt: "Designed title card on a dark blue-black star field: the category PHYSICS in spaced capitals at the top, a faint glow behind a thin line drawing of a single wave running between two small circles, and below a rule the title FTL MECHANICS in pale serif capitals, subtitled 'Channels and Their Constraints' and 'How transit is bought, and what it costs'."
 ---

@@ -5,6 +5,8 @@ category: "Locations"
 tags: [titan, titan-settlement-authority, ligeia, sol-system, locations, outer-system, usc]
 description: "Saturn's largest moon and the Solar System's settled world beyond the Belt: a cold world under a thick nitrogen sky, with methane seas, a crust of water ice and an ocean nobody has opened, worked from sealed stations since the 2140s CE."
 plain: "Titan is the largest moon of Saturn. It is very cold, but it has thick air made mostly of nitrogen, seas of liquid methane, and ground made of hard water ice. People have worked there since about 2140 CE, from sealed stations on the surface. Because Titan's gravity is weak, families live up on the Ligeia habitat in orbit and crews take turns working on the ground. Deep under the ice there is an ocean of water. Nobody has drilled into it, and the record does not know whether anything lives there."
+known: common
+era: historical
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Moon"

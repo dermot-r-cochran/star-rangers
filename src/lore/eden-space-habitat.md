@@ -6,6 +6,8 @@ category: "Locations"
 tags: [eden, space-habitat, fold-route, msc, history, formation, boundary]
 description: "Eden Space Habitat: built in the wrong place for the right reasons, and accidentally positioned near one of the Solar System's first confirmed natural higher-dimensional fold routes."
 plain: "Eden is a space station far out past the Moon, about one and a half million kilometres from Earth, built in 2671 as an ordinary research habitat. By accident, it was placed right next to a natural fold route — a hidden shortcut through higher dimensions that leads out of the Solar System. Eden's own scientists proved the route was real, and in 2712 the first ship ever to leave the Solar System, the Constant Margin, launched from here without permission. The slow official response to all of this is a large part of why the Star Rangers were founded. The route is now mapped and monitored, and is called the Eden Passage."
+known: common
+era: historical
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Habitat"

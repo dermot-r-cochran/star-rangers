@@ -6,6 +6,9 @@ category: "Institutions"
 tags: [church-space, communion-of-the-called, cnoc-na-mbeach, hermitage, beekeeping, institutions]
 description: "A small hive-yard hermitage under no diocese and no chain of command, kept by a retired Star Rangers Chief and whoever the Communion of the Called's chaplaincy rota sends through."
 plain: "Cnoc na mBeach — Irish for the hill of the bees — is a hive-yard and a few stone cells kept by Brother Fintan, a retired Star Rangers Chief, on land no diocese and no Corps district claims. It has no charter and no rule, only a habit: whoever the Communion of the Called's chaplaincy rota sends is fed, housed and set to work at the hives, so every chaplain on the circuit passes through eventually. Its wax lights the Communion's services nearby. Fintan tells the bees of the household's births and deaths, claims nothing for the custom, and keeps it anyway."
+known: specialist
+known_note: "Known to the Communion of the Called's chaplains, who all pass through it on the rota."
+era: recent
 image: "cnoc-na-mbeach.jpg"
 image_alt: "A rough granite window opening in an old stone wall, lichened and weathered, looking out on green grass where a row of four plain pale beehives, each one squared piece with softly rounded edges and a narrow slot low on its front, stands on a low grey stand before a low drystone wall."
 ---

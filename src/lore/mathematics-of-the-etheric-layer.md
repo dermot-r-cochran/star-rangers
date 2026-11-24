@@ -5,6 +5,7 @@ category: "Physics"
 tags: [etheric, mathematics, five-layers, physics, constraint, templates, generalised-quantum-mechanics, scope, cosmology]
 description: "What kind of mathematics describes Layer 3: constraint, not force. An Etheric template is a test a configuration passes or fails, its one observable is persistence once the trigger is gone, and it reaches the physics as extension terms with local coefficients that are zero in quiet places. The record holds the form of every term and the value of none."
 plain: "The Etheric layer is not a hidden place or a secret force. It is a set of rules about which patterns are allowed to last. The mathematics for that is the mathematics of rules: a pattern is checked against a rule and passes or fails, and a rule can only ever rule things out, never add new ones. Ordinary physics stays exactly as it is. The small extra effects the Etheric adds in some places can never break one of its rules, and in quiet places there are no extra effects at all. Nobody has yet measured how strong those extra effects are, and the record says so."
+known: specialist
 ---
 
 A force tells a thing where to go. A rule tells it whether it may stay. The Etheric layer is written in the second kind of mathematics, and most of the confusion about it comes from reaching for the first.

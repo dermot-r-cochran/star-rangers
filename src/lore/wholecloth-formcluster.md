@@ -7,6 +7,9 @@ description: "The one formcluster the record holds on report in which fold trans
 image: "wholecloth-formcluster.jpg"
 image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, a single plain circle in a soft glow at the centre, and below a short rule the title Wholecloth: The Unfolded Formcluster in pale serif capitals."
 plain: "A formcluster is a whole family of universes sharing one deep design. Wholecloth is a family whose design leaves out two things our own has: the folded geometry that lets ships shortcut between universes, and the drifting-together of universes that spawns new 'child' universes. So every universe there is an original with no children, and nothing — ships, shadows, dreams — passes between them. We can't visit it, see it, or even say where it is; it is known the way the deep structure of the cosmos is known, by report, and the only thing we provably share with it is mathematics."
+known: specialist
+known_note: "Known only by report, through a boundary analyst's account of what a Levril taught her."
+era: recent
 ---
 
 The [scope ladder](/star-rangers/lore/the-scope-of-physical-law/) puts fold transit one tier higher than most travellers ever think about. A fold is a fact about the [Common Manifold](/star-rangers/lore/post-eleven-dimensional-manifold/), and the manifold is a [Formwright's formtype](/star-rangers/glossary/formcluster/). So folding is a **formcluster-scoped privilege**, held because our Formwright's template includes it. Wholecloth is the formcluster the record holds on report in which it does not.

@@ -7,6 +7,7 @@ description: "Why actors, models and musicians were not replaced by the machines
 image: "performers-and-generated-work.jpg"
 image_alt: "Designed emblem card on a warm brown-black ground: the category Culture in spaced capitals at the top, the outline of a figure, an oval over an arch, in a soft glow at the centre, and below a short rule the title Performers and Generated Work in pale serif capitals, with the line “The original is the performance”"
 plain: "In the twenty-ninth century, machines can make stories, shows and games. But they do not make them out of nothing. Actors, models and musicians act out scenes first, and the machines build on those. The people who acted are always named. There are no holograms, because light cannot float in empty air. Virtual-reality headsets exist, but wearing one is tiring and makes people feel unwell, so they are used only for short jobs where nothing else works. And the helpful voices in the walls are trained to stay quiet unless they are needed."
+known: common
 ---
 ---
 

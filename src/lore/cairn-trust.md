@@ -7,6 +7,9 @@ description: "The largest of the concerns that underwrite frontier foundings —
 image: "cairn-trust.jpg"
 image_alt: "A tall dry-stone cairn on a bare summit ridge at dawn, ranges of mountains receding behind it under a clearing sky"
 plain: "The Cairn Trust pays for new colonies. It carries settlers out, supplies the first fusion cores, and funds the ten to twenty years of building before a colony can power itself, and it gets its money back slowly out of what the colony later produces. Because it is a trust rather than an ordinary company, the money is not its own: it is held for the settlers still waiting for their own passage. That is why it can seem hard. A company may forgive a debt whenever it likes. A trustee is not allowed to."
+known: learned
+known_note: "Common knowledge among frontier settlers, who have dealt with the Trust for two centuries."
+era: historical
 ---
 
 A cairn is stacked by people who have already passed, for people who have not yet arrived. The Trust chose the name, and the uncomfortable thing about the Trust is that it means it.

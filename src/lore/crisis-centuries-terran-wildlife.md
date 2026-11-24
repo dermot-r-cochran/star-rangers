@@ -5,6 +5,9 @@ category: "History"
 tags: [earth, history, climate, biosphere, pre-expansion, wildlife, ssdc, environment]
 description: "How Earth's animal life bent under three centuries of climate stress, and how the long institutional recovery that followed — not evolution alone — produced the wildlife preserves the Solar System Defence Command maintains today."
 plain: "The Crisis Centuries were three centuries of climate stress on Earth, sharpest in the coastal collapses of the 2130s and 2140s CE. Wildlife answered fast and unmanaged: amphibians and reefs collapsed, big slow-breeding species declined, while insects, cephalopods and urban generalists spread and changed. Recovery came later and mostly by institutions, not evolution — seed archives, migration corridors, rewilding — now run by Solar System Defence Command. The leopards and giraffes in today's preserves are deliberately maintained lineages, not survivors of wild selection. Outside the preserves the changes stuck, and much was never saved."
+known: learned
+known_note: "The Crisis Centuries are history; most visitors to a preserve assume its animals simply survived, when they are maintained lineages."
+era: historical
 image: "earth-leopard-grassland.jpg"
 image_alt: "A leopard resting in actively maintained grassland on Earth, photographed in 2826 UCSD"
 ---
