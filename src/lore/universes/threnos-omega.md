@@ -5,6 +5,7 @@ category: "Universes"
 tags: [threnos-omega, entropy-horizon, predictive-closure, static-synod, levrils, auc, cei]
 description: "Reference universe that crossed its entropy horizon and entered predictive closure."
 plain: "Threnos-Ω is a universe that has passed its entropy horizon: almost nothing new arises in it any more, and most of its future can be predicted within narrow bands. It still runs, but existing forms recombine rather than create, and the AUC issued for novelty shrink with them. Its Council of Archons — its own word for Harmonarchs — governs as a Static Synod, keeping things as they are rather than forcing novelty back, while Levrils watch for drift and tampering. The first recorded breach, a small pocket of real novelty that outlasted expectations, showed that closure is stable but not absolute."
+known: specialist
 image: "threnos-omega.jpg"
 image_alt: "Designed emblem card on a deep violet-navy ground: the category Universes in spaced capitals at the top, a thin circle with twelve tick marks and a single hand in a soft glow at the centre, and below a short rule the title Threnos-Ω in pale serif capitals, with the line “Closure is stable, not absolute”"
 ---

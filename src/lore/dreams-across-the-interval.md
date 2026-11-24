@@ -7,6 +7,7 @@ description: "Adjacent membranes interact in subtle ways through the Etheric lay
 image: "dreams-across-the-interval.jpg"
 image_alt: "A dark habitat cabin at night, an empty unmade bunk, a small square window, and on the far wall a faint indistinct patterning of light that matches nothing outside"
 plain: "Universes that sit close together can faintly affect each other — not with matter or messages, but through the layer that carries patterns and meaning. A sleeping mind near a 'thin place' can pick up traces of the universe next door, felt as unusual dreams or visions. The effect is strongest when the two universes share the same deep pattern-vocabulary and are looked after by the same continuity office. It is weather, not a message: no one can send a dream on purpose, and a dream is never evidence about who sent it."
+known: specialist
 ---
 
 Not everything that crosses the Interval registers on an instrument. Some of it registers on a sleeper.

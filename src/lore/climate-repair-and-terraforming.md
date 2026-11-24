@@ -7,6 +7,8 @@ description: "Terraforming was never a frontier technology. It was developed on 
 image: "journal/the-same-discipline-at-a-different-desk.jpg"
 image_alt: "A curving pale sand beach seen from above, meeting shallow green-blue water, with a line of dark rock groynes projecting into the sea and dune vegetation along the near edge; one of Dermot's own photographs, standing in for a rebuilt coast"
 plain: "Terraforming began on Earth, not on Mars. Every technique in the modern toolkit — managing air and ocean chemistry, scaffolding reefs, moving species, rebuilding coasts — was worked out during the Crisis Centuries by people trying to keep a living world alive; the word came back to Earth only when the same methods crossed to Mars. The repair was slow and partial and is not finished, and every later transformation doctrine converged on that shape. The Rangers' charter forbids terraforming living worlds; restoring Earth toward a state it had already held is read as a different act, though no hard case has tested the line."
+known: learned
+era: historical
 related: ["The Crisis Centuries: Terran Wildlife from Collapse to Stewardship", "Frontier Transformation Protocols", "Mars", "Venice", "New London Space Habitat", "United Space Consortium"]
 ---
 

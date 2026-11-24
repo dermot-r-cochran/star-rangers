@@ -7,6 +7,8 @@ description: "Eden's civil detectives are uniformed and wear their rank where it
 image: "eden-bureau-uniform.jpg"
 image_alt: "Seen from inside an apartment doorway, a civil detective in a plain blue-grey band-collared jacket standing on a curved pale residential deck, head turned along the deck, hands empty, one small pale round mark at his collar; flush rounded doors line the deck's wall, and the habitat's green terraces show through an opening overhead."
 plain: "The detectives of Eden Space Habitat wear a uniform, and it carries marks showing their rank. The junior ranks have to wear it; senior ones need not, officers working undercover do not, and Commissioners are not required to have one at all. This is the reverse of the Star Rangers, whose uniform is designed to give away as little as possible. The reason is who does the reading: a Ranger's uniform is read by other officers, while a detective's is read by residents — people being asked questions, who are entitled to know what the person asking is. The rank marks use the same simple painted shapes the habitat already uses on its doors, so anyone who can find their way to air can read a detective's collar."
+known: specialist
+known_note: "Common knowledge on Eden, where the uniform is made for any resident to read."
 ---
 
 A [Star Ranger's uniform](/star-rangers/lore/rank-insignia-and-uniform/) is built to say as little as it can get away with. Eden's detectives wear the opposite instinct, and the difference is not a difference of taste.

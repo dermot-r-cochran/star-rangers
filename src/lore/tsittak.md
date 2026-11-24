@@ -5,6 +5,9 @@ category: "Locations"
 tags: [tsittak, chthonari, quiet-zone-tunnel, fold-route, settlement, federation-of-sentient-beings, survey-corps, locations, deep-space]
 description: "A Chthonari settlement cut into a lone body of nickel-iron in deep interstellar space, beside the mouth of a natural quiet-zone tunnel: no star, no light, and a people who know when a vessel is inside the tunnel before any instrument does."
 plain: "Tsittak is a small town of Chthonari, the six-limbed people who feel the world through rock. It is carved inside a lump of metal floating in the dark between the stars, with no sun anywhere near it. Right beside it is a natural shortcut through higher dimensions. The people of Tsittak can feel, through the metal under their feet, when a ship is travelling through the shortcut, before any machine can tell. The Star Rangers only found the town when one of their own ships came out of the shortcut by surprise."
+known: specialist
+known_note: "Common knowledge to the few hundred Chthonari who live there; in the human record it is held by the Survey Corps, which found it in 2794."
+era: recent
 galaxy: "Milky Way"
 system: "Interstellar space"
 locationType: "Settlement"

@@ -6,6 +6,8 @@ revealed_by: s01e00c11
 tags: [si-gaoithe, discordant-membrane, gravity-tunnel, meta-dimensional, celtic-union, creative-entropy, fairies]
 description: "A second, unrelated membrane bleeding across Celtic Union boundary zones at no predictable interval at all — high creative-entropy, unstable, and the working explanation for a much older, much less dignified body of folklore than Tír Tairngire's."
 plain: "Sí Gaoithe — Irish for 'fairy wind' — is a separate universe whose edge brushes against ours in Celtic Union space. Its boundary never settles down, so crossings happen without warning and cannot be predicted. The beings that cross mostly leave small, puzzling tricks behind — a moved tool, a door that opens backward for a day — and no one has ever shown that they want anything at all. The old fairy stories from these regions are thought to be about visits like these."
+known: specialist
+known_note: "The fairy wind is a household story across the Celtic Union; the reading of it as a neighbouring universe is the Survey Corps' working account."
 image: "universes/si-gaoithe.jpg"
 image_alt: "A turbulent green and gold field of translucent folds with no repeating structure, forming and collapsing into itself"
 ---

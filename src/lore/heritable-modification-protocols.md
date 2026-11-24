@@ -7,6 +7,7 @@ description: "The safety doctrine governing deliberate genetic modification of a
 image: "heritable-modification-protocols.jpg"
 image_alt: "Two identical sealed matte cylinders a hand's width apart on a plain steel bench, one standing in a shallow tray and the other on the bare bench, each with one small unlit indicator, flat clinical light"
 plain: "These are the rules about deliberately changing a living thing's genes. The rules care most about one difference: whether the change stays in the one animal it was made in, or whether it can be passed on to that animal's young. A change that stays put can be undone by treating or retiring that one animal. A change that breeds cannot be called back once it is loose in a wild population, so it faces by far the strictest rules — in most places it is only allowed to restore a documented old lineage, never to invent a new one. No single government runs the whole system; each one keeps its own version, all shaped the same way, with lawful machines refusing to cross the line no matter who orders it."
+known: learned
 related:
   - "The AI Safety Kernel"
   - "Frontier Transformation Protocols"

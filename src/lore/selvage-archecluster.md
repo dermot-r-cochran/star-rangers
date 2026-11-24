@@ -7,6 +7,9 @@ description: "The registered exception inside the sealed formcluster: one archec
 image: "selvage-archecluster.jpg"
 image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Selvage: The Seeded Edge of Wholecloth in pale serif capitals."
 plain: "Wholecloth is the universe-family where nothing crosses between universes — no ships, no shadows, no new 'child' universes. Selvage is the one exception the record knows about: a group of universes along that family's edge where universe reproduction by seed minds still works. Deep enough minds there can compress into seeds that start new universes in reserved empty places along the edge. But a seed carries structure, not a person — so even this one open channel is not a way out for anyone. The family grows along its own edge, one sealed room at a time."
+known: specialist
+known_note: "The registry's source for Selvage reached the Survey Archive only in 2825."
+era: recent
 ---
 
 [Wholecloth](/star-rangers/lore/wholecloth-formcluster/) is the formcluster the record holds on report as sealed: no fold geometry, static seating, no overlap, no derivation. Every universe is primary, childless, and closed to every phenomenon that requires a neighbour. That report carries one registered exception, and the exception is where the registry's cloth-name earns its second meaning. A woven cloth's **selvage** is its self-finished edge: the border the weave binds off itself, so it cannot unravel. Wholecloth has one, and it is not empty.

@@ -7,6 +7,9 @@ description: "A people of Aphel without individual persons: each body is an anim
 image: "the-convened.jpg"
 image_alt: "A heavy, low, dome-shaped animal with ochre and russet hide in long folds closed over its back, at the mouth of a den dug into dark frosted ground at dusk, resting on two broad clawed forelimbs, with a blank sloping brow at the front and one small dark eye on its flank; behind it a small pale sun sits on the horizon of a frosted plain"
 plain: "The Convened live on Aphel, a world with a long dark winter and a short bright summer. Each Convened body is an animal on its own. When there is work too big for one body to finish before the cold comes back, many bodies come together and act as one person until the work is done. Then the bodies go their own ways, and that person is gone. Because of this, ordinary questions, such as who agreed to something, are hard to answer for them, and the record does not pretend they are easy."
+known: specialist
+known_note: "Held by the Survey Corps, which met and filed them; the Convened have left the record no account of their own."
+era: recent
 ---
 
 Ask who dug a den on Aphel and the answer is true and of no use: someone did, for exactly as long as the digging lasted, and every body that was that someone is asleep inside it.

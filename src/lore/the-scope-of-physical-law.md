@@ -7,6 +7,7 @@ description: "Every physical fact in the record is scoped to one of six levels �
 image: "the-scope-of-physical-law.jpg"
 image_alt: "Six boxes of graduated size standing apart in a row along a long pale table in a bare, pale room, four of plain wood and two of pale composite, none matching, and at the far end a small sealed grey housing with a single small light, daylight from a tall window on the left."
 plain: "Physics facts come in sizes. Some are true about one force, some about one region, one universe, one family of universes, or the mathematics behind all of them. This page says which size each kind of fact is, so nothing gets called true 'everywhere' when the record only knows it is true here. Even the most basic quantum physics is a 'here' fact — true across our whole family of universes — not an 'everywhere' fact."
+known: specialist
 ---
 
 Ask the record whether gravity is the same everywhere and it will ask what you mean by *everywhere*. That is not evasion. It is the record's oldest discipline applied to its largest subject: no fact is stated wider than the ground it stands on.

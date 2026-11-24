@@ -5,6 +5,7 @@ category: "Institutions"
 tags: [star-rangers, navigation-corps, drift-routes, certification, fold-transit, survey-corps, lagrange, institutions]
 description: "The corps that certifies routes rather than hulls, why route certificates expire when hull certificates do not, and why the body that measures a corridor's drift cannot be the body that clears it."
 plain: "The Star Rangers Navigation Corps certifies routes, while the Safety Corps certifies hulls; a lawful fold transit needs both. Corridors drift, so a route certificate expires while a hull certificate does not, and a ship that has changed in no way can become uncleared overnight. It was split from the Survey Corps partly so that the body measuring a corridor's drift is never the one that must justify closing it. It clears nothing where it is not invited, mutual recognition with other polities' bodies takes centuries, and where a re-survey was its to schedule, it files a loss on the lapsed route against itself."
+known: specialist
 image: "star-rangers-navigation-corps.jpg"
 image_alt: "A small smooth cylindrical buoy with a single slim mast, almost all in shadow and caught by one thin edge of cold light, hanging slightly off true against a dense starfield, unlit and unmarked"
 ---

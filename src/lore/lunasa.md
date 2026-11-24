@@ -7,6 +7,7 @@ description: "The Survey Corps station in Earth orbit that keeps the reference t
 image: "lunasa.jpg"
 image_alt: "Designed emblem card on a dark slate ground: the category Locations in spaced capitals at the top, a thin circle with twelve tick marks and a single hand in a soft glow at the centre, and below a short rule the title Lúnasa in pale serif capitals, with the line “The standard Threshold is set against”"
 plain: "Lúnasa is a Survey Corps station in Earth orbit, one of the thousands of stations in the ring at geostationary height. It keeps the reference time that Threshold Station's clocks are checked against. One of the two chronometers on Threshold's Dock Seven wall shows Lúnasa's time, and the other shows Threshold's own. They read forty seconds apart. Every correction physics predicts has already been made, and the forty seconds are what is left. Neither clock is wrong: the gap is the reading."
+known: specialist
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Station"

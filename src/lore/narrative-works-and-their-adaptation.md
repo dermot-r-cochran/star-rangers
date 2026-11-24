@@ -7,6 +7,8 @@ description: "What a published work of fiction actually looks like in the Concor
 image: "narrative-works-and-their-adaptation.jpg"
 image_alt: "A reader's table of a pale stone-like material by a wide window, holding one plain cloth-bound volume lying shut with a ribbon marker and a row of slimmer plain volumes standing shut on their edges beside it, every spine and cover unlettered; a few more plain volumes in a niche behind, and through the glass, softly out of focus, green terraces and pale buildings stepping up a slope in mist"
 plain: "Stories here are not published as one long text. A work is a spine of scenes, each scene carrying several characters' viewpoints, with reference material and source documents attached to it. Pictures and sound are part of it, but nothing glows and nothing is projected. Adapting a work for another species takes years, because there is no machine that translates. The person who does it is named, and their version is treated as their account rather than as the work itself."
+known: common
+known_note: "How a work is shaped is everyday; the years of work in adapting one for another people are known to those who do it."
 ---
 
 A work of fiction here is not a thing you finish. It is a thing you finish *reading*, which is not the same, and the difference is visible in the shape.

@@ -10,6 +10,8 @@ description: "A system whose ringed gas giant hums in patterns, whose indigenous
 image: "planets/corryn.jpg"
 image_alt: "A dark ringed gas giant hanging huge and low in a night sky, a thin lit edge on its disc and faint bands of blue, violet and green along its rings, above a black hillside of coiled fern-like plants"
 plain: "Corryn is a star system about 700 light years from Earth. Its most striking feature is a gas giant, the Carillon, whose rings give out a low hum in complex patterns. The habitable world nearby, Corryn Prime, is home to the Spiralites, a people who speak using electromagnetic pulses. A human mining and farming colony there is producing interference that is wrecking the Spiralites' ability to communicate and to reproduce. The colony was licensed by the Imperium, which fell in 2609, so it holds a permission nobody living can withdraw and nobody has stopped it."
+known: specialist
+era: historical
 ---
 
 The Carillon rings, and for thirty years nobody asked whether anything was listening.

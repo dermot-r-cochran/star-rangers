@@ -7,6 +7,8 @@ description: "The charter population line above which a self-governing orbital s
 image: "new-london-space-habitat.jpg"
 image_alt: "A narrow wet cobbled street in New London after rain, old brick and stone frontage on one side and plain modern pale buildings on the other, opening onto a low stone bridge over a dark canal, a few people walking and crossing, roses in stone planters by the bank. Beyond the rooftops the ground curves visibly upward into a flat grey-white overcast, the far part of the ring rising like a wall with the city built up it."
 plain: "The habitat threshold is the population figure in the Star Rangers charter above which a self-governing orbital settlement becomes a place the Rangers may enter only by invitation. The line is legal, not architectural. Outer-station delegates demanded it before they would ratify the Consolidation Accords. Settlements grow past the line for several reasons; one is that above it the Rangers cannot board them on their own initiative. But crossing it puts nothing in the Rangers' place, and what the settlements' own shared arrangements leave uncovered — five unboardable habitats, no power to follow a case across their lines — is where trouble arrives."
+known: learned
+era: historical
 ---
 
 The charter does not define an orbital habitat by its size, its shape, or how many rings it turns. It defines one by how many people have stopped intending to leave.

@@ -6,6 +6,9 @@ category: "Locations"
 tags: [threshold-station, threshold, boundary, instrument-drift, dock-seven, survey-corps, survey-archive, constabulary, star-rangers, sol-system, locations]
 description: "The Solar System's boundary-proximate shore station: a mid-grade Survey Corps post built where the Interval between two universes narrows, known across the record for two chronometers in Dock Seven that have disagreed by forty seconds since 2815 UCSD, and for what happened in the thin water off that dock in 2831."
 plain: "Threshold Station is a Survey Corps shore station on Earth, built about 2813 UCSD where the Interval between two universes narrows over the water off its docks. Two chronometers in Dock Seven have read forty seconds apart since 2815: the station's own clock, and a repeater of the reference standard kept at Lúnasa in Earth orbit, each accurate on its own; the station filed the gap as a hardware fault for most of eleven years, and a lighthouse keeper's clock records later showed it was older than the station. In 2831 the narrowed Interval off Dock Seven was found being worked industrially, and the loss that followed, the Last Stand, is filed from here. The station houses the Survey Archive. What produces the forty seconds is still unknown."
+known: learned
+known_note: "The loss off Dock Seven reached the newsnets; the forty-second gap and the boundary readings behind it are held by the Survey Corps."
+era: recent
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Station"

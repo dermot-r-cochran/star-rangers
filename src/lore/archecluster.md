@@ -7,6 +7,8 @@ description: "What the record's largest 'here' looks like from where everyone ac
 image: "archecluster.jpg"
 image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three concentric rings in a soft glow at the centre, and below a short rule the title Inside an Archecluster in pale serif capitals."
 plain: "An archecluster is a family of universes drawn from one designer's vocabulary of deep patterns. This page is about what that is like from inside: your FTL route charts, your quantum computers, and even the safety rules unrelated species keep independently inventing are all local to your own family — true across the whole of it, and not one step wider. Belonging gives nobody authority over anybody, and being related doesn't put universes anywhere near each other. Two other families have names — Counterpane, which was visited, and Selvage, which is known only by report. Ours, which every measurement ever made sits inside, has never needed one."
+known: specialist
+era: recent
 ---
 
 An archecluster has no edge to stand at and no border to cross, because descent is not a place. From inside, and everyone is inside one, it looks like nothing at all. That is the difficulty this page exists for: the cluster is the water, and the record's account of it has to be assembled from everything that turns out to be wet.

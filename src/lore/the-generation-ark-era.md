@@ -7,6 +7,8 @@ description: "The centuries before QSH corridors or fold routes, when the only r
 image: "the-generation-ark-era.jpg"
 image_alt: "A Currach-era generation ark alone in deep space, seen small: a long dull spine with a wide patched drum amidships built to turn about the ship's axis, flat radiator panels along the spine fore and aft, a small docking structure forward, nothing lit"
 plain: "Before there was any fast way to travel between stars, the only way to reach another one was a 'generation ark': a sealed ship on a journey so long that the crew who set out would grow old and die aboard, leaving the voyage to their grandchildren. It was as dangerous as the early Viking and Irish monk sea-crossings in small open boats — the ships the arks were named after. Many were lost. Some got through, mostly the best-prepared and most tight-knit crews. And because a ship that made it and a ship that vanished both went silent for generations, the home system could never tell which was which, so it wrote all of them down as lost."
+known: learned
+era: historical
 related:
   - "The Celtic Union of Planets"
   - "The Imperium"

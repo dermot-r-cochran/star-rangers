@@ -7,6 +7,7 @@ description: "This record certifies hulls, routes, people and minds — and noth
 image: "what-nobody-certifies.jpg"
 image_alt: "Five shallow recesses in a pale corridor wall beside a door, four holding a grey-green metal seal on a dark cord, struck with a triangle, a diamond, two circles and three bars, and the fifth holding only an empty cord"
 plain: "The Star Rangers and their sister corps certify a great many things: ships, fold routes, qualified people, lawful machine minds. Nobody certifies a licence to settle somewhere. There is no standard for it, no body that issues one, and no review. That is not an accident — a body able to review a settlement's right to be there would need the power to enter and to compel, and the Rangers were deliberately forbidden both when their charter was written."
+known: specialist
 ---
 
 A hull is certified. A route is certified, and expires. A boundary analyst carries a designation, and a lawful mind carries a commissioning. Ask which office certifies a settlement's right to be where it is, and the question has no answer — not a difficult one, not a contested one. There is no such office.

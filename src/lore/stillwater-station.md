@@ -5,6 +5,9 @@ category: "Locations"
 tags: [stillwater, titan, ligeia, titan-settlement-authority, sol-system, locations, outer-system]
 description: "The oldest surface station on Titan, on the shore of the methane sea Ligeia Mare: where the Titan Settlement Authority's charter was first signed, worked ever since by crews who rotate down from the ring and go home again."
 plain: "Stillwater is the oldest station on the surface of Titan, a moon of Saturn. It stands on the shore of Ligeia Mare, a sea of liquid methane so calm that its surface is almost always as flat as a mirror. People have worked there since the 2130s CE, drawing methane from the sea and cutting water ice from the shore. Nobody lives there for good: crews come down from the Ligeia habitat in orbit, work their turn and go back up. The station's first room, where Titan's government was founded, is still kept as it was."
+known: specialist
+known_note: "Titan's own crews know it well: each new crew is walked through the First Hall."
+era: historical
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Station"

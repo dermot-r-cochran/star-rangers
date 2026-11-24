@@ -7,6 +7,9 @@ description: "What the civil date actually is: a continuous count renumbered fro
 image: "universal-cosmic-stardate.jpg"
 image_alt: "Six identical low sealed housings in a row across a clean, pale, seamless room, each on its own pedestal, with a faint violet glow in a small window on top of each"
 plain: "Time in this story is ordinary: one real timeline, running one way, no branches. The date system is just very careful measurement of it. The year count continues old Earth's with 200 added. There is no single master clock — many well-kept clocks are compared, corrected, and averaged after the fact, and couriers physically carry time between places because no signal travels faster than a ship."
+known: common
+known_note: "The date is in everyday civil use; how the clocks behind it are compared, corrected and averaged is specialist work."
+era: historical
 ---
 
 Time in the Grand Ensemble is linear, one-dimensional, and real. There is one history and it runs one way: [no branches, no retrocausal editing](/star-rangers/lore/physics-comparison/), [no parallel timelines to consult](/star-rangers/lore/quantum-computing-and-the-cavern-constraint/), no second axis, and no place to stand outside it. Every difficulty in the record's dating, and the record has difficulties, is a difficulty of *measurement*, never of metaphysics. That premise governs the whole discipline, and it is why the discipline is engineering rather than philosophy. The quantity is simple. Reading it precisely, across distances no signal can beat a ship over, is not.

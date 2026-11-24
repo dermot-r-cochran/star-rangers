@@ -5,6 +5,7 @@ category: "Cosmology"
 tags: [creative-entropy, cei, entropy-horizon, predictive-closure, auc, universe-lifecycle]
 description: "Canon framework defining how novelty capacity rises, peaks, and closes in a universe, and how that behavior shapes AUC generation."
 plain: "The Creative Entropy Framework describes how a universe produces, circulates and finally runs out of novelty — new ideas, new forms, new unresolved futures. This is not the same as thermodynamic decay: a universe can stay physically active long after nothing truly new happens in it. Its measure is the Creative Entropy Index, CEI, which runs from high in a young universe to near zero past the Entropy Horizon, after which most outcomes are forecastable, a state called Predictive Closure. The AUC economy follows CEI: the more novelty contributed, the more cognition allocated."
+known: specialist
 image: "creative-entropy-framework.jpg"
 image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, a thin circle with twelve tick marks and a single hand in a soft glow at the centre, and below a short rule the title Creative Entropy Framework in pale serif capitals, with the line “How a universe produces, circulates, and finally exhausts novelty”"
 ---

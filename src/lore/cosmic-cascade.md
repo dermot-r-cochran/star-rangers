@@ -5,6 +5,8 @@ category: "Cosmology"
 tags: [cosmology, cascade, hierarchy, hyperomnium, kieme, conseleme, worldwright, concordant, telearchs, mediarchs, celestials, levrils, champions]
 description: "The strict hierarchy of causal authority in the Grand Ensemble Multiverse, from Hyperomnium to Champions/Heroes."
 plain: "The Cosmic Cascade is the fixed ordering of causal authority in the Grand Ensemble Multiverse, from Hyperomnium at the top down through the design tiers, Worldwrights, Telearchs, Mediarchs and Celestials to Levrils and the Champions they choose. Causality runs downward and never reverses. The Cascade encodes no virtue or punishment, one contested exception aside, and allows no magic, no time travel and no direct appearance of anything above the Celestials; the higher strata reach the world through structure, design, avatars, Champions and prophets, never in person. The past is fixed and the future open. It is the framework the Archive files against, not a majority view."
+known: specialist
+known_note: "The Survey Corps files against it; most people hold no position on it and meet its words only when a boundary event is in the news."
 image: "cosmic-cascade.jpg"
 image_alt: "Designed emblem card on a deep violet-navy ground: the category Cosmology in spaced capitals at the top, three stacked chevrons pointing upward in a soft glow at the centre, and below a short rule the title The Cosmic Cascade in pale serif capitals, with the line “Ontological, not political”"
 ---

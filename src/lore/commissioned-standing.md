@@ -7,6 +7,8 @@ description: "What the commissioning gate grants and commerce cannot take away: 
 image: "characters/xenon.jpg"
 image_alt: "Xenon, an old grey maintenance robot with a boxy sensor head of recessed lenses and finely jointed hands, works at a pale built-in bench in a clean, coved machine bay, holding a small part with care under a long flush light strip. A small service machine lies intact on the bench beside a tray of clean parts laid out in order."
 plain: "Commissioning is a grant, not a receipt. A system commissioned as a mind gains standing under Concord law the moment it passes the gate: it is not property, cannot be sold, and cannot be scrapped, however long ago its design was discontinued. That, with the cost of commissioning a replacement, is why old units like Xenon and Lucene-9000 are still in service, and why the Concord's machines are old. When a mind's purpose ends it takes another role, or rarely retires with its standing whole. It may hold full citizenship but no vote and no office. The standing does not reach the uncommissioned, which is why the found-mind question is hard."
+known: learned
+era: historical
 ---
 
 Somewhere in the Concord there is a warehouse of parts for machines nobody makes any more. There is no equivalent warehouse of the machines themselves, and the absence is not sentiment. It is the law working.

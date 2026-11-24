@@ -31,10 +31,13 @@ commentsCategory: lore
     {% endif %}
   </header>
 
-  {% if plain %}
+  {% if plain or known %}
   <aside class="plain-summary">
     <h2 class="plain-summary__heading">In short</h2>
-    <p class="plain-summary__text">{{ plain }}</p>
+    {% if plain %}<p class="plain-summary__text">{{ plain }}</p>{% endif %}
+    {% if known and knownInStory[known] %}
+    <p class="plain-summary__known"><span class="plain-summary__known-label">In the story:</span> {% if era and knownEras[era] %}<span class="plain-summary__era">{{ knownEras[era] }}</span> {% endif %}{{ knownInStory[known] }}{% if known_note %} {{ known_note }}{% endif %}</p>
+    {% endif %}
   </aside>
   {% endif %}
 

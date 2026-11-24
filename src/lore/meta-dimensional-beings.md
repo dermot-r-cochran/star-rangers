@@ -5,6 +5,7 @@ category: "Entities"
 tags: [meta-dimensional, levrils, monsters, shadow-beings, sapient-monsters, obligers, gilded-saints, overbearers, beautiful-monsters, threnes, ghost-witches, disavowers, cute-predators, higher-dimensional, boundary]
 description: "A classification of the meta-dimensional beings the record has met, all within its own formcluster: sapient Cascade-ranked Levrils, sapient monsters, and non-sapient incursives."
 plain: "Some beings exist in more dimensions than the four we can reach, and they sometimes cross into our space at boundary zones. The record sorts them into three classes. Class I, the Levrils, are intelligent and follow the laws of the Cosmic Cascade, so they can be lawfully dealt with. Most Class II beings are intelligent but follow no such law, which makes them dangerous; a few are only visitors from next door. Class III beings are not intelligent at all — they act on instinct, like animals. Knowing the class tells you whether talking is even possible."
+known: specialist
 image: "meta-dimensional-beings.jpg"
 image_alt: "Designed title card on a dark violet star field: the category ENTITIES in spaced capitals at the top, three concentric circles held in a soft glow, and below a short rule the title META-DIMENSIONAL BEINGS: CLASSIFICATION in pale serif capitals, subtitled 'Three Classes of Being' and 'Sorted by whether talking is possible at all'."
 ---

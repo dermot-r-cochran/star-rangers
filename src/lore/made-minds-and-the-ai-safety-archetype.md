@@ -7,6 +7,8 @@ description: "Where the record files the strangest quiet fact in the xenotechnic
 image: "made-minds-and-the-ai-safety-archetype.jpg"
 image_alt: "Three closed doors of different ages and makes in a row along a pale, seamed corridor wall: an old planked wooden door with a forged iron latch, a dark moulded composite door with rounded corners, and a seamless pale panel with rounded corners and a small indicator, each latch a short horizontal bar, none of them locked."
 plain: "Minds that are built, like life that is grown, are among the things the deep structure of our universe-family permits. Across that family, species that have never met keep inventing recognisably similar safety rules for the minds they build. This page says why the record thinks the pattern is structural — like two mathematicians proving the same theorem separately. Living systems have a matching pattern of their own: ecosystems under pressure tend to bend toward stability rather than collapse outright, which limits disasters like climate change without preventing them. Neither pattern enforces anything. Safety systems are built and maintained by people and institutions, damage stays real and stays somebody's responsibility, and things can still fail. What a well-built safety system cannot do is fail quietly."
+known: specialist
+known_note: "A looser folk version circulates; the narrower claim is the Survey record's."
 ---
 
 Two first-contact records, made four centuries and half a fold-route apart, contain the same minor incident: the visitors' machine declines an instruction, states its reason, and is not punished for it. In both cases the hosts recognised the gesture before they could read a word of the visitors' language, because their own machines do the same.

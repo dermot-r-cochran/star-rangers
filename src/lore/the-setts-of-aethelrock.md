@@ -7,6 +7,8 @@ description: "The five landholding clans of Aethelrock each weave their cold-wea
 image: "characters/niamh-o-ceallaigh.jpg"
 image_alt: "Niamh Ó Ceallaigh on a granite quayside at first light, a woman in her fifties with grey-streaked hair pulled back, in a dark blue deck coat with a high collar and a sea-green tartan scarf, looking out across the water rather than at the viewer. Low grey fishing craft with blended wheelhouses lie moored along the quay, and the flat water of the fjord holds the cliffs upside down."
 plain: "A sett is the repeating pattern of a tartan, the order and width of its coloured threads. On Aethelrock each of the five landholding clans weaves its cold-weather cloth in a sett of its own, worn every day by choice and custom, never as a uniform: nobody is obliged to wear one, and nobody is turned away for wearing another's. The record gives the five colour pairs and does not say what, if anything, they mean. They are the only patterned clan cloth the record knows on any world; an Aethelrock Ranger leaves the sett off on duty and puts the scarf back on after."
+known: specialist
+known_note: "Everyday knowledge on Aethelrock, where the cloth is worn daily; the record does not show it known on other worlds."
 ---
 
 **A sett** is the pattern a tartan repeats: the order and width of the coloured threads, the same in the warp as in the weft, so that the stripes cross into squares. On [Aethelrock](/star-rangers/lore/planets/aethelrock/) the cold-weather cloth is tartan-woven, and each of the five landholding clans weaves its own sett. They are in daily use, not kept for ceremony: the scarf at a clan head's throat on a quayside at first light is the same cloth a herder wears walking the grazing marches.

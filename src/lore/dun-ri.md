@@ -8,6 +8,8 @@ description: "A fortified household on high ground above a tidal stretch of the 
 image: "chapters/s01e00c01.jpg"
 image_alt: "A shallow pale dish of cut meat sits untouched on gravel at the foot of a shut gate of dark upright bars, at dusk, with nobody there. A small lock housing on the gate shows one green light and a pale rose leans in at the edge. Through the bars, out of focus, the gold lights of a town and its harbour lie far below, and one straight pale ascent trail climbs the deep blue sky."
 plain: "Dún Rí is a fortified household on high ground above the tidal Boyne. Elvira grew up there as its warden-heir and left before the spring of 2823 UCSD, after her cat Aldera had gone out by the garden gate. A river abbey of the Fellowship of Light stands nearby. Galahad Thorne met Elvira there once, in 2806 UCSD. Its river and its old kings place it on Earth. The record does not say how Elvira came to be its heir."
+known: specialist
+known_note: "Known to its household and the abbey nearby; a Fellowship chronicle tells of it in its own voice."
 ---
 
 The record knows Dún Rí from the inside of its walls, and almost nothing of it from outside.

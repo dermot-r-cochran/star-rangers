@@ -5,6 +5,9 @@ category: "Locations"
 tags: [saltvik, knarr-line, mining, belt, sol-system, locations, asteroid-cluster]
 description: "A tight cluster of ore-refinery stations threaded through one of the Belt's richest metal claims — the Knarr Line's hardest-working settlement, and the one its own people are proudest of."
 plain: "Saltvik is a cluster of six ore-refinery platforms and many smaller claim-tenders in a dense, metal-rich rubble field in the Belt, worked by the Knarr Line since its earliest surveys. It is the Line's largest source of refined ore. No two charts of the rubble agree from one season to the next, its approach lanes are considered the hardest routine piloting in Belt space, and a season there is a rite of passage for young Line crews. A hand-rung bell at the central platform still stops every crew at once when a hazard is called, and is credited with more prevented incidents than any single piece of its modern hazard-detection equipment."
+known: specialist
+known_note: "Common knowledge on the Knarr Line, where a season at Saltvik is a rite of passage for young crews."
+era: historical
 galaxy: "Milky Way"
 system: "Sol System"
 locationType: "Asteroid Cluster"

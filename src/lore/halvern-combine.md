@@ -7,6 +7,8 @@ description: "A commercial concern descended from the Imperium's industrial patr
 image: "halvern-combine.jpg"
 image_alt: "An emptied pale room lit from a tall window on the left; in the far wall a tall recess with its grey-green panel slid half aside, and on its single shelf one squared stack of buff document wallets tied with cord, nothing else in the room."
 plain: "The Halvern Combine is a company descended from the families who owned the shipyards and fold-drive patents behind the Imperium's fleet. The Imperium fell in 2609, but the Combine did not, because a company is not a government. It still runs a colony at Corryn on a licence the Imperium issued, which nobody living can cancel — the office that granted it stopped existing more than two centuries ago, and no later body took over the file."
+known: specialist
+era: historical
 ---
 
 The Imperium ended in 2609. Its shipyards did not, its patents did not, and the concern that held both is still filing quarterly.

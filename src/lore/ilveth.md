@@ -7,6 +7,7 @@ description: "The Ilveth of Sardain: a cold-bodied people who see warmth the way
 image: "ilveth.jpg"
 image_alt: "A long low non-human being on a plain of grey ancient ice under a dim sun, segmented and carried close to the ground on many short limbs, its forward third rising into a smooth hooded crown with no face, broad vanes lying folded along its flank, half turned toward the camera"
 plain: "The Ilveth come from Sardain, a very cold, dark planet. Their bodies are cold, and their eyes sense heat instead of light, so they can see living things in total darkness. Warm-blooded visitors like humans look to them like bright lamps. Heat is precious on their world, so they spend it carefully — they even talk to each other by warming patterns on their skin, which costs real effort, so nothing is said idly."
+known: learned
 ---
 
 The Ilveth come from **Sardain**: a slow, cold world far out around a small dim star, with air too thin and dry to hold the day's warmth for even an hour past sunset, and ground ice old enough to count as geology. Noon on Sardain is a bright dusk. Water is a mineral there, and what runs in an Ilveth is not water. That is [a statement about their chemistry, not a translation slipping](/star-rangers/lore/cross-biosphere-taxonomy/), and it is the reason they can be as cold as their world and alive in it.
