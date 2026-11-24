@@ -5750,3 +5750,12 @@ The prompts of record are in `story-bible/images.md` § 95 and are not repeated 
 - **Edit prompt:**
 
 > Edit this photograph and change one thing only: the straps around the pale wooden crate on the cart. Replace the webbing straps and their metal ratchet buckles with three lashings of plain rough grey rope, each passed around the crate and tied off in a plain knot, with no buckles, no hooks and no metal anywhere on them. The man bent over the crate has his hands on the last knot. Keep everything else exactly as it is: every figure, the robot, the cart, the crate, the doorway, the shingle, the sea and sky, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+## 2026-11-24 — Season 2, Episode 12: the new chapter (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 96 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 96 records the catalogue check).
+
+### chapters/s02e12c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 96; references `src/images/characters/bubochka-alert.jpg`, `src/images/chapters/s02e10c01.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.

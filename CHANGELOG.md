@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **A picture for Season 2's new chapter** (`src/images/chapters/s02e12c01.jpg`, `story-bible/images.md` § 96, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 96's prompt, Bubochka held by reference.
+
 - **Pictures for Season 1's four new chapters** (`src/images/chapters/s01e04c01.jpg` to `s01e06c01.jpg`, `story-bible/images.md` § 95, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 95's prompts, Thorne and Rook-7 held by reference; eleven images in all, three edit takes.
 
 - **Pictures for Season 0's five new chapters** (`src/images/chapters/s00e04c01.jpg` to `s00e07c02.jpg`, `story-bible/images.md` § 94, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080 and Dermot's *"An image for every chapter, either generated or using one of my own photos"*). Generated with Gemini from § 94's prompts, filed faces held by reference; eleven images in all, one edit take.
