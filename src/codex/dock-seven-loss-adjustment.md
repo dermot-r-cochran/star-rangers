@@ -62,4 +62,4 @@ The claim was paid.
 
 ---
 
-*See also: [Baby Universe](/star-rangers/codex/baby-universe-ballad/), [The Warm-Edge Correlation](/star-rangers/codex/the-warm-edge-correlation/), and the chapter [What Came Off the Ship (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/).*
+*See also: [Baby Universe](/star-rangers/codex/baby-universe-ballad/), [The Warm-Edge Correlation](/star-rangers/codex/the-warm-edge-correlation/), and the chapter [What Came Off the Ship (S05E06C03)](/star-rangers/seasons/s05/e06/s05e06c03/).*

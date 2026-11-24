@@ -41,4 +41,4 @@ In [First Light, Off the Record (S06E01C01)](/star-rangers/seasons/s06/e01/s06e0
 
 In [Shown, Not Healed (S07E01C02)](/star-rangers/seasons/s07/e01/s07e01c02/), the chapter calls her the made Órla, a memory doing memory's work. She tells Shepherd that the keeping is the thing (keep the rule, don't invent the reason) and passes the discipline on: "Don't let them decide what all this meant."
 
-See also: [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [Dryadic Trees](/star-rangers/lore/dryadic-trees/), [What the Hill Keeps (S05E02C01)](/star-rangers/seasons/s05/e06/s05e06c01/).
+See also: [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/), [Tír na nÓg](/star-rangers/lore/planets/tir-na-nog/), [Dryadic Trees](/star-rangers/lore/dryadic-trees/), [What the Hill Keeps (S05E06C01)](/star-rangers/seasons/s05/e06/s05e06c01/).

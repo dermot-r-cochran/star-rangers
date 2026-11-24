@@ -20,7 +20,7 @@ permalink: /seasons/s10/
   Season 4's case turned on the difference between a machine that works and one that only holds still. This season's turns on the difference between a structure that is certified and a structure that is heard — and on who, out of three parties with no standing to report to each other, carries one account into the other room. Read the two strands in order; they are complete apart, and they meet once.
 </p>
 <p class="page-intro">
-  Episodes 2 to 6 follow both strands through the summer of 2828: the mount is shored and a witness records the hour; four who have never been out of contact are carried home through silence; the Commissioner holds a date and the habitat says what a reading rests on; at home the job is still open; and the watch stands two shifts it cannot see. Episode 7 closes the season months later, in two rooms again, with the form back up the ring and a certification reaching the Belt in the first one's words.
+  Episodes 2 to 6 follow both strands through the spring and summer of 2828: the mount is shored and a witness records the hour; four who have never been out of contact are carried home through silence; the Commissioner holds a date and the habitat says what a reading rests on; at home the job is still open; and the watch stands two shifts it cannot see. Episode 7 closes the season months later, in two rooms again, with the form back up the ring and a certification reaching the Belt in the first one's words.
 </p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (10 | threadForSeason).id }}/">{{ (10 | threadForSeason).name }}</a></p>
 

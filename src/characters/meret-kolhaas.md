@@ -35,6 +35,6 @@ She is human. Beyond that the record holds nothing of her but the Guild and the 
 
 - [Statement of Proximate Cause — Dock Seven](/star-rangers/codex/dock-seven-loss-adjustment/)
 - [A Material Account of the Dock Seven Event](/star-rangers/codex/dock-seven-material-account/), filed beside it
-- [Dock Seven, the Last Stand (S05E02C03)](/star-rangers/seasons/s05/e06/s05e06c03/)
+- [Dock Seven, the Last Stand (S05E06C03)](/star-rangers/seasons/s05/e06/s05e06c03/)
 - [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/)
 - [Threshold Station](/star-rangers/lore/threshold-station/)
