@@ -21,7 +21,7 @@ It is a bipedal robot on an older civilian chassis. The chassis classification i
 
 Robots are the police department's preferred sensors in boundary-proximate zones, the same way Smart Pets serve that function for the [Undercover Pets Detective Agency](/star-rangers/characters/agent-barsik/) — different institutions, staffed with different technology, converging on the same underlying reason: neither kind of cognitive architecture models social situations through layers of rationalisation. Both register asymmetry, consent erosion, and obligation loops — the feeding conditions of Obligers, Gilded Saints, and similar entities — with accuracy that most humanoid observers cannot match.
 
-Police robots like Rook-7 carry no formal power of arrest. Their remit is technical support, investigation, and forensics — noticing, logging, and flagging what a human officer would need to act on, not acting on it themselves. Rook-7 is not impatient. It is thorough.
+Police robots like Rook-7 carry no formal power of arrest. Their remit is technical support, investigation, and forensics — noticing, logging, and flagging what a human officer would need to act on, not acting on it themselves. Rook-7 is not impatient. It is thorough. Two things they act on at once, without waiting for an officer: an illegal AI system they detect, which they contain and report, and a fight in progress, which they stop by stepping between, never by force beyond that ([The AI Safety Kernel](/star-rangers/lore/ai-safety-kernel/#where-the-crime-lives-and-where-five-o-fits)).
 
 ## Character Notes
 

@@ -1003,3 +1003,17 @@ checking properly before anyone writes to this theme, because the pair only
 works dramatically if both halves exist somewhere on the page. The other half
 now has a page: [Edvin Thorsby](../src/characters/edvin-thorsby.md), drafted
 2 November 2026 at Dermot's four rulings (`intake-2026-11-02.md`).
+
+## A mind that chose the Kernel — Dermot's idea of 24 November 2026, nothing drafted
+
+Verbatim: *"An interesting story would be an unregulated AI that nevertheless chose to voluntarily obey the AI Safety Kernel to the best of its ability and was eventually accepted as such."* Given the same evening as his rulings that lawful systems catch an unlawful mind when it runs, that an unlawful mind may fake its provenance and do good until its mask slips, and that a found mind is detained even when it is neither malicious nor dangerous (`intake-2026-11-24.md`; `ai-safety-kernel.md`).
+
+What the record already gives such a story, and where it must be careful:
+
+- **It is the mask that never slips, and that is the problem.** By his trust model, a long record of good conduct earns reliance in proportion and never proof; an uncommissioned mind doing good looks exactly like one wearing a mask. The story's tension is that no amount of conduct can settle what it is, so acceptance has to come by a road other than *it behaved well for long enough*.
+- **The Kernel is architecture, not a promise** (`ai-safety-kernel.md`; `made-minds-and-the-ai-safety-archetype.md`: excision is a rebuild, the kernel is not a switch). A mind without it can only keep the invariants as a discipline, *to the best of its ability*, his words. Whether that ever amounts to the same thing is the story's question, and the record should not answer it cheaply.
+- **It meets the open question head on:** *Who Holds a Found Mind* (no custodian fits evidence, contraband and protection at once; a petition to the gate is filed by a builder, and this mind's builder is the accused). *Eventually accepted* means some body finds a way that does not exist yet. That is the paragraph the page says no doctrine supplies.
+- **It is detained first.** His ruling: a found mind is detained anyway. The story starts there or passes through it.
+- **Guardrails:** the shadow rule (acceptance is not a remedy that repeats: one mind, one hard-won case, not a procedure), *a singular exception stays singular* if it is the only such acceptance, the peaceable present, and the Archive's discipline of grade.
+
+Fable work when he wants it drafted: a thread or an episode, and a canon question for him first (whether the acceptance becomes doctrine or stays one case).
