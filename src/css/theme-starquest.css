@@ -2289,6 +2289,23 @@ a:focus {
   font-size: 1.05rem;
   line-height: 1.6;
 }
+.plain-summary__known {
+  margin: var(--spacing-sm) 0 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--color-text-muted);
+}
+.plain-summary__text + .plain-summary__known {
+  padding-top: var(--spacing-sm);
+  border-top: 1px solid var(--color-border);
+}
+.plain-summary__era {
+  font-style: italic;
+}
+.plain-summary__known-label {
+  font-family: var(--font-ui);
+  font-weight: 600;
+}
 
 /* --- Lore --- */
 .lore-category-section {
