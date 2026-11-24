@@ -6302,3 +6302,22 @@ No generator: deterministic cards from `make-codex-cover.ps1` with the new `-Acc
 .\scripts\make-codex-cover.ps1 -TitleLines "THE TWO SONGS","OF THE LOUD PEOPLE" -Category "XENOLOGY RECORD" -Subtitle "A Keeper's Account of Humanity" -Institution "Rendered from Chorus-Keeping · Archive Translation Desk" -Author "KEEPER VHEN OF THAVREN" -Stamp "RENDERED" -Motif dissolution -Accent "#9FC8A6" -Symbol open -Out src\images\codex\the-two-songs-of-the-loud-people.jpg
 .\scripts\make-codex-cover.ps1 -TitleLines "WHAT THE","STONES SAY" -Category "CULTURAL RECORD" -Institution "Survey Archive, Threshold Station" -Author "ODAL FERREN, LINE-KEEPER, QUERN" -Motif rules -Accent "#B3A4D4" -Symbol leaves -Out src\images\codex\what-the-stones-say.jpg
 ```
+
+## 2026-11-24 — S01E01C01: the clock reads as a clock, Rook-7 walks (Opus, desktop)
+
+Dermot asked of the frame *"Does this image look like a clock above a door or some kind of AI monitoring system?"* and *"Does the robot look clumsy and awkward in that image?"*. Read for him: the glowing violet cylinder read as an AI core and the readout was too small to see; Rook-7 walked stiff-legged with dead arms. He chose *"Clock and robot"*. An image fix, so Opus (fable-delegation).
+
+### chapters/s01e01c01.jpg — re-filed 24 November 2026
+- **Kind:** an edit of the filed frame, with a reference, then a composite of two takes and readout digits set by script.
+- **Source:** the filed `s01e01c01.jpg`; reference `story-bible/reference-art/rook-7-body-2026-11-16.jpg` (the machine only).
+- **Run:** `scripts/image-edit.js`, two rounds. Round 1 (the prompt below without its *pixel for pixel* clause): take 1 refused by the provider's filter, take 2 fixed the clock but redrew her face. Round 2 (the prompt below): take 1 kept her face and gave Rook-7 the stride but turned the readout cream; take 2 gave the clearest clock (glow gone, wide dark readout) but put a screen on Rook-7's chest; take 3 refused. **Filed:** round 2 take 1, with take 2's clock pasted in (box 1660,10 to 1940,270 at 2752 px, feathered 14 px), then `set-readouts.py --box 1740,213,70,22 --text 06:42:17`, imported at 1600 px, strength 1, provenance generated.
+- **Note:** this frame's clock now shows no violet glow; the Season 1 hero's clock keeps its faint cloud. The design is the same instrument; the glow is the atoms, which this frame no longer shows.
+- **Prompt:**
+
+> Edit the first image, a photograph. Do not reframe, crop, zoom or redraw the room. Keep everything exactly as it is, pixel for pixel where possible: above all the tall pale woman walking in must stay completely untouched, the very same person with the identical face, features, age, hair, dark high-necked garment, pose and stride, not redrawn; the open rounded pressure seal and its reveal; the pale dock walls and floor; the long window onto the calm sea at dawn; the framing, light, focus and grain. Change only two things.
+>
+> First, the clock high above the open pressure seal. Keep it in the same place, on the same short cream bracket, as the same kind of instrument: an upright clear glass cylinder with a rounded cream cap on a smooth rounded cream base. Make the violet light inside the glass much fainter: a barely visible pale haze, not a glowing cloud, so that nothing in the frame glows. Make the base wider and its dark recessed readout window much larger, a broad matte panel filling most of the front of the base, so that it reads at a glance as the face of a clock. The readout window is matte, unlit and completely blank: no digits, no numerals, no text, no light.
+>
+> Second, the robot walking a few steps behind her through the seal. Keep exactly the same robot, as in the second image: the same tall broad matte pale grey trunk, the same scuffed limb casings, the same low wide rounded head unit on its dark collar with the lens cluster turned aside, at the same size and in the same place. Change only its posture: give it the easy walking stride of a machine that has walked these docks for decades, mid-step, one foot planted and the other leg swinging through with the knee clearly bent, the hips and shoulders turned slightly with the step, the arms swinging a little, loosely, opposite to the legs, the trunk leaning very slightly forward. Unhurried and sure-footed, not stiff, not marching.
+>
+> No other new objects, no screens, no lettering. A documentary photograph, not a render.
