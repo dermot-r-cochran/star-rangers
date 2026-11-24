@@ -6091,3 +6091,37 @@ The prompts of record are in `story-bible/images.md` § 105 and are not repeated
 - **Kind:** generation with references
 - **Source:** `images.md` § 105; references `src/images/characters/nakagawa.jpg`, `src/images/characters/aravena.jpg`.
 - **Run:** Round 1 of 1, variation 1 filed.
+
+## 2026-11-24 — Season 12, Episodes 3 to 7: the six new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 106 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 106 records the catalogue check).
+
+### chapters/s12e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 106; references `src/images/chapters/s11e01c03.jpg`, `src/images/characters/teddy.jpg`, `src/images/characters/stone-first.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s12e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 106; reference `src/images/characters/odile-ferrant.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s12e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 106; references `src/images/chapters/s11e02c03.jpg`, `src/images/characters/stone-first.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s12e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 106; references `src/images/chapters/s12e02c01.jpg`, `src/images/characters/aravena.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s12e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 106; references `src/images/chapters/s12e01c01.jpg`, `src/images/characters/went-round.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s12e07c02.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 106; references `src/images/chapters/s12e02c03.jpg`, `src/images/characters/stone-first.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
