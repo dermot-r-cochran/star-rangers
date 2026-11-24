@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Edition openings: two mechanical fixes** (`lib/editions.js`, `story-bible/edition-reader-profiles.md`, 2026-11-24, Opus). The church-space home page's last line read *"Fian Ilchruinne read on a Ranger's own time."*, which parses as a past-tense verb; it now reads *"Fian Ilchruinne, read on a Ranger's own time."* The starquest profile still quoted the hook line the edition dropped on 13 November; it now quotes the current one. From a review of every edition's opening paragraph; the copy rewrites it proposed are Dermot's call and are not in this change.
+
 - **Pictures for Season 14's six new chapters** (`src/images/chapters/s14e03c01.jpg` to `s14e07c02.jpg`, `story-bible/images.md` § 108, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 108's prompts, the Told held to their filed body; eighteen images in all, three edits.
 
 - **Pictures for Season 13's six new chapters** (`src/images/chapters/s13e03c01.jpg` to `s13e07c02.jpg`, `story-bible/images.md` § 107, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 107's prompts after the `130DUNLG` and `129DALKY` cards were read for plates and had none; twelve images, no edits.

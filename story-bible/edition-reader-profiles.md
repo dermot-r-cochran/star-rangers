@@ -233,9 +233,11 @@ that is when it earns `archive` or something new, and not before.
 **Palette** the most saturated on the site: `#060714` page, cyan accent at
 12:1, amber canon facts. It reads as instrumentation, which is the point.
 
-**Voice** the only tagline that is a hook rather than a description — *"forty
-seconds of drift, eleven years unexplained… that's not a rounding error, it's a
-warning."* Sound: sci-fi ambient.
+**Voice** a hook rather than a description, and since 13 November 2026 on its
+own story rather than the station clock — *"Eleven seconds in a log on Eden
+that nobody cleared."* (Until then it was *"forty seconds of drift, eleven
+years unexplained… that's not a rounding error, it's a warning."*) Sound:
+sci-fi ambient.
 
 **Cast** (its own since 2026-08-21): Larsen, Albercombe, Voss, Calloway, Jeeves
 — a jurisdiction seen top to bottom, which is what the procedural is actually
