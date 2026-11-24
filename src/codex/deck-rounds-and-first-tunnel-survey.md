@@ -9,7 +9,7 @@ author: "Agent Barsik and Trainee Bubochka, Undercover Pets Detective Agency (Ed
 institution: "Undercover Pets Detective Agency"
 location: "Agency case file, Eden posting — copy lodged with the Survey Archive, Threshold Station, at the authors' request, 2831 UCSD"
 image: "deck-rounds-and-first-tunnel-survey.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Deck Rounds and First Tunnel Survey above the subtitle Jointly Filed, the line Undercover Pets Detective Agency, and the names Agent Barsik and Trainee Bubochka."
+image_alt: "Designed codex title card in the house navy palette, with clay-rose accents and a mark of a square within a square: the category line Working Papers, ruled lines, and the title Deck Rounds and First Tunnel Survey above the subtitle Jointly Filed, the line Undercover Pets Detective Agency, and the names Agent Barsik and Trainee Bubochka."
 ---
 
 **UNDERCOVER PETS DETECTIVE AGENCY — JOINT FIELD LOG**

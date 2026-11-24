@@ -9,7 +9,7 @@ location: "Survey Archive general collection, Threshold Station — donated copy
 tags: [caomhari, good-people, tir-tairngire, si-gaoithe, dryadic-trees, tir-na-nog, celtic-union, new-london, conjunction, popular-accounts]
 description: "A chapter from a New London travel writer's popular book on the Celtic Union, which sorts the Union's elves into wood, sky and water the way a field guide sorts birds, with the receiving desk's filing note: the sorting is wrong in kind on every count and right three times out of three about where to look."
 image: "the-elves-of-wood-sky-and-water.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading Filed With Note, and the title The Elves of Wood, Sky and Water above the subtitle A traveller's sorting, with the desk's note, the line Westminster Ring Press, New London, and the name Rosamund Hallam."
+image_alt: "Designed codex title card in the house navy palette, with lavender accents and a mark of two overlapping leaves of paper: the category line Cultural Record, ruled lines, a stamp reading Filed With Note, and the title The Elves of Wood, Sky and Water above the subtitle A traveller's sorting, with the desk's note, the line Westminster Ring Press, New London, and the name Rosamund Hallam."
 ---
 
 **THE ELVES OF WOOD, SKY AND WATER**

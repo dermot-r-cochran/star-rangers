@@ -8,7 +8,7 @@ institution: "Survey Corps reader's sitting on Sardain (taken); Survey Archive g
 location: "Survey Archive general collection, Threshold Station — a Survey Corps reader's rendering of an answer given in click-speech; nothing in it was warm-written and, at the author's asking, no imager was run; the Archive holds no image of anything it describes; it is not dated, and its nights are the author's own measure"
 tags: [ilveth, sardain, cold-world, heat-thrift, insulation, survey-corps, codex-art]
 image: "the-wall-that-said-one-thing.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading One Floor, and the title The Wall That Said One Thing above the subtitle A sealed wall, and the one night it was allowed, the line Taken on Sardain; Survey Archive, Threshold Station, and the name Idrun Hesk, sealer."
+image_alt: "Designed codex title card in the house navy palette, with sage-green accents and a mark of a broken ring: the category line Cultural Record, ruled lines, a stamp reading One Floor, and the title The Wall That Said One Thing above the subtitle A sealed wall, and the one night it was allowed, the line Taken on Sardain; Survey Archive, Threshold Station, and the name Idrun Hesk, sealer."
 description: "Asked whether a sealer keeps nothing for the work's own sake, an Ilveth sealer answers in click-speech, under a roof: a finished wall shows nothing, so nobody can see who sealed it well, and on her floor the craft keeps one gesture. At the sealing a single small place is left warm for one night, entered in the ledger as a loss, and closed for good. She saw her teacher's once, and gives what she can of it."
 ---
 

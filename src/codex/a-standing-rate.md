@@ -8,7 +8,7 @@ institution: "Survey Archive general collection (receiving)"
 location: "Survey Archive general collection, Threshold Station — the author's own answer, written in the humid working section where she is posted; the words she marks are set in italics as she marked them and none has been replaced; the piece itself stays in her section and has not been assayed, at her asking; nothing in the answer is dated, and the seam it speaks of is not named"
 tags: [pelagene, nerath, ocean-world, star-rangers, survey-archive, threshold-station, vela-of-the-seam, electrochemistry, codex-art]
 image: "a-standing-rate.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading One Seam, and the title A Standing Rate above the subtitle Grown metal, kept where two layers meet, the line Survey Archive, Threshold Station, and the name Vela of the Seam."
+image_alt: "Designed codex title card in the house navy palette, with sage-green accents and a mark of a broken ring: the category line Cultural Record, ruled lines, a stamp reading One Seam, and the title A Standing Rate above the subtitle Grown metal, kept where two layers meet, the line Survey Archive, Threshold Station, and the name Vela of the Seam."
 description: "Asked what the dull piece of metal in a case by her section door is, a Pelagene Ranger answers by describing what it is a small one of: a body of metal kept across one seam on Nerath, gaining on one face and losing on the other, held in place and in shape by whoever has the turn, and long since holding none of the metal it began with. The one in the case was grown for her when she left, and lifted out knowing that would stop it."
 ---
 

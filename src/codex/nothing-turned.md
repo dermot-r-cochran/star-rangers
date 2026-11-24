@@ -8,7 +8,7 @@ institution: "Tsittak (struck and rendered); Survey Archive general collection (
 location: "Survey Archive general collection, Threshold Station — the translating set's rendering of an account struck on Tsittak's dock plating, with the receiving desk's note; the strikes themselves are not on file, and the Archive holds no reading of the Undersong"
 tags: [chthonari, undersong-belt, tsittak, federation-of-sentient-beings, engineering-corps, star-rangers, vessik, translation, histories-in-their-own-voices]
 image: "nothing-turned.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading Rendered, and the title Nothing Turned above the subtitle A Chthonari account, struck and rendered, the line Tsittak dock plating, copied to the Survey Archive, and the name Akkit of Tsittak."
+image_alt: "Designed codex title card in the house navy palette, with sage-green accents and a mark of a broken ring: the category line Cultural Record, ruled lines, a stamp reading Rendered, and the title Nothing Turned above the subtitle A Chthonari account, struck and rendered, the line Tsittak dock plating, copied to the Survey Archive, and the name Akkit of Tsittak."
 description: "The second history of a non-human people the record holds in that people's own voice: a Chthonari of Tsittak, formerly of the Engineering Corps, asked by the Survey Archive for the history of the Chthonari, strikes on the dock plating what a history is to a people with no year and no fire — members left, each named by what it rests on and what rests on it — and stops at the one account that is cut where it is cut; rendered by the settlement's translating set, which says where it could not render."
 ---
 

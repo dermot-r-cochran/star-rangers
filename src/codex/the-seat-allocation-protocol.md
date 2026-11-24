@@ -9,7 +9,7 @@ author: "Office of the Returning Officer, Orbital Habitats Compact"
 institution: "Orbital Habitats Compact"
 location: "Compact Administration, registry of standing instruments; a copy posted in every member habitat's civic office"
 image: "the-seat-allocation-protocol.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Official Documents, ruled lines, and the title The Seat Allocation Protocol above the subtitle Schedule C, the line Orbital Habitats Compact, and the line Office of the Returning Officer."
+image_alt: "Designed codex title card in the house navy palette, with clay-rose accents and a mark of a square within a square: the category line Official Documents, ruled lines, and the title The Seat Allocation Protocol above the subtitle Schedule C, the line Orbital Habitats Compact, and the line Office of the Returning Officer."
 ---
 
 **SCHEDULE C — ALLOCATION OF CONSULTATIVE COUNCIL SEATS**

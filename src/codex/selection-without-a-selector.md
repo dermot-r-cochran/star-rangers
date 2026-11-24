@@ -8,7 +8,7 @@ author: "Dr. Oren Halsey, biosphere comparison unit, the Institute"
 institution: "The Institute"
 location: "Institute Papers, biosphere comparison unit, no. 9418; circulated open, as all Institute papers are, 2827 UCSD"
 image: "selection-without-a-selector.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Selection Without a Selector above the line The Institute and the name Dr. Oren Halsey."
+image_alt: "Designed codex title card in the house navy palette, with bone-coloured accents and a mark of two square brackets: the category line Working Papers, ruled lines, and the title Selection Without a Selector above the line The Institute and the name Dr. Oren Halsey."
 ---
 
 *A note on what this document is. It is an Institute paper, and it declines to use the [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/), as every Institute paper does. It does not argue that there are no Worldwrights. It argues that one observation offered in their support does not need them, and it says plainly what it cannot settle.*

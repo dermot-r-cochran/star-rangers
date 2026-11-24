@@ -9,7 +9,7 @@ author: "Ariel Pinya"
 institution: "Kiosk printing; publisher's forwarding address only"
 location: "Survey Archive general collection, Threshold Station — shared-shelf copy from the Dock Seven monitoring station, 2826 UCSD printing, with pencil corrections in three hands"
 image: "the-short-stair.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, and the title The Short Stair above the line Kiosk printing and the name Ariel Pinya."
+image_alt: "Designed codex title card in the house navy palette, with lavender accents and a mark of two overlapping leaves of paper: the category line Cultural Record, ruled lines, and the title The Short Stair above the line Kiosk printing and the name Ariel Pinya."
 ---
 ---
 

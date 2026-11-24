@@ -9,7 +9,7 @@ location: "Survey Archive, Threshold Station — doctrinal working-paper series;
 tags: [cosmology, kieme, cascade, vocation, archive-doctrine, devotional-traditions, ethics]
 description: "A Survey Archive doctrinal note on the three registers the moral record actually shows — what beings are called to, what is tolerated, and what is forbidden — and the asymmetry the Archive keeps failing to file away: the forbidden is enforced by no one, the calling compels no one, and nothing in between is judged at all."
 image: "called-permitted-forbidden.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Doctrinal Record, a faint ring fading round its circumference, a stamp reading Working Note, and the title Called, Permitted, Forbidden above the line Survey Archive · Doctrinal Division and the name Theorist Emrys Kade."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Doctrinal Record, a faint ring fading round its circumference, a stamp reading Working Note, and the title Called, Permitted, Forbidden above the line Survey Archive · Doctrinal Division and the name Theorist Emrys Kade."
 ---
 
 **DOCTRINAL WORKING PAPER**

@@ -9,7 +9,7 @@ location: "Survey Archive, Threshold Station — doctrinal working-paper series,
 tags: [cosmology, cascade, wholecloth, selvage, formcluster, levril, champions, krenyi, constraint-literacy, archive-doctrine]
 description: "The source account behind the registry's entry on Wholecloth: a Krenyi boundary analyst's record of what a Levril taught her about a formcluster that cannot fold, set down in material terms with everything she was not told marked as not told — derived under instruction rather than shown, with the one open seat along the weave's edge, the one question declined, and the Doctrinal Division's note on the grade at which a report received through a constraint-literate channel is held."
 image: "the-cloth-as-taught.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Doctrinal Record, ruled lines, a stamp reading Carried, and the title The Cloth, as Taught above the line Survey Archive · Doctrinal Division and the name Ilvane, Nai."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Doctrinal Record, ruled lines, a stamp reading Carried, and the title The Cloth, as Taught above the line Survey Archive · Doctrinal Division and the name Ilvane, Nai."
 ---
 
 **SOURCE DOCUMENT — RECEIVED**

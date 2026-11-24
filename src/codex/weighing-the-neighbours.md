@@ -9,7 +9,7 @@ location: "Survey Archive, Threshold Station — gravimetry working-paper series
 tags: [cosmology, dark-matter, membrane-shadows, intermembrane-bleed, gravimetry, interval, working-paper, archive-doctrine]
 description: "A Gravimetry Desk working paper proposing that some part of the dark component of the sky's mass budget is the summed gravitational imprint of neighbouring membranes at ordinary separation — a Membrane Shadow with no coherence, the whole neighbourhood's weight rather than one figure's — with the paper's own objections listed and its one testable prediction stated."
 image: "weighing-the-neighbours.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Weighing the Neighbours above the line Survey Corps · Gravimetry Desk, Threshold Station and the name Surveyor Maren Halloran."
+image_alt: "Designed codex title card in the house navy palette, with teal accents and a mark of a ringed cross-sight: the category line Working Papers, ruled lines, and the title Weighing the Neighbours above the line Survey Corps · Gravimetry Desk, Threshold Station and the name Surveyor Maren Halloran."
 ---
 
 *Filed to the working-paper series rather than the doctrinal one, at the author's request. The Archive carries no entry on the composition of the dark component and has not been asked for one; this paper asks, and answers for itself.*

@@ -8,7 +8,7 @@ institution: "Federation record (taken down at Ilenne); Survey Archive general c
 location: "Survey Archive general collection, Threshold Station — copy of a Federation registry account taken down at Ilenne in the reader's rendering, with the receiving desk's note; the Mnemari original is not on file"
 tags: [mnemari, ilenne, federation-of-sentient-beings, ollune, cirrane, ulessa, treaty-witness, setting-down, witness-account, histories-in-their-own-voices]
 image: "by-the-chair-of-that-day.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading As Given, and the title By the Chair of That Day above the subtitle A Mnemari account, given as asked, the line Federation record, copied to the Survey Archive, and the name Osune of Ilenne."
+image_alt: "Designed codex title card in the house navy palette, with sage-green accents and a mark of a broken ring: the category line Cultural Record, ruled lines, a stamp reading As Given, and the title By the Chair of That Day above the subtitle A Mnemari account, given as asked, the line Federation record, copied to the Survey Archive, and the name Osune of Ilenne."
 description: "The first history of a non-human people the record holds in that people's own voice: a Mnemari past her eleventh century, Set Down on Ilenne, asked by a reader of the Federation record for the history of her people, gives the rooms she has been asked for before, each by the chair of that day and never by a year, the words in the order they were said, and then stops — with the receiving desk's note that a room so given is a date to a Mnemari and an absence to the Archive."
 ---
 

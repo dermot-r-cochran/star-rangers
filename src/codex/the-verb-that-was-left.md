@@ -8,7 +8,7 @@ institution: "A printed collection of one hull's household songs, Celtic Union (
 location: "Survey Archive general collection, Threshold Station — one song and its note from a printed Union collection received after re-contact; the collection is in Union Irish and the rendering of the note is the desk's; the song and the forms under discussion are left in Irish as printed, each glossed once; the collection prints the air in a notation the desk does not reproduce, names no hull and dates nothing"
 tags: [celtic-union, currach-fleet, union-irish, language, linguistics, song, human, codex-art]
 image: "the-verb-that-was-left.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading As Sung, and the title The Verb That Was Left above the subtitle An Briathar a Fágadh: a going-to-sleep song, with a linguist's note, the line Survey Archive, Threshold Station, and the name Gráinne Ní Chathail."
+image_alt: "Designed codex title card in the house navy palette, with lavender accents and a mark of two overlapping leaves of paper: the category line Cultural Record, ruled lines, a stamp reading As Sung, and the title The Verb That Was Left above the subtitle An Briathar a Fágadh: a going-to-sleep song, with a linguist's note, the line Survey Archive, Threshold Station, and the name Gráinne Ní Chathail."
 description: "A four-line going-to-sleep song from one ark's households, kept by ear through the crossing, with the note of the linguist who took it down: the song still carries the old irregular past of the verb to go, which the Union's rebuilt Irish had made regular, and she, who is credited with the rule that did it, declines to correct the song and says why."
 ---
 

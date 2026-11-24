@@ -9,7 +9,7 @@ description: "A commercial loss adjustment for three courier hulls chartered off
 location: "Farline Courier Guild claims file TC-2831-4471; a copy held in the Threshold Station Survey Archive reconciliation binders alongside the Dock Seven incident file"
 tags: [farline, dock-seven, threshold-station, boundary, levril, tissadelle, commercial, official-documents, last-stand]
 image: "dock-seven-loss-adjustment.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Official Documents, ruled lines, and the title Statement of Proximate Cause above the subtitle Dock Seven, the line Farline Courier Guild, claims and indemnity office, and the name Meret Kolhaas, Loss Adjuster."
+image_alt: "Designed codex title card in the house navy palette, with copper accents and a mark of a hexagon: the category line Official Documents, ruled lines, and the title Statement of Proximate Cause above the subtitle Dock Seven, the line Farline Courier Guild, claims and indemnity office, and the name Meret Kolhaas, Loss Adjuster."
 ---
 
 *A note on what this document is. It is a commercial loss adjustment, written by a claims officer with no standing to say anything about the Cosmic Cascade and no interest in acquiring any. It settles a bill. It is filed here because it is the only contemporaneous account of the Dock Seven action written by somebody who was neither a Star Ranger nor a witness with a stake in the Corps' version, and because the adjuster declined, in writing, to change the one word everybody asked her to change.*

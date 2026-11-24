@@ -9,7 +9,7 @@ location: "Survey Archive, Threshold Station — doctrinal working-paper series;
 tags: [cosmology, unfounded, dragons, levrils, devil, archive-doctrine, devotional-traditions, cascade]
 description: "A Survey Archive doctrinal note on the devil-figure of the devotional codices: why the Archive holds that any such being, if it existed even as metaphor, would be an Unfounded pattern wearing a Levril's shape — a silhouette borrowed from the largest real thing the old scriptures remembered, and no dragon at all."
 image: "the-borrowed-silhouette.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Doctrinal Record, a faint ring fading round its circumference, and the title The Borrowed Silhouette above the line Survey Archive · Doctrinal Division and the name Theorist Emrys Kade."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Doctrinal Record, a faint ring fading round its circumference, and the title The Borrowed Silhouette above the line Survey Archive · Doctrinal Division and the name Theorist Emrys Kade."
 ---
 
 Several devotional codices in the Archive's holdings — most, though not all, from the [Arilonian traditions](/star-rangers/glossary/arilonian/) — describe an adversary: a single, personal, cosmic opponent. A number of them paint it in the form the older Terran scriptures reached for: **a dragon**.

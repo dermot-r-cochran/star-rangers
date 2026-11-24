@@ -9,7 +9,7 @@ location: "Verification case files, statement-drift series; filed 2828 UCSD"
 tags: [survey-archive, verification, testimony, memory, culture]
 description: "Four statements, nine years, one evening: a witness whose account revises itself at every telling, who dismisses each contradiction because — in the only archive she holds — there is nothing to contradict. Everything in her account drifts except one detail, and the fixed one is the problem."
 image: "the-witness-who-was-never-wrong.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Survey Records, ruled lines, and the title The Witness Who Was Never Wrong above the line Survey Archive, Threshold Station and the name Archivist S., Verification Desk."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Survey Records, ruled lines, and the title The Witness Who Was Never Wrong above the line Survey Archive, Threshold Station and the name Archivist S., Verification Desk."
 ---
 
 **SURVEY ARCHIVE — VERIFICATION DESK**

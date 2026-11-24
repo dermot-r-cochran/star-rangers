@@ -9,7 +9,7 @@ author: "Brother Fintan"
 institution: "Cnoc na mBeach"
 location: "Keeper's commonplace book, Cnoc na mBeach — day office pages"
 image: "many-homes.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Devotional Record, ruled lines, and the title Many Homes above the line Cnoc na mBeach and the name Brother Fintan."
+image_alt: "Designed codex title card in the house navy palette, with muted gold accents and a mark of a round arch: the category line Devotional Record, ruled lines, and the title Many Homes above the line Cnoc na mBeach and the name Brother Fintan."
 ---
 
 **COMMONPLACE BOOK — DAY OFFICE**

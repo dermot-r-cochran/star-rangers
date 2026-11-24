@@ -15300,3 +15300,38 @@ Dermot, 24 November 2026, verbatim: *"Draft extra chapters as needed"* (`intake-
   - **Canon (overlay; this chapter and its neighbours):** three hives on one stand with one rail; the cloth on the rail at the third hive, *stiff, white along its top fold*; first frost of the year, two below at first light and four at noon, wind gone north, *the sun was on the yard*; frost lifted from the open grass and lying only in the stand's shadow; the hive not opened.
   - **Guessed:** that the third hive is the one at the end of the row nearest the camera (§ 70's guess, kept); that the sun at noon stands behind the row so the shadow falls on the side where he stands and where the cloth hangs (the chapter gives the shadow and not its direction); that his treading shows as a dark patch and a few prints at one o'clock (the chapter gives the grass breaking under his boots at first light and nothing about what it looked like later); that the cloth's frost has lasted to noon because the cloth is on the shaded side; a clear sky (the chapter gives sun and a north wind).
   - **Negations to watch on the first roll:** snow for frost (the generator's stock winter); frost spread over the whole frame, which loses the picture; a warm low-sun glow, which would be the season's one warm point moved from the lamp to the sky; a present-day timber hive with a lid; a figure or a figure's shadow added to explain the prints.
+
+
+### 110. Codex title-card accents: one accent and mark per issuing body (24 November 2026, Opus, desktop)
+
+**Why.** Dermot, 24 November 2026, asked whether the title cards should stay plain navy or take a variety of colours, and then for an iconography skill or artifact. Recommended and taken (*"Yes, accent per body"*, then *"Yes, redraw them"*): keep the navy ground, type and layout of the 11 October redesign, and give each card the accent and line mark of the body that issued the document. The colour then tells a reader whose account they hold, which is what the Codex asks a reader to notice (a Codex entry is a named source's account, never canon). A free mix of colours would only decorate, and a bright one would break the matte, unlit look of the century.
+
+**The families.** Reference sheet: the private artifact *Codex Title Card Accents*.
+
+| Family | Accent | Mark | Cards |
+|---|---|---|---|
+| The Survey Archive | `#8FA8D8` (pale blue) | `-Symbol shelf`: three level lines | 16 |
+| The Star Rangers corps | `#7FBFB4` (teal) | `-Symbol sight`: a ringed cross-sight | 6 |
+| The Institute and its units | `#D2C8B0` (bone) | `-Symbol bracket`: two square brackets | 6 |
+| Houses of faith | `#CFAE6E` (muted gold) | `-Symbol arch`: a round arch | 10 |
+| Governments, offices and agencies | `#C8908A` (clay rose) | `-Symbol seal`: a square within a square | 7 |
+| Guilds and companies | `#D09A6C` (copper) | `-Symbol hex`: a hexagon | 3 |
+| Presses, popular and folk sources | `#B3A4D4` (lavender) | `-Symbol leaves`: two overlapping leaves of paper | 8 |
+| Other peoples, in their own voice | `#9FC8A6` (sage green) | `-Symbol open`: a broken ring | 20 |
+
+**The rule for placing a card.** The family is the body that issued the document, read from the entry's `institution`, `author` and `description`. A document the Survey Archive only received takes its source's family: every history a non-human people gave in its own voice is under *Other peoples, in their own voice*, whoever filed it, and so is a Federation record of a Mnemari account. Where a corps officer wrote about another people (*It Weighs Nothing*), the card stays with the corps. A pets agency is an agency.
+
+**Where the accent goes.** Top bar, wash, category line, motif (ruled lines or the dissolution ring), stamp, the short rule above the title, and the mark. The title, subtitle, institution and author lines keep their house colours, so legibility is unchanged. The mark sits in the open field below the ruled lines, or inside the ring on a dissolution card. Script: `scripts/make-codex-cover.ps1 -Accent <hex> -Symbol <name>`; without them it draws the old card.
+
+**Redrawn (76).** Every title card but one: 52 from their recorded commands, and 24 whose commands were never recorded from their own lettering, read back and retyped (now recorded). Each card's lettering band was compared with the card it replaced, and the difference was JPEG noise on every one, so no word moved. *Asteria the Sage (Artist's Impression)* keeps its painted card, since its picture fills it. Every `image_alt` now names the accent and the mark.
+
+- **The Survey Archive** (16): `called-permitted-forbidden`, `marked-absences`, `shepherd-among-the-comparanda`, `standing-claims`, `the-better-side-of-intervention`, `the-borrowed-silhouette`, `the-cloth-as-taught`, `the-friend-who-forgot-her-cat`, `the-friend-who-was-never-sent`, `the-house-on-the-sand`, `the-laws-do-not-say-who`, `the-verification-doctrine`, `the-witness-who-was-never-wrong`, `three-disciplines-of-the-record`, `why-two-hundred`, `the-twelve-sultans-of-ai`.
+- **The Star Rangers corps** (6): `proposal-to-collar-the-anstolik`, `coherence-debt-as-quantum-interest`, `it-weighs-nothing`, `on-the-simultaneity-of-folds`, `weighing-the-neighbours`, `what-the-law-does-not-decide`.
+- **The Institute and its units** (6): `dock-seven-material-account`, `krenyi-longevity-repair-agent`, `selection-without-a-selector`, `the-amendment-atlas`, `the-width-before-the-reading`, `three-claims-concerning-the-dead`.
+- **Houses of faith** (10): `jehu-among-the-comparanda`, `many-homes`, `the-apparition-at-cill-aoife`, `the-captain-who-drove-furiously`, `the-champion-at-the-thorn-well`, `the-office-of-the-fortieth-second`, `the-warm-edge-correlation`, `two-in-the-one-currach`, `what-prayer-is-for`, `what-was-carried`.
+- **Governments, offices and agencies** (7): `wender-funeral-address`, `the-commissioning-standard-annotated`, `the-seat-allocation-protocol`, `two-blocks-and-four-strokes`, `what-the-letters-stand-for`, `deck-rounds-and-first-tunnel-survey`, `filing-of-the-galley-door-specimen`.
+- **Guilds and companies** (3): `nobody-in-anybodys-light`, `hyperfold-offering-memorandum`, `dock-seven-loss-adjustment`.
+- **Presses, popular and folk sources** (8): `the-verb-that-was-left`, `the-cat-who-would-not-say`, `the-elves-of-wood-sky-and-water`, `the-hour-nobody-had`, `the-legend-of-saint-aoife`, `the-short-stair`, `baby-universe-ballad`, `what-the-stones-say`.
+- **Other peoples, in their own voice** (20): `a-standing-rate`, `beside-the-ringing`, `read-at-the-next-margin`, `the-thing-that-did-not-fall`, `what-came-in-the-water`, `what-it-will-carry`, `what-still-does-work`, `what-the-limbs-already-were`, `where-it-was-put`, `by-the-chair-of-that-day`, `the-part-not-played`, `shown-to-the-sky`, `the-wall-that-said-one-thing`, `two-points-in-one-life`, `counted-twice-answered-once`, `nothing-turned`, `the-quiet-has-no-far-side`, `twice-and-a-remainder`, `where-the-tellings-run-out`, `the-two-songs-of-the-loud-people`.
+
+Commands: `image-prompts.md`, *2026-11-24 — Codex title cards redrawn with accents*.

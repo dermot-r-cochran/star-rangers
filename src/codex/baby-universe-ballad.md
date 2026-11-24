@@ -9,7 +9,7 @@ author: "Unattributed — no credited performer; circulates hand to hand"
 institution: "No formal commission; carried informally across Celtic Union charter worlds and Ranger stations"
 location: "No archival master. This capture is one of several that surfaced in the seasons after Dock Seven; the Survey Archive holds a copy in the reconciliation binders beside the incident file rather than in the music stock."
 image: "baby-universe-ballad.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, and the title Baby Universe above the subtitle Circulating Ballad, the line Survey Archive, Threshold Station, and the line Unattributed."
+image_alt: "Designed codex title card in the house navy palette, with lavender accents and a mark of two overlapping leaves of paper: the category line Cultural Record, ruled lines, and the title Baby Universe above the subtitle Circulating Ballad, the line Survey Archive, Threshold Station, and the line Unattributed."
 ---
 
 **RECOVERED RECORDING — AUDIO + TRANSCRIPTION**

@@ -9,7 +9,7 @@ author: "Brother Fintan"
 institution: "Cnoc na mBeach"
 location: "Keeper's commonplace book, Cnoc na mBeach — night office pages"
 image: "the-office-of-the-fortieth-second.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Devotional Record, ruled lines, and the title The Office of the Fortieth Second above the line Cnoc na mBeach and the name Brother Fintan."
+image_alt: "Designed codex title card in the house navy palette, with muted gold accents and a mark of a round arch: the category line Devotional Record, ruled lines, and the title The Office of the Fortieth Second above the line Cnoc na mBeach and the name Brother Fintan."
 ---
 
 *From the commonplace book kept at the hives. The Keeper writes for himself; the pages are shared here as they were shared with the Communion — by permission, unrevised, valid as one watcher's account and nothing more.*

@@ -9,7 +9,7 @@ location: "Survey Archive, general holdings; filed against the Imperium historio
 tags: [imperium, sultans-of-ai, ai, history, governance, msc, ai-safety-kernel, singularity]
 description: "A Survey Archive historical note on the twelve corporate and political figures who controlled Imperium-era AI and space-exploration industry, the informal network their systems formed without ever converging into one mind, and why no singularity followed."
 image: "the-twelve-sultans-of-ai.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Survey Records, ruled lines, and the title The Twelve Sultans of AI above the line Survey Archive and the name Archivist S., Historical Desk."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Survey Records, ruled lines, and the title The Twelve Sultans of AI above the line Survey Archive and the name Archivist S., Historical Desk."
 ---
 
 **SURVEY ARCHIVE — HISTORICAL DESK**

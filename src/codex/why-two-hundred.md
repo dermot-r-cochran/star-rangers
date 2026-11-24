@@ -9,7 +9,7 @@ author: "Sen, Senior Archivist"
 institution: "Survey Archive"
 location: "Survey Archive, Threshold Station — archivist's working-paper series; a living list, appended, never overwritten"
 image: "why-two-hundred.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Why Two Hundred above the line Survey Archive and the name Sen, Senior Archivist."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Working Papers, ruled lines, and the title Why Two Hundred above the line Survey Archive and the name Sen, Senior Archivist."
 ---
 
 *Circulated for comment, not for citation. Written because the question reaches this desk about once a season, usually from someone who has just converted a date and wants the arithmetic to mean something. It does not have to. This paper says what each answer in circulation has survived, using the genera of [Standing Claims](/star-rangers/codex/standing-claims/).*

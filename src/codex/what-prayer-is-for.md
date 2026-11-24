@@ -9,7 +9,7 @@ location: "First-contact translation series; filed on receipt. The source, in th
 tags: [devotional, five-islands, tideward-sisterhood, prayer, culture, first-contact]
 description: "The Abbess of Aduine's instruction to novices, conveyed to the Survey delegation after a linguist asked what the Sisterhood's offices were for. A complete devotional account of prayer that expects no answer and has never needed one — filed with the archivist's note that nothing in it required correction."
 image: "what-prayer-is-for.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Devotional Record, ruled lines, and the title What Prayer Is For above the line Tideward Sisterhood, the Abbeylands, Aduine and the name Abbess Ilsabet Marrowtide."
+image_alt: "Designed codex title card in the house navy palette, with muted gold accents and a mark of a round arch: the category line Devotional Record, ruled lines, and the title What Prayer Is For above the line Tideward Sisterhood, the Abbeylands, Aduine and the name Abbess Ilsabet Marrowtide."
 ---
 
 **SURVEY ARCHIVE — FIRST-CONTACT TRANSLATION SERIES**
