@@ -5853,3 +5853,40 @@ The prompts of record are in `story-bible/images.md` § 99 and are not repeated 
 - **Edit prompt:**
 
 > Edit this photograph and change one thing only: the tall upright stone slab leaning against the foot of the gable wall. Make it a much smaller flat stone, a flat piece of grey field stone about as high as a person's knee and a little wider than a pair of boots, stood on its end on the grass against the foot of the gable wall, with the woman in the long coat straightening from it, one gloved hand just leaving its top edge. Keep everything else exactly as it is: both women, their coats, the cap, the scarf and the other woman's face and folded arms, the stone house and its roof, the wall, the grass, the sky, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+## 2026-11-24 — Season 6, Episodes 0 and 3 to 7: the six new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 100 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** two of Dermot's photographs from `F:\108SEP24\` (September 2024): `_DSC7330` (ground falling away to a wooded valley and upland fields) for `s06e03c01`, and `_DSC7284` (the wood and upland from high on the slope, the conifer cropped out) for `s06e05c01`, each cropped to 16:9 and sent at 2400×1350 with `s06e01c01.jpg` as a second image for the holding's stone. None of the card's other frames shows a lane between walls or a wall's top course; the rest of the card is pasture, horses and a classical garden temple. The other four are generated.
+
+### chapters/s06e00c01.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 100; references `story-bible/reference-art/galen-kane-face-2026-10-13.jpg`, `src/images/characters/galen-kane.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed.
+
+### chapters/s06e03c01.jpg — filed 24 November 2026
+- **Kind:** edit of Dermot's plate (`edited-ai`)
+- **Source:** `images.md` § 100; plate `F:\108SEP24\_DSC7330.JPG`; reference `src/images/chapters/s06e01c01.jpg`.
+- **Run:** Edit round 1 of 1 (the entry's prompt as written), take 2 of 2 filed.
+
+### chapters/s06e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 100; references `src/images/chapters/s06e01c02.jpg`, `story-bible/reference-art/rook-7-body-2026-11-16b.jpg`.
+- **Run:** Round 1 of 1, variation 2, then edit take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph. Keep the long grey gallery, its wall of glass, the grey sea and rain beyond it, the floor, the light, the bench at the far end with the two people seated on it seen from behind, the bag at their feet, the framing and the grain exactly as they are. Change only one thing: the robot. Remove the robot from where it stands in the middle of the gallery, and put it instead at the far end of the gallery, four paces beyond the bench, standing at the glass with one hand flat on the pane, small in the frame and seen from behind or in profile: the same grey jointed robot, now the smallest figure in the picture. Where the robot stood, the floor and the glass are empty. No text, no lettering anywhere. A documentary photograph, not a render.
+
+### chapters/s06e05c01.jpg — filed 24 November 2026
+- **Kind:** edit of Dermot's plate (`edited-ai`)
+- **Source:** `images.md` § 100; plate `F:\108SEP24\_DSC7284.JPG`; reference `src/images/chapters/s06e01c01.jpg`.
+- **Run:** Edit round 1 of 1 (the entry's prompt as written), take 2 of 2 filed. The batch also drew two text-only takes before the plate was chosen; they were not used.
+
+### chapters/s06e06c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 100; reference `src/images/characters/karla-wender.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
+
+### chapters/s06e07c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference
+- **Source:** `images.md` § 100; reference `src/images/chapters/s06e02c01.jpg`.
+- **Run:** Round 1 of 1, variation 2 filed.
