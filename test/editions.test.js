@@ -14,7 +14,8 @@ const {
   allEditions,
   validateEditions,
   validateReadingPlan,
-  validateSectionHeroes
+  validateSectionHeroes,
+  validateStartHere
 } = require("../lib/editions");
 
 const REPO = path.join(__dirname, "..");
@@ -37,6 +38,20 @@ test("the live registry validates, including every readingPlan and sectionHeroes
 
 test("the default edition carries no readingPlan - Sen's note is the site-wide plan", () => {
   assert.equal(DEFAULT_EDITION.readingPlan, null);
+});
+
+test("startHere: null is fine, and church-space names its own thread", () => {
+  validateStartHere(edition({ startHere: null }));
+  const cs = allEditions().find((e) => e.id === "church-space");
+  assert.equal(cs.startHere.threadId, "church-space");
+  validateStartHere(cs);
+});
+
+test("startHere refuses an unknown thread, a thread the edition lacks, and an empty note", () => {
+  const base = { threads: ["church-space"] };
+  assert.throws(() => validateStartHere(edition({ ...base, startHere: { threadId: "no-such-thread", note: "x" } })), /not a registered thread/);
+  assert.throws(() => validateStartHere(edition({ threads: ["undercover-pets"], startHere: { threadId: "church-space", note: "x" } })), /not in this edition's own threads/);
+  assert.throws(() => validateStartHere(edition({ ...base, startHere: { threadId: "church-space", note: " " } })), /non-empty string/);
 });
 
 test("a null or absent readingPlan is fine", () => {
