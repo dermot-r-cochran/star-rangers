@@ -1,0 +1,26 @@
+{#- The Reading Plan's first episodes (lib/plan-episodes.js): at least
+    twelve per edition (Dermot, 2026-11-24), the plan's own thread first.
+    Set `episodesThreadId` before including. Resolved against this build's
+    chapters, so it never links a chapter the edition excludes. -#}
+{%- set planEps = allChapters | planEpisodes(episodesThreadId) -%}
+{%- if planEps.length -%}
+{%- if episodesAsSection %}<section class="thread-section" aria-labelledby="plan-episodes">
+<h2 class="thread-section__title" id="plan-episodes">The first {{ planEps.length }} episodes</h2>
+{%- else %}
+<h3 class="season-block__title" id="plan-episodes">The first {{ planEps.length }} episodes</h3>
+{%- endif %}
+<p class="thread-section__description">In reading order. Each link opens the episode's first chapter.</p>
+<ol class="chapter-list" role="list">
+  {%- for ep in planEps %}
+  {%- set epThread = ep.season | threadForSeason %}
+  <li class="chapter-list__item">
+    <a href="/star-rangers{{ ep.first.url }}">
+      <span class="chapter-list__code">{{ ep.code }}</span>
+      <span class="chapter-list__title">{{ ep.first.data.title }}</span>
+      <span class="chapter-list__loc">{{ ep.chapters }} chapter{% if ep.chapters != 1 %}s{% endif %}{% if ep.threadId != episodesThreadId %} · {{ epThread.name }}{% endif %}</span>
+    </a>
+  </li>
+  {%- endfor %}
+</ol>
+{%- if episodesAsSection %}</section>{% endif %}
+{%- endif -%}

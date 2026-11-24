@@ -85,6 +85,8 @@ permalink: /start/
   {%- else -%}
   <p class="thread-section__description">No chapters published yet. <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> will show them when they arrive.</p>
   {%- endif -%}
+  {% set episodesThreadId = plan.startThreadId %}
+  {% include "start-episodes.njk" %}
 </section>
 
 <section class="thread-section" aria-labelledby="plan-step-2">
@@ -238,6 +240,10 @@ permalink: /start/
   </p>
   {%- endif -%}
 </section>
+
+{% set episodesThreadId = edition.startHere.threadId if edition.startHere else "tissadelle-arc" %}
+{% set episodesAsSection = true %}
+{% include "start-episodes.njk" %}
 
 <section class="thread-section" aria-labelledby="plan-step-2">
   <h2 class="thread-section__title" id="plan-step-2">2 · Read a chapter the way it was taken down</h2>
