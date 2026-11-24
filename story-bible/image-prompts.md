@@ -5837,6 +5837,7 @@ The prompts of record are in `story-bible/images.md` § 99 and are not repeated 
 - **Kind:** generation with references
 - **Source:** `images.md` § 99; references `src/images/characters/sethka-ru.jpg`, `src/images/characters/tissadelle/season-5-halyx-corridor.jpg`.
 - **Run:** Round 1 of 1, two variations, both failing rung 1 (a long-legged spider or crab). **Not filed**; the prompt goes back to Fable (see `images.md` § 99).
+- **Later the same day:** re-prompted with a cropped reference and filed; see the section *S05E03C01: the Serephine closed form, re-prompted and filed*, below.
 
 ### chapters/s05e04c01.jpg — filed 24 November 2026
 - **Kind:** generation with a reference, then an edit
@@ -5853,6 +5854,22 @@ The prompts of record are in `story-bible/images.md` § 99 and are not repeated 
 - **Edit prompt:**
 
 > Edit this photograph and change one thing only: the tall upright stone slab leaning against the foot of the gable wall. Make it a much smaller flat stone, a flat piece of grey field stone about as high as a person's knee and a little wider than a pair of boots, stood on its end on the grass against the foot of the gable wall, with the woman in the long coat straightening from it, one gloved hand just leaving its top edge. Keep everything else exactly as it is: both women, their coats, the cap, the scarf and the other woman's face and folded arms, the stone house and its roof, the wall, the grass, the sky, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.
+
+## 2026-11-24 — S05E03C01: the Serephine closed form, re-prompted and filed (Fable, desktop, #2080)
+
+The prompt of record is the revised prompt in `story-bible/images.md` § 99 and is not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations) and `scripts/image-edit.js` (two single-take edits of variation 1); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs.
+
+### chapters/s05e03c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 99; references `story-bible/reference-art/serephine-closed-low-crop-2026-11-24.jpg` (a crop of `src/images/characters/kesta-ul.jpg`: the carapace lying low and one limb, the vane cut away), `src/images/characters/tissadelle/season-5-halyx-corridor.jpg`.
+- **Run:** Round 1, two variations: variation 1 a near miss (two glazed domes made the limb end a head in profile), variation 2 a whole domed shell. Round 2, two single-take edits of variation 1: edit A filed, edit B not used. The verdict on each is in `images.md` § 99, *The fourth*.
+- **Edit prompt A (filed):**
+
+> Edit this photograph and change one thing only: the right-hand end of the large pale weathered carapace, beside the root of the jointed limb. Remove the two round glazed eye-like domes there, the large one on its side and the smaller one at its tip, together with the two tiny pale studs on the edge just above them. In their place the carapace is plain: the same matte pale bone-grey weathered mineral hide as the rest of it, finely pitted and scratched, continuous and whole, with no eye, no socket, no bulge, no hollow and no mark where they were. Keep everything else exactly as it is: the rest of the carapace with its seams, the pale housing and the small tab on top of it, the jointed limb and where its tip rests, the dark slate, the ledge, the port and its light, the folded shutter, the woman, her face, her hair, her uniform and her hands behind her back, the framing, the colour and the grain. No text anywhere. A documentary photograph, not a render.
+
+- **Edit prompt B (not used):**
+
+> Edit this photograph and change one thing only: the eye-spots on the large pale weathered carapace. At its right-hand end, beside the root of the jointed limb, remove the two round glazed domes, the large one on its side and the smaller one at its tip, together with the two tiny pale studs on the edge just above them, and leave plain weathered hide where they were, with no socket, no bulge and no mark. Then give the carapace its own eye-spots in another place: along its lower rim, the long edge nearest the camera, one uneven line of seven small eye-spots, beginning near the middle of that edge and running away to the left and out of the frame, with none of them at the right-hand end. Each is small, no bigger than a fingertip, and set flush in the hide with no socket and no bulge: a small dark spot with a pale opaque membrane drawn part-way across it. They are unevenly spaced, a hand's width or more apart, all alike, none larger than the others, and no two side by side as a pair. Keep everything else exactly as it is: the rest of the carapace with its seams, the pale housing and the small tab on top of it, the jointed limb and where its tip rests, the dark slate, the ledge, the port and its light, the folded shutter, the woman, her face, her hair, her uniform and her hands behind her back, the framing, the colour and the grain. No text anywhere. A documentary photograph, not a render.
 
 ## 2026-11-24 — Season 6, Episodes 0 and 3 to 7: the six new chapters (Opus, desktop, #2080)
 
