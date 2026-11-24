@@ -17,7 +17,7 @@ verbatim: *"The story is mostly 29th Century but the 'present' year would
 depend on the season or episode"* and *"A season could span several years
 or decades and seasons can have overlapping timelines."* So the line has no
 "recent" value; where knowledge of a subject changed over time, the note
-gives the year ("the survey's account of them, gathered from 2831, is held
+gives the year ("the survey's account of them, gathered from 2831 UCSD, is held
 by the Survey Corps"). A page sets `known:` to one of three values, defined with their
 reader-facing labels in `lib/known-in-story.js`:
 
@@ -59,7 +59,7 @@ A subject with no date of its own (a coastline, the weather, an everyday
 custom, a general principle), or one whose date the record says it does
 not hold, carries no era. A bound is enough ("decades after 2723"); a
 guess is not. It renders before the breadth
-label: **In the story:** *Recent (about 2750 on).* Known to specialists...
+label: **In the story:** *Recent (about 2750 UCSD on).* Known to specialists...
 
 ## How a value is chosen
 

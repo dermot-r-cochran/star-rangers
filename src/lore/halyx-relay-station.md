@@ -9,7 +9,7 @@ image: "chapters/s03e01c01.jpg"
 image_alt: "A young woman with red hair drawn back in a knot sits in profile at a desk that grows out of a dark taupe wall, her eyes lowered and both hands flat either side of a thin blank grey slate. Loose strands of her hair fall over her ear. Behind her a deep round port shows black space and the thin pale green crescent of a planet. The alcove is dim and she is lit softly from the side."
 plain: "Halyx Relay Station is a station in the Halyx System, inside the Cerebraun Hegemony's jurisdiction. The Hegemony's liaison office for the system works aboard it, under the Administrator-Voice, and the Survey Corps keeps a liaison archive there as a guest. Its translation channel carries the speech of Meridian's reef-cities. In 2828 UCSD a Survey Corps officer clearing old files there heard that the Sentinel's signal had structure, and in 2831 a hull specialist's refusal to certify its outer-ring corridor found a fault the monitors had missed."
 known: specialist
-known_note: "Held by the Cerebraun Hegemony and the Survey Corps liaison office aboard."
+known_note: "Held by the Cerebraun Hegemony and the Survey Corps liaison archive aboard."
 galaxy: "Milky Way"
 system: "Halyx System"
 locationType: "Station"

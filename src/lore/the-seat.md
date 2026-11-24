@@ -9,7 +9,7 @@ image_alt: "Krilzat under a heavy grey sky: a worn earth path runs through wind-
 plain: "The watch-post on Casimor, in the Kingdom of the Five Islands, is handed from keeper to keeper. What is handed on is a seat: a named place, as a post is a place and not the person standing at it. In the keepers' family one body often holds more than one person, and the seat is held by one of those people. A child of the post grows up beside the keeper, and in those years a new person may grow in the child and come to answer to the seat. That person is new. Nothing passes from the old keeper to the young one: no memory, and no self. Only the seat is old. For a while both keepers are alive together, so nobody can take the one for the other. This is how the post can run in a family and still be held on service, not on blood. The Kingdom counts one keeper. The watch, for some years at a time, has two."
 known: specialist
 known_note: "Held by the keepers' own family at the watch-post and by the survey that recorded it; the Kingdom's count has never been put beside the watch's."
-era: recent
+era: historical
 related:
   - "The Kingdom of the Five Islands"
   - "Plural Minds"
