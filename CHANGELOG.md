@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pictures for Season 11's six new chapters** (`src/images/chapters/s11e03c01.jpg` to `s11e07c02.jpg`, `story-bible/images.md` § 105, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 105's prompts, the Told held to their filed body; sixteen images in all, two edits, one of them the entry's own fallback (sitting for lying).
+
 - **Pictures for Season 10's seven new chapters** (`src/images/chapters/s10e02c01.jpg` to `s10e07c02.jpg`, `story-bible/images.md` § 104, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Five generated with Gemini; the two Chthonari frames are gouache plates from the `chthonari-a.py` blockout, as on 17 November.
 
 - **Pictures for Season 9's seven new chapters** (`src/images/chapters/s09e02c01.jpg` to `s09e07c02.jpg`, `story-bible/images.md` § 103, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 103's prompts, Varn, Noah and Smith held by reference; nineteen images in all, three edits.
