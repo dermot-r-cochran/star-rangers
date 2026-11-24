@@ -1,0 +1,1 @@
+- **Pictures for Season 10's seven new chapters** (`src/images/chapters/s10e02c01.jpg` to `s10e07c02.jpg`, `story-bible/images.md` § 104, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Five generated with Gemini; the two Chthonari frames are gouache plates from the `chthonari-a.py` blockout, as on 17 November.

@@ -1,0 +1,1 @@
+- **Pictures for Season 9's seven new chapters** (`src/images/chapters/s09e02c01.jpg` to `s09e07c02.jpg`, `story-bible/images.md` § 103, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 103's prompts, Varn, Noah and Smith held by reference; nineteen images in all, three edits.

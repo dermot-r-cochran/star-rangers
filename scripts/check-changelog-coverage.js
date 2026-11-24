@@ -121,7 +121,7 @@ for (const m of missing) {
 
 console.log(
   `Changelog coverage: ${missing.length} of ${checked} content pages are not ` +
-    `mentioned in CHANGELOG.md or changelog/.`,
+    `mentioned in CHANGELOG.md, changelog/ or changelog.d/.`,
 );
 for (const [dir, list] of [...byDir].sort()) {
   console.log(`  ${dir} (${list.length})`);

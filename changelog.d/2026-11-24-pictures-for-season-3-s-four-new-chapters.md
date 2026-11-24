@@ -1,0 +1,1 @@
+- **Pictures for Season 3's four new chapters** (`src/images/chapters/s03e04c01.jpg` to `s03e07c01.jpg`, `story-bible/images.md` § 97, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 97's prompts, filed faces held by reference; ten images in all, one edit.

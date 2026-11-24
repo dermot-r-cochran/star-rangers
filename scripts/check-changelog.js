@@ -105,9 +105,30 @@ for (let i = 1; i < headings.length; i++) {
   }
 }
 
+// 4. Unreleased entries live in changelog.d/, one file per change (since
+//    2026-11-24, lib/changelog-fragments.js). An entry written straight under
+//    [Unreleased] is the shared line two parallel branches both edit, which is
+//    the conflict the fragments exist to end, so it fails here with the fix.
+//    This is a check on where an entry is filed, not on whether it deserves
+//    one, so it is a gate where the coverage and length checks only warn.
+const fsMain = require("fs");
+const { MAIN } = require("../lib/changelog-files");
+const { checkFragments, unreleasedEntries, fragmentFiles } = require("../lib/changelog-fragments");
+const stray = unreleasedEntries(fsMain.readFileSync(MAIN, "utf8"));
+if (stray.length) {
+  problems.push(
+    `${stray.length} entr${stray.length === 1 ? "y is" : "ies are"} written under [Unreleased] in CHANGELOG.md:`,
+    ...stray.map((s) => `  - ${s}...`),
+    "Move each into its own file, changelog.d/YYYY-MM-DD-some-slug.md, holding the",
+    "entry exactly as written (optionally under one `### Added` / `### Changed` /",
+    "`### Fixed` line). See changelog.d/README.md.",
+  );
+}
+problems.push(...checkFragments());
+
 if (problems.length) fail(problems);
 
 console.log(
   `Changelog check passed (${headings.length} released sections, ` +
-    `${tags.length} tags, newest [${headings[0]}]).`,
+    `${tags.length} tags, newest [${headings[0]}], ${fragmentFiles().length} unreleased fragment(s)).`,
 );

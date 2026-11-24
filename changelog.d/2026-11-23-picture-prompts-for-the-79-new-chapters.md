@@ -1,0 +1,3 @@
+### Added
+
+- **Picture prompts for the 79 new chapters** (`story-bible/images.md` §§ 94 to 108, 2026-11-23, Fable drafting, Opus review, at Dermot's *"Write the image prompts for the new chapters"*). One entry per chapter in § 53's shape, season by season: the moment, what sets it apart from its neighbours, references, the prompt and its negations. None is his own frame as it stands; a few name `F:` card folders to check first for a plate. Opus switched one frame to a narrated scene (S04E06) and struck two guesses (a skin tone taken from a surname, S09E05; an empty place in a line, S14E05). Nothing generated; generating is a desktop step.
