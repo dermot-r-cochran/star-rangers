@@ -6354,3 +6354,18 @@ Dermot's *"Yes, match it"*, after the Season 1 hero's clocks lost their glow the
 > Change only one thing: remove the violet glowing cloud from inside both glass cylinders, so the glass is clear and quiet with nothing glowing inside it, and remove the two small violet glows from their faint reflection in the dark glass of the viewport. Nothing in the frame glows.
 >
 > No other new objects, no screens, no lettering. A documentary photograph, not a render.
+
+## 2026-11-24 — S01E00C08: Isren's vanes toward Ulessa, Ulessa's hide (Opus, desktop)
+
+### chapters/s01e00c08.jpg — re-filed 24 November 2026
+- **Kind:** an edit of the filed frame.
+- **Run:** `scripts/image-edit.js`, round 1 of 1, four takes; take 2 filed at Dermot's pick (*"A: take 2"*), 1600 px, strength 1. Record: `images.md` § 61.
+- **Prompt:**
+
+> Edit the first image, a photograph. Do not reframe, crop, zoom or redraw the scene. Keep everything exactly as it is: the low being's creased grey-green hide along the bottom of the frame, its three bright green vanes open to the sun at the left with their rows of small dark beads, the two slender tendrils of skin holding up the plain pale sheet, the terrace floor, the low rounded parapet, the pale gold evening sky and low sun; and the tall being at the right, exactly the same body, shape, pose, three tall legs, hub, hanging rounded body with its pale oval membrane, three short working limbs with closed rounded buds, jointed neck and low-hung head with its one small dark eye, in the same place and at the same size. Change only two things.
+>
+> First, the two dark half-folded vanes in the middle of the low being's back, bent away from the sun: keep them dark, narrow and half folded, rising from their own collars of skin in the same places, but lengthen and turn them so that both reach up and past the top edge of the sheet and their tips point clearly at the tall being's lowered head beyond it, with a small clear gap of air between their tips and her head. They lean toward her, not over the sheet.
+>
+> Second, the tall being's hide: keep its colours, its ochre and russet banded with darker umber, and its exact shape, but make the surface look like a photograph of real living hide in low evening sun rather than a smooth render: fine pores and a fine grain across the skin, soft creases and folds of skin at every joint of the legs and neck and where the neck meets the body, a few small scuffs and paler worn patches on the lower legs and feet, faint dust on the feet, a slight natural sheen only where the sun catches, and soft real shadow under the body. Nothing glossy, nothing plastic, no new parts.
+>
+> No other new objects, no face on either being, no lettering. A documentary photograph taken inside the world by a 29th-century camera, not a render.
