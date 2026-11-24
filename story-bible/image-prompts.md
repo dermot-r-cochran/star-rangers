@@ -5823,3 +5823,33 @@ The prompts of record are in `story-bible/images.md` § 98 and are not repeated 
 - **Kind:** generation with a reference
 - **Source:** `images.md` § 98; reference `src/images/characters/petra-voss.jpg`.
 - **Run:** Round 1 of 1, variation 1 filed.
+
+## 2026-11-24 — Season 5, Episodes 2 to 5: the four new chapters (Opus, desktop, #2080)
+
+The prompts of record are in `story-bible/images.md` § 99 and are not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate` (two variations each) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs (§ 99 records the catalogue check).
+
+### chapters/s05e02c01-returned.jpg — filed 24 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 99; references `story-bible/reference-art/arashobal-face-2026-10-17.jpg`, `src/images/characters/karla-wender.jpg`, `src/images/chapters/s05e00c02.jpg`.
+- **Run:** Round 1 of 1, variation 1 filed, as `s05e02c01-returned.jpg` (the old `s05e02c01.jpg` belongs to S05E06C01).
+
+### chapters/s05e03c01.jpg — not filed
+- **Kind:** generation with references
+- **Source:** `images.md` § 99; references `src/images/characters/sethka-ru.jpg`, `src/images/characters/tissadelle/season-5-halyx-corridor.jpg`.
+- **Run:** Round 1 of 1, two variations, both failing rung 1 (a long-legged spider or crab). **Not filed**; the prompt goes back to Fable (see `images.md` § 99).
+
+### chapters/s05e04c01.jpg — filed 24 November 2026
+- **Kind:** generation with a reference, then an edit
+- **Source:** `images.md` § 99; reference `src/images/characters/mira-of-brine.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the ceiling. Remove the bright rectangular ceiling light fittings. The ceiling is plain smooth pale composite with nothing on it; the gallery simply has soft dim even light in it from no source that can be seen. Keep everything else exactly as it is: the pipe, its saddle and fastenings, the wet line along the pipe, the floor, the walls, the far being by the pipe, the depth of field, the light's colour and the grain. No text anywhere. A documentary photograph, not a render.
+
+### chapters/s05e05c01.jpg — filed 24 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 99; references `src/images/characters/orla-shepherd.jpg`, `src/images/chapters/s06e01c01.jpg`.
+- **Run:** Round 1 of 1, variation 1, then edit take 1 of 1. The `108SEP24` card was read first for a gable plate and has none.
+- **Edit prompt:**
+
+> Edit this photograph and change one thing only: the tall upright stone slab leaning against the foot of the gable wall. Make it a much smaller flat stone, a flat piece of grey field stone about as high as a person's knee and a little wider than a pair of boots, stood on its end on the grass against the foot of the gable wall, with the woman in the long coat straightening from it, one gloved hand just leaving its top edge. Keep everything else exactly as it is: both women, their coats, the cap, the scarf and the other woman's face and folded arms, the stone house and its roof, the wall, the grass, the sky, the light, the framing and the grain. No text anywhere. A documentary photograph, not a render.

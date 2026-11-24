@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pictures for three of Season 5's four new chapters** (`src/images/chapters/s05e02c01-returned.jpg`, `s05e04c01.jpg`, `s05e05c01.jpg`, `story-bible/images.md` § 99, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 99's prompts; ten images in all, two edits. `s05e03c01`, the first picture of the Serephine closed form, drew a spider twice and is parked for a Fable revision of its prompt.
+
 - **Pictures for Season 4's five new chapters** (`src/images/chapters/s04e03c01.jpg` to `s04e06c01.jpg`, `story-bible/images.md` § 98, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 98's prompts, filed faces and Alala held by reference; twelve images in all, one edit.
 
 - **Pictures for Season 3's four new chapters** (`src/images/chapters/s03e04c01.jpg` to `s03e07c01.jpg`, `story-bible/images.md` § 97, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 97's prompts, filed faces held by reference; ten images in all, one edit.
