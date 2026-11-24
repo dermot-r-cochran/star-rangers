@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Working ranges for chapters, episodes and seasons, as guidance** (`story-bible/story-bible-summary.md`, `story-bible/intake-2026-11-24.md`, 2026-11-24, Opus, Dermot's *"Yes, as guidance"*). Two to four POV blocks a chapter, three to six chapters an episode, three to six episodes a season; a thread has no planned length, and an arc is not measured in seasons. Ranges, not quotas, under the rules that an episode needs no fixed shape and no structure becomes predictable. Nothing published changes to meet them.
+
 ## [1.78.0] — 2026-11-23
 
 The core theme is recorded: truth is absolute, and trust is built from partial evidence and never finished. Two clauses follow it: the villains are falsehood, never a person, and natural suffering in the present is minimal. Season 5 gains *At Its Ends*, Galen Kane's first viewpoint. The archecluster and Made Minds pages now agree with the Counterpane survey, the open questions are triaged, and four critic points are ruled as recommended.
