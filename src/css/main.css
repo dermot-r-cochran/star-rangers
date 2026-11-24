@@ -2107,6 +2107,22 @@ a:focus {
   color: var(--color-text-muted);
 }
 
+.character-viewpoints {
+  margin-top: var(--spacing-xl);
+  max-width: var(--max-prose);
+}
+.character-viewpoints__intro {
+  color: var(--color-text-muted);
+}
+.character-viewpoints__season {
+  margin-top: var(--spacing-md);
+}
+.character-viewpoints__season > summary {
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  margin-bottom: var(--spacing-sm);
+}
 .character-known-codex {
   margin-top: var(--spacing-xl);
   padding: var(--spacing-md);

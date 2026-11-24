@@ -35,6 +35,7 @@ const { findArchiveBacklinks } = require("./lib/archive-backlinks");
 const { findArchiveCompanions } = require("./lib/archive-companions");
 const { getEdition, validateEditions, PRESENTATION_MODES, editionForDomain } = require("./lib/editions");
 const { unlinkExcluded } = require("./lib/unlink-excluded");
+const { viewpointChapters } = require("./lib/viewpoint-chapters");
 const { planEpisodes } = require("./lib/plan-episodes");
 const matter = require("gray-matter");
 const fs = require("fs");
@@ -420,6 +421,11 @@ module.exports = function(eleventyConfig) {
   // The chapter layout's "View from" buttons come from `povs:` front matter,
   // not from the rendered body, so they need the same gate: an entry carrying
   // `tier:` above this build's tier names a block the body no longer has.
+  // A character page's Viewpoint chapters (lib/viewpoint-chapters.js).
+  eleventyConfig.addFilter("viewpointChapters", (chapters, id, slug) =>
+    viewpointChapters(chapters, [id, slug], (p) => povTierVisible(p.tier, getEdition().tier))
+  );
+
   eleventyConfig.addFilter("povsForTier", (povs) =>
     (povs || []).filter((p) => povTierVisible(p && p.tier, getEdition().tier))
   );
