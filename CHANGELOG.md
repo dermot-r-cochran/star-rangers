@@ -6,6 +6,8 @@ The format loosely follows [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ## [Unreleased]
 
+- **Pictures for Season 13's six new chapters** (`src/images/chapters/s13e03c01.jpg` to `s13e07c02.jpg`, `story-bible/images.md` § 107, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 107's prompts after the `130DUNLG` and `129DALKY` cards were read for plates and had none; twelve images, no edits.
+
 - **Pictures for Season 12's six new chapters** (`src/images/chapters/s12e03c01.jpg` to `s12e07c02.jpg`, `story-bible/images.md` § 106, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 106's prompts, the Told held to their filed body; twelve images, no edits. The first look inside the survey station is among them, and is his to overrule.
 
 - **Pictures for Season 11's six new chapters** (`src/images/chapters/s11e03c01.jpg` to `s11e07c02.jpg`, `story-bible/images.md` § 105, `story-bible/image-prompts.md`, 2026-11-24, Opus, for #2080). Generated with Gemini from § 105's prompts, the Told held to their filed body; sixteen images in all, two edits, one of them the entry's own fallback (sitting for lying).
