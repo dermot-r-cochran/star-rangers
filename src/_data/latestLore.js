@@ -7,6 +7,8 @@ const path = require("path");
 const { execFileSync } = require("child_process");
 const matter = require("gray-matter");
 const { getContentFilter, isTopicPageIncluded } = require("../../lib/content-filter");
+const { getEdition } = require("../../lib/editions");
+const { pickNewest } = require("../../lib/newest-lore");
 
 const REPO_ROOT = path.join(__dirname, "..", "..");
 const LORE_DIR = path.join(__dirname, "..", "lore");
@@ -71,7 +73,7 @@ function firstParagraph(body) {
 
 module.exports = function () {
   const filter = getContentFilter();
-  let latest = null;
+  const entries = [];
 
   for (const filePath of findMarkdownFiles(LORE_DIR)) {
     const raw = fs.readFileSync(filePath, "utf8");
@@ -82,8 +84,6 @@ module.exports = function () {
     const mtime = fs.statSync(filePath).mtime;
     const updated = commitDate && commitDate > mtime ? commitDate : mtime;
 
-    if (latest && updated <= latest.updated) continue;
-
     // path.relative returns backslashes on Windows, and they went straight
     // into the href - local builds emitted /lore\entry/ . Production never
     // saw it because the deploy hosts are Linux, which is exactly why it
@@ -93,13 +93,19 @@ module.exports = function () {
     const relUrl = "/" + path.relative(path.join(REPO_ROOT, "src"), filePath)
       .split(path.sep).join("/")
       .replace(/\.md$/, "") + "/";
-    latest = {
+    entries.push({
       updated,
+      data,
       title: data.title,
       excerpt: firstParagraph(content),
       url: relUrl
-    };
+    });
   }
 
+  // An edition may confine the pick to its own topics (lib/newest-lore.js
+  // says why); with none tagged, or no newestTopics, it is the newest overall.
+  const chosen = pickNewest(entries, getEdition().newestTopics);
+  if (!chosen) return null;
+  const { data: _data, ...latest } = chosen;
   return latest;
 };
