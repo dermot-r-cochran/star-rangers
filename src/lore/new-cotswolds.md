@@ -23,7 +23,7 @@ The Evenlode corridor is such a case — a single admissible route, surveyed onc
 
 ## Who Went, and Why It Looks Like This
 
-The founding party came out of the [New London Space Habitat](/star-rangers/lore/new-london-space-habitat/), which had by then spent five centuries at Earth–Moon L5 doing the one job its charter gave it: holding a cultural inheritance intact through an emergency that had long since ended. A preservation institution offered a corridor to somewhere nobody could follow is a preservation institution presented with its own argument, and the record of the debate survives in full at New London because they kept it, as they keep everything.
+The founding party came out of the [New London Space Habitat](/star-rangers/lore/new-london-space-habitat/), which had by then spent some three and a half centuries at Earth–Moon L5 doing the one job its charter gave it: holding a cultural inheritance intact through an emergency that had long since ended. A preservation institution offered a corridor to somewhere nobody could follow is a preservation institution presented with its own argument, and the record of the debate survives in full at New London because they kept it, as they keep everything.
 
 What that produced at the far end is not a reconstruction and was never meant as one. It is a working agricultural country built by people who had an explicit brief about what they were carrying, which is the whole of the difference between this entry and [Winterbourne](/star-rangers/lore/planets/winterbourne/). On Winterbourne the record cannot establish whether the pattern was intended. Here the intent is a filed document with a date on it.
 
