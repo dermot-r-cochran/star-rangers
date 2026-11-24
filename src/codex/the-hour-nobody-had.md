@@ -9,7 +9,7 @@ location: "General fiction shelf, Eden Space Habitat — habitat library copy of
 tags: [merrin-aldwater, fiction, fantasy, culture, cultural-record, timekeeping, plainmark, plural-minds, kernel-compliant]
 description: "A fantasy story from Merrin Aldwater's The Round and Other Impossibilities: a courier who carries the time itself round five houses comes home with an hour no ledger holds, and declines three good ways of being rid of it. The author's closing note lists what was made up."
 image: "the-hour-nobody-had.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading Fiction, and the title The Hour Nobody Had above the subtitle A fantasy, with the author's note on what was made up, the line Second Watch Press, and the name Merrin Aldwater."
+image_alt: "Designed codex title card in the house navy palette, with lavender accents and a mark of two overlapping leaves of paper: the category line Cultural Record, ruled lines, a stamp reading Fiction, and the title The Hour Nobody Had above the subtitle A fantasy, with the author's note on what was made up, the line Second Watch Press, and the name Merrin Aldwater."
 ---
 
 **THE HOUR NOBODY HAD**

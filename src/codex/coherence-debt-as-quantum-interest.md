@@ -9,7 +9,7 @@ author: "Ansel Thale, fold-scaffold specialization, Star Rangers Engineering Cor
 institution: "Star Rangers Engineering Corps — fold-scaffold specialization, Earth–Sun L5 staging zone"
 location: "Engineering Corps working papers, Earth–Sun L5 staging zone, no. FS-212; copy lodged with the Survey Archive, Threshold Station, 2826 UCSD"
 image: "coherence-debt-as-quantum-interest.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Coherence Debt as Quantum Interest above the line Star Rangers Engineering Corps and the name Ansel Thale."
+image_alt: "Designed codex title card in the house navy palette, with teal accents and a mark of a ringed cross-sight: the category line Working Papers, ruled lines, and the title Coherence Debt as Quantum Interest above the line Star Rangers Engineering Corps and the name Ansel Thale."
 ---
 
 *Circulated for comment. A model of the fold aperture, not of the fold. Numbered so that later papers can cite a proposition rather than the whole. Section 8 says which propositions are derived and which are this paper's own reading, and a citing author should keep the two apart.*

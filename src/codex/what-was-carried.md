@@ -9,7 +9,7 @@ location: "Bound after The Life of Saint Aoife in the Currach Fleet's nineteenth
 tags: [saint-aoife, brother-daire, celtic-union, hagiography, devotional-traditions, culture]
 description: "The continuation of Brother Daire's Life, set down at Cill Aoife by a hand that gives no name: Aoife's last winter at the well in 1241 AD, the three things she asked, the one thing she said, what the house looked for and did not see, and what the house holds was carried of her and what was not — with the Archive's note that the carrying is the tradition's claim, filed as devotional, and that no instrument reaches where the tradition says she went."
 image: "what-was-carried.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Hagiography, ruled lines, and the title What Was Carried above the line Monastic scriptorium, Cill Aoife, Ireland and the line A Later Hand of Cill Aoife."
+image_alt: "Designed codex title card in the house navy palette, with muted gold accents and a mark of a round arch: the category line Hagiography, ruled lines, and the title What Was Carried above the line Monastic scriptorium, Cill Aoife, Ireland and the line A Later Hand of Cill Aoife."
 ---
 
 **IN THE YEAR OF HER DEATH, AND AFTER**

@@ -8,7 +8,7 @@ description: "The Institute's paper on post-mortem doctrine: judgment, punishmen
 location: "Institute Papers, comparative testimony unit, no. 9204; circulated open, as all Institute papers are"
 tags: [the-institute, secular, working-paper, doctrine, post-mortem, judgment, comparative-testimony]
 image: "three-claims-concerning-the-dead.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Three Claims Concerning the Dead above the subtitle Considered Separately, the line The Institute, and the name Dr. Maren Ilves."
+image_alt: "Designed codex title card in the house navy palette, with bone-coloured accents and a mark of two square brackets: the category line Working Papers, ruled lines, and the title Three Claims Concerning the Dead above the subtitle Considered Separately, the line The Institute, and the name Dr. Maren Ilves."
 ---
 
 ## 1. Scope, and summary of finding

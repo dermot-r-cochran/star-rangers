@@ -9,7 +9,7 @@ author: "Hester Quaile, ephemeris desk, Survey Corps Standards Office"
 institution: "Star Rangers Survey Corps — Standards Office, ephemeris desk, Earth"
 location: "Survey Corps Standards Office working papers, ephemeris desk, no. EP-47; copy lodged with the Survey Archive, Threshold Station, 2827 UCSD"
 image: "on-the-simultaneity-of-folds.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title On the Simultaneity of Folds above the line Star Rangers Survey Corps · Standards Office and the name Hester Quaile."
+image_alt: "Designed codex title card in the house navy palette, with teal accents and a mark of a ringed cross-sight: the category line Working Papers, ruled lines, and the title On the Simultaneity of Folds above the line Star Rangers Survey Corps · Standards Office and the name Hester Quaile."
 ---
 
 *Circulated for comment. This paper concerns when a fold happens, not how. It takes the fold as given and the aperture as Thale models it, and asks one question the record has not yet asked aloud: at a fold, which "now" is joined to which? Numbered for citation, following FS-212's practice, with derived results and this desk's proposals marked apart in section 7.*

@@ -9,7 +9,7 @@ location: "Verification case files, correspondence series; filed 2827 UCSD"
 tags: [survey-archive, verification, correspondence, culture, memory]
 description: "A verification case file: nine years of unsent letters to a friend the submitter assembled, without ever deciding to, out of real people — annotated at the points where the living sources walked away from her by continuing to live. For once, the desk issues a verdict."
 image: "the-friend-who-was-never-sent.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Survey Records, ruled lines, and the title The Friend Who Was Never Sent above the line Survey Archive, Threshold Station and the name Archivist S., Verification Desk."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Survey Records, ruled lines, and the title The Friend Who Was Never Sent above the line Survey Archive, Threshold Station and the name Archivist S., Verification Desk."
 ---
 
 **SURVEY ARCHIVE — VERIFICATION DESK**

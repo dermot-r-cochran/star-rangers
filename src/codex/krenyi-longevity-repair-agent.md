@@ -8,7 +8,7 @@ author: "Dr. Mireille Achterberg"
 institution: "Comparative Gerontology Unit"
 tags: [krenyi, longevity, gerontology, engineered-origin, mnemari, codex, comparative-gerontology]
 image: "krenyi-longevity-repair-agent.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Comparative Gerontology, ruled lines, a stamp reading Not Ratified, and the title On Krenyi Longevity above the subtitle The Repair Agent and the Engineered-Transit Hypothesis, the line Comparative Gerontology Unit, and the name Dr. Mireille Achterberg."
+image_alt: "Designed codex title card in the house navy palette, with bone-coloured accents and a mark of two square brackets: the category line Comparative Gerontology, ruled lines, a stamp reading Not Ratified, and the title On Krenyi Longevity above the subtitle The Repair Agent and the Engineered-Transit Hypothesis, the line Comparative Gerontology Unit, and the name Dr. Mireille Achterberg."
 ---
 
 **EARTH INSTITUTIONAL ARCHIVES — COMPARATIVE GERONTOLOGY**

@@ -9,7 +9,7 @@ location: "Survey Archive, Threshold Station — doctrinal working-paper series;
 tags: [cosmology, unfounded, archive-doctrine, devotional-traditions, terran-scripture, cascade]
 description: "A Survey Archive doctrinal note reading the old Terran parable of the two builders — the house on rock and the house on sand — as the scriptures' most exact statement of the Unfounded: patterns whose shape is complete and whose foundation is absent."
 image: "the-house-on-the-sand.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Doctrinal Record, ruled lines, and the title The House on the Sand above the line Survey Archive · Doctrinal Division and the name Theorist Emrys Kade."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Doctrinal Record, ruled lines, and the title The House on the Sand above the line Survey Archive · Doctrinal Division and the name Theorist Emrys Kade."
 ---
 
 Among the parables the older Terran scriptures preserve, one describes two builders. Each builds a house, and the text is careful about what it does not say: it does not say one house was smaller, or meaner, or worse made. The houses differ in nothing a visitor could inspect. One stands on rock and one stands on sand, and then the same weather arrives for both — *the rain descended, and the floods came, and the winds blew* — and one house stands, and the other falls, *and great was the fall of it.*

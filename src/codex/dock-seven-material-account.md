@@ -8,7 +8,7 @@ description: "The Institute's published account of Dock Seven: the boundary fail
 location: "Institute Papers, fold-dynamics unit, no. 8811; circulated open, as all Institute papers are"
 tags: [the-institute, dock-seven, threshold-station, boundary, fold-drive, secular, working-paper, tissadelle, levril]
 image: "dock-seven-material-account.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title A Material Account of the Dock Seven Event above the line The Institute and the name Dr. Ausma Reihl."
+image_alt: "Designed codex title card in the house navy palette, with bone-coloured accents and a mark of two square brackets: the category line Working Papers, ruled lines, and the title A Material Account of the Dock Seven Event above the line The Institute and the name Dr. Ausma Reihl."
 ---
 
 *A note on what this document is. It is a research paper by a body that declines to use the [Cosmic Cascade](/star-rangers/lore/cosmic-cascade/) and says so on its first page. It is filed here because it is the account most people in settled space actually hold, because it is careful, and because it is right about a great deal. It is not the Archive's account, and where the two differ the Archive has not been able to persuade the Institute and has largely stopped trying.*

@@ -9,7 +9,7 @@ description: "The Combine's offering to subscribers for its stabiliser programme
 location: "Offering memorandum, Late Summer 2831 UCSD; a circulated copy entered in the Dock Seven incident file, Survey Archive, Threshold Station, during the reconciliation of the Combine's licence"
 tags: [hyperfold, combine, dock-seven, threshold-station, commercial, fold-drive, boundary, official-documents]
 image: "hyperfold-offering-memorandum.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Official Documents, ruled lines, and the title Offering Memorandum above the subtitle The Threshold Programme, the line Hyperfold Yield Combine, and the words as issuer."
+image_alt: "Designed codex title card in the house navy palette, with copper accents and a mark of a hexagon: the category line Official Documents, ruled lines, and the title Offering Memorandum above the subtitle The Threshold Programme, the line Hyperfold Yield Combine, and the words as issuer."
 ---
 
 *A note on what this document is. It is an offering to subscribers, written by the Combine about itself to raise capital for the operation that ended at Dock Seven. It is filed here because it is the only account the Combine gave of itself, and because a copy was found in the reconciliation of its licence. The Archive has not established who received it or who subscribed. The subscriber list was not part of the offering and is not held. Read it as the Combine wished to be read. The Archive's own account is on the [Hyperfold Yield Combine](/star-rangers/lore/hyperfold-yield-combine/) page.*

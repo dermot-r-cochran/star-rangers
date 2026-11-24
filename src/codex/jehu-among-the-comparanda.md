@@ -9,7 +9,7 @@ location: "Cross-chapter correspondence series; current filing held at the Eden 
 tags: [arilon, fellowship-of-light, cosmic-cascade, msc, maren-solveig-krast, comparative-archive, terran-scripture, culture, devotional-traditions]
 description: "A Fellowship comparative-archive note pairing an Old-Earth scriptural pair — the prophet Elijah and the captain Jehu — with two figures from Solar System political memory: the Arilon-pattern witness who named the boundary truth first, and General Krast, whose word founded a rule by experts that ended one failure by keeping its deeper one."
 image: "jehu-among-the-comparanda.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Comparative Study, ruled lines, and the title Jehu Among the Comparanda above the line Fellowship of Light, contemplative chapter and the name Sister Ione Marrec."
+image_alt: "Designed codex title card in the house navy palette, with muted gold accents and a mark of a round arch: the category line Comparative Study, ruled lines, and the title Jehu Among the Comparanda above the line Fellowship of Light, contemplative chapter and the name Sister Ione Marrec."
 ---
 
 **COMPARATIVE-ARCHIVE NOTE — CROSS-CHAPTER SERIES**

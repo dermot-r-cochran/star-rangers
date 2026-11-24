@@ -8,7 +8,7 @@ location: "Interoffice correspondence, notation series; circulated 2824 UCSD; co
 tags: [concord, timekeeping, notation, institutions, archives]
 description: "An interoffice reply on the expansion of U.C.S.D., from a senior registrar asked to correct thirty years of printed forms — who declines, carefully, and explains exactly what kind of truth a calendar requires."
 image: "what-the-letters-stand-for.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Official Documents, ruled lines, and the title What the Letters Stand For above the line Civil Records Directorate, Solar System Concord and the name Senior Registrar M. Tulloch."
+image_alt: "Designed codex title card in the house navy palette, with clay-rose accents and a mark of a square within a square: the category line Official Documents, ruled lines, and the title What the Letters Stand For above the line Civil Records Directorate, Solar System Concord and the name Senior Registrar M. Tulloch."
 ---
 
 **CIVIL RECORDS DIRECTORATE — SOLAR SYSTEM CONCORD**

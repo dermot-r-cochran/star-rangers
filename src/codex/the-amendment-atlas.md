@@ -9,7 +9,7 @@ author: "Ilsabet Corren, Fellow in Comparative Records, the Institute"
 institution: "The Institute"
 location: "Survey Archive, Threshold Station — visiting papers, circulated for comment; the Senior Archivist's shelf comment filed beside it"
 image: "the-amendment-atlas.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title The Amendment Atlas above the subtitle A Proposal, the line The Institute, and the name Ilsabet Corren."
+image_alt: "Designed codex title card in the house navy palette, with bone-coloured accents and a mark of two square brackets: the category line Working Papers, ruled lines, and the title The Amendment Atlas above the subtitle A Proposal, the line The Institute, and the name Ilsabet Corren."
 ---
 
 *Visiting paper, circulated for comment under the Archive's working-paper conventions. The Institute's own conventions also apply: this paper states what it proposes to measure, publishes in advance what would count as failing to find it, and asserts no result it has not yet obtained — which, since the atlas is unbuilt, is all of them.*

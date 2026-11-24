@@ -9,7 +9,7 @@ location: "Spoken at the Eden Space Habitat commissioning, 2831 UCSD; transcript
 tags: [arilon, fellowship-of-light, hymn-of-the-thin-places, maren-solveig-krast, eden, commissioning, culture, told-account]
 description: "A Fellowship contemplative, asked by a cadet at her commissioning why the Rangers sing an Old-Earth song about a prophet nobody in the room worships, tells the twinned story of the witness on the mountain and the captain who ended the rotten house — and leaves the cadet to find the general in it herself."
 image: "the-captain-who-drove-furiously.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, and the title The Captain Who Drove Furiously above the line Fellowship of Light, contemplative chapter and the name Sister Ione Marrec."
+image_alt: "Designed codex title card in the house navy palette, with muted gold accents and a mark of a round arch: the category line Cultural Record, ruled lines, and the title The Captain Who Drove Furiously above the line Fellowship of Light, contemplative chapter and the name Sister Ione Marrec."
 ---
 
 **TRANSCRIBED FROM THE COMMISSIONING RECORD, EDEN — 2831 UCSD**

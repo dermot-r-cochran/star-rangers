@@ -9,7 +9,7 @@ description: "A prospectus for fitting Anstolik herds with detection collars aga
 location: "Fliade survey working file, unnumbered; copy lodged with the Survey Archive, Threshold Station, at the countersigning officer's request, 2832 UCSD"
 tags: [fliade, anstolik, pandoids, survey-corps, first-contact, animal-welfare, ai-safety-kernel, instrumentation, working-paper, star-rangers]
 image: "proposal-to-collar-the-anstolik.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title A Proposal to Collar the Anstolik above the subtitle Refused at Countersign, the line Star Rangers Survey Corps, Fliade survey, and the names Toma Egede and Hesper Nakagawa."
+image_alt: "Designed codex title card in the house navy palette, with teal accents and a mark of a ringed cross-sight: the category line Working Papers, ruled lines, and the title A Proposal to Collar the Anstolik above the subtitle Refused at Countersign, the line Star Rangers Survey Corps, Fliade survey, and the names Toma Egede and Hesper Nakagawa."
 ---
 
 *A note on what this document is. It is a proposal that was not adopted, filed complete with the objection that stopped it, at the request of the officer who raised the objection rather than the officer who wrote it. Neither half is the Archive's voice. The first is what a capable instrument specialist believed, in good faith, could be built; the second is what the survey lead believed it would do once built. They are filed together because a refusal kept without the thing it refused teaches nobody anything, and because the proposal is the better document with the refusal attached.*

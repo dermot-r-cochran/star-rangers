@@ -8,7 +8,7 @@ institution: "Federation record (a clerk's deposit); Survey Archive general coll
 location: "Survey Archive general collection, Threshold Station — copy of a clerk's deposit in the Federation record: a clerk's account of an evening and a witness's answer the next day, taken down as spoken; neither piece of music is on file in any form; the place and the year are not given, and the Mnemari language is not held"
 tags: [mnemari, ilenne, federation-of-sentient-beings, ulessa, treaty-witness, memory, music, xenomusicology, codex-art]
 image: "the-part-not-played.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Cultural Record, ruled lines, a stamp reading As Taken Down, and the title The Part Not Played above the subtitle A Mnemari piece that sounds only where it differs, the line Federation record, copied to the Survey Archive, and the name Ulessa, treaty-witness."
+image_alt: "Designed codex title card in the house navy palette, with sage-green accents and a mark of a broken ring: the category line Cultural Record, ruled lines, a stamp reading As Taken Down, and the title The Part Not Played above the subtitle A Mnemari piece that sounds only where it differs, the line Federation record, copied to the Survey Archive, and the name Ulessa, treaty-witness."
 description: "A clerk of the Federation assembly sits through a Mnemari piece that is mostly rests and asks the witness beside her what was missed. Ulessa answers: in her gathering, among listeners who forget nothing, a piece is never played again, so a new one is a reply to an old one each listener still holds, and sounds only where it departs. She declines to hum the old one, says what the clerk did and did not have, and says why she had the clerk let in."
 ---
 

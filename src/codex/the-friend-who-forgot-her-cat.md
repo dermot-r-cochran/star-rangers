@@ -9,7 +9,7 @@ location: "Verification case files, correspondence series; filed 2826 UCSD"
 tags: [survey-archive, verification, correspondence, fabricated-persona, ai-safety-kernel, relay-network, sen, culture]
 description: "A verification case file: six years of warm correspondence between a Dock Seven comms tech and a friend on a distant relay, annotated at the points where the friendship began to come apart — and the one small, impossible absence that ended it. No verdict is issued."
 image: "the-friend-who-forgot-her-cat.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Survey Records, ruled lines, and the title The Friend Who Forgot Her Cat above the line Survey Archive, Threshold Station and the name Archivist S., Verification Desk."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Survey Records, ruled lines, and the title The Friend Who Forgot Her Cat above the line Survey Archive, Threshold Station and the name Archivist S., Verification Desk."
 ---
 
 **SURVEY ARCHIVE — VERIFICATION DESK**

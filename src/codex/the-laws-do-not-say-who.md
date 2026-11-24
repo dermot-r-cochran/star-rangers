@@ -9,7 +9,7 @@ author: "Sen, Senior Archivist"
 institution: "Survey Archive"
 location: "Survey Archive, Threshold Station — archivist's working-paper series; circulated for comment, not for citation"
 image: "the-laws-do-not-say-who.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title The Laws Do Not Say Who above the line Survey Archive and the name Sen, Senior Archivist."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Working Papers, ruled lines, and the title The Laws Do Not Say Who above the line Survey Archive and the name Sen, Senior Archivist."
 ---
 
 *Circulated for comment, not for citation. A reply to a question the series keeps receiving, set down once so the desk can point at it.*

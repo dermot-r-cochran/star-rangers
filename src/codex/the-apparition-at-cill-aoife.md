@@ -9,7 +9,7 @@ location: "A single leaf of the house's book at Cill Aoife, carried with The Lif
 tags: [saint-aoife, brother-daire, celtic-union, hagiography, unfounded, levril, culture, devotional-traditions]
 description: "A leaf of the house's book at Cill Aoife, entered from Brother Daire's telling: an apparition in the village, Aoife's refusal of it with a wooden cross and five sentences, and what Daire saw above her for a moment afterwards — a leaf that puts the word unfounded in a thirteenth-century mouth, which the Archive registers as an echo and derives nothing from."
 image: "the-apparition-at-cill-aoife.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Hagiography, ruled lines, and the title The Apparition at Cill Aoife above the line Monastic scriptorium, Cill Aoife, Ireland and the line The Keeper of the House's Book."
+image_alt: "Designed codex title card in the house navy palette, with muted gold accents and a mark of a round arch: the category line Hagiography, ruled lines, and the title The Apparition at Cill Aoife above the line Monastic scriptorium, Cill Aoife, Ireland and the line The Keeper of the House's Book."
 ---
 
 **FROM THE HOUSE'S BOOK AT CILL AOIFE**

@@ -57,6 +57,8 @@ param(
   [string]$Underlay = "",
   [ValidateRange(0, 100)][int]$Scrim = 62,
   [Parameter(Mandatory = $true)][string]$Out,
+  [string]$Accent = "",
+  [ValidateSet("", "shelf", "sight", "bracket", "arch", "seal", "hex", "leaves", "open")][string]$Symbol = "",
   [int]$Size = 1600,
   [int]$Quality = 94
 )
@@ -78,6 +80,29 @@ $s = $W / 1600.0   # scale factor if a non-default size is requested
 
 function New-Col([int]$a, [int]$r, [int]$gr, [int]$b) {
   return [System.Drawing.Color]::FromArgb($a, $r, $gr, $b)
+}
+
+# ---------- accent (since 2026-11-24) ----------
+# -Accent "#RRGGBB" recolours the parts of the card that say who issued the
+# document: the top bar, the wash, the category line, the motif, the stamp,
+# the divider and the -Symbol. The ground, title and lower lines stay in the
+# house navy. Without -Accent every colour is the 2026-10-11 template's, so an
+# old command still draws the old card. Families and their accents:
+# story-bible/images.md, "Codex title-card accents".
+$acc = $null
+if ($Accent) {
+  $hex = $Accent.TrimStart('#')
+  $acc = @([Convert]::ToInt32($hex.Substring(0, 2), 16), [Convert]::ToInt32($hex.Substring(2, 2), 16), [Convert]::ToInt32($hex.Substring(4, 2), 16))
+}
+# The accent mixed toward white (t > 0) or toward the navy ground (t < 0).
+function Acc-Col([int]$a, [double]$t, [int[]]$fallback) {
+  if (-not $script:acc) { return New-Col $a $fallback[0] $fallback[1] $fallback[2] }
+  $c = @(0, 0, 0)
+  for ($k = 0; $k -lt 3; $k++) {
+    $v = [double]$script:acc[$k]
+    if ($t -ge 0) { $c[$k] = [int]($v + (255 - $v) * $t) } else { $c[$k] = [int]($v * (1 + $t)) }
+  }
+  return New-Col $a $c[0] $c[1] $c[2]
 }
 
 function Measure-Tracked {
@@ -170,13 +195,13 @@ else {
   $path = New-Object System.Drawing.Drawing2D.GraphicsPath
   $path.AddEllipse((-500 * $s), (-700 * $s), (2200 * $s), (1900 * $s))
   $pgb = New-Object System.Drawing.Drawing2D.PathGradientBrush($path)
-  $pgb.CenterColor = (New-Col 46 92 124 190)
+  $pgb.CenterColor = (Acc-Col 40 -0.25 @(92, 124, 190))
   $pgb.SurroundColors = @((New-Col 0 10 12 20))
   $g.FillPath($pgb, $path)
 }
 
 $barRect = New-Object System.Drawing.Rectangle(0, 0, $W, [int](7 * $s))
-$bar = New-Object System.Drawing.Drawing2D.LinearGradientBrush($barRect, (New-Col 255 74 104 164), (New-Col 255 128 158 216), 0.0)
+$bar = New-Object System.Drawing.Drawing2D.LinearGradientBrush($barRect, (Acc-Col 255 -0.42 @(74, 104, 164)), (Acc-Col 255 0 @(128, 158, 216)), 0.0)
 $g.FillRectangle($bar, $barRect)
 
 # ---------- fonts ----------
@@ -211,7 +236,7 @@ $cx = $W / 2.0
 
 # ---------- category ----------
 $fCat = (Fit-Font -name $sansFace -startPx 50 -minPx 36 -text $Category -tracking (4 * $s) -maxW (1000 * $s))[0]
-$bCat = New-Object System.Drawing.SolidBrush(New-Col 255 176 198 238)
+$bCat = New-Object System.Drawing.SolidBrush((Acc-Col 255 0.35 @(176, 198, 238)))
 Draw-Tracked -text $Category -font $fCat -brush $bCat -centerX $cx -y (78 * $s) -tracking (4 * $s)
 
 # ---------- motif ----------
@@ -220,7 +245,7 @@ if ($Motif -eq "rules") {
   $widths = @(1355, 1355, 1355, 1035)
   for ($i = 0; $i -lt 4; $i++) {
     $al = 46 - ($i * 6)
-    $pen = New-Object System.Drawing.Pen((New-Col $al 150 175 225), [single](1.5 * $s))
+    $pen = New-Object System.Drawing.Pen((Acc-Col $al 0.1 @(150, 175, 225)), [single](1.5 * $s))
     $g.DrawLine($pen, [single](122 * $s), [single]$ruleY, [single]((122 + $widths[$i]) * $s), [single]$ruleY)
     $pen.Dispose()
     $ruleY = $ruleY + (52 * $s)
@@ -236,7 +261,7 @@ elseif ($Motif -eq "dissolution") {
       $f = (1.0 + [Math]::Cos($rad)) / 2.0
       $alpha = [int]($peak * [Math]::Pow($f, $pow))
       if ($alpha -gt 2) {
-        $pen = New-Object System.Drawing.Pen((New-Col $alpha 150 175 228), [single]($wid * $s))
+        $pen = New-Object System.Drawing.Pen((Acc-Col $alpha 0.1 @(150, 175, 228)), [single]($wid * $s))
         $g.DrawArc($pen, [single]($mx - $r), [single]($my - $r), [single](2 * $r), [single](2 * $r), [single]$a0, [single]1.2)
         $pen.Dispose()
       }
@@ -250,12 +275,39 @@ elseif ($Motif -eq "dissolution") {
     $py = $my + [Math]::Sin($ang) * $dist * 0.9
     $al = 46 - [int]($i * 1.1)
     if ($al -gt 3) {
-      $sb = New-Object System.Drawing.SolidBrush(New-Col $al 160 185 235)
+      $sb = New-Object System.Drawing.SolidBrush((Acc-Col $al 0.15 @(160, 185, 235)))
       $sz = (1.6 + ($rnd.NextDouble() * 2.0)) * $s
       $g.FillEllipse($sb, [single]$px, [single]$py, [single]$sz, [single]$sz)
       $sb.Dispose()
     }
   }
+}
+
+# ---------- symbol: the issuing body's mark ----------
+# Line drawings in a 40-unit box, matching the reference sheet. Centred in the
+# open field below the ruled lines; inside the ring on a dissolution card.
+if ($Symbol) {
+  if ($Motif -eq "dissolution") { $symC = 500 * $s; $u = 3.2 * $s } else { $symC = 640 * $s; $u = 4.6 * $s }
+  $ox = $cx - 20 * $u; $oy = $symC - 20 * $u
+  $penY = New-Object System.Drawing.Pen((Acc-Col 200 0.1 @(150, 175, 225)), [single](1.5 * $u))
+  $penY.StartCap = [System.Drawing.Drawing2D.LineCap]::Round
+  $penY.EndCap = [System.Drawing.Drawing2D.LineCap]::Round
+  $penY.LineJoin = [System.Drawing.Drawing2D.LineJoin]::Round
+  function P([double]$x, [double]$y) { return New-Object System.Drawing.PointF([single]($script:ox + $x * $script:u), [single]($script:oy + $y * $script:u)) }
+  function L([double]$x1, [double]$y1, [double]$x2, [double]$y2) { $script:g.DrawLine($script:penY, (P $x1 $y1), (P $x2 $y2)) }
+  function Lines([double[]]$xy) { $pts = @(); for ($k = 0; $k -lt $xy.Count; $k += 2) { $pts += (P $xy[$k] $xy[$k + 1]) }; $script:g.DrawLines($script:penY, [System.Drawing.PointF[]]$pts) }
+  function Arc([double]$cx0, [double]$cy0, [double]$r, [double]$a0, [double]$sweep) { $script:g.DrawArc($script:penY, [single]($script:ox + ($cx0 - $r) * $script:u), [single]($script:oy + ($cy0 - $r) * $script:u), [single](2 * $r * $script:u), [single](2 * $r * $script:u), [single]$a0, [single]$sweep) }
+  switch ($Symbol) {
+    "shelf"   { L 8 12 32 12; L 8 20 32 20; L 8 28 32 28 }
+    "sight"   { Arc 20 20 11 0 360; L 20 4 20 13; L 20 27 20 36; L 4 20 13 20; L 27 20 36 20 }
+    "bracket" { Lines @(15, 8, 9, 8, 9, 32, 15, 32); Lines @(25, 8, 31, 8, 31, 32, 25, 32) }
+    "arch"    { L 10 33 10 19; L 30 33 30 19; Arc 20 19 10 180 180; L 7 33 33 33 }
+    "seal"    { Lines @(8, 8, 32, 8, 32, 32, 8, 32, 8, 8); Lines @(14, 14, 26, 14, 26, 26, 14, 26, 14, 14) }
+    "hex"     { Lines @(20, 6, 32, 13, 32, 27, 20, 34, 8, 27, 8, 13, 20, 6) }
+    "leaves"  { Lines @(7, 11, 25, 11, 25, 33, 7, 33, 7, 11); Lines @(13, 11, 13, 7, 33, 7, 33, 29, 25, 29) }
+    "open"    { Arc 20 20 12 -90 60; Arc 20 20 12 30 60; Arc 20 20 12 150 60 }
+  }
+  $penY.Dispose()
 }
 
 # ---------- stamp ----------
@@ -266,9 +318,9 @@ if (-not [string]::IsNullOrEmpty($Stamp)) {
   $state = $g.Save()
   $g.TranslateTransform([single]$stampX, [single](206 * $s))
   $g.RotateTransform(-8)
-  $penS = New-Object System.Drawing.Pen((New-Col 235 160 186 238), [single](3.5 * $s))
+  $penS = New-Object System.Drawing.Pen((Acc-Col 235 0.2 @(160, 186, 238)), [single](3.5 * $s))
   $g.DrawRectangle($penS, [single](-$halfW), [single](-40 * $s), [single](2 * $halfW), [single](80 * $s))
-  $bStamp = New-Object System.Drawing.SolidBrush(New-Col 255 184 206 246)
+  $bStamp = New-Object System.Drawing.SolidBrush((Acc-Col 255 0.4 @(184, 206, 246)))
   $stampY = -24.0 * $s
   Draw-Tracked -text $Stamp -font $fStamp -brush $bStamp -centerX 0 -y $stampY -tracking (3 * $s)
   $g.Restore($state)
@@ -311,9 +363,9 @@ $divY = [Math]::Min(1042.0, 1600.0 - 92.0 - $blockH)
 $divY = [Math]::Max(780.0, $divY) * $s
 
 # ---------- divider ----------
-$penD = New-Object System.Drawing.Pen((New-Col 140 160 186 232), [single](1.8 * $s))
+$penD = New-Object System.Drawing.Pen((Acc-Col 170 0.15 @(160, 186, 232)), [single](1.8 * $s))
 $g.DrawLine($penD, [single]($cx - 112 * $s), [single]$divY, [single]($cx + 112 * $s), [single]$divY)
-$penD2 = New-Object System.Drawing.Pen((New-Col 40 150 175 225), [single](5 * $s))
+$penD2 = New-Object System.Drawing.Pen((Acc-Col 50 0.1 @(150, 175, 225)), [single](5 * $s))
 $g.DrawLine($penD2, [single]($cx - 94 * $s), [single]$divY, [single]($cx + 94 * $s), [single]$divY)
 
 # ---------- title (auto-fit to the longest line) ----------

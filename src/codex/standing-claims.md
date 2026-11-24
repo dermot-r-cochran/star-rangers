@@ -9,7 +9,7 @@ author: "Sen, Senior Archivist"
 institution: "Survey Archive"
 location: "Survey Archive, Threshold Station — archivist's working-paper series; a living list, appended, never overwritten"
 image: "standing-claims.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Working Papers, ruled lines, and the title Standing Claims above the line Survey Archive and the name Sen, Senior Archivist."
+image_alt: "Designed codex title card in the house navy palette, with pale blue accents and a mark of three level lines: the category line Working Papers, ruled lines, and the title Standing Claims above the line Survey Archive and the name Sen, Senior Archivist."
 ---
 
 *Circulated for comment, not for citation. A companion to [Marked Absences](/star-rangers/codex/marked-absences/), and the less comfortable of the two to write: that paper lists what this desk does not know, which readers forgive. This one grades what it does.*

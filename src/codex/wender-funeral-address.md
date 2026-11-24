@@ -9,7 +9,7 @@ description: "The address High Captain Wender gave at Shepherd's official funera
 location: "Ceremonial record, Threshold Station; transcript circulated Corps-wide and reproduced in full by three newsnets within the week"
 tags: [wender, tissadelle, threshold-station, dock-seven, oversight-council, official-documents, star-rangers, last-stand]
 image: "wender-funeral-address.jpg"
-image_alt: "Designed codex title card in the house navy palette: the category line Official Documents, ruled lines, and the title Address at the Official Funeral of Line Captain T. Shepherd above the line Star Rangers · Threshold Station and the name High Captain Karla Wender."
+image_alt: "Designed codex title card in the house navy palette, with clay-rose accents and a mark of a square within a square: the category line Official Documents, ruled lines, and the title Address at the Official Funeral of Line Captain T. Shepherd above the line Star Rangers · Threshold Station and the name High Captain Karla Wender."
 ---
 
 *A note on what this document is. It is a transcript of a eulogy, delivered at a service the speaker did not ask for and had spent eleven months declining to make possible. Wender never signed the confirmed-loss citation. The Oversight Council held the funeral anyway, as it was entitled to, and asked her to speak, as it was entitled to. She said yes within the hour. What she did with it is on the record below, and the Corps has been arguing about it ever since.*
