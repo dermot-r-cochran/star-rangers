@@ -523,10 +523,14 @@ Published units against the ranges, counted from `main` on 24 November 2026
 (205 chapters, 111 episodes): every season has seven or more episodes (Season
 2 twelve, Season 6 eight); 90 episodes have one or two chapters, 19 have three
 to six, and 2 have seven or more (both in Season 1, which runs 34 chapters).
-So most episodes sit under the chapters-per-episode range, which is guidance
-for new episodes only. **Nothing published is rewritten to meet these ranges.**
-They guide new episodes, and the weekly unit review may note a unit outside
-them as a report, never as a defect.
+So most episodes sit under the chapters-per-episode range. Dermot kept it
+(*"Keep 3–6"*) and added *"Draft extra chapters as needed"* (both 24 November
+2026): an episode below the range may gain new chapters where it needs them
+to stand as a short story, each drafted and reviewed like any new chapter.
+**Nothing published is rewritten to meet these ranges**; chapters are added,
+never altered to fit, and an episode that already stands on its own is left
+as it is. The weekly unit review may note a unit outside the range as a
+report, never as a defect.
 
 ### Craft: POV block length targets by audience tier (settled 2026-08-04)
 
