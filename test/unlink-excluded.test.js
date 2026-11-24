@@ -53,3 +53,21 @@ test("normalisePath strips fragment and query and ensures the trailing slash", (
   assert.equal(normalisePath("/star-rangers/a/b#c"), "/star-rangers/a/b/");
   assert.equal(normalisePath("/star-rangers/a/b/?q"), "/star-rangers/a/b/");
 });
+
+test("a See also list drops the entries this edition cannot follow, and keeps the rest", () => {
+  const ex = new Set(["/lore/a/", "/lore/b/"]);
+  const html = '<p>See also: <a href="/star-rangers/lore/a/">A</a>, <a href="/star-rangers/lore/c/">C</a>, <a href="/star-rangers/lore/b/">B, the second</a>.</p>\n<p>Next</p>';
+  assert.equal(unlinkExcluded(html, ex), '<p>See also: <a href="/star-rangers/lore/c/">C</a>.</p>\n<p>Next</p>');
+});
+
+test("a See also list with nothing left to follow is removed", () => {
+  const ex = new Set(["/lore/a/", "/lore/b/"]);
+  const html = '<p>See also: <a href="/star-rangers/lore/a/">A</a>, <a href="/star-rangers/lore/b/">B</a>.</p>\n<p>x</p>';
+  assert.equal(unlinkExcluded(html, ex), "<p>x</p>");
+});
+
+test("a See also paragraph that is a sentence, not a list, keeps the dotted name", () => {
+  const ex = new Set(["/lore/a/"]);
+  const out = unlinkExcluded('<p>See also: the <a href="/star-rangers/lore/a/">A</a> page for more.</p>', ex);
+  assert.match(out, /the <span class="gated-link"[^>]*>A<\/span> page for more/);
+});
