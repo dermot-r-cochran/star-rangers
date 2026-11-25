@@ -6369,3 +6369,23 @@ Dermot's *"Yes, match it"*, after the Season 1 hero's clocks lost their glow the
 > Second, the tall being's hide: keep its colours, its ochre and russet banded with darker umber, and its exact shape, but make the surface look like a photograph of real living hide in low evening sun rather than a smooth render: fine pores and a fine grain across the skin, soft creases and folds of skin at every joint of the legs and neck and where the neck meets the body, a few small scuffs and paler worn patches on the lower legs and feet, faint dust on the feet, a slight natural sheen only where the sun catches, and soft real shadow under the body. Nothing glossy, nothing plastic, no new parts.
 >
 > No other new objects, no face on either being, no lettering. A documentary photograph taken inside the world by a 29th-century camera, not a render.
+
+## 2026-11-25 — S08E01C02, The Morning Watch (Opus, desktop)
+
+The prompt of record is in `story-bible/images.md` § 109 and is not repeated here. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-prompts.js --generate --only s08e01c02` (two variations) and `scripts/image-edit.js` (edit takes); finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none of Dermot's photographs; § 109 records that the catalogue holds no frost frame and no hive.
+
+### chapters/s08e01c02.jpg — filed 25 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 109; references `src/images/chapters/s08e01c01.jpg`, `src/images/lore/cnoc-na-mbeach.jpg`; edit reference `src/images/chapters/s08e01c01.jpg`.
+- **Run:** Round 1 of 1, variation 2, then edit take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change three things only.
+>
+> 1. The stand under the three hives: replace the tall wooden bench with the low stand of the second image, a plain low frame of dull grey matte composite with short legs and one straight rail along its front, so the hives sit low, only a hand's width or a little more above the grass. No timber, no planks, no wood grain, no painted posts.
+>
+> 2. The hives: each hive is one seamless squared piece of smooth pale matte composite with softly rounded corners and a plain smooth flat top, exactly as the hives in the second image. Remove the lid line and the ribbed top from every hive: no lid, no seam, no ridges, no handles. Keep the one narrow dark horizontal entrance slot low on each hive's front, with a narrow landing lip under it, and leave every slot clear and open.
+>
+> 3. The cloth: one small folded square of heavy dark undyed cloth hangs folded over the front rail of the stand, below the hive nearest the camera on the right, stiff with cold, with a thin line of white frost along its top fold. It hangs from the rail only and does not touch the hive or cover its slot.
+>
+> Keep everything else exactly as it is: the low winter sun behind the hives, the long shadow of the hives and stand lying forward on the grass toward the camera, the white hoar frost inside that shadow and only inside it with its sharp edge, the dark wet green and straw grass in the sun outside it, the trodden dark patch in front of the nearest hive and the line of prints leading away to the left, the lichened boulder at the lower left, the hill ground beyond, the camera position, the hard clear light and the grain. Make the shadow of the new low stand match its new height. Nobody in frame, no bees, no readable text or markings anywhere. A photograph, not a render.
