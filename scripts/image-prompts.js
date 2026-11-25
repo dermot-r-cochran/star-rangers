@@ -138,7 +138,9 @@ const SECTION_TARGETS = [
   // Chapter illustrations (Dermot, 15 November 2026: "An image for every
   // chapter"). Filed under src/images/chapters/ as <chapter id>.jpg, the
   // directory chapter.njk has rendered `image:` from since 2026-07-30.
-  { match: /^###\s*\d+[a-z]?\.\s*Chapter illustrations/i, dir: 'chapters' },
+  // `illustrations?` because a one-chapter section is headed in the singular:
+  // § 109 (S08E01C02) was invisible to every mode until 25 November 2026.
+  { match: /^###\s*\d+[a-z]?\.\s*Chapter illustrations?\b/i, dir: 'chapters' },
 ];
 
 function parseArgs(argv) {
@@ -278,7 +280,11 @@ function parseEntries(markdown) {
 function parseReferenceList(text) {
   const ticked = [...String(text).matchAll(/`([^`]+)`/g)].map((m) => m[1].trim());
   const raw = ticked.length ? ticked : String(text).split(',').map((t) => t.trim());
-  return raw.filter(Boolean).map((r) => (path.isAbsolute(r) ? r : path.resolve(REPO_ROOT, r)));
+  // Only image files are references. A References line may also cite a
+  // record it was checked against (§ 109 names `own-photography.json`), and
+  // that must not be sent to the model or stop the run as a missing image.
+  return raw.filter((r) => r && /\.(jpe?g|png|webp)$/i.test(r))
+    .map((r) => (path.isAbsolute(r) ? r : path.resolve(REPO_ROOT, r)));
 }
 
 const REFERENCE_MIME = { '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp' };
