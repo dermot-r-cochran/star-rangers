@@ -134,6 +134,17 @@ stand.
 
 ---
 
+## Aoife, the servant girl, and a vision called Brigid — `intake-2026-11-25.md`, 25 November 2026 — DRAFTED on Fable as a Codex leaf (*Brigid at the Thorn Well*); eleven readings and four choices OPEN, each with a recommendation; the PR waits on him
+
+His direction (*"A servant girl Aoife sees a vision that she calls St. Brigid but later re-interpreted as perhaps being a Levril"*), then his choice *"A new telling"*: the *Life* keeps Muirenn, and a pilgrims' telling of about 1300, taken down in the house's book at Cill Aoife, names Brigid. Open for him:
+
+1. **Who says *Brigid*.** (a) **Recommended, drafted:** the road says it and Aoife is not quoted naming anyone. (b) The teller has the girl say it herself, with the keeper's mark carrying the correction.
+2. **The teller.** (a) **Recommended, drafted:** the road, taken down by a later unnamed keeper of the house's book. (b) A Currach Fleet ship-telling. (c) A later leaf of the river abbey's book.
+3. **The title.** (a) **Recommended, drafted:** *Brigid at the Thorn Well*. (b) *What the Road Says*.
+4. **The title card's family.** (a) **Recommended, drawn:** Houses of faith. (b) Presses, popular and folk sources.
+
+The eleven readings (the date near the turn of the fourteenth century, *servant* as the road's word, the wonder as the *Life*'s three details in Brigid's dress, the Levril reading as a second M. Ó Fiaich annotation of 2819, and the rest) are listed in the intake, each for his confirmation.
+
 ## Critic read of #2127 to #2131 — 25 November 2026, on Fable — all three points RULED the same day, each as recommended (he picked the recommended option on each in a question dialog), and the two `CLAUDE.md` lines landed (his yes, "as written")
 
 *Applied in `rulings/critic-2127-2131`:* (1) a children's-tier short lore page keeps a link to its own clip's watch page where `lib/videos.js` registers one (`watchClipFor` in `.eleventy.js`, `lore-entry.njk`), so *Fliade* on The Told links `/watch/fliade/` again; (2) timeline entries join the upper-tier rule (`REFERENCE_DIR` in `lib/content-filter.js`, `test/reference-complete.test.js`); (3) left as it is, and the three properties' *"Duplicate, Google chose different canonical than user"* is read at the next Search Console sweep. The two lines are in `CLAUDE.md` as drafted, the first naming timeline entries after (2) and the second the clip link after (1); the first's sentence on timeline entries a carried character's bio links to is dropped, since all of them are now carried.

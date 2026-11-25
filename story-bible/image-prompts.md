@@ -6465,3 +6465,11 @@ The prompt of record is in `story-bible/images.md` § 93; rounds 1 and 2 (22 Nov
 > Photographed, not rendered: real matte composite with small honest scuffs, thick glass with a faint green edge and one soft reflection of the room on it, fine high-ISO grain heavier in the shadows, a moderately wide lens with slight softness toward the corners, a touch under-exposed, muted natural colour, pale grey and charcoal.
 >
 > Negative: a window, a large opening, a second port, two ports, a row of ports, a porthole with bolts or rivets, a hatch, a door in the far wall, a corridor visible without glass; dust, haze, smoke, fog or particles inside the room or on the floor; people, figures, a body, a face, a silhouette or a reflection of a person anywhere, including beyond the glass; beams, rays, laser lines, crosshairs, glowing rings, energy, sparks, a portal, a vortex, a tunnel of light, motion streaks, lens flare; screens, monitors, consoles, keypads, holograms, indicator lights, warning beacons; readable text, lettering, numerals, signage, labels, hazard stripes or written characters of any script anywhere in frame; pipes, cables, conduit, grating, railings, louvres, stainless steel walls, visible lamps or ceiling light panels; grime, rust, stains, debris. Render negatives: 3D render, CGI, octane render, video-game render, science-fiction film set, product shot, plastic sheen, over-smooth surfaces, glossy concept art. Landscape orientation.
+
+## 2026-11-25 — Codex title card, Brigid at the Thorn Well (Fable, desktop)
+
+Houses of faith family (`images.md` § 110): the leaf is the Cill Aoife scriptorium's, a leaf of the house's book. Whether a pilgrims' telling belongs with the folk sources instead is put to Dermot in `intake-2026-11-25.md`, choice 4. The command of record:
+
+```powershell
+.scriptsmake-codex-cover.ps1 -TitleLines "BRIGID AT","THE THORN WELL" -Category "HAGIOGRAPHY" -Institution "Monastic scriptorium, Cill Aoife, Ireland" -Author "THE PILGRIMS' TELLING" -Motif rules -Accent "#CFAE6E" -Symbol arch -Out srcimagescodexrigid-at-the-thorn-well.jpg
+```
