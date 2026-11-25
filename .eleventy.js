@@ -256,6 +256,14 @@ module.exports = function(eleventyConfig) {
   // `permalink: false` page still is (and base.njk cannot read a false url).
   if (!platesFor(getEdition().id).length) eleventyConfig.ignores.add("src/plates/**");
   eleventyConfig.addFilter("loreImageRel", loreImageRel);
+  // The watch-page id of the clip a host page carries (lib/videos.js), or "".
+  // A children's-tier short lore page leaves its body out, player included,
+  // and keeps a link to the clip's watch page with this (Dermot, 25 November
+  // 2026, the critic read of #2127 to #2131, as recommended).
+  eleventyConfig.addFilter("watchClipFor", (url) => {
+    const video = VIDEOS.find((v) => v.page === url);
+    return video ? video.id : "";
+  });
   eleventyConfig.addFilter("editionPlates", (editionId, lore, characters, codex) =>
     resolvePlates(platesFor(editionId), { lore, characters, codex }, (rel) =>
       isPlaceholderImage(path.join(__dirname, "src", "images", rel))

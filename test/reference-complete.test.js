@@ -55,21 +55,20 @@ test("which editions carry every reference page", () => {
 });
 
 test("isReferencePage reads where the page lives", () => {
-  for (const dir of ["lore", "lore/planets", "glossary", "codex"]) assert.ok(isReferencePage(untagged(dir)), dir);
-  for (const dir of ["seasons/s01/e01", "journal", "timeline", "characters"]) assert.ok(!isReferencePage(untagged(dir)), dir);
+  for (const dir of ["lore", "lore/planets", "glossary", "codex", "timeline"]) assert.ok(isReferencePage(untagged(dir)), dir);
+  for (const dir of ["seasons/s01/e01", "journal", "characters"]) assert.ok(!isReferencePage(untagged(dir)), dir);
   assert.ok(isReferencePage({ page: { inputPath: ".\\src\\lore\\x.md" } }), "Windows separators");
   assert.ok(!isReferencePage({ title: "bare front matter" }));
 });
 
-test("the fellowship edition carries an untagged lore, glossary and codex page", () => {
+test("the fellowship edition carries an untagged lore, glossary, codex and timeline page", () => {
   const f = filterForEdition("fellowship");
-  for (const dir of ["lore", "glossary", "codex"]) assert.ok(isTopicPageIncluded(untagged(dir), f), dir);
+  for (const dir of ["lore", "glossary", "codex", "timeline"]) assert.ok(isTopicPageIncluded(untagged(dir), f), dir);
 });
 
-test("journal, timeline and bare front matter still narrow by tag", () => {
+test("journal and bare front matter still narrow by tag", () => {
   const f = filterForEdition("fellowship");
   assert.ok(!isTopicPageIncluded(untagged("journal"), f));
-  assert.ok(!isTopicPageIncluded(untagged("timeline"), f));
   assert.ok(!isTopicPageIncluded({ title: "newest-list entry", tags: ["no-edition-uses-this-tag"] }, f));
 });
 
