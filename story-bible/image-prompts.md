@@ -6389,3 +6389,29 @@ The prompt of record is in `story-bible/images.md` § 109 and is not repeated he
 > 3. The cloth: one small folded square of heavy dark undyed cloth hangs folded over the front rail of the stand, below the hive nearest the camera on the right, stiff with cold, with a thin line of white frost along its top fold. It hangs from the rail only and does not touch the hive or cover its slot.
 >
 > Keep everything else exactly as it is: the low winter sun behind the hives, the long shadow of the hives and stand lying forward on the grass toward the camera, the white hoar frost inside that shadow and only inside it with its sharp edge, the dark wet green and straw grass in the sun outside it, the trodden dark patch in front of the nearest hive and the line of prints leading away to the left, the lichened boulder at the lower left, the hill ground beyond, the camera position, the hard clear light and the grain. Make the shadow of the new low stand match its new height. Nobody in frame, no bees, no readable text or markings anywhere. A photograph, not a render.
+
+## 2026-11-25 — Teleportation Constraints: the sightline port, round 3 (Opus, desktop)
+
+The prompt of record is in `story-bible/images.md` § 93; rounds 1 and 2 (22 November) are recorded there. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js --n 3` with **no image** sent; finished by `import-image.ps1 -MaxEdge 1600` at strength 1, filed 1600×893, tagged in the file's XMP. **Plates:** none.
+
+### lore/teleportation-sightline-port.jpg — filed 25 November 2026
+- **Kind:** generation, no reference
+- **Source:** `images.md` § 93, rewritten in words for this round because the reference `chapters/s01e02c04.jpg` fixed the camera and carried its own dust into the bay.
+- **Run:** Round 3, take 2 of 3 filed.
+- **Prompt:**
+
+> Documentary photograph taken inside the world by a 29th-century camera, available light, 16:9 landscape, deep focus, taken at standing eye height from the middle of a small empty room, looking level and straight at its far wall.
+>
+> The room is the transit bay of a Survey Corps shore station on the coast of Earth in the year 2826: a small, clean, kept chamber whose walls, floor and ceiling are one seamless pale grey matte composite, meeting in softly rounded coving, with faint vertical panel joints in the walls. Set flush into the floor in the lower part of the frame is a large circular disc of plain dark charcoal matte material with a thin brushed metal rim, the transit floor, bare and clean; the camera stands just beyond its near edge, so the dark disc fills the lower foreground. Against the right-hand wall sits one low, smooth, pale grey rounded sealed housing like a padded bench. On the right-hand wall, near the edge of the frame, is one small recessed plain metal hold lever on a flush plate, at rest.
+>
+> The far wall is plain and solid from edge to edge, the same pale grey composite, with no window, no opening and no panel in it, except for one thing: in the middle of the far wall, at eye height, one single small round inspection port, a disc of very thick clear glass about two hand-spans across, set in a plain smooth flush ring of brushed metal with no bolts and no rivets. It is the only opening in the room and the subject of the picture; it is small in the wall but clearly seen, a little above the centre of the frame.
+>
+> Through the glass of the port, and visible only inside its small circle, the eye looks a long way straight down one narrow dim service passage behind the wall, running directly away from the port, plain and empty, its walls converging to a tiny patch of pale light far off at its end, exactly in the middle of the port. Inside that passage, seen only within the circle of glass, a faint haze of fine pale dust hangs in the air, and a thin wisp of the same dust drifts in from the left side of the circle toward the centre and has not yet crossed it.
+>
+> The air inside the room is completely clear: no dust, no haze, no mist and no smoke anywhere in the room, on the floor or in front of the wall. The room is empty and nobody is in it.
+>
+> Light is soft, even and cool, coming from the pale surfaces themselves; nothing glows and no lamp or light fitting is visible. The dark floor disc, the port and the far patch of light line up one behind the other on the centre line of the frame. Still, exact and quiet.
+>
+> Photographed, not rendered: real matte composite with small honest scuffs, thick glass with a faint green edge and one soft reflection of the room on it, fine high-ISO grain heavier in the shadows, a moderately wide lens with slight softness toward the corners, a touch under-exposed, muted natural colour, pale grey and charcoal.
+>
+> Negative: a window, a large opening, a second port, two ports, a row of ports, a porthole with bolts or rivets, a hatch, a door in the far wall, a corridor visible without glass; dust, haze, smoke, fog or particles inside the room or on the floor; people, figures, a body, a face, a silhouette or a reflection of a person anywhere, including beyond the glass; beams, rays, laser lines, crosshairs, glowing rings, energy, sparks, a portal, a vortex, a tunnel of light, motion streaks, lens flare; screens, monitors, consoles, keypads, holograms, indicator lights, warning beacons; readable text, lettering, numerals, signage, labels, hazard stripes or written characters of any script anywhere in frame; pipes, cables, conduit, grating, railings, louvres, stainless steel walls, visible lamps or ceiling light panels; grime, rust, stains, debris. Render negatives: 3D render, CGI, octane render, video-game render, science-fiction film set, product shot, plastic sheen, over-smooth surfaces, glossy concept art. Landscape orientation.
