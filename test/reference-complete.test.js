@@ -84,3 +84,31 @@ test("the tier gate still holds over the rule", () => {
   assert.ok(!isTopicPageIncluded(gated, filterForEdition("sciencefiction")), "general tier must not see church-space");
   assert.ok(isTopicPageIncluded(gated, filterForEdition("fellowship")), "contemplative tier sees it");
 });
+
+// Characters joined the rule the same day ("Yes, characters too").
+const { isCharacterIncluded, isCharacterPovIncluded } = require("../lib/content-filter");
+const stranger = { id: "no-edition-names-this-one", tags: ["no-edition-uses-this-tag"] };
+
+test("upper-tier editions carry an untagged character page", () => {
+  for (const id of ["fellowship", "church-space", "sciencefiction"]) {
+    assert.ok(isCharacterIncluded(stranger, filterForEdition(id)), id);
+  }
+});
+
+test("the codex site and the lower tiers do not carry an untagged character page", () => {
+  for (const id of ["fellowship-archive", "starquest", "pets"]) {
+    assert.ok(!isCharacterIncluded(stranger, filterForEdition(id)), id);
+  }
+});
+
+test("the tier gate still holds over characters", () => {
+  const gated = { ...stranger, tags: ["church-space"] };
+  assert.ok(!isCharacterIncluded(gated, filterForEdition("sciencefiction")));
+  assert.ok(isCharacterIncluded(gated, filterForEdition("fellowship")));
+});
+
+test("a character's POV page still needs its chapter on the build", () => {
+  const f = filterForEdition("fellowship");
+  const offBuild = { season: 999, episode: 1, chapter: 1, tags: ["no-edition-uses-this-tag"], povs: [] };
+  assert.ok(!isCharacterPovIncluded(stranger.id, f, offBuild, stranger));
+});
