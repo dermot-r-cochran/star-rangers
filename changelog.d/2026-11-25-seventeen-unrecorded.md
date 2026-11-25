@@ -1,0 +1,3 @@
+### Changed
+
+- **Six of the seventeen `unrecorded` pictures are placed** (`src/_data/provenance.json`, 2026-11-25, Opus, desktop, by the ruling of 23 November). Five lore pictures are matched to Dermot's own frames on the desktop archive and listed as `photograph` with their card files: `autumn-canopy`, `coastal-sunset`, `wading-heron`, `wetland-treeline-reflection` and `white-flower-macro`. `star-rangers-academy` is a typeset title card and is listed as `card`. The eleven that match no frame stay `unrecorded` for him. Records: `image-prompts.md`, *Matching pass over the seventeen*; `open-questions.md`.

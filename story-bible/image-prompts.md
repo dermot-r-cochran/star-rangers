@@ -107,6 +107,48 @@ photograph, card or generation, and the answer is Dermot's to give:
 - **Carrying the ffmpeg marker** (9): `lore/aspenar.jpg`, `lore/fellowship-of-light.jpg`, `lore/krenyi.jpg`, `lore/meridian.jpg`, `lore/star-rangers-decision-and-communication.jpg`, `lore/star-rangers-safety-corps.jpg`, `lore/subsea-cable-drones.jpg`, `lore/the-unbroken-command.jpg`, `lore/undersong-belt.jpg`.
 - **The rest** (45): `characters/aldera/field-photo-02.jpg`, `characters/aldera/field-photo-04.jpg`, `characters/kai-larsen.jpg`, `characters/sen-marginalia.jpg`, `hero/codex-documents.jpg`, `hero/home-launch.jpg`, `hero/lore-cosmic.jpg`, `hero/season-00-foundation.jpg`, `hero/season-01.jpg`, `hero/season-03-datacentre.jpg`, `hero/season-05-explorers.jpg`, `hero/seasons-orbit.jpg`, `hero/timeline-clock.jpg`, `lore/aethelrock.jpg`, `lore/ai-safety-kernel.jpg`, `lore/ai-usage-credits.jpg`, `lore/autumn-canopy.jpg`, `lore/boirinn-uplands-horses.jpg`, `lore/boirinn-uplands-mist.jpg`, `lore/boundary-zones.jpg`, `lore/cnoc-na-mbeach.jpg`, `lore/coastal-sunset.jpg`, `lore/competing-designs.jpg`, `lore/concordant-membranes.jpg`, `lore/cosmic-cascade.jpg`, `lore/creative-entropy-framework.jpg`, `lore/crimson-blossom-macro.jpg`, `lore/dryadic-trees.jpg`, `lore/elder-fig-grove.jpg`, `lore/ensemble-multiverse.jpg`, `lore/environmental-technology-design.jpg`, `lore/highland-cloud-sea.jpg`, `lore/highland-scrub-road.jpg`, `lore/knarrheim.jpg`, `lore/pelagene-littoral.jpg`, `lore/pink-blossom-macro.jpg`, `lore/saltmere-mooring-gantry-2.jpg`, `lore/scarlet-thread-bloom.jpg`, `lore/seed-mind-lifecycle.jpg`, `lore/star-rangers-academy.jpg`, `lore/universe-overlap-and-folding.jpg`, `lore/violet-spike-inflorescence.jpg`, `lore/wading-heron.jpg`, `lore/wetland-treeline-reflection.jpg`, `lore/white-flower-macro.jpg`.
 - *(17 November 2026: `hero/codex-documents.jpg`, `hero/lore-cosmic.jpg` and `hero/timeline-clock.jpg`, Adobe Stock by the July commit, were replaced and removed; `images.md` § 68.)*
+### Matching pass over the seventeen (25 Nov 2026)
+
+The desktop pass ruled on 23 November 2026 (`open-questions.md`, the
+seventeen files, option (a)). Each of the seventeen `unrecorded` files was
+matched against every frame on `F:` (34,567 thumbnails, rebuilt the same day)
+by ORB feature alignment, then the best candidate re-checked at full size by
+warping it onto the file and measuring the detail correlation, and finally by
+eye side by side. A true source scored 0.85 to 0.97 detail correlation with
+the whole file inside the frame; the next frame of the same burst scored 0.50
+to 0.66, so a neighbour is never mistaken for the frame.
+
+**Placed as `photograph`** (five), each with its card file in
+`provenance.json`:
+
+| File | Card file | Taken |
+| --- | --- | --- |
+| `lore/autumn-canopy.jpg` | `F:\109MSYWD\_DSC8154.JPG` | 9 Nov 2024 |
+| `lore/coastal-sunset.jpg` | `F:\111NOV24\_DSC0252.JPG` | 25 Jan 2025 |
+| `lore/wading-heron.jpg` | `F:\121KENYA\DSC_7631.JPG` | 15 Oct 2025 |
+| `lore/wetland-treeline-reflection.jpg` | `F:\112GLEND\_DSC0819.JPG` | 22 Feb 2025 |
+| `lore/white-flower-macro.jpg` | `F:\119BOTA_\DSC_2369.JPG` | 21 Jun 2025 |
+
+**Placed as `card`** (one): `lore/star-rangers-academy.jpg` is a typeset title
+card (INSTITUTIONS, a ring emblem, the title and its strap), with no
+photograph in it.
+
+**Not placed** (eleven), for Dermot: `characters/aldera/field-photo-01.jpg`,
+`characters/aldera/field-photo-02.jpg`, `lore/boirinn-uplands-mist.jpg`,
+`lore/crimson-blossom-macro.jpg`, `lore/elder-fig-grove.jpg`,
+`lore/five-layers.jpg`, `lore/highland-cloud-sea.jpg`,
+`lore/highland-scrub-road.jpg`, `lore/pink-blossom-macro.jpg`,
+`lore/scarlet-thread-bloom.jpg`, `lore/violet-spike-inflorescence.jpg`. No
+frame on `F:` aligns with any of them. One near miss is worth his eye:
+`highland-cloud-sea` is the Tenerife roadside of `F:\126TNRFE\DSC_7851` to
+`DSC_7860` (29 Jan 2026), rotated about 18 degrees, but no frame of that burst
+covers more than three quarters of it, so the file is either a frame that is
+not on `F:` or one widened beyond the camera's edge. `five-layers` is 1376 by
+768, the generator's native size, and the two kitten pictures read as generated.
+The pass did not reach the phone library (2,364 files in OneDrive, cloud-only,
+about 7.9 GB, which reading would download), and the two Tenerife files and
+the flower macros look like phone frames, so that is where to look next.
+
 ## Alt text is the prompt of record
 
 A prompt doesn't have to hide in here. The `image_alt` line in a lore entry —
