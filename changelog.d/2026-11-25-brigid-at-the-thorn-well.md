@@ -1,0 +1,3 @@
+### Added
+
+- **A fourth telling of Saint Aoife, in which the road calls what she met Brigid** (`src/codex/brigid-at-the-thorn-well.md`, `src/lore/saint-aoife.md`, `story-bible/intake-2026-11-25.md`, 2026-11-25, Fable, at Dermot's direction and his choice *"A new telling"*). A pilgrims' telling taken down in the house's book at Cill Aoife about two generations after her death. It calls her a servant girl and gives the visitor Brigid's cloak and a coal of her fire. The keeper who entered it marks where it parts from the *Life*, in which she names Muirenn. A Union scholar's annotation reads the change of name as what a Levril encounter might leave. The Archive note keeps the record's position: never settled. Readings and four choices await him.

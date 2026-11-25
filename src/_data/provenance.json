@@ -406,6 +406,7 @@
     {"path":"src/images/codex/borrow-the-angle.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/bound-in-behind-it.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/bramble-and-the-backwards-key.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
+    {"path":"src/images/codex/brigid-at-the-thorn-well.jpg","source":"card","tool":"scripts/make-codex-cover.ps1","note":"Designed codex title card, lettering set by script; no generator","tagged":true,"iptc":"digitalCreation","updated":"2026-11-25"},
     {"path":"src/images/codex/by-the-chair-of-that-day.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/called-permitted-forbidden.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/clan-avalons-anthem.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
