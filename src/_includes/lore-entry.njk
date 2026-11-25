@@ -3,7 +3,13 @@ layout: base.njk
 comments: true
 commentsCategory: lore
 ---
-<article class="lore-entry" data-lore-category="{{ category }}">
+{#- On a children's-tier build a lore page with a `plain:` line shows that line
+    and nothing of the Archive's own register: no tags, no "In the story" line,
+    no body. Dermot, 25 November 2026, on Predatory Entities, the one lore page
+    the children's edition carries: "In short only". The tiers are reading level,
+    not protection, so the full entry stays on every other edition. -#}
+{%- set childrenShort = edition.tier == "children" and plain -%}
+<article class="lore-entry{% if childrenShort %} lore-entry--short{% endif %}" data-lore-category="{{ category }}">
   {% include "superseded-note.njk" %}
   <header class="lore-entry__header">
     <nav class="lore-breadcrumb" aria-label="Lore location" data-pagefind-ignore>
@@ -19,7 +25,7 @@ commentsCategory: lore
     <span class="character-badge">{{ category }}</span>
     {% endif %}
     <h1 class="lore-entry__title">{{ title }}</h1>
-    {% if tags and tags.length %}
+    {% if tags and tags.length and not childrenShort %}
     <ul class="chapter-tags" aria-label="Tags" role="list">
       {% for tag in tags %}
       <li class="chapter-tag">{{ tag }}</li>
@@ -35,15 +41,19 @@ commentsCategory: lore
   <aside class="plain-summary">
     <h2 class="plain-summary__heading">In short</h2>
     {% if plain %}<p class="plain-summary__text">{{ plain }}</p>{% endif %}
-    {% if known and knownInStory[known] %}
+    {% if known and knownInStory[known] and not childrenShort %}
     <p class="plain-summary__known"><span class="plain-summary__known-label">In the story:</span> {% if era and knownEras[era] %}<span class="plain-summary__era">{{ knownEras[era] }}</span> {% endif %}{{ knownInStory[known] }}{% if known_note %} {{ known_note }}{% endif %}</p>
     {% endif %}
   </aside>
   {% endif %}
 
+  {% if childrenShort %}
+  <p class="lore-entry__short-note">This is the short version. The full Archive entry is written for older readers.</p>
+  {% else %}
   <div class="lore-entry__body">
     {{ content | safe }}
   </div>
+  {% endif %}
 
   <footer class="lore-entry__footer" data-pagefind-ignore>
     <a href="/star-rangers/lore/">← Back to Lore</a>
