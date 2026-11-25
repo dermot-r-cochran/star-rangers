@@ -478,7 +478,7 @@ function checkCharacterGallery(data, index, seasons) {
 // hero) rather than an edit to this list.
 function checkEditionHeroCasts(characterPages) {
   const { DEFAULT_EDITION, allEditions, editionFor } = require("../lib/editions");
-  const { getContentFilter, isCharacterIncluded } = require("../lib/content-filter");
+  const { getContentFilter, isCharacterIncluded, editionCarriesAllReference } = require("../lib/content-filter");
 
   const byId = new Map();
   for (const { data, relativePath } of characterPages) {
@@ -505,6 +505,7 @@ function checkEditionHeroCasts(characterPages) {
       // without this, Brother Fintan (church-space) fails the fellowship
       // cast on a general-tier run, which is not what that domain sees.
       filter.tier = edition.tier;
+      filter.referenceComplete = editionCarriesAllReference(edition);
       return filter;
     } finally {
       for (const [key, value] of Object.entries(saved)) {
