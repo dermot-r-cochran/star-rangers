@@ -38,8 +38,6 @@ The native flora runs heavily toward pale, wide-petalled flowering plants in the
 
 Not every lowland bloom stayed pale. Cultivar strains bred from the same root stock run to deep pink and near-crimson under cultivation, and botanists still argue over how much of the colour shift is selective breeding versus the plant's own latent range finally expressing itself in managed soil.
 
-![A vivid pink native flower in bloom, bred from the same lowland root stock as the paler wild strain](/star-rangers/images/lore/pink-blossom-macro.jpg)
-
 ![A deep crimson native flower with a pale, star-shaped stamen cluster at its centre](/star-rangers/images/lore/crimson-blossom-macro.jpg)
 
 Native wetland fauna converges just as closely: dark-feathered wading birds work the reed margins of every lowland waterway on the planet, preening on driftwood in a manner early colonists described, in their own field notes, as "indistinguishable from home at ten paces, and unmistakably not at three."

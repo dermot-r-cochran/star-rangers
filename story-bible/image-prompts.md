@@ -143,17 +143,19 @@ mistaken for the frame. The phone originals were copied to
 card (INSTITUTIONS, a ring emblem, the title and its strap), with no
 photograph in it.
 
-**Not placed** (four), for Dermot:
+**Settled by Dermot the same day** (the last four):
 
-- `characters/aldera/field-photo-01.jpg` and `field-photo-02.jpg` are
-  pixel-identical to images saved to the phone's Camera Roll on 8 August 2025
-  (`20250808_1415…`, 736 by 1024, no camera metadata, among nine such saves
-  that day). They are saved images, not camera frames, and they read as
-  generated; the old note's "supplied photograph of a real kitten" is his to
-  confirm or correct.
-- `lore/five-layers.jpg` matches nothing. It is 1376 by 768, the generator's
-  native size.
-- `lore/pink-blossom-macro.jpg` matches nothing on `F:` or the phone.
+- `characters/aldera/field-photo-01.jpg`, `field-photo-02.jpg` and `lore/five-layers.jpg`
+  are generated (*"The others are generated"*). The kittens are pixel-identical
+  to images saved to the phone's Camera Roll on 8 August 2025; the tool is not
+  recorded. All three are listed `generated` and tagged in their own XMP.
+- `lore/pink-blossom-macro.jpg` is dropped. He thought it might be from the
+  Rose Festival in St Anne's Park, and that it might have been generated from a
+  real picture, and ruled that it is *"either mine or should be dropped"*. No
+  frame on `F:` or the phone matches it: the St Anne's card (`F:\133STAPK`,
+  18 July 2026) holds roses, rhododendrons and tulips but no camellia, and a
+  colour search of both libraries found none either. The picture left the
+  Tír na nÓg page, its row left the list, and the file is in git history.
 
 ## Alt text is the prompt of record
 
