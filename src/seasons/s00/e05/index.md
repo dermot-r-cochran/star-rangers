@@ -16,7 +16,7 @@ permalink: /seasons/s00/e05/
 <img class="page-hero-image" src="/star-rangers/images/hero/season-00-foundation.jpg" alt="An empty hearing chamber with tiers of pale upholstered seats facing a long pale table that holds a shut bound book, a glass and a carafe of water, a long thick window onto red Martian ground under a dusty sky, and a pale rectangle with bolt holes on the wall where something has been taken down" />
 <h1 class="page-title">Founding Era · Episode 5</h1>
 <p class="page-intro">
-  Mars, the tenth week after the signing, 2723 UCSD. The Command has a shorter name and a new crest, and at an intake dinner a dead general's sentence is given as a toast. The next afternoon a cadet with a staff paper to summarise is held nine minutes at a pressure door, beside a civilian who used to be the Director of Operations and who answers exactly what she is asked.
+  Mars, the tenth week after the signing, 2723 UCSD. The Command has a new name and a smaller crest, and at an intake dinner a dead general's sentence is given as a toast. The next afternoon a cadet with a staff paper to summarise is held nine minutes at a pressure door, beside a civilian who used to be the Director of Operations and who answers exactly what she is asked.
 </p>
 
 {% set seasonNumber = "0" %}

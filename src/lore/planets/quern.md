@@ -9,7 +9,6 @@ image_alt: "A cluster of low rounded windowless stone houses on a plain of wet b
 plain: "Quern is a planet that always shows the same face to its sun, the way the Moon always shows the same face to Earth. The sunward side is hot enough to melt rock, and one enormous storm sits over it and never moves on. The far side never sees the sun at all, and is so cold that the air itself falls as snow. Between the two runs a ring of constant sideways rain and lightning — and people live there, in low houses shaped so the wind slides off them. Their electricity comes from the difference in heat between the two sides of the world, and their calendar follows the slow drift of the storm wall instead of seasons. They divide their world into three: the Burn, the Howl, and the Hush."
 known: specialist
 known_note: "Known to its own small settlement and to the Archive that converts its dates."
-era: historical
 galaxy: "Milky Way"
 system: "Kiln System"
 locationType: "Planet"

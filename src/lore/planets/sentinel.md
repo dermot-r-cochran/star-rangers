@@ -9,7 +9,7 @@ description: "An airless, uninhabited world in the Halyx System, catalogued for 
 plain: "The Sentinel is a small airless world in the Halyx System, near Meridian, with no life, no air and nothing worth mining. Something under its surface sends out a steady electromagnetic pulse that Cerebraun surveys filed for centuries as an old hazard beacon. Tissadelle Shepherd played the signal as sound and heard structure in it — repetition with variation, like music. That got the world reclassified as an anomaly. What the pulse is, where it comes from, and whether it has anything to do with Meridian are still unknown."
 known: specialist
 known_note: "Filed for centuries as a hazard beacon; its reclassification as an anomaly in 2828 UCSD is survey knowledge."
-era: historical
+era: recent
 galaxy: "Milky Way"
 system: "Halyx System"
 locationType: "Planet"

@@ -59,7 +59,11 @@ A subject with no date of its own (a coastline, the weather, an everyday
 custom, a general principle), or one whose date the record says it does
 not hold, carries no era. A bound is enough ("decades after 2723"); a
 guess is not. It renders before the breadth
-label: **In the story:** *Recent (about 2750 UCSD on).* Known to specialists...
+label, and the label says what is dated (Dermot, 25 November 2026, the
+recommended option: the front-matter values stay his two words, and the
+reader sees *Entered the record about 2750 UCSD or later.* or *Entered the
+record before about 2750 UCSD.*): **In the story:** *Entered the record
+about 2750 UCSD or later.* Known to specialists...
 
 ## How a value is chosen
 
