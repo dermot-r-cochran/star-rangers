@@ -39,7 +39,6 @@ const UNRECORDED_ON_LISTING = new Set([
   "src/images/lore/five-layers.jpg",
   "src/images/lore/highland-cloud-sea.jpg",
   "src/images/lore/highland-scrub-road.jpg",
-  "src/images/lore/pink-blossom-macro.jpg",
   "src/images/lore/scarlet-thread-bloom.jpg",
   "src/images/lore/star-rangers-academy.jpg",
   "src/images/lore/violet-spike-inflorescence.jpg",
