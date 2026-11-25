@@ -261,7 +261,7 @@ Dermot, 20 November 2026: *"Yes, as recommended"*, to the critic read's picture 
 
 ## The stock lore pictures, 22 November 2026
 
-Adobe Stock, licence unrecorded: eleven of the twelve lore pictures of commit `903fdda4` (13 July 2026), replaced at Dermot’s *"Yes, as recommended"*. The record is `images.md` § 93. The twelfth, `lore/teleportation-limitations.jpg`, is still on its page: its replacement failed two rounds.
+Adobe Stock, licence unrecorded: eleven of the twelve lore pictures of commit `903fdda4` (13 July 2026), replaced at Dermot’s *"Yes, as recommended"*. The record is `images.md` § 93. The twelfth, `lore/teleportation-limitations.jpg`, stayed on its page after its replacement failed two rounds, and went on 25 November 2026 when a third round passed (last row).
 
 | Thumbnail | Page | What failed | Outcome |
 | --- | --- | --- | --- |
@@ -276,3 +276,4 @@ Adobe Stock, licence unrecorded: eleven of the twelve lore pictures of commit `9
 | `quantum-space-harmonics-2026-11-22.jpg` | Quantum Space Harmonics; glossary Quantum Space Harmonic Wave | Adobe Stock, licence unrecorded, and the site’s image data named him as its creator. Two glowing spheres knotted with filaments: universes drawn as bubbles, which the cosmology rules out. | Emblem card (rings); the page’s own figure stays. |
 | `threnos-omega-2026-11-22.jpg` | Threnos-Ω | Adobe Stock, licence unrecorded, and the site’s image data named him as its creator. A ring of blue light round a dark disc: a look the record never gave the universe. | Emblem card (sundial). |
 | `universe-overlap-and-folding-2026-11-22.jpg` | Universe Overlap and Folding; glossary Universe Overlap | Adobe Stock, licence unrecorded, and the site’s image data named him as its creator. A glowing red sphere caged in cyan lines: a universe drawn as a ball. | Emblem card (fold). |
+| `teleportation-limitations-2026-11-25.jpg` | Teleportation Constraints | Adobe Stock, licence unrecorded, credited to Adobe Stock in the image data from 22 November. A tangle of multicoloured light trails: a long-exposure abstract for a page whose first rule is a line of sight. | Replaced on 25 November by the transit bay's inspection port with the lane open through it: `lore/teleportation-sightline-port.jpg`, the third round, generated with no reference image. |
