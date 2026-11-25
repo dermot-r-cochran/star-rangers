@@ -6,8 +6,10 @@ commentsCategory: lore
 {#- On a children's-tier build a lore page with a `plain:` line shows that line
     and nothing of the Archive's own register: no tags, no "In the story" line,
     no body. Dermot, 25 November 2026, on Predatory Entities, the one lore page
-    the children's edition carries: "In short only". The tiers are reading level,
-    not protection, so the full entry stays on every other edition. -#}
+    undercover-pets.com carries: "In short only". The rule is the tier's, so it
+    reaches both children's editions: told.fianilchruinne.com carries that page
+    and Fliade, and shows each the same way. The tiers are reading level, not
+    protection, so the full entry stays on every edition above the tier. -#}
 {%- set childrenShort = edition.tier == "children" and plain -%}
 <article class="lore-entry{% if childrenShort %} lore-entry--short{% endif %}" data-lore-category="{{ category }}">
   {% include "superseded-note.njk" %}
