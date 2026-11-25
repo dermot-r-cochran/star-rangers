@@ -1,3 +1,0 @@
-### Changed
-
-- **Teleportation Constraints has its own picture, and the last stock lore picture is gone** (`src/images/lore/teleportation-sightline-port.jpg`, `src/lore/teleportation-limitations.md`, 2026-11-25, Opus, desktop, at Dermot's *"Yes, port picture"*). The transit bay of Threshold Station, empty, with the lane open through its one inspection port and dust drifting toward the line of sight. A third round, generated with no reference image after two failed on 22 November. The Adobe Stock file went to `negative-examples/` with its `third-party` row and its credit in `lib/media-structured-data.js`, so the About page and `CONTENT-LICENSE.md` are true as written. Records: `images.md` § 93, `image-prompts.md`.

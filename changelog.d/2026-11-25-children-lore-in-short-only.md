@@ -1,3 +1,0 @@
-### Changed
-
-- **Lore pages on the children's tier show the In short line only** (`src/_includes/lore-entry.njk`, 2026-11-25, Opus, at Dermot's *"In short only"*). He found *Predatory Entities*, the one lore page undercover-pets.com carries, too technical for the children's Reading Plan: under its `plain:` line it printed the whole Archive entry. On a children's-tier build a lore page with a `plain:` line now shows its title, picture and that line, then *"This is the short version. The full Archive entry is written for older readers."*; the tags, the *In the story* line and the body are left out. The rule is the tier's, so told.fianilchruinne.com shows *Fliade* and *Predatory Entities* this way too. Editions above the children's tier are unchanged.
