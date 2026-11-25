@@ -23,7 +23,7 @@ const matter = require("gray-matter");
 
 const { allEditions, DEFAULT_EDITION } = require("../lib/editions");
 const { isContentIncluded } = require("../lib/classify-content");
-const { getRelatedContentUrls } = require("../lib/content-filter");
+const { getRelatedContentUrls, editionCarriesAllReference } = require("../lib/content-filter");
 const { isPlaceholderImage } = require("../lib/placeholder-marker");
 const { MAX_PLATES, PLATES } = require("../lib/plates");
 const { characterImageRel } = require("../lib/character-image");
@@ -69,7 +69,8 @@ function filterFor(edition) {
     threads,
     tagMatches: new Set([...characters, ...topics, ...threads]),
     active: characters.length > 0 || topics.length > 0 || threads.length > 0,
-    tier: edition.tier
+    tier: edition.tier,
+    referenceComplete: editionCarriesAllReference(edition)
   };
   filter.relatedUrls = getRelatedContentUrls(filter);
   return filter;

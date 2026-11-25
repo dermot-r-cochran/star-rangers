@@ -57,7 +57,7 @@ const matter = require("gray-matter");
 
 const { allEditions } = require("../lib/editions");
 const { isContentIncluded } = require("../lib/classify-content");
-const { getRelatedContentUrls } = require("../lib/content-filter");
+const { getRelatedContentUrls, editionCarriesAllReference } = require("../lib/content-filter");
 
 const REPO = path.join(__dirname, "..");
 const SRC = path.join(REPO, "src");
@@ -106,7 +106,8 @@ function filterFor(edition) {
     threads,
     tagMatches: new Set([...characters, ...topics, ...threads]),
     active: characters.length > 0 || topics.length > 0 || threads.length > 0,
-    tier: edition.tier
+    tier: edition.tier,
+    referenceComplete: editionCarriesAllReference(edition)
   };
   // .eleventy.js attaches this the same way: the background pages an
   // included character's own bio links to, which a CHARACTERS-narrowed
