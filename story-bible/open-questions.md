@@ -134,7 +134,9 @@ stand.
 
 ---
 
-## Critic read of #2127 to #2131 — 25 November 2026, on Fable — three points OPEN, each with a recommendation; two lines drafted for `CLAUDE.md` await his word
+## Critic read of #2127 to #2131 — 25 November 2026, on Fable — all three points RULED the same day, each as recommended (he picked the recommended option on each in a question dialog), and the two `CLAUDE.md` lines landed (his yes, "as written")
+
+*Applied in `rulings/critic-2127-2131`:* (1) a children's-tier short lore page keeps a link to its own clip's watch page where `lib/videos.js` registers one (`watchClipFor` in `.eleventy.js`, `lore-entry.njk`), so *Fliade* on The Told links `/watch/fliade/` again; (2) timeline entries join the upper-tier rule (`REFERENCE_DIR` in `lib/content-filter.js`, `test/reference-complete.test.js`); (3) left as it is, and the three properties' *"Duplicate, Google chose different canonical than user"* is read at the next Search Console sweep. The two lines are in `CLAUDE.md` as drafted, the first naming timeline entries after (2) and the second the clip link after (1); the first's sentence on timeline entries a carried character's bio links to is dropped, since all of them are now carried.
 
 A Benevolent Critic read of the four pull requests merged after #2126 that no read had covered: #2127 (the sightline port picture for *Teleportation Constraints*), #2129 (lore pages on the children's tier show the *In short* line only), and #2130 with #2131 (the general and contemplative editions carry every lore, glossary, Codex and character page). #2128 is the previous read. No chapter and no canon page is touched by the four, so the read went to what a reader sees: the picture was looked at whole and enlarged beside its alt and beside the chapter, and two editions were built from `main` and their pages read (told.fianilchruinne.com and fellowshipoflight.org), because the edition domains deploy overnight and were still on the morning's builds; fianilchruinne.com was read live at `0be7e070`.
 

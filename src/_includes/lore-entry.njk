@@ -9,7 +9,10 @@ commentsCategory: lore
     undercover-pets.com carries: "In short only". The rule is the tier's, so it
     reaches both children's editions: told.fianilchruinne.com carries that page
     and Fliade, and shows each the same way. The tiers are reading level, not
-    protection, so the full entry stays on every edition above the tier. -#}
+    protection, so the full entry stays on every edition above the tier.
+    A short page keeps a link to its own clip's watch page where lib/videos.js
+    registers one (Fliade today), so the watch page stays reachable (the
+    critic read of #2127 to #2131, ruled as recommended the same day). -#}
 {%- set childrenShort = edition.tier == "children" and plain -%}
 <article class="lore-entry{% if childrenShort %} lore-entry--short{% endif %}" data-lore-category="{{ category }}">
   {% include "superseded-note.njk" %}
@@ -51,6 +54,10 @@ commentsCategory: lore
 
   {% if childrenShort %}
   <p class="lore-entry__short-note">This is the short version. The full Archive entry is written for older readers.</p>
+  {%- set shortClip = page.url | watchClipFor %}
+  {%- if shortClip %}
+  <p class="lore-entry__short-clip"><a href="/star-rangers/watch/{{ shortClip }}/">Watch the ten-second clip</a></p>
+  {%- endif %}
   {% else %}
   <div class="lore-entry__body">
     {{ content | safe }}
