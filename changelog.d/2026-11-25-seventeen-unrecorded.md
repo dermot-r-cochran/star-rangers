@@ -1,0 +1,3 @@
+### Changed
+
+- **Thirteen of the seventeen `unrecorded` pictures are placed** (`src/_data/provenance.json`, 2026-11-25, Opus, desktop, by the ruling of 23 November and Dermot's *"Yes, search phone"*). Twelve lore pictures are matched to his own frames and listed as `photograph` with their source files, five from the camera archive and seven from the phone. `star-rangers-academy` is a typeset title card and is listed as `card`. Four stay `unrecorded` for him: the two Aldera kitten pictures, which are saved images rather than camera frames, `five-layers` and `pink-blossom-macro`. Records: `image-prompts.md`, *Matching pass over the seventeen*; `open-questions.md`.
