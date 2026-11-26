@@ -39,7 +39,7 @@ The survey named the Anstolik for a resemblance to Terran reindeer, and the name
 
 ## The Pandoids
 
-The deep networks belong to the **Pandoids**, and they are a people.
+The deep networks belong to the **Pandoids**, and they are a people. The people have [an entry of their own](/star-rangers/lore/pandoids/).
 
 They are large, powerfully built and upright, with thick fur that reads as grey against the stone. They move through broken cavern ground quietly enough that their presence is often announced by the shift of a boulder rather than by any sound they make. They descend from a bear-like Fliadan lineage. *Bear-like* means, again, that the first survey to see one reached for the nearest familiar shape, and not that any bear is anywhere behind them. On the [cross-biosphere frames](/star-rangers/lore/cross-biosphere-taxonomy/) they fall in Endoskelia, which places them beside humans, the [Krenyi](/star-rangers/lore/krenyi/) and the [Prismeri](/star-rangers/lore/prismeri/) in a table that asks one question about skeletons and answers nothing else. It does not make them humanoid in the sense the record refuses. Strength, gait, mass and face are all their own, and an observer who mistook one for a person at any distance would be reporting on the light rather than on the Pandoid.
 
