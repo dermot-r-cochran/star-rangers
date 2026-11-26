@@ -28,11 +28,17 @@ The record holds two names for this people. One it coined itself, and the other 
 
 What follows is what the survey has filed, and it is observational.
 
-Pandoids are large, powerfully built and upright, with thick fur that reads as grey against the stone. They move through broken cavern ground quietly. An adult's presence is often announced by the shift of a boulder and not by any sound the adult makes. Strength, gait, mass and face are all their own. They hold the deep networks by advantages the deep networks reward: strength, and an intimacy with vertical broken ground that no visiting instrument has matched. By every account the survey has filed, they are calm and reclusive.
+Pandoids are large, powerfully built and upright, with thick fur that reads as grey against the stone. A human in a cold suit is almost the size of an adult. The body is heavy and pear-shaped, widest at the hips, with narrow sloping shoulders, long arms and short thick legs. They stand, sit, squat and lie down.
+
+The head is small for the body and blunt. It is carried low, with no neck, and has no external ears. The eyes are very small and dark, and nearly hidden in the coat. A wide fan of long, stiff, pale whiskers stands round the blunt muzzle and over the brow.
+
+The coat is thick, coarse and uneven. It is long and shaggy over the chest, shoulders and back, shorter on the forearms and shins, and damp and matted with silt at the feet. Individuals differ in shade. The hands and feet are broad, with thick blunt digits and bare, pale, leathery pads on the palms and soles.
+
+They move through broken cavern ground quietly. An adult's presence is often announced by the shift of a boulder and not by any sound the adult makes. Strength, gait, mass and face are all their own. They hold the deep networks by advantages the deep networks reward: strength, and an intimacy with vertical broken ground that no visiting instrument has matched. By every account the survey has filed, they are calm and reclusive.
 
 The bodies filed are not all alike, in size or in coat. The one individual the survey learned to tell from the others is logged as Individual Four and called [Teddy](/star-rangers/characters/teddy/) by the surface party. That one is smaller and rounder than the adults, with a denser coat. The survey has no method for ageing a Pandoid, so its log says *smaller* and does not say *young*.
 
-The thread adds two things that watching could not supply. The people hear the ground, so that a stone moved at the edge of the deep is heard by the whole community below. They also read warmth, which tells them who is where. At the line where the survey's tracks stop, that sense runs out and only the eye is left.
+The thread adds two things that watching could not supply. The people hear the ground, so that a stone moved at the edge of the deep is heard by the whole community below. They also read warmth, which tells them who is where. At the line where the survey's tracks stop, that sense runs out and only the eye is left. Sight is the lesser sense. The whiskers belong to the same account: this is a body that feels its way in the dark and hears the ground.
 
 ## On the Frames
 
