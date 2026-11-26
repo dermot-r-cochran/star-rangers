@@ -14,7 +14,7 @@ description: "The complete list of official Fian Ilchruinne deployments. If the 
 <h2>The full site and the general tier</h2>
 <ul>
   <li><a href="https://fianilchruinne.com/"><strong>fianilchruinne.com</strong></a> — the unbranded full edition, and the canonical address.</li>
-  <li><a href="https://sciencefiction.site/"><strong>sciencefiction.site</strong></a> — the general reading tier at its original address: the same storylines, with a narrower shelf of Lore, Glossary, Codex and Journal.</li>
+  <li><a href="https://sciencefiction.site/"><strong>sciencefiction.site</strong></a> — the general reading tier at its original address: the same storylines and the same Lore, Glossary and Codex shelves, with a narrower Journal.</li>
 </ul>
 
 <h2>Branded editions</h2>
@@ -26,9 +26,10 @@ description: "The complete list of official Fian Ilchruinne deployments. If the 
   <a href="/star-rangers/tiers/">Reading Tiers</a> page.
 </p>
 <ul>
-  <li><a href="https://starquest.site/"><strong>starquest.site</strong></a> and <strong>starquest.online</strong> — StarQuest.</li>
-  <li><a href="https://fellowshipoflight.org/"><strong>fellowshipoflight.org</strong></a>, <strong>.site</strong>, <strong>.online</strong> and <strong>.space</strong> — Fellowship of Light.</li>
-  <li><a href="https://church-space.site/"><strong>church-space.site</strong></a> and <strong>church-space.online</strong> — Church Space.</li>
+  <li><a href="https://starquest.site/"><strong>starquest.site</strong></a> — StarQuest.</li>
+  <li><a href="https://fellowshipoflight.org/"><strong>fellowshipoflight.org</strong></a> — Fellowship of Light.</li>
+  <li><a href="https://fellowshipoflight.site/"><strong>fellowshipoflight.site</strong></a> — The Comparative Archive.</li>
+  <li><a href="https://church-space.site/"><strong>church-space.site</strong></a> — Church Space.</li>
   <li><a href="https://undercover-pets.com/"><strong>undercover-pets.com</strong></a> — Undercover Pets.</li>
   <li><a href="https://young.fianilchruinne.com/"><strong>young.fianilchruinne.com</strong></a> — Young Star Rangers.</li>
   <li><a href="https://told.fianilchruinne.com/"><strong>told.fianilchruinne.com</strong></a> — The Told.</li>
@@ -38,7 +39,9 @@ description: "The complete list of official Fian Ilchruinne deployments. If the 
 <p>
   These addresses serve existing editions rather than sites of their own:
   <strong>star-rangers.space</strong> (an alias of sciencefiction.site),
-  <strong>star-rangers.site</strong> (an alias of starquest.site), and —
+  <strong>star-rangers.site</strong> and <strong>starquest.online</strong> (aliases of starquest.site),
+  <strong>fellowshipoflight.online</strong> and <strong>fellowshipoflight.space</strong> (aliases of fellowshipoflight.org),
+  <strong>church-space.online</strong> (an alias of church-space.site), and —
   all aliases of fianilchruinne.com — <strong>fian-ilchruinne.com</strong>,
   <strong>fianilchruinne.site</strong>, <strong>fianilchruinne.space</strong>,
   <strong>fianilchruinne.online</strong> and <strong>fianilchruinne.net</strong>.

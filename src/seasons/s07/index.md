@@ -55,7 +55,7 @@ permalink: /seasons/s07/
 {% if hasSeasonChapters %}
   </ul></div>
 {% else %}
-  <p class="page-intro">No chapters published yet for this season.</p>
+  <p class="page-intro">This edition carries no chapters of this season.</p>
 {% endif %}
 
 {% include "season-nav.njk" %}
