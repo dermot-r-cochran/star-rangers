@@ -23,7 +23,7 @@ commentsCategory: episodes
     <div class="chapter-meta">
       <span class="chapter-label">S{{ season | zeroPad }}E{{ episode | zeroPad }}C{{ chapter | zeroPad }}</span>
       <span class="chapter-position">
-        <a href="/star-rangers/seasons/s{{ season | zeroPad }}/e{{ episode | zeroPad }}/">Season {{ season }} · Episode {{ episode }}</a>{% if place %} · Chapter {{ place.position }} of {{ place.total }}{% endif %}{% if minutes %} · about {{ minutes }} min{% endif %}
+        <a href="/star-rangers/seasons/s{{ season | zeroPad }}/e{{ episode | zeroPad }}/">Season {{ season }} · Episode {{ episode }}</a>{% if place %} · {{ place.position }} of {{ place.total }} in this episode{% endif %}{% if minutes %} · about {{ minutes }} min{% endif %}
       </span>
     </div>
 
