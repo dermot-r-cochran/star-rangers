@@ -18,7 +18,7 @@ permalink: /seasons/s01/
   Threshold Station is already living with a false reading when Season 1 begins. Browse the published episodes, then follow how each chapter tests civic duty against damaged memory and disputed evidence.
 </p>
 <p class="page-intro">
-  This is where the main line starts: Cadet Tissadelle Shepherd's first posting, the Survey Corps' discipline of measurement, and a station whose smallest wrong number refuses to stay small. Expect procedure over spectacle, and disagreement between honest witnesses as the engine of everything. Every chapter can be read in any available character's viewpoint — switch freely; each path is complete on its own.
+  This is where the main line starts: a Survey Corps team sent to Threshold Station, the Corps' discipline of measurement, and a station whose smallest wrong number refuses to stay small. Tissadelle Shepherd is here as a cadet on the station's watch, and her watch log becomes the survey's baseline. Expect procedure over spectacle, and disagreement between honest witnesses as the engine of everything. Every chapter can be read in any available character's viewpoint — switch freely; each path is complete on its own.
 </p>
 <p class="page-intro">
   Episodes 4 to 6 carry the season into 2827. The winter's paperwork comes first: the advisory comes up for review, the first drift report is reopened by the hand that closed it, and a lighthouse register goes home under its receipt. In late winter the finding Elvira asked for comes back along the causeway, and she decides who may read it; in spring the Lights Board sends the light a new clock, and the shore corrects it like the others.

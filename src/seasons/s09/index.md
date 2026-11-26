@@ -18,7 +18,7 @@ permalink: /seasons/s09/
   The Corps from the bottom rung. Season 9 is the Young Star Rangers thread: a raw Deputy's first field posting under a Field Officer who has supervised fourteen of them, on the boundary watch that most civilians mean when they say a Star Ranger came.
 </p>
 <p class="page-intro">
-  A season that stands alone, set in 2828 UCSD, two years after the main line's present: no prior reading required, and readers of Season 1 will know the habitat, if not the hatch.
+  A season that stands alone, set in 2828 UCSD, two years after the main line's present: no prior reading required, and readers of Season 1 will know the habitat, if not the hatch. One stretch of the posting is told elsewhere: the ninth to the twenty-sixth day, the inspection under the dock ring, is Season 10, Episode 1, which can be read before this season or after it.
 </p>
 <p class="page-intro">
   Episodes 2 to 7 follow the Deputy through the rest of 2828: a first evening off the corridor in a borrowed shirt; a full can at a wet plant; one shift under a relieving officer with the hatch shut; one of the fourteen back with a child's question about the well; a light that changes colour for ninety seconds and is logged as what happened; and, on the season's last evening, a stranger who asks the way.

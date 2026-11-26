@@ -15,7 +15,7 @@ permalink: /seasons/s01/e02/
 
 <h1 class="page-title">Season 1 · Episode 2</h1>
 <p class="page-intro">
-  Episode 2 carries the investigation outward, where broken infrastructure and boundary pressure turn a local anomaly into a wider civic problem. Read every published chapter for this episode here.
+  Episode 2 is a day and a night at the Marsh Causeway and the morning after at Threshold Station, in the late autumn of 2826 UCSD. A ritual fails at the causeway ruins and the team follows what is pressing through the boundary to a grove of pale-barked trees; back at the station a sealed section and a trapped hull-fitter force a short-range teleport, and the team writes down what a jump costs.
 </p>
 
 {% set seasonNumber = "1" %}
