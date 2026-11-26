@@ -1,3 +1,0 @@
-### Changed
-
-- **Next links easier to find** (`src/_includes/chapter.njk`, `src/_includes/chapter-pagination.njk`, `src/_includes/episode-nav.njk`, `lib/episode-nav.js`, every episode `index.md`, `src/css/main.css`, 2026-11-26, Opus, at Dermot's *"The link to the next episode or next chapter is not always easy to find"*). A chapter's Previous and Next links now also appear straight after the prose, before the scene list, Canon Facts and the Archive asides; the copy at the foot stays. Every episode index page gains a *Start reading* link to its first chapter and links to the episodes either side, taken from the build's own chapters so an edition never links an episode it leaves out (`test/episode-nav.test.js`).
