@@ -1297,6 +1297,11 @@ a:focus {
   font-size: 1rem;
   transition: background var(--transition);
 }
+/* The Continue button is rendered hidden and unhidden by script; its own
+   display rule would otherwise override the hidden attribute. */
+.home-hero__cta[hidden] {
+  display: none;
+}
 .home-hero__cta:hover,
 .home-hero__cta:focus {
   background: var(--color-accent-hover);
