@@ -13,6 +13,7 @@ const { isPlaceholderImage } = require("./lib/placeholder-marker");
 const { seasonPortraits } = require("./lib/season-portraits");
 const { episodeNeighbours } = require("./lib/episode-nav");
 const { readingMinutes, chapterPosition } = require("./lib/reading-time");
+const { followNeighbours } = require("./lib/follow-character");
 const { characterImageRel, ownPortrait } = require("./lib/character-image");
 const {
   getContentFilter,
@@ -660,6 +661,9 @@ module.exports = function(eleventyConfig) {
     }
     return readingMinutesCache.get(inputPath);
   });
+  // One character's previous and next viewpoint, for a scene-POV page
+  // (lib/follow-character.js).
+  eleventyConfig.addFilter("followNeighbours", (pages, item) => followNeighbours(pages, item));
   // A chapter's place in its own episode: { position, total }.
   eleventyConfig.addFilter("chapterPosition", (chapters, id) => chapterPosition(chapters, id));
 
