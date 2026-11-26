@@ -21,7 +21,9 @@
     {% if newSeason %}<span class="chapter-pagination__cue">Season {{ nd.season }} begins</span>
     {% elif newEpisode %}<span class="chapter-pagination__cue">Episode {{ nd.episode }} begins</span>{% endif %}
     {{ nd.title }} →
-    {% if (newEpisode or newPlace) and nd.location %}<span class="chapter-pagination__setting">{{ nd.location }}{% if nd.timestamp %} · {{ nd.timestamp }}{% endif %}</span>{% endif %}
+    {#- Short form, first place and year (lib/short-setting.js, Dermot
+        2026-11-26: "Yes, shorten it"); the full setting stays in the title. -#}
+    {% if (newEpisode or newPlace) and nd.location %}<span class="chapter-pagination__setting" title="{{ nd.location }}{% if nd.timestamp %} · {{ nd.timestamp }}{% endif %}">{{ nd.location | shortSetting(nd.timestamp) }}</span>{% endif %}
   </a>
   {% endif %}
 </nav>

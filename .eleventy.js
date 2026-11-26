@@ -13,6 +13,7 @@ const { isPlaceholderImage } = require("./lib/placeholder-marker");
 const { seasonPortraits } = require("./lib/season-portraits");
 const { episodeNeighbours, seasonNeighbours } = require("./lib/episode-nav");
 const { readingMinutes, chapterPosition } = require("./lib/reading-time");
+const { shortSetting } = require("./lib/short-setting");
 const { followNeighbours } = require("./lib/follow-character");
 const { characterImageRel, ownPortrait } = require("./lib/character-image");
 const {
@@ -259,6 +260,8 @@ module.exports = function(eleventyConfig) {
   // `permalink: false` page still is (and base.njk cannot read a false url).
   if (!platesFor(getEdition().id).length) eleventyConfig.ignores.add("src/plates/**");
   eleventyConfig.addFilter("loreImageRel", loreImageRel);
+  // The Next link's setting cue, first place and year (lib/short-setting.js).
+  eleventyConfig.addFilter("shortSetting", shortSetting);
   // The watch-page id of the clip a host page carries (lib/videos.js), or "".
   // A children's-tier short lore page leaves its body out, player included,
   // and keeps a link to the clip's watch page with this (Dermot, 25 November
