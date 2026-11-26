@@ -37,6 +37,8 @@ Separately from fan works, Dermot R. Cochran may **individually approve** a deri
 
 Chartered works are **registered here, not hosted here** — the work stays with its own author and rights holder, and this repository lists it. Nothing in this repository's CC BY-NC-ND scope is another creator's property, and that is deliberate.
 
+**Rights are available by arrangement.** Publishing, translation for sale, audio, game, television, streaming and film rights are not granted by this licence and are available by arrangement with the author: write to rights@fianilchruinne.com. The story is not offered for sale on the site, and the site takes no advertising or donations.
+
 **No chartered works exist at the time of writing.** This section states the policy in advance so the first one does not have to invent it.
 
 ## How these are described to readers

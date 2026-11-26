@@ -173,6 +173,12 @@ eleventyComputed:
   licence's standing formula — <em>referenced, not endorsed</em>: a link is a pointer, not
   approval, and being listed here confers no official status. None is noted at present.
 </p>
+<p id="rights">
+  <strong>Rights and adaptations.</strong> The story is not offered for sale here, and the site
+  takes no advertising or donations. Publishing, translation for sale, audio, game, television,
+  streaming and film rights are available by arrangement with the author. Write to
+  <a href="mailto:rights@fianilchruinne.com">rights@fianilchruinne.com</a>.
+</p>
 
 <h2 id="how-this-site-is-deployed">How this site is deployed</h2>
 <p>
