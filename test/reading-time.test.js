@@ -9,6 +9,12 @@ test("container fences, markup and front matter are not words", () => {
   assert.equal(wordCount(src), 5);
 });
 
+test("front matter is skipped whatever the line endings", () => {
+  const lf = "---\ntitle: a long title of several words\ncanon_facts:\n  - \"one two three\"\n---\n\n:::pov alala\n\nThe raven landed.\n\n:::\n";
+  assert.equal(wordCount(lf), 3);
+  assert.equal(wordCount(lf.replace(/\n/g, "\r\n")), 3);
+});
+
 test("a tier-gated block is left out of the count", () => {
   const src = ":::pov a\n\none two three\n\n:::\n\n:::pov b tier=contemplative\n\nfour five six seven\n\n:::\n";
   assert.equal(wordCount(src), 3);

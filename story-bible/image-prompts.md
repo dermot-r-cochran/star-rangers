@@ -6468,8 +6468,8 @@ The prompt of record is in `story-bible/images.md` § 93; rounds 1 and 2 (22 Nov
 
 ## 2026-11-25 — Codex title card, Brigid at the Thorn Well (Fable, desktop)
 
-Houses of faith family (`images.md` § 110): the leaf is the Cill Aoife scriptorium's, a leaf of the house's book. Whether a pilgrims' telling belongs with the folk sources instead is put to Dermot in `intake-2026-11-25.md`, choice 4. The command of record:
+Houses of faith family (`images.md` § 110): the leaf is the Cill Aoife scriptorium's, a leaf of the house's book. Whether a pilgrims' telling belongs with the folk sources instead is put to Dermot in `intake-2026-11-25.md`, choice 4 (ruled the same day: Houses of faith, as drawn). The command of record:
 
 ```powershell
-.scriptsmake-codex-cover.ps1 -TitleLines "BRIGID AT","THE THORN WELL" -Category "HAGIOGRAPHY" -Institution "Monastic scriptorium, Cill Aoife, Ireland" -Author "THE PILGRIMS' TELLING" -Motif rules -Accent "#CFAE6E" -Symbol arch -Out srcimagescodexrigid-at-the-thorn-well.jpg
+.\scripts\make-codex-cover.ps1 -TitleLines "BRIGID AT","THE THORN WELL" -Category "HAGIOGRAPHY" -Institution "Monastic scriptorium, Cill Aoife, Ireland" -Author "THE PILGRIMS' TELLING" -Motif rules -Accent "#CFAE6E" -Symbol arch -Out src\images\codex\brigid-at-the-thorn-well.jpg
 ```

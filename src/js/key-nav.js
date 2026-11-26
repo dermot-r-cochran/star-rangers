@@ -8,8 +8,11 @@
  * next. Nothing else changes, and with JS off the links work as before.
  *
  * It stands aside whenever the keys mean something else: in a text field, a
- * select or anything editable; with Alt, Ctrl, Meta or Shift held (Alt+Left is
- * the browser's own Back); and when another handler has already taken the key.
+ * select or anything editable; on a focused video or audio player, where Left
+ * and Right seek (the critic read of #2132 to #2146, 2026-11-26: Right on the
+ * focused clip of S01E01C03 left the chapter); with Alt, Ctrl, Meta or Shift
+ * held (Alt+Left is the browser's own Back); and when another handler has
+ * already taken the key.
  */
 (function () {
   "use strict";
@@ -23,6 +26,7 @@
   function typing(target) {
     if (!target || !target.tagName) return false;
     var tag = target.tagName.toLowerCase();
+    if (tag === "video" || tag === "audio") return true;
     return tag === "input" || tag === "textarea" || tag === "select" || target.isContentEditable;
   }
 
