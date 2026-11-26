@@ -48,3 +48,5 @@ permalink: /seasons/s02/e10/
 {% if not hasEpisodeChapters %}
 <p>No chapters have been added to this episode yet.</p>
 {% endif %}
+
+{% include "episode-nav.njk" %}

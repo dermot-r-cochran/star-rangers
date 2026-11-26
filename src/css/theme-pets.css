@@ -1067,6 +1067,29 @@ a:focus {
   letter-spacing: 0.06em;
 }
 
+/* The same chapter links straight after the prose: a little tighter above,
+   since the text has just ended, and a rule below to part it from the
+   scene list and the Archive asides that follow. */
+.chapter-pagination--after-text {
+  margin-top: var(--spacing-lg);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* An episode index page's way in (src/_includes/episode-nav.njk). */
+.episode-start {
+  margin: var(--spacing-lg) 0 0;
+  font-family: var(--font-ui);
+}
+.episode-start__link {
+  color: var(--color-accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+.episode-start__link:hover {
+  text-decoration: underline;
+}
+
 /* --- Home Page --- */
 .home-hero {
   text-align: center;

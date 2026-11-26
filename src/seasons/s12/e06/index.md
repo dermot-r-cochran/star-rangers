@@ -48,3 +48,5 @@ permalink: /seasons/s12/e06/
 {% if not hasEpisodeChapters %}
   <p class="page-intro">No chapters published yet for this episode.</p>
 {% endif %}
+
+{% include "episode-nav.njk" %}

@@ -1,0 +1,27 @@
+{#- Previous / Next chapter links, drawn twice by chapter.njk: once straight
+    after the prose and once at the foot of the page. Reads previousChapter,
+    nextChapter, season, episode and location from the including template. -#}
+<nav class="chapter-pagination {{ paginationClass }}" aria-label="{{ paginationLabel }}" data-pagefind-ignore>
+  {% if previousChapter %}
+  <a class="chapter-pagination__prev" href="/star-rangers{{ previousChapter.url }}">
+    ← {{ previousChapter.data.title }}
+  </a>
+  {% endif %}
+  {% if nextChapter %}
+  {#- A cue when the next chapter moves the reader somewhere else (Dermot,
+      2026-10-26: some prose lacks a bridge between chapters, or a cue that
+      the setting is about to change between episodes). Derived only from
+      the next chapter's own season, episode, location and timestamp, so it
+      asserts nothing the chapter does not already say. -#}
+  {% set nd = nextChapter.data %}
+  {% set newSeason = nd.season != season %}
+  {% set newEpisode = newSeason or nd.episode != episode %}
+  {% set newPlace = nd.location and nd.location != location %}
+  <a class="chapter-pagination__next" href="/star-rangers{{ nextChapter.url }}">
+    {% if newSeason %}<span class="chapter-pagination__cue">Season {{ nd.season }} begins</span>
+    {% elif newEpisode %}<span class="chapter-pagination__cue">Episode {{ nd.episode }} begins</span>{% endif %}
+    {{ nd.title }} →
+    {% if (newEpisode or newPlace) and nd.location %}<span class="chapter-pagination__setting">{{ nd.location }}{% if nd.timestamp %} · {{ nd.timestamp }}{% endif %}</span>{% endif %}
+  </a>
+  {% endif %}
+</nav>
