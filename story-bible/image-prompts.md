@@ -6473,3 +6473,11 @@ Houses of faith family (`images.md` § 110): the leaf is the Cill Aoife scriptor
 ```powershell
 .\scripts\make-codex-cover.ps1 -TitleLines "BRIGID AT","THE THORN WELL" -Category "HAGIOGRAPHY" -Institution "Monastic scriptorium, Cill Aoife, Ireland" -Author "THE PILGRIMS' TELLING" -Motif rules -Accent "#CFAE6E" -Symbol arch -Out src\images\codex\brigid-at-the-thorn-well.jpg
 ```
+
+## 2026-11-26 — Codex title card, The Shade at the Field's Edge (Fable, desktop)
+
+Houses of faith family (`images.md` § 110): a leaf of the house's book at Cill Aoife, with the author line of *The Apparition at Cill Aoife*, whose keeper it shares. The command of record:
+
+```powershell
+.\scripts\make-codex-cover.ps1 -TitleLines "THE SHADE AT","THE FIELD'S EDGE" -Category "HAGIOGRAPHY" -Institution "Monastic scriptorium, Cill Aoife, Ireland" -Author "THE KEEPER OF THE HOUSE'S BOOK" -Motif rules -Accent "#CFAE6E" -Symbol arch -Out src\images\codex\the-shade-at-the-fields-edge.jpg
+```

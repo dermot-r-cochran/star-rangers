@@ -475,6 +475,7 @@
     {"path":"src/images/codex/the-quiet-has-no-far-side.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/the-reading-before-a-first-vigil.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/the-seat-allocation-protocol.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
+    {"path":"src/images/codex/the-shade-at-the-fields-edge.jpg","source":"card","tool":"scripts/make-codex-cover.ps1","note":"Designed codex title card, lettering set by script; no generator","tagged":true,"iptc":"digitalCreation","updated":"2026-11-26"},
     {"path":"src/images/codex/the-short-stair.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/the-thing-that-did-not-fall.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},
     {"path":"src/images/codex/the-twelve-sultans-of-ai.jpg","source":"card","iptc":"digitalCreation","tool":null,"record":"story-bible/images.md § 84; story-bible/image-prompts.md","tagged":false},

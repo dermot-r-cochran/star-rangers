@@ -1,0 +1,3 @@
+### Added
+
+- **A leaf in which Saint Aoife walks down to a dark figure at the edge of a field** (`src/codex/the-shade-at-the-fields-edge.md`, `src/lore/saint-aoife.md`, `story-bible/intake-2026-11-26.md`, 2026-11-26, Fable, at Dermot's direction *"St. Aoife encounters a Membrane Shadow"*). A leaf of the house's book at Cill Aoife, entered at her asking in 1222 or 1223. She reports what she saw from six paces, says it is not what came on Muirenn's eve, will not call it good or bad, and does nothing to it. A Union scholar's annotation reads her account beside the Membrane Shadows page. The Archive note files neither a Shadow nor a boundary zone, and keeps the leaf apart from the vision and the warm well. Readings and six choices await him.
