@@ -44,13 +44,15 @@ description: "Fian Ilchruinne is hard science fiction with a hopeful heart. Real
       the six section cards below are the menu. -#}
   <div class="home-hero__ctas">
     <a class="home-hero__cta" href="/star-rangers/start/">Begin Reading</a>
+    {#- A button beside Begin Reading, filled by src/js/continue-reading.js with
+        the last chapter this reader opened on this domain (Dermot, 2026-11-26:
+        the plain line under the buttons was easy to miss). Hidden without JS
+        or storage, and until a chapter has been opened. -#}
+    <a class="home-hero__cta" data-continue-reading data-continue-button hidden></a>
     {%- if latestLore %}
     <a class="home-hero__cta home-hero__cta--secondary" href="/star-rangers{{ latestLore.url }}">Newest: {{ latestLore.title }}</a>
     {%- endif %}
   </div>
-  {#- Filled by src/js/continue-reading.js with the last chapter this reader
-      opened on this domain; stays hidden without JS or storage. -#}
-  <p class="continue-reading" data-continue-reading hidden></p>
 </section>
 
 <section aria-label="Site sections">

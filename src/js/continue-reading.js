@@ -54,6 +54,15 @@
 
   for (var i = 0; i < slots.length; i++) {
     var slot = slots[i];
+    // The home page's slot is itself a button (an <a> styled as a hero call to
+    // action): it becomes the link, labelled with the chapter's title.
+    if (slot.hasAttribute("data-continue-button")) {
+      slot.href = last.path;
+      slot.textContent = "Continue: " + last.title;
+      if (last.code) slot.title = "Continue reading " + last.title + " (" + last.code + ")";
+      slot.hidden = false;
+      continue;
+    }
     slot.textContent = "";
     slot.appendChild(document.createTextNode("Continue reading: "));
     var link = document.createElement("a");
