@@ -134,6 +134,21 @@ stand.
 
 ---
 
+## Saint Aoife encounters a Membrane Shadow — `intake-2026-11-26.md`, 26 November 2026 — DRAFTED on Fable as a Codex leaf (*The Shade at the Field's Edge*); thirteen readings and six choices OPEN, each with a recommendation; the PR waits on him
+
+His direction (*"St. Aoife encounters a Membrane Shadow"*), the second of his thirteenth-century tales. Drafted as a separate, second encounter in 1222 or 1223, entered in the house's book at her asking; the re-reading of the 1216 vision as a Shadow is rejected, with reasons, in the intake. Open for him:
+
+1. **The form.** (a) **Recommended, drafted:** the dark silhouette at dusk. (b) A Photographic Being by day. (c) A Caomhari-type presentation, which would need a canon change.
+2. **The teller.** (a) **Recommended, drafted:** the keeper of the house's book, in her lifetime, at her asking. (b) Brother Daire. (c) The road, about 1300.
+3. **The date.** (a) **Recommended, drafted:** the seventh harvest after the vision, 1222 or 1223. (b) No date. (c) Before the vision.
+4. **Two lines of hers that reach furthest** (*Near it the ground leaned*; *I do not think it is in our field at all, though I saw it there*). (a) **Recommended, drafted:** keep both. (b) Cut the second. (c) Cut the first.
+5. **A See-also on `src/lore/membrane-shadows.md`.** (a) **Recommended, drafted:** none, since the Archive note does not file the figure as a Shadow. (b) One additive link.
+6. **The title.** (a) **Recommended, drafted:** *The Shade at the Field's Edge*. (b) *What Stood at the Mearing*.
+
+The thirteen readings (she looks and does nothing to it, the seven answers, the old women's word *scáth*, her last thought, the 2826 annotation by M. Ó Fiaich, and an Archive note that files neither a Shadow nor a boundary zone) are listed in the intake, each for his confirmation.
+
+---
+
 ## Critic read of #2147 and #2149 (26 Nov 2026) — on Fable — one point OPEN, with a recommendation
 
 A Benevolent Critic read of the two pull requests merged since the last read (#2148 is that read). #2147 puts the rights line on the About page and in `CONTENT-LICENSE.md`; #2149 is the mechanical half of the weekly unit review of fellowshipoflight.org. The claims in both bodies and both changelog fragments were checked against the code and the registry, and against three local builds: the default edition before and after this read's fixes, and the comparative archive (`fellowshipoflight.site`).
