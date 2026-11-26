@@ -86,6 +86,30 @@ commentsCategory: episodes
     {% endif %}
   </div>
 
+  {#- Follow one character (Dermot, 2026-11-26): the same character's previous
+      and next viewpoint, within this chapter and on into the next chapter
+      where they next have one (lib/follow-character.js). Only on an included
+      page, and only to included pages. -#}
+  {% if item.included %}
+  {%- set follow = scenePovPages | followNeighbours(item) -%}
+  {% if follow.previous or follow.next %}
+  <nav class="chapter-pagination follow-character" aria-label="Follow {{ item.character.label | povButtonName }}" data-key-nav data-pagefind-ignore>
+    {% if follow.previous %}
+    <a class="chapter-pagination__prev" href="/star-rangers{{ follow.previous.url }}">
+      <span class="chapter-pagination__cue">Previous viewpoint</span>
+      ← {% if follow.previous.chapterId != item.chapterId %}{{ follow.previous.chapterTitle }} · {% endif %}Scene {{ follow.previous.sceneNumber }}
+    </a>
+    {% endif %}
+    {% if follow.next %}
+    <a class="chapter-pagination__next" href="/star-rangers{{ follow.next.url }}">
+      <span class="chapter-pagination__cue">{% if follow.next.chapterId != item.chapterId %}Next viewpoint, next chapter{% else %}Next viewpoint{% endif %}</span>
+      {% if follow.next.chapterId != item.chapterId %}{{ follow.next.chapterTitle }} · {% endif %}Scene {{ follow.next.sceneNumber }} →
+    </a>
+    {% endif %}
+  </nav>
+  {% endif %}
+  {% endif %}
+
   <nav class="chapter-pagination" aria-label="Chapter navigation" data-pagefind-ignore>
     <a class="chapter-pagination__prev" href="/star-rangers{{ item.chapterUrl }}">
       ← {{ item.chapterTitle }} (all POVs)

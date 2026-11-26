@@ -65,6 +65,7 @@ permalink: /start/
 {% endfor %}
 
 <h1 class="page-title">Where to Start</h1>
+<p class="continue-reading" data-continue-reading hidden></p>
 <p class="page-intro">{{ plan.intro | safe }}</p>
 
 <section class="thread-section" aria-labelledby="plan-step-1">
@@ -149,6 +150,7 @@ permalink: /start/
     The site-wide plan: Sen's archivist's note.
     ====================================================================== -#}
 <h1 class="page-title">The Reading Plan</h1>
+<p class="continue-reading" data-continue-reading hidden></p>
 <p class="page-intro">
   <em>An archivist's note, which is to say: unofficial, signed, and permitted an opinion. I keep the record you are about to read reconciled. This note is what I tell people who ask my desk where to start, written down so I can stop repeating it. The record is one history attested by many witnesses, and the shelf around it is reference, not homework. You need none of it before you begin. If you would rather browse than be guided, <a href="/star-rangers/seasons/">Seasons &amp; Episodes</a> lists everything, and my feelings will survive.</em>
 </p>

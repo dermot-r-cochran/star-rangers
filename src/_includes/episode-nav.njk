@@ -10,7 +10,7 @@
 </p>
 {% endif %}
 {% if ep.previous or ep.next %}
-<nav class="chapter-pagination" aria-label="Episode navigation" data-pagefind-ignore>
+<nav class="chapter-pagination" aria-label="Episode navigation" data-key-nav data-pagefind-ignore>
   {% if ep.previous %}
   <a class="chapter-pagination__prev" href="/star-rangers{{ ep.previous.url }}">
     <span class="chapter-pagination__cue">Previous episode</span>

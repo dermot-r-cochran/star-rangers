@@ -1,7 +1,7 @@
 {#- Previous / Next chapter links, drawn twice by chapter.njk: once straight
     after the prose and once at the foot of the page. Reads previousChapter,
     nextChapter, season, episode and location from the including template. -#}
-<nav class="chapter-pagination {{ paginationClass }}" aria-label="{{ paginationLabel }}" data-pagefind-ignore>
+<nav class="chapter-pagination {{ paginationClass }}" aria-label="{{ paginationLabel }}" data-key-nav data-pagefind-ignore>
   {% if previousChapter %}
   <a class="chapter-pagination__prev" href="/star-rangers{{ previousChapter.url }}">
     ← {{ previousChapter.data.title }}

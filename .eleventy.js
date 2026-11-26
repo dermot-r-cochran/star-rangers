@@ -12,6 +12,8 @@ const { imageSize } = require("./lib/image-size");
 const { isPlaceholderImage } = require("./lib/placeholder-marker");
 const { seasonPortraits } = require("./lib/season-portraits");
 const { episodeNeighbours } = require("./lib/episode-nav");
+const { readingMinutes, chapterPosition } = require("./lib/reading-time");
+const { followNeighbours } = require("./lib/follow-character");
 const { characterImageRel, ownPortrait } = require("./lib/character-image");
 const {
   getContentFilter,
@@ -644,6 +646,26 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("planEpisodes", (chapters, threadId) => planEpisodes(chapters, threadId, threadForSeason));
   eleventyConfig.addFilter("meanwhileIn", (chapters, id) => findMeanwhile(chapters, id, threadForSeason));
   eleventyConfig.addFilter("archiveOption", (companions) => pickArchiveOption(companions));
+
+  // About how long a chapter takes to read (lib/reading-time.js), from its
+  // own source file, read once per build. Takes a collection item.
+  const readingMinutesCache = new Map();
+  eleventyConfig.on("eleventy.before", () => readingMinutesCache.clear());
+  eleventyConfig.addFilter("readingMinutes", (item) => {
+    const inputPath = item && (item.inputPath || (item.page && item.page.inputPath));
+    if (!inputPath) return 0;
+    if (!readingMinutesCache.has(inputPath)) {
+      let source = "";
+      try { source = fs.readFileSync(inputPath, "utf8"); } catch (_) { source = ""; }
+      readingMinutesCache.set(inputPath, readingMinutes(source));
+    }
+    return readingMinutesCache.get(inputPath);
+  });
+  // One character's previous and next viewpoint, for a scene-POV page
+  // (lib/follow-character.js).
+  eleventyConfig.addFilter("followNeighbours", (pages, item) => followNeighbours(pages, item));
+  // A chapter's place in its own episode: { position, total }.
+  eleventyConfig.addFilter("chapterPosition", (chapters, id) => chapterPosition(chapters, id));
 
   // An episode index page's way in and its neighbouring episodes
   // (src/_includes/episode-nav.njk; lib/episode-nav.js).

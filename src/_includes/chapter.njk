@@ -3,7 +3,7 @@ layout: base.njk
 comments: true
 commentsCategory: episodes
 ---
-<article class="chapter" data-chapter-id="{{ id }}">
+<article class="chapter" data-chapter-id="{{ id }}" data-continue-title="{{ title | escape }}" data-continue-code="S{{ season | zeroPad }}E{{ episode | zeroPad }}C{{ chapter | zeroPad }}">
   <header class="chapter-header">
     <nav class="chapter-breadcrumb" aria-label="Chapter location" data-pagefind-ignore>
       <ol class="breadcrumb" role="list">
@@ -14,8 +14,17 @@ commentsCategory: episodes
       </ol>
     </nav>
 
+    {#- Where the reader is, and about how long this takes (Dermot,
+        2026-11-26, the recommended reading improvements): derived from the
+        build's own chapters and this chapter's source (lib/reading-time.js),
+        so it asserts nothing. -#}
+    {%- set place = collections.chapters | chapterPosition(id) -%}
+    {%- set minutes = page | readingMinutes -%}
     <div class="chapter-meta">
       <span class="chapter-label">S{{ season | zeroPad }}E{{ episode | zeroPad }}C{{ chapter | zeroPad }}</span>
+      <span class="chapter-position">
+        <a href="/star-rangers/seasons/s{{ season | zeroPad }}/e{{ episode | zeroPad }}/">Season {{ season }} · Episode {{ episode }}</a>{% if place %} · Chapter {{ place.position }} of {{ place.total }}{% endif %}{% if minutes %} · about {{ minutes }} min{% endif %}
+      </span>
     </div>
 
     <h1 class="chapter-title">{{ title }}</h1>
@@ -35,13 +44,6 @@ commentsCategory: episodes
       {% endif %}
     </dl>
 
-    {% if tags and tags.length %}
-    <ul class="chapter-tags" aria-label="Tags" role="list">
-      {% for tag in tags %}
-      <li class="chapter-tag">{{ tag }}</li>
-      {% endfor %}
-    </ul>
-    {% endif %}
 
     {#- Optional. Added 2026-07-30 so a chapter can carry its own Open Graph
         preview instead of falling back to the site hero (see OG_IMAGE_DIRS in
@@ -154,6 +156,16 @@ commentsCategory: episodes
       {% endfor %}
     </ul>
   </aside>
+  {% endif %}
+
+  {#- Tags sit under the text with the canon facts, not above the first
+      sentence (Dermot, 2026-11-26): they are metadata, not reading. -#}
+  {% if tags and tags.length %}
+  <ul class="chapter-tags" aria-label="Tags" role="list">
+    {% for tag in tags %}
+    <li class="chapter-tag">{{ tag }}</li>
+    {% endfor %}
+  </ul>
   {% endif %}
 
   {#- "In the Archive": the record's own pages that read this chapter, derived

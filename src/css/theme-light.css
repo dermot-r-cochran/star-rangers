@@ -961,6 +961,11 @@ a:focus {
   display: flex;
   flex-wrap: wrap;
   gap: var(--spacing-sm);
+  /* role="list" keeps the list's semantics; the markers were drawing stray
+     dots beside the pill buttons (Dermot, 2026-11-26). */
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 .chapter-scene__povs li a {
   display: inline-block;
@@ -1068,12 +1073,42 @@ a:focus {
 }
 
 /* The same chapter links straight after the prose: a little tighter above,
-   since the text has just ended, and a rule below to part it from the
-   scene list and the Archive asides that follow. */
+   since the text has just ended. No rule below: the scene list that follows
+   draws its own, and two read as a gap. */
 .chapter-pagination--after-text {
   margin-top: var(--spacing-lg);
-  padding-bottom: var(--spacing-lg);
-  border-bottom: 1px solid var(--color-border);
+}
+
+/* "Continue reading" on the home and Start pages (src/js/continue-reading.js). */
+.continue-reading {
+  margin: var(--spacing-md) 0 0;
+  font-family: var(--font-ui);
+}
+.continue-reading a {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+.continue-reading__code {
+  color: var(--color-text-muted);
+  font-size: 0.85em;
+}
+
+/* Where the reader is, in a chapter's header (lib/reading-time.js). */
+.chapter-position {
+  margin-left: var(--spacing-sm);
+  color: var(--color-text-muted);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+.chapter-position a {
+  color: inherit;
+}
+.chapter-list__time {
+  color: var(--color-text-muted);
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  margin-left: var(--spacing-sm);
+  white-space: nowrap;
 }
 
 /* An episode index page's way in (src/_includes/episode-nav.njk). */
