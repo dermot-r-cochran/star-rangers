@@ -301,6 +301,14 @@ test("isCharacterPovIncluded: an edition that carries every reference page carri
   // the contemplative editions its viewpoint was a dead placeholder.
   const complete = { ...filterFor({ topics: "tissadelle" }), referenceComplete: true };
   assert.equal(isCharacterPovIncluded("hive-bee", complete, undefined, null), true);
+  // The chapter still decides first: a chapter the build narrows out, or one
+  // its tier gate hides, takes the page-less witness's viewpoint with it.
+  const narrowedOut = { season: 1, tags: ["prequel"], povs: [{ id: "hive-bee" }] };
+  assert.equal(isCharacterPovIncluded("hive-bee", complete, narrowedOut, null), false);
+  // Season 8 is the build's own thread here, so only the tier gate (general,
+  // below contemplative) can be what refuses it.
+  const gated = { ...filterFor({ threads: "church-space" }), referenceComplete: true };
+  assert.equal(isCharacterPovIncluded("hive-bee", gated, { season: 8 }, null), false);
 });
 
 test("isCharacterPovIncluded looks the character up by id when no data is passed (Aldera regression)", () => {
