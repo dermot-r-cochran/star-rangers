@@ -45,7 +45,7 @@ commentsCategory: lore
     <aside class="codex-entry__status" aria-label="How to read this document" data-pagefind-ignore>
       <p><strong>A primary source, not the Archive's own voice.</strong>
       This document is canon <em>for its author</em>: it records what
-      {% if author and not r/^(Uncredited|Unattributed)/i.test(author) %}{{ author }}{% else %}its author{% endif %} set down, by their own lights and with their own
+      {% if author and not r/^(Uncredited|Unattributed|Traditional|Recorded from)/i.test(author) %}{{ author }}{% else %}its author{% endif %} set down, by their own lights and with their own
       blind spots. It may be partial, self-serving, or contradicted by
       <a href="/star-rangers/lore/">settled lore</a>, by a chapter, or by
       another codex entry. Cite it as an account, not as established fact.</p>

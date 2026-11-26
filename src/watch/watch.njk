@@ -7,10 +7,10 @@ pagination:
   addAllPagesToCollections: true
 permalink: "/watch/{{ video.id }}/"
 eleventyComputed:
-  title: "{{ video.hostTitle }} (video)"
-  description: "{{ video.description }}"
+  title: "{{ video.hostTitle | safe }} (video)"
+  description: "{{ video.description | safe }}"
   ogImage: "/video/{{ video.id }}-poster.jpg"
-  ogImageAlt: "A frame from the video on {{ video.hostTitle }}"
+  ogImageAlt: "A frame from the video on {{ video.hostTitle | safe }}"
   ogImageSize: ""
 ---
 {#- A watch page: the clip as the page's main content, which is what video
