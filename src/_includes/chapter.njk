@@ -135,7 +135,7 @@ commentsCategory: episodes
       <p class="chapter-scene__label">Scene {{ scene.number }}</p>
       <ul class="chapter-scene__povs" role="list">
         {% for entry in scene.characters %}
-        <li><a href="/star-rangers{{ entry.url }}">{{ entry.character.label }}</a></li>
+        <li><a href="/star-rangers{{ entry.url }}" title="{{ entry.character.label | escape }}">{{ entry.character.label | povButtonName }}</a></li>
         {% endfor %}
       </ul>
     </div>

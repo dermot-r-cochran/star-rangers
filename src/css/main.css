@@ -1791,6 +1791,15 @@ a:focus {
   .site-search__input { width: 100%; }
   .site-search__results { width: 100%; max-width: 100%; }
   .reading-mode__panel { right: auto; left: 0; }
+  /* On a phone the header wraps to five rows (about 190px of a 660px screen),
+     so it scrolls away with the page instead of staying pinned over the text
+     (Dermot, 2026-11-26, the phone-width reading pass). */
+  .site-header { position: static; }
+  /* Previous and Next stack, each the full width: side by side, the Next
+     link's place-and-time line wrapped to a word a line. */
+  .chapter-pagination { flex-direction: column; }
+  .chapter-pagination a { max-width: 100%; }
+  .chapter-pagination__next { margin-left: 0; text-align: left; }
 }
 
 /* The character header stacks earlier than the rest of the site. The portrait

@@ -1,0 +1,3 @@
+### Changed
+
+- **Phone-width reading, season links and shorter scene names** (`src/css/main.css`, `src/_includes/season-nav.njk`, `lib/episode-nav.js`, the 15 season `index.md` pages, `src/_includes/chapter.njk`, 2026-11-26, Opus, at Dermot's *"1 to 3 as recommended"*). On a phone the header no longer stays pinned over the text (it wrapped to about 190px of a 660px screen), and Previous and Next stack at full width instead of squeezing the Next link's place-and-time line into a narrow column. Each season page gains *Start reading* and links to the seasons either side, as episode pages have (`test/episode-nav.test.js`). The "Read scene-by-scene" list shows the shorter name the "View from" buttons use, with the full label on hover.

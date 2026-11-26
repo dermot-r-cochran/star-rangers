@@ -2,7 +2,7 @@
 
 const test = require("node:test");
 const assert = require("node:assert/strict");
-const { episodesInOrder, episodeNeighbours } = require("../lib/episode-nav");
+const { episodesInOrder, episodeNeighbours, seasonNeighbours } = require("../lib/episode-nav");
 
 const ch = (season, episode, chapter) => ({
   url: `/seasons/s${String(season).padStart(2, "0")}/e${String(episode).padStart(2, "0")}/c${chapter}/`,
@@ -30,4 +30,13 @@ test("an episode's neighbours cross season boundaries, and the ends have none", 
 test("an episode the build does not carry has no neighbours to offer", () => {
   assert.deepEqual(episodeNeighbours(chapters, 9, 9), { first: null, previous: null, next: null });
   assert.deepEqual(episodeNeighbours([], 0, 1), { first: null, previous: null, next: null });
+});
+
+test("a season's way in is its first chapter, and its neighbours are whole seasons", () => {
+  const s0 = seasonNeighbours(chapters, "0");
+  assert.equal(s0.first.data.title, "S0E1C1");
+  assert.equal(s0.previous, null);
+  assert.equal(s0.next.url, "/seasons/s01/");
+  assert.equal(seasonNeighbours(chapters, 1).previous.url, "/seasons/s00/");
+  assert.deepEqual(seasonNeighbours(chapters, 7), { first: null, previous: null, next: null });
 });
