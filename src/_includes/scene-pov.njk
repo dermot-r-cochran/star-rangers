@@ -93,7 +93,7 @@ commentsCategory: episodes
   {% if item.included %}
   {%- set follow = scenePovPages | followNeighbours(item) -%}
   {% if follow.previous or follow.next %}
-  <nav class="chapter-pagination follow-character" aria-label="Follow {{ item.character.label | povButtonName }}" data-pagefind-ignore>
+  <nav class="chapter-pagination follow-character" aria-label="Follow {{ item.character.label | povButtonName }}" data-key-nav data-pagefind-ignore>
     {% if follow.previous %}
     <a class="chapter-pagination__prev" href="/star-rangers{{ follow.previous.url }}">
       <span class="chapter-pagination__cue">Previous viewpoint</span>

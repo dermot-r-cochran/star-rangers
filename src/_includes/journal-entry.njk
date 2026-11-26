@@ -40,7 +40,7 @@ commentsCategory: journal
 
   {% set previousEntry = collections.journalEntries | previousJournalEntryIn(page.url) %}
   {% set nextEntry = collections.journalEntries | nextJournalEntryIn(page.url) %}
-  <nav class="chapter-pagination" aria-label="Journal navigation" data-pagefind-ignore>
+  <nav class="chapter-pagination" aria-label="Journal navigation" data-key-nav data-pagefind-ignore>
     {% if previousEntry %}
     <a class="chapter-pagination__prev" href="/star-rangers{{ previousEntry.url }}">
       ← {{ previousEntry.data.title }}
