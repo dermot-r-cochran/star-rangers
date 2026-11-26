@@ -562,6 +562,9 @@ answer gets derived when a page needs it. Nothing below is canon.
   Pandoids sit just below them on the humanoid scale, above every other
   people the record holds. The cold-suit reading is noted in
   `intake-2026-10-07.md` and not yet on a page.
+  *Status, 26 November 2026:* the scale half is now on a page,
+  `src/lore/pandoids.md` (*The Body*: a human in a cold suit is almost the
+  size of an adult); the black-and-white-markings beat is not used.
 
 Rule for using this list: pick a shape only in the page that needs it, in
 that page's own voice, and log the pick in the canonical guide if it coins
@@ -1180,6 +1183,9 @@ body is his to decide (CLAUDE.md, *Never without Dermot*).
   against the stone*; on the Endoskelia frame; not humanoid; *strength, gait,
   mass and face are all their own* (`planets/fliade.md`). The face is
   described on no page.
+  *Status, 26 November 2026:* stale. The body ruled on 17 November, face
+  included, is now stated in `src/lore/pandoids.md` (*The Body*), at his
+  *"Add the body"*; this list is kept as the record of the choice.
 - The survey reached for *bear*, then *panda*, then a child's toy, and the
   record reads each name as a fact about the observers (`planets/fliade.md`;
   `teddy.md`). So a soft, heavy, furred outline is what a human eye sees.
