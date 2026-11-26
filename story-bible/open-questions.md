@@ -134,6 +134,25 @@ stand.
 
 ---
 
+## Page analytics — asked by Dermot, 26 November 2026 (*"I am not sure if page analytics would be useful for me or if already collected. I almost hesitate on privacy alone to collect too much data on readers."*) — RULED the same day: option 1, no analytics (*"Option 1"*)
+
+What the site does, checked against the templates the same day:
+- No analytics or tracking script, no visitor counter, and no cookies set by the site.
+- The reading-mode setting and the *Continue reading* place live only in the reader's own browser (`localStorage`, per domain) and are never sent anywhere.
+- The one third party is giscus, which loads from GitHub on pages with comments.
+- GitHub Pages keeps server logs it does not share with site owners.
+- The cPanel editions' hosting accounts may keep raw access logs or a built-in stats page. This was not checked from a cloud session.
+- Google Search Console shows only totals and needs no code on the site. The page-locking rule already relies on it, with comments.
+
+Options put to him (Opus, in session):
+1. **No analytics (recommended)**: Search Console and comments stay the only signals.
+2. Option 1 plus a short privacy note on the About page. This is a promise to readers, so it needed his yes.
+3. A cookie-free visitor counter (totals only), not recommended: it adds a third party for little that Search Console doesn't give.
+
+**Ruled: option 1.** No analytics, no counter and no privacy note. Don't propose analytics, a counter or tracking of readers again unless he asks. The privacy note (option 2) stays available if he asks for it.
+
+---
+
 ## A reading, viewing or visual-novel scrolling mode — asked by Dermot, 26 November 2026 (*"Does the site need a reading, viewing, visual novel scrollimg mode or is it fine as it now?"*) — RULED the same day: option 1, as it is (*"Option 1"*)
 
 Three options were put to him (Opus, in session):
