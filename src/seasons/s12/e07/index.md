@@ -50,7 +50,7 @@ permalink: /seasons/s12/e07/
 {% endfor %}
 </ul>
 {% if not hasEpisodeChapters %}
-  <p class="page-intro">No chapters published yet for this episode.</p>
+  <p class="page-intro">This edition carries no chapters of this episode.</p>
 {% endif %}
 
 {% include "episode-nav.njk" %}

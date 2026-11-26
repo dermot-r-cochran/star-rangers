@@ -296,6 +296,13 @@ test("isCharacterPovIncluded: a TOPICS/THREADS build grants a POV page when the 
   assert.equal(isCharacterPovIncluded("tissadelle", filterFor({ topics: "tissadelle" }), undefined, null), false);
 });
 
+test("isCharacterPovIncluded: an edition that carries every reference page carries a witness with no page of its own", () => {
+  // The bee of the third hive in The Night Office has no character page; on
+  // the contemplative editions its viewpoint was a dead placeholder.
+  const complete = { ...filterFor({ topics: "tissadelle" }), referenceComplete: true };
+  assert.equal(isCharacterPovIncluded("hive-bee", complete, undefined, null), true);
+});
+
 test("isCharacterPovIncluded looks the character up by id when no data is passed (Aldera regression)", () => {
   // Aldera's page was tagged `pets` rather than `undercover-pets.com` until
   // 2026-09-02, so her Season 1 chapters shipped on the children's domain
