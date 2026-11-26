@@ -1,0 +1,28 @@
+{#- An episode index page's way in, and the episodes either side of it
+    (Dermot, 2026-11-26: *"The link to the next episode or next chapter is not
+    always easy to find"*). Derived from the build's own chapters collection
+    (lib/episode-nav.js), so a narrowed edition never links an episode it
+    leaves out. Reads seasonNumber and episodeNumber from the page. -#}
+{%- set ep = collections.chapters | episodeNeighbours(seasonNumber, episodeNumber) -%}
+{% if ep.first %}
+<p class="episode-start" data-pagefind-ignore>
+  <a class="episode-start__link" href="/star-rangers{{ ep.first.url }}">Start reading: {{ ep.first.data.title }} →</a>
+</p>
+{% endif %}
+{% if ep.previous or ep.next %}
+<nav class="chapter-pagination" aria-label="Episode navigation" data-pagefind-ignore>
+  {% if ep.previous %}
+  <a class="chapter-pagination__prev" href="/star-rangers{{ ep.previous.url }}">
+    <span class="chapter-pagination__cue">Previous episode</span>
+    ← Season {{ ep.previous.season }} · Episode {{ ep.previous.episode }}
+  </a>
+  {% endif %}
+  {% if ep.next %}
+  <a class="chapter-pagination__next" href="/star-rangers{{ ep.next.url }}">
+    <span class="chapter-pagination__cue">{% if ep.next.season != (seasonNumber | int) %}Season {{ ep.next.season }} begins{% else %}Next episode{% endif %}</span>
+    Season {{ ep.next.season }} · Episode {{ ep.next.episode }} →
+    <span class="chapter-pagination__setting">{{ ep.next.firstChapter.data.title }}</span>
+  </a>
+  {% endif %}
+</nav>
+{% endif %}

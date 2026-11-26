@@ -91,6 +91,8 @@ commentsCategory: episodes
       (main.css, .chapter-reading). The DOM order is the same either way, so
       a reader without the grid meets it directly under the text. -#}
   {%- set archiveCompanions = { id: id } | fromTheArchive(related, collections.glossary, collections.lore, collections.codex, edition.tier) -%}
+  {% set previousChapter = collections.chapters | previousChapterIn(id) %}
+  {% set nextChapter = collections.chapters | nextChapterIn(id) %}
   <div class="chapter-reading">
   <div class="chapter-body">
     {{ content | safe }}
@@ -111,6 +113,16 @@ commentsCategory: episodes
   </aside>
   {% endif %}
   </div>
+
+  {#- The same links straight after the prose (Dermot, 2026-11-26: *"The link
+      to the next episode or next chapter is not always easy to find"*): the
+      reader who has just finished the text meets Next before the scene list,
+      the canon facts and the Archive asides, and the copy at the foot stays
+      for whoever reads those first. -#}
+  {% set paginationLabel = "Chapter navigation, after the text" %}
+  {% set paginationClass = "chapter-pagination--after-text" %}
+  {% include "chapter-pagination.njk" %}
+  {% set paginationClass = "" %}
 
   {% set scenes = scenePovPages | scenesForChapter(id) %}
   {% if scenes.length %}
@@ -165,8 +177,6 @@ commentsCategory: episodes
   </aside>
   {% endif %}
 
-  {% set previousChapter = collections.chapters | previousChapterIn(id) %}
-  {% set nextChapter = collections.chapters | nextChapterIn(id) %}
   {#- "Other ways on": up to two options beside the Next link at the end of an
       episode, an episode of another thread opening at the same moment and
       one Archive entry. Dermot, 2026-11-05: *"As reading navigation
@@ -196,30 +206,8 @@ commentsCategory: episodes
   </aside>
   {% endif %}
 
-  <nav class="chapter-pagination" aria-label="Chapter navigation" data-pagefind-ignore>
-    {% if previousChapter %}
-    <a class="chapter-pagination__prev" href="/star-rangers{{ previousChapter.url }}">
-      ← {{ previousChapter.data.title }}
-    </a>
-    {% endif %}
-    {% if nextChapter %}
-    {#- A cue when the next chapter moves the reader somewhere else (Dermot,
-        2026-10-26: some prose lacks a bridge between chapters, or a cue that
-        the setting is about to change between episodes). Derived only from
-        the next chapter's own season, episode, location and timestamp, so it
-        asserts nothing the chapter does not already say. -#}
-    {% set nd = nextChapter.data %}
-    {% set newSeason = nd.season != season %}
-    {% set newEpisode = newSeason or nd.episode != episode %}
-    {% set newPlace = nd.location and nd.location != location %}
-    <a class="chapter-pagination__next" href="/star-rangers{{ nextChapter.url }}">
-      {% if newSeason %}<span class="chapter-pagination__cue">Season {{ nd.season }} begins</span>
-      {% elif newEpisode %}<span class="chapter-pagination__cue">Episode {{ nd.episode }} begins</span>{% endif %}
-      {{ nd.title }} →
-      {% if (newEpisode or newPlace) and nd.location %}<span class="chapter-pagination__setting">{{ nd.location }}{% if nd.timestamp %} · {{ nd.timestamp }}{% endif %}</span>{% endif %}
-    </a>
-    {% endif %}
-  </nav>
+  {% set paginationLabel = "Chapter navigation" %}
+  {% include "chapter-pagination.njk" %}
 
   {#- Surfaces the permanent citation alias (src/chapter-aliases.njk). Without
       this the aliases exist and nobody knows, which is no use to the wiki
