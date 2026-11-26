@@ -1,0 +1,27 @@
+{#- A season page's way in, and the seasons either side (Dermot, 2026-11-26,
+    the reading-flow pass), as episode-nav.njk does for an episode. Derived
+    from the build's own chapters (lib/episode-nav.js), so a narrowed edition
+    never links a season it leaves out. Reads seasonNumber from the page. -#}
+{%- set sn = collections.chapters | seasonNeighbours(seasonNumber) -%}
+{% if sn.first %}
+<p class="episode-start" data-pagefind-ignore>
+  <a class="episode-start__link" href="/star-rangers{{ sn.first.url }}">Start reading: {{ sn.first.data.title }} →</a>
+</p>
+{% endif %}
+{% if sn.previous or sn.next %}
+<nav class="chapter-pagination" aria-label="Season navigation" data-key-nav data-pagefind-ignore>
+  {% if sn.previous %}
+  <a class="chapter-pagination__prev" href="/star-rangers{{ sn.previous.url }}">
+    <span class="chapter-pagination__cue">Previous season</span>
+    ← Season {{ sn.previous.season }}
+  </a>
+  {% endif %}
+  {% if sn.next %}
+  <a class="chapter-pagination__next" href="/star-rangers{{ sn.next.url }}">
+    <span class="chapter-pagination__cue">Next season</span>
+    Season {{ sn.next.season }} →
+    <span class="chapter-pagination__setting">{{ sn.next.firstChapter.data.title }}</span>
+  </a>
+  {% endif %}
+</nav>
+{% endif %}

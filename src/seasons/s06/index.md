@@ -57,3 +57,5 @@ permalink: /seasons/s06/
 {% else %}
   <p class="page-intro">No chapters published yet for this season.</p>
 {% endif %}
+
+{% include "season-nav.njk" %}

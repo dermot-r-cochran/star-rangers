@@ -47,3 +47,5 @@ permalink: /seasons/s00/
 {% if not hasSeasonChapters %}
   <p class="page-intro">No chapters published yet for this season.</p>
 {% endif %}
+
+{% include "season-nav.njk" %}

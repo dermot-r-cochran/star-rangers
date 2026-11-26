@@ -11,7 +11,7 @@ const { createMarkdownRenderer, povTierVisible } = require("./lib/markdown-conta
 const { imageSize } = require("./lib/image-size");
 const { isPlaceholderImage } = require("./lib/placeholder-marker");
 const { seasonPortraits } = require("./lib/season-portraits");
-const { episodeNeighbours } = require("./lib/episode-nav");
+const { episodeNeighbours, seasonNeighbours } = require("./lib/episode-nav");
 const { readingMinutes, chapterPosition } = require("./lib/reading-time");
 const { followNeighbours } = require("./lib/follow-character");
 const { characterImageRel, ownPortrait } = require("./lib/character-image");
@@ -670,6 +670,7 @@ module.exports = function(eleventyConfig) {
   // An episode index page's way in and its neighbouring episodes
   // (src/_includes/episode-nav.njk; lib/episode-nav.js).
   eleventyConfig.addFilter("episodeNeighbours", (chapters, season, episode) => episodeNeighbours(chapters, season, episode));
+  eleventyConfig.addFilter("seasonNeighbours", (chapters, season) => seasonNeighbours(chapters, season));
 
   eleventyConfig.addFilter("previousChapterIn", (chapters, id) => {
     const index = (chapters || []).findIndex((c) => c.data.id === id);
