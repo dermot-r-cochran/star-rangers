@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Pandoids"
 revealed_by: s11e01c01
-revised_by: [s14e02c03]
+revised_by: [s12e01c06, s14e02c03]
 category: "Species"
 tags: [pandoids, fliade, the-told, species, cavern-biosphere, first-contact, below-the-roof, star-rangers]
 description: "The people of Fliade's deep cavern networks, named Pandoids by the survey that found them and the Told by themselves: large, upright and furred, on the Endoskelia frame and nobody's relatives, who do not travel in space, keep their record by speaking it, and name one another by tellings."
@@ -77,6 +77,18 @@ The thread gives the people two manners. The first is to move a stone before ent
 The survey logged the first of these from its first month without reading it. The shift of a boulder that announces an adult is this custom, heard from the other side. On the second, the people have withdrawn from the upper levels since the survey came, and left the place to the strangers until they should ask.
 
 The people held the survey party, whom they call the up-people, to be *people who have not been told*. They hold that to be a different thing from not being people.
+
+## Shadows
+
+Pandoids are wary of shadows, and most wary of a [Membrane Shadow](/star-rangers/lore/membrane-shadows/). The record holds this from both sides of the line.
+
+The survey's side came first. In 2832 UCSD the party's imager showed adults at the margin drawing back from the moving shadow the party's lamp threw across the ground, before they drew back from the light itself ([*Nothing Happened*, S11E02C02](/star-rangers/seasons/s11/e02/s11e02c02/)). The survey lead's reading, filed then, is that nothing below the roof had ever moved a shadow. The fungus-light has no cycle and no source that moves, so a shadow there had always been a thing that stays where it is.
+
+The thread gives the people's side. They have a word for what crossed the floor ahead of that light: *a shadow*, a thing that moves and moves no stone. The old ones went back from it, and the small ones learned the word that season. A shadow is not announced by the ground, carries no warmth and does not ask. So the people's two manners have no place for it, since it is neither a stranger nor a person.
+
+A Membrane Shadow is the hardest case of the word. In 2833 UCSD the thread tells of a shape at a seep in the deep and then of one standing on the line beside [Stone-First](/star-rangers/characters/stone-first/) ([*No Warmth in It*, S12E01C01](/star-rangers/seasons/s12/e01/s12e01c01/); [*The Light Went Round It*, S12E01C06](/star-rangers/seasons/s12/e01/s12e01c06/)). The survey party saw the second and filed it as consistent with a Membrane Shadow: an optical return, no thermal return, and no shadow of its own ([*Two on the Line*, S12E02C03](/star-rangers/seasons/s12/e02/s12e02c03/)). To the people it was a shadow that stood still, which they had not known a shadow could do. It moved no stone coming or going, left no mark in the silt and answered nothing. The thread says the community was a little afraid of it, with the small fear of a story that has no end on it. Stone-First made no rule for it from one telling.
+
+The record's word is *wary*, and it means no more than that. It is not panic and not hostility. A wary Pandoid goes back from a shadow, or keeps still and keeps watching, and Stone-First stood on the line beside one until it was gone. Nothing the people do toward a shadow acts on it, and the record holds no way of turning one aside. A Membrane Shadow cannot act on this side of the boundary at all.
 
 ## The Survey and the Line
 
