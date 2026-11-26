@@ -48,6 +48,9 @@ description: "Fian Ilchruinne is hard science fiction with a hopeful heart. Real
     <a class="home-hero__cta home-hero__cta--secondary" href="/star-rangers{{ latestLore.url }}">Newest: {{ latestLore.title }}</a>
     {%- endif %}
   </div>
+  {#- Filled by src/js/continue-reading.js with the last chapter this reader
+      opened on this domain; stays hidden without JS or storage. -#}
+  <p class="continue-reading" data-continue-reading hidden></p>
 </section>
 
 <section aria-label="Site sections">

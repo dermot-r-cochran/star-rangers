@@ -45,7 +45,7 @@ permalink: /seasons/s13/
           <li class="chapter-list__item">
             <a href="/star-rangers{{ chapter.url }}">
               <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
-              <span class="chapter-list__title">{{ chapter.data.title }}</span>
+              <span class="chapter-list__title">{{ chapter.data.title }}</span>{%- set mins = chapter | readingMinutes -%}{% if mins %}<span class="chapter-list__time">about {{ mins }} min</span>{% endif %}
               {%- if chapter.data.location -%}
               <span class="chapter-list__loc">{{ chapter.data.location }}</span>
               {%- endif -%}
