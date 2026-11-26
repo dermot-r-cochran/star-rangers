@@ -256,7 +256,7 @@ const PEOPLES = [
     },
   },
   {
-    id: "the-told", name: "The Told (Pandoids of Fliade)", page: "src/glossary/the-told.md", places: null, species: ["Pandoid"],
+    id: "the-told", name: "The Told (Pandoids of Fliade)", page: "src/lore/pandoids.md", places: null, species: ["Pandoid"],
     frame: { name: "Endoskelia", evidence: ["src/lore/planets/fliade.md", "they fall in Endoskelia"] },
     design: {
       heading: "The body of the Told — ruled 17 November 2026", scope: "every Pandoid, the Told and any other warm alike",
