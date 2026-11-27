@@ -15351,4 +15351,6 @@ Dermot, 24 November 2026, verbatim: *"Draft extra chapters as needed"* (`intake-
 - **Presses, popular and folk sources** (8): `the-verb-that-was-left`, `the-cat-who-would-not-say`, `the-elves-of-wood-sky-and-water`, `the-hour-nobody-had`, `the-legend-of-saint-aoife`, `the-short-stair`, `baby-universe-ballad`, `what-the-stones-say`.
 - **Other peoples, in their own voice** (20): `a-standing-rate`, `beside-the-ringing`, `read-at-the-next-margin`, `the-thing-that-did-not-fall`, `what-came-in-the-water`, `what-it-will-carry`, `what-still-does-work`, `what-the-limbs-already-were`, `where-it-was-put`, `by-the-chair-of-that-day`, `the-part-not-played`, `shown-to-the-sky`, `the-wall-that-said-one-thing`, `two-points-in-one-life`, `counted-twice-answered-once`, `nothing-turned`, `the-quiet-has-no-far-side`, `twice-and-a-remainder`, `where-the-tellings-run-out`, `the-two-songs-of-the-loud-people`.
 
+**Drawn since the redraw.** The counts above are the redraw's, as it stood on 24 November 2026. Two cards have been drawn since, both in *Houses of faith*, which makes twelve there: `brigid-at-the-thorn-well` (25 November 2026) and `the-shade-at-the-fields-edge` (26 November 2026). Their commands are in `image-prompts.md` under those dates.
+
 Commands: `image-prompts.md`, *2026-11-24 — Codex title cards redrawn with accents*.

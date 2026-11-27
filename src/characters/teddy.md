@@ -17,7 +17,7 @@ description: "The one Pandoid the Fliade survey learned to tell from the others,
 
 The name is the surface party's, and it is the third time on Fliade that a name has been reached for in a hurry. The survey called the herds *Anstolik* for a resemblance to Terran reindeer and the deep-network people *Pandoids* for a resemblance to bears, and [the record reads both the way it reads every such name](/star-rangers/lore/what-the-record-refuses/): as a fact about the observers. *Teddy* is the same move one step further in, and it is worth seeing what the step was. Reindeer and bears are animals. A teddy bear is a toy — a soft thing made in the shape of a dangerous one so that a child can hold it — and a party that reaches for that shape is recording, with great precision, what it wanted the encounter to be.
 
-The survey log calls them **Individual Four**, the fourth [Pandoid](/star-rangers/lore/planets/fliade/) the Fliade survey learned to tell apart. This page uses the party's name because the log's is not a name either, and at least the party's is honest about what it is. They are a Pandoid of the deep networks beneath Fliade's equatorial band, smaller than any adult the survey has measured, and the only one of their people who comes up to where the survey works.
+The survey log calls them **Individual Four**, the fourth [Pandoid](/star-rangers/lore/pandoids/) the Fliade survey learned to tell apart. This page uses the party's name because the log's is not a name either, and at least the party's is honest about what it is. They are a Pandoid of the deep networks beneath Fliade's equatorial band, smaller than any adult the survey has measured, and the only one of their people who comes up to where the survey works.
 
 ## What the Survey Has Watched
 
