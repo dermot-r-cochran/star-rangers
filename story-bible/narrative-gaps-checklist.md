@@ -2,7 +2,7 @@
 
 What's actually written versus what the story bible and site copy have committed to. **Re-derived from `src/seasons/` on 2026-10-03**, per this file's own standing instruction not to trust it once stale (the previous derivation, 2026-08-10, said 44 chapters; disk said 69). **Re-counted from disk on 2026-10-06**: the opening line below had still said 69, twelve and seven while the table under it said 86, fourteen and eight, and disk said 93. **Re-derived from `src/seasons/` and `lib/storyline-threads.js` on 20 October 2026**, after the Arcs and Threads extractor (`scripts/extract-arcs.js`) reported the counts below as stale: the file said 93 and 94 chapters, disk said 114 (chapter files only, episode `index.md` files excluded). Open questions this raises are indexed in `open-questions.md`.
 
-**205 chapter files exist across fifteen seasons (0 to 14) and eight storyline threads** (counted from disk 2026-11-23, after Dermot's *"At least 7 episodes per season"* and his finale request of the same day added seventy-nine: Season 0 twelve, 1 thirty-four, 2 sixteen, 3 fifteen, 4 eleven, 5 eleven, 6 ten, 7 eleven, 8 seven, 9 twelve, 10 fourteen, 11 fourteen, 12 fifteen, 13 ten, 14 thirteen; every season now has at least seven episodes, Episode 0 counted, and Seasons 0, 3, 6, 7, 9, 10, 11, 12, 13 and 14 end on a finale at Episode 7; Season 5's Dock Seven episode is now Episode 6 and *As It Stands* is S06E00C01. The count below this note is the earlier one.) Before that: **126 chapter files exist across fifteen seasons (0 to 14) and eight storyline threads** (counted from disk 2026-11-23, with *At Its Ends*, S05E00C03, added that day; this line said 124 and *Season 0 six* until then, having missed *Correctly Formed* of 19 November: Season 0 seven, 1 thirty, 2 fifteen, 3 eleven, 4 six, 5 seven, 6 four, 7 four, 8 two, 9 five, 10 seven, 11 eight, 12 nine, 13 four, 14 seven; the 16 November count was 124, the 9 November count was 120, the 2 November count 119, the 26 October count 118, the 20 October count 114).
+**Re-counted from disk on 27 November 2026**, by the critic read of #2159: the 23 November line below said 205 with Season 8 at seven, and at `49481de5` disk held 206, Season 8 holding eight, as `thread-completion-2026-11-27.md` counted. Season 8 also ends on a finale at Episode 7, so eleven seasons do (0, 3 and 6 to 14), not the ten listed below. *None Put*, S15E01C01, landed later the same day (#2160) and makes 207 chapter files in sixteen seasons (0 to 15). Before that: **205 chapter files exist across fifteen seasons (0 to 14) and eight storyline threads** (counted from disk 2026-11-23, after Dermot's *"At least 7 episodes per season"* and his finale request of the same day added seventy-nine: Season 0 twelve, 1 thirty-four, 2 sixteen, 3 fifteen, 4 eleven, 5 eleven, 6 ten, 7 eleven, 8 seven, 9 twelve, 10 fourteen, 11 fourteen, 12 fifteen, 13 ten, 14 thirteen; every season now has at least seven episodes, Episode 0 counted, and Seasons 0, 3, 6, 7, 9, 10, 11, 12, 13 and 14 end on a finale at Episode 7; Season 5's Dock Seven episode is now Episode 6 and *As It Stands* is S06E00C01. The count below this note is the earlier one.) Before that: **126 chapter files exist across fifteen seasons (0 to 14) and eight storyline threads** (counted from disk 2026-11-23, with *At Its Ends*, S05E00C03, added that day; this line said 124 and *Season 0 six* until then, having missed *Correctly Formed* of 19 November: Season 0 seven, 1 thirty, 2 fifteen, 3 eleven, 4 six, 5 seven, 6 four, 7 four, 8 two, 9 five, 10 seven, 11 eight, 12 nine, 13 four, 14 seven; the 16 November count was 124, the 9 November count was 120, the 2 November count 119, the 26 October count 118, the 20 October count 114).
 
 ---
 
@@ -131,16 +131,17 @@ arc, a seven-episode outline that places the two approved drafts below; and
 eleven choices for him, all ruled as recommended the same day (*"Yes, as recommended"*): Season 15, no year in its timestamps, general tier, the mechanism unwritten, the other threads in debt order with Below the Roof's fourth season last. Nothing is drafted yet, and nothing under `src/` moves.
 **Counted from `origin/main` at `49481de5` for that note: 206 chapter files**,
 Season 8 holding eight, where the 23 November line at the head of this file
-says 205 and seven.
+said 205 and seven (updated there the same day).
 
 - [ ] **Tissadelle arc** — a completion season (proposed as Season 15):
-  recovery, the terminus, the founding. Waits on his choices 1 to 8.
+  recovery, the terminus, the founding. His choices 1 to 8 are ruled
+  (27 November, as recommended); E01, *None Put*, landed the same day (#2160).
 - [ ] **Undercover Pets** — Lev Saunders as a cadet, about 2837 (ruled
   27 September); one episode.
 - [ ] **Orbital Five-O** — the end of the Threnody matter; one episode.
 - [ ] **Young Star Rangers** — Varn's reposting; one coda episode.
-- [ ] **Below the Roof** — the survey's last shift, if the survey leaves; a
-  fourth season. Waits on his choice 9.
+- [ ] **Below the Roof** — the survey's last shift; a fourth season, last in
+  order. His choice 9 is ruled (27 November): the survey leaves.
 - [ ] **Five Islands** — a crowning, entered three ways; one episode.
 - [ ] **Church Space** — what the spring brings back; one episode.
 - **Founding Era** — complete; nothing proposed.

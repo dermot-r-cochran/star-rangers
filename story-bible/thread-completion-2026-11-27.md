@@ -4,7 +4,7 @@
 
 He had asked in what sense the story is complete and how it could be extended. The answer given was that it is complete as a record, and that the one real incompleteness is the arc's own end: the last beats of *the shape of the saga* sit after the published end, the approved terminus farewell has no slot, and *You're Up Early* waits on it. Option 1 was to complete it.
 
-**Reading taken.** *Each saga* is read as each of the eight storyline threads in `lib/storyline-threads.js`, with `tissadelle-arc` first. This note says *thread* throughout. *Saga* is already the name of Tissadelle Shepherd's spine (*the shape of the saga*), and he is separately deciding whether the general unit keeps the name *thread*.
+**Reading taken.** *Each saga* is read as each of the eight storyline threads in `lib/storyline-threads.js`, with `tissadelle-arc` first. This note says *thread* throughout. *Saga* is already the name of Tissadelle Shepherd's spine (*the shape of the saga*), and the unit above the threads was named the *cycle* the same day (*"Cycle agreed"*; `story-bible-summary.md`, *Above the threads*), so *thread* keeps its name.
 
 **What this note is.** A map of where each thread ends, and a plan for the one piece that would close it. It is not prose, and nothing here is canon until a chapter carries it. Nothing under `src/` changes. Under the 20 October ruling the story has no last page, so *complete* is asked of a thread's arc, never of the work.
 
@@ -87,7 +87,7 @@ He had asked in what sense the story is complete and how it could be extended. T
 
 - **State a mechanism for the terminus.** It is deliberately unwritten. The approved scenes do not state one and the outline below does not need one. Choice 5.
 - **Number the interval.** No timestamp in the season carries a year for the terminus. Choice 2 covers a count the approved prose already holds.
-- **Say which members crossed, or how many.** Several members are named on her page. Which of them survived Dock Seven is undecided, and the farewell is written so that it stays so.
+- **Say which members crossed, or how many.** Several members are named on her page. Which of them survived Dock Seven is undecided, and the farewell is written so that it stays so. The member Asteria is the one exception, since the 23 September ruling gives her a block in the siege.
 - **Rescue her, return her, or let anyone else decide the end.**
 - **Tell the martyrdom story.** The act is shown, and the narrative of sacrifice stays the arc's antagonist.
 - **Explain the arrays.** Rook-7's arrays carry the final phrasing and the cadence under it. Their origin stays unconfirmed.
@@ -102,7 +102,7 @@ Seven episodes and eight chapters. Two of the chapters are prose already approve
 | Ep | Beat | Purpose | Points of view | Pays |
 |---|---|---|---|---|
 | **E01** | Recovery, from outside | An ordinary shift on the boundary desk in a later year. The reading is the reading of every shift before it. What has moved is on this side of the edge: the tidier account is losing by attrition, shown by what the station no longer has to answer. | Syra, Toval | Syra's entered preference, carried and not granted. The season's ground: an interval kept, never waited through. |
-| **E02** | Recovery, the institution | A later annual review, and the Council's next letter. Wender states the grounds and leaves the date blank again. Rook-7 opens its own log at the prediction and enters whether it held. | Wender, Rook-7 | Rook-7's prediction, checked either way. What the Council did with *"my position has got worse"*. The citation, still unsigned. |
+| **E02** | Recovery, the institution | A later annual review, and the Council's next letter. Wender states the grounds and leaves the date blank again. Rook-7 opens its own log at the prediction and enters whether it held. | Wender, Rook-7 | Rook-7's prediction, checked either way. What the Council did with counsel's report that Wender's *"position has got worse"*. The citation, still unsigned. |
 | **E03** | Recovery, from inside | One morning among the mornings. She reads Tobble's book for the first time, comes to a page smoothed flat, and does not ask. The chapter shows a reading, never a recovery. | Tissadelle | *Tobble's downgraded inner codex*: the book shown as what it is, an account and not a world. |
 | **E04** | Transformation, the layer below | The same years in Tobble's subsystem, deeper than the questing layer: what arrives at the wound, separately, and what he keeps from the floor above. Her face on something that is not her is hinted and never depicted. | Tobble, the member Asteria | The 23 September ruling that part of the siege reaches the page. It also explains, without touching it, why E03 is quiet. |
 | **E05** | The terminus | **The approved farewell, verbatim as approved 27 August:** scene 1 (her block, then Tobble's) and scene 2 (the Wender coda), as one chapter in two scenes, exactly as the draft stands. | Tissadelle, Tobble, Wender | Shepherd's answer. Wender's question of deep winter 2831. The third clause of the standing order, discharged on the only authority the arc allows. |
@@ -129,6 +129,12 @@ Seven episodes and eight chapters. Two of the chapters are prose already approve
 - Who, if anyone, the avatar ministers to in the first days (E06). The treatment's *baby Harmonarchs* are not yet persons on any page.
 
 Each goes in its chapter's PR as a choice.
+
+**Three places where the outline has still to meet what is already fixed**, found by the critic read of this note on 27 November 2026 and put to him in `open-questions.md`, *Critic read of #2159*. None is settled here.
+
+- E03 names one point of view. `scripts/validate-content.js` fails a chapter with fewer than two `povs` entries, and only S01E00C02 is excepted.
+- E07 is placed word for word, and in it Tobble *"had wondered whether"* the ground would stop leaning and has it *"on the record now that it did"*. E06C02 comes first and has the claim *"declined"* with *"nothing to seat itself in"*.
+- The same block of E07 says *"Nothing in here had learned to hold a zone. Nobody had come to teach them."* E06C02 has the avatar arrive *"to help what is stabilising"*.
 
 **A proposed focus line for the season**, marked *proposed* until he approves it, and not yet in `focus.md`: *an ending taken by the one whose it is: the count kept until it closes, leave taken properly, and the file shut on her order and on nobody's reading of her.*
 
@@ -166,7 +172,7 @@ Each goes in its chapter's PR as a choice.
 
 **The one piece.** The Threnody matter comes back as a filed result. It is the thread's oldest open case, and the test of its line: a gap between two authorities closed by a paper somebody can stand over, with the office that closed it claiming nothing more.
 
-**Shape and slot.** One episode, S04E07. Season 4 stops at Episode 6, so this also gives it the Episode 7 finale that ten of the seasons have. Antariksha's referral can be the case in hand while the old one returns.
+**Shape and slot.** One episode, S04E07. Season 4 stops at Episode 6, so this also gives it the Episode 7 finale that eleven of the seasons have (0, 3 and 6 to 14). Antariksha's referral can be the case in hand while the old one returns.
 
 **Left open, and meant to be.** The fifteenth door stays with the Passage oversight's re-survey. The *noted* is a note kept, which S10E01C06 already shows to be the point of it. What mount three might do stays potential: hinted, never shown.
 
