@@ -1,0 +1,3 @@
+### Added
+
+- **Season 15, Episode 6: *None Further* (S15E06C01) and *None Seated* (S15E06C02)** (`src/seasons/s15/e06/`, `src/seasons/s15/index.md`, `story-bible/intake-2026-11-27-s15e06.md`, `story-bible/open-questions.md`, 2026-11-27, Fable). The founding, told from outside and then from inside. The closure of the Dock Seven file goes down the line; the reconciling desk, the boundary desk and Galen Kane each read it. On the hill, Tobble keeps the first nights of the watch and makes the morning's entry. The visitor's block is gated to the contemplative tier. No year, no image. Twelve choices are open for him in the intake; titles are working titles.
