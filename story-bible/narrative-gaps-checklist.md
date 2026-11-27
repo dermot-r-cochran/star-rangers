@@ -156,7 +156,12 @@ said 205 and seven (updated there the same day).
 - [ ] **Below the Roof** — the survey's last shift; a fourth season, last in
   order. His choice 9 is ruled (27 November): the survey leaves.
 - [ ] **Five Islands** — a crowning, entered three ways; one episode.
-- [ ] **Church Space** — what the spring brings back; one episode.
+- [x] **Church Space** — what the spring brings back; one episode.
+  Paid 27 November 2026 by S08E08 (S08E08C01 *If There's Anything*, #2183):
+  on the first warm day of 2829 the second hive is alive, the carrier brings
+  the post's return slip signed in the addressee's own hand, opened and read
+  not known, and *"Not this time"* is true. His six choices are ruled, as
+  recommended (`intake-2026-11-27-s08e08.md`); Fintan's page needs nothing.
 - **Founding Era** — complete; nothing proposed.
 
 ### Drafted, approved, unslotted
