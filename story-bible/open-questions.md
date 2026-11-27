@@ -134,7 +134,7 @@ stand.
 
 ---
 
-## S04E07, the end of the Threnody matter — `intake-2026-11-27-s04e07.md`, 27 November 2026 — DRAFTED on Fable, held; seven choices OPEN, each with a recommendation
+## S04E07, the end of the Threnody matter — `intake-2026-11-27-s04e07.md`, 27 November 2026 — merged as #2179; seven choices, all RULED 27 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 7 carry eight choices OPEN in `intake-2026-11-27-s04e07-pages.md`
 
 Two chapters, *Not Shown* and *Struck Late*. Choice 1 is the fact the piece turns on, what the Threnody result says: drafted as *nothing was taken*, with the stamp struck late by Halcyon's stores when they were asked. The others are why it took two years, Eden owing Antariksha a stamp, the pets' blocks, one line of Barsik's, the titles, and the page updates that wait on his ruling.
 

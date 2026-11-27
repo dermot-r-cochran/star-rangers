@@ -140,9 +140,12 @@ said 205 and seven (updated there the same day).
   Early*. Eight chapters in seven episodes.
 - [ ] **Undercover Pets** — Lev Saunders as a cadet, about 2837 (ruled
   27 September); one episode.
-- [ ] **Orbital Five-O** — the end of the Threnody matter; one episode.
-  Drafted 27 November as S04E07 (*Not Shown*, *Struck Late*) and held on
-  his choices (`intake-2026-11-27-s04e07.md`).
+- [x] **Orbital Five-O** — the end of the Threnody matter; one episode.
+  Paid 27 November 2026 by S04E07 (S04E07C01 *Not Shown*, S04E07C02 *Struck
+  Late*, #2179): the fifth stamp is struck late by Halcyon's stores and the
+  2826 inquiry is closed with no offence (S04E07C02). His seven choices are
+  ruled, as recommended (`intake-2026-11-27-s04e07.md`); the page updates
+  are in `intake-2026-11-27-s04e07-pages.md`.
 - [ ] **Young Star Rangers** — Varn's reposting; one coda episode.
 - [ ] **Below the Roof** — the survey's last shift; a fourth season, last in
   order. His choice 9 is ruled (27 November): the survey leaves.

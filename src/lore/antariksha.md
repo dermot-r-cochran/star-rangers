@@ -11,6 +11,7 @@ system: "Sol System"
 locationType: "Habitat"
 image: "antariksha.jpg"
 image_alt: "Two long grey cylinders joined end to end by a narrower hub, seen through a craft's window above the curve of the Earth; plain dark radiator slabs stand out from the hub, and short stubs at either end carry collectors."
+revised_by: [s04e07c01, s04e07c02]
 ---
 
 Antariksha was not built to keep anything. It was built to make things, and the people who built it brought their languages with them because they were the people doing the work.
@@ -40,5 +41,7 @@ The arrangement is slower than a single working language would be, and Antariksh
 ## In the Compact
 
 Antariksha is inside the Compact's ordinary chain: its Commissioner answers to the Chief Commissioner's office and to the habitat's own elected Mayor, and its detective bureau has jurisdiction on its decks and nowhere else. [Orbital Five-O](/star-rangers/characters/kai-larsen/)'s authority runs to it as to the other four. Who holds those offices, the record has not yet named.
+
+Its bureau sent the task force its first referral at the early autumn close of 2828 UCSD, written in the Commander's language and four of the habitat's. It was a transfer form from the first cylinder's stores for six cases of lamp tube signed out that summer, with three stamps and no fourth. The bureau sent the original and asked for it back, and wrote that it did not know whose the matter was ([Not Shown (S04E07C01)](/star-rangers/seasons/s04/e07/s04e07c01/)). The last leg had been reassigned after the freight left Antariksha's dock, and Antariksha was not shown where to. Eden's stores held the cases and struck the stamp, and the form went home. The bureau then asked whether forms of that kind should come up to the task force in future. The Commander answered that they should not: Antariksha's own Commissioner's office can write to the other four through the liaison line the Chief Commissioner keeps, and only an answer that is something other than a stamp need be sent up ([Struck Late (S04E07C02)](/star-rangers/seasons/s04/e07/s04e07c02/)).
 
 See also: [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), [New London Space Habitat](/star-rangers/lore/new-london-space-habitat/), [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/), [Ascent Javelins](/star-rangers/lore/ascent-javelins/).
