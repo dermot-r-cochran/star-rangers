@@ -121,6 +121,30 @@ against `src/seasons/` on 20 October 2026 and held.
   S13E01C02 *A Door Was Given* and S13E02C02 *Always There* on shape (a),
   ruled the same day (*1 a 2 yes 3 yes*; `intake-2026-10-04.md`).
 
+### Thread completion: the map of 27 November 2026
+
+Asked for by Dermot on 27 November 2026 (*"Yes Option 1 - completion of each
+saga"*, read as each of the eight threads, Tissadelle's first). The map and the
+plan are in `thread-completion-2026-11-27.md`: for each thread, where its arc
+ends, what is owed, and the one piece that would close it; for the Tissadelle
+arc, a seven-episode outline that places the two approved drafts below; and
+eleven choices for him. Nothing is drafted, and nothing under `src/` moves.
+**Counted from `origin/main` at `49481de5` for that note: 206 chapter files**,
+Season 8 holding eight, where the 23 November line at the head of this file
+says 205 and seven.
+
+- [ ] **Tissadelle arc** — a completion season (proposed as Season 15):
+  recovery, the terminus, the founding. Waits on his choices 1 to 8.
+- [ ] **Undercover Pets** — Lev Saunders as a cadet, about 2837 (ruled
+  27 September); one episode.
+- [ ] **Orbital Five-O** — the end of the Threnody matter; one episode.
+- [ ] **Young Star Rangers** — Varn's reposting; one coda episode.
+- [ ] **Below the Roof** — the survey's last shift, if the survey leaves; a
+  fourth season. Waits on his choice 9.
+- [ ] **Five Islands** — a crowning, entered three ways; one episode.
+- [ ] **Church Space** — what the spring brings back; one episode.
+- **Founding Era** — complete; nothing proposed.
+
 ### Drafted, approved, unslotted
 
 Finished prose in the story-bible waiting for a slot; each stays out of
