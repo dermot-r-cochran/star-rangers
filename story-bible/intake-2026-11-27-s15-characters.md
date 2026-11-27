@@ -95,7 +95,7 @@ Each line gives the change and its source chapter.
 
 ## Choices for him
 
-Twelve. Each has a recommendation and its basis. Where a choice is already placed, the other option is a one-line revert.
+Twelve. Each has a recommendation and its basis. **RULED 27 November 2026**, his words: *"Yes, as recommended"*; all twelve settled on (a). Choice 8's line is now added to Asteria Wessex's page. Where a choice is already placed, the other option is a one-line revert.
 
 1. **The wording of Shepherd's status.**
    - (a) *Active — until the Dock Seven file was closed complete, at her own order; elsewhere since*. **Recommended, and placed.** Basis: his two words are kept; the date is the closure, since no year is numbered; the rest is Wender's closing sentence.
