@@ -29,6 +29,9 @@ permalink: /seasons/s04/
 <p class="page-intro">
   Episode 3 is what the blank cost: in the late winter of 2828 the reading nobody could account for turns up at the head of a sheet on two crew boards, with a different cause written over it on each. Episodes 4 to 6 run through 2828: at Antariksha the task force's letter is posted under a word the Commander did not write, and somebody takes it at its word; the Field Observer finds a seam in the task force's own year and files on it herself; and a year on, the reading turns up again in two small ledgers that had been carrying it all along.
 </p>
+<p class="page-intro">
+  Episode 7 closes the season in the autumn of 2828, on the task force's oldest open file. A form that left Eden's bureau in the Commander's hand in the late autumn of 2826, with four stamps and a gap where the fifth belonged, has been in his bottom drawer ever since. A referral from Antariksha sends him back to it, and he writes one letter for both.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (4 | threadForSeason).id }}/">{{ (4 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "4" %}

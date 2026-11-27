@@ -134,6 +134,10 @@ stand.
 
 ---
 
+## S04E07, the end of the Threnody matter — `intake-2026-11-27-s04e07.md`, 27 November 2026 — DRAFTED on Fable, held; seven choices OPEN, each with a recommendation
+
+Two chapters, *Not Shown* and *Struck Late*. Choice 1 is the fact the piece turns on, what the Threnody result says: drafted as *nothing was taken*, with the stamp struck late by Halcyon's stores when they were asked. The others are why it took two years, Eden owing Antariksha a stamp, the pets' blocks, one line of Barsik's, the titles, and the page updates that wait on his ruling.
+
 ## Critic read of #2159 — 27 November 2026, on Fable — three points OPEN, each with a recommendation
 
 A Benevolent Critic read of #2159 alone: `thread-completion-2026-11-27.md` and its entries in the gaps checklist, this file, `story-bible-summary.md` and `CLAUDE.md`. #2160 (*None Put*, S15E01C01) merged while the read ran and is the next read's. Every quotation, slot, count and date in the note was worked against the chapter, focus line, intake, treatment or draft it cites. The eleven choices were read for the accuracy of their stated basis only; they are his and are ruled.
