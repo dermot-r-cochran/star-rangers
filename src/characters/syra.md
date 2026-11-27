@@ -45,6 +45,14 @@ In the early winter that followed she held the boundary data while the station b
 
 The precision is the one she brought to Counterpane. What is new is the desk, and the Cadet beside her.
 
+## The Dock Seven Line
+
+She put a Dock Seven line on the desk's shift sheet on the morning after the account was sent, with no order requiring it ([What the Sheet Carries (S07E07C01)](/star-rangers/seasons/s07/e07/s07e07c01/)). In the spring of 2832 UCSD she found, by a second reading, that she had begun to lean toward an answer from the failure point, and she entered herself in the desk's drift log, which is kept for its instruments ([Turn About (S07E04C01)](/star-rangers/seasons/s07/e04/s07e04c01/)).
+
+In a later year, which the record does not number, the line was still taken at each change of shift, by her and Toval turn about. Her entry was the oldest open one in the drift log, since nobody had proposed a reference against which to recalibrate an analyst. At each quarter she wrote the date, the direction, which had not changed, and the word the book allows for an entry neither corrected nor withdrawn: *Carried* ([None Put (S15E01C01)](/star-rangers/seasons/s15/e01/s15e01c01/)).
+
+She was on the desk at four on the morning the Dock Seven file was closed, and she did not take the line between changes of shift. On the day after, she found that each of the three grounds she had once given for the line had ended. She had also told Toval that the line was the place on the station where an answer would first be written down, and she said that she had been wrong about *first*: the answer was written down first by the officer it was addressed to. The line stayed on the sheet, because the High Captain's standing order requires the reading, and the order had been met at its third clause and not withdrawn. Her entered preference still pointed toward an answer from the failure point, and she left it for the drift log's quarter ([None Further (S15E06C01)](/star-rangers/seasons/s15/e06/s15e06c01/)).
+
 ## On the Krenyi term
 
 "Krenyi" is used in story to avoid confusion with Naiads, which are river-bound entities, not persons. "Nai" as a state means *still relevant here* — not a greeting or a title, but an acknowledgement that she remains present and engaged.

@@ -25,7 +25,9 @@ When the system speaks of her as Asteria the Sage it is repeating Wender. *The S
 
 ## On the watch
 
-In a later year that the record does not number, she comes down on some nights, unasked, to the watch [Tobble](/star-rangers/characters/tobble/) keeps below the kept hill, and sits the end of it with him. The two of them disagree there about what Shepherd is owed, each on stated grounds, and neither moves the other. The chapter is hers and his, and this page does not retell it.
+In a later year that the record does not number, she comes down on some nights, unasked, to the watch [Tobble](/star-rangers/characters/tobble/) keeps below the kept hill, and sits the end of it with him. The two of them disagree there about what Shepherd is owed, each on stated grounds, and neither moves the other. The chapter is hers and his, and this page does not retell it. Her own ground is stated there. She holds that Shepherd is owed the knowledge of what comes to the foot of her house, and she does not carry it up the hill herself: her face came into this mind by a telling, and to be believed she would have to describe what stands there. She does not claim that she can support that. She says only that she will not be the one who finds out ([None Admitted (S15E04C01)](/star-rangers/seasons/s15/e04/s15e04c01/)).
+
+She came down again on the third night after Shepherd went through. One of the things that come to the watch has Shepherd's voice, and of that one she judged that it was the only thing in the house that had not altered since. Tobble did not ask what she had said to Shepherd at her leave-taking, and she did not tell him. At first light that morning she saw somebody sitting on the unsettled ground past the low wall, who did not turn round. She knew whom she took her for and did not put it into words, and she told nobody, on the ground she had given before: she would not be the road a face came into the house by. The record does not say who was there ([None Seated (S15E06C02)](/star-rangers/seasons/s15/e06/s15e06c02/)).
 
 ## What the record does not hold
 
