@@ -923,8 +923,17 @@ subject turns to knowledge, where it misleads in both directions at once.
 - **"Disordered" is not a clinical category.** Nothing in the record may imply that a person with mental illness is less likely to be conserved. The test is whether a mind held together as itself, and illness does not decide that.
 - **Plural is not chaotic.** A plural system that holds together, as Tissadelle Shepherd's does, is coherent. Disorder here means a mind that never held together as an identity, not one that holds together as several.
 
+**Spiritual translation is the other half, and it does depend on virtue.** His words, the same day, verbatim: *"Spiritual translation does depend on virtue, merit and grace as seen and understood by Kieme"*. So the two halves differ in kind:
+- **Conservation** is universal, unelected and structural. Every coherent mind is kept at the Conceptual layer, by the degree of its coherence.
+- **Translation into the Spiritual layer** is Kieme's election alone. It depends on virtue, merit and grace **as Kieme sees and understands them**, which are not a measure anyone in the setting holds.
+
+What follows from that:
+- The record still states translation only as what *"many traditions hold"*, untestable and unfalsifiable from the Survey Corps' layers. Nothing in a chapter, a canon_fact or the Archive's voice may say that a named person was or was not translated, or why.
+- No character may know Kieme's judgement of another, and the record never ranks people by it.
+- In the church-space overlay, *grace* is read in generic Christian terms, as that thread's rule requires.
+- The clinical and plural guards above apply here too.
+
 **What it does not touch:**
-- Kieme's election into the Spiritual layer, a separate claim that the record neither tests nor falsifies.
 - The general resurrection, a partial mystery by his ruling.
 - The no-literal-reincarnation rule.
 - The shut mysteries.
