@@ -20,7 +20,7 @@ permalink: /seasons/s15/
   Season 15 returns to Tissadelle Shepherd's arc, and it keeps no year. Each chapter gives a season of the year and no more. Read <a href="/star-rangers/seasons/s05/">Seasons 5</a>, <a href="/star-rangers/seasons/s06/">6</a> and 7 first; this page says nothing about where the season goes.
 </p>
 <p class="page-intro">
-  Episode 1 is one afternoon watch on the boundary desk and the change of shift after it, and it reads on its own.
+  Episode 1 is one afternoon watch on the boundary desk and the change of shift after it. Episode 2 is one working day in the High Captain's office, in a deep winter. Each reads on its own.
 </p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (15 | threadForSeason).id }}/">{{ (15 | threadForSeason).name }}</a></p>
 
