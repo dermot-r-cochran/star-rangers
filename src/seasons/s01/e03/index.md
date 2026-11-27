@@ -15,7 +15,7 @@ permalink: /seasons/s01/e03/
 
 <h1 class="page-title">Season 1 · Episode 3</h1>
 <p class="page-intro">
-  Episode 3 is where the record should widen again—if the station, the witnesses, and the archive can still be trusted. Read every published chapter for this episode here.
+  Episode 3 goes back to the causeway in the late autumn of 2826 UCSD: Elvira asks Aldera the question the cat has waited three years for, the anchor in the grove is cut, and the station's forty seconds do not move. In early winter, after an evacuation on Pelagos Minor, a folk word Galahad last used in a garden twenty years before shows Elvira where her own phrase came from, and a station chronometer goes out to an outpost that has never kept one.
 </p>
 
 {% set seasonNumber = "1" %}
