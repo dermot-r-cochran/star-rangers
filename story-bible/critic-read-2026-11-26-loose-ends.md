@@ -70,13 +70,13 @@ Kept mysteries and the number arithmetic of the 20 November read were left alone
 7. **S02E03C03:** the codex working paper is not lodged in early spring 2827, because it postdates that. Only Barsik's one-sheet position is lodged.
 8. **S01E03C02:** *with nothing like it* asserts that Thorne's six earlier stations show no such offset.
 
-**Left as kept or unsure, for his call:**
+**Left as kept or unsure, for his call.** **RULED 27 November 2026** (his *"Yes, as recommended"*):
 
-- Smith's first station: five withheld mentions across S09–S10.
-- Why the team is on Pelagos Minor, inside Galahad's six-hour viewpoint.
-- The Membrane Shadow, named in S12 front matter but withheld in the prose.
-- Wender's mentor Asteria sharing a name with a member of Shepherd's system.
-- S14E05C01:129 *a season ago*.
+- **Smith's first station, five withheld mentions across S09–S10: kept.** Her page already holds it: one early valor citation *"from a posting the file covers in four lines"*, never expanded. If it is ever paid, it is a later Young Star Rangers season's to pay.
+- **Why the team is on Pelagos Minor: the gap is now marked inside Galahad's viewpoint.** The purpose stays unstated, as settled on 19 November. S01E03C04 adds, after its second paragraph: *"He had come down on a movement order with three names on it and a Survey Corps reference where a purpose would go, and nothing in the six hours that followed gave him time to wonder about the reference."*
+- **The Membrane Shadow in the S12 front matter: as designed.** The prose keeps Ferrant's not-naming, and the Archive beside it is open (the ruling of 20 September). The page is `known: specialist`, so the edition tiers decide who sees it.
+- **Asteria: deliberate.** The headmate *"is also called Asteria the Sage"*, as ruled, and has no line in any chapter, so a reader meets only Wender's mentor.
+- **S14E05C01:129, *a season ago*: correct.** It points at Went-Round's saying in S12E03, one survey year before.
 
 ## Owed to later episodes
 
