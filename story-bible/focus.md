@@ -87,6 +87,7 @@ Status for every line below: **approved 9 November 2026**.
 | s12 | below-the-roof | shapes that move no stone, seen from both sides, and a record kept of what nobody was there to settle |
 | s13 | five-islands | a young keeper learns to hold one record and finds the other record was always there too, and neither is made to yield |
 | s14 | below-the-roof | a telling is not yours until somebody has heard it, and the way to keep it is to hear it and write down only who did |
+| s15 | tissadelle-arc | an ending taken by the one whose it is: the count kept until it closes, leave taken properly, and the file shut on her order and on nobody's reading of her (approved 27 November 2026, his *"Yes, as recommended"*) |
 
 **Notes on the seasons.**
 - **s02.** The line covers the season's Undercover Pets chapters. Episodes 1 and 2
