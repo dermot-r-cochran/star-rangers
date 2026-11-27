@@ -57,7 +57,7 @@ Kept mysteries and the number arithmetic of the 20 November read were left alone
 
 ## Open decisions
 
-**The stones on the line (S11–S12).** S11E06C01 has each stone placed *"next to the last, about a hand off"*. S12E01C06 has the newest *"a hand from Stone-First's feet"*, and the older ones in a row. This is the same choice left open on 20 November (`critic-read-2026-11-20-whole-story.md`, *Needs his choice* 1 and 2). It was not touched.
+**The stones on the line (S11–S12).** S11E06C01 has each stone placed *"next to the last, about a hand off"*. S12E01C06 has the newest *"a hand from Stone-First's feet"*, and the older ones in a row. This is the same choice left open on 20 November (`critic-read-2026-11-20-whole-story.md`, *Needs his choice* 1 and 2). **RULED 27 November 2026** (his *"(a) The one moves along"*). The one on the line moves one stone along at every working time and stands at the row's end, so each stone lands beside the last and also a hand from the feet. *"a stone set for you is not yours to move, so it is you that moves"* is added at `s12e01c02.md:42`, and Aravena's *"It stands at the end now"* at `s11e06c01.md:115`. Nothing else changes.
 
 **New facts the repairs introduced, each his to overrule:**
 
