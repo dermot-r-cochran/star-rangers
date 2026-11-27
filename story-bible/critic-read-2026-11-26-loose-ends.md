@@ -59,7 +59,7 @@ Kept mysteries and the number arithmetic of the 20 November read were left alone
 
 **The stones on the line (S11–S12).** S11E06C01 has each stone placed *"next to the last, about a hand off"*. S12E01C06 has the newest *"a hand from Stone-First's feet"*, and the older ones in a row. This is the same choice left open on 20 November (`critic-read-2026-11-20-whole-story.md`, *Needs his choice* 1 and 2). **RULED 27 November 2026** (his *"(a) The one moves along"*). The one on the line moves one stone along at every working time and stands at the row's end, so each stone lands beside the last and also a hand from the feet. *"a stone set for you is not yours to move, so it is you that moves"* is added at `s12e01c02.md:42`, and Aravena's *"It stands at the end now"* at `s11e06c01.md:115`. Nothing else changes.
 
-**New facts the repairs introduced, each his to overrule:**
+**New facts the repairs introduced.** **RULED 27 November 2026** (his *"Yes, as recommended"*): all eight stand. The only change is to 6, which now reads *"The panel's still tagged against Hale's order, and the call still comes to nights."* Hale's tag (S06E04C01) reads *"Do not service against this order"*, his open order, so the crews' changes under new calls do not break it.
 
 1. **S05E06C02:** the *Fel Trohen* is at Threshold for the inspection review that week.
 2. **S07E07C02:** the approach is still shut in Deep Winter 2832, with the Chief Pilot's certification not given.
