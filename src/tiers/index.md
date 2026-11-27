@@ -152,7 +152,7 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
   <p class="thread-section__description">
     Adds the main sequence: the <a href="/star-rangers/threads/founding-era/">Founding
     Era</a>, Season 0, and <a href="/star-rangers/threads/tissadelle-arc/">Tissadelle
-    Shepherd's Arc</a>, Seasons 1, 3, 5, 6 and 7 — Cadet to Line Captain to the Last Stand
+    Shepherd's Arc</a>, Seasons 1, 3, 5, 6, 7 and 15 — Cadet to Line Captain to the Last Stand
     — together with the Lore, the Codex, the Atlas and the Timeline that sit behind it.
     The middle-aged carry this tier, and so do the other peoples.
   </p>

@@ -30,7 +30,7 @@ test("every registered thread gets a row, in registry order, with its seasons' c
     assert.ok(rows[i].startsWith(`| **${t.name}** |`), `${t.name} is row ${i}`);
   });
   const tissadelle = rows.find((r) => r.includes("Tissadelle Shepherd's Arc"));
-  assert.match(tissadelle, /\| 1, 3, 5–7 \| 27 \|/);
+  assert.match(tissadelle, /\| 1, 3, 5–7, 15 \| 27 \|/);
 });
 
 test("the authored column is kept by thread name, and a new thread falls back to the registry", () => {
