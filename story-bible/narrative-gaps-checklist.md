@@ -146,7 +146,13 @@ said 205 and seven (updated there the same day).
   2826 inquiry is closed with no offence (S04E07C02). His seven choices are
   ruled, as recommended (`intake-2026-11-27-s04e07.md`); the page updates
   are in `intake-2026-11-27-s04e07-pages.md`.
-- [ ] **Young Star Rangers** — Varn's reposting; one coda episode.
+- [x] **Young Star Rangers** — Varn's reposting; one coda episode.
+  Paid 27 November 2026 by S09E08 (S09E08C01 *The Same Day*, S09E08C02 *A
+  Different Walk*, #2181): in the early winter of 2828 the Corps posts Varn
+  on, still a Deputy Officer, to a watch that is not Eden's; Varn tells Noah
+  the same day, and the sixteenth Deputy knocks at the hatch (S09E08C02). His
+  seven choices are ruled, as recommended (`intake-2026-11-27-s09e08.md`);
+  the page updates are in `intake-2026-11-27-s09e08-pages.md`.
 - [ ] **Below the Roof** — the survey's last shift; a fourth season, last in
   order. His choice 9 is ruled (27 November): the survey leaves.
 - [ ] **Five Islands** — a crowning, entered three ways; one episode.
@@ -227,6 +233,12 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   public on the thread's intro and in the README synopsis.
 - [ ] **Lev Saunders joins the Rangers when older** — ruled 27 September;
   waits on a thread reaching about 2837.
+- [ ] **What Noah Adeyemi chooses in later life** — *"A gardener, botanist
+  or similar"* (Dermot, 27 November 2026, answering his own question while
+  the pages after S09E08 were written; `intake-2026-11-27-s09e08-pages.md`).
+  A future-canon waypoint. It waits on a chapter that reaches Noah's later
+  life. His page does not assert it until a chapter shows it: *What he does
+  next is not established* stands there.
 - [x] **The younger Shepherd as a Five-O guest** (2826) — licensed 3 September,
   used 4 October 2026 by S04E00C01 *What It Did Not Say*: her Deputy posting
   under Zoe Smith on Eden's fold-approach watch, late autumn 2826, Five-O on
