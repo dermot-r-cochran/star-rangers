@@ -227,6 +227,8 @@ Plurality — a single body hosting more than one person (headmates, or tulpas w
 4. The convergence point is decided before either strand is drafted, even if the season isn't fully written yet — see the "Established future-canon waypoints" and Season 6-7 treatment for examples of convergence points fixed well ahead of the prose.
 5. Convergence merges information or action, not necessarily the cast going forward — characters can separate again after the strands meet.
 
+**Above the threads — the cycle.** A **cycle** is the unit above the threads (Dermot, 27 November 2026, *"Cycle agreed"*): a group of interrelated threads and arcs on the same story engine and the same cosmic framework, so that a new cycle brings new characters, places or timelines. The term is borrowed from the Ulster and Fenian Cycles. It names structure only, and it does not mean that time repeats, because the Cascade is one-way. The eight threads published so far make up the first cycle. A cycle has no id and no registry entry and no engine consequence. *Saga* stays the name of Tissadelle's spine (*the shape of the saga*) and is never used for a thread or a cycle.
+
 ### The shape of the saga (Dermot's line, 21 September 2026; approved the same day)
 
 The spine, stated whole, in his fourteen beats and his order — verbatim in
