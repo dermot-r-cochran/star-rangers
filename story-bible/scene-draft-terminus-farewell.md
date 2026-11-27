@@ -1,8 +1,11 @@
 # Scene draft — the terminus farewell
 
-**Status: draft, unpublished, story-bible only.** Not a chapter file, no front
-matter, no `comment_id`. It stays out of `src/` until Dermot decides where —
-and whether — it belongs.
+**Status: published as S15E05C01, *None to Correct*, 27 November 2026**
+(`src/seasons/s15/e05/s15e05c01.md`), placed word for word as one chapter in
+two scenes by his ruling of the same day (choice 6 of
+`thread-completion-2026-11-27.md`; the title is his). The chapter is now the
+text of record. This file is kept as the approved draft and its notes, and is
+no longer edited; `intake-2026-11-27-s15e05.md` records the placing.
 
 **Timing deliberately unfixed.** After `s07e01c03` by an interval the draft
 does not number — that chapter has her holding "for as long as she could hold
