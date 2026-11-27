@@ -944,3 +944,16 @@ What follows from that:
 - The shut mysteries.
 
 **Where it shows.** Story bible only, until a chapter shows it. The public glossary page is unchanged. It agrees with what is already on the page: what feeds on ambiguity (the Obligers' residue, the shadow-seed Rook-7 filed as *non-viable*) is the opposite of a mind that holds.
+
+## Folk devils: popular names for what is not Unfounded (Dermot, 27 November 2026)
+
+**His words, verbatim:** *"A membrane shadow or incursive could be labelled as a Devil or Dark Lord in popular culture without actually being one of the Unfounded"*.
+
+**What it settles.** Popular culture inside the setting may call a Membrane Shadow, or anything that intrudes across a membrane, a *Devil* or a *Dark Lord*. The name says what people feared, not what the thing is. A Membrane Shadow is the imprint of a real mass in a neighbouring universe, usually a living being, and nothing crosses (`src/glossary/membrane-shadow.md`). The being that casts it belongs to no class by being seen. In particular it is not Unfounded unless it is one, which is a separate classification by feeding method.
+
+**How it sits with the published refusal.** *What the Record Refuses* curtails the dark lord in the Archive's own voice: predators are *"classified by sapience and feeding method… not by allegiance to evil"*. This ruling keeps that, and adds the folk side. The setting's people may still say *Devil* and *Dark Lord*, and the record may report them saying it. The same rule renamed the Archive's *Demons* to *Overbearers* in 2026-09 while leaving older and folk usage standing.
+
+**Guards:**
+- **The Archive never adopts the folk name as a class.** It quotes it as somebody's word, with the class or *unclassified* beside it.
+- **The label is not a verdict.** A being called a Devil is not thereby evil, Unfounded or hostile. Nor is it thereby harmless: the label is simply silent on what it is.
+- **Nothing crosses because a name was given.** The Membrane Shadow page's *nothing crosses over* stands. An intrusion that does cross is its own case and needs its own ground.
