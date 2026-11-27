@@ -908,3 +908,25 @@ converts into authority over every question — which is the same intuition as
 **Usable summary.** Take the analogy for the *shape* of authority — scoped,
 non-overruling, escalating rather than adjudicating — and drop it the moment the
 subject turns to knowledge, where it misleads in both directions at once.
+
+## Conservation: coherence is the threshold, not virtue (Dermot, 27 November 2026)
+
+**His words, verbatim, two messages:** *"While overly simplistic to classify people as entirely good or entirely bad, a disordered chaotic mind would be much less likely to persist intact after the death of a physical body"*, then *"Virtue, if genuine, implies coherence"*. He approved recording them with the two guards below (*"Yes, record it"*).
+
+**What it clarifies.** `src/glossary/conceptual-conservation.md` already conserves *"no coherent mind is lost"*, with *"Every mind is kept alike, whatever it achieved"*. The ruling makes three points explicit:
+
+1. **The test is coherence.** What is kept intact depends on whether a mind held together as an identity. That is a fact about structure, never a verdict on worth. People are not sorted into good and bad.
+2. **Coherence comes in degrees.** The page treats "coherent" as yes or no. The ruling adds degree: a mind that never held together has less structure to keep, so less of it is kept whole. This extends the page and moves nothing on it.
+3. **Virtue reaches conservation only through coherence, and only in one direction.** Genuine virtue implies coherence. Coherence does not imply virtue: a coherent mind that did harm is still kept, as *"whatever it achieved"* says. Counterfeit virtue, a performance with nothing holding it together, earns nothing here. That is the same distinction the record draws against the Obligers, who present as obliging.
+
+**Two guards, part of the ruling:**
+- **"Disordered" is not a clinical category.** Nothing in the record may imply that a person with mental illness is less likely to be conserved. The test is whether a mind held together as itself, and illness does not decide that.
+- **Plural is not chaotic.** A plural system that holds together, as Tissadelle Shepherd's does, is coherent. Disorder here means a mind that never held together as an identity, not one that holds together as several.
+
+**What it does not touch:**
+- Kieme's election into the Spiritual layer, a separate claim that the record neither tests nor falsifies.
+- The general resurrection, a partial mystery by his ruling.
+- The no-literal-reincarnation rule.
+- The shut mysteries.
+
+**Where it shows.** Story bible only, until a chapter shows it. The public glossary page is unchanged. It agrees with what is already on the page: what feeds on ambiguity (the Obligers' residue, the shadow-seed Rook-7 filed as *non-viable*) is the opposite of a mind that holds.
