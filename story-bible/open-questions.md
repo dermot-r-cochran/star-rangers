@@ -134,6 +134,24 @@ stand.
 
 ---
 
+## Thread completion — `thread-completion-2026-11-27.md`, 27 November 2026 — eleven choices, all RULED 27 November 2026 as recommended
+
+His words: *"Yes Option 1 - completion of each saga"*, read as each of the eight threads, Tissadelle's first. The note maps where each thread's arc ends and what is owed, proposes one closing piece per thread, and outlines a completion season for the Tissadelle arc that places the approved terminus farewell and *You're Up Early* word for word. Nothing is drafted. **RULED 27 November 2026**, his words: *"Yes, as recommended"*. Every choice below is settled on its recommended option, (a) throughout. The proposed focus line for Season 15 is not among them and stays *proposed*. The choices as put, in the note's own numbering:
+
+1. The slot: a new Season 15 (recommended) or Season 7 continued.
+2. Years in the completion season: none in any timestamp (recommended), or dated.
+3. Its tier: general by registration, the avatar's block alone contemplative (recommended), or gated.
+4. When *the shape of the saga* goes public: with the season's last episode (recommended), with the terminus chapter, or never.
+5. The terminus mechanism: stays unwritten (recommended), or a chapter of his states one. Flagged, not decided.
+6. The farewell as one chapter in two scenes (recommended) or two chapters, and its title.
+7. The siege in this season, with the member Asteria's first lines (recommended), or held.
+8. Seasons 1 and 3's owed items: left to their own casts (recommended), or planned beside.
+9. Below the Roof: whether the survey leaves (recommended: yes, a fourth season, last in order).
+10. A coda episode after a finale (recommended) or a short season each.
+11. The order of the other seven threads.
+
+Also his, named in the note and put in each chapter's PR when drafted: what the Council did; whether Rook-7's prediction held; what a glossed page looks like and whether the book has a title; what Tobble sees the counterfeit do; what Kane does with the sheet; who the avatar ministers to; where Varn is sent; and a proposed focus line for the season, not yet in `focus.md`.
+
 ## Critic read of #2151 to #2157 — 27 November 2026, on Fable — three points OPEN, each with a recommendation
 
 A Benevolent Critic read of the five pull requests merged since the last read (#2150): #2151 (the ruling on the read of #2132 to #2146), #2152 (the Pandoids lore page), #2153 (*The Shade at the Field's Edge*), #2156 (Pandoids and shadows) and #2157 (the extractor's row). #2155 is the release of 1.81.0 and #2154 is open and waits on him; neither was read. Every date, age, count and quotation was worked against the pages and chapters it rests on, and the leaf and the Pandoids page were read on a local build of the default edition.
