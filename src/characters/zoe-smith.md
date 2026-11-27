@@ -32,6 +32,8 @@ The fifteenth is [Iklix Varn](/star-rangers/characters/iklix-varn/), handed to h
 
 On the thirtieth day she said two things aloud that she had said to none of the fourteen before. She told Varn, "You moved the step." And asked what the account of Aoife is for, she said she does not know and was never told, and that it is handed across the desk as a question and not an answer ([Stand Where You Like (S09E01C05)](/star-rangers/seasons/s09/e01/s09e01c05/)).
 
+In the early winter of 2828 the Corps posted the fifteenth on, still a Deputy Officer. She read the order before the Deputy did, as a Field Officer does; it was the fifteenth such leaf to cross a desk of hers, on the form the others had come on ([The Same Day (S09E08C01)](/star-rangers/seasons/s09/e08/s09e08c01/)). Some days after Varn left, a sixteenth Deputy knocked at the hatch, and the record does not carry the name. She told the sixteenth, as she had told the fifteen, that the event has not come in her tenure, and ended on *Stand where you like* ([A Different Walk (S09E08C02)](/star-rangers/seasons/s09/e08/s09e08c02/)).
+
 ## Character Notes
 
 Promotion boards have noted her ready for [Senior](/star-rangers/lore/star-rangers-command-hierarchy/) more than once. Her reply is in the file each time, in the house style: a request to finish the posting she is on. No board has yet recorded the obvious reading — that she reached the rank the whole ladder exists to produce and found it was the job she wanted, and that everything above it is, on her accounting, in service of it. She would not dispute the reading. She has simply never volunteered it, on the usual grounds.

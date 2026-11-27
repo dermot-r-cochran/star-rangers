@@ -134,6 +134,10 @@ stand.
 
 ---
 
+## S09E08, Varn's reposting — `intake-2026-11-27-s09e08.md`, 27 November 2026 — merged as #2181; seven choices, all RULED 27 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 7 carry six choices OPEN in `intake-2026-11-27-s09e08-pages.md`
+
+Two chapters, *The Same Day* and *A Different Walk*, a coda to Young Star Rangers. Choice 1 is where Varn is sent: a watch that is not Eden's, on a station the prose does not name. The others are the sixteenth Deputy's name (none), how far the story is paid (not told), Smith's last word, Noah's *Iklix* to the tab, the titles, and the page updates. The pages of Iklix Varn, Zoe Smith and Noah Adeyemi are extended in their own pull request, with six choices for him, each with a recommendation.
+
 ## S04E07, the end of the Threnody matter — `intake-2026-11-27-s04e07.md`, 27 November 2026 — merged as #2179; seven choices, all RULED 27 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 7 carry eight choices OPEN in `intake-2026-11-27-s04e07-pages.md`
 
 Two chapters, *Not Shown* and *Struck Late*. Choice 1 is the fact the piece turns on, what the Threnody result says: drafted as *nothing was taken*, with the stamp struck late by Halcyon's stores when they were asked. The others are why it took two years, Eden owing Antariksha a stamp, the pets' blocks, one line of Barsik's, the titles, and the page updates that wait on his ruling.
@@ -484,7 +488,7 @@ Left open by the drafts, for later chapters to respect, none needing a ruling no
 
 1. **Season 8: the letter Fintan sends in *Anything to Go*.** Its addressee, contents and any reply are unrecorded. Recommended (applied): unnamed until a chapter needs it.
 2. **Season 14: Ferrant's continued attendance** after *Returned Unopened* is pending her side's answer.
-3. **Season 9: when the Corps posts Varn on** is open; the finale says Varn will tell Noah the day it happens.
+3. ~~**Season 9: when the Corps posts Varn on** is open; the finale says Varn will tell Noah the day it happens.~~ **ANSWERED 27 November 2026** by S09E08 (#2181): the early winter of 2828, by one printed leaf that gives no reason, to a watch that is not Eden's; Varn tells Noah at the hour of the same shift (S09E08C01). The station's name is not carried, by his ruling on choice 1 of `intake-2026-11-27-s09e08.md`.
 4. **Season 13: the name** Wren climbs for stays unheard; the door stays open, and the instrument stays off both records.
 5. **Seasons 1, 2, 4, 5 and 8 stay open**, with no finale; the next episode of each is unwritten.
 6. **The 79 chapters have no picture yet.** Their prompts were written the same day (`images.md` §§ 94 to 108, Fable, reviewed by Opus; none needed a physics prompt); generating them is a desktop step. Each section's *Left for Dermot's eye* names the picture choices he has not seen, chiefly the first picture of the Serephine closed form (§ 99), Fliade's surface (§ 105) and the survey station's inside (§ 106).
