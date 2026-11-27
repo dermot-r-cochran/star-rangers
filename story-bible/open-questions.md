@@ -134,9 +134,9 @@ stand.
 
 ---
 
-## Thread completion — `thread-completion-2026-11-27.md`, 27 November 2026 — eleven choices OPEN, each with a recommendation
+## Thread completion — `thread-completion-2026-11-27.md`, 27 November 2026 — eleven choices, all RULED 27 November 2026 as recommended
 
-His words: *"Yes Option 1 - completion of each saga"*, read as each of the eight threads, Tissadelle's first. The note maps where each thread's arc ends and what is owed, proposes one closing piece per thread, and outlines a completion season for the Tissadelle arc that places the approved terminus farewell and *You're Up Early* word for word. Nothing is drafted. Open, all his, in the note's own numbering:
+His words: *"Yes Option 1 - completion of each saga"*, read as each of the eight threads, Tissadelle's first. The note maps where each thread's arc ends and what is owed, proposes one closing piece per thread, and outlines a completion season for the Tissadelle arc that places the approved terminus farewell and *You're Up Early* word for word. Nothing is drafted. **RULED 27 November 2026**, his words: *"Yes, as recommended"*. Every choice below is settled on its recommended option, (a) throughout. The proposed focus line for Season 15 is not among them and stays *proposed*. The choices as put, in the note's own numbering:
 
 1. The slot: a new Season 15 (recommended) or Season 7 continued.
 2. Years in the completion season: none in any timestamp (recommended), or dated.

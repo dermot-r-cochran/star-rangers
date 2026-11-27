@@ -128,7 +128,7 @@ saga"*, read as each of the eight threads, Tissadelle's first). The map and the
 plan are in `thread-completion-2026-11-27.md`: for each thread, where its arc
 ends, what is owed, and the one piece that would close it; for the Tissadelle
 arc, a seven-episode outline that places the two approved drafts below; and
-eleven choices for him. Nothing is drafted, and nothing under `src/` moves.
+eleven choices for him, all ruled as recommended the same day (*"Yes, as recommended"*): Season 15, no year in its timestamps, general tier, the mechanism unwritten, the other threads in debt order with Below the Roof's fourth season last. Nothing is drafted yet, and nothing under `src/` moves.
 **Counted from `origin/main` at `49481de5` for that note: 206 chapter files**,
 Season 8 holding eight, where the 23 November line at the head of this file
 says 205 and seven.

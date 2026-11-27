@@ -245,7 +245,7 @@ Each goes in its chapter's PR as a choice.
 
 ## Choices for him
 
-Each has a recommendation and its basis. None is taken by this note.
+Each has a recommendation and its basis. **RULED 27 November 2026**, his words: *"Yes, as recommended"*. Every choice below is settled on its recommended option, (a) throughout. The proposed focus line for Season 15 is not among them and stays *proposed*.
 
 1. **The slot for the Tissadelle completion.**
    - (a) A new Season 15 on `tissadelle-arc`, seven episodes, as outlined. **Recommended.**
