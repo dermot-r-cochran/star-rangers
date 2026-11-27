@@ -23,6 +23,9 @@ permalink: /seasons/s09/
 <p class="page-intro">
   Episodes 2 to 7 follow the Deputy through the rest of 2828: a first evening off the corridor in a borrowed shirt; a full can at a wet plant; one shift under a relieving officer with the hatch shut; one of the fourteen back with a child's question about the well; a light that changes colour for ninety seconds and is logged as what happened; and, on the season's last evening, a stranger who asks the way.
 </p>
+<p class="page-intro">
+  Episode 8 is a coda, in the early winter of the same year. The Corps says where the Deputy goes next, on one printed leaf, and somebody at the door after the hatch is told the same day. After that the corridor hears a different walk at the hour.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (9 | threadForSeason).id }}/">{{ (9 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "9" %}
