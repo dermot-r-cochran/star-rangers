@@ -81,6 +81,8 @@ Four sentences go a step past restating a chapter's fact. Each was held to the f
 
 ## Choices for him
 
+**RULED 27 November 2026**, his words: *"Yes, both"*; all 6 settled on (a), as drafted.
+
 Six. Each has a recommendation and its basis. Where a choice is already placed, the other option is a one-line change.
 
 1. **Varn's `role` line.**
