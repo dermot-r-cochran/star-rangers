@@ -151,11 +151,13 @@ said 205 and seven (updated there the same day).
 Finished prose in the story-bible waiting for a slot; each stays out of
 `src/` until one is chosen.
 
-- [ ] **The terminus farewell** (`scene-draft-terminus-farewell.md`) — after
-  `s07e01c03` by an interval deliberately unfixed. Slotting it unlocks the
-  next.
+- [x] **The terminus farewell** (`scene-draft-terminus-farewell.md`) — slotted
+  27 November 2026 as S15E05C01, *None to Correct*, word for word, one chapter
+  in two scenes (`intake-2026-11-27-s15e05.md`). The interval stays
+  unnumbered.
 - [ ] ***You're Up Early*** (`scene-draft-youre-up-early.md`) — the shadow at
-  the edge of Tobble's universe; sits after the terminus, so waits on it.
+  the edge of Tobble's universe; sits after the terminus. Unblocked by the
+  slotting above; its slot is S15E07, after the founding episode (E06).
 - [ ] **Elvira's dream** (`scene-draft-elviras-dream.md`) — at the causeway,
   after Aldera's arrival; slot unfixed, five readings flagged.
 - [ ] ***One Warmth in the Room*** (`scene-draft-one-warmth-in-the-room.md`) —
