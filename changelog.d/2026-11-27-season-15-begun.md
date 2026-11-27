@@ -1,0 +1,3 @@
+### Added
+
+- **Season 15 begun: *None Put* (S15E01C01)** (`src/seasons/s15/`, `lib/storyline-threads.js`, `src/threads/tissadelle-arc/index.md`, `src/tiers/index.md`, `story-bible/intake-2026-11-27-s15e01.md`, 2026-11-27, Fable). The first new chapter of the Tissadelle arc's completion season, on the plan Dermot ruled the same day (`story-bible/thread-completion-2026-11-27.md`). Season 15 is registered on `tissadelle-arc` and gets its season and episode pages. The chapter is one afternoon watch on Threshold Station's boundary desk in a later year, from Toval and Syra, and its timestamp carries a season of the year and no year. It has no image.
