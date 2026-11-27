@@ -1,0 +1,3 @@
+### Changed
+
+- **The character pages after Season 15** (`src/characters/`: Tissadelle Shepherd, Tobble, Karla Wender, Galen Kane, the member Asteria, Rook-7, Sen Lovax, Cael, Wyn, Syra, Toval, Emeka Lindahl, Órla Shepherd; `story-bible/intake-2026-11-27-s15-characters.md`, 2026-11-27, Fable). Shepherd's status is now *Active — until the Dock Seven file was closed complete, at her own order; elsewhere since*: his ruling of the same day, in the existing vocabulary, with no engine change. Each page gains what the season's chapters show of its character, cited to the chapter, and nothing they leave open. The page of Asteria Wessex was checked and not changed. Twelve choices are open for him in the intake.

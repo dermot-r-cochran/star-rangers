@@ -33,6 +33,14 @@ Nothing about the chassis explains this. Threshold Station's own management arch
 
 Its current limitation is timing. It can identify the conditions for boundary events and predatory-entity feeding. It cannot yet predict when the feeding will escalate.
 
+## The Dock Seven Line
+
+The arrays cannot be certified, since no maker's specification is held, and the station registry lists a standard suite and holds no fitting record. On the day the Oversight Council's reply to the account of Dock Seven came, in the deep winter of 2831 UCSD, Rook-7 logged a prediction: that the Council's next letter would ask who made them ([Placed on File (S07E02C01)](/star-rangers/seasons/s07/e02/s07e02c01/)). The next letter came in a later deep winter, which the record does not number, and asked about a date. Rook-7 entered that the prediction did not hold, lowered again the weight it gives its own predictions about the Council, and entered the direction of the error beside it: both times it had expected the room to go further than its document required. High Captain Wender did not put the question either ([None Held (S15E02C01)](/star-rangers/seasons/s15/e02/s15e02c01/)).
+
+At each change of shift it stands at the end of the boundary desk and gives the arrays' column for the Dock Seven line ([None Put (S15E01C01)](/star-rangers/seasons/s15/e01/s15e01c01/)). The final phrasing that closed the file came through its arrays at four in the station's morning, and under it Rook-7 logged a cadence as structured and non-informational ([None to Correct (S15E05C01)](/star-rangers/seasons/s15/e05/s15e05c01/)). From the next change of shift the column read *No variation. No invariant. Nothing addressed. None detected.* The arrays stay on by order, and at the Analyst's wish it gives the column in full each time ([None Further (S15E06C01)](/star-rangers/seasons/s15/e06/s15e06c01/)).
+
+Later, at an interval the record does not number, the arrays took a second signal at the founding site. Rook-7 wrote the note and brought it to the High Captain in person and not by routing: *Founding site, secondary signature. Structured, repeated, addressed. Consistent with operational constraint three: shadow-seed presumptive, non-viable. Local disturbance only. Jurisdiction Telearch; no action within station scope.* She initialled it. The note states a presumption, and the record does not say what the signal is ([You're Up Early (S15E07C01)](/star-rangers/seasons/s15/e07/s15e07c01/)).
+
 ## Role in the Team
 
 Rook-7 provides continuous field logging, anomaly flagging, and predictive analysis. It draws conclusions and labels them as hypotheses until they are confirmed.

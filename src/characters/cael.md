@@ -25,6 +25,8 @@ Cael goes first. On the Shepherd submission to the inquiry, in Late Autumn 2831 
 
 In Deep Winter 2831 UCSD, when the signal at Dock Seven was set beside the record, Cael knew the Union land-survey frame on sight, because the desk had set it beside a Ranger marker once before and Cael does not forget an entry, and then searched the whole shelf for three lines it did not hold. Cael checked the absence twice. The second answer did not change ([Enough Is Enough (S07E01C03)](/star-rangers/seasons/s07/e01/s07e01c03/)).
 
+On the closed Dock Seven file, in a later autumn that the record does not number, Cael went first again. Cael verified the final phrasing on the arrays' log, and that the account in it is the account in the binder, mark for mark, and said that the desk had not confirmed the arrays. Cael had the boundary manual down, found that the logged founding profile agrees with its plate at every point the plate gives, and added that nobody on the station had seen one, so nobody on the station could say the plate is right. It was Cael who saw what the boundary desk's entry at 0600 was worth: the certified instruments, which had filed the signal as noise for the whole life of the file, could no longer find the place, and so the closing sentence had one leg that is not the arrays. Cael had the count of entries on the Dock Seven line, and did not give it ([None Further (S15E06C01)](/star-rangers/seasons/s15/e06/s15e06c01/)).
+
 ## In Cael's own words
 
 Where the record gives Cael's words, they come as short declaratives, one finding to each. The same day, Cael dictated the first half of the desk's note on the account, ending it *End.*, and Sen's hand kept up ([Not Under a Name (S07E01C04)](/star-rangers/seasons/s07/e01/s07e01c04/)).

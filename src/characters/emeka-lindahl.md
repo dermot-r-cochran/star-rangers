@@ -19,6 +19,8 @@ When a post's Starwarden goes up, the post passes to its Chief Ranger pending th
 ## Known History
 
 - **2829 UCSD, Late Autumn:** handed the post to Starwarden [Tissadelle Shepherd](/star-rangers/characters/tissadelle-shepherd/), her first command. She assumed it by one line in the log and did not sign *received as stated* under his initial on the state sheet. He told her how the line office would read the blank, sent the sheet up as she asked, and had it back in eighteen hours with the Line Captain's initial and no query. She took the middle watch from the first night and changed nothing on his bill ([On Assumption (S03E03C02)](/star-rangers/seasons/s03/e03/s03e03c02/)).
+- **2831 UCSD, Mid-Autumn:** still Chief of the post, under another Starwarden, when the line's notice of Dock Seven reached it. He sent the notice on as it stood, in clear and in his own name and rank, to [Chief Ranger Galen Kane](/star-rangers/characters/galen-kane/) of the Frontier Corps, whose office answered to nobody on that line. He wrote nothing to her, and the post did not write after her ([As It Stands (S06E00C01)](/star-rangers/seasons/s06/e00/s06e00c01/)).
+- **A later autumn, which the record does not number:** still Chief of the post when the closure of the Dock Seven file came down the line. He sent it on to Kane as it had reached the post, with nothing changed, and without knowing whether Kane's office had since been put on the line's distribution. Kane acknowledged it in the three words he had used before: *received as sent* ([None Further (S15E06C01)](/star-rangers/seasons/s15/e06/s15e06c01/)).
 
 ## Character Notes
 

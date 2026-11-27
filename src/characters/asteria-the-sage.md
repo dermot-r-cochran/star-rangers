@@ -22,6 +22,8 @@ She was about a hundred years old when she did it, which is late by any standard
 
 The ordinary route she did not take is worth naming, because it was closed rather than declined. Most Rangers who want to stay useful to a world after active service transfer to the [Liaison Corps](/star-rangers/lore/planetary-liaisons-and-recruiters/) and hold a planetary representative's posting. Its senior post is **Chief Liaison Officer**, and an officer leaving at Star Captain — or at High Captain, the rung above — is over-ranked for a Chief's berth. The Corps does not invent a larger title to accommodate a large career. So the third path, which absorbs a great many Rangers, is simply not available at the top of the ladder, and what a departing flag-tier officer does next is her own affair.
 
+Distinct from [Asteria](/star-rangers/characters/asteria-headmate/), a member of Tissadelle Shepherd's plural system, who has this woman's face as a younger woman, from Karla Wender's telling. The two never met, and the member has never answered to this surname ([None Admitted (S15E04C01)](/star-rangers/seasons/s15/e04/s15e04c01/)).
+
 ## The Two She Taught
 
 Asteria's mentorships bracket her retirement, one on either side, and neither was ever an assignment.
