@@ -8,6 +8,7 @@ plain: "The Orbital Habitats Compact is the civil government of five self-govern
 known: common
 image: "orbital-habitats-compact.jpg"
 image_alt: "Designed cover for the Orbital Habitats Compact: concentric blue rings forming a civil-governance emblem, on a dark background."
+revised_by: [s04e07c01, s04e07c02]
 ---
 
 Five self-governing orbital habitats in near-Earth space, from high Earth orbit out to Eden at the Earth–Sun L2 point, answer to one Governor and one compact for civil administration purposes. That jurisdiction line has nothing to do with the Star Rangers' charter-limited authority and does not overlap it. [Rangers have no authority inside self-governing orbital habitats](/star-rangers/lore/military-space-command/) at all. The Compact is the government that fills that space, for the ordinary business of running an inhabited habitat, on every day nothing charter-relevant is happening.

@@ -86,6 +86,8 @@ Three sentences go a step past restating a chapter's fact. Each was held to the 
 
 ## Choices for him
 
+**RULED 27 November 2026**, his words: *"Yes, as recommended"*; all eight settled on the recommendation. Choice 1 is now placed: `revised_by: [s04e07c01, s04e07c02]` on the Compact and Antariksha pages.
+
 Eight. Each has a recommendation and its basis. Where a choice is already placed, the other option is a one-line revert.
 
 1. **`revised_by` on the two lore pages.** Both were revised after these chapters, which is what the field records.
