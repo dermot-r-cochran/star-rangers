@@ -1,3 +1,0 @@
-### Added
-
-- **Season 9, Episode 8: *The Same Day* and *A Different Walk* (S09E08C01 and C02), a coda to the Young Star Rangers thread** (`src/seasons/s09/e08/`, `src/seasons/s09/index.md`, `story-bible/intake-2026-11-27-s09e08.md`, 2026-11-27, Fable, drafted on his *"Yes, start it"* under section 5 of `thread-completion-2026-11-27.md`). In the early winter of 2828 the Corps posts Deputy Officer Varn on, by one printed leaf that gives no reason; Varn tells Noah Adeyemi the same day, stands a last shift, and leaves the ring still a Deputy. Some days later the sixteenth Deputy knocks at the hatch. The episode is marked as a coda in its intro. No image. **Held, not merged:** where Varn is sent is his, and the intake carries it as the first of seven choices.
