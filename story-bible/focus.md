@@ -27,8 +27,12 @@ colour palette (`THEME`, `src/css/theme-*.css`), and *core theme* names the musi
 - A season's line sits inside its thread's line. A strand's line is that strand's
   angle on its season's line.
 - The file stays unpublished. A line may lean on canon that a page should not
-  pre-tell. No line quotes *the shape of the saga*, whose last four beats wait
-  for the terminus to be published.
+  pre-tell. No line quotes *the shape of the saga*. Its last four beats are
+  published now: Season 15 carries them, and its last episode (S15E07C01,
+  27 November 2026) put the line on the thread's intro and in the README
+  synopsis, by his ruling of the same day (choice 4 of
+  `thread-completion-2026-11-27.md`). The lines here still point to it and do
+  not quote it.
 - **Lines change only at Dermot's word.** A proposed line is marked *proposed*
   until he approves it. A new unit gets its line proposed when it is registered,
   or when its first chapter is drafted.
