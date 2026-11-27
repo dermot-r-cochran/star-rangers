@@ -66,7 +66,7 @@ The doctrine is that nothing stays on the surface that the planet would keep if 
 
 ### 2. The instrument walks downward
 
-The herds range the surface plains **and the upper cavern levels**. The [Pandoids](/star-rangers/lore/planets/fliade/) hold the deep networks. Where the upper levels stop and the deep networks begin is not surveyed, is not going to be surveyed, and cannot be, because surveying it means going down there — which is the thing this survey has spent its entire window declining to do.
+The herds range the surface plains **and the upper cavern levels**. The [Pandoids](/star-rangers/lore/pandoids/) hold the deep networks. Where the upper levels stop and the deep networks begin is not surveyed, is not going to be surveyed, and cannot be, because surveying it means going down there — which is the thing this survey has spent its entire window declining to do.
 
 So state plainly what the programme does. It carries a recording instrument an unknown distance toward a people who were never asked, aboard an animal nobody can recall, on a schedule set by the animal.
 
