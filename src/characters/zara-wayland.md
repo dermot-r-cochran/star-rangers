@@ -22,4 +22,8 @@ She reads Eden's compliance-framework filings with more patience than the MSC's 
 
 Wayland has met [Agent Barsik](/star-rangers/characters/agent-barsik/) exactly as often as her office's records show — which is to say, on paper, almost never. She has never asked Oyelaran a direct question about the station-mascot livestock line item, and has noticed, the same way Oyelaran has, that not asking has never once cost her anything she needed to know.
 
+## A Stamp Eden Owed
+
+In the summer of 2828 UCSD Eden's stores signed in six cases of lamp tube from [Antariksha](/star-rangers/lore/antariksha/), on a leg Wayland's office had asked for. Antariksha's form for them lacked its last stamp. When the task force wrote to all five Commissioners that autumn, her office answered the day after Halcyon's that Eden's stores held the cases. Her note said that the stores had not known anyone was waiting on a stamp: a habitat is shown the freight that arrives, and not the form it left on ([Not Shown (S04E07C01)](/star-rangers/seasons/s04/e07/s04e07c01/)). The keeper of Eden's stores struck the stamp on a note from the Commissioner's office ([Struck Late (S04E07C02)](/star-rangers/seasons/s04/e07/s04e07c02/)).
+
 See also: [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [Mayor Imogen Petrakis](/star-rangers/characters/imogen-petrakis/), [Chief Commissioner Dorian Calloway](/star-rangers/characters/dorian-calloway/), [The Orbital Habitats Compact](/star-rangers/lore/orbital-habitats-compact/), [The Ring-Rail](/star-rangers/lore/eden-ring-rail/).
