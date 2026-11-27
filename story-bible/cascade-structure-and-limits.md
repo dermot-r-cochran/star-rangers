@@ -933,6 +933,11 @@ What follows from that:
 - In the church-space overlay, *grace* is read in generic Christian terms, as that thread's rule requires.
 - The clinical and plural guards above apply here too.
 
+**Evil and the Unfounded.** His words, the same day, verbatim: *"A person who behaves in evil ways is probably already strongly attached to the Unfounded"*. It is a tendency (*probably*), not a law, and it fits the published class. Per `src/glossary/unfounded.md`, nobody can strike a bargain with one, and *"The way to stop one is not to feed it."* An attachment is fed, and a person feeds it by their own conduct over time. It also joins the conservation ruling above. What the Unfounded leave behind, the Obligers' *"value drift"* and *"faint loop of obsession"*, wears a mind's coherence down. So a strong attachment tends to leave less of a mind to be kept intact. That is a consequence, never a sentence passed. Three guards:
+- **Not an excuse.** The attachment is fed by the person's own conduct, and the way out is the published one: stop feeding it. No page may present an evil act as the Unfounded's act instead of the person's.
+- **Not the converse.** Being preyed on is not being attached. A person an Obliger works on, or who carries its residue, is not thereby evil, and no page may read them as such.
+- **No verdict from outside.** As with Kieme's judgement, the record shows conduct and what it did. It never diagnoses a named person as attached in the Archive's own voice, and it never ranks people by it.
+
 **What it does not touch:**
 - The general resurrection, a partial mystery by his ruling.
 - The no-literal-reincarnation rule.
