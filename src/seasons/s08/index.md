@@ -21,6 +21,9 @@ permalink: /seasons/s08/
 <p class="page-intro">
   Episode 1 keeps one night's watch beside a hive gone a half-tone wrong, and the morning after, when the first frost reaches the stand before the Keeper does. Episodes 3 to 7 follow the Keeper of Cnoc na mBeach through a year: the uniting of a failed hive, a swarm on the day a cadet walks up the hill, the other house answering for a kind sentence that went down the hill without its weight, rendering week and the one thing the bees were never told, and a carrier who asks whether there is anything to go, when this time there is.
 </p>
+<p class="page-intro">
+  Episode 8 is a coda, in the early spring of 2829. The first warm day comes, the hive that wintered on sugar is opened, and the carrier brings up the hill what the spring brought back.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (8 | threadForSeason).id }}/">{{ (8 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "8" %}

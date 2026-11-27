@@ -1,0 +1,3 @@
+### Added
+
+- **Season 8, Episode 8: *If There's Anything* (S08E08C01), a coda to the Church Space thread** (`src/seasons/s08/e08/`, `src/seasons/s08/index.md`, `story-bible/intake-2026-11-27-s08e08.md`, 2026-11-27, Fable, drafted on his *"Yes, start it"* under section 8 of `thread-completion-2026-11-27.md`). In the early spring of 2829 the Keeper opens the hive he fed through the frost, and the carrier brings up the hill what came back for the letter of the late autumn. The episode is marked as a coda in its intro. It has no `canon_facts` and no image, and it sits inside the thread's contemplative tier gate by its season and its `threadId`. **Held, not merged:** what the spring brings back is his, and the intake carries it as the first of six choices.
