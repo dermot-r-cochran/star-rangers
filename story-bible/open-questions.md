@@ -7782,6 +7782,7 @@ siege below the questing layer*. **Still open:**
   such a POV block on the contemplative rung, as *Asteria's Night* already
   does with her counsel block (`tier: "contemplative"`). Nothing is drafted.
 - What Tobble sees the counterfeit do, the tells, beyond wearing her face.
+- **DRAFTED 27 November 2026 on Fable as S15E04C01 *None Admitted*** (`intake-2026-11-27-s15e04.md`), the part of the siege before the founding, from Tobble and the member Asteria (POV id `asteria-headmate`). Thirteen choices OPEN for him there, the tells among them (choice 1) and Asteria's own ground (choice 6). The chapter names no class and no mode.
 
 ## Aoife the slave girl, champion and prophet of a hidden Fellowship — `intake-2026-09-27.md` — RULED same day
 
