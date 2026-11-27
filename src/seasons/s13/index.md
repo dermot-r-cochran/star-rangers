@@ -23,6 +23,9 @@ permalink: /seasons/s13/
 <p class="page-intro">
   Episodes 3 to 6 move between the court, the Abbey and the survey: the line is taken by a reciter and comes home from the Abbey unchanged; a novice looks for who made the count; the keeper's son stands at the open door without a lamp; and a good request is not forwarded. Episode 7 brings both strands into one episode at the last boat of the storm season, when the girl who carried the court's line climbs the Abbey's steps for a name and goes home with the line as she was given it.
 </p>
+<p class="page-intro">
+  Episode 8 is a coda, in the survey's fourth year. A crowning is held under the Elder Grove, and each of the three records makes its own entry for the one day: the chronicle under the tree, the Accounting on Aduine, and the delegation at its compound.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (13 | threadForSeason).id }}/">{{ (13 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "13" %}
