@@ -1,3 +1,0 @@
-### Added
-
-- **Season 15, Episode 4: *None Admitted* (S15E04C01)** (`src/seasons/s15/e04/`, `src/seasons/s15/index.md`, `src/characters/asteria-headmate.md`, `src/characters/tissadelle-shepherd.md`, `story-bible/intake-2026-11-27-s15e04.md`, 2026-11-27, Fable). The fourth chapter of the Tissadelle arc's completion season, and the first set in the layer below hers: one night watch and the morning after, from Tobble and from Asteria, the member of the system, who speaks for the first time under a point-of-view id of her own (`asteria-headmate`, distinct from Asteria Wessex's). She gains a character page under the 14 October ruling, linked from Shepherd's. No year in the timestamp, no image. Thirteen choices are open for him in the intake.
