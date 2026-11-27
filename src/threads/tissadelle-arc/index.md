@@ -16,6 +16,9 @@ permalink: /threads/tissadelle-arc/
 <p class="page-intro">
   The chronological spine of the published series — Cadet to Principal to Line Captain to the Last Stand, and what the Last Stand leaves behind — carried across Seasons 1, 3, 5, 6, 7 and 15. Seasons 2 and 4 are carried by other threads, the Undercover Pets and Orbital Five-O, whose storylines are not hers, though she holds a viewpoint in each.
 </p>
+<p class="page-intro">
+  Its shape, stated whole: an epic saga of exploration, discovery, betrayal, loss, pain, false accusations, despair, deep roots, hope, silent gradual recovery, transformation, sacrifice and healing, with eternal rewards. The order gives the weight of each, and not its place among the seasons.
+</p>
 
 {% set threadId = "tissadelle-arc" %}
 {% set allChapters = collections.chapters %}

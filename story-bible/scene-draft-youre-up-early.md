@@ -1,10 +1,13 @@
 # Scene draft — You're Up Early
 
-**Status: approved by Dermot, 5 September 2026 ("The scene is approved");
-unpublished, story-bible only.** The approval covers the draft as it stands,
-both scenes, on the inverted-titles rewrite. Not a chapter file, no front
-matter, no `comment_id`. It stays out of `src/` until a slot is chosen — and
-it cannot take one before the terminus does. Drafted 5 September 2026 at his direction
+**Status: published as S15E07C01, *You're Up Early*, 27 November 2026**
+(`src/seasons/s15/e07/s15e07c01.md`), placed word for word as one chapter in
+two scenes, after the terminus (S15E05C01) and the founding episode (S15E06).
+The chapter is now the text of record. This file is kept as the approved
+draft and its notes, and is no longer edited;
+`intake-2026-11-27-s15e07.md` records the placing. Approved by Dermot,
+5 September 2026 ("The scene is approved"): the approval covers the draft as
+it stands, both scenes, on the inverted-titles rewrite. Drafted 5 September 2026 at his direction
 (`intake-2026-09-05.md`): *a lingering shadow tries to invade Tobble's
 noögenic universe by assuming Tissadelle's appearance and form, but behaves
 in a way the real Tissadelle never would have.*

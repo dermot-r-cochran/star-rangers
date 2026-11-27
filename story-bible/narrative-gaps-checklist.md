@@ -133,9 +133,11 @@ eleven choices for him, all ruled as recommended the same day (*"Yes, as recomme
 Season 8 holding eight, where the 23 November line at the head of this file
 said 205 and seven (updated there the same day).
 
-- [ ] **Tissadelle arc** — a completion season (proposed as Season 15):
-  recovery, the terminus, the founding. His choices 1 to 8 are ruled
-  (27 November, as recommended); E01, *None Put*, landed the same day (#2160).
+- [x] **Tissadelle arc** — a completion season, Season 15: recovery, the
+  terminus, the founding. His choices 1 to 8 are ruled (27 November, as
+  recommended); E01, *None Put*, landed the same day (#2160), and the season
+  was completed the same day by its seventh episode, S15E07C01 *You're Up
+  Early*. Eight chapters in seven episodes.
 - [ ] **Undercover Pets** — Lev Saunders as a cadet, about 2837 (ruled
   27 September); one episode.
 - [ ] **Orbital Five-O** — the end of the Threnody matter; one episode.
@@ -155,9 +157,11 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   27 November 2026 as S15E05C01, *None to Correct*, word for word, one chapter
   in two scenes (`intake-2026-11-27-s15e05.md`). The interval stays
   unnumbered.
-- [ ] ***You're Up Early*** (`scene-draft-youre-up-early.md`) — the shadow at
-  the edge of Tobble's universe; sits after the terminus. Unblocked by the
-  slotting above; its slot is S15E07, after the founding episode (E06).
+- [x] ***You're Up Early*** (`scene-draft-youre-up-early.md`) — the shadow at
+  the edge of Tobble's universe; sits after the terminus. Slotted
+  27 November 2026 as S15E07C01, word for word, one chapter in two scenes,
+  after the founding episode (`intake-2026-11-27-s15e07.md`). The interval
+  since the founding stays unnumbered.
 - [ ] **Elvira's dream** (`scene-draft-elviras-dream.md`) — at the causeway,
   after Aldera's arrival; slot unfixed, five readings flagged.
 - [ ] ***One Warmth in the Room*** (`scene-draft-one-warmth-in-the-room.md`) —
@@ -199,12 +203,23 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   intent only, `intake-2026-11-13.md`, last
   section). Not paid: no chapter shows the link. `dun-ri.md` says Earth,
   from the Boyne and its old kings; the Kingdom page is unchanged.
-- [ ] **Tissadelle at the terminus; Tobble's downgraded inner codex** — the
+- [x] **Tissadelle at the terminus; Tobble's downgraded inner codex** — the
   register ruled 27 August (fond farewell, almost no grief), the mechanism
   deliberately unwritten until its chapters (`tissadelle-arc-s6-7.md`).
-- [ ] **The saga's last four beats** — silent gradual recovery,
+  Paid 27 November 2026: the terminus by S15E05C01 *None to Correct*, the
+  approved farewell word for word; the book, shown as an account and not a
+  world, by S15E03C01 *None Asked*. The mechanism stays unwritten, by his
+  ruling of the same day (choice 5 of `thread-completion-2026-11-27.md`).
+- [x] **The saga's last four beats** — silent gradual recovery,
   transformation, sacrifice at the terminus, the founding — all after the
   published end (`story-bible-summary.md`, *The shape of the saga*).
+  Paid 27 November 2026 by Season 15: silent gradual recovery by S15E01C01
+  *None Put*, S15E02C01 *None Held* and S15E03C01 *None Asked*; transformation
+  by S15E04C01 *None Admitted* and S15E06C02 *None Seated*; sacrifice at the
+  terminus by S15E05C01 *None to Correct*; the founding by S15E05C01, told
+  again from outside and inside by S15E06C01 *None Further* and S15E06C02.
+  S15E07C01 *You're Up Early* closes the season, and with it the line went
+  public on the thread's intro and in the README synopsis.
 - [ ] **Lev Saunders joins the Rangers when older** — ruled 27 September;
   waits on a thread reaching about 2837.
 - [x] **The younger Shepherd as a Five-O guest** (2826) — licensed 3 September,

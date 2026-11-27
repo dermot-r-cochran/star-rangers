@@ -257,7 +257,14 @@ twice, at Dock Seven and at the terminus). Where each beat sits on the page:
 
 **Publication:** story bible now, and the line may front the work — the
 README synopsis, the thread intro — only once the terminus chapters are
-published, since its last four beats pre-tell them.
+published, since its last four beats pre-tell them. **Published 27 November
+2026**, with the season's last episode (S15E07C01), on both, by his ruling of
+the same day (choice 4 of `thread-completion-2026-11-27.md`): the thread's
+intro (`src/threads/tissadelle-arc/index.md`) carries it in the record's voice
+and names nobody, and the README synopsis gives it as his line. The last four
+beats sit at S15E01C01 to S15E03C01 (silent gradual recovery), S15E04C01 and
+S15E06C02 (transformation), S15E05C01 (sacrifice at the terminus, and healing)
+and S15E05C01 with S15E06C01 and C02 (the founding).
 
 ### Season ordering: total as an index, partial in time, no branches (settled 2026-08-05)
 

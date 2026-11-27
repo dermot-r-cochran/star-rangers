@@ -7247,6 +7247,8 @@ the portrait's tab, adopt the system on the page.
 
 ## The shadow at the edge — `intake-2026-09-05.md` — what it is RULED 6 September 2026
 
+**PUBLISHED 27 November 2026 as S15E07C01 *You're Up Early*** (`intake-2026-11-27-s15e07.md`), word for word, as the finale of Season 15; the bodies were compared with the draft and are identical. Ten choices OPEN for him there: the title, the season of the year in the timestamp, four seams with Episodes 1 to 6 where the approved words are left as they stand (*"Nobody had come to teach them"*, *"Nobody thinks to tell an array anything"*, the navy coat, and his having looked at her face once already in *None Seated*), the note quoted in the `canon_facts`, the `related` list, the wording of *the shape of the saga* on the thread's intro and in the README, and the season's focus line, still *proposed*. What the thing is and whether it ever leaves stay unsaid on the page.
+
 Dermot, 5 September 2026: a lingering shadow tries to invade Tobble's
 noögenic universe by assuming Tissadelle's appearance and form, but behaves
 in a way the real Tissadelle never would have; two stills and a clip

@@ -27,8 +27,12 @@ colour palette (`THEME`, `src/css/theme-*.css`), and *core theme* names the musi
 - A season's line sits inside its thread's line. A strand's line is that strand's
   angle on its season's line.
 - The file stays unpublished. A line may lean on canon that a page should not
-  pre-tell. No line quotes *the shape of the saga*, whose last four beats wait
-  for the terminus to be published.
+  pre-tell. No line quotes *the shape of the saga*. Its last four beats are
+  published now: Season 15 carries them, and its last episode (S15E07C01,
+  27 November 2026) put the line on the thread's intro and in the README
+  synopsis, by his ruling of the same day (choice 4 of
+  `thread-completion-2026-11-27.md`). The lines here still point to it and do
+  not quote it.
 - **Lines change only at Dermot's word.** A proposed line is marked *proposed*
   until he approves it. A new unit gets its line proposed when it is registered,
   or when its first chapter is drafted.
@@ -83,6 +87,7 @@ Status for every line below: **approved 9 November 2026**.
 | s12 | below-the-roof | shapes that move no stone, seen from both sides, and a record kept of what nobody was there to settle |
 | s13 | five-islands | a young keeper learns to hold one record and finds the other record was always there too, and neither is made to yield |
 | s14 | below-the-roof | a telling is not yours until somebody has heard it, and the way to keep it is to hear it and write down only who did |
+| s15 | tissadelle-arc | an ending taken by the one whose it is: the count kept until it closes, leave taken properly, and the file shut on her order and on nobody's reading of her (approved 27 November 2026, his *"Yes, as recommended"*) |
 
 **Notes on the seasons.**
 - **s02.** The line covers the season's Undercover Pets chapters. Episodes 1 and 2
