@@ -1,0 +1,3 @@
+### Added
+
+- **Season 13, Episode 8: *Entered Three Ways* (S13E08C01 to C03), a coda to the Infinite Castle and the Timeless Library thread** (`src/seasons/s13/e08/`, `src/seasons/s13/index.md`, `story-bible/intake-2026-11-27-s13e08.md`, 2026-11-27, Fable, drafted under section 7 of `thread-completion-2026-11-27.md`). In the survey's fourth year a crowning is held under the Elder Grove, and each record makes its own entry for the day: the chronicle in *As Long as a Name*, the Long Accounting in *The Day's Line*, the delegation in *As Heard*. The episode is marked as a coda in its intro and gives no verdict. **Held, not merged:** the old monarch's death, the new name and the interval are his, and the intake carries them as choices.
