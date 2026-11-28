@@ -30,6 +30,8 @@ One principle governs every way this site reaches a domain that isn't this proje
 
 Two notes on scope. A **Path A fork** (original story) sits outside this table: it deletes the content wholesale and keeps only the MIT engine, which is not altering the record but not using it. And "add" always means *add alongside*: fork-added stories enter as fan work — or as a chartered work, if approved — which canon binds and which never binds canon.
 
+**Changing what happened is an alternate-universe fan work, not an edit.** To tell the story differently from some point in the record, write the alternate universe (AU) as new chapters in your own fan seasons (90–99, threads beginning `fan-`). Label it as an AU and say where it departs. Leave the record's own pages unedited, or delete them; never rewrite one in place. Canon does not bind an AU's events, but an AU still never binds canon. A fork that keeps none of this story's names, characters or text has become a Path A fork, an original work, even if it kept some of the ideas. The terms are in [`CONTENT-LICENSE.md`](./CONTENT-LICENSE.md), *Alternate-universe fan works* and *Where a separate work begins*.
+
 ## What's engine vs. content
 
 | Keep (engine) | Replace (Path A) or extend (Path B) |

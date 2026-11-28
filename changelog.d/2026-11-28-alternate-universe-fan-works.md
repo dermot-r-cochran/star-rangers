@@ -1,0 +1,3 @@
+### Changed
+
+- **Alternate-universe fan works, and where a separate work begins** (`CONTENT-LICENSE.md`, `FORKING.md`, 2026-11-28, Opus, Dermot's *"Yes, draft it"*). The Fan Works Policy now covers a fan work that tells the record differently from some point. It must be new prose, stand beside the record and never in place of a canon page, and be labelled as an alternate universe with its point of departure. Canon does not bind its events, and it never binds canon. A new section says a work that uses none of this work's text, names or characters is a separate work, even where it shares ideas. FORKING.md points a fork that wants to change what happened to its own fan seasons.
