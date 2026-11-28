@@ -35,7 +35,7 @@ The fans fill by themselves, as breathing does, and can be taken in hand as a br
 
 So a Solstavi has two signals about themself, and they differ in kind. The eye is honest because it cannot be chosen. The fans are chosen, and say what the one raising them wants said. Other Solstavi read the two differently: the eye is believed, and the fans are heard.
 
-Public life in this century suits the second signal well. Its politics is quieter and less reactionary than its past, and public opinion is measured carefully by made minds, not read from the size of a crowd's feeling ([Made Minds](/star-rangers/lore/made-minds-and-the-ai-safety-archetype/)). A Solstavi who raises their fans in a hearing is recorded as feeling strongly, and that feeling is part of the record. It does not count as more weight on the question, and nobody expects it to. A whole hall of Solstavi with their fans up is a hall saying how much the question matters to it. It is not a vote.
+Public life in this century suits the second signal well. Its politics is quieter and less reactionary than its past, and public opinion is measured carefully by made minds, not read from the size of a crowd's feeling ([Made Minds](/star-rangers/lore/made-minds-and-the-ai-safety-archetype/); [Quieter Politics](/star-rangers/lore/civilisation-comparison/#quieter-politics)). A Solstavi who raises their fans in a hearing is recorded as feeling strongly, and that feeling is part of the record. It does not count as more weight on the question, and nobody expects it to. A whole hall of Solstavi with their fans up is a hall saying how much the question matters to it. It is not a vote.
 
 ## The Winter Cover
 

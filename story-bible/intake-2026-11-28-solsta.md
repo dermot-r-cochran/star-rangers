@@ -97,9 +97,23 @@ hall with its fans up is a hall saying how much a question matters to it, not
 a vote. The record's own voice says *made minds* for his *AI systems*, by the
 usage rule.
 
-**Not yet carried elsewhere.** The governance pages (*Who Governs a Universe*,
-*The Oversight Council*, *The Seat* and others) do not yet say it. Carrying it
-there is its own piece of work, his to start.
+**Carried, 28 November 2026 (his *"Approved as recommended"*, #2202: the home
+below, the two readings that a measured opinion names nobody and that its
+reading goes to those who decide, and the polity pages left until a chapter
+needs them).** The rule's home is
+a new section, *Quieter Politics*, in `src/lore/civilisation-comparison.md`,
+the page that already sets the 29th century beside its past; the Solstavi page
+links to it, and CLAUDE.md's peaceable-present list carries the rule. The other
+candidates were checked and none contradicts it. *Who Governs a Universe* is
+cosmological governance and *The Seat* a watch-post custom, so neither is about
+public opinion. The Oversight Council, the Commonwealth, the Federation and the
+Celtic Union decide by seat, delegate or lot (the Seanad Draw is weighted to
+carry each world's people in proportion), which the rule sits beside without
+changing. The one swing of opinion on the record, the word *tyrant* across the
+outer-station news services in 2719 UCSD (*Formation of the Star Rangers*), is
+before the charter and stands as the past the rule is quieter than. No
+polity's own page states how it takes a measured reading; that waits until a
+chapter needs it.
 
 ## The winter cover (his *"Do they wear extra layers in winter?"*, then *"Yes, both"*)
 
