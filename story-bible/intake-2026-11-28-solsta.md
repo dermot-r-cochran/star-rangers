@@ -97,7 +97,10 @@ hall with its fans up is a hall saying how much a question matters to it, not
 a vote. The record's own voice says *made minds* for his *AI systems*, by the
 usage rule.
 
-**Carried, 28 November 2026 (proposed, awaiting his word).** The rule's home is
+**Carried, 28 November 2026 (his *"Approved as recommended"*, #2202: the home
+below, the two readings that a measured opinion names nobody and that its
+reading goes to those who decide, and the polity pages left until a chapter
+needs them).** The rule's home is
 a new section, *Quieter Politics*, in `src/lore/civilisation-comparison.md`,
 the page that already sets the 29th century beside its past; the Solstavi page
 links to it, and CLAUDE.md's peaceable-present list carries the rule. The other
