@@ -134,9 +134,29 @@ stand.
 
 ---
 
-## Solsta, a new people's world — `intake-2026-11-28-solsta.md`, 28 November 2026 — world written; the name, body plan, legs and head RULED, one point OPEN
+## Below the Roof, the fourth season — `below-the-roof-fourth-season-treatment.md`, 28 November 2026 — a treatment only; thirteen choices RULED 28 November 2026, as recommended (*"Season 16 approved as recommended"*)
 
-The world's name: **RULED 28 November 2026**, *"Keep Solsta"*. The body plan: **RULED 28 November 2026**, plan C, the flank fans (*"Flank fans is fine"*), written up in `species-design.md`, *The people of Solsta*. The leg count: **RULED 28 November 2026**, *"Six legs"*. The head: **RULED 28 November 2026**, *"Keep the head"*. Open: the people's name (waits on a language-design pass).
+Written on Fable under section 6 of `thread-completion-2026-11-27.md` and his ruling of choice 9 there (the survey leaves). The survey's last shift from both sides, seven episodes and ten chapters, proposed as Season 16 and set in 2835 UCSD. No chapter is drafted and the season is not registered. The record of what was read, each proposed fact and the contradiction search is `intake-2026-11-28-below-the-roof-s16-treatment.md`. Open, all his, each set out with its alternatives and basis in the treatment's *Choices for him*:
+
+1. Why the survey leaves (recommended: Ferrant's third line is taken at its word, the station is asked to state continuing need at grade, and Nakagawa states none).
+2. What ends (recommended: the presence; the window stands, and the record does not say whether a party returns).
+3. The last knock (recommended: unchanged, and the Told are not told).
+4. A name for the newest (recommended: it grows in the finale from *"The smallest is asleep"*; the name put as choices in its chapter, candidate *Slept-Through-It*).
+5. What the bright one is used for (recommended: told down once to the newest, and nothing else).
+6. What is left on the line (recommended: the stones as set, and nothing else).
+7. The silent hour, read as Egede's failure mode of S14E04C01, and what it becomes (recommended: never met above; met below as the first working time with no loud; afterwards the line is kept, with no count and no rule).
+8. Aravena's question for Four (recommended: paid from below, by Carried-It-Sleeping standing on the line for one knock, and left from above).
+9. Ferrant's four answers (recommended: three arrive, one is outlived).
+10. Whether any adult's fate is said (recommended: none).
+11. What reaches the Archive (recommended: one revised sentence each on the Fliade and Pandoids entries and a timeline entry, at the finale).
+12. The number and the years (recommended: Season 16; 2835 UCSD throughout).
+13. The shape (seven episodes, ten chapters, five to a side).
+
+Also open: the proposed focus line and strand lines for the season, which are not in `focus.md`; and three readings of the owed list that the treatment had to take (the silent hour, Aravena's question for Four, and which four answers Ferrant is owed).
+
+## Solsta, a new people's world — `intake-2026-11-28-solsta.md`, 28 November 2026 — world written; every choice RULED
+
+The world's name: **RULED 28 November 2026**, *"Keep Solsta"*. The body plan: **RULED 28 November 2026**, plan C, the flank fans (*"Flank fans is fine"*), written up in `species-design.md`, *Solstavi*. The leg count: **RULED 28 November 2026**, *"Six legs"*. The head: **RULED 28 November 2026**, *"Keep the head"*. The people's name: **RULED 28 November 2026**, *"Solstavi"*. Plans A and B become smaller animals of Solsta, *"if relevant"*. The people page and its header are written and filed (*"Yes, file take 4"*). OPEN, his to cut: the page's two proposals (the homecoming custom, and *the eye is believed, and the fans are heard*); how the Solstavi were met and their standing, left unwritten. OPEN, his to start: carrying his 28 November line on quieter politics (*"public opinion carefully measured by AI systems"*) to the governance pages.
 
 ## S02E13, Lev's cadet chapter — `intake-2026-11-28-s02e13.md`, 28 November 2026 — merged as #2189; nine choices, all RULED 28 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 9 carry eight choices OPEN in `intake-2026-11-28-s02e13-pages.md`
 

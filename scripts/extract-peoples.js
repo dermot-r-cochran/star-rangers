@@ -306,6 +306,17 @@ const PEOPLES = [
     pageBody: ["src/lore/planets/aspenar.md", "the Doreth, a heavy-built, radiation-tolerant people"],
     portraits: {},
   },
+  {
+    id: "solstavi", name: "Solstavi", page: "src/lore/solstavi.md", places: null, species: ["Solstavi"],
+    frame: null,
+    design: {
+      heading: "Solstavi — a body from the tilt", scope: "body sheet",
+      date: { text: "28 November 2026", quote: "Solstavi — a body from the tilt (28 November 2026" },
+      body: "long, broad and low, with a fan on each flank", colour: "warm buff and dun",
+    },
+    pageBody: ["src/lore/solstavi.md", "A Solstavi is long, broad and low"],
+    portraits: {},
+  },
 ];
 
 // ---------------------------------------------------------------------------

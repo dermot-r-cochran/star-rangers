@@ -162,7 +162,10 @@ said 205 and seven (updated there the same day).
   seven choices are ruled, as recommended (`intake-2026-11-27-s09e08.md`);
   the page updates are in `intake-2026-11-27-s09e08-pages.md`.
 - [ ] **Below the Roof** — the survey's last shift; a fourth season, last in
-  order. His choice 9 is ruled (27 November): the survey leaves.
+  order. His choice 9 is ruled (27 November): the survey leaves. A
+  treatment is written and waits on his read, with thirteen choices
+  (`below-the-roof-fourth-season-treatment.md`, 28 November); no chapter is
+  drafted.
 - [x] **Five Islands** — a crowning, entered three ways; one episode.
   Paid 28 November 2026 by S13E08 (S13E08C01 *As Long as a Name*, S13E08C02
   *The Day's Line*, S13E08C03 *As Heard*, #2185): in the survey's fourth year
