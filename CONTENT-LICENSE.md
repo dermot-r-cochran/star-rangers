@@ -24,6 +24,20 @@ Conditions:
 
 Anything outside this fan-works exception — commercial use, or redistributing the original canon text verbatim as your own — is still governed by the unmodified licence below.
 
+### Alternate-universe fan works
+
+A fan work may tell what happens if something in the record went differently: a different choice, an outcome reversed, a character who lived or left. This is an **alternate-universe** (AU) fan work. It is welcome under the exception above, on the same conditions and three more:
+
+- **New prose only.** The AU is written in your own words. Editing an existing chapter, entry or page to change what it says, and republishing it, is still the altering the exception excludes, however small the change.
+- **Beside the record, never in its place.** In a fork, the record's own pages stay as they are, or are removed. An AU never stands at a canon page's address or under its title, so no reader can mistake the changed version for the original.
+- **Labelled as an alternate universe**, as well as unofficial, where a reader first meets it, and saying which point in the record it departs from.
+
+An ordinary fan work stays consistent with the record. An AU is the one kind that need not: canon does not bind its events. It still never binds canon, and nothing in it is evidence about what is true in the record.
+
+### Where a separate work begins
+
+A work stops being a Fian Ilchruinne fan work when it uses none of this work's **expression**: none of its text, and none of its named characters, peoples, places, institutions or setting. Ideas, structures and themes are not ownable, by this licence or any other. A story with its own names and its own world is a separate work, and needs no permission, even if it shares ideas with this one (plural minds, a tiered cosmos, a corps that is not police). Credit is welcome but not required. A work that still uses this work's names or characters is a fan work, however far it departs. If it presents itself as Fian Ilchruinne, or as a version of it, it is claiming the relation, and the conditions above apply.
+
 ### Referencing fan works
 
 Fan-made images and music may be linked from this site where appropriate, on a standing basis: **referenced, not endorsed.** A link is a pointer to something worth seeing, not approval of it and not a claim that it is official. The conditions above are unaffected — a linked fan work is still a fan work, still unofficial, and still carries its own labelling. Being referenced here confers no status.
