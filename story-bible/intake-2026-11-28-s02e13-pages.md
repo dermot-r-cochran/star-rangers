@@ -101,6 +101,8 @@ Seven sentences go a step past restating a chapter's fact. Each was held to the 
 
 ## Choices for him
 
+**RULED 28 November 2026**, his words: *"Yes, as recommended"*; all 8 settled on (a), as drafted.
+
 Eight. Each has a recommendation and its basis. Where a choice is already placed, the other option is a small change.
 
 1. **Lev's role line.**
