@@ -1,0 +1,3 @@
+### Added
+
+- **The Solstavi winter cover** (`src/lore/solstavi.md`, `story-bible/civilian-dress.md`, `story-bible/intake-2026-11-28-solsta.md`, 2026-11-28, Opus, Dermot's *"Yes, both"*). It is a fitted fibre cover over the folded fans and back, worn through the dark season, because the fans are radiators that lose heat and risk frost even folded. It is off with the thaw, and none is worn indoors. Under it the fans cannot be raised, so for half the year the eye is the one signal a Solstavi shows. It is the record's first garment a non-human people wears at home for warmth. The dress note gains a Solstavi block, with the saddle and blanket named as prompt attractors.

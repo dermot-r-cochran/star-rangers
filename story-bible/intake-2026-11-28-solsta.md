@@ -100,3 +100,26 @@ usage rule.
 **Not yet carried elsewhere.** The governance pages (*Who Governs a Universe*,
 *The Oversight Council*, *The Seat* and others) do not yet say it. Carrying it
 there is its own piece of work, his to start.
+
+## The winter cover (his *"Do they wear extra layers in winter?"*, then *"Yes, both"*)
+
+Proposed in chat and taken: a fitted cover of felted or woven fibre over the
+folded fans and the back, worn through the dark season, off with the thaw,
+none indoors at a steady temperature and none over the fans in summer. Why,
+derived: the fans are radiators, thin skin with the blood near the surface, and
+lose heat and risk frost even folded. What it means, derived: under the cover
+the fans cannot be raised, so for half the year the eye, which cannot be
+chosen, is the one signal shown. Written to `src/lore/solstavi.md`, *The Winter
+Cover*, and to `civilian-dress.md`, *Solstavi*, with the prompt vocabulary and
+the saddle, blanket and pack named as attractors.
+
+**His follow-up, answered in chat:** *"Any other people kinds that wear clothes
+either for warmth or ceremonial reasons?"* From `civilian-dress.md`: none of
+the non-human peoples on record wears a garment at home for warmth or
+ceremony. Their marks of a person are kept in their own medium: a struck name
+(Chthonari), the chorus (Ovruhn), the warm-write (Ilveth), the near word
+(Ollune), the telling (the Told), the kinstrain name (Verdani). The nearest to
+warmth is the Ilveth, whose insulation at home is raised to an art, though what
+an Ilveth wears is not stated. The Corps' modular shell is worn on duty by
+several. The Krenyi dress under principle 14. So the Solstavi cover is the
+record's first garment that a non-human people wears at home for warmth.
