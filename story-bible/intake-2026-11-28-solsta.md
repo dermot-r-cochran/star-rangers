@@ -58,4 +58,9 @@ compatible with an unmodified human (Tír na nÓg's exception untouched).
 2. **The people's name.** Waits on a language-design pass.
 3. **The body.** Three plans off the human frame, studied as one labelled image
    sheet (the skill's step 3), then the section in `species-design.md` and the
-   people's lore page.
+   people's lore page. **RULED 28 November 2026**: plan C, the flank fans. His
+   words: *"Flank fans is fine"*, *"Options A and B looks too comical to me.
+   Option C looked more plausible"*, and *"The resemble to an earth animal was
+   not close enough to disqualify Option C"*. Written up in `species-design.md`,
+   *The people of Solsta*. Two points stay open there: the leg count (six
+   proposed, four drawn) and whether the people has a head.
