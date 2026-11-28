@@ -23,6 +23,9 @@ permalink: /seasons/s02/
 <p class="page-intro">
   Episode 12 is set in the winter: a row of nine doors on Deck 7 starts going dark for a sky it cannot see, and the rabbit finds out what the boy's calendar was for.
 </p>
+<p class="page-intro">
+  Episode 13 is a coda, set ten years later, in 2837. The boy with the cat is eighteen and reads the list at the top of a loading chain, and a cup comes up it that is not on the list.
+</p>
 <p class="thread-badge">Part of <a href="/star-rangers/threads/{{ (2 | threadForSeason).id }}/">{{ (2 | threadForSeason).name }}</a></p>
 
 {% set seasonNumber = "2" %}
