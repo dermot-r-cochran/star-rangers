@@ -134,7 +134,7 @@ stand.
 
 ---
 
-## S16E02, three answers and a statement at grade — `intake-2026-11-28-s16e02.md`, 28 November 2026 — DRAFTED on Fable, held for his read; thirteen choices OPEN, each with a recommendation
+## S16E02, three answers and a statement at grade — `intake-2026-11-28-s16e02.md`, 28 November 2026 — merged; thirteen choices RULED 28 November 2026, as recommended (*"Yes, as recommended"*)
 
 The second episode of Below the Roof's fourth season, two chapters above: *Read and Agreed* (S16E02C01) and *Entered Last* (S16E02C02). Three of Ferrant's four answers arrive, the station is asked to state continuing need at grade, and Nakagawa states none. No departure is shown and nothing at the line changes. Every new fact, its basis and the contradiction search are in the intake. Open, all his:
 
