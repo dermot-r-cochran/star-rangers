@@ -55,12 +55,16 @@ compatible with an unmodified human (Tír na nÓg's exception untouched).
 1. **The world's name.** *Solsta* (the world of two long solstices) or *Hiemar*
    (from the Latin for winter). **RULED 28 November 2026**, his words: *"Keep
    Solsta"*.
-2. **The people's name.** Waits on a language-design pass.
+2. **The people's name.** He offered three, *"Wendon or Knevvari or Solstavi?"*:
+   Wendon sat one letter from Wender, and Knevvari opened like Krenyi.
+   **RULED 28 November 2026**, his words: *"Solstavi"*.
 3. **The body.** Three plans off the human frame, studied as one labelled image
    sheet (the skill's step 3), then the section in `species-design.md` and the
    people's lore page. **RULED 28 November 2026**: plan C, the flank fans. His
    words: *"Flank fans is fine"*, *"Options A and B looks too comical to me.
    Option C looked more plausible"*, and *"The resemble to an earth animal was
    not close enough to disqualify Option C"*. Written up in `species-design.md`,
-   *The people of Solsta*. The leg count: **RULED 28 November 2026**, *"Six
-   legs"*. The head: **RULED 28 November 2026**, *"Keep the head"*.
+   *Solstavi*. The leg count: **RULED 28 November 2026**, *"Six
+   legs"*. The head: **RULED 28 November 2026**, *"Keep the head"*. Plans A and
+   B, his words: *"Images A and B would be other smaller creatures in the same
+   biosphere if relevant"*; recorded in `species-design.md`, *Solstavi*.

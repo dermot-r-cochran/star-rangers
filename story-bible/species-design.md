@@ -3273,9 +3273,9 @@ his. None of that is done here.
 
 ---
 
-## The people of Solsta — a body from the tilt (28 November 2026, Dermot's *"Flank fans is fine"*)
+## Solstavi — a body from the tilt (28 November 2026, Dermot's *"Flank fans is fine"*; the name his, *"Solstavi"*)
 
-**Why.** Dermot asked for *"a people kind that changes colour or shape slightly or suddenly as needed"*, then narrowed it: *"Not shapeshifters, just maybe a change in eye color or more pronounced features"*, *"Dopelgangers would be ruled out"*, and *"New people"*. The world was written first (`src/lore/planets/solsta.md`, merged in #2188; the name his, *"Keep Solsta"*), and the body follows from it. The record is in `intake-2026-11-28-solsta.md`. Three plans were studied in two rounds on one sheet. He chose the third, giving his reasons: *"Options A and B looks too comical to me. Option C looked more plausible"*, and *"The resemble to an earth animal was not close enough to disqualify Option C"*. Drafted on Opus. Every point is marked **his**, **derived** (follows from a page cited, or from physics applied to one) or **proposed** (a choice that fits, his to overrule). A people's designed body is on the never-without-Dermot list, so every proposed point waits on his read. The people has no name yet.
+**Why.** Dermot asked for *"a people kind that changes colour or shape slightly or suddenly as needed"*, then narrowed it: *"Not shapeshifters, just maybe a change in eye color or more pronounced features"*, *"Dopelgangers would be ruled out"*, and *"New people"*. The world was written first (`src/lore/planets/solsta.md`, merged in #2188; the name his, *"Keep Solsta"*), and the body follows from it. The record is in `intake-2026-11-28-solsta.md`. Three plans were studied in two rounds on one sheet. He chose the third, giving his reasons: *"Options A and B looks too comical to me. Option C looked more plausible"*, and *"The resemble to an earth animal was not close enough to disqualify Option C"*. Drafted on Opus. Every point is marked **his**, **derived** (follows from a page cited, or from physics applied to one) or **proposed** (a choice that fits, his to overrule). A people's designed body is on the never-without-Dermot list, so every proposed point waits on his read. The name is his, chosen from his own three (*Wendon*, *Knevvari*, *Solstavi*): *"Solstavi"*. It says where they are from, as the record's names should.
 
 ### What the rulings and pages force (derived)
 
@@ -3317,7 +3317,15 @@ The round 2 text for plan C is kept in the study script (`study.js`, in the sess
 
 ### Where this goes
 
-The people's name (a language-design pass), then a lore page for the people with its portrait. The portrait gets a prompt of record in `images.md` and must also show a mind: attention or work, per the image critic's rung 6a. The leg count (six) and the head (kept) are his; only the name is open.
+A lore page for the Solstavi, with its portrait. The portrait gets a prompt of record in `images.md` and must also show a mind: attention or work, per the image critic's rung 6a. The leg count (six), the head (kept) and the name are his, and nothing in the body is open.
+
+### Plans A and B: smaller animals of Solsta (his)
+
+His words: *"Images A and B would be other smaller creatures in the same biosphere if relevant"*. So the two plans not chosen stay in the record as animals of Solsta, not people, smaller than the Solstavi and on the same answer to the tilt: crests that fill to shed heat in the summer that does not set.
+- **The crown ruff (A):** a low rounded mound on short legs, with a radiating ruff of crests on its crown.
+- **The ribbed column (B):** an upright barrel on one broad foot, with flushed crests running down it like ribs.
+
+They are for use where a scene, a world page or a picture of Solsta needs other life. Nothing requires them. If either is pictured, the round 2 study text applies, with no Earth animal in the positive text, and the frame shows an animal, not a person.
 
 ---
 

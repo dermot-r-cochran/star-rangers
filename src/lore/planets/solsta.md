@@ -2,7 +2,7 @@
 layout: lore-entry.njk
 title: "Solsta"
 category: "Locations"
-tags: [solsta, biosphere-planet, locations]
+tags: [solsta, solstavi, biosphere-planet, locations]
 description: "A planet tilted at about fifty degrees, so that over a third of its surface has a stretch of the year when the sun never sets and another when it never rises; its large animals are built for both halves, with eyes that change colour with the season and crests that swell to shed heat."
 plain: "Solsta is a planet tipped far over on its side, about twice as far as Earth. Over a third of it gets a long summer when the sun never sets and a long winter when it never rises. Heat kills in the one, dark in the other. Its large animals, and the people who live there, have eyes that slowly change colour with the season, and crests that fill with blood to cool them and can be raised on purpose, the way a voice is raised."
 known: specialist
@@ -12,7 +12,7 @@ locationType: "Planet"
 
 On Solsta the year is not warm and cold so much as lit and unlit, and everything alive there is built for both.
 
-**Solsta** is a rocky planet of about Earth's size and a little under its surface gravity, and the home world of a people whose page the record has not yet written. Its star is yellow-white, a little heavier than the Sun, about 1.2 times its mass and about twice as bright. The planet circles it at about 1.4 times Earth's distance from the Sun, where it receives roughly the sunlight Earth receives, and its year is about a year and a half standard: the square root of 1.4 cubed, divided by 1.2, is about 1.51. A star of that mass lives for about six billion years, long enough for a biosphere to have grown large animals.
+**Solsta** is a rocky planet of about Earth's size and a little under its surface gravity, and the home world of the **Solstavi**, a people whose page the record has not yet written. Its star is yellow-white, a little heavier than the Sun, about 1.2 times its mass and about twice as bright. The planet circles it at about 1.4 times Earth's distance from the Sun, where it receives roughly the sunlight Earth receives, and its year is about a year and a half standard: the square root of 1.4 cubed, divided by 1.2, is about 1.51. A star of that mass lives for about six billion years, long enough for a biosphere to have grown large animals.
 
 ## The Tilt
 
@@ -36,7 +36,7 @@ Both answers are to the one tilt.
 
 ## What the Answers Became
 
-The people of Solsta descend from its large high-latitude animals and carry both traits, and the survey notes, with the caution a cause deserves, that each has taken on a second use.
+The Solstavi descend from its large high-latitude animals and carry both traits, and the survey notes, with the caution a cause deserves, that each has taken on a second use.
 
 The change in the eye cannot be willed. It reports the light its owner has lived in lately, and nothing else. Under the steady lighting of a ship or a station the eye settles, over some weeks, to one colour between the two, so that another of the same people can read, roughly, how long someone has been away from home. A colour that cannot be chosen cannot be used to deceive, and the record knows of no case where it has been.
 
@@ -44,6 +44,6 @@ The crests can be raised on purpose, and are. Raised, they make the body's outli
 
 ## What the Record Does Not Hold
 
-Solsta's distance from Sol and its place on the fold routes. The length of its day, its moons, and the names of its seas, lands and settlements. Whether *Solsta* is its people's own name for the world, and their name for its star. Their name, their numbers, their body beyond the two traits above, and their language.
+Solsta's distance from Sol and its place on the fold routes. The length of its day, its moons, and the names of its seas, lands and settlements. Whether *Solsta* and *Solstavi* are the people's own names for the world and for themselves, and their name for its star. Their numbers, their body beyond the two traits above, and their language.
 
 See also: [Habitable, for Whom](/star-rangers/lore/habitable-for-whom/), [Cross-Biosphere Taxonomy: Frames and Lineages](/star-rangers/lore/cross-biosphere-taxonomy/), [Weather on Other Worlds](/star-rangers/lore/weather-on-other-worlds/), [Ilenne](/star-rangers/lore/planets/ilenne/).
