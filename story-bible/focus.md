@@ -88,6 +88,7 @@ Status for every line below: **approved 9 November 2026**.
 | s13 | five-islands | a young keeper learns to hold one record and finds the other record was always there too, and neither is made to yield |
 | s14 | below-the-roof | a telling is not yours until somebody has heard it, and the way to keep it is to hear it and write down only who did |
 | s15 | tissadelle-arc | an ending taken by the one whose it is: the count kept until it closes, leave taken properly, and the file shut on her order and on nobody's reading of her (approved 27 November 2026, his *"Yes, as recommended"*) |
+| s16 | below-the-roof | one side stops coming to the line and neither says so: above it is an entry with no because in it, below a telling with its edges and no middle, and the line is kept (approved 28 November 2026, his *"Season 16 approved as recommended"*) |
 
 **Notes on the seasons.**
 - **s02.** The line covers the season's Undercover Pets chapters. Episodes 1 and 2
@@ -125,6 +126,8 @@ Status for every line below: **approved 9 November 2026**.
 | s13 | B, the Library | a hand that never changes |
 | s14 | A, below | a telling owed to the ones it is about, and a line that was never a place to tell from |
 | s14 | B, above | two years of a voice filed under an instrument's name, and the choice not to record what was not given to the survey |
+| s16 | A, below | every time since, and the first working time that was not |
+| s16 | B, above | a presence that cannot state its need at grade, lifted entire, and the one thing it cannot lift |
 
 **The Castle's third record.** The Photographic Beings, the people written in
 light, are the Castle's third record. The Five Islands treatment keeps them off

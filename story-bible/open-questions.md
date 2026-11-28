@@ -134,6 +134,26 @@ stand.
 
 ---
 
+## S16E01, the bright one told down and *every time* — `intake-2026-11-28-s16e01.md`, 28 November 2026 — merged; thirteen choices RULED 28 November 2026, as recommended (*"Yes, as recommended"*)
+
+The first episode of Below the Roof's fourth season, two chapters below: *Someone to Tell* (S16E01C01) and *Every Time* (S16E01C02). Season 16 is registered and its focus line is in `focus.md`. Every new fact, its basis and the contradiction search are in the intake. Open, all his:
+
+1. Went-Round's reading and Keeps-A-Hand-On-It, who was also born after the stones (recommended: raised on the page and answered by the order of having, the stone first and *since* afterwards).
+2. Keeps-A-Hand-On-It's own reading left out of the telling (recommended: left out).
+3. Who asks *whose piece is that* (recommended: Keeps-A-Hand-On-It).
+4. A hearer who sleeps in the middle of a telling (recommended: asked and not settled).
+5. *Who was there?* asked for the newest one (recommended: Carried-It-Sleeping asks it).
+6. The small sound (recommended: not made).
+7. Stone-First's block and its close (recommended: as drafted).
+8. The word Went-Round does not say (recommended: *a thing that is done* said, the word withheld).
+9. One flagged line in C01 (recommended: keep).
+10. The titles (recommended: as placed).
+11. What the season's page says (recommended: *the fourth season*, with *last* kept off the page until the finale).
+12. The timestamps (recommended: Season 14's form).
+13. The strand lines in `focus.md`, and the later pull request for cast pages, two images and the checklist (recommended: keep, and one later pull request).
+
+---
+
 ## Below the Roof, the fourth season — `below-the-roof-fourth-season-treatment.md`, 28 November 2026 — a treatment only; thirteen choices RULED 28 November 2026, as recommended (*"Season 16 approved as recommended"*)
 
 Written on Fable under section 6 of `thread-completion-2026-11-27.md` and his ruling of choice 9 there (the survey leaves). The survey's last shift from both sides, seven episodes and ten chapters, proposed as Season 16 and set in 2835 UCSD. No chapter is drafted and the season is not registered. The record of what was read, each proposed fact and the contradiction search is `intake-2026-11-28-below-the-roof-s16-treatment.md`. Open, all his, each set out with its alternatives and basis in the treatment's *Choices for him*:

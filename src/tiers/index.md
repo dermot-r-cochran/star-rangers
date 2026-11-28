@@ -97,9 +97,8 @@ description: "The four reading tiers of Fian Ilchruinne — children, young adul
   </p>
   <p class="thread-section__description">
     Beside it on this rung: <a href="/star-rangers/threads/below-the-roof/">Below
-    the Roof</a>, Seasons 11, 12 and 14 — the Pandoids of Fliade from inside their own deep networks, the
-    record's first storyline carried by a non-human cast. Two complete seasons and a third, each told in
-    two strands.
+    the Roof</a>, Seasons 11, 12, 14 and 16 — the Pandoids of Fliade from inside their own deep networks, the
+    record's first storyline carried by a non-human cast. Three seasons, each told in two strands, and a fourth begun.
   </p>
   <p class="thread-section__description">
     <strong>Where:</strong> two doors, each its own face, both in large type with a reading
