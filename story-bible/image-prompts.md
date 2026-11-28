@@ -6481,3 +6481,60 @@ Houses of faith family (`images.md` § 110): a leaf of the house's book at Cill 
 ```powershell
 .\scripts\make-codex-cover.ps1 -TitleLines "THE SHADE AT","THE FIELD'S EDGE" -Category "HAGIOGRAPHY" -Institution "Monastic scriptorium, Cill Aoife, Ireland" -Author "THE KEEPER OF THE HOUSE'S BOOK" -Motif rules -Accent "#CFAE6E" -Symbol arch -Out src\images\codex\the-shade-at-the-fields-edge.jpg
 ```
+
+## 2026-11-28 — S13E08, three chapters, and S02E13C01: the codas' pictures (Fable, desktop)
+
+The prompts of record are in `story-bible/images.md` § 111 and are not repeated here; the edit prompts are below. **Tool**: Gemini, `gemini-3.1-flash-image`, 16:9 at 2K, `scripts/image-edit.js --n 2` for every round (with reference images for the generations, with the frame itself for the edits); filed by `import-image.ps1 -MaxEdge 1600`, at strength 1 for the three generated frames and at `-Finish 0 -Provenance edited-ai` for his plate; each tagged in the file's XMP. **Plates:** one of Dermot's photographs, `F:\Phone Originals\2026-01-30 Tenerife\20260130_132105.jpg` (the Elder Grove of `lore/elder-fig-grove.jpg`), for `s13e08c01`; his `lore/scarlet-thread-bloom.jpg` as its reference; his `F:\130DUNLG\DSC_6941.JPG`, as filed in `chapters/s13e02c01.jpg`, as a reference for `s13e08c02`.
+
+### chapters/s13e08c01.jpg — filed 28 November 2026
+- **Kind:** his photograph as the plate, edited
+- **Source:** `images.md` § 111; plate as above; reference `src/images/lore/scarlet-thread-bloom.jpg`.
+- **Run:** Edit round 1, take 1 of 2; edit round 2, take 1 of 2; a third round of 2 on three heads, neither take used; then a hand crop of the round-2 take (columns 520 to 2752 and rows 220 to 1476 of 2752×1536).
+- **Edit prompt, round 2:**
+
+> Edit this photograph and change four things only.
+>
+> 1. The path at the right: remove the paved path and its raised concrete kerb entirely. In their place the same dark leaf-mould ground runs on to the right edge of the frame, and the garden walk is only a band of plain trodden bare earth, with no kerb, no paving, no edging stones and no gravel. Keep the scatter of scarlet thread-petalled blooms lying where it lies.
+>
+> 2. The people at the far left: every person must be seen squarely from behind. Turn the two men at the left edge, and anyone else whose cheek, nose or eye shows, so that they face directly away from the camera into the grove like the rest, showing only the back of the head. Remove the spectacles: nobody wears glasses.
+>
+> 3. Clothing: nobody has bare legs. The men in short tunics wear plain loose trousers of undyed wool under them and soft plain leather shoes, like the others. Remove the belt pouch at the left. No hooded cloaks: any hood becomes a plain flat collar.
+>
+> 4. Ground plants: remove the few spiky bromeliad plants still showing behind the people at the foot of the tree, and put leaf-mould and root ridges there.
+>
+> Keep everything else exactly as it is: every trunk, the lattice of fused roots at the centre, the hanging aerial roots, the leaves, the palms, the pieces of white sky, the number and positions of the people, the colours of their clothes, the flat daylight, the colour and the grain. No readable text, lettering or signs anywhere. A photograph, not a render.
+
+### chapters/s13e08c02.jpg — filed 28 November 2026
+- **Kind:** generation with references
+- **Source:** `images.md` § 111; references `src/images/chapters/s13e07c01.jpg`, `src/images/characters/emma-la-chapelle.jpg`, `src/images/chapters/s13e02c01.jpg`.
+- **Run:** Round 1 of 1, take 1 filed.
+
+### chapters/s13e08c03.jpg — filed 28 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 111; references `src/images/characters/anne-de-courtney.jpg`, `src/images/characters/ernesto-strozzi.jpg`, `src/images/chapters/s13e06c01.jpg`.
+- **Run:** Round 1, take 1 of 2; edit round 2, take 1 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change two things only.
+>
+> 1. The woman at the nearer table, in the left foreground: turn her chair, her table and her whole body so that her back is squarely to the window. She now sits on the window side of her table facing toward the camera's side of the room, seen from the front in three-quarter view, the open window directly behind her shoulders. Keep exactly her face, her grey hair drawn back in a knot, her age, her build and her deep olive uniform with its high soft collar and the one small tab on the left side of the collar. Her eyes are down on the thin matte dark grey slate on the table in front of her, her stylus in her right hand, her mouth set: she is deliberately not listening and not looking round.
+>
+> 2. The man at the further table: the pencil in his raised right hand is a plain dark grey pencil with no yellow paint, no metal band and no eraser. His head is turned a little more toward the open window, as if listening to something outside. Keep exactly his face, his grey hair and beard, his uniform and his pose otherwise.
+>
+> Keep everything else exactly as it is: the whitewashed walls, the board floor, the two dark timber tables and plain chairs, the window with its wooden shutters folded back, the clay-tiled roofs and the strip of sea beyond, the empty town, the daylight from the window, the colour and the grain. Nobody else in the room, nobody in the window or on the roofs. No readable text, lettering or numerals anywhere, and nothing readable on the collar tabs or the sheet of paper. A photograph, not a render.
+
+### chapters/s02e13c01.jpg — filed 28 November 2026
+- **Kind:** generation with references, then an edit
+- **Source:** `images.md` § 111; references `src/images/chapters/s02e11c01.jpg`, `src/images/chapters/s02e10c01.jpg`.
+- **Run:** Round 1, take 2 of 2; edit round 2, take 2 of 2.
+- **Edit prompt:**
+
+> Edit this photograph and change three things only.
+>
+> 1. The plant: the young strawberry plant coming through the hole in the cloth has exactly three leaves, each a small fresh green three-part toothed strawberry leaf on its own short thin stem, standing a finger's length above the cloth and leaning a little apart. No flower, no fruit, no runner, no fourth leaf.
+>
+> 2. The string and the sheet: the cloth is tied down with one turn of thin pale natural string, knotted at the side. Tucked flat under that string against the side of the cup facing the camera is one small sheet of pale paper folded once into a narrow strip, completely blank, with nothing written or printed on it. It is not a tag or a label and has no hole and no ribbon.
+>
+> 3. The cargo cases in the background: every case is a smooth sealed matte case of pale grey or dull bronze composite with softly rounded corners and one fine seam, with no handle, no strap, no latch and no wheels showing. Remove the carrying handle from the nearest case so that its top is plain and smooth.
+>
+> Keep everything else exactly as it is: both pairs of hands and their positions, the hand lowering the cup from above and the two open palms receiving it, the pale glazed cup, the undyed cloth, the ochre and slate-blue sleeves, the soft line of dock hands behind, the cream walls, the cork floor, the warm soft light, the shallow focus, the colour and the grain. No face in frame. No readable text, lettering, numerals or markings anywhere. A photograph, not a render.
