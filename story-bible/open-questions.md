@@ -134,6 +134,28 @@ stand.
 
 ---
 
+## S16E04, two returns and nobody to say whose — `intake-2026-11-28-s16e04.md`, 28 November 2026 — DRAFTED on Fable, held and not merged; fifteen choices OPEN, each with a recommendation
+
+The fourth episode of Below the Roof's fourth season, one chapter above: *Two Returns* (S16E04C01). It is the shift of S16E03 from the roof, shift 347. Aravena's light goes to the side and finds feet; the handheld has two upright shapes and two thermal returns; the gravimeter has nothing at that minute; the entry says two were present and one answered. The survey cannot say whose the second return was and enters no guess. The intake checks each of E03's fourteen points against the chapter and lists every new fact with its contradiction search. Open, all his:
+
+1. The shift (recommended: 347, printed, with 348 after it).
+2. How Aravena first sees the second one (recommended: by the light, having come out looking at the lamp).
+3. How far the light goes (recommended: as far as a light held low goes; not lifted).
+4. The second one's size (recommended: not fixed, by Aravena's *"I don't know"* and Ferrant's grading of the frames).
+5. Aravena's thoughts in the look (recommended: *who are you*, the smallest profile in the file, and *you are holding a light on a person*).
+6. A figure for the look (recommended: fifty-two seconds, against three or four).
+7. Where Ferrant is (recommended: at the station, reading the gravimeter before any frame).
+8. The question about what was said (recommended: Egede asks what and then who to; Aravena answers only which way; Nakagawa rules it out of the log).
+9. The entry's word for the second one (recommended: *the second*, with no noun).
+10. The count in the survey lead's column (recommended: not added to on 347, no figure printed).
+11. Egede's lifted lamp, refused, and Aravena's not asking (recommended: as drafted, with *"That was already longer than I meant."*).
+12. Scene 5, where the question for Four is nearest the page (recommended: keep; one flagged line).
+13. The title (recommended: *Two Returns*, as placed).
+14. The flagged line *"Once was looking. Twice would have been checking."* (recommended: keep).
+15. Length, about 3,950 words, and what follows a ruling (recommended: leave; one later pull request with Episodes 1 to 3's for cast pages, the season page and an image).
+
+---
+
 ## S16E03, two on the line for one knock — `intake-2026-11-28-s16e03.md`, 28 November 2026 — merged; thirteen choices RULED 28 November 2026, as recommended (*"Yes, as recommended"*)
 
 The third episode of Below the Roof's fourth season, one chapter below: *For One* (S16E03C01). Carried-It-Sleeping asks Stone-First, with a stone moved first, to stand on the line for one knock, and is seen by the up-people's light. Nobody crosses, nothing said is carried, and neither side knows whose the old question was. E04 tells the same shift from above and is not drafted; what it must match is a section of the intake. Every new fact, its basis and the contradiction search are in the intake. Open, all his:
