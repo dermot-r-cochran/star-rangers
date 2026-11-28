@@ -134,6 +134,10 @@ stand.
 
 ---
 
+## Solsta, a new people's world — `intake-2026-11-28-solsta.md`, 28 November 2026 — world written; three choices OPEN
+
+The world's name (*Solsta* written provisionally; *Hiemar* the alternative), the people's name (waits on a language-design pass), and the body (three plans off the human frame, studied on one sheet, not yet drawn).
+
 ## S09E08, Varn's reposting — `intake-2026-11-27-s09e08.md`, 27 November 2026 — merged as #2181; seven choices, all RULED 27 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 7 carry six choices OPEN in `intake-2026-11-27-s09e08-pages.md`
 
 Two chapters, *The Same Day* and *A Different Walk*, a coda to Young Star Rangers. Choice 1 is where Varn is sent: a watch that is not Eden's, on a station the prose does not name. The others are the sixteenth Deputy's name (none), how far the story is paid (not told), Smith's last word, Noah's *Iklix* to the tab, the titles, and the page updates. The pages of Iklix Varn, Zoe Smith and Noah Adeyemi are extended in their own pull request, with six choices for him, each with a recommendation.

@@ -1,0 +1,3 @@
+### Added
+
+- **Solsta, the world of a new people** (`src/lore/planets/solsta.md`, `story-bible/intake-2026-11-28-solsta.md`, `story-bible/open-questions.md`, 2026-11-28, Opus, Dermot's *"Yes, write it"*). A planet tilted at about fifty degrees, written before the body on the Ilenne pattern. The long summer kills by heat and the long winter by dark, so its people's eyes turn from gold to blue with the season and cannot be willed, and their crests fill to shed heat and can be raised for emphasis. Neither is a disguise. The world's name is provisional; the people's name and body are open for him.
