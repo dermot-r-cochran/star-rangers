@@ -134,9 +134,9 @@ stand.
 
 ---
 
-## Solsta, a new people's world — `intake-2026-11-28-solsta.md`, 28 November 2026 — world written; three choices OPEN
+## Solsta, a new people's world — `intake-2026-11-28-solsta.md`, 28 November 2026 — world written; the name RULED, two choices OPEN
 
-The world's name (*Solsta* written provisionally; *Hiemar* the alternative), the people's name (waits on a language-design pass), and the body (three plans off the human frame, studied on one sheet, not yet drawn).
+The world's name: **RULED 28 November 2026**, *"Keep Solsta"*. Open: the people's name (waits on a language-design pass), and the body (three plans off the human frame, studied on one sheet, not yet drawn).
 
 ## S09E08, Varn's reposting — `intake-2026-11-27-s09e08.md`, 27 November 2026 — merged as #2181; seven choices, all RULED 27 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 7 carry six choices OPEN in `intake-2026-11-27-s09e08-pages.md`
 

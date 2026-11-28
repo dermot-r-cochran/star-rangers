@@ -52,9 +52,9 @@ compatible with an unmodified human (Tír na nÓg's exception untouched).
 
 ## Open, his
 
-1. **The world's name.** *Solsta* (the world of two long solstices) is written
-   provisionally; *Hiemar* (from the Latin for winter) was the alternative. A
-   rename is one file and its links while nothing else points at it.
+1. **The world's name.** *Solsta* (the world of two long solstices) or *Hiemar*
+   (from the Latin for winter). **RULED 28 November 2026**, his words: *"Keep
+   Solsta"*.
 2. **The people's name.** Waits on a language-design pass.
 3. **The body.** Three plans off the human frame, studied as one labelled image
    sheet (the skill's step 3), then the section in `species-design.md` and the
