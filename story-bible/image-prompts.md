@@ -6481,3 +6481,10 @@ Houses of faith family (`images.md` § 110): a leaf of the house's book at Cill 
 ```powershell
 .\scripts\make-codex-cover.ps1 -TitleLines "THE SHADE AT","THE FIELD'S EDGE" -Category "HAGIOGRAPHY" -Institution "Monastic scriptorium, Cill Aoife, Ireland" -Author "THE KEEPER OF THE HOUSE'S BOOK" -Motif rules -Accent "#CFAE6E" -Symbol arch -Out src\images\codex\the-shade-at-the-fields-edge.jpg
 ```
+
+## 2026-11-28 — Solstavi, header for the people page (Opus, desktop)
+
+### lore/solstavi.jpg — filed 28 November 2026
+- **Kind:** text to image, no references, `node scripts/image-prompts.js --generate --only solstavi --variations 4` (gemini-3.1-flash-image, 2K, 16:9). One round, four takes; take 4 filed at Dermot's *"Yes, file take 4"*, through `import-image.ps1 -MaxEdge 1600 -Finish 1`, tagged generated. The prompt is the one of record in `images.md` § 111, sent verbatim.
+- **Takes:** 1, the fan stood on the back as one sail and the limb gripped like a hand; 2, a tail; 3, a tail, and the fans leaned to a sail-back; 4, six legs in three pairs, no tail, fans along the flanks, no trunk, at work on the net.
+- **Flaws passed and named:** the grasping limbs grow from the shoulders, not from beneath the head, and their tips grip the net like mittened hands.

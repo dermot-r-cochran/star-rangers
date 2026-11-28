@@ -12,7 +12,7 @@ locationType: "Planet"
 
 On Solsta the year is not warm and cold so much as lit and unlit, and everything alive there is built for both.
 
-**Solsta** is a rocky planet of about Earth's size and a little under its surface gravity, and the home world of the **Solstavi**, a people whose page the record has not yet written. Its star is yellow-white, a little heavier than the Sun, about 1.2 times its mass and about twice as bright. The planet circles it at about 1.4 times Earth's distance from the Sun, where it receives roughly the sunlight Earth receives, and its year is about a year and a half standard: the square root of 1.4 cubed, divided by 1.2, is about 1.51. A star of that mass lives for about six billion years, long enough for a biosphere to have grown large animals.
+**Solsta** is a rocky planet of about Earth's size and a little under its surface gravity, and the home world of the [Solstavi](/star-rangers/lore/solstavi/). Its star is yellow-white, a little heavier than the Sun, about 1.2 times its mass and about twice as bright. The planet circles it at about 1.4 times Earth's distance from the Sun, where it receives roughly the sunlight Earth receives, and its year is about a year and a half standard: the square root of 1.4 cubed, divided by 1.2, is about 1.51. A star of that mass lives for about six billion years, long enough for a biosphere to have grown large animals.
 
 ## The Tilt
 
@@ -44,6 +44,6 @@ The crests can be raised on purpose, and are. Raised, they make the body's outli
 
 ## What the Record Does Not Hold
 
-Solsta's distance from Sol and its place on the fold routes. The length of its day, its moons, and the names of its seas, lands and settlements. Whether *Solsta* and *Solstavi* are the people's own names for the world and for themselves, and their name for its star. Their numbers, their body beyond the two traits above, and their language.
+Solsta's distance from Sol and its place on the fold routes. The length of its day, its moons, and the names of its seas, lands and settlements. Whether *Solsta* and *Solstavi* are the people's own names for the world and for themselves, and their name for its star. Their numbers and their language.
 
-See also: [Habitable, for Whom](/star-rangers/lore/habitable-for-whom/), [Cross-Biosphere Taxonomy: Frames and Lineages](/star-rangers/lore/cross-biosphere-taxonomy/), [Weather on Other Worlds](/star-rangers/lore/weather-on-other-worlds/), [Ilenne](/star-rangers/lore/planets/ilenne/).
+See also: [Solstavi](/star-rangers/lore/solstavi/), [Habitable, for Whom](/star-rangers/lore/habitable-for-whom/), [Cross-Biosphere Taxonomy: Frames and Lineages](/star-rangers/lore/cross-biosphere-taxonomy/), [Weather on Other Worlds](/star-rangers/lore/weather-on-other-worlds/), [Ilenne](/star-rangers/lore/planets/ilenne/).
