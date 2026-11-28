@@ -138,8 +138,16 @@ said 205 and seven (updated there the same day).
   recommended); E01, *None Put*, landed the same day (#2160), and the season
   was completed the same day by its seventh episode, S15E07C01 *You're Up
   Early*. Eight chapters in seven episodes.
-- [ ] **Undercover Pets** — Lev Saunders as a cadet, about 2837 (ruled
+- [x] **Undercover Pets** — Lev Saunders as a cadet, about 2837 (ruled
   27 September); one episode.
+  Paid 28 November 2026 by S02E13 (S02E13C01 *Not Carried*, #2189): in the
+  late summer of 2837 Lev Saunders, eighteen and a Cadet, reads the manifest
+  at a Rangers' ramp on Eden's transfer dock, refuses a child's cup aloud
+  because it is not on the list, enters it as not carried and sends it back
+  down the chain with a form of four boxes. One dock hand hands back a tin.
+  His corps, his posting and whether the plant goes are not said. His nine
+  choices are ruled, as recommended (`intake-2026-11-28-s02e13.md`); the
+  page updates are in `intake-2026-11-28-s02e13-pages.md`.
 - [x] **Orbital Five-O** — the end of the Threnody matter; one episode.
   Paid 27 November 2026 by S04E07 (S04E07C01 *Not Shown*, S04E07C02 *Struck
   Late*, #2179): the fifth stamp is struck late by Halcyon's stores and the
@@ -245,8 +253,10 @@ Finished prose in the story-bible waiting for a slot; each stays out of
   again from outside and inside by S15E06C01 *None Further* and S15E06C02.
   S15E07C01 *You're Up Early* closes the season, and with it the line went
   public on the thread's intro and in the README synopsis.
-- [ ] **Lev Saunders joins the Rangers when older** — ruled 27 September;
+- [x] **Lev Saunders joins the Rangers when older** — ruled 27 September;
   waits on a thread reaching about 2837.
+  Paid 28 November 2026 by S02E13C01 *Not Carried* (#2189): a Cadet at
+  eighteen, in the late summer of 2837, with his corps unstated.
 - [ ] **What Noah Adeyemi chooses in later life** — *"A gardener, botanist
   or similar"* (Dermot, 27 November 2026, answering his own question while
   the pages after S09E08 were written; `intake-2026-11-27-s09e08-pages.md`).
