@@ -136,7 +136,7 @@ stand.
 
 ## Solsta, a new people's world — `intake-2026-11-28-solsta.md`, 28 November 2026 — world written; every choice RULED
 
-The world's name: **RULED 28 November 2026**, *"Keep Solsta"*. The body plan: **RULED 28 November 2026**, plan C, the flank fans (*"Flank fans is fine"*), written up in `species-design.md`, *Solstavi*. The leg count: **RULED 28 November 2026**, *"Six legs"*. The head: **RULED 28 November 2026**, *"Keep the head"*. The people's name: **RULED 28 November 2026**, *"Solstavi"*. Plans A and B become smaller animals of Solsta, *"if relevant"*. Next, not a choice: the Solstavi lore page and portrait.
+The world's name: **RULED 28 November 2026**, *"Keep Solsta"*. The body plan: **RULED 28 November 2026**, plan C, the flank fans (*"Flank fans is fine"*), written up in `species-design.md`, *Solstavi*. The leg count: **RULED 28 November 2026**, *"Six legs"*. The head: **RULED 28 November 2026**, *"Keep the head"*. The people's name: **RULED 28 November 2026**, *"Solstavi"*. Plans A and B become smaller animals of Solsta, *"if relevant"*. The people page and its header are written and filed (*"Yes, file take 4"*). OPEN, his to cut: the page's two proposals (the homecoming custom, and *the eye is believed, and the fans are heard*); how the Solstavi were met and their standing, left unwritten. OPEN, his to start: carrying his 28 November line on quieter politics (*"public opinion carefully measured by AI systems"*) to the governance pages.
 
 ## S02E13, Lev's cadet chapter — `intake-2026-11-28-s02e13.md`, 28 November 2026 — merged as #2189; nine choices, all RULED 28 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 9 carry eight choices OPEN in `intake-2026-11-28-s02e13-pages.md`
 
