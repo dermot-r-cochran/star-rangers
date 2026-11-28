@@ -134,7 +134,7 @@ stand.
 
 ---
 
-## S16E01, the bright one told down and *every time* — `intake-2026-11-28-s16e01.md`, 28 November 2026 — DRAFTED on Fable, held, not merged; thirteen choices OPEN, each with a recommendation
+## S16E01, the bright one told down and *every time* — `intake-2026-11-28-s16e01.md`, 28 November 2026 — merged; thirteen choices RULED 28 November 2026, as recommended (*"Yes, as recommended"*)
 
 The first episode of Below the Roof's fourth season, two chapters below: *Someone to Tell* (S16E01C01) and *Every Time* (S16E01C02). Season 16 is registered and its focus line is in `focus.md`. Every new fact, its basis and the contradiction search are in the intake. Open, all his:
 
