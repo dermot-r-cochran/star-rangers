@@ -134,7 +134,7 @@ stand.
 
 ---
 
-## S16E03, two on the line for one knock — `intake-2026-11-28-s16e03.md`, 28 November 2026 — DRAFTED on Fable, held and not merged; thirteen choices OPEN, each with a recommendation
+## S16E03, two on the line for one knock — `intake-2026-11-28-s16e03.md`, 28 November 2026 — merged; thirteen choices RULED 28 November 2026, as recommended (*"Yes, as recommended"*)
 
 The third episode of Below the Roof's fourth season, one chapter below: *For One* (S16E03C01). Carried-It-Sleeping asks Stone-First, with a stone moved first, to stand on the line for one knock, and is seen by the up-people's light. Nobody crosses, nothing said is carried, and neither side knows whose the old question was. E04 tells the same shift from above and is not drafted; what it must match is a section of the intake. Every new fact, its basis and the contradiction search are in the intake. Open, all his:
 
