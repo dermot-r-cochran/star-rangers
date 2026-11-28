@@ -1,0 +1,55 @@
+---
+layout: base.njk
+title: "Episode 13"
+eleventyComputed:
+  description: "Chapters in Season 2, Episode 13 of {{ site.name }}."
+permalink: /seasons/s02/e13/
+---
+<nav class="chapter-breadcrumb" aria-label="Episode location">
+  <ol class="breadcrumb" role="list">
+    <li><a href="/star-rangers/seasons/">Seasons</a></li>
+    <li><a href="/star-rangers/seasons/s02/">Season 2</a></li>
+    <li aria-current="page">Episode 13</li>
+  </ol>
+</nav>
+
+<h1 class="page-title">Season 2 · Episode 13</h1>
+<p class="page-intro">
+  A coda to the season, set ten years after it. It is late summer in 2837, and a Rangers' supply
+  shuttle is loading at Eden's transfer dock, up a chain of hands. At
+  the top of the chain a cadet reads the list out loud. He is eighteen, and he used to be the boy
+  with the cat. A cup comes up the chain from a child, with three leaves in it, and every hand that
+  passes it is kind. It is not on the list.
+</p>
+<p class="page-intro">
+  This episode reads on its own. A reader of the season will know the walkway, the windowsill and the
+  rail above the dock, and will find a cat on the rail.
+</p>
+
+{% set seasonNumber = "2" %}
+{% set episodeNumber = "13" %}
+{% set hasEpisodeChapters = false %}
+<ul class="chapter-list" role="list">
+{% for chapter in collections.chapters %}
+  {%- if (chapter.data.season ~ "") == seasonNumber and (chapter.data.episode ~ "") == episodeNumber -%}
+    {%- if not hasEpisodeChapters %}{% set hasEpisodeChapters = true %}{% endif -%}
+    <li class="chapter-list__item">
+      <a href="/star-rangers{{ chapter.url }}">
+        <span class="chapter-list__code">{{ chapter.data.id | upper }}</span>
+        <span class="chapter-list__title">{{ chapter.data.title }}</span>{%- set mins = chapter | readingMinutes -%}{% if mins %}<span class="chapter-list__time">about {{ mins }} min</span>{% endif %}
+        {%- if chapter.data.location -%}
+        <span class="chapter-list__loc">{{ chapter.data.location }}</span>
+        {%- endif -%}
+        {%- if chapter.data.description -%}
+        <span class="chapter-list__desc">{{ chapter.data.description }}</span>
+        {%- endif -%}
+      </a>
+    </li>
+  {%- endif -%}
+{% endfor %}
+</ul>
+{% if not hasEpisodeChapters %}
+<p>No chapters have been added to this episode yet.</p>
+{% endif %}
+
+{% include "episode-nav.njk" %}
