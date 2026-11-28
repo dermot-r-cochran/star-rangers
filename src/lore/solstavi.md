@@ -37,6 +37,12 @@ So a Solstavi has two signals about themself, and they differ in kind. The eye i
 
 Public life in this century suits the second signal well. Its politics is quieter and less reactionary than its past, and public opinion is measured carefully by made minds, not read from the size of a crowd's feeling ([Made Minds](/star-rangers/lore/made-minds-and-the-ai-safety-archetype/)). A Solstavi who raises their fans in a hearing is recorded as feeling strongly, and that feeling is part of the record. It does not count as more weight on the question, and nobody expects it to. A whole hall of Solstavi with their fans up is a hall saying how much the question matters to it. It is not a vote.
 
+## The Winter Cover
+
+The fans that save a Solstavi in summer cost them in winter. They are thin skin with the blood close under it, built to give heat away, and in the winter that does not rise they lose it even folded flat, and can take frost. So for the dark half of the year the Solstavi wear a **winter cover**: a fitted layer of thick felted or woven fibre laid over the folded fans and the back, following the hide and stopping short of the legs, the head and the grasping limbs. It goes on as the dark season comes and comes off with the thaw. In summer nothing is worn over the fans, because a covered fan cannot do its work. Indoors, on a ship or a station at a steady temperature, no cover is needed, and that is how most people off Solsta meet a Solstavi.
+
+Under the cover the fans cannot be raised. So for half the year the chosen signal is put away, and the one thing a Solstavi shows of themself is the eye, turning blue in the dark.
+
 ## Smaller Kin
 
 The Solstavi are not the only crested animals on Solsta. Smaller animals of the same biosphere answer the summer heat with crests of their own: a low rounded mound on short legs with a ruff of crests on its crown, and an upright barrel on one broad foot with flushed crests running down it like ribs. Since they are lineages of one biosphere, a distant ancestor shared with the Solstavi is possible, and the blood-filled crest would then be an old inheritance from it. The record holds this as a possibility, not a finding.
