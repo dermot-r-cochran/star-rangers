@@ -134,6 +134,26 @@ stand.
 
 ---
 
+## S16E03, two on the line for one knock — `intake-2026-11-28-s16e03.md`, 28 November 2026 — DRAFTED on Fable, held and not merged; thirteen choices OPEN, each with a recommendation
+
+The third episode of Below the Roof's fourth season, one chapter below: *For One* (S16E03C01). Carried-It-Sleeping asks Stone-First, with a stone moved first, to stand on the line for one knock, and is seen by the up-people's light. Nobody crosses, nothing said is carried, and neither side knows whose the old question was. E04 tells the same shift from above and is not drafted; what it must match is a section of the intake. Every new fact, its basis and the contradiction search are in the intake. Open, all his:
+
+1. Where Carried-It-Sleeping stands (recommended: an arm's length along the line on the side the row does not run, which is where the one not asked stood, noticed by both and said by neither).
+2. How the light finds the second one (recommended: by the look to the side it still makes at every knock; one flagged line on *chosen*).
+3. Why Carried-It-Sleeping asks, and Stone-First's question (recommended: two grounds, then *"Is it to see what they do?"*, *"A little"*).
+4. The thing said and the thing once asked of the dark (recommended: Carried-It-Sleeping remembers the old up-sound and cannot tell whether this is the same).
+5. The hum, known from the line by the one who carried it (recommended: keep).
+6. Stone-First's words on the line, the old scolding with what is different put in (recommended: keep, with the two sentences that name it; one flagged line).
+7. Why they looked this time (recommended: *"The first time I was behind them. This time I was in front."* *"It is all I was there for."*).
+8. That *the one not asked* is now true of two (recommended: not said on the page).
+9. The game's second one, who does nothing with the whole body (recommended: keep).
+10. Keeps-A-Hand-On-It counting the small ones for one working time, unasked (recommended: keep).
+11. The length of the looking (recommended: longer than a name, shorter than a short telling, not counted).
+12. The title (recommended: *For One*, as placed).
+13. What follows a ruling: cast-page lines, the season page's sentences and one image (recommended: one later pull request, with Episodes 1 and 2's).
+
+---
+
 ## S16E02, three answers and a statement at grade — `intake-2026-11-28-s16e02.md`, 28 November 2026 — merged; thirteen choices RULED 28 November 2026, as recommended (*"Yes, as recommended"*)
 
 The second episode of Below the Roof's fourth season, two chapters above: *Read and Agreed* (S16E02C01) and *Entered Last* (S16E02C02). Three of Ferrant's four answers arrive, the station is asked to state continuing need at grade, and Nakagawa states none. No departure is shown and nothing at the line changes. Every new fact, its basis and the contradiction search are in the intake. Open, all his:
