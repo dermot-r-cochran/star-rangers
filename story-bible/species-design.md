@@ -3294,9 +3294,9 @@ his. None of that is done here.
   - **Cold** (proposed): in the cold they fold flat and pleated along the flanks, a layer over the body.
   - **Like a breath:** the filling runs by itself, and can be taken in hand the way a breath can be held (`solsta.md`).
   - **Emphasis:** raised on purpose, the fans widen the outline for some minutes and then settle. That is the record's *"more pronounced features"*.
-- **The front end** (proposed, with an open choice). The study prompt asked for no head and no neck, only a blunt rounded front of blank hide. Both frames drew a short, broad head with a face. His second remark lets a resemblance stand where it is not close enough to disqualify, so whether the people has a head is his.
-- **Eyes** (derived from `solsta.md`). There are two eyes, small, dark, deep-set and calm, one on each flank just behind the front end, set wide apart so that both are never seen together from the front. Behind the retina a reflecting layer turns gold in the lit season and deep blue in the unlit one, over some weeks. The colour shows at the pupil as a sheen. It cannot be willed, and under a ship's steady light it settles between the two.
-- **Two grasping limbs** (proposed). They are smooth, tapering and muscular, rooted on opposite sides of the front end, and curl outward and apart. They are the working limbs, for handling things.
+- **A head** (his: *"Keep the head"*, 28 November 2026; its shape proposed, from the study frames). The study prompt asked for a blank front, and both frames drew a short, broad, blunt head instead, carried low with no neck, with a small mouth beneath. He kept it. The head has no trunk, tusks, ears or horns.
+- **Eyes** (derived from `solsta.md`; their place proposed). There are two eyes, small, dark, deep-set and calm, one on each side of the head, set wide apart so that both are never seen together from the front. Behind the retina a reflecting layer turns gold in the lit season and deep blue in the unlit one, over some weeks. The colour shows at the pupil as a sheen. It cannot be willed, and under a ship's steady light it settles between the two.
+- **Two grasping limbs** (proposed). They are smooth, tapering and muscular, rooted on opposite sides beneath the head, and curl outward and apart. Both rounds drew them as an elephant's trunk when they hung together from the middle of the face, so a prompt must keep their roots apart. They are the working limbs, for handling things.
 
 ### What failed on the way (two study rounds, 28 November 2026)
 
@@ -3317,7 +3317,7 @@ The round 2 text for plan C is kept in the study script (`study.js`, in the sess
 
 ### Where this goes
 
-The people's name (a language-design pass), then a lore page for the people with its portrait. The portrait gets a prompt of record in `images.md` and must also show a mind: attention or work, per the image critic's rung 6a. The open point above (the head) settles before that prompt is written; the leg count is his, six.
+The people's name (a language-design pass), then a lore page for the people with its portrait. The portrait gets a prompt of record in `images.md` and must also show a mind: attention or work, per the image critic's rung 6a. The leg count (six) and the head (kept) are his; only the name is open.
 
 ---
 
