@@ -1,0 +1,3 @@
+### Added
+
+- **Season 16 begun: *Someone to Tell* and *Every Time* (S16E01C01 and C02)** (`src/seasons/s16/`, `lib/storyline-threads.js`, `src/tiers/index.md`, `story-bible/focus.md`, `story-bible/intake-2026-11-28-s16e01.md`, 2026-11-28, Fable). The first episode of Below the Roof's fourth season, on the treatment Dermot ruled the same day (*"Season 16 approved as recommended"*). Season 16 is registered on `below-the-roof` and gets its season and episode pages and its focus line. Below, in the survey's fifth year: the telling of the light out of the near wall is told once to the newest one, and Went-Round goes round *every time since*. No images. **Held, not merged:** the draft's thirteen choices are in the intake.
