@@ -26,6 +26,8 @@ She is a Field Officer — the first rank in the Corps that can be posted indepe
 - Survey Corps atmospheric analysis, looking specifically, confirmed extensive centuries-old soil and micro-flora engineering across all four islands — work the Kingdom's chronicles credit to the first settlers' hard work and describe as nothing more than that.
 - Keeps the delegation's confidence-band register, and has declined, in writing, three requests to raise a band on a reading she had not re-derived.
 - Filed the delegation's standing note that *Krilzat* does not sit in the same phonological company as the four island names, at the lowest confidence the register admits, and has resisted every attempt to write it up as a finding.
+- Worked the oldest shelf on Aduine on the day of the crowning in the survey's fourth year, as on any of her three days, and left by the evening boat before the Long Accounting's line for the day was entered. What the returning boats said she had from a novice on the terrace steps, and wrote down as heard ([*The Day's Line*, S13E08C02](/star-rangers/seasons/s13/e08/s13e08c02/)).
+- Filed that night the note de Courtney had asked for in the third year, on the first line of the log of the delegation's one instrument outside its own walls, on Krilzat. She had written it seven times without handing one in, and what she filed was about half a page. It carries no band and adopts no reading. It says what the instrument had on the day, and lists what the delegation has not been told: who the keeper is, who placed the instrument, whether the same hand brings the lamp, and why that room. It says that the placing could be read only by being told ([*As Heard*, S13E08C03](/star-rangers/seasons/s13/e08/s13e08c03/)).
 
 ## Character Notes
 

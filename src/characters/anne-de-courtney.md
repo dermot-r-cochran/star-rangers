@@ -24,6 +24,8 @@ She holds the delegation as a Chief Ranger — a general operations department, 
 - Has forwarded no request for expanded access to the court: not a second delegation site on Aduine, not sampling rights on the terraces, not instrument placement on the caldera rim, all of which have been proposed to her from the Solar System side and none of which the Kingdom has refused, because none of them has been put.
 - Keeps the charter's withdrawal clause — that Rangers may enter a self-governing world by invitation only and must leave when the invitation is withdrawn — posted in the delegation's working room, where it has been since her first week.
 - Has never sought a royal audience beyond those the court itself offered, and has not been inside the Elder Grove.
+- Was given the day of the crowning in the survey's fourth year by a clerk of the court, a fortnight before, and was not asked to it. She did not ask, and ruled that the delegation would keep an ordinary day. No officer of the delegation was under the Elder Grove, and no instrument was pointed at it.
+- Heard the saying of the chronicle from the working room, with her back to the window, and did not count the break in it. That night she read la Chapelle's note on the first line of the Krilzat instrument's log, which carries no band and adopts no reading, and did not send it back. Her covering line to the Archive reads *Filed as it stands. The delegation was told the day of the crowning, and kept it as a day.* ([*As Heard*, S13E08C03](/star-rangers/seasons/s13/e08/s13e08c03/))
 
 ## Character Notes
 

@@ -155,7 +155,16 @@ said 205 and seven (updated there the same day).
   the page updates are in `intake-2026-11-27-s09e08-pages.md`.
 - [ ] **Below the Roof** — the survey's last shift; a fourth season, last in
   order. His choice 9 is ruled (27 November): the survey leaves.
-- [ ] **Five Islands** — a crowning, entered three ways; one episode.
+- [x] **Five Islands** — a crowning, entered three ways; one episode.
+  Paid 28 November 2026 by S13E08 (S13E08C01 *As Long as a Name*, S13E08C02
+  *The Day's Line*, S13E08C03 *As Heard*, #2185): in the survey's fourth year
+  a crowning is held under the Elder Grove, and each record makes its own
+  entry for the day. Wren says her line with no name and stops where a name
+  goes; the Long Accounting takes the day in one line that counts five; la
+  Chapelle's write-up is filed with no band and says the placing could be
+  read only by being told. No record is ruled right. His twelve choices are
+  ruled, as recommended (`intake-2026-11-27-s13e08.md`); the page updates
+  are in `intake-2026-11-28-s13e08-pages.md`.
 - [x] **Church Space** — what the spring brings back; one episode.
   Paid 27 November 2026 by S08E08 (S08E08C01 *If There's Anything*, #2183):
   on the first warm day of 2829 the second hive is alive, the carrier brings

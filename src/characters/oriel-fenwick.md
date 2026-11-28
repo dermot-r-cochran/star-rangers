@@ -21,6 +21,8 @@ She is sixteen, the daughter of a reeve who holds a terrace-strip in Difenland, 
 
 Her first practice copy was a charter-era entry, one of the ones that count five islands and name them. She knew four of the names. She asked what the fifth was and was told that the Accounting says five, and asked which it was and was told that she was copying it; and she asked the Ranger at the next shelf what the delegation reads it as, and was told that the Ranger writes down what she is told and was told five. The exchange is the subject of [*The Same Hand* (S13E02C01)](/star-rangers/seasons/s13/e02/s13e02c01/), and the record holds it there.
 
+On the day of the crowning in the survey's fourth year the Abbey kept its ordinary day, and la Chapelle's note for it has *a novice at the practice desk*. On the terrace steps that afternoon the novice asked whether the delegation had been asked to the crowning, and what its record would say for the day. She told la Chapelle that the Long Accounting's line for a day is entered after the evening office, and what the returning boats said: that the heir was crowned, under the tree, that morning. La Chapelle wrote it down as heard, from a novice. The novice did not give her name. The record holds the day in [*The Day's Line* (S13E08C02)](/star-rangers/seasons/s13/e08/s13e08c02/).
+
 ## What the Record Does Not Carry
 
 Whether she will be let near the Accounting, and when. What she makes of the fifth name, beyond having asked. Anything the Sisterhood holds about her that the delegation was not told, which is most of it.
