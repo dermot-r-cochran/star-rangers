@@ -134,6 +134,26 @@ stand.
 
 ---
 
+## S16E02, three answers and a statement at grade — `intake-2026-11-28-s16e02.md`, 28 November 2026 — DRAFTED on Fable, held for his read; thirteen choices OPEN, each with a recommendation
+
+The second episode of Below the Roof's fourth season, two chapters above: *Read and Agreed* (S16E02C01) and *Entered Last* (S16E02C02). Three of Ferrant's four answers arrive, the station is asked to state continuing need at grade, and Nakagawa states none. No departure is shown and nothing at the line changes. Every new fact, its basis and the contradiction search are in the intake. Open, all his:
+
+1. Who asks the station (recommended: *the planetary desk*, named once as the desk the survey lead's column goes to).
+2. The date in the page and when the statement goes (recommended: *the last run of the year*, no day set, answered on the fourth morning by the relay).
+3. The window's line on the page (recommended: on the page, *not under review; it stands*).
+4. The instrument desk's reply (recommended: it accepts *not a fault* and asks the one question).
+5. Nakagawa's three lines (recommended: as drafted, with *no request from the people below, to come or to remain*).
+6. Aravena's answer (recommended: no, on three grounds, and then the want, named as one).
+7. Egede's third ground and the word *unasked* (recommended: made, graded, and not withdrawn).
+8. One flagged line on *lightest* in C02 (recommended: keep).
+9. Where the fourth answer is outlived (recommended: the empty bag in C01, and Ferrant's word to Aravena in C02).
+10. The numbers printed (recommended: shift numbers and the counts that follow, which bind E05 and E07).
+11. The titles (recommended: as placed).
+12. Egede's list (recommended: three ticks and a fourth line with an empty box).
+13. What follows a ruling: the season page's sentence, the years on Egede's cast page, cast-page lines and two images (recommended: one later pull request, with Episode 1's).
+
+---
+
 ## S16E01, the bright one told down and *every time* — `intake-2026-11-28-s16e01.md`, 28 November 2026 — merged; thirteen choices RULED 28 November 2026, as recommended (*"Yes, as recommended"*)
 
 The first episode of Below the Roof's fourth season, two chapters below: *Someone to Tell* (S16E01C01) and *Every Time* (S16E01C02). Season 16 is registered and its focus line is in `focus.md`. Every new fact, its basis and the contradiction search are in the intake. Open, all his:

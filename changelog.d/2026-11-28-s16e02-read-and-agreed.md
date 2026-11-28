@@ -1,0 +1,3 @@
+### Added
+
+- **S16E02: *Read and Agreed* and *Entered Last* (S16E02C01 and C02)** (`src/seasons/s16/e02/`, `story-bible/intake-2026-11-28-s16e02.md`, `story-bible/open-questions.md`, 2026-11-28, Fable). The second episode of Below the Roof's fourth season, the survey side, on the treatment Dermot ruled the same day (*"Season 16 approved as recommended"*). Three of Ferrant's four answers arrive on the supply run of shift 318; the station is asked to state continuing need at grade, and on the fourth morning Nakagawa states none. No departure is shown and the knock is unchanged. No images. **Held, not merged:** the draft's thirteen choices are in the intake.
