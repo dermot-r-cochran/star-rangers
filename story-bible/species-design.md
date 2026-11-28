@@ -3273,6 +3273,54 @@ his. None of that is done here.
 
 ---
 
+## The people of Solsta — a body from the tilt (28 November 2026, Dermot's *"Flank fans is fine"*)
+
+**Why.** Dermot asked for *"a people kind that changes colour or shape slightly or suddenly as needed"*, then narrowed it: *"Not shapeshifters, just maybe a change in eye color or more pronounced features"*, *"Dopelgangers would be ruled out"*, and *"New people"*. The world was written first (`src/lore/planets/solsta.md`, merged in #2188; the name his, *"Keep Solsta"*), and the body follows from it. The record is in `intake-2026-11-28-solsta.md`. Three plans were studied in two rounds on one sheet. He chose the third, giving his reasons: *"Options A and B looks too comical to me. Option C looked more plausible"*, and *"The resemble to an earth animal was not close enough to disqualify Option C"*. Drafted on Opus. Every point is marked **his**, **derived** (follows from a page cited, or from physics applied to one) or **proposed** (a choice that fits, his to overrule). A people's designed body is on the never-without-Dermot list, so every proposed point waits on his read. The people has no name yet.
+
+### What the rulings and pages force (derived)
+
+- **Not on the human frame.** The Krenyi are the only other people on it (*A singular exception stays singular*).
+- **Not the Cerebraun's channel.** Their skin is a fast, chosen display (`cerebraun.md`). This people's change is slow where it is honest (the eye) and chosen only as emphasis (the fans).
+- **No mimicry, no change of shape.** His exclusion of shapeshifters and doppelgängers, with the trope default. Nothing in the body copies another being, hides it, or alters its outline beyond the fans standing and settling.
+- **A large body at high latitude** (`solsta.md`, *What Kills a Large Animal*). Heat in the summer that does not set and dark in the winter that does not rise. Both traits answer that one tilt.
+- **Eyes another can read.** The eye's colour must be visible to another of the people at speaking distance, so the eyes sit where they can be seen, not hidden under a fold.
+
+### The body (his where marked; proposed unless marked)
+
+- **Plan: long, broad and low, with a fan on each flank** (his). The back is level and about chest height to a human. The body is perhaps three metres long (proposed), heavy, and with soft, thick, matte hide in warm buff and dun.
+- **Six thick, short legs in three pairs, each ending in a broad rounded pad** (proposed). The lit season thaws the high-latitude ground to a soft, waterlogged surface over frozen subsoil, and six broad pads spread a heavy body's weight over it. Both study frames drew four legs. The count is his to settle: four is what the generator gives, and six is what the thawed ground argues for.
+- **The fans** (his, as the plan). Along each flank, from shoulder to hip, there is one great fan of thin crest skin, ribbed and scalloped at the edge, translucent at the rim, with fine dark vessels visible through it.
+  - **Heat:** in the heat the fans fill with blood, stand wide and upward, and flush deep rose red. Spread, the two together are far wider than the body.
+  - **Cold** (proposed): in the cold they fold flat and pleated along the flanks, a layer over the body.
+  - **Like a breath:** the filling runs by itself, and can be taken in hand the way a breath can be held (`solsta.md`).
+  - **Emphasis:** raised on purpose, the fans widen the outline for some minutes and then settle. That is the record's *"more pronounced features"*.
+- **The front end** (proposed, with an open choice). The study prompt asked for no head and no neck, only a blunt rounded front of blank hide. Both frames drew a short, broad head with a face. His second remark lets a resemblance stand where it is not close enough to disqualify, so whether the people has a head is his.
+- **Eyes** (derived from `solsta.md`). There are two eyes, small, dark, deep-set and calm, one on each flank just behind the front end, set wide apart so that both are never seen together from the front. Behind the retina a reflecting layer turns gold in the lit season and deep blue in the unlit one, over some weeks. The colour shows at the pupil as a sheen. It cannot be willed, and under a ship's steady light it settles between the two.
+- **Two grasping limbs** (proposed). They are smooth, tapering and muscular, rooted on opposite sides of the front end, and curl outward and apart. They are the working limbs, for handling things.
+
+### What failed on the way (two study rounds, 28 November 2026)
+
+These were scratch studies, never filed: two images per plan on the house pipeline's image model at 2K, with no reference images, all in one place and light (high-latitude summer ground under thin overcast).
+
+- **Round 1:** all six frames came back as elephants, A and C with a sail-back. The cause was the prompt: the grasping limbs were written as *"like elephant trunks"*, an Earth animal in the positive text, and the paired eyes above them completed the face. Plan A also drew four legs where it asked for five, and C four where it asked for six.
+- **Round 2:** the limbs were described by structure only, with roots on opposite sides, and the eyes moved to the flanks. A and B lost the face. A's ruff still read as a sail and B's limb still hinted at a trunk. C kept a head with a face, and both frames drew four legs. He judged A and B *"too comical"* and C *"more plausible"*.
+
+### Traps closed
+
+- **Never name an Earth animal in the positive text**, however apt the likeness. *"Like elephant trunks"* drew elephants in every frame.
+- **A fan that stands on the back reads as a sail-back** (dimetrodon). C's fans are rooted along the flanks and spread outward and upward, so keep them there.
+- **Leg counts drift down to four.** Name the count exactly, and check it in every frame.
+
+### Prompt vocabulary and standard negative (proposed, for the portrait that follows)
+
+The round 2 text for plan C is kept in the study script (`study.js`, in the session scratchpad) and is not a prompt of record. The words that held were: *long, broad and low*, *a single great fan of thin crest skin along each flank, spread wide and upward like an opened pleated sheet*, *translucent at the edges, flushed deep rose red with fine dark vessels*, *smooth tapering muscular grasping limbs rooted on opposite sides, curling outward and apart, touching nothing*, *small, dark, deep-set, calm eyes with a faint gold sheen at the pupil*. The standard negative names: dragon, dinosaur, stegosaurus, dimetrodon, iguana, frilled lizard, chameleon, elephant, mammoth, tapir, hippo, rhino, horse, insect, caterpillar, crab, manta ray, bat; no wings, no ears, no big round eyes, no human hand or face, no fingers, no tail, no horns, no scales, no feathers, no shell; no lettering.
+
+### Where this goes
+
+The people's name (a language-design pass), then a lore page for the people with its portrait. The portrait gets a prompt of record in `images.md` and must also show a mind: attention or work, per the image critic's rung 6a. The two open points above (the leg count and the head) settle before that prompt is written.
+
+---
+
 ## Living with other life — companions, working animals and commensals, people by people
 
 Written 14 October 2026 at Dermot's direction, verbatim: *"Pets and companion
