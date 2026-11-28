@@ -3325,6 +3325,8 @@ His words: *"Images A and B would be other smaller creatures in the same biosphe
 - **The crown ruff (A):** a low rounded mound on short legs, with a radiating ruff of crests on its crown.
 - **The ribbed column (B):** an upright barrel on one broad foot, with flushed crests running down it like ribs.
 
+**Kinship** (his: *"They might even have a distant common ancestor or other biological heritage in common"*). They are one biosphere's lineages, so a shared ancestor is possible, and the record leaves it as a possibility, not a fact. The obvious shared inheritance is the blood-filled crest itself, found in three body plans as one old answer to the tilt (proposed). The eye's seasonal layer may be shared too (proposed). Cross-Biosphere Taxonomy's frames say how a body is held up, not kinship, so any such kinship is a lineage within Solsta and nothing more.
+
 They are for use where a scene, a world page or a picture of Solsta needs other life. Nothing requires them. If either is pictured, the round 2 study text applies, with no Earth animal in the positive text, and the frame shows an animal, not a person.
 
 ---
