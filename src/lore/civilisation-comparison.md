@@ -172,6 +172,12 @@ A larger undertaking still has to be planned and paid for before it begins: a ne
 
 Because survival is not what a working life is for, a career is chosen for what it offers: the opportunities, what it teaches, and the values a person holds. Routine or hazardous work that nobody wants to do can be done by machines. But a machine is never set to push aside someone who has chosen to work with their hands, whether as a craft or for the pleasure of it, and never to shut them out of that work. The stonemason above works with tools that help, and nobody has replaced them. Nor is that only a courtesy. Machines do the work of a structured place, where the task, the parts and the setting are the same each time, as on a factory floor, and they do it well; some manual trades are not work of that kind, and in those no machine has matched a skilled hand, and none is expected to. Domestic repair is one such trade: it often wants an evolved person's touch, with advanced tools and robotic assistants to hand.
 
+## Quieter Politics
+
+Politics in the 29th century is quieter and less reactionary than in the centuries before it. Public opinion still matters, and it is still asked for. What has changed is how it is read. It is not taken from the loudest voices, from the size of a crowd or from the mood of a single day. Made minds measure it, carefully, across the whole of the people a question concerns. How strongly a view is held is recorded beside how widely it is held, and strength of feeling counts as feeling, not as extra weight. The [Solstavi](/star-rangers/lore/solstavi/#the-fans-raised) are the plainest case: a hall with its fans raised is recorded as feeling strongly, and it is not a vote.
+
+A made mind measures opinion and decides nothing by it. It holds no political vote and no office ([Commissioned Standing](/star-rangers/lore/commissioned-standing/)), and the reading it gives goes to the people and bodies who do decide. A measured opinion names nobody who holds it, so it is not a watch kept on anyone. Dissent is counted like any other view, and it is ordinary and legitimate. So a question in the present is seldom settled by the swing of a moment, and nothing in the record's processes yields to anger or to force.
+
 ---
 
 ## Four Polities by Extent

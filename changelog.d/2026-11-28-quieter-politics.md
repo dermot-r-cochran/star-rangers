@@ -1,0 +1,3 @@
+### Added
+
+- **Quieter Politics, the home of this century's measured public opinion** (`src/lore/civilisation-comparison.md`, `src/lore/solstavi.md`, `CLAUDE.md`, `story-bible/intake-2026-11-28-solsta.md`, 2026-11-28, Opus, carrying Dermot's direction of the same day). A new section says that politics in the 29th century is quieter and less reactionary than before, and that made minds measure public opinion across a whole people, recording strength of feeling as feeling, not weight. The made mind that measures decides nothing and names nobody. The Solstavi page links to it, CLAUDE.md's peaceable-present list carries the rule, and the intake records that the other governance pages were checked and none contradicts it.
