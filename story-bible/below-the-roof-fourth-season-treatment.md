@@ -150,6 +150,8 @@ Proposed, for choice 11: at the finale's publication, one sentence each on the F
 
 ## Choices for him
 
+**RULED 28 November 2026**, his words: *"Season 16 approved as recommended"*; all 13 settled on (a), as written.
+
 Each has a recommendation and its basis. None is settled here.
 
 1. **Why the survey leaves.**

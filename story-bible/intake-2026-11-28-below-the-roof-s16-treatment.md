@@ -59,6 +59,8 @@ None is canon. Each is his, and each is a choice in the treatment's own *Choices
 
 ## The choices
 
+**RULED 28 November 2026**, his words: *"Season 16 approved as recommended"*; all 13 settled on (a), as written.
+
 Thirteen, in the treatment's *Choices for him*: why the survey leaves; what ends; the last knock; the newest's name; the bright one; what is left on the line; the silent hour; Aravena's question for Four; Ferrant's four answers; the adults' fates; what reaches the Archive; the number and the years; the shape. The focus line and the two strand lines are *proposed* and are not in `focus.md`.
 
 ## Unsure, and said so

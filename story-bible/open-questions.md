@@ -134,7 +134,7 @@ stand.
 
 ---
 
-## Below the Roof, the fourth season — `below-the-roof-fourth-season-treatment.md`, 28 November 2026 — a treatment only; thirteen choices OPEN, each with a recommendation
+## Below the Roof, the fourth season — `below-the-roof-fourth-season-treatment.md`, 28 November 2026 — a treatment only; thirteen choices RULED 28 November 2026, as recommended (*"Season 16 approved as recommended"*)
 
 Written on Fable under section 6 of `thread-completion-2026-11-27.md` and his ruling of choice 9 there (the survey leaves). The survey's last shift from both sides, seven episodes and ten chapters, proposed as Season 16 and set in 2835 UCSD. No chapter is drafted and the season is not registered. The record of what was read, each proposed fact and the contradiction search is `intake-2026-11-28-below-the-roof-s16-treatment.md`. Open, all his, each set out with its alternatives and basis in the treatment's *Choices for him*:
 
