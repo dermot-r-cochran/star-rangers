@@ -62,5 +62,5 @@ compatible with an unmodified human (Tír na nÓg's exception untouched).
    words: *"Flank fans is fine"*, *"Options A and B looks too comical to me.
    Option C looked more plausible"*, and *"The resemble to an earth animal was
    not close enough to disqualify Option C"*. Written up in `species-design.md`,
-   *The people of Solsta*. Two points stay open there: the leg count (six
-   proposed, four drawn) and whether the people has a head.
+   *The people of Solsta*. The leg count: **RULED 28 November 2026**, *"Six
+   legs"*. Whether the people has a head stays open.

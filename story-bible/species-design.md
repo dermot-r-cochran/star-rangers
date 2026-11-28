@@ -3288,7 +3288,7 @@ his. None of that is done here.
 ### The body (his where marked; proposed unless marked)
 
 - **Plan: long, broad and low, with a fan on each flank** (his). The back is level and about chest height to a human. The body is perhaps three metres long (proposed), heavy, and with soft, thick, matte hide in warm buff and dun.
-- **Six thick, short legs in three pairs, each ending in a broad rounded pad** (proposed). The lit season thaws the high-latitude ground to a soft, waterlogged surface over frozen subsoil, and six broad pads spread a heavy body's weight over it. Both study frames drew four legs. The count is his to settle: four is what the generator gives, and six is what the thawed ground argues for.
+- **Six thick, short legs in three pairs, each ending in a broad rounded pad** (his: *"Six legs"*, 28 November 2026; the reason derived). The lit season thaws the high-latitude ground to a soft, waterlogged surface over frozen subsoil, and six broad pads spread a heavy body's weight over it. Both study frames drew four legs, so a portrait prompt must name exactly six, in three pairs, and every frame must be counted.
 - **The fans** (his, as the plan). Along each flank, from shoulder to hip, there is one great fan of thin crest skin, ribbed and scalloped at the edge, translucent at the rim, with fine dark vessels visible through it.
   - **Heat:** in the heat the fans fill with blood, stand wide and upward, and flush deep rose red. Spread, the two together are far wider than the body.
   - **Cold** (proposed): in the cold they fold flat and pleated along the flanks, a layer over the body.
@@ -3317,7 +3317,7 @@ The round 2 text for plan C is kept in the study script (`study.js`, in the sess
 
 ### Where this goes
 
-The people's name (a language-design pass), then a lore page for the people with its portrait. The portrait gets a prompt of record in `images.md` and must also show a mind: attention or work, per the image critic's rung 6a. The two open points above (the leg count and the head) settle before that prompt is written.
+The people's name (a language-design pass), then a lore page for the people with its portrait. The portrait gets a prompt of record in `images.md` and must also show a mind: attention or work, per the image critic's rung 6a. The open point above (the head) settles before that prompt is written; the leg count is his, six.
 
 ---
 
