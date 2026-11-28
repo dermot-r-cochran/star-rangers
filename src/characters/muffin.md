@@ -4,7 +4,7 @@ title: "Muffin"
 id: muffin
 species: "Meta-dimensional predator, cute-predator feeding pattern — filed Class III (lamb-mask); filing disputed, see below"
 role: Resident hazard, Eden Space Habitat, Deck 7 galley approach
-status: "At large — in a family's quarters two decks down since late summer 2827, a small-livestock application in the compliance queue"
+status: "At large — taken to a family's quarters two decks down in late summer 2827; in 2837 two decks down, on Eden's pet register and still on its hazard register as Class III"
 aliases:
   - "the galley cat"
   - "somebody's rabbit"
@@ -62,5 +62,9 @@ Barsik's position, filed once and not repeated, is that the counter has not chan
 In late summer 2827 the specimen left the galley door for the walkway at shift change, and the deck stopped for it three days running; the housekeeping night pass took sixty-one unattended articles off the walkway on the third night, set down by people freeing a hand. The Inspector's office referred it to the bureau without naming it. What closed it was not the bureau. A boy, [Lev Saunders](/star-rangers/characters/lev/), who had come to tell a rabbit that his cat was fine picked the specimen up from behind, under the front legs, told it *no* in front of the shift change, and shut it in a detective's rabbit carrier. It took four seconds. The file records the finding beside the act: the refusal counter works person by person, as it always has, and it costs nothing to a person who has not yet learned the small yes. See [Four Seconds (S02E10C01)](/star-rangers/seasons/s02/e10/s02e10c01/).
 
 It is kept, for now, by the boy's family, two decks down, on a small-livestock application that went into the compliance queue the same day. The register asks who keeps an animal and how it behaves, and does not ask what it is; the bracket where the species goes holds the one word every hazard form on the deck could not carry. Three readings were taken on the walkway and none was entered as a finding. The warm patch by the galley door has been empty since.
+
+## Two Registers
+
+In the late summer of 2837 UCSD Barsik's file has the specimen two decks down, in the warm under a window. Eden's pet register has it as *pet (Muffin), one*. Eden's hazard register still has it as Class III. The two registers are kept in different rooms. See [Not Carried (S02E13C01)](/star-rangers/seasons/s02/e13/s02e13c01/).
 
 See also: [On the Filing of the Galley Door Specimen](/star-rangers/codex/filing-of-the-galley-door-specimen/), [Predatory Entities](/star-rangers/lore/predatory-entities/), [Meta-Dimensional Beings](/star-rangers/lore/meta-dimensional-beings/), [Agent Barsik](/star-rangers/characters/agent-barsik/), [Bubochka](/star-rangers/characters/bubochka/), [Thrum](/star-rangers/characters/thrum/).

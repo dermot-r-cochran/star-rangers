@@ -31,4 +31,6 @@ The record holds no motive. Play is the obvious reading, and a small collection 
 
 His conduct box is ticked *acceptable*. The boy has been told to keep the berth door shut. At the last check, the boot that propped it open was still where it had always been.
 
+In the late summer of 2837 UCSD Barsik's file corrects its line of 2827 on the boy, and the middle of the line is unchanged: *He is eighteen, he has a cat, and he is theirs* ([Not Carried (S02E13C01)](/star-rangers/seasons/s02/e13/s02e13c01/)). The record says no more of the cat at that date.
+
 See also: [Agent Barsik](/star-rangers/characters/agent-barsik/), [Bubochka](/star-rangers/characters/bubochka/), [Superintendent Rasa Oyelaran](/star-rangers/characters/rasa-oyelaran/), [Knopka](/star-rangers/characters/knopka/), [The Unacceptable Cat](/star-rangers/seasons/s02/e06/s02e06c01/).

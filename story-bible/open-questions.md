@@ -138,6 +138,10 @@ stand.
 
 The world's name: **RULED 28 November 2026**, *"Keep Solsta"*. The body plan: **RULED 28 November 2026**, plan C, the flank fans (*"Flank fans is fine"*), written up in `species-design.md`, *The people of Solsta*. The leg count: **RULED 28 November 2026**, *"Six legs"*. Open: the people's name (waits on a language-design pass), and whether the people has a head.
 
+## S02E13, Lev's cadet chapter — `intake-2026-11-28-s02e13.md`, 28 November 2026 — merged as #2189; nine choices, all RULED 28 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 9 carry eight choices OPEN in `intake-2026-11-28-s02e13-pages.md`
+
+One chapter, *Not Carried*, a coda that closes Undercover Pets. Lev is eighteen and a Cadet in the late summer of 2837, his corps and posting unstated, and whether either animal travels with him unsaid. Muffin is on Eden's pet register and still on its hazard register; Bubochka's certification is unsaid; Barsik is on the rail and his sheet is unanswered. The pages of Lev, Agent Barsik, Muffin, Bubochka and Zhulik are extended in their own pull request, with eight choices for him, each with a recommendation; whether Maud Okoro gets a page is one of them. One chapter image is owed.
+
 ## S09E08, Varn's reposting — `intake-2026-11-27-s09e08.md`, 27 November 2026 — merged as #2181; seven choices, all RULED 27 November 2026 as recommended (*"Yes, as recommended"*); the page updates of choice 7 carry six choices OPEN in `intake-2026-11-27-s09e08-pages.md`
 
 Two chapters, *The Same Day* and *A Different Walk*, a coda to Young Star Rangers. Choice 1 is where Varn is sent: a watch that is not Eden's, on a station the prose does not name. The others are the sixteenth Deputy's name (none), how far the story is paid (not told), Smith's last word, Noah's *Iklix* to the tab, the titles, and the page updates. The pages of Iklix Varn, Zoe Smith and Noah Adeyemi are extended in their own pull request, with six choices for him, each with a recommendation.
@@ -7880,6 +7884,11 @@ recommended), when it lands on the page (a cadet chapter around 2837
 recommended), and whether either animal travels with him (unruled).
 **Ruled the same evening, verbatim *Approved*:** all three as recommended.
 Nothing open until a thread reaches the year.
+**ANSWERED 28 November 2026** by S02E13C01 *Not Carried* (#2189): in the
+late summer of 2837 he is eighteen and holds Cadet standing. The corps
+stays unstated and the animals stay unsaid, by his rulings on choices 3 and
+4 of `intake-2026-11-28-s02e13.md`. His page carries it as of
+`intake-2026-11-28-s02e13-pages.md`.
 
 ## The first chapter outside the local archecluster, and Aoife's death — `intake-2026-10-05.md`, second section — APPROVED same session
 

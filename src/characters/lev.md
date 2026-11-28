@@ -3,15 +3,15 @@ layout: character.njk
 title: "Lev Saunders"
 id: lev
 species: Human
-role: "Resident, Eden Space Habitat — a boy of about eight, keeper of one cat and, on an application in the compliance queue, of Muffin"
+role: "Cadet, Star Rangers, eighteen in the late summer of 2837 UCSD — on Eden Space Habitat from the spring of 2827, when he was a boy of about eight with one cat"
 status: Active
 image: "lev.jpg"
 image_alt: "Lev Saunders grown, a man of about thirty with short brown hair in a grey jumper, crouched at a pale fitted water trough on an Eden ring terrace, his hand in the water beside a single strawberry plant with one red fruit, his eyes on it; behind him the green planted terraces climb and curve upward, a low pale tending robot works the beds, and a few people are far off."
 aliases:
   - "the boy with the cat"
   - "the boy with the wrong rabbit"
-tags: [human, eden, resident, terraces, undercover-pets.com, season-2]
-description: "A boy of about eight who came aboard Eden with his mother and a cat in the spring of 2827, asked a rabbit where the cat had gone and was taken seriously by one, and in late summer picked up the thing by the Deck 7 galley door that a whole deck could not stop feeding, told it no in front of everybody, and carried it home in the detective's carrier, a hyper-sealed electrostatic holding capsule."
+tags: [human, eden, resident, star-rangers, cadet, terraces, undercover-pets.com, season-2]
+description: "A boy of about eight who came aboard Eden with his mother and a cat in the spring of 2827, asked a rabbit where the cat had gone and was taken seriously by one, and in late summer picked up the thing by the Deck 7 galley door that a whole deck could not stop feeding, told it no in front of everybody, and carried it home in the detective's carrier, a hyper-sealed electrostatic holding capsule. Ten years on, in the late summer of 2837, he is eighteen, a Cadet of the Star Rangers reading a manifest at a ramp on Eden's transfer dock, where he says no again and this time it costs him."
 ---
 
 Lev Saunders is the only person on Eden who has ever asked a rabbit for help and had it work twice.
@@ -40,6 +40,16 @@ Every child on Eden is given a runner of the Eden strawberry in their first summ
 
 Every Eden strawberry on the terraces died. His did not. In the sixth week the Committee's chair, [Tomas Brennock](/star-rangers/characters/tomas-brennock/), came to the door and asked for a runner, once, and waited, and Lev gave him the one with the most leaves, and told him to change the water every morning. See [Sixty-Eight in a Hundred (S02E11C01)](/star-rangers/seasons/s02/e11/s02e11c01/).
 
+## Not Carried
+
+In the late summer of 2837 UCSD he is eighteen and holds Cadet standing in the Star Rangers. He wears the Rangers' shell with two bars on the tab, and the second bar is new. That day he read the manifest at the ramp of a Rangers' supply shuttle loading at Eden's transfer dock, under the shuttle's quartermaster, who gave him the job in two sentences: everything on the list goes, and nothing else does. The ramp is the Rangers' and the dock is Eden's, with a line across the floor between them. He has lived on the dock's side of that line since he was eight.
+
+A cup came up the loading chain between a case of filters and the mail, sent by a child for her sister on a station. A cloth was tied over it, and three leaves came through a hole in the cloth. It was a rooted runner of the Eden strawberry, and he knew the leaf: by his own reckoning the strawberries on the terraces had all come off the plant he kept on a windowsill at eight. Every hand that passed the cup was kind. It was not on the list. His hand had already started to take it, as it had gone towards his pocket once on a walkway. He stopped it, and it was harder to stop than he remembered. He said *no* out loud, in front of everybody, and then said what it was a no to: *It isn't on the list.* It took about four seconds, and he was in them by himself.
+
+The manifest has a column headed *Carried* and a narrow one beside it headed *Not carried*, which does not ask why. In all the lists he had read, nothing had been written in the narrow one. He wrote in it: *One cup. One plant.* Then he put the case to the quartermaster once, in order, and waited. She gave him a form of four boxes: *what it is, who sends it, who it is for, who will meet it.* It goes to whoever writes the next list. He found the boxes in the right order. He sent the cup back down the chain with the form, and every hand was as careful with it going down as it had been coming up.
+
+When the shuttle had closed he stepped over the line. The child had filled in all four boxes, in capitals. He told her he would hand the form in, that he did not write the list and did not know if it would go, and that it was more likely than not. She told him to change the water every morning, and he agreed. Whether the plant went on a later shuttle is not recorded. See [Not Carried (S02E13C01)](/star-rangers/seasons/s02/e13/s02e13c01/).
+
 ## What He Declines
 
 He does not ask a question twice. Each time he has put a case to somebody, he has said it once, in order, and waited.
@@ -52,6 +62,8 @@ He does not give things to things that ask. His hand went towards his pocket on 
 
 The record holds him from three rooms, and in each one he is the person who does the plain thing the adults in the room have talked themselves out of: naming the cat to a Superintendent, taking a joke as an instruction, picking up an animal that is where it should not be. Barsik's file has him as the deck's answer to a problem the file had said needed courage, and did not: he had not yet learned the small yes, so refusing cost him nothing and nobody thought it rude. The doctrine line that followed ends *he is eight, he has a cat, and he is not ours.*
 
-His mother is on the record twice and unnamed: filling in something at a fold-down table, and explaining, with the calm of a woman who has explained it before, what the cat's name means. Where his family came from, what they do on Eden, and who read to him are not established. The cat has been told to keep the berth door shut, and the boot is still where it always was.
+Ten years on the same file corrects that line. From the rail above the dock his hand could be seen to go out, and he stopped it and said the word, and it cost him what it costs anybody. The corrected line reads *He is eighteen, he has a cat, and he is theirs.*
+
+His mother is on the record twice and unnamed: filling in something at a fold-down table, and explaining, with the calm of a woman who has explained it before, what the cat's name means. Where his family came from, what they do on Eden, and who read to him are not established. Nor are the corps he joined, where and for how long he was a Novice, and where he is posted. The cat has been told to keep the berth door shut, and the boot is still where it always was.
 
 See also: [Zhulik](/star-rangers/characters/zhulik/), [Bubochka](/star-rangers/characters/bubochka/), [Knopka](/star-rangers/characters/knopka/), [Muffin](/star-rangers/characters/muffin/), [Kate Ukrainka](/star-rangers/characters/kate-ukrainka/), [Detective Marisol Achebe](/star-rangers/characters/marisol-achebe/), [Eden Space Habitat](/star-rangers/lore/eden-space-habitat/).

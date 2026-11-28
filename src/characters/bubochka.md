@@ -31,6 +31,10 @@ In the autumn of 2828 UCSD she was still Barsik's trainee on the bureau floor. H
 
 Barsik had thought of telling her to watch that form when it first went out, and had decided that such a thing is better found than told ([A Very Ordinary Call (S02E01C03)](/star-rangers/seasons/s02/e01/s02e01c03/)).
 
+## The Bin at the End of the Dock
+
+In the late summer of 2837 UCSD Barsik's file, kept that day from the gantry above Eden's transfer dock, has two sentences of a rabbit: *The rabbit was on the bin at the end of the dock. He had not sent her.* The file gives her no name there ([Not Carried (S02E13C01)](/star-rangers/seasons/s02/e13/s02e13c01/)). The last standing the record gives Bubochka is the one above, of the autumn of 2828.
+
 ## Character Notes
 
 Her own [Smart Pet](/star-rangers/glossary/smart-pet/) certification is still provisional — training status, in the same sense a Ranger cadet's rank is provisional — but the welfare regulation attached to it is not; a trainee's subsystem gets reviewed at least as closely as a fully certified agent's, on the theory that a subsystem still being calibrated is exactly the one most likely to need catching early.
